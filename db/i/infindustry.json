@@ -1,6 +1,92 @@
 {
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
+  "Achievements": [
+    {
+      "ID": "Builder",
+      "SetID": "82ojhod",
+      "Name": "Builder",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Cook",
+      "SetID": "82ojhod",
+      "Name": "Cook",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Crafter",
+      "SetID": "82ojhod",
+      "Name": "Crafter",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Defender",
+      "SetID": "82ojhod",
+      "Name": "Defender",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "GGEZ",
+      "SetID": "82ojhod",
+      "Name": "GGEZ",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Harvester",
+      "SetID": "82ojhod",
+      "Name": "Harvester",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Healer",
+      "SetID": "82ojhod",
+      "Name": "Healer",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Rep1",
+      "SetID": "82ojhod",
+      "Name": "Rep1",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "Rep2",
+      "SetID": "82ojhod",
+      "Name": "Rep2",
+      "Percentage": 0,
+      "XP": 160
+    },
+    {
+      "ID": "Rep3",
+      "SetID": "82ojhod",
+      "Name": "Rep3",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "Researcher",
+      "SetID": "82ojhod",
+      "Name": "Researcher",
+      "Percentage": 0,
+      "XP": 120
+    },
+    {
+      "ID": "Workforce",
+      "SetID": "82ojhod",
+      "Name": "Workforce",
+      "Percentage": 100,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +96,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:18:13.8733343+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:03:19.3941577+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:02.3263384+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:19.3941547+00:00",
-  "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:13.8733459+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:59.6540414+00:00",
+  "AchievementSets": [
+    {
+      "ID": "82ojhod",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00"
 }

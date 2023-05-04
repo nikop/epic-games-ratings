@@ -1,6 +1,7 @@
 {
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -219,14 +220,18 @@
       "Rating": 4.87
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:20.1740226+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:38.0821551+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:37.1193881+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-01-25T20:57:07.1663705+00:00",
+  "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 21,
   "NumberOfAwards": 21,
@@ -238,6 +243,5 @@
   "Ranking_PopularitySum": 478,
   "Ranking_Popularity": 478,
   "Ranking_Rating": 24,
-  "Rating": 4.87,
-  "FirstSeen": "2022-07-22T20:18:55.4349563+00:00"
+  "Rating": 4.87
 }

@@ -1,6 +1,106 @@
 {
   "ID": "99bfc8626efc488387233eb9ff427373",
   "Name": "Crimson Spires",
+  "Achievements": [
+    {
+      "ID": "BigChoice",
+      "SetID": "5akl69",
+      "Name": "Big Decision",
+      "Percentage": 100,
+      "XP": 100
+    },
+    {
+      "ID": "BrokenTrust",
+      "SetID": "5akl69",
+      "Name": "Broken Trust",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "DiscoverVamps",
+      "SetID": "5akl69",
+      "Name": "What sharp teeth you have!",
+      "Percentage": 100,
+      "XP": 50
+    },
+    {
+      "ID": "DungeonDespair",
+      "SetID": "5akl69",
+      "Name": "Despair in the Dungeon",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "FinalDecision",
+      "SetID": "5akl69",
+      "Name": "Final Decision",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "Heartlifter",
+      "SetID": "5akl69",
+      "Name": "Heartlifter",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Human",
+      "SetID": "5akl69",
+      "Name": "I am Human",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "JulianJoy",
+      "SetID": "5akl69",
+      "Name": "Joy with Julian",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "LiamLiberate",
+      "SetID": "5akl69",
+      "Name": "Liam\u0027s Liberation",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "LoveAll",
+      "SetID": "5akl69",
+      "Name": "I Love Them All",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "MadRisk",
+      "SetID": "5akl69",
+      "Name": "A Risk Too Great",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "MaddyEnd",
+      "SetID": "5akl69",
+      "Name": "Maddy\u0027s Town",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "VampTurn",
+      "SetID": "5akl69",
+      "Name": "We Drink Life",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "WeakHeart",
+      "SetID": "5akl69",
+      "Name": "Weak at Heart",
+      "Percentage": 0,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +110,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 14,
+  "LastChanged_Achievements": "2023-05-04T19:14:53.5394765+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T18:03:10.5470256+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:09.1639515+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:03:10.5470224+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:45:22.8919686+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:53.539506+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:07.6097238+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5akl69",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-25T20:45:22.8919686+00:00"
 }

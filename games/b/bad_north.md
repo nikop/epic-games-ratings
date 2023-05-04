@@ -1,10 +1,9 @@
 # Bad North
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 859  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

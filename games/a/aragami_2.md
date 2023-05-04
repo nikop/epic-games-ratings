@@ -1,10 +1,53 @@
 # Aragami 2
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 88  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Awakening | 92.00 |
+| First Steps | 81.00 |
+| Control the Shadows | 68.00 |
+| Tools of the Trade | 63.00 |
+| Apprentice | 60.00 |
+| Secret Seeker | 57.00 |
+| Forge of Assassins | 55.00 |
+| Revenant | 51.00 |
+| I don’t Care! | 45.00 |
+| Bird of Prey | 37.00 |
+| Engraved with Power | 32.00 |
+| Lady | 30.00 |
+| Fashionable Assassin | 27.00 |
+| Apex Predator | 24.00 |
+| Soul Reaver | 22.00 |
+| Embers | 21.00 |
+| Wall Lizard | 20.00 |
+| Clinging to Life | 18.00 |
+| Burning | 17.00 |
+| Look Behind You | 16.00 |
+| Sleeping on the Job | 16.00 |
+| Family | 14.00 |
+| War Engines | 14.00 |
+| Signature Move | 14.00 |
+| Ruse | 11.00 |
+| Master Ninja | 10.00 |
+| Hatching | 9.00 |
+| Bonds | 9.00 |
+| Denouement | 8.00 |
+| Get Over Here | 8.00 |
+| The Hidden Village | 8.00 |
+| A Pleasant Stay | 8.00 |
+| Pilgrimage | 7.00 |
+| The Lookout | 5.00 |
+| The Spirit of Vengeance | 5.00 |
+| Left Behind | 4.00 |
+| Secrets of the Earth | 4.00 |
+| Hollow | 4.00 |
+| The Lion’s Den | 3.00 |
+| Heart of Fire | 3.00 |
+| Forest Spirits | 3.00 |
+| Legacy | 2.00 |
+| Hot Potato | 1.00 |
+| Anger Management | 1.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31,686 (Ranked 80)  
 Completed: 146 (0.46%) (Ranked 100)  
@@ -21,9 +64,6 @@ Completed: 146 (0.46%) (Ranked 100)
 | 2023-05-02 | 31,592 | 145 |
 | 2023-05-03 | 31,641 | 146 |
 | 2023-05-04 | 31,686 | 146 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

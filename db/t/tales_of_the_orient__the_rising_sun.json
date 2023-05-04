@@ -1,6 +1,120 @@
 {
   "ID": "abb92d3abb7a40e7b05b473759947382",
   "Name": "Tales of the Orient: The Rising Sun",
+  "Achievements": [
+    {
+      "ID": "TALES_1",
+      "SetID": "c5idb6k",
+      "Name": "Good Start",
+      "Percentage": 75,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_10",
+      "SetID": "c5idb6k",
+      "Name": "10 Hours!",
+      "Percentage": 17,
+      "XP": 90
+    },
+    {
+      "ID": "TALES_11",
+      "SetID": "c5idb6k",
+      "Name": "I can\u0027t stop playing!",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "TALES_12",
+      "SetID": "c5idb6k",
+      "Name": "Constructor",
+      "Percentage": 75,
+      "XP": 150
+    },
+    {
+      "ID": "TALES_13",
+      "SetID": "c5idb6k",
+      "Name": "Happy Ending",
+      "Percentage": 75,
+      "XP": 100
+    },
+    {
+      "ID": "TALES_2",
+      "SetID": "c5idb6k",
+      "Name": "Keep Going",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_3",
+      "SetID": "c5idb6k",
+      "Name": "10 is good!",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_4",
+      "SetID": "c5idb6k",
+      "Name": "One-quarter mark",
+      "Percentage": 33,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_5",
+      "SetID": "c5idb6k",
+      "Name": "Half way!",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_6",
+      "SetID": "c5idb6k",
+      "Name": "Almost there!",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_7",
+      "SetID": "c5idb6k",
+      "Name": "You did it!",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_8",
+      "SetID": "c5idb6k",
+      "Name": "1 Hour!",
+      "Percentage": 50,
+      "XP": 30
+    },
+    {
+      "ID": "TALES_9",
+      "SetID": "c5idb6k",
+      "Name": "5 Hours!",
+      "Percentage": 17,
+      "XP": 30
+    },
+    {
+      "ID": "TALES_CHAIN",
+      "SetID": "c5idb6k",
+      "Name": "Chain Mode",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_POP",
+      "SetID": "c5idb6k",
+      "Name": "Pop Mode",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "TALES_SWAP",
+      "SetID": "c5idb6k",
+      "Name": "Swap Mode",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +136,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 16,
+  "LastChanged_Achievements": "2023-05-04T19:15:08.1330384+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T19:00:09.530927+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:10.2517899+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:09.5309233+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:08.1330531+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:08.8165198+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c5idb6k",
+      "IsBase": true,
+      "Progressed": 12,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
+  "FirstSeen": "2023-04-15T20:58:43.6104353+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 300,
-  "FirstSeen": "2023-04-15T20:58:43.6104353+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00"
 }

@@ -4,7 +4,46 @@ Number of Ratings: 54  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 46  (Ranked 396)  
 Sum: 46 (Ranked 435)  
-Diff (max vs sum): -39
+Diff (max vs sum): -39  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Atom Agent | 99.00 |
+| Wanderer | 36.00 |
+| One HIT wonder | 34.00 |
+| One shot, one kill | 30.00 |
+| Traveler | 26.00 |
+| Head Burst | 20.00 |
+| Explorer | 19.00 |
+| Grave Robber | 18.00 |
+| Double agent | 14.00 |
+| Paranoia | 14.00 |
+| Kraina Grzybow | 9.00 |
+| Love Guru | 9.00 |
+| Savant | 9.00 |
+| Not-so-private Eye | 8.00 |
+| Superhuman | 8.00 |
+| Bustin' nuts | 7.00 |
+| The Vitinsky Rifle | 7.00 |
+| Protection racket | 5.00 |
+| Secret room | 5.00 |
+| Indy | 4.00 |
+| Sacrifice | 4.00 |
+| Career criminal | 2.00 |
+| Wishmaster | 2.00 |
+| Neanderthal | 1.00 |
+| It was worth a shot | 1.00 |
+| Cosmic Horror | 1.00 |
+| Ghostbuster | 0.90 |
+| Tourist Korallov | 0.70 |
+| Cheeki Breeki | 0.50 |
+| It's a classic! | 0.50 |
+| Expert | 0.50 |
+| Comrade Yogi | 0.40 |
+| Mystical relics | 0.30 |
+| 27 Club | 0.00 |
+| No Name, No Slogan | 0.00 |
+| Pacifist | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 759 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 191)  

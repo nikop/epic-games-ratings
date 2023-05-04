@@ -1,20 +1,31 @@
 {
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:25.5219752+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:27.4240274+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:50.3790213+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:27.4240254+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:25.52198+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:48.7700186+00:00",
+  "AchievementSets": [
+    {
+      "ID": "aemieak",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00"
 }

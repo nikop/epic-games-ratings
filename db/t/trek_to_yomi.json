@@ -1,6 +1,7 @@
 {
   "ID": "2d2a077b8b7f450299ecd7068256aec4",
   "Name": "Trek to Yomi",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -29,17 +30,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:36.7265803+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:43.3653501+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:11.4718292+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:43.3653484+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:36.726585+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:10.4358322+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8jncpkk",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T15:59:29.585454+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:44.0276808+00:00",
   "FirstSeenRating": "2022-11-05T21:02:46.105009+00:00",
+  "FirstSeen": "2022-07-22T20:32:48.9516719+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -50,5 +61,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 794,
   "Rating": 4.22,
-  "FirstSeen": "2022-07-22T20:32:48.9516719+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:44.0276808+00:00"
 }

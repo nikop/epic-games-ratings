@@ -1,6 +1,183 @@
 {
   "ID": "19428f80ed53434f91e89f69ce7767d3",
   "Name": "Troublemaker",
+  "Achievements": [
+    {
+      "ID": "tbm_a_1",
+      "SetID": "aijfp1i",
+      "Name": "Troublemaker",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_10",
+      "SetID": "aijfp1i",
+      "Name": "I\u0027m the One Who Can Fight",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_11",
+      "SetID": "aijfp1i",
+      "Name": "It\u0027s All About Respect!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_12",
+      "SetID": "aijfp1i",
+      "Name": "The End of Tournament",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_13",
+      "SetID": "aijfp1i",
+      "Name": "Our Past",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_14",
+      "SetID": "aijfp1i",
+      "Name": "Cipta Wiyata Psycho",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_15",
+      "SetID": "aijfp1i",
+      "Name": "There Ain\u0027t No Secrets Anymore",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_16",
+      "SetID": "aijfp1i",
+      "Name": "Cipta Wiyata Last Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_17",
+      "SetID": "aijfp1i",
+      "Name": "Reunion",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "tbm_a_18",
+      "SetID": "aijfp1i",
+      "Name": "Fist of Steel",
+      "Percentage": 100,
+      "XP": 100
+    },
+    {
+      "ID": "tbm_a_19",
+      "SetID": "aijfp1i",
+      "Name": "Half Cyborg",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "tbm_a_2",
+      "SetID": "aijfp1i",
+      "Name": "First Day of the School",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_20",
+      "SetID": "aijfp1i",
+      "Name": "They Gonna Need Another Pants",
+      "Percentage": 100,
+      "XP": 50
+    },
+    {
+      "ID": "tbm_a_21",
+      "SetID": "aijfp1i",
+      "Name": "Easy Peasy!",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "tbm_a_22",
+      "SetID": "aijfp1i",
+      "Name": "Hey Look! I\u0027m Smart!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "tbm_a_23",
+      "SetID": "aijfp1i",
+      "Name": "Another Man Trash Is Another Man Treasure",
+      "Percentage": 100,
+      "XP": 40
+    },
+    {
+      "ID": "tbm_a_24",
+      "SetID": "aijfp1i",
+      "Name": "Break Their Bones",
+      "Percentage": 100,
+      "XP": 40
+    },
+    {
+      "ID": "tbm_a_25",
+      "SetID": "aijfp1i",
+      "Name": "One Man Army",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "tbm_a_3",
+      "SetID": "aijfp1i",
+      "Name": "They Pick the Wrong Guy",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_4",
+      "SetID": "aijfp1i",
+      "Name": "Flying Broom",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_5",
+      "SetID": "aijfp1i",
+      "Name": "Can\u0027t Escape My Past",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_6",
+      "SetID": "aijfp1i",
+      "Name": "War Has Been Declared",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_7",
+      "SetID": "aijfp1i",
+      "Name": "Go With the Flow",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_8",
+      "SetID": "aijfp1i",
+      "Name": "Don\u0027t Ruin My Lunch Date",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "tbm_a_9",
+      "SetID": "aijfp1i",
+      "Name": "Not Just Lucky",
+      "Percentage": 0,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +194,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 25,
+  "LastChanged_Achievements": "2023-05-04T19:19:09.1031449+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:04:17.7850509+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:44.2951233+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:17.7850485+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:09.1031622+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:41.9883871+00:00",
+  "AchievementSets": [
+    {
+      "ID": "aijfp1i",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00",
   "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
+  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
-  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00"
 }

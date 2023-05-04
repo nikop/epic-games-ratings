@@ -1,20 +1,116 @@
 {
   "ID": "2bf780871f4e416bac3e454d03d5ac71",
   "Name": "The Cullfield Ritual",
+  "Achievements": [
+    {
+      "ID": "BAD_ENDING",
+      "SetID": "4jdb0nm",
+      "Name": "Purgatory",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "BEAT_DEV",
+      "SetID": "4jdb0nm",
+      "Name": "Dethroned",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "BEAT_PROLOGUE",
+      "SetID": "4jdb0nm",
+      "Name": "A Fever Dream",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "CANDLE_DEATH",
+      "SetID": "4jdb0nm",
+      "Name": "Too Slow",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "CAUGHT_IN_LOCKED",
+      "SetID": "4jdb0nm",
+      "Name": "Nice Try",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "CAUGHT_UNDER_BED",
+      "SetID": "4jdb0nm",
+      "Name": "I See You",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "GET_CAUGHT",
+      "SetID": "4jdb0nm",
+      "Name": "Meet The Pilgrim",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "GOOD_ENDING",
+      "SetID": "4jdb0nm",
+      "Name": "Reunited",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "NO_DEATHS",
+      "SetID": "4jdb0nm",
+      "Name": "Unscathed",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "NO_SPRINTING",
+      "SetID": "4jdb0nm",
+      "Name": "Turtle Mode",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "SECRET_ENDING",
+      "SetID": "4jdb0nm",
+      "Name": "G.O.A.T",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "SPIRIT_REALM_LIMIT",
+      "SetID": "4jdb0nm",
+      "Name": "Shy",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:18:51.5771164+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:59.2071335+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:28.8996074+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:59.2071313+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:34.5395291+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:51.5771267+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:27.1266156+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4jdb0nm",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:49:34.5395291+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "c4a39e8e304c4356afcddd79820b223d",
   "Name": "DEMON\u0027S TILT",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -451,16 +452,26 @@
       "Rating": 4.51
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:17:16.319883+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:38.7858035+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:36.5237359+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:38.7858019+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:16.319888+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:35.4077906+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2a55amo",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-01-31T02:11:38.893397+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:02.6473258+00:00",
+  "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 21,
   "NumberOfAwards": 21,
@@ -473,5 +484,5 @@
   "Ranking_Popularity": 478,
   "Ranking_Rating": 513,
   "Rating": 4.51,
-  "FirstSeen": "2022-07-22T20:18:30.3918213+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:02.6473258+00:00"
 }

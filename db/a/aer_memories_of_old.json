@@ -1,6 +1,148 @@
 {
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
+  "Achievements": [
+    {
+      "ID": "COMPLETED_MAP",
+      "SetID": "b6m2mm5",
+      "Name": "Cartographer",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "DOWN_THE_WELL",
+      "SetID": "b6m2mm5",
+      "Name": "Ripples on the surface",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "EAST_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Knowledge for Power",
+      "Percentage": 15,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_BATTLEFIELD",
+      "SetID": "b6m2mm5",
+      "Name": "Memorial",
+      "Percentage": 9,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_BIG_SKELETON",
+      "SetID": "b6m2mm5",
+      "Name": "In the belly of the beast",
+      "Percentage": 12,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_BIRDSHRINE",
+      "SetID": "b6m2mm5",
+      "Name": "Condor condo",
+      "Percentage": 11,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_CRAB_ISLAND",
+      "SetID": "b6m2mm5",
+      "Name": "An uninvited guest",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_CRANE_STATUE",
+      "SetID": "b6m2mm5",
+      "Name": "Wings of Stone",
+      "Percentage": 12,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_DEER_STATUE",
+      "SetID": "b6m2mm5",
+      "Name": "Antlers of Stone",
+      "Percentage": 16,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_ERIN",
+      "SetID": "b6m2mm5",
+      "Name": "Hide and Seek",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_FOX_STATUE",
+      "SetID": "b6m2mm5",
+      "Name": "Tails of Stone",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_MAMBA",
+      "SetID": "b6m2mm5",
+      "Name": "Baa from the past",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_RIFT_CAVE",
+      "SetID": "b6m2mm5",
+      "Name": "Gaze into the abyss",
+      "Percentage": 14,
+      "XP": 50
+    },
+    {
+      "ID": "FOUND_STONE_MAP",
+      "SetID": "b6m2mm5",
+      "Name": "Written in stone",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "GAME_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Equilibrium",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "INTRO_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Light at the end of the tunnel",
+      "Percentage": 76,
+      "XP": 50
+    },
+    {
+      "ID": "LAMBABY_LOVE",
+      "SetID": "b6m2mm5",
+      "Name": "Mama?",
+      "Percentage": 28,
+      "XP": 50
+    },
+    {
+      "ID": "NORTH_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Mausoleum of Ice",
+      "Percentage": 14,
+      "XP": 50
+    },
+    {
+      "ID": "TALK_TO_SPIRIT_ANIMALS",
+      "SetID": "b6m2mm5",
+      "Name": "Talk to all the spirit animals",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "WEST_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "People\u0027s Haven",
+      "Percentage": 19,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1363,16 +1505,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 2.3,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 20,
+  "LastChanged_Achievements": "2023-05-04T19:19:58.1559831+00:00",
   "EOS_NewCompleters": 18,
   "EOS_NewPlayers": 593,
   "EOS_Completed": 195,
   "EOS_Progressed": 8476,
-  "LastUpdate_Achievements": "2023-05-04T19:05:07.3469354+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:33.6821048+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:07.3469273+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:58.1560031+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:30.2251133+00:00",
+  "AchievementSets": [
+    {
+      "ID": "b6m2mm5",
+      "IsBase": true,
+      "Progressed": 8476,
+      "Completed": 195
+    }
+  ],
+  "EOS_Completed_Percentage": 2.3,
   "LastChanged": "2023-04-06T11:58:32.7016297+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
+  "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 170,
@@ -1384,5 +1536,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 590,
   "Rating": 4.46,
-  "FirstSeen": "2022-07-22T20:31:57.2410231+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00"
 }

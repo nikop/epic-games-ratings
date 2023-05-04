@@ -1,6 +1,7 @@
 {
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2007,14 +2008,18 @@
       "NumberOfAwardsMax": 202
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:03.5094112+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:32.8602977+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:29.4232509+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T14:00:31.2549748+00:00",
+  "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 202,
   "NumberOfAwards": 1017,
@@ -2026,6 +2031,5 @@
   "Ranking_PopularitySum": 227,
   "Ranking_Popularity": 255,
   "Ranking_Rating": 794,
-  "Rating": 4.22,
-  "FirstSeen": "2022-07-22T20:30:37.8027761+00:00"
+  "Rating": 4.22
 }

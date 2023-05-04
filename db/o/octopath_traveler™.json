@@ -1,6 +1,7 @@
 {
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -414,14 +415,18 @@
       "NumberOfAwardsMax": 116
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:42.4325647+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:10.0811024+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:09.322109+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-15T22:57:43.4568796+00:00",
+  "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 116,
   "NumberOfAwards": 116,
@@ -433,6 +438,5 @@
   "Ranking_PopularitySum": 388,
   "Ranking_Popularity": 305,
   "Ranking_Rating": 91,
-  "Rating": 4.79,
-  "FirstSeen": "2022-07-22T20:21:15.1292703+00:00"
+  "Rating": 4.79
 }

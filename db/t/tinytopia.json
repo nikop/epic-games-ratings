@@ -1,6 +1,7 @@
 {
   "ID": "5f3d58af886e4cf98a8f9e87ad9d2e2b",
   "Name": "Tinytopia",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:10.4853911+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:19.4110314+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:50.2502385+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:19.4110294+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:10.4853959+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:47.6186123+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8083oke",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:45.0651026+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:08.2228983+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.0651025+00:00",
+  "FirstSeen": "2022-07-22T20:24:01.5764989+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:24:01.5764989+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:08.2228983+00:00"
 }

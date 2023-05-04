@@ -1,6 +1,232 @@
 {
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
+  "Achievements": [
+    {
+      "ID": "ADMIRAL",
+      "SetID": "62d2oh4",
+      "Name": "Admiral",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "ALBINO_BLOODSUCKER",
+      "SetID": "62d2oh4",
+      "Name": "Albino Bloodsucker",
+      "Percentage": 1,
+      "XP": 35
+    },
+    {
+      "ID": "ATOM_KVAS",
+      "SetID": "62d2oh4",
+      "Name": "Atomic Soda",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "ATOM_QUIT",
+      "SetID": "62d2oh4",
+      "Name": "Goodbye ATOM",
+      "Percentage": 0.2,
+      "XP": 25
+    },
+    {
+      "ID": "BRONZOVKA",
+      "SetID": "62d2oh4",
+      "Name": "Bronzovka",
+      "Percentage": 0.2,
+      "XP": 100
+    },
+    {
+      "ID": "B_E",
+      "SetID": "62d2oh4",
+      "Name": "Baby Eater",
+      "Percentage": 0.4,
+      "XP": 40
+    },
+    {
+      "ID": "COMMANDO",
+      "SetID": "62d2oh4",
+      "Name": "Commando",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "DEATH_OF_THE_AUTHOR",
+      "SetID": "62d2oh4",
+      "Name": "Death of the Author",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ESCALATION_OF_CONFLICT",
+      "SetID": "62d2oh4",
+      "Name": "Escalation of Conflict",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "FIGHT_CLUB",
+      "SetID": "62d2oh4",
+      "Name": "Fight Club",
+      "Percentage": 2,
+      "XP": 35
+    },
+    {
+      "ID": "FREELANCE_POLICE",
+      "SetID": "62d2oh4",
+      "Name": "Freelance Police",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "HOLY_MOUNTAIN",
+      "SetID": "62d2oh4",
+      "Name": "Holy Mountain",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "HOUSEHOLD",
+      "SetID": "62d2oh4",
+      "Name": "Household",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "HUMAN_ANTIDOTE",
+      "SetID": "62d2oh4",
+      "Name": "Human Antidote",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "INCOMPETENCE",
+      "SetID": "62d2oh4",
+      "Name": "Incompetence",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "KGB_BUNKER",
+      "SetID": "62d2oh4",
+      "Name": "KGB Bunker",
+      "Percentage": 0.6,
+      "XP": 50
+    },
+    {
+      "ID": "LOT_49",
+      "SetID": "62d2oh4",
+      "Name": "Lot 49",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "LUCKY_GOOSE",
+      "SetID": "62d2oh4",
+      "Name": "Goose Sacrifice",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "MEMOIRS_OF_A_NIBBLER",
+      "SetID": "62d2oh4",
+      "Name": "Memoirs of a Nibbler",
+      "Percentage": 0.7,
+      "XP": 35
+    },
+    {
+      "ID": "MYST_KNIFE",
+      "SetID": "62d2oh4",
+      "Name": "Mysterious Knife",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "OLD_FRIEND",
+      "SetID": "62d2oh4",
+      "Name": "An Old Friend",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "POSITRONIUM",
+      "SetID": "62d2oh4",
+      "Name": "The Great and Powerful",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "POWER_SIMPLICITY",
+      "SetID": "62d2oh4",
+      "Name": "Power of Simplicity",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "RISING_STAR",
+      "SetID": "62d2oh4",
+      "Name": "Rising Star",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "SECOND_THOUGHT",
+      "SetID": "62d2oh4",
+      "Name": "Second Thought",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "SHADOW_OVER_TRUDOGRAD",
+      "SetID": "62d2oh4",
+      "Name": "Shadow over Trudograd",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "SICK_FREAK",
+      "SetID": "62d2oh4",
+      "Name": "Sick Freak",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "SIXTH_SENSE",
+      "SetID": "62d2oh4",
+      "Name": "Sixth Sense",
+      "Percentage": 0.7,
+      "XP": 20
+    },
+    {
+      "ID": "TERRORIST",
+      "SetID": "62d2oh4",
+      "Name": "Terrorist",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "VIVA_LA_REVOLUTION",
+      "SetID": "62d2oh4",
+      "Name": "Viva La Revolution",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "WALKING_FORTRESS",
+      "SetID": "62d2oh4",
+      "Name": "Walking Fortress",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "WELCOME_TO_TRUDOGRAD",
+      "SetID": "62d2oh4",
+      "Name": "Fresh Prince of Trudograd",
+      "Percentage": 87,
+      "XP": 5
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -258,17 +484,27 @@
       "NumberOfAwardsMax": 20
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 32,
+  "LastChanged_Achievements": "2023-05-04T19:18:10.1675485+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
   "EOS_Progressed": 1007,
-  "LastUpdate_Achievements": "2023-05-04T19:03:15.7984105+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:05.0457004+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:15.7984074+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:10.1675719+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:02.193823+00:00",
+  "AchievementSets": [
+    {
+      "ID": "62d2oh4",
+      "IsBase": true,
+      "Progressed": 1007,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
+  "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 20,
   "NumberOfAwards": 20,
@@ -280,5 +516,5 @@
   "Ranking_Popularity": 482,
   "Ranking_Rating": 530,
   "Rating": 4.5,
-  "FirstSeen": "2022-11-08T13:31:16.6189198+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "ba4b5cef8c374fcab8b4a7f31b1b8e60",
   "Name": "Dream of Tiny Snow",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:20.3788741+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:22.0795689+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:07.1556865+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:22.0795672+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:20.3788789+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:05.7217402+00:00",
+  "AchievementSets": [
+    {
+      "ID": "dind4c0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-22T15:58:14.1740796+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:36.2096296+00:00",
   "FirstSeenRating": "2023-04-22T15:58:14.1740796+00:00",
+  "FirstSeen": "2023-04-22T15:58:14.174074+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-22T15:58:14.174074+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:36.2096296+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -4933,14 +4934,18 @@
       "NumberOfAwardsMax": 30579
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:17.5148526+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:41.7466564+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:40.649987+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T08:57:37.6860398+00:00",
+  "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 30579,
   "NumberOfAwards": 252860,
@@ -4952,6 +4957,5 @@
   "Ranking_PopularitySum": 10,
   "Ranking_Popularity": 13,
   "Ranking_Rating": 142,
-  "Rating": 4.74,
-  "FirstSeen": "2022-07-22T20:17:50.156423+00:00"
+  "Rating": 4.74
 }

@@ -4,7 +4,56 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 752  (Ranked 148)  
 Sum: 1,549 (Ranked 204)  
-Diff (max vs sum): -56
+Diff (max vs sum): -56  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Manifestation of the Soul | 98.00 |
+| No Escape | 86.00 |
+| Seeker of Power | 85.00 |
+| Hopes and Dreams | 82.00 |
+| Lantern Smasher | 78.00 |
+| The Pirate's Way | 73.00 |
+| Dark Crystal, Warrior's Heart | 71.00 |
+| The King of the Dark Elves | 68.00 |
+| Memories of the Distant Past | 66.00 |
+| Distortion's Progeny | 62.00 |
+| Savant | 62.00 |
+| A Landscape of Memory | 58.00 |
+| The Wind's Light | 54.00 |
+| Vague Remembrances | 49.00 |
+| The Fire's Light | 47.00 |
+| Phantom Memories | 46.00 |
+| Imbued Memories | 46.00 |
+| The Earth's Light | 45.00 |
+| Shared Recollections | 41.00 |
+| Path of the Sage | 40.00 |
+| The Water's Light | 39.00 |
+| Malice Takes Root | 37.00 |
+| Path of the Dark Knight | 37.00 |
+| Path of the Paladin | 36.00 |
+| Path of the Breaker | 36.00 |
+| Duty's Course | 35.00 |
+| Path of the Liberator | 35.00 |
+| Led by the Nose | 34.00 |
+| Path of the Void Knight | 34.00 |
+| Path of the Tyrant | 34.00 |
+| Path of the Ninja | 33.00 |
+| Terminus of Fate | 32.00 |
+| His Name Is Garland | 32.00 |
+| Path of the Assassin | 31.00 |
+| Seeker of Ultimate Power | 23.00 |
+| Artifact Collector | 21.00 |
+| True Potential | 21.00 |
+| Polymath | 21.00 |
+| Origin of True Chaos | 20.00 |
+| Jack-of-All-Trades | 19.00 |
+| Master's Awakening | 18.00 |
+| Cycle of Darkness | 16.00 |
+| Job Master | 8.00 |
+| Crest Bearer | 6.00 |
+| Strangers' Memories | 3.00 |
+| A Tale of Origins and Endings | 2.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77,838 (Ranked 60)  
 Completed: 2,119 (2.72%) (Ranked 49)  

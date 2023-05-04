@@ -1,6 +1,225 @@
 {
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
+  "Achievements": [
+    {
+      "ID": "apprentice_destructor",
+      "SetID": "jig50d",
+      "Name": "Apprentice Destructor",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "avaricerite",
+      "SetID": "jig50d",
+      "Name": "Avaricerite",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "back_from_the_dead",
+      "SetID": "jig50d",
+      "Name": "Back From The Dead",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ball_collector",
+      "SetID": "jig50d",
+      "Name": "Ball Collector",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ball_galore",
+      "SetID": "jig50d",
+      "Name": "Ball Galore",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ball_protector",
+      "SetID": "jig50d",
+      "Name": "Ball Protector",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "bullet_hell",
+      "SetID": "jig50d",
+      "Name": "Bullet Hell",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "collector",
+      "SetID": "jig50d",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "detoxed",
+      "SetID": "jig50d",
+      "Name": "Detoxed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "die",
+      "SetID": "jig50d",
+      "Name": "You Have Been Deaded",
+      "Percentage": 49,
+      "XP": 10
+    },
+    {
+      "ID": "easy_victory",
+      "SetID": "jig50d",
+      "Name": "Easy Victory",
+      "Percentage": 3,
+      "XP": 40
+    },
+    {
+      "ID": "graduation",
+      "SetID": "jig50d",
+      "Name": "Graduation",
+      "Percentage": 69,
+      "XP": 10
+    },
+    {
+      "ID": "i_prefer_fusion_jazz",
+      "SetID": "jig50d",
+      "Name": "I Prefer Jazz Fusion",
+      "Percentage": 11,
+      "XP": 40
+    },
+    {
+      "ID": "ice_breaker",
+      "SetID": "jig50d",
+      "Name": "Ice Breaker",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "legendary_destructor",
+      "SetID": "jig50d",
+      "Name": "Legendary Destructor",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "machine_man",
+      "SetID": "jig50d",
+      "Name": "Machine Man",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "master_destructor",
+      "SetID": "jig50d",
+      "Name": "Master Destructor",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "medium_rare",
+      "SetID": "jig50d",
+      "Name": "Medium Rare",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "monster_of_fashion",
+      "SetID": "jig50d",
+      "Name": "Monster of Fashion",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "mushroom_man",
+      "SetID": "jig50d",
+      "Name": "Mushroom Man",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "nomad",
+      "SetID": "jig50d",
+      "Name": "Nomad",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "rookie",
+      "SetID": "jig50d",
+      "Name": "Rookie",
+      "Percentage": 71,
+      "XP": 5
+    },
+    {
+      "ID": "scrap_collector",
+      "SetID": "jig50d",
+      "Name": "Scrap Collector",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "single_person",
+      "SetID": "jig50d",
+      "Name": "Single Person On Earth",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "ticking_clock",
+      "SetID": "jig50d",
+      "Name": "Ticking Clock",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "total_walrus",
+      "SetID": "jig50d",
+      "Name": "Total Walrus",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "true_victory",
+      "SetID": "jig50d",
+      "Name": "True Victory",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "truest_victory",
+      "SetID": "jig50d",
+      "Name": "Victory That Is Even More True",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "untouchable",
+      "SetID": "jig50d",
+      "Name": "Untouchable",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "weapons",
+      "SetID": "jig50d",
+      "Name": "You Are Actually Supposed To Use Those",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "what_are_you",
+      "SetID": "jig50d",
+      "Name": "What Even Are You?",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -147,22 +366,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 31,
+  "LastChanged_Achievements": "2023-05-04T19:19:46.5978459+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 28,
   "EOS_Completed": 0,
   "EOS_Progressed": 35,
-  "LastUpdate_Achievements": "2023-05-04T19:04:56.1168157+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:22.695493+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:56.1168102+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:46.5978683+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:20.8192702+00:00",
+  "AchievementSets": [
+    {
+      "ID": "jig50d",
+      "IsBase": true,
+      "Progressed": 35,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
+  "FirstSeen": "2023-05-02T17:00:06.0264273+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 280,
-  "FirstSeen": "2023-05-02T17:00:06.0264273+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00"
 }

@@ -1,6 +1,288 @@
 {
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
+  "Achievements": [
+    {
+      "ID": "DD_complete",
+      "SetID": "3b8n56h",
+      "Name": "The Bodyguard",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "GL_complete",
+      "SetID": "3b8n56h",
+      "Name": "The Apprentice",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "InnkeeperQuestlineFirst",
+      "SetID": "3b8n56h",
+      "Name": "Treasure Hunting",
+      "Percentage": 40,
+      "XP": 5
+    },
+    {
+      "ID": "InnkeeperQuestlineLast",
+      "SetID": "3b8n56h",
+      "Name": "Braving Miasma",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "InnkeeperQuestlineThird",
+      "SetID": "3b8n56h",
+      "Name": "Dungeon Mastery",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "LW_complete",
+      "SetID": "3b8n56h",
+      "Name": "The Familiar",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "MC_complete",
+      "SetID": "3b8n56h",
+      "Name": "The Steed",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "MGR_complete",
+      "SetID": "3b8n56h",
+      "Name": "Ancient Nemesis",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "MasterOracleQuestlineFirst",
+      "SetID": "3b8n56h",
+      "Name": "Riddlesolver",
+      "Percentage": 20,
+      "XP": 5
+    },
+    {
+      "ID": "MasterOracleQuestlineLast",
+      "SetID": "3b8n56h",
+      "Name": "Best Pupil",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "MasterOracleQuestlineThird",
+      "SetID": "3b8n56h",
+      "Name": "Oracle Mastery",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "MasterRaiderQuestlineFirst",
+      "SetID": "3b8n56h",
+      "Name": "Friend!",
+      "Percentage": 30,
+      "XP": 5
+    },
+    {
+      "ID": "MasterRaiderQuestlineLast",
+      "SetID": "3b8n56h",
+      "Name": "FOR JUSTICE!",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "MasterRaiderQuestlineThird",
+      "SetID": "3b8n56h",
+      "Name": "Raider Mastery",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "MasterTravelerQuestlineFirst",
+      "SetID": "3b8n56h",
+      "Name": "Setting Off",
+      "Percentage": 35,
+      "XP": 5
+    },
+    {
+      "ID": "MasterTravelerQuestlineLast",
+      "SetID": "3b8n56h",
+      "Name": "Journey\u2019s End",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "MasterTravelerQuestlineThird",
+      "SetID": "3b8n56h",
+      "Name": "Traveler Mastery",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "MasterWardenQuestlineFirst",
+      "SetID": "3b8n56h",
+      "Name": "Uncut Gem",
+      "Percentage": 35,
+      "XP": 5
+    },
+    {
+      "ID": "MasterWardenQuestlineLast",
+      "SetID": "3b8n56h",
+      "Name": "Masterpiece",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "MasterWardenQuestlineThird",
+      "SetID": "3b8n56h",
+      "Name": "Warden Mastery",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "StrangerQuestlineFirst",
+      "SetID": "3b8n56h",
+      "Name": "A Strange Proposition",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "StrangerQuestlineLast",
+      "SetID": "3b8n56h",
+      "Name": "Towards the Future",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "StrangerQuestlineThird",
+      "SetID": "3b8n56h",
+      "Name": "The Plot Thickens",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "all_curios",
+      "SetID": "3b8n56h",
+      "Name": "Trinket Enthusiast",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "any_curio",
+      "SetID": "3b8n56h",
+      "Name": "Might be useful\u2026",
+      "Percentage": 40,
+      "XP": 100
+    },
+    {
+      "ID": "bad_ending",
+      "SetID": "3b8n56h",
+      "Name": "The New Demon Lord",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "bought_rune_clear",
+      "SetID": "3b8n56h",
+      "Name": "Clear as Water",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "cards_discovered_complete",
+      "SetID": "3b8n56h",
+      "Name": "Card Completionist",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "cards_discovered_half",
+      "SetID": "3b8n56h",
+      "Name": "Card Collector",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "demiurge_defeated",
+      "SetID": "3b8n56h",
+      "Name": "The Usurper",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "foil_card",
+      "SetID": "3b8n56h",
+      "Name": "Shine!",
+      "Percentage": 25,
+      "XP": 100
+    },
+    {
+      "ID": "git_gud?",
+      "SetID": "3b8n56h",
+      "Name": "First time?",
+      "Percentage": 5,
+      "XP": 35
+    },
+    {
+      "ID": "harmony_rune",
+      "SetID": "3b8n56h",
+      "Name": "Harmony",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "madking_free",
+      "SetID": "3b8n56h",
+      "Name": "The False Prophet",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ok_ending",
+      "SetID": "3b8n56h",
+      "Name": "Sealed Once Again",
+      "Percentage": 5,
+      "XP": 35
+    },
+    {
+      "ID": "perfect_ending",
+      "SetID": "3b8n56h",
+      "Name": "A New Tomorrow",
+      "Percentage": 5,
+      "XP": 55
+    },
+    {
+      "ID": "portaltraveler_mirrors",
+      "SetID": "3b8n56h",
+      "Name": "ACHOO!",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "scavanger_curios",
+      "SetID": "3b8n56h",
+      "Name": "No Stone Unturned",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "thanks_but_why?",
+      "SetID": "3b8n56h",
+      "Name": "True Drafter",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "the_legend",
+      "SetID": "3b8n56h",
+      "Name": "Gladiator",
+      "Percentage": 5,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -87,22 +369,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 40,
+  "LastChanged_Achievements": "2023-05-04T19:17:30.8285483+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
   "EOS_Progressed": 20,
-  "LastUpdate_Achievements": "2023-05-04T19:02:25.8750272+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:02.4620104+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:25.8750239+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:30.8285785+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:59.7713829+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3b8n56h",
+      "IsBase": true,
+      "Progressed": 20,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
+  "FirstSeen": "2023-04-29T19:56:51.5139174+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 294,
-  "FirstSeen": "2023-04-29T19:56:51.5139174+00:00"
+  "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00"
 }

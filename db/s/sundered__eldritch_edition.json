@@ -1,6 +1,7 @@
 {
   "ID": "ca8077d80493497188e0ca5bca3ebe60",
   "Name": "Sundered: Eldritch Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -313,14 +314,18 @@
       "Rating": 4.59
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:45.0073709+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:14.5043604+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:13.3181865+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-01-23T13:58:21.2043619+00:00",
+  "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 74,
   "NumberOfAwards": 74,
@@ -332,6 +337,5 @@
   "Ranking_PopularitySum": 409,
   "Ranking_Popularity": 351,
   "Ranking_Rating": 395,
-  "Rating": 4.59,
-  "FirstSeen": "2022-07-22T20:32:53.2112197+00:00"
+  "Rating": 4.59
 }

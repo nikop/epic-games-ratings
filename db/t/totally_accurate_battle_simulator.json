@@ -1,6 +1,7 @@
 {
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -2288,14 +2289,18 @@
       "NumberOfAwardsMax": 324
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:14.4683645+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:45.6663243+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:43.3443848+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T13:04:50.0777284+00:00",
+  "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 324,
   "NumberOfAwards": 2826,
@@ -2307,6 +2312,5 @@
   "Ranking_PopularitySum": 153,
   "Ranking_Popularity": 214,
   "Ranking_Rating": 113,
-  "Rating": 4.76,
-  "FirstSeen": "2022-07-22T20:25:14.6922177+00:00"
+  "Rating": 4.76
 }

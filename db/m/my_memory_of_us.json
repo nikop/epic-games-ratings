@@ -1,6 +1,7 @@
 {
   "ID": "d3f41883d30045c08314a8c9d1742d03",
   "Name": "My Memory of Us",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:22.2701142+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:31.2734883+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:01.3923463+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:31.2734869+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:22.270118+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:59.1531009+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4837d1k",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:25.9984626+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:35.8514494+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9984625+00:00",
+  "FirstSeen": "2022-09-04T16:30:54.1700319+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-09-04T16:30:54.1700319+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:35.8514494+00:00"
 }

@@ -1,6 +1,148 @@
 {
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
+  "Achievements": [
+    {
+      "ID": "Challenge 01",
+      "SetID": "5n829i",
+      "Name": "Challenge 01",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 02",
+      "SetID": "5n829i",
+      "Name": "Challenge 02",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 03",
+      "SetID": "5n829i",
+      "Name": "Challenge 03",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 04",
+      "SetID": "5n829i",
+      "Name": "Challenge 04",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 05",
+      "SetID": "5n829i",
+      "Name": "Challenge 05",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 06",
+      "SetID": "5n829i",
+      "Name": "Challenge 06",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 07",
+      "SetID": "5n829i",
+      "Name": "Challenge 07",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 08",
+      "SetID": "5n829i",
+      "Name": "Challenge 08",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 09",
+      "SetID": "5n829i",
+      "Name": "Challenge 09",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 10",
+      "SetID": "5n829i",
+      "Name": "Challenge 10",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 11",
+      "SetID": "5n829i",
+      "Name": "Challenge 11",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "Challenge 12",
+      "SetID": "5n829i",
+      "Name": "Challenge 12",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "Destroy 25 Obstacles",
+      "SetID": "5n829i",
+      "Name": "Destroyed 25 Obstacles",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "Obtain 50 PowerUps",
+      "SetID": "5n829i",
+      "Name": "Obtained 50 PowerUps",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "Poosh Past 10000",
+      "SetID": "5n829i",
+      "Name": "Pooshed Past 10000",
+      "Percentage": 25,
+      "XP": 100
+    },
+    {
+      "ID": "Poosh Past 2500",
+      "SetID": "5n829i",
+      "Name": "Pooshed Past 2500",
+      "Percentage": 75,
+      "XP": 25
+    },
+    {
+      "ID": "Poosh Past 5000",
+      "SetID": "5n829i",
+      "Name": "Pooshed Past 5000",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "Poosh Past 7500",
+      "SetID": "5n829i",
+      "Name": "Pooshed Past 7500",
+      "Percentage": 25,
+      "XP": 75
+    },
+    {
+      "ID": "Poosh over 250000",
+      "SetID": "5n829i",
+      "Name": "Pooshed over 250000",
+      "Percentage": 50,
+      "XP": 100
+    },
+    {
+      "ID": "Terrible Start",
+      "SetID": "5n829i",
+      "Name": "Terrible Start",
+      "Percentage": 75,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +152,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 20,
+  "LastChanged_Achievements": "2023-05-04T19:18:22.4962301+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T19:03:28.3751981+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:19.5974844+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:28.3751955+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:22.4962456+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:18.8966621+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5n829i",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 329
+  "Ranking_EOS_Progress": 329,
+  "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00"
 }

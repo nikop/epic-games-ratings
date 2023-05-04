@@ -1,6 +1,372 @@
 {
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
+  "Achievements": [
+    {
+      "ID": "1000_KILLS KILLS (0-1000)",
+      "SetID": "1pi2inm",
+      "Name": "1000 KILLS",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "100_KILLS KILLS (0-100)",
+      "SetID": "1pi2inm",
+      "Name": "100 KILLS",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
+      "SetID": "1pi2inm",
+      "Name": "200 HEADSHOTS",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
+      "SetID": "1pi2inm",
+      "Name": "50 HEADSHOTS",
+      "Percentage": 9,
+      "XP": 5
+    },
+    {
+      "ID": "BIGUPS",
+      "SetID": "1pi2inm",
+      "Name": "HEY THATS CHEATING",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "BRAWLER",
+      "SetID": "1pi2inm",
+      "Name": "COMPLIMENTS TO THE CHEF",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "BUTWHY",
+      "SetID": "1pi2inm",
+      "Name": "BUT WHY?",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "CHALET",
+      "SetID": "1pi2inm",
+      "Name": "CHALET",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "CHAPTER1",
+      "SetID": "1pi2inm",
+      "Name": "FINISHED CHAPTER 1",
+      "Percentage": 7,
+      "XP": 5
+    },
+    {
+      "ID": "CHAPTER2",
+      "SetID": "1pi2inm",
+      "Name": "FINISHED CHAPTER 2",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "CHAPTER3",
+      "SetID": "1pi2inm",
+      "Name": "FINISHED CHAPTER 3",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "CHAPTER4",
+      "SetID": "1pi2inm",
+      "Name": "FINISHED CHAPTER 4",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "CHAPTER5",
+      "SetID": "1pi2inm",
+      "Name": "FINISH CHAPTER 5",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "CHAPTER6",
+      "SetID": "1pi2inm",
+      "Name": "FINISH CHAPTER 6",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "CHURCH",
+      "SetID": "1pi2inm",
+      "Name": "CHURCH",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "COMMAND",
+      "SetID": "1pi2inm",
+      "Name": "COMMAND - [EXIST]",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ESCAPISM",
+      "SetID": "1pi2inm",
+      "Name": "CATHARTIC ESCAPISM",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "FIREFIGHT10 LEVEL (0-10)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 10",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT20 LEVEL (0-20)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 20",
+      "Percentage": 0.6,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT30 LEVEL (0-30)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 30",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT40 LEVEL (0-40)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 40",
+      "Percentage": 0.2,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT50 LEVEL (0-50)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 50",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT60 LEVEL (0-60)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 60",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT70 LEVEL (0-70)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 70",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHT80 LEVEL (0-80)",
+      "SetID": "1pi2inm",
+      "Name": "FIREFIGHT LEVEL 80",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "FIREINTHEHOLE",
+      "SetID": "1pi2inm",
+      "Name": "FIRE IN THE HOLE",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "FIRSTBLOOD ROGUERUNS (0-1)",
+      "SetID": "1pi2inm",
+      "Name": "FIRST BLOOD",
+      "Percentage": 0.5,
+      "XP": 5
+    },
+    {
+      "ID": "FRESH",
+      "SetID": "1pi2inm",
+      "Name": "FRESH",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "HUGESUCCESS",
+      "SetID": "1pi2inm",
+      "Name": "HUGE SUCCESS",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "ICARUS",
+      "SetID": "1pi2inm",
+      "Name": "ICARUS",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "INPUT",
+      "SetID": "1pi2inm",
+      "Name": "INPUT - [QUERY]",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "KITTEDOUT",
+      "SetID": "1pi2inm",
+      "Name": "KITTED OUT",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "METACITY",
+      "SetID": "1pi2inm",
+      "Name": "HOLOGRAM SUMMER",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "NGP",
+      "SetID": "1pi2inm",
+      "Name": "NEW GAME PLUS",
+      "Percentage": 0.2,
+      "XP": 115
+    },
+    {
+      "ID": "OFFTHEHINGES",
+      "SetID": "1pi2inm",
+      "Name": "OFF THE HINGES",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "ONTHEEDGE",
+      "SetID": "1pi2inm",
+      "Name": "ON THE EDGE",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "OUTOFORDER",
+      "SetID": "1pi2inm",
+      "Name": "OUT OF ORDER",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "OVERCLOCKED",
+      "SetID": "1pi2inm",
+      "Name": "OVERCLOCKED",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "PACEMAKER",
+      "SetID": "1pi2inm",
+      "Name": "PACEMAKER",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "PAINTRAIN",
+      "SetID": "1pi2inm",
+      "Name": "PAIN TRAIN",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "PARADOX",
+      "SetID": "1pi2inm",
+      "Name": "TIME PARADOX",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "PARTYHARD",
+      "SetID": "1pi2inm",
+      "Name": "PARTYHARD",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "REMEMBERTHEARMORY",
+      "SetID": "1pi2inm",
+      "Name": "REMEMBER THE ARMORY",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "RR10 ROGUERUNS (0-10)",
+      "SetID": "1pi2inm",
+      "Name": "10 RUNS",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "RR20 ROGUERUNS (0-20)",
+      "SetID": "1pi2inm",
+      "Name": "20 RUNS",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "RR5 ROGUERUNS (0-5)",
+      "SetID": "1pi2inm",
+      "Name": "5 RUNS",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "SAVORTHEMOMENT",
+      "SetID": "1pi2inm",
+      "Name": "SAVOR THE MOMENT",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "SCIENCE",
+      "SetID": "1pi2inm",
+      "Name": "SCIENCE AND INDUSTRY",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "SOUL",
+      "SetID": "1pi2inm",
+      "Name": "SOUL - HORIZONS",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "THECOLLECTOR",
+      "SetID": "1pi2inm",
+      "Name": "THE COLLECTOR",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "THEGAMBLER",
+      "SetID": "1pi2inm",
+      "Name": "THE GAMBLER",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "WARRIORINAGARDEN",
+      "SetID": "1pi2inm",
+      "Name": "WARRIOR IN A GARDEN",
+      "Percentage": 0.1,
+      "XP": 50
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1084,6 +1450,11 @@
       "Time": "2023-05-04T19:04:32.8317518+00:00",
       "NumProgressed": 400202,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-04T19:19:23.6799363+00:00",
+      "NumProgressed": 400207,
+      "NumCompleted": 29
     }
   ],
   "RatingHistory": [
@@ -1246,17 +1617,27 @@
       "NumberOfAwardsMax": 167
     }
   ],
-  "EOS_Completed_Percentage": 0.01,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 52,
+  "LastChanged_Achievements": "2023-05-04T19:19:23.6799358+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2855,
+  "EOS_NewPlayers": 2860,
   "EOS_Completed": 29,
-  "EOS_Progressed": 400202,
-  "LastUpdate_Achievements": "2023-05-04T19:04:32.8317586+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:57.3102234+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:32.8317512+00:00",
+  "EOS_Progressed": 400207,
+  "LastUpdate_Achievements": "2023-05-04T19:19:23.6799847+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:55.2492145+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1pi2inm",
+      "IsBase": true,
+      "Progressed": 400207,
+      "Completed": 29
+    }
+  ],
+  "EOS_Completed_Percentage": 0.01,
   "LastChanged": "2023-05-03T01:57:02.3850436+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
+  "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 167,
   "NumberOfAwards": 167,
@@ -1268,5 +1649,5 @@
   "Ranking_Popularity": 275,
   "Ranking_Rating": 233,
   "Rating": 4.68,
-  "FirstSeen": "2022-07-22T20:21:24.7272687+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00"
 }

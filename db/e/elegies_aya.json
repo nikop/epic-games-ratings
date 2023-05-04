@@ -1,20 +1,123 @@
 {
   "ID": "246d81dbb3bc4e0eb0fcfd9b85f4de77",
   "Name": "ELEGIES Aya",
+  "Achievements": [
+    {
+      "ID": "ACH_CH0",
+      "SetID": "1em00ld",
+      "Name": "You\u0027ve met with a terrible fate haven\u0027t you?",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH1",
+      "SetID": "1em00ld",
+      "Name": "Nothing in life is to be feared",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH2",
+      "SetID": "1em00ld",
+      "Name": "Late night investigation",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH3",
+      "SetID": "1em00ld",
+      "Name": "Knock knock",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH4",
+      "SetID": "1em00ld",
+      "Name": "It\u0027s a trap!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH5",
+      "SetID": "1em00ld",
+      "Name": "Like a ninja!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH6",
+      "SetID": "1em00ld",
+      "Name": "Lights out",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH7",
+      "SetID": "1em00ld",
+      "Name": "Payback",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CH8",
+      "SetID": "1em00ld",
+      "Name": "The end... or is it?",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_E1",
+      "SetID": "1em00ld",
+      "Name": "Wrong turn",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_E2",
+      "SetID": "1em00ld",
+      "Name": "Happy ever after",
+      "Percentage": 0,
+      "XP": 125
+    },
+    {
+      "ID": "ACH_E3",
+      "SetID": "1em00ld",
+      "Name": "Never fade away",
+      "Percentage": 0,
+      "XP": 125
+    },
+    {
+      "ID": "ACH_E4",
+      "SetID": "1em00ld",
+      "Name": "Thank you for playing!",
+      "Percentage": 0,
+      "XP": 200
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 13,
+  "LastChanged_Achievements": "2023-05-04T19:18:49.1898886+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:56.7079478+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:28.1431277+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:56.7079464+00:00",
-  "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:49.1898995+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:26.3248921+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1em00ld",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00"
 }

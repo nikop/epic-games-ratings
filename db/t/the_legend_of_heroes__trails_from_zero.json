@@ -1,6 +1,7 @@
 {
   "ID": "642f25b89cc5446faad25cad7b03181a",
   "Name": "The Legend of Heroes: Trails from Zero",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:11.5651531+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:40.3100209+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:37.1299388+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:09.9849447+00:00",
   "FirstSeenRating": "2023-03-31T05:58:09.9849445+00:00",
+  "FirstSeen": "2022-09-29T05:32:18.6497613+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-09-29T05:32:18.6497613+00:00"
+  "Ranking_EOS_Progress": 378
 }

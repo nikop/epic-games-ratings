@@ -1,6 +1,7 @@
 {
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -936,14 +937,18 @@
       "NumberOfAwardsMax": 90
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:32.5820435+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:04.7983057+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:02.5591894+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T11:00:04.5307812+00:00",
+  "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 90,
   "NumberOfAwards": 600,
@@ -955,6 +960,5 @@
   "Ranking_PopularitySum": 274,
   "Ranking_Popularity": 334,
   "Ranking_Rating": 713,
-  "Rating": 4.35,
-  "FirstSeen": "2022-07-22T20:19:35.4348464+00:00"
+  "Rating": 4.35
 }

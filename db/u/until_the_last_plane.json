@@ -1,20 +1,109 @@
 {
   "ID": "6108d244ce2b4fb89242c3ed3c2eee80",
   "Name": "Until the Last Plane",
+  "Achievements": [
+    {
+      "ID": "ach_3_medals",
+      "SetID": "7gda6mp",
+      "Name": "Intense day",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_commands",
+      "SetID": "7gda6mp",
+      "Name": "Commander",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_first",
+      "SetID": "7gda6mp",
+      "Name": "First victory!",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_first_defeat",
+      "SetID": "7gda6mp",
+      "Name": "Learn\u00A0from\u00A0errors",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_funds",
+      "SetID": "7gda6mp",
+      "Name": "Tycoon",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_influence",
+      "SetID": "7gda6mp",
+      "Name": "Politician",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_magazine",
+      "SetID": "7gda6mp",
+      "Name": "Editor-in-chief",
+      "Percentage": 0,
+      "XP": 95
+    },
+    {
+      "ID": "ach_medic",
+      "SetID": "7gda6mp",
+      "Name": "Hippocrates",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_plane_bought",
+      "SetID": "7gda6mp",
+      "Name": "Saver",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_prototype",
+      "SetID": "7gda6mp",
+      "Name": "Jet is better",
+      "Percentage": 0,
+      "XP": 95
+    },
+    {
+      "ID": "ach_skills",
+      "SetID": "7gda6mp",
+      "Name": "Unskilled",
+      "Percentage": 0,
+      "XP": 90
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 11,
+  "LastChanged_Achievements": "2023-05-04T19:19:04.9996284+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:13.5329906+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:41.9002731+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:13.5329882+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:18.7647785+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:04.9996374+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:39.5693398+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7gda6mp",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:50:18.7647785+00:00"
 }

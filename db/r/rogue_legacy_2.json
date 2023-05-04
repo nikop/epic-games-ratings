@@ -1,6 +1,281 @@
 {
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
+  "Achievements": [
+    {
+      "ID": "AllAchievements",
+      "SetID": "3ojhj46",
+      "Name": "Rogue\u0027s Legacy",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "AllBlessings",
+      "SetID": "3ojhj46",
+      "Name": "Truly Blessed",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "AllEquipment",
+      "SetID": "3ojhj46",
+      "Name": "Black-shoppe",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "AllFriends",
+      "SetID": "3ojhj46",
+      "Name": "Full House",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "AllRunes",
+      "SetID": "3ojhj46",
+      "Name": "Pillow Investments",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "AllScarsBronze",
+      "SetID": "3ojhj46",
+      "Name": "Erebus Purified",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "AllSkills",
+      "SetID": "3ojhj46",
+      "Name": "Looks Familiar",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossBridgeAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Justice",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossBridgeDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Captain and Crew",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "BossCastleAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Glory",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossCastleDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Spells and Swords",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "BossCaveAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Wrath",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossCaveDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Hands and Hammers",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "BossFinalAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Greed",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "BossFinalDefeated",
+      "SetID": "3ojhj46",
+      "Name": "King and Kin",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "BossForestAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Survival",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossForestDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Harvest and Home",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "BossGardenAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Penance",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossGardenDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Progenitor and Prot\u00E9g\u00E9",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossStudyAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Love",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossStudyDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Poise and Poisons",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "BossTowerAdvancedDefeated",
+      "SetID": "3ojhj46",
+      "Name": "For Pride",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "BossTowerDefeated",
+      "SetID": "3ojhj46",
+      "Name": "Suns and Soldiers",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "BoxerBoss",
+      "SetID": "3ojhj46",
+      "Name": "K.O.",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "EnableHouseRules",
+      "SetID": "3ojhj46",
+      "Name": "No Harm in Looking",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "EndTimerFail",
+      "SetID": "3ojhj46",
+      "Name": "It Was Just an Estimate",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "FifteenLivesEasy",
+      "SetID": "a0a5h9b",
+      "Name": "Thanatophobia",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FifteenLivesHard",
+      "SetID": "a0a5h9b",
+      "Name": "Thanatwophobia",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "HubtownSpinKick",
+      "SetID": "3ojhj46",
+      "Name": "Good Practice",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "Icarus",
+      "SetID": "3ojhj46",
+      "Name": "Maybe Wax Doesn\u0027t Melt",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "NightmareKhidr",
+      "SetID": "3ojhj46",
+      "Name": "A Glimpse of the Future",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "PetDragon",
+      "SetID": "3ojhj46",
+      "Name": "Good Boy!",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "PrequelReveal",
+      "SetID": "3ojhj46",
+      "Name": "Prequel to the Sequel",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "RogueMode",
+      "SetID": "a0a5h9b",
+      "Name": "Rogue Rogue Legacy",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "SoulShopOverload",
+      "SetID": "3ojhj46",
+      "Name": "Just the Beginning",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "StoryTutorial",
+      "SetID": "3ojhj46",
+      "Name": "Wasted Betrayal",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "TitleDrop",
+      "SetID": "3ojhj46",
+      "Name": "Had to Do It",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "UnlockHighMastery",
+      "SetID": "3ojhj46",
+      "Name": "Jack of all Trades",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "UnlockHighestUnity",
+      "SetID": "3ojhj46",
+      "Name": "Color Coordination",
+      "Percentage": 0.1,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1555,27 +1830,43 @@
       "NumberOfAwardsMax": 215
     }
   ],
-  "EOS_Completed_Percentage": 0.16,
+  "TotalAchievementsXP": 1240,
+  "TotalAchievements": 39,
+  "LastChanged_Achievements": "2023-05-04T19:19:05.6540731+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 136,
   "EOS_Completed": 35,
   "EOS_Progressed": 21404,
-  "LastUpdate_Achievements": "2023-05-04T19:04:14.2039231+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:39.5706924+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:14.2039177+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:05.6541145+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:37.666106+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3ojhj46",
+      "IsBase": true,
+      "Progressed": 21404,
+      "Completed": 35
+    },
+    {
+      "ID": "a0a5h9b",
+      "IsBase": false,
+      "Progressed": 334,
+      "Completed": 203
+    }
+  ],
+  "EOS_Completed_Percentage": 0.16,
   "LastChanged": "2023-04-29T13:01:16.49132+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
+  "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 215,
   "NumberOfAwards": 1620,
   "NumberOfRatings": 1331,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_Progress": 89,
   "Ranking_PopularitySum": 201,
   "Ranking_Popularity": 247,
   "Ranking_Rating": 37,
   "Rating": 4.85,
-  "FirstSeen": "2022-07-22T20:32:06.6124893+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00"
 }

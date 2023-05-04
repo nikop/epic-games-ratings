@@ -4,7 +4,53 @@ Number of Ratings: 58  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 32  (Ranked 434)  
 Sum: 32 (Ranked 453)  
-Diff (max vs sum): -19
+Diff (max vs sum): -19  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Another Life | 84.00 |
+| Space Traveler | 79.00 |
+| Voices from the Past | 78.00 |
+| Demigod | 77.00 |
+| The Great Destroyer | 75.00 |
+| Shields Down | 73.00 |
+| Safe Home | 68.00 |
+| Helping Hand | 67.00 |
+| Paragon | 64.00 |
+| Old Days Born Anew | 62.00 |
+| Full Arsenal | 57.00 |
+| Controlled Demolition | 56.00 |
+| Payback | 54.00 |
+| Born to Drift | 53.00 |
+| Huntress | 53.00 |
+| Relentless | 49.00 |
+| The Path Forward | 46.00 |
+| Disruption | 45.00 |
+| Phoenix | 44.00 |
+| Cult Slayer | 42.00 |
+| Origin | 41.00 |
+| It Was An Accident | 40.00 |
+| Set in Motion | 39.00 |
+| In the Eye of the Storm | 38.00 |
+| The Crimson Void | 35.00 |
+| The Nameless Dread | 34.00 |
+| Time to Spear | 31.00 |
+| Disciple | 30.00 |
+| Mastery of Weapons | 29.00 |
+| Two Birds | 26.00 |
+| Uneasy Alliance | 24.00 |
+| Ghosts | 24.00 |
+| Mastery of Combat | 22.00 |
+| Retaliate | 21.00 |
+| Mastery of Rites | 20.00 |
+| Power Chord | 20.00 |
+| Crash Test | 20.00 |
+| Ascension | 19.00 |
+| Rise as One | 18.00 |
+| Showoff | 15.00 |
+| Overcharged | 10.00 |
+| Radiation Area | 10.00 |
+| At Least You Tried | 2.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 845 (Ranked 165)  
 Completed: 11 (1.30%) (Ranked 70)  

@@ -1,6 +1,7 @@
 {
   "ID": "f0743109c5784d44a1a404a4cee42f20",
   "Name": "At Eve\u0027s Wake",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:01.3367877+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:29.9733632+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:26.9417289+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T06:58:21.5477393+00:00",
   "FirstSeenRating": "2023-03-31T06:58:21.5477392+00:00",
+  "FirstSeen": "2022-07-22T20:29:36.4235843+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:29:36.4235843+00:00"
+  "Ranking_EOS_Progress": 378
 }

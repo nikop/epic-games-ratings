@@ -1,9 +1,8 @@
 # Guild of Dungeoneering Ultimate Edition
 Rating: 4.65 (Ranked 290)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,9 +10,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

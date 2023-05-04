@@ -1,6 +1,99 @@
 {
   "ID": "42c9d119160c4631b5916a7e33bd4bc3",
   "Name": "BloodRayne: Terminal Cut",
+  "Achievements": [
+    {
+      "ID": "EAchievement_Ark_Of_The_Covenant",
+      "SetID": "17dde9j",
+      "Name": "Ark of the Covenant",
+      "Percentage": 50,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Big_Momma",
+      "SetID": "17dde9j",
+      "Name": "Big Momma",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Half_Blood",
+      "SetID": "17dde9j",
+      "Name": "Half Blood",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Head_Gun",
+      "SetID": "17dde9j",
+      "Name": "Head Gun",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Left_Of_Centre",
+      "SetID": "17dde9j",
+      "Name": "Left of Centre",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Make_Him_Mad",
+      "SetID": "17dde9j",
+      "Name": "Make Him Mad",
+      "Percentage": 83,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Of_Wulfs_And_Demons",
+      "SetID": "17dde9j",
+      "Name": "Of Wulfs and Demons",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Right_Hand_Man",
+      "SetID": "17dde9j",
+      "Name": "Right Hand Man",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Teachers_And_Traitors",
+      "SetID": "17dde9j",
+      "Name": "Teachers and Traitors",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_The_Butcheress",
+      "SetID": "17dde9j",
+      "Name": "The Butcheress",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Thule_Chapel",
+      "SetID": "17dde9j",
+      "Name": "Thule Chapel",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Vampiress",
+      "SetID": "17dde9j",
+      "Name": "Vampiress",
+      "Percentage": 17,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Walls_Of_Jericho",
+      "SetID": "17dde9j",
+      "Name": "Walls of Jericho",
+      "Percentage": 17,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +110,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 13,
+  "LastChanged_Achievements": "2023-05-04T19:19:51.3820764+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T19:05:00.6106842+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:26.3817493+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:00.6106813+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:51.3820883+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:23.6978523+00:00",
+  "AchievementSets": [
+    {
+      "ID": "17dde9j",
+      "IsBase": true,
+      "Progressed": 6,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T06:58:23.5211549+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:25.6495145+00:00",
   "FirstSeenRating": "2023-03-31T06:58:23.5211548+00:00",
+  "FirstSeen": "2022-11-08T03:50:42.9174156+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
-  "FirstSeen": "2022-11-08T03:50:42.9174156+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:25.6495145+00:00"
 }

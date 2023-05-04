@@ -1,6 +1,127 @@
 {
   "ID": "d61e728ef950412ea2739c73949f0192",
   "Name": "Swordship",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_ALL_DIFFICULTIES",
+      "SetID": "6abl3de",
+      "Name": "Try hard",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_ALL_UNLOCKS",
+      "SetID": "6abl3de",
+      "Name": "Done",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_ALL_UPGRADES",
+      "SetID": "6abl3de",
+      "Name": "Max upgrades",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_ALL_VARIANTS",
+      "SetID": "6abl3de",
+      "Name": "All variants",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_ALL_WEATHERS",
+      "SetID": "6abl3de",
+      "Name": "Changing weather",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_BOSS_GIVE_ALL_YOU_TOOK",
+      "SetID": "6abl3de",
+      "Name": "Robin hood",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_BOSS_KEEP_ALL_YOU_TOOK",
+      "SetID": "6abl3de",
+      "Name": "Selfish b******",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_BOSS_MAX",
+      "SetID": "6abl3de",
+      "Name": "Moby Dick",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_CITY_1",
+      "SetID": "6abl3de",
+      "Name": "CITY-01",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_CITY_2",
+      "SetID": "6abl3de",
+      "Name": "CITY-02",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_CITY_3",
+      "SetID": "6abl3de",
+      "Name": "CITY-03",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_EASY",
+      "SetID": "6abl3de",
+      "Name": "BEGINNER",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_HARD",
+      "SetID": "6abl3de",
+      "Name": "Impossible",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_MEDIUM",
+      "SetID": "6abl3de",
+      "Name": "Not so easy",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_NO_BOSS",
+      "SetID": "6abl3de",
+      "Name": "Is that it?...",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_STEAL_ALL",
+      "SetID": "6abl3de",
+      "Name": "Gentleman-Burglar",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_COMPLETE_STEAL_NOTHING",
+      "SetID": "6abl3de",
+      "Name": "Missed something?",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +132,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 17,
+  "LastChanged_Achievements": "2023-05-04T19:17:10.7334479+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:32.8288311+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:06.4942152+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:32.8288297+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:10.7334594+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:05.1434939+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6abl3de",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:09.5806081+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:06.4750192+00:00",
   "FirstSeenRating": "2023-03-31T05:57:09.580608+00:00",
+  "FirstSeen": "2023-02-26T07:57:15.6367512+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-02-26T07:57:15.6367512+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:06.4750192+00:00"
 }

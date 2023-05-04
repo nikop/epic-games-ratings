@@ -1,10 +1,51 @@
 # GRIME
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 46  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Taste | 19.00 |
+| Imprint | 19.00 |
+| Ravenous | 18.00 |
+| The Hunt | 17.00 |
+| Weeper | 15.00 |
+| Devourer | 12.00 |
+| Scion | 10.00 |
+| Glare | 10.00 |
+| Harmless | 10.00 |
+| Silenced Whispers | 10.00 |
+| Yank | 10.00 |
+| Sharpened Vessel | 10.00 |
+| Jawcrab | 9.00 |
+| Feast | 9.00 |
+| Shapely | 8.00 |
+| Host | 8.00 |
+| Jawstag | 8.00 |
+| Celebration | 6.00 |
+| Inevitable | 6.00 |
+| Watcher | 6.00 |
+| Predator | 6.00 |
+| Dream | 6.00 |
+| Assimilation | 5.00 |
+| Hunt Down | 5.00 |
+| Artisan | 5.00 |
+| Hush | 5.00 |
+| All-Seeing | 5.00 |
+| Kin | 5.00 |
+| Kinship | 4.00 |
+| Unwrap the Gift | 4.00 |
+| Passage | 4.00 |
+| Weakness | 3.00 |
+| Breathsmith | 3.00 |
+| Proportions | 3.00 |
+| Bloodhunter | 2.00 |
+| Breath | 2.00 |
+| Listen | 2.00 |
+| Skinmaker | 1.00 |
+| Zygote | 1.00 |
+| Generous | 1.00 |
+| Instruments | 0.70 |
+| Spiral Heart | 0.20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 536 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -20,9 +61,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 534 | 0 |
 | 2023-05-03 | 535 | 0 |
 | 2023-05-04 | 536 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

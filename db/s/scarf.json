@@ -1,6 +1,7 @@
 {
   "ID": "1c13238391244f828eb1441f1e110eb0",
   "Name": "Scarf",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:22.6539351+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:24.4247428+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:17.002185+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:24.424741+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:22.6539402+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:15.4815742+00:00",
+  "AchievementSets": [
+    {
+      "ID": "g6mhba",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:33.1229504+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:21.5581434+00:00",
   "FirstSeenRating": "2023-03-31T05:58:33.1229503+00:00",
+  "FirstSeen": "2022-07-22T20:31:01.2766193+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:31:01.2766193+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:21.5581434+00:00"
 }

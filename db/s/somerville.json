@@ -1,6 +1,85 @@
 {
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
+  "Achievements": [
+    {
+      "ID": "SomervilleBluesJam",
+      "SetID": "3mk3nll",
+      "Name": "Blues Jam.",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "SomervilleFamilyFirst",
+      "SetID": "3mk3nll",
+      "Name": "Family First.",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "SomervilleFraternizingWithEnemy",
+      "SetID": "3mk3nll",
+      "Name": "First contact.",
+      "Percentage": 0.5,
+      "XP": 200
+    },
+    {
+      "ID": "SomervilleHereBoy",
+      "SetID": "3mk3nll",
+      "Name": "\u201CHere boy\u2026\u0022",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "SomervilleResignation",
+      "SetID": "3mk3nll",
+      "Name": "Resignation.",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "SomervilleResignationReprise",
+      "SetID": "3mk3nll",
+      "Name": "Resignation Reprise.",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "SomervilleStuckOnTheJohn",
+      "SetID": "3mk3nll",
+      "Name": "\u201COccupied!\u201C",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "SomervilleUnderstanding",
+      "SetID": "3mk3nll",
+      "Name": "Understanding.",
+      "Percentage": 3,
+      "XP": 200
+    },
+    {
+      "ID": "SomervilleWarOfTheWorlds",
+      "SetID": "3mk3nll",
+      "Name": "War of the worlds.",
+      "Percentage": 6,
+      "XP": 100
+    },
+    {
+      "ID": "SomervilleWearyTraveller",
+      "SetID": "3mk3nll",
+      "Name": "Admiring the view.",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "SomervilleWorldsBestDad",
+      "SetID": "3mk3nll",
+      "Name": "Worlds best dad.",
+      "Percentage": 12,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -124,17 +203,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.61,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 11,
+  "LastChanged_Achievements": "2023-05-04T19:15:22.3479553+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 8,
   "EOS_Completed": 25,
   "EOS_Progressed": 1549,
-  "LastUpdate_Achievements": "2023-05-04T19:00:24.110044+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:24.4514214+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:24.1100403+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:22.3479652+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:23.5829964+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3mk3nll",
+      "IsBase": true,
+      "Progressed": 1549,
+      "Completed": 25
+    }
+  ],
+  "EOS_Completed_Percentage": 1.61,
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
+  "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -145,5 +234,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 801,
   "Rating": 4.2,
-  "FirstSeen": "2022-11-15T21:57:56.5143092+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00"
 }

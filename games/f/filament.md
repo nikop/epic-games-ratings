@@ -3,9 +3,41 @@ Rating: 4.32 (Ranked 737)
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 551  (Ranked 171)  
 Sum: 665 (Ranked 263)  
-Diff (max vs sum): -92
+Diff (max vs sum): -92  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Boarded! | 94.00 |
+| Snooper. | 10.00 |
+| You have to start somewhere, right? | 7.00 |
+| So you're saying I don't touch these ones? | 6.00 |
+| Corrupted. | 5.00 |
+| Good things come in pairs... Coloured Pairs. | 5.00 |
+| Answers can be found amongst the stars | 3.00 |
+| Bend to the will of the arrows. | 3.00 |
+| You've been through a lot. | 2.00 |
+| People's feelings on these ones are very... Binary... | 2.00 |
+| I hope your remember your colour theory. | 2.00 |
+| Like wide, but upwards. | 2.00 |
+| Put the pieces together. | 2.00 |
+| Two cute little robots are better than one. | 2.00 |
+| Technically, we told you how to solve them. | 2.00 |
+| They're like really flat pillars. | 2.00 |
+| That's a wrap. | 2.00 |
+| In balance. | 2.00 |
+| I hope you're ready. | 1.00 |
+| Care to take a nap? | 1.00 |
+| Cockpit | 0.70 |
+| Witness it. | 0.70 |
+| Bridge crossed. | 0.60 |
+| Names to faces. | 0.60 |
+| No Anchor too great. | 0.50 |
+| A full deck. | 0.50 |
+| 14237b6509eafd8c | 0.50 |
+| Snooper + | 0.40 |
+| Corrupted + | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,761 (Ranked 48)  
+Progressed: 188,762 (Ranked 48)  
 Completed: 406 (0.22%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +51,7 @@ Completed: 406 (0.22%) (Ranked 127)
 | 2023-05-01 | 188,524 | 402 |
 | 2023-05-02 | 188,621 | 404 |
 | 2023-05-03 | 188,702 | 404 |
-| 2023-05-04 | 188,761 | 406 |
+| 2023-05-04 | 188,762 | 406 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

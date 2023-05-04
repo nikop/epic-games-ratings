@@ -4,7 +4,132 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 1,469  (Ranked 114)  
 Sum: 11,373 (Ranked 74)  
-Diff (max vs sum): 40
+Diff (max vs sum): 40  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First Steps | 96.00 |
+| Uncharted Territory | 89.00 |
+| Getting A Glimpse | 73.00 |
+| A Quick Escape | 65.00 |
+| Explorer | 62.00 |
+| Defeat The Dark | 61.00 |
+| An Offering | 61.00 |
+| Colorful Corpse | 58.00 |
+| That Was Quick | 56.00 |
+| A Donation | 56.00 |
+| Goodbye, Frog Friend | 54.00 |
+| Heavy Hitter | 52.00 |
+| Heartless | 46.00 |
+| Spine Breaker | 45.00 |
+| Deflection | 44.00 |
+| Sneaky | 43.00 |
+| Delving Deeper | 42.00 |
+| Ambitious Intent | 41.00 |
+| C-C-Combo | 41.00 |
+| The Bestiary | 40.00 |
+| Nothing To Lose | 39.00 |
+| What's Yours Is Mine | 38.00 |
+| R.I.P | 36.00 |
+| Shootout | 35.00 |
+| Cold Hearted | 34.00 |
+| I Am Overburdened | 34.00 |
+| Dig Your Own Grave | 32.00 |
+| Toxic | 32.00 |
+| Who To Trust? | 31.00 |
+| Flesh Wound | 29.00 |
+| Walk It Off | 27.00 |
+| Stone Touch | 27.00 |
+| Acid Bath | 27.00 |
+| Shadow Walker | 27.00 |
+| Consecutive Curses | 26.00 |
+| Destroy Your Fears | 26.00 |
+| New Perspectives | 26.00 |
+| Shapeshifting | 26.00 |
+| Save Our Souls | 24.00 |
+| To The Death! | 19.00 |
+| Well Prepared | 19.00 |
+| Just Chilling | 19.00 |
+| All Consuming | 18.00 |
+| Stop Hitting Yourself | 18.00 |
+| Shadow Spreads | 16.00 |
+| Max Damage! | 16.00 |
+| Don't Ignore Me! | 16.00 |
+| Illuminate, Eliminate | 16.00 |
+| Doing Time | 16.00 |
+| Spreading Plague | 14.00 |
+| The Long Run | 14.00 |
+| A Rough Road | 12.00 |
+| Berzerker | 12.00 |
+| Chain Reaction | 12.00 |
+| Antivenom | 11.00 |
+| Thank You, Friend | 10.00 |
+| Barbecue | 9.00 |
+| Snake Sneak | 9.00 |
+| Challenge Increases | 8.00 |
+| New Game+ | 8.00 |
+| Clearing The Room | 8.00 |
+| Fragile Mortality | 8.00 |
+| Precious | 8.00 |
+| Path To Enlightenment | 7.00 |
+| Decisions, Decisions | 7.00 |
+| Fire Away! | 7.00 |
+| Defuser | 7.00 |
+| Sentimental Value | 7.00 |
+| A Long Climb | 6.00 |
+| Friend of Vermin | 6.00 |
+| Grave Digger | 6.00 |
+| Soul Stash | 6.00 |
+| Juggernaut | 6.00 |
+| Gigantic | 6.00 |
+| Power Score | 6.00 |
+| Just Looking Around | 6.00 |
+| Obsessed | 6.00 |
+| Champion of the Day | 5.00 |
+| Achievement Hunter | 4.00 |
+| Hydrophobe | 4.00 |
+| Explosive Betrayal | 4.00 |
+| Willing the World | 4.00 |
+| Predator | 4.00 |
+| Resourceful | 4.00 |
+| Become The Nightmare | 4.00 |
+| No Mercy | 4.00 |
+| Quick Descent | 3.00 |
+| A Week Attempt | 3.00 |
+| Dead Revels | 3.00 |
+| Powerful Potion | 3.00 |
+| Here Comes The Airplane | 3.00 |
+| Trail Of Death | 3.00 |
+| The Boulder | 3.00 |
+| Overthrown | 3.00 |
+| Illuminate, Annihilate | 3.00 |
+| Masochist | 3.00 |
+| Poor Choices | 2.00 |
+| Not What I Meant | 2.00 |
+| A Rock And A Hard Place | 2.00 |
+| Sprinter | 2.00 |
+| Minimalist | 2.00 |
+| Quick To Pick | 2.00 |
+| Hanging On | 1.00 |
+| For Science | 1.00 |
+| Good Boys | 1.00 |
+| The Tickler | 1.00 |
+| Tunnel Vision | 1.00 |
+| Martial Master | 1.00 |
+| You Call That A Knife? | 1.00 |
+| Master of Strategy | 0.90 |
+| Disposal | 0.80 |
+| Blizzard | 0.80 |
+| No Swapsies | 0.80 |
+| Need An Antidote? | 0.70 |
+| A Hard Carry | 0.60 |
+| Only The Best | 0.60 |
+| Mastermind | 0.60 |
+| Ignoring Midgame | 0.60 |
+| Nudie Run | 0.60 |
+| Down Under | 0.50 |
+| Never Too Many Hats | 0.40 |
+| Near Death Experience | 0.30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 227,741 (Ranked 41)  
 Completed: 223 (0.10%) (Ranked 150)  

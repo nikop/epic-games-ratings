@@ -1,6 +1,7 @@
 {
   "ID": "16d321658b0f4467a9b9ae2d10eb61d3",
   "Name": "Zool Redimensioned",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:54.6111918+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:26.3943802+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:24.844187+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:40.6474011+00:00",
   "FirstSeenRating": "2023-03-31T05:58:40.6474009+00:00",
+  "FirstSeen": "2022-07-22T20:32:08.3324056+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:32:08.3324056+00:00"
+  "Ranking_EOS_Progress": 378
 }

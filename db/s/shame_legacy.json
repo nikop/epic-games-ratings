@@ -1,6 +1,113 @@
 {
   "ID": "4ea915757b394d29b0e90891040506a3",
   "Name": "Shame Legacy",
+  "Achievements": [
+    {
+      "ID": "ACH_AFLASHOFTHEPAST",
+      "SetID": "2jfcl9n",
+      "Name": "A flash of the past",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_DEFENDOR",
+      "SetID": "2jfcl9n",
+      "Name": "Defendor",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_ENDOFTHENIGHTMARE",
+      "SetID": "2jfcl9n",
+      "Name": "End of a nightmare",
+      "Percentage": 0,
+      "XP": 110
+    },
+    {
+      "ID": "ACH_FINDINGINNERPEACE",
+      "SetID": "2jfcl9n",
+      "Name": "Finding inner peace",
+      "Percentage": 0,
+      "XP": 110
+    },
+    {
+      "ID": "ACH_HOMECOMMING",
+      "SetID": "2jfcl9n",
+      "Name": "Homecoming",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_INSEARCHOFTRUTH",
+      "SetID": "2jfcl9n",
+      "Name": "In search of truth",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_MASTEROFAFTERLIFE",
+      "SetID": "2jfcl9n",
+      "Name": "Master of afterlife",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_OUTRUNNEROFDEATH",
+      "SetID": "2jfcl9n",
+      "Name": "Outruner of death",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_PUZZLESOLVER",
+      "SetID": "2jfcl9n",
+      "Name": "Puzzle solver",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_RELIVINGHELL",
+      "SetID": "2jfcl9n",
+      "Name": "Reliving hell",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_THEINTREPID",
+      "SetID": "2jfcl9n",
+      "Name": "The intrepid",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "ACH_THEREVENANT",
+      "SetID": "2jfcl9n",
+      "Name": "The revenant",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_TRUESUCCESSOR",
+      "SetID": "2jfcl9n",
+      "Name": "True successor",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_UNPLEASANTVISIT",
+      "SetID": "2jfcl9n",
+      "Name": "Unpleasant visit",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_WELLINFORMED",
+      "SetID": "2jfcl9n",
+      "Name": "Well informed",
+      "Percentage": 0,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +117,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:15:03.6351671+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:00:04.8794302+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:35.1599098+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:04.8794241+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:46:43.692397+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:03.6351844+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:34.1883323+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2jfcl9n",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-25T20:46:43.692397+00:00"
 }

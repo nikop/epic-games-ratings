@@ -1,6 +1,7 @@
 {
   "ID": "morpho",
   "Name": "Hello Neighbor: Hide and Seek",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -323,14 +324,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:16.7378557+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:03.9203739+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:02.7618535+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-22T20:57:13.9334711+00:00",
+  "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 81,
@@ -341,6 +346,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 590,
-  "Rating": 4.46,
-  "FirstSeen": "2022-07-22T20:18:38.5841657+00:00"
+  "Rating": 4.46
 }

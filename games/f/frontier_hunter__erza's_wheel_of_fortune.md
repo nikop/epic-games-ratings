@@ -1,9 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,9 +9,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

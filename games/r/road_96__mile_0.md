@@ -1,9 +1,22 @@
 # Road 96: Mile 0
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| BBFF (Best Brigade Friend Forever) | 62.00 |
+| Conspiracy Theorist | 52.00 |
+| On the Road | 49.00 |
+| Souvenirs | 37.00 |
+| This is Not Heavy Metal! | 24.00 |
+| Welcome to the Garage | 20.00 |
+| Truthseeker | 19.00 |
+| 86's Nightmare | 14.00 |
+| Partners in Crime | 13.00 |
+| Friendzone | 13.00 |
+| Freedom | 12.00 |
+| Attack on Tyran | 10.00 |
+| The Eye of the Storm | 8.00 |
+| Song Harvester | 3.00 |
+| Try Harder | 2.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 145 (Ranked 236)  
 Completed: 2 (1.38%) (Ranked 68)  
@@ -19,9 +32,6 @@ Completed: 2 (1.38%) (Ranked 68)
 | 2023-05-01 | 141 | 2 |
 | 2023-05-02 | 143 | 2 |
 | 2023-05-04 | 145 | 2 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

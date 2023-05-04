@@ -1,6 +1,78 @@
 {
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
+  "Achievements": [
+    {
+      "ID": "GT_ACH_CAVESYNC",
+      "SetID": "883j7b4",
+      "Name": "Beam me up",
+      "Percentage": 50,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_ELEVATOR",
+      "SetID": "883j7b4",
+      "Name": "Elevator Pitch",
+      "Percentage": 71,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_ENDBOTH",
+      "SetID": "883j7b4",
+      "Name": "The best of both worlds",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_FREECOMP",
+      "SetID": "883j7b4",
+      "Name": "Uncaged",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_GATE",
+      "SetID": "883j7b4",
+      "Name": "Wait for me!",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_PHYSSTONE",
+      "SetID": "883j7b4",
+      "Name": "Leave no stone unturned",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_REALMLOW",
+      "SetID": "883j7b4",
+      "Name": "Rock Bottom",
+      "Percentage": 54,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_RITUALEND",
+      "SetID": "883j7b4",
+      "Name": "The end is nigh!",
+      "Percentage": 38,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_RITUALSYNC",
+      "SetID": "883j7b4",
+      "Name": "Get Together",
+      "Percentage": 38,
+      "XP": 100
+    },
+    {
+      "ID": "GT_ACH_START",
+      "SetID": "883j7b4",
+      "Name": "Get lost!",
+      "Percentage": 83,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +104,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 10,
+  "LastChanged_Achievements": "2023-05-04T19:19:20.5863247+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 24,
-  "LastUpdate_Achievements": "2023-05-04T19:04:30.0716379+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:57.5675134+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:30.0716352+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:20.586334+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:55.4950922+00:00",
+  "AchievementSets": [
+    {
+      "ID": "883j7b4",
+      "IsBase": true,
+      "Progressed": 24,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
+  "FirstSeen": "2023-04-16T21:58:05.2747167+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 287,
-  "FirstSeen": "2023-04-16T21:58:05.2747167+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00"
 }

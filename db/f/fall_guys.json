@@ -1,6 +1,246 @@
 {
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
+  "Achievements": [
+    {
+      "ID": "ACHI_BARELY_MADE_IT",
+      "SetID": "59meapj",
+      "Name": "Low Baller",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BARGAIN_BUCKET",
+      "SetID": "59meapj",
+      "Name": "Bargain Bucket",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BIG_AIR",
+      "SetID": "59meapj",
+      "Name": "Big Air",
+      "Percentage": 0.9,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BIG_BULLY",
+      "SetID": "59meapj",
+      "Name": "Big Bully",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BIG_TEASE",
+      "SetID": "59meapj",
+      "Name": "Big Tease",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_CATWALK_MODEL",
+      "SetID": "59meapj",
+      "Name": "Catwalk Model",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_DOWN_TO_THE_WIRE",
+      "SetID": "59meapj",
+      "Name": "Down to the Wire",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FALL_10_QUALIFY_RACE",
+      "SetID": "59meapj",
+      "Name": "Face First",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FALL_THROTTLE",
+      "SetID": "59meapj",
+      "Name": "Fall Throttle",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FAME_TIER_1",
+      "SetID": "59meapj",
+      "Name": "One to Watch",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FAME_TIER_2",
+      "SetID": "59meapj",
+      "Name": "Household Name",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FAME_TIER_3",
+      "SetID": "59meapj",
+      "Name": "Star of the Show",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_FASHIONISTA",
+      "SetID": "59meapj",
+      "Name": "Fall Guy Fashionista",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FLAWLESS_VICTORY",
+      "SetID": "59meapj",
+      "Name": "Flawless Victory",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_GRAB_PLAYER",
+      "SetID": "59meapj",
+      "Name": "Fall Bae",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_HEAD_TURNER",
+      "SetID": "59meapj",
+      "Name": "Head Turner",
+      "Percentage": 1,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_INFALLIBLE",
+      "SetID": "59meapj",
+      "Name": "Infallible",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_MAD_TRENDY",
+      "SetID": "59meapj",
+      "Name": "Mad Trendy",
+      "Percentage": 0.6,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_QUALIFY_1_ROUND",
+      "SetID": "59meapj",
+      "Name": "One small trip",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_QUALIFY_ROUND_TIER_2",
+      "SetID": "59meapj",
+      "Name": "One giant leap",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_QUALIFY_ROUND_TIER_3",
+      "SetID": "59meapj",
+      "Name": "Veteran Status",
+      "Percentage": 0.3,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_RACING_TIER_1",
+      "SetID": "59meapj",
+      "Name": "Ahead of the Pack",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_RACING_TIER_2",
+      "SetID": "59meapj",
+      "Name": "Quite Dashing",
+      "Percentage": 0.9,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_RACING_TIER_3",
+      "SetID": "59meapj",
+      "Name": "Track Star",
+      "Percentage": 0.2,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_SHOPPING_SPREE",
+      "SetID": "59meapj",
+      "Name": "Shopping Spree",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SHOW_OFF",
+      "SetID": "59meapj",
+      "Name": "Show Off",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SNOWFLAKE",
+      "SetID": "59meapj",
+      "Name": "Snowflake",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SQUAD_GOALS",
+      "SetID": "59meapj",
+      "Name": "Squad Goals",
+      "Percentage": 0.9,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_STUMBLE_CHUMS",
+      "SetID": "59meapj",
+      "Name": "Stumble Chums",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_STYLE_POINTS",
+      "SetID": "59meapj",
+      "Name": "Style Points",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_TROUBLEMAKER",
+      "SetID": "59meapj",
+      "Name": "Troublemaker",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_WIN_1_EPISODE",
+      "SetID": "59meapj",
+      "Name": "Victory!",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_WIN_EPISODES_TIER_2",
+      "SetID": "59meapj",
+      "Name": "Top Tier",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_WIN_EPISODES_TIER_3",
+      "SetID": "59meapj",
+      "Name": "Golden Guy",
+      "Percentage": 0.2,
+      "XP": 30
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1143,6 +1383,11 @@
     {
       "Time": "2023-05-04T19:04:03.0283054+00:00",
       "NumProgressed": 32370905,
+      "NumCompleted": 28883
+    },
+    {
+      "Time": "2023-05-04T19:18:54.9552451+00:00",
+      "NumProgressed": 32371086,
       "NumCompleted": 28883
     }
   ],
@@ -5728,16 +5973,26 @@
       "NumberOfAwardsMax": 137999
     }
   ],
-  "EOS_Completed_Percentage": 0.09,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 34,
+  "LastChanged_Achievements": "2023-05-04T19:18:54.9552446+00:00",
   "EOS_NewCompleters": 267,
-  "EOS_NewPlayers": 137291,
+  "EOS_NewPlayers": 137472,
   "EOS_Completed": 28883,
-  "EOS_Progressed": 32370905,
-  "LastUpdate_Achievements": "2023-05-04T19:04:03.0283125+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:30.749013+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:03.0283049+00:00",
+  "EOS_Progressed": 32371086,
+  "LastUpdate_Achievements": "2023-05-04T19:18:54.9552751+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:28.6044483+00:00",
+  "AchievementSets": [
+    {
+      "ID": "59meapj",
+      "IsBase": true,
+      "Progressed": 32371086,
+      "Completed": 28883
+    }
+  ],
+  "EOS_Completed_Percentage": 0.09,
   "LastChanged": "2023-05-04T18:58:30.749012+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
+  "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137999,
   "NumberOfAwards": 1293241,
@@ -5750,5 +6005,5 @@
   "Ranking_Popularity": 7,
   "Ranking_Rating": 488,
   "Rating": 4.53,
-  "FirstSeen": "2022-07-22T20:18:16.49776+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00"
 }

@@ -1,9 +1,65 @@
 # IXION
 Rating: 4.54 (Ranked 475)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Without Breaking Some Eggs... | 0.20 |
+| A Thousand Strong | 0.20 |
+| Exceeding Capacity | 0.20 |
+| The Ship of Theseus | 0.20 |
+| Man's Best Friend | 0.10 |
+| Mutual Loyalty | 0.10 |
+| Better Him Than Me | 0.10 |
+| Oats | 0.10 |
+| What They Hide From Us | 0.10 |
+| Guy de Borderlands | 0.10 |
+| Wakey Wakey | 0.10 |
+| Space Society | 0.10 |
+| Sputnik 2049 | 0.10 |
+| A Hunk of Junk | 0.10 |
+| Power Outage | 0.10 |
+| Fully Recycled | 0.10 |
+| Ready for a New World | 0.10 |
+| Necessary Enhancement | 0.10 |
+| Delivery! | 0.10 |
+| Permanent Redesigns | 0.10 |
+| Ain't Nobody Got Time for That | 0.10 |
+| Tiqqun Unchained | 0.10 |
+| Convenient Transport | 0.10 |
+| BRAWL! | 0.10 |
+| Please Make it Stop! | 0.10 |
+| Hope Seeker | 0.10 |
+| Soylent Green | 0.10 |
+| From the Past | 0.10 |
+| Pulsar Disciple | 0.10 |
+| Beyond Time and Space | 0.00 |
+| Tiqqun Contender | 0.00 |
+| Infinite Growth... | 0.00 |
+| ...  in a finite world | 0.00 |
+| Sustainable Energy | 0.00 |
+| Remember the Dead | 0.00 |
+| Sightseeing | 0.00 |
+| In Dolos We Trust | 0.00 |
+| Catastrophe Avoided | 0.00 |
+| Praise the Hull! | 0.00 |
+| Breaking Protocol | 0.00 |
+| Access Granted | 0.00 |
+| You Had One Job... | 0.00 |
+| Gregor Spinoza | 0.00 |
+| This is Fine | 0.00 |
+| Work Harder | 0.00 |
+| Space Greenhouse | 0.00 |
+| Suburban Perfection | 0.00 |
+| A Junker's Dream | 0.00 |
+| Scenic View | 0.00 |
+| All in Good Health | 0.00 |
+| Pedal to the Metal | 0.00 |
+| Drill-dozer | 0.00 |
+| Crunch Culture | 0.00 |
+| Scientifically Accurate | 0.00 |
+| Help of the Forgotten Member | 0.00 |
+| I Give You the Stars | 0.00 |
+| What the Ruins Teach Us | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,827 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -20,9 +76,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 1,820 | 0 |
 | 2023-05-03 | 1,825 | 0 |
 | 2023-05-04 | 1,827 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,9 +4,72 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 318  (Ranked 217)  
 Sum: 2,513 (Ranked 165)  
-Diff (max vs sum): 52
+Diff (max vs sum): 52  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The Shadow strikes | 70.00 |
+| The Evilest Evil | 60.00 |
+| Twistram is devastated | 59.00 |
+| The Gehenna Stones | 51.00 |
+| No one has to die today! | 47.00 |
+| The Swamplanders from the swamplands | 46.00 |
+| Death and destruction! | 46.00 |
+| The One-Huge-Army-Building Evil | 43.00 |
+| Rusty Steel | 43.00 |
+| The last burger | 40.00 |
+| Braiiiiins! | 39.00 |
+| Hands off the Dungeonheart! | 38.00 |
+| A trip on sea, what fun it can be | 37.00 |
+| Damned good | 35.00 |
+| Stock Market Crash | 34.00 |
+| Factory farming | 34.00 |
+| Not-So-Overproud | 32.00 |
+| For a handfull of Catapults | 31.00 |
+| Ogre Solo! | 30.00 |
+| Shadow hunter | 30.00 |
+| Thirst quencher | 29.00 |
+| Destroy the thing | 28.00 |
+| Tide Master | 28.00 |
+| Difficult family relationships | 27.00 |
+| MASS-O-BOT | 26.00 |
+| Prepare the grave | 26.00 |
+| Angel of Fire | 26.00 |
+| Where there is Light, there is Shadow | 25.00 |
+| At the foot of Mount Destiny | 24.00 |
+| The Force disturbed | 23.00 |
+| The Victorious Evil | 22.00 |
+| Chorus of damnation | 21.00 |
+| We don’t have time! | 21.00 |
+| The Stones’ Power | 19.00 |
+| Lifeguard | 19.00 |
+| Flat as a pancake | 18.00 |
+| Can’t stand the sight of Dark Elf blood | 17.00 |
+| This is fun, I’m going to keep doing this! | 13.00 |
+| Then let them eat cake! | 13.00 |
+| Please, no interruptions! | 11.00 |
+| The White Knight | 10.00 |
+| Use the terrain | 9.00 |
+| Hearts of Iron | 9.00 |
+| Master of Traps | 9.00 |
+| Ignore The Level Designer’s Plan | 9.00 |
+| Can’t stand to see an Ogre bleed | 9.00 |
+| Lifesaver | 9.00 |
+| Prison Break | 9.00 |
+| Spawner Killer | 7.00 |
+| A little something extra | 7.00 |
+| Hearts are trump | 7.00 |
+| The Benevolent Evil | 6.00 |
+| Band of Brothers | 5.00 |
+| Night of the Living Dead (on Speed) | 4.00 |
+| I need a hero! | 4.00 |
+| Storm And Stress | 3.00 |
+| Not a scratch | 3.00 |
+| I love the smell of Catapult fire! | 3.00 |
+| Discoverer | 2.00 |
+| Sacrifices! | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,637 (Ranked 96)  
+Progressed: 14,639 (Ranked 96)  
 Completed: 140 (0.96%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +83,7 @@ Completed: 140 (0.96%) (Ranked 78)
 | 2023-05-01 | 14,317 | 137 |
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
-| 2023-05-04 | 14,637 | 140 |
+| 2023-05-04 | 14,639 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

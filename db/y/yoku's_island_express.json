@@ -1,6 +1,7 @@
 {
   "ID": "54399b3ef40d4c568e5904607470ffe9",
   "Name": "Yoku\u0027s Island Express",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -423,14 +424,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:15.5616523+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:47.0011151+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:44.5766377+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:45.5503299+00:00",
+  "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 354,
@@ -441,6 +446,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 212,
-  "Rating": 4.69,
-  "FirstSeen": "2022-07-22T20:32:47.6965849+00:00"
+  "Rating": 4.69
 }

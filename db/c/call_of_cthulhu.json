@@ -1,6 +1,7 @@
 {
   "ID": "9e7e8e8f6a324e1183e9aa63cc901b9a",
   "Name": "Call of Cthulhu",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -105,15 +106,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:00.3151468+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:43.0168207+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:41.1053682+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T21:58:45.6346432+00:00",
   "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
+  "FirstSeen": "2022-09-24T13:06:25.3949128+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -123,6 +128,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 721,
-  "Rating": 4.34,
-  "FirstSeen": "2022-09-24T13:06:25.3949128+00:00"
+  "Rating": 4.34
 }

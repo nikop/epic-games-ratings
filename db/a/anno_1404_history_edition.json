@@ -1,6 +1,7 @@
 {
   "ID": "590c37a9443d46ce84be415b96b1a3e6",
   "Name": "Anno 1404 History Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -234,14 +235,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:38.368954+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:27.2583619+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:26.7254732+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:37.448843+00:00",
+  "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 69,
@@ -252,6 +257,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 113,
-  "Rating": 4.76,
-  "FirstSeen": "2022-07-22T20:31:46.5738432+00:00"
+  "Rating": 4.76
 }

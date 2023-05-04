@@ -1,6 +1,7 @@
 {
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -3289,14 +3290,18 @@
       "NumberOfAwardsMax": 2459
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:27.1298344+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:54.3614896+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:50.9488846+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:00:45.1458348+00:00",
+  "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2459,
   "NumberOfAwards": 8713,
@@ -3308,6 +3313,5 @@
   "Ranking_PopularitySum": 83,
   "Ranking_Popularity": 90,
   "Ranking_Rating": 353,
-  "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:16:56.6558117+00:00"
+  "Rating": 4.61
 }

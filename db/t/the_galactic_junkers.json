@@ -1,6 +1,169 @@
 {
   "ID": "af216ef873a244c6b0c22ea798de1aef",
   "Name": "The Galactic Junkers",
+  "Achievements": [
+    {
+      "ID": "A_Board_10_Ships",
+      "SetID": "56632p4",
+      "Name": "Notorious Pirate",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "A_Board_1_Ship",
+      "SetID": "56632p4",
+      "Name": "Pirate",
+      "Percentage": 70,
+      "XP": 5
+    },
+    {
+      "ID": "A_Board_25_Ships",
+      "SetID": "56632p4",
+      "Name": "Pirate Lord",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "A_Buy_All_Ships",
+      "SetID": "56632p4",
+      "Name": "Big Spender",
+      "Percentage": 0,
+      "XP": 160
+    },
+    {
+      "ID": "A_Buy_Bot",
+      "SetID": "56632p4",
+      "Name": "Just Lazy",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "A_Extinguish_10_Fires",
+      "SetID": "56632p4",
+      "Name": "Expert Firefighter",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "A_Extinguish_1_Fire",
+      "SetID": "56632p4",
+      "Name": "Firefighter",
+      "Percentage": 87,
+      "XP": 5
+    },
+    {
+      "ID": "A_Extinguish_25_Fires",
+      "SetID": "56632p4",
+      "Name": "Master Firefighter",
+      "Percentage": 9,
+      "XP": 100
+    },
+    {
+      "ID": "A_Fix_10_Systems",
+      "SetID": "56632p4",
+      "Name": "Expert Mechanic",
+      "Percentage": 52,
+      "XP": 5
+    },
+    {
+      "ID": "A_Fix_1_System",
+      "SetID": "56632p4",
+      "Name": "Mechanic",
+      "Percentage": 91,
+      "XP": 10
+    },
+    {
+      "ID": "A_Fix_50_Systems",
+      "SetID": "56632p4",
+      "Name": "Master Mechanic",
+      "Percentage": 17,
+      "XP": 100
+    },
+    {
+      "ID": "A_Hire_Crew",
+      "SetID": "56632p4",
+      "Name": "You\u0027re Hired!",
+      "Percentage": 30,
+      "XP": 50
+    },
+    {
+      "ID": "A_Kill_Cookie_Cutter",
+      "SetID": "56632p4",
+      "Name": "Cookie Addict",
+      "Percentage": 43,
+      "XP": 5
+    },
+    {
+      "ID": "A_Meet_Uncle_Steff",
+      "SetID": "56632p4",
+      "Name": "Family Reunion",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "A_Mine_10_Asteroid",
+      "SetID": "56632p4",
+      "Name": "Expert Miner",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "A_Mine_1_Asteroid",
+      "SetID": "56632p4",
+      "Name": "Miner",
+      "Percentage": 61,
+      "XP": 5
+    },
+    {
+      "ID": "A_Mine_25_Asteroid",
+      "SetID": "56632p4",
+      "Name": "Master Miner",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "A_Pancake_Day",
+      "SetID": "56632p4",
+      "Name": "Pancake Day",
+      "Percentage": 17,
+      "XP": 20
+    },
+    {
+      "ID": "A_Ray_Of_Sunshine",
+      "SetID": "56632p4",
+      "Name": "Ray of Sunshine",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "A_Salvage_10_Wrecks",
+      "SetID": "56632p4",
+      "Name": "Expert Salvager",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "A_Salvage_1_Wreck",
+      "SetID": "56632p4",
+      "Name": "Salvager",
+      "Percentage": 35,
+      "XP": 5
+    },
+    {
+      "ID": "A_Salvage_25_Wrecks",
+      "SetID": "56632p4",
+      "Name": "Master Salvager",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "A_Visit_All_Stations",
+      "SetID": "56632p4",
+      "Name": "Day Trip",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +195,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 23,
+  "LastChanged_Achievements": "2023-05-04T19:18:54.669705+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 23,
-  "LastUpdate_Achievements": "2023-05-04T19:04:02.543164+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:28.9979274+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:02.5431613+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:54.6697233+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:27.1632714+00:00",
+  "AchievementSets": [
+    {
+      "ID": "56632p4",
+      "IsBase": true,
+      "Progressed": 23,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
+  "FirstSeen": "2023-01-11T17:10:59.3040461+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 288,
-  "FirstSeen": "2023-01-11T17:10:59.3040461+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00"
 }

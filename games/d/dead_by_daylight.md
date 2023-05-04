@@ -4,9 +4,226 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 27,021  (Ranked 16)  
 Sum: 218,216 (Ranked 12)  
-Diff (max vs sum): 4
+Diff (max vs sum): 4  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| It wakes | 80.00 |
+| Zealous | 75.00 |
+| Skillful | 74.00 |
+| Not half bad | 67.00 |
+| Apt Survivor | 62.00 |
+| Survival Treasures | 62.00 |
+| Handyman | 59.00 |
+| Resurgence | 57.00 |
+| Sorted | 56.00 |
+| Healthy Obsession | 55.00 |
+| No one left behind | 54.00 |
+| Nerves of steel | 54.00 |
+| Bloody Millionaire | 54.00 |
+| I | 54.00 |
+| Medic | 53.00 |
+| Humanitarian | 53.00 |
+| Preemptive Strike | 52.00 |
+| The Grand Sacrifice | 50.00 |
+| Engineer | 50.00 |
+| Backdoor Escape | 49.00 |
+| Perfect Escape | 49.00 |
+| Close Shave | 49.00 |
+| Agonizing Escape | 47.00 |
+| I've got your back | 46.00 |
+| Perfect Killing | 44.00 |
+| Wounded Healer | 43.00 |
+| Risk it all | 41.00 |
+| II | 41.00 |
+| Apt Killer | 40.00 |
+| With Scars to Show | 40.00 |
+| Vulture | 39.00 |
+| Every Last Drop | 38.00 |
+| III | 36.00 |
+| First to the Punch | 36.00 |
+| Old West Oasis | 35.00 |
+| Flight to Freedom | 35.00 |
+| Unforgettable Getaway | 34.00 |
+| Operation: Survival | 34.00 |
+| Made it out alive! | 33.00 |
+| Cherish your Life | 33.00 |
+| Cutting Out | 33.00 |
+| Classy Act | 33.00 |
+| Near-Death Experience | 32.00 |
+| Raccoon City Recruit | 32.00 |
+| Blood on your hands | 29.00 |
+| All Aboard | 29.00 |
+| III-50 | 28.00 |
+| Shock Therapy | 28.00 |
+| Item of Obsession | 28.00 |
+| Holiday Get-Together | 28.00 |
+| Campbell's Chapel Legacy | 28.00 |
+| Ancestor's Rite | 28.00 |
+| Cottage Owner | 27.00 |
+| Escaping the Nightmare | 27.00 |
+| Outrun Evil | 27.00 |
+| Grim Pilgrimage | 27.00 |
+| Leapfrog | 26.00 |
+| Escape Artist | 25.00 |
+| Gifts for the Fog | 25.00 |
+| Selfless Survival | 25.00 |
+| House of Pain | 24.00 |
+| Shrine Apparatus | 24.00 |
+| End of Days | 24.00 |
+| A bite for the Entity | 23.00 |
+| Hemophobia | 23.00 |
+| Insult and Injury | 23.00 |
+| Outrun the Overlap | 23.00 |
+| Blood on your face | 22.00 |
+| Serial Killer | 22.00 |
+| Devoted Gatekeeping | 22.00 |
+| A Fast Death | 22.00 |
+| Deep Cleansing | 21.00 |
+| Game Over | 21.00 |
+| Lifting The Fog | 21.00 |
+| Broken Bodies | 20.00 |
+| Jump Scares | 19.00 |
+| Texas BBQ | 19.00 |
+| Happy Holidays | 19.00 |
+| I See You | 18.00 |
+| Party Crasher | 17.00 |
+| Whiffing to Success | 17.00 |
+| Outrage | 17.00 |
+| Heavy Burden | 17.00 |
+| Looter | 16.00 |
+| Prowler | 16.00 |
+| Triage | 15.00 |
+| Rebuilding The Borgo | 15.00 |
+| Chorus of Chaos | 15.00 |
+| Punch Drunk | 14.00 |
+| High Speed Pursuit | 14.00 |
+| Blood in your mouth | 13.00 |
+| Dismantle | 11.00 |
+| Denied! | 11.00 |
+| Death of Ignorance | 11.00 |
+| Power Moves | 11.00 |
+| Bodyguard | 10.00 |
+| Mad House | 9.00 |
+| Milk 'n' Cookies | 9.00 |
+| Deranged Pursuit | 9.00 |
+| A feast for the Entity | 8.00 |
+| In the void she walks | 8.00 |
+| Ghost in the Machine | 8.00 |
+| From the Deep | 8.00 |
+| Rescue Mission | 7.00 |
+| One Thousand Cuts | 7.00 |
+| Hack the Mainframe | 7.00 |
+| Silent Approach | 6.00 |
+| Left For Dead | 6.00 |
+| Speed Kills | 6.00 |
+| Multi-tasker | 6.00 |
+| Bound and Downed | 5.00 |
+| Viral Video | 5.00 |
+| Cripple them all | 4.00 |
+| The Key to Escape | 4.00 |
+| Adept Meg | 4.00 |
+| Even Punishment | 4.00 |
+| Swirling Death | 4.00 |
+| Butcherin' | 4.00 |
+| Conniption | 4.00 |
+| Terminal Illness | 4.00 |
+| Totally Vulnerable | 4.00 |
+| Biological Weaponry | 4.00 |
+| Tear Their Soul Apart | 4.00 |
+| The Grind | 3.00 |
+| Adept Claudette | 3.00 |
+| Triggered | 3.00 |
+| Adept Dwight | 2.00 |
+| Adept Nea | 2.00 |
+| The man behind the bush | 2.00 |
+| Evil Incarnate | 2.00 |
+| Dream Demon | 2.00 |
+| Taking One For The Team | 2.00 |
+| Adept Bill | 2.00 |
+| Bloodbath | 2.00 |
+| Quick Draw | 2.00 |
+| Cleansed in Agony | 2.00 |
+| Fleet of Foot | 2.00 |
+| Bump in the Night | 2.00 |
+| Adept Jake | 1.00 |
+| Shocking Treatment | 1.00 |
+| Adept Min | 1.00 |
+| Adept David | 1.00 |
+| Smoked | 1.00 |
+| Adept Kate | 1.00 |
+| Not Today | 1.00 |
+| Tag Team | 1.00 |
+| Bless You | 1.00 |
+| Adept Mikaela | 1.00 |
+| Caws of Death | 1.00 |
+| Collision Course | 1.00 |
+| Cruelty Loves Company | 1.00 |
+| Thrill of the Chase | 1.00 |
+| Adept Wraith | 0.90 |
+| Adept Huntress | 0.80 |
+| Adept Leon | 0.80 |
+| Hiding Seeker | 0.80 |
+| Adept Trapper | 0.70 |
+| Adept Hillbilly | 0.70 |
+| Adept Nurse | 0.70 |
+| I Want to Play a Game | 0.60 |
+| Adept Legion | 0.60 |
+| Adept Yui | 0.60 |
+| Adept Nemesis | 0.60 |
+| Adept Jill | 0.60 |
+| Adept Shape | 0.50 |
+| Adept Laurie | 0.50 |
+| Adept Tapp | 0.50 |
+| Adept Ghost Face | 0.50 |
+| Adept Cheryl | 0.50 |
+| Adept Trickster | 0.50 |
+| Adept Onryō | 0.50 |
+| Outbreak Breakout | 0.50 |
+| Adept Ada | 0.50 |
+| Adept Rebecca | 0.50 |
+| Adept Doctor | 0.40 |
+| Adept Clown | 0.40 |
+| Adept Spirit | 0.40 |
+| Adept Adam | 0.40 |
+| Adept Jane | 0.40 |
+| Adept Zarina | 0.40 |
+| Adept Executioner | 0.40 |
+| Adept Blight | 0.40 |
+| Adept Felix | 0.40 |
+| Adept Yun-Jin | 0.40 |
+| Adept Cenobite | 0.40 |
+| Adept Artist | 0.40 |
+| Adept Jonah | 0.40 |
+| Adept Haddie | 0.40 |
+| Adept Mastermind | 0.40 |
+| Adept Vittorio | 0.40 |
+| From the void she kills | 0.30 |
+| Adept Hag | 0.30 |
+| Adept Ace | 0.30 |
+| Adept Cannibal | 0.30 |
+| Adept Nightmare | 0.30 |
+| Adept Quentin | 0.30 |
+| Adept Pig | 0.30 |
+| Adept Jeff | 0.30 |
+| Adept Plague | 0.30 |
+| Adept Ash | 0.30 |
+| Adept Oni | 0.30 |
+| Adept Deathslinger | 0.30 |
+| Adept Élodie | 0.30 |
+| Adept Yoichi | 0.30 |
+| Adept Dredge | 0.30 |
+| Adept Knight | 0.30 |
+| Skilled Generalist | 0.20 |
+| Adept Twins | 0.20 |
+| Adept Skull Merchant | 0.20 |
+| Adept Thalita | 0.20 |
+| Adept Renato | 0.20 |
+| Skilled Huntress | 0.10 |
+| Tools of the Trade | 0.10 |
+| Expert Generalist | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,138 (Ranked 33)  
+Progressed: 396,189 (Ranked 33)  
 Completed: 36 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +237,7 @@ Completed: 36 (0.01%) (Ranked 184)
 | 2023-05-01 | 387,512 | 34 |
 | 2023-05-02 | 390,820 | 34 |
 | 2023-05-03 | 393,736 | 36 |
-| 2023-05-04 | 396,138 | 36 |
+| 2023-05-04 | 396,189 | 36 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

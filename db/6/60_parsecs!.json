@@ -1,6 +1,316 @@
 {
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
+  "Achievements": [
+    {
+      "ID": "Achievement_Aaargh",
+      "SetID": "c01p6e5",
+      "Name": "AAARGH!",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_AcrossTheStars",
+      "SetID": "c01p6e5",
+      "Name": "Across The Stars",
+      "Percentage": 46,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_AirlockExit",
+      "SetID": "c01p6e5",
+      "Name": "No Ticket",
+      "Percentage": 0.9,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_AllSeatsTaken",
+      "SetID": "c01p6e5",
+      "Name": "All Seats Taken",
+      "Percentage": 34,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_AxelInSpace",
+      "SetID": "c01p6e5",
+      "Name": "Axel jump in space!",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_BabyAstro",
+      "SetID": "c01p6e5",
+      "Name": "Unidentified Flying Offspring",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_Bingpot",
+      "SetID": "c01p6e5",
+      "Name": "Bingpot!",
+      "Percentage": 0.9,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_BovineDomain",
+      "SetID": "c01p6e5",
+      "Name": "Bovine Domain",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_Crafty",
+      "SetID": "c01p6e5",
+      "Name": "Crafty",
+      "Percentage": 44,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_DontPanic",
+      "SetID": "c01p6e5",
+      "Name": "Don\u0027t Panic!",
+      "Percentage": 97,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_DustToDust",
+      "SetID": "c01p6e5",
+      "Name": "Dust to Dust",
+      "Percentage": 57,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_EcoShuttle",
+      "SetID": "c01p6e5",
+      "Name": "Eco-Shuttle",
+      "Percentage": 18,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_ExtremeMakeover",
+      "SetID": "c01p6e5",
+      "Name": "Extreme Makeover",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_FeelsLikeHome",
+      "SetID": "c01p6e5",
+      "Name": "Feels like home",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_Felix",
+      "SetID": "c01p6e5",
+      "Name": "Libert\u00E9, \u00C9galit\u00E9, F\u00E9linit\u00E9",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_FirstOfApril",
+      "SetID": "c01p6e5",
+      "Name": "First of April",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_FixItFelix",
+      "SetID": "c01p6e5",
+      "Name": "Fix-It Felix",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_ForScience",
+      "SetID": "c01p6e5",
+      "Name": "For Science!",
+      "Percentage": 31,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_Friendzone",
+      "SetID": "c01p6e5",
+      "Name": "Friendzone",
+      "Percentage": 79,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_GiantLeap",
+      "SetID": "c01p6e5",
+      "Name": "Giant Leap",
+      "Percentage": 0.3,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_GoldMedalist",
+      "SetID": "c01p6e5",
+      "Name": "Gold Medalist",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_HandsFull",
+      "SetID": "c01p6e5",
+      "Name": "Hands Full",
+      "Percentage": 12,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_HelloWorld",
+      "SetID": "c01p6e5",
+      "Name": "Hello World",
+      "Percentage": 74,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_Improvinator",
+      "SetID": "c01p6e5",
+      "Name": "The Improvinator",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_IntergalacticBreakup",
+      "SetID": "c01p6e5",
+      "Name": "Intergalactic Breakup",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_KIA",
+      "SetID": "c01p6e5",
+      "Name": "KIA",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_LastSupper",
+      "SetID": "c01p6e5",
+      "Name": "The Last Supper",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_Maegangement",
+      "SetID": "c01p6e5",
+      "Name": "Flawless Maegangement",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_MeetThePetersons",
+      "SetID": "c01p6e5",
+      "Name": "Meet the Petersons",
+      "Percentage": 31,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_MutinyInMaking",
+      "SetID": "c01p6e5",
+      "Name": "Mutiny in making",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_Muttnik",
+      "SetID": "c01p6e5",
+      "Name": "Man\u0027s best comrade",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_NoManLeftBehind",
+      "SetID": "c01p6e5",
+      "Name": "No Man Left Behind",
+      "Percentage": 9,
+      "XP": 70
+    },
+    {
+      "ID": "Achievement_NonFiction",
+      "SetID": "c01p6e5",
+      "Name": "Non-Fiction",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_SecondLife",
+      "SetID": "c01p6e5",
+      "Name": "Second Life",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_SmallStep",
+      "SetID": "c01p6e5",
+      "Name": "Small Step",
+      "Percentage": 0.5,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_SoupOdyssey",
+      "SetID": "c01p6e5",
+      "Name": "2018: A Soup Odyssey",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_SpaceColonization",
+      "SetID": "c01p6e5",
+      "Name": "Space Colonization",
+      "Percentage": 80,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_SpaceEngineer",
+      "SetID": "c01p6e5",
+      "Name": "Space Engineer",
+      "Percentage": 62,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_SpaceExplorer",
+      "SetID": "c01p6e5",
+      "Name": "Space Explorer",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_SpaceSelfie",
+      "SetID": "c01p6e5",
+      "Name": "Space Selfie",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_StayCool",
+      "SetID": "c01p6e5",
+      "Name": "Stay Cool",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_ThatsNoMoon",
+      "SetID": "c01p6e5",
+      "Name": "That\u0027s No Moon!",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_Tinkerer",
+      "SetID": "c01p6e5",
+      "Name": "Tinkerer",
+      "Percentage": 62,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_Traitor",
+      "SetID": "c01p6e5",
+      "Name": "Et tu, Astrocitizen?",
+      "Percentage": 19,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +342,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.17,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 44,
+  "LastChanged_Achievements": "2023-05-04T19:15:13.4069935+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 1,
   "EOS_Progressed": 582,
-  "LastUpdate_Achievements": "2023-05-04T19:00:14.9202188+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:29.3902207+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:14.9202146+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:13.4070321+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:27.5465661+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c01p6e5",
+      "IsBase": true,
+      "Progressed": 582,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 0.17,
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
+  "FirstSeen": "2022-12-17T01:59:53.1136377+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_Progress": 181,
-  "FirstSeen": "2022-12-17T01:59:53.1136377+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00"
 }

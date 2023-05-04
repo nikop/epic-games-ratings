@@ -1,6 +1,379 @@
 {
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
+  "Achievements": [
+    {
+      "ID": "aeromancer",
+      "SetID": "2jelldm",
+      "Name": "The Aeromancer",
+      "Percentage": 66,
+      "XP": 10
+    },
+    {
+      "ID": "area_copse",
+      "SetID": "2jelldm",
+      "Name": "The Copse",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "area_mountain",
+      "SetID": "2jelldm",
+      "Name": "The Mountain",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "area_swamp",
+      "SetID": "2jelldm",
+      "Name": "The Swamp",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "area_wastes",
+      "SetID": "2jelldm",
+      "Name": "The Wastes",
+      "Percentage": 83,
+      "XP": 10
+    },
+    {
+      "ID": "bibliomancer",
+      "SetID": "2jelldm",
+      "Name": "The Bibliomancer",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "bluedragon",
+      "SetID": "2jelldm",
+      "Name": "The Dragon",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "chronomancer",
+      "SetID": "2jelldm",
+      "Name": "The Chronomancer",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "corpumancer",
+      "SetID": "2jelldm",
+      "Name": "The Corpumancer",
+      "Percentage": 42,
+      "XP": 10
+    },
+    {
+      "ID": "crafting_all_replenish_found",
+      "SetID": "2jelldm",
+      "Name": "Well Stocked",
+      "Percentage": 27,
+      "XP": 50
+    },
+    {
+      "ID": "crafting_all_replenish_upgrade",
+      "SetID": "2jelldm",
+      "Name": "Top Shelf",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "crafting_first_craft",
+      "SetID": "2jelldm",
+      "Name": "Waste Not",
+      "Percentage": 80,
+      "XP": 10
+    },
+    {
+      "ID": "crafting_first_replenish",
+      "SetID": "2jelldm",
+      "Name": "Stock Up",
+      "Percentage": 75,
+      "XP": 10
+    },
+    {
+      "ID": "crafting_max_upgrade",
+      "SetID": "2jelldm",
+      "Name": "Want Not",
+      "Percentage": 21,
+      "XP": 50
+    },
+    {
+      "ID": "cryomancer",
+      "SetID": "2jelldm",
+      "Name": "The Cryomancer",
+      "Percentage": 76,
+      "XP": 10
+    },
+    {
+      "ID": "diablomancer",
+      "SetID": "2jelldm",
+      "Name": "The Diablomancer",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "dracomancer",
+      "SetID": "2jelldm",
+      "Name": "The Dracomancer",
+      "Percentage": 29,
+      "XP": 10
+    },
+    {
+      "ID": "electromancer",
+      "SetID": "2jelldm",
+      "Name": "The Electromancer",
+      "Percentage": 61,
+      "XP": 10
+    },
+    {
+      "ID": "elfslayer",
+      "SetID": "2jelldm",
+      "Name": "The Champion",
+      "Percentage": 91,
+      "XP": 15
+    },
+    {
+      "ID": "end_climb",
+      "SetID": "2jelldm",
+      "Name": "Make The Climb",
+      "Percentage": 10,
+      "XP": 100
+    },
+    {
+      "ID": "end_devour",
+      "SetID": "2jelldm",
+      "Name": "Take Your Place",
+      "Percentage": 14,
+      "XP": 100
+    },
+    {
+      "ID": "faction_blueheart",
+      "SetID": "2jelldm",
+      "Name": "Blueheart Runners",
+      "Percentage": 54,
+      "XP": 15
+    },
+    {
+      "ID": "faction_chaos",
+      "SetID": "2jelldm",
+      "Name": "Chaos Hunger",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "faction_dawnlight",
+      "SetID": "2jelldm",
+      "Name": "Dawnlight Order",
+      "Percentage": 64,
+      "XP": 15
+    },
+    {
+      "ID": "faction_oath",
+      "SetID": "2jelldm",
+      "Name": "Oathbound Watchers",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "faction_sheriff",
+      "SetID": "2jelldm",
+      "Name": "Sheriff Inquisitors",
+      "Percentage": 55,
+      "XP": 15
+    },
+    {
+      "ID": "faction_shroud",
+      "SetID": "2jelldm",
+      "Name": "Shroud Alliance",
+      "Percentage": 39,
+      "XP": 15
+    },
+    {
+      "ID": "firelord",
+      "SetID": "2jelldm",
+      "Name": "The Firelord",
+      "Percentage": 24,
+      "XP": 15
+    },
+    {
+      "ID": "fungalmancer",
+      "SetID": "2jelldm",
+      "Name": "The Fungalmancer",
+      "Percentage": 47,
+      "XP": 10
+    },
+    {
+      "ID": "hag",
+      "SetID": "2jelldm",
+      "Name": "The Hag",
+      "Percentage": 45,
+      "XP": 15
+    },
+    {
+      "ID": "huntsman",
+      "SetID": "2jelldm",
+      "Name": "The Huntsman",
+      "Percentage": 65,
+      "XP": 15
+    },
+    {
+      "ID": "hydromancer",
+      "SetID": "2jelldm",
+      "Name": "The Hydromancer",
+      "Percentage": 73,
+      "XP": 10
+    },
+    {
+      "ID": "kinetomancer",
+      "SetID": "2jelldm",
+      "Name": "The Kinetomancer",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "luminimancer",
+      "SetID": "2jelldm",
+      "Name": "The Luminimancer",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "mechanomancer",
+      "SetID": "2jelldm",
+      "Name": "The Mechanomancer",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "messiah",
+      "SetID": "2jelldm",
+      "Name": "The Sacrifice",
+      "Percentage": 20,
+      "XP": 50
+    },
+    {
+      "ID": "mummy",
+      "SetID": "2jelldm",
+      "Name": "The Exalted",
+      "Percentage": 56,
+      "XP": 15
+    },
+    {
+      "ID": "necromancer",
+      "SetID": "2jelldm",
+      "Name": "The Necromancer",
+      "Percentage": 52,
+      "XP": 10
+    },
+    {
+      "ID": "neuromancer",
+      "SetID": "2jelldm",
+      "Name": "The Neuromancer",
+      "Percentage": 34,
+      "XP": 10
+    },
+    {
+      "ID": "npc_blue_nomad",
+      "SetID": "2jelldm",
+      "Name": "The Nomad",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "npc_king",
+      "SetID": "2jelldm",
+      "Name": "The King",
+      "Percentage": 18,
+      "XP": 20
+    },
+    {
+      "ID": "npc_owlmancer",
+      "SetID": "2jelldm",
+      "Name": "The Scholar",
+      "Percentage": 10,
+      "XP": 20
+    },
+    {
+      "ID": "npc_soldier",
+      "SetID": "2jelldm",
+      "Name": "The Soldier",
+      "Percentage": 11,
+      "XP": 20
+    },
+    {
+      "ID": "pyromancer",
+      "SetID": "2jelldm",
+      "Name": "The Pyromancer",
+      "Percentage": 86,
+      "XP": 10
+    },
+    {
+      "ID": "queen",
+      "SetID": "2jelldm",
+      "Name": "The Matriarch",
+      "Percentage": 70,
+      "XP": 15
+    },
+    {
+      "ID": "sanguimancer",
+      "SetID": "2jelldm",
+      "Name": "The Sanguimancer",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "skylord",
+      "SetID": "2jelldm",
+      "Name": "The Skylord",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "terramancer",
+      "SetID": "2jelldm",
+      "Name": "The Terramancer",
+      "Percentage": 59,
+      "XP": 10
+    },
+    {
+      "ID": "thaumamancer",
+      "SetID": "2jelldm",
+      "Name": "The Thaumamancer",
+      "Percentage": 47,
+      "XP": 10
+    },
+    {
+      "ID": "treeheart",
+      "SetID": "2jelldm",
+      "Name": "The Treeheart",
+      "Percentage": 40,
+      "XP": 15
+    },
+    {
+      "ID": "two_monks",
+      "SetID": "2jelldm",
+      "Name": "The Two Monks",
+      "Percentage": 37,
+      "XP": 15
+    },
+    {
+      "ID": "umbramancer",
+      "SetID": "2jelldm",
+      "Name": "The Umbramancer",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "venomancer",
+      "SetID": "2jelldm",
+      "Name": "The Venomancer",
+      "Percentage": 65,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -683,6 +1056,11 @@
     {
       "Time": "2023-05-04T18:03:40.2209882+00:00",
       "NumProgressed": 63730,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T19:18:14.3006466+00:00",
+      "NumProgressed": 63732,
       "NumCompleted": 1149
     }
   ],
@@ -1873,16 +2251,26 @@
       "NumberOfAwardsMax": 929
     }
   ],
-  "EOS_Completed_Percentage": 1.8,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 53,
+  "LastChanged_Achievements": "2023-05-04T19:18:14.3006461+00:00",
   "EOS_NewCompleters": 10,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_Completed": 1149,
-  "EOS_Progressed": 63730,
-  "LastUpdate_Achievements": "2023-05-04T19:03:19.7623488+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:51.8339045+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:19.762344+00:00",
+  "EOS_Progressed": 63732,
+  "LastUpdate_Achievements": "2023-05-04T19:18:14.3006946+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:50.1837211+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2jelldm",
+      "IsBase": true,
+      "Progressed": 63732,
+      "Completed": 1149
+    }
+  ],
+  "EOS_Completed_Percentage": 1.8,
   "LastChanged": "2023-05-04T14:58:21.4493794+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
+  "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 929,
   "NumberOfAwards": 1859,
@@ -1895,5 +2283,5 @@
   "Ranking_Popularity": 140,
   "Ranking_Rating": 746,
   "Rating": 4.31,
-  "FirstSeen": "2022-07-22T20:23:45.0965926+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00"
 }

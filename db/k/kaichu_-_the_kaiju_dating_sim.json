@@ -1,6 +1,113 @@
 {
   "ID": "5cadfb94efd74932b97805c2a78f4150",
   "Name": "Kaichu - The Kaiju Dating Sim",
+  "Achievements": [
+    {
+      "ID": "A_HEATED_AFFAIR",
+      "SetID": "dhjj31a",
+      "Name": "A Heated Affair",
+      "Percentage": 27,
+      "XP": 30
+    },
+    {
+      "ID": "CYBER_BULLY",
+      "SetID": "dhjj31a",
+      "Name": "Cyber Bully",
+      "Percentage": 68,
+      "XP": 75
+    },
+    {
+      "ID": "EVERYTHINGS_COMING_UP_GIGACHU",
+      "SetID": "dhjj31a",
+      "Name": "Everything\u0027s Coming Up Gigachu",
+      "Percentage": 91,
+      "XP": 75
+    },
+    {
+      "ID": "FRIENDZONED",
+      "SetID": "dhjj31a",
+      "Name": "Friendzoned",
+      "Percentage": 32,
+      "XP": 100
+    },
+    {
+      "ID": "LONG_DISTANCE_RELATIONSHIP",
+      "SetID": "dhjj31a",
+      "Name": "Long Distance Relationship",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "LOVED_AND_LOST",
+      "SetID": "dhjj31a",
+      "Name": "Loved and Lost",
+      "Percentage": 14,
+      "XP": 75
+    },
+    {
+      "ID": "LOVE_IS_IN_BLOOM",
+      "SetID": "dhjj31a",
+      "Name": "Love is in Bloom",
+      "Percentage": 41,
+      "XP": 30
+    },
+    {
+      "ID": "LOVE_IS_IN_THE_AIR",
+      "SetID": "dhjj31a",
+      "Name": "Love is in the Air",
+      "Percentage": 27,
+      "XP": 30
+    },
+    {
+      "ID": "LOVING_COMMUTE",
+      "SetID": "dhjj31a",
+      "Name": "Loving Commute",
+      "Percentage": 59,
+      "XP": 50
+    },
+    {
+      "ID": "OUT_OF_YOUR_SHELL",
+      "SetID": "dhjj31a",
+      "Name": "Out of Your Shell",
+      "Percentage": 18,
+      "XP": 30
+    },
+    {
+      "ID": "POLYAMOROUSASAURUS",
+      "SetID": "dhjj31a",
+      "Name": "Polyamorousasaurus",
+      "Percentage": 18,
+      "XP": 200
+    },
+    {
+      "ID": "ROYAL_ROMANCE",
+      "SetID": "dhjj31a",
+      "Name": "Royal Romance",
+      "Percentage": 36,
+      "XP": 30
+    },
+    {
+      "ID": "SHORT_DISTANCE_RELATIONSHIP",
+      "SetID": "dhjj31a",
+      "Name": "Short Distance Relationship",
+      "Percentage": 23,
+      "XP": 30
+    },
+    {
+      "ID": "SPEED_DATING",
+      "SetID": "dhjj31a",
+      "Name": "Speed Dating",
+      "Percentage": 36,
+      "XP": 120
+    },
+    {
+      "ID": "SPREAD_THE_LOVE",
+      "SetID": "dhjj31a",
+      "Name": "Spread the Love",
+      "Percentage": 23,
+      "XP": 75
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +129,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 13.64,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:17:31.4715083+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 3,
   "EOS_Progressed": 22,
-  "LastUpdate_Achievements": "2023-05-04T19:02:26.5070446+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:26.3031875+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:26.5070418+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:31.4715194+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:25.8356796+00:00",
+  "AchievementSets": [
+    {
+      "ID": "dhjj31a",
+      "IsBase": true,
+      "Progressed": 22,
+      "Completed": 3
+    }
+  ],
+  "EOS_Completed_Percentage": 13.64,
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
+  "FirstSeen": "2023-01-14T19:57:38.3223462+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_Progress": 290,
-  "FirstSeen": "2023-01-14T19:57:38.3223462+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00"
 }

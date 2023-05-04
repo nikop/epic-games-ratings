@@ -1,6 +1,7 @@
 {
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -500,14 +501,18 @@
       "Rating": 4.51
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:36.859766+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:57.7591149+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:55.7732062+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2022-12-08T03:57:39.0693837+00:00",
+  "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 32,
   "NumberOfAwards": 219,
@@ -519,6 +524,5 @@
   "Ranking_PopularitySum": 343,
   "Ranking_Popularity": 434,
   "Ranking_Rating": 513,
-  "Rating": 4.51,
-  "FirstSeen": "2022-07-22T20:29:19.2920768+00:00"
+  "Rating": 4.51
 }

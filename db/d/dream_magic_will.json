@@ -1,6 +1,7 @@
 {
   "ID": "af4ad21f0f9749d9ba0202073fc1566f",
   "Name": "Dream magic will",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:01.1408709+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:02.3619084+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:45.5518445+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:02.3619035+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:01.1408791+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:44.6917856+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4ip031m",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T17:59:00.8909668+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:34.4269128+00:00",
   "FirstSeenRating": "2023-04-16T17:59:00.8909668+00:00",
+  "FirstSeen": "2023-04-16T17:59:00.8909623+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-16T17:59:00.8909623+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:34.4269128+00:00"
 }

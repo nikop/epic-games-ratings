@@ -1,10 +1,28 @@
 # Cartel Tycoon
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 101  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Our Man | 84.00 |
+| Take-Off | 78.00 |
+| Hokey-Pokey | 72.00 |
+| Camellos | 57.00 |
+| Bad Trip | 46.00 |
+| Didn't Miss A Single One | 44.00 |
+| Spread | 39.00 |
+| That was base | 38.00 |
+| Safe Pair of Hands | 35.00 |
+| Don't Let Mom Know You're A Druglord | 29.00 |
+| Architect of Fortunes | 25.00 |
+| Pampered Life | 25.00 |
+| Bite the Blow | 16.00 |
+| Spreading Fear | 9.00 |
+| Follow the Money | 8.00 |
+| I'm Going To Call You Kitty | 8.00 |
+| Operation Odessa | 1.00 |
+| Sense Of Style | 0.70 |
+| Iron Lady | 0.70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 304 (Ranked 204)  
 Completed: 1 (0.33%) (Ranked 110)  
@@ -20,9 +38,6 @@ Completed: 1 (0.33%) (Ranked 110)
 | 2023-05-01 | 298 | 1 |
 | 2023-05-03 | 300 | 1 |
 | 2023-05-04 | 304 | 1 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,6 +1,7 @@
 {
   "ID": "b156c3365a5b4cb9a01a5e1108b4e3f4",
   "Name": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:06.1344217+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:37.3167531+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:35.5337608+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:07.9002611+00:00",
   "FirstSeenRating": "2023-03-31T05:57:07.900261+00:00",
+  "FirstSeen": "2022-07-22T20:18:34.4284501+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:18:34.4284501+00:00"
+  "Ranking_EOS_Progress": 378
 }

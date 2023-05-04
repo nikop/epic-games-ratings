@@ -1,6 +1,106 @@
 {
   "ID": "8f412f068bf3470699726398816663a1",
   "Name": "Cafe Owner Simulator",
+  "Achievements": [
+    {
+      "ID": "ADVANCED",
+      "SetID": "64e5lgf",
+      "Name": "ADVANCED",
+      "Percentage": 35,
+      "XP": 5
+    },
+    {
+      "ID": "BUSINESS_OWNER",
+      "SetID": "64e5lgf",
+      "Name": "BUSINESS OWNER",
+      "Percentage": 98,
+      "XP": 5
+    },
+    {
+      "ID": "CHIEF",
+      "SetID": "64e5lgf",
+      "Name": "CHIEF",
+      "Percentage": 17,
+      "XP": 15
+    },
+    {
+      "ID": "CLEANER",
+      "SetID": "64e5lgf",
+      "Name": "CLEANER",
+      "Percentage": 93,
+      "XP": 5
+    },
+    {
+      "ID": "DEBTOR",
+      "SetID": "64e5lgf",
+      "Name": "DEBTOR",
+      "Percentage": 8,
+      "XP": 5
+    },
+    {
+      "ID": "FIREFIGHTER",
+      "SetID": "64e5lgf",
+      "Name": "FIREFIGHTER",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "FIRST_100K",
+      "SetID": "64e5lgf",
+      "Name": "FIRST $100K",
+      "Percentage": 3,
+      "XP": 145
+    },
+    {
+      "ID": "FIRST_500K",
+      "SetID": "64e5lgf",
+      "Name": "500K$.",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "FIRST_LOSED_VISITOR",
+      "SetID": "64e5lgf",
+      "Name": "OH NO, HE\u0027S LEAVING!",
+      "Percentage": 72,
+      "XP": 10
+    },
+    {
+      "ID": "INTRODUCTION",
+      "SetID": "64e5lgf",
+      "Name": "INTRODUCTION",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "SECOND_FLOOR",
+      "SetID": "64e5lgf",
+      "Name": "SECOND_FLOOR",
+      "Percentage": 11,
+      "XP": 150
+    },
+    {
+      "ID": "SUCCESSFUL",
+      "SetID": "64e5lgf",
+      "Name": "SUCCESSFUL",
+      "Percentage": 3,
+      "XP": 200
+    },
+    {
+      "ID": "THINGS_ARE_GOING_WELL",
+      "SetID": "64e5lgf",
+      "Name": "THINGS ARE GOING WELL",
+      "Percentage": 3,
+      "XP": 200
+    },
+    {
+      "ID": "YETTI",
+      "SetID": "64e5lgf",
+      "Name": "YETTI",
+      "Percentage": 2,
+      "XP": 200
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -117,22 +217,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 14,
+  "LastChanged_Achievements": "2023-05-04T19:19:18.3977488+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 15,
   "EOS_Completed": 0,
   "EOS_Progressed": 236,
-  "LastUpdate_Achievements": "2023-05-04T19:04:27.7668578+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:55.8796434+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:27.7668545+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:18.39776+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:53.9509595+00:00",
+  "AchievementSets": [
+    {
+      "ID": "64e5lgf",
+      "IsBase": true,
+      "Progressed": 236,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
+  "FirstSeen": "2023-04-13T01:55:49.9064059+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 217,
-  "FirstSeen": "2023-04-13T01:55:49.9064059+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00"
 }

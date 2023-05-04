@@ -4,9 +4,52 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 687  (Ranked 156)  
 Sum: 1,043 (Ranked 226)  
-Diff (max vs sum): -70
+Diff (max vs sum): -70  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Goodest Of The Good Cops | 28.00 |
+| Biggest Communism Builder | 24.00 |
+| The World's Most Laughable Centrist | 20.00 |
+| Il Coppo Del'Arte! | 18.00 |
+| Baddest Hustler In The Neoliberal Hood | 16.00 |
+| Hyperstellar Law Official | 15.00 |
+| Recruit Detective Kim Kitsuragi | 14.00 |
+| Literally The Sorriest Cop On Earth | 13.00 |
+| Gurdi-Ball Is Lit | 13.00 |
+| Truly Rabid *Traditionalist* | 11.00 |
+| The Figurines Won't Win Her Back | 9.00 |
+| Unbelievably Boring **** | 8.00 |
+| Enemy Of The Physical Realm | 8.00 |
+| Hardie's Heroes | 5.00 |
+| Fairweather t-500 Vitreous Enamel | 4.00 |
+| The Opener Of The Eighth Seal | 3.00 |
+| The Lawbringer | 3.00 |
+| Baddest Of the Bad Cops | 2.00 |
+| Expert Advanced Remote Viewer | 2.00 |
+| Recruit Detective Kuuno de Ruyter | 2.00 |
+| Bother Kim After Hours | 2.00 |
+| Wheel of Pleasure and Light | 2.00 |
+| Massive Torque Dork | 1.00 |
+| Avowed Inframaterialist | 0.90 |
+| Real Musor | 0.90 |
+| Committee of la Responsabilité | 0.80 |
+| Venture into the HARDCORE | 0.80 |
+| Baddest Brow in Town | 0.70 |
+| Networthy Individual | 0.70 |
+| Leopard Mindset | 0.50 |
+| Modus: Mullen | 0.30 |
+| Palerunner | 0.30 |
+| Cause a ****storm | 0.20 |
+| True Detective | 0.20 |
+| The Icebreaker | 0.20 |
+| The Most Honourable Cop in The Land | 0.10 |
+| Gluten-Free Topping Pie | 0.10 |
+| Get Kim to Wear *The Jacket* | 0.10 |
+| Medal dispenser | 0.10 |
+| What body? | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,941 (Ranked 55)  
+Progressed: 117,942 (Ranked 55)  
 Completed: 24 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +63,7 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-01 | 117,827 | 24 |
 | 2023-05-02 | 117,873 | 24 |
 | 2023-05-03 | 117,917 | 24 |
-| 2023-05-04 | 117,941 | 24 |
+| 2023-05-04 | 117,942 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

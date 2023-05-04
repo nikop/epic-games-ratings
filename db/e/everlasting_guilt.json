@@ -1,20 +1,31 @@
 {
   "ID": "81f52f8f7a3e4599bd6b3792f10627cb",
   "Name": "Everlasting Guilt",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:39.6657339+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:46.6171223+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:15.8334278+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:46.6171203+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:48:53.81887+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:39.6657384+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:14.3978778+00:00",
+  "AchievementSets": [
+    {
+      "ID": "230d40b",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:48:53.81887+00:00"
 }

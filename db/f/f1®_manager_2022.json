@@ -1,6 +1,7 @@
 {
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1215,17 +1216,27 @@
       "NumberOfAwardsMax": 238
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:31.0255511+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:37.3918552+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:56.8265472+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:37.3918533+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:31.0255563+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:54.8844237+00:00",
+  "AchievementSets": [
+    {
+      "ID": "a1glf60",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T16:59:05.8898756+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
+  "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 238,
   "NumberOfAwards": 1781,
@@ -1238,5 +1249,5 @@
   "Ranking_Popularity": 239,
   "Ranking_Rating": 395,
   "Rating": 4.59,
-  "FirstSeen": "2022-08-30T14:01:37.4479981+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00"
 }

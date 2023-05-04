@@ -1,6 +1,176 @@
 {
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
+  "Achievements": [
+    {
+      "ID": "ACH_BlueIntro",
+      "SetID": "a3lf366",
+      "Name": "Feeling the Blues",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_CollectAll",
+      "SetID": "a3lf366",
+      "Name": "The Collector",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "ACH_CrushEnemy",
+      "SetID": "a3lf366",
+      "Name": "Squished",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_CrushPhysicsBall",
+      "SetID": "a3lf366",
+      "Name": "Crush That Ball!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_CrushPhysicsCube",
+      "SetID": "a3lf366",
+      "Name": "Crush That Cube!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_Finale",
+      "SetID": "a3lf366",
+      "Name": "Finale",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_S8AllBronze",
+      "SetID": "a3lf366",
+      "Name": "Bronze Trophy",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_S8AllCubes",
+      "SetID": "a3lf366",
+      "Name": "Master Of The Collectables",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_S8AllGold",
+      "SetID": "a3lf366",
+      "Name": "Gold Trophy",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_S8AllMasterRoom",
+      "SetID": "a3lf366",
+      "Name": "Hopefully that\u0027s all of them!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_S8AllPuzzleRooms",
+      "SetID": "a3lf366",
+      "Name": "Phew!",
+      "Percentage": 0,
+      "XP": 45
+    },
+    {
+      "ID": "ACH_S8AllPuzzles",
+      "SetID": "a3lf366",
+      "Name": "The Puzzle Master",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_S8AllSilver",
+      "SetID": "a3lf366",
+      "Name": "Silver Trophy",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_S8Exit",
+      "SetID": "a3lf366",
+      "Name": "Completed It.",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_S8MasterRoom",
+      "SetID": "a3lf366",
+      "Name": "Master Room",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_S8MaxPoints",
+      "SetID": "a3lf366",
+      "Name": "Maxed Out",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_Sector1",
+      "SetID": "a3lf366",
+      "Name": "Sector 1",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sector2",
+      "SetID": "a3lf366",
+      "Name": "Sector 2",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sector3",
+      "SetID": "a3lf366",
+      "Name": "Sector 3",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sector4",
+      "SetID": "a3lf366",
+      "Name": "Sector 4",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sector5",
+      "SetID": "a3lf366",
+      "Name": "Sector 5",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sector6",
+      "SetID": "a3lf366",
+      "Name": "Sector 6",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sector7",
+      "SetID": "a3lf366",
+      "Name": "Sector 7",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_TurnBallBlack",
+      "SetID": "a3lf366",
+      "Name": "Did That Work? -- No!",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +180,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:19:20.6517413+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:04:30.0811088+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:55.9221427+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:30.0811075+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:20.6517592+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:54.0058737+00:00",
+  "AchievementSets": [
+    {
+      "ID": "a3lf366",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00"
 }

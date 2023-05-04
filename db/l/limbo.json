@@ -1,6 +1,7 @@
 {
   "ID": "92053006068e4aa9b1ad413f72090f5e",
   "Name": "Limbo",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -373,14 +374,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:17.7620831+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:46.8943862+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:45.9058249+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:49.8341392+00:00",
+  "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 198,
@@ -391,6 +396,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 337,
-  "Rating": 4.62,
-  "FirstSeen": "2022-07-22T20:24:43.942118+00:00"
+  "Rating": 4.62
 }

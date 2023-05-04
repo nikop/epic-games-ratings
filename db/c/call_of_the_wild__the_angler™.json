@@ -1,6 +1,253 @@
 {
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_001",
+      "SetID": "1a05lfd",
+      "Name": "Fish Just Got Reel",
+      "Percentage": 71,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_002",
+      "SetID": "1a05lfd",
+      "Name": "Can you smell what the Rod is Hooking",
+      "Percentage": 44,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_003",
+      "SetID": "1a05lfd",
+      "Name": "Hey Good Hookin",
+      "Percentage": 61,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_004",
+      "SetID": "1a05lfd",
+      "Name": "Ready to Rod and Roll",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_005",
+      "SetID": "1a05lfd",
+      "Name": "Fish Out of Water",
+      "Percentage": 29,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_006",
+      "SetID": "1a05lfd",
+      "Name": "I\u0027m on a Boat!",
+      "Percentage": 52,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_007",
+      "SetID": "1a05lfd",
+      "Name": "More Fish in the Sea",
+      "Percentage": 37,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_008",
+      "SetID": "1a05lfd",
+      "Name": "Scaling up",
+      "Percentage": 45,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_009",
+      "SetID": "1a05lfd",
+      "Name": "Things that go Splash in the Night",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_010",
+      "SetID": "1a05lfd",
+      "Name": "License to Gill",
+      "Percentage": 31,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_011",
+      "SetID": "1a05lfd",
+      "Name": "More than a Tourist",
+      "Percentage": 13,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_012",
+      "SetID": "1a05lfd",
+      "Name": "I\u0027m the Captain Now",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_013",
+      "SetID": "1a05lfd",
+      "Name": "Hook, Line and Sinker",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_014",
+      "SetID": "1a05lfd",
+      "Name": "Goldfish?",
+      "Percentage": 25,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_015",
+      "SetID": "1a05lfd",
+      "Name": "Going for Gold",
+      "Percentage": 23,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_016",
+      "SetID": "1a05lfd",
+      "Name": "School\u0027s Out for Summer",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_017",
+      "SetID": "1a05lfd",
+      "Name": "Head for Heights",
+      "Percentage": 0.7,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_018",
+      "SetID": "1a05lfd",
+      "Name": "The Beetles",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_019",
+      "SetID": "1a05lfd",
+      "Name": "Lake Me up Before You Go Go",
+      "Percentage": 0.5,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_020",
+      "SetID": "1a05lfd",
+      "Name": "Marathon",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_021",
+      "SetID": "1a05lfd",
+      "Name": "I\u0027m Hooked!",
+      "Percentage": 17,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_022",
+      "SetID": "1a05lfd",
+      "Name": "Diamond in the Rough",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_023",
+      "SetID": "1a05lfd",
+      "Name": "No Fin left to give",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_024",
+      "SetID": "1a05lfd",
+      "Name": "Have Fish, Will Travel",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_025",
+      "SetID": "1a05lfd",
+      "Name": "Taylor Made",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_026",
+      "SetID": "1a05lfd",
+      "Name": "Big Fish Small Pond",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_027",
+      "SetID": "1a05lfd",
+      "Name": "Lost and Flounder",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_028",
+      "SetID": "1a05lfd",
+      "Name": "Golden Ridge Ranger",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_029",
+      "SetID": "1a05lfd",
+      "Name": "Buckaroo",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_030",
+      "SetID": "1a05lfd",
+      "Name": "Gonna Need a Bigger Boat",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_032",
+      "SetID": "6jk25od",
+      "Name": "Rod and Troll",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_033",
+      "SetID": "6jk25od",
+      "Name": "Norway Jose",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_034",
+      "SetID": "6jk25od",
+      "Name": "Trollsporet Tale Teller",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_035",
+      "SetID": "6jk25od",
+      "Name": "Fish upon a Star",
+      "Percentage": 0.6,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_036",
+      "SetID": "6jk25od",
+      "Name": "Cache and Carry",
+      "Percentage": 0.3,
+      "XP": 100
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -775,17 +1022,33 @@
       "NumberOfAwardsMax": 32
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1200,
+  "TotalAchievements": 35,
+  "LastChanged_Achievements": "2023-05-04T19:19:41.1513611+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 48,
   "EOS_Completed": 0,
   "EOS_Progressed": 3400,
-  "LastUpdate_Achievements": "2023-05-04T19:04:50.4246072+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:14.9595338+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:50.4246034+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:41.1513932+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:13.4365029+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1a05lfd",
+      "IsBase": true,
+      "Progressed": 3400,
+      "Completed": 0
+    },
+    {
+      "ID": "6jk25od",
+      "IsBase": false,
+      "Progressed": 2772,
+      "Completed": 112
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
+  "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 32,
   "NumberOfAwards": 158,
@@ -798,5 +1061,5 @@
   "Ranking_Popularity": 434,
   "Ranking_Rating": 847,
   "Rating": 4.12,
-  "FirstSeen": "2022-08-31T13:30:37.244386+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00"
 }

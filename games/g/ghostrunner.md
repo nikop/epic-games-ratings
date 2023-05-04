@@ -4,9 +4,57 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 454  (Ranked 188)  
 Sum: 586 (Ranked 280)  
-Diff (max vs sum): -92
+Diff (max vs sum): -92  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Longrunner | 79.00 |
+| Sword Runner | 62.00 |
+| Wallrunner | 58.00 |
+| Running out of breath | 56.00 |
+| Homerunner | 47.00 |
+| Out of order | 47.00 |
+| I call it luck | 46.00 |
+| Where are my Keys? | 44.00 |
+| Back to hell | 39.00 |
+| Perfection | 34.00 |
+| Sword to a gunfight | 32.00 |
+| Why not both | 32.00 |
+| Running Wild | 30.00 |
+| Upgrades not mandatory | 30.00 |
+| Artificial selection | 29.00 |
+| Control freak | 29.00 |
+| Finish line | 27.00 |
+| Unstoppable force | 24.00 |
+| Wave of mutilation | 23.00 |
+| Can't Run Can't Hide | 20.00 |
+| R is for Running | 18.00 |
+| Dead in the air | 17.00 |
+| Improvise, adapt, overrun | 15.00 |
+| Pre-empative strike | 15.00 |
+| More than human | 14.00 |
+| Strike | 13.00 |
+| Triple A | 10.00 |
+| Fine addition | 8.00 |
+| One Of Those Days | 7.00 |
+| Push it to the limit | 5.00 |
+| Where He Stood | 5.00 |
+| About Adam | 4.00 |
+| Just A Man | 4.00 |
+| Scrapped | 4.00 |
+| Strafing Run | 4.00 |
+| Junkrunner | 3.00 |
+| One man's trash | 3.00 |
+| Hit me if you can | 2.00 |
+| Obedient Machine | 1.00 |
+| Everyone Needs A Hobby | 0.70 |
+| Sticks And Stones | 0.60 |
+| A Grade | 0.50 |
+| GR Project Complete | 0.50 |
+| Legacy Drivers | 0.50 |
+| Up Close And Personal | 0.50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,890 (Ranked 127)  
+Progressed: 3,892 (Ranked 127)  
 Completed: 20 (0.51%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +68,7 @@ Completed: 20 (0.51%) (Ranked 97)
 | 2023-05-01 | 3,638 | 19 |
 | 2023-05-02 | 3,732 | 19 |
 | 2023-05-03 | 3,816 | 19 |
-| 2023-05-04 | 3,890 | 20 |
+| 2023-05-04 | 3,892 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

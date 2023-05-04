@@ -1,20 +1,31 @@
 {
   "ID": "60845b3263d640efb3c6a458298088bd",
   "Name": "The Lamplighters League",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:49.6897168+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:59.0718166+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:25.4407514+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:59.0718145+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:39.3400058+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:49.6897217+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:23.4360083+00:00",
+  "AchievementSets": [
+    {
+      "ID": "dn9po25",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:52:39.3400058+00:00"
 }

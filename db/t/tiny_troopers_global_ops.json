@@ -1,20 +1,31 @@
 {
   "ID": "c0f4d753dddd48098d9fa004821ddf6f",
   "Name": "Tiny Troopers Global Ops",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:20:04.1851094+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:13.400906+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:39.8103006+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:13.4009043+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:53:20.7258091+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:04.1851146+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:36.4448386+00:00",
+  "AchievementSets": [
+    {
+      "ID": "ccj6ce3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:53:20.7258091+00:00"
 }

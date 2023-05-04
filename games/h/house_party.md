@@ -1,10 +1,9 @@
 # House Party
 Rating: 4.32 (Ranked 737)  
 Number of Ratings: 177  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,937 (Ranked 120)  
 Completed: 2 (0.04%) (Ranked 167)  
@@ -21,9 +20,6 @@ Completed: 2 (0.04%) (Ranked 167)
 | 2023-05-02 | 4,930 | 2 |
 | 2023-05-03 | 4,934 | 2 |
 | 2023-05-04 | 4,937 | 2 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

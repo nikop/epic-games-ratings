@@ -1,9 +1,34 @@
 # New Tales from the Borderlands
 Rating: 4.07 (Ranked 861)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Who Needs Keys? | 48.00 |
+| Totally Intentional | 43.00 |
+| Each Sold Separately | 36.00 |
+| We're In | 31.00 |
+| You're Not Naked | 28.00 |
+| Tale in the Toilet | 28.00 |
+| From Zeroes... | 27.00 |
+| Don't Get Cocky | 26.00 |
+| Shard Snatchers | 23.00 |
+| You Rich Now! | 21.00 |
+| Our Lucky Winner | 20.00 |
+| You Poor Now! | 19.00 |
+| You Got the Goods, Kid | 19.00 |
+| The Shardmenstration | 18.00 |
+| Those Were the Days... | 18.00 |
+| ...To Heroes | 17.00 |
+| Mas, Por Favor | 16.00 |
+| And Still Champion... | 13.00 |
+| Super Trusting Friend! | 9.00 |
+| Bring back the butt! | 4.00 |
+| Hey, thanks! | 4.00 |
+| Murderous Mascot Mayhem | 2.00 |
+| New Business | 0.80 |
+| Okay, Vain Much? | 0.50 |
+| Not Dolls. Action Figures! | 0.20 |
+| You Played This Before? | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,374 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -17,9 +42,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-29 | 3,369 | 0 |
 | 2023-04-30 | 3,371 | 0 |
 | 2023-05-03 | 3,374 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

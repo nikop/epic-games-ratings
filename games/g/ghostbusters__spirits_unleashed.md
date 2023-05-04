@@ -3,9 +3,63 @@ Rating: 4.49 (Ranked 547)
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 226  (Ranked 244)  
 Sum: 2,034 (Ranked 184)  
-Diff (max vs sum): 60
+Diff (max vs sum): 60  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Stylish | 87.00 |
+| Advancement | 74.00 |
+| Meticulously Efficient | 65.00 |
+| Discovery | 63.00 |
+| Swift Rift Removers | 56.00 |
+| Fully Upgraded | 55.00 |
+| I collect Spores, Molds, and Fungi | 53.00 |
+| Cultured | 53.00 |
+| Vaporous Expansion | 49.00 |
+| Teamwork | 45.00 |
+| There you are! | 44.00 |
+| Clutch Capture | 42.00 |
+| Back Off | 36.00 |
+| Daily Dose | 36.00 |
+| Welcome to the Crew | 33.00 |
+| Ghostbuster In Training | 31.00 |
+| Solo Capture | 31.00 |
+| Icing on the Cake | 30.00 |
+| Legions | 28.00 |
+| Side Hustle | 28.00 |
+| We have the best insurance | 27.00 |
+| Pesky Jerks | 27.00 |
+| Stunner | 27.00 |
+| Summoner | 27.00 |
+| Right back at ya | 26.00 |
+| Animated | 25.00 |
+| Collector | 25.00 |
+| Skilled | 25.00 |
+| Ectoplasmic Entity | 24.00 |
+| Rift Destroyer | 21.00 |
+| Tobin's Prodigy | 19.00 |
+| Reckless | 18.00 |
+| Terrifying | 17.00 |
+| Diabolical | 16.00 |
+| Escape Artist | 16.00 |
+| Seasoned | 16.00 |
+| Liability | 11.00 |
+| Rivalry | 10.00 |
+| Fragile Panes | 9.00 |
+| Surprise! | 9.00 |
+| Whoopsie | 9.00 |
+| Master Collector | 7.00 |
+| Rift Seeker | 7.00 |
+| Therapeutic | 7.00 |
+| Ghost Expert | 3.00 |
+| Ultimate Defense | 3.00 |
+| Catostrophic Destroyer | 2.00 |
+| Line em' up | 2.00 |
+| Little Help Here | 2.00 |
+| I don't need these | 1.00 |
+| Mycophile | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,476 (Ranked 88)  
+Progressed: 21,477 (Ranked 88)  
 Completed: 40 (0.19%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +73,7 @@ Completed: 40 (0.19%) (Ranked 133)
 | 2023-05-01 | 21,350 | 40 |
 | 2023-05-02 | 21,395 | 40 |
 | 2023-05-03 | 21,454 | 40 |
-| 2023-05-04 | 21,476 | 40 |
+| 2023-05-04 | 21,477 | 40 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

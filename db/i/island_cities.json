@@ -1,6 +1,162 @@
 {
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
+  "Achievements": [
+    {
+      "ID": "LEVEL_001",
+      "SetID": "3khpmem",
+      "Name": "Welcome!",
+      "Percentage": 104,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_002",
+      "SetID": "3khpmem",
+      "Name": "A tiny town",
+      "Percentage": 85,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_003",
+      "SetID": "3khpmem",
+      "Name": "Buildings, roads, cars, ...and people",
+      "Percentage": 69,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_004",
+      "SetID": "3khpmem",
+      "Name": "Great view from the beach and from the hill",
+      "Percentage": 58,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_005",
+      "SetID": "3khpmem",
+      "Name": "Bridges to come and go",
+      "Percentage": 53,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_006",
+      "SetID": "3khpmem",
+      "Name": "Found an oasis",
+      "Percentage": 40,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_007",
+      "SetID": "3khpmem",
+      "Name": "Burger or pizza?",
+      "Percentage": 36,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_008",
+      "SetID": "3khpmem",
+      "Name": "Passion for sports",
+      "Percentage": 31,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_009",
+      "SetID": "3khpmem",
+      "Name": "Who loves trains?",
+      "Percentage": 29,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_010",
+      "SetID": "3khpmem",
+      "Name": "Easy and steady climb",
+      "Percentage": 29,
+      "XP": 35
+    },
+    {
+      "ID": "LEVEL_011",
+      "SetID": "3khpmem",
+      "Name": "At the heart of the city",
+      "Percentage": 27,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_012",
+      "SetID": "3khpmem",
+      "Name": "Calm neighborhood",
+      "Percentage": 25,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_013",
+      "SetID": "3khpmem",
+      "Name": "Elevated ring",
+      "Percentage": 24,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_014",
+      "SetID": "3khpmem",
+      "Name": "Not lonely anymore",
+      "Percentage": 22,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_015",
+      "SetID": "3khpmem",
+      "Name": "Monumental tribute",
+      "Percentage": 22,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_016",
+      "SetID": "3khpmem",
+      "Name": "The beach is right there",
+      "Percentage": 20,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_017",
+      "SetID": "3khpmem",
+      "Name": "Commuting",
+      "Percentage": 20,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_018",
+      "SetID": "3khpmem",
+      "Name": "Le jardin magnifique",
+      "Percentage": 20,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_019",
+      "SetID": "3khpmem",
+      "Name": "Aiming for a living and human city",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_020",
+      "SetID": "3khpmem",
+      "Name": "City of dreams",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_021",
+      "SetID": "3khpmem",
+      "Name": "Happy Christmas night!",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "LEVEL_022",
+      "SetID": "3khpmem",
+      "Name": "Night walk along the beach",
+      "Percentage": 18,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -252,22 +408,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 18.18,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 22,
+  "LastChanged_Achievements": "2023-05-04T19:18:14.5089585+00:00",
   "EOS_NewCompleters": 9,
   "EOS_NewPlayers": 41,
   "EOS_Completed": 10,
   "EOS_Progressed": 55,
-  "LastUpdate_Achievements": "2023-05-04T19:03:19.9287631+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:42.3983811+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:19.9287595+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:14.5089776+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:41.5655528+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3khpmem",
+      "IsBase": true,
+      "Progressed": 55,
+      "Completed": 10
+    }
+  ],
+  "EOS_Completed_Percentage": 18.18,
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
+  "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 18,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_Completed": 6,
   "Ranking_EOS_Progress": 268,
-  "FirstSeen": "2023-04-28T06:58:06.5817191+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00"
 }

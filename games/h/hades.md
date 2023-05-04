@@ -4,7 +4,59 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 3,025  (Ranked 86)  
 Sum: 7,389 (Ranked 96)  
-Diff (max vs sum): -10
+Diff (max vs sum): -10  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Escaped Tartarus | 89.00 |
+| Escaped Asphodel | 80.00 |
+| Arms Collector | 71.00 |
+| Friends in High Places | 68.00 |
+| Escaped Elysium | 66.00 |
+| Chthonic Colleagues | 63.00 |
+| Is There No Escape? | 52.00 |
+| Death Dealer | 45.00 |
+| Skelly Slayer | 42.00 |
+| Well Stocked | 40.00 |
+| Back to Work | 39.00 |
+| Day-or-Night Trader | 37.00 |
+| Blessed by the Gods | 37.00 |
+| Urge to Sing | 36.00 |
+| Blood Bound | 35.00 |
+| Three-Headed Boy | 32.00 |
+| River Denizens | 28.00 |
+| Grown Close | 28.00 |
+| Home Makeover | 27.00 |
+| The Family Secret | 26.00 |
+| Had to Happen | 25.00 |
+| To Charon's Credit | 23.00 |
+| Tools of the Architect | 23.00 |
+| Master of Arms | 23.00 |
+| Rare Collectible | 22.00 |
+| Weapon of Fate | 21.00 |
+| Something From Everyone | 19.00 |
+| Hold the Onions | 18.00 |
+| Well Versed | 17.00 |
+| War-God's Bloodlust | 15.00 |
+| Musician and Muse | 14.00 |
+| The Useless Trinket | 13.00 |
+| Champion of Elysium | 13.00 |
+| Slashed Benefits | 12.00 |
+| Haste of Hermes | 11.00 |
+| Bad Call | 10.00 |
+| Nyx's Mirror | 10.00 |
+| Night and Darkness | 10.00 |
+| End to Torment | 10.00 |
+| Dark Reflections | 9.00 |
+| Thanks, But No Thanks | 9.00 |
+| Infernal Arms | 9.00 |
+| Divided by Death | 8.00 |
+| Harsh Conditions | 7.00 |
+| One for the Ages | 7.00 |
+| Complete Set | 6.00 |
+| Skelly's Last Lamentations | 6.00 |
+| Thorn of Thanatos | 4.00 |
+| Friends Forever | 4.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 679,761 (Ranked 16)  
 Completed: 6,073 (0.89%) (Ranked 80)  

@@ -1,6 +1,7 @@
 {
   "ID": "8a6a94901c8248fca1f5c78931c85cbd",
   "Name": "SOMA",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -403,14 +404,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:31.5977955+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:02.5391612+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:00.3618946+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:51.3161628+00:00",
+  "FirstSeen": "2022-07-22T20:24:55.9508799+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 295,
@@ -421,6 +426,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 290,
-  "Rating": 4.65,
-  "FirstSeen": "2022-07-22T20:24:55.9508799+00:00"
+  "Rating": 4.65
 }

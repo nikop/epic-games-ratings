@@ -1,9 +1,29 @@
 # Tchia
 Rating: 4.76 (Ranked 113)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| In a Pinch | 19.00 |
+| Energy Saver | 16.00 |
+| The Journey Onwards | 12.00 |
+| Globe Trotter | 11.00 |
+| Body and Soul | 10.00 |
+| Ahem Ahem | 9.00 |
+| Audiophile | 7.00 |
+| Clay Pigeon | 6.00 |
+| Soul-Canon | 6.00 |
+| Historian | 5.00 |
+| Iconoclast | 5.00 |
+| Shredder | 5.00 |
+| Happy Camper | 4.00 |
+| Liberator | 4.00 |
+| Fashion Faux-Pas | 3.00 |
+| Live Wire | 3.00 |
+| Arrr! | 2.00 |
+| Fashion Victim | 2.00 |
+| Snip Snip | 2.00 |
+| Ça de Wizz! | 1.00 |
+| Thing | 1.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,478 (Ranked 117)  
 Completed: 19 (0.35%) (Ranked 108)  
@@ -20,9 +40,6 @@ Completed: 19 (0.35%) (Ranked 108)
 | 2023-05-02 | 5,444 | 18 |
 | 2023-05-03 | 5,464 | 18 |
 | 2023-05-04 | 5,478 | 19 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

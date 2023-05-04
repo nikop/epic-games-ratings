@@ -1,12 +1,13 @@
 {
   "ID": "wombat",
   "Name": "World War Z Aftermath",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3814
+      "Count": 3818
     },
     {
       "Text": "This game is Relaxing",
@@ -4658,21 +4659,37 @@
       "Rating": 4.56,
       "NumberOfAwards": 25784,
       "NumberOfAwardsMax": 3814
+    },
+    {
+      "Time": "2023-05-04T19:12:10.570618+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25788,
+      "NumberOfAwardsMax": 3818
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:17:25.4877357+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:02:20.0148965+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:11.8923588+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:20.014895+00:00",
-  "LastChanged": "2023-05-04T17:57:20.975926+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:25.4877401+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:10.5706184+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6jaabi0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-04T19:12:10.5706178+00:00",
+  "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 3814,
-  "NumberOfAwards": 25784,
+  "NumberOfAwardsMax": 3818,
+  "NumberOfAwards": 25788,
   "NumberOfRatings": 17073,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
@@ -4682,5 +4699,5 @@
   "Ranking_Popularity": 75,
   "Ranking_Rating": 447,
   "Rating": 4.56,
-  "FirstSeen": "2022-07-22T20:17:09.1230837+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00"
 }

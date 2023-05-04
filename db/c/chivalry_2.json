@@ -1,6 +1,7 @@
 {
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -4228,14 +4229,18 @@
       "NumberOfAwardsMax": 4015
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:18.77265+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:34.8733076+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:33.5786426+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:57:34.8733072+00:00",
+  "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 4015,
   "NumberOfAwards": 26190,
@@ -4247,6 +4252,5 @@
   "Ranking_PopularitySum": 44,
   "Ranking_Popularity": 72,
   "Ranking_Rating": 353,
-  "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:20:08.5003131+00:00"
+  "Rating": 4.61
 }

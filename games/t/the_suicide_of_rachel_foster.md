@@ -1,10 +1,20 @@
 # The Suicide of Rachel Foster
 Rating: 4.18 (Ranked 820)  
 Number of Ratings: 71  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| "Nice" to meet you | 77.00 |
+| Freeze to death | 56.00 |
+| Is she really dead? | 47.00 |
+| Screwdriver | 45.00 |
+| Cutepie | 43.00 |
+| Someone was here | 41.00 |
+| Ghost Hunters | 41.00 |
+| Alone | 40.00 |
+| Pack Rat | 40.00 |
+| All together, again | 34.00 |
+| Spicy | 6.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,000 (Ranked 161)  
 Completed: 50 (5.00%) (Ranked 25)  
@@ -21,9 +31,6 @@ Completed: 50 (5.00%) (Ranked 25)
 | 2023-05-02 | 996 | 50 |
 | 2023-05-03 | 999 | 50 |
 | 2023-05-04 | 1,000 | 50 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

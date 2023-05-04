@@ -1,6 +1,7 @@
 {
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -443,14 +444,18 @@
       "Rating": 4.64
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:04.4093215+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:33.7933852+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:30.2714956+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-24T07:57:57.5752665+00:00",
+  "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 179,
   "NumberOfAwards": 179,
@@ -462,6 +467,5 @@
   "Ranking_PopularitySum": 359,
   "Ranking_Popularity": 265,
   "Ranking_Rating": 312,
-  "Rating": 4.64,
-  "FirstSeen": "2022-07-22T20:24:32.502574+00:00"
+  "Rating": 4.64
 }

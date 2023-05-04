@@ -1,6 +1,358 @@
 {
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
+  "Achievements": [
+    {
+      "ID": "Achi_01",
+      "SetID": "51a97k7",
+      "Name": "The Sunken City Conqueror",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achi_02",
+      "SetID": "51a97k7",
+      "Name": "The Deep Frozen Conqueror",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achi_03",
+      "SetID": "51a97k7",
+      "Name": "The Abyss Conqueror",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achi_04",
+      "SetID": "51a97k7",
+      "Name": "The Infinite Train Conqueror",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achi_05",
+      "SetID": "51a97k7",
+      "Name": "The Fortress Conqueror",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achi_06",
+      "SetID": "51a97k7",
+      "Name": "The Paradox Coordinate Conqueror",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "Achi_07",
+      "SetID": "51a97k7",
+      "Name": "The Zero Dimensional Capital Conqueror",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Achi_08",
+      "SetID": "51a97k7",
+      "Name": "The Inactivated Frozen Conqueror",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Achi_09",
+      "SetID": "51a97k7",
+      "Name": "The Hypergravitational Abyss Conqueror",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Achi_10",
+      "SetID": "51a97k7",
+      "Name": "Death Bringer Conqueror",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Achi_11",
+      "SetID": "51a97k7",
+      "Name": "he Ultra Fortress Conqueror",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_12",
+      "SetID": "51a97k7",
+      "Name": "The Looping Space Conqueror",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_13",
+      "SetID": "51a97k7",
+      "Name": "Grand Escape",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_14",
+      "SetID": "51a97k7",
+      "Name": "Break Through the Forbidden",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_15",
+      "SetID": "51a97k7",
+      "Name": "Alloy Rangers, Assemble!",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_16",
+      "SetID": "51a97k7",
+      "Name": "Space Ranger: Prologue",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_17",
+      "SetID": "51a97k7",
+      "Name": "Space Warrior: Prologue",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_18",
+      "SetID": "51a97k7",
+      "Name": "Gear Up",
+      "Percentage": 72,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_19",
+      "SetID": "51a97k7",
+      "Name": "Breaking the Limit",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_20",
+      "SetID": "51a97k7",
+      "Name": "Freshen Up",
+      "Percentage": 50,
+      "XP": 15
+    },
+    {
+      "ID": "Achi_21",
+      "SetID": "51a97k7",
+      "Name": "Pumped Up",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_22",
+      "SetID": "51a97k7",
+      "Name": "Iceberg Theory",
+      "Percentage": 72,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_23",
+      "SetID": "51a97k7",
+      "Name": "The Hidden Secret",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_24",
+      "SetID": "51a97k7",
+      "Name": "The Truth?",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_25",
+      "SetID": "51a97k7",
+      "Name": "Mr. Want It All",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_26",
+      "SetID": "51a97k7",
+      "Name": "Easy Peasy",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_27",
+      "SetID": "51a97k7",
+      "Name": "GG EZ",
+      "Percentage": 50,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_28",
+      "SetID": "51a97k7",
+      "Name": "Ka-Ching!",
+      "Percentage": 11,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_29",
+      "SetID": "51a97k7",
+      "Name": "Rapidfire",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_30",
+      "SetID": "51a97k7",
+      "Name": "A Grand Show",
+      "Percentage": 72,
+      "XP": 20
+    },
+    {
+      "ID": "Achi_31",
+      "SetID": "51a97k7",
+      "Name": "Flawless",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_32",
+      "SetID": "51a97k7",
+      "Name": "Keep it Up, rookie!",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_33",
+      "SetID": "51a97k7",
+      "Name": "Antaeus",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_34",
+      "SetID": "51a97k7",
+      "Name": "Hydrophobia",
+      "Percentage": 22,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_35",
+      "SetID": "51a97k7",
+      "Name": "Stop Right There",
+      "Percentage": 11,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_36",
+      "SetID": "51a97k7",
+      "Name": "Air Interception",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_37",
+      "SetID": "51a97k7",
+      "Name": "Get to the Point",
+      "Percentage": 11,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_38",
+      "SetID": "51a97k7",
+      "Name": "Hell of a Fight",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_39",
+      "SetID": "51a97k7",
+      "Name": "Proliferation",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_40",
+      "SetID": "51a97k7",
+      "Name": "Toe to Toe",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "Achi_41",
+      "SetID": "51a97k7",
+      "Name": "Peace Out",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Achi_42",
+      "SetID": "51a97k7",
+      "Name": "Mischief Time",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Achi_43",
+      "SetID": "51a97k7",
+      "Name": "Art is an Explosion",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Achi_44",
+      "SetID": "51a97k7",
+      "Name": "Decapitation Strike",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Achi_45",
+      "SetID": "51a97k7",
+      "Name": "Clean Sweep",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Achi_46",
+      "SetID": "51a97k7",
+      "Name": "Bullets Fear Me",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "Achi_47",
+      "SetID": "51a97k7",
+      "Name": "Phew!",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "Achi_48",
+      "SetID": "51a97k7",
+      "Name": "Bye Bye Gravity",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "Achi_49",
+      "SetID": "51a97k7",
+      "Name": "Burn After Reading",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "Achi_50",
+      "SetID": "51a97k7",
+      "Name": "Super Alloy Ranger!",
+      "Percentage": 0,
+      "XP": 35
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -87,22 +439,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 50,
+  "LastChanged_Achievements": "2023-05-04T19:19:47.2172338+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 16,
   "EOS_Completed": 0,
   "EOS_Progressed": 18,
-  "LastUpdate_Achievements": "2023-05-04T19:04:56.6170583+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:20.5017918+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:56.6170558+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:47.2172781+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:18.6690829+00:00",
+  "AchievementSets": [
+    {
+      "ID": "51a97k7",
+      "IsBase": true,
+      "Progressed": 18,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
+  "FirstSeen": "2023-05-02T05:59:19.9991116+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 295,
-  "FirstSeen": "2023-05-02T05:59:19.9991116+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00"
 }

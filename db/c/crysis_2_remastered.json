@@ -1,6 +1,7 @@
 {
   "ID": "ac082b5524e94daf9b431ee4cb8a9dd0",
   "Name": "Crysis 2 Remastered",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -534,14 +535,18 @@
       "NumberOfAwardsMax": 212
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:10.2963896+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:00.7267967+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:59.673921+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-30T17:58:17.4365668+00:00",
+  "FirstSeen": "2022-07-22T20:18:01.1104791+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 212,
   "NumberOfAwards": 212,
@@ -553,6 +558,5 @@
   "Ranking_PopularitySum": 345,
   "Ranking_Popularity": 250,
   "Ranking_Rating": 353,
-  "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:18:01.1104791+00:00"
+  "Rating": 4.61
 }

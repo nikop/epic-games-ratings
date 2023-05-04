@@ -1,6 +1,274 @@
 {
   "ID": "0baeb519c8894d96bf89324a121e2437",
   "Name": "The Tale of Bistun",
+  "Achievements": [
+    {
+      "ID": "BISTUN_ACHIEVEMENT_0",
+      "SetID": "1kdk24p",
+      "Name": "The Story Begins...",
+      "Percentage": 75,
+      "XP": 10
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_1",
+      "SetID": "1kdk24p",
+      "Name": "A Friend In Need",
+      "Percentage": 42,
+      "XP": 10
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_10",
+      "SetID": "1kdk24p",
+      "Name": "Prison Break",
+      "Percentage": 33,
+      "XP": 20
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_11",
+      "SetID": "1kdk24p",
+      "Name": "Skilled Hands",
+      "Percentage": 58,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_12",
+      "SetID": "1kdk24p",
+      "Name": "I Pick You",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_13",
+      "SetID": "1kdk24p",
+      "Name": "Accomplished Smithy",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_14",
+      "SetID": "1kdk24p",
+      "Name": "The Blight\u0027s Blight",
+      "Percentage": 33,
+      "XP": 25
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_15",
+      "SetID": "1kdk24p",
+      "Name": "Close Encounter",
+      "Percentage": 50,
+      "XP": 30
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_16",
+      "SetID": "1kdk24p",
+      "Name": "The Depths Of Darkness",
+      "Percentage": 50,
+      "XP": 30
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_17",
+      "SetID": "1kdk24p",
+      "Name": "Master Smithy",
+      "Percentage": 50,
+      "XP": 20
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_18",
+      "SetID": "1kdk24p",
+      "Name": "One With The Blades",
+      "Percentage": 42,
+      "XP": 25
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_19",
+      "SetID": "1kdk24p",
+      "Name": "Heart of Oblivion",
+      "Percentage": 42,
+      "XP": 35
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_2",
+      "SetID": "1kdk24p",
+      "Name": "These Blades Are Made For Swinging",
+      "Percentage": 67,
+      "XP": 10
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_20",
+      "SetID": "1kdk24p",
+      "Name": "Anahita\u0027s Greatest Mistake",
+      "Percentage": 42,
+      "XP": 25
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_21",
+      "SetID": "1kdk24p",
+      "Name": "Heart\u0027s Desire",
+      "Percentage": 42,
+      "XP": 30
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_22",
+      "SetID": "1kdk24p",
+      "Name": "The Ultimate Sacrifice",
+      "Percentage": 33,
+      "XP": 35
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_23",
+      "SetID": "1kdk24p",
+      "Name": "Nature\u0027s Savior",
+      "Percentage": 42,
+      "XP": 50
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_24",
+      "SetID": "1kdk24p",
+      "Name": "Hammer It Home",
+      "Percentage": 42,
+      "XP": 50
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_25",
+      "SetID": "1kdk24p",
+      "Name": "For Whom the Bell Tolls",
+      "Percentage": 42,
+      "XP": 50
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_26",
+      "SetID": "1kdk24p",
+      "Name": "Here I Am",
+      "Percentage": 42,
+      "XP": 40
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_27",
+      "SetID": "1kdk24p",
+      "Name": "Break The Cycle",
+      "Percentage": 33,
+      "XP": 60
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_28",
+      "SetID": "1kdk24p",
+      "Name": "Continue The Cycle",
+      "Percentage": 25,
+      "XP": 60
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_29",
+      "SetID": "1kdk24p",
+      "Name": "A Stranger\u0027s Diary",
+      "Percentage": 42,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_3",
+      "SetID": "1kdk24p",
+      "Name": "Unearth A Qanat",
+      "Percentage": 58,
+      "XP": 10
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_30",
+      "SetID": "1kdk24p",
+      "Name": "Read, Read, Read",
+      "Percentage": 8,
+      "XP": 35
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_31",
+      "SetID": "1kdk24p",
+      "Name": "Ledge-walker",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_32",
+      "SetID": "1kdk24p",
+      "Name": "Prolific Artist",
+      "Percentage": 8,
+      "XP": 40
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_33",
+      "SetID": "1kdk24p",
+      "Name": "Talent And Dedication",
+      "Percentage": 17,
+      "XP": 40
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_34",
+      "SetID": "1kdk24p",
+      "Name": "Slip and Slide",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_35",
+      "SetID": "1kdk24p",
+      "Name": "Merely Inquisitive",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_36",
+      "SetID": "1kdk24p",
+      "Name": "It Feels Better Than It Sounds",
+      "Percentage": 75,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_37",
+      "SetID": "1kdk24p",
+      "Name": "Shoo! Shoo!",
+      "Percentage": 42,
+      "XP": 20
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_4",
+      "SetID": "1kdk24p",
+      "Name": "Stand By Nature",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_5",
+      "SetID": "1kdk24p",
+      "Name": "First Blood",
+      "Percentage": 75,
+      "XP": 10
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_6",
+      "SetID": "1kdk24p",
+      "Name": "The Milk Canal",
+      "Percentage": 33,
+      "XP": 20
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_7",
+      "SetID": "1kdk24p",
+      "Name": "Carving A Memory",
+      "Percentage": 58,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_8",
+      "SetID": "1kdk24p",
+      "Name": "Fledgling Smithy",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "BISTUN_ACHIEVEMENT_9",
+      "SetID": "1kdk24p",
+      "Name": "At One With Nature",
+      "Percentage": 33,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +295,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 8.33,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 38,
+  "LastChanged_Achievements": "2023-05-04T19:19:44.6006102+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T19:04:54.0100415+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:16.6360237+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:54.0100389+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:44.6006397+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:15.1237425+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1kdk24p",
+      "IsBase": true,
+      "Progressed": 12,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 8.33,
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
+  "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_Progress": 300,
-  "FirstSeen": "2022-07-22T20:27:54.7928237+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00"
 }

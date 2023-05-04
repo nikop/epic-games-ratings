@@ -1,6 +1,169 @@
 {
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
+  "Achievements": [
+    {
+      "ID": "ACH_1",
+      "SetID": "41p75ck",
+      "Name": "Long and Winding Road",
+      "Percentage": 94,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "41p75ck",
+      "Name": "Challenge Accepted",
+      "Percentage": 18,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "41p75ck",
+      "Name": "Belly Of The Beast",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "cpegfdi",
+      "Name": "The Prestige",
+      "Percentage": 7,
+      "XP": 120
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "41p75ck",
+      "Name": "Lest Ye Be Judged",
+      "Percentage": 27,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "41p75ck",
+      "Name": "Legends Grow",
+      "Percentage": 16,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "41p75ck",
+      "Name": "Exotique",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "41p75ck",
+      "Name": "Seal the Deal",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "41p75ck",
+      "Name": "Fashion Statement",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_18",
+      "SetID": "41p75ck",
+      "Name": "Heart of the Awoken",
+      "Percentage": 21,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_19",
+      "SetID": "41p75ck",
+      "Name": "An Exotic Journey",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_2",
+      "SetID": "41p75ck",
+      "Name": "Zavala\u0027s Lieutenant",
+      "Percentage": 20,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_20",
+      "SetID": "41p75ck",
+      "Name": "High-Stakes Play",
+      "Percentage": 19,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_21",
+      "SetID": "41p75ck",
+      "Name": "Darkness Falls",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_22",
+      "SetID": "41p75ck",
+      "Name": "Nothing Left to Say",
+      "Percentage": 15,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_23",
+      "SetID": "41p75ck",
+      "Name": "Wishing for the Best",
+      "Percentage": 7,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_3",
+      "SetID": "41p75ck",
+      "Name": "Cayde\u0027s Pathfinder",
+      "Percentage": 25,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "41p75ck",
+      "Name": "Ikora\u0027s Prot\u00E9g\u00E9",
+      "Percentage": 23,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "41p75ck",
+      "Name": "Show Me What You Got",
+      "Percentage": 19,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_6",
+      "SetID": "41p75ck",
+      "Name": "In A Flash",
+      "Percentage": 34,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_7",
+      "SetID": "41p75ck",
+      "Name": "The People\u0027s Hero",
+      "Percentage": 58,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_8",
+      "SetID": "41p75ck",
+      "Name": "Heart of Darkness",
+      "Percentage": 27,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_9",
+      "SetID": "cpegfdi",
+      "Name": "The Life Exotic",
+      "Percentage": 22,
+      "XP": 120
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1138,6 +1301,11 @@
       "Time": "2023-05-04T19:04:14.335533+00:00",
       "NumProgressed": 390317,
       "NumCompleted": 11397
+    },
+    {
+      "Time": "2023-05-04T19:19:05.6870268+00:00",
+      "NumProgressed": 390332,
+      "NumCompleted": 11398
     }
   ],
   "RatingHistory": [
@@ -4330,17 +4498,33 @@
       "NumberOfAwardsMax": 33509
     }
   ],
+  "TotalAchievementsXP": 1240,
+  "TotalAchievements": 23,
+  "LastChanged_Achievements": "2023-05-04T19:19:05.6870261+00:00",
+  "EOS_NewCompleters": 209,
+  "EOS_NewPlayers": 7552,
+  "EOS_Completed": 11398,
+  "EOS_Progressed": 390332,
+  "LastUpdate_Achievements": "2023-05-04T19:19:05.6870524+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:38.4665688+00:00",
+  "AchievementSets": [
+    {
+      "ID": "41p75ck",
+      "IsBase": true,
+      "Progressed": 390332,
+      "Completed": 11398
+    },
+    {
+      "ID": "cpegfdi",
+      "IsBase": false,
+      "Progressed": 390332,
+      "Completed": 27921
+    }
+  ],
   "EOS_Completed_Percentage": 2.92,
-  "EOS_NewCompleters": 208,
-  "EOS_NewPlayers": 7537,
-  "EOS_Completed": 11397,
-  "EOS_Progressed": 390317,
-  "LastUpdate_Achievements": "2023-05-04T19:04:14.3355406+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:40.3620386+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:14.3355265+00:00",
   "LastChanged": "2023-05-04T16:59:10.1942591+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
+  "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 33509,
   "NumberOfAwards": 81198,
@@ -4353,5 +4537,5 @@
   "Ranking_Popularity": 12,
   "Ranking_Rating": 530,
   "Rating": 4.5,
-  "FirstSeen": "2022-08-23T20:00:58.6908762+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00"
 }

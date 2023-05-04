@@ -1,6 +1,169 @@
 {
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
+  "Achievements": [
+    {
+      "ID": "01",
+      "SetID": "73ikgfc",
+      "Name": "Way of the King",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "02",
+      "SetID": "73ikgfc",
+      "Name": "Way of the Warlord",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "03",
+      "SetID": "73ikgfc",
+      "Name": "Life or Death",
+      "Percentage": 0.8,
+      "XP": 150
+    },
+    {
+      "ID": "04",
+      "SetID": "73ikgfc",
+      "Name": "The Unvanquished",
+      "Percentage": 2,
+      "XP": 150
+    },
+    {
+      "ID": "05",
+      "SetID": "73ikgfc",
+      "Name": "The First Step",
+      "Percentage": 69,
+      "XP": 15
+    },
+    {
+      "ID": "06",
+      "SetID": "73ikgfc",
+      "Name": "First Blood",
+      "Percentage": 65,
+      "XP": 20
+    },
+    {
+      "ID": "07",
+      "SetID": "73ikgfc",
+      "Name": "Monster Hunter",
+      "Percentage": 54,
+      "XP": 20
+    },
+    {
+      "ID": "08",
+      "SetID": "73ikgfc",
+      "Name": "Monster Slayer",
+      "Percentage": 30,
+      "XP": 20
+    },
+    {
+      "ID": "09",
+      "SetID": "73ikgfc",
+      "Name": "Awakening",
+      "Percentage": 23,
+      "XP": 15
+    },
+    {
+      "ID": "10",
+      "SetID": "73ikgfc",
+      "Name": "Huntmaster",
+      "Percentage": 22,
+      "XP": 20
+    },
+    {
+      "ID": "11",
+      "SetID": "73ikgfc",
+      "Name": "Someone to Protect",
+      "Percentage": 0.6,
+      "XP": 30
+    },
+    {
+      "ID": "12",
+      "SetID": "73ikgfc",
+      "Name": "First Bloom",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "13",
+      "SetID": "73ikgfc",
+      "Name": "Let Us Cling Together",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "14",
+      "SetID": "73ikgfc",
+      "Name": "Til We Meet Again",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "15",
+      "SetID": "73ikgfc",
+      "Name": "Lean on Me",
+      "Percentage": 0.4,
+      "XP": 30
+    },
+    {
+      "ID": "16",
+      "SetID": "73ikgfc",
+      "Name": "A Promised Voyage",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "17",
+      "SetID": "73ikgfc",
+      "Name": "Ready to Learn",
+      "Percentage": 63,
+      "XP": 30
+    },
+    {
+      "ID": "18",
+      "SetID": "73ikgfc",
+      "Name": "Earning Trust",
+      "Percentage": 51,
+      "XP": 30
+    },
+    {
+      "ID": "19",
+      "SetID": "73ikgfc",
+      "Name": "Broken Oath",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "20",
+      "SetID": "73ikgfc",
+      "Name": "Digging Deep",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "21",
+      "SetID": "73ikgfc",
+      "Name": "Arrow in the Wind",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "22",
+      "SetID": "73ikgfc",
+      "Name": "House Vulisica\u0027s Heirloom",
+      "Percentage": 14,
+      "XP": 50
+    },
+    {
+      "ID": "23",
+      "SetID": "73ikgfc",
+      "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
+      "Percentage": 18,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -162,17 +325,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 23,
+  "LastChanged_Achievements": "2023-05-04T19:19:34.734785+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 843,
-  "LastUpdate_Achievements": "2023-05-04T19:04:43.8092178+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:07.4527952+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:43.8092153+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:34.7348022+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:05.2247414+00:00",
+  "AchievementSets": [
+    {
+      "ID": "73ikgfc",
+      "IsBase": true,
+      "Progressed": 843,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
+  "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -183,5 +356,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 746,
   "Rating": 4.31,
-  "FirstSeen": "2022-10-14T09:31:01.0806081+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00"
 }

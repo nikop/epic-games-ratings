@@ -1,6 +1,7 @@
 {
   "ID": "91b9a3ac7cda40718addd961fddfadca",
   "Name": "Vampire: The Masquerade \u2013 Swansong",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
@@ -438,16 +439,26 @@
       "NumberOfAwardsMax": 77
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:08.5838065+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T19:04:17.2866724+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:49.0901448+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:17.2866679+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:08.5838123+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:46.6727744+00:00",
+  "AchievementSets": [
+    {
+      "ID": "78hffc5",
+      "IsBase": true,
+      "Progressed": 12,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-05T16:57:16.3742728+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00",
+  "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 77,
   "NumberOfAwards": 77,
@@ -460,5 +471,5 @@
   "Ranking_Popularity": 347,
   "Ranking_Rating": 801,
   "Rating": 4.2,
-  "FirstSeen": "2022-07-22T20:19:36.8410904+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00"
 }

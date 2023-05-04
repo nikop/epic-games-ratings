@@ -4,9 +4,42 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Relaxing): 494  (Ranked 183)  
 Sum: 3,050 (Ranked 145)  
-Diff (max vs sum): 38
+Diff (max vs sum): 38  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| It's a steal! | 40.00 |
+| Final touch | 39.00 |
+| Prop-M Rover | 35.00 |
+| Changing the Planet | 30.00 |
+| Sojourner | 29.00 |
+| New Home | 26.00 |
+| Beagle 2 | 26.00 |
+| Winner Winner Terraformer | 24.00 |
+| Project Manager | 21.00 |
+| Curiosity | 21.00 |
+| Collector | 21.00 |
+| Self-sufficient | 21.00 |
+| Master | 21.00 |
+| No Longer Red | 20.00 |
+| Money money | 17.00 |
+| Biggest Reward | 16.00 |
+| Acquired knowledge | 14.00 |
+| Most Achievements | 13.00 |
+| Hellenic Elysium | 13.00 |
+| Grand champion | 13.00 |
+| First Journey | 12.00 |
+| Landlord | 12.00 |
+| Spirit | 11.00 |
+| Ultimate success | 11.00 |
+| Variety Expert | 10.00 |
+| Frequent tester | 9.00 |
+| Determined | 8.00 |
+| Terraformer | 5.00 |
+| Team Effort | 3.00 |
+| Opportunity | 3.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,198 (Ranked 69)  
+Progressed: 55,213 (Ranked 69)  
 Completed: 60 (0.11%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +53,7 @@ Completed: 60 (0.11%) (Ranked 149)
 | 2023-05-01 | 54,779 | 60 |
 | 2023-05-02 | 54,929 | 60 |
 | 2023-05-03 | 55,095 | 60 |
-| 2023-05-04 | 55,198 | 60 |
+| 2023-05-04 | 55,213 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

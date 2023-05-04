@@ -4,9 +4,56 @@ Number of Ratings: 495  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 547  (Ranked 172)  
 Sum: 4,643 (Ranked 125)  
-Diff (max vs sum): 47
+Diff (max vs sum): 47  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Genin | 10.00 |
+| Thorough | 8.00 |
+| A thief's beginning | 7.00 |
+| Tanuki Time | 7.00 |
+| Disguised | 6.00 |
+| Jonin | 6.00 |
+| Rescue Takuma | 6.00 |
+| Rollin' | 6.00 |
+| Chunin | 5.00 |
+| Ice Ice Yuki | 5.00 |
+| Stoned Ox | 5.00 |
+| Yabu | 5.00 |
+| Flying Rocks | 4.00 |
+| Happy Planning | 4.00 |
+| Mugen Unchained | 4.00 |
+| Okkoto | 4.00 |
+| Warzone | 4.00 |
+| Gear up | 3.00 |
+| Happy little accidents | 3.00 |
+| Noboru | 3.00 |
+| Prisoners | 3.00 |
+| Still Rollin' | 3.00 |
+| Too Early | 3.00 |
+| It's raining men | 2.00 |
+| Stoned | 2.00 |
+| The Old Way | 2.00 |
+| Atheist Ox | 1.00 |
+| Meticulous | 1.00 |
+| No Gimmicks | 1.00 |
+| Old Man | 1.00 |
+| The End | 1.00 |
+| Winner Winner | 1.00 |
+| Undeserved Honor | 0.80 |
+| When Cut Across the Neck | 0.70 |
+| High Five the Moon | 0.60 |
+| The Cave | 0.50 |
+| Merciful | 0.40 |
+| Time Paradox | 0.40 |
+| Five Shadows | 0.20 |
+| Chicken Dinner | 0.10 |
+| Complete Mastery | 0.10 |
+| Mimimi | 0.10 |
+| Praise the Shogun | 0.10 |
+| Release the Kraken | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,408 (Ranked 50)  
+Progressed: 164,412 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +67,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-01 | 163,668 | 41 |
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
-| 2023-05-04 | 164,408 | 41 |
+| 2023-05-04 | 164,412 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

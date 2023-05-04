@@ -1,6 +1,7 @@
 {
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -4027,14 +4028,18 @@
       "NumberOfAwardsMax": 7235
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:27.6161575+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:53.4360567+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:50.0824154+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:00:43.9842574+00:00",
+  "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 7235,
   "NumberOfAwards": 16779,
@@ -4046,6 +4051,5 @@
   "Ranking_PopularitySum": 56,
   "Ranking_Popularity": 42,
   "Ranking_Rating": 428,
-  "Rating": 4.57,
-  "FirstSeen": "2022-07-22T20:23:37.2904323+00:00"
+  "Rating": 4.57
 }

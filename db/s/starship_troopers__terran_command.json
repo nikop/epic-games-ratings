@@ -1,6 +1,7 @@
 {
   "ID": "ba1596b29e8b4b1199058fad440366a5",
   "Name": "Starship Troopers: Terran Command",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -281,14 +282,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:12.4472369+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:10.0637267+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:09.1013503+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-10T11:58:09.6208211+00:00",
+  "FirstSeen": "2022-07-22T20:30:10.1660332+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 100,
@@ -299,6 +304,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 780,
-  "Rating": 4.24,
-  "FirstSeen": "2022-07-22T20:30:10.1660332+00:00"
+  "Rating": 4.24
 }

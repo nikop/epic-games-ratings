@@ -1,6 +1,204 @@
 {
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
+  "Achievements": [
+    {
+      "ID": "TROP000",
+      "SetID": "9n0dl35",
+      "Name": "Endling",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "TROP001",
+      "SetID": "9n0dl35",
+      "Name": "We Are a Family",
+      "Percentage": 9,
+      "XP": 60
+    },
+    {
+      "ID": "TROP002",
+      "SetID": "9n0dl35",
+      "Name": "Three Little Foxes",
+      "Percentage": 11,
+      "XP": 45
+    },
+    {
+      "ID": "TROP003",
+      "SetID": "9n0dl35",
+      "Name": "Two Peas in a Pod",
+      "Percentage": 11,
+      "XP": 30
+    },
+    {
+      "ID": "TROP004",
+      "SetID": "9n0dl35",
+      "Name": "All For One",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "TROP005",
+      "SetID": "9n0dl35",
+      "Name": "A Friend in Need",
+      "Percentage": 59,
+      "XP": 15
+    },
+    {
+      "ID": "TROP006",
+      "SetID": "9n0dl35",
+      "Name": "Maternity",
+      "Percentage": 15,
+      "XP": 30
+    },
+    {
+      "ID": "TROP007",
+      "SetID": "9n0dl35",
+      "Name": "Family Reunion",
+      "Percentage": 14,
+      "XP": 60
+    },
+    {
+      "ID": "TROP008",
+      "SetID": "9n0dl35",
+      "Name": "Home Sweet Home",
+      "Percentage": 95,
+      "XP": 15
+    },
+    {
+      "ID": "TROP009",
+      "SetID": "9n0dl35",
+      "Name": "Surviving",
+      "Percentage": 42,
+      "XP": 30
+    },
+    {
+      "ID": "TROP010",
+      "SetID": "9n0dl35",
+      "Name": "Hard Fox Life",
+      "Percentage": 23,
+      "XP": 60
+    },
+    {
+      "ID": "TROP011",
+      "SetID": "9n0dl35",
+      "Name": "Extinction is Forever",
+      "Percentage": 11,
+      "XP": 60
+    },
+    {
+      "ID": "TROP012",
+      "SetID": "9n0dl35",
+      "Name": "Never Give Up",
+      "Percentage": 38,
+      "XP": 15
+    },
+    {
+      "ID": "TROP013",
+      "SetID": "9n0dl35",
+      "Name": "Never Let Down",
+      "Percentage": 23,
+      "XP": 30
+    },
+    {
+      "ID": "TROP014",
+      "SetID": "9n0dl35",
+      "Name": "Never Run Around",
+      "Percentage": 14,
+      "XP": 60
+    },
+    {
+      "ID": "TROP015",
+      "SetID": "9n0dl35",
+      "Name": "For a Better Tomorrow",
+      "Percentage": 4,
+      "XP": 60
+    },
+    {
+      "ID": "TROP016",
+      "SetID": "9n0dl35",
+      "Name": "Beyond Words",
+      "Percentage": 14,
+      "XP": 15
+    },
+    {
+      "ID": "TROP017",
+      "SetID": "9n0dl35",
+      "Name": "Omnivore",
+      "Percentage": 2,
+      "XP": 60
+    },
+    {
+      "ID": "TROP018",
+      "SetID": "9n0dl35",
+      "Name": "Mother Love",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "TROP019",
+      "SetID": "9n0dl35",
+      "Name": "Barking in The Rain",
+      "Percentage": 15,
+      "XP": 15
+    },
+    {
+      "ID": "TROP020",
+      "SetID": "9n0dl35",
+      "Name": "Peaceful Instinct",
+      "Percentage": 17,
+      "XP": 30
+    },
+    {
+      "ID": "TROP021",
+      "SetID": "9n0dl35",
+      "Name": "Tasty",
+      "Percentage": 36,
+      "XP": 30
+    },
+    {
+      "ID": "TROP022",
+      "SetID": "9n0dl35",
+      "Name": "A Barking Fox Doesn\u0027t Bite",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "TROP023",
+      "SetID": "9n0dl35",
+      "Name": "Detox diet",
+      "Percentage": 38,
+      "XP": 30
+    },
+    {
+      "ID": "TROP024",
+      "SetID": "9n0dl35",
+      "Name": "You Can Pet The Fox",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "TROP025",
+      "SetID": "9n0dl35",
+      "Name": "Chicken Dinner",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "TROP026",
+      "SetID": "9n0dl35",
+      "Name": "Lullaby",
+      "Percentage": 32,
+      "XP": 15
+    },
+    {
+      "ID": "TROP027",
+      "SetID": "9n0dl35",
+      "Name": "Easter Egg",
+      "Percentage": 3,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -177,22 +375,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.51,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 28,
+  "LastChanged_Achievements": "2023-05-04T19:18:16.1452533+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 27,
   "EOS_Completed": 2,
   "EOS_Progressed": 396,
-  "LastUpdate_Achievements": "2023-05-04T19:03:21.708136+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:26.8920123+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:21.7081325+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:16.1452752+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:25.3343168+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9n0dl35",
+      "IsBase": true,
+      "Progressed": 396,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 0.51,
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
+  "FirstSeen": "2022-07-22T20:30:57.6723398+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_Progress": 191,
-  "FirstSeen": "2022-07-22T20:30:57.6723398+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00"
 }

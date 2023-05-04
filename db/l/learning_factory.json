@@ -1,6 +1,407 @@
 {
   "ID": "ef82c088018242d6b9936356b732088a",
   "Name": "Learning Factory",
+  "Achievements": [
+    {
+      "ID": "10000_CATS",
+      "SetID": "1j2bil7",
+      "Name": "Happiness For Everybody (Not Free)",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "1000_FRIENDS",
+      "SetID": "1j2bil7",
+      "Name": "The Great Catsby",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "1000_LOST_FRIENDS",
+      "SetID": "1j2bil7",
+      "Name": "Haters Gonna Hate",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "1000_MONEY",
+      "SetID": "1j2bil7",
+      "Name": "Toss a coin to your kitten!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "100_CATS",
+      "SetID": "1j2bil7",
+      "Name": "Happiness Spreads",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "100_FRIENDS",
+      "SetID": "1j2bil7",
+      "Name": "New and Trending",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "100_GRANDMAS",
+      "SetID": "1j2bil7",
+      "Name": "Grand Success",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "10_BUILDINGS",
+      "SetID": "1j2bil7",
+      "Name": "Factory Renovation",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "10_CATS",
+      "SetID": "1j2bil7",
+      "Name": "Happy Cats",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "10_PER_TICK",
+      "SetID": "1j2bil7",
+      "Name": "PhD in Economics",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "10_RESEARCHERS",
+      "SetID": "1j2bil7",
+      "Name": "Katz\u0027s Ten",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "10_RESEARCHES",
+      "SetID": "1j2bil7",
+      "Name": "Open Your Mind",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "2_PER_TICK",
+      "SetID": "1j2bil7",
+      "Name": "Economics Basics",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "50_BUILDINGS",
+      "SetID": "1j2bil7",
+      "Name": "Factory Expansion",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ADV_MONEY_BURNED",
+      "SetID": "1j2bil7",
+      "Name": "Mad Man",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "AROUND_MARS",
+      "SetID": "1j2bil7",
+      "Name": "Around Mars in 21 344 tiles",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BUILD_WATER",
+      "SetID": "1j2bil7",
+      "Name": "Are You Ready, Kittens?",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "CAT_UP_10",
+      "SetID": "1j2bil7",
+      "Name": "The Breadwinner",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "CAT_UP_1000",
+      "SetID": "1j2bil7",
+      "Name": "The Enlightener",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "FASHION_BEGINS",
+      "SetID": "1j2bil7",
+      "Name": "Fancy pants",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "FASHION_FACTORY",
+      "SetID": "1j2bil7",
+      "Name": "Fashion Icon",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "FULL_ROUTE_ACH",
+      "SetID": "1j2bil7",
+      "Name": "Around the World in 80 Ticks",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "FULL_TERRITORIES",
+      "SetID": "1j2bil7",
+      "Name": "Suzerain",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "GOLDEN_STATUE",
+      "SetID": "1j2bil7",
+      "Name": "The 8th Vysotka",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "HIRE_DEVELOPER",
+      "SetID": "1j2bil7",
+      "Name": "Dev in the Details",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "HIRE_RESEARCHER",
+      "SetID": "1j2bil7",
+      "Name": "All Work and No Play",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "HIRE_RESEARCHER_HOUSE",
+      "SetID": "1j2bil7",
+      "Name": "Honorary Doctorate",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "LEGENDARY",
+      "SetID": "1j2bil7",
+      "Name": "You Are Legend",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "LONG_ROUTE_ACH",
+      "SetID": "1j2bil7",
+      "Name": "We Don\u0027t Need Roads",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "MANY_QUESTS",
+      "SetID": "1j2bil7",
+      "Name": "The Stakhanovets",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "MASS_ROUTE_ACH",
+      "SetID": "1j2bil7",
+      "Name": "Kirov Reporting",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "MASS_SHIPMENT_ACH",
+      "SetID": "1j2bil7",
+      "Name": "The Mice Must Flow",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "MAX_TAVERN",
+      "SetID": "1j2bil7",
+      "Name": "Cool Cats Only",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "MAX_TRADE_TIER",
+      "SetID": "1j2bil7",
+      "Name": "Best friends forever",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "MILLION_MONEY",
+      "SetID": "1j2bil7",
+      "Name": "Stonks!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "MONUMENT",
+      "SetID": "1j2bil7",
+      "Name": "The Invitation",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "MONUMENT_T2",
+      "SetID": "1j2bil7",
+      "Name": "The Prototype",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRODUCE_VIDEOCARD",
+      "SetID": "1j2bil7",
+      "Name": "The Way It\u0027s Meant to Be",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "QUEST",
+      "SetID": "1j2bil7",
+      "Name": "Just What the Doctor Ordered",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "RESEARCH_MONEY_BURNED",
+      "SetID": "1j2bil7",
+      "Name": "Genius, Billionaire, Playboy, Felinetropist",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "SECOND_TRADE_TIER",
+      "SetID": "1j2bil7",
+      "Name": "The beginning of a beautiful friendship",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "SELL_QUALITY",
+      "SetID": "1j2bil7",
+      "Name": "Top Seller",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "STABLE_EVOLUTION",
+      "SetID": "1j2bil7",
+      "Name": "Life goes on",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "START_FREEPLAY",
+      "SetID": "1j2bil7",
+      "Name": "Too Cool For School",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "START_NEW_WORLD",
+      "SetID": "1j2bil7",
+      "Name": "Hello, World!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "TERRAFORMING",
+      "SetID": "1j2bil7",
+      "Name": "Terraformaster",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "TERRAFORMING_100",
+      "SetID": "1j2bil7",
+      "Name": "Terraformaniac",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "TERRITORY_EXPANSION",
+      "SetID": "1j2bil7",
+      "Name": "Local Fella",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "TRAIN_ML",
+      "SetID": "1j2bil7",
+      "Name": "The Coach",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "TRAIN_ML_LONG",
+      "SetID": "1j2bil7",
+      "Name": "The Guru",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "TURING_TREES_GENERATED",
+      "SetID": "1j2bil7",
+      "Name": "It\u0027s My Life",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "UNDERGROUND",
+      "SetID": "1j2bil7",
+      "Name": "We Need to Go Deeper",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "UNDERGROUND_ZEPPELINS_ACH",
+      "SetID": "1j2bil7",
+      "Name": "Surface Is the Limit",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "UP_CAT_RESEARCHER",
+      "SetID": "1j2bil7",
+      "Name": "Think Tank",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "UP_DORMITORY_10",
+      "SetID": "1j2bil7",
+      "Name": "The Caternity",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "UP_TAVERN",
+      "SetID": "1j2bil7",
+      "Name": "Another Round!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "VOID",
+      "SetID": "1j2bil7",
+      "Name": "Ice Cold Clicker",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +412,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 57,
+  "LastChanged_Achievements": "2023-05-04T19:17:34.1367544+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:09.7094472+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:17.6201074+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:09.7094455+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:34.1368031+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:16.3954228+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1j2bil7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:09.7206211+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:06.8222682+00:00",
   "FirstSeenRating": "2023-03-31T05:57:09.720621+00:00",
+  "FirstSeen": "2023-02-04T11:57:02.028603+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-02-04T11:57:02.028603+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:06.8222682+00:00"
 }

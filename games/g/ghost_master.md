@@ -1,12 +1,7 @@
 # Ghost Master
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
-## Awards
-| Award | Count |
-| ----- | ----- |
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,6 +1,547 @@
 {
   "ID": "c9e2559572f64192b1e37049eee27783",
   "Name": "Galactic Civilizations IV: Supernova",
+  "Achievements": [
+    {
+      "ID": "10000_Credits",
+      "SetID": "1b9olh7",
+      "Name": "Solid Economy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "30_Citizens",
+      "SetID": "1b9olh7",
+      "Name": "Ask Not What Your Empire Can Do For You",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Build_TerrorStar",
+      "SetID": "8ce16g",
+      "Name": "Build a Terror Star",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Buy_10_Resource",
+      "SetID": "1b9olh7",
+      "Name": "Commodity Trader - Level 2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Buy_30_Resource",
+      "SetID": "1b9olh7",
+      "Name": "Commodity Guru",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Buy_Resource",
+      "SetID": "1b9olh7",
+      "Name": "Commodity Trader",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Collect_15_Anomalies",
+      "SetID": "1b9olh7",
+      "Name": "Anomaly Researcher",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Control_All_Relics",
+      "SetID": "1b9olh7",
+      "Name": "Relic Hoarder",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Destroy_8_Pirate_Bases",
+      "SetID": "1b9olh7",
+      "Name": "Pirate Cleansing",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Destroy_Any_Faction",
+      "SetID": "1b9olh7",
+      "Name": "Xenocide",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Destroy_Iconians_As_Yor",
+      "SetID": "1b9olh7",
+      "Name": "Yor Dead Iconians",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "First_Civ_Designed",
+      "SetID": "1b9olh7",
+      "Name": "Design a Civilization",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Major_Ally",
+      "SetID": "1b9olh7",
+      "Name": "Gain an Ally",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Nebula_Anomaly",
+      "SetID": "1b9olh7",
+      "Name": "Discover a Nebula",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Planet_Colonized",
+      "SetID": "1b9olh7",
+      "Name": "Colonize a Planet",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Race_Met",
+      "SetID": "1b9olh7",
+      "Name": "First Contact",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Ship_Designed",
+      "SetID": "1b9olh7",
+      "Name": "Design a Ship",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Stream_Travel",
+      "SetID": "1b9olh7",
+      "Name": "Hyperspace!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "First_Worker_Specialization",
+      "SetID": "1b9olh7",
+      "Name": "Worker Specialization",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "GA_Against_The_Tide",
+      "SetID": "1b9olh7",
+      "Name": "Against the Tide",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GA_Breeding_Season",
+      "SetID": "1b9olh7",
+      "Name": "Breeding Season",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GA_Orb_Of_Draginol",
+      "SetID": "1b9olh7",
+      "Name": "The Orb of Draginol",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GA_Shard_Of_The_Mithrilar",
+      "SetID": "1b9olh7",
+      "Name": "Shard of the Mithrilar",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GA_The_Everwar",
+      "SetID": "1b9olh7",
+      "Name": "The Everwar",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GA_The_Plague",
+      "SetID": "1b9olh7",
+      "Name": "The Plague",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Have_Many_TradeRoutes",
+      "SetID": "1b9olh7",
+      "Name": "Trading Partner",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Level_5_Ship",
+      "SetID": "1b9olh7",
+      "Name": "Veteran Crew",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Lose_By_Own_TerrorStar",
+      "SetID": "8ce16g",
+      "Name": "Lose by Your Own Terror Star",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Lose_By_TerrorStar",
+      "SetID": "8ce16g",
+      "Name": "Lose by a Terror Star",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Minor_Civ_Quest",
+      "SetID": "1b9olh7",
+      "Name": "Complete a Minor Civilization Quest",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Own_30_Planets",
+      "SetID": "1b9olh7",
+      "Name": "Own 30 Planets",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Play_1000_Hours",
+      "SetID": "1b9olh7",
+      "Name": "Play for 1000 Hours",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "Play_100_Hours",
+      "SetID": "1b9olh7",
+      "Name": "Play for 100 Hours",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Play_5_Hours",
+      "SetID": "1b9olh7",
+      "Name": "Play for 5 Hours",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Play_Multiplayer",
+      "SetID": "1b9olh7",
+      "Name": "Play a Multiplayer Game",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Rebuild_The_Retribution",
+      "SetID": "1b9olh7",
+      "Name": "Rebuild the Retribution",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Recapture_Home_Planet",
+      "SetID": "1b9olh7",
+      "Name": "It\u0027s OUR Homeworld",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Recruit_12_Leaders",
+      "SetID": "1b9olh7",
+      "Name": "Recruit a Dozen Leaders",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Recruit_Leader",
+      "SetID": "1b9olh7",
+      "Name": "Recruit a Leader",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Sell_10_Resource",
+      "SetID": "1b9olh7",
+      "Name": "Commodity Seller, Level 2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Sell_30_Resource",
+      "SetID": "1b9olh7",
+      "Name": "Commodity Selling Guru",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Sell_Resource",
+      "SetID": "1b9olh7",
+      "Name": "Commodity Seller",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Take_Iconia_From_Yor_As_Iconians",
+      "SetID": "1b9olh7",
+      "Name": "Iconia Reclaimed!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Use_Artifact_Power",
+      "SetID": "1b9olh7",
+      "Name": "Unleash My Power",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Use_TerrorStar",
+      "SetID": "8ce16g",
+      "Name": "Use a Terror Star",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Use_X_Artifact_Powers",
+      "SetID": "1b9olh7",
+      "Name": "Artifact Mastery",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "War_With_5_Factions",
+      "SetID": "1b9olh7",
+      "Name": "Galactic War",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "War_Without_Translator",
+      "SetID": "1b9olh7",
+      "Name": "War with the Unknown",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Win_As_Altarian",
+      "SetID": "1b9olh7",
+      "Name": "Win as Altarians",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Arcean",
+      "SetID": "1b9olh7",
+      "Name": "Win as Arceans",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Baratak",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Baratak",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Drath",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Drath",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Drengin",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Drengin",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Festron",
+      "SetID": "1b9olh7",
+      "Name": "Win as Festron",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Iconian",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Iconians",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Iridium",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Iridium",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Krynn",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Krynn",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Manti",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Manti",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Mimot",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Mimot",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Navigators",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Navigators",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Onyx",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Onyx",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Terran",
+      "SetID": "1b9olh7",
+      "Name": "Win as Terrans",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Torian",
+      "SetID": "1b9olh7",
+      "Name": "Win as Torians",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Xeloxi",
+      "SetID": "1b9olh7",
+      "Name": "Win as Xeloxi",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_As_Yor",
+      "SetID": "1b9olh7",
+      "Name": "Win as the Yor",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "Win_Battle",
+      "SetID": "1b9olh7",
+      "Name": "Win a Battle",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Win_Battle_Against_Many_Ships",
+      "SetID": "1b9olh7",
+      "Name": "Fleet Victory",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Win_By_TerrorStar",
+      "SetID": "8ce16g",
+      "Name": "Win by Terror Star",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Win_Conquest",
+      "SetID": "1b9olh7",
+      "Name": "Conquest Victory!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Win_CustomFaction",
+      "SetID": "1b9olh7",
+      "Name": "Win with a Custom Faction",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Win_Diplomacy",
+      "SetID": "1b9olh7",
+      "Name": "Diplomatic Victory!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Win_ImmenseMap",
+      "SetID": "1b9olh7",
+      "Name": "Win an Immense Game",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Win_Influence",
+      "SetID": "1b9olh7",
+      "Name": "Influence Victory!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Win_Multiplayer",
+      "SetID": "1b9olh7",
+      "Name": "Win a Multiplayer Game",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Win_Prestige",
+      "SetID": "1b9olh7",
+      "Name": "Prestige Victory!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Win_Quickly",
+      "SetID": "1b9olh7",
+      "Name": "Win Quickly",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Win_Research",
+      "SetID": "1b9olh7",
+      "Name": "Science Victory!",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -752,22 +1293,38 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1060,
+  "TotalAchievements": 77,
+  "LastChanged_Achievements": "2023-05-04T19:14:56.8822314+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 644,
   "EOS_Completed": 0,
   "EOS_Progressed": 681,
-  "LastUpdate_Achievements": "2023-05-04T18:59:57.9072968+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:00.6667271+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:59:57.9072851+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:56.8825508+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:58.0743959+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1b9olh7",
+      "IsBase": true,
+      "Progressed": 681,
+      "Completed": 0
+    },
+    {
+      "ID": "8ce16g",
+      "IsBase": false,
+      "Progressed": 681,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-27T21:57:06.0421026+00:00",
-  "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
+  "FirstSeen": "2023-04-27T21:57:06.0397133+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 174,
-  "FirstSeen": "2023-04-27T21:57:06.0397133+00:00"
+  "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00"
 }

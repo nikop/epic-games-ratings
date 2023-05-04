@@ -1,6 +1,7 @@
 {
   "ID": "ee62d03be61b4eafa0936b21d0961693",
   "Name": "Fuga: Melodies of Steel",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:29.4249952+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:58.4813717+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:56.342618+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:24.4417139+00:00",
   "FirstSeenRating": "2023-03-31T05:57:24.4417138+00:00",
+  "FirstSeen": "2022-07-22T20:21:09.7024087+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:21:09.7024087+00:00"
+  "Ranking_EOS_Progress": 378
 }

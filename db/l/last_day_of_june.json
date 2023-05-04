@@ -1,6 +1,7 @@
 {
   "ID": "4fd85a772cd5471aa5e38efcaa0d6f24",
   "Name": "Last Day of June",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -122,15 +123,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:20.0945854+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:38.355357+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:36.5147461+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:43.969303+00:00",
   "FirstSeenRating": "2022-08-09T02:31:32.2864337+00:00",
+  "FirstSeen": "2022-07-22T20:23:53.547299+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 33,
@@ -141,6 +146,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 328,
-  "Rating": 4.63,
-  "FirstSeen": "2022-07-22T20:23:53.547299+00:00"
+  "Rating": 4.63
 }

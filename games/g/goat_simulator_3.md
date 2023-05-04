@@ -3,9 +3,51 @@ Rating: 4.85 (Ranked 37)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 307  (Ranked 222)  
 Sum: 2,611 (Ranked 162)  
-Diff (max vs sum): 60
+Diff (max vs sum): 60  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Forgotten Sorority | 91.00 |
+| Private Club | 74.00 |
+| Rogue Guild | 66.00 |
+| I Watched the Intro | 58.00 |
+| Covert Consortium | 55.00 |
+| Goat Queen | 53.00 |
+| Reach the Stratosphere | 49.00 |
+| Synchronization Complete | 47.00 |
+| Secret Society | 45.00 |
+| Shadow Syndicate | 37.00 |
+| What a Waste of Money | 32.00 |
+| New Goat Order | 30.00 |
+| Don't touch the servers | 28.00 |
+| San Angora: Become Human | 26.00 |
+| Raider of the Lost Parking Garage | 26.00 |
+| Real Buoy | 26.00 |
+| Welcome to Earth | 25.00 |
+| Into the Matrix | 19.00 |
+| Where is It? | 17.00 |
+| Beauty, Mindfulness and Meditation | 15.00 |
+| Egg Simulator | 14.00 |
+| Black Market | 14.00 |
+| 401(K.O.) | 14.00 |
+| Car Cave | 12.00 |
+| Club Mohair | 8.00 |
+| A Center for Ants? | 8.00 |
+| French Fika | 7.00 |
+| Nasty! | 4.00 |
+| [REDACTED] | 4.00 |
+| Who Baywatches the Baywatch? | 3.00 |
+| Cannibanana | 2.00 |
+| Daredevil | 2.00 |
+| Certified Fresh | 1.00 |
+| Streaking | 1.00 |
+| Try Hard 2 | 1.00 |
+| Crocsquatch | 0.90 |
+| You Trusted Your Instincts | 0.90 |
+| Move! That! Bus! | 0.60 |
+| G.O.A.T | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,470 (Ranked 45)  
+Progressed: 215,471 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +61,7 @@ Completed: 686 (0.32%) (Ranked 113)
 | 2023-05-01 | 215,144 | 686 |
 | 2023-05-02 | 215,267 | 686 |
 | 2023-05-03 | 215,383 | 686 |
-| 2023-05-04 | 215,470 | 686 |
+| 2023-05-04 | 215,471 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

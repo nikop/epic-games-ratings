@@ -4,7 +4,58 @@ Number of Ratings: 111  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 48  (Ranked 391)  
 Sum: 403 (Ranked 298)  
-Diff (max vs sum): 93
+Diff (max vs sum): 93  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| You're free now! | 49.00 |
+| Keeping it classy | 25.00 |
+| Welcome to the family | 18.00 |
+| The finer things in life | 16.00 |
+| Backpacker | 11.00 |
+| Go with the Flow | 11.00 |
+| Plastic Surgeon | 9.00 |
+| The flip trick crown jewel | 9.00 |
+| Keep the dream alive | 8.00 |
+| The hard way | 8.00 |
+| Good vibes | 7.00 |
+| Upfront shredder | 7.00 |
+| Finally he zips it | 6.00 |
+| That pinch! | 6.00 |
+| Bottom ply killer | 5.00 |
+| Fashionista | 5.00 |
+| Fulfilled the dream | 5.00 |
+| G'Day Mate! | 5.00 |
+| NAHELL! | 5.00 |
+| Squad goals | 5.00 |
+| Sup widdit big dog! | 5.00 |
+| Tight lipslides | 5.00 |
+| Commence the Hijinx! | 4.00 |
+| DIY Boss | 4.00 |
+| Globetrotter | 4.00 |
+| Laid back | 4.00 |
+| Lines for days | 4.00 |
+| Manny Destroys All | 4.00 |
+| Prince of Philly | 4.00 |
+| Purple passion | 4.00 |
+| Renaissance man | 4.00 |
+| Tank commander | 4.00 |
+| Cops called! | 3.00 |
+| G.O.A.T. status | 3.00 |
+| Hoarder | 3.00 |
+| Trick shot marksman | 3.00 |
+| We get it, you're good | 3.00 |
+| Cross lock country | 2.00 |
+| Many plys later... | 2.00 |
+| Pew-Pew | 2.00 |
+| Dipped! | 1.00 |
+| That was wheelie fun | 0.80 |
+| Skatepark hero | 0.70 |
+| That's how it's done! | 0.10 |
+| Ultimate skate nerd | 0.10 |
+| Bing Bong! | 0.00 |
+| Golden! | 0.00 |
+| Loves You Back | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,928 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 191)  

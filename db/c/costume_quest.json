@@ -1,6 +1,7 @@
 {
   "ID": "d1479d6f93fa4e6ca4415e83a7a5d703",
   "Name": "Costume Quest",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -250,14 +251,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:08.5833614+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:42.1745787+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:41.3357557+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:48.3528286+00:00",
+  "FirstSeen": "2022-07-22T20:24:30.9149572+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 53,
@@ -268,6 +273,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 488,
-  "Rating": 4.53,
-  "FirstSeen": "2022-07-22T20:24:30.9149572+00:00"
+  "Rating": 4.53
 }

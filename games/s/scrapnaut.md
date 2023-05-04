@@ -1,10 +1,40 @@
 # Scrapnaut
 Rating: 4.34 (Ranked 721)  
 Number of Ratings: 38  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Mushroom Picker | 59.00 |
+| My New Home | 59.00 |
+| Scrap Gatherer | 58.00 |
+| Scrapper | 49.00 |
+| Cook | 41.00 |
+| Scrap Master | 39.00 |
+| Teleport | 39.00 |
+| Digger | 34.00 |
+| Smelter | 34.00 |
+| Electro-Scrap Gatherer | 33.00 |
+| Survivor | 31.00 |
+| Robot Destroyer | 30.00 |
+| Herbalist | 27.00 |
+| Prepper | 27.00 |
+| Lumberjack | 25.00 |
+| Electro-Scrap Master | 23.00 |
+| Robot Hunter | 20.00 |
+| Advanced Survivalist | 20.00 |
+| Master Of Technology | 17.00 |
+| Treasure Hunter | 15.00 |
+| Blacksmith | 11.00 |
+| Fuel | 11.00 |
+| Mythical Smelter | 11.00 |
+| Forest Lord | 9.00 |
+| Smelting Master | 9.00 |
+| Black Gold | 8.00 |
+| Master Of Management | 8.00 |
+| Survival Master | 4.00 |
+| Traveler | 3.00 |
+| Forest Killer | 1.00 |
+| Invincible | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -15,9 +45,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-29 | 156 | 0 |
 | 2023-05-02 | 157 | 0 |
 | 2023-05-03 | 158 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

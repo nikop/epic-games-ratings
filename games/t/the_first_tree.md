@@ -1,12 +1,25 @@
 # The First Tree
 Rating: 3.98 (Ranked 882)  
 Number of Ratings: 56  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Two Worlds | 78.00 |
+| 50 Stars | 26.00 |
+| Hare Today | 25.00 |
+| The Way Forward | 17.00 |
+| Joseph | 9.00 |
+| 100 Stars | 5.00 |
+| Hummed of Mystery | 4.00 |
+| Excavator | 2.00 |
+| Well Hidden | 1.00 |
+| Easter Bunny | 0.50 |
+| 150 Stars | 0.40 |
+| No Stone Left Unturned | 0.40 |
+| Completionist | 0.40 |
+| Deja Vu | 0.40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,245 (Ranked 81)  
+Progressed: 30,246 (Ranked 81)  
 Completed: 93 (0.31%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,10 +33,7 @@ Completed: 93 (0.31%) (Ranked 116)
 | 2023-05-01 | 30,128 | 93 |
 | 2023-05-02 | 30,161 | 93 |
 | 2023-05-03 | 30,213 | 93 |
-| 2023-05-04 | 30,245 | 93 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 30,246 | 93 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

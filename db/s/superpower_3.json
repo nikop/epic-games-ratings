@@ -1,6 +1,7 @@
 {
   "ID": "d356928fc14745c9811cb04b1a2caff5",
   "Name": "SuperPower 3",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:52.938098+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:18.0616318+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:16.544247+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:42.2574791+00:00",
   "FirstSeenRating": "2023-03-31T05:58:42.257479+00:00",
+  "FirstSeen": "2022-10-08T17:32:43.1937834+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-10-08T17:32:43.1937834+00:00"
+  "Ranking_EOS_Progress": 378
 }

@@ -1,6 +1,225 @@
 {
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
+  "Achievements": [
+    {
+      "ID": "ACH_10_DIG",
+      "SetID": "7c4cldc",
+      "Name": "Digger",
+      "Percentage": 34,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_ALL_TELEPORTS",
+      "SetID": "7c4cldc",
+      "Name": "Traveler",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_BUILD_RAFINERY",
+      "SetID": "7c4cldc",
+      "Name": "Black Gold",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_COLLECT_100_ELECTROSCRAP",
+      "SetID": "7c4cldc",
+      "Name": "Electro-Scrap Master",
+      "Percentage": 23,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_COLLECT_100_SCRAP",
+      "SetID": "7c4cldc",
+      "Name": "Scrap Master",
+      "Percentage": 39,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_COLLECT_10_HERBS",
+      "SetID": "7c4cldc",
+      "Name": "Herbalist",
+      "Percentage": 27,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COLLECT_10_MUSHROOMS",
+      "SetID": "7c4cldc",
+      "Name": "Mushroom Picker",
+      "Percentage": 59,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_COLLECT_20_RED_BOOKS",
+      "SetID": "7c4cldc",
+      "Name": "Master Of Technology",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
+      "SetID": "7c4cldc",
+      "Name": "Blacksmith",
+      "Percentage": 11,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_COLLECT_30_BLUE_BOOKS",
+      "SetID": "7c4cldc",
+      "Name": "Master Of Management",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_COLLECT_50_ELECTROSCRAP",
+      "SetID": "7c4cldc",
+      "Name": "Electro-Scrap Gatherer",
+      "Percentage": 33,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_COLLECT_50_SCRAP",
+      "SetID": "7c4cldc",
+      "Name": "Scrap Gatherer",
+      "Percentage": 58,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_COOK",
+      "SetID": "7c4cldc",
+      "Name": "Cook",
+      "Percentage": 41,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_CUT_100_TREES",
+      "SetID": "7c4cldc",
+      "Name": "Forest Killer",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CUT_20_TREES",
+      "SetID": "7c4cldc",
+      "Name": "Lumberjack",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_CUT_50_TREES",
+      "SetID": "7c4cldc",
+      "Name": "Forest Lord",
+      "Percentage": 9,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_FIND_10_TREASURES",
+      "SetID": "7c4cldc",
+      "Name": "Treasure Hunter",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FIRST_BASE",
+      "SetID": "7c4cldc",
+      "Name": "My New Home",
+      "Percentage": 59,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_100",
+      "SetID": "7c4cldc",
+      "Name": "Robot Hunter",
+      "Percentage": 20,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_KILL_20",
+      "SetID": "7c4cldc",
+      "Name": "Scrapper",
+      "Percentage": 49,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_KILL_50",
+      "SetID": "7c4cldc",
+      "Name": "Robot Destroyer",
+      "Percentage": 30,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_MAKE_CANNED_FOOD",
+      "SetID": "7c4cldc",
+      "Name": "Prepper",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_MAKE_FUEL",
+      "SetID": "7c4cldc",
+      "Name": "Fuel",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_METEORITE_SMELTER",
+      "SetID": "7c4cldc",
+      "Name": "Smelting Master",
+      "Percentage": 9,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_MYTHRIL_SMELTER",
+      "SetID": "7c4cldc",
+      "Name": "Mythical Smelter",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_PERMADEATH",
+      "SetID": "7c4cldc",
+      "Name": "Invincible",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_SMELTER",
+      "SetID": "7c4cldc",
+      "Name": "Smelter",
+      "Percentage": 34,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_SURVIVE_10_DAYS",
+      "SetID": "7c4cldc",
+      "Name": "Survivor",
+      "Percentage": 31,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_SURVIVE_20_DAYS",
+      "SetID": "7c4cldc",
+      "Name": "Advanced Survivalist",
+      "Percentage": 20,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_SURVIVE_40_DAYS",
+      "SetID": "7c4cldc",
+      "Name": "Survival Master",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_TELEPORT",
+      "SetID": "7c4cldc",
+      "Name": "Teleport",
+      "Percentage": 39,
+      "XP": 5
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -132,17 +351,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 31,
+  "LastChanged_Achievements": "2023-05-04T19:17:23.9783648+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 158,
-  "LastUpdate_Achievements": "2023-05-04T19:02:18.3142511+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:06.168219+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:18.314248+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:23.9783867+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:04.9306087+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7c4cldc",
+      "IsBase": true,
+      "Progressed": 158,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
+  "FirstSeen": "2022-07-22T20:32:19.6180607+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 38,
@@ -154,5 +383,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 721,
   "Rating": 4.34,
-  "FirstSeen": "2022-07-22T20:32:19.6180607+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00"
 }

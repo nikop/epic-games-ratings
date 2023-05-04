@@ -1,6 +1,7 @@
 {
   "ID": "8b9fc0e3ee7d478abc047d1a3596c568",
   "Name": "Far Cry 3: Blood Dragon",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -193,14 +194,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:19.5239436+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:31.2752852+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:30.1960337+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:20.833968+00:00",
+  "FirstSeen": "2022-07-22T20:29:24.1119308+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 54,
@@ -211,6 +216,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 353,
-  "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:29:24.1119308+00:00"
+  "Rating": 4.61
 }

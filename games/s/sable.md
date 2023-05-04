@@ -1,10 +1,65 @@
 # Sable
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 43  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Simoon | 35.00 |
+| Just The Two of Us | 33.00 |
+| Up On High | 26.00 |
+| Under The Hood | 25.00 |
+| The Gift of Gab | 25.00 |
+| Got Your Nose | 24.00 |
+| Wrapping Up | 23.00 |
+| More Than A Box Of Sand | 19.00 |
+| Badge Hobbyist | 18.00 |
+| Chum Novice | 17.00 |
+| The Dunboyne | 17.00 |
+| Silver-Tongued Sable | 17.00 |
+| Sticky Paws | 17.00 |
+| Bubble Up | 17.00 |
+| Thread The Needle | 16.00 |
+| Power to the People | 15.00 |
+| Take That! | 13.00 |
+| Treasure Tracker | 13.00 |
+| Big Spender | 13.00 |
+| Nesting Giant | 12.00 |
+| Badge Collector | 12.00 |
+| Quite The Catch | 12.00 |
+| The Machinist Mask | 11.00 |
+| Rowleys Way | 11.00 |
+| Playing Dress Up | 11.00 |
+| The Cartographer Mask | 10.00 |
+| Balfron Connection | 10.00 |
+| Ceiling Of Stars | 10.00 |
+| Bike Collector | 10.00 |
+| Many Different Faces | 9.00 |
+| Trellick's Pillar | 9.00 |
+| Centre Of Brunswick | 9.00 |
+| Fragile Goods | 9.00 |
+| Dune Rider | 9.00 |
+| Not That Kind Of Gliding | 9.00 |
+| The Scrapper Mask | 8.00 |
+| Shadow Of Neave | 8.00 |
+| Glider on the Storm | 8.00 |
+| Squeeze One Out | 8.00 |
+| Amateur Historian | 7.00 |
+| The Beetle Mask | 7.00 |
+| The Guard Mask | 7.00 |
+| The Merchant Mask | 7.00 |
+| Honorary Chum | 7.00 |
+| Smoked Out | 7.00 |
+| Bikes Don't Fly | 7.00 |
+| The Climber Mask | 6.00 |
+| A Hard Place | 6.00 |
+| The Entertainer Mask | 5.00 |
+| Bike Aficionado | 5.00 |
+| The Gliding | 4.00 |
+| The Quick and the Curious | 4.00 |
+| Chum Expert | 3.00 |
+| Gastric Bypass | 3.00 |
+| The Angler Mask | 3.00 |
+| Vivacious Vivarium | 2.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 55,763 (Ranked 68)  
 Completed: 508 (0.91%) (Ranked 79)  
@@ -21,9 +76,6 @@ Completed: 508 (0.91%) (Ranked 79)
 | 2023-05-02 | 55,289 | 506 |
 | 2023-05-03 | 55,526 | 506 |
 | 2023-05-04 | 55,763 | 508 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

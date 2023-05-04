@@ -1,6 +1,169 @@
 {
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
+  "Achievements": [
+    {
+      "ID": "BigFamily",
+      "SetID": "d0jo315",
+      "Name": "Family man",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "CarMechanic",
+      "SetID": "d0jo315",
+      "Name": "Car Mechanic",
+      "Percentage": 0.7,
+      "XP": 50
+    },
+    {
+      "ID": "ChangChoi",
+      "SetID": "d0jo315",
+      "Name": "Nerd",
+      "Percentage": 0.5,
+      "XP": 100
+    },
+    {
+      "ID": "DoItASAP",
+      "SetID": "d0jo315",
+      "Name": "Do it ASAP",
+      "Percentage": 0.6,
+      "XP": 100
+    },
+    {
+      "ID": "DolanTrusk",
+      "SetID": "d0jo315",
+      "Name": "Worth Every Penny",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "EstateAgent",
+      "SetID": "d0jo315",
+      "Name": "Estate Agent",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "FirstMoney",
+      "SetID": "d0jo315",
+      "Name": "First money",
+      "Percentage": 94,
+      "XP": 5
+    },
+    {
+      "ID": "GameOver",
+      "SetID": "d0jo315",
+      "Name": "Game Over",
+      "Percentage": 0.8,
+      "XP": 50
+    },
+    {
+      "ID": "GorgioShanua",
+      "SetID": "d0jo315",
+      "Name": "I\u0027m Belieber",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "JackTarinton",
+      "SetID": "d0jo315",
+      "Name": "Wall Street Shark",
+      "Percentage": 0.8,
+      "XP": 100
+    },
+    {
+      "ID": "JimmyTraitor",
+      "SetID": "d0jo315",
+      "Name": "Mystery",
+      "Percentage": 10,
+      "XP": 25
+    },
+    {
+      "ID": "JuniorEstateAgent",
+      "SetID": "d0jo315",
+      "Name": "Junior Estate Agent",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "KnockKnock",
+      "SetID": "d0jo315",
+      "Name": "Knock, knock",
+      "Percentage": 0.8,
+      "XP": 50
+    },
+    {
+      "ID": "Millionaire",
+      "SetID": "d0jo315",
+      "Name": "Millionaire",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "MrAndMrsJantart",
+      "SetID": "d0jo315",
+      "Name": "Just Enough",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "Negotiator",
+      "SetID": "d0jo315",
+      "Name": "Negotiator",
+      "Percentage": 0.8,
+      "XP": 100
+    },
+    {
+      "ID": "Perfectionist",
+      "SetID": "d0jo315",
+      "Name": "Perfectionist",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "RafaelErko",
+      "SetID": "d0jo315",
+      "Name": "Alpha Male",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "SeniorEstateAgent",
+      "SetID": "d0jo315",
+      "Name": "Senior Estate Agent",
+      "Percentage": 0.5,
+      "XP": 150
+    },
+    {
+      "ID": "SmothFamily",
+      "SetID": "d0jo315",
+      "Name": "Pro-creative",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "Strongman",
+      "SetID": "d0jo315",
+      "Name": "Strongman",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "VeronicaLiptson",
+      "SetID": "d0jo315",
+      "Name": "Artistic soul",
+      "Percentage": 9,
+      "XP": 25
+    },
+    {
+      "ID": "YouDoItWrong",
+      "SetID": "d0jo315",
+      "Name": "You do it wrong",
+      "Percentage": 1,
+      "XP": 50
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1588,27 +1751,37 @@
       "NumberOfAwardsMax": 281
     }
   ],
-  "EOS_Completed_Percentage": 0.1,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 23,
+  "LastChanged_Achievements": "2023-05-04T19:19:18.0719568+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 49,
   "EOS_Completed": 19,
   "EOS_Progressed": 18647,
-  "LastUpdate_Achievements": "2023-05-04T19:04:27.4550824+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:54.9166175+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:27.4550797+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:18.071975+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:52.8323863+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d0jo315",
+      "IsBase": true,
+      "Progressed": 18647,
+      "Completed": 19
+    }
+  ],
+  "EOS_Completed_Percentage": 0.1,
   "LastChanged": "2023-05-02T07:58:43.4676173+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
+  "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 281,
   "NumberOfAwards": 2106,
   "NumberOfRatings": 1023,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_Progress": 92,
   "Ranking_PopularitySum": 179,
   "Ranking_Popularity": 225,
   "Ranking_Rating": 192,
   "Rating": 4.7,
-  "FirstSeen": "2022-07-22T20:22:51.6478792+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00"
 }

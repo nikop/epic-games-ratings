@@ -4,9 +4,47 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 349  (Ranked 209)  
 Sum: 2,605 (Ranked 163)  
-Diff (max vs sum): 46
+Diff (max vs sum): 46  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Point Shooting | 5.00 |
+| Wallbanger | 5.00 |
+| Exploitative | 4.00 |
+| High Speed Low Drag | 4.00 |
+| Wet Feet | 4.00 |
+| Checkpoint Victory | 3.00 |
+| Lucky | 3.00 |
+| Stylin' | 3.00 |
+| Turf War | 3.00 |
+| Banged | 2.00 |
+| First Blood | 2.00 |
+| Flaccid Paralysis | 2.00 |
+| Push Victory | 2.00 |
+| Self-destructive | 2.00 |
+| Blindfire | 1.00 |
+| Efficient | 1.00 |
+| Ruthless | 1.00 |
+| Semper Paratus | 1.00 |
+| Carrying | 0.90 |
+| Mount & Gun | 0.90 |
+| Personal | 0.90 |
+| Grounded | 0.80 |
+| Play to Win | 0.80 |
+| #1 | 0.70 |
+| Special Delivery | 0.70 |
+| Firefight Victory | 0.60 |
+| Cinematic | 0.50 |
+| Thanks Station! | 0.40 |
+| Knock Knock | 0.30 |
+| Hit and Run | 0.20 |
+| There For You | 0.20 |
+| Designated Driver | 0.10 |
+| J.R. .50 | 0.10 |
+| It's All in the Reflexes | 0.10 |
+| Road Hazard | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,700 (Ranked 35)  
+Progressed: 361,707 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +58,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 360,392 | 2 |
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
-| 2023-05-04 | 361,700 | 2 |
+| 2023-05-04 | 361,707 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

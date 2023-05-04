@@ -1,6 +1,344 @@
 {
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "4fgie3j",
+      "Name": "Mercenary March",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "10",
+      "SetID": "4fgie3j",
+      "Name": "Takeover Planet",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "11",
+      "SetID": "4fgie3j",
+      "Name": "Assassination",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "12",
+      "SetID": "4fgie3j",
+      "Name": "2nd AI War",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "13",
+      "SetID": "4fgie3j",
+      "Name": "Punish Southsea",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "14",
+      "SetID": "4fgie3j",
+      "Name": "Punish Eastgalaxy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "15",
+      "SetID": "4fgie3j",
+      "Name": "Tyrant Rise",
+      "Percentage": 56,
+      "XP": 5
+    },
+    {
+      "ID": "16",
+      "SetID": "4fgie3j",
+      "Name": "Great Civil War",
+      "Percentage": 22,
+      "XP": 5
+    },
+    {
+      "ID": "17",
+      "SetID": "4fgie3j",
+      "Name": "Death of Princess",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "18",
+      "SetID": "4fgie3j",
+      "Name": "Princess Crowned",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "19",
+      "SetID": "4fgie3j",
+      "Name": "North Supremacy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "2",
+      "SetID": "4fgie3j",
+      "Name": "Secret War",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "20",
+      "SetID": "4fgie3j",
+      "Name": "East Supremacy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "21",
+      "SetID": "4fgie3j",
+      "Name": "South Supremacy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "22",
+      "SetID": "4fgie3j",
+      "Name": "West Supremacy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "23",
+      "SetID": "4fgie3j",
+      "Name": "Guild Hegemony",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "24",
+      "SetID": "4fgie3j",
+      "Name": "Grand Trust",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "25",
+      "SetID": "4fgie3j",
+      "Name": "Sendai Shogunate",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "26",
+      "SetID": "4fgie3j",
+      "Name": "Tosho Shogunate",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "27",
+      "SetID": "4fgie3j",
+      "Name": "Farsea Republic",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "28",
+      "SetID": "4fgie3j",
+      "Name": "Lycurgus Rise",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "29",
+      "SetID": "4fgie3j",
+      "Name": "Shadow Lord",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "3",
+      "SetID": "4fgie3j",
+      "Name": "Pirate Raid",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "30",
+      "SetID": "4fgie3j",
+      "Name": "Heaven Tower",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "31",
+      "SetID": "4fgie3j",
+      "Name": "Order Hegemony",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "32",
+      "SetID": "4fgie3j",
+      "Name": "Rebel Command",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "33",
+      "SetID": "4fgie3j",
+      "Name": "Empire Revival",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "34",
+      "SetID": "4fgie3j",
+      "Name": "Northsky Dynasty",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "35",
+      "SetID": "4fgie3j",
+      "Name": "Eastocean Dynasty",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "36",
+      "SetID": "4fgie3j",
+      "Name": "Emperor  Cruel",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "37",
+      "SetID": "4fgie3j",
+      "Name": "Westwasters Dynasty",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "38",
+      "SetID": "4fgie3j",
+      "Name": "Merchant Republic",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "39",
+      "SetID": "4fgie3j",
+      "Name": "Plutocracy Empire",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "4",
+      "SetID": "4fgie3j",
+      "Name": "Investment",
+      "Percentage": 22,
+      "XP": 5
+    },
+    {
+      "ID": "40",
+      "SetID": "4fgie3j",
+      "Name": "Sendai Dynasty",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "41",
+      "SetID": "4fgie3j",
+      "Name": "Tosho Dynasty",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "42",
+      "SetID": "4fgie3j",
+      "Name": "Galaxy Republic",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "43",
+      "SetID": "4fgie3j",
+      "Name": "Warrior King",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "44",
+      "SetID": "4fgie3j",
+      "Name": "Shadow Dynasty",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "45",
+      "SetID": "4fgie3j",
+      "Name": "Cosmos Wil",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "46",
+      "SetID": "4fgie3j",
+      "Name": "Technology Revival",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "47",
+      "SetID": "4fgie3j",
+      "Name": "Heaven War",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "48",
+      "SetID": "4fgie3j",
+      "Name": "Glorious Dedication",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "5",
+      "SetID": "4fgie3j",
+      "Name": "Tech Breakthrough",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "6",
+      "SetID": "4fgie3j",
+      "Name": "Honor Medal",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "7",
+      "SetID": "4fgie3j",
+      "Name": "Jihad Uprising",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "8",
+      "SetID": "4fgie3j",
+      "Name": "Abolish Edict",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "9",
+      "SetID": "4fgie3j",
+      "Name": "Compliance Edict",
+      "Percentage": 0,
+      "XP": 5
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -15,17 +353,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 48,
+  "LastChanged_Achievements": "2023-05-04T19:17:19.7757219+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-04T19:02:13.7073969+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:58.3492677+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:13.7073946+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:19.7757643+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:56.2951861+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4fgie3j",
+      "IsBase": true,
+      "Progressed": 9,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 306
+  "Ranking_EOS_Progress": 306,
+  "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00"
 }

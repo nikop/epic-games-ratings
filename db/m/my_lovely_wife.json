@@ -1,6 +1,239 @@
 {
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
+  "Achievements": [
+    {
+      "ID": "ACH_ASSIGN_LEARN_1",
+      "SetID": "ajki3eh",
+      "Name": "Learner",
+      "Percentage": 91,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ASSIGN_LEARN_2",
+      "SetID": "ajki3eh",
+      "Name": "Dilligent",
+      "Percentage": 82,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ASSIGN_PLAZA_1",
+      "SetID": "ajki3eh",
+      "Name": "Adored",
+      "Percentage": 76,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ASSIGN_PLAZA_2",
+      "SetID": "ajki3eh",
+      "Name": "Precious",
+      "Percentage": 44,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ASSIGN_RUIN_1",
+      "SetID": "ajki3eh",
+      "Name": "Devout",
+      "Percentage": 89,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ASSIGN_RUIN_2",
+      "SetID": "ajki3eh",
+      "Name": "Loyal",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ASSIGN_SHRINE_1",
+      "SetID": "ajki3eh",
+      "Name": "Devoted",
+      "Percentage": 41,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ASSIGN_SHRINE_2",
+      "SetID": "ajki3eh",
+      "Name": "Faithful",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ASSIGN_WORK_1",
+      "SetID": "ajki3eh",
+      "Name": "Economical",
+      "Percentage": 91,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ASSIGN_WORK_2",
+      "SetID": "ajki3eh",
+      "Name": "Frugal",
+      "Percentage": 85,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FINISH_OBJECTIVE",
+      "SetID": "ajki3eh",
+      "Name": "Objective Complete",
+      "Percentage": 97,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FINISH_SUCC_STORY_1",
+      "SetID": "ajki3eh",
+      "Name": "Lover",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FINISH_SUCC_STORY_2",
+      "SetID": "ajki3eh",
+      "Name": "Playboy",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_FINISH_SUCC_STORY_3",
+      "SetID": "ajki3eh",
+      "Name": "Womanizer",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "ACH_FINISH_SUCC_STORY_4",
+      "SetID": "ajki3eh",
+      "Name": "Lady Killer",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_KILL_SUCC_1",
+      "SetID": "ajki3eh",
+      "Name": "I... I did it?",
+      "Percentage": 80,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_SUCC_2",
+      "SetID": "ajki3eh",
+      "Name": "Mandatory Sacrifice",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_SUCC_3",
+      "SetID": "ajki3eh",
+      "Name": "Necessary Sacrifice",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_SUMMON_SUCC_1",
+      "SetID": "ajki3eh",
+      "Name": "I did it!",
+      "Percentage": 94,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_SUMMON_SUCC_2",
+      "SetID": "ajki3eh",
+      "Name": "The Farmer",
+      "Percentage": 38,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_SUMMON_SUCC_3",
+      "SetID": "ajki3eh",
+      "Name": "The Harvester",
+      "Percentage": 0.9,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_UNLOCK_ALL_ROOM",
+      "SetID": "ajki3eh",
+      "Name": "All Doors Open",
+      "Percentage": 19,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_UNLOCK_ASMO_ENDING",
+      "SetID": "ajki3eh",
+      "Name": "Asmodeus",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_UNLOCK_CHAPTER_1",
+      "SetID": "ajki3eh",
+      "Name": "The Love Martyr",
+      "Percentage": 87,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_UNLOCK_CHAPTER_2",
+      "SetID": "ajki3eh",
+      "Name": "Between Two Fires",
+      "Percentage": 51,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_UNLOCK_CHAPTER_3",
+      "SetID": "ajki3eh",
+      "Name": "A Forked Tongue",
+      "Percentage": 54,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_UNLOCK_LUNA_ENDING",
+      "SetID": "ajki3eh",
+      "Name": "Luna",
+      "Percentage": 7,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_UNLOCK_SUCC_ENDING_1",
+      "SetID": "ajki3eh",
+      "Name": "Ever After",
+      "Percentage": 35,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_UNLOCK_SUCC_ENDING_2",
+      "SetID": "ajki3eh",
+      "Name": "A Close",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_UNLOCK_SUCC_ENDING_3",
+      "SetID": "ajki3eh",
+      "Name": "Conclusions",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_UNLOCK_SUCC_KIND_1",
+      "SetID": "ajki3eh",
+      "Name": "The Hobbyist",
+      "Percentage": 64,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_UNLOCK_SUCC_KIND_2",
+      "SetID": "ajki3eh",
+      "Name": "The Admirer",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_UNLOCK_SUCC_KIND_3",
+      "SetID": "ajki3eh",
+      "Name": "The Collector",
+      "Percentage": 24,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -54,16 +287,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 33,
+  "LastChanged_Achievements": "2023-05-04T19:17:20.2644567+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 547,
-  "LastUpdate_Achievements": "2023-05-04T19:02:14.1898986+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:46.230768+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:14.1898969+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:20.2644783+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:45.2935757+00:00",
+  "AchievementSets": [
+    {
+      "ID": "ajki3eh",
+      "IsBase": true,
+      "Progressed": 547,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
+  "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 25,
@@ -75,5 +318,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 701,
   "Rating": 4.36,
-  "FirstSeen": "2022-07-22T20:30:06.1147591+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00"
 }

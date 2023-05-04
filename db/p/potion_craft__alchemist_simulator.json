@@ -1,6 +1,7 @@
 {
   "ID": "076c0aa2704a4741a2cb7e2436efd2fd",
   "Name": "Potion Craft: Alchemist Simulator",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -101,17 +102,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:46.5237815+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:56.0056632+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:24.9281255+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:56.0056624+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:46.5237865+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:22.9475196+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c1jp197",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-26T23:59:31.5603954+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:18.9399918+00:00",
   "FirstSeenRating": "2022-12-27T02:02:09.6574842+00:00",
+  "FirstSeen": "2022-12-14T02:15:37.2843558+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -122,5 +133,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 379,
   "Rating": 4.6,
-  "FirstSeen": "2022-12-14T02:15:37.2843558+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:18.9399918+00:00"
 }

@@ -4,7 +4,10 @@ Number of Ratings: 6,856  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 2,085  (Ranked 102)  
 Sum: 11,980 (Ranked 70)  
-Diff (max vs sum): 32
+Diff (max vs sum): 32  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

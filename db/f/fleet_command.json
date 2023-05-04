@@ -1,6 +1,7 @@
 {
   "ID": "2899727785214d8b8874649a2c4db49f",
   "Name": "Fleet Command",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:34.830319+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:46.619238+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:45.5813037+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:05.1116583+00:00",
   "FirstSeenRating": "2023-03-31T05:58:05.1116583+00:00",
+  "FirstSeen": "2022-12-24T15:59:01.9325373+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-12-24T15:59:01.9325373+00:00"
+  "Ranking_EOS_Progress": 378
 }

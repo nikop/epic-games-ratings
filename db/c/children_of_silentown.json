@@ -1,6 +1,190 @@
 {
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
+  "Achievements": [
+    {
+      "ID": "BlueTrick",
+      "SetID": "9kk0gal",
+      "Name": "Blue\u0027s drawing",
+      "Percentage": 54,
+      "XP": 30
+    },
+    {
+      "ID": "Cat",
+      "SetID": "9kk0gal",
+      "Name": "Cat",
+      "Percentage": 33,
+      "XP": 60
+    },
+    {
+      "ID": "Cellar",
+      "SetID": "9kk0gal",
+      "Name": "Glass shards",
+      "Percentage": 44,
+      "XP": 30
+    },
+    {
+      "ID": "DogHair",
+      "SetID": "9kk0gal",
+      "Name": "Coal\u0027s fur",
+      "Percentage": 58,
+      "XP": 30
+    },
+    {
+      "ID": "Doll",
+      "SetID": "9kk0gal",
+      "Name": "Doll",
+      "Percentage": 36,
+      "XP": 40
+    },
+    {
+      "ID": "Ending1",
+      "SetID": "9kk0gal",
+      "Name": "Children",
+      "Percentage": 22,
+      "XP": 60
+    },
+    {
+      "ID": "Ending2",
+      "SetID": "9kk0gal",
+      "Name": "Back Home",
+      "Percentage": 12,
+      "XP": 60
+    },
+    {
+      "ID": "Ending3",
+      "SetID": "9kk0gal",
+      "Name": "Forest Howl",
+      "Percentage": 10,
+      "XP": 60
+    },
+    {
+      "ID": "Ending4",
+      "SetID": "9kk0gal",
+      "Name": "Hope",
+      "Percentage": 6,
+      "XP": 60
+    },
+    {
+      "ID": "Footprint",
+      "SetID": "9kk0gal",
+      "Name": "Mysterious footprints",
+      "Percentage": 43,
+      "XP": 30
+    },
+    {
+      "ID": "Friend",
+      "SetID": "9kk0gal",
+      "Name": "Friend",
+      "Percentage": 10,
+      "XP": 60
+    },
+    {
+      "ID": "FriendDoor",
+      "SetID": "9kk0gal",
+      "Name": "Complicated padlock",
+      "Percentage": 43,
+      "XP": 30
+    },
+    {
+      "ID": "Furball",
+      "SetID": "9kk0gal",
+      "Name": "Hairball",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Genesis",
+      "SetID": "9kk0gal",
+      "Name": "Mysterious paintings",
+      "Percentage": 31,
+      "XP": 40
+    },
+    {
+      "ID": "HugeSnail",
+      "SetID": "9kk0gal",
+      "Name": "Huge Snail",
+      "Percentage": 15,
+      "XP": 30
+    },
+    {
+      "ID": "Mirror",
+      "SetID": "9kk0gal",
+      "Name": "Egghead Lucy",
+      "Percentage": 75,
+      "XP": 30
+    },
+    {
+      "ID": "Offroad",
+      "SetID": "9kk0gal",
+      "Name": "Flower of hope",
+      "Percentage": 14,
+      "XP": 40
+    },
+    {
+      "ID": "Puppy",
+      "SetID": "9kk0gal",
+      "Name": "Puppy",
+      "Percentage": 61,
+      "XP": 30
+    },
+    {
+      "ID": "SchoolRuler",
+      "SetID": "9kk0gal",
+      "Name": "Big metal ruler",
+      "Percentage": 42,
+      "XP": 30
+    },
+    {
+      "ID": "Secret",
+      "SetID": "9kk0gal",
+      "Name": "Old kettle",
+      "Percentage": 9,
+      "XP": 40
+    },
+    {
+      "ID": "Spyglass",
+      "SetID": "9kk0gal",
+      "Name": "Spyglass",
+      "Percentage": 83,
+      "XP": 30
+    },
+    {
+      "ID": "Toy",
+      "SetID": "9kk0gal",
+      "Name": "Broken toy",
+      "Percentage": 77,
+      "XP": 30
+    },
+    {
+      "ID": "Trinket",
+      "SetID": "9kk0gal",
+      "Name": "Lucky charm",
+      "Percentage": 91,
+      "XP": 30
+    },
+    {
+      "ID": "Trumpet",
+      "SetID": "9kk0gal",
+      "Name": "Trumpet",
+      "Percentage": 89,
+      "XP": 30
+    },
+    {
+      "ID": "Well",
+      "SetID": "9kk0gal",
+      "Name": "Depths of the well",
+      "Percentage": 22,
+      "XP": 30
+    },
+    {
+      "ID": "Windmill",
+      "SetID": "9kk0gal",
+      "Name": "Windmill",
+      "Percentage": 36,
+      "XP": 30
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +206,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 26,
+  "LastChanged_Achievements": "2023-05-04T19:19:55.7494044+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 143,
-  "LastUpdate_Achievements": "2023-05-04T19:05:04.8087067+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:29.4962177+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:04.8087037+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:55.7494234+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:26.4587246+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9kk0gal",
+      "IsBase": true,
+      "Progressed": 143,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
+  "FirstSeen": "2023-01-11T22:57:22.4743186+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 237,
-  "FirstSeen": "2023-01-11T22:57:22.4743186+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00"
 }

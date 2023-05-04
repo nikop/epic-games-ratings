@@ -1,6 +1,7 @@
 {
   "ID": "f830aef7a6b64e5db95147859536d0b4",
   "Name": "Strayed Lights",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:20:20.6717248+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:29.6356597+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:53.571528+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:29.6356582+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:20.6717301+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:50.200007+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7d42fd",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-28T02:01:57.5680413+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:54:04.1867001+00:00",
   "FirstSeenRating": "2023-04-28T02:01:57.5680412+00:00",
+  "FirstSeen": "2023-04-28T02:01:57.5680367+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-28T02:01:57.5680367+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:54:04.1867001+00:00"
 }

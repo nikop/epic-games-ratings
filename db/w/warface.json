@@ -1,6 +1,7 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -2604,14 +2605,18 @@
       "NumberOfAwardsMax": 386
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:43.0338132+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:13.5573808+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:11.778163+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T21:59:15.0318674+00:00",
+  "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 386,
   "NumberOfAwards": 2715,
@@ -2623,6 +2628,5 @@
   "Ranking_PopularitySum": 160,
   "Ranking_Popularity": 203,
   "Ranking_Rating": 891,
-  "Rating": 3.92,
-  "FirstSeen": "2022-07-22T20:31:34.3823284+00:00"
+  "Rating": 3.92
 }

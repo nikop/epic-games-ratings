@@ -1,6 +1,7 @@
 {
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [
     {
@@ -84,16 +85,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.74,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:03:14.4788611+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 272,
   "LastUpdate_Achievements": "2023-05-04T19:03:14.4788633+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:21.1667057+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:14.4788611+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:20.4463921+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0.74,
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
+  "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 28,
@@ -105,5 +109,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 574,
   "Rating": 4.47,
-  "FirstSeen": "2022-07-22T20:22:17.7619928+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00"
 }

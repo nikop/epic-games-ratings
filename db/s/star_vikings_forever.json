@@ -1,6 +1,7 @@
 {
   "ID": "c237dc4307b74e4e865d7f79e7ba4c78",
   "Name": "Star Vikings Forever",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:16.1643282+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:12.9309896+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:11.8285424+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:28.4422657+00:00",
   "FirstSeenRating": "2023-03-31T05:58:28.4422655+00:00",
+  "FirstSeen": "2022-11-05T15:32:17.5669827+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-11-05T15:32:17.5669827+00:00"
+  "Ranking_EOS_Progress": 378
 }

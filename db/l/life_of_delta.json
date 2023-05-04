@@ -1,6 +1,7 @@
 {
   "ID": "4c509e1dc0584230b9c88d9d13059c63",
   "Name": "Life of Delta",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:38.7638267+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:45.690614+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:14.0169667+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:45.6906121+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:38.7638314+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:12.5611198+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5fbgm16",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:02.0368302+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:54.0087626+00:00",
   "FirstSeenRating": "2023-03-31T05:57:02.0368301+00:00",
+  "FirstSeen": "2023-03-14T10:58:44.0980292+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-03-14T10:58:44.0980292+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:54.0087626+00:00"
 }

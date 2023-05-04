@@ -1,6 +1,141 @@
 {
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
+  "Achievements": [
+    {
+      "ID": "achievement_00",
+      "SetID": "7881h0d",
+      "Name": "Sacrifice",
+      "Percentage": 3,
+      "XP": 200
+    },
+    {
+      "ID": "achievement_01",
+      "SetID": "7881h0d",
+      "Name": "Redemption",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "achievement_02",
+      "SetID": "7881h0d",
+      "Name": "Ritual",
+      "Percentage": 9,
+      "XP": 100
+    },
+    {
+      "ID": "achievement_03",
+      "SetID": "7881h0d",
+      "Name": "Cowardice",
+      "Percentage": 9,
+      "XP": 100
+    },
+    {
+      "ID": "achievement_04",
+      "SetID": "7881h0d",
+      "Name": "The moth and the flame",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "achievement_05",
+      "SetID": "7881h0d",
+      "Name": "Bloodrush",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "achievement_06",
+      "SetID": "7881h0d",
+      "Name": "Moon Cloudiness Sonata by Danloop",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "achievement_07",
+      "SetID": "7881h0d",
+      "Name": "True magic doesn\u0027t exist",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "achievement_08",
+      "SetID": "7881h0d",
+      "Name": "There is freedom in awakening",
+      "Percentage": 12,
+      "XP": 50
+    },
+    {
+      "ID": "achievement_09",
+      "SetID": "7881h0d",
+      "Name": "Grau Hill",
+      "Percentage": 75,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "7881h0d",
+      "Name": "The creature",
+      "Percentage": 79,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "7881h0d",
+      "Name": "A forgotten language",
+      "Percentage": 69,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "7881h0d",
+      "Name": "Lord Wesley",
+      "Percentage": 36,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "7881h0d",
+      "Name": "One step down",
+      "Percentage": 29,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "7881h0d",
+      "Name": "Lord Clayton",
+      "Percentage": 23,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "7881h0d",
+      "Name": "My dear Magda",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "7881h0d",
+      "Name": "The other side of the mirror",
+      "Percentage": 16,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "7881h0d",
+      "Name": "Little Mary",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "7881h0d",
+      "Name": "Lamentum",
+      "Percentage": 3,
+      "XP": 200
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -49,17 +184,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 3.02,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 19,
+  "LastChanged_Achievements": "2023-05-04T19:15:00.7598974+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 8,
   "EOS_Progressed": 265,
-  "LastUpdate_Achievements": "2023-05-04T19:00:01.9037248+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:27.3018671+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:01.9037177+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:00.7599212+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:26.8380529+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7881h0d",
+      "IsBase": true,
+      "Progressed": 265,
+      "Completed": 8
+    }
+  ],
+  "EOS_Completed_Percentage": 3.02,
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
+  "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -70,5 +215,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 695,
   "Rating": 4.37,
-  "FirstSeen": "2022-07-22T20:26:03.7136517+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00"
 }

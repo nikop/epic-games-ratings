@@ -1,6 +1,113 @@
 {
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "1dkhij4",
+      "Name": "First Step",
+      "Percentage": 47,
+      "XP": 45
+    },
+    {
+      "ID": "10",
+      "SetID": "1dkhij4",
+      "Name": "Robot\u00A0lives\u00A0matter\u00A0too",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "11",
+      "SetID": "1dkhij4",
+      "Name": "Telepathic",
+      "Percentage": 12,
+      "XP": 70
+    },
+    {
+      "ID": "12",
+      "SetID": "1dkhij4",
+      "Name": "Trend\u00A0hunters",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "13",
+      "SetID": "1dkhij4",
+      "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "14",
+      "SetID": "1dkhij4",
+      "Name": "Master\u00A0biped",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "15",
+      "SetID": "1dkhij4",
+      "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
+      "Percentage": 0.1,
+      "XP": 110
+    },
+    {
+      "ID": "2",
+      "SetID": "1dkhij4",
+      "Name": "Dense Forest",
+      "Percentage": 39,
+      "XP": 50
+    },
+    {
+      "ID": "3",
+      "SetID": "1dkhij4",
+      "Name": "Cactus Vally",
+      "Percentage": 29,
+      "XP": 50
+    },
+    {
+      "ID": "4",
+      "SetID": "1dkhij4",
+      "Name": "Rainy Ruins",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "5",
+      "SetID": "1dkhij4",
+      "Name": "Snowy Peak",
+      "Percentage": 11,
+      "XP": 50
+    },
+    {
+      "ID": "6",
+      "SetID": "1dkhij4",
+      "Name": "High Treetops",
+      "Percentage": 9,
+      "XP": 50
+    },
+    {
+      "ID": "7",
+      "SetID": "1dkhij4",
+      "Name": "Blue Rapids",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "8",
+      "SetID": "1dkhij4",
+      "Name": "Sunset Ridge",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "9",
+      "SetID": "1dkhij4",
+      "Name": "Speed\u00A0walkers",
+      "Percentage": 10,
+      "XP": 65
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -727,22 +834,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:17:11.1416709+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 275,
   "EOS_Completed": 0,
   "EOS_Progressed": 1004,
-  "LastUpdate_Achievements": "2023-05-04T19:00:33.2993336+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:42.92955+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:33.2993276+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:11.141689+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:42.0724045+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1dkhij4",
+      "IsBase": true,
+      "Progressed": 1004,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
+  "FirstSeen": "2023-04-22T05:57:51.3460102+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 160,
-  "FirstSeen": "2023-04-22T05:57:51.3460102+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00"
 }

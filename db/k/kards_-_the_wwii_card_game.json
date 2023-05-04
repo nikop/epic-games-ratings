@@ -1,6 +1,7 @@
 {
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1663,14 +1664,18 @@
       "NumberOfAwardsMax": 542
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:11.4039841+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:05.7730949+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:04.4024462+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T10:58:22.9022438+00:00",
+  "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 542,
   "NumberOfAwards": 3625,
@@ -1682,6 +1687,5 @@
   "Ranking_PopularitySum": 137,
   "Ranking_Popularity": 175,
   "Ranking_Rating": 679,
-  "Rating": 4.39,
-  "FirstSeen": "2022-07-22T20:20:27.7135917+00:00"
+  "Rating": 4.39
 }

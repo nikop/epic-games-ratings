@@ -1,6 +1,232 @@
 {
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
+  "Achievements": [
+    {
+      "ID": "Adventurer",
+      "SetID": "2aagp3d",
+      "Name": "Extensive retelling",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "BadApple",
+      "SetID": "2aagp3d",
+      "Name": "Bad apple",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ChaoticNeutral",
+      "SetID": "2aagp3d",
+      "Name": "Mushrooming enthusiast",
+      "Percentage": 0.3,
+      "XP": 30
+    },
+    {
+      "ID": "CompleteSmile",
+      "SetID": "2aagp3d",
+      "Name": "Dental maturity",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "DevilDetail",
+      "SetID": "2aagp3d",
+      "Name": "Devil\u0027s in the details",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "Devoted",
+      "SetID": "2aagp3d",
+      "Name": "Loremaster",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "Extremist",
+      "SetID": "2aagp3d",
+      "Name": "Devoted",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "EyeSpy",
+      "SetID": "2aagp3d",
+      "Name": "Sneak peek",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "Favourite",
+      "SetID": "2aagp3d",
+      "Name": "Favorite",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "FisherKing",
+      "SetID": "2aagp3d",
+      "Name": "Fishing fanatic",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "Goal",
+      "SetID": "2aagp3d",
+      "Name": "Goal!",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "GoldRush",
+      "SetID": "2aagp3d",
+      "Name": "Gold rush",
+      "Percentage": 6,
+      "XP": 35
+    },
+    {
+      "ID": "GossipGirl",
+      "SetID": "2aagp3d",
+      "Name": "The word around is...",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "HeadOnHerShoulders",
+      "SetID": "2aagp3d",
+      "Name": "Gnowlledgeable",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "HexMaster",
+      "SetID": "2aagp3d",
+      "Name": "Spirit animal",
+      "Percentage": 7,
+      "XP": 35
+    },
+    {
+      "ID": "LiarLiar",
+      "SetID": "2aagp3d",
+      "Name": "Liar Liar",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "LittleHelper",
+      "SetID": "2aagp3d",
+      "Name": "A friend in need...",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "LostAndFound",
+      "SetID": "2aagp3d",
+      "Name": "Both sides",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "MuhsroomTruth",
+      "SetID": "2aagp3d",
+      "Name": "The cycle acknowledged",
+      "Percentage": 4,
+      "XP": 35
+    },
+    {
+      "ID": "NoMoreWards",
+      "SetID": "2aagp3d",
+      "Name": "Awards unwarded",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "Queen",
+      "SetID": "2aagp3d",
+      "Name": "Queen",
+      "Percentage": 3,
+      "XP": 35
+    },
+    {
+      "ID": "Rats",
+      "SetID": "2aagp3d",
+      "Name": "Apex predator",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SlavicSquatter",
+      "SetID": "2aagp3d",
+      "Name": "Slavic squatter",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "Specialist",
+      "SetID": "2aagp3d",
+      "Name": "Specialist",
+      "Percentage": 4,
+      "XP": 35
+    },
+    {
+      "ID": "SpringCleaning",
+      "SetID": "2aagp3d",
+      "Name": "Uprooting",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "TheGuardian",
+      "SetID": "2aagp3d",
+      "Name": "Baba Yaga",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "ToadCharming",
+      "SetID": "2aagp3d",
+      "Name": "Always worth a try",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "ToothFairy",
+      "SetID": "2aagp3d",
+      "Name": "Tooth fairy",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "Toxic",
+      "SetID": "2aagp3d",
+      "Name": "Toxic",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "Webbed",
+      "SetID": "2aagp3d",
+      "Name": "Entangled",
+      "Percentage": 1,
+      "XP": 35
+    },
+    {
+      "ID": "YagaHood",
+      "SetID": "2aagp3d",
+      "Name": "Forbidden techniques",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "YagaProfessional",
+      "SetID": "2aagp3d",
+      "Name": "Witch\u0027s cookbook",
+      "Percentage": 3,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -151,17 +377,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 32,
+  "LastChanged_Achievements": "2023-05-04T19:18:31.8584125+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 19,
   "EOS_Completed": 0,
   "EOS_Progressed": 314,
-  "LastUpdate_Achievements": "2023-05-04T19:03:38.2341492+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:35.7015961+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:38.2341464+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:31.8584365+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:34.676073+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2aagp3d",
+      "IsBase": true,
+      "Progressed": 314,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
+  "FirstSeen": "2022-12-15T13:13:21.730409+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -172,5 +408,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 255,
   "Rating": 4.67,
-  "FirstSeen": "2022-12-15T13:13:21.730409+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00"
 }

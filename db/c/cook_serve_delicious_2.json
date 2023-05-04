@@ -1,6 +1,7 @@
 {
   "ID": "17651e1bc15847ca83389e8e5d931183",
   "Name": "Cook Serve Delicious 2",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -31,15 +32,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:21.6270462+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:28.857128+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:27.0151608+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:21.2539895+00:00",
   "FirstSeenRating": "2022-10-07T16:02:05.979071+00:00",
+  "FirstSeen": "2022-07-23T00:05:30.786501+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -49,6 +54,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 59,
-  "Rating": 4.82,
-  "FirstSeen": "2022-07-23T00:05:30.786501+00:00"
+  "Rating": 4.82
 }

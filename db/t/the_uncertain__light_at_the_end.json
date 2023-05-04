@@ -1,6 +1,211 @@
 {
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
+  "Achievements": [
+    {
+      "ID": "80lvl_Gamer",
+      "SetID": "ek310c",
+      "Name": "Hardcore Gamer",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "Agent_47",
+      "SetID": "ek310c",
+      "Name": "Identity Theft",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "Butterfly",
+      "SetID": "ek310c",
+      "Name": "The Butterfly Effect",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "Caring_Soul",
+      "SetID": "ek310c",
+      "Name": "Bosom Buddies",
+      "Percentage": 31,
+      "XP": 15
+    },
+    {
+      "ID": "Doors_Closing",
+      "SetID": "ek310c",
+      "Name": "Mind the Gap",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "Echoes",
+      "SetID": "ek310c",
+      "Name": "Echoes of the Past",
+      "Percentage": 2,
+      "XP": 115
+    },
+    {
+      "ID": "Enjoyable_Read",
+      "SetID": "ek310c",
+      "Name": "Between the Covers",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "Gamer",
+      "SetID": "ek310c",
+      "Name": "Casual Gamer",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "Graffiti_Artist",
+      "SetID": "ek310c",
+      "Name": "Urban Scrawl",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "Hacker",
+      "SetID": "ek310c",
+      "Name": "Everything Must Go!",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "Headshot",
+      "SetID": "ek310c",
+      "Name": "U Mad Bro?",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "Healthy_Child",
+      "SetID": "ek310c",
+      "Name": "Bundle of Joy",
+      "Percentage": 50,
+      "XP": 20
+    },
+    {
+      "ID": "Hitman",
+      "SetID": "ek310c",
+      "Name": "Short Circuit",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "Illustrator",
+      "SetID": "ek310c",
+      "Name": "F is for Feline",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "Investigative",
+      "SetID": "ek310c",
+      "Name": "Marvellous Toys",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "Left_Behind",
+      "SetID": "ek310c",
+      "Name": "A Friend in Need...",
+      "Percentage": 46,
+      "XP": 15
+    },
+    {
+      "ID": "Leisurely_Strol",
+      "SetID": "ek310c",
+      "Name": "A Trip to Remember",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "MISSING_DATA",
+      "SetID": "ek310c",
+      "Name": "Does Not Compute",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "Misanthrope",
+      "SetID": "ek310c",
+      "Name": "Antisocial Club",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "Missing_Shot",
+      "SetID": "ek310c",
+      "Name": "You Had One Job...",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "Neighbor",
+      "SetID": "ek310c",
+      "Name": "Den Mother",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "Ninja",
+      "SetID": "ek310c",
+      "Name": "A Stealthy Outlook",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "Old_Friend",
+      "SetID": "ek310c",
+      "Name": "A Familiar Face",
+      "Percentage": 17,
+      "XP": 30
+    },
+    {
+      "ID": "Paparazzi",
+      "SetID": "ek310c",
+      "Name": "Paparazzi",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "Park",
+      "SetID": "ek310c",
+      "Name": "Catch You Later",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "Party",
+      "SetID": "ek310c",
+      "Name": "Life of the Party",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "Smart cookie",
+      "SetID": "ek310c",
+      "Name": "Smart cookie",
+      "Percentage": 4,
+      "XP": 150
+    },
+    {
+      "ID": "Strike",
+      "SetID": "ek310c",
+      "Name": "Beat the Heat",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "Unforeseen_Consequences",
+      "SetID": "ek310c",
+      "Name": "Unexpected Consequences",
+      "Percentage": 14,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -80,17 +285,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.23,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 29,
+  "LastChanged_Achievements": "2023-05-04T19:20:21.1944683+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 5,
   "EOS_Progressed": 406,
-  "LastUpdate_Achievements": "2023-05-04T19:05:30.2097101+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:51.6533126+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:30.2097067+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:21.1944896+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:48.4737468+00:00",
+  "AchievementSets": [
+    {
+      "ID": "ek310c",
+      "IsBase": true,
+      "Progressed": 406,
+      "Completed": 5
+    }
+  ],
+  "EOS_Completed_Percentage": 1.23,
   "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
+  "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -101,5 +316,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 897,
   "Rating": 3.88,
-  "FirstSeen": "2022-07-22T20:32:49.9129709+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00"
 }

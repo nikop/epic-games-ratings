@@ -1,10 +1,85 @@
 # Good Company
 Rating: 4.43 (Ranked 633)  
 Number of Ratings: 75  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Level: Returning Home | 50.00 |
+| Returning Home: Quick Learner | 25.00 |
+| Level: Charlie's Circuits | 22.00 |
+| Level: Rising Markets | 9.00 |
+| Peddler | 9.00 |
+| Level: Extra Life | 7.00 |
+| Rising Markets: Avoiding the Reds | 7.00 |
+| Data Churn Type I | 7.00 |
+| Millionaire | 6.00 |
+| Extra Life: Wish Granted | 5.00 |
+| Data Churn Type II | 5.00 |
+| Speedy | 5.00 |
+| High Five! | 4.00 |
+| Modular Progress | 4.00 |
+| Salesperson | 4.00 |
+| Campaign: Lesson Learned | 3.00 |
+| Level: Bet On Bots | 3.00 |
+| Modular Performance | 3.00 |
+| Level: Merry-Go-Around | 2.00 |
+| Charlies's Circuits: Artist | 2.00 |
+| Modular Peak | 2.00 |
+| Accountant | 2.00 |
+| Data Churn Type III | 2.00 |
+| Multi-Millionaire | 2.00 |
+| Contender | 2.00 |
+| Trophy Collector | 2.00 |
+| Module Maniac | 2.00 |
+| Overproducer | 2.00 |
+| Natural Talent | 2.00 |
+| Level: A Happy Taskforce | 1.00 |
+| Level: Topple The Top | 1.00 |
+| Level: The Machinery | 1.00 |
+| Extra Life: Knowledge Cap | 1.00 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00 |
+| Entrepreneur | 1.00 |
+| Data Churn Type IV | 1.00 |
+| Keen Eye | 1.00 |
+| Tycoon | 0.90 |
+| Bet On Bots: Safety First | 0.80 |
+| Merry-Go-Around: Self-Made | 0.70 |
+| Trendsetter | 0.70 |
+| Level: Eye In The Sky | 0.60 |
+| Bet On Bots: Inspector's Favorite | 0.60 |
+| Level: Heating-Up | 0.50 |
+| CEO | 0.50 |
+| Campaign: Man vs. Machine | 0.40 |
+| Rockstar | 0.40 |
+| A Happy Taskforce: Interior Designer | 0.30 |
+| The Machinery: Goal Orientated | 0.30 |
+| The Machinery: Energy Saver | 0.30 |
+| Super Rich | 0.30 |
+| Fully Packed | 0.30 |
+| Champion | 0.20 |
+| Trophy Hoarder | 0.20 |
+| Happy Hour | 0.20 |
+| Achiever | 0.20 |
+| Grand Master | 0.10 |
+| Trophy Enthusiast | 0.10 |
+| Campaign: In Hot Waters | 0.10 |
+| Level: Mayor Trouble | 0.10 |
+| A Happy Taskforce: Overtime | 0.10 |
+| Topple The Top: Outperformed | 0.10 |
+| Eye In The Sky: Paranoid | 0.10 |
+| Heating-Up: Triple Ace | 0.10 |
+| Mayor Trouble: Overwhelmed | 0.10 |
+| Rising Markets: Designer | 0.10 |
+| Rocketspeed Science: Top Level Scientist | 0.10 |
+| Pocket Conquest: Top Notch | 0.10 |
+| Welfare Survival: Extra Workforce | 0.10 |
+| Money Rush: One Loan | 0.10 |
+| Across the (circuit)board | 0.10 |
+| Efficient | 0.10 |
+| Lucky | 0.10 |
+| Reliable | 0.10 |
+| Know-it-all | 0.10 |
+| Prestigious | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,703 (Ranked 123)  
 Completed: 1 (0.02%) (Ranked 175)  
@@ -21,9 +96,6 @@ Completed: 1 (0.02%) (Ranked 175)
 | 2023-05-02 | 4,698 | 1 |
 | 2023-05-03 | 4,699 | 1 |
 | 2023-05-04 | 4,703 | 1 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

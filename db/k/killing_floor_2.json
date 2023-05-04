@@ -1,6 +1,7 @@
 {
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -4353,14 +4354,18 @@
       "NumberOfAwardsMax": 11870
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:12.5024393+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:40.9411004+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:37.767324+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:59:40.9410998+00:00",
+  "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 11870,
   "NumberOfAwards": 25655,
@@ -4372,6 +4377,5 @@
   "Ranking_PopularitySum": 46,
   "Ranking_Popularity": 28,
   "Ranking_Rating": 641,
-  "Rating": 4.42,
-  "FirstSeen": "2022-07-22T20:16:46.1518671+00:00"
+  "Rating": 4.42
 }

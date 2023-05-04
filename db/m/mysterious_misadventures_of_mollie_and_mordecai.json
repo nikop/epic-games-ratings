@@ -1,6 +1,7 @@
 {
   "ID": "ba6f11e0cb5a4e56a7d62e3a6871df1f",
   "Name": "Mysterious Misadventures of Mollie and Mordecai",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:50.705364+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:18.8013325+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:17.2044329+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:30.7272839+00:00",
   "FirstSeenRating": "2023-03-31T05:57:30.7272838+00:00",
+  "FirstSeen": "2022-11-17T17:57:39.871776+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-11-17T17:57:39.871776+00:00"
+  "Ranking_EOS_Progress": 378
 }

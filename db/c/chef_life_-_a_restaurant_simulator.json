@@ -1,6 +1,288 @@
 {
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
+  "Achievements": [
+    {
+      "ID": "3StaffsDishesMenu",
+      "SetID": "d1bm05f",
+      "Name": "Teamwork",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "5CheeseDishesMenu",
+      "SetID": "d1bm05f",
+      "Name": "Say Cheese!",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "5CustomDishesMenus",
+      "SetID": "d1bm05f",
+      "Name": "Culinary Arts",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "5OvenDishesMenu",
+      "SetID": "d1bm05f",
+      "Name": "Baking Up a Storm",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "5PastaDishesMenu",
+      "SetID": "d1bm05f",
+      "Name": "Stella d\u2019Italia",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "5SquidDishesMenu",
+      "SetID": "d1bm05f",
+      "Name": "Course of Cthulhu",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "BistroSet",
+      "SetID": "d1bm05f",
+      "Name": "French Flair",
+      "Percentage": 42,
+      "XP": 20
+    },
+    {
+      "ID": "CleanRestaurantDays10",
+      "SetID": "d1bm05f",
+      "Name": "So Clean You Can Eat Off the Floor",
+      "Percentage": 52,
+      "XP": 20
+    },
+    {
+      "ID": "Clothes10",
+      "SetID": "d1bm05f",
+      "Name": "Kitchen Model",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "CustomDressing20",
+      "SetID": "d1bm05f",
+      "Name": "Perfectionist",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "DilemasResponsibility10",
+      "SetID": "d1bm05f",
+      "Name": "Eco Warrior",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "FirstArrabbiataPasta",
+      "SetID": "d1bm05f",
+      "Name": "Codename: Arrabbiata",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "FirstBlazedDish",
+      "SetID": "d1bm05f",
+      "Name": "Pyrotechnician",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "FirstBrioche",
+      "SetID": "d1bm05f",
+      "Name": "Sweet Roll",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "GalvanizedStaff3Days10",
+      "SetID": "d1bm05f",
+      "Name": "Chef, Yes Chef!",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "JovialChefBetsWon3",
+      "SetID": "d1bm05f",
+      "Name": "Rise to the Challenge",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "LayoutBig",
+      "SetID": "d1bm05f",
+      "Name": "The Bigger the Better",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Level10",
+      "SetID": "d1bm05f",
+      "Name": "Sous-Chef",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "Level20",
+      "SetID": "d1bm05f",
+      "Name": "Master Chef",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Level30",
+      "SetID": "d1bm05f",
+      "Name": "Culinary Legend",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "MenuGastronomic",
+      "SetID": "d1bm05f",
+      "Name": "Haute Cuisine",
+      "Percentage": 24,
+      "XP": 40
+    },
+    {
+      "ID": "Money10000",
+      "SetID": "d1bm05f",
+      "Name": "Rolling in Dough",
+      "Percentage": 9,
+      "XP": 40
+    },
+    {
+      "ID": "OpenRestaurant",
+      "SetID": "d1bm05f",
+      "Name": "The Big Day",
+      "Percentage": 85,
+      "XP": 15
+    },
+    {
+      "ID": "Packing20",
+      "SetID": "d1bm05f",
+      "Name": "Next Level Cuisine",
+      "Percentage": 30,
+      "XP": 15
+    },
+    {
+      "ID": "PerfectGrade25",
+      "SetID": "d1bm05f",
+      "Name": "Satisfaction Guaranteed",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "RecipeDifferent10",
+      "SetID": "d1bm05f",
+      "Name": "Home Cook",
+      "Percentage": 67,
+      "XP": 15
+    },
+    {
+      "ID": "RecipeDifferent30",
+      "SetID": "d1bm05f",
+      "Name": "Experienced in the Kitchen",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "RecipeDifferent60",
+      "SetID": "d1bm05f",
+      "Name": "Seasoned Chef",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "SDishes50",
+      "SetID": "d1bm05f",
+      "Name": "S is for Scrumptious",
+      "Percentage": 27,
+      "XP": 40
+    },
+    {
+      "ID": "ServiceMaxClient",
+      "SetID": "d1bm05f",
+      "Name": "The More the Merrier",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "SoleCapreseSteakGastronomicLevel",
+      "SetID": "d1bm05f",
+      "Name": "Reinventing the Meal",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "StaffMember3",
+      "SetID": "d1bm05f",
+      "Name": "Dream Team",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "StaffMemberSpecialityDishes10",
+      "SetID": "d1bm05f",
+      "Name": "You\u0027re the Expert!",
+      "Percentage": 55,
+      "XP": 20
+    },
+    {
+      "ID": "TrattoriaSet",
+      "SetID": "d1bm05f",
+      "Name": "Italian Style",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "UnlockAssiette",
+      "SetID": "d1bm05f",
+      "Name": "Rising Star",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "UnlockBib",
+      "SetID": "d1bm05f",
+      "Name": "Foodie Favorite",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "UnlockEtoile",
+      "SetID": "d1bm05f",
+      "Name": "A Star is Born",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "VerticalCustomDressing",
+      "SetID": "d1bm05f",
+      "Name": "Leaning Tower of Pizza",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WholeBeefDishesMenu",
+      "SetID": "d1bm05f",
+      "Name": "Holy Cow!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WorkStation10",
+      "SetID": "d1bm05f",
+      "Name": "Well-Stocked Kitchen",
+      "Percentage": 18,
+      "XP": 30
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -102,22 +384,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 40,
+  "LastChanged_Achievements": "2023-05-04T19:18:34.4433849+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
   "EOS_Progressed": 33,
-  "LastUpdate_Achievements": "2023-05-04T19:03:40.9582981+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:02.8047669+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:40.9582949+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:34.4434147+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:01.7299738+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d1bm05f",
+      "IsBase": true,
+      "Progressed": 33,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
+  "FirstSeen": "2023-02-23T19:57:35.9957332+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 282,
-  "FirstSeen": "2023-02-23T19:57:35.9957332+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00"
 }

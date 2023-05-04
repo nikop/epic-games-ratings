@@ -1,6 +1,7 @@
 {
   "ID": "73dc1fbd99ac40b0914b317dcbeae85f",
   "Name": "Blood Bowl 3\t",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -17,15 +18,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:06.2310828+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:08.7554167+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:07.2282353+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T20:57:14.0654534+00:00",
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
+  "FirstSeen": "2023-02-23T17:57:00.609773+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -35,6 +40,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 913,
-  "Rating": 3.45,
-  "FirstSeen": "2023-02-23T17:57:00.609773+00:00"
+  "Rating": 3.45
 }

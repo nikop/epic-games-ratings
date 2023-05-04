@@ -4,7 +4,10 @@ Number of Ratings: 3,300  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 202  (Ranked 255)  
 Sum: 1,017 (Ranked 227)  
-Diff (max vs sum): 28
+Diff (max vs sum): 28  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -4,9 +4,42 @@ Number of Ratings: 756  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 172  (Ranked 270)  
 Sum: 1,483 (Ranked 208)  
-Diff (max vs sum): 62
+Diff (max vs sum): 62  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Ball Launched | 81.00 |
+| I know the Rules | 45.00 |
+| Contender | 12.00 |
+| I Found it! | 6.00 |
+| Dress Code | 4.00 |
+| First but not Last | 3.00 |
+| Ready Steady Score | 2.00 |
+| Full Loot Madness | 2.00 |
+| Nine Zeroes | 0.90 |
+| My Table, my Rules | 0.70 |
+| Shiny Memento | 0.30 |
+| Pinball Hoarder | 0.30 |
+| Interior Designer | 0.30 |
+| Table Mastered, part 10 | 0.10 |
+| Medal Hunter | 0.10 |
+| Medal Wizard | 0.10 |
+| Virtual Pinball Museum | 0.10 |
+| Challenge Accepted! | 0.10 |
+| Relic Hunter | 0.10 |
+| Show Them | 0.10 |
+| Totally Furnished | 0.10 |
+| Customizer | 0.10 |
+| Feel the Power | 0.00 |
+| Funko Town | 0.00 |
+| Master of Attacks | 0.00 |
+| Star Player | 0.00 |
+| Royale Family | 0.00 |
+| Mythic Toy | 0.00 |
+| Fully Involved | 0.00 |
+| Collect Them All | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,291 (Ranked 46)  
+Progressed: 211,296 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 210,505 | 0 |
 | 2023-05-02 | 210,792 | 0 |
 | 2023-05-03 | 211,060 | 0 |
-| 2023-05-04 | 211,291 | 0 |
+| 2023-05-04 | 211,296 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,6 +1,7 @@
 {
   "ID": "49c5a3d5dcac460697d234ed2bf63dc5",
   "Name": "Out of the Park Baseball 22",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -40,14 +41,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:46.2415303+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:14.9991839+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:13.5256185+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:39.971577+00:00",
+  "FirstSeen": "2022-07-22T20:23:16.2999392+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 26,
@@ -58,6 +63,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 651,
-  "Rating": 4.41,
-  "FirstSeen": "2022-07-22T20:23:16.2999392+00:00"
+  "Rating": 4.41
 }

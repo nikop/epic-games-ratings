@@ -1,9 +1,22 @@
 # Bosorka
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Path of purity | 79.00 |
+| A good start | 53.00 |
+| Runes collector | 52.00 |
+| First time, yes? | 52.00 |
+| Witch's duty | 52.00 |
+| Kind heart | 47.00 |
+| Skilled rider | 44.00 |
+| Devil's dozen | 24.00 |
+| It doesn't work like that | 19.00 |
+| A small victory | 16.00 |
+| This is just the beginning... | 13.00 |
+| Time is on my side | 10.00 |
+| Unstoppable Curiosity | 10.00 |
+| Gold Digger | 6.00 |
+| Secret at the bottom | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -18,9 +31,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 60 | 0 |
 | 2023-05-02 | 61 | 0 |
 | 2023-05-04 | 62 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

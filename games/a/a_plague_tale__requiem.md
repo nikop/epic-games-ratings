@@ -3,7 +3,45 @@ Rating: 4.74 (Ranked 142)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 398  (Ranked 198)  
 Sum: 554 (Ranked 285)  
-Diff (max vs sum): -87
+Diff (max vs sum): -87  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Under a New Sun | 93.00 |
+| Newcomers | 78.00 |
+| A Burden of Blood | 73.00 |
+| Protector's Duty | 70.00 |
+| Alchemist | 68.00 |
+| In our Wake | 67.00 |
+| Leaving all Behind | 64.00 |
+| Felons | 61.00 |
+| A Sea of Promises | 59.00 |
+| Tales and Revelations | 56.00 |
+| Bloodline | 51.00 |
+| The Cradle of Centuries | 47.00 |
+| The Life We Deserve | 45.00 |
+| Night guard | 43.00 |
+| Nothing Left | 38.00 |
+| Healing our Wounds | 36.00 |
+| Dying Sun | 32.00 |
+| Improved crossbow | 26.00 |
+| King Hugo | 23.00 |
+| Mercy | 23.00 |
+| Perfect shot | 22.00 |
+| Effective instruments | 21.00 |
+| Perfect throw | 21.00 |
+| Knights! | 19.00 |
+| Handful of pockets | 13.00 |
+| Not a toy anymore | 11.00 |
+| Pocket laboratory | 11.00 |
+| Herbalist | 7.00 |
+| Fighter | 7.00 |
+| Ornithologist | 5.00 |
+| Sneaky | 4.00 |
+| Immortal memories | 3.00 |
+| Old protector | 2.00 |
+| Explorer | 1.00 |
+| Malignant | 1.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,181 (Ranked 104)  
 Completed: 30 (0.29%) (Ranked 119)  

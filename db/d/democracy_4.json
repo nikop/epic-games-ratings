@@ -1,6 +1,7 @@
 {
   "ID": "74b602736d704ed2a5915c31319d99f6",
   "Name": "Democracy 4",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -191,14 +192,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:43.0599258+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:12.5314516+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:10.9445679+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T22:58:05.0612877+00:00",
+  "FirstSeen": "2022-07-22T20:25:46.6765497+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 46,
@@ -209,6 +214,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 695,
-  "Rating": 4.37,
-  "FirstSeen": "2022-07-22T20:25:46.6765497+00:00"
+  "Rating": 4.37
 }

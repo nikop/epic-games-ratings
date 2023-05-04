@@ -1,6 +1,477 @@
 {
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
+  "Achievements": [
+    {
+      "ID": "ID_ACHIEV_01",
+      "SetID": "98bke8c",
+      "Name": "P.A.X",
+      "Percentage": 37,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_02",
+      "SetID": "98bke8c",
+      "Name": "Firebug",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_03",
+      "SetID": "98bke8c",
+      "Name": "Big Sister",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_04",
+      "SetID": "98bke8c",
+      "Name": "The Black Cerberus",
+      "Percentage": 12,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_05",
+      "SetID": "98bke8c",
+      "Name": "Brave New World",
+      "Percentage": 0.5,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_06",
+      "SetID": "98bke8c",
+      "Name": "For the Good of Mankind",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_07",
+      "SetID": "98bke8c",
+      "Name": "I\u0027ll Be Back",
+      "Percentage": 84,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_08",
+      "SetID": "98bke8c",
+      "Name": "On My Own Two Feet",
+      "Percentage": 94,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_09",
+      "SetID": "98bke8c",
+      "Name": "Sorry, I Dropped This",
+      "Percentage": 77,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_10",
+      "SetID": "98bke8c",
+      "Name": "Hey Listen",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_11",
+      "SetID": "98bke8c",
+      "Name": "CREO Killed the Video Star",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_12",
+      "SetID": "98bke8c",
+      "Name": "Gear Up",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_13",
+      "SetID": "98bke8c",
+      "Name": "Watchman",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_14",
+      "SetID": "98bke8c",
+      "Name": "Who\u0027s in Charge Here?",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_15",
+      "SetID": "98bke8c",
+      "Name": "Turing Test",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_16",
+      "SetID": "98bke8c",
+      "Name": "It Lives! It Sniffs! It Conquers!",
+      "Percentage": 5,
+      "XP": 45
+    },
+    {
+      "ID": "ID_ACHIEV_17",
+      "SetID": "98bke8c",
+      "Name": "Sunglasses at Night",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_18",
+      "SetID": "98bke8c",
+      "Name": "Pusher Man",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_19",
+      "SetID": "98bke8c",
+      "Name": "Melting Down",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_20",
+      "SetID": "98bke8c",
+      "Name": "Repeat Customer",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_21",
+      "SetID": "98bke8c",
+      "Name": "Shall Not Pass",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_22",
+      "SetID": "98bke8c",
+      "Name": "Right Tool for the Job",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_23",
+      "SetID": "98bke8c",
+      "Name": "Man of Steel",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_24",
+      "SetID": "98bke8c",
+      "Name": "Core Power",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_25",
+      "SetID": "98bke8c",
+      "Name": "Duty-Bound",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_26",
+      "SetID": "98bke8c",
+      "Name": "Ghost in the Machine",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_27",
+      "SetID": "98bke8c",
+      "Name": "Follow the White Rabbit",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_28",
+      "SetID": "98bke8c",
+      "Name": "First Day on the Job",
+      "Percentage": 76,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_29",
+      "SetID": "98bke8c",
+      "Name": "Liberation",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_30",
+      "SetID": "98bke8c",
+      "Name": "Raging Drones",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_31",
+      "SetID": "98bke8c",
+      "Name": "Evolution Theory",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_32",
+      "SetID": "98bke8c",
+      "Name": "Butcher\u0027s Bill",
+      "Percentage": 55,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_34",
+      "SetID": "98bke8c",
+      "Name": "Jack of All Trades",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_35",
+      "SetID": "98bke8c",
+      "Name": "Most Wanted",
+      "Percentage": 26,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_36",
+      "SetID": "98bke8c",
+      "Name": "Infidel",
+      "Percentage": 23,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_37",
+      "SetID": "98bke8c",
+      "Name": "It\u0027s Blue Light",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_38",
+      "SetID": "98bke8c",
+      "Name": "I Choose You",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_39",
+      "SetID": "98bke8c",
+      "Name": "Homo Machinalis",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_40",
+      "SetID": "98bke8c",
+      "Name": "Was That Yours?",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_41",
+      "SetID": "98bke8c",
+      "Name": "Guard Dog",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_42",
+      "SetID": "98bke8c",
+      "Name": "Nothing to Lose",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_43",
+      "SetID": "98bke8c",
+      "Name": "Overconfident",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_44",
+      "SetID": "98bke8c",
+      "Name": "GOLIATH",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_45",
+      "SetID": "98bke8c",
+      "Name": "OPERATOR",
+      "Percentage": 35,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_46",
+      "SetID": "98bke8c",
+      "Name": "SENTINEL",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_47",
+      "SetID": "98bke8c",
+      "Name": "Sniffing Around",
+      "Percentage": 0.7,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_48",
+      "SetID": "98bke8c",
+      "Name": "The Surge",
+      "Percentage": 0.4,
+      "XP": 60
+    },
+    {
+      "ID": "ID_ACHIEV_49",
+      "SetID": "98bke8c",
+      "Name": "Squad Chief Helvig",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_50",
+      "SetID": "98bke8c",
+      "Name": "Carbon Cat",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_51",
+      "SetID": "98bke8c",
+      "Name": "Carbon Cat vs Iron Maus",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_52",
+      "SetID": "98bke8c",
+      "Name": "Dress Up",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_53",
+      "SetID": "98bke8c",
+      "Name": "New Gear",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_54",
+      "SetID": "98bke8c",
+      "Name": "No More Marching",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_55",
+      "SetID": "98bke8c",
+      "Name": "Good Listener",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_56",
+      "SetID": "98bke8c",
+      "Name": "Rusty Rat",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_57",
+      "SetID": "98bke8c",
+      "Name": "3-2-1",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_58",
+      "SetID": "98bke8c",
+      "Name": "Is This Real Life?",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_59",
+      "SetID": "98bke8c",
+      "Name": "One-Armed Bandit",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_60",
+      "SetID": "98bke8c",
+      "Name": "Modus Operandi",
+      "Percentage": 0.6,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_61",
+      "SetID": "98bke8c",
+      "Name": "Episodic",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ID_ACHIEV_62",
+      "SetID": "98bke8c",
+      "Name": "Suited and Booted",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_63",
+      "SetID": "98bke8c",
+      "Name": "Tools of War",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_64",
+      "SetID": "98bke8c",
+      "Name": "Bling-Bling",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_65",
+      "SetID": "98bke8c",
+      "Name": "End of Transmission",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_66",
+      "SetID": "98bke8c",
+      "Name": "Gramophone Enthusiast",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ID_ACHIEV_67",
+      "SetID": "98bke8c",
+      "Name": "Desecration",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ID_ACHIEV_68",
+      "SetID": "98bke8c",
+      "Name": "Risk Assessment",
+      "Percentage": 7,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -343,16 +814,26 @@
       "NumberOfAwardsMax": 26
     }
   ],
-  "EOS_Completed_Percentage": 0.31,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 67,
+  "LastChanged_Achievements": "2023-05-04T19:17:30.5899378+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 15,
   "EOS_Completed": 13,
   "EOS_Progressed": 4204,
-  "LastUpdate_Achievements": "2023-05-04T19:02:25.6161527+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:37.764273+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:25.6161493+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:30.5900093+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:36.7777222+00:00",
+  "AchievementSets": [
+    {
+      "ID": "98bke8c",
+      "IsBase": true,
+      "Progressed": 4204,
+      "Completed": 13
+    }
+  ],
+  "EOS_Completed_Percentage": 0.31,
   "LastChanged": "2023-05-03T22:58:05.0028973+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
+  "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 26,
   "NumberOfAwards": 26,
@@ -365,5 +846,5 @@
   "Ranking_Popularity": 459,
   "Ranking_Rating": 574,
   "Rating": 4.47,
-  "FirstSeen": "2022-07-22T20:17:27.6192129+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00"
 }

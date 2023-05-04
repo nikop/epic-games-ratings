@@ -1,9 +1,86 @@
 # Urbek City Builder
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Small town | 61.00 |
+| I like parks | 47.00 |
+| The spiritual world... | 27.00 |
+| Sport is good for you | 26.00 |
+| It is nice to share with friends in the city | 25.00 |
+| The woodcutter | 24.00 |
+| I like books | 20.00 |
+| I like my life | 20.00 |
+| Clean energy | 20.00 |
+| Soviet town | 15.00 |
+| Bucolic city | 14.00 |
+| King of fish | 12.00 |
+| I love books! | 11.00 |
+| I love parks | 11.00 |
+| What would we do if we can't go out with friends? | 10.00 |
+| Food producer | 8.00 |
+| Metropolurbek | 8.00 |
+| I am very happy! | 6.00 |
+| Sport is the best thing | 5.00 |
+| Read! Everyone should read! | 4.00 |
+| Little Mayor | 4.00 |
+| Banking city | 3.00 |
+| Rebel city | 3.00 |
+| Temperate builder | 3.00 |
+| Anarchist Utopia | 2.00 |
+| Archipelago builder | 2.00 |
+| Archipelago urban planner | 2.00 |
+| Food provider master | 2.00 |
+| What is there after death? | 2.00 |
+| Perfect city | 2.00 |
+| Oh, I love parks, listening to birds! | 2.00 |
+| Freedom to go to the mall! | 2.00 |
+| Town planner | 2.00 |
+| Temperate urban planner | 2.00 |
+| Anarchist paradise | 0.80 |
+| I can't see the sky | 0.80 |
+| Urban style | 0.80 |
+| City crisis | 0.80 |
+| Desert builder | 0.80 |
+| Desert urban planner | 0.80 |
+| Farming Frenzy | 0.80 |
+| I don't feel well, I have to drink a coffe | 0.80 |
+| Metropolurbek Plus | 0.80 |
+| City in flames | 0.80 |
+| Restorer | 0.80 |
+| Full temperate | 0.80 |
+| Full archipelago | 0.00 |
+| Archipelago master | 0.00 |
+| Banking empire | 0.00 |
+| Pumpkin farmer | 0.00 |
+| Ready to make sopaipillas | 0.00 |
+| Green energy | 0.00 |
+| I can't breathe | 0.00 |
+| Collapsed city | 0.00 |
+| Full desert | 0.00 |
+| Desert master | 0.00 |
+| How scary! | 0.00 |
+| Haunted city | 0.00 |
+| Fear God, you sinners! | 0.00 |
+| Oh, I am sad | 0.00 |
+| Smile? I don't understand | 0.00 |
+| Work, work, work... | 0.00 |
+| Oh, life is too awesome! Thank you! | 0.00 |
+| ¡Muy feliz! | 0.00 |
+| Farming Frenzy Plus | 0.00 |
+| Only freedom to go to the mall! | 0.00 |
+| What? Was that possible? | 0.00 |
+| Full restorer | 0.00 |
+| Restorer Plus | 0.00 |
+| Restorer master | 0.00 |
+| Singapore | 0.00 |
+| Singapore Plus | 0.00 |
+| Everyone should always do sport! | 0.00 |
+| Temperate master | 0.00 |
+| Full rainforest | 0.00 |
+| Rainforest builder | 0.00 |
+| Rainforest urban planner | 0.00 |
+| Rainforest master | 0.00 |
+| Welfare state | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 132 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -16,9 +93,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-30 | 130 | 0 |
 | 2023-05-01 | 131 | 0 |
 | 2023-05-02 | 132 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,6 +1,7 @@
 {
   "ID": "22516e1b4eea447e8f027e34d3a05e87",
   "Name": "Knights of Honor II: Sovereign",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -45,15 +46,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:22.465463+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:47.7636737+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:44.3602857+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-26T21:00:42.8957562+00:00",
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
+  "FirstSeen": "2022-12-07T15:57:38.7138742+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -63,6 +68,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 590,
-  "Rating": 4.46,
-  "FirstSeen": "2022-12-07T15:57:38.7138742+00:00"
+  "Rating": 4.46
 }

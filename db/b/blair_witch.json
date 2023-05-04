@@ -1,6 +1,7 @@
 {
   "ID": "8101d2b09984401fa28cecce4c867e71",
   "Name": "Blair Witch",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -485,14 +486,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:14.4335136+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:40.6236769+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:37.4319002+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:15.5258329+00:00",
+  "FirstSeen": "2022-07-22T20:28:46.0898805+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 635,
@@ -503,6 +508,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 844,
-  "Rating": 4.13,
-  "FirstSeen": "2022-07-22T20:28:46.0898805+00:00"
+  "Rating": 4.13
 }

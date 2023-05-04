@@ -1,9 +1,34 @@
 # Tortuga - A Pirate's Tale
 Rating: 3.81 (Ranked 901)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Eeligally Ambitious | 95.00 |
+| No Half Measures | 88.00 |
+| Personal Matter | 87.00 |
+| But You Have Heard of Me | 72.00 |
+| Double the Barrels, double the Fun | 55.00 |
+| Pimp My Glide | 46.00 |
+| ... And Where Do the Stories Come From? | 41.00 |
+| House Party! | 33.00 |
+| Make It Rain | 24.00 |
+| Curse of the Seven Seas | 21.00 |
+| Head First | 15.00 |
+| To the World's End | 12.00 |
+| Table for Six | 11.00 |
+| Sharing Is Caring | 9.00 |
+| I'm Somewhat of a Colonial Force Myself | 8.00 |
+| Morally Flexible | 6.00 |
+| Fishing for Compliments | 5.00 |
+| After All, Why Shouldn't I Keep It? | 2.00 |
+| A True Dandy | 2.00 |
+| A New Legend Awaits | 1.00 |
+| Pirate King | 0.80 |
+| Oooh, We're Half Way There | 0.70 |
+| Devilishly Talented | 0.10 |
+| Heavy Tunaing | 0.10 |
+| Pufferfish | 0.10 |
+| O Captain! My Captain! | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,220 (Ranked 95)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -20,9 +45,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 15,208 | 0 |
 | 2023-05-03 | 15,215 | 0 |
 | 2023-05-04 | 15,220 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

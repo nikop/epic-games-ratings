@@ -1,6 +1,204 @@
 {
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
+  "Achievements": [
+    {
+      "ID": "ACH_100_DOUBLE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "And Your Little Dog, Too!",
+      "Percentage": 33,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_100_RINGOUTS_DOWNSPIKE",
+      "SetID": "dc21kim",
+      "Name": "Ground Floor: Ringouts",
+      "Percentage": 29,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_100_TOASTS",
+      "SetID": "dc21kim",
+      "Name": "Toast Master",
+      "Percentage": 41,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_10_DOUBLE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Bring A Friend",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_10_LOW_DAMAGE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Signature Slammer",
+      "Percentage": 43,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_BOTTOM",
+      "SetID": "dc21kim",
+      "Name": "Spike Specialist",
+      "Percentage": 54,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_DOWNSPIKE",
+      "SetID": "dc21kim",
+      "Name": "Watch Your Step",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_LEFT",
+      "SetID": "dc21kim",
+      "Name": "Southpaw Specialist",
+      "Percentage": 54,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_RIGHT",
+      "SetID": "dc21kim",
+      "Name": "Rightie Specialist",
+      "Percentage": 54,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_TOP",
+      "SetID": "dc21kim",
+      "Name": "Aerial Specialist",
+      "Percentage": 63,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_10_TOASTS",
+      "SetID": "dc21kim",
+      "Name": "Nice Speech",
+      "Percentage": 41,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_25_DOUBLE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Ringouts Are Better In Pairs",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_50_RINGOUTS_DOWNSPIKE",
+      "SetID": "dc21kim",
+      "Name": "Going Down?",
+      "Percentage": 29,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_5_TOASTS",
+      "SetID": "dc21kim",
+      "Name": "Credit Where It\u0027s Due",
+      "Percentage": 41,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_ACCEPT_100_REMATCHES",
+      "SetID": "dc21kim",
+      "Name": "Run It Back",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_GET_100_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Bun-Puncher Supreme",
+      "Percentage": 68,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Distanced Damage Dealer",
+      "Percentage": 42,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_GET_20_PROJECTILE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Watch Your Head",
+      "Percentage": 42,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_GET_30_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "You Mean Business",
+      "Percentage": 68,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Catch This",
+      "Percentage": 42,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_GET_50_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "You\u0027re Getting Pretty Good At This!",
+      "Percentage": 68,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_PLAY_100_PARTY_MATCHES",
+      "SetID": "dc21kim",
+      "Name": "Life of the Party",
+      "Percentage": 36,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_PLAY_1_MACHMADE",
+      "SetID": "dc21kim",
+      "Name": "Matchmaker",
+      "Percentage": 74,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_PLAY_25_PARTY_MATCHES",
+      "SetID": "dc21kim",
+      "Name": "Social Butterfly",
+      "Percentage": 36,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_PLAY_500_PARTY_MATCHES",
+      "SetID": "dc21kim",
+      "Name": "Party Animal",
+      "Percentage": 36,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_WIN_100_MATCHMADE_GAMES",
+      "SetID": "dc21kim",
+      "Name": "Proving Yourself",
+      "Percentage": 63,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_WIN_10_MATCHMADE_GAMES",
+      "SetID": "dc21kim",
+      "Name": "Stepping Out",
+      "Percentage": 63,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_WIN_300_MATCHMADE_GAMES",
+      "SetID": "dc21kim",
+      "Name": "The Throne Is Yours",
+      "Percentage": 63,
+      "XP": 90
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1145,6 +1343,11 @@
     {
       "Time": "2023-05-04T19:00:21.4800045+00:00",
       "NumProgressed": 1067920,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T19:15:19.7762508+00:00",
+      "NumProgressed": 1067925,
       "NumCompleted": 31618
     }
   ],
@@ -4520,16 +4723,26 @@
       "NumberOfAwardsMax": 4736
     }
   ],
-  "EOS_Completed_Percentage": 2.96,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 28,
+  "LastChanged_Achievements": "2023-05-04T19:15:19.7762503+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1866,
+  "EOS_NewPlayers": 1871,
   "EOS_Completed": 31618,
-  "EOS_Progressed": 1067920,
-  "LastUpdate_Achievements": "2023-05-04T19:00:21.4800116+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:51.4344448+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:21.4800039+00:00",
+  "EOS_Progressed": 1067925,
+  "LastUpdate_Achievements": "2023-05-04T19:15:19.776276+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:48.2127304+00:00",
+  "AchievementSets": [
+    {
+      "ID": "dc21kim",
+      "IsBase": true,
+      "Progressed": 1067925,
+      "Completed": 31618
+    }
+  ],
+  "EOS_Completed_Percentage": 2.96,
   "LastChanged": "2023-05-02T22:59:53.3774042+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
+  "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 4736,
   "NumberOfAwards": 45650,
@@ -4542,5 +4755,5 @@
   "Ranking_Popularity": 64,
   "Ranking_Rating": 447,
   "Rating": 4.56,
-  "FirstSeen": "2022-07-26T18:01:28.8669143+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00"
 }

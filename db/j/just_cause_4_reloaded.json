@@ -1,6 +1,7 @@
 {
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -2983,14 +2984,18 @@
       "NumberOfAwardsMax": 3589
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:26.2524061+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:52.2969367+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:48.9844862+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:00:01.4171817+00:00",
+  "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 3589,
   "NumberOfAwards": 6841,
@@ -3001,7 +3006,6 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 104,
   "Ranking_Popularity": 78,
-  "Ranking_Rating": 750,
-  "Rating": 4.3,
-  "FirstSeen": "2022-07-22T20:18:31.4925823+00:00"
+  "Ranking_Rating": 751,
+  "Rating": 4.3
 }

@@ -4,9 +4,57 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,235  (Ranked 97)  
 Sum: 6,265 (Ranked 111)  
-Diff (max vs sum): -14
+Diff (max vs sum): -14  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| ''You guys got yourself a ship!'' | 97.00 |
+| ''I don't like you either!'' | 81.00 |
+| ''You think you're some kind of Jedi?'' | 74.00 |
+| ''Impressive, most impressive'' | 73.00 |
+| The Phantom Menace | 61.00 |
+| ''Aggressive Negotiations'' | 61.00 |
+| ''I can fly anything'' | 60.00 |
+| ''And who gave you permission...?'' | 56.00 |
+| A New Hope | 50.00 |
+| Attack of the Clones | 49.00 |
+| Revenge of the Sith | 42.00 |
+| The Empire Strikes Back | 39.00 |
+| ''A fine addition to my collection'' | 39.00 |
+| Return of the Jedi | 34.00 |
+| The Force Awakens | 28.00 |
+| The Last Jedi | 24.00 |
+| The Rise of Skywalker | 21.00 |
+| ''It's true... all of it'' | 20.00 |
+| ''Get the crews to their fighters'' | 20.00 |
+| ''Raw, untamed power'' | 9.00 |
+| Rishi Maze | 5.00 |
+| ''Only one business in the Galaxy...'' | 5.00 |
+| ''You may fire when ready'' | 3.00 |
+| ''What have you done with those plans?'' | 3.00 |
+| ''GONK!'' | 3.00 |
+| ''Hey, what are you trying to push on us?'' | 3.00 |
+| The Slice | 3.00 |
+| ''Hello there!'' | 2.00 |
+| Unknown Regions | 2.00 |
+| ''Do or do not. There is no try'' | 2.00 |
+| ''See you around, kid'' | 2.00 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00 |
+| Greater Javin | 2.00 |
+| New Territories | 2.00 |
+| The Interior | 2.00 |
+| Western Reaches | 2.00 |
+| Trailing Sectors | 2.00 |
+| The Arkanis Sector | 2.00 |
+| ''A little short for a Stormtrooper...'' | 2.00 |
+| ''Power! Unlimited power!'' | 2.00 |
+| ''You needn't worry about your reward'' | 2.00 |
+| ''Now I am the Master'' | 2.00 |
+| ''Jedi Business'' | 1.00 |
+| ''No more training, do you require'' | 1.00 |
+| ''I've never seen a real one!'' | 0.90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,232 (Ranked 78)  
+Progressed: 39,242 (Ranked 78)  
 Completed: 160 (0.41%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +68,7 @@ Completed: 160 (0.41%) (Ranked 103)
 | 2023-05-01 | 39,157 | 160 |
 | 2023-05-02 | 39,164 | 160 |
 | 2023-05-03 | 39,171 | 160 |
-| 2023-05-04 | 39,232 | 160 |
+| 2023-05-04 | 39,242 | 160 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

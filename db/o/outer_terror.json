@@ -1,6 +1,7 @@
 {
   "ID": "ec372db47e1b41449719ca1ce595bf36",
   "Name": "Outer Terror",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:26.218577+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:44.66138+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:43.7994321+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-20T16:57:55.6391049+00:00",
   "FirstSeenRating": "2023-04-20T16:57:55.6391049+00:00",
+  "FirstSeen": "2023-04-20T16:57:55.6391027+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-20T16:57:55.6391027+00:00"
+  "Ranking_EOS_Progress": 378
 }

@@ -1,6 +1,7 @@
 {
   "ID": "e1e92771f6774072bb1b8d0a0a6197f7",
   "Name": "Wonder Boy The Dragons Trap",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -1066,16 +1067,26 @@
       "NumberOfAwardsMax": 59
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:48.5325677+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:55.9456506+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:27.8634032+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:55.9456487+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:48.5325731+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:26.085755+00:00",
+  "AchievementSets": [
+    {
+      "ID": "10e5ndd",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T05:58:33.4798646+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:35.8235457+00:00",
+  "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 59,
   "NumberOfAwards": 386,
@@ -1088,5 +1099,5 @@
   "Ranking_Popularity": 377,
   "Ranking_Rating": 620,
   "Rating": 4.44,
-  "FirstSeen": "2022-07-22T20:30:29.5801015+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:35.8235457+00:00"
 }

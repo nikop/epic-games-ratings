@@ -1,6 +1,267 @@
 {
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
+  "Achievements": [
+    {
+      "ID": "BRANDED",
+      "SetID": "7f6ck5n",
+      "Name": "Branded",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "COASTROCK",
+      "SetID": "7f6ck5n",
+      "Name": "Coastrock",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "DEVARAS_LIGHT",
+      "SetID": "7f6ck5n",
+      "Name": "Devara\u0027s Light",
+      "Percentage": 30,
+      "XP": 10
+    },
+    {
+      "ID": "DEVOTED",
+      "SetID": "7f6ck5n",
+      "Name": "Devoted",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "DOMINION",
+      "SetID": "7f6ck5n",
+      "Name": "Dominion",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "FADING_FAST",
+      "SetID": "7f6ck5n",
+      "Name": "Fading Fast",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "FIND_SALVATION",
+      "SetID": "7f6ck5n",
+      "Name": "Find Salvation",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "FIND_SANCTUARY",
+      "SetID": "7f6ck5n",
+      "Name": "Find Sanctuary",
+      "Percentage": 83,
+      "XP": 10
+    },
+    {
+      "ID": "HONED",
+      "SetID": "7f6ck5n",
+      "Name": "Honed",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "HOUSE_OF_SPLENDOR",
+      "SetID": "7f6ck5n",
+      "Name": "The House of Splendor",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "KEEPERS_OF_FIRE",
+      "SetID": "7f6ck5n",
+      "Name": "Keepers of Fire and Sky",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ORDER_OF_BETRAYER",
+      "SetID": "7f6ck5n",
+      "Name": "Order of the Betrayer",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "STORIED",
+      "SetID": "7f6ck5n",
+      "Name": "Storied",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "THE_ALKYMANCERY",
+      "SetID": "7f6ck5n",
+      "Name": "The Alkymancery",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "THE_BANQUET",
+      "SetID": "7f6ck5n",
+      "Name": "The Banquet",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "THE_CASTLE",
+      "SetID": "7f6ck5n",
+      "Name": "The Castle",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "THE_CAVE",
+      "SetID": "7f6ck5n",
+      "Name": "The Cave",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "THE_CONSTRUCT",
+      "SetID": "7f6ck5n",
+      "Name": "The Construct",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "THE_CRYPT",
+      "SetID": "7f6ck5n",
+      "Name": "The Crypt",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "THE_DOME",
+      "SetID": "7f6ck5n",
+      "Name": "The Dome",
+      "Percentage": 9,
+      "XP": 30
+    },
+    {
+      "ID": "THE_FOREST",
+      "SetID": "7f6ck5n",
+      "Name": "The Forest",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "THE_IMPOSTER",
+      "SetID": "7f6ck5n",
+      "Name": "The Imposter",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "THE_IRON_ONES",
+      "SetID": "7f6ck5n",
+      "Name": "The Iron Ones",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "THE_KEEP",
+      "SetID": "7f6ck5n",
+      "Name": "The Keep",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "THE_LAKE",
+      "SetID": "7f6ck5n",
+      "Name": "The Lake",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "THE_MIRE",
+      "SetID": "7f6ck5n",
+      "Name": "The Mire",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "THE_PALACE",
+      "SetID": "7f6ck5n",
+      "Name": "The Palace",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "THE_PITCHWOODS",
+      "SetID": "7f6ck5n",
+      "Name": "The Pitchwoods",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "THE_RED_HALL",
+      "SetID": "7f6ck5n",
+      "Name": "The Red Hall",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "THE_RUINS",
+      "SetID": "7f6ck5n",
+      "Name": "The Ruins",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "THE_SACRIFICE",
+      "SetID": "7f6ck5n",
+      "Name": "The Sacrifice",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "THE_STONE_ROOTS",
+      "SetID": "7f6ck5n",
+      "Name": "The Stone Roots",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "THE_THREE",
+      "SetID": "7f6ck5n",
+      "Name": "The Three",
+      "Percentage": 64,
+      "XP": 10
+    },
+    {
+      "ID": "THE_UNSPEAKABLE_DEEP",
+      "SetID": "7f6ck5n",
+      "Name": "The Unspeakable Deep",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "THE_VILLAGE",
+      "SetID": "7f6ck5n",
+      "Name": "The Village",
+      "Percentage": 16,
+      "XP": 10
+    },
+    {
+      "ID": "THE_ZIGGURAT",
+      "SetID": "7f6ck5n",
+      "Name": "The Ziggurat",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "WISE_WORDS",
+      "SetID": "7f6ck5n",
+      "Name": "Wise Words",
+      "Percentage": 2,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1117,6 +1378,11 @@
     {
       "Time": "2023-05-04T19:04:22.1329374+00:00",
       "NumProgressed": 519781,
+      "NumCompleted": 1396
+    },
+    {
+      "Time": "2023-05-04T19:19:12.6868155+00:00",
+      "NumProgressed": 519783,
       "NumCompleted": 1396
     }
   ],
@@ -3188,16 +3454,26 @@
       "NumberOfAwardsMax": 267
     }
   ],
-  "EOS_Completed_Percentage": 0.27,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 37,
+  "LastChanged_Achievements": "2023-05-04T19:19:12.6868151+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 878,
   "EOS_Completed": 1396,
-  "EOS_Progressed": 519781,
-  "LastUpdate_Achievements": "2023-05-04T19:04:22.1329441+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:49.0128603+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:22.132937+00:00",
+  "EOS_Progressed": 519783,
+  "LastUpdate_Achievements": "2023-05-04T19:19:12.6868495+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:46.7184274+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7f6ck5n",
+      "IsBase": true,
+      "Progressed": 519783,
+      "Completed": 1396
+    }
+  ],
+  "EOS_Completed_Percentage": 0.27,
   "LastChanged": "2023-05-04T09:59:20.3288117+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
+  "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "MaxAwardTitle": "Challenging Combat",
   "NumberOfAwardsMax": 267,
   "NumberOfAwards": 1872,
@@ -3210,5 +3486,5 @@
   "Ranking_Popularity": 232,
   "Ranking_Rating": 353,
   "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:30:22.0983018+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00"
 }

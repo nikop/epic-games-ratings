@@ -1,6 +1,7 @@
 {
   "ID": "adff171404fb4af7b4c0991d0fcc5458",
   "Name": "Seal of Evil",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:19.4039513+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:25.5278433+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:25.0833692+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:31.5814914+00:00",
   "FirstSeenRating": "2023-03-31T05:58:31.5814913+00:00",
+  "FirstSeen": "2023-02-23T02:11:34.447629+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-02-23T02:11:34.447629+00:00"
+  "Ranking_EOS_Progress": 378
 }

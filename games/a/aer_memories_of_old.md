@@ -1,10 +1,29 @@
 # AER Memories of Old
 Rating: 4.46 (Ranked 590)  
 Number of Ratings: 170  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Light at the end of the tunnel | 76.00 |
+| Mama? | 28.00 |
+| People's Haven | 19.00 |
+| Cartographer | 18.00 |
+| Antlers of Stone | 16.00 |
+| Knowledge for Power | 15.00 |
+| Gaze into the abyss | 14.00 |
+| Mausoleum of Ice | 14.00 |
+| Equilibrium | 13.00 |
+| In the belly of the beast | 12.00 |
+| Wings of Stone | 12.00 |
+| Condor condo | 11.00 |
+| Memorial | 9.00 |
+| An uninvited guest | 8.00 |
+| Tails of Stone | 7.00 |
+| Baa from the past | 7.00 |
+| Written in stone | 7.00 |
+| Talk to all the spirit animals | 7.00 |
+| Ripples on the surface | 6.00 |
+| Hide and Seek | 5.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,476 (Ranked 108)  
 Completed: 195 (2.30%) (Ranked 54)  
@@ -21,9 +40,6 @@ Completed: 195 (2.30%) (Ranked 54)
 | 2023-05-02 | 8,351 | 191 |
 | 2023-05-03 | 8,431 | 194 |
 | 2023-05-04 | 8,476 | 195 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

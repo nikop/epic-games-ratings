@@ -1,12 +1,27 @@
 # Centipede: Recharged
 Rating: 4.32 (Ranked 737)  
 Number of Ratings: 76  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Shooting Shark | 51.00 |
+| Make Rock Not War | 43.00 |
+| Sole Survivor | 37.00 |
+| Fireworks | 33.00 |
+| Burning For You | 29.00 |
+| Beat 'em Up | 28.00 |
+| I Am The Storm | 18.00 |
+| Still Burnin' | 18.00 |
+| Deadline | 15.00 |
+| Don't Fear The Reaper | 13.00 |
+| Eyes On Fire | 13.00 |
+| Feel The Thunder | 7.00 |
+| Harvester Of Eyes | 7.00 |
+| The Reaper | 7.00 |
+| Shadow Warrior | 2.00 |
+| Mirrors | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,209 (Ranked 99)  
+Progressed: 13,210 (Ranked 99)  
 Completed: 81 (0.61%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,10 +35,7 @@ Completed: 81 (0.61%) (Ranked 94)
 | 2023-05-01 | 13,115 | 81 |
 | 2023-05-02 | 13,151 | 81 |
 | 2023-05-03 | 13,182 | 81 |
-| 2023-05-04 | 13,209 | 81 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 13,210 | 81 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

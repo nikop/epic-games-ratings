@@ -1,6 +1,148 @@
 {
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
+  "Achievements": [
+    {
+      "ID": "beat_it",
+      "SetID": "d4f4pll",
+      "Name": "Beat It",
+      "Percentage": 55,
+      "XP": 25
+    },
+    {
+      "ID": "blast_from_the_past",
+      "SetID": "d4f4pll",
+      "Name": "Blast From The Past",
+      "Percentage": 88,
+      "XP": 25
+    },
+    {
+      "ID": "deadly_secret",
+      "SetID": "d4f4pll",
+      "Name": "Deadly Secret",
+      "Percentage": 14,
+      "XP": 75
+    },
+    {
+      "ID": "ending_1",
+      "SetID": "d4f4pll",
+      "Name": "The Nano Glitches And The Martyr",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "ending_2",
+      "SetID": "d4f4pll",
+      "Name": "Second Chances",
+      "Percentage": 7,
+      "XP": 25
+    },
+    {
+      "ID": "ending_3",
+      "SetID": "d4f4pll",
+      "Name": "Get Out Of This Alive",
+      "Percentage": 11,
+      "XP": 25
+    },
+    {
+      "ID": "ending_4",
+      "SetID": "d4f4pll",
+      "Name": "The Promise",
+      "Percentage": 10,
+      "XP": 100
+    },
+    {
+      "ID": "ending_5",
+      "SetID": "d4f4pll",
+      "Name": "Lab Rat",
+      "Percentage": 24,
+      "XP": 25
+    },
+    {
+      "ID": "ending_6",
+      "SetID": "d4f4pll",
+      "Name": "Stalemate",
+      "Percentage": 21,
+      "XP": 25
+    },
+    {
+      "ID": "ending_7",
+      "SetID": "d4f4pll",
+      "Name": "Trust Me For Once",
+      "Percentage": 30,
+      "XP": 25
+    },
+    {
+      "ID": "ending_8",
+      "SetID": "d4f4pll",
+      "Name": "MVP - Most Vanishing Person",
+      "Percentage": 15,
+      "XP": 25
+    },
+    {
+      "ID": "falling_for_you",
+      "SetID": "d4f4pll",
+      "Name": "Falling For You",
+      "Percentage": 46,
+      "XP": 50
+    },
+    {
+      "ID": "free_champagne",
+      "SetID": "d4f4pll",
+      "Name": "Free Champagne",
+      "Percentage": 48,
+      "XP": 25
+    },
+    {
+      "ID": "kamikaze",
+      "SetID": "d4f4pll",
+      "Name": "Kamikaze",
+      "Percentage": 66,
+      "XP": 100
+    },
+    {
+      "ID": "kindar_surprise",
+      "SetID": "d4f4pll",
+      "Name": "Kindar Surprise",
+      "Percentage": 19,
+      "XP": 25
+    },
+    {
+      "ID": "not_a_people_person",
+      "SetID": "d4f4pll",
+      "Name": "Not A People Person",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "people_pleaser",
+      "SetID": "d4f4pll",
+      "Name": "People Pleaser",
+      "Percentage": 10,
+      "XP": 100
+    },
+    {
+      "ID": "storage_hunter",
+      "SetID": "d4f4pll",
+      "Name": "Storage Hunter",
+      "Percentage": 49,
+      "XP": 50
+    },
+    {
+      "ID": "the_rebel_and_the_doctor",
+      "SetID": "d4f4pll",
+      "Name": "The Rebel And The Doctor",
+      "Percentage": 61,
+      "XP": 100
+    },
+    {
+      "ID": "tough_decision",
+      "SetID": "d4f4pll",
+      "Name": "Tough Decision",
+      "Percentage": 95,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +174,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 3.57,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 20,
+  "LastChanged_Achievements": "2023-05-04T19:20:21.075156+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 16,
   "EOS_Progressed": 448,
-  "LastUpdate_Achievements": "2023-05-04T19:05:30.0411683+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:53.7073342+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:30.0411665+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:21.0751719+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:50.3231778+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d4f4pll",
+      "IsBase": true,
+      "Progressed": 448,
+      "Completed": 16
+    }
+  ],
+  "EOS_Completed_Percentage": 3.57,
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
+  "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_Progress": 188,
-  "FirstSeen": "2022-10-09T13:32:29.6918033+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00"
 }

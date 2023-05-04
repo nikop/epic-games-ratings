@@ -4,9 +4,90 @@ Number of Ratings: 3,181  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 28,658  (Ranked 14)  
 Sum: 51,693 (Ranked 21)  
-Diff (max vs sum): -7
+Diff (max vs sum): -7  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Is It Really Necessary? | 90.00 |
+| Little Craftsman | 88.00 |
+| Flight of the Crane | 85.00 |
+| My left or your left? | 51.00 |
+| Prom Night | 43.00 |
+| Can't Touch This | 36.00 |
+| I've Got Your Back | 36.00 |
+| Mouths Wide Open | 35.00 |
+| Open Sesame | 34.00 |
+| Strong | 34.00 |
+| Harran Shooting Club | 30.00 |
+| Agile | 29.00 |
+| Snake in the grass | 28.00 |
+| Everybody Knows Kyle | 28.00 |
+| Trade Company | 27.00 |
+| Sightseeing | 26.00 |
+| Hush, Hush Now | 22.00 |
+| Making Faces | 22.00 |
+| Tied loose end | 20.00 |
+| The Legend of Harran | 18.00 |
+| Now You Can Come In | 18.00 |
+| Vertigo | 18.00 |
+| Pheidippides | 15.00 |
+| Bittersweet | 15.00 |
+| Everybody Dance Now | 13.00 |
+| Afraid to get wet? | 11.00 |
+| BBQ | 9.00 |
+| Disaster Recovery | 7.00 |
+| Mount Everest | 6.00 |
+| A Game of Catch | 6.00 |
+| Pearls in the Mud | 6.00 |
+| I felt your presence | 6.00 |
+| Now It's Safe | 5.00 |
+| Master Crafter | 5.00 |
+| I was waiting for you for so long | 5.00 |
+| Gabriel's Sword | 4.00 |
+| We're All In This Together | 3.00 |
+| High Flyer | 3.00 |
+| A Long Way Down | 3.00 |
+| And you liked him, didn't you? | 3.00 |
+| What if you picked the other one? | 3.00 |
+| Bolter Hunting | 2.00 |
+| Harran Athletics | 2.00 |
+| Blinded by the Lights | 2.00 |
+| Judo Master | 2.00 |
+| Get the Bozak | 2.00 |
+| Robin Hood Theory | 2.00 |
+| You realize it's only points, don't you? | 2.00 |
+| The Whole Story | 1.00 |
+| Lucky 7 | 1.00 |
+| Polyamory | 1.00 |
+| It wasn't that hard, was it? | 1.00 |
+| I don't approve of mindless fun | 1.00 |
+| It's All In the Writing | 0.80 |
+| Things That Go Ka-Boom | 0.70 |
+| Electric Whisper | 0.60 |
+| Clavis was a key all along | 0.60 |
+| I'm a Runner and a fighter | 0.50 |
+| This is Harraaaaan! | 0.40 |
+| Together Till the End | 0.40 |
+| Electrified! | 0.20 |
+| Sweaty palms? | 0.20 |
+| Beginnings are hard | 0.20 |
+| Homo Homini Lupus Est | 0.10 |
+| Trespassing | 0.10 |
+| Enlightened! | 0.10 |
+| Italian Plumber | 0.10 |
+| The Boy Who Could Run | 0.10 |
+| GD Parkour Instructor | 0.10 |
+| Formidophobic? Interesting… | 0.10 |
+| Throw me a bone | 0.10 |
+| Non omnis moriar | 0.10 |
+| Blocked by Ba'al | 0.10 |
+| Time to file a tax form | 0.10 |
+| Wake up! | 0.10 |
+| Well-read | 0.10 |
+| Fast as hell | 0.10 |
+| Into the lava | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,442,089 (Ranked 4)  
+Progressed: 3,442,193 (Ranked 4)  
 Completed: 7 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +101,7 @@ Completed: 7 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,409,850 | 7 |
 | 2023-05-02 | 3,422,528 | 7 |
 | 2023-05-03 | 3,433,675 | 7 |
-| 2023-05-04 | 3,442,089 | 7 |
+| 2023-05-04 | 3,442,193 | 7 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

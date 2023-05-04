@@ -3,9 +3,71 @@ Rating: 4.61 (Ranked 353)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 592  (Ranked 165)  
 Sum: 4,513 (Ranked 127)  
-Diff (max vs sum): 38
+Diff (max vs sum): 38  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Bootstrapping | 75.00 |
+| Shine On | 70.00 |
+| On the Job | 69.00 |
+| Get Stuck In | 68.00 |
+| Room for Expansion | 68.00 |
+| Sales Pitch | 65.00 |
+| Chill Out | 65.00 |
+| Tinker | 61.00 |
+| Grand Designs | 60.00 |
+| Hot Stuff | 59.00 |
+| MOAR RGB | 54.00 |
+| Dream Theme | 46.00 |
+| The Customer is King | 45.00 |
+| Working Hard | 44.00 |
+| On the Bench | 42.00 |
+| The More the Merrier | 42.00 |
+| Mix and Match | 38.00 |
+| Recycler | 38.00 |
+| Foot in the Door | 37.00 |
+| Very Imported PC | 36.00 |
+| Full Throttle | 34.00 |
+| Pimp My Rig | 32.00 |
+| Repair Master | 32.00 |
+| Local Hero | 28.00 |
+| Broken to Smokin' | 26.00 |
+| Workaholic | 26.00 |
+| Thanks Jeff | 25.00 |
+| Cinematic | 24.00 |
+| Bench Warmer | 24.00 |
+| Gift of the Gab | 24.00 |
+| Salvage Squad | 24.00 |
+| On the Ladder | 23.00 |
+| Stick With It | 23.00 |
+| Variations on a Theme | 22.00 |
+| Cowboy | 22.00 |
+| Slap Happy | 21.00 |
+| Supercool | 19.00 |
+| Stabiliser | 18.00 |
+| This One Goes to 11 | 18.00 |
+| Going Places | 15.00 |
+| Forgetful Shopper | 14.00 |
+| Showpiece | 13.00 |
+| Paste Not, Want Not | 13.00 |
+| Bench Press | 9.00 |
+| Matching Set | 8.00 |
+| Tech Vet | 8.00 |
+| Salesperson of the Month | 8.00 |
+| Making It Mine | 7.00 |
+| Ship It | 7.00 |
+| Elite Technician | 6.00 |
+| Unlimited Power | 5.00 |
+| Big Shot | 3.00 |
+| Just Like Old Times | 3.00 |
+| Legendary Technician | 2.00 |
+| Procrastinator | 1.00 |
+| PC OG | 0.80 |
+| Keep 'Em Coming | 0.40 |
+| Ship It Harder | 0.30 |
+| Export Expert | 0.20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,174 (Ranked 51)  
+Progressed: 158,175 (Ranked 51)  
 Completed: 102 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +81,7 @@ Completed: 102 (0.06%) (Ranked 161)
 | 2023-05-01 | 158,065 | 101 |
 | 2023-05-02 | 158,151 | 102 |
 | 2023-05-03 | 158,160 | 102 |
-| 2023-05-04 | 158,174 | 102 |
+| 2023-05-04 | 158,175 | 102 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,6 +1,323 @@
 {
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
+  "Achievements": [
+    {
+      "ID": "PFA_1",
+      "SetID": "1hf4dep",
+      "Name": "The Sort Who Makes an Entrance",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_10",
+      "SetID": "1hf4dep",
+      "Name": "Grappling with a Graphorn",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_11",
+      "SetID": "1hf4dep",
+      "Name": "The One Who Mastered Memories",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "PFA_12",
+      "SetID": "1hf4dep",
+      "Name": "The Hallowed Hero",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "PFA_13",
+      "SetID": "1hf4dep",
+      "Name": "The Hero of Hogwarts",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_14",
+      "SetID": "1hf4dep",
+      "Name": "The Seeker of Knowledge",
+      "Percentage": 3,
+      "XP": 70
+    },
+    {
+      "ID": "PFA_15",
+      "SetID": "1hf4dep",
+      "Name": "The Avenging Gazelle",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_16",
+      "SetID": "1hf4dep",
+      "Name": "The Defender of Dragons",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_17",
+      "SetID": "1hf4dep",
+      "Name": "Beast Friends",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_18",
+      "SetID": "1hf4dep",
+      "Name": "A Sallow Grave",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_19",
+      "SetID": "1hf4dep",
+      "Name": "Flight the Good Flight",
+      "Percentage": 4,
+      "XP": 40
+    },
+    {
+      "ID": "PFA_2",
+      "SetID": "1hf4dep",
+      "Name": "The Toast of the Town",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_20",
+      "SetID": "1hf4dep",
+      "Name": "The Good Samaritan",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "PFA_21",
+      "SetID": "1hf4dep",
+      "Name": "Challenge Accepted",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_22",
+      "SetID": "1hf4dep",
+      "Name": "Collector\u0027s Edition",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "PFA_23",
+      "SetID": "1hf4dep",
+      "Name": "A Keen Sense of Spell",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_24",
+      "SetID": "1hf4dep",
+      "Name": "Loom for Improvement",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_25",
+      "SetID": "1hf4dep",
+      "Name": "The Root of the Problem",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_26",
+      "SetID": "1hf4dep",
+      "Name": "The Nature of the Beast",
+      "Percentage": 0.3,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_27",
+      "SetID": "1hf4dep",
+      "Name": "Going Through the Potions",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_28",
+      "SetID": "1hf4dep",
+      "Name": "Put Down Roots",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_29",
+      "SetID": "1hf4dep",
+      "Name": "Third Time\u0027s a Charm",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_3",
+      "SetID": "1hf4dep",
+      "Name": "The Auror\u0027s Apprentice",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_30",
+      "SetID": "1hf4dep",
+      "Name": "A Talent for Spending",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_31",
+      "SetID": "1hf4dep",
+      "Name": "Savvy Spender",
+      "Percentage": 0.6,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_32",
+      "SetID": "1hf4dep",
+      "Name": "Room with a View",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_33",
+      "SetID": "1hf4dep",
+      "Name": "Spilled Milk",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_34",
+      "SetID": "1hf4dep",
+      "Name": "Floo Around the World",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_35",
+      "SetID": "1hf4dep",
+      "Name": "Followed the Butterflies",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_36",
+      "SetID": "1hf4dep",
+      "Name": "Rise to the Challenges",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "PFA_37",
+      "SetID": "1hf4dep",
+      "Name": "Merlin\u0027s Beard!",
+      "Percentage": 0.5,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_38",
+      "SetID": "1hf4dep",
+      "Name": "The Intrepid Explorer",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_39",
+      "SetID": "1hf4dep",
+      "Name": "Coasting Along",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_4",
+      "SetID": "1hf4dep",
+      "Name": "The Gryffindor in the Graveyard",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_40",
+      "SetID": "1hf4dep",
+      "Name": "Demiguise Dread",
+      "Percentage": 0.7,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_41",
+      "SetID": "1hf4dep",
+      "Name": "The Ends Petrify the Means",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_42",
+      "SetID": "1hf4dep",
+      "Name": "Raising Expectations",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "PFA_43",
+      "SetID": "1hf4dep",
+      "Name": "Finishing Touches",
+      "Percentage": 0.9,
+      "XP": 30
+    },
+    {
+      "ID": "PFA_44",
+      "SetID": "1hf4dep",
+      "Name": "The Spell Master",
+      "Percentage": 4,
+      "XP": 40
+    },
+    {
+      "ID": "PFA_45",
+      "SetID": "1hf4dep",
+      "Name": "A Forte for Achievement",
+      "Percentage": 0.7,
+      "XP": 80
+    },
+    {
+      "ID": "PFA_5",
+      "SetID": "1hf4dep",
+      "Name": "The Wise Owl",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_6",
+      "SetID": "1hf4dep",
+      "Name": "First Class Student",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PFA_7",
+      "SetID": "1hf4dep",
+      "Name": "Troll with the Punches",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_8",
+      "SetID": "1hf4dep",
+      "Name": "That\u0027s a Keeper",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PFA_9",
+      "SetID": "1hf4dep",
+      "Name": "Rising From the Ashes",
+      "Percentage": 4,
+      "XP": 15
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -1109,6 +1426,11 @@
     {
       "Time": "2023-05-04T19:00:15.1107427+00:00",
       "NumProgressed": 265477,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-04T19:15:13.6391076+00:00",
+      "NumProgressed": 265478,
       "NumCompleted": 346
     }
   ],
@@ -2890,17 +3212,27 @@
       "NumberOfAwardsMax": 18359
     }
   ],
-  "EOS_Completed_Percentage": 0.13,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 45,
+  "LastChanged_Achievements": "2023-05-04T19:15:13.6390931+00:00",
   "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1243,
   "EOS_Completed": 346,
-  "EOS_Progressed": 265477,
-  "LastUpdate_Achievements": "2023-05-04T19:00:15.1107506+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:03.0799762+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:15.110742+00:00",
+  "EOS_Progressed": 265478,
+  "LastUpdate_Achievements": "2023-05-04T19:15:13.6391523+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:00.4186612+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1hf4dep",
+      "IsBase": true,
+      "Progressed": 265478,
+      "Completed": 346
+    }
+  ],
+  "EOS_Completed_Percentage": 0.13,
   "LastChanged": "2023-05-04T17:57:11.8598576+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
+  "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18359,
   "NumberOfAwards": 33437,
@@ -2912,5 +3244,5 @@
   "Ranking_Popularity": 18,
   "Ranking_Rating": 103,
   "Rating": 4.77,
-  "FirstSeen": "2023-02-10T18:57:13.2836702+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00"
 }

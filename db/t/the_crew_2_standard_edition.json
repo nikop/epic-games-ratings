@@ -1,6 +1,7 @@
 {
   "ID": "599d248ca46b45a8b40a3b4e484712cb",
   "Name": "The Crew 2 Standard Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -2676,14 +2677,18 @@
       "NumberOfAwardsMax": 415
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:44.478124+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:13.4642649+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:11.673903+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:59:53.1516019+00:00",
+  "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 415,
   "NumberOfAwards": 2886,
@@ -2695,6 +2700,5 @@
   "Ranking_PopularitySum": 152,
   "Ranking_Popularity": 192,
   "Ranking_Rating": 272,
-  "Rating": 4.66,
-  "FirstSeen": "2022-07-22T20:24:02.2131047+00:00"
+  "Rating": 4.66
 }

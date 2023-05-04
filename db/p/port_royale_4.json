@@ -1,6 +1,358 @@
 {
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
+  "Achievements": [
+    {
+      "ID": "ACH000",
+      "SetID": "69nfp41",
+      "Name": "Cabin boy",
+      "Percentage": 80,
+      "XP": 10
+    },
+    {
+      "ID": "ACH001",
+      "SetID": "69nfp41",
+      "Name": "Seafarer",
+      "Percentage": 54,
+      "XP": 20
+    },
+    {
+      "ID": "ACH002",
+      "SetID": "69nfp41",
+      "Name": "Conquistador",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "ACH003",
+      "SetID": "69nfp41",
+      "Name": "Buccaneer",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH004",
+      "SetID": "69nfp41",
+      "Name": "Flying Dutchman",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "ACH005",
+      "SetID": "69nfp41",
+      "Name": "Premier Ma\u00EEtre",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH006",
+      "SetID": "69nfp41",
+      "Name": "Supreme conqueror",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ACH007",
+      "SetID": "69nfp41",
+      "Name": "My little farm",
+      "Percentage": 65,
+      "XP": 10
+    },
+    {
+      "ID": "ACH008",
+      "SetID": "69nfp41",
+      "Name": "Maker",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH009",
+      "SetID": "69nfp41",
+      "Name": "Capitalist",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "ACH010",
+      "SetID": "69nfp41",
+      "Name": "Conglomerate",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH011",
+      "SetID": "69nfp41",
+      "Name": "Intangible",
+      "Percentage": 41,
+      "XP": 20
+    },
+    {
+      "ID": "ACH012",
+      "SetID": "69nfp41",
+      "Name": "3, 2, 1, mine",
+      "Percentage": 55,
+      "XP": 10
+    },
+    {
+      "ID": "ACH013",
+      "SetID": "69nfp41",
+      "Name": "In a mint condition",
+      "Percentage": 38,
+      "XP": 10
+    },
+    {
+      "ID": "ACH014",
+      "SetID": "69nfp41",
+      "Name": "Christening",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "ACH015",
+      "SetID": "69nfp41",
+      "Name": "Groundskeeper",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "ACH016",
+      "SetID": "69nfp41",
+      "Name": "Administrator",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "ACH017",
+      "SetID": "69nfp41",
+      "Name": "Pearly gates",
+      "Percentage": 17,
+      "XP": 20
+    },
+    {
+      "ID": "ACH018",
+      "SetID": "69nfp41",
+      "Name": "The Grande Bouffe",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "ACH019",
+      "SetID": "69nfp41",
+      "Name": "Just a scratch",
+      "Percentage": 10,
+      "XP": 20
+    },
+    {
+      "ID": "ACH020",
+      "SetID": "69nfp41",
+      "Name": "Strategist",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH021",
+      "SetID": "69nfp41",
+      "Name": "Collectionitis",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "ACH022",
+      "SetID": "69nfp41",
+      "Name": "Fleet Admiral",
+      "Percentage": 0.8,
+      "XP": 30
+    },
+    {
+      "ID": "ACH023",
+      "SetID": "69nfp41",
+      "Name": "Gofer",
+      "Percentage": 55,
+      "XP": 10
+    },
+    {
+      "ID": "ACH024",
+      "SetID": "69nfp41",
+      "Name": "The customer is always right",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "ACH025",
+      "SetID": "69nfp41",
+      "Name": "My precious!",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "ACH026",
+      "SetID": "69nfp41",
+      "Name": "Raiders of the Lost Ark",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "ACH027",
+      "SetID": "69nfp41",
+      "Name": "I\u0027m out of here for a while",
+      "Percentage": 39,
+      "XP": 10
+    },
+    {
+      "ID": "ACH028",
+      "SetID": "69nfp41",
+      "Name": "Traffic chaos",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "ACH029",
+      "SetID": "69nfp41",
+      "Name": "Licence to Kill",
+      "Percentage": 35,
+      "XP": 10
+    },
+    {
+      "ID": "ACH030",
+      "SetID": "69nfp41",
+      "Name": "Walk the plank",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "ACH031",
+      "SetID": "69nfp41",
+      "Name": "Parlay?",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "ACH032",
+      "SetID": "69nfp41",
+      "Name": "Pirates!",
+      "Percentage": 35,
+      "XP": 10
+    },
+    {
+      "ID": "ACH033",
+      "SetID": "69nfp41",
+      "Name": "A true pirate!",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "ACH034",
+      "SetID": "69nfp41",
+      "Name": "Panic buying",
+      "Percentage": 12,
+      "XP": 30
+    },
+    {
+      "ID": "ACH035",
+      "SetID": "69nfp41",
+      "Name": "All mine!",
+      "Percentage": 9,
+      "XP": 30
+    },
+    {
+      "ID": "ACH036",
+      "SetID": "69nfp41",
+      "Name": "Every beginning is difficult",
+      "Percentage": 62,
+      "XP": 10
+    },
+    {
+      "ID": "ACH037",
+      "SetID": "69nfp41",
+      "Name": "Paths of Glory",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "ACH038",
+      "SetID": "69nfp41",
+      "Name": "O Captain! My Captain!",
+      "Percentage": 53,
+      "XP": 10
+    },
+    {
+      "ID": "ACH039",
+      "SetID": "69nfp41",
+      "Name": "Panel of experts",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH040",
+      "SetID": "69nfp41",
+      "Name": "Master \u0026 Commander",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "ACH041",
+      "SetID": "69nfp41",
+      "Name": "Davy Jones\u0027 locker",
+      "Percentage": 0.4,
+      "XP": 30
+    },
+    {
+      "ID": "ACH042",
+      "SetID": "69nfp41",
+      "Name": "All aboard!",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACH043",
+      "SetID": "69nfp41",
+      "Name": "Your vessel, my vessel",
+      "Percentage": 10,
+      "XP": 30
+    },
+    {
+      "ID": "ACH044",
+      "SetID": "69nfp41",
+      "Name": "Greed for gold",
+      "Percentage": 42,
+      "XP": 10
+    },
+    {
+      "ID": "ACH045",
+      "SetID": "69nfp41",
+      "Name": "Gold fever",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACH046",
+      "SetID": "69nfp41",
+      "Name": "Fill it up, please!",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "ACH047",
+      "SetID": "69nfp41",
+      "Name": "Overpopulation",
+      "Percentage": 4,
+      "XP": 40
+    },
+    {
+      "ID": "ACH048",
+      "SetID": "69nfp41",
+      "Name": "Megalomania",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "ACH049",
+      "SetID": "69nfp41",
+      "Name": "Wholesale",
+      "Percentage": 23,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -297,16 +649,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 50,
+  "LastChanged_Achievements": "2023-05-04T19:18:38.5619943+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 17,
   "EOS_Completed": 0,
   "EOS_Progressed": 511,
-  "LastUpdate_Achievements": "2023-05-04T19:03:45.4491886+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:05.2906582+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:45.4491853+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:38.5620455+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:04.0288306+00:00",
+  "AchievementSets": [
+    {
+      "ID": "69nfp41",
+      "IsBase": true,
+      "Progressed": 511,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T13:57:11.7782921+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
+  "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 53,
@@ -318,5 +680,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 879,
   "Rating": 3.99,
-  "FirstSeen": "2022-07-22T20:21:17.2612999+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00"
 }

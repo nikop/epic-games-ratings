@@ -4,7 +4,77 @@ Number of Ratings: 62  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 464)  
-Diff (max vs sum): -5
+Diff (max vs sum): -5  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| On My Own Two Feet | 94.00 |
+| I'll Be Back | 84.00 |
+| Sorry, I Dropped This | 77.00 |
+| First Day on the Job | 76.00 |
+| Butcher's Bill | 55.00 |
+| P.A.X | 37.00 |
+| Hey Listen | 36.00 |
+| OPERATOR | 35.00 |
+| It's Blue Light | 33.00 |
+| Most Wanted | 26.00 |
+| Infidel | 23.00 |
+| GOLIATH | 21.00 |
+| Firebug | 20.00 |
+| I Choose You | 17.00 |
+| Nothing to Lose | 17.00 |
+| Big Sister | 15.00 |
+| Gear Up | 15.00 |
+| SENTINEL | 15.00 |
+| The Black Cerberus | 12.00 |
+| Watchman | 12.00 |
+| Core Power | 12.00 |
+| CREO Killed the Video Star | 11.00 |
+| Who's in Charge Here? | 11.00 |
+| Shall Not Pass | 10.00 |
+| Right Tool for the Job | 10.00 |
+| Raging Drones | 9.00 |
+| Overconfident | 9.00 |
+| Pusher Man | 8.00 |
+| Melting Down | 8.00 |
+| Squad Chief Helvig | 8.00 |
+| No More Marching | 8.00 |
+| Is This Real Life? | 8.00 |
+| Duty-Bound | 7.00 |
+| Follow the White Rabbit | 7.00 |
+| Liberation | 7.00 |
+| Risk Assessment | 7.00 |
+| Sunglasses at Night | 6.00 |
+| Carbon Cat | 6.00 |
+| It Lives! It Sniffs! It Conquers! | 5.00 |
+| Man of Steel | 5.00 |
+| Jack of All Trades | 5.00 |
+| 3-2-1 | 5.00 |
+| Rusty Rat | 4.00 |
+| Desecration | 4.00 |
+| For the Good of Mankind | 3.00 |
+| Turing Test | 3.00 |
+| Repeat Customer | 3.00 |
+| Evolution Theory | 3.00 |
+| Ghost in the Machine | 2.00 |
+| Was That Yours? | 2.00 |
+| Guard Dog | 2.00 |
+| Carbon Cat vs Iron Maus | 2.00 |
+| Dress Up | 2.00 |
+| New Gear | 2.00 |
+| Good Listener | 2.00 |
+| One-Armed Bandit | 2.00 |
+| Episodic | 2.00 |
+| End of Transmission | 2.00 |
+| Gramophone Enthusiast | 2.00 |
+| Homo Machinalis | 1.00 |
+| Bling-Bling | 1.00 |
+| Sniffing Around | 0.70 |
+| Suited and Booted | 0.70 |
+| Tools of War | 0.70 |
+| Modus Operandi | 0.60 |
+| Brave New World | 0.50 |
+| The Surge | 0.40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,204 (Ranked 124)  
 Completed: 13 (0.31%) (Ranked 116)  

@@ -1,6 +1,7 @@
 {
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
@@ -314,17 +315,27 @@
       "NumberOfAwardsMax": 20
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:17:35.0937163+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:10.8025161+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:05.2984861+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:10.802514+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:35.09372+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:02.4605149+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7l554mo",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-23T14:58:18.1038026+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
+  "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "MaxAwardTitle": "Playful Visuals",
   "NumberOfAwardsMax": 20,
   "NumberOfAwards": 20,
@@ -337,5 +348,5 @@
   "Ranking_Popularity": 482,
   "Ranking_Rating": 663,
   "Rating": 4.4,
-  "FirstSeen": "2022-07-22T20:30:43.3276462+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00"
 }

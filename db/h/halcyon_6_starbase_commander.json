@@ -1,6 +1,7 @@
 {
   "ID": "3dd7b519d7ab4631ae96d3efa8588514",
   "Name": "Halcyon 6 Starbase Commander",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -346,14 +347,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T18:59:58.1885065+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:42.3065647+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:41.4645604+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:08.0313989+00:00",
+  "FirstSeen": "2022-07-22T20:18:35.8946593+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 146,
@@ -364,6 +369,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 599,
-  "Rating": 4.45,
-  "FirstSeen": "2022-07-22T20:18:35.8946593+00:00"
+  "Rating": 4.45
 }

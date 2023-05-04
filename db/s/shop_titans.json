@@ -1,6 +1,792 @@
 {
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
+  "Achievements": [
+    {
+      "ID": "advlevel01",
+      "SetID": "anfd17p",
+      "Name": "The Daily Grind",
+      "Percentage": 46,
+      "XP": 5
+    },
+    {
+      "ID": "advlevel02",
+      "SetID": "anfd17p",
+      "Name": "On the Path to Greatness",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "advlevel03",
+      "SetID": "anfd17p",
+      "Name": "A Notch Above the Rest",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "advlevel04",
+      "SetID": "anfd17p",
+      "Name": "Cream of the Crop",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "advlevel05",
+      "SetID": "anfd17p",
+      "Name": "Top of the World",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "argon_a",
+      "SetID": "anfd17p",
+      "Name": "Proud Paladin",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ascend01",
+      "SetID": "anfd17p",
+      "Name": "Ascended",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "ascend02",
+      "SetID": "anfd17p",
+      "Name": "Above the Norm",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "ascend03",
+      "SetID": "anfd17p",
+      "Name": "Constellated",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ashley_a",
+      "SetID": "anfd17p",
+      "Name": "A Ronin Reborn",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "bigsale01",
+      "SetID": "anfd17p",
+      "Name": "One Easy Payment",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "bigsale02",
+      "SetID": "anfd17p",
+      "Name": "Tax not Included",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "bigsale03",
+      "SetID": "anfd17p",
+      "Name": "The King\u0027s Caprice",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "blueprint01",
+      "SetID": "anfd17p",
+      "Name": "Some Assembly Required",
+      "Percentage": 59,
+      "XP": 5
+    },
+    {
+      "ID": "blueprint02",
+      "SetID": "anfd17p",
+      "Name": "Research \u0026 Development",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "blueprint03",
+      "SetID": "anfd17p",
+      "Name": "Thirst for Knowledge",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "bookentry",
+      "SetID": "anfd17p",
+      "Name": "Vanity, Verily",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "boss01",
+      "SetID": "anfd17p",
+      "Name": "Bounty Hunters",
+      "Percentage": 44,
+      "XP": 5
+    },
+    {
+      "ID": "boss02",
+      "SetID": "anfd17p",
+      "Name": "Big Game Hunting",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "boss03",
+      "SetID": "anfd17p",
+      "Name": "Bane of Legends",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "champions01",
+      "SetID": "anfd17p",
+      "Name": "Fated Encounters",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "chest01",
+      "SetID": "anfd17p",
+      "Name": "Sponsored by Argon",
+      "Percentage": 97,
+      "XP": 5
+    },
+    {
+      "ID": "chest02",
+      "SetID": "anfd17p",
+      "Name": "For the Hoard!",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "chest03",
+      "SetID": "anfd17p",
+      "Name": "Booty by the Boatload",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "collection01",
+      "SetID": "anfd17p",
+      "Name": "Blank Page Syndrome",
+      "Percentage": 27,
+      "XP": 5
+    },
+    {
+      "ID": "collection02",
+      "SetID": "anfd17p",
+      "Name": "Scrapbooker",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "collection03",
+      "SetID": "anfd17p",
+      "Name": "Archivist",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "collection04",
+      "SetID": "anfd17p",
+      "Name": "The Free Encyclopedia",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "collection05",
+      "SetID": "anfd17p",
+      "Name": "Ultimate Collector",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "commonres01",
+      "SetID": "anfd17p",
+      "Name": "Basic in Bulk",
+      "Percentage": 91,
+      "XP": 5
+    },
+    {
+      "ID": "commonres02",
+      "SetID": "anfd17p",
+      "Name": "Demand for Supplies",
+      "Percentage": 39,
+      "XP": 10
+    },
+    {
+      "ID": "commonres03",
+      "SetID": "anfd17p",
+      "Name": "Locally Sourced",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "commonres04",
+      "SetID": "anfd17p",
+      "Name": "Fillin\u0027 the Bin",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "craft01",
+      "SetID": "anfd17p",
+      "Name": "Disintermediation",
+      "Percentage": 76,
+      "XP": 5
+    },
+    {
+      "ID": "craft02",
+      "SetID": "anfd17p",
+      "Name": "Flooding the Market",
+      "Percentage": 41,
+      "XP": 10
+    },
+    {
+      "ID": "craft03",
+      "SetID": "anfd17p",
+      "Name": "Flying off the Shelves",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "craft04",
+      "SetID": "anfd17p",
+      "Name": "Industrial Evolution",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "craft05",
+      "SetID": "anfd17p",
+      "Name": "Oligarch Monarch",
+      "Percentage": 0.9,
+      "XP": 10
+    },
+    {
+      "ID": "damage01",
+      "SetID": "anfd17p",
+      "Name": "Where it Hurts",
+      "Percentage": 43,
+      "XP": 5
+    },
+    {
+      "ID": "damage02",
+      "SetID": "anfd17p",
+      "Name": "This Power Level...!",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "damage03",
+      "SetID": "anfd17p",
+      "Name": "Omae wa Mou Shindeiru",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "donovan_a",
+      "SetID": "anfd17p",
+      "Name": "Master of Transmutation",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "enchant01",
+      "SetID": "anfd17p",
+      "Name": "Hidden Potential",
+      "Percentage": 12,
+      "XP": 5
+    },
+    {
+      "ID": "enchant02",
+      "SetID": "anfd17p",
+      "Name": "Unleashed Potential",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "energy01",
+      "SetID": "anfd17p",
+      "Name": "Another Satisfied Customer",
+      "Percentage": 61,
+      "XP": 5
+    },
+    {
+      "ID": "energy02",
+      "SetID": "anfd17p",
+      "Name": "Power of Love",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "energy03",
+      "SetID": "anfd17p",
+      "Name": "Supercharged",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "expansion01",
+      "SetID": "anfd17p",
+      "Name": "It\u0027s Free Real Estate",
+      "Percentage": 70,
+      "XP": 5
+    },
+    {
+      "ID": "expansion02",
+      "SetID": "anfd17p",
+      "Name": "Expansion in Session",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "expansion03",
+      "SetID": "anfd17p",
+      "Name": "Thank You Tom Nook",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "fullmoon",
+      "SetID": "anfd17p",
+      "Name": "Ritualist",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "furniture01",
+      "SetID": "anfd17p",
+      "Name": "Efficient Floor Space",
+      "Percentage": 27,
+      "XP": 5
+    },
+    {
+      "ID": "furniture02",
+      "SetID": "anfd17p",
+      "Name": "Cranked up to 11",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "furniture03",
+      "SetID": "anfd17p",
+      "Name": "Fit for a King",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "fuseepic",
+      "SetID": "anfd17p",
+      "Name": "By Your Powers Combined...",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "fuseflawless",
+      "SetID": "anfd17p",
+      "Name": "Flawless Fusion",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "fuselegendary",
+      "SetID": "anfd17p",
+      "Name": "A Legend is Born",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "fuseuncommon",
+      "SetID": "anfd17p",
+      "Name": "Trash to Treasure",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "gemsspent",
+      "SetID": "anfd17p",
+      "Name": "Gem Expert",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "gold01",
+      "SetID": "anfd17p",
+      "Name": "Tinkle of Coins",
+      "Percentage": 87,
+      "XP": 5
+    },
+    {
+      "ID": "gold02",
+      "SetID": "anfd17p",
+      "Name": "Pretty Penny",
+      "Percentage": 57,
+      "XP": 10
+    },
+    {
+      "ID": "gold03",
+      "SetID": "anfd17p",
+      "Name": "Gild-Gotten Goods",
+      "Percentage": 37,
+      "XP": 10
+    },
+    {
+      "ID": "gold04",
+      "SetID": "anfd17p",
+      "Name": "Royal Ransom",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "gold05",
+      "SetID": "anfd17p",
+      "Name": "Mammonite",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "gold06",
+      "SetID": "anfd17p",
+      "Name": "Wealth Beyond Measure",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "help01",
+      "SetID": "anfd17p",
+      "Name": "Helping Hand",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "help02",
+      "SetID": "anfd17p",
+      "Name": "Fat Cat Tag Team",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "help03",
+      "SetID": "anfd17p",
+      "Name": "Capitalist Camaraderie",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "hemma_a",
+      "SetID": "anfd17p",
+      "Name": "Necromancer Queen",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "jackslot01",
+      "SetID": "anfd17p",
+      "Name": "One-Armed Bandit",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "jackslot02",
+      "SetID": "anfd17p",
+      "Name": "Jackpot!",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "jackslot03",
+      "SetID": "anfd17p",
+      "Name": "JACKPOT!!!",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "legenchant01",
+      "SetID": "anfd17p",
+      "Name": "Item of Renown",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "level01",
+      "SetID": "anfd17p",
+      "Name": "Budding Merchant",
+      "Percentage": 66,
+      "XP": 10
+    },
+    {
+      "ID": "level02",
+      "SetID": "anfd17p",
+      "Name": "Accomplished Merchant",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "level03",
+      "SetID": "anfd17p",
+      "Name": "Master Merchant",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "level04",
+      "SetID": "anfd17p",
+      "Name": "Merchant Extraordinaire",
+      "Percentage": 0.5,
+      "XP": 10
+    },
+    {
+      "ID": "lilu_a",
+      "SetID": "anfd17p",
+      "Name": "Miracle Alchemist",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "loot01",
+      "SetID": "anfd17p",
+      "Name": "Dungeon Imports",
+      "Percentage": 43,
+      "XP": 5
+    },
+    {
+      "ID": "loot02",
+      "SetID": "anfd17p",
+      "Name": "Laden with Loot",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "loot03",
+      "SetID": "anfd17p",
+      "Name": "Bountiful Harvest",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "loot04",
+      "SetID": "anfd17p",
+      "Name": "Anything not Nailed Down",
+      "Percentage": 0.9,
+      "XP": 10
+    },
+    {
+      "ID": "master01",
+      "SetID": "anfd17p",
+      "Name": "Through Repetition, Perfection",
+      "Percentage": 47,
+      "XP": 5
+    },
+    {
+      "ID": "master02",
+      "SetID": "anfd17p",
+      "Name": "Natural 20",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "master03",
+      "SetID": "anfd17p",
+      "Name": "Seasoned Journeyman",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "master04",
+      "SetID": "anfd17p",
+      "Name": "Precision Engineering",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "master05",
+      "SetID": "anfd17p",
+      "Name": "The Greatest Grind",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "masterpiece",
+      "SetID": "anfd17p",
+      "Name": "All or Nothing!",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "polonia_a",
+      "SetID": "anfd17p",
+      "Name": "Scourge of the Seas",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "quest01",
+      "SetID": "anfd17p",
+      "Name": "Did we pack lunch?",
+      "Percentage": 35,
+      "XP": 5
+    },
+    {
+      "ID": "quest02",
+      "SetID": "anfd17p",
+      "Name": "Attrition Mission",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "quest03",
+      "SetID": "anfd17p",
+      "Name": "Eternal Crusade",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "quest04",
+      "SetID": "anfd17p",
+      "Name": "To Hell and Back",
+      "Percentage": 0.5,
+      "XP": 10
+    },
+    {
+      "ID": "rareres01",
+      "SetID": "anfd17p",
+      "Name": "Glittering Collection",
+      "Percentage": 9,
+      "XP": 5
+    },
+    {
+      "ID": "rareres02",
+      "SetID": "anfd17p",
+      "Name": "Treasure Trove",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "rareres03",
+      "SetID": "anfd17p",
+      "Name": "Marvels from the World Over",
+      "Percentage": 0.8,
+      "XP": 10
+    },
+    {
+      "ID": "rudo_a",
+      "SetID": "anfd17p",
+      "Name": "Moment of Respite",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "sell01",
+      "SetID": "anfd17p",
+      "Name": "Capitalism Ho!",
+      "Percentage": 75,
+      "XP": 5
+    },
+    {
+      "ID": "sell02",
+      "SetID": "anfd17p",
+      "Name": "Black Friday Special",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "sell03",
+      "SetID": "anfd17p",
+      "Name": "Cash Only Please",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "sia_a",
+      "SetID": "anfd17p",
+      "Name": "King\u0027s Shadow",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "transmuter",
+      "SetID": "anfd17p",
+      "Name": "Master Recycler",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "tutorial",
+      "SetID": "anfd17p",
+      "Name": "Titan\u0027s First Steps",
+      "Percentage": 96,
+      "XP": 5
+    },
+    {
+      "ID": "twinenchant01",
+      "SetID": "anfd17p",
+      "Name": "Magical Harmony",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "typeunlock01",
+      "SetID": "anfd17p",
+      "Name": "All Accounted For",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "uncommonres01",
+      "SetID": "anfd17p",
+      "Name": "Special Ingredient",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "uncommonres02",
+      "SetID": "anfd17p",
+      "Name": "Exotic Commodities",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "uncommonres03",
+      "SetID": "anfd17p",
+      "Name": "Economy of Scarce",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "workers01",
+      "SetID": "anfd17p",
+      "Name": "Own the Means of Production",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "workers02",
+      "SetID": "anfd17p",
+      "Name": "Arcane Industries",
+      "Percentage": 34,
+      "XP": 10
+    },
+    {
+      "ID": "workers03",
+      "SetID": "anfd17p",
+      "Name": "Complete Monopoly",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "yami_a",
+      "SetID": "anfd17p",
+      "Name": "King\u0027s Blade",
+      "Percentage": 3,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -4846,16 +5632,26 @@
       "NumberOfAwardsMax": 4551
     }
   ],
-  "EOS_Completed_Percentage": 0.06,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 112,
+  "LastChanged_Achievements": "2023-05-04T19:17:25.2206095+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 532,
   "EOS_Completed": 76,
   "EOS_Progressed": 127528,
-  "LastUpdate_Achievements": "2023-05-04T19:02:19.5859262+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:58.9418024+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:19.585919+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:25.2207533+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:57.1284379+00:00",
+  "AchievementSets": [
+    {
+      "ID": "anfd17p",
+      "IsBase": true,
+      "Progressed": 127528,
+      "Completed": 76
+    }
+  ],
+  "EOS_Completed_Percentage": 0.06,
   "LastChanged": "2023-05-04T08:57:55.3147876+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
+  "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 4551,
   "NumberOfAwards": 26504,
@@ -4868,5 +5664,5 @@
   "Ranking_Popularity": 66,
   "Ranking_Rating": 882,
   "Rating": 3.98,
-  "FirstSeen": "2022-07-22T20:18:09.8321215+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00"
 }

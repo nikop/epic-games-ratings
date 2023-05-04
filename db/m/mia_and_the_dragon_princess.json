@@ -1,6 +1,134 @@
 {
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
+  "Achievements": [
+    {
+      "ID": "a_box_of_tricks",
+      "SetID": "5anb57n",
+      "Name": "A Box of Tricks",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "backstory_buff",
+      "SetID": "5anb57n",
+      "Name": "Backstory Buff",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "bathroom_brawler",
+      "SetID": "5anb57n",
+      "Name": "Bathroom Brawler",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "breathless_end",
+      "SetID": "5anb57n",
+      "Name": "Breathless End",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "codebreaker",
+      "SetID": "5anb57n",
+      "Name": "Codebreaker",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "escape_artist",
+      "SetID": "5anb57n",
+      "Name": "Escape Artist",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "explosive_end",
+      "SetID": "5anb57n",
+      "Name": "Explosive End",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "finger_lickin_bad",
+      "SetID": "5anb57n",
+      "Name": "Finger-Lickin\u0027 Bad",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "flying_high",
+      "SetID": "5anb57n",
+      "Name": "Flying High",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "fools_gold",
+      "SetID": "5anb57n",
+      "Name": "Fool\u0027s Gold",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "freedum_fighter",
+      "SetID": "5anb57n",
+      "Name": "Freedum Fighter",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "glass_act",
+      "SetID": "5anb57n",
+      "Name": "Glass Act",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "key_keepers_curse",
+      "SetID": "5anb57n",
+      "Name": "Key Keeper\u0027s Curse",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "puzzle_prodigy",
+      "SetID": "5anb57n",
+      "Name": "Puzzle Prodigy",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "relight_my_cannon",
+      "SetID": "5anb57n",
+      "Name": "Relight my Cannon",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "set_sail",
+      "SetID": "5anb57n",
+      "Name": "Set Sail",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "snitch",
+      "SetID": "5anb57n",
+      "Name": "Snitch",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "tour_guide_extraordinaire",
+      "SetID": "5anb57n",
+      "Name": "Tour Guide Extraordinaire",
+      "Percentage": 17,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -30,17 +158,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 18,
+  "LastChanged_Achievements": "2023-05-04T19:18:19.537589+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T19:03:25.2232451+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:44.5273473+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:25.2232418+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:19.5376012+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:43.6672722+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5anb57n",
+      "IsBase": true,
+      "Progressed": 6,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 314
+  "Ranking_EOS_Progress": 314,
+  "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00"
 }

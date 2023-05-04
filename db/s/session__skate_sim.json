@@ -1,6 +1,344 @@
 {
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
+  "Achievements": [
+    {
+      "ID": "ACH_BACKPACKER",
+      "SetID": "72olkc5",
+      "Name": "Backpacker",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_BING-BONG",
+      "SetID": "72olkc5",
+      "Name": "Bing Bong!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_BOTTOM-PLY-KILLER",
+      "SetID": "72olkc5",
+      "Name": "Bottom ply killer",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_COMMENCE-THE-HIJINX",
+      "SetID": "72olkc5",
+      "Name": "Commence the Hijinx!",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_COPS-CALLED",
+      "SetID": "72olkc5",
+      "Name": "Cops called!",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_CROSS-LOCK-COUNTRY",
+      "SetID": "72olkc5",
+      "Name": "Cross lock country",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_DIPPED",
+      "SetID": "72olkc5",
+      "Name": "Dipped!",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_DIY-BOSS",
+      "SetID": "72olkc5",
+      "Name": "DIY Boss",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FASHIONISTA",
+      "SetID": "72olkc5",
+      "Name": "Fashionista",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FINALLY-HE-SHUTS-UP",
+      "SetID": "72olkc5",
+      "Name": "Finally he zips it",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FULFILLED-THE-DREAM",
+      "SetID": "72olkc5",
+      "Name": "Fulfilled the dream",
+      "Percentage": 5,
+      "XP": 45
+    },
+    {
+      "ID": "ACH_GDAY-MATE",
+      "SetID": "72olkc5",
+      "Name": "G\u0027Day Mate!",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_GLOBETROTTER",
+      "SetID": "72olkc5",
+      "Name": "Globetrotter",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_GO-WITH-THE-FLOW",
+      "SetID": "72olkc5",
+      "Name": "Go with the Flow",
+      "Percentage": 11,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_GOAT-STATUS",
+      "SetID": "72olkc5",
+      "Name": "G.O.A.T. status",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_GOLDEN",
+      "SetID": "72olkc5",
+      "Name": "Golden!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_GOOD-VIBES",
+      "SetID": "72olkc5",
+      "Name": "Good vibes",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_HOARDER",
+      "SetID": "72olkc5",
+      "Name": "Hoarder",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KEEP-THE-DREAM-ALIVE",
+      "SetID": "72olkc5",
+      "Name": "Keep the dream alive",
+      "Percentage": 8,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_KEEPING-IT-CLASSY",
+      "SetID": "72olkc5",
+      "Name": "Keeping it classy",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LAID-BACK",
+      "SetID": "72olkc5",
+      "Name": "Laid back",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LINES-FOR-DAYS",
+      "SetID": "72olkc5",
+      "Name": "Lines for days",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LOVES-YOU-BACK",
+      "SetID": "72olkc5",
+      "Name": "Loves You Back",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_MANNY-SLAYS-ALL",
+      "SetID": "72olkc5",
+      "Name": "Manny Destroys All",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_MANY-PLYS-LATER",
+      "SetID": "72olkc5",
+      "Name": "Many plys later...",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_NAHELL",
+      "SetID": "72olkc5",
+      "Name": "NAHELL!",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PEW-PEW",
+      "SetID": "72olkc5",
+      "Name": "Pew-Pew",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PLASTIC-SURGEON",
+      "SetID": "72olkc5",
+      "Name": "Plastic Surgeon",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PRINCE-OF-PHILLY",
+      "SetID": "72olkc5",
+      "Name": "Prince of Philly",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PURPLE-PASSION",
+      "SetID": "72olkc5",
+      "Name": "Purple passion",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_RENAISSANCE-MAN",
+      "SetID": "72olkc5",
+      "Name": "Renaissance man",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_SKATEPARK-HERO",
+      "SetID": "72olkc5",
+      "Name": "Skatepark hero",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_SQUAD-GOALS",
+      "SetID": "72olkc5",
+      "Name": "Squad goals",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_SUP-WIDDIT-BIG-DOG",
+      "SetID": "72olkc5",
+      "Name": "Sup widdit big dog!",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_TANK-COMMANDER",
+      "SetID": "72olkc5",
+      "Name": "Tank commander",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_THAT-PINCH",
+      "SetID": "72olkc5",
+      "Name": "That pinch!",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_THAT-WAS-WHEELIE-FUN",
+      "SetID": "72olkc5",
+      "Name": "That was wheelie fun",
+      "Percentage": 0.8,
+      "XP": 45
+    },
+    {
+      "ID": "ACH_THATS-HOW-ITS-DONE",
+      "SetID": "72olkc5",
+      "Name": "That\u0027s how it\u0027s done!",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
+      "SetID": "72olkc5",
+      "Name": "The finer things in life",
+      "Percentage": 16,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
+      "SetID": "72olkc5",
+      "Name": "The flip trick crown jewel",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_THE-HARD-WAY",
+      "SetID": "72olkc5",
+      "Name": "The hard way",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_TIGHT-LIPSLIDES",
+      "SetID": "72olkc5",
+      "Name": "Tight lipslides",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_TRICK-SHOT-MARKSMAN",
+      "SetID": "72olkc5",
+      "Name": "Trick shot marksman",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ULTIMATE-SKATE-NERD",
+      "SetID": "72olkc5",
+      "Name": "Ultimate skate nerd",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_UPFRONT-SHREDDER",
+      "SetID": "72olkc5",
+      "Name": "Upfront shredder",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_WE-GET-IT-YOURE-GOOD",
+      "SetID": "72olkc5",
+      "Name": "We get it, you\u0027re good",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_WELCOME-TO-THE-FAMILY",
+      "SetID": "72olkc5",
+      "Name": "Welcome to the family",
+      "Percentage": 18,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_YOURE-FREE-NOW",
+      "SetID": "72olkc5",
+      "Name": "You\u0027re free now!",
+      "Percentage": 49,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -724,16 +1062,26 @@
       "NumberOfAwardsMax": 48
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 48,
+  "LastChanged_Achievements": "2023-05-04T19:15:19.3125555+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 26,
   "EOS_Completed": 0,
   "EOS_Progressed": 1928,
-  "LastUpdate_Achievements": "2023-05-04T19:00:20.8931507+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:36.3954463+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:20.8931483+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:19.3125944+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:34.5024007+00:00",
+  "AchievementSets": [
+    {
+      "ID": "72olkc5",
+      "IsBase": true,
+      "Progressed": 1928,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:59:05.2986234+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
+  "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 48,
   "NumberOfAwards": 403,
@@ -746,5 +1094,5 @@
   "Ranking_Popularity": 391,
   "Ranking_Rating": 272,
   "Rating": 4.66,
-  "FirstSeen": "2022-07-22T20:29:58.6746014+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00"
 }

@@ -1,6 +1,344 @@
 {
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "6m1k8ai",
+      "Name": "Start of a Journey",
+      "Percentage": 80,
+      "XP": 5
+    },
+    {
+      "ID": "10",
+      "SetID": "6m1k8ai",
+      "Name": "A Dangerous Road",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "11",
+      "SetID": "6m1k8ai",
+      "Name": "Scorched Ruins",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "12",
+      "SetID": "6m1k8ai",
+      "Name": "City of Illusion",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "13",
+      "SetID": "6m1k8ai",
+      "Name": "Kill the Flames",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "14",
+      "SetID": "6m1k8ai",
+      "Name": "Find the Light",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "15",
+      "SetID": "6m1k8ai",
+      "Name": "Fight and Overcome",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "16",
+      "SetID": "6m1k8ai",
+      "Name": "A Walk to the End",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "17",
+      "SetID": "6m1k8ai",
+      "Name": "The Final Test",
+      "Percentage": 20,
+      "XP": 25
+    },
+    {
+      "ID": "18",
+      "SetID": "6m1k8ai",
+      "Name": "A Journey\u0027s End",
+      "Percentage": 20,
+      "XP": 5
+    },
+    {
+      "ID": "19",
+      "SetID": "6m1k8ai",
+      "Name": "A Stone Left Unturned",
+      "Percentage": 20,
+      "XP": 45
+    },
+    {
+      "ID": "2",
+      "SetID": "6m1k8ai",
+      "Name": "Escape the Maze",
+      "Percentage": 40,
+      "XP": 5
+    },
+    {
+      "ID": "20",
+      "SetID": "6m1k8ai",
+      "Name": "No End is Eternal",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "21",
+      "SetID": "6m1k8ai",
+      "Name": "Tranquility/Resilience",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "22",
+      "SetID": "6m1k8ai",
+      "Name": "Recovery/Imagination",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "23",
+      "SetID": "6m1k8ai",
+      "Name": "Infatuation/Strength",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "24",
+      "SetID": "6m1k8ai",
+      "Name": "Love/Indulgence",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "25",
+      "SetID": "6m1k8ai",
+      "Name": "Celibacy/Delicacy",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "26",
+      "SetID": "6m1k8ai",
+      "Name": "Innocence/Transformation",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "27",
+      "SetID": "6m1k8ai",
+      "Name": "A thing of beauty",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "28",
+      "SetID": "6m1k8ai",
+      "Name": "Constellation of Beauty",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "29",
+      "SetID": "6m1k8ai",
+      "Name": "Quickstart to a Journey",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "3",
+      "SetID": "6m1k8ai",
+      "Name": "Brace the cold",
+      "Percentage": 80,
+      "XP": 5
+    },
+    {
+      "ID": "30",
+      "SetID": "6m1k8ai",
+      "Name": "Race the Maze",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "31",
+      "SetID": "6m1k8ai",
+      "Name": "A chilly jog",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "32",
+      "SetID": "6m1k8ai",
+      "Name": "Run the road",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "33",
+      "SetID": "6m1k8ai",
+      "Name": "Sweat, Sweat, Sweat",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "34",
+      "SetID": "6m1k8ai",
+      "Name": "A Quick Solver",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "35",
+      "SetID": "6m1k8ai",
+      "Name": "Fast and Careful",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "36",
+      "SetID": "6m1k8ai",
+      "Name": "Labyrinths of Time",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "37",
+      "SetID": "6m1k8ai",
+      "Name": "A Cold Drill",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "38",
+      "SetID": "6m1k8ai",
+      "Name": "A Dangerous Run",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "39",
+      "SetID": "6m1k8ai",
+      "Name": "Sprint of Fire",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "4",
+      "SetID": "6m1k8ai",
+      "Name": "A Long Walk",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "40",
+      "SetID": "6m1k8ai",
+      "Name": "Quick City Trip",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "41",
+      "SetID": "6m1k8ai",
+      "Name": "Flames of Haste",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "42",
+      "SetID": "6m1k8ai",
+      "Name": "Chase the Light",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "43",
+      "SetID": "6m1k8ai",
+      "Name": "Exercising in the Cold",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "44",
+      "SetID": "6m1k8ai",
+      "Name": "Rev your engines",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "45",
+      "SetID": "6m1k8ai",
+      "Name": "The Final Race",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "46",
+      "SetID": "6m1k8ai",
+      "Name": "A Speedy Journey",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "47",
+      "SetID": "6m1k8ai",
+      "Name": "A Quick Secret",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "48",
+      "SetID": "6m1k8ai",
+      "Name": "A Complete Journey",
+      "Percentage": 0,
+      "XP": 65
+    },
+    {
+      "ID": "5",
+      "SetID": "6m1k8ai",
+      "Name": "Dont mind the heat",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "6",
+      "SetID": "6m1k8ai",
+      "Name": "City of Puzzles",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "7",
+      "SetID": "6m1k8ai",
+      "Name": "This field of danger",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "8",
+      "SetID": "6m1k8ai",
+      "Name": "Labyrinths of the Mind",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "9",
+      "SetID": "6m1k8ai",
+      "Name": "A Terrifying Blizzard",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -15,17 +353,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 48,
+  "LastChanged_Achievements": "2023-05-04T19:17:32.8151586+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T19:02:27.955791+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:57.3544074+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:27.9557886+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:32.8152015+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:55.3795415+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6m1k8ai",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 321
+  "Ranking_EOS_Progress": 321,
+  "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "d06d0271a51d400c870f668d7e80e980",
   "Name": "Revita",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -41,15 +42,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:44.2537447+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:13.8098633+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:12.3730037+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-23T21:57:22.0608286+00:00",
   "FirstSeenRating": "2022-07-30T11:31:49.5619799+00:00",
+  "FirstSeen": "2022-07-22T20:23:32.7569046+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 23,
@@ -60,6 +65,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 233,
-  "Rating": 4.68,
-  "FirstSeen": "2022-07-22T20:23:32.7569046+00:00"
+  "Rating": 4.68
 }

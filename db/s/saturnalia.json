@@ -1,6 +1,148 @@
 {
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
+  "Achievements": [
+    {
+      "ID": "ACH_ANITAMISSION",
+      "SetID": "6ccjg6f",
+      "Name": "Denial",
+      "Percentage": 2,
+      "XP": 105
+    },
+    {
+      "ID": "ACH_BONFIRES",
+      "SetID": "6ccjg6f",
+      "Name": "Bonfire Lit",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_CHURCHCANDLES",
+      "SetID": "6ccjg6f",
+      "Name": "Bless me Father...",
+      "Percentage": 0.8,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_CLAUDIAMISSION",
+      "SetID": "6ccjg6f",
+      "Name": "Anger",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_COBRACOLA",
+      "SetID": "6ccjg6f",
+      "Name": "Soda addiction",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_FIRECRACKERS",
+      "SetID": "6ccjg6f",
+      "Name": "Ear Ringing",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_FLASHCREATURE",
+      "SetID": "6ccjg6f",
+      "Name": "Paparazzi",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_FRIENDSHIPPOWER",
+      "SetID": "6ccjg6f",
+      "Name": "Power of Friendship",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LIGHTMINES",
+      "SetID": "6ccjg6f",
+      "Name": "Let there be light",
+      "Percentage": 0.4,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_MATCHES",
+      "SetID": "6ccjg6f",
+      "Name": "Fear Of The Dark",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_MOUTHTRUTH",
+      "SetID": "6ccjg6f",
+      "Name": "Silent Advisor",
+      "Percentage": 0.5,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PAULMISSION",
+      "SetID": "6ccjg6f",
+      "Name": "Acceptance",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_PHONECAPTURE",
+      "SetID": "6ccjg6f",
+      "Name": "Are you still there?",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PHONEGATHER",
+      "SetID": "6ccjg6f",
+      "Name": "Phone Bill",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_READCLUES",
+      "SetID": "6ccjg6f",
+      "Name": "Detective of the occult",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_RESCUECHARACTER",
+      "SetID": "6ccjg6f",
+      "Name": "Chain Breaker",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_SERGIOMISSION",
+      "SetID": "6ccjg6f",
+      "Name": "Depression",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_STAMINA",
+      "SetID": "6ccjg6f",
+      "Name": "Out of Shape",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_TECLAMISSION",
+      "SetID": "6ccjg6f",
+      "Name": "Bargaining",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_TOOLS",
+      "SetID": "6ccjg6f",
+      "Name": "Survival Expert",
+      "Percentage": 3,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -777,6 +919,11 @@
       "Time": "2023-05-04T17:01:21.6375011+00:00",
       "NumProgressed": 63088,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-04T19:15:24.9387836+00:00",
+      "NumProgressed": 63089,
+      "NumCompleted": 10
     }
   ],
   "RatingHistory": [
@@ -993,26 +1140,36 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.02,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 20,
+  "LastChanged_Achievements": "2023-05-04T19:15:24.938783+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 288,
   "EOS_Completed": 10,
-  "EOS_Progressed": 63088,
-  "LastUpdate_Achievements": "2023-05-04T19:00:26.8332854+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:15.1626796+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:26.8332786+00:00",
+  "EOS_Progressed": 63089,
+  "LastUpdate_Achievements": "2023-05-04T19:15:24.9388033+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:14.0151988+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6ccjg6f",
+      "IsBase": true,
+      "Progressed": 63089,
+      "Completed": 10
+    }
+  ],
+  "EOS_Completed_Percentage": 0.02,
   "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
+  "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 64,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 780,
   "Rating": 4.24,
-  "FirstSeen": "2022-10-27T20:01:05.7341953+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00"
 }

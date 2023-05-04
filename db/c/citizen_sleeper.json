@@ -1,6 +1,7 @@
 {
   "ID": "e4ef0c8c500a41eaa57c53d32410595d",
   "Name": "Citizen Sleeper",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -130,14 +131,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:08.7349229+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:10.9813541+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:09.6997617+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-22T20:58:30.5147665+00:00",
+  "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 34,
@@ -148,6 +153,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 59,
-  "Rating": 4.82,
-  "FirstSeen": "2022-07-22T20:29:38.6644605+00:00"
+  "Rating": 4.82
 }

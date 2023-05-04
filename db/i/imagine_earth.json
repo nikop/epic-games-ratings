@@ -1,6 +1,176 @@
 {
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
+  "Achievements": [
+    {
+      "ID": "Builder",
+      "SetID": "c2k469b",
+      "Name": "Builder",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "CampaignStars1",
+      "SetID": "c2k469b",
+      "Name": "Campaign Bronze",
+      "Percentage": 36,
+      "XP": 30
+    },
+    {
+      "ID": "CampaignStars2",
+      "SetID": "c2k469b",
+      "Name": "Campaign Silver",
+      "Percentage": 21,
+      "XP": 40
+    },
+    {
+      "ID": "CampaignStars3",
+      "SetID": "c2k469b",
+      "Name": "Campaign Gold",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "CampaignStars4",
+      "SetID": "c2k469b",
+      "Name": "Campaign Titanium",
+      "Percentage": 5,
+      "XP": 60
+    },
+    {
+      "ID": "Competitor1",
+      "SetID": "c2k469b",
+      "Name": "Competitor Bronze",
+      "Percentage": 0.6,
+      "XP": 30
+    },
+    {
+      "ID": "Competitor2",
+      "SetID": "c2k469b",
+      "Name": "Competitor Silver",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "Competitor3",
+      "SetID": "c2k469b",
+      "Name": "Competitor Gold",
+      "Percentage": 0.3,
+      "XP": 100
+    },
+    {
+      "ID": "Environmentalist",
+      "SetID": "c2k469b",
+      "Name": "Environmentalist",
+      "Percentage": 12,
+      "XP": 50
+    },
+    {
+      "ID": "Forester",
+      "SetID": "c2k469b",
+      "Name": "Forester",
+      "Percentage": 7,
+      "XP": 25
+    },
+    {
+      "ID": "Metropolis",
+      "SetID": "c2k469b",
+      "Name": "Metropolis",
+      "Percentage": 27,
+      "XP": 50
+    },
+    {
+      "ID": "Multitalent",
+      "SetID": "c2k469b",
+      "Name": "Multitalent",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "PlanetBora",
+      "SetID": "c2k469b",
+      "Name": "Bora",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "PlanetEdora",
+      "SetID": "c2k469b",
+      "Name": "Edora",
+      "Percentage": 14,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetIqunox",
+      "SetID": "c2k469b",
+      "Name": "Iqunox",
+      "Percentage": 9,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetJoma",
+      "SetID": "c2k469b",
+      "Name": "Joma",
+      "Percentage": 43,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetLorian",
+      "SetID": "c2k469b",
+      "Name": "Lorian",
+      "Percentage": 31,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetMagni",
+      "SetID": "c2k469b",
+      "Name": "Magni",
+      "Percentage": 21,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetRounos",
+      "SetID": "c2k469b",
+      "Name": "Rounos",
+      "Percentage": 23,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetThera",
+      "SetID": "c2k469b",
+      "Name": "Thera",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "PlanetTuto",
+      "SetID": "c2k469b",
+      "Name": "Tuto",
+      "Percentage": 61,
+      "XP": 30
+    },
+    {
+      "ID": "PlanetUdionTorix",
+      "SetID": "c2k469b",
+      "Name": "Udion Torix",
+      "Percentage": 9,
+      "XP": 30
+    },
+    {
+      "ID": "Scientist",
+      "SetID": "c2k469b",
+      "Name": "Scientist",
+      "Percentage": 15,
+      "XP": 50
+    },
+    {
+      "ID": "WorldCreator",
+      "SetID": "c2k469b",
+      "Name": "World Creator",
+      "Percentage": 4,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -60,17 +230,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:19:12.3872931+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 363,
-  "LastUpdate_Achievements": "2023-05-04T19:04:21.5271733+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:45.2193227+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:21.5271711+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:12.3873114+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:42.8852864+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c2k469b",
+      "IsBase": true,
+      "Progressed": 363,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
+  "FirstSeen": "2022-07-22T20:28:11.2364544+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 22,
@@ -80,7 +260,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 750,
+  "Ranking_Rating": 751,
   "Rating": 4.3,
-  "FirstSeen": "2022-07-22T20:28:11.2364544+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00"
 }

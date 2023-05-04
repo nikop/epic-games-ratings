@@ -1,6 +1,127 @@
 {
   "ID": "658c6b5f9bf24ee6a70d05e59151c8af",
   "Name": "Seven Doors",
+  "Achievements": [
+    {
+      "ID": "ACH_1",
+      "SetID": "15cie2",
+      "Name": "Welcome to Seven Doors",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "15cie2",
+      "Name": "Thanksgiving Day",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "15cie2",
+      "Name": "No Fear of the Dark",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "15cie2",
+      "Name": "The Witch\u2019s Haunt",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "15cie2",
+      "Name": "Trapped in Time",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "15cie2",
+      "Name": "A Cabin Boy with Potential",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "15cie2",
+      "Name": "Don\u2019t Touch the Rum!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "15cie2",
+      "Name": "Oh... You didn\u0027t think to bring it?",
+      "Percentage": 0,
+      "XP": 160
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "15cie2",
+      "Name": "A Cautious Man Is Worth Two of His Kind",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "ACH_2",
+      "SetID": "15cie2",
+      "Name": "Kill the Dead Man",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_3",
+      "SetID": "15cie2",
+      "Name": "Diogenes Syndrome",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "15cie2",
+      "Name": "They\u2019re Watching",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "15cie2",
+      "Name": "Art Connoisseur",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_6",
+      "SetID": "15cie2",
+      "Name": "Survivor",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_7",
+      "SetID": "15cie2",
+      "Name": "Egyptologist",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_8",
+      "SetID": "15cie2",
+      "Name": "The Last Skull",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_9",
+      "SetID": "15cie2",
+      "Name": "Master of Riddles",
+      "Percentage": 0,
+      "XP": 160
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +138,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 17,
+  "LastChanged_Achievements": "2023-05-04T19:19:56.9180339+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:05:06.0753447+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:30.4061891+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:06.0753419+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:56.918048+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:27.3478551+00:00",
+  "AchievementSets": [
+    {
+      "ID": "15cie2",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
+  "FirstSeen": "2023-02-21T11:57:52.4454821+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
-  "FirstSeen": "2023-02-21T11:57:52.4454821+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00"
 }

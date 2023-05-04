@@ -2,10 +2,113 @@
 Rating: 4.75 (Ranked 127)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 402  (Ranked 197)  
-Sum: 2,986 (Ranked 150)  
-Diff (max vs sum): 47
+Sum: 2,987 (Ranked 150)  
+Diff (max vs sum): 47  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Motivational Speaker | 78.00 |
+| The Player Whisperer | 76.00 |
+| One of Us, One of Us! | 73.00 |
+| First Victory | 69.00 |
+| Clean Sheet | 68.00 |
+| #DoneDeal | 68.00 |
+| Off the Books | 66.00 |
+| Super-Sub | 65.00 |
+| Hat-trick | 60.00 |
+| "I Would Love It If We Beat Them" | 58.00 |
+| Planned Signing | 57.00 |
+| Scoring Streak | 54.00 |
+| Thumping | 53.00 |
+| People Pleaser | 51.00 |
+| Wheeler Dealer | 51.00 |
+| Unbeatable! | 50.00 |
+| One Of Our Own | 47.00 |
+| They're a Natural | 44.00 |
+| Record Signing | 43.00 |
+| The Only Stat That Matters | 43.00 |
+| Team Performance | 42.00 |
+| Star Player | 40.00 |
+| Full Faith | 39.00 |
+| Squad Goals | 39.00 |
+| The People's Champion | 39.00 |
+| Beating Expectations | 38.00 |
+| Goal Rush | 38.00 |
+| Parked The Bus | 37.00 |
+| Flavour Of The Month | 36.00 |
+| What A Goal! | 35.00 |
+| Tremendous Trio | 34.00 |
+| Unstoppable Force | 34.00 |
+| Record Sale | 34.00 |
+| Shots For Days | 34.00 |
+| You're on Fire | 33.00 |
+| The Special One | 33.00 |
+| On a Roll | 31.00 |
+| Splashing the Cash | 31.00 |
+| Drilling Down | 30.00 |
+| Goal Machine | 29.00 |
+| Immovable Object | 27.00 |
+| Cup Glory! | 27.00 |
+| Irresistible Force | 25.00 |
+| Cash to Burn | 25.00 |
+| Do The Double | 22.00 |
+| A Game of Two Halves | 20.00 |
+| Top Form | 18.00 |
+| You're Up! | 18.00 |
+| First Goal Network | 17.00 |
+| First Win Network | 17.00 |
+| Clean Sheet Network | 16.00 |
+| Window Shopping | 16.00 |
+| Money, Money, Money | 16.00 |
+| Tête-à-tête | 14.00 |
+| Best in the World | 13.00 |
+| Superb Strike | 12.00 |
+| National Service | 11.00 |
+| Best in the Business | 10.00 |
+| Bragging Rights | 10.00 |
+| Second Hand Signing | 10.00 |
+| Invincible! | 10.00 |
+| Total Support | 9.00 |
+| Domination | 9.00 |
+| Invitational | 8.00 |
+| You Can Buy Happiness | 8.00 |
+| World Renowned | 6.00 |
+| Legend | 5.00 |
+| World Beaters | 5.00 |
+| Parked The Tank | 5.00 |
+| National Hero | 4.00 |
+| Mini League Champion | 4.00 |
+| Cupset Between Friends | 3.00 |
+| Trophy Hoarder | 3.00 |
+| Freedom of the Country | 3.00 |
+| On Top of the World | 3.00 |
+| Part of the Furniture | 2.00 |
+| Beat Your Mates | 2.00 |
+| First Goal Versus | 1.00 |
+| First Win Versus | 1.00 |
+| We Go Again | 1.00 |
+| The Greatest | 0.90 |
+| Perfect Host | 0.90 |
+| Clean Sheet Versus | 0.80 |
+| Versus Champ | 0.80 |
+| Online Streak | 0.80 |
+| The Rich Get Richer | 0.50 |
+| Online Rivalry | 0.50 |
+| Import To Victory | 0.40 |
+| Outstanding Defence | 0.30 |
+| You Shall Not Pass | 0.20 |
+| Draft Dominator | 0.20 |
+| Draft Value | 0.20 |
+| Immortality | 0.10 |
+| New Kids On The Block | 0.10 |
+| Value for Money | 0.10 |
+| Red Hot Newgen | 0.10 |
+| The Unstoppables | 0.10 |
+| GOAT | 0.10 |
+| Versus Anyone | 0.10 |
+| 200 Club | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,586 (Ranked 65)  
+Progressed: 61,589 (Ranked 65)  
 Completed: 14 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,13 +122,13 @@ Completed: 14 (0.02%) (Ranked 175)
 | 2023-05-01 | 61,199 | 14 |
 | 2023-05-02 | 61,356 | 14 |
 | 2023-05-03 | 61,486 | 14 |
-| 2023-05-04 | 61,586 | 14 |
+| 2023-05-04 | 61,589 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 402 |
 | This game is Highly Recommended | 361 |
-| This game is Educational | 355 |
+| This game is Educational | 356 |
 | This game is Extremely Fun | 349 |
 | This game is Relaxing | 340 |
 | This game has Competitive Players | 303 |
@@ -103,4 +206,4 @@ Completed: 14 (0.02%) (Ranked 175)
 | 2023-05-01 | 4.75 | 398 | 3,212 |
 | 2023-05-02 | 4.75 | 398 | 3,213 |
 | 2023-05-03 | 4.75 | 402 | 3,214 |
-| 2023-05-04 | 4.75 | 402 | 2,986 |
+| 2023-05-04 | 4.75 | 402 | 2,987 |

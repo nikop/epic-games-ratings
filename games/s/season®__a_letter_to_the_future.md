@@ -1,9 +1,23 @@
 # SEASON®: A letter to the future
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Home Leaver | 84.00 |
+| Journal Beautifier | 84.00 |
+| Outside World Seer | 66.00 |
+| Stranger Encounterer | 39.00 |
+| Grey Hands Praxis 101 | 30.00 |
+| Deep Listener | 28.00 |
+| Music for Cows | 20.00 |
+| Emotional Baggage Handler | 18.00 |
+| Dream Listener | 15.00 |
+| Artist Assistant | 14.00 |
+| Tour de Tieng | 14.00 |
+| Shrine Arriver | 13.00 |
+| Goodbye Tieng Valley | 12.00 |
+| The End | 12.00 |
+| Graffiti Artist | 9.00 |
+| Love Uncoverer | 9.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 730 (Ranked 171)  
 Completed: 30 (4.11%) (Ranked 30)  
@@ -19,9 +33,6 @@ Completed: 30 (4.11%) (Ranked 30)
 | 2023-05-01 | 726 | 30 |
 | 2023-05-02 | 727 | 30 |
 | 2023-05-04 | 730 | 30 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

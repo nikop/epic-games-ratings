@@ -1,6 +1,400 @@
 {
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
+  "Achievements": [
+    {
+      "ID": "Act1",
+      "SetID": "3l9dm1h",
+      "Name": "The Wait",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "Act2",
+      "SetID": "3l9dm1h",
+      "Name": "The Ascent",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "Act3",
+      "SetID": "3l9dm1h",
+      "Name": "The Strengthening",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Act4",
+      "SetID": "3l9dm1h",
+      "Name": "The Gamble",
+      "Percentage": 0.5,
+      "XP": 30
+    },
+    {
+      "ID": "Act5",
+      "SetID": "3l9dm1h",
+      "Name": "The Descent",
+      "Percentage": 0.5,
+      "XP": 50
+    },
+    {
+      "ID": "BackHomeAfterTimesUp",
+      "SetID": "3l9dm1h",
+      "Name": "By a hair",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "BackHomeFirstTime",
+      "SetID": "3l9dm1h",
+      "Name": "Survivor",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "BackHomeNTimes",
+      "SetID": "3l9dm1h",
+      "Name": "Well-oiled machine",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "BackHomeWithNoDamageCaused",
+      "SetID": "3l9dm1h",
+      "Name": "Pacifist",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "BreakNWindows",
+      "SetID": "3l9dm1h",
+      "Name": "Vandalism",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "BuyHighValueFurniture",
+      "SetID": "3l9dm1h",
+      "Name": "A major purchase",
+      "Percentage": 0.5,
+      "XP": 20
+    },
+    {
+      "ID": "BuyNWeapons",
+      "SetID": "3l9dm1h",
+      "Name": "Arms dealer",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "CompleteBestiary",
+      "SetID": "3l9dm1h",
+      "Name": "Expert Hunter",
+      "Percentage": 0.4,
+      "XP": 20
+    },
+    {
+      "ID": "CreditLevel1",
+      "SetID": "3l9dm1h",
+      "Name": "Fixer I",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "CreditLevel2",
+      "SetID": "3l9dm1h",
+      "Name": "Fixer II",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "CreditLevel3",
+      "SetID": "3l9dm1h",
+      "Name": "Fixer III",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "CreedsInBank1",
+      "SetID": "3l9dm1h",
+      "Name": "Saver I",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "CreedsInBank2",
+      "SetID": "3l9dm1h",
+      "Name": "Saver II",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "CreedsInBank3",
+      "SetID": "3l9dm1h",
+      "Name": "Saver III",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "DiscoverAllObjects",
+      "SetID": "3l9dm1h",
+      "Name": "Collector",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "EatNFungus",
+      "SetID": "3l9dm1h",
+      "Name": "Fungi hunter",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "EatNPills",
+      "SetID": "3l9dm1h",
+      "Name": "It\u0027s the last one, I swear",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "FullHomeExpansion",
+      "SetID": "3l9dm1h",
+      "Name": "Mansion",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "FullInventoryExpansion",
+      "SetID": "3l9dm1h",
+      "Name": "Workhorse",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "GrowPlantWithFertilisers",
+      "SetID": "3l9dm1h",
+      "Name": "Botanist",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "GrowPlants1",
+      "SetID": "3l9dm1h",
+      "Name": "Green thumb I",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "GrowPlants2",
+      "SetID": "3l9dm1h",
+      "Name": "Green thumb II",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "GrowPlants3",
+      "SetID": "3l9dm1h",
+      "Name": "Green thumb III",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "GrowPlantsSameTime",
+      "SetID": "3l9dm1h",
+      "Name": "Plantation",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "HomeWithNFurniture",
+      "SetID": "3l9dm1h",
+      "Name": "Interior designer",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "KillCrawlingThing",
+      "SetID": "3l9dm1h",
+      "Name": "It took a while",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "KillHauntingThingsWithBaseballBat",
+      "SetID": "3l9dm1h",
+      "Name": "Homerun",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "KillOtherInFirstMinute",
+      "SetID": "3l9dm1h",
+      "Name": "Cleaning Company",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "KillOtherWithKatana",
+      "SetID": "3l9dm1h",
+      "Name": "Samurai",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "KillOtherWithLowHealth",
+      "SetID": "3l9dm1h",
+      "Name": "Adrenaline",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "KillOtherWithMine",
+      "SetID": "3l9dm1h",
+      "Name": "I Left You a Present",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "KillOthers1",
+      "SetID": "3l9dm1h",
+      "Name": "Predator I",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "KillOthers2",
+      "SetID": "3l9dm1h",
+      "Name": "Predator II",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "KillOthers3",
+      "SetID": "3l9dm1h",
+      "Name": "Predator III",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "KillUnstableThing",
+      "SetID": "3l9dm1h",
+      "Name": "Truffle Dog",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "KillVengefulThingWithMeleeAndSurvive",
+      "SetID": "3l9dm1h",
+      "Name": "Don\u0027t try this at home",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "MaxImagoLevel",
+      "SetID": "3l9dm1h",
+      "Name": "Reminescence",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "MaxRepOfAllNpcs",
+      "SetID": "3l9dm1h",
+      "Name": "Beloved",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "MaxRepOfOneNpc",
+      "SetID": "3l9dm1h",
+      "Name": "Committed Relationship",
+      "Percentage": 0.8,
+      "XP": 10
+    },
+    {
+      "ID": "NewFloor",
+      "SetID": "3l9dm1h",
+      "Name": "Bricklayer",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "OldCoinCollected",
+      "SetID": "3l9dm1h",
+      "Name": "Number 1",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "Patrimony1",
+      "SetID": "3l9dm1h",
+      "Name": "Capitalist I",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "Patrimony2",
+      "SetID": "3l9dm1h",
+      "Name": "Capitalist II",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "Patrimony3",
+      "SetID": "3l9dm1h",
+      "Name": "Capitalist III",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ReachNDays1",
+      "SetID": "3l9dm1h",
+      "Name": "A week in Century City",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "ReachNDays2",
+      "SetID": "3l9dm1h",
+      "Name": "A month in Century City",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ReachNDays3",
+      "SetID": "3l9dm1h",
+      "Name": "A season in Century City",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "TakeFromBankNCreedsOneTime",
+      "SetID": "3l9dm1h",
+      "Name": "AML questionnaire",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "TakeHomeNHearts",
+      "SetID": "3l9dm1h",
+      "Name": "Heartbreaker",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "UnlockAllAchievements",
+      "SetID": "3l9dm1h",
+      "Name": "Hell Is You",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "UnlockedAllShops",
+      "SetID": "3l9dm1h",
+      "Name": "Run the Economy",
+      "Percentage": 1,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1062,6 +1456,11 @@
       "Time": "2023-05-04T19:05:18.0252397+00:00",
       "NumProgressed": 247731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T19:20:09.1075869+00:00",
+      "NumProgressed": 247733,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1366,17 +1765,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 56,
+  "LastChanged_Achievements": "2023-05-04T19:20:09.1075859+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 785,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247731,
-  "LastUpdate_Achievements": "2023-05-04T19:05:18.0252473+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:36.2132322+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:18.0252392+00:00",
+  "EOS_Progressed": 247733,
+  "LastUpdate_Achievements": "2023-05-04T19:20:09.1076397+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:32.435702+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3l9dm1h",
+      "IsBase": true,
+      "Progressed": 247733,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
+  "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 48,
@@ -1387,5 +1796,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 574,
   "Rating": 4.47,
-  "FirstSeen": "2023-01-26T21:58:12.7547207+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00"
 }

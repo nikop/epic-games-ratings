@@ -1,6 +1,7 @@
 {
   "ID": "c8738a4d1ead40368eab9688b3c7d737",
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -60,7 +61,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 128
+      "Count": 129
     }
   ],
   "EosHistory": [],
@@ -764,20 +765,30 @@
       "Rating": 4.86,
       "NumberOfAwards": 2733,
       "NumberOfAwardsMax": 1206
+    },
+    {
+      "Time": "2023-05-04T19:12:08.3665461+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 2734,
+      "NumberOfAwardsMax": 1206
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:25.2401309+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:09.9399121+00:00",
-  "LastChanged": "2023-05-04T13:57:15.790747+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:08.3665471+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-04T19:12:08.3665459+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
+  "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1206,
-  "NumberOfAwards": 2733,
+  "NumberOfAwards": 2734,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
@@ -785,6 +796,5 @@
   "Ranking_PopularitySum": 158,
   "Ranking_Popularity": 122,
   "Ranking_Rating": 28,
-  "Rating": 4.86,
-  "FirstSeen": "2022-10-06T16:01:22.0492256+00:00"
+  "Rating": 4.86
 }

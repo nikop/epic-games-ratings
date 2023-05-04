@@ -1,10 +1,68 @@
 # War Mongrels
-Rating: 4.30 (Ranked 750)  
+Rating: 4.30 (Ranked 751)  
 Number of Ratings: 34  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Explorer | 60.00 |
+| Cowardice | 55.00 |
+| NO LIFE IS WORTH SAVING... | 51.00 |
+| Eat Lead! | 50.00 |
+| Prospector | 46.00 |
+| Here Comes the Boom | 46.00 |
+| Treasure Hunter | 44.00 |
+| The Breaking Point | 39.00 |
+| Missing in Action | 38.00 |
+| Sniper Wolf | 38.00 |
+| The Motivation | 36.00 |
+| Heroism | 33.00 |
+| King of Knives | 33.00 |
+| Collectibles of Chapter I | 31.00 |
+| Consequences | 30.00 |
+| Opportunities | 29.00 |
+| The Horror | 28.00 |
+| Collectibles of Chapter II | 25.00 |
+| The Difference | 23.00 |
+| Vengeance | 23.00 |
+| Food Massacre | 21.00 |
+| Bullseye! | 21.00 |
+| Broken Hopes | 20.00 |
+| Sorrow | 17.00 |
+| It's Just an Accident | 17.00 |
+| Collectibles of Chapter III | 16.00 |
+| Atonement | 15.00 |
+| Collectibles of Chapter IV | 14.00 |
+| Without a Second Thought | 14.00 |
+| Helping Hand | 11.00 |
+| Collectibles of Chapter V | 9.00 |
+| Collectibles of Chapter VII | 8.00 |
+| Such is War! | 8.00 |
+| Collectibles of Chapter XII | 7.00 |
+| Piece of Cake | 6.00 |
+| Tiptoe Around | 6.00 |
+| Collectibles of Chapter VIII | 5.00 |
+| Collectibles of Chapter X | 5.00 |
+| Collectibles of Chapter XI | 5.00 |
+| Collectibles of Chapter VI | 3.00 |
+| Collectibles of Chapter IX | 3.00 |
+| The Good Samaritan | 3.00 |
+| It Will Rain | 3.00 |
+| Not Spill a Drop | 3.00 |
+| Hold a Door | 1.00 |
+| Daddy Would Be Proud | 1.00 |
+| Warm Up | 0.40 |
+| Challenges of Chapter I | 0.00 |
+| Challenges of Chapter II | 0.00 |
+| Challenges of Chapter III | 0.00 |
+| Challenges of Chapter IV | 0.00 |
+| Challenges of Chapter V | 0.00 |
+| Challenges of Chapter VI | 0.00 |
+| Challenges of Chapter VII | 0.00 |
+| Challenges of Chapter VIII | 0.00 |
+| Challenges of Chapter IX | 0.00 |
+| Challenges of Chapter X | 0.00 |
+| Challenges of Chapter XI | 0.00 |
+| Challenges of Chapter XII | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -18,9 +76,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 235 | 0 |
 | 2023-05-03 | 237 | 0 |
 | 2023-05-04 | 239 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

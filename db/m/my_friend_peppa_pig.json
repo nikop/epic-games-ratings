@@ -1,6 +1,85 @@
 {
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "5jd5jfm",
+      "Name": "Daddy\u2019s Glasses",
+      "Percentage": 50,
+      "XP": 80
+    },
+    {
+      "ID": "10",
+      "SetID": "5jd5jfm",
+      "Name": "Collecting Sticks For the Campfire.",
+      "Percentage": 47,
+      "XP": 80
+    },
+    {
+      "ID": "11",
+      "SetID": "5jd5jfm",
+      "Name": "Rocket to the Moon!",
+      "Percentage": 53,
+      "XP": 80
+    },
+    {
+      "ID": "2",
+      "SetID": "5jd5jfm",
+      "Name": "Where\u2019s Mr. Dinosaur?",
+      "Percentage": 24,
+      "XP": 80
+    },
+    {
+      "ID": "3",
+      "SetID": "5jd5jfm",
+      "Name": "Whose tracks are these?",
+      "Percentage": 48,
+      "XP": 80
+    },
+    {
+      "ID": "4",
+      "SetID": "5jd5jfm",
+      "Name": "The Best Snowman Ever!",
+      "Percentage": 47,
+      "XP": 80
+    },
+    {
+      "ID": "5",
+      "SetID": "5jd5jfm",
+      "Name": "What\u2019s in These Rockpools?",
+      "Percentage": 35,
+      "XP": 80
+    },
+    {
+      "ID": "6",
+      "SetID": "5jd5jfm",
+      "Name": "Rounding Up the Chickens.",
+      "Percentage": 42,
+      "XP": 80
+    },
+    {
+      "ID": "7",
+      "SetID": "5jd5jfm",
+      "Name": "Helping Tiddles the Tortoise.",
+      "Percentage": 23,
+      "XP": 80
+    },
+    {
+      "ID": "8",
+      "SetID": "5jd5jfm",
+      "Name": "The View From Windy Castle.",
+      "Percentage": 61,
+      "XP": 80
+    },
+    {
+      "ID": "9",
+      "SetID": "5jd5jfm",
+      "Name": "Always Remember To Eat Your Five!",
+      "Percentage": 12,
+      "XP": 200
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +101,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 6.06,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 11,
+  "LastChanged_Achievements": "2023-05-04T19:19:13.9732356+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 4,
   "EOS_Progressed": 66,
-  "LastUpdate_Achievements": "2023-05-04T19:04:23.1813177+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:53.0849086+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:23.1813151+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:13.9732449+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:51.0939134+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5jd5jfm",
+      "IsBase": true,
+      "Progressed": 66,
+      "Completed": 4
+    }
+  ],
+  "EOS_Completed_Percentage": 6.06,
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
+  "FirstSeen": "2023-01-18T17:57:50.3904514+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_Progress": 262,
-  "FirstSeen": "2023-01-18T17:57:50.3904514+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00"
 }

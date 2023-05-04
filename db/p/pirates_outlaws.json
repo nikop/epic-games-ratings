@@ -1,6 +1,876 @@
 {
   "ID": "c281373e4f7f45d2981dc4072c571173",
   "Name": "Pirates Outlaws",
+  "Achievements": [
+    {
+      "ID": "Achievement_1",
+      "SetID": "5bahml4",
+      "Name": "Long Long Journey",
+      "Percentage": 72,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_10",
+      "SetID": "5bahml4",
+      "Name": "Ten Thousand Bodies",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_11",
+      "SetID": "5bahml4",
+      "Name": "The More the Merrier",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_12",
+      "SetID": "5bahml4",
+      "Name": "Iron Rooster",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_13",
+      "SetID": "5bahml4",
+      "Name": "Second Life",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_14",
+      "SetID": "5bahml4",
+      "Name": "Blacksmith\u0027s Holiday",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_15",
+      "SetID": "5bahml4",
+      "Name": "No Return",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_16",
+      "SetID": "5bahml4",
+      "Name": "Myopic",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_17",
+      "SetID": "5bahml4",
+      "Name": "Inept Swordsman",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_18",
+      "SetID": "5bahml4",
+      "Name": "Full Speed Ahead",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_19",
+      "SetID": "5bahml4",
+      "Name": "One Shot, One Kill",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_2",
+      "SetID": "5bahml4",
+      "Name": "Braving Danger",
+      "Percentage": 45,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_20",
+      "SetID": "5bahml4",
+      "Name": "Around the Corner",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_21",
+      "SetID": "5bahml4",
+      "Name": "Double Major",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_22",
+      "SetID": "5bahml4",
+      "Name": "Strong Physique",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_23",
+      "SetID": "5bahml4",
+      "Name": "High Requirements",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_24",
+      "SetID": "5bahml4",
+      "Name": "Purified",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_25",
+      "SetID": "5bahml4",
+      "Name": "Great Witch",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_26",
+      "SetID": "5bahml4",
+      "Name": "Fallen from Grace",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_27",
+      "SetID": "5bahml4",
+      "Name": "Rookie Captain",
+      "Percentage": 82,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_3",
+      "SetID": "5bahml4",
+      "Name": "Sharpshooter",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_30",
+      "SetID": "5bahml4",
+      "Name": "Skulls Island",
+      "Percentage": 36,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_31",
+      "SetID": "5bahml4",
+      "Name": "Souls Rift",
+      "Percentage": 18,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_32",
+      "SetID": "5bahml4",
+      "Name": "Loyal Supporter",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_33",
+      "SetID": "5bahml4",
+      "Name": "Skeleton King",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_34",
+      "SetID": "5bahml4",
+      "Name": "Channeler",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_35",
+      "SetID": "5bahml4",
+      "Name": "Final Burial",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_36",
+      "SetID": "5bahml4",
+      "Name": "Exorcist",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_37",
+      "SetID": "5bahml4",
+      "Name": "Ship Builder",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_38",
+      "SetID": "5bahml4",
+      "Name": "Minstrel",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_39",
+      "SetID": "5bahml4",
+      "Name": "Keep Calm",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_4",
+      "SetID": "5bahml4",
+      "Name": "Master at Arms",
+      "Percentage": 15,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_40",
+      "SetID": "5bahml4",
+      "Name": "Specialization",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_41",
+      "SetID": "5bahml4",
+      "Name": "Lucky Fellow",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_42",
+      "SetID": "5bahml4",
+      "Name": "The Chosen One",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_43",
+      "SetID": "5bahml4",
+      "Name": "Adventurous Spirit",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_44",
+      "SetID": "5bahml4",
+      "Name": "Conqueror",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_45",
+      "SetID": "5bahml4",
+      "Name": "Monster Expert",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_46",
+      "SetID": "5bahml4",
+      "Name": "Epic Battle",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_47",
+      "SetID": "5bahml4",
+      "Name": "Future Sight",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_48",
+      "SetID": "5bahml4",
+      "Name": "Master of Fate",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_49",
+      "SetID": "5bahml4",
+      "Name": "Challenge Nature",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_5",
+      "SetID": "5bahml4",
+      "Name": "Adventurer",
+      "Percentage": 8,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_50",
+      "SetID": "5bahml4",
+      "Name": "Conquer Nature",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_51",
+      "SetID": "5bahml4",
+      "Name": "King of the North",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_52",
+      "SetID": "5bahml4",
+      "Name": "Master Tamer",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_53",
+      "SetID": "5bahml4",
+      "Name": "Bear Power",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_54",
+      "SetID": "5bahml4",
+      "Name": "Return of the Dead",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_55",
+      "SetID": "5bahml4",
+      "Name": "Perfect Victory",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_56",
+      "SetID": "5bahml4",
+      "Name": "Into the Unknown",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_57",
+      "SetID": "5bahml4",
+      "Name": "Finding Your Way",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_58",
+      "SetID": "5bahml4",
+      "Name": "Master of the East",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_59",
+      "SetID": "5bahml4",
+      "Name": "Feel Alive",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_6",
+      "SetID": "5bahml4",
+      "Name": "Master of Curses",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_60",
+      "SetID": "5bahml4",
+      "Name": "Monster Hunter",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_61",
+      "SetID": "5bahml4",
+      "Name": "The Walk",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_62",
+      "SetID": "5bahml4",
+      "Name": "Monster Hunter",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_63",
+      "SetID": "5bahml4",
+      "Name": "Science",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_64",
+      "SetID": "5bahml4",
+      "Name": "Wood Master",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_65",
+      "SetID": "5bahml4",
+      "Name": "Enough",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_66",
+      "SetID": "5bahml4",
+      "Name": "Food Sold Out",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_67",
+      "SetID": "5bahml4",
+      "Name": "Malnutrition",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_68",
+      "SetID": "5bahml4",
+      "Name": "Robber",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_69",
+      "SetID": "5bahml4",
+      "Name": "Colder Than Cold",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_7",
+      "SetID": "5bahml4",
+      "Name": "Master of Alchemy",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_70",
+      "SetID": "5bahml4",
+      "Name": "Dancing In Shackles",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_71",
+      "SetID": "5bahml4",
+      "Name": "Easy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_72",
+      "SetID": "5bahml4",
+      "Name": "Carefully Selected",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_73",
+      "SetID": "5bahml4",
+      "Name": "Reputed",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_74",
+      "SetID": "5bahml4",
+      "Name": "Forgotten Civilization",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_75",
+      "SetID": "5bahml4",
+      "Name": "Time Traveler",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_76",
+      "SetID": "5bahml4",
+      "Name": "Inheritance",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_77",
+      "SetID": "5bahml4",
+      "Name": "Relief",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_78",
+      "SetID": "5bahml4",
+      "Name": "New Era",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_79",
+      "SetID": "5bahml4",
+      "Name": "End",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_8",
+      "SetID": "5bahml4",
+      "Name": "Mogul",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_80",
+      "SetID": "5bahml4",
+      "Name": "Final Weapon",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_81",
+      "SetID": "5bahml4",
+      "Name": "Learning",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Achievement_82",
+      "SetID": "5bahml4",
+      "Name": "Surpass",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_9",
+      "SetID": "5bahml4",
+      "Name": "Great Collector",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Record_1",
+      "SetID": "5bahml4",
+      "Name": "Bartender",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_10",
+      "SetID": "5bahml4",
+      "Name": "Thirsty",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Record_11",
+      "SetID": "5bahml4",
+      "Name": "Cowardice",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_12",
+      "SetID": "5bahml4",
+      "Name": "Tavern Regular",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Record_2",
+      "SetID": "5bahml4",
+      "Name": "Half empty",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_3",
+      "SetID": "5bahml4",
+      "Name": "Full pint",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Record_4",
+      "SetID": "5bahml4",
+      "Name": "Winchester",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_5",
+      "SetID": "5bahml4",
+      "Name": "General tour",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Record_6",
+      "SetID": "5bahml4",
+      "Name": "Sober",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_7",
+      "SetID": "5bahml4",
+      "Name": "Cheers",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_8",
+      "SetID": "5bahml4",
+      "Name": "The World\u0027s End",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Record_9",
+      "SetID": "5bahml4",
+      "Name": "Oenologist",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_1",
+      "SetID": "5bahml4",
+      "Name": "Arena 30",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_10",
+      "SetID": "5bahml4",
+      "Name": "Champion: Musician",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_11",
+      "SetID": "5bahml4",
+      "Name": "Champion: Vigilante",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_12",
+      "SetID": "5bahml4",
+      "Name": "Fearless",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_13",
+      "SetID": "5bahml4",
+      "Name": "Face to Face",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_14",
+      "SetID": "5bahml4",
+      "Name": "Blitzkrieg",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_15",
+      "SetID": "5bahml4",
+      "Name": "Surgical Strike",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_17",
+      "SetID": "5bahml4",
+      "Name": "Arena Legend",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_18",
+      "SetID": "5bahml4",
+      "Name": "Well-Prepared",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_19",
+      "SetID": "5bahml4",
+      "Name": "True Champion",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_2",
+      "SetID": "5bahml4",
+      "Name": "Arena 40",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Trophy_20",
+      "SetID": "5bahml4",
+      "Name": "True Arena Legend",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_21",
+      "SetID": "5bahml4",
+      "Name": "Champion: Fortune Teller",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_22",
+      "SetID": "5bahml4",
+      "Name": "Champion: Bear Tamer",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_23",
+      "SetID": "5bahml4",
+      "Name": "Champion: Unknown Captain",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_24",
+      "SetID": "5bahml4",
+      "Name": "Champion: Doctor",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_25",
+      "SetID": "5bahml4",
+      "Name": "No Revive",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_26",
+      "SetID": "5bahml4",
+      "Name": "I Don\u0027t Need",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_27",
+      "SetID": "5bahml4",
+      "Name": "Welcome",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_28",
+      "SetID": "5bahml4",
+      "Name": "Unimpeachable",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_29",
+      "SetID": "5bahml4",
+      "Name": "Fair Treatment",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_3",
+      "SetID": "5bahml4",
+      "Name": "Champion: Gunner",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_30",
+      "SetID": "5bahml4",
+      "Name": "Fair Treatment",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_31",
+      "SetID": "5bahml4",
+      "Name": "Champion: Chicken",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_32",
+      "SetID": "5bahml4",
+      "Name": "Champion: Inventor",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_33",
+      "SetID": "5bahml4",
+      "Name": "Champion: First Mate",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_4",
+      "SetID": "5bahml4",
+      "Name": "Champion: Sword Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_5",
+      "SetID": "5bahml4",
+      "Name": "Champion: Explorer",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_6",
+      "SetID": "5bahml4",
+      "Name": "Champion: Curse Captain",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_7",
+      "SetID": "5bahml4",
+      "Name": "Champion: Alchemist",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_8",
+      "SetID": "5bahml4",
+      "Name": "Champion: Admiral",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Trophy_9",
+      "SetID": "5bahml4",
+      "Name": "Champion: Carpenter",
+      "Percentage": 0,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +887,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 124,
+  "LastChanged_Achievements": "2023-05-04T19:20:22.6122935+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-04T19:05:31.4572542+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:43.2190725+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:31.4572522+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:22.6124881+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:39.8783794+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5bahml4",
+      "IsBase": true,
+      "Progressed": 78,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:13.299627+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:42:15.3224895+00:00",
   "FirstSeenRating": "2023-03-31T05:58:13.2996269+00:00",
+  "FirstSeen": "2022-12-12T14:58:21.7862512+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 251,
-  "FirstSeen": "2022-12-12T14:58:21.7862512+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:42:15.3224895+00:00"
 }

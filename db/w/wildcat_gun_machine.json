@@ -1,6 +1,148 @@
 {
   "ID": "13cba1b288ec417badb9a276cbb6d819",
   "Name": "Wildcat Gun Machine",
+  "Achievements": [
+    {
+      "ID": "2_cats_1_3",
+      "SetID": "9epame3",
+      "Name": "i\u0027ll be back",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "all_cats_1_4",
+      "SetID": "9epame3",
+      "Name": "like a cat",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "all_dash_1_1",
+      "SetID": "9epame3",
+      "Name": "can\u0027t touch this",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "all_grenades_1_2",
+      "SetID": "9epame3",
+      "Name": "grenadier",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "all_guns_1_7",
+      "SetID": "9epame3",
+      "Name": "armed to the teeth",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "all_movement_1_0",
+      "SetID": "9epame3",
+      "Name": "fleet of foot",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "all_pistols_1_6",
+      "SetID": "9epame3",
+      "Name": "armed and dangerous",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "chain_dash_1_8",
+      "SetID": "9epame3",
+      "Name": "chain chain chain",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "eye_beast_1_17",
+      "SetID": "9epame3",
+      "Name": "zinnerblilie, eye of the beast",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "heart_beast_1_15",
+      "SetID": "9epame3",
+      "Name": "votolato, heart of the beast",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "meat_sack_1_9",
+      "SetID": "9epame3",
+      "Name": "meat sack",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "mind_beast_1_16",
+      "SetID": "9epame3",
+      "Name": "serbian, mind of the beast",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "nosraep_1_19",
+      "SetID": "9epame3",
+      "Name": "nosraep, true form of the beast",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "remnants_1_18",
+      "SetID": "9epame3",
+      "Name": "the remnants",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "rot_belcher_1_11",
+      "SetID": "9epame3",
+      "Name": "rot belcher",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "sluggoth_1_12",
+      "SetID": "9epame3",
+      "Name": "sluggoth",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "spawning_queen_1_10",
+      "SetID": "9epame3",
+      "Name": "spawning queen",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "special_weapon_1_5",
+      "SetID": "9epame3",
+      "Name": "lock \u0027n\u0027 load",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "unspeakable_1_14",
+      "SetID": "9epame3",
+      "Name": "defeat unspeakable horror",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "unthinkable_1_13",
+      "SetID": "9epame3",
+      "Name": "unthinkable horror",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -193,17 +335,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 20,
+  "LastChanged_Achievements": "2023-05-04T19:15:18.9417135+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:20.6495995+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:57.0771637+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:20.6495982+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:18.9417276+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:55.1284001+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9epame3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-27T20:57:54.4211656+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:42:11.7379667+00:00",
   "FirstSeenRating": "2022-12-09T16:58:13.2278182+00:00",
+  "FirstSeen": "2022-07-22T20:28:10.3966316+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -214,5 +366,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 898,
   "Rating": 3.87,
-  "FirstSeen": "2022-07-22T20:28:10.3966316+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:42:11.7379667+00:00"
 }

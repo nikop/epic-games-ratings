@@ -1,9 +1,7 @@
 # EBOLA 2
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,6 +9,3 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-03 | 2 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |

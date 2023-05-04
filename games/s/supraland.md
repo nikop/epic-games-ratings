@@ -4,9 +4,110 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 7,603  (Ranked 40)  
 Sum: 9,887 (Ranked 78)  
-Diff (max vs sum): -38
+Diff (max vs sum): -38  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Out of bed | 99.00 |
+| The Blues | 85.00 |
+| Fast | 66.00 |
+| Healthbar | 55.00 |
+| Force Cube | 52.00 |
+| Double Jump | 48.00 |
+| Regeneration | 47.00 |
+| Climb the hill | 42.00 |
+| Triple Jump | 42.00 |
+| Through the fire pipe | 38.00 |
+| MacGuffin | 37.00 |
+| Just once | 36.00 |
+| Armor | 30.00 |
+| True holy spirit | 27.00 |
+| That's how electronics work obviously | 26.00 |
+| Force Cube Catapult | 25.00 |
+| Holy Sword | 23.00 |
+| Telefrag | 22.00 |
+| Freed from prison | 21.00 |
+| Stomp | 21.00 |
+| Double Health | 18.00 |
+| Buckle | 17.00 |
+| Green Keycard | 17.00 |
+| Rattle Hag | 15.00 |
+| All Shells | 14.00 |
+| Beam | 13.00 |
+| 9 | 13.00 |
+| Purple Cube | 13.00 |
+| Supraball Noob | 13.00 |
+| Health Drink | 12.00 |
+| Helped a star | 12.00 |
+| Infiltrated | 11.00 |
+| Robbed | 11.00 |
+| Strong | 11.00 |
+| Blue King's lair | 10.00 |
+| Payback | 10.00 |
+| Got the coins back | 10.00 |
+| Cave Flies | 10.00 |
+| Gold Scam | 10.00 |
+| Gold Scam Uncovered | 10.00 |
+| Got the gun back | 10.00 |
+| Translocator | 10.00 |
+| Yellow Shot Button | 10.00 |
+| Fire Flies | 9.00 |
+| Moon Door | 9.00 |
+| Momentum | 9.00 |
+| Panic Lights | 9.00 |
+| Through the tiny pipe | 8.00 |
+| Win! | 8.00 |
+| The real real teleported man | 7.00 |
+| Well deserved | 6.00 |
+| Happiness | 3.00 |
+| Super Sword | 3.00 |
+| All Chests | 2.00 |
+| Poor ancestors | 2.00 |
+| Shelf filled | 2.00 |
+| Invisible Wall | 2.00 |
+| Groupies | 1.00 |
+| Jesus Christ Suprastar | 1.00 |
+| Redstone Pickaxe | 1.00 |
+| DLC: Green Bird | 0.50 |
+| DLC: Crashed | 0.50 |
+| DLC: Discovering the Globe | 0.50 |
+| DLC: Gotta Jump High | 0.50 |
+| DLC: Gotta Run Fast | 0.50 |
+| DLC: Basement Robbery | 0.40 |
+| DLC: Rooftop Chase | 0.40 |
+| DLC: Home Invasion | 0.40 |
+| DLC: The palace job | 0.40 |
+| DLC: A Criminal Revealed | 0.40 |
+| DLC: Crashed again | 0.40 |
+| DLC: Crashed again (again) | 0.40 |
+| DLC: Crashed for the final time! | 0.40 |
+| DLC: Crashed for the final time (again) | 0.40 |
+| DLC: South of the wall | 0.40 |
+| DLC: Monster Maker | 0.40 |
+| DLC: Obvious Area | 0.40 |
+| DLC: Race the First | 0.40 |
+| DLC: No-ball Winner | 0.40 |
+| DLC: Race the Gauntlet | 0.40 |
+| DLC: City Sprinter | 0.40 |
+| DLC: Finding Sideburg | 0.40 |
+| DLC: Welcome to Orangeburg | 0.40 |
+| DLC: A Wrinkle in Spacetime | 0.40 |
+| DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40 |
+| DLC: Birds | 0.30 |
+| DLC: Horticultural | 0.30 |
+| DLC: Tough Guy, Eh? | 0.30 |
+| DLC: Non-NPC | 0.30 |
+| DLC: Knocked him out | 0.30 |
+| DLC: Thrown | 0.30 |
+| DLC: To the House | 0.30 |
+| DLC: The Giant's Workshop | 0.20 |
+| DLC: A good cause! | 0.20 |
+| DLC: Shady stick | 0.20 |
+| DLC: Invisible Wall | 0.10 |
+| DLC: There he is! | 0.10 |
+| DLC: Top of the world | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,086 (Ranked 13)  
+Progressed: 703,090 (Ranked 13)  
 Completed: 668 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +121,7 @@ Completed: 668 (0.10%) (Ranked 150)
 | 2023-05-01 | 702,615 | 665 |
 | 2023-05-02 | 702,784 | 666 |
 | 2023-05-03 | 702,946 | 668 |
-| 2023-05-04 | 703,086 | 668 |
+| 2023-05-04 | 703,090 | 668 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

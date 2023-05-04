@@ -1,6 +1,7 @@
 {
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -3090,16 +3091,26 @@
       "NumberOfAwardsMax": 5823
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:14:56.0068322+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T18:59:57.1247772+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:37.1960948+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:59:57.1247425+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:56.0068414+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:35.3910019+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2npnlc4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T14:59:23.2987965+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
+  "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 5823,
   "NumberOfAwards": 10722,
@@ -3112,5 +3123,5 @@
   "Ranking_Popularity": 55,
   "Ranking_Rating": 91,
   "Rating": 4.79,
-  "FirstSeen": "2022-07-22T20:18:26.6430541+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00"
 }

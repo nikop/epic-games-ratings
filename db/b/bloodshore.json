@@ -1,6 +1,127 @@
 {
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
+  "Achievements": [
+    {
+      "ID": "bromance",
+      "SetID": "84ad177",
+      "Name": "Bromance",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "comedy_killer",
+      "SetID": "84ad177",
+      "Name": "Comedy Killer",
+      "Percentage": 31,
+      "XP": 100
+    },
+    {
+      "ID": "congratulations_you_are_a_sadist",
+      "SetID": "84ad177",
+      "Name": "Congratulations, you are a sadist",
+      "Percentage": 50,
+      "XP": 100
+    },
+    {
+      "ID": "deathlooper",
+      "SetID": "84ad177",
+      "Name": "Deathlooper",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "good_job_nerd",
+      "SetID": "84ad177",
+      "Name": "Good job, nerd",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "leader_you_are_not",
+      "SetID": "84ad177",
+      "Name": "A leader, you are not",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "lootaphilia",
+      "SetID": "84ad177",
+      "Name": "Lootaphilia",
+      "Percentage": 22,
+      "XP": 100
+    },
+    {
+      "ID": "maybe_you_should_give_it_another_go",
+      "SetID": "84ad177",
+      "Name": "Maybe you should give it another go",
+      "Percentage": 9,
+      "XP": 100
+    },
+    {
+      "ID": "mikey_lizard",
+      "SetID": "84ad177",
+      "Name": "Mikey Lizard",
+      "Percentage": 6,
+      "XP": 100
+    },
+    {
+      "ID": "mission_complete",
+      "SetID": "84ad177",
+      "Name": "Mission Complete",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "super_seducer",
+      "SetID": "84ad177",
+      "Name": "Super Seducer",
+      "Percentage": 49,
+      "XP": 100
+    },
+    {
+      "ID": "superstar_crossed_lovers",
+      "SetID": "84ad177",
+      "Name": "Superstar-crossed lovers",
+      "Percentage": 37,
+      "XP": 100
+    },
+    {
+      "ID": "thats_my_boy",
+      "SetID": "84ad177",
+      "Name": "That\u0027s my boy!",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "this_wont_end_well",
+      "SetID": "84ad177",
+      "Name": "This won\u0027t end well...",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "tried_to_warn_you",
+      "SetID": "84ad177",
+      "Name": "We tried to warn you!",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "um_ok",
+      "SetID": "84ad177",
+      "Name": "Um, ok...",
+      "Percentage": 46,
+      "XP": 10
+    },
+    {
+      "ID": "used_to_think_i_was_indecisive",
+      "SetID": "84ad177",
+      "Name": "I used to think I was indecisive...",
+      "Percentage": 6,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +143,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.44,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 17,
+  "LastChanged_Achievements": "2023-05-04T19:19:47.4579506+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 139,
-  "LastUpdate_Achievements": "2023-05-04T19:04:56.9451809+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:22.4794909+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:56.9451784+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:47.4579644+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:20.5811369+00:00",
+  "AchievementSets": [
+    {
+      "ID": "84ad177",
+      "IsBase": true,
+      "Progressed": 139,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 1.44,
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
+  "FirstSeen": "2022-11-13T23:58:32.3641197+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_Progress": 238,
-  "FirstSeen": "2022-11-13T23:58:32.3641197+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00"
 }

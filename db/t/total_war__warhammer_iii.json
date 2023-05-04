@@ -1,6 +1,7 @@
 {
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -2634,14 +2635,18 @@
       "NumberOfAwardsMax": 1481
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:06.6878669+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:35.0758683+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:31.3934338+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:59:43.2176914+00:00",
+  "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1481,
   "NumberOfAwards": 5317,
@@ -2653,6 +2658,5 @@
   "Ranking_PopularitySum": 118,
   "Ranking_Popularity": 113,
   "Ranking_Rating": 212,
-  "Rating": 4.69,
-  "FirstSeen": "2022-07-22T20:20:31.8340221+00:00"
+  "Rating": 4.69
 }

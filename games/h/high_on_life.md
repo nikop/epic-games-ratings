@@ -1,9 +1,40 @@
 # High On Life
 Rating: 4.67 (Ranked 255)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Eye Scream, You Scream | 83.00 |
+| Mods Please Ban | 77.00 |
+| Bring A Knife to a Gun Fight | 76.00 |
+| Fallout Doesn't Let You Do This | 73.00 |
+| First Bounty Down | 59.00 |
+| We're All Very Impressed, Trust Me | 57.00 |
+| Luglox Genocide | 43.00 |
+| Playing Card To Get | 33.00 |
+| Don't Knife The Hand That Feeds | 33.00 |
+| Creature Feature | 29.00 |
+| Satisfied Gus-tomer | 28.00 |
+| Cold-Blooded Driller | 28.00 |
+| Are You Packin'? | 24.00 |
+| RIP Davey Glutes | 24.00 |
+| Sweezy Like Sunday Morning | 24.00 |
+| G3 Graduation | 24.00 |
+| Hardest Battle In The Game | 22.00 |
+| Series Wrap on Suit-O | 22.00 |
+| Lezduit! | 20.00 |
+| Who's The Boss? | 20.00 |
+| Self-Actualization | 19.00 |
+| Spent 15 Hours At The Alien Strip Club | 19.00 |
+| Legendary Bounty Hunter | 18.00 |
+| Seeing All The Sights | 16.00 |
+| Carried Stan's Load To Completion | 13.00 |
+| We Paid For The Rights To Put A Whole Movie In Here | 11.00 |
+| Eatin' Good in the Neighborhood | 9.00 |
+| Sequel-Bait | 8.00 |
+| Gunning For Your Job | 7.00 |
+| Playing Favorites | 6.00 |
+| Epic Legendary Prize | 1.00 |
+| A Starfish Is Born | 1.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22,609 (Ranked 86)  
 Completed: 8 (0.04%) (Ranked 167)  
@@ -20,9 +51,6 @@ Completed: 8 (0.04%) (Ranked 167)
 | 2023-05-02 | 22,603 | 8 |
 | 2023-05-03 | 22,608 | 8 |
 | 2023-05-04 | 22,609 | 8 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

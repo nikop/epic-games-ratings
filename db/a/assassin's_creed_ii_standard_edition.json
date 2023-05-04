@@ -1,6 +1,7 @@
 {
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -482,14 +483,18 @@
       "NumberOfAwardsMax": 24
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:12.6332535+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:42.3970306+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:40.0755291+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-20T11:57:01.4456318+00:00",
+  "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 24,
   "NumberOfAwards": 85,
@@ -501,6 +506,5 @@
   "Ranking_PopularitySum": 403,
   "Ranking_Popularity": 466,
   "Ranking_Rating": 127,
-  "Rating": 4.75,
-  "FirstSeen": "2022-07-22T20:18:28.9665726+00:00"
+  "Rating": 4.75
 }

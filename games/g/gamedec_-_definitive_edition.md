@@ -4,9 +4,64 @@ Number of Ratings: 33  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 71  (Ranked 359)  
 Sum: 71 (Ranked 414)  
-Diff (max vs sum): -55
+Diff (max vs sum): -55  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| I will finish what you started | 28.00 |
+| Powergamer | 26.00 |
+| Barely scratched the surface | 25.00 |
+| Write that down | 24.00 |
+| Guns, lots of guns | 12.00 |
+| Collector | 11.00 |
+| Elementary! | 8.00 |
+| Pumpkin Jack | 8.00 |
+| Wake up! | 8.00 |
+| It's honest work | 7.00 |
+| Griever | 7.00 |
+| Me smart | 6.00 |
+| Good listener | 5.00 |
+| Trash compactor | 5.00 |
+| Valedictorian | 5.00 |
+| BOY! | 4.00 |
+| Ka-ching! | 4.00 |
+| I like to sniff around | 3.00 |
+| Mind reader | 3.00 |
+| So you like to read? | 3.00 |
+| Gentleman's classic | 2.00 |
+| Hoarder | 2.00 |
+| Is that a rift? | 2.00 |
+| It's alive! | 2.00 |
+| Enjoy the beach | 2.00 |
+| Rinse and repeat | 2.00 |
+| Mama, I'm a criminal | 2.00 |
+| Never gonna give you up | 2.00 |
+| A muscle to rely on | 1.00 |
+| Catnip | 1.00 |
+| I am in great pain, please help me | 1.00 |
+| High noon | 1.00 |
+| Random encounter | 1.00 |
+| SysOp on duty | 1.00 |
+| Take the blue pill | 1.00 |
+| A true blacksmith | 0.90 |
+| The power of three | 0.90 |
+| Let's try another | 0.80 |
+| Home run | 0.80 |
+| It's blue, always blue | 0.70 |
+| I have the high ground | 0.60 |
+| Who wouldn't love a troll? | 0.50 |
+| Enjoy these little moments | 0.40 |
+| Un-bear-able | 0.40 |
+| Irondec | 0.30 |
+| LET ME OUT! | 0.30 |
+| Well-deserved reunion | 0.30 |
+| Breaking the chains | 0.20 |
+| Aren't you overthinking? | 0.20 |
+| Take the red pill | 0.20 |
+| This is the way | 0.20 |
+| Memory 5 | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,938 (Ranked 42)  
+Progressed: 222,939 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +75,7 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-01 | 222,319 | 5 |
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
-| 2023-05-04 | 222,938 | 5 |
+| 2023-05-04 | 222,939 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

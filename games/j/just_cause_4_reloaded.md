@@ -1,10 +1,13 @@
 # Just Cause 4 Reloaded
-Rating: 4.30 (Ranked 750)  
+Rating: 4.30 (Ranked 751)  
 Number of Ratings: 5,442  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 3,589  (Ranked 78)  
 Sum: 6,841 (Ranked 104)  
-Diff (max vs sum): -26
+Diff (max vs sum): -26  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

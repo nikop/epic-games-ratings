@@ -1,6 +1,7 @@
 {
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -4693,14 +4694,18 @@
       "NumberOfAwardsMax": 165194
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:03.8328917+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:32.6409496+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:29.1990369+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T23:01:12.9778607+00:00",
+  "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 165194,
   "NumberOfAwards": 1312415,
@@ -4712,6 +4717,5 @@
   "Ranking_PopularitySum": 4,
   "Ranking_Popularity": 5,
   "Ranking_Rating": 233,
-  "Rating": 4.68,
-  "FirstSeen": "2022-07-22T20:18:49.586898+00:00"
+  "Rating": 4.68
 }

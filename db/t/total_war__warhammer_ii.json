@@ -1,6 +1,7 @@
 {
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -2382,14 +2383,18 @@
       "NumberOfAwardsMax": 4238
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:16.8104369+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:14.359843+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:13.2527943+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T11:57:09.5276408+00:00",
+  "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 4238,
   "NumberOfAwards": 13222,
@@ -2401,6 +2406,5 @@
   "Ranking_PopularitySum": 67,
   "Ranking_Popularity": 69,
   "Ranking_Rating": 192,
-  "Rating": 4.7,
-  "FirstSeen": "2022-07-22T20:16:56.1200636+00:00"
+  "Rating": 4.7
 }

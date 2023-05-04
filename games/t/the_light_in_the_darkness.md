@@ -1,9 +1,19 @@
 # The Light in the Darkness
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Jacques a Dit | 36.00 |
+| Little Helper | 31.00 |
+| Nazis in Paris | 24.00 |
+| Building the Fox | 21.00 |
+| Green Ticket Roundup | 18.00 |
+| Arranging Boxes | 14.00 |
+| Jakob | 13.00 |
+| Jude | 12.00 |
+| Le Juif et la France | 12.00 |
+| Bernard | 11.00 |
+| Nuremberg Laws | 11.00 |
+| May Their Memories be a Blessing | 8.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,119 (Ranked 155)  
 Completed: 85 (7.60%) (Ranked 16)  
@@ -20,9 +30,6 @@ Completed: 85 (7.60%) (Ranked 16)
 | 2023-05-02 | 1,097 | 82 |
 | 2023-05-03 | 1,107 | 83 |
 | 2023-05-04 | 1,119 | 85 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

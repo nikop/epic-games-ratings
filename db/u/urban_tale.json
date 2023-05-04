@@ -1,20 +1,31 @@
 {
   "ID": "8c72bb5636fe45c5af03d5f53ab25d9a",
   "Name": "Urban Tale",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:42.5178797+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:51.8475507+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:19.3163037+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:51.8475479+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:15.6976425+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:42.5178847+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:17.5762293+00:00",
+  "AchievementSets": [
+    {
+      "ID": "a2cpoj7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:52:15.6976425+00:00"
 }

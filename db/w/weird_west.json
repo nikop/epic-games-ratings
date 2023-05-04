@@ -1,6 +1,379 @@
 {
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West",
+  "Achievements": [
+    {
+      "ID": "ACH_CHAIN_REACTION",
+      "SetID": "8j30i9k",
+      "Name": "Chain Reaction",
+      "Percentage": 27,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DEAD_OR_ALIVE",
+      "SetID": "8j30i9k",
+      "Name": "Dead or Alive",
+      "Percentage": 56,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DIRT_AND_BLAME",
+      "SetID": "8j30i9k",
+      "Name": "Dirt and Blame",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DISHONORED",
+      "SetID": "8j30i9k",
+      "Name": "Dishonored",
+      "Percentage": 24,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DOG_DAYS",
+      "SetID": "8j30i9k",
+      "Name": "Dog Days",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DO_NOT_PASS_GO",
+      "SetID": "8j30i9k",
+      "Name": "Do Not Pass Go\u2026",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_ELUSIVE_PREY",
+      "SetID": "8j30i9k",
+      "Name": "Elusive Prey",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_EXPLORER",
+      "SetID": "8j30i9k",
+      "Name": "Explorer",
+      "Percentage": 0.4,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FALLEN_STAR",
+      "SetID": "8j30i9k",
+      "Name": "Fallen Star",
+      "Percentage": 16,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FOR_BALANCE",
+      "SetID": "8j30i9k",
+      "Name": "For Balance",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FULL_HOUSE",
+      "SetID": "8j30i9k",
+      "Name": "Full House",
+      "Percentage": 37,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
+      "SetID": "8j30i9k",
+      "Name": "Getting the Gang Back Together",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_GHOST_TOWN",
+      "SetID": "8j30i9k",
+      "Name": "Ghost Town",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_GOLD_DIGGER",
+      "SetID": "8j30i9k",
+      "Name": "Gold Digger",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_HEALING_OLD_WOUNDS",
+      "SetID": "8j30i9k",
+      "Name": "Healing Old Wounds",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_HERE_COMES_SANTA_CLAUS",
+      "SetID": "8j30i9k",
+      "Name": "Here Comes Santa Claus",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_IT_ALL_DIES",
+      "SetID": "8j30i9k",
+      "Name": "End the world",
+      "Percentage": 0.5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_I_KICKED_A_BIRD_AND_I_LIKED_IT",
+      "SetID": "8j30i9k",
+      "Name": "I Kicked a Bird and I Liked it",
+      "Percentage": 0.7,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_JUSTICE_SERVED",
+      "SetID": "8j30i9k",
+      "Name": "Justice Served",
+      "Percentage": 29,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_LETS_RIDE",
+      "SetID": "8j30i9k",
+      "Name": "Let\u2019s Ride",
+      "Percentage": 60,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_LIFE_FOR_A_LIFE",
+      "SetID": "8j30i9k",
+      "Name": "Hog Wild",
+      "Percentage": 0.9,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_LORD_INUT_SENDS_HIS_REGARDS",
+      "SetID": "8j30i9k",
+      "Name": "Lord Inut Sends His Regards",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_LOYALTY_TO_THE_PACK",
+      "SetID": "8j30i9k",
+      "Name": "Loyalty to the Pack",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MAN_IN_BLACK",
+      "SetID": "8j30i9k",
+      "Name": "Eternity Can Wait",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MA_BARKER",
+      "SetID": "8j30i9k",
+      "Name": "\u0027Ma Barker",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MONSTER_HUNTER",
+      "SetID": "8j30i9k",
+      "Name": "Monster Hunter",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MOONDRUNK",
+      "SetID": "8j30i9k",
+      "Name": "Moondrunk",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MOON_HUNTER",
+      "SetID": "8j30i9k",
+      "Name": "Moon Hunter",
+      "Percentage": 0.4,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MYSTERY_MACHINE",
+      "SetID": "8j30i9k",
+      "Name": "Mystery Machine",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_OFF_THE_TRAIL",
+      "SetID": "8j30i9k",
+      "Name": "Off the Trail",
+      "Percentage": 34,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_OUT_ON_THE_EBB_TIDE",
+      "SetID": "8j30i9k",
+      "Name": "Out on the Ebb Tide",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_PERKY",
+      "SetID": "8j30i9k",
+      "Name": "Perky",
+      "Percentage": 66,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_PIT_FIGHTER",
+      "SetID": "8j30i9k",
+      "Name": "Winter Has Come",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_POWER_BEHIND_THE_PULPIT",
+      "SetID": "8j30i9k",
+      "Name": "Power Behind the Pulpit",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_RAIN_OF_DEATH",
+      "SetID": "8j30i9k",
+      "Name": "Rain of Death",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_REVENANT",
+      "SetID": "8j30i9k",
+      "Name": "Revenant",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_SCHOLAR",
+      "SetID": "8j30i9k",
+      "Name": "Scholar",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_SELF_IMPROVEMENT",
+      "SetID": "8j30i9k",
+      "Name": "Self-Improvement",
+      "Percentage": 71,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
+      "SetID": "8j30i9k",
+      "Name": "Something Wicked This Way Comes\u2026",
+      "Percentage": 12,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_THATS_ALL_FOLKS",
+      "SetID": "8j30i9k",
+      "Name": "That\u2019s All, Folks",
+      "Percentage": 18,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THERE_IS_HOPE",
+      "SetID": "8j30i9k",
+      "Name": "There is Hope",
+      "Percentage": 12,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_THE_GREAT_ESCAPE",
+      "SetID": "8j30i9k",
+      "Name": "The Great Escape",
+      "Percentage": 23,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THE_HARD_WAY",
+      "SetID": "8j30i9k",
+      "Name": "Knuckle Sandwich",
+      "Percentage": 8,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_THE_PHILOSOPHERS_STONE",
+      "SetID": "8j30i9k",
+      "Name": "The Philosopher\u2019s Stone",
+      "Percentage": 10,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THIS_IS_SPARTA",
+      "SetID": "8j30i9k",
+      "Name": "This Is Sparta",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THROUGH_THEIR_EYES",
+      "SetID": "8j30i9k",
+      "Name": "Through Their Eyes",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_TURNING_THE_TABLES",
+      "SetID": "8j30i9k",
+      "Name": "Turning the Tables",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_UNFORGIVEN",
+      "SetID": "8j30i9k",
+      "Name": "Unforgiven",
+      "Percentage": 86,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
+      "SetID": "8j30i9k",
+      "Name": "Welcome to the Weird West",
+      "Percentage": 58,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WHATS_IN_THE_BOX",
+      "SetID": "8j30i9k",
+      "Name": "What\u2019s in the Box?",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_WHO_YOU_GONNA_CALL",
+      "SetID": "8j30i9k",
+      "Name": "Who You Gonna Call?",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WINDS_OF_WAR",
+      "SetID": "8j30i9k",
+      "Name": "Winds of War",
+      "Percentage": 16,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WORKERS_RIGHTS",
+      "SetID": "8j30i9k",
+      "Name": "Workers\u0027 Rights",
+      "Percentage": 13,
+      "XP": 20
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -354,27 +727,37 @@
       "NumberOfAwardsMax": 23
     }
   ],
-  "EOS_Completed_Percentage": 0.13,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 53,
+  "LastChanged_Achievements": "2023-05-04T19:18:09.4181278+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_Completed": 2,
   "EOS_Progressed": 1492,
-  "LastUpdate_Achievements": "2023-05-04T19:03:15.1584214+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:03.8056818+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:15.1584185+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:09.4181726+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:02.6467918+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8j30i9k",
+      "IsBase": true,
+      "Progressed": 1492,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 0.13,
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
+  "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 23,
   "NumberOfAwards": 23,
   "NumberOfRatings": 125,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_Progress": 149,
   "Ranking_PopularitySum": 471,
   "Ranking_Popularity": 469,
   "Ranking_Rating": 599,
   "Rating": 4.45,
-  "FirstSeen": "2022-07-22T20:30:17.2064587+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00"
 }

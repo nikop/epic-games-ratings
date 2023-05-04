@@ -1,11 +1,63 @@
 # The Mageseeker: A League of Legends Story™
 Rating: 4.75 (Ranked 127)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| For Demacia | 95.00 |
+| No more cages! | 92.00 |
+| Everfrost | 77.00 |
+| Dark Forest | 76.00 |
+| Pentakill | 75.00 |
+| The use of petricite | 72.00 |
+| You can pet the dog | 59.00 |
+| Big Helmet Bro | 33.00 |
+| Clarion Cove | 33.00 |
+| Past trauma | 31.00 |
+| Thornbarrow | 31.00 |
+| Ternmoat Headquarters | 31.00 |
+| Elemental master | 30.00 |
+| Cypress Glen Headquarters | 30.00 |
+| Old friend | 26.00 |
+| Devineur | 25.00 |
+| Petricite Burst | 25.00 |
+| Whispers in the Woods I | 24.00 |
+| Hijack | 24.00 |
+| Ancient power | 22.00 |
+| I chose my shackles | 21.00 |
+| Sacred Woods | 20.00 |
+| Little light | 18.00 |
+| Capelworth | 18.00 |
+| Glyndemere | 17.00 |
+| Iffighain Headquarters | 17.00 |
+| Full equipped | 15.00 |
+| Whispers in the Woods II | 14.00 |
+| No more holding back | 13.00 |
+| Terbisia | 13.00 |
+| Quickmoore Headquarters | 13.00 |
+| Whispers in the Woods III | 12.00 |
+| My heart and sword always for Demacia | 11.00 |
+| Friendly fire | 11.00 |
+| True power | 11.00 |
+| Meltridge | 11.00 |
+| The Central Headquarters | 11.00 |
+| Cloven Dell Headquarters | 10.00 |
+| Embrace the darkness | 9.00 |
+| Whispers in the Woods IV | 9.00 |
+| I smell fear | 9.00 |
+| Chains master | 8.00 |
+| The end of the experiments | 8.00 |
+| The Great City of Demacia | 8.00 |
+| Back to sleep, then... | 8.00 |
+| Call it 'redistribution of magic | 8.00 |
+| Truth is a dark mirror | 7.00 |
+| You can pet the... horse | 7.00 |
+| Do you trust me? | 6.00 |
+| The great mage rebellion starts now | 6.00 |
+| Spellcrafting | 6.00 |
+| Silverwing nest | 2.00 |
+| The Unshackled | 0.40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,865 (Ranked 142)  
+Progressed: 1,866 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +71,7 @@ Completed: 1 (0.05%) (Ranked 164)
 | 2023-05-01 | 1,803 | 1 |
 | 2023-05-02 | 1,832 | 1 |
 | 2023-05-03 | 1,856 | 1 |
-| 2023-05-04 | 1,865 | 1 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 1,866 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

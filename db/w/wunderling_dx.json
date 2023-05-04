@@ -1,6 +1,295 @@
 {
   "ID": "5a7b7ab33eb145e99b4a89eccc914753",
   "Name": "Wunderling DX",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_AllGreenPortalsInWorld",
+      "SetID": "emnkcf",
+      "Name": "Third Time\u0027s A Charm",
+      "Percentage": 15,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Cassette_1",
+      "SetID": "emnkcf",
+      "Name": "Hey! Listen!",
+      "Percentage": 20,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_Cassette_5",
+      "SetID": "emnkcf",
+      "Name": "Up To Eleven",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_Chests_1",
+      "SetID": "emnkcf",
+      "Name": "Itsy Bitsy Teenie Weenie",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_Chests_20",
+      "SetID": "emnkcf",
+      "Name": "Manic: The Gathering",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Chests_5",
+      "SetID": "emnkcf",
+      "Name": "Five By Five",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_Chests_World",
+      "SetID": "emnkcf",
+      "Name": "Buccaneers And Buried Gold",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_1-14",
+      "SetID": "emnkcf",
+      "Name": "Walkabout Wipeout",
+      "Percentage": 18,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_2-10",
+      "SetID": "emnkcf",
+      "Name": "Rockrose Riot",
+      "Percentage": 15,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_3-09",
+      "SetID": "emnkcf",
+      "Name": "Dilly-Dally Done",
+      "Percentage": 15,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_4-C",
+      "SetID": "emnkcf",
+      "Name": "Compost Champ",
+      "Percentage": 15,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_5-B",
+      "SetID": "emnkcf",
+      "Name": "Factory\u0027s Finest",
+      "Percentage": 15,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_6-15",
+      "SetID": "emnkcf",
+      "Name": "Herbaria Hit",
+      "Percentage": 13,
+      "XP": 25
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_boss-1",
+      "SetID": "emnkcf",
+      "Name": "Dunces \u0026 Dragons",
+      "Percentage": 40,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_boss-2",
+      "SetID": "emnkcf",
+      "Name": "Sand Castles \u0026 Glass Camels",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_boss-3",
+      "SetID": "emnkcf",
+      "Name": "Daucus Ex Machina",
+      "Percentage": 18,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_boss-4",
+      "SetID": "emnkcf",
+      "Name": "To Beet, Or Not To Beet",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Complete_level-Final",
+      "SetID": "emnkcf",
+      "Name": "Final Fantasizer",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_CowQuest_1",
+      "SetID": "emnkcf",
+      "Name": "(Don\u0027t) Have A Cow, Man!",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_CowQuest_10",
+      "SetID": "emnkcf",
+      "Name": "Hoofmeister",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Deaths_100",
+      "SetID": "emnkcf",
+      "Name": "It\u0027s A Hard Knock Life",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_EquipAllCategories",
+      "SetID": "emnkcf",
+      "Name": "Fashion Victim",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_EquipOneItem",
+      "SetID": "emnkcf",
+      "Name": "Dressed For Success",
+      "Percentage": 48,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_FindFrogInCar",
+      "SetID": "emnkcf",
+      "Name": "Release The Croaker",
+      "Percentage": 10,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_FindGoldPortal",
+      "SetID": "emnkcf",
+      "Name": "Fool\u0027s Gold",
+      "Percentage": 13,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_FirstPortal",
+      "SetID": "emnkcf",
+      "Name": "Warp Zoned",
+      "Percentage": 90,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_Flowers_1",
+      "SetID": "emnkcf",
+      "Name": "Wallflower",
+      "Percentage": 90,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_Flowers_20",
+      "SetID": "emnkcf",
+      "Name": "Late Bloomer",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_Flowers_5",
+      "SetID": "emnkcf",
+      "Name": "Flower Punk",
+      "Percentage": 63,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_Flowers_World",
+      "SetID": "emnkcf",
+      "Name": "Orange Blossom Special",
+      "Percentage": 15,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_GreenPortal",
+      "SetID": "emnkcf",
+      "Name": "Green, Green Gates Of Home",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_Jump_100",
+      "SetID": "emnkcf",
+      "Name": "Like A Rubber Ball",
+      "Percentage": 68,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_Jump_1000",
+      "SetID": "emnkcf",
+      "Name": "Jump They Say",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_Jump_10000",
+      "SetID": "emnkcf",
+      "Name": "Not To Touch The Earth",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_LowHealthComplete",
+      "SetID": "emnkcf",
+      "Name": "In The Nick Of Time",
+      "Percentage": 15,
+      "XP": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_Portals_10",
+      "SetID": "emnkcf",
+      "Name": "Jumpin\u0027 Jack Flash",
+      "Percentage": 57,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_Portals_100",
+      "SetID": "emnkcf",
+      "Name": "Exit, Pursued By A Blur",
+      "Percentage": 18,
+      "XP": 200
+    },
+    {
+      "ID": "ACHIEVEMENT_Portals_20",
+      "SetID": "emnkcf",
+      "Name": "20/20 Fission",
+      "Percentage": 30,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_Portals_50",
+      "SetID": "emnkcf",
+      "Name": "Beam Me Up Buttercup",
+      "Percentage": 18,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_UnlockWorld_Desert",
+      "SetID": "emnkcf",
+      "Name": "The Long, Hot Summer",
+      "Percentage": 23,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_UnlockWorld_Factory",
+      "SetID": "emnkcf",
+      "Name": "Golden Ticket",
+      "Percentage": 18,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +306,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 2.5,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 41,
+  "LastChanged_Achievements": "2023-05-04T19:17:13.7965843+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 40,
-  "LastUpdate_Achievements": "2023-05-04T19:00:35.8591946+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:05.3202513+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:35.8591921+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:13.7966176+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:02.51695+00:00",
+  "AchievementSets": [
+    {
+      "ID": "emnkcf",
+      "IsBase": true,
+      "Progressed": 40,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 2.5,
   "LastChanged": "2023-03-31T05:58:37.2849808+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:28.9093929+00:00",
   "FirstSeenRating": "2023-03-31T05:58:37.2849807+00:00",
+  "FirstSeen": "2022-07-22T20:31:45.6194368+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_Progress": 276,
-  "FirstSeen": "2022-07-22T20:31:45.6194368+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:28.9093929+00:00"
 }

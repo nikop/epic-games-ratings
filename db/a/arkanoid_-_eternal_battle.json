@@ -1,6 +1,169 @@
 {
   "ID": "935f1f4777c84a1c8c9d8cd995deb6e7",
   "Name": "Arkanoid - Eternal Battle",
+  "Achievements": [
+    {
+      "ID": "Achievement_0",
+      "SetID": "nl7ma1",
+      "Name": "Legend",
+      "Percentage": 20,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_1",
+      "SetID": "nl7ma1",
+      "Name": "Champion",
+      "Percentage": 20,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_10",
+      "SetID": "nl7ma1",
+      "Name": "Flawless Round",
+      "Percentage": 20,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_11",
+      "SetID": "nl7ma1",
+      "Name": "Neo Victory",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_12",
+      "SetID": "nl7ma1",
+      "Name": "Arcade Room King",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_13",
+      "SetID": "nl7ma1",
+      "Name": "Versus Victory",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_14",
+      "SetID": "nl7ma1",
+      "Name": "Combo Pro",
+      "Percentage": 40,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_15",
+      "SetID": "nl7ma1",
+      "Name": "Sense of Priorities",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_16",
+      "SetID": "nl7ma1",
+      "Name": "Business Acumen",
+      "Percentage": 40,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_17",
+      "SetID": "nl7ma1",
+      "Name": "Chain Reaction",
+      "Percentage": 40,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_18",
+      "SetID": "nl7ma1",
+      "Name": "Sound Barrier",
+      "Percentage": 40,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_19",
+      "SetID": "nl7ma1",
+      "Name": "Juggler",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_2",
+      "SetID": "nl7ma1",
+      "Name": "Expert",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_20",
+      "SetID": "nl7ma1",
+      "Name": "Final chance",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_21",
+      "SetID": "nl7ma1",
+      "Name": "Final square (Eternal Battle)",
+      "Percentage": 100,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_22",
+      "SetID": "nl7ma1",
+      "Name": "I\u0027ll be back",
+      "Percentage": 80,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_3",
+      "SetID": "nl7ma1",
+      "Name": "Pro",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_4",
+      "SetID": "nl7ma1",
+      "Name": "Semi-pro",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_5",
+      "SetID": "nl7ma1",
+      "Name": "Victory Royale",
+      "Percentage": 60,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_6",
+      "SetID": "nl7ma1",
+      "Name": "Collector",
+      "Percentage": 20,
+      "XP": 100
+    },
+    {
+      "ID": "Achievement_7",
+      "SetID": "nl7ma1",
+      "Name": "Purist",
+      "Percentage": 20,
+      "XP": 90
+    },
+    {
+      "ID": "Achievement_8",
+      "SetID": "nl7ma1",
+      "Name": "Insatiable",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_9",
+      "SetID": "nl7ma1",
+      "Name": "Pacifist",
+      "Percentage": 0,
+      "XP": 30
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +180,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 23,
+  "LastChanged_Achievements": "2023-05-04T19:19:30.7355181+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T19:04:39.7622682+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:03.6684648+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:39.7622654+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:30.7355367+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:01.5346608+00:00",
+  "AchievementSets": [
+    {
+      "ID": "nl7ma1",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T06:57:05.6220407+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00",
   "FirstSeenRating": "2023-03-31T06:57:05.6220405+00:00",
+  "FirstSeen": "2022-10-27T09:30:39.1234104+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 321,
-  "FirstSeen": "2022-10-27T09:30:39.1234104+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -368,16 +369,26 @@
       "NumberOfAwardsMax": 27
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:03.0174955+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:11.5977469+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:40.6366155+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:11.597745+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:03.0175005+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:38.7371045+00:00",
+  "AchievementSets": [
+    {
+      "ID": "71c0n9i",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-28T21:00:15.279807+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
+  "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 27,
   "NumberOfAwards": 170,
@@ -390,5 +401,5 @@
   "Ranking_Popularity": 453,
   "Ranking_Rating": 212,
   "Rating": 4.69,
-  "FirstSeen": "2022-07-22T20:22:48.2470941+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00"
 }

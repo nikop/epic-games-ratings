@@ -4,9 +4,71 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 93  (Ranked 331)  
 Sum: 729 (Ranked 255)  
-Diff (max vs sum): 76
+Diff (max vs sum): 76  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Setting an example | 77.00 |
+| Worth it | 63.00 |
+| Eagle Eye | 55.00 |
+| Corpseman I | 40.00 |
+| Blast fishing | 38.00 |
+| Not alone | 32.00 |
+| Headhunter I | 27.00 |
+| Manual Labour I | 26.00 |
+| Developers, Developers, Developers | 24.00 |
+| Basic Training | 24.00 |
+| Furchtlos und Treu | 13.00 |
+| Gott Mit Uns | 12.00 |
+| This We'll Defend! | 9.00 |
+| Anker wirf! | 9.00 |
+| Providentiea Memor | 9.00 |
+| For King and Country | 9.00 |
+| Battle hardened | 8.00 |
+| Semper Fidelis! | 7.00 |
+| Honneur et Patrie | 7.00 |
+| In Treue Fest | 5.00 |
+| Voor De Koning | 5.00 |
+| Extreme Headhunter | 5.00 |
+| Advance Australia | 4.00 |
+| We Stand on Guard | 4.00 |
+| Sidi Brahim | 4.00 |
+| War is better with friends I | 4.00 |
+| Let them, come to us | 4.00 |
+| Corpseman II | 4.00 |
+| Manual Labour II | 4.00 |
+| Offense is the best defence | 3.00 |
+| There is no I in team | 3.00 |
+| Veteran | 3.00 |
+| In My Defens God Me Defend | 3.00 |
+| Silver x100 | 3.00 |
+| Impavidum Ferient Bella! | 3.00 |
+| Bronze x100 | 2.00 |
+| Shoot, Cover, Reload, Repeat | 2.00 |
+| Gold x100 | 1.00 |
+| Hunting the Hun | 1.00 |
+| #1 | 1.00 |
+| Golden Headhunter | 1.00 |
+| That's another one down! | 1.00 |
+| Do you even die? | 1.00 |
+| Headhunter II | 1.00 |
+| Corpseman III | 1.00 |
+| Elite Player | 0.80 |
+| Manual Labour III | 0.40 |
+| Buddy | 0.30 |
+| War is better with friends II | 0.20 |
+| Gold Collector | 0.10 |
+| Gold Hoarder | 0.10 |
+| Silver Collector | 0.10 |
+| Silver Hoarder | 0.10 |
+| War is better with friends III | 0.10 |
+| War is better with friends IV | 0.10 |
+| Aimbot | 0.10 |
+| Headhunter III | 0.10 |
+| Comrade | 0.10 |
+| Blood Brother | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,563 (Ranked 75)  
+Progressed: 42,564 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +82,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 42,289 | 2 |
 | 2023-05-02 | 42,404 | 2 |
 | 2023-05-03 | 42,492 | 2 |
-| 2023-05-04 | 42,563 | 2 |
+| 2023-05-04 | 42,564 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

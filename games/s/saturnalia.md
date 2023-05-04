@@ -1,11 +1,30 @@
 # Saturnalia
 Rating: 4.24 (Ranked 780)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Out of Shape | 4.00 |
+| Bonfire Lit | 3.00 |
+| Survival Expert | 3.00 |
+| Denial | 2.00 |
+| Acceptance | 2.00 |
+| Bargaining | 2.00 |
+| Anger | 1.00 |
+| Fear Of The Dark | 1.00 |
+| Detective of the occult | 1.00 |
+| Depression | 1.00 |
+| Bless me Father... | 0.80 |
+| Power of Friendship | 0.60 |
+| Phone Bill | 0.60 |
+| Chain Breaker | 0.60 |
+| Silent Advisor | 0.50 |
+| Let there be light | 0.40 |
+| Soda addiction | 0.30 |
+| Paparazzi | 0.30 |
+| Are you still there? | 0.30 |
+| Ear Ringing | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,088 (Ranked 64)  
+Progressed: 63,089 (Ranked 64)  
 Completed: 10 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +38,7 @@ Completed: 10 (0.02%) (Ranked 175)
 | 2023-05-01 | 62,986 | 10 |
 | 2023-05-02 | 63,020 | 10 |
 | 2023-05-03 | 63,059 | 10 |
-| 2023-05-04 | 63,088 | 10 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 63,089 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

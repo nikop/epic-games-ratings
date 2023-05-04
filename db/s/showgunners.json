@@ -1,6 +1,330 @@
 {
   "ID": "e804a0aa57fa40738d486f70dd6d7079",
   "Name": "Showgunners",
+  "Achievements": [
+    {
+      "ID": "PJ_ACHIV_B_01",
+      "SetID": "39fp85m",
+      "Name": "Star",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_B_02",
+      "SetID": "39fp85m",
+      "Name": "Superstar",
+      "Percentage": 0,
+      "XP": 45
+    },
+    {
+      "ID": "PJ_ACHIV_B_03",
+      "SetID": "39fp85m",
+      "Name": "Legend",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "PJ_ACHIV_C_01",
+      "SetID": "39fp85m",
+      "Name": "Cha-Ching",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_C_02",
+      "SetID": "39fp85m",
+      "Name": "Material Girl",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PJ_ACHIV_C_03",
+      "SetID": "39fp85m",
+      "Name": "I\u0027m Your Biggest Fan",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_C_04",
+      "SetID": "39fp85m",
+      "Name": "Baby, There\u0027s No Other Superstar",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PJ_ACHIV_C_05",
+      "SetID": "39fp85m",
+      "Name": "Cry Me a River",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_C_06",
+      "SetID": "39fp85m",
+      "Name": "Cry Me a Riveeer",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PJ_ACHIV_C_07",
+      "SetID": "39fp85m",
+      "Name": "Murder, Inc.",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_C_08",
+      "SetID": "39fp85m",
+      "Name": "Queen of the Kill",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "PJ_ACHIV_C_09",
+      "SetID": "39fp85m",
+      "Name": "Now It\u0027s Official!",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_C_10",
+      "SetID": "39fp85m",
+      "Name": "The Big Shot",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_C_11",
+      "SetID": "39fp85m",
+      "Name": "Good Girl!",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_F_01",
+      "SetID": "39fp85m",
+      "Name": "Penta Kill",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PJ_ACHIV_F_02",
+      "SetID": "39fp85m",
+      "Name": "Sticky Bomb Kill",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PJ_ACHIV_F_03",
+      "SetID": "39fp85m",
+      "Name": "Malfunction Kill",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "PJ_ACHIV_F_04",
+      "SetID": "39fp85m",
+      "Name": "Rapid Assault",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_F_05",
+      "SetID": "39fp85m",
+      "Name": "Group Kill",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_F_06",
+      "SetID": "39fp85m",
+      "Name": "Damage Sponge",
+      "Percentage": 33,
+      "XP": 50
+    },
+    {
+      "ID": "PJ_ACHIV_P_01",
+      "SetID": "39fp85m",
+      "Name": "Season Premiere",
+      "Percentage": 67,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_02",
+      "SetID": "39fp85m",
+      "Name": "Old Quarter",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_03",
+      "SetID": "39fp85m",
+      "Name": "Abandoned Housing Block",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_04",
+      "SetID": "39fp85m",
+      "Name": "Metro Central",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_05",
+      "SetID": "39fp85m",
+      "Name": "Industrial Zone",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_P_06",
+      "SetID": "39fp85m",
+      "Name": "Disaster Area",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_P_07",
+      "SetID": "39fp85m",
+      "Name": "Amber Harbor",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_P_08",
+      "SetID": "39fp85m",
+      "Name": "Rejoyce!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PJ_ACHIV_P_09",
+      "SetID": "39fp85m",
+      "Name": "Shooting Star",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PJ_ACHIV_P_10",
+      "SetID": "39fp85m",
+      "Name": "Harder, Better, Faster, Stronger",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_P_11",
+      "SetID": "39fp85m",
+      "Name": "Gonna Fly Now",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_P_12",
+      "SetID": "39fp85m",
+      "Name": "Quite a Bodycount",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_13",
+      "SetID": "39fp85m",
+      "Name": "Hot Shots!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PJ_ACHIV_P_14",
+      "SetID": "39fp85m",
+      "Name": "Making a Killing",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_P_15",
+      "SetID": "39fp85m",
+      "Name": "Enter: Tybalt",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_16",
+      "SetID": "39fp85m",
+      "Name": "Alex, is That You?",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "PJ_ACHIV_P_17",
+      "SetID": "39fp85m",
+      "Name": "Six Barrels of Gun",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_P_18",
+      "SetID": "39fp85m",
+      "Name": "Knight of Cydonia",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_P_19",
+      "SetID": "39fp85m",
+      "Name": "Universal Soldier",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_S_01",
+      "SetID": "39fp85m",
+      "Name": "Triple Elimination",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_S_02",
+      "SetID": "39fp85m",
+      "Name": "Impostor",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "PJ_ACHIV_S_03",
+      "SetID": "39fp85m",
+      "Name": "Fatal Hack",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_S_04",
+      "SetID": "39fp85m",
+      "Name": "Assisted Kill",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PJ_ACHIV_S_05",
+      "SetID": "39fp85m",
+      "Name": "Deadly Lure",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_S_06",
+      "SetID": "39fp85m",
+      "Name": "Stealth Kill",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PJ_ACHIV_S_07",
+      "SetID": "39fp85m",
+      "Name": "Multi Heal",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +351,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 46,
+  "LastChanged_Achievements": "2023-05-04T19:17:21.228872+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 3,
-  "LastUpdate_Achievements": "2023-05-04T19:02:15.3855782+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:01.0201027+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:15.3855755+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:21.2289133+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:58.4042862+00:00",
+  "AchievementSets": [
+    {
+      "ID": "39fp85m",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T17:56:57.8703123+00:00",
-  "FirstSeenAchievements": "2023-04-27T16:01:31.7700747+00:00",
   "FirstSeenRating": "2023-05-03T17:56:57.8703123+00:00",
+  "FirstSeen": "2023-05-03T17:56:57.8703047+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 338,
-  "FirstSeen": "2023-05-03T17:56:57.8703047+00:00"
+  "FirstSeenAchievements": "2023-04-27T16:01:31.7700747+00:00"
 }

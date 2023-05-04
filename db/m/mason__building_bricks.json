@@ -1,6 +1,43 @@
 {
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
+  "Achievements": [
+    {
+      "ID": "Constructor_01",
+      "SetID": "77clh7i",
+      "Name": "Constructor",
+      "Percentage": 42,
+      "XP": 200
+    },
+    {
+      "ID": "Mason_Arch_01",
+      "SetID": "77clh7i",
+      "Name": "Arch Mason",
+      "Percentage": 17,
+      "XP": 200
+    },
+    {
+      "ID": "Mason_Expert_01",
+      "SetID": "77clh7i",
+      "Name": "Expert Mason",
+      "Percentage": 17,
+      "XP": 200
+    },
+    {
+      "ID": "Mason_Grand_01",
+      "SetID": "77clh7i",
+      "Name": "Grand Mason",
+      "Percentage": 8,
+      "XP": 200
+    },
+    {
+      "ID": "Mason_Novice_01",
+      "SetID": "77clh7i",
+      "Name": "Novice Mason",
+      "Percentage": 42,
+      "XP": 200
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +59,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 8.33,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 5,
+  "LastChanged_Achievements": "2023-05-04T19:19:13.0305177+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T19:04:22.6872734+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:51.7891829+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:22.687271+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:13.0305249+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:49.9822974+00:00",
+  "AchievementSets": [
+    {
+      "ID": "77clh7i",
+      "IsBase": true,
+      "Progressed": 12,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 8.33,
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
+  "FirstSeen": "2023-04-19T03:58:31.2715258+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_Progress": 300,
-  "FirstSeen": "2023-04-19T03:58:31.2715258+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00"
 }

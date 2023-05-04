@@ -1,9 +1,17 @@
 # Monster Harvest
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Welcome To Planimal Point | 97.00 |
+| My first Planimal! | 71.00 |
+| Red Slime Time | 68.00 |
+| To the Rec Center! | 51.00 |
+| Green Sheen | 46.00 |
+| Blue Goo | 31.00 |
+| Furniture in the Forest! | 21.00 |
+| Let's Get Fishy! | 21.00 |
+| Save the Slimes! | 11.00 |
+| So long, Slime Co! | 3.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 219 (Ranked 220)  
 Completed: 6 (2.74%) (Ranked 47)  
@@ -11,9 +19,6 @@ Completed: 6 (2.74%) (Ranked 47)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 219 | 6 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

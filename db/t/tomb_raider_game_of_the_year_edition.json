@@ -1,6 +1,7 @@
 {
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -2118,14 +2119,18 @@
       "NumberOfAwardsMax": 5760
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:35.5846105+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:06.6238025+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:04.5640228+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T21:59:13.9541054+00:00",
+  "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 5760,
   "NumberOfAwards": 6778,
@@ -2137,6 +2142,5 @@
   "Ranking_PopularitySum": 105,
   "Ranking_Popularity": 56,
   "Ranking_Rating": 272,
-  "Rating": 4.66,
-  "FirstSeen": "2022-07-22T20:21:04.7609195+00:00"
+  "Rating": 4.66
 }

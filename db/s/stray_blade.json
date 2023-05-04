@@ -1,6 +1,330 @@
 {
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
+  "Achievements": [
+    {
+      "ID": "ACH_ACTIVATE_ALL_INGLA_MIRRORS",
+      "SetID": "7i20me3",
+      "Name": "Mirror, Mirror on the Wall",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
+      "SetID": "7i20me3",
+      "Name": "Sponsor",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CRAFT_15_WEAPONS",
+      "SetID": "7i20me3",
+      "Name": "Craftsmen",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_CRAFT_ALL_ARMOR",
+      "SetID": "7i20me3",
+      "Name": "Style over Stats",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CRAFT_ALL_WEAPONS",
+      "SetID": "7i20me3",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CRAFT_FIRST_WEAPON",
+      "SetID": "7i20me3",
+      "Name": "Tinkerer",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_DEFEAT_BOSS_INGLA",
+      "SetID": "7i20me3",
+      "Name": "Defeat Ingla",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_DEFEAT_BOSS_TEZUTH",
+      "SetID": "7i20me3",
+      "Name": "Defeat Tezuth",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_DEFEAT_BOSS_USKOL",
+      "SetID": "7i20me3",
+      "Name": "Defeat Uskol",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
+      "SetID": "7i20me3",
+      "Name": "Bringing guns to a sword fight",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_DEFEAT_FIRST_ENEMY",
+      "SetID": "7i20me3",
+      "Name": "Self-Defence",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ENTER_REGION_BEAR",
+      "SetID": "7i20me3",
+      "Name": "Freezing Cold",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ENTER_REGION_LIZARD",
+      "SetID": "7i20me3",
+      "Name": "Searing Heat",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ENTER_REGION_SPIRE",
+      "SetID": "7i20me3",
+      "Name": "Through Dangers Untold",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
+      "SetID": "7i20me3",
+      "Name": "Locked and Loaded",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
+      "SetID": "7i20me3",
+      "Name": "Explorer by Heart",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_COLLECTIBLES_BEAR",
+      "SetID": "7i20me3",
+      "Name": "Mountain Lover",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_COLLECTIBLES_LIZARD",
+      "SetID": "7i20me3",
+      "Name": "Wasteland Connoisseur",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_COLLECTIBLES_STAG",
+      "SetID": "7i20me3",
+      "Name": "Forest Expert",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_COLORS",
+      "SetID": "7i20me3",
+      "Name": "Fashionista",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
+      "SetID": "7i20me3",
+      "Name": "Ancient Powers",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_LORE_TABLETS",
+      "SetID": "7i20me3",
+      "Name": "Knowledge is King",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIND_ALL_PLANT_TYPES",
+      "SetID": "7i20me3",
+      "Name": "Witch",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_ALL_RUNES",
+      "SetID": "7i20me3",
+      "Name": "Wizard",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FIND_ALL_STORY_MURALS",
+      "SetID": "7i20me3",
+      "Name": "Nothing but the Truth",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FIND_ALL_STORY_NOTES",
+      "SetID": "7i20me3",
+      "Name": "Bookworm",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_ALL_SUBREGION_MURALS_BEAR",
+      "SetID": "7i20me3",
+      "Name": "Trailblazer",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_ALL_SUBREGION_MURALS_LIZARD",
+      "SetID": "7i20me3",
+      "Name": "Wayseeker",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_ALL_SUBREGION_MURALS_STAG",
+      "SetID": "7i20me3",
+      "Name": "Pathfinder",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_ALL_TELEPORTERS",
+      "SetID": "7i20me3",
+      "Name": "Globetrotter",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_FLUX_BATTERY",
+      "SetID": "7i20me3",
+      "Name": "Finally!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FIND_WOODEN_CLUB",
+      "SetID": "7i20me3",
+      "Name": "Welcome to the Club",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_FINISH_GAME",
+      "SetID": "7i20me3",
+      "Name": "The End",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_MEET_BOJI",
+      "SetID": "7i20me3",
+      "Name": "Don\u0027t Cry Wolf",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_OPEN_TEMPLE_GATE",
+      "SetID": "7i20me3",
+      "Name": "A new World ahead",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PERFORM_MANY_PARRIES",
+      "SetID": "7i20me3",
+      "Name": "Can\u0027t touch this",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_REUNITE_WITH_BOJI",
+      "SetID": "7i20me3",
+      "Name": "The A-Team",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_REVEAL_ACREANS_TRUTH",
+      "SetID": "7i20me3",
+      "Name": "But what of the Acreans?",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
+      "SetID": "7i20me3",
+      "Name": "A Deceiving Gift",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
+      "SetID": "7i20me3",
+      "Name": "Unveiling the Truth",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_SKILLTREE_PROGRESSION_10",
+      "SetID": "7i20me3",
+      "Name": "Apprentice",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_SKILLTREE_PROGRESSION_100",
+      "SetID": "7i20me3",
+      "Name": "Master of all Domains",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_SKILLTREE_PROGRESSION_50",
+      "SetID": "7i20me3",
+      "Name": "Expert",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_UNLOCK_ABILITY_INTIUM",
+      "SetID": "7i20me3",
+      "Name": "The Golden Flash",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
+      "SetID": "7i20me3",
+      "Name": "The Power of the Mountains",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_UNLOCK_ABILITY_XHINNON",
+      "SetID": "7i20me3",
+      "Name": "Changing the World",
+      "Percentage": 0,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +346,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 46,
+  "LastChanged_Achievements": "2023-05-04T19:14:51.9186582+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T18:00:47.7381727+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:33.8093482+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:00:47.7381689+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:51.9205917+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:32.575945+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7i20me3",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
+  "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
-  "FirstSeen": "2023-04-20T22:59:51.7384582+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00"
 }

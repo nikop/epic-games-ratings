@@ -1,6 +1,7 @@
 {
   "ID": "295ff85e965841c1bd754b69596df89a",
   "Name": "Not For Broadcast",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -49,15 +50,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:20.0796183+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:49.8493248+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:48.3216251+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-18T15:57:02.0037578+00:00",
   "FirstSeenRating": "2022-11-01T16:31:24.7823618+00:00",
+  "FirstSeen": "2022-07-22T20:18:06.0135654+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -67,6 +72,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 157,
-  "Rating": 4.73,
-  "FirstSeen": "2022-07-22T20:18:06.0135654+00:00"
+  "Rating": 4.73
 }

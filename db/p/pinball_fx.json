@@ -1,6 +1,218 @@
 {
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_01",
+      "SetID": "83b4cpd",
+      "Name": "Feel the Power",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_02",
+      "SetID": "83b4cpd",
+      "Name": "Funko Town",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_03",
+      "SetID": "83b4cpd",
+      "Name": "Master of Attacks",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_04",
+      "SetID": "83b4cpd",
+      "Name": "Star Player",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_05",
+      "SetID": "83b4cpd",
+      "Name": "Royale Family",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "83b4cpd",
+      "Name": "Mythic Toy",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_07",
+      "SetID": "83b4cpd",
+      "Name": "Contender",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_08",
+      "SetID": "83b4cpd",
+      "Name": "Fully Involved",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_09",
+      "SetID": "83b4cpd",
+      "Name": "My Table, my Rules",
+      "Percentage": 0.7,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "83b4cpd",
+      "Name": "Collect Them All",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "83b4cpd",
+      "Name": "Shiny Memento",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "83b4cpd",
+      "Name": "First but not Last",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "83b4cpd",
+      "Name": "Table Mastered, part 10",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "83b4cpd",
+      "Name": "Medal Hunter",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "83b4cpd",
+      "Name": "Medal Wizard",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "83b4cpd",
+      "Name": "Ready Steady Score",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_17",
+      "SetID": "83b4cpd",
+      "Name": "Pinball Hoarder",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "83b4cpd",
+      "Name": "Virtual Pinball Museum",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "83b4cpd",
+      "Name": "Nine Zeroes",
+      "Percentage": 0.9,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "83b4cpd",
+      "Name": "Challenge Accepted!",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "83b4cpd",
+      "Name": "I Found it!",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "83b4cpd",
+      "Name": "Full Loot Madness",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "83b4cpd",
+      "Name": "Relic Hunter",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "83b4cpd",
+      "Name": "Interior Designer",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "83b4cpd",
+      "Name": "Show Them",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_26",
+      "SetID": "83b4cpd",
+      "Name": "Totally Furnished",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_27",
+      "SetID": "83b4cpd",
+      "Name": "Dress Code",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_28",
+      "SetID": "83b4cpd",
+      "Name": "Customizer",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_29",
+      "SetID": "83b4cpd",
+      "Name": "Ball Launched",
+      "Percentage": 81,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_30",
+      "SetID": "83b4cpd",
+      "Name": "I know the Rules",
+      "Percentage": 45,
+      "XP": 20
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1155,6 +1367,11 @@
     {
       "Time": "2023-05-04T19:04:03.1918136+00:00",
       "NumProgressed": 211291,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T19:18:55.1253151+00:00",
+      "NumProgressed": 211296,
       "NumCompleted": 0
     }
   ],
@@ -2495,16 +2712,26 @@
       "NumberOfAwardsMax": 172
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 30,
+  "LastChanged_Achievements": "2023-05-04T19:18:55.1253141+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2799,
+  "EOS_NewPlayers": 2804,
   "EOS_Completed": 0,
-  "EOS_Progressed": 211291,
-  "LastUpdate_Achievements": "2023-05-04T19:04:03.1918201+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:32.6571596+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:03.1918132+00:00",
+  "EOS_Progressed": 211296,
+  "LastUpdate_Achievements": "2023-05-04T19:18:55.1253412+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:30.8822486+00:00",
+  "AchievementSets": [
+    {
+      "ID": "83b4cpd",
+      "IsBase": true,
+      "Progressed": 211296,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T23:59:08.4409291+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
+  "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 172,
   "NumberOfAwards": 1483,
@@ -2517,5 +2744,5 @@
   "Ranking_Popularity": 270,
   "Ranking_Rating": 872,
   "Rating": 4.03,
-  "FirstSeen": "2022-07-22T20:17:22.6209808+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00"
 }

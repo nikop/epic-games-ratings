@@ -1,6 +1,176 @@
 {
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
+  "Achievements": [
+    {
+      "ID": "Betrayed",
+      "SetID": "6jf74lf",
+      "Name": "Betrayed",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "Chainsplosion",
+      "SetID": "6jf74lf",
+      "Name": "Chainsplosion!",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ChampionOfLight",
+      "SetID": "6jf74lf",
+      "Name": "Champion of Light",
+      "Percentage": 13,
+      "XP": 5
+    },
+    {
+      "ID": "CoffinKicker",
+      "SetID": "6jf74lf",
+      "Name": "Coffin Kicker",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "Collateral",
+      "SetID": "6jf74lf",
+      "Name": "Collateral",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "CrabCakes",
+      "SetID": "6jf74lf",
+      "Name": "Crab Cakes",
+      "Percentage": 47,
+      "XP": 10
+    },
+    {
+      "ID": "DropIn",
+      "SetID": "6jf74lf",
+      "Name": "Drop In",
+      "Percentage": 22,
+      "XP": 20
+    },
+    {
+      "ID": "EliteVamp",
+      "SetID": "6jf74lf",
+      "Name": "Elite Vamp",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "FinishHim",
+      "SetID": "6jf74lf",
+      "Name": "Finish Him",
+      "Percentage": 91,
+      "XP": 10
+    },
+    {
+      "ID": "FlightOfTheRaven",
+      "SetID": "6jf74lf",
+      "Name": "Flight of the Raven",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "FootFace",
+      "SetID": "6jf74lf",
+      "Name": "A Foot Face?",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "FunkyPuncher",
+      "SetID": "6jf74lf",
+      "Name": "That Funky Puncher",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "JustATaste",
+      "SetID": "6jf74lf",
+      "Name": "Just a Taste",
+      "Percentage": 82,
+      "XP": 10
+    },
+    {
+      "ID": "LastBullet",
+      "SetID": "6jf74lf",
+      "Name": "The Last Bullet",
+      "Percentage": 16,
+      "XP": 50
+    },
+    {
+      "ID": "MsPerfect",
+      "SetID": "6jf74lf",
+      "Name": "Ms. Perfect",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "PartingGift",
+      "SetID": "6jf74lf",
+      "Name": "Parting Gift",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "PersonallyPunched",
+      "SetID": "6jf74lf",
+      "Name": "Personally Punched",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "Skullector",
+      "SetID": "6jf74lf",
+      "Name": "Skullector",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "Skulltastic",
+      "SetID": "6jf74lf",
+      "Name": "Skulltastic",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "StomachAche",
+      "SetID": "6jf74lf",
+      "Name": "Stomach Ache",
+      "Percentage": 4,
+      "XP": 200
+    },
+    {
+      "ID": "StrangeSkulls",
+      "SetID": "6jf74lf",
+      "Name": "Strange Skulls",
+      "Percentage": 60,
+      "XP": 10
+    },
+    {
+      "ID": "ToSunrise",
+      "SetID": "6jf74lf",
+      "Name": "Survived to Sunrise",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "TreasureHunter",
+      "SetID": "6jf74lf",
+      "Name": "Treasure Hunter",
+      "Percentage": 58,
+      "XP": 20
+    },
+    {
+      "ID": "WalkingOnAir",
+      "SetID": "6jf74lf",
+      "Name": "Walking on Air",
+      "Percentage": 2,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +187,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:20:05.9163462+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 45,
-  "LastUpdate_Achievements": "2023-05-04T19:05:15.2377764+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:37.3902025+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:15.2377742+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:05.916364+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:33.7555002+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6jf74lf",
+      "IsBase": true,
+      "Progressed": 45,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
+  "FirstSeen": "2022-11-08T23:57:42.6148826+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 275,
-  "FirstSeen": "2022-11-08T23:57:42.6148826+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00"
 }

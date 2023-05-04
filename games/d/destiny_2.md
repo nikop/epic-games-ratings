@@ -4,10 +4,36 @@ Number of Ratings: 32,207  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 33,509  (Ranked 12)  
 Sum: 81,198 (Ranked 16)  
-Diff (max vs sum): -4
+Diff (max vs sum): -4  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Long and Winding Road | 94.00 |
+| The People's Hero | 58.00 |
+| In A Flash | 34.00 |
+| Lest Ye Be Judged | 27.00 |
+| Heart of Darkness | 27.00 |
+| Cayde's Pathfinder | 25.00 |
+| Ikora's Protégé | 23.00 |
+| The Life Exotic | 22.00 |
+| Heart of the Awoken | 21.00 |
+| Zavala's Lieutenant | 20.00 |
+| High-Stakes Play | 19.00 |
+| Show Me What You Got | 19.00 |
+| Challenge Accepted | 18.00 |
+| Legends Grow | 16.00 |
+| Nothing Left to Say | 15.00 |
+| Exotique | 14.00 |
+| An Exotic Journey | 14.00 |
+| Darkness Falls | 13.00 |
+| Belly Of The Beast | 12.00 |
+| Fashion Statement | 8.00 |
+| The Prestige | 7.00 |
+| Wishing for the Best | 7.00 |
+| Seal the Deal | 5.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390,317 (Ranked 34)  
-Completed: 11,397 (2.92%) (Ranked 45)  
+Progressed: 390,332 (Ranked 34)  
+Completed: 11,398 (2.92%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -20,7 +46,7 @@ Completed: 11,397 (2.92%) (Ranked 45)
 | 2023-05-01 | 387,567 | 11,323 |
 | 2023-05-02 | 388,391 | 11,341 |
 | 2023-05-03 | 389,416 | 11,367 |
-| 2023-05-04 | 390,317 | 11,397 |
+| 2023-05-04 | 390,332 | 11,398 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,6 +1,7 @@
 {
   "ID": "f979249c2a6d4b1085cfac958cbeb3aa",
   "Name": "LEGO\u00AE Bricktales",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -15,17 +16,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:16.9611783+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:18.4887832+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:59.5957497+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:18.4887813+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:16.9611828+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:57.621803+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9ap0aip",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:24.8867056+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:33.6983341+00:00",
   "FirstSeenRating": "2023-01-15T16:57:14.3009481+00:00",
+  "FirstSeen": "2022-10-13T01:00:54.7429988+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -36,5 +47,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 192,
   "Rating": 4.7,
-  "FirstSeen": "2022-10-13T01:00:54.7429988+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:33.6983341+00:00"
 }

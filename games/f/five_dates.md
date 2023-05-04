@@ -1,9 +1,22 @@
 # Five Dates
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| All Set Up | 99.00 |
+| Digital Casanova | 96.00 |
+| Hold my Beer | 64.00 |
+| Nueva Beginnings | 35.00 |
+| Only Thyme Will Tell | 34.00 |
+| Not Alone | 30.00 |
+| We Go Again | 29.00 |
+| In Contempt of Duvet | 28.00 |
+| Booty Call | 26.00 |
+| Planting the Seed | 21.00 |
+| Light Sleepers | 17.00 |
+| Smooth Criminal | 9.00 |
+| Sore Loser | 8.00 |
+| Crash and Burn | 3.00 |
+| Interrogation | 3.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 343 (Ranked 198)  
 Completed: 3 (0.87%) (Ranked 83)  
@@ -18,9 +31,6 @@ Completed: 3 (0.87%) (Ranked 83)
 | 2023-05-01 | 340 | 3 |
 | 2023-05-02 | 341 | 3 |
 | 2023-05-04 | 343 | 3 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

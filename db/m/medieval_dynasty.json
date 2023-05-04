@@ -1,6 +1,7 @@
 {
   "ID": "c556d22537ed4a14a454813c9faedd3a",
   "Name": "Medieval Dynasty",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Obsessive Gameplay",
@@ -920,14 +921,18 @@
       "NumberOfAwardsMax": 48
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:29.9947656+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:13.0615909+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:11.961869+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T21:57:16.3833678+00:00",
+  "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 48,
   "NumberOfAwards": 385,
@@ -939,6 +944,5 @@
   "Ranking_PopularitySum": 304,
   "Ranking_Popularity": 391,
   "Ranking_Rating": 290,
-  "Rating": 4.65,
-  "FirstSeen": "2022-07-22T20:20:29.0491506+00:00"
+  "Rating": 4.65
 }

@@ -1,6 +1,106 @@
 {
   "ID": "0c9bc4e378054051ad4433800e3c76d7",
   "Name": "BloodRayne 2: Terminal Cut",
+  "Achievements": [
+    {
+      "ID": "EAchievement_Amateur_Electrician",
+      "SetID": "2hpa30b",
+      "Name": "Amateur Electrician",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Armed_And_Dangerous",
+      "SetID": "2hpa30b",
+      "Name": "Armed and Dangerous",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Carnage",
+      "SetID": "2hpa30b",
+      "Name": "CARNAGE",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Combat_Specialist",
+      "SetID": "2hpa30b",
+      "Name": "Combat Specialist",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Deathtraps",
+      "SetID": "2hpa30b",
+      "Name": "Deathtraps",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Feeding_Frenzy",
+      "SetID": "2hpa30b",
+      "Name": "Executioner",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Full_Blooded_Vampire",
+      "SetID": "2hpa30b",
+      "Name": "Full Blooded Vampire",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Go_For_The_Heart",
+      "SetID": "2hpa30b",
+      "Name": "Go for the Heart",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "EAchievement_Going_Batty",
+      "SetID": "2hpa30b",
+      "Name": "Going Batty",
+      "Percentage": 25,
+      "XP": 150
+    },
+    {
+      "ID": "EAchievement_Nowhere_You_Can_Hide",
+      "SetID": "2hpa30b",
+      "Name": "Nowhere you can hide",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Patricide",
+      "SetID": "2hpa30b",
+      "Name": "Patricide",
+      "Percentage": 13,
+      "XP": 75
+    },
+    {
+      "ID": "EAchievement_Pound_Of_Flesh",
+      "SetID": "2hpa30b",
+      "Name": "Pound of Flesh",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "EAchievement_Tight_Rope",
+      "SetID": "2hpa30b",
+      "Name": "Tightrope",
+      "Percentage": 13,
+      "XP": 100
+    },
+    {
+      "ID": "EAchievement_Zen_Garden",
+      "SetID": "2hpa30b",
+      "Name": "Zen Garden",
+      "Percentage": 13,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +117,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 14,
+  "LastChanged_Achievements": "2023-05-04T19:20:11.9036652+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-04T19:05:20.8139502+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:43.6492629+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:20.8139472+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:11.9036776+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:40.255684+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2hpa30b",
+      "IsBase": true,
+      "Progressed": 8,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:48.9575384+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.9575383+00:00",
+  "FirstSeen": "2022-11-06T10:29:54.4473123+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 309,
-  "FirstSeen": "2022-11-06T10:29:54.4473123+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00"
 }

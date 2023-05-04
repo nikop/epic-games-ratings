@@ -1,9 +1,37 @@
 # Grand Theft Auto III – The Definitive Edition
 Rating: 4.16 (Ranked 831)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First Day on the Job | 83.00 |
+| Disposing of the Evidence | 36.00 |
+| Without a Scratch | 32.00 |
+| Wreckless Driving | 27.00 |
+| A Marked Man | 24.00 |
+| Street Sweeper | 17.00 |
+| Liberty City Minute | 16.00 |
+| Offshore Delivery | 12.00 |
+| Dirty Money | 11.00 |
+| By a Mile | 9.00 |
+| Right-hand Man | 9.00 |
+| Not So Fast | 8.00 |
+| A Gift from the King | 6.00 |
+| Full Artillery | 4.00 |
+| Mob Boss | 2.00 |
+| Splish Splash | 2.00 |
+| Escape Artist | 1.00 |
+| Got This Figured Out | 1.00 |
+| Come Out to Play-y-y-y | 1.00 |
+| Where To? | 1.00 |
+| Playing Doctor | 1.00 |
+| Liberty City Secrets | 1.00 |
+| Wheels Up | 0.90 |
+| Man Toyz | 0.90 |
+| Going Rogue | 0.90 |
+| Planned Ahead | 0.80 |
+| Furious First Responder | 0.80 |
+| Is That All You've Got? | 0.70 |
+| King of Liberty City | 0.50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,806 (Ranked 122)  
 Completed: 25 (0.52%) (Ranked 95)  
@@ -20,9 +48,6 @@ Completed: 25 (0.52%) (Ranked 95)
 | 2023-05-02 | 4,793 | 24 |
 | 2023-05-03 | 4,802 | 25 |
 | 2023-05-04 | 4,806 | 25 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

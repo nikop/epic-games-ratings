@@ -1,11 +1,23 @@
 # Smalland: Survive the Wilds
 Rating: 4.49 (Ranked 547)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| One VERY small step | 4.00 |
+| Getting some shuteye | 3.00 |
+| Insect hunter | 3.00 |
+| Stone Age | 3.00 |
+| Safe! | 2.00 |
+| Vertebrate hunter | 2.00 |
+| Forming bonds | 1.00 |
+| Smooth as silk | 1.00 |
+| Mastermind | 0.60 |
+| Metal Age | 0.60 |
+| Hang time | 0.50 |
+| Something Wicked | 0.30 |
+| The Key | 0.20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,131 (Ranked 94)  
+Progressed: 18,134 (Ranked 94)  
 Completed: 18 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +31,7 @@ Completed: 18 (0.10%) (Ranked 150)
 | 2023-05-01 | 17,964 | 18 |
 | 2023-05-02 | 18,037 | 18 |
 | 2023-05-03 | 18,085 | 18 |
-| 2023-05-04 | 18,131 | 18 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 18,134 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,6 +1,7 @@
 {
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -3179,14 +3180,18 @@
       "NumberOfAwardsMax": 482
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:16.6502562+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:49.4763265+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:46.975093+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T03:59:05.7453591+00:00",
+  "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
   "MaxAwardTitle": "Amazing Characters",
   "NumberOfAwardsMax": 482,
   "NumberOfAwards": 3656,
@@ -3198,6 +3203,5 @@
   "Ranking_PopularitySum": 135,
   "Ranking_Popularity": 185,
   "Ranking_Rating": 59,
-  "Rating": 4.82,
-  "FirstSeen": "2022-07-22T20:23:56.8065488+00:00"
+  "Rating": 4.82
 }

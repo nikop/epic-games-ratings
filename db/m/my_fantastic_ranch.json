@@ -1,6 +1,183 @@
 {
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "6ljhbe4",
+      "Name": "Let the Adventure Begin!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "10",
+      "SetID": "6ljhbe4",
+      "Name": "Creature Evolution",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "11",
+      "SetID": "6ljhbe4",
+      "Name": "Think Positive",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "12",
+      "SetID": "6ljhbe4",
+      "Name": "Kingdom Champions",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "13",
+      "SetID": "6ljhbe4",
+      "Name": "Dream Team",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "14",
+      "SetID": "6ljhbe4",
+      "Name": "Festival Fever",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "15",
+      "SetID": "6ljhbe4",
+      "Name": "S is for Sensational",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "16",
+      "SetID": "6ljhbe4",
+      "Name": "Gotta Adopt Them All!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "17",
+      "SetID": "6ljhbe4",
+      "Name": "Protected Nature Reserve",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "18",
+      "SetID": "6ljhbe4",
+      "Name": "Diamonds in the Rough",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "19",
+      "SetID": "6ljhbe4",
+      "Name": "Landscaper",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "2",
+      "SetID": "6ljhbe4",
+      "Name": "Spirit of competition",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "20",
+      "SetID": "6ljhbe4",
+      "Name": "Paving the Way",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "21",
+      "SetID": "6ljhbe4",
+      "Name": "Dream Big",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "22",
+      "SetID": "6ljhbe4",
+      "Name": "Just One More Go",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "23",
+      "SetID": "6ljhbe4",
+      "Name": "Dragon Academy",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "24",
+      "SetID": "6ljhbe4",
+      "Name": "Fully Booked!",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "25",
+      "SetID": "6ljhbe4",
+      "Name": "Job Done!",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "3",
+      "SetID": "6ljhbe4",
+      "Name": "Kingdom Party Time",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "4",
+      "SetID": "6ljhbe4",
+      "Name": "Entering New Territory",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "5",
+      "SetID": "6ljhbe4",
+      "Name": "Neverending Story",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "6",
+      "SetID": "6ljhbe4",
+      "Name": "Claim to Fame",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "7",
+      "SetID": "6ljhbe4",
+      "Name": "Lecturer",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "8",
+      "SetID": "6ljhbe4",
+      "Name": "Kindred Spirits",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "9",
+      "SetID": "6ljhbe4",
+      "Name": "Prized Possession",
+      "Percentage": 0,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +188,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 25,
+  "LastChanged_Achievements": "2023-05-04T19:18:17.3808751+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:22.9787622+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:14.6632073+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:22.9787608+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:17.3808932+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:13.1898378+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6ljhbe4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
+  "FirstSeen": "2022-11-24T21:57:55.7578947+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-11-24T21:57:55.7578947+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00"
 }

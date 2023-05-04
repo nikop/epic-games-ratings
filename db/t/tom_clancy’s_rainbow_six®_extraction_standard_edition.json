@@ -1,6 +1,7 @@
 {
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -1317,14 +1318,18 @@
       "NumberOfAwardsMax": 148
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:53.1574215+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:25.3494664+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:23.8303474+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T14:59:16.1272287+00:00",
+  "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 148,
   "NumberOfAwards": 890,
@@ -1336,6 +1341,5 @@
   "Ranking_PopularitySum": 235,
   "Ranking_Popularity": 283,
   "Ranking_Rating": 499,
-  "Rating": 4.52,
-  "FirstSeen": "2022-07-22T20:22:18.7941234+00:00"
+  "Rating": 4.52
 }

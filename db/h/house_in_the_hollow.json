@@ -1,6 +1,141 @@
 {
   "ID": "b82ffd0e681e4961bf2de33965e3b09f",
   "Name": "House In The Hollow",
+  "Achievements": [
+    {
+      "ID": "ACH_EIGHTEEN_KITCHEN",
+      "SetID": "ahn6fj7",
+      "Name": "Whats Cooking",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_EIGHT_ESCAPED",
+      "SetID": "ahn6fj7",
+      "Name": "Let Me Out",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "ACH_ELEVEN_FOLLY",
+      "SetID": "ahn6fj7",
+      "Name": "Unnamed Tomb",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_FIFTEEN_BATHROOM",
+      "SetID": "ahn6fj7",
+      "Name": "Hold It In",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIVE_ATTIC_FOUND",
+      "SetID": "ahn6fj7",
+      "Name": "Hidden Attic",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_FOURTEEN_MBUNLOCK",
+      "SetID": "ahn6fj7",
+      "Name": "Lay Me Down",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_FOUR_CELLAR_DWELLER",
+      "SetID": "ahn6fj7",
+      "Name": "Cellar Dweller",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_NINETEEN_GNOMES",
+      "SetID": "ahn6fj7",
+      "Name": "Gnome Master",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_NINE_TEMPLE",
+      "SetID": "ahn6fj7",
+      "Name": "Temple Of The Winds",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_ONE_ESTATE_FOUND",
+      "SetID": "ahn6fj7",
+      "Name": "Barrett Estate",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SEVENTEEN_STUDY",
+      "SetID": "ahn6fj7",
+      "Name": "Barrett\u0027s Study",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_SEVEN_MAGUS",
+      "SetID": "ahn6fj7",
+      "Name": "Lost Manuscript",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_SIXTEEN_DEN",
+      "SetID": "ahn6fj7",
+      "Name": "The Den",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_SIX_POND_SECRETS",
+      "SetID": "ahn6fj7",
+      "Name": "Secret Of The Pond",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_TEN_STUMP",
+      "SetID": "ahn6fj7",
+      "Name": "Church Alter",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_THIRTEEN_TUNNELS",
+      "SetID": "ahn6fj7",
+      "Name": "What Lies Beneath",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_THREE_PORTAL_OPENED",
+      "SetID": "ahn6fj7",
+      "Name": "Open Sesame",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_TWELVE_MUSIC",
+      "SetID": "ahn6fj7",
+      "Name": "Play It Again",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_TWO_MANOR_FOUND",
+      "SetID": "ahn6fj7",
+      "Name": "Lower Legion",
+      "Percentage": 100,
+      "XP": 55
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +145,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 19,
+  "LastChanged_Achievements": "2023-05-04T19:20:10.438775+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:05:19.3406059+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:41.6770617+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:19.3406038+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:53:29.3401151+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:10.4387903+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:38.4126288+00:00",
+  "AchievementSets": [
+    {
+      "ID": "ahn6fj7",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-25T20:53:29.3401151+00:00"
 }

@@ -1,6 +1,204 @@
 {
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
+  "Achievements": [
+    {
+      "ID": "ALL_COMBO_ARIZONA",
+      "SetID": "4dbk7kc",
+      "Name": "Well-Done",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "ALL_COMBO_OLEANDER",
+      "SetID": "4dbk7kc",
+      "Name": "Valedictorian",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "ALL_COMBO_PAPRIKA",
+      "SetID": "4dbk7kc",
+      "Name": "Love is a Battlefield",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "ALL_COMBO_POM",
+      "SetID": "4dbk7kc",
+      "Name": "That\u0027ll Do",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "ALL_COMBO_SHANTY",
+      "SetID": "4dbk7kc",
+      "Name": "Swashbuckle\u0027d",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "ALL_COMBO_STARTING_6",
+      "SetID": "4dbk7kc",
+      "Name": "School of Hard Knocks",
+      "Percentage": 0.1,
+      "XP": 80
+    },
+    {
+      "ID": "ALL_COMBO_TIANHUO",
+      "SetID": "4dbk7kc",
+      "Name": "Way of the Dragon",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "ALL_COMBO_VELVET",
+      "SetID": "4dbk7kc",
+      "Name": "Iced Out",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "BEGIN_STORY_MODE",
+      "SetID": "4dbk7kc",
+      "Name": "Once upon a time...",
+      "Percentage": 35,
+      "XP": 15
+    },
+    {
+      "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "Kickin\u0027 \u0027n Stompin\u0027",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARCADE_OLEANDER_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "Dark Magic",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARCADE_PAPRIKA_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "I Love You This Much",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARCADE_POM_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "Who Let The Dogs Out?",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARCADE_SHANTY_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "The GOAT",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARCADE_STARTING_6",
+      "SetID": "4dbk7kc",
+      "Name": "The Key To Victory",
+      "Percentage": 0.1,
+      "XP": 80
+    },
+    {
+      "ID": "COMPLETE_ARCADE_TIANHUO_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "Honor For All",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARCADE_VELVET_GREENHORN",
+      "SetID": "4dbk7kc",
+      "Name": "Ice Queen",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_ARIZONAS_STORY_MODE_CHAPTER",
+      "SetID": "4dbk7kc",
+      "Name": "Champ\u0027een of The Praire",
+      "Percentage": 1,
+      "XP": 25
+    },
+    {
+      "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
+      "SetID": "4dbk7kc",
+      "Name": "... in the magical land of Foenum...",
+      "Percentage": 34,
+      "XP": 15
+    },
+    {
+      "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
+      "SetID": "4dbk7kc",
+      "Name": "Doohickeys",
+      "Percentage": 0.1,
+      "XP": 80
+    },
+    {
+      "ID": "PLAY_1_ONLINE_MATCH",
+      "SetID": "4dbk7kc",
+      "Name": "Be Gentle...",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "PLAY_25_ONLINE_MATCHES",
+      "SetID": "4dbk7kc",
+      "Name": "Tenderhoof",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "STOMP_PAPRIKA_INTO_ORBIT",
+      "SetID": "4dbk7kc",
+      "Name": "Alpaca Space Program",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "STOMP_SON_OF_DEER_PAINTING",
+      "SetID": "4dbk7kc",
+      "Name": "Sin\u0027er Man",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "UNLOCK_ALL_TROPHIES",
+      "SetID": "4dbk7kc",
+      "Name": "High Priestess",
+      "Percentage": 0.1,
+      "XP": 145
+    },
+    {
+      "ID": "WIN_10_ONLINE_MATCHES",
+      "SetID": "4dbk7kc",
+      "Name": "Makin\u0027 Bacon",
+      "Percentage": 4,
+      "XP": 25
+    },
+    {
+      "ID": "WIN_1_ONLINE_MATCH",
+      "SetID": "4dbk7kc",
+      "Name": "A Worthy Opponent",
+      "Percentage": 17,
+      "XP": 15
+    },
+    {
+      "ID": "WIN_25_ONLINE_MATCHES",
+      "SetID": "4dbk7kc",
+      "Name": "Come At Me!",
+      "Percentage": 1,
+      "XP": 80
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1042,6 +1240,11 @@
       "Time": "2023-05-04T19:04:49.2602949+00:00",
       "NumProgressed": 220232,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T19:19:40.0394778+00:00",
+      "NumProgressed": 220233,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -1200,17 +1403,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 28,
+  "LastChanged_Achievements": "2023-05-04T19:19:40.0394767+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 704,
   "EOS_Completed": 2,
-  "EOS_Progressed": 220232,
-  "LastUpdate_Achievements": "2023-05-04T19:04:49.2603018+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:13.851278+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:49.2602944+00:00",
+  "EOS_Progressed": 220233,
+  "LastUpdate_Achievements": "2023-05-04T19:19:40.0395035+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:12.0473774+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4dbk7kc",
+      "IsBase": true,
+      "Progressed": 220233,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T03:59:55.6951635+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
+  "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -1221,5 +1434,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 337,
   "Rating": 4.62,
-  "FirstSeen": "2022-12-19T18:57:06.8658934+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00"
 }

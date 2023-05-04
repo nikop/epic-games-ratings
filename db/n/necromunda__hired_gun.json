@@ -1,6 +1,7 @@
 {
   "ID": "8c8bd44c4f8a4948800b27d9c1248c0c",
   "Name": "Necromunda: Hired Gun",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -338,14 +339,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:27.9195172+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:53.8301316+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:50.4384649+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-17T17:57:12.5719352+00:00",
+  "FirstSeen": "2022-07-22T20:19:25.444395+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 112,
@@ -356,6 +361,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 850,
-  "Rating": 4.1,
-  "FirstSeen": "2022-07-22T20:19:25.444395+00:00"
+  "Rating": 4.1
 }

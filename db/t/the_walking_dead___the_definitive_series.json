@@ -1,6 +1,7 @@
 {
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
@@ -762,14 +763,18 @@
       "NumberOfAwardsMax": 458
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:32.4356432+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:03.185429+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:01.0424933+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T04:59:23.8156568+00:00",
+  "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 458,
   "NumberOfAwards": 641,
@@ -781,6 +786,5 @@
   "Ranking_PopularitySum": 271,
   "Ranking_Popularity": 186,
   "Ranking_Rating": 28,
-  "Rating": 4.86,
-  "FirstSeen": "2022-07-22T20:22:07.806679+00:00"
+  "Rating": 4.86
 }

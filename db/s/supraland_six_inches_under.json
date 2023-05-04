@@ -1,6 +1,379 @@
 {
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
+  "Achievements": [
+    {
+      "ID": "2ndFloor",
+      "SetID": "5lok9mm",
+      "Name": "You feel middle classy",
+      "Percentage": 86,
+      "XP": 5
+    },
+    {
+      "ID": "AllChests",
+      "SetID": "5lok9mm",
+      "Name": "All the chests",
+      "Percentage": 13,
+      "XP": 100
+    },
+    {
+      "ID": "Area2",
+      "SetID": "5lok9mm",
+      "Name": "Industrial Area",
+      "Percentage": 89,
+      "XP": 5
+    },
+    {
+      "ID": "Area3",
+      "SetID": "5lok9mm",
+      "Name": "Banking District",
+      "Percentage": 85,
+      "XP": 5
+    },
+    {
+      "ID": "Area4",
+      "SetID": "5lok9mm",
+      "Name": "Beat the big arena",
+      "Percentage": 82,
+      "XP": 5
+    },
+    {
+      "ID": "Arrested",
+      "SetID": "5lok9mm",
+      "Name": "Arrested",
+      "Percentage": 85,
+      "XP": 5
+    },
+    {
+      "ID": "Beam",
+      "SetID": "5lok9mm",
+      "Name": "Force Beam",
+      "Percentage": 92,
+      "XP": 20
+    },
+    {
+      "ID": "BenCave",
+      "SetID": "5lok9mm",
+      "Name": "Played with fire",
+      "Percentage": 69,
+      "XP": 15
+    },
+    {
+      "ID": "BoomerAxe",
+      "SetID": "5lok9mm",
+      "Name": "Boomeraxe",
+      "Percentage": 86,
+      "XP": 20
+    },
+    {
+      "ID": "BossBeaten",
+      "SetID": "5lok9mm",
+      "Name": "Inner Peace",
+      "Percentage": 77,
+      "XP": 50
+    },
+    {
+      "ID": "Detector",
+      "SetID": "5lok9mm",
+      "Name": "Chest Detector",
+      "Percentage": 54,
+      "XP": 20
+    },
+    {
+      "ID": "Down",
+      "SetID": "5lok9mm",
+      "Name": "Hit Rock Bottom",
+      "Percentage": 97,
+      "XP": 10
+    },
+    {
+      "ID": "ElasticBeam",
+      "SetID": "5lok9mm",
+      "Name": "Bouncy",
+      "Percentage": 61,
+      "XP": 20
+    },
+    {
+      "ID": "ElectricGun",
+      "SetID": "5lok9mm",
+      "Name": "Zappy Gun",
+      "Percentage": 85,
+      "XP": 20
+    },
+    {
+      "ID": "EnterTown",
+      "SetID": "5lok9mm",
+      "Name": "Entered Cage Town",
+      "Percentage": 93,
+      "XP": 5
+    },
+    {
+      "ID": "Escape",
+      "SetID": "5lok9mm",
+      "Name": "You\u0027re unsure if you broke the game or not",
+      "Percentage": 41,
+      "XP": 15
+    },
+    {
+      "ID": "FireGun",
+      "SetID": "5lok9mm",
+      "Name": "Flames",
+      "Percentage": 52,
+      "XP": 50
+    },
+    {
+      "ID": "FloatingMan",
+      "SetID": "5lok9mm",
+      "Name": "Much Magic",
+      "Percentage": 56,
+      "XP": 15
+    },
+    {
+      "ID": "ForceCube",
+      "SetID": "5lok9mm",
+      "Name": "Force Cube",
+      "Percentage": 81,
+      "XP": 20
+    },
+    {
+      "ID": "FullyEngaged",
+      "SetID": "5lok9mm",
+      "Name": "You feel fully engaged",
+      "Percentage": 23,
+      "XP": 50
+    },
+    {
+      "ID": "GoldenBeam",
+      "SetID": "5lok9mm",
+      "Name": "Got your own one now",
+      "Percentage": 85,
+      "XP": 20
+    },
+    {
+      "ID": "GoodMorning",
+      "SetID": "5lok9mm",
+      "Name": "Good Morning",
+      "Percentage": 99,
+      "XP": 5
+    },
+    {
+      "ID": "GotBattery",
+      "SetID": "5lok9mm",
+      "Name": "Got Battery",
+      "Percentage": 80,
+      "XP": 5
+    },
+    {
+      "ID": "Greenhouse",
+      "SetID": "5lok9mm",
+      "Name": "Greenhouse",
+      "Percentage": 71,
+      "XP": 50
+    },
+    {
+      "ID": "GuardDistracted",
+      "SetID": "5lok9mm",
+      "Name": "Guard Distracted",
+      "Percentage": 80,
+      "XP": 5
+    },
+    {
+      "ID": "HighJump",
+      "SetID": "5lok9mm",
+      "Name": "High Jump",
+      "Percentage": 96,
+      "XP": 10
+    },
+    {
+      "ID": "HotGuy",
+      "SetID": "5lok9mm",
+      "Name": "Too hot",
+      "Percentage": 19,
+      "XP": 50
+    },
+    {
+      "ID": "KneeBending",
+      "SetID": "5lok9mm",
+      "Name": "Knee bending",
+      "Percentage": 96,
+      "XP": 10
+    },
+    {
+      "ID": "Magnet",
+      "SetID": "5lok9mm",
+      "Name": "Magnet",
+      "Percentage": 90,
+      "XP": 20
+    },
+    {
+      "ID": "MagnetRepel",
+      "SetID": "5lok9mm",
+      "Name": "Magnet Repel",
+      "Percentage": 88,
+      "XP": 20
+    },
+    {
+      "ID": "Map",
+      "SetID": "5lok9mm",
+      "Name": "Don\u0027t draw dicks pls",
+      "Percentage": 84,
+      "XP": 20
+    },
+    {
+      "ID": "MissionUnlikely",
+      "SetID": "5lok9mm",
+      "Name": "Mission Unlikely",
+      "Percentage": 85,
+      "XP": 5
+    },
+    {
+      "ID": "Momentum",
+      "SetID": "5lok9mm",
+      "Name": "Momentum",
+      "Percentage": 45,
+      "XP": 20
+    },
+    {
+      "ID": "NoMatch",
+      "SetID": "5lok9mm",
+      "Name": "No Match for you",
+      "Percentage": 65,
+      "XP": 5
+    },
+    {
+      "ID": "PickaxeDiamond",
+      "SetID": "5lok9mm",
+      "Name": "Diamond Pickaxe",
+      "Percentage": 76,
+      "XP": 10
+    },
+    {
+      "ID": "PickaxeGuy",
+      "SetID": "5lok9mm",
+      "Name": "You feel very sorry",
+      "Percentage": 69,
+      "XP": 5
+    },
+    {
+      "ID": "PickaxeIron",
+      "SetID": "5lok9mm",
+      "Name": "Iron Pickaxe",
+      "Percentage": 86,
+      "XP": 10
+    },
+    {
+      "ID": "PickaxeStone",
+      "SetID": "5lok9mm",
+      "Name": "Stone Pickaxe",
+      "Percentage": 93,
+      "XP": 10
+    },
+    {
+      "ID": "PickaxeWood",
+      "SetID": "5lok9mm",
+      "Name": "Pickaxe",
+      "Percentage": 94,
+      "XP": 10
+    },
+    {
+      "ID": "Plumbster",
+      "SetID": "5lok9mm",
+      "Name": "Plumbster",
+      "Percentage": 60,
+      "XP": 20
+    },
+    {
+      "ID": "Race",
+      "SetID": "5lok9mm",
+      "Name": "Faster",
+      "Percentage": 59,
+      "XP": 20
+    },
+    {
+      "ID": "Revenge",
+      "SetID": "5lok9mm",
+      "Name": "Revenge",
+      "Percentage": 93,
+      "XP": 15
+    },
+    {
+      "ID": "RocketLaunched",
+      "SetID": "5lok9mm",
+      "Name": "Rocket Launched",
+      "Percentage": 97,
+      "XP": 5
+    },
+    {
+      "ID": "SecretInSecretInSecret",
+      "SetID": "5lok9mm",
+      "Name": "But wait... ...There\u0027s more...",
+      "Percentage": 39,
+      "XP": 5
+    },
+    {
+      "ID": "SeeTown",
+      "SetID": "5lok9mm",
+      "Name": "Cage Town",
+      "Percentage": 93,
+      "XP": 5
+    },
+    {
+      "ID": "Speed",
+      "SetID": "5lok9mm",
+      "Name": "Speed",
+      "Percentage": 97,
+      "XP": 10
+    },
+    {
+      "ID": "Strength",
+      "SetID": "5lok9mm",
+      "Name": "Ripped",
+      "Percentage": 84,
+      "XP": 20
+    },
+    {
+      "ID": "Surprise",
+      "SetID": "5lok9mm",
+      "Name": "Surprise",
+      "Percentage": 93,
+      "XP": 5
+    },
+    {
+      "ID": "TownArena",
+      "SetID": "5lok9mm",
+      "Name": "Killed them all",
+      "Percentage": 76,
+      "XP": 5
+    },
+    {
+      "ID": "TransShotForce",
+      "SetID": "5lok9mm",
+      "Name": "So much force",
+      "Percentage": 34,
+      "XP": 20
+    },
+    {
+      "ID": "Translocator",
+      "SetID": "5lok9mm",
+      "Name": "Translocator",
+      "Percentage": 79,
+      "XP": 20
+    },
+    {
+      "ID": "TrickleDown",
+      "SetID": "5lok9mm",
+      "Name": "Trickle Down Economy",
+      "Percentage": 76,
+      "XP": 5
+    },
+    {
+      "ID": "Win",
+      "SetID": "5lok9mm",
+      "Name": "Win",
+      "Percentage": 75,
+      "XP": 100
+    }
+  ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -406,16 +779,26 @@
       "NumberOfAwardsMax": 97
     }
   ],
-  "EOS_Completed_Percentage": 11.97,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 53,
+  "LastChanged_Achievements": "2023-05-04T19:20:00.3495612+00:00",
   "EOS_NewCompleters": 2,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 238,
   "EOS_Progressed": 1989,
-  "LastUpdate_Achievements": "2023-05-04T19:05:09.2173884+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:29.4140585+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:09.2173848+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:00.349606+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:26.4422408+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5lok9mm",
+      "IsBase": true,
+      "Progressed": 1989,
+      "Completed": 238
+    }
+  ],
+  "EOS_Completed_Percentage": 11.97,
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
+  "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
   "NumberOfAwardsMax": 97,
   "NumberOfAwards": 97,
@@ -428,5 +811,5 @@
   "Ranking_Popularity": 325,
   "Ranking_Rating": 103,
   "Rating": 4.77,
-  "FirstSeen": "2022-07-22T20:22:12.2531943+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00"
 }

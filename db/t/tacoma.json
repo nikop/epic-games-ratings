@@ -1,6 +1,7 @@
 {
   "ID": "675f47ac5d5847f59badceea5b0950cf",
   "Name": "Tacoma",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -239,14 +240,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:46.0991144+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:17.3815868+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:15.8209415+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:36.2308104+00:00",
+  "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 60,
@@ -257,6 +262,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 679,
-  "Rating": 4.39,
-  "FirstSeen": "2022-07-22T20:22:50.2049994+00:00"
+  "Rating": 4.39
 }

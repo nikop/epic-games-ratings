@@ -1,6 +1,141 @@
 {
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
+  "Achievements": [
+    {
+      "ID": "APlusStudent",
+      "SetID": "6l18k14",
+      "Name": "\u0022A\u002B\u0022 Student",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "AStudent",
+      "SetID": "6l18k14",
+      "Name": "\u0022A\u0022 Student",
+      "Percentage": 0.4,
+      "XP": 100
+    },
+    {
+      "ID": "Byoing",
+      "SetID": "6l18k14",
+      "Name": "Byoing",
+      "Percentage": 7,
+      "XP": 25
+    },
+    {
+      "ID": "ExamPractice",
+      "SetID": "6l18k14",
+      "Name": "Exam Practice",
+      "Percentage": 13,
+      "XP": 25
+    },
+    {
+      "ID": "ExamTime",
+      "SetID": "6l18k14",
+      "Name": "Exam Time",
+      "Percentage": 84,
+      "XP": 25
+    },
+    {
+      "ID": "FifthGrade",
+      "SetID": "6l18k14",
+      "Name": "5th Grade",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "FirstGrade",
+      "SetID": "6l18k14",
+      "Name": "1st Grade",
+      "Percentage": 41,
+      "XP": 25
+    },
+    {
+      "ID": "FourthGrade",
+      "SetID": "6l18k14",
+      "Name": "4th Grade",
+      "Percentage": 0.4,
+      "XP": 50
+    },
+    {
+      "ID": "FullHouse",
+      "SetID": "6l18k14",
+      "Name": "Full House",
+      "Percentage": 0.7,
+      "XP": 25
+    },
+    {
+      "ID": "Graduated",
+      "SetID": "6l18k14",
+      "Name": "Graduated",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "InTheHonorRoll",
+      "SetID": "6l18k14",
+      "Name": "In The Honor Roll",
+      "Percentage": 10,
+      "XP": 75
+    },
+    {
+      "ID": "Librarian",
+      "SetID": "6l18k14",
+      "Name": "Librarian",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "ProdigyOfAllTrades",
+      "SetID": "6l18k14",
+      "Name": "Prodigy of all Trades",
+      "Percentage": 0.4,
+      "XP": 75
+    },
+    {
+      "ID": "SecondGrade",
+      "SetID": "6l18k14",
+      "Name": "2nd Grade",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "SelfSufficient",
+      "SetID": "6l18k14",
+      "Name": "Self-Sufficient",
+      "Percentage": 0.4,
+      "XP": 50
+    },
+    {
+      "ID": "SmarterThanA5thGrader",
+      "SetID": "6l18k14",
+      "Name": "Smarter than a 5th Grader",
+      "Percentage": 35,
+      "XP": 50
+    },
+    {
+      "ID": "StudySession",
+      "SetID": "6l18k14",
+      "Name": "Study Session",
+      "Percentage": 31,
+      "XP": 25
+    },
+    {
+      "ID": "ThirdGrade",
+      "SetID": "6l18k14",
+      "Name": "3rd Grade",
+      "Percentage": 0.7,
+      "XP": 50
+    },
+    {
+      "ID": "Unlucky",
+      "SetID": "6l18k14",
+      "Name": "Unlucky",
+      "Percentage": 19,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -57,22 +192,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 19,
+  "LastChanged_Achievements": "2023-05-04T19:19:59.5604627+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-04T19:05:08.5688638+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:33.1691718+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:08.5688607+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:59.5604779+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:29.7132492+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6l18k14",
+      "IsBase": true,
+      "Progressed": 272,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
+  "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 210,
-  "FirstSeen": "2022-08-27T22:01:48.6975114+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00"
 }

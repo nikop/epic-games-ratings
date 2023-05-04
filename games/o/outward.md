@@ -4,7 +4,52 @@ Number of Ratings: 266  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 341)  
-Diff (max vs sum): 99
+Diff (max vs sum): 99  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Venture Outward | 74.00 |
+| Ready for Winter | 64.00 |
+| Ready for Summer | 51.00 |
+| Cordon Bleu | 43.00 |
+| Tapped! | 35.00 |
+| Eureka | 31.00 |
+| Scourge Slayer | 25.00 |
+| Home Sweet Home | 23.00 |
+| Science, Troglodyte! | 23.00 |
+| Exceptional Skill | 22.00 |
+| Encyclopedic! | 20.00 |
+| A Fortress Toppled! | 16.00 |
+| Apex Predator | 16.00 |
+| The Power of Family | 16.00 |
+| Strange amalgams | 13.00 |
+| The Power of Faith | 13.00 |
+| The Power of Freedom | 9.00 |
+| Ace Detective | 8.00 |
+| Gift from the Ancestors | 8.00 |
+| Let ‘em eat magma! | 8.00 |
+| Magic is a science | 8.00 |
+| House of Cards | 7.00 |
+| The power of ambition | 7.00 |
+| The stuff of legends. | 7.00 |
+| Blood and justice | 6.00 |
+| Hold my Mead and Watch This | 6.00 |
+| Ancestor's Pride | 5.00 |
+| For All Aurai | 4.00 |
+| Memory of a legend | 4.00 |
+| Light of Levant | 3.00 |
+| This was a mistake... | 3.00 |
+| Crowd Pleaser. | 2.00 |
+| Perfect Defense | 2.00 |
+| Power! To! The People! | 2.00 |
+| Your actions define you | 2.00 |
+| The blood is life | 1.00 |
+| They'll Tell Stories About This | 1.00 |
+| Vanquisher of nightmares | 1.00 |
+| Through fire and flame. | 0.80 |
+| Legacy of a master hunter | 0.40 |
+| Master of Aurai | 0.30 |
+| The Absolute Pinnacle. | 0.30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,302 (Ranked 136)  
 Completed: 1 (0.04%) (Ranked 167)  

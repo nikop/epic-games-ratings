@@ -1,6 +1,7 @@
 {
   "ID": "1e3c0f172c0f4774aff92542818eaee2",
   "Name": "They Are Coming",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:49.7321188+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:20.0069359+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:18.4544901+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:38.4823805+00:00",
   "FirstSeenRating": "2023-03-31T05:58:38.4823804+00:00",
+  "FirstSeen": "2022-07-22T20:31:54.6764691+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:31:54.6764691+00:00"
+  "Ranking_EOS_Progress": 378
 }

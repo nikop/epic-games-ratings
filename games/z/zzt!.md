@@ -1,9 +1,12 @@
 # ZZT!
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Potomac Computer Systems | 100.00 |
+| Traveler | 4.00 |
+| Explorer | 3.00 |
+| Adventurer | 3.00 |
+| Hero | 3.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,277 (Ranked 139)  
 Completed: 59 (2.59%) (Ranked 50)  
@@ -20,9 +23,6 @@ Completed: 59 (2.59%) (Ranked 50)
 | 2023-05-02 | 2,264 | 59 |
 | 2023-05-03 | 2,270 | 59 |
 | 2023-05-04 | 2,277 | 59 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

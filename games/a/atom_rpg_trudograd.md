@@ -3,7 +3,42 @@ Rating: 4.50 (Ranked 530)
 ## Popularity (Based on Awards)
 Max (Character Customization): 20  (Ranked 482)  
 Sum: 20 (Ranked 482)  
-Diff (max vs sum): 0
+Diff (max vs sum): 0  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Fresh Prince of Trudograd | 87.00 |
+| Household | 6.00 |
+| An Old Friend | 6.00 |
+| Lot 49 | 4.00 |
+| Viva La Revolution | 4.00 |
+| Walking Fortress | 4.00 |
+| Atomic Soda | 3.00 |
+| Freelance Police | 3.00 |
+| Mysterious Knife | 3.00 |
+| The Great and Powerful | 3.00 |
+| Shadow over Trudograd | 3.00 |
+| Fight Club | 2.00 |
+| Human Antidote | 2.00 |
+| Albino Bloodsucker | 1.00 |
+| Death of the Author | 1.00 |
+| Memoirs of a Nibbler | 0.70 |
+| Sixth Sense | 0.70 |
+| KGB Bunker | 0.60 |
+| Rising Star | 0.60 |
+| Baby Eater | 0.40 |
+| Admiral | 0.30 |
+| Commando | 0.30 |
+| Incompetence | 0.30 |
+| Sick Freak | 0.30 |
+| Goodbye ATOM | 0.20 |
+| Bronzovka | 0.20 |
+| Escalation of Conflict | 0.20 |
+| Holy Mountain | 0.20 |
+| Goose Sacrifice | 0.20 |
+| Power of Simplicity | 0.20 |
+| Second Thought | 0.20 |
+| Terrorist | 0.20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,007 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 191)  

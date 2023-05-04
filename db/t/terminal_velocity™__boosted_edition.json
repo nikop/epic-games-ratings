@@ -1,6 +1,232 @@
 {
   "ID": "b1a0fc6a469347c8834c90f39c1f071c",
   "Name": "Terminal Velocity\u2122: Boosted Edition",
+  "Achievements": [
+    {
+      "ID": "ALL_IN_A_DAYS_JOB_AIR",
+      "SetID": "2pijnb7",
+      "Name": "All in a days job air",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ALL_IN_A_DAYS_JOB_GROUND",
+      "SetID": "2pijnb7",
+      "Name": "All in a days job ground",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ARE_YOU_KIDDING",
+      "SetID": "2pijnb7",
+      "Name": "Are you kidding!",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "CLEAN_SWEEP_EPISODE_1",
+      "SetID": "2pijnb7",
+      "Name": "Clean Sweep Episode 1",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "CLEAN_SWEEP_EPISODE_2",
+      "SetID": "2pijnb7",
+      "Name": "Clean Sweep Episode 2",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "CLEAN_SWEEP_EPISODE_3",
+      "SetID": "2pijnb7",
+      "Name": "Clean Sweep Episode 3",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "DESTRUCTION_DERBY",
+      "SetID": "2pijnb7",
+      "Name": "Destruction Derby",
+      "Percentage": 100,
+      "XP": 10
+    },
+    {
+      "ID": "EASY_GOINGS",
+      "SetID": "2pijnb7",
+      "Name": "Easy goings",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GETTING_STARTED_AIR",
+      "SetID": "2pijnb7",
+      "Name": "Getting started air",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "GETTING_STARTED_GROUND",
+      "SetID": "2pijnb7",
+      "Name": "Getting started ground",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "HEAVY_WEIGHT",
+      "SetID": "2pijnb7",
+      "Name": "Heavy Weight",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "HIDDEN_PLANET",
+      "SetID": "2pijnb7",
+      "Name": "Hidden Planet",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ITS_NOT_A_CAR",
+      "SetID": "2pijnb7",
+      "Name": "Its not a car",
+      "Percentage": 100,
+      "XP": 10
+    },
+    {
+      "ID": "JUST_A_DAY_ON_THE_JOB",
+      "SetID": "2pijnb7",
+      "Name": "Just a day on the job",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "LIGHT_WEIGHT",
+      "SetID": "2pijnb7",
+      "Name": "Light Weight",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "LOOK_I_CAN_FLY",
+      "SetID": "2pijnb7",
+      "Name": "Look I can fly!",
+      "Percentage": 100,
+      "XP": 10
+    },
+    {
+      "ID": "MIDDLE_WEIGHT",
+      "SetID": "2pijnb7",
+      "Name": "Middle Weight",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PERFECT_PAINT",
+      "SetID": "2pijnb7",
+      "Name": "Perfect paint",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PICKING_UP_MOMENTUM_AIR",
+      "SetID": "2pijnb7",
+      "Name": "Picking up momentum air",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "PICKING_UP_MOMENTUM_GROUND",
+      "SetID": "2pijnb7",
+      "Name": "Picking up momentum ground",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "SAVE_THE_TREES",
+      "SetID": "2pijnb7",
+      "Name": "Save The Trees!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SPEED_DEMON",
+      "SetID": "2pijnb7",
+      "Name": "Tunnel Burner",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SPEED_RUN_EPISODE_1",
+      "SetID": "2pijnb7",
+      "Name": "Speed run Episode 1",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "SPEED_RUN_EPISODE_2",
+      "SetID": "2pijnb7",
+      "Name": "Speed run Episode 2",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SPEED_RUN_EPISODE_3",
+      "SetID": "2pijnb7",
+      "Name": "Speed run Episode 3",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "TEFLON_EPISODE_1",
+      "SetID": "2pijnb7",
+      "Name": "Teflon Episode 1",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "TEFLON_EPISODE_2",
+      "SetID": "2pijnb7",
+      "Name": "Teflon Episode 2",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "TEFLON_EPISODE_3",
+      "SetID": "2pijnb7",
+      "Name": "Teflon Episode 3",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "THIS_IS_TOUGH",
+      "SetID": "2pijnb7",
+      "Name": "This is tough",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "TOP_GUN",
+      "SetID": "2pijnb7",
+      "Name": "Top Gun",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "TUBE_HUNTER",
+      "SetID": "2pijnb7",
+      "Name": "Tube Hunter",
+      "Percentage": 100,
+      "XP": 30
+    },
+    {
+      "ID": "YOU_ARE_SPECIAL",
+      "SetID": "2pijnb7",
+      "Name": "You are special",
+      "Percentage": 100,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +243,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 32,
+  "LastChanged_Achievements": "2023-05-04T19:14:59.46485+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:00:00.6162944+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:32.0592407+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:00.6162884+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:59.4648757+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:31.0144094+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2pijnb7",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-24T13:57:47.5499377+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00",
   "FirstSeenRating": "2023-04-24T13:57:47.5499376+00:00",
+  "FirstSeen": "2023-04-24T13:57:47.5499338+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
-  "FirstSeen": "2023-04-24T13:57:47.5499338+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00"
 }

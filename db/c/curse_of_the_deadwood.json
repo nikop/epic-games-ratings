@@ -1,6 +1,498 @@
 {
   "ID": "f847aa02bd6c455ca51a11093354684b",
   "Name": "Curse of the Deadwood",
+  "Achievements": [
+    {
+      "ID": "ACH_ALLSANDOVALE",
+      "SetID": "aichi7e",
+      "Name": "Sandovale\u0027s Biggest Fan",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_ALLSKILLPOINTS",
+      "SetID": "aichi7e",
+      "Name": "Master Tinkerer",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_BEAT_MOGRABORA",
+      "SetID": "aichi7e",
+      "Name": "Defeat Mograbora",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_BEAT_QUARTERMASTER",
+      "SetID": "aichi7e",
+      "Name": "Defeat Quartermaster",
+      "Percentage": 50,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_BEAT_QUEENBERRY",
+      "SetID": "aichi7e",
+      "Name": "Defeat The Queenberry",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_BEAT_RADLEY",
+      "SetID": "aichi7e",
+      "Name": "Defeat Keeper Radley",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_COMPLETE_ABANDONEDMILITARYCAMP",
+      "SetID": "aichi7e",
+      "Name": "Hands Off!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_APHORAFLOWERS",
+      "SetID": "aichi7e",
+      "Name": "Picking Araphoras",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_BEATTHEGAME",
+      "SetID": "aichi7e",
+      "Name": "Curse Contained",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_COMPLETE_CHUCKY",
+      "SetID": "aichi7e",
+      "Name": "Chucky Lives!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_DEFENDSHELBERT",
+      "SetID": "aichi7e",
+      "Name": "Defend Shelbert",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_DEFENDSNAKEROOT",
+      "SetID": "aichi7e",
+      "Name": "Saved Snakeroot",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_DELATYNBARRELS",
+      "SetID": "aichi7e",
+      "Name": "Caution!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_DESTRUCTIBLEBOULDER",
+      "SetID": "aichi7e",
+      "Name": "Out of my way!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_FREEKOVARG",
+      "SetID": "aichi7e",
+      "Name": "Deja Vu",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_FREESNAKEROOT",
+      "SetID": "aichi7e",
+      "Name": "Let her go!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_FREETOBARD",
+      "SetID": "aichi7e",
+      "Name": "For Good This Time",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_FREEZELMODAR",
+      "SetID": "aichi7e",
+      "Name": "Fly Away",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_GRAVEYARD",
+      "SetID": "aichi7e",
+      "Name": "Can\u0027t get any worse, right?",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_INGOTSTOMB",
+      "SetID": "aichi7e",
+      "Name": "Where it began",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_KEEPERSOUTPOST",
+      "SetID": "aichi7e",
+      "Name": "Find the Keepers Outpost",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_LATHESMOM",
+      "SetID": "aichi7e",
+      "Name": "Saved Lathe\u0027s Mom",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_LEAFTON",
+      "SetID": "aichi7e",
+      "Name": "Protect Leafton",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_OBSIDIANFIELD",
+      "SetID": "aichi7e",
+      "Name": "Ancient Battlefields",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_SANDOVALEFLOWER",
+      "SetID": "aichi7e",
+      "Name": "Oh, Marvelous Flower",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_COMPLETE_SAVESNAKEROOT",
+      "SetID": "aichi7e",
+      "Name": "Not today, Deadwood",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_SNAKEROOT",
+      "SetID": "aichi7e",
+      "Name": "Met Snakeroot",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_TADBITSFARM",
+      "SetID": "aichi7e",
+      "Name": "Saved Farmer Tadbit",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_TERMITEQUEEN",
+      "SetID": "aichi7e",
+      "Name": "Scarier Than You Think",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_TUTORIAL",
+      "SetID": "aichi7e",
+      "Name": "Complete the Tutorial",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_WITCHFINALBATTLE",
+      "SetID": "aichi7e",
+      "Name": "Worth their Salt",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_WITCHGATEPUZZLE",
+      "SetID": "aichi7e",
+      "Name": "Lower Witch\u0027s Wards",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_COMPLETE_WOODCHUCKS",
+      "SetID": "aichi7e",
+      "Name": "Phillichop and his Gang",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_AUDREY10",
+      "SetID": "aichi7e",
+      "Name": "Apprentice Gardener",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_AUDREY100",
+      "SetID": "aichi7e",
+      "Name": "Herbicide Incarnate",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_AUDREY50",
+      "SetID": "aichi7e",
+      "Name": "Mowing the Lawn",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_KNOT10",
+      "SetID": "aichi7e",
+      "Name": "Heavy Hitter",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_KNOT100",
+      "SetID": "aichi7e",
+      "Name": "Heavyweight Champion",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_KNOT50",
+      "SetID": "aichi7e",
+      "Name": "Heavyweight",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_SHAMAN10",
+      "SetID": "aichi7e",
+      "Name": "Stop Summoning!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_SHAMAN100",
+      "SetID": "aichi7e",
+      "Name": "I Don\u0027t Practice Santeria",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_SHAMAN50",
+      "SetID": "aichi7e",
+      "Name": "I Ain\u0027t Got No Crystal Ball",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_SPLINTER10",
+      "SetID": "aichi7e",
+      "Name": "Gunslinger",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_SPLINTER100",
+      "SetID": "aichi7e",
+      "Name": "Sharpshooter",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_SPLINTER50",
+      "SetID": "aichi7e",
+      "Name": "Hunter",
+      "Percentage": 100,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_SPROUT100",
+      "SetID": "aichi7e",
+      "Name": "Keeper In Training",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_SPROUT1000",
+      "SetID": "aichi7e",
+      "Name": "Skilled Keeper",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_SPROUT10000",
+      "SetID": "aichi7e",
+      "Name": "Master Keeper",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_TENTACLE10",
+      "SetID": "aichi7e",
+      "Name": "Weed Whacker",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_TENTACLE100",
+      "SetID": "aichi7e",
+      "Name": "Get Off My Lawn!",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_TENTACLE50",
+      "SetID": "aichi7e",
+      "Name": "Whack-A-Mole",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_THORN10",
+      "SetID": "aichi7e",
+      "Name": "Alert",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_THORN100",
+      "SetID": "aichi7e",
+      "Name": "Fearless",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_THORN50",
+      "SetID": "aichi7e",
+      "Name": "Brave",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_KILL_WINGCREEPER10",
+      "SetID": "aichi7e",
+      "Name": "Anti-Air",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_KILL_WINGCREEPER100",
+      "SetID": "aichi7e",
+      "Name": "Not So Creepy",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KILL_WINGCREEPER50",
+      "SetID": "aichi7e",
+      "Name": "Clear Skies",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LASTSTANDCOUNT LASTSTANDCOUNT (0-10)",
+      "SetID": "aichi7e",
+      "Name": "Too Close for Comfort",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE1",
+      "SetID": "aichi7e",
+      "Name": "Meadbud Archivist",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE2",
+      "SetID": "aichi7e",
+      "Name": "Leafton Resident",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE3",
+      "SetID": "aichi7e",
+      "Name": "Cedar Woods Researcher",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE4",
+      "SetID": "aichi7e",
+      "Name": "Marshes Expert",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE5",
+      "SetID": "aichi7e",
+      "Name": "Swamp Traveler",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE6",
+      "SetID": "aichi7e",
+      "Name": "Mountain Ranger",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE7",
+      "SetID": "aichi7e",
+      "Name": "Fearless Explorer",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LORE8",
+      "SetID": "aichi7e",
+      "Name": "Deodar Historian",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_LOREALL",
+      "SetID": "aichi7e",
+      "Name": "Lore Master",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_MAXWEAPON1",
+      "SetID": "aichi7e",
+      "Name": "Fully Loaded",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_MAXWEAPON3",
+      "SetID": "aichi7e",
+      "Name": "Locked and Loaded",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_MAXWEAPON5",
+      "SetID": "aichi7e",
+      "Name": "Army of Two",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +509,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 70,
+  "LastChanged_Achievements": "2023-05-04T19:17:16.6825963+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:02:10.191208+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:09.4244292+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:10.1912053+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:16.6826638+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:07.8537097+00:00",
+  "AchievementSets": [
+    {
+      "ID": "aichi7e",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:59.026621+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00",
   "FirstSeenRating": "2023-03-31T05:57:59.0266209+00:00",
+  "FirstSeen": "2022-07-31T23:31:27.8477915+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
-  "FirstSeen": "2022-07-31T23:31:27.8477915+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00"
 }

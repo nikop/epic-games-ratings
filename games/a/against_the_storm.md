@@ -4,9 +4,62 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  
 Sum: 3,012 (Ranked 148)  
-Diff (max vs sum): 43
+Diff (max vs sum): 43  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The Marshlands | 0.60 |
+| No Deaths | 0.60 |
+| Overcoming Difficulty | 0.50 |
+| Fertile Meadows | 0.50 |
+| Coral Forest | 0.50 |
+| The Scarlet Orchard | 0.50 |
+| Taking Action | 0.50 |
+| Like a Machine | 0.50 |
+| First Real Expedition | 0.40 |
+| Bandit Camp | 0.40 |
+| Barren Lands | 0.40 |
+| Trade Baron | 0.40 |
+| Serving Ale | 0.30 |
+| Refinery | 0.30 |
+| Homesick | 0.30 |
+| Ancient Battleground | 0.30 |
+| Sparkdew Crystals | 0.30 |
+| Dangerous Lands | 0.30 |
+| Haunted Forest | 0.30 |
+| Levitating Monument | 0.30 |
+| Flooded Mines | 0.30 |
+| Monastery of the Holy Flame | 0.30 |
+| Royal Outpost | 0.30 |
+| Lost Colonies | 0.30 |
+| Forsaken Gods Temple | 0.30 |
+| Corrosive Torrent | 0.30 |
+| Watchtower | 0.30 |
+| Cursed Lands | 0.30 |
+| A Real Challenge | 0.30 |
+| Defying the Crown | 0.30 |
+| Against All Odds | 0.20 |
+| Ruined Armory | 0.20 |
+| Fishmen Ritual Site | 0.20 |
+| Forbidden Lands | 0.20 |
+| Statue of the Forefathers | 0.20 |
+| Into the Forest | 0.20 |
+| Feeding The People | 0.10 |
+| Paradise | 0.10 |
+| Higher Needs | 0.10 |
+| Beaver Utopia | 0.10 |
+| Harpy Utopia | 0.10 |
+| Human Utopia | 0.10 |
+| Lizard Utopia | 0.10 |
+| Efficient Explorer | 0.10 |
+| Prestigious Expedition | 0.10 |
+| The Queen's Chosen | 0.10 |
+| Treasure | 0.10 |
+| Blood Flower Farmer | 0.10 |
+| Victory through Prosperity | 0.10 |
+| Ruins | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,637 (Ranked 96)  
+Progressed: 14,637 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |

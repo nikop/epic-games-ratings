@@ -4,9 +4,94 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,133  (Ranked 43)  
 Sum: 26,698 (Ranked 41)  
-Diff (max vs sum): 2
+Diff (max vs sum): 2  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Blacksmith's Son | 31.00 |
+| Cavalier | 25.00 |
+| Fatso | 23.00 |
+| Awakening | 20.00 |
+| Ranger | 20.00 |
+| Scrooge | 20.00 |
+| Anorectic | 16.00 |
+| Firestarter | 15.00 |
+| Bookworm | 14.00 |
+| Insomniac | 13.00 |
+| Buddy | 11.00 |
+| Sinner | 11.00 |
+| Thief | 11.00 |
+| Convict | 10.00 |
+| Traveller | 10.00 |
+| Haggler | 9.00 |
+| Runt | 7.00 |
+| Casanova | 6.00 |
+| McLovin | 6.00 |
+| Bad Trip | 5.00 |
+| Monk | 5.00 |
+| Serial Killer | 5.00 |
+| Bastard | 4.00 |
+| Hunter | 4.00 |
+| Plague Doctor | 4.00 |
+| Bard | 3.00 |
+| Conqueror | 3.00 |
+| Ginger in a Pickle | 3.00 |
+| Kingdom did not come | 3.00 |
+| Completionist | 2.00 |
+| Death by splinter | 2.00 |
+| King Charming | 2.00 |
+| Knightrider | 2.00 |
+| Level Cap | 2.00 |
+| Arena Master | 2.00 |
+| Robber Baron | 2.00 |
+| Talmberger | 2.00 |
+| The End | 2.00 |
+| Woman's Lot | 1.00 |
+| Chivalrous Soul | 1.00 |
+| Freud | 1.00 |
+| Gambler | 1.00 |
+| Master Huntsman | 1.00 |
+| Stealth Killer | 1.00 |
+| Spoilsport | 0.90 |
+| Bailiff | 0.80 |
+| Tracker | 0.80 |
+| David Horak | 0.70 |
+| Mercenary's Honour | 0.70 |
+| Saviour | 0.70 |
+| Edward Kelly | 0.60 |
+| Fighter | 0.60 |
+| I Can Quit Anytime | 0.40 |
+| Perfectionist | 0.40 |
+| Alcoholic | 0.30 |
+| Sniper | 0.30 |
+| Angel of Mercy | 0.20 |
+| Christian Burial | 0.20 |
+| Friends without benefits | 0.20 |
+| Game Over | 0.20 |
+| Not-so-Christian Burial | 0.20 |
+| True Friend | 0.20 |
+| Bad Girl | 0.10 |
+| Cleric's pet | 0.10 |
+| Full House Sinner | 0.10 |
+| Lord Capon's Ghost | 0.10 |
+| Hardcore Henry | 0.10 |
+| Infernal Justice | 0.10 |
+| Judas | 0.10 |
+| Like a Ghost | 0.10 |
+| Lost Trinket | 0.10 |
+| Merciful | 0.10 |
+| You had one job! | 0.10 |
+| Pilgrim | 0.10 |
+| Pinky Promis | 0.10 |
+| Ledetchko Revenant | 0.10 |
+| 'Tis but a scratch | 0.10 |
+| Torturer | 0.10 |
+| Trial-And-Error | 0.10 |
+| Virgin | 0.10 |
+| Voyeur | 0.10 |
+| Wingman | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779,517 (Ranked 11)  
+Progressed: 779,518 (Ranked 11)  
 Completed: 38 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +105,7 @@ Completed: 38 (0.00%) (Ranked 191)
 | 2023-05-01 | 779,099 | 38 |
 | 2023-05-02 | 779,243 | 38 |
 | 2023-05-03 | 779,399 | 38 |
-| 2023-05-04 | 779,517 | 38 |
+| 2023-05-04 | 779,518 | 38 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

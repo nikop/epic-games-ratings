@@ -1,6 +1,7 @@
 {
   "ID": "dfb15b4fd0834720a774605c028fcefa",
   "Name": "NERO",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:00.1686577+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:31.9105579+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:29.7930448+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:35.5794404+00:00",
   "FirstSeenRating": "2023-03-31T05:58:35.5794403+00:00",
+  "FirstSeen": "2022-08-24T07:02:08.0773665+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-08-24T07:02:08.0773665+00:00"
+  "Ranking_EOS_Progress": 378
 }

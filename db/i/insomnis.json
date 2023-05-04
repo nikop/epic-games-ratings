@@ -1,20 +1,221 @@
 {
   "ID": "6afc7187605b458e89e3d40d46871a51",
   "Name": "Insomnis",
+  "Achievements": [
+    {
+      "ID": "Trophy_01",
+      "SetID": "59pdle8",
+      "Name": "The postman always rings twice",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_02",
+      "SetID": "59pdle8",
+      "Name": "My lovely toys",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_03",
+      "SetID": "59pdle8",
+      "Name": "Breaking chains",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Trophy_04",
+      "SetID": "59pdle8",
+      "Name": "Dead End",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_05",
+      "SetID": "59pdle8",
+      "Name": "The reader",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_06",
+      "SetID": "59pdle8",
+      "Name": "Flash",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_07",
+      "SetID": "59pdle8",
+      "Name": "Logbooks",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_08",
+      "SetID": "59pdle8",
+      "Name": "Professional player",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_09",
+      "SetID": "59pdle8",
+      "Name": "Follow the white rabbit",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_10",
+      "SetID": "59pdle8",
+      "Name": "Superhero stylist",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_11",
+      "SetID": "59pdle8",
+      "Name": "Autumn Sonata",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_12",
+      "SetID": "59pdle8",
+      "Name": "The Machine",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_13",
+      "SetID": "59pdle8",
+      "Name": "Mona Lisa\u0027s Smile",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_14",
+      "SetID": "59pdle8",
+      "Name": "What time is it?",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_15",
+      "SetID": "59pdle8",
+      "Name": "The Rise of Castevet",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_16",
+      "SetID": "59pdle8",
+      "Name": "Welcome to Insomnis",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_17",
+      "SetID": "59pdle8",
+      "Name": "Anna",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_18",
+      "SetID": "59pdle8",
+      "Name": "Beth",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_19",
+      "SetID": "59pdle8",
+      "Name": "Oswin",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_20",
+      "SetID": "59pdle8",
+      "Name": "Charlie",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_21",
+      "SetID": "59pdle8",
+      "Name": "Last breath",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_22",
+      "SetID": "59pdle8",
+      "Name": "The Magic Book",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_23",
+      "SetID": "59pdle8",
+      "Name": "A secret place",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_24",
+      "SetID": "59pdle8",
+      "Name": "Dr. Strangelove",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_25",
+      "SetID": "59pdle8",
+      "Name": "Super-8",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_26",
+      "SetID": "59pdle8",
+      "Name": "The War of the Worlds",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_27",
+      "SetID": "59pdle8",
+      "Name": "Entry of the Gods",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 27,
+  "LastChanged_Achievements": "2023-05-04T19:19:07.743232+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:16.5290419+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:39.9613362+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:16.5290401+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:13.6346969+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:07.7432518+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:38.0765109+00:00",
+  "AchievementSets": [
+    {
+      "ID": "59pdle8",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:50:13.6346969+00:00"
 }

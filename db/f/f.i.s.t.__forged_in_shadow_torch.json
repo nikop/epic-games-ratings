@@ -1,6 +1,7 @@
 {
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -689,14 +690,18 @@
       "NumberOfAwardsMax": 736
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:21.2314855+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:48.5302616+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:45.0883225+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T09:00:39.4874294+00:00",
+  "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 736,
   "NumberOfAwards": 776,
@@ -708,6 +713,5 @@
   "Ranking_PopularitySum": 249,
   "Ranking_Popularity": 150,
   "Ranking_Rating": 447,
-  "Rating": 4.56,
-  "FirstSeen": "2022-07-22T20:26:53.9715824+00:00"
+  "Rating": 4.56
 }

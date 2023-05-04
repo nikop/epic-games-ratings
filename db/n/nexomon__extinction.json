@@ -1,6 +1,7 @@
 {
   "ID": "d06b7cb31f224a42b8433f7348cee5d3",
   "Name": "Nexomon: Extinction",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -68,15 +69,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T18:03:29.2425081+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:48.2488523+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:45.8518778+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:46.8305852+00:00",
   "FirstSeenRating": "2022-09-04T23:01:28.4182016+00:00",
+  "FirstSeen": "2022-07-22T20:24:15.9296917+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 25,
@@ -87,6 +92,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 488,
-  "Rating": 4.53,
-  "FirstSeen": "2022-07-22T20:24:15.9296917+00:00"
+  "Rating": 4.53
 }

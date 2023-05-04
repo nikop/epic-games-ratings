@@ -1,6 +1,7 @@
 {
   "ID": "32d340fa0a95479d8af5438990994b59",
   "Name": "R\u00F6ki",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:36.1502005+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:42.7647119+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:10.1233936+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:42.7647076+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:36.1502055+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:09.3213355+00:00",
+  "AchievementSets": [
+    {
+      "ID": "ada2pp9",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:33.2829623+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:49.8459096+00:00",
   "FirstSeenRating": "2023-03-31T05:57:33.2829621+00:00",
+  "FirstSeen": "2023-03-18T21:57:29.2189468+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-03-18T21:57:29.2189468+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:49.8459096+00:00"
 }

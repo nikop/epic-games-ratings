@@ -1,6 +1,176 @@
 {
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
+  "Achievements": [
+    {
+      "ID": "ANCIENT_HISTORY",
+      "SetID": "30359jm",
+      "Name": "ANCIENT HISTORY",
+      "Percentage": 2,
+      "XP": 80
+    },
+    {
+      "ID": "AWAKEN",
+      "SetID": "30359jm",
+      "Name": "AWAKEN",
+      "Percentage": 21,
+      "XP": 15
+    },
+    {
+      "ID": "A_GUARDIAN_FORGOTTEN",
+      "SetID": "30359jm",
+      "Name": "A GUARDIAN FORGOTTEN",
+      "Percentage": 67,
+      "XP": 15
+    },
+    {
+      "ID": "BEST_FRIENDS",
+      "SetID": "30359jm",
+      "Name": "BEST FRIENDS",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "BLOOMS_OF_LIGHT",
+      "SetID": "30359jm",
+      "Name": "BLOOMS OF LIGHT",
+      "Percentage": 26,
+      "XP": 30
+    },
+    {
+      "ID": "ERADICATE",
+      "SetID": "30359jm",
+      "Name": "ERADICATE",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "FETCH",
+      "SetID": "30359jm",
+      "Name": "FETCH",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "FOXIN_AROUND",
+      "SetID": "30359jm",
+      "Name": "FOXIN\u0027 AROUND",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "FOX_OR_FLYING_SQUIRREL",
+      "SetID": "30359jm",
+      "Name": "FOX? OR FLYING SQUIRREL?",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "GARDEN_OF_LIGHT",
+      "SetID": "30359jm",
+      "Name": "GARDEN OF LIGHT",
+      "Percentage": 18,
+      "XP": 90
+    },
+    {
+      "ID": "INFUSED_WITH_LIGHT",
+      "SetID": "30359jm",
+      "Name": "INFUSED WITH LIGHT",
+      "Percentage": 53,
+      "XP": 15
+    },
+    {
+      "ID": "KINDRED_SPIRITS",
+      "SetID": "30359jm",
+      "Name": "KINDRED SPIRITS",
+      "Percentage": 0.5,
+      "XP": 90
+    },
+    {
+      "ID": "MATCH_MAKER",
+      "SetID": "30359jm",
+      "Name": "MATCH MAKER",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "NONE_FORGOTTEN",
+      "SetID": "30359jm",
+      "Name": "NONE FORGOTTEN",
+      "Percentage": 2,
+      "XP": 90
+    },
+    {
+      "ID": "NORTHERN_LIGHTS",
+      "SetID": "30359jm",
+      "Name": "NORTHERN LIGHTS",
+      "Percentage": 7,
+      "XP": 90
+    },
+    {
+      "ID": "OLD_COMPANION",
+      "SetID": "30359jm",
+      "Name": "OLD COMPANION",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "PLAGUE_DOCTOR",
+      "SetID": "30359jm",
+      "Name": "PLAGUE DOCTOR",
+      "Percentage": 8,
+      "XP": 90
+    },
+    {
+      "ID": "SPIRITED_AWAY",
+      "SetID": "30359jm",
+      "Name": "SPIRITED AWAY",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "SPIRIT_BARK",
+      "SetID": "30359jm",
+      "Name": "SPIRIT BARK",
+      "Percentage": 20,
+      "XP": 30
+    },
+    {
+      "ID": "SPIRIT_DASH",
+      "SetID": "30359jm",
+      "Name": "SPIRIT DASH",
+      "Percentage": 10,
+      "XP": 30
+    },
+    {
+      "ID": "SPIRIT_FORM",
+      "SetID": "30359jm",
+      "Name": "SPIRIT FORM",
+      "Percentage": 15,
+      "XP": 30
+    },
+    {
+      "ID": "UPROOTING_DARKNESS",
+      "SetID": "30359jm",
+      "Name": "UPROOTING DARKNESS",
+      "Percentage": 14,
+      "XP": 30
+    },
+    {
+      "ID": "WEIGHTLESS",
+      "SetID": "30359jm",
+      "Name": "WEIGHTLESS",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "WRITTEN_IN_STONE",
+      "SetID": "30359jm",
+      "Name": "WRITTEN IN STONE",
+      "Percentage": 15,
+      "XP": 90
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1081,6 +1251,11 @@
       "Time": "2023-05-04T19:04:27.4339607+00:00",
       "NumProgressed": 52513,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-04T19:19:17.9905517+00:00",
+      "NumProgressed": 52514,
+      "NumCompleted": 238
     }
   ],
   "RatingHistory": [
@@ -1333,17 +1508,27 @@
       "NumberOfAwardsMax": 25
     }
   ],
-  "EOS_Completed_Percentage": 0.45,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:19:17.9905509+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1051,
   "EOS_Completed": 238,
-  "EOS_Progressed": 52513,
-  "LastUpdate_Achievements": "2023-05-04T19:04:27.4339674+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:55.2382009+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:27.4339601+00:00",
+  "EOS_Progressed": 52514,
+  "LastUpdate_Achievements": "2023-05-04T19:19:17.9905766+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:53.132056+00:00",
+  "AchievementSets": [
+    {
+      "ID": "30359jm",
+      "IsBase": true,
+      "Progressed": 52514,
+      "Completed": 238
+    }
+  ],
+  "EOS_Completed_Percentage": 0.45,
   "LastChanged": "2023-04-18T13:57:49.0674817+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
+  "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 25,
   "NumberOfAwards": 73,
@@ -1356,5 +1541,5 @@
   "Ranking_Popularity": 464,
   "Ranking_Rating": 701,
   "Rating": 4.36,
-  "FirstSeen": "2022-07-22T20:24:16.4673584+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00"
 }

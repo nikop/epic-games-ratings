@@ -1,6 +1,7 @@
 {
   "ID": "8043f063b6b34cbb94af0882052ebd80",
   "Name": "Spirit of the Island",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -57,17 +58,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:17:31.3942153+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:02:26.4411667+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:31.2465669+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:26.441165+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:31.3942199+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:30.1028824+00:00",
+  "AchievementSets": [
+    {
+      "ID": "67kdidl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:25.0957765+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:27.0098069+00:00",
   "FirstSeenRating": "2022-08-30T22:04:07.0610643+00:00",
+  "FirstSeen": "2022-07-22T20:29:55.0099297+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 25,
@@ -79,5 +90,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 663,
   "Rating": 4.4,
-  "FirstSeen": "2022-07-22T20:29:55.0099297+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:27.0098069+00:00"
 }

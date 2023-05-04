@@ -1,6 +1,7 @@
 {
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -1658,14 +1659,18 @@
       "NumberOfAwardsMax": 727
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:05.0117296+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:36.3630577+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:34.3694128+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T04:58:51.2296459+00:00",
+  "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 727,
   "NumberOfAwards": 1895,
@@ -1677,6 +1682,5 @@
   "Ranking_PopularitySum": 188,
   "Ranking_Popularity": 152,
   "Ranking_Rating": 695,
-  "Rating": 4.37,
-  "FirstSeen": "2022-07-22T20:24:10.3468578+00:00"
+  "Rating": 4.37
 }

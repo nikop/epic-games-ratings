@@ -1,20 +1,270 @@
 {
   "ID": "3d7bb6d94a3141c6bff3c63290d979e2",
   "Name": "Cloud Cutter",
+  "Achievements": [
+    {
+      "ID": "achvAir",
+      "SetID": "85daogm",
+      "Name": "King of the Sky",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvAllObjectives",
+      "SetID": "85daogm",
+      "Name": "Skiller",
+      "Percentage": 0,
+      "XP": 110
+    },
+    {
+      "ID": "achvBarrel",
+      "SetID": "85daogm",
+      "Name": "Fuel Master",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvBomber",
+      "SetID": "85daogm",
+      "Name": "Bomber",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvBuilding",
+      "SetID": "85daogm",
+      "Name": "Builder",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvCarrier",
+      "SetID": "85daogm",
+      "Name": "Carrier",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvEnemyFiftyK",
+      "SetID": "85daogm",
+      "Name": "Anihilation",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvEnemyTenK",
+      "SetID": "85daogm",
+      "Name": "Killing Machine",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvEnemyThousand",
+      "SetID": "85daogm",
+      "Name": "Killing Spree",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvFactory",
+      "SetID": "85daogm",
+      "Name": "Factory",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvGameArcade",
+      "SetID": "85daogm",
+      "Name": "Arcade Game Beaten",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "achvGameHard",
+      "SetID": "85daogm",
+      "Name": "Hard Game Beaten",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "achvGameNormal",
+      "SetID": "85daogm",
+      "Name": "Normal Game Beaten",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvGround",
+      "SetID": "85daogm",
+      "Name": "Traffic Jam",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvHeli",
+      "SetID": "85daogm",
+      "Name": "Take\u0027em down",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvHover",
+      "SetID": "85daogm",
+      "Name": "Hovercraft",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvHundredDeaths",
+      "SetID": "85daogm",
+      "Name": "Zen Master",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvImmortal",
+      "SetID": "85daogm",
+      "Name": "Immortal",
+      "Percentage": 0,
+      "XP": 110
+    },
+    {
+      "ID": "achvKing",
+      "SetID": "85daogm",
+      "Name": "King of Cloud Cutter",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "achvMP",
+      "SetID": "85daogm",
+      "Name": "Double Cutter",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvMissileLaunch",
+      "SetID": "85daogm",
+      "Name": "A Second More",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvMissiles",
+      "SetID": "85daogm",
+      "Name": "Stay Grounded!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "achvNoHUD",
+      "SetID": "85daogm",
+      "Name": "No HUD no Problem",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvNoHit",
+      "SetID": "85daogm",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvObjectivesMaster",
+      "SetID": "85daogm",
+      "Name": "Objectives Master",
+      "Percentage": 0,
+      "XP": 120
+    },
+    {
+      "ID": "achvShip",
+      "SetID": "85daogm",
+      "Name": "Captain of the Seas",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvSniper",
+      "SetID": "85daogm",
+      "Name": "Sniper",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvSpider",
+      "SetID": "85daogm",
+      "Name": "Spider",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvTG660",
+      "SetID": "85daogm",
+      "Name": "TG660",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achvTank",
+      "SetID": "85daogm",
+      "Name": "Tank Destroyer",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvTower",
+      "SetID": "85daogm",
+      "Name": "Anti-defender",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvTrainMissiles",
+      "SetID": "85daogm",
+      "Name": "Short Trip",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "achvTurret",
+      "SetID": "85daogm",
+      "Name": "Air to Ground",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achvUnderwater",
+      "SetID": "85daogm",
+      "Name": "Diver",
+      "Percentage": 0,
+      "XP": 5
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 34,
+  "LastChanged_Achievements": "2023-05-04T19:19:54.2167291+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:03.2420138+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:26.5339722+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:03.2420121+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:54.2167535+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:23.9397804+00:00",
+  "AchievementSets": [
+    {
+      "ID": "85daogm",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00"
 }

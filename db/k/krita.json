@@ -1,6 +1,7 @@
 {
   "ID": "1285dfc03f134184aef8e12eef6b6cd3",
   "Name": "Krita",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:36.14957+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:30.328486+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:29.5954208+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:19.5819664+00:00",
   "FirstSeenRating": "2023-03-31T05:57:19.5819663+00:00",
+  "FirstSeen": "2022-07-22T20:20:25.3424366+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:20:25.3424366+00:00"
+  "Ranking_EOS_Progress": 378
 }

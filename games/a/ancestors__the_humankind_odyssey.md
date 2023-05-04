@@ -4,7 +4,10 @@ Number of Ratings: 481  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Educational): 44  (Ranked 405)  
 Sum: 196 (Ranked 349)  
-Diff (max vs sum): 56
+Diff (max vs sum): 56  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

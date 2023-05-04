@@ -1,6 +1,7 @@
 {
   "ID": "7714e1bf11674737b664ff88cafd5261",
   "Name": "Space Hack",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:51.7482929+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:22.4907399+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:20.8380378+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:46.2593182+00:00",
   "FirstSeenRating": "2023-03-31T05:57:46.2593181+00:00",
+  "FirstSeen": "2022-07-22T20:24:11.3022474+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:24:11.3022474+00:00"
+  "Ranking_EOS_Progress": 378
 }

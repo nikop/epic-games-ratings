@@ -1,6 +1,120 @@
 {
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
+  "Achievements": [
+    {
+      "ID": "ACH_BATTLESUIT_WIN",
+      "SetID": "1kj8hdc",
+      "Name": "Battlesuit Victory",
+      "Percentage": 8,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_COMPLETE_TUTORIAL",
+      "SetID": "1kj8hdc",
+      "Name": "Graduate Boot Camp",
+      "Percentage": 71,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FLAWLESS_VICTORY",
+      "SetID": "1kj8hdc",
+      "Name": "Flawless Victory",
+      "Percentage": 5,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_GATED_COMMUNITY",
+      "SetID": "1kj8hdc",
+      "Name": "Gated Community",
+      "Percentage": 3,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_INITIATION",
+      "SetID": "1kj8hdc",
+      "Name": "Initiation",
+      "Percentage": 18,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_NO_SAM_DESTROYED",
+      "SetID": "1kj8hdc",
+      "Name": "Not Afraid of the Big Bad Wolf",
+      "Percentage": 0.1,
+      "XP": 110
+    },
+    {
+      "ID": "ACH_TOTAL_DESTRUCTION",
+      "SetID": "1kj8hdc",
+      "Name": "Total Destruction",
+      "Percentage": 1,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_WIN_100_ONLINE_GAME",
+      "SetID": "1kj8hdc",
+      "Name": "Many More to Come",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_WIN_10_ONLINE_GAME",
+      "SetID": "1kj8hdc",
+      "Name": "Getting There",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_30_MAP_CONTROL",
+      "SetID": "1kj8hdc",
+      "Name": "We shall never Surrender!",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_3_ONLINE_GAME",
+      "SetID": "1kj8hdc",
+      "Name": "Baby Steps",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WIN_50_ONLINE_GAME",
+      "SetID": "1kj8hdc",
+      "Name": "Halfway There",
+      "Percentage": 0.2,
+      "XP": 70
+    },
+    {
+      "ID": "ACH_WIN_90_MAP_CONTROL",
+      "SetID": "1kj8hdc",
+      "Name": "Mastermind",
+      "Percentage": 0.5,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_WIN_COOP_2_PLAYERS",
+      "SetID": "1kj8hdc",
+      "Name": "Tag Team Champions",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
+      "SetID": "1kj8hdc",
+      "Name": "Untouchable",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_WIN_FIRST_COOP",
+      "SetID": "1kj8hdc",
+      "Name": "First Co-Op Win",
+      "Percentage": 5,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1062,6 +1176,11 @@
       "Time": "2023-05-04T19:04:42.8185023+00:00",
       "NumProgressed": 183114,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-04T19:19:33.7204699+00:00",
+      "NumProgressed": 183116,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1260,17 +1379,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 16,
+  "LastChanged_Achievements": "2023-05-04T19:19:33.7204693+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1254,
+  "EOS_NewPlayers": 1256,
   "EOS_Completed": 4,
-  "EOS_Progressed": 183114,
-  "LastUpdate_Achievements": "2023-05-04T19:04:42.8185097+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:09.7219621+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:42.8185017+00:00",
+  "EOS_Progressed": 183116,
+  "LastUpdate_Achievements": "2023-05-04T19:19:33.7204881+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:08.1904675+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1kj8hdc",
+      "IsBase": true,
+      "Progressed": 183116,
+      "Completed": 4
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T19:59:20.8642488+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
+  "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -1281,5 +1410,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 813,
   "Rating": 4.19,
-  "FirstSeen": "2022-07-22T20:26:39.4598269+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00"
 }

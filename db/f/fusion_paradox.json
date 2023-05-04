@@ -1,20 +1,137 @@
 {
   "ID": "4a08381004534f7ba0d19d9dbe66e56c",
   "Name": "Fusion Paradox",
+  "Achievements": [
+    {
+      "ID": "Ach_Anat",
+      "SetID": "5609lai",
+      "Name": "Anat",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Ach_Archangel",
+      "SetID": "5609lai",
+      "Name": "Archangel",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Ach_Caster",
+      "SetID": "5609lai",
+      "Name": "Caster",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "Ach_Chamelion",
+      "SetID": "5609lai",
+      "Name": "Chameleon",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Ach_Crystal",
+      "SetID": "5609lai",
+      "Name": "Crystal",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Ach_Destroyer",
+      "SetID": "5609lai",
+      "Name": "Destroyer",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "Ach_FirstMagic",
+      "SetID": "5609lai",
+      "Name": "First magic",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Ach_MagicKey",
+      "SetID": "5609lai",
+      "Name": "Magic key",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Ach_NewKing",
+      "SetID": "5609lai",
+      "Name": "Long live the new king!",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Ach_OfficePlankton",
+      "SetID": "5609lai",
+      "Name": "Office plankton",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Ach_PetrifiedGuard",
+      "SetID": "5609lai",
+      "Name": "Petrified guards",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Ach_Pharaoh",
+      "SetID": "5609lai",
+      "Name": "Pharaoh",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "Ach_ReadyToFight",
+      "SetID": "5609lai",
+      "Name": "Ready for battle",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "Ach_Resurrection",
+      "SetID": "5609lai",
+      "Name": "Resurrection",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "Ach_Victory",
+      "SetID": "5609lai",
+      "Name": "Victory or Defeat?",
+      "Percentage": 0,
+      "XP": 200
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:14:59.2320883+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:00.4103855+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:56:59.4217489+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:00.41038+00:00",
-  "FirstSeenAchievements": "2023-05-03T14:01:13.0837425+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:59.2321048+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:56.7985358+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2oof077",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-05-03T14:01:13.0837425+00:00"
 }

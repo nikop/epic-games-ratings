@@ -1,6 +1,7 @@
 {
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
@@ -2879,14 +2880,18 @@
       "NumberOfAwardsMax": 856
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:11.099874+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:23.7678847+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:22.9452189+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:57:23.7678842+00:00",
+  "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 856,
   "NumberOfAwards": 7114,
@@ -2898,6 +2903,5 @@
   "Ranking_PopularitySum": 100,
   "Ranking_Popularity": 142,
   "Ranking_Rating": 212,
-  "Rating": 4.69,
-  "FirstSeen": "2022-07-22T20:18:18.8189699+00:00"
+  "Rating": 4.69
 }

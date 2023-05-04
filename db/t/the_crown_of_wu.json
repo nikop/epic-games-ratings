@@ -1,20 +1,31 @@
 {
   "ID": "8aab3f6bf69648abbbc1604451741fde",
   "Name": "The Crown of Wu",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:14.0617169+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:19.5960256+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:51.6931862+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:19.5960241+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:36.9444229+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:14.0617212+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:50.0656957+00:00",
+  "AchievementSets": [
+    {
+      "ID": "994c0nh",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:47:36.9444229+00:00"
 }

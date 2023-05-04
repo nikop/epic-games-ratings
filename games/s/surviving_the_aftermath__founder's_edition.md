@@ -4,7 +4,69 @@ Number of Ratings: 836  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 99  (Ranked 321)  
 Sum: 651 (Ranked 267)  
-Diff (max vs sum): 54
+Diff (max vs sum): 54  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First Step | 69.00 |
+| Leader | 60.00 |
+| Explorer | 53.00 |
+| Healer | 52.00 |
+| Aspiring Inventor | 44.00 |
+| Adventurer | 41.00 |
+| Famous Healer | 37.00 |
+| Local Leader | 35.00 |
+| New Opportunities | 34.00 |
+| Famous Explorer | 33.00 |
+| Energized | 33.00 |
+| The Long Haul | 32.00 |
+| Survivor | 31.00 |
+| The Great Healer | 30.00 |
+| Catastrofan | 28.00 |
+| Legendary Explorer | 27.00 |
+| Cleaner | 27.00 |
+| Finders, Keepers | 25.00 |
+| Top Notch | 24.00 |
+| Great Leader | 22.00 |
+| Ice Lakes | 22.00 |
+| Mentor | 22.00 |
+| Merchant | 21.00 |
+| Real Survivor | 21.00 |
+| War Never Changes | 19.00 |
+| Rocket Surgeon | 19.00 |
+| Friendly | 16.00 |
+| Big Game Hunter | 16.00 |
+| Around the World | 15.00 |
+| Spreading Influence | 15.00 |
+| Bookworm | 14.00 |
+| Famous Adventurer | 13.00 |
+| Prepared for Anything | 12.00 |
+| Big Catastrofan | 12.00 |
+| It's a Finnish Thing | 10.00 |
+| Sky Burial | 9.00 |
+| Trader | 8.00 |
+| Bread and Circuses | 7.00 |
+| Tailored to fit | 7.00 |
+| New Eden | 6.00 |
+| Really Friendly | 5.00 |
+| Amped Up | 5.00 |
+| Look, no Hands! | 4.00 |
+| Mogul | 3.00 |
+| Ranch Hand | 3.00 |
+| Luxurious Living | 3.00 |
+| Diplomat | 2.00 |
+| Doomsday is canceled | 2.00 |
+| Biggest Catastrofan | 2.00 |
+| The Friendliest | 1.00 |
+| A Closer Look | 1.00 |
+| True Survivor | 1.00 |
+| Feng Shui | 0.90 |
+| Legendary Adventurer | 0.80 |
+| Slimy yet Satisfying | 0.80 |
+| Finnished | 0.20 |
+| Fun and Games | 0.10 |
+| Choo-choo! | 0.10 |
+| Customized calamities | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,876 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  

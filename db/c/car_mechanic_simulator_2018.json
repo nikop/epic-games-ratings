@@ -1,6 +1,7 @@
 {
   "ID": "226306adde104c9092247dcd4bfa1499",
   "Name": "Car Mechanic Simulator 2018",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -3359,14 +3360,18 @@
       "NumberOfAwardsMax": 1971
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:36.0727989+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:55.2773838+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:53.3814164+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:58:15.2711789+00:00",
+  "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1971,
   "NumberOfAwards": 15351,
@@ -3378,6 +3383,5 @@
   "Ranking_PopularitySum": 60,
   "Ranking_Popularity": 103,
   "Ranking_Rating": 547,
-  "Rating": 4.49,
-  "FirstSeen": "2022-07-22T20:26:04.6520015+00:00"
+  "Rating": 4.49
 }

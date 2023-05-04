@@ -4,7 +4,61 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,480  (Ranked 49)  
 Sum: 12,904 (Ranked 68)  
-Diff (max vs sum): -19
+Diff (max vs sum): -19  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Lawbringer | 34.00 |
+| Landlord | 29.00 |
+| Bannerlord | 20.00 |
+| Horde breaker | 20.00 |
+| Lawmaker | 20.00 |
+| Trained | 19.00 |
+| The king is pleased | 16.00 |
+| King Solomon | 15.00 |
+| I can do it | 14.00 |
+| Apple of my eye | 13.00 |
+| God of the Arena | 12.00 |
+| Against all odds | 9.00 |
+| Swordbearer | 9.00 |
+| Duelist | 8.00 |
+| Dynasty | 8.00 |
+| I spit on your grave | 8.00 |
+| Butterlord | 7.00 |
+| What have the Romans ever done for us? | 7.00 |
+| Mastery | 6.00 |
+| Know your enemy | 5.00 |
+| This Is Our Land | 5.00 |
+| Crush your enemies | 4.00 |
+| My way | 4.00 |
+| Veni vidi vici | 4.00 |
+| Crowdfunded | 3.00 |
+| Freedom! | 3.00 |
+| Entrepreneur | 2.00 |
+| Long live the Empire! | 2.00 |
+| Real Estate | 2.00 |
+| Supreme Emperor | 1.00 |
+| Crackshot | 0.70 |
+| Undercover | 0.70 |
+| Fat Cat | 0.60 |
+| Catch | 0.50 |
+| Slice 'n dice | 0.40 |
+| Ride it like you stole it | 0.30 |
+| Mounted Archery | 0.20 |
+| Best served cold | 0.10 |
+| Butcher of Calradia | 0.10 |
+| Explorer | 0.10 |
+| Great Granny | 0.10 |
+| Headhunter | 0.10 |
+| Heartbreaker | 0.10 |
+| Kingslayer | 0.10 |
+| Lance-a-lot | 0.10 |
+| Minor Clan | 0.10 |
+| Roadkill | 0.10 |
+| Strike! | 0.10 |
+| This is Sparta! | 0.10 |
+| Jack of All Trades | 0.00 |
+| Shish Kebab | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48,785 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  

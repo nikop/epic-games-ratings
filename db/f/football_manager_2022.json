@@ -1,6 +1,694 @@
 {
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
+  "Achievements": [
+    {
+      "ID": "achievement_10_manager_of_the_month_awards",
+      "SetID": "8k91p5b",
+      "Name": "Best In The Business",
+      "Percentage": 7,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_10_manager_of_the_year_awards",
+      "SetID": "8k91p5b",
+      "Name": "Icon",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_10_match_winning_streak",
+      "SetID": "8k91p5b",
+      "Name": "You\u0027re On Fire",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_10_matches_without_losing",
+      "SetID": "8k91p5b",
+      "Name": "Unbeatable!",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_10_seasons_at_one_club",
+      "SetID": "8k91p5b",
+      "Name": "Part Of The Furniture",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "achievement_20_consecutive_clean_sheets",
+      "SetID": "8k91p5b",
+      "Name": "Outstanding Defence",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_20_manager_of_the_year_awards",
+      "SetID": "8k91p5b",
+      "Name": "Immortality",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "achievement_20_matches_without_losing",
+      "SetID": "8k91p5b",
+      "Name": "On A Roll",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_20_seasons_at_one_club",
+      "SetID": "8k91p5b",
+      "Name": "Club Legend",
+      "Percentage": 0.3,
+      "XP": 40
+    },
+    {
+      "ID": "achievement_30_matches_without_conceding_goal",
+      "SetID": "8k91p5b",
+      "Name": "Immovable Object",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "achievement_30_matches_without_losing",
+      "SetID": "8k91p5b",
+      "Name": "Top Form",
+      "Percentage": 16,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_3_players_in_team_of_the_year",
+      "SetID": "8k91p5b",
+      "Name": "Tremendous Trio",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_5_clean_sheets_in_a_row",
+      "SetID": "8k91p5b",
+      "Name": "Parked The Bus",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_5_manager_of_the_year_awards",
+      "SetID": "8k91p5b",
+      "Name": "Legend",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_5_players_in_team_of_the_week",
+      "SetID": "8k91p5b",
+      "Name": "Team Performance",
+      "Percentage": 29,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_5_players_in_team_of_the_year",
+      "SetID": "8k91p5b",
+      "Name": "Fantastic Five",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_always_a_plan_b",
+      "SetID": "8k91p5b",
+      "Name": "There Is Always Plan B",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_beat_ai_managers",
+      "SetID": "8k91p5b",
+      "Name": "Beat all the AI Managers",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_beating_expectations",
+      "SetID": "8k91p5b",
+      "Name": "Beating Expectations",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_big_win",
+      "SetID": "8k91p5b",
+      "Name": "Thumping",
+      "Percentage": 36,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_buy_50_million_plus_player",
+      "SetID": "8k91p5b",
+      "Name": "Splashing The Cash",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_childhood_dream",
+      "SetID": "8k91p5b",
+      "Name": "Childhood Dream",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_clean_bill_of_health",
+      "SetID": "8k91p5b",
+      "Name": "Clean Bill of Health",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_clean_sheet",
+      "SetID": "8k91p5b",
+      "Name": "Clean Sheet",
+      "Percentage": 49,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_club_world_cup",
+      "SetID": "8k91p5b",
+      "Name": "Win the Club World Cup",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_do_the_double",
+      "SetID": "8k91p5b",
+      "Name": "Do The Double",
+      "Percentage": 18,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
+      "SetID": "8k91p5b",
+      "Name": "Parked The Tank",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_european_player_of_the_year_award",
+      "SetID": "8k91p5b",
+      "Name": "Best In Europe",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_eyes_and_ears",
+      "SetID": "8k91p5b",
+      "Name": "Eyes and Ears",
+      "Percentage": 14,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_fine_player",
+      "SetID": "8k91p5b",
+      "Name": "I\u0027m The Boss!",
+      "Percentage": 41,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_full_board_confidence",
+      "SetID": "8k91p5b",
+      "Name": "Full Faith",
+      "Percentage": 23,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_gain_bottom_to_top_promotion",
+      "SetID": "8k91p5b",
+      "Name": "National Hero",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_get_into_hall_of_fame",
+      "SetID": "8k91p5b",
+      "Name": "World Renowned",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "achievement_get_offered_an_international_manager_job",
+      "SetID": "8k91p5b",
+      "Name": "National Service",
+      "Percentage": 8,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_goal_of_the_month_award",
+      "SetID": "8k91p5b",
+      "Name": "What A Goal!",
+      "Percentage": 21,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_goal_of_the_season",
+      "SetID": "8k91p5b",
+      "Name": "Superb Strike",
+      "Percentage": 9,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_goal_scored_in_20_consecutive_matches",
+      "SetID": "8k91p5b",
+      "Name": "Attack!",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_goal_scored_in_30_consecutive_matches",
+      "SetID": "8k91p5b",
+      "Name": "Irresistible Force",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_golden_boot_award",
+      "SetID": "8k91p5b",
+      "Name": "Golden Boot",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_good_finance_control",
+      "SetID": "8k91p5b",
+      "Name": "Shrewd Spender",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_hattrick",
+      "SetID": "8k91p5b",
+      "Name": "Hat-trick",
+      "Percentage": 41,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_head_to_head",
+      "SetID": "8k91p5b",
+      "Name": "Head-to-Head",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_headhunted",
+      "SetID": "8k91p5b",
+      "Name": "Headhunted",
+      "Percentage": 8,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_hes_a_natural",
+      "SetID": "8k91p5b",
+      "Name": "He\u0027s a Natural",
+      "Percentage": 30,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_impervious",
+      "SetID": "8k91p5b",
+      "Name": "Impervious",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_invited_a_friend",
+      "SetID": "8k91p5b",
+      "Name": "Invitational",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_least_goals_conceded_in_league",
+      "SetID": "8k91p5b",
+      "Name": "Iron Curtain",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_manager_of_the_month",
+      "SetID": "8k91p5b",
+      "Name": "Top Of The Class",
+      "Percentage": 22,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_manager_of_the_year",
+      "SetID": "8k91p5b",
+      "Name": "The Boss",
+      "Percentage": 23,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_most_goals_scored_in_league",
+      "SetID": "8k91p5b",
+      "Name": "Unstoppable Force",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_mr_delegator",
+      "SetID": "8k91p5b",
+      "Name": "Mr Delegator",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_new_stadium",
+      "SetID": "8k91p5b",
+      "Name": "Going Places",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_over_achiever",
+      "SetID": "8k91p5b",
+      "Name": "Overachiever!",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_perfect_dressing_room_atmosphere",
+      "SetID": "8k91p5b",
+      "Name": "Superb Dressing Room Atmosphere",
+      "Percentage": 34,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_perfect_managerial_support",
+      "SetID": "8k91p5b",
+      "Name": "Total Support",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_perfect_match_cohesion",
+      "SetID": "8k91p5b",
+      "Name": "Excellent Match Cohesion",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_pick_feeder",
+      "SetID": "8k91p5b",
+      "Name": "We Trust You",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_play_ai_team_in_fantasy_draft",
+      "SetID": "8k91p5b",
+      "Name": "Living the Dream",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_played_30_seasons",
+      "SetID": "8k91p5b",
+      "Name": "Value For Money",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "achievement_player_in_team_of_the_year",
+      "SetID": "8k91p5b",
+      "Name": "Star Man",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_player_in_world_cup_best_xi",
+      "SetID": "8k91p5b",
+      "Name": "International Superstar",
+      "Percentage": 9,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_reach_top_of_hall_of_fame",
+      "SetID": "8k91p5b",
+      "Name": "The Greatest",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "achievement_record_sale",
+      "SetID": "8k91p5b",
+      "Name": "Record Sale",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_record_signing",
+      "SetID": "8k91p5b",
+      "Name": "Record Signing",
+      "Percentage": 31,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_rushed_signing",
+      "SetID": "8k91p5b",
+      "Name": "Rushed signing",
+      "Percentage": 15,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_score_a_goal_in_10_consecutive_matches",
+      "SetID": "8k91p5b",
+      "Name": "Scoring Streak",
+      "Percentage": 37,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_scouts_honour",
+      "SetID": "8k91p5b",
+      "Name": "Scout\u0027s Honour",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_sell_50_million_plus_player",
+      "SetID": "8k91p5b",
+      "Name": "Cash To Burn",
+      "Percentage": 16,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_sell_player",
+      "SetID": "8k91p5b",
+      "Name": "He\u0027s Sold!",
+      "Percentage": 47,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_signed_a_player",
+      "SetID": "8k91p5b",
+      "Name": "He\u0027s Signed!",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_top_goalscorer_in_league",
+      "SetID": "8k91p5b",
+      "Name": "Goal Machine",
+      "Percentage": 22,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_unbeaten_host_in_fantasy_draft",
+      "SetID": "8k91p5b",
+      "Name": "Perfect Host",
+      "Percentage": 0.7,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_undefeated_season",
+      "SetID": "8k91p5b",
+      "Name": "Invincible!",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_watch_popup_match_viewer",
+      "SetID": "8k91p5b",
+      "Name": "Armchair Expert",
+      "Percentage": 23,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_win_3_consecutive_league_titles",
+      "SetID": "8k91p5b",
+      "Name": "Domination",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
+      "SetID": "8k91p5b",
+      "Name": "Comeback King!",
+      "Percentage": 13,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_win_fantasy_draft",
+      "SetID": "8k91p5b",
+      "Name": "Beat your Mates",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_window_shopping",
+      "SetID": "8k91p5b",
+      "Name": "Window Shopping",
+      "Percentage": 14,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_won_20_cup_competitions",
+      "SetID": "8k91p5b",
+      "Name": "Trophy Hoarder",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_won_a_match",
+      "SetID": "8k91p5b",
+      "Name": "First Victory",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_won_domestic_cup",
+      "SetID": "8k91p5b",
+      "Name": "Cup Glory!",
+      "Percentage": 21,
+      "XP": 5
+    },
+    {
+      "ID": "achievement_won_international_championship",
+      "SetID": "8k91p5b",
+      "Name": "Freedom Of The Country",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_won_promotion",
+      "SetID": "8k91p5b",
+      "Name": "You\u0027re Up!",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_won_world_cup",
+      "SetID": "8k91p5b",
+      "Name": "On Top Of The World",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_world_player_of_the_year",
+      "SetID": "8k91p5b",
+      "Name": "Best In The World",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "career_earnings_over_100_million",
+      "SetID": "8k91p5b",
+      "Name": "The Rich Get Richer",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "career_earnings_over_10_million",
+      "SetID": "8k91p5b",
+      "Name": "Money, Money, Money",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "career_earnings_over_1_million",
+      "SetID": "8k91p5b",
+      "Name": "Millionaire\u0027s Club",
+      "Percentage": 30,
+      "XP": 5
+    },
+    {
+      "ID": "fantasy_draft_100_club",
+      "SetID": "8k91p5b",
+      "Name": "100 Club",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "fantasy_draft_200_club",
+      "SetID": "8k91p5b",
+      "Name": "200 Club",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "fantasy_draft_draft_dominator",
+      "SetID": "8k91p5b",
+      "Name": "Draft Dominator",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "fantasy_draft_draft_rivalry",
+      "SetID": "8k91p5b",
+      "Name": "Draft Rivalry",
+      "Percentage": 0.5,
+      "XP": 10
+    },
+    {
+      "ID": "fantasy_draft_knockout_king",
+      "SetID": "8k91p5b",
+      "Name": "Knockout King",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "fantasy_draft_one_more_draft",
+      "SetID": "8k91p5b",
+      "Name": "One more draft",
+      "Percentage": 0.6,
+      "XP": 5
+    },
+    {
+      "ID": "fantasy_draft_online_streak",
+      "SetID": "8k91p5b",
+      "Name": "Online Streak",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "fantasy_draft_shrewd_spender",
+      "SetID": "8k91p5b",
+      "Name": "Draft Value",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "fantasy_draft_squad_budget_shoestring",
+      "SetID": "8k91p5b",
+      "Name": "Shoestring Budget",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "setup_routines_for_all_free_kicks",
+      "SetID": "8k91p5b",
+      "Name": "Set Piece Specialist",
+      "Percentage": 0.6,
+      "XP": 5
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1088,6 +1776,11 @@
     {
       "Time": "2023-05-04T19:05:11.4012655+00:00",
       "NumProgressed": 459084,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-04T19:20:02.757817+00:00",
+      "NumProgressed": 459090,
       "NumCompleted": 18
     }
   ],
@@ -5069,16 +5762,26 @@
       "NumberOfAwardsMax": 6250
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 98,
+  "LastChanged_Achievements": "2023-05-04T19:20:02.7578149+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 796,
   "EOS_Completed": 18,
-  "EOS_Progressed": 459084,
-  "LastUpdate_Achievements": "2023-05-04T19:05:11.4012728+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:24.4578851+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:11.4012651+00:00",
+  "EOS_Progressed": 459090,
+  "LastUpdate_Achievements": "2023-05-04T19:20:02.7579349+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:22.4692893+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8k91p5b",
+      "IsBase": true,
+      "Progressed": 459090,
+      "Completed": 18
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:00:07.5919302+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
+  "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 6250,
   "NumberOfAwards": 49273,
@@ -5091,5 +5794,5 @@
   "Ranking_Popularity": 50,
   "Ranking_Rating": 78,
   "Rating": 4.8,
-  "FirstSeen": "2022-07-22T20:22:56.4642721+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00"
 }

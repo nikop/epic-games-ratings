@@ -1,6 +1,225 @@
 {
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
+  "Achievements": [
+    {
+      "ID": "ACH_ALLENDINGS",
+      "SetID": "511e31d",
+      "Name": "Matthew\u0027s mistakes",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_ALLROOMS",
+      "SetID": "511e31d",
+      "Name": "373",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_ANTIDOTE",
+      "SetID": "511e31d",
+      "Name": "Antidote",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BANDAGES",
+      "SetID": "511e31d",
+      "Name": "First aid",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BATHROOM",
+      "SetID": "511e31d",
+      "Name": "What\u0027s going on here?",
+      "Percentage": 200,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_COMMONAREA",
+      "SetID": "511e31d",
+      "Name": "On the right path",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_DOCDOCUMENTS",
+      "SetID": "511e31d",
+      "Name": "The experiment",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_ENTRANCE",
+      "SetID": "511e31d",
+      "Name": "I\u0027m close now",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_ENTRANCEEVIL",
+      "SetID": "511e31d",
+      "Name": "Failed attempt",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_ESCAPEDOC",
+      "SetID": "511e31d",
+      "Name": "The real escape",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_EVADOCUMENTS",
+      "SetID": "511e31d",
+      "Name": "Eva\u0027s diary",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_EVILDOCUMENTS",
+      "SetID": "511e31d",
+      "Name": "Horror book",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_FORCE",
+      "SetID": "511e31d",
+      "Name": "Brute force",
+      "Percentage": 200,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_GOODENDING",
+      "SetID": "511e31d",
+      "Name": "Born again",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_HOHARMFORCE104",
+      "SetID": "511e31d",
+      "Name": "Let\u0027s play a game\u2026",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_KITCHEN",
+      "SetID": "511e31d",
+      "Name": "Nightmare in the kitchen",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_MATTDOCUMENTS",
+      "SetID": "511e31d",
+      "Name": "A dark past",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ACH_MUSICRADIO",
+      "SetID": "511e31d",
+      "Name": "Soundtrack",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_NOBULLETS",
+      "SetID": "511e31d",
+      "Name": "Sly as a fox",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_NOKNIFE",
+      "SetID": "511e31d",
+      "Name": "Good choice",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_OUTOFMOTEL",
+      "SetID": "511e31d",
+      "Name": "It can\u0027t be true",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_PICKLOCK",
+      "SetID": "511e31d",
+      "Name": "Nimble fingers",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_RESTAURANT",
+      "SetID": "511e31d",
+      "Name": "Take the long way round",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_REVENGE",
+      "SetID": "511e31d",
+      "Name": "Matthew\u0027s revenge",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_ROOM104",
+      "SetID": "511e31d",
+      "Name": "Room 104",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_ROOM203",
+      "SetID": "511e31d",
+      "Name": "Pick the right door",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_ROOM303",
+      "SetID": "511e31d",
+      "Name": "One-way",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SPADE",
+      "SetID": "511e31d",
+      "Name": "He who seeks, finds!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THEGARDEN",
+      "SetID": "511e31d",
+      "Name": "Face to face",
+      "Percentage": 100,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_THIRDFLOOR",
+      "SetID": "511e31d",
+      "Name": "The third floor",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_WAREHOUSE",
+      "SetID": "511e31d",
+      "Name": "Now or never",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +229,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 31,
+  "LastChanged_Achievements": "2023-05-04T19:15:02.3568949+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:00:03.4935605+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:01.8086227+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:03.4935546+00:00",
-  "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:02.3569216+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:59.1599882+00:00",
+  "AchievementSets": [
+    {
+      "ID": "511e31d",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00"
 }

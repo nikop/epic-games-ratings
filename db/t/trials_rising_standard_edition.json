@@ -1,6 +1,7 @@
 {
   "ID": "argyle",
   "Name": "Trials Rising Standard Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -232,15 +233,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:15.4998351+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:20.9047172+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:20.4946559+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T22:57:22.1750465+00:00",
   "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
+  "FirstSeen": "2022-07-22T20:21:00.7497016+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 81,
@@ -251,6 +256,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 212,
-  "Rating": 4.69,
-  "FirstSeen": "2022-07-22T20:21:00.7497016+00:00"
+  "Rating": 4.69
 }

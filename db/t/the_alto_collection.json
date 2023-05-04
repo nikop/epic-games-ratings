@@ -1,6 +1,281 @@
 {
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
+  "Achievements": [
+    {
+      "ID": "chain10000",
+      "SetID": "2lgngib",
+      "Name": "Junkie",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "distance1000000",
+      "SetID": "2lgngib",
+      "Name": "Adventurer",
+      "Percentage": 0.5,
+      "XP": 25
+    },
+    {
+      "ID": "distance250000",
+      "SetID": "2lgngib",
+      "Name": "Traveler",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "distance50000",
+      "SetID": "2lgngib",
+      "Name": "Scout",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "distance500000",
+      "SetID": "2lgngib",
+      "Name": "Explorer",
+      "Percentage": 1,
+      "XP": 25
+    },
+    {
+      "ID": "goals10",
+      "SetID": "2lgngib",
+      "Name": "Rookie",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "goals180",
+      "SetID": "2lgngib",
+      "Name": "Master",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "goals25",
+      "SetID": "2lgngib",
+      "Name": "Amateur",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "goals75",
+      "SetID": "2lgngib",
+      "Name": "Pro",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "hoistthemainsail",
+      "SetID": "2lgngib",
+      "Name": "Hoist the Mainsail",
+      "Percentage": 1,
+      "XP": 25
+    },
+    {
+      "ID": "humanflight",
+      "SetID": "2lgngib",
+      "Name": "Aviator",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "journeyer",
+      "SetID": "2lgngib",
+      "Name": "Journeyer",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "lifeaquatic",
+      "SetID": "2lgngib",
+      "Name": "Life Aquatic",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "master",
+      "SetID": "2lgngib",
+      "Name": "Master Of The Sands",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "mylittlefriend",
+      "SetID": "2lgngib",
+      "Name": "My Little Friend",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "nomad",
+      "SetID": "2lgngib",
+      "Name": "Nomad",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "novice",
+      "SetID": "2lgngib",
+      "Name": "Picking Up Speed",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "playerFelipe",
+      "SetID": "2lgngib",
+      "Name": "Unlock Felipe",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "playerIzel",
+      "SetID": "2lgngib",
+      "Name": "Unlock Izel",
+      "Percentage": 1,
+      "XP": 25
+    },
+    {
+      "ID": "playerMaya",
+      "SetID": "2lgngib",
+      "Name": "Unlock Maya",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "playerPaz",
+      "SetID": "2lgngib",
+      "Name": "Unlock Paz",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "playerTime3days",
+      "SetID": "2lgngib",
+      "Name": "Survivalist",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "playerTupa",
+      "SetID": "2lgngib",
+      "Name": "Unlock Tupa",
+      "Percentage": 0.4,
+      "XP": 50
+    },
+    {
+      "ID": "playerWingsuit",
+      "SetID": "2lgngib",
+      "Name": "Human Flight",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "pro",
+      "SetID": "2lgngib",
+      "Name": "One With The Board",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "proximityFly1000",
+      "SetID": "2lgngib",
+      "Name": "Daredevil",
+      "Percentage": 0.8,
+      "XP": 25
+    },
+    {
+      "ID": "rookie",
+      "SetID": "2lgngib",
+      "Name": "Finding Your Footing",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "sandboarder",
+      "SetID": "2lgngib",
+      "Name": "Sandboarder",
+      "Percentage": 4,
+      "XP": 25
+    },
+    {
+      "ID": "sightseer",
+      "SetID": "2lgngib",
+      "Name": "Sightseer",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "ultimate",
+      "SetID": "2lgngib",
+      "Name": "The Ultimate Challenge",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "unlockfelipe",
+      "SetID": "2lgngib",
+      "Name": "Here Comes Felipe",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "unlockfinal",
+      "SetID": "2lgngib",
+      "Name": "Introducing Sumara",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "unlockizel",
+      "SetID": "2lgngib",
+      "Name": "Izel Has Arrived",
+      "Percentage": 4,
+      "XP": 25
+    },
+    {
+      "ID": "unlockmaya",
+      "SetID": "2lgngib",
+      "Name": "Welcome Maya",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "unlockpaz",
+      "SetID": "2lgngib",
+      "Name": "Enter Paz",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "vandal",
+      "SetID": "2lgngib",
+      "Name": "Vandal",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "voyager",
+      "SetID": "2lgngib",
+      "Name": "Voyager",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "wanderer",
+      "SetID": "2lgngib",
+      "Name": "Wanderer",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "windswept",
+      "SetID": "2lgngib",
+      "Name": "Windswept",
+      "Percentage": 0.1,
+      "XP": 50
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1694,16 +1969,26 @@
       "NumberOfAwardsMax": 44
     }
   ],
-  "EOS_Completed_Percentage": 0.02,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 39,
+  "LastChanged_Achievements": "2023-05-04T19:19:07.6940558+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1195,
   "EOS_Completed": 3,
   "EOS_Progressed": 19641,
-  "LastUpdate_Achievements": "2023-05-04T19:04:16.4135069+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:44.4280448+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:16.4134988+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:07.6940952+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:42.1202447+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2lgngib",
+      "IsBase": true,
+      "Progressed": 19641,
+      "Completed": 3
+    }
+  ],
+  "EOS_Completed_Percentage": 0.02,
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
+  "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 44,
   "NumberOfAwards": 344,
@@ -1716,5 +2001,5 @@
   "Ranking_Popularity": 405,
   "Ranking_Rating": 192,
   "Rating": 4.7,
-  "FirstSeen": "2022-07-22T20:27:20.9071596+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00"
 }

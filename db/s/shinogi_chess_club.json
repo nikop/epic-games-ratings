@@ -1,6 +1,92 @@
 {
   "ID": "86bea31a21594ea3859c3cb3563a9b80",
   "Name": "Shinogi Chess Club",
+  "Achievements": [
+    {
+      "ID": "ACH_COMPLETECH1",
+      "SetID": "3milekj",
+      "Name": "Frostbite",
+      "Percentage": 40,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_COMPLETECH2",
+      "SetID": "3milekj",
+      "Name": "Stolen Thunder",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_COMPLETECH3",
+      "SetID": "3milekj",
+      "Name": "Legal Action",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_COMPLETECH4",
+      "SetID": "3milekj",
+      "Name": "Initiative",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_COMPLETEGAME",
+      "SetID": "3milekj",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_COMPLETENORMAL",
+      "SetID": "3milekj",
+      "Name": "Expert",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_FINDBOARD",
+      "SetID": "3milekj",
+      "Name": "Quite the View",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_FINDCOMPUTER",
+      "SetID": "3milekj",
+      "Name": "Tech Assistance",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_FINDROCK",
+      "SetID": "3milekj",
+      "Name": "Rock Out",
+      "Percentage": 60,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_FINDTORTOISE",
+      "SetID": "3milekj",
+      "Name": "And the Hare",
+      "Percentage": 40,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_LEAVELEVEL",
+      "SetID": "3milekj",
+      "Name": "Are You Happy Now?",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_TALKYASU",
+      "SetID": "3milekj",
+      "Name": "Life Lessons",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +103,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:18:35.7123305+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T19:03:42.2885016+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:05.517072+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:42.2884991+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:35.712341+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:04.1592717+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3milekj",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-18T22:59:17.8138997+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:21.7881428+00:00",
   "FirstSeenRating": "2023-04-18T22:59:17.8138997+00:00",
+  "FirstSeen": "2023-04-18T22:59:17.8138938+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 321,
-  "FirstSeen": "2023-04-18T22:59:17.8138938+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:21.7881428+00:00"
 }

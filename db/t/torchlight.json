@@ -1,6 +1,7 @@
 {
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -342,14 +343,18 @@
       "NumberOfAwardsMax": 20
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:26.8176963+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:52.4185593+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:49.1096919+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T16:57:25.843938+00:00",
+  "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 20,
   "NumberOfAwards": 20,
@@ -361,6 +366,5 @@
   "Ranking_PopularitySum": 482,
   "Ranking_Popularity": 482,
   "Ranking_Rating": 737,
-  "Rating": 4.32,
-  "FirstSeen": "2022-07-22T20:23:57.2645224+00:00"
+  "Rating": 4.32
 }

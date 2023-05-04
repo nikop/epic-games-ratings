@@ -1,10 +1,36 @@
 # Hardspace: Shipbreaker
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 36  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Breathe In… Breathe Out… | 73.00 |
+| It’s Heating up! | 69.00 |
+| Let’s patch things up | 65.00 |
+| I can fix it! | 62.00 |
+| Post No Bills | 56.00 |
+| Truly Shocking! | 47.00 |
+| Critical Thinker | 34.00 |
+| Always Finding Your Mark | 29.00 |
+| The Weight of the World | 29.00 |
+| Act I Complete | 26.00 |
+| A drop in the Ocean | 26.00 |
+| No Niños | 26.00 |
+| I ain’t afraid of no Ghost | 24.00 |
+| Act II Complete | 20.00 |
+| A successful procedure! | 19.00 |
+| Bing Bang BOOM | 18.00 |
+| Breaking the Ice | 16.00 |
+| Solidarity Forever | 12.00 |
+| A Tucked Tale | 10.00 |
+| The best thing money can buy | 9.00 |
+| Act III Complete | 6.00 |
+| Fire and Brimstone | 5.00 |
+| See you Space Cowboy | 5.00 |
+| Ghost in the Ship | 2.00 |
+| Disagree and Commit | 0.20 |
+| Captured Killer of Caerbannog | 0.00 |
+| Gecko Go(al) Getter | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 597 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -14,9 +40,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-25 | 595 | 0 |
 | 2023-04-26 | 596 | 0 |
 | 2023-05-02 | 597 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

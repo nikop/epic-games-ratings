@@ -1,6 +1,358 @@
 {
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
+  "Achievements": [
+    {
+      "ID": "achAlice",
+      "SetID": "72gjli4",
+      "Name": "Boss 1 \u2714",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "achAliceTwo",
+      "SetID": "72gjli4",
+      "Name": "Alice \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achAntivirus",
+      "SetID": "72gjli4",
+      "Name": "Antivirus \u2714",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "achBag",
+      "SetID": "72gjli4",
+      "Name": "Inventory \u2714",
+      "Percentage": 48,
+      "XP": 5
+    },
+    {
+      "ID": "achBett",
+      "SetID": "72gjli4",
+      "Name": "Betty \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achBrain",
+      "SetID": "72gjli4",
+      "Name": "Brain \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achCar",
+      "SetID": "72gjli4",
+      "Name": "Car \u2714",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "achCheet",
+      "SetID": "72gjli4",
+      "Name": "Cheats \u2714",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "achChest",
+      "SetID": "72gjli4",
+      "Name": "Chest \u2714",
+      "Percentage": 48,
+      "XP": 5
+    },
+    {
+      "ID": "achCity",
+      "SetID": "72gjli4",
+      "Name": "City \u2714",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "achCoinOne",
+      "SetID": "72gjli4",
+      "Name": "Seeker One \u2714",
+      "Percentage": 2,
+      "XP": 35
+    },
+    {
+      "ID": "achCoinThree",
+      "SetID": "72gjli4",
+      "Name": "Seeker Three \u2714",
+      "Percentage": 0.8,
+      "XP": 35
+    },
+    {
+      "ID": "achCoinTwo",
+      "SetID": "72gjli4",
+      "Name": "Seeker Two \u2714",
+      "Percentage": 0.8,
+      "XP": 35
+    },
+    {
+      "ID": "achCrokoOne",
+      "SetID": "72gjli4",
+      "Name": "Crocodile Escape \u2714",
+      "Percentage": 0.8,
+      "XP": 5
+    },
+    {
+      "ID": "achCrokoTwo",
+      "SetID": "72gjli4",
+      "Name": "Crocodile Attack \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achCrow",
+      "SetID": "72gjli4",
+      "Name": "Exterminate pests \u2714",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achDeva",
+      "SetID": "72gjli4",
+      "Name": "Secret \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achDictator",
+      "SetID": "72gjli4",
+      "Name": "Boss 2 \u2714",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "achDog",
+      "SetID": "72gjli4",
+      "Name": "Doberman \u2714",
+      "Percentage": 8,
+      "XP": 5
+    },
+    {
+      "ID": "achEva",
+      "SetID": "72gjli4",
+      "Name": "Eva \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achExplosion",
+      "SetID": "72gjli4",
+      "Name": "Survival \u2714",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "achFood",
+      "SetID": "72gjli4",
+      "Name": "Food \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achGameHard",
+      "SetID": "72gjli4",
+      "Name": "Hardcore \u2714",
+      "Percentage": 0.8,
+      "XP": 70
+    },
+    {
+      "ID": "achHospital",
+      "SetID": "72gjli4",
+      "Name": "Hospital \u2714",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "achIvan",
+      "SetID": "72gjli4",
+      "Name": "Group Alpha \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achKloyn",
+      "SetID": "72gjli4",
+      "Name": "Fright \u2714",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "achLizun",
+      "SetID": "72gjli4",
+      "Name": "Mutant fight \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achLizunTwo",
+      "SetID": "72gjli4",
+      "Name": "Mutant run \u2714",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "achMaikl",
+      "SetID": "72gjli4",
+      "Name": "Fraternal help \u2714",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "achOsipovOne",
+      "SetID": "72gjli4",
+      "Name": "Sheriff \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achOsipovTwo",
+      "SetID": "72gjli4",
+      "Name": "Osipov\u0027s video message \u2714",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "achPlotOne",
+      "SetID": "72gjli4",
+      "Name": "City on fire \u2714",
+      "Percentage": 4,
+      "XP": 35
+    },
+    {
+      "ID": "achPlotThree",
+      "SetID": "72gjli4",
+      "Name": "Infected \u2714",
+      "Percentage": 3,
+      "XP": 35
+    },
+    {
+      "ID": "achPlotTwo",
+      "SetID": "72gjli4",
+      "Name": "The escape \u2714",
+      "Percentage": 3,
+      "XP": 35
+    },
+    {
+      "ID": "achPolice",
+      "SetID": "72gjli4",
+      "Name": "Police officers \u2714",
+      "Percentage": 23,
+      "XP": 5
+    },
+    {
+      "ID": "achPriest",
+      "SetID": "72gjli4",
+      "Name": "Priest \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achRankOne",
+      "SetID": "72gjli4",
+      "Name": "Rank B\u002B \u2714",
+      "Percentage": 2,
+      "XP": 35
+    },
+    {
+      "ID": "achRankThree",
+      "SetID": "72gjli4",
+      "Name": "Rank A\u002B \u2714",
+      "Percentage": 0.8,
+      "XP": 85
+    },
+    {
+      "ID": "achRankTwo",
+      "SetID": "72gjli4",
+      "Name": "Rank A \u2714",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "achSave",
+      "SetID": "72gjli4",
+      "Name": "King of survival \u2714",
+      "Percentage": 4,
+      "XP": 70
+    },
+    {
+      "ID": "achSecretos",
+      "SetID": "72gjli4",
+      "Name": "All secrets revealed \u2714",
+      "Percentage": 3,
+      "XP": 35
+    },
+    {
+      "ID": "achSeif",
+      "SetID": "72gjli4",
+      "Name": "Master of Unlocking \u2714",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "achShahmat",
+      "SetID": "72gjli4",
+      "Name": "Chess \u2714",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "achSpped",
+      "SetID": "72gjli4",
+      "Name": "Speedrun \u2714",
+      "Percentage": 2,
+      "XP": 70
+    },
+    {
+      "ID": "achTransform",
+      "SetID": "72gjli4",
+      "Name": "Mutation \u2714",
+      "Percentage": 21,
+      "XP": 5
+    },
+    {
+      "ID": "achVip",
+      "SetID": "72gjli4",
+      "Name": "VIP \u2714",
+      "Percentage": 2,
+      "XP": 120
+    },
+    {
+      "ID": "achVitali",
+      "SetID": "72gjli4",
+      "Name": "Broadcasting \u2714",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "achWater",
+      "SetID": "72gjli4",
+      "Name": "Thirst \u2714",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "achWeapon",
+      "SetID": "72gjli4",
+      "Name": "Weapon \u2714",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "achWorms",
+      "SetID": "72gjli4",
+      "Name": "Boss 3 \u2714",
+      "Percentage": 3,
+      "XP": 30
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -457,22 +809,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 50,
+  "LastChanged_Achievements": "2023-05-04T19:20:11.2455105+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 99,
   "EOS_Completed": 0,
   "EOS_Progressed": 119,
-  "LastUpdate_Achievements": "2023-05-04T19:05:20.1726364+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:37.8939763+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:20.1726315+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:11.2455566+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:34.2532992+00:00",
+  "AchievementSets": [
+    {
+      "ID": "72gjli4",
+      "IsBase": true,
+      "Progressed": 119,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
+  "FirstSeen": "2023-04-27T18:00:42.6973754+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 243,
-  "FirstSeen": "2023-04-27T18:00:42.6973754+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "8965024015f5467699f4a497c7c016e8",
   "Name": "Train Life: A Railway Simulator",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -191,14 +192,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:20.9499254+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:51.768715+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:49.8473684+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T22:58:53.0255676+00:00",
+  "FirstSeen": "2022-07-22T20:30:34.3889134+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 42,
@@ -209,6 +214,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 876,
-  "Rating": 4,
-  "FirstSeen": "2022-07-22T20:30:34.3889134+00:00"
+  "Rating": 4
 }

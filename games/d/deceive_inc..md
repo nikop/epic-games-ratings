@@ -1,9 +1,44 @@
 # Deceive Inc.
 Rating: 4.64 (Ranked 312)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| On Deceive Inc.'s Secret Service | 64.00 |
+| Mainframe Hacker | 49.00 |
+| The Spy who eliminated me | 49.00 |
+| Tomorrow Never Dyes | 47.00 |
+| Never Say Loser Again | 42.00 |
+| From the Vault with Love | 40.00 |
+| For your Eyes only | 39.00 |
+| Tailor-Made | 38.00 |
+| Fully Decked Out | 37.00 |
+| You Only Live Twice | 34.00 |
+| A view to Win | 29.00 |
+| In It to Win It | 27.00 |
+| Smells Like Trouble | 27.00 |
+| Private Collection | 25.00 |
+| Killer Looks | 25.00 |
+| Hostile Takeover | 25.00 |
+| Assistant Accountant | 24.00 |
+| Keycards Royale | 24.00 |
+| Dr. No Kill | 24.00 |
+| The Living Portrait | 24.00 |
+| My Motto, My Creed | 24.00 |
+| Security Supervisor | 9.00 |
+| License to Thrill | 8.00 |
+| Social of Solace | 7.00 |
+| Safe Withdrawal | 7.00 |
+| Live and let lie | 6.00 |
+| Call Me Maybe | 5.00 |
+| PHD in VIP | 3.00 |
+| Branch Manager | 2.00 |
+| The terminals are not enough | 2.00 |
+| Lose Another Day | 2.00 |
+| Chairman of Deceive Inc. | 2.00 |
+| Chief Information Officer | 0.90 |
+| Masteries Are Forever | 0.40 |
+| Extraction Confusion | 0.30 |
+| Spyfall | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,149 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -20,9 +55,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 5,040 | 0 |
 | 2023-05-03 | 5,111 | 0 |
 | 2023-05-04 | 5,149 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

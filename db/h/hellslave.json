@@ -1,6 +1,7 @@
 {
   "ID": "f28de4c7a1464f749c0231192d28c652",
   "Name": "Hellslave",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:46.1744252+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:53.4772628+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:24.7144003+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:53.4772614+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:46.1744296+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:23.1228225+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c9cdokl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:36.3831428+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:27.1869188+00:00",
   "FirstSeenRating": "2023-03-31T05:58:36.3831427+00:00",
+  "FirstSeen": "2022-07-22T20:31:34.8413592+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:31:34.8413592+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:27.1869188+00:00"
 }

@@ -1,6 +1,113 @@
 {
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
+  "Achievements": [
+    {
+      "ID": "all_set_up",
+      "SetID": "c4ipj3h",
+      "Name": "All Set Up",
+      "Percentage": 99,
+      "XP": 100
+    },
+    {
+      "ID": "booty_call",
+      "SetID": "c4ipj3h",
+      "Name": "Booty Call",
+      "Percentage": 26,
+      "XP": 100
+    },
+    {
+      "ID": "crash_and_burn",
+      "SetID": "c4ipj3h",
+      "Name": "Crash and Burn",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "digital_casanova",
+      "SetID": "c4ipj3h",
+      "Name": "Digital Casanova",
+      "Percentage": 96,
+      "XP": 50
+    },
+    {
+      "ID": "hold_my_beer",
+      "SetID": "c4ipj3h",
+      "Name": "Hold my Beer",
+      "Percentage": 64,
+      "XP": 25
+    },
+    {
+      "ID": "in_contempt_of_duvet",
+      "SetID": "c4ipj3h",
+      "Name": "In Contempt of Duvet",
+      "Percentage": 28,
+      "XP": 100
+    },
+    {
+      "ID": "interrogation",
+      "SetID": "c4ipj3h",
+      "Name": "Interrogation",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "light_sleepers",
+      "SetID": "c4ipj3h",
+      "Name": "Light Sleepers",
+      "Percentage": 17,
+      "XP": 100
+    },
+    {
+      "ID": "not_alone",
+      "SetID": "c4ipj3h",
+      "Name": "Not Alone",
+      "Percentage": 30,
+      "XP": 25
+    },
+    {
+      "ID": "nueva_beginnings",
+      "SetID": "c4ipj3h",
+      "Name": "Nueva Beginnings",
+      "Percentage": 35,
+      "XP": 100
+    },
+    {
+      "ID": "only_thyme_will_tell",
+      "SetID": "c4ipj3h",
+      "Name": "Only Thyme Will Tell",
+      "Percentage": 34,
+      "XP": 100
+    },
+    {
+      "ID": "planting_the_seed",
+      "SetID": "c4ipj3h",
+      "Name": "Planting the Seed",
+      "Percentage": 21,
+      "XP": 25
+    },
+    {
+      "ID": "smooth_criminal",
+      "SetID": "c4ipj3h",
+      "Name": "Smooth Criminal",
+      "Percentage": 9,
+      "XP": 25
+    },
+    {
+      "ID": "sore_loser",
+      "SetID": "c4ipj3h",
+      "Name": "Sore Loser",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "we_go_again",
+      "SetID": "c4ipj3h",
+      "Name": "We Go Again",
+      "Percentage": 29,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -77,22 +184,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.87,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:18:30.3765599+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 11,
   "EOS_Completed": 3,
   "EOS_Progressed": 343,
-  "LastUpdate_Achievements": "2023-05-04T19:03:36.7099504+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:48.387876+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:36.7099469+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:30.3765724+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:47.0396665+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c4ipj3h",
+      "IsBase": true,
+      "Progressed": 343,
+      "Completed": 3
+    }
+  ],
+  "EOS_Completed_Percentage": 0.87,
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
+  "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_Progress": 198,
-  "FirstSeen": "2022-10-18T05:01:58.3974344+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00"
 }

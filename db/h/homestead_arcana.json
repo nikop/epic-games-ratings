@@ -1,6 +1,7 @@
 {
   "ID": "400354f58d89469eac906b4fd435de9b",
   "Name": "Homestead Arcana",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:44.9803109+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:54.4426748+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:23.5930436+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:54.4426731+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:44.980315+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:21.6888164+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5978ldl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-23T02:06:28.0321511+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:26.9124479+00:00",
   "FirstSeenRating": "2023-04-23T02:06:28.0321511+00:00",
+  "FirstSeen": "2023-04-23T02:06:28.0321446+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-23T02:06:28.0321446+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:26.9124479+00:00"
 }

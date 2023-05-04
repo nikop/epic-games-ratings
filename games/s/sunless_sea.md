@@ -4,9 +4,66 @@ Number of Ratings: 401  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 203  (Ranked 254)  
 Sum: 272 (Ranked 330)  
-Diff (max vs sum): -76
+Diff (max vs sum): -76  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Sink Beneath the Waves | 36.00 |
+| Sweet Sorrow | 18.00 |
+| Rules the Waves | 17.00 |
+| Thou, All-Shaking Thunder | 16.00 |
+| Rival | 14.00 |
+| Correspondent | 12.00 |
+| Lose Your Mind | 12.00 |
+| Sound Mind? | 12.00 |
+| Salt's Curse | 11.00 |
+| HE SUN THE SUN THE SUN T | 11.00 |
+| The Fall of the House | 11.00 |
+| Shipmate | 11.00 |
+| The Ascent of Man | 8.00 |
+| One Year at Zee | 8.00 |
+| Pupil | 7.00 |
+| Salvager | 7.00 |
+| Open Your Ears | 7.00 |
+| Sink Beneath the Waves. Again. | 5.00 |
+| Zee Fever | 5.00 |
+| Old Unhappy Far-Off Things | 4.00 |
+| Storm's Curse | 3.00 |
+| We're Gonna Need a Bigger Boat | 3.00 |
+| Come Closer | 3.00 |
+| Roaring Rise | 2.00 |
+| I am the Captain of my Soul | 2.00 |
+| A buoyant escape | 1.00 |
+| Frightful, sheer, no-man-fathomed | 1.00 |
+| The Bell Tolls | 1.00 |
+| His bones in whispers | 1.00 |
+| The beauty of the deep | 1.00 |
+| The dragon in the zee | 1.00 |
+| Thanks for all the fish | 1.00 |
+| Knife, Cup and Bone | 1.00 |
+| Those are pearls that were his eyes | 1.00 |
+| No regrets | 1.00 |
+| Rosewater sailor | 1.00 |
+| Under the zee | 1.00 |
+| A current under zee | 1.00 |
+| A zee-change | 0.90 |
+| Never Stop Sinking... | 0.90 |
+| Leviathan | 0.90 |
+| Depth charge | 0.90 |
+| What lies beneath | 0.80 |
+| Stone's Curse | 0.70 |
+| Five Years at Zee | 0.50 |
+| The Lady's Parlour | 0.20 |
+| A Past Wreathed in Shadows | 0.20 |
+| Under pressure | 0.20 |
+| A Drownie devotee | 0.10 |
+| Romans 6:9 | 0.10 |
+| Ofermod | 0.10 |
+| Consider Phlebas | 0.10 |
+| Death By Water | 0.10 |
+| Ten Years at Zee | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,162 (Ranked 83)  
+Progressed: 28,164 (Ranked 83)  
 Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +77,7 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-01 | 27,940 | 3 |
 | 2023-05-02 | 28,017 | 3 |
 | 2023-05-03 | 28,094 | 3 |
-| 2023-05-04 | 28,162 | 3 |
+| 2023-05-04 | 28,164 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

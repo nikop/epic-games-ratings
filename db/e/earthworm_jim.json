@@ -1,6 +1,7 @@
 {
   "ID": "3b759e19e20f45b2b608dd485eae51d6",
   "Name": "Earthworm Jim",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:32.2854233+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:02.7984991+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:00.6332728+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:12.7452458+00:00",
   "FirstSeenRating": "2023-03-31T05:58:12.7452457+00:00",
+  "FirstSeen": "2022-07-22T20:28:25.5447308+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:28:25.5447308+00:00"
+  "Ranking_EOS_Progress": 378
 }

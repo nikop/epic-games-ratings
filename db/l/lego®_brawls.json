@@ -1,6 +1,7 @@
 {
   "ID": "2579ddfa98e94a18aff45d1525f666d4",
   "Name": "LEGO\u00AE Brawls",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:59.7014663+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:26.9332312+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:24.193721+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:53.1081025+00:00",
   "FirstSeenRating": "2023-03-31T05:57:53.1081024+00:00",
+  "FirstSeen": "2022-12-17T17:57:58.3754978+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-12-17T17:57:58.3754978+00:00"
+  "Ranking_EOS_Progress": 378
 }

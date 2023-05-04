@@ -1,6 +1,176 @@
 {
   "ID": "f3ad35f2d71a4369ad0f42741dbab5e8",
   "Name": "Hazel Sky",
+  "Achievements": [
+    {
+      "ID": "abundant_food",
+      "SetID": "715elpj",
+      "Name": "Abundant food",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "avid_reader",
+      "SetID": "715elpj",
+      "Name": "Avid reader",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "backpack_complete",
+      "SetID": "715elpj",
+      "Name": "Backpack complete",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "ball_ruster",
+      "SetID": "715elpj",
+      "Name": "Ball ruster",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "collector",
+      "SetID": "715elpj",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "finally_an_engineer",
+      "SetID": "715elpj",
+      "Name": "Finally an engineer...?",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "first_chord",
+      "SetID": "715elpj",
+      "Name": "First chord",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "first_of_many",
+      "SetID": "715elpj",
+      "Name": "First of many",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "first_try",
+      "SetID": "715elpj",
+      "Name": "First try",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "gonna_find_them_all",
+      "SetID": "715elpj",
+      "Name": "Gonna find them all",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "half_engineer_half_fish",
+      "SetID": "715elpj",
+      "Name": "Half engineer, half fish",
+      "Percentage": 0,
+      "XP": 105
+    },
+    {
+      "ID": "how_many",
+      "SetID": "715elpj",
+      "Name": "How many?",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "interesting",
+      "SetID": "715elpj",
+      "Name": "Interesting",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "law_breaker",
+      "SetID": "715elpj",
+      "Name": "Lawbreaker",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "play_all_songs",
+      "SetID": "715elpj",
+      "Name": "How do you get into Carnegie hall?",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "reader",
+      "SetID": "715elpj",
+      "Name": "Reader",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "run_shane_run",
+      "SetID": "715elpj",
+      "Name": "Run, Shane, run!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "second_try",
+      "SetID": "715elpj",
+      "Name": "Second try",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "shark_attack",
+      "SetID": "715elpj",
+      "Name": "Shark attack",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "the_truth",
+      "SetID": "715elpj",
+      "Name": "The truth",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "this_is_it",
+      "SetID": "715elpj",
+      "Name": "This is it!",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "weird_stuff",
+      "SetID": "715elpj",
+      "Name": "Weird stuff",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "what_this_means",
+      "SetID": "715elpj",
+      "Name": "What this means?",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "where_now",
+      "SetID": "715elpj",
+      "Name": "Where now?",
+      "Percentage": 0,
+      "XP": 5
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +187,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:17:16.174229+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T19:00:38.6258918+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:11.3870841+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:38.6258893+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:16.1742475+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:10.089947+00:00",
+  "AchievementSets": [
+    {
+      "ID": "715elpj",
+      "IsBase": true,
+      "Progressed": 6,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:54.9235311+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:27.0387263+00:00",
   "FirstSeenRating": "2023-03-31T05:57:54.9235309+00:00",
+  "FirstSeen": "2022-07-25T16:02:01.0466594+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
-  "FirstSeen": "2022-07-25T16:02:01.0466594+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:27.0387263+00:00"
 }

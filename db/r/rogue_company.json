@@ -1,6 +1,7 @@
 {
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4305,14 +4306,18 @@
       "NumberOfAwardsMax": 4863
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:39.6326641+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:06.3099112+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:06.0874666+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T13:58:22.5292762+00:00",
+  "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 4863,
   "NumberOfAwards": 30766,
@@ -4324,6 +4329,5 @@
   "Ranking_PopularitySum": 36,
   "Ranking_Popularity": 61,
   "Ranking_Rating": 721,
-  "Rating": 4.34,
-  "FirstSeen": "2022-07-22T20:16:58.1519565+00:00"
+  "Rating": 4.34
 }

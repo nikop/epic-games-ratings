@@ -1,6 +1,7 @@
 {
   "ID": "025f0740981e4902a0cc7e1f1d92dd13",
   "Name": "Swords of Legends Online",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -591,14 +592,18 @@
       "NumberOfAwardsMax": 169
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:03.6173711+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:34.7899311+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:32.8601038+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T20:58:37.2430535+00:00",
+  "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 169,
   "NumberOfAwards": 389,
@@ -609,7 +614,6 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 302,
   "Ranking_Popularity": 274,
-  "Ranking_Rating": 750,
-  "Rating": 4.3,
-  "FirstSeen": "2022-07-22T20:23:20.3020946+00:00"
+  "Ranking_Rating": 751,
+  "Rating": 4.3
 }

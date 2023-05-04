@@ -1,12 +1,45 @@
 # Redout: Enhanced Edition
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 274  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| VANGUARD | 41.00 |
+| NATURAL BORN WINNER | 32.00 |
+| CALLING HOUSTON | 28.00 |
+| TRICK UP YOUR SLEEVE | 22.00 |
+| SNEAKY SNEAKY | 21.00 |
+| GT9STRADALE | 20.00 |
+| CHALLENGER | 11.00 |
+| ON A ROLL | 9.00 |
+| FASTER THAN EVER | 8.00 |
+| CENTAUR | 7.00 |
+| CHALLENGE THE WORLD | 7.00 |
+| PHOTOFINISH | 7.00 |
+| QAREEN | 5.00 |
+| SHOWOFF | 4.00 |
+| TAKATORA | 4.00 |
+| GILA | 3.00 |
+| PRO | 2.00 |
+| RESPWND | 2.00 |
+| SHINY SHINY GOLD | 2.00 |
+| HARDCORE | 1.00 |
+| ACE | 0.70 |
+| TACTICIAN | 0.60 |
+| GTX COMPETIZIONE | 0.50 |
+| HIDDEN POWER | 0.50 |
+| TUNING MANIAC | 0.50 |
+| DRAGOON | 0.40 |
+| FLAWLESS | 0.40 |
+| BETTER THAN EVER | 0.20 |
+| IINI | 0.20 |
+| MARID | 0.20 |
+| NOBUNAGA | 0.20 |
+| ODIN | 0.20 |
+| PILE UP TROPHIES | 0.20 |
+| ENLIGHTENED | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,858 (Ranked 43)  
+Progressed: 220,861 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,10 +53,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-01 | 220,670 | 41 |
 | 2023-05-02 | 220,736 | 41 |
 | 2023-05-03 | 220,809 | 41 |
-| 2023-05-04 | 220,858 | 41 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 220,861 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

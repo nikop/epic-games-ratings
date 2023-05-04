@@ -1,6 +1,7 @@
 {
   "ID": "a861a0cf27d74d85ad7c3fbcf9e2af42",
   "Name": "Pascal\u0027s Wager: Definitive Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -31,15 +32,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T18:59:59.1446831+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:00.3520954+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:59.2716988+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:36.0580691+00:00",
   "FirstSeenRating": "2022-11-24T04:58:14.8204326+00:00",
+  "FirstSeen": "2022-07-22T20:31:33.4222204+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -49,6 +54,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 730,
-  "Rating": 4.33,
-  "FirstSeen": "2022-07-22T20:31:33.4222204+00:00"
+  "Rating": 4.33
 }

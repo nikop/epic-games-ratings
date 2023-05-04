@@ -4,9 +4,36 @@ Number of Ratings: 546  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 114  (Ranked 307)  
 Sum: 856 (Ranked 241)  
-Diff (max vs sum): 66
+Diff (max vs sum): 66  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The Legend Begins | 93.00 |
+| What should I buy? | 83.00 |
+| Focus! | 62.00 |
+| Rescued Elder Ent | 62.00 |
+| The End of the Gold Mane Knights | 46.00 |
+| Rules of Etiquette | 39.00 |
+| False Goddess, Disappear | 38.00 |
+| Quick Movements | 33.00 |
+| Inventory Management | 33.00 |
+| The Fall of the Leonia Order | 28.00 |
+| The Hero Killer | 27.00 |
+| Go Home... | 25.00 |
+| The Final Battle of the First Hero | 24.00 |
+| Brain at Full Throttle | 22.00 |
+| Rookies Welcome | 20.00 |
+| Deadly Power | 15.00 |
+| Castle Restoration Plans | 14.00 |
+| The Dwarven Chandelier | 12.00 |
+| Master of Speed | 9.00 |
+| The Levitator | 5.00 |
+| The God of Battle | 3.00 |
+| Too Much of a Talker | 2.00 |
+| The Skeleton King | 2.00 |
+| Cold-Blooded | 0.80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,166 (Ranked 110)  
+Progressed: 7,167 (Ranked 110)  
 Completed: 11 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +44,7 @@ Completed: 11 (0.15%) (Ranked 138)
 | 2023-05-01 | 7,157 | 11 |
 | 2023-05-02 | 7,162 | 11 |
 | 2023-05-03 | 7,163 | 11 |
-| 2023-05-04 | 7,166 | 11 |
+| 2023-05-04 | 7,167 | 11 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

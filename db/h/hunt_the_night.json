@@ -1,6 +1,162 @@
 {
   "ID": "edecc2d8282c4dc39823e3319d1b8bc1",
   "Name": "Hunt the Night",
+  "Achievements": [
+    {
+      "ID": "Achievement_00",
+      "SetID": "2eim4o3",
+      "Name": "Evening Star",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "Achievement_01",
+      "SetID": "2eim4o3",
+      "Name": "Child of the Night",
+      "Percentage": 53,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_02",
+      "SetID": "2eim4o3",
+      "Name": "The Return of the King",
+      "Percentage": 29,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_03",
+      "SetID": "2eim4o3",
+      "Name": "Flames of Torment",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_04",
+      "SetID": "2eim4o3",
+      "Name": "Master of Lies",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_05",
+      "SetID": "2eim4o3",
+      "Name": "Force of Nature",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_06",
+      "SetID": "2eim4o3",
+      "Name": "The Witch and the Snake",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_07",
+      "SetID": "2eim4o3",
+      "Name": "Will of the Triumvirate",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_08",
+      "SetID": "2eim4o3",
+      "Name": "Aria of Blood",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_09",
+      "SetID": "2eim4o3",
+      "Name": "Paragon of Grace and Pain",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_10",
+      "SetID": "2eim4o3",
+      "Name": "Sins of the Father",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_11",
+      "SetID": "2eim4o3",
+      "Name": "One of the Cycle",
+      "Percentage": 6,
+      "XP": 125
+    },
+    {
+      "ID": "Achievement_12",
+      "SetID": "2eim4o3",
+      "Name": "Everlasting Day",
+      "Percentage": 6,
+      "XP": 125
+    },
+    {
+      "ID": "Achievement_13",
+      "SetID": "2eim4o3",
+      "Name": "Stalker of the 9th Age",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_14",
+      "SetID": "2eim4o3",
+      "Name": "Relics of the Order",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_15",
+      "SetID": "2eim4o3",
+      "Name": "A Kind Heart",
+      "Percentage": 12,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_16",
+      "SetID": "2eim4o3",
+      "Name": "Knowledge is Power",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_17",
+      "SetID": "2eim4o3",
+      "Name": "Scholar of the Moon",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_18",
+      "SetID": "2eim4o3",
+      "Name": "Seeker of Progress",
+      "Percentage": 12,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_19",
+      "SetID": "2eim4o3",
+      "Name": "Dressed for Battle",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_20",
+      "SetID": "2eim4o3",
+      "Name": "Legacy of the Sanguine",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "Achievement_21",
+      "SetID": "2eim4o3",
+      "Name": "Daughter of Blood and Darkness",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +173,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 22,
+  "LastChanged_Achievements": "2023-05-04T19:18:53.5873146+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-04T19:04:01.4734586+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:27.4515638+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:01.4734561+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:53.5873302+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:25.7598812+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2eim4o3",
+      "IsBase": true,
+      "Progressed": 17,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
   "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
+  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,
-  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00"
 }

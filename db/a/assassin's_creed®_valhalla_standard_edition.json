@@ -1,6 +1,7 @@
 {
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -4532,14 +4533,18 @@
       "NumberOfAwardsMax": 11676
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:24.519173+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:13.1847942+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:12.1136625+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:57:13.1847937+00:00",
+  "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 11676,
   "NumberOfAwards": 27046,
@@ -4551,6 +4556,5 @@
   "Ranking_PopularitySum": 39,
   "Ranking_Popularity": 29,
   "Ranking_Rating": 379,
-  "Rating": 4.6,
-  "FirstSeen": "2022-07-22T20:21:17.7160409+00:00"
+  "Rating": 4.6
 }

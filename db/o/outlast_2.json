@@ -1,6 +1,7 @@
 {
   "ID": "e3e1dbeede5a471c9932edb2f7b99f51",
   "Name": "Outlast 2",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -127,15 +128,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:57.8986097+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:29.2704383+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:27.4280431+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:13.4252465+00:00",
   "FirstSeenRating": "2022-10-23T03:31:57.5204331+00:00",
+  "FirstSeen": "2022-10-06T18:32:02.5316251+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -145,6 +150,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 178,
-  "Rating": 4.71,
-  "FirstSeen": "2022-10-06T18:32:02.5316251+00:00"
+  "Rating": 4.71
 }

@@ -3,9 +3,49 @@ Rating: 3.93 (Ranked 890)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 231  (Ranked 241)  
 Sum: 1,077 (Ranked 223)  
-Diff (max vs sum): 18
+Diff (max vs sum): 18  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Downed but Not Outed | 73.00 |
+| First One’s Free | 64.00 |
+| Neophyte Ninja | 50.00 |
+| Too Old for This | 47.00 |
+| Fancy Pants | 35.00 |
+| Case Closed | 34.00 |
+| King of the Hill | 33.00 |
+| Underworld Initiate | 29.00 |
+| Roid Ranger | 21.00 |
+| True Player | 18.00 |
+| Off the Rocks | 18.00 |
+| Raider’s Ruin | 15.00 |
+| Dragonslayer | 15.00 |
+| Hidden Sonata | 13.00 |
+| Classy Joint | 10.00 |
+| Rockay Rex | 10.00 |
+| Track Star | 9.00 |
+| Freebooter | 9.00 |
+| Headhunter | 8.00 |
+| Ding Dong | 8.00 |
+| I Like Trains | 7.00 |
+| Foo Finder | 6.00 |
+| Savvy Seeker | 5.00 |
+| Legend Looter | 4.00 |
+| Imports and Exports | 4.00 |
+| Olympus Ascended | 4.00 |
+| Red Star | 4.00 |
+| Privateer | 3.00 |
+| Groundhog Days | 3.00 |
+| Cracked the Jack | 3.00 |
+| Rockay Raider | 2.00 |
+| Moneybags | 2.00 |
+| Impossible Dreamer | 2.00 |
+| Rockay Knight | 1.00 |
+| Talent Scout | 1.00 |
+| Geek Out | 0.50 |
+| Full House | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,609 (Ranked 67)  
+Progressed: 58,611 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +59,7 @@ Completed: 26 (0.04%) (Ranked 167)
 | 2023-05-01 | 57,866 | 24 |
 | 2023-05-02 | 58,146 | 25 |
 | 2023-05-03 | 58,428 | 25 |
-| 2023-05-04 | 58,609 | 26 |
+| 2023-05-04 | 58,611 | 26 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

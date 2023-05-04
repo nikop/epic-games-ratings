@@ -4,7 +4,10 @@ Number of Ratings: 346  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Relaxing): 31  (Ranked 440)  
 Sum: 176 (Ranked 361)  
-Diff (max vs sum): 79
+Diff (max vs sum): 79  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

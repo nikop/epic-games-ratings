@@ -4,9 +4,75 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 6,880  (Ranked 44)  
 Sum: 11,738 (Ranked 73)  
-Diff (max vs sum): -29
+Diff (max vs sum): -29  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Delivering Is What I Do | 92.00 |
+| Good Samaritan | 89.00 |
+| Rebuilding America | 79.00 |
+| Like and Be Liked | 76.00 |
+| Apprentice Builder | 71.00 |
+| A New Day for the UCA | 70.00 |
+| A Baby Blessing | 63.00 |
+| Prominent Porter | 63.00 |
+| Building Bridges | 63.00 |
+| Well Connected | 60.00 |
+| The Custom Kid | 59.00 |
+| Chiral Crafter | 58.00 |
+| Boots Are a Porter's Best Friend | 58.00 |
+| The People's Porter | 55.00 |
+| I Couldn't Hold it In! | 55.00 |
+| Everyday Delivery | 51.00 |
+| A Shout in the Dark | 49.00 |
+| A Thirst for Knowledge | 47.00 |
+| Snooze 'n' Soothe | 47.00 |
+| Soothing Sounds | 45.00 |
+| Catcher Crusher | 44.00 |
+| We Need You | 43.00 |
+| Sleep Tight, Little BB | 43.00 |
+| All Roads Lead to the UCA | 38.00 |
+| Giver of Gifts | 37.00 |
+| Well-Traveled | 36.00 |
+| The Automation Revolution | 35.00 |
+| Pathfinder | 35.00 |
+| I Won't Break | 31.00 |
+| BB... | 31.00 |
+| The World's Most Popular Porter | 28.00 |
+| Pumped Porter | 27.00 |
+| We're Whole Again | 27.00 |
+| Soak and Sigh | 24.00 |
+| BBs: A Bridge Between This World and the One Beyond | 24.00 |
+| "BB" | 24.00 |
+| Deliveries Done | 23.00 |
+| Sixty Deaths and Sixty Births in a Day | 21.00 |
+| The Particle of God | 20.00 |
+| I'm Your Die-Hardman | 20.00 |
+| Bring Back My Baby | 20.00 |
+| She's waiting for you on the Beach. | 19.00 |
+| Thank You, Sam | 19.00 |
+| Thanks for Everything | 18.00 |
+| The Post Guides the Present | 16.00 |
+| Hooked on Delivering!? | 15.00 |
+| Rest In Pieces | 15.00 |
+| Childminder | 13.00 |
+| Public Service Porter | 11.00 |
+| God Particle Go-Getter | 8.00 |
+| The Past Guides the Present | 5.00 |
+| A Helping Hand | 4.00 |
+| Any Porter in a Storm | 3.00 |
+| Birth of a Legend | 2.00 |
+| In Sam We Trust | 2.00 |
+| Best Beloved | 2.00 |
+| Great Deliverer | 2.00 |
+| Master Builder | 0.90 |
+| Growth of a Legend | 0.70 |
+| Fount of Knowledge | 0.60 |
+| Trail-Blazer | 0.60 |
+| Homo Faber | 0.40 |
+| Greatest of Great Deliverers | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,196 (Ranked 29)  
+Progressed: 452,197 (Ranked 29)  
 Completed: 1,490 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +86,7 @@ Completed: 1,490 (0.33%) (Ranked 110)
 | 2023-05-01 | 451,494 | 1,483 |
 | 2023-05-02 | 451,747 | 1,484 |
 | 2023-05-03 | 452,004 | 1,486 |
-| 2023-05-04 | 452,196 | 1,490 |
+| 2023-05-04 | 452,197 | 1,490 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

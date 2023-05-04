@@ -1,20 +1,31 @@
 {
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:28.1968981+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:34.5572439+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:38.0466329+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:34.5572415+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:28.1969032+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:37.0293178+00:00",
+  "AchievementSets": [
+    {
+      "ID": "a2ci5mh",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00"
 }

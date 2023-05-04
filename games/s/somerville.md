@@ -1,9 +1,19 @@
 # Somerville
 Rating: 4.20 (Ranked 801)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| “Occupied!“ | 13.00 |
+| Worlds best dad. | 12.00 |
+| Resignation Reprise. | 8.00 |
+| War of the worlds. | 6.00 |
+| Resignation. | 5.00 |
+| Admiring the view. | 5.00 |
+| Blues Jam. | 3.00 |
+| Family First. | 3.00 |
+| Understanding. | 3.00 |
+| “Here boy…" | 2.00 |
+| First contact. | 0.50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,549 (Ranked 147)  
 Completed: 25 (1.61%) (Ranked 62)  
@@ -19,9 +29,6 @@ Completed: 25 (1.61%) (Ranked 62)
 | 2023-05-02 | 1,547 | 25 |
 | 2023-05-03 | 1,548 | 25 |
 | 2023-05-04 | 1,549 | 25 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

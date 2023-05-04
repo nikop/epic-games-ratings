@@ -4,7 +4,33 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 281  (Ranked 225)  
 Sum: 2,106 (Ranked 179)  
-Diff (max vs sum): 46
+Diff (max vs sum): 46  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First money | 94.00 |
+| Strongman | 31.00 |
+| Alpha Male | 19.00 |
+| Just Enough | 18.00 |
+| Pro-creative | 17.00 |
+| Worth Every Penny | 15.00 |
+| Family man | 12.00 |
+| Junior Estate Agent | 12.00 |
+| Mystery | 10.00 |
+| Artistic soul | 9.00 |
+| Estate Agent | 5.00 |
+| Millionaire | 5.00 |
+| Perfectionist | 5.00 |
+| I'm Belieber | 2.00 |
+| You do it wrong | 1.00 |
+| Game Over | 0.80 |
+| Wall Street Shark | 0.80 |
+| Knock, knock | 0.80 |
+| Negotiator | 0.80 |
+| Car Mechanic | 0.70 |
+| Do it ASAP | 0.60 |
+| Nerd | 0.50 |
+| Senior Estate Agent | 0.50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,647 (Ranked 92)  
 Completed: 19 (0.10%) (Ranked 150)  

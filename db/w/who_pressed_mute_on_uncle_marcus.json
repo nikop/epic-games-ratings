@@ -1,6 +1,127 @@
 {
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
+  "Achievements": [
+    {
+      "ID": "and_away_we_go",
+      "SetID": "202dmm8",
+      "Name": "And away we go!",
+      "Percentage": 85,
+      "XP": 10
+    },
+    {
+      "ID": "bless_the_rain",
+      "SetID": "202dmm8",
+      "Name": "I bless the rain down in London",
+      "Percentage": 25,
+      "XP": 100
+    },
+    {
+      "ID": "blow",
+      "SetID": "202dmm8",
+      "Name": "Blow",
+      "Percentage": 28,
+      "XP": 100
+    },
+    {
+      "ID": "brown_nosing",
+      "SetID": "202dmm8",
+      "Name": "Brown nosing",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "cheat",
+      "SetID": "202dmm8",
+      "Name": "Cheat",
+      "Percentage": 24,
+      "XP": 15
+    },
+    {
+      "ID": "delusions",
+      "SetID": "202dmm8",
+      "Name": "Delusions",
+      "Percentage": 23,
+      "XP": 100
+    },
+    {
+      "ID": "dont_fear_the_baldness",
+      "SetID": "202dmm8",
+      "Name": "Don\u0027t fear the baldness",
+      "Percentage": 34,
+      "XP": 15
+    },
+    {
+      "ID": "instinct",
+      "SetID": "202dmm8",
+      "Name": "Instinct",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "job_one_done",
+      "SetID": "202dmm8",
+      "Name": "Job one. DONE!",
+      "Percentage": 54,
+      "XP": 100
+    },
+    {
+      "ID": "just_like_me",
+      "SetID": "202dmm8",
+      "Name": "Just like me",
+      "Percentage": 28,
+      "XP": 100
+    },
+    {
+      "ID": "making_a_murderer",
+      "SetID": "202dmm8",
+      "Name": "Making a murderer",
+      "Percentage": 13,
+      "XP": 100
+    },
+    {
+      "ID": "prove_it",
+      "SetID": "202dmm8",
+      "Name": "Prove it",
+      "Percentage": 19,
+      "XP": 100
+    },
+    {
+      "ID": "sorry_kiddo",
+      "SetID": "202dmm8",
+      "Name": "Sorry, kiddo",
+      "Percentage": 95,
+      "XP": 10
+    },
+    {
+      "ID": "the_truth",
+      "SetID": "202dmm8",
+      "Name": "The truth",
+      "Percentage": 19,
+      "XP": 100
+    },
+    {
+      "ID": "the_whole_truth",
+      "SetID": "202dmm8",
+      "Name": "The whole truth",
+      "Percentage": 9,
+      "XP": 100
+    },
+    {
+      "ID": "toby_foolery",
+      "SetID": "202dmm8",
+      "Name": "Toby foolery",
+      "Percentage": 47,
+      "XP": 15
+    },
+    {
+      "ID": "you_are_carol_vorderman",
+      "SetID": "202dmm8",
+      "Name": "You are Carol Vorderman",
+      "Percentage": 51,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +153,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 7.28,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 17,
+  "LastChanged_Achievements": "2023-05-04T19:19:55.1126703+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 11,
   "EOS_Progressed": 151,
-  "LastUpdate_Achievements": "2023-05-04T19:05:04.2836384+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:27.7083784+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:04.2836362+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:55.1126839+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:24.8100526+00:00",
+  "AchievementSets": [
+    {
+      "ID": "202dmm8",
+      "IsBase": true,
+      "Progressed": 151,
+      "Completed": 11
+    }
+  ],
+  "EOS_Completed_Percentage": 7.28,
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
+  "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_Progress": 233,
-  "FirstSeen": "2022-11-05T14:31:21.414427+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00"
 }

@@ -4,9 +4,77 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 209  (Ranked 252)  
 Sum: 209 (Ranked 347)  
-Diff (max vs sum): -95
+Diff (max vs sum): -95  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The Shutdown | 66.00 |
+| Jeef Skeejj | 44.00 |
+| Careful planning | 39.00 |
+| Second Coming | 33.00 |
+| Jeef Skagg | 30.00 |
+| Mother | 25.00 |
+| In space, no one can hear you scream | 23.00 |
+| Chapter I: Echoes | 22.00 |
+| Excelsior Rule | 22.00 |
+| Things persisted in not being what they seemed | 20.00 |
+| Knightmare Frames | 15.00 |
+| May His passing cleanse the world | 15.00 |
+| Chapter II: Fallible Flesh | 15.00 |
+| Pope Zenon | 15.00 |
+| Tetsuo | 11.00 |
+| Plan for the worst | 11.00 |
+| Chapter III: The Man Who Sold the World | 10.00 |
+| Chapter IV: Through the Looking Glass | 8.00 |
+| Through the mirror | 8.00 |
+| General Vivar | 8.00 |
+| Back to Ganyma | 8.00 |
+| Kaos Rule | 8.00 |
+| Admiral Okonkwo | 7.00 |
+| The Survivalists | 7.00 |
+| The Tech Specialist | 7.00 |
+| Chapter V: Memories of None | 6.00 |
+| Meet your maker | 6.00 |
+| The Impersonator | 6.00 |
+| The Kid | 6.00 |
+| The Evangelist | 6.00 |
+| The Inquisitor | 6.00 |
+| The Ace Pilot | 6.00 |
+| The Tech Med | 6.00 |
+| The Mech Soldier | 6.00 |
+| The lucky charm | 6.00 |
+| The Anonymous | 6.00 |
+| The Smuggler | 6.00 |
+| The Crazy Repairman | 6.00 |
+| The Weasel | 6.00 |
+| Kill the Doctor | 5.00 |
+| Forsaken | 5.00 |
+| Mercy | 5.00 |
+| Jericho Rule | 5.00 |
+| Geno Rule | 3.00 |
+| Hammer Rule | 3.00 |
+| Survivor | 2.00 |
+| A Rock in the Dark | 1.00 |
+| Emperor of Misery | 1.00 |
+| A Frozen Lady | 1.00 |
+| Void Rule | 1.00 |
+| Excelsior Mastery | 0.80 |
+| The greatest admiral of all time | 0.50 |
+| Liberator | 0.10 |
+| The Art of War | 0.10 |
+| Geno Mastery | 0.10 |
+| Geno Supremacy | 0.10 |
+| Jericho Mastery | 0.10 |
+| Jericho Supremacy | 0.10 |
+| Hammer Mastery | 0.10 |
+| Hammer Supremacy | 0.10 |
+| Void Mastery | 0.10 |
+| Void Supremacy | 0.10 |
+| Kaos Mastery | 0.10 |
+| Kaos Supremacy | 0.10 |
+| Excelsior Supremacy | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,241 (Ranked 27)  
+Progressed: 457,242 (Ranked 27)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +88,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-01 | 457,072 | 14 |
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
-| 2023-05-04 | 457,241 | 14 |
+| 2023-05-04 | 457,242 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

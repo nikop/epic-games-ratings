@@ -1,6 +1,316 @@
 {
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_1",
+      "SetID": "db84117",
+      "Name": "Secret Seeker",
+      "Percentage": 57,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "db84117",
+      "Name": "Lady",
+      "Percentage": 30,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "db84117",
+      "Name": "Embers",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "db84117",
+      "Name": "Burning",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "db84117",
+      "Name": "Family",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "db84117",
+      "Name": "Ruse",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "db84117",
+      "Name": "Hatching",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "db84117",
+      "Name": "Bonds",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "db84117",
+      "Name": "Denouement",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "db84117",
+      "Name": "War Engines",
+      "Percentage": 14,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_2",
+      "SetID": "db84117",
+      "Name": "The Lookout",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "db84117",
+      "Name": "Left Behind",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "db84117",
+      "Name": "Secrets of the Earth",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "db84117",
+      "Name": "The Lion\u2019s Den",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "db84117",
+      "Name": "Heart of Fire",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "db84117",
+      "Name": "First Steps",
+      "Percentage": 81,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "db84117",
+      "Name": "Master Ninja",
+      "Percentage": 10,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_26",
+      "SetID": "db84117",
+      "Name": "Hot Potato",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_27",
+      "SetID": "db84117",
+      "Name": "Get Over Here",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_28",
+      "SetID": "db84117",
+      "Name": "Anger Management",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_29",
+      "SetID": "db84117",
+      "Name": "Look Behind You",
+      "Percentage": 16,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_3",
+      "SetID": "db84117",
+      "Name": "The Hidden Village",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_30",
+      "SetID": "db84117",
+      "Name": "Soul Reaver",
+      "Percentage": 22,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_31",
+      "SetID": "db84117",
+      "Name": "Sleeping on the Job",
+      "Percentage": 16,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT_32",
+      "SetID": "db84117",
+      "Name": "Bird of Prey",
+      "Percentage": 37,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_33",
+      "SetID": "db84117",
+      "Name": "Clinging to Life",
+      "Percentage": 18,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_34",
+      "SetID": "db84117",
+      "Name": "Wall Lizard",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_35",
+      "SetID": "db84117",
+      "Name": "Apex Predator",
+      "Percentage": 24,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_36",
+      "SetID": "db84117",
+      "Name": "Forge of Assassins",
+      "Percentage": 55,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_37",
+      "SetID": "db84117",
+      "Name": "Engraved with Power",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_38",
+      "SetID": "db84117",
+      "Name": "Tools of the Trade",
+      "Percentage": 63,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_39",
+      "SetID": "db84117",
+      "Name": "Fashionable Assassin",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_4",
+      "SetID": "db84117",
+      "Name": "A Pleasant Stay",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_40",
+      "SetID": "db84117",
+      "Name": "Apprentice",
+      "Percentage": 60,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_41",
+      "SetID": "db84117",
+      "Name": "Control the Shadows",
+      "Percentage": 68,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_42",
+      "SetID": "db84117",
+      "Name": "The Spirit of Vengeance",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_43",
+      "SetID": "db84117",
+      "Name": "Signature Move",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_44",
+      "SetID": "db84117",
+      "Name": "Legacy",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_45",
+      "SetID": "db84117",
+      "Name": "I don\u2019t Care!",
+      "Percentage": 45,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_5",
+      "SetID": "db84117",
+      "Name": "Hollow",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_6",
+      "SetID": "db84117",
+      "Name": "Pilgrimage",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_7",
+      "SetID": "db84117",
+      "Name": "Forest Spirits",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ACHIEVEMENT_8",
+      "SetID": "db84117",
+      "Name": "Awakening",
+      "Percentage": 92,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_9",
+      "SetID": "db84117",
+      "Name": "Revenant",
+      "Percentage": 51,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1098,17 +1408,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.46,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 44,
+  "LastChanged_Achievements": "2023-05-04T19:14:58.2861332+00:00",
   "EOS_NewCompleters": 4,
   "EOS_NewPlayers": 524,
   "EOS_Completed": 146,
   "EOS_Progressed": 31686,
-  "LastUpdate_Achievements": "2023-05-04T18:59:59.366499+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:59.3372163+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:59:59.3664866+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:58.286174+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:57.3985168+00:00",
+  "AchievementSets": [
+    {
+      "ID": "db84117",
+      "IsBase": true,
+      "Progressed": 31686,
+      "Completed": 146
+    }
+  ],
+  "EOS_Completed_Percentage": 0.46,
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
+  "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 88,
@@ -1120,5 +1440,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 428,
   "Rating": 4.57,
-  "FirstSeen": "2022-08-13T01:31:43.4157574+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00"
 }

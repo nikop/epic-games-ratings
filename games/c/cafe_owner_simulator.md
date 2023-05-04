@@ -1,9 +1,21 @@
 # Cafe Owner Simulator
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| BUSINESS OWNER | 98.00 |
+| CLEANER | 93.00 |
+| OH NO, HE'S LEAVING! | 72.00 |
+| FIREFIGHTER | 50.00 |
+| ADVANCED | 35.00 |
+| CHIEF | 17.00 |
+| SECOND_FLOOR | 11.00 |
+| DEBTOR | 8.00 |
+| FIRST $100K | 3.00 |
+| SUCCESSFUL | 3.00 |
+| THINGS ARE GOING WELL | 3.00 |
+| YETTI | 2.00 |
+| 500K$. | 1.00 |
+| INTRODUCTION | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 236 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -19,9 +31,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 231 | 0 |
 | 2023-05-03 | 233 | 0 |
 | 2023-05-04 | 236 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

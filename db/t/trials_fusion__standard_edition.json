@@ -1,6 +1,7 @@
 {
   "ID": "9afcf28baab84109ad3bc8038d07e7c1",
   "Name": "Trials Fusion: Standard Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -35,15 +36,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:17.4302177+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:47.8801196+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:45.4596159+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T22:58:48.8266532+00:00",
   "FirstSeenRating": "2022-11-25T02:22:23.776689+00:00",
+  "FirstSeen": "2022-07-22T20:26:51.793317+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -53,6 +58,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 414,
-  "Rating": 4.58,
-  "FirstSeen": "2022-07-22T20:26:51.793317+00:00"
+  "Rating": 4.58
 }

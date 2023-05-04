@@ -1,6 +1,7 @@
 {
   "ID": "7691acba99d04b8b994ce3c642ec7655",
   "Name": "VELONE",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:34.1906909+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:37.8213731+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:36.8713355+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:02.3293491+00:00",
   "FirstSeenRating": "2023-03-31T05:57:02.329349+00:00",
+  "FirstSeen": "2022-07-22T20:17:41.1845329+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:17:41.1845329+00:00"
+  "Ranking_EOS_Progress": 378
 }

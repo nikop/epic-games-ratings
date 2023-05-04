@@ -1,6 +1,7 @@
 {
   "ID": "0fb229f35a3f4eb788b05ae91419a214",
   "Name": "Arise: A Simple Story",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:25.1151689+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:50.3746402+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:47.1733976+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:43.2758311+00:00",
   "FirstSeenRating": "2023-03-31T05:57:43.275831+00:00",
+  "FirstSeen": "2022-07-22T20:23:47.7442516+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:23:47.7442516+00:00"
+  "Ranking_EOS_Progress": 378
 }

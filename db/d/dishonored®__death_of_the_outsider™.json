@@ -1,6 +1,7 @@
 {
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -360,15 +361,19 @@
       "NumberOfAwardsMax": 26
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:16.1609233+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:47.6183635+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:45.2190558+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T11:59:05.6631533+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
+  "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 26,
   "NumberOfAwards": 183,
@@ -379,6 +384,5 @@
   "Ranking_PopularitySum": 354,
   "Ranking_Popularity": 459,
   "Ranking_Rating": 633,
-  "Rating": 4.43,
-  "FirstSeen": "2022-12-15T22:58:09.2323476+00:00"
+  "Rating": 4.43
 }

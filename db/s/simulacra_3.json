@@ -1,6 +1,176 @@
 {
   "ID": "19de88bcf4d34a1789cd72c87e3dd4ad",
   "Name": "SIMULACRA 3",
+  "Achievements": [
+    {
+      "ID": "AMY_STARTED_IT",
+      "SetID": "5pchd6l",
+      "Name": "Amy Started It",
+      "Percentage": 100,
+      "XP": 35
+    },
+    {
+      "ID": "ATLAS_OVERRIDE_COMPLETE",
+      "SetID": "5pchd6l",
+      "Name": "Atlas Override Completed",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "COMPLETE_THE_PROTOCOL",
+      "SetID": "5pchd6l",
+      "Name": "Complete the Protocol",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "CORPORATE_ESPIONAGE",
+      "SetID": "5pchd6l",
+      "Name": "Corporate Espionage",
+      "Percentage": 100,
+      "XP": 35
+    },
+    {
+      "ID": "DARING_ESCAPE",
+      "SetID": "5pchd6l",
+      "Name": "Daring Escape",
+      "Percentage": 100,
+      "XP": 40
+    },
+    {
+      "ID": "GO_TO_JAIL",
+      "SetID": "5pchd6l",
+      "Name": "Go to Jail",
+      "Percentage": 100,
+      "XP": 35
+    },
+    {
+      "ID": "HELPFUL_COWORKER",
+      "SetID": "5pchd6l",
+      "Name": "Helpful Co-Worker",
+      "Percentage": 100,
+      "XP": 35
+    },
+    {
+      "ID": "HOME_INVASION",
+      "SetID": "5pchd6l",
+      "Name": "Home Invasion",
+      "Percentage": 100,
+      "XP": 50
+    },
+    {
+      "ID": "KILL_SWITCH_READY",
+      "SetID": "5pchd6l",
+      "Name": "Kill Switch Ready",
+      "Percentage": 100,
+      "XP": 50
+    },
+    {
+      "ID": "MIRA_MASTER",
+      "SetID": "5pchd6l",
+      "Name": "Mira Master",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "MISTRESS_OF_THE_NIGHT",
+      "SetID": "5pchd6l",
+      "Name": "Mistress of the Night",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ON_HER_OWN",
+      "SetID": "5pchd6l",
+      "Name": "On Her Own",
+      "Percentage": 100,
+      "XP": 40
+    },
+    {
+      "ID": "PASSWORD_ACQUIRED",
+      "SetID": "5pchd6l",
+      "Name": "Password Acquired",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "PASSWORD_LOST",
+      "SetID": "5pchd6l",
+      "Name": "Password Lost",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "RESET_AND_RUN",
+      "SetID": "5pchd6l",
+      "Name": "Reset and Run",
+      "Percentage": 100,
+      "XP": 40
+    },
+    {
+      "ID": "RUBY_LOST",
+      "SetID": "5pchd6l",
+      "Name": "Ruby Lost",
+      "Percentage": 100,
+      "XP": 100
+    },
+    {
+      "ID": "RUBY_SAVED",
+      "SetID": "5pchd6l",
+      "Name": "Ruby Saved",
+      "Percentage": 100,
+      "XP": 100
+    },
+    {
+      "ID": "SCAMMING_OVER_THE_PHONE",
+      "SetID": "5pchd6l",
+      "Name": "Scamming over the Phone",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "SECRET_GARDEN",
+      "SetID": "5pchd6l",
+      "Name": "Secret Garden",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "THE_GRAVEYARD_SHIFT",
+      "SetID": "5pchd6l",
+      "Name": "The Graveyard Shift",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "THE_SUNKEN_MAN",
+      "SetID": "5pchd6l",
+      "Name": "The Sunken Man",
+      "Percentage": 300,
+      "XP": 20
+    },
+    {
+      "ID": "TRUE_BELDAM_TOLD",
+      "SetID": "5pchd6l",
+      "Name": "True Beldam Told",
+      "Percentage": 100,
+      "XP": 70
+    },
+    {
+      "ID": "WELCOME_TO_STONECREEK",
+      "SetID": "5pchd6l",
+      "Name": "Welcome to Stonecreek",
+      "Percentage": 300,
+      "XP": 100
+    },
+    {
+      "ID": "WHAT_THEY_DESERVE",
+      "SetID": "5pchd6l",
+      "Name": "What They Deserve",
+      "Percentage": 100,
+      "XP": 70
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +180,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:19:56.5929535+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T19:05:05.7125865+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:32.7787612+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:05.7125844+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:56.5929694+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:29.328804+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5pchd6l",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 356
+  "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00"
 }

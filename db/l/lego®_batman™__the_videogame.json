@@ -1,6 +1,7 @@
 {
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -525,14 +526,18 @@
       "Rating": 4.52
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:28.4999388+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:04.1189967+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:01.432976+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-02-20T20:57:19.4098944+00:00",
+  "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 182,
   "NumberOfAwards": 182,
@@ -544,6 +549,5 @@
   "Ranking_PopularitySum": 355,
   "Ranking_Popularity": 263,
   "Ranking_Rating": 499,
-  "Rating": 4.52,
-  "FirstSeen": "2022-07-22T20:23:55.8648477+00:00"
+  "Rating": 4.52
 }

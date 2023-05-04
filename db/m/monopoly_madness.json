@@ -1,6 +1,7 @@
 {
   "ID": "3840e423f39f45eab96aac124a46492a",
   "Name": "MONOPOLY MADNESS",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:25.6802185+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:50.8092863+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:47.5813037+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:17.8580823+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.8580822+00:00",
+  "FirstSeen": "2022-07-22T20:32:14.657609+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:32:14.657609+00:00"
+  "Ranking_EOS_Progress": 378
 }

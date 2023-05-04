@@ -3,9 +3,46 @@ Rating: 4.66 (Ranked 272)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 28  (Ranked 450)  
 Sum: 28 (Ranked 461)  
-Diff (max vs sum): -11
+Diff (max vs sum): -11  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Legal Counsel | 42.00 |
+| Greasy Palms | 39.00 |
+| South American Connection | 23.00 |
+| Life of the Party | 17.00 |
+| Tommy Two-Wheels | 13.00 |
+| Big Heat from Little Havana | 12.00 |
+| Chauffeur | 12.00 |
+| Iron-y | 9.00 |
+| Salutations My Little Friend | 9.00 |
+| Gun for Hire | 7.00 |
+| Mischief Managed | 7.00 |
+| Vice City Mogul | 6.00 |
+| Bloodstained Hands | 6.00 |
+| Catch Me if You Can | 5.00 |
+| Not my First Time | 4.00 |
+| Grand Theft Auto | 4.00 |
+| High Quality H2O | 3.00 |
+| Pie Guy | 3.00 |
+| Running Rampant | 2.00 |
+| Point A to Point B | 2.00 |
+| Bull in a China Shop | 2.00 |
+| Somebody Call the Wambulance? | 2.00 |
+| Just Like the Real Thing | 2.00 |
+| Don't Need Roads | 2.00 |
+| Take the Cannoli | 2.00 |
+| City Sleuth | 2.00 |
+| One is Better Than Two | 1.00 |
+| Chopper’d Up | 1.00 |
+| Daredevil | 0.80 |
+| Born in the 80’s | 0.70 |
+| I'm Famous! | 0.70 |
+| Keepie-Uppy Okie Dokie | 0.60 |
+| Done it All | 0.60 |
+| Kingpin | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,023 (Ranked 114)  
+Progressed: 6,024 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +56,7 @@ Completed: 20 (0.33%) (Ranked 110)
 | 2023-05-01 | 5,975 | 20 |
 | 2023-05-02 | 5,993 | 20 |
 | 2023-05-03 | 6,011 | 20 |
-| 2023-05-04 | 6,023 | 20 |
+| 2023-05-04 | 6,024 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,9 +1,4 @@
 # F1® 22 Standard Edition
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
-Diff (max vs sum): -
-## Awards
-| Award | Count |
-| ----- | ----- |
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |

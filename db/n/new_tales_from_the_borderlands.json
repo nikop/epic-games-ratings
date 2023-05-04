@@ -1,6 +1,190 @@
 {
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
+  "Achievements": [
+    {
+      "ID": "BUY_COSMETIC_ITEM",
+      "SetID": "kakdpn",
+      "Name": "You\u0027re Not Naked",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "BUY_EVERY_COSMETIC_ITEM",
+      "SetID": "kakdpn",
+      "Name": "Okay, Vain Much?",
+      "Percentage": 0.5,
+      "XP": 100
+    },
+    {
+      "ID": "COL_EVR_VAULTLANDER_FIG",
+      "SetID": "kakdpn",
+      "Name": "Not Dolls. Action Figures!",
+      "Percentage": 0.2,
+      "XP": 25
+    },
+    {
+      "ID": "CPLT_WITHOUT_REACHING_GAMEOVER",
+      "SetID": "kakdpn",
+      "Name": "You Played This Before?",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "FAIL_QTE_FIRST_TIME",
+      "SetID": "kakdpn",
+      "Name": "Totally Intentional",
+      "Percentage": 43,
+      "XP": 5
+    },
+    {
+      "ID": "FIND_FIRST_VAULTLANDER",
+      "SetID": "kakdpn",
+      "Name": "Each Sold Separately",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "FINISH_EPISODE_1",
+      "SetID": "kakdpn",
+      "Name": "From Zeroes...",
+      "Percentage": 27,
+      "XP": 100
+    },
+    {
+      "ID": "FINISH_EPISODE_2",
+      "SetID": "kakdpn",
+      "Name": "Shard Snatchers",
+      "Percentage": 23,
+      "XP": 100
+    },
+    {
+      "ID": "FINISH_EPISODE_3",
+      "SetID": "kakdpn",
+      "Name": "Our Lucky Winner",
+      "Percentage": 20,
+      "XP": 100
+    },
+    {
+      "ID": "FINISH_EPISODE_4",
+      "SetID": "kakdpn",
+      "Name": "The Shardmenstration",
+      "Percentage": 18,
+      "XP": 100
+    },
+    {
+      "ID": "FINISH_EPISODE_5",
+      "SetID": "kakdpn",
+      "Name": "...To Heroes",
+      "Percentage": 17,
+      "XP": 100
+    },
+    {
+      "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
+      "SetID": "kakdpn",
+      "Name": "New Business",
+      "Percentage": 0.8,
+      "XP": 25
+    },
+    {
+      "ID": "GAMEOVER_FIRST_TIME",
+      "SetID": "kakdpn",
+      "Name": "Tale in the Toilet",
+      "Percentage": 28,
+      "XP": 5
+    },
+    {
+      "ID": "GET_MONEY_SINK_OR_SWIM",
+      "SetID": "kakdpn",
+      "Name": "You Rich Now!",
+      "Percentage": 21,
+      "XP": 5
+    },
+    {
+      "ID": "HACK_YOUR_FIRST_OBJECT",
+      "SetID": "kakdpn",
+      "Name": "We\u0027re In",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "HOTWIRE_FIRST_OBJECT",
+      "SetID": "kakdpn",
+      "Name": "Who Needs Keys?",
+      "Percentage": 48,
+      "XP": 10
+    },
+    {
+      "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
+      "SetID": "kakdpn",
+      "Name": "You Poor Now!",
+      "Percentage": 19,
+      "XP": 5
+    },
+    {
+      "ID": "NAILED_PERFECT_SEXY_DANCE",
+      "SetID": "kakdpn",
+      "Name": "You Got the Goods, Kid",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "PERF_EVRY_BCKGRD_CHECK",
+      "SetID": "kakdpn",
+      "Name": "Super Trusting Friend!",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "SUMMON_SEXY_INTERNS",
+      "SetID": "kakdpn",
+      "Name": "Bring back the butt!",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "WATCH_CREDITS_TO_THE_END",
+      "SetID": "kakdpn",
+      "Name": "Hey, thanks!",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "WIN_BATTLE_OLD_SCHOOL",
+      "SetID": "kakdpn",
+      "Name": "Those Were the Days...",
+      "Percentage": 18,
+      "XP": 5
+    },
+    {
+      "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
+      "SetID": "kakdpn",
+      "Name": "And Still Champion...",
+      "Percentage": 13,
+      "XP": 100
+    },
+    {
+      "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
+      "SetID": "kakdpn",
+      "Name": "Don\u0027t Get Cocky",
+      "Percentage": 26,
+      "XP": 15
+    },
+    {
+      "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
+      "SetID": "kakdpn",
+      "Name": "Murderous Mascot Mayhem",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "WISH_FOR_MORE_TACOS",
+      "SetID": "kakdpn",
+      "Name": "Mas, Por Favor",
+      "Percentage": 16,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -230,26 +414,36 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 26,
+  "LastChanged_Achievements": "2023-05-04T19:19:24.3583452+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_Completed": 0,
   "EOS_Progressed": 3374,
-  "LastUpdate_Achievements": "2023-05-04T19:04:33.4425471+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:57.200644+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:33.4425407+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:24.3583628+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:55.1328461+00:00",
+  "AchievementSets": [
+    {
+      "ID": "kakdpn",
+      "IsBase": true,
+      "Progressed": 3374,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
+  "FirstSeen": "2022-10-21T09:01:49.541257+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 130,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 861,
   "Rating": 4.07,
-  "FirstSeen": "2022-10-21T09:01:49.541257+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00"
 }

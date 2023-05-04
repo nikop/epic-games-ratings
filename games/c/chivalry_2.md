@@ -4,7 +4,10 @@ Number of Ratings: 18,078  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 4,015  (Ranked 72)  
 Sum: 26,190 (Ranked 44)  
-Diff (max vs sum): 28
+Diff (max vs sum): 28  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

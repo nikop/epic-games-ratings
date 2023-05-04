@@ -1,9 +1,24 @@
 # Bloodshore
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Congratulations, you are a sadist | 50.00 |
+| Super Seducer | 49.00 |
+| Um, ok... | 46.00 |
+| Superstar-crossed lovers | 37.00 |
+| A leader, you are not | 36.00 |
+| This won't end well... | 33.00 |
+| Comedy Killer | 31.00 |
+| Bromance | 29.00 |
+| Good job, nerd | 28.00 |
+| Mission Complete | 27.00 |
+| Lootaphilia | 22.00 |
+| Maybe you should give it another go | 9.00 |
+| Mikey Lizard | 6.00 |
+| I used to think I was indecisive... | 6.00 |
+| We tried to warn you! | 4.00 |
+| Deathlooper | 2.00 |
+| That's my boy! | 2.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 238)  
 Completed: 2 (1.44%) (Ranked 67)  
@@ -12,9 +27,6 @@ Completed: 2 (1.44%) (Ranked 67)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 138 | 2 |
 | 2023-04-30 | 139 | 2 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

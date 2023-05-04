@@ -1,6 +1,7 @@
 {
   "ID": "be69d05166bd49f3b649f6103c2324d0",
   "Name": "Realpolitiks II",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -21,15 +22,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:45.4007097+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:15.7064427+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:14.2725725+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-21T20:57:00.165661+00:00",
   "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
+  "FirstSeen": "2022-07-22T20:18:15.0752581+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -39,6 +44,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 842,
-  "Rating": 4.14,
-  "FirstSeen": "2022-07-22T20:18:15.0752581+00:00"
+  "Rating": 4.14
 }

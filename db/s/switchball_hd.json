@@ -1,20 +1,95 @@
 {
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_AIRBALL_BADGE_ID",
+      "SetID": "2h9pc72",
+      "Name": "Airball Badge",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
+      "SetID": "2h9pc72",
+      "Name": "Marbleball Badge",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
+      "SetID": "2h9pc72",
+      "Name": "Metalball Badge",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
+      "SetID": "2h9pc72",
+      "Name": "Powerball Badge",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_SPEEDBALL_EXPERT_ID",
+      "SetID": "2h9pc72",
+      "Name": "Speedroller Expert",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_SPEEDBALL_MASTER_ID",
+      "SetID": "2h9pc72",
+      "Name": "Speedroller Master",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
+      "SetID": "2h9pc72",
+      "Name": "Speedroller Rookie",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
+      "SetID": "2h9pc72",
+      "Name": "Speedroller Trainee",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT_SPYGLASS_ID",
+      "SetID": "2h9pc72",
+      "Name": "Spyglass",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 9,
+  "LastChanged_Achievements": "2023-05-04T19:14:58.637046+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T18:59:59.8104813+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:00.0064669+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:59:59.8104758+00:00",
-  "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:58.6370575+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:57.4417072+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2h9pc72",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00"
 }

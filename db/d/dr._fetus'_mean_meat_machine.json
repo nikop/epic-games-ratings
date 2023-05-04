@@ -1,20 +1,31 @@
 {
   "ID": "040c5764b6844dbda4575c728528fda6",
   "Name": "Dr. Fetus\u0027 Mean Meat Machine",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:32.9667839+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:39.4939098+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:04.3547128+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:39.493908+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:48:20.2877842+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:32.9667881+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:03.2875353+00:00",
+  "AchievementSets": [
+    {
+      "ID": "be3moaj",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:48:20.2877842+00:00"
 }

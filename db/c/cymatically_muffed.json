@@ -1,20 +1,144 @@
 {
   "ID": "5522b27e4f4b46a5b595b7ff6cb7874b",
   "Name": "Cymatically Muffed",
+  "Achievements": [
+    {
+      "ID": "BRUTALITY",
+      "SetID": "bp8c2m3",
+      "Name": "Brutality",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "DEMOLITIONIST",
+      "SetID": "bp8c2m3",
+      "Name": "Demolitionist",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "DOS_COLLECTOR",
+      "SetID": "bp8c2m3",
+      "Name": "DOS Collector",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "DOUBLE_KILL",
+      "SetID": "bp8c2m3",
+      "Name": "Double Kill",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "FINISHER",
+      "SetID": "bp8c2m3",
+      "Name": "Finisher",
+      "Percentage": 0,
+      "XP": 125
+    },
+    {
+      "ID": "GRUBBY",
+      "SetID": "bp8c2m3",
+      "Name": "Grubby",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "MONSTER_KILL",
+      "SetID": "bp8c2m3",
+      "Name": "Monster Kill",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "MUFFED_MADNESS",
+      "SetID": "bp8c2m3",
+      "Name": "Muffed Madness",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "MUFFED_PARTY",
+      "SetID": "bp8c2m3",
+      "Name": "Muffed Party",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "POWER_OVERWHELMING",
+      "SetID": "bp8c2m3",
+      "Name": "Power Overwhelming",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ROASTED",
+      "SetID": "bp8c2m3",
+      "Name": "Roasted",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ROCKET_MAN",
+      "SetID": "bp8c2m3",
+      "Name": "Rocket Man",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "SUPER_MUFFED",
+      "SetID": "bp8c2m3",
+      "Name": "Super Muffed",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "SURVIVALIST",
+      "SetID": "bp8c2m3",
+      "Name": "Survivalist",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "TRIGGER_HAPPY",
+      "SetID": "bp8c2m3",
+      "Name": "Trigger Happy",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "TRIPLE_KILL",
+      "SetID": "bp8c2m3",
+      "Name": "Triple Kill",
+      "Percentage": 0,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 16,
+  "LastChanged_Achievements": "2023-05-04T19:19:20.4728751+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:29.8856724+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:56.7154701+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:29.8856703+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:51:01.4340824+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:20.4728867+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:54.6502905+00:00",
+  "AchievementSets": [
+    {
+      "ID": "bp8c2m3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:51:01.4340824+00:00"
 }

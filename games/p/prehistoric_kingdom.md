@@ -1,13 +1,31 @@
 # Prehistoric Kingdom
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 40  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
-## Awards
-| Award | Count |
-| ----- | ----- |
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Bingo! | 0.00 |
+| Crowds o' Plenty | 0.00 |
+| Ecosystem | 0.00 |
+| Exhibit A... | 0.00 |
+| ...Exhibit B | 0.00 |
+| Fossil Record | 0.00 |
+| Hatchling | 0.00 |
+| Imaginarium | 0.00 |
+| Keeping Score | 0.00 |
+| Managerie Manager | 0.00 |
+| New Beginnings | 0.00 |
+| New High Score | 0.00 |
+| Noah's Park | 0.00 |
+| That's one Big Pile Of... | 0.00 |
+| Perfect Score | 0.00 |
+| Primigenius | 0.00 |
+| Sabre-Toothed Cat | 0.00 |
+| Spared Every Expense | 0.00 |
+| Three Horned Face | 0.00 |
+| Titan | 0.00 |
+| Tycoon | 0.00 |
+| Tyrant Lizard King | 0.00 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

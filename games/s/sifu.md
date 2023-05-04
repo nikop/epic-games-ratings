@@ -4,7 +4,60 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 6,025  (Ranked 53)  
 Sum: 10,203 (Ranked 77)  
-Diff (max vs sum): -24
+Diff (max vs sum): -24  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Diligence as a goal | 4.00 |
+| Project Arena | 3.00 |
+| Bloody Sport | 1.00 |
+| The best strikes are the ones we avoid | 0.80 |
+| The Hateful Pole Fighter | 0.70 |
+| A Lady's Blood in the Snow | 0.70 |
+| Qi Gong: Breath | 0.70 |
+| Path of the Prospect | 0.70 |
+| Lady Wing Chun | 0.60 |
+| Furious Fists | 0.60 |
+| Kill Nil | 0.60 |
+| State of constant learning | 0.60 |
+| Qi Gong: Essence | 0.60 |
+| Rumble in the Hangar | 0.60 |
+| Take damage to save time | 0.60 |
+| The Old Grandmaster | 0.50 |
+| The Assault | 0.50 |
+| Scareless | 0.50 |
+| Stuntmaster | 0.50 |
+| Street Fighting | 0.50 |
+| Life is your teacher | 0.50 |
+| Lightning Hands | 0.50 |
+| Kung-Fu Tussle | 0.50 |
+| Deadly Venom | 0.50 |
+| A Touch of Acumen | 0.50 |
+| Dance of the Praying Mantis | 0.40 |
+| Qi Gong: Mind | 0.40 |
+| Old Child | 0.40 |
+| Muk Yan Master | 0.30 |
+| Tiger on Fire | 0.30 |
+| Source of Flying Daggers | 0.30 |
+| Iron Money | 0.30 |
+| Legendary Talismans of Wuxing | 0.30 |
+| Detective Story | 0.30 |
+| The 36th Chamber of Kung-Fu | 0.30 |
+| I know Kung-Fu | 0.30 |
+| Martial Hub | 0.30 |
+| Secure, Protect, Leave | 0.30 |
+| Prodigal Child | 0.20 |
+| Drunken Fighter | 0.20 |
+| Martial Artist | 0.20 |
+| Knowledge Greed | 0.20 |
+| Sword Stained With Blood | 0.20 |
+| Healing Memory | 0.10 |
+| Master of the Phoenix Eye Fist | 0.10 |
+| Ferocity, speed, strength, accuracy | 0.10 |
+| The Pit Protector | 0.10 |
+| Be like water my friend | 0.10 |
+| Warriors from the Mountain | 0.10 |
+| Come Snap With Me | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702,584 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  

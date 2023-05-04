@@ -1,6 +1,295 @@
 {
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
+  "Achievements": [
+    {
+      "ID": "ACH_ABILITY_ALL",
+      "SetID": "231ghgk",
+      "Name": "Skillful Spirit Guide",
+      "Percentage": 15,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_ABILITY_BOMB",
+      "SetID": "231ghgk",
+      "Name": "Harness Your Power",
+      "Percentage": 38,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ABILITY_BOW",
+      "SetID": "231ghgk",
+      "Name": "Hunter in the Forest",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ABILITY_DASH",
+      "SetID": "231ghgk",
+      "Name": "Crossing Over",
+      "Percentage": 29,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_BOSS_ROT_GOD",
+      "SetID": "231ghgk",
+      "Name": "Restore Balance",
+      "Percentage": 24,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_BOSS_TARO",
+      "SetID": "231ghgk",
+      "Name": "Spirit Guide",
+      "Percentage": 42,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_BOSS_TOSHI",
+      "SetID": "231ghgk",
+      "Name": "A Leader Walks Alone",
+      "Percentage": 25,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_BOSS_WOODSMITH",
+      "SetID": "231ghgk",
+      "Name": "A Heavy Hammer",
+      "Percentage": 30,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_CHALLENGE_ARROW",
+      "SetID": "231ghgk",
+      "Name": "Piercing Blow",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_CHALLENGE_BOMB",
+      "SetID": "231ghgk",
+      "Name": "Sharpshooter",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHALLENGE_COMBAT_ACTIONS",
+      "SetID": "231ghgk",
+      "Name": "Rot Commander",
+      "Percentage": 59,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHALLENGE_CRIT",
+      "SetID": "231ghgk",
+      "Name": "Quick Draw",
+      "Percentage": 29,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHALLENGE_DASH_KILL",
+      "SetID": "231ghgk",
+      "Name": "Triple Tap",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHALLENGE_MAGE_BOMB",
+      "SetID": "231ghgk",
+      "Name": "Return to Sender",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHALLENGE_MOTH",
+      "SetID": "231ghgk",
+      "Name": "Weigh Them Down",
+      "Percentage": 31,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHALLENGE_MULTISHOT",
+      "SetID": "231ghgk",
+      "Name": "Bow Master",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_CHALLENGE_PARRY_KILL",
+      "SetID": "231ghgk",
+      "Name": "Triple Threat",
+      "Percentage": 0.9,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_CHALLENGE_SHIELD_STICKS",
+      "SetID": "231ghgk",
+      "Name": "Between the Eyes",
+      "Percentage": 46,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_CHESTS_ALL",
+      "SetID": "231ghgk",
+      "Name": "Curse Collector",
+      "Percentage": 7,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_DIFFICULTY_MASTER",
+      "SetID": "231ghgk",
+      "Name": "Master Spirit Guide",
+      "Percentage": 0.3,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_HATS_ALL",
+      "SetID": "231ghgk",
+      "Name": "Hat Collector",
+      "Percentage": 4,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_HERO_ROT",
+      "SetID": "231ghgk",
+      "Name": "Found a Friend",
+      "Percentage": 95,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_JIZO_ALL",
+      "SetID": "231ghgk",
+      "Name": "Restoration Master",
+      "Percentage": 4,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_JIZO_FIRST",
+      "SetID": "231ghgk",
+      "Name": "Good as New",
+      "Percentage": 72,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_LOCATION_FARM",
+      "SetID": "231ghgk",
+      "Name": "The Open Range",
+      "Percentage": 37,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_LOCATION_FOREST",
+      "SetID": "231ghgk",
+      "Name": "Into the Woods",
+      "Percentage": 69,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_LOCATION_MOUNTAIN",
+      "SetID": "231ghgk",
+      "Name": "The Lonely Path",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_LOCATION_VILLAGE",
+      "SetID": "231ghgk",
+      "Name": "Haikyo",
+      "Percentage": 80,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_MAIL_ALL",
+      "SetID": "231ghgk",
+      "Name": "The Last Stop",
+      "Percentage": 7,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_MEDITATION_ALL",
+      "SetID": "231ghgk",
+      "Name": "Zen Master",
+      "Percentage": 8,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_PHOTO_MODE",
+      "SetID": "231ghgk",
+      "Name": "Say Cheese",
+      "Percentage": 15,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_FOOD_OFFERING",
+      "SetID": "231ghgk",
+      "Name": "Taro\u0027s Love",
+      "Percentage": 45,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_HAMMER",
+      "SetID": "231ghgk",
+      "Name": "Adira\u0027s Fear",
+      "Percentage": 32,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_HARPOON",
+      "SetID": "231ghgk",
+      "Name": "Toshi\u0027s Regret",
+      "Percentage": 26,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_INCENSE",
+      "SetID": "231ghgk",
+      "Name": "Toshi\u0027s Fear",
+      "Percentage": 27,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_KNIFE",
+      "SetID": "231ghgk",
+      "Name": "Taro\u0027s Fear",
+      "Percentage": 55,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_LANTERN",
+      "SetID": "231ghgk",
+      "Name": "Taro\u0027s Regret",
+      "Percentage": 43,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_OX",
+      "SetID": "231ghgk",
+      "Name": "Adira\u0027s Love",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_VILLAGE_CREST",
+      "SetID": "231ghgk",
+      "Name": "Toshi\u0027s Love",
+      "Percentage": 26,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_RELIC_VILLAGE_HEART",
+      "SetID": "231ghgk",
+      "Name": "Adira\u0027s Regret",
+      "Percentage": 31,
+      "XP": 5
+    },
+    {
+      "ID": "ACH_ROT_ALL",
+      "SetID": "231ghgk",
+      "Name": "No Stone Unturned",
+      "Percentage": 4,
+      "XP": 100
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1834,16 +2123,26 @@
       "NumberOfAwardsMax": 1295
     }
   ],
-  "EOS_Completed_Percentage": 0.12,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 41,
+  "LastChanged_Achievements": "2023-05-04T19:17:27.1365958+00:00",
   "EOS_NewCompleters": 6,
   "EOS_NewPlayers": 216,
   "EOS_Completed": 497,
   "EOS_Progressed": 424856,
-  "LastUpdate_Achievements": "2023-05-04T19:02:22.0405265+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:52.7590338+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:22.0405203+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:27.1366296+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:51.081775+00:00",
+  "AchievementSets": [
+    {
+      "ID": "231ghgk",
+      "IsBase": true,
+      "Progressed": 424856,
+      "Completed": 497
+    }
+  ],
+  "EOS_Completed_Percentage": 0.12,
   "LastChanged": "2023-05-01T14:58:01.0334867+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
+  "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1295,
   "NumberOfAwards": 1666,
@@ -1856,5 +2155,5 @@
   "Ranking_Popularity": 118,
   "Ranking_Rating": 192,
   "Rating": 4.7,
-  "FirstSeen": "2022-07-22T20:19:51.8985804+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00"
 }

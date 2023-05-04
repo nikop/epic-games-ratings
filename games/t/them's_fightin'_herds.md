@@ -1,11 +1,38 @@
 # Them's Fightin' Herds
 Rating: 4.62 (Ranked 337)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Once upon a time... | 35.00 |
+| ... in the magical land of Foenum... | 34.00 |
+| Be Gentle... | 22.00 |
+| A Worthy Opponent | 17.00 |
+| Makin' Bacon | 4.00 |
+| Tenderhoof | 3.00 |
+| Champ'een of The Praire | 1.00 |
+| Come At Me! | 1.00 |
+| Sin'er Man | 0.20 |
+| Well-Done | 0.10 |
+| Valedictorian | 0.10 |
+| Love is a Battlefield | 0.10 |
+| That'll Do | 0.10 |
+| Swashbuckle'd | 0.10 |
+| School of Hard Knocks | 0.10 |
+| Way of the Dragon | 0.10 |
+| Iced Out | 0.10 |
+| Kickin' 'n Stompin' | 0.10 |
+| Dark Magic | 0.10 |
+| I Love You This Much | 0.10 |
+| Who Let The Dogs Out? | 0.10 |
+| The GOAT | 0.10 |
+| The Key To Victory | 0.10 |
+| Honor For All | 0.10 |
+| Ice Queen | 0.10 |
+| Doohickeys | 0.10 |
+| Alpaca Space Program | 0.10 |
+| High Priestess | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,232 (Ranked 44)  
+Progressed: 220,233 (Ranked 44)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +46,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 220,014 | 2 |
 | 2023-05-02 | 220,094 | 2 |
 | 2023-05-03 | 220,170 | 2 |
-| 2023-05-04 | 220,232 | 2 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 220,233 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

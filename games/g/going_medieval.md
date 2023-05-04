@@ -4,7 +4,41 @@ Number of Ratings: 706  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Relaxing): 118  (Ranked 302)  
 Sum: 922 (Ranked 233)  
-Diff (max vs sum): 69
+Diff (max vs sum): 69  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Get A Room | 68.00 |
+| Having A Field Day | 66.00 |
+| Reap What You Sow | 64.00 |
+| Green Thumb | 63.00 |
+| The First Day | 60.00 |
+| Putting Food on the Table | 55.00 |
+| Novice Researcher | 55.00 |
+| Onward | 50.00 |
+| The First Week | 47.00 |
+| Studious Researcher | 47.00 |
+| Feast or Famine | 45.00 |
+| Beam Me Up | 44.00 |
+| Adept Researcher | 44.00 |
+| Home Cooked Meal | 43.00 |
+| Luminary Researcher | 41.00 |
+| Retribution | 35.00 |
+| ...And Don’t Come Back! | 35.00 |
+| Fit For A King | 34.00 |
+| Heating Up | 23.00 |
+| Winter Is Coming | 20.00 |
+| Winter Is Here | 18.00 |
+| Oh Deer! | 16.00 |
+| All Year Round | 16.00 |
+| A Party Now | 15.00 |
+| Disassembled | 12.00 |
+| Deerly Departed | 11.00 |
+| Nothing Wasted | 10.00 |
+| Don't Cry Wolf | 10.00 |
+| Where Wolf? | 7.00 |
+| Food Chain | 2.00 |
+| Wabbit Season | 0.90 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 133)  
 Completed: 6 (0.23%) (Ranked 126)  

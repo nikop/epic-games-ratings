@@ -1,6 +1,7 @@
 {
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:06.645389+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:34.4231489+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:30.7456431+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:48.8913885+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
+  "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-08-27T20:01:18.3998991+00:00"
+  "Ranking_EOS_Progress": 378
 }

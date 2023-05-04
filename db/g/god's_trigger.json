@@ -1,6 +1,7 @@
 {
   "ID": "ceaa24233cdb4b678a1cf515e3a912e8",
   "Name": "God\u0027s Trigger",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -309,14 +310,18 @@
       "Rating": 4.17
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:40.8151711+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:08.7028278+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:08.2344864+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-02-11T23:57:23.0503403+00:00",
+  "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 26,
   "NumberOfAwards": 26,
@@ -328,6 +333,5 @@
   "Ranking_PopularitySum": 464,
   "Ranking_Popularity": 459,
   "Ranking_Rating": 826,
-  "Rating": 4.17,
-  "FirstSeen": "2022-07-22T20:23:51.7607722+00:00"
+  "Rating": 4.17
 }

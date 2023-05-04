@@ -1,6 +1,7 @@
 {
   "ID": "9aa3fab4ed5447d5b27e34d6aea7f259",
   "Name": "Coromon",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -230,14 +231,18 @@
       "Rating": 4.65
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:28.6414197+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:59.2858607+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:57.0448277+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-02-26T02:23:40.5372974+00:00",
+  "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 40,
   "NumberOfAwards": 40,
@@ -249,6 +254,5 @@
   "Ranking_PopularitySum": 442,
   "Ranking_Popularity": 409,
   "Ranking_Rating": 290,
-  "Rating": 4.65,
-  "FirstSeen": "2022-07-22T20:28:42.7563508+00:00"
+  "Rating": 4.65
 }

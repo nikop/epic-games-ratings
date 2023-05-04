@@ -1,6 +1,7 @@
 {
   "ID": "470d1421b2434108ac679e578d7bde42",
   "Name": "Wonderputt Forever",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:31.3520101+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:22.6959301+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:21.785308+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:01.7041108+00:00",
   "FirstSeenRating": "2023-03-31T05:58:01.7041107+00:00",
+  "FirstSeen": "2022-12-13T20:58:18.6798759+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-12-13T20:58:18.6798759+00:00"
+  "Ranking_EOS_Progress": 378
 }

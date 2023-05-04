@@ -1,10 +1,9 @@
 # Train Valley
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 28  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 272 (Ranked 210)  
 Completed: 2 (0.74%) (Ranked 89)  
@@ -13,9 +12,6 @@ Completed: 2 (0.74%) (Ranked 89)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 271 | 2 |
 | 2023-05-04 | 272 | 2 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

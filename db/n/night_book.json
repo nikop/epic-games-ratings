@@ -1,6 +1,127 @@
 {
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
+  "Achievements": [
+    {
+      "ID": "a_little_extra",
+      "SetID": "a3kkelb",
+      "Name": "A Little Extra",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "career_woman",
+      "SetID": "a3kkelb",
+      "Name": "Career Woman",
+      "Percentage": 61,
+      "XP": 10
+    },
+    {
+      "ID": "deal_or_no_deal",
+      "SetID": "a3kkelb",
+      "Name": "Deal Or No Deal",
+      "Percentage": 47,
+      "XP": 100
+    },
+    {
+      "ID": "hopeful",
+      "SetID": "a3kkelb",
+      "Name": "Hopeful",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "horrific",
+      "SetID": "a3kkelb",
+      "Name": "Horrific",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "impress_theron",
+      "SetID": "a3kkelb",
+      "Name": "Impress Theron",
+      "Percentage": 44,
+      "XP": 100
+    },
+    {
+      "ID": "marriage_is_off",
+      "SetID": "a3kkelb",
+      "Name": "The Marriage Is Off",
+      "Percentage": 10,
+      "XP": 100
+    },
+    {
+      "ID": "no_one_is_safe",
+      "SetID": "a3kkelb",
+      "Name": "No One Is Safe",
+      "Percentage": 65,
+      "XP": 15
+    },
+    {
+      "ID": "off_his_meds",
+      "SetID": "a3kkelb",
+      "Name": "He\u0027s Off His Meds",
+      "Percentage": 54,
+      "XP": 10
+    },
+    {
+      "ID": "on_your_bike",
+      "SetID": "a3kkelb",
+      "Name": "On Your Bike",
+      "Percentage": 30,
+      "XP": 100
+    },
+    {
+      "ID": "pearce",
+      "SetID": "a3kkelb",
+      "Name": "Pearce",
+      "Percentage": 9,
+      "XP": 100
+    },
+    {
+      "ID": "personal_life",
+      "SetID": "a3kkelb",
+      "Name": "Personal Life",
+      "Percentage": 49,
+      "XP": 10
+    },
+    {
+      "ID": "save_dad",
+      "SetID": "a3kkelb",
+      "Name": "Save Dad",
+      "Percentage": 20,
+      "XP": 100
+    },
+    {
+      "ID": "shady_truth",
+      "SetID": "a3kkelb",
+      "Name": "Shady Truth",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "unhelpful",
+      "SetID": "a3kkelb",
+      "Name": "Unhelpful",
+      "Percentage": 11,
+      "XP": 100
+    },
+    {
+      "ID": "use_your_connections",
+      "SetID": "a3kkelb",
+      "Name": "Use Your Connections",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "will_this_help",
+      "SetID": "a3kkelb",
+      "Name": "Will This Help?",
+      "Percentage": 72,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +148,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.68,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 17,
+  "LastChanged_Achievements": "2023-05-04T19:17:29.2478705+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 3,
   "EOS_Progressed": 179,
-  "LastUpdate_Achievements": "2023-05-04T19:02:24.2723741+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:06.2342293+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:24.2723717+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:29.2478852+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:04.8758284+00:00",
+  "AchievementSets": [
+    {
+      "ID": "a3kkelb",
+      "IsBase": true,
+      "Progressed": 179,
+      "Completed": 3
+    }
+  ],
+  "EOS_Completed_Percentage": 1.68,
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
+  "FirstSeen": "2022-11-19T20:57:23.939293+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_Progress": 225,
-  "FirstSeen": "2022-11-19T20:57:23.939293+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00"
 }

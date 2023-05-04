@@ -1,6 +1,155 @@
 {
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
+  "Achievements": [
+    {
+      "ID": "Attuned",
+      "SetID": "4nce15l",
+      "Name": "Attuned",
+      "Percentage": 38,
+      "XP": 10
+    },
+    {
+      "ID": "BeginningOfTheEnd",
+      "SetID": "4nce15l",
+      "Name": "Beginning of the End",
+      "Percentage": 18,
+      "XP": 20
+    },
+    {
+      "ID": "Bling",
+      "SetID": "4nce15l",
+      "Name": "Bling",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "Bloodlust",
+      "SetID": "4nce15l",
+      "Name": "Bloodlust",
+      "Percentage": 57,
+      "XP": 10
+    },
+    {
+      "ID": "Determined",
+      "SetID": "4nce15l",
+      "Name": "Determined",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "EmpyreanChampion",
+      "SetID": "4nce15l",
+      "Name": "Empyrean Champion",
+      "Percentage": 9,
+      "XP": 130
+    },
+    {
+      "ID": "Expert",
+      "SetID": "4nce15l",
+      "Name": "Master Tactician",
+      "Percentage": 3,
+      "XP": 170
+    },
+    {
+      "ID": "Feast",
+      "SetID": "4nce15l",
+      "Name": "Feast",
+      "Percentage": 43,
+      "XP": 20
+    },
+    {
+      "ID": "Geared",
+      "SetID": "4nce15l",
+      "Name": "Geared",
+      "Percentage": 16,
+      "XP": 60
+    },
+    {
+      "ID": "GettingItDone",
+      "SetID": "4nce15l",
+      "Name": "Gettin\u0027 It Done",
+      "Percentage": 55,
+      "XP": 40
+    },
+    {
+      "ID": "MasterCrafter",
+      "SetID": "4nce15l",
+      "Name": "Master Crafter",
+      "Percentage": 12,
+      "XP": 130
+    },
+    {
+      "ID": "MasterTrader",
+      "SetID": "4nce15l",
+      "Name": "Master Trader",
+      "Percentage": 13,
+      "XP": 60
+    },
+    {
+      "ID": "MysteriesOfRin",
+      "SetID": "4nce15l",
+      "Name": "Mysteries of Rin",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "Opulent",
+      "SetID": "4nce15l",
+      "Name": "Opulent",
+      "Percentage": 31,
+      "XP": 20
+    },
+    {
+      "ID": "Overpowered",
+      "SetID": "4nce15l",
+      "Name": "Overpowered",
+      "Percentage": 82,
+      "XP": 10
+    },
+    {
+      "ID": "Patience",
+      "SetID": "4nce15l",
+      "Name": "Patience",
+      "Percentage": 9,
+      "XP": 60
+    },
+    {
+      "ID": "ReadyToRock",
+      "SetID": "4nce15l",
+      "Name": "Ready to Rock",
+      "Percentage": 22,
+      "XP": 20
+    },
+    {
+      "ID": "SideJob",
+      "SetID": "4nce15l",
+      "Name": "Side Job",
+      "Percentage": 77,
+      "XP": 10
+    },
+    {
+      "ID": "Sparkly",
+      "SetID": "4nce15l",
+      "Name": "Sparkly",
+      "Percentage": 29,
+      "XP": 20
+    },
+    {
+      "ID": "Specialist",
+      "SetID": "4nce15l",
+      "Name": "Specialist",
+      "Percentage": 32,
+      "XP": 60
+    },
+    {
+      "ID": "Teamwork",
+      "SetID": "4nce15l",
+      "Name": "Teamwork",
+      "Percentage": 22,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +166,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 3.36,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 21,
+  "LastChanged_Achievements": "2023-05-04T19:18:58.4340175+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 4,
   "EOS_Progressed": 119,
-  "LastUpdate_Achievements": "2023-05-04T19:04:06.5989603+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:33.0402292+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:06.5989579+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:58.4340309+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:31.0569322+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4nce15l",
+      "IsBase": true,
+      "Progressed": 119,
+      "Completed": 4
+    }
+  ],
+  "EOS_Completed_Percentage": 3.36,
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
+  "FirstSeen": "2022-07-22T20:32:22.4007155+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_Progress": 243,
-  "FirstSeen": "2022-07-22T20:32:22.4007155+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00"
 }

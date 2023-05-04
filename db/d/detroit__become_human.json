@@ -1,6 +1,7 @@
 {
   "ID": "columbine",
   "Name": "Detroit: Become Human",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
@@ -1044,14 +1045,18 @@
       "NumberOfAwardsMax": 1372
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:24.9655655+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:53.0682264+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:49.7222571+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T15:59:40.4807781+00:00",
+  "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 1372,
   "NumberOfAwards": 1476,
@@ -1063,6 +1068,5 @@
   "Ranking_PopularitySum": 209,
   "Ranking_Popularity": 117,
   "Ranking_Rating": 24,
-  "Rating": 4.87,
-  "FirstSeen": "2022-07-22T20:18:06.5181893+00:00"
+  "Rating": 4.87
 }

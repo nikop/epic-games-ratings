@@ -1,6 +1,92 @@
 {
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
+  "Achievements": [
+    {
+      "ID": "001",
+      "SetID": "94k0mj8",
+      "Name": "001",
+      "Percentage": 0.2,
+      "XP": 100
+    },
+    {
+      "ID": "002",
+      "SetID": "94k0mj8",
+      "Name": "002",
+      "Percentage": 0.3,
+      "XP": 100
+    },
+    {
+      "ID": "003",
+      "SetID": "94k0mj8",
+      "Name": "003",
+      "Percentage": 0.2,
+      "XP": 80
+    },
+    {
+      "ID": "004",
+      "SetID": "94k0mj8",
+      "Name": "004",
+      "Percentage": 0.3,
+      "XP": 80
+    },
+    {
+      "ID": "005",
+      "SetID": "94k0mj8",
+      "Name": "005",
+      "Percentage": 0.2,
+      "XP": 80
+    },
+    {
+      "ID": "006",
+      "SetID": "94k0mj8",
+      "Name": "006",
+      "Percentage": 0.3,
+      "XP": 80
+    },
+    {
+      "ID": "007",
+      "SetID": "94k0mj8",
+      "Name": "007",
+      "Percentage": 0.2,
+      "XP": 80
+    },
+    {
+      "ID": "008",
+      "SetID": "94k0mj8",
+      "Name": "008",
+      "Percentage": 0.3,
+      "XP": 80
+    },
+    {
+      "ID": "009",
+      "SetID": "94k0mj8",
+      "Name": "009",
+      "Percentage": 0.2,
+      "XP": 80
+    },
+    {
+      "ID": "010",
+      "SetID": "94k0mj8",
+      "Name": "010",
+      "Percentage": 0.2,
+      "XP": 80
+    },
+    {
+      "ID": "011",
+      "SetID": "94k0mj8",
+      "Name": "011",
+      "Percentage": 0.2,
+      "XP": 80
+    },
+    {
+      "ID": "012",
+      "SetID": "94k0mj8",
+      "Name": "012",
+      "Percentage": 0.2,
+      "XP": 80
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -246,26 +332,36 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 7.13,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:15:03.4260388+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 133,
   "EOS_Progressed": 1865,
-  "LastUpdate_Achievements": "2023-05-04T19:00:04.6059556+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:39.8130558+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:04.6059484+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:03.426057+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:38.7390054+00:00",
+  "AchievementSets": [
+    {
+      "ID": "94k0mj8",
+      "IsBase": true,
+      "Progressed": 1865,
+      "Completed": 133
+    }
+  ],
+  "EOS_Completed_Percentage": 7.13,
   "LastChanged": "2023-04-11T01:54:45.1189189+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
+  "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_Progress": 142,
+  "Ranking_EOS_Progress": 143,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 574,
   "Rating": 4.47,
-  "FirstSeen": "2022-10-14T14:31:02.6493654+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00"
 }

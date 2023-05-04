@@ -1,6 +1,358 @@
 {
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
+  "Achievements": [
+    {
+      "ID": "01_Prologue",
+      "SetID": "adcm20g",
+      "Name": "The Old Grandmaster",
+      "Percentage": 0.5,
+      "XP": 5
+    },
+    {
+      "ID": "02_Vengeance_H1",
+      "SetID": "adcm20g",
+      "Name": "The Assault",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "03_Vengeance_H2",
+      "SetID": "adcm20g",
+      "Name": "The Hateful Pole Fighter",
+      "Percentage": 0.7,
+      "XP": 15
+    },
+    {
+      "ID": "04_Vengeance_H3",
+      "SetID": "adcm20g",
+      "Name": "A Lady\u0027s Blood in the Snow",
+      "Percentage": 0.7,
+      "XP": 15
+    },
+    {
+      "ID": "05_Vengeance_H4",
+      "SetID": "adcm20g",
+      "Name": "Lady Wing Chun",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "06_Vengeance_H5",
+      "SetID": "adcm20g",
+      "Name": "Furious Fists",
+      "Percentage": 0.6,
+      "XP": 75
+    },
+    {
+      "ID": "07_Wude_H1",
+      "SetID": "adcm20g",
+      "Name": "Muk Yan Master",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "08_Wude_H2",
+      "SetID": "adcm20g",
+      "Name": "Tiger on Fire",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "09_Wude_H3",
+      "SetID": "adcm20g",
+      "Name": "Source of Flying Daggers",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "10_Wude_H4",
+      "SetID": "adcm20g",
+      "Name": "Iron Money",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "11_Wude_H5",
+      "SetID": "adcm20g",
+      "Name": "Legendary Talismans of Wuxing",
+      "Percentage": 0.3,
+      "XP": 100
+    },
+    {
+      "ID": "12_MidAge",
+      "SetID": "adcm20g",
+      "Name": "Scareless",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "13_LowAge",
+      "SetID": "adcm20g",
+      "Name": "Prodigal Child",
+      "Percentage": 0.2,
+      "XP": 100
+    },
+    {
+      "ID": "14_DeathlessBoss_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Kill Nil",
+      "Percentage": 0.6,
+      "XP": 20
+    },
+    {
+      "ID": "15_Detective_H1",
+      "SetID": "adcm20g",
+      "Name": "Detective Story",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "16_Detective_H2",
+      "SetID": "adcm20g",
+      "Name": "Drunken Fighter",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "17_Detective_H3",
+      "SetID": "adcm20g",
+      "Name": "Martial Artist",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "18_Detective_H4",
+      "SetID": "adcm20g",
+      "Name": "Knowledge Greed",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "19_Detective_H5",
+      "SetID": "adcm20g",
+      "Name": "Healing Memory",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "20_Traversal_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Stuntmaster",
+      "Percentage": 0.5,
+      "XP": 5
+    },
+    {
+      "ID": "21_ThrowAI_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Dance of the Praying Mantis",
+      "Percentage": 0.4,
+      "XP": 5
+    },
+    {
+      "ID": "22_ThrowEE_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Street Fighting",
+      "Percentage": 0.5,
+      "XP": 5
+    },
+    {
+      "ID": "23_AnySkill_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Life is your teacher",
+      "Percentage": 0.5,
+      "XP": 5
+    },
+    {
+      "ID": "24_PermaSkill_Trophy",
+      "SetID": "adcm20g",
+      "Name": "State of constant learning",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "25_ShrineMind",
+      "SetID": "adcm20g",
+      "Name": "Qi Gong: Mind",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "26_ShrineSpirit",
+      "SetID": "adcm20g",
+      "Name": "Qi Gong: Breath",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "27_ShrineBody",
+      "SetID": "adcm20g",
+      "Name": "Qi Gong: Essence",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "28_Takedown_Trophy",
+      "SetID": "adcm20g",
+      "Name": "The 36th Chamber of Kung-Fu",
+      "Percentage": 0.3,
+      "XP": 35
+    },
+    {
+      "ID": "29_FocusAttack_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Master of the Phoenix Eye Fist",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "30_ComboMid",
+      "SetID": "adcm20g",
+      "Name": "I know Kung-Fu",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "31_ComboHigh",
+      "SetID": "adcm20g",
+      "Name": "Ferocity, speed, strength, accuracy",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "32_ReachMaxAge",
+      "SetID": "adcm20g",
+      "Name": "Old Child",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "33_BladeOneShot",
+      "SetID": "adcm20g",
+      "Name": "Sword Stained With Blood",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "34_TimedTakedown",
+      "SetID": "adcm20g",
+      "Name": "Lightning Hands",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "35_WideStrike",
+      "SetID": "adcm20g",
+      "Name": "Kung-Fu Tussle",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "36_Calbot_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Path of the Prospect",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "37_CustomTrophy_H1",
+      "SetID": "adcm20g",
+      "Name": "Rumble in the Hangar",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "38_CustomTrophy_H2",
+      "SetID": "adcm20g",
+      "Name": "The Pit Protector",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "39_CustomTrophy_H3",
+      "SetID": "adcm20g",
+      "Name": "Be like water my friend",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "40_CustomTrophy_H4",
+      "SetID": "adcm20g",
+      "Name": "Take damage to save time",
+      "Percentage": 0.6,
+      "XP": 10
+    },
+    {
+      "ID": "41_CustomTrophy_H5",
+      "SetID": "adcm20g",
+      "Name": "Warriors from the Mountain",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "42_PhotoMode_Trophy",
+      "SetID": "adcm20g",
+      "Name": "Come Snap With Me",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "43_Arena_UnlockPack",
+      "SetID": "14c2oii",
+      "Name": "Project Arena",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "44_Arena_3Stamps",
+      "SetID": "14c2oii",
+      "Name": "Diligence as a goal",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "45_Arena_25Challenges",
+      "SetID": "14c2oii",
+      "Name": "Bloody Sport",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "46_Arena_45Challenges",
+      "SetID": "14c2oii",
+      "Name": "Martial Hub",
+      "Percentage": 0.3,
+      "XP": 80
+    },
+    {
+      "ID": "47_Arena_GoldManhunt",
+      "SetID": "14c2oii",
+      "Name": "Deadly Venom",
+      "Percentage": 0.5,
+      "XP": 50
+    },
+    {
+      "ID": "48_Arena_GoldCapture",
+      "SetID": "14c2oii",
+      "Name": "Secure, Protect, Leave",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "49_Arena_GoldSurvival",
+      "SetID": "14c2oii",
+      "Name": "The best strikes are the ones we avoid",
+      "Percentage": 0.8,
+      "XP": 50
+    },
+    {
+      "ID": "50_Arena_GoldTimePerf",
+      "SetID": "14c2oii",
+      "Name": "A Touch of Acumen",
+      "Percentage": 0.5,
+      "XP": 50
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -4671,16 +5023,32 @@
       "NumberOfAwardsMax": 6025
     }
   ],
-  "EOS_Completed_Percentage": 1.81,
+  "TotalAchievementsXP": 1350,
+  "TotalAchievements": 50,
+  "LastChanged_Achievements": "2023-05-04T19:19:01.7973846+00:00",
   "EOS_NewCompleters": 15,
   "EOS_NewPlayers": 354,
   "EOS_Completed": 12707,
   "EOS_Progressed": 702584,
-  "LastUpdate_Achievements": "2023-05-04T19:04:10.1752725+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:31.5254544+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:10.1752653+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:01.7974334+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:29.3652893+00:00",
+  "AchievementSets": [
+    {
+      "ID": "14c2oii",
+      "IsBase": false,
+      "Progressed": 11885,
+      "Completed": 10019
+    },
+    {
+      "ID": "adcm20g",
+      "IsBase": true,
+      "Progressed": 702584,
+      "Completed": 12707
+    }
+  ],
+  "EOS_Completed_Percentage": 1.81,
   "LastChanged": "2023-05-04T14:59:15.3604301+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
+  "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6025,
   "NumberOfAwards": 10203,
@@ -4693,5 +5061,5 @@
   "Ranking_Popularity": 53,
   "Ranking_Rating": 59,
   "Rating": 4.82,
-  "FirstSeen": "2022-07-22T20:24:06.0099465+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00"
 }

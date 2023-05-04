@@ -1,10 +1,76 @@
 # Alan Wake Remastered
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 524  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Follow the Light | 19.00 |
+| Let There Be Light | 16.00 |
+| Float Like a Butterfly | 15.00 |
+| Nordic Walking | 12.00 |
+| Bright Falls' Finest | 12.00 |
+| Under a Thin Layer of Skin | 11.00 |
+| Park Ranger | 9.00 |
+| Back! Back, I Say! | 9.00 |
+| Finders Keepers | 9.00 |
+| Paging Mr. Wake | 9.00 |
+| Wheels Within Wheels | 8.00 |
+| They're Heeeeeere! | 8.00 |
+| Sound and Fury | 8.00 |
+| Damn Good Cup of Coffee | 8.00 |
+| A Friend in Need | 8.00 |
+| Heavy Metal | 7.00 |
+| Iron Horse | 7.00 |
+| Perchance to Dream | 7.00 |
+| The Six-Gun Scribe | 7.00 |
+| Collateral Carnage | 7.00 |
+| Come One, Come All | 7.00 |
+| Missed by a Mile | 7.00 |
+| Gatekeeper | 6.00 |
+| The Lady of the Light | 6.00 |
+| It's Not Just a Typewriter Brand | 6.00 |
+| Thunder and Lightning | 6.00 |
+| Two For the Price of One | 6.00 |
+| Energized! | 6.00 |
+| A Friend Indeed | 6.00 |
+| What Light Through Yonder Window | 5.00 |
+| Right of Way | 5.00 |
+| Ding! | 5.00 |
+| Tornado Wrangler | 4.00 |
+| Departure | 4.00 |
+| Children of the Elder God | 3.00 |
+| Drink 'Em Both Up | 3.00 |
+| Hardboiled Writer | 3.00 |
+| If It Flies, It Burns | 3.00 |
+| KBF-FM | 3.00 |
+| Kill Your Darlings | 3.00 |
+| Heartbreaker | 3.00 |
+| Boob Tube | 2.00 |
+| Carny | 2.00 |
+| Iron Will | 2.00 |
+| Medical Opinions | 1.00 |
+| Taken Season | 1.00 |
+| An Idyllic Small Town | 1.00 |
+| Couch Potato | 1.00 |
+| Go Gentle Into That Good Light | 1.00 |
+| Words Will Never Harm You | 0.60 |
+| Cardboard Companions | 0.60 |
+| Fast and Furious | 0.50 |
+| License Revoked | 0.40 |
+| Whirlwind | 0.40 |
+| Creative Space | 0.40 |
+| Run-On Sentence | 0.30 |
+| Tick Tock | 0.30 |
+| Alan, Wake Up | 0.20 |
+| Meet the Deadline | 0.20 |
+| Picking Up After Yourself | 0.20 |
+| Licensed Properties | 0.20 |
+| Gunless Wonder | 0.10 |
+| Every Nook and Cranny | 0.10 |
+| Collector's Edition | 0.10 |
+| Hypercaffeinated | 0.10 |
+| Bright Falls Aficionado | 0.10 |
+| No Punctuation | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45,990 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 150)  

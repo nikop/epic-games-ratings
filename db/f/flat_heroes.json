@@ -1,6 +1,316 @@
 {
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
+  "Achievements": [
+    {
+      "ID": "CompleteAllWorlds",
+      "SetID": "d9ekhim",
+      "Name": "Flat Hero",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "CompleteLightWorlds",
+      "SetID": "d9ekhim",
+      "Name": "Path of the Hero",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "DashAttack",
+      "SetID": "d9ekhim",
+      "Name": "Fireball",
+      "Percentage": 53,
+      "XP": 10
+    },
+    {
+      "ID": "DashDashDash",
+      "SetID": "d9ekhim",
+      "Name": "Be water, my friend",
+      "Percentage": 66,
+      "XP": 10
+    },
+    {
+      "ID": "DashLevitationDashAttack",
+      "SetID": "d9ekhim",
+      "Name": "Black Belt",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "FloorIsLava",
+      "SetID": "d9ekhim",
+      "Name": "Floor is Lava",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld10Boss",
+      "SetID": "d9ekhim",
+      "Name": "Rogue - Hero Edition",
+      "Percentage": 0.7,
+      "XP": 100
+    },
+    {
+      "ID": "HeroWorld1Boss",
+      "SetID": "d9ekhim",
+      "Name": "Dash Crash - Hero Edition",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld2Boss",
+      "SetID": "d9ekhim",
+      "Name": "Snake Eyes - Hero Edition",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld3Boss",
+      "SetID": "d9ekhim",
+      "Name": "The King of Flat - Hero Edition",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld4Boss",
+      "SetID": "d9ekhim",
+      "Name": "Hit That Ball - Hero Edition",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld5Boss",
+      "SetID": "d9ekhim",
+      "Name": "Eat That Apple - Hero Edition",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld6Boss",
+      "SetID": "d9ekhim",
+      "Name": "Tornado Chaser - Hero Edition",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld7Boss",
+      "SetID": "d9ekhim",
+      "Name": "Bomberman - Hero Edition",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld8Boss",
+      "SetID": "d9ekhim",
+      "Name": "The Colossus - Hero Edition",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "HeroWorld9Boss",
+      "SetID": "d9ekhim",
+      "Name": "Pim Pam Pum - Hero Edition",
+      "Percentage": 0.7,
+      "XP": 20
+    },
+    {
+      "ID": "KillArrowsAtOnce",
+      "SetID": "d9ekhim",
+      "Name": "Snakecharmer",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "KillGhostInACombo",
+      "SetID": "d9ekhim",
+      "Name": "Bubble Party",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "MultiNinjaSlayer",
+      "SetID": "d9ekhim",
+      "Name": "Ambush",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "NinjaSlayer",
+      "SetID": "d9ekhim",
+      "Name": "Air Slash",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "OhNo",
+      "SetID": "d9ekhim",
+      "Name": "Oh, no",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Pacifist",
+      "SetID": "d9ekhim",
+      "Name": "Pacifist",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "Shepherd",
+      "SetID": "d9ekhim",
+      "Name": "Shepherd",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SurvivalRecordArrows",
+      "SetID": "d9ekhim",
+      "Name": "Yondu",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "SurvivalRecordDaily",
+      "SetID": "d9ekhim",
+      "Name": "Dear Diary",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "SurvivalRecordEasy",
+      "SetID": "d9ekhim",
+      "Name": "Quite The Hero",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "SurvivalRecordMiniVertical",
+      "SetID": "d9ekhim",
+      "Name": "Lone Wolf",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "SurvivalRecordMultiplayer",
+      "SetID": "d9ekhim",
+      "Name": "Persistence",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "SurvivalRecordPhases",
+      "SetID": "d9ekhim",
+      "Name": "Warrior Trials",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "SurvivalRecordPhasesMeh",
+      "SetID": "d9ekhim",
+      "Name": "Apprentice",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "SurvivalRecordVertical",
+      "SetID": "d9ekhim",
+      "Name": "Vertigo",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "TripleTriple",
+      "SetID": "d9ekhim",
+      "Name": "Killing Spree",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "UnlockAllModes",
+      "SetID": "d9ekhim",
+      "Name": "Explorer",
+      "Percentage": 0.4,
+      "XP": 50
+    },
+    {
+      "ID": "UnlockAllPalettes",
+      "SetID": "d9ekhim",
+      "Name": "Colorful",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "World10Boss",
+      "SetID": "d9ekhim",
+      "Name": "Rogue",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "World1Boss",
+      "SetID": "d9ekhim",
+      "Name": "Dash Crash",
+      "Percentage": 70,
+      "XP": 10
+    },
+    {
+      "ID": "World2Boss",
+      "SetID": "d9ekhim",
+      "Name": "Snake Eyes",
+      "Percentage": 60,
+      "XP": 10
+    },
+    {
+      "ID": "World3Boss",
+      "SetID": "d9ekhim",
+      "Name": "The King of Flat",
+      "Percentage": 48,
+      "XP": 10
+    },
+    {
+      "ID": "World4Boss",
+      "SetID": "d9ekhim",
+      "Name": "Hit That Ball",
+      "Percentage": 37,
+      "XP": 10
+    },
+    {
+      "ID": "World5Boss",
+      "SetID": "d9ekhim",
+      "Name": "Eat That Apple",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "World6Boss",
+      "SetID": "d9ekhim",
+      "Name": "Tornado Chaser",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "World7Boss",
+      "SetID": "d9ekhim",
+      "Name": "Bomberman",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "World8Boss",
+      "SetID": "d9ekhim",
+      "Name": "The Colossus",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "World9Boss",
+      "SetID": "d9ekhim",
+      "Name": "Pim Pam Pum",
+      "Percentage": 7,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +332,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 44,
+  "LastChanged_Achievements": "2023-05-04T19:18:29.4013637+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 278,
-  "LastUpdate_Achievements": "2023-05-04T19:03:35.7511566+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:03.1312357+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:35.7511535+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:29.4013988+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:00.4172021+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d9ekhim",
+      "IsBase": true,
+      "Progressed": 278,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
+  "FirstSeen": "2022-07-22T20:20:51.7200235+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 209,
-  "FirstSeen": "2022-07-22T20:20:51.7200235+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00"
 }

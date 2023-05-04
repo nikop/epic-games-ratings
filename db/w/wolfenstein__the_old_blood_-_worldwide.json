@@ -1,6 +1,7 @@
 {
   "ID": "511ba0dc05dd4a3caa39708bcc806cb8",
   "Name": "Wolfenstein: The Old Blood - Worldwide",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -388,14 +389,18 @@
       "NumberOfAwardsMax": 84
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:20.5972956+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:00.2168356+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:58.8509034+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-08T01:48:07.2535284+00:00",
+  "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 84,
   "NumberOfAwards": 84,
@@ -407,6 +412,5 @@
   "Ranking_PopularitySum": 405,
   "Ranking_Popularity": 341,
   "Ranking_Rating": 379,
-  "Rating": 4.6,
-  "FirstSeen": "2022-07-22T20:31:51.0594067+00:00"
+  "Rating": 4.6
 }

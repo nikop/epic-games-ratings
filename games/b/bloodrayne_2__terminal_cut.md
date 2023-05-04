@@ -1,9 +1,21 @@
 # BloodRayne 2: Terminal Cut
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Going Batty | 25.00 |
+| Amateur Electrician | 13.00 |
+| Armed and Dangerous | 13.00 |
+| Go for the Heart | 13.00 |
+| Patricide | 13.00 |
+| Tightrope | 13.00 |
+| Zen Garden | 13.00 |
+| CARNAGE | 0.00 |
+| Combat Specialist | 0.00 |
+| Deathtraps | 0.00 |
+| Executioner | 0.00 |
+| Full Blooded Vampire | 0.00 |
+| Nowhere you can hide | 0.00 |
+| Pound of Flesh | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,9 +23,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 8 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

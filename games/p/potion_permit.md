@@ -3,7 +3,48 @@ Rating: 3.79 (Ranked 903)
 ## Popularity (Based on Awards)
 Max (Character Customization): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  
-Diff (max vs sum): -55
+Diff (max vs sum): -55  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Welcome to Moonbury | 98.00 |
+| The First Step | 89.00 |
+| Moonbury Traveller | 63.00 |
+| Rookie Chemist | 62.00 |
+| Great Doctor | 49.00 |
+| Dog Whisperer | 47.00 |
+| Friendly | 45.00 |
+| K.O.! | 41.00 |
+| The Capitalist | 41.00 |
+| Intermediate Chemist | 37.00 |
+| Decorative Mind | 30.00 |
+| Lumber Specialist | 29.00 |
+| Catch of the Day | 23.00 |
+| Kind-hearted | 22.00 |
+| Amateur Chef | 19.00 |
+| Fishing Guru | 17.00 |
+| Community Helper | 16.00 |
+| Spark of Love | 14.00 |
+| Stone Specialist | 13.00 |
+| Expert Chemist | 12.00 |
+| Sociable | 11.00 |
+| Ablutomaniac | 11.00 |
+| Production Sorter | 11.00 |
+| Good Samaritan | 10.00 |
+| Line Cook | 9.00 |
+| Acrobatic Adventurer | 8.00 |
+| Animal Exterminator | 7.00 |
+| Adolescent Love | 5.00 |
+| Mail Carrier | 5.00 |
+| Plantation Exterminator | 4.00 |
+| Grape Supplier | 4.00 |
+| Sous Chef | 3.00 |
+| Rock Exterminator | 2.00 |
+| Tree Exterminator | 2.00 |
+| Being forgetful... | 1.00 |
+| Community Advisor | 1.00 |
+| Moonbury Navigator | 0.70 |
+| Being a donut... | 0.60 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,230 (Ranked 152)  
 Completed: 5 (0.41%) (Ranked 103)  

@@ -1,6 +1,7 @@
 {
   "ID": "clover",
   "Name": "Little Inferno",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -297,14 +298,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:37.6369571+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:25.099722+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:23.5769663+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-09T18:57:57.1269296+00:00",
+  "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 66,
@@ -315,6 +320,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 353,
-  "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:29:23.1362481+00:00"
+  "Rating": 4.61
 }

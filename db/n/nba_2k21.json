@@ -1,6 +1,7 @@
 {
   "ID": "6b3b9698082c43cd9dcd7f68e3365e79",
   "Name": "NBA 2K21",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -4235,14 +4236,18 @@
       "NumberOfAwardsMax": 11647
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:55.1606624+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:26.9360828+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:24.3079365+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:59:26.9360822+00:00",
+  "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 11647,
   "NumberOfAwards": 88151,
@@ -4254,6 +4259,5 @@
   "Ranking_PopularitySum": 14,
   "Ranking_Popularity": 30,
   "Ranking_Rating": 679,
-  "Rating": 4.39,
-  "FirstSeen": "2022-07-22T20:26:01.1099601+00:00"
+  "Rating": 4.39
 }

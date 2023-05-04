@@ -4,9 +4,62 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 1,022  (Ranked 133)  
 Sum: 9,046 (Ranked 82)  
-Diff (max vs sum): 51
+Diff (max vs sum): 51  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First F#@!ing Day | 84.00 |
+| To The Nines | 78.00 |
+| Optimized | 69.00 |
+| Performance Review | 69.00 |
+| Making a Name | 66.00 |
+| Tune Up | 64.00 |
+| Landlord | 62.00 |
+| The Side Job | 60.00 |
+| Wet Work | 60.00 |
+| Wrecking Ball | 53.00 |
+| Food for Thought | 52.00 |
+| Finders Keepers | 50.00 |
+| A Young Empire | 48.00 |
+| Work Ethic | 45.00 |
+| Picking Fights | 37.00 |
+| Quality Time | 35.00 |
+| Power Players | 35.00 |
+| Took It to The Limit | 32.00 |
+| Showdown | 29.00 |
+| Et tu? | 29.00 |
+| Kitted Out | 25.00 |
+| Hijacked | 23.00 |
+| Masters of Santo Ileso | 23.00 |
+| The Spins | 20.00 |
+| The Mechanic | 20.00 |
+| Closet Space | 16.00 |
+| We could go home, or… | 14.00 |
+| A Golden Age | 14.00 |
+| Challenge Accepted | 13.00 |
+| The Professional | 11.00 |
+| Chaos Tamer | 11.00 |
+| Free Refills | 11.00 |
+| Smooth Moves | 11.00 |
+| Neighborly | 10.00 |
+| Prankster | 8.00 |
+| Shopping Spree | 7.00 |
+| Always Be Hustling | 7.00 |
+| Tourist | 7.00 |
+| Community Outreach | 6.00 |
+| Bonus Round | 5.00 |
+| The Collector | 3.00 |
+| All Mine | 3.00 |
+| Jack of All Trades | 2.00 |
+| It's a Bird! | 2.00 |
+| Heard You Like Wheels | 2.00 |
+| Armor Piercing | 1.00 |
+| Statement Pieces | 0.80 |
+| A Car Named Simone | 0.70 |
+| Fiesta Time | 0.60 |
+| Untouchable | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,845 (Ranked 87)  
+Progressed: 21,851 (Ranked 87)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +73,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 20,930 | 1 |
 | 2023-05-02 | 21,231 | 1 |
 | 2023-05-03 | 21,560 | 1 |
-| 2023-05-04 | 21,845 | 1 |
+| 2023-05-04 | 21,851 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

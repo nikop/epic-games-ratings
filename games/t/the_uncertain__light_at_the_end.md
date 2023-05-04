@@ -1,9 +1,37 @@
 # The Uncertain: Light at the End
 Rating: 3.88 (Ranked 897)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Bundle of Joy | 50.00 |
+| A Friend in Need... | 46.00 |
+| Bosom Buddies | 31.00 |
+| Beat the Heat | 25.00 |
+| A Familiar Face | 17.00 |
+| Mind the Gap | 14.00 |
+| Unexpected Consequences | 14.00 |
+| F is for Feline | 13.00 |
+| Does Not Compute | 13.00 |
+| Identity Theft | 12.00 |
+| U Mad Bro? | 12.00 |
+| A Trip to Remember | 12.00 |
+| Short Circuit | 11.00 |
+| A Stealthy Outlook | 8.00 |
+| Catch You Later | 6.00 |
+| Between the Covers | 5.00 |
+| Antisocial Club | 5.00 |
+| Den Mother | 5.00 |
+| Everything Must Go! | 4.00 |
+| You Had One Job... | 4.00 |
+| Smart cookie | 4.00 |
+| Paparazzi | 3.00 |
+| Life of the Party | 3.00 |
+| The Butterfly Effect | 2.00 |
+| Echoes of the Past | 2.00 |
+| Casual Gamer | 2.00 |
+| Urban Scrawl | 2.00 |
+| Marvellous Toys | 2.00 |
+| Hardcore Gamer | 1.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 406 (Ranked 190)  
 Completed: 5 (1.23%) (Ranked 74)  
@@ -15,9 +43,6 @@ Completed: 5 (1.23%) (Ranked 74)
 | 2023-04-27 | 404 | 5 |
 | 2023-04-29 | 405 | 5 |
 | 2023-05-04 | 406 | 5 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

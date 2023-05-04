@@ -1,6 +1,7 @@
 {
   "ID": "3ef2ef153b5649aaa8f0de5b5805dcce",
   "Name": "Disgaea 6 Complete",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:48.3840707+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:16.610867+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:15.0433894+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:38.8729745+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.8729744+00:00",
+  "FirstSeen": "2022-07-22T20:23:08.3220914+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:23:08.3220914+00:00"
+  "Ranking_EOS_Progress": 378
 }

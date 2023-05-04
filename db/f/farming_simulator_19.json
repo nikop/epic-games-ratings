@@ -1,6 +1,7 @@
 {
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -4169,14 +4170,18 @@
       "NumberOfAwardsMax": 6221
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:01.8870595+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:34.4451279+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:32.4723628+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:58:34.4451274+00:00",
+  "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 6221,
   "NumberOfAwards": 47084,
@@ -4188,6 +4193,5 @@
   "Ranking_PopularitySum": 24,
   "Ranking_Popularity": 51,
   "Ranking_Rating": 178,
-  "Rating": 4.71,
-  "FirstSeen": "2022-07-22T20:21:56.7737014+00:00"
+  "Rating": 4.71
 }

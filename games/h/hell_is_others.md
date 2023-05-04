@@ -1,11 +1,66 @@
 # Hell is Others
 Rating: 4.47 (Ranked 574)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Survivor | 31.00 |
+| Predator I | 21.00 |
+| A week in Century City | 10.00 |
+| Fixer I | 9.00 |
+| The Wait | 7.00 |
+| Green thumb I | 6.00 |
+| Well-oiled machine | 5.00 |
+| Saver I | 5.00 |
+| Cleaning Company | 5.00 |
+| The Ascent | 4.00 |
+| Pacifist | 4.00 |
+| Vandalism | 4.00 |
+| Capitalist I | 4.00 |
+| Adrenaline | 3.00 |
+| By a hair | 2.00 |
+| Fixer II | 2.00 |
+| It took a while | 2.00 |
+| Samurai | 2.00 |
+| I Left You a Present | 2.00 |
+| Predator II | 2.00 |
+| Truffle Dog | 2.00 |
+| A month in Century City | 2.00 |
+| The Strengthening | 1.00 |
+| Saver II | 1.00 |
+| It's the last one, I swear | 1.00 |
+| Botanist | 1.00 |
+| Green thumb II | 1.00 |
+| Don't try this at home | 1.00 |
+| Bricklayer | 1.00 |
+| Run the Economy | 1.00 |
+| Committed Relationship | 0.80 |
+| Number 1 | 0.70 |
+| Interior designer | 0.60 |
+| The Gamble | 0.50 |
+| The Descent | 0.50 |
+| A major purchase | 0.50 |
+| Expert Hunter | 0.40 |
+| Fungi hunter | 0.40 |
+| Arms dealer | 0.30 |
+| Predator III | 0.30 |
+| AML questionnaire | 0.30 |
+| Fixer III | 0.20 |
+| Homerun | 0.20 |
+| A season in Century City | 0.20 |
+| Heartbreaker | 0.20 |
+| Saver III | 0.10 |
+| Collector | 0.10 |
+| Mansion | 0.10 |
+| Workhorse | 0.10 |
+| Green thumb III | 0.10 |
+| Plantation | 0.10 |
+| Reminescence | 0.10 |
+| Beloved | 0.10 |
+| Capitalist II | 0.10 |
+| Capitalist III | 0.10 |
+| Hell Is You | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,731 (Ranked 39)  
+Progressed: 247,733 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +74,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 247,493 | 0 |
 | 2023-05-02 | 247,587 | 0 |
 | 2023-05-03 | 247,672 | 1 |
-| 2023-05-04 | 247,731 | 1 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 247,733 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

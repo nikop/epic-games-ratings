@@ -1,6 +1,7 @@
 {
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -131,17 +132,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:20:09.2491195+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:18.1879326+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:43.4141133+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:18.1879283+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:09.2491242+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:40.0188385+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3i1a0ml",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T12:00:15.6178901+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
+  "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -152,5 +163,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 499,
   "Rating": 4.52,
-  "FirstSeen": "2023-03-07T20:56:52.9843527+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
   "Name": "Orwell\u0027s Animal Farm",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:23.4490428+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:48.7741985+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:47.5003897+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:47.1841438+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.1841437+00:00",
+  "FirstSeen": "2022-07-22T20:32:59.4211245+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:32:59.4211245+00:00"
+  "Ranking_EOS_Progress": 378
 }

@@ -1,6 +1,211 @@
 {
   "ID": "5811da1b31a2414fbb77bd910e55480f",
   "Name": "Airoheart",
+  "Achievements": [
+    {
+      "ID": "ACH_After_All_That",
+      "SetID": "337jnij",
+      "Name": "After all that...",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Airo_The_Thief",
+      "SetID": "337jnij",
+      "Name": "Airo The Thief",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Bottom_Of_This",
+      "SetID": "337jnij",
+      "Name": "The Bottom of This",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Brothers_Dimm",
+      "SetID": "337jnij",
+      "Name": "The Brothers Dimm",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Chockers",
+      "SetID": "337jnij",
+      "Name": "Chockers",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Cousins_Brothers",
+      "SetID": "337jnij",
+      "Name": "Cousins? Brothers?",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Destiny_Or_Coincidence",
+      "SetID": "337jnij",
+      "Name": "Destiny, or Coincidence",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Fauntastic",
+      "SetID": "337jnij",
+      "Name": "Fauntastic",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Kay",
+      "SetID": "337jnij",
+      "Name": "Kaaaay!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Magical_Invisible_Storage",
+      "SetID": "337jnij",
+      "Name": "Magical, Invisible Storage. As Usual",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Maximum_Mana",
+      "SetID": "337jnij",
+      "Name": "Maximum Mana",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Mellowed_Fellows",
+      "SetID": "337jnij",
+      "Name": "Mellowed Fellows",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Nuisance",
+      "SetID": "337jnij",
+      "Name": "Nuisance",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Odds_And_Ends",
+      "SetID": "337jnij",
+      "Name": "Odds and Ends, That Sort of Thing...",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Only_Casuals_Heal",
+      "SetID": "337jnij",
+      "Name": "Only Casuals Heal",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Performance_Enhanced",
+      "SetID": "337jnij",
+      "Name": "Performance Enhanced",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Perpetual_Sweeper",
+      "SetID": "337jnij",
+      "Name": "The Perpetual Sweeper",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Possibly_Chosen",
+      "SetID": "337jnij",
+      "Name": "Possibly Chosen",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Probably_For_The_Best",
+      "SetID": "337jnij",
+      "Name": "Probably For The Best",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Purist",
+      "SetID": "337jnij",
+      "Name": "Purist",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_Rascally_Rodax",
+      "SetID": "337jnij",
+      "Name": "The Case of the Rascally Rodax\u0027",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Satisfying",
+      "SetID": "337jnij",
+      "Name": "Satisfying",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Sod_Yourself",
+      "SetID": "337jnij",
+      "Name": "Sod Yourself",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Stoned_And_Alone",
+      "SetID": "337jnij",
+      "Name": "Stoned and Alone",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Tastes_Like_HUD",
+      "SetID": "337jnij",
+      "Name": "Tastes Like HUD",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Thoughtful_One",
+      "SetID": "337jnij",
+      "Name": "You\u0027re A Thoughtful One. Kudos",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Upstream",
+      "SetID": "337jnij",
+      "Name": "Upstream",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_Wasnt_It_Obvious",
+      "SetID": "337jnij",
+      "Name": "Wasn\u0027t It Obvious?",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Wizard_Of_Old",
+      "SetID": "337jnij",
+      "Name": "Wizard Of Old",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +216,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 29,
+  "LastChanged_Achievements": "2023-05-04T19:19:57.8450751+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:06.8472021+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:28.327735+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:06.8472006+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:57.8450961+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:25.4172964+00:00",
+  "AchievementSets": [
+    {
+      "ID": "337jnij",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:43.3597234+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:39.6384536+00:00",
   "FirstSeenRating": "2023-03-31T05:58:43.3597233+00:00",
+  "FirstSeen": "2022-10-11T00:33:08.515839+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-10-11T00:33:08.515839+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:39.6384536+00:00"
 }

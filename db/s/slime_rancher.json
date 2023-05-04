@@ -1,6 +1,7 @@
 {
   "ID": "corydalis",
   "Name": "Slime Rancher",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2491,14 +2492,18 @@
       "NumberOfAwardsMax": 387
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:11.7367528+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:42.523398+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:40.4807208+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T13:04:46.2025121+00:00",
+  "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 387,
   "NumberOfAwards": 3020,
@@ -2510,6 +2515,5 @@
   "Ranking_PopularitySum": 147,
   "Ranking_Popularity": 201,
   "Ranking_Rating": 59,
-  "Rating": 4.82,
-  "FirstSeen": "2022-07-22T20:22:59.345324+00:00"
+  "Rating": 4.82
 }

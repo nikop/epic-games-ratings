@@ -1,20 +1,31 @@
 {
   "ID": "3aac28d317064e2eb1e2e71c3d11f5fe",
   "Name": "Roots Need Control 3.0",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:09.7979699+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:11.3073651+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:23.2364047+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:11.3073632+00:00",
-  "FirstSeenAchievements": "2023-04-27T02:01:13.910319+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:09.7979748+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:22.3996564+00:00",
+  "AchievementSets": [
+    {
+      "ID": "90gfl9h",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-27T02:01:13.910319+00:00"
 }

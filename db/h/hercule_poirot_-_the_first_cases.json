@@ -1,6 +1,330 @@
 {
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
+  "Achievements": [
+    {
+      "ID": "ACH_01",
+      "SetID": "72imik0",
+      "Name": "The Bracelet",
+      "Percentage": 69,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_010",
+      "SetID": "72imik0",
+      "Name": "The Denouement",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_011",
+      "SetID": "72imik0",
+      "Name": "Well-travelled",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_012",
+      "SetID": "72imik0",
+      "Name": "Well-acquainted",
+      "Percentage": 44,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_013",
+      "SetID": "72imik0",
+      "Name": "Little Grey Cells",
+      "Percentage": 73,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_014",
+      "SetID": "72imik0",
+      "Name": "Order and Method",
+      "Percentage": 56,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_015",
+      "SetID": "72imik0",
+      "Name": "Truth from Within",
+      "Percentage": 52,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_016",
+      "SetID": "72imik0",
+      "Name": "Curious and Beautiful",
+      "Percentage": 47,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_017",
+      "SetID": "72imik0",
+      "Name": "Instinct is Marvellous",
+      "Percentage": 34,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_018",
+      "SetID": "72imik0",
+      "Name": "Thinking of Everything",
+      "Percentage": 27,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_019",
+      "SetID": "72imik0",
+      "Name": "Fine-toothed Comb",
+      "Percentage": 56,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_02",
+      "SetID": "72imik0",
+      "Name": "The Blackmail",
+      "Percentage": 59,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_020",
+      "SetID": "72imik0",
+      "Name": "Exquisite Artwork",
+      "Percentage": 27,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_021",
+      "SetID": "72imik0",
+      "Name": "Well-read",
+      "Percentage": 41,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_022",
+      "SetID": "72imik0",
+      "Name": "Room with a View",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_023",
+      "SetID": "72imik0",
+      "Name": "Take a Break",
+      "Percentage": 12,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_024",
+      "SetID": "72imik0",
+      "Name": "Sunken Secrets",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_025",
+      "SetID": "72imik0",
+      "Name": "What Else Did I Miss?",
+      "Percentage": 18,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_026",
+      "SetID": "72imik0",
+      "Name": "Work-life Balance",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_027",
+      "SetID": "72imik0",
+      "Name": "Well-prepared",
+      "Percentage": 22,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_028",
+      "SetID": "72imik0",
+      "Name": "It Wasn\u2019t a Burglary",
+      "Percentage": 93,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_029",
+      "SetID": "72imik0",
+      "Name": "I Like an Audience",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_03",
+      "SetID": "72imik0",
+      "Name": "The Altercation",
+      "Percentage": 52,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_030",
+      "SetID": "72imik0",
+      "Name": "Probably the Greatest Detective in the World",
+      "Percentage": 14,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_031",
+      "SetID": "72imik0",
+      "Name": "Angeline Van den Bosch",
+      "Percentage": 76,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_032",
+      "SetID": "72imik0",
+      "Name": "Archibald Sterling",
+      "Percentage": 26,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_033",
+      "SetID": "72imik0",
+      "Name": "Cassandra Van den Bosch",
+      "Percentage": 40,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_034",
+      "SetID": "72imik0",
+      "Name": "Comtesse Margaux de Vos",
+      "Percentage": 48,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_035",
+      "SetID": "72imik0",
+      "Name": "Elizabeth Padget",
+      "Percentage": 73,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_036",
+      "SetID": "72imik0",
+      "Name": "Ernesto da Silva",
+      "Percentage": 34,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_037",
+      "SetID": "72imik0",
+      "Name": "Florette Duval",
+      "Percentage": 58,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_038",
+      "SetID": "72imik0",
+      "Name": "Gedeon Demir",
+      "Percentage": 36,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_039",
+      "SetID": "72imik0",
+      "Name": "Hugo Beckers",
+      "Percentage": 30,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_04",
+      "SetID": "72imik0",
+      "Name": "The Major",
+      "Percentage": 50,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_040",
+      "SetID": "72imik0",
+      "Name": "Inge Frank",
+      "Percentage": 32,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_041",
+      "SetID": "72imik0",
+      "Name": "Jacqueline \u201CJackie\u201D Conrad",
+      "Percentage": 46,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_042",
+      "SetID": "72imik0",
+      "Name": "Luc Piette",
+      "Percentage": 79,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_043",
+      "SetID": "72imik0",
+      "Name": "Major Felix Hagen",
+      "Percentage": 59,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_044",
+      "SetID": "72imik0",
+      "Name": "Rehana Piette",
+      "Percentage": 36,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_045",
+      "SetID": "72imik0",
+      "Name": "Viscount Edwin Van den Bosch",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_046",
+      "SetID": "72imik0",
+      "Name": "Zakariya Demir",
+      "Percentage": 44,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_05",
+      "SetID": "72imik0",
+      "Name": "The Interrogations",
+      "Percentage": 46,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_06",
+      "SetID": "72imik0",
+      "Name": "The Secret",
+      "Percentage": 39,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_07",
+      "SetID": "72imik0",
+      "Name": "The Search",
+      "Percentage": 31,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_08",
+      "SetID": "72imik0",
+      "Name": "The Family",
+      "Percentage": 28,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_09",
+      "SetID": "72imik0",
+      "Name": "The Truth",
+      "Percentage": 21,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -42,17 +366,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.18,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 46,
+  "LastChanged_Achievements": "2023-05-04T19:18:32.0981175+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 4,
   "EOS_Progressed": 339,
-  "LastUpdate_Achievements": "2023-05-04T19:03:38.4947134+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:29.7633196+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:38.4947099+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:32.0981574+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:29.346025+00:00",
+  "AchievementSets": [
+    {
+      "ID": "72imik0",
+      "IsBase": true,
+      "Progressed": 339,
+      "Completed": 4
+    }
+  ],
+  "EOS_Completed_Percentage": 1.18,
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
+  "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -63,5 +397,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 730,
   "Rating": 4.33,
-  "FirstSeen": "2022-07-22T20:32:42.6542114+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00"
 }

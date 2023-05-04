@@ -1,20 +1,207 @@
 {
   "ID": "23b2b1f2df5c45f8b9761e507c1c0c62",
   "Name": "MeteoHeroes Saving Planet Earth!",
+  "Achievements": [
+    {
+      "ID": "Trophy_01",
+      "SetID": "166eck4",
+      "Name": "Together",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_02",
+      "SetID": "166eck4",
+      "Name": "Rome",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_03",
+      "SetID": "166eck4",
+      "Name": "Cape Town",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_04",
+      "SetID": "166eck4",
+      "Name": "Sidney",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_05",
+      "SetID": "166eck4",
+      "Name": "Seattle",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_06",
+      "SetID": "166eck4",
+      "Name": "Harbin",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_07",
+      "SetID": "166eck4",
+      "Name": "Buenos Aires",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_08",
+      "SetID": "166eck4",
+      "Name": "South Pole",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_09",
+      "SetID": "166eck4",
+      "Name": "Amazon",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Trophy_10",
+      "SetID": "166eck4",
+      "Name": "MEC",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_11",
+      "SetID": "166eck4",
+      "Name": "Nevermore",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_12",
+      "SetID": "166eck4",
+      "Name": "United Team",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_13",
+      "SetID": "166eck4",
+      "Name": "Wise",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_14",
+      "SetID": "166eck4",
+      "Name": "Shield master",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_15",
+      "SetID": "166eck4",
+      "Name": "Good aim!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_16",
+      "SetID": "166eck4",
+      "Name": "Let\u00B4s do this!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_17",
+      "SetID": "166eck4",
+      "Name": "I hate macusferes",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_18",
+      "SetID": "166eck4",
+      "Name": "I hate maculanes",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_19",
+      "SetID": "166eck4",
+      "Name": "Unreliable",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Trophy_20",
+      "SetID": "166eck4",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_21",
+      "SetID": "166eck4",
+      "Name": "Wealthy",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_22",
+      "SetID": "166eck4",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_23",
+      "SetID": "166eck4",
+      "Name": "Sprinter",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_24",
+      "SetID": "166eck4",
+      "Name": "Invincible",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "Trophy_25",
+      "SetID": "166eck4",
+      "Name": "Dejavu",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 25,
+  "LastChanged_Achievements": "2023-05-04T19:20:21.2890183+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:30.2584815+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:54.1040935+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:30.2584797+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:54:09.1678318+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:21.2890366+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:50.6906499+00:00",
+  "AchievementSets": [
+    {
+      "ID": "166eck4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:54:09.1678318+00:00"
 }

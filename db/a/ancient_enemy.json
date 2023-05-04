@@ -1,6 +1,7 @@
 {
   "ID": "138c9362d8ff4c239076bc556e18cdac",
   "Name": "Ancient Enemy",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -743,14 +744,18 @@
       "NumberOfRatings": 2089
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:03.3144283+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:34.1333545+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:32.1457968+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2022-09-22T21:00:39.6212241+00:00",
+  "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 45,
   "NumberOfAwards": 193,
@@ -762,6 +767,5 @@
   "Ranking_PopularitySum": 350,
   "Ranking_Popularity": 401,
   "Ranking_Rating": 887,
-  "Rating": 3.95,
-  "FirstSeen": "2022-07-22T20:18:16.0310515+00:00"
+  "Rating": 3.95
 }

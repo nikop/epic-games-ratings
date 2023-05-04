@@ -1,6 +1,176 @@
 {
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
+  "Achievements": [
+    {
+      "ID": "AllCreditorsComplete",
+      "SetID": "9e3d06k",
+      "Name": "Full and Final Settlement",
+      "Percentage": 16,
+      "XP": 10
+    },
+    {
+      "ID": "AutoBullets_0",
+      "SetID": "9e3d06k",
+      "Name": "Hunter",
+      "Percentage": 3,
+      "XP": 25
+    },
+    {
+      "ID": "AutoBullets_1",
+      "SetID": "9e3d06k",
+      "Name": "No Place to Hide",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "ClubTurretsHack",
+      "SetID": "9e3d06k",
+      "Name": "Sapper",
+      "Percentage": 22,
+      "XP": 50
+    },
+    {
+      "ID": "EnemyDefeat_0",
+      "SetID": "9e3d06k",
+      "Name": "Unstoppable",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "EnemyDefeat_1",
+      "SetID": "9e3d06k",
+      "Name": "Cyborg",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "ExpertChoice",
+      "SetID": "9e3d06k",
+      "Name": "Tough Decision",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "FirstAutoSkillUnlock",
+      "SetID": "9e3d06k",
+      "Name": "Breaking Through",
+      "Percentage": 71,
+      "XP": 10
+    },
+    {
+      "ID": "FirstSkillBuy",
+      "SetID": "9e3d06k",
+      "Name": "A.I. Training",
+      "Percentage": 52,
+      "XP": 5
+    },
+    {
+      "ID": "GunUnlock",
+      "SetID": "9e3d06k",
+      "Name": "Symbiotic Weapon",
+      "Percentage": 58,
+      "XP": 5
+    },
+    {
+      "ID": "Headshots_0",
+      "SetID": "9e3d06k",
+      "Name": "Sniper",
+      "Percentage": 40,
+      "XP": 25
+    },
+    {
+      "ID": "Headshots_1",
+      "SetID": "9e3d06k",
+      "Name": "Veteran Sniper",
+      "Percentage": 19,
+      "XP": 100
+    },
+    {
+      "ID": "KyklosPlan",
+      "SetID": "9e3d06k",
+      "Name": "The Red Herring",
+      "Percentage": 34,
+      "XP": 5
+    },
+    {
+      "ID": "LiftEnemies_0",
+      "SetID": "9e3d06k",
+      "Name": "Lifter",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "LiftEnemies_1",
+      "SetID": "9e3d06k",
+      "Name": "Zero Gravity",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "Neuroconnector",
+      "SetID": "9e3d06k",
+      "Name": "The Neuro-connector",
+      "Percentage": 21,
+      "XP": 5
+    },
+    {
+      "ID": "SecondAutoSkillUnlock",
+      "SetID": "9e3d06k",
+      "Name": "Silent Overload",
+      "Percentage": 63,
+      "XP": 5
+    },
+    {
+      "ID": "SecretEnding",
+      "SetID": "9e3d06k",
+      "Name": "A Voice in the Dark",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "StealthDefeat_0",
+      "SetID": "9e3d06k",
+      "Name": "Flatline",
+      "Percentage": 19,
+      "XP": 25
+    },
+    {
+      "ID": "StealthDefeat_1",
+      "SetID": "9e3d06k",
+      "Name": "Brain-hacker",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "StoryEnd",
+      "SetID": "9e3d06k",
+      "Name": "One Click Away",
+      "Percentage": 16,
+      "XP": 10
+    },
+    {
+      "ID": "TelekinesisThrow_0",
+      "SetID": "9e3d06k",
+      "Name": "Mind Over Matter",
+      "Percentage": 21,
+      "XP": 25
+    },
+    {
+      "ID": "TelekinesisThrow_1",
+      "SetID": "9e3d06k",
+      "Name": "Gravity Bender",
+      "Percentage": 8,
+      "XP": 100
+    },
+    {
+      "ID": "ThirdAutoSkillUnlock",
+      "SetID": "9e3d06k",
+      "Name": "Telekinesis",
+      "Percentage": 29,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +197,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 2.74,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:18:58.9093584+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 73,
-  "LastUpdate_Achievements": "2023-05-04T19:04:06.9488951+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:32.0290431+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:06.9488925+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:58.909377+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:29.9082829+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9e3d06k",
+      "IsBase": true,
+      "Progressed": 73,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 2.74,
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
+  "FirstSeen": "2022-07-22T20:32:15.7439274+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_Progress": 257,
-  "FirstSeen": "2022-07-22T20:32:15.7439274+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00"
 }

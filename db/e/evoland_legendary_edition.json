@@ -1,6 +1,7 @@
 {
   "ID": "3f7bd21610f743e598fa8e955500f5b7",
   "Name": "Evoland Legendary Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -68,15 +69,19 @@
       "NumberOfAwardsMax": 271
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:13.0441099+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:25.5120674+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:24.9494715+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-13T20:58:12.657837+00:00",
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
+  "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 271,
   "NumberOfAwards": 271,
@@ -87,6 +92,5 @@
   "Ranking_PopularitySum": 332,
   "Ranking_Popularity": 231,
   "Ranking_Rating": 547,
-  "Rating": 4.49,
-  "FirstSeen": "2022-10-20T18:02:33.1892038+00:00"
+  "Rating": 4.49
 }

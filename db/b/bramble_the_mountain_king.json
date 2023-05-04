@@ -1,6 +1,218 @@
 {
   "ID": "ad8868a1e94c46c98608d2fe96121536",
   "Name": "Bramble The Mountain King",
+  "Achievements": [
+    {
+      "ID": "APPLEINGOAL",
+      "SetID": "1kkoeef",
+      "Name": "Goal!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BEATBUTCHER",
+      "SetID": "1kkoeef",
+      "Name": "Butcher",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BEATCROWANDAH",
+      "SetID": "1kkoeef",
+      "Name": "K\u00E4rrh\u00E4xan",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BEATKING",
+      "SetID": "1kkoeef",
+      "Name": "The Mountain King",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BEATNAECKEN",
+      "SetID": "1kkoeef",
+      "Name": "N\u00E4cken",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BEATPESTA",
+      "SetID": "1kkoeef",
+      "Name": "Pesta",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "BEATREAM3",
+      "SetID": "1kkoeef",
+      "Name": "Bramble",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "BEATSKOGSRA",
+      "SetID": "1kkoeef",
+      "Name": "Skogsr\u00E5et",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "BOOKREAD",
+      "SetID": "1kkoeef",
+      "Name": "Book worm",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "BREWEDPOTION",
+      "SetID": "1kkoeef",
+      "Name": "Witchcraft",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "COLLECTOR",
+      "SetID": "1kkoeef",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "COMPLETEGAME",
+      "SetID": "1kkoeef",
+      "Name": "Home Again",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "FINDCROWANDAHFIG",
+      "SetID": "1kkoeef",
+      "Name": "K\u00E4rrh\u00E4xan Figurine",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "FINDGNOMEFIG",
+      "SetID": "1kkoeef",
+      "Name": "Gnome Figurine",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "FINDGUBBEFIG",
+      "SetID": "1kkoeef",
+      "Name": "Lyktgubben Figurine",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "FINDLEMUSFIG",
+      "SetID": "1kkoeef",
+      "Name": "Lemus Figurine",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FINDNAECKENFIG",
+      "SetID": "1kkoeef",
+      "Name": "N\u00E4cken Figurine",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FINDNILSFIG",
+      "SetID": "1kkoeef",
+      "Name": "King Nils Figurine",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FINDPESTAFIG",
+      "SetID": "1kkoeef",
+      "Name": "Pesta Figurine",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FINDSISTERFIG",
+      "SetID": "1kkoeef",
+      "Name": "Lillemor Figurine",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FINDSKOGSRAFIG",
+      "SetID": "1kkoeef",
+      "Name": "Skogsr\u00E5et Figurine",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "FINDTRICKSTERFIG",
+      "SetID": "1kkoeef",
+      "Name": "Troll Figurine",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "FINDTUVAFIG",
+      "SetID": "1kkoeef",
+      "Name": "Tuva Figurine",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "IRONMAN",
+      "SetID": "1kkoeef",
+      "Name": "Survivor",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "JUMPEDONMUSHROOMS",
+      "SetID": "1kkoeef",
+      "Name": "Bouncy",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PINECONEOUTOFCAVE",
+      "SetID": "1kkoeef",
+      "Name": "Evicted",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PROPERFUNERAL",
+      "SetID": "1kkoeef",
+      "Name": "Proper burial",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PUSHEDGNOMEINMEAT",
+      "SetID": "1kkoeef",
+      "Name": "Bait",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SAVEDALLGNOMES",
+      "SetID": "1kkoeef",
+      "Name": "Savior",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SKOGSRA100STABS",
+      "SetID": "1kkoeef",
+      "Name": "Murderer",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +223,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 30,
+  "LastChanged_Achievements": "2023-05-04T19:19:15.1198834+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:24.3321884+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:49.98733+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:24.3321869+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:15.1199041+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:47.3689296+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1kkoeef",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-27T18:59:17.4164014+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00",
   "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
+  "FirstSeen": "2023-04-27T18:59:17.4163956+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-27T18:59:17.4163956+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00"
 }

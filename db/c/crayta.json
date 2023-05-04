@@ -1,6 +1,246 @@
 {
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "4i9cj6f",
+      "Name": "Getting Equipped!",
+      "Percentage": 0.4,
+      "XP": 5
+    },
+    {
+      "ID": "10",
+      "SetID": "4i9cj6f",
+      "Name": "These Are a Few of My Favorite Things - Gold",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "11",
+      "SetID": "4i9cj6f",
+      "Name": "Standing on the Shoulders of Giants - Bronze",
+      "Percentage": 0.6,
+      "XP": 5
+    },
+    {
+      "ID": "12",
+      "SetID": "4i9cj6f",
+      "Name": "Standing on the Shoulders of Giants - Silver",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "13",
+      "SetID": "4i9cj6f",
+      "Name": "Standing on the Shoulders of Giants - Gold",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "14",
+      "SetID": "4i9cj6f",
+      "Name": "Getting Friendly",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "15",
+      "SetID": "4i9cj6f",
+      "Name": "Getting Creative - Bronze",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "16",
+      "SetID": "4i9cj6f",
+      "Name": "Getting Creative - Silver",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "17",
+      "SetID": "4i9cj6f",
+      "Name": "Getting Creative - Gold",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "18",
+      "SetID": "4i9cj6f",
+      "Name": "Building Block - Bronze",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "19",
+      "SetID": "4i9cj6f",
+      "Name": "Building Block - Silver",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "2",
+      "SetID": "4i9cj6f",
+      "Name": "Reap the Rewards!",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "20",
+      "SetID": "4i9cj6f",
+      "Name": "Building Block - Gold",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "21",
+      "SetID": "4i9cj6f",
+      "Name": "Grouping Up - Bronze",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "22",
+      "SetID": "4i9cj6f",
+      "Name": "Grouping Up - Silver",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "23",
+      "SetID": "4i9cj6f",
+      "Name": "Grouping Up - Gold",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "24",
+      "SetID": "4i9cj6f",
+      "Name": "Variety Player - Bronze",
+      "Percentage": 13,
+      "XP": 5
+    },
+    {
+      "ID": "25",
+      "SetID": "4i9cj6f",
+      "Name": "Variety Player - Silver",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "26",
+      "SetID": "4i9cj6f",
+      "Name": "Variety Player - Gold",
+      "Percentage": 0.5,
+      "XP": 100
+    },
+    {
+      "ID": "29",
+      "SetID": "4i9cj6f",
+      "Name": "Going Public!",
+      "Percentage": 0.6,
+      "XP": 5
+    },
+    {
+      "ID": "3",
+      "SetID": "4i9cj6f",
+      "Name": "Community Creativity",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "30",
+      "SetID": "4i9cj6f",
+      "Name": "Featured Gamer - Bronze",
+      "Percentage": 0.2,
+      "XP": 5
+    },
+    {
+      "ID": "31",
+      "SetID": "4i9cj6f",
+      "Name": "Featured Gamer - Silver",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "32",
+      "SetID": "4i9cj6f",
+      "Name": "Featured Gamer - Gold",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "33",
+      "SetID": "4i9cj6f",
+      "Name": "Well Socialised!",
+      "Percentage": 23,
+      "XP": 5
+    },
+    {
+      "ID": "34",
+      "SetID": "4i9cj6f",
+      "Name": "Challenge Apprentice",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "35",
+      "SetID": "4i9cj6f",
+      "Name": "Challenge Master",
+      "Percentage": 0.5,
+      "XP": 100
+    },
+    {
+      "ID": "36",
+      "SetID": "4i9cj6f",
+      "Name": "Shared!",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "39",
+      "SetID": "4i9cj6f",
+      "Name": "Challenge Veteran",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "4",
+      "SetID": "4i9cj6f",
+      "Name": "Express Yourself - Silver",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "5",
+      "SetID": "4i9cj6f",
+      "Name": "Express Yourself - Gold",
+      "Percentage": 0.2,
+      "XP": 20
+    },
+    {
+      "ID": "6",
+      "SetID": "4i9cj6f",
+      "Name": "Express Yourself - Bronze",
+      "Percentage": 7,
+      "XP": 5
+    },
+    {
+      "ID": "7",
+      "SetID": "4i9cj6f",
+      "Name": "These Are a Few of My Favorite Things - Silver",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "9",
+      "SetID": "4i9cj6f",
+      "Name": "These Are a Few of My Favorite Things - Bronze",
+      "Percentage": 0.7,
+      "XP": 5
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -521,16 +761,26 @@
       "Rating": 4.19
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 34,
+  "LastChanged_Achievements": "2023-05-04T19:14:57.4806677+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 34,
   "EOS_Completed": 5,
   "EOS_Progressed": 109250,
-  "LastUpdate_Achievements": "2023-05-04T18:59:58.5281652+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:52.4938137+00:00",
-  "LastChanged_Achievements": "2023-05-04T18:59:58.5281582+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:14:57.4807026+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:50.8035051+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4i9cj6f",
+      "IsBase": true,
+      "Progressed": 109250,
+      "Completed": 5
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
+  "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 50,
   "NumberOfAwards": 370,
@@ -543,5 +793,5 @@
   "Ranking_Popularity": 385,
   "Ranking_Rating": 813,
   "Rating": 4.19,
-  "FirstSeen": "2022-07-22T20:23:35.732973+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00"
 }

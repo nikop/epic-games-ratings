@@ -4,7 +4,55 @@ Number of Ratings: 98  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 30  (Ranked 443)  
 Sum: 232 (Ranked 342)  
-Diff (max vs sum): 101
+Diff (max vs sum): 101  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Peak Performance | 54.00 |
+| Tutti Eroi! | 53.00 |
+| You Shall Not Pass | 53.00 |
+| Avanti Savoia! | 46.00 |
+| Conrad von Hotzensocks | 35.00 |
+| Mamma Mia! | 35.00 |
+| Gabriele D'Annunzio | 32.00 |
+| Silver Lining | 28.00 |
+| Aurelio Baruzzi | 22.00 |
+| Veni Vidi Vici | 22.00 |
+| Decimation | 20.00 |
+| Donatello | 20.00 |
+| Insubordination | 19.00 |
+| The Italian Job | 19.00 |
+| The Lion of the Isonzo | 18.00 |
+| Ragazzi del '99 | 17.00 |
+| Thus With A Kiss | 15.00 |
+| Dirty Dozen | 14.00 |
+| Luigi Cadorna | 13.00 |
+| Uomo Universale | 13.00 |
+| Machiavelli | 12.00 |
+| Shaken, Not Stirred | 12.00 |
+| Dante's Inferno | 11.00 |
+| Die Bosniaken Kommen! | 11.00 |
+| The Devil's Paintbrush | 11.00 |
+| I Have the High Ground | 9.00 |
+| Millenial | 9.00 |
+| The Show Must Go On | 8.00 |
+| Tosca | 8.00 |
+| Generalissimo | 6.00 |
+| The Enlightment | 6.00 |
+| 12th Bottle of the Isonzo | 5.00 |
+| Cercatore d'Oro | 5.00 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00 |
+| Ponte of No Return | 3.00 |
+| Seeing Red | 3.00 |
+| Farewell to Arms | 2.00 |
+| Soča Drag | 2.00 |
+| Saboteur | 2.00 |
+| Compagnia della Morte | 1.00 |
+| Drop and Give Me 20 | 1.00 |
+| Rome Wasn't Built In A Day | 1.00 |
+| Malpractice | 0.80 |
+| "Sacro Egoismo" | 0.40 |
+| Can I Go Home Now? | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,584 (Ranked 115)  
 Completed: 8 (0.14%) (Ranked 142)  

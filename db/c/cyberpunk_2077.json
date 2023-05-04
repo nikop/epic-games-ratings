@@ -1,6 +1,316 @@
 {
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
+  "Achievements": [
+    {
+      "ID": "Bladerunner",
+      "SetID": "47clieb",
+      "Name": "City Lights",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "BornToBeWild",
+      "SetID": "47clieb",
+      "Name": "To Bad Decisions!",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "BushidoAndChill",
+      "SetID": "47clieb",
+      "Name": "Bushido and Chill",
+      "Percentage": 15,
+      "XP": 15
+    },
+    {
+      "ID": "Cyberjunkie",
+      "SetID": "47clieb",
+      "Name": "Full Body Conversion",
+      "Percentage": 17,
+      "XP": 15
+    },
+    {
+      "ID": "Denied",
+      "SetID": "47clieb",
+      "Name": "Right Back At Ya",
+      "Percentage": 37,
+      "XP": 15
+    },
+    {
+      "ID": "FollowingTheRiver",
+      "SetID": "47clieb",
+      "Name": "To Protect and Serve",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "Fortuneteller",
+      "SetID": "47clieb",
+      "Name": "The Wandering Fool",
+      "Percentage": 9,
+      "XP": 30
+    },
+    {
+      "ID": "Gearhead",
+      "SetID": "47clieb",
+      "Name": "Autojock",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "GetMeThereScottie",
+      "SetID": "47clieb",
+      "Name": "Frequent Flyer",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "GunKata",
+      "SetID": "47clieb",
+      "Name": "Gun Fu",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "Gunslinger",
+      "SetID": "47clieb",
+      "Name": "Gunslinger",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "HandyMan",
+      "SetID": "47clieb",
+      "Name": "Master Crafter",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "IAmMaxTac",
+      "SetID": "47clieb",
+      "Name": "I Am The Law",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "LikeFatherLikeSon",
+      "SetID": "47clieb",
+      "Name": "Mean Streets",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "LittleTokyo",
+      "SetID": "47clieb",
+      "Name": "Little Tokyo",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "MasterRunner",
+      "SetID": "47clieb",
+      "Name": "Christmas Tree Attack",
+      "Percentage": 21,
+      "XP": 15
+    },
+    {
+      "ID": "MaxPain",
+      "SetID": "47clieb",
+      "Name": "The Quick and the Dead",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "MustBeTheRats",
+      "SetID": "47clieb",
+      "Name": "Must Be Rats",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "NeverFadeAway",
+      "SetID": "47clieb",
+      "Name": "Breathtaking",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "NoMansLand",
+      "SetID": "47clieb",
+      "Name": "The Wasteland",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "NotTheMobile",
+      "SetID": "47clieb",
+      "Name": "Daemon In The Shell",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "QueenOfTheHighway",
+      "SetID": "47clieb",
+      "Name": "Life of the Road",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "Roleplayer",
+      "SetID": "47clieb",
+      "Name": "Stanislavski\u0027s Method",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "Specialist",
+      "SetID": "47clieb",
+      "Name": "Ten out of Ten",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "Temperance",
+      "SetID": "47clieb",
+      "Name": "Temperance",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "ThatIsSoHardForTheKnees",
+      "SetID": "47clieb",
+      "Name": "Rough Landing",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "TheDevil",
+      "SetID": "47clieb",
+      "Name": "The Devil",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "TheFool",
+      "SetID": "47clieb",
+      "Name": "The Fool",
+      "Percentage": 67,
+      "XP": 15
+    },
+    {
+      "ID": "TheHermit",
+      "SetID": "47clieb",
+      "Name": "The Hermit",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "TheHightPriestess",
+      "SetID": "47clieb",
+      "Name": "The High Priestess",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "TheLovers",
+      "SetID": "47clieb",
+      "Name": "The Lovers",
+      "Percentage": 32,
+      "XP": 15
+    },
+    {
+      "ID": "TheStar",
+      "SetID": "47clieb",
+      "Name": "The Star",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "TheSun",
+      "SetID": "47clieb",
+      "Name": "The Sun",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "TheWheelOfFortune",
+      "SetID": "47clieb",
+      "Name": "The Wheel of Fortune",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "TheWorld",
+      "SetID": "47clieb",
+      "Name": "The World",
+      "Percentage": 16,
+      "XP": 90
+    },
+    {
+      "ID": "ThisIsPacifica",
+      "SetID": "47clieb",
+      "Name": "Greetings from Pacifica!",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "TradeUnion",
+      "SetID": "47clieb",
+      "Name": "The Jungle",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "TrueSoldier",
+      "SetID": "47clieb",
+      "Name": "True Soldier",
+      "Percentage": 22,
+      "XP": 30
+    },
+    {
+      "ID": "TrueWarrior",
+      "SetID": "47clieb",
+      "Name": "True Warrior",
+      "Percentage": 14,
+      "XP": 30
+    },
+    {
+      "ID": "TwoHeadsOneBullet",
+      "SetID": "47clieb",
+      "Name": "Two Heads, One Bullet",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "UnderPressure",
+      "SetID": "47clieb",
+      "Name": "Judy vs Night City",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "VForVendetta",
+      "SetID": "47clieb",
+      "Name": "V for Vendetta",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "YipMan",
+      "SetID": "47clieb",
+      "Name": "It\u0027s Elementary",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "YouKnowWhoIAm",
+      "SetID": "47clieb",
+      "Name": "Legend of The Afterlife",
+      "Percentage": 20,
+      "XP": 30
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -1124,6 +1434,11 @@
     {
       "Time": "2023-05-04T19:00:08.2052682+00:00",
       "NumProgressed": 797854,
+      "NumCompleted": 1566
+    },
+    {
+      "Time": "2023-05-04T19:15:06.8369935+00:00",
+      "NumProgressed": 797859,
       "NumCompleted": 1566
     }
   ],
@@ -6339,16 +6654,26 @@
       "NumberOfAwardsMax": 63570
     }
   ],
-  "EOS_Completed_Percentage": 0.2,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 44,
+  "LastChanged_Achievements": "2023-05-04T19:15:06.8369907+00:00",
   "EOS_NewCompleters": 24,
-  "EOS_NewPlayers": 1735,
+  "EOS_NewPlayers": 1740,
   "EOS_Completed": 1566,
-  "EOS_Progressed": 797854,
-  "LastUpdate_Achievements": "2023-05-04T19:00:08.2052853+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:25.1171859+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:08.2052673+00:00",
+  "EOS_Progressed": 797859,
+  "LastUpdate_Achievements": "2023-05-04T19:15:06.8370357+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:25.2108982+00:00",
+  "AchievementSets": [
+    {
+      "ID": "47clieb",
+      "IsBase": true,
+      "Progressed": 797859,
+      "Completed": 1566
+    }
+  ],
+  "EOS_Completed_Percentage": 0.2,
   "LastChanged": "2023-05-04T17:57:35.7240891+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
+  "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63570,
   "NumberOfAwards": 166142,
@@ -6361,5 +6686,5 @@
   "Ranking_Popularity": 9,
   "Ranking_Rating": 337,
   "Rating": 4.62,
-  "FirstSeen": "2022-07-22T20:17:03.6420174+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00"
 }

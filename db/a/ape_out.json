@@ -1,6 +1,7 @@
 {
   "ID": "6c77bc1b5faa4ac98441ec75cca0d320",
   "Name": "APE OUT",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -137,15 +138,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:00.4433112+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:13.7571753+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:12.6432463+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-19T20:04:17.1770801+00:00",
   "FirstSeenRating": "2022-08-11T22:01:52.3350114+00:00",
+  "FirstSeen": "2022-07-22T20:29:21.656394+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 33,
@@ -156,6 +161,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 272,
-  "Rating": 4.66,
-  "FirstSeen": "2022-07-22T20:29:21.656394+00:00"
+  "Rating": 4.66
 }

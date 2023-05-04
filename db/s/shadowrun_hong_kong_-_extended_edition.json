@@ -1,6 +1,7 @@
 {
   "ID": "0d66818e2304485f8dc3ae90c8b622b4",
   "Name": "Shadowrun Hong Kong - Extended Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -367,14 +368,18 @@
       "Rating": 4.53
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:00.2571393+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:29.6277853+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:26.5850503+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-14T01:54:40.3884035+00:00",
+  "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 92,
   "NumberOfAwards": 92,
@@ -386,6 +391,5 @@
   "Ranking_PopularitySum": 399,
   "Ranking_Popularity": 332,
   "Ranking_Rating": 488,
-  "Rating": 4.53,
-  "FirstSeen": "2022-07-22T20:23:38.1146486+00:00"
+  "Rating": 4.53
 }

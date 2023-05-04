@@ -1,20 +1,31 @@
 {
   "ID": "1677fdaa6fbe466da7f95ea654810131",
   "Name": "Hello Goodboy",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:46.4082384+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:55.9212123+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:24.3782589+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:55.9212108+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:34.582918+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:46.408242+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:22.4423235+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2087jai",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:52:34.582918+00:00"
 }

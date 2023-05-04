@@ -1,9 +1,38 @@
 # Tails of Iron
 Rating: 4.50 (Ranked 530)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Complete Guard Faction | 76.00 |
+| Become King | 70.00 |
+| Ranged Weapon | 59.00 |
+| Defeat 25 Frogs | 59.00 |
+| Collect Monster Parts | 55.00 |
+| Two Handed Weapon | 54.00 |
+| Defeat 25 Grubs | 50.00 |
+| Rescue Redgi's Brothers | 49.00 |
+| Collect Iron Ore | 45.00 |
+| Defeat 25 Mozis | 44.00 |
+| Kitchen Ready To Cook | 44.00 |
+| Collect Gold | 43.00 |
+| Smithy Ready to Craft | 43.00 |
+| Fix the Travellers Wagon | 41.00 |
+| Complete Elder Faction | 38.00 |
+| End of the Mozis | 35.00 |
+| Throne Room Fit For A King | 35.00 |
+| Return Power To The Depths | 34.00 |
+| Meet the Creatures from the Deep | 33.00 |
+| Defeat Ratnor Rodentson | 27.00 |
+| Return the Statues | 24.00 |
+| Defeat Rattus Augustail | 24.00 |
+| Complete the Chefs Book | 23.00 |
+| Complete Ranger Faction | 19.00 |
+| Defeat Avor Warden of the Northern Wastes | 19.00 |
+| Discover the mystery of the Kings Chambers | 18.00 |
+| Complete Arena Faction | 14.00 |
+| Complete Redgi's Armory | 7.00 |
+| King of Kings | 6.00 |
+| A new Warchief rises | 0.70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,359 (Ranked 151)  
 Completed: 6 (0.44%) (Ranked 102)  
@@ -16,9 +45,6 @@ Completed: 6 (0.44%) (Ranked 102)
 | 2023-04-29 | 1,355 | 6 |
 | 2023-04-30 | 1,356 | 6 |
 | 2023-05-02 | 1,359 | 6 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

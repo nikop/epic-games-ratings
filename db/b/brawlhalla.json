@@ -1,6 +1,7 @@
 {
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1554,15 +1555,19 @@
       "NumberOfAwardsMax": 99
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:31.1146224+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:02.1110793+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:59.8898003+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:59:38.4866945+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
+  "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 99,
   "NumberOfAwards": 937,
@@ -1573,6 +1578,5 @@
   "Ranking_PopularitySum": 231,
   "Ranking_Popularity": 321,
   "Ranking_Rating": 414,
-  "Rating": 4.58,
-  "FirstSeen": "2022-11-16T19:56:53.7213253+00:00"
+  "Rating": 4.58
 }

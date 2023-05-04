@@ -1,6 +1,7 @@
 {
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1629,14 +1630,18 @@
       "NumberOfAwardsMax": 1212
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:10.2765801+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:38.3790971+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:34.6593722+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T06:59:44.7654334+00:00",
+  "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1212,
   "NumberOfAwards": 1844,
@@ -1648,6 +1653,5 @@
   "Ranking_PopularitySum": 192,
   "Ranking_Popularity": 121,
   "Ranking_Rating": 337,
-  "Rating": 4.62,
-  "FirstSeen": "2022-07-22T20:20:47.7430658+00:00"
+  "Rating": 4.62
 }

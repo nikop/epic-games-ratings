@@ -1,10 +1,66 @@
 # Riverbond
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 617  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First Step | 70.00 |
+| Now You're Talking | 62.00 |
+| Steel Yourself | 62.00 |
+| Window Dressing | 50.00 |
+| Trigger Happy | 46.00 |
+| Riverborn | 45.00 |
+| Starry Eyed | 34.00 |
+| Poking Around | 34.00 |
+| Talk of the Town | 24.00 |
+| AAARR! | 23.00 |
+| Hello Darkness | 23.00 |
+| Wind At Our Backs | 22.00 |
+| To the Beat | 20.00 |
+| Sunny Shores | 17.00 |
+| To Victory! | 15.00 |
+| Sunday Best | 15.00 |
+| Two of a Kind | 14.00 |
+| Keep On Trucking | 13.00 |
+| Going on an Adventure | 11.00 |
+| Make Peace, Not War | 11.00 |
+| Walking The Line | 10.00 |
+| Not So Cute Anymore | 10.00 |
+| Road Less Travelled | 9.00 |
+| Lost and Found | 9.00 |
+| Partner in Crime | 7.00 |
+| Hard to Hear | 7.00 |
+| Under the Radar | 7.00 |
+| Moving On Up | 6.00 |
+| Owl Knows Best | 6.00 |
+| Mind the Moose | 6.00 |
+| Dressed to Kill | 6.00 |
+| Beast Mode | 6.00 |
+| Oh, Romeo! | 5.00 |
+| Noble Intentions | 5.00 |
+| Rising Star | 5.00 |
+| Slime Slayer | 5.00 |
+| Privacy, Please! | 4.00 |
+| Silky Smooth | 4.00 |
+| Hash It Over | 4.00 |
+| Biting Tongue | 4.00 |
+| What a Catch! | 4.00 |
+| Hit the Spot | 4.00 |
+| Talk the Talk | 3.00 |
+| Skin in the Game | 3.00 |
+| Caving In | 3.00 |
+| Page Turner | 3.00 |
+| Spinal Adjustment | 3.00 |
+| The Knowledge | 3.00 |
+| Seek the Rainbow | 2.00 |
+| Star Power | 2.00 |
+| Justice Served | 2.00 |
+| Words of Truth | 1.00 |
+| Don't Care | 1.00 |
+| Don’t Get Crabby | 1.00 |
+| Written in the Stars | 0.90 |
+| Boss of All Bosses | 0.30 |
+| Point Taken | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 515,509 (Ranked 24)  
 Completed: 400 (0.08%) (Ranked 157)  
@@ -21,9 +77,6 @@ Completed: 400 (0.08%) (Ranked 157)
 | 2023-05-02 | 515,370 | 399 |
 | 2023-05-03 | 515,455 | 400 |
 | 2023-05-04 | 515,509 | 400 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

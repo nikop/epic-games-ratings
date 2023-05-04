@@ -1,6 +1,176 @@
 {
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "9p3jgda",
+      "Name": "IT\u0027S A LONG WAY TO THE TOP",
+      "Percentage": 12,
+      "XP": 30
+    },
+    {
+      "ID": "10",
+      "SetID": "9p3jgda",
+      "Name": "EXTRA BOOST",
+      "Percentage": 39,
+      "XP": 20
+    },
+    {
+      "ID": "11",
+      "SetID": "9p3jgda",
+      "Name": "PERFECTLY POISED",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "12",
+      "SetID": "9p3jgda",
+      "Name": "TRAINING HARD",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "13",
+      "SetID": "9p3jgda",
+      "Name": "EXPERIENCED CREW",
+      "Percentage": 1,
+      "XP": 70
+    },
+    {
+      "ID": "14",
+      "SetID": "9p3jgda",
+      "Name": "IT MAKES BOOM!",
+      "Percentage": 39,
+      "XP": 30
+    },
+    {
+      "ID": "15",
+      "SetID": "9p3jgda",
+      "Name": "FRAMED!",
+      "Percentage": 0.5,
+      "XP": 25
+    },
+    {
+      "ID": "16",
+      "SetID": "9p3jgda",
+      "Name": "RELEASE THE KRAKEN",
+      "Percentage": 6,
+      "XP": 45
+    },
+    {
+      "ID": "17",
+      "SetID": "9p3jgda",
+      "Name": "BE OUR GUEST",
+      "Percentage": 0.7,
+      "XP": 20
+    },
+    {
+      "ID": "18",
+      "SetID": "9p3jgda",
+      "Name": "ACE BRAWLER",
+      "Percentage": 3,
+      "XP": 40
+    },
+    {
+      "ID": "19",
+      "SetID": "9p3jgda",
+      "Name": "DEFEAT OUR CHAMPION",
+      "Percentage": 8,
+      "XP": 85
+    },
+    {
+      "ID": "2",
+      "SetID": "9p3jgda",
+      "Name": "ACE SPEEDSTER",
+      "Percentage": 16,
+      "XP": 40
+    },
+    {
+      "ID": "20",
+      "SetID": "9p3jgda",
+      "Name": "PROTECTED",
+      "Percentage": 26,
+      "XP": 30
+    },
+    {
+      "ID": "21",
+      "SetID": "9p3jgda",
+      "Name": "ACE DEFENDER",
+      "Percentage": 5,
+      "XP": 40
+    },
+    {
+      "ID": "22",
+      "SetID": "9p3jgda",
+      "Name": "THE EYE OF THE HUNTER",
+      "Percentage": 6,
+      "XP": 55
+    },
+    {
+      "ID": "23",
+      "SetID": "9p3jgda",
+      "Name": "A TIGER\u0027S FEAR",
+      "Percentage": 26,
+      "XP": 30
+    },
+    {
+      "ID": "24",
+      "SetID": "9p3jgda",
+      "Name": "HERE ARE SOME BARE NECESSITIES",
+      "Percentage": 25,
+      "XP": 35
+    },
+    {
+      "ID": "3",
+      "SetID": "9p3jgda",
+      "Name": "FRIENDLY",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "4",
+      "SetID": "9p3jgda",
+      "Name": "AGGRESSIVE RACER",
+      "Percentage": 26,
+      "XP": 80
+    },
+    {
+      "ID": "5",
+      "SetID": "9p3jgda",
+      "Name": "ROOKIE",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "6",
+      "SetID": "9p3jgda",
+      "Name": "PRO",
+      "Percentage": 29,
+      "XP": 50
+    },
+    {
+      "ID": "7",
+      "SetID": "9p3jgda",
+      "Name": "MASTER",
+      "Percentage": 0.1,
+      "XP": 65
+    },
+    {
+      "ID": "8",
+      "SetID": "9p3jgda",
+      "Name": "ACE TRICKSTER",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "9",
+      "SetID": "9p3jgda",
+      "Name": "LEGENDARY HERO",
+      "Percentage": 4,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -835,17 +1005,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:18:50.0803034+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 458,
   "EOS_Completed": 0,
   "EOS_Progressed": 2301,
-  "LastUpdate_Achievements": "2023-05-04T19:03:57.5666168+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:25.7431191+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:57.5666103+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:50.0803263+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:24.2629192+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9p3jgda",
+      "IsBase": true,
+      "Progressed": 2301,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 137
+  "Ranking_EOS_Progress": 137,
+  "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00"
 }

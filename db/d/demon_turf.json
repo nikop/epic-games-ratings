@@ -1,6 +1,7 @@
 {
   "ID": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
   "Name": "Demon Turf",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:56.9878189+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:27.0605985+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:24.3162905+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:34.6632398+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.6632397+00:00",
+  "FirstSeen": "2022-07-22T20:22:38.4285191+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:22:38.4285191+00:00"
+  "Ranking_EOS_Progress": 378
 }

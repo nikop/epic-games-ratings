@@ -1,6 +1,7 @@
 {
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -269,14 +270,18 @@
       "NumberOfAwardsMax": 34
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:22.6190827+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:24.059389+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:22.4582718+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-21T20:57:46.983965+00:00",
+  "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 34,
   "NumberOfAwards": 34,
@@ -288,6 +293,5 @@
   "Ranking_PopularitySum": 451,
   "Ranking_Popularity": 430,
   "Ranking_Rating": 337,
-  "Rating": 4.62,
-  "FirstSeen": "2022-07-22T20:26:21.4096772+00:00"
+  "Rating": 4.62
 }

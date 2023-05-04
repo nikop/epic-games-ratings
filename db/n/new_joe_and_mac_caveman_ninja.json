@@ -1,6 +1,113 @@
 {
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
+  "Achievements": [
+    {
+      "ID": "01",
+      "SetID": "6glb5g1",
+      "Name": "The T-Rex plain.",
+      "Percentage": 54,
+      "XP": 20
+    },
+    {
+      "ID": "02",
+      "SetID": "6glb5g1",
+      "Name": "Crazy Jungle.",
+      "Percentage": 37,
+      "XP": 20
+    },
+    {
+      "ID": "03",
+      "SetID": "6glb5g1",
+      "Name": "In the treetops.",
+      "Percentage": 22,
+      "XP": 40
+    },
+    {
+      "ID": "04",
+      "SetID": "6glb5g1",
+      "Name": "At the top of the mountain.",
+      "Percentage": 19,
+      "XP": 40
+    },
+    {
+      "ID": "05",
+      "SetID": "6glb5g1",
+      "Name": "A turbulent river.",
+      "Percentage": 21,
+      "XP": 60
+    },
+    {
+      "ID": "06",
+      "SetID": "6glb5g1",
+      "Name": "Dino Ride.",
+      "Percentage": 16,
+      "XP": 60
+    },
+    {
+      "ID": "07",
+      "SetID": "6glb5g1",
+      "Name": "Swimming on a dino\u0027s back.",
+      "Percentage": 10,
+      "XP": 60
+    },
+    {
+      "ID": "08",
+      "SetID": "6glb5g1",
+      "Name": "Aggressive rocks.",
+      "Percentage": 18,
+      "XP": 80
+    },
+    {
+      "ID": "09",
+      "SetID": "6glb5g1",
+      "Name": "In the heart of the volcano.",
+      "Percentage": 10,
+      "XP": 80
+    },
+    {
+      "ID": "10",
+      "SetID": "6glb5g1",
+      "Name": "The mountain of peril.",
+      "Percentage": 7,
+      "XP": 80
+    },
+    {
+      "ID": "11",
+      "SetID": "6glb5g1",
+      "Name": "Rocky fall.",
+      "Percentage": 10,
+      "XP": 80
+    },
+    {
+      "ID": "12",
+      "SetID": "6glb5g1",
+      "Name": "Dinosaur graveyard.",
+      "Percentage": 10,
+      "XP": 80
+    },
+    {
+      "ID": "13",
+      "SetID": "6glb5g1",
+      "Name": "Passing the carcass.",
+      "Percentage": 5,
+      "XP": 80
+    },
+    {
+      "ID": "14",
+      "SetID": "6glb5g1",
+      "Name": "Lightning swamp.",
+      "Percentage": 3,
+      "XP": 80
+    },
+    {
+      "ID": "15",
+      "SetID": "6glb5g1",
+      "Name": "The entrails of the beast.",
+      "Percentage": 6,
+      "XP": 140
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +124,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.29,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:18:28.3799396+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 155,
-  "LastUpdate_Achievements": "2023-05-04T19:03:34.6851896+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:17.26306+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:34.685187+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:28.3799505+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:16.0120199+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6glb5g1",
+      "IsBase": true,
+      "Progressed": 155,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 1.29,
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
+  "FirstSeen": "2022-12-04T10:57:37.9087586+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_Progress": 229,
-  "FirstSeen": "2022-12-04T10:57:37.9087586+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00"
 }

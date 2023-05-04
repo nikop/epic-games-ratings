@@ -1,6 +1,316 @@
 {
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
+  "Achievements": [
+    {
+      "ID": "Award_BatteriesIncluded",
+      "SetID": "9ojec6n",
+      "Name": "Batteries Included",
+      "Percentage": 40,
+      "XP": 20
+    },
+    {
+      "ID": "Award_BigSpender",
+      "SetID": "9ojec6n",
+      "Name": "Big Spender",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "Award_BossDown",
+      "SetID": "9ojec6n",
+      "Name": "Boss Down",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "Award_BumperCar",
+      "SetID": "9ojec6n",
+      "Name": "Bumper Car",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "Award_BurnThem",
+      "SetID": "9ojec6n",
+      "Name": "Burn Them",
+      "Percentage": 0.3,
+      "XP": 25
+    },
+    {
+      "ID": "Award_CleanSweep",
+      "SetID": "9ojec6n",
+      "Name": "Clean Sweep",
+      "Percentage": 96,
+      "XP": 20
+    },
+    {
+      "ID": "Award_DeathFromAbove",
+      "SetID": "9ojec6n",
+      "Name": "Death from Above",
+      "Percentage": 39,
+      "XP": 15
+    },
+    {
+      "ID": "Award_DemolitionDerby",
+      "SetID": "9ojec6n",
+      "Name": "Demolition Derby",
+      "Percentage": 0.9,
+      "XP": 25
+    },
+    {
+      "ID": "Award_Disruptor",
+      "SetID": "9ojec6n",
+      "Name": "The Disruptor",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "Award_DocKing",
+      "SetID": "9ojec6n",
+      "Name": "DocKing",
+      "Percentage": 47,
+      "XP": 15
+    },
+    {
+      "ID": "Award_EarlyBird",
+      "SetID": "9ojec6n",
+      "Name": "Early Bird",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "Award_ExtraAmmo",
+      "SetID": "9ojec6n",
+      "Name": "Extra Ammo",
+      "Percentage": 21,
+      "XP": 15
+    },
+    {
+      "ID": "Award_FinalAscension",
+      "SetID": "9ojec6n",
+      "Name": "Final Ascension",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "Award_FirstVictory",
+      "SetID": "9ojec6n",
+      "Name": "First Victory",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "Award_Gunner",
+      "SetID": "9ojec6n",
+      "Name": "Gunner",
+      "Percentage": 56,
+      "XP": 20
+    },
+    {
+      "ID": "Award_HalfwayThere",
+      "SetID": "9ojec6n",
+      "Name": "Halfway There",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "Award_HavingABlast",
+      "SetID": "9ojec6n",
+      "Name": "Having a Blast",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "Award_HazardousDuty",
+      "SetID": "9ojec6n",
+      "Name": "Hazardous Duty",
+      "Percentage": 17,
+      "XP": 15
+    },
+    {
+      "ID": "Award_HeavyMetal",
+      "SetID": "9ojec6n",
+      "Name": "Heavy Metal",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Award_HullKing",
+      "SetID": "9ojec6n",
+      "Name": "Hull King",
+      "Percentage": 27,
+      "XP": 20
+    },
+    {
+      "ID": "Award_IntelKing",
+      "SetID": "9ojec6n",
+      "Name": "Intel King",
+      "Percentage": 0.6,
+      "XP": 20
+    },
+    {
+      "ID": "Award_KillerElite",
+      "SetID": "9ojec6n",
+      "Name": "Killer Elite",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "Award_LineOfDuty",
+      "SetID": "9ojec6n",
+      "Name": "Line of Duty",
+      "Percentage": 74,
+      "XP": 15
+    },
+    {
+      "ID": "Award_MilitaryIntelligence",
+      "SetID": "9ojec6n",
+      "Name": "Military Intelligence",
+      "Percentage": 0.9,
+      "XP": 20
+    },
+    {
+      "ID": "Award_MisterFixIt",
+      "SetID": "9ojec6n",
+      "Name": "Mister Fix It",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Award_OP",
+      "SetID": "9ojec6n",
+      "Name": "OP",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "Award_PerfectTiming",
+      "SetID": "9ojec6n",
+      "Name": "Perfect Timing",
+      "Percentage": 10,
+      "XP": 20
+    },
+    {
+      "ID": "Award_PerkKing",
+      "SetID": "9ojec6n",
+      "Name": "Perk King",
+      "Percentage": 11,
+      "XP": 25
+    },
+    {
+      "ID": "Award_Perky",
+      "SetID": "9ojec6n",
+      "Name": "Perky",
+      "Percentage": 16,
+      "XP": 20
+    },
+    {
+      "ID": "Award_PowerUp",
+      "SetID": "9ojec6n",
+      "Name": "Power Up",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "Award_Salvage",
+      "SetID": "9ojec6n",
+      "Name": "Salvage",
+      "Percentage": 11,
+      "XP": 20
+    },
+    {
+      "ID": "Award_Scavenger",
+      "SetID": "9ojec6n",
+      "Name": "Scavenger",
+      "Percentage": 76,
+      "XP": 15
+    },
+    {
+      "ID": "Award_ShellShock",
+      "SetID": "9ojec6n",
+      "Name": "Shell Shock",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Award_SixtySeconds",
+      "SetID": "9ojec6n",
+      "Name": "Sixty Seconds",
+      "Percentage": 10,
+      "XP": 20
+    },
+    {
+      "ID": "Award_SoldierLockOn",
+      "SetID": "9ojec6n",
+      "Name": "Hornet Lock On",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Award_Specialized",
+      "SetID": "9ojec6n",
+      "Name": "Specialized",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "Award_SplashDamage",
+      "SetID": "9ojec6n",
+      "Name": "Splash Damage",
+      "Percentage": 18,
+      "XP": 15
+    },
+    {
+      "ID": "Award_Stunning",
+      "SetID": "9ojec6n",
+      "Name": "Shocking",
+      "Percentage": 11,
+      "XP": 25
+    },
+    {
+      "ID": "Award_SwissCheese",
+      "SetID": "9ojec6n",
+      "Name": "Swiss Cheese",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "Award_TheCannoneer",
+      "SetID": "9ojec6n",
+      "Name": "The Cannoneer",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "Award_TheFirstStep",
+      "SetID": "9ojec6n",
+      "Name": "The First Step",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Award_ThirtyBirds",
+      "SetID": "9ojec6n",
+      "Name": "Thirty Birds...",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "Award_TimeRun",
+      "SetID": "9ojec6n",
+      "Name": "Time Run",
+      "Percentage": 0.9,
+      "XP": 20
+    },
+    {
+      "ID": "Award_WhatAShot",
+      "SetID": "9ojec6n",
+      "Name": "What-A-Shot",
+      "Percentage": 44,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +332,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.29,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 44,
+  "LastChanged_Achievements": "2023-05-04T19:18:17.5782391+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 346,
-  "LastUpdate_Achievements": "2023-05-04T19:03:23.1701904+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:55.1431101+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:23.1701877+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:17.5782743+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:53.2631064+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9ojec6n",
+      "IsBase": true,
+      "Progressed": 346,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 0.29,
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
+  "FirstSeen": "2022-07-22T20:19:09.1479979+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_Progress": 197,
-  "FirstSeen": "2022-07-22T20:19:09.1479979+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00"
 }

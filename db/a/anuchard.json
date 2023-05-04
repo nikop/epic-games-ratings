@@ -1,6 +1,7 @@
 {
   "ID": "9b10a3f3802e4ed4b2522857b858347f",
   "Name": "Anuchard",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:05.3438889+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:13.9708111+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:44.3839355+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:13.9708094+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:05.3438932+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:42.0807423+00:00",
+  "AchievementSets": [
+    {
+      "ID": "aep97gj",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:35.9543671+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:54.2937642+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.954367+00:00",
+  "FirstSeen": "2022-07-22T20:22:47.2694793+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:22:47.2694793+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:54.2937642+00:00"
 }

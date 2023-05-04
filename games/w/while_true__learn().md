@@ -4,9 +4,40 @@ Number of Ratings: 896  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 131  (Ranked 290)  
 Sum: 131 (Ranked 382)  
-Diff (max vs sum): -92
+Diff (max vs sum): -92  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First.. Bit? | 93.00 |
+| Error: Stack Overflow | 66.00 |
+| We need more gold | 60.00 |
+| The dawn of civilization | 53.00 |
+| More FPS for the FPS god! | 49.00 |
+| Beauty and harmony | 48.00 |
+| One more! | 44.00 |
+| Overmind | 24.00 |
+| RNG is my best friend now | 18.00 |
+| Cosplay | 13.00 |
+| Evolution in progress... | 13.00 |
+| Step by step | 8.00 |
+| README reader | 3.00 |
+| Data scientist | 3.00 |
+| One small step for a man... | 3.00 |
+| To see it all, to learn it all | 2.00 |
+| Evolution complete | 2.00 |
+| Is this Skynet? | 2.00 |
+| Cybergeek 2047 | 2.00 |
+| Best deal on the market | 1.00 |
+| Ping | 1.00 |
+| Magna cum laude | 1.00 |
+| The hoarder | 0.90 |
+| Deal with it! | 0.50 |
+| Gold rush | 0.40 |
+| Cat-o-holic | 0.40 |
+| Elements will destroy you! | 0.30 |
+| The Scrooge | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586,913 (Ranked 20)  
+Progressed: 586,915 (Ranked 20)  
 Completed: 474 (0.08%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +51,7 @@ Completed: 474 (0.08%) (Ranked 157)
 | 2023-05-01 | 586,589 | 474 |
 | 2023-05-02 | 586,713 | 474 |
 | 2023-05-03 | 586,815 | 474 |
-| 2023-05-04 | 586,913 | 474 |
+| 2023-05-04 | 586,915 | 474 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -4,7 +4,126 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,623  (Ranked 111)  
 Sum: 6,573 (Ranked 108)  
-Diff (max vs sum): 3
+Diff (max vs sum): 3  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Devoured by Darkness | 12.00 |
+| Burning City | 8.00 |
+| A Spark | 8.00 |
+| Mythic Choices | 7.00 |
+| Defender's Heart | 7.00 |
+| Banner over the Citadel | 6.00 |
+| Queen's Gratitude | 6.00 |
+| Fifth Crusade | 4.00 |
+| Embrace of the Abyss | 3.00 |
+| Path of the Angel | 3.00 |
+| Great Upstart | 3.00 |
+| Demonic and Divine | 3.00 |
+| Path of the Azata | 2.00 |
+| Transformation | 2.00 |
+| The Legacy | 2.00 |
+| Divide and Rule | 2.00 |
+| Mythic Reinforcements | 2.00 |
+| Voice from Your Dreams | 2.00 |
+| All Paths Open | 2.00 |
+| A Flame | 2.00 |
+| Hey, I Know You! | 2.00 |
+| Next-Door Play | 2.00 |
+| Get the Toad | 2.00 |
+| The Lady of the Forest | 2.00 |
+| Beware Still Water | 2.00 |
+| Heart of the Fallen Land | 1.00 |
+| Path of the Trickster | 1.00 |
+| Path of the Lich | 1.00 |
+| Heroic Victory | 1.00 |
+| Capitulation Is Now Moot | 1.00 |
+| Core of the Riddle | 1.00 |
+| Your First Big Enemy | 1.00 |
+| Stay Underground | 1.00 |
+| Hanged Man's Notes | 1.00 |
+| Sarkoris Will Be Green | 1.00 |
+| Path of the Aeon | 0.90 |
+| Truly Important Deed | 0.90 |
+| Path of the Demon | 0.80 |
+| Abyssal Conspiracy | 0.60 |
+| End of Eternal Guard | 0.60 |
+| This Wall Won't Fall | 0.60 |
+| The Final Threshold | 0.50 |
+| Path of the Dragon | 0.50 |
+| Path of the Legend | 0.50 |
+| Playful Mood | 0.50 |
+| Not the Last Sarkorian | 0.50 |
+| Strategic Victory | 0.40 |
+| Dreadful Dragon | 0.40 |
+| Truly Profane Gift | 0.40 |
+| Masterful Charge | 0.30 |
+| Prelate's Nemesis | 0.20 |
+| Just Pathetic | 0.20 |
+| Path of the Swarm | 0.10 |
+| Equal to Aroden | 0.10 |
+| Spirit of Adventure | 0.10 |
+| Test of the Starstone | 0.10 |
+| Masterful Craftsmanship | 0.10 |
+| Masterful Dispel | 0.10 |
+| Ashes to Ashes | 0.10 |
+| Blight of Drezen | 0.00 |
+| Memories Frozen in Time | 0.00 |
+| Death by Column | 0.00 |
+| Path of the Devil | 0.00 |
+| Midnight Aim | 0.00 |
+| So Much of Me | 0.00 |
+| Ascension | 0.00 |
+| Grain of Sand | 0.00 |
+| A Story Worth Millennia | 0.00 |
+| Secret of Secrets | 0.00 |
+| Radiance | 0.00 |
+| Subtle Hints | 0.00 |
+| Inevitable Outcome | 0.00 |
+| Glimpse of Truth | 0.00 |
+| Detective at Work | 0.00 |
+| Silver Tongue | 0.00 |
+| Disillusioned | 0.00 |
+| Paradox | 0.00 |
+| The Art of Provocation | 0.00 |
+| Ill-Gotten Gains | 0.00 |
+| Careful Steps | 0.00 |
+| Deadweight | 0.00 |
+| In Memoriam | 0.00 |
+| We Don't Trade Lives | 0.00 |
+| The Manuscript Found in Kenabres | 0.00 |
+| The Unbreakable Trio | 0.00 |
+| Don't Eat This | 0.00 |
+| This Side Toward the Enemy | 0.00 |
+| One for All | 0.00 |
+| All for One | 0.00 |
+| No Escape From Justice | 0.00 |
+| Come Rain or Shine | 0.00 |
+| Bloody Bandages | 0.00 |
+| Who's There? | 0.00 |
+| Piece It Together | 0.00 |
+| Are You a Cat? | 0.00 |
+| Secret of the Midnight Isles | 0.00 |
+| The Past Never Dies | 0.00 |
+| Ride the Wind | 0.00 |
+| Windcatcher | 0.00 |
+| Windmaster | 0.00 |
+| Loot the Loot! | 0.00 |
+| Redemption | 0.00 |
+| Hunting Darkness | 0.00 |
+| Broken Trickster | 0.00 |
+| Devoted Servant | 0.00 |
+| Fallen Angel | 0.00 |
+| The Path Is Clear | 0.00 |
+| Green Thumb | 0.00 |
+| Don't Scream at Me! | 0.00 |
+| Brave and Foolhardy | 0.00 |
+| From the Jaws of Defeat | 0.00 |
+| Who Needs Ballistae? | 0.00 |
+| Synergy | 0.00 |
+| No Remorse | 0.00 |
+| No Ordinary Mortal | 0.00 |
+| Wealth Is the Best Superpower | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,621 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  

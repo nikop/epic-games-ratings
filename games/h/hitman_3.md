@@ -4,9 +4,59 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 8,831  (Ranked 36)  
 Sum: 65,301 (Ranked 18)  
-Diff (max vs sum): 18
+Diff (max vs sum): 18  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Death From Above | 47.00 |
+| Unseen Assassin | 46.00 |
+| Master of the Household | 39.00 |
+| Death of the Party | 37.00 |
+| NEXUS-47 | 34.00 |
+| The Last Tango | 32.00 |
+| Nightmare Fuel | 31.00 |
+| The Result of Previous Training | 28.00 |
+| Tools of the Trade | 28.00 |
+| Cleared for Field Duty | 27.00 |
+| Seizing the Opportunity | 25.00 |
+| Bullet Train | 22.00 |
+| Stylish Assassin | 19.00 |
+| Silent Assassin | 14.00 |
+| Rise Up | 13.00 |
+| Evil Wine Club | 12.00 |
+| Console Cowboy | 10.00 |
+| Last Stop | 10.00 |
+| A New Profile | 9.00 |
+| Full House | 9.00 |
+| Dune Raider | 8.00 |
+| No Stone Unturned | 8.00 |
+| Train Surfing | 8.00 |
+| Family Feud | 7.00 |
+| Icebreaker | 7.00 |
+| Rich Harvest | 6.00 |
+| Count Down From 47 | 6.00 |
+| Shortcut Killer | 5.00 |
+| Treacherous Architecture | 5.00 |
+| Stair Master | 5.00 |
+| Followed the Trails | 5.00 |
+| Last Call | 5.00 |
+| Upstairs, Downstairs | 4.00 |
+| The Great Outdoors | 4.00 |
+| Partied Out | 4.00 |
+| Surveillance Master | 4.00 |
+| Hack the Planet | 4.00 |
+| Training Escalated | 3.00 |
+| Keep Your Eyes Peeled | 3.00 |
+| Warehouse Veteran | 3.00 |
+| Future Shock | 3.00 |
+| Master the Terroir | 3.00 |
+| Vineyard Virtuoso | 3.00 |
+| Bird Art | 2.00 |
+| Top of the Class | 1.00 |
+| Ripe for the Picking | 1.00 |
+| The Creative Assassin | 0.70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269,543 (Ranked 8)  
+Progressed: 1,269,550 (Ranked 8)  
 Completed: 2,058 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +70,7 @@ Completed: 2,058 (0.16%) (Ranked 136)
 | 2023-05-01 | 1,268,489 | 2,056 |
 | 2023-05-02 | 1,268,915 | 2,056 |
 | 2023-05-03 | 1,269,248 | 2,057 |
-| 2023-05-04 | 1,269,543 | 2,058 |
+| 2023-05-04 | 1,269,550 | 2,058 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,6 +1,148 @@
 {
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
+  "Achievements": [
+    {
+      "ID": "ACH_100_ITEMS_USED",
+      "SetID": "3jfhgga",
+      "Name": "Sticky fingers",
+      "Percentage": 49,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_100_MINIONS_PLACED",
+      "SetID": "3jfhgga",
+      "Name": "I have an army!",
+      "Percentage": 72,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
+      "SetID": "3jfhgga",
+      "Name": "At least there is something to read",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_CHAPTER_0_DONE",
+      "SetID": "3jfhgga",
+      "Name": "The child of the night",
+      "Percentage": 69,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CHAPTER_1_DONE",
+      "SetID": "3jfhgga",
+      "Name": "Vampires",
+      "Percentage": 38,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CHAPTER_2_DONE",
+      "SetID": "3jfhgga",
+      "Name": "Fangs",
+      "Percentage": 21,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CHAPTER_3_DONE",
+      "SetID": "3jfhgga",
+      "Name": "Mirrors",
+      "Percentage": 15,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CHAPTER_4_DONE",
+      "SetID": "3jfhgga",
+      "Name": "Coat",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CHAPTER_5_DONE",
+      "SetID": "3jfhgga",
+      "Name": "Sarcophagus",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_ENCYCLOPEDIA_ENTRY",
+      "SetID": "3jfhgga",
+      "Name": "Missing data",
+      "Percentage": 79,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_EQUIP_PERK",
+      "SetID": "3jfhgga",
+      "Name": "It fits. IT FITS!",
+      "Percentage": 77,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_FIND_SECRET",
+      "SetID": "3jfhgga",
+      "Name": "A horrible thing will happen...",
+      "Percentage": 44,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_GET10K_ESSENCE",
+      "SetID": "3jfhgga",
+      "Name": "Bloody stream",
+      "Percentage": 33,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_GETALL_COLLECTIBLES",
+      "SetID": "3jfhgga",
+      "Name": "Missing pages",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_HERO_MASTER_1",
+      "SetID": "3jfhgga",
+      "Name": "I need a hero",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_HERO_MASTER_4",
+      "SetID": "3jfhgga",
+      "Name": "Master of puppets",
+      "Percentage": 3,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_SHOP_ALL_MINIONS",
+      "SetID": "3jfhgga",
+      "Name": "I love you all",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_SHOP_ALL_PERKS",
+      "SetID": "3jfhgga",
+      "Name": "Skills to pay the bills",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_SHOP_FIRST_PURCHASE",
+      "SetID": "3jfhgga",
+      "Name": "Uncle will be happy",
+      "Percentage": 72,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_STAGE_LOST_FIRST_TIME",
+      "SetID": "3jfhgga",
+      "Name": "Broken jar",
+      "Percentage": 90,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +169,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 2.56,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 20,
+  "LastChanged_Achievements": "2023-05-04T19:18:14.8093422+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-04T19:03:20.2927824+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:42.8264997+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:20.29278+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:14.8093583+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:42.0126564+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3jfhgga",
+      "IsBase": true,
+      "Progressed": 39,
+      "Completed": 1
+    }
+  ],
+  "EOS_Completed_Percentage": 2.56,
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
+  "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_Progress": 277,
-  "FirstSeen": "2022-07-22T20:26:25.1355207+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00"
 }

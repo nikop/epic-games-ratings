@@ -1,6 +1,183 @@
 {
   "ID": "3bb8a6671a8540fda09479156601b3c0",
   "Name": "Quest of Dungeons",
+  "Achievements": [
+    {
+      "ID": "grp.qod.000",
+      "SetID": "18i0ipj",
+      "Name": "Easy breezy?",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "grp.qod.001",
+      "SetID": "18i0ipj",
+      "Name": "Some challenge",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "grp.qod.002",
+      "SetID": "18i0ipj",
+      "Name": "How hard can it be?",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "grp.qod.003",
+      "SetID": "18i0ipj",
+      "Name": "Trickery",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "grp.qod.004",
+      "SetID": "18i0ipj",
+      "Name": "Willpower",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "grp.qod.005",
+      "SetID": "18i0ipj",
+      "Name": "The mana within",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "grp.qod.006",
+      "SetID": "18i0ipj",
+      "Name": "From a distance",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "grp.qod.007",
+      "SetID": "18i0ipj",
+      "Name": "Fly you fool!",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "grp.qod.008",
+      "SetID": "18i0ipj",
+      "Name": "Key Master",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "grp.qod.009",
+      "SetID": "18i0ipj",
+      "Name": "I have the key",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "grp.qod.010",
+      "SetID": "18i0ipj",
+      "Name": "Shopaholic",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "grp.qod.011",
+      "SetID": "18i0ipj",
+      "Name": "Paper boy",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "grp.qod.012",
+      "SetID": "18i0ipj",
+      "Name": "You have 50 jobs",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "grp.qod.013",
+      "SetID": "18i0ipj",
+      "Name": "Dangerous path",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "grp.qod.014",
+      "SetID": "18i0ipj",
+      "Name": "Every corner",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "grp.qod.015",
+      "SetID": "18i0ipj",
+      "Name": "Gold Collector",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "grp.qod.016",
+      "SetID": "18i0ipj",
+      "Name": "Listen Closely",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "grp.qod.017",
+      "SetID": "18i0ipj",
+      "Name": "Is this Hell?",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "grp.qod.018",
+      "SetID": "18i0ipj",
+      "Name": "Ghost from the Past",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "grp.qod.019",
+      "SetID": "18i0ipj",
+      "Name": "Revenge of the Jellies",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "grp.qod.020",
+      "SetID": "18i0ipj",
+      "Name": "The Architect",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "grp.qod.021",
+      "SetID": "18i0ipj",
+      "Name": "Rock on!",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "grp.qod.022",
+      "SetID": "18i0ipj",
+      "Name": "Beat the odds!",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "grp.qod.023",
+      "SetID": "18i0ipj",
+      "Name": "The Slayer!",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "grp.qod.025",
+      "SetID": "18i0ipj",
+      "Name": "Back for more",
+      "Percentage": 0,
+      "XP": 35
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +204,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 25,
+  "LastChanged_Achievements": "2023-05-04T19:20:20.8699379+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-04T19:05:29.8486149+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:51.5589125+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:29.848612+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:20.869958+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:48.3278646+00:00",
+  "AchievementSets": [
+    {
+      "ID": "18i0ipj",
+      "IsBase": true,
+      "Progressed": 39,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00",
   "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
+  "FirstSeen": "2023-03-24T19:57:52.2568081+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 277,
-  "FirstSeen": "2023-03-24T19:57:52.2568081+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00"
 }

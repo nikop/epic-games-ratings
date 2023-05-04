@@ -1,6 +1,204 @@
 {
   "ID": "506976eed6054a4aad5646197adc5c8d",
   "Name": "Filthy Animals | Heist Simulator",
+  "Achievements": [
+    {
+      "ID": "allObjectives",
+      "SetID": "10d14j0",
+      "Name": "All Objectives Complete",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "allSerums",
+      "SetID": "10d14j0",
+      "Name": "Got All The Serums",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "allSkulls",
+      "SetID": "10d14j0",
+      "Name": "Got All The Skulls",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "allSlotsComplete",
+      "SetID": "10d14j0",
+      "Name": "All Gold Chest Slots Unlocked",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "allSombreros",
+      "SetID": "10d14j0",
+      "Name": "Got All The Sombreros",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "banditAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Bandit Camp Objectives Complete",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "banditSuccess",
+      "SetID": "10d14j0",
+      "Name": "Bandit Camp Heisted",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "bankAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Bank Objectives Complete",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "bankSuccess",
+      "SetID": "10d14j0",
+      "Name": "Bank Heisted",
+      "Percentage": 0.4,
+      "XP": 40
+    },
+    {
+      "ID": "chickenMax",
+      "SetID": "10d14j0",
+      "Name": "Chicken Maxed Out",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "crocMax",
+      "SetID": "10d14j0",
+      "Name": "Crocodile Maxed Out",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "lootomaticComplete",
+      "SetID": "10d14j0",
+      "Name": "All Weapons Purchased",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "militaryAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Military Base Objectives Complete",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "militarySuccess",
+      "SetID": "10d14j0",
+      "Name": "Military Base Heisted",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "monkeyMax",
+      "SetID": "10d14j0",
+      "Name": "Monkey Maxed Out",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "mooseMax",
+      "SetID": "10d14j0",
+      "Name": "Moose Maxed Out",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "nuclearAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Nuclear Plant Objectives Complete",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "nuclearSuccess",
+      "SetID": "10d14j0",
+      "Name": "Nuclear Plant Heisted",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "prisonAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Prison Objectives Complete",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "prisonSuccess",
+      "SetID": "10d14j0",
+      "Name": "Prison Heisted",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "spaceAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Spaceship Objectives Complete",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "spaceSuccess",
+      "SetID": "10d14j0",
+      "Name": "Spaceship Heisted",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "superMartAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Supermart Objectives Complete",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "superMartSuccess",
+      "SetID": "10d14j0",
+      "Name": "Supermart Heisted",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "templeAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Temple Objectives Complete",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "templeSuccess",
+      "SetID": "10d14j0",
+      "Name": "Temple Heisted",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "tutorialAllObjectives",
+      "SetID": "10d14j0",
+      "Name": "Sewer Objectives Complete",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "tutorialSuccess",
+      "SetID": "10d14j0",
+      "Name": "Tutorial Completed",
+      "Percentage": 6,
+      "XP": 40
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -352,22 +550,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 28,
+  "LastChanged_Achievements": "2023-05-04T19:18:19.2037845+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 98,
   "EOS_Completed": 0,
   "EOS_Progressed": 6511,
-  "LastUpdate_Achievements": "2023-05-04T19:03:24.8867875+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:43.7599445+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:24.8867781+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:19.2038051+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:42.8936168+00:00",
+  "AchievementSets": [
+    {
+      "ID": "10d14j0",
+      "IsBase": true,
+      "Progressed": 6511,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
+  "FirstSeen": "2023-04-05T14:58:37.795313+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 111,
-  "FirstSeen": "2023-04-05T14:58:37.795313+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00"
 }

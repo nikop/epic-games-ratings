@@ -1,6 +1,211 @@
 {
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
+  "Achievements": [
+    {
+      "ID": "ADS",
+      "SetID": "bb2dp",
+      "Name": "Ads Fan",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "BEARCOP",
+      "SetID": "bb2dp",
+      "Name": "Bear Cop",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "BEDS",
+      "SetID": "bb2dp",
+      "Name": "Master of Mattresses",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "BESTSTUDENT",
+      "SetID": "bb2dp",
+      "Name": "Best Student",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "CHAPTER1",
+      "SetID": "bb2dp",
+      "Name": "Chapter 1",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "CHAPTER2",
+      "SetID": "bb2dp",
+      "Name": "Chapter 2",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "CHAPTER3",
+      "SetID": "bb2dp",
+      "Name": "Chapter 3",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "CHAPTER4",
+      "SetID": "bb2dp",
+      "Name": "Chapter 4",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "CHAPTER5",
+      "SetID": "bb2dp",
+      "Name": "Chapter 5",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "CHAPTER6",
+      "SetID": "bb2dp",
+      "Name": "Chapter 6",
+      "Percentage": 17,
+      "XP": 30
+    },
+    {
+      "ID": "CHIPMUNK",
+      "SetID": "bb2dp",
+      "Name": "Chipmunk",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "FOODTHIEF",
+      "SetID": "bb2dp",
+      "Name": "Food Thief",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "HEALTHCHECKUP",
+      "SetID": "bb2dp",
+      "Name": "Your Days Are Numbered",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "HIGHWAYSURVIVE",
+      "SetID": "bb2dp",
+      "Name": "Highway Survival",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "INTRO",
+      "SetID": "bb2dp",
+      "Name": "Introduction completed",
+      "Percentage": 83,
+      "XP": 30
+    },
+    {
+      "ID": "LOCKERENDING",
+      "SetID": "bb2dp",
+      "Name": "Secret Locker",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "MAINENDINGS",
+      "SetID": "bb2dp",
+      "Name": "Main Endings",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "MATERIALS",
+      "SetID": "bb2dp",
+      "Name": "All Materials",
+      "Percentage": 33,
+      "XP": 30
+    },
+    {
+      "ID": "PACIFIST",
+      "SetID": "bb2dp",
+      "Name": "Pacifist",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "PIANOMUSIC",
+      "SetID": "bb2dp",
+      "Name": "Paw Music",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PILLSLOVER",
+      "SetID": "bb2dp",
+      "Name": "Sugar Pills Lover",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "PUSHY",
+      "SetID": "bb2dp",
+      "Name": "Pushy, pushy",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "SUMMARYFULL",
+      "SetID": "bb2dp",
+      "Name": "Summary Filled",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "SWIM",
+      "SetID": "bb2dp",
+      "Name": "It\u0027s In My Nature",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "TABLES",
+      "SetID": "bb2dp",
+      "Name": "The World Is My Doormat",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "TOILETSMAN",
+      "SetID": "bb2dp",
+      "Name": "Toilets Tormentor",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "TRAMPSAVER",
+      "SetID": "bb2dp",
+      "Name": "Tramp Saver",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "WAKEUPHUSH",
+      "SetID": "bb2dp",
+      "Name": "Hard To Wake Up",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "WORSTDETECTIVE",
+      "SetID": "bb2dp",
+      "Name": "Worst. Investigator. Ever.",
+      "Percentage": 0,
+      "XP": 30
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +222,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 29,
+  "LastChanged_Achievements": "2023-05-04T19:19:00.6972336+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T19:04:09.1325175+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:33.9997786+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:09.1325153+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:00.6972527+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:32.0249665+00:00",
+  "AchievementSets": [
+    {
+      "ID": "bb2dp",
+      "IsBase": true,
+      "Progressed": 6,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
+  "FirstSeen": "2023-04-09T06:58:32.327153+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
-  "FirstSeen": "2023-04-09T06:58:32.327153+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00"
 }

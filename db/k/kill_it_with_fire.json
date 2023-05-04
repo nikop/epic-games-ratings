@@ -1,6 +1,7 @@
 {
   "ID": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
   "Name": "Kill It With Fire",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -31,15 +32,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:03.0221457+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:31.9563937+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:28.5704413+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-24T22:56:55.4775183+00:00",
   "FirstSeenRating": "2022-12-03T21:57:39.7500458+00:00",
+  "FirstSeen": "2022-07-22T20:17:57.0618032+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -49,6 +54,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 564,
-  "Rating": 4.48,
-  "FirstSeen": "2022-07-22T20:17:57.0618032+00:00"
+  "Rating": 4.48
 }

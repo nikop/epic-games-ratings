@@ -1,6 +1,7 @@
 {
   "ID": "e22c6cc3c9ec427a9fa3483b021be55f",
   "Name": "SpiderHeck",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -73,15 +74,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:45.0169265+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:14.3772909+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:12.5401869+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-01T14:00:00.16691+00:00",
   "FirstSeenRating": "2022-10-29T16:32:51.4515319+00:00",
+  "FirstSeen": "2022-09-24T13:08:00.324402+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -91,6 +96,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 113,
-  "Rating": 4.76,
-  "FirstSeen": "2022-09-24T13:08:00.324402+00:00"
+  "Rating": 4.76
 }

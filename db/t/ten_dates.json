@@ -1,6 +1,141 @@
 {
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
+  "Achievements": [
+    {
+      "ID": "fail_misha",
+      "SetID": "6h5h9ho",
+      "Name": "Picky!",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "fail_ryan",
+      "SetID": "6h5h9ho",
+      "Name": "Picky, Picky!",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "misha_date2_all",
+      "SetID": "6h5h9ho",
+      "Name": "Playing the field",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "misha_date3_all",
+      "SetID": "6h5h9ho",
+      "Name": "Keep the spark alive",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "profile_misha",
+      "SetID": "6h5h9ho",
+      "Name": "Let it begin",
+      "Percentage": 49,
+      "XP": 10
+    },
+    {
+      "ID": "profile_ryan",
+      "SetID": "6h5h9ho",
+      "Name": "That wasn\u0027t so bad",
+      "Percentage": 84,
+      "XP": 10
+    },
+    {
+      "ID": "ryan_date2_all",
+      "SetID": "6h5h9ho",
+      "Name": "More than browsing",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ryan_date3_all",
+      "SetID": "6h5h9ho",
+      "Name": "Go well, lad",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "success_azalea",
+      "SetID": "6h5h9ho",
+      "Name": "The activist",
+      "Percentage": 21,
+      "XP": 90
+    },
+    {
+      "ID": "success_bash",
+      "SetID": "6h5h9ho",
+      "Name": "The lad",
+      "Percentage": 8,
+      "XP": 90
+    },
+    {
+      "ID": "success_brandy",
+      "SetID": "6h5h9ho",
+      "Name": "The boss",
+      "Percentage": 25,
+      "XP": 90
+    },
+    {
+      "ID": "success_derek",
+      "SetID": "6h5h9ho",
+      "Name": "The debonair",
+      "Percentage": 9,
+      "XP": 90
+    },
+    {
+      "ID": "success_hazel",
+      "SetID": "6h5h9ho",
+      "Name": "The individualist",
+      "Percentage": 21,
+      "XP": 90
+    },
+    {
+      "ID": "success_jake",
+      "SetID": "6h5h9ho",
+      "Name": "The nice guy",
+      "Percentage": 12,
+      "XP": 90
+    },
+    {
+      "ID": "success_kathleen",
+      "SetID": "6h5h9ho",
+      "Name": "The intellectual",
+      "Percentage": 28,
+      "XP": 90
+    },
+    {
+      "ID": "success_lucas",
+      "SetID": "6h5h9ho",
+      "Name": "The techie",
+      "Percentage": 8,
+      "XP": 90
+    },
+    {
+      "ID": "success_toni",
+      "SetID": "6h5h9ho",
+      "Name": "The athlete",
+      "Percentage": 26,
+      "XP": 90
+    },
+    {
+      "ID": "success_ty",
+      "SetID": "6h5h9ho",
+      "Name": "The bad boy",
+      "Percentage": 5,
+      "XP": 90
+    },
+    {
+      "ID": "vinny_number",
+      "SetID": "6h5h9ho",
+      "Name": "Muggy Misha",
+      "Percentage": 3,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +167,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.05,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 19,
+  "LastChanged_Achievements": "2023-05-04T19:15:14.2729529+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 2,
   "EOS_Progressed": 190,
-  "LastUpdate_Achievements": "2023-05-04T19:00:15.7718838+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:09.8009593+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:15.7718804+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:14.2729671+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:08.2219049+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6h5h9ho",
+      "IsBase": true,
+      "Progressed": 190,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 1.05,
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
+  "FirstSeen": "2023-02-16T03:10:27.551187+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 77,
   "Ranking_EOS_Progress": 223,
-  "FirstSeen": "2023-02-16T03:10:27.551187+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00"
 }

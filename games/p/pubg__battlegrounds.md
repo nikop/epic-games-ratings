@@ -3,9 +3,49 @@ Rating: 3.99 (Ranked 879)
 ## Popularity (Based on Awards)
 Max (Competitive Players): 1,754  (Ranked 108)  
 Sum: 5,676 (Ranked 114)  
-Diff (max vs sum): -6
+Diff (max vs sum): -6  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Blood on My Hands | 74.00 |
+| Health Junkie | 45.00 |
+| You Complete Me | 41.00 |
+| Guardian Angel | 39.00 |
+| Devil Inside Me | 30.00 |
+| Killing Spree | 22.00 |
+| Fantastic Four | 21.00 |
+| Marksman Novice | 19.00 |
+| First Blood | 13.00 |
+| Top 10 | 13.00 |
+| Now You See Me, Now You Don't | 12.00 |
+| Marksman Expert | 9.00 |
+| CQB Novice | 8.00 |
+| Collateral Damage | 7.00 |
+| Airborne | 6.00 |
+| Pacifist | 5.00 |
+| Last Survivor | 4.00 |
+| Marksman Master | 4.00 |
+| Trigonometry Novice | 4.00 |
+| First Come, First Served | 4.00 |
+| Dynamic Duo | 4.00 |
+| Winner Winner Chicken Dinner! | 2.00 |
+| Okay, Now I'm Ready | 2.00 |
+| Don't Pan Me Bro! | 2.00 |
+| Fast and Furious | 2.00 |
+| CQB Expert | 2.00 |
+| Agent 48 | 1.00 |
+| Ghost | 1.00 |
+| Cruising with the Enemy | 1.00 |
+| Fury Road | 0.90 |
+| Nade King Novice | 0.70 |
+| Master Assassin | 0.50 |
+| CQB Master | 0.20 |
+| Nade King Master | 0.10 |
+| Nade King Expert | 0.10 |
+| The First Rule Is… | 0.10 |
+| Shoot the Knee | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,119 (Ranked 36)  
+Progressed: 348,127 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +59,7 @@ Completed: 8 (0.00%) (Ranked 191)
 | 2023-05-01 | 344,877 | 8 |
 | 2023-05-02 | 346,117 | 8 |
 | 2023-05-03 | 347,210 | 8 |
-| 2023-05-04 | 348,119 | 8 |
+| 2023-05-04 | 348,127 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

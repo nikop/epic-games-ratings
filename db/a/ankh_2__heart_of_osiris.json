@@ -1,6 +1,7 @@
 {
   "ID": "2adc9c886d42496c864c60f2b67704db",
   "Name": "Ankh 2: Heart of Osiris",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:51.1091365+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:20.6869136+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:19.1198184+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:18.2850689+00:00",
   "FirstSeenRating": "2023-03-31T05:58:18.2850687+00:00",
+  "FirstSeen": "2022-09-10T11:02:46.5120986+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-09-10T11:02:46.5120986+00:00"
+  "Ranking_EOS_Progress": 378
 }

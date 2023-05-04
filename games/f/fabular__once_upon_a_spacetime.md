@@ -1,9 +1,15 @@
 # Fabular: Once Upon a Spacetime
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Dax the Defeated | 78.00 |
+| Live Fast, Die Young | 56.00 |
+| Dax the Destroyed | 44.00 |
+| M'urdured | 33.00 |
+| M'utilated | 11.00 |
+| Keep Shattering | 11.00 |
+| Keep Exploding | 11.00 |
+| I Know Kung Fu | 11.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,9 +17,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 9 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,10 +1,9 @@
 # Ghost Recon Future Soldier: Ultimate Edition
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 23  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

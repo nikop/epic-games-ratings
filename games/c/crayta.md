@@ -4,7 +4,44 @@ Number of Ratings: 94  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 50  (Ranked 385)  
 Sum: 370 (Ranked 307)  
-Diff (max vs sum): 78
+Diff (max vs sum): 78  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Well Socialised! | 23.00 |
+| Variety Player - Bronze | 13.00 |
+| Express Yourself - Bronze | 7.00 |
+| Getting Friendly | 5.00 |
+| Challenge Apprentice | 5.00 |
+| Building Block - Bronze | 4.00 |
+| Variety Player - Silver | 4.00 |
+| Building Block - Silver | 2.00 |
+| Challenge Veteran | 2.00 |
+| Express Yourself - Silver | 2.00 |
+| Building Block - Gold | 1.00 |
+| Grouping Up - Bronze | 1.00 |
+| Community Creativity | 1.00 |
+| Shared! | 1.00 |
+| These Are a Few of My Favorite Things - Bronze | 0.70 |
+| Standing on the Shoulders of Giants - Bronze | 0.60 |
+| Going Public! | 0.60 |
+| Variety Player - Gold | 0.50 |
+| Challenge Master | 0.50 |
+| Getting Equipped! | 0.40 |
+| Getting Creative - Bronze | 0.30 |
+| Reap the Rewards! | 0.30 |
+| Grouping Up - Silver | 0.30 |
+| Standing on the Shoulders of Giants - Silver | 0.20 |
+| Getting Creative - Silver | 0.20 |
+| Featured Gamer - Bronze | 0.20 |
+| Express Yourself - Gold | 0.20 |
+| These Are a Few of My Favorite Things - Silver | 0.20 |
+| These Are a Few of My Favorite Things - Gold | 0.10 |
+| Standing on the Shoulders of Giants - Gold | 0.10 |
+| Getting Creative - Gold | 0.10 |
+| Grouping Up - Gold | 0.10 |
+| Featured Gamer - Silver | 0.10 |
+| Featured Gamer - Gold | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109,250 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 191)  

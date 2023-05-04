@@ -1,6 +1,7 @@
 {
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -206,15 +207,19 @@
       "NumberOfAwardsMax": 40
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:26.8558359+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:51.6824715+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:48.4492553+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T02:59:40.8325137+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
+  "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 40,
   "NumberOfAwards": 40,
@@ -225,6 +230,5 @@
   "Ranking_PopularitySum": 442,
   "Ranking_Popularity": 409,
   "Ranking_Rating": 113,
-  "Rating": 4.76,
-  "FirstSeen": "2023-01-27T17:57:20.5533157+00:00"
+  "Rating": 4.76
 }

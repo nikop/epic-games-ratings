@@ -1,6 +1,113 @@
 {
   "ID": "9d5393fd5460430e80d2bfe9fcd55d6a",
   "Name": "Grim Nights",
+  "Achievements": [
+    {
+      "ID": "ach_boss1",
+      "SetID": "c2c0fb6",
+      "Name": "Slay it!",
+      "Percentage": 75,
+      "XP": 150
+    },
+    {
+      "ID": "ach_boss2",
+      "SetID": "c2c0fb6",
+      "Name": "Slay that one too!",
+      "Percentage": 25,
+      "XP": 150
+    },
+    {
+      "ID": "ach_boss3",
+      "SetID": "c2c0fb6",
+      "Name": "... And that one!",
+      "Percentage": 25,
+      "XP": 150
+    },
+    {
+      "ID": "ach_bunny10",
+      "SetID": "c2c0fb6",
+      "Name": "Poor things...",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ach_bunny50",
+      "SetID": "c2c0fb6",
+      "Name": "You monster!",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "ach_day10",
+      "SetID": "c2c0fb6",
+      "Name": "Still alive!",
+      "Percentage": 75,
+      "XP": 30
+    },
+    {
+      "ID": "ach_day15",
+      "SetID": "c2c0fb6",
+      "Name": "Endurance test!",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "ach_day20",
+      "SetID": "c2c0fb6",
+      "Name": "Are you still here?",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ach_day5",
+      "SetID": "c2c0fb6",
+      "Name": "So far so good...",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "ach_level2",
+      "SetID": "c2c0fb6",
+      "Name": "Getting somewhere",
+      "Percentage": 50,
+      "XP": 30
+    },
+    {
+      "ID": "ach_level3",
+      "SetID": "c2c0fb6",
+      "Name": "Top notch!",
+      "Percentage": 100,
+      "XP": 70
+    },
+    {
+      "ID": "ach_lose",
+      "SetID": "c2c0fb6",
+      "Name": "Lives lost",
+      "Percentage": 100,
+      "XP": 50
+    },
+    {
+      "ID": "ach_rich",
+      "SetID": "c2c0fb6",
+      "Name": "Bling bling!",
+      "Percentage": 75,
+      "XP": 100
+    },
+    {
+      "ID": "ach_slay1000",
+      "SetID": "c2c0fb6",
+      "Name": "Slaughter",
+      "Percentage": 50,
+      "XP": 25
+    },
+    {
+      "ID": "ach_slay2000",
+      "SetID": "c2c0fb6",
+      "Name": "Massive slaughter",
+      "Percentage": 50,
+      "XP": 25
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -32,22 +139,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:18:13.3383136+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T19:03:18.8588126+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:37.5847265+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:18.85881+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:13.3383255+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:35.7798857+00:00",
+  "AchievementSets": [
+    {
+      "ID": "c2c0fb6",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
+  "FirstSeen": "2023-04-28T10:59:29.2849937+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 329,
-  "FirstSeen": "2023-04-28T10:59:29.2849937+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00"
 }

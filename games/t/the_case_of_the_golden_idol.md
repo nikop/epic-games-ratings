@@ -1,9 +1,18 @@
 # The Case of the Golden Idol
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Solved first case | 85.00 |
+| Solved second case | 83.00 |
+| Solved third case | 66.00 |
+| Solved fourth case | 43.00 |
+| Solved seventh case | 26.00 |
+| Solved eighth case | 26.00 |
+| Solved sixth case | 23.00 |
+| Solved fifth case | 21.00 |
+| Solved ninth case | 21.00 |
+| Solved tenth case | 19.00 |
+| Solved eleventh case | 17.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53 (Ranked 269)  
 Completed: 2 (3.77%) (Ranked 34)  
@@ -14,9 +23,6 @@ Completed: 2 (3.77%) (Ranked 34)
 | 2023-04-28 | 51 | 2 |
 | 2023-04-29 | 52 | 2 |
 | 2023-05-04 | 53 | 2 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

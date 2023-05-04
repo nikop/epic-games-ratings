@@ -1,10 +1,23 @@
 # Black Widow: Recharged
 Rating: 4.25 (Ranked 775)  
 Number of Ratings: 34  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Across The Border | 79.00 |
+| I'm Alive | 53.00 |
+| Danger Ahead | 28.00 |
+| Look at Me Now | 28.00 |
+| Don't Bring Me Down | 20.00 |
+| The Fall | 19.00 |
+| Everyone's Born to Die | 17.00 |
+| Wild West Hero | 14.00 |
+| In My Own Time | 13.00 |
+| Caught in a Trap | 12.00 |
+| In For The Kill | 12.00 |
+| Hello My Old Friend | 6.00 |
+| After All | 0.90 |
+| Time of Our Life | 0.30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,740 (Ranked 98)  
 Completed: 42 (0.31%) (Ranked 116)  
@@ -21,9 +34,6 @@ Completed: 42 (0.31%) (Ranked 116)
 | 2023-05-02 | 13,685 | 42 |
 | 2023-05-03 | 13,706 | 42 |
 | 2023-05-04 | 13,740 | 42 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

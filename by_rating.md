@@ -464,7 +464,7 @@
 | 447 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,765 | 107 |
 | 447 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 490 |
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 390 |
-| 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,814 | 75 |
+| 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,818 | 75 |
 | 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 490 |
 | 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,136 | 124 |
 | 466 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 478 |
@@ -746,16 +746,16 @@
 | 737 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 482 |
 | 737 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
 | 746 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 490 |
+| 746 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 490 |
 | 746 | [Hammerting](games/h/hammerting.md) | 4.31 | 0 | 490 |
 | 746 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 490 |
 | 746 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 929 | 140 |
-| 750 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 490 |
-| 750 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.30 | 0 | 490 |
-| 750 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 490 |
-| 750 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 490 |
-| 750 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,589 | 78 |
-| 750 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 169 | 274 |
-| 750 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 490 |
+| 751 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 490 |
+| 751 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 490 |
+| 751 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 490 |
+| 751 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,589 | 78 |
+| 751 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 169 | 274 |
+| 751 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 490 |
 | 757 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 490 |
 | 757 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 490 |
 | 757 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,278,366 | 1 |
@@ -909,7 +909,7 @@
 | 907 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
 | 907 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
 | 907 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 47 | 394 |
-| 910 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
-| 911 | [Poker Club](games/p/poker_club.md) | 3.62 | 0 | 490 |
+| 910 | [Poker Club](games/p/poker_club.md) | 3.70 | 0 | 490 |
+| 911 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
 | 912 | [Adios](games/a/adios.md) | 3.50 | 0 | 490 |
 | 913 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |

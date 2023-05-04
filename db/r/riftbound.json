@@ -1,6 +1,197 @@
 {
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
+  "Achievements": [
+    {
+      "ID": "ACH_AdeptSummoner",
+      "SetID": "1od64h3",
+      "Name": "Adept Summoner",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_AdventureTime",
+      "SetID": "1od64h3",
+      "Name": "Adventure Time",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ApprenticeSummoner",
+      "SetID": "1od64h3",
+      "Name": "Apprentice Summoner",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_BraveYounglings",
+      "SetID": "1od64h3",
+      "Name": "Brave Younglings",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_CatchEmAll",
+      "SetID": "1od64h3",
+      "Name": "Catch \u0027em All",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_ChallengerReady",
+      "SetID": "1od64h3",
+      "Name": "Challenger, Ready!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CloseCall",
+      "SetID": "1od64h3",
+      "Name": "Close Call",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_EnderEnder",
+      "SetID": "1od64h3",
+      "Name": "Ender Ender",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_EvolutionRevolution",
+      "SetID": "1od64h3",
+      "Name": "Evolution Revolution",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_ExpertSummoner",
+      "SetID": "1od64h3",
+      "Name": "Expert Summoner",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_FairFight",
+      "SetID": "1od64h3",
+      "Name": "Fair Fight",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FiveOfAKind",
+      "SetID": "1od64h3",
+      "Name": "Five Of A Kind",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FriesWithThat",
+      "SetID": "1od64h3",
+      "Name": "Fries With That?",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_FullHouse",
+      "SetID": "1od64h3",
+      "Name": "Full House",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_GettingGoodAtThis",
+      "SetID": "1od64h3",
+      "Name": "Getting Good At This",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_HoldTheLine",
+      "SetID": "1od64h3",
+      "Name": "Hold The Line",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_ImAWizard",
+      "SetID": "1od64h3",
+      "Name": "I\u0027m A Wizard",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_MasterOfTheArts",
+      "SetID": "1od64h3",
+      "Name": "Master Of The Arts",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_OneHandTied",
+      "SetID": "1od64h3",
+      "Name": "One Hand Tied",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Over9000",
+      "SetID": "1od64h3",
+      "Name": "Over 9000",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_ResourceManagement",
+      "SetID": "1od64h3",
+      "Name": "Resource Management",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_Spellslinger",
+      "SetID": "1od64h3",
+      "Name": "Spellslinger",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_TacticalSpectacular",
+      "SetID": "1od64h3",
+      "Name": "Tactical Spectacular",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_UndeadSlayer",
+      "SetID": "1od64h3",
+      "Name": "Undead Slayer",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_WhoTurnedOutTheLights",
+      "SetID": "1od64h3",
+      "Name": "Who Turned Out The Lights",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WhosTheBoss",
+      "SetID": "1od64h3",
+      "Name": "Who\u0027s The Boss?",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WorkerWisp",
+      "SetID": "1od64h3",
+      "Name": "Worker Wisp",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +201,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 27,
+  "LastChanged_Achievements": "2023-05-04T19:15:19.0871836+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T19:00:20.6768227+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:03.2230423+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:20.6768205+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:19.0872032+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:00.5436307+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1od64h3",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 329
+  "Ranking_EOS_Progress": 329,
+  "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00"
 }

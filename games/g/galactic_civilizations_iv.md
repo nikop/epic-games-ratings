@@ -4,9 +4,84 @@ Number of Ratings: 429  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 89  (Ranked 335)  
 Sum: 655 (Ranked 266)  
-Diff (max vs sum): 69
+Diff (max vs sum): 69  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Colonize a Planet | 79.00 |
+| Worker Specialization | 78.00 |
+| First Contact | 74.00 |
+| Win a Battle | 67.00 |
+| Anomaly Researcher | 63.00 |
+| Unleash My Power | 62.00 |
+| Own 30 Planets | 35.00 |
+| Xenocide | 33.00 |
+| Commodity Trader | 32.00 |
+| Design a Civilization | 32.00 |
+| Design a Ship | 29.00 |
+| Commodity Seller | 26.00 |
+| Prestige Victory! | 14.00 |
+| Galactic War | 11.00 |
+| Trading Partner | 9.00 |
+| Fleet Victory | 8.00 |
+| Win as Terrans | 7.00 |
+| Win with a Custom Faction | 7.00 |
+| Gain an Ally | 6.00 |
+| War with the Unknown | 5.00 |
+| Conquest Victory! | 4.00 |
+| Win Quickly | 4.00 |
+| Pirate Cleansing | 3.00 |
+| Win an Immense Game | 3.00 |
+| Artifact Mastery | 2.00 |
+| Win as Altarians | 2.00 |
+| Win as the Yor | 2.00 |
+| Influence Victory! | 2.00 |
+| Win as Arceans | 1.00 |
+| Win as the Baratak | 1.00 |
+| Win as Festron | 1.00 |
+| Win as the Mimot | 1.00 |
+| Win as the Navigators | 0.90 |
+| Win as Torians | 0.90 |
+| Win as Xeloxi | 0.80 |
+| Win as the Drath | 0.70 |
+| Win as the Drengin | 0.70 |
+| Win as the Krynn | 0.70 |
+| Win as the Manti | 0.70 |
+| Diplomatic Victory! | 0.70 |
+| Win as the Iconians | 0.60 |
+| Win as the Iridium | 0.60 |
+| Win as the Onyx | 0.60 |
+| Iconia Reclaimed! | 0.30 |
+| Relic Hoarder | 0.20 |
+| Commodity Seller, Level 2 | 0.20 |
+| Commodity Trader - Level 2 | 0.10 |
+| Discover a Nebula | 0.10 |
+| Play for 1000 Hours | 0.10 |
+| Play for 100 Hours | 0.10 |
+| Play for 5 Hours | 0.10 |
+| It's OUR Homeworld | 0.10 |
+| Win a Multiplayer Game | 0.10 |
+| Solid Economy | 0.00 |
+| Ask Not What Your Empire Can Do For You | 0.00 |
+| Commodity Guru | 0.00 |
+| Yor Dead Iconians | 0.00 |
+| Hyperspace! | 0.00 |
+| Against the Tide | 0.00 |
+| Breeding Season | 0.00 |
+| The Orb of Draginol | 0.00 |
+| Shard of the Mithrilar | 0.00 |
+| The Everwar | 0.00 |
+| The Plague | 0.00 |
+| Veteran Crew | 0.00 |
+| Complete a Minor Civilization Quest | 0.00 |
+| Play a Multiplayer Game | 0.00 |
+| Rebuild the Retribution | 0.00 |
+| Recruit a Dozen Leaders | 0.00 |
+| Recruit a Leader | 0.00 |
+| Commodity Selling Guru | 0.00 |
+| Science Victory! | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,494 (Ranked 116)  
+Progressed: 5,495 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 5,443 | 0 |
 | 2023-05-02 | 5,465 | 0 |
 | 2023-05-03 | 5,479 | 0 |
-| 2023-05-04 | 5,494 | 0 |
+| 2023-05-04 | 5,495 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

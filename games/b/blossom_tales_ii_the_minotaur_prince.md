@@ -1,9 +1,27 @@
 # Blossom Tales II The Minotaur Prince
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Shiny New Weapons | 44.00 |
+| Key Piece I | 11.00 |
+| Completely Hooked | 11.00 |
+| Money Bags | 11.00 |
+| The Lawnmower Lady | 11.00 |
+| Lily: Warrior Princess | 11.00 |
+| Not All Who Wander | 0.00 |
+| Walking Cookbook | 0.00 |
+| The Musician | 0.00 |
+| Lily Strong | 0.00 |
+| Energy For Days | 0.00 |
+| Fruitful Offerings | 0.00 |
+| Nice Display | 0.00 |
+| Key Piece II | 0.00 |
+| A Budding Business | 0.00 |
+| Key Piece III | 0.00 |
+| The Hero | 0.00 |
+| The Ultimate Weapon | 0.00 |
+| Postmaster | 0.00 |
+| Combat Queen | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,9 +29,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 9 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

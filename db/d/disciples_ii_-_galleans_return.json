@@ -1,6 +1,7 @@
 {
   "ID": "0966e7804ea64608b0e47d841b1049b5",
   "Name": "Disciples II - Galleans Return",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:23.6598505+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:22.0340456+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:20.1432407+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:50.5290264+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.5290263+00:00",
+  "FirstSeen": "2022-12-08T18:57:33.6375458+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-12-08T18:57:33.6375458+00:00"
+  "Ranking_EOS_Progress": 378
 }

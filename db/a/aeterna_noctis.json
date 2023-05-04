@@ -1,6 +1,7 @@
 {
   "ID": "4b9bd8b8a4804e088d3412062a4f0251",
   "Name": "Aeterna Noctis",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -53,17 +54,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:43.9862529+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:53.3600307+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:21.1319447+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:53.3600291+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:43.9862575+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:19.1898088+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7okl86j",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:03.4753145+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:56.35812+00:00",
   "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
+  "FirstSeen": "2022-07-22T20:17:49.6622036+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 21,
@@ -75,5 +86,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 447,
   "Rating": 4.56,
-  "FirstSeen": "2022-07-22T20:17:49.6622036+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:56.35812+00:00"
 }

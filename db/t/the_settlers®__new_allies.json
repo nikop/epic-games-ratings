@@ -1,6 +1,7 @@
 {
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -510,15 +511,19 @@
       "NumberOfAwardsMax": 47
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:19.6684946+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:17.5030957+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:16.2708484+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T04:57:15.1730392+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
+  "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 47,
   "NumberOfAwards": 91,
@@ -529,6 +534,5 @@
   "Ranking_PopularitySum": 400,
   "Ranking_Popularity": 394,
   "Ranking_Rating": 907,
-  "Rating": 3.75,
-  "FirstSeen": "2023-02-17T13:12:44.8398615+00:00"
+  "Rating": 3.75
 }

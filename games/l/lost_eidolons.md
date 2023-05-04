@@ -1,9 +1,31 @@
 # Lost Eidolons
 Rating: 4.31 (Ranked 746)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The First Step | 69.00 |
+| First Blood | 65.00 |
+| Ready to Learn | 63.00 |
+| Monster Hunter | 54.00 |
+| Earning Trust | 51.00 |
+| Monster Slayer | 30.00 |
+| Awakening | 23.00 |
+| Huntmaster | 22.00 |
+| Complete the sidequest 'Malice and Greed' | 18.00 |
+| House Vulisica's Heirloom | 14.00 |
+| Digging Deep | 13.00 |
+| Broken Oath | 8.00 |
+| Way of the King | 6.00 |
+| Way of the Warlord | 4.00 |
+| Til We Meet Again | 4.00 |
+| The Unvanquished | 2.00 |
+| Let Us Cling Together | 2.00 |
+| Arrow in the Wind | 2.00 |
+| First Bloom | 1.00 |
+| A Promised Voyage | 1.00 |
+| Life or Death | 0.80 |
+| Someone to Protect | 0.60 |
+| Lean on Me | 0.40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 843 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -14,9 +36,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-26 | 841 | 0 |
 | 2023-04-28 | 842 | 0 |
 | 2023-04-29 | 843 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

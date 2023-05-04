@@ -1,6 +1,7 @@
 {
   "ID": "3f97c780915242898209d0e7edf9b1ec",
   "Name": "FAR: Changing Tides",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -115,14 +116,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:32.3315606+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:03.5447335+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:01.3067325+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:02.8647048+00:00",
+  "FirstSeen": "2022-07-22T20:17:44.5991869+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 33,
@@ -133,6 +138,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 212,
-  "Rating": 4.69,
-  "FirstSeen": "2022-07-22T20:17:44.5991869+00:00"
+  "Rating": 4.69
 }

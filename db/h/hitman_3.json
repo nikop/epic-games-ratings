@@ -1,6 +1,337 @@
 {
   "ID": "ed55aa5edc5941de92fd7f64de415793",
   "Name": "HITMAN 3",
+  "Achievements": [
+    {
+      "ID": "ACH_000",
+      "SetID": "62l33o1",
+      "Name": "The Result of Previous Training",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_001",
+      "SetID": "62l33o1",
+      "Name": "Cleared for Field Duty",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_002",
+      "SetID": "62l33o1",
+      "Name": "Seizing the Opportunity",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_003",
+      "SetID": "62l33o1",
+      "Name": "The Creative Assassin",
+      "Percentage": 0.7,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_004",
+      "SetID": "62l33o1",
+      "Name": "Silent Assassin",
+      "Percentage": 14,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_005",
+      "SetID": "62l33o1",
+      "Name": "Training Escalated",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_006",
+      "SetID": "62l33o1",
+      "Name": "Top of the Class",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_007",
+      "SetID": "62l33o1",
+      "Name": "A New Profile",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_008",
+      "SetID": "62l33o1",
+      "Name": "Tools of the Trade",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_009",
+      "SetID": "62l33o1",
+      "Name": "Unseen Assassin",
+      "Percentage": 46,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_010",
+      "SetID": "62l33o1",
+      "Name": "Shortcut Killer",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_011",
+      "SetID": "62l33o1",
+      "Name": "Stylish Assassin",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_012",
+      "SetID": "62l33o1",
+      "Name": "Death From Above",
+      "Percentage": 47,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_013",
+      "SetID": "62l33o1",
+      "Name": "Dune Raider",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_014",
+      "SetID": "62l33o1",
+      "Name": "Treacherous Architecture",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_015",
+      "SetID": "62l33o1",
+      "Name": "Keep Your Eyes Peeled",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_016",
+      "SetID": "62l33o1",
+      "Name": "Rise Up",
+      "Percentage": 13,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_017",
+      "SetID": "62l33o1",
+      "Name": "Stair Master",
+      "Percentage": 5,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_018",
+      "SetID": "62l33o1",
+      "Name": "Master of the Household",
+      "Percentage": 39,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_019",
+      "SetID": "62l33o1",
+      "Name": "No Stone Unturned",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_020",
+      "SetID": "62l33o1",
+      "Name": "Upstairs, Downstairs",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_021",
+      "SetID": "62l33o1",
+      "Name": "Family Feud",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_022",
+      "SetID": "62l33o1",
+      "Name": "Full House",
+      "Percentage": 9,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_023",
+      "SetID": "62l33o1",
+      "Name": "The Great Outdoors",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_024",
+      "SetID": "62l33o1",
+      "Name": "Death of the Party",
+      "Percentage": 37,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_025",
+      "SetID": "62l33o1",
+      "Name": "Followed the Trails",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_026",
+      "SetID": "62l33o1",
+      "Name": "Partied Out",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_027",
+      "SetID": "62l33o1",
+      "Name": "Bird Art",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_028",
+      "SetID": "62l33o1",
+      "Name": "Last Call",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_029",
+      "SetID": "62l33o1",
+      "Name": "Warehouse Veteran",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_030",
+      "SetID": "62l33o1",
+      "Name": "NEXUS-47",
+      "Percentage": 34,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_031",
+      "SetID": "62l33o1",
+      "Name": "Surveillance Master",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_032",
+      "SetID": "62l33o1",
+      "Name": "Future Shock",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_033",
+      "SetID": "62l33o1",
+      "Name": "Console Cowboy",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_034",
+      "SetID": "62l33o1",
+      "Name": "Icebreaker",
+      "Percentage": 7,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_035",
+      "SetID": "62l33o1",
+      "Name": "Hack the Planet",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_036",
+      "SetID": "62l33o1",
+      "Name": "The Last Tango",
+      "Percentage": 32,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_037",
+      "SetID": "62l33o1",
+      "Name": "Master the Terroir",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_038",
+      "SetID": "62l33o1",
+      "Name": "Ripe for the Picking",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_039",
+      "SetID": "62l33o1",
+      "Name": "Evil Wine Club",
+      "Percentage": 12,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_040",
+      "SetID": "62l33o1",
+      "Name": "Rich Harvest",
+      "Percentage": 6,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_041",
+      "SetID": "62l33o1",
+      "Name": "Vineyard Virtuoso",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_042",
+      "SetID": "62l33o1",
+      "Name": "Nightmare Fuel",
+      "Percentage": 31,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_043",
+      "SetID": "62l33o1",
+      "Name": "Bullet Train",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_044",
+      "SetID": "62l33o1",
+      "Name": "Count Down From 47",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_045",
+      "SetID": "62l33o1",
+      "Name": "Train Surfing",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "ACH_046",
+      "SetID": "62l33o1",
+      "Name": "Last Stop",
+      "Percentage": 10,
+      "XP": 35
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1122,6 +1453,11 @@
     {
       "Time": "2023-05-04T19:02:17.6857388+00:00",
       "NumProgressed": 1269543,
+      "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-05-04T19:17:23.3151067+00:00",
+      "NumProgressed": 1269550,
       "NumCompleted": 2058
     }
   ],
@@ -6059,16 +6395,26 @@
       "NumberOfAwardsMax": 8831
     }
   ],
-  "EOS_Completed_Percentage": 0.16,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 47,
+  "LastChanged_Achievements": "2023-05-04T19:17:23.3151061+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 3106,
+  "EOS_NewPlayers": 3113,
   "EOS_Completed": 2058,
-  "EOS_Progressed": 1269543,
-  "LastUpdate_Achievements": "2023-05-04T19:02:17.6857465+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:59.3917212+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:17.6857383+00:00",
+  "EOS_Progressed": 1269550,
+  "LastUpdate_Achievements": "2023-05-04T19:17:23.3151547+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:57.1426172+00:00",
+  "AchievementSets": [
+    {
+      "ID": "62l33o1",
+      "IsBase": true,
+      "Progressed": 1269550,
+      "Completed": 2058
+    }
+  ],
+  "EOS_Completed_Percentage": 0.16,
   "LastChanged": "2023-05-04T16:59:34.4285095+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
+  "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 8831,
   "NumberOfAwards": 65301,
@@ -6081,5 +6427,5 @@
   "Ranking_Popularity": 36,
   "Ranking_Rating": 101,
   "Rating": 4.78,
-  "FirstSeen": "2022-07-22T20:17:51.8099598+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00"
 }

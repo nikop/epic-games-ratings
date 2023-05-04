@@ -1,6 +1,99 @@
 {
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
+  "Achievements": [
+    {
+      "ID": "ANOTHER_RIDE",
+      "SetID": "1a29mp6",
+      "Name": "Another ride!",
+      "Percentage": 0.3,
+      "XP": 200
+    },
+    {
+      "ID": "BIG_LEAP",
+      "SetID": "1a29mp6",
+      "Name": "A big leap for wolfkind",
+      "Percentage": 8,
+      "XP": 40
+    },
+    {
+      "ID": "FALLEN_TREE",
+      "SetID": "1a29mp6",
+      "Name": "Sheltered by the fallen tree",
+      "Percentage": 2,
+      "XP": 90
+    },
+    {
+      "ID": "HELPING_LITTLE_ONES",
+      "SetID": "1a29mp6",
+      "Name": "Helping the little ones",
+      "Percentage": 9,
+      "XP": 40
+    },
+    {
+      "ID": "MOVE_ON",
+      "SetID": "1a29mp6",
+      "Name": "The will to move on",
+      "Percentage": 6,
+      "XP": 40
+    },
+    {
+      "ID": "REUNION",
+      "SetID": "1a29mp6",
+      "Name": "Reunion",
+      "Percentage": 6,
+      "XP": 40
+    },
+    {
+      "ID": "SLIDERS",
+      "SetID": "1a29mp6",
+      "Name": "Sliders",
+      "Percentage": 3,
+      "XP": 200
+    },
+    {
+      "ID": "SNOW_RUINS",
+      "SetID": "1a29mp6",
+      "Name": "Snow-covered ruins",
+      "Percentage": 0.4,
+      "XP": 90
+    },
+    {
+      "ID": "STARTING_DUO",
+      "SetID": "1a29mp6",
+      "Name": "Starting as a duo",
+      "Percentage": 13,
+      "XP": 40
+    },
+    {
+      "ID": "STRONGER_TOGETHER",
+      "SetID": "1a29mp6",
+      "Name": "Stronger together",
+      "Percentage": 11,
+      "XP": 40
+    },
+    {
+      "ID": "THE_END",
+      "SetID": "1a29mp6",
+      "Name": "The end",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "TRANSMISSION",
+      "SetID": "1a29mp6",
+      "Name": "Transmission",
+      "Percentage": 7,
+      "XP": 40
+    },
+    {
+      "ID": "UNEXPECTED_ENCOUNTER",
+      "SetID": "1a29mp6",
+      "Name": "Unexpected encounter",
+      "Percentage": 15,
+      "XP": 40
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -152,22 +245,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.22,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 13,
+  "LastChanged_Achievements": "2023-05-04T19:19:09.6544086+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 24,
   "EOS_Completed": 4,
   "EOS_Progressed": 1799,
-  "LastUpdate_Achievements": "2023-05-04T19:04:18.3927972+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:45.7905661+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:18.3927935+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:09.6544203+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:43.4280599+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1a29mp6",
+      "IsBase": true,
+      "Progressed": 1799,
+      "Completed": 4
+    }
+  ],
+  "EOS_Completed_Percentage": 0.22,
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
+  "FirstSeen": "2023-02-16T02:13:50.7298186+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_Progress": 146,
-  "FirstSeen": "2023-02-16T02:13:50.7298186+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00"
 }

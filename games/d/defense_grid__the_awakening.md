@@ -4,9 +4,99 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 230  (Ranked 242)  
 Sum: 1,632 (Ranked 200)  
-Diff (max vs sum): 42
+Diff (max vs sum): 42  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First Blood | 81.00 |
+| Hey! That's mine! | 78.00 |
+| Happy Returns | 77.00 |
+| Field Promotion | 74.00 |
+| Leadhead | 71.00 |
+| Eradicator | 67.00 |
+| Surplus | 65.00 |
+| I Spy | 63.00 |
+| Burn Baby Burn | 59.00 |
+| Yellow Beats Green | 55.00 |
+| Salvage Rights | 53.00 |
+| What IS that? | 50.00 |
+| Close Call | 49.00 |
+| Penny Pincher | 49.00 |
+| Pew Pew | 49.00 |
+| Arsenal | 46.00 |
+| Boot Camp | 45.00 |
+| Flawless Victory | 42.00 |
+| Confident | 40.00 |
+| Exterminator | 36.00 |
+| Sharpshooter | 33.00 |
+| Great Ball of Fire | 32.00 |
+| Not So Fast | 32.00 |
+| No Sale | 30.00 |
+| Kaboom! | 29.00 |
+| Liquidator | 29.00 |
+| High Voltage | 24.00 |
+| Filthy Rich | 19.00 |
+| Power Builder | 17.00 |
+| Pyrrhic Victory | 17.00 |
+| The Not-So-Friendly Skies | 17.00 |
+| Death From Above | 16.00 |
+| Retry | 16.00 |
+| Head Trauma | 12.00 |
+| Full Defense | 10.00 |
+| Overseer | 9.00 |
+| Annihilator | 8.00 |
+| If At First You Don't Succeed, Retry Again | 8.00 |
+| Indecisive | 6.00 |
+| Base Defender | 5.00 |
+| Relay Race | 5.00 |
+| Diversity | 3.00 |
+| Full Potential | 3.00 |
+| Tower Expert | 3.00 |
+| Minimalist | 2.00 |
+| Nail Biter | 2.00 |
+| The Long Road | 2.00 |
+| Untouchable | 2.00 |
+| Flurry | 1.00 |
+| Siege Breaker | 1.00 |
+| Well Invested | 1.00 |
+| Gun Crazy | 0.90 |
+| Planet Defender | 0.90 |
+| Xenocide | 0.90 |
+| Master Siege Breaker | 0.80 |
+| Few and Proud | 0.80 |
+| Shell-shocked | 0.70 |
+| Alien Tears | 0.50 |
+| Full House | 0.40 |
+| Kickstarter | 0.30 |
+| The Container | 0.30 |
+| Foresight is 20/20 | 0.20 |
+| Majestic Pony | 0.20 |
+| Out of Bullets | 0.20 |
+| Savant Genius | 0.20 |
+| Beating A Dead Potato | 0.10 |
+| Best Friends Forever | 0.10 |
+| Top of the Class | 0.10 |
+| Circular Hazard | 0.10 |
+| Civil Divergence | 0.10 |
+| Clean Getaway | 0.10 |
+| Combat Turmoil | 0.10 |
+| Core Container | 0.10 |
+| Faithful Companion | 0.10 |
+| Firebug | 0.10 |
+| Fully Contained | 0.10 |
+| Master Strategist | 0.10 |
+| Mostly Dead | 0.10 |
+| Clear Skies | 0.10 |
+| Overflowing | 0.10 |
+| Regional Deluge | 0.10 |
+| So Many Spaces to Build On, So Little Time | 0.10 |
+| Supreme Strategist | 0.10 |
+| A Temporal Would've Been Nice | 0.10 |
+| This is…spartan. | 0.10 |
+| Contains Trace Amounts of Gold | 0.10 |
+| You Monster | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,750 (Ranked 25)  
+Progressed: 475,751 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +110,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-01 | 475,533 | 4 |
 | 2023-05-02 | 475,627 | 4 |
 | 2023-05-03 | 475,693 | 4 |
-| 2023-05-04 | 475,750 | 4 |
+| 2023-05-04 | 475,751 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

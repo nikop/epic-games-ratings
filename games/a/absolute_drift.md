@@ -1,12 +1,31 @@
 # Absolute Drift
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 216  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Midnight Drifter | 10.00 |
+| Good Skills | 9.00 |
+| Multiplier Master | 8.00 |
+| Maverick | 7.00 |
+| The Long Drift | 5.00 |
+| Drift Line Apprentice | 3.00 |
+| Mad Skills | 3.00 |
+| Bring the Cubic Ruckus | 2.00 |
+| Jelly Donuts | 2.00 |
+| Master Drifter | 2.00 |
+| Hoon Airlines | 1.00 |
+| Midnight Master | 1.00 |
+| Spin Doctor | 1.00 |
+| Sake Bombs | 0.80 |
+| Insane Skills | 0.70 |
+| Drift Line Master | 0.60 |
+| Bacon Donuts | 0.50 |
+| Double Rainbow | 0.50 |
+| Washing Machine | 0.30 |
+| The Completionist | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,514,271 (Ranked 6)  
+Progressed: 1,514,273 (Ranked 6)  
 Completed: 597 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,10 +39,7 @@ Completed: 597 (0.04%) (Ranked 167)
 | 2023-05-01 | 1,513,751 | 595 |
 | 2023-05-02 | 1,513,946 | 595 |
 | 2023-05-03 | 1,514,123 | 595 |
-| 2023-05-04 | 1,514,271 | 597 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 1,514,273 | 597 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,6 +1,7 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -396,15 +397,19 @@
       "NumberOfAwardsMax": 37
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:22.477557+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:48.4582629+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:45.0032296+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T06:59:59.6493965+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
+  "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 37,
   "NumberOfAwards": 286,
@@ -415,6 +420,5 @@
   "Ranking_PopularitySum": 325,
   "Ranking_Popularity": 417,
   "Ranking_Rating": 599,
-  "Rating": 4.45,
-  "FirstSeen": "2022-10-25T20:04:22.7982366+00:00"
+  "Rating": 4.45
 }

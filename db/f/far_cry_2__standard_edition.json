@@ -1,6 +1,7 @@
 {
   "ID": "a0b8d4482f3d4f939f35f87a3f367865",
   "Name": "Far Cry 2: Standard Edition",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -313,14 +314,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:23.4891859+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:19.3168012+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:18.4333694+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T19:57:22.4432274+00:00",
+  "FirstSeen": "2022-07-22T20:31:40.0657396+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 60,
@@ -331,6 +336,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 775,
-  "Rating": 4.25,
-  "FirstSeen": "2022-07-22T20:31:40.0657396+00:00"
+  "Rating": 4.25
 }

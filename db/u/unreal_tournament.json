@@ -1,6 +1,7 @@
 {
   "ID": "ut",
   "Name": "Unreal Tournament",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
@@ -1522,14 +1523,18 @@
       "NumberOfAwardsMax": 458
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:00.5442917+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:30.6791363+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:27.592956+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:00:14.9879651+00:00",
+  "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 458,
   "NumberOfAwards": 3959,
@@ -1541,6 +1546,5 @@
   "Ranking_PopularitySum": 131,
   "Ranking_Popularity": 186,
   "Ranking_Rating": 272,
-  "Rating": 4.66,
-  "FirstSeen": "2022-07-22T20:21:08.0500861+00:00"
+  "Rating": 4.66
 }

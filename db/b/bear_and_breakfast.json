@@ -1,6 +1,7 @@
 {
   "ID": "6c3a09646a954c04b5ab774e5b8c861d",
   "Name": "Bear and Breakfast",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -43,15 +44,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T18:00:47.7886824+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:39.3992424+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:38.400706+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:56.9648058+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
+  "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -61,6 +66,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 142,
-  "Rating": 4.74,
-  "FirstSeen": "2022-09-15T23:31:40.3408771+00:00"
+  "Rating": 4.74
 }

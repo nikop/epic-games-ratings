@@ -1,20 +1,31 @@
 {
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:27.8074841+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:34.0427063+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:36.6403365+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:34.0427033+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:27.8074888+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:35.445776+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4o5gjp0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00"
 }

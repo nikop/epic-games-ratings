@@ -1,20 +1,31 @@
 {
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:15.5933613+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:21.3676101+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:58.4184733+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:21.3676082+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:15.5933661+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:56.3222153+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9a4jnji",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00"
 }

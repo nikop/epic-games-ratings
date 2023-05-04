@@ -1,6 +1,190 @@
 {
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
+  "Achievements": [
+    {
+      "ID": "ACH000",
+      "SetID": "6749a6l",
+      "Name": "Eeligally Ambitious",
+      "Percentage": 95,
+      "XP": 5
+    },
+    {
+      "ID": "ACH001",
+      "SetID": "6749a6l",
+      "Name": "Personal Matter",
+      "Percentage": 87,
+      "XP": 5
+    },
+    {
+      "ID": "ACH0010",
+      "SetID": "6749a6l",
+      "Name": "Table for Six",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "ACH0011",
+      "SetID": "6749a6l",
+      "Name": "After All, Why Shouldn\u0027t I Keep It?",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0012",
+      "SetID": "6749a6l",
+      "Name": "Pimp My Glide",
+      "Percentage": 46,
+      "XP": 5
+    },
+    {
+      "ID": "ACH0013",
+      "SetID": "6749a6l",
+      "Name": "Make It Rain",
+      "Percentage": 24,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0014",
+      "SetID": "6749a6l",
+      "Name": "Sharing Is Caring",
+      "Percentage": 9,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0015",
+      "SetID": "6749a6l",
+      "Name": "Devilishly Talented",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0016",
+      "SetID": "6749a6l",
+      "Name": "Heavy Tunaing",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0017",
+      "SetID": "6749a6l",
+      "Name": "Fishing for Compliments",
+      "Percentage": 5,
+      "XP": 110
+    },
+    {
+      "ID": "ACH0018",
+      "SetID": "6749a6l",
+      "Name": "Curse of the Seven Seas",
+      "Percentage": 21,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0019",
+      "SetID": "6749a6l",
+      "Name": "Pufferfish",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "ACH002",
+      "SetID": "6749a6l",
+      "Name": "But You Have Heard of Me",
+      "Percentage": 72,
+      "XP": 5
+    },
+    {
+      "ID": "ACH0020",
+      "SetID": "6749a6l",
+      "Name": "A New Legend Awaits",
+      "Percentage": 1,
+      "XP": 110
+    },
+    {
+      "ID": "ACH0021",
+      "SetID": "6749a6l",
+      "Name": "A True Dandy",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0022",
+      "SetID": "6749a6l",
+      "Name": "House Party!",
+      "Percentage": 33,
+      "XP": 5
+    },
+    {
+      "ID": "ACH0023",
+      "SetID": "6749a6l",
+      "Name": "I\u0027m Somewhat of a Colonial Force Myself",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "ACH0024",
+      "SetID": "6749a6l",
+      "Name": "Pirate King",
+      "Percentage": 0.8,
+      "XP": 110
+    },
+    {
+      "ID": "ACH0025",
+      "SetID": "6749a6l",
+      "Name": "Morally Flexible",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "ACH003",
+      "SetID": "6749a6l",
+      "Name": "Double the Barrels, double the Fun",
+      "Percentage": 55,
+      "XP": 5
+    },
+    {
+      "ID": "ACH004",
+      "SetID": "6749a6l",
+      "Name": "No Half Measures",
+      "Percentage": 88,
+      "XP": 5
+    },
+    {
+      "ID": "ACH005",
+      "SetID": "6749a6l",
+      "Name": "Head First",
+      "Percentage": 15,
+      "XP": 5
+    },
+    {
+      "ID": "ACH006",
+      "SetID": "6749a6l",
+      "Name": "... And Where Do the Stories Come From?",
+      "Percentage": 41,
+      "XP": 5
+    },
+    {
+      "ID": "ACH007",
+      "SetID": "6749a6l",
+      "Name": "To the World\u0027s End",
+      "Percentage": 12,
+      "XP": 5
+    },
+    {
+      "ID": "ACH008",
+      "SetID": "6749a6l",
+      "Name": "Oooh, We\u0027re Half Way There",
+      "Percentage": 0.7,
+      "XP": 50
+    },
+    {
+      "ID": "ACH009",
+      "SetID": "6749a6l",
+      "Name": "O Captain! My Captain!",
+      "Percentage": 0.1,
+      "XP": 110
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -445,17 +629,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 26,
+  "LastChanged_Achievements": "2023-05-04T19:20:04.6434325+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 59,
   "EOS_Completed": 0,
   "EOS_Progressed": 15220,
-  "LastUpdate_Achievements": "2023-05-04T19:05:13.8994217+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:37.1438153+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:13.899418+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:04.6434545+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:33.516435+00:00",
+  "AchievementSets": [
+    {
+      "ID": "6749a6l",
+      "IsBase": true,
+      "Progressed": 15220,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-10T20:57:46.3216703+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
+  "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -466,5 +660,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 901,
   "Rating": 3.81,
-  "FirstSeen": "2023-01-19T15:57:46.7735502+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00"
 }

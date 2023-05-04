@@ -1,6 +1,7 @@
 {
   "ID": "5bbeacb9481f4200965e10ac9eaf267d",
   "Name": "Basingstoke",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:10.4097343+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:41.0967544+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:40.0048668+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:07.3817856+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.3817855+00:00",
+  "FirstSeen": "2022-07-22T20:27:18.6743947+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:27:18.6743947+00:00"
+  "Ranking_EOS_Progress": 378
 }

@@ -1,6 +1,7 @@
 {
   "ID": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "Name": "3 out of 10: Season Two",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -198,14 +199,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:39.348706+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:04.4980943+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:03.4059328+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:46.1919527+00:00",
+  "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 52,
@@ -216,6 +221,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 746,
-  "Rating": 4.31,
-  "FirstSeen": "2022-07-22T20:24:10.8158493+00:00"
+  "Rating": 4.31
 }

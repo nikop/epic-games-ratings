@@ -1,6 +1,428 @@
 {
   "ID": "f3b63c1a16ed4e78973359dbfaebbd1f",
   "Name": "Rogue Spirit",
+  "Achievements": [
+    {
+      "ID": "BlinkMaster",
+      "SetID": "b42i7am",
+      "Name": "Blink Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "BodyBlastMaster",
+      "SetID": "b42i7am",
+      "Name": "Body Blast Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "BodySnatcherChampion",
+      "SetID": "b42i7am",
+      "Name": "Body Snatcher Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "BodySpawnMaster",
+      "SetID": "b42i7am",
+      "Name": "Body Spawn Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "BodySwapper",
+      "SetID": "b42i7am",
+      "Name": "Body Swapper",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ColdSkinMaster",
+      "SetID": "b42i7am",
+      "Name": "Cold Skin Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "DashMastery",
+      "SetID": "b42i7am",
+      "Name": "Dash Mastery",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "DeathDefeated",
+      "SetID": "b42i7am",
+      "Name": "Death Defeated",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "DecayDefeated",
+      "SetID": "b42i7am",
+      "Name": "Decay Defeated",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "DemonButcher",
+      "SetID": "b42i7am",
+      "Name": "Demon Butcher",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "DemonKingDefeated",
+      "SetID": "b42i7am",
+      "Name": "Demon King Defeated",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "DominateMaster",
+      "SetID": "b42i7am",
+      "Name": "Dominate Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EarthShatterMaster",
+      "SetID": "b42i7am",
+      "Name": "Earth Shatter Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "ElectricTrapMaster",
+      "SetID": "b42i7am",
+      "Name": "Electric Trap Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ElementalButcher",
+      "SetID": "b42i7am",
+      "Name": "Elemental Butcher",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ElementalMastery",
+      "SetID": "b42i7am",
+      "Name": "Elemental Mastery",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "ElementalRouletteChampion",
+      "SetID": "b42i7am",
+      "Name": "Elemental Roulette Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ElementalistChampion",
+      "SetID": "b42i7am",
+      "Name": "Elementalist Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "EliteButcher",
+      "SetID": "b42i7am",
+      "Name": "Elite Butcher",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "FamiliarCatcher",
+      "SetID": "b42i7am",
+      "Name": "Familiar Catcher",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "FamiliarMaster",
+      "SetID": "b42i7am",
+      "Name": "Familiar Master",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "FamiliarTrainer",
+      "SetID": "b42i7am",
+      "Name": "Familiar Trainer",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "FamineDefeated",
+      "SetID": "b42i7am",
+      "Name": "Famine Defeated",
+      "Percentage": 29,
+      "XP": 50
+    },
+    {
+      "ID": "FireBlastMaster",
+      "SetID": "b42i7am",
+      "Name": "Fire Blast Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "FireTornadoMaster",
+      "SetID": "b42i7am",
+      "Name": "Fire Tornado Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "FlamethrowerMaster",
+      "SetID": "b42i7am",
+      "Name": "Flamethrower Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "FrostWallMaster",
+      "SetID": "b42i7am",
+      "Name": "Frost Wall Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "FrozenOrbMaster",
+      "SetID": "b42i7am",
+      "Name": "Frozen Orb Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GhostbusterChampion",
+      "SetID": "b42i7am",
+      "Name": "Ghostbuster Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "GlueBombMaster",
+      "SetID": "b42i7am",
+      "Name": "Glue Bomb Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "GoldCollector",
+      "SetID": "b42i7am",
+      "Name": "Gold Collector",
+      "Percentage": 24,
+      "XP": 15
+    },
+    {
+      "ID": "GroupFightMastery",
+      "SetID": "b42i7am",
+      "Name": "Group Fight Mastery",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "HardModeChampion",
+      "SetID": "b42i7am",
+      "Name": "Hard Mode Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ImmobilizeMaster",
+      "SetID": "b42i7am",
+      "Name": "Immobilize Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "LandMineMaster",
+      "SetID": "b42i7am",
+      "Name": "Land Mine Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "Liberator",
+      "SetID": "b42i7am",
+      "Name": "Liberator",
+      "Percentage": 41,
+      "XP": 15
+    },
+    {
+      "ID": "LoneWolfChampion",
+      "SetID": "b42i7am",
+      "Name": "Lone Wolf Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "MagneticGrenadeMaster",
+      "SetID": "b42i7am",
+      "Name": "Magnetic Grenade Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "MasterAssassin",
+      "SetID": "b42i7am",
+      "Name": "Master Assassin",
+      "Percentage": 12,
+      "XP": 15
+    },
+    {
+      "ID": "MasterButcher",
+      "SetID": "b42i7am",
+      "Name": "Master Butcher",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ParryMastery",
+      "SetID": "b42i7am",
+      "Name": "Parry Mastery",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "Perceptive",
+      "SetID": "b42i7am",
+      "Name": "Perceptive",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "PossessMastery",
+      "SetID": "b42i7am",
+      "Name": "Possess Mastery",
+      "Percentage": 18,
+      "XP": 10
+    },
+    {
+      "ID": "ProteciveDomeMaster",
+      "SetID": "b42i7am",
+      "Name": "Protective Dome Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ReanimateMaster",
+      "SetID": "b42i7am",
+      "Name": "Reanimate Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "RogueSpirit",
+      "SetID": "b42i7am",
+      "Name": "Rogue Spirit",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "SecretSearcher",
+      "SetID": "b42i7am",
+      "Name": "Secret Searcher",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "Shopaholic",
+      "SetID": "b42i7am",
+      "Name": "Shopaholic",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ShotgunChampion",
+      "SetID": "b42i7am",
+      "Name": "Shotgun Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "SilentAssassin",
+      "SetID": "b42i7am",
+      "Name": "Silent Assassin",
+      "Percentage": 47,
+      "XP": 15
+    },
+    {
+      "ID": "SkilfulChampion",
+      "SetID": "b42i7am",
+      "Name": "Skilful Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "SkillAdept",
+      "SetID": "b42i7am",
+      "Name": "Skill Adept",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "SkillFinder",
+      "SetID": "b42i7am",
+      "Name": "Skill Finder",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "SkillMaster",
+      "SetID": "b42i7am",
+      "Name": "Skill Master",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "SneakyChampion",
+      "SetID": "b42i7am",
+      "Name": "Sneaky Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "SprinterChampion",
+      "SetID": "b42i7am",
+      "Name": "Sprinter Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ThunderstormMaster",
+      "SetID": "b42i7am",
+      "Name": "Thunderstorm Master",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "TokenCollector",
+      "SetID": "b42i7am",
+      "Name": "Token Collector",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "VanishMaster",
+      "SetID": "b42i7am",
+      "Name": "Vanish Master",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "WarDefeated",
+      "SetID": "b42i7am",
+      "Name": "War Defeated",
+      "Percentage": 6,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +439,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 60,
+  "LastChanged_Achievements": "2023-05-04T19:17:22.2804453+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-04T19:02:16.3876414+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:51.4492879+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:16.3876388+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:22.2804988+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:49.8487176+00:00",
+  "AchievementSets": [
+    {
+      "ID": "b42i7am",
+      "IsBase": true,
+      "Progressed": 17,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
+  "FirstSeen": "2023-03-16T13:13:35.7951452+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,
-  "FirstSeen": "2023-03-16T13:13:35.7951452+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00"
 }

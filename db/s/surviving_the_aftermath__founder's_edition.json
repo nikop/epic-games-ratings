@@ -1,6 +1,421 @@
 {
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath: Founder\u0027s Edition",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "8idi9ml",
+      "Name": "Leader",
+      "Percentage": 60,
+      "XP": 5
+    },
+    {
+      "ID": "10",
+      "SetID": "8idi9ml",
+      "Name": "Friendly",
+      "Percentage": 16,
+      "XP": 5
+    },
+    {
+      "ID": "11",
+      "SetID": "8idi9ml",
+      "Name": "Really Friendly",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "12",
+      "SetID": "8idi9ml",
+      "Name": "The Friendliest",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "13",
+      "SetID": "8idi9ml",
+      "Name": "Explorer",
+      "Percentage": 53,
+      "XP": 5
+    },
+    {
+      "ID": "14",
+      "SetID": "8idi9ml",
+      "Name": "Famous Explorer",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "15",
+      "SetID": "8idi9ml",
+      "Name": "Legendary Explorer",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "16",
+      "SetID": "8idi9ml",
+      "Name": "Adventurer",
+      "Percentage": 41,
+      "XP": 5
+    },
+    {
+      "ID": "17",
+      "SetID": "8idi9ml",
+      "Name": "Famous Adventurer",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "18",
+      "SetID": "8idi9ml",
+      "Name": "Legendary Adventurer",
+      "Percentage": 0.8,
+      "XP": 20
+    },
+    {
+      "ID": "19",
+      "SetID": "8idi9ml",
+      "Name": "Healer",
+      "Percentage": 52,
+      "XP": 5
+    },
+    {
+      "ID": "2",
+      "SetID": "8idi9ml",
+      "Name": "Local Leader",
+      "Percentage": 35,
+      "XP": 10
+    },
+    {
+      "ID": "20",
+      "SetID": "8idi9ml",
+      "Name": "Famous Healer",
+      "Percentage": 37,
+      "XP": 10
+    },
+    {
+      "ID": "21",
+      "SetID": "8idi9ml",
+      "Name": "The Great Healer",
+      "Percentage": 30,
+      "XP": 20
+    },
+    {
+      "ID": "22",
+      "SetID": "8idi9ml",
+      "Name": "First Step",
+      "Percentage": 69,
+      "XP": 5
+    },
+    {
+      "ID": "23",
+      "SetID": "8idi9ml",
+      "Name": "New Opportunities",
+      "Percentage": 34,
+      "XP": 10
+    },
+    {
+      "ID": "24",
+      "SetID": "8idi9ml",
+      "Name": "It\u0027s a Finnish Thing",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "25",
+      "SetID": "8idi9ml",
+      "Name": "Cleaner",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "26",
+      "SetID": "8idi9ml",
+      "Name": "Big Game Hunter",
+      "Percentage": 16,
+      "XP": 10
+    },
+    {
+      "ID": "27",
+      "SetID": "8idi9ml",
+      "Name": "Energized",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "28",
+      "SetID": "8idi9ml",
+      "Name": "Merchant",
+      "Percentage": 21,
+      "XP": 5
+    },
+    {
+      "ID": "29",
+      "SetID": "8idi9ml",
+      "Name": "Trader",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "3",
+      "SetID": "8idi9ml",
+      "Name": "Great Leader",
+      "Percentage": 22,
+      "XP": 25
+    },
+    {
+      "ID": "30",
+      "SetID": "8idi9ml",
+      "Name": "Mogul",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "31",
+      "SetID": "8idi9ml",
+      "Name": "Ranch Hand",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "32",
+      "SetID": "8idi9ml",
+      "Name": "Slimy yet Satisfying",
+      "Percentage": 0.8,
+      "XP": 15
+    },
+    {
+      "ID": "33",
+      "SetID": "8idi9ml",
+      "Name": "Around the World",
+      "Percentage": 15,
+      "XP": 15
+    },
+    {
+      "ID": "34",
+      "SetID": "8idi9ml",
+      "Name": "Ice Lakes",
+      "Percentage": 22,
+      "XP": 10
+    },
+    {
+      "ID": "35",
+      "SetID": "8idi9ml",
+      "Name": "War Never Changes",
+      "Percentage": 19,
+      "XP": 20
+    },
+    {
+      "ID": "36",
+      "SetID": "8idi9ml",
+      "Name": "Luxurious Living",
+      "Percentage": 3,
+      "XP": 40
+    },
+    {
+      "ID": "37",
+      "SetID": "8idi9ml",
+      "Name": "Spreading Influence",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "38",
+      "SetID": "8idi9ml",
+      "Name": "Aspiring Inventor",
+      "Percentage": 44,
+      "XP": 10
+    },
+    {
+      "ID": "39",
+      "SetID": "8idi9ml",
+      "Name": "Rocket Surgeon",
+      "Percentage": 19,
+      "XP": 20
+    },
+    {
+      "ID": "4",
+      "SetID": "8idi9ml",
+      "Name": "Catastrofan",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "40",
+      "SetID": "8idi9ml",
+      "Name": "Bread and Circuses",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "41",
+      "SetID": "8idi9ml",
+      "Name": "New Eden",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "42",
+      "SetID": "8idi9ml",
+      "Name": "Diplomat",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "43",
+      "SetID": "8idi9ml",
+      "Name": "Prepared for Anything",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "44",
+      "SetID": "8idi9ml",
+      "Name": "Fun and Games",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "45",
+      "SetID": "8idi9ml",
+      "Name": "Look, no Hands!",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "46",
+      "SetID": "8idi9ml",
+      "Name": "Finders, Keepers",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "47",
+      "SetID": "8idi9ml",
+      "Name": "The Long Haul",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "48",
+      "SetID": "8idi9ml",
+      "Name": "Feng Shui",
+      "Percentage": 0.9,
+      "XP": 10
+    },
+    {
+      "ID": "49",
+      "SetID": "8idi9ml",
+      "Name": "Mentor",
+      "Percentage": 22,
+      "XP": 10
+    },
+    {
+      "ID": "5",
+      "SetID": "8idi9ml",
+      "Name": "Big Catastrofan",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "50",
+      "SetID": "8idi9ml",
+      "Name": "Bookworm",
+      "Percentage": 14,
+      "XP": 20
+    },
+    {
+      "ID": "51",
+      "SetID": "8idi9ml",
+      "Name": "Sky Burial",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "52",
+      "SetID": "8idi9ml",
+      "Name": "A Closer Look",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "53",
+      "SetID": "8idi9ml",
+      "Name": "Amped Up",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "54",
+      "SetID": "8idi9ml",
+      "Name": "Top Notch",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "55",
+      "SetID": "8idi9ml",
+      "Name": "Doomsday is canceled",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "56",
+      "SetID": "8idi9ml",
+      "Name": "Choo-choo!",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "57",
+      "SetID": "8idi9ml",
+      "Name": "Finnished",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "58",
+      "SetID": "8idi9ml",
+      "Name": "Tailored to fit",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "59",
+      "SetID": "8idi9ml",
+      "Name": "Customized calamities",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "6",
+      "SetID": "8idi9ml",
+      "Name": "Biggest Catastrofan",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "7",
+      "SetID": "8idi9ml",
+      "Name": "Survivor",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "8",
+      "SetID": "8idi9ml",
+      "Name": "Real Survivor",
+      "Percentage": 21,
+      "XP": 20
+    },
+    {
+      "ID": "9",
+      "SetID": "8idi9ml",
+      "Name": "True Survivor",
+      "Percentage": 1,
+      "XP": 50
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1850,16 +2265,26 @@
       "NumberOfAwardsMax": 99
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 59,
+  "LastChanged_Achievements": "2023-05-04T19:19:49.2081247+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 322,
   "EOS_Completed": 0,
   "EOS_Progressed": 4876,
-  "LastUpdate_Achievements": "2023-05-04T19:04:58.4585256+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:19.4451009+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:58.4585186+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:49.2081838+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:17.7093155+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8idi9ml",
+      "IsBase": true,
+      "Progressed": 4876,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:00:01.1569445+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
+  "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 99,
   "NumberOfAwards": 651,
@@ -1872,5 +2297,5 @@
   "Ranking_Popularity": 321,
   "Ranking_Rating": 574,
   "Rating": 4.47,
-  "FirstSeen": "2022-07-22T20:25:34.030407+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00"
 }

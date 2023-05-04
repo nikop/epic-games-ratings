@@ -1,6 +1,7 @@
 {
   "ID": "a44efc703f1845c685975b5f0c251dba",
   "Name": "REZ PLZ",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:37.2655448+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:13.6802044+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:11.8953443+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:49.801033+00:00",
   "FirstSeenRating": "2023-03-31T05:57:49.8010329+00:00",
+  "FirstSeen": "2022-08-27T14:02:21.9384589+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-08-27T14:02:21.9384589+00:00"
+  "Ranking_EOS_Progress": 378
 }

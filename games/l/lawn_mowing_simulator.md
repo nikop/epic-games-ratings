@@ -4,9 +4,66 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 179  (Ranked 265)  
 Sum: 957 (Ranked 229)  
-Diff (max vs sum): 36
+Diff (max vs sum): 36  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The dream begins | 82.00 |
+| Every story has a beginning | 37.00 |
+| The first of many | 32.00 |
+| Positive word of mouth | 18.00 |
+| Lawn in the U.S.A. | 15.00 |
+| Blade Runner | 9.00 |
+| Credible | 7.00 |
+| Teamwork makes the dream work | 5.00 |
+| Bigger and better | 4.00 |
+| Aggressive expansion | 4.00 |
+| Where there's muck there's brass | 3.00 |
+| Size isn't everything | 3.00 |
+| Established | 3.00 |
+| Mighty Mowing Park Ranger | 2.00 |
+| Close shave | 2.00 |
+| Every good deed… | 2.00 |
+| Leaner and meaner | 2.00 |
+| First step on the ladder | 2.00 |
+| Trusted | 2.00 |
+| Fighting on all fronts | 1.00 |
+| The top of the mountain | 1.00 |
+| Lawn & Order | 0.90 |
+| Professional | 0.90 |
+| Earn your stripes | 0.80 |
+| Jack of all trades | 0.80 |
+| All hands on deck | 0.80 |
+| Worked your grass off | 0.70 |
+| The grass is always greener | 0.60 |
+| Phoenix rises | 0.40 |
+| Cut Loose | 0.40 |
+| Esteemed | 0.40 |
+| In it for the long haul | 0.20 |
+| Hard times | 0.20 |
+| Distinguished | 0.20 |
+| Amateur mower | 0.10 |
+| Expert mower | 0.10 |
+| Professional mower | 0.10 |
+| Lawn on the 4th of July | 0.10 |
+| Zero to hero | 0.10 |
+| A seat at the round table | 0.10 |
+| Home game | 0.10 |
+| Excalibur? | 0.10 |
+| An axe to grind | 0.10 |
+| Elderly chap, big grey beard, pointy hat. | 0.10 |
+| Head of the family | 0.10 |
+| Spared no expense | 0.10 |
+| We’re going to make a fortune with this place | 0.10 |
+| Don’t go into the long grass! | 0.10 |
+| Clever girl | 0.10 |
+| We have a T-Rex | 0.10 |
+| Welcome to Dino Safari! | 0.10 |
+| Centurion | 0.10 |
+| Lawn Enforcement Officer | 0.10 |
+| Mo mowers, mo problems | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609,248 (Ranked 19)  
+Progressed: 609,259 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +77,7 @@ Completed: 9 (0.00%) (Ranked 191)
 | 2023-05-01 | 608,241 | 9 |
 | 2023-05-02 | 608,630 | 9 |
 | 2023-05-03 | 608,996 | 9 |
-| 2023-05-04 | 609,248 | 9 |
+| 2023-05-04 | 609,259 | 9 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

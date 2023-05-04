@@ -1,20 +1,31 @@
 {
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3 - Pre-Purchase",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:03.002608+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:04.2492776+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:19.0529172+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:04.2492726+00:00",
-  "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:03.0026165+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:18.0516693+00:00",
+  "AchievementSets": [
+    {
+      "ID": "gagif7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00"
 }

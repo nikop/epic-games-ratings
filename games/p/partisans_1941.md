@@ -1,10 +1,39 @@
 # Partisans 1941
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 98  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| E1M1 | 25.00 |
+| Grenadier | 24.00 |
+| War Never Changes | 24.00 |
+| Heroes Never Die | 22.00 |
+| Mosquito bite | 21.00 |
+| Spice It Up | 19.00 |
+| Agent 47 | 16.00 |
+| You're Gonna Go Far, Kid | 16.00 |
+| Bomberman | 16.00 |
+| Death to the Oppressor! | 12.00 |
+| The Gang's All Here | 10.00 |
+| Your Answer | 9.00 |
+| The Big Bertha | 8.00 |
+| Game Over | 7.00 |
+| One by One | 7.00 |
+| Lock, Stock | 5.00 |
+| Payback Time | 4.00 |
+| No Witness | 3.00 |
+| Strategist | 2.00 |
+| Unbreakable Wall | 1.00 |
+| Do a Barrel Roll! | 0.70 |
+| Experienced Strategist | 0.70 |
+| Tough as Nails | 0.30 |
+| How?! | 0.30 |
+| We Weren't There | 0.20 |
+| Commandos | 0.10 |
+| A Little Culture | 0.10 |
+| Inspector General | 0.00 |
+| Defense of Steel | 0.00 |
+| Scout | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 869 (Ranked 164)  
 Completed: 1 (0.12%) (Ranked 146)  
@@ -21,9 +50,6 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-02 | 864 | 1 |
 | 2023-05-03 | 867 | 1 |
 | 2023-05-04 | 869 | 1 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

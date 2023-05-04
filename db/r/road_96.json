@@ -1,6 +1,92 @@
 {
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
+  "Achievements": [
+    {
+      "ID": "almostthere",
+      "SetID": "8oef5bg",
+      "Name": "Almost There?",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "bordermaster",
+      "SetID": "8oef5bg",
+      "Name": "Border Master",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "campaign",
+      "SetID": "8oef5bg",
+      "Name": "Campaign Funder",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "catperson",
+      "SetID": "8oef5bg",
+      "Name": "Cat Person",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "collect",
+      "SetID": "8oef5bg",
+      "Name": "Collect \u0027em All",
+      "Percentage": 0,
+      "XP": 120
+    },
+    {
+      "ID": "hardchoice",
+      "SetID": "8oef5bg",
+      "Name": "Hard Choice",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "helpfriend",
+      "SetID": "8oef5bg",
+      "Name": "Help a Friend",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "homesick",
+      "SetID": "8oef5bg",
+      "Name": "Homesick",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "lightindarkness",
+      "SetID": "8oef5bg",
+      "Name": "A Light in the Darkness",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "oldpro",
+      "SetID": "8oef5bg",
+      "Name": "Old Pro",
+      "Percentage": 0,
+      "XP": 120
+    },
+    {
+      "ID": "roadpals",
+      "SetID": "8oef5bg",
+      "Name": "Road Pals",
+      "Percentage": 0,
+      "XP": 80
+    },
+    {
+      "ID": "stoneafterstone",
+      "SetID": "8oef5bg",
+      "Name": "Stone After Stone",
+      "Percentage": 0,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -273,16 +359,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:18:46.0597189+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:03:53.3460629+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:21.5932479+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:53.3460619+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:46.0597306+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:20.0109992+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8oef5bg",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T21:58:23.8160555+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00",
+  "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 86,
@@ -294,5 +390,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 337,
   "Rating": 4.62,
-  "FirstSeen": "2022-07-22T20:25:33.5631582+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00"
 }

@@ -1,6 +1,295 @@
 {
   "ID": "53ab8bb7c3674b058a39a5ae550fc74b",
   "Name": "Danger Scavenger",
+  "Achievements": [
+    {
+      "ID": "ACH_CANT_TOUCH_THIS",
+      "SetID": "3k4kph0",
+      "Name": "Can\u0027t touch this!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_CHAMPION",
+      "SetID": "3k4kph0",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_CHINATOWN",
+      "SetID": "3k4kph0",
+      "Name": "Chinatown",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_CLUMSY",
+      "SetID": "3k4kph0",
+      "Name": "Clumsy",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_DEMOLITION_MAN",
+      "SetID": "3k4kph0",
+      "Name": "Demolition man",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DISCOVERER",
+      "SetID": "3k4kph0",
+      "Name": "Discoverer",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_DONT_COUNT_ON_ME",
+      "SetID": "3k4kph0",
+      "Name": "Don\u0027t count on me",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_EARTHS_BLOOD",
+      "SetID": "3k4kph0",
+      "Name": "Earth\u0027s blood",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_END_OF_TRANSMISSION",
+      "SetID": "3k4kph0",
+      "Name": "End of transmission",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_ENGINEER_UNLOCKED",
+      "SetID": "3k4kph0",
+      "Name": "Keiko unlocked",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_EXTREME_COLLECTOR",
+      "SetID": "3k4kph0",
+      "Name": "Extreme collector",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_GET_USED_TO_IT",
+      "SetID": "3k4kph0",
+      "Name": "Get used to it",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_GODLIKE",
+      "SetID": "3k4kph0",
+      "Name": "Godlike",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_GUN_LOVER",
+      "SetID": "3k4kph0",
+      "Name": "Gun lover",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_HACKERMAN",
+      "SetID": "3k4kph0",
+      "Name": "HACKERMAN",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_HACKER_UNLOCKED",
+      "SetID": "3k4kph0",
+      "Name": "Echo unlocked",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_HOARDER",
+      "SetID": "3k4kph0",
+      "Name": "Hoarder",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_HUH_WHATS_THAT",
+      "SetID": "3k4kph0",
+      "Name": "Huh... what\u0027s that?",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_I_LOVE_YOU_300",
+      "SetID": "3k4kph0",
+      "Name": "I love you",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_MALWARE_COLLECTOR",
+      "SetID": "3k4kph0",
+      "Name": "Malware collector",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_MANIC_SCAVENGER",
+      "SetID": "3k4kph0",
+      "Name": "Manic Scavenger",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_NEW_GODS",
+      "SetID": "3k4kph0",
+      "Name": "New Gods",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_NO_YOU_CANNOT_FLY",
+      "SetID": "3k4kph0",
+      "Name": "No, you cannot fly",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_ON_THE_EDGE",
+      "SetID": "3k4kph0",
+      "Name": "On the edge",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_OVERPOWERED",
+      "SetID": "3k4kph0",
+      "Name": "Overpowered",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_OVER_9000",
+      "SetID": "3k4kph0",
+      "Name": "Over 9000!",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_PACIFIST",
+      "SetID": "3k4kph0",
+      "Name": "Pacifist",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_PWN3D",
+      "SetID": "3k4kph0",
+      "Name": "pwn3d",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_PYROMANIAC",
+      "SetID": "3k4kph0",
+      "Name": "Pyromaniac",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_SCRAP_MAGNATE",
+      "SetID": "3k4kph0",
+      "Name": "Scrap magnate",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_SILVERHAND",
+      "SetID": "3k4kph0",
+      "Name": "Silverhand",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_TEARS_IN_RAIN",
+      "SetID": "3k4kph0",
+      "Name": "Tears in rain",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THEY_CALL_ME_DOC",
+      "SetID": "3k4kph0",
+      "Name": "They call me Doc",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_THE_WEAPON_IS_EVERYTHING_EVERYTHING_IS_A_WEAPON",
+      "SetID": "3k4kph0",
+      "Name": "The weapon is everything, everything is a weapon",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_WIN_CAPTAIN",
+      "SetID": "3k4kph0",
+      "Name": "Congrats, Captain!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_ECHO",
+      "SetID": "3k4kph0",
+      "Name": "Hacking completed, Echo!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_HUNTER",
+      "SetID": "3k4kph0",
+      "Name": "HUN-73R: mission completed!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_KEIKO",
+      "SetID": "3k4kph0",
+      "Name": "You did it, Keiko!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_PROFESSOR",
+      "SetID": "3k4kph0",
+      "Name": "You\u0027ve outsmarted them, Professor!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_WIN_RHINO",
+      "SetID": "3k4kph0",
+      "Name": "Nice job, Rhino!",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_YOU_DID_IT",
+      "SetID": "3k4kph0",
+      "Name": "You did it!",
+      "Percentage": 0,
+      "XP": 60
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +300,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 41,
+  "LastChanged_Achievements": "2023-05-04T19:19:58.1864242+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:07.180397+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:30.0226247+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:07.1803952+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:58.1864576+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:26.9648669+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3k4kph0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:21.3680112+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:27.141889+00:00",
   "FirstSeenRating": "2023-03-31T05:57:21.3680111+00:00",
+  "FirstSeen": "2022-12-30T02:05:07.3432153+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-12-30T02:05:07.3432153+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:27.141889+00:00"
 }

@@ -1,6 +1,141 @@
 {
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "41h3j82",
+      "Name": "Welcome to Stilesville",
+      "Percentage": 90,
+      "XP": 50
+    },
+    {
+      "ID": "10",
+      "SetID": "41h3j82",
+      "Name": "Born to Win",
+      "Percentage": 26,
+      "XP": 70
+    },
+    {
+      "ID": "11",
+      "SetID": "41h3j82",
+      "Name": "Creating New Trends",
+      "Percentage": 16,
+      "XP": 70
+    },
+    {
+      "ID": "12",
+      "SetID": "41h3j82",
+      "Name": "Stilesville Hidden Style",
+      "Percentage": 32,
+      "XP": 50
+    },
+    {
+      "ID": "13",
+      "SetID": "41h3j82",
+      "Name": "Barcelona Hidden Style",
+      "Percentage": 16,
+      "XP": 50
+    },
+    {
+      "ID": "14",
+      "SetID": "41h3j82",
+      "Name": "Seoul Hidden Style",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "15",
+      "SetID": "41h3j82",
+      "Name": "Talented Photographer",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "16",
+      "SetID": "41h3j82",
+      "Name": "Xtremely Cool Pictures",
+      "Percentage": 3,
+      "XP": 50
+    },
+    {
+      "ID": "17",
+      "SetID": "41h3j82",
+      "Name": "Trendy Selfies",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "18",
+      "SetID": "41h3j82",
+      "Name": "Exclusive Photoshoot",
+      "Percentage": 0,
+      "XP": 70
+    },
+    {
+      "ID": "19",
+      "SetID": "41h3j82",
+      "Name": "Best Gala Ever",
+      "Percentage": 16,
+      "XP": 70
+    },
+    {
+      "ID": "2",
+      "SetID": "41h3j82",
+      "Name": "Welcome to Barcelona",
+      "Percentage": 48,
+      "XP": 50
+    },
+    {
+      "ID": "3",
+      "SetID": "41h3j82",
+      "Name": "Welcome to Seoul",
+      "Percentage": 26,
+      "XP": 70
+    },
+    {
+      "ID": "4",
+      "SetID": "41h3j82",
+      "Name": "Welcome to the The Stylin\u0027 Soiree",
+      "Percentage": 16,
+      "XP": 70
+    },
+    {
+      "ID": "5",
+      "SetID": "41h3j82",
+      "Name": "We will need a bigger wardrobe",
+      "Percentage": 26,
+      "XP": 70
+    },
+    {
+      "ID": "6",
+      "SetID": "41h3j82",
+      "Name": "Scooter Race",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "7",
+      "SetID": "41h3j82",
+      "Name": "Roller Race",
+      "Percentage": 26,
+      "XP": 15
+    },
+    {
+      "ID": "8",
+      "SetID": "41h3j82",
+      "Name": "Hoverboard Race",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "9",
+      "SetID": "41h3j82",
+      "Name": "Talented Performer",
+      "Percentage": 52,
+      "XP": 70
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +157,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 19,
+  "LastChanged_Achievements": "2023-05-04T19:19:02.5408989+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 31,
-  "LastUpdate_Achievements": "2023-05-04T19:04:11.0322844+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:36.2580477+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:11.0322821+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:02.5409138+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:34.6425427+00:00",
+  "AchievementSets": [
+    {
+      "ID": "41h3j82",
+      "IsBase": true,
+      "Progressed": 31,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
+  "FirstSeen": "2023-03-03T02:22:16.5270322+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 284,
-  "FirstSeen": "2023-03-03T02:22:16.5270322+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00"
 }

@@ -1,6 +1,267 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "7ko8h8f",
+      "Name": "Last Survivor",
+      "Percentage": 4,
+      "XP": 100
+    },
+    {
+      "ID": "10",
+      "SetID": "7ko8h8f",
+      "Name": "Marksman Master",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "11",
+      "SetID": "7ko8h8f",
+      "Name": "Marksman Expert",
+      "Percentage": 9,
+      "XP": 20
+    },
+    {
+      "ID": "12",
+      "SetID": "7ko8h8f",
+      "Name": "Marksman Novice",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "13",
+      "SetID": "7ko8h8f",
+      "Name": "Nade King Master",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "14",
+      "SetID": "7ko8h8f",
+      "Name": "Nade King Expert",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "15",
+      "SetID": "7ko8h8f",
+      "Name": "Nade King Novice",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "16",
+      "SetID": "7ko8h8f",
+      "Name": "Master Assassin",
+      "Percentage": 0.5,
+      "XP": 50
+    },
+    {
+      "ID": "17",
+      "SetID": "7ko8h8f",
+      "Name": "Collateral Damage",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "18",
+      "SetID": "7ko8h8f",
+      "Name": "Devil Inside Me",
+      "Percentage": 30,
+      "XP": 20
+    },
+    {
+      "ID": "19",
+      "SetID": "7ko8h8f",
+      "Name": "Blood on My Hands",
+      "Percentage": 74,
+      "XP": 10
+    },
+    {
+      "ID": "2",
+      "SetID": "7ko8h8f",
+      "Name": "Winner Winner Chicken Dinner!",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "20",
+      "SetID": "7ko8h8f",
+      "Name": "The First Rule Is\u2026",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "21",
+      "SetID": "7ko8h8f",
+      "Name": "Killing Spree",
+      "Percentage": 22,
+      "XP": 30
+    },
+    {
+      "ID": "22",
+      "SetID": "7ko8h8f",
+      "Name": "Trigonometry Novice",
+      "Percentage": 4,
+      "XP": 30
+    },
+    {
+      "ID": "23",
+      "SetID": "7ko8h8f",
+      "Name": "Okay, Now I\u0027m Ready",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "24",
+      "SetID": "7ko8h8f",
+      "Name": "First Blood",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "25",
+      "SetID": "7ko8h8f",
+      "Name": "Shoot the Knee",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "26",
+      "SetID": "7ko8h8f",
+      "Name": "First Come, First Served",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "27",
+      "SetID": "7ko8h8f",
+      "Name": "Agent 48",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "28",
+      "SetID": "7ko8h8f",
+      "Name": "Now You See Me, Now You Don\u0027t",
+      "Percentage": 12,
+      "XP": 20
+    },
+    {
+      "ID": "29",
+      "SetID": "7ko8h8f",
+      "Name": "Airborne",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "3",
+      "SetID": "7ko8h8f",
+      "Name": "Dynamic Duo",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "30",
+      "SetID": "7ko8h8f",
+      "Name": "Fury Road",
+      "Percentage": 0.9,
+      "XP": 30
+    },
+    {
+      "ID": "31",
+      "SetID": "7ko8h8f",
+      "Name": "Guardian Angel",
+      "Percentage": 39,
+      "XP": 15
+    },
+    {
+      "ID": "32",
+      "SetID": "7ko8h8f",
+      "Name": "Ghost",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "33",
+      "SetID": "7ko8h8f",
+      "Name": "Don\u0027t Pan Me Bro!",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "34",
+      "SetID": "7ko8h8f",
+      "Name": "Fast and Furious",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "35",
+      "SetID": "7ko8h8f",
+      "Name": "You Complete Me",
+      "Percentage": 41,
+      "XP": 10
+    },
+    {
+      "ID": "36",
+      "SetID": "7ko8h8f",
+      "Name": "Cruising with the Enemy",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "37",
+      "SetID": "7ko8h8f",
+      "Name": "Health Junkie",
+      "Percentage": 45,
+      "XP": 10
+    },
+    {
+      "ID": "4",
+      "SetID": "7ko8h8f",
+      "Name": "Fantastic Four",
+      "Percentage": 21,
+      "XP": 50
+    },
+    {
+      "ID": "5",
+      "SetID": "7ko8h8f",
+      "Name": "Top 10",
+      "Percentage": 13,
+      "XP": 30
+    },
+    {
+      "ID": "6",
+      "SetID": "7ko8h8f",
+      "Name": "Pacifist",
+      "Percentage": 5,
+      "XP": 20
+    },
+    {
+      "ID": "7",
+      "SetID": "7ko8h8f",
+      "Name": "CQB Master",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "8",
+      "SetID": "7ko8h8f",
+      "Name": "CQB Expert",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "9",
+      "SetID": "7ko8h8f",
+      "Name": "CQB Novice",
+      "Percentage": 8,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -1132,6 +1393,11 @@
       "Time": "2023-05-04T19:03:48.4591701+00:00",
       "NumProgressed": 348119,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-04T19:18:41.481241+00:00",
+      "NumProgressed": 348127,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -2234,17 +2500,27 @@
       "NumberOfAwardsMax": 1754
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 37,
+  "LastChanged_Achievements": "2023-05-04T19:18:41.4812404+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 9667,
+  "EOS_NewPlayers": 9675,
   "EOS_Completed": 8,
-  "EOS_Progressed": 348119,
-  "LastUpdate_Achievements": "2023-05-04T19:03:48.4591773+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:10.3972318+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:48.4591694+00:00",
+  "EOS_Progressed": 348127,
+  "LastUpdate_Achievements": "2023-05-04T19:18:41.4812765+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:09.5711336+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7ko8h8f",
+      "IsBase": true,
+      "Progressed": 348127,
+      "Completed": 8
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:58:34.2409484+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
+  "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1754,
   "NumberOfAwards": 5676,
@@ -2256,5 +2532,5 @@
   "Ranking_Popularity": 108,
   "Ranking_Rating": 879,
   "Rating": 3.99,
-  "FirstSeen": "2022-12-06T17:57:24.6501738+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00"
 }

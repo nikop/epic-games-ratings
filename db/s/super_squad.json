@@ -1,6 +1,7 @@
 {
   "ID": "7ac3374a63524c509541e762348a4fb8",
   "Name": "Super Squad",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:34.2948376+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:03.8633916+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:01.6595874+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:51.4379562+00:00",
   "FirstSeenRating": "2023-03-31T05:57:51.4379561+00:00",
+  "FirstSeen": "2022-07-22T20:24:56.832429+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:24:56.832429+00:00"
+  "Ranking_EOS_Progress": 378
 }

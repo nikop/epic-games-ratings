@@ -1,6 +1,7 @@
 {
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -1231,14 +1232,18 @@
       "NumberOfAwardsMax": 692
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:17.1563476+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:44.7996752+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:41.4941414+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-30T08:01:08.2219677+00:00",
+  "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 692,
   "NumberOfAwards": 1359,
@@ -1250,6 +1255,5 @@
   "Ranking_PopularitySum": 212,
   "Ranking_Popularity": 154,
   "Ranking_Rating": 395,
-  "Rating": 4.59,
-  "FirstSeen": "2022-07-22T20:28:41.6168651+00:00"
+  "Rating": 4.59
 }

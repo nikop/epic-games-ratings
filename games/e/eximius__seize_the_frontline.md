@@ -1,11 +1,26 @@
 # Eximius: Seize the Frontline
 Rating: 4.19 (Ranked 813)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Graduate Boot Camp | 71.00 |
+| Initiation | 18.00 |
+| Battlesuit Victory | 8.00 |
+| Flawless Victory | 5.00 |
+| Baby Steps | 5.00 |
+| First Co-Op Win | 5.00 |
+| Gated Community | 3.00 |
+| Tag Team Champions | 2.00 |
+| Total Destruction | 1.00 |
+| Getting There | 1.00 |
+| Untouchable | 1.00 |
+| Mastermind | 0.50 |
+| We shall never Surrender! | 0.20 |
+| Halfway There | 0.20 |
+| Not Afraid of the Big Bad Wolf | 0.10 |
+| Many More to Come | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,114 (Ranked 49)  
+Progressed: 183,116 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +34,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-01 | 182,713 | 4 |
 | 2023-05-02 | 182,850 | 4 |
 | 2023-05-03 | 182,990 | 4 |
-| 2023-05-04 | 183,114 | 4 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 183,116 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

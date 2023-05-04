@@ -1,9 +1,25 @@
 # Atari Mania
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Magnetized | 50.00 |
+| FOBOS fear has been reduced to dust | 25.00 |
+| EXPLOSA exploded | 25.00 |
+| GLOOMDOOM has been zapped | 25.00 |
+| Bentley is saved | 25.00 |
+| DUPLICIO has been found | 25.00 |
+| RANDOMA's eyes has been gouged | 25.00 |
+| I know my way around! | 25.00 |
+| NEOS is lighted up | 25.00 |
+| INPUTO's curse is lifted | 25.00 |
+| Clean Freak | 0.00 |
+| Dedicated Floor #1 Gamer | 0.00 |
+| Dedicated Floor #2 Gamer | 0.00 |
+| Dedicated Floor #3 Gamer | 0.00 |
+| Dedicated Floor #4 Gamer | 0.00 |
+| Poster collector | 0.00 |
+| The collector | 0.00 |
+| Cheese, I have tricked Glitch so many time | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -11,9 +27,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

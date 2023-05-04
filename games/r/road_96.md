@@ -1,10 +1,21 @@
 # Road 96
 Rating: 4.62 (Ranked 337)  
 Number of Ratings: 86  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Almost There? | 0.00 |
+| Border Master | 0.00 |
+| Campaign Funder | 0.00 |
+| Cat Person | 0.00 |
+| Collect 'em All | 0.00 |
+| Hard Choice | 0.00 |
+| Help a Friend | 0.00 |
+| Homesick | 0.00 |
+| A Light in the Darkness | 0.00 |
+| Old Pro | 0.00 |
+| Road Pals | 0.00 |
+| Stone After Stone | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -13,9 +24,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1 | 0 |
 | 2023-04-26 | 2 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

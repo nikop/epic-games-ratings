@@ -4,9 +4,110 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Relaxing): 6,250  (Ranked 50)  
 Sum: 49,273 (Ranked 22)  
-Diff (max vs sum): 28
+Diff (max vs sum): 28  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| He's Signed! | 50.00 |
+| First Victory | 50.00 |
+| Clean Sheet | 49.00 |
+| He's Sold! | 47.00 |
+| I'm The Boss! | 41.00 |
+| Hat-trick | 41.00 |
+| Scoring Streak | 37.00 |
+| Unbeatable! | 36.00 |
+| Thumping | 36.00 |
+| Superb Dressing Room Atmosphere | 34.00 |
+| Total Support | 32.00 |
+| Record Signing | 31.00 |
+| He's a Natural | 30.00 |
+| Millionaire's Club | 30.00 |
+| Team Performance | 29.00 |
+| Parked The Bus | 28.00 |
+| Shrewd Spender | 28.00 |
+| Star Man | 28.00 |
+| Attack! | 27.00 |
+| You're On Fire | 26.00 |
+| Tremendous Trio | 26.00 |
+| On A Roll | 25.00 |
+| Unstoppable Force | 25.00 |
+| Record Sale | 25.00 |
+| Fantastic Five | 23.00 |
+| Full Faith | 23.00 |
+| The Boss | 23.00 |
+| Armchair Expert | 23.00 |
+| Iron Curtain | 22.00 |
+| Top Of The Class | 22.00 |
+| Goal Machine | 22.00 |
+| Splashing The Cash | 21.00 |
+| What A Goal! | 21.00 |
+| Cup Glory! | 21.00 |
+| Clean Bill of Health | 20.00 |
+| Irresistible Force | 19.00 |
+| Excellent Match Cohesion | 19.00 |
+| Do The Double | 18.00 |
+| Top Form | 16.00 |
+| Cash To Burn | 16.00 |
+| Overachiever! | 15.00 |
+| Rushed signing | 15.00 |
+| Beating Expectations | 14.00 |
+| Eyes and Ears | 14.00 |
+| Window Shopping | 14.00 |
+| Comeback King! | 13.00 |
+| You're Up! | 12.00 |
+| Money, Money, Money | 11.00 |
+| Invincible! | 10.00 |
+| Best In The World | 10.00 |
+| Best In Europe | 9.00 |
+| Superb Strike | 9.00 |
+| International Superstar | 9.00 |
+| National Service | 8.00 |
+| Headhunted | 8.00 |
+| Domination | 8.00 |
+| Best In The Business | 7.00 |
+| Parked The Tank | 6.00 |
+| World Renowned | 6.00 |
+| Head-to-Head | 6.00 |
+| Legend | 5.00 |
+| Win the Club World Cup | 5.00 |
+| We Trust You | 5.00 |
+| Going Places | 4.00 |
+| National Hero | 3.00 |
+| Golden Boot | 3.00 |
+| Trophy Hoarder | 3.00 |
+| Part Of The Furniture | 2.00 |
+| Childhood Dream | 2.00 |
+| Invitational | 2.00 |
+| Scout's Honour | 2.00 |
+| Freedom Of The Country | 2.00 |
+| On Top Of The World | 2.00 |
+| Icon | 1.00 |
+| There Is Always Plan B | 1.00 |
+| Mr Delegator | 1.00 |
+| Living the Dream | 1.00 |
+| The Greatest | 1.00 |
+| Beat your Mates | 1.00 |
+| Perfect Host | 0.70 |
+| The Rich Get Richer | 0.60 |
+| One more draft | 0.60 |
+| Online Streak | 0.60 |
+| Set Piece Specialist | 0.60 |
+| Draft Rivalry | 0.50 |
+| Outstanding Defence | 0.30 |
+| Club Legend | 0.30 |
+| Beat all the AI Managers | 0.30 |
+| Immortality | 0.20 |
+| Impervious | 0.20 |
+| Immovable Object | 0.10 |
+| Value For Money | 0.10 |
+| 100 Club | 0.10 |
+| 200 Club | 0.10 |
+| Draft Dominator | 0.10 |
+| Knockout King | 0.10 |
+| Draft Value | 0.10 |
+| Shoestring Budget | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,084 (Ranked 26)  
+Progressed: 459,090 (Ranked 26)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +121,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-01 | 458,843 | 18 |
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
-| 2023-05-04 | 459,084 | 18 |
+| 2023-05-04 | 459,090 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

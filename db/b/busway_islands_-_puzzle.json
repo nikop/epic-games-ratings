@@ -1,6 +1,253 @@
 {
   "ID": "4925c1cd4af148e39600e73590375c16",
   "Name": "Busway Islands - Puzzle",
+  "Achievements": [
+    {
+      "ID": "level_1",
+      "SetID": "dlpjnee",
+      "Name": "First Island",
+      "Percentage": 92,
+      "XP": 5
+    },
+    {
+      "ID": "level_10",
+      "SetID": "dlpjnee",
+      "Name": "Island 10",
+      "Percentage": 36,
+      "XP": 25
+    },
+    {
+      "ID": "level_11",
+      "SetID": "dlpjnee",
+      "Name": "Island 11",
+      "Percentage": 32,
+      "XP": 30
+    },
+    {
+      "ID": "level_12",
+      "SetID": "dlpjnee",
+      "Name": "Island 12",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_13",
+      "SetID": "dlpjnee",
+      "Name": "Island 13",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "level_14",
+      "SetID": "dlpjnee",
+      "Name": "Island 14",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_15",
+      "SetID": "dlpjnee",
+      "Name": "Island 15",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_16",
+      "SetID": "dlpjnee",
+      "Name": "Island 16",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_17",
+      "SetID": "dlpjnee",
+      "Name": "Island 17",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_18",
+      "SetID": "dlpjnee",
+      "Name": "Island 18",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_19",
+      "SetID": "dlpjnee",
+      "Name": "Island 19",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_2",
+      "SetID": "dlpjnee",
+      "Name": "Island 2",
+      "Percentage": 92,
+      "XP": 5
+    },
+    {
+      "ID": "level_20",
+      "SetID": "dlpjnee",
+      "Name": "Island 20",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_21",
+      "SetID": "dlpjnee",
+      "Name": "Island 21",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_22",
+      "SetID": "dlpjnee",
+      "Name": "Island 22",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_23",
+      "SetID": "dlpjnee",
+      "Name": "Island 23",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_24",
+      "SetID": "dlpjnee",
+      "Name": "Island 24",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_25",
+      "SetID": "dlpjnee",
+      "Name": "Island 25",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_26",
+      "SetID": "dlpjnee",
+      "Name": "Island 26",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_27",
+      "SetID": "dlpjnee",
+      "Name": "Island 27",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_28",
+      "SetID": "dlpjnee",
+      "Name": "Island 28",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_29",
+      "SetID": "dlpjnee",
+      "Name": "Island 29",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_3",
+      "SetID": "dlpjnee",
+      "Name": "Island 3",
+      "Percentage": 88,
+      "XP": 5
+    },
+    {
+      "ID": "level_30",
+      "SetID": "dlpjnee",
+      "Name": "Island 30",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "level_31",
+      "SetID": "dlpjnee",
+      "Name": "Island 31",
+      "Percentage": 28,
+      "XP": 35
+    },
+    {
+      "ID": "level_32",
+      "SetID": "dlpjnee",
+      "Name": "Island 32",
+      "Percentage": 24,
+      "XP": 30
+    },
+    {
+      "ID": "level_33",
+      "SetID": "dlpjnee",
+      "Name": "Island 33",
+      "Percentage": 24,
+      "XP": 40
+    },
+    {
+      "ID": "level_34",
+      "SetID": "dlpjnee",
+      "Name": "Island 34",
+      "Percentage": 24,
+      "XP": 50
+    },
+    {
+      "ID": "level_35",
+      "SetID": "dlpjnee",
+      "Name": "Island 35",
+      "Percentage": 24,
+      "XP": 100
+    },
+    {
+      "ID": "level_4",
+      "SetID": "dlpjnee",
+      "Name": "Island 4",
+      "Percentage": 76,
+      "XP": 15
+    },
+    {
+      "ID": "level_5",
+      "SetID": "dlpjnee",
+      "Name": "Island 5",
+      "Percentage": 68,
+      "XP": 20
+    },
+    {
+      "ID": "level_6",
+      "SetID": "dlpjnee",
+      "Name": "Island 6",
+      "Percentage": 40,
+      "XP": 20
+    },
+    {
+      "ID": "level_7",
+      "SetID": "dlpjnee",
+      "Name": "Island 7",
+      "Percentage": 36,
+      "XP": 20
+    },
+    {
+      "ID": "level_8",
+      "SetID": "dlpjnee",
+      "Name": "Island 8",
+      "Percentage": 36,
+      "XP": 20
+    },
+    {
+      "ID": "level_9",
+      "SetID": "dlpjnee",
+      "Name": "Island 9",
+      "Percentage": 36,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -152,22 +399,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 24,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 35,
+  "LastChanged_Achievements": "2023-05-04T19:18:16.7640029+00:00",
   "EOS_NewCompleters": 6,
   "EOS_NewPlayers": 22,
   "EOS_Completed": 6,
   "EOS_Progressed": 25,
-  "LastUpdate_Achievements": "2023-05-04T19:03:22.3750816+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:21.9380043+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:22.3750793+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:16.7640289+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:21.1052549+00:00",
+  "AchievementSets": [
+    {
+      "ID": "dlpjnee",
+      "IsBase": true,
+      "Progressed": 25,
+      "Completed": 6
+    }
+  ],
+  "EOS_Completed_Percentage": 24,
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
+  "FirstSeen": "2023-04-30T05:57:09.5836606+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 29,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_Progress": 286,
-  "FirstSeen": "2023-04-30T05:57:09.5836606+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00"
 }

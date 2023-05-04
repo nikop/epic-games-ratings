@@ -1,20 +1,312 @@
 {
   "ID": "cc920a7236ce4cd9ba347651be651e5e",
   "Name": "Planet Cube - Edge",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_01",
+      "SetID": "d67c14a",
+      "Name": "Collectables? Shocking.",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_02",
+      "SetID": "d67c14a",
+      "Name": "In Too Deep",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_03",
+      "SetID": "d67c14a",
+      "Name": "Now What?",
+      "Percentage": 0,
+      "XP": 110
+    },
+    {
+      "ID": "ACHIEVEMENT_04",
+      "SetID": "d67c14a",
+      "Name": "Lucky Checkpoint",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_05",
+      "SetID": "d67c14a",
+      "Name": "Out of the Dorms",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "d67c14a",
+      "Name": "Intense Commute",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_07",
+      "SetID": "d67c14a",
+      "Name": "Explored The Labs",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_08",
+      "SetID": "d67c14a",
+      "Name": "Got Wet",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_09",
+      "SetID": "d67c14a",
+      "Name": "A Plan in Motion",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "d67c14a",
+      "Name": "Hangar in There",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "d67c14a",
+      "Name": "Independence Slay",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "d67c14a",
+      "Name": "Faced Off",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "d67c14a",
+      "Name": "Got Our Water Back!",
+      "Percentage": 0,
+      "XP": 110
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "d67c14a",
+      "Name": "I Need Healing!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "d67c14a",
+      "Name": "You\u0027ll Be Fine!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "d67c14a",
+      "Name": "Oh No...",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_17",
+      "SetID": "d67c14a",
+      "Name": "Was That Intentional?",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "d67c14a",
+      "Name": "Good Old 1-2 Punch",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "d67c14a",
+      "Name": "Bullet Conscious",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "d67c14a",
+      "Name": "Welcome Back!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "d67c14a",
+      "Name": "You Just Don\u0027t Learn",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "d67c14a",
+      "Name": "Green, Mean and Edgy",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "d67c14a",
+      "Name": "Show Off",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "d67c14a",
+      "Name": "Nothing\u0027s Impossible",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "d67c14a",
+      "Name": "Except Maybe This",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_26",
+      "SetID": "d67c14a",
+      "Name": "Got To Go Fast!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_27",
+      "SetID": "d67c14a",
+      "Name": "Gottagofast!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_28",
+      "SetID": "d67c14a",
+      "Name": "Grrrgfst",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_29",
+      "SetID": "d67c14a",
+      "Name": "Defence Broken",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_30",
+      "SetID": "d67c14a",
+      "Name": "Gunny",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_31",
+      "SetID": "d67c14a",
+      "Name": "C-C-Combo!",
+      "Percentage": 0,
+      "XP": 60
+    },
+    {
+      "ID": "ACHIEVEMENT_32",
+      "SetID": "d67c14a",
+      "Name": "Trigonometry Dash",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_33",
+      "SetID": "d67c14a",
+      "Name": "Ready For The Olympics",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_34",
+      "SetID": "d67c14a",
+      "Name": "Cubes Can Fly",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_35",
+      "SetID": "d67c14a",
+      "Name": "Sorry, Not Sorry",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_36",
+      "SetID": "d67c14a",
+      "Name": "I Just Like Holding It",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_37",
+      "SetID": "d67c14a",
+      "Name": "Oooh, Shiny",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_38",
+      "SetID": "d67c14a",
+      "Name": "Never Forget your First",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_39",
+      "SetID": "d67c14a",
+      "Name": "Dinosaur\u0027s Isle",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_40",
+      "SetID": "d67c14a",
+      "Name": "I Refuse To Be A Hero",
+      "Percentage": 0,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 40,
+  "LastChanged_Achievements": "2023-05-04T19:18:53.2560295+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:00.8568408+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:26.765209+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:00.856839+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:27.5483439+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:53.2560613+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:25.2080132+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d67c14a",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:49:27.5483439+00:00"
 }

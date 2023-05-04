@@ -1,6 +1,92 @@
 {
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
+  "Achievements": [
+    {
+      "ID": "Arranging Boxes",
+      "SetID": "b40dflc",
+      "Name": "Arranging Boxes",
+      "Percentage": 14,
+      "XP": 60
+    },
+    {
+      "ID": "Bernard",
+      "SetID": "b40dflc",
+      "Name": "Bernard",
+      "Percentage": 11,
+      "XP": 100
+    },
+    {
+      "ID": "Building the Fox",
+      "SetID": "b40dflc",
+      "Name": "Building the Fox",
+      "Percentage": 21,
+      "XP": 50
+    },
+    {
+      "ID": "Green Ticket Roundup",
+      "SetID": "b40dflc",
+      "Name": "Green Ticket Roundup",
+      "Percentage": 18,
+      "XP": 100
+    },
+    {
+      "ID": "Jacques a Dit",
+      "SetID": "b40dflc",
+      "Name": "Jacques a Dit",
+      "Percentage": 36,
+      "XP": 40
+    },
+    {
+      "ID": "Jakob",
+      "SetID": "b40dflc",
+      "Name": "Jakob",
+      "Percentage": 13,
+      "XP": 60
+    },
+    {
+      "ID": "Jude",
+      "SetID": "b40dflc",
+      "Name": "Jude",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "Le Juif et la France",
+      "SetID": "b40dflc",
+      "Name": "Le Juif et la France",
+      "Percentage": 12,
+      "XP": 100
+    },
+    {
+      "ID": "Little Helper",
+      "SetID": "b40dflc",
+      "Name": "Little Helper",
+      "Percentage": 31,
+      "XP": 40
+    },
+    {
+      "ID": "May Their Memories be a Blessing",
+      "SetID": "b40dflc",
+      "Name": "May Their Memories be a Blessing",
+      "Percentage": 8,
+      "XP": 200
+    },
+    {
+      "ID": "Nazis in Paris",
+      "SetID": "b40dflc",
+      "Name": "Nazis in Paris",
+      "Percentage": 24,
+      "XP": 50
+    },
+    {
+      "ID": "Nuremberg Laws",
+      "SetID": "b40dflc",
+      "Name": "Nuremberg Laws",
+      "Percentage": 11,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -522,22 +608,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 7.6,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:19:26.9573879+00:00",
   "EOS_NewCompleters": 9,
   "EOS_NewPlayers": 116,
   "EOS_Completed": 85,
   "EOS_Progressed": 1119,
-  "LastUpdate_Achievements": "2023-05-04T19:04:35.8855833+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:03.5454035+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:35.885577+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:26.9574006+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:01.420159+00:00",
+  "AchievementSets": [
+    {
+      "ID": "b40dflc",
+      "IsBase": true,
+      "Progressed": 1119,
+      "Completed": 85
+    }
+  ],
+  "EOS_Completed_Percentage": 7.6,
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
+  "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 18,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_Progress": 155,
-  "FirstSeen": "2023-02-19T22:57:55.1416262+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00"
 }

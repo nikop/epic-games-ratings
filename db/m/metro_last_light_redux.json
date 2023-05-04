@@ -1,6 +1,7 @@
 {
   "ID": "c5e786eddfd041caa9984213e3f9621d",
   "Name": "Metro Last Light Redux",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1164,14 +1165,18 @@
       "NumberOfAwardsMax": 1813
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:52.4195716+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:25.4784749+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:23.9108974+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T13:05:15.2529029+00:00",
+  "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1813,
   "NumberOfAwards": 2093,
@@ -1183,6 +1188,5 @@
   "Ranking_PopularitySum": 180,
   "Ranking_Popularity": 105,
   "Ranking_Rating": 192,
-  "Rating": 4.7,
-  "FirstSeen": "2022-07-22T20:23:11.2145128+00:00"
+  "Rating": 4.7
 }

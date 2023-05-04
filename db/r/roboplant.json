@@ -1,6 +1,246 @@
 {
   "ID": "99329fb59e164c5b9758b0200ccf39dc",
   "Name": "Roboplant",
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT/ADDED_100_DECORATIONS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "A proper interior designer",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT/ADDED_10_DECORATIONS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Give it a good esthetic",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/BUILT_3_ROOMS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Build the foundation of your base",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/COMPLETED_1000_CONTRACT_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "An eye for business",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/COMPLETED_100_CONTRACT_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Keep making waves",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT/COMPLETED_FIRST_CHALLENGE_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Complete your first challenge",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/COMPLETED_ONE_CONTRACT_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Your first step",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/COMPLETED_SECOND_CHALLENGE_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Complete your second challenge",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/COMPLETED_THIRD_CHALLENGE_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Complete your first three challenges",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT/DRINKED_20_CANS_OF_OIL_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Drink some oil!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/EARNED_FIRST_1000000_MONEY_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Make some moneyyyy!",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT/EARNED_FIRST_100000_MONEY_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Earn your first 100000",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT/EARNED_FIRST_10000_MONEY_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Earn your first 10000",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT/FIRED_100_WORKERS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Be unscrupulous",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT/FIRST_COMPANY_STARTED_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "First company created",
+      "Percentage": 100,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/FIRST_RESEARCH_DONE_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Research is progress",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/FIRST_UTILITY_POSITIVE_OUTPUT_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Production must be greater than consumption!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/FIRST_WORKER_HIRED_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Hire the first worker",
+      "Percentage": 100,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/HARVESTED_20000_PLANTS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Grow like there is no tomorrow",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT/HARVESTED_200_PLANTS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Harvest at least 200 plants",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/HIRED_100_WORKERS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Build an empire",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ACHIEVEMENT/HIRED_10_WORKERS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Expand your business with 10 workers",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/PLACED_50_ROOMS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Build rooms for everything!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/PLANTED_10000_SEEDS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Plant, plant, and plant!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/PLANTED_1000_SEEDS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Plant at least 1000 seeds",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "ACHIEVEMENT/PLAYED_10_GAMES_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Let them have some fun!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/PROVEN_RESEARCHER_10_RESEARCHES_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Experienced researcher",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/SAVE_EARTH_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Be the savior!",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT/SOLD_10000_PACKAGED_PLANTS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Sell enough for everyone",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT/SOLD_100_PACKAGED_PLANTS_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Sell 100 packaged plants",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/SOLD_UTILITIES_GOAL_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Make profit from utilities",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "ACHIEVEMENT/UPSET_WORKERS_500_TIMES_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Mister Evil",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ACHIEVEMENT/UPSET_WORKERS_80_TIMES_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "The bad manager",
+      "Percentage": 0,
+      "XP": 40
+    },
+    {
+      "ID": "ACHIEVEMENT/WORKERS_RECHARGED_50_TIMES_TITLE",
+      "SetID": "bepi5g1",
+      "Name": "Energy is important",
+      "Percentage": 0,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -15,17 +255,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 34,
+  "LastChanged_Achievements": "2023-05-04T19:17:16.1915239+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:00:38.6331093+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:00.8774007+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:38.633108+00:00",
-  "FirstSeenAchievements": "2023-04-29T09:59:46.73483+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:17:16.1915476+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:11:58.2778136+00:00",
+  "AchievementSets": [
+    {
+      "ID": "bepi5g1",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 341
+  "Ranking_EOS_Progress": 341,
+  "FirstSeenAchievements": "2023-04-29T09:59:46.73483+00:00"
 }

@@ -1,6 +1,92 @@
 {
   "ID": "98b14e90cfc24054a301177eec6bc52d",
   "Name": "Merchant of the Skies",
+  "Achievements": [
+    {
+      "ID": "achievement_bank_invested",
+      "SetID": "7171fo0",
+      "Name": "Thrifty",
+      "Percentage": 46,
+      "XP": 15
+    },
+    {
+      "ID": "achievement_botanical",
+      "SetID": "7171fo0",
+      "Name": "Botanical",
+      "Percentage": 5,
+      "XP": 200
+    },
+    {
+      "ID": "achievement_fish_god_fed",
+      "SetID": "7171fo0",
+      "Name": "Fish Appreciation",
+      "Percentage": 9,
+      "XP": 150
+    },
+    {
+      "ID": "achievement_giants_found",
+      "SetID": "7171fo0",
+      "Name": "Giants",
+      "Percentage": 49,
+      "XP": 20
+    },
+    {
+      "ID": "achievement_got_rich",
+      "SetID": "7171fo0",
+      "Name": "Wealthy",
+      "Percentage": 14,
+      "XP": 150
+    },
+    {
+      "ID": "achievement_inn_supplier",
+      "SetID": "7171fo0",
+      "Name": "Supplier",
+      "Percentage": 6,
+      "XP": 180
+    },
+    {
+      "ID": "achievement_island_bought",
+      "SetID": "7171fo0",
+      "Name": "Real Estate",
+      "Percentage": 64,
+      "XP": 35
+    },
+    {
+      "ID": "achievement_lighthouse",
+      "SetID": "7171fo0",
+      "Name": "Lighthouse Builder",
+      "Percentage": 12,
+      "XP": 180
+    },
+    {
+      "ID": "achievement_quest_completed",
+      "SetID": "7171fo0",
+      "Name": "A man of his word",
+      "Percentage": 96,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_ship_bought",
+      "SetID": "7171fo0",
+      "Name": "New Ride",
+      "Percentage": 54,
+      "XP": 40
+    },
+    {
+      "ID": "achievement_ship_fueled",
+      "SetID": "7171fo0",
+      "Name": "Energizer",
+      "Percentage": 99,
+      "XP": 10
+    },
+    {
+      "ID": "achievement_too_big_to_fail",
+      "SetID": "7171fo0",
+      "Name": "Too big to fail",
+      "Percentage": 35,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +103,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.52,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 12,
+  "LastChanged_Achievements": "2023-05-04T19:18:16.746613+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 14,
   "EOS_Progressed": 924,
-  "LastUpdate_Achievements": "2023-05-04T19:03:22.3092139+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:24.7150831+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:22.3092116+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:16.7466252+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:23.8972304+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7171fo0",
+      "IsBase": true,
+      "Progressed": 924,
+      "Completed": 14
+    }
+  ],
+  "EOS_Completed_Percentage": 1.52,
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
+  "FirstSeen": "2022-07-22T20:28:42.0879597+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_Progress": 163,
-  "FirstSeen": "2022-07-22T20:28:42.0879597+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00"
 }

@@ -1,6 +1,302 @@
 {
   "ID": "252244fbdca142948592127c2249498f",
   "Name": "Shadow Gangs",
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "ab7e240",
+      "Name": "Took the challenge",
+      "Percentage": 100,
+      "XP": 20
+    },
+    {
+      "ID": "1",
+      "SetID": "ab7e240",
+      "Name": "City Completed",
+      "Percentage": -33.3,
+      "XP": 10
+    },
+    {
+      "ID": "10",
+      "SetID": "ab7e240",
+      "Name": "Temple level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "11",
+      "SetID": "ab7e240",
+      "Name": "Mission I finished",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "12",
+      "SetID": "ab7e240",
+      "Name": "Mission II finished",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "13",
+      "SetID": "ab7e240",
+      "Name": "Mission III finished",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "14",
+      "SetID": "ab7e240",
+      "Name": "Mission IV finished",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "15",
+      "SetID": "ab7e240",
+      "Name": "Mission V finished",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "16",
+      "SetID": "ab7e240",
+      "Name": "First shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "17",
+      "SetID": "ab7e240",
+      "Name": "Second shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "18",
+      "SetID": "ab7e240",
+      "Name": "Third shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "19",
+      "SetID": "ab7e240",
+      "Name": "Fourth shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "2",
+      "SetID": "ab7e240",
+      "Name": "Bridge level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "20",
+      "SetID": "ab7e240",
+      "Name": "First ninja bonus stage beaten",
+      "Percentage": -33.3,
+      "XP": 10
+    },
+    {
+      "ID": "21",
+      "SetID": "ab7e240",
+      "Name": "Second ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "22",
+      "SetID": "ab7e240",
+      "Name": "Third ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "23",
+      "SetID": "ab7e240",
+      "Name": "Fourth ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "24",
+      "SetID": "ab7e240",
+      "Name": "Fifth ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "25",
+      "SetID": "ab7e240",
+      "Name": "Sixth ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "26",
+      "SetID": "ab7e240",
+      "Name": "Seventh ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "27",
+      "SetID": "ab7e240",
+      "Name": "Eighth ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "28",
+      "SetID": "ab7e240",
+      "Name": "Ninth ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "29",
+      "SetID": "ab7e240",
+      "Name": "Tenth ninja bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "3",
+      "SetID": "ab7e240",
+      "Name": "Forest level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "30",
+      "SetID": "ab7e240",
+      "Name": "Power Start",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "31",
+      "SetID": "ab7e240",
+      "Name": "Pirate Ship",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "32",
+      "SetID": "ab7e240",
+      "Name": "Cave Treasure Room",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "33",
+      "SetID": "ab7e240",
+      "Name": "Collin reappears",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "34",
+      "SetID": "ab7e240",
+      "Name": "Fifth shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "35",
+      "SetID": "ab7e240",
+      "Name": "Sixth shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "36",
+      "SetID": "ab7e240",
+      "Name": "Seventh shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "37",
+      "SetID": "ab7e240",
+      "Name": "Eighth shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "38",
+      "SetID": "ab7e240",
+      "Name": "Ninth shoot bonus stage beaten",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "39",
+      "SetID": "ab7e240",
+      "Name": "Finished the game on Rising Ninja",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "4",
+      "SetID": "ab7e240",
+      "Name": "Canyon level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "40",
+      "SetID": "ab7e240",
+      "Name": "Finished the game on Ninja",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "41",
+      "SetID": "ab7e240",
+      "Name": "Finished the game on Crimson Ninja",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "5",
+      "SetID": "ab7e240",
+      "Name": "Cave level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "6",
+      "SetID": "ab7e240",
+      "Name": "Subway level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "7",
+      "SetID": "ab7e240",
+      "Name": "Factory level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "8",
+      "SetID": "ab7e240",
+      "Name": "Train level completed",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "9",
+      "SetID": "ab7e240",
+      "Name": "Bamboo level completed",
+      "Percentage": 0,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -10,17 +306,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 42,
+  "LastChanged_Achievements": "2023-05-04T19:18:47.2469895+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 3,
-  "LastUpdate_Achievements": "2023-05-04T19:03:54.5951675+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:19.0390618+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:54.5951652+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:03.5861059+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:47.2470244+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:17.5495297+00:00",
+  "AchievementSets": [
+    {
+      "ID": "ab7e240",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 338
+  "Ranking_EOS_Progress": 338,
+  "FirstSeenAchievements": "2023-04-25T20:49:03.5861059+00:00"
 }

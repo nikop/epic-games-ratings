@@ -1,6 +1,7 @@
 {
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -873,16 +874,26 @@
       "NumberOfAwardsMax": 387
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:07.3864308+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:16.0145992+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:47.3301653+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:16.0145963+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:07.3864355+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:44.9755811+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9pom9m2",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T06:58:53.5604981+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
+  "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 387,
   "NumberOfAwards": 433,
@@ -895,5 +906,5 @@
   "Ranking_Popularity": 201,
   "Ranking_Rating": 861,
   "Rating": 4.07,
-  "FirstSeen": "2022-07-22T20:33:01.3104454+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00"
 }

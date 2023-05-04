@@ -1,6 +1,71 @@
 {
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
+  "Achievements": [
+    {
+      "ID": "701312",
+      "SetID": "3n3mm3c",
+      "Name": "Master of Sins",
+      "Percentage": 57,
+      "XP": 100
+    },
+    {
+      "ID": "701322",
+      "SetID": "3n3mm3c",
+      "Name": "Master of Warfare",
+      "Percentage": 33,
+      "XP": 150
+    },
+    {
+      "ID": "701332",
+      "SetID": "3n3mm3c",
+      "Name": "Lucky Strike",
+      "Percentage": 56,
+      "XP": 50
+    },
+    {
+      "ID": "701382",
+      "SetID": "3n3mm3c",
+      "Name": "Paradise lost",
+      "Percentage": 96,
+      "XP": 50
+    },
+    {
+      "ID": "701392",
+      "SetID": "3n3mm3c",
+      "Name": "Dark Kingdom Come",
+      "Percentage": 75,
+      "XP": 100
+    },
+    {
+      "ID": "701402",
+      "SetID": "3n3mm3c",
+      "Name": "Cardinal Sins",
+      "Percentage": 44,
+      "XP": 100
+    },
+    {
+      "ID": "701422",
+      "SetID": "3n3mm3c",
+      "Name": "Hellfire",
+      "Percentage": 22,
+      "XP": 150
+    },
+    {
+      "ID": "701432",
+      "SetID": "3n3mm3c",
+      "Name": "Vicious Delicious",
+      "Percentage": 26,
+      "XP": 150
+    },
+    {
+      "ID": "701442",
+      "SetID": "3n3mm3c",
+      "Name": "Warm and Fuzzy",
+      "Percentage": 44,
+      "XP": 150
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +87,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 19.44,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 9,
+  "LastChanged_Achievements": "2023-05-04T19:20:09.7958678+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 14,
   "EOS_Progressed": 72,
-  "LastUpdate_Achievements": "2023-05-04T19:05:18.7591717+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:42.3419014+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:18.7591678+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:09.7958768+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:39.042144+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3n3mm3c",
+      "IsBase": true,
+      "Progressed": 72,
+      "Completed": 14
+    }
+  ],
+  "EOS_Completed_Percentage": 19.44,
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
+  "FirstSeen": "2022-07-22T20:24:53.4158862+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 4,
   "Ranking_EOS_Progress": 258,
-  "FirstSeen": "2022-07-22T20:24:53.4158862+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00"
 }

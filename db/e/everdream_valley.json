@@ -1,20 +1,31 @@
 {
   "ID": "81d1fa85a9e34c6bbd0b9ba93cf39371",
   "Name": "Everdream Valley",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:33.0659312+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:39.4951559+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:05.0147265+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:39.4951551+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:48:25.4853861+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:33.0659349+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:03.7920342+00:00",
+  "AchievementSets": [
+    {
+      "ID": "272l3ko",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:48:25.4853861+00:00"
 }

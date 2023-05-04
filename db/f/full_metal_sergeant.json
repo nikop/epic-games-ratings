@@ -1,20 +1,102 @@
 {
   "ID": "a81259f6c41340f4a399bb85fc6610b7",
   "Name": "Full Metal Sergeant",
+  "Achievements": [
+    {
+      "ID": "ach_dog",
+      "SetID": "7mi79a3",
+      "Name": "Good boy",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_flash",
+      "SetID": "7mi79a3",
+      "Name": "Flash",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_meatball",
+      "SetID": "7mi79a3",
+      "Name": "Meatball",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_not_so",
+      "SetID": "7mi79a3",
+      "Name": "Not So",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_raging_rabbit",
+      "SetID": "7mi79a3",
+      "Name": "Raging Rabbit",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_rockhead",
+      "SetID": "7mi79a3",
+      "Name": "Rockhead",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_skinny",
+      "SetID": "7mi79a3",
+      "Name": "Skinny",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_special",
+      "SetID": "7mi79a3",
+      "Name": "Special",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_speedy",
+      "SetID": "7mi79a3",
+      "Name": "Speedy",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ach_tubby",
+      "SetID": "7mi79a3",
+      "Name": "Tubby",
+      "Percentage": 0,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 10,
+  "LastChanged_Achievements": "2023-05-04T19:19:11.5022337+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:20.5001342+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:49.7344109+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:20.5001327+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:39.6140161+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:11.5022452+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:47.1209068+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7mi79a3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:50:39.6140161+00:00"
 }

@@ -1,9 +1,57 @@
 # ToeJam & Earl: Back in the Groove!
 Rating: 4.32 (Ranked 737)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Food Taster | 8.00 |
+| Fall Fest | 7.00 |
+| Thrill Seeker | 6.00 |
+| Flying Present Catcher | 5.00 |
+| HFZ Goober | 5.00 |
+| Sunflower Master | 4.00 |
+| Backer Visitor | 2.00 |
+| Hi Fiver | 2.00 |
+| Hate That Randomizer | 2.00 |
+| Feet on Funkotron | 2.00 |
+| A Timely Splash | 2.00 |
+| Elf Chaser | 1.00 |
+| Fool Me Twice | 1.00 |
+| Old School Jammin' | 1.00 |
+| Wakey Wakey | 1.00 |
+| Level Diver | 0.80 |
+| Gimme My Presents Back! | 0.70 |
+| Cleaning Out Santa's Sack | 0.70 |
+| Beaten By A Little Girl | 0.60 |
+| Teamwork Rules | 0.60 |
+| Totally Bummed Again | 0.60 |
+| Boom Box Baby | 0.40 |
+| I Can't Believe I've Done This | 0.40 |
+| Harsh Love | 0.40 |
+| Made It Through | 0.40 |
+| Piece O' Cake | 0.40 |
+| Map Explorer | 0.30 |
+| Flying Present Ultimate Master | 0.30 |
+| Ridiculously Generous | 0.30 |
+| Nine Funkotronians | 0.30 |
+| I'm A Total Saint | 0.30 |
+| The Worst Possible Luck | 0.30 |
+| Broken Present Risk Taker | 0.20 |
+| Struck By Love | 0.20 |
+| Truly Evil | 0.20 |
+| Achievement Achiever | 0.10 |
+| Boom Box Wipeout | 0.10 |
+| Can't Touch This | 0.10 |
+| Found All The Backers! | 0.10 |
+| FunkLord Power | 0.10 |
+| Gotta Get 'Em All | 0.10 |
+| Is This Really Possible? | 0.10 |
+| Lord Of The HFZ | 0.10 |
+| Mad Hatter | 0.10 |
+| 99 Problems (But A Buck Ain't One) | 0.10 |
+| Pacifist Victory | 0.10 |
+| Rhythm Star | 0.10 |
+| Why Do I Keep Doing That? | 0.10 |
+| Hey, You Did It! | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 54,180 (Ranked 70)  
 Completed: 4 (0.01%) (Ranked 184)  
@@ -20,9 +68,6 @@ Completed: 4 (0.01%) (Ranked 184)
 | 2023-05-02 | 54,149 | 4 |
 | 2023-05-03 | 54,174 | 4 |
 | 2023-05-04 | 54,180 | 4 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

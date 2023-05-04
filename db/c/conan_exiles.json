@@ -1,6 +1,7 @@
 {
   "ID": "conanexiles",
   "Name": "Conan Exiles",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -2862,14 +2863,18 @@
       "NumberOfAwardsMax": 1136
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:01.1232074+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:32.5965678+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:29.1745022+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:59:40.735701+00:00",
+  "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 1136,
   "NumberOfAwards": 8097,
@@ -2881,6 +2886,5 @@
   "Ranking_PopularitySum": 88,
   "Ranking_Popularity": 124,
   "Ranking_Rating": 466,
-  "Rating": 4.55,
-  "FirstSeen": "2022-07-22T20:16:49.0940249+00:00"
+  "Rating": 4.55
 }

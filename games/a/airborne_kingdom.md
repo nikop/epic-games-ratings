@@ -1,10 +1,36 @@
 # Airborne Kingdom
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 74  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| A Small Community | 56.00 |
+| A Grove Replanted | 53.00 |
+| Fields Watered | 41.00 |
+| Seekers Found | 41.00 |
+| Settling the Skies | 41.00 |
+| Wind Powered | 40.00 |
+| It Takes a Village | 34.00 |
+| On the Town | 28.00 |
+| Daylight Found | 26.00 |
+| Irons Scorched | 25.00 |
+| Islands Connected | 25.00 |
+| Harp Tuned | 23.00 |
+| Pyre Ignited | 23.00 |
+| Travelers Returned | 23.00 |
+| Hopes Hoisted | 22.00 |
+| Knowledge Shared | 20.00 |
+| Relic Finder | 20.00 |
+| Worthy of the Title | 19.00 |
+| A Peaceful Respite | 14.00 |
+| A Learned Scholar | 13.00 |
+| Prophecy Fulfilled | 13.00 |
+| A Wanderer’s Guide | 11.00 |
+| Knowledge Seeker | 7.00 |
+| The Cycle Continues | 3.00 |
+| Glowing Waters | 2.00 |
+| Sparkling Alloys | 2.00 |
+| A True Challenge | 2.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,276 (Ranked 112)  
 Completed: 50 (0.80%) (Ranked 86)  
@@ -21,9 +47,6 @@ Completed: 50 (0.80%) (Ranked 86)
 | 2023-05-02 | 6,263 | 50 |
 | 2023-05-03 | 6,272 | 50 |
 | 2023-05-04 | 6,276 | 50 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

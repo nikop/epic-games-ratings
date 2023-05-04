@@ -1,6 +1,435 @@
 {
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
+  "Achievements": [
+    {
+      "ID": "AC1_HA_BLACKGATE",
+      "SetID": "18c818l",
+      "Name": "Hammer and Icicle",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "AC1_HA_BREAK_BUFFS",
+      "SetID": "18c818l",
+      "Name": "Element of Surprise",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "AC1_HA_DEFEAT_MOST_WANTED",
+      "SetID": "18c818l",
+      "Name": "It\u0027s Nice to Be Wanted",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "AC1_HA_DEFEAT_VARIANTS",
+      "SetID": "18c818l",
+      "Name": "Renewable Enemy Source",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "AC1_HA_RESERVOIR",
+      "SetID": "18c818l",
+      "Name": "Crime Is a Terrible Thing to Waste",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "AC1_HA_STARLABS",
+      "SetID": "18c818l",
+      "Name": "The Cold, the Bad and the Ugly",
+      "Percentage": 0.1,
+      "XP": 90
+    },
+    {
+      "ID": "ALL_HEROES_PLAYED",
+      "SetID": "4eo5ebm",
+      "Name": "The Batman Family",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ALL_HEROIC_ASSAULT",
+      "SetID": "18c818l",
+      "Name": "Gotham\u0027s Greatest Depths",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "ALL_SHOWDOWN",
+      "SetID": "18c818l",
+      "Name": "Showdown Sovereign",
+      "Percentage": 0.1,
+      "XP": 90
+    },
+    {
+      "ID": "ALL_TRAINING_ROOMS",
+      "SetID": "4eo5ebm",
+      "Name": "Practice Makes Perfect",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ALL_VILLAIN",
+      "SetID": "4eo5ebm",
+      "Name": "End of an Era",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "APPLY_STATUS",
+      "SetID": "4eo5ebm",
+      "Name": "In Your Element",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "CHALLENGES_1",
+      "SetID": "4eo5ebm",
+      "Name": "Protector of Gotham",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "CLAYFACE_1",
+      "SetID": "4eo5ebm",
+      "Name": "Something in the Clay",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "CLAYFACE_2",
+      "SetID": "4eo5ebm",
+      "Name": "The Show Mud Go On",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "CLAYFACE_3",
+      "SetID": "4eo5ebm",
+      "Name": "Rock and a Hard Place",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "CLAYFACE_SHOWDOWN_1",
+      "SetID": "18c818l",
+      "Name": "That\u0027s Showbiz, Clayby",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "CRAFTING_LEGENDARY_SET",
+      "SetID": "4eo5ebm",
+      "Name": "Dressed to Impress",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "CRAFTING_MOD_CHIPS",
+      "SetID": "4eo5ebm",
+      "Name": "Fusion Expert",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "CRIME_FIGHTER_1",
+      "SetID": "4eo5ebm",
+      "Name": "Expert Crime Fighter",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "CRIME_FIGHTER_2",
+      "SetID": "4eo5ebm",
+      "Name": "Not On My Watch",
+      "Percentage": 0.1,
+      "XP": 35
+    },
+    {
+      "ID": "DEFEAT_COO_1",
+      "SetID": "4eo5ebm",
+      "Name": "Talonted",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "DEFEAT_FREAKS_1",
+      "SetID": "4eo5ebm",
+      "Name": "Bulldozed",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "DEFEAT_LOS_1",
+      "SetID": "4eo5ebm",
+      "Name": "Out of Their League",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "DEFEAT_LOS_2",
+      "SetID": "4eo5ebm",
+      "Name": "The Man-Bat Family",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "DEFEAT_OC_1",
+      "SetID": "4eo5ebm",
+      "Name": "Family Meeting",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "DEFEAT_OC_2",
+      "SetID": "4eo5ebm",
+      "Name": "Shock Til They Drop",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "DEFEAT_OC_3",
+      "SetID": "4eo5ebm",
+      "Name": "Drone You Out",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "FREEZE_1",
+      "SetID": "4eo5ebm",
+      "Name": "To the Victor Go the Spoils",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "FREEZE_1_5",
+      "SetID": "4eo5ebm",
+      "Name": "Quartzer Life Crisis",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "FREEZE_2",
+      "SetID": "4eo5ebm",
+      "Name": "Snow Problem",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "FREEZE_3",
+      "SetID": "4eo5ebm",
+      "Name": "Cooldown",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "FREEZE_SHOWDOWN_1",
+      "SetID": "18c818l",
+      "Name": "Icebreaker",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "FREEZE_SHOWDOWN_2",
+      "SetID": "18c818l",
+      "Name": "Don\u0027t Mecha Big Deal About It",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "GOTHAM_BATARANGS",
+      "SetID": "4eo5ebm",
+      "Name": "Batarang Collector",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "GOTHAM_COO_PAGES",
+      "SetID": "4eo5ebm",
+      "Name": "Read Owl About It",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "GOTHAM_HISTORICAL_PLATES",
+      "SetID": "4eo5ebm",
+      "Name": "History Major",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "GOTHAM_MURALS",
+      "SetID": "4eo5ebm",
+      "Name": "Claiming the Mural High Ground",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "HARLEY_1",
+      "SetID": "4eo5ebm",
+      "Name": "Har, Har, Har, Very Funny",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "HARLEY_2",
+      "SetID": "4eo5ebm",
+      "Name": "Get ReQ\u0027d",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "HARLEY_3",
+      "SetID": "4eo5ebm",
+      "Name": "Working Hard or Harley Working?",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "HARLEY_4",
+      "SetID": "4eo5ebm",
+      "Name": "Universal Health Scare",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "HARLEY_SHOWDOWN_1",
+      "SetID": "18c818l",
+      "Name": "A Sophisticated Mallet",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "HERO_PROGRESSION_1",
+      "SetID": "4eo5ebm",
+      "Name": "First Step Into the Knight",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "HERO_PROGRESSION_2",
+      "SetID": "4eo5ebm",
+      "Name": "He\u0027d Be So Proud of You",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "HERO_PROGRESSION_3",
+      "SetID": "4eo5ebm",
+      "Name": "A Momentum Occasion",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "HERO_PROGRESSION_4",
+      "SetID": "4eo5ebm",
+      "Name": "Unstoppable Force",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "KNIGHTHOOD_1",
+      "SetID": "4eo5ebm",
+      "Name": "Knighthood",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "KNIGHTHOOD_2",
+      "SetID": "4eo5ebm",
+      "Name": "A Worthy Successor",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_01",
+      "SetID": "4eo5ebm",
+      "Name": "Loose Ends",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_02",
+      "SetID": "4eo5ebm",
+      "Name": "Whispered Words",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_03",
+      "SetID": "4eo5ebm",
+      "Name": "Lock and Key",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_04",
+      "SetID": "4eo5ebm",
+      "Name": "Bad Apples in Every Orchard",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_05",
+      "SetID": "4eo5ebm",
+      "Name": "From Inside Gotham\u0027s Walls",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_06",
+      "SetID": "4eo5ebm",
+      "Name": "Voiceless",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_07",
+      "SetID": "4eo5ebm",
+      "Name": "Seeking Asylum",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "MYSTERY_08",
+      "SetID": "4eo5ebm",
+      "Name": "Gotham Knight",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "SECRET_CACHE",
+      "SetID": "4eo5ebm",
+      "Name": "Gotham City Confidential",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "SECRET_IDENTITY",
+      "SetID": "4eo5ebm",
+      "Name": "Solid Alibi",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "TALIA_SHOWDOWN_1",
+      "SetID": "18c818l",
+      "Name": "Confronting Your Demon",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "TIME_TRIALS_1",
+      "SetID": "4eo5ebm",
+      "Name": "Bat Out of Hell",
+      "Percentage": 0.1,
+      "XP": 15
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1653,17 +2082,33 @@
       "NumberOfAwardsMax": 2187
     }
   ],
-  "EOS_Completed_Percentage": 0.15,
+  "TotalAchievementsXP": 1390,
+  "TotalAchievements": 61,
+  "LastChanged_Achievements": "2023-05-04T19:19:41.6777099+00:00",
   "EOS_NewCompleters": 4,
   "EOS_NewPlayers": 229,
   "EOS_Completed": 89,
   "EOS_Progressed": 60620,
-  "LastUpdate_Achievements": "2023-05-04T19:04:50.9515908+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:10.0485191+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:50.9515851+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:41.6777707+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:08.6200715+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4eo5ebm",
+      "IsBase": true,
+      "Progressed": 60620,
+      "Completed": 89
+    },
+    {
+      "ID": "18c818l",
+      "IsBase": false,
+      "Progressed": 30900,
+      "Completed": 2628
+    }
+  ],
+  "EOS_Completed_Percentage": 0.15,
   "LastChanged": "2023-05-04T05:59:53.8579462+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
+  "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2187,
   "NumberOfAwards": 3616,
@@ -1675,5 +2120,5 @@
   "Ranking_Popularity": 99,
   "Ranking_Rating": 826,
   "Rating": 4.17,
-  "FirstSeen": "2022-10-21T19:30:44.6573238+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00"
 }

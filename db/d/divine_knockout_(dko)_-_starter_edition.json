@@ -1,6 +1,7 @@
 {
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) - Starter Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -715,14 +716,18 @@
       "NumberOfAwardsMax": 48
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:44.0776054+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:13.9846209+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:12.1764014+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T23:00:42.2954028+00:00",
+  "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 48,
   "NumberOfAwards": 426,
@@ -734,6 +739,5 @@
   "Ranking_PopularitySum": 294,
   "Ranking_Popularity": 391,
   "Ranking_Rating": 713,
-  "Rating": 4.35,
-  "FirstSeen": "2022-07-22T20:31:52.9902406+00:00"
+  "Rating": 4.35
 }

@@ -1,6 +1,218 @@
 {
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "38ide56",
+      "Name": "Mighty Powers",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "1",
+      "SetID": "38ide56",
+      "Name": "Grand Re-Opening",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "10",
+      "SetID": "38ide56",
+      "Name": "King of the Mountain",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "11",
+      "SetID": "38ide56",
+      "Name": "A Great Explorer",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "12",
+      "SetID": "38ide56",
+      "Name": "Nothing Can Stop You",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "13",
+      "SetID": "38ide56",
+      "Name": "Everything Under Control",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "14",
+      "SetID": "38ide56",
+      "Name": "Pup Pup Boogie",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "15",
+      "SetID": "38ide56",
+      "Name": "Mr. Porter",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "16",
+      "SetID": "38ide56",
+      "Name": "Break Time",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "17",
+      "SetID": "38ide56",
+      "Name": "Master of the Rope",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "18",
+      "SetID": "38ide56",
+      "Name": "Training Day",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "19",
+      "SetID": "38ide56",
+      "Name": "The Fastest",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "2",
+      "SetID": "38ide56",
+      "Name": "Summer Day",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "20",
+      "SetID": "38ide56",
+      "Name": "In the Air",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "21",
+      "SetID": "38ide56",
+      "Name": "Air Ace",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "22",
+      "SetID": "38ide56",
+      "Name": "Clear the Road",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "23",
+      "SetID": "38ide56",
+      "Name": "Never Miss",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "24",
+      "SetID": "38ide56",
+      "Name": "You Know Them All",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "25",
+      "SetID": "38ide56",
+      "Name": "You Have Been Everywhere",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "26",
+      "SetID": "38ide56",
+      "Name": "Animal Sighting",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "27",
+      "SetID": "38ide56",
+      "Name": "The Collector",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "28",
+      "SetID": "38ide56",
+      "Name": "Pup Treat Master",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "29",
+      "SetID": "38ide56",
+      "Name": "Paw patrol member",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "3",
+      "SetID": "38ide56",
+      "Name": "Risky Rescue",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "4",
+      "SetID": "38ide56",
+      "Name": "Carlos Is Tangled",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "5",
+      "SetID": "38ide56",
+      "Name": "Mandy Family",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "6",
+      "SetID": "38ide56",
+      "Name": "Robot Out of Control",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "7",
+      "SetID": "38ide56",
+      "Name": "Don\u2019t Miss Any",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "8",
+      "SetID": "38ide56",
+      "Name": "Mountain and Ice",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "9",
+      "SetID": "38ide56",
+      "Name": "Adventure Bay\u2019s Citizen",
+      "Percentage": 0,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +229,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 30,
+  "LastChanged_Achievements": "2023-05-04T19:19:14.717993+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:04:23.9787811+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:48.9686258+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:23.9787789+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:14.7180155+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:46.5423147+00:00",
+  "AchievementSets": [
+    {
+      "ID": "38ide56",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
+  "FirstSeen": "2023-01-05T14:58:28.7131253+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
-  "FirstSeen": "2023-01-05T14:58:28.7131253+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00"
 }

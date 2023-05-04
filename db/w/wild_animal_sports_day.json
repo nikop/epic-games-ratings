@@ -1,20 +1,31 @@
 {
   "ID": "088a84adb8e34fd881e77cd4f3c23ba8",
   "Name": "Wild Animal Sports Day",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:26.8503618+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:35.754329+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:05.2920929+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:35.7543269+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:26.8503669+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:03.4220884+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9fjm696",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00"
 }

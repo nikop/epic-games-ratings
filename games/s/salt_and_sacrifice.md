@@ -4,9 +4,65 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 929  (Ranked 140)  
 Sum: 1,859 (Ranked 191)  
-Diff (max vs sum): -51
+Diff (max vs sum): -51  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| The Champion | 91.00 |
+| The Pyromancer | 86.00 |
+| The Wastes | 83.00 |
+| Waste Not | 80.00 |
+| The Cryomancer | 76.00 |
+| Stock Up | 75.00 |
+| The Hydromancer | 73.00 |
+| The Matriarch | 70.00 |
+| The Aeromancer | 66.00 |
+| The Huntsman | 65.00 |
+| The Venomancer | 65.00 |
+| Dawnlight Order | 64.00 |
+| The Electromancer | 61.00 |
+| The Terramancer | 59.00 |
+| The Exalted | 56.00 |
+| Sheriff Inquisitors | 55.00 |
+| Blueheart Runners | 54.00 |
+| The Necromancer | 52.00 |
+| The Swamp | 50.00 |
+| The Fungalmancer | 47.00 |
+| The Thaumamancer | 47.00 |
+| The Hag | 45.00 |
+| The Corpumancer | 42.00 |
+| The Mountain | 40.00 |
+| The Treeheart | 40.00 |
+| Shroud Alliance | 39.00 |
+| The Two Monks | 37.00 |
+| The Neuromancer | 34.00 |
+| Oathbound Watchers | 33.00 |
+| The Chronomancer | 32.00 |
+| The Mechanomancer | 32.00 |
+| The Copse | 29.00 |
+| The Dragon | 29.00 |
+| The Dracomancer | 29.00 |
+| The Umbramancer | 28.00 |
+| Well Stocked | 27.00 |
+| Chaos Hunger | 27.00 |
+| The Kinetomancer | 27.00 |
+| The Sanguimancer | 27.00 |
+| The Bibliomancer | 25.00 |
+| The Luminimancer | 25.00 |
+| The Skylord | 25.00 |
+| The Firelord | 24.00 |
+| Want Not | 21.00 |
+| The Diablomancer | 21.00 |
+| The Sacrifice | 20.00 |
+| The King | 18.00 |
+| Take Your Place | 14.00 |
+| The Nomad | 14.00 |
+| The Soldier | 11.00 |
+| Make The Climb | 10.00 |
+| The Scholar | 10.00 |
+| Top Shelf | 5.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,730 (Ranked 63)  
+Progressed: 63,732 (Ranked 63)  
 Completed: 1,149 (1.80%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +76,7 @@ Completed: 1,149 (1.80%) (Ranked 58)
 | 2023-05-01 | 63,683 | 1,146 |
 | 2023-05-02 | 63,694 | 1,146 |
 | 2023-05-03 | 63,720 | 1,148 |
-| 2023-05-04 | 63,730 | 1,149 |
+| 2023-05-04 | 63,732 | 1,149 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

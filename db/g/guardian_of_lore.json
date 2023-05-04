@@ -1,6 +1,7 @@
 {
   "ID": "f7f47b2772ea436e903df64707ef4048",
   "Name": "Guardian of Lore",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:21.7883847+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:46.7702996+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:45.7808094+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:15.9627859+00:00",
   "FirstSeenRating": "2023-03-31T05:57:15.9627858+00:00",
+  "FirstSeen": "2022-07-22T20:19:47.8569223+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:19:47.8569223+00:00"
+  "Ranking_EOS_Progress": 378
 }

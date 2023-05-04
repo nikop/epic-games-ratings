@@ -1,11 +1,48 @@
 # Chess Ultra
 Rating: 4.25 (Ranked 775)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Chop Wood | 66.00 |
+| Doubled Pawn | 53.00 |
+| Check | 52.00 |
+| Absolute pin | 44.00 |
+| Promotion | 29.00 |
+| Checkmate | 28.00 |
+| O-O | 22.00 |
+| Queen Sacrifice | 19.00 |
+| Spanish Bishop | 19.00 |
+| Stalemate | 17.00 |
+| O-O-O | 12.00 |
+| Octopus | 12.00 |
+| Stranger Danger | 12.00 |
+| En Passant | 8.00 |
+| Double Check | 7.00 |
+| Family Fork | 5.00 |
+| Friendly Fire | 5.00 |
+| Piece Collector | 5.00 |
+| ELO | 4.00 |
+| Underpromote | 4.00 |
+| ELO ELO | 3.00 |
+| Blind Pigs | 2.00 |
+| ELO ELO ELO | 2.00 |
+| Learner | 2.00 |
+| Bobby Time | 1.00 |
+| Back-rank Mate | 0.80 |
+| Chess Champion | 0.30 |
+| Alekhine’s gun | 0.10 |
+| Boden’s Mate | 0.10 |
+| Epaulette Mate | 0.10 |
+| Fool’s Mate | 0.10 |
+| Problem Solved | 0.10 |
+| Problem Solver | 0.10 |
+| Scholar’s Mate | 0.10 |
+| Tournament Amateur | 0.10 |
+| Tournament Champion | 0.00 |
+| Tournament Master | 0.00 |
+| Tournament Pro | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,338 (Ranked 52)  
+Progressed: 156,351 (Ranked 52)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +56,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 154,135 | 0 |
 | 2023-05-02 | 154,972 | 0 |
 | 2023-05-03 | 155,748 | 0 |
-| 2023-05-04 | 156,338 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 156,351 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

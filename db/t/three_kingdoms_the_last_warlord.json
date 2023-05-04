@@ -1,20 +1,1376 @@
 {
   "ID": "e288241813e745f0a4d4083cf08f9138",
   "Name": "Three Kingdoms The Last Warlord",
+  "Achievements": [
+    {
+      "ID": "EAI_AchievemenInfo1",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo10",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo11",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo12",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo13",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo14",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo15",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo16",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv7",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo17",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv8",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo18",
+      "SetID": "8i3152i",
+      "Name": "Ruler Lv9",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo19",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo2",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo20",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo21",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo22",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo23",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo24",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo25",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv7",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo26",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv8",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo27",
+      "SetID": "8i3152i",
+      "Name": "Collector Lv9",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo28",
+      "SetID": "8i3152i",
+      "Name": "Conqueror Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo29",
+      "SetID": "8i3152i",
+      "Name": "Conqueror Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo3",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo30",
+      "SetID": "8i3152i",
+      "Name": "Conqueror Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo31",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo32",
+      "SetID": "8i3152i",
+      "Name": "Conqueror Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo33",
+      "SetID": "8i3152i",
+      "Name": "Builder Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo34",
+      "SetID": "8i3152i",
+      "Name": "Builder Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo35",
+      "SetID": "8i3152i",
+      "Name": "Builder Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo36",
+      "SetID": "8i3152i",
+      "Name": "Builder Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo37",
+      "SetID": "8i3152i",
+      "Name": "Builder Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo38",
+      "SetID": "8i3152i",
+      "Name": "even Great Cities",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo39",
+      "SetID": "8i3152i",
+      "Name": "Field Mater Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo4",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo40",
+      "SetID": "8i3152i",
+      "Name": "Field Mater Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo41",
+      "SetID": "8i3152i",
+      "Name": "Field Mater Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo42",
+      "SetID": "8i3152i",
+      "Name": "Field Mater Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo43",
+      "SetID": "8i3152i",
+      "Name": "Field Mater Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo44",
+      "SetID": "8i3152i",
+      "Name": "Field Mater Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo45",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo46",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo47",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo48",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo49",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo5",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo50",
+      "SetID": "8i3152i",
+      "Name": "Siege Mater Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo51",
+      "SetID": "8i3152i",
+      "Name": "Duel Mater Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo52",
+      "SetID": "8i3152i",
+      "Name": "Duel Mater Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo53",
+      "SetID": "8i3152i",
+      "Name": "Duel Mater Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo54",
+      "SetID": "8i3152i",
+      "Name": "Duel Mater Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo55",
+      "SetID": "8i3152i",
+      "Name": "Duel Mater Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo56",
+      "SetID": "8i3152i",
+      "Name": "Master Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo57",
+      "SetID": "8i3152i",
+      "Name": "Master Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo58",
+      "SetID": "8i3152i",
+      "Name": "Master Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo59",
+      "SetID": "8i3152i",
+      "Name": "Master Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo6",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo60",
+      "SetID": "8i3152i",
+      "Name": "Master Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo61",
+      "SetID": "8i3152i",
+      "Name": "Master Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo62",
+      "SetID": "8i3152i",
+      "Name": "Power Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo63",
+      "SetID": "8i3152i",
+      "Name": "Power Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo64",
+      "SetID": "8i3152i",
+      "Name": "Power Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo65",
+      "SetID": "8i3152i",
+      "Name": "Power Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo66",
+      "SetID": "8i3152i",
+      "Name": "Power Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo67",
+      "SetID": "8i3152i",
+      "Name": "Power Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo68",
+      "SetID": "8i3152i",
+      "Name": "Achiever Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo69",
+      "SetID": "8i3152i",
+      "Name": "Achiever Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo7",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV7",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo70",
+      "SetID": "8i3152i",
+      "Name": "Achiever Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo71",
+      "SetID": "8i3152i",
+      "Name": "Achiever Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo72",
+      "SetID": "8i3152i",
+      "Name": "Achiever Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo73",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo74",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv2",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo75",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv3",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo76",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv4",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo77",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv5",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo78",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv6",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo79",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv7",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo8",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV8",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo80",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv8",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo81",
+      "SetID": "8i3152i",
+      "Name": "Dedicator Lv9",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "EAI_AchievemenInfo82",
+      "SetID": "8i3152i",
+      "Name": "Dong Zhuo\u0027s Rise",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo83",
+      "SetID": "8i3152i",
+      "Name": "Warlords",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo84",
+      "SetID": "8i3152i",
+      "Name": "Battle of Guan Du",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo85",
+      "SetID": "8i3152i",
+      "Name": "Brotherhood",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo86",
+      "SetID": "8i3152i",
+      "Name": "The Three Visits",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo87",
+      "SetID": "8i3152i",
+      "Name": "Three Main Powers ruled the Land",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo88",
+      "SetID": "8i3152i",
+      "Name": "Heroes Reunion",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo89",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfo9",
+      "SetID": "8i3152i",
+      "Name": "Seeker LV9",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_10",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_11",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_12",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_13",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_14",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_15",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_16",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_8",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType14_9",
+      "SetID": "8i3152i",
+      "Name": "The Yellow Turbans",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_0",
+      "SetID": "8i3152i",
+      "Name": "Two Masters",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_1",
+      "SetID": "8i3152i",
+      "Name": "The Zhang Twins",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_10",
+      "SetID": "8i3152i",
+      "Name": "Four Commanders of Wu",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_11",
+      "SetID": "8i3152i",
+      "Name": "Three Rangers",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_12",
+      "SetID": "8i3152i",
+      "Name": "Four Generals of West Yi",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_13",
+      "SetID": "8i3152i",
+      "Name": "Four Generals of Hebei",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_14",
+      "SetID": "8i3152i",
+      "Name": "Four Remarkables of Xuzhou",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_15",
+      "SetID": "8i3152i",
+      "Name": "Four Wises of Wei",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_16",
+      "SetID": "8i3152i",
+      "Name": "Four Elites of Xiahou",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_17",
+      "SetID": "8i3152i",
+      "Name": "Cao Pi\u0027s Friends",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_18",
+      "SetID": "8i3152i",
+      "Name": "Zhuge\u0027s Friends",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_19",
+      "SetID": "8i3152i",
+      "Name": "Four Bandits",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_2",
+      "SetID": "8i3152i",
+      "Name": "Two Generals of Guiyang",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_20",
+      "SetID": "8i3152i",
+      "Name": "Bandits of Mount Tai",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_21",
+      "SetID": "8i3152i",
+      "Name": "Eight Advisers of Hebei",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_22",
+      "SetID": "8i3152i",
+      "Name": "Eight Tigers of House Cao",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_23",
+      "SetID": "8i3152i",
+      "Name": "Five Tigers of Jingnan",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_24",
+      "SetID": "8i3152i",
+      "Name": "Five Tiger Generals",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_25",
+      "SetID": "8i3152i",
+      "Name": "Five Ministers of Wu",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_26",
+      "SetID": "8i3152i",
+      "Name": "Five Elite Generals",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_27",
+      "SetID": "8i3152i",
+      "Name": "Five Tigers of House Han",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_28",
+      "SetID": "8i3152i",
+      "Name": "Six Governors",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_29",
+      "SetID": "8i3152i",
+      "Name": "Seven Wisdoms",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_3",
+      "SetID": "8i3152i",
+      "Name": "Three Ministers of Wei",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_30",
+      "SetID": "8i3152i",
+      "Name": "Seven Writers of Han",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_31",
+      "SetID": "8i3152i",
+      "Name": "Eight of House Sima",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_32",
+      "SetID": "8i3152i",
+      "Name": "Eight Master Generals",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_33",
+      "SetID": "8i3152i",
+      "Name": "Ten Generals of Guanzhong",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_34",
+      "SetID": "8i3152i",
+      "Name": "Titles Expert",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_4",
+      "SetID": "8i3152i",
+      "Name": "Three Conquerors of Wei",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_5",
+      "SetID": "8i3152i",
+      "Name": "Three Dogs",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_6",
+      "SetID": "8i3152i",
+      "Name": "Huainan Rebels",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_7",
+      "SetID": "8i3152i",
+      "Name": "Dragon Brothers",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_8",
+      "SetID": "8i3152i",
+      "Name": "Four Wises of Wu",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType2_9",
+      "SetID": "8i3152i",
+      "Name": "Four Ministers of Shu",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_0",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv1",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_1",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv2",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_2",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv3",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_3",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv4",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_4",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv5",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_5",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv6",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_6",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv7",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_7",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv8",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType4_8",
+      "SetID": "8i3152i",
+      "Name": "Grantor Lv9",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_0",
+      "SetID": "8i3152i",
+      "Name": "Pretty Horses",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_1",
+      "SetID": "8i3152i",
+      "Name": "Divine Swords",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_10",
+      "SetID": "8i3152i",
+      "Name": "Ink Writing",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_11",
+      "SetID": "8i3152i",
+      "Name": "Collections of Political Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_12",
+      "SetID": "8i3152i",
+      "Name": "Collections of Educational Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_13",
+      "SetID": "8i3152i",
+      "Name": "Collections of Medical Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_14",
+      "SetID": "8i3152i",
+      "Name": "Collections of Remarkable Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_15",
+      "SetID": "8i3152i",
+      "Name": "Collections of Geographical Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_16",
+      "SetID": "8i3152i",
+      "Name": "Collections of Accessory",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_17",
+      "SetID": "8i3152i",
+      "Name": "Pearls and Jade",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_18",
+      "SetID": "8i3152i",
+      "Name": "Silk and Satin",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_19",
+      "SetID": "8i3152i",
+      "Name": "Bronze Age",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_2",
+      "SetID": "8i3152i",
+      "Name": "Thousands of Blades",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_20",
+      "SetID": "8i3152i",
+      "Name": "Great Tripod",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_21",
+      "SetID": "8i3152i",
+      "Name": "Drum and Instrument",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_22",
+      "SetID": "8i3152i",
+      "Name": "Collections of Ceramic",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_23",
+      "SetID": "8i3152i",
+      "Name": "Collections of Lacquer",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_24",
+      "SetID": "8i3152i",
+      "Name": "Works of Herb",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_25",
+      "SetID": "8i3152i",
+      "Name": "Wine and Flesh",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_26",
+      "SetID": "8i3152i",
+      "Name": "The Four Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_27",
+      "SetID": "8i3152i",
+      "Name": "The Five Classics",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_28",
+      "SetID": "8i3152i",
+      "Name": "Three Books of TaiGong",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_29",
+      "SetID": "8i3152i",
+      "Name": "Six Swords of Sun Quan",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_3",
+      "SetID": "8i3152i",
+      "Name": "Thousands of Bows",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_30",
+      "SetID": "8i3152i",
+      "Name": "Three Swords of Cao Pi",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_31",
+      "SetID": "8i3152i",
+      "Name": "Five Swords of Ouye Zi",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_4",
+      "SetID": "8i3152i",
+      "Name": "Unparalleled Spikes",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_5",
+      "SetID": "8i3152i",
+      "Name": "Peerless Spears",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_6",
+      "SetID": "8i3152i",
+      "Name": "Unrivaled Axes",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_7",
+      "SetID": "8i3152i",
+      "Name": "Weapons Spectrum",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_8",
+      "SetID": "8i3152i",
+      "Name": "Collections of Armor",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType5_9",
+      "SetID": "8i3152i",
+      "Name": "Collections of Military Books",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_0",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in You Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_1",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Ji Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_10",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Yang Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_11",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Jiao Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_12",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in North",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_13",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Central",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_14",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Northwest",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_15",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Southwest",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_16",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Southeast",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_17",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in South",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_2",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Qing Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_3",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Bing Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_4",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Yan Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_5",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Yu Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_6",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Xu Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_7",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Si Protectorate",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_8",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Yong Prov",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "EAI_AchievemenInfoType6_9",
+      "SetID": "8i3152i",
+      "Name": "Conqueror in Yi Prov",
+      "Percentage": 0,
+      "XP": 5
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 192,
+  "LastChanged_Achievements": "2023-05-04T19:18:42.72298+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:49.571534+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:50.9405051+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:49.5715324+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:35.044621+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:42.7233436+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:49.3484543+00:00",
+  "AchievementSets": [
+    {
+      "ID": "8i3152i",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:47:35.044621+00:00"
 }

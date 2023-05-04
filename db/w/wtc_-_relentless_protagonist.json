@@ -1,6 +1,428 @@
 {
   "ID": "bc79c881398d46359a98d989ee7abb2e",
   "Name": "WTC - Relentless Protagonist",
+  "Achievements": [
+    {
+      "ID": "WTCRP_BURY",
+      "SetID": "94elm8b",
+      "Name": "Burying the past",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_CDPLAYER",
+      "SetID": "94elm8b",
+      "Name": "CD Player",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_DAD",
+      "SetID": "94elm8b",
+      "Name": "Father Route",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_DAY1",
+      "SetID": "94elm8b",
+      "Name": "Day #1",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY2",
+      "SetID": "94elm8b",
+      "Name": "Day #2",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY3",
+      "SetID": "94elm8b",
+      "Name": "Day #3",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY4",
+      "SetID": "94elm8b",
+      "Name": "Day #4",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY5",
+      "SetID": "94elm8b",
+      "Name": "Day #5",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY6",
+      "SetID": "94elm8b",
+      "Name": "Day #6",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY7",
+      "SetID": "94elm8b",
+      "Name": "Day #7",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY8",
+      "SetID": "94elm8b",
+      "Name": "Day #8",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DAY9",
+      "SetID": "94elm8b",
+      "Name": "Day #9",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_DONOTHING",
+      "SetID": "94elm8b",
+      "Name": "Do nothing",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_ENDCREDITS",
+      "SetID": "94elm8b",
+      "Name": "End Credits",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EP1",
+      "SetID": "94elm8b",
+      "Name": "Epilogue #1",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EP2",
+      "SetID": "94elm8b",
+      "Name": "Epilogue #2",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EP3",
+      "SetID": "94elm8b",
+      "Name": "Epilogue #3",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EP4",
+      "SetID": "94elm8b",
+      "Name": "Epilogue #4",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_ESCAPE",
+      "SetID": "94elm8b",
+      "Name": "Escape",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EXAMS",
+      "SetID": "94elm8b",
+      "Name": "School exams",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_EXCLASSREP",
+      "SetID": "94elm8b",
+      "Name": "Ex-class representative",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EXPLODE",
+      "SetID": "94elm8b",
+      "Name": "Explode #1",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_EXPLODEE",
+      "SetID": "94elm8b",
+      "Name": "Explode #2",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_FEMALEPRO",
+      "SetID": "94elm8b",
+      "Name": "Female Protagonist",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_FIGHT",
+      "SetID": "94elm8b",
+      "Name": "Fight",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_FINDSTFROOM",
+      "SetID": "94elm8b",
+      "Name": "Staff Room",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_FORCEFIELD",
+      "SetID": "94elm8b",
+      "Name": "Forcefield",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_GETALL",
+      "SetID": "94elm8b",
+      "Name": "ULTIMATE ACHIEVEMENT!",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_GODIRECT",
+      "SetID": "94elm8b",
+      "Name": "Go Direct",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_GRENDELTD",
+      "SetID": "94elm8b",
+      "Name": "Grendel The Dunce",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_GRENDELTG",
+      "SetID": "94elm8b",
+      "Name": "Grendel The Genius",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_GUARDBOX",
+      "SetID": "94elm8b",
+      "Name": "Guard Voting Box",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_HARDDRIVIN",
+      "SetID": "94elm8b",
+      "Name": "Bury The Harddrive",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_HELPOUT",
+      "SetID": "94elm8b",
+      "Name": "Helping Out",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_HISTORY",
+      "SetID": "94elm8b",
+      "Name": "Zafast City History",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_INTHERUNNING",
+      "SetID": "94elm8b",
+      "Name": "In The Running",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_INTRODCLONE",
+      "SetID": "94elm8b",
+      "Name": "Introductions #1/3",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_INTRONOSC",
+      "SetID": "94elm8b",
+      "Name": "Introductions #2/3",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_INTROSC",
+      "SetID": "94elm8b",
+      "Name": "Introductions #3/3",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_KEEPINGSECRETS",
+      "SetID": "94elm8b",
+      "Name": "Keeping Secrets",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_MALEPRO",
+      "SetID": "94elm8b",
+      "Name": "Male Protagonist",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_MUM",
+      "SetID": "94elm8b",
+      "Name": "Mother Route",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_MUMHOLIDAY",
+      "SetID": "94elm8b",
+      "Name": "Grendel\u0027s Mother Has A Rest",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_MUMWORK",
+      "SetID": "94elm8b",
+      "Name": "Grendel\u0027s Mother Keeps On Working",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_NEWGAME",
+      "SetID": "94elm8b",
+      "Name": "Start a new game",
+      "Percentage": 50,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_NEWNAME",
+      "SetID": "94elm8b",
+      "Name": "Enter a new name",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_NOTGUARDBOX",
+      "SetID": "94elm8b",
+      "Name": "Voting Box Not Guarded",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_NOWTCRD",
+      "SetID": "94elm8b",
+      "Name": "Haven\u0027t played WTC : Recruitment Day",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_ORGENDING",
+      "SetID": "94elm8b",
+      "Name": "Original Ending",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_PROLOGUE",
+      "SetID": "94elm8b",
+      "Name": "Complete the prologue",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_RADIOJINX",
+      "SetID": "94elm8b",
+      "Name": "Radio Jinx",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_SEVERY",
+      "SetID": "94elm8b",
+      "Name": "Search Everywhere",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_SONEITEM",
+      "SetID": "94elm8b",
+      "Name": "Searched one item",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_SS1",
+      "SetID": "94elm8b",
+      "Name": "Side Story",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_SSOMEITEMS",
+      "SetID": "94elm8b",
+      "Name": "Searched At Least Two Items",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "WTCRP_STTP",
+      "SetID": "94elm8b",
+      "Name": "Correct Location",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_SURVIVE",
+      "SetID": "94elm8b",
+      "Name": "Survive!",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_TITLESEQ",
+      "SetID": "94elm8b",
+      "Name": "Title Sequence",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_VICTIM",
+      "SetID": "94elm8b",
+      "Name": "Victim",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "WTCRP_WTCRD",
+      "SetID": "94elm8b",
+      "Name": "Have played WTC : Recruitment Day",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -25,17 +447,27 @@
     }
   ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 60,
+  "LastChanged_Achievements": "2023-05-04T19:18:48.8732376+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T19:03:56.2651604+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:17.8987494+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:56.2651575+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:48.8732926+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:16.7216223+00:00",
+  "AchievementSets": [
+    {
+      "ID": "94elm8b",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 329
+  "Ranking_EOS_Progress": 329,
+  "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00"
 }

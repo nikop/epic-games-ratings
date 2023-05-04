@@ -4,7 +4,76 @@ Number of Ratings: 743  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 769  (Ranked 146)  
 Sum: 2,350 (Ranked 170)  
-Diff (max vs sum): -24
+Diff (max vs sum): -24  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Shoot it, man! Shoot it in the head! | 68.00 |
+| Say goodbye, creep! | 65.00 |
+| Blood splattered | 64.00 |
+| Choo choo! | 61.00 |
+| Groovy | 60.00 |
+| Cleanup on aisle 4! | 56.00 |
+| Gold | 50.00 |
+| The boat can leave now...tell the crew | 48.00 |
+| Give me something to shoot! | 46.00 |
+| Stand back boy! | 46.00 |
+| Weird science | 44.00 |
+| Chain reaction | 44.00 |
+| Look mummy! A shark! | 41.00 |
+| What did you say, Blain? | 41.00 |
+| In the dark dark woods... | 38.00 |
+| Come and get it! It's a running buffet! | 38.00 |
+| Double tap | 36.00 |
+| Cranial blowout! | 36.00 |
+| Zombie killin' machine | 36.00 |
+| Every bullet counts | 36.00 |
+| All of this has happened before… | 35.00 |
+| You've got red on you | 34.00 |
+| All roads lead to Rome | 33.00 |
+| You're all going to die down here | 31.00 |
+| He did Nazi that coming | 31.00 |
+| Kill of the week | 30.00 |
+| I never liked them anyway | 30.00 |
+| Is it over? | 28.00 |
+| Got your back | 27.00 |
+| Gore soaked | 24.00 |
+| Shock therapy | 22.00 |
+| Leave the limbs you've lost | 22.00 |
+| Everyone's a mad scientist, life is the lab | 18.00 |
+| Take them down screaming | 18.00 |
+| Weapons expert | 17.00 |
+| Bad Blood | 16.00 |
+| The bigger they are... | 15.00 |
+| I'm going deeper underground | 14.00 |
+| Well equipped | 12.00 |
+| Into the deep | 12.00 |
+| Damnedbusters | 9.00 |
+| I can do anything I want. I got guns | 8.00 |
+| Send me an angel | 8.00 |
+| Plane sailing | 7.00 |
+| This is no Sunday School picnic! | 7.00 |
+| I never redoubted you! | 7.00 |
+| Gotcha, didn't I? | 7.00 |
+| A gross gross | 7.00 |
+| Hail to the king, baby! | 7.00 |
+| Something wicked this way comes | 6.00 |
+| Not today you won't | 6.00 |
+| Take a little bit of Italy with you | 6.00 |
+| Staring at Shadows | 6.00 |
+| Hoarder | 6.00 |
+| Kali Ma | 5.00 |
+| I told you we should have gone to the beach | 5.00 |
+| Have you tried turning it off and on again? | 5.00 |
+| They're coming to get you Barbara | 4.00 |
+| Total protonic reversal | 4.00 |
+| A friend in need | 4.00 |
+| People don't change. We go round in circles | 3.00 |
+| The blighters got through a second time. | 3.00 |
+| I'm a survivor! | 3.00 |
+| That's a lot of them, and only 4 of us | 2.00 |
+| Just me and my trusty sidearm | 1.00 |
+| None more hard | 0.50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42,201 (Ranked 76)  
 Completed: 24 (0.06%) (Ranked 161)  

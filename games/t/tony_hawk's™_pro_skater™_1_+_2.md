@@ -4,7 +4,10 @@ Number of Ratings: 1,298  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 82  (Ranked 344)  
 Sum: 645 (Ranked 268)  
-Diff (max vs sum): 76
+Diff (max vs sum): 76  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

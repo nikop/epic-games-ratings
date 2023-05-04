@@ -1,9 +1,38 @@
 # Garden In
-Rating: - (Ranked -)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| A Greener Day | 0.00 |
+| A Sad Moment | 0.00 |
+| Balcony Optimizer | 0.00 |
+| Budding Scientist | 0.00 |
+| Dry No More | 0.00 |
+| Feet in the Water | 0.00 |
+| Food for Insects | 0.00 |
+| Hands in the Dirt | 0.00 |
+| Head in the Clouds | 0.00 |
+| Lab-Room | 0.00 |
+| Landlord | 0.00 |
+| Leave My Baby Alone! | 0.00 |
+| Let's Go for a Walk | 0.00 |
+| Love and Science | 0.00 |
+| Master Gardener | 0.00 |
+| #NewFilter | 0.00 |
+| Perfectionist | 0.00 |
+| Pet Pet Pet | 0.00 |
+| Pottery Connoisseur | 0.00 |
+| Research Complete | 0.00 |
+| Room Revealer | 0.00 |
+| Say Cheese! | 0.00 |
+| Seed of Love | 0.00 |
+| Spray Spray Spray | 0.00 |
+| Taking Notes | 0.00 |
+| The Best One | 0.00 |
+| The Mendel Experiment | 0.00 |
+| Time for Renovations | 0.00 |
+| Water Water Water | 0.00 |
+| Weeds Have Feelings Too | 0.00 |
+| Who's a Good Plant? | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 131 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -14,9 +43,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 129 | 0 |
 | 2023-05-03 | 130 | 0 |
 | 2023-05-04 | 131 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

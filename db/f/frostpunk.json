@@ -1,6 +1,7 @@
 {
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -3305,16 +3306,26 @@
       "NumberOfAwardsMax": 768
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:15:16.0369769+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:17.6305808+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:23.6073629+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:17.6305793+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:16.0369846+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:22.8000452+00:00",
+  "AchievementSets": [
+    {
+      "ID": "bf9dj5j",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T16:57:51.5919883+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
+  "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 768,
   "NumberOfAwards": 6419,
@@ -3327,5 +3338,5 @@
   "Ranking_Popularity": 147,
   "Ranking_Rating": 142,
   "Rating": 4.74,
-  "FirstSeen": "2022-07-22T20:20:37.412546+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00"
 }

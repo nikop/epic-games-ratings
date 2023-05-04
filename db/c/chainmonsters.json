@@ -1,6 +1,7 @@
 {
   "ID": "f38ace8ec02445d7a0262a886b90bd40",
   "Name": "Chainmonsters",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -23,15 +24,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:28.1526385+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:59.1178262+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:56.7945126+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-24T10:57:27.2506217+00:00",
   "FirstSeenRating": "2023-03-31T05:57:40.1233993+00:00",
+  "FirstSeen": "2023-03-08T23:57:35.02052+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -41,6 +46,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 901,
-  "Rating": 3.81,
-  "FirstSeen": "2023-03-08T23:57:35.02052+00:00"
+  "Rating": 3.81
 }

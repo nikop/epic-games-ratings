@@ -1,6 +1,7 @@
 {
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -57,17 +58,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:19:35.5478301+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:44.6364313+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:12.0647795+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:44.6364298+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:35.5478397+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:10.5099133+00:00",
+  "AchievementSets": [
+    {
+      "ID": "3k5ibhn",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-04T22:57:51.9021936+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
+  "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -78,5 +89,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 290,
   "Rating": 4.65,
-  "FirstSeen": "2022-08-05T02:02:12.3319338+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00"
 }

@@ -1,6 +1,421 @@
 {
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+  "Achievements": [
+    {
+      "ID": "ArsenalOfDestruction",
+      "SetID": "2im8phi",
+      "Name": "Arsenal of Destruction",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "AugmeticKnight",
+      "SetID": "3jha1np",
+      "Name": "The Flesh is Weak",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "AutoDisrupted",
+      "SetID": "3jha1np",
+      "Name": "Look Over There!",
+      "Percentage": 27,
+      "XP": 10
+    },
+    {
+      "ID": "BloodAndIron",
+      "SetID": "2im8phi",
+      "Name": "Blood and Iron",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "CampaignVictory_Day500",
+      "SetID": "3jha1np",
+      "Name": "Crisis Management",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "CampaignVictory_GrandMaster",
+      "SetID": "3jha1np",
+      "Name": "Grand Master",
+      "Percentage": 0.2,
+      "XP": 90
+    },
+    {
+      "ID": "CampaignVictory_Legendary",
+      "SetID": "3jha1np",
+      "Name": "Legend of Titan",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "CampaignVictory_NoFlowering",
+      "SetID": "3jha1np",
+      "Name": "Clean Slate",
+      "Percentage": 0.8,
+      "XP": 30
+    },
+    {
+      "ID": "CompletedAllShipUpgrades",
+      "SetID": "3jha1np",
+      "Name": "Patron of Deimos",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "Dominus",
+      "SetID": "2im8phi",
+      "Name": "Dominus",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "DroneArmy",
+      "SetID": "2im8phi",
+      "Name": "Drone Army",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "ExperiencedKnight",
+      "SetID": "3jha1np",
+      "Name": "Honoured Battle-Brother",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "ExtractorSkullUses",
+      "SetID": "3jha1np",
+      "Name": "Surgical Excision",
+      "Percentage": 14,
+      "XP": 10
+    },
+    {
+      "ID": "FinalMissionVictory_NoMasterCraft",
+      "SetID": "3jha1np",
+      "Name": "Standard-Issue Killer",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "FleetMaster",
+      "SetID": "2im8phi",
+      "Name": "Fleetmaster",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ForTheMachineGod",
+      "SetID": "2im8phi",
+      "Name": "For the Machine God",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "FrequentWarpSurges",
+      "SetID": "3jha1np",
+      "Name": "Unstable Immaterium",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "FullBarracks",
+      "SetID": "3jha1np",
+      "Name": "Strike Force",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "HeavyExterminatusUse",
+      "SetID": "3jha1np",
+      "Name": "Mass Extinction",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "KadexCaptured",
+      "SetID": "3jha1np",
+      "Name": "Daemonkeeper",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "KadexDefeated_Nexus",
+      "SetID": "3jha1np",
+      "Name": "Hold Your Ground",
+      "Percentage": 6,
+      "XP": 30
+    },
+    {
+      "ID": "Kills_Auto",
+      "SetID": "3jha1np",
+      "Name": "Not So Fast...",
+      "Percentage": 26,
+      "XP": 5
+    },
+    {
+      "ID": "Kills_Bleed",
+      "SetID": "3jha1np",
+      "Name": "Blood for the Blood God!",
+      "Percentage": 16,
+      "XP": 5
+    },
+    {
+      "ID": "Kills_Bloomspawn",
+      "SetID": "3jha1np",
+      "Name": "Corruption Cleanser",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "Kills_Executioner",
+      "SetID": "3jha1np",
+      "Name": "Executioner",
+      "Percentage": 30,
+      "XP": 5
+    },
+    {
+      "ID": "Kills_Exterminator",
+      "SetID": "3jha1np",
+      "Name": "Exterminator",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Kills_FriendlyFire",
+      "SetID": "3jha1np",
+      "Name": "Friendly Fire",
+      "Percentage": 15,
+      "XP": 15
+    },
+    {
+      "ID": "Kills_Interactable",
+      "SetID": "3jha1np",
+      "Name": "Opportunist",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Kills_Knockback",
+      "SetID": "3jha1np",
+      "Name": "Watch Where You Step...",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "Kills_Streak",
+      "SetID": "3jha1np",
+      "Name": "Purging Spree",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "Kills_Vakir",
+      "SetID": "3jha1np",
+      "Name": "Hands-On Research",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "KoramarCompleted",
+      "SetID": "3jha1np",
+      "Name": "An Ill Omen",
+      "Percentage": 24,
+      "XP": 5
+    },
+    {
+      "ID": "LargeGrimoireInventory",
+      "SetID": "3jha1np",
+      "Name": "Mind Like a Fortress",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "MasterCraftLevel3_Armour",
+      "SetID": "3jha1np",
+      "Name": "The Emperor Protects",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "MasterCraftLevel3_Melee",
+      "SetID": "3jha1np",
+      "Name": "Nemesis Master",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "MasterCraftLevel3_Ranged",
+      "SetID": "3jha1np",
+      "Name": "Gunmaster",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "MasterOfTheForge",
+      "SetID": "2im8phi",
+      "Name": "Master of the Forge",
+      "Percentage": 0.1,
+      "XP": 30
+    },
+    {
+      "ID": "MissionVictory_Apothecaries",
+      "SetID": "3jha1np",
+      "Name": "Field Apothecarion",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "MissionVictory_Duo",
+      "SetID": "3jha1np",
+      "Name": "Brothers in Arms",
+      "Percentage": 0.2,
+      "XP": 30
+    },
+    {
+      "ID": "MissionVictory_Interceptors",
+      "SetID": "3jha1np",
+      "Name": "Warp Flickers",
+      "Percentage": 0.4,
+      "XP": 20
+    },
+    {
+      "ID": "MissionVictory_Justicars",
+      "SetID": "3jha1np",
+      "Name": "Phalanx",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "MissionVictory_NoAmmo",
+      "SetID": "3jha1np",
+      "Name": "Efficient Killer",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "MissionVictory_NoDamage",
+      "SetID": "3jha1np",
+      "Name": "Bloodless",
+      "Percentage": 13,
+      "XP": 30
+    },
+    {
+      "ID": "MissionVictory_NoWP",
+      "SetID": "3jha1np",
+      "Name": "Exercise in Restraint",
+      "Percentage": 0.9,
+      "XP": 15
+    },
+    {
+      "ID": "MissionVictory_Purgators",
+      "SetID": "3jha1np",
+      "Name": "Firing Squad",
+      "Percentage": 0.3,
+      "XP": 20
+    },
+    {
+      "ID": "MissionVictory_WoundedKnights",
+      "SetID": "3jha1np",
+      "Name": "Just a Scratch",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "NexusCompleted",
+      "SetID": "3jha1np",
+      "Name": "A Foul Creche",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "NotAMoteOfCorruption",
+      "SetID": "2im8phi",
+      "Name": "Not a Mote of Corruption",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "OnlyInDeath",
+      "SetID": "2im8phi",
+      "Name": "Only in Death",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "Preservationist",
+      "SetID": "2im8phi",
+      "Name": "Preservationist",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ReaperDefeated_Dolorus",
+      "SetID": "3jha1np",
+      "Name": "Engine Kill",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "ReaperDefeated_Mortus",
+      "SetID": "3jha1np",
+      "Name": "Harvest No More",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "ReaperDefeated_Necrosus",
+      "SetID": "3jha1np",
+      "Name": "Junk Banishment",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "ReaperDefeated_Poxus",
+      "SetID": "3jha1np",
+      "Name": "A Gift Spurned",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "ReaperDefeated_Tentarus",
+      "SetID": "3jha1np",
+      "Name": "Death Comes For All",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "SacristaCompleted",
+      "SetID": "3jha1np",
+      "Name": "Long Distance Call",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "SkilledKnight",
+      "SetID": "3jha1np",
+      "Name": "True Mastery",
+      "Percentage": 0.5,
+      "XP": 40
+    },
+    {
+      "ID": "StrategicCommand",
+      "SetID": "2im8phi",
+      "Name": "Strategic Command",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "UnlockedAllStratagems",
+      "SetID": "3jha1np",
+      "Name": "Tactical Flexibility",
+      "Percentage": 2,
+      "XP": 40
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -628,16 +1043,32 @@
       "NumberOfAwardsMax": 207
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1150,
+  "TotalAchievements": 59,
+  "LastChanged_Achievements": "2023-05-04T19:18:47.93529+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 23,
   "EOS_Completed": 0,
   "EOS_Progressed": 2573,
-  "LastUpdate_Achievements": "2023-05-04T19:03:55.2997213+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:14.409963+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:55.2997174+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:47.9353429+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:12.9386233+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2im8phi",
+      "IsBase": false,
+      "Progressed": 2573,
+      "Completed": 0
+    },
+    {
+      "ID": "3jha1np",
+      "IsBase": true,
+      "Progressed": 2573,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
+  "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 207,
   "NumberOfAwards": 415,
@@ -650,5 +1081,5 @@
   "Ranking_Popularity": 253,
   "Ranking_Rating": 414,
   "Rating": 4.58,
-  "FirstSeen": "2022-07-22T20:25:10.4681645+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00"
 }

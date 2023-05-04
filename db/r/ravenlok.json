@@ -1,6 +1,358 @@
 {
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "d0g98p",
+      "Name": "Once Upon a Time",
+      "Percentage": 96,
+      "XP": 5
+    },
+    {
+      "ID": "10",
+      "SetID": "d0g98p",
+      "Name": "Piece of Cake",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "11",
+      "SetID": "d0g98p",
+      "Name": "Nightmare Fuel",
+      "Percentage": 34,
+      "XP": 10
+    },
+    {
+      "ID": "12",
+      "SetID": "d0g98p",
+      "Name": "Spellbound",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "13",
+      "SetID": "d0g98p",
+      "Name": "Extinct Again!",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "14",
+      "SetID": "d0g98p",
+      "Name": "Bird of Prey",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "15",
+      "SetID": "d0g98p",
+      "Name": "Pull the Plug",
+      "Percentage": 25,
+      "XP": 30
+    },
+    {
+      "ID": "16",
+      "SetID": "d0g98p",
+      "Name": "Soul Slayer",
+      "Percentage": 25,
+      "XP": 30
+    },
+    {
+      "ID": "17",
+      "SetID": "d0g98p",
+      "Name": "The Downfall",
+      "Percentage": 24,
+      "XP": 40
+    },
+    {
+      "ID": "18",
+      "SetID": "d0g98p",
+      "Name": "Surprise!",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "19",
+      "SetID": "d0g98p",
+      "Name": "A Grand Visit",
+      "Percentage": 68,
+      "XP": 10
+    },
+    {
+      "ID": "2",
+      "SetID": "d0g98p",
+      "Name": "Waff!",
+      "Percentage": 93,
+      "XP": 5
+    },
+    {
+      "ID": "20",
+      "SetID": "d0g98p",
+      "Name": "Stardust",
+      "Percentage": 28,
+      "XP": 20
+    },
+    {
+      "ID": "21",
+      "SetID": "d0g98p",
+      "Name": "Take Heart",
+      "Percentage": 34,
+      "XP": 30
+    },
+    {
+      "ID": "22",
+      "SetID": "d0g98p",
+      "Name": "Heartbreaker",
+      "Percentage": 28,
+      "XP": 30
+    },
+    {
+      "ID": "23",
+      "SetID": "d0g98p",
+      "Name": "All Heart",
+      "Percentage": 25,
+      "XP": 30
+    },
+    {
+      "ID": "24",
+      "SetID": "d0g98p",
+      "Name": "Kidnapped!",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "25",
+      "SetID": "d0g98p",
+      "Name": "Trick Question!",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "26",
+      "SetID": "d0g98p",
+      "Name": "Ancient Wisdom",
+      "Percentage": 31,
+      "XP": 20
+    },
+    {
+      "ID": "27",
+      "SetID": "d0g98p",
+      "Name": "Frog Facts!",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "28",
+      "SetID": "d0g98p",
+      "Name": "Sword, Shield, Fight!",
+      "Percentage": 74,
+      "XP": 10
+    },
+    {
+      "ID": "29",
+      "SetID": "d0g98p",
+      "Name": "All That Glistens",
+      "Percentage": 30,
+      "XP": 20
+    },
+    {
+      "ID": "3",
+      "SetID": "d0g98p",
+      "Name": "Vibing",
+      "Percentage": 63,
+      "XP": 5
+    },
+    {
+      "ID": "30",
+      "SetID": "d0g98p",
+      "Name": "Gooey Delight!",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "31",
+      "SetID": "d0g98p",
+      "Name": "Little Shop",
+      "Percentage": 46,
+      "XP": 10
+    },
+    {
+      "ID": "32",
+      "SetID": "d0g98p",
+      "Name": "The Guardian",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "33",
+      "SetID": "d0g98p",
+      "Name": "Awakened Spirits",
+      "Percentage": 45,
+      "XP": 10
+    },
+    {
+      "ID": "34",
+      "SetID": "d0g98p",
+      "Name": "Glimmer of Hope",
+      "Percentage": 35,
+      "XP": 20
+    },
+    {
+      "ID": "35",
+      "SetID": "d0g98p",
+      "Name": "Teacups for Toppy",
+      "Percentage": 36,
+      "XP": 10
+    },
+    {
+      "ID": "36",
+      "SetID": "d0g98p",
+      "Name": "Dance Master",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "37",
+      "SetID": "d0g98p",
+      "Name": "Stronger!",
+      "Percentage": 31,
+      "XP": 20
+    },
+    {
+      "ID": "38",
+      "SetID": "d0g98p",
+      "Name": "Max Level!",
+      "Percentage": 10,
+      "XP": 50
+    },
+    {
+      "ID": "39",
+      "SetID": "d0g98p",
+      "Name": "All Skilled Up!",
+      "Percentage": 29,
+      "XP": 10
+    },
+    {
+      "ID": "4",
+      "SetID": "d0g98p",
+      "Name": "A Prophecy",
+      "Percentage": 82,
+      "XP": 5
+    },
+    {
+      "ID": "40",
+      "SetID": "d0g98p",
+      "Name": "Mirror, Mirror",
+      "Percentage": 23,
+      "XP": 30
+    },
+    {
+      "ID": "41",
+      "SetID": "d0g98p",
+      "Name": "Bombs Away!",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "42",
+      "SetID": "d0g98p",
+      "Name": "Shopping Spree!",
+      "Percentage": 13,
+      "XP": 50
+    },
+    {
+      "ID": "43",
+      "SetID": "d0g98p",
+      "Name": "An Actor!",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "44",
+      "SetID": "d0g98p",
+      "Name": "It\u0027s Pointy!",
+      "Percentage": 31,
+      "XP": 10
+    },
+    {
+      "ID": "45",
+      "SetID": "d0g98p",
+      "Name": "Extraordinary!",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "46",
+      "SetID": "d0g98p",
+      "Name": "Flower Power",
+      "Percentage": 22,
+      "XP": 10
+    },
+    {
+      "ID": "47",
+      "SetID": "d0g98p",
+      "Name": "Crowned",
+      "Percentage": 19,
+      "XP": 50
+    },
+    {
+      "ID": "48",
+      "SetID": "d0g98p",
+      "Name": "Into the Barn",
+      "Percentage": 83,
+      "XP": 5
+    },
+    {
+      "ID": "49",
+      "SetID": "d0g98p",
+      "Name": "Final Showdown",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "5",
+      "SetID": "d0g98p",
+      "Name": "Well Rested",
+      "Percentage": 39,
+      "XP": 5
+    },
+    {
+      "ID": "50",
+      "SetID": "d0g98p",
+      "Name": "Spot of Tea?",
+      "Percentage": 24,
+      "XP": 10
+    },
+    {
+      "ID": "6",
+      "SetID": "d0g98p",
+      "Name": "Going Home",
+      "Percentage": 24,
+      "XP": 100
+    },
+    {
+      "ID": "7",
+      "SetID": "d0g98p",
+      "Name": "Fun Guy",
+      "Percentage": 61,
+      "XP": 10
+    },
+    {
+      "ID": "8",
+      "SetID": "d0g98p",
+      "Name": "Tragic Brave",
+      "Percentage": 52,
+      "XP": 10
+    },
+    {
+      "ID": "9",
+      "SetID": "d0g98p",
+      "Name": "Curtain Call",
+      "Percentage": 39,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -177,6 +529,11 @@
       "Time": "2023-05-04T19:00:23.3284308+00:00",
       "NumProgressed": 183,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-04T19:15:21.6268581+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 10
     }
   ],
   "RatingHistory": [
@@ -187,22 +544,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 5.46,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 50,
+  "LastChanged_Achievements": "2023-05-04T19:15:21.6268575+00:00",
   "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_Completed": 10,
-  "EOS_Progressed": 183,
-  "LastUpdate_Achievements": "2023-05-04T19:00:23.328434+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:13.954611+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:23.3284302+00:00",
+  "EOS_Progressed": 185,
+  "LastUpdate_Achievements": "2023-05-04T19:15:21.6269018+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:12.8301424+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d0g98p",
+      "IsBase": true,
+      "Progressed": 185,
+      "Completed": 10
+    }
+  ],
+  "EOS_Completed_Percentage": 5.41,
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
+  "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 35,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_Progress": 224,
-  "FirstSeen": "2023-05-04T05:57:24.2490249+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00"
 }

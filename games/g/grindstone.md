@@ -1,10 +1,58 @@
 # Grindstone
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 63  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Quinceañera Time | 98.00 |
+| The Journey Begins | 98.00 |
+| Slaughterhouse 5 (200 times) | 78.00 |
+| There is No Escape | 71.00 |
+| Fun, Flirty, and Thirty | 62.00 |
+| Royal Flush | 62.00 |
+| Timber! | 60.00 |
+| Survive the Bombsequences | 59.00 |
+| Killed 20 Jerks | 53.00 |
+| Death Defied | 53.00 |
+| Fortunate Soul | 49.00 |
+| Jerk-Slayer | 42.00 |
+| I Believe I Can Fly | 37.00 |
+| Employee of the Month | 36.00 |
+| Bone Collector | 35.00 |
+| Fe-Festival | 35.00 |
+| Top of the Food Chain | 32.00 |
+| Pardon my Slob | 32.00 |
+| Humerus Achievement | 31.00 |
+| Ghost Facers! | 27.00 |
+| If It Bleeds, You Can Kill It | 21.00 |
+| Trying To Get Into That 1%, Huh? | 18.00 |
+| Can't Touch This | 18.00 |
+| Royal Flush, Again | 18.00 |
+| Yummy! | 16.00 |
+| That Was Quick | 16.00 |
+| Goldrush Glory Days | 15.00 |
+| Best Party Guest | 15.00 |
+| Shrub it Off | 15.00 |
+| Collected 50 mushrooms | 14.00 |
+| Budding Gardener | 14.00 |
+| Stop Hitting Each Other | 12.00 |
+| Ultimate Jerk | 12.00 |
+| Hot Potato | 10.00 |
+| Off the Beaten Path | 9.00 |
+| It's Been a Blast | 9.00 |
+| For Rock and Stone! | 9.00 |
+| Don't Get Too Greedy | 7.00 |
+| You're In a Cult, Call Your Dad | 6.00 |
+| The Poison You Just Drank | 4.00 |
+| Survived The Slaughter | 4.00 |
+| The Fellowship | 3.00 |
+| Eternal Frenemies | 3.00 |
+| Are We Good Guys Or Bad Guys? | 1.00 |
+| Biohazard | 0.80 |
+| OK Boomer | 0.80 |
+| Backdraft | 0.60 |
+| The Midas Touch | 0.60 |
+| Completionist | 0.50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,047 (Ranked 119)  
 Completed: 26 (0.52%) (Ranked 95)  
@@ -15,9 +63,6 @@ Completed: 26 (0.52%) (Ranked 95)
 | 2023-04-30 | 5,044 | 26 |
 | 2023-05-02 | 5,045 | 26 |
 | 2023-05-04 | 5,047 | 26 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

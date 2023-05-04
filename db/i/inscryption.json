@@ -1,6 +1,7 @@
 {
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -592,14 +593,18 @@
       "NumberOfAwardsMax": 330
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:58.2142157+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:29.2876375+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:27.5161635+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T16:59:50.081774+00:00",
+  "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
   "NumberOfAwardsMax": 330,
   "NumberOfAwards": 354,
@@ -611,6 +616,5 @@
   "Ranking_PopularitySum": 309,
   "Ranking_Popularity": 213,
   "Ranking_Rating": 28,
-  "Rating": 4.86,
-  "FirstSeen": "2022-07-22T20:27:28.221027+00:00"
+  "Rating": 4.86
 }

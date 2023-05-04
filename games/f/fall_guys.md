@@ -4,9 +4,46 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 137,999  (Ranked 7)  
 Sum: 1,293,241 (Ranked 5)  
-Diff (max vs sum): 2
+Diff (max vs sum): 2  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| One small trip | 6.00 |
+| Snowflake | 6.00 |
+| Fall Throttle | 5.00 |
+| Big Bully | 4.00 |
+| Face First | 4.00 |
+| One to Watch | 4.00 |
+| Style Points | 4.00 |
+| Troublemaker | 4.00 |
+| Bargain Bucket | 3.00 |
+| Flawless Victory | 3.00 |
+| Fall Bae | 3.00 |
+| Ahead of the Pack | 3.00 |
+| Stumble Chums | 3.00 |
+| Victory! | 3.00 |
+| Household Name | 2.00 |
+| Catwalk Model | 1.00 |
+| Down to the Wire | 1.00 |
+| Star of the Show | 1.00 |
+| Head Turner | 1.00 |
+| One giant leap | 1.00 |
+| Big Air | 0.90 |
+| Quite Dashing | 0.90 |
+| Squad Goals | 0.90 |
+| Low Baller | 0.60 |
+| Mad Trendy | 0.60 |
+| Shopping Spree | 0.60 |
+| Top Tier | 0.50 |
+| Veteran Status | 0.30 |
+| Show Off | 0.30 |
+| Track Star | 0.20 |
+| Golden Guy | 0.20 |
+| Big Tease | 0.10 |
+| Fall Guy Fashionista | 0.10 |
+| Infallible | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,370,905 (Ranked 1)  
+Progressed: 32,371,086 (Ranked 1)  
 Completed: 28,883 (0.09%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +57,7 @@ Completed: 28,883 (0.09%) (Ranked 155)
 | 2023-05-01 | 32,325,532 | 28,800 |
 | 2023-05-02 | 32,342,752 | 28,842 |
 | 2023-05-03 | 32,358,290 | 28,864 |
-| 2023-05-04 | 32,370,905 | 28,883 |
+| 2023-05-04 | 32,371,086 | 28,883 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

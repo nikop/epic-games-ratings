@@ -1,6 +1,519 @@
 {
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
+  "Achievements": [
+    {
+      "ID": "CLG_CHAPTER_NODAMAGE",
+      "SetID": "89cjc9l",
+      "Name": "Untouchable",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_CHAPTER_NODROPBALL",
+      "SetID": "89cjc9l",
+      "Name": "1 is all I need",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_LEVEL_BALLISTASHOT",
+      "SetID": "89cjc9l",
+      "Name": "Right in the kisser!",
+      "Percentage": 66,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_LEVEL_BULLSEYE",
+      "SetID": "89cjc9l",
+      "Name": "Bullseye!",
+      "Percentage": 87,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_LEVEL_COMBO",
+      "SetID": "89cjc9l",
+      "Name": "Combo Master",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_LEVEL_KILLSTREAK",
+      "SetID": "89cjc9l",
+      "Name": "Kill-streak",
+      "Percentage": 43,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_RUN_LEVELUP_1",
+      "SetID": "89cjc9l",
+      "Name": "Level Up!",
+      "Percentage": 94,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_RUN_LEVELUP_2",
+      "SetID": "89cjc9l",
+      "Name": "Level Up!!",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_SKILL_LEVEL5_1",
+      "SetID": "89cjc9l",
+      "Name": "Topped up",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_SKILL_LEVEL5_2",
+      "SetID": "89cjc9l",
+      "Name": "Power Overwhelming",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "CLG_UNLOCK_10002",
+      "SetID": "89cjc9l",
+      "Name": "The Penguin",
+      "Percentage": 53,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10003",
+      "SetID": "89cjc9l",
+      "Name": "The Idol",
+      "Percentage": 30,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10004",
+      "SetID": "89cjc9l",
+      "Name": "The Blacksmith",
+      "Percentage": 15,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10005",
+      "SetID": "89cjc9l",
+      "Name": "The Bomber",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10006",
+      "SetID": "89cjc9l",
+      "Name": "The Assistant",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10007",
+      "SetID": "89cjc9l",
+      "Name": "The Exorcist",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10008",
+      "SetID": "89cjc9l",
+      "Name": "The Droid",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10009",
+      "SetID": "89cjc9l",
+      "Name": "The Steampunk",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "CLG_UNLOCK_10010",
+      "SetID": "89cjc9l",
+      "Name": "The Astronaut",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_ACCUM_BLESS",
+      "SetID": "89cjc9l",
+      "Name": "Divinity",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_ACCUM_CURSE",
+      "SetID": "89cjc9l",
+      "Name": "Really Bad Luck",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_ACCUM_EVENT",
+      "SetID": "89cjc9l",
+      "Name": "It\u0027s a Trap!",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_ACCUM_GOLD",
+      "SetID": "89cjc9l",
+      "Name": "I\u0027m Rich",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_BIRD",
+      "SetID": "89cjc9l",
+      "Name": "The Bird",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_FLOWER",
+      "SetID": "89cjc9l",
+      "Name": "The Flower",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_GIANT",
+      "SetID": "89cjc9l",
+      "Name": "The Giant",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_MAGE",
+      "SetID": "89cjc9l",
+      "Name": "The Shaman",
+      "Percentage": 57,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_MAGICIAN",
+      "SetID": "89cjc9l",
+      "Name": "The Magician",
+      "Percentage": 53,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_NINJA",
+      "SetID": "89cjc9l",
+      "Name": "The Ninja",
+      "Percentage": 32,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_OOZE",
+      "SetID": "89cjc9l",
+      "Name": "The Ooze",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_SHIELD",
+      "SetID": "89cjc9l",
+      "Name": "The Shield",
+      "Percentage": 43,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_SLIME",
+      "SetID": "89cjc9l",
+      "Name": "The Slime",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_THROWER",
+      "SetID": "89cjc9l",
+      "Name": "The Thrower",
+      "Percentage": 49,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_BOSS_TUNNELER",
+      "SetID": "89cjc9l",
+      "Name": "The Tunneler",
+      "Percentage": 45,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_CHAPTER_1",
+      "SetID": "89cjc9l",
+      "Name": "Villfir Forest",
+      "Percentage": 83,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_CHAPTER_2",
+      "SetID": "89cjc9l",
+      "Name": "Duscot Steamcity",
+      "Percentage": 57,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_CHAPTER_3",
+      "SetID": "89cjc9l",
+      "Name": "Inferno Ruins",
+      "Percentage": 26,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10001",
+      "SetID": "89cjc9l",
+      "Name": "Blaze",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10002",
+      "SetID": "89cjc9l",
+      "Name": "Topaz",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10003",
+      "SetID": "89cjc9l",
+      "Name": "Chorus",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10004",
+      "SetID": "89cjc9l",
+      "Name": "Mithril",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10005",
+      "SetID": "89cjc9l",
+      "Name": "TNT",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10006",
+      "SetID": "89cjc9l",
+      "Name": "Analyzed",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10007",
+      "SetID": "89cjc9l",
+      "Name": "Immortality",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10008",
+      "SetID": "89cjc9l",
+      "Name": "Titanium",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10009",
+      "SetID": "89cjc9l",
+      "Name": "Tongs",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_10010",
+      "SetID": "89cjc9l",
+      "Name": "Rocket",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_HARD_ALL",
+      "SetID": "89cjc9l",
+      "Name": "Zombie Hunter",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PRG_HELL_10001",
+      "SetID": "89cjc9l",
+      "Name": "Inferno",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10002",
+      "SetID": "89cjc9l",
+      "Name": "Sapphire",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10003",
+      "SetID": "89cjc9l",
+      "Name": "Encore",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10004",
+      "SetID": "89cjc9l",
+      "Name": "Adamantite",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10005",
+      "SetID": "89cjc9l",
+      "Name": "Nuclear Bomb",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10006",
+      "SetID": "89cjc9l",
+      "Name": "Concluded",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10007",
+      "SetID": "89cjc9l",
+      "Name": "Divinity",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10008",
+      "SetID": "89cjc9l",
+      "Name": "Platinum",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10009",
+      "SetID": "89cjc9l",
+      "Name": "Hammer",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_10010",
+      "SetID": "89cjc9l",
+      "Name": "Warp Drive Spacecraft",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "PRG_HELL_ALL",
+      "SetID": "89cjc9l",
+      "Name": "Zombie Exterminator",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PRG_MODE_HARD",
+      "SetID": "89cjc9l",
+      "Name": "Out of the Frying Pan...",
+      "Percentage": 17,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_MODE_HELL",
+      "SetID": "89cjc9l",
+      "Name": "Highway to Hell",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10001",
+      "SetID": "89cjc9l",
+      "Name": "Ember",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10002",
+      "SetID": "89cjc9l",
+      "Name": "Turquoise",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10003",
+      "SetID": "89cjc9l",
+      "Name": "Verse",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10004",
+      "SetID": "89cjc9l",
+      "Name": "Iron",
+      "Percentage": 9,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10005",
+      "SetID": "89cjc9l",
+      "Name": "Gunpowder",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10006",
+      "SetID": "89cjc9l",
+      "Name": "Tested",
+      "Percentage": 11,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10007",
+      "SetID": "89cjc9l",
+      "Name": "Wu-wei",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10008",
+      "SetID": "89cjc9l",
+      "Name": "Aluminum",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10009",
+      "SetID": "89cjc9l",
+      "Name": "Anvil",
+      "Percentage": 6,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_10010",
+      "SetID": "89cjc9l",
+      "Name": "Satellite",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "PRG_NORMAL_ALL",
+      "SetID": "89cjc9l",
+      "Name": "Zombie Slayer",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "PRG_SP_arcadeFTUX",
+      "SetID": "89cjc9l",
+      "Name": "Graduation!",
+      "Percentage": 79,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -37,22 +550,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 73,
+  "LastChanged_Achievements": "2023-05-04T19:18:33.5389124+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 4,
   "EOS_Completed": 0,
   "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-04T19:03:39.9234186+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:15.2398767+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:39.923416+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:33.538987+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:14.0736229+00:00",
+  "AchievementSets": [
+    {
+      "ID": "89cjc9l",
+      "IsBase": true,
+      "Progressed": 53,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
+  "FirstSeen": "2022-07-22T20:17:18.8444158+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 269,
-  "FirstSeen": "2022-07-22T20:17:18.8444158+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00"
 }

@@ -1,6 +1,477 @@
 {
   "ID": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "Name": "Kabaret",
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "37jn7be",
+      "Name": "Your Journey Begins",
+      "Percentage": 75,
+      "XP": 10
+    },
+    {
+      "ID": "10",
+      "SetID": "37jn7be",
+      "Name": "Strangers You Meet",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "11",
+      "SetID": "37jn7be",
+      "Name": "Losing A Small, Good Thing",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "12",
+      "SetID": "37jn7be",
+      "Name": "I\u0027ll Become... A Beast",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "13",
+      "SetID": "37jn7be",
+      "Name": "Faithful Follower",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "14",
+      "SetID": "37jn7be",
+      "Name": "Rebel To God",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "15",
+      "SetID": "37jn7be",
+      "Name": "True Potential Unlocked",
+      "Percentage": 13,
+      "XP": 5
+    },
+    {
+      "ID": "16",
+      "SetID": "37jn7be",
+      "Name": "I See The Truth",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "17",
+      "SetID": "37jn7be",
+      "Name": "Guli Novice",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "18",
+      "SetID": "37jn7be",
+      "Name": "Guli Pro",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "19",
+      "SetID": "37jn7be",
+      "Name": "Guli Master",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "2",
+      "SetID": "37jn7be",
+      "Name": "Welcome To The Kabaret",
+      "Percentage": 38,
+      "XP": 10
+    },
+    {
+      "ID": "20",
+      "SetID": "37jn7be",
+      "Name": "Congkak Hero",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "21",
+      "SetID": "37jn7be",
+      "Name": "Congkak Champion",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "22",
+      "SetID": "37jn7be",
+      "Name": "Congkak Legend",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "23",
+      "SetID": "37jn7be",
+      "Name": "In Service Of Others",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "24",
+      "SetID": "37jn7be",
+      "Name": "Expert Service",
+      "Percentage": 13,
+      "XP": 20
+    },
+    {
+      "ID": "25",
+      "SetID": "37jn7be",
+      "Name": "True Devourer",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "26",
+      "SetID": "37jn7be",
+      "Name": "Human Supremacy",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "27",
+      "SetID": "37jn7be",
+      "Name": "Equality",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "28",
+      "SetID": "37jn7be",
+      "Name": "Deep Thinker",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "29",
+      "SetID": "37jn7be",
+      "Name": "Face Value",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "3",
+      "SetID": "37jn7be",
+      "Name": "Goodbye Dear Friend",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "30",
+      "SetID": "37jn7be",
+      "Name": "Uncommitted",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "31",
+      "SetID": "37jn7be",
+      "Name": "Thou Art Naive",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "32",
+      "SetID": "37jn7be",
+      "Name": "Philosopher",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "33",
+      "SetID": "37jn7be",
+      "Name": "Unbiased",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "34",
+      "SetID": "37jn7be",
+      "Name": "I Like Salty Seawater",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "35",
+      "SetID": "37jn7be",
+      "Name": "There\u0027s Something About You...",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "36",
+      "SetID": "37jn7be",
+      "Name": "Mayang\u0027s Song",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "37",
+      "SetID": "37jn7be",
+      "Name": "Under The Sea",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "38",
+      "SetID": "37jn7be",
+      "Name": "I Sit On The Beach, Watching The Tide Leave",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "39",
+      "SetID": "37jn7be",
+      "Name": "An Unheard Song",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "4",
+      "SetID": "37jn7be",
+      "Name": "By My Own Hands",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "40",
+      "SetID": "37jn7be",
+      "Name": "A Foot In Reality",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "41",
+      "SetID": "37jn7be",
+      "Name": "Self-indulgent",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "42",
+      "SetID": "37jn7be",
+      "Name": "Breaking In The Horse",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "43",
+      "SetID": "37jn7be",
+      "Name": "To Live And Die Free",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "44",
+      "SetID": "37jn7be",
+      "Name": "Sweetheart",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "45",
+      "SetID": "37jn7be",
+      "Name": "Power Of Friendship",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "46",
+      "SetID": "37jn7be",
+      "Name": "Squashed Bug",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "47",
+      "SetID": "37jn7be",
+      "Name": "I Enjoy Death",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "48",
+      "SetID": "37jn7be",
+      "Name": "Till Death Do We...",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "49",
+      "SetID": "37jn7be",
+      "Name": "Be Cruel To Be Kind",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "5",
+      "SetID": "37jn7be",
+      "Name": "An End To History",
+      "Percentage": 13,
+      "XP": 10
+    },
+    {
+      "ID": "50",
+      "SetID": "37jn7be",
+      "Name": "I Don\u0027t Want To Dirty My Hands",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "51",
+      "SetID": "37jn7be",
+      "Name": "Baby Food",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "52",
+      "SetID": "37jn7be",
+      "Name": "A New Hope",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "53",
+      "SetID": "37jn7be",
+      "Name": "Eating A Dead Flower",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "54",
+      "SetID": "37jn7be",
+      "Name": "Bookworm",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "55",
+      "SetID": "37jn7be",
+      "Name": "King Blood Chaser",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "56",
+      "SetID": "37jn7be",
+      "Name": "Top Of The Food Chain",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "57",
+      "SetID": "37jn7be",
+      "Name": "Indulging In The Flesh",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "58",
+      "SetID": "37jn7be",
+      "Name": "Behold, The Nagarimau",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "59",
+      "SetID": "37jn7be",
+      "Name": "I Take The Tiger Upon Myself",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "6",
+      "SetID": "37jn7be",
+      "Name": "Clipped Wings",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "60",
+      "SetID": "37jn7be",
+      "Name": "For The Greater Good",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "61",
+      "SetID": "37jn7be",
+      "Name": "I Am Vengeance",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "62",
+      "SetID": "37jn7be",
+      "Name": "Sowing The Seeds of Destruction",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "63",
+      "SetID": "37jn7be",
+      "Name": "At The End of The World, It\u0027s Just Two of Us",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "64",
+      "SetID": "37jn7be",
+      "Name": "The World Is Mine, And I Don\u0027t Want It",
+      "Percentage": 13,
+      "XP": 15
+    },
+    {
+      "ID": "65",
+      "SetID": "37jn7be",
+      "Name": "Let There Be Light",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "66",
+      "SetID": "37jn7be",
+      "Name": "I Need Batteries",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "67",
+      "SetID": "37jn7be",
+      "Name": "I Am A Beast",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "7",
+      "SetID": "37jn7be",
+      "Name": "Lady In The Book",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "8",
+      "SetID": "37jn7be",
+      "Name": "The Boy That Came With The Rain",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "9",
+      "SetID": "37jn7be",
+      "Name": "All Alone With A Curse",
+      "Percentage": 25,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +498,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 67,
+  "LastChanged_Achievements": "2023-05-04T19:15:04.854432+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-04T19:00:06.1094715+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:44.0004115+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:06.109465+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:04.8546138+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:43.1035002+00:00",
+  "AchievementSets": [
+    {
+      "ID": "37jn7be",
+      "IsBase": true,
+      "Progressed": 8,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
+  "FirstSeen": "2023-04-29T22:57:51.7028097+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 309,
-  "FirstSeen": "2023-04-29T22:57:51.7028097+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00"
 }

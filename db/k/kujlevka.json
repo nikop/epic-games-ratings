@@ -1,6 +1,7 @@
 {
   "ID": "aabb9082b6f34efba166ae276cc63986",
   "Name": "Kujlevka",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:19.3346549+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:25.053349+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:15.7613145+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:25.053347+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:19.3346582+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:14.5709311+00:00",
+  "AchievementSets": [
+    {
+      "ID": "jp3k37",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-09T15:57:36.5906542+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:48.4284276+00:00",
   "FirstSeenRating": "2023-04-09T15:57:36.5906541+00:00",
+  "FirstSeen": "2023-04-09T15:57:36.5906499+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-09T15:57:36.5906499+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:48.4284276+00:00"
 }

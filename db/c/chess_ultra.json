@@ -1,6 +1,274 @@
 {
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
+  "Achievements": [
+    {
+      "ID": "AbsolutePin",
+      "SetID": "b4je51k",
+      "Name": "Absolute pin",
+      "Percentage": 44,
+      "XP": 20
+    },
+    {
+      "ID": "AlekhinesGun",
+      "SetID": "b4je51k",
+      "Name": "Alekhine\u2019s gun",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "BackRankMate",
+      "SetID": "b4je51k",
+      "Name": "Back-rank Mate",
+      "Percentage": 0.8,
+      "XP": 20
+    },
+    {
+      "ID": "BlindPigs",
+      "SetID": "b4je51k",
+      "Name": "Blind Pigs",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "BobbyTime",
+      "SetID": "b4je51k",
+      "Name": "Bobby Time",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "BodensMate",
+      "SetID": "b4je51k",
+      "Name": "Boden\u2019s Mate",
+      "Percentage": 0.1,
+      "XP": 40
+    },
+    {
+      "ID": "Check",
+      "SetID": "b4je51k",
+      "Name": "Check",
+      "Percentage": 52,
+      "XP": 10
+    },
+    {
+      "ID": "Checkmate",
+      "SetID": "b4je51k",
+      "Name": "Checkmate",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "ChessChampion",
+      "SetID": "b4je51k",
+      "Name": "Chess Champion",
+      "Percentage": 0.3,
+      "XP": 100
+    },
+    {
+      "ID": "ChopWood",
+      "SetID": "b4je51k",
+      "Name": "Chop Wood",
+      "Percentage": 66,
+      "XP": 10
+    },
+    {
+      "ID": "DoubleCheck",
+      "SetID": "b4je51k",
+      "Name": "Double Check",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "DoubledPawn",
+      "SetID": "b4je51k",
+      "Name": "Doubled Pawn",
+      "Percentage": 53,
+      "XP": 10
+    },
+    {
+      "ID": "Elo",
+      "SetID": "b4je51k",
+      "Name": "ELO",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "EloElo",
+      "SetID": "b4je51k",
+      "Name": "ELO ELO",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "EloEloElo",
+      "SetID": "b4je51k",
+      "Name": "ELO ELO ELO",
+      "Percentage": 2,
+      "XP": 100
+    },
+    {
+      "ID": "EnPassant",
+      "SetID": "b4je51k",
+      "Name": "En Passant",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "EpauletteMate",
+      "SetID": "b4je51k",
+      "Name": "Epaulette Mate",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "FamilyFork",
+      "SetID": "b4je51k",
+      "Name": "Family Fork",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "FoolsMate",
+      "SetID": "b4je51k",
+      "Name": "Fool\u2019s Mate",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "FriendlyFire",
+      "SetID": "b4je51k",
+      "Name": "Friendly Fire",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "Learner",
+      "SetID": "b4je51k",
+      "Name": "Learner",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "O-O",
+      "SetID": "b4je51k",
+      "Name": "O-O",
+      "Percentage": 22,
+      "XP": 10
+    },
+    {
+      "ID": "O-O-O",
+      "SetID": "b4je51k",
+      "Name": "O-O-O",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "Octopus",
+      "SetID": "b4je51k",
+      "Name": "Octopus",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "PieceCollector",
+      "SetID": "b4je51k",
+      "Name": "Piece Collector",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "ProblemSolved",
+      "SetID": "b4je51k",
+      "Name": "Problem Solved",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ProblemSolver",
+      "SetID": "b4je51k",
+      "Name": "Problem Solver",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "Promotion",
+      "SetID": "b4je51k",
+      "Name": "Promotion",
+      "Percentage": 29,
+      "XP": 10
+    },
+    {
+      "ID": "QueenSacrifice",
+      "SetID": "b4je51k",
+      "Name": "Queen Sacrifice",
+      "Percentage": 19,
+      "XP": 40
+    },
+    {
+      "ID": "ScholarsMate",
+      "SetID": "b4je51k",
+      "Name": "Scholar\u2019s Mate",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "SpanishBishop",
+      "SetID": "b4je51k",
+      "Name": "Spanish Bishop",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "Stalemate",
+      "SetID": "b4je51k",
+      "Name": "Stalemate",
+      "Percentage": 17,
+      "XP": 30
+    },
+    {
+      "ID": "StrangerDanger",
+      "SetID": "b4je51k",
+      "Name": "Stranger Danger",
+      "Percentage": 12,
+      "XP": 10
+    },
+    {
+      "ID": "TournamentAmateur",
+      "SetID": "b4je51k",
+      "Name": "Tournament Amateur",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "TournamentChampion",
+      "SetID": "b4je51k",
+      "Name": "Tournament Champion",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "TournamentMaster",
+      "SetID": "b4je51k",
+      "Name": "Tournament Master",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "TournamentPro",
+      "SetID": "b4je51k",
+      "Name": "Tournament Pro",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "Underpromote",
+      "SetID": "b4je51k",
+      "Name": "Underpromote",
+      "Percentage": 4,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1077,6 +1345,11 @@
       "Time": "2023-05-04T19:04:54.2796791+00:00",
       "NumProgressed": 156338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T19:19:44.8175623+00:00",
+      "NumProgressed": 156351,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -1267,17 +1540,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 38,
+  "LastChanged_Achievements": "2023-05-04T19:19:44.8175618+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7901,
+  "EOS_NewPlayers": 7914,
   "EOS_Completed": 0,
-  "EOS_Progressed": 156338,
-  "LastUpdate_Achievements": "2023-05-04T19:04:54.2796857+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:19.5637298+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:54.2796787+00:00",
+  "EOS_Progressed": 156351,
+  "LastUpdate_Achievements": "2023-05-04T19:19:44.8175941+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:17.9493378+00:00",
+  "AchievementSets": [
+    {
+      "ID": "b4je51k",
+      "IsBase": true,
+      "Progressed": 156351,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T13:06:09.1918942+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
+  "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -1288,5 +1571,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 775,
   "Rating": 4.25,
-  "FirstSeen": "2023-03-23T15:57:26.8098096+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00"
 }

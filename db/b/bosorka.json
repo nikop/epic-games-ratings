@@ -1,6 +1,113 @@
 {
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
+  "Achievements": [
+    {
+      "ID": "RUNE_ACCEL",
+      "SetID": "9433p49",
+      "Name": "A good start",
+      "Percentage": 53,
+      "XP": 55
+    },
+    {
+      "ID": "RUNE_BAT",
+      "SetID": "9433p49",
+      "Name": "It doesn\u0027t work like that",
+      "Percentage": 19,
+      "XP": 55
+    },
+    {
+      "ID": "RUNE_BOOSTDAMAGERANGE",
+      "SetID": "9433p49",
+      "Name": "This is just the beginning...",
+      "Percentage": 13,
+      "XP": 40
+    },
+    {
+      "ID": "RUNE_BOOSTHEALTHCOMBO",
+      "SetID": "9433p49",
+      "Name": "Secret at the bottom",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "RUNE_BROOMDASHDAMAGE",
+      "SetID": "9433p49",
+      "Name": "Time is on my side",
+      "Percentage": 10,
+      "XP": 40
+    },
+    {
+      "ID": "RUNE_CURSEDCOINS",
+      "SetID": "9433p49",
+      "Name": "Unstoppable Curiosity",
+      "Percentage": 10,
+      "XP": 100
+    },
+    {
+      "ID": "RUNE_CURSEDCOMPANIONSHIELD",
+      "SetID": "9433p49",
+      "Name": "Runes collector",
+      "Percentage": 52,
+      "XP": 100
+    },
+    {
+      "ID": "RUNE_CURSEDCOMPANIONSPELL",
+      "SetID": "9433p49",
+      "Name": "Gold Digger",
+      "Percentage": 6,
+      "XP": 100
+    },
+    {
+      "ID": "RUNE_DROPEXTRAHEART",
+      "SetID": "9433p49",
+      "Name": "First time, yes?",
+      "Percentage": 52,
+      "XP": 55
+    },
+    {
+      "ID": "RUNE_DROPFIRSTAIDKIT",
+      "SetID": "9433p49",
+      "Name": "Witch\u0027s duty",
+      "Percentage": 52,
+      "XP": 55
+    },
+    {
+      "ID": "RUNE_DROPRESETSPELL",
+      "SetID": "9433p49",
+      "Name": "Devil\u0027s dozen",
+      "Percentage": 24,
+      "XP": 55
+    },
+    {
+      "ID": "RUNE_LIGHTNINGSTUN",
+      "SetID": "9433p49",
+      "Name": "Skilled rider",
+      "Percentage": 44,
+      "XP": 75
+    },
+    {
+      "ID": "RUNE_OVERSTAMINA",
+      "SetID": "9433p49",
+      "Name": "A small victory",
+      "Percentage": 16,
+      "XP": 75
+    },
+    {
+      "ID": "RUNE_STORM",
+      "SetID": "9433p49",
+      "Name": "Path of purity",
+      "Percentage": 79,
+      "XP": 55
+    },
+    {
+      "ID": "RUNE_STUNHIT",
+      "SetID": "9433p49",
+      "Name": "Kind heart",
+      "Percentage": 47,
+      "XP": 40
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -87,22 +194,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 15,
+  "LastChanged_Achievements": "2023-05-04T19:18:27.4464361+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 8,
   "EOS_Completed": 0,
   "EOS_Progressed": 62,
-  "LastUpdate_Achievements": "2023-05-04T19:03:33.5875587+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:15.4055335+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:33.5875564+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:27.4464491+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:14.2459543+00:00",
+  "AchievementSets": [
+    {
+      "ID": "9433p49",
+      "IsBase": true,
+      "Progressed": 62,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
+  "FirstSeen": "2023-04-21T21:58:16.6767695+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 264,
-  "FirstSeen": "2023-04-21T21:58:16.6767695+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00"
 }

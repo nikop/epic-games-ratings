@@ -1,10 +1,59 @@
 # Port Royale 4
 Rating: 3.99 (Ranked 879)  
 Number of Ratings: 53  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Cabin boy | 80.00 |
+| My little farm | 65.00 |
+| Every beginning is difficult | 62.00 |
+| 3, 2, 1, mine | 55.00 |
+| Gofer | 55.00 |
+| Seafarer | 54.00 |
+| O Captain! My Captain! | 53.00 |
+| Greed for gold | 42.00 |
+| Intangible | 41.00 |
+| I'm out of here for a while | 39.00 |
+| In a mint condition | 38.00 |
+| Licence to Kill | 35.00 |
+| Pirates! | 35.00 |
+| Collectionitis | 28.00 |
+| Megalomania | 28.00 |
+| Christening | 26.00 |
+| Groundskeeper | 26.00 |
+| Wholesale | 23.00 |
+| Walk the plank | 21.00 |
+| My precious! | 19.00 |
+| Pearly gates | 17.00 |
+| Conquistador | 14.00 |
+| Panic buying | 12.00 |
+| Just a scratch | 10.00 |
+| Your vessel, my vessel | 10.00 |
+| All mine! | 9.00 |
+| Paths of Glory | 9.00 |
+| Maker | 8.00 |
+| Panel of experts | 8.00 |
+| Conglomerate | 7.00 |
+| The Grande Bouffe | 6.00 |
+| Buccaneer | 5.00 |
+| Flying Dutchman | 4.00 |
+| A true pirate! | 4.00 |
+| Overpopulation | 4.00 |
+| Premier Maître | 3.00 |
+| Supreme conqueror | 3.00 |
+| Strategist | 3.00 |
+| The customer is always right | 2.00 |
+| Master & Commander | 2.00 |
+| All aboard! | 2.00 |
+| Gold fever | 2.00 |
+| Fill it up, please! | 2.00 |
+| Capitalist | 1.00 |
+| Administrator | 1.00 |
+| Raiders of the Lost Ark | 1.00 |
+| Traffic chaos | 1.00 |
+| Parlay? | 1.00 |
+| Fleet Admiral | 0.80 |
+| Davy Jones' locker | 0.40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 511 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -19,9 +68,6 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 509 | 0 |
 | 2023-05-02 | 510 | 0 |
 | 2023-05-03 | 511 | 0 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

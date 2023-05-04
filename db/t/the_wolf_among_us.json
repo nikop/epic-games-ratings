@@ -1,6 +1,7 @@
 {
   "ID": "a8f9fb4a881e47b489715f18f7d08e2f",
   "Name": "The Wolf Among Us",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -415,14 +416,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:04.2133808+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:35.4415736+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:33.4816133+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-05T15:57:32.5219105+00:00",
+  "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 511,
@@ -433,6 +438,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 78,
-  "Rating": 4.8,
-  "FirstSeen": "2022-07-22T20:20:55.8960394+00:00"
+  "Rating": 4.8
 }

@@ -3,9 +3,46 @@ Rating: 4.43 (Ranked 633)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 276  (Ranked 226)  
 Sum: 2,089 (Ranked 181)  
-Diff (max vs sum): 45
+Diff (max vs sum): 45  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| No aid from the Omnissiah | 25.00 |
+| This is only the beginning | 19.00 |
+| Knowledge is power | 12.00 |
+| Power Ranger | 9.00 |
+| Galvanic Rifle | 9.00 |
+| Taser Goad | 9.00 |
+| Radium Ready | 9.00 |
+| Half a cog | 9.00 |
+| Watch them crumble | 6.00 |
+| Competent Cohort | 4.00 |
+| Celestial Cartography Catastrophe | 4.00 |
+| One with the Machine | 4.00 |
+| Legio Cybernetica | 3.00 |
+| Fleshy Disposal | 3.00 |
+| Battle Servitor | 2.00 |
+| Ding Dong Szaregon's Gone | 2.00 |
+| Impatient destruction | 2.00 |
+| Vivisected Vizier | 2.00 |
+| Architect Abortion | 2.00 |
+| Cohortus Maximus | 0.70 |
+| Mother of Xenarites | 0.40 |
+| False God | 0.30 |
+| Hard | 0.20 |
+| Sterile Perfection | 0.10 |
+| Impossible | 0.10 |
+| Sensory overload | 0.10 |
+| Transonic Blur | 0.10 |
+| Melee Machine | 0.10 |
+| AoE-phobia | 0.10 |
+| Zero to Hero | 0.10 |
+| No Omnissian Guidance | 0.10 |
+| Not the Men-of-Iron | 0.10 |
+| Perma-live | 0.10 |
+| Purge the Heretek | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,500 (Ranked 47)  
+Progressed: 208,502 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +56,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 208,162 | 2 |
 | 2023-05-02 | 208,286 | 2 |
 | 2023-05-03 | 208,404 | 2 |
-| 2023-05-04 | 208,500 | 2 |
+| 2023-05-04 | 208,502 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,6 +1,7 @@
 {
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -2001,14 +2002,18 @@
       "NumberOfAwardsMax": 1730
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:27.5732631+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:59.7009135+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:57.5435595+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T01:56:12.5127843+00:00",
+  "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1730,
   "NumberOfAwards": 3535,
@@ -2020,6 +2025,5 @@
   "Ranking_PopularitySum": 140,
   "Ranking_Popularity": 110,
   "Ranking_Rating": 328,
-  "Rating": 4.63,
-  "FirstSeen": "2022-07-22T20:25:45.1874412+00:00"
+  "Rating": 4.63
 }

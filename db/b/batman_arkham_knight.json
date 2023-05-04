@@ -1,6 +1,7 @@
 {
   "ID": "e5e30c728f1947759251eb5283ffa6e3",
   "Name": "Batman Arkham Knight",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -3019,14 +3020,18 @@
       "NumberOfAwardsMax": 5464
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:49.9360733+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:19.4553709+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:17.8364568+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T20:00:01.9564332+00:00",
+  "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 5464,
   "NumberOfAwards": 8559,
@@ -3038,6 +3043,5 @@
   "Ranking_PopularitySum": 85,
   "Ranking_Popularity": 58,
   "Ranking_Rating": 59,
-  "Rating": 4.82,
-  "FirstSeen": "2022-07-22T20:25:23.4007287+00:00"
+  "Rating": 4.82
 }

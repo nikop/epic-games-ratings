@@ -1,6 +1,7 @@
 {
   "ID": "718a1a550e5e4a1c9c2c1587bcda27c9",
   "Name": "Heroines of Swords \u0026 Spells \u002B Green Furies DLC",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:17.69985+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:44.2792659+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:40.9966671+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:12.3421086+00:00",
   "FirstSeenRating": "2023-03-31T05:58:12.3421085+00:00",
+  "FirstSeen": "2023-03-24T15:57:55.2442261+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-03-24T15:57:55.2442261+00:00"
+  "Ranking_EOS_Progress": 378
 }

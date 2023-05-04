@@ -1,6 +1,7 @@
 {
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "Rage 2",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1947,14 +1948,18 @@
       "NumberOfAwardsMax": 2435
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:27.7267627+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:28.6050943+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:26.7713368+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T13:04:41.5243545+00:00",
+  "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2435,
   "NumberOfAwards": 3246,
@@ -1966,6 +1971,5 @@
   "Ranking_PopularitySum": 142,
   "Ranking_Popularity": 91,
   "Ranking_Rating": 764,
-  "Rating": 4.28,
-  "FirstSeen": "2022-07-22T20:21:59.0256751+00:00"
+  "Rating": 4.28
 }

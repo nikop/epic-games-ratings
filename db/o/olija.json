@@ -1,6 +1,7 @@
 {
   "ID": "df9dccc5ebe4449db2300af4c061615c",
   "Name": "Olija",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +12,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:29.0936395+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:03:35.4656171+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:50.531858+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:35.4656151+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:29.0936451+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:48.9759064+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1enj0gb",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:16.4992481+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:12.5297251+00:00",
   "FirstSeenRating": "2023-03-31T05:58:16.499248+00:00",
+  "FirstSeen": "2022-07-22T20:28:54.617293+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-07-22T20:28:54.617293+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:12.5297251+00:00"
 }

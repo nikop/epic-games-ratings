@@ -1,6 +1,162 @@
 {
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
+  "Achievements": [
+    {
+      "ID": "BINGO",
+      "SetID": "djnne36",
+      "Name": "Bingo!",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "CROWDS_O_PLENTY",
+      "SetID": "djnne36",
+      "Name": "Crowds o\u0027 Plenty",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "ECOSYSTEM",
+      "SetID": "djnne36",
+      "Name": "Ecosystem",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "EXHIBIT_A",
+      "SetID": "djnne36",
+      "Name": "Exhibit A...",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "EXHIBIT_B",
+      "SetID": "djnne36",
+      "Name": "...Exhibit B",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "FOSSIL_RECORD",
+      "SetID": "djnne36",
+      "Name": "Fossil Record",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "HATCHLING",
+      "SetID": "djnne36",
+      "Name": "Hatchling",
+      "Percentage": 0,
+      "XP": 45
+    },
+    {
+      "ID": "IMAGINARIUM",
+      "SetID": "djnne36",
+      "Name": "Imaginarium",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "KEEPING_SCORE",
+      "SetID": "djnne36",
+      "Name": "Keeping Score",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "MANAGERIE_MANAGER",
+      "SetID": "djnne36",
+      "Name": "Managerie Manager",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "NEW_BEGINNINGS",
+      "SetID": "djnne36",
+      "Name": "New Beginnings",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "NEW_HIGH_SCORE",
+      "SetID": "djnne36",
+      "Name": "New High Score",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "NOAHS_PARK",
+      "SetID": "djnne36",
+      "Name": "Noah\u0027s Park",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "ONE_BIG_PILE_OF",
+      "SetID": "djnne36",
+      "Name": "That\u0027s one Big Pile Of...",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "PERFECT_SCORE",
+      "SetID": "djnne36",
+      "Name": "Perfect Score",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "PRIMIGENIUS",
+      "SetID": "djnne36",
+      "Name": "Primigenius",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "SABRE_TOOTHED_CAT",
+      "SetID": "djnne36",
+      "Name": "Sabre-Toothed Cat",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "SPARED_EVERY_EXPENSE",
+      "SetID": "djnne36",
+      "Name": "Spared Every Expense",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "THREE_HORNED_FACE",
+      "SetID": "djnne36",
+      "Name": "Three Horned Face",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "TITAN",
+      "SetID": "djnne36",
+      "Name": "Titan",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "TYCOON",
+      "SetID": "djnne36",
+      "Name": "Tycoon",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "TYRANT_LIZARD_KING",
+      "SetID": "djnne36",
+      "Name": "Tyrant Lizard King",
+      "Percentage": 0,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -147,16 +303,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 22,
+  "LastChanged_Achievements": "2023-05-04T19:15:09.528368+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:00:10.9770183+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:59.096928+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:10.9770166+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:15:09.5283816+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:57.1447945+00:00",
+  "AchievementSets": [
+    {
+      "ID": "djnne36",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-14T03:58:45.1457604+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00",
+  "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 40,
@@ -168,5 +334,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 547,
   "Rating": 4.49,
-  "FirstSeen": "2022-07-22T20:30:08.8557624+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00"
 }

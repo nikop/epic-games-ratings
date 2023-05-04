@@ -3,7 +3,43 @@ Rating: 4.18 (Ranked 820)
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 46  (Ranked 396)  
 Sum: 244 (Ranked 340)  
-Diff (max vs sum): 56
+Diff (max vs sum): 56  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Flesh Wound | 5.00 |
+| Paper Jams | 5.00 |
+| Get a Grip | 4.00 |
+| You Need a Gun | 3.00 |
+| Two Heads Are Better Than One | 3.00 |
+| Workplace Hazard | 3.00 |
+| Float Like A Butterfly | 3.00 |
+| The Outer Way | 3.00 |
+| Glutton for Punishment | 2.00 |
+| I Do Belong Here | 2.00 |
+| Parole Denied | 2.00 |
+| In Striking Distance | 2.00 |
+| Chew 'Em Up | 2.00 |
+| Terminated | 2.00 |
+| The Commonality | 2.00 |
+| Reforged | 2.00 |
+| Mugshot | 2.00 |
+| If the SHU Fits... | 2.00 |
+| Without A Paddle | 2.00 |
+| In the Pipe, Five by Five | 2.00 |
+| What Lies Beneath | 2.00 |
+| Desperate Times | 2.00 |
+| Crash Site | 2.00 |
+| Full Circle | 2.00 |
+| Power Up | 2.00 |
+| Giving Back | 1.00 |
+| You Belong Here | 1.00 |
+| Grim Reaper | 0.50 |
+| Armed to the Teeth | 0.30 |
+| Recidivist | 0.20 |
+| It's over, Jacob! | 0.10 |
+| The Protocol is About Life | 0.10 |
+| Lifer | 0.10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,533 (Ranked 100)  
 Completed: 47 (0.38%) (Ranked 105)  

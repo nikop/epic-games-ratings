@@ -1,6 +1,78 @@
 {
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
+  "Achievements": [
+    {
+      "ID": "BabyMozart",
+      "SetID": "77jc0gi",
+      "Name": "Baby Mozart",
+      "Percentage": 5,
+      "XP": 100
+    },
+    {
+      "ID": "Drawings01",
+      "SetID": "77jc0gi",
+      "Name": "House Drawings",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "Drawings02",
+      "SetID": "77jc0gi",
+      "Name": "Cave Drawings",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "Drawings03",
+      "SetID": "77jc0gi",
+      "Name": "Forest Drawings",
+      "Percentage": 0.8,
+      "XP": 100
+    },
+    {
+      "ID": "Drawings04",
+      "SetID": "77jc0gi",
+      "Name": "Closet Drawings",
+      "Percentage": 0.7,
+      "XP": 100
+    },
+    {
+      "ID": "DrawingsAll",
+      "SetID": "77jc0gi",
+      "Name": "Collected all drawings",
+      "Percentage": 0.5,
+      "XP": 100
+    },
+    {
+      "ID": "DrawingsDLC",
+      "SetID": "77jc0gi",
+      "Name": "Prologue Drawings",
+      "Percentage": 0.6,
+      "XP": 100
+    },
+    {
+      "ID": "GameCompleted",
+      "SetID": "77jc0gi",
+      "Name": "Completed Among the Sleep",
+      "Percentage": 10,
+      "XP": 100
+    },
+    {
+      "ID": "Level00BowlingStrike",
+      "SetID": "77jc0gi",
+      "Name": "Strike",
+      "Percentage": 36,
+      "XP": 100
+    },
+    {
+      "ID": "Level04DarkMusicBox",
+      "SetID": "77jc0gi",
+      "Name": "Bad Lullaby",
+      "Percentage": 11,
+      "XP": 100
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -1032,6 +1104,11 @@
       "Time": "2023-05-04T19:05:20.095022+00:00",
       "NumProgressed": 69599,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-05-04T19:20:11.0500217+00:00",
+      "NumProgressed": 69601,
+      "NumCompleted": 325
     }
   ],
   "RatingHistory": [
@@ -1454,16 +1531,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.47,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 10,
+  "LastChanged_Achievements": "2023-05-04T19:20:11.050021+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 853,
   "EOS_Completed": 325,
-  "EOS_Progressed": 69599,
-  "LastUpdate_Achievements": "2023-05-04T19:05:20.0950288+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:45.9829355+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:20.0950214+00:00",
+  "EOS_Progressed": 69601,
+  "LastUpdate_Achievements": "2023-05-04T19:20:11.0500402+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:42.5748209+00:00",
+  "AchievementSets": [
+    {
+      "ID": "77jc0gi",
+      "IsBase": true,
+      "Progressed": 69601,
+      "Completed": 325
+    }
+  ],
+  "EOS_Completed_Percentage": 0.47,
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
+  "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 368,
@@ -1473,7 +1560,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 750,
+  "Ranking_Rating": 751,
   "Rating": 4.3,
-  "FirstSeen": "2022-07-22T20:22:15.2545476+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00"
 }

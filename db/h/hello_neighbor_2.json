@@ -1,6 +1,106 @@
 {
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
+  "Achievements": [
+    {
+      "ID": "ACH_ANCIENT_CURSE",
+      "SetID": "4kfb9pd",
+      "Name": "Ancient Curse",
+      "Percentage": 27,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_CASE_CLOSED",
+      "SetID": "4kfb9pd",
+      "Name": "Case Closed",
+      "Percentage": 35,
+      "XP": 55
+    },
+    {
+      "ID": "ACH_CAT_LOVER",
+      "SetID": "4kfb9pd",
+      "Name": "Cat Person",
+      "Percentage": 25,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_CLIMBER",
+      "SetID": "4kfb9pd",
+      "Name": "Climber",
+      "Percentage": 23,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_DOG_LOVER",
+      "SetID": "4kfb9pd",
+      "Name": "Dog Person",
+      "Percentage": 19,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_EASY_AS_PIE",
+      "SetID": "4kfb9pd",
+      "Name": "Easy As Pie",
+      "Percentage": 32,
+      "XP": 55
+    },
+    {
+      "ID": "ACH_FAMILY_LOST",
+      "SetID": "4kfb9pd",
+      "Name": "Family Lost",
+      "Percentage": 31,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_HIDDEN_SECRETS",
+      "SetID": "4kfb9pd",
+      "Name": "Hidden Secrets",
+      "Percentage": 23,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_IMPRISONMENT",
+      "SetID": "4kfb9pd",
+      "Name": "Imprisonment",
+      "Percentage": 22,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_MAD_SCIENTIST",
+      "SetID": "4kfb9pd",
+      "Name": "Mad Scientist",
+      "Percentage": 23,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_REUNION",
+      "SetID": "4kfb9pd",
+      "Name": "Reunion",
+      "Percentage": 24,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_SHOVEL_NIGHT",
+      "SetID": "4kfb9pd",
+      "Name": "Shovel Night",
+      "Percentage": 36,
+      "XP": 55
+    },
+    {
+      "ID": "ACH_TREASURE_HUNT",
+      "SetID": "4kfb9pd",
+      "Name": "Treasure Hunt",
+      "Percentage": 30,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
+      "SetID": "4kfb9pd",
+      "Name": "Welcome to Raven Brooks",
+      "Percentage": 74,
+      "XP": 35
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -454,17 +554,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 3.88,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 14,
+  "LastChanged_Achievements": "2023-05-04T19:20:07.9172059+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 89,
   "EOS_Progressed": 2293,
-  "LastUpdate_Achievements": "2023-05-04T19:05:16.7292375+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:39.9237852+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:16.7292337+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:07.9172184+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:36.5796669+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4kfb9pd",
+      "IsBase": true,
+      "Progressed": 2293,
+      "Completed": 89
+    }
+  ],
+  "EOS_Completed_Percentage": 3.88,
   "LastChanged": "2023-05-03T20:59:35.8574213+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
+  "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
@@ -475,5 +585,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 663,
   "Rating": 4.4,
-  "FirstSeen": "2022-12-06T19:57:03.5315641+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00"
 }

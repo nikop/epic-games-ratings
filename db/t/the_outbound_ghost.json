@@ -1,6 +1,225 @@
 {
   "ID": "057d6f9b0cd24dc188dd81193c02837b",
   "Name": "The Outbound Ghost",
+  "Achievements": [
+    {
+      "ID": "10hiddenfigments",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain 10 Hidden Figments",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "4hiddenfigments",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain 4 Hidden Figments",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "annoyance",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Annoyance",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "aspect",
+      "SetID": "5nhbjo6",
+      "Name": "Forge an Aspect",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "aspect10 aspectsobtained (0-10)",
+      "SetID": "5nhbjo6",
+      "Name": "Forge 10 Aspects",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "aspect20 aspectsobtained (0-20)",
+      "SetID": "5nhbjo6",
+      "Name": "Forge 20 Aspects",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "barbed",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat the Barbed Apparition",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "callousness",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Callousness",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "carnivorous",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat the Carnivorous Apparition",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "chapter1",
+      "SetID": "5nhbjo6",
+      "Name": "Finish Chapter 1",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "chapter2",
+      "SetID": "5nhbjo6",
+      "Name": "Finish Chapter 2",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "chapter3",
+      "SetID": "5nhbjo6",
+      "Name": "Finish Chapter 3",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "chapter4",
+      "SetID": "5nhbjo6",
+      "Name": "Start Chapter 4",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "comradery",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Comradery",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "flightless",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat the Flightless Apparition",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "fungal",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat the Fungal Duo",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "hiddenfigment",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain a Hidden Figment",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "jealousy",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Jealousy",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "lockpick gatespicked (0-5)",
+      "SetID": "5nhbjo6",
+      "Name": "Lockpick 5 Gates",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "mimic",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat a Mimic",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "partyof4",
+      "SetID": "5nhbjo6",
+      "Name": "Get a Full Party of 4",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "playerboss",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat the Player Apparition",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "sanguine",
+      "SetID": "5nhbjo6",
+      "Name": "Defeat the Sanguine Apparition",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "secretpartner",
+      "SetID": "5nhbjo6",
+      "Name": "Team Up With a Secret Partner",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "solitude",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Solitude",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "specialsettings",
+      "SetID": "5nhbjo6",
+      "Name": "Start a Save File With Special Settings",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "spite",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Spite",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "stun15 stunnedapparitions (0-15",
+      "SetID": "5nhbjo6",
+      "Name": "Stun Apparitions 15 Times",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "surpriseattack surpriseattacks (0-5)",
+      "SetID": "5nhbjo6",
+      "Name": "Surprise Attack 5 Times",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "trust",
+      "SetID": "5nhbjo6",
+      "Name": "Obtain Trust",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "tutorial",
+      "SetID": "5nhbjo6",
+      "Name": "Complete the Tutorial",
+      "Percentage": 0,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,22 +230,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 31,
+  "LastChanged_Achievements": "2023-05-04T19:18:53.5653898+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:01.2594598+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:27.9976166+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:01.2594583+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:53.5654136+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:26.1973176+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5nhbjo6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:15.4326939+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:09.5003214+00:00",
   "FirstSeenRating": "2023-03-31T05:58:15.4326938+00:00",
+  "FirstSeen": "2022-09-27T15:02:49.6831581+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-09-27T15:02:49.6831581+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:09.5003214+00:00"
 }

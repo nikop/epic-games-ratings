@@ -1,6 +1,7 @@
 {
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -212,15 +213,19 @@
       "NumberOfAwardsMax": 34
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:27.0065544+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:42.9552161+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:42.1392369+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T02:01:33.3563191+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
+  "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 34,
   "NumberOfAwards": 34,
@@ -232,6 +237,5 @@
   "Ranking_PopularitySum": 451,
   "Ranking_Popularity": 430,
   "Ranking_Rating": 447,
-  "Rating": 4.56,
-  "FirstSeen": "2022-08-30T21:00:25.2604466+00:00"
+  "Rating": 4.56
 }

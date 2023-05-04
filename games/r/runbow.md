@@ -1,11 +1,56 @@
 # Runbow
 Rating: 4.46 (Ranked 590)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| In The Zone | 53.00 |
+| My First Runbow | 51.00 |
+| It's The Fall | 26.00 |
+| Be Aggressive | 20.00 |
+| Curator | 20.00 |
+| The Stunner | 20.00 |
+| Crowning Around | 18.00 |
+| Can You Dig It? | 17.00 |
+| You Juan-A-Go? | 16.00 |
+| Chan-tastic | 15.00 |
+| Muddy Waters | 14.00 |
+| Toasty! | 13.00 |
+| Lazy Laser | 8.00 |
+| Into The Drift | 7.00 |
+| Ready? Fight! | 7.00 |
+| Just A Phaze | 6.00 |
+| Butt Butt | 6.00 |
+| Shoo, Cat! | 3.00 |
+| And You're Okay | 2.00 |
+| Blotbuster | 2.00 |
+| He Who Laughs Last | 2.00 |
+| Just A Bit | 1.00 |
+| Thunderstruck | 1.00 |
+| Tubular, Dude | 0.90 |
+| What A Trip | 0.90 |
+| Please The King | 0.80 |
+| Here We Go! | 0.70 |
+| Clear-Cut | 0.50 |
+| Breaking Out | 0.30 |
+| Disposable | 0.30 |
+| A Winner Is You | 0.20 |
+| Final Nightmare | 0.20 |
+| I'm Here All Night | 0.20 |
+| Ride The Wave | 0.20 |
+| Tree Medalist | 0.20 |
+| Can't Be Kept Down | 0.10 |
+| Completionist | 0.10 |
+| Did Your Time | 0.10 |
+| Hanging 10 | 0.10 |
+| Hard To Stomach | 0.10 |
+| Indegestible | 0.10 |
+| Lockup Lockdown | 0.10 |
+| Not Scared | 0.10 |
+| Perfect Darkness | 0.10 |
+| Talent Scout | 0.10 |
+| True Completionist | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,420 (Ranked 40)  
+Progressed: 242,421 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,10 +64,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 242,302 | 1 |
 | 2023-05-02 | 242,344 | 1 |
 | 2023-05-03 | 242,391 | 1 |
-| 2023-05-04 | 242,420 | 1 |
-## Awards
-| Award | Count |
-| ----- | ----- |
+| 2023-05-04 | 242,421 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

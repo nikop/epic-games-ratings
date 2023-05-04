@@ -1,6 +1,463 @@
 {
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
+  "Achievements": [
+    {
+      "ID": "affinity_meltdown_first_time",
+      "SetID": "64l4lke",
+      "Name": "Don\u0027t Make Me Turn This Coach Around",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "affinity_resolute_first_time",
+      "SetID": "64l4lke",
+      "Name": "Serenity Now!",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_memory_equip_first_time",
+      "SetID": "64l4lke",
+      "Name": "It Rings a Bell",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_memory_equip_five_same_hero",
+      "SetID": "64l4lke",
+      "Name": "A Life Well Lived",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_flagellant",
+      "SetID": "64l4lke",
+      "Name": "Resurrection",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_hellion",
+      "SetID": "64l4lke",
+      "Name": "Unleash Hell",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_jester",
+      "SetID": "64l4lke",
+      "Name": "Funny Guy",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_leper",
+      "SetID": "64l4lke",
+      "Name": "Long Live the King",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_occultist",
+      "SetID": "64l4lke",
+      "Name": "Wyrdly Reconstructed",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_runaway",
+      "SetID": "64l4lke",
+      "Name": "Boxcar Kid",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_unlock_hero_vestal",
+      "SetID": "64l4lke",
+      "Name": "Unfulfilled Desires",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "altar_of_hope_upgrade_total_full",
+      "SetID": "64l4lke",
+      "Name": "The World As It Was",
+      "Percentage": 50,
+      "XP": 50
+    },
+    {
+      "ID": "altar_of_hope_upgrade_total_half",
+      "SetID": "64l4lke",
+      "Name": "This Looks Familiar",
+      "Percentage": 50,
+      "XP": 20
+    },
+    {
+      "ID": "altar_of_hope_upgrade_total_quarter",
+      "SetID": "64l4lke",
+      "Name": "Hope Rekindled",
+      "Percentage": 50,
+      "XP": 5
+    },
+    {
+      "ID": "application_start_on_release_anniversary",
+      "SetID": "64l4lke",
+      "Name": "Loop Year",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_animal",
+      "SetID": "64l4lke",
+      "Name": "Predator",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_antiquarian",
+      "SetID": "64l4lke",
+      "Name": "This Belongs in a Museum",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_cadavers",
+      "SetID": "64l4lke",
+      "Name": "Dissector",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_cosmic",
+      "SetID": "64l4lke",
+      "Name": "Banishment",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_death",
+      "SetID": "64l4lke",
+      "Name": "Not Today!",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_dreaming_general",
+      "SetID": "64l4lke",
+      "Name": "Creep and Sleep",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_fanatics",
+      "SetID": "64l4lke",
+      "Name": "Deprogramming",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_fisherfolk",
+      "SetID": "64l4lke",
+      "Name": "Ichthyophobic",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_gaunts",
+      "SetID": "64l4lke",
+      "Name": "Now Stay Dead",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_gentry",
+      "SetID": "64l4lke",
+      "Name": "No More Mouths to Feed",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_harvest_child",
+      "SetID": "64l4lke",
+      "Name": "Meat and Greet",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_lair_boss_bounty_hunter",
+      "SetID": "64l4lke",
+      "Name": "Clearing the Ledger",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "combat_kill_leviathan",
+      "SetID": "64l4lke",
+      "Name": "Catch and Decease",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_librarian",
+      "SetID": "64l4lke",
+      "Name": "Overdue Notice",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_pillagers",
+      "SetID": "64l4lke",
+      "Name": "Reverse Banditry",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_kill_shambler",
+      "SetID": "64l4lke",
+      "Name": "Escape from the Black Hole",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "combat_kill_shambler_pet_shambler",
+      "SetID": "64l4lke",
+      "Name": "Circle of Life",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "combat_kill_swine",
+      "SetID": "64l4lke",
+      "Name": "Bacon Bits",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_party_wipe_all_run_bosses",
+      "SetID": "64l4lke",
+      "Name": "No Gravestone Left Unturned",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "combat_party_wipe_any_run_boss",
+      "SetID": "64l4lke",
+      "Name": "It Happens",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "combat_run_kill_three_lair_bosses",
+      "SetID": "64l4lke",
+      "Name": "Hat Trick",
+      "Percentage": 25,
+      "XP": 20
+    },
+    {
+      "ID": "driving_biome_clear_cave",
+      "SetID": "64l4lke",
+      "Name": "Spelunker",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "driving_biome_clear_city",
+      "SetID": "64l4lke",
+      "Name": "Rush Hour",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "driving_biome_clear_coast",
+      "SetID": "64l4lke",
+      "Name": "Merry Time",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "driving_biome_clear_farm",
+      "SetID": "64l4lke",
+      "Name": "Harvest Festival",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "driving_biome_clear_forest",
+      "SetID": "64l4lke",
+      "Name": "To Grandmother\u0027s House",
+      "Percentage": 75,
+      "XP": 5
+    },
+    {
+      "ID": "driving_distance_easy",
+      "SetID": "64l4lke",
+      "Name": "Ramble On",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "driving_distance_hard",
+      "SetID": "64l4lke",
+      "Name": "20,000 Leagues Above the Sea",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "hero_loss_memoried",
+      "SetID": "64l4lke",
+      "Name": "Tears in the Rain",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "hero_skill_mastery_five",
+      "SetID": "64l4lke",
+      "Name": "Autodidact",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "hero_story_complete_all",
+      "SetID": "64l4lke",
+      "Name": "Shrine of Reflection",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "hero_story_complete_any",
+      "SetID": "64l4lke",
+      "Name": "A Clear Conscience",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "hoarder_buy_epic_trinket",
+      "SetID": "64l4lke",
+      "Name": "Whale",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "hospital_full_service",
+      "SetID": "64l4lke",
+      "Name": "Triage",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "inn_first_time",
+      "SetID": "64l4lke",
+      "Name": "A Place to Lay Your Head",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "inn_hire_mercenary_bounty_hunter",
+      "SetID": "64l4lke",
+      "Name": "When You Want Something Done Right",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "inn_replacement_hero_add",
+      "SetID": "64l4lke",
+      "Name": "FNG",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "inn_visit_all_variants",
+      "SetID": "64l4lke",
+      "Name": "Pub Crawl",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "relationships_all_negative_mountain",
+      "SetID": "64l4lke",
+      "Name": "The Clash",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "relationships_all_positive_mountain",
+      "SetID": "64l4lke",
+      "Name": "Utopia",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "roster_confirm_all_memoried",
+      "SetID": "64l4lke",
+      "Name": "Eidetic",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "run_end_abandon",
+      "SetID": "64l4lke",
+      "Name": "Nope",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "run_victory_act01",
+      "SetID": "64l4lke",
+      "Name": "Unshackled",
+      "Percentage": 0,
+      "XP": 20
+    },
+    {
+      "ID": "run_victory_act02",
+      "SetID": "64l4lke",
+      "Name": "Hot Air",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "run_victory_act03",
+      "SetID": "64l4lke",
+      "Name": "Eyes Up",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "run_victory_act04",
+      "SetID": "64l4lke",
+      "Name": "Handled",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "run_victory_act05",
+      "SetID": "64l4lke",
+      "Name": "Body of Work",
+      "Percentage": 25,
+      "XP": 50
+    },
+    {
+      "ID": "run_victory_all_confessions_back_to_back",
+      "SetID": "64l4lke",
+      "Name": "Grand Slam",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "run_victory_final_boss_infernal_flame",
+      "SetID": "64l4lke",
+      "Name": "Hard Mode",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "stagecoach_upgrade_equip_all",
+      "SetID": "64l4lke",
+      "Name": "Road Trip",
+      "Percentage": 0,
+      "XP": 5
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -3921,16 +4378,26 @@
       "NumberOfAwardsMax": 6507
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 65,
+  "LastChanged_Achievements": "2023-05-04T19:19:37.9286933+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T19:04:47.0385338+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:15.6195289+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:47.0385312+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:37.9287521+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:14.1389342+00:00",
+  "AchievementSets": [
+    {
+      "ID": "64l4lke",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:59:15.6195282+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
+  "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6507,
   "NumberOfAwards": 16591,
@@ -3943,5 +4410,5 @@
   "Ranking_Popularity": 48,
   "Ranking_Rating": 255,
   "Rating": 4.67,
-  "FirstSeen": "2022-07-22T20:21:45.4172836+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00"
 }

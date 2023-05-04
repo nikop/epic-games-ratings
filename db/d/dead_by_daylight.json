@@ -1,6 +1,1506 @@
 {
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
+  "Achievements": [
+    {
+      "ID": "ACH_001",
+      "SetID": "bdmlp8o",
+      "Name": "The Grand Sacrifice",
+      "Percentage": 50,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_002",
+      "SetID": "bdmlp8o",
+      "Name": "A bite for the Entity",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_003",
+      "SetID": "bdmlp8o",
+      "Name": "A feast for the Entity",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_004",
+      "SetID": "bdmlp8o",
+      "Name": "Blood on your hands",
+      "Percentage": 29,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_005",
+      "SetID": "bdmlp8o",
+      "Name": "Blood on your face",
+      "Percentage": 22,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_006",
+      "SetID": "bdmlp8o",
+      "Name": "Blood in your mouth",
+      "Percentage": 13,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_007",
+      "SetID": "bdmlp8o",
+      "Name": "Cripple them all",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_008",
+      "SetID": "bdmlp8o",
+      "Name": "Jump Scares",
+      "Percentage": 19,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_009",
+      "SetID": "bdmlp8o",
+      "Name": "The Grind",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_010",
+      "SetID": "bdmlp8o",
+      "Name": "Escape Artist",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_011",
+      "SetID": "bdmlp8o",
+      "Name": "Made it out alive!",
+      "Percentage": 33,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_012",
+      "SetID": "bdmlp8o",
+      "Name": "Agonizing Escape",
+      "Percentage": 47,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_013",
+      "SetID": "bdmlp8o",
+      "Name": "Backdoor Escape",
+      "Percentage": 49,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_014",
+      "SetID": "bdmlp8o",
+      "Name": "The Key to Escape",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_015",
+      "SetID": "bdmlp8o",
+      "Name": "I\u0027ve got your back",
+      "Percentage": 46,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_016",
+      "SetID": "bdmlp8o",
+      "Name": "No one left behind",
+      "Percentage": 54,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_017",
+      "SetID": "bdmlp8o",
+      "Name": "Medic",
+      "Percentage": 53,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_018",
+      "SetID": "bdmlp8o",
+      "Name": "Handyman",
+      "Percentage": 59,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_019",
+      "SetID": "bdmlp8o",
+      "Name": "Nerves of steel",
+      "Percentage": 54,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_020",
+      "SetID": "bdmlp8o",
+      "Name": "Perfect Escape",
+      "Percentage": 49,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_021",
+      "SetID": "bdmlp8o",
+      "Name": "Perfect Killing",
+      "Percentage": 44,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_022",
+      "SetID": "bdmlp8o",
+      "Name": "Zealous",
+      "Percentage": 75,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_023",
+      "SetID": "bdmlp8o",
+      "Name": "It wakes",
+      "Percentage": 80,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_024",
+      "SetID": "bdmlp8o",
+      "Name": "Not half bad",
+      "Percentage": 67,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_025",
+      "SetID": "bdmlp8o",
+      "Name": "Bloody Millionaire",
+      "Percentage": 54,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_026",
+      "SetID": "bdmlp8o",
+      "Name": "Gifts for the Fog",
+      "Percentage": 25,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_027",
+      "SetID": "bdmlp8o",
+      "Name": "Apt Survivor",
+      "Percentage": 62,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_028",
+      "SetID": "bdmlp8o",
+      "Name": "Apt Killer",
+      "Percentage": 40,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_029",
+      "SetID": "bdmlp8o",
+      "Name": "Risk it all",
+      "Percentage": 41,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_030",
+      "SetID": "bdmlp8o",
+      "Name": "Survival Treasures",
+      "Percentage": 62,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_031",
+      "SetID": "bdmlp8o",
+      "Name": "Vulture",
+      "Percentage": 39,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_032",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Jake",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_033",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Dwight",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_034",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Claudette",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_035",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Meg",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_036",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Trapper",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_037",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Wraith",
+      "Percentage": 0.9,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_038",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Hillbilly",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_039",
+      "SetID": "bdmlp8o",
+      "Name": "Skillful",
+      "Percentage": 74,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_040",
+      "SetID": "bdmlp8o",
+      "Name": "I",
+      "Percentage": 54,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_041",
+      "SetID": "bdmlp8o",
+      "Name": "II",
+      "Percentage": 41,
+      "XP": 20
+    },
+    {
+      "ID": "ACH_042",
+      "SetID": "bdmlp8o",
+      "Name": "III",
+      "Percentage": 36,
+      "XP": 40
+    },
+    {
+      "ID": "ACH_043",
+      "SetID": "bdmlp8o",
+      "Name": "III-50",
+      "Percentage": 28,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_044",
+      "SetID": "bdmlp8o",
+      "Name": "In the void she walks",
+      "Percentage": 8,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_045",
+      "SetID": "bdmlp8o",
+      "Name": "From the void she kills",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_046",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Nurse",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_047",
+      "SetID": "bdmlp8o",
+      "Name": "Hemophobia",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_048",
+      "SetID": "bdmlp8o",
+      "Name": "Shock Therapy",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_049",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Nea",
+      "Percentage": 2,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_050",
+      "SetID": "16jml5b",
+      "Name": "Triggered",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_051",
+      "SetID": "16jml5b",
+      "Name": "Even Punishment",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_052",
+      "SetID": "16jml5b",
+      "Name": "Adept Hag",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_053",
+      "SetID": "16jml5b",
+      "Name": "All Aboard",
+      "Percentage": 29,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_054",
+      "SetID": "16jml5b",
+      "Name": "Deep Cleansing",
+      "Percentage": 21,
+      "XP": 100
+    },
+    {
+      "ID": "ACH_055",
+      "SetID": "16jml5b",
+      "Name": "Adept Ace",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_056",
+      "SetID": "16jml5b",
+      "Name": "Shocking Treatment",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_057",
+      "SetID": "16jml5b",
+      "Name": "Mad House",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_058",
+      "SetID": "16jml5b",
+      "Name": "Adept Doctor",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_059",
+      "SetID": "16jml5b",
+      "Name": "Engineer",
+      "Percentage": 50,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_060",
+      "SetID": "16jml5b",
+      "Name": "Leapfrog",
+      "Percentage": 26,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_061",
+      "SetID": "16jml5b",
+      "Name": "Adept Min",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_062",
+      "SetID": "16jml5b",
+      "Name": "The man behind the bush",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_063",
+      "SetID": "16jml5b",
+      "Name": "Evil Incarnate",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_064",
+      "SetID": "16jml5b",
+      "Name": "Adept Shape",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_065",
+      "SetID": "16jml5b",
+      "Name": "Item of Obsession",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_066",
+      "SetID": "16jml5b",
+      "Name": "House of Pain",
+      "Percentage": 24,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_067",
+      "SetID": "16jml5b",
+      "Name": "Adept Laurie",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_068",
+      "SetID": "bdmlp8o",
+      "Name": "Swirling Death",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_069",
+      "SetID": "bdmlp8o",
+      "Name": "Skilled Huntress",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_070",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Huntress",
+      "Percentage": 0.8,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_071",
+      "SetID": "bdmlp8o",
+      "Name": "Cottage Owner",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_072",
+      "SetID": "bdmlp8o",
+      "Name": "Sorted",
+      "Percentage": 56,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_073",
+      "SetID": "bdmlp8o",
+      "Name": "Adept David",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_074",
+      "SetID": "16jml5b",
+      "Name": "Butcherin\u0027",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_075",
+      "SetID": "16jml5b",
+      "Name": "Texas BBQ",
+      "Percentage": 19,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_076",
+      "SetID": "16jml5b",
+      "Name": "Adept Cannibal",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_077",
+      "SetID": "16jml5b",
+      "Name": "Dream Demon",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_078",
+      "SetID": "16jml5b",
+      "Name": "Serial Killer",
+      "Percentage": 22,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_079",
+      "SetID": "16jml5b",
+      "Name": "Adept Nightmare",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_080",
+      "SetID": "16jml5b",
+      "Name": "Looter",
+      "Percentage": 16,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_081",
+      "SetID": "16jml5b",
+      "Name": "Escaping the Nightmare",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_082",
+      "SetID": "16jml5b",
+      "Name": "Adept Quentin",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_083",
+      "SetID": "16jml5b",
+      "Name": "Holiday Get-Together",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_084",
+      "SetID": "16jml5b",
+      "Name": "Milk \u0027n\u0027 Cookies",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_085",
+      "SetID": "16jml5b",
+      "Name": "Happy Holidays",
+      "Percentage": 19,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_086",
+      "SetID": "16jml5b",
+      "Name": "I Want to Play a Game",
+      "Percentage": 0.6,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_087",
+      "SetID": "16jml5b",
+      "Name": "Game Over",
+      "Percentage": 21,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_088",
+      "SetID": "16jml5b",
+      "Name": "Adept Pig",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_089",
+      "SetID": "16jml5b",
+      "Name": "Near-Death Experience",
+      "Percentage": 32,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_090",
+      "SetID": "16jml5b",
+      "Name": "Cherish your Life",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_091",
+      "SetID": "16jml5b",
+      "Name": "Adept Tapp",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_092",
+      "SetID": "16jml5b",
+      "Name": "Party Crasher",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_093",
+      "SetID": "16jml5b",
+      "Name": "Smoked",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_094",
+      "SetID": "16jml5b",
+      "Name": "Adept Clown",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_095",
+      "SetID": "16jml5b",
+      "Name": "Campbell\u0027s Chapel Legacy",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_096",
+      "SetID": "16jml5b",
+      "Name": "Whiffing to Success",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_097",
+      "SetID": "16jml5b",
+      "Name": "Adept Kate",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_098",
+      "SetID": "16jml5b",
+      "Name": "Outrage",
+      "Percentage": 17,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_099",
+      "SetID": "16jml5b",
+      "Name": "Conniption",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_100",
+      "SetID": "16jml5b",
+      "Name": "Adept Spirit",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_101",
+      "SetID": "16jml5b",
+      "Name": "Ancestor\u0027s Rite",
+      "Percentage": 28,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_102",
+      "SetID": "16jml5b",
+      "Name": "Not Today",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_103",
+      "SetID": "16jml5b",
+      "Name": "Adept Adam",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_104",
+      "SetID": "16jml5b",
+      "Name": "Heavy Burden",
+      "Percentage": 17,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_105",
+      "SetID": "16jml5b",
+      "Name": "Deranged Pursuit",
+      "Percentage": 9,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_106",
+      "SetID": "16jml5b",
+      "Name": "Adept Legion",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_107",
+      "SetID": "16jml5b",
+      "Name": "Dismantle",
+      "Percentage": 11,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_108",
+      "SetID": "16jml5b",
+      "Name": "Unforgettable Getaway",
+      "Percentage": 34,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_109",
+      "SetID": "16jml5b",
+      "Name": "Adept Jeff",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_110",
+      "SetID": "16jml5b",
+      "Name": "Devoted Gatekeeping",
+      "Percentage": 22,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_111",
+      "SetID": "16jml5b",
+      "Name": "Terminal Illness",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_112",
+      "SetID": "16jml5b",
+      "Name": "Adept Plague",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_113",
+      "SetID": "16jml5b",
+      "Name": "Wounded Healer",
+      "Percentage": 43,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_114",
+      "SetID": "16jml5b",
+      "Name": "Shrine Apparatus",
+      "Percentage": 24,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_115",
+      "SetID": "16jml5b",
+      "Name": "Adept Jane",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_116",
+      "SetID": "16jml5b",
+      "Name": "Cutting Out",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_117",
+      "SetID": "16jml5b",
+      "Name": "Outrun Evil",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_118",
+      "SetID": "16jml5b",
+      "Name": "Adept Ash",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_119",
+      "SetID": "16jml5b",
+      "Name": "Silent Approach",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_120",
+      "SetID": "16jml5b",
+      "Name": "Totally Vulnerable",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_121",
+      "SetID": "16jml5b",
+      "Name": "Adept Ghost Face",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_122",
+      "SetID": "bdmlp8o",
+      "Name": "Taking One For The Team",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_123",
+      "SetID": "bdmlp8o",
+      "Name": "Left For Dead",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_124",
+      "SetID": "bdmlp8o",
+      "Name": "Adept Bill",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_128",
+      "SetID": "16jml5b",
+      "Name": "Denied!",
+      "Percentage": 11,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_129",
+      "SetID": "16jml5b",
+      "Name": "First to the Punch",
+      "Percentage": 36,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_130",
+      "SetID": "16jml5b",
+      "Name": "Tools of the Trade",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_131",
+      "SetID": "16jml5b",
+      "Name": "Operation: Survival",
+      "Percentage": 34,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_132",
+      "SetID": "16jml5b",
+      "Name": "Expert Generalist",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_133",
+      "SetID": "16jml5b",
+      "Name": "Skilled Generalist",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_134",
+      "SetID": "16jml5b",
+      "Name": "Broken Bodies",
+      "Percentage": 20,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_135",
+      "SetID": "16jml5b",
+      "Name": "Bloodbath",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_136",
+      "SetID": "16jml5b",
+      "Name": "Adept Oni",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_137",
+      "SetID": "16jml5b",
+      "Name": "Grim Pilgrimage",
+      "Percentage": 27,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_138",
+      "SetID": "16jml5b",
+      "Name": "Bodyguard",
+      "Percentage": 10,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_139",
+      "SetID": "16jml5b",
+      "Name": "Adept Yui",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_140",
+      "SetID": "16jml5b",
+      "Name": "Bound and Downed",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_141",
+      "SetID": "16jml5b",
+      "Name": "Quick Draw",
+      "Percentage": 2,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_142",
+      "SetID": "16jml5b",
+      "Name": "Adept Deathslinger",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_143",
+      "SetID": "16jml5b",
+      "Name": "Old West Oasis",
+      "Percentage": 35,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_144",
+      "SetID": "16jml5b",
+      "Name": "Selfless Survival",
+      "Percentage": 25,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_145",
+      "SetID": "16jml5b",
+      "Name": "Adept Zarina",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_146",
+      "SetID": "16jml5b",
+      "Name": "Cleansed in Agony",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_147",
+      "SetID": "16jml5b",
+      "Name": "Death of Ignorance",
+      "Percentage": 11,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_148",
+      "SetID": "16jml5b",
+      "Name": "Adept Executioner",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_149",
+      "SetID": "16jml5b",
+      "Name": "Classy Act",
+      "Percentage": 33,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_150",
+      "SetID": "16jml5b",
+      "Name": "Healthy Obsession",
+      "Percentage": 55,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_151",
+      "SetID": "16jml5b",
+      "Name": "Adept Cheryl",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_152",
+      "SetID": "16jml5b",
+      "Name": "Speed Kills",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_153",
+      "SetID": "16jml5b",
+      "Name": "I See You",
+      "Percentage": 18,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_154",
+      "SetID": "16jml5b",
+      "Name": "Adept Blight",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_155",
+      "SetID": "16jml5b",
+      "Name": "Every Last Drop",
+      "Percentage": 38,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_156",
+      "SetID": "16jml5b",
+      "Name": "Resurgence",
+      "Percentage": 57,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_157",
+      "SetID": "16jml5b",
+      "Name": "Adept Felix",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_158",
+      "SetID": "16jml5b",
+      "Name": "Tag Team",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_159",
+      "SetID": "16jml5b",
+      "Name": "End of Days",
+      "Percentage": 24,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_160",
+      "SetID": "16jml5b",
+      "Name": "Adept Twins",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_161",
+      "SetID": "16jml5b",
+      "Name": "Rescue Mission",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_162",
+      "SetID": "16jml5b",
+      "Name": "Power Moves",
+      "Percentage": 11,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_163",
+      "SetID": "16jml5b",
+      "Name": "Adept \u00C9lodie",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_164",
+      "SetID": "16jml5b",
+      "Name": "One Thousand Cuts",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_165",
+      "SetID": "16jml5b",
+      "Name": "Multi-tasker",
+      "Percentage": 6,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_166",
+      "SetID": "16jml5b",
+      "Name": "Adept Trickster",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_167",
+      "SetID": "16jml5b",
+      "Name": "Insult and Injury",
+      "Percentage": 23,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_168",
+      "SetID": "16jml5b",
+      "Name": "Close Shave",
+      "Percentage": 49,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_169",
+      "SetID": "16jml5b",
+      "Name": "Adept Yun-Jin",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_170",
+      "SetID": "16jml5b",
+      "Name": "Biological Weaponry",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_171",
+      "SetID": "16jml5b",
+      "Name": "Preemptive Strike",
+      "Percentage": 52,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_172",
+      "SetID": "16jml5b",
+      "Name": "Adept Nemesis",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_173",
+      "SetID": "16jml5b",
+      "Name": "Raccoon City Recruit",
+      "Percentage": 32,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_174",
+      "SetID": "16jml5b",
+      "Name": "Adept Leon",
+      "Percentage": 0.8,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_175",
+      "SetID": "16jml5b",
+      "Name": "Adept Jill",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_176",
+      "SetID": "16jml5b",
+      "Name": "Tear Their Soul Apart",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_177",
+      "SetID": "16jml5b",
+      "Name": "Punch Drunk",
+      "Percentage": 14,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_178",
+      "SetID": "16jml5b",
+      "Name": "Adept Cenobite",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_179",
+      "SetID": "16jml5b",
+      "Name": "Bless You",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_180",
+      "SetID": "16jml5b",
+      "Name": "Humanitarian",
+      "Percentage": 53,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_181",
+      "SetID": "16jml5b",
+      "Name": "Adept Mikaela",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_182",
+      "SetID": "16jml5b",
+      "Name": "Caws of Death",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_183",
+      "SetID": "16jml5b",
+      "Name": "Prowler",
+      "Percentage": 16,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_184",
+      "SetID": "16jml5b",
+      "Name": "Adept Artist",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_185",
+      "SetID": "16jml5b",
+      "Name": "With Scars to Show",
+      "Percentage": 40,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_186",
+      "SetID": "16jml5b",
+      "Name": "Flight to Freedom",
+      "Percentage": 35,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_187",
+      "SetID": "16jml5b",
+      "Name": "Adept Jonah",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_188",
+      "SetID": "16jml5b",
+      "Name": "Viral Video",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_189",
+      "SetID": "16jml5b",
+      "Name": "Ghost in the Machine",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_190",
+      "SetID": "16jml5b",
+      "Name": "Adept Onry\u014D",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_191",
+      "SetID": "16jml5b",
+      "Name": "Fleet of Foot",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_192",
+      "SetID": "16jml5b",
+      "Name": "Triage",
+      "Percentage": 15,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_193",
+      "SetID": "16jml5b",
+      "Name": "Adept Yoichi",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_194",
+      "SetID": "16jml5b",
+      "Name": "Bump in the Night",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_195",
+      "SetID": "16jml5b",
+      "Name": "From the Deep",
+      "Percentage": 8,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_196",
+      "SetID": "16jml5b",
+      "Name": "Adept Dredge",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_197",
+      "SetID": "16jml5b",
+      "Name": "Outrun the Overlap",
+      "Percentage": 23,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_198",
+      "SetID": "16jml5b",
+      "Name": "Hiding Seeker",
+      "Percentage": 0.8,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_199",
+      "SetID": "16jml5b",
+      "Name": "Adept Haddie",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_200",
+      "SetID": "16jml5b",
+      "Name": "Collision Course",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_201",
+      "SetID": "16jml5b",
+      "Name": "High Speed Pursuit",
+      "Percentage": 14,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_202",
+      "SetID": "16jml5b",
+      "Name": "Adept Mastermind",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_203",
+      "SetID": "16jml5b",
+      "Name": "Outbreak Breakout",
+      "Percentage": 0.5,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_204",
+      "SetID": "16jml5b",
+      "Name": "Adept Ada",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_205",
+      "SetID": "16jml5b",
+      "Name": "Adept Rebecca",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_206",
+      "SetID": "16jml5b",
+      "Name": "Cruelty Loves Company",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_207",
+      "SetID": "16jml5b",
+      "Name": "A Fast Death",
+      "Percentage": 22,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_208",
+      "SetID": "16jml5b",
+      "Name": "Adept Knight",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_209",
+      "SetID": "16jml5b",
+      "Name": "Rebuilding The Borgo",
+      "Percentage": 15,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_210",
+      "SetID": "16jml5b",
+      "Name": "Lifting The Fog",
+      "Percentage": 21,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_211",
+      "SetID": "16jml5b",
+      "Name": "Adept Vittorio",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_212",
+      "SetID": "16jml5b",
+      "Name": "Thrill of the Chase",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_213",
+      "SetID": "16jml5b",
+      "Name": "Chorus of Chaos",
+      "Percentage": 15,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_214",
+      "SetID": "16jml5b",
+      "Name": "Adept Skull Merchant",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_215",
+      "SetID": "16jml5b",
+      "Name": "Hack the Mainframe",
+      "Percentage": 7,
+      "XP": 50
+    },
+    {
+      "ID": "ACH_216",
+      "SetID": "16jml5b",
+      "Name": "Adept Thalita",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_217",
+      "SetID": "16jml5b",
+      "Name": "Adept Renato",
+      "Percentage": 0.2,
+      "XP": 15
+    }
+  ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1143,6 +2643,11 @@
     {
       "Time": "2023-05-04T19:05:31.8418136+00:00",
       "NumProgressed": 396138,
+      "NumCompleted": 36
+    },
+    {
+      "Time": "2023-05-04T19:20:23.0402923+00:00",
+      "NumProgressed": 396189,
       "NumCompleted": 36
     }
   ],
@@ -5830,16 +7335,32 @@
       "NumberOfAwardsMax": 27021
     }
   ],
-  "EOS_Completed_Percentage": 0.01,
+  "TotalAchievementsXP": 5105,
+  "TotalAchievements": 214,
+  "LastChanged_Achievements": "2023-05-04T19:20:23.0402918+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 27588,
+  "EOS_NewPlayers": 27639,
   "EOS_Completed": 36,
-  "EOS_Progressed": 396138,
-  "LastUpdate_Achievements": "2023-05-04T19:05:31.8418207+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:37.6314215+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:31.8418131+00:00",
+  "EOS_Progressed": 396189,
+  "LastUpdate_Achievements": "2023-05-04T19:20:23.0408446+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:33.9002299+00:00",
+  "AchievementSets": [
+    {
+      "ID": "16jml5b",
+      "IsBase": false,
+      "Progressed": 396189,
+      "Completed": 16
+    },
+    {
+      "ID": "bdmlp8o",
+      "IsBase": true,
+      "Progressed": 396189,
+      "Completed": 36
+    }
+  ],
+  "EOS_Completed_Percentage": 0.01,
   "LastChanged": "2023-05-04T18:59:37.6314209+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
+  "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 27021,
   "NumberOfAwards": 218216,
@@ -5852,5 +7373,5 @@
   "Ranking_Popularity": 16,
   "Ranking_Rating": 499,
   "Rating": 4.52,
-  "FirstSeen": "2022-07-22T20:17:36.4458597+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00"
 }

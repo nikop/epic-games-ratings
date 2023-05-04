@@ -1,6 +1,7 @@
 {
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -473,14 +474,18 @@
       "NumberOfAwardsMax": 103
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:05:15.8249328+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:42.346469+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:39.1303524+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T13:02:21.5835377+00:00",
+  "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 103,
   "NumberOfAwards": 316,
@@ -492,6 +497,5 @@
   "Ranking_PopularitySum": 319,
   "Ranking_Popularity": 317,
   "Ranking_Rating": 599,
-  "Rating": 4.45,
-  "FirstSeen": "2022-07-22T20:17:47.9455282+00:00"
+  "Rating": 4.45
 }

@@ -1,6 +1,7 @@
 {
   "ID": "badger",
   "Name": "What Remains of Edith Finch",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -239,14 +240,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:14.3501126+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:45.9172786+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:43.4666457+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-20T20:58:32.2859368+00:00",
+  "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 75,
@@ -257,6 +262,5 @@
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 157,
-  "Rating": 4.73,
-  "FirstSeen": "2022-07-22T20:30:14.3324277+00:00"
+  "Rating": 4.73
 }

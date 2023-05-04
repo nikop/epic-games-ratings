@@ -1,6 +1,512 @@
 {
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
+  "Achievements": [
+    {
+      "ID": "*BEEP* YOU, CLAWZ!",
+      "SetID": "d4hjaom",
+      "Name": "*BEEP* YOU, CLAWZ!",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "...A Saint Gets a Gun",
+      "SetID": "d4hjaom",
+      "Name": "...A Saint Gets a Gun",
+      "Percentage": 4,
+      "XP": 5
+    },
+    {
+      "ID": "A Real Cluster....",
+      "SetID": "d4hjaom",
+      "Name": "A Real Cluster....",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "A Very Genki Holiday",
+      "SetID": "d4hjaom",
+      "Name": "A Very Genki Holiday",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "A World Without Christmas",
+      "SetID": "d4hjaom",
+      "Name": "A World Without Christmas",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "About Time!",
+      "SetID": "d4hjaom",
+      "Name": "About Time!",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "Actor-Turned-Politician",
+      "SetID": "d4hjaom",
+      "Name": "Actor-Turned-Politician",
+      "Percentage": 8,
+      "XP": 20
+    },
+    {
+      "ID": "All Too Easy",
+      "SetID": "d4hjaom",
+      "Name": "All Too Easy",
+      "Percentage": 17,
+      "XP": 5
+    },
+    {
+      "ID": "And I Ran...",
+      "SetID": "d4hjaom",
+      "Name": "And I Ran...",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Back in the Day",
+      "SetID": "d4hjaom",
+      "Name": "Back in the Day",
+      "Percentage": 0.7,
+      "XP": 5
+    },
+    {
+      "ID": "Benjamin [CENSORED] King",
+      "SetID": "d4hjaom",
+      "Name": "Benjamin [CENSORED] King",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Betrayed",
+      "SetID": "d4hjaom",
+      "Name": "Betrayed",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "Better This Way",
+      "SetID": "d4hjaom",
+      "Name": "Better This Way",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "Blast from the Past",
+      "SetID": "d4hjaom",
+      "Name": "Blast from the Past",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "Bouncin\u0027 with an Old Friend",
+      "SetID": "d4hjaom",
+      "Name": "Bouncin\u0027 with an Old Friend",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Bow to the Boss",
+      "SetID": "d4hjaom",
+      "Name": "Bow to the Boss!",
+      "Percentage": 10,
+      "XP": 10
+    },
+    {
+      "ID": "Bringin\u0027 the Heat",
+      "SetID": "d4hjaom",
+      "Name": "Bringin\u0027 the Heat",
+      "Percentage": 0.4,
+      "XP": 5
+    },
+    {
+      "ID": "Chill Out",
+      "SetID": "d4hjaom",
+      "Name": "Chill Out",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Dear Santa",
+      "SetID": "d4hjaom",
+      "Name": "Dear Santa",
+      "Percentage": 0.8,
+      "XP": 5
+    },
+    {
+      "ID": "Destroyer-In-Chief",
+      "SetID": "d4hjaom",
+      "Name": "Destroyer-In-Chief",
+      "Percentage": 61,
+      "XP": 5
+    },
+    {
+      "ID": "Didn\u0027t Need to See Him Naked",
+      "SetID": "d4hjaom",
+      "Name": "Didn\u0027t Need to See Him Naked",
+      "Percentage": 15,
+      "XP": 15
+    },
+    {
+      "ID": "Don\u0027t Look Down",
+      "SetID": "d4hjaom",
+      "Name": "Don\u0027t Look Down",
+      "Percentage": 32,
+      "XP": 5
+    },
+    {
+      "ID": "Don\u0027t Panic",
+      "SetID": "d4hjaom",
+      "Name": "Don\u0027t Panic",
+      "Percentage": 31,
+      "XP": 25
+    },
+    {
+      "ID": "Double Team",
+      "SetID": "d4hjaom",
+      "Name": "Double Team",
+      "Percentage": 6,
+      "XP": 5
+    },
+    {
+      "ID": "Elementary",
+      "SetID": "d4hjaom",
+      "Name": "Elementary",
+      "Percentage": 3,
+      "XP": 5
+    },
+    {
+      "ID": "Epic Jump Quest",
+      "SetID": "d4hjaom",
+      "Name": "Epic Jump Quest",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "Experimental Tech",
+      "SetID": "d4hjaom",
+      "Name": "Experimental Tech",
+      "Percentage": 0.3,
+      "XP": 15
+    },
+    {
+      "ID": "First of Many",
+      "SetID": "d4hjaom",
+      "Name": "First of Many",
+      "Percentage": 45,
+      "XP": 5
+    },
+    {
+      "ID": "Fist Meet Ground",
+      "SetID": "d4hjaom",
+      "Name": "Fist Meet Ground",
+      "Percentage": 0.3,
+      "XP": 5
+    },
+    {
+      "ID": "Fourth and Forty",
+      "SetID": "d4hjaom",
+      "Name": "Fourth and Forty",
+      "Percentage": 0.3,
+      "XP": 50
+    },
+    {
+      "ID": "Friend of the Raptors",
+      "SetID": "d4hjaom",
+      "Name": "Friend of the Raptors",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "Get that Kid to a Psychologist",
+      "SetID": "d4hjaom",
+      "Name": "Get that Kid to a Psychologist",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "Ghost in the Machine",
+      "SetID": "d4hjaom",
+      "Name": "Ghost in the Machine",
+      "Percentage": 20,
+      "XP": 20
+    },
+    {
+      "ID": "Half Way Home",
+      "SetID": "d4hjaom",
+      "Name": "Half Way Home",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "He\u0027s Still on the Naughty List",
+      "SetID": "d4hjaom",
+      "Name": "He\u0027s Still on the Naughty List",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "Health Inspector",
+      "SetID": "d4hjaom",
+      "Name": "Health Inspector",
+      "Percentage": 0.5,
+      "XP": 5
+    },
+    {
+      "ID": "Hello Little Friend",
+      "SetID": "d4hjaom",
+      "Name": "Hello Little Friend",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "Here! Catch!",
+      "SetID": "d4hjaom",
+      "Name": "Here! Catch!",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "How It Should Be",
+      "SetID": "d4hjaom",
+      "Name": "How It Should Be",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "I Am Become Death",
+      "SetID": "d4hjaom",
+      "Name": "I Am Become Death",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "Imperator",
+      "SetID": "d4hjaom",
+      "Name": "Imperator",
+      "Percentage": 6,
+      "XP": 35
+    },
+    {
+      "ID": "Indomitable",
+      "SetID": "d4hjaom",
+      "Name": "Indomitable",
+      "Percentage": 11,
+      "XP": 5
+    },
+    {
+      "ID": "Keymaster",
+      "SetID": "d4hjaom",
+      "Name": "Keymaster",
+      "Percentage": 6,
+      "XP": 20
+    },
+    {
+      "ID": "Machine Man",
+      "SetID": "d4hjaom",
+      "Name": "Machine Man",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "Make a List, Check it Twice",
+      "SetID": "d4hjaom",
+      "Name": "Make a List, Check it Twice",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "Maximum Stopping Power",
+      "SetID": "d4hjaom",
+      "Name": "Maximum Stopping Power",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "Minty Fresh!",
+      "SetID": "d4hjaom",
+      "Name": "Minty Fresh!",
+      "Percentage": 1,
+      "XP": 10
+    },
+    {
+      "ID": "OMGWTFBBQ",
+      "SetID": "d4hjaom",
+      "Name": "OMGWTFBBQ",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "On Her Saint\u0027s Secret Service",
+      "SetID": "d4hjaom",
+      "Name": "On Her Saint\u0027s Secret Service",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "Ooo A Piece of Candy!",
+      "SetID": "d4hjaom",
+      "Name": "Ooo A Piece of Candy!",
+      "Percentage": 25,
+      "XP": 5
+    },
+    {
+      "ID": "Our Gift to You",
+      "SetID": "d4hjaom",
+      "Name": "Our Gift to You",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Paranormal Bromance",
+      "SetID": "d4hjaom",
+      "Name": "Paranormal Bromance",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "Poodle Skirt",
+      "SetID": "d4hjaom",
+      "Name": "Poodle Skirt",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "Pounding the Pavement",
+      "SetID": "d4hjaom",
+      "Name": "Pounding the Pavement",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "Rigging the Race",
+      "SetID": "d4hjaom",
+      "Name": "Rigging the Race",
+      "Percentage": 0.7,
+      "XP": 5
+    },
+    {
+      "ID": "Saints \u0026 Sensibility",
+      "SetID": "d4hjaom",
+      "Name": "Saints \u0026 Sensibility",
+      "Percentage": 3,
+      "XP": 20
+    },
+    {
+      "ID": "Super Power Team Up!",
+      "SetID": "d4hjaom",
+      "Name": "Super Power Team Up!",
+      "Percentage": 0.1,
+      "XP": 100
+    },
+    {
+      "ID": "Switch Hitter",
+      "SetID": "d4hjaom",
+      "Name": "Switch Hitter",
+      "Percentage": 1,
+      "XP": 5
+    },
+    {
+      "ID": "The Challenge King",
+      "SetID": "d4hjaom",
+      "Name": "The Challenge King",
+      "Percentage": 0.3,
+      "XP": 30
+    },
+    {
+      "ID": "The Face of the Saints",
+      "SetID": "d4hjaom",
+      "Name": "The Face of the Saints",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "The Full Kinzie",
+      "SetID": "d4hjaom",
+      "Name": "The Full Kinzie",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "The Twin Saints",
+      "SetID": "d4hjaom",
+      "Name": "The Twin Saints",
+      "Percentage": 2,
+      "XP": 5
+    },
+    {
+      "ID": "The Two Shaundis",
+      "SetID": "d4hjaom",
+      "Name": "The Two Shaundis",
+      "Percentage": 4,
+      "XP": 20
+    },
+    {
+      "ID": "The Whole Story",
+      "SetID": "d4hjaom",
+      "Name": "The Whole Story",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "There Is No Pancakes",
+      "SetID": "d4hjaom",
+      "Name": "There Is No Pancakes",
+      "Percentage": 57,
+      "XP": 5
+    },
+    {
+      "ID": "Ultimate Hot Potato",
+      "SetID": "d4hjaom",
+      "Name": "Ultimate Hot Potato",
+      "Percentage": 0.1,
+      "XP": 5
+    },
+    {
+      "ID": "Walking the Dinorsaur",
+      "SetID": "d4hjaom",
+      "Name": "Walking the Dinosaur",
+      "Percentage": 0.4,
+      "XP": 5
+    },
+    {
+      "ID": "Where\u0027s My Cape?",
+      "SetID": "d4hjaom",
+      "Name": "Where\u0027s My Cape?",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "Woah.",
+      "SetID": "d4hjaom",
+      "Name": "Woah.",
+      "Percentage": 40,
+      "XP": 15
+    },
+    {
+      "ID": "You Chose... Poorly",
+      "SetID": "d4hjaom",
+      "Name": "You Chose... Poorly",
+      "Percentage": 7,
+      "XP": 5
+    },
+    {
+      "ID": "Zero Saints Thirty",
+      "SetID": "d4hjaom",
+      "Name": "Zero Saints Thirty",
+      "Percentage": 67,
+      "XP": 5
+    },
+    {
+      "ID": "Zoo Keeper",
+      "SetID": "d4hjaom",
+      "Name": "Zoo Keeper",
+      "Percentage": 1,
+      "XP": 5
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1084,6 +1590,11 @@
       "Time": "2023-05-04T19:03:53.0143112+00:00",
       "NumProgressed": 149317,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-04T19:18:45.7127238+00:00",
+      "NumProgressed": 149328,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -1266,17 +1777,27 @@
       "NumberOfAwardsMax": 394
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 72,
+  "LastChanged_Achievements": "2023-05-04T19:18:45.7127231+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7531,
+  "EOS_NewPlayers": 7542,
   "EOS_Completed": 6,
-  "EOS_Progressed": 149317,
-  "LastUpdate_Achievements": "2023-05-04T19:03:53.0143179+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:13.3157302+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:53.0143108+00:00",
+  "EOS_Progressed": 149328,
+  "LastUpdate_Achievements": "2023-05-04T19:18:45.7128011+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:11.8681846+00:00",
+  "AchievementSets": [
+    {
+      "ID": "d4hjaom",
+      "IsBase": true,
+      "Progressed": 149328,
+      "Completed": 6
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T11:58:23.633433+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
+  "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 394,
   "NumberOfAwards": 394,
@@ -1288,5 +1809,5 @@
   "Ranking_Popularity": 199,
   "Ranking_Rating": 663,
   "Rating": 4.4,
-  "FirstSeen": "2022-12-08T19:57:27.2562206+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00"
 }

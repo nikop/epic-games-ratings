@@ -1,6 +1,253 @@
 {
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
+  "Achievements": [
+    {
+      "ID": "ACH_BANGED",
+      "SetID": "1hf0o5j",
+      "Name": "Banged",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_BLINDFIRE",
+      "SetID": "1hf0o5j",
+      "Name": "Blindfire",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_CARRYING",
+      "SetID": "1hf0o5j",
+      "Name": "Carrying",
+      "Percentage": 0.9,
+      "XP": 70
+    },
+    {
+      "ID": "ACH_CHECKPOINT_VICTORY",
+      "SetID": "1hf0o5j",
+      "Name": "Checkpoint Victory",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_CINEMATIC",
+      "SetID": "1hf0o5j",
+      "Name": "Cinematic",
+      "Percentage": 0.5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_DESIGNATED_DRIVER",
+      "SetID": "1hf0o5j",
+      "Name": "Designated Driver",
+      "Percentage": 0.1,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_EFFICIENT",
+      "SetID": "1hf0o5j",
+      "Name": "Efficient",
+      "Percentage": 1,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_EXPLOITATIVE",
+      "SetID": "1hf0o5j",
+      "Name": "Exploitative",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FIREFIGHT_VICTORY",
+      "SetID": "1hf0o5j",
+      "Name": "Firefight Victory",
+      "Percentage": 0.6,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_FIRST_BLOOD",
+      "SetID": "1hf0o5j",
+      "Name": "First Blood",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_FLACCID_PARALYSIS",
+      "SetID": "1hf0o5j",
+      "Name": "Flaccid Paralysis",
+      "Percentage": 2,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_GROUNDED",
+      "SetID": "1hf0o5j",
+      "Name": "Grounded",
+      "Percentage": 0.8,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_HIT_RUN",
+      "SetID": "1hf0o5j",
+      "Name": "Hit and Run",
+      "Percentage": 0.2,
+      "XP": 10
+    },
+    {
+      "ID": "ACH_HSLD",
+      "SetID": "1hf0o5j",
+      "Name": "High Speed Low Drag",
+      "Percentage": 4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_JR_50",
+      "SetID": "1hf0o5j",
+      "Name": "J.R. .50",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_KNOCK_KNOCK",
+      "SetID": "1hf0o5j",
+      "Name": "Knock Knock",
+      "Percentage": 0.3,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_LUCKY",
+      "SetID": "1hf0o5j",
+      "Name": "Lucky",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_MOUNT_AND_GUN",
+      "SetID": "1hf0o5j",
+      "Name": "Mount \u0026 Gun",
+      "Percentage": 0.9,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_NUMBAH_ONE",
+      "SetID": "1hf0o5j",
+      "Name": "#1",
+      "Percentage": 0.7,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_PERSONAL",
+      "SetID": "1hf0o5j",
+      "Name": "Personal",
+      "Percentage": 0.9,
+      "XP": 35
+    },
+    {
+      "ID": "ACH_PLAY_TO_WIN",
+      "SetID": "1hf0o5j",
+      "Name": "Play to Win",
+      "Percentage": 0.8,
+      "XP": 80
+    },
+    {
+      "ID": "ACH_POINT_SHOOTING",
+      "SetID": "1hf0o5j",
+      "Name": "Point Shooting",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_PUSH_VICTORY",
+      "SetID": "1hf0o5j",
+      "Name": "Push Victory",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_REFLEXES",
+      "SetID": "1hf0o5j",
+      "Name": "It\u0027s All in the Reflexes",
+      "Percentage": 0.1,
+      "XP": 60
+    },
+    {
+      "ID": "ACH_ROAD_HAZARD",
+      "SetID": "1hf0o5j",
+      "Name": "Road Hazard",
+      "Percentage": 0.1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_RUTHLESS",
+      "SetID": "1hf0o5j",
+      "Name": "Ruthless",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SELF_DESTRUCTIVE",
+      "SetID": "1hf0o5j",
+      "Name": "Self-destructive",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_SEMPER_PARATUS",
+      "SetID": "1hf0o5j",
+      "Name": "Semper Paratus",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_SPECIAL_DELIVERY",
+      "SetID": "1hf0o5j",
+      "Name": "Special Delivery",
+      "Percentage": 0.7,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_STYLING",
+      "SetID": "1hf0o5j",
+      "Name": "Stylin\u0027",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_THANKS_STATION",
+      "SetID": "1hf0o5j",
+      "Name": "Thanks Station!",
+      "Percentage": 0.4,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_THERE_FOR_YOU",
+      "SetID": "1hf0o5j",
+      "Name": "There For You",
+      "Percentage": 0.2,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_TURF_WAR",
+      "SetID": "1hf0o5j",
+      "Name": "Turf War",
+      "Percentage": 3,
+      "XP": 30
+    },
+    {
+      "ID": "ACH_WALLBANGER",
+      "SetID": "1hf0o5j",
+      "Name": "Wallbanger",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "ACH_WET_FEET",
+      "SetID": "1hf0o5j",
+      "Name": "Wet Feet",
+      "Percentage": 4,
+      "XP": 15
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1128,6 +1375,11 @@
     {
       "Time": "2023-05-04T19:00:08.4408535+00:00",
       "NumProgressed": 361700,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T19:15:07.0267575+00:00",
+      "NumProgressed": 361707,
       "NumCompleted": 2
     }
   ],
@@ -2849,16 +3101,26 @@
       "NumberOfAwardsMax": 349
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 35,
+  "LastChanged_Achievements": "2023-05-04T19:15:07.0267559+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3893,
+  "EOS_NewPlayers": 3900,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361700,
-  "LastUpdate_Achievements": "2023-05-04T19:00:08.4408794+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:30.9489143+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:08.4408525+00:00",
+  "EOS_Progressed": 361707,
+  "LastUpdate_Achievements": "2023-05-04T19:15:07.0267915+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:29.9416449+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1hf0o5j",
+      "IsBase": true,
+      "Progressed": 361707,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T14:57:53.2578409+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
+  "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 349,
   "NumberOfAwards": 2605,
@@ -2871,5 +3133,5 @@
   "Ranking_Popularity": 209,
   "Ranking_Rating": 353,
   "Rating": 4.61,
-  "FirstSeen": "2022-07-22T20:18:15.5604867+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00"
 }

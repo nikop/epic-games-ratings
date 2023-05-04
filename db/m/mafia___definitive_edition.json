@@ -1,6 +1,7 @@
 {
   "ID": "ee8802651a004c48999169fa32eb4903",
   "Name": "Mafia : Definitive Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -812,14 +813,18 @@
       "NumberOfAwardsMax": 581
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:03:48.6381576+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:18.3119883+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:17.170139+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T22:58:10.9617849+00:00",
+  "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 581,
   "NumberOfAwards": 696,
@@ -831,6 +836,5 @@
   "Ranking_PopularitySum": 261,
   "Ranking_Popularity": 167,
   "Ranking_Rating": 337,
-  "Rating": 4.62,
-  "FirstSeen": "2022-07-22T20:22:45.942623+00:00"
+  "Rating": 4.62
 }

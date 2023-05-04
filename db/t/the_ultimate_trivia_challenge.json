@@ -1,6 +1,7 @@
 {
   "ID": "9ace0bae889f45cc97fd30dac8e9321f",
   "Name": "The Ultimate Trivia Challenge",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:25.648574+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:20.417713+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:18.8658856+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-25T13:04:39.1914862+00:00",
   "FirstSeenRating": "2023-04-25T13:04:39.1914861+00:00",
+  "FirstSeen": "2023-04-25T13:04:39.1914822+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2023-04-25T13:04:39.1914822+00:00"
+  "Ranking_EOS_Progress": 378
 }

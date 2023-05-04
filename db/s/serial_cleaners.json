@@ -1,6 +1,176 @@
 {
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
+  "Achievements": [
+    {
+      "ID": "ALL_MAIN_MISSIONS",
+      "SetID": "2lk004m",
+      "Name": "All the Stories",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "ALL_MEMORIES",
+      "SetID": "2lk004m",
+      "Name": "Total Recall",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "BOB_SLIDE",
+      "SetID": "2lk004m",
+      "Name": "Blood Capade",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "CHAPTER1_COMPLETE",
+      "SetID": "2lk004m",
+      "Name": "Off to a Good Start",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "CHAPTER2_COMPLETE",
+      "SetID": "2lk004m",
+      "Name": "Pride and Joy",
+      "Percentage": 0.6,
+      "XP": 75
+    },
+    {
+      "ID": "CHAPTER3_COMPLETE",
+      "SetID": "2lk004m",
+      "Name": "Eyes Yet To Open",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "CHAPTER4_COMPLETE",
+      "SetID": "2lk004m",
+      "Name": "Something Rotten",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "CHAPTER5_COMPLETE",
+      "SetID": "2lk004m",
+      "Name": "Witness Protection",
+      "Percentage": 0,
+      "XP": 75
+    },
+    {
+      "ID": "COLLECT_20_EVIDENCE",
+      "SetID": "2lk004m",
+      "Name": "Small-time Finder",
+      "Percentage": 0.6,
+      "XP": 50
+    },
+    {
+      "ID": "DIE_1_TIME",
+      "SetID": "2lk004m",
+      "Name": "So it goes",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "DISPOSE_15_BODIES",
+      "SetID": "2lk004m",
+      "Name": "Business as usual",
+      "Percentage": 0.6,
+      "XP": 50
+    },
+    {
+      "ID": "DLC01_ACHIEVEMENT01",
+      "SetID": "5jieak",
+      "Name": "Crazy SOB, You Did It",
+      "Percentage": 0,
+      "XP": 125
+    },
+    {
+      "ID": "DLC01_ACHIEVEMENT02",
+      "SetID": "5jieak",
+      "Name": "Do-you-think-he-saurus",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "DLC01_ACHIEVEMENT03",
+      "SetID": "5jieak",
+      "Name": "Cha Cha Real Smooth",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "DLC01_ACHIEVEMENT04",
+      "SetID": "5jieak",
+      "Name": "That\u2019s One Big Pile",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "DLC01_ACHIEVEMENT05",
+      "SetID": "5jieak",
+      "Name": "The Crush And Smash The Dino Four",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "DLC01_ACHIEVEMENT06",
+      "SetID": "5jieak",
+      "Name": "\u2026 Women Inherit The Earth",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "LATI_SPRAY",
+      "SetID": "2lk004m",
+      "Name": "Bee Squat",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "NODEATH_MISSION_CLEAR",
+      "SetID": "2lk004m",
+      "Name": "A New Broom Sweeps Clean",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "PERFECT_CLEANED_EVERY_MAP",
+      "SetID": "2lk004m",
+      "Name": "The Germophobes",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "PERFECT_CLEANED_ONE_MAP",
+      "SetID": "2lk004m",
+      "Name": "Mr. Hygeni",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "PSYCHO_DISMEMBER",
+      "SetID": "2lk004m",
+      "Name": "The Wing and the Thigh",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "TUTORIAL_COMPLETE",
+      "SetID": "2lk004m",
+      "Name": "Clean Conscience",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "VIPER_HACKING",
+      "SetID": "2lk004m",
+      "Name": "Hackathon",
+      "Percentage": 0,
+      "XP": 35
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -27,22 +197,38 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 3.23,
+  "TotalAchievementsXP": 1300,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:19:10.852289+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 5,
   "EOS_Progressed": 155,
-  "LastUpdate_Achievements": "2023-05-04T19:04:19.73536+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:44.2560731+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:19.7353572+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:10.8523079+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:41.9648673+00:00",
+  "AchievementSets": [
+    {
+      "ID": "5jieak",
+      "IsBase": false,
+      "Progressed": 18,
+      "Completed": 15
+    },
+    {
+      "ID": "2lk004m",
+      "IsBase": true,
+      "Progressed": 155,
+      "Completed": 5
+    }
+  ],
+  "EOS_Completed_Percentage": 3.23,
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
+  "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_Progress": 229,
-  "FirstSeen": "2022-09-24T13:06:20.5748875+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00"
 }

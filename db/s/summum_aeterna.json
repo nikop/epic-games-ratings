@@ -1,6 +1,7 @@
 {
   "ID": "4b52b9409a1743da8c00e3a22c48b40b",
   "Name": "Summum Aeterna",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:00:07.6496268+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:40.7283602+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:39.6637017+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:21.4341369+00:00",
   "FirstSeenRating": "2023-03-31T05:58:21.4341368+00:00",
+  "FirstSeen": "2022-08-24T14:03:09.1614689+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-08-24T14:03:09.1614689+00:00"
+  "Ranking_EOS_Progress": 378
 }

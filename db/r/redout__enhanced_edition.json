@@ -1,6 +1,246 @@
 {
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
+  "Achievements": [
+    {
+      "ID": "ACE",
+      "SetID": "11popfh",
+      "Name": "ACE",
+      "Percentage": 0.7,
+      "XP": 40
+    },
+    {
+      "ID": "BETTERTHANEVER",
+      "SetID": "11popfh",
+      "Name": "BETTER THAN EVER",
+      "Percentage": 0.2,
+      "XP": 50
+    },
+    {
+      "ID": "CALLINGHOUSTON",
+      "SetID": "11popfh",
+      "Name": "CALLING HOUSTON",
+      "Percentage": 28,
+      "XP": 10
+    },
+    {
+      "ID": "CENTAUR",
+      "SetID": "11popfh",
+      "Name": "CENTAUR",
+      "Percentage": 7,
+      "XP": 10
+    },
+    {
+      "ID": "CHALLENGER",
+      "SetID": "11popfh",
+      "Name": "CHALLENGER",
+      "Percentage": 11,
+      "XP": 20
+    },
+    {
+      "ID": "CHALLENGETHEWORLD",
+      "SetID": "11popfh",
+      "Name": "CHALLENGE THE WORLD",
+      "Percentage": 7,
+      "XP": 30
+    },
+    {
+      "ID": "DRAGOON",
+      "SetID": "11popfh",
+      "Name": "DRAGOON",
+      "Percentage": 0.4,
+      "XP": 40
+    },
+    {
+      "ID": "ENLIGHTENED",
+      "SetID": "11popfh",
+      "Name": "ENLIGHTENED",
+      "Percentage": 0.1,
+      "XP": 50
+    },
+    {
+      "ID": "FASTERTHANEVER",
+      "SetID": "11popfh",
+      "Name": "FASTER THAN EVER",
+      "Percentage": 8,
+      "XP": 40
+    },
+    {
+      "ID": "FLAWLESS",
+      "SetID": "11popfh",
+      "Name": "FLAWLESS",
+      "Percentage": 0.4,
+      "XP": 20
+    },
+    {
+      "ID": "GILA",
+      "SetID": "11popfh",
+      "Name": "GILA",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "GT9STRADALE",
+      "SetID": "11popfh",
+      "Name": "GT9STRADALE",
+      "Percentage": 20,
+      "XP": 10
+    },
+    {
+      "ID": "GTXCOMPETIZIONE",
+      "SetID": "11popfh",
+      "Name": "GTX COMPETIZIONE",
+      "Percentage": 0.5,
+      "XP": 40
+    },
+    {
+      "ID": "HARDCORE",
+      "SetID": "11popfh",
+      "Name": "HARDCORE",
+      "Percentage": 1,
+      "XP": 30
+    },
+    {
+      "ID": "HIDDENPOWER",
+      "SetID": "11popfh",
+      "Name": "HIDDEN POWER",
+      "Percentage": 0.5,
+      "XP": 40
+    },
+    {
+      "ID": "IINI",
+      "SetID": "11popfh",
+      "Name": "IINI",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "MARID",
+      "SetID": "11popfh",
+      "Name": "MARID",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "NATURALBORNWINNER",
+      "SetID": "11popfh",
+      "Name": "NATURAL BORN WINNER",
+      "Percentage": 32,
+      "XP": 30
+    },
+    {
+      "ID": "NOBUNAGA",
+      "SetID": "11popfh",
+      "Name": "NOBUNAGA",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "ODIN",
+      "SetID": "11popfh",
+      "Name": "ODIN",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "ONAROLL",
+      "SetID": "11popfh",
+      "Name": "ON A ROLL",
+      "Percentage": 9,
+      "XP": 30
+    },
+    {
+      "ID": "PHOTOFINISH",
+      "SetID": "11popfh",
+      "Name": "PHOTOFINISH",
+      "Percentage": 7,
+      "XP": 20
+    },
+    {
+      "ID": "PILEUPTROPHIES",
+      "SetID": "11popfh",
+      "Name": "PILE UP TROPHIES",
+      "Percentage": 0.2,
+      "XP": 40
+    },
+    {
+      "ID": "PRO",
+      "SetID": "11popfh",
+      "Name": "PRO",
+      "Percentage": 2,
+      "XP": 30
+    },
+    {
+      "ID": "QAREEN",
+      "SetID": "11popfh",
+      "Name": "QAREEN",
+      "Percentage": 5,
+      "XP": 10
+    },
+    {
+      "ID": "RESPWND",
+      "SetID": "11popfh",
+      "Name": "RESPWND",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "SHINYSHINYGOLD",
+      "SetID": "11popfh",
+      "Name": "SHINY SHINY GOLD",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "SHOWOFF",
+      "SetID": "11popfh",
+      "Name": "SHOWOFF",
+      "Percentage": 4,
+      "XP": 50
+    },
+    {
+      "ID": "SNEAKYSNEAKY",
+      "SetID": "11popfh",
+      "Name": "SNEAKY SNEAKY",
+      "Percentage": 21,
+      "XP": 10
+    },
+    {
+      "ID": "TACTICIAN",
+      "SetID": "11popfh",
+      "Name": "TACTICIAN",
+      "Percentage": 0.6,
+      "XP": 40
+    },
+    {
+      "ID": "TAKATORA",
+      "SetID": "11popfh",
+      "Name": "TAKATORA",
+      "Percentage": 4,
+      "XP": 10
+    },
+    {
+      "ID": "TRICKUPYOURSLEEVE",
+      "SetID": "11popfh",
+      "Name": "TRICK UP YOUR SLEEVE",
+      "Percentage": 22,
+      "XP": 10
+    },
+    {
+      "ID": "TUNINGMANIAC",
+      "SetID": "11popfh",
+      "Name": "TUNING MANIAC",
+      "Percentage": 0.5,
+      "XP": 50
+    },
+    {
+      "ID": "VANGUARD",
+      "SetID": "11popfh",
+      "Name": "VANGUARD",
+      "Percentage": 41,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -952,6 +1192,11 @@
       "Time": "2023-05-04T19:00:28.1037758+00:00",
       "NumProgressed": 220858,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-04T19:15:26.1256742+00:00",
+      "NumProgressed": 220861,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -1259,16 +1504,26 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.02,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 34,
+  "LastChanged_Achievements": "2023-05-04T19:15:26.1256738+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 642,
   "EOS_Completed": 41,
-  "EOS_Progressed": 220858,
-  "LastUpdate_Achievements": "2023-05-04T19:00:28.1037829+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:53.3204755+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:00:28.1037753+00:00",
+  "EOS_Progressed": 220861,
+  "LastUpdate_Achievements": "2023-05-04T19:15:26.1257059+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:51.6323565+00:00",
+  "AchievementSets": [
+    {
+      "ID": "11popfh",
+      "IsBase": true,
+      "Progressed": 220861,
+      "Completed": 41
+    }
+  ],
+  "EOS_Completed_Percentage": 0.02,
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
+  "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 274,
@@ -1280,5 +1535,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 513,
   "Rating": 4.51,
-  "FirstSeen": "2022-07-22T20:20:34.1583383+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00"
 }

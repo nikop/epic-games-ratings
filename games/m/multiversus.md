@@ -4,9 +4,40 @@ Number of Ratings: 55,748  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,736  (Ranked 64)  
 Sum: 45,650 (Ranked 25)  
-Diff (max vs sum): 39
+Diff (max vs sum): 39  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Matchmaker | 74.00 |
+| Bun-Puncher Supreme | 68.00 |
+| You Mean Business | 68.00 |
+| You're Getting Pretty Good At This! | 68.00 |
+| Aerial Specialist | 63.00 |
+| Proving Yourself | 63.00 |
+| Stepping Out | 63.00 |
+| The Throne Is Yours | 63.00 |
+| Spike Specialist | 54.00 |
+| Southpaw Specialist | 54.00 |
+| Rightie Specialist | 54.00 |
+| Signature Slammer | 43.00 |
+| Distanced Damage Dealer | 42.00 |
+| Watch Your Head | 42.00 |
+| Catch This | 42.00 |
+| Toast Master | 41.00 |
+| Nice Speech | 41.00 |
+| Credit Where It's Due | 41.00 |
+| Life of the Party | 36.00 |
+| Social Butterfly | 36.00 |
+| Party Animal | 36.00 |
+| And Your Little Dog, Too! | 33.00 |
+| Bring A Friend | 33.00 |
+| Ringouts Are Better In Pairs | 33.00 |
+| Ground Floor: Ringouts | 29.00 |
+| Watch Your Step | 29.00 |
+| Going Down? | 29.00 |
+| Run It Back | 6.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,920 (Ranked 9)  
+Progressed: 1,067,925 (Ranked 9)  
 Completed: 31,618 (2.96%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +51,7 @@ Completed: 31,618 (2.96%) (Ranked 42)
 | 2023-05-01 | 1,067,360 | 31,615 |
 | 2023-05-02 | 1,067,597 | 31,615 |
 | 2023-05-03 | 1,067,773 | 31,617 |
-| 2023-05-04 | 1,067,920 | 31,618 |
+| 2023-05-04 | 1,067,925 | 31,618 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

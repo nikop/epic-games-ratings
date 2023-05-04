@@ -1,20 +1,31 @@
 {
   "ID": "f4962a68cb2a46e295f690e592655ec0",
   "Name": null,
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:20:11.9182897+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:05:20.9594854+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:46.8336948+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:20.9594835+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:53:42.9835664+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:11.9182926+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:43.3702333+00:00",
+  "AchievementSets": [
+    {
+      "ID": "7ig1idc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378
+  "Ranking_EOS_Progress": 378,
+  "FirstSeenAchievements": "2023-04-25T20:53:42.9835664+00:00"
 }

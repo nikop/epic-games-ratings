@@ -1,6 +1,253 @@
 {
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
+  "Achievements": [
+    {
+      "ID": "ACH01",
+      "SetID": "4ck5mbe",
+      "Name": "Getting Started",
+      "Percentage": 80,
+      "XP": 10
+    },
+    {
+      "ID": "ACH02",
+      "SetID": "4ck5mbe",
+      "Name": "With Extra Dip",
+      "Percentage": 5,
+      "XP": 5
+    },
+    {
+      "ID": "ACH03",
+      "SetID": "4ck5mbe",
+      "Name": "The End of the Line",
+      "Percentage": 5,
+      "XP": 25
+    },
+    {
+      "ID": "ACH04",
+      "SetID": "4ck5mbe",
+      "Name": "Hoopin\u0027 it Up",
+      "Percentage": 0.6,
+      "XP": 15
+    },
+    {
+      "ID": "ACH05",
+      "SetID": "4ck5mbe",
+      "Name": "A Legitimate Business",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "ACH06",
+      "SetID": "4ck5mbe",
+      "Name": "I\u2019ll Have Two Number 9s",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "ACH07",
+      "SetID": "4ck5mbe",
+      "Name": "The American Dream",
+      "Percentage": 16,
+      "XP": 15
+    },
+    {
+      "ID": "ACH08",
+      "SetID": "4ck5mbe",
+      "Name": "Pay \u0027n\u0027 Spray",
+      "Percentage": 47,
+      "XP": 15
+    },
+    {
+      "ID": "ACH09",
+      "SetID": "4ck5mbe",
+      "Name": "Bike or Biker",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "ACH10",
+      "SetID": "4ck5mbe",
+      "Name": "Who Needs Directions?",
+      "Percentage": 1,
+      "XP": 40
+    },
+    {
+      "ID": "ACH11",
+      "SetID": "4ck5mbe",
+      "Name": "Liberty City State of Mind",
+      "Percentage": 7,
+      "XP": 25
+    },
+    {
+      "ID": "ACH12",
+      "SetID": "4ck5mbe",
+      "Name": "Swiss Army Strife",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH13",
+      "SetID": "4ck5mbe",
+      "Name": "School\u0027s Out",
+      "Percentage": 15,
+      "XP": 40
+    },
+    {
+      "ID": "ACH14",
+      "SetID": "4ck5mbe",
+      "Name": "Horror of the Santa Maria",
+      "Percentage": 9,
+      "XP": 5
+    },
+    {
+      "ID": "ACH15",
+      "SetID": "4ck5mbe",
+      "Name": "They Can\u2019t Stop All of Us",
+      "Percentage": 3,
+      "XP": 40
+    },
+    {
+      "ID": "ACH16",
+      "SetID": "4ck5mbe",
+      "Name": "Smooth Moves",
+      "Percentage": 15,
+      "XP": 10
+    },
+    {
+      "ID": "ACH17",
+      "SetID": "4ck5mbe",
+      "Name": "What the City Needs",
+      "Percentage": 2,
+      "XP": 40
+    },
+    {
+      "ID": "ACH18",
+      "SetID": "4ck5mbe",
+      "Name": "Saviour",
+      "Percentage": 4,
+      "XP": 45
+    },
+    {
+      "ID": "ACH19",
+      "SetID": "4ck5mbe",
+      "Name": "Rescue a Kitten Too?",
+      "Percentage": 4,
+      "XP": 40
+    },
+    {
+      "ID": "ACH20",
+      "SetID": "4ck5mbe",
+      "Name": "Yes I Speak English",
+      "Percentage": 2,
+      "XP": 45
+    },
+    {
+      "ID": "ACH21",
+      "SetID": "4ck5mbe",
+      "Name": "Lucky Spinner",
+      "Percentage": 0.8,
+      "XP": 10
+    },
+    {
+      "ID": "ACH22",
+      "SetID": "4ck5mbe",
+      "Name": "What happens in Las Venturas...",
+      "Percentage": 12,
+      "XP": 25
+    },
+    {
+      "ID": "ACH23",
+      "SetID": "4ck5mbe",
+      "Name": "All Dressed Up for San Fierro",
+      "Percentage": 22,
+      "XP": 25
+    },
+    {
+      "ID": "ACH24",
+      "SetID": "4ck5mbe",
+      "Name": "Not a Player",
+      "Percentage": 0.5,
+      "XP": 25
+    },
+    {
+      "ID": "ACH25",
+      "SetID": "4ck5mbe",
+      "Name": "What are the Odds",
+      "Percentage": 3,
+      "XP": 10
+    },
+    {
+      "ID": "ACH26",
+      "SetID": "4ck5mbe",
+      "Name": "Double or Nothin\u0027",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "ACH27",
+      "SetID": "4ck5mbe",
+      "Name": "Assassin",
+      "Percentage": 1,
+      "XP": 25
+    },
+    {
+      "ID": "ACH28",
+      "SetID": "4ck5mbe",
+      "Name": "Original Gangster",
+      "Percentage": 6,
+      "XP": 35
+    },
+    {
+      "ID": "ACH29",
+      "SetID": "4ck5mbe",
+      "Name": "Today Was a Good Day",
+      "Percentage": 13,
+      "XP": 45
+    },
+    {
+      "ID": "ACH30",
+      "SetID": "4ck5mbe",
+      "Name": "Public Enemy No. 1",
+      "Percentage": 1,
+      "XP": 25
+    },
+    {
+      "ID": "ACH31",
+      "SetID": "4ck5mbe",
+      "Name": "Chick Magnet",
+      "Percentage": 0.9,
+      "XP": 25
+    },
+    {
+      "ID": "ACH32",
+      "SetID": "4ck5mbe",
+      "Name": "Ain\u2019t Nothing But a G Thing",
+      "Percentage": 1,
+      "XP": 50
+    },
+    {
+      "ID": "ACH33",
+      "SetID": "4ck5mbe",
+      "Name": "Remastered",
+      "Percentage": 0.4,
+      "XP": 50
+    },
+    {
+      "ID": "ACH34",
+      "SetID": "4ck5mbe",
+      "Name": "...Here we go again",
+      "Percentage": 0.2,
+      "XP": 25
+    },
+    {
+      "ID": "ACH35",
+      "SetID": "4ck5mbe",
+      "Name": "I Ain\u0027t No Buster",
+      "Percentage": 0.2,
+      "XP": 50
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -856,17 +1103,27 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0.19,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 35,
+  "LastChanged_Achievements": "2023-05-04T19:20:05.487547+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 125,
   "EOS_Completed": 14,
   "EOS_Progressed": 7475,
-  "LastUpdate_Achievements": "2023-05-04T19:05:14.7627511+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:36.783755+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:05:14.762746+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:20:05.4875781+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:33.138992+00:00",
+  "AchievementSets": [
+    {
+      "ID": "4ck5mbe",
+      "IsBase": true,
+      "Progressed": 7475,
+      "Completed": 14
+    }
+  ],
+  "EOS_Completed_Percentage": 0.19,
   "LastChanged": "2023-04-28T17:01:34.9203237+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
+  "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 48,
@@ -877,5 +1134,5 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 395,
   "Rating": 4.59,
-  "FirstSeen": "2023-02-16T02:13:57.9819704+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00"
 }

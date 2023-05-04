@@ -1,9 +1,22 @@
 # Hello Neighbor 2
 Rating: 4.40 (Ranked 663)  
-## Popularity (Based on Awards)
-Max (): 0  (Ranked 490)  
-Sum: 0 (Ranked 490)  
-Diff (max vs sum): 0
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Welcome to Raven Brooks | 74.00 |
+| Shovel Night | 36.00 |
+| Case Closed | 35.00 |
+| Easy As Pie | 32.00 |
+| Family Lost | 31.00 |
+| Treasure Hunt | 30.00 |
+| Ancient Curse | 27.00 |
+| Cat Person | 25.00 |
+| Reunion | 24.00 |
+| Climber | 23.00 |
+| Hidden Secrets | 23.00 |
+| Mad Scientist | 23.00 |
+| Imprisonment | 22.00 |
+| Dog Person | 19.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,293 (Ranked 138)  
 Completed: 89 (3.88%) (Ranked 32)  
@@ -20,9 +33,6 @@ Completed: 89 (3.88%) (Ranked 32)
 | 2023-05-02 | 2,288 | 89 |
 | 2023-05-03 | 2,289 | 89 |
 | 2023-05-04 | 2,293 | 89 |
-## Awards
-| Award | Count |
-| ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

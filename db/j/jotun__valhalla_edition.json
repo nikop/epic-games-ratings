@@ -1,6 +1,7 @@
 {
   "ID": "ba3149b6d7a7488ab5cc674154458757",
   "Name": "Jotun: Valhalla Edition",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -456,14 +457,18 @@
       "NumberOfAwardsMax": 94
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:11.2160022+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:21.8012276+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:20.986897+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-02T18:57:42.2604241+00:00",
+  "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 94,
   "NumberOfAwards": 94,
@@ -475,6 +480,5 @@
   "Ranking_PopularitySum": 398,
   "Ranking_Popularity": 329,
   "Ranking_Rating": 651,
-  "Rating": 4.41,
-  "FirstSeen": "2022-07-22T20:29:06.202912+00:00"
+  "Rating": 4.41
 }

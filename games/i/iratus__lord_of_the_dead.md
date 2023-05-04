@@ -4,9 +4,87 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,131  (Ranked 101)  
 Sum: 4,128 (Ranked 130)  
-Diff (max vs sum): -29
+Diff (max vs sum): -29  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| Improvement | 85.00 |
+| Blood Moon | 73.00 |
+| Path of the Necromancer | 65.00 |
+| Chainbreaker - I | 60.00 |
+| Cursed Creature | 57.00 |
+| Extraction | 57.00 |
+| Chainbreaker - II | 54.00 |
+| Necromancer's Apprentice | 51.00 |
+| Keeper of Keys | 47.00 |
+| Distillation | 43.00 |
+| Mountain King - I | 42.00 |
+| Transmutation | 42.00 |
+| Prepared Necromancer | 40.00 |
+| Mountain King - II | 39.00 |
+| Blind Rage | 38.00 |
+| Mad Genius | 35.00 |
+| Cannon Fodder - I | 34.00 |
+| Soul of Lies | 34.00 |
+| Bane of Mercenaries - I | 33.00 |
+| Bane of Mercenaries - II | 31.00 |
+| Cannon Fodder - II | 29.00 |
+| Shadow Between Worlds | 29.00 |
+| Bane of Monsters | 28.00 |
+| Chainbreaker - III | 27.00 |
+| Revealed Secrets - I | 26.00 |
+| Revealed Secrets - II | 25.00 |
+| Blood Elemental | 24.00 |
+| Unholy Bones | 23.00 |
+| Lord of Fire | 23.00 |
+| Cannon Fodder - III | 22.00 |
+| Spiritual Attraction | 22.00 |
+| Uncommon Warrior | 22.00 |
+| Nightmare of the Humanity - I | 22.00 |
+| Nightmare of the Humanity - II | 21.00 |
+| That Was Easy! | 20.00 |
+| Silent Waters | 20.00 |
+| Calcination | 20.00 |
+| Head of Order | 20.00 |
+| Blood Mage | 17.00 |
+| Wild Hunger | 16.00 |
+| Rage Concentrated | 16.00 |
+| Mountain King - III | 15.00 |
+| Rare Warrior | 15.00 |
+| Blood Madness | 13.00 |
+| First Sacrifice | 13.00 |
+| Grand Arena | 13.00 |
+| Master of Alchemy | 13.00 |
+| Legendary Warrior | 12.00 |
+| Bane of Mercenaries - III | 10.00 |
+| Ancient Burial | 10.00 |
+| More Mortal Suffering! | 9.00 |
+| Monument to Greatness | 9.00 |
+| Forbidden Knowledge | 9.00 |
+| Live Operation | 9.00 |
+| Master of Rage | 8.00 |
+| Icy Incursion | 8.00 |
+| Arachnophobia | 8.00 |
+| Revealed Secrets - III | 8.00 |
+| Nightmare of the Humanity - III | 7.00 |
+| Means of Recovery | 6.00 |
+| Master of Magic | 6.00 |
+| Master of Destruction | 4.00 |
+| Dungeon Queen | 3.00 |
+| Mek Brothers | 3.00 |
+| The Hunter Becomes... | 3.00 |
+| Evil Always Wins! | 2.00 |
+| Graveyard Call - I | 2.00 |
+| Graveyard Call - II | 2.00 |
+| Sweet Revenge | 2.00 |
+| Experimenter | 2.00 |
+| I'll Be Back! | 0.90 |
+| Graveyard Call - III | 0.90 |
+| Doctorate in Potion Brewing | 0.70 |
+| Unrivaled | 0.60 |
+| Renowned Researcher | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,139 (Ranked 85)  
+Progressed: 27,143 (Ranked 85)  
 Completed: 14 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +98,7 @@ Completed: 14 (0.05%) (Ranked 164)
 | 2023-05-01 | 26,855 | 14 |
 | 2023-05-02 | 26,950 | 14 |
 | 2023-05-03 | 27,055 | 14 |
-| 2023-05-04 | 27,139 | 14 |
+| 2023-05-04 | 27,143 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

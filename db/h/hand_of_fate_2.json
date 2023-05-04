@@ -1,6 +1,344 @@
 {
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
+  "Achievements": [
+    {
+      "ID": "Achievement_01_The_Fool",
+      "SetID": "27hb4pl",
+      "Name": "The Fool",
+      "Percentage": 72,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_02_Apprentice",
+      "SetID": "27hb4pl",
+      "Name": "Apprentice",
+      "Percentage": 58,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_03_Mercenary",
+      "SetID": "27hb4pl",
+      "Name": "Mercenary",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_04_Adventurer",
+      "SetID": "27hb4pl",
+      "Name": "Adventurer",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_05_Protector_of_the_Realm",
+      "SetID": "27hb4pl",
+      "Name": "Protector of the Realm",
+      "Percentage": 1,
+      "XP": 100
+    },
+    {
+      "ID": "Achievement_06_Knight",
+      "SetID": "27hb4pl",
+      "Name": "Knight",
+      "Percentage": 8,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_07_Dungeon_Master",
+      "SetID": "27hb4pl",
+      "Name": "Dungeon Master",
+      "Percentage": 0.5,
+      "XP": 100
+    },
+    {
+      "ID": "Achievement_08_Card_Sharp",
+      "SetID": "27hb4pl",
+      "Name": "Card Sharp",
+      "Percentage": 2,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_09_Gambler",
+      "SetID": "27hb4pl",
+      "Name": "Gambler",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_10_Long_Shot",
+      "SetID": "27hb4pl",
+      "Name": "Long Shot",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_11_Grifter",
+      "SetID": "27hb4pl",
+      "Name": "Grifter",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_12_Jack_of_all_Trades",
+      "SetID": "27hb4pl",
+      "Name": "Jack of all Trades",
+      "Percentage": 5,
+      "XP": 30
+    },
+    {
+      "ID": "Achievement_13_Dice_Master",
+      "SetID": "27hb4pl",
+      "Name": "Dice Master",
+      "Percentage": 10,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_14_Magician",
+      "SetID": "27hb4pl",
+      "Name": "Magician",
+      "Percentage": 2,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_15_Hero",
+      "SetID": "27hb4pl",
+      "Name": "Hero",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_16_Ally",
+      "SetID": "27hb4pl",
+      "Name": "Ally",
+      "Percentage": 0.8,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_17_Rebel",
+      "SetID": "27hb4pl",
+      "Name": "Rebel",
+      "Percentage": 0.6,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_18_Ninja",
+      "SetID": "27hb4pl",
+      "Name": "Ninja",
+      "Percentage": 23,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_19_Thief_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Thief Bane",
+      "Percentage": 14,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_20_Northern_Scourge",
+      "SetID": "27hb4pl",
+      "Name": "Northern Scourge",
+      "Percentage": 17,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_21_Empires_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Empire\u0027s Bane",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_22_Cure_for_Corruption",
+      "SetID": "27hb4pl",
+      "Name": "Cure for Corruption",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_23_Smithy",
+      "SetID": "27hb4pl",
+      "Name": "Smithy",
+      "Percentage": 5,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_24_Leap_of_Faith",
+      "SetID": "27hb4pl",
+      "Name": "Leap of Faith",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_25_Purgatorium",
+      "SetID": "27hb4pl",
+      "Name": "Purgatorium",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_26_Gamester",
+      "SetID": "27hb4pl",
+      "Name": "Gamester",
+      "Percentage": 0.7,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_27_Money_Bags",
+      "SetID": "27hb4pl",
+      "Name": "Money Bags",
+      "Percentage": 0.2,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_28_Unburdened",
+      "SetID": "27hb4pl",
+      "Name": "Unburdened",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_29_Focused",
+      "SetID": "27hb4pl",
+      "Name": "Focused",
+      "Percentage": 8,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_30_Devil_Dice",
+      "SetID": "27hb4pl",
+      "Name": "Devil Dice",
+      "Percentage": 7,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_31_Master_of_Arms",
+      "SetID": "27hb4pl",
+      "Name": "Master of Arms",
+      "Percentage": 12,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_32_Karma",
+      "SetID": "27hb4pl",
+      "Name": "Karma",
+      "Percentage": 0.1,
+      "XP": 25
+    },
+    {
+      "ID": "Achievement_33_Combat_Ready",
+      "SetID": "27hb4pl",
+      "Name": "Combat Ready",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_34_Close_Shave",
+      "SetID": "27hb4pl",
+      "Name": "Close Shave",
+      "Percentage": 25,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_35_Cursed_Soul",
+      "SetID": "27hb4pl",
+      "Name": "Cursed Soul",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_36_Swordsman",
+      "SetID": "27hb4pl",
+      "Name": "Swordsman",
+      "Percentage": 9,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_37_Champion",
+      "SetID": "27hb4pl",
+      "Name": "Champion",
+      "Percentage": 1,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_38_Flurry_of_Fury",
+      "SetID": "27hb4pl",
+      "Name": "Flurry of Fury",
+      "Percentage": 8,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_39_Stuffed_Potato",
+      "SetID": "27hb4pl",
+      "Name": "Stuffed Potato",
+      "Percentage": 3,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_40_Broken_Heart",
+      "SetID": "27hb4pl",
+      "Name": "Broken Heart",
+      "Percentage": 6,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_41_Draknars_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Draknar\u0027s Bane",
+      "Percentage": 2,
+      "XP": 15
+    },
+    {
+      "ID": "Achievement_42_Thomas_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Thomas\u0027 Bane",
+      "Percentage": 0.8,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_43_Final_Death",
+      "SetID": "27hb4pl",
+      "Name": "Final Death",
+      "Percentage": 1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_44_Miracle",
+      "SetID": "27hb4pl",
+      "Name": "Miracle",
+      "Percentage": 0.1,
+      "XP": 20
+    },
+    {
+      "ID": "Achievement_45_Peaceful_Coast",
+      "SetID": "27hb4pl",
+      "Name": "Peaceful Coast",
+      "Percentage": 0.3,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_46_Pilgrim",
+      "SetID": "27hb4pl",
+      "Name": "Pilgrim",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_47_Smiths_Honour",
+      "SetID": "27hb4pl",
+      "Name": "Smiths Honour",
+      "Percentage": 0.4,
+      "XP": 10
+    },
+    {
+      "ID": "Achievement_48_Blood_Pact",
+      "SetID": "27hb4pl",
+      "Name": "Blood Pact",
+      "Percentage": 0.1,
+      "XP": 10
+    }
+  ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -976,6 +1314,11 @@
       "Time": "2023-05-04T19:02:12.647933+00:00",
       "NumProgressed": 655589,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-04T19:17:18.677027+00:00",
+      "NumProgressed": 655593,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -1737,16 +2080,26 @@
       "NumberOfAwardsMax": 35
     }
   ],
-  "EOS_Completed_Percentage": 0.03,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 48,
+  "LastChanged_Achievements": "2023-05-04T19:17:18.6770265+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 392,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655589,
-  "LastUpdate_Achievements": "2023-05-04T19:02:12.6479396+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:17.3732955+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:02:12.6479325+00:00",
+  "EOS_Progressed": 655593,
+  "LastUpdate_Achievements": "2023-05-04T19:17:18.6770725+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:16.1364947+00:00",
+  "AchievementSets": [
+    {
+      "ID": "27hb4pl",
+      "IsBase": true,
+      "Progressed": 655593,
+      "Completed": 164
+    }
+  ],
+  "EOS_Completed_Percentage": 0.03,
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
+  "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 35,
   "NumberOfAwards": 180,
@@ -1759,5 +2112,5 @@
   "Ranking_Popularity": 427,
   "Ranking_Rating": 428,
   "Rating": 4.57,
-  "FirstSeen": "2022-07-22T20:22:25.6908038+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00"
 }

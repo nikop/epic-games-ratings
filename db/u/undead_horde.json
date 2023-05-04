@@ -1,6 +1,176 @@
 {
   "ID": "3f4d5dd30ff94239bb5eb2aff38bb8f2",
   "Name": "Undead Horde",
+  "Achievements": [
+    {
+      "ID": "ADVENTURER",
+      "SetID": "55ol43k",
+      "Name": "Adventurer",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "CONQUEROR",
+      "SetID": "55ol43k",
+      "Name": "Conqueror",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "CONQUER_ALWYN",
+      "SetID": "55ol43k",
+      "Name": "Rule Alwyn",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "CONQUER_CATACOMBS",
+      "SetID": "55ol43k",
+      "Name": "Rule Catacombs",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "CONQUER_CITADEL",
+      "SetID": "55ol43k",
+      "Name": "Rule Citadel",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "CONQUER_DESERT",
+      "SetID": "55ol43k",
+      "Name": "Rule Burning Rock",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "CONQUER_WASTELANDS",
+      "SetID": "55ol43k",
+      "Name": "Rule Wastelands",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "DEATH_DEALER",
+      "SetID": "55ol43k",
+      "Name": "Death Dealer",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "ERA",
+      "SetID": "55ol43k",
+      "Name": "Second Era",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "EXPLORER",
+      "SetID": "55ol43k",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "GRIM_REAPER",
+      "SetID": "55ol43k",
+      "Name": "Grim Reaper",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "HEROISM",
+      "SetID": "55ol43k",
+      "Name": "Heroism",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "HORDE",
+      "SetID": "55ol43k",
+      "Name": "Horde",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "KFC",
+      "SetID": "55ol43k",
+      "Name": "Kinahmo Fried Chicken",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "KILO",
+      "SetID": "55ol43k",
+      "Name": "A Thousand Corpses",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "LVL_5",
+      "SetID": "55ol43k",
+      "Name": "Pentagrammaton",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "NECRONOMICON",
+      "SetID": "55ol43k",
+      "Name": "Necronomicon",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "REANIMATOR",
+      "SetID": "55ol43k",
+      "Name": "Re-Animator",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "SALMONELLA",
+      "SetID": "55ol43k",
+      "Name": "Salmonella",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "SCROOGE",
+      "SetID": "55ol43k",
+      "Name": "Scrooge McDead",
+      "Percentage": 0,
+      "XP": 15
+    },
+    {
+      "ID": "STATUES",
+      "SetID": "55ol43k",
+      "Name": "Summoner",
+      "Percentage": 0,
+      "XP": 90
+    },
+    {
+      "ID": "TRAINER",
+      "SetID": "55ol43k",
+      "Name": "Undead Trainer",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "VISITOR",
+      "SetID": "55ol43k",
+      "Name": "The Lidless Eye Socket",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "WERECHICKEN",
+      "SetID": "55ol43k",
+      "Name": "Werechicken",
+      "Percentage": 0,
+      "XP": 15
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -17,22 +187,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 24,
+  "LastChanged_Achievements": "2023-05-04T19:19:45.3014964+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:04:54.7673341+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:17.3896239+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:54.7673334+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:19:45.3015136+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:15.9371178+00:00",
+  "AchievementSets": [
+    {
+      "ID": "55ol43k",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-24T19:59:13.9669536+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:41.0780517+00:00",
   "FirstSeenRating": "2023-04-24T19:59:13.9669535+00:00",
+  "FirstSeen": "2023-04-24T19:59:13.9669486+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
-  "FirstSeen": "2023-04-24T19:59:13.9669486+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:41.0780517+00:00"
 }

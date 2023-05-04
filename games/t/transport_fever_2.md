@@ -4,7 +4,71 @@ Number of Ratings: 180  (23.09.2022)
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 37  (Ranked 417)  
 Sum: 258 (Ranked 338)  
-Diff (max vs sum): 79
+Diff (max vs sum): 79  
+## Achievements
+| Name | Percentage |
+| ---- | ---------- |
+| First line | 76.00 |
+| First cargo item waiting | 71.00 |
+| First cargo item on board | 70.00 |
+| First bus stop | 69.00 |
+| First passenger on board | 66.00 |
+| First passenger waiting | 66.00 |
+| First bus arrived | 64.00 |
+| First train station | 63.00 |
+| First steam train arrived | 59.00 |
+| First industry upgraded | 55.00 |
+| Transport millionaire | 54.00 |
+| Cargo hub | 53.00 |
+| Cadet | 52.00 |
+| Transport master | 51.00 |
+| Sculpturer | 50.00 |
+| Settled down | 48.00 |
+| First electric train arrived | 47.00 |
+| First ship arrived | 45.00 |
+| Now what? | 45.00 |
+| High speed | 43.00 |
+| Transport shark | 40.00 |
+| First aircraft arrived | 40.00 |
+| Exemplary student | 40.00 |
+| Mass production | 34.00 |
+| Aircraft entrepreneur | 33.00 |
+| The future is now, old man | 31.00 |
+| Crowd in a train | 30.00 |
+| Not in my backyard | 30.00 |
+| City | 29.00 |
+| The king of the sea | 28.00 |
+| Transport tycoon | 24.00 |
+| Climate change | 22.00 |
+| Old timer | 22.00 |
+| The ugly smell of success | 22.00 |
+| Heavily loaded | 20.00 |
+| Bob Ross | 17.00 |
+| No free seats | 11.00 |
+| Penny pincher | 11.00 |
+| Campaign expert | 10.00 |
+| Truck Fever | 10.00 |
+| Back to the future | 9.00 |
+| Transport belt | 9.00 |
+| E.P.E.C. | 6.00 |
+| Antique | 5.00 |
+| Campaign shark | 5.00 |
+| Transport shark (Hard mode) | 4.00 |
+| Transport corporation | 4.00 |
+| Charles Alton Ellis | 3.00 |
+| Cannot get enough | 3.00 |
+| Industrialist | 3.00 |
+| Transport tycoon (Hard mode) | 2.00 |
+| Metropolis | 2.00 |
+| Speed of light | 2.00 |
+| Trans-Siberian Railway | 2.00 |
+| No country for old trains | 1.00 |
+| Campaign tycoon | 1.00 |
+| Train Fever | 0.90 |
+| Louis Favre | 0.90 |
+| Big spender | 0.50 |
+| Glacier express | 0.20 |
+| Museum line | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,027 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 191)  

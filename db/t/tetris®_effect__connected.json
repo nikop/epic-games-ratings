@@ -1,6 +1,7 @@
 {
   "ID": "76339caf9e8e4d24b62761c736e82b42",
   "Name": "Tetris\u00AE Effect: Connected",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -479,14 +480,18 @@
       "NumberOfAwardsMax": 39
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:02:16.9058555+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:57:29.2388894+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:12:28.9267607+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:57:39.912132+00:00",
+  "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 39,
   "NumberOfAwards": 268,
@@ -498,6 +503,5 @@
   "Ranking_PopularitySum": 333,
   "Ranking_Popularity": 412,
   "Ranking_Rating": 28,
-  "Rating": 4.86,
-  "FirstSeen": "2022-07-22T20:17:49.195013+00:00"
+  "Rating": 4.86
 }

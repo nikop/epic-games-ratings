@@ -1,6 +1,155 @@
 {
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
+  "Achievements": [
+    {
+      "ID": "a_woman_scorned",
+      "SetID": "2db2j74",
+      "Name": "A Woman Scorned",
+      "Percentage": 23,
+      "XP": 10
+    },
+    {
+      "ID": "book_em_danny",
+      "SetID": "2db2j74",
+      "Name": "Book \u0027em Danny",
+      "Percentage": 11,
+      "XP": 35
+    },
+    {
+      "ID": "bullseye",
+      "SetID": "2db2j74",
+      "Name": "Bullseye",
+      "Percentage": 5,
+      "XP": 90
+    },
+    {
+      "ID": "chameleon",
+      "SetID": "2db2j74",
+      "Name": "Chameleon",
+      "Percentage": 22,
+      "XP": 10
+    },
+    {
+      "ID": "chicken",
+      "SetID": "2db2j74",
+      "Name": "Chicken",
+      "Percentage": 8,
+      "XP": 90
+    },
+    {
+      "ID": "hashtag_winning",
+      "SetID": "2db2j74",
+      "Name": "Hashtag Winning",
+      "Percentage": 35,
+      "XP": 90
+    },
+    {
+      "ID": "heavy_rayne",
+      "SetID": "2db2j74",
+      "Name": "Heavy Rayne",
+      "Percentage": 9,
+      "XP": 35
+    },
+    {
+      "ID": "highlander",
+      "SetID": "2db2j74",
+      "Name": "Highlander",
+      "Percentage": 20,
+      "XP": 35
+    },
+    {
+      "ID": "look_mum_im_a_detective",
+      "SetID": "2db2j74",
+      "Name": "Look Mum I\u0027m A Detective",
+      "Percentage": 20,
+      "XP": 90
+    },
+    {
+      "ID": "oscar_winning_performance",
+      "SetID": "2db2j74",
+      "Name": "Oscar Winning Performance",
+      "Percentage": 9,
+      "XP": 90
+    },
+    {
+      "ID": "patient_listener",
+      "SetID": "2db2j74",
+      "Name": "Patient Listener",
+      "Percentage": 45,
+      "XP": 10
+    },
+    {
+      "ID": "play_it_again_sam",
+      "SetID": "2db2j74",
+      "Name": "Play It Again Sam",
+      "Percentage": 92,
+      "XP": 10
+    },
+    {
+      "ID": "play_me_by_the_hour",
+      "SetID": "2db2j74",
+      "Name": "Play Me By The Hour",
+      "Percentage": 65,
+      "XP": 10
+    },
+    {
+      "ID": "poetent",
+      "SetID": "2db2j74",
+      "Name": "Poetent",
+      "Percentage": 11,
+      "XP": 90
+    },
+    {
+      "ID": "put_a_ring_on_it",
+      "SetID": "2db2j74",
+      "Name": "Put A Ring On It",
+      "Percentage": 9,
+      "XP": 35
+    },
+    {
+      "ID": "show_me_some_skin",
+      "SetID": "2db2j74",
+      "Name": "Show Me Some Skin",
+      "Percentage": 5,
+      "XP": 90
+    },
+    {
+      "ID": "strong_silent_type",
+      "SetID": "2db2j74",
+      "Name": "Strong Silent Type",
+      "Percentage": 91,
+      "XP": 10
+    },
+    {
+      "ID": "the_big_sleep",
+      "SetID": "2db2j74",
+      "Name": "The Big Sleep",
+      "Percentage": 4,
+      "XP": 90
+    },
+    {
+      "ID": "video_saved_the_radio_star",
+      "SetID": "2db2j74",
+      "Name": "Video Saved The Radio Star",
+      "Percentage": 37,
+      "XP": 35
+    },
+    {
+      "ID": "voyeur",
+      "SetID": "2db2j74",
+      "Name": "Voyeur",
+      "Percentage": 9,
+      "XP": 35
+    },
+    {
+      "ID": "you_had_one_job",
+      "SetID": "2db2j74",
+      "Name": "You Had One Job",
+      "Percentage": 14,
+      "XP": 10
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -22,22 +171,32 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 1.27,
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 21,
+  "LastChanged_Achievements": "2023-05-04T19:18:41.0984382+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 158,
-  "LastUpdate_Achievements": "2023-05-04T19:03:47.8809208+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:14.3158876+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:03:47.8809185+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:41.0984526+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:12.9015002+00:00",
+  "AchievementSets": [
+    {
+      "ID": "2db2j74",
+      "IsBase": true,
+      "Progressed": 158,
+      "Completed": 2
+    }
+  ],
+  "EOS_Completed_Percentage": 1.27,
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
+  "FirstSeen": "2022-10-31T15:31:54.8525902+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_Progress": 227,
-  "FirstSeen": "2022-10-31T15:31:54.8525902+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00"
 }

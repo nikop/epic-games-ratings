@@ -1,6 +1,7 @@
 {
   "ID": "0bef9383794a4d779ba0628084b14cba",
   "Name": "Rumbleverse",
+  "Achievements": [],
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -2264,17 +2265,27 @@
       "Rating": 4.42
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
+  "LastChanged_Achievements": "2023-05-04T19:18:59.0372792+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:04:07.100849+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:58:36.5166615+00:00",
-  "LastChanged_Achievements": "2023-05-04T19:04:07.1008474+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:18:59.037282+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:13:34.7802471+00:00",
+  "AchievementSets": [
+    {
+      "ID": "akhg1a3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2022-09-30T13:00:58.0416858+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:55.5183215+00:00",
   "FirstSeenRating": "2022-08-12T04:30:28.6505316+00:00",
+  "FirstSeen": "2022-08-11T14:30:37.6010339+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 6689,
   "NumberOfAwards": 53953,
@@ -2287,5 +2298,5 @@
   "Ranking_Popularity": 46,
   "Ranking_Rating": 641,
   "Rating": 4.42,
-  "FirstSeen": "2022-08-11T14:30:37.6010339+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:55.5183215+00:00"
 }

@@ -1,6 +1,7 @@
 {
   "ID": "9510e329e4df4d0fbf123fc898cf3c21",
   "Name": "Fire Commander",
+  "Achievements": [],
   "Tags": [],
   "EosHistory": [],
   "RatingHistory": [
@@ -11,20 +12,23 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
+  "TotalAchievementsXP": 0,
+  "TotalAchievements": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-04T19:04:48.7691838+00:00",
-  "LastUpdate_Ratings": "2023-05-04T18:59:17.7937999+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:14:16.2870324+00:00",
+  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:30.1330185+00:00",
   "FirstSeenRating": "2023-03-31T05:58:30.1330184+00:00",
+  "FirstSeen": "2022-11-17T14:58:08.8378516+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "FirstSeen": "2022-11-17T14:58:08.8378516+00:00"
+  "Ranking_EOS_Progress": 378
 }
