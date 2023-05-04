@@ -130,11 +130,13 @@ namespace EpicRatingsUpdater.Markdown
             return sb.ToString();
         }
 
-        static public string BuildMarkdownGamePage(GameDbItem item)
+        static public string BuildMarkdownGamePage(GameDbItem item, string rawLink)
         {
             var sb = new StringBuilder();
 
             sb.AppendLine($"# {item.Name}");
+
+            sb.AppendLine($"[View Rawdata](../../{rawLink})  ");
 
             if (item.Rating != null)
             {
@@ -161,7 +163,8 @@ namespace EpicRatingsUpdater.Markdown
 
                 var achTable = new MarkdownTable<AchievementItem>();
                 achTable.AddColumn("Name", x => x.Name);
-                achTable.AddColumn("Percentage", x => FormatRating(x.Percentage));
+                achTable.AddColumn("Percentage", x => FormatRating(x.Percentage) + "%");
+                achTable.AddColumn("Users", x => "~" + FormatVotes(x.UsersEstimate));
 
                 sb.Append(achTable.FormatTable(item.Achievements.OrderByDescending(x => x.Percentage)));
             }

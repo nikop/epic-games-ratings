@@ -17,5 +17,7 @@ namespace EpicRatingsUpdater.GameDatabase
         public double Percentage { get; set; }
 
         public int XP { get; set; }
+
+        public int UsersEstimate { get; set; }
     }
 }

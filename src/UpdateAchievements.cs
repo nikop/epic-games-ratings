@@ -154,6 +154,7 @@ namespace EpicRatingsUpdater
                     current.Name = ach.unlockedDisplayName;
                     current.Percentage = ach.rarity.percent;
                     current.XP = ach.XP;
+                    current.UsersEstimate = (int) Math.Round((set?.Progressed ?? 0) * ach.rarity.percent, 0);
                 }
             }
 

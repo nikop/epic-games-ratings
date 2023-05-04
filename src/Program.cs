@@ -224,9 +224,14 @@ foreach (var item in items)
 
     Directory.CreateDirectory(Path.GetDirectoryName(fullName)!);
 
-    var page = MarkdownHelpers.BuildMarkdownGamePage(item);
+    var page = MarkdownHelpers.BuildMarkdownGamePage(item, RawLink(item));
 
     await File.WriteAllTextAsync(fullName, page);
+}
+
+string RawLink(GameDbItem item)
+{
+    return "db/" + gameIndex?.Files[item.ID].Replace(@"\", "/") + ".json";
 }
 
 string GamesLink(GameDbItem item)
