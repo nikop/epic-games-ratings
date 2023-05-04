@@ -1,5 +1,7 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [R.I.C.E.](games/r/r.i.c.e..md) | - | - | 0 | - |
+| [Ravenlok](games/r/ravenlok.md) | - | - | 0 | - |
 | [Showgunners](games/s/showgunners.md) | - | - | 0 | - |
 | [Sphere 3](games/s/sphere_3.md) | - | - | 0 | - |
 | [Kakele Online - MMORPG](games/k/kakele_online_-_mmorpg.md) | - | - | 0 | - |

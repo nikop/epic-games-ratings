@@ -1,12 +1,12 @@
 # Ravenlok
 Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
+Max (): 0  (Ranked -)  
+Sum: 0 (Ranked -)  
 Diff (max vs sum): -
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 242)  
-Completed: 8 (6.40%) (Ranked 21)  
+Progressed: 130 (Ranked 241)  
+Completed: 8 (6.15%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -17,7 +17,11 @@ Completed: 8 (6.40%) (Ranked 21)
 | 2023-05-01 | 58 | 7 |
 | 2023-05-02 | 60 | 7 |
 | 2023-05-03 | 73 | 8 |
-| 2023-05-04 | 125 | 8 |
+| 2023-05-04 | 130 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-05-04 | - | 0 | 0 |

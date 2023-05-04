@@ -48,7 +48,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game has a Creative Community",
@@ -2187,6 +2187,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 1891,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-05-04T06:00:13.2489244+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1892,
+      "NumberOfAwardsMax": 273
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2194,14 +2200,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T05:05:28.8231352+00:00",
-  "LastUpdate_Ratings": "2023-05-04T04:59:50.4603901+00:00",
-  "LastChanged_Achievements": "2023-05-04T05:05:28.8231333+00:00",
-  "LastChanged": "2023-05-04T04:59:50.4603896+00:00",
+  "LastUpdate_Achievements": "2023-05-04T06:05:53.1564709+00:00",
+  "LastUpdate_Ratings": "2023-05-04T06:00:13.2489249+00:00",
+  "LastChanged_Achievements": "2023-05-04T06:05:53.1564685+00:00",
+  "LastChanged": "2023-05-04T06:00:13.2489241+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 273,
-  "NumberOfAwards": 1891,
+  "NumberOfAwards": 1892,
   "NumberOfRatings": 2155,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 272,

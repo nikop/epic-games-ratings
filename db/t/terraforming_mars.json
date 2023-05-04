@@ -6,7 +6,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 481
+      "Count": 482
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1036,6 +1036,11 @@
     {
       "Time": "2023-05-04T05:02:38.6196927+00:00",
       "NumProgressed": 55118,
+      "NumCompleted": 60
+    },
+    {
+      "Time": "2023-05-04T06:03:46.4574975+00:00",
+      "NumProgressed": 55123,
       "NumCompleted": 60
     }
   ],
@@ -3067,21 +3072,27 @@
       "Rating": 4.54,
       "NumberOfAwards": 3047,
       "NumberOfAwardsMax": 493
+    },
+    {
+      "Time": "2023-05-04T05:58:10.6205075+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3048,
+      "NumberOfAwardsMax": 493
     }
   ],
   "EOS_Completed_Percentage": 0.11,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1508,
+  "EOS_NewPlayers": 1510,
   "EOS_Completed": 60,
-  "EOS_Progressed": 55118,
-  "LastUpdate_Achievements": "2023-05-04T05:02:38.619703+00:00",
-  "LastUpdate_Ratings": "2023-05-04T04:57:53.5062988+00:00",
-  "LastChanged_Achievements": "2023-05-04T05:02:38.6196922+00:00",
-  "LastChanged": "2023-05-02T14:57:42.7201967+00:00",
+  "EOS_Progressed": 55123,
+  "LastUpdate_Achievements": "2023-05-04T06:03:46.4575085+00:00",
+  "LastUpdate_Ratings": "2023-05-04T05:58:10.620508+00:00",
+  "LastChanged_Achievements": "2023-05-04T06:03:46.4574969+00:00",
+  "LastChanged": "2023-05-04T05:58:10.6205072+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 493,
-  "NumberOfAwards": 3047,
+  "NumberOfAwards": 3048,
   "NumberOfRatings": 2731,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 38,

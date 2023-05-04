@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 490 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 490 |
-| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,434 | 116 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,435 | 116 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 3,025 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 482 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 490 |
@@ -60,7 +60,6 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 490 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 344 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 490 |
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,257 | 120 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,464 | 58 |
 | 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 490 |
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 490 |
@@ -71,12 +70,13 @@
 | 60 | [Sifu](games/s/sifu.md) | 4.82 | 6,018 | 53 |
 | 60 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 490 |
-| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
-| 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 434 |
-| 72 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 490 |
-| 72 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 490 |
-| 72 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 490 |
-| 72 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 490 |
+| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
+| 71 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,257 | 120 |
+| 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 434 |
+| 71 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 490 |
+| 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 490 |
+| 71 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 490 |
+| 71 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 490 |
 | 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 331 | 212 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,250 | 50 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 279 |
@@ -116,7 +116,7 @@
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,080 | 23 |
 | 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 339 |
 | 113 | [Dead Space](games/d/dead_space.md) | 4.76 | 40 | 409 |
-| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 832 | 145 |
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 835 | 144 |
 | 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 62 | 373 |
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 490 |
 | 113 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 321 |
@@ -192,7 +192,7 @@
 | 178 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 490 |
 | 178 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 490 |
 | 192 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 490 |
-| 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,514 | 67 |
+| 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,518 | 67 |
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 490 |
 | 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 335 | 211 |
 | 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,160 | 70 |
@@ -533,7 +533,7 @@
 | 530 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 252 |
 | 530 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
 | 530 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
-| 530 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,472 | 12 |
+| 530 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,509 | 12 |
 | 530 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
 | 530 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,283 | 94 |
 | 530 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
@@ -827,7 +827,7 @@
 | 820 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 490 |
 | 826 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 459 |
 | 826 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 490 |
-| 826 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,182 | 98 |
+| 826 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,187 | 98 |
 | 826 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 490 |
 | 826 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 490 |
 | 831 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 490 |
