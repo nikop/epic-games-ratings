@@ -2,19 +2,25 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-05-04T03:02:36.1367715+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T01:59:16.5304631+00:00",
-  "LastUpdate_Ratings": "2023-05-04T01:54:00.1799356+00:00",
-  "LastChanged_Achievements": "2023-05-04T01:59:16.5304604+00:00",
+  "EOS_Progressed": 1,
+  "LastUpdate_Achievements": "2023-05-04T03:02:36.1367742+00:00",
+  "LastUpdate_Ratings": "2023-05-04T02:56:53.3159084+00:00",
+  "LastChanged_Achievements": "2023-05-04T03:02:36.1367709+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 377
+  "Ranking_EOS_Progress": 354
 }

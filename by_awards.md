@@ -12,12 +12,12 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,392 | 4.59 | 395 |
 | 11 | [VALORANT](games/v/valorant.md) | 51,078 | 4.54 | 475 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,472 | 4.50 | 530 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,537 | 4.74 | 142 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,579 | 4.74 | 142 |
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 28,658 | 4.59 | 395 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,420 | 4.65 | 290 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,986 | 4.52 | 499 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,675 | 4.53 | 488 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,328 | 4.77 | 103 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,359 | 4.77 | 103 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,142 | 4.57 | 428 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,913 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 14,502 | 4.61 | 353 |
@@ -207,7 +207,7 @@
 | 205 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 879 |
 | 205 | [Nuclear Throne](games/n/nuclear_throne.md) | 367 | 4.79 | 91 |
 | 207 | [For The King](games/f/for_the_king.md) | 361 | 4.70 | 192 |
-| 208 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 352 | 4.24 | 780 |
+| 208 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 353 | 4.24 | 780 |
 | 209 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 349 | 4.61 | 353 |
 | 210 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 341 | 4.32 | 737 |
 | 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 335 | 4.70 | 192 |
@@ -252,7 +252,7 @@
 | 250 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 212 | 4.61 | 353 |
 | 251 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 211 | 4.84 | 49 |
 | 252 | [Crying Suns](games/c/crying_suns.md) | 209 | 4.50 | 530 |
-| 253 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 206 | 4.58 | 414 |
+| 253 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 207 | 4.58 | 414 |
 | 254 | [Sunless Sea](games/s/sunless_sea.md) | 203 | 4.58 | 414 |
 | 255 | [Stranded Deep](games/s/stranded_deep.md) | 202 | 4.22 | 794 |
 | 256 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 713 |
@@ -267,7 +267,7 @@
 | 265 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 179 | 4.07 | 861 |
 | 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 179 | 4.64 | 312 |
 | 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 178 | 4.41 | 652 |
-| 268 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 176 | 4.58 | 414 |
+| 267 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 178 | 4.58 | 414 |
 | 269 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 797 |
 | 270 | [Pinball FX](games/p/pinball_fx.md) | 172 | 4.03 | 872 |
 | 271 | [Space Punks](games/s/space_punks.md) | 171 | 4.16 | 831 |
@@ -408,10 +408,10 @@
 | 406 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 757 |
 | 407 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 127 |
 | 408 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 290 |
+| 408 | [Dead Space](games/d/dead_space.md) | 40 | 4.76 | 113 |
 | 408 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 40 | 4.75 | 127 |
-| 410 | [Dead Space](games/d/dead_space.md) | 39 | 4.76 | 113 |
-| 410 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 166 |
-| 410 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 39 | 4.86 | 28 |
+| 411 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 166 |
+| 411 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 39 | 4.86 | 28 |
 | 413 | [Bugsnax](games/b/bugsnax.md) | 38 | 4.85 | 37 |
 | 413 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 38 | 4.52 | 499 |
 | 413 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 38 | 4.35 | 713 |

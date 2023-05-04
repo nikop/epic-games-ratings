@@ -15,11 +15,11 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Ravenlok](games/r/ravenlok.md) | 7.84% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
+| 18 | [Ravenlok](games/r/ravenlok.md) | 7.21% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
 | 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -297,6 +297,7 @@
 | 191 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
 | 191 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
 | 191 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
+| 191 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
 | 191 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
 | 191 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 191 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |

@@ -2,9 +2,9 @@
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 371  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 206  (Ranked 253)  
-Sum: 414 (Ranked 296)  
-Diff (max vs sum): -43
+Max (Character Customization): 207  (Ranked 253)  
+Sum: 415 (Ranked 295)  
+Diff (max vs sum): -42
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,571 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -22,7 +22,7 @@ Completed: 0 (0.00%) (Ranked 191)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 206 |
+| This game has Inclusive Character Customization | 207 |
 | This game is Extremely Fun | 29 |
 | This game has Amazing Storytelling | 29 |
 | This game is Highly Recommended | 28 |
@@ -105,3 +105,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-23 | 4.58 | - | 204 | 412 |
 | 2023-04-29 | 4.58 | - | 205 | 413 |
 | 2023-05-02 | 4.58 | - | 206 | 414 |
+| 2023-05-04 | 4.58 | - | 207 | 415 |

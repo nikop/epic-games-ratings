@@ -33,7 +33,7 @@
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 213 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 328 |
 | 28 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 108 | 310 |
-| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 410 |
+| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 411 |
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,206 | 122 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 457 | 187 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 413 |
@@ -103,7 +103,7 @@
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,699 | 65 |
 | 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,819 | 36 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,586 | 88 |
-| 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,328 | 18 |
+| 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,359 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,943 | 74 |
 | 103 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 489 |
 | 103 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 36 | 420 |
@@ -115,7 +115,7 @@
 | 113 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 489 |
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,080 | 23 |
 | 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 338 |
-| 113 | [Dead Space](games/d/dead_space.md) | 4.76 | 39 | 410 |
+| 113 | [Dead Space](games/d/dead_space.md) | 4.76 | 40 | 408 |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 832 | 145 |
 | 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 62 | 372 |
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 489 |
@@ -150,7 +150,7 @@
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 584 | 166 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,477 | 49 |
 | 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 246 |
-| 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,537 | 13 |
+| 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,579 | 13 |
 | 142 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 489 |
 | 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 489 |
 | 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 746 | 149 |
@@ -168,7 +168,7 @@
 | 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 454 | 188 |
 | 166 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 489 |
 | 166 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 452 |
-| 166 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 410 |
+| 166 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 411 |
 | 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 489 |
 | 166 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 489 |
 | 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 68 | 363 |
@@ -421,11 +421,11 @@
 | 414 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,469 | 114 |
 | 414 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 203 | 254 |
 | 414 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 384 |
-| 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 176 | 268 |
+| 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 178 | 267 |
 | 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 968 | 139 |
 | 414 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,038 | 52 |
 | 414 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 489 |
-| 414 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 206 | 253 |
+| 414 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 207 | 253 |
 | 414 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,332 | 22 |
 | 428 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 489 |
 | 428 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 489 |
@@ -782,7 +782,7 @@
 | 780 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 489 |
 | 780 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 439 |
 | 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 8,812 | 37 |
-| 780 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 352 | 208 |
+| 780 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 353 | 208 |
 | 780 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 489 |
 | 780 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 489 |
 | 780 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 489 |
