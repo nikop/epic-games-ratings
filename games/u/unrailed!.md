@@ -62,7 +62,7 @@ Diff (max vs sum): 55
 | Fireworks! | 0.10% | ~585 |
 | 20 Miles under the Sea | 0.10% | ~585 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585,353 (Ranked 21)  
+Progressed: 585,354 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 584,204 | 6 |
 | 2023-05-02 | 584,620 | 6 |
 | 2023-05-03 | 585,010 | 6 |
-| 2023-05-04 | 585,353 | 6 |
+| 2023-05-04 | 585,354 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

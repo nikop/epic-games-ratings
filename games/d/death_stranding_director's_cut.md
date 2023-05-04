@@ -9,25 +9,25 @@ Diff (max vs sum): -29
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~416,036 |
+| Delivering Is What I Do | 92.00% | ~416,037 |
 | Good Samaritan | 89.00% | ~402,470 |
-| Rebuilding America | 79.00% | ~357,248 |
-| Like and Be Liked | 76.00% | ~343,682 |
-| Apprentice Builder | 71.00% | ~321,071 |
-| A New Day for the UCA | 70.00% | ~316,549 |
-| A Baby Blessing | 63.00% | ~284,894 |
-| Prominent Porter | 63.00% | ~284,894 |
-| Building Bridges | 63.00% | ~284,894 |
+| Rebuilding America | 79.00% | ~357,249 |
+| Like and Be Liked | 76.00% | ~343,683 |
+| Apprentice Builder | 71.00% | ~321,072 |
+| A New Day for the UCA | 70.00% | ~316,550 |
+| A Baby Blessing | 63.00% | ~284,895 |
+| Prominent Porter | 63.00% | ~284,895 |
+| Building Bridges | 63.00% | ~284,895 |
 | Well Connected | 60.00% | ~271,328 |
 | The Custom Kid | 59.00% | ~266,806 |
 | Chiral Crafter | 58.00% | ~262,284 |
 | Boots Are a Porter's Best Friend | 58.00% | ~262,284 |
-| The People's Porter | 55.00% | ~248,717 |
-| I Couldn't Hold it In! | 55.00% | ~248,717 |
+| The People's Porter | 55.00% | ~248,718 |
+| I Couldn't Hold it In! | 55.00% | ~248,718 |
 | Everyday Delivery | 51.00% | ~230,629 |
-| A Shout in the Dark | 49.00% | ~221,584 |
-| A Thirst for Knowledge | 47.00% | ~212,540 |
-| Snooze 'n' Soothe | 47.00% | ~212,540 |
+| A Shout in the Dark | 49.00% | ~221,585 |
+| A Thirst for Knowledge | 47.00% | ~212,541 |
+| Snooze 'n' Soothe | 47.00% | ~212,541 |
 | Soothing Sounds | 45.00% | ~203,496 |
 | Catcher Crusher | 44.00% | ~198,974 |
 | We Need You | 43.00% | ~194,452 |
@@ -50,14 +50,14 @@ Diff (max vs sum): -29
 | The Particle of God | 20.00% | ~90,443 |
 | I'm Your Die-Hardman | 20.00% | ~90,443 |
 | Bring Back My Baby | 20.00% | ~90,443 |
-| She's waiting for you on the Beach. | 19.00% | ~85,920 |
-| Thank You, Sam | 19.00% | ~85,920 |
-| Thanks for Everything | 18.00% | ~81,398 |
+| She's waiting for you on the Beach. | 19.00% | ~85,921 |
+| Thank You, Sam | 19.00% | ~85,921 |
+| Thanks for Everything | 18.00% | ~81,399 |
 | The Post Guides the Present | 16.00% | ~72,354 |
 | Hooked on Delivering!? | 15.00% | ~67,832 |
 | Rest In Pieces | 15.00% | ~67,832 |
 | Childminder | 13.00% | ~58,788 |
-| Public Service Porter | 11.00% | ~49,743 |
+| Public Service Porter | 11.00% | ~49,744 |
 | God Particle Go-Getter | 8.00% | ~36,177 |
 | The Past Guides the Present | 5.00% | ~22,611 |
 | A Helping Hand | 4.00% | ~18,089 |
@@ -73,7 +73,7 @@ Diff (max vs sum): -29
 | Homo Faber | 0.40% | ~1,809 |
 | Greatest of Great Deliverers | 0.30% | ~1,357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,213 (Ranked 29)  
+Progressed: 452,214 (Ranked 29)  
 Completed: 1,490 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1,490 (0.33%) (Ranked 110)
 | 2023-05-01 | 451,494 | 1,483 |
 | 2023-05-02 | 451,747 | 1,484 |
 | 2023-05-03 | 452,004 | 1,486 |
-| 2023-05-04 | 452,213 | 1,490 |
+| 2023-05-04 | 452,214 | 1,490 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

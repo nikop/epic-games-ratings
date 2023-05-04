@@ -6,7 +6,7 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 74,
+      "Percentage": 71,
       "XP": 15,
       "UsersEstimate": 42
     },
@@ -22,7 +22,7 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -30,7 +30,7 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -38,7 +38,7 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -86,7 +86,7 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -118,7 +118,7 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -126,7 +126,7 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -142,7 +142,7 @@
       "ID": "ACHV_OUTERCORE",
       "SetID": "cceobco",
       "Name": "Outer Core",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -158,15 +158,15 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHV_SUPPLYRUN",
       "SetID": "cceobco",
       "Name": "Supply Run",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -174,7 +174,7 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -182,7 +182,7 @@
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -190,7 +190,7 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 90,
       "UsersEstimate": 19
     },
@@ -206,7 +206,7 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -428,6 +428,11 @@
       "Time": "2023-05-04T17:05:07.3464318+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T23:04:58.0543645+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -440,18 +445,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:39:39.5859994+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:58.054364+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_Completed": 0,
-  "EOS_Progressed": 57,
-  "LastUpdate_Achievements": "2023-05-04T22:39:39.586022+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:33:24.5257966+00:00",
+  "EOS_Progressed": 59,
+  "LastUpdate_Achievements": "2023-05-04T23:04:58.0543821+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:58:57.4194345+00:00",
   "AchievementSets": [
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
@@ -462,7 +467,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 267,
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00"

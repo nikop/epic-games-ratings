@@ -40,7 +40,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -64,7 +64,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -120,7 +120,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "INTRO_FINISHED",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6450
+      "UsersEstimate": 6452
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -136,7 +136,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1204,6 +1204,11 @@
       "Time": "2023-05-04T22:06:58.4572151+00:00",
       "NumProgressed": 8487,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-04T23:05:05.335661+00:00",
+      "NumProgressed": 8489,
+      "NumCompleted": 195
     }
   ],
   "RatingHistory": [
@@ -1553,18 +1558,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:39:46.7428526+00:00",
-  "EOS_NewCompleters": 18,
-  "EOS_NewPlayers": 597,
+  "LastChanged_Achievements": "2023-05-04T23:05:05.3356606+00:00",
+  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 595,
   "EOS_Completed": 195,
-  "EOS_Progressed": 8487,
-  "LastUpdate_Achievements": "2023-05-04T22:39:46.742877+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:33:48.5322622+00:00",
+  "EOS_Progressed": 8489,
+  "LastUpdate_Achievements": "2023-05-04T23:05:05.3356766+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:59:22.2881469+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8487,
+      "Progressed": 8489,
       "Completed": 195
     }
   ],

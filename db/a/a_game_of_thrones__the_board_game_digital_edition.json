@@ -80,7 +80,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "1025",
@@ -104,7 +104,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "1028",
@@ -120,7 +120,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "1030",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "1031",
@@ -136,7 +136,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "1032",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "1033",
@@ -152,7 +152,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "1034",
@@ -176,7 +176,7 @@
       "Name": "A Long Journey",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     }
   ],
   "Tags": [
@@ -1294,6 +1294,11 @@
     {
       "Time": "2023-05-04T22:24:56.7174148+00:00",
       "NumProgressed": 11014,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-04T23:05:05.0609458+00:00",
+      "NumProgressed": 11017,
       "NumCompleted": 23
     }
   ],
@@ -2452,18 +2457,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T22:39:46.378133+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:05:05.0609453+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 915,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11014,
-  "LastUpdate_Achievements": "2023-05-04T22:39:46.3781737+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:33:50.1907637+00:00",
+  "EOS_Progressed": 11017,
+  "LastUpdate_Achievements": "2023-05-04T23:05:05.0609632+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:59:23.6346859+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11014,
+      "Progressed": 11017,
       "Completed": 23
     }
   ],

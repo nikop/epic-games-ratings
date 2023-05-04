@@ -9,26 +9,26 @@ Diff (max vs sum): -4
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~534,585 |
-| Right Back At Ya | 37.00% | ~295,219 |
-| The Lovers | 32.00% | ~255,324 |
-| Stanislavski's Method | 27.00% | ~215,430 |
-| The Wheel of Fortune | 25.00% | ~199,472 |
-| The Hermit | 22.00% | ~175,535 |
-| True Soldier | 22.00% | ~175,535 |
-| Christmas Tree Attack | 21.00% | ~167,556 |
+| The Fool | 67.00% | ~534,587 |
+| Right Back At Ya | 37.00% | ~295,220 |
+| The Lovers | 32.00% | ~255,325 |
+| Stanislavski's Method | 27.00% | ~215,431 |
+| The Wheel of Fortune | 25.00% | ~199,473 |
+| The Hermit | 22.00% | ~175,536 |
+| True Soldier | 22.00% | ~175,536 |
+| Christmas Tree Attack | 21.00% | ~167,557 |
 | The High Priestess | 20.00% | ~159,578 |
 | Legend of The Afterlife | 20.00% | ~159,578 |
 | Life of the Road | 19.00% | ~151,599 |
 | Full Body Conversion | 17.00% | ~135,641 |
-| The World | 16.00% | ~127,662 |
-| Bushido and Chill | 15.00% | ~119,683 |
-| True Warrior | 14.00% | ~111,704 |
-| To Protect and Serve | 13.00% | ~103,725 |
-| Gun Fu | 13.00% | ~103,725 |
-| Master Crafter | 13.00% | ~103,725 |
-| I Am The Law | 13.00% | ~103,725 |
-| Judy vs Night City | 13.00% | ~103,725 |
+| The World | 16.00% | ~127,663 |
+| Bushido and Chill | 15.00% | ~119,684 |
+| True Warrior | 14.00% | ~111,705 |
+| To Protect and Serve | 13.00% | ~103,726 |
+| Gun Fu | 13.00% | ~103,726 |
+| Master Crafter | 13.00% | ~103,726 |
+| I Am The Law | 13.00% | ~103,726 |
+| Judy vs Night City | 13.00% | ~103,726 |
 | Two Heads, One Bullet | 11.00% | ~87,768 |
 | The Wandering Fool | 9.00% | ~71,810 |
 | The Quick and the Dead | 9.00% | ~71,810 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -4
 | Gunslinger | 1.00% | ~7,979 |
 | Rough Landing | 0.40% | ~3,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,888 (Ranked 10)  
+Progressed: 797,891 (Ranked 10)  
 Completed: 1,567 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 1,567 (0.20%) (Ranked 131)
 | 2023-05-01 | 797,331 | 1,554 |
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
-| 2023-05-04 | 797,888 | 1,567 |
+| 2023-05-04 | 797,891 | 1,567 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

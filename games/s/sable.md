@@ -19,11 +19,11 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 17.00% | ~9,485 |
 | Sticky Paws | 17.00% | ~9,485 |
 | Bubble Up | 17.00% | ~9,485 |
-| Thread The Needle | 16.00% | ~8,927 |
-| Power to the People | 15.00% | ~8,369 |
-| Take That! | 13.00% | ~7,253 |
-| Treasure Tracker | 13.00% | ~7,253 |
-| Big Spender | 13.00% | ~7,253 |
+| Thread The Needle | 16.00% | ~8,928 |
+| Power to the People | 15.00% | ~8,370 |
+| Take That! | 13.00% | ~7,254 |
+| Treasure Tracker | 13.00% | ~7,254 |
+| Big Spender | 13.00% | ~7,254 |
 | Nesting Giant | 12.00% | ~6,696 |
 | Badge Collector | 12.00% | ~6,696 |
 | Quite The Catch | 12.00% | ~6,696 |
@@ -62,7 +62,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~1,674 |
 | Vivacious Vivarium | 2.00% | ~1,116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,796 (Ranked 68)  
+Progressed: 55,797 (Ranked 68)  
 Completed: 508 (0.91%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 508 (0.91%) (Ranked 79)
 | 2023-05-01 | 55,022 | 500 |
 | 2023-05-02 | 55,289 | 506 |
 | 2023-05-03 | 55,526 | 506 |
-| 2023-05-04 | 55,796 | 508 |
+| 2023-05-04 | 55,797 | 508 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

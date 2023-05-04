@@ -528,7 +528,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_colonial_management",
@@ -624,7 +624,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -736,7 +736,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -1224,7 +1224,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -1504,7 +1504,7 @@
       "Name": "Market Control",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_marshy_march",
@@ -1944,7 +1944,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -2600,7 +2600,7 @@
       "Name": "True Catholic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -2672,7 +2672,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -4007,6 +4007,11 @@
     {
       "Time": "2023-05-04T22:39:19.8790313+00:00",
       "NumProgressed": 29411,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T23:04:38.3084909+00:00",
+      "NumProgressed": 29418,
       "NumCompleted": 0
     }
   ],
@@ -8349,24 +8354,24 @@
   ],
   "TotalAchievementsXP": 5175,
   "TotalAchievements": 354,
-  "LastChanged_Achievements": "2023-05-04T22:39:19.8790308+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:38.3084904+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6449,
+  "EOS_NewPlayers": 6456,
   "EOS_Completed": 0,
-  "EOS_Progressed": 29411,
-  "LastUpdate_Achievements": "2023-05-04T22:39:19.8802139+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:31:30.404063+00:00",
+  "EOS_Progressed": 29418,
+  "LastUpdate_Achievements": "2023-05-04T23:04:38.3094978+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:56:55.7604288+00:00",
   "AchievementSets": [
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 29411,
+      "Progressed": 29418,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 29411,
+      "Progressed": 29418,
       "Completed": 0
     }
   ],

@@ -15,8 +15,8 @@ Rating: 3.50 (Ranked 912)
 | Piano Man | 10.00% | ~5,392 |
 | Lazy Bones | 9.00% | ~4,853 |
 | Vinyl Vibes | 7.00% | ~3,775 |
-| Nothing Left to Say | 6.00% | ~3,235 |
-| Sniper | 6.00% | ~3,235 |
+| Nothing Left to Say | 6.00% | ~3,236 |
+| Sniper | 6.00% | ~3,236 |
 | Cut Call | 5.00% | ~2,696 |
 | Butcher | 4.00% | ~2,157 |
 | Magnetic Miracles | 4.00% | ~2,157 |
@@ -30,7 +30,7 @@ Rating: 3.50 (Ranked 912)
 | Audiophile | 2.00% | ~1,078 |
 | Tape Head | 1.00% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,924 (Ranked 71)  
+Progressed: 53,925 (Ranked 71)  
 Completed: 430 (0.80%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 430 (0.80%) (Ranked 86)
 | 2023-05-01 | 53,422 | 421 |
 | 2023-05-02 | 53,621 | 427 |
 | 2023-05-03 | 53,789 | 428 |
-| 2023-05-04 | 53,924 | 430 |
+| 2023-05-04 | 53,925 | 430 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

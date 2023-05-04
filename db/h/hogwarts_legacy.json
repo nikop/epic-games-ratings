@@ -120,7 +120,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "PFA_23",
@@ -152,7 +152,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "PFA_27",
@@ -248,7 +248,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "PFA_38",
@@ -280,7 +280,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "PFA_41",
@@ -304,7 +304,7 @@
       "Name": "Finishing Touches",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "PFA_44",
@@ -320,7 +320,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "PFA_5",
@@ -1501,6 +1501,11 @@
     {
       "Time": "2023-05-04T22:39:05.5485346+00:00",
       "NumProgressed": 265498,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-04T23:04:23.6851167+00:00",
+      "NumProgressed": 265501,
       "NumCompleted": 346
     }
   ],
@@ -3302,18 +3307,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T22:39:05.5485339+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:23.6851159+00:00",
   "EOS_NewCompleters": 12,
-  "EOS_NewPlayers": 1238,
+  "EOS_NewPlayers": 1241,
   "EOS_Completed": 346,
-  "EOS_Progressed": 265498,
-  "LastUpdate_Achievements": "2023-05-04T22:39:05.5485766+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:31:28.9140814+00:00",
+  "EOS_Progressed": 265501,
+  "LastUpdate_Achievements": "2023-05-04T23:04:23.68515+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:56:54.3036565+00:00",
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265498,
+      "Progressed": 265501,
       "Completed": 346
     }
   ],

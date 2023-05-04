@@ -37,7 +37,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has Competitive Players",
@@ -1275,6 +1275,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 645,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-05-04T22:58:53.4030508+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 82
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1283,15 +1289,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:38:21.1183185+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:33:21.2282322+00:00",
+  "LastUpdate_Achievements": "2023-05-04T23:03:37.8678689+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:58:53.4030512+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T01:56:16.2797651+00:00",
+  "LastChanged": "2023-05-04T22:58:53.4030507+00:00",
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 82,
-  "NumberOfAwards": 645,
+  "NumberOfAwards": 646,
   "NumberOfRatings": 1298,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,

@@ -10,11 +10,11 @@ Diff (max vs sum): 53
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A GUARDIAN FORGOTTEN | 67.00% | ~35,198 |
-| INFUSED WITH LIGHT | 53.00% | ~27,843 |
+| INFUSED WITH LIGHT | 53.00% | ~27,844 |
 | FOXIN' AROUND | 28.00% | ~14,710 |
 | FETCH | 27.00% | ~14,184 |
 | BLOOMS OF LIGHT | 26.00% | ~13,659 |
-| BEST FRIENDS | 22.00% | ~11,557 |
+| BEST FRIENDS | 22.00% | ~11,558 |
 | AWAKEN | 21.00% | ~11,032 |
 | ERADICATE | 20.00% | ~10,507 |
 | SPIRIT BARK | 20.00% | ~10,507 |
@@ -23,7 +23,7 @@ Diff (max vs sum): 53
 | WRITTEN IN STONE | 15.00% | ~7,880 |
 | UPROOTING DARKNESS | 14.00% | ~7,355 |
 | WEIGHTLESS | 11.00% | ~5,779 |
-| SPIRIT DASH | 10.00% | ~5,253 |
+| SPIRIT DASH | 10.00% | ~5,254 |
 | OLD COMPANION | 8.00% | ~4,203 |
 | PLAGUE DOCTOR | 8.00% | ~4,203 |
 | MATCH MAKER | 7.00% | ~3,677 |
@@ -34,7 +34,7 @@ Diff (max vs sum): 53
 | NONE FORGOTTEN | 2.00% | ~1,051 |
 | KINDRED SPIRITS | 0.50% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,534 (Ranked 72)  
+Progressed: 52,535 (Ranked 72)  
 Completed: 238 (0.45%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 238 (0.45%) (Ranked 101)
 | 2023-05-01 | 52,195 | 236 |
 | 2023-05-02 | 52,311 | 237 |
 | 2023-05-03 | 52,436 | 238 |
-| 2023-05-04 | 52,534 | 238 |
+| 2023-05-04 | 52,535 | 238 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

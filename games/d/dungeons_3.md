@@ -9,54 +9,54 @@ Diff (max vs sum): 52
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~10,270 |
-| The Evilest Evil | 60.00% | ~8,803 |
-| Twistram is devastated | 59.00% | ~8,656 |
-| The Gehenna Stones | 51.00% | ~7,483 |
-| No one has to die today! | 48.00% | ~7,043 |
-| The Swamplanders from the swamplands | 46.00% | ~6,749 |
-| Death and destruction! | 46.00% | ~6,749 |
-| The One-Huge-Army-Building Evil | 43.00% | ~6,309 |
-| Rusty Steel | 43.00% | ~6,309 |
-| The last burger | 40.00% | ~5,869 |
-| Braiiiiins! | 39.00% | ~5,722 |
-| Hands off the Dungeonheart! | 38.00% | ~5,575 |
+| The Shadow strikes | 70.00% | ~10,272 |
+| The Evilest Evil | 60.00% | ~8,804 |
+| Twistram is devastated | 59.00% | ~8,658 |
+| The Gehenna Stones | 51.00% | ~7,484 |
+| No one has to die today! | 48.00% | ~7,044 |
+| The Swamplanders from the swamplands | 46.00% | ~6,750 |
+| Death and destruction! | 46.00% | ~6,750 |
+| The One-Huge-Army-Building Evil | 43.00% | ~6,310 |
+| Rusty Steel | 43.00% | ~6,310 |
+| The last burger | 40.00% | ~5,870 |
+| Braiiiiins! | 39.00% | ~5,723 |
+| Hands off the Dungeonheart! | 38.00% | ~5,576 |
 | A trip on sea, what fun it can be | 37.00% | ~5,429 |
-| Damned good | 35.00% | ~5,135 |
-| Stock Market Crash | 34.00% | ~4,988 |
-| Factory farming | 34.00% | ~4,988 |
-| Not-So-Overproud | 32.00% | ~4,695 |
-| For a handfull of Catapults | 31.00% | ~4,548 |
+| Damned good | 35.00% | ~5,136 |
+| Stock Market Crash | 34.00% | ~4,989 |
+| Factory farming | 34.00% | ~4,989 |
+| Not-So-Overproud | 32.00% | ~4,696 |
+| For a handfull of Catapults | 31.00% | ~4,549 |
 | Thirst quencher | 30.00% | ~4,402 |
 | Ogre Solo! | 30.00% | ~4,402 |
 | Shadow hunter | 30.00% | ~4,402 |
-| Destroy the thing | 28.00% | ~4,108 |
-| Tide Master | 28.00% | ~4,108 |
-| Difficult family relationships | 27.00% | ~3,961 |
+| Destroy the thing | 28.00% | ~4,109 |
+| Tide Master | 28.00% | ~4,109 |
+| Difficult family relationships | 27.00% | ~3,962 |
 | MASS-O-BOT | 26.00% | ~3,815 |
 | Prepare the grave | 26.00% | ~3,815 |
 | Angel of Fire | 26.00% | ~3,815 |
 | Where there is Light, there is Shadow | 25.00% | ~3,668 |
-| At the foot of Mount Destiny | 24.00% | ~3,521 |
+| At the foot of Mount Destiny | 24.00% | ~3,522 |
 | The Force disturbed | 23.00% | ~3,375 |
 | The Victorious Evil | 22.00% | ~3,228 |
-| Chorus of damnation | 21.00% | ~3,081 |
-| We don’t have time! | 21.00% | ~3,081 |
+| Chorus of damnation | 21.00% | ~3,082 |
+| We don’t have time! | 21.00% | ~3,082 |
 | The Stones’ Power | 19.00% | ~2,788 |
 | Lifeguard | 19.00% | ~2,788 |
 | Flat as a pancake | 18.00% | ~2,641 |
-| Can’t stand the sight of Dark Elf blood | 17.00% | ~2,494 |
+| Can’t stand the sight of Dark Elf blood | 17.00% | ~2,495 |
 | This is fun, I’m going to keep doing this! | 14.00% | ~2,054 |
-| Then let them eat cake! | 13.00% | ~1,907 |
+| Then let them eat cake! | 13.00% | ~1,908 |
 | Please, no interruptions! | 11.00% | ~1,614 |
 | The White Knight | 10.00% | ~1,467 |
-| Use the terrain | 9.00% | ~1,320 |
-| Hearts of Iron | 9.00% | ~1,320 |
-| Master of Traps | 9.00% | ~1,320 |
-| Ignore The Level Designer’s Plan | 9.00% | ~1,320 |
-| Can’t stand to see an Ogre bleed | 9.00% | ~1,320 |
-| Lifesaver | 9.00% | ~1,320 |
-| Prison Break | 9.00% | ~1,320 |
+| Use the terrain | 9.00% | ~1,321 |
+| Hearts of Iron | 9.00% | ~1,321 |
+| Master of Traps | 9.00% | ~1,321 |
+| Ignore The Level Designer’s Plan | 9.00% | ~1,321 |
+| Can’t stand to see an Ogre bleed | 9.00% | ~1,321 |
+| Lifesaver | 9.00% | ~1,321 |
+| Prison Break | 9.00% | ~1,321 |
 | Hearts are trump | 8.00% | ~1,174 |
 | Spawner Killer | 7.00% | ~1,027 |
 | A little something extra | 7.00% | ~1,027 |
@@ -70,7 +70,7 @@ Diff (max vs sum): 52
 | Discoverer | 2.00% | ~293 |
 | Sacrifices! | 2.00% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,672 (Ranked 96)  
+Progressed: 14,674 (Ranked 96)  
 Completed: 140 (0.95%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 140 (0.95%) (Ranked 78)
 | 2023-05-01 | 14,317 | 137 |
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
-| 2023-05-04 | 14,672 | 140 |
+| 2023-05-04 | 14,674 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -262,9 +262,9 @@
       "ID": "AchievementItsNoCoincidence",
       "SetID": "76o014g",
       "Name": "It\u0027s no coincidence",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchievementJeweller_NAME",
@@ -858,13 +858,13 @@
   ],
   "TotalAchievementsXP": 1140,
   "TotalAchievements": 75,
-  "LastChanged_Achievements": "2023-05-04T22:39:15.7115165+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:34.0449677+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 697,
-  "LastUpdate_Achievements": "2023-05-04T22:39:15.7116183+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:31:36.9006987+00:00",
+  "LastUpdate_Achievements": "2023-05-04T23:04:34.0450311+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:57:03.2240417+00:00",
   "AchievementSets": [
     {
       "ID": "55bbbe2",

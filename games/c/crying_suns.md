@@ -15,7 +15,7 @@ Diff (max vs sum): -95
 | Second Coming | 33.00% | ~150,894 |
 | Jeef Skagg | 30.00% | ~137,176 |
 | Mother | 25.00% | ~114,314 |
-| In space, no one can hear you scream | 23.00% | ~105,168 |
+| In space, no one can hear you scream | 23.00% | ~105,169 |
 | Chapter I: Echoes | 22.00% | ~100,596 |
 | Excelsior Rule | 22.00% | ~100,596 |
 | Things persisted in not being what they seemed | 20.00% | ~91,451 |
@@ -25,7 +25,7 @@ Diff (max vs sum): -95
 | Pope Zenon | 15.00% | ~68,588 |
 | Tetsuo | 11.00% | ~50,298 |
 | Plan for the worst | 11.00% | ~50,298 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,725 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,726 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,580 |
 | Through the mirror | 8.00% | ~36,580 |
 | General Vivar | 8.00% | ~36,580 |
@@ -75,7 +75,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,254 (Ranked 27)  
+Progressed: 457,255 (Ranked 27)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-01 | 457,072 | 14 |
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
-| 2023-05-04 | 457,254 | 14 |
+| 2023-05-04 | 457,255 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

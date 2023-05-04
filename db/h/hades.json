@@ -16,7 +16,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101965
+      "UsersEstimate": 101966
     },
     {
       "ID": "AchBeatCharon",
@@ -72,7 +72,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 543815
+      "UsersEstimate": 543816
     },
     {
       "ID": "AchClearElysium",
@@ -96,7 +96,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122358
+      "UsersEstimate": 122359
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -104,7 +104,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 142751
+      "UsersEstimate": 142752
     },
     {
       "ID": "AchClearTartarus",
@@ -112,7 +112,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 604994
+      "UsersEstimate": 604995
     },
     {
       "ID": "AchCrushedThanatos",
@@ -136,7 +136,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 190335
+      "UsersEstimate": 190336
     },
     {
       "ID": "AchForgedBond",
@@ -144,7 +144,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 190335
+      "UsersEstimate": 190336
     },
     {
       "ID": "AchFoundAllSummons",
@@ -176,7 +176,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462243
+      "UsersEstimate": 462244
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -232,7 +232,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428254
+      "UsersEstimate": 428255
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -368,7 +368,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 482636
+      "UsersEstimate": 482637
     },
     {
       "ID": "AchWeaponClears",
@@ -1531,6 +1531,11 @@
     {
       "Time": "2023-05-04T22:39:14.2605793+00:00",
       "NumProgressed": 679769,
+      "NumCompleted": 6073
+    },
+    {
+      "Time": "2023-05-04T23:04:32.4595675+00:00",
+      "NumProgressed": 679770,
       "NumCompleted": 6073
     }
   ],
@@ -4314,18 +4319,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T22:39:14.2605788+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:32.4595667+00:00",
   "EOS_NewCompleters": 22,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 590,
   "EOS_Completed": 6073,
-  "EOS_Progressed": 679769,
-  "LastUpdate_Achievements": "2023-05-04T22:39:14.2606594+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:31:44.321992+00:00",
+  "EOS_Progressed": 679770,
+  "LastUpdate_Achievements": "2023-05-04T23:04:32.4596045+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:57:11.5824575+00:00",
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 679769,
+      "Progressed": 679770,
       "Completed": 6073
     }
   ],

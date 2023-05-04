@@ -15,19 +15,19 @@ Diff (max vs sum): 28
 | He's Sold! | 47.00% | ~215,783 |
 | I'm The Boss! | 41.00% | ~188,236 |
 | Hat-trick | 41.00% | ~188,236 |
-| Scoring Streak | 37.00% | ~169,871 |
-| Unbeatable! | 36.00% | ~165,280 |
-| Thumping | 36.00% | ~165,280 |
+| Scoring Streak | 37.00% | ~169,872 |
+| Unbeatable! | 36.00% | ~165,281 |
+| Thumping | 36.00% | ~165,281 |
 | Superb Dressing Room Atmosphere | 34.00% | ~156,098 |
 | Total Support | 32.00% | ~146,916 |
 | Record Signing | 31.00% | ~142,325 |
 | He's a Natural | 30.00% | ~137,734 |
 | Millionaire's Club | 30.00% | ~137,734 |
-| Team Performance | 29.00% | ~133,142 |
-| Parked The Bus | 28.00% | ~128,551 |
-| Shrewd Spender | 28.00% | ~128,551 |
-| Star Man | 28.00% | ~128,551 |
-| Attack! | 27.00% | ~123,960 |
+| Team Performance | 29.00% | ~133,143 |
+| Parked The Bus | 28.00% | ~128,552 |
+| Shrewd Spender | 28.00% | ~128,552 |
+| Star Man | 28.00% | ~128,552 |
+| Attack! | 27.00% | ~123,961 |
 | You're On Fire | 26.00% | ~119,369 |
 | Tremendous Trio | 26.00% | ~119,369 |
 | On A Roll | 25.00% | ~114,778 |
@@ -43,7 +43,7 @@ Diff (max vs sum): 28
 | Splashing The Cash | 21.00% | ~96,414 |
 | What A Goal! | 21.00% | ~96,414 |
 | Cup Glory! | 21.00% | ~96,414 |
-| Clean Bill of Health | 20.00% | ~91,822 |
+| Clean Bill of Health | 20.00% | ~91,823 |
 | Irresistible Force | 19.00% | ~87,231 |
 | Excellent Match Cohesion | 19.00% | ~87,231 |
 | Do The Double | 18.00% | ~82,640 |
@@ -55,7 +55,7 @@ Diff (max vs sum): 28
 | Eyes and Ears | 14.00% | ~64,276 |
 | Window Shopping | 14.00% | ~64,276 |
 | Comeback King! | 13.00% | ~59,685 |
-| You're Up! | 12.00% | ~55,093 |
+| You're Up! | 12.00% | ~55,094 |
 | Money, Money, Money | 11.00% | ~50,502 |
 | Invincible! | 10.00% | ~45,911 |
 | Best In The World | 10.00% | ~45,911 |
@@ -72,7 +72,7 @@ Diff (max vs sum): 28
 | Legend | 5.00% | ~22,956 |
 | Win the Club World Cup | 5.00% | ~22,956 |
 | We Trust You | 5.00% | ~22,956 |
-| Going Places | 4.00% | ~18,364 |
+| Going Places | 4.00% | ~18,365 |
 | National Hero | 3.00% | ~13,773 |
 | Golden Boot | 3.00% | ~13,773 |
 | Trophy Hoarder | 3.00% | ~13,773 |
@@ -108,7 +108,7 @@ Diff (max vs sum): 28
 | Draft Value | 0.10% | ~459 |
 | Shoestring Budget | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,112 (Ranked 26)  
+Progressed: 459,113 (Ranked 26)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-01 | 458,843 | 18 |
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
-| 2023-05-04 | 459,112 | 18 |
+| 2023-05-04 | 459,113 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

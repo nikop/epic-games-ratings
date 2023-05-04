@@ -24,7 +24,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119683
+      "UsersEstimate": 119684
     },
     {
       "ID": "Cyberjunkie",
@@ -40,7 +40,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295219
+      "UsersEstimate": 295220
     },
     {
       "ID": "FollowingTheRiver",
@@ -48,7 +48,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103725
+      "UsersEstimate": 103726
     },
     {
       "ID": "Fortuneteller",
@@ -80,7 +80,7 @@
       "Name": "Gun Fu",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103725
+      "UsersEstimate": 103726
     },
     {
       "ID": "Gunslinger",
@@ -96,7 +96,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103725
+      "UsersEstimate": 103726
     },
     {
       "ID": "IAmMaxTac",
@@ -104,7 +104,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 103725
+      "UsersEstimate": 103726
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -128,7 +128,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167556
+      "UsersEstimate": 167557
     },
     {
       "ID": "MaxPain",
@@ -184,7 +184,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215430
+      "UsersEstimate": 215431
     },
     {
       "ID": "Specialist",
@@ -224,7 +224,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 534585
+      "UsersEstimate": 534587
     },
     {
       "ID": "TheHermit",
@@ -232,7 +232,7 @@
       "Name": "The Hermit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175535
+      "UsersEstimate": 175536
     },
     {
       "ID": "TheHightPriestess",
@@ -248,7 +248,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255324
+      "UsersEstimate": 255325
     },
     {
       "ID": "TheStar",
@@ -272,7 +272,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199472
+      "UsersEstimate": 199473
     },
     {
       "ID": "TheWorld",
@@ -280,7 +280,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127662
+      "UsersEstimate": 127663
     },
     {
       "ID": "ThisIsPacifica",
@@ -304,7 +304,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175535
+      "UsersEstimate": 175536
     },
     {
       "ID": "TrueWarrior",
@@ -312,7 +312,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111704
+      "UsersEstimate": 111705
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -328,7 +328,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103725
+      "UsersEstimate": 103726
     },
     {
       "ID": "VForVendetta",
@@ -1513,6 +1513,11 @@
     {
       "Time": "2023-05-04T22:39:03.9516119+00:00",
       "NumProgressed": 797888,
+      "NumCompleted": 1567
+    },
+    {
+      "Time": "2023-05-04T23:04:22.0360232+00:00",
+      "NumProgressed": 797891,
       "NumCompleted": 1567
     }
   ],
@@ -6748,18 +6753,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-04T22:39:03.9516113+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:22.0360227+00:00",
   "EOS_NewCompleters": 25,
-  "EOS_NewPlayers": 1731,
+  "EOS_NewPlayers": 1734,
   "EOS_Completed": 1567,
-  "EOS_Progressed": 797888,
-  "LastUpdate_Achievements": "2023-05-04T22:39:03.9516577+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:31:50.1268338+00:00",
+  "EOS_Progressed": 797891,
+  "LastUpdate_Achievements": "2023-05-04T23:04:22.0360563+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:57:18.0204648+00:00",
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 797888,
+      "Progressed": 797891,
       "Completed": 1567
     }
   ],

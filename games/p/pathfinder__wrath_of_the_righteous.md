@@ -21,17 +21,17 @@ Diff (max vs sum): 3
 | Path of the Angel | 3.00% | ~259 |
 | Great Upstart | 3.00% | ~259 |
 | Demonic and Divine | 3.00% | ~259 |
-| Path of the Azata | 2.00% | ~172 |
-| Transformation | 2.00% | ~172 |
-| The Legacy | 2.00% | ~172 |
-| Divide and Rule | 2.00% | ~172 |
-| Mythic Reinforcements | 2.00% | ~172 |
-| Voice from Your Dreams | 2.00% | ~172 |
-| All Paths Open | 2.00% | ~172 |
-| A Flame | 2.00% | ~172 |
-| Hey, I Know You! | 2.00% | ~172 |
-| Next-Door Play | 2.00% | ~172 |
-| Get the Toad | 2.00% | ~172 |
+| Path of the Azata | 2.00% | ~173 |
+| Transformation | 2.00% | ~173 |
+| The Legacy | 2.00% | ~173 |
+| Divide and Rule | 2.00% | ~173 |
+| Mythic Reinforcements | 2.00% | ~173 |
+| Voice from Your Dreams | 2.00% | ~173 |
+| All Paths Open | 2.00% | ~173 |
+| A Flame | 2.00% | ~173 |
+| Hey, I Know You! | 2.00% | ~173 |
+| Next-Door Play | 2.00% | ~173 |
+| Get the Toad | 2.00% | ~173 |
 | The Lady of the Forest | 2.00% | ~148 |
 | Beware Still Water | 2.00% | ~148 |
 | Heart of the Fallen Land | 1.00% | ~86 |
@@ -55,9 +55,9 @@ Diff (max vs sum): 3
 | Path of the Legend | 0.50% | ~43 |
 | Playful Mood | 0.50% | ~43 |
 | Not the Last Sarkorian | 0.50% | ~37 |
-| Strategic Victory | 0.40% | ~34 |
-| Dreadful Dragon | 0.40% | ~34 |
-| Truly Profane Gift | 0.40% | ~34 |
+| Strategic Victory | 0.40% | ~35 |
+| Dreadful Dragon | 0.40% | ~35 |
+| Truly Profane Gift | 0.40% | ~35 |
 | Masterful Charge | 0.30% | ~26 |
 | Prelate's Nemesis | 0.20% | ~17 |
 | Just Pathetic | 0.20% | ~17 |
@@ -126,7 +126,7 @@ Diff (max vs sum): 3
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,625 (Ranked 107)  
+Progressed: 8,627 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 8,578 | 0 |
 | 2023-05-02 | 8,584 | 0 |
 | 2023-05-03 | 8,607 | 0 |
-| 2023-05-04 | 8,625 | 0 |
+| 2023-05-04 | 8,627 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

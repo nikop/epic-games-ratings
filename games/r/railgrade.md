@@ -8,31 +8,31 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,862 |
-| Before the Downfall | 93.00% | ~16,951 |
+| Trevithick's Legacy | 98.00% | ~17,863 |
+| Before the Downfall | 93.00% | ~16,952 |
 | Money like Water | 91.00% | ~16,587 |
-| Minimalist | 90.00% | ~16,404 |
-| Builder | 83.00% | ~15,128 |
-| Eraser | 70.00% | ~12,759 |
+| Minimalist | 90.00% | ~16,405 |
+| Builder | 83.00% | ~15,129 |
+| Eraser | 70.00% | ~12,760 |
 | Pocket of Trains | 65.00% | ~11,848 |
 | Inspector | 58.00% | ~10,572 |
 | Going the Distance | 54.00% | ~9,843 |
-| Oil Baron | 42.00% | ~7,655 |
-| Loads-a-Money | 42.00% | ~7,655 |
+| Oil Baron | 42.00% | ~7,656 |
+| Loads-a-Money | 42.00% | ~7,656 |
 | Helper of the People | 39.00% | ~7,109 |
 | Simplification | 33.00% | ~6,015 |
 | Box of Trains | 33.00% | ~6,015 |
 | Let There be Light | 32.00% | ~5,833 |
 | Hot Water | 30.00% | ~5,468 |
 | Indecisive | 29.00% | ~5,286 |
-| The scenic route | 27.00% | ~4,921 |
+| The scenic route | 27.00% | ~4,922 |
 | Industrialist | 25.00% | ~4,557 |
 | Perfectionist | 23.00% | ~4,192 |
 | 8K is Enough for Everyone | 22.00% | ~4,010 |
 | Trains over Pipes | 22.00% | ~4,010 |
 | Man of Steel | 16.00% | ~2,916 |
 | Room Full of Trains | 12.00% | ~2,187 |
-| Investor | 9.00% | ~1,640 |
+| Investor | 9.00% | ~1,641 |
 | Multiverse | 7.00% | ~1,276 |
 | The poor groundwater levels | 7.00% | ~1,276 |
 | Metropolis | 7.00% | ~1,276 |
@@ -46,7 +46,7 @@ Diff (max vs sum): 69
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,227 (Ranked 93)  
+Progressed: 18,228 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 28 (0.15%) (Ranked 138)
 | 2023-05-01 | 18,159 | 27 |
 | 2023-05-02 | 18,161 | 27 |
 | 2023-05-03 | 18,182 | 28 |
-| 2023-05-04 | 18,227 | 28 |
+| 2023-05-04 | 18,228 | 28 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

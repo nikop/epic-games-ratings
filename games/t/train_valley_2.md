@@ -76,12 +76,12 @@ Diff (max vs sum): -55
 | Arcturus | 0.10% | ~0 |
 | Astrophysicist | 0.10% | ~1 |
 | Highlander | 0.10% | ~1 |
+| It's no coincidence | 0.10% | ~1 |
 | Metro builder | 0.10% | ~1 |
 | The Hare | 0.10% | ~1 |
 | Urbanization Age | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
-| It's no coincidence | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 | The Hare with an espresso | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

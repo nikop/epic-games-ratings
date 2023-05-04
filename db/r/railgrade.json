@@ -40,7 +40,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15128
+      "UsersEstimate": 15129
     },
     {
       "ID": "ach.060.goingdistance",
@@ -64,7 +64,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     },
     {
       "ID": "ach.090.perfectionist",
@@ -104,7 +104,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16404
+      "UsersEstimate": 16405
     },
     {
       "ID": "ach.140.legacy",
@@ -112,7 +112,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 17862
+      "UsersEstimate": 17863
     },
     {
       "ID": "ach.150.pocket",
@@ -152,7 +152,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "ach.200.light",
@@ -168,7 +168,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7655
+      "UsersEstimate": 7656
     },
     {
       "ID": "ach.220.hot",
@@ -192,7 +192,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7655
+      "UsersEstimate": 7656
     },
     {
       "ID": "ach.250.downfall",
@@ -200,7 +200,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach.260.investor",
@@ -208,7 +208,7 @@
       "Name": "Investor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ach.270.groundwater",
@@ -661,6 +661,11 @@
       "Time": "2023-05-04T19:04:22.8476478+00:00",
       "NumProgressed": 18227,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-04T23:04:52.369784+00:00",
+      "NumProgressed": 18228,
+      "NumCompleted": 28
     }
   ],
   "RatingHistory": [
@@ -979,18 +984,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-04T22:39:33.9447557+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:52.3697835+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_Completed": 28,
-  "EOS_Progressed": 18227,
-  "LastUpdate_Achievements": "2023-05-04T22:39:33.9447798+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:33:07.3379567+00:00",
+  "EOS_Progressed": 18228,
+  "LastUpdate_Achievements": "2023-05-04T23:04:52.3698095+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:58:38.8920727+00:00",
   "AchievementSets": [
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18227,
+      "Progressed": 18228,
       "Completed": 28
     }
   ],

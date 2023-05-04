@@ -8,28 +8,28 @@ Diff (max vs sum): -91
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 10.00% | ~40,025 |
-| 50 HEADSHOTS | 9.00% | ~36,022 |
+| 100 KILLS | 10.00% | ~40,026 |
+| 50 HEADSHOTS | 9.00% | ~36,023 |
 | FINISHED CHAPTER 1 | 7.00% | ~28,018 |
 | SCIENCE AND INDUSTRY | 7.00% | ~28,018 |
 | 200 HEADSHOTS | 6.00% | ~24,015 |
-| FINISHED CHAPTER 2 | 5.00% | ~20,012 |
+| FINISHED CHAPTER 2 | 5.00% | ~20,013 |
 | FINISHED CHAPTER 3 | 4.00% | ~16,010 |
 | FINISHED CHAPTER 4 | 4.00% | ~16,010 |
 | 1000 KILLS | 3.00% | ~12,008 |
 | FINISH CHAPTER 5 | 3.00% | ~12,008 |
 | FINISH CHAPTER 6 | 3.00% | ~12,008 |
 | CATHARTIC ESCAPISM | 3.00% | ~12,008 |
-| FIREFIGHT LEVEL 10 | 1.00% | ~4,002 |
+| FIREFIGHT LEVEL 10 | 1.00% | ~4,003 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,402 |
 | FIRST BLOOD | 0.50% | ~2,001 |
 | FIREFIGHT LEVEL 30 | 0.30% | ~1,201 |
 | PACEMAKER | 0.30% | ~1,201 |
 | TIME PARADOX | 0.30% | ~1,201 |
-| FIREFIGHT LEVEL 40 | 0.20% | ~800 |
-| NEW GAME PLUS | 0.20% | ~800 |
-| OUT OF ORDER | 0.20% | ~800 |
-| PARTYHARD | 0.20% | ~800 |
+| FIREFIGHT LEVEL 40 | 0.20% | ~801 |
+| NEW GAME PLUS | 0.20% | ~801 |
+| OUT OF ORDER | 0.20% | ~801 |
+| PARTYHARD | 0.20% | ~801 |
 | HEY THATS CHEATING | 0.10% | ~400 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~400 |
 | BUT WHY? | 0.10% | ~400 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -91
 | THE GAMBLER | 0.10% | ~400 |
 | WARRIOR IN A GARDEN | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,250 (Ranked 31)  
+Progressed: 400,257 (Ranked 31)  
 Completed: 29 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 29 (0.01%) (Ranked 184)
 | 2023-05-01 | 399,255 | 29 |
 | 2023-05-02 | 399,596 | 29 |
 | 2023-05-03 | 399,931 | 29 |
-| 2023-05-04 | 400,250 | 29 |
+| 2023-05-04 | 400,257 | 29 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

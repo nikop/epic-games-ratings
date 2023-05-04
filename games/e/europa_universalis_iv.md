@@ -9,7 +9,7 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,647 |
+| Until death do us apart | 9.00% | ~2,648 |
 | That's a Grand Army | 8.00% | ~2,353 |
 | That is mine! | 8.00% | ~2,353 |
 | Victorious! | 8.00% | ~2,353 |
@@ -17,11 +17,11 @@ Diff (max vs sum): 34
 | That's a Grand Navy | 6.00% | ~1,765 |
 | Seriously?! | 6.00% | ~1,765 |
 | For the Glory | 5.00% | ~1,471 |
-| Cold War | 4.00% | ~1,176 |
-| Defender of the Faith | 3.00% | ~882 |
-| It's all about the money | 3.00% | ~882 |
-| Respected | 3.00% | ~882 |
-| True Catholic | 3.00% | ~882 |
+| Cold War | 4.00% | ~1,177 |
+| Defender of the Faith | 3.00% | ~883 |
+| It's all about the money | 3.00% | ~883 |
+| Respected | 3.00% | ~883 |
+| True Catholic | 3.00% | ~883 |
 | Blockader | 2.00% | ~588 |
 | Combined Arms | 2.00% | ~588 |
 | Double the Love | 2.00% | ~588 |
@@ -42,8 +42,8 @@ Diff (max vs sum): 34
 | City of Cities | 0.90% | ~265 |
 | Isn't this the way to India? | 0.70% | ~206 |
 | The Five Colonies | 0.70% | ~206 |
-| The Emperors new clothes | 0.60% | ~176 |
-| Market Control | 0.60% | ~176 |
+| The Emperors new clothes | 0.60% | ~177 |
+| Market Control | 0.60% | ~177 |
 | Down Under | 0.50% | ~147 |
 | Electable! | 0.50% | ~147 |
 | This navy can take it all | 0.50% | ~147 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,411 (Ranked 82)  
+Progressed: 29,418 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 27,408 | 0 |
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
-| 2023-05-04 | 29,411 | 0 |
+| 2023-05-04 | 29,418 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

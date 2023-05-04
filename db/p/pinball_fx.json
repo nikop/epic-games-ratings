@@ -56,7 +56,7 @@
       "Name": "Contender",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25366
+      "UsersEstimate": 25367
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -152,7 +152,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -168,7 +168,7 @@
       "Name": "I Found it!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12683
+      "UsersEstimate": 12684
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -216,7 +216,7 @@
       "Name": "Dress Code",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8455
+      "UsersEstimate": 8456
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -232,7 +232,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 171223
+      "UsersEstimate": 171228
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -240,7 +240,7 @@
       "Name": "I know the Rules",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 95124
+      "UsersEstimate": 95127
     }
   ],
   "Tags": [
@@ -1432,6 +1432,11 @@
     {
       "Time": "2023-05-04T22:39:29.0652243+00:00",
       "NumProgressed": 211387,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T23:04:47.2901613+00:00",
+      "NumProgressed": 211393,
       "NumCompleted": 0
     }
   ],
@@ -2774,18 +2779,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:39:29.0652238+00:00",
+  "LastChanged_Achievements": "2023-05-04T23:04:47.2901609+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2843,
+  "EOS_NewPlayers": 2849,
   "EOS_Completed": 0,
-  "EOS_Progressed": 211387,
-  "LastUpdate_Achievements": "2023-05-04T22:39:29.0652528+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:32:53.0938828+00:00",
+  "EOS_Progressed": 211393,
+  "LastUpdate_Achievements": "2023-05-04T23:04:47.2901833+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:58:22.0467464+00:00",
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 211387,
+      "Progressed": 211393,
       "Completed": 0
     }
   ],

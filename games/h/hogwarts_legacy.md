@@ -45,16 +45,16 @@ Diff (max vs sum): -16
 | The Auror's Apprentice | 1.00% | ~2,655 |
 | Rise to the Challenges | 1.00% | ~2,655 |
 | The Wise Owl | 1.00% | ~2,655 |
-| Finishing Touches | 0.90% | ~2,389 |
-| Demiguise Dread | 0.70% | ~1,858 |
-| A Forte for Achievement | 0.70% | ~1,858 |
+| Finishing Touches | 0.90% | ~2,390 |
+| Demiguise Dread | 0.70% | ~1,859 |
+| A Forte for Achievement | 0.70% | ~1,859 |
 | Savvy Spender | 0.60% | ~1,593 |
-| Merlin's Beard! | 0.50% | ~1,327 |
+| Merlin's Beard! | 0.50% | ~1,328 |
 | Spilled Milk | 0.40% | ~1,062 |
-| The Nature of the Beast | 0.30% | ~796 |
-| Collector's Edition | 0.10% | ~265 |
+| The Nature of the Beast | 0.30% | ~797 |
+| Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,498 (Ranked 38)  
+Progressed: 265,501 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-01 | 265,089 | 341 |
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
-| 2023-05-04 | 265,498 | 346 |
+| 2023-05-04 | 265,501 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
