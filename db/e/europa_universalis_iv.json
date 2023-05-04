@@ -1084,6 +1084,11 @@
       "Time": "2023-05-04T07:03:32.2251824+00:00",
       "NumProgressed": 28893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T08:03:38.2200602+00:00",
+      "NumProgressed": 28910,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -5397,10 +5402,10 @@
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6695,
   "EOS_Completed": 0,
-  "EOS_Progressed": 28893,
-  "LastUpdate_Achievements": "2023-05-04T07:03:32.2251937+00:00",
-  "LastUpdate_Ratings": "2023-05-04T06:57:10.0208317+00:00",
-  "LastChanged_Achievements": "2023-05-04T07:03:32.2251818+00:00",
+  "EOS_Progressed": 28910,
+  "LastUpdate_Achievements": "2023-05-04T08:03:38.2200721+00:00",
+  "LastUpdate_Ratings": "2023-05-04T07:57:12.825638+00:00",
+  "LastChanged_Achievements": "2023-05-04T08:03:38.2200595+00:00",
   "LastChanged": "2023-05-04T05:57:12.1591648+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "MaxAwardTitle": "Educational",
@@ -5408,7 +5413,7 @@
   "NumberOfAwards": 42657,
   "NumberOfRatings": 8414,
   "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 82,
   "Ranking_PopularitySum": 26,

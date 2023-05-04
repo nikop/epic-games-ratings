@@ -87,7 +87,7 @@
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,029 | 4.57 | 428 |
 | 86 | [Hades](games/h/hades.md) | 3,025 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,002 | 4.68 | 233 |
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,586 | 4.77 | 103 |
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,595 | 4.77 | 103 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,525 | 4.67 | 255 |
 | 90 | [Path of Exile](games/p/path_of_exile.md) | 2,459 | 4.61 | 353 |
 | 91 | [Rage 2](games/r/rage_2.md) | 2,435 | 4.28 | 764 |
@@ -276,8 +276,8 @@
 | 274 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 169 | 4.30 | 750 |
 | 275 | [Severed Steel](games/s/severed_steel.md) | 167 | 4.68 | 233 |
 | 276 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 164 | 4.65 | 290 |
-| 277 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 688 |
-| 277 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 688 |
+| 277 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 687 |
+| 277 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 687 |
 | 279 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 78 |
 | 280 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 154 | 4.57 | 428 |
 | 281 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 151 | 4.65 | 290 |
@@ -290,29 +290,29 @@
 | 288 | [Fort Triumph](games/f/fort_triumph.md) | 137 | 4.08 | 860 |
 | 289 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 133 | 4.57 | 428 |
 | 290 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 513 |
-| 291 | [Alien: Isolation ](games/a/alien__isolation.md) | 128 | 4.61 | 353 |
-| 291 | [Atomicrops](games/a/atomicrops.md) | 128 | 4.88 | 18 |
-| 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 128 | 4.29 | 757 |
-| 294 | [shapez](games/s/shapez.md) | 127 | 4.71 | 178 |
-| 295 | [Star Stable Online](games/s/star_stable_online.md) | 126 | 4.41 | 652 |
-| 296 | [Encased](games/e/encased.md) | 125 | 4.35 | 713 |
-| 297 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.28 | 764 |
-| 298 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 801 |
-| 299 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 801 |
-| 299 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.53 | 488 |
-| 301 | [Going Medieval](games/g/going_medieval.md) | 118 | 4.60 | 379 |
-| 301 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 118 | 4.82 | 60 |
-| 303 | [Timberborn](games/t/timberborn.md) | 117 | 4.72 | 166 |
-| 304 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 91 |
-| 304 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 428 |
-| 306 | [BIOMUTANT](games/b/biomutant.md) | 114 | 4.33 | 730 |
-| 306 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 312 |
-| 306 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 114 | 4.71 | 178 |
-| 309 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 600 |
-| 310 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 255 |
-| 311 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 108 | 4.86 | 28 |
-| 312 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 590 |
-| 313 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 105 | 4.39 | 679 |
+| 291 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 130 | 4.38 | 687 |
+| 292 | [Alien: Isolation ](games/a/alien__isolation.md) | 128 | 4.61 | 353 |
+| 292 | [Atomicrops](games/a/atomicrops.md) | 128 | 4.88 | 18 |
+| 292 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 128 | 4.29 | 757 |
+| 295 | [shapez](games/s/shapez.md) | 127 | 4.71 | 178 |
+| 296 | [Star Stable Online](games/s/star_stable_online.md) | 126 | 4.41 | 652 |
+| 297 | [Encased](games/e/encased.md) | 125 | 4.35 | 713 |
+| 298 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.28 | 764 |
+| 299 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 801 |
+| 300 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 801 |
+| 300 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.53 | 488 |
+| 302 | [Going Medieval](games/g/going_medieval.md) | 118 | 4.60 | 379 |
+| 302 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 118 | 4.82 | 60 |
+| 304 | [Timberborn](games/t/timberborn.md) | 117 | 4.72 | 166 |
+| 305 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 91 |
+| 305 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 428 |
+| 307 | [BIOMUTANT](games/b/biomutant.md) | 114 | 4.33 | 730 |
+| 307 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 312 |
+| 307 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 114 | 4.71 | 178 |
+| 310 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 600 |
+| 311 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 255 |
+| 312 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 108 | 4.86 | 28 |
+| 313 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 590 |
 | 314 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 104 | 4.49 | 547 |
 | 314 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 104 | 4.51 | 513 |
 | 314 | [Tropico 6](games/t/tropico_6.md) | 104 | 4.67 | 255 |
@@ -358,8 +358,8 @@
 | 355 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 652 |
 | 355 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 72 | 4.62 | 336 |
 | 358 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 71 | 4.33 | 730 |
-| 359 | [Barony](games/b/barony.md) | 70 | 4.71 | 178 |
-| 359 | [Train Valley 2](games/t/train_valley_2.md) | 70 | 4.15 | 837 |
+| 358 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 837 |
+| 360 | [Barony](games/b/barony.md) | 70 | 4.71 | 178 |
 | 361 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 233 |
 | 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 447 |
 | 361 | [Predecessor](games/p/predecessor.md) | 69 | 4.44 | 620 |
