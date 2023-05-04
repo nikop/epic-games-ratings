@@ -42,7 +42,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1098
+      "Count": 1100
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3831,6 +3831,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 9271,
       "NumberOfAwardsMax": 1133
+    },
+    {
+      "Time": "2023-05-04T13:03:56.6856391+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9273,
+      "NumberOfAwardsMax": 1133
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3838,12 +3844,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T12:01:02.9659435+00:00",
-  "LastUpdate_Ratings": "2023-05-04T11:58:09.9467475+00:00",
-  "LastChanged": "2023-05-04T02:57:50.2611476+00:00",
+  "LastUpdate_Achievements": "2023-05-04T13:06:31.893744+00:00",
+  "LastUpdate_Ratings": "2023-05-04T13:03:56.6856396+00:00",
+  "LastChanged": "2023-05-04T13:03:56.6856384+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1133,
-  "NumberOfAwards": 9271,
+  "NumberOfAwards": 9273,
   "NumberOfRatings": 7396,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 274,

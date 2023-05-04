@@ -3184,8 +3184,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T12:04:29.1570551+00:00",
-  "LastUpdate_Ratings": "2023-05-04T11:59:15.0126249+00:00",
+  "LastUpdate_Achievements": "2023-05-04T13:10:12.8959086+00:00",
+  "LastUpdate_Ratings": "2023-05-04T13:04:54.5350098+00:00",
   "LastChanged": "2023-05-04T03:59:05.7453591+00:00",
   "MaxAwardTitle": "Amazing Characters",
   "NumberOfAwardsMax": 482,
@@ -3197,7 +3197,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 135,
   "Ranking_Popularity": 185,
-  "Ranking_Rating": 60,
+  "Ranking_Rating": 59,
   "Rating": 4.82,
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00"
 }

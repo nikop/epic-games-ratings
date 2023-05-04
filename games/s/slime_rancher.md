@@ -1,5 +1,5 @@
 # Slime Rancher
-Rating: 4.83 (Ranked 55)  
+Rating: 4.82 (Ranked 59)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 387  (Ranked 201)  
@@ -108,3 +108,4 @@ Diff (max vs sum): 54
 | 2023-04-30 | 4.83 | - | 386 | 3,013 |
 | 2023-05-02 | 4.83 | - | 386 | 3,017 |
 | 2023-05-03 | 4.83 | - | 387 | 3,020 |
+| 2023-05-04 | 4.82 | - | 387 | 3,020 |

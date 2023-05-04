@@ -23,7 +23,7 @@
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 5.23% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 5.13% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
@@ -61,8 +61,8 @@
 | 59 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 60 | [Night Book](games/n/night_book.md) | 1.68% |
 | 61 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
-| 62 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.64% |
-| 63 | [Somerville](games/s/somerville.md) | 1.61% |
+| 62 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
+| 62 | [Somerville](games/s/somerville.md) | 1.61% |
 | 64 | [Frogun](games/f/frogun.md) | 1.56% |
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
