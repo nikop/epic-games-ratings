@@ -3,8 +3,8 @@ Rating: 4.66 (Ranked 272)
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 1,033  (Ranked 131)  
-Sum: 7,723 (Ranked 92)  
-Diff (max vs sum): 39  
+Sum: 7,723 (Ranked 93)  
+Diff (max vs sum): 38  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -61,7 +61,7 @@ Diff (max vs sum): 39
 | Stop it | 0.10 |
 | Treat yourself - GPU | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,602 (Ranked 3)  
+Progressed: 3,493,621 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,492,457 | 21 |
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
-| 2023-05-04 | 3,493,602 | 22 |
+| 2023-05-04 | 3,493,621 | 22 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

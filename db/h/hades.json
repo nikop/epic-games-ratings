@@ -351,7 +351,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3025
+      "Count": 3029
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1462,6 +1462,11 @@
     {
       "Time": "2023-05-04T19:02:26.8730295+00:00",
       "NumProgressed": 679761,
+      "NumCompleted": 6073
+    },
+    {
+      "Time": "2023-05-04T21:05:30.7298439+00:00",
+      "NumProgressed": 679763,
       "NumCompleted": 6073
     }
   ],
@@ -4235,38 +4240,44 @@
       "Rating": 4.92,
       "NumberOfAwards": 7389,
       "NumberOfAwardsMax": 3025
+    },
+    {
+      "Time": "2023-05-04T20:57:30.9643619+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7393,
+      "NumberOfAwardsMax": 3029
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T20:05:29.0685906+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:30.7298434+00:00",
   "EOS_NewCompleters": 22,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 590,
   "EOS_Completed": 6073,
-  "EOS_Progressed": 679761,
-  "LastUpdate_Achievements": "2023-05-04T20:05:29.0686405+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:57:33.9616057+00:00",
+  "EOS_Progressed": 679763,
+  "LastUpdate_Achievements": "2023-05-04T21:05:30.7298799+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:57:30.9643626+00:00",
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 679761,
+      "Progressed": 679763,
       "Completed": 6073
     }
   ],
   "EOS_Completed_Percentage": 0.89,
-  "LastChanged": "2023-05-04T04:57:17.3982448+00:00",
+  "LastChanged": "2023-05-04T20:57:30.9643615+00:00",
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 3025,
-  "NumberOfAwards": 7389,
+  "NumberOfAwardsMax": 3029,
+  "NumberOfAwards": 7393,
   "NumberOfRatings": 6336,
   "Ranking_EOS_NewCompleters": 10,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_Progress": 16,
-  "Ranking_PopularitySum": 96,
-  "Ranking_Popularity": 86,
+  "Ranking_PopularitySum": 97,
+  "Ranking_Popularity": 85,
   "Ranking_Rating": 3,
   "Rating": 4.92,
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00"

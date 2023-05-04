@@ -244,7 +244,7 @@
       "ID": "ACH_TRADEISMYTRAIT",
       "SetID": "1p8ab95",
       "Name": "Trade Is My Trait",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15
     },
     {
@@ -930,6 +930,11 @@
     {
       "Time": "2023-05-04T18:05:32.5987705+00:00",
       "NumProgressed": 2652,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T21:06:10.2484895+00:00",
+      "NumProgressed": 2654,
       "NumCompleted": 1
     }
   ],
@@ -1678,18 +1683,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T20:06:09.5502594+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:06:10.2484893+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 146,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2652,
-  "LastUpdate_Achievements": "2023-05-04T20:06:09.5503167+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:00:18.2327285+00:00",
+  "EOS_Progressed": 2654,
+  "LastUpdate_Achievements": "2023-05-04T21:06:10.2485142+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:00:08.6650741+00:00",
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2652,
+      "Progressed": 2654,
       "Completed": 1
     }
   ],
@@ -1701,7 +1706,7 @@
   "NumberOfAwards": 747,
   "NumberOfRatings": 398,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 132,
   "Ranking_PopularitySum": 253,

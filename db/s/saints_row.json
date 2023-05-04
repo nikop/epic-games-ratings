@@ -132,7 +132,7 @@
       "ID": "defeat_the_collective",
       "SetID": "3ib2d0i",
       "Name": "Chaos Tamer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25
     },
     {
@@ -1494,6 +1494,11 @@
     {
       "Time": "2023-05-04T20:05:25.2648463+00:00",
       "NumProgressed": 21865,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T21:05:27.1151551+00:00",
+      "NumProgressed": 21882,
       "NumCompleted": 1
     }
   ],
@@ -3504,18 +3509,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T20:05:25.2648458+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:27.1151545+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2717,
+  "EOS_NewPlayers": 2712,
   "EOS_Completed": 1,
-  "EOS_Progressed": 21865,
-  "LastUpdate_Achievements": "2023-05-04T20:05:25.2648929+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:40.378135+00:00",
+  "EOS_Progressed": 21882,
+  "LastUpdate_Achievements": "2023-05-04T21:05:27.1151929+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:29.6696274+00:00",
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 21865,
+      "Progressed": 21882,
       "Completed": 1
     }
   ],

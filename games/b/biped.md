@@ -3,7 +3,7 @@
 | Name | Percentage |
 | ---- | ---------- |
 | First Step | 47.00 |
-| Dense Forest | 38.00 |
+| Dense Forest | 39.00 |
 | Cactus Vally | 29.00 |
 | Rainy Ruins | 17.00 |
 | Telepathic | 12.00 |
@@ -18,7 +18,7 @@
 | Trend hunters | 0.00 |
 | Master biped | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,006 (Ranked 160)  
+Progressed: 1,007 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -32,7 +32,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 942 | 0 |
 | 2023-05-02 | 963 | 0 |
 | 2023-05-03 | 976 | 0 |
-| 2023-05-04 | 1,006 | 0 |
+| 2023-05-04 | 1,007 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

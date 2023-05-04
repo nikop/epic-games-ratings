@@ -7,7 +7,7 @@
 | Hold my Beer | 64.00 |
 | Nueva Beginnings | 35.00 |
 | Only Thyme Will Tell | 34.00 |
-| Not Alone | 30.00 |
+| Not Alone | 31.00 |
 | We Go Again | 29.00 |
 | In Contempt of Duvet | 28.00 |
 | Booty Call | 26.00 |

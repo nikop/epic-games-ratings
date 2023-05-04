@@ -1,5 +1,5 @@
 # Duskers
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 598)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |

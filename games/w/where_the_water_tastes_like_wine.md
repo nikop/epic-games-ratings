@@ -1,5 +1,5 @@
 # Where The Water Tastes Like Wine
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 598)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

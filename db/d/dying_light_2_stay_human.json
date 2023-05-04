@@ -529,7 +529,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 432
+      "Count": 435
     }
   ],
   "EosHistory": [
@@ -1621,6 +1621,11 @@
     {
       "Time": "2023-05-04T20:06:06.3185871+00:00",
       "NumProgressed": 539979,
+      "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-04T21:06:07.5039492+00:00",
+      "NumProgressed": 540035,
       "NumCompleted": 46
     }
   ],
@@ -5678,37 +5683,43 @@
       "Rating": 4.57,
       "NumberOfAwards": 15888,
       "NumberOfAwardsMax": 6866
+    },
+    {
+      "Time": "2023-05-04T20:59:52.6232745+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15891,
+      "NumberOfAwardsMax": 6866
     }
   ],
   "TotalAchievementsXP": 1200,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-04T20:06:06.3185861+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:06:07.5039489+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 8390,
+  "EOS_NewPlayers": 8388,
   "EOS_Completed": 46,
-  "EOS_Progressed": 539979,
-  "LastUpdate_Achievements": "2023-05-04T20:06:06.3186785+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:00:02.9138244+00:00",
+  "EOS_Progressed": 540035,
+  "LastUpdate_Achievements": "2023-05-04T21:06:07.5040035+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:52.623275+00:00",
   "AchievementSets": [
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 539979,
+      "Progressed": 540035,
       "Completed": 46
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 185423,
+      "Progressed": 185479,
       "Completed": 1412
     }
   ],
   "EOS_Completed_Percentage": 0.01,
-  "LastChanged": "2023-05-04T18:59:19.8540843+00:00",
+  "LastChanged": "2023-05-04T20:59:52.623274+00:00",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6866,
-  "NumberOfAwards": 15888,
+  "NumberOfAwards": 15891,
   "NumberOfRatings": 7305,
   "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 12,

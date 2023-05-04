@@ -3,7 +3,7 @@ Rating: 4.62 (Ranked 338)
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 63,570  (Ranked 9)  
-Sum: 166,169 (Ranked 13)  
+Sum: 166,185 (Ranked 13)  
 Diff (max vs sum): -4  
 ## Achievements
 | Name | Percentage |
@@ -53,7 +53,7 @@ Diff (max vs sum): -4
 | Gunslinger | 1.00 |
 | Rough Landing | 0.40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,866 (Ranked 10)  
+Progressed: 797,875 (Ranked 10)  
 Completed: 1,566 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 1,566 (0.20%) (Ranked 131)
 | 2023-05-01 | 797,331 | 1,554 |
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
-| 2023-05-04 | 797,866 | 1,566 |
+| 2023-05-04 | 797,875 | 1,566 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -79,7 +79,7 @@ Completed: 1,566 (0.20%) (Ranked 131)
 | This game is Extremely Fun | 7,194 |
 | This game is Relaxing | 7,133 |
 | This game is Highly Recommended | 7,120 |
-| This game has Quickly Understood Controls | 7,003 |
+| This game has Quickly Understood Controls | 7,019 |
 | This game has Amazing Characters | 6,955 |
 | This game has a Creative Community | 4,635 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -190,4 +190,4 @@ Completed: 1,566 (0.20%) (Ranked 131)
 | 2023-05-01 | 4.62 | - | 63,313 | 165,402 |
 | 2023-05-02 | 4.62 | - | 63,418 | 165,714 |
 | 2023-05-03 | 4.62 | - | 63,500 | 165,972 |
-| 2023-05-04 | 4.62 | - | 63,570 | 166,169 |
+| 2023-05-04 | 4.62 | - | 63,570 | 166,185 |

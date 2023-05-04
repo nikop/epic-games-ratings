@@ -293,7 +293,7 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10
     },
     {
@@ -670,13 +670,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 61,
-  "LastChanged_Achievements": "2023-05-04T20:05:29.9219104+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:31.6921191+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 28,
   "EOS_Completed": 3,
   "EOS_Progressed": 1460,
-  "LastUpdate_Achievements": "2023-05-04T20:05:29.9220113+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:58:38.2102566+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:31.6921646+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:58:31.5206983+00:00",
   "AchievementSets": [
     {
       "ID": "12n4k20",

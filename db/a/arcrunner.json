@@ -188,7 +188,7 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15
     },
     {
@@ -412,13 +412,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T20:05:59.724017+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:06:01.1230014+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 43,
   "EOS_Completed": 0,
   "EOS_Progressed": 57,
-  "LastUpdate_Achievements": "2023-05-04T20:05:59.7240417+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:46.9348977+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:06:01.1230192+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:36.2539541+00:00",
   "AchievementSets": [
     {
       "ID": "cceobco",
@@ -434,7 +434,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 267,
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00"

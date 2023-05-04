@@ -15,6 +15,7 @@
 | Legendary Destructor | 3.00 |
 | Machine Man | 3.00 |
 | Master Destructor | 3.00 |
+| Mushroom Man | 3.00 |
 | Nomad | 3.00 |
 | Scrap Collector | 3.00 |
 | Ticking Clock | 3.00 |
@@ -27,7 +28,6 @@
 | Ice Breaker | 0.00 |
 | Medium Rare | 0.00 |
 | Monster of Fashion | 0.00 |
-| Mushroom Man | 0.00 |
 | Single Person On Earth | 0.00 |
 | Total Walrus | 0.00 |
 | True Victory | 0.00 |

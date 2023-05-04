@@ -118,7 +118,7 @@
       "ID": "24",
       "SetID": "9p3jgda",
       "Name": "HERE ARE SOME BARE NECESSITIES",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35
     },
     {
@@ -1002,23 +1002,28 @@
       "Time": "2023-05-04T19:03:57.5666108+00:00",
       "NumProgressed": 2301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T21:05:47.4393026+00:00",
+      "NumProgressed": 2302,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T20:05:45.8354573+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:47.4393021+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 453,
   "EOS_Completed": 0,
-  "EOS_Progressed": 2301,
-  "LastUpdate_Achievements": "2023-05-04T20:05:45.8354925+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:58:56.4758341+00:00",
+  "EOS_Progressed": 2302,
+  "LastUpdate_Achievements": "2023-05-04T21:05:47.4393198+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:58:48.2075804+00:00",
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2301,
+      "Progressed": 2302,
       "Completed": 0
     }
   ],

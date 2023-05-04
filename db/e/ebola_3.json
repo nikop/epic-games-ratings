@@ -6,7 +6,7 @@
       "ID": "achAlice",
       "SetID": "72gjli4",
       "Name": "Boss 1 \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30
     },
     {
@@ -27,7 +27,7 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5
     },
     {
@@ -62,7 +62,7 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5
     },
     {
@@ -118,7 +118,7 @@
       "ID": "achDeva",
       "SetID": "72gjli4",
       "Name": "Secret \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5
     },
     {
@@ -174,7 +174,7 @@
       "ID": "achIvan",
       "SetID": "72gjli4",
       "Name": "Group Alpha \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5
     },
     {
@@ -188,7 +188,7 @@
       "ID": "achLizun",
       "SetID": "72gjli4",
       "Name": "Mutant fight \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5
     },
     {
@@ -237,21 +237,21 @@
       "ID": "achPlotTwo",
       "SetID": "72gjli4",
       "Name": "The escape \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35
     },
     {
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5
     },
     {
       "ID": "achPriest",
       "SetID": "72gjli4",
       "Name": "Priest \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5
     },
     {
@@ -328,7 +328,7 @@
       "ID": "achVitali",
       "SetID": "72gjli4",
       "Name": "Broadcasting \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5
     },
     {
@@ -349,7 +349,7 @@
       "ID": "achWorms",
       "SetID": "72gjli4",
       "Name": "Boss 3 \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30
     }
   ],
@@ -804,6 +804,11 @@
       "Time": "2023-05-04T20:06:12.5745423+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T21:06:13.1143849+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -816,18 +821,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T20:06:12.5745416+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:06:13.1143846+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 100,
   "EOS_Completed": 0,
-  "EOS_Progressed": 120,
-  "LastUpdate_Achievements": "2023-05-04T20:06:12.5745907+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:00:23.3962248+00:00",
+  "EOS_Progressed": 121,
+  "LastUpdate_Achievements": "2023-05-04T21:06:13.1144205+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:00:14.5937259+00:00",
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],

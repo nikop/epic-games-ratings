@@ -202,7 +202,7 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15
     },
     {
@@ -621,6 +621,11 @@
     {
       "Time": "2023-05-04T17:04:11.563824+00:00",
       "NumProgressed": 2573,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T21:05:46.8326876+00:00",
+      "NumProgressed": 2574,
       "NumCompleted": 0
     }
   ],
@@ -1045,24 +1050,24 @@
   ],
   "TotalAchievementsXP": 1150,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-04T20:05:45.1274697+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:46.832687+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_Completed": 0,
-  "EOS_Progressed": 2573,
-  "LastUpdate_Achievements": "2023-05-04T20:05:45.1275633+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:58:41.9300133+00:00",
+  "EOS_Progressed": 2574,
+  "LastUpdate_Achievements": "2023-05-04T21:05:46.8327587+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:58:34.6476822+00:00",
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2573,
+      "Progressed": 2574,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2573,
+      "Progressed": 2574,
       "Completed": 0
     }
   ],
@@ -1074,7 +1079,7 @@
   "NumberOfAwards": 415,
   "NumberOfRatings": 371,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 134,
   "Ranking_PopularitySum": 295,

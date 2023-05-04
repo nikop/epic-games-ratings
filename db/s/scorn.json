@@ -20,7 +20,7 @@
       "ID": "003",
       "SetID": "94k0mj8",
       "Name": "003",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 80
     },
     {
@@ -339,13 +339,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T20:05:15.4890146+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:17.4452031+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 13,
   "EOS_Completed": 133,
   "EOS_Progressed": 1866,
-  "LastUpdate_Achievements": "2023-05-04T20:05:15.489094+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:57:57.5509225+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:17.4452356+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:57:54.1910661+00:00",
   "AchievementSets": [
     {
       "ID": "94k0mj8",
@@ -363,7 +363,7 @@
   "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_Progress": 142,
+  "Ranking_EOS_Progress": 143,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 573,

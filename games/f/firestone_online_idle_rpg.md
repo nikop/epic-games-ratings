@@ -4,7 +4,7 @@
 | ---- | ---------- |
 | Victor | 93.00 |
 | World Map | 79.00 |
-| Temple of Eternals | 53.00 |
+| Temple of Eternals | 54.00 |
 | Prestigious | 50.00 |
 | Fellowship Power | 38.00 |
 | Guild Power | 22.00 |
@@ -19,8 +19,8 @@
 | Dragon Master | 6.00 |
 | Enlightenment | 6.00 |
 | Lieutenant | 5.00 |
+| Natural Talent | 5.00 |
 | Milestone collector | 4.00 |
-| Natural Talent | 4.00 |
 | Superior | 4.00 |
 | The Unstoppable | 4.00 |
 | Daily Quest Completionist | 3.00 |

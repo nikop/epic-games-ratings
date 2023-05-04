@@ -2,9 +2,9 @@
 Rating: 4.92 (Ranked 3)  
 Number of Ratings: 6,336  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,025  (Ranked 86)  
-Sum: 7,389 (Ranked 96)  
-Diff (max vs sum): -10  
+Max (Character Customization): 3,029  (Ranked 85)  
+Sum: 7,393 (Ranked 97)  
+Diff (max vs sum): -12  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -58,7 +58,7 @@ Diff (max vs sum): -10
 | Thorn of Thanatos | 4.00 |
 | Friends Forever | 4.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,761 (Ranked 16)  
+Progressed: 679,763 (Ranked 16)  
 Completed: 6,073 (0.89%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,11 +72,11 @@ Completed: 6,073 (0.89%) (Ranked 80)
 | 2023-05-01 | 679,575 | 6,063 |
 | 2023-05-02 | 679,645 | 6,067 |
 | 2023-05-03 | 679,707 | 6,070 |
-| 2023-05-04 | 679,761 | 6,073 |
+| 2023-05-04 | 679,763 | 6,073 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,025 |
+| This game has Inclusive Character Customization | 3,029 |
 | This game has Great Boss Battles | 2,149 |
 | This game is Highly Recommended | 251 |
 | This game is Great for Beginners | 234 |
@@ -191,4 +191,4 @@ Completed: 6,073 (0.89%) (Ranked 80)
 | 2023-04-30 | 4.92 | - | 3,021 | 7,380 |
 | 2023-05-01 | 4.92 | - | 3,022 | 7,383 |
 | 2023-05-03 | 4.92 | - | 3,025 | 7,388 |
-| 2023-05-04 | 4.92 | - | 3,025 | 7,389 |
+| 2023-05-04 | 4.92 | - | 3,029 | 7,393 |

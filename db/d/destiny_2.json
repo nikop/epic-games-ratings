@@ -1316,6 +1316,11 @@
       "Time": "2023-05-04T20:05:50.5663259+00:00",
       "NumProgressed": 390385,
       "NumCompleted": 11398
+    },
+    {
+      "Time": "2023-05-04T21:05:51.9470128+00:00",
+      "NumProgressed": 390426,
+      "NumCompleted": 11398
     }
   ],
   "RatingHistory": [
@@ -4510,25 +4515,25 @@
   ],
   "TotalAchievementsXP": 1240,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T20:05:50.5663252+00:00",
-  "EOS_NewCompleters": 206,
-  "EOS_NewPlayers": 7561,
+  "LastChanged_Achievements": "2023-05-04T21:05:51.9470125+00:00",
+  "EOS_NewCompleters": 205,
+  "EOS_NewPlayers": 7563,
   "EOS_Completed": 11398,
-  "EOS_Progressed": 390385,
-  "LastUpdate_Achievements": "2023-05-04T20:05:50.5663643+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:14.8914207+00:00",
+  "EOS_Progressed": 390426,
+  "LastUpdate_Achievements": "2023-05-04T21:05:51.9470284+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:05.6514322+00:00",
   "AchievementSets": [
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 390385,
+      "Progressed": 390426,
       "Completed": 11398
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 390385,
-      "Completed": 27924
+      "Progressed": 390426,
+      "Completed": 27927
     }
   ],
   "EOS_Completed_Percentage": 2.92,

@@ -54,10 +54,10 @@ Rating: 4.75 (Ranked 127)
 | Do you trust me? | 6.00 |
 | The great mage rebellion starts now | 6.00 |
 | Spellcrafting | 6.00 |
-| Silverwing nest | 2.00 |
+| Silverwing nest | 1.00 |
 | The Unshackled | 0.40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,866 (Ranked 142)  
+Progressed: 1,868 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 1 (0.05%) (Ranked 164)
 | 2023-05-01 | 1,803 | 1 |
 | 2023-05-02 | 1,832 | 1 |
 | 2023-05-03 | 1,856 | 1 |
-| 2023-05-04 | 1,866 | 1 |
+| 2023-05-04 | 1,868 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

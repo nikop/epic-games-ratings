@@ -55,7 +55,7 @@ Diff (max vs sum): -56
 | Strangers' Memories | 3.00 |
 | A Tale of Origins and Endings | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,839 (Ranked 60)  
+Progressed: 77,841 (Ranked 60)  
 Completed: 2,119 (2.72%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 2,119 (2.72%) (Ranked 49)
 | 2023-05-01 | 77,802 | 2,117 |
 | 2023-05-02 | 77,813 | 2,117 |
 | 2023-05-03 | 77,820 | 2,119 |
-| 2023-05-04 | 77,839 | 2,119 |
+| 2023-05-04 | 77,841 | 2,119 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

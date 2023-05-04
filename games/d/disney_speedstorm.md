@@ -8,8 +8,8 @@
 | PRO | 29.00 |
 | PROTECTED | 26.00 |
 | A TIGER'S FEAR | 26.00 |
-| HERE ARE SOME BARE NECESSITIES | 26.00 |
 | AGGRESSIVE RACER | 26.00 |
+| HERE ARE SOME BARE NECESSITIES | 25.00 |
 | ACE SPEEDSTER | 16.00 |
 | IT'S A LONG WAY TO THE TOP | 12.00 |
 | DEFEAT OUR CHAMPION | 8.00 |
@@ -27,7 +27,7 @@
 | PERFECTLY POISED | 0.10 |
 | MASTER | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,301 (Ranked 137)  
+Progressed: 2,302 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,4 +41,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 2,204 | 0 |
 | 2023-05-02 | 2,252 | 0 |
 | 2023-05-03 | 2,277 | 0 |
-| 2023-05-04 | 2,301 | 0 |
+| 2023-05-04 | 2,302 | 0 |

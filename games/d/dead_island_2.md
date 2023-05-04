@@ -22,13 +22,13 @@ Diff (max vs sum): -56
 | Dr. Reed, I Presume? | 48.00 |
 | This is My Weapon | 48.00 |
 | Slayer Squad | 37.00 |
+| But Doctor, I am Butcho | 36.00 |
 | Anger Management | 35.00 |
-| But Doctor, I am Butcho | 35.00 |
 | Making Your Mark | 34.00 |
 | Perks of the Job | 34.00 |
 | Can't Handle the Truth | 32.00 |
+| Like Riding a Bike | 30.00 |
 | I Am the Resurrection | 30.00 |
-| Like Riding a Bike | 29.00 |
 | Zombologist | 28.00 |
 | Ooh, Shiny! | 28.00 |
 | A Patton Emerges | 28.00 |
@@ -38,7 +38,7 @@ Diff (max vs sum): -56
 | Down with the Sickness | 20.00 |
 | Go, Bobcats! | 19.00 |
 | Rising Star | 19.00 |
-| Smorgasbord | 11.00 |
+| Smorgasbord | 12.00 |
 | Internet Famous | 11.00 |
 | Make it So | 9.00 |
 | Not Even My Final Form | 9.00 |
@@ -53,8 +53,8 @@ Diff (max vs sum): -56
 | Survival Skills | 3.00 |
 | Zombicidal Maniac | 0.60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,122 (Ranked 28)  
-Completed: 682 (0.15%) (Ranked 138)  
+Progressed: 454,466 (Ranked 28)  
+Completed: 686 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,7 +67,7 @@ Completed: 682 (0.15%) (Ranked 138)
 | 2023-05-01 | 433,075 | 523 |
 | 2023-05-02 | 441,520 | 585 |
 | 2023-05-03 | 448,692 | 640 |
-| 2023-05-04 | 454,122 | 682 |
+| 2023-05-04 | 454,466 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

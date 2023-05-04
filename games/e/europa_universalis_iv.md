@@ -363,7 +363,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00 |
 | Yarr Harr a Pirate's Life For Me | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,340 (Ranked 82)  
+Progressed: 29,374 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 27,408 | 0 |
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
-| 2023-05-04 | 29,340 | 0 |
+| 2023-05-04 | 29,374 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

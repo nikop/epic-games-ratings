@@ -27,7 +27,7 @@
       "ID": "4",
       "SetID": "dg4cch5",
       "Name": "Jill the Courageous",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 200
     },
     {
@@ -824,6 +824,11 @@
       "Time": "2023-05-04T20:05:31.7541075+00:00",
       "NumProgressed": 467,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-04T21:05:33.4901682+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 32
     }
   ],
   "RatingHistory": [
@@ -836,30 +841,30 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-04T20:05:31.7541065+00:00",
-  "EOS_NewCompleters": 25,
-  "EOS_NewPlayers": 311,
-  "EOS_Completed": 31,
+  "LastChanged_Achievements": "2023-05-04T21:05:33.4901676+00:00",
+  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 302,
+  "EOS_Completed": 32,
   "EOS_Progressed": 467,
-  "LastUpdate_Achievements": "2023-05-04T20:05:31.7541248+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:57:12.9394886+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:33.4901771+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:57:09.3811502+00:00",
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
       "Progressed": 467,
-      "Completed": 31
+      "Completed": 32
     }
   ],
-  "EOS_Completed_Percentage": 6.64,
+  "EOS_Completed_Percentage": 6.85,
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_Completed": 19,
   "Ranking_EOS_Progress": 187,
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00"
 }

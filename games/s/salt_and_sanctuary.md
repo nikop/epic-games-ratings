@@ -46,7 +46,7 @@ Diff (max vs sum): 42
 | Wise Words | 2.00 |
 | Fading Fast | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,787 (Ranked 23)  
+Progressed: 519,791 (Ranked 23)  
 Completed: 1,396 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 1,396 (0.27%) (Ranked 123)
 | 2023-05-01 | 519,480 | 1,392 |
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
-| 2023-05-04 | 519,787 | 1,396 |
+| 2023-05-04 | 519,791 | 1,396 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

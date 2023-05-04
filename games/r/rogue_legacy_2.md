@@ -48,7 +48,7 @@ Diff (max vs sum): 46
 | Thanatwophobia | 0.00 |
 | Rogue Rogue Legacy | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,405 (Ranked 89)  
+Progressed: 21,406 (Ranked 89)  
 Completed: 35 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 35 (0.16%) (Ranked 136)
 | 2023-05-01 | 21,342 | 35 |
 | 2023-05-02 | 21,362 | 35 |
 | 2023-05-03 | 21,383 | 35 |
-| 2023-05-04 | 21,405 | 35 |
+| 2023-05-04 | 21,406 | 35 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

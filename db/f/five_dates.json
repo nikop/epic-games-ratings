@@ -62,7 +62,7 @@
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25
     },
     {
@@ -191,13 +191,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T20:05:39.1085827+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:40.757393+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 3,
   "EOS_Progressed": 344,
-  "LastUpdate_Achievements": "2023-05-04T20:05:39.1086024+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:58:10.3556095+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:40.7574026+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:58:05.18645+00:00",
   "AchievementSets": [
     {
       "ID": "c4ipj3h",

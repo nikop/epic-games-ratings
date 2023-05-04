@@ -258,13 +258,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 126792
+      "Count": 126806
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 126809
+      "Count": 126822
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1399,6 +1399,11 @@
       "Time": "2023-05-04T20:05:46.9263296+00:00",
       "NumProgressed": 32371787,
       "NumCompleted": 28883
+    },
+    {
+      "Time": "2023-05-04T21:05:48.5057518+00:00",
+      "NumProgressed": 32372571,
+      "NumCompleted": 28888
     }
   ],
   "RatingHistory": [
@@ -5981,31 +5986,37 @@
       "Rating": 4.53,
       "NumberOfAwards": 1293241,
       "NumberOfAwardsMax": 137999
+    },
+    {
+      "Time": "2023-05-04T20:58:53.4645682+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1293268,
+      "NumberOfAwardsMax": 137999
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-04T20:05:46.9263288+00:00",
-  "EOS_NewCompleters": 265,
-  "EOS_NewPlayers": 137469,
-  "EOS_Completed": 28883,
-  "EOS_Progressed": 32371787,
-  "LastUpdate_Achievements": "2023-05-04T20:05:46.9263645+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:02.6481107+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:48.5057514+00:00",
+  "EOS_NewCompleters": 271,
+  "EOS_NewPlayers": 137549,
+  "EOS_Completed": 28888,
+  "EOS_Progressed": 32372571,
+  "LastUpdate_Achievements": "2023-05-04T21:05:48.5057769+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:58:53.4645685+00:00",
   "AchievementSets": [
     {
       "ID": "59meapj",
       "IsBase": true,
-      "Progressed": 32371787,
-      "Completed": 28883
+      "Progressed": 32372571,
+      "Completed": 28888
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "LastChanged": "2023-05-04T18:58:30.749012+00:00",
+  "LastChanged": "2023-05-04T20:58:53.464568+00:00",
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137999,
-  "NumberOfAwards": 1293241,
+  "NumberOfAwards": 1293268,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_NewCompleters": 2,
   "Ranking_EOS_NewPlayers": 2,

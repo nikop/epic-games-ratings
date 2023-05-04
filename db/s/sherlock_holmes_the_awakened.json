@@ -174,7 +174,7 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20
     },
     {
@@ -317,13 +317,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T20:05:27.1672688+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:28.8986092+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 13,
   "EOS_Completed": 9,
   "EOS_Progressed": 133,
-  "LastUpdate_Achievements": "2023-05-04T20:05:27.167291+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:57:13.7302004+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:28.8986232+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:57:10.1810345+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",
@@ -340,7 +340,7 @@
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Completed": 20,
   "Ranking_EOS_Progress": 239,
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00"
 }

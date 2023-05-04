@@ -314,7 +314,7 @@
       "ID": "PFA_9",
       "SetID": "1hf4dep",
       "Name": "Rising From the Ashes",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15
     }
   ],
@@ -1441,6 +1441,11 @@
     {
       "Time": "2023-05-04T20:05:18.7270083+00:00",
       "NumProgressed": 265484,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-04T21:05:20.6120292+00:00",
+      "NumProgressed": 265494,
       "NumCompleted": 346
     }
   ],
@@ -3236,18 +3241,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T20:05:18.7270076+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:20.6120288+00:00",
   "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1244,
   "EOS_Completed": 346,
-  "EOS_Progressed": 265484,
-  "LastUpdate_Achievements": "2023-05-04T20:05:18.7270679+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:57:13.7321821+00:00",
+  "EOS_Progressed": 265494,
+  "LastUpdate_Achievements": "2023-05-04T21:05:20.6120614+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:57:10.3423296+00:00",
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265484,
+      "Progressed": 265494,
       "Completed": 346
     }
   ],

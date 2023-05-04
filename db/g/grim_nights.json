@@ -27,7 +27,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 10
     },
     {
@@ -69,7 +69,7 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30
     },
     {
@@ -151,13 +151,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T20:05:32.5683976+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:34.4633316+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T20:05:32.5684171+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:11.4518612+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:34.4633384+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:02.1532046+00:00",
   "AchievementSets": [
     {
       "ID": "c2c0fb6",

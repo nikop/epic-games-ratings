@@ -38,9 +38,9 @@ Diff (max vs sum): 51
 | A Golden Age | 14.00 |
 | Challenge Accepted | 13.00 |
 | The Professional | 11.00 |
-| Chaos Tamer | 11.00 |
 | Free Refills | 11.00 |
 | Smooth Moves | 11.00 |
+| Chaos Tamer | 10.00 |
 | Neighborly | 10.00 |
 | Prankster | 8.00 |
 | Shopping Spree | 7.00 |
@@ -59,7 +59,7 @@ Diff (max vs sum): 51
 | Fiesta Time | 0.60 |
 | Untouchable | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,865 (Ranked 87)  
+Progressed: 21,882 (Ranked 87)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 20,930 | 1 |
 | 2023-05-02 | 21,231 | 1 |
 | 2023-05-03 | 21,560 | 1 |
-| 2023-05-04 | 21,865 | 1 |
+| 2023-05-04 | 21,882 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

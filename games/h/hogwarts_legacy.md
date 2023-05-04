@@ -13,6 +13,7 @@ Diff (max vs sum): -16
 | The Hero of Hogwarts | 5.00 |
 | The Defender of Dragons | 5.00 |
 | Coasting Along | 5.00 |
+| Rising From the Ashes | 5.00 |
 | The Sort Who Makes an Entrance | 4.00 |
 | The Avenging Gazelle | 4.00 |
 | Beast Friends | 4.00 |
@@ -27,7 +28,6 @@ Diff (max vs sum): -16
 | First Class Student | 4.00 |
 | Troll with the Punches | 4.00 |
 | That's a Keeper | 4.00 |
-| Rising From the Ashes | 4.00 |
 | The Seeker of Knowledge | 3.00 |
 | The Root of the Problem | 3.00 |
 | Third Time's a Charm | 3.00 |
@@ -53,7 +53,7 @@ Diff (max vs sum): -16
 | The Nature of the Beast | 0.30 |
 | Collector's Edition | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,484 (Ranked 38)  
+Progressed: 265,494 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-01 | 265,089 | 341 |
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
-| 2023-05-04 | 265,484 | 346 |
+| 2023-05-04 | 265,494 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

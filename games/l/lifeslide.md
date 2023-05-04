@@ -7,7 +7,7 @@
 | Wonderful World | 60.00 |
 | Second Wind | 58.00 |
 | Chain of Events | 58.00 |
-| Change of Heart | 56.00 |
+| Change of Heart | 57.00 |
 | Turbulence | 38.00 |
 | Endless Possibilities | 37.00 |
 | Finding The Way | 24.00 |

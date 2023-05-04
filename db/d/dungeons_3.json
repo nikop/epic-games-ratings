@@ -13,7 +13,7 @@
       "ID": "ACH_D3_Campaign_Cathedral_2",
       "SetID": "cda475f",
       "Name": "No one has to die today!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5
     },
     {
@@ -391,7 +391,7 @@
       "ID": "ACH_D3_Campaign_Warlock_2",
       "SetID": "cda475f",
       "Name": "Hearts are trump",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5
     },
     {
@@ -1550,6 +1550,11 @@
     {
       "Time": "2023-05-04T20:05:22.0636534+00:00",
       "NumProgressed": 14650,
+      "NumCompleted": 140
+    },
+    {
+      "Time": "2023-05-04T21:05:23.9784929+00:00",
+      "NumProgressed": 14661,
       "NumCompleted": 140
     }
   ],
@@ -3406,22 +3411,22 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-04T20:05:22.0636527+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:23.9784925+00:00",
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 971,
   "EOS_Completed": 140,
-  "EOS_Progressed": 14650,
-  "LastUpdate_Achievements": "2023-05-04T20:05:22.0637264+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:13.7163028+00:00",
+  "EOS_Progressed": 14661,
+  "LastUpdate_Achievements": "2023-05-04T21:05:23.9785383+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:04.4293929+00:00",
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 14650,
+      "Progressed": 14661,
       "Completed": 140
     }
   ],
-  "EOS_Completed_Percentage": 0.96,
+  "EOS_Completed_Percentage": 0.95,
   "LastChanged": "2023-05-04T01:55:50.6064036+00:00",
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "MaxAwardTitle": "Great for Beginners",
@@ -3429,7 +3434,7 @@
   "NumberOfAwards": 2513,
   "NumberOfRatings": 1635,
   "Ranking_EOS_NewCompleters": 29,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_Progress": 96,
   "Ranking_PopularitySum": 165,

@@ -10,8 +10,8 @@ Diff (max vs sum): -42
 | ---- | ---------- |
 | Executioner | 30.00 |
 | Look Over There! | 27.00 |
-| Watch Where You Step... | 27.00 |
 | Not So Fast... | 26.00 |
+| Watch Where You Step... | 26.00 |
 | An Ill Omen | 24.00 |
 | Purging Spree | 20.00 |
 | Blood for the Blood God! | 16.00 |
@@ -68,7 +68,7 @@ Diff (max vs sum): -42
 | Legend of Titan | 0.00 |
 | Standard-Issue Killer | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,573 (Ranked 134)  
+Progressed: 2,574 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 2,567 | 0 |
 | 2023-05-02 | 2,568 | 0 |
 | 2023-05-03 | 2,571 | 0 |
-| 2023-05-04 | 2,573 | 0 |
+| 2023-05-04 | 2,574 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

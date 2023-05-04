@@ -14,7 +14,7 @@
 | Challenge Mastered | 23.00 |
 | The City | 21.00 |
 | Supply Run | 18.00 |
-| Up Close And Personal | 16.00 |
+| Up Close And Personal | 18.00 |
 | Nanonic III | 12.00 |
 | The Bigger They Are | 11.00 |
 | Starship Docks | 9.00 |

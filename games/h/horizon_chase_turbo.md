@@ -46,7 +46,7 @@ Diff (max vs sum): 64
 | Transporter | 0.10 |
 | Look Mom, No Hands! | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,952 (Ranked 12)  
+Progressed: 736,449 (Ranked 12)  
 Completed: 232 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 232 (0.03%) (Ranked 173)
 | 2023-05-01 | 722,689 | 229 |
 | 2023-05-02 | 723,454 | 229 |
 | 2023-05-03 | 724,172 | 231 |
-| 2023-05-04 | 734,952 | 232 |
+| 2023-05-04 | 736,449 | 232 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

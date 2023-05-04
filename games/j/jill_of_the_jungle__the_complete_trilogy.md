@@ -5,11 +5,11 @@
 | Welcome to the Jungle | 100.00 |
 | Jill the Bold | 12.00 |
 | Jill the Brave | 9.00 |
-| Jill the Courageous | 7.00 |
+| Jill the Courageous | 8.00 |
 | Jill the Champion | 7.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 467 (Ranked 187)  
-Completed: 31 (6.64%) (Ranked 20)  
+Completed: 32 (6.85%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -21,7 +21,7 @@ Completed: 31 (6.64%) (Ranked 20)
 | 2023-05-01 | 404 | 29 |
 | 2023-05-02 | 425 | 31 |
 | 2023-05-03 | 449 | 31 |
-| 2023-05-04 | 467 | 31 |
+| 2023-05-04 | 467 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

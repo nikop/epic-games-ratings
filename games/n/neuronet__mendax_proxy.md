@@ -60,3 +60,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 3 | 0 |
 | 2023-05-03 | 4 | 0 |
 | 2023-05-04 | 5 | 0 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-05-04 | - | 0 | 0 |

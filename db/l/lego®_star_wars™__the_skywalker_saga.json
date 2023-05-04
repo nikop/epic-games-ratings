@@ -353,7 +353,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 472
+      "Count": 473
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -676,6 +676,11 @@
     {
       "Time": "2023-05-04T20:06:15.0959992+00:00",
       "NumProgressed": 39274,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T21:06:15.7758947+00:00",
+      "NumProgressed": 39311,
       "NumCompleted": 160
     }
   ],
@@ -2528,34 +2533,40 @@
       "Rating": 4.79,
       "NumberOfAwards": 6265,
       "NumberOfAwardsMax": 2235
+    },
+    {
+      "Time": "2023-05-04T21:00:33.0303748+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6266,
+      "NumberOfAwardsMax": 2235
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T20:06:15.0959982+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:06:15.7758943+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 182,
   "EOS_Completed": 160,
-  "EOS_Progressed": 39274,
-  "LastUpdate_Achievements": "2023-05-04T20:06:15.0960417+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:00:41.1416662+00:00",
+  "EOS_Progressed": 39311,
+  "LastUpdate_Achievements": "2023-05-04T21:06:15.7759231+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:00:33.0303751+00:00",
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 39274,
+      "Progressed": 39311,
       "Completed": 160
     }
   ],
   "EOS_Completed_Percentage": 0.41,
-  "LastChanged": "2023-05-04T08:59:47.24035+00:00",
+  "LastChanged": "2023-05-04T21:00:33.0303746+00:00",
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2235,
-  "NumberOfAwards": 6265,
+  "NumberOfAwards": 6266,
   "NumberOfRatings": 2536,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_Progress": 78,
   "Ranking_PopularitySum": 111,

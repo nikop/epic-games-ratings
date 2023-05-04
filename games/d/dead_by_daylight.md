@@ -223,7 +223,7 @@ Diff (max vs sum): 4
 | Tools of the Trade | 0.10 |
 | Expert Generalist | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,311 (Ranked 33)  
+Progressed: 396,473 (Ranked 33)  
 Completed: 36 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 36 (0.01%) (Ranked 184)
 | 2023-05-01 | 387,512 | 34 |
 | 2023-05-02 | 390,820 | 34 |
 | 2023-05-03 | 393,736 | 36 |
-| 2023-05-04 | 396,311 | 36 |
+| 2023-05-04 | 396,473 | 36 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

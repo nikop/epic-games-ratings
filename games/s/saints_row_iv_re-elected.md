@@ -80,7 +80,7 @@ Diff (max vs sum): -102
 | Super Power Team Up! | 0.10 |
 | Ultimate Hot Potato | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,372 (Ranked 53)  
+Progressed: 149,402 (Ranked 53)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 146,831 | 6 |
 | 2023-05-02 | 147,769 | 6 |
 | 2023-05-03 | 148,608 | 6 |
-| 2023-05-04 | 149,372 | 6 |
+| 2023-05-04 | 149,402 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

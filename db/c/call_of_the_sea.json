@@ -1332,6 +1332,11 @@
       "Time": "2023-05-04T20:05:56.7166327+00:00",
       "NumProgressed": 72750,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-05-04T21:05:58.0914387+00:00",
+      "NumProgressed": 72775,
+      "NumCompleted": 489
     }
   ],
   "RatingHistory": [
@@ -1518,19 +1523,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-04T20:05:56.7166322+00:00",
-  "EOS_NewCompleters": 58,
-  "EOS_NewPlayers": 5434,
-  "EOS_Completed": 488,
-  "EOS_Progressed": 72750,
-  "LastUpdate_Achievements": "2023-05-04T20:05:56.7166635+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:33.9966731+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:58.0914381+00:00",
+  "EOS_NewCompleters": 59,
+  "EOS_NewPlayers": 5429,
+  "EOS_Completed": 489,
+  "EOS_Progressed": 72775,
+  "LastUpdate_Achievements": "2023-05-04T21:05:58.0914624+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:24.0586725+00:00",
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 72750,
-      "Completed": 488
+      "Progressed": 72775,
+      "Completed": 489
     }
   ],
   "EOS_Completed_Percentage": 0.67,

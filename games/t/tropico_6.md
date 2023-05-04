@@ -11,7 +11,7 @@ Diff (max vs sum): 61
 | Just One...More...Term... | 78.00 |
 | Un-Lonely Island | 50.00 |
 | The Beginning of a Servantship | 47.00 |
-| Trade Is My Trait | 38.00 |
+| Trade Is My Trait | 39.00 |
 | Number 18 | 26.00 |
 | We Don't Have Time For That | 20.00 |
 | Caribbean Comrade | 18.00 |
@@ -49,7 +49,7 @@ Diff (max vs sum): 61
 | Survivor | 1.00 |
 | My Ways | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,652 (Ranked 132)  
+Progressed: 2,654 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-01 | 2,605 | 1 |
 | 2023-05-02 | 2,623 | 1 |
 | 2023-05-03 | 2,641 | 1 |
-| 2023-05-04 | 2,652 | 1 |
+| 2023-05-04 | 2,654 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

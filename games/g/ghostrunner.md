@@ -28,7 +28,7 @@ Diff (max vs sum): -92
 | Unstoppable force | 24.00 |
 | Wave of mutilation | 23.00 |
 | Can't Run Can't Hide | 20.00 |
-| R is for Running | 18.00 |
+| R is for Running | 19.00 |
 | Dead in the air | 17.00 |
 | Improvise, adapt, overrun | 15.00 |
 | Pre-empative strike | 15.00 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -92
 | Legacy Drivers | 0.50 |
 | Up Close And Personal | 0.50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,894 (Ranked 127)  
+Progressed: 3,896 (Ranked 127)  
 Completed: 20 (0.51%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 20 (0.51%) (Ranked 97)
 | 2023-05-01 | 3,638 | 19 |
 | 2023-05-02 | 3,732 | 19 |
 | 2023-05-03 | 3,816 | 19 |
-| 2023-05-04 | 3,894 | 20 |
+| 2023-05-04 | 3,896 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

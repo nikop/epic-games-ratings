@@ -4,7 +4,7 @@
 | ---- | ---------- |
 | Earth Shattering | 57.00 |
 | La Der des Ders | 13.00 |
-| Das Ist Endgültig! | 11.00 |
+| Das Ist Endgültig! | 12.00 |
 | From the Pages of History | 5.00 |
 | The Chemists' War | 5.00 |
 | War with Friends | 1.00 |

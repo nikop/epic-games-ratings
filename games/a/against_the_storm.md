@@ -10,13 +10,13 @@ Diff (max vs sum): 43
 | ---- | ---------- |
 | The Marshlands | 0.60 |
 | No Deaths | 0.60 |
+| First Real Expedition | 0.50 |
 | Overcoming Difficulty | 0.50 |
 | Fertile Meadows | 0.50 |
 | Coral Forest | 0.50 |
 | The Scarlet Orchard | 0.50 |
 | Taking Action | 0.50 |
 | Like a Machine | 0.50 |
-| First Real Expedition | 0.40 |
 | Bandit Camp | 0.40 |
 | Barren Lands | 0.40 |
 | Trade Baron | 0.40 |

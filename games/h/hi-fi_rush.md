@@ -27,7 +27,7 @@ Rating: 4.85 (Ranked 37)
 | Perfecter Parry-er! | 41.00 |
 | Who's the boss now? | 39.00 |
 | I have to read these things? | 38.00 |
-| I look cool. But I can look COOLER. | 36.00 |
+| I look cool. But I can look COOLER. | 37.00 |
 | That's a lot of junk metal… | 29.00 |
 | There's such a thing as TOO helpful | 29.00 |
 | Beat-hit mania | 26.00 |

@@ -63,7 +63,7 @@ Diff (max vs sum): -76
 | Death By Water | 0.10 |
 | Ten Years at Zee | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,167 (Ranked 83)  
+Progressed: 28,173 (Ranked 83)  
 Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-01 | 27,940 | 3 |
 | 2023-05-02 | 28,017 | 3 |
 | 2023-05-03 | 28,094 | 3 |
-| 2023-05-04 | 28,167 | 3 |
+| 2023-05-04 | 28,173 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

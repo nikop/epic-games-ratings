@@ -69,7 +69,7 @@
       "ID": "ACH_BASE_19",
       "SetID": "92iocjf",
       "Name": "...  in a finite world",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30
     },
     {
@@ -293,7 +293,7 @@
       "ID": "ACH_BASE_51",
       "SetID": "92iocjf",
       "Name": "Convenient Transport",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15
     },
     {
@@ -335,7 +335,7 @@
       "ID": "ACH_BASE_59",
       "SetID": "92iocjf",
       "Name": "The Ship of Theseus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20
     },
     {
@@ -356,7 +356,7 @@
       "ID": "ACH_BASE_61",
       "SetID": "92iocjf",
       "Name": "Scientifically Accurate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10
     },
     {
@@ -744,13 +744,13 @@
   ],
   "TotalAchievementsXP": 1050,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-04T20:05:23.2121573+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:25.091511+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
   "EOS_Progressed": 1827,
-  "LastUpdate_Achievements": "2023-05-04T20:05:23.2122179+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:58:28.9076552+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:05:25.0915557+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:58:22.7384868+00:00",
   "AchievementSets": [
     {
       "ID": "7a6m2da",

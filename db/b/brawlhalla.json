@@ -19,7 +19,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 87
+      "Count": 90
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1565,6 +1565,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 942,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-05-04T20:59:30.9338219+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 945,
+      "NumberOfAwardsMax": 99
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1573,18 +1579,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T20:04:20.5531696+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:41.6782905+00:00",
+  "LastUpdate_Achievements": "2023-05-04T21:04:22.1018059+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:30.9338221+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T19:59:41.6782896+00:00",
+  "LastChanged": "2023-05-04T20:59:30.9338217+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 99,
-  "NumberOfAwards": 942,
+  "NumberOfAwards": 945,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 231,

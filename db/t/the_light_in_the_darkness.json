@@ -34,7 +34,7 @@
       "ID": "Jacques a Dit",
       "SetID": "b40dflc",
       "Name": "Jacques a Dit",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40
     },
     {
@@ -603,6 +603,11 @@
       "Time": "2023-05-04T20:05:57.6940179+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-05-04T21:05:59.0599585+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 85
     }
   ],
   "RatingHistory": [
@@ -615,22 +620,22 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T20:05:57.6940165+00:00",
+  "LastChanged_Achievements": "2023-05-04T21:05:59.0599583+00:00",
   "EOS_NewCompleters": 9,
   "EOS_NewPlayers": 117,
   "EOS_Completed": 85,
-  "EOS_Progressed": 1120,
-  "LastUpdate_Achievements": "2023-05-04T20:05:57.6940332+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:59:43.4429281+00:00",
+  "EOS_Progressed": 1121,
+  "LastUpdate_Achievements": "2023-05-04T21:05:59.0599671+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:59:32.6895796+00:00",
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 85
     }
   ],
-  "EOS_Completed_Percentage": 7.59,
+  "EOS_Completed_Percentage": 7.58,
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
@@ -639,6 +644,6 @@
   "Ranking_EOS_NewCompleters": 17,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 154,
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00"
 }

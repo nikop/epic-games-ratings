@@ -44,7 +44,7 @@ Diff (max vs sum): 46
 | It's All in the Reflexes | 0.10 |
 | Road Hazard | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,724 (Ranked 35)  
+Progressed: 361,751 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 360,392 | 2 |
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
-| 2023-05-04 | 361,724 | 2 |
+| 2023-05-04 | 361,751 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

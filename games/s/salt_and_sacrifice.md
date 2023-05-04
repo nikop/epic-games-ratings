@@ -62,7 +62,7 @@ Diff (max vs sum): -51
 | The Scholar | 10.00 |
 | Top Shelf | 5.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,733 (Ranked 63)  
+Progressed: 63,734 (Ranked 63)  
 Completed: 1,149 (1.80%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1,149 (1.80%) (Ranked 58)
 | 2023-05-01 | 63,683 | 1,146 |
 | 2023-05-02 | 63,694 | 1,146 |
 | 2023-05-03 | 63,720 | 1,148 |
-| 2023-05-04 | 63,733 | 1,149 |
+| 2023-05-04 | 63,734 | 1,149 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
