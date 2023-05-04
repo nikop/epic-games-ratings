@@ -2,7 +2,7 @@
 Rating: 4.49 (Ranked 547)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 226  (Ranked 244)  
-Sum: 2,033 (Ranked 184)  
+Sum: 2,034 (Ranked 184)  
 Diff (max vs sum): 60
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,476 (Ranked 88)  
@@ -24,7 +24,7 @@ Completed: 40 (0.19%) (Ranked 133)
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 226 |
-| This game is Great for Beginners | 216 |
+| This game is Great for Beginners | 217 |
 | This game has Diverse Characters | 208 |
 | This game has Amazing Storytelling | 207 |
 | This game has Competitive Players | 205 |
@@ -89,4 +89,4 @@ Completed: 40 (0.19%) (Ranked 133)
 | 2023-05-01 | 4.50 | 226 | 2,027 |
 | 2023-05-02 | 4.49 | 226 | 2,028 |
 | 2023-05-03 | 4.49 | 226 | 2,032 |
-| 2023-05-04 | 4.49 | 226 | 2,033 |
+| 2023-05-04 | 4.49 | 226 | 2,034 |
