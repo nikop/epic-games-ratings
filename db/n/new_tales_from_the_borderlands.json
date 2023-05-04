@@ -7,182 +7,208 @@
       "SetID": "kakdpn",
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 94500
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
       "SetID": "kakdpn",
       "Name": "Okay, Vain Much?",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1688
     },
     {
       "ID": "COL_EVR_VAULTLANDER_FIG",
       "SetID": "kakdpn",
       "Name": "Not Dolls. Action Figures!",
       "Percentage": 0.2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 675
     },
     {
       "ID": "CPLT_WITHOUT_REACHING_GAMEOVER",
       "SetID": "kakdpn",
       "Name": "You Played This Before?",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "FAIL_QTE_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Totally Intentional",
       "Percentage": 43,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 145125
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
       "SetID": "kakdpn",
       "Name": "Each Sold Separately",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 121500
     },
     {
       "ID": "FINISH_EPISODE_1",
       "SetID": "kakdpn",
       "Name": "From Zeroes...",
       "Percentage": 27,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 91125
     },
     {
       "ID": "FINISH_EPISODE_2",
       "SetID": "kakdpn",
       "Name": "Shard Snatchers",
       "Percentage": 23,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 77625
     },
     {
       "ID": "FINISH_EPISODE_3",
       "SetID": "kakdpn",
       "Name": "Our Lucky Winner",
       "Percentage": 20,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 67500
     },
     {
       "ID": "FINISH_EPISODE_4",
       "SetID": "kakdpn",
       "Name": "The Shardmenstration",
       "Percentage": 18,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 60750
     },
     {
       "ID": "FINISH_EPISODE_5",
       "SetID": "kakdpn",
       "Name": "...To Heroes",
       "Percentage": 17,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 57375
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
       "SetID": "kakdpn",
       "Name": "New Business",
       "Percentage": 0.8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2700
     },
     {
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
       "Percentage": 28,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 94500
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Rich Now!",
       "Percentage": 21,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 70875
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
       "SetID": "kakdpn",
       "Name": "We\u0027re In",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 104625
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
       "SetID": "kakdpn",
       "Name": "Who Needs Keys?",
       "Percentage": 48,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 162000
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Poor Now!",
       "Percentage": 19,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 64125
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
       "SetID": "kakdpn",
       "Name": "You Got the Goods, Kid",
       "Percentage": 19,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 64125
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
       "SetID": "kakdpn",
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 30375
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
       "SetID": "kakdpn",
       "Name": "Bring back the butt!",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13500
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
       "SetID": "kakdpn",
       "Name": "Hey, thanks!",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13500
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
       "SetID": "kakdpn",
       "Name": "Those Were the Days...",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 60750
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
       "SetID": "kakdpn",
       "Name": "And Still Champion...",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 43875
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
       "SetID": "kakdpn",
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 87750
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
       "SetID": "kakdpn",
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6750
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
       "SetID": "kakdpn",
       "Name": "Mas, Por Favor",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 54000
     }
   ],
   "Tags": [],
@@ -421,13 +447,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 26,
-  "LastChanged_Achievements": "2023-05-04T22:06:45.510261+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:47.7549205+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
   "EOS_Progressed": 3375,
-  "LastUpdate_Achievements": "2023-05-04T22:06:45.5102911+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:16.0492517+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:47.7549388+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:33.2438631+00:00",
   "AchievementSets": [
     {
       "ID": "kakdpn",

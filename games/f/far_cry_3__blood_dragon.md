@@ -1,9 +1,10 @@
 # Far Cry 3: Blood Dragon
+[View Rawdata](../../db/f/far_cry_3__blood_dragon.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

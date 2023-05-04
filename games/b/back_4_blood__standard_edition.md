@@ -1,4 +1,5 @@
 # Back 4 Blood: Standard Edition
+[View Rawdata](../../db/b/back_4_blood__standard_edition.json)  
 Rating: 4.46 (Ranked 590)  
 Number of Ratings: 2,790  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 3,255  (Ranked 81)
 Sum: 7,161 (Ranked 100)  
 Diff (max vs sum): -19  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,175 +7,200 @@
       "SetID": "6jd5kdh",
       "Name": "First contact",
       "Percentage": 103,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3296
     },
     {
       "ID": "Achievement_01",
       "SetID": "6jd5kdh",
       "Name": "C Rank Bug-catcher",
       "Percentage": 44,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1408
     },
     {
       "ID": "Achievement_02",
       "SetID": "6jd5kdh",
       "Name": "B Rank Bug-catcher",
       "Percentage": 28,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 896
     },
     {
       "ID": "Achievement_03",
       "SetID": "6jd5kdh",
       "Name": "A Rank Bug-catcher",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_04",
       "SetID": "6jd5kdh",
       "Name": "S Rank Bug-catcher",
       "Percentage": 9,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_05",
       "SetID": "6jd5kdh",
       "Name": "System shocked",
       "Percentage": 63,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2016
     },
     {
       "ID": "Achievement_06",
       "SetID": "6jd5kdh",
       "Name": "Blade of prophecy",
       "Percentage": 47,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1504
     },
     {
       "ID": "Achievement_07",
       "SetID": "6jd5kdh",
       "Name": "Normal end",
       "Percentage": 47,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1504
     },
     {
       "ID": "Achievement_08",
       "SetID": "6jd5kdh",
       "Name": "Thanks for Buying",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_09",
       "SetID": "6jd5kdh",
       "Name": "Thanks for Playing",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 192
     },
     {
       "ID": "Achievement_10",
       "SetID": "6jd5kdh",
       "Name": "Errorbane",
       "Percentage": 16,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_11",
       "SetID": "6jd5kdh",
       "Name": "Expos\u00E9",
       "Percentage": 59,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1888
     },
     {
       "ID": "Achievement_12",
       "SetID": "6jd5kdh",
       "Name": "Secret Admirer",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_13",
       "SetID": "6jd5kdh",
       "Name": "Brute forcing",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_14",
       "SetID": "6jd5kdh",
       "Name": "Bugged, not stupid",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_15",
       "SetID": "6jd5kdh",
       "Name": "You never know!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_16",
       "SetID": "6jd5kdh",
       "Name": "Higher on the street",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_17",
       "SetID": "6jd5kdh",
       "Name": "Deepest lore",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_18",
       "SetID": "6jd5kdh",
       "Name": "Pool party",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_19",
       "SetID": "6jd5kdh",
       "Name": "Never learn",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 992
     },
     {
       "ID": "Achievement_20",
       "SetID": "6jd5kdh",
       "Name": "Dance machine",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_21",
       "SetID": "6jd5kdh",
       "Name": "Hackerman",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_22",
       "SetID": "6jd5kdh",
       "Name": "Arcade master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_23",
       "SetID": "6jd5kdh",
       "Name": "Armed robbery",
       "Percentage": 38,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1216
     },
     {
       "ID": "Achievement_24",
       "SetID": "6jd5kdh",
       "Name": "Real completionist",
       "Percentage": 0,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -201,13 +226,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-04T22:06:47.376117+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:49.0991576+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 32,
-  "LastUpdate_Achievements": "2023-05-04T22:06:47.3761408+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:27.9997154+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:49.0991866+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:40.4109808+00:00",
   "AchievementSets": [
     {
       "ID": "6jd5kdh",

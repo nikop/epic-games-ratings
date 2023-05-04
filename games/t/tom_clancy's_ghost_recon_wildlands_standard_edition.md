@@ -1,4 +1,5 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
+[View Rawdata](../../db/t/tom_clancy's_ghost_recon_wildlands_standard_edition.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 871  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 178  (Ranked 267)
 Sum: 1,261 (Ranked 217)  
 Diff (max vs sum): 50  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

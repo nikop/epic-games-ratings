@@ -1,50 +1,51 @@
 # Potion Permit
+[View Rawdata](../../db/p/potion_permit.json)  
 Rating: 3.79 (Ranked 903)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Welcome to Moonbury | 98.00 |
-| The First Step | 89.00 |
-| Moonbury Traveller | 63.00 |
-| Rookie Chemist | 62.00 |
-| Great Doctor | 49.00 |
-| Dog Whisperer | 47.00 |
-| Friendly | 45.00 |
-| K.O.! | 41.00 |
-| The Capitalist | 41.00 |
-| Intermediate Chemist | 37.00 |
-| Decorative Mind | 30.00 |
-| Lumber Specialist | 29.00 |
-| Catch of the Day | 23.00 |
-| Kind-hearted | 22.00 |
-| Amateur Chef | 19.00 |
-| Fishing Guru | 17.00 |
-| Community Helper | 16.00 |
-| Spark of Love | 14.00 |
-| Stone Specialist | 13.00 |
-| Expert Chemist | 12.00 |
-| Sociable | 11.00 |
-| Ablutomaniac | 11.00 |
-| Production Sorter | 11.00 |
-| Good Samaritan | 10.00 |
-| Line Cook | 9.00 |
-| Acrobatic Adventurer | 8.00 |
-| Animal Exterminator | 7.00 |
-| Adolescent Love | 5.00 |
-| Mail Carrier | 5.00 |
-| Plantation Exterminator | 4.00 |
-| Grape Supplier | 4.00 |
-| Sous Chef | 3.00 |
-| Rock Exterminator | 2.00 |
-| Tree Exterminator | 2.00 |
-| Being forgetful... | 1.00 |
-| Community Advisor | 1.00 |
-| Moonbury Navigator | 0.70 |
-| Being a donut... | 0.60 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Welcome to Moonbury | 98.00% | ~120,540 |
+| The First Step | 89.00% | ~109,470 |
+| Moonbury Traveller | 63.00% | ~77,490 |
+| Rookie Chemist | 62.00% | ~76,260 |
+| Great Doctor | 49.00% | ~60,270 |
+| Dog Whisperer | 47.00% | ~57,810 |
+| Friendly | 45.00% | ~55,350 |
+| K.O.! | 41.00% | ~50,430 |
+| The Capitalist | 41.00% | ~50,430 |
+| Intermediate Chemist | 37.00% | ~45,510 |
+| Decorative Mind | 30.00% | ~36,900 |
+| Lumber Specialist | 29.00% | ~35,670 |
+| Catch of the Day | 23.00% | ~28,290 |
+| Kind-hearted | 22.00% | ~27,060 |
+| Amateur Chef | 19.00% | ~23,370 |
+| Fishing Guru | 17.00% | ~20,910 |
+| Community Helper | 16.00% | ~19,680 |
+| Spark of Love | 14.00% | ~17,220 |
+| Stone Specialist | 13.00% | ~15,990 |
+| Expert Chemist | 12.00% | ~14,760 |
+| Sociable | 11.00% | ~13,530 |
+| Ablutomaniac | 11.00% | ~13,530 |
+| Production Sorter | 11.00% | ~13,530 |
+| Good Samaritan | 10.00% | ~12,300 |
+| Line Cook | 9.00% | ~11,070 |
+| Acrobatic Adventurer | 8.00% | ~9,840 |
+| Animal Exterminator | 7.00% | ~8,610 |
+| Adolescent Love | 5.00% | ~6,150 |
+| Mail Carrier | 5.00% | ~6,150 |
+| Plantation Exterminator | 4.00% | ~4,920 |
+| Grape Supplier | 4.00% | ~4,920 |
+| Sous Chef | 3.00% | ~3,690 |
+| Rock Exterminator | 2.00% | ~2,460 |
+| Tree Exterminator | 2.00% | ~2,460 |
+| Being forgetful... | 1.00% | ~1,230 |
+| Community Advisor | 1.00% | ~1,230 |
+| Moonbury Navigator | 0.70% | ~861 |
+| Being a donut... | 0.60% | ~738 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,230 (Ranked 152)  
 Completed: 5 (0.41%) (Ranked 103)  

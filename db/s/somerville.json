@@ -7,77 +7,88 @@
       "SetID": "3mk3nll",
       "Name": "Blues Jam.",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4647
     },
     {
       "ID": "SomervilleFamilyFirst",
       "SetID": "3mk3nll",
       "Name": "Family First.",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 4647
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
       "SetID": "3mk3nll",
       "Name": "First contact.",
       "Percentage": 0.5,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 774
     },
     {
       "ID": "SomervilleHereBoy",
       "SetID": "3mk3nll",
       "Name": "\u201CHere boy\u2026\u0022",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3098
     },
     {
       "ID": "SomervilleResignation",
       "SetID": "3mk3nll",
       "Name": "Resignation.",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 7745
     },
     {
       "ID": "SomervilleResignationReprise",
       "SetID": "3mk3nll",
       "Name": "Resignation Reprise.",
       "Percentage": 8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 12392
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
       "SetID": "3mk3nll",
       "Name": "\u201COccupied!\u201C",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 20137
     },
     {
       "ID": "SomervilleUnderstanding",
       "SetID": "3mk3nll",
       "Name": "Understanding.",
       "Percentage": 3,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 4647
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
       "SetID": "3mk3nll",
       "Name": "War of the worlds.",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 9294
     },
     {
       "ID": "SomervilleWearyTraveller",
       "SetID": "3mk3nll",
       "Name": "Admiring the view.",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 7745
     },
     {
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad.",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 18588
     }
   ],
   "Tags": [],
@@ -205,13 +216,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T22:06:04.5315393+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:17.2370233+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 8,
   "EOS_Completed": 25,
   "EOS_Progressed": 1549,
-  "LastUpdate_Achievements": "2023-05-04T22:06:04.5315508+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:02.8849134+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:17.2370385+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:05.2566447+00:00",
   "AchievementSets": [
     {
       "ID": "3mk3nll",

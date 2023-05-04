@@ -1,4 +1,5 @@
 # Zombie Army 4: Dead War
+[View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 743  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,74 +7,74 @@ Max (Great Boss Battles): 769  (Ranked 146)
 Sum: 2,350 (Ranked 171)  
 Diff (max vs sum): -25  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Shoot it, man! Shoot it in the head! | 68.00 |
-| Say goodbye, creep! | 65.00 |
-| Blood splattered | 64.00 |
-| Choo choo! | 61.00 |
-| Groovy | 60.00 |
-| Cleanup on aisle 4! | 56.00 |
-| Gold | 50.00 |
-| The boat can leave now...tell the crew | 48.00 |
-| Give me something to shoot! | 46.00 |
-| Stand back boy! | 46.00 |
-| Weird science | 44.00 |
-| Chain reaction | 44.00 |
-| Look mummy! A shark! | 41.00 |
-| What did you say, Blain? | 41.00 |
-| In the dark dark woods... | 38.00 |
-| Come and get it! It's a running buffet! | 38.00 |
-| Double tap | 36.00 |
-| Cranial blowout! | 36.00 |
-| Zombie killin' machine | 36.00 |
-| Every bullet counts | 36.00 |
-| All of this has happened before… | 35.00 |
-| You've got red on you | 34.00 |
-| All roads lead to Rome | 33.00 |
-| You're all going to die down here | 31.00 |
-| He did Nazi that coming | 31.00 |
-| Kill of the week | 30.00 |
-| I never liked them anyway | 30.00 |
-| Is it over? | 28.00 |
-| Got your back | 27.00 |
-| Gore soaked | 24.00 |
-| Shock therapy | 22.00 |
-| Leave the limbs you've lost | 22.00 |
-| Everyone's a mad scientist, life is the lab | 18.00 |
-| Take them down screaming | 18.00 |
-| Weapons expert | 17.00 |
-| Bad Blood | 16.00 |
-| The bigger they are... | 15.00 |
-| I'm going deeper underground | 14.00 |
-| Well equipped | 12.00 |
-| Into the deep | 12.00 |
-| Damnedbusters | 9.00 |
-| I can do anything I want. I got guns | 8.00 |
-| Send me an angel | 8.00 |
-| Plane sailing | 7.00 |
-| This is no Sunday School picnic! | 7.00 |
-| I never redoubted you! | 7.00 |
-| Gotcha, didn't I? | 7.00 |
-| A gross gross | 7.00 |
-| Hail to the king, baby! | 7.00 |
-| Something wicked this way comes | 6.00 |
-| Not today you won't | 6.00 |
-| Take a little bit of Italy with you | 6.00 |
-| Staring at Shadows | 6.00 |
-| Hoarder | 6.00 |
-| Kali Ma | 5.00 |
-| I told you we should have gone to the beach | 5.00 |
-| Have you tried turning it off and on again? | 5.00 |
-| They're coming to get you Barbara | 4.00 |
-| Total protonic reversal | 4.00 |
-| A friend in need | 4.00 |
-| People don't change. We go round in circles | 3.00 |
-| The blighters got through a second time. | 3.00 |
-| I'm a survivor! | 3.00 |
-| That's a lot of them, and only 4 of us | 2.00 |
-| Just me and my trusty sidearm | 1.00 |
-| None more hard | 0.50 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~2,869,804 |
+| Say goodbye, creep! | 65.00% | ~2,743,195 |
+| Blood splattered | 64.00% | ~2,700,992 |
+| Choo choo! | 61.00% | ~2,574,383 |
+| Groovy | 60.00% | ~2,532,180 |
+| Cleanup on aisle 4! | 56.00% | ~2,363,368 |
+| Gold | 50.00% | ~2,110,150 |
+| The boat can leave now...tell the crew | 48.00% | ~2,025,744 |
+| Give me something to shoot! | 46.00% | ~1,941,338 |
+| Stand back boy! | 46.00% | ~1,941,338 |
+| Weird science | 44.00% | ~1,856,932 |
+| Chain reaction | 44.00% | ~1,856,932 |
+| Look mummy! A shark! | 41.00% | ~1,730,323 |
+| What did you say, Blain? | 41.00% | ~1,730,323 |
+| In the dark dark woods... | 38.00% | ~1,603,714 |
+| Come and get it! It's a running buffet! | 38.00% | ~1,603,714 |
+| Double tap | 36.00% | ~1,519,308 |
+| Cranial blowout! | 36.00% | ~1,519,308 |
+| Zombie killin' machine | 36.00% | ~1,519,308 |
+| Every bullet counts | 36.00% | ~1,519,308 |
+| All of this has happened before… | 35.00% | ~1,477,105 |
+| You've got red on you | 34.00% | ~1,434,902 |
+| All roads lead to Rome | 33.00% | ~1,392,699 |
+| You're all going to die down here | 31.00% | ~1,308,293 |
+| He did Nazi that coming | 31.00% | ~1,308,293 |
+| Kill of the week | 30.00% | ~1,266,090 |
+| I never liked them anyway | 30.00% | ~1,266,090 |
+| Is it over? | 28.00% | ~1,181,684 |
+| Got your back | 27.00% | ~1,139,481 |
+| Gore soaked | 24.00% | ~1,012,872 |
+| Shock therapy | 22.00% | ~928,466 |
+| Leave the limbs you've lost | 22.00% | ~928,466 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~759,654 |
+| Take them down screaming | 18.00% | ~759,654 |
+| Weapons expert | 17.00% | ~717,451 |
+| Bad Blood | 16.00% | ~675,248 |
+| The bigger they are... | 15.00% | ~633,045 |
+| I'm going deeper underground | 14.00% | ~590,842 |
+| Well equipped | 12.00% | ~506,436 |
+| Into the deep | 12.00% | ~506,436 |
+| Damnedbusters | 9.00% | ~379,827 |
+| I can do anything I want. I got guns | 8.00% | ~337,624 |
+| Send me an angel | 8.00% | ~337,624 |
+| Plane sailing | 7.00% | ~295,421 |
+| This is no Sunday School picnic! | 7.00% | ~295,421 |
+| I never redoubted you! | 7.00% | ~295,421 |
+| Gotcha, didn't I? | 7.00% | ~295,421 |
+| A gross gross | 7.00% | ~295,421 |
+| Hail to the king, baby! | 7.00% | ~295,421 |
+| Something wicked this way comes | 6.00% | ~253,218 |
+| Not today you won't | 6.00% | ~253,218 |
+| Take a little bit of Italy with you | 6.00% | ~253,218 |
+| Staring at Shadows | 6.00% | ~253,218 |
+| Hoarder | 6.00% | ~253,218 |
+| Kali Ma | 5.00% | ~211,015 |
+| I told you we should have gone to the beach | 5.00% | ~211,015 |
+| Have you tried turning it off and on again? | 5.00% | ~211,015 |
+| They're coming to get you Barbara | 4.00% | ~168,812 |
+| Total protonic reversal | 4.00% | ~168,812 |
+| A friend in need | 4.00% | ~168,812 |
+| People don't change. We go round in circles | 3.00% | ~126,609 |
+| The blighters got through a second time. | 3.00% | ~126,609 |
+| I'm a survivor! | 3.00% | ~126,609 |
+| That's a lot of them, and only 4 of us | 2.00% | ~84,406 |
+| Just me and my trusty sidearm | 1.00% | ~42,203 |
+| None more hard | 0.50% | ~21,102 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42,203 (Ranked 76)  
 Completed: 24 (0.06%) (Ranked 161)  

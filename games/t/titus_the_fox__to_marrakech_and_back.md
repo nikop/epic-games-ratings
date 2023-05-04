@@ -1,7 +1,8 @@
 # Titus the Fox: To Marrakech and Back
+[View Rawdata](../../db/t/titus_the_fox__to_marrakech_and_back.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

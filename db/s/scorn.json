@@ -7,84 +7,96 @@
       "SetID": "94k0mj8",
       "Name": "001",
       "Percentage": 0.2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 373
     },
     {
       "ID": "002",
       "SetID": "94k0mj8",
       "Name": "002",
       "Percentage": 0.4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 746
     },
     {
       "ID": "003",
       "SetID": "94k0mj8",
       "Name": "003",
       "Percentage": 0.3,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 560
     },
     {
       "ID": "004",
       "SetID": "94k0mj8",
       "Name": "004",
       "Percentage": 0.4,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 746
     },
     {
       "ID": "005",
       "SetID": "94k0mj8",
       "Name": "005",
       "Percentage": 0.2,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 373
     },
     {
       "ID": "006",
       "SetID": "94k0mj8",
       "Name": "006",
       "Percentage": 0.3,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 560
     },
     {
       "ID": "007",
       "SetID": "94k0mj8",
       "Name": "007",
       "Percentage": 0.2,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 373
     },
     {
       "ID": "008",
       "SetID": "94k0mj8",
       "Name": "008",
       "Percentage": 0.3,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 560
     },
     {
       "ID": "009",
       "SetID": "94k0mj8",
       "Name": "009",
       "Percentage": 0.2,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 373
     },
     {
       "ID": "010",
       "SetID": "94k0mj8",
       "Name": "010",
       "Percentage": 0.2,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 373
     },
     {
       "ID": "011",
       "SetID": "94k0mj8",
       "Name": "011",
       "Percentage": 0.2,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 373
     },
     {
       "ID": "012",
       "SetID": "94k0mj8",
       "Name": "012",
       "Percentage": 0.2,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 373
     }
   ],
   "Tags": [],
@@ -339,13 +351,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:05:58.5136726+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:12.9442912+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 13,
   "EOS_Completed": 133,
   "EOS_Progressed": 1866,
-  "LastUpdate_Achievements": "2023-05-04T22:05:58.5137346+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:23.5047368+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:12.9443183+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:18.4688595+00:00",
   "AchievementSets": [
     {
       "ID": "94k0mj8",

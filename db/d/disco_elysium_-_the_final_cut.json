@@ -7,280 +7,320 @@
       "SetID": "5l3ge6h",
       "Name": "Baddest Brow in Town",
       "Percentage": 0.7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 82563
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
       "SetID": "5l3ge6h",
       "Name": "Cause a ****storm",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 23589
     },
     {
       "ID": "ACH_COMMITTEE",
       "SetID": "5l3ge6h",
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 94358
     },
     {
       "ID": "ACH_COP_APO",
       "SetID": "5l3ge6h",
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 353841
     },
     {
       "ID": "ACH_COP_ART",
       "SetID": "5l3ge6h",
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2123046
     },
     {
       "ID": "ACH_COP_BAD",
       "SetID": "5l3ge6h",
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 235894
     },
     {
       "ID": "ACH_COP_BORING",
       "SetID": "5l3ge6h",
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 943576
     },
     {
       "ID": "ACH_COP_COMMUNIST",
       "SetID": "5l3ge6h",
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2830728
     },
     {
       "ID": "ACH_COP_DESTROY",
       "SetID": "5l3ge6h",
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 943576
     },
     {
       "ID": "ACH_COP_DORK",
       "SetID": "5l3ge6h",
       "Name": "Massive Torque Dork",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 117947
     },
     {
       "ID": "ACH_COP_GOOD",
       "SetID": "5l3ge6h",
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3302516
     },
     {
       "ID": "ACH_COP_HONOUR",
       "SetID": "5l3ge6h",
       "Name": "The Most Honourable Cop in The Land",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 11795
     },
     {
       "ID": "ACH_COP_LAW",
       "SetID": "5l3ge6h",
       "Name": "The Lawbringer",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 353841
     },
     {
       "ID": "ACH_COP_LIBERAL",
       "SetID": "5l3ge6h",
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1887152
     },
     {
       "ID": "ACH_COP_MORALIST",
       "SetID": "5l3ge6h",
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2358940
     },
     {
       "ID": "ACH_COP_REMOTE",
       "SetID": "5l3ge6h",
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 235894
     },
     {
       "ID": "ACH_COP_SORRY",
       "SetID": "5l3ge6h",
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1533311
     },
     {
       "ID": "ACH_COP_STAR",
       "SetID": "5l3ge6h",
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1769205
     },
     {
       "ID": "ACH_COP_TRAD",
       "SetID": "5l3ge6h",
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1297417
     },
     {
       "ID": "ACH_CUNO",
       "SetID": "5l3ge6h",
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 235894
     },
     {
       "ID": "ACH_DOLORES",
       "SetID": "5l3ge6h",
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1061523
     },
     {
       "ID": "ACH_GLUTEN",
       "SetID": "5l3ge6h",
       "Name": "Gluten-Free Topping Pie",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 11795
     },
     {
       "ID": "ACH_HARDCORE_ENDGAME",
       "SetID": "5l3ge6h",
       "Name": "True Detective",
       "Percentage": 0.2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 23589
     },
     {
       "ID": "ACH_HARDCORE_TASK",
       "SetID": "5l3ge6h",
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 94358
     },
     {
       "ID": "ACH_HARDIE",
       "SetID": "5l3ge6h",
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 589735
     },
     {
       "ID": "ACH_ICEBREAKER",
       "SetID": "5l3ge6h",
       "Name": "The Icebreaker",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 23589
     },
     {
       "ID": "ACH_INFRAMATERIALIST",
       "SetID": "5l3ge6h",
       "Name": "Avowed Inframaterialist",
       "Percentage": 0.9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 106152
     },
     {
       "ID": "ACH_KIM",
       "SetID": "5l3ge6h",
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1651258
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
       "SetID": "5l3ge6h",
       "Name": "Bother Kim After Hours",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 235894
     },
     {
       "ID": "ACH_KIM_JACKET",
       "SetID": "5l3ge6h",
       "Name": "Get Kim to Wear *The Jacket*",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 11795
     },
     {
       "ID": "ACH_LEOPART_MINDSET",
       "SetID": "5l3ge6h",
       "Name": "Leopard Mindset",
       "Percentage": 0.5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 58974
     },
     {
       "ID": "ACH_MEDAL",
       "SetID": "5l3ge6h",
       "Name": "Medal dispenser",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 11795
     },
     {
       "ID": "ACH_MULLEN",
       "SetID": "5l3ge6h",
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 35384
     },
     {
       "ID": "ACH_NETWORTHY",
       "SetID": "5l3ge6h",
       "Name": "Networthy Individual",
       "Percentage": 0.7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 82563
     },
     {
       "ID": "ACH_PALERUNNER",
       "SetID": "5l3ge6h",
       "Name": "Palerunner",
       "Percentage": 0.3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 35384
     },
     {
       "ID": "ACH_PINBALL",
       "SetID": "5l3ge6h",
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1533311
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
       "SetID": "5l3ge6h",
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 235894
     },
     {
       "ID": "ACH_POWERARMOR",
       "SetID": "5l3ge6h",
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 471788
     },
     {
       "ID": "ACH_REAL_MUSOR",
       "SetID": "5l3ge6h",
       "Name": "Real Musor",
       "Percentage": 0.9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 106152
     },
     {
       "ID": "ACH_WHATBODY",
       "SetID": "5l3ge6h",
       "Name": "What body?",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 11795
     }
   ],
   "Tags": [
@@ -2301,13 +2341,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:06:36.4910608+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:41.0134443+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 367,
   "EOS_Completed": 24,
   "EOS_Progressed": 117947,
-  "LastUpdate_Achievements": "2023-05-04T22:06:36.4911222+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:40.6820545+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:41.0135061+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:10.1827303+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",

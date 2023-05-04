@@ -1,4 +1,5 @@
 # BioShock Infinite: Complete Edition
+[View Rawdata](../../db/b/bioshock_infinite__complete_edition.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 18,329  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 4,518  (Ranked 67)
 Sum: 5,547 (Ranked 115)  
 Diff (max vs sum): -48  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

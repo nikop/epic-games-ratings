@@ -1,38 +1,39 @@
 # DESTRUCTURE: Among Debris
+[View Rawdata](../../db/d/destructure__among_debris.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Rookie | 72.00 |
-| Graduation | 67.00 |
-| You Have Been Deaded | 53.00 |
-| Apprentice Destructor | 17.00 |
-| I Prefer Jazz Fusion | 11.00 |
-| Avaricerite | 8.00 |
-| You Are Actually Supposed To Use Those | 8.00 |
-| Ball Galore | 3.00 |
-| Ball Protector | 3.00 |
-| Bullet Hell | 3.00 |
-| Easy Victory | 3.00 |
-| Legendary Destructor | 3.00 |
-| Machine Man | 3.00 |
-| Master Destructor | 3.00 |
-| Mushroom Man | 3.00 |
-| Nomad | 3.00 |
-| Scrap Collector | 3.00 |
-| Ticking Clock | 3.00 |
-| Untouchable | 3.00 |
-| Back From The Dead | 0.00 |
-| Ball Collector | 0.00 |
-| Collector | 0.00 |
-| Detoxed | 0.00 |
-| Ice Breaker | 0.00 |
-| Medium Rare | 0.00 |
-| Monster of Fashion | 0.00 |
-| Single Person On Earth | 0.00 |
-| Total Walrus | 0.00 |
-| True Victory | 0.00 |
-| Victory That Is Even More True | 0.00 |
-| What Even Are You? | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Rookie | 72.00% | ~2,592 |
+| Graduation | 67.00% | ~2,412 |
+| You Have Been Deaded | 53.00% | ~1,908 |
+| Apprentice Destructor | 19.00% | ~684 |
+| I Prefer Jazz Fusion | 11.00% | ~396 |
+| Avaricerite | 8.00% | ~288 |
+| You Are Actually Supposed To Use Those | 8.00% | ~288 |
+| Ball Galore | 3.00% | ~108 |
+| Ball Protector | 3.00% | ~108 |
+| Bullet Hell | 3.00% | ~108 |
+| Easy Victory | 3.00% | ~108 |
+| Legendary Destructor | 3.00% | ~108 |
+| Machine Man | 3.00% | ~108 |
+| Master Destructor | 3.00% | ~108 |
+| Mushroom Man | 3.00% | ~108 |
+| Nomad | 3.00% | ~108 |
+| Scrap Collector | 3.00% | ~108 |
+| Ticking Clock | 3.00% | ~108 |
+| Untouchable | 3.00% | ~108 |
+| Back From The Dead | 0.00% | ~0 |
+| Ball Collector | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Detoxed | 0.00% | ~0 |
+| Ice Breaker | 0.00% | ~0 |
+| Medium Rare | 0.00% | ~0 |
+| Monster of Fashion | 0.00% | ~0 |
+| Single Person On Earth | 0.00% | ~0 |
+| Total Walrus | 0.00% | ~0 |
+| True Victory | 0.00% | ~0 |
+| Victory That Is Even More True | 0.00% | ~0 |
+| What Even Are You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 191)  

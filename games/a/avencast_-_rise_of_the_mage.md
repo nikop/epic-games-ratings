@@ -1,7 +1,8 @@
 # Avencast - Rise Of The Mage
+[View Rawdata](../../db/a/avencast_-_rise_of_the_mage.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

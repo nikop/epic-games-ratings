@@ -7,84 +7,96 @@
       "SetID": "7171fo0",
       "Name": "Thrifty",
       "Percentage": 46,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 42504
     },
     {
       "ID": "achievement_botanical",
       "SetID": "7171fo0",
       "Name": "Botanical",
       "Percentage": 5,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 4620
     },
     {
       "ID": "achievement_fish_god_fed",
       "SetID": "7171fo0",
       "Name": "Fish Appreciation",
       "Percentage": 9,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 8316
     },
     {
       "ID": "achievement_giants_found",
       "SetID": "7171fo0",
       "Name": "Giants",
       "Percentage": 49,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 45276
     },
     {
       "ID": "achievement_got_rich",
       "SetID": "7171fo0",
       "Name": "Wealthy",
       "Percentage": 14,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 12936
     },
     {
       "ID": "achievement_inn_supplier",
       "SetID": "7171fo0",
       "Name": "Supplier",
       "Percentage": 6,
-      "XP": 180
+      "XP": 180,
+      "UsersEstimate": 5544
     },
     {
       "ID": "achievement_island_bought",
       "SetID": "7171fo0",
       "Name": "Real Estate",
       "Percentage": 64,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 59136
     },
     {
       "ID": "achievement_lighthouse",
       "SetID": "7171fo0",
       "Name": "Lighthouse Builder",
       "Percentage": 12,
-      "XP": 180
+      "XP": 180,
+      "UsersEstimate": 11088
     },
     {
       "ID": "achievement_quest_completed",
       "SetID": "7171fo0",
       "Name": "A man of his word",
       "Percentage": 96,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 88704
     },
     {
       "ID": "achievement_ship_bought",
       "SetID": "7171fo0",
       "Name": "New Ride",
       "Percentage": 54,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 49896
     },
     {
       "ID": "achievement_ship_fueled",
       "SetID": "7171fo0",
       "Name": "Energizer",
       "Percentage": 99,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 91476
     },
     {
       "ID": "achievement_too_big_to_fail",
       "SetID": "7171fo0",
       "Name": "Too big to fail",
       "Percentage": 35,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 32340
     }
   ],
   "Tags": [],
@@ -105,13 +117,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:06:20.0163407+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:28.8563588+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 14,
   "EOS_Progressed": 924,
-  "LastUpdate_Achievements": "2023-05-04T22:06:20.0163487+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:03.0692335+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:28.8563664+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:05.3753851+00:00",
   "AchievementSets": [
     {
       "ID": "7171fo0",
@@ -127,7 +139,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_Progress": 163,
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00"

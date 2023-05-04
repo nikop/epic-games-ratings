@@ -1,4 +1,5 @@
 # Spirittea
+[View Rawdata](../../db/s/spirittea.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

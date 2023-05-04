@@ -1,4 +1,5 @@
 # A Plague Tale: Innocence
+[View Rawdata](../../db/a/a_plague_tale__innocence.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 10,904  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 3,320  (Ranked 80)
 Sum: 3,768 (Ranked 134)  
 Diff (max vs sum): -54  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

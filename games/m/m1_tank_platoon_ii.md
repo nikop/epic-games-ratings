@@ -1,7 +1,8 @@
 # M1 Tank Platoon II
+[View Rawdata](../../db/m/m1_tank_platoon_ii.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -31,7 +31,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 110405
+      "Count": 110529
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4882,6 +4882,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1326615,
       "NumberOfAwardsMax": 294973
+    },
+    {
+      "Time": "2023-05-04T22:17:57.1521666+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1326739,
+      "NumberOfAwardsMax": 294973
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4890,18 +4896,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:02:13.5624098+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:20.8873458+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:19:50.2525724+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:57.1521672+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T21:59:20.887345+00:00",
+  "LastChanged": "2023-05-04T22:17:57.1521664+00:00",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 294973,
-  "NumberOfAwards": 1326615,
+  "NumberOfAwards": 1326739,
   "NumberOfRatings": 219180,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 3,

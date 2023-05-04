@@ -1,4 +1,5 @@
 # Last Words
+[View Rawdata](../../db/l/last_words.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

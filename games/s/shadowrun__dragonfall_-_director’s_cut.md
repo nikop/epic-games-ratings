@@ -1,4 +1,5 @@
 # Shadowrun: Dragonfall - Director’s Cut
+[View Rawdata](../../db/s/shadowrun__dragonfall_-_director’s_cut.json)  
 Rating: 4.54 (Ranked 475)  
 Number of Ratings: 236  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 88  (Ranked 336)
 Sum: 88 (Ranked 401)  
 Diff (max vs sum): -65  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

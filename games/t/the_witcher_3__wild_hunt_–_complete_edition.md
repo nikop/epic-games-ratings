@@ -1,4 +1,5 @@
 # The Witcher 3: Wild Hunt – Complete Edition
+[View Rawdata](../../db/t/the_witcher_3__wild_hunt_–_complete_edition.json)  
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 14,665  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 14,931  (Ranked 20)
 Sum: 36,148 (Ranked 31)  
 Diff (max vs sum): -11  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

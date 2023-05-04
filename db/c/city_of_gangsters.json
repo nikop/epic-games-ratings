@@ -7,560 +7,640 @@
       "SetID": "1d2iaed",
       "Name": "Corner Opportunities",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach002",
       "SetID": "1d2iaed",
       "Name": "Boxing Them In",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 308908
     },
     {
       "ID": "ach003",
       "SetID": "1d2iaed",
       "Name": "Cleaning House",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3706896
     },
     {
       "ID": "ach004",
       "SetID": "1d2iaed",
       "Name": "One of Us",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 617816
     },
     {
       "ID": "ach005",
       "SetID": "1d2iaed",
       "Name": "2122 North Clark Street",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach006",
       "SetID": "1d2iaed",
       "Name": "Street Knowledge",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach007",
       "SetID": "1d2iaed",
       "Name": "Boots in the Ground",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 216236
     },
     {
       "ID": "ach008",
       "SetID": "1d2iaed",
       "Name": "Room in the Back",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3706896
     },
     {
       "ID": "ach009",
       "SetID": "1d2iaed",
       "Name": "Backroom Empire",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 308908
     },
     {
       "ID": "ach010",
       "SetID": "1d2iaed",
       "Name": "Homemade Hooch",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 123563
     },
     {
       "ID": "ach011",
       "SetID": "1d2iaed",
       "Name": "Oh Captain",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach012",
       "SetID": "1d2iaed",
       "Name": "Core Corps",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2471264
     },
     {
       "ID": "ach013",
       "SetID": "1d2iaed",
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 617816
     },
     {
       "ID": "ach014",
       "SetID": "1d2iaed",
       "Name": "Fronting the Money",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4324712
     },
     {
       "ID": "ach015",
       "SetID": "1d2iaed",
       "Name": "Branching Out",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach016",
       "SetID": "1d2iaed",
       "Name": "Corner Control",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 308908
     },
     {
       "ID": "ach017",
       "SetID": "1d2iaed",
       "Name": "Dirty Money",
       "Percentage": 12,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3706896
     },
     {
       "ID": "ach018",
       "SetID": "1d2iaed",
       "Name": "Sizeable Stash",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2162356
     },
     {
       "ID": "ach019",
       "SetID": "1d2iaed",
       "Name": "Considerable Clams",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1235632
     },
     {
       "ID": "ach020",
       "SetID": "1d2iaed",
       "Name": "Copious Cabbage",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach021",
       "SetID": "1d2iaed",
       "Name": "Sockdolager",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach022",
       "SetID": "1d2iaed",
       "Name": "Full House",
       "Percentage": 1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 308908
     },
     {
       "ID": "ach023",
       "SetID": "1d2iaed",
       "Name": "Windy City Win",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach024",
       "SetID": "1d2iaed",
       "Name": "Steeling Victory",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach025",
       "SetID": "1d2iaed",
       "Name": "Queen of the City",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach026",
       "SetID": "1d2iaed",
       "Name": "Vehicles to Victory",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach027",
       "SetID": "1d2iaed",
       "Name": "Corner Clout",
       "Percentage": 46,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14209768
     },
     {
       "ID": "ach028",
       "SetID": "1d2iaed",
       "Name": "Gin Joint",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1235632
     },
     {
       "ID": "ach029",
       "SetID": "1d2iaed",
       "Name": "Beating the Heat",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3089080
     },
     {
       "ID": "ach030",
       "SetID": "1d2iaed",
       "Name": "Dropping the Dime",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 617816
     },
     {
       "ID": "ach031",
       "SetID": "1d2iaed",
       "Name": "Dirty Work",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 61782
     },
     {
       "ID": "ach032",
       "SetID": "1d2iaed",
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1235632
     },
     {
       "ID": "ach033",
       "SetID": "1d2iaed",
       "Name": "Getting Fancy",
       "Percentage": 0.7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 216236
     },
     {
       "ID": "ach034",
       "SetID": "1d2iaed",
       "Name": "Putting on the Ritz",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach035",
       "SetID": "1d2iaed",
       "Name": "Bottled Up",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 92672
     },
     {
       "ID": "ach036",
       "SetID": "1d2iaed",
       "Name": "Still Dreaming",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 123563
     },
     {
       "ID": "ach037",
       "SetID": "1d2iaed",
       "Name": "High End Booze",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 123563
     },
     {
       "ID": "ach038",
       "SetID": "1d2iaed",
       "Name": "The Rubber Meets the Road",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 278017
     },
     {
       "ID": "ach039",
       "SetID": "1d2iaed",
       "Name": "Friends on the Force",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3089080
     },
     {
       "ID": "ach040",
       "SetID": "1d2iaed",
       "Name": "Improvement Missions",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach041",
       "SetID": "1d2iaed",
       "Name": "Streetwise",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 92672
     },
     {
       "ID": "ach042",
       "SetID": "1d2iaed",
       "Name": "Opportunity Knocked",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach043",
       "SetID": "1d2iaed",
       "Name": "Street Fighter",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2162356
     },
     {
       "ID": "ach044",
       "SetID": "1d2iaed",
       "Name": "Friends from Back Home",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1235632
     },
     {
       "ID": "ach045",
       "SetID": "1d2iaed",
       "Name": "Family First",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4015804
     },
     {
       "ID": "ach046",
       "SetID": "1d2iaed",
       "Name": "Friendly Gestures",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2162356
     },
     {
       "ID": "ach047",
       "SetID": "1d2iaed",
       "Name": "Crossing Over",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 216236
     },
     {
       "ID": "ach048",
       "SetID": "1d2iaed",
       "Name": "Balkan Firewater",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 61782
     },
     {
       "ID": "ach049",
       "SetID": "1d2iaed",
       "Name": "Bourbon Barrels",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach050",
       "SetID": "1d2iaed",
       "Name": "City of Big Shoulders",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach051",
       "SetID": "1d2iaed",
       "Name": "Booze Baron",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3397988
     },
     {
       "ID": "ach052",
       "SetID": "1d2iaed",
       "Name": "Liquor Lord",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1853448
     },
     {
       "ID": "ach053",
       "SetID": "1d2iaed",
       "Name": "Still Stalwart",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach054",
       "SetID": "1d2iaed",
       "Name": "Bees Knees Bootlegger",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach055",
       "SetID": "1d2iaed",
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 617816
     },
     {
       "ID": "ach056",
       "SetID": "1d2iaed",
       "Name": "Cat\u2019s Meow Clubs",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 308908
     },
     {
       "ID": "ach057",
       "SetID": "1d2iaed",
       "Name": "Working on the Railroad",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 123563
     },
     {
       "ID": "ach058",
       "SetID": "1d2iaed",
       "Name": "Tighten the Screws",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 926724
     },
     {
       "ID": "ach059",
       "SetID": "1d2iaed",
       "Name": "Neighborhood Watch",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3089080
     },
     {
       "ID": "ach060",
       "SetID": "1d2iaed",
       "Name": "Safety in Numbers",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach061",
       "SetID": "1d2iaed",
       "Name": "Keeping Your Word",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 617816
     },
     {
       "ID": "ach062",
       "SetID": "1d2iaed",
       "Name": "Tied Houses",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach064",
       "SetID": "1d2iaed",
       "Name": "Moving Experiences",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach065",
       "SetID": "1d2iaed",
       "Name": "Determined Deliveries",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 278017
     },
     {
       "ID": "ach066",
       "SetID": "1d2iaed",
       "Name": "The Dawn of Automation",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4324712
     },
     {
       "ID": "ach067",
       "SetID": "1d2iaed",
       "Name": "Stepping It Up",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 278017
     },
     {
       "ID": "ach068",
       "SetID": "1d2iaed",
       "Name": "Copacetic Coordination",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4942528
     },
     {
       "ID": "ach069",
       "SetID": "1d2iaed",
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4324712
     },
     {
       "ID": "ach070",
       "SetID": "1d2iaed",
       "Name": "Laying Low",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach071",
       "SetID": "1d2iaed",
       "Name": "Mission Mastery",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach072",
       "SetID": "1d2iaed",
       "Name": "Wise Head",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach073",
       "SetID": "1d2iaed",
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1853448
     },
     {
       "ID": "ach074",
       "SetID": "1d2iaed",
       "Name": "Half Century Mark",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1235632
     },
     {
       "ID": "ach075",
       "SetID": "1d2iaed",
       "Name": "Killing Them Softly",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1544540
     },
     {
       "ID": "ach076",
       "SetID": "1d2iaed",
       "Name": "No Applesauce",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach077",
       "SetID": "1d2iaed",
       "Name": "In-House Maintenance",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 92672
     },
     {
       "ID": "ach078",
       "SetID": "1d2iaed",
       "Name": "People Person",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1853448
     },
     {
       "ID": "ach079",
       "SetID": "1d2iaed",
       "Name": "Social Butterfly",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 123563
     },
     {
       "ID": "ach080",
       "SetID": "1d2iaed",
       "Name": "High Pillow",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     },
     {
       "ID": "ach081",
       "SetID": "1d2iaed",
       "Name": "Station Master",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30891
     }
   ],
   "Tags": [
@@ -1652,6 +1732,11 @@
       "Time": "2023-05-04T22:06:11.6646756+00:00",
       "NumProgressed": 308906,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-04T22:24:22.5652371+00:00",
+      "NumProgressed": 308908,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -1920,18 +2005,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 80,
-  "LastChanged_Achievements": "2023-05-04T22:06:11.6646746+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:22.5652365+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2899,
+  "EOS_NewPlayers": 2901,
   "EOS_Completed": 3,
-  "EOS_Progressed": 308906,
-  "LastUpdate_Achievements": "2023-05-04T22:06:11.6647805+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:05.3038147+00:00",
+  "EOS_Progressed": 308908,
+  "LastUpdate_Achievements": "2023-05-04T22:24:22.5654052+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:06.7776837+00:00",
   "AchievementSets": [
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 308906,
+      "Progressed": 308908,
       "Completed": 3
     }
   ],

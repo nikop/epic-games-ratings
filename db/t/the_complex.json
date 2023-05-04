@@ -7,140 +7,160 @@
       "SetID": "d4f4pll",
       "Name": "Beat It",
       "Percentage": 55,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 24640
     },
     {
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
       "Percentage": 88,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 39424
     },
     {
       "ID": "deadly_secret",
       "SetID": "d4f4pll",
       "Name": "Deadly Secret",
       "Percentage": 14,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 6272
     },
     {
       "ID": "ending_1",
       "SetID": "d4f4pll",
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3584
     },
     {
       "ID": "ending_2",
       "SetID": "d4f4pll",
       "Name": "Second Chances",
       "Percentage": 7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3136
     },
     {
       "ID": "ending_3",
       "SetID": "d4f4pll",
       "Name": "Get Out Of This Alive",
       "Percentage": 11,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 4928
     },
     {
       "ID": "ending_4",
       "SetID": "d4f4pll",
       "Name": "The Promise",
       "Percentage": 10,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 4480
     },
     {
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
       "Percentage": 24,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 10752
     },
     {
       "ID": "ending_6",
       "SetID": "d4f4pll",
       "Name": "Stalemate",
       "Percentage": 21,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ending_7",
       "SetID": "d4f4pll",
       "Name": "Trust Me For Once",
       "Percentage": 30,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 13440
     },
     {
       "ID": "ending_8",
       "SetID": "d4f4pll",
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 15,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 6720
     },
     {
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
       "Percentage": 46,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 20608
     },
     {
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
       "Percentage": 48,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 21504
     },
     {
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
       "Percentage": 66,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 29568
     },
     {
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
       "Percentage": 19,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 8512
     },
     {
       "ID": "not_a_people_person",
       "SetID": "d4f4pll",
       "Name": "Not A People Person",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2240
     },
     {
       "ID": "people_pleaser",
       "SetID": "d4f4pll",
       "Name": "People Pleaser",
       "Percentage": 10,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 4480
     },
     {
       "ID": "storage_hunter",
       "SetID": "d4f4pll",
       "Name": "Storage Hunter",
       "Percentage": 49,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 21952
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
       "Percentage": 61,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 27328
     },
     {
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
       "Percentage": 95,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 42560
     }
   ],
   "Tags": [],
@@ -176,13 +196,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:07:05.365037+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:02.1370594+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 16,
   "EOS_Progressed": 448,
-  "LastUpdate_Achievements": "2023-05-04T22:07:05.3650516+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:40.8000162+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:02.1370801+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:27.6002431+00:00",
   "AchievementSets": [
     {
       "ID": "d4f4pll",

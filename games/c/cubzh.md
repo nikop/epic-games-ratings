@@ -1,4 +1,5 @@
 # Cubzh
+[View Rawdata](../../db/c/cubzh.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

@@ -1,9 +1,10 @@
 # Q.U.B.E. 2
+[View Rawdata](../../db/q/q.u.b.e._2.json)  
 Rating: 4.40 (Ranked 663)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

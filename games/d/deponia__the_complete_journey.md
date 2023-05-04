@@ -1,4 +1,5 @@
 # Deponia: The Complete Journey
+[View Rawdata](../../db/d/deponia__the_complete_journey.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 777  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Puzzles): 272  (Ranked 230)
 Sum: 272 (Ranked 330)  
 Diff (max vs sum): -100  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

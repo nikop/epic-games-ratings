@@ -1,8 +1,9 @@
 # Outlast
+[View Rawdata](../../db/o/outlast.json)  
 Rating: 4.73 (Ranked 157)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,8 @@
 # Fall of Light: Darkest Edition
+[View Rawdata](../../db/f/fall_of_light__darkest_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

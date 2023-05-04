@@ -1,12 +1,13 @@
 # STG Football
+[View Rawdata](../../db/s/stg_football.json)  
 Rating: 4.45 (Ranked 598)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 37  (Ranked 417)  
 Sum: 286 (Ranked 325)  
 Diff (max vs sum): 92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # HITMAN
+[View Rawdata](../../db/h/hitman.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 6,362  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 196  (Ranked 257)
 Sum: 1,512 (Ranked 206)  
 Diff (max vs sum): 51  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

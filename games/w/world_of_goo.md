@@ -1,9 +1,10 @@
 # World of Goo
+[View Rawdata](../../db/w/world_of_goo.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

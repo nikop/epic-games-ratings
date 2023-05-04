@@ -1,56 +1,57 @@
 # Ash of Gods: The Way
+[View Rawdata](../../db/a/ash_of_gods__the_way.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First success | 300.00 |
-| First blood | 200.00 |
-| By own strength | 100.00 |
-| A solo player | 100.00 |
-| Do it yourself | 100.00 |
-| Suicide squad | 100.00 |
-| Train hard, fight easy | 100.00 |
-| Royal blessing | 100.00 |
-| Under cover | 100.00 |
-| A hidden snake | 100.00 |
-| Blood and sand | 100.00 |
-| Crimson rivers | 0.00 |
-| For the greater good | 0.00 |
-| Collector | 0.00 |
-| Berserk | 0.00 |
-| Overplay the rogue | 0.00 |
-| Supplier | 0.00 |
-| Berkanan Borgia | 0.00 |
-| Power of Inquisition | 0.00 |
-| Master of the Way | 0.00 |
-| The best apprentice | 0.00 |
-| The champion of the arena | 0.00 |
-| Stronger than Gellian steel | 0.00 |
-| First among Frisians | 0.00 |
-| Surpass the teacher | 0.00 |
-| Vene, vidi, vici | 0.00 |
-| Defeat the bear | 0.00 |
-| All for one! | 0.00 |
-| Rage | 0.00 |
-| The power of persuasion | 0.00 |
-| Never laid a finger | 0.00 |
-| Deadly strike | 0.00 |
-| Punish the Punisher | 0.00 |
-| Protect the Healer! | 0.00 |
-| Mate in 4 moves | 0.00 |
-| By own rules | 0.00 |
-| Cunning plan | 0.00 |
-| By someone else's hands | 0.00 |
-| Help of the Gell | 0.00 |
-| Trial by cold | 0.00 |
-| There can be only one | 0.00 |
-| Blood and honour | 0.00 |
-| All's fair in love and war | 0.00 |
-| The End | 0.00 |
-| Happily ever after | 0.00 |
-| Nothing is settled | 0.00 |
-| A lesson to all the madmen | 0.00 |
-| That's the way! | 0.00 |
-| She-Wolf | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First success | 300.00% | ~300 |
+| First blood | 200.00% | ~200 |
+| By own strength | 100.00% | ~100 |
+| A solo player | 100.00% | ~100 |
+| Do it yourself | 100.00% | ~100 |
+| Suicide squad | 100.00% | ~100 |
+| Train hard, fight easy | 100.00% | ~100 |
+| Royal blessing | 100.00% | ~100 |
+| Under cover | 100.00% | ~100 |
+| A hidden snake | 100.00% | ~100 |
+| Blood and sand | 100.00% | ~100 |
+| Crimson rivers | 0.00% | ~0 |
+| For the greater good | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Berserk | 0.00% | ~0 |
+| Overplay the rogue | 0.00% | ~0 |
+| Supplier | 0.00% | ~0 |
+| Berkanan Borgia | 0.00% | ~0 |
+| Power of Inquisition | 0.00% | ~0 |
+| Master of the Way | 0.00% | ~0 |
+| The best apprentice | 0.00% | ~0 |
+| The champion of the arena | 0.00% | ~0 |
+| Stronger than Gellian steel | 0.00% | ~0 |
+| First among Frisians | 0.00% | ~0 |
+| Surpass the teacher | 0.00% | ~0 |
+| Vene, vidi, vici | 0.00% | ~0 |
+| Defeat the bear | 0.00% | ~0 |
+| All for one! | 0.00% | ~0 |
+| Rage | 0.00% | ~0 |
+| The power of persuasion | 0.00% | ~0 |
+| Never laid a finger | 0.00% | ~0 |
+| Deadly strike | 0.00% | ~0 |
+| Punish the Punisher | 0.00% | ~0 |
+| Protect the Healer! | 0.00% | ~0 |
+| Mate in 4 moves | 0.00% | ~0 |
+| By own rules | 0.00% | ~0 |
+| Cunning plan | 0.00% | ~0 |
+| By someone else's hands | 0.00% | ~0 |
+| Help of the Gell | 0.00% | ~0 |
+| Trial by cold | 0.00% | ~0 |
+| There can be only one | 0.00% | ~0 |
+| Blood and honour | 0.00% | ~0 |
+| All's fair in love and war | 0.00% | ~0 |
+| The End | 0.00% | ~0 |
+| Happily ever after | 0.00% | ~0 |
+| Nothing is settled | 0.00% | ~0 |
+| A lesson to all the madmen | 0.00% | ~0 |
+| That's the way! | 0.00% | ~0 |
+| She-Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 191)  

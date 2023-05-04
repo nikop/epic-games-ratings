@@ -1,4 +1,5 @@
 # Tribes of Midgard
+[View Rawdata](../../db/t/tribes_of_midgard.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 120  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 76  (Ranked 349)
 Sum: 76 (Ranked 408)  
 Diff (max vs sum): -59  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

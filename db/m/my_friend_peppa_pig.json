@@ -7,77 +7,88 @@
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
       "Percentage": 50,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 3300
     },
     {
       "ID": "10",
       "SetID": "5jd5jfm",
       "Name": "Collecting Sticks For the Campfire.",
       "Percentage": 47,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 3102
     },
     {
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
       "Percentage": 55,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 3630
     },
     {
       "ID": "2",
       "SetID": "5jd5jfm",
       "Name": "Where\u2019s Mr. Dinosaur?",
       "Percentage": 24,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 1584
     },
     {
       "ID": "3",
       "SetID": "5jd5jfm",
       "Name": "Whose tracks are these?",
       "Percentage": 48,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 3168
     },
     {
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
       "Percentage": 47,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 3102
     },
     {
       "ID": "5",
       "SetID": "5jd5jfm",
       "Name": "What\u2019s in These Rockpools?",
       "Percentage": 35,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 2310
     },
     {
       "ID": "6",
       "SetID": "5jd5jfm",
       "Name": "Rounding Up the Chickens.",
       "Percentage": 42,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 2772
     },
     {
       "ID": "7",
       "SetID": "5jd5jfm",
       "Name": "Helping Tiddles the Tortoise.",
       "Percentage": 23,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 1518
     },
     {
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
       "Percentage": 61,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 4026
     },
     {
       "ID": "9",
       "SetID": "5jd5jfm",
       "Name": "Always Remember To Eat Your Five!",
       "Percentage": 12,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 792
     }
   ],
   "Tags": [],
@@ -103,13 +114,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T22:06:41.3598573+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:44.5504127+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 4,
   "EOS_Progressed": 66,
-  "LastUpdate_Achievements": "2023-05-04T22:06:41.3598672+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:09.7580941+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:44.5504293+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:29.2856199+00:00",
   "AchievementSets": [
     {
       "ID": "5jd5jfm",
@@ -125,7 +136,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_Progress": 262,
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00"

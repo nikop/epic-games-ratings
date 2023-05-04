@@ -1,4 +1,5 @@
 # SMITE
+[View Rawdata](../../db/s/smite.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 6,749  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 3,715  (Ranked 77)
 Sum: 23,022 (Ranked 47)  
 Diff (max vs sum): 30  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

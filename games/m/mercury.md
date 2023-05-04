@@ -1,4 +1,5 @@
 # Mercury
+[View Rawdata](../../db/m/mercury.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

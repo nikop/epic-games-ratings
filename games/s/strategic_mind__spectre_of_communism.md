@@ -1,7 +1,8 @@
 # Strategic Mind: Spectre of Communism
+[View Rawdata](../../db/s/strategic_mind__spectre_of_communism.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

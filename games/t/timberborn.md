@@ -1,4 +1,5 @@
 # Timberborn
+[View Rawdata](../../db/t/timberborn.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 640  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 117  (Ranked 304)
 Sum: 859 (Ranked 240)  
 Diff (max vs sum): 64  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

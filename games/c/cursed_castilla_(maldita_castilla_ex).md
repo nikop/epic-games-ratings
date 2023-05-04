@@ -1,23 +1,24 @@
 # Cursed Castilla (Maldita Castilla EX)
+[View Rawdata](../../db/c/cursed_castilla_(maldita_castilla_ex).json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Pioneer | 33.00 |
-| Firefighter | 10.00 |
-| Collector | 8.00 |
-| Summoner | 6.00 |
-| St. Martin | 6.00 |
-| Invisible encounter | 4.00 |
-| Bad knight | 4.00 |
-| Gentleman | 2.00 |
-| A note from a Mort | 2.00 |
-| Martyr | 2.00 |
-| Champion | 2.00 |
-| Hero | 2.00 |
-| Purist | 2.00 |
-| Swordmaster | 2.00 |
-| Runner | 2.00 |
-| Legendary knight | 2.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Pioneer | 33.00% | ~1,584 |
+| Firefighter | 10.00% | ~480 |
+| Collector | 8.00% | ~384 |
+| Summoner | 6.00% | ~288 |
+| St. Martin | 6.00% | ~288 |
+| Invisible encounter | 4.00% | ~192 |
+| Bad knight | 4.00% | ~192 |
+| Gentleman | 2.00% | ~96 |
+| A note from a Mort | 2.00% | ~96 |
+| Martyr | 2.00% | ~96 |
+| Champion | 2.00% | ~96 |
+| Hero | 2.00% | ~96 |
+| Purist | 2.00% | ~96 |
+| Swordmaster | 2.00% | ~96 |
+| Runner | 2.00% | ~96 |
+| Legendary knight | 2.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 191)  

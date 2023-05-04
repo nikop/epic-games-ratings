@@ -1,8 +1,9 @@
 # Retreat To Enen
+[View Rawdata](../../db/r/retreat_to_enen.json)  
 Rating: 3.86 (Ranked 899)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

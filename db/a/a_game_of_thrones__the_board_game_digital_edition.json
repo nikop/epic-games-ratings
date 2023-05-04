@@ -7,154 +7,176 @@
       "SetID": "9l3d3cl",
       "Name": "War of the Five Kings",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 11014
     },
     {
       "ID": "1016",
       "SetID": "9l3d3cl",
       "Name": "Ours is the Fury",
       "Percentage": 7,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 77098
     },
     {
       "ID": "1017",
       "SetID": "9l3d3cl",
       "Name": "We Do Not Sow",
       "Percentage": 7,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 77098
     },
     {
       "ID": "1018",
       "SetID": "9l3d3cl",
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 66084
     },
     {
       "ID": "1019",
       "SetID": "9l3d3cl",
       "Name": "Winter is Coming",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 88112
     },
     {
       "ID": "1020",
       "SetID": "9l3d3cl",
       "Name": "Growing Strong",
       "Percentage": 6,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 66084
     },
     {
       "ID": "1021",
       "SetID": "9l3d3cl",
       "Name": "Hear me Roar!",
       "Percentage": 6,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 66084
     },
     {
       "ID": "1022",
       "SetID": "9l3d3cl",
       "Name": "Defender of the Wall",
       "Percentage": 7,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 77098
     },
     {
       "ID": "1023",
       "SetID": "9l3d3cl",
       "Name": "What is Dead may Never Die",
       "Percentage": 4,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 44056
     },
     {
       "ID": "1024",
       "SetID": "9l3d3cl",
       "Name": "Daggers in the Dark",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 99126
     },
     {
       "ID": "1025",
       "SetID": "9l3d3cl",
       "Name": "King in the North",
       "Percentage": 2,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 22028
     },
     {
       "ID": "1026",
       "SetID": "9l3d3cl",
       "Name": "Oathkeeper",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 88112
     },
     {
       "ID": "1027",
       "SetID": "9l3d3cl",
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 110140
     },
     {
       "ID": "1028",
       "SetID": "9l3d3cl",
       "Name": "The Kingsroad",
       "Percentage": 19,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 209266
     },
     {
       "ID": "1029",
       "SetID": "9l3d3cl",
       "Name": "Alliance",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 99126
     },
     {
       "ID": "1030",
       "SetID": "9l3d3cl",
       "Name": "Battering Crew",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 231294
     },
     {
       "ID": "1031",
       "SetID": "9l3d3cl",
       "Name": "Well Stocked",
       "Percentage": 15,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 165210
     },
     {
       "ID": "1032",
       "SetID": "9l3d3cl",
       "Name": "Conqueror",
       "Percentage": 40,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 440560
     },
     {
       "ID": "1033",
       "SetID": "9l3d3cl",
       "Name": "The Swift",
       "Percentage": 3,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 33042
     },
     {
       "ID": "1034",
       "SetID": "9l3d3cl",
       "Name": "Influential",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 88112
     },
     {
       "ID": "1035",
       "SetID": "9l3d3cl",
       "Name": "Royal Fleet",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 154196
     },
     {
       "ID": "1036",
       "SetID": "9l3d3cl",
       "Name": "A Long Journey",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 99126
     }
   ],
   "Tags": [
@@ -1267,6 +1289,11 @@
     {
       "Time": "2023-05-04T22:06:58.2042317+00:00",
       "NumProgressed": 11012,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-04T22:24:56.7174148+00:00",
+      "NumProgressed": 11014,
       "NumCompleted": 23
     }
   ],
@@ -2425,18 +2452,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T22:06:58.2042312+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:56.7174141+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 918,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11012,
-  "LastUpdate_Achievements": "2023-05-04T22:06:58.2042556+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:11.6492241+00:00",
+  "EOS_Progressed": 11014,
+  "LastUpdate_Achievements": "2023-05-04T22:24:56.7174481+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:09.5918653+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11012,
+      "Progressed": 11014,
       "Completed": 23
     }
   ],

@@ -1,4 +1,5 @@
 # Lichenvale
+[View Rawdata](../../db/l/lichenvale.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

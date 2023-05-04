@@ -1,22 +1,23 @@
 # JYDGE
+[View Rawdata](../../db/j/jydge.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| The Dawn of Jydgement | 40.00 |
-| Mission Mastered | 40.00 |
-| Savior | 20.00 |
-| The Jydgement Day | 10.00 |
-| The Dusk Falls | 10.00 |
-| Collector | 0.00 |
-| Cyberware | 0.00 |
-| Crime Reaper | 0.00 |
-| Hardcore Law | 0.00 |
-| Nightmare Law | 0.00 |
-| Law Enforced | 0.00 |
-| Lawful Not Awful | 0.00 |
-| Firemodes to the Max | 0.00 |
-| Special Specialist | 0.00 |
-| Weapon Mods | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| The Dawn of Jydgement | 40.00% | ~400 |
+| Mission Mastered | 40.00% | ~400 |
+| Savior | 20.00% | ~200 |
+| The Jydgement Day | 10.00% | ~100 |
+| The Dusk Falls | 10.00% | ~100 |
+| Collector | 0.00% | ~0 |
+| Cyberware | 0.00% | ~0 |
+| Crime Reaper | 0.00% | ~0 |
+| Hardcore Law | 0.00% | ~0 |
+| Nightmare Law | 0.00% | ~0 |
+| Law Enforced | 0.00% | ~0 |
+| Lawful Not Awful | 0.00% | ~0 |
+| Firemodes to the Max | 0.00% | ~0 |
+| Special Specialist | 0.00% | ~0 |
+| Weapon Mods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 191)  

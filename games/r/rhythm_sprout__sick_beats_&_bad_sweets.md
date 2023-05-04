@@ -1,7 +1,8 @@
 # Rhythm Sprout: Sick Beats & Bad Sweets
+[View Rawdata](../../db/r/rhythm_sprout__sick_beats_&_bad_sweets.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

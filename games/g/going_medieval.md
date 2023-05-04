@@ -1,4 +1,5 @@
 # Going Medieval
+[View Rawdata](../../db/g/going_medieval.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,39 +7,39 @@ Max (Relaxing): 118  (Ranked 302)
 Sum: 922 (Ranked 233)  
 Diff (max vs sum): 69  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Get A Room | 68.00 |
-| Having A Field Day | 66.00 |
-| Reap What You Sow | 64.00 |
-| Green Thumb | 63.00 |
-| The First Day | 60.00 |
-| Putting Food on the Table | 55.00 |
-| Novice Researcher | 55.00 |
-| Onward | 50.00 |
-| The First Week | 47.00 |
-| Studious Researcher | 47.00 |
-| Feast or Famine | 45.00 |
-| Beam Me Up | 44.00 |
-| Adept Researcher | 44.00 |
-| Home Cooked Meal | 43.00 |
-| Luminary Researcher | 41.00 |
-| Retribution | 35.00 |
-| ...And Don’t Come Back! | 35.00 |
-| Fit For A King | 34.00 |
-| Heating Up | 23.00 |
-| Winter Is Coming | 20.00 |
-| Winter Is Here | 18.00 |
-| Oh Deer! | 16.00 |
-| All Year Round | 16.00 |
-| A Party Now | 15.00 |
-| Disassembled | 12.00 |
-| Deerly Departed | 11.00 |
-| Nothing Wasted | 10.00 |
-| Don't Cry Wolf | 10.00 |
-| Where Wolf? | 7.00 |
-| Food Chain | 2.00 |
-| Wabbit Season | 0.90 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Get A Room | 68.00% | ~179,044 |
+| Having A Field Day | 66.00% | ~173,778 |
+| Reap What You Sow | 64.00% | ~168,512 |
+| Green Thumb | 63.00% | ~165,879 |
+| The First Day | 60.00% | ~157,980 |
+| Putting Food on the Table | 55.00% | ~144,815 |
+| Novice Researcher | 55.00% | ~144,815 |
+| Onward | 50.00% | ~131,650 |
+| The First Week | 47.00% | ~123,751 |
+| Studious Researcher | 47.00% | ~123,751 |
+| Feast or Famine | 45.00% | ~118,485 |
+| Beam Me Up | 44.00% | ~115,852 |
+| Adept Researcher | 44.00% | ~115,852 |
+| Home Cooked Meal | 43.00% | ~113,219 |
+| Luminary Researcher | 41.00% | ~107,953 |
+| Retribution | 35.00% | ~92,155 |
+| ...And Don’t Come Back! | 35.00% | ~92,155 |
+| Fit For A King | 34.00% | ~89,522 |
+| Heating Up | 23.00% | ~60,559 |
+| Winter Is Coming | 20.00% | ~52,660 |
+| Winter Is Here | 18.00% | ~47,394 |
+| Oh Deer! | 16.00% | ~42,128 |
+| All Year Round | 16.00% | ~42,128 |
+| A Party Now | 15.00% | ~39,495 |
+| Disassembled | 12.00% | ~31,596 |
+| Deerly Departed | 11.00% | ~28,963 |
+| Nothing Wasted | 10.00% | ~26,330 |
+| Don't Cry Wolf | 10.00% | ~26,330 |
+| Where Wolf? | 7.00% | ~18,431 |
+| Food Chain | 2.00% | ~5,266 |
+| Wabbit Season | 0.90% | ~2,370 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 133)  
 Completed: 6 (0.23%) (Ranked 126)  

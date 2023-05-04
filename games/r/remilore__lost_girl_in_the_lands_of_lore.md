@@ -1,7 +1,8 @@
 # RemiLore: Lost Girl in the Lands of Lore
+[View Rawdata](../../db/r/remilore__lost_girl_in_the_lands_of_lore.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,119 +7,136 @@
       "SetID": "ap2ljl4",
       "Name": "Proving Your Skills",
       "Percentage": 91,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 10556
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
       "Percentage": 42,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 4872
     },
     {
       "ID": "LC-03",
       "SetID": "ap2ljl4",
       "Name": "Bakery Business",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 580
     },
     {
       "ID": "LC-04",
       "SetID": "ap2ljl4",
       "Name": "Bakery Empire",
       "Percentage": 4,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 464
     },
     {
       "ID": "LC-05",
       "SetID": "ap2ljl4",
       "Name": "Apprentice Baker",
       "Percentage": 34,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3944
     },
     {
       "ID": "LC-06",
       "SetID": "ap2ljl4",
       "Name": "Adept Baker",
       "Percentage": 10,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1160
     },
     {
       "ID": "LC-07",
       "SetID": "ap2ljl4",
       "Name": "Expert Baker",
       "Percentage": 9,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 1044
     },
     {
       "ID": "LC-08",
       "SetID": "ap2ljl4",
       "Name": "Master Baker",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 696
     },
     {
       "ID": "LC-09",
       "SetID": "ap2ljl4",
       "Name": "Verdant Greenhouse",
       "Percentage": 10,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 1160
     },
     {
       "ID": "LC-10",
       "SetID": "ap2ljl4",
       "Name": "Luxury Kitchen",
       "Percentage": 9,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 1044
     },
     {
       "ID": "LC-11",
       "SetID": "ap2ljl4",
       "Name": "Bustling Store",
       "Percentage": 10,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 1160
     },
     {
       "ID": "LC-12",
       "SetID": "ap2ljl4",
       "Name": "The Famous Lemon Cake",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 580
     },
     {
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
       "Percentage": 34,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3944
     },
     {
       "ID": "LC-14",
       "SetID": "ap2ljl4",
       "Name": "Gotta Go Fast",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 928
     },
     {
       "ID": "LC-15",
       "SetID": "ap2ljl4",
       "Name": "A Loving Home",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 696
     },
     {
       "ID": "LC-16",
       "SetID": "ap2ljl4",
       "Name": "Swing The Broom",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 928
     },
     {
       "ID": "LC-17",
       "SetID": "ap2ljl4",
       "Name": "Perfect Server",
       "Percentage": 16,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1856
     }
   ],
   "Tags": [],
@@ -145,13 +162,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-04T22:06:57.6518664+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:56.386224+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 116,
-  "LastUpdate_Achievements": "2023-05-04T22:06:57.6518798+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:04.7723154+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:56.386241+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:04.7549962+00:00",
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
@@ -167,7 +184,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_Progress": 245,
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00"

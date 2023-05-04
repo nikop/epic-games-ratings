@@ -7,273 +7,312 @@
       "SetID": "bbp170p",
       "Name": "Addicted",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "ALL_GOOD_THINGS_ARE_THREE",
       "SetID": "bbp170p",
       "Name": "All Good Things Are Three",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ASTEROID_CRASHER",
       "SetID": "bbp170p",
       "Name": "Asteroid Crasher",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "A_SNOWBALL_CHANCE_IN_SPACE",
       "SetID": "bbp170p",
       "Name": "A Snowball\u0027s Chance in Space",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "BIG_BOY",
       "SetID": "bbp170p",
       "Name": "Big Boy",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "BOSS_BATTLER_SUPREME",
       "SetID": "bbp170p",
       "Name": "Boss Battler Supreme",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "BOSS_BUSTING_BADASS",
       "SetID": "bbp170p",
       "Name": "Boss Busting Badass",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "BOUNTY_HUNTER",
       "SetID": "bbp170p",
       "Name": "Bounty Hunter",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "BURN_BABY_BURN",
       "SetID": "bbp170p",
       "Name": "Burn Baby Burn",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "COOL_CALM_AND_COLLECTED",
       "SetID": "bbp170p",
       "Name": "Cool, Calm and Collected",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "COSMIC_CADET",
       "SetID": "bbp170p",
       "Name": "Cosmic Cadet",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "CREEPY_SPACE_CRAWLERS",
       "SetID": "bbp170p",
       "Name": "Creepy Space Crawlers",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "DAMAGE_DYNAMO",
       "SetID": "bbp170p",
       "Name": "Damage Dynamo",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "DRONE_A_DOZEN",
       "SetID": "bbp170p",
       "Name": "Drone a Dozen",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "DRONE_BOY",
       "SetID": "bbp170p",
       "Name": "Drone Boy",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "GALAXY_GRABBER",
       "SetID": "bbp170p",
       "Name": "Galaxy Grabber",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "GRANDMASTER_HIGH_SCORES",
       "SetID": "bbp170p",
       "Name": "The Grand Master of High Scores",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "HELP_MOMMY",
       "SetID": "bbp170p",
       "Name": "Help, Mommy!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "INTERSTELLAR_INVESTIGATOR",
       "SetID": "bbp170p",
       "Name": "Interstellar Investigator",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "I_CANT_SEE_ANYTHING",
       "SetID": "bbp170p",
       "Name": "I Can\u0027t See Anything",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "I_LIKE_TURTLES",
       "SetID": "bbp170p",
       "Name": "I Like Turtles",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "NOT_A_ROOKIE_ANYMORE",
       "SetID": "bbp170p",
       "Name": "Not a Rookie Anymore",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "OVER_THE_RAINBOW",
       "SetID": "bbp170p",
       "Name": "Over the Rainbow",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "POWER_UP_PILEUP",
       "SetID": "bbp170p",
       "Name": "Power-Up Pileup",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "ROCKET_WRANGLER",
       "SetID": "bbp170p",
       "Name": "Rocket Wrangler",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "SCORE_TASTIC",
       "SetID": "bbp170p",
       "Name": "Score-tastic",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "SHIP_REPAIR_DUTY",
       "SetID": "bbp170p",
       "Name": "Ship Repair Duty",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPACE_CRUMBLES",
       "SetID": "bbp170p",
       "Name": "Space Crumbles",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "STAR_STRUCK",
       "SetID": "bbp170p",
       "Name": "Star Struck",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "STRIKE_IT_LUCKY",
       "SetID": "bbp170p",
       "Name": "Strike it Lucky",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "SUGAR_RUSH",
       "SetID": "bbp170p",
       "Name": "Sugar Rush",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "SUPER_SMASH_ASTEROIDS",
       "SetID": "bbp170p",
       "Name": "Super Smash Asteroids",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "SWEET_SWEET_NECTAR",
       "SetID": "bbp170p",
       "Name": "Sweet Sweet Nectar",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "THEY_WILL_NEVER_LAST",
       "SetID": "bbp170p",
       "Name": "They Will Never Last",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "THUNDERBIRD_OF_THE_STARS",
       "SetID": "bbp170p",
       "Name": "Thunderbird of the Stars",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "TRIGGER_HAPPY",
       "SetID": "bbp170p",
       "Name": "Trigger Happy",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "UPGRADE_OVERLORD",
       "SetID": "bbp170p",
       "Name": "Upgrade Overlord",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "WHAT_DOES_IT_MEAN",
       "SetID": "bbp170p",
       "Name": "What Does It Mean?",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "WHAT_DOES_THIS_BUTTON_DO",
       "SetID": "bbp170p",
       "Name": "What Does This Button Do?",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -281,13 +320,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-04T22:06:02.6087258+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:15.8255463+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:02.6087564+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:30.8373018+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:15.8255969+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:03.9787142+00:00",
   "AchievementSets": [
     {
       "ID": "bbp170p",
@@ -298,7 +337,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:49:30.2470225+00:00"

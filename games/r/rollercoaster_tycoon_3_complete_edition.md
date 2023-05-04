@@ -1,4 +1,5 @@
 # RollerCoaster Tycoon 3 Complete Edition
+[View Rawdata](../../db/r/rollercoaster_tycoon_3_complete_edition.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 687  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 51  (Ranked 384)
 Sum: 415 (Ranked 295)  
 Diff (max vs sum): 89  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

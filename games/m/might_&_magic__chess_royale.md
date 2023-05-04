@@ -1,4 +1,5 @@
 # Might & Magic: Chess Royale
+[View Rawdata](../../db/m/might_&_magic__chess_royale.json)  
 Rating: 4.50 (Ranked 530)  
 Number of Ratings: 238  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 97  (Ranked 325)
 Sum: 774 (Ranked 250)  
 Diff (max vs sum): 75  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

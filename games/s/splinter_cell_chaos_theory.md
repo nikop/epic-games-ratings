@@ -1,8 +1,9 @@
 # Splinter Cell Chaos Theory
+[View Rawdata](../../db/s/splinter_cell_chaos_theory.json)  
 Rating: 4.61 (Ranked 353)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

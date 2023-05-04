@@ -1,9 +1,10 @@
 # Hammerting
+[View Rawdata](../../db/h/hammerting.json)  
 Rating: 4.31 (Ranked 746)  
 Number of Ratings: 21  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

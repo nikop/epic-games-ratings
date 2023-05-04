@@ -1,4 +1,5 @@
 # DOOM 64
+[View Rawdata](../../db/d/doom_64.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 5,134  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 1,286  (Ranked 119)
 Sum: 1,641 (Ranked 199)  
 Diff (max vs sum): -80  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

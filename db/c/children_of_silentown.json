@@ -7,182 +7,208 @@
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
       "Percentage": 54,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 7722
     },
     {
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
       "Percentage": 33,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 4719
     },
     {
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
       "Percentage": 44,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 6292
     },
     {
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
       "Percentage": 58,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 8294
     },
     {
       "ID": "Doll",
       "SetID": "9kk0gal",
       "Name": "Doll",
       "Percentage": 36,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 5148
     },
     {
       "ID": "Ending1",
       "SetID": "9kk0gal",
       "Name": "Children",
       "Percentage": 22,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 3146
     },
     {
       "ID": "Ending2",
       "SetID": "9kk0gal",
       "Name": "Back Home",
       "Percentage": 12,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1716
     },
     {
       "ID": "Ending3",
       "SetID": "9kk0gal",
       "Name": "Forest Howl",
       "Percentage": 10,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1430
     },
     {
       "ID": "Ending4",
       "SetID": "9kk0gal",
       "Name": "Hope",
       "Percentage": 6,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 858
     },
     {
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
       "Percentage": 43,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 6149
     },
     {
       "ID": "Friend",
       "SetID": "9kk0gal",
       "Name": "Friend",
       "Percentage": 10,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1430
     },
     {
       "ID": "FriendDoor",
       "SetID": "9kk0gal",
       "Name": "Complicated padlock",
       "Percentage": 43,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 6149
     },
     {
       "ID": "Furball",
       "SetID": "9kk0gal",
       "Name": "Hairball",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Genesis",
       "SetID": "9kk0gal",
       "Name": "Mysterious paintings",
       "Percentage": 31,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 4433
     },
     {
       "ID": "HugeSnail",
       "SetID": "9kk0gal",
       "Name": "Huge Snail",
       "Percentage": 15,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2145
     },
     {
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
       "Percentage": 75,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 10725
     },
     {
       "ID": "Offroad",
       "SetID": "9kk0gal",
       "Name": "Flower of hope",
       "Percentage": 14,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2002
     },
     {
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
       "Percentage": 61,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 8723
     },
     {
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
       "Percentage": 42,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 6006
     },
     {
       "ID": "Secret",
       "SetID": "9kk0gal",
       "Name": "Old kettle",
       "Percentage": 9,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1287
     },
     {
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
       "Percentage": 83,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 11869
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
       "Percentage": 77,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 11011
     },
     {
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
       "Percentage": 91,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 13013
     },
     {
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
       "Percentage": 89,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 12727
     },
     {
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
       "Percentage": 22,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3146
     },
     {
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
       "Percentage": 36,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5148
     }
   ],
   "Tags": [],
@@ -208,13 +234,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 26,
-  "LastChanged_Achievements": "2023-05-04T22:06:57.6899162+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:56.5604123+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 143,
-  "LastUpdate_Achievements": "2023-05-04T22:06:57.6899367+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:03.7309672+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:56.560431+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:04.1014656+00:00",
   "AchievementSets": [
     {
       "ID": "9kk0gal",

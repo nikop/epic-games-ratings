@@ -1,8 +1,9 @@
 # Dakar Desert Rally
+[View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 4.31 (Ranked 746)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,203 +7,232 @@
       "SetID": "bb2dp",
       "Name": "Ads Fan",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     },
     {
       "ID": "BEARCOP",
       "SetID": "bb2dp",
       "Name": "Bear Cop",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEDS",
       "SetID": "bb2dp",
       "Name": "Master of Mattresses",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CHAPTER1",
       "SetID": "bb2dp",
       "Name": "Chapter 1",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
       "Percentage": 17,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 102
     },
     {
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "FOODTHIEF",
       "SetID": "bb2dp",
       "Name": "Food Thief",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 198
     },
     {
       "ID": "HIGHWAYSURVIVE",
       "SetID": "bb2dp",
       "Name": "Highway Survival",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
       "Percentage": 83,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 498
     },
     {
       "ID": "LOCKERENDING",
       "SetID": "bb2dp",
       "Name": "Secret Locker",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "MAINENDINGS",
       "SetID": "bb2dp",
       "Name": "Main Endings",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "PACIFIST",
       "SetID": "bb2dp",
       "Name": "Pacifist",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "PIANOMUSIC",
       "SetID": "bb2dp",
       "Name": "Paw Music",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "PILLSLOVER",
       "SetID": "bb2dp",
       "Name": "Sugar Pills Lover",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "PUSHY",
       "SetID": "bb2dp",
       "Name": "Pushy, pushy",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "SUMMARYFULL",
       "SetID": "bb2dp",
       "Name": "Summary Filled",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 198
     },
     {
       "ID": "TABLES",
       "SetID": "bb2dp",
       "Name": "The World Is My Doormat",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "TOILETSMAN",
       "SetID": "bb2dp",
       "Name": "Toilets Tormentor",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "TRAMPSAVER",
       "SetID": "bb2dp",
       "Name": "Tramp Saver",
       "Percentage": 0,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 0
     },
     {
       "ID": "WAKEUPHUSH",
       "SetID": "bb2dp",
       "Name": "Hard To Wake Up",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "WORSTDETECTIVE",
       "SetID": "bb2dp",
       "Name": "Worst. Investigator. Ever.",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -224,13 +253,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T22:06:36.2760056+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:40.7993744+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:06:36.2760375+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:40.9096099+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:40.7994083+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:10.3177215+00:00",
   "AchievementSets": [
     {
       "ID": "bb2dp",
@@ -246,7 +275,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00"

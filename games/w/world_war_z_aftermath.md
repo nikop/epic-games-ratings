@@ -1,4 +1,5 @@
 # World War Z Aftermath
+[View Rawdata](../../db/w/world_war_z_aftermath.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 17,073  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 3,818  (Ranked 75)
 Sum: 25,798 (Ranked 45)  
 Diff (max vs sum): 30  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

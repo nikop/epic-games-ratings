@@ -1,4 +1,5 @@
 # For The King
+[View Rawdata](../../db/f/for_the_king.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 5,563  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 361  (Ranked 207)
 Sum: 2,772 (Ranked 156)  
 Diff (max vs sum): 51  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,12 +1,13 @@
 # Fallout 3: Game of the Year Edition
+[View Rawdata](../../db/f/fallout_3__game_of_the_year_edition.json)  
 Rating: 4.60 (Ranked 379)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 13,223  (Ranked 25)  
 Sum: 27,016 (Ranked 40)  
 Diff (max vs sum): -15  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

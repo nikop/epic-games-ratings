@@ -1,8 +1,9 @@
 # Pascal's Wager: Definitive Edition
+[View Rawdata](../../db/p/pascal's_wager__definitive_edition.json)  
 Rating: 4.33 (Ranked 730)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

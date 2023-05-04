@@ -1,8 +1,9 @@
 # Star Renegades
+[View Rawdata](../../db/s/star_renegades.json)  
 Rating: 4.40 (Ranked 663)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,8 +1,9 @@
 # Firework
+[View Rawdata](../../db/f/firework.json)  
 Rating: 4.89 (Ranked 12)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

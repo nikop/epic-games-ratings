@@ -1,4 +1,5 @@
 # NARAKA: BLADEPOINT
+[View Rawdata](../../db/n/naraka__bladepoint.json)  
 Rating: 4.19 (Ranked 813)  
 Number of Ratings: 132,339  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 181,731  (Ranked 4)
 Sum: 379,861 (Ranked 7)  
 Diff (max vs sum): -3  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

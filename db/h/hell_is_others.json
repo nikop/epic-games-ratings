@@ -7,392 +7,448 @@
       "SetID": "3l9dm1h",
       "Name": "The Wait",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1734264
     },
     {
       "ID": "Act2",
       "SetID": "3l9dm1h",
       "Name": "The Ascent",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 991008
     },
     {
       "ID": "Act3",
       "SetID": "3l9dm1h",
       "Name": "The Strengthening",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 247752
     },
     {
       "ID": "Act4",
       "SetID": "3l9dm1h",
       "Name": "The Gamble",
       "Percentage": 0.5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 123876
     },
     {
       "ID": "Act5",
       "SetID": "3l9dm1h",
       "Name": "The Descent",
       "Percentage": 0.5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 123876
     },
     {
       "ID": "BackHomeAfterTimesUp",
       "SetID": "3l9dm1h",
       "Name": "By a hair",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "BackHomeFirstTime",
       "SetID": "3l9dm1h",
       "Name": "Survivor",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7680312
     },
     {
       "ID": "BackHomeNTimes",
       "SetID": "3l9dm1h",
       "Name": "Well-oiled machine",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1238760
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
       "SetID": "3l9dm1h",
       "Name": "Pacifist",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 991008
     },
     {
       "ID": "BreakNWindows",
       "SetID": "3l9dm1h",
       "Name": "Vandalism",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 991008
     },
     {
       "ID": "BuyHighValueFurniture",
       "SetID": "3l9dm1h",
       "Name": "A major purchase",
       "Percentage": 0.5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 123876
     },
     {
       "ID": "BuyNWeapons",
       "SetID": "3l9dm1h",
       "Name": "Arms dealer",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 74326
     },
     {
       "ID": "CompleteBestiary",
       "SetID": "3l9dm1h",
       "Name": "Expert Hunter",
       "Percentage": 0.4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 99101
     },
     {
       "ID": "CreditLevel1",
       "SetID": "3l9dm1h",
       "Name": "Fixer I",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2229768
     },
     {
       "ID": "CreditLevel2",
       "SetID": "3l9dm1h",
       "Name": "Fixer II",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "CreditLevel3",
       "SetID": "3l9dm1h",
       "Name": "Fixer III",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 49550
     },
     {
       "ID": "CreedsInBank1",
       "SetID": "3l9dm1h",
       "Name": "Saver I",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1238760
     },
     {
       "ID": "CreedsInBank2",
       "SetID": "3l9dm1h",
       "Name": "Saver II",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247752
     },
     {
       "ID": "CreedsInBank3",
       "SetID": "3l9dm1h",
       "Name": "Saver III",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 24775
     },
     {
       "ID": "DiscoverAllObjects",
       "SetID": "3l9dm1h",
       "Name": "Collector",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 24775
     },
     {
       "ID": "EatNFungus",
       "SetID": "3l9dm1h",
       "Name": "Fungi hunter",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 99101
     },
     {
       "ID": "EatNPills",
       "SetID": "3l9dm1h",
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247752
     },
     {
       "ID": "FullHomeExpansion",
       "SetID": "3l9dm1h",
       "Name": "Mansion",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 24775
     },
     {
       "ID": "FullInventoryExpansion",
       "SetID": "3l9dm1h",
       "Name": "Workhorse",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 24775
     },
     {
       "ID": "GrowPlantWithFertilisers",
       "SetID": "3l9dm1h",
       "Name": "Botanist",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247752
     },
     {
       "ID": "GrowPlants1",
       "SetID": "3l9dm1h",
       "Name": "Green thumb I",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1486512
     },
     {
       "ID": "GrowPlants2",
       "SetID": "3l9dm1h",
       "Name": "Green thumb II",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 247752
     },
     {
       "ID": "GrowPlants3",
       "SetID": "3l9dm1h",
       "Name": "Green thumb III",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 24775
     },
     {
       "ID": "GrowPlantsSameTime",
       "SetID": "3l9dm1h",
       "Name": "Plantation",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 24775
     },
     {
       "ID": "HomeWithNFurniture",
       "SetID": "3l9dm1h",
       "Name": "Interior designer",
       "Percentage": 0.6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 148651
     },
     {
       "ID": "KillCrawlingThing",
       "SetID": "3l9dm1h",
       "Name": "It took a while",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
       "SetID": "3l9dm1h",
       "Name": "Homerun",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 49550
     },
     {
       "ID": "KillOtherInFirstMinute",
       "SetID": "3l9dm1h",
       "Name": "Cleaning Company",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1238760
     },
     {
       "ID": "KillOtherWithKatana",
       "SetID": "3l9dm1h",
       "Name": "Samurai",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "KillOtherWithLowHealth",
       "SetID": "3l9dm1h",
       "Name": "Adrenaline",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 743256
     },
     {
       "ID": "KillOtherWithMine",
       "SetID": "3l9dm1h",
       "Name": "I Left You a Present",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 495504
     },
     {
       "ID": "KillOthers1",
       "SetID": "3l9dm1h",
       "Name": "Predator I",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5202792
     },
     {
       "ID": "KillOthers2",
       "SetID": "3l9dm1h",
       "Name": "Predator II",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "KillOthers3",
       "SetID": "3l9dm1h",
       "Name": "Predator III",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 74326
     },
     {
       "ID": "KillUnstableThing",
       "SetID": "3l9dm1h",
       "Name": "Truffle Dog",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
       "SetID": "3l9dm1h",
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247752
     },
     {
       "ID": "MaxImagoLevel",
       "SetID": "3l9dm1h",
       "Name": "Reminescence",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 24775
     },
     {
       "ID": "MaxRepOfAllNpcs",
       "SetID": "3l9dm1h",
       "Name": "Beloved",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 24775
     },
     {
       "ID": "MaxRepOfOneNpc",
       "SetID": "3l9dm1h",
       "Name": "Committed Relationship",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 198202
     },
     {
       "ID": "NewFloor",
       "SetID": "3l9dm1h",
       "Name": "Bricklayer",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247752
     },
     {
       "ID": "OldCoinCollected",
       "SetID": "3l9dm1h",
       "Name": "Number 1",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 173426
     },
     {
       "ID": "Patrimony1",
       "SetID": "3l9dm1h",
       "Name": "Capitalist I",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 991008
     },
     {
       "ID": "Patrimony2",
       "SetID": "3l9dm1h",
       "Name": "Capitalist II",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 24775
     },
     {
       "ID": "Patrimony3",
       "SetID": "3l9dm1h",
       "Name": "Capitalist III",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 24775
     },
     {
       "ID": "ReachNDays1",
       "SetID": "3l9dm1h",
       "Name": "A week in Century City",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2477520
     },
     {
       "ID": "ReachNDays2",
       "SetID": "3l9dm1h",
       "Name": "A month in Century City",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495504
     },
     {
       "ID": "ReachNDays3",
       "SetID": "3l9dm1h",
       "Name": "A season in Century City",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 49550
     },
     {
       "ID": "TakeFromBankNCreedsOneTime",
       "SetID": "3l9dm1h",
       "Name": "AML questionnaire",
       "Percentage": 0.3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 74326
     },
     {
       "ID": "TakeHomeNHearts",
       "SetID": "3l9dm1h",
       "Name": "Heartbreaker",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 49550
     },
     {
       "ID": "UnlockAllAchievements",
       "SetID": "3l9dm1h",
       "Name": "Hell Is You",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 24775
     },
     {
       "ID": "UnlockedAllShops",
       "SetID": "3l9dm1h",
       "Name": "Run the Economy",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247752
     }
   ],
   "Tags": [],
@@ -1481,6 +1537,11 @@
       "Time": "2023-05-04T22:07:01.7206696+00:00",
       "NumProgressed": 247750,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T22:24:59.5790439+00:00",
+      "NumProgressed": 247752,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1787,18 +1848,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-04T22:07:01.7206491+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.5790433+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 790,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247750,
-  "LastUpdate_Achievements": "2023-05-04T22:07:01.7207274+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:12.8962193+00:00",
+  "EOS_Progressed": 247752,
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.5790996+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:10.3666798+00:00",
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247750,
+      "Progressed": 247752,
       "Completed": 1
     }
   ],

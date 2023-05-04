@@ -1,7 +1,8 @@
 # Kao the Kangaroo - Mystery of the Volcano
+[View Rawdata](../../db/k/kao_the_kangaroo_-_mystery_of_the_volcano.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

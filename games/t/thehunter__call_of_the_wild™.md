@@ -1,4 +1,5 @@
 # theHunter: Call of the Wild™
+[View Rawdata](../../db/t/thehunter__call_of_the_wild™.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 14,635  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 3,163  (Ranked 84)
 Sum: 22,958 (Ranked 48)  
 Diff (max vs sum): 36  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,7 +1,8 @@
 # Mayhem in Single Valley
+[View Rawdata](../../db/m/mayhem_in_single_valley.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

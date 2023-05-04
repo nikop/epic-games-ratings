@@ -7,140 +7,160 @@
       "SetID": "2e4ldac",
       "Name": "Shiny New Weapons",
       "Percentage": 44,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 396
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "2e4ldac",
       "Name": "Key Piece I",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "2e4ldac",
       "Name": "Completely Hooked",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "2e4ldac",
       "Name": "Not All Who Wander",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "2e4ldac",
       "Name": "Money Bags",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "2e4ldac",
       "Name": "Walking Cookbook",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "2e4ldac",
       "Name": "The Musician",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "2e4ldac",
       "Name": "Lily Strong",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "2e4ldac",
       "Name": "Energy For Days",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "2e4ldac",
       "Name": "Fruitful Offerings",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "2e4ldac",
       "Name": "Nice Display",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "2e4ldac",
       "Name": "Key Piece II",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "2e4ldac",
       "Name": "A Budding Business",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "2e4ldac",
       "Name": "Key Piece III",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "2e4ldac",
       "Name": "The Hero",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "2e4ldac",
       "Name": "The Ultimate Weapon",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "2e4ldac",
       "Name": "Postmaster",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "2e4ldac",
       "Name": "The Lawnmower Lady",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "2e4ldac",
       "Name": "Lily: Warrior Princess",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "2e4ldac",
       "Name": "Combat Queen",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -161,13 +181,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:06:26.7016827+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:33.6407125+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-04T22:06:26.7017052+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:55.2888+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:33.6407355+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:40.9303981+00:00",
   "AchievementSets": [
     {
       "ID": "2e4ldac",
@@ -183,7 +203,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 306,
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00"

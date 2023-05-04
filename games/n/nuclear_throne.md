@@ -1,4 +1,5 @@
 # Nuclear Throne
+[View Rawdata](../../db/n/nuclear_throne.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 631  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 367  (Ranked 205)
 Sum: 1,181 (Ranked 220)  
 Diff (max vs sum): -15  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

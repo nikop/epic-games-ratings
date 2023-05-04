@@ -1,4 +1,5 @@
 # We Were Here Forever
+[View Rawdata](../../db/w/we_were_here_forever.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 113  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Puzzles): 21  (Ranked 478)
 Sum: 21 (Ranked 478)  
 Diff (max vs sum): 0  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,31 +1,32 @@
 # Undead Horde
+[View Rawdata](../../db/u/undead_horde.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Adventurer | 0.00 |
-| Conqueror | 0.00 |
-| Rule Alwyn | 0.00 |
-| Rule Catacombs | 0.00 |
-| Rule Citadel | 0.00 |
-| Rule Burning Rock | 0.00 |
-| Rule Wastelands | 0.00 |
-| Death Dealer | 0.00 |
-| Second Era | 0.00 |
-| Explorer | 0.00 |
-| Grim Reaper | 0.00 |
-| Heroism | 0.00 |
-| Horde | 0.00 |
-| Kinahmo Fried Chicken | 0.00 |
-| A Thousand Corpses | 0.00 |
-| Pentagrammaton | 0.00 |
-| Necronomicon | 0.00 |
-| Re-Animator | 0.00 |
-| Salmonella | 0.00 |
-| Scrooge McDead | 0.00 |
-| Summoner | 0.00 |
-| Undead Trainer | 0.00 |
-| The Lidless Eye Socket | 0.00 |
-| Werechicken | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Adventurer | 0.00% | ~0 |
+| Conqueror | 0.00% | ~0 |
+| Rule Alwyn | 0.00% | ~0 |
+| Rule Catacombs | 0.00% | ~0 |
+| Rule Citadel | 0.00% | ~0 |
+| Rule Burning Rock | 0.00% | ~0 |
+| Rule Wastelands | 0.00% | ~0 |
+| Death Dealer | 0.00% | ~0 |
+| Second Era | 0.00% | ~0 |
+| Explorer | 0.00% | ~0 |
+| Grim Reaper | 0.00% | ~0 |
+| Heroism | 0.00% | ~0 |
+| Horde | 0.00% | ~0 |
+| Kinahmo Fried Chicken | 0.00% | ~0 |
+| A Thousand Corpses | 0.00% | ~0 |
+| Pentagrammaton | 0.00% | ~0 |
+| Necronomicon | 0.00% | ~0 |
+| Re-Animator | 0.00% | ~0 |
+| Salmonella | 0.00% | ~0 |
+| Scrooge McDead | 0.00% | ~0 |
+| Summoner | 0.00% | ~0 |
+| Undead Trainer | 0.00% | ~0 |
+| The Lidless Eye Socket | 0.00% | ~0 |
+| Werechicken | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  

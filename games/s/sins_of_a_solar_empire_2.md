@@ -1,8 +1,9 @@
 # Sins of a Solar Empire 2
+[View Rawdata](../../db/s/sins_of_a_solar_empire_2.json)  
 Rating: 4.50 (Ranked 530)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

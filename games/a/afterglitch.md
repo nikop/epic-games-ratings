@@ -1,17 +1,18 @@
 # Afterglitch
+[View Rawdata](../../db/a/afterglitch.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| I. | 50.00 |
-| II. | 50.00 |
-| III. | 50.00 |
-| X. | 0.00 |
-| IV. | 0.00 |
-| V. | 0.00 |
-| VI. | 0.00 |
-| VII. | 0.00 |
-| VIII. | 0.00 |
-| IX. | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| I. | 50.00% | ~100 |
+| II. | 50.00% | ~100 |
+| III. | 50.00% | ~100 |
+| X. | 0.00% | ~0 |
+| IV. | 0.00% | ~0 |
+| V. | 0.00% | ~0 |
+| VI. | 0.00% | ~0 |
+| VII. | 0.00% | ~0 |
+| VIII. | 0.00% | ~0 |
+| IX. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  

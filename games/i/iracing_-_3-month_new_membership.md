@@ -1,7 +1,8 @@
 # iRacing - 3-month new membership
+[View Rawdata](../../db/i/iracing_-_3-month_new_membership.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

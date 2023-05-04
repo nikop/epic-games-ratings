@@ -7,105 +7,120 @@
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
       "Percentage": 54,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 8370
     },
     {
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
       "Percentage": 37,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5735
     },
     {
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
       "Percentage": 22,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 3410
     },
     {
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
       "Percentage": 19,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2945
     },
     {
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
       "Percentage": 21,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 3255
     },
     {
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
       "Percentage": 16,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 2480
     },
     {
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 10,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1550
     },
     {
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
       "Percentage": 18,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 2790
     },
     {
       "ID": "09",
       "SetID": "6glb5g1",
       "Name": "In the heart of the volcano.",
       "Percentage": 10,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 1550
     },
     {
       "ID": "10",
       "SetID": "6glb5g1",
       "Name": "The mountain of peril.",
       "Percentage": 7,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 1085
     },
     {
       "ID": "11",
       "SetID": "6glb5g1",
       "Name": "Rocky fall.",
       "Percentage": 10,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 1550
     },
     {
       "ID": "12",
       "SetID": "6glb5g1",
       "Name": "Dinosaur graveyard.",
       "Percentage": 10,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 1550
     },
     {
       "ID": "13",
       "SetID": "6glb5g1",
       "Name": "Passing the carcass.",
       "Percentage": 5,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 775
     },
     {
       "ID": "14",
       "SetID": "6glb5g1",
       "Name": "Lightning swamp.",
       "Percentage": 3,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 465
     },
     {
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
       "Percentage": 6,
-      "XP": 140
+      "XP": 140,
+      "UsersEstimate": 930
     }
   ],
   "Tags": [],
@@ -126,13 +141,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:06:24.3342786+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:32.0699488+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 155,
-  "LastUpdate_Achievements": "2023-05-04T22:06:24.3342916+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:51.6682129+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:32.0699641+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:58.6604877+00:00",
   "AchievementSets": [
     {
       "ID": "6glb5g1",
@@ -148,7 +163,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_Progress": 229,
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00"

@@ -1,4 +1,5 @@
 # POLYGOD
+[View Rawdata](../../db/p/polygod.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

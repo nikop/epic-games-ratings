@@ -1,4 +1,5 @@
 # Tom Clancy’s Rainbow Six® Extraction Standard Edition
+[View Rawdata](../../db/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.json)  
 Rating: 4.52 (Ranked 499)  
 Number of Ratings: 635  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 148  (Ranked 283)
 Sum: 890 (Ranked 235)  
 Diff (max vs sum): 48  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Neon Abyss
+[View Rawdata](../../db/n/neon_abyss.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 661  (Ranked 158)
 Sum: 5,283 (Ranked 119)  
 Diff (max vs sum): 39  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

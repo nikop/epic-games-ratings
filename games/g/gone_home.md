@@ -1,9 +1,10 @@
 # Gone Home
+[View Rawdata](../../db/g/gone_home.json)  
 Rating: 4.17 (Ranked 826)  
 Number of Ratings: 55  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

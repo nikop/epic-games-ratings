@@ -1,42 +1,43 @@
 # My Lovely Wife
+[View Rawdata](../../db/m/my_lovely_wife.json)  
 Rating: 4.36 (Ranked 701)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Objective Complete | 97.00 |
-| I did it! | 94.00 |
-| Learner | 91.00 |
-| Economical | 91.00 |
-| Devout | 89.00 |
-| The Love Martyr | 87.00 |
-| Frugal | 85.00 |
-| Dilligent | 82.00 |
-| I... I did it? | 80.00 |
-| Adored | 76.00 |
-| The Hobbyist | 64.00 |
-| A Forked Tongue | 54.00 |
-| Between Two Fires | 51.00 |
-| The Admirer | 50.00 |
-| Precious | 44.00 |
-| Devoted | 41.00 |
-| The Farmer | 38.00 |
-| Ever After | 35.00 |
-| Mandatory Sacrifice | 28.00 |
-| Loyal | 27.00 |
-| The Collector | 24.00 |
-| All Doors Open | 19.00 |
-| Faithful | 10.00 |
-| Asmodeus | 8.00 |
-| A Close | 8.00 |
-| Luna | 7.00 |
-| Lover | 1.00 |
-| Conclusions | 1.00 |
-| The Harvester | 0.90 |
-| Playboy | 0.20 |
-| Necessary Sacrifice | 0.20 |
-| Womanizer | 0.00 |
-| Lady Killer | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Objective Complete | 97.00% | ~53,059 |
+| I did it! | 94.00% | ~51,418 |
+| Learner | 91.00% | ~49,777 |
+| Economical | 91.00% | ~49,777 |
+| Devout | 89.00% | ~48,683 |
+| The Love Martyr | 87.00% | ~47,589 |
+| Frugal | 85.00% | ~46,495 |
+| Dilligent | 82.00% | ~44,854 |
+| I... I did it? | 80.00% | ~43,760 |
+| Adored | 76.00% | ~41,572 |
+| The Hobbyist | 64.00% | ~35,008 |
+| A Forked Tongue | 54.00% | ~29,538 |
+| Between Two Fires | 51.00% | ~27,897 |
+| The Admirer | 50.00% | ~27,350 |
+| Precious | 44.00% | ~24,068 |
+| Devoted | 41.00% | ~22,427 |
+| The Farmer | 38.00% | ~20,786 |
+| Ever After | 35.00% | ~19,145 |
+| Mandatory Sacrifice | 28.00% | ~15,316 |
+| Loyal | 27.00% | ~14,769 |
+| The Collector | 24.00% | ~13,128 |
+| All Doors Open | 19.00% | ~10,393 |
+| Faithful | 10.00% | ~5,470 |
+| Asmodeus | 8.00% | ~4,376 |
+| A Close | 8.00% | ~4,376 |
+| Luna | 7.00% | ~3,829 |
+| Lover | 1.00% | ~547 |
+| Conclusions | 1.00% | ~547 |
+| The Harvester | 0.90% | ~492 |
+| Playboy | 0.20% | ~109 |
+| Necessary Sacrifice | 0.20% | ~109 |
+| Womanizer | 0.00% | ~0 |
+| Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 547 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 191)  

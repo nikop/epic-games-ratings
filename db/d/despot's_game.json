@@ -7,245 +7,280 @@
       "SetID": "799afm0",
       "Name": "Strength and Sorcery",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3530
     },
     {
       "ID": "assemble-team2",
       "SetID": "799afm0",
       "Name": "Brain and Brawn",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3530
     },
     {
       "ID": "assemble-team3",
       "SetID": "799afm0",
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2824
     },
     {
       "ID": "collect-combos",
       "SetID": "799afm0",
       "Name": "Experimentalist",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1765
     },
     {
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
       "Percentage": 20,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7060
     },
     {
       "ID": "collect-discounted-items2",
       "SetID": "799afm0",
       "Name": "Shopaholic",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 706
     },
     {
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
       "Percentage": 40,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 14120
     },
     {
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
       "Percentage": 45,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15885
     },
     {
       "ID": "different-items2",
       "SetID": "799afm0",
       "Name": "Full House",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 353
     },
     {
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
       "Percentage": 32,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 11296
     },
     {
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
       "Percentage": 42,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 14826
     },
     {
       "ID": "finished-quest-flight",
       "SetID": "799afm0",
       "Name": "Great Flight",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5648
     },
     {
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8119
     },
     {
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6354
     },
     {
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8472
     },
     {
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
       "Percentage": 39,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13767
     },
     {
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8825
     },
     {
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
       "Percentage": 43,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 15179
     },
     {
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
       "Percentage": 19,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6707
     },
     {
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4589
     },
     {
       "ID": "get-all",
       "SetID": "799afm0",
       "Name": "Real Achiever",
       "Percentage": 0.3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 106
     },
     {
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
       "Percentage": 24,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 8472
     },
     {
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10943
     },
     {
       "ID": "save-zombie",
       "SetID": "799afm0",
       "Name": "Zombie Lover",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1059
     },
     {
       "ID": "unlock-chips",
       "SetID": "799afm0",
       "Name": "Wide Selection",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1765
     },
     {
       "ID": "unlock-mutations",
       "SetID": "799afm0",
       "Name": "Munchkin",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 353
     },
     {
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
       "Percentage": 24,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 8472
     },
     {
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
       "Percentage": 72,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 25416
     },
     {
       "ID": "win-first-level",
       "SetID": "799afm0",
       "Name": "Good start!",
       "Percentage": 81,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 28593
     },
     {
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8119
     },
     {
       "ID": "win-koth-fights2",
       "SetID": "799afm0",
       "Name": "Soldier",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1765
     },
     {
       "ID": "win-koth-fights3",
       "SetID": "799afm0",
       "Name": "Vet",
       "Percentage": 0.6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 212
     },
     {
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
       "Percentage": 39,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 13767
     },
     {
       "ID": "win-with-3-cultists",
       "SetID": "799afm0",
       "Name": "Honorary Cultist",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3530
     },
     {
       "ID": "win-with-mrakus",
       "SetID": "799afm0",
       "Name": "Android Power",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1765
     }
   ],
   "Tags": [],
@@ -280,13 +315,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T22:06:31.6719329+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:37.3360727+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 1,
   "EOS_Progressed": 353,
-  "LastUpdate_Achievements": "2023-05-04T22:06:31.6719736+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:15.6475196+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:37.3361153+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:54.0731576+00:00",
   "AchievementSets": [
     {
       "ID": "799afm0",

@@ -1,36 +1,37 @@
 # Them's Fightin' Herds
+[View Rawdata](../../db/t/them's_fightin'_herds.json)  
 Rating: 4.62 (Ranked 338)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Once upon a time... | 35.00 |
-| ... in the magical land of Foenum... | 34.00 |
-| Be Gentle... | 22.00 |
-| A Worthy Opponent | 17.00 |
-| Makin' Bacon | 4.00 |
-| Tenderhoof | 3.00 |
-| Champ'een of The Praire | 1.00 |
-| Come At Me! | 1.00 |
-| Sin'er Man | 0.20 |
-| Well-Done | 0.10 |
-| Valedictorian | 0.10 |
-| Love is a Battlefield | 0.10 |
-| That'll Do | 0.10 |
-| Swashbuckle'd | 0.10 |
-| School of Hard Knocks | 0.10 |
-| Way of the Dragon | 0.10 |
-| Iced Out | 0.10 |
-| Kickin' 'n Stompin' | 0.10 |
-| Dark Magic | 0.10 |
-| I Love You This Much | 0.10 |
-| Who Let The Dogs Out? | 0.10 |
-| The GOAT | 0.10 |
-| The Key To Victory | 0.10 |
-| Honor For All | 0.10 |
-| Ice Queen | 0.10 |
-| Doohickeys | 0.10 |
-| Alpaca Space Program | 0.10 |
-| High Priestess | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Once upon a time... | 35.00% | ~7,708,400 |
+| ... in the magical land of Foenum... | 34.00% | ~7,488,160 |
+| Be Gentle... | 22.00% | ~4,845,280 |
+| A Worthy Opponent | 17.00% | ~3,744,080 |
+| Makin' Bacon | 4.00% | ~880,960 |
+| Tenderhoof | 3.00% | ~660,720 |
+| Champ'een of The Praire | 1.00% | ~220,240 |
+| Come At Me! | 1.00% | ~220,240 |
+| Sin'er Man | 0.20% | ~44,048 |
+| Well-Done | 0.10% | ~22,024 |
+| Valedictorian | 0.10% | ~22,024 |
+| Love is a Battlefield | 0.10% | ~22,024 |
+| That'll Do | 0.10% | ~22,024 |
+| Swashbuckle'd | 0.10% | ~22,024 |
+| School of Hard Knocks | 0.10% | ~22,024 |
+| Way of the Dragon | 0.10% | ~22,024 |
+| Iced Out | 0.10% | ~22,024 |
+| Kickin' 'n Stompin' | 0.10% | ~22,024 |
+| Dark Magic | 0.10% | ~22,024 |
+| I Love You This Much | 0.10% | ~22,024 |
+| Who Let The Dogs Out? | 0.10% | ~22,024 |
+| The GOAT | 0.10% | ~22,024 |
+| The Key To Victory | 0.10% | ~22,024 |
+| Honor For All | 0.10% | ~22,024 |
+| Ice Queen | 0.10% | ~22,024 |
+| Doohickeys | 0.10% | ~22,024 |
+| Alpaca Space Program | 0.10% | ~22,024 |
+| High Priestess | 0.10% | ~22,024 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220,240 (Ranked 44)  
 Completed: 2 (0.00%) (Ranked 191)  

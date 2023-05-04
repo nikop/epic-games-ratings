@@ -1,4 +1,5 @@
 # Jurassic World Evolution 2
+[View Rawdata](../../db/j/jurassic_world_evolution_2.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 3,746  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 584  (Ranked 166)
 Sum: 5,422 (Ranked 116)  
 Diff (max vs sum): 50  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

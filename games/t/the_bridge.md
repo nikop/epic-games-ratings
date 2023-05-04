@@ -1,8 +1,9 @@
 # The Bridge
+[View Rawdata](../../db/t/the_bridge.json)  
 Rating: 4.20 (Ranked 801)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

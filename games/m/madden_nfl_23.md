@@ -1,8 +1,9 @@
 # Madden NFL 23
+[View Rawdata](../../db/m/madden_nfl_23.json)  
 Rating: 4.49 (Ranked 547)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

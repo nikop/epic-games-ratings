@@ -1,4 +1,5 @@
 # Gloomhaven
+[View Rawdata](../../db/g/gloomhaven.json)  
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 3,437  (Ranked 79)
 Sum: 7,940 (Ranked 91)  
 Diff (max vs sum): -12  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

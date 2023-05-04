@@ -1,4 +1,5 @@
 # Rise of the Tomb Raider: 20 Year Celebration
+[View Rawdata](../../db/r/rise_of_the_tomb_raider__20_year_celebration.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 28,216  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 11,191  (Ranked 32)
 Sum: 14,149 (Ranked 63)  
 Diff (max vs sum): -31  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

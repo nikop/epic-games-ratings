@@ -1,4 +1,5 @@
 # Tetris® Effect: Connected
+[View Rawdata](../../db/t/tetris®_effect__connected.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 272  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 39  (Ranked 412)
 Sum: 268 (Ranked 333)  
 Diff (max vs sum): 79  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

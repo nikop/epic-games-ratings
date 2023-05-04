@@ -1,4 +1,5 @@
 # Divine Knockout (DKO) - Starter Edition
+[View Rawdata](../../db/d/divine_knockout_(dko)_-_starter_edition.json)  
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 48  (Ranked 391)
 Sum: 426 (Ranked 294)  
 Diff (max vs sum): 97  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

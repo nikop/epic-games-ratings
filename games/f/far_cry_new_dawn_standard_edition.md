@@ -1,4 +1,5 @@
 # Far Cry New Dawn Standard Edition
+[View Rawdata](../../db/f/far_cry_new_dawn_standard_edition.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 338  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 178  (Ranked 267)
 Sum: 178 (Ranked 360)  
 Diff (max vs sum): -93  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

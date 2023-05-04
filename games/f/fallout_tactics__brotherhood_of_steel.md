@@ -1,12 +1,13 @@
 # Fallout Tactics: Brotherhood of Steel
+[View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.51 (Ranked 513)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 68  (Ranked 364)  
 Sum: 68 (Ranked 419)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

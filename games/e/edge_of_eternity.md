@@ -1,9 +1,10 @@
 # Edge Of Eternity
+[View Rawdata](../../db/e/edge_of_eternity.json)  
 Rating: 3.79 (Ranked 903)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

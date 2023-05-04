@@ -1,4 +1,5 @@
 # Slime Rancher
+[View Rawdata](../../db/s/slime_rancher.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 387  (Ranked 201)
 Sum: 3,020 (Ranked 147)  
 Diff (max vs sum): 54  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

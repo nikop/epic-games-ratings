@@ -1,22 +1,23 @@
 # Kaichu - The Kaiju Dating Sim
+[View Rawdata](../../db/k/kaichu_-_the_kaiju_dating_sim.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Everything's Coming Up Gigachu | 91.00 |
-| Cyber Bully | 68.00 |
-| Loving Commute | 59.00 |
-| Love is in Bloom | 41.00 |
-| Royal Romance | 36.00 |
-| Speed Dating | 36.00 |
-| Friendzoned | 32.00 |
-| A Heated Affair | 27.00 |
-| Love is in the Air | 27.00 |
-| Short Distance Relationship | 23.00 |
-| Spread the Love | 23.00 |
-| Long Distance Relationship | 18.00 |
-| Out of Your Shell | 18.00 |
-| Polyamorousasaurus | 18.00 |
-| Loved and Lost | 14.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Everything's Coming Up Gigachu | 91.00% | ~2,002 |
+| Cyber Bully | 68.00% | ~1,496 |
+| Loving Commute | 59.00% | ~1,298 |
+| Love is in Bloom | 41.00% | ~902 |
+| Royal Romance | 36.00% | ~792 |
+| Speed Dating | 36.00% | ~792 |
+| Friendzoned | 32.00% | ~704 |
+| A Heated Affair | 27.00% | ~594 |
+| Love is in the Air | 27.00% | ~594 |
+| Short Distance Relationship | 23.00% | ~506 |
+| Spread the Love | 23.00% | ~506 |
+| Long Distance Relationship | 18.00% | ~396 |
+| Out of Your Shell | 18.00% | ~396 |
+| Polyamorousasaurus | 18.00% | ~396 |
+| Loved and Lost | 14.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 290)  
 Completed: 3 (13.64%) (Ranked 7)  

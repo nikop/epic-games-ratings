@@ -7,91 +7,104 @@
       "SetID": "17dde9j",
       "Name": "Ark of the Covenant",
       "Percentage": 50,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 300
     },
     {
       "ID": "EAchievement_Big_Momma",
       "SetID": "17dde9j",
       "Name": "Big Momma",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Half_Blood",
       "SetID": "17dde9j",
       "Name": "Half Blood",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Head_Gun",
       "SetID": "17dde9j",
       "Name": "Head Gun",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "EAchievement_Left_Of_Centre",
       "SetID": "17dde9j",
       "Name": "Left of Centre",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Make_Him_Mad",
       "SetID": "17dde9j",
       "Name": "Make Him Mad",
       "Percentage": 83,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 498
     },
     {
       "ID": "EAchievement_Of_Wulfs_And_Demons",
       "SetID": "17dde9j",
       "Name": "Of Wulfs and Demons",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Right_Hand_Man",
       "SetID": "17dde9j",
       "Name": "Right Hand Man",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Teachers_And_Traitors",
       "SetID": "17dde9j",
       "Name": "Teachers and Traitors",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_The_Butcheress",
       "SetID": "17dde9j",
       "Name": "The Butcheress",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Thule_Chapel",
       "SetID": "17dde9j",
       "Name": "Thule Chapel",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Vampiress",
       "SetID": "17dde9j",
       "Name": "Vampiress",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 102
     },
     {
       "ID": "EAchievement_Walls_Of_Jericho",
       "SetID": "17dde9j",
       "Name": "Walls of Jericho",
       "Percentage": 17,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 102
     }
   ],
   "Tags": [],
@@ -112,13 +125,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:06:55.6351508+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:54.9828699+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:06:55.6351603+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:59.4014429+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:54.9828842+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:01.0559528+00:00",
   "AchievementSets": [
     {
       "ID": "17dde9j",
@@ -134,7 +147,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
   "FirstSeenAchievements": "2023-04-25T16:14:25.6495145+00:00"

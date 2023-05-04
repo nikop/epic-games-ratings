@@ -1,4 +1,5 @@
 # Rising Storm 2: Vietnam
+[View Rawdata](../../db/r/rising_storm_2__vietnam.json)  
 Rating: 4.50 (Ranked 530)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Quickly Understood Controls): 647  (Ranked 160)
 Sum: 6,033 (Ranked 112)  
 Diff (max vs sum): 48  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

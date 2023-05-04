@@ -7,196 +7,224 @@
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
       "Percentage": 62,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 8246
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
       "Percentage": 70,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 9310
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
       "Percentage": 63,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 8379
     },
     {
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
       "Percentage": 20,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2660
     },
     {
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
       "Percentage": 26,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3458
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
       "Percentage": 62,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 8246
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
       "Percentage": 56,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7448
     },
     {
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 52,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6916
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
       "Percentage": 56,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 7448
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
       "Percentage": 52,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6916
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
       "Percentage": 57,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 7581
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
       "Percentage": 41,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 5453
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
       "Percentage": 38,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5054
     },
     {
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
       "Percentage": 56,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 7448
     },
     {
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
       "Percentage": 54,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7182
     },
     {
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
       "Percentage": 52,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6916
     },
     {
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
       "Percentage": 53,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 7049
     },
     {
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
       "Percentage": 53,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 7049
     },
     {
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
       "Percentage": 41,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 5453
     },
     {
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
       "Percentage": 46,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6118
     },
     {
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
       "Percentage": 53,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7049
     },
     {
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
       "Percentage": 50,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 6650
     },
     {
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
       "Percentage": 24,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3192
     },
     {
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
       "Percentage": 44,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 5852
     },
     {
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
       "Percentage": 35,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4655
     },
     {
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
       "Percentage": 39,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 5187
     },
     {
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
       "Percentage": 39,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 5187
     },
     {
       "ID": "PLTN",
       "SetID": "bbing49",
       "Name": "Reawakened",
       "Percentage": 11,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 1463
     }
   ],
   "Tags": [],
@@ -317,13 +345,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:06:11.9318686+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:22.7718248+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_Completed": 9,
   "EOS_Progressed": 133,
-  "LastUpdate_Achievements": "2023-05-04T22:06:11.9318966+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:29.6496205+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:22.7718454+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:44.7130885+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",
@@ -339,7 +367,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 49,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_Progress": 239,
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00"

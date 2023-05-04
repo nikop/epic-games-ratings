@@ -7,273 +7,312 @@
       "SetID": "chb1m60",
       "Name": "Getting started",
       "Percentage": 76,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 20672
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
       "Percentage": 46,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 12512
     },
     {
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
       "Percentage": 28,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7616
     },
     {
       "ID": "04_tycoon",
       "SetID": "chb1m60",
       "Name": "Tycoon",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2176
     },
     {
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
       "Percentage": 52,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 14144
     },
     {
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
       "Percentage": 47,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 12784
     },
     {
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 8976
     },
     {
       "ID": "08_america",
       "SetID": "chb1m60",
       "Name": "America",
       "Percentage": 18,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4896
     },
     {
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
       "Percentage": 21,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5712
     },
     {
       "ID": "10_japan",
       "SetID": "chb1m60",
       "Name": "Japan",
       "Percentage": 11,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2992
     },
     {
       "ID": "11_germany",
       "SetID": "chb1m60",
       "Name": "Germany",
       "Percentage": 7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1904
     },
     {
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
       "Percentage": 29,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7888
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 8976
     },
     {
       "ID": "14_woodcutter",
       "SetID": "chb1m60",
       "Name": "Woodcutter",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3536
     },
     {
       "ID": "15_bbq",
       "SetID": "chb1m60",
       "Name": "BBQ",
       "Percentage": 0.7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 190
     },
     {
       "ID": "16_vandal",
       "SetID": "chb1m60",
       "Name": "Vandal",
       "Percentage": 0.7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 190
     },
     {
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
       "Percentage": 57,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 15504
     },
     {
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
       "Percentage": 24,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6528
     },
     {
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
       "Percentage": 36,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 9792
     },
     {
       "ID": "20_sabotage",
       "SetID": "chb1m60",
       "Name": "Sabotage",
       "Percentage": 18,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4896
     },
     {
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
       "Percentage": 24,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 6528
     },
     {
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
       "Percentage": 27,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7344
     },
     {
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
       "Percentage": 75,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 20400
     },
     {
       "ID": "24_mega",
       "SetID": "chb1m60",
       "Name": "Mega-railroad",
       "Percentage": 0.7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 190
     },
     {
       "ID": "25_juggler",
       "SetID": "chb1m60",
       "Name": "Juggler",
       "Percentage": 0.7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 190
     },
     {
       "ID": "26_forgotten",
       "SetID": "chb1m60",
       "Name": "Forgotten",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 816
     },
     {
       "ID": "27_lucky",
       "SetID": "chb1m60",
       "Name": "Lucky vandal",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 816
     },
     {
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
       "Percentage": 28,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7616
     },
     {
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
       "Percentage": 25,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 6800
     },
     {
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
       "Percentage": 35,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 9520
     },
     {
       "ID": "31_chancellor",
       "SetID": "chb1m60",
       "Name": "\u0421hancellor",
       "Percentage": 4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1088
     },
     {
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
       "Percentage": 13,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3536
     },
     {
       "ID": "33_peacemaker",
       "SetID": "chb1m60",
       "Name": "Peacemaker",
       "Percentage": 4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1088
     },
     {
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
       "Percentage": 43,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 11696
     },
     {
       "ID": "35_achtung",
       "SetID": "chb1m60",
       "Name": "Achtung!",
       "Percentage": 13,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3536
     },
     {
       "ID": "36_supercrash",
       "SetID": "chb1m60",
       "Name": "Supercrash!",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1632
     },
     {
       "ID": "37_maniacvandal",
       "SetID": "chb1m60",
       "Name": "Maniac vandal",
       "Percentage": 0.7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 190
     },
     {
       "ID": "38_chuck",
       "SetID": "chb1m60",
       "Name": "Chuck Norris",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1632
     },
     {
       "ID": "39_salesman",
       "SetID": "chb1m60",
       "Name": "Salesman",
       "Percentage": 0.7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 190
     }
   ],
   "Tags": [],
@@ -361,13 +400,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-04T22:03:19.1833466+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:22:20.0946962+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-04T22:03:19.1833852+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:57.3065224+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:22:20.0947528+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:02.2657538+00:00",
   "AchievementSets": [
     {
       "ID": "chb1m60",

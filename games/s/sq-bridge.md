@@ -1,4 +1,5 @@
 # SQ-BRIDGE
+[View Rawdata](../../db/s/sq-bridge.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

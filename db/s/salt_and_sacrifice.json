@@ -7,371 +7,424 @@
       "SetID": "2jelldm",
       "Name": "The Aeromancer",
       "Percentage": 66,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4206510
     },
     {
       "ID": "area_copse",
       "SetID": "2jelldm",
       "Name": "The Copse",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1848315
     },
     {
       "ID": "area_mountain",
       "SetID": "2jelldm",
       "Name": "The Mountain",
       "Percentage": 40,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2549400
     },
     {
       "ID": "area_swamp",
       "SetID": "2jelldm",
       "Name": "The Swamp",
       "Percentage": 50,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3186750
     },
     {
       "ID": "area_wastes",
       "SetID": "2jelldm",
       "Name": "The Wastes",
       "Percentage": 83,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5290005
     },
     {
       "ID": "bibliomancer",
       "SetID": "2jelldm",
       "Name": "The Bibliomancer",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1593375
     },
     {
       "ID": "bluedragon",
       "SetID": "2jelldm",
       "Name": "The Dragon",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1848315
     },
     {
       "ID": "chronomancer",
       "SetID": "2jelldm",
       "Name": "The Chronomancer",
       "Percentage": 32,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2039520
     },
     {
       "ID": "corpumancer",
       "SetID": "2jelldm",
       "Name": "The Corpumancer",
       "Percentage": 42,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2676870
     },
     {
       "ID": "crafting_all_replenish_found",
       "SetID": "2jelldm",
       "Name": "Well Stocked",
       "Percentage": 27,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1720845
     },
     {
       "ID": "crafting_all_replenish_upgrade",
       "SetID": "2jelldm",
       "Name": "Top Shelf",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 318675
     },
     {
       "ID": "crafting_first_craft",
       "SetID": "2jelldm",
       "Name": "Waste Not",
       "Percentage": 80,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5098800
     },
     {
       "ID": "crafting_first_replenish",
       "SetID": "2jelldm",
       "Name": "Stock Up",
       "Percentage": 75,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4780125
     },
     {
       "ID": "crafting_max_upgrade",
       "SetID": "2jelldm",
       "Name": "Want Not",
       "Percentage": 21,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1338435
     },
     {
       "ID": "cryomancer",
       "SetID": "2jelldm",
       "Name": "The Cryomancer",
       "Percentage": 76,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4843860
     },
     {
       "ID": "diablomancer",
       "SetID": "2jelldm",
       "Name": "The Diablomancer",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1338435
     },
     {
       "ID": "dracomancer",
       "SetID": "2jelldm",
       "Name": "The Dracomancer",
       "Percentage": 29,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1848315
     },
     {
       "ID": "electromancer",
       "SetID": "2jelldm",
       "Name": "The Electromancer",
       "Percentage": 61,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3887835
     },
     {
       "ID": "elfslayer",
       "SetID": "2jelldm",
       "Name": "The Champion",
       "Percentage": 91,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5799885
     },
     {
       "ID": "end_climb",
       "SetID": "2jelldm",
       "Name": "Make The Climb",
       "Percentage": 10,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 637350
     },
     {
       "ID": "end_devour",
       "SetID": "2jelldm",
       "Name": "Take Your Place",
       "Percentage": 14,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 892290
     },
     {
       "ID": "faction_blueheart",
       "SetID": "2jelldm",
       "Name": "Blueheart Runners",
       "Percentage": 54,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3441690
     },
     {
       "ID": "faction_chaos",
       "SetID": "2jelldm",
       "Name": "Chaos Hunger",
       "Percentage": 27,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1720845
     },
     {
       "ID": "faction_dawnlight",
       "SetID": "2jelldm",
       "Name": "Dawnlight Order",
       "Percentage": 64,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4079040
     },
     {
       "ID": "faction_oath",
       "SetID": "2jelldm",
       "Name": "Oathbound Watchers",
       "Percentage": 33,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2103255
     },
     {
       "ID": "faction_sheriff",
       "SetID": "2jelldm",
       "Name": "Sheriff Inquisitors",
       "Percentage": 55,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3505425
     },
     {
       "ID": "faction_shroud",
       "SetID": "2jelldm",
       "Name": "Shroud Alliance",
       "Percentage": 39,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2485665
     },
     {
       "ID": "firelord",
       "SetID": "2jelldm",
       "Name": "The Firelord",
       "Percentage": 24,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1529640
     },
     {
       "ID": "fungalmancer",
       "SetID": "2jelldm",
       "Name": "The Fungalmancer",
       "Percentage": 47,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2995545
     },
     {
       "ID": "hag",
       "SetID": "2jelldm",
       "Name": "The Hag",
       "Percentage": 45,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2868075
     },
     {
       "ID": "huntsman",
       "SetID": "2jelldm",
       "Name": "The Huntsman",
       "Percentage": 65,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4142775
     },
     {
       "ID": "hydromancer",
       "SetID": "2jelldm",
       "Name": "The Hydromancer",
       "Percentage": 73,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4652655
     },
     {
       "ID": "kinetomancer",
       "SetID": "2jelldm",
       "Name": "The Kinetomancer",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1720845
     },
     {
       "ID": "luminimancer",
       "SetID": "2jelldm",
       "Name": "The Luminimancer",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1593375
     },
     {
       "ID": "mechanomancer",
       "SetID": "2jelldm",
       "Name": "The Mechanomancer",
       "Percentage": 32,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2039520
     },
     {
       "ID": "messiah",
       "SetID": "2jelldm",
       "Name": "The Sacrifice",
       "Percentage": 21,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1338435
     },
     {
       "ID": "mummy",
       "SetID": "2jelldm",
       "Name": "The Exalted",
       "Percentage": 56,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3569160
     },
     {
       "ID": "necromancer",
       "SetID": "2jelldm",
       "Name": "The Necromancer",
       "Percentage": 52,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3314220
     },
     {
       "ID": "neuromancer",
       "SetID": "2jelldm",
       "Name": "The Neuromancer",
       "Percentage": 34,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2166990
     },
     {
       "ID": "npc_blue_nomad",
       "SetID": "2jelldm",
       "Name": "The Nomad",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 892290
     },
     {
       "ID": "npc_king",
       "SetID": "2jelldm",
       "Name": "The King",
       "Percentage": 18,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1147230
     },
     {
       "ID": "npc_owlmancer",
       "SetID": "2jelldm",
       "Name": "The Scholar",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 637350
     },
     {
       "ID": "npc_soldier",
       "SetID": "2jelldm",
       "Name": "The Soldier",
       "Percentage": 11,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 701085
     },
     {
       "ID": "pyromancer",
       "SetID": "2jelldm",
       "Name": "The Pyromancer",
       "Percentage": 86,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5481210
     },
     {
       "ID": "queen",
       "SetID": "2jelldm",
       "Name": "The Matriarch",
       "Percentage": 70,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4461450
     },
     {
       "ID": "sanguimancer",
       "SetID": "2jelldm",
       "Name": "The Sanguimancer",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1720845
     },
     {
       "ID": "skylord",
       "SetID": "2jelldm",
       "Name": "The Skylord",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1593375
     },
     {
       "ID": "terramancer",
       "SetID": "2jelldm",
       "Name": "The Terramancer",
       "Percentage": 59,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3760365
     },
     {
       "ID": "thaumamancer",
       "SetID": "2jelldm",
       "Name": "The Thaumamancer",
       "Percentage": 47,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2995545
     },
     {
       "ID": "treeheart",
       "SetID": "2jelldm",
       "Name": "The Treeheart",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2549400
     },
     {
       "ID": "two_monks",
       "SetID": "2jelldm",
       "Name": "The Two Monks",
       "Percentage": 37,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2358195
     },
     {
       "ID": "umbramancer",
       "SetID": "2jelldm",
       "Name": "The Umbramancer",
       "Percentage": 28,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1784580
     },
     {
       "ID": "venomancer",
       "SetID": "2jelldm",
       "Name": "The Venomancer",
       "Percentage": 65,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4142775
     }
   ],
   "Tags": [
@@ -2268,13 +2321,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T22:06:18.9909518+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:28.0660511+00:00",
   "EOS_NewCompleters": 9,
   "EOS_NewPlayers": 153,
   "EOS_Completed": 1149,
   "EOS_Progressed": 63735,
-  "LastUpdate_Achievements": "2023-05-04T22:06:18.9910032+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:40.8564094+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:28.0661198+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:30.4479565+00:00",
   "AchievementSets": [
     {
       "ID": "2jelldm",

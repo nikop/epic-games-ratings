@@ -1,4 +1,5 @@
 # Splitgate
+[View Rawdata](../../db/s/splitgate.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

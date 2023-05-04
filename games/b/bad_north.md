@@ -1,9 +1,10 @@
 # Bad North
+[View Rawdata](../../db/b/bad_north.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 859  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,210 +7,240 @@
       "SetID": "3j2phem",
       "Name": "Animal Lover",
       "Percentage": 36,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4680
     },
     {
       "ID": "axe_of_kindness",
       "SetID": "3j2phem",
       "Name": "Axe of Kindness",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 104
     },
     {
       "ID": "axeman",
       "SetID": "3j2phem",
       "Name": "Axeman",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "bull_in_a_china_shop",
       "SetID": "3j2phem",
       "Name": "Bull in a China Shop",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 780
     },
     {
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1040
     },
     {
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
       "Percentage": 45,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 5850
     },
     {
       "ID": "dodgy_geezer",
       "SetID": "3j2phem",
       "Name": "Dodgy Geezer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
       "Percentage": 32,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 4160
     },
     {
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
       "Percentage": 14,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1820
     },
     {
       "ID": "ending_on_a_high_note",
       "SetID": "3j2phem",
       "Name": "Ending on a High Note",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 260
     },
     {
       "ID": "hard_times",
       "SetID": "3j2phem",
       "Name": "Hard Times",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "head_of_the_hotel",
       "SetID": "3j2phem",
       "Name": "Head of the Hotel",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "hell_at_the_hotel",
       "SetID": "3j2phem",
       "Name": "Hell at the Hotel",
       "Percentage": 0,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 0
     },
     {
       "ID": "in_complete_darkness",
       "SetID": "3j2phem",
       "Name": "In Complete Darkness",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "in_darkness",
       "SetID": "3j2phem",
       "Name": "In Darkness",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 104
     },
     {
       "ID": "life_saver",
       "SetID": "3j2phem",
       "Name": "Life Saver",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "luddite",
       "SetID": "3j2phem",
       "Name": "Luddite",
       "Percentage": 0.8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "maids_of_sker",
       "SetID": "3j2phem",
       "Name": "Maids of Sker",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 260
     },
     {
       "ID": "make_love_not_war",
       "SetID": "3j2phem",
       "Name": "Make Love, Not War",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "nightmare_at_the_hotel",
       "SetID": "3j2phem",
       "Name": "Nightmare at the Hotel",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "nuisance_caller",
       "SetID": "3j2phem",
       "Name": "Nuisance Caller",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1560
     },
     {
       "ID": "phonic_boom",
       "SetID": "3j2phem",
       "Name": "Phonic Boom",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 260
     },
     {
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
       "Percentage": 15,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1950
     },
     {
       "ID": "scholar",
       "SetID": "3j2phem",
       "Name": "Scholar",
       "Percentage": 0.8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 104
     },
     {
       "ID": "sker_explorer",
       "SetID": "3j2phem",
       "Name": "Sker Explorer",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 520
     },
     {
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
       "Percentage": 15,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1950
     },
     {
       "ID": "the_long_night",
       "SetID": "3j2phem",
       "Name": "The Long Night",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 260
     },
     {
       "ID": "the_longest_night",
       "SetID": "3j2phem",
       "Name": "The Longest Night",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "wales_interactive",
       "SetID": "3j2phem",
       "Name": "Wales Interactive",
       "Percentage": 9,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1170
     }
   ],
   "Tags": [],
@@ -241,13 +271,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:06:39.7600246+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:43.3789373+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 130,
-  "LastUpdate_Achievements": "2023-05-04T22:06:39.7600605+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:53.3657014+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:43.3789715+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:19.0183234+00:00",
   "AchievementSets": [
     {
       "ID": "3j2phem",

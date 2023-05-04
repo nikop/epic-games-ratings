@@ -1,9 +1,10 @@
 # The Silent Age
+[View Rawdata](../../db/t/the_silent_age.json)  
 Rating: 4.32 (Ranked 737)  
 Number of Ratings: 29  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

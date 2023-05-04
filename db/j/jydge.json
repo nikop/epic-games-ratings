@@ -7,105 +7,120 @@
       "SetID": "7e5mm2p",
       "Name": "The Dawn of Jydgement",
       "Percentage": 40,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 400
     },
     {
       "ID": "ACT_2",
       "SetID": "7e5mm2p",
       "Name": "The Jydgement Day",
       "Percentage": 10,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACT_3",
       "SetID": "7e5mm2p",
       "Name": "The Dusk Falls",
       "Percentage": 10,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 100
     },
     {
       "ID": "COLLECTIBLES",
       "SetID": "7e5mm2p",
       "Name": "Collector",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "CYBERWARE",
       "SetID": "7e5mm2p",
       "Name": "Cyberware",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "DIFFICULTY_GRIM",
       "SetID": "7e5mm2p",
       "Name": "Crime Reaper",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "DIFFICULTY_HARDCORE",
       "SetID": "7e5mm2p",
       "Name": "Hardcore Law",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "DIFFICULTY_NIGHTMARE",
       "SetID": "7e5mm2p",
       "Name": "Nightmare Law",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "DIFFICULTY_NORMAL",
       "SetID": "7e5mm2p",
       "Name": "Law Enforced",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "GOOD_ENDING",
       "SetID": "7e5mm2p",
       "Name": "Lawful Not Awful",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "SAVIOR",
       "SetID": "7e5mm2p",
       "Name": "Savior",
       "Percentage": 20,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 200
     },
     {
       "ID": "THREE_MEDALS",
       "SetID": "7e5mm2p",
       "Name": "Mission Mastered",
       "Percentage": 40,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 400
     },
     {
       "ID": "UPGRADE_FIREMODES",
       "SetID": "7e5mm2p",
       "Name": "Firemodes to the Max",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "UPGRADE_SPECIALS",
       "SetID": "7e5mm2p",
       "Name": "Special Specialist",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "WEAPON_MODS",
       "SetID": "7e5mm2p",
       "Name": "Weapon Mods",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -171,13 +186,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:06:22.9405637+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:30.7743874+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 9,
   "EOS_Completed": 0,
   "EOS_Progressed": 10,
-  "LastUpdate_Achievements": "2023-05-04T22:06:22.9405748+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:27.8769191+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:30.7743977+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:43.5579104+00:00",
   "AchievementSets": [
     {
       "ID": "7e5mm2p",

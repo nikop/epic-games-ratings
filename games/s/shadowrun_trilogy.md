@@ -1,4 +1,5 @@
 # Shadowrun Trilogy
+[View Rawdata](../../db/s/shadowrun_trilogy.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

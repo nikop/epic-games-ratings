@@ -1,4 +1,5 @@
 # Showmaker
+[View Rawdata](../../db/s/showmaker.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

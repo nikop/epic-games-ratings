@@ -1,7 +1,8 @@
 # King's Bounty: Warriors of the North
+[View Rawdata](../../db/k/king's_bounty__warriors_of_the_north.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

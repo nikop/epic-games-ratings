@@ -7,364 +7,416 @@
       "SetID": "1pi2inm",
       "Name": "1000 KILLS",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1200741
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
       "SetID": "1pi2inm",
       "Name": "100 KILLS",
       "Percentage": 10,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4002470
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
       "SetID": "1pi2inm",
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2401482
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
       "SetID": "1pi2inm",
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3602223
     },
     {
       "ID": "BIGUPS",
       "SetID": "1pi2inm",
       "Name": "HEY THATS CHEATING",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "BRAWLER",
       "SetID": "1pi2inm",
       "Name": "COMPLIMENTS TO THE CHEF",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "BUTWHY",
       "SetID": "1pi2inm",
       "Name": "BUT WHY?",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     },
     {
       "ID": "CHALET",
       "SetID": "1pi2inm",
       "Name": "CHALET",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "CHAPTER1",
       "SetID": "1pi2inm",
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2801729
     },
     {
       "ID": "CHAPTER2",
       "SetID": "1pi2inm",
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2001235
     },
     {
       "ID": "CHAPTER3",
       "SetID": "1pi2inm",
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1600988
     },
     {
       "ID": "CHAPTER4",
       "SetID": "1pi2inm",
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1600988
     },
     {
       "ID": "CHAPTER5",
       "SetID": "1pi2inm",
       "Name": "FINISH CHAPTER 5",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1200741
     },
     {
       "ID": "CHAPTER6",
       "SetID": "1pi2inm",
       "Name": "FINISH CHAPTER 6",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1200741
     },
     {
       "ID": "CHURCH",
       "SetID": "1pi2inm",
       "Name": "CHURCH",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "COMMAND",
       "SetID": "1pi2inm",
       "Name": "COMMAND - [EXIST]",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     },
     {
       "ID": "ESCAPISM",
       "SetID": "1pi2inm",
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1200741
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 400247
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 20",
       "Percentage": 0.6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 240148
     },
     {
       "ID": "FIREFIGHT30 LEVEL (0-30)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 30",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 120074
     },
     {
       "ID": "FIREFIGHT40 LEVEL (0-40)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 40",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 80049
     },
     {
       "ID": "FIREFIGHT50 LEVEL (0-50)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 50",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "FIREFIGHT60 LEVEL (0-60)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 60",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "FIREFIGHT70 LEVEL (0-70)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 70",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "FIREFIGHT80 LEVEL (0-80)",
       "SetID": "1pi2inm",
       "Name": "FIREFIGHT LEVEL 80",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "FIREINTHEHOLE",
       "SetID": "1pi2inm",
       "Name": "FIRE IN THE HOLE",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "FIRSTBLOOD ROGUERUNS (0-1)",
       "SetID": "1pi2inm",
       "Name": "FIRST BLOOD",
       "Percentage": 0.5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200124
     },
     {
       "ID": "FRESH",
       "SetID": "1pi2inm",
       "Name": "FRESH",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "HUGESUCCESS",
       "SetID": "1pi2inm",
       "Name": "HUGE SUCCESS",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "ICARUS",
       "SetID": "1pi2inm",
       "Name": "ICARUS",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "INPUT",
       "SetID": "1pi2inm",
       "Name": "INPUT - [QUERY]",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "KITTEDOUT",
       "SetID": "1pi2inm",
       "Name": "KITTED OUT",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "METACITY",
       "SetID": "1pi2inm",
       "Name": "HOLOGRAM SUMMER",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     },
     {
       "ID": "NGP",
       "SetID": "1pi2inm",
       "Name": "NEW GAME PLUS",
       "Percentage": 0.2,
-      "XP": 115
+      "XP": 115,
+      "UsersEstimate": 80049
     },
     {
       "ID": "OFFTHEHINGES",
       "SetID": "1pi2inm",
       "Name": "OFF THE HINGES",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "ONTHEEDGE",
       "SetID": "1pi2inm",
       "Name": "ON THE EDGE",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     },
     {
       "ID": "OUTOFORDER",
       "SetID": "1pi2inm",
       "Name": "OUT OF ORDER",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 80049
     },
     {
       "ID": "OVERCLOCKED",
       "SetID": "1pi2inm",
       "Name": "OVERCLOCKED",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "PACEMAKER",
       "SetID": "1pi2inm",
       "Name": "PACEMAKER",
       "Percentage": 0.3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 120074
     },
     {
       "ID": "PAINTRAIN",
       "SetID": "1pi2inm",
       "Name": "PAIN TRAIN",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "PARADOX",
       "SetID": "1pi2inm",
       "Name": "TIME PARADOX",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 120074
     },
     {
       "ID": "PARTYHARD",
       "SetID": "1pi2inm",
       "Name": "PARTYHARD",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 80049
     },
     {
       "ID": "REMEMBERTHEARMORY",
       "SetID": "1pi2inm",
       "Name": "REMEMBER THE ARMORY",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "RR10 ROGUERUNS (0-10)",
       "SetID": "1pi2inm",
       "Name": "10 RUNS",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "RR20 ROGUERUNS (0-20)",
       "SetID": "1pi2inm",
       "Name": "20 RUNS",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "RR5 ROGUERUNS (0-5)",
       "SetID": "1pi2inm",
       "Name": "5 RUNS",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "SAVORTHEMOMENT",
       "SetID": "1pi2inm",
       "Name": "SAVOR THE MOMENT",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "SCIENCE",
       "SetID": "1pi2inm",
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2801729
     },
     {
       "ID": "SOUL",
       "SetID": "1pi2inm",
       "Name": "SOUL - HORIZONS",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 40025
     },
     {
       "ID": "THECOLLECTOR",
       "SetID": "1pi2inm",
       "Name": "THE COLLECTOR",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     },
     {
       "ID": "THEGAMBLER",
       "SetID": "1pi2inm",
       "Name": "THE GAMBLER",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     },
     {
       "ID": "WARRIORINAGARDEN",
       "SetID": "1pi2inm",
       "Name": "WARRIOR IN A GARDEN",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 40025
     }
   ],
   "Tags": [
@@ -1475,6 +1527,11 @@
       "Time": "2023-05-04T22:06:45.0369041+00:00",
       "NumProgressed": 400243,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-04T22:24:47.3914915+00:00",
+      "NumProgressed": 400247,
+      "NumCompleted": 29
     }
   ],
   "RatingHistory": [
@@ -1639,18 +1696,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 52,
-  "LastChanged_Achievements": "2023-05-04T22:06:45.0369033+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:47.3914906+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2858,
+  "EOS_NewPlayers": 2862,
   "EOS_Completed": 29,
-  "EOS_Progressed": 400243,
-  "LastUpdate_Achievements": "2023-05-04T22:06:45.0369721+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:16.1003137+00:00",
+  "EOS_Progressed": 400247,
+  "LastUpdate_Achievements": "2023-05-04T22:24:47.3915667+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:33.3181535+00:00",
   "AchievementSets": [
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400243,
+      "Progressed": 400247,
       "Completed": 29
     }
   ],

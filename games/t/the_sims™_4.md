@@ -1,12 +1,13 @@
 # The Sims™ 4
+[View Rawdata](../../db/t/the_sims™_4.json)  
 Rating: 4.60 (Ranked 379)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 151  (Ranked 281)  
 Sum: 995 (Ranked 228)  
 Diff (max vs sum): 53  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

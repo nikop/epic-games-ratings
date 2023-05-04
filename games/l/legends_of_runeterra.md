@@ -1,4 +1,5 @@
 # Legends of Runeterra
+[View Rawdata](../../db/l/legends_of_runeterra.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 431  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 151  (Ranked 281)
 Sum: 1,291 (Ranked 215)  
 Diff (max vs sum): 66  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

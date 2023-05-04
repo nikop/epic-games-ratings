@@ -1,9 +1,10 @@
 # The End is Nigh
+[View Rawdata](../../db/t/the_end_is_nigh.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

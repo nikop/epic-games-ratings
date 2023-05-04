@@ -1,4 +1,5 @@
 # Total War: WARHAMMER
+[View Rawdata](../../db/t/total_war__warhammer.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 8,439  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 6,038  (Ranked 52)
 Sum: 13,872 (Ranked 65)  
 Diff (max vs sum): -13  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

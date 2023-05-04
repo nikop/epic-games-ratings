@@ -1,4 +1,5 @@
 # Yooka-Laylee and the Impossible Lair
+[View Rawdata](../../db/y/yooka-laylee_and_the_impossible_lair.json)  
 Rating: 4.37 (Ranked 695)  
 Number of Ratings: 346  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 31  (Ranked 440)
 Sum: 176 (Ranked 361)  
 Diff (max vs sum): 79  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,9 +1,10 @@
 # Layers of Fear 2
+[View Rawdata](../../db/l/layers_of_fear_2.json)  
 Rating: 4.19 (Ranked 813)  
 Number of Ratings: 249  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

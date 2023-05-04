@@ -7,259 +7,296 @@
       "SetID": "384aaja",
       "Name": "High Flier",
       "Percentage": 3,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 54681
     },
     {
       "ID": "ach.020.helper",
       "SetID": "384aaja",
       "Name": "Helper of the People",
       "Percentage": 39,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 710853
     },
     {
       "ID": "ach.030.deertastic",
       "SetID": "384aaja",
       "Name": "Deertastic",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 16404
     },
     {
       "ID": "ach.040.overdeer",
       "SetID": "384aaja",
       "Name": "Overdeer",
       "Percentage": 0.4,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 7291
     },
     {
       "ID": "ach.050.builder",
       "SetID": "384aaja",
       "Name": "Builder",
       "Percentage": 83,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1512841
     },
     {
       "ID": "ach.060.goingdistance",
       "SetID": "384aaja",
       "Name": "Going the Distance",
       "Percentage": 54,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 984258
     },
     {
       "ID": "ach.070.8kenough",
       "SetID": "384aaja",
       "Name": "8K is Enough for Everyone",
       "Percentage": 22,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 400994
     },
     {
       "ID": "ach.080.eraser",
       "SetID": "384aaja",
       "Name": "Eraser",
       "Percentage": 70,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1275890
     },
     {
       "ID": "ach.090.perfectionist",
       "SetID": "384aaja",
       "Name": "Perfectionist",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 419221
     },
     {
       "ID": "ach.100.indecisive",
       "SetID": "384aaja",
       "Name": "Indecisive",
       "Percentage": 29,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 528583
     },
     {
       "ID": "ach.110.multiverse",
       "SetID": "384aaja",
       "Name": "Multiverse",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 127589
     },
     {
       "ID": "ach.120.simplification",
       "SetID": "384aaja",
       "Name": "Simplification",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 601491
     },
     {
       "ID": "ach.130.minimalist",
       "SetID": "384aaja",
       "Name": "Minimalist",
       "Percentage": 90,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1640430
     },
     {
       "ID": "ach.140.legacy",
       "SetID": "384aaja",
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1786246
     },
     {
       "ID": "ach.150.pocket",
       "SetID": "384aaja",
       "Name": "Pocket of Trains",
       "Percentage": 65,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1184755
     },
     {
       "ID": "ach.160.box",
       "SetID": "384aaja",
       "Name": "Box of Trains",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 601491
     },
     {
       "ID": "ach.170.room",
       "SetID": "384aaja",
       "Name": "Room Full of Trains",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 218724
     },
     {
       "ID": "ach.180.inspector",
       "SetID": "384aaja",
       "Name": "Inspector",
       "Percentage": 58,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1057166
     },
     {
       "ID": "ach.190.scenic",
       "SetID": "384aaja",
       "Name": "The scenic route",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 492129
     },
     {
       "ID": "ach.200.light",
       "SetID": "384aaja",
       "Name": "Let There be Light",
       "Percentage": 32,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 583264
     },
     {
       "ID": "ach.210.baron",
       "SetID": "384aaja",
       "Name": "Oil Baron",
       "Percentage": 42,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 765534
     },
     {
       "ID": "ach.220.hot",
       "SetID": "384aaja",
       "Name": "Hot Water",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 546810
     },
     {
       "ID": "ach.230.infinity",
       "SetID": "384aaja",
       "Name": "To infinity, and beyond!",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 54681
     },
     {
       "ID": "ach.240.loads",
       "SetID": "384aaja",
       "Name": "Loads-a-Money",
       "Percentage": 42,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 765534
     },
     {
       "ID": "ach.250.downfall",
       "SetID": "384aaja",
       "Name": "Before the Downfall",
       "Percentage": 93,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1695111
     },
     {
       "ID": "ach.260.investor",
       "SetID": "384aaja",
       "Name": "Investor",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 164043
     },
     {
       "ID": "ach.270.groundwater",
       "SetID": "384aaja",
       "Name": "The poor groundwater levels",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 127589
     },
     {
       "ID": "ach.280.metropolis",
       "SetID": "384aaja",
       "Name": "Metropolis",
       "Percentage": 7,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 127589
     },
     {
       "ID": "ach.290.hightech",
       "SetID": "384aaja",
       "Name": "High tech",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 18227
     },
     {
       "ID": "ach.300.space",
       "SetID": "384aaja",
       "Name": "Space industrialization",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 36454
     },
     {
       "ID": "ach.310.cleanup",
       "SetID": "384aaja",
       "Name": "Cleanup crew",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 18227
     },
     {
       "ID": "ach.320.industrialist",
       "SetID": "384aaja",
       "Name": "Industrialist",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 455675
     },
     {
       "ID": "ach.330.water",
       "SetID": "384aaja",
       "Name": "Money like Water",
       "Percentage": 91,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1658657
     },
     {
       "ID": "ach.340.steel",
       "SetID": "384aaja",
       "Name": "Man of Steel",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 291632
     },
     {
       "ID": "ach.350.pipes",
       "SetID": "384aaja",
       "Name": "Trains over Pipes",
       "Percentage": 22,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 400994
     },
     {
       "ID": "ach.360.lightning",
       "SetID": "384aaja",
       "Name": "Flying Lightning",
       "Percentage": 1,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 18227
     },
     {
       "ID": "ach.370.cloudservices",
       "SetID": "384aaja",
       "Name": "Cloud Services",
       "Percentage": 0.2,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 3645
     }
   ],
   "Tags": [
@@ -942,13 +979,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-04T22:06:41.1236214+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:44.3902258+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_Completed": 28,
   "EOS_Progressed": 18227,
-  "LastUpdate_Achievements": "2023-05-04T22:06:41.1236592+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:02.6679164+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:44.3902779+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:24.640163+00:00",
   "AchievementSets": [
     {
       "ID": "384aaja",

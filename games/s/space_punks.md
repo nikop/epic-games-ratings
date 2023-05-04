@@ -1,4 +1,5 @@
 # Space Punks
+[View Rawdata](../../db/s/space_punks.json)  
 Rating: 4.16 (Ranked 831)  
 Number of Ratings: 1,927  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 171  (Ranked 271)
 Sum: 949 (Ranked 230)  
 Diff (max vs sum): 41  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

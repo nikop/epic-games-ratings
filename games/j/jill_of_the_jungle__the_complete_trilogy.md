@@ -1,12 +1,13 @@
 # Jill of the Jungle: The Complete Trilogy
+[View Rawdata](../../db/j/jill_of_the_jungle__the_complete_trilogy.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Welcome to the Jungle | 100.00 |
-| Jill the Bold | 12.00 |
-| Jill the Brave | 9.00 |
-| Jill the Courageous | 8.00 |
-| Jill the Champion | 7.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Welcome to the Jungle | 100.00% | ~46,800 |
+| Jill the Bold | 12.00% | ~5,616 |
+| Jill the Brave | 9.00% | ~4,212 |
+| Jill the Courageous | 8.00% | ~3,744 |
+| Jill the Champion | 7.00% | ~3,276 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 468 (Ranked 187)  
 Completed: 32 (6.84%) (Ranked 19)  

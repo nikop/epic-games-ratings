@@ -1,63 +1,64 @@
 # Ghostbusters: Spirits Unleashed
+[View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
 Rating: 4.49 (Ranked 547)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 226  (Ranked 244)  
 Sum: 2,034 (Ranked 184)  
 Diff (max vs sum): 60  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Stylish | 87.00 |
-| Advancement | 74.00 |
-| Meticulously Efficient | 65.00 |
-| Discovery | 63.00 |
-| Swift Rift Removers | 56.00 |
-| Fully Upgraded | 55.00 |
-| I collect Spores, Molds, and Fungi | 53.00 |
-| Cultured | 53.00 |
-| Vaporous Expansion | 49.00 |
-| Teamwork | 45.00 |
-| There you are! | 44.00 |
-| Clutch Capture | 42.00 |
-| Back Off | 36.00 |
-| Daily Dose | 36.00 |
-| Welcome to the Crew | 33.00 |
-| Ghostbuster In Training | 31.00 |
-| Solo Capture | 31.00 |
-| Icing on the Cake | 30.00 |
-| Legions | 28.00 |
-| Side Hustle | 28.00 |
-| We have the best insurance | 27.00 |
-| Pesky Jerks | 27.00 |
-| Stunner | 27.00 |
-| Summoner | 27.00 |
-| Right back at ya | 26.00 |
-| Animated | 25.00 |
-| Collector | 25.00 |
-| Skilled | 25.00 |
-| Ectoplasmic Entity | 24.00 |
-| Rift Destroyer | 21.00 |
-| Tobin's Prodigy | 19.00 |
-| Reckless | 18.00 |
-| Terrifying | 17.00 |
-| Diabolical | 16.00 |
-| Escape Artist | 16.00 |
-| Seasoned | 16.00 |
-| Liability | 11.00 |
-| Rivalry | 10.00 |
-| Fragile Panes | 9.00 |
-| Surprise! | 9.00 |
-| Whoopsie | 9.00 |
-| Master Collector | 7.00 |
-| Rift Seeker | 7.00 |
-| Therapeutic | 7.00 |
-| Ghost Expert | 3.00 |
-| Ultimate Defense | 3.00 |
-| Catostrophic Destroyer | 2.00 |
-| Line em' up | 2.00 |
-| Little Help Here | 2.00 |
-| I don't need these | 1.00 |
-| Mycophile | 1.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Stylish | 87.00% | ~1,868,934 |
+| Advancement | 74.00% | ~1,589,668 |
+| Meticulously Efficient | 65.00% | ~1,396,330 |
+| Discovery | 63.00% | ~1,353,366 |
+| Swift Rift Removers | 56.00% | ~1,202,992 |
+| Fully Upgraded | 55.00% | ~1,181,510 |
+| I collect Spores, Molds, and Fungi | 53.00% | ~1,138,546 |
+| Cultured | 53.00% | ~1,138,546 |
+| Vaporous Expansion | 49.00% | ~1,052,618 |
+| Teamwork | 45.00% | ~966,690 |
+| There you are! | 44.00% | ~945,208 |
+| Clutch Capture | 42.00% | ~902,244 |
+| Back Off | 36.00% | ~773,352 |
+| Daily Dose | 36.00% | ~773,352 |
+| Welcome to the Crew | 33.00% | ~708,906 |
+| Ghostbuster In Training | 31.00% | ~665,942 |
+| Solo Capture | 31.00% | ~665,942 |
+| Icing on the Cake | 30.00% | ~644,460 |
+| Legions | 28.00% | ~601,496 |
+| Side Hustle | 28.00% | ~601,496 |
+| We have the best insurance | 27.00% | ~580,014 |
+| Pesky Jerks | 27.00% | ~580,014 |
+| Stunner | 27.00% | ~580,014 |
+| Summoner | 27.00% | ~580,014 |
+| Right back at ya | 26.00% | ~558,532 |
+| Animated | 25.00% | ~537,050 |
+| Collector | 25.00% | ~537,050 |
+| Skilled | 25.00% | ~537,050 |
+| Ectoplasmic Entity | 24.00% | ~515,568 |
+| Rift Destroyer | 21.00% | ~451,122 |
+| Tobin's Prodigy | 19.00% | ~408,158 |
+| Reckless | 18.00% | ~386,676 |
+| Terrifying | 17.00% | ~365,194 |
+| Diabolical | 16.00% | ~343,712 |
+| Escape Artist | 16.00% | ~343,712 |
+| Seasoned | 16.00% | ~343,712 |
+| Liability | 11.00% | ~236,302 |
+| Rivalry | 10.00% | ~214,820 |
+| Fragile Panes | 9.00% | ~193,338 |
+| Surprise! | 9.00% | ~193,338 |
+| Whoopsie | 9.00% | ~193,338 |
+| Master Collector | 7.00% | ~150,374 |
+| Rift Seeker | 7.00% | ~150,374 |
+| Therapeutic | 7.00% | ~150,374 |
+| Ghost Expert | 3.00% | ~64,446 |
+| Ultimate Defense | 3.00% | ~64,446 |
+| Catostrophic Destroyer | 2.00% | ~42,964 |
+| Line em' up | 2.00% | ~42,964 |
+| Little Help Here | 2.00% | ~42,964 |
+| I don't need these | 1.00% | ~21,482 |
+| Mycophile | 1.00% | ~21,482 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,482 (Ranked 88)  
 Completed: 40 (0.19%) (Ranked 134)  

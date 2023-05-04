@@ -1,4 +1,5 @@
 # FTL: Faster Than Light
+[View Rawdata](../../db/f/ftl__faster_than_light.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 1,209  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 158  (Ranked 279)
 Sum: 1,140 (Ranked 221)  
 Diff (max vs sum): 58  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

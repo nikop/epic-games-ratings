@@ -1,4 +1,5 @@
 # Wolfsbane
+[View Rawdata](../../db/w/wolfsbane.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

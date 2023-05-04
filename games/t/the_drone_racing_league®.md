@@ -1,4 +1,5 @@
 # The Drone Racing League®
+[View Rawdata](../../db/t/the_drone_racing_league®.json)  
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 36  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 63  (Ranked 371)
 Sum: 443 (Ranked 292)  
 Diff (max vs sum): 79  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

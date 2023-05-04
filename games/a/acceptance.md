@@ -1,4 +1,5 @@
 # Acceptance
+[View Rawdata](../../db/a/acceptance.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

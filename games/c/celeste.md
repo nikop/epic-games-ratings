@@ -1,4 +1,5 @@
 # Celeste
+[View Rawdata](../../db/c/celeste.json)  
 Rating: 4.92 (Ranked 3)  
 Number of Ratings: 2,543  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 1,435  (Ranked 116)
 Sum: 2,764 (Ranked 157)  
 Diff (max vs sum): -41  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

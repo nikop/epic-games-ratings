@@ -7,245 +7,280 @@
       "SetID": "5cfan5f",
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 69240
     },
     {
       "ID": "10",
       "SetID": "5cfan5f",
       "Name": "Purpose Lost",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 24234
     },
     {
       "ID": "11",
       "SetID": "5cfan5f",
       "Name": "Respect Earned",
       "Percentage": 0.3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1039
     },
     {
       "ID": "12",
       "SetID": "5cfan5f",
       "Name": "Loyal Companion",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6924
     },
     {
       "ID": "13",
       "SetID": "5cfan5f",
       "Name": "Iron Will",
       "Percentage": 0.5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1731
     },
     {
       "ID": "14",
       "SetID": "5cfan5f",
       "Name": "Atta Boy!",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6924
     },
     {
       "ID": "15",
       "SetID": "5cfan5f",
       "Name": "Hot Potato",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 17310
     },
     {
       "ID": "16",
       "SetID": "5cfan5f",
       "Name": "Moment Of Perfection",
       "Percentage": 10,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 34620
     },
     {
       "ID": "17",
       "SetID": "5cfan5f",
       "Name": "Perfection Everlasting",
       "Percentage": 0.4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1385
     },
     {
       "ID": "18",
       "SetID": "5cfan5f",
       "Name": "Rightfully Yours",
       "Percentage": 17,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 58854
     },
     {
       "ID": "19",
       "SetID": "5cfan5f",
       "Name": "Emperor\u0027s Hubris",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13848
     },
     {
       "ID": "2",
       "SetID": "5cfan5f",
       "Name": "A Scarlet Mark",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 24234
     },
     {
       "ID": "20",
       "SetID": "5cfan5f",
       "Name": "Even While Weakened",
       "Percentage": 10,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 34620
     },
     {
       "ID": "21",
       "SetID": "5cfan5f",
       "Name": "You\u0027re Trapped Here With Me",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1039
     },
     {
       "ID": "22",
       "SetID": "5cfan5f",
       "Name": "Out Of My Way",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1039
     },
     {
       "ID": "23",
       "SetID": "5cfan5f",
       "Name": "Rush Of Flames",
       "Percentage": 0.2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 692
     },
     {
       "ID": "24",
       "SetID": "5cfan5f",
       "Name": "Nothing To Lose",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13848
     },
     {
       "ID": "25",
       "SetID": "5cfan5f",
       "Name": "Like Swatting Flies",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 55392
     },
     {
       "ID": "26",
       "SetID": "5cfan5f",
       "Name": "Cold Blooded",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 692
     },
     {
       "ID": "27",
       "SetID": "5cfan5f",
       "Name": "Not Afraid Of The Dark",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6924
     },
     {
       "ID": "28",
       "SetID": "5cfan5f",
       "Name": "Not On My Watch",
       "Percentage": 0.5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1731
     },
     {
       "ID": "29",
       "SetID": "5cfan5f",
       "Name": "Balance Incarnate",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 34620
     },
     {
       "ID": "3",
       "SetID": "5cfan5f",
       "Name": "Dreams Of Perfection",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 10386
     },
     {
       "ID": "30",
       "SetID": "5cfan5f",
       "Name": "Untouchable Legend",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10386
     },
     {
       "ID": "31",
       "SetID": "5cfan5f",
       "Name": "Emperor\u0027s Education",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6924
     },
     {
       "ID": "32",
       "SetID": "5cfan5f",
       "Name": "Don\u0027t Need Your Help",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 346
     },
     {
       "ID": "33",
       "SetID": "5cfan5f",
       "Name": "Cheap Tricks",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 79626
     },
     {
       "ID": "34",
       "SetID": "5cfan5f",
       "Name": "Full Might Of The Armada",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 346
     },
     {
       "ID": "35",
       "SetID": "5cfan5f",
       "Name": "Slam The Brakes!",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6924
     },
     {
       "ID": "4",
       "SetID": "5cfan5f",
       "Name": "Ashes Of Belief",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6924
     },
     {
       "ID": "5",
       "SetID": "5cfan5f",
       "Name": "Anything For The Throne",
       "Percentage": 0.9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3116
     },
     {
       "ID": "6",
       "SetID": "5cfan5f",
       "Name": "A Path Scarred by Choice",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 692
     },
     {
       "ID": "7",
       "SetID": "5cfan5f",
       "Name": "One Track Mind",
       "Percentage": 0.8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2770
     },
     {
       "ID": "8",
       "SetID": "5cfan5f",
       "Name": "The Many Fates Of The Many",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 346
     },
     {
       "ID": "9",
       "SetID": "5cfan5f",
       "Name": "Buried Memories",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3462
     }
   ],
   "Tags": [],
@@ -281,13 +316,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T22:05:55.8230135+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:11.0233515+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": -29,
   "EOS_Progressed": 3462,
-  "LastUpdate_Achievements": "2023-05-04T22:05:55.8230451+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:28.2746435+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:11.0233991+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:43.8612845+00:00",
   "AchievementSets": [
     {
       "ID": "5cfan5f",

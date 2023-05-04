@@ -7,203 +7,232 @@
       "SetID": "6992n2e",
       "Name": "Apprentice",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_AF",
       "SetID": "6992n2e",
       "Name": "AirFlow",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BS",
       "SetID": "6992n2e",
       "Name": "Bad Swimmer",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BT",
       "SetID": "6992n2e",
       "Name": "Back Together",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CL",
       "SetID": "6992n2e",
       "Name": "Crazy Legs",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DH",
       "SetID": "6992n2e",
       "Name": "Dedicated Historian",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DR",
       "SetID": "6992n2e",
       "Name": "Dev Room",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DV",
       "SetID": "6992n2e",
       "Name": "deja vu",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_EV",
       "SetID": "6992n2e",
       "Name": "Educational visit",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FR",
       "SetID": "6992n2e",
       "Name": "Family Reunion",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_GD",
       "SetID": "6992n2e",
       "Name": "Good Deed",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_GL",
       "SetID": "6992n2e",
       "Name": "Good Listener",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_H",
       "SetID": "6992n2e",
       "Name": "Heavyweight",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HT",
       "SetID": "6992n2e",
       "Name": "House Tour",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_IBIY",
       "SetID": "6992n2e",
       "Name": "I Believe in You!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_KF",
       "SetID": "6992n2e",
       "Name": "King Fisherman",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_L",
       "SetID": "6992n2e",
       "Name": "Lightweight",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_LG",
       "SetID": "6992n2e",
       "Name": "Last Goodbye",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_MO",
       "SetID": "6992n2e",
       "Name": "Moving Out",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_NF",
       "SetID": "6992n2e",
       "Name": "Nest\u0027s Finest",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_NOY",
       "SetID": "6992n2e",
       "Name": "Not over yet?",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_NYBWB",
       "SetID": "6992n2e",
       "Name": "Not your Black and White boy",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_NYSM",
       "SetID": "6992n2e",
       "Name": "Now you see me?",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_OB",
       "SetID": "6992n2e",
       "Name": "Origami Beginner",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PD",
       "SetID": "6992n2e",
       "Name": "Professional Dunker",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PS",
       "SetID": "6992n2e",
       "Name": "Pure Skill",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_RR",
       "SetID": "6992n2e",
       "Name": "Roomba Rider",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SC",
       "SetID": "6992n2e",
       "Name": "So Close",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_TJB",
       "SetID": "6992n2e",
       "Name": "The Journey Begins",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -224,13 +253,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T22:07:02.541351+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:00.1398558+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:07:02.5413717+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:24.923542+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:00.1398819+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:18.0816952+00:00",
   "AchievementSets": [
     {
       "ID": "6992n2e",
@@ -246,7 +275,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T16:09:57.9904198+00:00"

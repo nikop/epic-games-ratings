@@ -1,12 +1,13 @@
 # The Settlers®: New Allies
+[View Rawdata](../../db/t/the_settlers®__new_allies.json)  
 Rating: 3.75 (Ranked 907)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 47  (Ranked 394)  
 Sum: 91 (Ranked 400)  
 Diff (max vs sum): -6  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

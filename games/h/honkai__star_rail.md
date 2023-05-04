@@ -1,8 +1,9 @@
 # Honkai: Star Rail
+[View Rawdata](../../db/h/honkai__star_rail.json)  
 Rating: 4.66 (Ranked 272)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

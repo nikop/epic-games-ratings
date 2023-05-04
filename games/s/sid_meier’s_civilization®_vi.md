@@ -1,4 +1,5 @@
 # Sid Meier’s Civilization® VI
+[View Rawdata](../../db/s/sid_meier’s_civilization®_vi.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 57,866  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 30,579  (Ranked 13)
 Sum: 252,860 (Ranked 10)  
 Diff (max vs sum): 3  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

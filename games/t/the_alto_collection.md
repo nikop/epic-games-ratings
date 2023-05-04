@@ -1,4 +1,5 @@
 # The Alto Collection
+[View Rawdata](../../db/t/the_alto_collection.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 332  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,47 +7,47 @@ Max (Great for Quick Sessions): 44  (Ranked 405)
 Sum: 344 (Ranked 312)  
 Diff (max vs sum): 93  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Finding Your Footing | 27.00 |
-| Rookie | 24.00 |
-| Nomad | 19.00 |
-| Picking Up Speed | 18.00 |
-| Welcome Maya | 17.00 |
-| Sightseer | 12.00 |
-| Scout | 10.00 |
-| Enter Paz | 9.00 |
-| Wanderer | 9.00 |
-| Amateur | 8.00 |
-| Unlock Maya | 7.00 |
-| Aviator | 6.00 |
-| One With The Board | 6.00 |
-| Voyager | 6.00 |
-| My Little Friend | 5.00 |
-| Sandboarder | 4.00 |
-| Izel Has Arrived | 4.00 |
-| Junkie | 3.00 |
-| Traveler | 3.00 |
-| Journeyer | 3.00 |
-| Unlock Paz | 3.00 |
-| Here Comes Felipe | 3.00 |
-| Pro | 2.00 |
-| Human Flight | 2.00 |
-| Explorer | 1.00 |
-| Hoist the Mainsail | 1.00 |
-| Unlock Izel | 1.00 |
-| Introducing Sumara | 1.00 |
-| Vandal | 1.00 |
-| Daredevil | 0.80 |
-| Unlock Felipe | 0.60 |
-| Adventurer | 0.50 |
-| Unlock Tupa | 0.40 |
-| Master Of The Sands | 0.30 |
-| Master | 0.10 |
-| Life Aquatic | 0.10 |
-| Survivalist | 0.10 |
-| The Ultimate Challenge | 0.10 |
-| Windswept | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Finding Your Footing | 27.00% | ~530,766 |
+| Rookie | 24.00% | ~471,792 |
+| Nomad | 19.00% | ~373,502 |
+| Picking Up Speed | 18.00% | ~353,844 |
+| Welcome Maya | 17.00% | ~334,186 |
+| Sightseer | 12.00% | ~235,896 |
+| Scout | 10.00% | ~196,580 |
+| Enter Paz | 9.00% | ~176,922 |
+| Wanderer | 9.00% | ~176,922 |
+| Amateur | 8.00% | ~157,264 |
+| Unlock Maya | 7.00% | ~137,606 |
+| Aviator | 6.00% | ~117,948 |
+| One With The Board | 6.00% | ~117,948 |
+| Voyager | 6.00% | ~117,948 |
+| My Little Friend | 5.00% | ~98,290 |
+| Sandboarder | 4.00% | ~78,632 |
+| Izel Has Arrived | 4.00% | ~78,632 |
+| Junkie | 3.00% | ~58,974 |
+| Traveler | 3.00% | ~58,974 |
+| Journeyer | 3.00% | ~58,974 |
+| Unlock Paz | 3.00% | ~58,974 |
+| Here Comes Felipe | 3.00% | ~58,974 |
+| Pro | 2.00% | ~39,316 |
+| Human Flight | 2.00% | ~39,316 |
+| Explorer | 1.00% | ~19,658 |
+| Hoist the Mainsail | 1.00% | ~19,658 |
+| Unlock Izel | 1.00% | ~19,658 |
+| Introducing Sumara | 1.00% | ~19,658 |
+| Vandal | 1.00% | ~19,658 |
+| Daredevil | 0.80% | ~15,726 |
+| Unlock Felipe | 0.60% | ~11,795 |
+| Adventurer | 0.50% | ~9,829 |
+| Unlock Tupa | 0.40% | ~7,863 |
+| Master Of The Sands | 0.30% | ~5,897 |
+| Master | 0.10% | ~1,966 |
+| Life Aquatic | 0.10% | ~1,966 |
+| Survivalist | 0.10% | ~1,966 |
+| The Ultimate Challenge | 0.10% | ~1,966 |
+| Windswept | 0.10% | ~1,966 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,658 (Ranked 90)  
 Completed: 3 (0.02%) (Ranked 175)  

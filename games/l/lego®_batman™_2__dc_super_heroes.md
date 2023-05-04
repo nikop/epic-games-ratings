@@ -1,4 +1,5 @@
 # LEGO® Batman™ 2: DC Super Heroes
+[View Rawdata](../../db/l/lego®_batman™_2__dc_super_heroes.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 489  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 179  (Ranked 265)
 Sum: 179 (Ranked 359)  
 Diff (max vs sum): -94  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

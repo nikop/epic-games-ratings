@@ -1,4 +1,5 @@
 # Super Meat Boy
+[View Rawdata](../../db/s/super_meat_boy.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 155  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 77  (Ranked 347)
 Sum: 77 (Ranked 406)  
 Diff (max vs sum): -59  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

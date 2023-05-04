@@ -7,140 +7,160 @@
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
       "Percentage": 53,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 3604
     },
     {
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
       "Percentage": 51,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 3468
     },
     {
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
       "Percentage": 26,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH_12",
       "SetID": "1g3d1lg",
       "Name": "Third document retrieved",
       "Percentage": 26,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
       "Percentage": 35,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2380
     },
     {
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
       "Percentage": 34,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 2312
     },
     {
       "ID": "ACH_15",
       "SetID": "1g3d1lg",
       "Name": "Lights and shadows",
       "Percentage": 31,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
       "Percentage": 40,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH_17",
       "SetID": "1g3d1lg",
       "Name": "Until death do us part",
       "Percentage": 21,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1428
     },
     {
       "ID": "ACH_18",
       "SetID": "1g3d1lg",
       "Name": "The impatient one",
       "Percentage": 18,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
       "Percentage": 47,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3196
     },
     {
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
       "Percentage": 53,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 3604
     },
     {
       "ID": "ACH_20",
       "SetID": "1g3d1lg",
       "Name": "Spectres from the past",
       "Percentage": 7,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
       "Percentage": 47,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 3196
     },
     {
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
       "Percentage": 37,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_5",
       "SetID": "1g3d1lg",
       "Name": "The threshold of horror",
       "Percentage": 29,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1972
     },
     {
       "ID": "ACH_6",
       "SetID": "1g3d1lg",
       "Name": "Deadly chase",
       "Percentage": 28,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1904
     },
     {
       "ID": "ACH_7",
       "SetID": "1g3d1lg",
       "Name": "The lowest floor of the lift",
       "Percentage": 25,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_8",
       "SetID": "1g3d1lg",
       "Name": "Charon\u0027s coin",
       "Percentage": 24,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH_9",
       "SetID": "1g3d1lg",
       "Name": "Dara\u0027s home",
       "Percentage": 26,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 1768
     }
   ],
   "Tags": [],
@@ -161,13 +181,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:06:37.7120688+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:41.9359905+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 68,
-  "LastUpdate_Achievements": "2023-05-04T22:06:37.7120883+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:48.9687792+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:41.936003+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:15.8824279+00:00",
   "AchievementSets": [
     {
       "ID": "1g3d1lg",
@@ -183,7 +203,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_Progress": 260,
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00"

@@ -7,231 +7,264 @@
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 35070
     },
     {
       "ID": "bonus2",
       "SetID": "2h56gn1",
       "Name": "Sniped",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 17535
     },
     {
       "ID": "bonus3",
       "SetID": "2h56gn1",
       "Name": "Your Biggest Fans",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 12525
     },
     {
       "ID": "bonus4",
       "SetID": "2h56gn1",
       "Name": "Work It",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7515
     },
     {
       "ID": "bonus5",
       "SetID": "2h56gn1",
       "Name": "Untouchable",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2505
     },
     {
       "ID": "bonus6",
       "SetID": "2h56gn1",
       "Name": "All Geared Up",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2505
     },
     {
       "ID": "campaign1",
       "SetID": "2h56gn1",
       "Name": "You and what Army?",
       "Percentage": 90,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 225450
     },
     {
       "ID": "campaign10",
       "SetID": "2h56gn1",
       "Name": "Leave Them no Cake",
       "Percentage": 7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 17535
     },
     {
       "ID": "campaign11",
       "SetID": "2h56gn1",
       "Name": "Reinforcements",
       "Percentage": 4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 10020
     },
     {
       "ID": "campaign12",
       "SetID": "2h56gn1",
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 17535
     },
     {
       "ID": "campaign13",
       "SetID": "2h56gn1",
       "Name": "Damage Control",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 20040
     },
     {
       "ID": "campaign14",
       "SetID": "2h56gn1",
       "Name": "Well Supplied",
       "Percentage": 11,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 27555
     },
     {
       "ID": "campaign15",
       "SetID": "2h56gn1",
       "Name": "Almost Like Winning",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 5010
     },
     {
       "ID": "campaign16",
       "SetID": "2h56gn1",
       "Name": "Master of the Brawl",
       "Percentage": 7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 17535
     },
     {
       "ID": "campaign17",
       "SetID": "2h56gn1",
       "Name": "The Handyman Can!",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 7515
     },
     {
       "ID": "campaign18",
       "SetID": "2h56gn1",
       "Name": "Sweet Revenge",
       "Percentage": 4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 10020
     },
     {
       "ID": "campaign19",
       "SetID": "2h56gn1",
       "Name": "An Ally in Need",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 12525
     },
     {
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
       "Percentage": 80,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 200400
     },
     {
       "ID": "campaign20",
       "SetID": "2h56gn1",
       "Name": "For the Queen",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 12525
     },
     {
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
       "Percentage": 66,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 165330
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
       "Percentage": 48,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 120240
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
       "Percentage": 18,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 45090
     },
     {
       "ID": "campaign6",
       "SetID": "2h56gn1",
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 37575
     },
     {
       "ID": "campaign7",
       "SetID": "2h56gn1",
       "Name": "Maestro",
       "Percentage": 28,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 70140
     },
     {
       "ID": "campaign8",
       "SetID": "2h56gn1",
       "Name": "Held Back by the Roots",
       "Percentage": 12,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 30060
     },
     {
       "ID": "campaign9",
       "SetID": "2h56gn1",
       "Name": "Boulder Clash",
       "Percentage": 14,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 35070
     },
     {
       "ID": "scenario1",
       "SetID": "2h56gn1",
       "Name": "Do the Splits",
       "Percentage": 41,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 102705
     },
     {
       "ID": "scenario2",
       "SetID": "2h56gn1",
       "Name": "Full Employment",
       "Percentage": 19,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 47595
     },
     {
       "ID": "scenario3",
       "SetID": "2h56gn1",
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 12525
     },
     {
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 12525
     },
     {
       "ID": "scenario5",
       "SetID": "2h56gn1",
       "Name": "We Have the Technology",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10020
     },
     {
       "ID": "scenario6",
       "SetID": "2h56gn1",
       "Name": "Figure of Breach",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10020
     },
     {
       "ID": "scenario7",
       "SetID": "2h56gn1",
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7515
     }
   ],
   "Tags": [],
@@ -587,13 +620,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-04T22:07:00.3478543+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:58.4796345+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 74,
   "EOS_Completed": 8,
   "EOS_Progressed": 2505,
-  "LastUpdate_Achievements": "2023-05-04T22:07:00.3478982+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:12.3387449+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:58.4796791+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:09.988815+00:00",
   "AchievementSets": [
     {
       "ID": "2h56gn1",

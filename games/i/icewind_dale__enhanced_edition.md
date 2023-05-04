@@ -1,8 +1,9 @@
 # Icewind Dale: Enhanced Edition
+[View Rawdata](../../db/i/icewind_dale__enhanced_edition.json)  
 Rating: 4.77 (Ranked 103)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

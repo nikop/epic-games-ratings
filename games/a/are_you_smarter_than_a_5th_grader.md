@@ -1,26 +1,27 @@
 # Are You Smarter Than A 5th Grader
+[View Rawdata](../../db/a/are_you_smarter_than_a_5th_grader.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Exam Time | 84.00 |
-| 1st Grade | 41.00 |
-| Smarter than a 5th Grader | 35.00 |
-| Study Session | 31.00 |
-| Unlucky | 19.00 |
-| Exam Practice | 13.00 |
-| In The Honor Roll | 10.00 |
-| Byoing | 7.00 |
-| 2nd Grade | 2.00 |
-| Full House | 0.70 |
-| 3rd Grade | 0.70 |
-| "A" Student | 0.40 |
-| 4th Grade | 0.40 |
-| Prodigy of all Trades | 0.40 |
-| Self-Sufficient | 0.40 |
-| "A+" Student | 0.00 |
-| 5th Grade | 0.00 |
-| Graduated | 0.00 |
-| Librarian | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Exam Time | 84.00% | ~22,848 |
+| 1st Grade | 41.00% | ~11,152 |
+| Smarter than a 5th Grader | 35.00% | ~9,520 |
+| Study Session | 31.00% | ~8,432 |
+| Unlucky | 19.00% | ~5,168 |
+| Exam Practice | 13.00% | ~3,536 |
+| In The Honor Roll | 10.00% | ~2,720 |
+| Byoing | 7.00% | ~1,904 |
+| 2nd Grade | 2.00% | ~544 |
+| Full House | 0.70% | ~190 |
+| 3rd Grade | 0.70% | ~190 |
+| "A" Student | 0.40% | ~109 |
+| 4th Grade | 0.40% | ~109 |
+| Prodigy of all Trades | 0.40% | ~109 |
+| Self-Sufficient | 0.40% | ~109 |
+| "A+" Student | 0.00% | ~0 |
+| 5th Grade | 0.00% | ~0 |
+| Graduated | 0.00% | ~0 |
+| Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 272 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 191)  

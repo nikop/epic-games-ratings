@@ -1,9 +1,10 @@
 # TowerFall Ascension
+[View Rawdata](../../db/t/towerfall_ascension.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

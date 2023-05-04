@@ -1,9 +1,10 @@
 # The Forgotten City
+[View Rawdata](../../db/t/the_forgotten_city.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

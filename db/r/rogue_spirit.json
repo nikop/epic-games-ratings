@@ -7,420 +7,480 @@
       "SetID": "b42i7am",
       "Name": "Blink Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "BodyBlastMaster",
       "SetID": "b42i7am",
       "Name": "Body Blast Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "BodySnatcherChampion",
       "SetID": "b42i7am",
       "Name": "Body Snatcher Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "BodySpawnMaster",
       "SetID": "b42i7am",
       "Name": "Body Spawn Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "BodySwapper",
       "SetID": "b42i7am",
       "Name": "Body Swapper",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 102
     },
     {
       "ID": "ColdSkinMaster",
       "SetID": "b42i7am",
       "Name": "Cold Skin Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "DashMastery",
       "SetID": "b42i7am",
       "Name": "Dash Mastery",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "DeathDefeated",
       "SetID": "b42i7am",
       "Name": "Death Defeated",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     },
     {
       "ID": "DecayDefeated",
       "SetID": "b42i7am",
       "Name": "Decay Defeated",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     },
     {
       "ID": "DemonButcher",
       "SetID": "b42i7am",
       "Name": "Demon Butcher",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 102
     },
     {
       "ID": "DemonKingDefeated",
       "SetID": "b42i7am",
       "Name": "Demon King Defeated",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "DominateMaster",
       "SetID": "b42i7am",
       "Name": "Dominate Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "EarthShatterMaster",
       "SetID": "b42i7am",
       "Name": "Earth Shatter Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "ElectricTrapMaster",
       "SetID": "b42i7am",
       "Name": "Electric Trap Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ElementalButcher",
       "SetID": "b42i7am",
       "Name": "Elemental Butcher",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ElementalMastery",
       "SetID": "b42i7am",
       "Name": "Elemental Mastery",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "ElementalRouletteChampion",
       "SetID": "b42i7am",
       "Name": "Elemental Roulette Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ElementalistChampion",
       "SetID": "b42i7am",
       "Name": "Elementalist Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "EliteButcher",
       "SetID": "b42i7am",
       "Name": "Elite Butcher",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "FamiliarCatcher",
       "SetID": "b42i7am",
       "Name": "Familiar Catcher",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "FamiliarMaster",
       "SetID": "b42i7am",
       "Name": "Familiar Master",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "FamiliarTrainer",
       "SetID": "b42i7am",
       "Name": "Familiar Trainer",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "FamineDefeated",
       "SetID": "b42i7am",
       "Name": "Famine Defeated",
       "Percentage": 29,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 493
     },
     {
       "ID": "FireBlastMaster",
       "SetID": "b42i7am",
       "Name": "Fire Blast Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "FireTornadoMaster",
       "SetID": "b42i7am",
       "Name": "Fire Tornado Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "FlamethrowerMaster",
       "SetID": "b42i7am",
       "Name": "Flamethrower Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "FrostWallMaster",
       "SetID": "b42i7am",
       "Name": "Frost Wall Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "FrozenOrbMaster",
       "SetID": "b42i7am",
       "Name": "Frozen Orb Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GhostbusterChampion",
       "SetID": "b42i7am",
       "Name": "Ghostbuster Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "GlueBombMaster",
       "SetID": "b42i7am",
       "Name": "Glue Bomb Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GoldCollector",
       "SetID": "b42i7am",
       "Name": "Gold Collector",
       "Percentage": 24,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 408
     },
     {
       "ID": "GroupFightMastery",
       "SetID": "b42i7am",
       "Name": "Group Fight Mastery",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "HardModeChampion",
       "SetID": "b42i7am",
       "Name": "Hard Mode Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ImmobilizeMaster",
       "SetID": "b42i7am",
       "Name": "Immobilize Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LandMineMaster",
       "SetID": "b42i7am",
       "Name": "Land Mine Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "Liberator",
       "SetID": "b42i7am",
       "Name": "Liberator",
       "Percentage": 41,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 697
     },
     {
       "ID": "LoneWolfChampion",
       "SetID": "b42i7am",
       "Name": "Lone Wolf Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "MagneticGrenadeMaster",
       "SetID": "b42i7am",
       "Name": "Magnetic Grenade Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "MasterAssassin",
       "SetID": "b42i7am",
       "Name": "Master Assassin",
       "Percentage": 12,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 204
     },
     {
       "ID": "MasterButcher",
       "SetID": "b42i7am",
       "Name": "Master Butcher",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ParryMastery",
       "SetID": "b42i7am",
       "Name": "Parry Mastery",
       "Percentage": 24,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 408
     },
     {
       "ID": "Perceptive",
       "SetID": "b42i7am",
       "Name": "Perceptive",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 493
     },
     {
       "ID": "PossessMastery",
       "SetID": "b42i7am",
       "Name": "Possess Mastery",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 306
     },
     {
       "ID": "ProteciveDomeMaster",
       "SetID": "b42i7am",
       "Name": "Protective Dome Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ReanimateMaster",
       "SetID": "b42i7am",
       "Name": "Reanimate Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "RogueSpirit",
       "SetID": "b42i7am",
       "Name": "Rogue Spirit",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "SecretSearcher",
       "SetID": "b42i7am",
       "Name": "Secret Searcher",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Shopaholic",
       "SetID": "b42i7am",
       "Name": "Shopaholic",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ShotgunChampion",
       "SetID": "b42i7am",
       "Name": "Shotgun Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "SilentAssassin",
       "SetID": "b42i7am",
       "Name": "Silent Assassin",
       "Percentage": 47,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 799
     },
     {
       "ID": "SkilfulChampion",
       "SetID": "b42i7am",
       "Name": "Skilful Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "SkillAdept",
       "SetID": "b42i7am",
       "Name": "Skill Adept",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 102
     },
     {
       "ID": "SkillFinder",
       "SetID": "b42i7am",
       "Name": "Skill Finder",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "SkillMaster",
       "SetID": "b42i7am",
       "Name": "Skill Master",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "SneakyChampion",
       "SetID": "b42i7am",
       "Name": "Sneaky Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "SprinterChampion",
       "SetID": "b42i7am",
       "Name": "Sprinter Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ThunderstormMaster",
       "SetID": "b42i7am",
       "Name": "Thunderstorm Master",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "TokenCollector",
       "SetID": "b42i7am",
       "Name": "Token Collector",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 102
     },
     {
       "ID": "VanishMaster",
       "SetID": "b42i7am",
       "Name": "Vanish Master",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "WarDefeated",
       "SetID": "b42i7am",
       "Name": "War Defeated",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     }
   ],
   "Tags": [],
@@ -441,13 +501,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-04T22:06:11.0204554+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:22.0717302+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-04T22:06:11.020513+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:40.1732275+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:22.0718264+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:30.0783601+00:00",
   "AchievementSets": [
     {
       "ID": "b42i7am",
@@ -463,7 +523,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00"

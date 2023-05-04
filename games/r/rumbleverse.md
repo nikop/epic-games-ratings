@@ -1,4 +1,5 @@
 # Rumbleverse
+[View Rawdata](../../db/r/rumbleverse.json)  
 Rating: 4.42 (Ranked 641)  
 Number of Ratings: 61,855  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Competitive Players): 6,689  (Ranked 46)
 Sum: 53,953 (Ranked 20)  
 Diff (max vs sum): 26  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Nioh 2 – The Complete Edition
+[View Rawdata](../../db/n/nioh_2_–_the_complete_edition.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 2,526  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 2,346  (Ranked 93)
 Sum: 6,743 (Ranked 106)  
 Diff (max vs sum): -13  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

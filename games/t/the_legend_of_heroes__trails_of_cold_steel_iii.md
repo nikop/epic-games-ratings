@@ -1,7 +1,8 @@
 # The Legend of Heroes: Trails of Cold Steel III
+[View Rawdata](../../db/t/the_legend_of_heroes__trails_of_cold_steel_iii.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,8 +1,9 @@
 # I Was a Teenage Exocolonist
+[View Rawdata](../../db/i/i_was_a_teenage_exocolonist.json)  
 Rating: 4.68 (Ranked 233)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

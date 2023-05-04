@@ -1,4 +1,5 @@
 # TERRACOTTA
+[View Rawdata](../../db/t/terracotta.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

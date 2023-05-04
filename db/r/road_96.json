@@ -7,84 +7,96 @@
       "SetID": "8oef5bg",
       "Name": "Almost There?",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "bordermaster",
       "SetID": "8oef5bg",
       "Name": "Border Master",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "campaign",
       "SetID": "8oef5bg",
       "Name": "Campaign Funder",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "catperson",
       "SetID": "8oef5bg",
       "Name": "Cat Person",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect",
       "SetID": "8oef5bg",
       "Name": "Collect \u0027em All",
       "Percentage": 0,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 0
     },
     {
       "ID": "hardchoice",
       "SetID": "8oef5bg",
       "Name": "Hard Choice",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "helpfriend",
       "SetID": "8oef5bg",
       "Name": "Help a Friend",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "homesick",
       "SetID": "8oef5bg",
       "Name": "Homesick",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "lightindarkness",
       "SetID": "8oef5bg",
       "Name": "A Light in the Darkness",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "oldpro",
       "SetID": "8oef5bg",
       "Name": "Old Pro",
       "Percentage": 0,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 0
     },
     {
       "ID": "roadpals",
       "SetID": "8oef5bg",
       "Name": "Road Pals",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "stoneafterstone",
       "SetID": "8oef5bg",
       "Name": "Stone After Stone",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -361,13 +373,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:06:31.0975761+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:36.870042+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:06:31.0975894+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:23.0402369+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:36.8700531+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:58.474699+00:00",
   "AchievementSets": [
     {
       "ID": "8oef5bg",
@@ -383,7 +395,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 86,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "Ranking_PopularitySum": 490,

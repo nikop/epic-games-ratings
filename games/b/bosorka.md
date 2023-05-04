@@ -1,22 +1,23 @@
 # Bosorka
+[View Rawdata](../../db/b/bosorka.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Path of purity | 79.00 |
-| A good start | 53.00 |
-| Runes collector | 52.00 |
-| First time, yes? | 52.00 |
-| Witch's duty | 52.00 |
-| Kind heart | 47.00 |
-| Skilled rider | 44.00 |
-| Devil's dozen | 24.00 |
-| It doesn't work like that | 19.00 |
-| A small victory | 16.00 |
-| This is just the beginning... | 13.00 |
-| Time is on my side | 10.00 |
-| Unstoppable Curiosity | 10.00 |
-| Gold Digger | 6.00 |
-| Secret at the bottom | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Path of purity | 79.00% | ~4,898 |
+| A good start | 53.00% | ~3,286 |
+| Runes collector | 52.00% | ~3,224 |
+| First time, yes? | 52.00% | ~3,224 |
+| Witch's duty | 52.00% | ~3,224 |
+| Kind heart | 47.00% | ~2,914 |
+| Skilled rider | 44.00% | ~2,728 |
+| Devil's dozen | 24.00% | ~1,488 |
+| It doesn't work like that | 19.00% | ~1,178 |
+| A small victory | 16.00% | ~992 |
+| This is just the beginning... | 13.00% | ~806 |
+| Time is on my side | 10.00% | ~620 |
+| Unstoppable Curiosity | 10.00% | ~620 |
+| Gold Digger | 6.00% | ~372 |
+| Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 191)  

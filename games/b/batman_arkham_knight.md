@@ -1,4 +1,5 @@
 # Batman Arkham Knight
+[View Rawdata](../../db/b/batman_arkham_knight.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 7,386  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 5,467  (Ranked 58)
 Sum: 8,563 (Ranked 85)  
 Diff (max vs sum): -27  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

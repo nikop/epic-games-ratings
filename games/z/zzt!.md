@@ -1,12 +1,13 @@
 # ZZT!
+[View Rawdata](../../db/z/zzt!.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Potomac Computer Systems | 100.00 |
-| Traveler | 4.00 |
-| Explorer | 3.00 |
-| Adventurer | 3.00 |
-| Hero | 3.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Potomac Computer Systems | 100.00% | ~227,800 |
+| Traveler | 4.00% | ~9,112 |
+| Explorer | 3.00% | ~6,834 |
+| Adventurer | 3.00% | ~6,834 |
+| Hero | 3.00% | ~6,834 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,278 (Ranked 139)  
 Completed: 59 (2.59%) (Ranked 50)  

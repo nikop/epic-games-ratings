@@ -7,322 +7,368 @@
       "SetID": "cfld5bl",
       "Name": "Bye bye Wilson",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_LARGE",
       "SetID": "cfld5bl",
       "Name": "Rich",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Well-off",
       "Percentage": 13,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1014
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
       "Percentage": 33,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2574
     },
     {
       "ID": "ACH_COMPLETIONIST",
       "SetID": "cfld5bl",
       "Name": "Completionist",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_DESTRUCTIBLEKILLS_LARGE",
       "SetID": "cfld5bl",
       "Name": "Master of destruction",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_DESTRUCTIBLEKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Too many crates",
       "Percentage": 13,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1014
     },
     {
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Redecorator",
       "Percentage": 18,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_ENEMYKILLS_LARGE",
       "SetID": "cfld5bl",
       "Name": "Angel of death",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_ENEMYKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Should have left me alone",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
       "Percentage": 21,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1638
     },
     {
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
       "Percentage": 72,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5616
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
       "SetID": "cfld5bl",
       "Name": "Found them all!",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_GEMSCOLLECTED_25PERCENT",
       "SetID": "cfld5bl",
       "Name": "Baby steps",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_GEMSCOLLECTED_50PERCENT",
       "SetID": "cfld5bl",
       "Name": "Halfway",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_GEMSCOLLECTED_75PERCENT",
       "SetID": "cfld5bl",
       "Name": "Almost there",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_LARGE",
       "SetID": "cfld5bl",
       "Name": "Delicious",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Drink up",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Just a sip",
       "Percentage": 17,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
       "Percentage": 64,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4992
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3822
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
       "Percentage": 29,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2262
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the warrior boss",
       "Percentage": 22,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-2",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-3",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
       "Percentage": 14,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-1",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-2",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-3",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the mage boss",
       "Percentage": 6,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_LEVELCOMPLETION_04_01",
       "SetID": "cfld5bl",
       "Name": "Remote retrieved",
       "Percentage": 6,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERMAGE",
       "SetID": "cfld5bl",
       "Name": "Engineer-mage hybrid",
       "Percentage": 33,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2574
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
       "SetID": "cfld5bl",
       "Name": "Engineer-warrior hybrid",
       "Percentage": 12,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
       "SetID": "cfld5bl",
       "Name": "Mage-warrior hybrid",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
       "Percentage": 54,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4212
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
       "SetID": "cfld5bl",
       "Name": "Engineer specialist",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_MAGE",
       "SetID": "cfld5bl",
       "Name": "Mage specialist",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_WARRIOR",
       "SetID": "cfld5bl",
       "Name": "Warrior specialist",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_LEVELCOMPLETION_TRIPLEHYBRID",
       "SetID": "cfld5bl",
       "Name": "Versatile",
       "Percentage": 18,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_PARTYPOPPER",
       "SetID": "cfld5bl",
       "Name": "Party popper",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH_SPEEDRUNCOMPLETIONTIME",
       "SetID": "cfld5bl",
       "Name": "Go go go",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_UNLOCKEDALLABILITIES",
       "SetID": "cfld5bl",
       "Name": "The True Trifox",
       "Percentage": 5,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_UNLOCKEDALLENGINEERABILITIES",
       "SetID": "cfld5bl",
       "Name": "Way of the engineer",
       "Percentage": 6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_UNLOCKEDALLMAGEABILITIES",
       "SetID": "cfld5bl",
       "Name": "Way of the mage",
       "Percentage": 6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_UNLOCKEDALLWARRIORABILITIES",
       "SetID": "cfld5bl",
       "Name": "Way of the warrior",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 390
     }
   ],
   "Tags": [],
@@ -343,13 +389,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-04T22:06:37.6173279+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:41.8253894+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-04T22:06:37.6173923+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:44.1223119+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:41.8254276+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:12.2314127+00:00",
   "AchievementSets": [
     {
       "ID": "cfld5bl",
@@ -365,7 +411,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_Progress": 251,
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00"

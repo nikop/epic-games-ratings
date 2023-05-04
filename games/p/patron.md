@@ -1,9 +1,10 @@
 # Patron
+[View Rawdata](../../db/p/patron.json)  
 Rating: 3.94 (Ranked 889)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

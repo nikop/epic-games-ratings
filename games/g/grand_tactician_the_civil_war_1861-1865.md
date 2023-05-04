@@ -1,9 +1,10 @@
 # Grand Tactician The Civil War 1861-1865
+[View Rawdata](../../db/g/grand_tactician_the_civil_war_1861-1865.json)  
 Rating: 4.15 (Ranked 837)  
 Number of Ratings: 29  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

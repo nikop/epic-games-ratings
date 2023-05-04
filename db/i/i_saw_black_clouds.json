@@ -7,105 +7,120 @@
       "SetID": "8b5dfcp",
       "Name": "All endings",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 240
     },
     {
       "ID": "believer",
       "SetID": "8b5dfcp",
       "Name": "Believer",
       "Percentage": 51,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12240
     },
     {
       "ID": "clear",
       "SetID": "8b5dfcp",
       "Name": "Clear",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 960
     },
     {
       "ID": "denial",
       "SetID": "8b5dfcp",
       "Name": "Denial",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 480
     },
     {
       "ID": "end",
       "SetID": "8b5dfcp",
       "Name": "End",
       "Percentage": 45,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10800
     },
     {
       "ID": "escape",
       "SetID": "8b5dfcp",
       "Name": "Escape",
       "Percentage": 19,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4560
     },
     {
       "ID": "help",
       "SetID": "8b5dfcp",
       "Name": "Help",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 480
     },
     {
       "ID": "interpret",
       "SetID": "8b5dfcp",
       "Name": "Interpret",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 240
     },
     {
       "ID": "jack",
       "SetID": "8b5dfcp",
       "Name": "Jack",
       "Percentage": 14,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3360
     },
     {
       "ID": "nonconsensual",
       "SetID": "8b5dfcp",
       "Name": "Nonconsensual",
       "Percentage": 31,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 7440
     },
     {
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
       "Percentage": 47,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 11280
     },
     {
       "ID": "realist",
       "SetID": "8b5dfcp",
       "Name": "Realist",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6720
     },
     {
       "ID": "tough",
       "SetID": "8b5dfcp",
       "Name": "Tough",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2400
     },
     {
       "ID": "unfinished",
       "SetID": "8b5dfcp",
       "Name": "Unfinished",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 720
     },
     {
       "ID": "wrong",
       "SetID": "8b5dfcp",
       "Name": "Wrong",
       "Percentage": 17,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4080
     }
   ],
   "Tags": [],
@@ -136,13 +151,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:06:54.3380699+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:54.0823379+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 240,
-  "LastUpdate_Achievements": "2023-05-04T22:06:54.3380833+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:53.2740243+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:54.082349+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:56.9596399+00:00",
   "AchievementSets": [
     {
       "ID": "8b5dfcp",

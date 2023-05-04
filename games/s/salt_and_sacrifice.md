@@ -1,4 +1,5 @@
 # Salt and Sacrifice
+[View Rawdata](../../db/s/salt_and_sacrifice.json)  
 Rating: 4.31 (Ranked 746)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,61 +7,61 @@ Max (Character Customization): 929  (Ranked 140)
 Sum: 1,859 (Ranked 191)  
 Diff (max vs sum): -51  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| The Champion | 91.00 |
-| The Pyromancer | 86.00 |
-| The Wastes | 83.00 |
-| Waste Not | 80.00 |
-| The Cryomancer | 76.00 |
-| Stock Up | 75.00 |
-| The Hydromancer | 73.00 |
-| The Matriarch | 70.00 |
-| The Aeromancer | 66.00 |
-| The Huntsman | 65.00 |
-| The Venomancer | 65.00 |
-| Dawnlight Order | 64.00 |
-| The Electromancer | 61.00 |
-| The Terramancer | 59.00 |
-| The Exalted | 56.00 |
-| Sheriff Inquisitors | 55.00 |
-| Blueheart Runners | 54.00 |
-| The Necromancer | 52.00 |
-| The Swamp | 50.00 |
-| The Fungalmancer | 47.00 |
-| The Thaumamancer | 47.00 |
-| The Hag | 45.00 |
-| The Corpumancer | 42.00 |
-| The Mountain | 40.00 |
-| The Treeheart | 40.00 |
-| Shroud Alliance | 39.00 |
-| The Two Monks | 37.00 |
-| The Neuromancer | 34.00 |
-| Oathbound Watchers | 33.00 |
-| The Chronomancer | 32.00 |
-| The Mechanomancer | 32.00 |
-| The Copse | 29.00 |
-| The Dragon | 29.00 |
-| The Dracomancer | 29.00 |
-| The Umbramancer | 28.00 |
-| Well Stocked | 27.00 |
-| Chaos Hunger | 27.00 |
-| The Kinetomancer | 27.00 |
-| The Sanguimancer | 27.00 |
-| The Bibliomancer | 25.00 |
-| The Luminimancer | 25.00 |
-| The Skylord | 25.00 |
-| The Firelord | 24.00 |
-| Want Not | 21.00 |
-| The Diablomancer | 21.00 |
-| The Sacrifice | 21.00 |
-| The King | 18.00 |
-| Take Your Place | 14.00 |
-| The Nomad | 14.00 |
-| The Soldier | 11.00 |
-| Make The Climb | 10.00 |
-| The Scholar | 10.00 |
-| Top Shelf | 5.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| The Champion | 91.00% | ~5,799,885 |
+| The Pyromancer | 86.00% | ~5,481,210 |
+| The Wastes | 83.00% | ~5,290,005 |
+| Waste Not | 80.00% | ~5,098,800 |
+| The Cryomancer | 76.00% | ~4,843,860 |
+| Stock Up | 75.00% | ~4,780,125 |
+| The Hydromancer | 73.00% | ~4,652,655 |
+| The Matriarch | 70.00% | ~4,461,450 |
+| The Aeromancer | 66.00% | ~4,206,510 |
+| The Huntsman | 65.00% | ~4,142,775 |
+| The Venomancer | 65.00% | ~4,142,775 |
+| Dawnlight Order | 64.00% | ~4,079,040 |
+| The Electromancer | 61.00% | ~3,887,835 |
+| The Terramancer | 59.00% | ~3,760,365 |
+| The Exalted | 56.00% | ~3,569,160 |
+| Sheriff Inquisitors | 55.00% | ~3,505,425 |
+| Blueheart Runners | 54.00% | ~3,441,690 |
+| The Necromancer | 52.00% | ~3,314,220 |
+| The Swamp | 50.00% | ~3,186,750 |
+| The Fungalmancer | 47.00% | ~2,995,545 |
+| The Thaumamancer | 47.00% | ~2,995,545 |
+| The Hag | 45.00% | ~2,868,075 |
+| The Corpumancer | 42.00% | ~2,676,870 |
+| The Mountain | 40.00% | ~2,549,400 |
+| The Treeheart | 40.00% | ~2,549,400 |
+| Shroud Alliance | 39.00% | ~2,485,665 |
+| The Two Monks | 37.00% | ~2,358,195 |
+| The Neuromancer | 34.00% | ~2,166,990 |
+| Oathbound Watchers | 33.00% | ~2,103,255 |
+| The Chronomancer | 32.00% | ~2,039,520 |
+| The Mechanomancer | 32.00% | ~2,039,520 |
+| The Copse | 29.00% | ~1,848,315 |
+| The Dragon | 29.00% | ~1,848,315 |
+| The Dracomancer | 29.00% | ~1,848,315 |
+| The Umbramancer | 28.00% | ~1,784,580 |
+| Well Stocked | 27.00% | ~1,720,845 |
+| Chaos Hunger | 27.00% | ~1,720,845 |
+| The Kinetomancer | 27.00% | ~1,720,845 |
+| The Sanguimancer | 27.00% | ~1,720,845 |
+| The Bibliomancer | 25.00% | ~1,593,375 |
+| The Luminimancer | 25.00% | ~1,593,375 |
+| The Skylord | 25.00% | ~1,593,375 |
+| The Firelord | 24.00% | ~1,529,640 |
+| Want Not | 21.00% | ~1,338,435 |
+| The Diablomancer | 21.00% | ~1,338,435 |
+| The Sacrifice | 21.00% | ~1,338,435 |
+| The King | 18.00% | ~1,147,230 |
+| Take Your Place | 14.00% | ~892,290 |
+| The Nomad | 14.00% | ~892,290 |
+| The Soldier | 11.00% | ~701,085 |
+| Make The Climb | 10.00% | ~637,350 |
+| The Scholar | 10.00% | ~637,350 |
+| Top Shelf | 5.00% | ~318,675 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 63,735 (Ranked 63)  
 Completed: 1,149 (1.80%) (Ranked 58)  

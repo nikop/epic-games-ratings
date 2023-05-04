@@ -1,4 +1,5 @@
 # Delysium
+[View Rawdata](../../db/d/delysium.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

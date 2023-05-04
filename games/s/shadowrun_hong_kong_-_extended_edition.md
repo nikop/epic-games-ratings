@@ -1,4 +1,5 @@
 # Shadowrun Hong Kong - Extended Edition
+[View Rawdata](../../db/s/shadowrun_hong_kong_-_extended_edition.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 241  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 92  (Ranked 332)
 Sum: 92 (Ranked 399)  
 Diff (max vs sum): -67  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

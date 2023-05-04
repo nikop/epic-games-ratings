@@ -1,12 +1,13 @@
 # Mason: Building Bricks
+[View Rawdata](../../db/m/mason__building_bricks.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Constructor | 42.00 |
-| Novice Mason | 42.00 |
-| Arch Mason | 17.00 |
-| Expert Mason | 17.00 |
-| Grand Mason | 8.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Constructor | 42.00% | ~504 |
+| Novice Mason | 42.00% | ~504 |
+| Arch Mason | 17.00% | ~204 |
+| Expert Mason | 17.00% | ~204 |
+| Grand Mason | 8.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 300)  
 Completed: 1 (8.33%) (Ranked 14)  

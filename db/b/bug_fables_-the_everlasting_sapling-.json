@@ -7,210 +7,240 @@
       "SetID": "7o7kd30",
       "Name": "Gamer",
       "Percentage": 12,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 792
     },
     {
       "ID": "BFT_BONUS",
       "SetID": "7o7kd30",
       "Name": "Bounty Hunter",
       "Percentage": 18,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1188
     },
     {
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
       "Percentage": 68,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4488
     },
     {
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
       "Percentage": 42,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2772
     },
     {
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
       "Percentage": 45,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2970
     },
     {
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
       "Percentage": 29,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1914
     },
     {
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
       "Percentage": 35,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2310
     },
     {
       "ID": "BFT_CH3HB",
       "SetID": "7o7kd30",
       "Name": "Heavy Duty",
       "Percentage": 23,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1518
     },
     {
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1914
     },
     {
       "ID": "BFT_CH4HB",
       "SetID": "7o7kd30",
       "Name": "Always Watchful",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1320
     },
     {
       "ID": "BFT_CH5",
       "SetID": "7o7kd30",
       "Name": "Chapter 5 Complete",
       "Percentage": 23,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1518
     },
     {
       "ID": "BFT_CH5HB",
       "SetID": "7o7kd30",
       "Name": "The Terror",
       "Percentage": 18,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1188
     },
     {
       "ID": "BFT_CH6",
       "SetID": "7o7kd30",
       "Name": "Chapter 6 Complete",
       "Percentage": 21,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1386
     },
     {
       "ID": "BFT_CH6HB",
       "SetID": "7o7kd30",
       "Name": "All Geared Up",
       "Percentage": 15,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 990
     },
     {
       "ID": "BFT_CH7",
       "SetID": "7o7kd30",
       "Name": "Chapter 7 Complete",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1320
     },
     {
       "ID": "BFT_CH7HB",
       "SetID": "7o7kd30",
       "Name": "The End",
       "Percentage": 15,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 990
     },
     {
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
       "Percentage": 20,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 1320
     },
     {
       "ID": "BFT_COOK",
       "SetID": "7o7kd30",
       "Name": "Cooking Maestro",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 594
     },
     {
       "ID": "BFT_CRYST",
       "SetID": "7o7kd30",
       "Name": "Crystal Collector",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "BFT_DISC",
       "SetID": "7o7kd30",
       "Name": "Pro Explorers",
       "Percentage": 11,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 726
     },
     {
       "ID": "BFT_ENEMY",
       "SetID": "7o7kd30",
       "Name": "Field Researcher",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 594
     },
     {
       "ID": "BFT_KABBU",
       "SetID": "7o7kd30",
       "Name": "Good Deed",
       "Percentage": 14,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 924
     },
     {
       "ID": "BFT_LEIF",
       "SetID": "7o7kd30",
       "Name": "The Truth",
       "Percentage": 23,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 1518
     },
     {
       "ID": "BFT_MAX",
       "SetID": "7o7kd30",
       "Name": "Battle Ready",
       "Percentage": 15,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 990
     },
     {
       "ID": "BFT_MEDAL",
       "SetID": "7o7kd30",
       "Name": "Medal Collector",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 528
     },
     {
       "ID": "BFT_MUSIC",
       "SetID": "7o7kd30",
       "Name": "Music Collector",
       "Percentage": 14,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 924
     },
     {
       "ID": "BFT_PLAT",
       "SetID": "7o7kd30",
       "Name": "Our job\u0027s done!",
       "Percentage": 8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 528
     },
     {
       "ID": "BFT_QUEST",
       "SetID": "7o7kd30",
       "Name": "Helping Hand",
       "Percentage": 9,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 594
     },
     {
       "ID": "BFT_SUPER",
       "SetID": "7o7kd30",
       "Name": "Ultimate Team!",
       "Percentage": 12,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 792
     },
     {
       "ID": "BFT_VI",
       "SetID": "7o7kd30",
       "Name": "Reconciliation",
       "Percentage": 21,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 1386
     }
   ],
   "Tags": [],
@@ -236,13 +266,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:06:55.3742167+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:54.7793725+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 66,
-  "LastUpdate_Achievements": "2023-05-04T22:06:55.374239+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:55.8557772+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:54.779409+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:58.7628667+00:00",
   "AchievementSets": [
     {
       "ID": "7o7kd30",

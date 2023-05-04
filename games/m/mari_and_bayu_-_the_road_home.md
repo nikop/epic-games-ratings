@@ -1,7 +1,8 @@
 # Mari and Bayu - The Road Home
+[View Rawdata](../../db/m/mari_and_bayu_-_the_road_home.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

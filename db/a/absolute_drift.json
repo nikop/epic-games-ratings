@@ -7,140 +7,160 @@
       "SetID": "4lh7icm",
       "Name": "Bacon Donuts",
       "Percentage": 0.5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 757154
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
       "SetID": "4lh7icm",
       "Name": "Maverick",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 10600149
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
       "SetID": "4lh7icm",
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3028614
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
       "SetID": "4lh7icm",
       "Name": "Double Rainbow",
       "Percentage": 0.5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 757154
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
       "SetID": "4lh7icm",
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4542921
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
       "SetID": "4lh7icm",
       "Name": "Drift Line Master",
       "Percentage": 0.6,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 908584
     },
     {
       "ID": "ACH_GOOD_SKILLS",
       "SetID": "4lh7icm",
       "Name": "Good Skills",
       "Percentage": 9,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 13628763
     },
     {
       "ID": "ACH_HOON_AIRLINES",
       "SetID": "4lh7icm",
       "Name": "Hoon Airlines",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1514307
     },
     {
       "ID": "ACH_INSANE_SKILLS",
       "SetID": "4lh7icm",
       "Name": "Insane Skills",
       "Percentage": 0.7,
-      "XP": 95
+      "XP": 95,
+      "UsersEstimate": 1060015
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
       "SetID": "4lh7icm",
       "Name": "Jelly Donuts",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3028614
     },
     {
       "ID": "ACH_MAD_SKILLS",
       "SetID": "4lh7icm",
       "Name": "Mad Skills",
       "Percentage": 3,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 4542921
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
       "SetID": "4lh7icm",
       "Name": "Master Drifter",
       "Percentage": 2,
-      "XP": 95
+      "XP": 95,
+      "UsersEstimate": 3028614
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
       "SetID": "4lh7icm",
       "Name": "Midnight Drifter",
       "Percentage": 10,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 15143070
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
       "SetID": "4lh7icm",
       "Name": "Midnight Master",
       "Percentage": 1,
-      "XP": 95
+      "XP": 95,
+      "UsersEstimate": 1514307
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
       "SetID": "4lh7icm",
       "Name": "Multiplier Master",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 12114456
     },
     {
       "ID": "ACH_SAKE_BOMBS",
       "SetID": "4lh7icm",
       "Name": "Sake Bombs",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1211446
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
       "SetID": "4lh7icm",
       "Name": "Spin Doctor",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1514307
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
       "SetID": "4lh7icm",
       "Name": "The Completionist",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 151431
     },
     {
       "ID": "ACH_THE_LONG_DRIFT",
       "SetID": "4lh7icm",
       "Name": "The Long Drift",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7571535
     },
     {
       "ID": "ACH_WASHING_MACHINE",
       "SetID": "4lh7icm",
       "Name": "Washing Machine",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 454292
     }
   ],
   "Tags": [],
@@ -1244,6 +1264,11 @@
       "Time": "2023-05-04T22:06:56.8348046+00:00",
       "NumProgressed": 1514302,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-04T22:24:55.8230082+00:00",
+      "NumProgressed": 1514307,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1643,18 +1668,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:06:56.8348041+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:55.8230076+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1524,
+  "EOS_NewPlayers": 1529,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514302,
-  "LastUpdate_Achievements": "2023-05-04T22:06:56.8348253+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:03.1295761+00:00",
+  "EOS_Progressed": 1514307,
+  "LastUpdate_Achievements": "2023-05-04T22:24:55.8230405+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:03.6718729+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514302,
+      "Progressed": 1514307,
       "Completed": 597
     }
   ],

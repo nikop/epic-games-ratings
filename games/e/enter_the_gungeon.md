@@ -1,4 +1,5 @@
 # Enter the Gungeon
+[View Rawdata](../../db/e/enter_the_gungeon.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 8,617  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 7,516  (Ranked 41)
 Sum: 13,335 (Ranked 66)  
 Diff (max vs sum): -25  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

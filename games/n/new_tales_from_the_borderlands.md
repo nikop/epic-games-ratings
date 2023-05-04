@@ -1,34 +1,35 @@
 # New Tales from the Borderlands
+[View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
 Rating: 4.07 (Ranked 861)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Who Needs Keys? | 48.00 |
-| Totally Intentional | 43.00 |
-| Each Sold Separately | 36.00 |
-| We're In | 31.00 |
-| You're Not Naked | 28.00 |
-| Tale in the Toilet | 28.00 |
-| From Zeroes... | 27.00 |
-| Don't Get Cocky | 26.00 |
-| Shard Snatchers | 23.00 |
-| You Rich Now! | 21.00 |
-| Our Lucky Winner | 20.00 |
-| You Poor Now! | 19.00 |
-| You Got the Goods, Kid | 19.00 |
-| The Shardmenstration | 18.00 |
-| Those Were the Days... | 18.00 |
-| ...To Heroes | 17.00 |
-| Mas, Por Favor | 16.00 |
-| And Still Champion... | 13.00 |
-| Super Trusting Friend! | 9.00 |
-| Bring back the butt! | 4.00 |
-| Hey, thanks! | 4.00 |
-| Murderous Mascot Mayhem | 2.00 |
-| New Business | 0.80 |
-| Okay, Vain Much? | 0.50 |
-| Not Dolls. Action Figures! | 0.20 |
-| You Played This Before? | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Who Needs Keys? | 48.00% | ~162,000 |
+| Totally Intentional | 43.00% | ~145,125 |
+| Each Sold Separately | 36.00% | ~121,500 |
+| We're In | 31.00% | ~104,625 |
+| You're Not Naked | 28.00% | ~94,500 |
+| Tale in the Toilet | 28.00% | ~94,500 |
+| From Zeroes... | 27.00% | ~91,125 |
+| Don't Get Cocky | 26.00% | ~87,750 |
+| Shard Snatchers | 23.00% | ~77,625 |
+| You Rich Now! | 21.00% | ~70,875 |
+| Our Lucky Winner | 20.00% | ~67,500 |
+| You Poor Now! | 19.00% | ~64,125 |
+| You Got the Goods, Kid | 19.00% | ~64,125 |
+| The Shardmenstration | 18.00% | ~60,750 |
+| Those Were the Days... | 18.00% | ~60,750 |
+| ...To Heroes | 17.00% | ~57,375 |
+| Mas, Por Favor | 16.00% | ~54,000 |
+| And Still Champion... | 13.00% | ~43,875 |
+| Super Trusting Friend! | 9.00% | ~30,375 |
+| Bring back the butt! | 4.00% | ~13,500 |
+| Hey, thanks! | 4.00% | ~13,500 |
+| Murderous Mascot Mayhem | 2.00% | ~6,750 |
+| New Business | 0.80% | ~2,700 |
+| Okay, Vain Much? | 0.50% | ~1,688 |
+| Not Dolls. Action Figures! | 0.20% | ~675 |
+| You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,375 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 191)  

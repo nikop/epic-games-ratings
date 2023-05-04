@@ -1,4 +1,5 @@
 # Cajun
+[View Rawdata](../../db/c/cajun.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

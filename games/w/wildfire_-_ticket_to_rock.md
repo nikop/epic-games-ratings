@@ -1,7 +1,8 @@
 # Wildfire - Ticket to Rock
+[View Rawdata](../../db/w/wildfire_-_ticket_to_rock.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,4 +1,5 @@
 # The Division 2 Standard Edition
+[View Rawdata](../../db/t/the_division_2_standard_edition.json)  
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 6,679  (Ranked 47)
 Sum: 21,519 (Ranked 52)  
 Diff (max vs sum): -5  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

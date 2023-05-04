@@ -7,252 +7,288 @@
       "SetID": "bf13m8j",
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5313
     },
     {
       "ID": "CAREER_CRIMINAL",
       "SetID": "bf13m8j",
       "Name": "Career criminal",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1518
     },
     {
       "ID": "CHEEKI_BREEKI_1",
       "SetID": "bf13m8j",
       "Name": "Cheeki Breeki",
       "Percentage": 0.5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 380
     },
     {
       "ID": "CLASSIC",
       "SetID": "bf13m8j",
       "Name": "It\u0027s a classic!",
       "Percentage": 0.5,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 380
     },
     {
       "ID": "CLUB_27_1",
       "SetID": "bf13m8j",
       "Name": "27 Club",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "COMRADE_YOGI",
       "SetID": "bf13m8j",
       "Name": "Comrade Yogi",
       "Percentage": 0.4,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 304
     },
     {
       "ID": "DOUBLE_AGENT",
       "SetID": "bf13m8j",
       "Name": "Double agent",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10626
     },
     {
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
       "Percentage": 99,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 75141
     },
     {
       "ID": "EXPERT_1",
       "SetID": "bf13m8j",
       "Name": "Expert",
       "Percentage": 0.5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 380
     },
     {
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
       "Percentage": 19,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 14421
     },
     {
       "ID": "GHOSTBUSTER",
       "SetID": "bf13m8j",
       "Name": "Ghostbuster",
       "Percentage": 0.9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 683
     },
     {
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13662
     },
     {
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 15180
     },
     {
       "ID": "INDY_1",
       "SetID": "bf13m8j",
       "Name": "Indy",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3036
     },
     {
       "ID": "KORALOV",
       "SetID": "bf13m8j",
       "Name": "Tourist Korallov",
       "Percentage": 0.7,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 531
     },
     {
       "ID": "KRAINA_GRZYBOW_1",
       "SetID": "bf13m8j",
       "Name": "Kraina Grzybow",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6831
     },
     {
       "ID": "LOVE_GURU_1",
       "SetID": "bf13m8j",
       "Name": "Love Guru",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6831
     },
     {
       "ID": "NEANDERTHAL_1",
       "SetID": "bf13m8j",
       "Name": "Neanderthal",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 759
     },
     {
       "ID": "NO_NAME",
       "SetID": "bf13m8j",
       "Name": "No Name, No Slogan",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
       "Percentage": 34,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 25806
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 22770
     },
     {
       "ID": "PACIFIST",
       "SetID": "bf13m8j",
       "Name": "Pacifist",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10626
     },
     {
       "ID": "PRIVATE_EYE",
       "SetID": "bf13m8j",
       "Name": "Not-so-private Eye",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6072
     },
     {
       "ID": "PROTECTION_RACKET",
       "SetID": "bf13m8j",
       "Name": "Protection racket",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3795
     },
     {
       "ID": "RELICTS",
       "SetID": "bf13m8j",
       "Name": "Mystical relics",
       "Percentage": 0.3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 228
     },
     {
       "ID": "ROBOT_DEAD",
       "SetID": "bf13m8j",
       "Name": "It was worth a shot",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 759
     },
     {
       "ID": "SACRIFICE_1",
       "SetID": "bf13m8j",
       "Name": "Sacrifice",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3036
     },
     {
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6831
     },
     {
       "ID": "SECRET_ROOM",
       "SetID": "bf13m8j",
       "Name": "Secret room",
       "Percentage": 5,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3795
     },
     {
       "ID": "SHOG",
       "SetID": "bf13m8j",
       "Name": "Cosmic Horror",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 759
     },
     {
       "ID": "SUPERHUMAN_1",
       "SetID": "bf13m8j",
       "Name": "Superhuman",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6072
     },
     {
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
       "Percentage": 26,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 19734
     },
     {
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5313
     },
     {
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
       "Percentage": 36,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 27324
     },
     {
       "ID": "WISHMASTER_1",
       "SetID": "bf13m8j",
       "Name": "Wishmaster",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1518
     }
   ],
   "Tags": [
@@ -690,13 +726,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T22:06:59.739981+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:58.0740656+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 17,
   "EOS_Completed": 0,
   "EOS_Progressed": 759,
-  "LastUpdate_Achievements": "2023-05-04T22:06:59.7400174+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:09.9659162+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:58.0740951+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:08.5229523+00:00",
   "AchievementSets": [
     {
       "ID": "bf13m8j",

@@ -1,4 +1,5 @@
 # Evil Dead: The Game
+[View Rawdata](../../db/e/evil_dead__the_game.json)  
 Rating: 4.36 (Ranked 701)  
 Number of Ratings: 9,131  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 12,326  (Ranked 27)
 Sum: 28,843 (Ranked 38)  
 Diff (max vs sum): -11  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

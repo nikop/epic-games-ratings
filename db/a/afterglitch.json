@@ -7,70 +7,80 @@
       "SetID": "hnfblp",
       "Name": "I.",
       "Percentage": 50,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 100
     },
     {
       "ID": "10",
       "SetID": "hnfblp",
       "Name": "X.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "2",
       "SetID": "hnfblp",
       "Name": "II.",
       "Percentage": 50,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 100
     },
     {
       "ID": "3",
       "SetID": "hnfblp",
       "Name": "III.",
       "Percentage": 50,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 100
     },
     {
       "ID": "4",
       "SetID": "hnfblp",
       "Name": "IV.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "5",
       "SetID": "hnfblp",
       "Name": "V.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "6",
       "SetID": "hnfblp",
       "Name": "VI.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "7",
       "SetID": "hnfblp",
       "Name": "VII.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "8",
       "SetID": "hnfblp",
       "Name": "VIII.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "9",
       "SetID": "hnfblp",
       "Name": "IX.",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -84,13 +94,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-04T22:06:05.2476994+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:17.7573395+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:06:05.24771+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:46.9694301+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:17.7573538+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:34.3889084+00:00",
   "AchievementSets": [
     {
       "ID": "hnfblp",
@@ -101,7 +111,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00"

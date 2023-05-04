@@ -1,7 +1,8 @@
 # The Last Show of Mr. Chardish
+[View Rawdata](../../db/t/the_last_show_of_mr._chardish.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

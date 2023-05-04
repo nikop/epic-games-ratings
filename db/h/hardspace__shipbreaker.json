@@ -7,189 +7,216 @@
       "SetID": "108h92c",
       "Name": "Act I Complete",
       "Percentage": 26,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 15548
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act II Complete",
       "Percentage": 20,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 11960
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act III Complete",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3588
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
       "SetID": "108h92c",
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 17342
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
       "SetID": "108h92c",
       "Name": "A drop in the Ocean",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 15548
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
       "SetID": "108h92c",
       "Name": "A successful procedure!",
       "Percentage": 19,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 11362
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
       "SetID": "108h92c",
       "Name": "A Tucked Tale",
       "Percentage": 10,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 5980
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
       "SetID": "108h92c",
       "Name": "The best thing money can buy",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 5382
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
       "SetID": "108h92c",
       "Name": "Bing Bang BOOM",
       "Percentage": 18,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10764
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
       "SetID": "108h92c",
       "Name": "Breaking the Ice",
       "Percentage": 16,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9568
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 43654
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
       "SetID": "108h92c",
       "Name": "Captured Killer of Caerbannog",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
       "Percentage": 34,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 20332
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
       "SetID": "108h92c",
       "Name": "Disagree and Commit",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FIRE_AND_BRIMSTONE",
       "SetID": "108h92c",
       "Name": "Fire and Brimstone",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2990
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
       "SetID": "108h92c",
       "Name": "Gecko Go(al) Getter",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_GHOST_IN_THE_SHIP",
       "SetID": "108h92c",
       "Name": "Ghost in the Ship",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1196
     },
     {
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 41262
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
       "SetID": "108h92c",
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 14352
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
       "Percentage": 62,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 37076
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 38870
     },
     {
       "ID": "ACH_NO_NINOS",
       "SetID": "108h92c",
       "Name": "No Ni\u00F1os",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 15548
     },
     {
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
       "Percentage": 56,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 33488
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
       "SetID": "108h92c",
       "Name": "See you Space Cowboy",
       "Percentage": 5,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 2990
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
       "SetID": "108h92c",
       "Name": "Solidarity Forever",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 7176
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
       "SetID": "108h92c",
       "Name": "The Weight of the World",
       "Percentage": 29,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 17342
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
       "Percentage": 47,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 28106
     }
   ],
   "Tags": [],
@@ -458,13 +485,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T22:06:07.1165985+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:19.2037889+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 598,
-  "LastUpdate_Achievements": "2023-05-04T22:06:07.1166298+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:49.5357357+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:19.2038172+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:57.4080825+00:00",
   "AchievementSets": [
     {
       "ID": "108h92c",

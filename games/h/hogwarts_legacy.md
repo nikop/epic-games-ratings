@@ -1,57 +1,58 @@
 # Hogwarts Legacy
+[View Rawdata](../../db/h/hogwarts_legacy.json)  
 Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 18,359  (Ranked 18)  
 Sum: 33,449 (Ranked 34)  
 Diff (max vs sum): -16  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Grappling with a Graphorn | 5.00 |
-| The One Who Mastered Memories | 5.00 |
-| The Hallowed Hero | 5.00 |
-| The Hero of Hogwarts | 5.00 |
-| The Defender of Dragons | 5.00 |
-| Coasting Along | 5.00 |
-| Rising From the Ashes | 5.00 |
-| The Sort Who Makes an Entrance | 4.00 |
-| The Avenging Gazelle | 4.00 |
-| Beast Friends | 4.00 |
-| A Sallow Grave | 4.00 |
-| Flight the Good Flight | 4.00 |
-| Challenge Accepted | 4.00 |
-| A Keen Sense of Spell | 4.00 |
-| Loom for Improvement | 4.00 |
-| A Talent for Spending | 4.00 |
-| Followed the Butterflies | 4.00 |
-| The Spell Master | 4.00 |
-| First Class Student | 4.00 |
-| Troll with the Punches | 4.00 |
-| That's a Keeper | 4.00 |
-| The Seeker of Knowledge | 3.00 |
-| The Root of the Problem | 3.00 |
-| Third Time's a Charm | 3.00 |
-| The Toast of the Town | 2.00 |
-| Going Through the Potions | 2.00 |
-| Room with a View | 2.00 |
-| Floo Around the World | 2.00 |
-| The Intrepid Explorer | 2.00 |
-| The Gryffindor in the Graveyard | 2.00 |
-| The Ends Petrify the Means | 2.00 |
-| Raising Expectations | 2.00 |
-| The Good Samaritan | 1.00 |
-| Put Down Roots | 1.00 |
-| The Auror's Apprentice | 1.00 |
-| Rise to the Challenges | 1.00 |
-| The Wise Owl | 1.00 |
-| Finishing Touches | 0.90 |
-| Demiguise Dread | 0.70 |
-| A Forte for Achievement | 0.70 |
-| Savvy Spender | 0.60 |
-| Merlin's Beard! | 0.50 |
-| Spilled Milk | 0.40 |
-| The Nature of the Beast | 0.30 |
-| Collector's Edition | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Grappling with a Graphorn | 5.00% | ~1,327,480 |
+| The One Who Mastered Memories | 5.00% | ~1,327,480 |
+| The Hallowed Hero | 5.00% | ~1,327,480 |
+| The Hero of Hogwarts | 5.00% | ~1,327,480 |
+| The Defender of Dragons | 5.00% | ~1,327,480 |
+| Coasting Along | 5.00% | ~1,327,480 |
+| Rising From the Ashes | 5.00% | ~1,327,480 |
+| The Sort Who Makes an Entrance | 4.00% | ~1,061,984 |
+| The Avenging Gazelle | 4.00% | ~1,061,984 |
+| Beast Friends | 4.00% | ~1,061,984 |
+| A Sallow Grave | 4.00% | ~1,061,984 |
+| Flight the Good Flight | 4.00% | ~1,061,984 |
+| Challenge Accepted | 4.00% | ~1,061,984 |
+| A Keen Sense of Spell | 4.00% | ~1,061,984 |
+| Loom for Improvement | 4.00% | ~1,061,984 |
+| A Talent for Spending | 4.00% | ~1,061,984 |
+| Followed the Butterflies | 4.00% | ~1,061,984 |
+| The Spell Master | 4.00% | ~1,061,984 |
+| First Class Student | 4.00% | ~1,061,984 |
+| Troll with the Punches | 4.00% | ~1,061,984 |
+| That's a Keeper | 4.00% | ~1,061,984 |
+| The Seeker of Knowledge | 3.00% | ~796,488 |
+| The Root of the Problem | 3.00% | ~796,488 |
+| Third Time's a Charm | 3.00% | ~796,488 |
+| The Toast of the Town | 2.00% | ~530,992 |
+| Going Through the Potions | 2.00% | ~530,992 |
+| Room with a View | 2.00% | ~530,992 |
+| Floo Around the World | 2.00% | ~530,992 |
+| The Intrepid Explorer | 2.00% | ~530,992 |
+| The Gryffindor in the Graveyard | 2.00% | ~530,992 |
+| The Ends Petrify the Means | 2.00% | ~530,992 |
+| Raising Expectations | 2.00% | ~530,992 |
+| The Good Samaritan | 1.00% | ~265,496 |
+| Put Down Roots | 1.00% | ~265,496 |
+| The Auror's Apprentice | 1.00% | ~265,496 |
+| Rise to the Challenges | 1.00% | ~265,496 |
+| The Wise Owl | 1.00% | ~265,496 |
+| Finishing Touches | 0.90% | ~238,946 |
+| Demiguise Dread | 0.70% | ~185,847 |
+| A Forte for Achievement | 0.70% | ~185,847 |
+| Savvy Spender | 0.60% | ~159,298 |
+| Merlin's Beard! | 0.50% | ~132,748 |
+| Spilled Milk | 0.40% | ~106,198 |
+| The Nature of the Beast | 0.30% | ~79,649 |
+| Collector's Edition | 0.10% | ~26,550 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265,496 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  

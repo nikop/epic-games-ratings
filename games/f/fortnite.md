@@ -1,4 +1,5 @@
 # Fortnite
+[View Rawdata](../../db/f/fortnite.json)  
 Rating: 4.29 (Ranked 757)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Competitive Players): 1,281,338  (Ranked 1)
 Sum: 9,266,992 (Ranked 1)  
 Diff (max vs sum): 0  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

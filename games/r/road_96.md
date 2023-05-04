@@ -1,21 +1,22 @@
 # Road 96
+[View Rawdata](../../db/r/road_96.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 86  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Almost There? | 0.00 |
-| Border Master | 0.00 |
-| Campaign Funder | 0.00 |
-| Cat Person | 0.00 |
-| Collect 'em All | 0.00 |
-| Hard Choice | 0.00 |
-| Help a Friend | 0.00 |
-| Homesick | 0.00 |
-| A Light in the Darkness | 0.00 |
-| Old Pro | 0.00 |
-| Road Pals | 0.00 |
-| Stone After Stone | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Almost There? | 0.00% | ~0 |
+| Border Master | 0.00% | ~0 |
+| Campaign Funder | 0.00% | ~0 |
+| Cat Person | 0.00% | ~0 |
+| Collect 'em All | 0.00% | ~0 |
+| Hard Choice | 0.00% | ~0 |
+| Help a Friend | 0.00% | ~0 |
+| Homesick | 0.00% | ~0 |
+| A Light in the Darkness | 0.00% | ~0 |
+| Old Pro | 0.00% | ~0 |
+| Road Pals | 0.00% | ~0 |
+| Stone After Stone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  

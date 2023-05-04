@@ -1,12 +1,13 @@
 # Brawlhalla
+[View Rawdata](../../db/b/brawlhalla.json)  
 Rating: 4.58 (Ranked 414)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 99  (Ranked 321)  
 Sum: 945 (Ranked 231)  
 Diff (max vs sum): 90  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

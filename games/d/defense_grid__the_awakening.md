@@ -1,4 +1,5 @@
 # Defense Grid: The Awakening
+[View Rawdata](../../db/d/defense_grid__the_awakening.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,97 +7,97 @@ Max (Great for Beginners): 230  (Ranked 242)
 Sum: 1,632 (Ranked 200)  
 Diff (max vs sum): 42  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First Blood | 81.00 |
-| Hey! That's mine! | 78.00 |
-| Happy Returns | 77.00 |
-| Field Promotion | 74.00 |
-| Leadhead | 71.00 |
-| Eradicator | 67.00 |
-| Surplus | 65.00 |
-| I Spy | 63.00 |
-| Burn Baby Burn | 59.00 |
-| Yellow Beats Green | 55.00 |
-| Salvage Rights | 53.00 |
-| What IS that? | 50.00 |
-| Close Call | 49.00 |
-| Penny Pincher | 49.00 |
-| Pew Pew | 49.00 |
-| Arsenal | 46.00 |
-| Boot Camp | 45.00 |
-| Flawless Victory | 42.00 |
-| Confident | 40.00 |
-| Exterminator | 36.00 |
-| Sharpshooter | 33.00 |
-| Great Ball of Fire | 32.00 |
-| Not So Fast | 32.00 |
-| No Sale | 30.00 |
-| Kaboom! | 29.00 |
-| Liquidator | 29.00 |
-| High Voltage | 24.00 |
-| Filthy Rich | 19.00 |
-| Power Builder | 17.00 |
-| Pyrrhic Victory | 17.00 |
-| The Not-So-Friendly Skies | 17.00 |
-| Death From Above | 16.00 |
-| Retry | 16.00 |
-| Head Trauma | 12.00 |
-| Full Defense | 10.00 |
-| Overseer | 9.00 |
-| Annihilator | 8.00 |
-| If At First You Don't Succeed, Retry Again | 8.00 |
-| Indecisive | 6.00 |
-| Base Defender | 5.00 |
-| Relay Race | 5.00 |
-| Diversity | 3.00 |
-| Full Potential | 3.00 |
-| Tower Expert | 3.00 |
-| Minimalist | 2.00 |
-| Nail Biter | 2.00 |
-| The Long Road | 2.00 |
-| Untouchable | 2.00 |
-| Flurry | 1.00 |
-| Siege Breaker | 1.00 |
-| Well Invested | 1.00 |
-| Gun Crazy | 0.90 |
-| Planet Defender | 0.90 |
-| Xenocide | 0.90 |
-| Master Siege Breaker | 0.80 |
-| Few and Proud | 0.80 |
-| Shell-shocked | 0.70 |
-| Alien Tears | 0.50 |
-| Full House | 0.40 |
-| Kickstarter | 0.30 |
-| The Container | 0.30 |
-| Foresight is 20/20 | 0.20 |
-| Majestic Pony | 0.20 |
-| Out of Bullets | 0.20 |
-| Savant Genius | 0.20 |
-| Beating A Dead Potato | 0.10 |
-| Best Friends Forever | 0.10 |
-| Top of the Class | 0.10 |
-| Circular Hazard | 0.10 |
-| Civil Divergence | 0.10 |
-| Clean Getaway | 0.10 |
-| Combat Turmoil | 0.10 |
-| Core Container | 0.10 |
-| Faithful Companion | 0.10 |
-| Firebug | 0.10 |
-| Fully Contained | 0.10 |
-| Master Strategist | 0.10 |
-| Mostly Dead | 0.10 |
-| Clear Skies | 0.10 |
-| Overflowing | 0.10 |
-| Regional Deluge | 0.10 |
-| So Many Spaces to Build On, So Little Time | 0.10 |
-| Supreme Strategist | 0.10 |
-| A Temporal Would've Been Nice | 0.10 |
-| This is…spartan. | 0.10 |
-| Contains Trace Amounts of Gold | 0.10 |
-| You Monster | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First Blood | 81.00% | ~38,536,479 |
+| Hey! That's mine! | 78.00% | ~37,109,202 |
+| Happy Returns | 77.00% | ~36,633,443 |
+| Field Promotion | 74.00% | ~35,206,166 |
+| Leadhead | 71.00% | ~33,778,889 |
+| Eradicator | 67.00% | ~31,875,853 |
+| Surplus | 65.00% | ~30,924,335 |
+| I Spy | 63.00% | ~29,972,817 |
+| Burn Baby Burn | 59.00% | ~28,069,781 |
+| Yellow Beats Green | 55.00% | ~26,166,745 |
+| Salvage Rights | 53.00% | ~25,215,227 |
+| What IS that? | 50.00% | ~23,787,950 |
+| Close Call | 49.00% | ~23,312,191 |
+| Penny Pincher | 49.00% | ~23,312,191 |
+| Pew Pew | 49.00% | ~23,312,191 |
+| Arsenal | 46.00% | ~21,884,914 |
+| Boot Camp | 45.00% | ~21,409,155 |
+| Flawless Victory | 42.00% | ~19,981,878 |
+| Confident | 40.00% | ~19,030,360 |
+| Exterminator | 36.00% | ~17,127,324 |
+| Sharpshooter | 33.00% | ~15,700,047 |
+| Great Ball of Fire | 32.00% | ~15,224,288 |
+| Not So Fast | 32.00% | ~15,224,288 |
+| No Sale | 30.00% | ~14,272,770 |
+| Kaboom! | 29.00% | ~13,797,011 |
+| Liquidator | 29.00% | ~13,797,011 |
+| High Voltage | 24.00% | ~11,418,216 |
+| Filthy Rich | 19.00% | ~9,039,421 |
+| Power Builder | 17.00% | ~8,087,903 |
+| Pyrrhic Victory | 17.00% | ~8,087,903 |
+| The Not-So-Friendly Skies | 17.00% | ~8,087,903 |
+| Death From Above | 16.00% | ~7,612,144 |
+| Retry | 16.00% | ~7,612,144 |
+| Head Trauma | 12.00% | ~5,709,108 |
+| Full Defense | 10.00% | ~4,757,590 |
+| Overseer | 9.00% | ~4,281,831 |
+| Annihilator | 8.00% | ~3,806,072 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~3,806,072 |
+| Indecisive | 6.00% | ~2,854,554 |
+| Base Defender | 5.00% | ~2,378,795 |
+| Relay Race | 5.00% | ~2,378,795 |
+| Diversity | 3.00% | ~1,427,277 |
+| Full Potential | 3.00% | ~1,427,277 |
+| Tower Expert | 3.00% | ~1,427,277 |
+| Minimalist | 2.00% | ~951,518 |
+| Nail Biter | 2.00% | ~951,518 |
+| The Long Road | 2.00% | ~951,518 |
+| Untouchable | 2.00% | ~951,518 |
+| Flurry | 1.00% | ~475,759 |
+| Siege Breaker | 1.00% | ~475,759 |
+| Well Invested | 1.00% | ~475,759 |
+| Gun Crazy | 0.90% | ~428,183 |
+| Planet Defender | 0.90% | ~428,183 |
+| Xenocide | 0.90% | ~428,183 |
+| Master Siege Breaker | 0.80% | ~380,607 |
+| Few and Proud | 0.80% | ~380,607 |
+| Shell-shocked | 0.70% | ~333,031 |
+| Alien Tears | 0.50% | ~237,880 |
+| Full House | 0.40% | ~190,304 |
+| Kickstarter | 0.30% | ~142,728 |
+| The Container | 0.30% | ~142,728 |
+| Foresight is 20/20 | 0.20% | ~95,152 |
+| Majestic Pony | 0.20% | ~95,152 |
+| Out of Bullets | 0.20% | ~95,152 |
+| Savant Genius | 0.20% | ~95,152 |
+| Beating A Dead Potato | 0.10% | ~47,576 |
+| Best Friends Forever | 0.10% | ~47,576 |
+| Top of the Class | 0.10% | ~47,576 |
+| Circular Hazard | 0.10% | ~47,576 |
+| Civil Divergence | 0.10% | ~47,576 |
+| Clean Getaway | 0.10% | ~47,576 |
+| Combat Turmoil | 0.10% | ~47,576 |
+| Core Container | 0.10% | ~47,576 |
+| Faithful Companion | 0.10% | ~47,576 |
+| Firebug | 0.10% | ~47,576 |
+| Fully Contained | 0.10% | ~47,576 |
+| Master Strategist | 0.10% | ~47,576 |
+| Mostly Dead | 0.10% | ~47,576 |
+| Clear Skies | 0.10% | ~47,576 |
+| Overflowing | 0.10% | ~47,576 |
+| Regional Deluge | 0.10% | ~47,576 |
+| So Many Spaces to Build On, So Little Time | 0.10% | ~47,576 |
+| Supreme Strategist | 0.10% | ~47,576 |
+| A Temporal Would've Been Nice | 0.10% | ~47,576 |
+| This is…spartan. | 0.10% | ~47,576 |
+| Contains Trace Amounts of Gold | 0.10% | ~47,576 |
+| You Monster | 0.10% | ~47,576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,757 (Ranked 25)  
+Progressed: 475,759 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +111,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-01 | 475,533 | 4 |
 | 2023-05-02 | 475,627 | 4 |
 | 2023-05-03 | 475,693 | 4 |
-| 2023-05-04 | 475,757 | 4 |
+| 2023-05-04 | 475,759 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

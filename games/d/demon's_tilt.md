@@ -1,4 +1,5 @@
 # DEMON'S TILT
+[View Rawdata](../../db/d/demon's_tilt.json)  
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 276  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 21  (Ranked 478)
 Sum: 21 (Ranked 478)  
 Diff (max vs sum): 0  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

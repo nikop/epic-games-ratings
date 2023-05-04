@@ -1,7 +1,8 @@
 # Cyberia 2 - Resurrection
+[View Rawdata](../../db/c/cyberia_2_-_resurrection.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

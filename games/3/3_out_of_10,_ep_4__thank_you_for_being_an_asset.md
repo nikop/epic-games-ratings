@@ -1,7 +1,8 @@
 # 3 out of 10, EP 4: Thank You For Being An Asset
+[View Rawdata](../../db/3/3_out_of_10,_ep_4__thank_you_for_being_an_asset.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

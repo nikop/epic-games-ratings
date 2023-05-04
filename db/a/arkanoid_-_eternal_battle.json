@@ -7,161 +7,184 @@
       "SetID": "nl7ma1",
       "Name": "Legend",
       "Percentage": 20,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_1",
       "SetID": "nl7ma1",
       "Name": "Champion",
       "Percentage": 20,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_10",
       "SetID": "nl7ma1",
       "Name": "Flawless Round",
       "Percentage": 20,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_11",
       "SetID": "nl7ma1",
       "Name": "Neo Victory",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_12",
       "SetID": "nl7ma1",
       "Name": "Arcade Room King",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_13",
       "SetID": "nl7ma1",
       "Name": "Versus Victory",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_14",
       "SetID": "nl7ma1",
       "Name": "Combo Pro",
       "Percentage": 40,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_15",
       "SetID": "nl7ma1",
       "Name": "Sense of Priorities",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_16",
       "SetID": "nl7ma1",
       "Name": "Business Acumen",
       "Percentage": 40,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_17",
       "SetID": "nl7ma1",
       "Name": "Chain Reaction",
       "Percentage": 40,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_18",
       "SetID": "nl7ma1",
       "Name": "Sound Barrier",
       "Percentage": 40,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_19",
       "SetID": "nl7ma1",
       "Name": "Juggler",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_2",
       "SetID": "nl7ma1",
       "Name": "Expert",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_20",
       "SetID": "nl7ma1",
       "Name": "Final chance",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_21",
       "SetID": "nl7ma1",
       "Name": "Final square (Eternal Battle)",
       "Percentage": 100,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 500
     },
     {
       "ID": "Achievement_22",
       "SetID": "nl7ma1",
       "Name": "I\u0027ll be back",
       "Percentage": 80,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 400
     },
     {
       "ID": "Achievement_3",
       "SetID": "nl7ma1",
       "Name": "Pro",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_4",
       "SetID": "nl7ma1",
       "Name": "Semi-pro",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_5",
       "SetID": "nl7ma1",
       "Name": "Victory Royale",
       "Percentage": 60,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 300
     },
     {
       "ID": "Achievement_6",
       "SetID": "nl7ma1",
       "Name": "Collector",
       "Percentage": 20,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_7",
       "SetID": "nl7ma1",
       "Name": "Purist",
       "Percentage": 20,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_8",
       "SetID": "nl7ma1",
       "Name": "Insatiable",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_9",
       "SetID": "nl7ma1",
       "Name": "Pacifist",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -182,13 +205,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:06:47.6611362+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:49.2244493+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:06:47.6611542+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:26.0153513+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:49.2244718+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:39.2432631+00:00",
   "AchievementSets": [
     {
       "ID": "nl7ma1",
@@ -204,7 +227,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,
   "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00"

@@ -1,4 +1,5 @@
 # Call of the Wild: The Angler™
+[View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
 Rating: 4.12 (Ranked 847)  
 Number of Ratings: 281  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,43 +7,43 @@ Max (Relaxing): 32  (Ranked 434)
 Sum: 158 (Ranked 373)  
 Diff (max vs sum): 61  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Fish Just Got Reel | 71.00 |
-| Hey Good Hookin | 61.00 |
-| I'm on a Boat! | 52.00 |
-| Scaling up | 45.00 |
-| Can you smell what the Rod is Hooking | 44.00 |
-| More Fish in the Sea | 37.00 |
-| Ready to Rod and Roll | 36.00 |
-| License to Gill | 31.00 |
-| Fish Out of Water | 29.00 |
-| Things that go Splash in the Night | 25.00 |
-| Goldfish? | 25.00 |
-| Going for Gold | 23.00 |
-| I'm Hooked! | 17.00 |
-| More than a Tourist | 13.00 |
-| Diamond in the Rough | 12.00 |
-| Hook, Line and Sinker | 8.00 |
-| Marathon | 8.00 |
-| Big Fish Small Pond | 6.00 |
-| I'm the Captain Now | 5.00 |
-| School's Out for Summer | 4.00 |
-| Gonna Need a Bigger Boat | 3.00 |
-| The Beetles | 2.00 |
-| Taylor Made | 2.00 |
-| Rod and Troll | 2.00 |
-| Head for Heights | 0.70 |
-| Fish upon a Star | 0.60 |
-| Lake Me up Before You Go Go | 0.50 |
-| Cache and Carry | 0.30 |
-| Golden Ridge Ranger | 0.20 |
-| Buckaroo | 0.20 |
-| Trollsporet Tale Teller | 0.20 |
-| Lost and Flounder | 0.10 |
-| Norway Jose | 0.10 |
-| No Fin left to give | 0.00 |
-| Have Fish, Will Travel | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Fish Just Got Reel | 71.00% | ~241,542 |
+| Hey Good Hookin | 61.00% | ~207,522 |
+| I'm on a Boat! | 52.00% | ~176,904 |
+| Scaling up | 45.00% | ~153,090 |
+| Can you smell what the Rod is Hooking | 44.00% | ~149,688 |
+| More Fish in the Sea | 37.00% | ~125,874 |
+| Ready to Rod and Roll | 36.00% | ~122,472 |
+| License to Gill | 31.00% | ~105,462 |
+| Fish Out of Water | 29.00% | ~98,658 |
+| Things that go Splash in the Night | 25.00% | ~85,050 |
+| Goldfish? | 25.00% | ~85,050 |
+| Going for Gold | 23.00% | ~78,246 |
+| I'm Hooked! | 17.00% | ~57,834 |
+| More than a Tourist | 13.00% | ~44,226 |
+| Diamond in the Rough | 12.00% | ~40,824 |
+| Hook, Line and Sinker | 8.00% | ~27,216 |
+| Marathon | 8.00% | ~27,216 |
+| Big Fish Small Pond | 6.00% | ~20,412 |
+| I'm the Captain Now | 5.00% | ~17,010 |
+| School's Out for Summer | 4.00% | ~13,608 |
+| Gonna Need a Bigger Boat | 3.00% | ~10,206 |
+| The Beetles | 2.00% | ~6,804 |
+| Taylor Made | 2.00% | ~6,804 |
+| Rod and Troll | 2.00% | ~5,548 |
+| Head for Heights | 0.70% | ~2,381 |
+| Fish upon a Star | 0.60% | ~1,664 |
+| Lake Me up Before You Go Go | 0.50% | ~1,701 |
+| Cache and Carry | 0.30% | ~832 |
+| Golden Ridge Ranger | 0.20% | ~680 |
+| Buckaroo | 0.20% | ~680 |
+| Trollsporet Tale Teller | 0.20% | ~555 |
+| Lost and Flounder | 0.10% | ~340 |
+| Norway Jose | 0.10% | ~277 |
+| No Fin left to give | 0.00% | ~0 |
+| Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,402 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 191)  

@@ -1,4 +1,5 @@
 # Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
+[View Rawdata](../../db/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.json)  
 Rating: 4.46 (Ranked 590)  
 Number of Ratings: 1,211  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 276  (Ranked 226)
 Sum: 276 (Ranked 328)  
 Diff (max vs sum): -102  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

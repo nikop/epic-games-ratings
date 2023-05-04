@@ -7,357 +7,408 @@
       "SetID": "819popo",
       "Name": "Advancement",
       "Percentage": 74,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1589668
     },
     {
       "ID": "Animated",
       "SetID": "819popo",
       "Name": "Animated",
       "Percentage": 25,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 537050
     },
     {
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 773352
     },
     {
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
       "Percentage": 27,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 580014
     },
     {
       "ID": "Catostrophic_Destroyer",
       "SetID": "819popo",
       "Name": "Catostrophic Destroyer",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 42964
     },
     {
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
       "Percentage": 42,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 902244
     },
     {
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 53,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1138546
     },
     {
       "ID": "Collector",
       "SetID": "819popo",
       "Name": "Collector",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 537050
     },
     {
       "ID": "Cultured",
       "SetID": "819popo",
       "Name": "Cultured",
       "Percentage": 53,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1138546
     },
     {
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 773352
     },
     {
       "ID": "Diabolical",
       "SetID": "819popo",
       "Name": "Diabolical",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 343712
     },
     {
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
       "Percentage": 63,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1353366
     },
     {
       "ID": "Dont_Need_These",
       "SetID": "819popo",
       "Name": "I don\u0027t need these",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 21482
     },
     {
       "ID": "Ectoplasmic_Entity",
       "SetID": "819popo",
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 515568
     },
     {
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
       "Percentage": 65,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1396330
     },
     {
       "ID": "Escape_Artist",
       "SetID": "819popo",
       "Name": "Escape Artist",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 343712
     },
     {
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 193338
     },
     {
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
       "Percentage": 55,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1181510
     },
     {
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 665942
     },
     {
       "ID": "Ghost_Expert",
       "SetID": "819popo",
       "Name": "Ghost Expert",
       "Percentage": 3,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 64446
     },
     {
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 644460
     },
     {
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
       "Percentage": 28,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 601496
     },
     {
       "ID": "Liability",
       "SetID": "819popo",
       "Name": "Liability",
       "Percentage": 11,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 236302
     },
     {
       "ID": "Line_Em_Up",
       "SetID": "819popo",
       "Name": "Line em\u0027 up",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 42964
     },
     {
       "ID": "Little_Help",
       "SetID": "819popo",
       "Name": "Little Help Here",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 42964
     },
     {
       "ID": "Master_Collector",
       "SetID": "819popo",
       "Name": "Master Collector",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 150374
     },
     {
       "ID": "Mycophile",
       "SetID": "819popo",
       "Name": "Mycophile",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21482
     },
     {
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 580014
     },
     {
       "ID": "Reckless",
       "SetID": "819popo",
       "Name": "Reckless",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 386676
     },
     {
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 451122
     },
     {
       "ID": "Rift_Seeker",
       "SetID": "819popo",
       "Name": "Rift Seeker",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 150374
     },
     {
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
       "Percentage": 26,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 558532
     },
     {
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 214820
     },
     {
       "ID": "Seasoned",
       "SetID": "819popo",
       "Name": "Seasoned",
       "Percentage": 16,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 343712
     },
     {
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 601496
     },
     {
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 537050
     },
     {
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 665942
     },
     {
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 580014
     },
     {
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
       "Percentage": 87,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1868934
     },
     {
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 580014
     },
     {
       "ID": "Surprise",
       "SetID": "819popo",
       "Name": "Surprise!",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 193338
     },
     {
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
       "Percentage": 56,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1202992
     },
     {
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
       "Percentage": 45,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 966690
     },
     {
       "ID": "Terrifying",
       "SetID": "819popo",
       "Name": "Terrifying",
       "Percentage": 17,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 365194
     },
     {
       "ID": "Therapeutic",
       "SetID": "819popo",
       "Name": "Therapeutic",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 150374
     },
     {
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
       "Percentage": 44,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 945208
     },
     {
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 408158
     },
     {
       "ID": "Ultimate_Defense",
       "SetID": "819popo",
       "Name": "Ultimate Defense",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 64446
     },
     {
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1052618
     },
     {
       "ID": "Welcome_Crew",
       "SetID": "819popo",
       "Name": "Welcome to the Crew",
       "Percentage": 33,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 708906
     },
     {
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 193338
     }
   ],
   "Tags": [
@@ -2129,13 +2180,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-04T22:06:35.0399014+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:39.816027+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 399,
   "EOS_Completed": 40,
   "EOS_Progressed": 21482,
-  "LastUpdate_Achievements": "2023-05-04T22:06:35.0399533+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:31.2226867+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:39.8160825+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:04.1633803+00:00",
   "AchievementSets": [
     {
       "ID": "819popo",

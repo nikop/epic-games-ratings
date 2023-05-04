@@ -1,9 +1,10 @@
 # Hob
+[View Rawdata](../../db/h/hob.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 466  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

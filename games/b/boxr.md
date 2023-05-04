@@ -1,4 +1,5 @@
 # BoxR
+[View Rawdata](../../db/b/boxr.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

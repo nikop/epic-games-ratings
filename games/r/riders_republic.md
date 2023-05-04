@@ -1,4 +1,5 @@
 # Riders Republic
+[View Rawdata](../../db/r/riders_republic.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 432  (Ranked 190)
 Sum: 3,892 (Ranked 132)  
 Diff (max vs sum): 58  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

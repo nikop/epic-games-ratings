@@ -1,17 +1,18 @@
 # ELEGIES Aya
+[View Rawdata](../../db/e/elegies_aya.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| You've met with a terrible fate haven't you? | 0.00 |
-| Nothing in life is to be feared | 0.00 |
-| Late night investigation | 0.00 |
-| Knock knock | 0.00 |
-| It's a trap! | 0.00 |
-| Like a ninja! | 0.00 |
-| Lights out | 0.00 |
-| Payback | 0.00 |
-| The end... or is it? | 0.00 |
-| Wrong turn | 0.00 |
-| Happy ever after | 0.00 |
-| Never fade away | 0.00 |
-| Thank you for playing! | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| You've met with a terrible fate haven't you? | 0.00% | ~0 |
+| Nothing in life is to be feared | 0.00% | ~0 |
+| Late night investigation | 0.00% | ~0 |
+| Knock knock | 0.00% | ~0 |
+| It's a trap! | 0.00% | ~0 |
+| Like a ninja! | 0.00% | ~0 |
+| Lights out | 0.00% | ~0 |
+| Payback | 0.00% | ~0 |
+| The end... or is it? | 0.00% | ~0 |
+| Wrong turn | 0.00% | ~0 |
+| Happy ever after | 0.00% | ~0 |
+| Never fade away | 0.00% | ~0 |
+| Thank you for playing! | 0.00% | ~0 |

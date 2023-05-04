@@ -1,12 +1,13 @@
 # Fallout 2: A Post Nuclear Role Playing Game
+[View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
 Rating: 4.76 (Ranked 113)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 62  (Ranked 373)  
 Sum: 62 (Ranked 426)  
 Diff (max vs sum): -53  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

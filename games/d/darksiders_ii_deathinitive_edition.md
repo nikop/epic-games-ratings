@@ -1,4 +1,5 @@
 # Darksiders II Deathinitive Edition
+[View Rawdata](../../db/d/darksiders_ii_deathinitive_edition.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 827  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 374  (Ranked 204)
 Sum: 575 (Ranked 282)  
 Diff (max vs sum): -78  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

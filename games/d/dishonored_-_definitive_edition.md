@@ -1,4 +1,5 @@
 # Dishonored - Definitive Edition
+[View Rawdata](../../db/d/dishonored_-_definitive_edition.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 234  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 517  (Ranked 179)
 Sum: 562 (Ranked 284)  
 Diff (max vs sum): -105  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

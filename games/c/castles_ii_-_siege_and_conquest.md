@@ -1,7 +1,8 @@
 # Castles II - Siege and Conquest
+[View Rawdata](../../db/c/castles_ii_-_siege_and_conquest.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

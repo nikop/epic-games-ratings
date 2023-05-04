@@ -7,343 +7,392 @@
       "SetID": "8gem5jc",
       "Name": "Achievement Achiever",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "BackerVisitor",
       "SetID": "8gem5jc",
       "Name": "Backer Visitor",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 108366
     },
     {
       "ID": "BoomBox",
       "SetID": "8gem5jc",
       "Name": "Boom Box Baby",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 21673
     },
     {
       "ID": "BoomBoxWipeout",
       "SetID": "8gem5jc",
       "Name": "Boom Box Wipeout",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "CantBelieve",
       "SetID": "8gem5jc",
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 21673
     },
     {
       "ID": "CantTouchThis",
       "SetID": "8gem5jc",
       "Name": "Can\u0027t Touch This",
       "Percentage": 0.1,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 5418
     },
     {
       "ID": "ElfChaser",
       "SetID": "8gem5jc",
       "Name": "Elf Chaser",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 54183
     },
     {
       "ID": "Explorer",
       "SetID": "8gem5jc",
       "Name": "Map Explorer",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16255
     },
     {
       "ID": "FallFest",
       "SetID": "8gem5jc",
       "Name": "Fall Fest",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 379281
     },
     {
       "ID": "FlyingPresent",
       "SetID": "8gem5jc",
       "Name": "Flying Present Catcher",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 270915
     },
     {
       "ID": "FlyingPresentMaster",
       "SetID": "8gem5jc",
       "Name": "Flying Present Ultimate Master",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 16255
     },
     {
       "ID": "FoodTaster",
       "SetID": "8gem5jc",
       "Name": "Food Taster",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 433464
     },
     {
       "ID": "FoolMeTwice",
       "SetID": "8gem5jc",
       "Name": "Fool Me Twice",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 54183
     },
     {
       "ID": "FoundAllBackers",
       "SetID": "8gem5jc",
       "Name": "Found All The Backers!",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "FunklordPower",
       "SetID": "8gem5jc",
       "Name": "FunkLord Power",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "Generous",
       "SetID": "8gem5jc",
       "Name": "Ridiculously Generous",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16255
     },
     {
       "ID": "GetThemAll",
       "SetID": "8gem5jc",
       "Name": "Gotta Get \u0027Em All",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5418
     },
     {
       "ID": "GimmieMyPresentBack",
       "SetID": "8gem5jc",
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 37928
     },
     {
       "ID": "HFZGoober",
       "SetID": "8gem5jc",
       "Name": "HFZ Goober",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 270915
     },
     {
       "ID": "HarshLove",
       "SetID": "8gem5jc",
       "Name": "Harsh Love",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 21673
     },
     {
       "ID": "HiFive",
       "SetID": "8gem5jc",
       "Name": "Hi Fiver",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 108366
     },
     {
       "ID": "IsThisPossible",
       "SetID": "8gem5jc",
       "Name": "Is This Really Possible?",
       "Percentage": 0.1,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 5418
     },
     {
       "ID": "LevelDiver",
       "SetID": "8gem5jc",
       "Name": "Level Diver",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 43346
     },
     {
       "ID": "LittleGirl",
       "SetID": "8gem5jc",
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 32510
     },
     {
       "ID": "LordOfHFZ",
       "SetID": "8gem5jc",
       "Name": "Lord Of The HFZ",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5418
     },
     {
       "ID": "MadHatter",
       "SetID": "8gem5jc",
       "Name": "Mad Hatter",
       "Percentage": 0.1,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 5418
     },
     {
       "ID": "MadeIt",
       "SetID": "8gem5jc",
       "Name": "Made It Through",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 21673
     },
     {
       "ID": "Money",
       "SetID": "8gem5jc",
       "Name": "99 Problems (But A Buck Ain\u0027t One)",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "NinePlayers",
       "SetID": "8gem5jc",
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16255
     },
     {
       "ID": "OldSchool",
       "SetID": "8gem5jc",
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 54183
     },
     {
       "ID": "PacifistVictory",
       "SetID": "8gem5jc",
       "Name": "Pacifist Victory",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5418
     },
     {
       "ID": "PieceOfCake",
       "SetID": "8gem5jc",
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 21673
     },
     {
       "ID": "Randomizer",
       "SetID": "8gem5jc",
       "Name": "Hate That Randomizer",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 108366
     },
     {
       "ID": "RhythmStar",
       "SetID": "8gem5jc",
       "Name": "Rhythm Star",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "RiskTaker",
       "SetID": "8gem5jc",
       "Name": "Broken Present Risk Taker",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 10837
     },
     {
       "ID": "Saint",
       "SetID": "8gem5jc",
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16255
     },
     {
       "ID": "SantasBag",
       "SetID": "8gem5jc",
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 37928
     },
     {
       "ID": "SecretLevel",
       "SetID": "8gem5jc",
       "Name": "Feet on Funkotron",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 108366
     },
     {
       "ID": "StruckLove",
       "SetID": "8gem5jc",
       "Name": "Struck By Love",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 10837
     },
     {
       "ID": "Sunflower",
       "SetID": "8gem5jc",
       "Name": "Sunflower Master",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 216732
     },
     {
       "ID": "Teamwork",
       "SetID": "8gem5jc",
       "Name": "Teamwork Rules",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 32510
     },
     {
       "ID": "TheWorstPossibleLuck",
       "SetID": "8gem5jc",
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 16255
     },
     {
       "ID": "ThrillSeeker",
       "SetID": "8gem5jc",
       "Name": "Thrill Seeker",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 325098
     },
     {
       "ID": "TimelySplash",
       "SetID": "8gem5jc",
       "Name": "A Timely Splash",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 108366
     },
     {
       "ID": "TotalBummer",
       "SetID": "8gem5jc",
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 32510
     },
     {
       "ID": "TrulyEvil",
       "SetID": "8gem5jc",
       "Name": "Truly Evil",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 10837
     },
     {
       "ID": "WakeyWakey",
       "SetID": "8gem5jc",
       "Name": "Wakey Wakey",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 54183
     },
     {
       "ID": "WhyDoIKeepDoingThat",
       "SetID": "8gem5jc",
       "Name": "Why Do I Keep Doing That?",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     },
     {
       "ID": "YouDidIt",
       "SetID": "8gem5jc",
       "Name": "Hey, You Did It!",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5418
     }
   ],
   "Tags": [],
@@ -1265,13 +1314,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T22:07:05.8998351+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:02.5592293+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 188,
   "EOS_Completed": 4,
   "EOS_Progressed": 54183,
-  "LastUpdate_Achievements": "2023-05-04T22:07:05.899916+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:43.2673148+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:02.5592841+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:28.9941761+00:00",
   "AchievementSets": [
     {
       "ID": "8gem5jc",

@@ -1,4 +1,5 @@
 # Cave Story+
+[View Rawdata](../../db/c/cave_story+.json)  
 Rating: 4.76 (Ranked 113)  
 Number of Ratings: 278  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 85  (Ranked 339)
 Sum: 85 (Ranked 403)  
 Diff (max vs sum): -64  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

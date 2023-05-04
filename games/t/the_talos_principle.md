@@ -1,9 +1,10 @@
 # The Talos Principle
+[View Rawdata](../../db/t/the_talos_principle.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

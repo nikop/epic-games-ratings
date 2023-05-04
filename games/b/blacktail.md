@@ -1,40 +1,41 @@
 # BLACKTAIL
+[View Rawdata](../../db/b/blacktail.json)  
 Rating: 4.67 (Ranked 255)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Tooth fairy | 25.00 |
-| Dental maturity | 18.00 |
-| Devil's in the details | 12.00 |
-| Uprooting | 11.00 |
-| Forbidden techniques | 11.00 |
-| Slavic squatter | 9.00 |
-| Devoted | 8.00 |
-| Spirit animal | 7.00 |
-| Gold rush | 6.00 |
-| Sneak peek | 4.00 |
-| Favorite | 4.00 |
-| Fishing fanatic | 4.00 |
-| The word around is... | 4.00 |
-| Liar Liar | 4.00 |
-| A friend in need... | 4.00 |
-| The cycle acknowledged | 4.00 |
-| Specialist | 4.00 |
-| Baba Yaga | 4.00 |
-| Extensive retelling | 3.00 |
-| Queen | 3.00 |
-| Witch's cookbook | 3.00 |
-| Goal! | 2.00 |
-| Gnowlledgeable | 2.00 |
-| Both sides | 2.00 |
-| Always worth a try | 2.00 |
-| Toxic | 2.00 |
-| Bad apple | 1.00 |
-| Loremaster | 1.00 |
-| Awards unwarded | 1.00 |
-| Entangled | 1.00 |
-| Mushrooming enthusiast | 0.30 |
-| Apex predator | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Tooth fairy | 25.00% | ~7,850 |
+| Dental maturity | 18.00% | ~5,652 |
+| Devil's in the details | 12.00% | ~3,768 |
+| Uprooting | 11.00% | ~3,454 |
+| Forbidden techniques | 11.00% | ~3,454 |
+| Slavic squatter | 9.00% | ~2,826 |
+| Devoted | 8.00% | ~2,512 |
+| Spirit animal | 7.00% | ~2,198 |
+| Gold rush | 6.00% | ~1,884 |
+| Sneak peek | 4.00% | ~1,256 |
+| Favorite | 4.00% | ~1,256 |
+| Fishing fanatic | 4.00% | ~1,256 |
+| The word around is... | 4.00% | ~1,256 |
+| Liar Liar | 4.00% | ~1,256 |
+| A friend in need... | 4.00% | ~1,256 |
+| The cycle acknowledged | 4.00% | ~1,256 |
+| Specialist | 4.00% | ~1,256 |
+| Baba Yaga | 4.00% | ~1,256 |
+| Extensive retelling | 3.00% | ~942 |
+| Queen | 3.00% | ~942 |
+| Witch's cookbook | 3.00% | ~942 |
+| Goal! | 2.00% | ~628 |
+| Gnowlledgeable | 2.00% | ~628 |
+| Both sides | 2.00% | ~628 |
+| Always worth a try | 2.00% | ~628 |
+| Toxic | 2.00% | ~628 |
+| Bad apple | 1.00% | ~314 |
+| Loremaster | 1.00% | ~314 |
+| Awards unwarded | 1.00% | ~314 |
+| Entangled | 1.00% | ~314 |
+| Mushrooming enthusiast | 0.30% | ~94 |
+| Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 314 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 191)  

@@ -1,9 +1,10 @@
 # Hello Neighbor: Hide and Seek
+[View Rawdata](../../db/h/hello_neighbor__hide_and_seek.json)  
 Rating: 4.46 (Ranked 590)  
 Number of Ratings: 81  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

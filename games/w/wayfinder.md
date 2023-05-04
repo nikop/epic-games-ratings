@@ -1,4 +1,5 @@
 # Wayfinder
+[View Rawdata](../../db/w/wayfinder.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

@@ -1,4 +1,5 @@
 # PC Building Simulator
+[View Rawdata](../../db/p/pc_building_simulator.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,62 +7,62 @@ Max (Great for Beginners): 1,033  (Ranked 131)
 Sum: 7,723 (Ranked 93)  
 Diff (max vs sum): 38  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| You need to plug it in... | 48.00 |
-| Easy to forget | 46.00 |
-| Back in the black | 38.00 |
-| That's what I'm talking about | 28.00 |
-| The Best of Both Worlds | 24.00 |
-| Get your wings | 20.00 |
-| Double trouble | 15.00 |
-| Smashing it | 10.00 |
-| But can it run Crysis? | 9.00 |
-| My favourite feature... | 9.00 |
-| From humble beginnings... | 7.00 |
-| Customer satisfaction | 7.00 |
-| Keeping things neat | 4.00 |
-| Seems you're pretty good at this | 4.00 |
-| Triple threat | 3.00 |
-| You rock at this! | 3.00 |
-| Your music sucks | 3.00 |
-| Bending over backwards | 3.00 |
-| I'm broke, Uncle! | 2.00 |
-| Maybe you should try something else? | 2.00 |
-| Taking care of business | 2.00 |
-| Perfection | 2.00 |
-| Calling in Sick | 2.00 |
-| Overvolted | 1.00 |
-| If you fail the first time... | 1.00 |
-| Amazonian | 1.00 |
-| Things are under control | 1.00 |
-| The Stuart Morton Award for Purpleness | 1.00 |
-| Building isn't cheap! | 1.00 |
-| Majority Shareholder | 1.00 |
-| Owner | 1.00 |
-| Show off | 0.90 |
-| Work ethic 101 | 0.60 |
-| Building momentum | 0.50 |
-| Lead by example | 0.50 |
-| Treat yourself - RAM | 0.50 |
-| So you're the reason why the prices are so high? | 0.30 |
-| Mr big business | 0.30 |
-| Getting your feet wet | 0.30 |
-| Customer's ALWAYS right. | 0.30 |
-| Treat yourself - CPU | 0.30 |
-| Mister Big | 0.20 |
-| Blow 'em away | 0.20 |
-| 1920x1080 | 0.10 |
-| Hasta La Vista, Baby. | 0.10 |
-| Wow to build a PC! | 0.10 |
-| Hoarder | 0.10 |
-| Sitting on a fortune | 0.10 |
-| Wow, you really like PCs | 0.10 |
-| Going loopy | 0.10 |
-| Stop it | 0.10 |
-| Treat yourself - GPU | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| You need to plug it in... | 48.00% | ~167,694,768 |
+| Easy to forget | 46.00% | ~160,707,486 |
+| Back in the black | 38.00% | ~132,758,358 |
+| That's what I'm talking about | 28.00% | ~97,821,948 |
+| The Best of Both Worlds | 24.00% | ~83,847,384 |
+| Get your wings | 20.00% | ~69,872,820 |
+| Double trouble | 15.00% | ~52,404,615 |
+| Smashing it | 10.00% | ~34,936,410 |
+| But can it run Crysis? | 9.00% | ~31,442,769 |
+| My favourite feature... | 9.00% | ~31,442,769 |
+| From humble beginnings... | 7.00% | ~24,455,487 |
+| Customer satisfaction | 7.00% | ~24,455,487 |
+| Keeping things neat | 4.00% | ~13,974,564 |
+| Seems you're pretty good at this | 4.00% | ~13,974,564 |
+| Triple threat | 3.00% | ~10,480,923 |
+| You rock at this! | 3.00% | ~10,480,923 |
+| Your music sucks | 3.00% | ~10,480,923 |
+| Bending over backwards | 3.00% | ~10,480,923 |
+| I'm broke, Uncle! | 2.00% | ~6,987,282 |
+| Maybe you should try something else? | 2.00% | ~6,987,282 |
+| Taking care of business | 2.00% | ~6,987,282 |
+| Perfection | 2.00% | ~6,987,282 |
+| Calling in Sick | 2.00% | ~6,987,282 |
+| Overvolted | 1.00% | ~3,493,641 |
+| If you fail the first time... | 1.00% | ~3,493,641 |
+| Amazonian | 1.00% | ~3,493,641 |
+| Things are under control | 1.00% | ~3,493,641 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~3,493,641 |
+| Building isn't cheap! | 1.00% | ~3,493,641 |
+| Majority Shareholder | 1.00% | ~3,493,641 |
+| Owner | 1.00% | ~3,493,641 |
+| Show off | 0.90% | ~3,144,277 |
+| Work ethic 101 | 0.60% | ~2,096,185 |
+| Building momentum | 0.50% | ~1,746,820 |
+| Lead by example | 0.50% | ~1,746,820 |
+| Treat yourself - RAM | 0.50% | ~1,746,820 |
+| So you're the reason why the prices are so high? | 0.30% | ~1,048,092 |
+| Mr big business | 0.30% | ~1,048,092 |
+| Getting your feet wet | 0.30% | ~1,048,092 |
+| Customer's ALWAYS right. | 0.30% | ~1,048,092 |
+| Treat yourself - CPU | 0.30% | ~1,048,092 |
+| Mister Big | 0.20% | ~698,728 |
+| Blow 'em away | 0.20% | ~698,728 |
+| 1920x1080 | 0.10% | ~349,364 |
+| Hasta La Vista, Baby. | 0.10% | ~349,364 |
+| Wow to build a PC! | 0.10% | ~349,364 |
+| Hoarder | 0.10% | ~349,364 |
+| Sitting on a fortune | 0.10% | ~349,364 |
+| Wow, you really like PCs | 0.10% | ~349,364 |
+| Going loopy | 0.10% | ~349,364 |
+| Stop it | 0.10% | ~349,364 |
+| Treat yourself - GPU | 0.10% | ~349,364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,638 (Ranked 3)  
+Progressed: 3,493,641 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +76,7 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,492,457 | 21 |
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
-| 2023-05-04 | 3,493,638 | 22 |
+| 2023-05-04 | 3,493,641 | 22 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

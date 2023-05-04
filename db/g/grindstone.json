@@ -7,343 +7,392 @@
       "SetID": "b8l3p0g",
       "Name": "Employee of the Month",
       "Percentage": 36,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 181692
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Off the Beaten Path",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 45423
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
       "SetID": "b8l3p0g",
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 186739
     },
     {
       "ID": "ACHIEVE_50_BONES",
       "SetID": "b8l3p0g",
       "Name": "Bone Collector",
       "Percentage": 35,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 176645
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
       "SetID": "b8l3p0g",
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 90846
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
       "SetID": "b8l3p0g",
       "Name": "Ghost Facers!",
       "Percentage": 27,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 136269
     },
     {
       "ID": "ACHIEVE_50_GOLD",
       "SetID": "b8l3p0g",
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 75705
     },
     {
       "ID": "ACHIEVE_50_GUTS",
       "SetID": "b8l3p0g",
       "Name": "Jerk-Slayer",
       "Percentage": 42,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 211974
     },
     {
       "ID": "ACHIEVE_50_ICE",
       "SetID": "b8l3p0g",
       "Name": "Best Party Guest",
       "Percentage": 15,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 75705
     },
     {
       "ID": "ACHIEVE_50_IRON",
       "SetID": "b8l3p0g",
       "Name": "Fe-Festival",
       "Percentage": 35,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 176645
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
       "SetID": "b8l3p0g",
       "Name": "Hot Potato",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 50470
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
       "SetID": "b8l3p0g",
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 70658
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
       "SetID": "b8l3p0g",
       "Name": "Budding Gardener",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 70658
     },
     {
       "ID": "ACHIEVE_50_WOOD",
       "SetID": "b8l3p0g",
       "Name": "Timber!",
       "Percentage": 60,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 302820
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
       "SetID": "b8l3p0g",
       "Name": "Yummy!",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 80752
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
       "SetID": "b8l3p0g",
       "Name": "Biohazard",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4038
     },
     {
       "ID": "ACHIEVE_CREATE_15_GRINDSTONE",
       "SetID": "b8l3p0g",
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 494606
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
       "SetID": "b8l3p0g",
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 312914
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
       "SetID": "b8l3p0g",
       "Name": "Top of the Food Chain",
       "Percentage": 32,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 161504
     },
     {
       "ID": "ACHIEVE_DODGE",
       "SetID": "b8l3p0g",
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 90846
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
       "SetID": "b8l3p0g",
       "Name": "The Fellowship",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 15141
     },
     {
       "ID": "ACHIEVE_FIREMAN",
       "SetID": "b8l3p0g",
       "Name": "Backdraft",
       "Percentage": 0.6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3028
     },
     {
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Fortunate Soul",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 247303
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 35329
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
       "SetID": "b8l3p0g",
       "Name": "Stop Hitting Each Other",
       "Percentage": 12,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 60564
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
       "SetID": "b8l3p0g",
       "Name": "The Poison You Just Drank",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 20188
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_1000",
       "SetID": "b8l3p0g",
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 393666
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
       "SetID": "b8l3p0g",
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 105987
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
       "SetID": "b8l3p0g",
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 267491
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
       "SetID": "b8l3p0g",
       "Name": "Ultimate Jerk",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 60564
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
       "SetID": "b8l3p0g",
       "Name": "Royal Flush",
       "Percentage": 62,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 312914
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
       "SetID": "b8l3p0g",
       "Name": "Royal Flush, Again",
       "Percentage": 18,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 90846
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "You\u0027re In a Cult, Call Your Dad",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 30282
     },
     {
       "ID": "ACHIEVE_LVL_150_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Survived The Slaughter",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 20188
     },
     {
       "ID": "ACHIEVE_LVL_15_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 297773
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Eternal Frenemies",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 15141
     },
     {
       "ID": "ACHIEVE_LVL_1_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "The Journey Begins",
       "Percentage": 98,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 494606
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Humerus Achievement",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 156457
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Shrub it Off",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 75705
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 45423
     },
     {
       "ID": "ACHIEVE_MIDAS",
       "SetID": "b8l3p0g",
       "Name": "The Midas Touch",
       "Percentage": 0.6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3028
     },
     {
       "ID": "ACHIEVE_MINERSET_MINING",
       "SetID": "b8l3p0g",
       "Name": "For Rock and Stone!",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 45423
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
       "SetID": "b8l3p0g",
       "Name": "OK Boomer",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4038
     },
     {
       "ID": "ACHIEVE_ONE_HEART_START",
       "SetID": "b8l3p0g",
       "Name": "Death Defied",
       "Percentage": 53,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 267491
     },
     {
       "ID": "ACHIEVE_PLATINUM",
       "SetID": "b8l3p0g",
       "Name": "Completionist",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACHIEVE_QUICK_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "That Was Quick",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 80752
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
       "SetID": "b8l3p0g",
       "Name": "Are We Good Guys Or Bad Guys?",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5047
     },
     {
       "ID": "ACHIEVE_SPARE_SLOB",
       "SetID": "b8l3p0g",
       "Name": "Pardon my Slob",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 161504
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
       "SetID": "b8l3p0g",
       "Name": "There is No Escape",
       "Percentage": 71,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 358337
     }
   ],
   "Tags": [],
@@ -557,13 +606,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T22:06:57.9614061+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:56.7809336+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 26,
   "EOS_Progressed": 5047,
-  "LastUpdate_Achievements": "2023-05-04T22:06:57.961448+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:56.3836377+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:56.7810023+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:59.109256+00:00",
   "AchievementSets": [
     {
       "ID": "b8l3p0g",

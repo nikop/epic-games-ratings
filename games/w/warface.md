@@ -1,4 +1,5 @@
 # Warface
+[View Rawdata](../../db/w/warface.json)  
 Rating: 3.92 (Ranked 891)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 387  (Ranked 201)
 Sum: 2,716 (Ranked 160)  
 Diff (max vs sum): 41  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

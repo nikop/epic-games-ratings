@@ -1,28 +1,29 @@
 # Wildcat Gun Machine
+[View Rawdata](../../db/w/wildcat_gun_machine.json)  
 Rating: 3.87 (Ranked 898)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| i'll be back | 0.00 |
-| like a cat | 0.00 |
-| can't touch this | 0.00 |
-| grenadier | 0.00 |
-| armed to the teeth | 0.00 |
-| fleet of foot | 0.00 |
-| armed and dangerous | 0.00 |
-| chain chain chain | 0.00 |
-| zinnerblilie, eye of the beast | 0.00 |
-| votolato, heart of the beast | 0.00 |
-| meat sack | 0.00 |
-| serbian, mind of the beast | 0.00 |
-| nosraep, true form of the beast | 0.00 |
-| the remnants | 0.00 |
-| rot belcher | 0.00 |
-| sluggoth | 0.00 |
-| spawning queen | 0.00 |
-| lock 'n' load | 0.00 |
-| defeat unspeakable horror | 0.00 |
-| unthinkable horror | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| i'll be back | 0.00% | ~0 |
+| like a cat | 0.00% | ~0 |
+| can't touch this | 0.00% | ~0 |
+| grenadier | 0.00% | ~0 |
+| armed to the teeth | 0.00% | ~0 |
+| fleet of foot | 0.00% | ~0 |
+| armed and dangerous | 0.00% | ~0 |
+| chain chain chain | 0.00% | ~0 |
+| zinnerblilie, eye of the beast | 0.00% | ~0 |
+| votolato, heart of the beast | 0.00% | ~0 |
+| meat sack | 0.00% | ~0 |
+| serbian, mind of the beast | 0.00% | ~0 |
+| nosraep, true form of the beast | 0.00% | ~0 |
+| the remnants | 0.00% | ~0 |
+| rot belcher | 0.00% | ~0 |
+| sluggoth | 0.00% | ~0 |
+| spawning queen | 0.00% | ~0 |
+| lock 'n' load | 0.00% | ~0 |
+| defeat unspeakable horror | 0.00% | ~0 |
+| unthinkable horror | 0.00% | ~0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

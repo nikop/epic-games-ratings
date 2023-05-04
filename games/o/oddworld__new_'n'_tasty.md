@@ -1,4 +1,5 @@
 # Oddworld: New 'n' Tasty
+[View Rawdata](../../db/o/oddworld__new_'n'_tasty.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 112  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Puzzles): 37  (Ranked 417)
 Sum: 37 (Ranked 446)  
 Diff (max vs sum): -29  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

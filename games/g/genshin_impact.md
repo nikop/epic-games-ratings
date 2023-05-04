@@ -1,13 +1,14 @@
 # Genshin Impact
+[View Rawdata](../../db/g/genshin_impact.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 219,180  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 294,973  (Ranked 3)  
-Sum: 1,326,615 (Ranked 3)  
+Sum: 1,326,739 (Ranked 3)  
 Diff (max vs sum): 0  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +18,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 115,547 |
 | This game has Amazing Storytelling | 112,708 |
 | This game is Highly Recommended | 111,785 |
-| This game is Extremely Fun | 110,405 |
+| This game is Extremely Fun | 110,529 |
 | This game is Relaxing | 107,906 |
 | This game has Quickly Understood Controls | 107,352 |
 | This game has Beautiful Visuals | 105,874 |
@@ -124,4 +125,4 @@ Diff (max vs sum): 0
 | 2023-05-01 | 4.68 | - | 293,912 | 1,320,542 |
 | 2023-05-02 | 4.68 | - | 294,401 | 1,323,432 |
 | 2023-05-03 | 4.68 | - | 294,791 | 1,325,804 |
-| 2023-05-04 | 4.68 | - | 294,973 | 1,326,615 |
+| 2023-05-04 | 4.68 | - | 294,973 | 1,326,739 |

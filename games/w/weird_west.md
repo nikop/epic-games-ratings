@@ -1,4 +1,5 @@
 # Weird West
+[View Rawdata](../../db/w/weird_west.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,61 +7,61 @@ Max (Impact the Story): 23  (Ranked 469)
 Sum: 23 (Ranked 471)  
 Diff (max vs sum): -2  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Unforgiven | 86.00 |
-| Self-Improvement | 71.00 |
-| Perky | 66.00 |
-| Let’s Ride | 60.00 |
-| Welcome to the Weird West | 58.00 |
-| Dead or Alive | 56.00 |
-| Full House | 37.00 |
-| Off the Trail | 34.00 |
-| Justice Served | 29.00 |
-| Chain Reaction | 27.00 |
-| Rain of Death | 25.00 |
-| Scholar | 25.00 |
-| Through Their Eyes | 25.00 |
-| Dishonored | 24.00 |
-| The Great Escape | 23.00 |
-| That’s All, Folks | 18.00 |
-| Fallen Star | 16.00 |
-| For Balance | 16.00 |
-| Winds of War | 16.00 |
-| Here Comes Santa Claus | 15.00 |
-| Dog Days | 13.00 |
-| Workers' Rights | 13.00 |
-| Elusive Prey | 12.00 |
-| Out on the Ebb Tide | 12.00 |
-| Power Behind the Pulpit | 12.00 |
-| Something Wicked This Way Comes… | 12.00 |
-| There is Hope | 12.00 |
-| Turning the Tables | 12.00 |
-| The Philosopher’s Stone | 10.00 |
-| Loyalty to the Pack | 9.00 |
-| Eternity Can Wait | 9.00 |
-| Mystery Machine | 9.00 |
-| Gold Digger | 8.00 |
-| Monster Hunter | 8.00 |
-| Knuckle Sandwich | 8.00 |
-| Do Not Pass Go… | 7.00 |
-| Getting the Gang Back Together | 7.00 |
-| Who You Gonna Call? | 6.00 |
-| Healing Old Wounds | 5.00 |
-| This Is Sparta | 5.00 |
-| What’s in the Box? | 5.00 |
-| Ghost Town | 3.00 |
-| Moondrunk | 3.00 |
-| Lord Inut Sends His Regards | 2.00 |
-| 'Ma Barker | 1.00 |
-| Hog Wild | 0.90 |
-| I Kicked a Bird and I Liked it | 0.70 |
-| End the world | 0.50 |
-| Explorer | 0.40 |
-| Moon Hunter | 0.40 |
-| Dirt and Blame | 0.30 |
-| Winter Has Come | 0.30 |
-| Revenant | 0.20 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Unforgiven | 86.00% | ~128,398 |
+| Self-Improvement | 71.00% | ~106,003 |
+| Perky | 66.00% | ~98,538 |
+| Let’s Ride | 60.00% | ~89,580 |
+| Welcome to the Weird West | 58.00% | ~86,594 |
+| Dead or Alive | 56.00% | ~83,608 |
+| Full House | 37.00% | ~55,241 |
+| Off the Trail | 34.00% | ~50,762 |
+| Justice Served | 29.00% | ~43,297 |
+| Chain Reaction | 27.00% | ~40,311 |
+| Rain of Death | 25.00% | ~37,325 |
+| Scholar | 25.00% | ~37,325 |
+| Through Their Eyes | 25.00% | ~37,325 |
+| Dishonored | 24.00% | ~35,832 |
+| The Great Escape | 23.00% | ~34,339 |
+| That’s All, Folks | 18.00% | ~26,874 |
+| Fallen Star | 16.00% | ~23,888 |
+| For Balance | 16.00% | ~23,888 |
+| Winds of War | 16.00% | ~23,888 |
+| Here Comes Santa Claus | 15.00% | ~22,395 |
+| Dog Days | 13.00% | ~19,409 |
+| Workers' Rights | 13.00% | ~19,409 |
+| Elusive Prey | 12.00% | ~17,916 |
+| Out on the Ebb Tide | 12.00% | ~17,916 |
+| Power Behind the Pulpit | 12.00% | ~17,916 |
+| Something Wicked This Way Comes… | 12.00% | ~17,916 |
+| There is Hope | 12.00% | ~17,916 |
+| Turning the Tables | 12.00% | ~17,916 |
+| The Philosopher’s Stone | 10.00% | ~14,930 |
+| Loyalty to the Pack | 9.00% | ~13,437 |
+| Eternity Can Wait | 9.00% | ~13,437 |
+| Mystery Machine | 9.00% | ~13,437 |
+| Gold Digger | 8.00% | ~11,944 |
+| Monster Hunter | 8.00% | ~11,944 |
+| Knuckle Sandwich | 8.00% | ~11,944 |
+| Do Not Pass Go… | 7.00% | ~10,451 |
+| Getting the Gang Back Together | 7.00% | ~10,451 |
+| Who You Gonna Call? | 6.00% | ~8,958 |
+| Healing Old Wounds | 5.00% | ~7,465 |
+| This Is Sparta | 5.00% | ~7,465 |
+| What’s in the Box? | 5.00% | ~7,465 |
+| Ghost Town | 3.00% | ~4,479 |
+| Moondrunk | 3.00% | ~4,479 |
+| Lord Inut Sends His Regards | 2.00% | ~2,986 |
+| 'Ma Barker | 1.00% | ~1,493 |
+| Hog Wild | 0.90% | ~1,344 |
+| I Kicked a Bird and I Liked it | 0.70% | ~1,045 |
+| End the world | 0.50% | ~746 |
+| Explorer | 0.40% | ~597 |
+| Moon Hunter | 0.40% | ~597 |
+| Dirt and Blame | 0.30% | ~448 |
+| Winter Has Come | 0.30% | ~448 |
+| Revenant | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,493 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 144)  

@@ -7,168 +7,192 @@
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
       "Percentage": 99,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7524
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
       "Percentage": 87,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6612
     },
     {
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3800
     },
     {
       "ID": "04-CharminTheSnake",
       "SetID": "5iij4gg",
       "Name": "Charmin\u0027 the Snake",
       "Percentage": 36,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2736
     },
     {
       "ID": "05-DrumsInTheDeep",
       "SetID": "5iij4gg",
       "Name": "Drums in the Deep",
       "Percentage": 21,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1596
     },
     {
       "ID": "06-CantBearTheWeight",
       "SetID": "5iij4gg",
       "Name": "Can\u0027t bear the weight",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 380
     },
     {
       "ID": "07-TakeTheScenicRoute",
       "SetID": "5iij4gg",
       "Name": "Take the Scenic Route",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 988
     },
     {
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
       "Percentage": 21,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1596
     },
     {
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3800
     },
     {
       "ID": "10-BridgeBuilder",
       "SetID": "5iij4gg",
       "Name": "Bridge Builder",
       "Percentage": 21,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1596
     },
     {
       "ID": "11-StGeorgesGauntlet",
       "SetID": "5iij4gg",
       "Name": "St. George\u0027s Gauntlet",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 836
     },
     {
       "ID": "12-RedbeardsRevenger",
       "SetID": "5iij4gg",
       "Name": "Redbeard\u0027s Revenger",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 912
     },
     {
       "ID": "13-TreasureHunter",
       "SetID": "5iij4gg",
       "Name": "Treasure Hunter",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 988
     },
     {
       "ID": "14-EggOnHisFace",
       "SetID": "5iij4gg",
       "Name": "Egg On His Face",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 532
     },
     {
       "ID": "15-BJAndTheBear",
       "SetID": "5iij4gg",
       "Name": "BJ \u0026 The Bear",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 684
     },
     {
       "ID": "16-MrMagic",
       "SetID": "5iij4gg",
       "Name": "Mr. Magic",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 684
     },
     {
       "ID": "17-BatteriesNotIncluded",
       "SetID": "5iij4gg",
       "Name": "Batteries not Included",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 380
     },
     {
       "ID": "18-GreenThumbGoliath",
       "SetID": "5iij4gg",
       "Name": "Green Thumb Goliath",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 988
     },
     {
       "ID": "19-WhoDat",
       "SetID": "5iij4gg",
       "Name": "Who dat?",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 532
     },
     {
       "ID": "20-SoftHands",
       "SetID": "5iij4gg",
       "Name": "Soft Hands",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 608
     },
     {
       "ID": "21-ColossalCaveExplorer",
       "SetID": "5iij4gg",
       "Name": "Colossal Cave Explorer",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 304
     },
     {
       "ID": "22-MasterCavePlunderer",
       "SetID": "5iij4gg",
       "Name": "Master Cave Plunderer",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 380
     },
     {
       "ID": "23-WhatAWinner",
       "SetID": "5iij4gg",
       "Name": "What a Winner!",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 380
     },
     {
       "ID": "24-PerfectJustPerfect",
       "SetID": "5iij4gg",
       "Name": "Perfect 350 pt score",
       "Percentage": 3,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 228
     }
   ],
   "Tags": [],
@@ -189,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:07:03.2667891+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:00.6009118+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 76,
-  "LastUpdate_Achievements": "2023-05-04T22:07:03.2668158+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:25.9211636+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:00.6009389+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:18.6532024+00:00",
   "AchievementSets": [
     {
       "ID": "5iij4gg",
@@ -211,7 +235,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 254,
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00"

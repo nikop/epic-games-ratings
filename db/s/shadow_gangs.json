@@ -7,294 +7,336 @@
       "SetID": "ab7e240",
       "Name": "Took the challenge",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 300
     },
     {
       "ID": "1",
       "SetID": "ab7e240",
       "Name": "City Completed",
       "Percentage": -33.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": -100
     },
     {
       "ID": "10",
       "SetID": "ab7e240",
       "Name": "Temple level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "11",
       "SetID": "ab7e240",
       "Name": "Mission I finished",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "12",
       "SetID": "ab7e240",
       "Name": "Mission II finished",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "13",
       "SetID": "ab7e240",
       "Name": "Mission III finished",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "14",
       "SetID": "ab7e240",
       "Name": "Mission IV finished",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "15",
       "SetID": "ab7e240",
       "Name": "Mission V finished",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "16",
       "SetID": "ab7e240",
       "Name": "First shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "17",
       "SetID": "ab7e240",
       "Name": "Second shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "18",
       "SetID": "ab7e240",
       "Name": "Third shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "19",
       "SetID": "ab7e240",
       "Name": "Fourth shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "2",
       "SetID": "ab7e240",
       "Name": "Bridge level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "20",
       "SetID": "ab7e240",
       "Name": "First ninja bonus stage beaten",
       "Percentage": -33.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": -100
     },
     {
       "ID": "21",
       "SetID": "ab7e240",
       "Name": "Second ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "22",
       "SetID": "ab7e240",
       "Name": "Third ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "23",
       "SetID": "ab7e240",
       "Name": "Fourth ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "24",
       "SetID": "ab7e240",
       "Name": "Fifth ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "25",
       "SetID": "ab7e240",
       "Name": "Sixth ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "26",
       "SetID": "ab7e240",
       "Name": "Seventh ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "27",
       "SetID": "ab7e240",
       "Name": "Eighth ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "28",
       "SetID": "ab7e240",
       "Name": "Ninth ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "29",
       "SetID": "ab7e240",
       "Name": "Tenth ninja bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "3",
       "SetID": "ab7e240",
       "Name": "Forest level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "30",
       "SetID": "ab7e240",
       "Name": "Power Start",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "31",
       "SetID": "ab7e240",
       "Name": "Pirate Ship",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "32",
       "SetID": "ab7e240",
       "Name": "Cave Treasure Room",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "33",
       "SetID": "ab7e240",
       "Name": "Collin reappears",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "34",
       "SetID": "ab7e240",
       "Name": "Fifth shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "35",
       "SetID": "ab7e240",
       "Name": "Sixth shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "36",
       "SetID": "ab7e240",
       "Name": "Seventh shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "37",
       "SetID": "ab7e240",
       "Name": "Eighth shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "38",
       "SetID": "ab7e240",
       "Name": "Ninth shoot bonus stage beaten",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "39",
       "SetID": "ab7e240",
       "Name": "Finished the game on Rising Ninja",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "4",
       "SetID": "ab7e240",
       "Name": "Canyon level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "40",
       "SetID": "ab7e240",
       "Name": "Finished the game on Ninja",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "41",
       "SetID": "ab7e240",
       "Name": "Finished the game on Crimson Ninja",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "5",
       "SetID": "ab7e240",
       "Name": "Cave level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "6",
       "SetID": "ab7e240",
       "Name": "Subway level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "7",
       "SetID": "ab7e240",
       "Name": "Factory level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "8",
       "SetID": "ab7e240",
       "Name": "Train level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "9",
       "SetID": "ab7e240",
       "Name": "Bamboo level completed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -308,13 +350,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-04T22:06:32.0577167+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:37.5350295+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 3,
-  "LastUpdate_Achievements": "2023-05-04T22:06:32.0577706+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:19.0840131+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:37.5350845+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:56.045504+00:00",
   "AchievementSets": [
     {
       "ID": "ab7e240",
@@ -325,7 +367,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 338,
   "FirstSeenAchievements": "2023-04-25T20:49:03.5861059+00:00"

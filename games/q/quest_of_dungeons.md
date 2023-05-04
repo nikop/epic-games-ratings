@@ -1,32 +1,33 @@
 # Quest of Dungeons
+[View Rawdata](../../db/q/quest_of_dungeons.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Dangerous path | 3.00 |
-| Easy breezy? | 0.00 |
-| Some challenge | 0.00 |
-| How hard can it be? | 0.00 |
-| Trickery | 0.00 |
-| Willpower | 0.00 |
-| The mana within | 0.00 |
-| From a distance | 0.00 |
-| Fly you fool! | 0.00 |
-| Key Master | 0.00 |
-| I have the key | 0.00 |
-| Shopaholic | 0.00 |
-| Paper boy | 0.00 |
-| You have 50 jobs | 0.00 |
-| Every corner | 0.00 |
-| Gold Collector | 0.00 |
-| Listen Closely | 0.00 |
-| Is this Hell? | 0.00 |
-| Ghost from the Past | 0.00 |
-| Revenge of the Jellies | 0.00 |
-| The Architect | 0.00 |
-| Rock on! | 0.00 |
-| Beat the odds! | 0.00 |
-| The Slayer! | 0.00 |
-| Back for more | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Dangerous path | 3.00% | ~117 |
+| Easy breezy? | 0.00% | ~0 |
+| Some challenge | 0.00% | ~0 |
+| How hard can it be? | 0.00% | ~0 |
+| Trickery | 0.00% | ~0 |
+| Willpower | 0.00% | ~0 |
+| The mana within | 0.00% | ~0 |
+| From a distance | 0.00% | ~0 |
+| Fly you fool! | 0.00% | ~0 |
+| Key Master | 0.00% | ~0 |
+| I have the key | 0.00% | ~0 |
+| Shopaholic | 0.00% | ~0 |
+| Paper boy | 0.00% | ~0 |
+| You have 50 jobs | 0.00% | ~0 |
+| Every corner | 0.00% | ~0 |
+| Gold Collector | 0.00% | ~0 |
+| Listen Closely | 0.00% | ~0 |
+| Is this Hell? | 0.00% | ~0 |
+| Ghost from the Past | 0.00% | ~0 |
+| Revenge of the Jellies | 0.00% | ~0 |
+| The Architect | 0.00% | ~0 |
+| Rock on! | 0.00% | ~0 |
+| Beat the odds! | 0.00% | ~0 |
+| The Slayer! | 0.00% | ~0 |
+| Back for more | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 39 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 191)  

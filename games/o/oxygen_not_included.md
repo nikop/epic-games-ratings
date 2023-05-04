@@ -1,4 +1,5 @@
 # Oxygen Not Included
+[View Rawdata](../../db/o/oxygen_not_included.json)  
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 897  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 249  (Ranked 236)
 Sum: 2,155 (Ranked 176)  
 Diff (max vs sum): 60  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,7 +1,8 @@
 # Snowtopia - Ski Resort Builder
+[View Rawdata](../../db/s/snowtopia_-_ski_resort_builder.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

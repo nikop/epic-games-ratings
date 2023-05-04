@@ -1,7 +1,8 @@
 # Lost Words: Beyond the Page
+[View Rawdata](../../db/l/lost_words__beyond_the_page.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

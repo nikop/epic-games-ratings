@@ -1,9 +1,10 @@
 # Assassin's Creed® III: Remastered
+[View Rawdata](../../db/a/assassin's_creed®_iii__remastered.json)  
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 257  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

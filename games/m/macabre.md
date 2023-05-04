@@ -1,4 +1,5 @@
 # Macabre
+[View Rawdata](../../db/m/macabre.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

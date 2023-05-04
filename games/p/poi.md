@@ -1,32 +1,33 @@
 # Poi
+[View Rawdata](../../db/p/poi.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Bonk! | 100.00 |
-| Junior Explorer | 100.00 |
-| First Death | 50.00 |
-| Big Spender | 50.00 |
-| Classic Platforming | 50.00 |
-| POW! | 50.00 |
-| Planet K-0 | 50.00 |
-| Costume Quest | 0.00 |
-| Master Mechanic | 0.00 |
-| Tour Guide | 0.00 |
-| Master Explorer | 0.00 |
-| Cozy Canyon Mastery | 0.00 |
-| Crystal Cavern Mastery | 0.00 |
-| Mount Magma Mastery | 0.00 |
-| Sinking Sands Mastery | 0.00 |
-| Pin Bird Protector | 0.00 |
-| Creature Biologist | 0.00 |
-| The Milky Way Globe | 0.00 |
-| An Alternate Dimension | 0.00 |
-| Fledgling Explorer | 0.00 |
-| To the Mysterious Gate! | 0.00 |
-| The Amazing Archaeologist | 0.00 |
-| Hat Kid | 0.00 |
-| Meet the Merchant | 0.00 |
-| Say Cheese! | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Bonk! | 100.00% | ~200 |
+| Junior Explorer | 100.00% | ~200 |
+| First Death | 50.00% | ~100 |
+| Big Spender | 50.00% | ~100 |
+| Classic Platforming | 50.00% | ~100 |
+| POW! | 50.00% | ~100 |
+| Planet K-0 | 50.00% | ~100 |
+| Costume Quest | 0.00% | ~0 |
+| Master Mechanic | 0.00% | ~0 |
+| Tour Guide | 0.00% | ~0 |
+| Master Explorer | 0.00% | ~0 |
+| Cozy Canyon Mastery | 0.00% | ~0 |
+| Crystal Cavern Mastery | 0.00% | ~0 |
+| Mount Magma Mastery | 0.00% | ~0 |
+| Sinking Sands Mastery | 0.00% | ~0 |
+| Pin Bird Protector | 0.00% | ~0 |
+| Creature Biologist | 0.00% | ~0 |
+| The Milky Way Globe | 0.00% | ~0 |
+| An Alternate Dimension | 0.00% | ~0 |
+| Fledgling Explorer | 0.00% | ~0 |
+| To the Mysterious Gate! | 0.00% | ~0 |
+| The Amazing Archaeologist | 0.00% | ~0 |
+| Hat Kid | 0.00% | ~0 |
+| Meet the Merchant | 0.00% | ~0 |
+| Say Cheese! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  

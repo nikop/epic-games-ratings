@@ -1,4 +1,5 @@
 # Jurassic World Evolution
+[View Rawdata](../../db/j/jurassic_world_evolution.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 9,223  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 530  (Ranked 177)
 Sum: 4,793 (Ranked 123)  
 Diff (max vs sum): 54  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

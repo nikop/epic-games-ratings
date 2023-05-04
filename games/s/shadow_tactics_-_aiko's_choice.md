@@ -1,4 +1,5 @@
 # Shadow Tactics - Aiko's Choice
+[View Rawdata](../../db/s/shadow_tactics_-_aiko's_choice.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 68  (Ranked 364)
 Sum: 68 (Ranked 419)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

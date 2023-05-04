@@ -1,27 +1,28 @@
 # Shoulders of Giants
+[View Rawdata](../../db/s/shoulders_of_giants.json)  
 Rating: 4.26 (Ranked 771)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| On the Shoulders of Giants | 88.00 |
-| A Ribbiting Performance | 79.00 |
-| At Least We Have Each Other... | 77.00 |
-| Frogbot | 74.00 |
-| Ouch | 57.00 |
-| Fun in the Stun | 57.00 |
-| Do you feel like a tough guy? | 47.00 |
-| The Interdimensional Power of Friendship | 46.00 |
-| Turn Up The HEAT | 41.00 |
-| Stop Hitting Yourself! | 36.00 |
-| Nothing to Wear | 32.00 |
-| The First Law of Thermodynamics | 28.00 |
-| Do you trust me? | 16.00 |
-| The Second Law of Thermodynamics | 15.00 |
-| The Third Law of Thermodynamics | 9.00 |
-| Say "Cheese!" | 8.00 |
-| Taking Out the Trash | 7.00 |
-| Better Than the Devs | 4.00 |
-| So do we just stay up here, or?... | 2.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| On the Shoulders of Giants | 88.00% | ~163,240 |
+| A Ribbiting Performance | 79.00% | ~146,545 |
+| At Least We Have Each Other... | 77.00% | ~142,835 |
+| Frogbot | 74.00% | ~137,270 |
+| Ouch | 57.00% | ~105,735 |
+| Fun in the Stun | 57.00% | ~105,735 |
+| Do you feel like a tough guy? | 47.00% | ~87,185 |
+| The Interdimensional Power of Friendship | 46.00% | ~85,330 |
+| Turn Up The HEAT | 41.00% | ~76,055 |
+| Stop Hitting Yourself! | 36.00% | ~66,780 |
+| Nothing to Wear | 32.00% | ~59,360 |
+| The First Law of Thermodynamics | 28.00% | ~51,940 |
+| Do you trust me? | 16.00% | ~29,680 |
+| The Second Law of Thermodynamics | 15.00% | ~27,825 |
+| The Third Law of Thermodynamics | 9.00% | ~16,695 |
+| Say "Cheese!" | 8.00% | ~14,840 |
+| Taking Out the Trash | 7.00% | ~12,985 |
+| Better Than the Devs | 4.00% | ~7,420 |
+| So do we just stay up here, or?... | 2.00% | ~3,710 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,855 (Ranked 144)  
 Completed: 6 (0.32%) (Ranked 113)  

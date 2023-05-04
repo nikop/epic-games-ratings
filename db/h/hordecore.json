@@ -7,196 +7,224 @@
       "SetID": "1530e6b",
       "Name": "Just Went Shopping",
       "Percentage": 98,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 32144
     },
     {
       "ID": "10",
       "SetID": "1530e6b",
       "Name": "How I Met Your Nana",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1312
     },
     {
       "ID": "11",
       "SetID": "1530e6b",
       "Name": "Getting the Hang Of This",
       "Percentage": 47,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 15416
     },
     {
       "ID": "12",
       "SetID": "1530e6b",
       "Name": "Untapped Potential",
       "Percentage": 17,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 5576
     },
     {
       "ID": "13",
       "SetID": "1530e6b",
       "Name": "Limitless",
       "Percentage": 10,
-      "XP": 85
+      "XP": 85,
+      "UsersEstimate": 3280
     },
     {
       "ID": "14",
       "SetID": "1530e6b",
       "Name": "Lord of the Wastes",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 984
     },
     {
       "ID": "15",
       "SetID": "1530e6b",
       "Name": "Size Doesn\u2019t Matter",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4264
     },
     {
       "ID": "16",
       "SetID": "1530e6b",
       "Name": "Totally Swamped",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3608
     },
     {
       "ID": "17",
       "SetID": "1530e6b",
       "Name": "Hammer Time",
       "Percentage": 10,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3280
     },
     {
       "ID": "18",
       "SetID": "1530e6b",
       "Name": "I Choo-Choo-Choose You",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3936
     },
     {
       "ID": "19",
       "SetID": "1530e6b",
       "Name": "That\u2019s What Friends Are For",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6560
     },
     {
       "ID": "2",
       "SetID": "1530e6b",
       "Name": "Decision Maker",
       "Percentage": 80,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 26240
     },
     {
       "ID": "20",
       "SetID": "1530e6b",
       "Name": "Is Anyone Out There?",
       "Percentage": 11,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3608
     },
     {
       "ID": "21",
       "SetID": "1530e6b",
       "Name": "My Savior!",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4264
     },
     {
       "ID": "22",
       "SetID": "1530e6b",
       "Name": "Poker-Man",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6888
     },
     {
       "ID": "23",
       "SetID": "1530e6b",
       "Name": "Collector",
       "Percentage": 29,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9512
     },
     {
       "ID": "24",
       "SetID": "1530e6b",
       "Name": "Over Nine Thousaaand",
       "Percentage": 56,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 18368
     },
     {
       "ID": "25",
       "SetID": "1530e6b",
       "Name": "Through Hell and Back",
       "Percentage": 3,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 984
     },
     {
       "ID": "26",
       "SetID": "1530e6b",
       "Name": "KOBEEE!",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1312
     },
     {
       "ID": "27",
       "SetID": "1530e6b",
       "Name": "Hired Goon",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1968
     },
     {
       "ID": "28",
       "SetID": "1530e6b",
       "Name": "Holy Scrap!",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1968
     },
     {
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
       "Percentage": 78,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 25584
     },
     {
       "ID": "4",
       "SetID": "1530e6b",
       "Name": "Master of Cards",
       "Percentage": 59,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 19352
     },
     {
       "ID": "5",
       "SetID": "1530e6b",
       "Name": "DIY",
       "Percentage": 78,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 25584
     },
     {
       "ID": "6",
       "SetID": "1530e6b",
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 19,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 6232
     },
     {
       "ID": "7",
       "SetID": "1530e6b",
       "Name": "Blow \u2018Em Up",
       "Percentage": 20,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 6560
     },
     {
       "ID": "8",
       "SetID": "1530e6b",
       "Name": "Master Chef",
       "Percentage": 65,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21320
     },
     {
       "ID": "9",
       "SetID": "1530e6b",
       "Name": "Played by Gramps",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4592
     }
   ],
   "Tags": [],
@@ -232,13 +260,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:06:53.0564951+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:53.2733756+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 10,
   "EOS_Progressed": 328,
-  "LastUpdate_Achievements": "2023-05-04T22:06:53.0565164+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:51.1142078+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:53.2733953+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:55.2101028+00:00",
   "AchievementSets": [
     {
       "ID": "1530e6b",

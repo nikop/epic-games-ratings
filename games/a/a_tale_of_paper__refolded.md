@@ -1,36 +1,37 @@
 # A Tale of Paper: Refolded
+[View Rawdata](../../db/a/a_tale_of_paper__refolded.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Apprentice | 0.00 |
-| AirFlow | 0.00 |
-| Bad Swimmer | 0.00 |
-| Back Together | 0.00 |
-| Crazy Legs | 0.00 |
-| Dedicated Historian | 0.00 |
-| Dev Room | 0.00 |
-| deja vu | 0.00 |
-| Educational visit | 0.00 |
-| Family Reunion | 0.00 |
-| Good Deed | 0.00 |
-| Good Listener | 0.00 |
-| Heavyweight | 0.00 |
-| House Tour | 0.00 |
-| I Believe in You! | 0.00 |
-| King Fisherman | 0.00 |
-| Lightweight | 0.00 |
-| Last Goodbye | 0.00 |
-| Moving Out | 0.00 |
-| Nest's Finest | 0.00 |
-| Not over yet? | 0.00 |
-| Not your Black and White boy | 0.00 |
-| Now you see me? | 0.00 |
-| Origami Beginner | 0.00 |
-| Professional Dunker | 0.00 |
-| Pure Skill | 0.00 |
-| Roomba Rider | 0.00 |
-| So Close | 0.00 |
-| The Journey Begins | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Apprentice | 0.00% | ~0 |
+| AirFlow | 0.00% | ~0 |
+| Bad Swimmer | 0.00% | ~0 |
+| Back Together | 0.00% | ~0 |
+| Crazy Legs | 0.00% | ~0 |
+| Dedicated Historian | 0.00% | ~0 |
+| Dev Room | 0.00% | ~0 |
+| deja vu | 0.00% | ~0 |
+| Educational visit | 0.00% | ~0 |
+| Family Reunion | 0.00% | ~0 |
+| Good Deed | 0.00% | ~0 |
+| Good Listener | 0.00% | ~0 |
+| Heavyweight | 0.00% | ~0 |
+| House Tour | 0.00% | ~0 |
+| I Believe in You! | 0.00% | ~0 |
+| King Fisherman | 0.00% | ~0 |
+| Lightweight | 0.00% | ~0 |
+| Last Goodbye | 0.00% | ~0 |
+| Moving Out | 0.00% | ~0 |
+| Nest's Finest | 0.00% | ~0 |
+| Not over yet? | 0.00% | ~0 |
+| Not your Black and White boy | 0.00% | ~0 |
+| Now you see me? | 0.00% | ~0 |
+| Origami Beginner | 0.00% | ~0 |
+| Professional Dunker | 0.00% | ~0 |
+| Pure Skill | 0.00% | ~0 |
+| Roomba Rider | 0.00% | ~0 |
+| So Close | 0.00% | ~0 |
+| The Journey Begins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 191)  

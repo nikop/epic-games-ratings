@@ -1,8 +1,9 @@
 # Shady Part of Me
+[View Rawdata](../../db/s/shady_part_of_me.json)  
 Rating: 4.71 (Ranked 178)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,9 +1,10 @@
 # Close To The Sun
+[View Rawdata](../../db/c/close_to_the_sun.json)  
 Rating: 3.98 (Ranked 882)  
 Number of Ratings: 147  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

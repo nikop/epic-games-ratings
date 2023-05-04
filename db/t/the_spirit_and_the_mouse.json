@@ -7,280 +7,320 @@
       "SetID": "bbgli2k",
       "Name": "Take a break",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 70
     },
     {
       "ID": "brokenbox",
       "SetID": "bbgli2k",
       "Name": "Out of service",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 700
     },
     {
       "ID": "energy050",
       "SetID": "bbgli2k",
       "Name": "Energy Seeker",
       "Percentage": 90,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6300
     },
     {
       "ID": "energy1500",
       "SetID": "bbgli2k",
       "Name": "Unlimited Power!!",
       "Percentage": 21,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1470
     },
     {
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
       "Percentage": 71,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4970
     },
     {
       "ID": "energy800",
       "SetID": "bbgli2k",
       "Name": "Energy Expert",
       "Percentage": 43,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3010
     },
     {
       "ID": "gadx",
       "SetID": "bbgli2k",
       "Name": "The GA-DX",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 280
     },
     {
       "ID": "grilledmouse",
       "SetID": "bbgli2k",
       "Name": "Grilled Mouse",
       "Percentage": 84,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5880
     },
     {
       "ID": "kibblinbox.all",
       "SetID": "bbgli2k",
       "Name": "At your service",
       "Percentage": 13,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 910
     },
     {
       "ID": "lightbulbs.all",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Master",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 630
     },
     {
       "ID": "lightbulbs.east",
       "SetID": "bbgli2k",
       "Name": "East Street Lightbulbs",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 700
     },
     {
       "ID": "lightbulbs.north",
       "SetID": "bbgli2k",
       "Name": "North Town Lightbulbs",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 630
     },
     {
       "ID": "lightbulbs.south",
       "SetID": "bbgli2k",
       "Name": "South Square Lightbulbs",
       "Percentage": 17,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1190
     },
     {
       "ID": "lightbulbs.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Lightbulbs",
       "Percentage": 13,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 910
     },
     {
       "ID": "lightbulbs1",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Seeker",
       "Percentage": 87,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6090
     },
     {
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
       "Percentage": 76,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5320
     },
     {
       "ID": "lightbulbs100",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Detective",
       "Percentage": 23,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1610
     },
     {
       "ID": "lightbulbs50",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Expert",
       "Percentage": 43,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3010
     },
     {
       "ID": "neighenergy.east",
       "SetID": "bbgli2k",
       "Name": "East Street Energy",
       "Percentage": 51,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3570
     },
     {
       "ID": "neighenergy.north",
       "SetID": "bbgli2k",
       "Name": "North Town Energy",
       "Percentage": 26,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1820
     },
     {
       "ID": "neighenergy.south",
       "SetID": "bbgli2k",
       "Name": "South Town Energy",
       "Percentage": 31,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2170
     },
     {
       "ID": "neighenergy.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Energy",
       "Percentage": 13,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 910
     },
     {
       "ID": "plush",
       "SetID": "bbgli2k",
       "Name": "Deep Lore",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 490
     },
     {
       "ID": "quest001",
       "SetID": "bbgli2k",
       "Name": "The Spirit and The Mouse",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 420
     },
     {
       "ID": "quest002",
       "SetID": "bbgli2k",
       "Name": "The Old Man and the Caf\u00E9",
       "Percentage": 41,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2870
     },
     {
       "ID": "quest003",
       "SetID": "bbgli2k",
       "Name": "The Girl and the Homework",
       "Percentage": 27,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1890
     },
     {
       "ID": "quest004",
       "SetID": "bbgli2k",
       "Name": "The Painter and the Lights",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 980
     },
     {
       "ID": "quest005",
       "SetID": "bbgli2k",
       "Name": "The Ghost and the Lamps",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 980
     },
     {
       "ID": "quest006",
       "SetID": "bbgli2k",
       "Name": "The Woman and the Pizzeria",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1120
     },
     {
       "ID": "quest007",
       "SetID": "bbgli2k",
       "Name": "The Quiche and the Hair Dryer",
       "Percentage": 23,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1610
     },
     {
       "ID": "quest008",
       "SetID": "bbgli2k",
       "Name": "The Woman and the Stars",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 210
     },
     {
       "ID": "quest099",
       "SetID": "bbgli2k",
       "Name": "The Garland and the Lightbulbs",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 490
     },
     {
       "ID": "riddles",
       "SetID": "bbgli2k",
       "Name": "Riddle Master",
       "Percentage": 11,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 770
     },
     {
       "ID": "shop.golden",
       "SetID": "bbgli2k",
       "Name": "Fabulous!",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 420
     },
     {
       "ID": "shop.maps",
       "SetID": "bbgli2k",
       "Name": "Cartographer",
       "Percentage": 19,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1330
     },
     {
       "ID": "shop.photo",
       "SetID": "bbgli2k",
       "Name": "Photogenic",
       "Percentage": 29,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2030
     },
     {
       "ID": "shop.teleport",
       "SetID": "bbgli2k",
       "Name": "That\u0027s one way to travel",
       "Percentage": 41,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2870
     },
     {
       "ID": "sleepkb",
       "SetID": "bbgli2k",
       "Name": "Warm Bed",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 210
     },
     {
       "ID": "squeak100",
       "SetID": "bbgli2k",
       "Name": "OK, I heard you!!",
       "Percentage": 26,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1820
     },
     {
       "ID": "wireboxes.all",
       "SetID": "bbgli2k",
       "Name": "Lightning fast",
       "Percentage": 6,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 420
     }
   ],
   "Tags": [],
@@ -301,13 +341,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:05:59.4090843+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:13.5650504+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 70,
-  "LastUpdate_Achievements": "2023-05-04T22:05:59.4091166+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:17.9723407+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:13.5650837+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:34.3935022+00:00",
   "AchievementSets": [
     {
       "ID": "bbgli2k",
@@ -323,7 +363,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 259,
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00"

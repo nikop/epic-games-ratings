@@ -1,7 +1,8 @@
 # Raji: An Ancient Epic
+[View Rawdata](../../db/r/raji__an_ancient_epic.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,8 @@
 # RollerCoaster Tycoon Adventures
+[View Rawdata](../../db/r/rollercoaster_tycoon_adventures.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

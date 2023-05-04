@@ -1,12 +1,13 @@
 # STAR WARS Jedi: Survivor™
+[View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
 Rating: 4.38 (Ranked 686)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 130  (Ranked 291)  
 Sum: 130 (Ranked 383)  
 Diff (max vs sum): -92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

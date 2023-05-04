@@ -7,98 +7,112 @@
       "SetID": "8pjb9ak",
       "Name": "100 Stars",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 151255
     },
     {
       "ID": "150stars",
       "SetID": "8pjb9ak",
       "Name": "150 Stars",
       "Percentage": 0.4,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 12100
     },
     {
       "ID": "50stars",
       "SetID": "8pjb9ak",
       "Name": "50 Stars",
       "Percentage": 26,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 786526
     },
     {
       "ID": "allItems",
       "SetID": "8pjb9ak",
       "Name": "Excavator",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 60502
     },
     {
       "ID": "allSecrets",
       "SetID": "8pjb9ak",
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 12100
     },
     {
       "ID": "bigBunny",
       "SetID": "8pjb9ak",
       "Name": "Easter Bunny",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 15126
     },
     {
       "ID": "carving",
       "SetID": "8pjb9ak",
       "Name": "Joseph",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 272259
     },
     {
       "ID": "completionist",
       "SetID": "8pjb9ak",
       "Name": "Completionist",
       "Percentage": 0.4,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 12100
     },
     {
       "ID": "dejaVu",
       "SetID": "8pjb9ak",
       "Name": "Deja Vu",
       "Percentage": 0.4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 12100
     },
     {
       "ID": "ending",
       "SetID": "8pjb9ak",
       "Name": "Hummed of Mystery",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 121004
     },
     {
       "ID": "firstBunny",
       "SetID": "8pjb9ak",
       "Name": "Hare Today",
       "Percentage": 25,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 756275
     },
     {
       "ID": "firstItem",
       "SetID": "8pjb9ak",
       "Name": "Two Worlds",
       "Percentage": 78,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2359578
     },
     {
       "ID": "roots",
       "SetID": "8pjb9ak",
       "Name": "The Way Forward",
       "Percentage": 17,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 514267
     },
     {
       "ID": "secretItem",
       "SetID": "8pjb9ak",
       "Name": "Well Hidden",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 30251
     }
   ],
   "Tags": [],
@@ -1234,13 +1248,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T22:06:59.5135167+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:57.8842564+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 357,
   "EOS_Completed": 93,
   "EOS_Progressed": 30251,
-  "LastUpdate_Achievements": "2023-05-04T22:06:59.5135358+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:13.4819302+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:57.8842731+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:10.6767161+00:00",
   "AchievementSets": [
     {
       "ID": "8pjb9ak",

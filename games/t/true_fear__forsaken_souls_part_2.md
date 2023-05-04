@@ -1,7 +1,8 @@
 # True Fear: Forsaken Souls Part 2
+[View Rawdata](../../db/t/true_fear__forsaken_souls_part_2.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

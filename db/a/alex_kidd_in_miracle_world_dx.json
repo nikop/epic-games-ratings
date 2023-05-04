@@ -7,112 +7,128 @@
       "SetID": "7im05fi",
       "Name": "Collector",
       "Percentage": 1,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 226
     },
     {
       "ID": "ALL_NPC",
       "SetID": "7im05fi",
       "Name": "Let\u0027s Talk",
       "Percentage": 2,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 452
     },
     {
       "ID": "BEAT_BOSS_RUSH",
       "SetID": "7im05fi",
       "Name": "Champion",
       "Percentage": 1,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 226
     },
     {
       "ID": "BEAT_REMAKE_MODE",
       "SetID": "7im05fi",
       "Name": "Radaxian Protector",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 678
     },
     {
       "ID": "CHOKKINA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Second Commander",
       "Percentage": 16,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 3616
     },
     {
       "ID": "EGLE_FREED",
       "SetID": "7im05fi",
       "Name": "Prisoner",
       "Percentage": 23,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5198
     },
     {
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
       "Percentage": 19,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 4294
     },
     {
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
       "Percentage": 26,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 5876
     },
     {
       "ID": "JANKEN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Janken The Great",
       "Percentage": 10,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2260
     },
     {
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
       "Percentage": 17,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3842
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
       "SetID": "7im05fi",
       "Name": "Pacifist",
       "Percentage": 10,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2260
     },
     {
       "ID": "NO_PURCHASES",
       "SetID": "7im05fi",
       "Name": "Stingy",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 452
     },
     {
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
       "Percentage": 45,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 10170
     },
     {
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
       "Percentage": 15,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 3390
     },
     {
       "ID": "PET_DOG",
       "SetID": "7im05fi",
       "Name": "Overwhelmed Beast",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2034
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
       "Percentage": 35,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 7910
     }
   ],
   "Tags": [],
@@ -133,13 +149,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:06:02.8809924+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:16.0000831+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 3,
   "EOS_Progressed": 226,
-  "LastUpdate_Achievements": "2023-05-04T22:06:02.8810088+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:36.886209+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:16.0001063+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:27.6357169+00:00",
   "AchievementSets": [
     {
       "ID": "7im05fi",
@@ -155,7 +171,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_Progress": 219,
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00"

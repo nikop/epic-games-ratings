@@ -1,7 +1,8 @@
 # Wizards: Wand of Epicosity
+[View Rawdata](../../db/w/wizards__wand_of_epicosity.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

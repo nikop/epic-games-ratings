@@ -1,8 +1,9 @@
 # Achilles Legends Untold
+[View Rawdata](../../db/a/achilles_legends_untold.json)  
 Rating: 4.00 (Ranked 876)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

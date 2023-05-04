@@ -1,4 +1,5 @@
 # Realm Royale Reforged
+[View Rawdata](../../db/r/realm_royale_reforged.json)  
 Rating: 4.29 (Ranked 757)  
 Number of Ratings: 841  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 128  (Ranked 292)
 Sum: 1,246 (Ranked 218)  
 Diff (max vs sum): 74  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

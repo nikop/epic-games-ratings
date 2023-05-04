@@ -1,19 +1,20 @@
 # The Light in the Darkness
+[View Rawdata](../../db/t/the_light_in_the_darkness.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Jacques a Dit | 37.00 |
-| Little Helper | 31.00 |
-| Nazis in Paris | 24.00 |
-| Building the Fox | 21.00 |
-| Green Ticket Roundup | 18.00 |
-| Arranging Boxes | 14.00 |
-| Jakob | 13.00 |
-| Jude | 12.00 |
-| Le Juif et la France | 12.00 |
-| Bernard | 11.00 |
-| Nuremberg Laws | 11.00 |
-| May Their Memories be a Blessing | 8.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Jacques a Dit | 37.00% | ~41,477 |
+| Little Helper | 31.00% | ~34,751 |
+| Nazis in Paris | 24.00% | ~26,904 |
+| Building the Fox | 21.00% | ~23,541 |
+| Green Ticket Roundup | 18.00% | ~20,178 |
+| Arranging Boxes | 14.00% | ~15,694 |
+| Jakob | 13.00% | ~14,573 |
+| Jude | 12.00% | ~13,452 |
+| Le Juif et la France | 12.00% | ~13,452 |
+| Bernard | 11.00% | ~12,331 |
+| Nuremberg Laws | 11.00% | ~12,331 |
+| May Their Memories be a Blessing | 8.00% | ~8,968 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,121 (Ranked 154)  
 Completed: 85 (7.58%) (Ranked 16)  

@@ -1,4 +1,5 @@
 # Galactic Civilizations IV
+[View Rawdata](../../db/g/galactic_civilizations_iv.json)  
 Rating: 4.18 (Ranked 820)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,80 +7,80 @@ Max (Diverse Characters): 89  (Ranked 335)
 Sum: 655 (Ranked 266)  
 Diff (max vs sum): 69  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Colonize a Planet | 79.00 |
-| Worker Specialization | 78.00 |
-| First Contact | 74.00 |
-| Win a Battle | 67.00 |
-| Anomaly Researcher | 63.00 |
-| Unleash My Power | 62.00 |
-| Own 30 Planets | 35.00 |
-| Xenocide | 33.00 |
-| Commodity Trader | 32.00 |
-| Design a Civilization | 32.00 |
-| Design a Ship | 29.00 |
-| Commodity Seller | 26.00 |
-| Prestige Victory! | 14.00 |
-| Galactic War | 11.00 |
-| Trading Partner | 9.00 |
-| Fleet Victory | 8.00 |
-| Win as Terrans | 7.00 |
-| Win with a Custom Faction | 7.00 |
-| Gain an Ally | 6.00 |
-| War with the Unknown | 5.00 |
-| Conquest Victory! | 4.00 |
-| Win Quickly | 4.00 |
-| Pirate Cleansing | 3.00 |
-| Win an Immense Game | 3.00 |
-| Artifact Mastery | 2.00 |
-| Win as Altarians | 2.00 |
-| Win as the Yor | 2.00 |
-| Influence Victory! | 2.00 |
-| Win as Arceans | 1.00 |
-| Win as the Baratak | 1.00 |
-| Win as Festron | 1.00 |
-| Win as the Mimot | 1.00 |
-| Win as the Navigators | 0.90 |
-| Win as Torians | 0.90 |
-| Win as Xeloxi | 0.80 |
-| Win as the Drath | 0.70 |
-| Win as the Drengin | 0.70 |
-| Win as the Krynn | 0.70 |
-| Win as the Manti | 0.70 |
-| Diplomatic Victory! | 0.70 |
-| Win as the Iconians | 0.60 |
-| Win as the Iridium | 0.60 |
-| Win as the Onyx | 0.60 |
-| Iconia Reclaimed! | 0.30 |
-| Relic Hoarder | 0.20 |
-| Commodity Seller, Level 2 | 0.20 |
-| Commodity Trader - Level 2 | 0.10 |
-| Discover a Nebula | 0.10 |
-| Play for 1000 Hours | 0.10 |
-| Play for 100 Hours | 0.10 |
-| Play for 5 Hours | 0.10 |
-| It's OUR Homeworld | 0.10 |
-| Win a Multiplayer Game | 0.10 |
-| Solid Economy | 0.00 |
-| Ask Not What Your Empire Can Do For You | 0.00 |
-| Commodity Guru | 0.00 |
-| Yor Dead Iconians | 0.00 |
-| Hyperspace! | 0.00 |
-| Against the Tide | 0.00 |
-| Breeding Season | 0.00 |
-| The Orb of Draginol | 0.00 |
-| Shard of the Mithrilar | 0.00 |
-| The Everwar | 0.00 |
-| The Plague | 0.00 |
-| Veteran Crew | 0.00 |
-| Complete a Minor Civilization Quest | 0.00 |
-| Play a Multiplayer Game | 0.00 |
-| Rebuild the Retribution | 0.00 |
-| Recruit a Dozen Leaders | 0.00 |
-| Recruit a Leader | 0.00 |
-| Commodity Selling Guru | 0.00 |
-| Science Victory! | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Colonize a Planet | 79.00% | ~434,500 |
+| Worker Specialization | 78.00% | ~429,000 |
+| First Contact | 74.00% | ~407,000 |
+| Win a Battle | 67.00% | ~368,500 |
+| Anomaly Researcher | 63.00% | ~346,500 |
+| Unleash My Power | 62.00% | ~341,000 |
+| Own 30 Planets | 35.00% | ~192,500 |
+| Xenocide | 33.00% | ~181,500 |
+| Commodity Trader | 32.00% | ~176,000 |
+| Design a Civilization | 32.00% | ~176,000 |
+| Design a Ship | 29.00% | ~159,500 |
+| Commodity Seller | 26.00% | ~143,000 |
+| Prestige Victory! | 14.00% | ~77,000 |
+| Galactic War | 11.00% | ~60,500 |
+| Trading Partner | 9.00% | ~49,500 |
+| Fleet Victory | 8.00% | ~44,000 |
+| Win as Terrans | 7.00% | ~38,500 |
+| Win with a Custom Faction | 7.00% | ~38,500 |
+| Gain an Ally | 6.00% | ~33,000 |
+| War with the Unknown | 5.00% | ~27,500 |
+| Conquest Victory! | 4.00% | ~22,000 |
+| Win Quickly | 4.00% | ~22,000 |
+| Pirate Cleansing | 3.00% | ~16,500 |
+| Win an Immense Game | 3.00% | ~16,500 |
+| Artifact Mastery | 2.00% | ~11,000 |
+| Win as Altarians | 2.00% | ~11,000 |
+| Win as the Yor | 2.00% | ~11,000 |
+| Influence Victory! | 2.00% | ~11,000 |
+| Win as Arceans | 1.00% | ~5,500 |
+| Win as the Baratak | 1.00% | ~5,500 |
+| Win as Festron | 1.00% | ~5,500 |
+| Win as the Mimot | 1.00% | ~5,500 |
+| Win as the Navigators | 0.90% | ~4,950 |
+| Win as Torians | 0.90% | ~4,950 |
+| Win as Xeloxi | 0.80% | ~4,400 |
+| Win as the Drath | 0.70% | ~3,850 |
+| Win as the Drengin | 0.70% | ~3,850 |
+| Win as the Krynn | 0.70% | ~3,850 |
+| Win as the Manti | 0.70% | ~3,850 |
+| Diplomatic Victory! | 0.70% | ~3,850 |
+| Win as the Iconians | 0.60% | ~3,300 |
+| Win as the Iridium | 0.60% | ~3,300 |
+| Win as the Onyx | 0.60% | ~3,300 |
+| Iconia Reclaimed! | 0.30% | ~1,650 |
+| Relic Hoarder | 0.20% | ~1,100 |
+| Commodity Seller, Level 2 | 0.20% | ~1,100 |
+| Commodity Trader - Level 2 | 0.10% | ~550 |
+| Discover a Nebula | 0.10% | ~550 |
+| Play for 1000 Hours | 0.10% | ~550 |
+| Play for 100 Hours | 0.10% | ~550 |
+| Play for 5 Hours | 0.10% | ~550 |
+| It's OUR Homeworld | 0.10% | ~550 |
+| Win a Multiplayer Game | 0.10% | ~550 |
+| Solid Economy | 0.00% | ~0 |
+| Ask Not What Your Empire Can Do For You | 0.00% | ~0 |
+| Commodity Guru | 0.00% | ~0 |
+| Yor Dead Iconians | 0.00% | ~0 |
+| Hyperspace! | 0.00% | ~0 |
+| Against the Tide | 0.00% | ~0 |
+| Breeding Season | 0.00% | ~0 |
+| The Orb of Draginol | 0.00% | ~0 |
+| Shard of the Mithrilar | 0.00% | ~0 |
+| The Everwar | 0.00% | ~0 |
+| The Plague | 0.00% | ~0 |
+| Veteran Crew | 0.00% | ~0 |
+| Complete a Minor Civilization Quest | 0.00% | ~0 |
+| Play a Multiplayer Game | 0.00% | ~0 |
+| Rebuild the Retribution | 0.00% | ~0 |
+| Recruit a Dozen Leaders | 0.00% | ~0 |
+| Recruit a Leader | 0.00% | ~0 |
+| Commodity Selling Guru | 0.00% | ~0 |
+| Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,500 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 191)  

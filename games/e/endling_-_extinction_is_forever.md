@@ -1,35 +1,36 @@
 # Endling - Extinction is Forever
+[View Rawdata](../../db/e/endling_-_extinction_is_forever.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Home Sweet Home | 95.00 |
-| A Friend in Need | 59.00 |
-| Surviving | 42.00 |
-| Never Give Up | 38.00 |
-| Detox diet | 38.00 |
-| Tasty | 36.00 |
-| Lullaby | 32.00 |
-| You Can Pet The Fox | 29.00 |
-| Hard Fox Life | 23.00 |
-| Never Let Down | 23.00 |
-| Chicken Dinner | 20.00 |
-| A Barking Fox Doesn't Bite | 19.00 |
-| Peaceful Instinct | 17.00 |
-| Maternity | 15.00 |
-| Barking in The Rain | 15.00 |
-| Family Reunion | 14.00 |
-| Never Run Around | 14.00 |
-| Beyond Words | 14.00 |
-| Three Little Foxes | 11.00 |
-| Two Peas in a Pod | 11.00 |
-| All For One | 11.00 |
-| Extinction is Forever | 11.00 |
-| We Are a Family | 9.00 |
-| For a Better Tomorrow | 4.00 |
-| Mother Love | 4.00 |
-| Easter Egg | 3.00 |
-| Omnivore | 2.00 |
-| Endling | 1.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Home Sweet Home | 95.00% | ~37,620 |
+| A Friend in Need | 59.00% | ~23,364 |
+| Surviving | 42.00% | ~16,632 |
+| Never Give Up | 38.00% | ~15,048 |
+| Detox diet | 38.00% | ~15,048 |
+| Tasty | 36.00% | ~14,256 |
+| Lullaby | 32.00% | ~12,672 |
+| You Can Pet The Fox | 29.00% | ~11,484 |
+| Hard Fox Life | 23.00% | ~9,108 |
+| Never Let Down | 23.00% | ~9,108 |
+| Chicken Dinner | 20.00% | ~7,920 |
+| A Barking Fox Doesn't Bite | 19.00% | ~7,524 |
+| Peaceful Instinct | 17.00% | ~6,732 |
+| Maternity | 15.00% | ~5,940 |
+| Barking in The Rain | 15.00% | ~5,940 |
+| Family Reunion | 14.00% | ~5,544 |
+| Never Run Around | 14.00% | ~5,544 |
+| Beyond Words | 14.00% | ~5,544 |
+| Three Little Foxes | 11.00% | ~4,356 |
+| Two Peas in a Pod | 11.00% | ~4,356 |
+| All For One | 11.00% | ~4,356 |
+| Extinction is Forever | 11.00% | ~4,356 |
+| We Are a Family | 9.00% | ~3,564 |
+| For a Better Tomorrow | 4.00% | ~1,584 |
+| Mother Love | 4.00% | ~1,584 |
+| Easter Egg | 3.00% | ~1,188 |
+| Omnivore | 2.00% | ~792 |
+| Endling | 1.00% | ~396 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 396 (Ranked 191)  
 Completed: 2 (0.51%) (Ranked 97)  

@@ -7,105 +7,120 @@
       "SetID": "1dkhij4",
       "Name": "First Step",
       "Percentage": 47,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 47329
     },
     {
       "ID": "10",
       "SetID": "1dkhij4",
       "Name": "Robot\u00A0lives\u00A0matter\u00A0too",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "11",
       "SetID": "1dkhij4",
       "Name": "Telepathic",
       "Percentage": 12,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 12084
     },
     {
       "ID": "12",
       "SetID": "1dkhij4",
       "Name": "Trend\u00A0hunters",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "13",
       "SetID": "1dkhij4",
       "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 101
     },
     {
       "ID": "14",
       "SetID": "1dkhij4",
       "Name": "Master\u00A0biped",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "15",
       "SetID": "1dkhij4",
       "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
       "Percentage": 0.1,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 101
     },
     {
       "ID": "2",
       "SetID": "1dkhij4",
       "Name": "Dense Forest",
       "Percentage": 39,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 39273
     },
     {
       "ID": "3",
       "SetID": "1dkhij4",
       "Name": "Cactus Vally",
       "Percentage": 29,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 29203
     },
     {
       "ID": "4",
       "SetID": "1dkhij4",
       "Name": "Rainy Ruins",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 17119
     },
     {
       "ID": "5",
       "SetID": "1dkhij4",
       "Name": "Snowy Peak",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 11077
     },
     {
       "ID": "6",
       "SetID": "1dkhij4",
       "Name": "High Treetops",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 9063
     },
     {
       "ID": "7",
       "SetID": "1dkhij4",
       "Name": "Blue Rapids",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 7049
     },
     {
       "ID": "8",
       "SetID": "1dkhij4",
       "Name": "Sunset Ridge",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4028
     },
     {
       "ID": "9",
       "SetID": "1dkhij4",
       "Name": "Speed\u00A0walkers",
       "Percentage": 10,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 10070
     }
   ],
   "Tags": [],
@@ -846,13 +861,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:06:07.3583773+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:19.3773806+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 274,
   "EOS_Completed": 0,
   "EOS_Progressed": 1007,
-  "LastUpdate_Achievements": "2023-05-04T22:06:07.3583953+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:28.3024629+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:19.377407+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:22.0241859+00:00",
   "AchievementSets": [
     {
       "ID": "1dkhij4",

@@ -7,378 +7,432 @@
       "SetID": "ammcm",
       "Name": "A zee-change",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 25360
     },
     {
       "ID": "ach_abysslady",
       "SetID": "ammcm",
       "Name": "The Lady\u0027s Parlour",
       "Percentage": 0.2,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 5636
     },
     {
       "ID": "ach_admirality10",
       "SetID": "ammcm",
       "Name": "Rules the Waves",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 479026
     },
     {
       "ID": "ach_antiquarian10",
       "SetID": "ammcm",
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 112712
     },
     {
       "ID": "ach_combuoy",
       "SetID": "ammcm",
       "Name": "A buoyant escape",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_constant",
       "SetID": "ammcm",
       "Name": "What lies beneath",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 22542
     },
     {
       "ID": "ach_contdrownie",
       "SetID": "ammcm",
       "Name": "A Drownie devotee",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2818
     },
     {
       "ID": "ach_controman",
       "SetID": "ammcm",
       "Name": "Romans 6:9",
       "Percentage": 0.1,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 2818
     },
     {
       "ID": "ach_cursesalt",
       "SetID": "ammcm",
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 309958
     },
     {
       "ID": "ach_cursestone",
       "SetID": "ammcm",
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 19725
     },
     {
       "ID": "ach_cursestorm",
       "SetID": "ammcm",
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 84534
     },
     {
       "ID": "ach_dawnmachine",
       "SetID": "ammcm",
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 309958
     },
     {
       "ID": "ach_deathofermod",
       "SetID": "ammcm",
       "Name": "Ofermod",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2818
     },
     {
       "ID": "ach_deathphlebas",
       "SetID": "ammcm",
       "Name": "Consider Phlebas",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2818
     },
     {
       "ID": "ach_deathwat",
       "SetID": "ammcm",
       "Name": "Death By Water",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2818
     },
     {
       "ID": "ach_die1",
       "SetID": "ammcm",
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1014408
     },
     {
       "ID": "ach_die10",
       "SetID": "ammcm",
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 25360
     },
     {
       "ID": "ach_die5",
       "SetID": "ammcm",
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 140890
     },
     {
       "ID": "ach_dive",
       "SetID": "ammcm",
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_dreadnaught",
       "SetID": "ammcm",
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 84534
     },
     {
       "ID": "ach_eye",
       "SetID": "ammcm",
       "Name": "Roaring Rise",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 56356
     },
     {
       "ID": "ach_hunterskeep",
       "SetID": "ammcm",
       "Name": "The Fall of the House",
       "Percentage": 11,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 309958
     },
     {
       "ID": "ach_invictus",
       "SetID": "ammcm",
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 56356
     },
     {
       "ID": "ach_ladylilac",
       "SetID": "ammcm",
       "Name": "Come Closer",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 84534
     },
     {
       "ID": "ach_legacycorrespondent",
       "SetID": "ammcm",
       "Name": "Correspondent",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 338136
     },
     {
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 197246
     },
     {
       "ID": "ach_legacyrival",
       "SetID": "ammcm",
       "Name": "Rival",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 394492
     },
     {
       "ID": "ach_legacysalvager",
       "SetID": "ammcm",
       "Name": "Salvager",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 197246
     },
     {
       "ID": "ach_legacyshipmate",
       "SetID": "ammcm",
       "Name": "Shipmate",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 309958
     },
     {
       "ID": "ach_newstories",
       "SetID": "ammcm",
       "Name": "Open Your Ears",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 197246
     },
     {
       "ID": "ach_portbell",
       "SetID": "ammcm",
       "Name": "The Bell Tolls",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portbones",
       "SetID": "ammcm",
       "Name": "His bones in whispers",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portdeep",
       "SetID": "ammcm",
       "Name": "The beauty of the deep",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portdragon",
       "SetID": "ammcm",
       "Name": "The dragon in the zee",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portfish",
       "SetID": "ammcm",
       "Name": "Thanks for all the fish",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portknife",
       "SetID": "ammcm",
       "Name": "Knife, Cup and Bone",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portleviathan",
       "SetID": "ammcm",
       "Name": "Leviathan",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 25360
     },
     {
       "ID": "ach_portpearls",
       "SetID": "ammcm",
       "Name": "Those are pearls that were his eyes",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portregret",
       "SetID": "ammcm",
       "Name": "No regrets",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portrose",
       "SetID": "ammcm",
       "Name": "Rosewater sailor",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_portunder",
       "SetID": "ammcm",
       "Name": "Under the zee",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_scion",
       "SetID": "ammcm",
       "Name": "Zee Fever",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 140890
     },
     {
       "ID": "ach_stranger",
       "SetID": "ammcm",
       "Name": "A Past Wreathed in Shadows",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5636
     },
     {
       "ID": "ach_surface",
       "SetID": "ammcm",
       "Name": "The Ascent of Man",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 225424
     },
     {
       "ID": "ach_sweetheart",
       "SetID": "ammcm",
       "Name": "Sweet Sorrow",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 507204
     },
     {
       "ID": "ach_terror100",
       "SetID": "ammcm",
       "Name": "Lose Your Mind",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 338136
     },
     {
       "ID": "ach_terror90",
       "SetID": "ammcm",
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 450848
     },
     {
       "ID": "ach_undercurrent",
       "SetID": "ammcm",
       "Name": "A current under zee",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28178
     },
     {
       "ID": "ach_underdepth",
       "SetID": "ammcm",
       "Name": "Depth charge",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 25360
     },
     {
       "ID": "ach_underpressure",
       "SetID": "ammcm",
       "Name": "Under pressure",
       "Percentage": 0.2,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 5636
     },
     {
       "ID": "ach_will",
       "SetID": "ammcm",
       "Name": "Sound Mind?",
       "Percentage": 12,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 338136
     },
     {
       "ID": "ach_year1",
       "SetID": "ammcm",
       "Name": "One Year at Zee",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 225424
     },
     {
       "ID": "ach_year10",
       "SetID": "ammcm",
       "Name": "Ten Years at Zee",
       "Percentage": 0.1,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 2818
     },
     {
       "ID": "ach_year5",
       "SetID": "ammcm",
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 14089
     }
   ],
   "Tags": [
@@ -2023,13 +2077,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-04T22:06:48.7793026+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:50.0782498+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 660,
   "EOS_Completed": 3,
   "EOS_Progressed": 28178,
-  "LastUpdate_Achievements": "2023-05-04T22:06:48.7793634+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:29.8850439+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:50.0783234+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:41.2847148+00:00",
   "AchievementSets": [
     {
       "ID": "ammcm",

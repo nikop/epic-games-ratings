@@ -1,4 +1,5 @@
 # World of Warships
+[View Rawdata](../../db/w/world_of_warships.json)  
 Rating: 4.43 (Ranked 633)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 1,038  (Ranked 130)
 Sum: 9,114 (Ranked 81)  
 Diff (max vs sum): 49  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

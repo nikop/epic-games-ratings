@@ -1,4 +1,5 @@
 # Heroes & Generals WWII
+[View Rawdata](../../db/h/heroes_&_generals_wwii.json)  
 Rating: 4.23 (Ranked 790)  
 Number of Ratings: 4,634  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 989  (Ranked 137)
 Sum: 6,890 (Ranked 103)  
 Diff (max vs sum): 34  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

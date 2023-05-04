@@ -1,32 +1,33 @@
 # Troublemaker
+[View Rawdata](../../db/t/troublemaker.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Troublemaker | 100.00 |
-| Fist of Steel | 100.00 |
-| They Gonna Need Another Pants | 100.00 |
-| Another Man Trash Is Another Man Treasure | 100.00 |
-| Break Their Bones | 100.00 |
-| They Pick the Wrong Guy | 100.00 |
-| Go With the Flow | 100.00 |
-| I'm the One Who Can Fight | 0.00 |
-| It's All About Respect! | 0.00 |
-| The End of Tournament | 0.00 |
-| Our Past | 0.00 |
-| Cipta Wiyata Psycho | 0.00 |
-| There Ain't No Secrets Anymore | 0.00 |
-| Cipta Wiyata Last Champion | 0.00 |
-| Reunion | 0.00 |
-| Half Cyborg | 0.00 |
-| First Day of the School | 0.00 |
-| Easy Peasy! | 0.00 |
-| Hey Look! I'm Smart! | 0.00 |
-| One Man Army | 0.00 |
-| Flying Broom | 0.00 |
-| Can't Escape My Past | 0.00 |
-| War Has Been Declared | 0.00 |
-| Don't Ruin My Lunch Date | 0.00 |
-| Not Just Lucky | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Troublemaker | 100.00% | ~100 |
+| Fist of Steel | 100.00% | ~100 |
+| They Gonna Need Another Pants | 100.00% | ~100 |
+| Another Man Trash Is Another Man Treasure | 100.00% | ~100 |
+| Break Their Bones | 100.00% | ~100 |
+| They Pick the Wrong Guy | 100.00% | ~100 |
+| Go With the Flow | 100.00% | ~100 |
+| I'm the One Who Can Fight | 0.00% | ~0 |
+| It's All About Respect! | 0.00% | ~0 |
+| The End of Tournament | 0.00% | ~0 |
+| Our Past | 0.00% | ~0 |
+| Cipta Wiyata Psycho | 0.00% | ~0 |
+| There Ain't No Secrets Anymore | 0.00% | ~0 |
+| Cipta Wiyata Last Champion | 0.00% | ~0 |
+| Reunion | 0.00% | ~0 |
+| Half Cyborg | 0.00% | ~0 |
+| First Day of the School | 0.00% | ~0 |
+| Easy Peasy! | 0.00% | ~0 |
+| Hey Look! I'm Smart! | 0.00% | ~0 |
+| One Man Army | 0.00% | ~0 |
+| Flying Broom | 0.00% | ~0 |
+| Can't Escape My Past | 0.00% | ~0 |
+| War Has Been Declared | 0.00% | ~0 |
+| Don't Ruin My Lunch Date | 0.00% | ~0 |
+| Not Just Lucky | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 191)  

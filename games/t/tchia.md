@@ -1,29 +1,30 @@
 # Tchia
+[View Rawdata](../../db/t/tchia.json)  
 Rating: 4.76 (Ranked 113)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| In a Pinch | 19.00 |
-| Energy Saver | 16.00 |
-| The Journey Onwards | 12.00 |
-| Globe Trotter | 11.00 |
-| Body and Soul | 10.00 |
-| Ahem Ahem | 9.00 |
-| Audiophile | 7.00 |
-| Clay Pigeon | 6.00 |
-| Soul-Canon | 6.00 |
-| Historian | 5.00 |
-| Iconoclast | 5.00 |
-| Shredder | 5.00 |
-| Happy Camper | 4.00 |
-| Liberator | 4.00 |
-| Fashion Faux-Pas | 3.00 |
-| Live Wire | 3.00 |
-| Arrr! | 2.00 |
-| Fashion Victim | 2.00 |
-| Snip Snip | 2.00 |
-| Ça de Wizz! | 1.00 |
-| Thing | 1.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| In a Pinch | 19.00% | ~104,139 |
+| Energy Saver | 16.00% | ~87,696 |
+| The Journey Onwards | 12.00% | ~65,772 |
+| Globe Trotter | 11.00% | ~60,291 |
+| Body and Soul | 10.00% | ~54,810 |
+| Ahem Ahem | 9.00% | ~49,329 |
+| Audiophile | 7.00% | ~38,367 |
+| Clay Pigeon | 6.00% | ~32,886 |
+| Soul-Canon | 6.00% | ~32,886 |
+| Historian | 5.00% | ~27,405 |
+| Iconoclast | 5.00% | ~27,405 |
+| Shredder | 5.00% | ~27,405 |
+| Happy Camper | 4.00% | ~21,924 |
+| Liberator | 4.00% | ~21,924 |
+| Fashion Faux-Pas | 3.00% | ~16,443 |
+| Live Wire | 3.00% | ~16,443 |
+| Arrr! | 2.00% | ~10,962 |
+| Fashion Victim | 2.00% | ~10,962 |
+| Snip Snip | 2.00% | ~10,962 |
+| Ça de Wizz! | 1.00% | ~5,481 |
+| Thing | 1.00% | ~5,481 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,481 (Ranked 117)  
 Completed: 19 (0.35%) (Ranked 108)  

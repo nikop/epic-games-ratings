@@ -7,161 +7,184 @@
       "SetID": "41p75ck",
       "Name": "Long and Winding Road",
       "Percentage": 94,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 36705496
     },
     {
       "ID": "ACH_10",
       "SetID": "41p75ck",
       "Name": "Challenge Accepted",
       "Percentage": 18,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 7028712
     },
     {
       "ID": "ACH_11",
       "SetID": "41p75ck",
       "Name": "Belly Of The Beast",
       "Percentage": 12,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 4685808
     },
     {
       "ID": "ACH_12",
       "SetID": "cpegfdi",
       "Name": "The Prestige",
       "Percentage": 7,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 2733388
     },
     {
       "ID": "ACH_13",
       "SetID": "41p75ck",
       "Name": "Lest Ye Be Judged",
       "Percentage": 27,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 10543068
     },
     {
       "ID": "ACH_14",
       "SetID": "41p75ck",
       "Name": "Legends Grow",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6247744
     },
     {
       "ID": "ACH_15",
       "SetID": "41p75ck",
       "Name": "Exotique",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5466776
     },
     {
       "ID": "ACH_16",
       "SetID": "41p75ck",
       "Name": "Seal the Deal",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1952420
     },
     {
       "ID": "ACH_17",
       "SetID": "41p75ck",
       "Name": "Fashion Statement",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3123872
     },
     {
       "ID": "ACH_18",
       "SetID": "41p75ck",
       "Name": "Heart of the Awoken",
       "Percentage": 21,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 8200164
     },
     {
       "ID": "ACH_19",
       "SetID": "41p75ck",
       "Name": "An Exotic Journey",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5466776
     },
     {
       "ID": "ACH_2",
       "SetID": "41p75ck",
       "Name": "Zavala\u0027s Lieutenant",
       "Percentage": 20,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 7809680
     },
     {
       "ID": "ACH_20",
       "SetID": "41p75ck",
       "Name": "High-Stakes Play",
       "Percentage": 19,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7419196
     },
     {
       "ID": "ACH_21",
       "SetID": "41p75ck",
       "Name": "Darkness Falls",
       "Percentage": 13,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5076292
     },
     {
       "ID": "ACH_22",
       "SetID": "41p75ck",
       "Name": "Nothing Left to Say",
       "Percentage": 15,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 5857260
     },
     {
       "ID": "ACH_23",
       "SetID": "41p75ck",
       "Name": "Wishing for the Best",
       "Percentage": 7,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2733388
     },
     {
       "ID": "ACH_3",
       "SetID": "41p75ck",
       "Name": "Cayde\u0027s Pathfinder",
       "Percentage": 25,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 9762100
     },
     {
       "ID": "ACH_4",
       "SetID": "41p75ck",
       "Name": "Ikora\u0027s Prot\u00E9g\u00E9",
       "Percentage": 23,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 8981132
     },
     {
       "ID": "ACH_5",
       "SetID": "41p75ck",
       "Name": "Show Me What You Got",
       "Percentage": 19,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 7419196
     },
     {
       "ID": "ACH_6",
       "SetID": "41p75ck",
       "Name": "In A Flash",
       "Percentage": 34,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 13276456
     },
     {
       "ID": "ACH_7",
       "SetID": "41p75ck",
       "Name": "The People\u0027s Hero",
       "Percentage": 58,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 22648072
     },
     {
       "ID": "ACH_8",
       "SetID": "41p75ck",
       "Name": "Heart of Darkness",
       "Percentage": 27,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 10543068
     },
     {
       "ID": "ACH_9",
       "SetID": "cpegfdi",
       "Name": "The Life Exotic",
       "Percentage": 22,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 8590648
     }
   ],
   "Tags": [
@@ -1326,6 +1349,11 @@
       "Time": "2023-05-04T22:06:38.1831559+00:00",
       "NumProgressed": 390476,
       "NumCompleted": 11400
+    },
+    {
+      "Time": "2023-05-04T22:24:42.1285117+00:00",
+      "NumProgressed": 390484,
+      "NumCompleted": 11401
     }
   ],
   "RatingHistory": [
@@ -4526,25 +4554,25 @@
   ],
   "TotalAchievementsXP": 1240,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:06:38.183155+00:00",
-  "EOS_NewCompleters": 207,
-  "EOS_NewPlayers": 7571,
-  "EOS_Completed": 11400,
-  "EOS_Progressed": 390476,
-  "LastUpdate_Achievements": "2023-05-04T22:06:38.1831932+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:51.012444+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:42.128511+00:00",
+  "EOS_NewCompleters": 208,
+  "EOS_NewPlayers": 7579,
+  "EOS_Completed": 11401,
+  "EOS_Progressed": 390484,
+  "LastUpdate_Achievements": "2023-05-04T22:24:42.1285497+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:17.3465988+00:00",
   "AchievementSets": [
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 390476,
-      "Completed": 11400
+      "Progressed": 390484,
+      "Completed": 11401
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 390476,
-      "Completed": 27932
+      "Progressed": 390484,
+      "Completed": 27933
     }
   ],
   "EOS_Completed_Percentage": 2.92,

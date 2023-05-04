@@ -7,574 +7,656 @@
       "SetID": "8fdh3of",
       "Name": "Angel of Mercy",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 155910
     },
     {
       "ID": "AWomansLot",
       "SetID": "8fdh3of",
       "Name": "Woman\u0027s Lot",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 779548
     },
     {
       "ID": "Alcoholic",
       "SetID": "8fdh3of",
       "Name": "Alcoholic",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 233864
     },
     {
       "ID": "Anorectic",
       "SetID": "8fdh3of",
       "Name": "Anorectic",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12472768
     },
     {
       "ID": "Awakening",
       "SetID": "8fdh3of",
       "Name": "Awakening",
       "Percentage": 20,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15590960
     },
     {
       "ID": "BadGirl",
       "SetID": "8fdh3of",
       "Name": "Bad Girl",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "BadTrip",
       "SetID": "8fdh3of",
       "Name": "Bad Trip",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3897740
     },
     {
       "ID": "Bailiff",
       "SetID": "8fdh3of",
       "Name": "Bailiff",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 623638
     },
     {
       "ID": "Bard",
       "SetID": "8fdh3of",
       "Name": "Bard",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2338644
     },
     {
       "ID": "Bastard",
       "SetID": "8fdh3of",
       "Name": "Bastard",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3118192
     },
     {
       "ID": "BlacksmithsSon",
       "SetID": "8fdh3of",
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 24165988
     },
     {
       "ID": "Bookworm",
       "SetID": "8fdh3of",
       "Name": "Bookworm",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10913672
     },
     {
       "ID": "Buddy",
       "SetID": "8fdh3of",
       "Name": "Buddy",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 8575028
     },
     {
       "ID": "Casanova",
       "SetID": "8fdh3of",
       "Name": "Casanova",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4677288
     },
     {
       "ID": "Cavalier",
       "SetID": "8fdh3of",
       "Name": "Cavalier",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 19488700
     },
     {
       "ID": "Chivalrous",
       "SetID": "8fdh3of",
       "Name": "Chivalrous Soul",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 779548
     },
     {
       "ID": "ChristianBurial",
       "SetID": "8fdh3of",
       "Name": "Christian Burial",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 155910
     },
     {
       "ID": "ClergyBoy",
       "SetID": "8fdh3of",
       "Name": "Cleric\u0027s pet",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Completionist",
       "SetID": "8fdh3of",
       "Name": "Completionist",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "Conqueror",
       "SetID": "8fdh3of",
       "Name": "Conqueror",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2338644
     },
     {
       "ID": "Convict",
       "SetID": "8fdh3of",
       "Name": "Convict",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7795480
     },
     {
       "ID": "DavidHorak",
       "SetID": "8fdh3of",
       "Name": "David Horak",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 545684
     },
     {
       "ID": "DieByTheSplinter",
       "SetID": "8fdh3of",
       "Name": "Death by splinter",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "EdwardKelly",
       "SetID": "8fdh3of",
       "Name": "Edward Kelly",
       "Percentage": 0.6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 467729
     },
     {
       "ID": "EnoughRope",
       "SetID": "8fdh3of",
       "Name": "Spoilsport",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 701593
     },
     {
       "ID": "Fatso",
       "SetID": "8fdh3of",
       "Name": "Fatso",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 17929604
     },
     {
       "ID": "Fighter",
       "SetID": "8fdh3of",
       "Name": "Fighter",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 467729
     },
     {
       "ID": "Firestarter",
       "SetID": "8fdh3of",
       "Name": "Firestarter",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 11693220
     },
     {
       "ID": "Freud",
       "SetID": "8fdh3of",
       "Name": "Freud",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 779548
     },
     {
       "ID": "FriendsWithoutBenefits",
       "SetID": "8fdh3of",
       "Name": "Friends without benefits",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 155910
     },
     {
       "ID": "FullhouseSinner",
       "SetID": "8fdh3of",
       "Name": "Full House Sinner",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Gambler",
       "SetID": "8fdh3of",
       "Name": "Gambler",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 779548
     },
     {
       "ID": "GameIsOver",
       "SetID": "8fdh3of",
       "Name": "Game Over",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 155910
     },
     {
       "ID": "GhostOfCapon",
       "SetID": "8fdh3of",
       "Name": "Lord Capon\u0027s Ghost",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Ginger",
       "SetID": "8fdh3of",
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2338644
     },
     {
       "ID": "Haggler",
       "SetID": "8fdh3of",
       "Name": "Haggler",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7015932
     },
     {
       "ID": "HardcoreHenry",
       "SetID": "8fdh3of",
       "Name": "Hardcore Henry",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Hunter",
       "SetID": "8fdh3of",
       "Name": "Hunter",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3118192
     },
     {
       "ID": "ICanStop",
       "SetID": "8fdh3of",
       "Name": "I Can Quit Anytime",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 311819
     },
     {
       "ID": "InfernalJustice",
       "SetID": "8fdh3of",
       "Name": "Infernal Justice",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Insomniac",
       "SetID": "8fdh3of",
       "Name": "Insomniac",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10134124
     },
     {
       "ID": "Judas",
       "SetID": "8fdh3of",
       "Name": "Judas",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "KarelGott",
       "SetID": "8fdh3of",
       "Name": "King Charming",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "KingdomDidNotCome",
       "SetID": "8fdh3of",
       "Name": "Kingdom did not come",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2338644
     },
     {
       "ID": "Knightrider",
       "SetID": "8fdh3of",
       "Name": "Knightrider",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "LevelCap",
       "SetID": "8fdh3of",
       "Name": "Level Cap",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "LikeGhost",
       "SetID": "8fdh3of",
       "Name": "Like a Ghost",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "LostTrinket",
       "SetID": "8fdh3of",
       "Name": "Lost Trinket",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 77955
     },
     {
       "ID": "MasterHuntsman",
       "SetID": "8fdh3of",
       "Name": "Master Huntsman",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 779548
     },
     {
       "ID": "MasterOfArena",
       "SetID": "8fdh3of",
       "Name": "Arena Master",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "McLovin",
       "SetID": "8fdh3of",
       "Name": "McLovin",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4677288
     },
     {
       "ID": "MercenarysHonor",
       "SetID": "8fdh3of",
       "Name": "Mercenary\u0027s Honour",
       "Percentage": 0.7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 545684
     },
     {
       "ID": "Merciful",
       "SetID": "8fdh3of",
       "Name": "Merciful",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Monk",
       "SetID": "8fdh3of",
       "Name": "Monk",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3897740
     },
     {
       "ID": "NotSoChristianBurial",
       "SetID": "8fdh3of",
       "Name": "Not-so-Christian Burial",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 155910
     },
     {
       "ID": "OneJob",
       "SetID": "8fdh3of",
       "Name": "You had one job!",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Perfectionist",
       "SetID": "8fdh3of",
       "Name": "Perfectionist",
       "Percentage": 0.4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 311819
     },
     {
       "ID": "Pilgrim",
       "SetID": "8fdh3of",
       "Name": "Pilgrim",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 77955
     },
     {
       "ID": "PinkyPromis",
       "SetID": "8fdh3of",
       "Name": "Pinky Promis",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "PlagueDoctor",
       "SetID": "8fdh3of",
       "Name": "Plague Doctor",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3118192
     },
     {
       "ID": "Ranger",
       "SetID": "8fdh3of",
       "Name": "Ranger",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 15590960
     },
     {
       "ID": "RevenantOfLedechko",
       "SetID": "8fdh3of",
       "Name": "Ledetchko Revenant",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 77955
     },
     {
       "ID": "RobberBaron",
       "SetID": "8fdh3of",
       "Name": "Robber Baron",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "Runt",
       "SetID": "8fdh3of",
       "Name": "Runt",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5456836
     },
     {
       "ID": "Saviour",
       "SetID": "8fdh3of",
       "Name": "Saviour",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 545684
     },
     {
       "ID": "Scrooge",
       "SetID": "8fdh3of",
       "Name": "Scrooge",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 15590960
     },
     {
       "ID": "SerialKiller",
       "SetID": "8fdh3of",
       "Name": "Serial Killer",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3897740
     },
     {
       "ID": "Sinner",
       "SetID": "8fdh3of",
       "Name": "Sinner",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 8575028
     },
     {
       "ID": "Sniper",
       "SetID": "8fdh3of",
       "Name": "Sniper",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 233864
     },
     {
       "ID": "StealthKiller",
       "SetID": "8fdh3of",
       "Name": "Stealth Killer",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 779548
     },
     {
       "ID": "TalmbergPreparation",
       "SetID": "8fdh3of",
       "Name": "Talmberger",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "TheEnd",
       "SetID": "8fdh3of",
       "Name": "The End",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1559096
     },
     {
       "ID": "Thief",
       "SetID": "8fdh3of",
       "Name": "Thief",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 8575028
     },
     {
       "ID": "TisButAScratch",
       "SetID": "8fdh3of",
       "Name": "\u0027Tis but a scratch",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Torture",
       "SetID": "8fdh3of",
       "Name": "Torturer",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Tracker",
       "SetID": "8fdh3of",
       "Name": "Tracker",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 623638
     },
     {
       "ID": "Traveller",
       "SetID": "8fdh3of",
       "Name": "Traveller",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7795480
     },
     {
       "ID": "TrialAndError",
       "SetID": "8fdh3of",
       "Name": "Trial-And-Error",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 77955
     },
     {
       "ID": "TrueFriend",
       "SetID": "8fdh3of",
       "Name": "True Friend",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 155910
     },
     {
       "ID": "Virgin",
       "SetID": "8fdh3of",
       "Name": "Virgin",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Voyeur",
       "SetID": "8fdh3of",
       "Name": "Voyeur",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 77955
     },
     {
       "ID": "Wingman",
       "SetID": "8fdh3of",
       "Name": "Wingman",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 77955
     }
   ],
   "Tags": [
@@ -1736,6 +1818,11 @@
     {
       "Time": "2023-05-04T22:06:27.8029754+00:00",
       "NumProgressed": 779547,
+      "NumCompleted": 38
+    },
+    {
+      "Time": "2023-05-04T22:24:34.4552104+00:00",
+      "NumProgressed": 779548,
       "NumCompleted": 38
     }
   ],
@@ -5982,18 +6069,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 82,
-  "LastChanged_Achievements": "2023-05-04T22:06:27.8029746+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:34.4552098+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1276,
   "EOS_Completed": 38,
-  "EOS_Progressed": 779547,
-  "LastUpdate_Achievements": "2023-05-04T22:06:27.803074+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:48.7075782+00:00",
+  "EOS_Progressed": 779548,
+  "LastUpdate_Achievements": "2023-05-04T22:24:34.4553119+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:35.5327446+00:00",
   "AchievementSets": [
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 779547,
+      "Progressed": 779548,
       "Completed": 38
     }
   ],

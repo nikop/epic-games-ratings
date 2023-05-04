@@ -1,4 +1,5 @@
 # Car Mechanic Simulator 2018
+[View Rawdata](../../db/c/car_mechanic_simulator_2018.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 38,343  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 1,971  (Ranked 103)
 Sum: 15,351 (Ranked 60)  
 Diff (max vs sum): 43  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

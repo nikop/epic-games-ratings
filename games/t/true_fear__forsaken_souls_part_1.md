@@ -1,8 +1,9 @@
 # True Fear: Forsaken Souls Part 1
+[View Rawdata](../../db/t/true_fear__forsaken_souls_part_1.json)  
 Rating: 4.38 (Ranked 686)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,126 +7,144 @@
       "SetID": "2kpkmk",
       "Name": "FOBOS fear has been reduced to dust",
       "Percentage": 25,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 100
     },
     {
       "ID": "Blow_Cleard_Up_Achievement",
       "SetID": "2kpkmk",
       "Name": "EXPLOSA exploded",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "Clean_Freak_Achievement",
       "SetID": "2kpkmk",
       "Name": "Clean Freak",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Corner_And_Light_Gloomdoom_Up_Achievement",
       "SetID": "2kpkmk",
       "Name": "GLOOMDOOM has been zapped",
       "Percentage": 25,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Dedicated_Floor_1_Gamer_Achievement",
       "SetID": "2kpkmk",
       "Name": "Dedicated Floor #1 Gamer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Dedicated_Floor_2_Gamer_Achievement",
       "SetID": "2kpkmk",
       "Name": "Dedicated Floor #2 Gamer",
       "Percentage": 0,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 0
     },
     {
       "ID": "Dedicated_Floor_3_Gamer_Achievement",
       "SetID": "2kpkmk",
       "Name": "Dedicated Floor #3 Gamer",
       "Percentage": 0,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 0
     },
     {
       "ID": "Dedicated_Floor_4_Gamer_Achievement",
       "SetID": "2kpkmk",
       "Name": "Dedicated Floor #4 Gamer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Defeat_The_Last_Anomaly_Achievement",
       "SetID": "2kpkmk",
       "Name": "Bentley is saved",
       "Percentage": 25,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 100
     },
     {
       "ID": "Find_Duplicio_Achievement",
       "SetID": "2kpkmk",
       "Name": "DUPLICIO has been found",
       "Percentage": 25,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "Gouge_Randomas_Eyes_Achievement",
       "SetID": "2kpkmk",
       "Name": "RANDOMA\u0027s eyes has been gouged",
       "Percentage": 25,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "I_Know_My_Way_Around_Achievement",
       "SetID": "2kpkmk",
       "Name": "I know my way around!",
       "Percentage": 25,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 100
     },
     {
       "ID": "Light_Neos_Up_Achievement",
       "SetID": "2kpkmk",
       "Name": "NEOS is lighted up",
       "Percentage": 25,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "Magnetize_Achievement",
       "SetID": "2kpkmk",
       "Name": "Magnetized",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "Poster_Collector_Achievement",
       "SetID": "2kpkmk",
       "Name": "Poster collector",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Resist_Inputos_Curse_Achievement",
       "SetID": "2kpkmk",
       "Name": "INPUTO\u0027s curse is lifted",
       "Percentage": 25,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "The_Collector_Achievement",
       "SetID": "2kpkmk",
       "Name": "The collector",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "Tricking_Glitch_Achievement",
       "SetID": "2kpkmk",
       "Name": "Cheese, I have tricked Glitch so many time",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -147,13 +165,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-04T22:05:59.1325453+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:13.3114428+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T22:05:59.1325612+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:06.1988+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:13.3114654+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:47.6730993+00:00",
   "AchievementSets": [
     {
       "ID": "2kpkmk",
@@ -169,7 +187,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 331,
   "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00"

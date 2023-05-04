@@ -7,196 +7,224 @@
       "SetID": "c2jc46f",
       "Name": "Deal with it!",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 293466
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "c2jc46f",
       "Name": "Gold rush",
       "Percentage": 0.4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 234772
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "c2jc46f",
       "Name": "Cat-o-holic",
       "Percentage": 0.4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 234772
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "c2jc46f",
       "Name": "To see it all, to learn it all",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1173862
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "c2jc46f",
       "Name": "Evolution complete",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1173862
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "c2jc46f",
       "Name": "The hoarder",
       "Percentage": 0.9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 528238
     },
     {
       "ID": "ACHIEVEMENT_18",
       "SetID": "c2jc46f",
       "Name": "README reader",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1760793
     },
     {
       "ID": "ACHIEVEMENT_19",
       "SetID": "c2jc46f",
       "Name": "The Scrooge",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 58693
     },
     {
       "ID": "ACHIEVEMENT_2",
       "SetID": "c2jc46f",
       "Name": "We need more gold",
       "Percentage": 60,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 35215860
     },
     {
       "ID": "ACHIEVEMENT_21",
       "SetID": "c2jc46f",
       "Name": "Best deal on the market",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 586931
     },
     {
       "ID": "ACHIEVEMENT_22",
       "SetID": "c2jc46f",
       "Name": "One more!",
       "Percentage": 44,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 25824964
     },
     {
       "ID": "ACHIEVEMENT_23",
       "SetID": "c2jc46f",
       "Name": "Elements will destroy you!",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 176079
     },
     {
       "ID": "ACHIEVEMENT_24",
       "SetID": "c2jc46f",
       "Name": "Cosplay",
       "Percentage": 13,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 7630103
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "c2jc46f",
       "Name": "Evolution in progress...",
       "Percentage": 13,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7630103
     },
     {
       "ID": "ACHIEVEMENT_26",
       "SetID": "c2jc46f",
       "Name": "Beauty and harmony",
       "Percentage": 48,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 28172688
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "c2jc46f",
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 28759619
     },
     {
       "ID": "ACHIEVEMENT_3",
       "SetID": "c2jc46f",
       "Name": "First.. Bit?",
       "Percentage": 93,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 54584583
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "c2jc46f",
       "Name": "Overmind",
       "Percentage": 24,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 14086344
     },
     {
       "ID": "ACHIEVEMENT_31",
       "SetID": "c2jc46f",
       "Name": "Data scientist",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1760793
     },
     {
       "ID": "ACHIEVEMENT_32",
       "SetID": "c2jc46f",
       "Name": "Ping",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 586931
     },
     {
       "ID": "ACHIEVEMENT_33",
       "SetID": "c2jc46f",
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 38737446
     },
     {
       "ID": "ACHIEVEMENT_34",
       "SetID": "c2jc46f",
       "Name": "RNG is my best friend now",
       "Percentage": 18,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10564758
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "c2jc46f",
       "Name": "The dawn of civilization",
       "Percentage": 53,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 31107343
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "c2jc46f",
       "Name": "Step by step",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4695448
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "c2jc46f",
       "Name": "One small step for a man...",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1760793
     },
     {
       "ID": "ACHIEVEMENT_7",
       "SetID": "c2jc46f",
       "Name": "Is this Skynet?",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1173862
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "c2jc46f",
       "Name": "Cybergeek 2047",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1173862
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "c2jc46f",
       "Name": "Magna cum laude",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 586931
     }
   ],
   "Tags": [
@@ -1287,6 +1315,11 @@
       "Time": "2023-05-04T22:06:35.207589+00:00",
       "NumProgressed": 586928,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-05-04T22:24:39.787458+00:00",
+      "NumProgressed": 586931,
+      "NumCompleted": 474
     }
   ],
   "RatingHistory": [
@@ -1734,18 +1767,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:06:35.2075882+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:39.7874574+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 971,
   "EOS_Completed": 474,
-  "EOS_Progressed": 586928,
-  "LastUpdate_Achievements": "2023-05-04T22:06:35.207616+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:38.9100749+00:00",
+  "EOS_Progressed": 586931,
+  "LastUpdate_Achievements": "2023-05-04T22:24:39.7875017+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:08.998609+00:00",
   "AchievementSets": [
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 586928,
+      "Progressed": 586931,
       "Completed": 474
     }
   ],

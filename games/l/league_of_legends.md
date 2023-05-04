@@ -1,4 +1,5 @@
 # League of Legends
+[View Rawdata](../../db/l/league_of_legends.json)  
 Rating: 4.21 (Ranked 797)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 12,906  (Ranked 26)
 Sum: 26,584 (Ranked 42)  
 Diff (max vs sum): -16  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

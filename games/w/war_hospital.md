@@ -1,4 +1,5 @@
 # War Hospital
+[View Rawdata](../../db/w/war_hospital.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

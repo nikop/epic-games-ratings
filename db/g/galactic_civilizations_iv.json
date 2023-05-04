@@ -7,504 +7,576 @@
       "SetID": "4h07amh",
       "Name": "Solid Economy",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Buy_10_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader - Level 2",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 550
     },
     {
       "ID": "Buy_30_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Guru",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Buy_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 176000
     },
     {
       "ID": "Collect_15_Anomalies",
       "SetID": "4h07amh",
       "Name": "Anomaly Researcher",
       "Percentage": 63,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 346500
     },
     {
       "ID": "Control_All_Relics",
       "SetID": "4h07amh",
       "Name": "Relic Hoarder",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1100
     },
     {
       "ID": "Destroy_8_Pirate_Bases",
       "SetID": "4h07amh",
       "Name": "Pirate Cleansing",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 16500
     },
     {
       "ID": "Destroy_Any_Faction",
       "SetID": "4h07amh",
       "Name": "Xenocide",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 181500
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
       "SetID": "4h07amh",
       "Name": "Yor Dead Iconians",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 176000
     },
     {
       "ID": "First_Major_Ally",
       "SetID": "4h07amh",
       "Name": "Gain an Ally",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 33000
     },
     {
       "ID": "First_Nebula_Anomaly",
       "SetID": "4h07amh",
       "Name": "Discover a Nebula",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 550
     },
     {
       "ID": "First_Planet_Colonized",
       "SetID": "4h07amh",
       "Name": "Colonize a Planet",
       "Percentage": 79,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 434500
     },
     {
       "ID": "First_Race_Met",
       "SetID": "4h07amh",
       "Name": "First Contact",
       "Percentage": 74,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 407000
     },
     {
       "ID": "First_Ship_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Ship",
       "Percentage": 29,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 159500
     },
     {
       "ID": "First_Stream_Travel",
       "SetID": "4h07amh",
       "Name": "Hyperspace!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "First_Worker_Specialization",
       "SetID": "4h07amh",
       "Name": "Worker Specialization",
       "Percentage": 78,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 429000
     },
     {
       "ID": "GA_Against_The_Tide",
       "SetID": "4h07amh",
       "Name": "Against the Tide",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GA_Breeding_Season",
       "SetID": "4h07amh",
       "Name": "Breeding Season",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GA_Orb_Of_Draginol",
       "SetID": "4h07amh",
       "Name": "The Orb of Draginol",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GA_Shard_Of_The_Mithrilar",
       "SetID": "4h07amh",
       "Name": "Shard of the Mithrilar",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GA_The_Everwar",
       "SetID": "4h07amh",
       "Name": "The Everwar",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GA_The_Plague",
       "SetID": "4h07amh",
       "Name": "The Plague",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Have_Many_TradeRoutes",
       "SetID": "4h07amh",
       "Name": "Trading Partner",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 49500
     },
     {
       "ID": "Level_5_Ship",
       "SetID": "4h07amh",
       "Name": "Veteran Crew",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Minor_Civ_Quest",
       "SetID": "4h07amh",
       "Name": "Complete a Minor Civilization Quest",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Own_30_Planets",
       "SetID": "4h07amh",
       "Name": "Own 30 Planets",
       "Percentage": 35,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 192500
     },
     {
       "ID": "Play_1000_Hours",
       "SetID": "4h07amh",
       "Name": "Play for 1000 Hours",
       "Percentage": 0.1,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 550
     },
     {
       "ID": "Play_100_Hours",
       "SetID": "4h07amh",
       "Name": "Play for 100 Hours",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 550
     },
     {
       "ID": "Play_5_Hours",
       "SetID": "4h07amh",
       "Name": "Play for 5 Hours",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 550
     },
     {
       "ID": "Play_Multiplayer",
       "SetID": "4h07amh",
       "Name": "Play a Multiplayer Game",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Rebuild_The_Retribution",
       "SetID": "4h07amh",
       "Name": "Rebuild the Retribution",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Recapture_Home_Planet",
       "SetID": "4h07amh",
       "Name": "It\u0027s OUR Homeworld",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 550
     },
     {
       "ID": "Recruit_12_Leaders",
       "SetID": "4h07amh",
       "Name": "Recruit a Dozen Leaders",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Sell_10_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Seller, Level 2",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1100
     },
     {
       "ID": "Sell_30_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Selling Guru",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Sell_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Seller",
       "Percentage": 26,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 143000
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
       "SetID": "4h07amh",
       "Name": "Iconia Reclaimed!",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1650
     },
     {
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
       "Percentage": 62,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 341000
     },
     {
       "ID": "Use_X_Artifact_Powers",
       "SetID": "4h07amh",
       "Name": "Artifact Mastery",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 11000
     },
     {
       "ID": "War_With_5_Factions",
       "SetID": "4h07amh",
       "Name": "Galactic War",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 60500
     },
     {
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 27500
     },
     {
       "ID": "Win_As_Altarian",
       "SetID": "4h07amh",
       "Name": "Win as Altarians",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 11000
     },
     {
       "ID": "Win_As_Arcean",
       "SetID": "4h07amh",
       "Name": "Win as Arceans",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5500
     },
     {
       "ID": "Win_As_Baratak",
       "SetID": "4h07amh",
       "Name": "Win as the Baratak",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5500
     },
     {
       "ID": "Win_As_Drath",
       "SetID": "4h07amh",
       "Name": "Win as the Drath",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3850
     },
     {
       "ID": "Win_As_Drengin",
       "SetID": "4h07amh",
       "Name": "Win as the Drengin",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3850
     },
     {
       "ID": "Win_As_Festron",
       "SetID": "4h07amh",
       "Name": "Win as Festron",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5500
     },
     {
       "ID": "Win_As_Iconian",
       "SetID": "4h07amh",
       "Name": "Win as the Iconians",
       "Percentage": 0.6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3300
     },
     {
       "ID": "Win_As_Iridium",
       "SetID": "4h07amh",
       "Name": "Win as the Iridium",
       "Percentage": 0.6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3300
     },
     {
       "ID": "Win_As_Krynn",
       "SetID": "4h07amh",
       "Name": "Win as the Krynn",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3850
     },
     {
       "ID": "Win_As_Manti",
       "SetID": "4h07amh",
       "Name": "Win as the Manti",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3850
     },
     {
       "ID": "Win_As_Mimot",
       "SetID": "4h07amh",
       "Name": "Win as the Mimot",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5500
     },
     {
       "ID": "Win_As_Navigators",
       "SetID": "4h07amh",
       "Name": "Win as the Navigators",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4950
     },
     {
       "ID": "Win_As_Onyx",
       "SetID": "4h07amh",
       "Name": "Win as the Onyx",
       "Percentage": 0.6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3300
     },
     {
       "ID": "Win_As_Terran",
       "SetID": "4h07amh",
       "Name": "Win as Terrans",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 38500
     },
     {
       "ID": "Win_As_Torian",
       "SetID": "4h07amh",
       "Name": "Win as Torians",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4950
     },
     {
       "ID": "Win_As_Xeloxi",
       "SetID": "4h07amh",
       "Name": "Win as Xeloxi",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4400
     },
     {
       "ID": "Win_As_Yor",
       "SetID": "4h07amh",
       "Name": "Win as the Yor",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 11000
     },
     {
       "ID": "Win_Battle",
       "SetID": "4h07amh",
       "Name": "Win a Battle",
       "Percentage": 67,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 368500
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
       "SetID": "4h07amh",
       "Name": "Fleet Victory",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 44000
     },
     {
       "ID": "Win_Conquest",
       "SetID": "4h07amh",
       "Name": "Conquest Victory!",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 22000
     },
     {
       "ID": "Win_CustomFaction",
       "SetID": "4h07amh",
       "Name": "Win with a Custom Faction",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 38500
     },
     {
       "ID": "Win_Diplomacy",
       "SetID": "4h07amh",
       "Name": "Diplomatic Victory!",
       "Percentage": 0.7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3850
     },
     {
       "ID": "Win_ImmenseMap",
       "SetID": "4h07amh",
       "Name": "Win an Immense Game",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 16500
     },
     {
       "ID": "Win_Influence",
       "SetID": "4h07amh",
       "Name": "Influence Victory!",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 11000
     },
     {
       "ID": "Win_Multiplayer",
       "SetID": "4h07amh",
       "Name": "Win a Multiplayer Game",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 550
     },
     {
       "ID": "Win_Prestige",
       "SetID": "4h07amh",
       "Name": "Prestige Victory!",
       "Percentage": 14,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 77000
     },
     {
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 22000
     },
     {
       "ID": "Win_Research",
       "SetID": "4h07amh",
       "Name": "Science Victory!",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [
@@ -1998,13 +2070,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 72,
-  "LastChanged_Achievements": "2023-05-04T22:06:00.4178488+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:14.3566943+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 298,
   "EOS_Completed": 0,
   "EOS_Progressed": 5500,
-  "LastUpdate_Achievements": "2023-05-04T22:06:00.4179297+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:34.462694+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:14.3567749+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:47.6363664+00:00",
   "AchievementSets": [
     {
       "ID": "4h07amh",

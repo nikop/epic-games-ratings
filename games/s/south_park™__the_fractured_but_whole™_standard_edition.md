@@ -1,4 +1,5 @@
 # South Park™: The Fractured But Whole™ Standard Edition
+[View Rawdata](../../db/s/south_park™__the_fractured_but_whole™_standard_edition.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 162  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 108  (Ranked 312)
 Sum: 108 (Ranked 393)  
 Diff (max vs sum): -81  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

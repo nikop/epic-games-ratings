@@ -1,4 +1,5 @@
 # RimWorld
+[View Rawdata](../../db/r/rimworld.json)  
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 870  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 404  (Ranked 196)
 Sum: 3,620 (Ranked 138)  
 Diff (max vs sum): 58  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

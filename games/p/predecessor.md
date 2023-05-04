@@ -1,12 +1,13 @@
 # Predecessor
+[View Rawdata](../../db/p/predecessor.json)  
 Rating: 4.44 (Ranked 620)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 72  (Ranked 355)  
 Sum: 502 (Ranked 290)  
 Diff (max vs sum): 65  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,9 +1,10 @@
 # Lake
+[View Rawdata](../../db/l/lake.json)  
 Rating: 4.03 (Ranked 872)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

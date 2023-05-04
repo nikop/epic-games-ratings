@@ -1,4 +1,5 @@
 # DAEMON X MACHINA
+[View Rawdata](../../db/d/daemon_x_machina.json)  
 Rating: 4.40 (Ranked 663)  
 Number of Ratings: 2,096  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 983  (Ranked 138)
 Sum: 1,425 (Ranked 210)  
 Diff (max vs sum): -72  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,21 +1,22 @@
 # Cafe Owner Simulator
+[View Rawdata](../../db/c/cafe_owner_simulator.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| BUSINESS OWNER | 98.00 |
-| CLEANER | 93.00 |
-| OH NO, HE'S LEAVING! | 72.00 |
-| FIREFIGHTER | 50.00 |
-| ADVANCED | 35.00 |
-| CHIEF | 17.00 |
-| SECOND_FLOOR | 11.00 |
-| DEBTOR | 8.00 |
-| FIRST $100K | 3.00 |
-| SUCCESSFUL | 3.00 |
-| THINGS ARE GOING WELL | 3.00 |
-| YETTI | 2.00 |
-| 500K$. | 1.00 |
-| INTRODUCTION | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| BUSINESS OWNER | 98.00% | ~23,128 |
+| CLEANER | 93.00% | ~21,948 |
+| OH NO, HE'S LEAVING! | 72.00% | ~16,992 |
+| FIREFIGHTER | 50.00% | ~11,800 |
+| ADVANCED | 35.00% | ~8,260 |
+| CHIEF | 17.00% | ~4,012 |
+| SECOND_FLOOR | 11.00% | ~2,596 |
+| DEBTOR | 8.00% | ~1,888 |
+| FIRST $100K | 3.00% | ~708 |
+| SUCCESSFUL | 3.00% | ~708 |
+| THINGS ARE GOING WELL | 3.00% | ~708 |
+| YETTI | 2.00% | ~472 |
+| 500K$. | 1.00% | ~236 |
+| INTRODUCTION | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 236 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 191)  

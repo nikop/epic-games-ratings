@@ -1,4 +1,5 @@
 # State of Decay 2: Juggernaut Edition
+[View Rawdata](../../db/s/state_of_decay_2__juggernaut_edition.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 309  (Ranked 221)
 Sum: 2,362 (Ranked 167)  
 Diff (max vs sum): 54  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

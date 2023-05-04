@@ -1,4 +1,5 @@
 # VALORANT
+[View Rawdata](../../db/v/valorant.json)  
 Rating: 4.54 (Ranked 475)  
 Number of Ratings: 157,172  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 51,078  (Ranked 11)
 Sum: 385,836 (Ranked 6)  
 Diff (max vs sum): 5  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

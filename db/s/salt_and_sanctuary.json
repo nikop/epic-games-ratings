@@ -7,259 +7,296 @@
       "SetID": "7f6ck5n",
       "Name": "Branded",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6757374
     },
     {
       "ID": "COASTROCK",
       "SetID": "7f6ck5n",
       "Name": "Coastrock",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1039596
     },
     {
       "ID": "DEVARAS_LIGHT",
       "SetID": "7f6ck5n",
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15593940
     },
     {
       "ID": "DEVOTED",
       "SetID": "7f6ck5n",
       "Name": "Devoted",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1039596
     },
     {
       "ID": "DOMINION",
       "SetID": "7f6ck5n",
       "Name": "Dominion",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1039596
     },
     {
       "ID": "FADING_FAST",
       "SetID": "7f6ck5n",
       "Name": "Fading Fast",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 519798
     },
     {
       "ID": "FIND_SALVATION",
       "SetID": "7f6ck5n",
       "Name": "Find Salvation",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1559394
     },
     {
       "ID": "FIND_SANCTUARY",
       "SetID": "7f6ck5n",
       "Name": "Find Sanctuary",
       "Percentage": 83,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 43143234
     },
     {
       "ID": "HONED",
       "SetID": "7f6ck5n",
       "Name": "Honed",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2079192
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
       "SetID": "7f6ck5n",
       "Name": "The House of Splendor",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2079192
     },
     {
       "ID": "KEEPERS_OF_FIRE",
       "SetID": "7f6ck5n",
       "Name": "Keepers of Fire and Sky",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1039596
     },
     {
       "ID": "ORDER_OF_BETRAYER",
       "SetID": "7f6ck5n",
       "Name": "Order of the Betrayer",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1039596
     },
     {
       "ID": "STORIED",
       "SetID": "7f6ck5n",
       "Name": "Storied",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3118788
     },
     {
       "ID": "THE_ALKYMANCERY",
       "SetID": "7f6ck5n",
       "Name": "The Alkymancery",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2598990
     },
     {
       "ID": "THE_BANQUET",
       "SetID": "7f6ck5n",
       "Name": "The Banquet",
       "Percentage": 40,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 20791920
     },
     {
       "ID": "THE_CASTLE",
       "SetID": "7f6ck5n",
       "Name": "The Castle",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5717778
     },
     {
       "ID": "THE_CAVE",
       "SetID": "7f6ck5n",
       "Name": "The Cave",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3638586
     },
     {
       "ID": "THE_CONSTRUCT",
       "SetID": "7f6ck5n",
       "Name": "The Construct",
       "Percentage": 6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3118788
     },
     {
       "ID": "THE_CRYPT",
       "SetID": "7f6ck5n",
       "Name": "The Crypt",
       "Percentage": 4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2079192
     },
     {
       "ID": "THE_DOME",
       "SetID": "7f6ck5n",
       "Name": "The Dome",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4678182
     },
     {
       "ID": "THE_FOREST",
       "SetID": "7f6ck5n",
       "Name": "The Forest",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7277172
     },
     {
       "ID": "THE_IMPOSTER",
       "SetID": "7f6ck5n",
       "Name": "The Imposter",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6757374
     },
     {
       "ID": "THE_IRON_ONES",
       "SetID": "7f6ck5n",
       "Name": "The Iron Ones",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9356364
     },
     {
       "ID": "THE_KEEP",
       "SetID": "7f6ck5n",
       "Name": "The Keep",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6757374
     },
     {
       "ID": "THE_LAKE",
       "SetID": "7f6ck5n",
       "Name": "The Lake",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2598990
     },
     {
       "ID": "THE_MIRE",
       "SetID": "7f6ck5n",
       "Name": "The Mire",
       "Percentage": 6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3118788
     },
     {
       "ID": "THE_PALACE",
       "SetID": "7f6ck5n",
       "Name": "The Palace",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2079192
     },
     {
       "ID": "THE_PITCHWOODS",
       "SetID": "7f6ck5n",
       "Name": "The Pitchwoods",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2598990
     },
     {
       "ID": "THE_RED_HALL",
       "SetID": "7f6ck5n",
       "Name": "The Red Hall",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4678182
     },
     {
       "ID": "THE_RUINS",
       "SetID": "7f6ck5n",
       "Name": "The Ruins",
       "Percentage": 6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3118788
     },
     {
       "ID": "THE_SACRIFICE",
       "SetID": "7f6ck5n",
       "Name": "The Sacrifice",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4158384
     },
     {
       "ID": "THE_STONE_ROOTS",
       "SetID": "7f6ck5n",
       "Name": "The Stone Roots",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3638586
     },
     {
       "ID": "THE_THREE",
       "SetID": "7f6ck5n",
       "Name": "The Three",
       "Percentage": 64,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 33267072
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
       "SetID": "7f6ck5n",
       "Name": "The Unspeakable Deep",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1559394
     },
     {
       "ID": "THE_VILLAGE",
       "SetID": "7f6ck5n",
       "Name": "The Village",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 8316768
     },
     {
       "ID": "THE_ZIGGURAT",
       "SetID": "7f6ck5n",
       "Name": "The Ziggurat",
       "Percentage": 7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3638586
     },
     {
       "ID": "WISE_WORDS",
       "SetID": "7f6ck5n",
       "Name": "Wise Words",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1039596
     }
   ],
   "Tags": [
@@ -1398,6 +1435,11 @@
     {
       "Time": "2023-05-04T22:06:41.2315641+00:00",
       "NumProgressed": 519794,
+      "NumCompleted": 1396
+    },
+    {
+      "Time": "2023-05-04T22:24:44.4059855+00:00",
+      "NumProgressed": 519798,
       "NumCompleted": 1396
     }
   ],
@@ -3471,18 +3513,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-04T22:06:41.2315634+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:44.4059851+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 871,
+  "EOS_NewPlayers": 875,
   "EOS_Completed": 1396,
-  "EOS_Progressed": 519794,
-  "LastUpdate_Achievements": "2023-05-04T22:06:41.2315974+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:03.5810936+00:00",
+  "EOS_Progressed": 519798,
+  "LastUpdate_Achievements": "2023-05-04T22:24:44.406024+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:25.2152933+00:00",
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 519794,
+      "Progressed": 519798,
       "Completed": 1396
     }
   ],

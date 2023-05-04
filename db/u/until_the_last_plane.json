@@ -7,77 +7,88 @@
       "SetID": "7gda6mp",
       "Name": "Intense day",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_commands",
       "SetID": "7gda6mp",
       "Name": "Commander",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_first",
       "SetID": "7gda6mp",
       "Name": "First victory!",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_first_defeat",
       "SetID": "7gda6mp",
       "Name": "Learn\u00A0from\u00A0errors",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_funds",
       "SetID": "7gda6mp",
       "Name": "Tycoon",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_influence",
       "SetID": "7gda6mp",
       "Name": "Politician",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_magazine",
       "SetID": "7gda6mp",
       "Name": "Editor-in-chief",
       "Percentage": 0,
-      "XP": 95
+      "XP": 95,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_medic",
       "SetID": "7gda6mp",
       "Name": "Hippocrates",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_plane_bought",
       "SetID": "7gda6mp",
       "Name": "Saver",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_prototype",
       "SetID": "7gda6mp",
       "Name": "Jet is better",
       "Percentage": 0,
-      "XP": 95
+      "XP": 95,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_skills",
       "SetID": "7gda6mp",
       "Name": "Unskilled",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -85,13 +96,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T22:06:37.8460929+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:41.987812+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:37.846104+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:52.586414+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:41.9878242+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:18.515333+00:00",
   "AchievementSets": [
     {
       "ID": "7gda6mp",
@@ -102,7 +113,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:50:18.7647785+00:00"

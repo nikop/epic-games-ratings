@@ -1,22 +1,23 @@
 # Shame Legacy
+[View Rawdata](../../db/s/shame_legacy.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| A flash of the past | 0.00 |
-| Defendor | 0.00 |
-| End of a nightmare | 0.00 |
-| Finding inner peace | 0.00 |
-| Homecoming | 0.00 |
-| In search of truth | 0.00 |
-| Master of afterlife | 0.00 |
-| Outruner of death | 0.00 |
-| Puzzle solver | 0.00 |
-| Reliving hell | 0.00 |
-| The intrepid | 0.00 |
-| The revenant | 0.00 |
-| True successor | 0.00 |
-| Unpleasant visit | 0.00 |
-| Well informed | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| A flash of the past | 0.00% | ~0 |
+| Defendor | 0.00% | ~0 |
+| End of a nightmare | 0.00% | ~0 |
+| Finding inner peace | 0.00% | ~0 |
+| Homecoming | 0.00% | ~0 |
+| In search of truth | 0.00% | ~0 |
+| Master of afterlife | 0.00% | ~0 |
+| Outruner of death | 0.00% | ~0 |
+| Puzzle solver | 0.00% | ~0 |
+| Reliving hell | 0.00% | ~0 |
+| The intrepid | 0.00% | ~0 |
+| The revenant | 0.00% | ~0 |
+| True successor | 0.00% | ~0 |
+| Unpleasant visit | 0.00% | ~0 |
+| Well informed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 191)  

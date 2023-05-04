@@ -1,8 +1,9 @@
 # WRC Generations
+[View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.47 (Ranked 573)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

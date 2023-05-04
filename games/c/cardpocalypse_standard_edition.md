@@ -1,7 +1,8 @@
 # Cardpocalypse Standard Edition
+[View Rawdata](../../db/c/cardpocalypse_standard_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

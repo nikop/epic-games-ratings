@@ -7,196 +7,224 @@
       "SetID": "4dbk7kc",
       "Name": "Well-Done",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_OLEANDER",
       "SetID": "4dbk7kc",
       "Name": "Valedictorian",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_PAPRIKA",
       "SetID": "4dbk7kc",
       "Name": "Love is a Battlefield",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_POM",
       "SetID": "4dbk7kc",
       "Name": "That\u0027ll Do",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_SHANTY",
       "SetID": "4dbk7kc",
       "Name": "Swashbuckle\u0027d",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_STARTING_6",
       "SetID": "4dbk7kc",
       "Name": "School of Hard Knocks",
       "Percentage": 0.1,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_TIANHUO",
       "SetID": "4dbk7kc",
       "Name": "Way of the Dragon",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "ALL_COMBO_VELVET",
       "SetID": "4dbk7kc",
       "Name": "Iced Out",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "BEGIN_STORY_MODE",
       "SetID": "4dbk7kc",
       "Name": "Once upon a time...",
       "Percentage": 35,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7708400
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "Kickin\u0027 \u0027n Stompin\u0027",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_OLEANDER_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "Dark Magic",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_PAPRIKA_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "I Love You This Much",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_POM_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "Who Let The Dogs Out?",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_SHANTY_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "The GOAT",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_STARTING_6",
       "SetID": "4dbk7kc",
       "Name": "The Key To Victory",
       "Percentage": 0.1,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_TIANHUO_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "Honor For All",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARCADE_VELVET_GREENHORN",
       "SetID": "4dbk7kc",
       "Name": "Ice Queen",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22024
     },
     {
       "ID": "COMPLETE_ARIZONAS_STORY_MODE_CHAPTER",
       "SetID": "4dbk7kc",
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 220240
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
       "SetID": "4dbk7kc",
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7488160
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
       "SetID": "4dbk7kc",
       "Name": "Doohickeys",
       "Percentage": 0.1,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 22024
     },
     {
       "ID": "PLAY_1_ONLINE_MATCH",
       "SetID": "4dbk7kc",
       "Name": "Be Gentle...",
       "Percentage": 22,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4845280
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
       "SetID": "4dbk7kc",
       "Name": "Tenderhoof",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 660720
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
       "SetID": "4dbk7kc",
       "Name": "Alpaca Space Program",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 22024
     },
     {
       "ID": "STOMP_SON_OF_DEER_PAINTING",
       "SetID": "4dbk7kc",
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 44048
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
       "SetID": "4dbk7kc",
       "Name": "High Priestess",
       "Percentage": 0.1,
-      "XP": 145
+      "XP": 145,
+      "UsersEstimate": 22024
     },
     {
       "ID": "WIN_10_ONLINE_MATCHES",
       "SetID": "4dbk7kc",
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 880960
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
       "SetID": "4dbk7kc",
       "Name": "A Worthy Opponent",
       "Percentage": 17,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3744080
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
       "SetID": "4dbk7kc",
       "Name": "Come At Me!",
       "Percentage": 1,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 220240
     }
   ],
   "Tags": [],
@@ -1425,13 +1453,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:06:50.6296061+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:51.5858091+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 698,
   "EOS_Completed": 2,
   "EOS_Progressed": 220240,
-  "LastUpdate_Achievements": "2023-05-04T22:06:50.6296343+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:41.7506592+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:51.5858327+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:49.5727094+00:00",
   "AchievementSets": [
     {
       "ID": "4dbk7kc",

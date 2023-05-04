@@ -1,51 +1,52 @@
 # Aegis Descent
+[View Rawdata](../../db/a/aegis_descent.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Clean Sweep | 96.00 |
-| Scavenger | 76.00 |
-| Line of Duty | 74.00 |
-| Gunner | 56.00 |
-| DocKing | 47.00 |
-| What-A-Shot | 44.00 |
-| Batteries Included | 40.00 |
-| Death from Above | 39.00 |
-| Hull King | 27.00 |
-| Extra Ammo | 21.00 |
-| Boss Down | 20.00 |
-| Splash Damage | 18.00 |
-| Hazardous Duty | 17.00 |
-| Perky | 16.00 |
-| Perk King | 11.00 |
-| Salvage | 11.00 |
-| Shocking | 11.00 |
-| Perfect Timing | 10.00 |
-| Sixty Seconds | 10.00 |
-| Killer Elite | 6.00 |
-| Bumper Car | 5.00 |
-| First Victory | 5.00 |
-| OP | 5.00 |
-| Early Bird | 4.00 |
-| Thirty Birds... | 4.00 |
-| The Disruptor | 3.00 |
-| Swiss Cheese | 3.00 |
-| Heavy Metal | 2.00 |
-| Mister Fix It | 2.00 |
-| Power Up | 2.00 |
-| Shell Shock | 2.00 |
-| Hornet Lock On | 2.00 |
-| Specialized | 2.00 |
-| The First Step | 2.00 |
-| Having a Blast | 1.00 |
-| The Cannoneer | 1.00 |
-| Demolition Derby | 0.90 |
-| Military Intelligence | 0.90 |
-| Time Run | 0.90 |
-| Halfway There | 0.60 |
-| Intel King | 0.60 |
-| Big Spender | 0.30 |
-| Burn Them | 0.30 |
-| Final Ascension | 0.30 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Clean Sweep | 96.00% | ~33,216 |
+| Scavenger | 76.00% | ~26,296 |
+| Line of Duty | 74.00% | ~25,604 |
+| Gunner | 56.00% | ~19,376 |
+| DocKing | 47.00% | ~16,262 |
+| What-A-Shot | 44.00% | ~15,224 |
+| Batteries Included | 40.00% | ~13,840 |
+| Death from Above | 39.00% | ~13,494 |
+| Hull King | 27.00% | ~9,342 |
+| Extra Ammo | 21.00% | ~7,266 |
+| Boss Down | 20.00% | ~6,920 |
+| Splash Damage | 18.00% | ~6,228 |
+| Hazardous Duty | 17.00% | ~5,882 |
+| Perky | 16.00% | ~5,536 |
+| Perk King | 11.00% | ~3,806 |
+| Salvage | 11.00% | ~3,806 |
+| Shocking | 11.00% | ~3,806 |
+| Perfect Timing | 10.00% | ~3,460 |
+| Sixty Seconds | 10.00% | ~3,460 |
+| Killer Elite | 6.00% | ~2,076 |
+| Bumper Car | 5.00% | ~1,730 |
+| First Victory | 5.00% | ~1,730 |
+| OP | 5.00% | ~1,730 |
+| Early Bird | 4.00% | ~1,384 |
+| Thirty Birds... | 4.00% | ~1,384 |
+| The Disruptor | 3.00% | ~1,038 |
+| Swiss Cheese | 3.00% | ~1,038 |
+| Heavy Metal | 2.00% | ~692 |
+| Mister Fix It | 2.00% | ~692 |
+| Power Up | 2.00% | ~692 |
+| Shell Shock | 2.00% | ~692 |
+| Hornet Lock On | 2.00% | ~692 |
+| Specialized | 2.00% | ~692 |
+| The First Step | 2.00% | ~692 |
+| Having a Blast | 1.00% | ~346 |
+| The Cannoneer | 1.00% | ~346 |
+| Demolition Derby | 0.90% | ~311 |
+| Military Intelligence | 0.90% | ~311 |
+| Time Run | 0.90% | ~311 |
+| Halfway There | 0.60% | ~208 |
+| Intel King | 0.60% | ~208 |
+| Big Spender | 0.30% | ~104 |
+| Burn Them | 0.30% | ~104 |
+| Final Ascension | 0.30% | ~104 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 346 (Ranked 197)  
 Completed: 1 (0.29%) (Ranked 119)  

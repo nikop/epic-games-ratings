@@ -1,4 +1,5 @@
 # OUTRIDERS
+[View Rawdata](../../db/o/outriders.json)  
 Rating: 4.42 (Ranked 641)  
 Number of Ratings: 1,201  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 1,105  (Ranked 127)
 Sum: 2,311 (Ranked 172)  
 Diff (max vs sum): -45  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

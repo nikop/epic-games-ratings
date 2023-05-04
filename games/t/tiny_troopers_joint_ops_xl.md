@@ -1,7 +1,8 @@
 # Tiny Troopers Joint Ops XL
+[View Rawdata](../../db/t/tiny_troopers_joint_ops_xl.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

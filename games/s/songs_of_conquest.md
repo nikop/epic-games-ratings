@@ -1,4 +1,5 @@
 # Songs of Conquest
+[View Rawdata](../../db/s/songs_of_conquest.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 292  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 27  (Ranked 454)
 Sum: 170 (Ranked 363)  
 Diff (max vs sum): 91  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

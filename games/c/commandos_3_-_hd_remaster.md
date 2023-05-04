@@ -1,7 +1,8 @@
 # Commandos 3 - HD Remaster
+[View Rawdata](../../db/c/commandos_3_-_hd_remaster.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

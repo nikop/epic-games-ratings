@@ -7,189 +7,216 @@
       "SetID": "c29op2e",
       "Name": "[2130] Nature Lover",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_2130_settlement_death_end2",
       "SetID": "c29op2e",
       "Name": "[2130] No Quarter Given",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_2130_steel_production2",
       "SetID": "c29op2e",
       "Name": "[2130] Dumpster Diving",
       "Percentage": 0.1,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_bankruptcy",
       "SetID": "c29op2e",
       "Name": "Penniless",
       "Percentage": 6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3956028
     },
     {
       "ID": "ach_build_bridge",
       "SetID": "c29op2e",
       "Name": "Engineer",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1318676
     },
     {
       "ID": "ach_build_tunnel",
       "SetID": "c29op2e",
       "Name": "Excavator",
       "Percentage": 0.3,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 197801
     },
     {
       "ID": "ach_car_prototype",
       "SetID": "c29op2e",
       "Name": "Vroom Vroom",
       "Percentage": 0.4,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 263735
     },
     {
       "ID": "ach_complete_contracts",
       "SetID": "c29op2e",
       "Name": "Freelancer",
       "Percentage": 0.1,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_complete_tutorials",
       "SetID": "c29op2e",
       "Name": "Well educated",
       "Percentage": 37,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 24395506
     },
     {
       "ID": "ach_demolish_trees",
       "SetID": "c29op2e",
       "Name": "Deforester",
       "Percentage": 16,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 10549408
     },
     {
       "ID": "ach_free_cam_mode",
       "SetID": "c29op2e",
       "Name": "Director",
       "Percentage": 0.1,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_max_loan",
       "SetID": "c29op2e",
       "Name": "Loan Ranger",
       "Percentage": 0.3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 197801
     },
     {
       "ID": "ach_max_profit",
       "SetID": "c29op2e",
       "Name": "Massive Gains",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3956028
     },
     {
       "ID": "ach_max_truck_distance",
       "SetID": "c29op2e",
       "Name": "I would drive 500 tiles...",
       "Percentage": 11,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 7252718
     },
     {
       "ID": "ach_place_all_buildngs",
       "SetID": "c29op2e",
       "Name": "Master Builder",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_place_buildings",
       "SetID": "c29op2e",
       "Name": "Hard working",
       "Percentage": 0.1,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 65934
     },
     {
       "ID": "ach_place_first_building",
       "SetID": "c29op2e",
       "Name": "Entrepreneur",
       "Percentage": 47,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 30988886
     },
     {
       "ID": "ach_produced",
       "SetID": "c29op2e",
       "Name": "Apprentice Manufacturer",
       "Percentage": 12,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 7912056
     },
     {
       "ID": "ach_products_moved",
       "SetID": "c29op2e",
       "Name": "Big Hauling",
       "Percentage": 15,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 9890070
     },
     {
       "ID": "ach_raise_money",
       "SetID": "c29op2e",
       "Name": "Billionaire",
       "Percentage": 0.6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 395603
     },
     {
       "ID": "ach_sell_tier3_product",
       "SetID": "c29op2e",
       "Name": "Salesman",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1318676
     },
     {
       "ID": "ach_sell_to_state",
       "SetID": "c29op2e",
       "Name": "Exporter",
       "Percentage": 13,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 8571394
     },
     {
       "ID": "ach_setup_route_boat",
       "SetID": "c29op2e",
       "Name": "Captain",
       "Percentage": 0.7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 461537
     },
     {
       "ID": "ach_setup_route_train",
       "SetID": "c29op2e",
       "Name": "Railwayman",
       "Percentage": 7,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 4615366
     },
     {
       "ID": "ach_setup_route_zepplin",
       "SetID": "c29op2e",
       "Name": "High Flyer",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1318676
     },
     {
       "ID": "ach_use_terraforming",
       "SetID": "c29op2e",
       "Name": "Landscaper",
       "Percentage": 11,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7252718
     },
     {
       "ID": "ach_warehouse_clients",
       "SetID": "c29op2e",
       "Name": "City Planner",
-      "Percentage": 18,
-      "XP": 35
+      "Percentage": 19,
+      "XP": 35,
+      "UsersEstimate": 12527422
     }
   ],
   "Tags": [],
@@ -1293,6 +1320,11 @@
       "Time": "2023-05-04T22:06:29.1102402+00:00",
       "NumProgressed": 659333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T22:24:35.3975062+00:00",
+      "NumProgressed": 659338,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1439,18 +1471,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T22:06:29.1102395+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:35.3975056+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7084,
+  "EOS_NewPlayers": 7089,
   "EOS_Completed": 1,
-  "EOS_Progressed": 659333,
-  "LastUpdate_Achievements": "2023-05-04T22:06:29.1102829+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:11.2573442+00:00",
+  "EOS_Progressed": 659338,
+  "LastUpdate_Achievements": "2023-05-04T22:24:35.3975467+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:51.1464881+00:00",
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 659333,
+      "Progressed": 659338,
       "Completed": 1
     }
   ],

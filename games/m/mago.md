@@ -1,8 +1,9 @@
 # Mago
+[View Rawdata](../../db/m/mago.json)  
 Rating: 4.90 (Ranked 7)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

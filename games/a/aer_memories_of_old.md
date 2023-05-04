@@ -1,29 +1,30 @@
 # AER Memories of Old
+[View Rawdata](../../db/a/aer_memories_of_old.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Light at the end of the tunnel | 76.00 |
-| Mama? | 28.00 |
-| People's Haven | 19.00 |
-| Cartographer | 18.00 |
-| Antlers of Stone | 16.00 |
-| Knowledge for Power | 15.00 |
-| Gaze into the abyss | 14.00 |
-| Mausoleum of Ice | 14.00 |
-| Equilibrium | 13.00 |
-| In the belly of the beast | 12.00 |
-| Wings of Stone | 12.00 |
-| Condor condo | 11.00 |
-| Memorial | 9.00 |
-| An uninvited guest | 8.00 |
-| Tails of Stone | 7.00 |
-| Baa from the past | 7.00 |
-| Written in stone | 7.00 |
-| Talk to all the spirit animals | 7.00 |
-| Ripples on the surface | 6.00 |
-| Hide and Seek | 5.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Light at the end of the tunnel | 76.00% | ~645,012 |
+| Mama? | 28.00% | ~237,636 |
+| People's Haven | 19.00% | ~161,253 |
+| Cartographer | 18.00% | ~152,766 |
+| Antlers of Stone | 16.00% | ~135,792 |
+| Knowledge for Power | 15.00% | ~127,305 |
+| Gaze into the abyss | 14.00% | ~118,818 |
+| Mausoleum of Ice | 14.00% | ~118,818 |
+| Equilibrium | 13.00% | ~110,331 |
+| In the belly of the beast | 12.00% | ~101,844 |
+| Wings of Stone | 12.00% | ~101,844 |
+| Condor condo | 11.00% | ~93,357 |
+| Memorial | 9.00% | ~76,383 |
+| An uninvited guest | 8.00% | ~67,896 |
+| Tails of Stone | 7.00% | ~59,409 |
+| Baa from the past | 7.00% | ~59,409 |
+| Written in stone | 7.00% | ~59,409 |
+| Talk to all the spirit animals | 7.00% | ~59,409 |
+| Ripples on the surface | 6.00% | ~50,922 |
+| Hide and Seek | 5.00% | ~42,435 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,487 (Ranked 108)  
 Completed: 195 (2.30%) (Ranked 54)  

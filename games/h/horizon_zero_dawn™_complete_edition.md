@@ -1,4 +1,5 @@
 # Horizon Zero Dawn™ Complete Edition
+[View Rawdata](../../db/h/horizon_zero_dawn™_complete_edition.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 7,175  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 3,948  (Ranked 74)
 Sum: 8,328 (Ranked 87)  
 Diff (max vs sum): -13  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

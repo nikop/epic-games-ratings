@@ -7,168 +7,192 @@
       "SetID": "9p3jgda",
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 12,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 27624
     },
     {
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
       "Percentage": 39,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 89778
     },
     {
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 230
     },
     {
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4604
     },
     {
       "ID": "13",
       "SetID": "9p3jgda",
       "Name": "EXPERIENCED CREW",
       "Percentage": 1,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 2302
     },
     {
       "ID": "14",
       "SetID": "9p3jgda",
       "Name": "IT MAKES BOOM!",
       "Percentage": 39,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 89778
     },
     {
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
       "Percentage": 0.5,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1151
     },
     {
       "ID": "16",
       "SetID": "9p3jgda",
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 6,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 13812
     },
     {
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1611
     },
     {
       "ID": "18",
       "SetID": "9p3jgda",
       "Name": "ACE BRAWLER",
       "Percentage": 3,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 6906
     },
     {
       "ID": "19",
       "SetID": "9p3jgda",
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 8,
-      "XP": 85
+      "XP": 85,
+      "UsersEstimate": 18416
     },
     {
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
       "Percentage": 16,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 36832
     },
     {
       "ID": "20",
       "SetID": "9p3jgda",
       "Name": "PROTECTED",
       "Percentage": 26,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 59852
     },
     {
       "ID": "21",
       "SetID": "9p3jgda",
       "Name": "ACE DEFENDER",
       "Percentage": 5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 11510
     },
     {
       "ID": "22",
       "SetID": "9p3jgda",
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 6,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 13812
     },
     {
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 26,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 59852
     },
     {
       "ID": "24",
       "SetID": "9p3jgda",
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 26,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 59852
     },
     {
       "ID": "3",
       "SetID": "9p3jgda",
       "Name": "FRIENDLY",
       "Percentage": 0.5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1151
     },
     {
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
       "Percentage": 26,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 59852
     },
     {
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
       "Percentage": 51,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 117402
     },
     {
       "ID": "6",
       "SetID": "9p3jgda",
       "Name": "PRO",
       "Percentage": 29,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 66758
     },
     {
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
       "Percentage": 0.1,
-      "XP": 65
+      "XP": 65,
+      "UsersEstimate": 230
     },
     {
       "ID": "8",
       "SetID": "9p3jgda",
       "Name": "ACE TRICKSTER",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 4604
     },
     {
       "ID": "9",
       "SetID": "9p3jgda",
       "Name": "LEGENDARY HERO",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 9208
     }
   ],
   "Tags": [],
@@ -1012,13 +1036,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:06:32.9405947+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:38.2117582+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 451,
   "EOS_Completed": 0,
   "EOS_Progressed": 2302,
-  "LastUpdate_Achievements": "2023-05-04T22:06:32.9406174+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:29.2581954+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:38.2117884+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:02.9423858+00:00",
   "AchievementSets": [
     {
       "ID": "9p3jgda",

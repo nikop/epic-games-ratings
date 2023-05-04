@@ -1,9 +1,10 @@
 # Lumberjack's Dynasty
+[View Rawdata](../../db/l/lumberjack's_dynasty.json)  
 Rating: 4.09 (Ranked 856)  
 Number of Ratings: 61  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

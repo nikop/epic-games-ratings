@@ -7,371 +7,424 @@
       "SetID": "39f6ck8",
       "Name": "A Phony Clown",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 448
     },
     {
       "ID": "secret10",
       "SetID": "39f6ck8",
       "Name": "Destroy Everything",
       "Percentage": 0.9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 101
     },
     {
       "ID": "secret11",
       "SetID": "39f6ck8",
       "Name": "Math Wizard",
       "Percentage": 62,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6944
     },
     {
       "ID": "secret12",
       "SetID": "39f6ck8",
       "Name": "The Duelist",
       "Percentage": 33,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3696
     },
     {
       "ID": "secret13",
       "SetID": "39f6ck8",
       "Name": "You Shall Not Pass",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2912
     },
     {
       "ID": "secret14",
       "SetID": "39f6ck8",
       "Name": "Mommy\u0027s Very Angry",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2800
     },
     {
       "ID": "secret15",
       "SetID": "39f6ck8",
       "Name": "Back To The Future",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2240
     },
     {
       "ID": "secret16",
       "SetID": "39f6ck8",
       "Name": "From Here To Eternity",
       "Percentage": 14,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1568
     },
     {
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
       "Percentage": 69,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7728
     },
     {
       "ID": "secret18",
       "SetID": "39f6ck8",
       "Name": "Animal Lover",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2800
     },
     {
       "ID": "secret19",
       "SetID": "39f6ck8",
       "Name": "Feng Shui",
       "Percentage": 71,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7952
     },
     {
       "ID": "secret2",
       "SetID": "39f6ck8",
       "Name": "Octopostructure",
       "Percentage": 13,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1456
     },
     {
       "ID": "secret20",
       "SetID": "39f6ck8",
       "Name": "Caretaker",
       "Percentage": 81,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9072
     },
     {
       "ID": "secret21",
       "SetID": "39f6ck8",
       "Name": "Mutant And Proud",
       "Percentage": 35,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3920
     },
     {
       "ID": "secret22",
       "SetID": "39f6ck8",
       "Name": "The Emperor\u0027s New Clothes",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3248
     },
     {
       "ID": "secret23",
       "SetID": "39f6ck8",
       "Name": "Fashion Victim",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 672
     },
     {
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
       "Percentage": 67,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7504
     },
     {
       "ID": "secret25",
       "SetID": "39f6ck8",
       "Name": "Power Overload",
       "Percentage": 61,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6832
     },
     {
       "ID": "secret26",
       "SetID": "39f6ck8",
       "Name": "Supreme Power",
       "Percentage": 38,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4256
     },
     {
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2912
     },
     {
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
       "Percentage": 66,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7392
     },
     {
       "ID": "secret29",
       "SetID": "39f6ck8",
       "Name": "Impenetrable Skin",
       "Percentage": 49,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5488
     },
     {
       "ID": "secret3",
       "SetID": "39f6ck8",
       "Name": "See You Later",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 560
     },
     {
       "ID": "secret30",
       "SetID": "39f6ck8",
       "Name": "Undying Skin",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2912
     },
     {
       "ID": "secret31",
       "SetID": "39f6ck8",
       "Name": "Immortal Skin",
       "Percentage": 21,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2352
     },
     {
       "ID": "secret32",
       "SetID": "39f6ck8",
       "Name": "Godlike Skin",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 448
     },
     {
       "ID": "secret33",
       "SetID": "39f6ck8",
       "Name": "Glorious Battle",
       "Percentage": 37,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4144
     },
     {
       "ID": "secret34",
       "SetID": "39f6ck8",
       "Name": "Fight Me!",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2800
     },
     {
       "ID": "secret35",
       "SetID": "39f6ck8",
       "Name": "Boss Hunter",
       "Percentage": 14,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1568
     },
     {
       "ID": "secret36",
       "SetID": "39f6ck8",
       "Name": "Overwhelming Power",
       "Percentage": 49,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5488
     },
     {
       "ID": "secret37",
       "SetID": "39f6ck8",
       "Name": "Meat Larder",
       "Percentage": 36,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4032
     },
     {
       "ID": "secret38",
       "SetID": "39f6ck8",
       "Name": "Loyal Companion",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2240
     },
     {
       "ID": "secret39",
       "SetID": "39f6ck8",
       "Name": "Chomp Chomp!",
       "Percentage": 41,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4592
     },
     {
       "ID": "secret4",
       "SetID": "39f6ck8",
       "Name": "Unlucky Luke",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 560
     },
     {
       "ID": "secret40",
       "SetID": "39f6ck8",
       "Name": "Diaper Time!",
       "Percentage": 38,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4256
     },
     {
       "ID": "secret41",
       "SetID": "39f6ck8",
       "Name": "Happy Little Home",
       "Percentage": 30,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3360
     },
     {
       "ID": "secret42",
       "SetID": "39f6ck8",
       "Name": "Final Evolution",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3248
     },
     {
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
       "Percentage": 55,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6160
     },
     {
       "ID": "secret44",
       "SetID": "39f6ck8",
       "Name": "Lunch Before The Lunch",
       "Percentage": 18,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2016
     },
     {
       "ID": "secret45",
       "SetID": "39f6ck8",
       "Name": "Feast Time",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 784
     },
     {
       "ID": "secret46",
       "SetID": "39f6ck8",
       "Name": "Target Practice",
       "Percentage": 36,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4032
     },
     {
       "ID": "secret47",
       "SetID": "39f6ck8",
       "Name": "Building Blocks",
       "Percentage": 16,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1792
     },
     {
       "ID": "secret48",
       "SetID": "39f6ck8",
       "Name": "Annihilate",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1008
     },
     {
       "ID": "secret49",
       "SetID": "39f6ck8",
       "Name": "Duck Knight",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 448
     },
     {
       "ID": "secret5",
       "SetID": "39f6ck8",
       "Name": "Hawkman",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1008
     },
     {
       "ID": "secret50",
       "SetID": "39f6ck8",
       "Name": "Cheesy Chess",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 560
     },
     {
       "ID": "secret51",
       "SetID": "39f6ck8",
       "Name": "Fire Beacon",
       "Percentage": 19,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2128
     },
     {
       "ID": "secret52",
       "SetID": "39f6ck8",
       "Name": "Hearty Meteor",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 101
     },
     {
       "ID": "secret53",
       "SetID": "39f6ck8",
       "Name": "Octopy Mayhem",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 448
     },
     {
       "ID": "secret6",
       "SetID": "39f6ck8",
       "Name": "Got\u0027em Totem",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 448
     },
     {
       "ID": "secret7",
       "SetID": "39f6ck8",
       "Name": "Too Cool For School",
       "Percentage": 84,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9408
     },
     {
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
       "Percentage": 61,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6832
     },
     {
       "ID": "secret9",
       "SetID": "39f6ck8",
       "Name": "Supremacy",
       "Percentage": 27,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3024
     }
   ],
   "Tags": [],
@@ -392,13 +445,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T22:06:55.2926792+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:54.8046873+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 112,
-  "LastUpdate_Achievements": "2023-05-04T22:06:55.2927286+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:55.1890719+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:54.8047668+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:58.4827865+00:00",
   "AchievementSets": [
     {
       "ID": "39f6ck8",
@@ -414,7 +467,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_Progress": 246,
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00"

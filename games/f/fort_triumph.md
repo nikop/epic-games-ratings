@@ -1,12 +1,13 @@
 # Fort Triumph
+[View Rawdata](../../db/f/fort_triumph.json)  
 Rating: 4.08 (Ranked 860)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 137  (Ranked 288)  
 Sum: 137 (Ranked 380)  
 Diff (max vs sum): -92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

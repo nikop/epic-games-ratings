@@ -1,8 +1,9 @@
 # Outlast 2
+[View Rawdata](../../db/o/outlast_2.json)  
 Rating: 4.71 (Ranked 178)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

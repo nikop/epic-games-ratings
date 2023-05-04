@@ -1,43 +1,44 @@
 # Slain: Back From Hell
+[View Rawdata](../../db/s/slain__back_from_hell.json)  
 Rating: 4.28 (Ranked 764)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 124  (Ranked 298)  
 Sum: 124 (Ranked 387)  
 Diff (max vs sum): -89  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Man 'O War | 19.00 |
-| A Good Day To Die | 16.00 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00 |
-| Right Back Atcha | 6.00 |
-| Killed by Death | 5.00 |
-| Kill 'Em All | 4.00 |
-| A Snowball's Chance in Hell | 2.00 |
-| Down Boy! | 1.00 |
-| Enjoy The Silence | 1.00 |
-| Sure Footed As A Goat | 0.90 |
-| Thorn in My Herbicide | 0.80 |
-| Backdoor Man | 0.80 |
-| Schadenfreude | 0.80 |
-| Red In Tooth And Claw | 0.70 |
-| Death Becomes Her | 0.70 |
-| The Sky Is Falling | 0.70 |
-| Start As You Mean To Go On | 0.60 |
-| Hail the Great Horned Metal God! | 0.60 |
-| That'll Come In Handy... | 0.60 |
-| Four Legged Friend | 0.40 |
-| Oh God, Mother! Blood! Blood! | 0.40 |
-| Ice To See You | 0.40 |
-| Smack My Imp Up | 0.40 |
-| Vroll With It | 0.30 |
-| Swift of Foot, Keen of Blade | 0.30 |
-| Flame Retardant | 0.20 |
-| Death or Glory | 0.20 |
-| Too Metal For Magic | 0.10 |
-| Heart Of Steel | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Man 'O War | 19.00% | ~360,449 |
+| A Good Day To Die | 16.00% | ~303,536 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~113,826 |
+| Right Back Atcha | 6.00% | ~113,826 |
+| Killed by Death | 5.00% | ~94,855 |
+| Kill 'Em All | 4.00% | ~75,884 |
+| A Snowball's Chance in Hell | 2.00% | ~37,942 |
+| Down Boy! | 1.00% | ~18,971 |
+| Enjoy The Silence | 1.00% | ~18,971 |
+| Sure Footed As A Goat | 0.90% | ~17,074 |
+| Thorn in My Herbicide | 0.80% | ~15,177 |
+| Backdoor Man | 0.80% | ~15,177 |
+| Schadenfreude | 0.80% | ~15,177 |
+| Red In Tooth And Claw | 0.70% | ~13,280 |
+| Death Becomes Her | 0.70% | ~13,280 |
+| The Sky Is Falling | 0.70% | ~13,280 |
+| Start As You Mean To Go On | 0.60% | ~11,383 |
+| Hail the Great Horned Metal God! | 0.60% | ~11,383 |
+| That'll Come In Handy... | 0.60% | ~11,383 |
+| Four Legged Friend | 0.40% | ~7,588 |
+| Oh God, Mother! Blood! Blood! | 0.40% | ~7,588 |
+| Ice To See You | 0.40% | ~7,588 |
+| Smack My Imp Up | 0.40% | ~7,588 |
+| Vroll With It | 0.30% | ~5,691 |
+| Swift of Foot, Keen of Blade | 0.30% | ~5,691 |
+| Flame Retardant | 0.20% | ~3,794 |
+| Death or Glory | 0.20% | ~3,794 |
+| Too Metal For Magic | 0.10% | ~1,897 |
+| Heart Of Steel | 0.10% | ~1,897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,968 (Ranked 91)  
+Progressed: 18,971 (Ranked 91)  
 Completed: 14 (0.07%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +52,7 @@ Completed: 14 (0.07%) (Ranked 159)
 | 2023-05-01 | 18,540 | 14 |
 | 2023-05-02 | 18,700 | 14 |
 | 2023-05-03 | 18,827 | 14 |
-| 2023-05-04 | 18,968 | 14 |
+| 2023-05-04 | 18,971 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

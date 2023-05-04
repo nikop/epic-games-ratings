@@ -1,4 +1,5 @@
 # Destiny 2
+[View Rawdata](../../db/d/destiny_2.json)  
 Rating: 4.50 (Ranked 530)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,34 +7,34 @@ Max (Great Boss Battles): 33,509  (Ranked 12)
 Sum: 81,203 (Ranked 16)  
 Diff (max vs sum): -4  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Long and Winding Road | 94.00 |
-| The People's Hero | 58.00 |
-| In A Flash | 34.00 |
-| Lest Ye Be Judged | 27.00 |
-| Heart of Darkness | 27.00 |
-| Cayde's Pathfinder | 25.00 |
-| Ikora's Protégé | 23.00 |
-| The Life Exotic | 22.00 |
-| Heart of the Awoken | 21.00 |
-| Zavala's Lieutenant | 20.00 |
-| High-Stakes Play | 19.00 |
-| Show Me What You Got | 19.00 |
-| Challenge Accepted | 18.00 |
-| Legends Grow | 16.00 |
-| Nothing Left to Say | 15.00 |
-| Exotique | 14.00 |
-| An Exotic Journey | 14.00 |
-| Darkness Falls | 13.00 |
-| Belly Of The Beast | 12.00 |
-| Fashion Statement | 8.00 |
-| The Prestige | 7.00 |
-| Wishing for the Best | 7.00 |
-| Seal the Deal | 5.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Long and Winding Road | 94.00% | ~36,705,496 |
+| The People's Hero | 58.00% | ~22,648,072 |
+| In A Flash | 34.00% | ~13,276,456 |
+| Lest Ye Be Judged | 27.00% | ~10,543,068 |
+| Heart of Darkness | 27.00% | ~10,543,068 |
+| Cayde's Pathfinder | 25.00% | ~9,762,100 |
+| Ikora's Protégé | 23.00% | ~8,981,132 |
+| The Life Exotic | 22.00% | ~8,590,648 |
+| Heart of the Awoken | 21.00% | ~8,200,164 |
+| Zavala's Lieutenant | 20.00% | ~7,809,680 |
+| High-Stakes Play | 19.00% | ~7,419,196 |
+| Show Me What You Got | 19.00% | ~7,419,196 |
+| Challenge Accepted | 18.00% | ~7,028,712 |
+| Legends Grow | 16.00% | ~6,247,744 |
+| Nothing Left to Say | 15.00% | ~5,857,260 |
+| Exotique | 14.00% | ~5,466,776 |
+| An Exotic Journey | 14.00% | ~5,466,776 |
+| Darkness Falls | 13.00% | ~5,076,292 |
+| Belly Of The Beast | 12.00% | ~4,685,808 |
+| Fashion Statement | 8.00% | ~3,123,872 |
+| The Prestige | 7.00% | ~2,733,388 |
+| Wishing for the Best | 7.00% | ~2,733,388 |
+| Seal the Deal | 5.00% | ~1,952,420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390,476 (Ranked 34)  
-Completed: 11,400 (2.92%) (Ranked 45)  
+Progressed: 390,484 (Ranked 34)  
+Completed: 11,401 (2.92%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,7 +47,7 @@ Completed: 11,400 (2.92%) (Ranked 45)
 | 2023-05-01 | 387,567 | 11,323 |
 | 2023-05-02 | 388,391 | 11,341 |
 | 2023-05-03 | 389,416 | 11,367 |
-| 2023-05-04 | 390,476 | 11,400 |
+| 2023-05-04 | 390,484 | 11,401 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

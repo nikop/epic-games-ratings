@@ -1,7 +1,8 @@
 # Samurai Jack: Battle Through Time
+[View Rawdata](../../db/s/samurai_jack__battle_through_time.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,49 +1,50 @@
 # RAILGRADE
+[View Rawdata](../../db/r/railgrade.json)  
 Rating: 4.54 (Ranked 475)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 87  (Ranked 338)  
 Sum: 643 (Ranked 269)  
 Diff (max vs sum): 69  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Trevithick's Legacy | 98.00 |
-| Before the Downfall | 93.00 |
-| Money like Water | 91.00 |
-| Minimalist | 90.00 |
-| Builder | 83.00 |
-| Eraser | 70.00 |
-| Pocket of Trains | 65.00 |
-| Inspector | 58.00 |
-| Going the Distance | 54.00 |
-| Oil Baron | 42.00 |
-| Loads-a-Money | 42.00 |
-| Helper of the People | 39.00 |
-| Simplification | 33.00 |
-| Box of Trains | 33.00 |
-| Let There be Light | 32.00 |
-| Hot Water | 30.00 |
-| Indecisive | 29.00 |
-| The scenic route | 27.00 |
-| Industrialist | 25.00 |
-| Perfectionist | 23.00 |
-| 8K is Enough for Everyone | 22.00 |
-| Trains over Pipes | 22.00 |
-| Man of Steel | 16.00 |
-| Room Full of Trains | 12.00 |
-| Investor | 9.00 |
-| Multiverse | 7.00 |
-| The poor groundwater levels | 7.00 |
-| Metropolis | 7.00 |
-| High Flier | 3.00 |
-| To infinity, and beyond! | 3.00 |
-| Space industrialization | 2.00 |
-| High tech | 1.00 |
-| Cleanup crew | 1.00 |
-| Flying Lightning | 1.00 |
-| Deertastic | 0.90 |
-| Overdeer | 0.40 |
-| Cloud Services | 0.20 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Trevithick's Legacy | 98.00% | ~1,786,246 |
+| Before the Downfall | 93.00% | ~1,695,111 |
+| Money like Water | 91.00% | ~1,658,657 |
+| Minimalist | 90.00% | ~1,640,430 |
+| Builder | 83.00% | ~1,512,841 |
+| Eraser | 70.00% | ~1,275,890 |
+| Pocket of Trains | 65.00% | ~1,184,755 |
+| Inspector | 58.00% | ~1,057,166 |
+| Going the Distance | 54.00% | ~984,258 |
+| Oil Baron | 42.00% | ~765,534 |
+| Loads-a-Money | 42.00% | ~765,534 |
+| Helper of the People | 39.00% | ~710,853 |
+| Simplification | 33.00% | ~601,491 |
+| Box of Trains | 33.00% | ~601,491 |
+| Let There be Light | 32.00% | ~583,264 |
+| Hot Water | 30.00% | ~546,810 |
+| Indecisive | 29.00% | ~528,583 |
+| The scenic route | 27.00% | ~492,129 |
+| Industrialist | 25.00% | ~455,675 |
+| Perfectionist | 23.00% | ~419,221 |
+| 8K is Enough for Everyone | 22.00% | ~400,994 |
+| Trains over Pipes | 22.00% | ~400,994 |
+| Man of Steel | 16.00% | ~291,632 |
+| Room Full of Trains | 12.00% | ~218,724 |
+| Investor | 9.00% | ~164,043 |
+| Multiverse | 7.00% | ~127,589 |
+| The poor groundwater levels | 7.00% | ~127,589 |
+| Metropolis | 7.00% | ~127,589 |
+| High Flier | 3.00% | ~54,681 |
+| To infinity, and beyond! | 3.00% | ~54,681 |
+| Space industrialization | 2.00% | ~36,454 |
+| High tech | 1.00% | ~18,227 |
+| Cleanup crew | 1.00% | ~18,227 |
+| Flying Lightning | 1.00% | ~18,227 |
+| Deertastic | 0.90% | ~16,404 |
+| Overdeer | 0.40% | ~7,291 |
+| Cloud Services | 0.20% | ~3,645 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,227 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 138)  

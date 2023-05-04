@@ -1,9 +1,10 @@
 # Farmer's Dynasty
+[View Rawdata](../../db/f/farmer's_dynasty.json)  
 Rating: 4.19 (Ranked 813)  
 Number of Ratings: 64  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

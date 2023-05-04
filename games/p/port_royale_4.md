@@ -1,59 +1,60 @@
 # Port Royale 4
+[View Rawdata](../../db/p/port_royale_4.json)  
 Rating: 3.99 (Ranked 879)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Cabin boy | 80.00 |
-| My little farm | 65.00 |
-| Every beginning is difficult | 62.00 |
-| 3, 2, 1, mine | 55.00 |
-| Gofer | 55.00 |
-| Seafarer | 54.00 |
-| O Captain! My Captain! | 53.00 |
-| Greed for gold | 42.00 |
-| Intangible | 41.00 |
-| I'm out of here for a while | 39.00 |
-| In a mint condition | 38.00 |
-| Licence to Kill | 35.00 |
-| Pirates! | 35.00 |
-| Collectionitis | 28.00 |
-| Megalomania | 28.00 |
-| Christening | 26.00 |
-| Groundskeeper | 26.00 |
-| Wholesale | 23.00 |
-| Walk the plank | 21.00 |
-| My precious! | 19.00 |
-| Pearly gates | 17.00 |
-| Conquistador | 14.00 |
-| Panic buying | 12.00 |
-| Just a scratch | 10.00 |
-| Your vessel, my vessel | 10.00 |
-| All mine! | 9.00 |
-| Paths of Glory | 9.00 |
-| Maker | 8.00 |
-| Panel of experts | 8.00 |
-| Conglomerate | 7.00 |
-| The Grande Bouffe | 6.00 |
-| Buccaneer | 5.00 |
-| Flying Dutchman | 4.00 |
-| A true pirate! | 4.00 |
-| Overpopulation | 4.00 |
-| Premier Maître | 3.00 |
-| Supreme conqueror | 3.00 |
-| Strategist | 3.00 |
-| The customer is always right | 2.00 |
-| Master & Commander | 2.00 |
-| All aboard! | 2.00 |
-| Gold fever | 2.00 |
-| Fill it up, please! | 2.00 |
-| Capitalist | 1.00 |
-| Administrator | 1.00 |
-| Raiders of the Lost Ark | 1.00 |
-| Traffic chaos | 1.00 |
-| Parlay? | 1.00 |
-| Fleet Admiral | 0.80 |
-| Davy Jones' locker | 0.40 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Cabin boy | 80.00% | ~40,880 |
+| My little farm | 65.00% | ~33,215 |
+| Every beginning is difficult | 62.00% | ~31,682 |
+| 3, 2, 1, mine | 55.00% | ~28,105 |
+| Gofer | 55.00% | ~28,105 |
+| Seafarer | 54.00% | ~27,594 |
+| O Captain! My Captain! | 53.00% | ~27,083 |
+| Greed for gold | 42.00% | ~21,462 |
+| Intangible | 41.00% | ~20,951 |
+| I'm out of here for a while | 39.00% | ~19,929 |
+| In a mint condition | 38.00% | ~19,418 |
+| Licence to Kill | 35.00% | ~17,885 |
+| Pirates! | 35.00% | ~17,885 |
+| Collectionitis | 28.00% | ~14,308 |
+| Megalomania | 28.00% | ~14,308 |
+| Christening | 26.00% | ~13,286 |
+| Groundskeeper | 26.00% | ~13,286 |
+| Wholesale | 23.00% | ~11,753 |
+| Walk the plank | 21.00% | ~10,731 |
+| My precious! | 19.00% | ~9,709 |
+| Pearly gates | 17.00% | ~8,687 |
+| Conquistador | 14.00% | ~7,154 |
+| Panic buying | 12.00% | ~6,132 |
+| Just a scratch | 10.00% | ~5,110 |
+| Your vessel, my vessel | 10.00% | ~5,110 |
+| All mine! | 9.00% | ~4,599 |
+| Paths of Glory | 9.00% | ~4,599 |
+| Maker | 8.00% | ~4,088 |
+| Panel of experts | 8.00% | ~4,088 |
+| Conglomerate | 7.00% | ~3,577 |
+| The Grande Bouffe | 6.00% | ~3,066 |
+| Buccaneer | 5.00% | ~2,555 |
+| Flying Dutchman | 4.00% | ~2,044 |
+| A true pirate! | 4.00% | ~2,044 |
+| Overpopulation | 4.00% | ~2,044 |
+| Premier Maître | 3.00% | ~1,533 |
+| Supreme conqueror | 3.00% | ~1,533 |
+| Strategist | 3.00% | ~1,533 |
+| The customer is always right | 2.00% | ~1,022 |
+| Master & Commander | 2.00% | ~1,022 |
+| All aboard! | 2.00% | ~1,022 |
+| Gold fever | 2.00% | ~1,022 |
+| Fill it up, please! | 2.00% | ~1,022 |
+| Capitalist | 1.00% | ~511 |
+| Administrator | 1.00% | ~511 |
+| Raiders of the Lost Ark | 1.00% | ~511 |
+| Traffic chaos | 1.00% | ~511 |
+| Parlay? | 1.00% | ~511 |
+| Fleet Admiral | 0.80% | ~409 |
+| Davy Jones' locker | 0.40% | ~204 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 511 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 191)  

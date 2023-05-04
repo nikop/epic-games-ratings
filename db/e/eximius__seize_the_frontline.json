@@ -7,112 +7,128 @@
       "SetID": "1kj8hdc",
       "Name": "Battlesuit Victory",
       "Percentage": 8,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1465080
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "1kj8hdc",
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 13002585
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
       "SetID": "1kj8hdc",
       "Name": "Flawless Victory",
       "Percentage": 5,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 915675
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
       "SetID": "1kj8hdc",
       "Name": "Gated Community",
       "Percentage": 3,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 549405
     },
     {
       "ID": "ACH_INITIATION",
       "SetID": "1kj8hdc",
       "Name": "Initiation",
       "Percentage": 18,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 3296430
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
       "SetID": "1kj8hdc",
       "Name": "Not Afraid of the Big Bad Wolf",
       "Percentage": 0.1,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 18314
     },
     {
       "ID": "ACH_TOTAL_DESTRUCTION",
       "SetID": "1kj8hdc",
       "Name": "Total Destruction",
       "Percentage": 1,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 183135
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
       "SetID": "1kj8hdc",
       "Name": "Many More to Come",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 18314
     },
     {
       "ID": "ACH_WIN_10_ONLINE_GAME",
       "SetID": "1kj8hdc",
       "Name": "Getting There",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 183135
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
       "SetID": "1kj8hdc",
       "Name": "We shall never Surrender!",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 36627
     },
     {
       "ID": "ACH_WIN_3_ONLINE_GAME",
       "SetID": "1kj8hdc",
       "Name": "Baby Steps",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 915675
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
       "SetID": "1kj8hdc",
       "Name": "Halfway There",
       "Percentage": 0.2,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 36627
     },
     {
       "ID": "ACH_WIN_90_MAP_CONTROL",
       "SetID": "1kj8hdc",
       "Name": "Mastermind",
       "Percentage": 0.5,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 91568
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
       "SetID": "1kj8hdc",
       "Name": "Tag Team Champions",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 366270
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
       "SetID": "1kj8hdc",
       "Name": "Untouchable",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 183135
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
       "SetID": "1kj8hdc",
       "Name": "First Co-Op Win",
       "Percentage": 5,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 915675
     }
   ],
   "Tags": [],
@@ -1401,13 +1417,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:06:48.8784939+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:50.1615899+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1253,
   "EOS_Completed": 4,
   "EOS_Progressed": 183135,
-  "LastUpdate_Achievements": "2023-05-04T22:06:48.8785238+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:36.214736+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:50.1616188+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:45.4703205+00:00",
   "AchievementSets": [
     {
       "ID": "1kj8hdc",

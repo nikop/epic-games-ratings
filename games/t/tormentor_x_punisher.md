@@ -1,8 +1,9 @@
 # Tormentor x Punisher
+[View Rawdata](../../db/t/tormentor_x_punisher.json)  
 Rating: 4.75 (Ranked 127)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

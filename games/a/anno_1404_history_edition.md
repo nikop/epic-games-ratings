@@ -1,9 +1,10 @@
 # Anno 1404 History Edition
+[View Rawdata](../../db/a/anno_1404_history_edition.json)  
 Rating: 4.76 (Ranked 113)  
 Number of Ratings: 69  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

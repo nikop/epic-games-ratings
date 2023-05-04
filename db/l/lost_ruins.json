@@ -7,280 +7,320 @@
       "SetID": "82505mn",
       "Name": "Arrive Home",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 849
     },
     {
       "ID": "ArtCollector",
       "SetID": "82505mn",
       "Name": "Art Collector",
       "Percentage": 0.4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 113
     },
     {
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
       "Percentage": 20,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 5660
     },
     {
       "ID": "Assassin",
       "SetID": "82505mn",
       "Name": "Assassin",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 283
     },
     {
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
       "Percentage": 23,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6509
     },
     {
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
       "Percentage": 24,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6792
     },
     {
       "ID": "Cryomancer",
       "SetID": "82505mn",
       "Name": "Cryomancer",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Explorer",
       "SetID": "82505mn",
       "Name": "Explorer",
       "Percentage": 6,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1698
     },
     {
       "ID": "GhostBuster",
       "SetID": "82505mn",
       "Name": "Ghost Buster",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4811
     },
     {
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3396
     },
     {
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
       "Percentage": 31,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 8773
     },
     {
       "ID": "Hardboiled",
       "SetID": "82505mn",
       "Name": "Hardboiled",
       "Percentage": 0.4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 113
     },
     {
       "ID": "HolyKnight",
       "SetID": "82505mn",
       "Name": "Holy Knight",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 566
     },
     {
       "ID": "Horder",
       "SetID": "82505mn",
       "Name": "Hoarder",
       "Percentage": 3,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 849
     },
     {
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3962
     },
     {
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
       "Percentage": 39,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 11037
     },
     {
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
       "Percentage": 13,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3679
     },
     {
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3679
     },
     {
       "ID": "Marksman",
       "SetID": "82505mn",
       "Name": "Marksman",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 566
     },
     {
       "ID": "MeatLover",
       "SetID": "82505mn",
       "Name": "Meat Lover",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 849
     },
     {
       "ID": "MoneySwag",
       "SetID": "82505mn",
       "Name": "Money Swag",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2547
     },
     {
       "ID": "Necromancer",
       "SetID": "82505mn",
       "Name": "Necromancer",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Oops",
       "SetID": "82505mn",
       "Name": "Oops",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1698
     },
     {
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3679
     },
     {
       "ID": "Pyromancer",
       "SetID": "82505mn",
       "Name": "Pyromancer",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1415
     },
     {
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4811
     },
     {
       "ID": "Roughneck",
       "SetID": "82505mn",
       "Name": "Roughneck",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 283
     },
     {
       "ID": "RuneMaster",
       "SetID": "82505mn",
       "Name": "Rune Master",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 283
     },
     {
       "ID": "ShieldCrusher",
       "SetID": "82505mn",
       "Name": "Shield Crusher",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2264
     },
     {
       "ID": "SlingOfDavid",
       "SetID": "82505mn",
       "Name": "Sling of David",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 566
     },
     {
       "ID": "SpellMaster",
       "SetID": "82505mn",
       "Name": "Spell Master",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1132
     },
     {
       "ID": "SwordMaster",
       "SetID": "82505mn",
       "Name": "Sword Master",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 283
     },
     {
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3679
     },
     {
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
       "Percentage": 21,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 5943
     },
     {
       "ID": "TheTrio",
       "SetID": "82505mn",
       "Name": "Trio",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1698
     },
     {
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5943
     },
     {
       "ID": "TreasureHunter",
       "SetID": "82505mn",
       "Name": "Treasure Hunter",
       "Percentage": 7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1981
     },
     {
       "ID": "Troubleshooter",
       "SetID": "82505mn",
       "Name": "Troubleshooter",
       "Percentage": 12,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3396
     },
     {
       "ID": "WeaponMaster",
       "SetID": "82505mn",
       "Name": "Weapon Master",
       "Percentage": 1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 283
     },
     {
       "ID": "Witch",
       "SetID": "82505mn",
       "Name": "Witch",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 566
     }
   ],
   "Tags": [],
@@ -311,13 +351,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:06:46.8242888+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:48.7186141+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 283,
-  "LastUpdate_Achievements": "2023-05-04T22:06:46.8243379+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:23.2461306+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:48.7186667+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:37.5604654+00:00",
   "AchievementSets": [
     {
       "ID": "82505mn",

@@ -1,7 +1,8 @@
 # Neon City Riders: Super-powered Edition
+[View Rawdata](../../db/n/neon_city_riders__super-powered_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

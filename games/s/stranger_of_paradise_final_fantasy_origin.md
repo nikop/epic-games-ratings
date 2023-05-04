@@ -1,4 +1,5 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
+[View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
 Rating: 4.50 (Ranked 530)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,54 +7,54 @@ Max (Great Boss Battles): 752  (Ranked 148)
 Sum: 1,549 (Ranked 204)  
 Diff (max vs sum): -56  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Manifestation of the Soul | 98.00 |
-| No Escape | 86.00 |
-| Seeker of Power | 85.00 |
-| Hopes and Dreams | 82.00 |
-| Lantern Smasher | 78.00 |
-| The Pirate's Way | 73.00 |
-| Dark Crystal, Warrior's Heart | 71.00 |
-| The King of the Dark Elves | 68.00 |
-| Memories of the Distant Past | 66.00 |
-| Distortion's Progeny | 62.00 |
-| Savant | 62.00 |
-| A Landscape of Memory | 58.00 |
-| The Wind's Light | 54.00 |
-| Vague Remembrances | 49.00 |
-| The Fire's Light | 47.00 |
-| Phantom Memories | 46.00 |
-| Imbued Memories | 46.00 |
-| The Earth's Light | 45.00 |
-| Shared Recollections | 41.00 |
-| Path of the Sage | 40.00 |
-| The Water's Light | 39.00 |
-| Malice Takes Root | 37.00 |
-| Path of the Dark Knight | 37.00 |
-| Path of the Paladin | 36.00 |
-| Path of the Breaker | 36.00 |
-| Duty's Course | 35.00 |
-| Path of the Liberator | 35.00 |
-| Led by the Nose | 34.00 |
-| Path of the Void Knight | 34.00 |
-| Path of the Tyrant | 34.00 |
-| Path of the Ninja | 33.00 |
-| Terminus of Fate | 32.00 |
-| His Name Is Garland | 32.00 |
-| Path of the Assassin | 31.00 |
-| Seeker of Ultimate Power | 23.00 |
-| Artifact Collector | 21.00 |
-| True Potential | 21.00 |
-| Polymath | 21.00 |
-| Origin of True Chaos | 20.00 |
-| Jack-of-All-Trades | 19.00 |
-| Master's Awakening | 18.00 |
-| Cycle of Darkness | 16.00 |
-| Job Master | 8.00 |
-| Crest Bearer | 6.00 |
-| Strangers' Memories | 3.00 |
-| A Tale of Origins and Endings | 2.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Manifestation of the Soul | 98.00% | ~7,628,418 |
+| No Escape | 86.00% | ~6,694,326 |
+| Seeker of Power | 85.00% | ~6,616,485 |
+| Hopes and Dreams | 82.00% | ~6,382,962 |
+| Lantern Smasher | 78.00% | ~6,071,598 |
+| The Pirate's Way | 73.00% | ~5,682,393 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~5,526,711 |
+| The King of the Dark Elves | 68.00% | ~5,293,188 |
+| Memories of the Distant Past | 66.00% | ~5,137,506 |
+| Distortion's Progeny | 62.00% | ~4,826,142 |
+| Savant | 62.00% | ~4,826,142 |
+| A Landscape of Memory | 58.00% | ~4,514,778 |
+| The Wind's Light | 54.00% | ~4,203,414 |
+| Vague Remembrances | 49.00% | ~3,814,209 |
+| The Fire's Light | 47.00% | ~3,658,527 |
+| Phantom Memories | 46.00% | ~3,580,686 |
+| Imbued Memories | 46.00% | ~3,580,686 |
+| The Earth's Light | 45.00% | ~3,502,845 |
+| Shared Recollections | 41.00% | ~3,191,481 |
+| Path of the Sage | 40.00% | ~3,113,640 |
+| The Water's Light | 39.00% | ~3,035,799 |
+| Malice Takes Root | 37.00% | ~2,880,117 |
+| Path of the Dark Knight | 37.00% | ~2,880,117 |
+| Path of the Paladin | 36.00% | ~2,802,276 |
+| Path of the Breaker | 36.00% | ~2,802,276 |
+| Duty's Course | 35.00% | ~2,724,435 |
+| Path of the Liberator | 35.00% | ~2,724,435 |
+| Led by the Nose | 34.00% | ~2,646,594 |
+| Path of the Void Knight | 34.00% | ~2,646,594 |
+| Path of the Tyrant | 34.00% | ~2,646,594 |
+| Path of the Ninja | 33.00% | ~2,568,753 |
+| Terminus of Fate | 32.00% | ~2,490,912 |
+| His Name Is Garland | 32.00% | ~2,490,912 |
+| Path of the Assassin | 31.00% | ~2,413,071 |
+| Seeker of Ultimate Power | 23.00% | ~1,790,343 |
+| Artifact Collector | 21.00% | ~1,634,661 |
+| True Potential | 21.00% | ~1,634,661 |
+| Polymath | 21.00% | ~1,634,661 |
+| Origin of True Chaos | 20.00% | ~1,556,820 |
+| Jack-of-All-Trades | 19.00% | ~1,478,979 |
+| Master's Awakening | 18.00% | ~1,401,138 |
+| Cycle of Darkness | 16.00% | ~1,245,456 |
+| Job Master | 8.00% | ~622,728 |
+| Crest Bearer | 6.00% | ~467,046 |
+| Strangers' Memories | 3.00% | ~233,523 |
+| A Tale of Origins and Endings | 2.00% | ~155,682 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77,841 (Ranked 60)  
 Completed: 2,119 (2.72%) (Ranked 49)  

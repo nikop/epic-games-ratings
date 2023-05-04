@@ -1,4 +1,5 @@
 # Submerged: Hidden Depths
+[View Rawdata](../../db/s/submerged__hidden_depths.json)  
 Rating: 4.24 (Ranked 780)  
 Number of Ratings: 2,582  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 45  (Ranked 401)
 Sum: 321 (Ranked 318)  
 Diff (max vs sum): 83  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

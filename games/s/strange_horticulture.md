@@ -1,9 +1,10 @@
 # Strange Horticulture
+[View Rawdata](../../db/s/strange_horticulture.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

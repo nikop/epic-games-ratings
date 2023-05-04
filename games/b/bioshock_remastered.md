@@ -1,13 +1,14 @@
 # BioShock Remastered
+[View Rawdata](../../db/b/bioshock_remastered.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 24,195  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,923  (Ranked 54)  
-Sum: 7,203 (Ranked 99)  
+Sum: 7,204 (Ranked 99)  
 Diff (max vs sum): -45  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +17,7 @@ Diff (max vs sum): -45
 | This game has Amazing Storytelling | 143 |
 | This game has Amazing Characters | 143 |
 | This game is Highly Recommended | 143 |
-| This game has Quickly Understood Controls | 141 |
+| This game has Quickly Understood Controls | 142 |
 | This game is Relaxing | 133 |
 | This game is Great for Beginners | 126 |
 | This game has Diverse Characters | 115 |
@@ -121,4 +122,4 @@ Diff (max vs sum): -45
 | 2023-04-29 | 4.64 | - | 5,913 | 7,191 |
 | 2023-05-01 | 4.64 | - | 5,918 | 7,198 |
 | 2023-05-02 | 4.64 | - | 5,921 | 7,201 |
-| 2023-05-04 | 4.64 | - | 5,923 | 7,203 |
+| 2023-05-04 | 4.64 | - | 5,923 | 7,204 |

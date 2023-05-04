@@ -1,8 +1,9 @@
 # Chainmonsters
+[View Rawdata](../../db/c/chainmonsters.json)  
 Rating: 3.81 (Ranked 901)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

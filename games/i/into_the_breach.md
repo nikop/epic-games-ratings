@@ -1,4 +1,5 @@
 # Into the Breach
+[View Rawdata](../../db/i/into_the_breach.json)  
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 4,082  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 405  (Ranked 195)
 Sum: 3,862 (Ranked 133)  
 Diff (max vs sum): 62  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

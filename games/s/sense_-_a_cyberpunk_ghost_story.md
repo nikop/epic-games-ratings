@@ -1,7 +1,8 @@
 # Sense - A Cyberpunk Ghost Story
+[View Rawdata](../../db/s/sense_-_a_cyberpunk_ghost_story.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

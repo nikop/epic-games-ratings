@@ -7,189 +7,216 @@
       "SetID": "7k95e4n",
       "Name": "Humble beginnings",
       "Percentage": 42,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 30072
     },
     {
       "ID": "ACH_BOOK_ALL",
       "SetID": "7k95e4n",
       "Name": "King of hospitality",
       "Percentage": 11,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 7876
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
       "Percentage": 52,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 37232
     },
     {
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
       "Percentage": 45,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 32220
     },
     {
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
       "Percentage": 25,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 17900
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
       "SetID": "7k95e4n",
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 39,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 27924
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
       "SetID": "7k95e4n",
       "Name": "Love is in the air",
       "Percentage": 43,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 30788
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
       "SetID": "7k95e4n",
       "Name": "Broken heart",
       "Percentage": 21,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 15036
     },
     {
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
       "Percentage": 37,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 26492
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
       "SetID": "7k95e4n",
       "Name": "Top spot in town",
       "Percentage": 3,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
       "Percentage": 25,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 17900
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
       "Percentage": 61,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 43676
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
       "Percentage": 69,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 49404
     },
     {
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
       "Percentage": 72,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 51552
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
       "SetID": "7k95e4n",
       "Name": "Hotel sleuthing",
       "Percentage": 26,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 18616
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
       "Percentage": 31,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 22196
     },
     {
       "ID": "ACH_POSTCARD",
       "SetID": "7k95e4n",
       "Name": "Island boy",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 14320
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
       "Percentage": 59,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 42244
     },
     {
       "ID": "ACH_SKILLS_ALL",
       "SetID": "7k95e4n",
       "Name": "Unstoppable",
       "Percentage": 17,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 12172
     },
     {
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
       "Percentage": 76,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 54416
     },
     {
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
       "Percentage": 40,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 28640
     },
     {
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
       "Percentage": 28,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 20048
     },
     {
       "ID": "ACH_STAR_4",
       "SetID": "7k95e4n",
       "Name": "Nearly there",
       "Percentage": 23,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 16468
     },
     {
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
       "Percentage": 18,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 12888
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
       "SetID": "7k95e4n",
       "Name": "Reunited",
       "Percentage": 16,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 11456
     },
     {
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
       "Percentage": 47,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 33652
     },
     {
       "ID": "ACH_WALLET_RETURNED",
       "SetID": "7k95e4n",
       "Name": "I think you dropped this",
       "Percentage": 55,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 39380
     }
   ],
   "Tags": [],
@@ -369,13 +396,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T22:06:45.7580791+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:47.8140118+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 23,
   "EOS_Completed": 11,
   "EOS_Progressed": 716,
-  "LastUpdate_Achievements": "2023-05-04T22:06:45.7581115+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:18.1771355+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:47.8140441+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:34.4620405+00:00",
   "AchievementSets": [
     {
       "ID": "7k95e4n",

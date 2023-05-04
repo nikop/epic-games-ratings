@@ -1,4 +1,5 @@
 # Total War: WARHAMMER II
+[View Rawdata](../../db/t/total_war__warhammer_ii.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 1,169  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 4,238  (Ranked 69)
 Sum: 13,226 (Ranked 67)  
 Diff (max vs sum): 2  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

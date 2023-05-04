@@ -1,31 +1,32 @@
 # Hazel Sky
+[View Rawdata](../../db/h/hazel_sky.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Abundant food | 0.00 |
-| Avid reader | 0.00 |
-| Backpack complete | 0.00 |
-| Ball ruster | 0.00 |
-| Collector | 0.00 |
-| Finally an engineer...? | 0.00 |
-| First chord | 0.00 |
-| First of many | 0.00 |
-| First try | 0.00 |
-| Gonna find them all | 0.00 |
-| Half engineer, half fish | 0.00 |
-| How many? | 0.00 |
-| Interesting | 0.00 |
-| Lawbreaker | 0.00 |
-| How do you get into Carnegie hall? | 0.00 |
-| Reader | 0.00 |
-| Run, Shane, run! | 0.00 |
-| Second try | 0.00 |
-| Shark attack | 0.00 |
-| The truth | 0.00 |
-| This is it! | 0.00 |
-| Weird stuff | 0.00 |
-| What this means? | 0.00 |
-| Where now? | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Abundant food | 0.00% | ~0 |
+| Avid reader | 0.00% | ~0 |
+| Backpack complete | 0.00% | ~0 |
+| Ball ruster | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Finally an engineer...? | 0.00% | ~0 |
+| First chord | 0.00% | ~0 |
+| First of many | 0.00% | ~0 |
+| First try | 0.00% | ~0 |
+| Gonna find them all | 0.00% | ~0 |
+| Half engineer, half fish | 0.00% | ~0 |
+| How many? | 0.00% | ~0 |
+| Interesting | 0.00% | ~0 |
+| Lawbreaker | 0.00% | ~0 |
+| How do you get into Carnegie hall? | 0.00% | ~0 |
+| Reader | 0.00% | ~0 |
+| Run, Shane, run! | 0.00% | ~0 |
+| Second try | 0.00% | ~0 |
+| Shark attack | 0.00% | ~0 |
+| The truth | 0.00% | ~0 |
+| This is it! | 0.00% | ~0 |
+| Weird stuff | 0.00% | ~0 |
+| What this means? | 0.00% | ~0 |
+| Where now? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 191)  

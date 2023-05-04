@@ -1,9 +1,10 @@
 # Never Alone (Kisima Ingitchuna)
+[View Rawdata](../../db/n/never_alone_(kisima_ingitchuna).json)  
 Rating: 4.13 (Ranked 844)  
 Number of Ratings: 174  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

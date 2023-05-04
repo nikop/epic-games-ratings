@@ -1,4 +1,5 @@
 # The Dungeon of Naheulbeuk
+[View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 118  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 59  (Ranked 377)
 Sum: 59 (Ranked 427)  
 Diff (max vs sum): -50  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

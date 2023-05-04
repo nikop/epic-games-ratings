@@ -7,98 +7,112 @@
       "SetID": "459695l",
       "Name": "Fish Appreciation",
       "Percentage": 22,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 14652
     },
     {
       "ID": "10_screen",
       "SetID": "459695l",
       "Name": "We\u0027re Gonna Need a Bigger Screen",
       "Percentage": 22,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 14652
     },
     {
       "ID": "11_away",
       "SetID": "459695l",
       "Name": "The Ones that Got Away",
       "Percentage": 68,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 45288
     },
     {
       "ID": "12_art",
       "SetID": "459695l",
       "Name": "A Work of Art",
       "Percentage": 22,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 14652
     },
     {
       "ID": "13_hide",
       "SetID": "459695l",
       "Name": "Hide and Seek",
       "Percentage": 15,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 9990
     },
     {
       "ID": "1_skies",
       "SetID": "459695l",
       "Name": "Up!",
       "Percentage": 34,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 22644
     },
     {
       "ID": "2_reel",
       "SetID": "459695l",
       "Name": "A Feel for the Reel",
       "Percentage": 84,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 55944
     },
     {
       "ID": "3_master_angler",
       "SetID": "459695l",
       "Name": "Master Angler",
       "Percentage": 23,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 15318
     },
     {
       "ID": "4_bird_breeder",
       "SetID": "459695l",
       "Name": "Bird Breeder",
       "Percentage": 27,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 17982
     },
     {
       "ID": "5_science",
       "SetID": "459695l",
       "Name": "Science Enthusiast",
       "Percentage": 27,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 17982
     },
     {
       "ID": "6_immortal",
       "SetID": "459695l",
       "Name": "Immortal",
       "Percentage": 40,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 26640
     },
     {
       "ID": "7_cleanup",
       "SetID": "459695l",
       "Name": "Cleanup Duty",
       "Percentage": 17,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 11322
     },
     {
       "ID": "8_else",
       "SetID": "459695l",
       "Name": "Anything Else?",
       "Percentage": 83,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 55278
     },
     {
       "ID": "9_lotus",
       "SetID": "459695l",
       "Name": "Be Like the Lotus",
       "Percentage": 12,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7992
     }
   ],
   "Tags": [],
@@ -124,13 +138,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T22:06:01.6874911+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:15.1369586+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 42,
   "EOS_Progressed": 666,
-  "LastUpdate_Achievements": "2023-05-04T22:06:01.6875086+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:39.6732379+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:15.1369719+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:50.814994+00:00",
   "AchievementSets": [
     {
       "ID": "459695l",
@@ -146,7 +160,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 21,
   "Ranking_EOS_Progress": 176,
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00"

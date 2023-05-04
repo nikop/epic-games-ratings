@@ -1,4 +1,5 @@
 # Five Nights at Freddy's: Security Breach
+[View Rawdata](../../db/f/five_nights_at_freddy's__security_breach.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 169  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Amazing Storytelling): 21  (Ranked 478)
 Sum: 21 (Ranked 478)  
 Diff (max vs sum): 0  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

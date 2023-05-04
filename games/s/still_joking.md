@@ -1,4 +1,5 @@
 # Still Joking
+[View Rawdata](../../db/s/still_joking.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

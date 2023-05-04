@@ -1,4 +1,5 @@
 # Subnautica
+[View Rawdata](../../db/s/subnautica.json)  
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 7,928  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Amazing Storytelling): 653  (Ranked 159)
 Sum: 5,213 (Ranked 121)  
 Diff (max vs sum): 38  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

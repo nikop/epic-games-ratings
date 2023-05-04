@@ -1,19 +1,20 @@
 # Somerville
+[View Rawdata](../../db/s/somerville.json)  
 Rating: 4.20 (Ranked 801)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| “Occupied!“ | 13.00 |
-| Worlds best dad. | 12.00 |
-| Resignation Reprise. | 8.00 |
-| War of the worlds. | 6.00 |
-| Resignation. | 5.00 |
-| Admiring the view. | 5.00 |
-| Blues Jam. | 3.00 |
-| Family First. | 3.00 |
-| Understanding. | 3.00 |
-| “Here boy…" | 2.00 |
-| First contact. | 0.50 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| “Occupied!“ | 13.00% | ~20,137 |
+| Worlds best dad. | 12.00% | ~18,588 |
+| Resignation Reprise. | 8.00% | ~12,392 |
+| War of the worlds. | 6.00% | ~9,294 |
+| Resignation. | 5.00% | ~7,745 |
+| Admiring the view. | 5.00% | ~7,745 |
+| Blues Jam. | 3.00% | ~4,647 |
+| Family First. | 3.00% | ~4,647 |
+| Understanding. | 3.00% | ~4,647 |
+| “Here boy…" | 2.00% | ~3,098 |
+| First contact. | 0.50% | ~774 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,549 (Ranked 147)  
 Completed: 25 (1.61%) (Ranked 62)  

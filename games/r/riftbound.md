@@ -1,34 +1,35 @@
 # Riftbound
+[View Rawdata](../../db/r/riftbound.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Adventure Time | 50.00 |
-| Master Of The Arts | 25.00 |
-| Adept Summoner | 0.00 |
-| Apprentice Summoner | 0.00 |
-| Brave Younglings | 0.00 |
-| Catch 'em All | 0.00 |
-| Challenger, Ready! | 0.00 |
-| Close Call | 0.00 |
-| Ender Ender | 0.00 |
-| Evolution Revolution | 0.00 |
-| Expert Summoner | 0.00 |
-| Fair Fight | 0.00 |
-| Five Of A Kind | 0.00 |
-| Fries With That? | 0.00 |
-| Full House | 0.00 |
-| Getting Good At This | 0.00 |
-| Hold The Line | 0.00 |
-| I'm A Wizard | 0.00 |
-| One Hand Tied | 0.00 |
-| Over 9000 | 0.00 |
-| Resource Management | 0.00 |
-| Spellslinger | 0.00 |
-| Tactical Spectacular | 0.00 |
-| Undead Slayer | 0.00 |
-| Who Turned Out The Lights | 0.00 |
-| Who's The Boss? | 0.00 |
-| Worker Wisp | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Adventure Time | 50.00% | ~200 |
+| Master Of The Arts | 25.00% | ~100 |
+| Adept Summoner | 0.00% | ~0 |
+| Apprentice Summoner | 0.00% | ~0 |
+| Brave Younglings | 0.00% | ~0 |
+| Catch 'em All | 0.00% | ~0 |
+| Challenger, Ready! | 0.00% | ~0 |
+| Close Call | 0.00% | ~0 |
+| Ender Ender | 0.00% | ~0 |
+| Evolution Revolution | 0.00% | ~0 |
+| Expert Summoner | 0.00% | ~0 |
+| Fair Fight | 0.00% | ~0 |
+| Five Of A Kind | 0.00% | ~0 |
+| Fries With That? | 0.00% | ~0 |
+| Full House | 0.00% | ~0 |
+| Getting Good At This | 0.00% | ~0 |
+| Hold The Line | 0.00% | ~0 |
+| I'm A Wizard | 0.00% | ~0 |
+| One Hand Tied | 0.00% | ~0 |
+| Over 9000 | 0.00% | ~0 |
+| Resource Management | 0.00% | ~0 |
+| Spellslinger | 0.00% | ~0 |
+| Tactical Spectacular | 0.00% | ~0 |
+| Undead Slayer | 0.00% | ~0 |
+| Who Turned Out The Lights | 0.00% | ~0 |
+| Who's The Boss? | 0.00% | ~0 |
+| Worker Wisp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 191)  

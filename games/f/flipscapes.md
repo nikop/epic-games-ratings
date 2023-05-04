@@ -1,4 +1,5 @@
 # FlipScapes
+[View Rawdata](../../db/f/flipscapes.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

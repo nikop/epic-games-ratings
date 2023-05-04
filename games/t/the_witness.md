@@ -1,4 +1,5 @@
 # The Witness
+[View Rawdata](../../db/t/the_witness.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 503  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Puzzles): 170  (Ranked 272)
 Sum: 170 (Ranked 363)  
 Diff (max vs sum): -91  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

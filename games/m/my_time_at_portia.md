@@ -1,4 +1,5 @@
 # My Time At Portia
+[View Rawdata](../../db/m/my_time_at_portia.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 3,894  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 2,212  (Ranked 98)
 Sum: 4,709 (Ranked 124)  
 Diff (max vs sum): -26  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

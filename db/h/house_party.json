@@ -7,483 +7,552 @@
       "SetID": "bmkn7o4",
       "Name": "Against All Odds",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Amy",
       "SetID": "bmkn7o4",
       "Name": "Amy",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "Amy_Scav",
       "SetID": "bmkn7o4",
       "Name": "Amy: Scavenger Hunt",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "Ashley",
       "SetID": "bmkn7o4",
       "Name": "Ashley",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "BBrahrnold",
       "SetID": "bmkn7o4",
       "Name": "Benedict Brahrnold",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "BeBack",
       "SetID": "bmkn7o4",
       "Name": "I\u0027ll Be Back",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "BeyondTheCall",
       "SetID": "bmkn7o4",
       "Name": "Beyond the Call of Dude-y",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 494
     },
     {
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 988
     },
     {
       "ID": "Bride",
       "SetID": "bmkn7o4",
       "Name": "The Bride",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "Casabrova",
       "SetID": "bmkn7o4",
       "Name": "Casabrova",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "Casanova",
       "SetID": "bmkn7o4",
       "Name": "Casanova",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "CaughtInAct",
       "SetID": "bmkn7o4",
       "Name": "Caught in the Act",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 988
     },
     {
       "ID": "CongratsACelebrityHatesYou",
       "SetID": "5f3a6d9",
       "Name": "Congrats, A Celebrity Hates You",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "DClubCert",
       "SetID": "bmkn7o4",
       "Name": "D-Club Certified",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "DeckTheBalls",
       "SetID": "5f3a6d9",
       "Name": "Deck the Balls",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "DnD_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Drunk and Disorderly: Ashley",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "DnD_Madison",
       "SetID": "bmkn7o4",
       "Name": "Drunk and Disorderly: Madison",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "DnD_Stephanie",
       "SetID": "bmkn7o4",
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1481
     },
     {
       "ID": "DoNotBurn",
       "SetID": "bmkn7o4",
       "Name": "Do Not Burn",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "DojaDinoliciousDanceapalooza",
       "SetID": "5f3a6d9",
       "Name": "Doja\u0027s Dope-Ass Dinolicious Danceapalooza",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "DuckNWeave",
       "SetID": "bmkn7o4",
       "Name": "Duck n\u0027 Weave",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "FirstImpressions",
       "SetID": "bmkn7o4",
       "Name": "First Impressions",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 494
     },
     {
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
       "Percentage": 0.7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3457
     },
     {
       "ID": "GoodRiddance",
       "SetID": "bmkn7o4",
       "Name": "Good Riddance!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "GrumpFu",
       "SetID": "bmkn7o4",
       "Name": "I Know Grump-Fu",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "HarderDood",
       "SetID": "bmkn7o4",
       "Name": "The Harder They Fall...Dood",
       "Percentage": 0.1,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 494
     },
     {
       "ID": "HijinksAverted",
       "SetID": "bmkn7o4",
       "Name": "Hijinks Averted",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "HostHijinks",
       "SetID": "bmkn7o4",
       "Name": "Host Hijinks",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "HungryHungryHotTubs",
       "SetID": "5f3a6d9",
       "Name": "Hungry Hungry Hot Tubs",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "IRLLetsPlay",
       "SetID": "bmkn7o4",
       "Name": "IRL Let\u0027s Player",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 988
     },
     {
       "ID": "IceBath",
       "SetID": "bmkn7o4",
       "Name": "Ice Bath",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "Inspector",
       "SetID": "bmkn7o4",
       "Name": "Inspector",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "ItSmellsLikeRoses",
       "SetID": "5f3a6d9",
       "Name": "It Smells Like Roses",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Katherine",
       "SetID": "bmkn7o4",
       "Name": "Katherine",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1975
     },
     {
       "ID": "LCA",
       "SetID": "bmkn7o4",
       "Name": "Love Conquers All",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "LifeFoundAWay",
       "SetID": "5f3a6d9",
       "Name": "Life Found a Way",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 593
     },
     {
       "ID": "MoneyShot",
       "SetID": "bmkn7o4",
       "Name": "Money Shot",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "NC_Vickie",
       "SetID": "bmkn7o4",
       "Name": "Newcomer: Vickie",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "NoticeMe",
       "SetID": "bmkn7o4",
       "Name": "Notice Me, Sensei",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "NowItsAParty",
       "SetID": "bmkn7o4",
       "Name": "Now It\u0027s a Party!",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 494
     },
     {
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
       "Percentage": 0.4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1975
     },
     {
       "ID": "Penguinfucker",
       "SetID": "bmkn7o4",
       "Name": "Rule 34",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 494
     },
     {
       "ID": "PoopEnding",
       "SetID": "bmkn7o4",
       "Name": "Party Pooper",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Rachael",
       "SetID": "bmkn7o4",
       "Name": "Rachael",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "Ronin",
       "SetID": "bmkn7o4",
       "Name": "Ronin",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "SO_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Ashley",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "SO_Madison",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Madison",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2963
     },
     {
       "ID": "SmellBlood",
       "SetID": "bmkn7o4",
       "Name": "Do You Smell Blood?",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "Stephanie",
       "SetID": "bmkn7o4",
       "Name": "Stephanie",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "StrikingResemblance",
       "SetID": "bmkn7o4",
       "Name": "A Striking Resemblance",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "Succeed",
       "SetID": "bmkn7o4",
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1481
     },
     {
       "ID": "SuckerPunch",
       "SetID": "bmkn7o4",
       "Name": "Sucker Punch",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "TM_Derek",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Derek",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "TM_Frank",
       "SetID": "bmkn7o4",
       "Name": "Howz It Goin Dood",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 494
     },
     {
       "ID": "TM_Madison",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Madison",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "ThatsANiceBush",
       "SetID": "5f3a6d9",
       "Name": "That\u0027s a Nice Bush!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "TheCrush",
       "SetID": "bmkn7o4",
       "Name": "The Crush",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 988
     },
     {
       "ID": "TheCrushes",
       "SetID": "bmkn7o4",
       "Name": "The Crush(es)",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "TheMagicNumber",
       "SetID": "bmkn7o4",
       "Name": "The Magic Number",
       "Percentage": 0.1,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 494
     },
     {
       "ID": "TheMostWonderfulTimeOfTheYear",
       "SetID": "5f3a6d9",
       "Name": "The Most Wonderful Time of the Year",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vickie",
       "SetID": "bmkn7o4",
       "Name": "Vickie",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "cooch",
       "SetID": "bmkn7o4",
       "Name": "La Coochadora",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "derezzed",
       "SetID": "bmkn7o4",
       "Name": "Derezzed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "elderbrahs",
       "SetID": "bmkn7o4",
       "Name": "The Elder Brahs",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     },
     {
       "ID": "geometry",
       "SetID": "bmkn7o4",
       "Name": "Simple Geometry",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "gooddays",
       "SetID": "bmkn7o4",
       "Name": "Good Ol\u0027 Days",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 494
     },
     {
       "ID": "snapped",
       "SetID": "bmkn7o4",
       "Name": "Snapped",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 494
     },
     {
       "ID": "tal",
       "SetID": "bmkn7o4",
       "Name": "Te Amo Lety",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 494
     }
   ],
   "Tags": [],
@@ -1003,13 +1072,13 @@
   ],
   "TotalAchievementsXP": 1040,
   "TotalAchievements": 69,
-  "LastChanged_Achievements": "2023-05-04T22:02:32.9429651+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:20:03.339409+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 29,
   "EOS_Completed": 2,
   "EOS_Progressed": 4938,
-  "LastUpdate_Achievements": "2023-05-04T22:02:32.9435644+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:39.0730705+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:20:03.3399397+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:50.4230676+00:00",
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
