@@ -9,7 +9,7 @@
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
@@ -18,9 +18,9 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.83% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
-| 21 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
+| 21 | [Ravenlok](games/r/ravenlok.md) | 6.40% |
 | 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
@@ -108,10 +108,10 @@
 | 105 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
-| 109 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 109 | [Tchia](games/t/tchia.md) | 0.33% |
+| 108 | [Tchia](games/t/tchia.md) | 0.35% |
+| 110 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
+| 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 113 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.32% |
 | 113 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
@@ -137,12 +137,12 @@
 | 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 136 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 138 | [Dead Island 2](games/d/dead_island_2.md) | 0.15% |
 | 138 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 138 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 138 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.14% |
-| 141 | [Isonzo](games/i/isonzo.md) | 0.14% |
-| 141 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 142 | [Isonzo](games/i/isonzo.md) | 0.14% |
+| 142 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 144 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 144 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 146 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.12% |
@@ -376,4 +376,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,551 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,552 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

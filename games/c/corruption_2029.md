@@ -1,5 +1,5 @@
 # CORRUPTION 2029
-Rating: 3.75 (Ranked 908)  
+Rating: 3.75 (Ranked 907)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 490)  
 Sum: 0 (Ranked 490)  
