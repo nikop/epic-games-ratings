@@ -1,9 +1,9 @@
 # Solitairica
-Rating: 4.49 (Ranked 546)  
+Rating: 4.49 (Ranked 547)  
 Number of Ratings: 474  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 83  (Ranked 342)  
-Sum: 594 (Ranked 277)  
+Sum: 595 (Ranked 277)  
 Diff (max vs sum): 65
 ## Awards
 | Award | Count |
@@ -14,8 +14,8 @@ Diff (max vs sum): 65
 | This game is Extremely Fun | 73 |
 | This game is Great for Beginners | 70 |
 | This game has Amazing Storytelling | 62 |
+| This game has Challenging Combat | 56 |
 | This game has Diverse Characters | 55 |
-| This game has Challenging Combat | 55 |
 | This game has Playful Visuals | 54 |
 | This game has Amazing Characters | 48 |
 | This game has a Creative Community | 22 |
@@ -99,3 +99,4 @@ Diff (max vs sum): 65
 | 2023-04-24 | 4.49 | - | 81 | 592 |
 | 2023-04-25 | 4.49 | - | 82 | 593 |
 | 2023-04-28 | 4.49 | - | 83 | 594 |
+| 2023-05-04 | 4.49 | - | 83 | 595 |

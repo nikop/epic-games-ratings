@@ -1,5 +1,5 @@
 # Mutant Year Zero: Road to Eden
-Rating: 4.49 (Ranked 546)  
+Rating: 4.49 (Ranked 547)  
 Number of Ratings: 2,052  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 610  (Ranked 162)  

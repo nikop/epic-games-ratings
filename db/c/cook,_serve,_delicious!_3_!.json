@@ -1190,8 +1190,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T00:02:06.4417133+00:00",
-  "LastUpdate_Ratings": "2023-05-03T23:59:44.4509218+00:00",
+  "LastUpdate_Achievements": "2023-05-04T01:57:55.6279124+00:00",
+  "LastUpdate_Ratings": "2023-05-04T01:56:08.16539+00:00",
   "LastChanged": "2023-04-21T22:58:03.7078284+00:00",
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
@@ -1204,7 +1204,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_PopularitySum": 259,
   "Ranking_Popularity": 313,
-  "Ranking_Rating": 546,
+  "Ranking_Rating": 547,
   "Rating": 4.49,
   "FirstSeen": "2022-08-11T18:01:43.0387462+00:00"
 }

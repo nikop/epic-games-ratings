@@ -1,11 +1,11 @@
 # MORDHAU
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 652)  
 ## Popularity (Based on Awards)
-Max (Challenging Combat): 56  (Ranked 381)  
-Sum: 282 (Ranked 326)  
-Diff (max vs sum): 55
+Max (Highly Recommended): 59  (Ranked 376)  
+Sum: 290 (Ranked 323)  
+Diff (max vs sum): 53
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,290,757 (Ranked 7)  
+Progressed: 1,291,045 (Ranked 7)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,12 +19,12 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 1,278,102 | 6 |
 | 2023-05-02 | 1,284,775 | 6 |
 | 2023-05-03 | 1,290,562 | 6 |
-| 2023-05-04 | 1,290,757 | 6 |
+| 2023-05-04 | 1,291,045 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 59 |
 | This game has Challenging Combat | 56 |
-| This game is Highly Recommended | 51 |
 | This game has Diverse Characters | 49 |
 | This game has Competitive Players | 45 |
 | This game has Amazing Characters | 41 |
@@ -53,4 +53,4 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 4.41 | 47 | 264 |
 | 2023-05-02 | 4.41 | 51 | 296 |
 | 2023-05-03 | 4.41 | 56 | 306 |
-| 2023-05-04 | 4.41 | 56 | 282 |
+| 2023-05-04 | 4.41 | 59 | 290 |
