@@ -1,5 +1,5 @@
 # The Escapists
-Rating: 4.48 (Ranked 564)  
+Rating: 4.48 (Ranked 563)  
 Number of Ratings: 596  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

@@ -1,5 +1,5 @@
 # WRC Generations
-Rating: 4.47 (Ranked 574)  
+Rating: 4.47 (Ranked 573)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |

@@ -1436,6 +1436,11 @@
       "Time": "2023-05-04T19:19:14.9656833+00:00",
       "NumProgressed": 457242,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-04T19:40:01.3141086+00:00",
+      "NumProgressed": 457243,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -1947,24 +1952,24 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-04T19:19:14.9656825+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:40:01.3141082+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 534,
   "EOS_Completed": 14,
-  "EOS_Progressed": 457242,
-  "LastUpdate_Achievements": "2023-05-04T19:19:14.9657558+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:13:43.1718382+00:00",
+  "EOS_Progressed": 457243,
+  "LastUpdate_Achievements": "2023-05-04T19:40:01.3141898+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:33:51.2721736+00:00",
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1176,
-      "Completed": 1176
+      "Progressed": 1177,
+      "Completed": 1177
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457242,
+      "Progressed": 457243,
       "Completed": 14
     }
   ],

@@ -52,7 +52,7 @@ Diff (max vs sum): 39
 | You are not a kangaroo | 0.40 |
 | Raisin the stakes | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,814 (Ranked 77)  
+Progressed: 41,815 (Ranked 77)  
 Completed: 5 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 5 (0.01%) (Ranked 184)
 | 2023-05-01 | 41,709 | 5 |
 | 2023-05-02 | 41,749 | 5 |
 | 2023-05-03 | 41,789 | 5 |
-| 2023-05-04 | 41,814 | 5 |
+| 2023-05-04 | 41,815 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

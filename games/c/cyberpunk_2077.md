@@ -1,9 +1,9 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 338)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 63,570  (Ranked 9)  
-Sum: 166,142 (Ranked 13)  
+Sum: 166,156 (Ranked 13)  
 Diff (max vs sum): -4  
 ## Achievements
 | Name | Percentage |
@@ -53,7 +53,7 @@ Diff (max vs sum): -4
 | Gunslinger | 1.00 |
 | Rough Landing | 0.40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,859 (Ranked 10)  
+Progressed: 797,862 (Ranked 10)  
 Completed: 1,566 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,14 +67,14 @@ Completed: 1,566 (0.20%) (Ranked 131)
 | 2023-05-01 | 797,331 | 1,554 |
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
-| 2023-05-04 | 797,859 | 1,566 |
+| 2023-05-04 | 797,862 | 1,566 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 63,570 |
 | This game has Great Boss Battles | 40,798 |
 | This game has Amazing Storytelling | 7,306 |
-| This game is Great for Beginners | 7,227 |
+| This game is Great for Beginners | 7,241 |
 | This game has Diverse Characters | 7,214 |
 | This game is Extremely Fun | 7,194 |
 | This game is Relaxing | 7,133 |
@@ -190,4 +190,4 @@ Completed: 1,566 (0.20%) (Ranked 131)
 | 2023-05-01 | 4.62 | - | 63,313 | 165,402 |
 | 2023-05-02 | 4.62 | - | 63,418 | 165,714 |
 | 2023-05-03 | 4.62 | - | 63,500 | 165,972 |
-| 2023-05-04 | 4.62 | - | 63,570 | 166,142 |
+| 2023-05-04 | 4.62 | - | 63,570 | 166,156 |

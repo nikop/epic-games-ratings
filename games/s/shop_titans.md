@@ -121,7 +121,7 @@ Diff (max vs sum): 23
 | Ultimate Collector | 0.40 |
 | Capitalist Camaraderie | 0.20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,528 (Ranked 54)  
+Progressed: 127,531 (Ranked 54)  
 Completed: 76 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 76 (0.06%) (Ranked 161)
 | 2023-05-01 | 127,338 | 75 |
 | 2023-05-02 | 127,411 | 75 |
 | 2023-05-03 | 127,478 | 76 |
-| 2023-05-04 | 127,528 | 76 |
+| 2023-05-04 | 127,531 | 76 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -408,6 +408,11 @@
       "Time": "2023-05-04T12:03:35.1391704+00:00",
       "NumProgressed": 6276,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-04T19:39:47.5800636+00:00",
+      "NumProgressed": 6278,
+      "NumCompleted": 50
     }
   ],
   "RatingHistory": [
@@ -701,18 +706,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T19:18:27.38084+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:39:47.5800619+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_Completed": 50,
-  "EOS_Progressed": 6276,
-  "LastUpdate_Achievements": "2023-05-04T19:18:27.3808603+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:12:11.0580433+00:00",
+  "EOS_Progressed": 6278,
+  "LastUpdate_Achievements": "2023-05-04T19:39:47.5800827+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:32:19.2277318+00:00",
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6276,
+      "Progressed": 6278,
       "Completed": 50
     }
   ],

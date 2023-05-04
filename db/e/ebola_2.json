@@ -1,7 +1,134 @@
 {
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
-  "Achievements": [],
+  "Achievements": [
+    {
+      "ID": "achBossOne",
+      "SetID": "1al1mjg",
+      "Name": "Voodoo \u2714",
+      "Percentage": 0,
+      "XP": 55
+    },
+    {
+      "ID": "achBossThree",
+      "SetID": "1al1mjg",
+      "Name": "Light will show the truth \u2714",
+      "Percentage": 0,
+      "XP": 55
+    },
+    {
+      "ID": "achBossTwo",
+      "SetID": "1al1mjg",
+      "Name": "Mask \u2714",
+      "Percentage": 0,
+      "XP": 55
+    },
+    {
+      "ID": "achCoin",
+      "SetID": "1al1mjg",
+      "Name": "Seeker \u2714",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "achCrow",
+      "SetID": "1al1mjg",
+      "Name": "Exterminate pests \u2714",
+      "Percentage": 0,
+      "XP": 35
+    },
+    {
+      "ID": "achExplosion",
+      "SetID": "1al1mjg",
+      "Name": "Survival \u2714",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "achEye",
+      "SetID": "1al1mjg",
+      "Name": "Doctor \u2714",
+      "Percentage": 0,
+      "XP": 10
+    },
+    {
+      "ID": "achGameEasy",
+      "SetID": "1al1mjg",
+      "Name": "Recruit \u2714",
+      "Percentage": 0,
+      "XP": 50
+    },
+    {
+      "ID": "achGameHard",
+      "SetID": "1al1mjg",
+      "Name": "Hardcore \u2714",
+      "Percentage": 0,
+      "XP": 150
+    },
+    {
+      "ID": "achGameMediym",
+      "SetID": "1al1mjg",
+      "Name": "Angel \u2714",
+      "Percentage": 0,
+      "XP": 100
+    },
+    {
+      "ID": "achHelp",
+      "SetID": "1al1mjg",
+      "Name": "Guardian angel \u2714",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "achIce",
+      "SetID": "1al1mjg",
+      "Name": "Recluse \u2714",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achMeat",
+      "SetID": "1al1mjg",
+      "Name": "Scent of Meat \u2714",
+      "Percentage": 0,
+      "XP": 5
+    },
+    {
+      "ID": "achSaveses",
+      "SetID": "1al1mjg",
+      "Name": "King of survival \u2714",
+      "Percentage": 0,
+      "XP": 200
+    },
+    {
+      "ID": "achSeif",
+      "SetID": "1al1mjg",
+      "Name": "Master of Unlocking \u2714",
+      "Percentage": 0,
+      "XP": 25
+    },
+    {
+      "ID": "achStatue",
+      "SetID": "1al1mjg",
+      "Name": "Statue \u2714",
+      "Percentage": 100,
+      "XP": 5
+    },
+    {
+      "ID": "achVirus",
+      "SetID": "1al1mjg",
+      "Name": "Saved the planet \u2714",
+      "Percentage": 0,
+      "XP": 30
+    },
+    {
+      "ID": "achWitch",
+      "SetID": "1al1mjg",
+      "Name": "Witch \u2714",
+      "Percentage": 0,
+      "XP": 20
+    }
+  ],
   "Tags": [],
   "EosHistory": [
     {
@@ -11,19 +138,26 @@
     }
   ],
   "RatingHistory": [],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-04T19:00:31.8928656+00:00",
+  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 18,
+  "LastChanged_Achievements": "2023-05-04T19:35:28.5720993+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:00:31.8928687+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:11:56.6672777+00:00",
-  "AchievementSets": [],
+  "LastUpdate_Achievements": "2023-05-04T19:35:28.5737363+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:32:05.8230287+00:00",
+  "AchievementSets": [
+    {
+      "ID": "1al1mjg",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00"

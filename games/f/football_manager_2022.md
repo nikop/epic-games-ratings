@@ -107,7 +107,7 @@ Diff (max vs sum): 28
 | Draft Value | 0.10 |
 | Shoestring Budget | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,090 (Ranked 26)  
+Progressed: 459,094 (Ranked 26)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-01 | 458,843 | 18 |
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
-| 2023-05-04 | 459,090 | 18 |
+| 2023-05-04 | 459,094 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

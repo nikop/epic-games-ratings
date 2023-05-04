@@ -26,7 +26,7 @@ Rating: 4.50 (Ranked 530)
 | Return the Statues | 24.00 |
 | Defeat Rattus Augustail | 24.00 |
 | Complete the Chefs Book | 23.00 |
-| Complete Ranger Faction | 19.00 |
+| Complete Ranger Faction | 20.00 |
 | Defeat Avor Warden of the Northern Wastes | 19.00 |
 | Discover the mystery of the Kings Chambers | 18.00 |
 | Complete Arena Faction | 14.00 |

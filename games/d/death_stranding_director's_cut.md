@@ -72,7 +72,7 @@ Diff (max vs sum): -29
 | Homo Faber | 0.40 |
 | Greatest of Great Deliverers | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,197 (Ranked 29)  
+Progressed: 452,199 (Ranked 29)  
 Completed: 1,490 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1,490 (0.33%) (Ranked 110)
 | 2023-05-01 | 451,494 | 1,483 |
 | 2023-05-02 | 451,747 | 1,484 |
 | 2023-05-03 | 452,004 | 1,486 |
-| 2023-05-04 | 452,197 | 1,490 |
+| 2023-05-04 | 452,199 | 1,490 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

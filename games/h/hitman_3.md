@@ -56,7 +56,7 @@ Diff (max vs sum): 18
 | Ripe for the Picking | 1.00 |
 | The Creative Assassin | 0.70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269,550 (Ranked 8)  
+Progressed: 1,269,558 (Ranked 8)  
 Completed: 2,058 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 2,058 (0.16%) (Ranked 136)
 | 2023-05-01 | 1,268,489 | 2,056 |
 | 2023-05-02 | 1,268,915 | 2,056 |
 | 2023-05-03 | 1,269,248 | 2,057 |
-| 2023-05-04 | 1,269,550 | 2,058 |
+| 2023-05-04 | 1,269,558 | 2,058 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

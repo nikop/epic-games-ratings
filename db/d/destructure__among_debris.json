@@ -368,13 +368,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T19:19:46.5978459+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:40:10.1250664+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 28,
   "EOS_Completed": 0,
   "EOS_Progressed": 35,
-  "LastUpdate_Achievements": "2023-05-04T19:19:46.5978683+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:14:20.8192702+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:40:10.12509+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:34:27.4284664+00:00",
   "AchievementSets": [
     {
       "ID": "jig50d",
@@ -390,7 +390,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 280,
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00"

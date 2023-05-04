@@ -927,6 +927,11 @@
       "Time": "2023-05-04T19:05:19.9099708+00:00",
       "NumProgressed": 13740,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-04T19:40:17.0390927+00:00",
+      "NumProgressed": 13741,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1042,18 +1047,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T19:20:10.8912815+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:40:17.0390922+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13740,
-  "LastUpdate_Achievements": "2023-05-04T19:20:10.8912984+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:14:41.9769671+00:00",
+  "EOS_Progressed": 13741,
+  "LastUpdate_Achievements": "2023-05-04T19:40:17.0391076+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:34:49.4133115+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13740,
+      "Progressed": 13741,
       "Completed": 42
     }
   ],
@@ -1064,7 +1069,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 34,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_Progress": 98,
   "Ranking_PopularitySum": 490,

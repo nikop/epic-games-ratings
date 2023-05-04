@@ -59,7 +59,7 @@ Diff (max vs sum): 86
 | Infinite Adventures! | 0.50 |
 | Pyrotechnical | 0.20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,177 (Ranked 113)  
+Progressed: 6,178 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 6,125 | 0 |
 | 2023-05-02 | 6,135 | 0 |
 | 2023-05-03 | 6,158 | 0 |
-| 2023-05-04 | 6,177 | 0 |
+| 2023-05-04 | 6,178 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

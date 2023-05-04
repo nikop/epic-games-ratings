@@ -1,5 +1,5 @@
 # Limbo
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 338)  
 Number of Ratings: 198  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

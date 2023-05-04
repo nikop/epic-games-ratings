@@ -1,5 +1,5 @@
 # Assassin's Creed® III: Remastered
-Rating: 4.47 (Ranked 574)  
+Rating: 4.47 (Ranked 573)  
 Number of Ratings: 257  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

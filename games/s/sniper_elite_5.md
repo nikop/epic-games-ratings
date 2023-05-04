@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 633)
 | Snake in the Grass | 12.00 |
 | Brains of the Operation | 12.00 |
 | No Stone Unturned | 11.00 |
+| Opposing Force | 11.00 |
 | Enemy at the Gates | 11.00 |
-| Opposing Force | 10.00 |
 | My Little Friend | 9.00 |
 | Precision Is Key | 8.00 |
 | Rigged to Blow | 8.00 |
