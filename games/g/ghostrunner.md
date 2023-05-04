@@ -54,7 +54,7 @@ Diff (max vs sum): -92
 | Legacy Drivers | 0.50 |
 | Up Close And Personal | 0.50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,893 (Ranked 127)  
+Progressed: 3,894 (Ranked 127)  
 Completed: 20 (0.51%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 20 (0.51%) (Ranked 97)
 | 2023-05-01 | 3,638 | 19 |
 | 2023-05-02 | 3,732 | 19 |
 | 2023-05-03 | 3,816 | 19 |
-| 2023-05-04 | 3,893 | 20 |
+| 2023-05-04 | 3,894 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

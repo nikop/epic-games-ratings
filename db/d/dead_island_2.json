@@ -41,7 +41,7 @@
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100
     },
     {
@@ -69,7 +69,7 @@
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50
     },
     {
@@ -104,7 +104,7 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10
     },
     {
@@ -230,7 +230,7 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10
     },
     {
@@ -272,7 +272,7 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10
     },
     {
@@ -1454,6 +1454,11 @@
       "Time": "2023-05-04T19:39:42.90641+00:00",
       "NumProgressed": 453972,
       "NumCompleted": 678
+    },
+    {
+      "Time": "2023-05-04T20:05:32.3452381+00:00",
+      "NumProgressed": 454122,
+      "NumCompleted": 682
     }
   ],
   "RatingHistory": [
@@ -1910,19 +1915,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T19:39:42.9064095+00:00",
-  "EOS_NewCompleters": 465,
-  "EOS_NewPlayers": 94733,
-  "EOS_Completed": 678,
-  "EOS_Progressed": 453972,
-  "LastUpdate_Achievements": "2023-05-04T19:39:42.906453+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:04.8301514+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:32.3451553+00:00",
+  "EOS_NewCompleters": 469,
+  "EOS_NewPlayers": 94883,
+  "EOS_Completed": 682,
+  "EOS_Progressed": 454122,
+  "LastUpdate_Achievements": "2023-05-04T20:05:32.3453035+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:58:21.391157+00:00",
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 453972,
-      "Completed": 678
+      "Progressed": 454122,
+      "Completed": 682
     }
   ],
   "EOS_Completed_Percentage": 0.15,

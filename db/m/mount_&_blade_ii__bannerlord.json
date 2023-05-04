@@ -1444,6 +1444,11 @@
       "Time": "2023-05-04T19:40:07.9226141+00:00",
       "NumProgressed": 48786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T20:06:01.8066872+00:00",
+      "NumProgressed": 48790,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -5146,18 +5151,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-04T19:40:07.9226122+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:06:01.8066862+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 618,
   "EOS_Completed": 0,
-  "EOS_Progressed": 48786,
-  "LastUpdate_Achievements": "2023-05-04T19:40:07.9226634+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:13.8159041+00:00",
+  "EOS_Progressed": 48790,
+  "LastUpdate_Achievements": "2023-05-04T20:06:01.8067654+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:59:49.5550272+00:00",
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 48786,
+      "Progressed": 48790,
       "Completed": 0
     }
   ],
@@ -5168,7 +5173,7 @@
   "NumberOfAwardsMax": 6480,
   "NumberOfAwards": 12904,
   "NumberOfRatings": 5603,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 73,

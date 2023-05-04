@@ -174,7 +174,7 @@
       "ID": "empire_tier_4",
       "SetID": "3ib2d0i",
       "Name": "Masters of Santo Ileso",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20
     },
     {
@@ -1489,6 +1489,11 @@
     {
       "Time": "2023-05-04T19:39:36.4851621+00:00",
       "NumProgressed": 21857,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T20:05:25.2648463+00:00",
+      "NumProgressed": 21865,
       "NumCompleted": 1
     }
   ],
@@ -3499,18 +3504,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T19:39:36.4851615+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:25.2648458+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2709,
+  "EOS_NewPlayers": 2717,
   "EOS_Completed": 1,
-  "EOS_Progressed": 21857,
-  "LastUpdate_Achievements": "2023-05-04T19:39:36.4852066+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:06.5309743+00:00",
+  "EOS_Progressed": 21865,
+  "LastUpdate_Achievements": "2023-05-04T20:05:25.2648929+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:59:40.378135+00:00",
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 21857,
+      "Progressed": 21865,
       "Completed": 1
     }
   ],
@@ -3522,7 +3527,7 @@
   "NumberOfAwardsMax": 1022,
   "NumberOfAwards": 9046,
   "NumberOfRatings": 22103,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 87,

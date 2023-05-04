@@ -1354,6 +1354,11 @@
       "Time": "2023-05-04T19:39:32.2954082+00:00",
       "NumProgressed": 1067927,
       "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T20:05:20.3331477+00:00",
+      "NumProgressed": 1067930,
+      "NumCompleted": 31618
     }
   ],
   "RatingHistory": [
@@ -4730,18 +4735,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T19:39:32.2954077+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:20.333147+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1873,
+  "EOS_NewPlayers": 1869,
   "EOS_Completed": 31618,
-  "EOS_Progressed": 1067927,
-  "LastUpdate_Achievements": "2023-05-04T19:39:32.2954364+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:55.5261542+00:00",
+  "EOS_Progressed": 1067930,
+  "LastUpdate_Achievements": "2023-05-04T20:05:20.3331821+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:00:40.6655308+00:00",
   "AchievementSets": [
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1067927,
+      "Progressed": 1067930,
       "Completed": 31618
     }
   ],

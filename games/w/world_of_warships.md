@@ -3,7 +3,7 @@ Rating: 4.43 (Ranked 633)
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,035  (Ranked 130)  
-Sum: 9,109 (Ranked 81)  
+Sum: 9,111 (Ranked 81)  
 Diff (max vs sum): 49  
 ## Achievements
 | Name | Percentage |
@@ -20,7 +20,7 @@ Diff (max vs sum): 49
 | This game has Realistic Visuals | 865 |
 | This game has Amazing Storytelling | 842 |
 | This game has Amazing Characters | 744 |
-| This game has a Competitive Community | 728 |
+| This game has a Competitive Community | 730 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -136,4 +136,4 @@ Diff (max vs sum): 49
 | 2023-05-01 | 4.43 | - | 1,032 | 9,047 |
 | 2023-05-02 | 4.43 | - | 1,032 | 9,072 |
 | 2023-05-03 | 4.43 | - | 1,035 | 9,095 |
-| 2023-05-04 | 4.43 | - | 1,035 | 9,109 |
+| 2023-05-04 | 4.43 | - | 1,035 | 9,111 |

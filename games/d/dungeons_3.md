@@ -45,7 +45,7 @@ Diff (max vs sum): 52
 | Lifeguard | 19.00 |
 | Flat as a pancake | 18.00 |
 | Can’t stand the sight of Dark Elf blood | 17.00 |
-| This is fun, I’m going to keep doing this! | 13.00 |
+| This is fun, I’m going to keep doing this! | 14.00 |
 | Then let them eat cake! | 13.00 |
 | Please, no interruptions! | 11.00 |
 | The White Knight | 10.00 |
@@ -64,12 +64,12 @@ Diff (max vs sum): 52
 | Night of the Living Dead (on Speed) | 4.00 |
 | I need a hero! | 4.00 |
 | Storm And Stress | 3.00 |
+| Not a scratch | 3.00 |
 | I love the smell of Catapult fire! | 3.00 |
 | Discoverer | 2.00 |
-| Not a scratch | 2.00 |
 | Sacrifices! | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,642 (Ranked 96)  
+Progressed: 14,650 (Ranked 96)  
 Completed: 140 (0.96%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 140 (0.96%) (Ranked 78)
 | 2023-05-01 | 14,317 | 137 |
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
-| 2023-05-04 | 14,642 | 140 |
+| 2023-05-04 | 14,650 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

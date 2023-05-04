@@ -279,7 +279,7 @@
       "ID": "MissionVictory_Interceptors",
       "SetID": "3jha1np",
       "Name": "Warp Flickers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20
     },
     {
@@ -1045,13 +1045,13 @@
   ],
   "TotalAchievementsXP": 1150,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-04T19:39:53.8972074+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:45.1274697+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 23,
   "EOS_Completed": 0,
   "EOS_Progressed": 2573,
-  "LastUpdate_Achievements": "2023-05-04T19:39:53.8972579+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:21.8943098+00:00",
+  "LastUpdate_Achievements": "2023-05-04T20:05:45.1275633+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:58:41.9300133+00:00",
   "AchievementSets": [
     {
       "ID": "2im8phi",
@@ -1073,7 +1073,7 @@
   "NumberOfAwardsMax": 207,
   "NumberOfAwards": 415,
   "NumberOfRatings": 371,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 134,

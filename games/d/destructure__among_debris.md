@@ -4,8 +4,8 @@
 | ---- | ---------- |
 | Rookie | 71.00 |
 | Graduation | 69.00 |
-| You Have Been Deaded | 49.00 |
-| Apprentice Destructor | 14.00 |
+| You Have Been Deaded | 51.00 |
+| Apprentice Destructor | 17.00 |
 | I Prefer Jazz Fusion | 11.00 |
 | Avaricerite | 9.00 |
 | You Are Actually Supposed To Use Those | 9.00 |

@@ -69,7 +69,7 @@
       "ID": "0010",
       "SetID": "2n2feee",
       "Name": "Social of Solace",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30
     },
     {
@@ -1216,13 +1216,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T19:40:06.6753236+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:06:00.1434512+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 432,
   "EOS_Completed": 0,
   "EOS_Progressed": 5149,
-  "LastUpdate_Achievements": "2023-05-04T19:40:06.6753562+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:11.7637624+00:00",
+  "LastUpdate_Achievements": "2023-05-04T20:06:00.143489+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:59:46.8736903+00:00",
   "AchievementSets": [
     {
       "ID": "2n2feee",
@@ -1237,7 +1237,7 @@
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 118,

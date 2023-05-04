@@ -36,7 +36,7 @@
 | The Gang | 0.00 |
 | Who waits five minutes, seriously? | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 321)  
+Progressed: 5 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

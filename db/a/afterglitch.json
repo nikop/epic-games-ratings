@@ -84,13 +84,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-04T19:39:33.0704186+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:21.2526222+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T19:39:33.0704273+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:03.1995698+00:00",
+  "LastUpdate_Achievements": "2023-05-04T20:05:21.2526435+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:58:19.7494877+00:00",
   "AchievementSets": [
     {
       "ID": "hnfblp",
@@ -100,7 +100,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,

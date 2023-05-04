@@ -202,7 +202,7 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "db84117",
       "Name": "Forge of Assassins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10
     },
     {
@@ -1222,6 +1222,11 @@
       "Time": "2023-05-04T19:39:26.7083366+00:00",
       "NumProgressed": 31687,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-05-04T20:05:13.9639886+00:00",
+      "NumProgressed": 31688,
+      "NumCompleted": 146
     }
   ],
   "RatingHistory": [
@@ -1415,18 +1420,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-04T19:39:26.7083356+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:13.963987+00:00",
   "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 522,
   "EOS_Completed": 146,
-  "EOS_Progressed": 31687,
-  "LastUpdate_Achievements": "2023-05-04T19:39:26.7083799+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:07.0603963+00:00",
+  "EOS_Progressed": 31688,
+  "LastUpdate_Achievements": "2023-05-04T20:05:13.9640676+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:58:23.8999098+00:00",
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 31687,
+      "Progressed": 31688,
       "Completed": 146
     }
   ],

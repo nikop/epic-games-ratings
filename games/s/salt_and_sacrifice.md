@@ -53,7 +53,7 @@ Diff (max vs sum): -51
 | The Firelord | 24.00 |
 | Want Not | 21.00 |
 | The Diablomancer | 21.00 |
-| The Sacrifice | 20.00 |
+| The Sacrifice | 21.00 |
 | The King | 18.00 |
 | Take Your Place | 14.00 |
 | The Nomad | 14.00 |

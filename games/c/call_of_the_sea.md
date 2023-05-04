@@ -7,8 +7,8 @@ Rating: 4.38 (Ranked 687)
 | 74 miles East of Otaheité | 54.00 |
 | Interesting... | 41.00 |
 | The Everhart Expedition | 38.00 |
+| Seaside Serenade | 29.00 |
 | The Vanishing of the Lady Shannon | 28.00 |
-| Seaside Serenade | 28.00 |
 | Halfway there | 27.00 |
 | A brigantine, a brig and a barque | 27.00 |
 | Weekend at Walakea's | 26.00 |
@@ -38,7 +38,7 @@ Rating: 4.38 (Ranked 687)
 | Gently down the stream... | 1.00 |
 | Meta-reference | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,737 (Ranked 61)  
+Progressed: 72,750 (Ranked 61)  
 Completed: 488 (0.67%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 488 (0.67%) (Ranked 91)
 | 2023-05-01 | 71,146 | 468 |
 | 2023-05-02 | 71,730 | 474 |
 | 2023-05-03 | 72,263 | 488 |
-| 2023-05-04 | 72,737 | 488 |
+| 2023-05-04 | 72,750 | 488 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -49,8 +49,8 @@ Diff (max vs sum): -42
 | Exercise in Restraint | 0.90 |
 | Clean Slate | 0.80 |
 | The Flesh is Weak | 0.50 |
+| Warp Flickers | 0.50 |
 | True Mastery | 0.50 |
-| Warp Flickers | 0.40 |
 | Firing Squad | 0.30 |
 | Strategic Command | 0.30 |
 | Crisis Management | 0.20 |

@@ -60,7 +60,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00 |
 | Shish Kebab | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,786 (Ranked 73)  
+Progressed: 48,790 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 48,589 | 0 |
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
-| 2023-05-04 | 48,786 | 0 |
+| 2023-05-04 | 48,790 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

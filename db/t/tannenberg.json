@@ -265,7 +265,7 @@
       "ID": "TANNENBERG_ACH_NIGHT_OWL",
       "SetID": "312pgde",
       "Name": "Night Owl",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10
     },
     {
@@ -1636,6 +1636,11 @@
     {
       "Time": "2023-05-04T19:40:12.7183567+00:00",
       "NumProgressed": 107229,
+      "NumCompleted": 21
+    },
+    {
+      "Time": "2023-05-04T20:06:06.8284997+00:00",
+      "NumProgressed": 107230,
       "NumCompleted": 21
     }
   ],
@@ -4540,18 +4545,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 67,
-  "LastChanged_Achievements": "2023-05-04T19:40:12.7183562+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:06:06.8284988+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 1373,
+  "EOS_NewPlayers": 1366,
   "EOS_Completed": 21,
-  "EOS_Progressed": 107229,
-  "LastUpdate_Achievements": "2023-05-04T19:40:12.7184248+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:26.4396518+00:00",
+  "EOS_Progressed": 107230,
+  "LastUpdate_Achievements": "2023-05-04T20:06:06.8286223+00:00",
+  "LastUpdate_Ratings": "2023-05-04T20:00:05.2169188+00:00",
   "AchievementSets": [
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 107229,
+      "Progressed": 107230,
       "Completed": 21
     }
   ],

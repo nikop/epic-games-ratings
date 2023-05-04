@@ -15,7 +15,7 @@
 | Exotic Merchant | 12.00 |
 | Hero inspection | 11.00 |
 | Miner Clicker | 11.00 |
-| Full Party | 9.00 |
+| Full Party | 8.00 |
 | Dragon Master | 6.00 |
 | Enlightenment | 6.00 |
 | Lieutenant | 5.00 |
@@ -78,7 +78,7 @@
 | Ultimate War Machines | 0.10 |
 | War Machines Army | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 167)  
+Progressed: 837 (Ranked 167)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-01 | 772 | 1 |
 | 2023-05-02 | 795 | 1 |
 | 2023-05-03 | 816 | 1 |
-| 2023-05-04 | 835 | 1 |
+| 2023-05-04 | 837 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

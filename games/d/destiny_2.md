@@ -32,7 +32,7 @@ Diff (max vs sum): -4
 | Wishing for the Best | 7.00 |
 | Seal the Deal | 5.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390,356 (Ranked 34)  
+Progressed: 390,385 (Ranked 34)  
 Completed: 11,398 (2.92%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 11,398 (2.92%) (Ranked 45)
 | 2023-05-01 | 387,567 | 11,323 |
 | 2023-05-02 | 388,391 | 11,341 |
 | 2023-05-03 | 389,416 | 11,367 |
-| 2023-05-04 | 390,356 | 11,398 |
+| 2023-05-04 | 390,385 | 11,398 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

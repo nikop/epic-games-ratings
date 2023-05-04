@@ -45,7 +45,7 @@ Diff (max vs sum): 18
 | Geek Out | 0.50 |
 | Full House | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,612 (Ranked 67)  
+Progressed: 58,616 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 26 (0.04%) (Ranked 167)
 | 2023-05-01 | 57,866 | 24 |
 | 2023-05-02 | 58,146 | 25 |
 | 2023-05-03 | 58,428 | 25 |
-| 2023-05-04 | 58,612 | 26 |
+| 2023-05-04 | 58,616 | 26 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

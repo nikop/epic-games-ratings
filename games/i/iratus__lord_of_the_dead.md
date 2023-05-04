@@ -84,7 +84,7 @@ Diff (max vs sum): -29
 | Unrivaled | 0.60 |
 | Renowned Researcher | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,143 (Ranked 85)  
+Progressed: 27,144 (Ranked 85)  
 Completed: 14 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 14 (0.05%) (Ranked 164)
 | 2023-05-01 | 26,855 | 14 |
 | 2023-05-02 | 26,950 | 14 |
 | 2023-05-03 | 27,055 | 14 |
-| 2023-05-04 | 27,143 | 14 |
+| 2023-05-04 | 27,144 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

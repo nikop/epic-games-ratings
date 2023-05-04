@@ -48,7 +48,7 @@
       "ID": "ACH_D3_Campaign_Darksword_1",
       "SetID": "cda475f",
       "Name": "This is fun, I\u2019m going to keep doing this!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5
     },
     {
@@ -160,7 +160,7 @@
       "ID": "ACH_D3_Campaign_Fire_2",
       "SetID": "cda475f",
       "Name": "Not a scratch",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100
     },
     {
@@ -1545,6 +1545,11 @@
     {
       "Time": "2023-05-04T19:39:33.8240681+00:00",
       "NumProgressed": 14642,
+      "NumCompleted": 140
+    },
+    {
+      "Time": "2023-05-04T20:05:22.0636534+00:00",
+      "NumProgressed": 14650,
       "NumCompleted": 140
     }
   ],
@@ -3401,18 +3406,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-04T19:39:33.8240677+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:22.0636527+00:00",
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 959,
+  "EOS_NewPlayers": 967,
   "EOS_Completed": 140,
-  "EOS_Progressed": 14642,
-  "LastUpdate_Achievements": "2023-05-04T19:39:33.82413+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:45.8774203+00:00",
+  "EOS_Progressed": 14650,
+  "LastUpdate_Achievements": "2023-05-04T20:05:22.0637264+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:59:13.7163028+00:00",
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 14642,
+      "Progressed": 14650,
       "Completed": 140
     }
   ],

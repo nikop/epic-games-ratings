@@ -25,9 +25,9 @@ Diff (max vs sum): 47
 | Unbeatable! | 50.00 |
 | One Of Our Own | 47.00 |
 | They're a Natural | 44.00 |
+| Team Performance | 43.00 |
 | Record Signing | 43.00 |
 | The Only Stat That Matters | 43.00 |
-| Team Performance | 42.00 |
 | Star Player | 40.00 |
 | Full Faith | 39.00 |
 | Squad Goals | 39.00 |
@@ -108,7 +108,7 @@ Diff (max vs sum): 47
 | Versus Anyone | 0.10 |
 | 200 Club | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,594 (Ranked 65)  
+Progressed: 61,596 (Ranked 65)  
 Completed: 14 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 14 (0.02%) (Ranked 175)
 | 2023-05-01 | 61,199 | 14 |
 | 2023-05-02 | 61,356 | 14 |
 | 2023-05-03 | 61,486 | 14 |
-| 2023-05-04 | 61,594 | 14 |
+| 2023-05-04 | 61,596 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

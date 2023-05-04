@@ -4,6 +4,7 @@ Rating: 4.54 (Ranked 475)
 | Name | Percentage |
 | ---- | ---------- |
 | Without Breaking Some Eggs... | 0.20 |
+| Wakey Wakey | 0.20 |
 | A Thousand Strong | 0.20 |
 | Exceeding Capacity | 0.20 |
 | The Ship of Theseus | 0.20 |
@@ -13,7 +14,6 @@ Rating: 4.54 (Ranked 475)
 | Oats | 0.10 |
 | What They Hide From Us | 0.10 |
 | Guy de Borderlands | 0.10 |
-| Wakey Wakey | 0.10 |
 | Space Society | 0.10 |
 | Sputnik 2049 | 0.10 |
 | A Hunk of Junk | 0.10 |

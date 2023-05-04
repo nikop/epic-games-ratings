@@ -50,7 +50,7 @@ Diff (max vs sum): -69
 | A brush with death | 3.00 |
 | Boy of mystery | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,176 (Ranked 101)  
+Progressed: 12,177 (Ranked 101)  
 Completed: 91 (0.75%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 91 (0.75%) (Ranked 88)
 | 2023-05-01 | 12,133 | 91 |
 | 2023-05-02 | 12,153 | 91 |
 | 2023-05-03 | 12,164 | 91 |
-| 2023-05-04 | 12,176 | 91 |
+| 2023-05-04 | 12,177 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

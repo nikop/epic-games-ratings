@@ -29,8 +29,8 @@ Diff (max vs sum): 51
 | Showdown | 29.00 |
 | Et tu? | 29.00 |
 | Kitted Out | 25.00 |
-| Masters of Santo Ileso | 24.00 |
 | Hijacked | 23.00 |
+| Masters of Santo Ileso | 23.00 |
 | The Spins | 20.00 |
 | The Mechanic | 20.00 |
 | Closet Space | 16.00 |
@@ -59,7 +59,7 @@ Diff (max vs sum): 51
 | Fiesta Time | 0.60 |
 | Untouchable | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,857 (Ranked 87)  
+Progressed: 21,865 (Ranked 87)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 20,930 | 1 |
 | 2023-05-02 | 21,231 | 1 |
 | 2023-05-03 | 21,560 | 1 |
-| 2023-05-04 | 21,857 | 1 |
+| 2023-05-04 | 21,865 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

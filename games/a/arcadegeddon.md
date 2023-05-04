@@ -53,7 +53,7 @@ Diff (max vs sum): 86
 | Nexuwizard | 2.00 |
 | Nature Is Lit | 1.00 |
 | Everybody Freeze | 0.90 |
-| The Collector | 0.80 |
+| The Collector | 0.90 |
 | Shield and Shred | 0.70 |
 | I'm The Pluggernaut | 0.50 |
 | Infinite Adventures! | 0.50 |

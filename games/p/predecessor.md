@@ -2,7 +2,7 @@
 Rating: 4.44 (Ranked 620)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 72  (Ranked 355)  
-Sum: 501 (Ranked 290)  
+Sum: 502 (Ranked 290)  
 Diff (max vs sum): 65  
 ## Achievements
 | Name | Percentage |
@@ -12,7 +12,7 @@ Diff (max vs sum): 65
 | ----- | ----- |
 | This game has Diverse Characters | 72 |
 | This game is Highly Recommended | 67 |
-| This game has a Competitive Community | 60 |
+| This game has a Competitive Community | 61 |
 | This game has Challenging Combat | 58 |
 | This game has Amazing Characters | 56 |
 | This game has Competitive Players | 50 |
@@ -91,4 +91,4 @@ Diff (max vs sum): 65
 | 2023-05-01 | 4.45 | 67 | 481 |
 | 2023-05-02 | 4.45 | 69 | 489 |
 | 2023-05-03 | 4.45 | 69 | 496 |
-| 2023-05-04 | 4.44 | 72 | 501 |
+| 2023-05-04 | 4.44 | 72 | 502 |

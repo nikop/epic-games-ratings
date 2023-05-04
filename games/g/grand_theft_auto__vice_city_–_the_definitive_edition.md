@@ -42,7 +42,7 @@ Diff (max vs sum): -11
 | Done it All | 0.60 |
 | Kingpin | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,024 (Ranked 114)  
+Progressed: 6,025 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 20 (0.33%) (Ranked 110)
 | 2023-05-01 | 5,975 | 20 |
 | 2023-05-02 | 5,993 | 20 |
 | 2023-05-03 | 6,011 | 20 |
-| 2023-05-04 | 6,024 | 20 |
+| 2023-05-04 | 6,025 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

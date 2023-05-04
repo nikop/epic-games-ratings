@@ -49,7 +49,7 @@ Rating: 3.70 (Ranked 910)
 | Poker Ace | 0.00 |
 | Poker Showdown | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,865 (Ranked 32)  
+Progressed: 397,155 (Ranked 32)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 311,103 | 0 |
 | 2023-05-02 | 343,893 | 0 |
 | 2023-05-03 | 374,884 | 0 |
-| 2023-05-04 | 396,865 | 0 |
+| 2023-05-04 | 397,155 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

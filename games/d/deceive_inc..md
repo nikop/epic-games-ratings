@@ -26,7 +26,7 @@ Rating: 4.64 (Ranked 312)
 | My Motto, My Creed | 24.00 |
 | Security Supervisor | 9.00 |
 | License to Thrill | 8.00 |
-| Social of Solace | 7.00 |
+| Social of Solace | 8.00 |
 | Safe Withdrawal | 7.00 |
 | Live and let lie | 6.00 |
 | Call Me Maybe | 5.00 |

@@ -20,8 +20,8 @@ Diff (max vs sum): 61
 | Ring Ring! | 52.00 |
 | Bossing Around | 45.00 |
 | Frostbite | 45.00 |
+| Night Owl | 45.00 |
 | Strength in Numbers | 45.00 |
-| Night Owl | 44.00 |
 | Fog of War | 41.00 |
 | Stronghold Denied | 39.00 |
 | Anyone Else? | 38.00 |
@@ -76,7 +76,7 @@ Diff (max vs sum): 61
 | Seeing is Believing | 0.90 |
 | Road to Berlin | 0.60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,229 (Ranked 58)  
+Progressed: 107,230 (Ranked 58)  
 Completed: 21 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 21 (0.02%) (Ranked 175)
 | 2023-05-01 | 106,798 | 20 |
 | 2023-05-02 | 106,966 | 20 |
 | 2023-05-03 | 107,108 | 20 |
-| 2023-05-04 | 107,229 | 21 |
+| 2023-05-04 | 107,230 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

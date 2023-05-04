@@ -90,7 +90,7 @@
       "ID": "achievement_5_players_in_team_of_the_week",
       "SetID": "26pcimd",
       "Name": "Team Performance",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10
     },
     {
@@ -1837,6 +1837,11 @@
       "Time": "2023-05-04T19:40:05.3191438+00:00",
       "NumProgressed": 61594,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-04T20:05:58.7425183+00:00",
+      "NumProgressed": 61596,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -3101,18 +3106,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 100,
-  "LastChanged_Achievements": "2023-05-04T19:40:05.3191428+00:00",
+  "LastChanged_Achievements": "2023-05-04T20:05:58.7425177+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1113,
   "EOS_Completed": 14,
-  "EOS_Progressed": 61594,
-  "LastUpdate_Achievements": "2023-05-04T19:40:05.3192666+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:55.7840964+00:00",
+  "EOS_Progressed": 61596,
+  "LastUpdate_Achievements": "2023-05-04T20:05:58.74267+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:59:26.1825082+00:00",
   "AchievementSets": [
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 61594,
+      "Progressed": 61596,
       "Completed": 14
     }
   ],
@@ -3123,7 +3128,7 @@
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 402,
   "NumberOfAwards": 2987,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 65,

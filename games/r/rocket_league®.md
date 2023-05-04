@@ -97,7 +97,7 @@ Diff (max vs sum): 0
 | Virtuoso | 0.10 |
 | Winning is Winning | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,548,220 (Ranked 2)  
+Progressed: 23,548,536 (Ranked 2)  
 Completed: 1,255 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1,255 (0.01%) (Ranked 184)
 | 2023-05-01 | 23,511,466 | 1,250 |
 | 2023-05-02 | 23,525,243 | 1,251 |
 | 2023-05-03 | 23,537,701 | 1,254 |
-| 2023-05-04 | 23,548,220 | 1,255 |
+| 2023-05-04 | 23,548,536 | 1,255 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
