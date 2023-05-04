@@ -6,7 +6,7 @@
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,731 | 4.19 | 813 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 165,194 | 4.68 | 233 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 138,269 | 4.89 | 12 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 137,970 | 4.53 | 488 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 137,999 | 4.53 | 488 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 108,597 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,570 | 4.62 | 336 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,392 | 4.59 | 395 |
@@ -44,7 +44,7 @@
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,227 | 4.57 | 428 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,133 | 4.71 | 178 |
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,880 | 4.89 | 12 |
-| 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,847 | 4.57 | 428 |
+| 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,866 | 4.57 | 428 |
 | 46 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 641 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,679 | 4.47 | 575 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,504 | 4.67 | 255 |
@@ -276,21 +276,21 @@
 | 274 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 169 | 4.30 | 750 |
 | 275 | [Severed Steel](games/s/severed_steel.md) | 167 | 4.68 | 233 |
 | 276 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 164 | 4.65 | 290 |
-| 277 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 687 |
-| 277 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 687 |
+| 277 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 688 |
+| 277 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 688 |
 | 279 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 78 |
 | 280 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 154 | 4.57 | 428 |
 | 281 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 151 | 4.65 | 290 |
-| 282 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 148 | 4.52 | 499 |
-| 283 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 147 | 4.52 | 499 |
-| 283 | [The Sims™ 4](games/t/the_sims™_4.md) | 147 | 4.60 | 379 |
+| 281 | [The Sims™ 4](games/t/the_sims™_4.md) | 151 | 4.60 | 379 |
+| 283 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 148 | 4.52 | 499 |
+| 284 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 147 | 4.52 | 499 |
 | 285 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 142 | 4.77 | 103 |
 | 286 | [Blasphemous](games/b/blasphemous.md) | 139 | 4.86 | 28 |
 | 286 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.73 | 157 |
 | 288 | [Fort Triumph](games/f/fort_triumph.md) | 137 | 4.08 | 860 |
 | 289 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 133 | 4.57 | 428 |
 | 290 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 513 |
-| 291 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 130 | 4.38 | 687 |
+| 291 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 130 | 4.39 | 679 |
 | 292 | [Alien: Isolation ](games/a/alien__isolation.md) | 128 | 4.61 | 353 |
 | 292 | [Atomicrops](games/a/atomicrops.md) | 128 | 4.88 | 18 |
 | 292 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 128 | 4.29 | 757 |

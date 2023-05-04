@@ -18,7 +18,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12917
+      "Count": 12943
     },
     {
       "Text": "This game has Amazing Characters",
@@ -78,7 +78,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12428
+      "Count": 12451
     },
     {
       "Text": "This game has a Creative Community",
@@ -5381,6 +5381,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 351809,
       "NumberOfAwardsMax": 138269
+    },
+    {
+      "Time": "2023-05-04T11:58:54.1497523+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 351858,
+      "NumberOfAwardsMax": 138269
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5388,12 +5394,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T11:04:32.6023195+00:00",
-  "LastUpdate_Ratings": "2023-05-04T10:58:47.6041123+00:00",
-  "LastChanged": "2023-05-04T10:58:47.6041116+00:00",
+  "LastUpdate_Achievements": "2023-05-04T12:04:11.3899278+00:00",
+  "LastUpdate_Ratings": "2023-05-04T11:58:54.1497529+00:00",
+  "LastChanged": "2023-05-04T11:58:54.1497521+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 138269,
-  "NumberOfAwards": 351809,
+  "NumberOfAwards": 351858,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 274,

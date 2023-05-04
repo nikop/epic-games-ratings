@@ -389,7 +389,7 @@
 | 379 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,034 | 35 |
 | 379 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 490 |
 | 379 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 440 | 189 |
-| 379 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 147 | 283 |
+| 379 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 151 | 281 |
 | 379 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 482 |
 | 379 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 490 |
 | 379 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 341 |
@@ -433,7 +433,7 @@
 | 428 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 154 | 280 |
 | 428 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 396 |
 | 428 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 0 | 490 |
-| 428 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,847 | 45 |
+| 428 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,866 | 45 |
 | 428 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 490 |
 | 428 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 427 |
 | 428 | [Hob](games/h/hob.md) | 4.57 | 0 | 490 |
@@ -491,7 +491,7 @@
 | 488 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 490 |
 | 488 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 490 |
 | 488 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,675 | 17 |
-| 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,970 | 7 |
+| 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,999 | 7 |
 | 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 300 |
 | 488 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 490 |
 | 488 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 469 |
@@ -503,14 +503,14 @@
 | 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,986 | 16 |
 | 499 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 500 | 182 |
 | 499 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 321 |
-| 499 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 283 |
+| 499 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 284 |
 | 499 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 263 |
 | 499 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,129 | 126 |
 | 499 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 490 |
 | 499 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 273 | 229 |
 | 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 490 |
 | 499 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.52 | 0 | 490 |
-| 499 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 148 | 282 |
+| 499 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 148 | 283 |
 | 499 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 490 |
 | 513 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,563 | 112 |
 | 513 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 333 |
@@ -684,16 +684,16 @@
 | 679 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 542 | 175 |
 | 679 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 490 |
 | 679 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,647 | 30 |
+| 679 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.39 | 130 | 291 |
 | 679 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 490 |
 | 679 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 321 | 215 |
-| 687 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 490 |
-| 687 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 490 |
-| 687 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 490 |
-| 687 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 277 |
-| 687 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 277 |
-| 687 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.38 | 130 | 291 |
-| 687 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
-| 687 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
+| 688 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 490 |
+| 688 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 490 |
+| 688 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 490 |
+| 688 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 277 |
+| 688 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 277 |
+| 688 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
+| 688 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
 | 695 | [Core](games/c/core.md) | 4.37 | 727 | 152 |
 | 695 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
 | 695 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 100 |
