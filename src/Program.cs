@@ -326,13 +326,13 @@ await File.WriteAllTextAsync(
 Directory.CreateDirectory("experimental");
 
 var eosGames = new MarkdownTable<GameDbItem>()
-    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Game", x => $"[{x.Name}](../{GamesLink(x)})")
     .AddColumn("Total Achievements", x => MarkdownHelpers.FormatRanking(x.TotalAchievements))
     .AddColumn("Total XP", x => MarkdownHelpers.FormatRanking(x.TotalAchievementsXP));
 
 
 var eosGamesSets = new MarkdownTable<GameDbItem>()
-    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Game", x => $"[{x.Name}](../{GamesLink(x)})")
     .AddColumn("Total Achievements", x => MarkdownHelpers.FormatRanking(x.TotalAchievements))
     .AddColumn("Total XP", x => MarkdownHelpers.FormatRanking(x.TotalAchievementsXP))
     .AddColumn("Sets", x => MarkdownHelpers.FormatRanking(x.AchievementSets.Count));
