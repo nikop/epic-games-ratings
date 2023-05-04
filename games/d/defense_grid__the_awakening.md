@@ -1,12 +1,12 @@
 # Defense Grid: The Awakening
-Rating: 4.45 (Ranked 600)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 230  (Ranked 241)  
+Max (Great for Beginners): 230  (Ranked 242)  
 Sum: 1,632 (Ranked 200)  
-Diff (max vs sum): 41
+Diff (max vs sum): 42
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,720 (Ranked 25)  
+Progressed: 475,722 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -20,7 +20,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-01 | 475,533 | 4 |
 | 2023-05-02 | 475,627 | 4 |
 | 2023-05-03 | 475,693 | 4 |
-| 2023-05-04 | 475,720 | 4 |
+| 2023-05-04 | 475,722 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
@@ -23,7 +23,7 @@
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 5.56% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 5.30% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
@@ -85,8 +85,8 @@
 | 82 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 84 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
-| 86 | [Adios](games/a/adios.md) | 0.80% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
+| 87 | [Adios](games/a/adios.md) | 0.79% |
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |

@@ -6,7 +6,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 821
+      "Count": 822
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2865,6 +2865,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 7111,
       "NumberOfAwardsMax": 856
+    },
+    {
+      "Time": "2023-05-04T10:57:41.3203956+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7112,
+      "NumberOfAwardsMax": 856
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2872,15 +2878,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T10:03:11.5549161+00:00",
-  "LastUpdate_Ratings": "2023-05-04T09:57:38.4044621+00:00",
-  "LastChanged": "2023-05-03T22:57:40.7790934+00:00",
+  "LastUpdate_Achievements": "2023-05-04T11:03:43.7788596+00:00",
+  "LastUpdate_Ratings": "2023-05-04T10:57:41.3203962+00:00",
+  "LastChanged": "2023-05-04T10:57:41.3203954+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 856,
-  "NumberOfAwards": 7111,
+  "NumberOfAwards": 7112,
   "NumberOfRatings": 2918,
   "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 100,

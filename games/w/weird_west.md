@@ -1,12 +1,12 @@
 # Weird West
-Rating: 4.45 (Ranked 600)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 23  (Ranked 469)  
 Sum: 23 (Ranked 471)  
 Diff (max vs sum): -2
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,489 (Ranked 149)  
+Progressed: 1,490 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 2 (0.13%) (Ranked 144)
 | 2023-04-27 | 1,486 | 2 |
 | 2023-04-30 | 1,487 | 2 |
 | 2023-05-02 | 1,488 | 2 |
-| 2023-05-04 | 1,489 | 2 |
+| 2023-05-04 | 1,490 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
