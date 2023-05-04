@@ -17,13 +17,16 @@ namespace EpicRatingsUpdater
 
             var orderedItems = items.OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
 
-            await Parallel.ForEachAsync(orderedItems, new ParallelOptions { MaxDegreeOfParallelism = 2 },
+            var c = 0;
+            var total = orderedItems.Count;
+
+            var task = Parallel.ForEachAsync(orderedItems, new ParallelOptions { MaxDegreeOfParallelism = 2 },
                 async (item, ct) =>
                 {
                     try
                     {
                         await UpdateItem(item);
-
+                        Interlocked.Increment(ref c);
                     }
                     catch (GraphQLHttpRequestException)
                     {
@@ -38,6 +41,12 @@ namespace EpicRatingsUpdater
                     await Task.Delay(100);
                 }
             );
+
+            while (!task.IsCompleted)
+            {
+                Console.WriteLine($"{c} / {total}");
+                await Task.WhenAny(task, Task.Delay(5000));
+            }
         }
 
         public async Task UpdateItem(GameDbItem item)
