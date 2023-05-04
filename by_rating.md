@@ -25,7 +25,7 @@
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 490 |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 478 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,372 | 117 |
-| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,333 | 31 |
+| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,336 | 31 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,002 | 135 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 490 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 286 |
@@ -337,7 +337,7 @@
 | 328 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,730 | 109 |
 | 336 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,570 | 9 |
 | 336 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 430 |
-| 336 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,207 | 121 |
+| 336 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,212 | 121 |
 | 336 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 530 | 177 |
 | 336 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 490 |
 | 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 581 | 167 |
@@ -442,7 +442,7 @@
 | 428 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,227 | 42 |
 | 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,029 | 85 |
 | 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 304 |
-| 428 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,142 | 19 |
+| 428 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,157 | 19 |
 | 428 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,728 | 110 |
 | 428 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 76 | 349 |
 | 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 490 |
@@ -636,21 +636,21 @@
 | 633 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 490 |
 | 633 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 490 |
 | 633 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 366 |
+| 633 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.43 | 0 | 490 |
 | 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 490 |
 | 633 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 276 | 226 |
 | 633 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,035 | 130 |
-| 640 | [Breathedge](games/b/breathedge.md) | 4.42 | 0 | 490 |
-| 640 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 376 |
-| 640 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
-| 640 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,870 | 28 |
-| 640 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 490 |
-| 640 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,105 | 127 |
-| 640 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 443 |
-| 640 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 46 |
-| 640 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |
-| 640 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 490 |
-| 640 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 0 | 490 |
-| 640 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 533 | 176 |
+| 641 | [Breathedge](games/b/breathedge.md) | 4.42 | 0 | 490 |
+| 641 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 376 |
+| 641 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
+| 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,870 | 28 |
+| 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 490 |
+| 641 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,105 | 127 |
+| 641 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 443 |
+| 641 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 46 |
+| 641 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |
+| 641 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 490 |
+| 641 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 533 | 176 |
 | 652 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 490 |
 | 652 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 490 |
 | 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 178 | 267 |
@@ -816,7 +816,7 @@
 | 813 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 490 |
 | 813 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 490 |
 | 813 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 490 |
-| 813 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,657 | 4 |
+| 813 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,731 | 4 |
 | 813 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 490 |
 | 813 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 459 |
 | 820 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 89 | 335 |
