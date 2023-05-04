@@ -37,7 +37,7 @@
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,034 | 4.60 | 379 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,831 | 4.78 | 101 |
 | 37 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 8,812 | 4.24 | 780 |
-| 38 | [Control](games/c/control.md) | 8,257 | 4.60 | 379 |
+| 38 | [Control](games/c/control.md) | 8,259 | 4.60 | 379 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,846 | 4.76 | 113 |
 | 40 | [Supraland](games/s/supraland.md) | 7,603 | 4.61 | 353 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,516 | 4.85 | 37 |
@@ -77,7 +77,7 @@
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,814 | 4.56 | 447 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,741 | 4.69 | 212 |
 | 77 | [SMITE](games/s/smite.md) | 3,715 | 4.45 | 599 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,587 | 4.30 | 750 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,589 | 4.30 | 750 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,437 | 4.47 | 574 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 233 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,255 | 4.46 | 590 |
@@ -355,14 +355,14 @@
 | 353 | [Armored Warfare](games/a/armored_warfare.md) | 73 | 4.12 | 847 |
 | 353 | [Rising Hell](games/r/rising_hell.md) | 73 | 4.40 | 664 |
 | 355 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.66 | 272 |
+| 355 | [Predecessor](games/p/predecessor.md) | 72 | 4.44 | 620 |
 | 355 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 652 |
 | 355 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 72 | 4.62 | 337 |
-| 358 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 71 | 4.33 | 730 |
-| 358 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 837 |
-| 360 | [Barony](games/b/barony.md) | 70 | 4.71 | 178 |
-| 361 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 233 |
-| 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 447 |
-| 361 | [Predecessor](games/p/predecessor.md) | 69 | 4.44 | 620 |
+| 359 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 71 | 4.33 | 730 |
+| 359 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 837 |
+| 361 | [Barony](games/b/barony.md) | 70 | 4.71 | 178 |
+| 362 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 233 |
+| 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 447 |
 | 364 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 68 | 4.51 | 513 |
 | 364 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 68 | 4.72 | 166 |
 | 366 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.79 | 903 |

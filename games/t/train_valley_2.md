@@ -2,9 +2,9 @@
 Rating: 4.15 (Ranked 837)  
 Number of Ratings: 87  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 71  (Ranked 358)  
+Max (Challenging Puzzles): 71  (Ranked 359)  
 Sum: 71 (Ranked 414)  
-Diff (max vs sum): -56
+Diff (max vs sum): -55
 ## Popularity (Based on EOS Achievements)
 Progressed: 697 (Ranked 173)  
 Completed: 1 (0.14%) (Ranked 142)  

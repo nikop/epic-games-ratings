@@ -1115,6 +1115,11 @@
       "Time": "2023-05-04T17:05:03.3369964+00:00",
       "NumProgressed": 61561,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-04T18:04:59.3562442+00:00",
+      "NumProgressed": 61571,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -2373,19 +2378,19 @@
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1111,
   "EOS_Completed": 14,
-  "EOS_Progressed": 61561,
-  "LastUpdate_Achievements": "2023-05-04T17:05:03.3370106+00:00",
-  "LastUpdate_Ratings": "2023-05-04T16:59:22.566779+00:00",
-  "LastChanged_Achievements": "2023-05-04T17:05:03.3369958+00:00",
+  "EOS_Progressed": 61571,
+  "LastUpdate_Achievements": "2023-05-04T18:04:59.3562559+00:00",
+  "LastUpdate_Ratings": "2023-05-04T17:58:59.6061652+00:00",
+  "LastChanged_Achievements": "2023-05-04T18:04:59.3562437+00:00",
   "LastChanged": "2023-05-04T13:59:14.6640052+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 402,
   "NumberOfAwards": 2986,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 65,

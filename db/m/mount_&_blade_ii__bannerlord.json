@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 719
+      "Count": 720
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1069,6 +1069,11 @@
     {
       "Time": "2023-05-04T17:05:15.8788044+00:00",
       "NumProgressed": 48774,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T18:05:10.0431191+00:00",
+      "NumProgressed": 48779,
       "NumCompleted": 0
     }
   ],
@@ -4762,23 +4767,29 @@
       "Rating": 4.74,
       "NumberOfAwards": 12903,
       "NumberOfAwardsMax": 6480
+    },
+    {
+      "Time": "2023-05-04T17:59:18.0659955+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12904,
+      "NumberOfAwardsMax": 6480
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 616,
   "EOS_Completed": 0,
-  "EOS_Progressed": 48774,
-  "LastUpdate_Achievements": "2023-05-04T17:05:15.8788172+00:00",
-  "LastUpdate_Ratings": "2023-05-04T16:59:47.2949811+00:00",
-  "LastChanged_Achievements": "2023-05-04T17:05:15.8788029+00:00",
-  "LastChanged": "2023-05-04T16:59:47.2949801+00:00",
+  "EOS_Progressed": 48779,
+  "LastUpdate_Achievements": "2023-05-04T18:05:10.0431307+00:00",
+  "LastUpdate_Ratings": "2023-05-04T17:59:18.0659959+00:00",
+  "LastChanged_Achievements": "2023-05-04T18:05:10.0431185+00:00",
+  "LastChanged": "2023-05-04T17:59:18.0659953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6480,
-  "NumberOfAwards": 12903,
+  "NumberOfAwards": 12904,
   "NumberOfRatings": 5603,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 73,

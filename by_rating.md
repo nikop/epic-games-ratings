@@ -177,7 +177,7 @@
 | 166 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 490 |
 | 166 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 490 |
 | 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 117 | 304 |
-| 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 360 |
+| 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 361 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 312 | 218 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 490 |
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,221 | 51 |
@@ -237,7 +237,7 @@
 | 233 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 490 |
 | 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,003 | 87 |
 | 233 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 490 |
-| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 361 |
+| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 362 |
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 490 |
 | 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,157 | 60 |
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 294,791 | 3 |
@@ -379,7 +379,7 @@
 | 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 371 |
 | 353 | [Warframe](games/w/warframe.md) | 4.61 | 14,529 | 21 |
 | 379 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,676 | 29 |
-| 379 | [Control](games/c/control.md) | 4.60 | 8,257 | 38 |
+| 379 | [Control](games/c/control.md) | 4.60 | 8,259 | 38 |
 | 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 351 |
 | 379 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,223 | 25 |
 | 379 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 302 |
@@ -456,7 +456,7 @@
 | 447 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 453 |
 | 447 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 490 |
 | 447 | [Isonzo](games/i/isonzo.md) | 4.56 | 30 | 443 |
-| 447 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 361 |
+| 447 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 362 |
 | 447 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 490 |
 | 447 | [Minit](games/m/minit.md) | 4.56 | 0 | 490 |
 | 447 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,736 | 64 |
@@ -623,7 +623,7 @@
 | 620 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 490 |
 | 620 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 490 |
 | 620 | [Knockout City™](games/k/knockout_city™.md) | 4.44 | 0 | 490 |
-| 620 | [Predecessor](games/p/predecessor.md) | 4.44 | 69 | 361 |
+| 620 | [Predecessor](games/p/predecessor.md) | 4.44 | 72 | 355 |
 | 620 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 46 | 396 |
 | 620 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 490 |
 | 620 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 490 |
@@ -732,7 +732,7 @@
 | 730 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
 | 730 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
 | 730 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |
-| 730 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 71 | 358 |
+| 730 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 71 | 359 |
 | 730 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
 | 730 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
 | 730 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 58 | 381 |
@@ -753,7 +753,7 @@
 | 750 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.30 | 0 | 490 |
 | 750 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 490 |
 | 750 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 490 |
-| 750 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,587 | 78 |
+| 750 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,589 | 78 |
 | 750 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 169 | 274 |
 | 750 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 490 |
 | 757 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 490 |
@@ -839,7 +839,7 @@
 | 837 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 490 |
 | 837 | [Pine](games/p/pine.md) | 4.15 | 0 | 490 |
 | 837 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 259 |
-| 837 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 358 |
+| 837 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 359 |
 | 837 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 490 |
 | 842 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 490 |
 | 842 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 490 |
