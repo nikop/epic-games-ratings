@@ -3,12 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time-Lord! | 100.00% | ~200 |
-| Oedipus Rex! | 100.00% | ~200 |
-| Saving Max | 100.00% | ~200 |
-| Orpheus | 100.00% | ~200 |
-| Dead Mouse | 100.00% | ~200 |
-| Achoo! | 50.00% | ~100 |
+| Time-Lord! | 100.00% | ~2 |
+| Oedipus Rex! | 100.00% | ~2 |
+| Saving Max | 100.00% | ~2 |
+| Orpheus | 100.00% | ~2 |
+| Dead Mouse | 100.00% | ~2 |
+| Achoo! | 50.00% | ~1 |
 | Don't Question My Flow! | 0.00% | ~0 |
 | Thera-peutic! | 0.00% | ~0 |
 | Trail-blazing Results! | 0.00% | ~0 |

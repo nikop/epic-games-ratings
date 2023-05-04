@@ -8,7 +8,7 @@
       "Name": "Terror Rising",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
@@ -16,7 +16,7 @@
       "Name": "Crushing All Cars",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
@@ -24,7 +24,7 @@
       "Name": "Brain Chopper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_100_STAGES_ENDLESS",
@@ -32,7 +32,7 @@
       "Name": "Demolition Exhibition",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10_ROCKETS_KICKED",
@@ -40,7 +40,7 @@
       "Name": "Rocket Science",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10_SHEPHERDS_KILLED",
@@ -48,7 +48,7 @@
       "Name": "Test of Faith",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1400
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_10_STAGES_ENDLESS",
@@ -56,7 +56,7 @@
       "Name": "Demolition Ambition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_20000_CIVILIANS",
@@ -64,7 +64,7 @@
       "Name": "Holy Terror",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_20_CARS_DESTROYED",
@@ -72,7 +72,7 @@
       "Name": "Jalopy Poppy",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
@@ -80,7 +80,7 @@
       "Name": "Midair Affair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_25_BLIMPS",
@@ -88,7 +88,7 @@
       "Name": "Hindenburgerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_25_EATEN_AIRBORNE",
@@ -96,7 +96,7 @@
       "Name": "Meat Catcher",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
@@ -104,7 +104,7 @@
       "Name": "Chopper Stopper",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -112,7 +112,7 @@
       "Name": "Demolition Tactician",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_5000_CIVILIANS",
@@ -120,7 +120,7 @@
       "Name": "Reign of Terror",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_50_CATCHES",
@@ -128,7 +128,7 @@
       "Name": "Hot Potato",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_50_CHOPPER_BLADES",
@@ -136,7 +136,7 @@
       "Name": "Aerosolized",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1085
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -144,7 +144,7 @@
       "Name": "Oblideration Nation",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_50_MILITARY_HELICOPTERS",
@@ -152,7 +152,7 @@
       "Name": "Plight of the Valkyrie",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_50_POLICE_CARS_DESTROYED",
@@ -160,7 +160,7 @@
       "Name": "Punchy Wagon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_50_POLICE_HELICOPTERS",
@@ -168,7 +168,7 @@
       "Name": "Night Bird",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_50_SWAT_HELICOPTERS",
@@ -176,7 +176,7 @@
       "Name": "SWATing Flies",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_50_SWAT_VANS",
@@ -184,7 +184,7 @@
       "Name": "Shakedown Breakdown",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_JUGGLE_10",
@@ -192,7 +192,7 @@
       "Name": "Juggle the People",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_1000_ENEMIES",
@@ -200,7 +200,7 @@
       "Name": "Horror Show",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 490
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_KILL_100_ENEMIES",
@@ -208,7 +208,7 @@
       "Name": "Green-Bodied Monster",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
@@ -216,7 +216,7 @@
       "Name": "Monstrosity Atrocity",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 910
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -224,7 +224,7 @@
       "Name": "Trash the Planet.",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_TANK_STAGE",
@@ -232,7 +232,7 @@
       "Name": "Simulation 8e7d28c1",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UFO_STAGE",
@@ -240,7 +240,7 @@
       "Name": "Kill All Humans!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     }
   ],
   "Tags": [],
@@ -271,13 +271,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:24:24.5114988+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:14.3236167+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 35,
-  "LastUpdate_Achievements": "2023-05-04T22:24:24.5115216+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:39.3693312+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:14.3236385+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:22.7047645+00:00",
   "AchievementSets": [
     {
       "ID": "aio76gp",
@@ -292,7 +292,7 @@
   "FirstSeen": "2022-10-23T19:31:15.6236599+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_Progress": 281,

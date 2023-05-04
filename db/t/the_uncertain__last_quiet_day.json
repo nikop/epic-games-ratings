@@ -8,7 +8,7 @@
       "Name": "Ace",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 7276
+      "UsersEstimate": 73
     },
     {
       "ID": "ANNOYING",
@@ -16,7 +16,7 @@
       "Name": "Annoying",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 8560
+      "UsersEstimate": 86
     },
     {
       "ID": "BLADE_RUNNER",
@@ -24,7 +24,7 @@
       "Name": "Blade Runner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 4280
+      "UsersEstimate": 43
     },
     {
       "ID": "BUCKLE_UP",
@@ -32,7 +32,7 @@
       "Name": "Buckle up",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 25680
+      "UsersEstimate": 257
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -40,7 +40,7 @@
       "Name": "Concrete painting",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 6848
+      "UsersEstimate": 68
     },
     {
       "ID": "CURIOUS",
@@ -48,7 +48,7 @@
       "Name": "Curious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 17548
+      "UsersEstimate": 175
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -56,7 +56,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15408
+      "UsersEstimate": 154
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -64,7 +64,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 8560
+      "UsersEstimate": 86
     },
     {
       "ID": "FOUND_IT",
@@ -72,7 +72,7 @@
       "Name": "Found it!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 6848
+      "UsersEstimate": 68
     },
     {
       "ID": "GOODY",
@@ -80,7 +80,7 @@
       "Name": "Goody",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 7704
+      "UsersEstimate": 77
     },
     {
       "ID": "HACKER",
@@ -88,7 +88,7 @@
       "Name": "Hacker",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 8560
+      "UsersEstimate": 86
     },
     {
       "ID": "HANDS_UP",
@@ -96,7 +96,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 22684
+      "UsersEstimate": 227
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -104,7 +104,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10272
+      "UsersEstimate": 103
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -112,7 +112,7 @@
       "Name": "He is just a child",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 8560
+      "UsersEstimate": 86
     },
     {
       "ID": "HIPSTER",
@@ -120,7 +120,7 @@
       "Name": "Hipster",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 7276
+      "UsersEstimate": 73
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -128,7 +128,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 26108
+      "UsersEstimate": 261
     },
     {
       "ID": "LUCKY_DOG",
@@ -136,7 +136,7 @@
       "Name": "Lucky dog",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2140
+      "UsersEstimate": 21
     },
     {
       "ID": "METICULOUS",
@@ -144,7 +144,7 @@
       "Name": "Meticulous",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3852
+      "UsersEstimate": 39
     },
     {
       "ID": "NOT_CLUMSY",
@@ -152,7 +152,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 5992
+      "UsersEstimate": 60
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -160,7 +160,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 6848
+      "UsersEstimate": 68
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -168,7 +168,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 22684
+      "UsersEstimate": 227
     },
     {
       "ID": "PERFECT_HEARING",
@@ -176,7 +176,7 @@
       "Name": "Perfect hearing",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4280
+      "UsersEstimate": 43
     },
     {
       "ID": "PLEASE",
@@ -184,7 +184,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7276
+      "UsersEstimate": 73
     },
     {
       "ID": "POOL",
@@ -192,7 +192,7 @@
       "Name": "Accurate",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2140
+      "UsersEstimate": 21
     },
     {
       "ID": "QUICK_CHARGE",
@@ -200,7 +200,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 25680
+      "UsersEstimate": 257
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -208,7 +208,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 22684
+      "UsersEstimate": 227
     },
     {
       "ID": "SILENT",
@@ -216,7 +216,7 @@
       "Name": "Silent",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1712
+      "UsersEstimate": 17
     },
     {
       "ID": "SYSADMIN",
@@ -224,7 +224,7 @@
       "Name": "Sysadmin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 9416
+      "UsersEstimate": 94
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -232,7 +232,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 6848
+      "UsersEstimate": 68
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -240,7 +240,7 @@
       "Name": "There is another way",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 9844
+      "UsersEstimate": 98
     },
     {
       "ID": "UNCERTAIN",
@@ -248,7 +248,7 @@
       "Name": "Uncertain",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 8560
+      "UsersEstimate": 86
     },
     {
       "ID": "WALKING_ROBOT",
@@ -256,7 +256,7 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 8988
+      "UsersEstimate": 90
     }
   ],
   "Tags": [],
@@ -297,13 +297,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-04T22:24:37.8910789+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:27.6799538+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 15,
   "EOS_Progressed": 428,
-  "LastUpdate_Achievements": "2023-05-04T22:24:37.8911157+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:56.5101503+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:27.6799783+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:40.533279+00:00",
   "AchievementSets": [
     {
       "ID": "2iigf77",
@@ -318,7 +318,7 @@
   "FirstSeen": "2022-07-22T20:33:10.5332764+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_Progress": 189,

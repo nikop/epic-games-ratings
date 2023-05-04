@@ -5,62 +5,62 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 0.70% | ~3,457 |
-| Smooth Operator: Madison | 0.60% | ~2,963 |
-| Katherine | 0.40% | ~1,975 |
-| Relentless | 0.40% | ~1,975 |
-| Drunk and Disorderly: Stephanie | 0.30% | ~1,481 |
-| Life Found a Way | 0.30% | ~593 |
-| If at First You Don't Succeed... | 0.30% | ~1,481 |
-| The Brahdyssey | 0.20% | ~988 |
-| Caught in the Act | 0.20% | ~988 |
-| IRL Let's Player | 0.20% | ~988 |
-| The Crush | 0.20% | ~988 |
-| Amy | 0.10% | ~494 |
-| Amy: Scavenger Hunt | 0.10% | ~494 |
-| Ashley | 0.10% | ~494 |
-| Benedict Brahrnold | 0.10% | ~494 |
-| I'll Be Back | 0.10% | ~494 |
-| Beyond the Call of Dude-y | 0.10% | ~494 |
-| The Bride | 0.10% | ~494 |
-| Casabrova | 0.10% | ~494 |
-| Casanova | 0.10% | ~494 |
-| Drunk and Disorderly: Ashley | 0.10% | ~494 |
-| Drunk and Disorderly: Madison | 0.10% | ~494 |
-| Do Not Burn | 0.10% | ~494 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~198 |
-| Duck n' Weave | 0.10% | ~494 |
-| First Impressions | 0.10% | ~494 |
-| I Know Grump-Fu | 0.10% | ~494 |
-| The Harder They Fall...Dood | 0.10% | ~494 |
-| Hijinks Averted | 0.10% | ~494 |
-| Host Hijinks | 0.10% | ~494 |
-| Ice Bath | 0.10% | ~494 |
-| Inspector | 0.10% | ~494 |
-| It Smells Like Roses | 0.10% | ~198 |
-| Love Conquers All | 0.10% | ~494 |
-| Money Shot | 0.10% | ~494 |
-| Newcomer: Vickie | 0.10% | ~494 |
-| Now It's a Party! | 0.10% | ~494 |
-| Rule 34 | 0.10% | ~494 |
-| Rachael | 0.10% | ~494 |
-| Ronin | 0.10% | ~494 |
-| Smooth Operator: Ashley | 0.10% | ~494 |
-| Do You Smell Blood? | 0.10% | ~494 |
-| Social Butterfly | 0.10% | ~494 |
-| Stephanie | 0.10% | ~494 |
-| A Striking Resemblance | 0.10% | ~494 |
-| The Muse: Derek | 0.10% | ~494 |
-| Howz It Goin Dood | 0.10% | ~494 |
-| The Muse: Madison | 0.10% | ~494 |
-| The Crush(es) | 0.10% | ~494 |
-| The Magic Number | 0.10% | ~494 |
-| Vickie | 0.10% | ~494 |
-| La Coochadora | 0.10% | ~494 |
-| The Elder Brahs | 0.10% | ~494 |
-| Good Ol' Days | 0.10% | ~494 |
-| Snapped | 0.10% | ~494 |
-| Te Amo Lety | 0.10% | ~494 |
+| A Friend in Need... | 0.70% | ~35 |
+| Smooth Operator: Madison | 0.60% | ~30 |
+| Katherine | 0.40% | ~20 |
+| Relentless | 0.40% | ~20 |
+| Drunk and Disorderly: Stephanie | 0.30% | ~15 |
+| Life Found a Way | 0.30% | ~6 |
+| If at First You Don't Succeed... | 0.30% | ~15 |
+| The Brahdyssey | 0.20% | ~10 |
+| Caught in the Act | 0.20% | ~10 |
+| IRL Let's Player | 0.20% | ~10 |
+| The Crush | 0.20% | ~10 |
+| Amy | 0.10% | ~5 |
+| Amy: Scavenger Hunt | 0.10% | ~5 |
+| Ashley | 0.10% | ~5 |
+| Benedict Brahrnold | 0.10% | ~5 |
+| I'll Be Back | 0.10% | ~5 |
+| Beyond the Call of Dude-y | 0.10% | ~5 |
+| The Bride | 0.10% | ~5 |
+| Casabrova | 0.10% | ~5 |
+| Casanova | 0.10% | ~5 |
+| Drunk and Disorderly: Ashley | 0.10% | ~5 |
+| Drunk and Disorderly: Madison | 0.10% | ~5 |
+| Do Not Burn | 0.10% | ~5 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~2 |
+| Duck n' Weave | 0.10% | ~5 |
+| First Impressions | 0.10% | ~5 |
+| I Know Grump-Fu | 0.10% | ~5 |
+| The Harder They Fall...Dood | 0.10% | ~5 |
+| Hijinks Averted | 0.10% | ~5 |
+| Host Hijinks | 0.10% | ~5 |
+| Ice Bath | 0.10% | ~5 |
+| Inspector | 0.10% | ~5 |
+| It Smells Like Roses | 0.10% | ~2 |
+| Love Conquers All | 0.10% | ~5 |
+| Money Shot | 0.10% | ~5 |
+| Newcomer: Vickie | 0.10% | ~5 |
+| Now It's a Party! | 0.10% | ~5 |
+| Rule 34 | 0.10% | ~5 |
+| Rachael | 0.10% | ~5 |
+| Ronin | 0.10% | ~5 |
+| Smooth Operator: Ashley | 0.10% | ~5 |
+| Do You Smell Blood? | 0.10% | ~5 |
+| Social Butterfly | 0.10% | ~5 |
+| Stephanie | 0.10% | ~5 |
+| A Striking Resemblance | 0.10% | ~5 |
+| The Muse: Derek | 0.10% | ~5 |
+| Howz It Goin Dood | 0.10% | ~5 |
+| The Muse: Madison | 0.10% | ~5 |
+| The Crush(es) | 0.10% | ~5 |
+| The Magic Number | 0.10% | ~5 |
+| Vickie | 0.10% | ~5 |
+| La Coochadora | 0.10% | ~5 |
+| The Elder Brahs | 0.10% | ~5 |
+| Good Ol' Days | 0.10% | ~5 |
+| Snapped | 0.10% | ~5 |
+| Te Amo Lety | 0.10% | ~5 |
 | Against All Odds | 0.00% | ~0 |
 | Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |

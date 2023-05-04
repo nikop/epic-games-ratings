@@ -3,32 +3,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 200 Horses at 12,000 RPM | 100.00% | ~100 |
-| He Has an 80-Foot Tarantula! | 100.00% | ~100 |
-| He Shot First! | 100.00% | ~100 |
-| Just Six More Balls | 100.00% | ~100 |
-| I’m Just Here For The Gasoline | 100.00% | ~100 |
-| A Most Handsome Tale | 100.00% | ~100 |
-| Live Long and Prosper | 100.00% | ~100 |
-| Big Barrel Energy | 100.00% | ~100 |
-| Tameshigiri | 100.00% | ~100 |
-| Full Frontal | 100.00% | ~100 |
-| Just Enough Essential Parts | 100.00% | ~100 |
-| I need $$$! | 100.00% | ~100 |
-| Going Commercial | 100.00% | ~100 |
-| Manufacturer | 100.00% | ~100 |
-| Entrepreneur | 100.00% | ~100 |
-| Tycoon | 100.00% | ~100 |
-| You Must Gather Your Party Before Venturing Forth | 100.00% | ~100 |
-| Sticky Fingers | 100.00% | ~100 |
-| Proud of Myself | 100.00% | ~100 |
-| Where’s George? | 100.00% | ~100 |
-| Penny Hoarder | 100.00% | ~100 |
-| Deep Pockets | 100.00% | ~100 |
-| Fat Cat | 100.00% | ~100 |
-| Private Exhibition | 100.00% | ~100 |
-| All the Way to the Top | 100.00% | ~100 |
-| Finally, Some Fresh Air | 100.00% | ~100 |
+| 200 Horses at 12,000 RPM | 100.00% | ~1 |
+| He Has an 80-Foot Tarantula! | 100.00% | ~1 |
+| He Shot First! | 100.00% | ~1 |
+| Just Six More Balls | 100.00% | ~1 |
+| I’m Just Here For The Gasoline | 100.00% | ~1 |
+| A Most Handsome Tale | 100.00% | ~1 |
+| Live Long and Prosper | 100.00% | ~1 |
+| Big Barrel Energy | 100.00% | ~1 |
+| Tameshigiri | 100.00% | ~1 |
+| Full Frontal | 100.00% | ~1 |
+| Just Enough Essential Parts | 100.00% | ~1 |
+| I need $$$! | 100.00% | ~1 |
+| Going Commercial | 100.00% | ~1 |
+| Manufacturer | 100.00% | ~1 |
+| Entrepreneur | 100.00% | ~1 |
+| Tycoon | 100.00% | ~1 |
+| You Must Gather Your Party Before Venturing Forth | 100.00% | ~1 |
+| Sticky Fingers | 100.00% | ~1 |
+| Proud of Myself | 100.00% | ~1 |
+| Where’s George? | 100.00% | ~1 |
+| Penny Hoarder | 100.00% | ~1 |
+| Deep Pockets | 100.00% | ~1 |
+| Fat Cat | 100.00% | ~1 |
+| Private Exhibition | 100.00% | ~1 |
+| All the Way to the Top | 100.00% | ~1 |
+| Finally, Some Fresh Air | 100.00% | ~1 |
 | Honey, I Gigantized the Models | 0.00% | ~0 |
 | Carpet Monster | 0.00% | ~0 |
 | Non Sibi Sed Patriae | 0.00% | ~0 |

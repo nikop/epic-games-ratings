@@ -5,55 +5,55 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~22,116 |
-| Daily Life Begins Anew | 81.00% | ~18,468 |
-| Our World Now | 81.00% | ~18,468 |
-| Never Saw It Coming | 65.00% | ~14,820 |
-| Coup de Grace | 57.00% | ~12,996 |
-| Go-Home Club Activities START! | 48.00% | ~10,944 |
-| Philanthropist | 40.00% | ~9,120 |
-| Test Your Luck | 35.00% | ~7,980 |
-| Behind the Curtain | 32.00% | ~7,296 |
-| Master of Surprise | 30.00% | ~6,840 |
-| Be Who You Wanna Be | 27.00% | ~6,156 |
-| Investment Ban-χ-ing | 25.00% | ~5,700 |
-| Counter Champion | 25.00% | ~5,700 |
-| Friendly Neighborhood | 24.00% | ~5,472 |
-| Nice Doing Business | 24.00% | ~5,472 |
-| Combo Commando | 24.00% | ~5,472 |
-| One-Track Mind | 23.00% | ~5,244 |
-| Stay Winning | 23.00% | ~5,244 |
-| WIRE Guru | 21.00% | ~4,788 |
-| Depths of the Heart | 20.00% | ~4,560 |
-| The Greater Good | 19.00% | ~4,332 |
-| Selfish Decisions | 19.00% | ~4,332 |
-| Extracurricular Affair | 19.00% | ~4,332 |
-| Lost Souls For Sale | 19.00% | ~4,332 |
-| Pulling Heartstrings | 18.00% | ~4,104 |
-| Trigger Finger | 18.00% | ~4,104 |
-| Hopes Rewarded | 17.00% | ~3,876 |
-| Guarding Guru | 17.00% | ~3,876 |
-| Hustled and Bustled | 12.00% | ~2,736 |
-| To Each Their Own | 11.00% | ~2,508 |
-| Eat Your Heart Out | 11.00% | ~2,508 |
-| Extra! Extra! Journalism Club Showdown | 9.00% | ~2,052 |
-| The Part-Time Tyrant | 8.00% | ~1,824 |
-| Prince of Lettuce | 8.00% | ~1,824 |
-| Love, Loss, and the Omega Nebula | 8.00% | ~1,824 |
-| Redo Redone | 7.00% | ~1,596 |
-| Songstress Unleashed | 7.00% | ~1,596 |
-| Executive Privilege | 7.00% | ~1,596 |
-| For the Love of Regret | 4.00% | ~912 |
-| Building Bridges | 3.00% | ~684 |
-| Birth of a Salesman | 3.00% | ~684 |
-| To the Other Side | 2.00% | ~456 |
-| From Nurse to Worse | 2.00% | ~456 |
-| Group Therapy | 2.00% | ~456 |
-| χ Signature | 2.00% | ~456 |
-| World Peace | 1.00% | ~228 |
-| Heart of Gold | 1.00% | ~228 |
-| Topical Conversationalist | 1.00% | ~228 |
-| The Caligula Effect 2 | 0.90% | ~205 |
+| Welcome to Redo | 97.00% | ~221 |
+| Daily Life Begins Anew | 81.00% | ~185 |
+| Our World Now | 81.00% | ~185 |
+| Never Saw It Coming | 65.00% | ~148 |
+| Coup de Grace | 57.00% | ~130 |
+| Go-Home Club Activities START! | 48.00% | ~109 |
+| Philanthropist | 40.00% | ~91 |
+| Test Your Luck | 35.00% | ~80 |
+| Behind the Curtain | 32.00% | ~73 |
+| Master of Surprise | 30.00% | ~68 |
+| Be Who You Wanna Be | 27.00% | ~62 |
+| Investment Ban-χ-ing | 25.00% | ~57 |
+| Counter Champion | 25.00% | ~57 |
+| Friendly Neighborhood | 24.00% | ~55 |
+| Nice Doing Business | 24.00% | ~55 |
+| Combo Commando | 24.00% | ~55 |
+| One-Track Mind | 23.00% | ~52 |
+| Stay Winning | 23.00% | ~52 |
+| WIRE Guru | 21.00% | ~48 |
+| Depths of the Heart | 20.00% | ~46 |
+| The Greater Good | 19.00% | ~43 |
+| Selfish Decisions | 19.00% | ~43 |
+| Extracurricular Affair | 19.00% | ~43 |
+| Lost Souls For Sale | 19.00% | ~43 |
+| Pulling Heartstrings | 18.00% | ~41 |
+| Trigger Finger | 18.00% | ~41 |
+| Hopes Rewarded | 17.00% | ~39 |
+| Guarding Guru | 17.00% | ~39 |
+| Hustled and Bustled | 12.00% | ~27 |
+| To Each Their Own | 11.00% | ~25 |
+| Eat Your Heart Out | 11.00% | ~25 |
+| Extra! Extra! Journalism Club Showdown | 9.00% | ~21 |
+| The Part-Time Tyrant | 8.00% | ~18 |
+| Prince of Lettuce | 8.00% | ~18 |
+| Love, Loss, and the Omega Nebula | 8.00% | ~18 |
+| Redo Redone | 7.00% | ~16 |
+| Songstress Unleashed | 7.00% | ~16 |
+| Executive Privilege | 7.00% | ~16 |
+| For the Love of Regret | 4.00% | ~9 |
+| Building Bridges | 3.00% | ~7 |
+| Birth of a Salesman | 3.00% | ~7 |
+| To the Other Side | 2.00% | ~5 |
+| From Nurse to Worse | 2.00% | ~5 |
+| Group Therapy | 2.00% | ~5 |
+| χ Signature | 2.00% | ~5 |
+| World Peace | 1.00% | ~2 |
+| Heart of Gold | 1.00% | ~2 |
+| Topical Conversationalist | 1.00% | ~2 |
+| The Caligula Effect 2 | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 228 (Ranked 218)  
 Completed: 2 (0.88%) (Ranked 82)  

@@ -8,7 +8,7 @@
       "Name": "Third Time\u0027s A Charm",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Cassette_1",
@@ -16,7 +16,7 @@
       "Name": "Hey! Listen!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_Cassette_5",
@@ -24,7 +24,7 @@
       "Name": "Up To Eleven",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Chests_1",
@@ -32,7 +32,7 @@
       "Name": "Itsy Bitsy Teenie Weenie",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2400
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_Chests_20",
@@ -40,7 +40,7 @@
       "Name": "Manic: The Gathering",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Chests_5",
@@ -48,7 +48,7 @@
       "Name": "Five By Five",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_Chests_World",
@@ -56,7 +56,7 @@
       "Name": "Buccaneers And Buried Gold",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Complete_1-14",
@@ -64,7 +64,7 @@
       "Name": "Walkabout Wipeout",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_Complete_2-10",
@@ -72,7 +72,7 @@
       "Name": "Rockrose Riot",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Complete_3-09",
@@ -80,7 +80,7 @@
       "Name": "Dilly-Dally Done",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Complete_4-C",
@@ -88,7 +88,7 @@
       "Name": "Compost Champ",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Complete_5-B",
@@ -96,7 +96,7 @@
       "Name": "Factory\u0027s Finest",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Complete_6-15",
@@ -104,7 +104,7 @@
       "Name": "Herbaria Hit",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 520
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_Complete_boss-1",
@@ -112,7 +112,7 @@
       "Name": "Dunces \u0026 Dragons",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1600
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_Complete_boss-2",
@@ -120,7 +120,7 @@
       "Name": "Sand Castles \u0026 Glass Camels",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_Complete_boss-3",
@@ -128,7 +128,7 @@
       "Name": "Daucus Ex Machina",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_Complete_boss-4",
@@ -136,7 +136,7 @@
       "Name": "To Beet, Or Not To Beet",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Complete_level-Final",
@@ -144,7 +144,7 @@
       "Name": "Final Fantasizer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_CowQuest_1",
@@ -152,7 +152,7 @@
       "Name": "(Don\u0027t) Have A Cow, Man!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_CowQuest_10",
@@ -160,7 +160,7 @@
       "Name": "Hoofmeister",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Deaths_100",
@@ -168,7 +168,7 @@
       "Name": "It\u0027s A Hard Knock Life",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_EquipAllCategories",
@@ -176,7 +176,7 @@
       "Name": "Fashion Victim",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_EquipOneItem",
@@ -184,7 +184,7 @@
       "Name": "Dressed For Success",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1920
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_FindFrogInCar",
@@ -192,7 +192,7 @@
       "Name": "Release The Croaker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_FindGoldPortal",
@@ -200,7 +200,7 @@
       "Name": "Fool\u0027s Gold",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_FirstPortal",
@@ -208,7 +208,7 @@
       "Name": "Warp Zoned",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3600
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_Flowers_1",
@@ -216,7 +216,7 @@
       "Name": "Wallflower",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3600
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_Flowers_20",
@@ -224,7 +224,7 @@
       "Name": "Late Bloomer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_Flowers_5",
@@ -232,7 +232,7 @@
       "Name": "Flower Punk",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2520
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_Flowers_World",
@@ -240,7 +240,7 @@
       "Name": "Orange Blossom Special",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_GreenPortal",
@@ -248,7 +248,7 @@
       "Name": "Green, Green Gates Of Home",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_Jump_100",
@@ -256,7 +256,7 @@
       "Name": "Like A Rubber Ball",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2720
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_Jump_1000",
@@ -264,7 +264,7 @@
       "Name": "Jump They Say",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_Jump_10000",
@@ -272,7 +272,7 @@
       "Name": "Not To Touch The Earth",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_LowHealthComplete",
@@ -280,7 +280,7 @@
       "Name": "In The Nick Of Time",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Portals_10",
@@ -288,7 +288,7 @@
       "Name": "Jumpin\u0027 Jack Flash",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_Portals_100",
@@ -296,7 +296,7 @@
       "Name": "Exit, Pursued By A Blur",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_Portals_20",
@@ -304,7 +304,7 @@
       "Name": "20/20 Fission",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1200
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_Portals_50",
@@ -312,7 +312,7 @@
       "Name": "Beam Me Up Buttercup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_UnlockWorld_Desert",
@@ -320,7 +320,7 @@
       "Name": "The Long, Hot Summer",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_UnlockWorld_Factory",
@@ -328,7 +328,7 @@
       "Name": "Golden Ticket",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     }
   ],
   "Tags": [],
@@ -349,13 +349,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-04T22:24:19.829346+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:09.6776212+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 40,
-  "LastUpdate_Achievements": "2023-05-04T22:24:19.8293868+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:46.7129821+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:09.677652+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:30.6449831+00:00",
   "AchievementSets": [
     {
       "ID": "emnkcf",
@@ -370,7 +370,7 @@
   "FirstSeen": "2022-07-22T20:31:45.6194368+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_Progress": 276,

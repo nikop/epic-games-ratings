@@ -5,45 +5,45 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~20,672 |
-| Close call! | 75.00% | ~20,400 |
-| Builder | 57.00% | ~15,504 |
-| Pangs of conscience | 52.00% | ~14,144 |
-| Living it large! | 47.00% | ~12,784 |
-| Collector | 46.00% | ~12,512 |
-| Need to think | 43.00% | ~11,696 |
-| Just in time! | 36.00% | ~9,792 |
-| Completely nuts! | 35.00% | ~9,520 |
-| Europe | 33.00% | ~8,976 |
-| It's no coincidence. | 33.00% | ~8,976 |
-| Let's roll! | 29.00% | ~7,888 |
-| Philatelist | 28.00% | ~7,616 |
-| Non Stop! | 28.00% | ~7,616 |
-| Ouroboros | 27.00% | ~7,344 |
-| Madness! | 25.00% | ~6,800 |
-| Foreman | 24.00% | ~6,528 |
-| Missed it! | 24.00% | ~6,528 |
-| Russia | 21.00% | ~5,712 |
-| America | 18.00% | ~4,896 |
-| Sabotage | 18.00% | ~4,896 |
-| Woodcutter | 13.00% | ~3,536 |
-| Engineer | 13.00% | ~3,536 |
-| Achtung! | 13.00% | ~3,536 |
-| Japan | 11.00% | ~2,992 |
-| Tycoon | 8.00% | ~2,176 |
-| Germany | 7.00% | ~1,904 |
-| Supercrash! | 6.00% | ~1,632 |
-| Chuck Norris | 6.00% | ~1,632 |
-| Сhancellor | 4.00% | ~1,088 |
-| Peacemaker | 4.00% | ~1,088 |
-| Forgotten | 3.00% | ~816 |
-| Lucky vandal | 3.00% | ~816 |
-| BBQ | 0.70% | ~190 |
-| Vandal | 0.70% | ~190 |
-| Mega-railroad | 0.70% | ~190 |
-| Juggler | 0.70% | ~190 |
-| Maniac vandal | 0.70% | ~190 |
-| Salesman | 0.70% | ~190 |
+| Getting started | 76.00% | ~207 |
+| Close call! | 75.00% | ~204 |
+| Builder | 57.00% | ~155 |
+| Pangs of conscience | 52.00% | ~141 |
+| Living it large! | 47.00% | ~128 |
+| Collector | 46.00% | ~125 |
+| Need to think | 43.00% | ~117 |
+| Just in time! | 36.00% | ~98 |
+| Completely nuts! | 35.00% | ~95 |
+| Europe | 33.00% | ~90 |
+| It's no coincidence. | 33.00% | ~90 |
+| Let's roll! | 29.00% | ~79 |
+| Philatelist | 28.00% | ~76 |
+| Non Stop! | 28.00% | ~76 |
+| Ouroboros | 27.00% | ~73 |
+| Madness! | 25.00% | ~68 |
+| Foreman | 24.00% | ~65 |
+| Missed it! | 24.00% | ~65 |
+| Russia | 21.00% | ~57 |
+| America | 18.00% | ~49 |
+| Sabotage | 18.00% | ~49 |
+| Woodcutter | 13.00% | ~35 |
+| Engineer | 13.00% | ~35 |
+| Achtung! | 13.00% | ~35 |
+| Japan | 11.00% | ~30 |
+| Tycoon | 8.00% | ~22 |
+| Germany | 7.00% | ~19 |
+| Supercrash! | 6.00% | ~16 |
+| Chuck Norris | 6.00% | ~16 |
+| Сhancellor | 4.00% | ~11 |
+| Peacemaker | 4.00% | ~11 |
+| Forgotten | 3.00% | ~8 |
+| Lucky vandal | 3.00% | ~8 |
+| BBQ | 0.70% | ~2 |
+| Vandal | 0.70% | ~2 |
+| Mega-railroad | 0.70% | ~2 |
+| Juggler | 0.70% | ~2 |
+| Maniac vandal | 0.70% | ~2 |
+| Salesman | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 272 (Ranked 210)  
 Completed: 2 (0.74%) (Ranked 89)  

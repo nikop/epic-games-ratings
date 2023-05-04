@@ -9,76 +9,76 @@ Diff (max vs sum): -55
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 4.00% | ~2,788 |
-| Full garage | 4.00% | ~2,788 |
-| Juggler | 4.00% | ~2,788 |
-| To the eyeballs! | 4.00% | ~2,788 |
-| Common cause | 3.00% | ~2,091 |
-| Individual delivery | 3.00% | ~2,091 |
-| Mega-railroad | 3.00% | ~2,091 |
-| Miner | 3.00% | ~114 |
-| Pink Ruby | 3.00% | ~114 |
-| Star Sapphire | 3.00% | ~114 |
-| Trapiche Emerald | 3.00% | ~114 |
-| Upgrade complete | 3.00% | ~2,091 |
-| Bridgemania | 2.00% | ~1,394 |
-| Builder | 2.00% | ~1,394 |
-| Close call! | 2.00% | ~1,394 |
-| Critical care | 2.00% | ~1,394 |
-| Forgot something | 2.00% | ~1,394 |
-| Get out my way | 2.00% | ~1,394 |
-| Just in time! | 2.00% | ~1,394 |
-| Multilevel road | 2.00% | ~1,394 |
-| Need to think | 2.00% | ~1,394 |
-| Non-Stop | 2.00% | ~1,394 |
-| One way | 2.00% | ~1,394 |
-| Steam Age | 2.00% | ~1,394 |
-| Beginner | 1.00% | ~697 |
-| Electrical Age | 1.00% | ~697 |
-| Environmental activist | 1.00% | ~697 |
-| Industrial Age | 1.00% | ~697 |
-| Jewelry accuracy | 1.00% | ~697 |
-| Large construction | 1.00% | ~697 |
-| Living it large | 1.00% | ~697 |
-| Lucky vandal | 1.00% | ~697 |
-| Ouroboros | 1.00% | ~697 |
-| Overseer | 1.00% | ~697 |
-| Relocation | 1.00% | ~697 |
-| Squander | 1.00% | ~697 |
-| Stargazer | 1.00% | ~697 |
-| The Tortoise | 1.00% | ~697 |
-| Vandal | 1.00% | ~697 |
-| Without a lunch break | 1.00% | ~697 |
-| Bridge builder | 0.90% | ~627 |
-| Engineer | 0.90% | ~627 |
-| Missed it! | 0.90% | ~627 |
-| Sabotage | 0.90% | ~627 |
-| Astronomer | 0.70% | ~488 |
-| Atomic Age | 0.70% | ~27 |
-| Digital Age | 0.70% | ~27 |
-| Globalisation Age | 0.70% | ~488 |
-| Information Age | 0.70% | ~27 |
-| Prick of conscience | 0.70% | ~488 |
-| At the last moment! | 0.60% | ~418 |
-| Innovator | 0.60% | ~418 |
-| Miscalculation | 0.60% | ~418 |
-| Railroad tycoon | 0.60% | ~418 |
-| Vostok | 0.60% | ~23 |
-| Achiever | 0.40% | ~279 |
-| BBQ | 0.40% | ~279 |
-| Will work | 0.40% | ~279 |
-| Woodcutter | 0.40% | ~279 |
-| Alchemist | 0.30% | ~209 |
-| Astrochemist | 0.30% | ~11 |
-| Space Age | 0.30% | ~209 |
-| Tourism Age | 0.30% | ~209 |
-| Voyager | 0.30% | ~209 |
-| Arcturus | 0.10% | ~4 |
-| Astrophysicist | 0.10% | ~70 |
-| Highlander | 0.10% | ~70 |
-| Metro builder | 0.10% | ~70 |
-| The Hare | 0.10% | ~70 |
-| Urbanization Age | 0.10% | ~70 |
+| Dealmaker | 4.00% | ~28 |
+| Full garage | 4.00% | ~28 |
+| Juggler | 4.00% | ~28 |
+| To the eyeballs! | 4.00% | ~28 |
+| Common cause | 3.00% | ~21 |
+| Individual delivery | 3.00% | ~21 |
+| Mega-railroad | 3.00% | ~21 |
+| Miner | 3.00% | ~1 |
+| Pink Ruby | 3.00% | ~1 |
+| Star Sapphire | 3.00% | ~1 |
+| Trapiche Emerald | 3.00% | ~1 |
+| Upgrade complete | 3.00% | ~21 |
+| Bridgemania | 2.00% | ~14 |
+| Builder | 2.00% | ~14 |
+| Close call! | 2.00% | ~14 |
+| Critical care | 2.00% | ~14 |
+| Forgot something | 2.00% | ~14 |
+| Get out my way | 2.00% | ~14 |
+| Just in time! | 2.00% | ~14 |
+| Multilevel road | 2.00% | ~14 |
+| Need to think | 2.00% | ~14 |
+| Non-Stop | 2.00% | ~14 |
+| One way | 2.00% | ~14 |
+| Steam Age | 2.00% | ~14 |
+| Beginner | 1.00% | ~7 |
+| Electrical Age | 1.00% | ~7 |
+| Environmental activist | 1.00% | ~7 |
+| Industrial Age | 1.00% | ~7 |
+| Jewelry accuracy | 1.00% | ~7 |
+| Large construction | 1.00% | ~7 |
+| Living it large | 1.00% | ~7 |
+| Lucky vandal | 1.00% | ~7 |
+| Ouroboros | 1.00% | ~7 |
+| Overseer | 1.00% | ~7 |
+| Relocation | 1.00% | ~7 |
+| Squander | 1.00% | ~7 |
+| Stargazer | 1.00% | ~7 |
+| The Tortoise | 1.00% | ~7 |
+| Vandal | 1.00% | ~7 |
+| Without a lunch break | 1.00% | ~7 |
+| Bridge builder | 0.90% | ~6 |
+| Engineer | 0.90% | ~6 |
+| Missed it! | 0.90% | ~6 |
+| Sabotage | 0.90% | ~6 |
+| Astronomer | 0.70% | ~5 |
+| Atomic Age | 0.70% | ~0 |
+| Digital Age | 0.70% | ~0 |
+| Globalisation Age | 0.70% | ~5 |
+| Information Age | 0.70% | ~0 |
+| Prick of conscience | 0.70% | ~5 |
+| At the last moment! | 0.60% | ~4 |
+| Innovator | 0.60% | ~4 |
+| Miscalculation | 0.60% | ~4 |
+| Railroad tycoon | 0.60% | ~4 |
+| Vostok | 0.60% | ~0 |
+| Achiever | 0.40% | ~3 |
+| BBQ | 0.40% | ~3 |
+| Will work | 0.40% | ~3 |
+| Woodcutter | 0.40% | ~3 |
+| Alchemist | 0.30% | ~2 |
+| Astrochemist | 0.30% | ~0 |
+| Space Age | 0.30% | ~2 |
+| Tourism Age | 0.30% | ~2 |
+| Voyager | 0.30% | ~2 |
+| Arcturus | 0.10% | ~0 |
+| Astrophysicist | 0.10% | ~1 |
+| Highlander | 0.10% | ~1 |
+| Metro builder | 0.10% | ~1 |
+| The Hare | 0.10% | ~1 |
+| Urbanization Age | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
 | It's no coincidence | 0.00% | ~0 |

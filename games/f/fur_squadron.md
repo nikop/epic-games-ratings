@@ -3,10 +3,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enemy shield analyzed | 40.00% | ~200 |
-| Piece of cake | 20.00% | ~100 |
-| All systems go | 20.00% | ~100 |
-| No need to say goodbye | 20.00% | ~100 |
+| Enemy shield analyzed | 40.00% | ~2 |
+| Piece of cake | 20.00% | ~1 |
+| All systems go | 20.00% | ~1 |
+| No need to say goodbye | 20.00% | ~1 |
 | Better hurry up | 0.00% | ~0 |
 | I call her the BF-Worm | 0.00% | ~0 |
 | Axel? | 0.00% | ~0 |

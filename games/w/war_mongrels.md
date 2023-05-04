@@ -5,53 +5,53 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 60.00% | ~14,340 |
-| Cowardice | 55.00% | ~13,145 |
-| NO LIFE IS WORTH SAVING... | 51.00% | ~12,189 |
-| Eat Lead! | 50.00% | ~11,950 |
-| Prospector | 46.00% | ~10,994 |
-| Here Comes the Boom | 46.00% | ~10,994 |
-| Treasure Hunter | 44.00% | ~10,516 |
-| The Breaking Point | 39.00% | ~9,321 |
-| Missing in Action | 38.00% | ~9,082 |
-| Sniper Wolf | 38.00% | ~9,082 |
-| The Motivation | 36.00% | ~8,604 |
-| Heroism | 33.00% | ~7,887 |
-| King of Knives | 33.00% | ~7,887 |
-| Collectibles of Chapter I | 31.00% | ~7,409 |
-| Consequences | 30.00% | ~7,170 |
-| Opportunities | 29.00% | ~6,931 |
-| The Horror | 28.00% | ~6,692 |
-| Collectibles of Chapter II | 25.00% | ~5,975 |
-| The Difference | 23.00% | ~5,497 |
-| Vengeance | 23.00% | ~5,497 |
-| Food Massacre | 21.00% | ~5,019 |
-| Bullseye! | 21.00% | ~5,019 |
-| Broken Hopes | 20.00% | ~4,780 |
-| Sorrow | 17.00% | ~4,063 |
-| It's Just an Accident | 17.00% | ~4,063 |
-| Collectibles of Chapter III | 16.00% | ~3,824 |
-| Atonement | 15.00% | ~3,585 |
-| Collectibles of Chapter IV | 14.00% | ~3,346 |
-| Without a Second Thought | 14.00% | ~3,346 |
-| Helping Hand | 11.00% | ~2,629 |
-| Collectibles of Chapter V | 9.00% | ~2,151 |
-| Collectibles of Chapter VII | 8.00% | ~1,912 |
-| Such is War! | 8.00% | ~1,912 |
-| Collectibles of Chapter XII | 7.00% | ~1,673 |
-| Piece of Cake | 6.00% | ~1,434 |
-| Tiptoe Around | 6.00% | ~1,434 |
-| Collectibles of Chapter VIII | 5.00% | ~1,195 |
-| Collectibles of Chapter X | 5.00% | ~1,195 |
-| Collectibles of Chapter XI | 5.00% | ~1,195 |
-| Collectibles of Chapter VI | 3.00% | ~717 |
-| Collectibles of Chapter IX | 3.00% | ~717 |
-| The Good Samaritan | 3.00% | ~717 |
-| It Will Rain | 3.00% | ~717 |
-| Not Spill a Drop | 3.00% | ~717 |
-| Hold a Door | 1.00% | ~239 |
-| Daddy Would Be Proud | 1.00% | ~239 |
-| Warm Up | 0.40% | ~96 |
+| Explorer | 60.00% | ~143 |
+| Cowardice | 55.00% | ~131 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~122 |
+| Eat Lead! | 50.00% | ~120 |
+| Prospector | 46.00% | ~110 |
+| Here Comes the Boom | 46.00% | ~110 |
+| Treasure Hunter | 44.00% | ~105 |
+| The Breaking Point | 39.00% | ~93 |
+| Missing in Action | 38.00% | ~91 |
+| Sniper Wolf | 38.00% | ~91 |
+| The Motivation | 36.00% | ~86 |
+| Heroism | 33.00% | ~79 |
+| King of Knives | 33.00% | ~79 |
+| Collectibles of Chapter I | 31.00% | ~74 |
+| Consequences | 30.00% | ~72 |
+| Opportunities | 29.00% | ~69 |
+| The Horror | 28.00% | ~67 |
+| Collectibles of Chapter II | 25.00% | ~60 |
+| The Difference | 23.00% | ~55 |
+| Vengeance | 23.00% | ~55 |
+| Food Massacre | 21.00% | ~50 |
+| Bullseye! | 21.00% | ~50 |
+| Broken Hopes | 20.00% | ~48 |
+| Sorrow | 17.00% | ~41 |
+| It's Just an Accident | 17.00% | ~41 |
+| Collectibles of Chapter III | 16.00% | ~38 |
+| Atonement | 15.00% | ~36 |
+| Collectibles of Chapter IV | 14.00% | ~33 |
+| Without a Second Thought | 14.00% | ~33 |
+| Helping Hand | 11.00% | ~26 |
+| Collectibles of Chapter V | 9.00% | ~22 |
+| Collectibles of Chapter VII | 8.00% | ~19 |
+| Such is War! | 8.00% | ~19 |
+| Collectibles of Chapter XII | 7.00% | ~17 |
+| Piece of Cake | 6.00% | ~14 |
+| Tiptoe Around | 6.00% | ~14 |
+| Collectibles of Chapter VIII | 5.00% | ~12 |
+| Collectibles of Chapter X | 5.00% | ~12 |
+| Collectibles of Chapter XI | 5.00% | ~12 |
+| Collectibles of Chapter VI | 3.00% | ~7 |
+| Collectibles of Chapter IX | 3.00% | ~7 |
+| The Good Samaritan | 3.00% | ~7 |
+| It Will Rain | 3.00% | ~7 |
+| Not Spill a Drop | 3.00% | ~7 |
+| Hold a Door | 1.00% | ~2 |
+| Daddy Would Be Proud | 1.00% | ~2 |
+| Warm Up | 0.40% | ~1 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
 | Challenges of Chapter III | 0.00% | ~0 |

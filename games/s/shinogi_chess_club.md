@@ -3,9 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock Out | 60.00% | ~300 |
-| Frostbite | 40.00% | ~200 |
-| And the Hare | 40.00% | ~200 |
+| Rock Out | 60.00% | ~3 |
+| Frostbite | 40.00% | ~2 |
+| And the Hare | 40.00% | ~2 |
 | Stolen Thunder | 0.00% | ~0 |
 | Legal Action | 0.00% | ~0 |
 | Initiative | 0.00% | ~0 |

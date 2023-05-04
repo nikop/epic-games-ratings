@@ -5,36 +5,36 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 80.00% | ~88,240 |
-| Lovebirds | 52.00% | ~57,356 |
-| Life’s short, ride long | 48.00% | ~52,944 |
-| Hug therapy | 47.00% | ~51,841 |
-| Over my dead body | 42.00% | ~46,326 |
-| Shake the rust off their feet | 23.00% | ~25,369 |
-| Strike! | 21.00% | ~23,163 |
-| My little pony | 21.00% | ~23,163 |
-| A love supreme | 20.00% | ~22,060 |
-| In my shoes | 19.00% | ~20,957 |
-| Like new! | 16.00% | ~17,648 |
-| Head in the clouds | 15.00% | ~16,545 |
-| Don't look back | 14.00% | ~15,442 |
-| Heartstrings | 14.00% | ~15,442 |
-| Back to rust | 13.00% | ~14,339 |
-| Flower Powered | 13.00% | ~14,339 |
-| Unstoppable | 11.00% | ~12,133 |
-| Perfect timing | 10.00% | ~11,030 |
-| Self-sustainability | 9.00% | ~9,927 |
-| Ain't no mountain high enough | 9.00% | ~9,927 |
-| Spring cleaning | 6.00% | ~6,618 |
-| An eye for an eye | 6.00% | ~6,618 |
-| Can't get wetter... | 5.00% | ~5,515 |
-| Second thoughts | 4.00% | ~4,412 |
-| Mooning the moon | 4.00% | ~4,412 |
-| Strip-a-bobble | 4.00% | ~4,412 |
-| Pearls before Birble | 3.00% | ~3,309 |
-| Last minute | 3.00% | ~3,309 |
-| Thar she blows | 2.00% | ~2,206 |
-| À la carte | 2.00% | ~2,206 |
+| Balding bloot! | 80.00% | ~882 |
+| Lovebirds | 52.00% | ~574 |
+| Life’s short, ride long | 48.00% | ~529 |
+| Hug therapy | 47.00% | ~518 |
+| Over my dead body | 42.00% | ~463 |
+| Shake the rust off their feet | 23.00% | ~254 |
+| Strike! | 21.00% | ~232 |
+| My little pony | 21.00% | ~232 |
+| A love supreme | 20.00% | ~221 |
+| In my shoes | 19.00% | ~210 |
+| Like new! | 16.00% | ~176 |
+| Head in the clouds | 15.00% | ~165 |
+| Don't look back | 14.00% | ~154 |
+| Heartstrings | 14.00% | ~154 |
+| Back to rust | 13.00% | ~143 |
+| Flower Powered | 13.00% | ~143 |
+| Unstoppable | 11.00% | ~121 |
+| Perfect timing | 10.00% | ~110 |
+| Self-sustainability | 9.00% | ~99 |
+| Ain't no mountain high enough | 9.00% | ~99 |
+| Spring cleaning | 6.00% | ~66 |
+| An eye for an eye | 6.00% | ~66 |
+| Can't get wetter... | 5.00% | ~55 |
+| Second thoughts | 4.00% | ~44 |
+| Mooning the moon | 4.00% | ~44 |
+| Strip-a-bobble | 4.00% | ~44 |
+| Pearls before Birble | 3.00% | ~33 |
+| Last minute | 3.00% | ~33 |
+| Thar she blows | 2.00% | ~22 |
+| À la carte | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,103 (Ranked 156)  
 Completed: 8 (0.73%) (Ranked 90)  

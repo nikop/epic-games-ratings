@@ -3,28 +3,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 91.00% | ~4,095 |
-| Just a Taste | 82.00% | ~3,690 |
-| Strange Skulls | 60.00% | ~2,700 |
-| Treasure Hunter | 58.00% | ~2,610 |
-| Crab Cakes | 47.00% | ~2,115 |
-| Personally Punched | 27.00% | ~1,215 |
-| Flight of the Raven | 24.00% | ~1,080 |
-| Drop In | 22.00% | ~990 |
-| The Last Bullet | 16.00% | ~720 |
-| Champion of Light | 13.00% | ~585 |
-| Betrayed | 11.00% | ~495 |
-| Parting Gift | 11.00% | ~495 |
-| Skullector | 7.00% | ~315 |
-| Stomach Ache | 4.00% | ~180 |
-| Survived to Sunrise | 4.00% | ~180 |
-| Chainsplosion! | 2.00% | ~90 |
-| Coffin Kicker | 2.00% | ~90 |
-| A Foot Face? | 2.00% | ~90 |
-| That Funky Puncher | 2.00% | ~90 |
-| Ms. Perfect | 2.00% | ~90 |
-| Skulltastic | 2.00% | ~90 |
-| Walking on Air | 2.00% | ~90 |
+| Finish Him | 91.00% | ~41 |
+| Just a Taste | 82.00% | ~37 |
+| Strange Skulls | 60.00% | ~27 |
+| Treasure Hunter | 58.00% | ~26 |
+| Crab Cakes | 47.00% | ~21 |
+| Personally Punched | 27.00% | ~12 |
+| Flight of the Raven | 24.00% | ~11 |
+| Drop In | 22.00% | ~10 |
+| The Last Bullet | 16.00% | ~7 |
+| Champion of Light | 13.00% | ~6 |
+| Betrayed | 11.00% | ~5 |
+| Parting Gift | 11.00% | ~5 |
+| Skullector | 7.00% | ~3 |
+| Stomach Ache | 4.00% | ~2 |
+| Survived to Sunrise | 4.00% | ~2 |
+| Chainsplosion! | 2.00% | ~1 |
+| Coffin Kicker | 2.00% | ~1 |
+| A Foot Face? | 2.00% | ~1 |
+| That Funky Puncher | 2.00% | ~1 |
+| Ms. Perfect | 2.00% | ~1 |
+| Skulltastic | 2.00% | ~1 |
+| Walking on Air | 2.00% | ~1 |
 | Collateral | 0.00% | ~0 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

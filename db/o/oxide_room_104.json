@@ -24,7 +24,7 @@
       "Name": "Antidote",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BANDAGES",
@@ -32,7 +32,7 @@
       "Name": "First aid",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BATHROOM",
@@ -40,7 +40,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 200,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -104,7 +104,7 @@
       "Name": "Brute force",
       "Percentage": 200,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_GOODENDING",
@@ -176,7 +176,7 @@
       "Name": "Nimble fingers",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -200,7 +200,7 @@
       "Name": "Room 104",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ROOM203",
@@ -232,7 +232,7 @@
       "Name": "Face to face",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -262,13 +262,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:24:12.4118762+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:02.3028899+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:12.4119184+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:43.4316208+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:02.3029155+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:27.5374738+00:00",
   "AchievementSets": [
     {
       "ID": "511e31d",
@@ -278,7 +278,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,

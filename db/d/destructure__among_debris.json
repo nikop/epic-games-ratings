@@ -8,7 +8,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 7
     },
     {
       "ID": "avaricerite",
@@ -16,7 +16,7 @@
       "Name": "Avaricerite",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 3
     },
     {
       "ID": "back_from_the_dead",
@@ -40,7 +40,7 @@
       "Name": "Ball Galore",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "ball_protector",
@@ -48,7 +48,7 @@
       "Name": "Ball Protector",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "bullet_hell",
@@ -56,7 +56,7 @@
       "Name": "Bullet Hell",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "collector",
@@ -80,7 +80,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 19
     },
     {
       "ID": "easy_victory",
@@ -88,7 +88,7 @@
       "Name": "Easy Victory",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "graduation",
@@ -96,7 +96,7 @@
       "Name": "Graduation",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 2412
+      "UsersEstimate": 24
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -104,7 +104,7 @@
       "Name": "I Prefer Jazz Fusion",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "ice_breaker",
@@ -120,7 +120,7 @@
       "Name": "Legendary Destructor",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "machine_man",
@@ -128,7 +128,7 @@
       "Name": "Machine Man",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "master_destructor",
@@ -136,7 +136,7 @@
       "Name": "Master Destructor",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "medium_rare",
@@ -160,7 +160,7 @@
       "Name": "Mushroom Man",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "nomad",
@@ -168,7 +168,7 @@
       "Name": "Nomad",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "rookie",
@@ -176,7 +176,7 @@
       "Name": "Rookie",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 26
     },
     {
       "ID": "scrap_collector",
@@ -184,7 +184,7 @@
       "Name": "Scrap Collector",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "single_person",
@@ -200,7 +200,7 @@
       "Name": "Ticking Clock",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "total_walrus",
@@ -232,7 +232,7 @@
       "Name": "Untouchable",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "weapons",
@@ -240,7 +240,7 @@
       "Name": "You Are Actually Supposed To Use Those",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 3
     },
     {
       "ID": "what_are_you",
@@ -404,13 +404,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:24:53.6085522+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:43.3178889+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 29,
   "EOS_Completed": 0,
   "EOS_Progressed": 36,
-  "LastUpdate_Achievements": "2023-05-04T22:24:53.6085899+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:58.0252811+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:43.3179119+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:39.2208226+00:00",
   "AchievementSets": [
     {
       "ID": "jig50d",
@@ -425,7 +425,7 @@
   "FirstSeen": "2023-05-02T17:00:06.0264273+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 279,

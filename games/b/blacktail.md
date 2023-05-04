@@ -4,37 +4,37 @@ Rating: 4.67 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~7,850 |
-| Dental maturity | 18.00% | ~5,652 |
-| Devil's in the details | 12.00% | ~3,768 |
-| Uprooting | 11.00% | ~3,454 |
-| Forbidden techniques | 11.00% | ~3,454 |
-| Slavic squatter | 9.00% | ~2,826 |
-| Devoted | 8.00% | ~2,512 |
-| Spirit animal | 7.00% | ~2,198 |
-| Gold rush | 6.00% | ~1,884 |
-| Sneak peek | 4.00% | ~1,256 |
-| Favorite | 4.00% | ~1,256 |
-| Fishing fanatic | 4.00% | ~1,256 |
-| The word around is... | 4.00% | ~1,256 |
-| Liar Liar | 4.00% | ~1,256 |
-| A friend in need... | 4.00% | ~1,256 |
-| The cycle acknowledged | 4.00% | ~1,256 |
-| Specialist | 4.00% | ~1,256 |
-| Baba Yaga | 4.00% | ~1,256 |
-| Extensive retelling | 3.00% | ~942 |
-| Queen | 3.00% | ~942 |
-| Witch's cookbook | 3.00% | ~942 |
-| Goal! | 2.00% | ~628 |
-| Gnowlledgeable | 2.00% | ~628 |
-| Both sides | 2.00% | ~628 |
-| Always worth a try | 2.00% | ~628 |
-| Toxic | 2.00% | ~628 |
-| Bad apple | 1.00% | ~314 |
-| Loremaster | 1.00% | ~314 |
-| Awards unwarded | 1.00% | ~314 |
-| Entangled | 1.00% | ~314 |
-| Mushrooming enthusiast | 0.30% | ~94 |
+| Tooth fairy | 25.00% | ~78 |
+| Dental maturity | 18.00% | ~57 |
+| Devil's in the details | 12.00% | ~38 |
+| Uprooting | 11.00% | ~35 |
+| Forbidden techniques | 11.00% | ~35 |
+| Slavic squatter | 9.00% | ~28 |
+| Devoted | 8.00% | ~25 |
+| Spirit animal | 7.00% | ~22 |
+| Gold rush | 6.00% | ~19 |
+| Sneak peek | 4.00% | ~13 |
+| Favorite | 4.00% | ~13 |
+| Fishing fanatic | 4.00% | ~13 |
+| The word around is... | 4.00% | ~13 |
+| Liar Liar | 4.00% | ~13 |
+| A friend in need... | 4.00% | ~13 |
+| The cycle acknowledged | 4.00% | ~13 |
+| Specialist | 4.00% | ~13 |
+| Baba Yaga | 4.00% | ~13 |
+| Extensive retelling | 3.00% | ~9 |
+| Queen | 3.00% | ~9 |
+| Witch's cookbook | 3.00% | ~9 |
+| Goal! | 2.00% | ~6 |
+| Gnowlledgeable | 2.00% | ~6 |
+| Both sides | 2.00% | ~6 |
+| Always worth a try | 2.00% | ~6 |
+| Toxic | 2.00% | ~6 |
+| Bad apple | 1.00% | ~3 |
+| Loremaster | 1.00% | ~3 |
+| Awards unwarded | 1.00% | ~3 |
+| Entangled | 1.00% | ~3 |
+| Mushrooming enthusiast | 0.30% | ~1 |
 | Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 314 (Ranked 203)  

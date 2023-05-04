@@ -4,26 +4,26 @@ Rating: 4.24 (Ranked 780)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~252,400 |
-| Bonfire Lit | 3.00% | ~189,300 |
-| Survival Expert | 3.00% | ~189,300 |
-| Denial | 2.00% | ~126,200 |
-| Acceptance | 2.00% | ~126,200 |
-| Bargaining | 2.00% | ~126,200 |
-| Anger | 1.00% | ~63,100 |
-| Fear Of The Dark | 1.00% | ~63,100 |
-| Detective of the occult | 1.00% | ~63,100 |
-| Depression | 1.00% | ~63,100 |
-| Bless me Father... | 0.80% | ~50,480 |
-| Power of Friendship | 0.60% | ~37,860 |
-| Phone Bill | 0.60% | ~37,860 |
-| Chain Breaker | 0.60% | ~37,860 |
-| Silent Advisor | 0.50% | ~31,550 |
-| Let there be light | 0.40% | ~25,240 |
-| Soda addiction | 0.30% | ~18,930 |
-| Paparazzi | 0.30% | ~18,930 |
-| Are you still there? | 0.30% | ~18,930 |
-| Ear Ringing | 0.10% | ~6,310 |
+| Out of Shape | 4.00% | ~2,524 |
+| Bonfire Lit | 3.00% | ~1,893 |
+| Survival Expert | 3.00% | ~1,893 |
+| Denial | 2.00% | ~1,262 |
+| Acceptance | 2.00% | ~1,262 |
+| Bargaining | 2.00% | ~1,262 |
+| Anger | 1.00% | ~631 |
+| Fear Of The Dark | 1.00% | ~631 |
+| Detective of the occult | 1.00% | ~631 |
+| Depression | 1.00% | ~631 |
+| Bless me Father... | 0.80% | ~505 |
+| Power of Friendship | 0.60% | ~379 |
+| Phone Bill | 0.60% | ~379 |
+| Chain Breaker | 0.60% | ~379 |
+| Silent Advisor | 0.50% | ~316 |
+| Let there be light | 0.40% | ~252 |
+| Soda addiction | 0.30% | ~189 |
+| Paparazzi | 0.30% | ~189 |
+| Are you still there? | 0.30% | ~189 |
+| Ear Ringing | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 63,100 (Ranked 64)  
 Completed: 10 (0.02%) (Ranked 175)  

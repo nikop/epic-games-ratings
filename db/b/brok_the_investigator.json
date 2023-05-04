@@ -8,7 +8,7 @@
       "Name": "Ads Fan",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "BEARCOP",
@@ -40,7 +40,7 @@
       "Name": "Chapter 1",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER2",
@@ -48,7 +48,7 @@
       "Name": "Chapter 2",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER3",
@@ -56,7 +56,7 @@
       "Name": "Chapter 3",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER4",
@@ -64,7 +64,7 @@
       "Name": "Chapter 4",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER5",
@@ -72,7 +72,7 @@
       "Name": "Chapter 5",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER6",
@@ -80,7 +80,7 @@
       "Name": "Chapter 6",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "CHIPMUNK",
@@ -104,7 +104,7 @@
       "Name": "Your Days Are Numbered",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "HIGHWAYSURVIVE",
@@ -112,7 +112,7 @@
       "Name": "Highway Survival",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "INTRO",
@@ -120,7 +120,7 @@
       "Name": "Introduction completed",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 5
     },
     {
       "ID": "LOCKERENDING",
@@ -144,7 +144,7 @@
       "Name": "All Materials",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "PACIFIST",
@@ -192,7 +192,7 @@
       "Name": "It\u0027s In My Nature",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "TABLES",
@@ -224,7 +224,7 @@
       "Name": "Hard To Wake Up",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "WORSTDETECTIVE",
@@ -253,13 +253,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T22:24:40.7993744+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:30.4337104+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:24:40.7994083+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:10.3177215+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:30.43373+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:54.2003146+00:00",
   "AchievementSets": [
     {
       "ID": "bb2dp",
@@ -274,7 +274,7 @@
   "FirstSeen": "2023-04-09T06:58:32.327153+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,

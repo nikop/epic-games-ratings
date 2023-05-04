@@ -8,7 +8,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 20672
+      "UsersEstimate": 207
     },
     {
       "ID": "02_collector",
@@ -16,7 +16,7 @@
       "Name": "Collector",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 12512
+      "UsersEstimate": 125
     },
     {
       "ID": "03_philatelist",
@@ -24,7 +24,7 @@
       "Name": "Philatelist",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7616
+      "UsersEstimate": 76
     },
     {
       "ID": "04_tycoon",
@@ -32,7 +32,7 @@
       "Name": "Tycoon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2176
+      "UsersEstimate": 22
     },
     {
       "ID": "05_pangs",
@@ -40,7 +40,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 14144
+      "UsersEstimate": 141
     },
     {
       "ID": "06_living",
@@ -48,7 +48,7 @@
       "Name": "Living it large!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 12784
+      "UsersEstimate": 128
     },
     {
       "ID": "07_europe",
@@ -56,7 +56,7 @@
       "Name": "Europe",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 8976
+      "UsersEstimate": 90
     },
     {
       "ID": "08_america",
@@ -64,7 +64,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4896
+      "UsersEstimate": 49
     },
     {
       "ID": "09_russia",
@@ -72,7 +72,7 @@
       "Name": "Russia",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 5712
+      "UsersEstimate": 57
     },
     {
       "ID": "10_japan",
@@ -80,7 +80,7 @@
       "Name": "Japan",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2992
+      "UsersEstimate": 30
     },
     {
       "ID": "11_germany",
@@ -88,7 +88,7 @@
       "Name": "Germany",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1904
+      "UsersEstimate": 19
     },
     {
       "ID": "12_roll",
@@ -96,7 +96,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7888
+      "UsersEstimate": 79
     },
     {
       "ID": "13_bunkrupt",
@@ -104,7 +104,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 8976
+      "UsersEstimate": 90
     },
     {
       "ID": "14_woodcutter",
@@ -112,7 +112,7 @@
       "Name": "Woodcutter",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3536
+      "UsersEstimate": 35
     },
     {
       "ID": "15_bbq",
@@ -120,7 +120,7 @@
       "Name": "BBQ",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "16_vandal",
@@ -128,7 +128,7 @@
       "Name": "Vandal",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "17_builder",
@@ -136,7 +136,7 @@
       "Name": "Builder",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 15504
+      "UsersEstimate": 155
     },
     {
       "ID": "18_foreman",
@@ -144,7 +144,7 @@
       "Name": "Foreman",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 6528
+      "UsersEstimate": 65
     },
     {
       "ID": "19_justintime",
@@ -152,7 +152,7 @@
       "Name": "Just in time!",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 9792
+      "UsersEstimate": 98
     },
     {
       "ID": "20_sabotage",
@@ -160,7 +160,7 @@
       "Name": "Sabotage",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4896
+      "UsersEstimate": 49
     },
     {
       "ID": "21_missed",
@@ -168,7 +168,7 @@
       "Name": "Missed it!",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 6528
+      "UsersEstimate": 65
     },
     {
       "ID": "22_ouroboros",
@@ -176,7 +176,7 @@
       "Name": "Ouroboros",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 7344
+      "UsersEstimate": 73
     },
     {
       "ID": "23_closecall",
@@ -184,7 +184,7 @@
       "Name": "Close call!",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 20400
+      "UsersEstimate": 204
     },
     {
       "ID": "24_mega",
@@ -192,7 +192,7 @@
       "Name": "Mega-railroad",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "25_juggler",
@@ -200,7 +200,7 @@
       "Name": "Juggler",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "26_forgotten",
@@ -208,7 +208,7 @@
       "Name": "Forgotten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 8
     },
     {
       "ID": "27_lucky",
@@ -216,7 +216,7 @@
       "Name": "Lucky vandal",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 8
     },
     {
       "ID": "28_nonstop",
@@ -224,7 +224,7 @@
       "Name": "Non Stop!",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7616
+      "UsersEstimate": 76
     },
     {
       "ID": "29_madness",
@@ -232,7 +232,7 @@
       "Name": "Madness!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6800
+      "UsersEstimate": 68
     },
     {
       "ID": "30_completelynuts",
@@ -240,7 +240,7 @@
       "Name": "Completely nuts!",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 9520
+      "UsersEstimate": 95
     },
     {
       "ID": "31_chancellor",
@@ -248,7 +248,7 @@
       "Name": "\u0421hancellor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1088
+      "UsersEstimate": 11
     },
     {
       "ID": "32_engineer",
@@ -256,7 +256,7 @@
       "Name": "Engineer",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3536
+      "UsersEstimate": 35
     },
     {
       "ID": "33_peacemaker",
@@ -264,7 +264,7 @@
       "Name": "Peacemaker",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1088
+      "UsersEstimate": 11
     },
     {
       "ID": "34_needtothink",
@@ -272,7 +272,7 @@
       "Name": "Need to think",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 11696
+      "UsersEstimate": 117
     },
     {
       "ID": "35_achtung",
@@ -280,7 +280,7 @@
       "Name": "Achtung!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3536
+      "UsersEstimate": 35
     },
     {
       "ID": "36_supercrash",
@@ -288,7 +288,7 @@
       "Name": "Supercrash!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 16
     },
     {
       "ID": "37_maniacvandal",
@@ -296,7 +296,7 @@
       "Name": "Maniac vandal",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "38_chuck",
@@ -304,7 +304,7 @@
       "Name": "Chuck Norris",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 16
     },
     {
       "ID": "39_salesman",
@@ -312,7 +312,7 @@
       "Name": "Salesman",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     }
   ],
   "Tags": [],
@@ -400,13 +400,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-04T22:22:20.0946962+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:37:21.08286+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-04T22:22:20.0947528+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:02.2657538+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:37:21.0828949+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:45.6786206+00:00",
   "AchievementSets": [
     {
       "ID": "chb1m60",
@@ -421,7 +421,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 28,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_Progress": 210,

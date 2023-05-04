@@ -3,26 +3,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seth's office | 53.00% | ~3,604 |
-| The secret passage | 53.00% | ~3,604 |
-| First document retrieved | 51.00% | ~3,468 |
-| There is something strange here... | 47.00% | ~3,196 |
-| Across the lake | 47.00% | ~3,196 |
-| Curious by nature | 40.00% | ~2,720 |
-| A lonely death | 37.00% | ~2,516 |
-| An ear for music | 35.00% | ~2,380 |
-| Agatha's favourite song | 34.00% | ~2,312 |
-| Lights and shadows | 31.00% | ~2,108 |
-| The threshold of horror | 29.00% | ~1,972 |
-| Deadly chase | 28.00% | ~1,904 |
-| Second document retrieved | 26.00% | ~1,768 |
-| Third document retrieved | 26.00% | ~1,768 |
-| Dara's home | 26.00% | ~1,768 |
-| The lowest floor of the lift | 25.00% | ~1,700 |
-| Charon's coin | 24.00% | ~1,632 |
-| Until death do us part | 21.00% | ~1,428 |
-| The impatient one | 18.00% | ~1,224 |
-| Spectres from the past | 7.00% | ~476 |
+| Seth's office | 53.00% | ~36 |
+| The secret passage | 53.00% | ~36 |
+| First document retrieved | 51.00% | ~35 |
+| There is something strange here... | 47.00% | ~32 |
+| Across the lake | 47.00% | ~32 |
+| Curious by nature | 40.00% | ~27 |
+| A lonely death | 37.00% | ~25 |
+| An ear for music | 35.00% | ~24 |
+| Agatha's favourite song | 34.00% | ~23 |
+| Lights and shadows | 31.00% | ~21 |
+| The threshold of horror | 29.00% | ~20 |
+| Deadly chase | 28.00% | ~19 |
+| Second document retrieved | 26.00% | ~18 |
+| Third document retrieved | 26.00% | ~18 |
+| Dara's home | 26.00% | ~18 |
+| The lowest floor of the lift | 25.00% | ~17 |
+| Charon's coin | 24.00% | ~16 |
+| Until death do us part | 21.00% | ~14 |
+| The impatient one | 18.00% | ~12 |
+| Spectres from the past | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 260)  
 Completed: 2 (2.94%) (Ranked 43)  

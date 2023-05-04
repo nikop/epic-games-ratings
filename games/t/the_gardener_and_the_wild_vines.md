@@ -3,8 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Planting The Seeds | 50.00% | ~100 |
-| Daisy Chain | 50.00% | ~100 |
+| Planting The Seeds | 50.00% | ~1 |
+| Daisy Chain | 50.00% | ~1 |
 | Prince, Are You There? | 0.00% | ~0 |
 | No Person Is An Island | 0.00% | ~0 |
 | Ain't No Mountain High Enough | 0.00% | ~0 |

@@ -8,7 +8,7 @@
       "Name": "Welcome!",
       "Percentage": 104,
       "XP": 35,
-      "UsersEstimate": 5720
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_002",
@@ -16,7 +16,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 4675
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_003",
@@ -24,7 +24,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 69,
       "XP": 35,
-      "UsersEstimate": 3795
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_004",
@@ -32,7 +32,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 3190
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_005",
@@ -40,7 +40,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 2915
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_006",
@@ -48,7 +48,7 @@
       "Name": "Found an oasis",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 2200
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_007",
@@ -56,7 +56,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 1980
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_008",
@@ -64,7 +64,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 1705
+      "UsersEstimate": 17
     },
     {
       "ID": "LEVEL_009",
@@ -72,7 +72,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 1595
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_010",
@@ -80,7 +80,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 1595
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_011",
@@ -88,7 +88,7 @@
       "Name": "At the heart of the city",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1485
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_012",
@@ -96,7 +96,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1375
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_013",
@@ -104,7 +104,7 @@
       "Name": "Elevated ring",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1320
+      "UsersEstimate": 13
     },
     {
       "ID": "LEVEL_014",
@@ -112,7 +112,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1210
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_015",
@@ -120,7 +120,7 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1210
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_016",
@@ -128,7 +128,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1100
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_017",
@@ -136,7 +136,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1100
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_018",
@@ -144,7 +144,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1100
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_019",
@@ -152,7 +152,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "LEVEL_020",
@@ -160,7 +160,7 @@
       "Name": "City of dreams",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "LEVEL_021",
@@ -168,7 +168,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "LEVEL_022",
@@ -176,7 +176,7 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     }
   ],
   "Tags": [],
@@ -432,13 +432,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T22:24:27.9100393+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:17.7184584+00:00",
   "EOS_NewCompleters": 9,
   "EOS_NewPlayers": 38,
   "EOS_Completed": 10,
   "EOS_Progressed": 55,
-  "LastUpdate_Achievements": "2023-05-04T22:24:27.9100673+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:21.536685+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:17.7184959+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:05.5068362+00:00",
   "AchievementSets": [
     {
       "ID": "3khpmem",

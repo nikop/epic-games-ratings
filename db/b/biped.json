@@ -8,7 +8,7 @@
       "Name": "First Step",
       "Percentage": 47,
       "XP": 45,
-      "UsersEstimate": 47329
+      "UsersEstimate": 473
     },
     {
       "ID": "10",
@@ -24,7 +24,7 @@
       "Name": "Telepathic",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 12084
+      "UsersEstimate": 121
     },
     {
       "ID": "12",
@@ -40,7 +40,7 @@
       "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 1
     },
     {
       "ID": "14",
@@ -56,7 +56,7 @@
       "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 101
+      "UsersEstimate": 1
     },
     {
       "ID": "2",
@@ -64,7 +64,7 @@
       "Name": "Dense Forest",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 39273
+      "UsersEstimate": 393
     },
     {
       "ID": "3",
@@ -72,7 +72,7 @@
       "Name": "Cactus Vally",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 29203
+      "UsersEstimate": 292
     },
     {
       "ID": "4",
@@ -80,7 +80,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 17119
+      "UsersEstimate": 171
     },
     {
       "ID": "5",
@@ -88,7 +88,7 @@
       "Name": "Snowy Peak",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 11077
+      "UsersEstimate": 111
     },
     {
       "ID": "6",
@@ -96,7 +96,7 @@
       "Name": "High Treetops",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 9063
+      "UsersEstimate": 91
     },
     {
       "ID": "7",
@@ -104,7 +104,7 @@
       "Name": "Blue Rapids",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7049
+      "UsersEstimate": 70
     },
     {
       "ID": "8",
@@ -112,7 +112,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4028
+      "UsersEstimate": 40
     },
     {
       "ID": "9",
@@ -120,7 +120,7 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 10,
       "XP": 65,
-      "UsersEstimate": 10070
+      "UsersEstimate": 101
     }
   ],
   "Tags": [],
@@ -861,13 +861,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:24:19.3773806+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:09.2272016+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_Completed": 0,
   "EOS_Progressed": 1007,
-  "LastUpdate_Achievements": "2023-05-04T22:24:19.377407+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:22.0241859+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:09.2272156+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:06.1187663+00:00",
   "AchievementSets": [
     {
       "ID": "1dkhij4",
@@ -882,7 +882,7 @@
   "FirstSeen": "2023-04-22T05:57:51.3460102+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 159,

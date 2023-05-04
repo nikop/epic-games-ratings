@@ -8,7 +8,7 @@
       "Name": "Slay it!",
       "Percentage": 50,
       "XP": 150,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_boss2",
@@ -16,7 +16,7 @@
       "Name": "Slay that one too!",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_boss3",
@@ -24,7 +24,7 @@
       "Name": "... And that one!",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_bunny10",
@@ -32,7 +32,7 @@
       "Name": "Poor things...",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_bunny50",
@@ -48,7 +48,7 @@
       "Name": "Still alive!",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_day15",
@@ -56,7 +56,7 @@
       "Name": "Endurance test!",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_day20",
@@ -72,7 +72,7 @@
       "Name": "So far so good...",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_level2",
@@ -80,7 +80,7 @@
       "Name": "Getting somewhere",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_level3",
@@ -88,7 +88,7 @@
       "Name": "Top notch!",
       "Percentage": 67,
       "XP": 70,
-      "UsersEstimate": 402
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_lose",
@@ -96,7 +96,7 @@
       "Name": "Lives lost",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_rich",
@@ -104,7 +104,7 @@
       "Name": "Bling bling!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_slay1000",
@@ -112,7 +112,7 @@
       "Name": "Slaughter",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_slay2000",
@@ -120,7 +120,7 @@
       "Name": "Massive slaughter",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     }
   ],
   "Tags": [],
@@ -166,13 +166,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:24:27.4200051+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:17.3279652+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:24:27.4200206+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:14.2265091+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:17.3279761+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:57.5333918+00:00",
   "AchievementSets": [
     {
       "ID": "c2c0fb6",
@@ -187,7 +187,7 @@
   "FirstSeen": "2023-04-28T10:59:29.2849937+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,

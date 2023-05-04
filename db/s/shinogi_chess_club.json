@@ -8,7 +8,7 @@
       "Name": "Frostbite",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COMPLETECH2",
@@ -72,7 +72,7 @@
       "Name": "Rock Out",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FINDTORTOISE",
@@ -80,7 +80,7 @@
       "Name": "And the Hare",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LEAVELEVEL",
@@ -117,13 +117,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:24:34.0340116+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:23.9746971+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:24:34.0340293+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:44.3714304+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:23.9747062+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:28.0519372+00:00",
   "AchievementSets": [
     {
       "ID": "3milekj",
@@ -138,7 +138,7 @@
   "FirstSeen": "2023-04-18T22:59:17.8138938+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,

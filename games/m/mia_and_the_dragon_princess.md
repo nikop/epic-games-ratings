@@ -3,9 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Glass Act | 33.00% | ~198 |
-| Snitch | 17.00% | ~102 |
-| Tour Guide Extraordinaire | 17.00% | ~102 |
+| Glass Act | 33.00% | ~2 |
+| Snitch | 17.00% | ~1 |
+| Tour Guide Extraordinaire | 17.00% | ~1 |
 | A Box of Tricks | 0.00% | ~0 |
 | Backstory Buff | 0.00% | ~0 |
 | Bathroom Brawler | 0.00% | ~0 |

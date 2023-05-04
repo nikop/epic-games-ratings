@@ -3,8 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Big Decision | 100.00% | ~100 |
-| What sharp teeth you have! | 100.00% | ~100 |
+| Big Decision | 100.00% | ~1 |
+| What sharp teeth you have! | 100.00% | ~1 |
 | Broken Trust | 0.00% | ~0 |
 | Despair in the Dungeon | 0.00% | ~0 |
 | Final Decision | 0.00% | ~0 |

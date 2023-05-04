@@ -8,7 +8,7 @@
       "Name": "Big Fish",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENEMY_KILLER",
@@ -16,7 +16,7 @@
       "Name": "Champion of Kalevala",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1312
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FORAGER",
@@ -24,7 +24,7 @@
       "Name": "Mushroom Forager",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FORAGER_BERRY",
@@ -32,7 +32,7 @@
       "Name": "Berry Nice",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1148
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -40,7 +40,7 @@
       "Name": "Good Stew",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 656
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GREEN_THUMB",
@@ -48,7 +48,7 @@
       "Name": "Green Thumb",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GROUSE_HEALED",
@@ -56,7 +56,7 @@
       "Name": "Avian Veterinarian",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 656
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GROUSE_KILLED",
@@ -64,7 +64,7 @@
       "Name": "Bird Butcherer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_HEALER_MET",
@@ -72,7 +72,7 @@
       "Name": "Found the Healer",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 5248
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -80,7 +80,7 @@
       "Name": "Keyu Exterminator",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 984
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -88,7 +88,7 @@
       "Name": "Knock, Knock!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NATURAL_SELECTION",
@@ -96,7 +96,7 @@
       "Name": "Natural Selection",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PLAYER_DEATHS",
@@ -104,7 +104,7 @@
       "Name": "Death is Merely a Setback",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 1312
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_RINGFIRE",
@@ -112,7 +112,7 @@
       "Name": "Ring of Fire!",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1476
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ROOSTEREAT",
@@ -120,7 +120,7 @@
       "Name": "Tastes Like Chicken",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SHARD_1",
@@ -128,7 +128,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 13284
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_SHARD_2",
@@ -136,7 +136,7 @@
       "Name": "Second Shard",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 1640
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SHARD_3",
@@ -144,7 +144,7 @@
       "Name": "Third Shard",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 1476
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SHARD_4",
@@ -152,7 +152,7 @@
       "Name": "Fourth Shard",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 984
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SHARD_5",
@@ -160,7 +160,7 @@
       "Name": "Fifth Shard",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 820
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_TROLL",
@@ -168,7 +168,7 @@
       "Name": "Trolled",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 328
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TROLL_HUNTER",
@@ -176,7 +176,7 @@
       "Name": "Troll Hunter",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 328
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WIN_GAME",
@@ -184,7 +184,7 @@
       "Name": "Finished Iron Danger",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 656
+      "UsersEstimate": 7
     }
   ],
   "Tags": [],
@@ -220,13 +220,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:24:55.6674649+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:45.4312666+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 4,
   "EOS_Progressed": 164,
-  "LastUpdate_Achievements": "2023-05-04T22:24:55.6674869+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:02.3237431+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:45.4312852+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:43.3660087+00:00",
   "AchievementSets": [
     {
       "ID": "ao59f0i",
@@ -241,7 +241,7 @@
   "FirstSeen": "2022-07-22T20:33:09.0664811+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_Progress": 226,

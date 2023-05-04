@@ -4,35 +4,35 @@ Rating: 4.16 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~398,898 |
-| Disposing of the Evidence | 36.00% | ~173,016 |
-| Without a Scratch | 32.00% | ~153,792 |
-| Wreckless Driving | 27.00% | ~129,762 |
-| A Marked Man | 24.00% | ~115,344 |
-| Street Sweeper | 17.00% | ~81,702 |
-| Liberty City Minute | 16.00% | ~76,896 |
-| Offshore Delivery | 12.00% | ~57,672 |
-| Dirty Money | 11.00% | ~52,866 |
-| By a Mile | 9.00% | ~43,254 |
-| Right-hand Man | 9.00% | ~43,254 |
-| Not So Fast | 8.00% | ~38,448 |
-| A Gift from the King | 6.00% | ~28,836 |
-| Full Artillery | 4.00% | ~19,224 |
-| Mob Boss | 2.00% | ~9,612 |
-| Splish Splash | 2.00% | ~9,612 |
-| Escape Artist | 1.00% | ~4,806 |
-| Got This Figured Out | 1.00% | ~4,806 |
-| Come Out to Play-y-y-y | 1.00% | ~4,806 |
-| Where To? | 1.00% | ~4,806 |
-| Playing Doctor | 1.00% | ~4,806 |
-| Liberty City Secrets | 1.00% | ~4,806 |
-| Wheels Up | 0.90% | ~4,325 |
-| Man Toyz | 0.90% | ~4,325 |
-| Going Rogue | 0.90% | ~4,325 |
-| Planned Ahead | 0.80% | ~3,845 |
-| Furious First Responder | 0.80% | ~3,845 |
-| Is That All You've Got? | 0.70% | ~3,364 |
-| King of Liberty City | 0.50% | ~2,403 |
+| First Day on the Job | 83.00% | ~3,989 |
+| Disposing of the Evidence | 36.00% | ~1,730 |
+| Without a Scratch | 32.00% | ~1,538 |
+| Wreckless Driving | 27.00% | ~1,298 |
+| A Marked Man | 24.00% | ~1,153 |
+| Street Sweeper | 17.00% | ~817 |
+| Liberty City Minute | 16.00% | ~769 |
+| Offshore Delivery | 12.00% | ~577 |
+| Dirty Money | 11.00% | ~529 |
+| By a Mile | 9.00% | ~433 |
+| Right-hand Man | 9.00% | ~433 |
+| Not So Fast | 8.00% | ~384 |
+| A Gift from the King | 6.00% | ~288 |
+| Full Artillery | 4.00% | ~192 |
+| Mob Boss | 2.00% | ~96 |
+| Splish Splash | 2.00% | ~96 |
+| Escape Artist | 1.00% | ~48 |
+| Got This Figured Out | 1.00% | ~48 |
+| Come Out to Play-y-y-y | 1.00% | ~48 |
+| Where To? | 1.00% | ~48 |
+| Playing Doctor | 1.00% | ~48 |
+| Liberty City Secrets | 1.00% | ~48 |
+| Wheels Up | 0.90% | ~43 |
+| Man Toyz | 0.90% | ~43 |
+| Going Rogue | 0.90% | ~43 |
+| Planned Ahead | 0.80% | ~38 |
+| Furious First Responder | 0.80% | ~38 |
+| Is That All You've Got? | 0.70% | ~34 |
+| King of Liberty City | 0.50% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,806 (Ranked 122)  
 Completed: 25 (0.52%) (Ranked 95)  

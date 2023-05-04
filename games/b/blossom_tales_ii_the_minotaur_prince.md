@@ -3,12 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shiny New Weapons | 44.00% | ~396 |
-| Key Piece I | 11.00% | ~99 |
-| Completely Hooked | 11.00% | ~99 |
-| Money Bags | 11.00% | ~99 |
-| The Lawnmower Lady | 11.00% | ~99 |
-| Lily: Warrior Princess | 11.00% | ~99 |
+| Shiny New Weapons | 44.00% | ~4 |
+| Key Piece I | 11.00% | ~1 |
+| Completely Hooked | 11.00% | ~1 |
+| Money Bags | 11.00% | ~1 |
+| The Lawnmower Lady | 11.00% | ~1 |
+| Lily: Warrior Princess | 11.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |
 | The Musician | 0.00% | ~0 |

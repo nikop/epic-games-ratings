@@ -8,7 +8,7 @@
       "Name": "All Objectives Complete",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "allSerums",
@@ -32,7 +32,7 @@
       "Name": "All Gold Chest Slots Unlocked",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "allSombreros",
@@ -64,7 +64,7 @@
       "Name": "Bank Objectives Complete",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "bankSuccess",
@@ -72,7 +72,7 @@
       "Name": "Bank Heisted",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2605
+      "UsersEstimate": 26
     },
     {
       "ID": "chickenMax",
@@ -80,7 +80,7 @@
       "Name": "Chicken Maxed Out",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 13
     },
     {
       "ID": "crocMax",
@@ -88,7 +88,7 @@
       "Name": "Crocodile Maxed Out",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 13
     },
     {
       "ID": "lootomaticComplete",
@@ -96,7 +96,7 @@
       "Name": "All Weapons Purchased",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "militaryAllObjectives",
@@ -120,7 +120,7 @@
       "Name": "Monkey Maxed Out",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 13
     },
     {
       "ID": "mooseMax",
@@ -128,7 +128,7 @@
       "Name": "Moose Maxed Out",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 13
     },
     {
       "ID": "nuclearAllObjectives",
@@ -144,7 +144,7 @@
       "Name": "Nuclear Plant Heisted",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "prisonAllObjectives",
@@ -152,7 +152,7 @@
       "Name": "Prison Objectives Complete",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "prisonSuccess",
@@ -160,7 +160,7 @@
       "Name": "Prison Heisted",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 7
     },
     {
       "ID": "spaceAllObjectives",
@@ -184,7 +184,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 13026
+      "UsersEstimate": 130
     },
     {
       "ID": "superMartSuccess",
@@ -192,7 +192,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 13026
+      "UsersEstimate": 130
     },
     {
       "ID": "templeAllObjectives",
@@ -216,7 +216,7 @@
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 6513
+      "UsersEstimate": 65
     },
     {
       "ID": "tutorialSuccess",
@@ -224,7 +224,7 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 39078
+      "UsersEstimate": 391
     }
   ],
   "Tags": [],
@@ -590,13 +590,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:24:29.2282948+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:19.2037885+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 99,
   "EOS_Completed": 0,
   "EOS_Progressed": 6513,
-  "LastUpdate_Achievements": "2023-05-04T22:24:29.2283164+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:23.162365+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:19.203809+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:07.2206658+00:00",
   "AchievementSets": [
     {
       "ID": "10d14j0",
@@ -611,7 +611,7 @@
   "FirstSeen": "2023-04-05T14:58:37.795313+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 111,

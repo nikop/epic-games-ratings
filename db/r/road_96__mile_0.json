@@ -8,7 +8,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 8990
+      "UsersEstimate": 90
     },
     {
       "ID": "completeact2",
@@ -16,7 +16,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 52,
       "XP": 80,
-      "UsersEstimate": 7540
+      "UsersEstimate": 75
     },
     {
       "ID": "completeact3",
@@ -24,7 +24,7 @@
       "Name": "On the Road",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 7105
+      "UsersEstimate": 71
     },
     {
       "ID": "findalltapes",
@@ -32,7 +32,7 @@
       "Name": "Song Harvester",
       "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 435
+      "UsersEstimate": 4
     },
     {
       "ID": "scoremaxrankallrides",
@@ -40,7 +40,7 @@
       "Name": "Try Harder",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 290
+      "UsersEstimate": 3
     },
     {
       "ID": "scoreminrankrb1",
@@ -48,7 +48,7 @@
       "Name": "Truthseeker",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2755
+      "UsersEstimate": 28
     },
     {
       "ID": "scoreminrankrb2",
@@ -56,7 +56,7 @@
       "Name": "Freedom",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1740
+      "UsersEstimate": 17
     },
     {
       "ID": "scoreminrankrf1",
@@ -64,7 +64,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 2030
+      "UsersEstimate": 20
     },
     {
       "ID": "scoreminrankrf2",
@@ -72,7 +72,7 @@
       "Name": "Partners in Crime",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 1885
+      "UsersEstimate": 19
     },
     {
       "ID": "scoreminrankrh1",
@@ -80,7 +80,7 @@
       "Name": "Souvenirs",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 5365
+      "UsersEstimate": 54
     },
     {
       "ID": "scoreminrankrp1",
@@ -88,7 +88,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 3480
+      "UsersEstimate": 35
     },
     {
       "ID": "scoreminrankrp2",
@@ -96,7 +96,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 1450
+      "UsersEstimate": 14
     },
     {
       "ID": "scoreminrankrp3",
@@ -104,7 +104,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1160
+      "UsersEstimate": 12
     },
     {
       "ID": "scoreminrankrv1",
@@ -112,7 +112,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 2900
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrv2",
@@ -120,7 +120,7 @@
       "Name": "Friendzone",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 1885
+      "UsersEstimate": 19
     }
   ],
   "Tags": [],
@@ -211,13 +211,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:24:38.0656541+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:27.8412935+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 10,
   "EOS_Completed": 2,
   "EOS_Progressed": 145,
-  "LastUpdate_Achievements": "2023-05-04T22:24:38.0656657+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:59.5912759+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:27.8413064+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:43.8000109+00:00",
   "AchievementSets": [
     {
       "ID": "40n95i5",
@@ -232,7 +232,7 @@
   "FirstSeen": "2023-04-05T01:40:29.4675735+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_Progress": 236,

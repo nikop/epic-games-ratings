@@ -8,7 +8,7 @@
       "Name": "Break no Sweat",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 8342
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
@@ -16,7 +16,7 @@
       "Name": "Excellent Driving Skills",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2580
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_AVOID_SNIPER",
@@ -24,7 +24,7 @@
       "Name": "Black Cat\u0027s Warning",
       "Percentage": 105,
       "XP": 5,
-      "UsersEstimate": 9030
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
@@ -32,7 +32,7 @@
       "Name": "Best in Dragon City",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1978
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_DEFEAT_SBY_TIANWU_TPSN",
@@ -40,7 +40,7 @@
       "Name": "Interception",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_SBY_XFGZ_TPSN",
@@ -48,7 +48,7 @@
       "Name": "Still A Chance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
@@ -56,7 +56,7 @@
       "Name": "Defeat the AI",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2236
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_DEFEAT_ZFGZ_TPSN",
@@ -64,7 +64,7 @@
       "Name": "Final Battle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_DIE_FOR_ABYSM",
@@ -72,7 +72,7 @@
       "Name": "Giving Up",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DIE_FOR_LIGHTING",
@@ -88,7 +88,7 @@
       "Name": "Unexpected Crisis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ENDING_FAMILY_PRAY",
@@ -96,7 +96,7 @@
       "Name": "Time\u0027s Up",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ENDING_MILLIONS_PEOPLE",
@@ -104,7 +104,7 @@
       "Name": "Calamity",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 860
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ENDING_PRISON",
@@ -112,7 +112,7 @@
       "Name": "Reappearance",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1290
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ENDING_SIMULATE",
@@ -120,7 +120,7 @@
       "Name": "Brain in a Vat",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1376
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ENDING_SWEET_DREAM",
@@ -128,7 +128,7 @@
       "Name": "Limbo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 430
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ENDING_TVSHOW",
@@ -136,7 +136,7 @@
       "Name": "Outsider\u0027s Profit",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1720
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ENDING_WIFE_EBRAIN",
@@ -144,7 +144,7 @@
       "Name": "Walking into a Trap",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1978
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ESCAPE_FROM_UNREAL_MANY_TIMES",
@@ -152,7 +152,7 @@
       "Name": "Escape Master",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FLAPPYSEDAN_SCORE",
@@ -160,7 +160,7 @@
       "Name": "Pro Gamer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FULLY_UPGRADED_MANY_ARMS",
@@ -168,7 +168,7 @@
       "Name": "Achieving Excellence",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GET_STORY_TRUTH",
@@ -176,7 +176,7 @@
       "Name": "Targeting the Enemy",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 5934
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_HARDMODE_ALLCLEAR",
@@ -192,7 +192,7 @@
       "Name": "Ninja Killer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_KILL_MANY_LONGXIGUY",
@@ -200,7 +200,7 @@
       "Name": "King of the Streets",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_KILL_MANY_SICKGUY",
@@ -208,7 +208,7 @@
       "Name": "Rest in peace",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_KILL_XFGZ_SEABASE",
@@ -216,7 +216,7 @@
       "Name": "Elimination",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LET_GANGSTER_GO",
@@ -224,7 +224,7 @@
       "Name": "Disdain",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_LISTEN_TO_CLASSIC_MUSIC",
@@ -248,7 +248,7 @@
       "Name": "Cat Lover",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_NOT_TUMBLE_DOWN",
@@ -256,7 +256,7 @@
       "Name": "Once Bitten, Twice Shy",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2494
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ONCE_OVERKILL_MANY_DIE",
@@ -264,7 +264,7 @@
       "Name": "Prowess",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_PASS_ALL_STORYLINE",
@@ -272,7 +272,7 @@
       "Name": "Clairvoyance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
@@ -280,7 +280,7 @@
       "Name": "Unavoidable",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 5504
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
@@ -288,7 +288,7 @@
       "Name": "Unsalvageable",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 2236
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_SAVE_LIZBETH",
@@ -296,7 +296,7 @@
       "Name": "Fleet-footed",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_SAVE_LIZBETH_WIFE",
@@ -304,7 +304,7 @@
       "Name": "Invincible",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2236
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_SAVE_WIFE",
@@ -312,7 +312,7 @@
       "Name": "Reunion",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 3612
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_SURVIVE_OGATA",
@@ -320,7 +320,7 @@
       "Name": "Fluke",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 3010
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_UNLOCK_ALL_ANECDOTES",
@@ -328,7 +328,7 @@
       "Name": "Story King",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL_CHIPSKILL",
@@ -336,7 +336,7 @@
       "Name": "Omni-compatibility",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL_CLOTHES",
@@ -344,7 +344,7 @@
       "Name": "Fashionista",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNLOCK_ALL_GUN",
@@ -352,7 +352,7 @@
       "Name": "Arms Expert",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL_INFORMATION",
@@ -360,7 +360,7 @@
       "Name": "Intel Expert",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_UNLOCK_ALL_MAIN_ACTOR",
@@ -368,7 +368,7 @@
       "Name": "Greetings",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_UNLOCK_ALL_MELEEWEAPON",
@@ -376,7 +376,7 @@
       "Name": "Weapon Expert",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL_SKILL",
@@ -384,7 +384,7 @@
       "Name": "Survival Expert",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UNLOCK_ALL_TECHGEAR",
@@ -392,7 +392,7 @@
       "Name": "Win by Surprise",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL_XZX_DIRAY",
@@ -400,7 +400,7 @@
       "Name": "Thoughts",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
@@ -408,7 +408,7 @@
       "Name": "Every little bit counts",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 8428
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_UNLOCK_MANY_CARDS",
@@ -416,7 +416,7 @@
       "Name": "Memento",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2580
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_UNLOCK_SKILL",
@@ -424,7 +424,7 @@
       "Name": "Growth",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 7396
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_UNPLUG_EBRAIN",
@@ -432,7 +432,7 @@
       "Name": "Revenge",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 5332
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_WATCH_DEVELOPERSLIST",
@@ -440,7 +440,7 @@
       "Name": "Encore",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WEILONG_NANOKILL",
@@ -448,7 +448,7 @@
       "Name": "Neutralize",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2064
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_XFGZ_FALL_SEABASE",
@@ -456,7 +456,7 @@
       "Name": "Victor\u0027s Prejudice",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3010
+      "UsersEstimate": 30
     }
   ],
   "Tags": [],
@@ -487,13 +487,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-04T22:24:17.3188205+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:07.1597124+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 86,
-  "LastUpdate_Achievements": "2023-05-04T22:24:17.3188687+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:40.6991923+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:07.1597608+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:23.193901+00:00",
   "AchievementSets": [
     {
       "ID": "6d82akp",
@@ -508,7 +508,7 @@
   "FirstSeen": "2022-07-31T13:02:19.3173376+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 250,

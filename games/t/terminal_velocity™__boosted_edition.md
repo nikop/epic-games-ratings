@@ -3,15 +3,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Destruction Derby | 100.00% | ~100 |
-| Getting started air | 100.00% | ~100 |
-| Getting started ground | 100.00% | ~100 |
-| Its not a car | 100.00% | ~100 |
-| Look I can fly! | 100.00% | ~100 |
-| Picking up momentum air | 100.00% | ~100 |
-| Picking up momentum ground | 100.00% | ~100 |
-| Tube Hunter | 100.00% | ~100 |
-| You are special | 100.00% | ~100 |
+| Destruction Derby | 100.00% | ~1 |
+| Getting started air | 100.00% | ~1 |
+| Getting started ground | 100.00% | ~1 |
+| Its not a car | 100.00% | ~1 |
+| Look I can fly! | 100.00% | ~1 |
+| Picking up momentum air | 100.00% | ~1 |
+| Picking up momentum ground | 100.00% | ~1 |
+| Tube Hunter | 100.00% | ~1 |
+| You are special | 100.00% | ~1 |
 | All in a days job air | 0.00% | ~0 |
 | All in a days job ground | 0.00% | ~0 |
 | Are you kidding! | 0.00% | ~0 |

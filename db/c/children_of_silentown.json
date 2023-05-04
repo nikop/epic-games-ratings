@@ -8,7 +8,7 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 7722
+      "UsersEstimate": 77
     },
     {
       "ID": "Cat",
@@ -16,7 +16,7 @@
       "Name": "Cat",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 4719
+      "UsersEstimate": 47
     },
     {
       "ID": "Cellar",
@@ -24,7 +24,7 @@
       "Name": "Glass shards",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6292
+      "UsersEstimate": 63
     },
     {
       "ID": "DogHair",
@@ -32,7 +32,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 8294
+      "UsersEstimate": 83
     },
     {
       "ID": "Doll",
@@ -40,7 +40,7 @@
       "Name": "Doll",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 5148
+      "UsersEstimate": 51
     },
     {
       "ID": "Ending1",
@@ -48,7 +48,7 @@
       "Name": "Children",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 3146
+      "UsersEstimate": 31
     },
     {
       "ID": "Ending2",
@@ -56,7 +56,7 @@
       "Name": "Back Home",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 1716
+      "UsersEstimate": 17
     },
     {
       "ID": "Ending3",
@@ -64,7 +64,7 @@
       "Name": "Forest Howl",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1430
+      "UsersEstimate": 14
     },
     {
       "ID": "Ending4",
@@ -72,7 +72,7 @@
       "Name": "Hope",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 858
+      "UsersEstimate": 9
     },
     {
       "ID": "Footprint",
@@ -80,7 +80,7 @@
       "Name": "Mysterious footprints",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 6149
+      "UsersEstimate": 61
     },
     {
       "ID": "Friend",
@@ -88,7 +88,7 @@
       "Name": "Friend",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1430
+      "UsersEstimate": 14
     },
     {
       "ID": "FriendDoor",
@@ -96,7 +96,7 @@
       "Name": "Complicated padlock",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 6149
+      "UsersEstimate": 61
     },
     {
       "ID": "Furball",
@@ -112,7 +112,7 @@
       "Name": "Mysterious paintings",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 4433
+      "UsersEstimate": 44
     },
     {
       "ID": "HugeSnail",
@@ -120,7 +120,7 @@
       "Name": "Huge Snail",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2145
+      "UsersEstimate": 21
     },
     {
       "ID": "Mirror",
@@ -128,7 +128,7 @@
       "Name": "Egghead Lucy",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 10725
+      "UsersEstimate": 107
     },
     {
       "ID": "Offroad",
@@ -136,7 +136,7 @@
       "Name": "Flower of hope",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 2002
+      "UsersEstimate": 20
     },
     {
       "ID": "Puppy",
@@ -144,7 +144,7 @@
       "Name": "Puppy",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 8723
+      "UsersEstimate": 87
     },
     {
       "ID": "SchoolRuler",
@@ -152,7 +152,7 @@
       "Name": "Big metal ruler",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 6006
+      "UsersEstimate": 60
     },
     {
       "ID": "Secret",
@@ -160,7 +160,7 @@
       "Name": "Old kettle",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 1287
+      "UsersEstimate": 13
     },
     {
       "ID": "Spyglass",
@@ -168,7 +168,7 @@
       "Name": "Spyglass",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 11869
+      "UsersEstimate": 119
     },
     {
       "ID": "Toy",
@@ -176,7 +176,7 @@
       "Name": "Broken toy",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 11011
+      "UsersEstimate": 110
     },
     {
       "ID": "Trinket",
@@ -184,7 +184,7 @@
       "Name": "Lucky charm",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 13013
+      "UsersEstimate": 130
     },
     {
       "ID": "Trumpet",
@@ -192,7 +192,7 @@
       "Name": "Trumpet",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 12727
+      "UsersEstimate": 127
     },
     {
       "ID": "Well",
@@ -200,7 +200,7 @@
       "Name": "Depths of the well",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3146
+      "UsersEstimate": 31
     },
     {
       "ID": "Windmill",
@@ -208,7 +208,7 @@
       "Name": "Windmill",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 5148
+      "UsersEstimate": 51
     }
   ],
   "Tags": [],
@@ -234,13 +234,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 26,
-  "LastChanged_Achievements": "2023-05-04T22:24:56.5604123+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:46.3120047+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 143,
-  "LastUpdate_Achievements": "2023-05-04T22:24:56.560431+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:04.1014656+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:46.312024+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:44.8746648+00:00",
   "AchievementSets": [
     {
       "ID": "9kk0gal",
@@ -255,7 +255,7 @@
   "FirstSeen": "2023-01-11T22:57:22.4743186+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 237,

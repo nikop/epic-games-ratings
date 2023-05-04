@@ -3,19 +3,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Virus From Outer Space | 50.00% | ~100 |
-| Big Science | 50.00% | ~100 |
-| Born, Never Asked | 50.00% | ~100 |
-| Closed Circuits | 50.00% | ~100 |
-| Difficult Hour | 50.00% | ~100 |
-| Let X=X | 50.00% | ~100 |
-| Looking For You | 50.00% | ~100 |
-| O, Superman | 50.00% | ~100 |
-| Say Hello | 50.00% | ~100 |
-| The Mailman's Nightmare | 50.00% | ~100 |
-| Violin Solo | 50.00% | ~100 |
-| Violin Walk | 50.00% | ~100 |
-| Walking And Falling | 50.00% | ~100 |
+| A Virus From Outer Space | 50.00% | ~1 |
+| Big Science | 50.00% | ~1 |
+| Born, Never Asked | 50.00% | ~1 |
+| Closed Circuits | 50.00% | ~1 |
+| Difficult Hour | 50.00% | ~1 |
+| Let X=X | 50.00% | ~1 |
+| Looking For You | 50.00% | ~1 |
+| O, Superman | 50.00% | ~1 |
+| Say Hello | 50.00% | ~1 |
+| The Mailman's Nightmare | 50.00% | ~1 |
+| Violin Solo | 50.00% | ~1 |
+| Violin Walk | 50.00% | ~1 |
+| Walking And Falling | 50.00% | ~1 |
 | Dance Of Electricity | 0.00% | ~0 |
 | Finnish Farmers | 0.00% | ~0 |
 | From The Air | 0.00% | ~0 |

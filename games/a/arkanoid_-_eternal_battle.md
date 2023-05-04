@@ -3,28 +3,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Final square (Eternal Battle) | 100.00% | ~500 |
-| I'll be back | 80.00% | ~400 |
-| Victory Royale | 60.00% | ~300 |
-| Combo Pro | 40.00% | ~200 |
-| Business Acumen | 40.00% | ~200 |
-| Chain Reaction | 40.00% | ~200 |
-| Sound Barrier | 40.00% | ~200 |
-| Legend | 20.00% | ~100 |
-| Champion | 20.00% | ~100 |
-| Flawless Round | 20.00% | ~100 |
-| Neo Victory | 20.00% | ~100 |
-| Arcade Room King | 20.00% | ~100 |
-| Versus Victory | 20.00% | ~100 |
-| Sense of Priorities | 20.00% | ~100 |
-| Juggler | 20.00% | ~100 |
-| Expert | 20.00% | ~100 |
-| Final chance | 20.00% | ~100 |
-| Pro | 20.00% | ~100 |
-| Semi-pro | 20.00% | ~100 |
-| Collector | 20.00% | ~100 |
-| Purist | 20.00% | ~100 |
-| Insatiable | 20.00% | ~100 |
+| Final square (Eternal Battle) | 100.00% | ~5 |
+| I'll be back | 80.00% | ~4 |
+| Victory Royale | 60.00% | ~3 |
+| Combo Pro | 40.00% | ~2 |
+| Business Acumen | 40.00% | ~2 |
+| Chain Reaction | 40.00% | ~2 |
+| Sound Barrier | 40.00% | ~2 |
+| Legend | 20.00% | ~1 |
+| Champion | 20.00% | ~1 |
+| Flawless Round | 20.00% | ~1 |
+| Neo Victory | 20.00% | ~1 |
+| Arcade Room King | 20.00% | ~1 |
+| Versus Victory | 20.00% | ~1 |
+| Sense of Priorities | 20.00% | ~1 |
+| Juggler | 20.00% | ~1 |
+| Expert | 20.00% | ~1 |
+| Final chance | 20.00% | ~1 |
+| Pro | 20.00% | ~1 |
+| Semi-pro | 20.00% | ~1 |
+| Collector | 20.00% | ~1 |
+| Purist | 20.00% | ~1 |
+| Insatiable | 20.00% | ~1 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 322)  

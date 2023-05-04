@@ -3,18 +3,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 75.00% | ~900 |
-| Constructor | 75.00% | ~900 |
-| Happy Ending | 75.00% | ~900 |
-| 10 is good! | 50.00% | ~600 |
-| 1 Hour! | 50.00% | ~600 |
-| One-quarter mark | 33.00% | ~396 |
-| 10 Hours! | 17.00% | ~204 |
-| Half way! | 17.00% | ~204 |
-| Almost there! | 17.00% | ~204 |
-| You did it! | 17.00% | ~204 |
-| 5 Hours! | 17.00% | ~204 |
-| I can't stop playing! | 8.00% | ~96 |
+| Good Start | 75.00% | ~9 |
+| Constructor | 75.00% | ~9 |
+| Happy Ending | 75.00% | ~9 |
+| 10 is good! | 50.00% | ~6 |
+| 1 Hour! | 50.00% | ~6 |
+| One-quarter mark | 33.00% | ~4 |
+| 10 Hours! | 17.00% | ~2 |
+| Half way! | 17.00% | ~2 |
+| Almost there! | 17.00% | ~2 |
+| You did it! | 17.00% | ~2 |
+| 5 Hours! | 17.00% | ~2 |
+| I can't stop playing! | 8.00% | ~1 |
 | Keep Going | 0.00% | ~0 |
 | Chain Mode | 0.00% | ~0 |
 | Pop Mode | 0.00% | ~0 |

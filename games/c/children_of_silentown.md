@@ -3,31 +3,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 91.00% | ~13,013 |
-| Trumpet | 89.00% | ~12,727 |
-| Spyglass | 83.00% | ~11,869 |
-| Broken toy | 77.00% | ~11,011 |
-| Egghead Lucy | 75.00% | ~10,725 |
-| Puppy | 61.00% | ~8,723 |
-| Coal's fur | 58.00% | ~8,294 |
-| Blue's drawing | 54.00% | ~7,722 |
-| Glass shards | 44.00% | ~6,292 |
-| Mysterious footprints | 43.00% | ~6,149 |
-| Complicated padlock | 43.00% | ~6,149 |
-| Big metal ruler | 42.00% | ~6,006 |
-| Doll | 36.00% | ~5,148 |
-| Windmill | 36.00% | ~5,148 |
-| Cat | 33.00% | ~4,719 |
-| Mysterious paintings | 31.00% | ~4,433 |
-| Children | 22.00% | ~3,146 |
-| Depths of the well | 22.00% | ~3,146 |
-| Huge Snail | 15.00% | ~2,145 |
-| Flower of hope | 14.00% | ~2,002 |
-| Back Home | 12.00% | ~1,716 |
-| Forest Howl | 10.00% | ~1,430 |
-| Friend | 10.00% | ~1,430 |
-| Old kettle | 9.00% | ~1,287 |
-| Hope | 6.00% | ~858 |
+| Lucky charm | 91.00% | ~130 |
+| Trumpet | 89.00% | ~127 |
+| Spyglass | 83.00% | ~119 |
+| Broken toy | 77.00% | ~110 |
+| Egghead Lucy | 75.00% | ~107 |
+| Puppy | 61.00% | ~87 |
+| Coal's fur | 58.00% | ~83 |
+| Blue's drawing | 54.00% | ~77 |
+| Glass shards | 44.00% | ~63 |
+| Mysterious footprints | 43.00% | ~61 |
+| Complicated padlock | 43.00% | ~61 |
+| Big metal ruler | 42.00% | ~60 |
+| Doll | 36.00% | ~51 |
+| Windmill | 36.00% | ~51 |
+| Cat | 33.00% | ~47 |
+| Mysterious paintings | 31.00% | ~44 |
+| Children | 22.00% | ~31 |
+| Depths of the well | 22.00% | ~31 |
+| Huge Snail | 15.00% | ~21 |
+| Flower of hope | 14.00% | ~20 |
+| Back Home | 12.00% | ~17 |
+| Forest Howl | 10.00% | ~14 |
+| Friend | 10.00% | ~14 |
+| Old kettle | 9.00% | ~13 |
+| Hope | 6.00% | ~9 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 143 (Ranked 237)  

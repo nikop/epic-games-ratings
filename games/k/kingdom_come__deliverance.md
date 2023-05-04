@@ -9,88 +9,88 @@ Diff (max vs sum): 2
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~24,165,988 |
-| Cavalier | 25.00% | ~19,488,700 |
-| Fatso | 23.00% | ~17,929,604 |
-| Awakening | 20.00% | ~15,590,960 |
-| Ranger | 20.00% | ~15,590,960 |
-| Scrooge | 20.00% | ~15,590,960 |
-| Anorectic | 16.00% | ~12,472,768 |
-| Firestarter | 15.00% | ~11,693,220 |
-| Bookworm | 14.00% | ~10,913,672 |
-| Insomniac | 13.00% | ~10,134,124 |
-| Buddy | 11.00% | ~8,575,028 |
-| Sinner | 11.00% | ~8,575,028 |
-| Thief | 11.00% | ~8,575,028 |
-| Convict | 10.00% | ~7,795,480 |
-| Traveller | 10.00% | ~7,795,480 |
-| Haggler | 9.00% | ~7,015,932 |
-| Runt | 7.00% | ~5,456,836 |
-| Casanova | 6.00% | ~4,677,288 |
-| McLovin | 6.00% | ~4,677,288 |
-| Bad Trip | 5.00% | ~3,897,740 |
-| Monk | 5.00% | ~3,897,740 |
-| Serial Killer | 5.00% | ~3,897,740 |
-| Bastard | 4.00% | ~3,118,192 |
-| Hunter | 4.00% | ~3,118,192 |
-| Plague Doctor | 4.00% | ~3,118,192 |
-| Bard | 3.00% | ~2,338,644 |
-| Conqueror | 3.00% | ~2,338,644 |
-| Ginger in a Pickle | 3.00% | ~2,338,644 |
-| Kingdom did not come | 3.00% | ~2,338,644 |
-| Completionist | 2.00% | ~1,559,096 |
-| Death by splinter | 2.00% | ~1,559,096 |
-| King Charming | 2.00% | ~1,559,096 |
-| Knightrider | 2.00% | ~1,559,096 |
-| Level Cap | 2.00% | ~1,559,096 |
-| Arena Master | 2.00% | ~1,559,096 |
-| Robber Baron | 2.00% | ~1,559,096 |
-| Talmberger | 2.00% | ~1,559,096 |
-| The End | 2.00% | ~1,559,096 |
-| Woman's Lot | 1.00% | ~779,548 |
-| Chivalrous Soul | 1.00% | ~779,548 |
-| Freud | 1.00% | ~779,548 |
-| Gambler | 1.00% | ~779,548 |
-| Master Huntsman | 1.00% | ~779,548 |
-| Stealth Killer | 1.00% | ~779,548 |
-| Spoilsport | 0.90% | ~701,593 |
-| Bailiff | 0.80% | ~623,638 |
-| Tracker | 0.80% | ~623,638 |
-| David Horak | 0.70% | ~545,684 |
-| Mercenary's Honour | 0.70% | ~545,684 |
-| Saviour | 0.70% | ~545,684 |
-| Edward Kelly | 0.60% | ~467,729 |
-| Fighter | 0.60% | ~467,729 |
-| I Can Quit Anytime | 0.40% | ~311,819 |
-| Perfectionist | 0.40% | ~311,819 |
-| Alcoholic | 0.30% | ~233,864 |
-| Sniper | 0.30% | ~233,864 |
-| Angel of Mercy | 0.20% | ~155,910 |
-| Christian Burial | 0.20% | ~155,910 |
-| Friends without benefits | 0.20% | ~155,910 |
-| Game Over | 0.20% | ~155,910 |
-| Not-so-Christian Burial | 0.20% | ~155,910 |
-| True Friend | 0.20% | ~155,910 |
-| Bad Girl | 0.10% | ~77,955 |
-| Cleric's pet | 0.10% | ~77,955 |
-| Full House Sinner | 0.10% | ~77,955 |
-| Lord Capon's Ghost | 0.10% | ~77,955 |
-| Hardcore Henry | 0.10% | ~77,955 |
-| Infernal Justice | 0.10% | ~77,955 |
-| Judas | 0.10% | ~77,955 |
-| Like a Ghost | 0.10% | ~77,955 |
-| Lost Trinket | 0.10% | ~77,955 |
-| Merciful | 0.10% | ~77,955 |
-| You had one job! | 0.10% | ~77,955 |
-| Pilgrim | 0.10% | ~77,955 |
-| Pinky Promis | 0.10% | ~77,955 |
-| Ledetchko Revenant | 0.10% | ~77,955 |
-| 'Tis but a scratch | 0.10% | ~77,955 |
-| Torturer | 0.10% | ~77,955 |
-| Trial-And-Error | 0.10% | ~77,955 |
-| Virgin | 0.10% | ~77,955 |
-| Voyeur | 0.10% | ~77,955 |
-| Wingman | 0.10% | ~77,955 |
+| Blacksmith's Son | 31.00% | ~241,660 |
+| Cavalier | 25.00% | ~194,887 |
+| Fatso | 23.00% | ~179,296 |
+| Awakening | 20.00% | ~155,910 |
+| Ranger | 20.00% | ~155,910 |
+| Scrooge | 20.00% | ~155,910 |
+| Anorectic | 16.00% | ~124,728 |
+| Firestarter | 15.00% | ~116,932 |
+| Bookworm | 14.00% | ~109,137 |
+| Insomniac | 13.00% | ~101,341 |
+| Buddy | 11.00% | ~85,750 |
+| Sinner | 11.00% | ~85,750 |
+| Thief | 11.00% | ~85,750 |
+| Convict | 10.00% | ~77,955 |
+| Traveller | 10.00% | ~77,955 |
+| Haggler | 9.00% | ~70,159 |
+| Runt | 7.00% | ~54,568 |
+| Casanova | 6.00% | ~46,773 |
+| McLovin | 6.00% | ~46,773 |
+| Bad Trip | 5.00% | ~38,977 |
+| Monk | 5.00% | ~38,977 |
+| Serial Killer | 5.00% | ~38,977 |
+| Bastard | 4.00% | ~31,182 |
+| Hunter | 4.00% | ~31,182 |
+| Plague Doctor | 4.00% | ~31,182 |
+| Bard | 3.00% | ~23,386 |
+| Conqueror | 3.00% | ~23,386 |
+| Ginger in a Pickle | 3.00% | ~23,386 |
+| Kingdom did not come | 3.00% | ~23,386 |
+| Completionist | 2.00% | ~15,591 |
+| Death by splinter | 2.00% | ~15,591 |
+| King Charming | 2.00% | ~15,591 |
+| Knightrider | 2.00% | ~15,591 |
+| Level Cap | 2.00% | ~15,591 |
+| Arena Master | 2.00% | ~15,591 |
+| Robber Baron | 2.00% | ~15,591 |
+| Talmberger | 2.00% | ~15,591 |
+| The End | 2.00% | ~15,591 |
+| Woman's Lot | 1.00% | ~7,795 |
+| Chivalrous Soul | 1.00% | ~7,795 |
+| Freud | 1.00% | ~7,795 |
+| Gambler | 1.00% | ~7,795 |
+| Master Huntsman | 1.00% | ~7,795 |
+| Stealth Killer | 1.00% | ~7,795 |
+| Spoilsport | 0.90% | ~7,016 |
+| Bailiff | 0.80% | ~6,236 |
+| Tracker | 0.80% | ~6,236 |
+| David Horak | 0.70% | ~5,457 |
+| Mercenary's Honour | 0.70% | ~5,457 |
+| Saviour | 0.70% | ~5,457 |
+| Edward Kelly | 0.60% | ~4,677 |
+| Fighter | 0.60% | ~4,677 |
+| I Can Quit Anytime | 0.40% | ~3,118 |
+| Perfectionist | 0.40% | ~3,118 |
+| Alcoholic | 0.30% | ~2,339 |
+| Sniper | 0.30% | ~2,339 |
+| Angel of Mercy | 0.20% | ~1,559 |
+| Christian Burial | 0.20% | ~1,559 |
+| Friends without benefits | 0.20% | ~1,559 |
+| Game Over | 0.20% | ~1,559 |
+| Not-so-Christian Burial | 0.20% | ~1,559 |
+| True Friend | 0.20% | ~1,559 |
+| Bad Girl | 0.10% | ~780 |
+| Cleric's pet | 0.10% | ~780 |
+| Full House Sinner | 0.10% | ~780 |
+| Lord Capon's Ghost | 0.10% | ~780 |
+| Hardcore Henry | 0.10% | ~780 |
+| Infernal Justice | 0.10% | ~780 |
+| Judas | 0.10% | ~780 |
+| Like a Ghost | 0.10% | ~780 |
+| Lost Trinket | 0.10% | ~780 |
+| Merciful | 0.10% | ~780 |
+| You had one job! | 0.10% | ~780 |
+| Pilgrim | 0.10% | ~780 |
+| Pinky Promis | 0.10% | ~780 |
+| Ledetchko Revenant | 0.10% | ~780 |
+| 'Tis but a scratch | 0.10% | ~780 |
+| Torturer | 0.10% | ~780 |
+| Trial-And-Error | 0.10% | ~780 |
+| Virgin | 0.10% | ~780 |
+| Voyeur | 0.10% | ~780 |
+| Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 779,548 (Ranked 11)  
 Completed: 38 (0.00%) (Ranked 191)  

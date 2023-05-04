@@ -8,7 +8,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 126200
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_BONFIRES",
@@ -16,7 +16,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 189300
+      "UsersEstimate": 1893
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -24,7 +24,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 50480
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -32,7 +32,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 63100
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -40,7 +40,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 18930
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -48,7 +48,7 @@
       "Name": "Ear Ringing",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 6310
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_FLASHCREATURE",
@@ -56,7 +56,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 18930
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -64,7 +64,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 37860
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -72,7 +72,7 @@
       "Name": "Let there be light",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 25240
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_MATCHES",
@@ -80,7 +80,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 63100
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -88,7 +88,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 31550
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -96,7 +96,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 126200
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -104,7 +104,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 18930
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -112,7 +112,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 37860
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_READCLUES",
@@ -120,7 +120,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 63100
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -128,7 +128,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 37860
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -136,7 +136,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 63100
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_STAMINA",
@@ -144,7 +144,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 252400
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -152,7 +152,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 126200
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_TOOLS",
@@ -160,7 +160,7 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 189300
+      "UsersEstimate": 1893
     }
   ],
   "Tags": [],
@@ -1182,13 +1182,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:24:17.9121843+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:07.7866486+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 294,
   "EOS_Completed": 10,
   "EOS_Progressed": 63100,
-  "LastUpdate_Achievements": "2023-05-04T22:24:17.9122144+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:56.6093051+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:07.7866681+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:40.0554048+00:00",
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
@@ -1203,8 +1203,8 @@
   "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 64,
   "Ranking_PopularitySum": 490,

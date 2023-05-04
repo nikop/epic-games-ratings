@@ -3,52 +3,52 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 61.00% | ~8,052 |
-| I like parks | 47.00% | ~6,204 |
-| The spiritual world... | 27.00% | ~3,564 |
-| Sport is good for you | 26.00% | ~3,432 |
-| It is nice to share with friends in the city | 25.00% | ~3,300 |
-| The woodcutter | 24.00% | ~3,168 |
-| I like books | 20.00% | ~2,640 |
-| I like my life | 20.00% | ~2,640 |
-| Clean energy | 20.00% | ~2,640 |
-| Soviet town | 15.00% | ~1,980 |
-| Bucolic city | 14.00% | ~1,848 |
-| King of fish | 12.00% | ~1,584 |
-| I love books! | 11.00% | ~1,452 |
-| I love parks | 11.00% | ~1,452 |
-| What would we do if we can't go out with friends? | 10.00% | ~1,320 |
-| Food producer | 8.00% | ~1,056 |
-| Metropolurbek | 8.00% | ~1,056 |
-| I am very happy! | 6.00% | ~792 |
-| Sport is the best thing | 5.00% | ~660 |
-| Read! Everyone should read! | 4.00% | ~528 |
-| Little Mayor | 4.00% | ~528 |
-| Banking city | 3.00% | ~396 |
-| Rebel city | 3.00% | ~396 |
-| Temperate builder | 3.00% | ~396 |
-| Anarchist Utopia | 2.00% | ~264 |
-| Archipelago builder | 2.00% | ~264 |
-| Archipelago urban planner | 2.00% | ~264 |
-| Food provider master | 2.00% | ~264 |
-| What is there after death? | 2.00% | ~264 |
-| Perfect city | 2.00% | ~264 |
-| Oh, I love parks, listening to birds! | 2.00% | ~264 |
-| Freedom to go to the mall! | 2.00% | ~264 |
-| Town planner | 2.00% | ~264 |
-| Temperate urban planner | 2.00% | ~264 |
-| Anarchist paradise | 0.80% | ~106 |
-| I can't see the sky | 0.80% | ~106 |
-| Urban style | 0.80% | ~106 |
-| City crisis | 0.80% | ~106 |
-| Desert builder | 0.80% | ~106 |
-| Desert urban planner | 0.80% | ~106 |
-| Farming Frenzy | 0.80% | ~106 |
-| I don't feel well, I have to drink a coffe | 0.80% | ~106 |
-| Metropolurbek Plus | 0.80% | ~106 |
-| City in flames | 0.80% | ~106 |
-| Restorer | 0.80% | ~106 |
-| Full temperate | 0.80% | ~106 |
+| Small town | 61.00% | ~81 |
+| I like parks | 47.00% | ~62 |
+| The spiritual world... | 27.00% | ~36 |
+| Sport is good for you | 26.00% | ~34 |
+| It is nice to share with friends in the city | 25.00% | ~33 |
+| The woodcutter | 24.00% | ~32 |
+| I like books | 20.00% | ~26 |
+| I like my life | 20.00% | ~26 |
+| Clean energy | 20.00% | ~26 |
+| Soviet town | 15.00% | ~20 |
+| Bucolic city | 14.00% | ~18 |
+| King of fish | 12.00% | ~16 |
+| I love books! | 11.00% | ~15 |
+| I love parks | 11.00% | ~15 |
+| What would we do if we can't go out with friends? | 10.00% | ~13 |
+| Food producer | 8.00% | ~11 |
+| Metropolurbek | 8.00% | ~11 |
+| I am very happy! | 6.00% | ~8 |
+| Sport is the best thing | 5.00% | ~7 |
+| Read! Everyone should read! | 4.00% | ~5 |
+| Little Mayor | 4.00% | ~5 |
+| Banking city | 3.00% | ~4 |
+| Rebel city | 3.00% | ~4 |
+| Temperate builder | 3.00% | ~4 |
+| Anarchist Utopia | 2.00% | ~3 |
+| Archipelago builder | 2.00% | ~3 |
+| Archipelago urban planner | 2.00% | ~3 |
+| Food provider master | 2.00% | ~3 |
+| What is there after death? | 2.00% | ~3 |
+| Perfect city | 2.00% | ~3 |
+| Oh, I love parks, listening to birds! | 2.00% | ~3 |
+| Freedom to go to the mall! | 2.00% | ~3 |
+| Town planner | 2.00% | ~3 |
+| Temperate urban planner | 2.00% | ~3 |
+| Anarchist paradise | 0.80% | ~1 |
+| I can't see the sky | 0.80% | ~1 |
+| Urban style | 0.80% | ~1 |
+| City crisis | 0.80% | ~1 |
+| Desert builder | 0.80% | ~1 |
+| Desert urban planner | 0.80% | ~1 |
+| Farming Frenzy | 0.80% | ~1 |
+| I don't feel well, I have to drink a coffe | 0.80% | ~1 |
+| Metropolurbek Plus | 0.80% | ~1 |
+| City in flames | 0.80% | ~1 |
+| Restorer | 0.80% | ~1 |
+| Full temperate | 0.80% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |

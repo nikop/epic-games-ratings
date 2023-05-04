@@ -4,17 +4,17 @@ Rating: 4.20 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| “Occupied!“ | 13.00% | ~20,137 |
-| Worlds best dad. | 12.00% | ~18,588 |
-| Resignation Reprise. | 8.00% | ~12,392 |
-| War of the worlds. | 6.00% | ~9,294 |
-| Resignation. | 5.00% | ~7,745 |
-| Admiring the view. | 5.00% | ~7,745 |
-| Blues Jam. | 3.00% | ~4,647 |
-| Family First. | 3.00% | ~4,647 |
-| Understanding. | 3.00% | ~4,647 |
-| “Here boy…" | 2.00% | ~3,098 |
-| First contact. | 0.50% | ~774 |
+| “Occupied!“ | 13.00% | ~201 |
+| Worlds best dad. | 12.00% | ~186 |
+| Resignation Reprise. | 8.00% | ~124 |
+| War of the worlds. | 6.00% | ~93 |
+| Resignation. | 5.00% | ~77 |
+| Admiring the view. | 5.00% | ~77 |
+| Blues Jam. | 3.00% | ~46 |
+| Family First. | 3.00% | ~46 |
+| Understanding. | 3.00% | ~46 |
+| “Here boy…" | 2.00% | ~31 |
+| First contact. | 0.50% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,549 (Ranked 147)  
 Completed: 25 (1.61%) (Ranked 62)  

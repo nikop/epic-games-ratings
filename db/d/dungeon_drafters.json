@@ -8,7 +8,7 @@
       "Name": "The Bodyguard",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "GL_complete",
@@ -16,7 +16,7 @@
       "Name": "The Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "InnkeeperQuestlineFirst",
@@ -24,7 +24,7 @@
       "Name": "Treasure Hunting",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 8
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -32,7 +32,7 @@
       "Name": "Braving Miasma",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "InnkeeperQuestlineThird",
@@ -40,7 +40,7 @@
       "Name": "Dungeon Mastery",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "LW_complete",
@@ -48,7 +48,7 @@
       "Name": "The Familiar",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MC_complete",
@@ -56,7 +56,7 @@
       "Name": "The Steed",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MGR_complete",
@@ -64,7 +64,7 @@
       "Name": "Ancient Nemesis",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterOracleQuestlineFirst",
@@ -72,7 +72,7 @@
       "Name": "Riddlesolver",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -80,7 +80,7 @@
       "Name": "Best Pupil",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterOracleQuestlineThird",
@@ -88,7 +88,7 @@
       "Name": "Oracle Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterRaiderQuestlineFirst",
@@ -96,7 +96,7 @@
       "Name": "Friend!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -104,7 +104,7 @@
       "Name": "FOR JUSTICE!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterRaiderQuestlineThird",
@@ -112,7 +112,7 @@
       "Name": "Raider Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterTravelerQuestlineFirst",
@@ -120,7 +120,7 @@
       "Name": "Setting Off",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 7
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -128,7 +128,7 @@
       "Name": "Journey\u2019s End",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterTravelerQuestlineThird",
@@ -136,7 +136,7 @@
       "Name": "Traveler Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterWardenQuestlineFirst",
@@ -144,7 +144,7 @@
       "Name": "Uncut Gem",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 7
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -152,7 +152,7 @@
       "Name": "Masterpiece",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterWardenQuestlineThird",
@@ -160,7 +160,7 @@
       "Name": "Warden Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "StrangerQuestlineFirst",
@@ -168,7 +168,7 @@
       "Name": "A Strange Proposition",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -176,7 +176,7 @@
       "Name": "Towards the Future",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "StrangerQuestlineThird",
@@ -184,7 +184,7 @@
       "Name": "The Plot Thickens",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "all_curios",
@@ -192,7 +192,7 @@
       "Name": "Trinket Enthusiast",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "any_curio",
@@ -200,7 +200,7 @@
       "Name": "Might be useful\u2026",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 800
+      "UsersEstimate": 8
     },
     {
       "ID": "bad_ending",
@@ -208,7 +208,7 @@
       "Name": "The New Demon Lord",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "bought_rune_clear",
@@ -216,7 +216,7 @@
       "Name": "Clear as Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "cards_discovered_complete",
@@ -224,7 +224,7 @@
       "Name": "Card Completionist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "cards_discovered_half",
@@ -232,7 +232,7 @@
       "Name": "Card Collector",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "demiurge_defeated",
@@ -240,7 +240,7 @@
       "Name": "The Usurper",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "foil_card",
@@ -248,7 +248,7 @@
       "Name": "Shine!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 500
+      "UsersEstimate": 5
     },
     {
       "ID": "git_gud?",
@@ -256,7 +256,7 @@
       "Name": "First time?",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "harmony_rune",
@@ -264,7 +264,7 @@
       "Name": "Harmony",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "madking_free",
@@ -280,7 +280,7 @@
       "Name": "Sealed Once Again",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "perfect_ending",
@@ -288,7 +288,7 @@
       "Name": "A New Tomorrow",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "portaltraveler_mirrors",
@@ -296,7 +296,7 @@
       "Name": "ACHOO!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "scavanger_curios",
@@ -304,7 +304,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "thanks_but_why?",
@@ -320,7 +320,7 @@
       "Name": "Gladiator",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -411,13 +411,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:24:23.9331414+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:13.9035724+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
   "EOS_Progressed": 20,
-  "LastUpdate_Achievements": "2023-05-04T22:24:23.9331934+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:44.1232345+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:13.9036028+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:28.1870896+00:00",
   "AchievementSets": [
     {
       "ID": "3b8n56h",
@@ -432,7 +432,7 @@
   "FirstSeen": "2023-04-29T19:56:51.5139174+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 294,

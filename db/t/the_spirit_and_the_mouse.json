@@ -8,7 +8,7 @@
       "Name": "Take a break",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 1
     },
     {
       "ID": "brokenbox",
@@ -16,7 +16,7 @@
       "Name": "Out of service",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 7
     },
     {
       "ID": "energy050",
@@ -24,7 +24,7 @@
       "Name": "Energy Seeker",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 6300
+      "UsersEstimate": 63
     },
     {
       "ID": "energy1500",
@@ -32,7 +32,7 @@
       "Name": "Unlimited Power!!",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1470
+      "UsersEstimate": 15
     },
     {
       "ID": "energy250",
@@ -40,7 +40,7 @@
       "Name": "Energy Collector",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4970
+      "UsersEstimate": 50
     },
     {
       "ID": "energy800",
@@ -48,7 +48,7 @@
       "Name": "Energy Expert",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3010
+      "UsersEstimate": 30
     },
     {
       "ID": "gadx",
@@ -56,7 +56,7 @@
       "Name": "The GA-DX",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 3
     },
     {
       "ID": "grilledmouse",
@@ -64,7 +64,7 @@
       "Name": "Grilled Mouse",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5880
+      "UsersEstimate": 59
     },
     {
       "ID": "kibblinbox.all",
@@ -72,7 +72,7 @@
       "Name": "At your service",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 910
+      "UsersEstimate": 9
     },
     {
       "ID": "lightbulbs.all",
@@ -80,7 +80,7 @@
       "Name": "Lightbulb Master",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 630
+      "UsersEstimate": 6
     },
     {
       "ID": "lightbulbs.east",
@@ -88,7 +88,7 @@
       "Name": "East Street Lightbulbs",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 7
     },
     {
       "ID": "lightbulbs.north",
@@ -96,7 +96,7 @@
       "Name": "North Town Lightbulbs",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 630
+      "UsersEstimate": 6
     },
     {
       "ID": "lightbulbs.south",
@@ -104,7 +104,7 @@
       "Name": "South Square Lightbulbs",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 12
     },
     {
       "ID": "lightbulbs.west",
@@ -112,7 +112,7 @@
       "Name": "West Residence Lightbulbs",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 9
     },
     {
       "ID": "lightbulbs1",
@@ -120,7 +120,7 @@
       "Name": "Lightbulb Seeker",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 6090
+      "UsersEstimate": 61
     },
     {
       "ID": "lightbulbs10",
@@ -128,7 +128,7 @@
       "Name": "Lightbulbs Collector",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 5320
+      "UsersEstimate": 53
     },
     {
       "ID": "lightbulbs100",
@@ -136,7 +136,7 @@
       "Name": "Lightbulb Detective",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1610
+      "UsersEstimate": 16
     },
     {
       "ID": "lightbulbs50",
@@ -144,7 +144,7 @@
       "Name": "Lightbulbs Expert",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3010
+      "UsersEstimate": 30
     },
     {
       "ID": "neighenergy.east",
@@ -152,7 +152,7 @@
       "Name": "East Street Energy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 3570
+      "UsersEstimate": 36
     },
     {
       "ID": "neighenergy.north",
@@ -160,7 +160,7 @@
       "Name": "North Town Energy",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1820
+      "UsersEstimate": 18
     },
     {
       "ID": "neighenergy.south",
@@ -168,7 +168,7 @@
       "Name": "South Town Energy",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2170
+      "UsersEstimate": 22
     },
     {
       "ID": "neighenergy.west",
@@ -176,7 +176,7 @@
       "Name": "West Residence Energy",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 9
     },
     {
       "ID": "plush",
@@ -184,7 +184,7 @@
       "Name": "Deep Lore",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 5
     },
     {
       "ID": "quest001",
@@ -192,7 +192,7 @@
       "Name": "The Spirit and The Mouse",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 420
+      "UsersEstimate": 4
     },
     {
       "ID": "quest002",
@@ -200,7 +200,7 @@
       "Name": "The Old Man and the Caf\u00E9",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2870
+      "UsersEstimate": 29
     },
     {
       "ID": "quest003",
@@ -208,7 +208,7 @@
       "Name": "The Girl and the Homework",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1890
+      "UsersEstimate": 19
     },
     {
       "ID": "quest004",
@@ -216,7 +216,7 @@
       "Name": "The Painter and the Lights",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 980
+      "UsersEstimate": 10
     },
     {
       "ID": "quest005",
@@ -224,7 +224,7 @@
       "Name": "The Ghost and the Lamps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 980
+      "UsersEstimate": 10
     },
     {
       "ID": "quest006",
@@ -232,7 +232,7 @@
       "Name": "The Woman and the Pizzeria",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1120
+      "UsersEstimate": 11
     },
     {
       "ID": "quest007",
@@ -240,7 +240,7 @@
       "Name": "The Quiche and the Hair Dryer",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1610
+      "UsersEstimate": 16
     },
     {
       "ID": "quest008",
@@ -248,7 +248,7 @@
       "Name": "The Woman and the Stars",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "quest099",
@@ -256,7 +256,7 @@
       "Name": "The Garland and the Lightbulbs",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 490
+      "UsersEstimate": 5
     },
     {
       "ID": "riddles",
@@ -264,7 +264,7 @@
       "Name": "Riddle Master",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 8
     },
     {
       "ID": "shop.golden",
@@ -272,7 +272,7 @@
       "Name": "Fabulous!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 4
     },
     {
       "ID": "shop.maps",
@@ -280,7 +280,7 @@
       "Name": "Cartographer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1330
+      "UsersEstimate": 13
     },
     {
       "ID": "shop.photo",
@@ -288,7 +288,7 @@
       "Name": "Photogenic",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2030
+      "UsersEstimate": 20
     },
     {
       "ID": "shop.teleport",
@@ -296,7 +296,7 @@
       "Name": "That\u0027s one way to travel",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2870
+      "UsersEstimate": 29
     },
     {
       "ID": "sleepkb",
@@ -304,7 +304,7 @@
       "Name": "Warm Bed",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 2
     },
     {
       "ID": "squeak100",
@@ -312,7 +312,7 @@
       "Name": "OK, I heard you!!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1820
+      "UsersEstimate": 18
     },
     {
       "ID": "wireboxes.all",
@@ -320,7 +320,7 @@
       "Name": "Lightning fast",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 420
+      "UsersEstimate": 4
     }
   ],
   "Tags": [],
@@ -341,13 +341,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:24:13.5650504+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:03.4679883+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 70,
-  "LastUpdate_Achievements": "2023-05-04T22:24:13.5650837+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:34.3935022+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:03.4680169+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:16.9969481+00:00",
   "AchievementSets": [
     {
       "ID": "bbgli2k",
@@ -362,7 +362,7 @@
   "FirstSeen": "2022-10-01T10:03:03.0283812+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 259,

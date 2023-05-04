@@ -16,7 +16,7 @@
       "Name": "The Archive is Incomplete",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ARCHIVE_FOUND",
@@ -24,7 +24,7 @@
       "Name": "Master Archivist",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CIPHER_COLLECT",
@@ -32,7 +32,7 @@
       "Name": "The Cipher Way",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CRATES",
@@ -40,7 +40,7 @@
       "Name": "Cratepocalipse",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRITTERINA_RESCUE",
@@ -48,7 +48,7 @@
       "Name": "Wingman",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRITTER_RESCUE",
@@ -56,7 +56,7 @@
       "Name": "Activist",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_CULTIST_COLLECTALL",
@@ -72,7 +72,7 @@
       "Name": "The Power of... Flight?",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_HIDE_SEEK",
@@ -80,7 +80,7 @@
       "Name": "Petting Zoo",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_RITUALS_ALL",
@@ -104,7 +104,7 @@
       "Name": "Geneva Suggestion",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SHARD_2",
@@ -112,7 +112,7 @@
       "Name": "Cold Poultry",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SHARD_3",
@@ -120,7 +120,7 @@
       "Name": "Critical Infrastructure",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SIBBOLETH_ENTER",
@@ -128,7 +128,7 @@
       "Name": "Through the Heavenly Gate",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SPRINT_UNLOCKED",
@@ -136,7 +136,7 @@
       "Name": "Where\u0027s the Sprint Button?",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_STAGE2_MONUMENT",
@@ -152,7 +152,7 @@
       "Name": "What could possibly go wrong?",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_STRAWHART_DEFEAT",
@@ -160,7 +160,7 @@
       "Name": "The Bigger They Are...",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_STRAWHART_DENY",
@@ -168,7 +168,7 @@
       "Name": "Daemon Deferred",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -189,13 +189,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:24:52.1485299+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:41.8643778+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:24:52.148545+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:52.0931727+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:41.8643932+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:33.6129806+00:00",
   "AchievementSets": [
     {
       "ID": "64pp6bc",
@@ -210,7 +210,7 @@
   "FirstSeen": "2023-04-21T23:57:25.9719494+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,

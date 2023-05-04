@@ -3,18 +3,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 46.00% | ~2,392 |
-| Press-ganged | 37.00% | ~1,924 |
-| The Package | 21.00% | ~1,092 |
-| Randomized | 8.00% | ~416 |
-| Conquered | 6.00% | ~312 |
-| Bounty Hunter | 2.00% | ~104 |
-| Scribe | 2.00% | ~104 |
-| Scholar | 2.00% | ~104 |
-| Loremaster | 2.00% | ~104 |
-| The More the Merrier | 2.00% | ~104 |
-| Breached | 2.00% | ~104 |
-| Fight Another Day | 2.00% | ~104 |
+| A Second Chance | 46.00% | ~24 |
+| Press-ganged | 37.00% | ~19 |
+| The Package | 21.00% | ~11 |
+| Randomized | 8.00% | ~4 |
+| Conquered | 6.00% | ~3 |
+| Bounty Hunter | 2.00% | ~1 |
+| Scribe | 2.00% | ~1 |
+| Scholar | 2.00% | ~1 |
+| Loremaster | 2.00% | ~1 |
+| The More the Merrier | 2.00% | ~1 |
+| Breached | 2.00% | ~1 |
+| Fight Another Day | 2.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |

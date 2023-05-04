@@ -3,8 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Barrett Estate | 100.00% | ~100 |
-| Lower Legion | 100.00% | ~100 |
+| Barrett Estate | 100.00% | ~1 |
+| Lower Legion | 100.00% | ~1 |
 | Whats Cooking | 0.00% | ~0 |
 | Let Me Out | 0.00% | ~0 |
 | Unnamed Tomb | 0.00% | ~0 |

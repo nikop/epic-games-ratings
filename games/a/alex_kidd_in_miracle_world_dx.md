@@ -3,22 +3,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wild Ox | 45.00% | ~10,170 |
-| Magic Ball | 35.00% | ~7,910 |
-| Assailants | 26.00% | ~5,876 |
-| Prisoner | 23.00% | ~5,198 |
-| First Commander | 19.00% | ~4,294 |
-| Adventurer | 17.00% | ~3,842 |
-| Second Commander | 16.00% | ~3,616 |
-| Third Commander | 15.00% | ~3,390 |
-| Janken The Great | 10.00% | ~2,260 |
-| Pacifist | 10.00% | ~2,260 |
-| Overwhelmed Beast | 9.00% | ~2,034 |
-| Radaxian Protector | 3.00% | ~678 |
-| Let's Talk | 2.00% | ~452 |
-| Stingy | 2.00% | ~452 |
-| Collector | 1.00% | ~226 |
-| Champion | 1.00% | ~226 |
+| Wild Ox | 45.00% | ~102 |
+| Magic Ball | 35.00% | ~79 |
+| Assailants | 26.00% | ~59 |
+| Prisoner | 23.00% | ~52 |
+| First Commander | 19.00% | ~43 |
+| Adventurer | 17.00% | ~38 |
+| Second Commander | 16.00% | ~36 |
+| Third Commander | 15.00% | ~34 |
+| Janken The Great | 10.00% | ~23 |
+| Pacifist | 10.00% | ~23 |
+| Overwhelmed Beast | 9.00% | ~20 |
+| Radaxian Protector | 3.00% | ~7 |
+| Let's Talk | 2.00% | ~5 |
+| Stingy | 2.00% | ~5 |
+| Collector | 1.00% | ~2 |
+| Champion | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 226 (Ranked 219)  
 Completed: 3 (1.33%) (Ranked 69)  

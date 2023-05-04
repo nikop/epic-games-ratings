@@ -8,7 +8,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 94500
+      "UsersEstimate": 945
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -16,7 +16,7 @@
       "Name": "Okay, Vain Much?",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 1688
+      "UsersEstimate": 17
     },
     {
       "ID": "COL_EVR_VAULTLANDER_FIG",
@@ -24,7 +24,7 @@
       "Name": "Not Dolls. Action Figures!",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 7
     },
     {
       "ID": "CPLT_WITHOUT_REACHING_GAMEOVER",
@@ -40,7 +40,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 145125
+      "UsersEstimate": 1451
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -48,7 +48,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 121500
+      "UsersEstimate": 1215
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -56,7 +56,7 @@
       "Name": "From Zeroes...",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 91125
+      "UsersEstimate": 911
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -64,7 +64,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 77625
+      "UsersEstimate": 776
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -72,7 +72,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 67500
+      "UsersEstimate": 675
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -80,7 +80,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 60750
+      "UsersEstimate": 608
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -88,7 +88,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 57375
+      "UsersEstimate": 574
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -96,7 +96,7 @@
       "Name": "New Business",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 2700
+      "UsersEstimate": 27
     },
     {
       "ID": "GAMEOVER_FIRST_TIME",
@@ -104,7 +104,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 94500
+      "UsersEstimate": 945
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -112,7 +112,7 @@
       "Name": "You Rich Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 70875
+      "UsersEstimate": 709
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -120,7 +120,7 @@
       "Name": "We\u0027re In",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 104625
+      "UsersEstimate": 1046
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -128,7 +128,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 162000
+      "UsersEstimate": 1620
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -136,7 +136,7 @@
       "Name": "You Poor Now!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 64125
+      "UsersEstimate": 641
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -144,7 +144,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 64125
+      "UsersEstimate": 641
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -152,7 +152,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 30375
+      "UsersEstimate": 304
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -160,7 +160,7 @@
       "Name": "Bring back the butt!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 13500
+      "UsersEstimate": 135
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
@@ -168,7 +168,7 @@
       "Name": "Hey, thanks!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 13500
+      "UsersEstimate": 135
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
@@ -176,7 +176,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 60750
+      "UsersEstimate": 608
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -184,7 +184,7 @@
       "Name": "And Still Champion...",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 43875
+      "UsersEstimate": 439
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -192,7 +192,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 87750
+      "UsersEstimate": 878
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -200,7 +200,7 @@
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6750
+      "UsersEstimate": 68
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -208,7 +208,7 @@
       "Name": "Mas, Por Favor",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 54000
+      "UsersEstimate": 540
     }
   ],
   "Tags": [],
@@ -447,13 +447,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 26,
-  "LastChanged_Achievements": "2023-05-04T22:24:47.7549205+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:37.3081094+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
   "EOS_Progressed": 3375,
-  "LastUpdate_Achievements": "2023-05-04T22:24:47.7549388+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:33.2438631+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:37.3081336+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:15.8051821+00:00",
   "AchievementSets": [
     {
       "ID": "kakdpn",
@@ -468,7 +468,7 @@
   "FirstSeen": "2022-10-21T09:01:49.541257+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 130,

@@ -8,7 +8,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5308
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -16,7 +16,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18578
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -24,7 +24,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23886
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -32,7 +32,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 29194
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -40,7 +40,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 7962
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -48,7 +48,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31848
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -56,7 +56,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 13270
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -64,7 +64,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 47772
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -72,7 +72,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 15924
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -80,7 +80,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 45118
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -88,7 +88,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26540
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -96,7 +96,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 15924
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -104,7 +104,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 124738
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -112,7 +112,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 47772
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -120,7 +120,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26540
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -128,7 +128,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 69004
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -136,7 +136,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 23886
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -144,7 +144,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10616
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -152,7 +152,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 31848
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -160,7 +160,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 47772
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -168,7 +168,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 207012
+      "UsersEstimate": 2070
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -176,7 +176,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5308
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -184,7 +184,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5308
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -192,7 +192,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 53080
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -200,7 +200,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 18578
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_MYWAYS",
@@ -208,7 +208,7 @@
       "Name": "My Ways",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 796
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_NARCISSIST",
@@ -216,7 +216,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7962
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -224,7 +224,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7962
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -232,7 +232,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5308
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -240,7 +240,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2654
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -248,7 +248,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5308
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -256,7 +256,7 @@
       "Name": "Terraformer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7962
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -264,7 +264,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 132700
+      "UsersEstimate": 1327
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -272,7 +272,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10616
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -280,7 +280,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 103506
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -288,7 +288,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 23886
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -296,7 +296,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15924
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -304,7 +304,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 15924
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -312,7 +312,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 21232
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -320,7 +320,7 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5308
+      "UsersEstimate": 53
     }
   ],
   "Tags": [
@@ -1723,13 +1723,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:24:57.8697527+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:47.4966648+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 146,
   "EOS_Completed": 1,
   "EOS_Progressed": 2654,
-  "LastUpdate_Achievements": "2023-05-04T22:24:57.8698063+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:08.2285119+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:47.4967115+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:48.4433455+00:00",
   "AchievementSets": [
     {
       "ID": "1p8ab95",
@@ -1745,7 +1745,7 @@
   "NumberOfAwardsMax": 104,
   "NumberOfAwards": 747,
   "NumberOfRatings": 398,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 132,

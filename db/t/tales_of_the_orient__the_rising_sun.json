@@ -8,7 +8,7 @@
       "Name": "Good Start",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "TALES_10",
@@ -16,7 +16,7 @@
       "Name": "10 Hours!",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "TALES_11",
@@ -24,7 +24,7 @@
       "Name": "I can\u0027t stop playing!",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "TALES_12",
@@ -32,7 +32,7 @@
       "Name": "Constructor",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "TALES_13",
@@ -40,7 +40,7 @@
       "Name": "Happy Ending",
       "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "TALES_2",
@@ -56,7 +56,7 @@
       "Name": "10 is good!",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "TALES_4",
@@ -64,7 +64,7 @@
       "Name": "One-quarter mark",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "TALES_5",
@@ -72,7 +72,7 @@
       "Name": "Half way!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "TALES_6",
@@ -80,7 +80,7 @@
       "Name": "Almost there!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "TALES_7",
@@ -88,7 +88,7 @@
       "Name": "You did it!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "TALES_8",
@@ -96,7 +96,7 @@
       "Name": "1 Hour!",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "TALES_9",
@@ -104,7 +104,7 @@
       "Name": "5 Hours!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "TALES_CHAIN",
@@ -154,13 +154,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:24:14.3120821+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:04.12976+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T22:24:14.3120952+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:46.0095858+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:04.1297701+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:28.1251727+00:00",
   "AchievementSets": [
     {
       "ID": "c5idb6k",
@@ -175,7 +175,7 @@
   "FirstSeen": "2023-04-15T20:58:43.6104353+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 300,

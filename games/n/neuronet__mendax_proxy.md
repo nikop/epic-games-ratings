@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 60.00% | ~300 |
-| Hello World | 40.00% | ~200 |
-| I Think, Therefore I Am | 40.00% | ~200 |
-| Job Creator | 40.00% | ~200 |
-| The Real Beginning | 40.00% | ~200 |
-| Shook Up | 20.00% | ~100 |
-| The Birds and the Bees | 20.00% | ~100 |
+| First Day of the Rest of Your Life | 60.00% | ~3 |
+| Hello World | 40.00% | ~2 |
+| I Think, Therefore I Am | 40.00% | ~2 |
+| Job Creator | 40.00% | ~2 |
+| The Real Beginning | 40.00% | ~2 |
+| Shook Up | 20.00% | ~1 |
+| The Birds and the Bees | 20.00% | ~1 |
 | A Little Eccentric | 0.00% | ~0 |
 | An Acquired Taste | 0.00% | ~0 |
 | A Real Headache | 0.00% | ~0 |

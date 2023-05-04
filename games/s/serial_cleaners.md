@@ -3,10 +3,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pride and Joy | 0.60% | ~93 |
-| Small-time Finder | 0.60% | ~93 |
-| So it goes | 0.60% | ~93 |
-| Business as usual | 0.60% | ~93 |
+| Pride and Joy | 0.60% | ~1 |
+| Small-time Finder | 0.60% | ~1 |
+| So it goes | 0.60% | ~1 |
+| Business as usual | 0.60% | ~1 |
 | All the Stories | 0.00% | ~0 |
 | Total Recall | 0.00% | ~0 |
 | Blood Capade | 0.00% | ~0 |

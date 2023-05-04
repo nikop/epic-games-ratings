@@ -8,7 +8,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A01",
@@ -16,7 +16,7 @@
       "Name": "Stoker",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A02",
@@ -24,7 +24,7 @@
       "Name": "Trailblazer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A03",
@@ -32,7 +32,7 @@
       "Name": "Resistance is futile",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A04",
@@ -40,7 +40,7 @@
       "Name": "Go West",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A05",
@@ -88,7 +88,7 @@
       "Name": "From X to Y",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A11",
@@ -104,7 +104,7 @@
       "Name": "Departure",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "A13",
@@ -112,7 +112,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A14",
@@ -120,7 +120,7 @@
       "Name": "A new Journey",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "A15",
@@ -128,7 +128,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A16",
@@ -136,7 +136,7 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A17",
@@ -144,7 +144,7 @@
       "Name": "Facility Manager",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A18",
@@ -152,7 +152,7 @@
       "Name": "General Manager",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A19",
@@ -168,7 +168,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A21",
@@ -176,7 +176,7 @@
       "Name": "Country Life",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A22",
@@ -184,7 +184,7 @@
       "Name": "Brainstorm",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A23",
@@ -200,7 +200,7 @@
       "Name": "Access granted",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A25",
@@ -232,7 +232,7 @@
       "Name": "We brake for nobody",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "A29",
@@ -240,7 +240,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A30",
@@ -256,7 +256,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A32",
@@ -264,7 +264,7 @@
       "Name": "Assimilated",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A33",
@@ -272,7 +272,7 @@
       "Name": "Locusts",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A34",
@@ -280,7 +280,7 @@
       "Name": "Producer",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A35",
@@ -296,7 +296,7 @@
       "Name": "Way of Iron",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A37",
@@ -304,7 +304,7 @@
       "Name": "All around the World",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "A38",
@@ -312,7 +312,7 @@
       "Name": "Poor Devil",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "A39",
@@ -320,7 +320,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A40",
@@ -328,7 +328,7 @@
       "Name": "Mind the Gap",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A41",
@@ -336,7 +336,7 @@
       "Name": "Right through the middle",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A42",
@@ -344,7 +344,7 @@
       "Name": "Bridge Builder",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A43",
@@ -352,7 +352,7 @@
       "Name": "Mole",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A44",
@@ -360,7 +360,7 @@
       "Name": "Breaking Ground",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A45",
@@ -376,7 +376,7 @@
       "Name": "Mystery Tour",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "A47",
@@ -384,7 +384,7 @@
       "Name": "Travel Company",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "A48",
@@ -392,7 +392,7 @@
       "Name": "Bull and bear",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A49",
@@ -400,7 +400,7 @@
       "Name": "Financial Shark",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A50",
@@ -424,7 +424,7 @@
       "Name": "Socializer",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "A53",
@@ -432,7 +432,7 @@
       "Name": "Networker",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "A54",
@@ -459,13 +459,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 55,
-  "LastChanged_Achievements": "2023-05-04T22:24:31.5215944+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:21.4298139+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:24:31.5216582+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:21.5615211+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:21.429857+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:05.6321121+00:00",
   "AchievementSets": [
     {
       "ID": "9b7p7eo",
@@ -475,7 +475,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,

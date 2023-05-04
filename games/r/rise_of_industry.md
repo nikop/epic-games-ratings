@@ -4,35 +4,35 @@ Rating: 4.23 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~30,988,886 |
-| Well educated | 37.00% | ~24,395,506 |
-| City Planner | 19.00% | ~12,527,422 |
-| Deforester | 16.00% | ~10,549,408 |
-| Big Hauling | 15.00% | ~9,890,070 |
-| Exporter | 13.00% | ~8,571,394 |
-| Apprentice Manufacturer | 12.00% | ~7,912,056 |
-| I would drive 500 tiles... | 11.00% | ~7,252,718 |
-| Landscaper | 11.00% | ~7,252,718 |
-| Railwayman | 7.00% | ~4,615,366 |
-| Penniless | 6.00% | ~3,956,028 |
-| Massive Gains | 6.00% | ~3,956,028 |
-| Engineer | 2.00% | ~1,318,676 |
-| Salesman | 2.00% | ~1,318,676 |
-| High Flyer | 2.00% | ~1,318,676 |
-| Captain | 0.70% | ~461,537 |
-| Billionaire | 0.60% | ~395,603 |
-| Vroom Vroom | 0.40% | ~263,735 |
-| Excavator | 0.30% | ~197,801 |
-| Loan Ranger | 0.30% | ~197,801 |
-| [2130] Nature Lover | 0.10% | ~65,934 |
-| [2130] No Quarter Given | 0.10% | ~65,934 |
-| [2130] Dumpster Diving | 0.10% | ~65,934 |
-| Freelancer | 0.10% | ~65,934 |
-| Director | 0.10% | ~65,934 |
-| Master Builder | 0.10% | ~65,934 |
-| Hard working | 0.10% | ~65,934 |
+| Entrepreneur | 47.00% | ~309,893 |
+| Well educated | 37.00% | ~243,958 |
+| City Planner | 19.00% | ~125,276 |
+| Deforester | 16.00% | ~105,495 |
+| Big Hauling | 15.00% | ~98,902 |
+| Exporter | 13.00% | ~85,715 |
+| Apprentice Manufacturer | 12.00% | ~79,122 |
+| I would drive 500 tiles... | 11.00% | ~72,528 |
+| Landscaper | 11.00% | ~72,528 |
+| Railwayman | 7.00% | ~46,154 |
+| Penniless | 6.00% | ~39,561 |
+| Massive Gains | 6.00% | ~39,561 |
+| Engineer | 2.00% | ~13,187 |
+| Salesman | 2.00% | ~13,187 |
+| High Flyer | 2.00% | ~13,187 |
+| Captain | 0.70% | ~4,615 |
+| Billionaire | 0.60% | ~3,956 |
+| Vroom Vroom | 0.40% | ~2,637 |
+| Excavator | 0.30% | ~1,978 |
+| Loan Ranger | 0.30% | ~1,978 |
+| [2130] Nature Lover | 0.10% | ~659 |
+| [2130] No Quarter Given | 0.10% | ~659 |
+| [2130] Dumpster Diving | 0.10% | ~659 |
+| Freelancer | 0.10% | ~659 |
+| Director | 0.10% | ~659 |
+| Master Builder | 0.10% | ~659 |
+| Hard working | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,338 (Ranked 17)  
+Progressed: 659,346 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 657,085 | 1 |
 | 2023-05-02 | 657,868 | 1 |
 | 2023-05-03 | 658,621 | 1 |
-| 2023-05-04 | 659,338 | 1 |
+| 2023-05-04 | 659,346 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

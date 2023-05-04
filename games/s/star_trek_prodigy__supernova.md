@@ -3,30 +3,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 71.00% | ~497 |
-| Three Watchers, Two Phasers | 57.00% | ~399 |
-| One for the Crew | 43.00% | ~301 |
-| The Clock is Ticking | 43.00% | ~301 |
-| Guess who's back | 43.00% | ~301 |
-| A Helping Hand | 43.00% | ~301 |
-| I've Got You | 29.00% | ~203 |
-| Priceless Collection | 14.00% | ~98 |
-| One Man Army | 14.00% | ~98 |
-| Up your Arsenal | 14.00% | ~98 |
-| Quest for Loot | 14.00% | ~98 |
-| Proto Menagerie | 14.00% | ~98 |
-| Punny Lover | 14.00% | ~98 |
-| Back online | 14.00% | ~98 |
-| Rok and Roll | 14.00% | ~98 |
-| First Contact? | 14.00% | ~98 |
-| Naroan History | 14.00% | ~98 |
-| Playing with Time | 14.00% | ~98 |
-| Coming in from the Cold | 14.00% | ~98 |
-| Seeking Discovery | 14.00% | ~98 |
-| Trekkie | 14.00% | ~98 |
-| Not Too Long | 14.00% | ~98 |
-| Welcome back | 14.00% | ~98 |
-| Getting Better | 14.00% | ~98 |
+| Restoring the Protostar | 71.00% | ~5 |
+| Three Watchers, Two Phasers | 57.00% | ~4 |
+| One for the Crew | 43.00% | ~3 |
+| The Clock is Ticking | 43.00% | ~3 |
+| Guess who's back | 43.00% | ~3 |
+| A Helping Hand | 43.00% | ~3 |
+| I've Got You | 29.00% | ~2 |
+| Priceless Collection | 14.00% | ~1 |
+| One Man Army | 14.00% | ~1 |
+| Up your Arsenal | 14.00% | ~1 |
+| Quest for Loot | 14.00% | ~1 |
+| Proto Menagerie | 14.00% | ~1 |
+| Punny Lover | 14.00% | ~1 |
+| Back online | 14.00% | ~1 |
+| Rok and Roll | 14.00% | ~1 |
+| First Contact? | 14.00% | ~1 |
+| Naroan History | 14.00% | ~1 |
+| Playing with Time | 14.00% | ~1 |
+| Coming in from the Cold | 14.00% | ~1 |
+| Seeking Discovery | 14.00% | ~1 |
+| Trekkie | 14.00% | ~1 |
+| Not Too Long | 14.00% | ~1 |
+| Welcome back | 14.00% | ~1 |
+| Getting Better | 14.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |

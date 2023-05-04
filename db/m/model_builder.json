@@ -32,7 +32,7 @@
       "Name": "200 Horses at 12,000 RPM",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_C64",
@@ -40,7 +40,7 @@
       "Name": "He Has an 80-Foot Tarantula!",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_C96",
@@ -48,7 +48,7 @@
       "Name": "He Shot First!",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_DRAGON",
@@ -56,7 +56,7 @@
       "Name": "Just Six More Balls",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_DRIFTER",
@@ -64,7 +64,7 @@
       "Name": "I\u2019m Just Here For The Gasoline",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_DWARF_CLERIC",
@@ -80,7 +80,7 @@
       "Name": "A Most Handsome Tale",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_FULL_METAL",
@@ -112,7 +112,7 @@
       "Name": "Live Long and Prosper",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_LEMON_SUBMARINE",
@@ -152,7 +152,7 @@
       "Name": "Big Barrel Energy",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_RACER",
@@ -184,7 +184,7 @@
       "Name": "Tameshigiri",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_SATURN",
@@ -216,7 +216,7 @@
       "Name": "Full Frontal",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ASSEMBLE_US_ARMY",
@@ -224,7 +224,7 @@
       "Name": "Just Enough Essential Parts",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AUCTION_HOUSE_HIGH",
@@ -240,7 +240,7 @@
       "Name": "I need $$$!",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AUCTION_HOUSE_T1",
@@ -248,7 +248,7 @@
       "Name": "Going Commercial",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AUCTION_HOUSE_T2",
@@ -256,7 +256,7 @@
       "Name": "Manufacturer",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AUCTION_HOUSE_T3",
@@ -264,7 +264,7 @@
       "Name": "Entrepreneur",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AUCTION_HOUSE_T4",
@@ -272,7 +272,7 @@
       "Name": "Tycoon",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BUILD_FIGURINES",
@@ -280,7 +280,7 @@
       "Name": "You Must Gather Your Party Before Venturing Forth",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BUILD_MARINE_VESSELS",
@@ -376,7 +376,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DISASSEMBLY_GUNBOT",
@@ -392,7 +392,7 @@
       "Name": "Proud of Myself",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EARN_MONEY_T1",
@@ -400,7 +400,7 @@
       "Name": "Where\u2019s George?",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EARN_MONEY_T2",
@@ -408,7 +408,7 @@
       "Name": "Penny Hoarder",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EARN_MONEY_T3",
@@ -416,7 +416,7 @@
       "Name": "Deep Pockets",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EARN_MONEY_T4",
@@ -424,7 +424,7 @@
       "Name": "Fat Cat",
       "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FINISH_CAREER",
@@ -448,7 +448,7 @@
       "Name": "Private Exhibition",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MAX_EXP",
@@ -456,7 +456,7 @@
       "Name": "All the Way to the Top",
       "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MULTIPLE_MANUALS_DONE_T1",
@@ -512,7 +512,7 @@
       "Name": "Finally, Some Fresh Air",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_TOOL_ON_CLERIC",
@@ -581,13 +581,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 70,
-  "LastChanged_Achievements": "2023-05-04T22:24:30.1224059+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:20.1257731+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:30.1225003+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:34.6235124+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:20.1258371+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:18.7019885+00:00",
   "AchievementSets": [
     {
       "ID": "9e2icc4",
@@ -602,7 +602,7 @@
   "FirstSeen": "2023-01-29T08:58:42.9349994+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,

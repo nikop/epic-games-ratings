@@ -8,7 +8,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 15694
+      "UsersEstimate": 157
     },
     {
       "ID": "Bernard",
@@ -16,7 +16,7 @@
       "Name": "Bernard",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 12331
+      "UsersEstimate": 123
     },
     {
       "ID": "Building the Fox",
@@ -24,7 +24,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 23541
+      "UsersEstimate": 235
     },
     {
       "ID": "Green Ticket Roundup",
@@ -32,7 +32,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 20178
+      "UsersEstimate": 202
     },
     {
       "ID": "Jacques a Dit",
@@ -40,7 +40,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 41477
+      "UsersEstimate": 415
     },
     {
       "ID": "Jakob",
@@ -48,7 +48,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 14573
+      "UsersEstimate": 146
     },
     {
       "ID": "Jude",
@@ -56,7 +56,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 13452
+      "UsersEstimate": 135
     },
     {
       "ID": "Le Juif et la France",
@@ -64,7 +64,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 13452
+      "UsersEstimate": 135
     },
     {
       "ID": "Little Helper",
@@ -72,7 +72,7 @@
       "Name": "Little Helper",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 34751
+      "UsersEstimate": 348
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -80,7 +80,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 8968
+      "UsersEstimate": 90
     },
     {
       "ID": "Nazis in Paris",
@@ -88,7 +88,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 26904
+      "UsersEstimate": 269
     },
     {
       "ID": "Nuremberg Laws",
@@ -96,7 +96,7 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 12331
+      "UsersEstimate": 123
     }
   ],
   "Tags": [],
@@ -632,13 +632,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:24:48.1191074+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:37.7410006+00:00",
   "EOS_NewCompleters": 9,
   "EOS_NewPlayers": 117,
   "EOS_Completed": 85,
   "EOS_Progressed": 1121,
-  "LastUpdate_Achievements": "2023-05-04T22:24:48.11912+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:39.0866955+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:37.741015+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:21.6881742+00:00",
   "AchievementSets": [
     {
       "ID": "b40dflc",

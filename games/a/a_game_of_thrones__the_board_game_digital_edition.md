@@ -9,28 +9,28 @@ Diff (max vs sum): 51
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~440,560 |
-| Battering Crew | 21.00% | ~231,294 |
-| The Kingsroad | 19.00% | ~209,266 |
-| Well Stocked | 15.00% | ~165,210 |
-| Royal Fleet | 14.00% | ~154,196 |
-| The Kraken’s Grasp | 10.00% | ~110,140 |
-| Daggers in the Dark | 9.00% | ~99,126 |
-| Alliance | 9.00% | ~99,126 |
-| A Long Journey | 9.00% | ~99,126 |
-| Winter is Coming | 8.00% | ~88,112 |
-| Oathkeeper | 8.00% | ~88,112 |
-| Influential | 8.00% | ~88,112 |
-| Ours is the Fury | 7.00% | ~77,098 |
-| We Do Not Sow | 7.00% | ~77,098 |
-| Defender of the Wall | 7.00% | ~77,098 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~66,084 |
-| Growing Strong | 6.00% | ~66,084 |
-| Hear me Roar! | 6.00% | ~66,084 |
-| What is Dead may Never Die | 4.00% | ~44,056 |
-| The Swift | 3.00% | ~33,042 |
-| King in the North | 2.00% | ~22,028 |
-| War of the Five Kings | 1.00% | ~11,014 |
+| Conqueror | 40.00% | ~4,406 |
+| Battering Crew | 21.00% | ~2,313 |
+| The Kingsroad | 19.00% | ~2,093 |
+| Well Stocked | 15.00% | ~1,652 |
+| Royal Fleet | 14.00% | ~1,542 |
+| The Kraken’s Grasp | 10.00% | ~1,101 |
+| Daggers in the Dark | 9.00% | ~991 |
+| Alliance | 9.00% | ~991 |
+| A Long Journey | 9.00% | ~991 |
+| Winter is Coming | 8.00% | ~881 |
+| Oathkeeper | 8.00% | ~881 |
+| Influential | 8.00% | ~881 |
+| Ours is the Fury | 7.00% | ~771 |
+| We Do Not Sow | 7.00% | ~771 |
+| Defender of the Wall | 7.00% | ~771 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~661 |
+| Growing Strong | 6.00% | ~661 |
+| Hear me Roar! | 6.00% | ~661 |
+| What is Dead may Never Die | 4.00% | ~441 |
+| The Swift | 3.00% | ~330 |
+| King in the North | 2.00% | ~220 |
+| War of the Five Kings | 1.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,014 (Ranked 102)  
 Completed: 23 (0.21%) (Ranked 129)  

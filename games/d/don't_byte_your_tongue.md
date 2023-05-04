@@ -3,10 +3,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Need A Challenge | 38.00% | ~494 |
-| Hello, Friend! | 38.00% | ~494 |
-| Hello, World! | 23.00% | ~299 |
-| What's so hard about going up? | 15.00% | ~195 |
+| I Need A Challenge | 38.00% | ~5 |
+| Hello, Friend! | 38.00% | ~5 |
+| Hello, World! | 23.00% | ~3 |
+| What's so hard about going up? | 15.00% | ~2 |
 | 0x40000000 | 0.00% | ~0 |
 | 0x400 | 0.00% | ~0 |
 | 0x100000 | 0.00% | ~0 |

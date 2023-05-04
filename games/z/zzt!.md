@@ -3,11 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Potomac Computer Systems | 100.00% | ~227,800 |
-| Traveler | 4.00% | ~9,112 |
-| Explorer | 3.00% | ~6,834 |
-| Adventurer | 3.00% | ~6,834 |
-| Hero | 3.00% | ~6,834 |
+| Potomac Computer Systems | 100.00% | ~2,278 |
+| Traveler | 4.00% | ~91 |
+| Explorer | 3.00% | ~68 |
+| Adventurer | 3.00% | ~68 |
+| Hero | 3.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,278 (Ranked 139)  
 Completed: 59 (2.59%) (Ranked 50)  

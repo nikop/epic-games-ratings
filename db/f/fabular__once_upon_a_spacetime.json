@@ -8,7 +8,7 @@
       "Name": "Dax the Destroyed",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "MANTICORE_KILL_BOSS_R2",
@@ -16,7 +16,7 @@
       "Name": "M\u0027utilated",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "MANTICORE_KILL_BOSS_R3",
@@ -24,7 +24,7 @@
       "Name": "Keep Shattering",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "PALADIN_KILL_BOSS_R1",
@@ -32,7 +32,7 @@
       "Name": "Dax the Defeated",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 702
+      "UsersEstimate": 7
     },
     {
       "ID": "PALADIN_KILL_BOSS_R2",
@@ -40,7 +40,7 @@
       "Name": "M\u0027urdured",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 3
     },
     {
       "ID": "PALADIN_KILL_BOSS_R3",
@@ -48,7 +48,7 @@
       "Name": "Keep Exploding",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "TUTORIAL_COMPLETE",
@@ -56,7 +56,7 @@
       "Name": "I Know Kung Fu",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "UNLOCK_MANTICORE",
@@ -64,7 +64,7 @@
       "Name": "Live Fast, Die Young",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     }
   ],
   "Tags": [],
@@ -85,13 +85,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 8,
-  "LastChanged_Achievements": "2023-05-04T22:24:43.0447591+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:32.7497963+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-04T22:24:43.0447699+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:22.5009331+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:32.749803+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:05.2293525+00:00",
   "AchievementSets": [
     {
       "ID": "cgfmd9l",
@@ -106,7 +106,7 @@
   "FirstSeen": "2022-11-12T14:57:44.1410083+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 306,

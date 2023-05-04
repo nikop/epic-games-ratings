@@ -3,41 +3,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Island | 92.00% | ~2,300 |
-| Island 2 | 92.00% | ~2,300 |
-| Island 3 | 88.00% | ~2,200 |
-| Island 4 | 76.00% | ~1,900 |
-| Island 5 | 68.00% | ~1,700 |
-| Island 6 | 40.00% | ~1,000 |
-| Island 10 | 36.00% | ~900 |
-| Island 7 | 36.00% | ~900 |
-| Island 8 | 36.00% | ~900 |
-| Island 9 | 36.00% | ~900 |
-| Island 11 | 32.00% | ~800 |
-| Island 12 | 28.00% | ~700 |
-| Island 13 | 28.00% | ~700 |
-| Island 14 | 28.00% | ~700 |
-| Island 15 | 28.00% | ~700 |
-| Island 16 | 28.00% | ~700 |
-| Island 17 | 28.00% | ~700 |
-| Island 18 | 28.00% | ~700 |
-| Island 19 | 28.00% | ~700 |
-| Island 20 | 28.00% | ~700 |
-| Island 21 | 28.00% | ~700 |
-| Island 22 | 28.00% | ~700 |
-| Island 23 | 28.00% | ~700 |
-| Island 24 | 28.00% | ~700 |
-| Island 25 | 28.00% | ~700 |
-| Island 26 | 28.00% | ~700 |
-| Island 27 | 28.00% | ~700 |
-| Island 28 | 28.00% | ~700 |
-| Island 29 | 28.00% | ~700 |
-| Island 30 | 28.00% | ~700 |
-| Island 31 | 28.00% | ~700 |
-| Island 32 | 24.00% | ~600 |
-| Island 33 | 24.00% | ~600 |
-| Island 34 | 24.00% | ~600 |
-| Island 35 | 24.00% | ~600 |
+| First Island | 92.00% | ~23 |
+| Island 2 | 92.00% | ~23 |
+| Island 3 | 88.00% | ~22 |
+| Island 4 | 76.00% | ~19 |
+| Island 5 | 68.00% | ~17 |
+| Island 6 | 40.00% | ~10 |
+| Island 10 | 36.00% | ~9 |
+| Island 7 | 36.00% | ~9 |
+| Island 8 | 36.00% | ~9 |
+| Island 9 | 36.00% | ~9 |
+| Island 11 | 32.00% | ~8 |
+| Island 12 | 28.00% | ~7 |
+| Island 13 | 28.00% | ~7 |
+| Island 14 | 28.00% | ~7 |
+| Island 15 | 28.00% | ~7 |
+| Island 16 | 28.00% | ~7 |
+| Island 17 | 28.00% | ~7 |
+| Island 18 | 28.00% | ~7 |
+| Island 19 | 28.00% | ~7 |
+| Island 20 | 28.00% | ~7 |
+| Island 21 | 28.00% | ~7 |
+| Island 22 | 28.00% | ~7 |
+| Island 23 | 28.00% | ~7 |
+| Island 24 | 28.00% | ~7 |
+| Island 25 | 28.00% | ~7 |
+| Island 26 | 28.00% | ~7 |
+| Island 27 | 28.00% | ~7 |
+| Island 28 | 28.00% | ~7 |
+| Island 29 | 28.00% | ~7 |
+| Island 30 | 28.00% | ~7 |
+| Island 31 | 28.00% | ~7 |
+| Island 32 | 24.00% | ~6 |
+| Island 33 | 24.00% | ~6 |
+| Island 34 | 24.00% | ~6 |
+| Island 35 | 24.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 286)  
 Completed: 6 (24.00%) (Ranked 3)  

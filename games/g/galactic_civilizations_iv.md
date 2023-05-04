@@ -9,59 +9,59 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~434,500 |
-| Worker Specialization | 78.00% | ~429,000 |
-| First Contact | 74.00% | ~407,000 |
-| Win a Battle | 67.00% | ~368,500 |
-| Anomaly Researcher | 63.00% | ~346,500 |
-| Unleash My Power | 62.00% | ~341,000 |
-| Own 30 Planets | 35.00% | ~192,500 |
-| Xenocide | 33.00% | ~181,500 |
-| Commodity Trader | 32.00% | ~176,000 |
-| Design a Civilization | 32.00% | ~176,000 |
-| Design a Ship | 29.00% | ~159,500 |
-| Commodity Seller | 26.00% | ~143,000 |
-| Prestige Victory! | 14.00% | ~77,000 |
-| Galactic War | 11.00% | ~60,500 |
-| Trading Partner | 9.00% | ~49,500 |
-| Fleet Victory | 8.00% | ~44,000 |
-| Win as Terrans | 7.00% | ~38,500 |
-| Win with a Custom Faction | 7.00% | ~38,500 |
-| Gain an Ally | 6.00% | ~33,000 |
-| War with the Unknown | 5.00% | ~27,500 |
-| Conquest Victory! | 4.00% | ~22,000 |
-| Win Quickly | 4.00% | ~22,000 |
-| Pirate Cleansing | 3.00% | ~16,500 |
-| Win an Immense Game | 3.00% | ~16,500 |
-| Artifact Mastery | 2.00% | ~11,000 |
-| Win as Altarians | 2.00% | ~11,000 |
-| Win as the Yor | 2.00% | ~11,000 |
-| Influence Victory! | 2.00% | ~11,000 |
-| Win as Arceans | 1.00% | ~5,500 |
-| Win as the Baratak | 1.00% | ~5,500 |
-| Win as Festron | 1.00% | ~5,500 |
-| Win as the Mimot | 1.00% | ~5,500 |
-| Win as the Navigators | 0.90% | ~4,950 |
-| Win as Torians | 0.90% | ~4,950 |
-| Win as Xeloxi | 0.80% | ~4,400 |
-| Win as the Drath | 0.70% | ~3,850 |
-| Win as the Drengin | 0.70% | ~3,850 |
-| Win as the Krynn | 0.70% | ~3,850 |
-| Win as the Manti | 0.70% | ~3,850 |
-| Diplomatic Victory! | 0.70% | ~3,850 |
-| Win as the Iconians | 0.60% | ~3,300 |
-| Win as the Iridium | 0.60% | ~3,300 |
-| Win as the Onyx | 0.60% | ~3,300 |
-| Iconia Reclaimed! | 0.30% | ~1,650 |
-| Relic Hoarder | 0.20% | ~1,100 |
-| Commodity Seller, Level 2 | 0.20% | ~1,100 |
-| Commodity Trader - Level 2 | 0.10% | ~550 |
-| Discover a Nebula | 0.10% | ~550 |
-| Play for 1000 Hours | 0.10% | ~550 |
-| Play for 100 Hours | 0.10% | ~550 |
-| Play for 5 Hours | 0.10% | ~550 |
-| It's OUR Homeworld | 0.10% | ~550 |
-| Win a Multiplayer Game | 0.10% | ~550 |
+| Colonize a Planet | 79.00% | ~4,345 |
+| Worker Specialization | 78.00% | ~4,290 |
+| First Contact | 74.00% | ~4,070 |
+| Win a Battle | 67.00% | ~3,685 |
+| Anomaly Researcher | 63.00% | ~3,465 |
+| Unleash My Power | 62.00% | ~3,410 |
+| Own 30 Planets | 35.00% | ~1,925 |
+| Xenocide | 33.00% | ~1,815 |
+| Commodity Trader | 32.00% | ~1,760 |
+| Design a Civilization | 32.00% | ~1,760 |
+| Design a Ship | 29.00% | ~1,595 |
+| Commodity Seller | 26.00% | ~1,430 |
+| Prestige Victory! | 14.00% | ~770 |
+| Galactic War | 11.00% | ~605 |
+| Trading Partner | 9.00% | ~495 |
+| Fleet Victory | 8.00% | ~440 |
+| Win as Terrans | 7.00% | ~385 |
+| Win with a Custom Faction | 7.00% | ~385 |
+| Gain an Ally | 6.00% | ~330 |
+| War with the Unknown | 5.00% | ~275 |
+| Conquest Victory! | 4.00% | ~220 |
+| Win Quickly | 4.00% | ~220 |
+| Pirate Cleansing | 3.00% | ~165 |
+| Win an Immense Game | 3.00% | ~165 |
+| Artifact Mastery | 2.00% | ~110 |
+| Win as Altarians | 2.00% | ~110 |
+| Win as the Yor | 2.00% | ~110 |
+| Influence Victory! | 2.00% | ~110 |
+| Win as Arceans | 1.00% | ~55 |
+| Win as the Baratak | 1.00% | ~55 |
+| Win as Festron | 1.00% | ~55 |
+| Win as the Mimot | 1.00% | ~55 |
+| Win as the Navigators | 0.90% | ~50 |
+| Win as Torians | 0.90% | ~50 |
+| Win as Xeloxi | 0.80% | ~44 |
+| Win as the Drath | 0.70% | ~38 |
+| Win as the Drengin | 0.70% | ~38 |
+| Win as the Krynn | 0.70% | ~38 |
+| Win as the Manti | 0.70% | ~38 |
+| Diplomatic Victory! | 0.70% | ~38 |
+| Win as the Iconians | 0.60% | ~33 |
+| Win as the Iridium | 0.60% | ~33 |
+| Win as the Onyx | 0.60% | ~33 |
+| Iconia Reclaimed! | 0.30% | ~16 |
+| Relic Hoarder | 0.20% | ~11 |
+| Commodity Seller, Level 2 | 0.20% | ~11 |
+| Commodity Trader - Level 2 | 0.10% | ~6 |
+| Discover a Nebula | 0.10% | ~6 |
+| Play for 1000 Hours | 0.10% | ~6 |
+| Play for 100 Hours | 0.10% | ~6 |
+| Play for 5 Hours | 0.10% | ~6 |
+| It's OUR Homeworld | 0.10% | ~6 |
+| Win a Multiplayer Game | 0.10% | ~6 |
 | Solid Economy | 0.00% | ~0 |
 | Ask Not What Your Empire Can Do For You | 0.00% | ~0 |
 | Commodity Guru | 0.00% | ~0 |

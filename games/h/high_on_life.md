@@ -4,38 +4,38 @@ Rating: 4.67 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~1,876,713 |
-| Mods Please Ban | 77.00% | ~1,741,047 |
-| Bring A Knife to a Gun Fight | 76.00% | ~1,718,436 |
-| Fallout Doesn't Let You Do This | 73.00% | ~1,650,603 |
-| First Bounty Down | 59.00% | ~1,334,049 |
-| We're All Very Impressed, Trust Me | 57.00% | ~1,288,827 |
-| Luglox Genocide | 43.00% | ~972,273 |
-| Playing Card To Get | 33.00% | ~746,163 |
-| Don't Knife The Hand That Feeds | 33.00% | ~746,163 |
-| Creature Feature | 29.00% | ~655,719 |
-| Satisfied Gus-tomer | 28.00% | ~633,108 |
-| Cold-Blooded Driller | 28.00% | ~633,108 |
-| Are You Packin'? | 24.00% | ~542,664 |
-| RIP Davey Glutes | 24.00% | ~542,664 |
-| Sweezy Like Sunday Morning | 24.00% | ~542,664 |
-| G3 Graduation | 24.00% | ~542,664 |
-| Hardest Battle In The Game | 22.00% | ~497,442 |
-| Series Wrap on Suit-O | 22.00% | ~497,442 |
-| Lezduit! | 20.00% | ~452,220 |
-| Who's The Boss? | 20.00% | ~452,220 |
-| Self-Actualization | 19.00% | ~429,609 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~429,609 |
-| Legendary Bounty Hunter | 18.00% | ~406,998 |
-| Seeing All The Sights | 16.00% | ~361,776 |
-| Carried Stan's Load To Completion | 13.00% | ~293,943 |
-| We Paid For The Rights To Put A Whole Movie In Here | 11.00% | ~248,721 |
-| Eatin' Good in the Neighborhood | 9.00% | ~203,499 |
-| Sequel-Bait | 8.00% | ~180,888 |
-| Gunning For Your Job | 7.00% | ~158,277 |
-| Playing Favorites | 6.00% | ~135,666 |
-| Epic Legendary Prize | 1.00% | ~22,611 |
-| A Starfish Is Born | 1.00% | ~22,611 |
+| Eye Scream, You Scream | 83.00% | ~18,767 |
+| Mods Please Ban | 77.00% | ~17,410 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,184 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,506 |
+| First Bounty Down | 59.00% | ~13,340 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,888 |
+| Luglox Genocide | 43.00% | ~9,723 |
+| Playing Card To Get | 33.00% | ~7,462 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,462 |
+| Creature Feature | 29.00% | ~6,557 |
+| Satisfied Gus-tomer | 28.00% | ~6,331 |
+| Cold-Blooded Driller | 28.00% | ~6,331 |
+| Are You Packin'? | 24.00% | ~5,427 |
+| RIP Davey Glutes | 24.00% | ~5,427 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,427 |
+| G3 Graduation | 24.00% | ~5,427 |
+| Hardest Battle In The Game | 22.00% | ~4,974 |
+| Series Wrap on Suit-O | 22.00% | ~4,974 |
+| Lezduit! | 20.00% | ~4,522 |
+| Who's The Boss? | 20.00% | ~4,522 |
+| Self-Actualization | 19.00% | ~4,296 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,296 |
+| Legendary Bounty Hunter | 18.00% | ~4,070 |
+| Seeing All The Sights | 16.00% | ~3,618 |
+| Carried Stan's Load To Completion | 13.00% | ~2,939 |
+| We Paid For The Rights To Put A Whole Movie In Here | 11.00% | ~2,487 |
+| Eatin' Good in the Neighborhood | 9.00% | ~2,035 |
+| Sequel-Bait | 8.00% | ~1,809 |
+| Gunning For Your Job | 7.00% | ~1,583 |
+| Playing Favorites | 6.00% | ~1,357 |
+| Epic Legendary Prize | 1.00% | ~226 |
+| A Starfish Is Born | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22,611 (Ranked 86)  
 Completed: 8 (0.04%) (Ranked 167)  

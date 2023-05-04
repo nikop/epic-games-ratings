@@ -8,7 +8,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 723564
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -16,7 +16,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 361782
+      "UsersEstimate": 3618
     },
     {
       "ID": "ACH_CARRYING",
@@ -24,7 +24,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 325604
+      "UsersEstimate": 3256
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -32,7 +32,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1085346
+      "UsersEstimate": 10854
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -40,7 +40,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 180891
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -48,7 +48,7 @@
       "Name": "Designated Driver",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36178
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_EFFICIENT",
@@ -56,7 +56,7 @@
       "Name": "Efficient",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 361782
+      "UsersEstimate": 3618
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -64,7 +64,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1447128
+      "UsersEstimate": 14471
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -72,7 +72,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 217069
+      "UsersEstimate": 2171
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -80,7 +80,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 723564
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -88,7 +88,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 723564
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_GROUNDED",
@@ -96,7 +96,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 289426
+      "UsersEstimate": 2894
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -104,7 +104,7 @@
       "Name": "Hit and Run",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 72356
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_HSLD",
@@ -112,7 +112,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1447128
+      "UsersEstimate": 14471
     },
     {
       "ID": "ACH_JR_50",
@@ -120,7 +120,7 @@
       "Name": "J.R. .50",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 36178
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -128,7 +128,7 @@
       "Name": "Knock Knock",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 108535
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_LUCKY",
@@ -136,7 +136,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1085346
+      "UsersEstimate": 10854
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -144,7 +144,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 325604
+      "UsersEstimate": 3256
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -152,7 +152,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 253247
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACH_PERSONAL",
@@ -160,7 +160,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 325604
+      "UsersEstimate": 3256
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -168,7 +168,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 289426
+      "UsersEstimate": 2894
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -176,7 +176,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1808910
+      "UsersEstimate": 18089
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -184,7 +184,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 723564
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_REFLEXES",
@@ -192,7 +192,7 @@
       "Name": "It\u0027s All in the Reflexes",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 36178
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_ROAD_HAZARD",
@@ -200,7 +200,7 @@
       "Name": "Road Hazard",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 36178
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_RUTHLESS",
@@ -208,7 +208,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 361782
+      "UsersEstimate": 3618
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -216,7 +216,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 723564
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -224,7 +224,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 361782
+      "UsersEstimate": 3618
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -232,7 +232,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 253247
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACH_STYLING",
@@ -240,7 +240,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1085346
+      "UsersEstimate": 10854
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -248,7 +248,7 @@
       "Name": "Thanks Station!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 144713
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_THERE_FOR_YOU",
@@ -256,7 +256,7 @@
       "Name": "There For You",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 72356
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_TURF_WAR",
@@ -264,7 +264,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1085346
+      "UsersEstimate": 10854
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -272,7 +272,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1808910
+      "UsersEstimate": 18089
     },
     {
       "ID": "ACH_WET_FEET",
@@ -280,7 +280,7 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1447128
+      "UsersEstimate": 14471
     }
   ],
   "Tags": [
@@ -1440,6 +1440,11 @@
     {
       "Time": "2023-05-04T22:24:13.9410161+00:00",
       "NumProgressed": 361782,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T22:39:03.7715546+00:00",
+      "NumProgressed": 361785,
       "NumCompleted": 2
     }
   ],
@@ -3181,18 +3186,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T22:24:13.9410153+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:03.771554+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3919,
+  "EOS_NewPlayers": 3896,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361782,
-  "LastUpdate_Achievements": "2023-05-04T22:24:13.94107+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:10.6137513+00:00",
+  "EOS_Progressed": 361785,
+  "LastUpdate_Achievements": "2023-05-04T22:39:03.7716073+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:54.6410174+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 361782,
+      "Progressed": 361785,
       "Completed": 2
     }
   ],
@@ -3203,7 +3208,7 @@
   "NumberOfAwardsMax": 349,
   "NumberOfAwards": 2612,
   "NumberOfRatings": 1316,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 35,

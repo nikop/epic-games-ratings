@@ -16,7 +16,7 @@
       "Name": "Challenge accepted",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -48,7 +48,7 @@
       "Name": "Awarded",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -72,7 +72,7 @@
       "Name": "Warehouse Master",
       "Percentage": 100,
       "XP": 150,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -80,7 +80,7 @@
       "Name": "It\u0027s just a scratch",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -88,7 +88,7 @@
       "Name": "Smash!",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -125,13 +125,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:24:55.464412+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:45.1190943+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:55.464427+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:01.7724432+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:45.1191044+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:42.7923904+00:00",
   "AchievementSets": [
     {
       "ID": "lhmi37",
@@ -146,7 +146,7 @@
   "FirstSeen": "2023-03-18T17:58:02.8547148+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,

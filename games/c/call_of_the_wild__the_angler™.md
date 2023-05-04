@@ -9,39 +9,39 @@ Diff (max vs sum): 61
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 71.00% | ~241,542 |
-| Hey Good Hookin | 61.00% | ~207,522 |
-| I'm on a Boat! | 52.00% | ~176,904 |
-| Scaling up | 45.00% | ~153,090 |
-| Can you smell what the Rod is Hooking | 44.00% | ~149,688 |
-| More Fish in the Sea | 37.00% | ~125,874 |
-| Ready to Rod and Roll | 36.00% | ~122,472 |
-| License to Gill | 31.00% | ~105,462 |
-| Fish Out of Water | 29.00% | ~98,658 |
-| Things that go Splash in the Night | 25.00% | ~85,050 |
-| Goldfish? | 25.00% | ~85,050 |
-| Going for Gold | 23.00% | ~78,246 |
-| I'm Hooked! | 17.00% | ~57,834 |
-| More than a Tourist | 13.00% | ~44,226 |
-| Diamond in the Rough | 12.00% | ~40,824 |
-| Hook, Line and Sinker | 8.00% | ~27,216 |
-| Marathon | 8.00% | ~27,216 |
-| Big Fish Small Pond | 6.00% | ~20,412 |
-| I'm the Captain Now | 5.00% | ~17,010 |
-| School's Out for Summer | 4.00% | ~13,608 |
-| Gonna Need a Bigger Boat | 3.00% | ~10,206 |
-| The Beetles | 2.00% | ~6,804 |
-| Taylor Made | 2.00% | ~6,804 |
-| Rod and Troll | 2.00% | ~5,548 |
-| Head for Heights | 0.70% | ~2,381 |
-| Fish upon a Star | 0.60% | ~1,664 |
-| Lake Me up Before You Go Go | 0.50% | ~1,701 |
-| Cache and Carry | 0.30% | ~832 |
-| Golden Ridge Ranger | 0.20% | ~680 |
-| Buckaroo | 0.20% | ~680 |
-| Trollsporet Tale Teller | 0.20% | ~555 |
-| Lost and Flounder | 0.10% | ~340 |
-| Norway Jose | 0.10% | ~277 |
+| Fish Just Got Reel | 71.00% | ~2,415 |
+| Hey Good Hookin | 61.00% | ~2,075 |
+| I'm on a Boat! | 52.00% | ~1,769 |
+| Scaling up | 45.00% | ~1,531 |
+| Can you smell what the Rod is Hooking | 44.00% | ~1,497 |
+| More Fish in the Sea | 37.00% | ~1,259 |
+| Ready to Rod and Roll | 36.00% | ~1,225 |
+| License to Gill | 31.00% | ~1,055 |
+| Fish Out of Water | 29.00% | ~987 |
+| Things that go Splash in the Night | 25.00% | ~850 |
+| Goldfish? | 25.00% | ~850 |
+| Going for Gold | 23.00% | ~782 |
+| I'm Hooked! | 17.00% | ~578 |
+| More than a Tourist | 13.00% | ~442 |
+| Diamond in the Rough | 12.00% | ~408 |
+| Hook, Line and Sinker | 8.00% | ~272 |
+| Marathon | 8.00% | ~272 |
+| Big Fish Small Pond | 6.00% | ~204 |
+| I'm the Captain Now | 5.00% | ~170 |
+| School's Out for Summer | 4.00% | ~136 |
+| Gonna Need a Bigger Boat | 3.00% | ~102 |
+| The Beetles | 2.00% | ~68 |
+| Taylor Made | 2.00% | ~68 |
+| Rod and Troll | 2.00% | ~55 |
+| Head for Heights | 0.70% | ~24 |
+| Fish upon a Star | 0.60% | ~17 |
+| Lake Me up Before You Go Go | 0.50% | ~17 |
+| Cache and Carry | 0.30% | ~8 |
+| Golden Ridge Ranger | 0.20% | ~7 |
+| Buckaroo | 0.20% | ~7 |
+| Trollsporet Tale Teller | 0.20% | ~6 |
+| Lost and Flounder | 0.10% | ~3 |
+| Norway Jose | 0.10% | ~3 |
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

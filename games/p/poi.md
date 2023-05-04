@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bonk! | 100.00% | ~200 |
-| Junior Explorer | 100.00% | ~200 |
-| First Death | 50.00% | ~100 |
-| Big Spender | 50.00% | ~100 |
-| Classic Platforming | 50.00% | ~100 |
-| POW! | 50.00% | ~100 |
-| Planet K-0 | 50.00% | ~100 |
+| Bonk! | 100.00% | ~2 |
+| Junior Explorer | 100.00% | ~2 |
+| First Death | 50.00% | ~1 |
+| Big Spender | 50.00% | ~1 |
+| Classic Platforming | 50.00% | ~1 |
+| POW! | 50.00% | ~1 |
+| Planet K-0 | 50.00% | ~1 |
 | Costume Quest | 0.00% | ~0 |
 | Master Mechanic | 0.00% | ~0 |
 | Tour Guide | 0.00% | ~0 |

@@ -8,7 +8,7 @@
       "Name": "Admiral",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "ALBINO_BLOODSUCKER",
@@ -16,7 +16,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1007
+      "UsersEstimate": 10
     },
     {
       "ID": "ATOM_KVAS",
@@ -24,7 +24,7 @@
       "Name": "Atomic Soda",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3021
+      "UsersEstimate": 30
     },
     {
       "ID": "ATOM_QUIT",
@@ -32,7 +32,7 @@
       "Name": "Goodbye ATOM",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "BRONZOVKA",
@@ -40,7 +40,7 @@
       "Name": "Bronzovka",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "B_E",
@@ -48,7 +48,7 @@
       "Name": "Baby Eater",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 403
+      "UsersEstimate": 4
     },
     {
       "ID": "COMMANDO",
@@ -56,7 +56,7 @@
       "Name": "Commando",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "DEATH_OF_THE_AUTHOR",
@@ -64,7 +64,7 @@
       "Name": "Death of the Author",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1007
+      "UsersEstimate": 10
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -72,7 +72,7 @@
       "Name": "Escalation of Conflict",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "FIGHT_CLUB",
@@ -80,7 +80,7 @@
       "Name": "Fight Club",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2014
+      "UsersEstimate": 20
     },
     {
       "ID": "FREELANCE_POLICE",
@@ -88,7 +88,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 30
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -96,7 +96,7 @@
       "Name": "Holy Mountain",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "HOUSEHOLD",
@@ -104,7 +104,7 @@
       "Name": "Household",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6042
+      "UsersEstimate": 60
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -112,7 +112,7 @@
       "Name": "Human Antidote",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2014
+      "UsersEstimate": 20
     },
     {
       "ID": "INCOMPETENCE",
@@ -120,7 +120,7 @@
       "Name": "Incompetence",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "KGB_BUNKER",
@@ -128,7 +128,7 @@
       "Name": "KGB Bunker",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 604
+      "UsersEstimate": 6
     },
     {
       "ID": "LOT_49",
@@ -136,7 +136,7 @@
       "Name": "Lot 49",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4028
+      "UsersEstimate": 40
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -144,7 +144,7 @@
       "Name": "Goose Sacrifice",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "MEMOIRS_OF_A_NIBBLER",
@@ -152,7 +152,7 @@
       "Name": "Memoirs of a Nibbler",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 705
+      "UsersEstimate": 7
     },
     {
       "ID": "MYST_KNIFE",
@@ -160,7 +160,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3021
+      "UsersEstimate": 30
     },
     {
       "ID": "OLD_FRIEND",
@@ -168,7 +168,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6042
+      "UsersEstimate": 60
     },
     {
       "ID": "POSITRONIUM",
@@ -176,7 +176,7 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3021
+      "UsersEstimate": 30
     },
     {
       "ID": "POWER_SIMPLICITY",
@@ -184,7 +184,7 @@
       "Name": "Power of Simplicity",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "RISING_STAR",
@@ -192,7 +192,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 604
+      "UsersEstimate": 6
     },
     {
       "ID": "SECOND_THOUGHT",
@@ -200,7 +200,7 @@
       "Name": "Second Thought",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "SHADOW_OVER_TRUDOGRAD",
@@ -208,7 +208,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3021
+      "UsersEstimate": 30
     },
     {
       "ID": "SICK_FREAK",
@@ -216,7 +216,7 @@
       "Name": "Sick Freak",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "SIXTH_SENSE",
@@ -224,7 +224,7 @@
       "Name": "Sixth Sense",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 7
     },
     {
       "ID": "TERRORIST",
@@ -232,7 +232,7 @@
       "Name": "Terrorist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 2
     },
     {
       "ID": "VIVA_LA_REVOLUTION",
@@ -240,7 +240,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 40
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -248,7 +248,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4028
+      "UsersEstimate": 40
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -256,7 +256,7 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 87609
+      "UsersEstimate": 876
     }
   ],
   "Tags": [
@@ -518,13 +518,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-04T22:24:26.6459182+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:16.5672266+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
   "EOS_Progressed": 1007,
-  "LastUpdate_Achievements": "2023-05-04T22:24:26.6459583+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:46.5244861+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:16.5672509+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:30.5223701+00:00",
   "AchievementSets": [
     {
       "ID": "62d2oh4",
@@ -540,7 +540,7 @@
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 20,
   "NumberOfAwards": 20,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 159,

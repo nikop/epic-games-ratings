@@ -8,7 +8,7 @@
       "Name": "Way of the King",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5058
+      "UsersEstimate": 51
     },
     {
       "ID": "02",
@@ -16,7 +16,7 @@
       "Name": "Way of the Warlord",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3372
+      "UsersEstimate": 34
     },
     {
       "ID": "03",
@@ -24,7 +24,7 @@
       "Name": "Life or Death",
       "Percentage": 0.8,
       "XP": 150,
-      "UsersEstimate": 674
+      "UsersEstimate": 7
     },
     {
       "ID": "04",
@@ -32,7 +32,7 @@
       "Name": "The Unvanquished",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 1686
+      "UsersEstimate": 17
     },
     {
       "ID": "05",
@@ -40,7 +40,7 @@
       "Name": "The First Step",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 58167
+      "UsersEstimate": 582
     },
     {
       "ID": "06",
@@ -48,7 +48,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 54795
+      "UsersEstimate": 548
     },
     {
       "ID": "07",
@@ -56,7 +56,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 45522
+      "UsersEstimate": 455
     },
     {
       "ID": "08",
@@ -64,7 +64,7 @@
       "Name": "Monster Slayer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 25290
+      "UsersEstimate": 253
     },
     {
       "ID": "09",
@@ -72,7 +72,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 19389
+      "UsersEstimate": 194
     },
     {
       "ID": "10",
@@ -80,7 +80,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 18546
+      "UsersEstimate": 185
     },
     {
       "ID": "11",
@@ -88,7 +88,7 @@
       "Name": "Someone to Protect",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "12",
@@ -96,7 +96,7 @@
       "Name": "First Bloom",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 843
+      "UsersEstimate": 8
     },
     {
       "ID": "13",
@@ -104,7 +104,7 @@
       "Name": "Let Us Cling Together",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1686
+      "UsersEstimate": 17
     },
     {
       "ID": "14",
@@ -112,7 +112,7 @@
       "Name": "Til We Meet Again",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3372
+      "UsersEstimate": 34
     },
     {
       "ID": "15",
@@ -120,7 +120,7 @@
       "Name": "Lean on Me",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 3
     },
     {
       "ID": "16",
@@ -128,7 +128,7 @@
       "Name": "A Promised Voyage",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 843
+      "UsersEstimate": 8
     },
     {
       "ID": "17",
@@ -136,7 +136,7 @@
       "Name": "Ready to Learn",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 53109
+      "UsersEstimate": 531
     },
     {
       "ID": "18",
@@ -144,7 +144,7 @@
       "Name": "Earning Trust",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 42993
+      "UsersEstimate": 430
     },
     {
       "ID": "19",
@@ -152,7 +152,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 6744
+      "UsersEstimate": 67
     },
     {
       "ID": "20",
@@ -160,7 +160,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10959
+      "UsersEstimate": 110
     },
     {
       "ID": "21",
@@ -168,7 +168,7 @@
       "Name": "Arrow in the Wind",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1686
+      "UsersEstimate": 17
     },
     {
       "ID": "22",
@@ -176,7 +176,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11802
+      "UsersEstimate": 118
     },
     {
       "ID": "23",
@@ -184,7 +184,7 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15174
+      "UsersEstimate": 152
     }
   ],
   "Tags": [],
@@ -350,13 +350,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:24:50.2560846+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:39.8820604+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 843,
-  "LastUpdate_Achievements": "2023-05-04T22:24:50.2561103+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:42.7784964+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:39.8820905+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:25.3976125+00:00",
   "AchievementSets": [
     {
       "ID": "73ikgfc",
@@ -371,7 +371,7 @@
   "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 166,

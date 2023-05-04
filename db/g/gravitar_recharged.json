@@ -8,7 +8,7 @@
       "Name": "A Virus From Outer Space",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BIG_SCIENCE",
@@ -16,7 +16,7 @@
       "Name": "Big Science",
       "Percentage": 50,
       "XP": 70,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BORN_NEVER_ASKED",
@@ -24,7 +24,7 @@
       "Name": "Born, Never Asked",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CLOSED_CIRCUITS",
@@ -32,7 +32,7 @@
       "Name": "Closed Circuits",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DANCE_OF_ELECTRICITY",
@@ -48,7 +48,7 @@
       "Name": "Difficult Hour",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FINNISH_FARMERS",
@@ -80,7 +80,7 @@
       "Name": "Let X=X",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LOOKING_FOR_YOU",
@@ -88,7 +88,7 @@
       "Name": "Looking For You",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_O_SUPERMAN",
@@ -96,7 +96,7 @@
       "Name": "O, Superman",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_RED_MAP",
@@ -112,7 +112,7 @@
       "Name": "Say Hello",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THE_MAILMANS_NIGHTMARE",
@@ -120,7 +120,7 @@
       "Name": "The Mailman\u0027s Nightmare",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_VIOLIN_SOLO",
@@ -128,7 +128,7 @@
       "Name": "Violin Solo",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_VIOLIN_WALK",
@@ -136,7 +136,7 @@
       "Name": "Violin Walk",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_WALKING_AND_FALLING",
@@ -144,7 +144,7 @@
       "Name": "Walking And Falling",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_WALK_THE_DOG",
@@ -173,13 +173,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-04T22:24:15.902448+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:05.7492224+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:24:15.9024613+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:39.4645253+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:05.7492359+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:22.7136793+00:00",
   "AchievementSets": [
     {
       "ID": "7c10kej",
@@ -194,7 +194,7 @@
   "FirstSeen": "2022-07-22T20:29:18.8259579+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,

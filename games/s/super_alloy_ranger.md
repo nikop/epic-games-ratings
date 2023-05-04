@@ -3,24 +3,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gear Up | 72.00% | ~1,296 |
-| Iceberg Theory | 72.00% | ~1,296 |
-| A Grand Show | 72.00% | ~1,296 |
-| Freshen Up | 50.00% | ~900 |
-| GG EZ | 50.00% | ~900 |
-| Hydrophobia | 22.00% | ~396 |
-| Ka-Ching! | 11.00% | ~198 |
-| Stop Right There | 11.00% | ~198 |
-| Get to the Point | 11.00% | ~198 |
-| The Paradox Coordinate Conqueror | 6.00% | ~108 |
-| Grand Escape | 6.00% | ~108 |
-| Space Warrior: Prologue | 6.00% | ~108 |
-| The Hidden Secret | 6.00% | ~108 |
-| Mr. Want It All | 6.00% | ~108 |
-| Antaeus | 6.00% | ~108 |
-| Air Interception | 6.00% | ~108 |
-| Proliferation | 6.00% | ~108 |
-| Toe to Toe | 6.00% | ~108 |
+| Gear Up | 72.00% | ~13 |
+| Iceberg Theory | 72.00% | ~13 |
+| A Grand Show | 72.00% | ~13 |
+| Freshen Up | 50.00% | ~9 |
+| GG EZ | 50.00% | ~9 |
+| Hydrophobia | 22.00% | ~4 |
+| Ka-Ching! | 11.00% | ~2 |
+| Stop Right There | 11.00% | ~2 |
+| Get to the Point | 11.00% | ~2 |
+| The Paradox Coordinate Conqueror | 6.00% | ~1 |
+| Grand Escape | 6.00% | ~1 |
+| Space Warrior: Prologue | 6.00% | ~1 |
+| The Hidden Secret | 6.00% | ~1 |
+| Mr. Want It All | 6.00% | ~1 |
+| Antaeus | 6.00% | ~1 |
+| Air Interception | 6.00% | ~1 |
+| Proliferation | 6.00% | ~1 |
+| Toe to Toe | 6.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Deep Frozen Conqueror | 0.00% | ~0 |
 | The Abyss Conqueror | 0.00% | ~0 |

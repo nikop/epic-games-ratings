@@ -3,21 +3,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Exam Time | 84.00% | ~22,848 |
-| 1st Grade | 41.00% | ~11,152 |
-| Smarter than a 5th Grader | 35.00% | ~9,520 |
-| Study Session | 31.00% | ~8,432 |
-| Unlucky | 19.00% | ~5,168 |
-| Exam Practice | 13.00% | ~3,536 |
-| In The Honor Roll | 10.00% | ~2,720 |
-| Byoing | 7.00% | ~1,904 |
-| 2nd Grade | 2.00% | ~544 |
-| Full House | 0.70% | ~190 |
-| 3rd Grade | 0.70% | ~190 |
-| "A" Student | 0.40% | ~109 |
-| 4th Grade | 0.40% | ~109 |
-| Prodigy of all Trades | 0.40% | ~109 |
-| Self-Sufficient | 0.40% | ~109 |
+| Exam Time | 84.00% | ~228 |
+| 1st Grade | 41.00% | ~112 |
+| Smarter than a 5th Grader | 35.00% | ~95 |
+| Study Session | 31.00% | ~84 |
+| Unlucky | 19.00% | ~52 |
+| Exam Practice | 13.00% | ~35 |
+| In The Honor Roll | 10.00% | ~27 |
+| Byoing | 7.00% | ~19 |
+| 2nd Grade | 2.00% | ~5 |
+| Full House | 0.70% | ~2 |
+| 3rd Grade | 0.70% | ~2 |
+| "A" Student | 0.40% | ~1 |
+| 4th Grade | 0.40% | ~1 |
+| Prodigy of all Trades | 0.40% | ~1 |
+| Self-Sufficient | 0.40% | ~1 |
 | "A+" Student | 0.00% | ~0 |
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |

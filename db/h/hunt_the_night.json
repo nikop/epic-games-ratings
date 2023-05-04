@@ -16,7 +16,7 @@
       "Name": "Child of the Night",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_02",
@@ -24,7 +24,7 @@
       "Name": "The Return of the King",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_03",
@@ -32,7 +32,7 @@
       "Name": "Flames of Torment",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_04",
@@ -40,7 +40,7 @@
       "Name": "Master of Lies",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_05",
@@ -48,7 +48,7 @@
       "Name": "Force of Nature",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_06",
@@ -56,7 +56,7 @@
       "Name": "The Witch and the Snake",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_07",
@@ -64,7 +64,7 @@
       "Name": "Will of the Triumvirate",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_08",
@@ -72,7 +72,7 @@
       "Name": "Aria of Blood",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_09",
@@ -80,7 +80,7 @@
       "Name": "Paragon of Grace and Pain",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_10",
@@ -88,7 +88,7 @@
       "Name": "Sins of the Father",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_11",
@@ -96,7 +96,7 @@
       "Name": "One of the Cycle",
       "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_12",
@@ -104,7 +104,7 @@
       "Name": "Everlasting Day",
       "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_13",
@@ -112,7 +112,7 @@
       "Name": "Stalker of the 9th Age",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_14",
@@ -128,7 +128,7 @@
       "Name": "A Kind Heart",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_16",
@@ -152,7 +152,7 @@
       "Name": "Seeker of Progress",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_19",
@@ -160,7 +160,7 @@
       "Name": "Dressed for Battle",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_20",
@@ -197,13 +197,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T22:24:38.7732417+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:28.6736861+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-04T22:24:38.7732568+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:04.4413989+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:28.6737017+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:48.0914258+00:00",
   "AchievementSets": [
     {
       "ID": "2eim4o3",
@@ -218,7 +218,7 @@
   "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,

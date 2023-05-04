@@ -16,7 +16,7 @@
       "Name": "Hello World",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
@@ -64,7 +64,7 @@
       "Name": "I Think, Therefore I Am",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "BLOOD_BEGETS_BLOOD",
@@ -120,7 +120,7 @@
       "Name": "First Day of the Rest of Your Life",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "FORTRAN_COMPLETE",
@@ -144,7 +144,7 @@
       "Name": "Job Creator",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "KEEPER_OF_THE_PEOPLE",
@@ -176,7 +176,7 @@
       "Name": "The Real Beginning",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
@@ -240,7 +240,7 @@
       "Name": "Shook Up",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "SOCIAL_BUTTERFLY",
@@ -312,7 +312,7 @@
       "Name": "The Birds and the Bees",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_SPICE_OF_LIFE",
@@ -425,13 +425,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-04T22:24:49.5869626+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:39.0689178+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 4,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:24:49.5870303+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:43.6547676+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:39.0689564+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:25.827579+00:00",
   "AchievementSets": [
     {
       "ID": "2d85n75",
@@ -446,7 +446,7 @@
   "FirstSeen": "2023-05-04T20:59:38.4702688+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,

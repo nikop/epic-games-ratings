@@ -112,7 +112,7 @@
       "Name": "Immersion Breaking",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "InternetExplorer",
@@ -227,13 +227,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 26,
-  "LastChanged_Achievements": "2023-05-04T22:24:48.2942026+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:37.8310678+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:24:48.2942331+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:41.6440664+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:37.8312138+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:24.2827437+00:00",
   "AchievementSets": [
     {
       "ID": "7ejh407",
@@ -243,7 +243,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,

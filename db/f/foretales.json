@@ -8,7 +8,7 @@
       "Name": "Be kind to monsters",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 8
     },
     {
       "ID": "blindAsABat",
@@ -24,7 +24,7 @@
       "Name": "Squid Game",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 10
     },
     {
       "ID": "chapter1",
@@ -32,7 +32,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12144
+      "UsersEstimate": 121
     },
     {
       "ID": "chapter2",
@@ -40,7 +40,7 @@
       "Name": "Aboard the Sea Bird",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7843
+      "UsersEstimate": 78
     },
     {
       "ID": "chapter3",
@@ -48,7 +48,7 @@
       "Name": "Is this the end?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 6325
+      "UsersEstimate": 63
     },
     {
       "ID": "darkAndStinky",
@@ -56,7 +56,7 @@
       "Name": "Dark and stinky",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 7337
+      "UsersEstimate": 73
     },
     {
       "ID": "darkVolepain",
@@ -64,7 +64,7 @@
       "Name": "D4RK V0L3P41N",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 8
     },
     {
       "ID": "doneNegotiating",
@@ -72,7 +72,7 @@
       "Name": "Done negotiating",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 2
     },
     {
       "ID": "doubleTrouble",
@@ -80,7 +80,7 @@
       "Name": "Double trouble",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 43
     },
     {
       "ID": "familyReunion",
@@ -88,7 +88,7 @@
       "Name": "Family reunion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 8
     },
     {
       "ID": "forceOfNature",
@@ -104,7 +104,7 @@
       "Name": "Gotcha",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 4554
+      "UsersEstimate": 46
     },
     {
       "ID": "iDareYou",
@@ -120,7 +120,7 @@
       "Name": "Invulnerable",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 1
     },
     {
       "ID": "itsEmpty",
@@ -128,7 +128,7 @@
       "Name": "A grave matter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1771
+      "UsersEstimate": 18
     },
     {
       "ID": "itsNotCheating",
@@ -136,7 +136,7 @@
       "Name": "It\u0027s not cheating",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4048
+      "UsersEstimate": 40
     },
     {
       "ID": "meetYourMaker",
@@ -144,7 +144,7 @@
       "Name": "Meet your maker",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2277
+      "UsersEstimate": 23
     },
     {
       "ID": "mesmerecital",
@@ -152,7 +152,7 @@
       "Name": "A bard day\u0027s night",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 13
     },
     {
       "ID": "moneyTalks",
@@ -160,7 +160,7 @@
       "Name": "Money talks",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     },
     {
       "ID": "objection",
@@ -168,7 +168,7 @@
       "Name": "The pelican brief",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1771
+      "UsersEstimate": 18
     },
     {
       "ID": "oneShotBlade",
@@ -176,7 +176,7 @@
       "Name": "One shot blade",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "pacificProtest",
@@ -184,7 +184,7 @@
       "Name": "Peaceful protest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     },
     {
       "ID": "pacifistFanatic",
@@ -192,7 +192,7 @@
       "Name": "Pacifist fanatic",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2024
+      "UsersEstimate": 20
     },
     {
       "ID": "sayHelloToMyLittleFriends",
@@ -200,7 +200,7 @@
       "Name": "Say hello to my little friends",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5313
+      "UsersEstimate": 53
     },
     {
       "ID": "sneakInSneakOut",
@@ -208,7 +208,7 @@
       "Name": "Sneak in, sneak out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6578
+      "UsersEstimate": 66
     },
     {
       "ID": "stronk",
@@ -216,7 +216,7 @@
       "Name": "Stronk",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3795
+      "UsersEstimate": 38
     },
     {
       "ID": "superMothBoy",
@@ -224,7 +224,7 @@
       "Name": "Super Moth Boy",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3036
+      "UsersEstimate": 30
     },
     {
       "ID": "theBadPlace",
@@ -232,7 +232,7 @@
       "Name": "The Bad Place",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2277
+      "UsersEstimate": 23
     },
     {
       "ID": "theGoodPlace",
@@ -240,7 +240,7 @@
       "Name": "The Good Place",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1771
+      "UsersEstimate": 18
     },
     {
       "ID": "theGreatScam",
@@ -248,7 +248,7 @@
       "Name": "Lyre lyre pants on fyre",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 10
     },
     {
       "ID": "theHealer",
@@ -256,7 +256,7 @@
       "Name": "Heal thyself",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4554
+      "UsersEstimate": 46
     },
     {
       "ID": "theMediumPlace",
@@ -264,7 +264,7 @@
       "Name": "The Medium Place",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "theNovice",
@@ -272,7 +272,7 @@
       "Name": "A gift horse",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 61
     },
     {
       "ID": "thePirate",
@@ -280,7 +280,7 @@
       "Name": "Pieces of eight!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 10373
+      "UsersEstimate": 104
     },
     {
       "ID": "thePolitician",
@@ -288,7 +288,7 @@
       "Name": "Elephant in the room",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7590
+      "UsersEstimate": 76
     },
     {
       "ID": "theRanger",
@@ -296,7 +296,7 @@
       "Name": "Caged tiger",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15433
+      "UsersEstimate": 154
     },
     {
       "ID": "theUnionLeader",
@@ -304,7 +304,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 14168
+      "UsersEstimate": 142
     },
     {
       "ID": "trialByCombat",
@@ -312,7 +312,7 @@
       "Name": "Trial by combat",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1771
+      "UsersEstimate": 18
     },
     {
       "ID": "welcomeToForteAiles",
@@ -320,7 +320,7 @@
       "Name": "Welcome to Forte Ailes",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 3289
+      "UsersEstimate": 33
     },
     {
       "ID": "youSssavedMe",
@@ -328,7 +328,7 @@
       "Name": "You sssaved me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5819
+      "UsersEstimate": 58
     }
   ],
   "Tags": [],
@@ -364,13 +364,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-04T22:25:01.6637353+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:51.4801422+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 253,
-  "LastUpdate_Achievements": "2023-05-04T22:25:01.6637887+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:23.5449742+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:51.4801701+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:34:04.7398708+00:00",
   "AchievementSets": [
     {
       "ID": "5bkacmp",
@@ -385,7 +385,7 @@
   "FirstSeen": "2022-09-15T22:31:51.1934709+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 214,

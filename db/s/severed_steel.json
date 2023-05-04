@@ -8,7 +8,7 @@
       "Name": "1000 KILLS",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1200741
+      "UsersEstimate": 12008
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -16,7 +16,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4002470
+      "UsersEstimate": 40025
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -24,7 +24,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2401482
+      "UsersEstimate": 24015
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -32,7 +32,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3602223
+      "UsersEstimate": 36022
     },
     {
       "ID": "BIGUPS",
@@ -40,7 +40,7 @@
       "Name": "HEY THATS CHEATING",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "BRAWLER",
@@ -48,7 +48,7 @@
       "Name": "COMPLIMENTS TO THE CHEF",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "BUTWHY",
@@ -56,7 +56,7 @@
       "Name": "BUT WHY?",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "CHALET",
@@ -64,7 +64,7 @@
       "Name": "CHALET",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "CHAPTER1",
@@ -72,7 +72,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2801729
+      "UsersEstimate": 28018
     },
     {
       "ID": "CHAPTER2",
@@ -80,7 +80,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2001235
+      "UsersEstimate": 20012
     },
     {
       "ID": "CHAPTER3",
@@ -88,7 +88,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1600988
+      "UsersEstimate": 16010
     },
     {
       "ID": "CHAPTER4",
@@ -96,7 +96,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1600988
+      "UsersEstimate": 16010
     },
     {
       "ID": "CHAPTER5",
@@ -104,7 +104,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1200741
+      "UsersEstimate": 12008
     },
     {
       "ID": "CHAPTER6",
@@ -112,7 +112,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1200741
+      "UsersEstimate": 12008
     },
     {
       "ID": "CHURCH",
@@ -120,7 +120,7 @@
       "Name": "CHURCH",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "COMMAND",
@@ -128,7 +128,7 @@
       "Name": "COMMAND - [EXIST]",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "ESCAPISM",
@@ -136,7 +136,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1200741
+      "UsersEstimate": 12008
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -144,7 +144,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 400247
+      "UsersEstimate": 4002
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -152,7 +152,7 @@
       "Name": "FIREFIGHT LEVEL 20",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 240148
+      "UsersEstimate": 2402
     },
     {
       "ID": "FIREFIGHT30 LEVEL (0-30)",
@@ -160,7 +160,7 @@
       "Name": "FIREFIGHT LEVEL 30",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 120074
+      "UsersEstimate": 1201
     },
     {
       "ID": "FIREFIGHT40 LEVEL (0-40)",
@@ -168,7 +168,7 @@
       "Name": "FIREFIGHT LEVEL 40",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 80049
+      "UsersEstimate": 800
     },
     {
       "ID": "FIREFIGHT50 LEVEL (0-50)",
@@ -176,7 +176,7 @@
       "Name": "FIREFIGHT LEVEL 50",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "FIREFIGHT60 LEVEL (0-60)",
@@ -184,7 +184,7 @@
       "Name": "FIREFIGHT LEVEL 60",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "FIREFIGHT70 LEVEL (0-70)",
@@ -192,7 +192,7 @@
       "Name": "FIREFIGHT LEVEL 70",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "FIREFIGHT80 LEVEL (0-80)",
@@ -200,7 +200,7 @@
       "Name": "FIREFIGHT LEVEL 80",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "FIREINTHEHOLE",
@@ -208,7 +208,7 @@
       "Name": "FIRE IN THE HOLE",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "FIRSTBLOOD ROGUERUNS (0-1)",
@@ -216,7 +216,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 200124
+      "UsersEstimate": 2001
     },
     {
       "ID": "FRESH",
@@ -224,7 +224,7 @@
       "Name": "FRESH",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "HUGESUCCESS",
@@ -232,7 +232,7 @@
       "Name": "HUGE SUCCESS",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "ICARUS",
@@ -240,7 +240,7 @@
       "Name": "ICARUS",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "INPUT",
@@ -248,7 +248,7 @@
       "Name": "INPUT - [QUERY]",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "KITTEDOUT",
@@ -256,7 +256,7 @@
       "Name": "KITTED OUT",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "METACITY",
@@ -264,7 +264,7 @@
       "Name": "HOLOGRAM SUMMER",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "NGP",
@@ -272,7 +272,7 @@
       "Name": "NEW GAME PLUS",
       "Percentage": 0.2,
       "XP": 115,
-      "UsersEstimate": 80049
+      "UsersEstimate": 800
     },
     {
       "ID": "OFFTHEHINGES",
@@ -280,7 +280,7 @@
       "Name": "OFF THE HINGES",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "ONTHEEDGE",
@@ -288,7 +288,7 @@
       "Name": "ON THE EDGE",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "OUTOFORDER",
@@ -296,7 +296,7 @@
       "Name": "OUT OF ORDER",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 80049
+      "UsersEstimate": 800
     },
     {
       "ID": "OVERCLOCKED",
@@ -304,7 +304,7 @@
       "Name": "OVERCLOCKED",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "PACEMAKER",
@@ -312,7 +312,7 @@
       "Name": "PACEMAKER",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 120074
+      "UsersEstimate": 1201
     },
     {
       "ID": "PAINTRAIN",
@@ -320,7 +320,7 @@
       "Name": "PAIN TRAIN",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "PARADOX",
@@ -328,7 +328,7 @@
       "Name": "TIME PARADOX",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 120074
+      "UsersEstimate": 1201
     },
     {
       "ID": "PARTYHARD",
@@ -336,7 +336,7 @@
       "Name": "PARTYHARD",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 80049
+      "UsersEstimate": 800
     },
     {
       "ID": "REMEMBERTHEARMORY",
@@ -344,7 +344,7 @@
       "Name": "REMEMBER THE ARMORY",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "RR10 ROGUERUNS (0-10)",
@@ -352,7 +352,7 @@
       "Name": "10 RUNS",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "RR20 ROGUERUNS (0-20)",
@@ -360,7 +360,7 @@
       "Name": "20 RUNS",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "RR5 ROGUERUNS (0-5)",
@@ -368,7 +368,7 @@
       "Name": "5 RUNS",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "SAVORTHEMOMENT",
@@ -376,7 +376,7 @@
       "Name": "SAVOR THE MOMENT",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "SCIENCE",
@@ -384,7 +384,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2801729
+      "UsersEstimate": 28018
     },
     {
       "ID": "SOUL",
@@ -392,7 +392,7 @@
       "Name": "SOUL - HORIZONS",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "THECOLLECTOR",
@@ -400,7 +400,7 @@
       "Name": "THE COLLECTOR",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "THEGAMBLER",
@@ -408,7 +408,7 @@
       "Name": "THE GAMBLER",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     },
     {
       "ID": "WARRIORINAGARDEN",
@@ -416,7 +416,7 @@
       "Name": "WARRIOR IN A GARDEN",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 40025
+      "UsersEstimate": 400
     }
   ],
   "Tags": [
@@ -1532,6 +1532,11 @@
       "Time": "2023-05-04T22:24:47.3914915+00:00",
       "NumProgressed": 400247,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-04T22:39:36.9590867+00:00",
+      "NumProgressed": 400250,
+      "NumCompleted": 29
     }
   ],
   "RatingHistory": [
@@ -1696,18 +1701,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 52,
-  "LastChanged_Achievements": "2023-05-04T22:24:47.3914906+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:36.959086+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2862,
+  "EOS_NewPlayers": 2865,
   "EOS_Completed": 29,
-  "EOS_Progressed": 400247,
-  "LastUpdate_Achievements": "2023-05-04T22:24:47.3915667+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:33.3181535+00:00",
+  "EOS_Progressed": 400250,
+  "LastUpdate_Achievements": "2023-05-04T22:39:36.9591321+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:15.9040094+00:00",
   "AchievementSets": [
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400247,
+      "Progressed": 400250,
       "Completed": 29
     }
   ],

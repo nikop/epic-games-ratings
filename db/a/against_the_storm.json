@@ -8,7 +8,7 @@
       "Name": "Serving Ale",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "AllFood",
@@ -16,7 +16,7 @@
       "Name": "Feeding The People",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "AllNeeds",
@@ -24,7 +24,7 @@
       "Name": "Paradise",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "AllServices",
@@ -32,7 +32,7 @@
       "Name": "Higher Needs",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "BeaverUtopia",
@@ -40,7 +40,7 @@
       "Name": "Beaver Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "HarpyUtopia",
@@ -48,7 +48,7 @@
       "Name": "Harpy Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "HumanUtopia",
@@ -56,7 +56,7 @@
       "Name": "Human Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "LizardUtopia",
@@ -64,7 +64,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "ManyEvents",
@@ -72,7 +72,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "MetalChain",
@@ -80,7 +80,7 @@
       "Name": "Refinery",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "Win5Years",
@@ -88,7 +88,7 @@
       "Name": "Homesick",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinFirstGame",
@@ -96,7 +96,7 @@
       "Name": "First Real Expedition",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinHard",
@@ -104,7 +104,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinImpossible",
@@ -112,7 +112,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 2927
+      "UsersEstimate": 29
     },
     {
       "ID": "WinNearArmory",
@@ -120,7 +120,7 @@
       "Name": "Ruined Armory",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 29
     },
     {
       "ID": "WinNearBandit",
@@ -128,7 +128,7 @@
       "Name": "Bandit Camp",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5855
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearBarren",
@@ -136,7 +136,7 @@
       "Name": "Barren Lands",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5855
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearBattleground",
@@ -144,7 +144,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearCrystals",
@@ -152,7 +152,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearDangerous",
@@ -160,7 +160,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearFertile",
@@ -168,7 +168,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearFishmen",
@@ -176,7 +176,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 29
     },
     {
       "ID": "WinNearForbidden",
@@ -184,7 +184,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 29
     },
     {
       "ID": "WinNearHaunted",
@@ -192,7 +192,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearLevitating",
@@ -200,7 +200,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearMines",
@@ -208,7 +208,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearMonastery",
@@ -216,7 +216,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearOutpost",
@@ -224,7 +224,7 @@
       "Name": "Royal Outpost",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearRuins",
@@ -232,7 +232,7 @@
       "Name": "Lost Colonies",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearStatue",
@@ -240,7 +240,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 29
     },
     {
       "ID": "WinNearTemple",
@@ -248,7 +248,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearTorrent",
@@ -256,7 +256,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearWatchtower",
@@ -264,7 +264,7 @@
       "Name": "Watchtower",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinOnCoral",
@@ -272,7 +272,7 @@
       "Name": "Coral Forest",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinOnCursed",
@@ -280,7 +280,7 @@
       "Name": "Cursed Lands",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinOnMarshlands",
@@ -288,7 +288,7 @@
       "Name": "The Marshlands",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8782
+      "UsersEstimate": 88
     },
     {
       "ID": "WinOnMoorlands",
@@ -296,7 +296,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinPrestige10",
@@ -304,7 +304,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "WinPrestige20",
@@ -312,7 +312,7 @@
       "Name": "The Queen\u0027s Chosen",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "WinVeryHard",
@@ -320,7 +320,7 @@
       "Name": "A Real Challenge",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "WinWIthCaches",
@@ -328,7 +328,7 @@
       "Name": "Treasure",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "WinWithBlight",
@@ -336,7 +336,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "WinWithEvents",
@@ -344,7 +344,7 @@
       "Name": "Taking Action",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinWithResolve",
@@ -352,7 +352,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "WinWithRuins",
@@ -360,7 +360,7 @@
       "Name": "Ruins",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 15
     },
     {
       "ID": "WinWithTimedOrders",
@@ -368,7 +368,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7318
+      "UsersEstimate": 73
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -376,7 +376,7 @@
       "Name": "Trade Baron",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5855
+      "UsersEstimate": 59
     },
     {
       "ID": "WinWithoutDeath",
@@ -384,7 +384,7 @@
       "Name": "No Deaths",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8782
+      "UsersEstimate": 88
     },
     {
       "ID": "WinWithoutOrders",
@@ -392,7 +392,7 @@
       "Name": "Defying the Crown",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4391
+      "UsersEstimate": 44
     },
     {
       "ID": "Year1Dangerous",
@@ -400,7 +400,7 @@
       "Name": "Into the Forest",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 2927
+      "UsersEstimate": 29
     }
   ],
   "Tags": [
@@ -3188,13 +3188,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T22:24:56.3486612+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:46.05566+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 152,
   "EOS_Completed": 30,
   "EOS_Progressed": 14637,
-  "LastUpdate_Achievements": "2023-05-04T22:24:56.3487092+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:58.603099+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:46.0557547+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:39.689865+00:00",
   "AchievementSets": [
     {
       "ID": "cfbk359",
@@ -3210,8 +3210,8 @@
   "NumberOfAwardsMax": 417,
   "NumberOfAwards": 3012,
   "NumberOfRatings": 1845,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 97,
   "Ranking_PopularitySum": 148,

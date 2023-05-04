@@ -9,56 +9,56 @@ Diff (max vs sum): 86
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~562,198 |
-| Photogenic | 87.00% | ~537,486 |
-| Surge Gauntlet Jockey | 85.00% | ~525,130 |
-| Plug It In | 84.00% | ~518,952 |
-| Adventure Time | 80.00% | ~494,240 |
-| Playing With Power | 77.00% | ~475,706 |
-| You're Fired | 59.00% | ~364,502 |
-| Coup d'Etat | 58.00% | ~358,324 |
-| Get Furious | 55.00% | ~339,790 |
-| Gunplay And Cosplay | 54.00% | ~333,612 |
-| Hacks In Stacks | 54.00% | ~333,612 |
-| Meching Enemies | 49.00% | ~302,722 |
-| Booty Bashing | 48.00% | ~296,544 |
-| Ticket Toddler | 48.00% | ~296,544 |
-| Here Comes a New Challenger | 37.00% | ~228,586 |
-| Field Medic | 36.00% | ~222,408 |
-| Guardian Angel | 34.00% | ~210,052 |
-| Rapid Response | 32.00% | ~197,696 |
-| The Full Monty | 32.00% | ~197,696 |
-| Surge Ahead | 31.00% | ~191,518 |
-| Poppin Noggins | 25.00% | ~154,450 |
-| Clips and Crits | 24.00% | ~148,272 |
-| Grey Goo | 21.00% | ~129,738 |
-| Boss of Bosses | 15.00% | ~92,670 |
-| The Final Blow | 15.00% | ~92,670 |
-| Light My Fire | 14.00% | ~86,492 |
-| Seasoned Adventurer | 13.00% | ~80,314 |
-| 1.21 Gigawatts | 12.00% | ~74,136 |
-| To Be Continued | 12.00% | ~74,136 |
-| This Is My Boomstick! | 11.00% | ~67,958 |
-| Get In The Ring! | 9.00% | ~55,602 |
-| Ticket Titan | 8.00% | ~49,424 |
-| Rescue Ranger | 6.00% | ~37,068 |
-| Surge Gauntlet Scholar | 6.00% | ~37,068 |
-| No Chill | 5.00% | ~30,890 |
-| Stop Hitting Yourself | 5.00% | ~30,890 |
-| Ground Control | 4.00% | ~24,712 |
-| Team Player | 4.00% | ~24,712 |
-| Treasure Hunting | 4.00% | ~24,712 |
-| Event Horizon | 3.00% | ~18,534 |
-| Master of Arms | 3.00% | ~18,534 |
-| Start Your Collection | 3.00% | ~18,534 |
-| Nexuwizard | 2.00% | ~12,356 |
-| Nature Is Lit | 1.00% | ~6,178 |
-| Everybody Freeze | 0.90% | ~5,560 |
-| The Collector | 0.90% | ~5,560 |
-| Shield and Shred | 0.70% | ~4,325 |
-| I'm The Pluggernaut | 0.50% | ~3,089 |
-| Infinite Adventures! | 0.50% | ~3,089 |
-| Pyrotechnical | 0.20% | ~1,236 |
+| Let's Get This Party Started | 91.00% | ~5,622 |
+| Photogenic | 87.00% | ~5,375 |
+| Surge Gauntlet Jockey | 85.00% | ~5,251 |
+| Plug It In | 84.00% | ~5,190 |
+| Adventure Time | 80.00% | ~4,942 |
+| Playing With Power | 77.00% | ~4,757 |
+| You're Fired | 59.00% | ~3,645 |
+| Coup d'Etat | 58.00% | ~3,583 |
+| Get Furious | 55.00% | ~3,398 |
+| Gunplay And Cosplay | 54.00% | ~3,336 |
+| Hacks In Stacks | 54.00% | ~3,336 |
+| Meching Enemies | 49.00% | ~3,027 |
+| Booty Bashing | 48.00% | ~2,965 |
+| Ticket Toddler | 48.00% | ~2,965 |
+| Here Comes a New Challenger | 37.00% | ~2,286 |
+| Field Medic | 36.00% | ~2,224 |
+| Guardian Angel | 34.00% | ~2,101 |
+| Rapid Response | 32.00% | ~1,977 |
+| The Full Monty | 32.00% | ~1,977 |
+| Surge Ahead | 31.00% | ~1,915 |
+| Poppin Noggins | 25.00% | ~1,544 |
+| Clips and Crits | 24.00% | ~1,483 |
+| Grey Goo | 21.00% | ~1,297 |
+| Boss of Bosses | 15.00% | ~927 |
+| The Final Blow | 15.00% | ~927 |
+| Light My Fire | 14.00% | ~865 |
+| Seasoned Adventurer | 13.00% | ~803 |
+| 1.21 Gigawatts | 12.00% | ~741 |
+| To Be Continued | 12.00% | ~741 |
+| This Is My Boomstick! | 11.00% | ~680 |
+| Get In The Ring! | 9.00% | ~556 |
+| Ticket Titan | 8.00% | ~494 |
+| Rescue Ranger | 6.00% | ~371 |
+| Surge Gauntlet Scholar | 6.00% | ~371 |
+| No Chill | 5.00% | ~309 |
+| Stop Hitting Yourself | 5.00% | ~309 |
+| Ground Control | 4.00% | ~247 |
+| Team Player | 4.00% | ~247 |
+| Treasure Hunting | 4.00% | ~247 |
+| Event Horizon | 3.00% | ~185 |
+| Master of Arms | 3.00% | ~185 |
+| Start Your Collection | 3.00% | ~185 |
+| Nexuwizard | 2.00% | ~124 |
+| Nature Is Lit | 1.00% | ~62 |
+| Everybody Freeze | 0.90% | ~56 |
+| The Collector | 0.90% | ~56 |
+| Shield and Shred | 0.70% | ~43 |
+| I'm The Pluggernaut | 0.50% | ~31 |
+| Infinite Adventures! | 0.50% | ~31 |
+| Pyrotechnical | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,178 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 191)  

@@ -3,22 +3,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Child of the Night | 53.00% | ~901 |
-| The Return of the King | 29.00% | ~493 |
-| Flames of Torment | 18.00% | ~306 |
-| Master of Lies | 18.00% | ~306 |
-| Force of Nature | 12.00% | ~204 |
-| The Witch and the Snake | 12.00% | ~204 |
-| Will of the Triumvirate | 12.00% | ~204 |
-| A Kind Heart | 12.00% | ~204 |
-| Seeker of Progress | 12.00% | ~204 |
-| Aria of Blood | 6.00% | ~102 |
-| Paragon of Grace and Pain | 6.00% | ~102 |
-| Sins of the Father | 6.00% | ~102 |
-| One of the Cycle | 6.00% | ~102 |
-| Everlasting Day | 6.00% | ~102 |
-| Stalker of the 9th Age | 6.00% | ~102 |
-| Dressed for Battle | 6.00% | ~102 |
+| Child of the Night | 53.00% | ~9 |
+| The Return of the King | 29.00% | ~5 |
+| Flames of Torment | 18.00% | ~3 |
+| Master of Lies | 18.00% | ~3 |
+| Force of Nature | 12.00% | ~2 |
+| The Witch and the Snake | 12.00% | ~2 |
+| Will of the Triumvirate | 12.00% | ~2 |
+| A Kind Heart | 12.00% | ~2 |
+| Seeker of Progress | 12.00% | ~2 |
+| Aria of Blood | 6.00% | ~1 |
+| Paragon of Grace and Pain | 6.00% | ~1 |
+| Sins of the Father | 6.00% | ~1 |
+| One of the Cycle | 6.00% | ~1 |
+| Everlasting Day | 6.00% | ~1 |
+| Stalker of the 9th Age | 6.00% | ~1 |
+| Dressed for Battle | 6.00% | ~1 |
 | Evening Star | 0.00% | ~0 |
 | Relics of the Order | 0.00% | ~0 |
 | Knowledge is Power | 0.00% | ~0 |

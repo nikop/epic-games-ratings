@@ -3,28 +3,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 95.00% | ~18,715 |
-| Practice Makes Perfect | 83.00% | ~16,351 |
-| Creator of Life | 82.00% | ~16,154 |
-| Creator of Diversity | 70.00% | ~13,790 |
-| Similar to Similar | 68.00% | ~13,396 |
-| Creator of Humanity | 63.00% | ~12,411 |
-| Creator of Civilization | 36.00% | ~7,092 |
-| Honorable Santa | 24.00% | ~4,728 |
-| Creator of Technology | 23.00% | ~4,531 |
-| Creator of Modernity | 17.00% | ~3,349 |
-| God of Fun | 17.00% | ~3,349 |
-| Doodle Bar | 17.00% | ~3,349 |
-| Half the Kingdom | 17.00% | ~3,349 |
-| Deity of Darkness | 16.00% | ~3,152 |
-| Creator of Magic | 15.00% | ~2,955 |
-| Salvation! | 10.00% | ~1,970 |
-| Heavenly Virtues | 10.00% | ~1,970 |
-| Brilliant Inventor | 8.00% | ~1,576 |
-| Master of the Worlds | 7.00% | ~1,379 |
-| Greatest inventor | 7.00% | ~1,379 |
-| Master of Alchemy | 6.00% | ~1,182 |
-| God of Patience | 4.00% | ~788 |
+| Good Start | 95.00% | ~187 |
+| Practice Makes Perfect | 83.00% | ~164 |
+| Creator of Life | 82.00% | ~162 |
+| Creator of Diversity | 70.00% | ~138 |
+| Similar to Similar | 68.00% | ~134 |
+| Creator of Humanity | 63.00% | ~124 |
+| Creator of Civilization | 36.00% | ~71 |
+| Honorable Santa | 24.00% | ~47 |
+| Creator of Technology | 23.00% | ~45 |
+| Creator of Modernity | 17.00% | ~33 |
+| God of Fun | 17.00% | ~33 |
+| Doodle Bar | 17.00% | ~33 |
+| Half the Kingdom | 17.00% | ~33 |
+| Deity of Darkness | 16.00% | ~32 |
+| Creator of Magic | 15.00% | ~30 |
+| Salvation! | 10.00% | ~20 |
+| Heavenly Virtues | 10.00% | ~20 |
+| Brilliant Inventor | 8.00% | ~16 |
+| Master of the Worlds | 7.00% | ~14 |
+| Greatest inventor | 7.00% | ~14 |
+| Master of Alchemy | 6.00% | ~12 |
+| God of Patience | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 197 (Ranked 222)  
 Completed: 8 (4.06%) (Ranked 31)  

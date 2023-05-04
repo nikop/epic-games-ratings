@@ -8,7 +8,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 65637
+      "UsersEstimate": 656
     },
     {
       "ID": "11",
@@ -16,7 +16,7 @@
       "Name": "In the bank",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 7
     },
     {
       "ID": "12",
@@ -24,7 +24,7 @@
       "Name": "Well oiled Veteran",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 2
     },
     {
       "ID": "13",
@@ -32,7 +32,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 26520
+      "UsersEstimate": 265
     },
     {
       "ID": "14",
@@ -40,7 +40,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 45747
+      "UsersEstimate": 457
     },
     {
       "ID": "15",
@@ -48,7 +48,7 @@
       "Name": "Whole again",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 7956
+      "UsersEstimate": 80
     },
     {
       "ID": "16",
@@ -56,7 +56,7 @@
       "Name": "American Legend",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 663
+      "UsersEstimate": 7
     },
     {
       "ID": "17",
@@ -72,7 +72,7 @@
       "Name": "Lightning fast",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 1
     },
     {
       "ID": "19",
@@ -80,7 +80,7 @@
       "Name": "Risky business",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3978
+      "UsersEstimate": 40
     },
     {
       "ID": "2",
@@ -88,7 +88,7 @@
       "Name": "First one tastes better",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2652
+      "UsersEstimate": 27
     },
     {
       "ID": "20",
@@ -104,7 +104,7 @@
       "Name": "Participation trophy",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 15249
+      "UsersEstimate": 152
     },
     {
       "ID": "22",
@@ -112,7 +112,7 @@
       "Name": "Getting the job done",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 5304
+      "UsersEstimate": 53
     },
     {
       "ID": "23",
@@ -128,7 +128,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 1
     },
     {
       "ID": "25",
@@ -136,7 +136,7 @@
       "Name": "Better than the pros",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1326
+      "UsersEstimate": 13
     },
     {
       "ID": "26",
@@ -144,7 +144,7 @@
       "Name": "Fan Boy",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 6
     },
     {
       "ID": "27",
@@ -152,7 +152,7 @@
       "Name": "Dedicated tourist",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 6
     },
     {
       "ID": "28",
@@ -160,7 +160,7 @@
       "Name": "Better late then never",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 2652
+      "UsersEstimate": 27
     },
     {
       "ID": "29",
@@ -184,7 +184,7 @@
       "Name": "Ready to Mingle",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3315
+      "UsersEstimate": 33
     },
     {
       "ID": "31",
@@ -232,7 +232,7 @@
       "Name": "Secure the bag",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
@@ -240,7 +240,7 @@
       "Name": "For Science!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 2
     },
     {
       "ID": "7",
@@ -248,7 +248,7 @@
       "Name": "Cash Rules Everything Around Me",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5304
+      "UsersEstimate": 53
     },
     {
       "ID": "8",
@@ -256,7 +256,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 20553
+      "UsersEstimate": 206
     },
     {
       "ID": "9",
@@ -264,7 +264,7 @@
       "Name": "Oops, My bad",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 45084
+      "UsersEstimate": 451
     }
   ],
   "Tags": [],
@@ -295,13 +295,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-04T22:24:25.428602+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:15.1787462+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 663,
-  "LastUpdate_Achievements": "2023-05-04T22:24:25.4286421+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:39.6954875+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:15.1787723+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:22.983059+00:00",
   "AchievementSets": [
     {
       "ID": "4n5bj21",
@@ -316,7 +316,7 @@
   "FirstSeen": "2023-01-04T05:56:51.2215756+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 178,

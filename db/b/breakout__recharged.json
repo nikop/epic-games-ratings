@@ -8,7 +8,7 @@
       "Name": "Another Brick in the Wall (Part 1)",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 5032
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ANOTHER_BRICK_2",
@@ -16,7 +16,7 @@
       "Name": "Another Brick in the Wall (Part 2)",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3468
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ANOTHER_BRICK_3",
@@ -24,7 +24,7 @@
       "Name": "Another Brick in the Wall (Part 3)",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 2788
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ANYBODY_THERE",
@@ -32,7 +32,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 6528
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -40,7 +40,7 @@
       "Name": "Biding My Time",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 3128
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_BURNING_BRIDGES",
@@ -48,7 +48,7 @@
       "Name": "Burning Bridges",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 2176
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_CLUSTER_ONE",
@@ -56,7 +56,7 @@
       "Name": "Cluster One",
       "Percentage": 90,
       "XP": 40,
-      "UsersEstimate": 6120
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_COMFORTABLY_NUMB",
@@ -64,7 +64,7 @@
       "Name": "Comfortably Numb",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -72,7 +72,7 @@
       "Name": "The Dogs of War",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 884
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ECHOES",
@@ -80,7 +80,7 @@
       "Name": "Echoes",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 3808
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
@@ -88,7 +88,7 @@
       "Name": "The Gunner\u0027s Dream",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 2992
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_HIGH_HOPES",
@@ -96,7 +96,7 @@
       "Name": "High Hopes",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_KING_BEE",
@@ -104,7 +104,7 @@
       "Name": "I\u0027m a King Bee",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 612
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LAST_FEW_BRICK",
@@ -112,7 +112,7 @@
       "Name": "The Last Few Bricks",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2176
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_WHAT_DO",
@@ -120,7 +120,7 @@
       "Name": "What Shall We Do Now?",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     }
   ],
   "Tags": [],
@@ -146,13 +146,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:24:15.1354247+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:04.9817222+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 68,
-  "LastUpdate_Achievements": "2023-05-04T22:24:15.1354642+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:52.697625+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:04.9817372+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:36.217659+00:00",
   "AchievementSets": [
     {
       "ID": "5kae3ip",
@@ -167,7 +167,7 @@
   "FirstSeen": "2022-07-22T20:31:10.9468103+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_Progress": 260,

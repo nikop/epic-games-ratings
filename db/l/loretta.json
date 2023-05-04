@@ -8,7 +8,7 @@
       "Name": "Woman on the Run",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_end_rain_egs",
@@ -16,7 +16,7 @@
       "Name": "Lightning Strikes Twice",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_end_winter_egs",
@@ -24,7 +24,7 @@
       "Name": "I\u0027ve Got a Feeling I\u0027m Falling",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_find_key_dead_egs",
@@ -32,7 +32,7 @@
       "Name": "Dead man\u0027s hand",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_find_nest_egs",
@@ -40,7 +40,7 @@
       "Name": "Over The Cuckoo\u2019s Nest",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_find_true_hole_egs",
@@ -48,7 +48,7 @@
       "Name": "The Narrow Margin",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_find_true_land_egs",
@@ -56,7 +56,7 @@
       "Name": "Shadow of a Doubt",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_gas_chamber_egs",
@@ -64,7 +64,7 @@
       "Name": "The Big Sleep",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_good_rat_dead_egs",
@@ -72,7 +72,7 @@
       "Name": "The only good Rat is a dead Rat",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lora_kill_fitz_egs",
@@ -80,7 +80,7 @@
       "Name": "The Wrong Man",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_kill_kelly_egs",
@@ -88,7 +88,7 @@
       "Name": "Touch of Evil",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_kill_mic_cleaver_egs",
@@ -96,7 +96,7 @@
       "Name": "Bury Me Dead",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_kill_mic_grain_egs",
@@ -104,7 +104,7 @@
       "Name": "Kiss Me Deadly",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_kill_walt_egs",
@@ -112,7 +112,7 @@
       "Name": "Act of Violence",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lora_letter_cutter_egs",
@@ -120,7 +120,7 @@
       "Name": "Dead End",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_lora_look_your_own_past_egs",
@@ -128,7 +128,7 @@
       "Name": "Out of the Past",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_lora_new_beg_egs",
@@ -136,7 +136,7 @@
       "Name": "The New Beginning",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_lora_poison_chambers_egs",
@@ -144,7 +144,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_lora_pseudo_end_murmur_egs",
@@ -152,7 +152,7 @@
       "Name": "Murmuration",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_pseudo_end_spiders_egs",
@@ -160,7 +160,7 @@
       "Name": "Spiders In My Head",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lora_red_dead_egs",
@@ -168,7 +168,7 @@
       "Name": "Red is Dead",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_lora_take_cure_egs",
@@ -176,7 +176,7 @@
       "Name": "A Cure for Wellness",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     }
   ],
   "Tags": [],
@@ -197,13 +197,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T22:24:36.7988662+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:26.6495729+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:24:36.7988846+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:56.9037335+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:26.6495912+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:41.0109238+00:00",
   "AchievementSets": [
     {
       "ID": "134m0cb",
@@ -218,7 +218,7 @@
   "FirstSeen": "2023-02-17T11:58:15.8451401+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,

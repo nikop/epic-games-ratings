@@ -8,7 +8,7 @@
       "Name": "Piece of cake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETED_AXEL_2",
@@ -56,7 +56,7 @@
       "Name": "All systems go",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETED_BLAZE_2",
@@ -144,7 +144,7 @@
       "Name": "No need to say goodbye",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MASTERED_1",
@@ -152,7 +152,7 @@
       "Name": "Enemy shield analyzed",
       "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "MASTERED_2",
@@ -226,13 +226,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:24:45.5692755+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:35.1733266+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:24:45.5692915+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:30.7671265+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:35.1733431+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:13.5733595+00:00",
   "AchievementSets": [
     {
       "ID": "d91enl3",
@@ -242,7 +242,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,

@@ -3,14 +3,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dax the Defeated | 78.00% | ~702 |
-| Live Fast, Die Young | 56.00% | ~504 |
-| Dax the Destroyed | 44.00% | ~396 |
-| M'urdured | 33.00% | ~297 |
-| M'utilated | 11.00% | ~99 |
-| Keep Shattering | 11.00% | ~99 |
-| Keep Exploding | 11.00% | ~99 |
-| I Know Kung Fu | 11.00% | ~99 |
+| Dax the Defeated | 78.00% | ~7 |
+| Live Fast, Die Young | 56.00% | ~5 |
+| Dax the Destroyed | 44.00% | ~4 |
+| M'urdured | 33.00% | ~3 |
+| M'utilated | 11.00% | ~1 |
+| Keep Shattering | 11.00% | ~1 |
+| Keep Exploding | 11.00% | ~1 |
+| I Know Kung Fu | 11.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 191)  

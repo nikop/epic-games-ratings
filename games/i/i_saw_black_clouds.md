@@ -3,21 +3,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Believer | 51.00% | ~12,240 |
-| Origin | 47.00% | ~11,280 |
-| End | 45.00% | ~10,800 |
-| Nonconsensual | 31.00% | ~7,440 |
-| Realist | 28.00% | ~6,720 |
-| Escape | 19.00% | ~4,560 |
-| Wrong | 17.00% | ~4,080 |
-| Jack | 14.00% | ~3,360 |
-| Tough | 10.00% | ~2,400 |
-| Clear | 4.00% | ~960 |
-| Unfinished | 3.00% | ~720 |
-| Denial | 2.00% | ~480 |
-| Help | 2.00% | ~480 |
-| All endings | 1.00% | ~240 |
-| Interpret | 1.00% | ~240 |
+| Believer | 51.00% | ~122 |
+| Origin | 47.00% | ~113 |
+| End | 45.00% | ~108 |
+| Nonconsensual | 31.00% | ~74 |
+| Realist | 28.00% | ~67 |
+| Escape | 19.00% | ~46 |
+| Wrong | 17.00% | ~41 |
+| Jack | 14.00% | ~34 |
+| Tough | 10.00% | ~24 |
+| Clear | 4.00% | ~10 |
+| Unfinished | 3.00% | ~7 |
+| Denial | 2.00% | ~5 |
+| Help | 2.00% | ~5 |
+| All endings | 1.00% | ~2 |
+| Interpret | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 240 (Ranked 215)  
 Completed: 2 (0.83%) (Ranked 85)  

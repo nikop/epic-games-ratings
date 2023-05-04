@@ -9,59 +9,59 @@ Diff (max vs sum): -2
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~128,398 |
-| Self-Improvement | 71.00% | ~106,003 |
-| Perky | 66.00% | ~98,538 |
-| Let’s Ride | 60.00% | ~89,580 |
-| Welcome to the Weird West | 58.00% | ~86,594 |
-| Dead or Alive | 56.00% | ~83,608 |
-| Full House | 37.00% | ~55,241 |
-| Off the Trail | 34.00% | ~50,762 |
-| Justice Served | 29.00% | ~43,297 |
-| Chain Reaction | 27.00% | ~40,311 |
-| Rain of Death | 25.00% | ~37,325 |
-| Scholar | 25.00% | ~37,325 |
-| Through Their Eyes | 25.00% | ~37,325 |
-| Dishonored | 24.00% | ~35,832 |
-| The Great Escape | 23.00% | ~34,339 |
-| That’s All, Folks | 18.00% | ~26,874 |
-| Fallen Star | 16.00% | ~23,888 |
-| For Balance | 16.00% | ~23,888 |
-| Winds of War | 16.00% | ~23,888 |
-| Here Comes Santa Claus | 15.00% | ~22,395 |
-| Dog Days | 13.00% | ~19,409 |
-| Workers' Rights | 13.00% | ~19,409 |
-| Elusive Prey | 12.00% | ~17,916 |
-| Out on the Ebb Tide | 12.00% | ~17,916 |
-| Power Behind the Pulpit | 12.00% | ~17,916 |
-| Something Wicked This Way Comes… | 12.00% | ~17,916 |
-| There is Hope | 12.00% | ~17,916 |
-| Turning the Tables | 12.00% | ~17,916 |
-| The Philosopher’s Stone | 10.00% | ~14,930 |
-| Loyalty to the Pack | 9.00% | ~13,437 |
-| Eternity Can Wait | 9.00% | ~13,437 |
-| Mystery Machine | 9.00% | ~13,437 |
-| Gold Digger | 8.00% | ~11,944 |
-| Monster Hunter | 8.00% | ~11,944 |
-| Knuckle Sandwich | 8.00% | ~11,944 |
-| Do Not Pass Go… | 7.00% | ~10,451 |
-| Getting the Gang Back Together | 7.00% | ~10,451 |
-| Who You Gonna Call? | 6.00% | ~8,958 |
-| Healing Old Wounds | 5.00% | ~7,465 |
-| This Is Sparta | 5.00% | ~7,465 |
-| What’s in the Box? | 5.00% | ~7,465 |
-| Ghost Town | 3.00% | ~4,479 |
-| Moondrunk | 3.00% | ~4,479 |
-| Lord Inut Sends His Regards | 2.00% | ~2,986 |
-| 'Ma Barker | 1.00% | ~1,493 |
-| Hog Wild | 0.90% | ~1,344 |
-| I Kicked a Bird and I Liked it | 0.70% | ~1,045 |
-| End the world | 0.50% | ~746 |
-| Explorer | 0.40% | ~597 |
-| Moon Hunter | 0.40% | ~597 |
-| Dirt and Blame | 0.30% | ~448 |
-| Winter Has Come | 0.30% | ~448 |
-| Revenant | 0.20% | ~299 |
+| Unforgiven | 86.00% | ~1,284 |
+| Self-Improvement | 71.00% | ~1,060 |
+| Perky | 66.00% | ~985 |
+| Let’s Ride | 60.00% | ~896 |
+| Welcome to the Weird West | 58.00% | ~866 |
+| Dead or Alive | 56.00% | ~836 |
+| Full House | 37.00% | ~552 |
+| Off the Trail | 34.00% | ~508 |
+| Justice Served | 29.00% | ~433 |
+| Chain Reaction | 27.00% | ~403 |
+| Rain of Death | 25.00% | ~373 |
+| Scholar | 25.00% | ~373 |
+| Through Their Eyes | 25.00% | ~373 |
+| Dishonored | 24.00% | ~358 |
+| The Great Escape | 23.00% | ~343 |
+| That’s All, Folks | 18.00% | ~269 |
+| Fallen Star | 16.00% | ~239 |
+| For Balance | 16.00% | ~239 |
+| Winds of War | 16.00% | ~239 |
+| Here Comes Santa Claus | 15.00% | ~224 |
+| Dog Days | 13.00% | ~194 |
+| Workers' Rights | 13.00% | ~194 |
+| Elusive Prey | 12.00% | ~179 |
+| Out on the Ebb Tide | 12.00% | ~179 |
+| Power Behind the Pulpit | 12.00% | ~179 |
+| Something Wicked This Way Comes… | 12.00% | ~179 |
+| There is Hope | 12.00% | ~179 |
+| Turning the Tables | 12.00% | ~179 |
+| The Philosopher’s Stone | 10.00% | ~149 |
+| Loyalty to the Pack | 9.00% | ~134 |
+| Eternity Can Wait | 9.00% | ~134 |
+| Mystery Machine | 9.00% | ~134 |
+| Gold Digger | 8.00% | ~119 |
+| Monster Hunter | 8.00% | ~119 |
+| Knuckle Sandwich | 8.00% | ~119 |
+| Do Not Pass Go… | 7.00% | ~105 |
+| Getting the Gang Back Together | 7.00% | ~105 |
+| Who You Gonna Call? | 6.00% | ~90 |
+| Healing Old Wounds | 5.00% | ~75 |
+| This Is Sparta | 5.00% | ~75 |
+| What’s in the Box? | 5.00% | ~75 |
+| Ghost Town | 3.00% | ~45 |
+| Moondrunk | 3.00% | ~45 |
+| Lord Inut Sends His Regards | 2.00% | ~30 |
+| 'Ma Barker | 1.00% | ~15 |
+| Hog Wild | 0.90% | ~13 |
+| I Kicked a Bird and I Liked it | 0.70% | ~10 |
+| End the world | 0.50% | ~7 |
+| Explorer | 0.40% | ~6 |
+| Moon Hunter | 0.40% | ~6 |
+| Dirt and Blame | 0.30% | ~4 |
+| Winter Has Come | 0.30% | ~4 |
+| Revenant | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,493 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 144)  

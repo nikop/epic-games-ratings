@@ -4,55 +4,55 @@ Rating: 4.32 (Ranked 737)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 8.00% | ~433,464 |
-| Fall Fest | 7.00% | ~379,281 |
-| Thrill Seeker | 6.00% | ~325,098 |
-| Flying Present Catcher | 5.00% | ~270,915 |
-| HFZ Goober | 5.00% | ~270,915 |
-| Sunflower Master | 4.00% | ~216,732 |
-| Backer Visitor | 2.00% | ~108,366 |
-| Hi Fiver | 2.00% | ~108,366 |
-| Hate That Randomizer | 2.00% | ~108,366 |
-| Feet on Funkotron | 2.00% | ~108,366 |
-| A Timely Splash | 2.00% | ~108,366 |
-| Elf Chaser | 1.00% | ~54,183 |
-| Fool Me Twice | 1.00% | ~54,183 |
-| Old School Jammin' | 1.00% | ~54,183 |
-| Wakey Wakey | 1.00% | ~54,183 |
-| Level Diver | 0.80% | ~43,346 |
-| Gimme My Presents Back! | 0.70% | ~37,928 |
-| Cleaning Out Santa's Sack | 0.70% | ~37,928 |
-| Beaten By A Little Girl | 0.60% | ~32,510 |
-| Teamwork Rules | 0.60% | ~32,510 |
-| Totally Bummed Again | 0.60% | ~32,510 |
-| Boom Box Baby | 0.40% | ~21,673 |
-| I Can't Believe I've Done This | 0.40% | ~21,673 |
-| Harsh Love | 0.40% | ~21,673 |
-| Made It Through | 0.40% | ~21,673 |
-| Piece O' Cake | 0.40% | ~21,673 |
-| Map Explorer | 0.30% | ~16,255 |
-| Flying Present Ultimate Master | 0.30% | ~16,255 |
-| Ridiculously Generous | 0.30% | ~16,255 |
-| Nine Funkotronians | 0.30% | ~16,255 |
-| I'm A Total Saint | 0.30% | ~16,255 |
-| The Worst Possible Luck | 0.30% | ~16,255 |
-| Broken Present Risk Taker | 0.20% | ~10,837 |
-| Struck By Love | 0.20% | ~10,837 |
-| Truly Evil | 0.20% | ~10,837 |
-| Achievement Achiever | 0.10% | ~5,418 |
-| Boom Box Wipeout | 0.10% | ~5,418 |
-| Can't Touch This | 0.10% | ~5,418 |
-| Found All The Backers! | 0.10% | ~5,418 |
-| FunkLord Power | 0.10% | ~5,418 |
-| Gotta Get 'Em All | 0.10% | ~5,418 |
-| Is This Really Possible? | 0.10% | ~5,418 |
-| Lord Of The HFZ | 0.10% | ~5,418 |
-| Mad Hatter | 0.10% | ~5,418 |
-| 99 Problems (But A Buck Ain't One) | 0.10% | ~5,418 |
-| Pacifist Victory | 0.10% | ~5,418 |
-| Rhythm Star | 0.10% | ~5,418 |
-| Why Do I Keep Doing That? | 0.10% | ~5,418 |
-| Hey, You Did It! | 0.10% | ~5,418 |
+| Food Taster | 8.00% | ~4,335 |
+| Fall Fest | 7.00% | ~3,793 |
+| Thrill Seeker | 6.00% | ~3,251 |
+| Flying Present Catcher | 5.00% | ~2,709 |
+| HFZ Goober | 5.00% | ~2,709 |
+| Sunflower Master | 4.00% | ~2,167 |
+| Backer Visitor | 2.00% | ~1,084 |
+| Hi Fiver | 2.00% | ~1,084 |
+| Hate That Randomizer | 2.00% | ~1,084 |
+| Feet on Funkotron | 2.00% | ~1,084 |
+| A Timely Splash | 2.00% | ~1,084 |
+| Elf Chaser | 1.00% | ~542 |
+| Fool Me Twice | 1.00% | ~542 |
+| Old School Jammin' | 1.00% | ~542 |
+| Wakey Wakey | 1.00% | ~542 |
+| Level Diver | 0.80% | ~433 |
+| Gimme My Presents Back! | 0.70% | ~379 |
+| Cleaning Out Santa's Sack | 0.70% | ~379 |
+| Beaten By A Little Girl | 0.60% | ~325 |
+| Teamwork Rules | 0.60% | ~325 |
+| Totally Bummed Again | 0.60% | ~325 |
+| Boom Box Baby | 0.40% | ~217 |
+| I Can't Believe I've Done This | 0.40% | ~217 |
+| Harsh Love | 0.40% | ~217 |
+| Made It Through | 0.40% | ~217 |
+| Piece O' Cake | 0.40% | ~217 |
+| Map Explorer | 0.30% | ~163 |
+| Flying Present Ultimate Master | 0.30% | ~163 |
+| Ridiculously Generous | 0.30% | ~163 |
+| Nine Funkotronians | 0.30% | ~163 |
+| I'm A Total Saint | 0.30% | ~163 |
+| The Worst Possible Luck | 0.30% | ~163 |
+| Broken Present Risk Taker | 0.20% | ~108 |
+| Struck By Love | 0.20% | ~108 |
+| Truly Evil | 0.20% | ~108 |
+| Achievement Achiever | 0.10% | ~54 |
+| Boom Box Wipeout | 0.10% | ~54 |
+| Can't Touch This | 0.10% | ~54 |
+| Found All The Backers! | 0.10% | ~54 |
+| FunkLord Power | 0.10% | ~54 |
+| Gotta Get 'Em All | 0.10% | ~54 |
+| Is This Really Possible? | 0.10% | ~54 |
+| Lord Of The HFZ | 0.10% | ~54 |
+| Mad Hatter | 0.10% | ~54 |
+| 99 Problems (But A Buck Ain't One) | 0.10% | ~54 |
+| Pacifist Victory | 0.10% | ~54 |
+| Rhythm Star | 0.10% | ~54 |
+| Why Do I Keep Doing That? | 0.10% | ~54 |
+| Hey, You Did It! | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 54,183 (Ranked 70)  
 Completed: 4 (0.01%) (Ranked 184)  

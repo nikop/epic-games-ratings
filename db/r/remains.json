@@ -8,7 +8,7 @@
       "Name": "Garbage collector",
       "Percentage": 80,
       "XP": 90,
-      "UsersEstimate": 400
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_IAmSpeed",
@@ -16,7 +16,7 @@
       "Name": "I am speed!",
       "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_ItsSafeHere",
@@ -24,7 +24,7 @@
       "Name": "It\u0027s safe here!",
       "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_NoOneWillHearYou",
@@ -32,7 +32,7 @@
       "Name": "No one will hear you!",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_OmNomNom",
@@ -40,7 +40,7 @@
       "Name": "Om nom nom",
       "Percentage": 60,
       "XP": 200,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_RepairMaster",
@@ -48,7 +48,7 @@
       "Name": "Repair master",
       "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_Welcome",
@@ -56,7 +56,7 @@
       "Name": "Welcome",
       "Percentage": 100,
       "XP": 90,
-      "UsersEstimate": 500
+      "UsersEstimate": 5
     }
   ],
   "Tags": [],
@@ -80,13 +80,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 7,
-  "LastChanged_Achievements": "2023-05-04T22:24:19.0289294+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:08.8480812+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:24:19.0289404+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:31.4502907+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:08.8480885+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:15.6381155+00:00",
   "AchievementSets": [
     {
       "ID": "436h0ek",
@@ -96,7 +96,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,

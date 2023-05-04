@@ -96,7 +96,7 @@
       "Name": "Glass Act",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "key_keepers_curse",
@@ -136,7 +136,7 @@
       "Name": "Snitch",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "tour_guide_extraordinaire",
@@ -144,7 +144,7 @@
       "Name": "Tour Guide Extraordinaire",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -178,13 +178,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-04T22:24:29.844716+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:19.7533783+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:24:29.8447312+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:23.6635781+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:19.753391+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:07.7602254+00:00",
   "AchievementSets": [
     {
       "ID": "5anb57n",
@@ -194,7 +194,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,

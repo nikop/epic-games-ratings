@@ -8,44 +8,44 @@ Diff (max vs sum): -55
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~120,540 |
-| The First Step | 89.00% | ~109,470 |
-| Moonbury Traveller | 63.00% | ~77,490 |
-| Rookie Chemist | 62.00% | ~76,260 |
-| Great Doctor | 49.00% | ~60,270 |
-| Dog Whisperer | 47.00% | ~57,810 |
-| Friendly | 45.00% | ~55,350 |
-| K.O.! | 41.00% | ~50,430 |
-| The Capitalist | 41.00% | ~50,430 |
-| Intermediate Chemist | 37.00% | ~45,510 |
-| Decorative Mind | 30.00% | ~36,900 |
-| Lumber Specialist | 29.00% | ~35,670 |
-| Catch of the Day | 23.00% | ~28,290 |
-| Kind-hearted | 22.00% | ~27,060 |
-| Amateur Chef | 19.00% | ~23,370 |
-| Fishing Guru | 17.00% | ~20,910 |
-| Community Helper | 16.00% | ~19,680 |
-| Spark of Love | 14.00% | ~17,220 |
-| Stone Specialist | 13.00% | ~15,990 |
-| Expert Chemist | 12.00% | ~14,760 |
-| Sociable | 11.00% | ~13,530 |
-| Ablutomaniac | 11.00% | ~13,530 |
-| Production Sorter | 11.00% | ~13,530 |
-| Good Samaritan | 10.00% | ~12,300 |
-| Line Cook | 9.00% | ~11,070 |
-| Acrobatic Adventurer | 8.00% | ~9,840 |
-| Animal Exterminator | 7.00% | ~8,610 |
-| Adolescent Love | 5.00% | ~6,150 |
-| Mail Carrier | 5.00% | ~6,150 |
-| Plantation Exterminator | 4.00% | ~4,920 |
-| Grape Supplier | 4.00% | ~4,920 |
-| Sous Chef | 3.00% | ~3,690 |
-| Rock Exterminator | 2.00% | ~2,460 |
-| Tree Exterminator | 2.00% | ~2,460 |
-| Being forgetful... | 1.00% | ~1,230 |
-| Community Advisor | 1.00% | ~1,230 |
-| Moonbury Navigator | 0.70% | ~861 |
-| Being a donut... | 0.60% | ~738 |
+| Welcome to Moonbury | 98.00% | ~1,205 |
+| The First Step | 89.00% | ~1,095 |
+| Moonbury Traveller | 63.00% | ~775 |
+| Rookie Chemist | 62.00% | ~763 |
+| Great Doctor | 49.00% | ~603 |
+| Dog Whisperer | 47.00% | ~578 |
+| Friendly | 45.00% | ~554 |
+| K.O.! | 41.00% | ~504 |
+| The Capitalist | 41.00% | ~504 |
+| Intermediate Chemist | 37.00% | ~455 |
+| Decorative Mind | 30.00% | ~369 |
+| Lumber Specialist | 29.00% | ~357 |
+| Catch of the Day | 23.00% | ~283 |
+| Kind-hearted | 22.00% | ~271 |
+| Amateur Chef | 19.00% | ~234 |
+| Fishing Guru | 17.00% | ~209 |
+| Community Helper | 16.00% | ~197 |
+| Spark of Love | 14.00% | ~172 |
+| Stone Specialist | 13.00% | ~160 |
+| Expert Chemist | 12.00% | ~148 |
+| Sociable | 11.00% | ~135 |
+| Ablutomaniac | 11.00% | ~135 |
+| Production Sorter | 11.00% | ~135 |
+| Good Samaritan | 10.00% | ~123 |
+| Line Cook | 9.00% | ~111 |
+| Acrobatic Adventurer | 8.00% | ~98 |
+| Animal Exterminator | 7.00% | ~86 |
+| Adolescent Love | 5.00% | ~62 |
+| Mail Carrier | 5.00% | ~62 |
+| Plantation Exterminator | 4.00% | ~49 |
+| Grape Supplier | 4.00% | ~49 |
+| Sous Chef | 3.00% | ~37 |
+| Rock Exterminator | 2.00% | ~25 |
+| Tree Exterminator | 2.00% | ~25 |
+| Being forgetful... | 1.00% | ~12 |
+| Community Advisor | 1.00% | ~12 |
+| Moonbury Navigator | 0.70% | ~9 |
+| Being a donut... | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,230 (Ranked 152)  
 Completed: 5 (0.41%) (Ranked 103)  

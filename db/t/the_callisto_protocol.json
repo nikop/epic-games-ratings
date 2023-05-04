@@ -8,7 +8,7 @@
       "Name": "It\u0027s over, Jacob!",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1253
+      "UsersEstimate": 13
     },
     {
       "ID": "ALL_WEAPONS_AND_UPGRADES",
@@ -16,7 +16,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 1
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -24,7 +24,7 @@
       "Name": "Giving Back",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12533
+      "UsersEstimate": 125
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -32,7 +32,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 37599
+      "UsersEstimate": 376
     },
     {
       "ID": "DISARM_ENEMY",
@@ -40,7 +40,7 @@
       "Name": "Flesh Wound",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 62665
+      "UsersEstimate": 627
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -48,7 +48,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 6266
+      "UsersEstimate": 63
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -56,7 +56,7 @@
       "Name": "Glutton for Punishment",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 918
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISH_CONTAGION_NO_DEATH",
@@ -64,7 +64,7 @@
       "Name": "You Belong Here",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 459
+      "UsersEstimate": 5
     },
     {
       "ID": "FINISH_GAME",
@@ -72,7 +72,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -80,7 +80,7 @@
       "Name": "The Protocol is About Life",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1253
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -88,7 +88,7 @@
       "Name": "Recidivist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -96,7 +96,7 @@
       "Name": "Lifer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -104,7 +104,7 @@
       "Name": "Parole Denied",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 9
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -112,7 +112,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 50132
+      "UsersEstimate": 501
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -120,7 +120,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "KILL_2HEAD",
@@ -128,7 +128,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 37599
+      "UsersEstimate": 376
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -136,7 +136,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "KILL_ROBOT",
@@ -144,7 +144,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -152,7 +152,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 37599
+      "UsersEstimate": 376
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -160,7 +160,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -168,7 +168,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 37599
+      "UsersEstimate": 376
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -176,7 +176,7 @@
       "Name": "Reforged",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "PRINT_WEAPON",
@@ -184,7 +184,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62665
+      "UsersEstimate": 627
     },
     {
       "ID": "SHARE_PHOTO",
@@ -192,7 +192,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -200,7 +200,7 @@
       "Name": "The Outer Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 37599
+      "UsersEstimate": 376
     },
     {
       "ID": "STORY_ESCAPE",
@@ -208,7 +208,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_HABITAT",
@@ -216,7 +216,7 @@
       "Name": "Without A Paddle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_HANGAR",
@@ -224,7 +224,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_MINETOWN",
@@ -232,7 +232,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -240,7 +240,7 @@
       "Name": "Desperate Times",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -248,7 +248,7 @@
       "Name": "Crash Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_TOWER",
@@ -256,7 +256,7 @@
       "Name": "Full Circle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     },
     {
       "ID": "STORY_TUNNELS",
@@ -264,7 +264,7 @@
       "Name": "Power Up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25066
+      "UsersEstimate": 251
     }
   ],
   "Tags": [
@@ -814,13 +814,13 @@
   ],
   "TotalAchievementsXP": 1280,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-04T22:24:29.9283999+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:19.9449609+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 28,
   "EOS_Completed": 47,
   "EOS_Progressed": 12533,
-  "LastUpdate_Achievements": "2023-05-04T22:24:29.9284409+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:11.1171471+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:19.9449861+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:55.1043375+00:00",
   "AchievementSets": [
     {
       "ID": "4hj6d86",

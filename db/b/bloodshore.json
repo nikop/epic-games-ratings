@@ -8,7 +8,7 @@
       "Name": "Bromance",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 4031
+      "UsersEstimate": 40
     },
     {
       "ID": "comedy_killer",
@@ -16,7 +16,7 @@
       "Name": "Comedy Killer",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 4309
+      "UsersEstimate": 43
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -24,7 +24,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6950
+      "UsersEstimate": 70
     },
     {
       "ID": "deathlooper",
@@ -32,7 +32,7 @@
       "Name": "Deathlooper",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "good_job_nerd",
@@ -40,7 +40,7 @@
       "Name": "Good job, nerd",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 3892
+      "UsersEstimate": 39
     },
     {
       "ID": "leader_you_are_not",
@@ -48,7 +48,7 @@
       "Name": "A leader, you are not",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 5004
+      "UsersEstimate": 50
     },
     {
       "ID": "lootaphilia",
@@ -56,7 +56,7 @@
       "Name": "Lootaphilia",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 3058
+      "UsersEstimate": 31
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -64,7 +64,7 @@
       "Name": "Maybe you should give it another go",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1251
+      "UsersEstimate": 13
     },
     {
       "ID": "mikey_lizard",
@@ -72,7 +72,7 @@
       "Name": "Mikey Lizard",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 834
+      "UsersEstimate": 8
     },
     {
       "ID": "mission_complete",
@@ -80,7 +80,7 @@
       "Name": "Mission Complete",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3753
+      "UsersEstimate": 38
     },
     {
       "ID": "super_seducer",
@@ -88,7 +88,7 @@
       "Name": "Super Seducer",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 6811
+      "UsersEstimate": 68
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -96,7 +96,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 5143
+      "UsersEstimate": 51
     },
     {
       "ID": "thats_my_boy",
@@ -104,7 +104,7 @@
       "Name": "That\u0027s my boy!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "this_wont_end_well",
@@ -112,7 +112,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4587
+      "UsersEstimate": 46
     },
     {
       "ID": "tried_to_warn_you",
@@ -120,7 +120,7 @@
       "Name": "We tried to warn you!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "um_ok",
@@ -128,7 +128,7 @@
       "Name": "Um, ok...",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 6394
+      "UsersEstimate": 64
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -136,7 +136,7 @@
       "Name": "I used to think I was indecisive...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 834
+      "UsersEstimate": 8
     }
   ],
   "Tags": [],
@@ -162,13 +162,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-04T22:24:53.908867+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:43.5506469+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 139,
-  "LastUpdate_Achievements": "2023-05-04T22:24:53.9088865+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:57.7308363+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:43.5506565+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:38.9836441+00:00",
   "AchievementSets": [
     {
       "ID": "84ad177",
@@ -183,7 +183,7 @@
   "FirstSeen": "2022-11-13T23:58:32.3641197+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_Progress": 238,

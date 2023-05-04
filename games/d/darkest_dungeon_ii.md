@@ -9,20 +9,20 @@ Diff (max vs sum): -9
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 100.00% | ~400 |
-| Nope | 100.00% | ~400 |
-| To Grandmother's House | 75.00% | ~300 |
-| Don't Make Me Turn This Coach Around | 50.00% | ~200 |
-| Serenity Now! | 50.00% | ~200 |
-| The World As It Was | 50.00% | ~200 |
-| This Looks Familiar | 50.00% | ~200 |
-| Hope Rekindled | 50.00% | ~200 |
-| Loop Year | 25.00% | ~100 |
-| Predator | 25.00% | ~100 |
-| Deprogramming | 25.00% | ~100 |
-| Hat Trick | 25.00% | ~100 |
-| Rush Hour | 25.00% | ~100 |
-| Body of Work | 25.00% | ~100 |
+| A Place to Lay Your Head | 100.00% | ~4 |
+| Nope | 100.00% | ~4 |
+| To Grandmother's House | 75.00% | ~3 |
+| Don't Make Me Turn This Coach Around | 50.00% | ~2 |
+| Serenity Now! | 50.00% | ~2 |
+| The World As It Was | 50.00% | ~2 |
+| This Looks Familiar | 50.00% | ~2 |
+| Hope Rekindled | 50.00% | ~2 |
+| Loop Year | 25.00% | ~1 |
+| Predator | 25.00% | ~1 |
+| Deprogramming | 25.00% | ~1 |
+| Hat Trick | 25.00% | ~1 |
+| Rush Hour | 25.00% | ~1 |
+| Body of Work | 25.00% | ~1 |
 | It Rings a Bell | 0.00% | ~0 |
 | A Life Well Lived | 0.00% | ~0 |
 | Resurrection | 0.00% | ~0 |

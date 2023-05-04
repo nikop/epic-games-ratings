@@ -9,39 +9,39 @@ Diff (max vs sum): 46
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Captain and Crew | 0.20% | ~4,282 |
-| Spells and Swords | 0.20% | ~4,282 |
-| Truly Blessed | 0.10% | ~2,141 |
-| Full House | 0.10% | ~2,141 |
-| Pillow Investments | 0.10% | ~2,141 |
-| Erebus Purified | 0.10% | ~2,141 |
-| Looks Familiar | 0.10% | ~2,141 |
-| For Justice | 0.10% | ~2,141 |
-| For Glory | 0.10% | ~2,141 |
-| For Wrath | 0.10% | ~2,141 |
-| Hands and Hammers | 0.10% | ~2,141 |
-| For Greed | 0.10% | ~2,141 |
-| King and Kin | 0.10% | ~2,141 |
-| For Survival | 0.10% | ~2,141 |
-| Harvest and Home | 0.10% | ~2,141 |
-| For Penance | 0.10% | ~2,141 |
-| Progenitor and Protégé | 0.10% | ~2,141 |
-| For Love | 0.10% | ~2,141 |
-| Poise and Poisons | 0.10% | ~2,141 |
-| For Pride | 0.10% | ~2,141 |
-| Suns and Soldiers | 0.10% | ~2,141 |
-| K.O. | 0.10% | ~2,141 |
-| No Harm in Looking | 0.10% | ~2,141 |
-| Good Practice | 0.10% | ~2,141 |
-| Maybe Wax Doesn't Melt | 0.10% | ~2,141 |
-| A Glimpse of the Future | 0.10% | ~2,141 |
-| Good Boy! | 0.10% | ~2,141 |
-| Prequel to the Sequel | 0.10% | ~2,141 |
-| Just the Beginning | 0.10% | ~2,141 |
-| Wasted Betrayal | 0.10% | ~2,141 |
-| Had to Do It | 0.10% | ~2,141 |
-| Jack of all Trades | 0.10% | ~2,141 |
-| Color Coordination | 0.10% | ~2,141 |
+| Captain and Crew | 0.20% | ~43 |
+| Spells and Swords | 0.20% | ~43 |
+| Truly Blessed | 0.10% | ~21 |
+| Full House | 0.10% | ~21 |
+| Pillow Investments | 0.10% | ~21 |
+| Erebus Purified | 0.10% | ~21 |
+| Looks Familiar | 0.10% | ~21 |
+| For Justice | 0.10% | ~21 |
+| For Glory | 0.10% | ~21 |
+| For Wrath | 0.10% | ~21 |
+| Hands and Hammers | 0.10% | ~21 |
+| For Greed | 0.10% | ~21 |
+| King and Kin | 0.10% | ~21 |
+| For Survival | 0.10% | ~21 |
+| Harvest and Home | 0.10% | ~21 |
+| For Penance | 0.10% | ~21 |
+| Progenitor and Protégé | 0.10% | ~21 |
+| For Love | 0.10% | ~21 |
+| Poise and Poisons | 0.10% | ~21 |
+| For Pride | 0.10% | ~21 |
+| Suns and Soldiers | 0.10% | ~21 |
+| K.O. | 0.10% | ~21 |
+| No Harm in Looking | 0.10% | ~21 |
+| Good Practice | 0.10% | ~21 |
+| Maybe Wax Doesn't Melt | 0.10% | ~21 |
+| A Glimpse of the Future | 0.10% | ~21 |
+| Good Boy! | 0.10% | ~21 |
+| Prequel to the Sequel | 0.10% | ~21 |
+| Just the Beginning | 0.10% | ~21 |
+| Wasted Betrayal | 0.10% | ~21 |
+| Had to Do It | 0.10% | ~21 |
+| Jack of all Trades | 0.10% | ~21 |
+| Color Coordination | 0.10% | ~21 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Black-shoppe | 0.00% | ~0 |
 | It Was Just an Estimate | 0.00% | ~0 |

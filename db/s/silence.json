@@ -8,7 +8,7 @@
       "Name": "Artistic master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "0000_achv_failbalance",
@@ -16,7 +16,7 @@
       "Name": "Artistic fool",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 2880
+      "UsersEstimate": 29
     },
     {
       "ID": "0000_achv_fallspot",
@@ -24,7 +24,7 @@
       "Name": "Summit attempt",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 2
     },
     {
       "ID": "0000_achv_findbugs",
@@ -32,7 +32,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1890
+      "UsersEstimate": 19
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -40,7 +40,7 @@
       "Name": "To err is human...",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 11
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -48,7 +48,7 @@
       "Name": "Let the boot talk",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 2520
+      "UsersEstimate": 25
     },
     {
       "ID": "0000_achv_noskip",
@@ -56,7 +56,7 @@
       "Name": "Fine Listener",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 2
     },
     {
       "ID": "0000_achv_nosnoop",
@@ -64,7 +64,7 @@
       "Name": "Sherlock Holmes",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "0000_achv_sadist",
@@ -72,7 +72,7 @@
       "Name": "Sadist",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 540
+      "UsersEstimate": 5
     },
     {
       "ID": "0000_achv_skip_puzzle",
@@ -80,7 +80,7 @@
       "Name": "Done. First!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "0000_achv_spotforms",
@@ -88,7 +88,7 @@
       "Name": "The Green, the Fat, the Ugly",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "0000_achv_spotinteract",
@@ -96,7 +96,7 @@
       "Name": "Useless but beautiful",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 8
     },
     {
       "ID": "0000_achv_spotlick",
@@ -104,7 +104,7 @@
       "Name": "Lollipop",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "0000_achv_unstoppable",
@@ -112,7 +112,7 @@
       "Name": "Nothing can stop me",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1080
+      "UsersEstimate": 11
     },
     {
       "ID": "1001_achv_shadowplay",
@@ -120,7 +120,7 @@
       "Name": "Shadow on the wall",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1980
+      "UsersEstimate": 20
     },
     {
       "ID": "1004_achv_farts",
@@ -128,7 +128,7 @@
       "Name": "Fartjokes!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 4
     },
     {
       "ID": "1004_achv_wormtooth",
@@ -136,7 +136,7 @@
       "Name": "Open up wide",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2520
+      "UsersEstimate": 25
     },
     {
       "ID": "1006_achv_chapter1",
@@ -144,7 +144,7 @@
       "Name": "Chapter I",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4230
+      "UsersEstimate": 42
     },
     {
       "ID": "1006_achv_demoliton",
@@ -152,7 +152,7 @@
       "Name": "Demolition expert",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3060
+      "UsersEstimate": 31
     },
     {
       "ID": "1006_achv_dropball",
@@ -160,7 +160,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4230
+      "UsersEstimate": 42
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -168,7 +168,7 @@
       "Name": "Handyman",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1890
+      "UsersEstimate": 19
     },
     {
       "ID": "1006_achv_pacifist",
@@ -176,7 +176,7 @@
       "Name": "Pacifist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 16
     },
     {
       "ID": "2001_achv_shrooms",
@@ -184,7 +184,7 @@
       "Name": "Keep away from children",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3330
+      "UsersEstimate": 33
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -192,7 +192,7 @@
       "Name": "I didn\u0027t do it!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3510
+      "UsersEstimate": 35
     },
     {
       "ID": "2002_achv_feedfish",
@@ -200,7 +200,7 @@
       "Name": "Do not feed the fish!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "2002_achv_taste",
@@ -208,7 +208,7 @@
       "Name": "Haute cuisine",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3870
+      "UsersEstimate": 39
     },
     {
       "ID": "2004_achv_abyss",
@@ -216,7 +216,7 @@
       "Name": "Wooooooow!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2970
+      "UsersEstimate": 30
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -224,7 +224,7 @@
       "Name": "The hands of a healer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 5
     },
     {
       "ID": "2005n_achv_chapter2",
@@ -232,7 +232,7 @@
       "Name": "Chapter II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2790
+      "UsersEstimate": 28
     },
     {
       "ID": "2008_achv_bubble",
@@ -240,7 +240,7 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2160
+      "UsersEstimate": 22
     },
     {
       "ID": "2008_achv_spotfly",
@@ -248,7 +248,7 @@
       "Name": "Master of Thermodynamics",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1620
+      "UsersEstimate": 16
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -256,7 +256,7 @@
       "Name": "Death is a part of life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 15
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -264,7 +264,7 @@
       "Name": "Life is but a dream",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 3
     },
     {
       "ID": "2009_achv_lifewheel",
@@ -272,7 +272,7 @@
       "Name": "Where there is life, there is hope",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 8
     },
     {
       "ID": "3002_achv_checkmate",
@@ -280,7 +280,7 @@
       "Name": "Checkmate in 8 moves",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 3
     },
     {
       "ID": "3003_achv_allKyraTexts",
@@ -288,7 +288,7 @@
       "Name": "Shut up clown!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 5
     },
     {
       "ID": "3003_achv_useAllCandlesWithAllObjects",
@@ -296,7 +296,7 @@
       "Name": "Fastidious Clown",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 2070
+      "UsersEstimate": 21
     },
     {
       "ID": "3004_achv_sneeze",
@@ -304,7 +304,7 @@
       "Name": "Achoo!!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2700
+      "UsersEstimate": 27
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -312,7 +312,7 @@
       "Name": "Unfullfilled dreams",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 14
     },
     {
       "ID": "3011_achv_magicbox",
@@ -320,7 +320,7 @@
       "Name": "Mumbo Jumbo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "3014_achv_sendspot",
@@ -328,7 +328,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1980
+      "UsersEstimate": 20
     },
     {
       "ID": "3014_achv_shootgate",
@@ -336,7 +336,7 @@
       "Name": "It\u0027s nothing personal",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "3017_achv_chapter3",
@@ -344,7 +344,7 @@
       "Name": "Chapter III",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2700
+      "UsersEstimate": 27
     },
     {
       "ID": "3017_achv_flycloud",
@@ -352,7 +352,7 @@
       "Name": "Like a moth in the Wind",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2700
+      "UsersEstimate": 27
     },
     {
       "ID": "4004_achv_home",
@@ -360,7 +360,7 @@
       "Name": "Home is where the heart is",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1980
+      "UsersEstimate": 20
     },
     {
       "ID": "4004_achv_mirror",
@@ -368,7 +368,7 @@
       "Name": "Mirror mirror on the wall...",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 2340
+      "UsersEstimate": 23
     }
   ],
   "Tags": [],
@@ -394,13 +394,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-04T22:24:20.0636017+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:09.9049196+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 90,
-  "LastUpdate_Achievements": "2023-05-04T22:24:20.0636403+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:26.3769639+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:09.9049546+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:09.374823+00:00",
   "AchievementSets": [
     {
       "ID": "dhn82m5",
@@ -415,7 +415,7 @@
   "FirstSeen": "2022-08-04T10:32:09.0887096+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 248,

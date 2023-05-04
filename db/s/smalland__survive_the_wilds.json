@@ -8,7 +8,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 36288
+      "UsersEstimate": 363
     },
     {
       "ID": "FirstGlide",
@@ -16,7 +16,7 @@
       "Name": "Hang time",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 9072
+      "UsersEstimate": 91
     },
     {
       "ID": "FirstSleep",
@@ -24,7 +24,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 54432
+      "UsersEstimate": 544
     },
     {
       "ID": "FirstTame",
@@ -32,7 +32,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 18144
+      "UsersEstimate": 181
     },
     {
       "ID": "MeetElder",
@@ -40,7 +40,7 @@
       "Name": "One VERY small step",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 72576
+      "UsersEstimate": 726
     },
     {
       "ID": "MeetNok",
@@ -48,7 +48,7 @@
       "Name": "Mastermind",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 10886
+      "UsersEstimate": 109
     },
     {
       "ID": "MeetWitch",
@@ -56,7 +56,7 @@
       "Name": "Something Wicked",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 5443
+      "UsersEstimate": 54
     },
     {
       "ID": "PickupBones",
@@ -64,7 +64,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 36288
+      "UsersEstimate": 363
     },
     {
       "ID": "PickupChitin",
@@ -72,7 +72,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 54432
+      "UsersEstimate": 544
     },
     {
       "ID": "PickupKey",
@@ -80,7 +80,7 @@
       "Name": "The Key",
       "Percentage": 0.2,
       "XP": 150,
-      "UsersEstimate": 3629
+      "UsersEstimate": 36
     },
     {
       "ID": "PickupMetalPiece",
@@ -88,7 +88,7 @@
       "Name": "Metal Age",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 10886
+      "UsersEstimate": 109
     },
     {
       "ID": "PickupSilk",
@@ -96,7 +96,7 @@
       "Name": "Smooth as silk",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 18144
+      "UsersEstimate": 181
     },
     {
       "ID": "PickupStone",
@@ -104,7 +104,7 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 54432
+      "UsersEstimate": 544
     }
   ],
   "Tags": [],
@@ -1163,13 +1163,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:24:11.3465981+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:01.1859525+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 672,
   "EOS_Completed": 18,
   "EOS_Progressed": 18144,
-  "LastUpdate_Achievements": "2023-05-04T22:24:11.3466309+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:54.1466289+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:01.1859742+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:37.6853172+00:00",
   "AchievementSets": [
     {
       "ID": "3c9im16",
@@ -1184,7 +1184,7 @@
   "FirstSeen": "2023-03-29T21:57:34.1236869+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_Progress": 94,

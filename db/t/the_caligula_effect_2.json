@@ -8,7 +8,7 @@
       "Name": "The Caligula Effect 2",
       "Percentage": 0.9,
       "XP": 160,
-      "UsersEstimate": 205
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_02",
@@ -16,7 +16,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 22116
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_03",
@@ -24,7 +24,7 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 18468
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_04",
@@ -32,7 +32,7 @@
       "Name": "Go-Home Club Activities START!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 10944
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_05",
@@ -40,7 +40,7 @@
       "Name": "Behind the Curtain",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 7296
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_06",
@@ -48,7 +48,7 @@
       "Name": "Be Who You Wanna Be",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 6156
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_07",
@@ -56,7 +56,7 @@
       "Name": "One-Track Mind",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5244
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_08",
@@ -64,7 +64,7 @@
       "Name": "The Greater Good",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4332
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_09",
@@ -72,7 +72,7 @@
       "Name": "Selfish Decisions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4332
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_10",
@@ -80,7 +80,7 @@
       "Name": "Pulling Heartstrings",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4104
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_11",
@@ -88,7 +88,7 @@
       "Name": "Hopes Rewarded",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 3876
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_12",
@@ -96,7 +96,7 @@
       "Name": "Redo Redone",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1596
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_13",
@@ -104,7 +104,7 @@
       "Name": "Depths of the Heart",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 4560
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_14",
@@ -112,7 +112,7 @@
       "Name": "To Each Their Own",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2508
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_15",
@@ -120,7 +120,7 @@
       "Name": "To the Other Side",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_16",
@@ -128,7 +128,7 @@
       "Name": "Friendly Neighborhood",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5472
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_17",
@@ -136,7 +136,7 @@
       "Name": "Building Bridges",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_18",
@@ -144,7 +144,7 @@
       "Name": "World Peace",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_19",
@@ -152,7 +152,7 @@
       "Name": "Philanthropist",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 9120
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_20",
@@ -160,7 +160,7 @@
       "Name": "Heart of Gold",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_21",
@@ -168,7 +168,7 @@
       "Name": "Extracurricular Affair",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4332
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_22",
@@ -176,7 +176,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_23",
@@ -184,7 +184,7 @@
       "Name": "Extra! Extra! Journalism Club Showdown",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_24",
@@ -192,7 +192,7 @@
       "Name": "Hustled and Bustled",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2736
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_25",
@@ -200,7 +200,7 @@
       "Name": "The Part-Time Tyrant",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_26",
@@ -208,7 +208,7 @@
       "Name": "For the Love of Regret",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 912
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_27",
@@ -216,7 +216,7 @@
       "Name": "Prince of Lettuce",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_28",
@@ -224,7 +224,7 @@
       "Name": "Love, Loss, and the Omega Nebula",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_29",
@@ -232,7 +232,7 @@
       "Name": "From Nurse to Worse",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_30",
@@ -240,7 +240,7 @@
       "Name": "Birth of a Salesman",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_31",
@@ -248,7 +248,7 @@
       "Name": "Group Therapy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_32",
@@ -256,7 +256,7 @@
       "Name": "Topical Conversationalist",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_33",
@@ -264,7 +264,7 @@
       "Name": "WIRE Guru",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 4788
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_34",
@@ -272,7 +272,7 @@
       "Name": "Test Your Luck",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 7980
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_35",
@@ -280,7 +280,7 @@
       "Name": "Nice Doing Business",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5472
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_36",
@@ -288,7 +288,7 @@
       "Name": "Lost Souls For Sale",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4332
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_37",
@@ -296,7 +296,7 @@
       "Name": "Investment Ban-\u03C7-ing",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5700
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_38",
@@ -304,7 +304,7 @@
       "Name": "Songstress Unleashed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1596
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_39",
@@ -312,7 +312,7 @@
       "Name": "Executive Privilege",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1596
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_40",
@@ -320,7 +320,7 @@
       "Name": "Never Saw It Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 14820
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_41",
@@ -328,7 +328,7 @@
       "Name": "Master of Surprise",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 6840
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_42",
@@ -336,7 +336,7 @@
       "Name": "Coup de Grace",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 12996
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_43",
@@ -344,7 +344,7 @@
       "Name": "Our World Now",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 18468
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_44",
@@ -352,7 +352,7 @@
       "Name": "Counter Champion",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5700
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_45",
@@ -360,7 +360,7 @@
       "Name": "Combo Commando",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5472
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_46",
@@ -368,7 +368,7 @@
       "Name": "Guarding Guru",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_47",
@@ -376,7 +376,7 @@
       "Name": "Trigger Finger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4104
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_48",
@@ -384,7 +384,7 @@
       "Name": "Stay Winning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5244
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_49",
@@ -392,7 +392,7 @@
       "Name": "\u03C7 Signature",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 5
     }
   ],
   "Tags": [],
@@ -441,13 +441,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T22:24:19.780329+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:09.5409013+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 228,
-  "LastUpdate_Achievements": "2023-05-04T22:24:19.7803968+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:59.6721057+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:09.5409369+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:43.1278904+00:00",
   "AchievementSets": [
     {
       "ID": "2eg5kgc",
@@ -462,7 +462,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 32,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_Progress": 218,

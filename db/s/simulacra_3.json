@@ -8,7 +8,7 @@
       "Name": "Amy Started It",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ATLAS_OVERRIDE_COMPLETE",
@@ -16,7 +16,7 @@
       "Name": "Atlas Override Completed",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_THE_PROTOCOL",
@@ -24,7 +24,7 @@
       "Name": "Complete the Protocol",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "CORPORATE_ESPIONAGE",
@@ -32,7 +32,7 @@
       "Name": "Corporate Espionage",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "DARING_ESCAPE",
@@ -40,7 +40,7 @@
       "Name": "Daring Escape",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "GO_TO_JAIL",
@@ -48,7 +48,7 @@
       "Name": "Go to Jail",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "HELPFUL_COWORKER",
@@ -56,7 +56,7 @@
       "Name": "Helpful Co-Worker",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "HOME_INVASION",
@@ -64,7 +64,7 @@
       "Name": "Home Invasion",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_SWITCH_READY",
@@ -72,7 +72,7 @@
       "Name": "Kill Switch Ready",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MIRA_MASTER",
@@ -80,7 +80,7 @@
       "Name": "Mira Master",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MISTRESS_OF_THE_NIGHT",
@@ -88,7 +88,7 @@
       "Name": "Mistress of the Night",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ON_HER_OWN",
@@ -96,7 +96,7 @@
       "Name": "On Her Own",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "PASSWORD_ACQUIRED",
@@ -104,7 +104,7 @@
       "Name": "Password Acquired",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "PASSWORD_LOST",
@@ -112,7 +112,7 @@
       "Name": "Password Lost",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "RESET_AND_RUN",
@@ -120,7 +120,7 @@
       "Name": "Reset and Run",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "RUBY_LOST",
@@ -128,7 +128,7 @@
       "Name": "Ruby Lost",
       "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "RUBY_SAVED",
@@ -136,7 +136,7 @@
       "Name": "Ruby Saved",
       "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "SCAMMING_OVER_THE_PHONE",
@@ -144,7 +144,7 @@
       "Name": "Scamming over the Phone",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "SECRET_GARDEN",
@@ -152,7 +152,7 @@
       "Name": "Secret Garden",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_GRAVEYARD_SHIFT",
@@ -160,7 +160,7 @@
       "Name": "The Graveyard Shift",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_SUNKEN_MAN",
@@ -168,7 +168,7 @@
       "Name": "The Sunken Man",
       "Percentage": 300,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "TRUE_BELDAM_TOLD",
@@ -176,7 +176,7 @@
       "Name": "True Beldam Told",
       "Percentage": 100,
       "XP": 70,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "WELCOME_TO_STONECREEK",
@@ -184,7 +184,7 @@
       "Name": "Welcome to Stonecreek",
       "Percentage": 300,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "WHAT_THEY_DESERVE",
@@ -192,7 +192,7 @@
       "Name": "What They Deserve",
       "Percentage": 100,
       "XP": 70,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -206,13 +206,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:24:56.550007+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:46.2218497+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:56.550036+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:07.4326066+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:46.2218665+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:47.6814181+00:00",
   "AchievementSets": [
     {
       "ID": "5pchd6l",
@@ -222,7 +222,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,

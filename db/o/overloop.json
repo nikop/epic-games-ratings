@@ -8,7 +8,7 @@
       "Name": "The longest story",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "clone_100",
@@ -16,7 +16,7 @@
       "Name": "Golden 100",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "die_bullet",
@@ -24,7 +24,7 @@
       "Name": "Bullets are not friends",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "die_cube",
@@ -32,7 +32,7 @@
       "Name": "Cube??",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "die_field",
@@ -40,7 +40,7 @@
       "Name": "Lesson of an evaporation",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "die_laser",
@@ -48,7 +48,7 @@
       "Name": "Dismembered",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "die_pressed",
@@ -56,7 +56,7 @@
       "Name": "Like a tomato",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "die_saw",
@@ -64,7 +64,7 @@
       "Name": "Meat salad",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "die_spring",
@@ -72,7 +72,7 @@
       "Name": "Ticket to the Moon",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "die_suicide",
@@ -80,7 +80,7 @@
       "Name": "Like a balloon",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "die_thrown",
@@ -88,7 +88,7 @@
       "Name": "Free fly",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "die_train",
@@ -96,7 +96,7 @@
       "Name": "Anna Karenina",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "kill_dennis",
@@ -104,7 +104,7 @@
       "Name": "Dennis",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "kill_douglas",
@@ -112,7 +112,7 @@
       "Name": "Douglas",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "kill_julia",
@@ -120,7 +120,7 @@
       "Name": "Julia",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "original_flowers",
@@ -128,7 +128,7 @@
       "Name": "Flowers for...",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "secret_ending",
@@ -136,7 +136,7 @@
       "Name": "No\u00E9",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "story_chandelier",
@@ -144,7 +144,7 @@
       "Name": "Be careful with a chandelier",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "story_rebels",
@@ -152,7 +152,7 @@
       "Name": "Hear that wisper",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "story_vertical_level",
@@ -160,7 +160,7 @@
       "Name": "Run, Forest! Run!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "take_it_easy_time",
@@ -168,7 +168,7 @@
       "Name": "Take it easy",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     }
   ],
   "Tags": [],
@@ -182,13 +182,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:24:21.4120755+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:11.3307514+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T22:24:21.4120972+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:28.6273352+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:11.3307653+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:12.6203118+00:00",
   "AchievementSets": [
     {
       "ID": "c0a8gkh",
@@ -198,7 +198,7 @@
     }
   ],
   "EOS_Completed_Percentage": 25,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_Progress": 331,

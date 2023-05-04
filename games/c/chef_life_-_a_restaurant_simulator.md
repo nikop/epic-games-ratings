@@ -3,22 +3,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 85.00% | ~2,890 |
-| Home Cook | 68.00% | ~2,312 |
-| So Clean You Can Eat Off the Floor | 53.00% | ~1,802 |
-| You're the Expert! | 53.00% | ~1,802 |
-| French Flair | 44.00% | ~1,496 |
-| Next Level Cuisine | 32.00% | ~1,088 |
-| Haute Cuisine | 26.00% | ~884 |
-| S is for Scrumptious | 26.00% | ~884 |
-| Well-Stocked Kitchen | 18.00% | ~612 |
-| Italian Style | 15.00% | ~510 |
-| Rolling in Dough | 12.00% | ~408 |
-| Culinary Arts | 9.00% | ~306 |
-| Sous-Chef | 9.00% | ~306 |
-| Perfectionist | 6.00% | ~204 |
-| Chef, Yes Chef! | 6.00% | ~204 |
-| Eco Warrior | 3.00% | ~102 |
+| The Big Day | 85.00% | ~29 |
+| Home Cook | 68.00% | ~23 |
+| So Clean You Can Eat Off the Floor | 53.00% | ~18 |
+| You're the Expert! | 53.00% | ~18 |
+| French Flair | 44.00% | ~15 |
+| Next Level Cuisine | 32.00% | ~11 |
+| Haute Cuisine | 26.00% | ~9 |
+| S is for Scrumptious | 26.00% | ~9 |
+| Well-Stocked Kitchen | 18.00% | ~6 |
+| Italian Style | 15.00% | ~5 |
+| Rolling in Dough | 12.00% | ~4 |
+| Culinary Arts | 9.00% | ~3 |
+| Sous-Chef | 9.00% | ~3 |
+| Perfectionist | 6.00% | ~2 |
+| Chef, Yes Chef! | 6.00% | ~2 |
+| Eco Warrior | 3.00% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |

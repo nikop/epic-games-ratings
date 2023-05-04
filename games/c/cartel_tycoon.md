@@ -5,25 +5,25 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 84.00% | ~25,536 |
-| Take-Off | 78.00% | ~23,712 |
-| Hokey-Pokey | 72.00% | ~21,888 |
-| Camellos | 57.00% | ~17,328 |
-| Bad Trip | 46.00% | ~13,984 |
-| Didn't Miss A Single One | 44.00% | ~13,376 |
-| Spread | 39.00% | ~11,856 |
-| That was base | 38.00% | ~11,552 |
-| Safe Pair of Hands | 35.00% | ~10,640 |
-| Don't Let Mom Know You're A Druglord | 29.00% | ~8,816 |
-| Architect of Fortunes | 25.00% | ~7,600 |
-| Pampered Life | 25.00% | ~7,600 |
-| Bite the Blow | 16.00% | ~4,864 |
-| Spreading Fear | 9.00% | ~2,736 |
-| Follow the Money | 8.00% | ~2,432 |
-| I'm Going To Call You Kitty | 8.00% | ~2,432 |
-| Operation Odessa | 1.00% | ~304 |
-| Sense Of Style | 0.70% | ~213 |
-| Iron Lady | 0.70% | ~213 |
+| Our Man | 84.00% | ~255 |
+| Take-Off | 78.00% | ~237 |
+| Hokey-Pokey | 72.00% | ~219 |
+| Camellos | 57.00% | ~173 |
+| Bad Trip | 46.00% | ~140 |
+| Didn't Miss A Single One | 44.00% | ~134 |
+| Spread | 39.00% | ~119 |
+| That was base | 38.00% | ~116 |
+| Safe Pair of Hands | 35.00% | ~106 |
+| Don't Let Mom Know You're A Druglord | 29.00% | ~88 |
+| Architect of Fortunes | 25.00% | ~76 |
+| Pampered Life | 25.00% | ~76 |
+| Bite the Blow | 16.00% | ~49 |
+| Spreading Fear | 9.00% | ~27 |
+| Follow the Money | 8.00% | ~24 |
+| I'm Going To Call You Kitty | 8.00% | ~24 |
+| Operation Odessa | 1.00% | ~3 |
+| Sense Of Style | 0.70% | ~2 |
+| Iron Lady | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 304 (Ranked 204)  
 Completed: 1 (0.33%) (Ranked 110)  

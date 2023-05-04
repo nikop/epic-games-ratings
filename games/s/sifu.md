@@ -9,56 +9,56 @@ Diff (max vs sum): -24
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~47,572 |
-| Project Arena | 3.00% | ~35,679 |
-| Bloody Sport | 1.00% | ~11,893 |
-| The best strikes are the ones we avoid | 0.80% | ~9,514 |
-| The Hateful Pole Fighter | 0.70% | ~491,814 |
-| A Lady's Blood in the Snow | 0.70% | ~491,814 |
-| Qi Gong: Breath | 0.70% | ~491,814 |
-| Path of the Prospect | 0.70% | ~491,814 |
-| The Assault | 0.60% | ~421,555 |
-| Lady Wing Chun | 0.60% | ~421,555 |
-| Furious Fists | 0.60% | ~421,555 |
-| Kill Nil | 0.60% | ~421,555 |
-| State of constant learning | 0.60% | ~421,555 |
-| Qi Gong: Essence | 0.60% | ~421,555 |
-| Rumble in the Hangar | 0.60% | ~421,555 |
-| Take damage to save time | 0.60% | ~421,555 |
-| The Old Grandmaster | 0.50% | ~351,296 |
-| Scareless | 0.50% | ~351,296 |
-| Stuntmaster | 0.50% | ~351,296 |
-| Street Fighting | 0.50% | ~351,296 |
-| Life is your teacher | 0.50% | ~351,296 |
-| Lightning Hands | 0.50% | ~351,296 |
-| Kung-Fu Tussle | 0.50% | ~351,296 |
-| Deadly Venom | 0.50% | ~5,946 |
-| A Touch of Acumen | 0.50% | ~5,946 |
-| Dance of the Praying Mantis | 0.40% | ~281,037 |
-| Qi Gong: Mind | 0.40% | ~281,037 |
-| Old Child | 0.40% | ~281,037 |
-| Muk Yan Master | 0.30% | ~210,778 |
-| Tiger on Fire | 0.30% | ~210,778 |
-| Source of Flying Daggers | 0.30% | ~210,778 |
-| Iron Money | 0.30% | ~210,778 |
-| Legendary Talismans of Wuxing | 0.30% | ~210,778 |
-| Detective Story | 0.30% | ~210,778 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~210,778 |
-| I know Kung-Fu | 0.30% | ~210,778 |
-| Martial Hub | 0.30% | ~3,568 |
-| Secure, Protect, Leave | 0.30% | ~3,568 |
-| Prodigal Child | 0.20% | ~140,518 |
-| Drunken Fighter | 0.20% | ~140,518 |
-| Martial Artist | 0.20% | ~140,518 |
-| Knowledge Greed | 0.20% | ~140,518 |
-| Sword Stained With Blood | 0.20% | ~140,518 |
-| Healing Memory | 0.10% | ~70,259 |
-| Master of the Phoenix Eye Fist | 0.10% | ~70,259 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~70,259 |
-| The Pit Protector | 0.10% | ~70,259 |
-| Be like water my friend | 0.10% | ~70,259 |
-| Warriors from the Mountain | 0.10% | ~70,259 |
-| Come Snap With Me | 0.10% | ~70,259 |
+| Diligence as a goal | 4.00% | ~476 |
+| Project Arena | 3.00% | ~357 |
+| Bloody Sport | 1.00% | ~119 |
+| The best strikes are the ones we avoid | 0.80% | ~95 |
+| The Hateful Pole Fighter | 0.70% | ~4,918 |
+| A Lady's Blood in the Snow | 0.70% | ~4,918 |
+| Qi Gong: Breath | 0.70% | ~4,918 |
+| Path of the Prospect | 0.70% | ~4,918 |
+| The Assault | 0.60% | ~4,216 |
+| Lady Wing Chun | 0.60% | ~4,216 |
+| Furious Fists | 0.60% | ~4,216 |
+| Kill Nil | 0.60% | ~4,216 |
+| State of constant learning | 0.60% | ~4,216 |
+| Qi Gong: Essence | 0.60% | ~4,216 |
+| Rumble in the Hangar | 0.60% | ~4,216 |
+| Take damage to save time | 0.60% | ~4,216 |
+| The Old Grandmaster | 0.50% | ~3,513 |
+| Scareless | 0.50% | ~3,513 |
+| Stuntmaster | 0.50% | ~3,513 |
+| Street Fighting | 0.50% | ~3,513 |
+| Life is your teacher | 0.50% | ~3,513 |
+| Lightning Hands | 0.50% | ~3,513 |
+| Kung-Fu Tussle | 0.50% | ~3,513 |
+| Deadly Venom | 0.50% | ~59 |
+| A Touch of Acumen | 0.50% | ~59 |
+| Dance of the Praying Mantis | 0.40% | ~2,810 |
+| Qi Gong: Mind | 0.40% | ~2,810 |
+| Old Child | 0.40% | ~2,810 |
+| Muk Yan Master | 0.30% | ~2,108 |
+| Tiger on Fire | 0.30% | ~2,108 |
+| Source of Flying Daggers | 0.30% | ~2,108 |
+| Iron Money | 0.30% | ~2,108 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,108 |
+| Detective Story | 0.30% | ~2,108 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,108 |
+| I know Kung-Fu | 0.30% | ~2,108 |
+| Martial Hub | 0.30% | ~36 |
+| Secure, Protect, Leave | 0.30% | ~36 |
+| Prodigal Child | 0.20% | ~1,405 |
+| Drunken Fighter | 0.20% | ~1,405 |
+| Martial Artist | 0.20% | ~1,405 |
+| Knowledge Greed | 0.20% | ~1,405 |
+| Sword Stained With Blood | 0.20% | ~1,405 |
+| Healing Memory | 0.10% | ~703 |
+| Master of the Phoenix Eye Fist | 0.10% | ~703 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~703 |
+| The Pit Protector | 0.10% | ~703 |
+| Be like water my friend | 0.10% | ~703 |
+| Warriors from the Mountain | 0.10% | ~703 |
+| Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702,592 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  

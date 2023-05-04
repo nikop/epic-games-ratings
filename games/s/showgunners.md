@@ -3,14 +3,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Now It's Official! | 100.00% | ~300 |
-| Season Premiere | 67.00% | ~201 |
-| Group Kill | 33.00% | ~99 |
-| Damage Sponge | 33.00% | ~99 |
-| Old Quarter | 33.00% | ~99 |
-| Abandoned Housing Block | 33.00% | ~99 |
-| Quite a Bodycount | 33.00% | ~99 |
-| Enter: Tybalt | 33.00% | ~99 |
+| Now It's Official! | 100.00% | ~3 |
+| Season Premiere | 67.00% | ~2 |
+| Group Kill | 33.00% | ~1 |
+| Damage Sponge | 33.00% | ~1 |
+| Old Quarter | 33.00% | ~1 |
+| Abandoned Housing Block | 33.00% | ~1 |
+| Quite a Bodycount | 33.00% | ~1 |
+| Enter: Tybalt | 33.00% | ~1 |
 | Star | 0.00% | ~0 |
 | Superstar | 0.00% | ~0 |
 | Legend | 0.00% | ~0 |

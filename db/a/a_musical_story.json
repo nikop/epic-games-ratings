@@ -8,7 +8,7 @@
       "Name": "Voodoo Child",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L0_FINISH",
@@ -16,7 +16,7 @@
       "Name": "ECG",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 4998
+      "UsersEstimate": 50
     },
     {
       "ID": "L0_PERFECT",
@@ -24,7 +24,7 @@
       "Name": "Time",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 5
     },
     {
       "ID": "L10_5_FINISH",
@@ -32,7 +32,7 @@
       "Name": "Fuel",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 16
     },
     {
       "ID": "L10_5_PERFECT",
@@ -40,7 +40,7 @@
       "Name": "Gasoline",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "L10_FINISH",
@@ -48,7 +48,7 @@
       "Name": "A Bigger Band",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 16
     },
     {
       "ID": "L10_PERFECT",
@@ -56,7 +56,7 @@
       "Name": "On the Road Again",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 4
     },
     {
       "ID": "L11_FINISH",
@@ -64,7 +64,7 @@
       "Name": "Alone Together",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 15
     },
     {
       "ID": "L11_PERFECT",
@@ -72,7 +72,7 @@
       "Name": "Under the Bridge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "L12_FINISH",
@@ -80,7 +80,7 @@
       "Name": "Threatening Nature",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 14
     },
     {
       "ID": "L12_PERFECT",
@@ -88,7 +88,7 @@
       "Name": "Riders on the Storm",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L13_FINISH",
@@ -96,7 +96,7 @@
       "Name": "Flat Tire",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 12
     },
     {
       "ID": "L13_PERFECT",
@@ -104,7 +104,7 @@
       "Name": "Under my Wheels",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L14_FINISH",
@@ -112,7 +112,7 @@
       "Name": "The Clash",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 12
     },
     {
       "ID": "L14_PERFECT",
@@ -120,7 +120,7 @@
       "Name": "The Fight Song",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L15_FINISH",
@@ -128,7 +128,7 @@
       "Name": "Bad Trip",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 6
     },
     {
       "ID": "L15_PERFECT",
@@ -136,7 +136,7 @@
       "Name": "Purple Haze",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "L16_5_FINISH",
@@ -144,7 +144,7 @@
       "Name": "Regrets",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 8
     },
     {
       "ID": "L16_5_PERFECT",
@@ -152,7 +152,7 @@
       "Name": "All Apologies",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L16_FINISH",
@@ -160,7 +160,7 @@
       "Name": "Chase the Crow",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 4
     },
     {
       "ID": "L16_PERFECT",
@@ -168,7 +168,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "L17_FINISH",
@@ -176,7 +176,7 @@
       "Name": "Love",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 6
     },
     {
       "ID": "L17_PERFECT",
@@ -184,7 +184,7 @@
       "Name": "Closer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "L18_FINISH",
@@ -192,7 +192,7 @@
       "Name": "Here we go again!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 6
     },
     {
       "ID": "L18_PERFECT",
@@ -200,7 +200,7 @@
       "Name": "Carry On",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L19_FINISH",
@@ -208,7 +208,7 @@
       "Name": "The Accident",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 8
     },
     {
       "ID": "L19_PERFECT",
@@ -216,7 +216,7 @@
       "Name": "Killer Cars",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "L1_5_FINISH",
@@ -224,7 +224,7 @@
       "Name": "Daily Life",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 47
     },
     {
       "ID": "L1_5_PERFECT",
@@ -232,7 +232,7 @@
       "Name": "Big City Music",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1989
+      "UsersEstimate": 20
     },
     {
       "ID": "L1_FINISH",
@@ -240,7 +240,7 @@
       "Name": "Rehearsal",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 4896
+      "UsersEstimate": 49
     },
     {
       "ID": "L1_PERFECT",
@@ -248,7 +248,7 @@
       "Name": "Symbiosis",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1581
+      "UsersEstimate": 16
     },
     {
       "ID": "L20_FINISH",
@@ -256,7 +256,7 @@
       "Name": "The Awakening",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 7
     },
     {
       "ID": "L20_PERFECT",
@@ -264,7 +264,7 @@
       "Name": "Hospital Flowers",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "L21_FINISH",
@@ -272,7 +272,7 @@
       "Name": "Pinewood",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "L21_PERFECT",
@@ -280,7 +280,7 @@
       "Name": "Love is All",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "L2_FINISH",
@@ -288,7 +288,7 @@
       "Name": "Assembly Line Work",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 44
     },
     {
       "ID": "L2_PERFECT",
@@ -296,7 +296,7 @@
       "Name": "Sound of Noise",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2397
+      "UsersEstimate": 24
     },
     {
       "ID": "L3_FINISH",
@@ -304,7 +304,7 @@
       "Name": "Solitude",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 43
     },
     {
       "ID": "L3_PERFECT",
@@ -312,7 +312,7 @@
       "Name": "TV Dreams",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1224
+      "UsersEstimate": 12
     },
     {
       "ID": "L4_FINISH",
@@ -320,7 +320,7 @@
       "Name": "Pinewood, Here we come!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3825
+      "UsersEstimate": 38
     },
     {
       "ID": "L4_PERFECT",
@@ -328,7 +328,7 @@
       "Name": "Dreamers",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 9
     },
     {
       "ID": "L5_FINISH",
@@ -336,7 +336,7 @@
       "Name": "The Van",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 3315
+      "UsersEstimate": 33
     },
     {
       "ID": "L5_PERFECT",
@@ -344,7 +344,7 @@
       "Name": "The Fix",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 816
+      "UsersEstimate": 8
     },
     {
       "ID": "L6_FINISH",
@@ -352,7 +352,7 @@
       "Name": "Road-Trip",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2907
+      "UsersEstimate": 29
     },
     {
       "ID": "L6_PERFECT",
@@ -360,7 +360,7 @@
       "Name": "The Mountains, The Valleys",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 6
     },
     {
       "ID": "L7_5_FINISH",
@@ -368,7 +368,7 @@
       "Name": "Briget\u0027s",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2193
+      "UsersEstimate": 22
     },
     {
       "ID": "L7_5_PERFECT",
@@ -376,7 +376,7 @@
       "Name": "As the Crow Flies",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "L7_FINISH",
@@ -384,7 +384,7 @@
       "Name": "A Musical Pause",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 28
     },
     {
       "ID": "L7_PERFECT",
@@ -392,7 +392,7 @@
       "Name": "Flight of the Bumblebee",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "L8_FINISH",
@@ -400,7 +400,7 @@
       "Name": "Love at First Sight",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1989
+      "UsersEstimate": 20
     },
     {
       "ID": "L8_PERFECT",
@@ -408,7 +408,7 @@
       "Name": "Milk and Alcohol",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 4
     },
     {
       "ID": "L9_FINISH",
@@ -416,7 +416,7 @@
       "Name": "First Kiss",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 18
     },
     {
       "ID": "L9_PERFECT",
@@ -424,7 +424,7 @@
       "Name": "Unintended",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "UNLOCK_L21",
@@ -432,7 +432,7 @@
       "Name": "Stairway to Heaven",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     }
   ],
   "Tags": [],
@@ -458,13 +458,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-04T22:24:13.1330764+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:03.0447028+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 51,
-  "LastUpdate_Achievements": "2023-05-04T22:24:13.1331326+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:29.856294+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:03.0447664+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:14.0508812+00:00",
   "AchievementSets": [
     {
       "ID": "6finf64",
@@ -479,7 +479,7 @@
   "FirstSeen": "2022-07-22T20:20:38.213412+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_Progress": 273,

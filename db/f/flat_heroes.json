@@ -16,7 +16,7 @@
       "Name": "Path of the Hero",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "DashAttack",
@@ -24,7 +24,7 @@
       "Name": "Fireball",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 14734
+      "UsersEstimate": 147
     },
     {
       "ID": "DashDashDash",
@@ -32,7 +32,7 @@
       "Name": "Be water, my friend",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 18348
+      "UsersEstimate": 183
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -40,7 +40,7 @@
       "Name": "Black Belt",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 14
     },
     {
       "ID": "FloorIsLava",
@@ -48,7 +48,7 @@
       "Name": "Floor is Lava",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1946
+      "UsersEstimate": 19
     },
     {
       "ID": "HeroWorld10Boss",
@@ -56,7 +56,7 @@
       "Name": "Rogue - Hero Edition",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 2
     },
     {
       "ID": "HeroWorld1Boss",
@@ -64,7 +64,7 @@
       "Name": "Dash Crash - Hero Edition",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 14
     },
     {
       "ID": "HeroWorld2Boss",
@@ -72,7 +72,7 @@
       "Name": "Snake Eyes - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "HeroWorld3Boss",
@@ -80,7 +80,7 @@
       "Name": "The King of Flat - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "HeroWorld4Boss",
@@ -88,7 +88,7 @@
       "Name": "Hit That Ball - Hero Edition",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "HeroWorld5Boss",
@@ -96,7 +96,7 @@
       "Name": "Eat That Apple - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "HeroWorld6Boss",
@@ -104,7 +104,7 @@
       "Name": "Tornado Chaser - Hero Edition",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "HeroWorld7Boss",
@@ -112,7 +112,7 @@
       "Name": "Bomberman - Hero Edition",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "HeroWorld8Boss",
@@ -120,7 +120,7 @@
       "Name": "The Colossus - Hero Edition",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "HeroWorld9Boss",
@@ -128,7 +128,7 @@
       "Name": "Pim Pam Pum - Hero Edition",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 2
     },
     {
       "ID": "KillArrowsAtOnce",
@@ -136,7 +136,7 @@
       "Name": "Snakecharmer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "KillGhostInACombo",
@@ -144,7 +144,7 @@
       "Name": "Bubble Party",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2224
+      "UsersEstimate": 22
     },
     {
       "ID": "MultiNinjaSlayer",
@@ -152,7 +152,7 @@
       "Name": "Ambush",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 17
     },
     {
       "ID": "NinjaSlayer",
@@ -160,7 +160,7 @@
       "Name": "Air Slash",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11120
+      "UsersEstimate": 111
     },
     {
       "ID": "OhNo",
@@ -168,7 +168,7 @@
       "Name": "Oh, no",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "Pacifist",
@@ -208,7 +208,7 @@
       "Name": "Quite The Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 8
     },
     {
       "ID": "SurvivalRecordMiniVertical",
@@ -216,7 +216,7 @@
       "Name": "Lone Wolf",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 1
     },
     {
       "ID": "SurvivalRecordMultiplayer",
@@ -240,7 +240,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "SurvivalRecordVertical",
@@ -248,7 +248,7 @@
       "Name": "Vertigo",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "TripleTriple",
@@ -256,7 +256,7 @@
       "Name": "Killing Spree",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 3
     },
     {
       "ID": "UnlockAllModes",
@@ -264,7 +264,7 @@
       "Name": "Explorer",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 1
     },
     {
       "ID": "UnlockAllPalettes",
@@ -280,7 +280,7 @@
       "Name": "Rogue",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 556
+      "UsersEstimate": 6
     },
     {
       "ID": "World1Boss",
@@ -288,7 +288,7 @@
       "Name": "Dash Crash",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 19460
+      "UsersEstimate": 195
     },
     {
       "ID": "World2Boss",
@@ -296,7 +296,7 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 16680
+      "UsersEstimate": 167
     },
     {
       "ID": "World3Boss",
@@ -304,7 +304,7 @@
       "Name": "The King of Flat",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 13344
+      "UsersEstimate": 133
     },
     {
       "ID": "World4Boss",
@@ -312,7 +312,7 @@
       "Name": "Hit That Ball",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 10286
+      "UsersEstimate": 103
     },
     {
       "ID": "World5Boss",
@@ -320,7 +320,7 @@
       "Name": "Eat That Apple",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 7506
+      "UsersEstimate": 75
     },
     {
       "ID": "World6Boss",
@@ -328,7 +328,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4726
+      "UsersEstimate": 47
     },
     {
       "ID": "World7Boss",
@@ -336,7 +336,7 @@
       "Name": "Bomberman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3336
+      "UsersEstimate": 33
     },
     {
       "ID": "World8Boss",
@@ -344,7 +344,7 @@
       "Name": "The Colossus",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 28
     },
     {
       "ID": "World9Boss",
@@ -352,7 +352,7 @@
       "Name": "Pim Pam Pum",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1946
+      "UsersEstimate": 19
     }
   ],
   "Tags": [],
@@ -378,13 +378,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-04T22:24:32.4841902+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:22.3617879+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 278,
-  "LastUpdate_Achievements": "2023-05-04T22:24:32.4842454+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:44.9436652+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:22.3618172+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:29.0199554+00:00",
   "AchievementSets": [
     {
       "ID": "d9ekhim",
@@ -399,7 +399,7 @@
   "FirstSeen": "2022-07-22T20:20:51.7200235+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 209,

@@ -8,7 +8,7 @@
       "Name": "An Adorable Thief",
       "Percentage": 92,
       "XP": 75,
-      "UsersEstimate": 3312
+      "UsersEstimate": 33
     },
     {
       "ID": "1",
@@ -16,7 +16,7 @@
       "Name": "Unicycling 101",
       "Percentage": 89,
       "XP": 75,
-      "UsersEstimate": 3204
+      "UsersEstimate": 32
     },
     {
       "ID": "10",
@@ -24,7 +24,7 @@
       "Name": "Where Did The Magic Go?",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 2016
+      "UsersEstimate": 20
     },
     {
       "ID": "11",
@@ -32,7 +32,7 @@
       "Name": "Friendship Is Still Magic",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 2016
+      "UsersEstimate": 20
     },
     {
       "ID": "12",
@@ -40,7 +40,7 @@
       "Name": "Starscout",
       "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 1296
+      "UsersEstimate": 13
     },
     {
       "ID": "2",
@@ -48,7 +48,7 @@
       "Name": "Mane Street Awaits!",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 2700
+      "UsersEstimate": 27
     },
     {
       "ID": "3",
@@ -56,7 +56,7 @@
       "Name": "Pipp Pipp Parade!",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 2412
+      "UsersEstimate": 24
     },
     {
       "ID": "4",
@@ -64,7 +64,7 @@
       "Name": "Amateur Detective",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 2412
+      "UsersEstimate": 24
     },
     {
       "ID": "5",
@@ -72,7 +72,7 @@
       "Name": "Glowing Up",
       "Percentage": 64,
       "XP": 75,
-      "UsersEstimate": 2304
+      "UsersEstimate": 23
     },
     {
       "ID": "6",
@@ -80,7 +80,7 @@
       "Name": "W.I.N.G.S. Cadet",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 1188
+      "UsersEstimate": 12
     },
     {
       "ID": "7",
@@ -88,7 +88,7 @@
       "Name": "Sheriff\u0027s Apprentice",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 2196
+      "UsersEstimate": 22
     },
     {
       "ID": "8",
@@ -96,7 +96,7 @@
       "Name": "Pro Herder",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 2196
+      "UsersEstimate": 22
     },
     {
       "ID": "9",
@@ -104,7 +104,7 @@
       "Name": "The Neigh-gotiator",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 2196
+      "UsersEstimate": 22
     }
   ],
   "Tags": [],
@@ -130,13 +130,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:24:37.132369+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:26.8736104+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 9,
   "EOS_Progressed": 36,
-  "LastUpdate_Achievements": "2023-05-04T22:24:37.1323837+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:56.5290108+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:26.8736228+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:40.6235851+00:00",
   "AchievementSets": [
     {
       "ID": "1kmik7f",
@@ -151,7 +151,7 @@
   "FirstSeen": "2023-01-24T20:58:52.6858094+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_Progress": 279,

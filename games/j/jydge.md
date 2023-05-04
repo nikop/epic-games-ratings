@@ -3,11 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Dawn of Jydgement | 40.00% | ~400 |
-| Mission Mastered | 40.00% | ~400 |
-| Savior | 20.00% | ~200 |
-| The Jydgement Day | 10.00% | ~100 |
-| The Dusk Falls | 10.00% | ~100 |
+| The Dawn of Jydgement | 40.00% | ~4 |
+| Mission Mastered | 40.00% | ~4 |
+| Savior | 20.00% | ~2 |
+| The Jydgement Day | 10.00% | ~1 |
+| The Dusk Falls | 10.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Cyberware | 0.00% | ~0 |
 | Crime Reaper | 0.00% | ~0 |

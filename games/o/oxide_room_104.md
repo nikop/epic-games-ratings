@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 200.00% | ~200 |
-| Brute force | 200.00% | ~200 |
-| Antidote | 100.00% | ~100 |
-| First aid | 100.00% | ~100 |
-| Nimble fingers | 100.00% | ~100 |
-| Room 104 | 100.00% | ~100 |
-| Face to face | 100.00% | ~100 |
+| What's going on here? | 200.00% | ~2 |
+| Brute force | 200.00% | ~2 |
+| Antidote | 100.00% | ~1 |
+| First aid | 100.00% | ~1 |
+| Nimble fingers | 100.00% | ~1 |
+| Room 104 | 100.00% | ~1 |
+| Face to face | 100.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | 373 | 0.00% | ~0 |
 | On the right path | 0.00% | ~0 |

@@ -9,29 +9,29 @@ Diff (max vs sum): 46
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~1,753,006 |
-| Strongman | 31.00% | ~578,119 |
-| Alpha Male | 19.00% | ~354,331 |
-| Just Enough | 18.00% | ~335,682 |
-| Pro-creative | 17.00% | ~317,033 |
-| Worth Every Penny | 15.00% | ~279,735 |
-| Family man | 12.00% | ~223,788 |
-| Junior Estate Agent | 12.00% | ~223,788 |
-| Mystery | 10.00% | ~186,490 |
-| Artistic soul | 9.00% | ~167,841 |
-| Estate Agent | 5.00% | ~93,245 |
-| Millionaire | 5.00% | ~93,245 |
-| Perfectionist | 5.00% | ~93,245 |
-| I'm Belieber | 2.00% | ~37,298 |
-| You do it wrong | 1.00% | ~18,649 |
-| Game Over | 0.80% | ~14,919 |
-| Wall Street Shark | 0.80% | ~14,919 |
-| Knock, knock | 0.80% | ~14,919 |
-| Negotiator | 0.80% | ~14,919 |
-| Car Mechanic | 0.70% | ~13,054 |
-| Do it ASAP | 0.60% | ~11,189 |
-| Nerd | 0.50% | ~9,324 |
-| Senior Estate Agent | 0.50% | ~9,324 |
+| First money | 94.00% | ~17,530 |
+| Strongman | 31.00% | ~5,781 |
+| Alpha Male | 19.00% | ~3,543 |
+| Just Enough | 18.00% | ~3,357 |
+| Pro-creative | 17.00% | ~3,170 |
+| Worth Every Penny | 15.00% | ~2,797 |
+| Family man | 12.00% | ~2,238 |
+| Junior Estate Agent | 12.00% | ~2,238 |
+| Mystery | 10.00% | ~1,865 |
+| Artistic soul | 9.00% | ~1,678 |
+| Estate Agent | 5.00% | ~932 |
+| Millionaire | 5.00% | ~932 |
+| Perfectionist | 5.00% | ~932 |
+| I'm Belieber | 2.00% | ~373 |
+| You do it wrong | 1.00% | ~186 |
+| Game Over | 0.80% | ~149 |
+| Wall Street Shark | 0.80% | ~149 |
+| Knock, knock | 0.80% | ~149 |
+| Negotiator | 0.80% | ~149 |
+| Car Mechanic | 0.70% | ~131 |
+| Do it ASAP | 0.60% | ~112 |
+| Nerd | 0.50% | ~93 |
+| Senior Estate Agent | 0.50% | ~93 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,649 (Ranked 92)  
 Completed: 19 (0.10%) (Ranked 150)  

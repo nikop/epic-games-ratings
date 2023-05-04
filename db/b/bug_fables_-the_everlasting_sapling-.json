@@ -8,7 +8,7 @@
       "Name": "Gamer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 8
     },
     {
       "ID": "BFT_BONUS",
@@ -16,7 +16,7 @@
       "Name": "Bounty Hunter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1188
+      "UsersEstimate": 12
     },
     {
       "ID": "BFT_CH1",
@@ -24,7 +24,7 @@
       "Name": "Chapter 1 Complete",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 4488
+      "UsersEstimate": 45
     },
     {
       "ID": "BFT_CH1HB",
@@ -32,7 +32,7 @@
       "Name": "Vicious Spider",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 2772
+      "UsersEstimate": 28
     },
     {
       "ID": "BFT_CH2",
@@ -40,7 +40,7 @@
       "Name": "Chapter 2 Complete",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2970
+      "UsersEstimate": 30
     },
     {
       "ID": "BFT_CH2HB",
@@ -48,7 +48,7 @@
       "Name": "The Guardian",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1914
+      "UsersEstimate": 19
     },
     {
       "ID": "BFT_CH3",
@@ -56,7 +56,7 @@
       "Name": "Chapter 3 Complete",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2310
+      "UsersEstimate": 23
     },
     {
       "ID": "BFT_CH3HB",
@@ -64,7 +64,7 @@
       "Name": "Heavy Duty",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_CH4",
@@ -72,7 +72,7 @@
       "Name": "Chapter 4 Complete",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1914
+      "UsersEstimate": 19
     },
     {
       "ID": "BFT_CH4HB",
@@ -80,7 +80,7 @@
       "Name": "Always Watchful",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1320
+      "UsersEstimate": 13
     },
     {
       "ID": "BFT_CH5",
@@ -88,7 +88,7 @@
       "Name": "Chapter 5 Complete",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_CH5HB",
@@ -96,7 +96,7 @@
       "Name": "The Terror",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1188
+      "UsersEstimate": 12
     },
     {
       "ID": "BFT_CH6",
@@ -104,7 +104,7 @@
       "Name": "Chapter 6 Complete",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 14
     },
     {
       "ID": "BFT_CH6HB",
@@ -112,7 +112,7 @@
       "Name": "All Geared Up",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_CH7",
@@ -120,7 +120,7 @@
       "Name": "Chapter 7 Complete",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 13
     },
     {
       "ID": "BFT_CH7HB",
@@ -128,7 +128,7 @@
       "Name": "The End",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_CHOMP",
@@ -136,7 +136,7 @@
       "Name": "Plant Enchanter",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 1320
+      "UsersEstimate": 13
     },
     {
       "ID": "BFT_COOK",
@@ -144,7 +144,7 @@
       "Name": "Cooking Maestro",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 6
     },
     {
       "ID": "BFT_CRYST",
@@ -160,7 +160,7 @@
       "Name": "Pro Explorers",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 7
     },
     {
       "ID": "BFT_ENEMY",
@@ -168,7 +168,7 @@
       "Name": "Field Researcher",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 6
     },
     {
       "ID": "BFT_KABBU",
@@ -176,7 +176,7 @@
       "Name": "Good Deed",
       "Percentage": 14,
       "XP": 65,
-      "UsersEstimate": 924
+      "UsersEstimate": 9
     },
     {
       "ID": "BFT_LEIF",
@@ -184,7 +184,7 @@
       "Name": "The Truth",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_MAX",
@@ -192,7 +192,7 @@
       "Name": "Battle Ready",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_MEDAL",
@@ -200,7 +200,7 @@
       "Name": "Medal Collector",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 528
+      "UsersEstimate": 5
     },
     {
       "ID": "BFT_MUSIC",
@@ -208,7 +208,7 @@
       "Name": "Music Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 9
     },
     {
       "ID": "BFT_PLAT",
@@ -216,7 +216,7 @@
       "Name": "Our job\u0027s done!",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 528
+      "UsersEstimate": 5
     },
     {
       "ID": "BFT_QUEST",
@@ -224,7 +224,7 @@
       "Name": "Helping Hand",
       "Percentage": 9,
       "XP": 65,
-      "UsersEstimate": 594
+      "UsersEstimate": 6
     },
     {
       "ID": "BFT_SUPER",
@@ -232,7 +232,7 @@
       "Name": "Ultimate Team!",
       "Percentage": 12,
       "XP": 65,
-      "UsersEstimate": 792
+      "UsersEstimate": 8
     },
     {
       "ID": "BFT_VI",
@@ -240,7 +240,7 @@
       "Name": "Reconciliation",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 1386
+      "UsersEstimate": 14
     }
   ],
   "Tags": [],
@@ -266,13 +266,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:24:54.7793725+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:44.4692929+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 66,
-  "LastUpdate_Achievements": "2023-05-04T22:24:54.779409+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:58.7628667+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:44.4693351+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:39.9049341+00:00",
   "AchievementSets": [
     {
       "ID": "7o7kd30",
@@ -287,7 +287,7 @@
   "FirstSeen": "2022-07-22T20:27:02.4416913+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 262,

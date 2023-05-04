@@ -8,39 +8,39 @@ Diff (max vs sum): 56
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 5.00% | ~62,665 |
-| Paper Jams | 5.00% | ~62,665 |
-| Get a Grip | 4.00% | ~50,132 |
-| You Need a Gun | 3.00% | ~37,599 |
-| Two Heads Are Better Than One | 3.00% | ~37,599 |
-| Workplace Hazard | 3.00% | ~37,599 |
-| Float Like A Butterfly | 3.00% | ~37,599 |
-| The Outer Way | 3.00% | ~37,599 |
-| Glutton for Punishment | 2.00% | ~918 |
-| I Do Belong Here | 2.00% | ~25,066 |
-| Parole Denied | 2.00% | ~918 |
-| In Striking Distance | 2.00% | ~25,066 |
-| Chew 'Em Up | 2.00% | ~25,066 |
-| Terminated | 2.00% | ~25,066 |
-| The Commonality | 2.00% | ~25,066 |
-| Reforged | 2.00% | ~25,066 |
-| Mugshot | 2.00% | ~25,066 |
-| If the SHU Fits... | 2.00% | ~25,066 |
-| Without A Paddle | 2.00% | ~25,066 |
-| In the Pipe, Five by Five | 2.00% | ~25,066 |
-| What Lies Beneath | 2.00% | ~25,066 |
-| Desperate Times | 2.00% | ~25,066 |
-| Crash Site | 2.00% | ~25,066 |
-| Full Circle | 2.00% | ~25,066 |
-| Power Up | 2.00% | ~25,066 |
-| Giving Back | 1.00% | ~12,533 |
-| You Belong Here | 1.00% | ~459 |
-| Grim Reaper | 0.50% | ~6,266 |
-| Armed to the Teeth | 0.30% | ~138 |
-| Recidivist | 0.20% | ~92 |
-| It's over, Jacob! | 0.10% | ~1,253 |
-| The Protocol is About Life | 0.10% | ~1,253 |
-| Lifer | 0.10% | ~46 |
+| Flesh Wound | 5.00% | ~627 |
+| Paper Jams | 5.00% | ~627 |
+| Get a Grip | 4.00% | ~501 |
+| You Need a Gun | 3.00% | ~376 |
+| Two Heads Are Better Than One | 3.00% | ~376 |
+| Workplace Hazard | 3.00% | ~376 |
+| Float Like A Butterfly | 3.00% | ~376 |
+| The Outer Way | 3.00% | ~376 |
+| Glutton for Punishment | 2.00% | ~9 |
+| I Do Belong Here | 2.00% | ~251 |
+| Parole Denied | 2.00% | ~9 |
+| In Striking Distance | 2.00% | ~251 |
+| Chew 'Em Up | 2.00% | ~251 |
+| Terminated | 2.00% | ~251 |
+| The Commonality | 2.00% | ~251 |
+| Reforged | 2.00% | ~251 |
+| Mugshot | 2.00% | ~251 |
+| If the SHU Fits... | 2.00% | ~251 |
+| Without A Paddle | 2.00% | ~251 |
+| In the Pipe, Five by Five | 2.00% | ~251 |
+| What Lies Beneath | 2.00% | ~251 |
+| Desperate Times | 2.00% | ~251 |
+| Crash Site | 2.00% | ~251 |
+| Full Circle | 2.00% | ~251 |
+| Power Up | 2.00% | ~251 |
+| Giving Back | 1.00% | ~125 |
+| You Belong Here | 1.00% | ~5 |
+| Grim Reaper | 0.50% | ~63 |
+| Armed to the Teeth | 0.30% | ~1 |
+| Recidivist | 0.20% | ~1 |
+| It's over, Jacob! | 0.10% | ~13 |
+| The Protocol is About Life | 0.10% | ~13 |
+| Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,533 (Ranked 100)  
 Completed: 47 (0.38%) (Ranked 105)  

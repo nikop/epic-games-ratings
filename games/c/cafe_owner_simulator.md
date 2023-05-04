@@ -3,19 +3,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BUSINESS OWNER | 98.00% | ~23,128 |
-| CLEANER | 93.00% | ~21,948 |
-| OH NO, HE'S LEAVING! | 72.00% | ~16,992 |
-| FIREFIGHTER | 50.00% | ~11,800 |
-| ADVANCED | 35.00% | ~8,260 |
-| CHIEF | 17.00% | ~4,012 |
-| SECOND_FLOOR | 11.00% | ~2,596 |
-| DEBTOR | 8.00% | ~1,888 |
-| FIRST $100K | 3.00% | ~708 |
-| SUCCESSFUL | 3.00% | ~708 |
-| THINGS ARE GOING WELL | 3.00% | ~708 |
-| YETTI | 2.00% | ~472 |
-| 500K$. | 1.00% | ~236 |
+| BUSINESS OWNER | 98.00% | ~231 |
+| CLEANER | 93.00% | ~219 |
+| OH NO, HE'S LEAVING! | 72.00% | ~170 |
+| FIREFIGHTER | 50.00% | ~118 |
+| ADVANCED | 35.00% | ~83 |
+| CHIEF | 17.00% | ~40 |
+| SECOND_FLOOR | 11.00% | ~26 |
+| DEBTOR | 8.00% | ~19 |
+| FIRST $100K | 3.00% | ~7 |
+| SUCCESSFUL | 3.00% | ~7 |
+| THINGS ARE GOING WELL | 3.00% | ~7 |
+| YETTI | 2.00% | ~5 |
+| 500K$. | 1.00% | ~2 |
 | INTRODUCTION | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 236 (Ranked 217)  

@@ -8,7 +8,7 @@
       "Name": "Betrayed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 5
     },
     {
       "ID": "Chainsplosion",
@@ -16,7 +16,7 @@
       "Name": "Chainsplosion!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "ChampionOfLight",
@@ -24,7 +24,7 @@
       "Name": "Champion of Light",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 6
     },
     {
       "ID": "CoffinKicker",
@@ -32,7 +32,7 @@
       "Name": "Coffin Kicker",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "Collateral",
@@ -48,7 +48,7 @@
       "Name": "Crab Cakes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2115
+      "UsersEstimate": 21
     },
     {
       "ID": "DropIn",
@@ -56,7 +56,7 @@
       "Name": "Drop In",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 990
+      "UsersEstimate": 10
     },
     {
       "ID": "EliteVamp",
@@ -72,7 +72,7 @@
       "Name": "Finish Him",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 4095
+      "UsersEstimate": 41
     },
     {
       "ID": "FlightOfTheRaven",
@@ -80,7 +80,7 @@
       "Name": "Flight of the Raven",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 11
     },
     {
       "ID": "FootFace",
@@ -88,7 +88,7 @@
       "Name": "A Foot Face?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "FunkyPuncher",
@@ -96,7 +96,7 @@
       "Name": "That Funky Puncher",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "JustATaste",
@@ -104,7 +104,7 @@
       "Name": "Just a Taste",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 37
     },
     {
       "ID": "LastBullet",
@@ -112,7 +112,7 @@
       "Name": "The Last Bullet",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "MsPerfect",
@@ -120,7 +120,7 @@
       "Name": "Ms. Perfect",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "PartingGift",
@@ -128,7 +128,7 @@
       "Name": "Parting Gift",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 5
     },
     {
       "ID": "PersonallyPunched",
@@ -136,7 +136,7 @@
       "Name": "Personally Punched",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 12
     },
     {
       "ID": "Skullector",
@@ -144,7 +144,7 @@
       "Name": "Skullector",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 3
     },
     {
       "ID": "Skulltastic",
@@ -152,7 +152,7 @@
       "Name": "Skulltastic",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     },
     {
       "ID": "StomachAche",
@@ -160,7 +160,7 @@
       "Name": "Stomach Ache",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 180
+      "UsersEstimate": 2
     },
     {
       "ID": "StrangeSkulls",
@@ -168,7 +168,7 @@
       "Name": "Strange Skulls",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2700
+      "UsersEstimate": 27
     },
     {
       "ID": "ToSunrise",
@@ -176,7 +176,7 @@
       "Name": "Survived to Sunrise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 2
     },
     {
       "ID": "TreasureHunter",
@@ -184,7 +184,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 2610
+      "UsersEstimate": 26
     },
     {
       "ID": "WalkingOnAir",
@@ -192,7 +192,7 @@
       "Name": "Walking on Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -213,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:24:58.9986587+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:48.5994059+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 45,
-  "LastUpdate_Achievements": "2023-05-04T22:24:58.998684+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:11.6679718+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:48.5994462+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:52.7167212+00:00",
   "AchievementSets": [
     {
       "ID": "6jf74lf",
@@ -234,7 +234,7 @@
   "FirstSeen": "2022-11-08T23:57:42.6148826+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 275,

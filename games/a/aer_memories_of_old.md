@@ -5,26 +5,26 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~645,012 |
-| Mama? | 28.00% | ~237,636 |
-| People's Haven | 19.00% | ~161,253 |
-| Cartographer | 18.00% | ~152,766 |
-| Antlers of Stone | 16.00% | ~135,792 |
-| Knowledge for Power | 15.00% | ~127,305 |
-| Gaze into the abyss | 14.00% | ~118,818 |
-| Mausoleum of Ice | 14.00% | ~118,818 |
-| Equilibrium | 13.00% | ~110,331 |
-| In the belly of the beast | 12.00% | ~101,844 |
-| Wings of Stone | 12.00% | ~101,844 |
-| Condor condo | 11.00% | ~93,357 |
-| Memorial | 9.00% | ~76,383 |
-| An uninvited guest | 8.00% | ~67,896 |
-| Tails of Stone | 7.00% | ~59,409 |
-| Baa from the past | 7.00% | ~59,409 |
-| Written in stone | 7.00% | ~59,409 |
-| Talk to all the spirit animals | 7.00% | ~59,409 |
-| Ripples on the surface | 6.00% | ~50,922 |
-| Hide and Seek | 5.00% | ~42,435 |
+| Light at the end of the tunnel | 76.00% | ~6,450 |
+| Mama? | 28.00% | ~2,376 |
+| People's Haven | 19.00% | ~1,613 |
+| Cartographer | 18.00% | ~1,528 |
+| Antlers of Stone | 16.00% | ~1,358 |
+| Knowledge for Power | 15.00% | ~1,273 |
+| Gaze into the abyss | 14.00% | ~1,188 |
+| Mausoleum of Ice | 14.00% | ~1,188 |
+| Equilibrium | 13.00% | ~1,103 |
+| In the belly of the beast | 12.00% | ~1,018 |
+| Wings of Stone | 12.00% | ~1,018 |
+| Condor condo | 11.00% | ~934 |
+| Memorial | 9.00% | ~764 |
+| An uninvited guest | 8.00% | ~679 |
+| Tails of Stone | 7.00% | ~594 |
+| Baa from the past | 7.00% | ~594 |
+| Written in stone | 7.00% | ~594 |
+| Talk to all the spirit animals | 7.00% | ~594 |
+| Ripples on the surface | 6.00% | ~509 |
+| Hide and Seek | 5.00% | ~424 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,487 (Ranked 108)  
 Completed: 195 (2.30%) (Ranked 54)  

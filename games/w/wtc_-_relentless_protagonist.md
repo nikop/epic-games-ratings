@@ -3,8 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start a new game | 50.00% | ~200 |
-| Enter a new name | 25.00% | ~100 |
+| Start a new game | 50.00% | ~2 |
+| Enter a new name | 25.00% | ~1 |
 | Burying the past | 0.00% | ~0 |
 | CD Player | 0.00% | ~0 |
 | Father Route | 0.00% | ~0 |

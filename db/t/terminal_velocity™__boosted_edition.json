@@ -56,7 +56,7 @@
       "Name": "Destruction Derby",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "EASY_GOINGS",
@@ -72,7 +72,7 @@
       "Name": "Getting started air",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "GETTING_STARTED_GROUND",
@@ -80,7 +80,7 @@
       "Name": "Getting started ground",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "HEAVY_WEIGHT",
@@ -104,7 +104,7 @@
       "Name": "Its not a car",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "JUST_A_DAY_ON_THE_JOB",
@@ -128,7 +128,7 @@
       "Name": "Look I can fly!",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "MIDDLE_WEIGHT",
@@ -152,7 +152,7 @@
       "Name": "Picking up momentum air",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "PICKING_UP_MOMENTUM_GROUND",
@@ -160,7 +160,7 @@
       "Name": "Picking up momentum ground",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "SAVE_THE_TREES",
@@ -248,7 +248,7 @@
       "Name": "Tube Hunter",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "YOU_ARE_SPECIAL",
@@ -256,7 +256,7 @@
       "Name": "You are special",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -277,13 +277,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-04T22:24:12.0726633+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:01.8787377+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:12.0727061+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:11.7325421+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:01.8787657+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:55.7777472+00:00",
   "AchievementSets": [
     {
       "ID": "2pijnb7",
@@ -298,7 +298,7 @@
   "FirstSeen": "2023-04-24T13:57:47.5499338+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,

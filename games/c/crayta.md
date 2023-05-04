@@ -9,40 +9,40 @@ Diff (max vs sum): 78
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Well Socialised! | 23.00% | ~2,512,750 |
-| Variety Player - Bronze | 13.00% | ~1,420,250 |
-| Express Yourself - Bronze | 7.00% | ~764,750 |
-| Getting Friendly | 5.00% | ~546,250 |
-| Challenge Apprentice | 5.00% | ~546,250 |
-| Building Block - Bronze | 4.00% | ~437,000 |
-| Variety Player - Silver | 4.00% | ~437,000 |
-| Building Block - Silver | 2.00% | ~218,500 |
-| Challenge Veteran | 2.00% | ~218,500 |
-| Express Yourself - Silver | 2.00% | ~218,500 |
-| Building Block - Gold | 1.00% | ~109,250 |
-| Grouping Up - Bronze | 1.00% | ~109,250 |
-| Community Creativity | 1.00% | ~109,250 |
-| Shared! | 1.00% | ~109,250 |
-| These Are a Few of My Favorite Things - Bronze | 0.70% | ~76,475 |
-| Standing on the Shoulders of Giants - Bronze | 0.60% | ~65,550 |
-| Going Public! | 0.60% | ~65,550 |
-| Variety Player - Gold | 0.50% | ~54,625 |
-| Challenge Master | 0.50% | ~54,625 |
-| Getting Equipped! | 0.40% | ~43,700 |
-| Getting Creative - Bronze | 0.30% | ~32,775 |
-| Reap the Rewards! | 0.30% | ~32,775 |
-| Grouping Up - Silver | 0.30% | ~32,775 |
-| Standing on the Shoulders of Giants - Silver | 0.20% | ~21,850 |
-| Getting Creative - Silver | 0.20% | ~21,850 |
-| Featured Gamer - Bronze | 0.20% | ~21,850 |
-| Express Yourself - Gold | 0.20% | ~21,850 |
-| These Are a Few of My Favorite Things - Silver | 0.20% | ~21,850 |
-| These Are a Few of My Favorite Things - Gold | 0.10% | ~10,925 |
-| Standing on the Shoulders of Giants - Gold | 0.10% | ~10,925 |
-| Getting Creative - Gold | 0.10% | ~10,925 |
-| Grouping Up - Gold | 0.10% | ~10,925 |
-| Featured Gamer - Silver | 0.10% | ~10,925 |
-| Featured Gamer - Gold | 0.10% | ~10,925 |
+| Well Socialised! | 23.00% | ~25,128 |
+| Variety Player - Bronze | 13.00% | ~14,202 |
+| Express Yourself - Bronze | 7.00% | ~7,648 |
+| Getting Friendly | 5.00% | ~5,462 |
+| Challenge Apprentice | 5.00% | ~5,462 |
+| Building Block - Bronze | 4.00% | ~4,370 |
+| Variety Player - Silver | 4.00% | ~4,370 |
+| Building Block - Silver | 2.00% | ~2,185 |
+| Challenge Veteran | 2.00% | ~2,185 |
+| Express Yourself - Silver | 2.00% | ~2,185 |
+| Building Block - Gold | 1.00% | ~1,092 |
+| Grouping Up - Bronze | 1.00% | ~1,092 |
+| Community Creativity | 1.00% | ~1,092 |
+| Shared! | 1.00% | ~1,092 |
+| These Are a Few of My Favorite Things - Bronze | 0.70% | ~765 |
+| Standing on the Shoulders of Giants - Bronze | 0.60% | ~656 |
+| Going Public! | 0.60% | ~656 |
+| Variety Player - Gold | 0.50% | ~546 |
+| Challenge Master | 0.50% | ~546 |
+| Getting Equipped! | 0.40% | ~437 |
+| Getting Creative - Bronze | 0.30% | ~328 |
+| Reap the Rewards! | 0.30% | ~328 |
+| Grouping Up - Silver | 0.30% | ~328 |
+| Standing on the Shoulders of Giants - Silver | 0.20% | ~218 |
+| Getting Creative - Silver | 0.20% | ~218 |
+| Featured Gamer - Bronze | 0.20% | ~218 |
+| Express Yourself - Gold | 0.20% | ~218 |
+| These Are a Few of My Favorite Things - Silver | 0.20% | ~218 |
+| These Are a Few of My Favorite Things - Gold | 0.10% | ~109 |
+| Standing on the Shoulders of Giants - Gold | 0.10% | ~109 |
+| Getting Creative - Gold | 0.10% | ~109 |
+| Grouping Up - Gold | 0.10% | ~109 |
+| Featured Gamer - Silver | 0.10% | ~109 |
+| Featured Gamer - Gold | 0.10% | ~109 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109,250 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 191)  

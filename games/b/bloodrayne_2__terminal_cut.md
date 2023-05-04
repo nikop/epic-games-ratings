@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Going Batty | 25.00% | ~200 |
-| Amateur Electrician | 13.00% | ~104 |
-| Armed and Dangerous | 13.00% | ~104 |
-| Go for the Heart | 13.00% | ~104 |
-| Patricide | 13.00% | ~104 |
-| Tightrope | 13.00% | ~104 |
-| Zen Garden | 13.00% | ~104 |
+| Going Batty | 25.00% | ~2 |
+| Amateur Electrician | 13.00% | ~1 |
+| Armed and Dangerous | 13.00% | ~1 |
+| Go for the Heart | 13.00% | ~1 |
+| Patricide | 13.00% | ~1 |
+| Tightrope | 13.00% | ~1 |
+| Zen Garden | 13.00% | ~1 |
 | CARNAGE | 0.00% | ~0 |
 | Combat Specialist | 0.00% | ~0 |
 | Deathtraps | 0.00% | ~0 |

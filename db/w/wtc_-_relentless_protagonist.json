@@ -360,7 +360,7 @@
       "Name": "Start a new game",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "WTCRP_NEWNAME",
@@ -368,7 +368,7 @@
       "Name": "Enter a new name",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "WTCRP_NOTGUARDBOX",
@@ -509,13 +509,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-04T22:24:38.0884053+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:27.9316625+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T22:24:38.0884633+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:55.4003637+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:27.9317346+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:39.3932326+00:00",
   "AchievementSets": [
     {
       "ID": "94elm8b",
@@ -525,7 +525,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 331,

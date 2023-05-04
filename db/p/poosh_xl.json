@@ -104,7 +104,7 @@
       "Name": "Destroyed 25 Obstacles",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "Obtain 50 PowerUps",
@@ -112,7 +112,7 @@
       "Name": "Obtained 50 PowerUps",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "Poosh Past 10000",
@@ -120,7 +120,7 @@
       "Name": "Pooshed Past 10000",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Poosh Past 2500",
@@ -128,7 +128,7 @@
       "Name": "Pooshed Past 2500",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "Poosh Past 5000",
@@ -136,7 +136,7 @@
       "Name": "Pooshed Past 5000",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "Poosh Past 7500",
@@ -144,7 +144,7 @@
       "Name": "Pooshed Past 7500",
       "Percentage": 25,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Poosh over 250000",
@@ -152,7 +152,7 @@
       "Name": "Pooshed over 250000",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "Terrible Start",
@@ -160,7 +160,7 @@
       "Name": "Terrible Start",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     }
   ],
   "Tags": [],
@@ -174,13 +174,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:24:30.6069231+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:20.6053518+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T22:24:30.6069446+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:01.0318071+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:20.6053644+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:31:44.4403887+00:00",
   "AchievementSets": [
     {
       "ID": "5n829i",
@@ -190,7 +190,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 331,

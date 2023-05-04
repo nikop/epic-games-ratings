@@ -9,52 +9,52 @@ Diff (max vs sum): -4
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~53,458,295 |
-| Right Back At Ya | 37.00% | ~29,521,745 |
-| The Lovers | 32.00% | ~25,532,320 |
-| Stanislavski's Method | 27.00% | ~21,542,895 |
-| The Wheel of Fortune | 25.00% | ~19,947,125 |
-| The Hermit | 22.00% | ~17,553,470 |
-| True Soldier | 22.00% | ~17,553,470 |
-| Christmas Tree Attack | 21.00% | ~16,755,585 |
-| The High Priestess | 20.00% | ~15,957,700 |
-| Legend of The Afterlife | 20.00% | ~15,957,700 |
-| Life of the Road | 19.00% | ~15,159,815 |
-| Full Body Conversion | 17.00% | ~13,564,045 |
-| The World | 16.00% | ~12,766,160 |
-| Bushido and Chill | 15.00% | ~11,968,275 |
-| True Warrior | 14.00% | ~11,170,390 |
-| To Protect and Serve | 13.00% | ~10,372,505 |
-| Gun Fu | 13.00% | ~10,372,505 |
-| Master Crafter | 13.00% | ~10,372,505 |
-| I Am The Law | 13.00% | ~10,372,505 |
-| Judy vs Night City | 13.00% | ~10,372,505 |
-| Two Heads, One Bullet | 11.00% | ~8,776,735 |
-| The Wandering Fool | 9.00% | ~7,180,965 |
-| The Quick and the Dead | 9.00% | ~7,180,965 |
-| Ten out of Ten | 8.00% | ~6,383,080 |
-| Breathtaking | 7.00% | ~5,585,195 |
-| To Bad Decisions! | 6.00% | ~4,787,310 |
-| The Star | 6.00% | ~4,787,310 |
-| The Sun | 6.00% | ~4,787,310 |
-| Must Be Rats | 4.00% | ~3,191,540 |
-| Temperance | 4.00% | ~3,191,540 |
-| City Lights | 3.00% | ~2,393,655 |
-| Frequent Flyer | 3.00% | ~2,393,655 |
-| Mean Streets | 3.00% | ~2,393,655 |
-| Little Tokyo | 3.00% | ~2,393,655 |
-| Greetings from Pacifica! | 3.00% | ~2,393,655 |
-| The Jungle | 3.00% | ~2,393,655 |
-| V for Vendetta | 3.00% | ~2,393,655 |
-| It's Elementary | 3.00% | ~2,393,655 |
-| Autojock | 2.00% | ~1,595,770 |
-| The Wasteland | 2.00% | ~1,595,770 |
-| Daemon In The Shell | 2.00% | ~1,595,770 |
-| The Devil | 2.00% | ~1,595,770 |
-| Gunslinger | 1.00% | ~797,885 |
-| Rough Landing | 0.40% | ~319,154 |
+| The Fool | 67.00% | ~534,585 |
+| Right Back At Ya | 37.00% | ~295,219 |
+| The Lovers | 32.00% | ~255,324 |
+| Stanislavski's Method | 27.00% | ~215,430 |
+| The Wheel of Fortune | 25.00% | ~199,472 |
+| The Hermit | 22.00% | ~175,535 |
+| True Soldier | 22.00% | ~175,535 |
+| Christmas Tree Attack | 21.00% | ~167,556 |
+| The High Priestess | 20.00% | ~159,578 |
+| Legend of The Afterlife | 20.00% | ~159,578 |
+| Life of the Road | 19.00% | ~151,599 |
+| Full Body Conversion | 17.00% | ~135,641 |
+| The World | 16.00% | ~127,662 |
+| Bushido and Chill | 15.00% | ~119,683 |
+| True Warrior | 14.00% | ~111,704 |
+| To Protect and Serve | 13.00% | ~103,725 |
+| Gun Fu | 13.00% | ~103,725 |
+| Master Crafter | 13.00% | ~103,725 |
+| I Am The Law | 13.00% | ~103,725 |
+| Judy vs Night City | 13.00% | ~103,725 |
+| Two Heads, One Bullet | 11.00% | ~87,768 |
+| The Wandering Fool | 9.00% | ~71,810 |
+| The Quick and the Dead | 9.00% | ~71,810 |
+| Ten out of Ten | 8.00% | ~63,831 |
+| Breathtaking | 7.00% | ~55,852 |
+| To Bad Decisions! | 6.00% | ~47,873 |
+| The Star | 6.00% | ~47,873 |
+| The Sun | 6.00% | ~47,873 |
+| Must Be Rats | 4.00% | ~31,916 |
+| Temperance | 4.00% | ~31,916 |
+| City Lights | 3.00% | ~23,937 |
+| Frequent Flyer | 3.00% | ~23,937 |
+| Mean Streets | 3.00% | ~23,937 |
+| Little Tokyo | 3.00% | ~23,937 |
+| Greetings from Pacifica! | 3.00% | ~23,937 |
+| The Jungle | 3.00% | ~23,937 |
+| V for Vendetta | 3.00% | ~23,937 |
+| It's Elementary | 3.00% | ~23,937 |
+| Autojock | 2.00% | ~15,958 |
+| The Wasteland | 2.00% | ~15,958 |
+| Daemon In The Shell | 2.00% | ~15,958 |
+| The Devil | 2.00% | ~15,958 |
+| Gunslinger | 1.00% | ~7,979 |
+| Rough Landing | 0.40% | ~3,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,885 (Ranked 10)  
+Progressed: 797,888 (Ranked 10)  
 Completed: 1,567 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 1,567 (0.20%) (Ranked 131)
 | 2023-05-01 | 797,331 | 1,554 |
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
-| 2023-05-04 | 797,885 | 1,567 |
+| 2023-05-04 | 797,888 | 1,567 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

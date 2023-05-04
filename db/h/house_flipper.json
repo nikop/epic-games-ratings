@@ -8,7 +8,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 223788
+      "UsersEstimate": 2238
     },
     {
       "ID": "CarMechanic",
@@ -16,7 +16,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 13054
+      "UsersEstimate": 131
     },
     {
       "ID": "ChangChoi",
@@ -24,7 +24,7 @@
       "Name": "Nerd",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 9324
+      "UsersEstimate": 93
     },
     {
       "ID": "DoItASAP",
@@ -32,7 +32,7 @@
       "Name": "Do it ASAP",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 11189
+      "UsersEstimate": 112
     },
     {
       "ID": "DolanTrusk",
@@ -40,7 +40,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 279735
+      "UsersEstimate": 2797
     },
     {
       "ID": "EstateAgent",
@@ -48,7 +48,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 93245
+      "UsersEstimate": 932
     },
     {
       "ID": "FirstMoney",
@@ -56,7 +56,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1753006
+      "UsersEstimate": 17530
     },
     {
       "ID": "GameOver",
@@ -64,7 +64,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 14919
+      "UsersEstimate": 149
     },
     {
       "ID": "GorgioShanua",
@@ -72,7 +72,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 37298
+      "UsersEstimate": 373
     },
     {
       "ID": "JackTarinton",
@@ -80,7 +80,7 @@
       "Name": "Wall Street Shark",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 14919
+      "UsersEstimate": 149
     },
     {
       "ID": "JimmyTraitor",
@@ -88,7 +88,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 186490
+      "UsersEstimate": 1865
     },
     {
       "ID": "JuniorEstateAgent",
@@ -96,7 +96,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 223788
+      "UsersEstimate": 2238
     },
     {
       "ID": "KnockKnock",
@@ -104,7 +104,7 @@
       "Name": "Knock, knock",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 14919
+      "UsersEstimate": 149
     },
     {
       "ID": "Millionaire",
@@ -112,7 +112,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 93245
+      "UsersEstimate": 932
     },
     {
       "ID": "MrAndMrsJantart",
@@ -120,7 +120,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 335682
+      "UsersEstimate": 3357
     },
     {
       "ID": "Negotiator",
@@ -128,7 +128,7 @@
       "Name": "Negotiator",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 14919
+      "UsersEstimate": 149
     },
     {
       "ID": "Perfectionist",
@@ -136,7 +136,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 93245
+      "UsersEstimate": 932
     },
     {
       "ID": "RafaelErko",
@@ -144,7 +144,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 354331
+      "UsersEstimate": 3543
     },
     {
       "ID": "SeniorEstateAgent",
@@ -152,7 +152,7 @@
       "Name": "Senior Estate Agent",
       "Percentage": 0.5,
       "XP": 150,
-      "UsersEstimate": 9324
+      "UsersEstimate": 93
     },
     {
       "ID": "SmothFamily",
@@ -160,7 +160,7 @@
       "Name": "Pro-creative",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 317033
+      "UsersEstimate": 3170
     },
     {
       "ID": "Strongman",
@@ -168,7 +168,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 578119
+      "UsersEstimate": 5781
     },
     {
       "ID": "VeronicaLiptson",
@@ -176,7 +176,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 167841
+      "UsersEstimate": 1678
     },
     {
       "ID": "YouDoItWrong",
@@ -184,7 +184,7 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 18649
+      "UsersEstimate": 186
     }
   ],
   "Tags": [
@@ -1792,13 +1792,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:24:45.82834+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:35.3199595+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 51,
   "EOS_Completed": 19,
   "EOS_Progressed": 18649,
-  "LastUpdate_Achievements": "2023-05-04T22:24:45.8283605+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:30.9089937+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:35.3199898+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:13.7090254+00:00",
   "AchievementSets": [
     {
       "ID": "d0jo315",
@@ -1814,7 +1814,7 @@
   "NumberOfAwardsMax": 282,
   "NumberOfAwards": 2107,
   "NumberOfRatings": 1023,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_Progress": 92,

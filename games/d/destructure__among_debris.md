@@ -3,25 +3,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 72.00% | ~2,592 |
-| Graduation | 67.00% | ~2,412 |
-| You Have Been Deaded | 53.00% | ~1,908 |
-| Apprentice Destructor | 19.00% | ~684 |
-| I Prefer Jazz Fusion | 11.00% | ~396 |
-| Avaricerite | 8.00% | ~288 |
-| You Are Actually Supposed To Use Those | 8.00% | ~288 |
-| Ball Galore | 3.00% | ~108 |
-| Ball Protector | 3.00% | ~108 |
-| Bullet Hell | 3.00% | ~108 |
-| Easy Victory | 3.00% | ~108 |
-| Legendary Destructor | 3.00% | ~108 |
-| Machine Man | 3.00% | ~108 |
-| Master Destructor | 3.00% | ~108 |
-| Mushroom Man | 3.00% | ~108 |
-| Nomad | 3.00% | ~108 |
-| Scrap Collector | 3.00% | ~108 |
-| Ticking Clock | 3.00% | ~108 |
-| Untouchable | 3.00% | ~108 |
+| Rookie | 72.00% | ~26 |
+| Graduation | 67.00% | ~24 |
+| You Have Been Deaded | 53.00% | ~19 |
+| Apprentice Destructor | 19.00% | ~7 |
+| I Prefer Jazz Fusion | 11.00% | ~4 |
+| Avaricerite | 8.00% | ~3 |
+| You Are Actually Supposed To Use Those | 8.00% | ~3 |
+| Ball Galore | 3.00% | ~1 |
+| Ball Protector | 3.00% | ~1 |
+| Bullet Hell | 3.00% | ~1 |
+| Easy Victory | 3.00% | ~1 |
+| Legendary Destructor | 3.00% | ~1 |
+| Machine Man | 3.00% | ~1 |
+| Master Destructor | 3.00% | ~1 |
+| Mushroom Man | 3.00% | ~1 |
+| Nomad | 3.00% | ~1 |
+| Scrap Collector | 3.00% | ~1 |
+| Ticking Clock | 3.00% | ~1 |
+| Untouchable | 3.00% | ~1 |
 | Back From The Dead | 0.00% | ~0 |
 | Ball Collector | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |

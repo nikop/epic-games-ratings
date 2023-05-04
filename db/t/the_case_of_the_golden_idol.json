@@ -8,7 +8,7 @@
       "Name": "Solved first case",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4505
+      "UsersEstimate": 45
     },
     {
       "ID": "1",
@@ -16,7 +16,7 @@
       "Name": "Solved second case",
       "Percentage": 83,
       "XP": 90,
-      "UsersEstimate": 4399
+      "UsersEstimate": 44
     },
     {
       "ID": "10",
@@ -24,7 +24,7 @@
       "Name": "Solved eleventh case",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 901
+      "UsersEstimate": 9
     },
     {
       "ID": "2",
@@ -32,7 +32,7 @@
       "Name": "Solved third case",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 3498
+      "UsersEstimate": 35
     },
     {
       "ID": "3",
@@ -40,7 +40,7 @@
       "Name": "Solved fourth case",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 2279
+      "UsersEstimate": 23
     },
     {
       "ID": "4",
@@ -48,7 +48,7 @@
       "Name": "Solved fifth case",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1113
+      "UsersEstimate": 11
     },
     {
       "ID": "5",
@@ -56,7 +56,7 @@
       "Name": "Solved sixth case",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1219
+      "UsersEstimate": 12
     },
     {
       "ID": "6",
@@ -64,7 +64,7 @@
       "Name": "Solved seventh case",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1378
+      "UsersEstimate": 14
     },
     {
       "ID": "7",
@@ -72,7 +72,7 @@
       "Name": "Solved eighth case",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1378
+      "UsersEstimate": 14
     },
     {
       "ID": "8",
@@ -80,7 +80,7 @@
       "Name": "Solved ninth case",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1113
+      "UsersEstimate": 11
     },
     {
       "ID": "9",
@@ -88,7 +88,7 @@
       "Name": "Solved tenth case",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 1007
+      "UsersEstimate": 10
     }
   ],
   "Tags": [],
@@ -129,13 +129,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T22:24:18.9694318+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:08.8135818+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 4,
   "EOS_Completed": 2,
   "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-04T22:24:18.9694464+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:56.3932154+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:08.8136087+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:40.4098246+00:00",
   "AchievementSets": [
     {
       "ID": "acl54ke",
@@ -156,7 +156,7 @@
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_Progress": 269,

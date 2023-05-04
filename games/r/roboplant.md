@@ -3,9 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First company created | 100.00% | ~200 |
-| Hire the first worker | 100.00% | ~200 |
-| Build the foundation of your base | 50.00% | ~100 |
+| First company created | 100.00% | ~2 |
+| Hire the first worker | 100.00% | ~2 |
+| Build the foundation of your base | 50.00% | ~1 |
 | A proper interior designer | 0.00% | ~0 |
 | Give it a good esthetic | 0.00% | ~0 |
 | An eye for business | 0.00% | ~0 |

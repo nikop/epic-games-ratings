@@ -3,22 +3,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutorial Completed | 6.00% | ~39,078 |
-| Supermart Objectives Complete | 2.00% | ~13,026 |
-| Supermart Heisted | 2.00% | ~13,026 |
-| Sewer Objectives Complete | 1.00% | ~6,513 |
-| Bank Heisted | 0.40% | ~2,605 |
-| Chicken Maxed Out | 0.20% | ~1,303 |
-| Crocodile Maxed Out | 0.20% | ~1,303 |
-| Monkey Maxed Out | 0.20% | ~1,303 |
-| Moose Maxed Out | 0.20% | ~1,303 |
-| All Objectives Complete | 0.10% | ~651 |
-| All Gold Chest Slots Unlocked | 0.10% | ~651 |
-| Bank Objectives Complete | 0.10% | ~651 |
-| All Weapons Purchased | 0.10% | ~651 |
-| Nuclear Plant Heisted | 0.10% | ~651 |
-| Prison Objectives Complete | 0.10% | ~651 |
-| Prison Heisted | 0.10% | ~651 |
+| Tutorial Completed | 6.00% | ~391 |
+| Supermart Objectives Complete | 2.00% | ~130 |
+| Supermart Heisted | 2.00% | ~130 |
+| Sewer Objectives Complete | 1.00% | ~65 |
+| Bank Heisted | 0.40% | ~26 |
+| Chicken Maxed Out | 0.20% | ~13 |
+| Crocodile Maxed Out | 0.20% | ~13 |
+| Monkey Maxed Out | 0.20% | ~13 |
+| Moose Maxed Out | 0.20% | ~13 |
+| All Objectives Complete | 0.10% | ~7 |
+| All Gold Chest Slots Unlocked | 0.10% | ~7 |
+| Bank Objectives Complete | 0.10% | ~7 |
+| All Weapons Purchased | 0.10% | ~7 |
+| Nuclear Plant Heisted | 0.10% | ~7 |
+| Prison Objectives Complete | 0.10% | ~7 |
+| Prison Heisted | 0.10% | ~7 |
 | Got All The Serums | 0.00% | ~0 |
 | Got All The Skulls | 0.00% | ~0 |
 | Got All The Sombreros | 0.00% | ~0 |

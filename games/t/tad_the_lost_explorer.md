@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| DuckTales in Veracruz | 200.00% | ~200 |
+| DuckTales in Veracruz | 200.00% | ~2 |
 | National Petrographic | 0.00% | ~0 |
 | A three megapincel camera | 0.00% | ~0 |
 | Cauldrons of Duty | 0.00% | ~0 |

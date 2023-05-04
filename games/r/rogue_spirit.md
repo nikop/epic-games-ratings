@@ -3,31 +3,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 47.00% | ~799 |
-| Liberator | 41.00% | ~697 |
-| Famine Defeated | 29.00% | ~493 |
-| Perceptive | 29.00% | ~493 |
-| Gold Collector | 24.00% | ~408 |
-| Parry Mastery | 24.00% | ~408 |
-| Possess Mastery | 18.00% | ~306 |
-| Master Assassin | 12.00% | ~204 |
-| Body Blast Master | 6.00% | ~102 |
-| Body Spawn Master | 6.00% | ~102 |
-| Body Swapper | 6.00% | ~102 |
-| Dash Mastery | 6.00% | ~102 |
-| Death Defeated | 6.00% | ~102 |
-| Decay Defeated | 6.00% | ~102 |
-| Demon Butcher | 6.00% | ~102 |
-| Earth Shatter Master | 6.00% | ~102 |
-| Elemental Mastery | 6.00% | ~102 |
-| Fire Blast Master | 6.00% | ~102 |
-| Group Fight Mastery | 6.00% | ~102 |
-| Land Mine Master | 6.00% | ~102 |
-| Reanimate Master | 6.00% | ~102 |
-| Skill Adept | 6.00% | ~102 |
-| Token Collector | 6.00% | ~102 |
-| Vanish Master | 6.00% | ~102 |
-| War Defeated | 6.00% | ~102 |
+| Silent Assassin | 47.00% | ~8 |
+| Liberator | 41.00% | ~7 |
+| Famine Defeated | 29.00% | ~5 |
+| Perceptive | 29.00% | ~5 |
+| Gold Collector | 24.00% | ~4 |
+| Parry Mastery | 24.00% | ~4 |
+| Possess Mastery | 18.00% | ~3 |
+| Master Assassin | 12.00% | ~2 |
+| Body Blast Master | 6.00% | ~1 |
+| Body Spawn Master | 6.00% | ~1 |
+| Body Swapper | 6.00% | ~1 |
+| Dash Mastery | 6.00% | ~1 |
+| Death Defeated | 6.00% | ~1 |
+| Decay Defeated | 6.00% | ~1 |
+| Demon Butcher | 6.00% | ~1 |
+| Earth Shatter Master | 6.00% | ~1 |
+| Elemental Mastery | 6.00% | ~1 |
+| Fire Blast Master | 6.00% | ~1 |
+| Group Fight Mastery | 6.00% | ~1 |
+| Land Mine Master | 6.00% | ~1 |
+| Reanimate Master | 6.00% | ~1 |
+| Skill Adept | 6.00% | ~1 |
+| Token Collector | 6.00% | ~1 |
+| Vanish Master | 6.00% | ~1 |
+| War Defeated | 6.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |
 | Cold Skin Master | 0.00% | ~0 |

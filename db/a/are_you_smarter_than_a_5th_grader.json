@@ -16,7 +16,7 @@
       "Name": "\u0022A\u0022 Student",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 1
     },
     {
       "ID": "Byoing",
@@ -24,7 +24,7 @@
       "Name": "Byoing",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1904
+      "UsersEstimate": 19
     },
     {
       "ID": "ExamPractice",
@@ -32,7 +32,7 @@
       "Name": "Exam Practice",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 3536
+      "UsersEstimate": 35
     },
     {
       "ID": "ExamTime",
@@ -40,7 +40,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 22848
+      "UsersEstimate": 228
     },
     {
       "ID": "FifthGrade",
@@ -56,7 +56,7 @@
       "Name": "1st Grade",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 11152
+      "UsersEstimate": 112
     },
     {
       "ID": "FourthGrade",
@@ -64,7 +64,7 @@
       "Name": "4th Grade",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 1
     },
     {
       "ID": "FullHouse",
@@ -72,7 +72,7 @@
       "Name": "Full House",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "Graduated",
@@ -88,7 +88,7 @@
       "Name": "In The Honor Roll",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 2720
+      "UsersEstimate": 27
     },
     {
       "ID": "Librarian",
@@ -104,7 +104,7 @@
       "Name": "Prodigy of all Trades",
       "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 109
+      "UsersEstimate": 1
     },
     {
       "ID": "SecondGrade",
@@ -112,7 +112,7 @@
       "Name": "2nd Grade",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 544
+      "UsersEstimate": 5
     },
     {
       "ID": "SelfSufficient",
@@ -120,7 +120,7 @@
       "Name": "Self-Sufficient",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 1
     },
     {
       "ID": "SmarterThanA5thGrader",
@@ -128,7 +128,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 9520
+      "UsersEstimate": 95
     },
     {
       "ID": "StudySession",
@@ -136,7 +136,7 @@
       "Name": "Study Session",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 8432
+      "UsersEstimate": 84
     },
     {
       "ID": "ThirdGrade",
@@ -144,7 +144,7 @@
       "Name": "3rd Grade",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 2
     },
     {
       "ID": "Unlucky",
@@ -152,7 +152,7 @@
       "Name": "Unlucky",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 5168
+      "UsersEstimate": 52
     }
   ],
   "Tags": [],
@@ -213,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-04T22:24:57.5956755+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:47.2770968+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-04T22:24:57.5956891+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:07.798907+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:47.2771095+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:48.0486609+00:00",
   "AchievementSets": [
     {
       "ID": "6l18k14",
@@ -234,7 +234,7 @@
   "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 210,

@@ -8,7 +8,7 @@
       "Name": "Coin collector",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 14208
+      "UsersEstimate": 142
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -16,7 +16,7 @@
       "Name": "Great rescuer",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 960
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_Eyemeralds",
@@ -24,7 +24,7 @@
       "Name": "Treasure hunter",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 17664
+      "UsersEstimate": 177
     },
     {
       "ID": "Achievement_Hexy",
@@ -32,7 +32,7 @@
       "Name": "Occult cataloger",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1536
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_Kicky",
@@ -40,7 +40,7 @@
       "Name": "Calory burner",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3264
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement_NoDeaths",
@@ -48,7 +48,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15936
+      "UsersEstimate": 159
     },
     {
       "ID": "Achievement_Notes",
@@ -56,7 +56,7 @@
       "Name": "Historian",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 18240
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_Prickly",
@@ -64,7 +64,7 @@
       "Name": "Prickly situation handler",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 6528
+      "UsersEstimate": 65
     },
     {
       "ID": "Achievement_Race1",
@@ -72,7 +72,7 @@
       "Name": "On foot racer",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 7872
+      "UsersEstimate": 79
     },
     {
       "ID": "Achievement_RaceAll",
@@ -80,7 +80,7 @@
       "Name": "Absolute race champion",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 960
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_Scorchy",
@@ -88,7 +88,7 @@
       "Name": "Fire extinguisher",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2112
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_Skull",
@@ -96,7 +96,7 @@
       "Name": "Challenge seeker",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 15168
+      "UsersEstimate": 152
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -104,7 +104,7 @@
       "Name": "Speedrunner",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8256
+      "UsersEstimate": 83
     },
     {
       "ID": "Achievement_Wrintry",
@@ -112,7 +112,7 @@
       "Name": "Snow digger",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2688
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_arena",
@@ -120,7 +120,7 @@
       "Name": "Gladiator",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_artlover",
@@ -128,7 +128,7 @@
       "Name": "Art lover",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_biologist",
@@ -136,7 +136,7 @@
       "Name": "Biologist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_completionist",
@@ -144,7 +144,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 384
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_fashionista",
@@ -152,7 +152,7 @@
       "Name": "Fashionista",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_float",
@@ -160,7 +160,7 @@
       "Name": "Floater",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 11136
+      "UsersEstimate": 111
     },
     {
       "ID": "Achievement_hat",
@@ -168,7 +168,7 @@
       "Name": "Hat lover",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6528
+      "UsersEstimate": 65
     },
     {
       "ID": "Achievement_healthup",
@@ -176,7 +176,7 @@
       "Name": "Protected",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5760
+      "UsersEstimate": 58
     },
     {
       "ID": "Achievement_hitJake",
@@ -184,7 +184,7 @@
       "Name": "Pragmatic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4416
+      "UsersEstimate": 44
     },
     {
       "ID": "Achievement_hubworld",
@@ -192,7 +192,7 @@
       "Name": "Hubworld fan",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_mirrormatch",
@@ -200,7 +200,7 @@
       "Name": "Doppelganger",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_pacifist",
@@ -208,7 +208,7 @@
       "Name": "Pacifist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2880
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement_perfectionist",
@@ -216,7 +216,7 @@
       "Name": "Perfectionist",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 5760
+      "UsersEstimate": 58
     },
     {
       "ID": "Achievement_photofirstperson",
@@ -224,7 +224,7 @@
       "Name": "Photographer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_photoselfie",
@@ -232,7 +232,7 @@
       "Name": "Model",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_tank",
@@ -240,7 +240,7 @@
       "Name": "Tank",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 768
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_truearena",
@@ -248,7 +248,7 @@
       "Name": "Duelist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 6
     }
   ],
   "Tags": [],
@@ -269,13 +269,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:24:50.5798779+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:40.0677646+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 3,
   "EOS_Progressed": 192,
-  "LastUpdate_Achievements": "2023-05-04T22:24:50.5799123+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:46.9999046+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:40.067787+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:29.0737326+00:00",
   "AchievementSets": [
     {
       "ID": "cn6a29l",
@@ -290,7 +290,7 @@
   "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_Progress": 223,

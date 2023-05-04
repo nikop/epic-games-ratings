@@ -8,7 +8,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5313
+      "UsersEstimate": 53
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -16,7 +16,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -24,7 +24,7 @@
       "Name": "Cheeki Breeki",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 4
     },
     {
       "ID": "CLASSIC",
@@ -32,7 +32,7 @@
       "Name": "It\u0027s a classic!",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 380
+      "UsersEstimate": 4
     },
     {
       "ID": "CLUB_27_1",
@@ -48,7 +48,7 @@
       "Name": "Comrade Yogi",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 304
+      "UsersEstimate": 3
     },
     {
       "ID": "DOUBLE_AGENT",
@@ -56,7 +56,7 @@
       "Name": "Double agent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10626
+      "UsersEstimate": 106
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -64,7 +64,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 75141
+      "UsersEstimate": 751
     },
     {
       "ID": "EXPERT_1",
@@ -72,7 +72,7 @@
       "Name": "Expert",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 4
     },
     {
       "ID": "EXPLORER_1",
@@ -80,7 +80,7 @@
       "Name": "Explorer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 14421
+      "UsersEstimate": 144
     },
     {
       "ID": "GHOSTBUSTER",
@@ -88,7 +88,7 @@
       "Name": "Ghostbuster",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 683
+      "UsersEstimate": 7
     },
     {
       "ID": "GRAVE_DIGGER_1",
@@ -96,7 +96,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 13662
+      "UsersEstimate": 137
     },
     {
       "ID": "HEAD_BURST_1",
@@ -104,7 +104,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15180
+      "UsersEstimate": 152
     },
     {
       "ID": "INDY_1",
@@ -112,7 +112,7 @@
       "Name": "Indy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3036
+      "UsersEstimate": 30
     },
     {
       "ID": "KORALOV",
@@ -120,7 +120,7 @@
       "Name": "Tourist Korallov",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 531
+      "UsersEstimate": 5
     },
     {
       "ID": "KRAINA_GRZYBOW_1",
@@ -128,7 +128,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6831
+      "UsersEstimate": 68
     },
     {
       "ID": "LOVE_GURU_1",
@@ -136,7 +136,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6831
+      "UsersEstimate": 68
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -144,7 +144,7 @@
       "Name": "Neanderthal",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 759
+      "UsersEstimate": 8
     },
     {
       "ID": "NO_NAME",
@@ -160,7 +160,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 25806
+      "UsersEstimate": 258
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -168,7 +168,7 @@
       "Name": "One shot, one kill",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 22770
+      "UsersEstimate": 228
     },
     {
       "ID": "PACIFIST",
@@ -184,7 +184,7 @@
       "Name": "Paranoia",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10626
+      "UsersEstimate": 106
     },
     {
       "ID": "PRIVATE_EYE",
@@ -192,7 +192,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6072
+      "UsersEstimate": 61
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -200,7 +200,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 38
     },
     {
       "ID": "RELICTS",
@@ -208,7 +208,7 @@
       "Name": "Mystical relics",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 2
     },
     {
       "ID": "ROBOT_DEAD",
@@ -216,7 +216,7 @@
       "Name": "It was worth a shot",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 759
+      "UsersEstimate": 8
     },
     {
       "ID": "SACRIFICE_1",
@@ -224,7 +224,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3036
+      "UsersEstimate": 30
     },
     {
       "ID": "SAVANT_1",
@@ -232,7 +232,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6831
+      "UsersEstimate": 68
     },
     {
       "ID": "SECRET_ROOM",
@@ -240,7 +240,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3795
+      "UsersEstimate": 38
     },
     {
       "ID": "SHOG",
@@ -248,7 +248,7 @@
       "Name": "Cosmic Horror",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 759
+      "UsersEstimate": 8
     },
     {
       "ID": "SUPERHUMAN_1",
@@ -256,7 +256,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6072
+      "UsersEstimate": 61
     },
     {
       "ID": "TRAVELER_1",
@@ -264,7 +264,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 19734
+      "UsersEstimate": 197
     },
     {
       "ID": "VVE",
@@ -272,7 +272,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5313
+      "UsersEstimate": 53
     },
     {
       "ID": "WANDERER_1",
@@ -280,7 +280,7 @@
       "Name": "Wanderer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 27324
+      "UsersEstimate": 273
     },
     {
       "ID": "WISHMASTER_1",
@@ -288,7 +288,7 @@
       "Name": "Wishmaster",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1518
+      "UsersEstimate": 15
     }
   ],
   "Tags": [
@@ -726,13 +726,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T22:24:58.0740656+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:47.6972027+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 17,
   "EOS_Completed": 0,
   "EOS_Progressed": 759,
-  "LastUpdate_Achievements": "2023-05-04T22:24:58.0740951+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:08.5229523+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:47.6972724+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:33:48.7842683+00:00",
   "AchievementSets": [
     {
       "ID": "bf13m8j",
@@ -748,7 +748,7 @@
   "NumberOfAwardsMax": 46,
   "NumberOfAwards": 46,
   "NumberOfRatings": 54,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 168,

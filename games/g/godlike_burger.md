@@ -4,34 +4,34 @@ Rating: 4.23 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 83.00% | ~21,995 |
-| FIRST BLOOD | 78.00% | ~20,670 |
-| KEVIN! | 69.00% | ~18,285 |
-| JACK OF ALL TRADES | 66.00% | ~17,490 |
-| CRIMINAL | 60.00% | ~15,900 |
-| GRANDMA WOULD BE PROUD | 49.00% | ~12,985 |
-| WITHOUT BREAKING A SWEAT | 44.00% | ~11,660 |
-| HONORS STUDENT | 40.00% | ~10,600 |
-| BUTCHER | 29.00% | ~7,685 |
-| MARTYR | 23.00% | ~6,095 |
-| RAMBO | 23.00% | ~6,095 |
-| HELL'S KITCHEN | 22.00% | ~5,830 |
-| INDIVIDUAL APPROACH | 22.00% | ~5,830 |
-| CELEBRITY | 21.00% | ~5,565 |
-| GRATITUDE | 20.00% | ~5,300 |
-| LAW-ABIDING CITIZEN | 13.00% | ~3,445 |
-| PRUDENT | 12.00% | ~3,180 |
-| PATTY-KILLER | 11.00% | ~2,915 |
-| GOURMET | 9.00% | ~2,385 |
-| EXPERIMENTALIST | 8.00% | ~2,120 |
-| SCATTERBRAIN | 8.00% | ~2,120 |
-| TASTE UNTASTY | 5.00% | ~1,325 |
-| CORRUPTIONIST | 3.00% | ~795 |
-| HIGH TECHNOLOGIES | 3.00% | ~795 |
-| DEBTOR | 2.00% | ~530 |
-| I'VE SEEN SOME… | 2.00% | ~530 |
-| TRAVELER | 0.80% | ~212 |
-| MISTER ALL THUMBS | 0.40% | ~106 |
+| MASTER CHEF | 83.00% | ~220 |
+| FIRST BLOOD | 78.00% | ~207 |
+| KEVIN! | 69.00% | ~183 |
+| JACK OF ALL TRADES | 66.00% | ~175 |
+| CRIMINAL | 60.00% | ~159 |
+| GRANDMA WOULD BE PROUD | 49.00% | ~130 |
+| WITHOUT BREAKING A SWEAT | 44.00% | ~117 |
+| HONORS STUDENT | 40.00% | ~106 |
+| BUTCHER | 29.00% | ~77 |
+| MARTYR | 23.00% | ~61 |
+| RAMBO | 23.00% | ~61 |
+| HELL'S KITCHEN | 22.00% | ~58 |
+| INDIVIDUAL APPROACH | 22.00% | ~58 |
+| CELEBRITY | 21.00% | ~56 |
+| GRATITUDE | 20.00% | ~53 |
+| LAW-ABIDING CITIZEN | 13.00% | ~34 |
+| PRUDENT | 12.00% | ~32 |
+| PATTY-KILLER | 11.00% | ~29 |
+| GOURMET | 9.00% | ~24 |
+| EXPERIMENTALIST | 8.00% | ~21 |
+| SCATTERBRAIN | 8.00% | ~21 |
+| TASTE UNTASTY | 5.00% | ~13 |
+| CORRUPTIONIST | 3.00% | ~8 |
+| HIGH TECHNOLOGIES | 3.00% | ~8 |
+| DEBTOR | 2.00% | ~5 |
+| I'VE SEEN SOME… | 2.00% | ~5 |
+| TRAVELER | 0.80% | ~2 |
+| MISTER ALL THUMBS | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265 (Ranked 212)  
 Completed: 1 (0.38%) (Ranked 105)  

@@ -8,7 +8,7 @@
       "Name": "Randomized",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -48,7 +48,7 @@
       "Name": "Bounty Hunter",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_AndtheSkyFullofStars",
@@ -128,7 +128,7 @@
       "Name": "Scribe",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -136,7 +136,7 @@
       "Name": "Scholar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -144,7 +144,7 @@
       "Name": "Loremaster",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_CombatStrenghtTier1",
@@ -208,7 +208,7 @@
       "Name": "The More the Merrier",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -240,7 +240,7 @@
       "Name": "Conquered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -328,7 +328,7 @@
       "Name": "Breached",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -368,7 +368,7 @@
       "Name": "Fight Another Day",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_Forager",
@@ -560,7 +560,7 @@
       "Name": "Press-ganged",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1924
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -624,7 +624,7 @@
       "Name": "A Second Chance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2392
+      "UsersEstimate": 24
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -688,7 +688,7 @@
       "Name": "The Package",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -823,13 +823,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 99,
-  "LastChanged_Achievements": "2023-05-04T22:24:17.5815128+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:39:07.5044801+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 52,
-  "LastUpdate_Achievements": "2023-05-04T22:24:17.5817264+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:58.2251647+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:39:07.5045985+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:32:42.4581918+00:00",
   "AchievementSets": [
     {
       "ID": "27kik8p",
@@ -844,7 +844,7 @@
   "FirstSeen": "2023-04-05T05:57:43.4826649+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 271,
