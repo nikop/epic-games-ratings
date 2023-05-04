@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4843
+      "Count": 4853
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -54,13 +54,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 410
+      "Count": 411
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 391
+      "Count": 392
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3696,6 +3696,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 11750,
       "NumberOfAwardsMax": 4843
+    },
+    {
+      "Time": "2023-05-04T08:58:51.5943728+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11762,
+      "NumberOfAwardsMax": 4853
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3703,15 +3709,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T08:05:09.8796511+00:00",
-  "LastUpdate_Ratings": "2023-05-04T07:59:52.2172461+00:00",
-  "LastChanged": "2023-05-03T23:59:45.5275084+00:00",
+  "LastUpdate_Achievements": "2023-05-04T09:04:04.7973799+00:00",
+  "LastUpdate_Ratings": "2023-05-04T08:58:51.5943732+00:00",
+  "LastChanged": "2023-05-04T08:58:51.5943726+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 4843,
-  "NumberOfAwards": 11750,
+  "NumberOfAwardsMax": 4853,
+  "NumberOfAwards": 11762,
   "NumberOfRatings": 5481,
   "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 72,

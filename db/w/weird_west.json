@@ -50,6 +50,11 @@
       "Time": "2023-05-02T14:02:20.600503+00:00",
       "NumProgressed": 1488,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T09:02:26.4998579+00:00",
+      "NumProgressed": 1489,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -336,12 +341,12 @@
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_Completed": 2,
-  "EOS_Progressed": 1488,
-  "LastUpdate_Achievements": "2023-05-04T08:03:32.9972141+00:00",
-  "LastUpdate_Ratings": "2023-05-04T07:58:37.5412037+00:00",
-  "LastChanged_Achievements": "2023-05-04T08:03:32.9971897+00:00",
+  "EOS_Progressed": 1489,
+  "LastUpdate_Achievements": "2023-05-04T09:02:26.49986+00:00",
+  "LastUpdate_Ratings": "2023-05-04T08:58:00.1550079+00:00",
+  "LastChanged_Achievements": "2023-05-04T09:02:26.4998575+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "MaxAwardTitle": "Impact the Story",
@@ -349,7 +354,7 @@
   "NumberOfAwards": 23,
   "NumberOfRatings": 125,
   "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_Progress": 149,
   "Ranking_PopularitySum": 471,
