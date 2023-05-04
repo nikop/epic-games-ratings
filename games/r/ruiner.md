@@ -1,4 +1,5 @@
 # RUINER
+[View Rawdata](../../db/r/ruiner.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 137  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 23  (Ranked 469)
 Sum: 23 (Ranked 471)  
 Diff (max vs sum): -2  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Burgundy
+[View Rawdata](../../db/b/burgundy.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

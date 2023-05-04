@@ -1,7 +1,8 @@
 # Eyes in the Dark
+[View Rawdata](../../db/e/eyes_in_the_dark.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

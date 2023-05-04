@@ -1,4 +1,5 @@
 # Void Bastards
+[View Rawdata](../../db/v/void_bastards.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 986  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 20  (Ranked 482)
 Sum: 20 (Ranked 482)  
 Diff (max vs sum): 0  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

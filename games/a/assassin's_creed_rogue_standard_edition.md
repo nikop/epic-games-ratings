@@ -1,4 +1,5 @@
 # Assassin's Creed Rogue Standard Edition
+[View Rawdata](../../db/a/assassin's_creed_rogue_standard_edition.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 305  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 154  (Ranked 280)
 Sum: 201 (Ranked 348)  
 Diff (max vs sum): -68  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

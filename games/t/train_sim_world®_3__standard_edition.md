@@ -1,4 +1,5 @@
 # Train Sim World® 3: Standard Edition
+[View Rawdata](../../db/t/train_sim_world®_3__standard_edition.json)  
 Rating: 4.54 (Ranked 475)  
 Number of Ratings: 170  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 274  (Ranked 228)
 Sum: 2,067 (Ranked 183)  
 Diff (max vs sum): 45  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,7 +1,8 @@
 # Men of War Condemned Heroes
+[View Rawdata](../../db/m/men_of_war_condemned_heroes.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

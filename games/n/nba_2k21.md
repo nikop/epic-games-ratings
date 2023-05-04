@@ -1,4 +1,5 @@
 # NBA 2K21
+[View Rawdata](../../db/n/nba_2k21.json)  
 Rating: 4.39 (Ranked 679)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 11,647  (Ranked 30)
 Sum: 88,151 (Ranked 14)  
 Diff (max vs sum): 16  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,7 +1,8 @@
 # ATONE: Heart of the Elder Tree
+[View Rawdata](../../db/a/atone__heart_of_the_elder_tree.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

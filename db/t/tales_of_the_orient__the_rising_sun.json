@@ -7,112 +7,128 @@
       "SetID": "c5idb6k",
       "Name": "Good Start",
       "Percentage": 75,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 900
     },
     {
       "ID": "TALES_10",
       "SetID": "c5idb6k",
       "Name": "10 Hours!",
       "Percentage": 17,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 204
     },
     {
       "ID": "TALES_11",
       "SetID": "c5idb6k",
       "Name": "I can\u0027t stop playing!",
       "Percentage": 8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 96
     },
     {
       "ID": "TALES_12",
       "SetID": "c5idb6k",
       "Name": "Constructor",
       "Percentage": 75,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 900
     },
     {
       "ID": "TALES_13",
       "SetID": "c5idb6k",
       "Name": "Happy Ending",
       "Percentage": 75,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 900
     },
     {
       "ID": "TALES_2",
       "SetID": "c5idb6k",
       "Name": "Keep Going",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "TALES_3",
       "SetID": "c5idb6k",
       "Name": "10 is good!",
       "Percentage": 50,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 600
     },
     {
       "ID": "TALES_4",
       "SetID": "c5idb6k",
       "Name": "One-quarter mark",
       "Percentage": 33,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 396
     },
     {
       "ID": "TALES_5",
       "SetID": "c5idb6k",
       "Name": "Half way!",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 204
     },
     {
       "ID": "TALES_6",
       "SetID": "c5idb6k",
       "Name": "Almost there!",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 204
     },
     {
       "ID": "TALES_7",
       "SetID": "c5idb6k",
       "Name": "You did it!",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 204
     },
     {
       "ID": "TALES_8",
       "SetID": "c5idb6k",
       "Name": "1 Hour!",
       "Percentage": 50,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 600
     },
     {
       "ID": "TALES_9",
       "SetID": "c5idb6k",
       "Name": "5 Hours!",
       "Percentage": 17,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 204
     },
     {
       "ID": "TALES_CHAIN",
       "SetID": "c5idb6k",
       "Name": "Chain Mode",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "TALES_POP",
       "SetID": "c5idb6k",
       "Name": "Pop Mode",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "TALES_SWAP",
       "SetID": "c5idb6k",
       "Name": "Swap Mode",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -138,13 +154,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:06:00.6058846+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:14.3120821+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T22:06:00.6059001+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:36.9899535+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:14.3120952+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:46.0095858+00:00",
   "AchievementSets": [
     {
       "ID": "c5idb6k",

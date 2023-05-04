@@ -1,7 +1,8 @@
 # Scarlet Hood and the Wicked Wood
+[View Rawdata](../../db/s/scarlet_hood_and_the_wicked_wood.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,4 +1,5 @@
 # Mutant Year Zero: Road to Eden
+[View Rawdata](../../db/m/mutant_year_zero__road_to_eden.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 2,052  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 611  (Ranked 162)
 Sum: 867 (Ranked 239)  
 Diff (max vs sum): -77  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

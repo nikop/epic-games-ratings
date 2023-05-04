@@ -1,4 +1,5 @@
 # NEO: The World Ends with You
+[View Rawdata](../../db/n/neo__the_world_ends_with_you.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 214  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 94  (Ranked 329)
 Sum: 159 (Ranked 372)  
 Diff (max vs sum): -43  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

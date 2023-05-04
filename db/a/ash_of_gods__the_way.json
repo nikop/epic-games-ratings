@@ -7,343 +7,392 @@
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect3",
       "SetID": "c64if4d",
       "Name": "Collector",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect4",
       "SetID": "c64if4d",
       "Name": "Berserk",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect5",
       "SetID": "c64if4d",
       "Name": "Overplay the rogue",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect6",
       "SetID": "c64if4d",
       "Name": "Supplier",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights1",
       "SetID": "c64if4d",
       "Name": "Master of the Way",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights2",
       "SetID": "c64if4d",
       "Name": "The best apprentice",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights3",
       "SetID": "c64if4d",
       "Name": "The champion of the arena",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights4",
       "SetID": "c64if4d",
       "Name": "Stronger than Gellian steel",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights5",
       "SetID": "c64if4d",
       "Name": "First among Frisians",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights7",
       "SetID": "c64if4d",
       "Name": "Vene, vidi, vici",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "fights8",
       "SetID": "c64if4d",
       "Name": "Defeat the bear",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special11",
       "SetID": "c64if4d",
       "Name": "The power of persuasion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special12",
       "SetID": "c64if4d",
       "Name": "Never laid a finger",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special2",
       "SetID": "c64if4d",
       "Name": "By own strength",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "special3",
       "SetID": "c64if4d",
       "Name": "Deadly strike",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special4",
       "SetID": "c64if4d",
       "Name": "A solo player",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special6",
       "SetID": "c64if4d",
       "Name": "Protect the Healer!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special7",
       "SetID": "c64if4d",
       "Name": "Mate in 4 moves",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special8",
       "SetID": "c64if4d",
       "Name": "By own rules",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "special9",
       "SetID": "c64if4d",
       "Name": "Cunning plan",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
       "Percentage": 300,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 300
     },
     {
       "ID": "story10",
       "SetID": "c64if4d",
       "Name": "Do it yourself",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story11",
       "SetID": "c64if4d",
       "Name": "By someone else\u0027s hands",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story14",
       "SetID": "c64if4d",
       "Name": "There can be only one",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story15",
       "SetID": "c64if4d",
       "Name": "Blood and honour",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story16",
       "SetID": "c64if4d",
       "Name": "All\u0027s fair in love and war",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story17",
       "SetID": "c64if4d",
       "Name": "The End",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story18",
       "SetID": "c64if4d",
       "Name": "Happily ever after",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story19",
       "SetID": "c64if4d",
       "Name": "Nothing is settled",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story20",
       "SetID": "c64if4d",
       "Name": "A lesson to all the madmen",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "story21",
       "SetID": "c64if4d",
       "Name": "That\u0027s the way!",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
       "Percentage": 200,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 200
     },
     {
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story8",
       "SetID": "c64if4d",
       "Name": "Blood and sand",
       "Percentage": 100,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 100
     },
     {
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -364,13 +413,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T22:06:08.4513362+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:20.2102754+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:06:08.4513786+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:47.1547996+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:20.2103458+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:34.5060607+00:00",
   "AchievementSets": [
     {
       "ID": "c64if4d",
@@ -386,7 +435,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00"

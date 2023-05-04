@@ -1,4 +1,5 @@
 # KarmaZoo
+[View Rawdata](../../db/k/karmazoo.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

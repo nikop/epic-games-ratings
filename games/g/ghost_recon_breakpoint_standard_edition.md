@@ -1,4 +1,5 @@
 # Ghost Recon Breakpoint Standard Edition
+[View Rawdata](../../db/g/ghost_recon_breakpoint_standard_edition.json)  
 Rating: 4.54 (Ranked 475)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 1,032  (Ranked 132)
 Sum: 7,969 (Ranked 90)  
 Diff (max vs sum): 42  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

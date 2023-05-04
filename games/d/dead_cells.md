@@ -1,4 +1,5 @@
 # Dead Cells
+[View Rawdata](../../db/d/dead_cells.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 1,319  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 249  (Ranked 236)
 Sum: 2,182 (Ranked 175)  
 Diff (max vs sum): 61  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

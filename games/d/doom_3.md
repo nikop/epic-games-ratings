@@ -1,4 +1,5 @@
 # DOOM 3
+[View Rawdata](../../db/d/doom_3.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 105  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 65  (Ranked 370)
 Sum: 65 (Ranked 425)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Shadow of the Tomb Raider: Definitive Edition
+[View Rawdata](../../db/s/shadow_of_the_tomb_raider__definitive_edition.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 28,423  (Ranked 15)
 Sum: 37,303 (Ranked 29)  
 Diff (max vs sum): -14  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

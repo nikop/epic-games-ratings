@@ -1,4 +1,5 @@
 # KINGDOM HEARTS HD 2.8 Final Chapter Prologue
+[View Rawdata](../../db/k/kingdom_hearts_hd_2.8_final_chapter_prologue.json)  
 Rating: 4.76 (Ranked 113)  
 Number of Ratings: 213  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 99  (Ranked 321)
 Sum: 144 (Ranked 376)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,25 +1,26 @@
 # Atari Mania
+[View Rawdata](../../db/a/atari_mania.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Magnetized | 50.00 |
-| FOBOS fear has been reduced to dust | 25.00 |
-| EXPLOSA exploded | 25.00 |
-| GLOOMDOOM has been zapped | 25.00 |
-| Bentley is saved | 25.00 |
-| DUPLICIO has been found | 25.00 |
-| RANDOMA's eyes has been gouged | 25.00 |
-| I know my way around! | 25.00 |
-| NEOS is lighted up | 25.00 |
-| INPUTO's curse is lifted | 25.00 |
-| Clean Freak | 0.00 |
-| Dedicated Floor #1 Gamer | 0.00 |
-| Dedicated Floor #2 Gamer | 0.00 |
-| Dedicated Floor #3 Gamer | 0.00 |
-| Dedicated Floor #4 Gamer | 0.00 |
-| Poster collector | 0.00 |
-| The collector | 0.00 |
-| Cheese, I have tricked Glitch so many time | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Magnetized | 50.00% | ~200 |
+| FOBOS fear has been reduced to dust | 25.00% | ~100 |
+| EXPLOSA exploded | 25.00% | ~100 |
+| GLOOMDOOM has been zapped | 25.00% | ~100 |
+| Bentley is saved | 25.00% | ~100 |
+| DUPLICIO has been found | 25.00% | ~100 |
+| RANDOMA's eyes has been gouged | 25.00% | ~100 |
+| I know my way around! | 25.00% | ~100 |
+| NEOS is lighted up | 25.00% | ~100 |
+| INPUTO's curse is lifted | 25.00% | ~100 |
+| Clean Freak | 0.00% | ~0 |
+| Dedicated Floor #1 Gamer | 0.00% | ~0 |
+| Dedicated Floor #2 Gamer | 0.00% | ~0 |
+| Dedicated Floor #3 Gamer | 0.00% | ~0 |
+| Dedicated Floor #4 Gamer | 0.00% | ~0 |
+| Poster collector | 0.00% | ~0 |
+| The collector | 0.00% | ~0 |
+| Cheese, I have tricked Glitch so many time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 191)  

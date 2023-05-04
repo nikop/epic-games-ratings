@@ -7,105 +7,120 @@
       "SetID": "5609lai",
       "Name": "Anat",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Archangel",
       "SetID": "5609lai",
       "Name": "Archangel",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Caster",
       "SetID": "5609lai",
       "Name": "Caster",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Chamelion",
       "SetID": "5609lai",
       "Name": "Chameleon",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Crystal",
       "SetID": "5609lai",
       "Name": "Crystal",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Destroyer",
       "SetID": "5609lai",
       "Name": "Destroyer",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_FirstMagic",
       "SetID": "5609lai",
       "Name": "First magic",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_MagicKey",
       "SetID": "5609lai",
       "Name": "Magic key",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_NewKing",
       "SetID": "5609lai",
       "Name": "Long live the new king!",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_OfficePlankton",
       "SetID": "5609lai",
       "Name": "Office plankton",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_PetrifiedGuard",
       "SetID": "5609lai",
       "Name": "Petrified guards",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Pharaoh",
       "SetID": "5609lai",
       "Name": "Pharaoh",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_ReadyToFight",
       "SetID": "5609lai",
       "Name": "Ready for battle",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Resurrection",
       "SetID": "5609lai",
       "Name": "Resurrection",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_Victory",
       "SetID": "5609lai",
       "Name": "Victory or Defeat?",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -113,13 +128,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:05:57.1505944+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:11.8977112+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:05:57.1506117+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:24.2887697+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:11.8977284+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:41.2316119+00:00",
   "AchievementSets": [
     {
       "ID": "2oof077",
@@ -130,7 +145,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-05-03T14:01:13.0837425+00:00"

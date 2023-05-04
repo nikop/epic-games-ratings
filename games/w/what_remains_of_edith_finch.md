@@ -1,9 +1,10 @@
 # What Remains of Edith Finch
+[View Rawdata](../../db/w/what_remains_of_edith_finch.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

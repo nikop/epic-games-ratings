@@ -1,35 +1,36 @@
 # We Are OFK
+[View Rawdata](../../db/w/we_are_ofk.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| And We're Back! | 100.00 |
-| Prelude | 100.00 |
-| We'll Be Right Back! | 100.00 |
-| 50 Feet Tall | 0.00 |
-| A Happy Clowder | 0.00 |
-| A Hero Sprouts Forth | 0.00 |
-| Bahamut Texto | 0.00 |
-| COOLi-O's | 0.00 |
-| Collectathon | 0.00 |
-| Hooks | 0.00 |
-| I Can Get Her Home | 0.00 |
-| I, Kizuna | 0.00 |
-| Loops | 0.00 |
-| Luba | 0.00 |
-| Mix | 0.00 |
-| Multiplicity | 0.00 |
-| Shhhhh | 0.00 |
-| Smash | 0.00 |
-| So Many Fragments | 0.00 |
-| Splits | 0.00 |
-| Text | 0.00 |
-| Textaga | 0.00 |
-| Textaja | 0.00 |
-| Textara | 0.00 |
-| Texty | 0.00 |
-| Thanks For The Memories | 0.00 |
-| Waffles | 0.00 |
-| We Are OFK | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| And We're Back! | 100.00% | ~100 |
+| Prelude | 100.00% | ~100 |
+| We'll Be Right Back! | 100.00% | ~100 |
+| 50 Feet Tall | 0.00% | ~0 |
+| A Happy Clowder | 0.00% | ~0 |
+| A Hero Sprouts Forth | 0.00% | ~0 |
+| Bahamut Texto | 0.00% | ~0 |
+| COOLi-O's | 0.00% | ~0 |
+| Collectathon | 0.00% | ~0 |
+| Hooks | 0.00% | ~0 |
+| I Can Get Her Home | 0.00% | ~0 |
+| I, Kizuna | 0.00% | ~0 |
+| Loops | 0.00% | ~0 |
+| Luba | 0.00% | ~0 |
+| Mix | 0.00% | ~0 |
+| Multiplicity | 0.00% | ~0 |
+| Shhhhh | 0.00% | ~0 |
+| Smash | 0.00% | ~0 |
+| So Many Fragments | 0.00% | ~0 |
+| Splits | 0.00% | ~0 |
+| Text | 0.00% | ~0 |
+| Textaga | 0.00% | ~0 |
+| Textaja | 0.00% | ~0 |
+| Textara | 0.00% | ~0 |
+| Texty | 0.00% | ~0 |
+| Thanks For The Memories | 0.00% | ~0 |
+| Waffles | 0.00% | ~0 |
+| We Are OFK | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 191)  

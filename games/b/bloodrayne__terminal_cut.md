@@ -1,20 +1,21 @@
 # BloodRayne: Terminal Cut
+[View Rawdata](../../db/b/bloodrayne__terminal_cut.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Make Him Mad | 83.00 |
-| Ark of the Covenant | 50.00 |
-| Big Momma | 17.00 |
-| Half Blood | 17.00 |
-| Left of Centre | 17.00 |
-| Of Wulfs and Demons | 17.00 |
-| Right Hand Man | 17.00 |
-| Teachers and Traitors | 17.00 |
-| The Butcheress | 17.00 |
-| Thule Chapel | 17.00 |
-| Vampiress | 17.00 |
-| Walls of Jericho | 17.00 |
-| Head Gun | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Make Him Mad | 83.00% | ~498 |
+| Ark of the Covenant | 50.00% | ~300 |
+| Big Momma | 17.00% | ~102 |
+| Half Blood | 17.00% | ~102 |
+| Left of Centre | 17.00% | ~102 |
+| Of Wulfs and Demons | 17.00% | ~102 |
+| Right Hand Man | 17.00% | ~102 |
+| Teachers and Traitors | 17.00% | ~102 |
+| The Butcheress | 17.00% | ~102 |
+| Thule Chapel | 17.00% | ~102 |
+| Vampiress | 17.00% | ~102 |
+| Walls of Jericho | 17.00% | ~102 |
+| Head Gun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 191)  

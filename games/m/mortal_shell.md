@@ -1,9 +1,10 @@
 # Mortal Shell
+[View Rawdata](../../db/m/mortal_shell.json)  
 Rating: 4.27 (Ranked 768)  
 Number of Ratings: 213  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

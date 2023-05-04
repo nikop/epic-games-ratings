@@ -1,43 +1,44 @@
 # Redout: Enhanced Edition
+[View Rawdata](../../db/r/redout__enhanced_edition.json)  
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| VANGUARD | 41.00 |
-| NATURAL BORN WINNER | 32.00 |
-| CALLING HOUSTON | 28.00 |
-| TRICK UP YOUR SLEEVE | 22.00 |
-| SNEAKY SNEAKY | 21.00 |
-| GT9STRADALE | 20.00 |
-| CHALLENGER | 11.00 |
-| ON A ROLL | 9.00 |
-| FASTER THAN EVER | 8.00 |
-| CENTAUR | 7.00 |
-| CHALLENGE THE WORLD | 7.00 |
-| PHOTOFINISH | 7.00 |
-| QAREEN | 5.00 |
-| SHOWOFF | 4.00 |
-| TAKATORA | 4.00 |
-| GILA | 3.00 |
-| PRO | 2.00 |
-| RESPWND | 2.00 |
-| SHINY SHINY GOLD | 2.00 |
-| HARDCORE | 1.00 |
-| ACE | 0.70 |
-| TACTICIAN | 0.60 |
-| GTX COMPETIZIONE | 0.50 |
-| HIDDEN POWER | 0.50 |
-| TUNING MANIAC | 0.50 |
-| DRAGOON | 0.40 |
-| FLAWLESS | 0.40 |
-| BETTER THAN EVER | 0.20 |
-| IINI | 0.20 |
-| MARID | 0.20 |
-| NOBUNAGA | 0.20 |
-| ODIN | 0.20 |
-| PILE UP TROPHIES | 0.20 |
-| ENLIGHTENED | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| VANGUARD | 41.00% | ~9,055,998 |
+| NATURAL BORN WINNER | 32.00% | ~7,068,096 |
+| CALLING HOUSTON | 28.00% | ~6,184,584 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~4,859,316 |
+| SNEAKY SNEAKY | 21.00% | ~4,638,438 |
+| GT9STRADALE | 20.00% | ~4,417,560 |
+| CHALLENGER | 11.00% | ~2,429,658 |
+| ON A ROLL | 9.00% | ~1,987,902 |
+| FASTER THAN EVER | 8.00% | ~1,767,024 |
+| CENTAUR | 7.00% | ~1,546,146 |
+| CHALLENGE THE WORLD | 7.00% | ~1,546,146 |
+| PHOTOFINISH | 7.00% | ~1,546,146 |
+| QAREEN | 5.00% | ~1,104,390 |
+| SHOWOFF | 4.00% | ~883,512 |
+| TAKATORA | 4.00% | ~883,512 |
+| GILA | 3.00% | ~662,634 |
+| PRO | 2.00% | ~441,756 |
+| RESPWND | 2.00% | ~441,756 |
+| SHINY SHINY GOLD | 2.00% | ~441,756 |
+| HARDCORE | 1.00% | ~220,878 |
+| ACE | 0.70% | ~154,615 |
+| TACTICIAN | 0.60% | ~132,527 |
+| GTX COMPETIZIONE | 0.50% | ~110,439 |
+| HIDDEN POWER | 0.50% | ~110,439 |
+| TUNING MANIAC | 0.50% | ~110,439 |
+| DRAGOON | 0.40% | ~88,351 |
+| FLAWLESS | 0.40% | ~88,351 |
+| BETTER THAN EVER | 0.20% | ~44,176 |
+| IINI | 0.20% | ~44,176 |
+| MARID | 0.20% | ~44,176 |
+| NOBUNAGA | 0.20% | ~44,176 |
+| ODIN | 0.20% | ~44,176 |
+| PILE UP TROPHIES | 0.20% | ~44,176 |
+| ENLIGHTENED | 0.10% | ~22,088 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220,878 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 175)  

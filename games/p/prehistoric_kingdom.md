@@ -1,31 +1,32 @@
 # Prehistoric Kingdom
+[View Rawdata](../../db/p/prehistoric_kingdom.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 40  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Bingo! | 0.00 |
-| Crowds o' Plenty | 0.00 |
-| Ecosystem | 0.00 |
-| Exhibit A... | 0.00 |
-| ...Exhibit B | 0.00 |
-| Fossil Record | 0.00 |
-| Hatchling | 0.00 |
-| Imaginarium | 0.00 |
-| Keeping Score | 0.00 |
-| Managerie Manager | 0.00 |
-| New Beginnings | 0.00 |
-| New High Score | 0.00 |
-| Noah's Park | 0.00 |
-| That's one Big Pile Of... | 0.00 |
-| Perfect Score | 0.00 |
-| Primigenius | 0.00 |
-| Sabre-Toothed Cat | 0.00 |
-| Spared Every Expense | 0.00 |
-| Three Horned Face | 0.00 |
-| Titan | 0.00 |
-| Tycoon | 0.00 |
-| Tyrant Lizard King | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Bingo! | 0.00% | ~0 |
+| Crowds o' Plenty | 0.00% | ~0 |
+| Ecosystem | 0.00% | ~0 |
+| Exhibit A... | 0.00% | ~0 |
+| ...Exhibit B | 0.00% | ~0 |
+| Fossil Record | 0.00% | ~0 |
+| Hatchling | 0.00% | ~0 |
+| Imaginarium | 0.00% | ~0 |
+| Keeping Score | 0.00% | ~0 |
+| Managerie Manager | 0.00% | ~0 |
+| New Beginnings | 0.00% | ~0 |
+| New High Score | 0.00% | ~0 |
+| Noah's Park | 0.00% | ~0 |
+| That's one Big Pile Of... | 0.00% | ~0 |
+| Perfect Score | 0.00% | ~0 |
+| Primigenius | 0.00% | ~0 |
+| Sabre-Toothed Cat | 0.00% | ~0 |
+| Spared Every Expense | 0.00% | ~0 |
+| Three Horned Face | 0.00% | ~0 |
+| Titan | 0.00% | ~0 |
+| Tycoon | 0.00% | ~0 |
+| Tyrant Lizard King | 0.00% | ~0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

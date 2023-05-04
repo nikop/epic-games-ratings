@@ -1,9 +1,10 @@
 # Trials Rising Standard Edition
+[View Rawdata](../../db/t/trials_rising_standard_edition.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 81  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

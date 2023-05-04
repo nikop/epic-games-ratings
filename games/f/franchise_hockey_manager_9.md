@@ -1,7 +1,8 @@
 # Franchise Hockey Manager 9
+[View Rawdata](../../db/f/franchise_hockey_manager_9.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

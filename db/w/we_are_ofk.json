@@ -7,196 +7,224 @@
       "SetID": "bp4889o",
       "Name": "50 Feet Tall",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "A Happy Clowder",
       "SetID": "bp4889o",
       "Name": "A Happy Clowder",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "A Hero Sprouts Forth",
       "SetID": "bp4889o",
       "Name": "A Hero Sprouts Forth",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "And We\u0027re Back!",
       "SetID": "bp4889o",
       "Name": "And We\u0027re Back!",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "Bahamut Texto",
       "SetID": "bp4889o",
       "Name": "Bahamut Texto",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "COOLi-O\u0027s",
       "SetID": "bp4889o",
       "Name": "COOLi-O\u0027s",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Collectathon",
       "SetID": "bp4889o",
       "Name": "Collectathon",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Hooks",
       "SetID": "bp4889o",
       "Name": "Hooks",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "I Can Get Her Home",
       "SetID": "bp4889o",
       "Name": "I Can Get Her Home",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "I, Kizuna",
       "SetID": "bp4889o",
       "Name": "I, Kizuna",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Loops",
       "SetID": "bp4889o",
       "Name": "Loops",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Luba",
       "SetID": "bp4889o",
       "Name": "Luba",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Mix",
       "SetID": "bp4889o",
       "Name": "Mix",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Multiplicity",
       "SetID": "bp4889o",
       "Name": "Multiplicity",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Prelude",
       "SetID": "bp4889o",
       "Name": "Prelude",
       "Percentage": 100,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "Shhhhh",
       "SetID": "bp4889o",
       "Name": "Shhhhh",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Smash",
       "SetID": "bp4889o",
       "Name": "Smash",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "So Many Fragments",
       "SetID": "bp4889o",
       "Name": "So Many Fragments",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Splits",
       "SetID": "bp4889o",
       "Name": "Splits",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Text",
       "SetID": "bp4889o",
       "Name": "Text",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Textaga",
       "SetID": "bp4889o",
       "Name": "Textaga",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Textaja",
       "SetID": "bp4889o",
       "Name": "Textaja",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Textara",
       "SetID": "bp4889o",
       "Name": "Textara",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Texty",
       "SetID": "bp4889o",
       "Name": "Texty",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Thanks For The Memories",
       "SetID": "bp4889o",
       "Name": "Thanks For The Memories",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Waffles",
       "SetID": "bp4889o",
       "Name": "Waffles",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "We Are OFK",
       "SetID": "bp4889o",
       "Name": "We Are OFK",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "We\u0027ll Be Right Back!",
       "SetID": "bp4889o",
       "Name": "We\u0027ll Be Right Back!",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     }
   ],
   "Tags": [],
@@ -217,13 +245,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:07:05.2369625+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:02.0660199+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:07:05.2369824+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:37.9821389+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:02.0660517+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:25.8551985+00:00",
   "AchievementSets": [
     {
       "ID": "bp4889o",
@@ -239,7 +267,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:09:39.8514747+00:00"

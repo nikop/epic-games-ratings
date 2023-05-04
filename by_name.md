@@ -997,7 +997,7 @@
 | [I'm looking for 3024 people](games/i/i'm_looking_for_3024_people.md) | - | - | - | - |
 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 103 | 0 | 490 |
 | [Idle Calibur(选王之剑)](games/i/idle_calibur(选王之剑).md) | - | - | - | - |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 866 | 4,863 | 61 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 866 | 4,863 | 62 |
 | [Ignition](games/i/ignition.md) | - | - | 0 | - |
 | [iHeart](games/i/iheart.md) | - | - | - | - |
 | [Ikaruga](games/i/ikaruga.md) | - | - | 0 | - |
@@ -1185,8 +1185,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 721 | 0 | 490 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 353 | 0 | 490 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1490,7 +1490,7 @@
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 730 | 0 | 490 |
 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 353 | 2,459 | 90 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 428 | 3,029 | 85 |
-| [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 113 | 1,623 | 111 |
+| [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 113 | 1,624 | 111 |
 | [Pathway](games/p/pathway.md) | 4.45 | 598 | 0 | 490 |
 | [Pato Box](games/p/pato_box.md) | - | - | 0 | - |
 | [Patron](games/p/patron.md) | 3.94 | 889 | 0 | 490 |
@@ -1598,7 +1598,7 @@
 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 801 | 0 | 490 |
 | [Recompile](games/r/recompile.md) | - | - | 0 | - |
 | [Recursive Ruin](games/r/recursive_ruin.md) | - | - | 0 | - |
-| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 12 | 138,269 | 6 |
+| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 12 | 138,448 | 6 |
 | [Red Dust](games/r/red_dust.md) | - | - | 0 | - |
 | [Red Ronin](games/r/red_ronin.md) | - | - | 0 | - |
 | [Redfall](games/r/redfall.md) | - | - | 0 | - |
@@ -1658,7 +1658,7 @@
 | [Roboplant](games/r/roboplant.md) | - | - | - | - |
 | [Rocco's Island](games/r/rocco's_island.md) | - | - | 0 | - |
 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 513 | 402,582 | 2 |
-| [Rogue Company](games/r/rogue_company.md) | 4.34 | 721 | 4,863 | 61 |
+| [Rogue Company](games/r/rogue_company.md) | 4.34 | 721 | 4,868 | 61 |
 | [Rogue Invader](games/r/rogue_invader.md) | - | - | 0 | - |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 353 | 1,059 | 129 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 37 | 215 | 247 |
@@ -1768,8 +1768,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 127 | 295 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 641 | 264 | 234 |
@@ -2076,7 +2076,7 @@
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 573 | 6,679 | 47 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 513 | 63 | 371 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 212 | 59 | 377 |
-| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 28 | 1,206 | 122 |
+| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 28 | 1,210 | 122 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 127 | 0 | 490 |
 | [The Entropy Centre](games/t/the_entropy_centre.md) | - | - | 0 | - |
 | [The Escapists](games/t/the_escapists.md) | 4.48 | 563 | 0 | 490 |
@@ -2275,8 +2275,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 620 | 0 | 490 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 255 | 0 | 490 |

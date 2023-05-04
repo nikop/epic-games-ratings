@@ -1,4 +1,5 @@
 # Elite Dangerous
+[View Rawdata](../../db/e/elite_dangerous.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 6,856  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 2,085  (Ranked 102)
 Sum: 11,980 (Ranked 70)  
 Diff (max vs sum): 32  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

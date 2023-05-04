@@ -1,4 +1,5 @@
 # Barony
+[View Rawdata](../../db/b/barony.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 763  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 70  (Ranked 361)
 Sum: 531 (Ranked 288)  
 Diff (max vs sum): 73  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

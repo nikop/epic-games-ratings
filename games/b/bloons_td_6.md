@@ -1,4 +1,5 @@
 # Bloons TD 6
+[View Rawdata](../../db/b/bloons_td_6.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 136  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 2,595  (Ranked 88)
 Sum: 15,424 (Ranked 59)  
 Diff (max vs sum): 29  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

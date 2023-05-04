@@ -7,84 +7,96 @@
       "SetID": "6kcl14p",
       "Name": "Eventful",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "COMPLETE_ALL_HISTORIC BATTLES_HIGHEST_MEDAL",
       "SetID": "6kcl14p",
       "Name": "Generalissimo",
       "Percentage": 0,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 0
     },
     {
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
       "Percentage": 5,
-      "XP": 85
+      "XP": 85,
+      "UsersEstimate": 380
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
       "SetID": "6kcl14p",
       "Name": "War with Friends",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 76
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
       "SetID": "6kcl14p",
       "Name": "Bombs Away!",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "KILL_1000_WITH_GAS",
       "SetID": "6kcl14p",
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 380
     },
     {
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
       "Percentage": 0,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 0
     },
     {
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
       "Percentage": 58,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 4408
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 988
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 988
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -355,13 +367,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:06:27.1138619+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:33.9814613+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 74,
   "EOS_Completed": 0,
   "EOS_Progressed": 76,
-  "LastUpdate_Achievements": "2023-05-04T22:06:27.113878+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:59.9628141+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:33.9814772+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:43.870316+00:00",
   "AchievementSets": [
     {
       "ID": "6kcl14p",

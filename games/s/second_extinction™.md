@@ -1,4 +1,5 @@
 # Second Extinction™
+[View Rawdata](../../db/s/second_extinction™.json)  
 Rating: 4.07 (Ranked 861)  
 Number of Ratings: 617  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 387  (Ranked 201)
 Sum: 433 (Ranked 293)  
 Diff (max vs sum): -92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

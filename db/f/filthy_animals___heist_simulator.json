@@ -7,196 +7,224 @@
       "SetID": "10d14j0",
       "Name": "All Objectives Complete",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 651
     },
     {
       "ID": "allSerums",
       "SetID": "10d14j0",
       "Name": "Got All The Serums",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "allSkulls",
       "SetID": "10d14j0",
       "Name": "Got All The Skulls",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "allSlotsComplete",
       "SetID": "10d14j0",
       "Name": "All Gold Chest Slots Unlocked",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 651
     },
     {
       "ID": "allSombreros",
       "SetID": "10d14j0",
       "Name": "Got All The Sombreros",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "banditAllObjectives",
       "SetID": "10d14j0",
       "Name": "Bandit Camp Objectives Complete",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "banditSuccess",
       "SetID": "10d14j0",
       "Name": "Bandit Camp Heisted",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "bankAllObjectives",
       "SetID": "10d14j0",
       "Name": "Bank Objectives Complete",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 651
     },
     {
       "ID": "bankSuccess",
       "SetID": "10d14j0",
       "Name": "Bank Heisted",
       "Percentage": 0.4,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2605
     },
     {
       "ID": "chickenMax",
       "SetID": "10d14j0",
       "Name": "Chicken Maxed Out",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1303
     },
     {
       "ID": "crocMax",
       "SetID": "10d14j0",
       "Name": "Crocodile Maxed Out",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1303
     },
     {
       "ID": "lootomaticComplete",
       "SetID": "10d14j0",
       "Name": "All Weapons Purchased",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 651
     },
     {
       "ID": "militaryAllObjectives",
       "SetID": "10d14j0",
       "Name": "Military Base Objectives Complete",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "militarySuccess",
       "SetID": "10d14j0",
       "Name": "Military Base Heisted",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "monkeyMax",
       "SetID": "10d14j0",
       "Name": "Monkey Maxed Out",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1303
     },
     {
       "ID": "mooseMax",
       "SetID": "10d14j0",
       "Name": "Moose Maxed Out",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1303
     },
     {
       "ID": "nuclearAllObjectives",
       "SetID": "10d14j0",
       "Name": "Nuclear Plant Objectives Complete",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "nuclearSuccess",
       "SetID": "10d14j0",
       "Name": "Nuclear Plant Heisted",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 651
     },
     {
       "ID": "prisonAllObjectives",
       "SetID": "10d14j0",
       "Name": "Prison Objectives Complete",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 651
     },
     {
       "ID": "prisonSuccess",
       "SetID": "10d14j0",
       "Name": "Prison Heisted",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 651
     },
     {
       "ID": "spaceAllObjectives",
       "SetID": "10d14j0",
       "Name": "Spaceship Objectives Complete",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "spaceSuccess",
       "SetID": "10d14j0",
       "Name": "Spaceship Heisted",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "superMartAllObjectives",
       "SetID": "10d14j0",
       "Name": "Supermart Objectives Complete",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 13026
     },
     {
       "ID": "superMartSuccess",
       "SetID": "10d14j0",
       "Name": "Supermart Heisted",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 13026
     },
     {
       "ID": "templeAllObjectives",
       "SetID": "10d14j0",
       "Name": "Temple Objectives Complete",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "templeSuccess",
       "SetID": "10d14j0",
       "Name": "Temple Heisted",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "tutorialAllObjectives",
       "SetID": "10d14j0",
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 6513
     },
     {
       "ID": "tutorialSuccess",
       "SetID": "10d14j0",
       "Name": "Tutorial Completed",
       "Percentage": 6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 39078
     }
   ],
   "Tags": [],
@@ -562,13 +590,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:06:20.8131771+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:29.2282948+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 99,
   "EOS_Completed": 0,
   "EOS_Progressed": 6513,
-  "LastUpdate_Achievements": "2023-05-04T22:06:20.8132132+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:30.0423723+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:29.2283164+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:23.162365+00:00",
   "AchievementSets": [
     {
       "ID": "10d14j0",

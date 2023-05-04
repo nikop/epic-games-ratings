@@ -1,4 +1,5 @@
 # Far Cry Primal Standard Edition
+[View Rawdata](../../db/f/far_cry_primal_standard_edition.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 463  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 312  (Ranked 218)
 Sum: 312 (Ranked 320)  
 Diff (max vs sum): -102  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

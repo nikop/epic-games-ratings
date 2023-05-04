@@ -1,4 +1,5 @@
 # F1® Manager 2022
+[View Rawdata](../../db/f/f1®_manager_2022.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 810  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 238  (Ranked 239)
 Sum: 1,781 (Ranked 196)  
 Diff (max vs sum): 43  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

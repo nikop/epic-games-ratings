@@ -1,4 +1,5 @@
 # Empires of the Undergrowth
+[View Rawdata](../../db/e/empires_of_the_undergrowth.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 212  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Competitive Players): 40  (Ranked 409)
 Sum: 370 (Ranked 307)  
 Diff (max vs sum): 102  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,73 +1,74 @@
 # Gotham Knights
+[View Rawdata](../../db/g/gotham_knights.json)  
 Rating: 4.17 (Ranked 826)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,187  (Ranked 99)  
 Sum: 3,617 (Ranked 139)  
 Diff (max vs sum): -40  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| End of an Era | 0.20 |
-| In Your Element | 0.20 |
-| Protector of Gotham | 0.20 |
-| Something in the Clay | 0.20 |
-| The Show Mud Go On | 0.20 |
-| Rock and a Hard Place | 0.20 |
-| Bulldozed | 0.20 |
-| Shock Til They Drop | 0.20 |
-| Drone You Out | 0.20 |
-| To the Victor Go the Spoils | 0.20 |
-| Quartzer Life Crisis | 0.20 |
-| Snow Problem | 0.20 |
-| Cooldown | 0.20 |
-| Har, Har, Har, Very Funny | 0.20 |
-| Get ReQ'd | 0.20 |
-| Working Hard or Harley Working? | 0.20 |
-| Universal Health Scare | 0.20 |
-| First Step Into the Knight | 0.20 |
-| Unstoppable Force | 0.20 |
-| Knighthood | 0.20 |
-| Loose Ends | 0.20 |
-| Whispered Words | 0.20 |
-| Lock and Key | 0.20 |
-| Bad Apples in Every Orchard | 0.20 |
-| From Inside Gotham's Walls | 0.20 |
-| Voiceless | 0.20 |
-| Seeking Asylum | 0.20 |
-| Gotham Knight | 0.20 |
-| Hammer and Icicle | 0.10 |
-| Element of Surprise | 0.10 |
-| It's Nice to Be Wanted | 0.10 |
-| Renewable Enemy Source | 0.10 |
-| Crime Is a Terrible Thing to Waste | 0.10 |
-| The Cold, the Bad and the Ugly | 0.10 |
-| The Batman Family | 0.10 |
-| Gotham's Greatest Depths | 0.10 |
-| Showdown Sovereign | 0.10 |
-| Practice Makes Perfect | 0.10 |
-| That's Showbiz, Clayby | 0.10 |
-| Dressed to Impress | 0.10 |
-| Fusion Expert | 0.10 |
-| Expert Crime Fighter | 0.10 |
-| Not On My Watch | 0.10 |
-| Talonted | 0.10 |
-| Out of Their League | 0.10 |
-| The Man-Bat Family | 0.10 |
-| Family Meeting | 0.10 |
-| Icebreaker | 0.10 |
-| Don't Mecha Big Deal About It | 0.10 |
-| Batarang Collector | 0.10 |
-| Read Owl About It | 0.10 |
-| History Major | 0.10 |
-| Claiming the Mural High Ground | 0.10 |
-| A Sophisticated Mallet | 0.10 |
-| He'd Be So Proud of You | 0.10 |
-| A Momentum Occasion | 0.10 |
-| A Worthy Successor | 0.10 |
-| Gotham City Confidential | 0.10 |
-| Solid Alibi | 0.10 |
-| Confronting Your Demon | 0.10 |
-| Bat Out of Hell | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| End of an Era | 0.20% | ~12,125 |
+| In Your Element | 0.20% | ~12,125 |
+| Protector of Gotham | 0.20% | ~12,125 |
+| Something in the Clay | 0.20% | ~12,125 |
+| The Show Mud Go On | 0.20% | ~12,125 |
+| Rock and a Hard Place | 0.20% | ~12,125 |
+| Bulldozed | 0.20% | ~12,125 |
+| Shock Til They Drop | 0.20% | ~12,125 |
+| Drone You Out | 0.20% | ~12,125 |
+| To the Victor Go the Spoils | 0.20% | ~12,125 |
+| Quartzer Life Crisis | 0.20% | ~12,125 |
+| Snow Problem | 0.20% | ~12,125 |
+| Cooldown | 0.20% | ~12,125 |
+| Har, Har, Har, Very Funny | 0.20% | ~12,125 |
+| Get ReQ'd | 0.20% | ~12,125 |
+| Working Hard or Harley Working? | 0.20% | ~12,125 |
+| Universal Health Scare | 0.20% | ~12,125 |
+| First Step Into the Knight | 0.20% | ~12,125 |
+| Unstoppable Force | 0.20% | ~12,125 |
+| Knighthood | 0.20% | ~12,125 |
+| Loose Ends | 0.20% | ~12,125 |
+| Whispered Words | 0.20% | ~12,125 |
+| Lock and Key | 0.20% | ~12,125 |
+| Bad Apples in Every Orchard | 0.20% | ~12,125 |
+| From Inside Gotham's Walls | 0.20% | ~12,125 |
+| Voiceless | 0.20% | ~12,125 |
+| Seeking Asylum | 0.20% | ~12,125 |
+| Gotham Knight | 0.20% | ~12,125 |
+| Hammer and Icicle | 0.10% | ~3,090 |
+| Element of Surprise | 0.10% | ~3,090 |
+| It's Nice to Be Wanted | 0.10% | ~3,090 |
+| Renewable Enemy Source | 0.10% | ~3,090 |
+| Crime Is a Terrible Thing to Waste | 0.10% | ~3,090 |
+| The Cold, the Bad and the Ugly | 0.10% | ~3,090 |
+| The Batman Family | 0.10% | ~6,062 |
+| Gotham's Greatest Depths | 0.10% | ~3,090 |
+| Showdown Sovereign | 0.10% | ~3,090 |
+| Practice Makes Perfect | 0.10% | ~6,062 |
+| That's Showbiz, Clayby | 0.10% | ~3,090 |
+| Dressed to Impress | 0.10% | ~6,062 |
+| Fusion Expert | 0.10% | ~6,062 |
+| Expert Crime Fighter | 0.10% | ~6,062 |
+| Not On My Watch | 0.10% | ~6,062 |
+| Talonted | 0.10% | ~6,062 |
+| Out of Their League | 0.10% | ~6,062 |
+| The Man-Bat Family | 0.10% | ~6,062 |
+| Family Meeting | 0.10% | ~6,062 |
+| Icebreaker | 0.10% | ~3,090 |
+| Don't Mecha Big Deal About It | 0.10% | ~3,090 |
+| Batarang Collector | 0.10% | ~6,062 |
+| Read Owl About It | 0.10% | ~6,062 |
+| History Major | 0.10% | ~6,062 |
+| Claiming the Mural High Ground | 0.10% | ~6,062 |
+| A Sophisticated Mallet | 0.10% | ~3,090 |
+| He'd Be So Proud of You | 0.10% | ~6,062 |
+| A Momentum Occasion | 0.10% | ~6,062 |
+| A Worthy Successor | 0.10% | ~6,062 |
+| Gotham City Confidential | 0.10% | ~6,062 |
+| Solid Alibi | 0.10% | ~6,062 |
+| Confronting Your Demon | 0.10% | ~3,090 |
+| Bat Out of Hell | 0.10% | ~6,062 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60,625 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 138)  

@@ -1,7 +1,8 @@
 # Monorail Stories
+[View Rawdata](../../db/m/monorail_stories.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 191)  

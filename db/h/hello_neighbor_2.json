@@ -7,98 +7,112 @@
       "SetID": "4kfb9pd",
       "Name": "Ancient Curse",
       "Percentage": 27,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 61911
     },
     {
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
       "Percentage": 35,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 80255
     },
     {
       "ID": "ACH_CAT_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Cat Person",
       "Percentage": 25,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 57325
     },
     {
       "ID": "ACH_CLIMBER",
       "SetID": "4kfb9pd",
       "Name": "Climber",
       "Percentage": 23,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 52739
     },
     {
       "ID": "ACH_DOG_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Dog Person",
       "Percentage": 19,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 43567
     },
     {
       "ID": "ACH_EASY_AS_PIE",
       "SetID": "4kfb9pd",
       "Name": "Easy As Pie",
       "Percentage": 32,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 73376
     },
     {
       "ID": "ACH_FAMILY_LOST",
       "SetID": "4kfb9pd",
       "Name": "Family Lost",
       "Percentage": 31,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 71083
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
       "Percentage": 23,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 52739
     },
     {
       "ID": "ACH_IMPRISONMENT",
       "SetID": "4kfb9pd",
       "Name": "Imprisonment",
       "Percentage": 22,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 50446
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
       "Percentage": 23,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 52739
     },
     {
       "ID": "ACH_REUNION",
       "SetID": "4kfb9pd",
       "Name": "Reunion",
       "Percentage": 24,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 55032
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
       "SetID": "4kfb9pd",
       "Name": "Shovel Night",
       "Percentage": 36,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 82548
     },
     {
       "ID": "ACH_TREASURE_HUNT",
       "SetID": "4kfb9pd",
       "Name": "Treasure Hunt",
       "Percentage": 30,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 68790
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
       "SetID": "4kfb9pd",
       "Name": "Welcome to Raven Brooks",
       "Percentage": 74,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 169682
     }
   ],
   "Tags": [],
@@ -556,13 +570,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T22:07:01.079738+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.0834248+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_Completed": 89,
   "EOS_Progressed": 2293,
-  "LastUpdate_Achievements": "2023-05-04T22:07:01.0797521+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:18.6510617+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.0834406+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:13.9147698+00:00",
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
@@ -578,7 +592,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_Progress": 138,
   "Ranking_PopularitySum": 490,

@@ -1,35 +1,36 @@
 # Filthy Animals | Heist Simulator
+[View Rawdata](../../db/f/filthy_animals___heist_simulator.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Tutorial Completed | 6.00 |
-| Supermart Objectives Complete | 2.00 |
-| Supermart Heisted | 2.00 |
-| Sewer Objectives Complete | 1.00 |
-| Bank Heisted | 0.40 |
-| Chicken Maxed Out | 0.20 |
-| Crocodile Maxed Out | 0.20 |
-| Monkey Maxed Out | 0.20 |
-| Moose Maxed Out | 0.20 |
-| All Objectives Complete | 0.10 |
-| All Gold Chest Slots Unlocked | 0.10 |
-| Bank Objectives Complete | 0.10 |
-| All Weapons Purchased | 0.10 |
-| Nuclear Plant Heisted | 0.10 |
-| Prison Objectives Complete | 0.10 |
-| Prison Heisted | 0.10 |
-| Got All The Serums | 0.00 |
-| Got All The Skulls | 0.00 |
-| Got All The Sombreros | 0.00 |
-| Bandit Camp Objectives Complete | 0.00 |
-| Bandit Camp Heisted | 0.00 |
-| Military Base Objectives Complete | 0.00 |
-| Military Base Heisted | 0.00 |
-| Nuclear Plant Objectives Complete | 0.00 |
-| Spaceship Objectives Complete | 0.00 |
-| Spaceship Heisted | 0.00 |
-| Temple Objectives Complete | 0.00 |
-| Temple Heisted | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Tutorial Completed | 6.00% | ~39,078 |
+| Supermart Objectives Complete | 2.00% | ~13,026 |
+| Supermart Heisted | 2.00% | ~13,026 |
+| Sewer Objectives Complete | 1.00% | ~6,513 |
+| Bank Heisted | 0.40% | ~2,605 |
+| Chicken Maxed Out | 0.20% | ~1,303 |
+| Crocodile Maxed Out | 0.20% | ~1,303 |
+| Monkey Maxed Out | 0.20% | ~1,303 |
+| Moose Maxed Out | 0.20% | ~1,303 |
+| All Objectives Complete | 0.10% | ~651 |
+| All Gold Chest Slots Unlocked | 0.10% | ~651 |
+| Bank Objectives Complete | 0.10% | ~651 |
+| All Weapons Purchased | 0.10% | ~651 |
+| Nuclear Plant Heisted | 0.10% | ~651 |
+| Prison Objectives Complete | 0.10% | ~651 |
+| Prison Heisted | 0.10% | ~651 |
+| Got All The Serums | 0.00% | ~0 |
+| Got All The Skulls | 0.00% | ~0 |
+| Got All The Sombreros | 0.00% | ~0 |
+| Bandit Camp Objectives Complete | 0.00% | ~0 |
+| Bandit Camp Heisted | 0.00% | ~0 |
+| Military Base Objectives Complete | 0.00% | ~0 |
+| Military Base Heisted | 0.00% | ~0 |
+| Nuclear Plant Objectives Complete | 0.00% | ~0 |
+| Spaceship Objectives Complete | 0.00% | ~0 |
+| Spaceship Heisted | 0.00% | ~0 |
+| Temple Objectives Complete | 0.00% | ~0 |
+| Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,513 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 191)  

@@ -1,4 +1,5 @@
 # Gematombe
+[View Rawdata](../../db/g/gematombe.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

@@ -1,7 +1,8 @@
 # Atrio: The Dark Wild
+[View Rawdata](../../db/a/atrio__the_dark_wild.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

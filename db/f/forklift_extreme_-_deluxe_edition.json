@@ -7,91 +7,104 @@
       "SetID": "lhmi37",
       "Name": "Diligent student",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "lhmi37",
       "Name": "Challenge accepted",
       "Percentage": 100,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "lhmi37",
       "Name": "Challenge completed",
       "Percentage": 0,
-      "XP": 175
+      "XP": 175,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "lhmi37",
       "Name": "Fully customize-able",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "lhmi37",
       "Name": "All star",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_2",
       "SetID": "lhmi37",
       "Name": "Awarded",
       "Percentage": 100,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_3",
       "SetID": "lhmi37",
       "Name": "Warehouse Rookie",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "lhmi37",
       "Name": "Warehouse Veteran",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "lhmi37",
       "Name": "Warehouse Master",
       "Percentage": 100,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "lhmi37",
       "Name": "It\u0027s just a scratch",
       "Percentage": 100,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_7",
       "SetID": "lhmi37",
       "Name": "Smash!",
       "Percentage": 100,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "lhmi37",
       "Name": "Penalty? What penalty?",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "lhmi37",
       "Name": "Prankster",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -112,13 +125,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:06:56.3521609+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:55.464412+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:06:56.3521712+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:00.6069918+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:55.464427+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:01.7724432+00:00",
   "AchievementSets": [
     {
       "ID": "lhmi37",
@@ -134,7 +147,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:42:11.9927145+00:00"

@@ -1,4 +1,5 @@
 # Atomicrops
+[View Rawdata](../../db/a/atomicrops.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 157  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 128  (Ranked 292)
 Sum: 128 (Ranked 384)  
 Diff (max vs sum): -92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

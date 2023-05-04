@@ -1,7 +1,8 @@
 # Wonhon: A Vengeful Spirit
+[View Rawdata](../../db/w/wonhon__a_vengeful_spirit.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

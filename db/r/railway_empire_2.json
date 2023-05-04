@@ -7,385 +7,440 @@
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
       "Percentage": 60,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 300
     },
     {
       "ID": "A01",
       "SetID": "9b7p7eo",
       "Name": "Stoker",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A03",
       "SetID": "9b7p7eo",
       "Name": "Resistance is futile",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A04",
       "SetID": "9b7p7eo",
       "Name": "Go West",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A05",
       "SetID": "9b7p7eo",
       "Name": "A new Hope",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A06",
       "SetID": "9b7p7eo",
       "Name": "Unstoppable",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A07",
       "SetID": "9b7p7eo",
       "Name": "Track to the Future",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "A08",
       "SetID": "9b7p7eo",
       "Name": "Conductor",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A09",
       "SetID": "9b7p7eo",
       "Name": "Engineer",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
       "Percentage": 60,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 300
     },
     {
       "ID": "A11",
       "SetID": "9b7p7eo",
       "Name": "European Union",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
       "Percentage": 80,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 400
     },
     {
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
       "Percentage": 80,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 400
     },
     {
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
       "Percentage": 60,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 300
     },
     {
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A18",
       "SetID": "9b7p7eo",
       "Name": "General Manager",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A19",
       "SetID": "9b7p7eo",
       "Name": "Tycoon",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
       "Percentage": 60,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 300
     },
     {
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A23",
       "SetID": "9b7p7eo",
       "Name": "Three Cheers for Progress",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A25",
       "SetID": "9b7p7eo",
       "Name": "United States",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "A26",
       "SetID": "9b7p7eo",
       "Name": "Max Power",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A27",
       "SetID": "9b7p7eo",
       "Name": "Let off some steam",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
       "Percentage": 80,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 400
     },
     {
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "A31",
       "SetID": "9b7p7eo",
       "Name": "Hostile Takeover",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A32",
       "SetID": "9b7p7eo",
       "Name": "Assimilated",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A33",
       "SetID": "9b7p7eo",
       "Name": "Locusts",
       "Percentage": 20,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
       "Percentage": 60,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 300
     },
     {
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
       "Percentage": 60,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 300
     },
     {
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
       "Percentage": 60,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 300
     },
     {
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
       "Percentage": 80,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 400
     },
     {
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
       "Percentage": 40,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 200
     },
     {
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
       "Percentage": 80,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 400
     },
     {
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
       "Percentage": 80,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 400
     },
     {
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A50",
       "SetID": "9b7p7eo",
       "Name": "Accurate",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "A51",
       "SetID": "9b7p7eo",
       "Name": "Call of Duty",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
       "Percentage": 40,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "A53",
       "SetID": "9b7p7eo",
       "Name": "Networker",
       "Percentage": 20,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "A54",
       "SetID": "9b7p7eo",
       "Name": "Together we stand",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -404,13 +459,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 55,
-  "LastChanged_Achievements": "2023-05-04T22:06:23.5928803+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:31.5215944+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:06:23.5929362+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:27.6399516+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:31.5216582+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:21.5615211+00:00",
   "AchievementSets": [
     {
       "ID": "9b7p7eo",
@@ -421,7 +476,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00"

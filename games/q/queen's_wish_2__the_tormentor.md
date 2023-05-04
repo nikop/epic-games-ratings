@@ -1,7 +1,8 @@
 # Queen's Wish 2: The Tormentor
+[View Rawdata](../../db/q/queen's_wish_2__the_tormentor.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

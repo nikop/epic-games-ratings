@@ -1,9 +1,10 @@
 # Totally Reliable Delivery Service Standard Edition
+[View Rawdata](../../db/t/totally_reliable_delivery_service_standard_edition.json)  
 Rating: 4.44 (Ranked 620)  
 Number of Ratings: 112  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

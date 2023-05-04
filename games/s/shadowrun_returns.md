@@ -1,4 +1,5 @@
 # Shadowrun Returns
+[View Rawdata](../../db/s/shadowrun_returns.json)  
 Rating: 4.43 (Ranked 633)  
 Number of Ratings: 324  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 66  (Ranked 366)
 Sum: 66 (Ranked 421)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

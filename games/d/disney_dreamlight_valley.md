@@ -1,13 +1,14 @@
 # Disney Dreamlight Valley
+[View Rawdata](../../db/d/disney_dreamlight_valley.json)  
 Rating: 4.76 (Ranked 113)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 835  (Ranked 144)  
-Sum: 6,985 (Ranked 102)  
+Sum: 6,986 (Ranked 102)  
 Diff (max vs sum): 42  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +21,7 @@ Diff (max vs sum): 42
 | This game has Quickly Understood Controls | 711 |
 | This game is Extremely Fun | 702 |
 | This game has a Creative Community | 576 |
-| This game has Easy Combat | 461 |
+| This game has Easy Combat | 462 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -89,4 +90,4 @@ Diff (max vs sum): 42
 | 2023-05-01 | 4.76 | - | 831 | 6,974 |
 | 2023-05-02 | 4.76 | - | 832 | 6,975 |
 | 2023-05-03 | 4.76 | - | 832 | 6,978 |
-| 2023-05-04 | 4.76 | - | 835 | 6,985 |
+| 2023-05-04 | 4.76 | - | 835 | 6,986 |

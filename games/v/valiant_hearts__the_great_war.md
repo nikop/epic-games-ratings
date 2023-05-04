@@ -1,9 +1,10 @@
 # Valiant Hearts: The Great War
+[View Rawdata](../../db/v/valiant_hearts__the_great_war.json)  
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 30  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

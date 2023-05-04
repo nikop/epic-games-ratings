@@ -1,8 +1,9 @@
 # New Super Lucky's Tale
+[View Rawdata](../../db/n/new_super_lucky's_tale.json)  
 Rating: 4.59 (Ranked 395)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

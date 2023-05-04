@@ -1,4 +1,5 @@
 # Operation Wolf
+[View Rawdata](../../db/o/operation_wolf.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

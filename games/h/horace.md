@@ -1,9 +1,10 @@
 # Horace
+[View Rawdata](../../db/h/horace.json)  
 Rating: 4.50 (Ranked 530)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,224 +7,256 @@
       "SetID": "2pijnb7",
       "Name": "All in a days job air",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ALL_IN_A_DAYS_JOB_GROUND",
       "SetID": "2pijnb7",
       "Name": "All in a days job ground",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ARE_YOU_KIDDING",
       "SetID": "2pijnb7",
       "Name": "Are you kidding!",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "CLEAN_SWEEP_EPISODE_1",
       "SetID": "2pijnb7",
       "Name": "Clean Sweep Episode 1",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "CLEAN_SWEEP_EPISODE_2",
       "SetID": "2pijnb7",
       "Name": "Clean Sweep Episode 2",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "CLEAN_SWEEP_EPISODE_3",
       "SetID": "2pijnb7",
       "Name": "Clean Sweep Episode 3",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "DESTRUCTION_DERBY",
       "SetID": "2pijnb7",
       "Name": "Destruction Derby",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "EASY_GOINGS",
       "SetID": "2pijnb7",
       "Name": "Easy goings",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "GETTING_STARTED_AIR",
       "SetID": "2pijnb7",
       "Name": "Getting started air",
       "Percentage": 100,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "GETTING_STARTED_GROUND",
       "SetID": "2pijnb7",
       "Name": "Getting started ground",
       "Percentage": 100,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "HEAVY_WEIGHT",
       "SetID": "2pijnb7",
       "Name": "Heavy Weight",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "HIDDEN_PLANET",
       "SetID": "2pijnb7",
       "Name": "Hidden Planet",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ITS_NOT_A_CAR",
       "SetID": "2pijnb7",
       "Name": "Its not a car",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "JUST_A_DAY_ON_THE_JOB",
       "SetID": "2pijnb7",
       "Name": "Just a day on the job",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "LIGHT_WEIGHT",
       "SetID": "2pijnb7",
       "Name": "Light Weight",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LOOK_I_CAN_FLY",
       "SetID": "2pijnb7",
       "Name": "Look I can fly!",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "MIDDLE_WEIGHT",
       "SetID": "2pijnb7",
       "Name": "Middle Weight",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "PERFECT_PAINT",
       "SetID": "2pijnb7",
       "Name": "Perfect paint",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "PICKING_UP_MOMENTUM_AIR",
       "SetID": "2pijnb7",
       "Name": "Picking up momentum air",
       "Percentage": 100,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "PICKING_UP_MOMENTUM_GROUND",
       "SetID": "2pijnb7",
       "Name": "Picking up momentum ground",
       "Percentage": 100,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 100
     },
     {
       "ID": "SAVE_THE_TREES",
       "SetID": "2pijnb7",
       "Name": "Save The Trees!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPEED_DEMON",
       "SetID": "2pijnb7",
       "Name": "Tunnel Burner",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPEED_RUN_EPISODE_1",
       "SetID": "2pijnb7",
       "Name": "Speed run Episode 1",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPEED_RUN_EPISODE_2",
       "SetID": "2pijnb7",
       "Name": "Speed run Episode 2",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPEED_RUN_EPISODE_3",
       "SetID": "2pijnb7",
       "Name": "Speed run Episode 3",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "TEFLON_EPISODE_1",
       "SetID": "2pijnb7",
       "Name": "Teflon Episode 1",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "TEFLON_EPISODE_2",
       "SetID": "2pijnb7",
       "Name": "Teflon Episode 2",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "TEFLON_EPISODE_3",
       "SetID": "2pijnb7",
       "Name": "Teflon Episode 3",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "THIS_IS_TOUGH",
       "SetID": "2pijnb7",
       "Name": "This is tough",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "TOP_GUN",
       "SetID": "2pijnb7",
       "Name": "Top Gun",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "TUBE_HUNTER",
       "SetID": "2pijnb7",
       "Name": "Tube Hunter",
       "Percentage": 100,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 100
     },
     {
       "ID": "YOU_ARE_SPECIAL",
       "SetID": "2pijnb7",
       "Name": "You are special",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     }
   ],
   "Tags": [],
@@ -245,13 +277,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-04T22:05:57.3508229+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:12.0726633+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:05:57.3508521+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:12.8106444+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:12.0727061+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:11.7325421+00:00",
   "AchievementSets": [
     {
       "ID": "2pijnb7",
@@ -267,7 +299,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00"

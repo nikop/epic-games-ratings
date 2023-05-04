@@ -1,4 +1,5 @@
 # Hyper Light Drifter
+[View Rawdata](../../db/h/hyper_light_drifter.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 364  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 50  (Ranked 385)
 Sum: 50 (Ranked 431)  
 Diff (max vs sum): -46  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

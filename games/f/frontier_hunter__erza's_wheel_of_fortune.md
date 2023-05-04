@@ -1,7 +1,8 @@
 # Frontier Hunter: Erza's Wheel of Fortune
+[View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 191)  

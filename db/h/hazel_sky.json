@@ -7,168 +7,192 @@
       "SetID": "715elpj",
       "Name": "Abundant food",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "avid_reader",
       "SetID": "715elpj",
       "Name": "Avid reader",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "backpack_complete",
       "SetID": "715elpj",
       "Name": "Backpack complete",
       "Percentage": 0,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 0
     },
     {
       "ID": "ball_ruster",
       "SetID": "715elpj",
       "Name": "Ball ruster",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "collector",
       "SetID": "715elpj",
       "Name": "Collector",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "finally_an_engineer",
       "SetID": "715elpj",
       "Name": "Finally an engineer...?",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "first_chord",
       "SetID": "715elpj",
       "Name": "First chord",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "first_of_many",
       "SetID": "715elpj",
       "Name": "First of many",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "first_try",
       "SetID": "715elpj",
       "Name": "First try",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "gonna_find_them_all",
       "SetID": "715elpj",
       "Name": "Gonna find them all",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "half_engineer_half_fish",
       "SetID": "715elpj",
       "Name": "Half engineer, half fish",
       "Percentage": 0,
-      "XP": 105
+      "XP": 105,
+      "UsersEstimate": 0
     },
     {
       "ID": "how_many",
       "SetID": "715elpj",
       "Name": "How many?",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "interesting",
       "SetID": "715elpj",
       "Name": "Interesting",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "law_breaker",
       "SetID": "715elpj",
       "Name": "Lawbreaker",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "play_all_songs",
       "SetID": "715elpj",
       "Name": "How do you get into Carnegie hall?",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "reader",
       "SetID": "715elpj",
       "Name": "Reader",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "run_shane_run",
       "SetID": "715elpj",
       "Name": "Run, Shane, run!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "second_try",
       "SetID": "715elpj",
       "Name": "Second try",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "shark_attack",
       "SetID": "715elpj",
       "Name": "Shark attack",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "the_truth",
       "SetID": "715elpj",
       "Name": "The truth",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "this_is_it",
       "SetID": "715elpj",
       "Name": "This is it!",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "weird_stuff",
       "SetID": "715elpj",
       "Name": "Weird stuff",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "what_this_means",
       "SetID": "715elpj",
       "Name": "What this means?",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "where_now",
       "SetID": "715elpj",
       "Name": "Where now?",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -189,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:06:08.6122602+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:20.2616585+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:06:08.6122776+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:42.8226284+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:20.2616766+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:52.8417635+00:00",
   "AchievementSets": [
     {
       "ID": "715elpj",
@@ -211,7 +235,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
   "FirstSeenAchievements": "2023-04-25T16:10:27.0387263+00:00"

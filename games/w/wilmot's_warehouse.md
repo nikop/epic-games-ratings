@@ -1,9 +1,10 @@
 # Wilmot's Warehouse
+[View Rawdata](../../db/w/wilmot's_warehouse.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

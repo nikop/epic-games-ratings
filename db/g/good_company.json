@@ -7,532 +7,608 @@
       "SetID": "8cb3id7",
       "Name": "Grand Master",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_all_ea_challenges",
       "SetID": "8cb3id7",
       "Name": "Champion",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 941
     },
     {
       "ID": "ach_all_ea_trophies",
       "SetID": "8cb3id7",
       "Name": "Trophy Hoarder",
       "Percentage": 0.2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 941
     },
     {
       "ID": "ach_all_trophies",
       "SetID": "8cb3id7",
       "Name": "Trophy Enthusiast",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_chapter1",
       "SetID": "8cb3id7",
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14112
     },
     {
       "ID": "ach_campaign_chapter2",
       "SetID": "8cb3id7",
       "Name": "Campaign: Man vs. Machine",
       "Percentage": 0.4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1882
     },
     {
       "ID": "ach_campaign_chapter3",
       "SetID": "8cb3id7",
       "Name": "Campaign: In Hot Waters",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_progress1",
       "SetID": "8cb3id7",
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 103488
     },
     {
       "ID": "ach_campaign_progress10",
       "SetID": "8cb3id7",
       "Name": "Level: A Happy Taskforce",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_campaign_progress11",
       "SetID": "8cb3id7",
       "Name": "Level: Heating-Up",
       "Percentage": 0.5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2352
     },
     {
       "ID": "ach_campaign_progress12",
       "SetID": "8cb3id7",
       "Name": "Level: Mayor Trouble",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_progress2",
       "SetID": "8cb3id7",
       "Name": "Level: Extra Life",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 32928
     },
     {
       "ID": "ach_campaign_progress3",
       "SetID": "8cb3id7",
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14112
     },
     {
       "ID": "ach_campaign_progress4",
       "SetID": "8cb3id7",
       "Name": "Level: Topple The Top",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_campaign_progress5",
       "SetID": "8cb3id7",
       "Name": "Level: Returning Home",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 235200
     },
     {
       "ID": "ach_campaign_progress6",
       "SetID": "8cb3id7",
       "Name": "Level: Rising Markets",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 42336
     },
     {
       "ID": "ach_campaign_progress7",
       "SetID": "8cb3id7",
       "Name": "Level: Merry-Go-Around",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2822
     },
     {
       "ID": "ach_campaign_progress9",
       "SetID": "8cb3id7",
       "Name": "Level: The Machinery",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_campaign_special1",
       "SetID": "8cb3id7",
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 117600
     },
     {
       "ID": "ach_campaign_special10",
       "SetID": "8cb3id7",
       "Name": "Bet On Bots: Safety First",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3763
     },
     {
       "ID": "ach_campaign_special11",
       "SetID": "8cb3id7",
       "Name": "A Happy Taskforce: Interior Designer",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1411
     },
     {
       "ID": "ach_campaign_special12",
       "SetID": "8cb3id7",
       "Name": "A Happy Taskforce: Overtime",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_special13",
       "SetID": "8cb3id7",
       "Name": "The Machinery: Goal Orientated",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1411
     },
     {
       "ID": "ach_campaign_special14",
       "SetID": "8cb3id7",
       "Name": "The Machinery: Energy Saver",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1411
     },
     {
       "ID": "ach_campaign_special15",
       "SetID": "8cb3id7",
       "Name": "Topple The Top: Outperformed",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_special16",
       "SetID": "8cb3id7",
       "Name": "Eye In The Sky: Paranoid",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_special17",
       "SetID": "8cb3id7",
       "Name": "Heating-Up: Triple Ace",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_special18",
       "SetID": "8cb3id7",
       "Name": "Mayor Trouble: Overwhelmed",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_special2",
       "SetID": "8cb3id7",
       "Name": "Charlies\u0027s Circuits: Artist",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_campaign_special3",
       "SetID": "8cb3id7",
       "Name": "Rising Markets: Designer",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_campaign_special4",
       "SetID": "8cb3id7",
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 32928
     },
     {
       "ID": "ach_campaign_special5",
       "SetID": "8cb3id7",
       "Name": "Extra Life: Wish Granted",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 23520
     },
     {
       "ID": "ach_campaign_special6",
       "SetID": "8cb3id7",
       "Name": "Extra Life: Knowledge Cap",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_campaign_special7",
       "SetID": "8cb3id7",
       "Name": "Merry-Go-Around: Self-Made",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3293
     },
     {
       "ID": "ach_campaign_special8",
       "SetID": "8cb3id7",
       "Name": "Merry-Go-Around: Debt-Be-Gone",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_campaign_special9",
       "SetID": "8cb3id7",
       "Name": "Bet On Bots: Inspector\u0027s Favorite",
       "Percentage": 0.6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2822
     },
     {
       "ID": "ach_challenge_special1",
       "SetID": "8cb3id7",
       "Name": "Rocketspeed Science: Top Level Scientist",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_challenge_special2",
       "SetID": "8cb3id7",
       "Name": "Pocket Conquest: Top Notch",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_challenge_special3",
       "SetID": "8cb3id7",
       "Name": "Welfare Survival: Extra Workforce",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_challenge_special4",
       "SetID": "8cb3id7",
       "Name": "Money Rush: One Loan",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_drawback_reduction",
       "SetID": "8cb3id7",
       "Name": "Across the (circuit)board",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_efficient",
       "SetID": "8cb3id7",
       "Name": "Efficient",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_fivestar_product",
       "SetID": "8cb3id7",
       "Name": "High Five!",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 18816
     },
     {
       "ID": "ach_frp_high_networth",
       "SetID": "8cb3id7",
       "Name": "Millionaire",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 28224
     },
     {
       "ID": "ach_frp_many_modules",
       "SetID": "8cb3id7",
       "Name": "Modular Progress",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 18816
     },
     {
       "ID": "ach_frp_many_modules2",
       "SetID": "8cb3id7",
       "Name": "Modular Performance",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14112
     },
     {
       "ID": "ach_frp_many_modules3",
       "SetID": "8cb3id7",
       "Name": "Modular Peak",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_frp_many_products",
       "SetID": "8cb3id7",
       "Name": "Peddler",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 42336
     },
     {
       "ID": "ach_frp_many_products2",
       "SetID": "8cb3id7",
       "Name": "Salesperson",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 18816
     },
     {
       "ID": "ach_frp_many_products3",
       "SetID": "8cb3id7",
       "Name": "Accountant",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_frp_many_products4",
       "SetID": "8cb3id7",
       "Name": "Entrepreneur",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_frp_many_products5",
       "SetID": "8cb3id7",
       "Name": "CEO",
       "Percentage": 0.5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2352
     },
     {
       "ID": "ach_frp_researchdata",
       "SetID": "8cb3id7",
       "Name": "Data Churn Type I",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 32928
     },
     {
       "ID": "ach_frp_researchdata2",
       "SetID": "8cb3id7",
       "Name": "Data Churn Type II",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 23520
     },
     {
       "ID": "ach_frp_researchdata3",
       "SetID": "8cb3id7",
       "Name": "Data Churn Type III",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_frp_researchdata4",
       "SetID": "8cb3id7",
       "Name": "Data Churn Type IV",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_frp_veryhigh_networth",
       "SetID": "8cb3id7",
       "Name": "Multi-Millionaire",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_frp_veryhigh_networth2",
       "SetID": "8cb3id7",
       "Name": "Super Rich",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1411
     },
     {
       "ID": "ach_fully_packed",
       "SetID": "8cb3id7",
       "Name": "Fully Packed",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1411
     },
     {
       "ID": "ach_happy_hour",
       "SetID": "8cb3id7",
       "Name": "Happy Hour",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 941
     },
     {
       "ID": "ach_lucky",
       "SetID": "8cb3id7",
       "Name": "Lucky",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_many_challenges",
       "SetID": "8cb3id7",
       "Name": "Contender",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_many_trophies",
       "SetID": "8cb3id7",
       "Name": "Trophy Collector",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_prof_assignments",
       "SetID": "8cb3id7",
       "Name": "Reliable",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_prof_discovery",
       "SetID": "8cb3id7",
       "Name": "Keen Eye",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_prof_goals",
       "SetID": "8cb3id7",
       "Name": "Achiever",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 941
     },
     {
       "ID": "ach_prof_many_research",
       "SetID": "8cb3id7",
       "Name": "Know-it-all",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_prof_markets",
       "SetID": "8cb3id7",
       "Name": "Trendsetter",
       "Percentage": 0.7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3293
     },
     {
       "ID": "ach_prof_modules_analyzed",
       "SetID": "8cb3id7",
       "Name": "Module Maniac",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_prof_modules_sold",
       "SetID": "8cb3id7",
       "Name": "Overproducer",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 9408
     },
     {
       "ID": "ach_prof_products_sold",
       "SetID": "8cb3id7",
       "Name": "Tycoon",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4234
     },
     {
       "ID": "ach_prof_success",
       "SetID": "8cb3id7",
       "Name": "Prestigious",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_rockstar_employee",
       "SetID": "8cb3id7",
       "Name": "Rockstar",
       "Percentage": 0.4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1882
     },
     {
       "ID": "ach_speedy",
       "SetID": "8cb3id7",
       "Name": "Speedy",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 23520
     },
     {
       "ID": "ach_trait_overload",
       "SetID": "8cb3id7",
       "Name": "Natural Talent",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 9408
     }
   ],
   "Tags": [],
@@ -903,13 +979,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 76,
-  "LastChanged_Achievements": "2023-05-04T22:06:38.5055713+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:42.5588902+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 33,
   "EOS_Completed": 1,
   "EOS_Progressed": 4704,
-  "LastUpdate_Achievements": "2023-05-04T22:06:38.5056968+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:39.8184642+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:42.5590349+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:09.6028447+00:00",
   "AchievementSets": [
     {
       "ID": "8cb3id7",

@@ -1,9 +1,10 @@
 # Warhammer 40000: Battlesector
+[View Rawdata](../../db/w/warhammer_40000__battlesector.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 40  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

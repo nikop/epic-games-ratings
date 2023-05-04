@@ -7,140 +7,160 @@
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
       "Percentage": 49,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
       "Percentage": 72,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2808
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
       "SetID": "3jfhgga",
       "Name": "At least there is something to read",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
       "Percentage": 69,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2691
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
       "Percentage": 38,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH_CHAPTER_2_DONE",
       "SetID": "3jfhgga",
       "Name": "Fangs",
       "Percentage": 21,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 819
     },
     {
       "ID": "ACH_CHAPTER_3_DONE",
       "SetID": "3jfhgga",
       "Name": "Mirrors",
       "Percentage": 15,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_CHAPTER_4_DONE",
       "SetID": "3jfhgga",
       "Name": "Coat",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_CHAPTER_5_DONE",
       "SetID": "3jfhgga",
       "Name": "Sarcophagus",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
       "Percentage": 79,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3081
     },
     {
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
       "Percentage": 77,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3003
     },
     {
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
       "Percentage": 44,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
       "Percentage": 33,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1287
     },
     {
       "ID": "ACH_GETALL_COLLECTIBLES",
       "SetID": "3jfhgga",
       "Name": "Missing pages",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_HERO_MASTER_1",
       "SetID": "3jfhgga",
       "Name": "I need a hero",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_HERO_MASTER_4",
       "SetID": "3jfhgga",
       "Name": "Master of puppets",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_SHOP_ALL_MINIONS",
       "SetID": "3jfhgga",
       "Name": "I love you all",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_SHOP_ALL_PERKS",
       "SetID": "3jfhgga",
       "Name": "Skills to pay the bills",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
       "Percentage": 72,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2808
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
       "Percentage": 90,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3510
     }
   ],
   "Tags": [],
@@ -171,13 +191,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:06:19.1968087+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:28.0938644+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-04T22:06:19.1968255+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:28.2262097+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:28.0938799+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:21.9345981+00:00",
   "AchievementSets": [
     {
       "ID": "3jfhgga",

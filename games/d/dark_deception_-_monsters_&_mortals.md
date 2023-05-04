@@ -1,7 +1,8 @@
 # Dark Deception - Monsters & Mortals
+[View Rawdata](../../db/d/dark_deception_-_monsters_&_mortals.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

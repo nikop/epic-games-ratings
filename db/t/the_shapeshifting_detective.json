@@ -7,147 +7,168 @@
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3634
     },
     {
       "ID": "book_em_danny",
       "SetID": "2db2j74",
       "Name": "Book \u0027em Danny",
       "Percentage": 11,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1738
     },
     {
       "ID": "bullseye",
       "SetID": "2db2j74",
       "Name": "Bullseye",
       "Percentage": 5,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 790
     },
     {
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
       "Percentage": 22,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3476
     },
     {
       "ID": "chicken",
       "SetID": "2db2j74",
       "Name": "Chicken",
       "Percentage": 8,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 1264
     },
     {
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
       "Percentage": 35,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 5530
     },
     {
       "ID": "heavy_rayne",
       "SetID": "2db2j74",
       "Name": "Heavy Rayne",
       "Percentage": 9,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1422
     },
     {
       "ID": "highlander",
       "SetID": "2db2j74",
       "Name": "Highlander",
       "Percentage": 20,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 3160
     },
     {
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
       "Percentage": 20,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 3160
     },
     {
       "ID": "oscar_winning_performance",
       "SetID": "2db2j74",
       "Name": "Oscar Winning Performance",
       "Percentage": 9,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 1422
     },
     {
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
       "Percentage": 45,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7110
     },
     {
       "ID": "play_it_again_sam",
       "SetID": "2db2j74",
       "Name": "Play It Again Sam",
       "Percentage": 92,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14536
     },
     {
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
       "Percentage": 65,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10270
     },
     {
       "ID": "poetent",
       "SetID": "2db2j74",
       "Name": "Poetent",
       "Percentage": 11,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 1738
     },
     {
       "ID": "put_a_ring_on_it",
       "SetID": "2db2j74",
       "Name": "Put A Ring On It",
       "Percentage": 9,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1422
     },
     {
       "ID": "show_me_some_skin",
       "SetID": "2db2j74",
       "Name": "Show Me Some Skin",
       "Percentage": 5,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 790
     },
     {
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
       "Percentage": 91,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14378
     },
     {
       "ID": "the_big_sleep",
       "SetID": "2db2j74",
       "Name": "The Big Sleep",
       "Percentage": 4,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 632
     },
     {
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
       "Percentage": 37,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 5846
     },
     {
       "ID": "voyeur",
       "SetID": "2db2j74",
       "Name": "Voyeur",
       "Percentage": 9,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1422
     },
     {
       "ID": "you_had_one_job",
       "SetID": "2db2j74",
       "Name": "You Had One Job",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2212
     }
   ],
   "Tags": [],
@@ -173,13 +194,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:06:29.2700457+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:35.5506156+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 158,
-  "LastUpdate_Achievements": "2023-05-04T22:06:29.2700669+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:12.3388235+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:35.55063+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:51.9300936+00:00",
   "AchievementSets": [
     {
       "ID": "2db2j74",

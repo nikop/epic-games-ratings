@@ -1,4 +1,5 @@
 # Darkest Dungeon II
+[View Rawdata](../../db/d/darkest_dungeon_ii.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,73 +7,73 @@ Max (Character Customization): 6,507  (Ranked 48)
 Sum: 16,595 (Ranked 57)  
 Diff (max vs sum): -9  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| A Place to Lay Your Head | 100.00 |
-| Nope | 100.00 |
-| To Grandmother's House | 75.00 |
-| Don't Make Me Turn This Coach Around | 50.00 |
-| Serenity Now! | 50.00 |
-| The World As It Was | 50.00 |
-| This Looks Familiar | 50.00 |
-| Hope Rekindled | 50.00 |
-| Loop Year | 25.00 |
-| Predator | 25.00 |
-| Deprogramming | 25.00 |
-| Hat Trick | 25.00 |
-| Rush Hour | 25.00 |
-| Body of Work | 25.00 |
-| It Rings a Bell | 0.00 |
-| A Life Well Lived | 0.00 |
-| Resurrection | 0.00 |
-| Unleash Hell | 0.00 |
-| Funny Guy | 0.00 |
-| Long Live the King | 0.00 |
-| Wyrdly Reconstructed | 0.00 |
-| Boxcar Kid | 0.00 |
-| Unfulfilled Desires | 0.00 |
-| This Belongs in a Museum | 0.00 |
-| Dissector | 0.00 |
-| Banishment | 0.00 |
-| Not Today! | 0.00 |
-| Creep and Sleep | 0.00 |
-| Ichthyophobic | 0.00 |
-| Now Stay Dead | 0.00 |
-| No More Mouths to Feed | 0.00 |
-| Meat and Greet | 0.00 |
-| Clearing the Ledger | 0.00 |
-| Catch and Decease | 0.00 |
-| Overdue Notice | 0.00 |
-| Reverse Banditry | 0.00 |
-| Escape from the Black Hole | 0.00 |
-| Circle of Life | 0.00 |
-| Bacon Bits | 0.00 |
-| No Gravestone Left Unturned | 0.00 |
-| It Happens | 0.00 |
-| Spelunker | 0.00 |
-| Merry Time | 0.00 |
-| Harvest Festival | 0.00 |
-| Ramble On | 0.00 |
-| 20,000 Leagues Above the Sea | 0.00 |
-| Tears in the Rain | 0.00 |
-| Autodidact | 0.00 |
-| Shrine of Reflection | 0.00 |
-| A Clear Conscience | 0.00 |
-| Whale | 0.00 |
-| Triage | 0.00 |
-| When You Want Something Done Right | 0.00 |
-| FNG | 0.00 |
-| Pub Crawl | 0.00 |
-| The Clash | 0.00 |
-| Utopia | 0.00 |
-| Eidetic | 0.00 |
-| Unshackled | 0.00 |
-| Hot Air | 0.00 |
-| Eyes Up | 0.00 |
-| Handled | 0.00 |
-| Grand Slam | 0.00 |
-| Hard Mode | 0.00 |
-| Road Trip | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| A Place to Lay Your Head | 100.00% | ~400 |
+| Nope | 100.00% | ~400 |
+| To Grandmother's House | 75.00% | ~300 |
+| Don't Make Me Turn This Coach Around | 50.00% | ~200 |
+| Serenity Now! | 50.00% | ~200 |
+| The World As It Was | 50.00% | ~200 |
+| This Looks Familiar | 50.00% | ~200 |
+| Hope Rekindled | 50.00% | ~200 |
+| Loop Year | 25.00% | ~100 |
+| Predator | 25.00% | ~100 |
+| Deprogramming | 25.00% | ~100 |
+| Hat Trick | 25.00% | ~100 |
+| Rush Hour | 25.00% | ~100 |
+| Body of Work | 25.00% | ~100 |
+| It Rings a Bell | 0.00% | ~0 |
+| A Life Well Lived | 0.00% | ~0 |
+| Resurrection | 0.00% | ~0 |
+| Unleash Hell | 0.00% | ~0 |
+| Funny Guy | 0.00% | ~0 |
+| Long Live the King | 0.00% | ~0 |
+| Wyrdly Reconstructed | 0.00% | ~0 |
+| Boxcar Kid | 0.00% | ~0 |
+| Unfulfilled Desires | 0.00% | ~0 |
+| This Belongs in a Museum | 0.00% | ~0 |
+| Dissector | 0.00% | ~0 |
+| Banishment | 0.00% | ~0 |
+| Not Today! | 0.00% | ~0 |
+| Creep and Sleep | 0.00% | ~0 |
+| Ichthyophobic | 0.00% | ~0 |
+| Now Stay Dead | 0.00% | ~0 |
+| No More Mouths to Feed | 0.00% | ~0 |
+| Meat and Greet | 0.00% | ~0 |
+| Clearing the Ledger | 0.00% | ~0 |
+| Catch and Decease | 0.00% | ~0 |
+| Overdue Notice | 0.00% | ~0 |
+| Reverse Banditry | 0.00% | ~0 |
+| Escape from the Black Hole | 0.00% | ~0 |
+| Circle of Life | 0.00% | ~0 |
+| Bacon Bits | 0.00% | ~0 |
+| No Gravestone Left Unturned | 0.00% | ~0 |
+| It Happens | 0.00% | ~0 |
+| Spelunker | 0.00% | ~0 |
+| Merry Time | 0.00% | ~0 |
+| Harvest Festival | 0.00% | ~0 |
+| Ramble On | 0.00% | ~0 |
+| 20,000 Leagues Above the Sea | 0.00% | ~0 |
+| Tears in the Rain | 0.00% | ~0 |
+| Autodidact | 0.00% | ~0 |
+| Shrine of Reflection | 0.00% | ~0 |
+| A Clear Conscience | 0.00% | ~0 |
+| Whale | 0.00% | ~0 |
+| Triage | 0.00% | ~0 |
+| When You Want Something Done Right | 0.00% | ~0 |
+| FNG | 0.00% | ~0 |
+| Pub Crawl | 0.00% | ~0 |
+| The Clash | 0.00% | ~0 |
+| Utopia | 0.00% | ~0 |
+| Eidetic | 0.00% | ~0 |
+| Unshackled | 0.00% | ~0 |
+| Hot Air | 0.00% | ~0 |
+| Eyes Up | 0.00% | ~0 |
+| Handled | 0.00% | ~0 |
+| Grand Slam | 0.00% | ~0 |
+| Hard Mode | 0.00% | ~0 |
+| Road Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 191)  

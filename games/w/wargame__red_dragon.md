@@ -1,4 +1,5 @@
 # Wargame: Red Dragon
+[View Rawdata](../../db/w/wargame__red_dragon.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 2,918  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 857  (Ranked 142)
 Sum: 7,884 (Ranked 92)  
 Diff (max vs sum): 50  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

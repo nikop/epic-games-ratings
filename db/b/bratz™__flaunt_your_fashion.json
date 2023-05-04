@@ -7,133 +7,152 @@
       "SetID": "41h3j82",
       "Name": "Welcome to Stilesville",
       "Percentage": 90,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2790
     },
     {
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
       "Percentage": 26,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 806
     },
     {
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
       "Percentage": 16,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 496
     },
     {
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
       "Percentage": 32,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 992
     },
     {
       "ID": "13",
       "SetID": "41h3j82",
       "Name": "Barcelona Hidden Style",
       "Percentage": 16,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 496
     },
     {
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 403
     },
     {
       "ID": "15",
       "SetID": "41h3j82",
       "Name": "Talented Photographer",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 93
     },
     {
       "ID": "16",
       "SetID": "41h3j82",
       "Name": "Xtremely Cool Pictures",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 93
     },
     {
       "ID": "17",
       "SetID": "41h3j82",
       "Name": "Trendy Selfies",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 186
     },
     {
       "ID": "18",
       "SetID": "41h3j82",
       "Name": "Exclusive Photoshoot",
       "Percentage": 0,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 0
     },
     {
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
       "Percentage": 16,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 496
     },
     {
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
       "Percentage": 48,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1488
     },
     {
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
       "Percentage": 26,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 806
     },
     {
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
       "Percentage": 16,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 496
     },
     {
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
       "Percentage": 26,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 806
     },
     {
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 713
     },
     {
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 806
     },
     {
       "ID": "8",
       "SetID": "41h3j82",
       "Name": "Hoverboard Race",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 310
     },
     {
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
       "Percentage": 52,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 1612
     }
   ],
   "Tags": [],
@@ -159,13 +178,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-04T22:06:37.4306159+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:41.7264327+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 31,
-  "LastUpdate_Achievements": "2023-05-04T22:06:37.4306367+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:44.6957937+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:41.726451+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:12.8524397+00:00",
   "AchievementSets": [
     {
       "ID": "41h3j82",

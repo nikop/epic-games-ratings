@@ -7,119 +7,136 @@
       "SetID": "5jhk6jb",
       "Name": "Explorer",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_COLLECTOR",
       "SetID": "5jhk6jb",
       "Name": "Collector",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_COMPLETE_GAME",
       "SetID": "5jhk6jb",
       "Name": "Interstellar Archeologist",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_COMPLETE_Z01",
       "SetID": "5jhk6jb",
       "Name": "Cadet Explorer",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_CONVERT_ENERGY",
       "SetID": "5jhk6jb",
       "Name": "Converter",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_DETENTION",
       "SetID": "5jhk6jb",
       "Name": "Locked up",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_ESCAPE_DETENTION",
       "SetID": "5jhk6jb",
       "Name": "Freedom!",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_EXTRACT_IRIS",
       "SetID": "5jhk6jb",
       "Name": "Resolute Explorer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_FROM_GOLD_TO_SILVER",
       "SetID": "5jhk6jb",
       "Name": "Behind the curtain",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_GET_BIA_TOOL",
       "SetID": "5jhk6jb",
       "Name": "Geared Up",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_GOLDEN_COUNCIL",
       "SetID": "5jhk6jb",
       "Name": "Council Meeting",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_LEAVE_IRIS",
       "SetID": "5jhk6jb",
       "Name": "Resilient Explorer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_OPEN_ZIQQURAT01",
       "SetID": "5jhk6jb",
       "Name": "It\u2019s been a while!",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_RAISE_OPIS_PILLAR",
       "SetID": "5jhk6jb",
       "Name": "The Sky\u0027s the ceiling!",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_REACH_IRIS_ROOM",
       "SetID": "5jhk6jb",
       "Name": "Down the Rabbit hole",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_TUTORIAL_COMPLETED",
       "SetID": "5jhk6jb",
       "Name": "Get the hang of it",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ID_WELCOME_TO_OPIS",
       "SetID": "5jhk6jb",
       "Name": "Welcome To Opis",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -140,13 +157,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-04T22:06:00.8504299+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:14.5225315+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T22:06:00.8504466+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:46.0583585+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:14.5225556+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:33.8574403+00:00",
   "AchievementSets": [
     {
       "ID": "5jhk6jb",
@@ -162,7 +179,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 331,
   "FirstSeenAchievements": "2023-04-25T16:15:25.4261709+00:00"

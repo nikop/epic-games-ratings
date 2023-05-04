@@ -1,4 +1,5 @@
 # Brownie
+[View Rawdata](../../db/b/brownie.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

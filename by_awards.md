@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 294,973 | 4.68 | 233 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,731 | 4.19 | 813 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 165,608 | 4.68 | 233 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 138,269 | 4.89 | 12 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 138,448 | 4.89 | 12 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 137,999 | 4.53 | 488 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 108,597 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,570 | 4.62 | 338 |
@@ -60,8 +60,8 @@
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,467 | 4.82 | 59 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,454 | 4.85 | 37 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,157 | 4.68 | 233 |
-| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,863 | 4.06 | 866 |
-| 61 | [Rogue Company](games/r/rogue_company.md) | 4,863 | 4.34 | 721 |
+| 61 | [Rogue Company](games/r/rogue_company.md) | 4,868 | 4.34 | 721 |
+| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,863 | 4.06 | 866 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,853 | 4.75 | 127 |
 | 64 | [MultiVersus](games/m/multiversus.md) | 4,736 | 4.56 | 447 |
 | 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,707 | 4.78 | 101 |
@@ -110,7 +110,7 @@
 | 108 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,754 | 3.99 | 879 |
 | 109 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,731 | 4.57 | 428 |
 | 110 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,730 | 4.63 | 328 |
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 1,623 | 4.76 | 113 |
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 1,624 | 4.76 | 113 |
 | 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,563 | 4.51 | 513 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,481 | 4.69 | 212 |
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,469 | 4.58 | 414 |
@@ -121,7 +121,7 @@
 | 119 | [DOOM 64](games/d/doom_64.md) | 1,286 | 4.66 | 272 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,260 | 4.81 | 71 |
 | 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,212 | 4.62 | 338 |
-| 122 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,206 | 4.86 | 28 |
+| 122 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,210 | 4.86 | 28 |
 | 123 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,172 | 4.69 | 212 |
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 1,136 | 4.55 | 466 |
 | 125 | [XCOM® 2](games/x/xcom®_2.md) | 1,133 | 4.55 | 466 |

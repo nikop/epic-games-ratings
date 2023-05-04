@@ -1,4 +1,5 @@
 # Nioh: The Complete Edition
+[View Rawdata](../../db/n/nioh__the_complete_edition.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 10,807  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 7,235  (Ranked 42)
 Sum: 16,779 (Ranked 56)  
 Diff (max vs sum): -14  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

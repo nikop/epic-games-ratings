@@ -1,35 +1,36 @@
 # Hotel Renovator
+[View Rawdata](../../db/h/hotel_renovator.json)  
 Rating: 4.48 (Ranked 563)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Good start | 76.00 |
-| And so it begins | 72.00 |
-| No pressure | 69.00 |
-| Memento | 61.00 |
-| Let there be light | 59.00 |
-| I think you dropped this | 55.00 |
-| Soulmate? | 52.00 |
-| Excellent service | 47.00 |
-| Roll with it | 45.00 |
-| Love is in the air | 43.00 |
-| Humble beginnings | 42.00 |
-| Moving up | 40.00 |
-| Fine, I'll do it myself | 39.00 |
-| No need to call anyone | 37.00 |
-| Big fortune | 31.00 |
-| Still more work ahead | 28.00 |
-| Hotel sleuthing | 26.00 |
-| Kaboom | 25.00 |
-| Aesop's fable | 25.00 |
-| Nearly there | 23.00 |
-| Broken heart | 21.00 |
-| Island boy | 20.00 |
-| You're a star | 18.00 |
-| Unstoppable | 17.00 |
-| Reunited | 16.00 |
-| King of hospitality | 11.00 |
-| Top spot in town | 3.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Good start | 76.00% | ~54,416 |
+| And so it begins | 72.00% | ~51,552 |
+| No pressure | 69.00% | ~49,404 |
+| Memento | 61.00% | ~43,676 |
+| Let there be light | 59.00% | ~42,244 |
+| I think you dropped this | 55.00% | ~39,380 |
+| Soulmate? | 52.00% | ~37,232 |
+| Excellent service | 47.00% | ~33,652 |
+| Roll with it | 45.00% | ~32,220 |
+| Love is in the air | 43.00% | ~30,788 |
+| Humble beginnings | 42.00% | ~30,072 |
+| Moving up | 40.00% | ~28,640 |
+| Fine, I'll do it myself | 39.00% | ~27,924 |
+| No need to call anyone | 37.00% | ~26,492 |
+| Big fortune | 31.00% | ~22,196 |
+| Still more work ahead | 28.00% | ~20,048 |
+| Hotel sleuthing | 26.00% | ~18,616 |
+| Kaboom | 25.00% | ~17,900 |
+| Aesop's fable | 25.00% | ~17,900 |
+| Nearly there | 23.00% | ~16,468 |
+| Broken heart | 21.00% | ~15,036 |
+| Island boy | 20.00% | ~14,320 |
+| You're a star | 18.00% | ~12,888 |
+| Unstoppable | 17.00% | ~12,172 |
+| Reunited | 16.00% | ~11,456 |
+| King of hospitality | 11.00% | ~7,876 |
+| Top spot in town | 3.00% | ~2,148 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 716 (Ranked 172)  
 Completed: 11 (1.54%) (Ranked 65)  

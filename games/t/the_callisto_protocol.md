@@ -1,45 +1,46 @@
 # The Callisto Protocol
+[View Rawdata](../../db/t/the_callisto_protocol.json)  
 Rating: 4.18 (Ranked 820)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 46  (Ranked 396)  
 Sum: 244 (Ranked 340)  
 Diff (max vs sum): 56  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Flesh Wound | 5.00 |
-| Paper Jams | 5.00 |
-| Get a Grip | 4.00 |
-| You Need a Gun | 3.00 |
-| Two Heads Are Better Than One | 3.00 |
-| Workplace Hazard | 3.00 |
-| Float Like A Butterfly | 3.00 |
-| The Outer Way | 3.00 |
-| Glutton for Punishment | 2.00 |
-| I Do Belong Here | 2.00 |
-| Parole Denied | 2.00 |
-| In Striking Distance | 2.00 |
-| Chew 'Em Up | 2.00 |
-| Terminated | 2.00 |
-| The Commonality | 2.00 |
-| Reforged | 2.00 |
-| Mugshot | 2.00 |
-| If the SHU Fits... | 2.00 |
-| Without A Paddle | 2.00 |
-| In the Pipe, Five by Five | 2.00 |
-| What Lies Beneath | 2.00 |
-| Desperate Times | 2.00 |
-| Crash Site | 2.00 |
-| Full Circle | 2.00 |
-| Power Up | 2.00 |
-| Giving Back | 1.00 |
-| You Belong Here | 1.00 |
-| Grim Reaper | 0.50 |
-| Armed to the Teeth | 0.30 |
-| Recidivist | 0.20 |
-| It's over, Jacob! | 0.10 |
-| The Protocol is About Life | 0.10 |
-| Lifer | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Flesh Wound | 5.00% | ~62,665 |
+| Paper Jams | 5.00% | ~62,665 |
+| Get a Grip | 4.00% | ~50,132 |
+| You Need a Gun | 3.00% | ~37,599 |
+| Two Heads Are Better Than One | 3.00% | ~37,599 |
+| Workplace Hazard | 3.00% | ~37,599 |
+| Float Like A Butterfly | 3.00% | ~37,599 |
+| The Outer Way | 3.00% | ~37,599 |
+| Glutton for Punishment | 2.00% | ~918 |
+| I Do Belong Here | 2.00% | ~25,066 |
+| Parole Denied | 2.00% | ~918 |
+| In Striking Distance | 2.00% | ~25,066 |
+| Chew 'Em Up | 2.00% | ~25,066 |
+| Terminated | 2.00% | ~25,066 |
+| The Commonality | 2.00% | ~25,066 |
+| Reforged | 2.00% | ~25,066 |
+| Mugshot | 2.00% | ~25,066 |
+| If the SHU Fits... | 2.00% | ~25,066 |
+| Without A Paddle | 2.00% | ~25,066 |
+| In the Pipe, Five by Five | 2.00% | ~25,066 |
+| What Lies Beneath | 2.00% | ~25,066 |
+| Desperate Times | 2.00% | ~25,066 |
+| Crash Site | 2.00% | ~25,066 |
+| Full Circle | 2.00% | ~25,066 |
+| Power Up | 2.00% | ~25,066 |
+| Giving Back | 1.00% | ~12,533 |
+| You Belong Here | 1.00% | ~459 |
+| Grim Reaper | 0.50% | ~6,266 |
+| Armed to the Teeth | 0.30% | ~138 |
+| Recidivist | 0.20% | ~92 |
+| It's over, Jacob! | 0.10% | ~1,253 |
+| The Protocol is About Life | 0.10% | ~1,253 |
+| Lifer | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,533 (Ranked 100)  
 Completed: 47 (0.38%) (Ranked 105)  

@@ -1,4 +1,5 @@
 # ENDLESS™ Dungeon
+[View Rawdata](../../db/e/endless™_dungeon.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

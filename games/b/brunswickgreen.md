@@ -1,4 +1,5 @@
 # BrunswickGreen
+[View Rawdata](../../db/b/brunswickgreen.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

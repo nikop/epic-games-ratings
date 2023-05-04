@@ -1,7 +1,8 @@
 # Lumote: The Mastermote Chronicles
+[View Rawdata](../../db/l/lumote__the_mastermote_chronicles.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,4 +1,5 @@
 # Path of Exile
+[View Rawdata](../../db/p/path_of_exile.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 3,102  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 2,459  (Ranked 90)
 Sum: 8,715 (Ranked 83)  
 Diff (max vs sum): 7  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

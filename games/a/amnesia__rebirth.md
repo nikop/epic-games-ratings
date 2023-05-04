@@ -1,4 +1,5 @@
 # Amnesia: Rebirth
+[View Rawdata](../../db/a/amnesia__rebirth.json)  
 Rating: 4.24 (Ranked 780)  
 Number of Ratings: 1,664  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 31  (Ranked 440)
 Sum: 135 (Ranked 381)  
 Diff (max vs sum): 59  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

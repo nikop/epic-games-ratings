@@ -7,133 +7,152 @@
       "SetID": "236b9eg",
       "Name": "So do we just stay up here, or?...",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3710
     },
     {
       "ID": "collect_dyes",
       "SetID": "236b9eg",
       "Name": "Nothing to Wear",
       "Percentage": 32,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 59360
     },
     {
       "ID": "complete_act_one",
       "SetID": "236b9eg",
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 51940
     },
     {
       "ID": "complete_act_three",
       "SetID": "236b9eg",
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 16695
     },
     {
       "ID": "complete_act_two",
       "SetID": "236b9eg",
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 15,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 27825
     },
     {
       "ID": "complete_tutorial",
       "SetID": "236b9eg",
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 163240
     },
     {
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
       "Percentage": 57,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 105735
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
       "Percentage": 79,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 146545
     },
     {
       "ID": "defeat_tree_dummy",
       "SetID": "236b9eg",
       "Name": "Do you feel like a tough guy?",
       "Percentage": 47,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 87185
     },
     {
       "ID": "fail_planet",
       "SetID": "236b9eg",
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 142835
     },
     {
       "ID": "piercing_beam",
       "SetID": "236b9eg",
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 14840
     },
     {
       "ID": "reach_heat",
       "SetID": "236b9eg",
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 76055
     },
     {
       "ID": "reach_high_heat",
       "SetID": "236b9eg",
       "Name": "Better Than the Devs",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 7420
     },
     {
       "ID": "save_planet",
       "SetID": "236b9eg",
       "Name": "Frogbot",
       "Percentage": 74,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 137270
     },
     {
       "ID": "save_planet_bestfriend",
       "SetID": "236b9eg",
       "Name": "Do you trust me?",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 29680
     },
     {
       "ID": "save_planet_coop",
       "SetID": "236b9eg",
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 46,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 85330
     },
     {
       "ID": "stick_decoy",
       "SetID": "236b9eg",
       "Name": "Stop Hitting Yourself!",
       "Percentage": 36,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 66780
     },
     {
       "ID": "stun_enemies",
       "SetID": "236b9eg",
       "Name": "Fun in the Stun",
       "Percentage": 57,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 105735
     },
     {
       "ID": "trash_truck",
       "SetID": "236b9eg",
       "Name": "Taking Out the Trash",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 12985
     }
   ],
   "Tags": [],
@@ -210,13 +229,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-04T22:07:01.4182802+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.3511358+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 6,
   "EOS_Progressed": 1855,
-  "LastUpdate_Achievements": "2023-05-04T22:07:01.4182961+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:19.3625704+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.3511545+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:14.3007133+00:00",
   "AchievementSets": [
     {
       "ID": "236b9eg",

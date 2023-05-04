@@ -1,7 +1,8 @@
 # Discovery Tour: Viking Age
+[View Rawdata](../../db/d/discovery_tour__viking_age.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

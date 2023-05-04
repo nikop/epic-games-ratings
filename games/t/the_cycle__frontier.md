@@ -1,4 +1,5 @@
 # The Cycle: Frontier
+[View Rawdata](../../db/t/the_cycle__frontier.json)  
 Rating: 4.10 (Ranked 850)  
 Number of Ratings: 15,671  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Combat): 2,259  (Ranked 96)
 Sum: 14,883 (Ranked 61)  
 Diff (max vs sum): 35  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

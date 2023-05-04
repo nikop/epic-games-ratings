@@ -1,4 +1,5 @@
 # Tiny Tina's Wonderlands
+[View Rawdata](../../db/t/tiny_tina's_wonderlands.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 20,753  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 18,157  (Ranked 19)
 Sum: 31,995 (Ranked 35)  
 Diff (max vs sum): -16  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

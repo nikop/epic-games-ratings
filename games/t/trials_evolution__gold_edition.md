@@ -1,9 +1,10 @@
 # Trials Evolution: Gold Edition
+[View Rawdata](../../db/t/trials_evolution__gold_edition.json)  
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

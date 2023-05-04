@@ -1,4 +1,5 @@
 # Subnautica Below Zero
+[View Rawdata](../../db/s/subnautica_below_zero.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 1,844  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 142  (Ranked 285)
 Sum: 1,077 (Ranked 224)  
 Diff (max vs sum): 61  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

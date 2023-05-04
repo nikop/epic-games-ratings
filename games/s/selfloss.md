@@ -1,4 +1,5 @@
 # Selfloss
+[View Rawdata](../../db/s/selfloss.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

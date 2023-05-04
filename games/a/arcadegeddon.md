@@ -1,4 +1,5 @@
 # Arcadegeddon
+[View Rawdata](../../db/a/arcadegeddon.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 801  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,58 +7,58 @@ Max (Relaxing): 62  (Ranked 373)
 Sum: 533 (Ranked 287)  
 Diff (max vs sum): 86  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Let's Get This Party Started | 91.00 |
-| Photogenic | 87.00 |
-| Surge Gauntlet Jockey | 85.00 |
-| Plug It In | 84.00 |
-| Adventure Time | 80.00 |
-| Playing With Power | 77.00 |
-| You're Fired | 59.00 |
-| Coup d'Etat | 58.00 |
-| Get Furious | 55.00 |
-| Gunplay And Cosplay | 54.00 |
-| Hacks In Stacks | 54.00 |
-| Meching Enemies | 49.00 |
-| Booty Bashing | 48.00 |
-| Ticket Toddler | 48.00 |
-| Here Comes a New Challenger | 37.00 |
-| Field Medic | 36.00 |
-| Guardian Angel | 34.00 |
-| Rapid Response | 32.00 |
-| The Full Monty | 32.00 |
-| Surge Ahead | 31.00 |
-| Poppin Noggins | 25.00 |
-| Clips and Crits | 24.00 |
-| Grey Goo | 21.00 |
-| Boss of Bosses | 15.00 |
-| The Final Blow | 15.00 |
-| Light My Fire | 14.00 |
-| Seasoned Adventurer | 13.00 |
-| 1.21 Gigawatts | 12.00 |
-| To Be Continued | 12.00 |
-| This Is My Boomstick! | 11.00 |
-| Get In The Ring! | 9.00 |
-| Ticket Titan | 8.00 |
-| Rescue Ranger | 6.00 |
-| Surge Gauntlet Scholar | 6.00 |
-| No Chill | 5.00 |
-| Stop Hitting Yourself | 5.00 |
-| Ground Control | 4.00 |
-| Team Player | 4.00 |
-| Treasure Hunting | 4.00 |
-| Event Horizon | 3.00 |
-| Master of Arms | 3.00 |
-| Start Your Collection | 3.00 |
-| Nexuwizard | 2.00 |
-| Nature Is Lit | 1.00 |
-| Everybody Freeze | 0.90 |
-| The Collector | 0.90 |
-| Shield and Shred | 0.70 |
-| I'm The Pluggernaut | 0.50 |
-| Infinite Adventures! | 0.50 |
-| Pyrotechnical | 0.20 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Let's Get This Party Started | 91.00% | ~562,198 |
+| Photogenic | 87.00% | ~537,486 |
+| Surge Gauntlet Jockey | 85.00% | ~525,130 |
+| Plug It In | 84.00% | ~518,952 |
+| Adventure Time | 80.00% | ~494,240 |
+| Playing With Power | 77.00% | ~475,706 |
+| You're Fired | 59.00% | ~364,502 |
+| Coup d'Etat | 58.00% | ~358,324 |
+| Get Furious | 55.00% | ~339,790 |
+| Gunplay And Cosplay | 54.00% | ~333,612 |
+| Hacks In Stacks | 54.00% | ~333,612 |
+| Meching Enemies | 49.00% | ~302,722 |
+| Booty Bashing | 48.00% | ~296,544 |
+| Ticket Toddler | 48.00% | ~296,544 |
+| Here Comes a New Challenger | 37.00% | ~228,586 |
+| Field Medic | 36.00% | ~222,408 |
+| Guardian Angel | 34.00% | ~210,052 |
+| Rapid Response | 32.00% | ~197,696 |
+| The Full Monty | 32.00% | ~197,696 |
+| Surge Ahead | 31.00% | ~191,518 |
+| Poppin Noggins | 25.00% | ~154,450 |
+| Clips and Crits | 24.00% | ~148,272 |
+| Grey Goo | 21.00% | ~129,738 |
+| Boss of Bosses | 15.00% | ~92,670 |
+| The Final Blow | 15.00% | ~92,670 |
+| Light My Fire | 14.00% | ~86,492 |
+| Seasoned Adventurer | 13.00% | ~80,314 |
+| 1.21 Gigawatts | 12.00% | ~74,136 |
+| To Be Continued | 12.00% | ~74,136 |
+| This Is My Boomstick! | 11.00% | ~67,958 |
+| Get In The Ring! | 9.00% | ~55,602 |
+| Ticket Titan | 8.00% | ~49,424 |
+| Rescue Ranger | 6.00% | ~37,068 |
+| Surge Gauntlet Scholar | 6.00% | ~37,068 |
+| No Chill | 5.00% | ~30,890 |
+| Stop Hitting Yourself | 5.00% | ~30,890 |
+| Ground Control | 4.00% | ~24,712 |
+| Team Player | 4.00% | ~24,712 |
+| Treasure Hunting | 4.00% | ~24,712 |
+| Event Horizon | 3.00% | ~18,534 |
+| Master of Arms | 3.00% | ~18,534 |
+| Start Your Collection | 3.00% | ~18,534 |
+| Nexuwizard | 2.00% | ~12,356 |
+| Nature Is Lit | 1.00% | ~6,178 |
+| Everybody Freeze | 0.90% | ~5,560 |
+| The Collector | 0.90% | ~5,560 |
+| Shield and Shred | 0.70% | ~4,325 |
+| I'm The Pluggernaut | 0.50% | ~3,089 |
+| Infinite Adventures! | 0.50% | ~3,089 |
+| Pyrotechnical | 0.20% | ~1,236 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,178 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 191)  

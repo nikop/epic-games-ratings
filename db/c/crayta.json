@@ -7,238 +7,272 @@
       "SetID": "4i9cj6f",
       "Name": "Getting Equipped!",
       "Percentage": 0.4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 43700
     },
     {
       "ID": "10",
       "SetID": "4i9cj6f",
       "Name": "These Are a Few of My Favorite Things - Gold",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10925
     },
     {
       "ID": "11",
       "SetID": "4i9cj6f",
       "Name": "Standing on the Shoulders of Giants - Bronze",
       "Percentage": 0.6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 65550
     },
     {
       "ID": "12",
       "SetID": "4i9cj6f",
       "Name": "Standing on the Shoulders of Giants - Silver",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21850
     },
     {
       "ID": "13",
       "SetID": "4i9cj6f",
       "Name": "Standing on the Shoulders of Giants - Gold",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10925
     },
     {
       "ID": "14",
       "SetID": "4i9cj6f",
       "Name": "Getting Friendly",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 546250
     },
     {
       "ID": "15",
       "SetID": "4i9cj6f",
       "Name": "Getting Creative - Bronze",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 32775
     },
     {
       "ID": "16",
       "SetID": "4i9cj6f",
       "Name": "Getting Creative - Silver",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21850
     },
     {
       "ID": "17",
       "SetID": "4i9cj6f",
       "Name": "Getting Creative - Gold",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10925
     },
     {
       "ID": "18",
       "SetID": "4i9cj6f",
       "Name": "Building Block - Bronze",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 437000
     },
     {
       "ID": "19",
       "SetID": "4i9cj6f",
       "Name": "Building Block - Silver",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 218500
     },
     {
       "ID": "2",
       "SetID": "4i9cj6f",
       "Name": "Reap the Rewards!",
       "Percentage": 0.3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 32775
     },
     {
       "ID": "20",
       "SetID": "4i9cj6f",
       "Name": "Building Block - Gold",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 109250
     },
     {
       "ID": "21",
       "SetID": "4i9cj6f",
       "Name": "Grouping Up - Bronze",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 109250
     },
     {
       "ID": "22",
       "SetID": "4i9cj6f",
       "Name": "Grouping Up - Silver",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 32775
     },
     {
       "ID": "23",
       "SetID": "4i9cj6f",
       "Name": "Grouping Up - Gold",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10925
     },
     {
       "ID": "24",
       "SetID": "4i9cj6f",
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1420250
     },
     {
       "ID": "25",
       "SetID": "4i9cj6f",
       "Name": "Variety Player - Silver",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 437000
     },
     {
       "ID": "26",
       "SetID": "4i9cj6f",
       "Name": "Variety Player - Gold",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 54625
     },
     {
       "ID": "29",
       "SetID": "4i9cj6f",
       "Name": "Going Public!",
       "Percentage": 0.6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 65550
     },
     {
       "ID": "3",
       "SetID": "4i9cj6f",
       "Name": "Community Creativity",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 109250
     },
     {
       "ID": "30",
       "SetID": "4i9cj6f",
       "Name": "Featured Gamer - Bronze",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 21850
     },
     {
       "ID": "31",
       "SetID": "4i9cj6f",
       "Name": "Featured Gamer - Silver",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10925
     },
     {
       "ID": "32",
       "SetID": "4i9cj6f",
       "Name": "Featured Gamer - Gold",
       "Percentage": 0.1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10925
     },
     {
       "ID": "33",
       "SetID": "4i9cj6f",
       "Name": "Well Socialised!",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2512750
     },
     {
       "ID": "34",
       "SetID": "4i9cj6f",
       "Name": "Challenge Apprentice",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 546250
     },
     {
       "ID": "35",
       "SetID": "4i9cj6f",
       "Name": "Challenge Master",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 54625
     },
     {
       "ID": "36",
       "SetID": "4i9cj6f",
       "Name": "Shared!",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 109250
     },
     {
       "ID": "39",
       "SetID": "4i9cj6f",
       "Name": "Challenge Veteran",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 218500
     },
     {
       "ID": "4",
       "SetID": "4i9cj6f",
       "Name": "Express Yourself - Silver",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 218500
     },
     {
       "ID": "5",
       "SetID": "4i9cj6f",
       "Name": "Express Yourself - Gold",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 21850
     },
     {
       "ID": "6",
       "SetID": "4i9cj6f",
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 764750
     },
     {
       "ID": "7",
       "SetID": "4i9cj6f",
       "Name": "These Are a Few of My Favorite Things - Silver",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21850
     },
     {
       "ID": "9",
       "SetID": "4i9cj6f",
       "Name": "These Are a Few of My Favorite Things - Bronze",
       "Percentage": 0.7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 76475
     }
   ],
   "Tags": [
@@ -763,13 +797,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-04T22:05:56.5519905+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:11.4436261+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 5,
   "EOS_Progressed": 109250,
-  "LastUpdate_Achievements": "2023-05-04T22:05:56.5520232+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:41.6876316+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:11.4436763+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:31.0743829+00:00",
   "AchievementSets": [
     {
       "ID": "4i9cj6f",
@@ -786,7 +820,7 @@
   "NumberOfAwards": 370,
   "NumberOfRatings": 94,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 57,
   "Ranking_PopularitySum": 307,

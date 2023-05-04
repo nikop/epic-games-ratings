@@ -1,31 +1,32 @@
 # Disney Speedstorm
+[View Rawdata](../../db/d/disney_speedstorm.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| ROOKIE | 51.00 |
-| EXTRA BOOST | 39.00 |
-| IT MAKES BOOM! | 39.00 |
-| PRO | 29.00 |
-| PROTECTED | 26.00 |
-| A TIGER'S FEAR | 26.00 |
-| HERE ARE SOME BARE NECESSITIES | 26.00 |
-| AGGRESSIVE RACER | 26.00 |
-| ACE SPEEDSTER | 16.00 |
-| IT'S A LONG WAY TO THE TOP | 12.00 |
-| DEFEAT OUR CHAMPION | 8.00 |
-| RELEASE THE KRAKEN | 6.00 |
-| THE EYE OF THE HUNTER | 6.00 |
-| ACE DEFENDER | 5.00 |
-| LEGENDARY HERO | 4.00 |
-| ACE BRAWLER | 3.00 |
-| TRAINING HARD | 2.00 |
-| ACE TRICKSTER | 2.00 |
-| EXPERIENCED CREW | 1.00 |
-| BE OUR GUEST | 0.70 |
-| FRAMED! | 0.50 |
-| FRIENDLY | 0.50 |
-| PERFECTLY POISED | 0.10 |
-| MASTER | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| ROOKIE | 51.00% | ~117,402 |
+| EXTRA BOOST | 39.00% | ~89,778 |
+| IT MAKES BOOM! | 39.00% | ~89,778 |
+| PRO | 29.00% | ~66,758 |
+| PROTECTED | 26.00% | ~59,852 |
+| A TIGER'S FEAR | 26.00% | ~59,852 |
+| HERE ARE SOME BARE NECESSITIES | 26.00% | ~59,852 |
+| AGGRESSIVE RACER | 26.00% | ~59,852 |
+| ACE SPEEDSTER | 16.00% | ~36,832 |
+| IT'S A LONG WAY TO THE TOP | 12.00% | ~27,624 |
+| DEFEAT OUR CHAMPION | 8.00% | ~18,416 |
+| RELEASE THE KRAKEN | 6.00% | ~13,812 |
+| THE EYE OF THE HUNTER | 6.00% | ~13,812 |
+| ACE DEFENDER | 5.00% | ~11,510 |
+| LEGENDARY HERO | 4.00% | ~9,208 |
+| ACE BRAWLER | 3.00% | ~6,906 |
+| TRAINING HARD | 2.00% | ~4,604 |
+| ACE TRICKSTER | 2.00% | ~4,604 |
+| EXPERIENCED CREW | 1.00% | ~2,302 |
+| BE OUR GUEST | 0.70% | ~1,611 |
+| FRAMED! | 0.50% | ~1,151 |
+| FRIENDLY | 0.50% | ~1,151 |
+| PERFECTLY POISED | 0.10% | ~230 |
+| MASTER | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,302 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 191)  

@@ -7,294 +7,336 @@
       "SetID": "c4hee28",
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 36864
     },
     {
       "ID": "AceDetective_9",
       "SetID": "c4hee28",
       "Name": "Ace Detective",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 18432
     },
     {
       "ID": "AncestorsPride_13",
       "SetID": "c4hee28",
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 11520
     },
     {
       "ID": "ApexPredator_27",
       "SetID": "c4hee28",
       "Name": "Apex Predator",
       "Percentage": 16,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 36864
     },
     {
       "ID": "BloodAndJustice_50",
       "SetID": "c4hee28",
       "Name": "Blood and justice",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 13824
     },
     {
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
       "Percentage": 43,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 99072
     },
     {
       "ID": "CrowdPleaser",
       "SetID": "c4hee28",
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4608
     },
     {
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 46080
     },
     {
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 71424
     },
     {
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
       "Percentage": 22,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 50688
     },
     {
       "ID": "ForAllAurai_8",
       "SetID": "c4hee28",
       "Name": "For All Aurai",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9216
     },
     {
       "ID": "GiftfromtheAncestors_34",
       "SetID": "c4hee28",
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 18432
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
       "SetID": "c4hee28",
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 13824
     },
     {
       "ID": "HomeSweetHome_25",
       "SetID": "c4hee28",
       "Name": "Home Sweet Home",
       "Percentage": 22,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 50688
     },
     {
       "ID": "HouseofCards_19",
       "SetID": "c4hee28",
       "Name": "House of Cards",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16128
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
       "SetID": "c4hee28",
       "Name": "Legacy of a master hunter",
       "Percentage": 0.4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 922
     },
     {
       "ID": "LetEmEatMagma",
       "SetID": "c4hee28",
       "Name": "Let \u2018em eat magma!",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 18432
     },
     {
       "ID": "LightofLevant_18",
       "SetID": "c4hee28",
       "Name": "Light of Levant",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6912
     },
     {
       "ID": "MagicIsaScience_58",
       "SetID": "c4hee28",
       "Name": "Magic is a science",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 18432
     },
     {
       "ID": "MasterofAurai_20",
       "SetID": "c4hee28",
       "Name": "Master of Aurai",
       "Percentage": 0.3,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 691
     },
     {
       "ID": "MemoryOfALegend_51",
       "SetID": "c4hee28",
       "Name": "Memory of a legend",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9216
     },
     {
       "ID": "PerfectDefense_31",
       "SetID": "c4hee28",
       "Name": "Perfect Defense",
       "Percentage": 2,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 4608
     },
     {
       "ID": "PowerToThePeople",
       "SetID": "c4hee28",
       "Name": "Power! To! The People!",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 4608
     },
     {
       "ID": "ReadyforSummer_41",
       "SetID": "c4hee28",
       "Name": "Ready for Summer",
       "Percentage": 51,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 117504
     },
     {
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
       "Percentage": 64,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 147456
     },
     {
       "ID": "ScienceTroglodyte_29",
       "SetID": "c4hee28",
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 52992
     },
     {
       "ID": "ScourgeSlayer_26",
       "SetID": "c4hee28",
       "Name": "Scourge Slayer",
       "Percentage": 25,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 57600
     },
     {
       "ID": "StrangeAmalgams_53",
       "SetID": "c4hee28",
       "Name": "Strange amalgams",
       "Percentage": 13,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 29952
     },
     {
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
       "Percentage": 35,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 80640
     },
     {
       "ID": "TheAbsolutePinnacle",
       "SetID": "c4hee28",
       "Name": "The Absolute Pinnacle.",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 691
     },
     {
       "ID": "TheBloodIsLife_54",
       "SetID": "c4hee28",
       "Name": "The blood is life",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2304
     },
     {
       "ID": "ThePowerOfAmbition_45",
       "SetID": "c4hee28",
       "Name": "The power of ambition",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16128
     },
     {
       "ID": "ThePowerofFaith_4",
       "SetID": "c4hee28",
       "Name": "The Power of Faith",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 29952
     },
     {
       "ID": "ThePowerofFamily_2",
       "SetID": "c4hee28",
       "Name": "The Power of Family",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 36864
     },
     {
       "ID": "ThePowerofFreedom_3",
       "SetID": "c4hee28",
       "Name": "The Power of Freedom",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 20736
     },
     {
       "ID": "TheStuffOfLegends",
       "SetID": "c4hee28",
       "Name": "The stuff of legends.",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16128
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
       "SetID": "c4hee28",
       "Name": "They\u0027ll Tell Stories About This",
       "Percentage": 1,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 2304
     },
     {
       "ID": "ThisWasAMistake",
       "SetID": "c4hee28",
       "Name": "This was a mistake...",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6912
     },
     {
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
       "Percentage": 0.8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1843
     },
     {
       "ID": "VanquisherOfNightmares_52",
       "SetID": "c4hee28",
       "Name": "Vanquisher of nightmares",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2304
     },
     {
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
       "Percentage": 74,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 170496
     },
     {
       "ID": "YourActionsDefineYou_49",
       "SetID": "c4hee28",
       "Name": "Your actions define you",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4608
     }
   ],
   "Tags": [
@@ -937,13 +979,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-04T22:06:22.6954121+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:30.5523993+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 30,
   "EOS_Completed": 1,
   "EOS_Progressed": 2304,
-  "LastUpdate_Achievements": "2023-05-04T22:06:22.6954474+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:02.6176555+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:30.5524359+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:05.0117446+00:00",
   "AchievementSets": [
     {
       "ID": "c4hee28",

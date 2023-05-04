@@ -1,4 +1,5 @@
 # Darksiders Warmastered Edition
+[View Rawdata](../../db/d/darksiders_warmastered_edition.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 721  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 74  (Ranked 351)
 Sum: 74 (Ranked 409)  
 Diff (max vs sum): -58  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

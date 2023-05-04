@@ -1,4 +1,5 @@
 # Just Die Already
+[View Rawdata](../../db/j/just_die_already.json)  
 Rating: 4.52 (Ranked 499)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 99  (Ranked 321)
 Sum: 714 (Ranked 257)  
 Diff (max vs sum): 64  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

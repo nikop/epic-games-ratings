@@ -1,37 +1,38 @@
 # Astalon -Tears of the Earth-
+[View Rawdata](../../db/a/astalon_-tears_of_the_earth-.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Horn prize! | 46.00 |
-| Beast Quest | 33.00 |
-| Monster Hunt | 33.00 |
-| Orb Gatherer | 31.00 |
-| Beast Hunter | 31.00 |
-| Space worm! | 31.00 |
-| Vanquisher! | 29.00 |
-| Orb Collector | 29.00 |
-| Snakehead! | 29.00 |
-| Unmasked! | 29.00 |
-| Fly, you fool! | 29.00 |
-| Loot, loot! | 29.00 |
-| Beast Knight | 27.00 |
-| Twin slayer! | 27.00 |
-| Mercenary! | 27.00 |
-| God of the Tower! | 25.00 |
-| Relic Collector | 25.00 |
-| Cartographer | 25.00 |
-| Wizard Mastery | 19.00 |
-| Rogue Mastery | 17.00 |
-| Fighter Mastery | 15.00 |
-| Slay the Monster! | 15.00 |
-| Gorgonslayer Mastery | 13.00 |
-| Built for adventure | 13.00 |
-| Collector Mastery | 13.00 |
-| Destoy all monsters! | 13.00 |
-| True Black Knight | 10.00 |
-| Freedom Monster | 8.00 |
-| No match for me! | 4.00 |
-| True Titan | 4.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Horn prize! | 46.00% | ~2,392 |
+| Beast Quest | 33.00% | ~1,716 |
+| Monster Hunt | 33.00% | ~1,716 |
+| Orb Gatherer | 31.00% | ~1,612 |
+| Beast Hunter | 31.00% | ~1,612 |
+| Space worm! | 31.00% | ~1,612 |
+| Vanquisher! | 29.00% | ~1,508 |
+| Orb Collector | 29.00% | ~1,508 |
+| Snakehead! | 29.00% | ~1,508 |
+| Unmasked! | 29.00% | ~1,508 |
+| Fly, you fool! | 29.00% | ~1,508 |
+| Loot, loot! | 29.00% | ~1,508 |
+| Beast Knight | 27.00% | ~1,404 |
+| Twin slayer! | 27.00% | ~1,404 |
+| Mercenary! | 27.00% | ~1,404 |
+| God of the Tower! | 25.00% | ~1,300 |
+| Relic Collector | 25.00% | ~1,300 |
+| Cartographer | 25.00% | ~1,300 |
+| Wizard Mastery | 19.00% | ~988 |
+| Rogue Mastery | 17.00% | ~884 |
+| Fighter Mastery | 15.00% | ~780 |
+| Slay the Monster! | 15.00% | ~780 |
+| Gorgonslayer Mastery | 13.00% | ~676 |
+| Built for adventure | 13.00% | ~676 |
+| Collector Mastery | 13.00% | ~676 |
+| Destoy all monsters! | 13.00% | ~676 |
+| True Black Knight | 10.00% | ~520 |
+| Freedom Monster | 8.00% | ~416 |
+| No match for me! | 4.00% | ~208 |
+| True Titan | 4.00% | ~208 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 271)  
 Completed: 2 (3.85%) (Ranked 33)  

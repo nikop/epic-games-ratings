@@ -1,4 +1,5 @@
 # Hood: Outlaws & Legends
+[View Rawdata](../../db/h/hood__outlaws_&_legends.json)  
 Rating: 3.99 (Ranked 879)  
 Number of Ratings: 12,539  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 367  (Ranked 205)
 Sum: 2,361 (Ranked 168)  
 Diff (max vs sum): 37  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

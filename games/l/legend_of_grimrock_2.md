@@ -1,7 +1,8 @@
 # Legend of Grimrock 2
+[View Rawdata](../../db/l/legend_of_grimrock_2.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

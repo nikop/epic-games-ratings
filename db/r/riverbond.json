@@ -7,399 +7,456 @@
       "SetID": "1mk7d95",
       "Name": "AAARR!",
       "Percentage": 23,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 11857075
     },
     {
       "ID": "10",
       "SetID": "1mk7d95",
       "Name": "Riverborn",
       "Percentage": 45,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 23198625
     },
     {
       "ID": "11",
       "SetID": "1mk7d95",
       "Name": "First Step",
       "Percentage": 70,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 36086750
     },
     {
       "ID": "12",
       "SetID": "1mk7d95",
       "Name": "Wind At Our Backs",
       "Percentage": 22,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 11341550
     },
     {
       "ID": "13",
       "SetID": "1mk7d95",
       "Name": "Keep On Trucking",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6701825
     },
     {
       "ID": "14",
       "SetID": "1mk7d95",
       "Name": "Going on an Adventure",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5670775
     },
     {
       "ID": "15",
       "SetID": "1mk7d95",
       "Name": "Walking The Line",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5155250
     },
     {
       "ID": "16",
       "SetID": "1mk7d95",
       "Name": "Road Less Travelled",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4639725
     },
     {
       "ID": "17",
       "SetID": "1mk7d95",
       "Name": "Moving On Up",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3093150
     },
     {
       "ID": "18",
       "SetID": "1mk7d95",
       "Name": "To Victory!",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7732875
     },
     {
       "ID": "19",
       "SetID": "1mk7d95",
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 31962550
     },
     {
       "ID": "2",
       "SetID": "1mk7d95",
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 5155250
     },
     {
       "ID": "20",
       "SetID": "1mk7d95",
       "Name": "Talk of the Town",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 12372600
     },
     {
       "ID": "21",
       "SetID": "1mk7d95",
       "Name": "Make Peace, Not War",
       "Percentage": 11,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5670775
     },
     {
       "ID": "22",
       "SetID": "1mk7d95",
       "Name": "Lost and Found",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4639725
     },
     {
       "ID": "23",
       "SetID": "1mk7d95",
       "Name": "Partner in Crime",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3608675
     },
     {
       "ID": "24",
       "SetID": "1mk7d95",
       "Name": "Privacy, Please!",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2062100
     },
     {
       "ID": "25",
       "SetID": "1mk7d95",
       "Name": "Owl Knows Best",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3093150
     },
     {
       "ID": "26",
       "SetID": "1mk7d95",
       "Name": "Mind the Moose",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3093150
     },
     {
       "ID": "27",
       "SetID": "1mk7d95",
       "Name": "Silky Smooth",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2062100
     },
     {
       "ID": "28",
       "SetID": "1mk7d95",
       "Name": "Talk the Talk",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1546575
     },
     {
       "ID": "29",
       "SetID": "1mk7d95",
       "Name": "Hash It Over",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2062100
     },
     {
       "ID": "3",
       "SetID": "1mk7d95",
       "Name": "Oh, Romeo!",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2577625
     },
     {
       "ID": "30",
       "SetID": "1mk7d95",
       "Name": "Seek the Rainbow",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1031050
     },
     {
       "ID": "31",
       "SetID": "1mk7d95",
       "Name": "Words of Truth",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 515525
     },
     {
       "ID": "32",
       "SetID": "1mk7d95",
       "Name": "Hard to Hear",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3608675
     },
     {
       "ID": "33",
       "SetID": "1mk7d95",
       "Name": "Noble Intentions",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2577625
     },
     {
       "ID": "34",
       "SetID": "1mk7d95",
       "Name": "Biting Tongue",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2062100
     },
     {
       "ID": "35",
       "SetID": "1mk7d95",
       "Name": "Window Dressing",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 25776250
     },
     {
       "ID": "36",
       "SetID": "1mk7d95",
       "Name": "Sunday Best",
       "Percentage": 15,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7732875
     },
     {
       "ID": "37",
       "SetID": "1mk7d95",
       "Name": "Dressed to Kill",
       "Percentage": 6,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3093150
     },
     {
       "ID": "38",
       "SetID": "1mk7d95",
       "Name": "Skin in the Game",
       "Percentage": 3,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 1546575
     },
     {
       "ID": "39",
       "SetID": "1mk7d95",
       "Name": "Starry Eyed",
       "Percentage": 34,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 17527850
     },
     {
       "ID": "4",
       "SetID": "1mk7d95",
       "Name": "Beast Mode",
       "Percentage": 6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3093150
     },
     {
       "ID": "40",
       "SetID": "1mk7d95",
       "Name": "Rising Star",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2577625
     },
     {
       "ID": "41",
       "SetID": "1mk7d95",
       "Name": "Star Power",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1031050
     },
     {
       "ID": "42",
       "SetID": "1mk7d95",
       "Name": "Written in the Stars",
       "Percentage": 0.9,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 463972
     },
     {
       "ID": "43",
       "SetID": "1mk7d95",
       "Name": "Sunny Shores",
       "Percentage": 17,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 8763925
     },
     {
       "ID": "44",
       "SetID": "1mk7d95",
       "Name": "Under the Radar",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3608675
     },
     {
       "ID": "45",
       "SetID": "1mk7d95",
       "Name": "Caving In",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1546575
     },
     {
       "ID": "46",
       "SetID": "1mk7d95",
       "Name": "Page Turner",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1546575
     },
     {
       "ID": "47",
       "SetID": "1mk7d95",
       "Name": "Steel Yourself",
       "Percentage": 62,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 31962550
     },
     {
       "ID": "48",
       "SetID": "1mk7d95",
       "Name": "To the Beat",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 10310500
     },
     {
       "ID": "49",
       "SetID": "1mk7d95",
       "Name": "Poking Around",
       "Percentage": 34,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 17527850
     },
     {
       "ID": "5",
       "SetID": "1mk7d95",
       "Name": "What a Catch!",
       "Percentage": 4,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 2062100
     },
     {
       "ID": "50",
       "SetID": "1mk7d95",
       "Name": "Two of a Kind",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7217350
     },
     {
       "ID": "51",
       "SetID": "1mk7d95",
       "Name": "Hit the Spot",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2062100
     },
     {
       "ID": "52",
       "SetID": "1mk7d95",
       "Name": "Trigger Happy",
       "Percentage": 46,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 23714150
     },
     {
       "ID": "53",
       "SetID": "1mk7d95",
       "Name": "Hello Darkness",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 11857075
     },
     {
       "ID": "54",
       "SetID": "1mk7d95",
       "Name": "Don\u0027t Care",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 515525
     },
     {
       "ID": "55",
       "SetID": "1mk7d95",
       "Name": "Slime Slayer",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2577625
     },
     {
       "ID": "56",
       "SetID": "1mk7d95",
       "Name": "Point Taken",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 51552
     },
     {
       "ID": "57",
       "SetID": "1mk7d95",
       "Name": "Spinal Adjustment",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1546575
     },
     {
       "ID": "6",
       "SetID": "1mk7d95",
       "Name": "The Knowledge",
       "Percentage": 3,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1546575
     },
     {
       "ID": "7",
       "SetID": "1mk7d95",
       "Name": "Don\u2019t Get Crabby",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 515525
     },
     {
       "ID": "8",
       "SetID": "1mk7d95",
       "Name": "Justice Served",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1031050
     },
     {
       "ID": "9",
       "SetID": "1mk7d95",
       "Name": "Boss of All Bosses",
       "Percentage": 0.3,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 154658
     }
   ],
   "Tags": [],
@@ -1458,6 +1515,11 @@
       "Time": "2023-05-04T22:06:23.438365+00:00",
       "NumProgressed": 515522,
       "NumCompleted": 400
+    },
+    {
+      "Time": "2023-05-04T22:24:31.3942645+00:00",
+      "NumProgressed": 515525,
+      "NumCompleted": 400
     }
   ],
   "RatingHistory": [
@@ -1918,18 +1980,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-04T22:06:23.4383643+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:31.3942638+00:00",
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 744,
   "EOS_Completed": 400,
-  "EOS_Progressed": 515522,
-  "LastUpdate_Achievements": "2023-05-04T22:06:23.4384692+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:37.0267901+00:00",
+  "EOS_Progressed": 515525,
+  "LastUpdate_Achievements": "2023-05-04T22:24:31.3943315+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:49.3158219+00:00",
   "AchievementSets": [
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 515522,
+      "Progressed": 515525,
       "Completed": 400
     }
   ],

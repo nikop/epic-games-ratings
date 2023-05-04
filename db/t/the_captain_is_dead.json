@@ -7,252 +7,288 @@
       "SetID": "5ci5dh3",
       "Name": "Alien Trapper",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "blapod",
       "SetID": "5ci5dh3",
       "Name": "The Obsidian Pod",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "comori",
       "SetID": "5ci5dh3",
       "Name": "The Kobayashi Star",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "conpro",
       "SetID": "5ci5dh3",
       "Name": "Continuum Protectorate Peace Prize",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "crinov",
       "SetID": "5ci5dh3",
       "Name": "The Crimson Nova",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "eyepro",
       "SetID": "5ci5dh3",
       "Name": "The Eye of Providence",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "golhyp",
       "SetID": "5ci5dh3",
       "Name": "The Golden Hyperwrench",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "hexleg",
       "SetID": "5ci5dh3",
       "Name": "Hexagon of Legendary Destruction",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "honspa",
       "SetID": "5ci5dh3",
       "Name": "Honorary Space Hound",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "impexc",
       "SetID": "5ci5dh3",
       "Name": "Improvisational Excellence Award",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "krahon",
       "SetID": "5ci5dh3",
       "Name": "Krangon Honor Badge",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "masmec",
       "SetID": "5ci5dh3",
       "Name": "Master of Mechanisms",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "medadm",
       "SetID": "5ci5dh3",
       "Name": "Medallion of the Admiralty",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "medext",
       "SetID": "5ci5dh3",
       "Name": "Medal of Extreme Valor",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "medqua",
       "SetID": "5ci5dh3",
       "Name": "Medal of Quantum Mastery",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "medult",
       "SetID": "5ci5dh3",
       "Name": "Medal of Ultimate Valor",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "medval",
       "SetID": "5ci5dh3",
       "Name": "Medal of Valor",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "memtit",
       "SetID": "5ci5dh3",
       "Name": "Member of the Titanium Legion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ordcub",
       "SetID": "5ci5dh3",
       "Name": "Order of the Cube",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "phosta",
       "SetID": "5ci5dh3",
       "Name": "The Photonic Sigil",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "plaves",
       "SetID": "5ci5dh3",
       "Name": "The Platinum Vessel",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "purcro",
       "SetID": "5ci5dh3",
       "Name": "The Purple Cross",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "riscom",
       "SetID": "5ci5dh3",
       "Name": "Rising Comet",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "schach",
       "SetID": "5ci5dh3",
       "Name": "Scholastic Achievement Commendation",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "seapol",
       "SetID": "5ci5dh3",
       "Name": "The Seal of Polaris",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "seatel",
       "SetID": "5ci5dh3",
       "Name": "Seal of Teleportation Excellence",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "seavol",
       "SetID": "5ci5dh3",
       "Name": "Seal of The Volkan Science Directorate",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "silshi",
       "SetID": "5ci5dh3",
       "Name": "The Silver Shield",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "stashi",
       "SetID": "5ci5dh3",
       "Name": "The Starshield",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "steecl",
       "SetID": "5ci5dh3",
       "Name": "The Stellar Eclipse",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "strcom",
       "SetID": "5ci5dh3",
       "Name": "Straegic Command Initiative Award",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "swocon",
       "SetID": "5ci5dh3",
       "Name": "The Swooping Condor",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "swozed",
       "SetID": "5ci5dh3",
       "Name": "The Swords of Zeddicas",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "tacdec",
       "SetID": "5ci5dh3",
       "Name": "Tactical Deception Merit",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "trithr",
       "SetID": "5ci5dh3",
       "Name": "The Triple Threat",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "windag",
       "SetID": "5ci5dh3",
       "Name": "The Winged Dagger",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -260,13 +296,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T22:06:25.0211897+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:32.5377324+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:25.0212166+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:56.9696474+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:32.5377756+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:02.0384781+00:00",
   "AchievementSets": [
     {
       "ID": "5ci5dh3",
@@ -277,7 +313,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:46:02.588189+00:00"

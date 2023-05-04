@@ -1,7 +1,8 @@
 # Chicken Police - Paint it Red!
+[View Rawdata](../../db/c/chicken_police_-_paint_it_red!.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

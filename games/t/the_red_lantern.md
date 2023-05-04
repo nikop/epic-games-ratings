@@ -1,8 +1,9 @@
 # The Red Lantern
+[View Rawdata](../../db/t/the_red_lantern.json)  
 Rating: 4.70 (Ranked 192)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,4 +1,5 @@
 # The Walking Dead : The Definitive Series
+[View Rawdata](../../db/t/the_walking_dead___the_definitive_series.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 663  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Impact the Story): 458  (Ranked 186)
 Sum: 641 (Ranked 271)  
 Diff (max vs sum): -85  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

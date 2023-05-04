@@ -7,105 +7,120 @@
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
       "Percentage": 74,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5032
     },
     {
       "ID": "ACH_ANOTHER_BRICK_2",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 2)",
       "Percentage": 51,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3468
     },
     {
       "ID": "ACH_ANOTHER_BRICK_3",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 3)",
       "Percentage": 41,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2788
     },
     {
       "ID": "ACH_ANYBODY_THERE",
       "SetID": "5kae3ip",
       "Name": "Is There Anybody Out There?",
       "Percentage": 96,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 6528
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
       "SetID": "5kae3ip",
       "Name": "Biding My Time",
       "Percentage": 46,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3128
     },
     {
       "ID": "ACH_BURNING_BRIDGES",
       "SetID": "5kae3ip",
       "Name": "Burning Bridges",
       "Percentage": 32,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
       "Percentage": 90,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 6120
     },
     {
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
       "Percentage": 63,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4284
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
       "SetID": "5kae3ip",
       "Name": "The Dogs of War",
       "Percentage": 13,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
       "Percentage": 56,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3808
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
       "SetID": "5kae3ip",
       "Name": "The Gunner\u0027s Dream",
       "Percentage": 44,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2992
     },
     {
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
       "Percentage": 63,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4284
     },
     {
       "ID": "ACH_KING_BEE",
       "SetID": "5kae3ip",
       "Name": "I\u0027m a King Bee",
       "Percentage": 9,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_LAST_FEW_BRICK",
       "SetID": "5kae3ip",
       "Name": "The Last Few Bricks",
       "Percentage": 32,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH_WHAT_DO",
       "SetID": "5kae3ip",
       "Name": "What Shall We Do Now?",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 204
     }
   ],
   "Tags": [],
@@ -131,13 +146,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:06:01.609787+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:15.1354247+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 68,
-  "LastUpdate_Achievements": "2023-05-04T22:06:01.6098123+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:42.4640147+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:15.1354642+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:52.697625+00:00",
   "AchievementSets": [
     {
       "ID": "5kae3ip",

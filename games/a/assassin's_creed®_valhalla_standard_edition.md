@@ -1,13 +1,14 @@
 # Assassin's Creed® Valhalla Standard Edition
+[View Rawdata](../../db/a/assassin's_creed®_valhalla_standard_edition.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 12,317  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 11,676  (Ranked 29)  
-Sum: 27,061 (Ranked 39)  
+Sum: 27,062 (Ranked 39)  
 Diff (max vs sum): -10  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +16,7 @@ Diff (max vs sum): -10
 | This game has Great Boss Battles | 7,338 |
 | This game has Quickly Understood Controls | 962 |
 | This game is Relaxing | 950 |
-| This game is Highly Recommended | 947 |
+| This game is Highly Recommended | 948 |
 | This game has Amazing Storytelling | 935 |
 | This game has Amazing Characters | 935 |
 | This game is Extremely Fun | 933 |
@@ -132,4 +133,4 @@ Diff (max vs sum): -10
 | 2023-05-01 | 4.60 | - | 11,632 | 26,953 |
 | 2023-05-02 | 4.60 | - | 11,644 | 26,977 |
 | 2023-05-03 | 4.60 | - | 11,662 | 27,020 |
-| 2023-05-04 | 4.60 | - | 11,676 | 27,061 |
+| 2023-05-04 | 4.60 | - | 11,676 | 27,062 |

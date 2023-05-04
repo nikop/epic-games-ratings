@@ -7,77 +7,88 @@
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
       "Percentage": 43,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 43000
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
       "SetID": "7a9m7mj",
       "Name": "Freeze to death",
       "Percentage": 56,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 56000
     },
     {
       "ID": "ACH_Cacciavite",
       "SetID": "7a9m7mj",
       "Name": "Screwdriver",
       "Percentage": 45,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 45000
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
       "SetID": "7a9m7mj",
       "Name": "Spicy",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6000
     },
     {
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
       "Percentage": 47,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 47000
     },
     {
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
       "Percentage": 40,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 40000
     },
     {
       "ID": "ACH_FineGioco",
       "SetID": "7a9m7mj",
       "Name": "All together, again",
       "Percentage": 34,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 34000
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
       "SetID": "7a9m7mj",
       "Name": "Pack Rat",
       "Percentage": 40,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 40000
     },
     {
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 77,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 77000
     },
     {
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
       "Percentage": 41,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 41000
     },
     {
       "ID": "ACH_SussurriHotel",
       "SetID": "7a9m7mj",
       "Name": "Ghost Hunters",
       "Percentage": 41,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 41000
     }
   ],
   "Tags": [],
@@ -438,13 +449,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T22:06:56.1228887+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:55.3008143+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_Completed": 50,
   "EOS_Progressed": 1000,
-  "LastUpdate_Achievements": "2023-05-04T22:06:56.1228997+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:03.0385873+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:55.3008268+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:03.6315974+00:00",
   "AchievementSets": [
     {
       "ID": "7a9m7mj",

@@ -1,4 +1,5 @@
 # Dauntless
+[View Rawdata](../../db/d/dauntless.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 19,675  (Ranked 17)
 Sum: 49,111 (Ranked 23)  
 Diff (max vs sum): -6  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

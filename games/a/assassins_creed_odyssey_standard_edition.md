@@ -1,4 +1,5 @@
 # Assassins Creed Odyssey Standard Edition
+[View Rawdata](../../db/a/assassins_creed_odyssey_standard_edition.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,481  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 4,853  (Ranked 63)
 Sum: 11,768 (Ranked 72)  
 Diff (max vs sum): -9  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # CRSED: F.O.A.D.
+[View Rawdata](../../db/c/crsed__f.o.a.d..json)  
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 464  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 90  (Ranked 334)
 Sum: 600 (Ranked 274)  
 Diff (max vs sum): 60  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

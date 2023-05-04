@@ -1,7 +1,8 @@
 # Planescape: Torment: Enhanced Edition
+[View Rawdata](../../db/p/planescape__torment__enhanced_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

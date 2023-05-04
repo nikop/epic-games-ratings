@@ -1,9 +1,10 @@
 # Out of the Park Baseball 22
+[View Rawdata](../../db/o/out_of_the_park_baseball_22.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 26  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

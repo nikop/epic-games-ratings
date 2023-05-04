@@ -1,7 +1,8 @@
 # Opera GX - The First Browser for Gamers
+[View Rawdata](../../db/o/opera_gx_-_the_first_browser_for_gamers.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

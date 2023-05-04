@@ -1,4 +1,5 @@
 # RAYMAN® LEGENDS
+[View Rawdata](../../db/r/rayman®_legends.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 351  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 189  (Ranked 260)
 Sum: 189 (Ranked 352)  
 Diff (max vs sum): -92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

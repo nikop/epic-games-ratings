@@ -1,8 +1,9 @@
 # NORCO
+[View Rawdata](../../db/n/norco.json)  
 Rating: 4.62 (Ranked 338)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

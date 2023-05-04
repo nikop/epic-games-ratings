@@ -7,287 +7,328 @@
       "SetID": "5bkacmp",
       "Name": "Be kind to monsters",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 759
     },
     {
       "ID": "blindAsABat",
       "SetID": "5bkacmp",
       "Name": "Blind as a bat",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "bodyguard",
       "SetID": "5bkacmp",
       "Name": "Squid Game",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1012
     },
     {
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
       "Percentage": 48,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12144
     },
     {
       "ID": "chapter2",
       "SetID": "5bkacmp",
       "Name": "Aboard the Sea Bird",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7843
     },
     {
       "ID": "chapter3",
       "SetID": "5bkacmp",
       "Name": "Is this the end?",
       "Percentage": 25,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6325
     },
     {
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
       "Percentage": 29,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 7337
     },
     {
       "ID": "darkVolepain",
       "SetID": "5bkacmp",
       "Name": "D4RK V0L3P41N",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 759
     },
     {
       "ID": "doneNegotiating",
       "SetID": "5bkacmp",
       "Name": "Done negotiating",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 202
     },
     {
       "ID": "doubleTrouble",
       "SetID": "5bkacmp",
       "Name": "Double trouble",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4301
     },
     {
       "ID": "familyReunion",
       "SetID": "5bkacmp",
       "Name": "Family reunion",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 759
     },
     {
       "ID": "forceOfNature",
       "SetID": "5bkacmp",
       "Name": "Force of nature",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "gotcha",
       "SetID": "5bkacmp",
       "Name": "Gotcha",
       "Percentage": 18,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 4554
     },
     {
       "ID": "iDareYou",
       "SetID": "5bkacmp",
       "Name": "Save it for a Rainier day",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "invulnerable",
       "SetID": "5bkacmp",
       "Name": "Invulnerable",
       "Percentage": 0.4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 101
     },
     {
       "ID": "itsEmpty",
       "SetID": "5bkacmp",
       "Name": "A grave matter",
       "Percentage": 7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1771
     },
     {
       "ID": "itsNotCheating",
       "SetID": "5bkacmp",
       "Name": "It\u0027s not cheating",
       "Percentage": 16,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4048
     },
     {
       "ID": "meetYourMaker",
       "SetID": "5bkacmp",
       "Name": "Meet your maker",
       "Percentage": 9,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2277
     },
     {
       "ID": "mesmerecital",
       "SetID": "5bkacmp",
       "Name": "A bard day\u0027s night",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1265
     },
     {
       "ID": "moneyTalks",
       "SetID": "5bkacmp",
       "Name": "Money talks",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1518
     },
     {
       "ID": "objection",
       "SetID": "5bkacmp",
       "Name": "The pelican brief",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1771
     },
     {
       "ID": "oneShotBlade",
       "SetID": "5bkacmp",
       "Name": "One shot blade",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 506
     },
     {
       "ID": "pacificProtest",
       "SetID": "5bkacmp",
       "Name": "Peaceful protest",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1518
     },
     {
       "ID": "pacifistFanatic",
       "SetID": "5bkacmp",
       "Name": "Pacifist fanatic",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2024
     },
     {
       "ID": "sayHelloToMyLittleFriends",
       "SetID": "5bkacmp",
       "Name": "Say hello to my little friends",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5313
     },
     {
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
       "Percentage": 26,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6578
     },
     {
       "ID": "stronk",
       "SetID": "5bkacmp",
       "Name": "Stronk",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3795
     },
     {
       "ID": "superMothBoy",
       "SetID": "5bkacmp",
       "Name": "Super Moth Boy",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3036
     },
     {
       "ID": "theBadPlace",
       "SetID": "5bkacmp",
       "Name": "The Bad Place",
       "Percentage": 9,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2277
     },
     {
       "ID": "theGoodPlace",
       "SetID": "5bkacmp",
       "Name": "The Good Place",
       "Percentage": 7,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 1771
     },
     {
       "ID": "theGreatScam",
       "SetID": "5bkacmp",
       "Name": "Lyre lyre pants on fyre",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1012
     },
     {
       "ID": "theHealer",
       "SetID": "5bkacmp",
       "Name": "Heal thyself",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4554
     },
     {
       "ID": "theMediumPlace",
       "SetID": "5bkacmp",
       "Name": "The Medium Place",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 506
     },
     {
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
       "Percentage": 24,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6072
     },
     {
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
       "Percentage": 41,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10373
     },
     {
       "ID": "thePolitician",
       "SetID": "5bkacmp",
       "Name": "Elephant in the room",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 7590
     },
     {
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
       "Percentage": 61,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15433
     },
     {
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
       "Percentage": 56,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14168
     },
     {
       "ID": "trialByCombat",
       "SetID": "5bkacmp",
       "Name": "Trial by combat",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1771
     },
     {
       "ID": "welcomeToForteAiles",
       "SetID": "5bkacmp",
       "Name": "Welcome to Forte Ailes",
       "Percentage": 13,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3289
     },
     {
       "ID": "youSssavedMe",
       "SetID": "5bkacmp",
       "Name": "You sssaved me",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5819
     }
   ],
   "Tags": [],
@@ -323,13 +364,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-04T22:07:04.6530353+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:01.6637353+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 253,
-  "LastUpdate_Achievements": "2023-05-04T22:07:04.6530767+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:34.3887591+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:01.6637887+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:23.5449742+00:00",
   "AchievementSets": [
     {
       "ID": "5bkacmp",

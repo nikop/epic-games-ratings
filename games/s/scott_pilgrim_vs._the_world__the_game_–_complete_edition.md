@@ -1,4 +1,5 @@
 # Scott Pilgrim vs. The World: The Game – Complete Edition
+[View Rawdata](../../db/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 99  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 36  (Ranked 421)
 Sum: 36 (Ranked 447)  
 Diff (max vs sum): -26  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

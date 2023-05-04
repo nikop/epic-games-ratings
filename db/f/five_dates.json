@@ -7,105 +7,120 @@
       "SetID": "c4ipj3h",
       "Name": "All Set Up",
       "Percentage": 99,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 34056
     },
     {
       "ID": "booty_call",
       "SetID": "c4ipj3h",
       "Name": "Booty Call",
       "Percentage": 26,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 8944
     },
     {
       "ID": "crash_and_burn",
       "SetID": "c4ipj3h",
       "Name": "Crash and Burn",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1032
     },
     {
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
       "Percentage": 96,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 33024
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
       "Percentage": 64,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22016
     },
     {
       "ID": "in_contempt_of_duvet",
       "SetID": "c4ipj3h",
       "Name": "In Contempt of Duvet",
       "Percentage": 28,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 9632
     },
     {
       "ID": "interrogation",
       "SetID": "c4ipj3h",
       "Name": "Interrogation",
       "Percentage": 3,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1032
     },
     {
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
       "Percentage": 17,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 5848
     },
     {
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
       "Percentage": 31,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 10664
     },
     {
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
       "Percentage": 35,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 12040
     },
     {
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
       "Percentage": 34,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 11696
     },
     {
       "ID": "planting_the_seed",
       "SetID": "c4ipj3h",
       "Name": "Planting the Seed",
       "Percentage": 21,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 7224
     },
     {
       "ID": "smooth_criminal",
       "SetID": "c4ipj3h",
       "Name": "Smooth Criminal",
       "Percentage": 9,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3096
     },
     {
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2752
     },
     {
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
       "Percentage": 30,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 10320
     }
   ],
   "Tags": [],
@@ -191,13 +206,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:06:25.2592965+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:32.6557246+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 3,
   "EOS_Progressed": 344,
-  "LastUpdate_Achievements": "2023-05-04T22:06:25.2593081+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:35.9097626+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:32.6557363+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:26.9894195+00:00",
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
@@ -213,7 +228,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_Progress": 198,
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00"

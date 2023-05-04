@@ -1,4 +1,5 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
+[View Rawdata](../../db/f/final_fantasy_vii_remake_intergrade.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 15,120  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 5,454  (Ranked 59)
 Sum: 11,964 (Ranked 71)  
 Diff (max vs sum): -12  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

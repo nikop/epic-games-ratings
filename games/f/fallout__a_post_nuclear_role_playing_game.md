@@ -1,12 +1,13 @@
 # Fallout: A Post Nuclear Role Playing Game
+[View Rawdata](../../db/f/fallout__a_post_nuclear_role_playing_game.json)  
 Rating: 4.64 (Ranked 312)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 59  (Ranked 377)  
 Sum: 59 (Ranked 427)  
 Diff (max vs sum): -50  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

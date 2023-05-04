@@ -7,602 +7,688 @@
       "SetID": "1ejmoln",
       "Name": "5G",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ACHIEVEMENT_HUNTER",
       "SetID": "13614nd",
       "Name": "Achievement Hunter",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_AGENT",
       "SetID": "13614nd",
       "Name": "Agent",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_AGENT_EXPERT",
       "SetID": "13614nd",
       "Name": "Expert Agent",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_AGENT_MASTER",
       "SetID": "13614nd",
       "Name": "Master Agent",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_AND_SO_IT_BEGINS",
       "SetID": "13614nd",
       "Name": "And So It Begins",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2893
     },
     {
       "ID": "ACH_ANOTHER_ONE",
       "SetID": "13614nd",
       "Name": "Another One",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_A_REAL_LANDLORD",
       "SetID": "13614nd",
       "Name": "A Real Landlord",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_BABYSITTER",
       "SetID": "13614nd",
       "Name": "Babysitter",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_BABYSITTER_EXPERT",
       "SetID": "13614nd",
       "Name": "Expert Babysitter",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_BABYSITTER_MASTER",
       "SetID": "13614nd",
       "Name": "Master Babysitter",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_BANKSY",
       "SetID": "1ejmoln",
       "Name": "Banksy",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BETTER_SAFE_THAN_SORRY",
       "SetID": "13614nd",
       "Name": "Better Safe Than Sorry",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_BIG_APPLE",
       "SetID": "13614nd",
       "Name": "Big Apple",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BOOKWORM",
       "SetID": "13614nd",
       "Name": "Bookworm",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_BOTANIST",
       "SetID": "13614nd",
       "Name": "Botanist",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BUSINESS_AID",
       "SetID": "1ejmoln",
       "Name": "Business Aid",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CACTI_ENJOYER",
       "SetID": "1ejmoln",
       "Name": "Cacti Enjoyer",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CAPITALIST",
       "SetID": "13614nd",
       "Name": "Capitalist",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CLEANING_SERVICE",
       "SetID": "13614nd",
       "Name": "Cleaning Service",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_COLOMBIAN_PRINCE",
       "SetID": "13614nd",
       "Name": "Colombian Prince",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMMUNITY_CHAMPION",
       "SetID": "1ejmoln",
       "Name": "Community Champion",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DECORATOR",
       "SetID": "13614nd",
       "Name": "Decorator",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_DOUBLE_DIGITS",
       "SetID": "13614nd",
       "Name": "Double Digits",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_DROP_THE_BEAT",
       "SetID": "1ejmoln",
       "Name": "Drop The Beat",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FACE_OF_STREAMING",
       "SetID": "13614nd",
       "Name": "Face of Streaming",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_FILTHY_RICH",
       "SetID": "13614nd",
       "Name": "Filthy Rich",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_FINDERS_KEEPERS",
       "SetID": "1ejmoln",
       "Name": "Finders Keepers",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FULL_FEATURE",
       "SetID": "1ejmoln",
       "Name": "Full Feature",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FUTURE_IS_NOW_OLD_MAN",
       "SetID": "1ejmoln",
       "Name": "Future Is Now, Old Man",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_GARDENER",
       "SetID": "13614nd",
       "Name": "Gardener",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_GOTTA_CATCH_THEM_ALL",
       "SetID": "1ejmoln",
       "Name": "Gotta Catch Them All",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_GOTTA_START_SOMEWHERE",
       "SetID": "13614nd",
       "Name": "Gotta Start Somewhere",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_GO_TEAM",
       "SetID": "1ejmoln",
       "Name": "Go Team!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HOLD_THAT_BRUSH",
       "SetID": "13614nd",
       "Name": "Hold That Brush",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HOME_SWEET_HOME",
       "SetID": "13614nd",
       "Name": "Home, Sweet Home",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_HOW_SWEET",
       "SetID": "13614nd",
       "Name": "How Sweet",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_IM_ON_A_BOAT",
       "SetID": "13614nd",
       "Name": "I\u2019m On A Boat",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_IVE_HAD_ENOUGH",
       "SetID": "13614nd",
       "Name": "I\u2019ve Had Enough",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_I_AM_THE_ONE_WHO_KNOCKS",
       "SetID": "13614nd",
       "Name": "I Am The One Who Knocks",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_KARAKAN_TWINS_AVID_FAN",
       "SetID": "1ejmoln",
       "Name": "Karakan Twins Avid Fan",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_KIDS_NEXT_DOOR",
       "SetID": "13614nd",
       "Name": "Kids Next Door",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_KILL_IT_WITH_GAS",
       "SetID": "13614nd",
       "Name": "Kill It With Gas",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_KITCHEN_HELL",
       "SetID": "13614nd",
       "Name": "Kitchen Hell",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_LANDLORDS_DREAM",
       "SetID": "13614nd",
       "Name": "Landlord\u2019s Dream",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_LOADED",
       "SetID": "13614nd",
       "Name": "Loaded",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_LURED_IN",
       "SetID": "13614nd",
       "Name": "Lured In",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_MATCHMAKER",
       "SetID": "13614nd",
       "Name": "Matchmaker",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_MILLIONAIRE",
       "SetID": "13614nd",
       "Name": "Millionaire",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_MR_CLEAN",
       "SetID": "13614nd",
       "Name": "Mr Clean",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_NO_RETIREMENT_FOR_YOU",
       "SetID": "1ejmoln",
       "Name": "No Retirement For You",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_OLD_FRIENDSHIP",
       "SetID": "1ejmoln",
       "Name": "Old Friendship",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PARIS_GLAMOUR",
       "SetID": "1ejmoln",
       "Name": "Paris Glamour",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PASSIVE_INCOME",
       "SetID": "13614nd",
       "Name": "Passive Income",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_PETTY_BICKERING",
       "SetID": "13614nd",
       "Name": "Petty Bickering",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_POKER_KING",
       "SetID": "1ejmoln",
       "Name": "Poker King",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PRIVILEGED",
       "SetID": "13614nd",
       "Name": "Privileged",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_RAIDER_OF_WONDERSVILLE",
       "SetID": "1ejmoln",
       "Name": "Raider of Wondersville",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_RAT_RACE",
       "SetID": "13614nd",
       "Name": "Rat Race",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_REALTOR",
       "SetID": "13614nd",
       "Name": "Realtor",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_REALTOR_EXPERT",
       "SetID": "13614nd",
       "Name": "Expert Realtor",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_REALTOR_MASTER",
       "SetID": "13614nd",
       "Name": "Master Realtor",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_RENOVATOR",
       "SetID": "13614nd",
       "Name": "Renovator",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_RENOVATOR_EXPERT",
       "SetID": "13614nd",
       "Name": "Expert Renovator",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_RENOVATOR_MASTER",
       "SetID": "13614nd",
       "Name": "Master Renovator",
       "Percentage": 0.2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_RENTAL_BONANZA",
       "SetID": "13614nd",
       "Name": "Rental Bonanza",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_RUN_FORREST_RUN",
       "SetID": "13614nd",
       "Name": "Run, Forrest, Run!",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_SENPAI",
       "SetID": "13614nd",
       "Name": "Senpai",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_SHERLOCK_HOMES",
       "SetID": "1ejmoln",
       "Name": "Sherlock Homes",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SILICON_VALLEY",
       "SetID": "1ejmoln",
       "Name": "Silicon Valley",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SPRINKLE_SPRINKLE_LITTLE_STAR",
       "SetID": "1ejmoln",
       "Name": "Sprinkle Sprinkle Little Star",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STILL_KIND_OF_POOR",
       "SetID": "13614nd",
       "Name": "Still Kind Of Poor",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_TEXAS_HOLDEM",
       "SetID": "1ejmoln",
       "Name": "Texas HoldEm",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_TGIF",
       "SetID": "13614nd",
       "Name": "TGIF",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_THE_AFTERSHOCK",
       "SetID": "13614nd",
       "Name": "The Aftershock",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_THE_GREAT_TENANTSINI",
       "SetID": "1ejmoln",
       "Name": "The Great Tenantsini",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_THE_MORE_THE_MERRIER",
       "SetID": "13614nd",
       "Name": "The More The Merrier",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_THE_SUBURBAN_DREAM",
       "SetID": "13614nd",
       "Name": "The Suburban Dream",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_TREASURE_HUNTER",
       "SetID": "13614nd",
       "Name": "Treasure Hunter",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_UNCLEST_OF_THE_UNCLES",
       "SetID": "1ejmoln",
       "Name": "Unclest of the Uncles",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_WELL_OFF",
       "SetID": "13614nd",
       "Name": "Well Off",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_WELL_SCRATCH_THAT",
       "SetID": "13614nd",
       "Name": "Well, Scratch That",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_WHATS_THAT_SMELL",
       "SetID": "13614nd",
       "Name": "What\u2019s That Smell?",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_WHAT_TAXES_SIR",
       "SetID": "13614nd",
       "Name": "What Taxes Sir?",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_WHITE_HOUSE",
       "SetID": "1ejmoln",
       "Name": "White House",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_WONDERSVILLE_MAGNATE",
       "SetID": "13614nd",
       "Name": "Wondersville Magnate",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -915,13 +1001,13 @@
   ],
   "TotalAchievementsXP": 1400,
   "TotalAchievements": 86,
-  "LastChanged_Achievements": "2023-05-04T22:06:36.8841635+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:41.4023854+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 9642,
-  "LastUpdate_Achievements": "2023-05-04T22:06:36.884332+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:27.4972121+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:41.4024862+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:01.8370936+00:00",
   "AchievementSets": [
     {
       "ID": "13614nd",

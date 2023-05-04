@@ -1,4 +1,5 @@
 # Animation Throwdown: The Quest for Cards
+[View Rawdata](../../db/a/animation_throwdown__the_quest_for_cards.json)  
 Rating: 4.32 (Ranked 737)  
 Number of Ratings: 874  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 341  (Ranked 210)
 Sum: 2,628 (Ranked 161)  
 Diff (max vs sum): 49  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

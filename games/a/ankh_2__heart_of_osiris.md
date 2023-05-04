@@ -1,7 +1,8 @@
 # Ankh 2: Heart of Osiris
+[View Rawdata](../../db/a/ankh_2__heart_of_osiris.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,252 +7,288 @@
       "SetID": "45852p1",
       "Name": "The Tower Princess",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_CARTOGRAPH_UPGRADE_MAX",
       "SetID": "45852p1",
       "Name": "Cartograph Master",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_CASTLE_BOSS_KILL_1",
       "SetID": "45852p1",
       "Name": "Le Pigomancer",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_CHEST_OPENED_1",
       "SetID": "45852p1",
       "Name": "Treasure Seeker",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_CHEST_OPENED_10",
       "SetID": "45852p1",
       "Name": "Treasure Master",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_EXTRA_DATE_CASTLE",
       "SetID": "45852p1",
       "Name": "The Banquet",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_EXTRA_DATE_GARDEN",
       "SetID": "45852p1",
       "Name": "The Bouquet",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_EXTRA_DRAGON",
       "SetID": "45852p1",
       "Name": "Now it\u0027s my Wedding!",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_FINAL_BOSS_KILL_1",
       "SetID": "45852p1",
       "Name": "I Object!",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_GARDEN_BOSS_KILL_1",
       "SetID": "45852p1",
       "Name": "DASHROOM",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_HEALTH_UPGRADE_MAX",
       "SetID": "45852p1",
       "Name": "Vitality Master",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_KOBOLD_DIED_1000",
       "SetID": "45852p1",
       "Name": "Kobold Slayer",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_MAX_LEVEL_CARTOGRAPHY",
       "SetID": "45852p1",
       "Name": "Pathfinder",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_MAX_LEVEL_MUSKET",
       "SetID": "45852p1",
       "Name": "Musket Master",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_MAX_LEVEL_SWORD",
       "SetID": "45852p1",
       "Name": "Sword Master",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_MAX_LEVEL_VITALITY",
       "SetID": "45852p1",
       "Name": "Healthiest Guy",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_MUSKET_UPGRADE_MAX",
       "SetID": "45852p1",
       "Name": "The Sharpshooter",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_POTIONS_USED_25",
       "SetID": "45852p1",
       "Name": "Drunkie Knight",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_PRINCESS_RECUE_5",
       "SetID": "45852p1",
       "Name": "Royalty Rescuer",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_PROPS_DESTROYED_100",
       "SetID": "45852p1",
       "Name": "Destroyer",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_PROPS_DESTROYED_1000",
       "SetID": "45852p1",
       "Name": "Great Destroyer",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_HUMAN",
       "SetID": "45852p1",
       "Name": "The Sweetest Princess",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_MERMAID",
       "SetID": "45852p1",
       "Name": "The Underwater Beauty",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_OLYMPIC",
       "SetID": "45852p1",
       "Name": "I Believe in Fitness",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_PENGUIN",
       "SetID": "45852p1",
       "Name": "Black and White",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_SUNDER",
       "SetID": "45852p1",
       "Name": "Like a Scimitar... but Cooler!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_VAMPIRE",
       "SetID": "45852p1",
       "Name": "The Relentless Conqueror",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_RESCUE_PRINCESS_ZOMBIE",
       "SetID": "45852p1",
       "Name": "The Brain Eater",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_SECRET_WALL_DESTROYED_25",
       "SetID": "45852p1",
       "Name": "Secret Finder",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_SWORD_UPGRADE_MAX",
       "SetID": "45852p1",
       "Name": "Legendary Swordsman",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_TUTORIAL_END",
       "SetID": "45852p1",
       "Name": "The First Among Many",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_UNLOCK_CARTOGRAPH",
       "SetID": "45852p1",
       "Name": "Bureaucrat Agent",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_UNLOCK_GARDEN_DOOR",
       "SetID": "45852p1",
       "Name": "Door To Hell",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_UNLOCK_WEAPON",
       "SetID": "45852p1",
       "Name": "A Humble Workshop",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_UPGRADES_BOUGHT_10",
       "SetID": "45852p1",
       "Name": "Get Good!",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STE_VITRUVIUM",
       "SetID": "45852p1",
       "Name": "Wise Talk",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -273,13 +309,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T22:06:56.5188324+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:55.6619668+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:06:56.5188607+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:01.7788022+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:55.6620095+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:02.8181786+00:00",
   "AchievementSets": [
     {
       "ID": "45852p1",
@@ -295,7 +331,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:15:32.729738+00:00"

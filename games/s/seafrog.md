@@ -1,4 +1,5 @@
 # Seafrog
+[View Rawdata](../../db/s/seafrog.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

@@ -7,203 +7,232 @@
       "SetID": "4hpl59n",
       "Name": "Now you look like a proper Guardian!",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_LORE_POINTS",
       "SetID": "4hpl59n",
       "Name": "Knowledge does not take up space!",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_SOULS",
       "SetID": "4hpl59n",
       "Name": "May they rest in peace.",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_CHAP1",
       "SetID": "4hpl59n",
       "Name": "Your artifact is almost done!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_CHAP2",
       "SetID": "4hpl59n",
       "Name": "By the skin of your teeth! If you had any.",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_CHAP3",
       "SetID": "4hpl59n",
       "Name": "Patience is a virtue!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_CHAP4",
       "SetID": "4hpl59n",
       "Name": "Run for your life!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_CHAP5",
       "SetID": "4hpl59n",
       "Name": "You don\u0027t need a silly red sheet!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_CHAP6",
       "SetID": "4hpl59n",
       "Name": "You should have been a gondolier!",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_PROLOGUE",
       "SetID": "4hpl59n",
       "Name": "You look like a Snake!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_CHAP1",
       "SetID": "4hpl59n",
       "Name": "Ready for your journey?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_CHAP2",
       "SetID": "4hpl59n",
       "Name": "Has something changed?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_CHAP3",
       "SetID": "4hpl59n",
       "Name": "Is it remitting?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_CHAP4",
       "SetID": "4hpl59n",
       "Name": "Is this really working?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_CHAP5",
       "SetID": "4hpl59n",
       "Name": "Why does it keep spreading?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_CHAP6",
       "SetID": "4hpl59n",
       "Name": "Does it really end here?",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COMPLETE_PROLOGUE",
       "SetID": "4hpl59n",
       "Name": "Slept well?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_CHAP3",
       "SetID": "4hpl59n",
       "Name": "You look like a rainbow!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_CHAP4",
       "SetID": "4hpl59n",
       "Name": "Safety first!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_CHAP5",
       "SetID": "4hpl59n",
       "Name": "That\u0027s what the fox says!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_CHAP6",
       "SetID": "4hpl59n",
       "Name": "Now everything makes sense!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_EEL",
       "SetID": "4hpl59n",
       "Name": "Watch out!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_GUARDIAN",
       "SetID": "4hpl59n",
       "Name": "It can\u0027t be!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_GUARDIANS",
       "SetID": "4hpl59n",
       "Name": "This should have never happened!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_NEIGHBOUR",
       "SetID": "4hpl59n",
       "Name": "You\u0027re a good neighbor!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_HIDDEN_PRIMORDIAL",
       "SetID": "4hpl59n",
       "Name": "Meet the Primordial!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ONE_GUARDIAN_ARMOR",
       "SetID": "4hpl59n",
       "Name": "Looks good on you!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ONE_LORE_POINT",
       "SetID": "4hpl59n",
       "Name": "That\u0027s interesting!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ONE_SOUL",
       "SetID": "4hpl59n",
       "Name": "Be careful with them!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -218,13 +247,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T22:06:00.7000996+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:14.5129981+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:00.7001202+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:40.7152387+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:14.5130305+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:51.5532406+00:00",
   "AchievementSets": [
     {
       "ID": "4hpl59n",
@@ -240,7 +269,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T16:14:35.5945122+00:00"

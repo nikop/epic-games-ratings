@@ -1,9 +1,10 @@
 # Nexomon: Extinction
+[View Rawdata](../../db/n/nexomon__extinction.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

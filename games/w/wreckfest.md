@@ -1,8 +1,9 @@
 # Wreckfest
+[View Rawdata](../../db/w/wreckfest.json)  
 Rating: 4.04 (Ranked 870)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

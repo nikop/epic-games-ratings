@@ -1,7 +1,8 @@
 # Songs for a Hero - Definitive Edition
+[View Rawdata](../../db/s/songs_for_a_hero_-_definitive_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

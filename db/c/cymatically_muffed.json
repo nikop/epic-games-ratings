@@ -7,112 +7,128 @@
       "SetID": "bp8c2m3",
       "Name": "Brutality",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "DEMOLITIONIST",
       "SetID": "bp8c2m3",
       "Name": "Demolitionist",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "DOS_COLLECTOR",
       "SetID": "bp8c2m3",
       "Name": "DOS Collector",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "DOUBLE_KILL",
       "SetID": "bp8c2m3",
       "Name": "Double Kill",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISHER",
       "SetID": "bp8c2m3",
       "Name": "Finisher",
       "Percentage": 0,
-      "XP": 125
+      "XP": 125,
+      "UsersEstimate": 0
     },
     {
       "ID": "GRUBBY",
       "SetID": "bp8c2m3",
       "Name": "Grubby",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "MONSTER_KILL",
       "SetID": "bp8c2m3",
       "Name": "Monster Kill",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "MUFFED_MADNESS",
       "SetID": "bp8c2m3",
       "Name": "Muffed Madness",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "MUFFED_PARTY",
       "SetID": "bp8c2m3",
       "Name": "Muffed Party",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "POWER_OVERWHELMING",
       "SetID": "bp8c2m3",
       "Name": "Power Overwhelming",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ROASTED",
       "SetID": "bp8c2m3",
       "Name": "Roasted",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ROCKET_MAN",
       "SetID": "bp8c2m3",
       "Name": "Rocket Man",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "SUPER_MUFFED",
       "SetID": "bp8c2m3",
       "Name": "Super Muffed",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "SURVIVALIST",
       "SetID": "bp8c2m3",
       "Name": "Survivalist",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "TRIGGER_HAPPY",
       "SetID": "bp8c2m3",
       "Name": "Trigger Happy",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "TRIPLE_KILL",
       "SetID": "bp8c2m3",
       "Name": "Triple Kill",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -120,13 +136,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:06:44.2081293+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:46.7240749+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:44.2081409+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:15.1139023+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:46.7240908+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:32.6968351+00:00",
   "AchievementSets": [
     {
       "ID": "bp8c2m3",
@@ -137,7 +153,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:51:01.4340824+00:00"

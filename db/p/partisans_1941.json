@@ -7,210 +7,240 @@
       "SetID": "85nb4h3",
       "Name": "Agent 47",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 13904
     },
     {
       "ID": "Auditor",
       "SetID": "85nb4h3",
       "Name": "Inspector General",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 608
     },
     {
       "ID": "Big_Bertha",
       "SetID": "85nb4h3",
       "Name": "The Big Bertha",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 6952
     },
     {
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 16,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 13904
     },
     {
       "ID": "Commandos",
       "SetID": "85nb4h3",
       "Name": "Commandos",
       "Percentage": 0.1,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 87
     },
     {
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
       "Percentage": 12,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 10428
     },
     {
       "ID": "Defense_Common",
       "SetID": "85nb4h3",
       "Name": "Unbreakable Wall",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 869
     },
     {
       "ID": "Defense_Epic",
       "SetID": "85nb4h3",
       "Name": "Defense of Steel",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4345
     },
     {
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 21725
     },
     {
       "ID": "Everyone_is_here",
       "SetID": "85nb4h3",
       "Name": "The Gang\u0027s All Here",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 8690
     },
     {
       "ID": "Experienced_strategist",
       "SetID": "85nb4h3",
       "Name": "Experienced Strategist",
       "Percentage": 0.7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 608
     },
     {
       "ID": "Game_Over",
       "SetID": "85nb4h3",
       "Name": "Game Over",
       "Percentage": 7,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 6083
     },
     {
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
       "Percentage": 24,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 20856
     },
     {
       "ID": "Hard_Serpent",
       "SetID": "85nb4h3",
       "Name": "Tough as Nails",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 261
     },
     {
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
       "Percentage": 22,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 19118
     },
     {
       "ID": "High_noon",
       "SetID": "85nb4h3",
       "Name": "Payback Time",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3476
     },
     {
       "ID": "How",
       "SetID": "85nb4h3",
       "Name": "How?!",
       "Percentage": 0.3,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 261
     },
     {
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
       "Percentage": 19,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16511
     },
     {
       "ID": "KillAllM2",
       "SetID": "85nb4h3",
       "Name": "No Witness",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2607
     },
     {
       "ID": "Kultprosvet",
       "SetID": "85nb4h3",
       "Name": "A Little Culture",
       "Percentage": 0.1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 87
     },
     {
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6083
     },
     {
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
       "Percentage": 16,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 13904
     },
     {
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
       "Percentage": 21,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 18249
     },
     {
       "ID": "Scout",
       "SetID": "85nb4h3",
       "Name": "Scout",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "Strategist",
       "SetID": "85nb4h3",
       "Name": "Strategist",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1738
     },
     {
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
       "Percentage": 24,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 20856
     },
     {
       "ID": "We_were_not_here",
       "SetID": "85nb4h3",
       "Name": "We Weren\u0027t There",
       "Percentage": 0.2,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 174
     },
     {
       "ID": "Your_turn",
       "SetID": "85nb4h3",
       "Name": "Your Answer",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7821
     }
   ],
   "Tags": [],
@@ -605,13 +635,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:06:42.0821118+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:45.0883964+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 19,
   "EOS_Completed": 1,
   "EOS_Progressed": 869,
-  "LastUpdate_Achievements": "2023-05-04T22:06:42.0821325+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:00.6146039+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:45.0884249+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:23.4880336+00:00",
   "AchievementSets": [
     {
       "ID": "85nb4h3",

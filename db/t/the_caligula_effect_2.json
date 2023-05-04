@@ -7,343 +7,392 @@
       "SetID": "2eg5kgc",
       "Name": "The Caligula Effect 2",
       "Percentage": 0.9,
-      "XP": 160
+      "XP": 160,
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_02",
       "SetID": "2eg5kgc",
       "Name": "Welcome to Redo",
       "Percentage": 97,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 22116
     },
     {
       "ID": "ACH_03",
       "SetID": "2eg5kgc",
       "Name": "Daily Life Begins Anew",
       "Percentage": 81,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 18468
     },
     {
       "ID": "ACH_04",
       "SetID": "2eg5kgc",
       "Name": "Go-Home Club Activities START!",
       "Percentage": 48,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 10944
     },
     {
       "ID": "ACH_05",
       "SetID": "2eg5kgc",
       "Name": "Behind the Curtain",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7296
     },
     {
       "ID": "ACH_06",
       "SetID": "2eg5kgc",
       "Name": "Be Who You Wanna Be",
       "Percentage": 27,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6156
     },
     {
       "ID": "ACH_07",
       "SetID": "2eg5kgc",
       "Name": "One-Track Mind",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5244
     },
     {
       "ID": "ACH_08",
       "SetID": "2eg5kgc",
       "Name": "The Greater Good",
       "Percentage": 19,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4332
     },
     {
       "ID": "ACH_09",
       "SetID": "2eg5kgc",
       "Name": "Selfish Decisions",
       "Percentage": 19,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4332
     },
     {
       "ID": "ACH_10",
       "SetID": "2eg5kgc",
       "Name": "Pulling Heartstrings",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4104
     },
     {
       "ID": "ACH_11",
       "SetID": "2eg5kgc",
       "Name": "Hopes Rewarded",
       "Percentage": 17,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3876
     },
     {
       "ID": "ACH_12",
       "SetID": "2eg5kgc",
       "Name": "Redo Redone",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_13",
       "SetID": "2eg5kgc",
       "Name": "Depths of the Heart",
       "Percentage": 20,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4560
     },
     {
       "ID": "ACH_14",
       "SetID": "2eg5kgc",
       "Name": "To Each Their Own",
       "Percentage": 11,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2508
     },
     {
       "ID": "ACH_15",
       "SetID": "2eg5kgc",
       "Name": "To the Other Side",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_16",
       "SetID": "2eg5kgc",
       "Name": "Friendly Neighborhood",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5472
     },
     {
       "ID": "ACH_17",
       "SetID": "2eg5kgc",
       "Name": "Building Bridges",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH_18",
       "SetID": "2eg5kgc",
       "Name": "World Peace",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_19",
       "SetID": "2eg5kgc",
       "Name": "Philanthropist",
       "Percentage": 40,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 9120
     },
     {
       "ID": "ACH_20",
       "SetID": "2eg5kgc",
       "Name": "Heart of Gold",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_21",
       "SetID": "2eg5kgc",
       "Name": "Extracurricular Affair",
       "Percentage": 19,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4332
     },
     {
       "ID": "ACH_22",
       "SetID": "2eg5kgc",
       "Name": "Eat Your Heart Out",
       "Percentage": 11,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2508
     },
     {
       "ID": "ACH_23",
       "SetID": "2eg5kgc",
       "Name": "Extra! Extra! Journalism Club Showdown",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2052
     },
     {
       "ID": "ACH_24",
       "SetID": "2eg5kgc",
       "Name": "Hustled and Bustled",
       "Percentage": 12,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2736
     },
     {
       "ID": "ACH_25",
       "SetID": "2eg5kgc",
       "Name": "The Part-Time Tyrant",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACH_26",
       "SetID": "2eg5kgc",
       "Name": "For the Love of Regret",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_27",
       "SetID": "2eg5kgc",
       "Name": "Prince of Lettuce",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACH_28",
       "SetID": "2eg5kgc",
       "Name": "Love, Loss, and the Omega Nebula",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACH_29",
       "SetID": "2eg5kgc",
       "Name": "From Nurse to Worse",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_30",
       "SetID": "2eg5kgc",
       "Name": "Birth of a Salesman",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH_31",
       "SetID": "2eg5kgc",
       "Name": "Group Therapy",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_32",
       "SetID": "2eg5kgc",
       "Name": "Topical Conversationalist",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_33",
       "SetID": "2eg5kgc",
       "Name": "WIRE Guru",
       "Percentage": 21,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4788
     },
     {
       "ID": "ACH_34",
       "SetID": "2eg5kgc",
       "Name": "Test Your Luck",
       "Percentage": 35,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7980
     },
     {
       "ID": "ACH_35",
       "SetID": "2eg5kgc",
       "Name": "Nice Doing Business",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5472
     },
     {
       "ID": "ACH_36",
       "SetID": "2eg5kgc",
       "Name": "Lost Souls For Sale",
       "Percentage": 19,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4332
     },
     {
       "ID": "ACH_37",
       "SetID": "2eg5kgc",
       "Name": "Investment Ban-\u03C7-ing",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5700
     },
     {
       "ID": "ACH_38",
       "SetID": "2eg5kgc",
       "Name": "Songstress Unleashed",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_39",
       "SetID": "2eg5kgc",
       "Name": "Executive Privilege",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
       "Percentage": 65,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 14820
     },
     {
       "ID": "ACH_41",
       "SetID": "2eg5kgc",
       "Name": "Master of Surprise",
       "Percentage": 30,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6840
     },
     {
       "ID": "ACH_42",
       "SetID": "2eg5kgc",
       "Name": "Coup de Grace",
       "Percentage": 57,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 12996
     },
     {
       "ID": "ACH_43",
       "SetID": "2eg5kgc",
       "Name": "Our World Now",
       "Percentage": 81,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 18468
     },
     {
       "ID": "ACH_44",
       "SetID": "2eg5kgc",
       "Name": "Counter Champion",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5700
     },
     {
       "ID": "ACH_45",
       "SetID": "2eg5kgc",
       "Name": "Combo Commando",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5472
     },
     {
       "ID": "ACH_46",
       "SetID": "2eg5kgc",
       "Name": "Guarding Guru",
       "Percentage": 17,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3876
     },
     {
       "ID": "ACH_47",
       "SetID": "2eg5kgc",
       "Name": "Trigger Finger",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4104
     },
     {
       "ID": "ACH_48",
       "SetID": "2eg5kgc",
       "Name": "Stay Winning",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5244
     },
     {
       "ID": "ACH_49",
       "SetID": "2eg5kgc",
       "Name": "\u03C7 Signature",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 456
     }
   ],
   "Tags": [],
@@ -392,13 +441,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T22:06:07.9108468+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:19.780329+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 228,
-  "LastUpdate_Achievements": "2023-05-04T22:06:07.9108891+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:53.2277444+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:19.7803968+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:59.6721057+00:00",
   "AchievementSets": [
     {
       "ID": "2eg5kgc",
@@ -414,7 +463,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 32,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_Progress": 218,
   "Ranking_PopularitySum": 490,

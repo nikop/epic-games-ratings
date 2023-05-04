@@ -1,8 +1,9 @@
 # Little Big Workshop
+[View Rawdata](../../db/l/little_big_workshop.json)  
 Rating: 4.34 (Ranked 721)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

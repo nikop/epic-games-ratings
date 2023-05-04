@@ -1,9 +1,10 @@
 # UNO Standard Edition
+[View Rawdata](../../db/u/uno_standard_edition.json)  
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

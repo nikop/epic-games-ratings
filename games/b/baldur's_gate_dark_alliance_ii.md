@@ -1,9 +1,10 @@
 # Baldur's Gate Dark Alliance II
+[View Rawdata](../../db/b/baldur's_gate_dark_alliance_ii.json)  
 Rating: 4.38 (Ranked 686)  
 Number of Ratings: 31  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

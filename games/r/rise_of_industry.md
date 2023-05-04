@@ -1,37 +1,38 @@
 # Rise of Industry
+[View Rawdata](../../db/r/rise_of_industry.json)  
 Rating: 4.23 (Ranked 790)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Entrepreneur | 47.00 |
-| Well educated | 37.00 |
-| City Planner | 18.00 |
-| Deforester | 16.00 |
-| Big Hauling | 15.00 |
-| Exporter | 13.00 |
-| Apprentice Manufacturer | 12.00 |
-| I would drive 500 tiles... | 11.00 |
-| Landscaper | 11.00 |
-| Railwayman | 7.00 |
-| Penniless | 6.00 |
-| Massive Gains | 6.00 |
-| Engineer | 2.00 |
-| Salesman | 2.00 |
-| High Flyer | 2.00 |
-| Captain | 0.70 |
-| Billionaire | 0.60 |
-| Vroom Vroom | 0.40 |
-| Excavator | 0.30 |
-| Loan Ranger | 0.30 |
-| [2130] Nature Lover | 0.10 |
-| [2130] No Quarter Given | 0.10 |
-| [2130] Dumpster Diving | 0.10 |
-| Freelancer | 0.10 |
-| Director | 0.10 |
-| Master Builder | 0.10 |
-| Hard working | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Entrepreneur | 47.00% | ~30,988,886 |
+| Well educated | 37.00% | ~24,395,506 |
+| City Planner | 19.00% | ~12,527,422 |
+| Deforester | 16.00% | ~10,549,408 |
+| Big Hauling | 15.00% | ~9,890,070 |
+| Exporter | 13.00% | ~8,571,394 |
+| Apprentice Manufacturer | 12.00% | ~7,912,056 |
+| I would drive 500 tiles... | 11.00% | ~7,252,718 |
+| Landscaper | 11.00% | ~7,252,718 |
+| Railwayman | 7.00% | ~4,615,366 |
+| Penniless | 6.00% | ~3,956,028 |
+| Massive Gains | 6.00% | ~3,956,028 |
+| Engineer | 2.00% | ~1,318,676 |
+| Salesman | 2.00% | ~1,318,676 |
+| High Flyer | 2.00% | ~1,318,676 |
+| Captain | 0.70% | ~461,537 |
+| Billionaire | 0.60% | ~395,603 |
+| Vroom Vroom | 0.40% | ~263,735 |
+| Excavator | 0.30% | ~197,801 |
+| Loan Ranger | 0.30% | ~197,801 |
+| [2130] Nature Lover | 0.10% | ~65,934 |
+| [2130] No Quarter Given | 0.10% | ~65,934 |
+| [2130] Dumpster Diving | 0.10% | ~65,934 |
+| Freelancer | 0.10% | ~65,934 |
+| Director | 0.10% | ~65,934 |
+| Master Builder | 0.10% | ~65,934 |
+| Hard working | 0.10% | ~65,934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,333 (Ranked 17)  
+Progressed: 659,338 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +46,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 657,085 | 1 |
 | 2023-05-02 | 657,868 | 1 |
 | 2023-05-03 | 658,621 | 1 |
-| 2023-05-04 | 659,333 | 1 |
+| 2023-05-04 | 659,338 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

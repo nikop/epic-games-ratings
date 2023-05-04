@@ -1,4 +1,5 @@
 # Ooblets
+[View Rawdata](../../db/o/ooblets.json)  
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,446  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 1,002  (Ranked 135)
 Sum: 1,792 (Ranked 195)  
 Diff (max vs sum): -60  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

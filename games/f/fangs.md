@@ -1,8 +1,9 @@
 # Fangs
+[View Rawdata](../../db/f/fangs.json)  
 Rating: 4.09 (Ranked 856)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

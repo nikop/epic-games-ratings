@@ -1,12 +1,13 @@
 # Dishonored 2
+[View Rawdata](../../db/d/dishonored_2.json)  
 Rating: 4.80 (Ranked 78)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 333  (Ranked 212)  
 Sum: 383 (Ranked 305)  
 Diff (max vs sum): -93  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Nightingale
+[View Rawdata](../../db/n/nightingale.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

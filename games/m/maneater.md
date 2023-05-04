@@ -1,4 +1,5 @@
 # Maneater
+[View Rawdata](../../db/m/maneater.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 82,037  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 13,430  (Ranked 24)
 Sum: 17,486 (Ranked 54)  
 Diff (max vs sum): -30  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

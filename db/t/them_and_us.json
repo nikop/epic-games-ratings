@@ -7,280 +7,320 @@
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
       "Percentage": 38,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 304
     },
     {
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
       "Percentage": 63,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 504
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
       "SetID": "65jc0ap",
       "Name": "Armed To The Teeth",
       "Percentage": 13,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_BackInTime",
       "SetID": "65jc0ap",
       "Name": "Back In Time",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
       "SetID": "65jc0ap",
       "Name": "Before The Eclipse",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_BoxOfPloutus",
       "SetID": "65jc0ap",
       "Name": "Box Of Ploutus",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_ChosenOne",
       "SetID": "65jc0ap",
       "Name": "Chosen One",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_ClassicPlayer",
       "SetID": "65jc0ap",
       "Name": "Retro Player",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_DieAnotherDay",
       "SetID": "65jc0ap",
       "Name": "Die Another Day",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_DressedtoKill",
       "SetID": "65jc0ap",
       "Name": "Dressed to Kill",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_FearWellSpent",
       "SetID": "65jc0ap",
       "Name": "Spiritual essence well spent",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
       "Percentage": 88,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 704
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
       "SetID": "65jc0ap",
       "Name": "Life Of The Thousand Gods",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_MissionOver",
       "SetID": "65jc0ap",
       "Name": "Run and Gun",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_ModernPlayer",
       "SetID": "65jc0ap",
       "Name": "Modern Player",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_NightmareOver",
       "SetID": "65jc0ap",
       "Name": "Nightmare Over",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_NoTimeForSongs",
       "SetID": "65jc0ap",
       "Name": "No Time To Relax",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_PTD",
       "SetID": "65jc0ap",
       "Name": "Pet The Dog",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_Researcher",
       "SetID": "65jc0ap",
       "Name": "Researcher",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_RestInPeace",
       "SetID": "65jc0ap",
       "Name": "Rest In Peace",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_SUPER",
       "SetID": "65jc0ap",
       "Name": "Survival Horror",
       "Percentage": 13,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
       "Percentage": 63,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 504
     },
     {
       "ID": "ETUA_StayDead",
       "SetID": "65jc0ap",
       "Name": "I Am The Gate Keeper!",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_SurvivalHero",
       "SetID": "65jc0ap",
       "Name": "Survival Hero",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_The5thElement",
       "SetID": "65jc0ap",
       "Name": "The 5th Element",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_TheBusStop",
       "SetID": "65jc0ap",
       "Name": "The bus stop",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 400
     },
     {
       "ID": "ETUA_TheCurseIsReal",
       "SetID": "65jc0ap",
       "Name": "The Curse Is Real",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
       "SetID": "65jc0ap",
       "Name": "This Mansion Is Clean",
       "Percentage": 13,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 400
     },
     {
       "ID": "ETUA_Trapped",
       "SetID": "65jc0ap",
       "Name": "Trapped",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_WhatAMansion",
       "SetID": "65jc0ap",
       "Name": "What A Mansion",
       "Percentage": 13,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     }
   ],
   "Tags": [],
@@ -306,13 +346,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:06:08.1833219+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:20.0039942+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-04T22:06:08.1833548+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:25.5690007+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:20.0040459+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:42.0837725+00:00",
   "AchievementSets": [
     {
       "ID": "65jc0ap",

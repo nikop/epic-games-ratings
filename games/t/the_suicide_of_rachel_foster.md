@@ -1,20 +1,21 @@
 # The Suicide of Rachel Foster
+[View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
 Rating: 4.18 (Ranked 820)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| "Nice" to meet you | 77.00 |
-| Freeze to death | 56.00 |
-| Is she really dead? | 47.00 |
-| Screwdriver | 45.00 |
-| Cutepie | 43.00 |
-| Someone was here | 41.00 |
-| Ghost Hunters | 41.00 |
-| Alone | 40.00 |
-| Pack Rat | 40.00 |
-| All together, again | 34.00 |
-| Spicy | 6.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| "Nice" to meet you | 77.00% | ~77,000 |
+| Freeze to death | 56.00% | ~56,000 |
+| Is she really dead? | 47.00% | ~47,000 |
+| Screwdriver | 45.00% | ~45,000 |
+| Cutepie | 43.00% | ~43,000 |
+| Someone was here | 41.00% | ~41,000 |
+| Ghost Hunters | 41.00% | ~41,000 |
+| Alone | 40.00% | ~40,000 |
+| Pack Rat | 40.00% | ~40,000 |
+| All together, again | 34.00% | ~34,000 |
+| Spicy | 6.00% | ~6,000 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,000 (Ranked 161)  
 Completed: 50 (5.00%) (Ranked 25)  

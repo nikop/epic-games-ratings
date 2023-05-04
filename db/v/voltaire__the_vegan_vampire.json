@@ -7,217 +7,248 @@
       "SetID": "3c20ib3",
       "Name": "Fauna Connoisseur",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ALL_VEGGIES",
       "SetID": "3c20ib3",
       "Name": "Veggie Master",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 75
     },
     {
       "ID": "CASTLE",
       "SetID": "3c20ib3",
       "Name": "Homecoming",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 225
     },
     {
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
       "Percentage": 47,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 3525
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
       "Percentage": 63,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4725
     },
     {
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
       "Percentage": 12,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 900
     },
     {
       "ID": "GET_PETS",
       "SetID": "3c20ib3",
       "Name": "Who let the pets out?",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 225
     },
     {
       "ID": "GET_SOULSTONES",
       "SetID": "3c20ib3",
       "Name": "Make it rain",
       "Percentage": 8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 600
     },
     {
       "ID": "GLOWBUG",
       "SetID": "3c20ib3",
       "Name": "Shine bright",
       "Percentage": 12,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 900
     },
     {
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
       "Percentage": 99,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7425
     },
     {
       "ID": "HUNTING",
       "SetID": "3c20ib3",
       "Name": "Peaceful skies",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 375
     },
     {
       "ID": "HUNTSMAN",
       "SetID": "3c20ib3",
       "Name": "Groovy!",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 375
     },
     {
       "ID": "KILL_BUGBUG",
       "SetID": "3c20ib3",
       "Name": "It\u0027s a bug\u0027s life",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 300
     },
     {
       "ID": "KILL_DRACULA",
       "SetID": "3c20ib3",
       "Name": "Daddy Issues",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 375
     },
     {
       "ID": "KILL_ENEMIES",
       "SetID": "3c20ib3",
       "Name": "Free Spirit",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "KILL_GROVE",
       "SetID": "3c20ib3",
       "Name": "I am Root!",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 75
     },
     {
       "ID": "KILL_HOGRIDER",
       "SetID": "3c20ib3",
       "Name": "Yeehaw!",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 75
     },
     {
       "ID": "KILL_SANDRHINO",
       "SetID": "3c20ib3",
       "Name": "Tururururu!",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 225
     },
     {
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
       "Percentage": 27,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2025
     },
     {
       "ID": "KILL_YEETUS",
       "SetID": "3c20ib3",
       "Name": "Yeetus Deletus",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 75
     },
     {
       "ID": "PLANT_VEGGIES",
       "SetID": "3c20ib3",
       "Name": "Holy Crops!",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 675
     },
     {
       "ID": "REACH_10",
       "SetID": "3c20ib3",
       "Name": "It\u0027s about the journey",
       "Percentage": 16,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1200
     },
     {
       "ID": "REACH_20",
       "SetID": "3c20ib3",
       "Name": "Best in the field",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "SILVERBANE",
       "SetID": "3c20ib3",
       "Name": "There be sand in me shorts",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 675
     },
     {
       "ID": "SNOWSCALE",
       "SetID": "3c20ib3",
       "Name": "Do you wanna build a snowboiii?",
       "Percentage": 7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 525
     },
     {
       "ID": "SOUTHERN",
       "SetID": "3c20ib3",
       "Name": "It gets everywhere",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 675
     },
     {
       "ID": "STRIKE",
       "SetID": "3c20ib3",
       "Name": "Zap!",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 225
     },
     {
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
       "Percentage": 40,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3000
     },
     {
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
       "Percentage": 39,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2925
     },
     {
       "ID": "V_VEGAN",
       "SetID": "3c20ib3",
       "Name": "V is for Vegan",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -248,13 +279,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:06:23.2665936+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:31.2614208+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 75,
-  "LastUpdate_Achievements": "2023-05-04T22:06:23.2666286+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:41.4912039+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:31.2614562+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:52.0624291+00:00",
   "AchievementSets": [
     {
       "ID": "3c20ib3",

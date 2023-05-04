@@ -7,63 +7,72 @@
       "SetID": "3n3mm3c",
       "Name": "Master of Sins",
       "Percentage": 57,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 4104
     },
     {
       "ID": "701322",
       "SetID": "3n3mm3c",
       "Name": "Master of Warfare",
       "Percentage": 33,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 2376
     },
     {
       "ID": "701332",
       "SetID": "3n3mm3c",
       "Name": "Lucky Strike",
       "Percentage": 56,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4032
     },
     {
       "ID": "701382",
       "SetID": "3n3mm3c",
       "Name": "Paradise lost",
       "Percentage": 96,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6912
     },
     {
       "ID": "701392",
       "SetID": "3n3mm3c",
       "Name": "Dark Kingdom Come",
       "Percentage": 75,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 5400
     },
     {
       "ID": "701402",
       "SetID": "3n3mm3c",
       "Name": "Cardinal Sins",
       "Percentage": 44,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3168
     },
     {
       "ID": "701422",
       "SetID": "3n3mm3c",
       "Name": "Hellfire",
       "Percentage": 22,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 1584
     },
     {
       "ID": "701432",
       "SetID": "3n3mm3c",
       "Name": "Vicious Delicious",
       "Percentage": 26,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 1872
     },
     {
       "ID": "701442",
       "SetID": "3n3mm3c",
       "Name": "Warm and Fuzzy",
       "Percentage": 44,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 3168
     }
   ],
   "Tags": [],
@@ -89,13 +98,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 9,
-  "LastChanged_Achievements": "2023-05-04T22:07:01.8087374+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.6089476+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 14,
   "EOS_Progressed": 72,
-  "LastUpdate_Achievements": "2023-05-04T22:07:01.8087483+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:22.492942+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.6089568+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:16.4378205+00:00",
   "AchievementSets": [
     {
       "ID": "3n3mm3c",

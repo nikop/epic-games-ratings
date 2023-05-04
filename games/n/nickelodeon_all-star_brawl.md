@@ -1,31 +1,32 @@
 # Nickelodeon All-Star Brawl
+[View Rawdata](../../db/n/nickelodeon_all-star_brawl.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Rise and Shine | 0.00 |
-| Getting to Know the Family | 0.00 |
-| GO NINJA GO!!! | 0.00 |
-| A Worthy Opponent | 0.00 |
-| Dog the Mighty! | 0.00 |
-| Unleash the DOOM! | 0.00 |
-| King of Sportz | 0.00 |
-| Better than the Turkey Jerkies! | 0.00 |
-| Smashing! | 0.00 |
-| Going Ghost! | 0.00 |
-| Move it, Football Head! | 0.00 |
-| Astonishing! | 0.00 |
-| I'm Ready! I'm Ready! | 0.00 |
-| Time to Scare the Opposition | 0.00 |
-| World Domination is at Hand! | 0.00 |
-| A Pretty Amazing Person | 0.00 |
-| Flawless Hair, Check! | 0.00 |
-| COWABUNGA! | 0.00 |
-| ACTIVATE THE PLOT DEVICE! | 0.00 |
-| Everything is Connected | 0.00 |
-| Avatar State | 0.00 |
-| Ultimate Tool of Destruction | 0.00 |
-| I Want an Award! | 0.00 |
-| I Only Know How to Give 110% | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Rise and Shine | 0.00% | ~0 |
+| Getting to Know the Family | 0.00% | ~0 |
+| GO NINJA GO!!! | 0.00% | ~0 |
+| A Worthy Opponent | 0.00% | ~0 |
+| Dog the Mighty! | 0.00% | ~0 |
+| Unleash the DOOM! | 0.00% | ~0 |
+| King of Sportz | 0.00% | ~0 |
+| Better than the Turkey Jerkies! | 0.00% | ~0 |
+| Smashing! | 0.00% | ~0 |
+| Going Ghost! | 0.00% | ~0 |
+| Move it, Football Head! | 0.00% | ~0 |
+| Astonishing! | 0.00% | ~0 |
+| I'm Ready! I'm Ready! | 0.00% | ~0 |
+| Time to Scare the Opposition | 0.00% | ~0 |
+| World Domination is at Hand! | 0.00% | ~0 |
+| A Pretty Amazing Person | 0.00% | ~0 |
+| Flawless Hair, Check! | 0.00% | ~0 |
+| COWABUNGA! | 0.00% | ~0 |
+| ACTIVATE THE PLOT DEVICE! | 0.00% | ~0 |
+| Everything is Connected | 0.00% | ~0 |
+| Avatar State | 0.00% | ~0 |
+| Ultimate Tool of Destruction | 0.00% | ~0 |
+| I Want an Award! | 0.00% | ~0 |
+| I Only Know How to Give 110% | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 571 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 191)  

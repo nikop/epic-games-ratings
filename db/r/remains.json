@@ -7,49 +7,56 @@
       "SetID": "436h0ek",
       "Name": "Garbage collector",
       "Percentage": 80,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 400
     },
     {
       "ID": "Achievement_IAmSpeed",
       "SetID": "436h0ek",
       "Name": "I am speed!",
       "Percentage": 20,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_ItsSafeHere",
       "SetID": "436h0ek",
       "Name": "It\u0027s safe here!",
       "Percentage": 20,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_NoOneWillHearYou",
       "SetID": "436h0ek",
       "Name": "No one will hear you!",
       "Percentage": 40,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_OmNomNom",
       "SetID": "436h0ek",
       "Name": "Om nom nom",
       "Percentage": 60,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 300
     },
     {
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
       "Percentage": 20,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_Welcome",
       "SetID": "436h0ek",
       "Name": "Welcome",
       "Percentage": 100,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 500
     }
   ],
   "Tags": [],
@@ -73,13 +80,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 7,
-  "LastChanged_Achievements": "2023-05-04T22:06:07.0548541+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:19.0289294+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:06:07.0548618+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:42.2709996+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:19.0289404+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:31.4502907+00:00",
   "AchievementSets": [
     {
       "ID": "436h0ek",

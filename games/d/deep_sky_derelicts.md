@@ -1,9 +1,10 @@
 # Deep Sky Derelicts
+[View Rawdata](../../db/d/deep_sky_derelicts.json)  
 Rating: 4.38 (Ranked 686)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

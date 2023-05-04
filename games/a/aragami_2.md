@@ -1,53 +1,54 @@
 # Aragami 2
+[View Rawdata](../../db/a/aragami_2.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Awakening | 92.00 |
-| First Steps | 81.00 |
-| Control the Shadows | 68.00 |
-| Tools of the Trade | 63.00 |
-| Apprentice | 60.00 |
-| Secret Seeker | 57.00 |
-| Forge of Assassins | 56.00 |
-| Revenant | 51.00 |
-| I don’t Care! | 45.00 |
-| Bird of Prey | 37.00 |
-| Engraved with Power | 32.00 |
-| Lady | 30.00 |
-| Fashionable Assassin | 27.00 |
-| Apex Predator | 24.00 |
-| Soul Reaver | 22.00 |
-| Embers | 21.00 |
-| Wall Lizard | 20.00 |
-| Clinging to Life | 18.00 |
-| Burning | 17.00 |
-| Look Behind You | 16.00 |
-| Sleeping on the Job | 16.00 |
-| Family | 14.00 |
-| War Engines | 14.00 |
-| Signature Move | 14.00 |
-| Ruse | 11.00 |
-| Master Ninja | 10.00 |
-| Hatching | 9.00 |
-| Bonds | 9.00 |
-| Denouement | 8.00 |
-| Get Over Here | 8.00 |
-| The Hidden Village | 8.00 |
-| A Pleasant Stay | 8.00 |
-| Pilgrimage | 7.00 |
-| The Lookout | 5.00 |
-| The Spirit of Vengeance | 5.00 |
-| Left Behind | 4.00 |
-| Secrets of the Earth | 4.00 |
-| Hollow | 4.00 |
-| The Lion’s Den | 3.00 |
-| Heart of Fire | 3.00 |
-| Forest Spirits | 3.00 |
-| Legacy | 2.00 |
-| Hot Potato | 1.00 |
-| Anger Management | 1.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Awakening | 92.00% | ~2,916,308 |
+| First Steps | 81.00% | ~2,567,619 |
+| Control the Shadows | 68.00% | ~2,155,532 |
+| Tools of the Trade | 63.00% | ~1,997,037 |
+| Apprentice | 60.00% | ~1,901,940 |
+| Secret Seeker | 57.00% | ~1,806,843 |
+| Forge of Assassins | 56.00% | ~1,775,144 |
+| Revenant | 51.00% | ~1,616,649 |
+| I don’t Care! | 45.00% | ~1,426,455 |
+| Bird of Prey | 37.00% | ~1,172,863 |
+| Engraved with Power | 32.00% | ~1,014,368 |
+| Lady | 30.00% | ~950,970 |
+| Fashionable Assassin | 27.00% | ~855,873 |
+| Apex Predator | 24.00% | ~760,776 |
+| Soul Reaver | 22.00% | ~697,378 |
+| Embers | 21.00% | ~665,679 |
+| Wall Lizard | 20.00% | ~633,980 |
+| Clinging to Life | 18.00% | ~570,582 |
+| Burning | 17.00% | ~538,883 |
+| Look Behind You | 16.00% | ~507,184 |
+| Sleeping on the Job | 16.00% | ~507,184 |
+| Family | 14.00% | ~443,786 |
+| War Engines | 14.00% | ~443,786 |
+| Signature Move | 14.00% | ~443,786 |
+| Ruse | 11.00% | ~348,689 |
+| Master Ninja | 10.00% | ~316,990 |
+| Hatching | 9.00% | ~285,291 |
+| Bonds | 9.00% | ~285,291 |
+| Denouement | 8.00% | ~253,592 |
+| Get Over Here | 8.00% | ~253,592 |
+| The Hidden Village | 8.00% | ~253,592 |
+| A Pleasant Stay | 8.00% | ~253,592 |
+| Pilgrimage | 7.00% | ~221,893 |
+| The Lookout | 5.00% | ~158,495 |
+| The Spirit of Vengeance | 5.00% | ~158,495 |
+| Left Behind | 4.00% | ~126,796 |
+| Secrets of the Earth | 4.00% | ~126,796 |
+| Hollow | 4.00% | ~126,796 |
+| The Lion’s Den | 3.00% | ~95,097 |
+| Heart of Fire | 3.00% | ~95,097 |
+| Forest Spirits | 3.00% | ~95,097 |
+| Legacy | 2.00% | ~63,398 |
+| Hot Potato | 1.00% | ~31,699 |
+| Anger Management | 1.00% | ~31,699 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31,699 (Ranked 80)  
 Completed: 146 (0.46%) (Ranked 100)  

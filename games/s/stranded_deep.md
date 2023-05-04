@@ -1,4 +1,5 @@
 # Stranded Deep
+[View Rawdata](../../db/s/stranded_deep.json)  
 Rating: 4.22 (Ranked 794)  
 Number of Ratings: 3,300  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Quickly Understood Controls): 202  (Ranked 255)
 Sum: 1,018 (Ranked 227)  
 Diff (max vs sum): 28  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Inscryption
+[View Rawdata](../../db/i/inscryption.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 771  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Puzzles): 330  (Ranked 213)
 Sum: 354 (Ranked 309)  
 Diff (max vs sum): -96  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

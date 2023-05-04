@@ -1,8 +1,9 @@
 # SpellForce 3: Soul Harvest
+[View Rawdata](../../db/s/spellforce_3__soul_harvest.json)  
 Rating: 4.44 (Ranked 620)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

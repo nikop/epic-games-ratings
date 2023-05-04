@@ -1,4 +1,5 @@
 # Blipz
+[View Rawdata](../../db/b/blipz.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

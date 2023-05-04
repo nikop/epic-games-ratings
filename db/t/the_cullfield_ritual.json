@@ -7,84 +7,96 @@
       "SetID": "4jdb0nm",
       "Name": "Purgatory",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEAT_DEV",
       "SetID": "4jdb0nm",
       "Name": "Dethroned",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEAT_PROLOGUE",
       "SetID": "4jdb0nm",
       "Name": "A Fever Dream",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CANDLE_DEATH",
       "SetID": "4jdb0nm",
       "Name": "Too Slow",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CAUGHT_IN_LOCKED",
       "SetID": "4jdb0nm",
       "Name": "Nice Try",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CAUGHT_UNDER_BED",
       "SetID": "4jdb0nm",
       "Name": "I See You",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "GET_CAUGHT",
       "SetID": "4jdb0nm",
       "Name": "Meet The Pilgrim",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "GOOD_ENDING",
       "SetID": "4jdb0nm",
       "Name": "Reunited",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "NO_DEATHS",
       "SetID": "4jdb0nm",
       "Name": "Unscathed",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "NO_SPRINTING",
       "SetID": "4jdb0nm",
       "Name": "Turtle Mode",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "SECRET_ENDING",
       "SetID": "4jdb0nm",
       "Name": "G.O.A.T",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPIRIT_REALM_LIMIT",
       "SetID": "4jdb0nm",
       "Name": "Shy",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -92,13 +104,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:06:33.1113054+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:38.2646976+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:33.1113206+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:33.5405844+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:38.2647105+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:05.6962272+00:00",
   "AchievementSets": [
     {
       "ID": "4jdb0nm",
@@ -109,7 +121,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:49:34.5395291+00:00"

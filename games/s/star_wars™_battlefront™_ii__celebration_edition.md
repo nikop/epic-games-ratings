@@ -1,7 +1,8 @@
 # STAR WARS™ Battlefront™ II: Celebration Edition
+[View Rawdata](../../db/s/star_wars™_battlefront™_ii__celebration_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

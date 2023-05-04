@@ -7,175 +7,200 @@
       "SetID": "6ggg7d2",
       "Name": "Costume Quest",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_GOLDEN_GEARS",
       "SetID": "6ggg7d2",
       "Name": "Master Mechanic",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_LOCATIONS",
       "SetID": "6ggg7d2",
       "Name": "Tour Guide",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_MEDALLIONS",
       "SetID": "6ggg7d2",
       "Name": "Master Explorer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_MEDALLIONS_CANYON",
       "SetID": "6ggg7d2",
       "Name": "Cozy Canyon Mastery",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_MEDALLIONS_CAVE",
       "SetID": "6ggg7d2",
       "Name": "Crystal Cavern Mastery",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_MEDALLIONS_MOUNTAIN",
       "SetID": "6ggg7d2",
       "Name": "Mount Magma Mastery",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_MEDALLIONS_SAND",
       "SetID": "6ggg7d2",
       "Name": "Sinking Sands Mastery",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_PENGUINS",
       "SetID": "6ggg7d2",
       "Name": "Pin Bird Protector",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ALL_PHOTOS",
       "SetID": "6ggg7d2",
       "Name": "Creature Biologist",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BEAT_GAME",
       "SetID": "6ggg7d2",
       "Name": "The Milky Way Globe",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BEAT_NEW_GAME_PLUS",
       "SetID": "6ggg7d2",
       "Name": "An Alternate Dimension",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_EXPLORER_LEVEL_10",
       "SetID": "6ggg7d2",
       "Name": "Fledgling Explorer",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_EXPLORER_LEVEL_60",
       "SetID": "6ggg7d2",
       "Name": "To the Mysterious Gate!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIRST_BONK",
       "SetID": "6ggg7d2",
       "Name": "Bonk!",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_FIRST_DEATH",
       "SetID": "6ggg7d2",
       "Name": "First Death",
       "Percentage": 50,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_FIRST_FOSSIL",
       "SetID": "6ggg7d2",
       "Name": "The Amazing Archaeologist",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIRST_HAT",
       "SetID": "6ggg7d2",
       "Name": "Hat Kid",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIRST_ITEM_PURCHASED",
       "SetID": "6ggg7d2",
       "Name": "Big Spender",
       "Percentage": 50,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_FIRST_MEDALLION",
       "SetID": "6ggg7d2",
       "Name": "Junior Explorer",
       "Percentage": 100,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_FIRST_TRIPLE_JUMP",
       "SetID": "6ggg7d2",
       "Name": "Classic Platforming",
       "Percentage": 50,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_KICK_BUCKET_HEAD",
       "SetID": "6ggg7d2",
       "Name": "POW!",
       "Percentage": 50,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_MEET_MERCHANT",
       "SetID": "6ggg7d2",
       "Name": "Meet the Merchant",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PHOTO_MASTER_EXPLORER",
       "SetID": "6ggg7d2",
       "Name": "Say Cheese!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_VISIT_MARS",
       "SetID": "6ggg7d2",
       "Name": "Planet K-0",
       "Percentage": 50,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 100
     }
   ],
   "Tags": [],
@@ -189,13 +214,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-04T22:06:50.4089994+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:51.2666632+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:06:50.4090178+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:40.2059908+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:51.2666892+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:48.3261624+00:00",
   "AchievementSets": [
     {
       "ID": "6ggg7d2",
@@ -206,7 +231,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T20:51:53.5136061+00:00"

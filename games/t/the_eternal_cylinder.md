@@ -1,9 +1,10 @@
 # The Eternal Cylinder
+[View Rawdata](../../db/t/the_eternal_cylinder.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 149  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

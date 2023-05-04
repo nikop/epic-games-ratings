@@ -1,40 +1,41 @@
 # High On Life
+[View Rawdata](../../db/h/high_on_life.json)  
 Rating: 4.67 (Ranked 255)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Eye Scream, You Scream | 83.00 |
-| Mods Please Ban | 77.00 |
-| Bring A Knife to a Gun Fight | 76.00 |
-| Fallout Doesn't Let You Do This | 73.00 |
-| First Bounty Down | 59.00 |
-| We're All Very Impressed, Trust Me | 57.00 |
-| Luglox Genocide | 43.00 |
-| Playing Card To Get | 33.00 |
-| Don't Knife The Hand That Feeds | 33.00 |
-| Creature Feature | 29.00 |
-| Satisfied Gus-tomer | 28.00 |
-| Cold-Blooded Driller | 28.00 |
-| Are You Packin'? | 24.00 |
-| RIP Davey Glutes | 24.00 |
-| Sweezy Like Sunday Morning | 24.00 |
-| G3 Graduation | 24.00 |
-| Hardest Battle In The Game | 22.00 |
-| Series Wrap on Suit-O | 22.00 |
-| Lezduit! | 20.00 |
-| Who's The Boss? | 20.00 |
-| Self-Actualization | 19.00 |
-| Spent 15 Hours At The Alien Strip Club | 19.00 |
-| Legendary Bounty Hunter | 18.00 |
-| Seeing All The Sights | 16.00 |
-| Carried Stan's Load To Completion | 13.00 |
-| We Paid For The Rights To Put A Whole Movie In Here | 11.00 |
-| Eatin' Good in the Neighborhood | 9.00 |
-| Sequel-Bait | 8.00 |
-| Gunning For Your Job | 7.00 |
-| Playing Favorites | 6.00 |
-| Epic Legendary Prize | 1.00 |
-| A Starfish Is Born | 1.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Eye Scream, You Scream | 83.00% | ~1,876,713 |
+| Mods Please Ban | 77.00% | ~1,741,047 |
+| Bring A Knife to a Gun Fight | 76.00% | ~1,718,436 |
+| Fallout Doesn't Let You Do This | 73.00% | ~1,650,603 |
+| First Bounty Down | 59.00% | ~1,334,049 |
+| We're All Very Impressed, Trust Me | 57.00% | ~1,288,827 |
+| Luglox Genocide | 43.00% | ~972,273 |
+| Playing Card To Get | 33.00% | ~746,163 |
+| Don't Knife The Hand That Feeds | 33.00% | ~746,163 |
+| Creature Feature | 29.00% | ~655,719 |
+| Satisfied Gus-tomer | 28.00% | ~633,108 |
+| Cold-Blooded Driller | 28.00% | ~633,108 |
+| Are You Packin'? | 24.00% | ~542,664 |
+| RIP Davey Glutes | 24.00% | ~542,664 |
+| Sweezy Like Sunday Morning | 24.00% | ~542,664 |
+| G3 Graduation | 24.00% | ~542,664 |
+| Hardest Battle In The Game | 22.00% | ~497,442 |
+| Series Wrap on Suit-O | 22.00% | ~497,442 |
+| Lezduit! | 20.00% | ~452,220 |
+| Who's The Boss? | 20.00% | ~452,220 |
+| Self-Actualization | 19.00% | ~429,609 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~429,609 |
+| Legendary Bounty Hunter | 18.00% | ~406,998 |
+| Seeing All The Sights | 16.00% | ~361,776 |
+| Carried Stan's Load To Completion | 13.00% | ~293,943 |
+| We Paid For The Rights To Put A Whole Movie In Here | 11.00% | ~248,721 |
+| Eatin' Good in the Neighborhood | 9.00% | ~203,499 |
+| Sequel-Bait | 8.00% | ~180,888 |
+| Gunning For Your Job | 7.00% | ~158,277 |
+| Playing Favorites | 6.00% | ~135,666 |
+| Epic Legendary Prize | 1.00% | ~22,611 |
+| A Starfish Is Born | 1.00% | ~22,611 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22,611 (Ranked 86)  
 Completed: 8 (0.04%) (Ranked 167)  

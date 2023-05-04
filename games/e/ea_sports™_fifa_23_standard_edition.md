@@ -1,12 +1,13 @@
 # EA SPORTS™ FIFA 23 Standard Edition
+[View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
 Rating: 4.24 (Ranked 780)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 8,812  (Ranked 37)  
 Sum: 41,817 (Ranked 27)  
 Diff (max vs sum): 10  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

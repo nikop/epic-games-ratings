@@ -1,7 +1,8 @@
 # LEGO® Builder's Journey
+[View Rawdata](../../db/l/lego®_builder's_journey.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,322 +7,368 @@
       "SetID": "cf5h6dl",
       "Name": "My Summer Vacation with the Professor",
       "Percentage": 0,
-      "XP": 120
+      "XP": 120,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 704
     },
     {
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_04",
       "SetID": "cf5h6dl",
       "Name": "A New Time",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_05",
       "SetID": "cf5h6dl",
       "Name": "Bee Professor",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_06",
       "SetID": "cf5h6dl",
       "Name": "Beetle Savant",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_07",
       "SetID": "cf5h6dl",
       "Name": "Grasshopper Guru",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_08",
       "SetID": "cf5h6dl",
       "Name": "Butterfly Maestro",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_09",
       "SetID": "cf5h6dl",
       "Name": "Cicada Connoisseur",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_10",
       "SetID": "cf5h6dl",
       "Name": "Dragonfly Whiz",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
       "Percentage": 36,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 792
     },
     {
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_13",
       "SetID": "cf5h6dl",
       "Name": "My Fair Ladybug",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_14",
       "SetID": "cf5h6dl",
       "Name": "The Holly Grail",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_15",
       "SetID": "cf5h6dl",
       "Name": "Love Is in the Air!",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_16",
       "SetID": "cf5h6dl",
       "Name": "What\u0027s That Smell?",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_17",
       "SetID": "cf5h6dl",
       "Name": "Insect Aficionado",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_18",
       "SetID": "cf5h6dl",
       "Name": "Marine Biologist",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_20",
       "SetID": "cf5h6dl",
       "Name": "Biwa Be Mine",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_21",
       "SetID": "cf5h6dl",
       "Name": "Winner Winner, Minnow Dinner",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_22",
       "SetID": "cf5h6dl",
       "Name": "That Was a Snap!",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_24",
       "SetID": "cf5h6dl",
       "Name": "Ice Fishing",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_25",
       "SetID": "cf5h6dl",
       "Name": "Rosy Cheeks",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_26",
       "SetID": "cf5h6dl",
       "Name": "Farm Life!",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_27",
       "SetID": "cf5h6dl",
       "Name": "Veggie Virtuoso",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
       "Percentage": 32,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 704
     },
     {
       "ID": "Trophy_29",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Oyakodon?",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_30",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Ramen?",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_31",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Katsu Curry?",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_32",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Pork Curry?",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_33",
       "SetID": "cf5h6dl",
       "Name": "Handyman Extraordinaire",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_34",
       "SetID": "cf5h6dl",
       "Name": "Top-Notch Journalist",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
       "Percentage": 18,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 396
     },
     {
       "ID": "Trophy_36",
       "SetID": "cf5h6dl",
       "Name": "Brachio Battler",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_37",
       "SetID": "cf5h6dl",
       "Name": "Ptera Pal",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_38",
       "SetID": "cf5h6dl",
       "Name": "Stego Stooge",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_39",
       "SetID": "cf5h6dl",
       "Name": "T-Rex Wrangler",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_40",
       "SetID": "cf5h6dl",
       "Name": "Gumdum Robot, I Choose You!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_41",
       "SetID": "cf5h6dl",
       "Name": "Dinosaur Master",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_42",
       "SetID": "cf5h6dl",
       "Name": "DJ Superstar",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     },
     {
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 308
     },
     {
       "ID": "Trophy_44",
       "SetID": "cf5h6dl",
       "Name": "Asso Billboard Inspector",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_45",
       "SetID": "cf5h6dl",
       "Name": "Asso Stair Climber",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 110
     },
     {
       "ID": "Trophy_46",
       "SetID": "cf5h6dl",
       "Name": "Asso Bridge Enthusiast",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 198
     }
   ],
   "Tags": [],
@@ -343,13 +389,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-04T22:07:01.3592941+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.3033973+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 22,
-  "LastUpdate_Achievements": "2023-05-04T22:07:01.3593463+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:15.7520422+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.3034385+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:12.139964+00:00",
   "AchievementSets": [
     {
       "ID": "cf5h6dl",
@@ -365,7 +411,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 290,
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00"

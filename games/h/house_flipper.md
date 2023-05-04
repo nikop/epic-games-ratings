@@ -1,4 +1,5 @@
 # House Flipper
+[View Rawdata](../../db/h/house_flipper.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,31 +7,31 @@ Max (Great for Beginners): 282  (Ranked 225)
 Sum: 2,107 (Ranked 179)  
 Diff (max vs sum): 46  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First money | 94.00 |
-| Strongman | 31.00 |
-| Alpha Male | 19.00 |
-| Just Enough | 18.00 |
-| Pro-creative | 17.00 |
-| Worth Every Penny | 15.00 |
-| Family man | 12.00 |
-| Junior Estate Agent | 12.00 |
-| Mystery | 10.00 |
-| Artistic soul | 9.00 |
-| Estate Agent | 5.00 |
-| Millionaire | 5.00 |
-| Perfectionist | 5.00 |
-| I'm Belieber | 2.00 |
-| You do it wrong | 1.00 |
-| Game Over | 0.80 |
-| Wall Street Shark | 0.80 |
-| Knock, knock | 0.80 |
-| Negotiator | 0.80 |
-| Car Mechanic | 0.70 |
-| Do it ASAP | 0.60 |
-| Nerd | 0.50 |
-| Senior Estate Agent | 0.50 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First money | 94.00% | ~1,753,006 |
+| Strongman | 31.00% | ~578,119 |
+| Alpha Male | 19.00% | ~354,331 |
+| Just Enough | 18.00% | ~335,682 |
+| Pro-creative | 17.00% | ~317,033 |
+| Worth Every Penny | 15.00% | ~279,735 |
+| Family man | 12.00% | ~223,788 |
+| Junior Estate Agent | 12.00% | ~223,788 |
+| Mystery | 10.00% | ~186,490 |
+| Artistic soul | 9.00% | ~167,841 |
+| Estate Agent | 5.00% | ~93,245 |
+| Millionaire | 5.00% | ~93,245 |
+| Perfectionist | 5.00% | ~93,245 |
+| I'm Belieber | 2.00% | ~37,298 |
+| You do it wrong | 1.00% | ~18,649 |
+| Game Over | 0.80% | ~14,919 |
+| Wall Street Shark | 0.80% | ~14,919 |
+| Knock, knock | 0.80% | ~14,919 |
+| Negotiator | 0.80% | ~14,919 |
+| Car Mechanic | 0.70% | ~13,054 |
+| Do it ASAP | 0.60% | ~11,189 |
+| Nerd | 0.50% | ~9,324 |
+| Senior Estate Agent | 0.50% | ~9,324 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,649 (Ranked 92)  
 Completed: 19 (0.10%) (Ranked 150)  

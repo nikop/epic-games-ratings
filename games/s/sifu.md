@@ -1,4 +1,5 @@
 # Sifu
+[View Rawdata](../../db/s/sifu.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,58 +7,58 @@ Max (Great Boss Battles): 6,025  (Ranked 53)
 Sum: 10,205 (Ranked 77)  
 Diff (max vs sum): -24  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Diligence as a goal | 4.00 |
-| Project Arena | 3.00 |
-| Bloody Sport | 1.00 |
-| The best strikes are the ones we avoid | 0.80 |
-| The Hateful Pole Fighter | 0.70 |
-| A Lady's Blood in the Snow | 0.70 |
-| Qi Gong: Breath | 0.70 |
-| Path of the Prospect | 0.70 |
-| The Assault | 0.60 |
-| Lady Wing Chun | 0.60 |
-| Furious Fists | 0.60 |
-| Kill Nil | 0.60 |
-| State of constant learning | 0.60 |
-| Qi Gong: Essence | 0.60 |
-| Rumble in the Hangar | 0.60 |
-| Take damage to save time | 0.60 |
-| The Old Grandmaster | 0.50 |
-| Scareless | 0.50 |
-| Stuntmaster | 0.50 |
-| Street Fighting | 0.50 |
-| Life is your teacher | 0.50 |
-| Lightning Hands | 0.50 |
-| Kung-Fu Tussle | 0.50 |
-| Deadly Venom | 0.50 |
-| A Touch of Acumen | 0.50 |
-| Dance of the Praying Mantis | 0.40 |
-| Qi Gong: Mind | 0.40 |
-| Old Child | 0.40 |
-| Muk Yan Master | 0.30 |
-| Tiger on Fire | 0.30 |
-| Source of Flying Daggers | 0.30 |
-| Iron Money | 0.30 |
-| Legendary Talismans of Wuxing | 0.30 |
-| Detective Story | 0.30 |
-| The 36th Chamber of Kung-Fu | 0.30 |
-| I know Kung-Fu | 0.30 |
-| Martial Hub | 0.30 |
-| Secure, Protect, Leave | 0.30 |
-| Prodigal Child | 0.20 |
-| Drunken Fighter | 0.20 |
-| Martial Artist | 0.20 |
-| Knowledge Greed | 0.20 |
-| Sword Stained With Blood | 0.20 |
-| Healing Memory | 0.10 |
-| Master of the Phoenix Eye Fist | 0.10 |
-| Ferocity, speed, strength, accuracy | 0.10 |
-| The Pit Protector | 0.10 |
-| Be like water my friend | 0.10 |
-| Warriors from the Mountain | 0.10 |
-| Come Snap With Me | 0.10 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Diligence as a goal | 4.00% | ~47,572 |
+| Project Arena | 3.00% | ~35,679 |
+| Bloody Sport | 1.00% | ~11,893 |
+| The best strikes are the ones we avoid | 0.80% | ~9,514 |
+| The Hateful Pole Fighter | 0.70% | ~491,814 |
+| A Lady's Blood in the Snow | 0.70% | ~491,814 |
+| Qi Gong: Breath | 0.70% | ~491,814 |
+| Path of the Prospect | 0.70% | ~491,814 |
+| The Assault | 0.60% | ~421,555 |
+| Lady Wing Chun | 0.60% | ~421,555 |
+| Furious Fists | 0.60% | ~421,555 |
+| Kill Nil | 0.60% | ~421,555 |
+| State of constant learning | 0.60% | ~421,555 |
+| Qi Gong: Essence | 0.60% | ~421,555 |
+| Rumble in the Hangar | 0.60% | ~421,555 |
+| Take damage to save time | 0.60% | ~421,555 |
+| The Old Grandmaster | 0.50% | ~351,296 |
+| Scareless | 0.50% | ~351,296 |
+| Stuntmaster | 0.50% | ~351,296 |
+| Street Fighting | 0.50% | ~351,296 |
+| Life is your teacher | 0.50% | ~351,296 |
+| Lightning Hands | 0.50% | ~351,296 |
+| Kung-Fu Tussle | 0.50% | ~351,296 |
+| Deadly Venom | 0.50% | ~5,946 |
+| A Touch of Acumen | 0.50% | ~5,946 |
+| Dance of the Praying Mantis | 0.40% | ~281,037 |
+| Qi Gong: Mind | 0.40% | ~281,037 |
+| Old Child | 0.40% | ~281,037 |
+| Muk Yan Master | 0.30% | ~210,778 |
+| Tiger on Fire | 0.30% | ~210,778 |
+| Source of Flying Daggers | 0.30% | ~210,778 |
+| Iron Money | 0.30% | ~210,778 |
+| Legendary Talismans of Wuxing | 0.30% | ~210,778 |
+| Detective Story | 0.30% | ~210,778 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~210,778 |
+| I know Kung-Fu | 0.30% | ~210,778 |
+| Martial Hub | 0.30% | ~3,568 |
+| Secure, Protect, Leave | 0.30% | ~3,568 |
+| Prodigal Child | 0.20% | ~140,518 |
+| Drunken Fighter | 0.20% | ~140,518 |
+| Martial Artist | 0.20% | ~140,518 |
+| Knowledge Greed | 0.20% | ~140,518 |
+| Sword Stained With Blood | 0.20% | ~140,518 |
+| Healing Memory | 0.10% | ~70,259 |
+| Master of the Phoenix Eye Fist | 0.10% | ~70,259 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~70,259 |
+| The Pit Protector | 0.10% | ~70,259 |
+| Be like water my friend | 0.10% | ~70,259 |
+| Warriors from the Mountain | 0.10% | ~70,259 |
+| Come Snap With Me | 0.10% | ~70,259 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702,592 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  

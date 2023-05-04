@@ -1,12 +1,13 @@
 # The Last of Us™ Part I
+[View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
 Rating: 3.96 (Ranked 886)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  
 Diff (max vs sum): -55  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

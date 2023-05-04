@@ -7,98 +7,112 @@
       "SetID": "1blkama",
       "Name": "Across The Border",
       "Percentage": 79,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1085855
     },
     {
       "ID": "ACH_AFTER_ALL",
       "SetID": "1blkama",
       "Name": "After All",
       "Percentage": 0.9,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 12370
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
       "SetID": "1blkama",
       "Name": "Caught in a Trap",
       "Percentage": 12,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 164940
     },
     {
       "ID": "ACH_DANGER_AHEAD",
       "SetID": "1blkama",
       "Name": "Danger Ahead",
       "Percentage": 28,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 384860
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
       "SetID": "1blkama",
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 274900
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
       "SetID": "1blkama",
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 17,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 233665
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
       "SetID": "1blkama",
       "Name": "Hello My Old Friend",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 82470
     },
     {
       "ID": "ACH_IM_ALIVE",
       "SetID": "1blkama",
       "Name": "I\u0027m Alive",
       "Percentage": 53,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 728485
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
       "SetID": "1blkama",
       "Name": "In For The Kill",
       "Percentage": 12,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 164940
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
       "SetID": "1blkama",
       "Name": "In My Own Time",
       "Percentage": 13,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 178685
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
       "SetID": "1blkama",
       "Name": "Look at Me Now",
       "Percentage": 28,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 384860
     },
     {
       "ID": "ACH_THE_FALL",
       "SetID": "1blkama",
       "Name": "The Fall",
       "Percentage": 19,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 261155
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
       "SetID": "1blkama",
       "Name": "Time of Our Life",
       "Percentage": 0.3,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 4124
     },
     {
       "ID": "ACH_WILD_WEST_HERO",
       "SetID": "1blkama",
       "Name": "Wild West Hero",
       "Percentage": 14,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 192430
     }
   ],
   "Tags": [],
@@ -942,6 +956,11 @@
       "Time": "2023-05-04T22:07:02.5021857+00:00",
       "NumProgressed": 13744,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-04T22:25:00.0709671+00:00",
+      "NumProgressed": 13745,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1057,18 +1076,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T22:07:02.502185+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:00.0709666+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 296,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13744,
-  "LastUpdate_Achievements": "2023-05-04T22:07:02.5022017+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:27.4153277+00:00",
+  "EOS_Progressed": 13745,
+  "LastUpdate_Achievements": "2023-05-04T22:25:00.0709841+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:19.6419478+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13744,
+      "Progressed": 13745,
       "Completed": 42
     }
   ],

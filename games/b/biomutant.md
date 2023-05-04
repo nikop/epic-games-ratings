@@ -1,4 +1,5 @@
 # BIOMUTANT
+[View Rawdata](../../db/b/biomutant.json)  
 Rating: 4.33 (Ranked 730)  
 Number of Ratings: 198  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 114  (Ranked 307)
 Sum: 157 (Ranked 374)  
 Diff (max vs sum): -67  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,161 +7,184 @@
       "SetID": "56632p4",
       "Name": "Notorious Pirate",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 207
     },
     {
       "ID": "A_Board_1_Ship",
       "SetID": "56632p4",
       "Name": "Pirate",
       "Percentage": 70,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1610
     },
     {
       "ID": "A_Board_25_Ships",
       "SetID": "56632p4",
       "Name": "Pirate Lord",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "A_Buy_All_Ships",
       "SetID": "56632p4",
       "Name": "Big Spender",
       "Percentage": 0,
-      "XP": 160
+      "XP": 160,
+      "UsersEstimate": 0
     },
     {
       "ID": "A_Buy_Bot",
       "SetID": "56632p4",
       "Name": "Just Lazy",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "A_Extinguish_10_Fires",
       "SetID": "56632p4",
       "Name": "Expert Firefighter",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 391
     },
     {
       "ID": "A_Extinguish_1_Fire",
       "SetID": "56632p4",
       "Name": "Firefighter",
       "Percentage": 87,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2001
     },
     {
       "ID": "A_Extinguish_25_Fires",
       "SetID": "56632p4",
       "Name": "Master Firefighter",
       "Percentage": 9,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 207
     },
     {
       "ID": "A_Fix_10_Systems",
       "SetID": "56632p4",
       "Name": "Expert Mechanic",
       "Percentage": 52,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1196
     },
     {
       "ID": "A_Fix_1_System",
       "SetID": "56632p4",
       "Name": "Mechanic",
       "Percentage": 91,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2093
     },
     {
       "ID": "A_Fix_50_Systems",
       "SetID": "56632p4",
       "Name": "Master Mechanic",
       "Percentage": 17,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 391
     },
     {
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
       "Percentage": 30,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 690
     },
     {
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
       "Percentage": 43,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 989
     },
     {
       "ID": "A_Meet_Uncle_Steff",
       "SetID": "56632p4",
       "Name": "Family Reunion",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 92
     },
     {
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
       "Percentage": 26,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 598
     },
     {
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
       "Percentage": 61,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1403
     },
     {
       "ID": "A_Mine_25_Asteroid",
       "SetID": "56632p4",
       "Name": "Master Miner",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 92
     },
     {
       "ID": "A_Pancake_Day",
       "SetID": "56632p4",
       "Name": "Pancake Day",
       "Percentage": 17,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 391
     },
     {
       "ID": "A_Ray_Of_Sunshine",
       "SetID": "56632p4",
       "Name": "Ray of Sunshine",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 207
     },
     {
       "ID": "A_Salvage_10_Wrecks",
       "SetID": "56632p4",
       "Name": "Expert Salvager",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
       "Percentage": 35,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 805
     },
     {
       "ID": "A_Salvage_25_Wrecks",
       "SetID": "56632p4",
       "Name": "Master Salvager",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "A_Visit_All_Stations",
       "SetID": "56632p4",
       "Name": "Day Trip",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -197,13 +220,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:06:33.9225072+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:38.8420081+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 23,
-  "LastUpdate_Achievements": "2023-05-04T22:06:33.9225248+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:33.7236733+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:38.8420301+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:05.8030425+00:00",
   "AchievementSets": [
     {
       "ID": "56632p4",

@@ -1,7 +1,8 @@
 # The Magnificent Trufflepigs
+[View Rawdata](../../db/t/the_magnificent_trufflepigs.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

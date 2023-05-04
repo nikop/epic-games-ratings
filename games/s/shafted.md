@@ -1,4 +1,5 @@
 # SHAFTED
+[View Rawdata](../../db/s/shafted.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

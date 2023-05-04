@@ -7,280 +7,320 @@
       "SetID": "7ea842h",
       "Name": "Time-Lord!",
       "Percentage": 100,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "Ach_02",
       "SetID": "7ea842h",
       "Name": "Oedipus Rex!",
       "Percentage": 100,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "Ach_03",
       "SetID": "7ea842h",
       "Name": "Don\u0027t Question My Flow!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_04",
       "SetID": "7ea842h",
       "Name": "Thera-peutic!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_05",
       "SetID": "7ea842h",
       "Name": "Trail-blazing Results!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_06",
       "SetID": "7ea842h",
       "Name": "A True Baggins!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_07",
       "SetID": "7ea842h",
       "Name": "Psilocyb-lings!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_08",
       "SetID": "7ea842h",
       "Name": "Delivery Service",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_09",
       "SetID": "7ea842h",
       "Name": "Courage!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_10",
       "SetID": "7ea842h",
       "Name": "Sportsmaster!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_11",
       "SetID": "7ea842h",
       "Name": "King of Pain!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_12",
       "SetID": "7ea842h",
       "Name": "Emperor\u0027s New Clothes!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_13",
       "SetID": "7ea842h",
       "Name": "Killer Queen!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_14",
       "SetID": "7ea842h",
       "Name": "Free Bird!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_15",
       "SetID": "7ea842h",
       "Name": "Rocco and Roll All Night!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_16",
       "SetID": "7ea842h",
       "Name": "Mama Can You Hear Me?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_17",
       "SetID": "7ea842h",
       "Name": "Better Luck Next Time!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_18",
       "SetID": "7ea842h",
       "Name": "Junkyard Dog!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_19",
       "SetID": "7ea842h",
       "Name": "Environmental Cleanup!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_20",
       "SetID": "7ea842h",
       "Name": "Master Archaeologist!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_21",
       "SetID": "7ea842h",
       "Name": "Book Worm",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_22",
       "SetID": "7ea842h",
       "Name": "Leftover Pizza, Yay!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_23",
       "SetID": "7ea842h",
       "Name": "Vault Hunter!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_24",
       "SetID": "7ea842h",
       "Name": "Strong Silent Type",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_25",
       "SetID": "7ea842h",
       "Name": "Excellence in Flight",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_26",
       "SetID": "7ea842h",
       "Name": "Te...T...Taxi",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_27",
       "SetID": "7ea842h",
       "Name": "Jelly-Pop",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_28",
       "SetID": "7ea842h",
       "Name": "Saving Max",
       "Percentage": 100,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 200
     },
     {
       "ID": "Ach_29",
       "SetID": "7ea842h",
       "Name": "Scroll Clicker",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_30",
       "SetID": "7ea842h",
       "Name": "One Day More",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_31",
       "SetID": "7ea842h",
       "Name": "What\u0027s the weather?",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_32",
       "SetID": "7ea842h",
       "Name": "Boom Lover",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_33",
       "SetID": "7ea842h",
       "Name": "Achoo!",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 100
     },
     {
       "ID": "Ach_34",
       "SetID": "7ea842h",
       "Name": "Aaaaaaa-chooooo!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_35",
       "SetID": "7ea842h",
       "Name": "Smart Consumer",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_36",
       "SetID": "7ea842h",
       "Name": "Path Finder Manager",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_37",
       "SetID": "7ea842h",
       "Name": "Orpheus",
       "Percentage": 100,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 200
     },
     {
       "ID": "Ach_38",
       "SetID": "7ea842h",
       "Name": "Dead Mouse",
       "Percentage": 100,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 200
     },
     {
       "ID": "Ach_39",
       "SetID": "7ea842h",
       "Name": "Cogito Ergo Sum",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_40",
       "SetID": "7ea842h",
       "Name": "Omnipotent!",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -301,13 +341,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-04T22:06:42.5763+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:45.3803793+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:06:42.5763609+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:03.2033606+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:45.3804308+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:24.9624815+00:00",
   "AchievementSets": [
     {
       "ID": "7ea842h",
@@ -323,7 +363,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T16:15:18.3748872+00:00"

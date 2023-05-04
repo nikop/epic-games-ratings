@@ -1,4 +1,5 @@
 # Capital Command
+[View Rawdata](../../db/c/capital_command.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

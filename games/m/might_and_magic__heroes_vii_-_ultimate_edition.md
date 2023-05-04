@@ -1,4 +1,5 @@
 # Might and Magic: Heroes VII - Ultimate Edition
+[View Rawdata](../../db/m/might_and_magic__heroes_vii_-_ultimate_edition.json)  
 Rating: 4.46 (Ranked 590)  
 Number of Ratings: 96  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Quickly Understood Controls): 27  (Ranked 454)
 Sum: 71 (Ranked 414)  
 Diff (max vs sum): 40  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

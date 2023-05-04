@@ -1,4 +1,5 @@
 # Quake
+[View Rawdata](../../db/q/quake.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 53  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 45  (Ranked 401)
 Sum: 45 (Ranked 438)  
 Diff (max vs sum): -37  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

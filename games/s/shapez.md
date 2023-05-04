@@ -1,12 +1,13 @@
 # shapez
+[View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 178)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 127  (Ranked 295)  
 Sum: 127 (Ranked 385)  
 Diff (max vs sum): -90  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

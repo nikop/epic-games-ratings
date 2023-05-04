@@ -1,4 +1,5 @@
 # Paladins
+[View Rawdata](../../db/p/paladins.json)  
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 3,197  (Ranked 82)
 Sum: 22,106 (Ranked 49)  
 Diff (max vs sum): 33  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

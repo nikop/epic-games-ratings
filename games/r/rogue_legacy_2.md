@@ -1,4 +1,5 @@
 # Rogue Legacy 2
+[View Rawdata](../../db/r/rogue_legacy_2.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,49 +7,49 @@ Max (Extremely Fun): 215  (Ranked 247)
 Sum: 1,620 (Ranked 201)  
 Diff (max vs sum): 46  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Captain and Crew | 0.20 |
-| Spells and Swords | 0.20 |
-| Truly Blessed | 0.10 |
-| Full House | 0.10 |
-| Pillow Investments | 0.10 |
-| Erebus Purified | 0.10 |
-| Looks Familiar | 0.10 |
-| For Justice | 0.10 |
-| For Glory | 0.10 |
-| For Wrath | 0.10 |
-| Hands and Hammers | 0.10 |
-| For Greed | 0.10 |
-| King and Kin | 0.10 |
-| For Survival | 0.10 |
-| Harvest and Home | 0.10 |
-| For Penance | 0.10 |
-| Progenitor and Protégé | 0.10 |
-| For Love | 0.10 |
-| Poise and Poisons | 0.10 |
-| For Pride | 0.10 |
-| Suns and Soldiers | 0.10 |
-| K.O. | 0.10 |
-| No Harm in Looking | 0.10 |
-| Good Practice | 0.10 |
-| Maybe Wax Doesn't Melt | 0.10 |
-| A Glimpse of the Future | 0.10 |
-| Good Boy! | 0.10 |
-| Prequel to the Sequel | 0.10 |
-| Just the Beginning | 0.10 |
-| Wasted Betrayal | 0.10 |
-| Had to Do It | 0.10 |
-| Jack of all Trades | 0.10 |
-| Color Coordination | 0.10 |
-| Rogue's Legacy | 0.00 |
-| Black-shoppe | 0.00 |
-| It Was Just an Estimate | 0.00 |
-| Thanatophobia | 0.00 |
-| Thanatwophobia | 0.00 |
-| Rogue Rogue Legacy | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Captain and Crew | 0.20% | ~4,282 |
+| Spells and Swords | 0.20% | ~4,282 |
+| Truly Blessed | 0.10% | ~2,141 |
+| Full House | 0.10% | ~2,141 |
+| Pillow Investments | 0.10% | ~2,141 |
+| Erebus Purified | 0.10% | ~2,141 |
+| Looks Familiar | 0.10% | ~2,141 |
+| For Justice | 0.10% | ~2,141 |
+| For Glory | 0.10% | ~2,141 |
+| For Wrath | 0.10% | ~2,141 |
+| Hands and Hammers | 0.10% | ~2,141 |
+| For Greed | 0.10% | ~2,141 |
+| King and Kin | 0.10% | ~2,141 |
+| For Survival | 0.10% | ~2,141 |
+| Harvest and Home | 0.10% | ~2,141 |
+| For Penance | 0.10% | ~2,141 |
+| Progenitor and Protégé | 0.10% | ~2,141 |
+| For Love | 0.10% | ~2,141 |
+| Poise and Poisons | 0.10% | ~2,141 |
+| For Pride | 0.10% | ~2,141 |
+| Suns and Soldiers | 0.10% | ~2,141 |
+| K.O. | 0.10% | ~2,141 |
+| No Harm in Looking | 0.10% | ~2,141 |
+| Good Practice | 0.10% | ~2,141 |
+| Maybe Wax Doesn't Melt | 0.10% | ~2,141 |
+| A Glimpse of the Future | 0.10% | ~2,141 |
+| Good Boy! | 0.10% | ~2,141 |
+| Prequel to the Sequel | 0.10% | ~2,141 |
+| Just the Beginning | 0.10% | ~2,141 |
+| Wasted Betrayal | 0.10% | ~2,141 |
+| Had to Do It | 0.10% | ~2,141 |
+| Jack of all Trades | 0.10% | ~2,141 |
+| Color Coordination | 0.10% | ~2,141 |
+| Rogue's Legacy | 0.00% | ~0 |
+| Black-shoppe | 0.00% | ~0 |
+| It Was Just an Estimate | 0.00% | ~0 |
+| Thanatophobia | 0.00% | ~0 |
+| Thanatwophobia | 0.00% | ~0 |
+| Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,408 (Ranked 89)  
+Progressed: 21,409 (Ranked 89)  
 Completed: 35 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +63,7 @@ Completed: 35 (0.16%) (Ranked 136)
 | 2023-05-01 | 21,342 | 35 |
 | 2023-05-02 | 21,362 | 35 |
 | 2023-05-03 | 21,383 | 35 |
-| 2023-05-04 | 21,408 | 35 |
+| 2023-05-04 | 21,409 | 35 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

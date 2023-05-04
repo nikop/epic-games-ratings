@@ -7,70 +7,80 @@
       "SetID": "7mi79a3",
       "Name": "Good boy",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_flash",
       "SetID": "7mi79a3",
       "Name": "Flash",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_meatball",
       "SetID": "7mi79a3",
       "Name": "Meatball",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_not_so",
       "SetID": "7mi79a3",
       "Name": "Not So",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_raging_rabbit",
       "SetID": "7mi79a3",
       "Name": "Raging Rabbit",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_rockhead",
       "SetID": "7mi79a3",
       "Name": "Rockhead",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_skinny",
       "SetID": "7mi79a3",
       "Name": "Skinny",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_special",
       "SetID": "7mi79a3",
       "Name": "Special",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_speedy",
       "SetID": "7mi79a3",
       "Name": "Speedy",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_tubby",
       "SetID": "7mi79a3",
       "Name": "Tubby",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -78,13 +88,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-04T22:06:40.5065626+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:43.9204989+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:40.5065753+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:04.6951315+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:43.9205129+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:25.5141218+00:00",
   "AchievementSets": [
     {
       "ID": "7mi79a3",
@@ -95,7 +105,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:50:39.6140161+00:00"

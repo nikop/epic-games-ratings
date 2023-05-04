@@ -1,4 +1,5 @@
 # LEGO® Batman™: The Videogame
+[View Rawdata](../../db/l/lego®_batman™__the_videogame.json)  
 Rating: 4.52 (Ranked 499)  
 Number of Ratings: 523  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 182  (Ranked 263)
 Sum: 182 (Ranked 355)  
 Diff (max vs sum): -92  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

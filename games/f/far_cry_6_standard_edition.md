@@ -1,4 +1,5 @@
 # Far Cry 6 Standard Edition
+[View Rawdata](../../db/f/far_cry_6_standard_edition.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 12,290  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Amazing Storytelling): 692  (Ranked 154)
 Sum: 5,347 (Ranked 117)  
 Diff (max vs sum): 37  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

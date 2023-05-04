@@ -1,22 +1,23 @@
 # Hello Neighbor 2
+[View Rawdata](../../db/h/hello_neighbor_2.json)  
 Rating: 4.40 (Ranked 663)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Welcome to Raven Brooks | 74.00 |
-| Shovel Night | 36.00 |
-| Case Closed | 35.00 |
-| Easy As Pie | 32.00 |
-| Family Lost | 31.00 |
-| Treasure Hunt | 30.00 |
-| Ancient Curse | 27.00 |
-| Cat Person | 25.00 |
-| Reunion | 24.00 |
-| Climber | 23.00 |
-| Hidden Secrets | 23.00 |
-| Mad Scientist | 23.00 |
-| Imprisonment | 22.00 |
-| Dog Person | 19.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Welcome to Raven Brooks | 74.00% | ~169,682 |
+| Shovel Night | 36.00% | ~82,548 |
+| Case Closed | 35.00% | ~80,255 |
+| Easy As Pie | 32.00% | ~73,376 |
+| Family Lost | 31.00% | ~71,083 |
+| Treasure Hunt | 30.00% | ~68,790 |
+| Ancient Curse | 27.00% | ~61,911 |
+| Cat Person | 25.00% | ~57,325 |
+| Reunion | 24.00% | ~55,032 |
+| Climber | 23.00% | ~52,739 |
+| Hidden Secrets | 23.00% | ~52,739 |
+| Mad Scientist | 23.00% | ~52,739 |
+| Imprisonment | 22.00% | ~50,446 |
+| Dog Person | 19.00% | ~43,567 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,293 (Ranked 138)  
 Completed: 89 (3.88%) (Ranked 32)  

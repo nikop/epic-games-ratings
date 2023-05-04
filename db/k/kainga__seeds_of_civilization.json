@@ -7,168 +7,192 @@
       "SetID": "4k3h0fh",
       "Name": "Riding the Crab",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_COM_Ally",
       "SetID": "4k3h0fh",
       "Name": "Best Friends For Now",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_COM_Beasts",
       "SetID": "4k3h0fh",
       "Name": "The Wildlife of Kainga",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_COM_City",
       "SetID": "4k3h0fh",
       "Name": "Metropolis",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_COM_Moon",
       "SetID": "4k3h0fh",
       "Name": "The Nightmoon Rises",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_COM_Techs",
       "SetID": "4k3h0fh",
       "Name": "Master of Knowledge",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_COM_Units",
       "SetID": "4k3h0fh",
       "Name": "The People of Kainga",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_FES_Arena",
       "SetID": "4k3h0fh",
       "Name": "A Fight to the Death",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_FES_Festivals",
       "SetID": "4k3h0fh",
       "Name": "Master of Parties",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_FES_Landmark",
       "SetID": "4k3h0fh",
       "Name": "Across the Lands",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_FES_Rescue",
       "SetID": "4k3h0fh",
       "Name": "A Friend in Need",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_LOC_Dar",
       "SetID": "4k3h0fh",
       "Name": "Amongst the Trees",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_LOC_Edg",
       "SetID": "4k3h0fh",
       "Name": "Canyonlands",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_LOC_Gre",
       "SetID": "4k3h0fh",
       "Name": "Lowland Swamps",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_LOC_Ice",
       "SetID": "4k3h0fh",
       "Name": "Mountain of Ice",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_LOC_Peb",
       "SetID": "4k3h0fh",
       "Name": "Archipelago",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_LOC_Tow",
       "SetID": "4k3h0fh",
       "Name": "Pillars of Stone",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Ach",
       "SetID": "4k3h0fh",
       "Name": "The Whisperer",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Ajo",
       "SetID": "4k3h0fh",
       "Name": "Smoke in a Bottle",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Cha",
       "SetID": "4k3h0fh",
       "Name": "Bear the Burden",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Gal",
       "SetID": "4k3h0fh",
       "Name": "Feasts and Beasts",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Gar",
       "SetID": "4k3h0fh",
       "Name": "The Woodcarver",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Kal",
       "SetID": "4k3h0fh",
       "Name": "The Dynamic Duo",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Ach_TH_Ser",
       "SetID": "4k3h0fh",
       "Name": "Master of Kainga",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -176,13 +200,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:06:42.8236664+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:45.4685879+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:42.8236894+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:06.5850791+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:45.4686095+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:26.7549451+00:00",
   "AchievementSets": [
     {
       "ID": "4k3h0fh",
@@ -193,7 +217,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:50:47.8999799+00:00"

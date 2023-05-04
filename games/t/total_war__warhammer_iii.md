@@ -1,4 +1,5 @@
 # Total War: WARHAMMER III
+[View Rawdata](../../db/t/total_war__warhammer_iii.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 882  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 1,481  (Ranked 113)
 Sum: 5,320 (Ranked 118)  
 Diff (max vs sum): -5  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

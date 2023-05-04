@@ -7,91 +7,104 @@
       "SetID": "4e9p31o",
       "Name": "Artful Dodger",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "Barf Bag",
       "SetID": "4e9p31o",
       "Name": "Barf Bag",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Beyond the Hills",
       "SetID": "4e9p31o",
       "Name": "Beyond the Hills",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Commitment",
       "SetID": "4e9p31o",
       "Name": "Commitment",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "Egg Hunt",
       "SetID": "4e9p31o",
       "Name": "Egg Hunt",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "It\u0027s a start",
       "SetID": "4e9p31o",
       "Name": "It\u0027s a start",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "No Bones About it",
       "SetID": "4e9p31o",
       "Name": "No Bones About it",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "Over Easy",
       "SetID": "4e9p31o",
       "Name": "Over Easy",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Punctual Porcupine",
       "SetID": "4e9p31o",
       "Name": "Punctual Porcupine",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "Punish Proventriculus",
       "SetID": "4e9p31o",
       "Name": "Punish Proventriculus",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "Rapid Reincarnation",
       "SetID": "4e9p31o",
       "Name": "Rapid Reincarnation",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "Saw Speedrun",
       "SetID": "4e9p31o",
       "Name": "Saw Speedrun",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Snowy Shortcut",
       "SetID": "4e9p31o",
       "Name": "Snowy Shortcut",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -105,13 +118,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:06:47.0634214+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:48.8933672+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:06:47.0634354+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:26.6181658+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:48.8933825+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:39.6108264+00:00",
   "AchievementSets": [
     {
       "ID": "4e9p31o",
@@ -122,7 +135,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T20:51:28.7644634+00:00"

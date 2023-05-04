@@ -7,315 +7,360 @@
       "SetID": "6ohhfoc",
       "Name": "Full house",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "CHALLENGE_ALPHA",
       "SetID": "6ohhfoc",
       "Name": "Ice and Fire",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CHALLENGE_BASEECONOMICSCENARIO",
       "SetID": "6ohhfoc",
       "Name": "The First King",
       "Percentage": 0.8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 587
     },
     {
       "ID": "CHALLENGE_FEWBUTGOOD",
       "SetID": "6ohhfoc",
       "Name": "Six Faces",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 73
     },
     {
       "ID": "CHALLENGE_GREATWINTER",
       "SetID": "6ohhfoc",
       "Name": "The Great Winter",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 73
     },
     {
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
       "SetID": "6ohhfoc",
       "Name": "Mad Engineers",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 73
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
       "SetID": "6ohhfoc",
       "Name": "Metropolis",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 73
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
       "SetID": "6ohhfoc",
       "Name": "The great fire",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 734
     },
     {
       "ID": "CONTAINERS_MILL_FARMS_SURROUNDED",
       "SetID": "6ohhfoc",
       "Name": "Aesthetics",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "DICE_ALL_CORRUPTED",
       "SetID": "6ohhfoc",
       "Name": "It\u0027s spreading",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 73
     },
     {
       "ID": "DICE_TWELVE_FROZEN",
       "SetID": "6ohhfoc",
       "Name": "Just Chilling",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1468
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
       "SetID": "6ohhfoc",
       "Name": "The experiment",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "DIE_ASCEND",
       "SetID": "6ohhfoc",
       "Name": "Ascended",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
       "SetID": "6ohhfoc",
       "Name": "Manipulating Fate",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3670
     },
     {
       "ID": "DIE_MAX_POWER",
       "SetID": "6ohhfoc",
       "Name": "Incredible Strength",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1468
     },
     {
       "ID": "ENDING_TRUE",
       "SetID": "6ohhfoc",
       "Name": "Break the chains",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ENDING_TRUE_VANILLA",
       "SetID": "6ohhfoc",
       "Name": "Purist",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "EXILED_DESTROY_CAMP",
       "SetID": "6ohhfoc",
       "Name": "Burn and Pillage",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Greedy Ones",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 734
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Penitent Ones",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1468
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Unruly Ones",
       "Percentage": 0.8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 587
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3670
     },
     {
       "ID": "GOLDMASTER",
       "SetID": "6ohhfoc",
       "Name": "Greedy",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "PREVENTRIOT",
       "SetID": "6ohhfoc",
       "Name": "Hear me out",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "RUIN_CLEAR",
       "SetID": "6ohhfoc",
       "Name": "Hidden Secrets",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1468
     },
     {
       "ID": "SUMMON_BOSS",
       "SetID": "6ohhfoc",
       "Name": "Discover the truth",
       "Percentage": 0,
-      "XP": 55
+      "XP": 55,
+      "UsersEstimate": 0
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "6ohhfoc",
       "Name": "We made it",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 18350
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "TRIPLE_FAIR",
       "SetID": "6ohhfoc",
       "Name": "Oktoberfest",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "TRIPLE_WORKSHOP_PRODUCTION",
       "SetID": "6ohhfoc",
       "Name": "Knowledge is Power",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 220
     },
     {
       "ID": "UNLOCKALLACHIEVEMENTS",
       "SetID": "6ohhfoc",
       "Name": "King of the Dice",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
       "Percentage": 0.7,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 514
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
       "SetID": "6ohhfoc",
       "Name": "The Flail",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "WINMATCHWITH_CORRUPTEDKING",
       "SetID": "6ohhfoc",
       "Name": "The Corrupted",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "WINMATCHWITH_KING",
       "SetID": "6ohhfoc",
       "Name": "The Stranded King",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1468
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
       "SetID": "6ohhfoc",
       "Name": "The Foul",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "WINMATCHWITH_SAINT",
       "SetID": "6ohhfoc",
       "Name": "The Incarnate",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 73
     },
     {
       "ID": "WINMATCHWITH_SCIENTIST",
       "SetID": "6ohhfoc",
       "Name": "The Mad",
       "Percentage": 0.5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 367
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
       "SetID": "6ohhfoc",
       "Name": "Fate is against us",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "WINMATCH_DIFF_HARD",
       "SetID": "6ohhfoc",
       "Name": "Despite everything",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "WINMATCH_DIFF_LEGACY",
       "SetID": "6ohhfoc",
       "Name": "Like the dream",
       "Percentage": 0.4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 294
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
       "SetID": "6ohhfoc",
       "Name": "Accepting the Prophecy",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2202
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
       "SetID": "6ohhfoc",
       "Name": "Prophecy Fulfilled",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1468
     }
   ],
   "Tags": [],
@@ -439,13 +484,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T22:05:55.706927+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:10.9798053+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 13,
   "EOS_Completed": 0,
   "EOS_Progressed": 734,
-  "LastUpdate_Achievements": "2023-05-04T22:05:55.7069979+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:02.6578308+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:10.979852+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:05.1405351+00:00",
   "AchievementSets": [
     {
       "ID": "6ohhfoc",

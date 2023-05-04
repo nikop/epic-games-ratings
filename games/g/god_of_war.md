@@ -1,4 +1,5 @@
 # God of War
+[View Rawdata](../../db/g/god_of_war.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 3,969  (Ranked 73)
 Sum: 7,687 (Ranked 94)  
 Diff (max vs sum): -21  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

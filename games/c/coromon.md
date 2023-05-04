@@ -1,4 +1,5 @@
 # Coromon
+[View Rawdata](../../db/c/coromon.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 84  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 40  (Ranked 409)
 Sum: 40 (Ranked 442)  
 Diff (max vs sum): -33  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Whiting
+[View Rawdata](../../db/w/whiting.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

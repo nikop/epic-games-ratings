@@ -1,20 +1,21 @@
 # Blanc
+[View Rawdata](../../db/b/blanc.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Unexpected encounter | 15.00 |
-| Starting as a duo | 13.00 |
-| Stronger together | 11.00 |
-| Helping the little ones | 9.00 |
-| A big leap for wolfkind | 8.00 |
-| Transmission | 7.00 |
-| The will to move on | 6.00 |
-| Reunion | 6.00 |
-| The end | 5.00 |
-| Sliders | 3.00 |
-| Sheltered by the fallen tree | 2.00 |
-| Snow-covered ruins | 0.40 |
-| Another ride! | 0.30 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Unexpected encounter | 15.00% | ~26,985 |
+| Starting as a duo | 13.00% | ~23,387 |
+| Stronger together | 11.00% | ~19,789 |
+| Helping the little ones | 9.00% | ~16,191 |
+| A big leap for wolfkind | 8.00% | ~14,392 |
+| Transmission | 7.00% | ~12,593 |
+| The will to move on | 6.00% | ~10,794 |
+| Reunion | 6.00% | ~10,794 |
+| The end | 5.00% | ~8,995 |
+| Sliders | 3.00% | ~5,397 |
+| Sheltered by the fallen tree | 2.00% | ~3,598 |
+| Snow-covered ruins | 0.40% | ~720 |
+| Another ride! | 0.30% | ~540 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,799 (Ranked 146)  
 Completed: 4 (0.22%) (Ranked 127)  

@@ -1,7 +1,8 @@
 # Crowns and Pawns: Kingdom of Deceit
+[View Rawdata](../../db/c/crowns_and_pawns__kingdom_of_deceit.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

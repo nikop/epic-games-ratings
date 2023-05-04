@@ -1,4 +1,5 @@
 # Miasma Chronicles
+[View Rawdata](../../db/m/miasma_chronicles.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

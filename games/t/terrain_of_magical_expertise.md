@@ -1,7 +1,8 @@
 # Terrain of Magical Expertise
+[View Rawdata](../../db/t/terrain_of_magical_expertise.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,4 +1,5 @@
 # The Captain
+[View Rawdata](../../db/t/the_captain.json)  
 Rating: 4.44 (Ranked 620)  
 Number of Ratings: 2,117  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 97  (Ranked 325)
 Sum: 661 (Ranked 264)  
 Diff (max vs sum): 61  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

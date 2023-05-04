@@ -7,609 +7,696 @@
       "SetID": "bko38ff",
       "Name": "Alien Tears",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 237880
     },
     {
       "ID": "ANNIHILATOR",
       "SetID": "bko38ff",
       "Name": "Annihilator",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3806072
     },
     {
       "ID": "ARSENAL",
       "SetID": "bko38ff",
       "Name": "Arsenal",
       "Percentage": 46,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 21884914
     },
     {
       "ID": "BASEDEFENDER",
       "SetID": "bko38ff",
       "Name": "Base Defender",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2378795
     },
     {
       "ID": "BEATINGADEADPOTATO",
       "SetID": "bko38ff",
       "Name": "Beating A Dead Potato",
       "Percentage": 0.1,
-      "XP": 35
+      "XP": 35,
+      "UsersEstimate": 47576
     },
     {
       "ID": "BESTFRIENDSFOREVER",
       "SetID": "bko38ff",
       "Name": "Best Friends Forever",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 47576
     },
     {
       "ID": "BOOTCAMP",
       "SetID": "bko38ff",
       "Name": "Boot Camp",
       "Percentage": 45,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 21409155
     },
     {
       "ID": "BURNBABYBURN",
       "SetID": "bko38ff",
       "Name": "Burn Baby Burn",
       "Percentage": 59,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 28069781
     },
     {
       "ID": "CHAS",
       "SetID": "bko38ff",
       "Name": "Top of the Class",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "CIRCULARHAZARD",
       "SetID": "bko38ff",
       "Name": "Circular Hazard",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "CIVILDIVERGENCE",
       "SetID": "bko38ff",
       "Name": "Civil Divergence",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "CLEANGETAWAY",
       "SetID": "bko38ff",
       "Name": "Clean Getaway",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 47576
     },
     {
       "ID": "CLOSECALL",
       "SetID": "bko38ff",
       "Name": "Close Call",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 23312191
     },
     {
       "ID": "COMBATTURMOIL",
       "SetID": "bko38ff",
       "Name": "Combat Turmoil",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "CONFIDENT",
       "SetID": "bko38ff",
       "Name": "Confident",
       "Percentage": 40,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 19030360
     },
     {
       "ID": "CORECONTAINER",
       "SetID": "bko38ff",
       "Name": "Core Container",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 47576
     },
     {
       "ID": "DEATHFROMABOVE",
       "SetID": "bko38ff",
       "Name": "Death From Above",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7612144
     },
     {
       "ID": "DIVERSITY",
       "SetID": "bko38ff",
       "Name": "Diversity",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1427277
     },
     {
       "ID": "ERADICATOR",
       "SetID": "bko38ff",
       "Name": "Eradicator",
       "Percentage": 67,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 31875853
     },
     {
       "ID": "EXTERMINATOR",
       "SetID": "bko38ff",
       "Name": "Exterminator",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 17127324
     },
     {
       "ID": "FAITHFULCOMPANION",
       "SetID": "bko38ff",
       "Name": "Faithful Companion",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 47576
     },
     {
       "ID": "FIELDPROMOTION",
       "SetID": "bko38ff",
       "Name": "Field Promotion",
       "Percentage": 74,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 35206166
     },
     {
       "ID": "FILTHYRICH",
       "SetID": "bko38ff",
       "Name": "Filthy Rich",
       "Percentage": 19,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9039421
     },
     {
       "ID": "FIREBUG",
       "SetID": "bko38ff",
       "Name": "Firebug",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 47576
     },
     {
       "ID": "FIRSTBLOOD",
       "SetID": "bko38ff",
       "Name": "First Blood",
       "Percentage": 81,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 38536479
     },
     {
       "ID": "FLAWLESSVICTORY",
       "SetID": "bko38ff",
       "Name": "Flawless Victory",
       "Percentage": 42,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 19981878
     },
     {
       "ID": "FLURRY",
       "SetID": "bko38ff",
       "Name": "Flurry",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 475759
     },
     {
       "ID": "FORESIGHT",
       "SetID": "bko38ff",
       "Name": "Foresight is 20/20",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 95152
     },
     {
       "ID": "FULLDEFENSE",
       "SetID": "bko38ff",
       "Name": "Full Defense",
       "Percentage": 10,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4757590
     },
     {
       "ID": "FULLHOUSE",
       "SetID": "bko38ff",
       "Name": "Full House",
       "Percentage": 0.4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 190304
     },
     {
       "ID": "FULLPOTENTIAL",
       "SetID": "bko38ff",
       "Name": "Full Potential",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1427277
     },
     {
       "ID": "FULLYCONTAINED",
       "SetID": "bko38ff",
       "Name": "Fully Contained",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 47576
     },
     {
       "ID": "GREATBALLOFFIRE",
       "SetID": "bko38ff",
       "Name": "Great Ball of Fire",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 15224288
     },
     {
       "ID": "GUNCRAZY",
       "SetID": "bko38ff",
       "Name": "Gun Crazy",
       "Percentage": 0.9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 428183
     },
     {
       "ID": "HAPPYRETURNS",
       "SetID": "bko38ff",
       "Name": "Happy Returns",
       "Percentage": 77,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 36633443
     },
     {
       "ID": "HEADTRAUMA",
       "SetID": "bko38ff",
       "Name": "Head Trauma",
       "Percentage": 12,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 5709108
     },
     {
       "ID": "HEYTHATSMINE",
       "SetID": "bko38ff",
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 37109202
     },
     {
       "ID": "HIGHVOLTAGE",
       "SetID": "bko38ff",
       "Name": "High Voltage",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 11418216
     },
     {
       "ID": "INDECISIVE",
       "SetID": "bko38ff",
       "Name": "Indecisive",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2854554
     },
     {
       "ID": "ISPY",
       "SetID": "bko38ff",
       "Name": "I Spy",
       "Percentage": 63,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 29972817
     },
     {
       "ID": "KABOOM",
       "SetID": "bko38ff",
       "Name": "Kaboom!",
       "Percentage": 29,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13797011
     },
     {
       "ID": "KICKSTARTER",
       "SetID": "bko38ff",
       "Name": "Kickstarter",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 142728
     },
     {
       "ID": "LEADHEAD",
       "SetID": "bko38ff",
       "Name": "Leadhead",
       "Percentage": 71,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 33778889
     },
     {
       "ID": "LIQUIDATOR",
       "SetID": "bko38ff",
       "Name": "Liquidator",
       "Percentage": 29,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 13797011
     },
     {
       "ID": "MAJESTICPONY",
       "SetID": "bko38ff",
       "Name": "Majestic Pony",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 95152
     },
     {
       "ID": "MASTERSIEGEBREAKER",
       "SetID": "bko38ff",
       "Name": "Master Siege Breaker",
       "Percentage": 0.8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 380607
     },
     {
       "ID": "MASTERSTRATEGIST",
       "SetID": "bko38ff",
       "Name": "Master Strategist",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 47576
     },
     {
       "ID": "MINIMALIST",
       "SetID": "bko38ff",
       "Name": "Minimalist",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 951518
     },
     {
       "ID": "MOSTLYDEAD",
       "SetID": "bko38ff",
       "Name": "Mostly Dead",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 47576
     },
     {
       "ID": "NAILBITER",
       "SetID": "bko38ff",
       "Name": "Nail Biter",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 951518
     },
     {
       "ID": "NOSALE",
       "SetID": "bko38ff",
       "Name": "No Sale",
       "Percentage": 30,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 14272770
     },
     {
       "ID": "NOTSOFAST",
       "SetID": "bko38ff",
       "Name": "Not So Fast",
       "Percentage": 32,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 15224288
     },
     {
       "ID": "OUTOFBULLETS",
       "SetID": "bko38ff",
       "Name": "Out of Bullets",
       "Percentage": 0.2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 95152
     },
     {
       "ID": "OUTOFMANDMTOWERS",
       "SetID": "bko38ff",
       "Name": "Clear Skies",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "OVERFLOWING",
       "SetID": "bko38ff",
       "Name": "Overflowing",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "OVERSEER",
       "SetID": "bko38ff",
       "Name": "Overseer",
       "Percentage": 9,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 4281831
     },
     {
       "ID": "PENNYPINCHER",
       "SetID": "bko38ff",
       "Name": "Penny Pincher",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 23312191
     },
     {
       "ID": "PEWPEW",
       "SetID": "bko38ff",
       "Name": "Pew Pew",
       "Percentage": 49,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 23312191
     },
     {
       "ID": "PLANETARYSERVICE",
       "SetID": "bko38ff",
       "Name": "Few and Proud",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 380607
     },
     {
       "ID": "PLANETDEFENDER",
       "SetID": "bko38ff",
       "Name": "Planet Defender",
       "Percentage": 0.9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 428183
     },
     {
       "ID": "POWERBUILDER",
       "SetID": "bko38ff",
       "Name": "Power Builder",
       "Percentage": 17,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8087903
     },
     {
       "ID": "PYRRHICVICTORY",
       "SetID": "bko38ff",
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8087903
     },
     {
       "ID": "REGIONALDELUGE",
       "SetID": "bko38ff",
       "Name": "Regional Deluge",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "RELAYRACE",
       "SetID": "bko38ff",
       "Name": "Relay Race",
       "Percentage": 5,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2378795
     },
     {
       "ID": "RETRY",
       "SetID": "bko38ff",
       "Name": "Retry",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 7612144
     },
     {
       "ID": "RETRYAGAIN",
       "SetID": "bko38ff",
       "Name": "If At First You Don\u0027t Succeed, Retry Again",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3806072
     },
     {
       "ID": "SALVAGERIGHTS",
       "SetID": "bko38ff",
       "Name": "Salvage Rights",
       "Percentage": 53,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 25215227
     },
     {
       "ID": "SAVANTGENIUS",
       "SetID": "bko38ff",
       "Name": "Savant Genius",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 95152
     },
     {
       "ID": "SHARPSHOOTER",
       "SetID": "bko38ff",
       "Name": "Sharpshooter",
       "Percentage": 33,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 15700047
     },
     {
       "ID": "SHELLSHOCKED",
       "SetID": "bko38ff",
       "Name": "Shell-shocked",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 333031
     },
     {
       "ID": "SIEGEBREAKER",
       "SetID": "bko38ff",
       "Name": "Siege Breaker",
       "Percentage": 1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 475759
     },
     {
       "ID": "SOMANYSPACES",
       "SetID": "bko38ff",
       "Name": "So Many Spaces to Build On, So Little Time",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "SUPREMESTRATEGIST",
       "SetID": "bko38ff",
       "Name": "Supreme Strategist",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 47576
     },
     {
       "ID": "SURPLUS",
       "SetID": "bko38ff",
       "Name": "Surplus",
       "Percentage": 65,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 30924335
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
       "SetID": "bko38ff",
       "Name": "A Temporal Would\u0027ve Been Nice",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47576
     },
     {
       "ID": "THECONTAINER",
       "SetID": "bko38ff",
       "Name": "The Container",
       "Percentage": 0.3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 142728
     },
     {
       "ID": "THELONGROAD",
       "SetID": "bko38ff",
       "Name": "The Long Road",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 951518
     },
     {
       "ID": "THENOTSOFRIENDLYSKIES",
       "SetID": "bko38ff",
       "Name": "The Not-So-Friendly Skies",
       "Percentage": 17,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8087903
     },
     {
       "ID": "THISISSPARTAN",
       "SetID": "bko38ff",
       "Name": "This is\u2026spartan.",
       "Percentage": 0.1,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 47576
     },
     {
       "ID": "TOWEREXPERT",
       "SetID": "bko38ff",
       "Name": "Tower Expert",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1427277
     },
     {
       "ID": "TRACEAMOUNTSOFGOLD",
       "SetID": "bko38ff",
       "Name": "Contains Trace Amounts of Gold",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 47576
     },
     {
       "ID": "UNTOUCHABLE",
       "SetID": "bko38ff",
       "Name": "Untouchable",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 951518
     },
     {
       "ID": "WELLINVESTED",
       "SetID": "bko38ff",
       "Name": "Well Invested",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 475759
     },
     {
       "ID": "WHATISTHAT",
       "SetID": "bko38ff",
       "Name": "What IS that?",
       "Percentage": 50,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 23787950
     },
     {
       "ID": "XENOCIDE",
       "SetID": "bko38ff",
       "Name": "Xenocide",
       "Percentage": 0.9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 428183
     },
     {
       "ID": "YELLOWBEATSGREEN",
       "SetID": "bko38ff",
       "Name": "Yellow Beats Green",
       "Percentage": 55,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 26166745
     },
     {
       "ID": "YOUMONSTER",
       "SetID": "bko38ff",
       "Name": "You Monster",
       "Percentage": 0.1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 47576
     }
   ],
   "Tags": [
@@ -1723,6 +1810,11 @@
     {
       "Time": "2023-05-04T22:06:27.6395865+00:00",
       "NumProgressed": 475757,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-04T22:24:34.3689384+00:00",
+      "NumProgressed": 475759,
       "NumCompleted": 4
     }
   ],
@@ -3174,18 +3266,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 87,
-  "LastChanged_Achievements": "2023-05-04T22:06:27.6395857+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:34.3689378+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 678,
   "EOS_Completed": 4,
-  "EOS_Progressed": 475757,
-  "LastUpdate_Achievements": "2023-05-04T22:06:27.6397004+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:47.5398398+00:00",
+  "EOS_Progressed": 475759,
+  "LastUpdate_Achievements": "2023-05-04T22:24:34.3690501+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:34.7796696+00:00",
   "AchievementSets": [
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 475757,
+      "Progressed": 475759,
       "Completed": 4
     }
   ],

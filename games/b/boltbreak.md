@@ -1,4 +1,5 @@
 # BoltBreak
+[View Rawdata](../../db/b/boltbreak.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

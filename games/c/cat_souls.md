@@ -1,4 +1,5 @@
 # Cat Souls
+[View Rawdata](../../db/c/cat_souls.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

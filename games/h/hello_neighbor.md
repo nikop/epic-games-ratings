@@ -1,4 +1,5 @@
 # Hello Neighbor
+[View Rawdata](../../db/h/hello_neighbor.json)  
 Rating: 4.54 (Ranked 475)  
 Number of Ratings: 1,166  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 196  (Ranked 257)
 Sum: 1,339 (Ranked 213)  
 Diff (max vs sum): 44  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,24 +1,25 @@
 # Faraday Protocol
+[View Rawdata](../../db/f/faraday_protocol.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Explorer | 0.00 |
-| Collector | 0.00 |
-| Interstellar Archeologist | 0.00 |
-| Cadet Explorer | 0.00 |
-| Converter | 0.00 |
-| Locked up | 0.00 |
-| Freedom! | 0.00 |
-| Resolute Explorer | 0.00 |
-| Behind the curtain | 0.00 |
-| Geared Up | 0.00 |
-| Council Meeting | 0.00 |
-| Resilient Explorer | 0.00 |
-| It’s been a while! | 0.00 |
-| The Sky's the ceiling! | 0.00 |
-| Down the Rabbit hole | 0.00 |
-| Get the hang of it | 0.00 |
-| Welcome To Opis | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Explorer | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Interstellar Archeologist | 0.00% | ~0 |
+| Cadet Explorer | 0.00% | ~0 |
+| Converter | 0.00% | ~0 |
+| Locked up | 0.00% | ~0 |
+| Freedom! | 0.00% | ~0 |
+| Resolute Explorer | 0.00% | ~0 |
+| Behind the curtain | 0.00% | ~0 |
+| Geared Up | 0.00% | ~0 |
+| Council Meeting | 0.00% | ~0 |
+| Resilient Explorer | 0.00% | ~0 |
+| It’s been a while! | 0.00% | ~0 |
+| The Sky's the ceiling! | 0.00% | ~0 |
+| Down the Rabbit hole | 0.00% | ~0 |
+| Get the hang of it | 0.00% | ~0 |
+| Welcome To Opis | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 191)  

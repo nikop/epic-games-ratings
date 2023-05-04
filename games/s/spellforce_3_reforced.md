@@ -1,9 +1,10 @@
 # SpellForce 3 Reforced
+[View Rawdata](../../db/s/spellforce_3_reforced.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

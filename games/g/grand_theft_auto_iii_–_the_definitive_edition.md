@@ -1,37 +1,38 @@
 # Grand Theft Auto III – The Definitive Edition
+[View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
 Rating: 4.16 (Ranked 831)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First Day on the Job | 83.00 |
-| Disposing of the Evidence | 36.00 |
-| Without a Scratch | 32.00 |
-| Wreckless Driving | 27.00 |
-| A Marked Man | 24.00 |
-| Street Sweeper | 17.00 |
-| Liberty City Minute | 16.00 |
-| Offshore Delivery | 12.00 |
-| Dirty Money | 11.00 |
-| By a Mile | 9.00 |
-| Right-hand Man | 9.00 |
-| Not So Fast | 8.00 |
-| A Gift from the King | 6.00 |
-| Full Artillery | 4.00 |
-| Mob Boss | 2.00 |
-| Splish Splash | 2.00 |
-| Escape Artist | 1.00 |
-| Got This Figured Out | 1.00 |
-| Come Out to Play-y-y-y | 1.00 |
-| Where To? | 1.00 |
-| Playing Doctor | 1.00 |
-| Liberty City Secrets | 1.00 |
-| Wheels Up | 0.90 |
-| Man Toyz | 0.90 |
-| Going Rogue | 0.90 |
-| Planned Ahead | 0.80 |
-| Furious First Responder | 0.80 |
-| Is That All You've Got? | 0.70 |
-| King of Liberty City | 0.50 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First Day on the Job | 83.00% | ~398,898 |
+| Disposing of the Evidence | 36.00% | ~173,016 |
+| Without a Scratch | 32.00% | ~153,792 |
+| Wreckless Driving | 27.00% | ~129,762 |
+| A Marked Man | 24.00% | ~115,344 |
+| Street Sweeper | 17.00% | ~81,702 |
+| Liberty City Minute | 16.00% | ~76,896 |
+| Offshore Delivery | 12.00% | ~57,672 |
+| Dirty Money | 11.00% | ~52,866 |
+| By a Mile | 9.00% | ~43,254 |
+| Right-hand Man | 9.00% | ~43,254 |
+| Not So Fast | 8.00% | ~38,448 |
+| A Gift from the King | 6.00% | ~28,836 |
+| Full Artillery | 4.00% | ~19,224 |
+| Mob Boss | 2.00% | ~9,612 |
+| Splish Splash | 2.00% | ~9,612 |
+| Escape Artist | 1.00% | ~4,806 |
+| Got This Figured Out | 1.00% | ~4,806 |
+| Come Out to Play-y-y-y | 1.00% | ~4,806 |
+| Where To? | 1.00% | ~4,806 |
+| Playing Doctor | 1.00% | ~4,806 |
+| Liberty City Secrets | 1.00% | ~4,806 |
+| Wheels Up | 0.90% | ~4,325 |
+| Man Toyz | 0.90% | ~4,325 |
+| Going Rogue | 0.90% | ~4,325 |
+| Planned Ahead | 0.80% | ~3,845 |
+| Furious First Responder | 0.80% | ~3,845 |
+| Is That All You've Got? | 0.70% | ~3,364 |
+| King of Liberty City | 0.50% | ~2,403 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,806 (Ranked 122)  
 Completed: 25 (0.52%) (Ranked 95)  

@@ -1,4 +1,5 @@
 # LEGO® Batman™ 3: Beyond Gotham
+[View Rawdata](../../db/l/lego®_batman™_3__beyond_gotham.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 513  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 215  (Ranked 247)
 Sum: 215 (Ranked 344)  
 Diff (max vs sum): -97  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

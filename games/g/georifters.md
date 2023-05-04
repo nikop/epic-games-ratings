@@ -1,4 +1,5 @@
 # Georifters
+[View Rawdata](../../db/g/georifters.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

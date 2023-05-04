@@ -1,4 +1,5 @@
 # ATOM RPG
+[View Rawdata](../../db/a/atom_rpg.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 54  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,44 +7,44 @@ Max (Character Customization): 46  (Ranked 396)
 Sum: 46 (Ranked 435)  
 Diff (max vs sum): -39  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Atom Agent | 99.00 |
-| Wanderer | 36.00 |
-| One HIT wonder | 34.00 |
-| One shot, one kill | 30.00 |
-| Traveler | 26.00 |
-| Head Burst | 20.00 |
-| Explorer | 19.00 |
-| Grave Robber | 18.00 |
-| Double agent | 14.00 |
-| Paranoia | 14.00 |
-| Kraina Grzybow | 9.00 |
-| Love Guru | 9.00 |
-| Savant | 9.00 |
-| Not-so-private Eye | 8.00 |
-| Superhuman | 8.00 |
-| Bustin' nuts | 7.00 |
-| The Vitinsky Rifle | 7.00 |
-| Protection racket | 5.00 |
-| Secret room | 5.00 |
-| Indy | 4.00 |
-| Sacrifice | 4.00 |
-| Career criminal | 2.00 |
-| Wishmaster | 2.00 |
-| Neanderthal | 1.00 |
-| It was worth a shot | 1.00 |
-| Cosmic Horror | 1.00 |
-| Ghostbuster | 0.90 |
-| Tourist Korallov | 0.70 |
-| Cheeki Breeki | 0.50 |
-| It's a classic! | 0.50 |
-| Expert | 0.50 |
-| Comrade Yogi | 0.40 |
-| Mystical relics | 0.30 |
-| 27 Club | 0.00 |
-| No Name, No Slogan | 0.00 |
-| Pacifist | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Atom Agent | 99.00% | ~75,141 |
+| Wanderer | 36.00% | ~27,324 |
+| One HIT wonder | 34.00% | ~25,806 |
+| One shot, one kill | 30.00% | ~22,770 |
+| Traveler | 26.00% | ~19,734 |
+| Head Burst | 20.00% | ~15,180 |
+| Explorer | 19.00% | ~14,421 |
+| Grave Robber | 18.00% | ~13,662 |
+| Double agent | 14.00% | ~10,626 |
+| Paranoia | 14.00% | ~10,626 |
+| Kraina Grzybow | 9.00% | ~6,831 |
+| Love Guru | 9.00% | ~6,831 |
+| Savant | 9.00% | ~6,831 |
+| Not-so-private Eye | 8.00% | ~6,072 |
+| Superhuman | 8.00% | ~6,072 |
+| Bustin' nuts | 7.00% | ~5,313 |
+| The Vitinsky Rifle | 7.00% | ~5,313 |
+| Protection racket | 5.00% | ~3,795 |
+| Secret room | 5.00% | ~3,795 |
+| Indy | 4.00% | ~3,036 |
+| Sacrifice | 4.00% | ~3,036 |
+| Career criminal | 2.00% | ~1,518 |
+| Wishmaster | 2.00% | ~1,518 |
+| Neanderthal | 1.00% | ~759 |
+| It was worth a shot | 1.00% | ~759 |
+| Cosmic Horror | 1.00% | ~759 |
+| Ghostbuster | 0.90% | ~683 |
+| Tourist Korallov | 0.70% | ~531 |
+| Cheeki Breeki | 0.50% | ~380 |
+| It's a classic! | 0.50% | ~380 |
+| Expert | 0.50% | ~380 |
+| Comrade Yogi | 0.40% | ~304 |
+| Mystical relics | 0.30% | ~228 |
+| 27 Club | 0.00% | ~0 |
+| No Name, No Slogan | 0.00% | ~0 |
+| Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 759 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 191)  

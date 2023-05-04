@@ -7,147 +7,168 @@
       "SetID": "64pp6bc",
       "Name": "Apocryphile",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ARCHIVE_BUILT",
       "SetID": "64pp6bc",
       "Name": "The Archive is Incomplete",
       "Percentage": 50,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_ARCHIVE_FOUND",
       "SetID": "64pp6bc",
       "Name": "Master Archivist",
       "Percentage": 17,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_CIPHER_COLLECT",
       "SetID": "64pp6bc",
       "Name": "The Cipher Way",
       "Percentage": 17,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_CRATES",
       "SetID": "64pp6bc",
       "Name": "Cratepocalipse",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_CRITTERINA_RESCUE",
       "SetID": "64pp6bc",
       "Name": "Wingman",
       "Percentage": 33,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_CRITTER_RESCUE",
       "SetID": "64pp6bc",
       "Name": "Activist",
       "Percentage": 67,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_CULTIST_COLLECTALL",
       "SetID": "64pp6bc",
       "Name": "Aggressive Evangelist",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FLIGHT_RITUAL",
       "SetID": "64pp6bc",
       "Name": "The Power of... Flight?",
       "Percentage": 33,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_HIDE_SEEK",
       "SetID": "64pp6bc",
       "Name": "Petting Zoo",
       "Percentage": 17,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_RITUALS_ALL",
       "SetID": "64pp6bc",
       "Name": "Third Eye",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SHARD_1",
       "SetID": "64pp6bc",
       "Name": "A Blast for You and a Blasphemy",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SHARD_1_RITUAL",
       "SetID": "64pp6bc",
       "Name": "Geneva Suggestion",
       "Percentage": 67,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_SHARD_2",
       "SetID": "64pp6bc",
       "Name": "Cold Poultry",
       "Percentage": 50,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_SHARD_3",
       "SetID": "64pp6bc",
       "Name": "Critical Infrastructure",
       "Percentage": 33,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_SIBBOLETH_ENTER",
       "SetID": "64pp6bc",
       "Name": "Through the Heavenly Gate",
       "Percentage": 50,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_SPRINT_UNLOCKED",
       "SetID": "64pp6bc",
       "Name": "Where\u0027s the Sprint Button?",
       "Percentage": 50,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_STAGE2_MONUMENT",
       "SetID": "64pp6bc",
       "Name": "Revisionist",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_STRAWHART_AWAKEN",
       "SetID": "64pp6bc",
       "Name": "What could possibly go wrong?",
       "Percentage": 83,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_STRAWHART_DEFEAT",
       "SetID": "64pp6bc",
       "Name": "The Bigger They Are...",
       "Percentage": 50,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_STRAWHART_DENY",
       "SetID": "64pp6bc",
       "Name": "Daemon Deferred",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     }
   ],
   "Tags": [],
@@ -168,13 +189,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:06:51.4777631+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:52.1485299+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T22:06:51.4777777+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:45.6598126+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:52.148545+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:52.0931727+00:00",
   "AchievementSets": [
     {
       "ID": "64pp6bc",
@@ -190,7 +211,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 314,
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00"

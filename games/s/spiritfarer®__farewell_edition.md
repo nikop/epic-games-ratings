@@ -1,4 +1,5 @@
 # Spiritfarer®: Farewell Edition
+[View Rawdata](../../db/s/spiritfarer®__farewell_edition.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 178  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Diverse Characters): 22  (Ranked 473)
 Sum: 22 (Ranked 474)  
 Diff (max vs sum): -1  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

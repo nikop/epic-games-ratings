@@ -1,23 +1,24 @@
 # Alex Kidd in Miracle World DX
+[View Rawdata](../../db/a/alex_kidd_in_miracle_world_dx.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Wild Ox | 45.00 |
-| Magic Ball | 35.00 |
-| Assailants | 26.00 |
-| Prisoner | 23.00 |
-| First Commander | 19.00 |
-| Adventurer | 17.00 |
-| Second Commander | 16.00 |
-| Third Commander | 15.00 |
-| Janken The Great | 10.00 |
-| Pacifist | 10.00 |
-| Overwhelmed Beast | 9.00 |
-| Radaxian Protector | 3.00 |
-| Let's Talk | 2.00 |
-| Stingy | 2.00 |
-| Collector | 1.00 |
-| Champion | 1.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Wild Ox | 45.00% | ~10,170 |
+| Magic Ball | 35.00% | ~7,910 |
+| Assailants | 26.00% | ~5,876 |
+| Prisoner | 23.00% | ~5,198 |
+| First Commander | 19.00% | ~4,294 |
+| Adventurer | 17.00% | ~3,842 |
+| Second Commander | 16.00% | ~3,616 |
+| Third Commander | 15.00% | ~3,390 |
+| Janken The Great | 10.00% | ~2,260 |
+| Pacifist | 10.00% | ~2,260 |
+| Overwhelmed Beast | 9.00% | ~2,034 |
+| Radaxian Protector | 3.00% | ~678 |
+| Let's Talk | 2.00% | ~452 |
+| Stingy | 2.00% | ~452 |
+| Collector | 1.00% | ~226 |
+| Champion | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 226 (Ranked 219)  
 Completed: 3 (1.33%) (Ranked 69)  

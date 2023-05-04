@@ -1,4 +1,5 @@
 # Magenta
+[View Rawdata](../../db/m/magenta.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

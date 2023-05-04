@@ -1,9 +1,10 @@
 # The World Next Door
+[View Rawdata](../../db/t/the_world_next_door.json)  
 Rating: 4.07 (Ranked 861)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

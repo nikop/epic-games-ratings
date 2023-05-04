@@ -7,364 +7,416 @@
       "SetID": "dfh7g87",
       "Name": "Powergamer",
       "Percentage": 26,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5797220
     },
     {
       "ID": "ACH_AON",
       "SetID": "dfh7g87",
       "Name": "A muscle to rely on",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_ATRUEBLACKSMITHS",
       "SetID": "dfh7g87",
       "Name": "A true blacksmith",
       "Percentage": 0.9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200673
     },
     {
       "ID": "ACH_BOY",
       "SetID": "dfh7g87",
       "Name": "BOY!",
       "Percentage": 4,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 891880
     },
     {
       "ID": "ACH_CATNIPCATNIP",
       "SetID": "dfh7g87",
       "Name": "Catnip",
       "Percentage": 1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_COLLECTOR",
       "SetID": "dfh7g87",
       "Name": "Collector",
       "Percentage": 11,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2452670
     },
     {
       "ID": "ACH_ENJOY",
       "SetID": "dfh7g87",
       "Name": "Enjoy these little moments",
       "Percentage": 0.4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 89188
     },
     {
       "ID": "ACH_GENTLEMAN",
       "SetID": "dfh7g87",
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_GUNSGUNS",
       "SetID": "dfh7g87",
       "Name": "Guns, lots of guns",
       "Percentage": 12,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2675640
     },
     {
       "ID": "ACH_HATTRICK",
       "SetID": "dfh7g87",
       "Name": "Hoarder",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
       "SetID": "dfh7g87",
       "Name": "Elementary!",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1783760
     },
     {
       "ID": "ACH_HIDEANDSEEK",
       "SetID": "dfh7g87",
       "Name": "I am in great pain, please help me",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_HIGHGROUND",
       "SetID": "dfh7g87",
       "Name": "I have the high ground",
       "Percentage": 0.6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 133782
     },
     {
       "ID": "ACH_HIGHNOON",
       "SetID": "dfh7g87",
       "Name": "High noon",
       "Percentage": 1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_HMMSHINY",
       "SetID": "dfh7g87",
       "Name": "Random encounter",
       "Percentage": 1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_ILIKETOSNIFF",
       "SetID": "dfh7g87",
       "Name": "I like to sniff around",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 668910
     },
     {
       "ID": "ACH_IRONDEC",
       "SetID": "dfh7g87",
       "Name": "Irondec",
       "Percentage": 0.3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 66891
     },
     {
       "ID": "ACH_ISRIFT",
       "SetID": "dfh7g87",
       "Name": "Is that a rift?",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_ISTARTED",
       "SetID": "dfh7g87",
       "Name": "I will finish what you started",
       "Percentage": 28,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6243160
     },
     {
       "ID": "ACH_ITSALIVE",
       "SetID": "dfh7g87",
       "Name": "It\u0027s alive!",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
       "SetID": "dfh7g87",
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 156079
     },
     {
       "ID": "ACH_KACHING",
       "SetID": "dfh7g87",
       "Name": "Ka-ching!",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 891880
     },
     {
       "ID": "ACH_LETMEOUT",
       "SetID": "dfh7g87",
       "Name": "LET ME OUT!",
       "Percentage": 0.3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 66891
     },
     {
       "ID": "ACH_LETSABLE",
       "SetID": "dfh7g87",
       "Name": "Un-bear-able",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 89188
     },
     {
       "ID": "ACH_LETSANOTHER",
       "SetID": "dfh7g87",
       "Name": "Let\u0027s try another",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 178376
     },
     {
       "ID": "ACH_LETSBEACH",
       "SetID": "dfh7g87",
       "Name": "Enjoy the beach",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_LETSCHAINS",
       "SetID": "dfh7g87",
       "Name": "Breaking the chains",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 44594
     },
     {
       "ID": "ACH_LETSDOWN",
       "SetID": "dfh7g87",
       "Name": "Write that down",
       "Percentage": 24,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5351280
     },
     {
       "ID": "ACH_LETSDUTY",
       "SetID": "dfh7g87",
       "Name": "SysOp on duty",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_LETSLISTENER",
       "SetID": "dfh7g87",
       "Name": "Good listener",
       "Percentage": 5,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1114850
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
       "SetID": "dfh7g87",
       "Name": "Aren\u0027t you overthinking?",
       "Percentage": 0.2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 44594
     },
     {
       "ID": "ACH_LETSREPEAT",
       "SetID": "dfh7g87",
       "Name": "Rinse and repeat",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_LETSSCOFIELD",
       "SetID": "dfh7g87",
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_LETSSMILE",
       "SetID": "dfh7g87",
       "Name": "Home run",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 178376
     },
     {
       "ID": "ACH_LETSWORK",
       "SetID": "dfh7g87",
       "Name": "It\u0027s honest work",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1560790
     },
     {
       "ID": "ACH_MEMESMART",
       "SetID": "dfh7g87",
       "Name": "Me smart",
       "Percentage": 6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1337820
     },
     {
       "ID": "ACH_MEMORY5",
       "SetID": "dfh7g87",
       "Name": "Memory 5",
       "Percentage": 0.1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 22297
     },
     {
       "ID": "ACH_MINDREADER",
       "SetID": "dfh7g87",
       "Name": "Mind reader",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 668910
     },
     {
       "ID": "ACH_NOSTRINGS",
       "SetID": "dfh7g87",
       "Name": "Griever",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1560790
     },
     {
       "ID": "ACH_PUMPKINJACK",
       "SetID": "dfh7g87",
       "Name": "Pumpkin Jack",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1783760
     },
     {
       "ID": "ACH_SCRATCH",
       "SetID": "dfh7g87",
       "Name": "Barely scratched the surface",
       "Percentage": 25,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5574250
     },
     {
       "ID": "ACH_SOREAD",
       "SetID": "dfh7g87",
       "Name": "So you like to read?",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 668910
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
       "SetID": "dfh7g87",
       "Name": "Take the blue pill",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 222970
     },
     {
       "ID": "ACH_TAKEREDPILL",
       "SetID": "dfh7g87",
       "Name": "Take the red pill",
       "Percentage": 0.2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 44594
     },
     {
       "ID": "ACH_THEOFTHREE",
       "SetID": "dfh7g87",
       "Name": "The power of three",
       "Percentage": 0.9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 200673
     },
     {
       "ID": "ACH_THISWAY",
       "SetID": "dfh7g87",
       "Name": "This is the way",
       "Percentage": 0.2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 44594
     },
     {
       "ID": "ACH_TRASHCOMPACTOR",
       "SetID": "dfh7g87",
       "Name": "Trash compactor",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1114850
     },
     {
       "ID": "ACH_TROLLKING",
       "SetID": "dfh7g87",
       "Name": "Never gonna give you up",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 445940
     },
     {
       "ID": "ACH_VALEDICTORIAN",
       "SetID": "dfh7g87",
       "Name": "Valedictorian",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1114850
     },
     {
       "ID": "ACH_WAKEUP",
       "SetID": "dfh7g87",
       "Name": "Wake up!",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1783760
     },
     {
       "ID": "ACH_WELLDESERVED",
       "SetID": "dfh7g87",
       "Name": "Well-deserved reunion",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 66891
     },
     {
       "ID": "ACH_WHOTROLL",
       "SetID": "dfh7g87",
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 111485
     }
   ],
   "Tags": [
@@ -1455,6 +1507,11 @@
       "Time": "2023-05-04T22:06:12.8939182+00:00",
       "NumProgressed": 222967,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-04T22:24:23.5375071+00:00",
+      "NumProgressed": 222970,
+      "NumCompleted": 5
     }
   ],
   "RatingHistory": [
@@ -1722,18 +1779,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 52,
-  "LastChanged_Achievements": "2023-05-04T22:06:12.8939174+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:23.5375066+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1921,
+  "EOS_NewPlayers": 1924,
   "EOS_Completed": 5,
-  "EOS_Progressed": 222967,
-  "LastUpdate_Achievements": "2023-05-04T22:06:12.8939806+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:21.710281+00:00",
+  "EOS_Progressed": 222970,
+  "LastUpdate_Achievements": "2023-05-04T22:24:23.537557+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:17.3933838+00:00",
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 222967,
+      "Progressed": 222970,
       "Completed": 5
     }
   ],

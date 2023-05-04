@@ -1,8 +1,9 @@
 # Tunche
+[View Rawdata](../../db/t/tunche.json)  
 Rating: 4.40 (Ranked 663)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

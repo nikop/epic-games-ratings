@@ -1,4 +1,5 @@
 # HYENAS
+[View Rawdata](../../db/h/hyenas.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

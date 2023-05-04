@@ -7,203 +7,232 @@
       "SetID": "681m9fa",
       "Name": "Wrench",
       "Percentage": 32,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3040
     },
     {
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
       "Percentage": 40,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3800
     },
     {
       "ID": "03_Cassette",
       "SetID": "681m9fa",
       "Name": "Cassette",
       "Percentage": 21,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1995
     },
     {
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
       "Percentage": 29,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2755
     },
     {
       "ID": "05_TimeCapsule",
       "SetID": "681m9fa",
       "Name": "Time Capsule",
       "Percentage": 15,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1425
     },
     {
       "ID": "06_Photo",
       "SetID": "681m9fa",
       "Name": "Photo",
       "Percentage": 14,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1330
     },
     {
       "ID": "07_Contract",
       "SetID": "681m9fa",
       "Name": "Contract",
       "Percentage": 11,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1045
     },
     {
       "ID": "08_Baseball",
       "SetID": "681m9fa",
       "Name": "Baseball",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1140
     },
     {
       "ID": "09_Ticket",
       "SetID": "681m9fa",
       "Name": "Ticket",
       "Percentage": 14,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1330
     },
     {
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
       "Percentage": 18,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1710
     },
     {
       "ID": "11_Itsinthevault",
       "SetID": "681m9fa",
       "Name": "It\u2019s in the Vault",
       "Percentage": 15,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1425
     },
     {
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
       "Percentage": 31,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2945
     },
     {
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
       "Percentage": 15,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1425
     },
     {
       "ID": "14_VhsBlogger",
       "SetID": "681m9fa",
       "Name": "VHS blogger",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 855
     },
     {
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
       "Percentage": 63,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5985
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
       "Percentage": 59,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5605
     },
     {
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
       "Percentage": 34,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3230
     },
     {
       "ID": "18_SolderingIron",
       "SetID": "681m9fa",
       "Name": "Soldering iron",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2755
     },
     {
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
       "Percentage": 23,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2185
     },
     {
       "ID": "20_AccessProtocol",
       "SetID": "681m9fa",
       "Name": "Access protocol",
       "Percentage": 14,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1330
     },
     {
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
       "Percentage": 26,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 2470
     },
     {
       "ID": "22_OutOfTheLoop",
       "SetID": "681m9fa",
       "Name": "Out of the loop",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 855
     },
     {
       "ID": "23_NewDawn",
       "SetID": "681m9fa",
       "Name": "New Dawn",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 855
     },
     {
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
       "Percentage": 22,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 2090
     },
     {
       "ID": "25_LeaveMeAlone",
       "SetID": "681m9fa",
       "Name": "Leave me alone",
       "Percentage": 9,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 855
     },
     {
       "ID": "26_SecretEnding",
       "SetID": "681m9fa",
       "Name": "Secret ending",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 855
     },
     {
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
       "Percentage": 33,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 3135
     },
     {
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
       "Percentage": 25,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 2375
     },
     {
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
       "Percentage": 23,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2185
     }
   ],
   "Tags": [],
@@ -229,13 +258,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T22:06:25.3369501+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:32.7393782+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 8,
   "EOS_Progressed": 95,
-  "LastUpdate_Achievements": "2023-05-04T22:06:25.3369717+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:18.5029016+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:32.7394078+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:15.2902921+00:00",
   "AchievementSets": [
     {
       "ID": "681m9fa",
@@ -251,7 +280,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_Progress": 247,
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00"

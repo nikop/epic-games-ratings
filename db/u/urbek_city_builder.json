@@ -7,553 +7,632 @@
       "SetID": "44dlcg0",
       "Name": "Anarchist Utopia",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 264
     },
     {
       "ID": "ANARQUIA_2",
       "SetID": "44dlcg0",
       "Name": "Anarchist paradise",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 106
     },
     {
       "ID": "ARCHIPIELAGO3_1",
       "SetID": "44dlcg0",
       "Name": "Full archipelago",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ARCHIPIELAGO_1",
       "SetID": "44dlcg0",
       "Name": "Archipelago builder",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 264
     },
     {
       "ID": "ARCHIPIELAGO_2",
       "SetID": "44dlcg0",
       "Name": "Archipelago urban planner",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 264
     },
     {
       "ID": "ARCHIPIELAGO_3",
       "SetID": "44dlcg0",
       "Name": "Archipelago master",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "BANCO_1",
       "SetID": "44dlcg0",
       "Name": "Banking city",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 396
     },
     {
       "ID": "BANCO_2",
       "SetID": "44dlcg0",
       "Name": "Banking empire",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "CALABAZA_1",
       "SetID": "44dlcg0",
       "Name": "Pumpkin farmer",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "CALABAZA_2",
       "SetID": "44dlcg0",
       "Name": "Ready to make sopaipillas",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "CLEAN",
       "SetID": "44dlcg0",
       "Name": "Green energy",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "COMIDA_1",
       "SetID": "44dlcg0",
       "Name": "Food producer",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1056
     },
     {
       "ID": "COMIDA_2",
       "SetID": "44dlcg0",
       "Name": "Food provider master",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 264
     },
     {
       "ID": "CONTAMINACION_1",
       "SetID": "44dlcg0",
       "Name": "I can\u0027t see the sky",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 106
     },
     {
       "ID": "CONTAMINACION_2",
       "SetID": "44dlcg0",
       "Name": "I can\u0027t breathe",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "COOL_CITY",
       "SetID": "44dlcg0",
       "Name": "Urban style",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 106
     },
     {
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 106
     },
     {
       "ID": "CRISIS_2",
       "SetID": "44dlcg0",
       "Name": "Collapsed city",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
       "Percentage": 20,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2640
     },
     {
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1452
     },
     {
       "ID": "CULTURE_3",
       "SetID": "44dlcg0",
       "Name": "Read! Everyone should read!",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 528
     },
     {
       "ID": "DESIERTO3_1",
       "SetID": "44dlcg0",
       "Name": "Full desert",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "DESIERTO_1",
       "SetID": "44dlcg0",
       "Name": "Desert builder",
       "Percentage": 0.8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 106
     },
     {
       "ID": "DESIERTO_2",
       "SetID": "44dlcg0",
       "Name": "Desert urban planner",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 106
     },
     {
       "ID": "DESIERTO_3",
       "SetID": "44dlcg0",
       "Name": "Desert master",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "ENCANTADA_1",
       "SetID": "44dlcg0",
       "Name": "How scary!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ENCANTADA_2",
       "SetID": "44dlcg0",
       "Name": "Haunted city",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
       "Percentage": 27,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3564
     },
     {
       "ID": "FAITH_2",
       "SetID": "44dlcg0",
       "Name": "What is there after death?",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 264
     },
     {
       "ID": "FAITH_3",
       "SetID": "44dlcg0",
       "Name": "Fear God, you sinners!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "FAITH_SPORT",
       "SetID": "44dlcg0",
       "Name": "Perfect city",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 264
     },
     {
       "ID": "FELIZ_01",
       "SetID": "44dlcg0",
       "Name": "Oh, I am sad",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "FELIZ_02",
       "SetID": "44dlcg0",
       "Name": "Smile? I don\u0027t understand",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "FELIZ_03",
       "SetID": "44dlcg0",
       "Name": "Work, work, work...",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
       "Percentage": 20,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2640
     },
     {
       "ID": "FELIZ_2",
       "SetID": "44dlcg0",
       "Name": "I am very happy!",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 792
     },
     {
       "ID": "FELIZ_3",
       "SetID": "44dlcg0",
       "Name": "Oh, life is too awesome! Thank you!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "FELIZ_4",
       "SetID": "44dlcg0",
       "Name": "\u00A1Muy feliz!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
       "Percentage": 12,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1584
     },
     {
       "ID": "GRANJA_1",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 106
     },
     {
       "ID": "GRANJA_2",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy Plus",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
       "Percentage": 47,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 6204
     },
     {
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1452
     },
     {
       "ID": "GREEN_AREAS_3",
       "SetID": "44dlcg0",
       "Name": "Oh, I love parks, listening to birds!",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 264
     },
     {
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3168
     },
     {
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
       "Percentage": 20,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2640
     },
     {
       "ID": "MURICA_1",
       "SetID": "44dlcg0",
       "Name": "Freedom to go to the mall!",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 264
     },
     {
       "ID": "MURICA_2",
       "SetID": "44dlcg0",
       "Name": "Only freedom to go to the mall!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3300
     },
     {
       "ID": "NIGHT_LIFE_2",
       "SetID": "44dlcg0",
       "Name": "What would we do if we can\u0027t go out with friends?",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1320
     },
     {
       "ID": "NIGHT_LIFE_3",
       "SetID": "44dlcg0",
       "Name": "I don\u0027t feel well, I have to drink a coffe",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 106
     },
     {
       "ID": "POINTS_10K",
       "SetID": "44dlcg0",
       "Name": "Little Mayor",
       "Percentage": 4,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 528
     },
     {
       "ID": "POINTS_20K",
       "SetID": "44dlcg0",
       "Name": "Town planner",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 264
     },
     {
       "ID": "POINTS_30K",
       "SetID": "44dlcg0",
       "Name": "What? Was that possible?",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
       "Percentage": 61,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 8052
     },
     {
       "ID": "POPULATION_2",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1056
     },
     {
       "ID": "POPULATION_3",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek Plus",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 106
     },
     {
       "ID": "REBELDES_1",
       "SetID": "44dlcg0",
       "Name": "Rebel city",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 396
     },
     {
       "ID": "REBELDES_2",
       "SetID": "44dlcg0",
       "Name": "City in flames",
       "Percentage": 0.8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 106
     },
     {
       "ID": "RUINAS3_1",
       "SetID": "44dlcg0",
       "Name": "Full restorer",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "RUINAS_1",
       "SetID": "44dlcg0",
       "Name": "Restorer",
       "Percentage": 0.8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 106
     },
     {
       "ID": "RUINAS_2",
       "SetID": "44dlcg0",
       "Name": "Restorer Plus",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "RUINAS_3",
       "SetID": "44dlcg0",
       "Name": "Restorer master",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "SINGAPUR_1",
       "SetID": "44dlcg0",
       "Name": "Singapore",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "SINGAPUR_2",
       "SetID": "44dlcg0",
       "Name": "Singapore Plus",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
       "Percentage": 26,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 3432
     },
     {
       "ID": "SPORTS_2",
       "SetID": "44dlcg0",
       "Name": "Sport is the best thing",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 660
     },
     {
       "ID": "SPORTS_3",
       "SetID": "44dlcg0",
       "Name": "Everyone should always do sport!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "TEMPERADO3_1",
       "SetID": "44dlcg0",
       "Name": "Full temperate",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 106
     },
     {
       "ID": "TEMPERADO_1",
       "SetID": "44dlcg0",
       "Name": "Temperate builder",
       "Percentage": 3,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 396
     },
     {
       "ID": "TEMPERADO_2",
       "SetID": "44dlcg0",
       "Name": "Temperate urban planner",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 264
     },
     {
       "ID": "TEMPERADO_3",
       "SetID": "44dlcg0",
       "Name": "Temperate master",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "VALDIVIA3_1",
       "SetID": "44dlcg0",
       "Name": "Full rainforest",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "VALDIVIA_1",
       "SetID": "44dlcg0",
       "Name": "Rainforest builder",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "VALDIVIA_2",
       "SetID": "44dlcg0",
       "Name": "Rainforest urban planner",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "VALDIVIA_3",
       "SetID": "44dlcg0",
       "Name": "Rainforest master",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1848
     },
     {
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
       "Percentage": 15,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1980
     },
     {
       "ID": "WELFARE_2",
       "SetID": "44dlcg0",
       "Name": "Welfare state",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -609,13 +688,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 79,
-  "LastChanged_Achievements": "2023-05-04T22:06:34.728547+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:39.5852679+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
   "EOS_Progressed": 132,
-  "LastUpdate_Achievements": "2023-05-04T22:06:34.7286352+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:30.8296117+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:39.5854172+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:03.9163496+00:00",
   "AchievementSets": [
     {
       "ID": "44dlcg0",

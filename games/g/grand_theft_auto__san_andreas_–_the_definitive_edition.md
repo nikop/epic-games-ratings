@@ -1,43 +1,44 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
+[View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
 Rating: 4.59 (Ranked 395)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Getting Started | 80.00 |
-| Pay 'n' Spray | 47.00 |
-| All Dressed Up for San Fierro | 22.00 |
-| The American Dream | 16.00 |
-| School's Out | 15.00 |
-| Smooth Moves | 15.00 |
-| Today Was a Good Day | 13.00 |
-| What happens in Las Venturas... | 12.00 |
-| Horror of the Santa Maria | 9.00 |
-| Liberty City State of Mind | 7.00 |
-| Original Gangster | 6.00 |
-| With Extra Dip | 5.00 |
-| The End of the Line | 5.00 |
-| Saviour | 4.00 |
-| Rescue a Kitten Too? | 4.00 |
-| They Can’t Stop All of Us | 3.00 |
-| What are the Odds | 3.00 |
-| I’ll Have Two Number 9s | 2.00 |
-| Bike or Biker | 2.00 |
-| What the City Needs | 2.00 |
-| Yes I Speak English | 2.00 |
-| Double or Nothin' | 2.00 |
-| A Legitimate Business | 1.00 |
-| Who Needs Directions? | 1.00 |
-| Swiss Army Strife | 1.00 |
-| Assassin | 1.00 |
-| Public Enemy No. 1 | 1.00 |
-| Ain’t Nothing But a G Thing | 1.00 |
-| Chick Magnet | 0.90 |
-| Lucky Spinner | 0.80 |
-| Hoopin' it Up | 0.60 |
-| Not a Player | 0.50 |
-| Remastered | 0.40 |
-| ...Here we go again | 0.20 |
-| I Ain't No Buster | 0.20 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Getting Started | 80.00% | ~598,160 |
+| Pay 'n' Spray | 47.00% | ~351,419 |
+| All Dressed Up for San Fierro | 22.00% | ~164,494 |
+| The American Dream | 16.00% | ~119,632 |
+| School's Out | 15.00% | ~112,155 |
+| Smooth Moves | 15.00% | ~112,155 |
+| Today Was a Good Day | 13.00% | ~97,201 |
+| What happens in Las Venturas... | 12.00% | ~89,724 |
+| Horror of the Santa Maria | 9.00% | ~67,293 |
+| Liberty City State of Mind | 7.00% | ~52,339 |
+| Original Gangster | 6.00% | ~44,862 |
+| With Extra Dip | 5.00% | ~37,385 |
+| The End of the Line | 5.00% | ~37,385 |
+| Saviour | 4.00% | ~29,908 |
+| Rescue a Kitten Too? | 4.00% | ~29,908 |
+| They Can’t Stop All of Us | 3.00% | ~22,431 |
+| What are the Odds | 3.00% | ~22,431 |
+| I’ll Have Two Number 9s | 2.00% | ~14,954 |
+| Bike or Biker | 2.00% | ~14,954 |
+| What the City Needs | 2.00% | ~14,954 |
+| Yes I Speak English | 2.00% | ~14,954 |
+| Double or Nothin' | 2.00% | ~14,954 |
+| A Legitimate Business | 1.00% | ~7,477 |
+| Who Needs Directions? | 1.00% | ~7,477 |
+| Swiss Army Strife | 1.00% | ~7,477 |
+| Assassin | 1.00% | ~7,477 |
+| Public Enemy No. 1 | 1.00% | ~7,477 |
+| Ain’t Nothing But a G Thing | 1.00% | ~7,477 |
+| Chick Magnet | 0.90% | ~6,729 |
+| Lucky Spinner | 0.80% | ~5,982 |
+| Hoopin' it Up | 0.60% | ~4,486 |
+| Not a Player | 0.50% | ~3,738 |
+| Remastered | 0.40% | ~2,991 |
+| ...Here we go again | 0.20% | ~1,495 |
+| I Ain't No Buster | 0.20% | ~1,495 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,477 (Ranked 109)  
 Completed: 15 (0.20%) (Ranked 131)  

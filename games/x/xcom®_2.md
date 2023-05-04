@@ -1,4 +1,5 @@
 # XCOM® 2
+[View Rawdata](../../db/x/xcom®_2.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 7,396  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Relaxing): 1,133  (Ranked 125)
 Sum: 9,273 (Ranked 80)  
 Diff (max vs sum): 45  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

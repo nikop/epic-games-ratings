@@ -1,4 +1,5 @@
 # Speed Brawl
+[View Rawdata](../../db/s/speed_brawl.json)  
 Rating: 4.32 (Ranked 737)  
 Number of Ratings: 104  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 29  (Ranked 447)
 Sum: 29 (Ranked 459)  
 Diff (max vs sum): -12  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

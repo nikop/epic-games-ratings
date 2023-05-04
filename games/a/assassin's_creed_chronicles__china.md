@@ -1,8 +1,9 @@
 # Assassin's Creed Chronicles: China
+[View Rawdata](../../db/a/assassin's_creed_chronicles__china.json)  
 Rating: 4.68 (Ranked 233)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

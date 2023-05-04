@@ -7,189 +7,216 @@
       "SetID": "5l242ff",
       "Name": "National Petrographic",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_02",
       "SetID": "5l242ff",
       "Name": "A three megapincel camera",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_03",
       "SetID": "5l242ff",
       "Name": "Cauldrons of Duty",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_04",
       "SetID": "5l242ff",
       "Name": "DuckTales in Veracruz",
       "Percentage": 200,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 200
     },
     {
       "ID": "Trophy_05",
       "SetID": "5l242ff",
       "Name": "Finish your homework",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_06",
       "SetID": "5l242ff",
       "Name": "Archaeology enthusiast",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_07",
       "SetID": "5l242ff",
       "Name": "Mortadeo and Pincel\u00F3n",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_08",
       "SetID": "5l242ff",
       "Name": "It stinks in here!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_09",
       "SetID": "5l242ff",
       "Name": "Keep the rhythm going",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_10",
       "SetID": "5l242ff",
       "Name": "The night confuses me",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_11",
       "SetID": "5l242ff",
       "Name": "Put the lid down and flush!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_12",
       "SetID": "5l242ff",
       "Name": "Honours in stealth",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_13",
       "SetID": "5l242ff",
       "Name": "Licensed archaeologist",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_14",
       "SetID": "5l242ff",
       "Name": "Chicago Pincel Department",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_15",
       "SetID": "5l242ff",
       "Name": "Night at the Museum 4",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_16",
       "SetID": "5l242ff",
       "Name": "Mummies come from Paris",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_17",
       "SetID": "5l242ff",
       "Name": "Bathing on the Seine",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_18",
       "SetID": "5l242ff",
       "Name": "Master in archaeology",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_19",
       "SetID": "5l242ff",
       "Name": "Paris is worth a few brushes",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_20",
       "SetID": "5l242ff",
       "Name": "Tadeostonesis III",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_21",
       "SetID": "5l242ff",
       "Name": "Sara and Ramona 2, Ammyt 0",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_22",
       "SetID": "5l242ff",
       "Name": "The house of the Ammyt",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_23",
       "SetID": "5l242ff",
       "Name": "Phd in archaeology",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_24",
       "SetID": "5l242ff",
       "Name": "Pharaonic brush strokes",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_25",
       "SetID": "5l242ff",
       "Name": "Kentucky Fried Gossip",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_26",
       "SetID": "5l242ff",
       "Name": "Another life of Bryan",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_27",
       "SetID": "5l242ff",
       "Name": "Turboamazing archaeologist",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -203,13 +230,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T22:07:04.5766391+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:01.4811157+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:07:04.5766873+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:35.010041+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:01.4811435+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:23.9322326+00:00",
   "AchievementSets": [
     {
       "ID": "5l242ff",
@@ -220,7 +247,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T20:53:46.6837063+00:00"

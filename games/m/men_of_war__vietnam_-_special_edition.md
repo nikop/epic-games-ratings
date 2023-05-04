@@ -1,7 +1,8 @@
 # Men of War: Vietnam - Special edition
+[View Rawdata](../../db/m/men_of_war__vietnam_-_special_edition.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

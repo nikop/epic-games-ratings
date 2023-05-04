@@ -1,4 +1,5 @@
 # Tony Hawk's™ Pro Skater™ 1 + 2
+[View Rawdata](../../db/t/tony_hawk's™_pro_skater™_1_+_2.json)  
 Rating: 4.83 (Ranked 55)  
 Number of Ratings: 1,298  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 82  (Ranked 344)
 Sum: 645 (Ranked 268)  
 Diff (max vs sum): 76  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

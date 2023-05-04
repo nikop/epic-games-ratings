@@ -7,112 +7,128 @@
       "SetID": "7pam6gn",
       "Name": "Artist Assistant",
       "Percentage": 14,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 10220
     },
     {
       "ID": "ACH_DEEPLISTENER",
       "SetID": "7pam6gn",
       "Name": "Deep Listener",
       "Percentage": 28,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 20440
     },
     {
       "ID": "ACH_DREAMLISTENER",
       "SetID": "7pam6gn",
       "Name": "Dream Listener",
       "Percentage": 15,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 10950
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 13140
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
       "SetID": "7pam6gn",
       "Name": "Goodbye Tieng Valley",
       "Percentage": 12,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 8760
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
       "SetID": "7pam6gn",
       "Name": "Graffiti Artist",
       "Percentage": 9,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 6570
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 21900
     },
     {
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
       "Percentage": 84,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 61320
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
       "Percentage": 84,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 61320
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
       "SetID": "7pam6gn",
       "Name": "Love Uncoverer",
       "Percentage": 9,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 6570
     },
     {
       "ID": "ACH_MUSICFORCOWS",
       "SetID": "7pam6gn",
       "Name": "Music for Cows",
       "Percentage": 20,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 14600
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
       "Percentage": 66,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 48180
     },
     {
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
       "Percentage": 13,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 9490
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
       "Percentage": 39,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 28470
     },
     {
       "ID": "ACH_THEEND",
       "SetID": "7pam6gn",
       "Name": "The End",
       "Percentage": 12,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 8760
     },
     {
       "ID": "ACH_TOURDETIENG",
       "SetID": "7pam6gn",
       "Name": "Tour de Tieng",
       "Percentage": 14,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 10220
     }
   ],
   "Tags": [],
@@ -198,13 +214,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:06:29.0111308+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:35.3714591+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 9,
   "EOS_Completed": 30,
   "EOS_Progressed": 730,
-  "LastUpdate_Achievements": "2023-05-04T22:06:29.0111444+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:11.2162298+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:35.3714772+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:51.0212583+00:00",
   "AchievementSets": [
     {
       "ID": "7pam6gn",

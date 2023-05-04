@@ -1,37 +1,38 @@
 # Spacebase Startopia
+[View Rawdata](../../db/s/spacebase_startopia.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Victory over the Garbage | 0.00 |
-| Beat the limited Fuzzy | 0.00 |
-| Giddy in the Garbage | 0.00 |
-| Disease Control | 0.00 |
-| The Protecting Hand | 0.00 |
-| Pharmacist | 0.00 |
-| Party Fever | 0.00 |
-| 180 bpm | 0.00 |
-| Nightclub Owner | 0.00 |
-| Escape from Alcatraz | 0.00 |
-| Muzzle the Mafia | 0.00 |
-| Top Cop | 0.00 |
-| Successful Contact | 0.00 |
-| No Casualties | 0.00 |
-| Radical Researcher | 0.00 |
-| Market Economy | 0.00 |
-| Mass Production | 0.00 |
-| Moral Compass | 0.00 |
-| Transcendentality | 0.00 |
-| Inner Peace | 0.00 |
-| Temple | 0.00 |
-| 90,000 Volts | 0.00 |
-| A Heart for Robots | 0.00 |
-| Robo Factory | 0.00 |
-| Not Exactly Weak | 0.00 |
-| Faster Than Lightning | 0.00 |
-| Good Mood | 0.00 |
-| System Crash | 0.00 |
-| Robo Terminator | 0.00 |
-| My Precious! | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Victory over the Garbage | 0.00% | ~0 |
+| Beat the limited Fuzzy | 0.00% | ~0 |
+| Giddy in the Garbage | 0.00% | ~0 |
+| Disease Control | 0.00% | ~0 |
+| The Protecting Hand | 0.00% | ~0 |
+| Pharmacist | 0.00% | ~0 |
+| Party Fever | 0.00% | ~0 |
+| 180 bpm | 0.00% | ~0 |
+| Nightclub Owner | 0.00% | ~0 |
+| Escape from Alcatraz | 0.00% | ~0 |
+| Muzzle the Mafia | 0.00% | ~0 |
+| Top Cop | 0.00% | ~0 |
+| Successful Contact | 0.00% | ~0 |
+| No Casualties | 0.00% | ~0 |
+| Radical Researcher | 0.00% | ~0 |
+| Market Economy | 0.00% | ~0 |
+| Mass Production | 0.00% | ~0 |
+| Moral Compass | 0.00% | ~0 |
+| Transcendentality | 0.00% | ~0 |
+| Inner Peace | 0.00% | ~0 |
+| Temple | 0.00% | ~0 |
+| 90,000 Volts | 0.00% | ~0 |
+| A Heart for Robots | 0.00% | ~0 |
+| Robo Factory | 0.00% | ~0 |
+| Not Exactly Weak | 0.00% | ~0 |
+| Faster Than Lightning | 0.00% | ~0 |
+| Good Mood | 0.00% | ~0 |
+| System Crash | 0.00% | ~0 |
+| Robo Terminator | 0.00% | ~0 |
+| My Precious! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 191)  

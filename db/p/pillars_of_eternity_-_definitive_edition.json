@@ -7,336 +7,384 @@
       "SetID": "70p237j",
       "Name": "Completed Act I",
       "Percentage": 30,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 32250
     },
     {
       "ID": "achievement_02",
       "SetID": "70p237j",
       "Name": "Completed Act II",
       "Percentage": 16,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 17200
     },
     {
       "ID": "achievement_03",
       "SetID": "70p237j",
       "Name": "Completed Act III",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 8600
     },
     {
       "ID": "achievement_04",
       "SetID": "70p237j",
       "Name": "Won the Game!!!",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3225
     },
     {
       "ID": "achievement_05",
       "SetID": "70p237j",
       "Name": "Enchanter",
       "Percentage": 15,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 16125
     },
     {
       "ID": "achievement_06",
       "SetID": "70p237j",
       "Name": "Chef",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4300
     },
     {
       "ID": "achievement_07",
       "SetID": "70p237j",
       "Name": "Scribe",
       "Percentage": 4,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4300
     },
     {
       "ID": "achievement_08",
       "SetID": "70p237j",
       "Name": "Alchemist",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7525
     },
     {
       "ID": "achievement_09",
       "SetID": "70p237j",
       "Name": "Trappy",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9675
     },
     {
       "ID": "achievement_10",
       "SetID": "70p237j",
       "Name": "Relative Pacifism",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_11",
       "SetID": "70p237j",
       "Name": "Super Murderer",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 15050
     },
     {
       "ID": "achievement_12",
       "SetID": "70p237j",
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 25,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 26875
     },
     {
       "ID": "achievement_13",
       "SetID": "70p237j",
       "Name": "All Upgrades in Stronghold",
       "Percentage": 14,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15050
     },
     {
       "ID": "achievement_14",
       "SetID": "70p237j",
       "Name": "From the Clouds to the Depths",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5375
     },
     {
       "ID": "achievement_15",
       "SetID": "70p237j",
       "Name": "Appease All of the Gods",
       "Percentage": 4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 4300
     },
     {
       "ID": "achievement_16",
       "SetID": "70p237j",
       "Name": "Explorer",
       "Percentage": 5,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 5375
     },
     {
       "ID": "achievement_17",
       "SetID": "70p237j",
       "Name": "Disposition",
       "Percentage": 15,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 16125
     },
     {
       "ID": "achievement_18",
       "SetID": "70p237j",
       "Name": "The Storied Adventurer",
       "Percentage": 3,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3225
     },
     {
       "ID": "achievement_19",
       "SetID": "70p237j",
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 13975
     },
     {
       "ID": "achievement_20",
       "SetID": "70p237j",
       "Name": "The Watcher With Eight Friends",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 15050
     },
     {
       "ID": "achievement_21",
       "SetID": "70p237j",
       "Name": "A Voice from the Deep",
       "Percentage": 6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6450
     },
     {
       "ID": "achievement_22",
       "SetID": "70p237j",
       "Name": "Among the Moss and Peat",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2150
     },
     {
       "ID": "achievement_23",
       "SetID": "70p237j",
       "Name": "Called to their Labor",
       "Percentage": 6,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 6450
     },
     {
       "ID": "achievement_24",
       "SetID": "70p237j",
       "Name": "Terror of the White March",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 4300
     },
     {
       "ID": "achievement_25",
       "SetID": "70p237j",
       "Name": "The Siege of Cr\u00E4gholdt",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 7525
     },
     {
       "ID": "achievement_26",
       "SetID": "70p237j",
       "Name": "Herald of the Old Flame",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 9675
     },
     {
       "ID": "achievement_27",
       "SetID": "70p237j",
       "Name": "Make an Adventurer",
       "Percentage": 23,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 24725
     },
     {
       "ID": "achievement_28",
       "SetID": "70p237j",
       "Name": "First 5 Levels of Od Nua",
       "Percentage": 24,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 25800
     },
     {
       "ID": "achievement_29",
       "SetID": "70p237j",
       "Name": "Middle 5 Levels of Od Nua",
       "Percentage": 15,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 16125
     },
     {
       "ID": "achievement_30",
       "SetID": "70p237j",
       "Name": "Last 5 Levels of Od Nua",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12900
     },
     {
       "ID": "achievement_31",
       "SetID": "70p237j",
       "Name": "Bounty Hunter",
       "Percentage": 10,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 10750
     },
     {
       "ID": "achievement_32",
       "SetID": "70p237j",
       "Name": "Soulbinder",
       "Percentage": 13,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 13975
     },
     {
       "ID": "achievement_33",
       "SetID": "70p237j",
       "Name": "The Giftbearer",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 10750
     },
     {
       "ID": "achievement_34",
       "SetID": "70p237j",
       "Name": "Watcher at the Breach",
       "Percentage": 9,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 9675
     },
     {
       "ID": "achievement_35",
       "SetID": "70p237j",
       "Name": "Fish Guts and Murder",
       "Percentage": 8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 8600
     },
     {
       "ID": "achievement_36",
       "SetID": "70p237j",
       "Name": "Kickstarter Backer",
       "Percentage": 82,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 88150
     },
     {
       "ID": "achievement_37",
       "SetID": "70p237j",
       "Name": "Legendary Enchanter",
       "Percentage": 1,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1075
     },
     {
       "ID": "achievement_38",
       "SetID": "70p237j",
       "Name": "Path of the Damned",
       "Percentage": 0.7,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 752
     },
     {
       "ID": "achievement_39",
       "SetID": "70p237j",
       "Name": "Expert",
       "Percentage": 0.6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_40",
       "SetID": "70p237j",
       "Name": "Zero Knockouts",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_41",
       "SetID": "70p237j",
       "Name": "Solo",
       "Percentage": 0.6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_42",
       "SetID": "70p237j",
       "Name": "Triple Crown",
       "Percentage": 0.6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_43",
       "SetID": "70p237j",
       "Name": "Trial of Iron",
       "Percentage": 0.6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_44",
       "SetID": "70p237j",
       "Name": "No Rest for the Pro",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_45",
       "SetID": "70p237j",
       "Name": "Triple Crown Solo",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_46",
       "SetID": "70p237j",
       "Name": "Frozen Crown",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_47",
       "SetID": "70p237j",
       "Name": "Frozen Crown Solo",
       "Percentage": 0.6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_48",
       "SetID": "70p237j",
       "Name": "The Ultimate",
       "Percentage": 0.5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 538
     }
   ],
   "Tags": [
@@ -380,7 +428,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2696,17 +2744,23 @@
       "Rating": 4.65,
       "NumberOfAwards": 4591,
       "NumberOfAwardsMax": 1868
+    },
+    {
+      "Time": "2023-05-04T22:16:57.7743222+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 4592,
+      "NumberOfAwardsMax": 1868
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-04T22:06:17.2779583+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:26.7879848+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 4,
   "EOS_Progressed": 1075,
-  "LastUpdate_Achievements": "2023-05-04T22:06:17.2780313+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:50.1058422+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:26.788026+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:57.7743226+00:00",
   "AchievementSets": [
     {
       "ID": "70p237j",
@@ -2716,11 +2770,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0.37,
-  "LastChanged": "2023-05-04T02:57:08.4242751+00:00",
+  "LastChanged": "2023-05-04T22:16:57.774322+00:00",
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1868,
-  "NumberOfAwards": 4591,
+  "NumberOfAwards": 4592,
   "NumberOfRatings": 2847,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 236,

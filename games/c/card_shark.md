@@ -1,9 +1,10 @@
 # Card Shark
+[View Rawdata](../../db/c/card_shark.json)  
 Rating: 4.69 (Ranked 212)  
 Number of Ratings: 21  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

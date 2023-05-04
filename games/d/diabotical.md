@@ -1,4 +1,5 @@
 # Diabotical
+[View Rawdata](../../db/d/diabotical.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 572  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 265  (Ranked 233)
 Sum: 2,547 (Ranked 164)  
 Diff (max vs sum): 69  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

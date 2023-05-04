@@ -1,8 +1,9 @@
 # King of Retail
+[View Rawdata](../../db/k/king_of_retail.json)  
 Rating: 4.67 (Ranked 255)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

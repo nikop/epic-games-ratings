@@ -1,4 +1,5 @@
 # Fell Seal: Arbiter's Mark
+[View Rawdata](../../db/f/fell_seal__arbiter's_mark.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 27  (Ranked 454)
 Sum: 27 (Ranked 462)  
 Diff (max vs sum): -8  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

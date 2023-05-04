@@ -7,315 +7,360 @@
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 48,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21831840
     },
     {
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
       "Percentage": 34,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15464220
     },
     {
       "ID": "ach_ammo_ran",
       "SetID": "7km39fm",
       "Name": "Git Gutte!",
       "Percentage": 67,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 30473610
     },
     {
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
       "Percentage": 35,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15919050
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
       "SetID": "7km39fm",
       "Name": "Make it So",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4093470
     },
     {
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
       "Percentage": 7,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3183810
     },
     {
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
       "Percentage": 34,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15464220
     },
     {
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
       "Percentage": 54,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 24560820
     },
     {
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
       "Percentage": 84,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 38205720
     },
     {
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3638640
     },
     {
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 52,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 23651160
     },
     {
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 16373880
     },
     {
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
       "Percentage": 37,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 16828710
     },
     {
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 5457960
     },
     {
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 32,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 14554560
     },
     {
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 71,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 32292930
     },
     {
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 13644900
     },
     {
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
       "Percentage": 9,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4093470
     },
     {
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
       "Percentage": 76,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 34567080
     },
     {
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
       "Percentage": 59,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 26834970
     },
     {
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
       "Percentage": 88,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 40025040
     },
     {
       "ID": "ach_impressive_aim",
       "SetID": "7km39fm",
       "Name": "Donk!",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1364490
     },
     {
       "ID": "ach_internet_famous",
       "SetID": "7km39fm",
       "Name": "Internet Famous",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5003130
     },
     {
       "ID": "ach_investigator",
       "SetID": "7km39fm",
       "Name": "Sole Survivor",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2274150
     },
     {
       "ID": "ach_jumbo_keyring",
       "SetID": "7km39fm",
       "Name": "Jumbo Keyring",
       "Percentage": 20,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 9096600
     },
     {
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
       "Percentage": 63,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 28654290
     },
     {
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12735240
     },
     {
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12735240
     },
     {
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3183810
     },
     {
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12735240
     },
     {
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 12280410
     },
     {
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
       "Percentage": 30,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 13644900
     },
     {
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
       "Percentage": 20,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9096600
     },
     {
       "ID": "ach_secrets_of_la",
       "SetID": "7km39fm",
       "Name": "Sharpest Tool in the Box",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2728980
     },
     {
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 22286670
     },
     {
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 70,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 31838100
     },
     {
       "ID": "ach_survival_expert",
       "SetID": "7km39fm",
       "Name": "Survival Skills",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1364490
     },
     {
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
       "Percentage": 8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 3638640
     },
     {
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
       "Percentage": 19,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 8641770
     },
     {
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
       "Percentage": 26,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 11825580
     },
     {
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
       "Percentage": 48,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 21831840
     },
     {
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
       "Percentage": 5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2274150
     },
     {
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
       "Percentage": 49,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 22286670
     },
     {
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
       "Percentage": 19,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 8641770
     },
     {
       "ID": "ach_well_trained",
       "SetID": "7km39fm",
       "Name": "Zombicidal Maniac",
       "Percentage": 0.6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 272898
     }
   ],
   "Tags": [
@@ -1469,6 +1514,11 @@
       "Time": "2023-05-04T22:06:17.8973481+00:00",
       "NumProgressed": 454758,
       "NumCompleted": 689
+    },
+    {
+      "Time": "2023-05-04T22:24:27.2531421+00:00",
+      "NumProgressed": 454830,
+      "NumCompleted": 690
     }
   ],
   "RatingHistory": [
@@ -1925,19 +1975,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T22:06:17.8973472+00:00",
-  "EOS_NewCompleters": 471,
-  "EOS_NewPlayers": 93718,
-  "EOS_Completed": 689,
-  "EOS_Progressed": 454758,
-  "LastUpdate_Achievements": "2023-05-04T22:06:17.8973975+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:49.0676108+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:27.2531416+00:00",
+  "EOS_NewCompleters": 472,
+  "EOS_NewPlayers": 93790,
+  "EOS_Completed": 690,
+  "EOS_Progressed": 454830,
+  "LastUpdate_Achievements": "2023-05-04T22:24:27.2532021+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:35.7285112+00:00",
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 454758,
-      "Completed": 689
+      "Progressed": 454830,
+      "Completed": 690
     }
   ],
   "EOS_Completed_Percentage": 0.15,

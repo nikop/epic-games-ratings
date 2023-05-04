@@ -7,238 +7,272 @@
       "SetID": "11popfh",
       "Name": "ACE",
       "Percentage": 0.7,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 154615
     },
     {
       "ID": "BETTERTHANEVER",
       "SetID": "11popfh",
       "Name": "BETTER THAN EVER",
       "Percentage": 0.2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 44176
     },
     {
       "ID": "CALLINGHOUSTON",
       "SetID": "11popfh",
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6184584
     },
     {
       "ID": "CENTAUR",
       "SetID": "11popfh",
       "Name": "CENTAUR",
       "Percentage": 7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1546146
     },
     {
       "ID": "CHALLENGER",
       "SetID": "11popfh",
       "Name": "CHALLENGER",
       "Percentage": 11,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2429658
     },
     {
       "ID": "CHALLENGETHEWORLD",
       "SetID": "11popfh",
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1546146
     },
     {
       "ID": "DRAGOON",
       "SetID": "11popfh",
       "Name": "DRAGOON",
       "Percentage": 0.4,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 88351
     },
     {
       "ID": "ENLIGHTENED",
       "SetID": "11popfh",
       "Name": "ENLIGHTENED",
       "Percentage": 0.1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 22088
     },
     {
       "ID": "FASTERTHANEVER",
       "SetID": "11popfh",
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 1767024
     },
     {
       "ID": "FLAWLESS",
       "SetID": "11popfh",
       "Name": "FLAWLESS",
       "Percentage": 0.4,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 88351
     },
     {
       "ID": "GILA",
       "SetID": "11popfh",
       "Name": "GILA",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 662634
     },
     {
       "ID": "GT9STRADALE",
       "SetID": "11popfh",
       "Name": "GT9STRADALE",
       "Percentage": 20,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4417560
     },
     {
       "ID": "GTXCOMPETIZIONE",
       "SetID": "11popfh",
       "Name": "GTX COMPETIZIONE",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 110439
     },
     {
       "ID": "HARDCORE",
       "SetID": "11popfh",
       "Name": "HARDCORE",
       "Percentage": 1,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 220878
     },
     {
       "ID": "HIDDENPOWER",
       "SetID": "11popfh",
       "Name": "HIDDEN POWER",
       "Percentage": 0.5,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 110439
     },
     {
       "ID": "IINI",
       "SetID": "11popfh",
       "Name": "IINI",
       "Percentage": 0.2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 44176
     },
     {
       "ID": "MARID",
       "SetID": "11popfh",
       "Name": "MARID",
       "Percentage": 0.2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 44176
     },
     {
       "ID": "NATURALBORNWINNER",
       "SetID": "11popfh",
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 7068096
     },
     {
       "ID": "NOBUNAGA",
       "SetID": "11popfh",
       "Name": "NOBUNAGA",
       "Percentage": 0.2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 44176
     },
     {
       "ID": "ODIN",
       "SetID": "11popfh",
       "Name": "ODIN",
       "Percentage": 0.2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 44176
     },
     {
       "ID": "ONAROLL",
       "SetID": "11popfh",
       "Name": "ON A ROLL",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 1987902
     },
     {
       "ID": "PHOTOFINISH",
       "SetID": "11popfh",
       "Name": "PHOTOFINISH",
       "Percentage": 7,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1546146
     },
     {
       "ID": "PILEUPTROPHIES",
       "SetID": "11popfh",
       "Name": "PILE UP TROPHIES",
       "Percentage": 0.2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 44176
     },
     {
       "ID": "PRO",
       "SetID": "11popfh",
       "Name": "PRO",
       "Percentage": 2,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 441756
     },
     {
       "ID": "QAREEN",
       "SetID": "11popfh",
       "Name": "QAREEN",
       "Percentage": 5,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1104390
     },
     {
       "ID": "RESPWND",
       "SetID": "11popfh",
       "Name": "RESPWND",
       "Percentage": 2,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 441756
     },
     {
       "ID": "SHINYSHINYGOLD",
       "SetID": "11popfh",
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 441756
     },
     {
       "ID": "SHOWOFF",
       "SetID": "11popfh",
       "Name": "SHOWOFF",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 883512
     },
     {
       "ID": "SNEAKYSNEAKY",
       "SetID": "11popfh",
       "Name": "SNEAKY SNEAKY",
       "Percentage": 21,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4638438
     },
     {
       "ID": "TACTICIAN",
       "SetID": "11popfh",
       "Name": "TACTICIAN",
       "Percentage": 0.6,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 132527
     },
     {
       "ID": "TAKATORA",
       "SetID": "11popfh",
       "Name": "TAKATORA",
       "Percentage": 4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 883512
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
       "SetID": "11popfh",
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4859316
     },
     {
       "ID": "TUNINGMANIAC",
       "SetID": "11popfh",
       "Name": "TUNING MANIAC",
       "Percentage": 0.5,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 110439
     },
     {
       "ID": "VANGUARD",
       "SetID": "11popfh",
       "Name": "VANGUARD",
       "Percentage": 41,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 9055998
     }
   ],
   "Tags": [],
@@ -1526,13 +1560,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-04T22:06:05.9861332+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:18.1698874+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 650,
   "EOS_Completed": 41,
   "EOS_Progressed": 220878,
-  "LastUpdate_Achievements": "2023-05-04T22:06:05.9861749+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:43.0885183+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:18.1699398+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:31.8648737+00:00",
   "AchievementSets": [
     {
       "ID": "11popfh",

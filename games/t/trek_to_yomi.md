@@ -1,8 +1,9 @@
 # Trek to Yomi
+[View Rawdata](../../db/t/trek_to_yomi.json)  
 Rating: 4.22 (Ranked 794)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,4 +1,5 @@
 # Watch Dogs 2 Standard Edition
+[View Rawdata](../../db/w/watch_dogs_2_standard_edition.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 6,460  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Quickly Understood Controls): 312  (Ranked 218)
 Sum: 2,351 (Ranked 170)  
 Diff (max vs sum): 48  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

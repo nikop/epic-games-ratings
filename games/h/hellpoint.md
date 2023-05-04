@@ -1,9 +1,10 @@
 # Hellpoint
+[View Rawdata](../../db/h/hellpoint.json)  
 Rating: 4.30 (Ranked 751)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

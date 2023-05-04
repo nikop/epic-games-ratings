@@ -1,4 +1,5 @@
 # Carcassonne
+[View Rawdata](../../db/c/carcassonne.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 276  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 72  (Ranked 355)
 Sum: 508 (Ranked 289)  
 Diff (max vs sum): 66  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

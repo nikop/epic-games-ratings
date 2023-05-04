@@ -1,4 +1,5 @@
 # Way of the Hunter
+[View Rawdata](../../db/w/way_of_the_hunter.json)  
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 190  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 38  (Ranked 414)
 Sum: 190 (Ranked 351)  
 Diff (max vs sum): 63  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

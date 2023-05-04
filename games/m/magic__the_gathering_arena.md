@@ -1,4 +1,5 @@
 # Magic: The Gathering Arena
+[View Rawdata](../../db/m/magic__the_gathering_arena.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 14,652  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 10,077  (Ranked 33)
 Sum: 82,939 (Ranked 15)  
 Diff (max vs sum): 18  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

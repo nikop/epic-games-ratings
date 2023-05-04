@@ -1,12 +1,13 @@
 # Honkai Impact 3rd
+[View Rawdata](../../db/h/honkai_impact_3rd.json)  
 Rating: 4.50 (Ranked 530)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,286  (Ranked 94)  
 Sum: 7,686 (Ranked 95)  
 Diff (max vs sum): -1  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

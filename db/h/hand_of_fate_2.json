@@ -7,336 +7,384 @@
       "SetID": "27hb4pl",
       "Name": "The Fool",
       "Percentage": 72,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 47202768
     },
     {
       "ID": "Achievement_02_Apprentice",
       "SetID": "27hb4pl",
       "Name": "Apprentice",
       "Percentage": 58,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 38024452
     },
     {
       "ID": "Achievement_03_Mercenary",
       "SetID": "27hb4pl",
       "Name": "Mercenary",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 15078662
     },
     {
       "ID": "Achievement_04_Adventurer",
       "SetID": "27hb4pl",
       "Name": "Adventurer",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3933564
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
       "SetID": "27hb4pl",
       "Name": "Protector of the Realm",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 655594
     },
     {
       "ID": "Achievement_06_Knight",
       "SetID": "27hb4pl",
       "Name": "Knight",
       "Percentage": 8,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5244752
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
       "SetID": "27hb4pl",
       "Name": "Dungeon Master",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 327797
     },
     {
       "ID": "Achievement_08_Card_Sharp",
       "SetID": "27hb4pl",
       "Name": "Card Sharp",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 1311188
     },
     {
       "ID": "Achievement_09_Gambler",
       "SetID": "27hb4pl",
       "Name": "Gambler",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6555940
     },
     {
       "ID": "Achievement_10_Long_Shot",
       "SetID": "27hb4pl",
       "Name": "Long Shot",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4589158
     },
     {
       "ID": "Achievement_11_Grifter",
       "SetID": "27hb4pl",
       "Name": "Grifter",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 65559
     },
     {
       "ID": "Achievement_12_Jack_of_all_Trades",
       "SetID": "27hb4pl",
       "Name": "Jack of all Trades",
       "Percentage": 5,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3277970
     },
     {
       "ID": "Achievement_13_Dice_Master",
       "SetID": "27hb4pl",
       "Name": "Dice Master",
       "Percentage": 10,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 6555940
     },
     {
       "ID": "Achievement_14_Magician",
       "SetID": "27hb4pl",
       "Name": "Magician",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1311188
     },
     {
       "ID": "Achievement_15_Hero",
       "SetID": "27hb4pl",
       "Name": "Hero",
       "Percentage": 0.6,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 393356
     },
     {
       "ID": "Achievement_16_Ally",
       "SetID": "27hb4pl",
       "Name": "Ally",
       "Percentage": 0.8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 524475
     },
     {
       "ID": "Achievement_17_Rebel",
       "SetID": "27hb4pl",
       "Name": "Rebel",
       "Percentage": 0.6,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 393356
     },
     {
       "ID": "Achievement_18_Ninja",
       "SetID": "27hb4pl",
       "Name": "Ninja",
       "Percentage": 23,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 15078662
     },
     {
       "ID": "Achievement_19_Thief_Bane",
       "SetID": "27hb4pl",
       "Name": "Thief Bane",
       "Percentage": 14,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 9178316
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
       "SetID": "27hb4pl",
       "Name": "Northern Scourge",
       "Percentage": 17,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 11145098
     },
     {
       "ID": "Achievement_21_Empires_Bane",
       "SetID": "27hb4pl",
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3933564
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
       "SetID": "27hb4pl",
       "Name": "Cure for Corruption",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5244752
     },
     {
       "ID": "Achievement_23_Smithy",
       "SetID": "27hb4pl",
       "Name": "Smithy",
       "Percentage": 5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3277970
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
       "SetID": "27hb4pl",
       "Name": "Leap of Faith",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1966782
     },
     {
       "ID": "Achievement_25_Purgatorium",
       "SetID": "27hb4pl",
       "Name": "Purgatorium",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 655594
     },
     {
       "ID": "Achievement_26_Gamester",
       "SetID": "27hb4pl",
       "Name": "Gamester",
       "Percentage": 0.7,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 458916
     },
     {
       "ID": "Achievement_27_Money_Bags",
       "SetID": "27hb4pl",
       "Name": "Money Bags",
       "Percentage": 0.2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 131119
     },
     {
       "ID": "Achievement_28_Unburdened",
       "SetID": "27hb4pl",
       "Name": "Unburdened",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 65559
     },
     {
       "ID": "Achievement_29_Focused",
       "SetID": "27hb4pl",
       "Name": "Focused",
       "Percentage": 8,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 5244752
     },
     {
       "ID": "Achievement_30_Devil_Dice",
       "SetID": "27hb4pl",
       "Name": "Devil Dice",
       "Percentage": 7,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4589158
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
       "SetID": "27hb4pl",
       "Name": "Master of Arms",
       "Percentage": 12,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 7867128
     },
     {
       "ID": "Achievement_32_Karma",
       "SetID": "27hb4pl",
       "Name": "Karma",
       "Percentage": 0.1,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 65559
     },
     {
       "ID": "Achievement_33_Combat_Ready",
       "SetID": "27hb4pl",
       "Name": "Combat Ready",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1966782
     },
     {
       "ID": "Achievement_34_Close_Shave",
       "SetID": "27hb4pl",
       "Name": "Close Shave",
       "Percentage": 25,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 16389850
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
       "SetID": "27hb4pl",
       "Name": "Cursed Soul",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 655594
     },
     {
       "ID": "Achievement_36_Swordsman",
       "SetID": "27hb4pl",
       "Name": "Swordsman",
       "Percentage": 9,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5900346
     },
     {
       "ID": "Achievement_37_Champion",
       "SetID": "27hb4pl",
       "Name": "Champion",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 655594
     },
     {
       "ID": "Achievement_38_Flurry_of_Fury",
       "SetID": "27hb4pl",
       "Name": "Flurry of Fury",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 5244752
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
       "SetID": "27hb4pl",
       "Name": "Stuffed Potato",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1966782
     },
     {
       "ID": "Achievement_40_Broken_Heart",
       "SetID": "27hb4pl",
       "Name": "Broken Heart",
       "Percentage": 6,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3933564
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
       "SetID": "27hb4pl",
       "Name": "Draknar\u0027s Bane",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 1311188
     },
     {
       "ID": "Achievement_42_Thomas_Bane",
       "SetID": "27hb4pl",
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.8,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 524475
     },
     {
       "ID": "Achievement_43_Final_Death",
       "SetID": "27hb4pl",
       "Name": "Final Death",
       "Percentage": 1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 655594
     },
     {
       "ID": "Achievement_44_Miracle",
       "SetID": "27hb4pl",
       "Name": "Miracle",
       "Percentage": 0.1,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 65559
     },
     {
       "ID": "Achievement_45_Peaceful_Coast",
       "SetID": "27hb4pl",
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 196678
     },
     {
       "ID": "Achievement_46_Pilgrim",
       "SetID": "27hb4pl",
       "Name": "Pilgrim",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 262238
     },
     {
       "ID": "Achievement_47_Smiths_Honour",
       "SetID": "27hb4pl",
       "Name": "Smiths Honour",
       "Percentage": 0.4,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 262238
     },
     {
       "ID": "Achievement_48_Blood_Pact",
       "SetID": "27hb4pl",
       "Name": "Blood Pact",
       "Percentage": 0.1,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 65559
     }
   ],
   "Tags": [
@@ -2087,13 +2135,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-04T22:06:09.495379+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:20.9699293+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 386,
   "EOS_Completed": 164,
   "EOS_Progressed": 655594,
-  "LastUpdate_Achievements": "2023-05-04T22:06:09.4954259+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:51.7147896+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:20.9700043+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:58.7414132+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",

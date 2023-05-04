@@ -1,4 +1,5 @@
 # Mages of Mystralia
+[View Rawdata](../../db/m/mages_of_mystralia.json)  
 Rating: 4.38 (Ranked 686)  
 Number of Ratings: 693  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 162  (Ranked 277)
 Sum: 162 (Ranked 370)  
 Diff (max vs sum): -93  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

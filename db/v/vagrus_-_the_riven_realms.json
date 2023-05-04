@@ -7,693 +7,792 @@
       "SetID": "27kik8p",
       "Name": "Randomized",
       "Percentage": 8,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 416
     },
     {
       "ID": "Vanilla_Abolitionists",
       "SetID": "27kik8p",
       "Name": "Liberator",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_AbolitionistsMet",
       "SetID": "27kik8p",
       "Name": "Making Contact",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_AbolitionistsSpread",
       "SetID": "27kik8p",
       "Name": "For the Cause!",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_AhskulCurse",
       "SetID": "27kik8p",
       "Name": "Death Denied",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_AllBounties",
       "SetID": "27kik8p",
       "Name": "Bounty Hunter",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_AndtheSkyFullofStars",
       "SetID": "27kik8p",
       "Name": "And the Sky Full of Stars",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
       "SetID": "27kik8p",
       "Name": "Beloved by Irafons",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_BaalUrKalCurse",
       "SetID": "27kik8p",
       "Name": "Deceptions Disclosed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier1",
       "SetID": "27kik8p",
       "Name": "Quartermaster",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
       "SetID": "27kik8p",
       "Name": "Supercargo",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Carpenters",
       "SetID": "27kik8p",
       "Name": "Carpenter",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ChurchOfAhskul",
       "SetID": "27kik8p",
       "Name": "Watcher",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ChurchOfSergorod",
       "SetID": "27kik8p",
       "Name": "Executor",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CodexTier1",
       "SetID": "27kik8p",
       "Name": "Scribe",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_CodexTier2",
       "SetID": "27kik8p",
       "Name": "Scholar",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_CodexTier3",
       "SetID": "27kik8p",
       "Name": "Loremaster",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
       "SetID": "27kik8p",
       "Name": "Strategist",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
       "SetID": "27kik8p",
       "Name": "General",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CompanionMaxedOut",
       "SetID": "27kik8p",
       "Name": "Potential Unlocked",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
       "SetID": "27kik8p",
       "Name": "Adept",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CompanionsProwessTier1",
       "SetID": "27kik8p",
       "Name": "Talent Nurtured",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CompanionsProwessTier2",
       "SetID": "27kik8p",
       "Name": "Company of Heroes",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_CompanionsTier1",
       "SetID": "27kik8p",
       "Name": "The More the Merrier",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
       "SetID": "27kik8p",
       "Name": "Embellished",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Criftaa",
       "SetID": "27kik8p",
       "Name": "Huntress Unbound",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_DaneramsGambit",
       "SetID": "27kik8p",
       "Name": "Xevarian Gambit",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
       "Percentage": 6,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 312
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
       "SetID": "27kik8p",
       "Name": "Deputized",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
       "SetID": "27kik8p",
       "Name": "Accomplished Explorer",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_DistantFreshNews",
       "SetID": "27kik8p",
       "Name": "Harbinger",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
       "SetID": "27kik8p",
       "Name": "Over the Horizon",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_EquipmentCollection",
       "SetID": "27kik8p",
       "Name": "Prepared For Anything",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ExchangeNews",
       "SetID": "27kik8p",
       "Name": "Courier",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ExtendedHireling",
       "SetID": "27kik8p",
       "Name": "Hired Help",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Eylani",
       "SetID": "27kik8p",
       "Name": "Ever After",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FactionBalancer",
       "SetID": "27kik8p",
       "Name": "Diplomat",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FactionMaxer",
       "SetID": "27kik8p",
       "Name": "Factotum",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_Finndurarth",
       "SetID": "27kik8p",
       "Name": "The Voice of Hereafter",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
       "SetID": "27kik8p",
       "Name": "Despised",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FirstWin",
       "SetID": "27kik8p",
       "Name": "Conqueror",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FleeFromAFight",
       "SetID": "27kik8p",
       "Name": "Fight Another Day",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_Forager",
       "SetID": "27kik8p",
       "Name": "Forager",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FourCityTimed",
       "SetID": "27kik8p",
       "Name": "Metropolitan",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_FourCorners",
       "SetID": "27kik8p",
       "Name": "Been There",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Garrik",
       "SetID": "27kik8p",
       "Name": "Business As Usual",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_GearCollection",
       "SetID": "27kik8p",
       "Name": "All Geared Up",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_GorGoro",
       "SetID": "27kik8p",
       "Name": "Forged in Battle",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Harvek",
       "SetID": "27kik8p",
       "Name": "Legacy of a Mercenary",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_HouseDarius",
       "SetID": "27kik8p",
       "Name": "Captain",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_HouseOquo",
       "SetID": "27kik8p",
       "Name": "Trailblazer",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_HouseVenari",
       "SetID": "27kik8p",
       "Name": "Manticore",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Hunter",
       "SetID": "27kik8p",
       "Name": "Huntsmaster",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Knowledge",
       "SetID": "27kik8p",
       "Name": "Seeker",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_LegendaryEquipment",
       "SetID": "27kik8p",
       "Name": "Chromatic Collector",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Loaders",
       "SetID": "27kik8p",
       "Name": "Loader",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_MercenaryTasksTier1",
       "SetID": "27kik8p",
       "Name": "Mercenary",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_MercenaryTasksTier2",
       "SetID": "27kik8p",
       "Name": "Mercenary Lord",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_MovementTier1",
       "SetID": "27kik8p",
       "Name": "Tail-wind",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_MovementTier2",
       "SetID": "27kik8p",
       "Name": "Moving At Odd Angles",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Nedir",
       "SetID": "27kik8p",
       "Name": "A Terrible Will",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_OddJobs",
       "SetID": "27kik8p",
       "Name": "Handymen",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Outpost",
       "SetID": "27kik8p",
       "Name": "Settler",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_PassengerDelivers",
       "SetID": "27kik8p",
       "Name": "Escort",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_PassengerKeptForLong",
       "SetID": "27kik8p",
       "Name": "Delayed",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
       "Percentage": 37,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1924
     },
     {
       "ID": "Vanilla_Ratharnak",
       "SetID": "27kik8p",
       "Name": "Despoiler",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_RealBattle",
       "SetID": "27kik8p",
       "Name": "A Real Battle",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Renkailon",
       "SetID": "27kik8p",
       "Name": "The Darkness Within",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Renown",
       "SetID": "27kik8p",
       "Name": "Celebrity",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Ruiner",
       "SetID": "27kik8p",
       "Name": "Ruiner",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_SadirarBlessing",
       "SetID": "27kik8p",
       "Name": "Spiritual Journey",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Scythichnis",
       "SetID": "27kik8p",
       "Name": "Arcanite",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
       "Percentage": 46,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2392
     },
     {
       "ID": "Vanilla_SecretsBelow",
       "SetID": "27kik8p",
       "Name": "What Lies Below",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_SergorodCurse",
       "SetID": "27kik8p",
       "Name": "Rage Repressed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Skornar",
       "SetID": "27kik8p",
       "Name": "The Last Voyage",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_SpiritIdol",
       "SetID": "27kik8p",
       "Name": "Life... Finds a Way",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TaxEvasion",
       "SetID": "27kik8p",
       "Name": "Tax Evasion",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TheGoldenTheory",
       "SetID": "27kik8p",
       "Name": "Theory to Practice",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
       "Percentage": 21,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1092
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
       "SetID": "27kik8p",
       "Name": "Pilgrimage\u0027s End",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TheReturnOfTheWyrms",
       "SetID": "27kik8p",
       "Name": "Wyrmslayer",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TheSourceOfDiscord",
       "SetID": "27kik8p",
       "Name": "Inquisitions of Discord",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ThreeCurses",
       "SetID": "27kik8p",
       "Name": "Defiant",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_ThreeCursesWithAutoSavesOnly",
       "SetID": "27kik8p",
       "Name": "Vagrus Supreme",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TradeTasksTier1",
       "SetID": "27kik8p",
       "Name": "Merchant",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
       "SetID": "27kik8p",
       "Name": "Merchant Lord",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_TroubleAtFortLarius",
       "SetID": "27kik8p",
       "Name": "Trouble at Fort Larius",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_UnseenPatterns",
       "SetID": "27kik8p",
       "Name": "Unseen Patterns",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
       "SetID": "27kik8p",
       "Name": "Glorious leader",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Vorax",
       "SetID": "27kik8p",
       "Name": "Voracity Confronted",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_Wealth",
       "SetID": "27kik8p",
       "Name": "Enterpreneur",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "Vanilla_YrgPropagation",
       "SetID": "27kik8p",
       "Name": "Insectoid Propagator",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -724,13 +823,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 99,
-  "LastChanged_Achievements": "2023-05-04T22:06:04.9789755+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:17.5815128+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 52,
-  "LastUpdate_Achievements": "2023-05-04T22:06:04.9791009+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:22.657566+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:17.5817264+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:58.2251647+00:00",
   "AchievementSets": [
     {
       "ID": "27kik8p",

@@ -7,63 +7,72 @@
       "SetID": "2a8fdfo",
       "Name": "You got all endings!",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CALLED_POLICE",
       "SetID": "2a8fdfo",
       "Name": "Never around when you need them",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_1",
       "SetID": "2a8fdfo",
       "Name": "Became the new Maker",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_2",
       "SetID": "2a8fdfo",
       "Name": "Jumped into the void",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_3",
       "SetID": "2a8fdfo",
       "Name": "Did you think you would make it?",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_4",
       "SetID": "2a8fdfo",
       "Name": "Where\u0027s the air conditioner?",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_5",
       "SetID": "2a8fdfo",
       "Name": "Stubbornness unleashed!",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_6",
       "SetID": "2a8fdfo",
       "Name": "So nineties it hurts...",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISHED_GAME_10_TIMES",
       "SetID": "2a8fdfo",
       "Name": "Still trying to escape?",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -77,13 +86,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 9,
-  "LastChanged_Achievements": "2023-05-04T22:06:45.2678706+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:47.5586579+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:06:45.2678798+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:23.0233803+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:47.5586662+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:37.358834+00:00",
   "AchievementSets": [
     {
       "ID": "2a8fdfo",
@@ -94,7 +103,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00"

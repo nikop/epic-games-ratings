@@ -1,4 +1,5 @@
 # MythForce
+[View Rawdata](../../db/m/mythforce.json)  
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 285  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Highly Recommended): 32  (Ranked 434)
 Sum: 219 (Ranked 343)  
 Diff (max vs sum): 91  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,8 +1,9 @@
 # Not Tonight 2
+[View Rawdata](../../db/n/not_tonight_2.json)  
 Rating: 4.19 (Ranked 813)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

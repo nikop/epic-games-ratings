@@ -1,7 +1,8 @@
 # Shakedown - Hawaii
+[View Rawdata](../../db/s/shakedown_-_hawaii.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

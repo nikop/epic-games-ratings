@@ -7,168 +7,192 @@
       "SetID": "912473c",
       "Name": "Rise and Shine",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "10",
       "SetID": "912473c",
       "Name": "Getting to Know the Family",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "11",
       "SetID": "912473c",
       "Name": "GO NINJA GO!!!",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "12",
       "SetID": "912473c",
       "Name": "A Worthy Opponent",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "13",
       "SetID": "912473c",
       "Name": "Dog the Mighty!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "14",
       "SetID": "912473c",
       "Name": "Unleash the DOOM!",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "15",
       "SetID": "912473c",
       "Name": "King of Sportz",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "16",
       "SetID": "912473c",
       "Name": "Better than the Turkey Jerkies!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "17",
       "SetID": "912473c",
       "Name": "Smashing!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "18",
       "SetID": "912473c",
       "Name": "Going Ghost!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "19",
       "SetID": "912473c",
       "Name": "Move it, Football Head!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "2",
       "SetID": "912473c",
       "Name": "Astonishing!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "20",
       "SetID": "912473c",
       "Name": "I\u0027m Ready! I\u0027m Ready!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "21",
       "SetID": "912473c",
       "Name": "Time to Scare the Opposition",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "22",
       "SetID": "912473c",
       "Name": "World Domination is at Hand!",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "23",
       "SetID": "912473c",
       "Name": "A Pretty Amazing Person",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "24",
       "SetID": "912473c",
       "Name": "Flawless Hair, Check!",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "3",
       "SetID": "912473c",
       "Name": "COWABUNGA!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "4",
       "SetID": "912473c",
       "Name": "ACTIVATE THE PLOT DEVICE!",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "5",
       "SetID": "912473c",
       "Name": "Everything is Connected",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "6",
       "SetID": "912473c",
       "Name": "Avatar State",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "7",
       "SetID": "912473c",
       "Name": "Ultimate Tool of Destruction",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "8",
       "SetID": "912473c",
       "Name": "I Want an Award!",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     },
     {
       "ID": "9",
       "SetID": "912473c",
       "Name": "I Only Know How to Give 110%",
       "Percentage": 0,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -319,13 +343,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:07:04.3193602+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:25:01.4503168+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 19,
   "EOS_Completed": 0,
   "EOS_Progressed": 571,
-  "LastUpdate_Achievements": "2023-05-04T22:07:04.319384+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:30.3450588+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:25:01.4503362+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:21.434924+00:00",
   "AchievementSets": [
     {
       "ID": "912473c",

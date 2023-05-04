@@ -7,168 +7,192 @@
       "SetID": "55ol43k",
       "Name": "Adventurer",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "CONQUEROR",
       "SetID": "55ol43k",
       "Name": "Conqueror",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "CONQUER_ALWYN",
       "SetID": "55ol43k",
       "Name": "Rule Alwyn",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "CONQUER_CATACOMBS",
       "SetID": "55ol43k",
       "Name": "Rule Catacombs",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "CONQUER_CITADEL",
       "SetID": "55ol43k",
       "Name": "Rule Citadel",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "CONQUER_DESERT",
       "SetID": "55ol43k",
       "Name": "Rule Burning Rock",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "CONQUER_WASTELANDS",
       "SetID": "55ol43k",
       "Name": "Rule Wastelands",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "DEATH_DEALER",
       "SetID": "55ol43k",
       "Name": "Death Dealer",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ERA",
       "SetID": "55ol43k",
       "Name": "Second Era",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "EXPLORER",
       "SetID": "55ol43k",
       "Name": "Explorer",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "GRIM_REAPER",
       "SetID": "55ol43k",
       "Name": "Grim Reaper",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "HEROISM",
       "SetID": "55ol43k",
       "Name": "Heroism",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "HORDE",
       "SetID": "55ol43k",
       "Name": "Horde",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "KFC",
       "SetID": "55ol43k",
       "Name": "Kinahmo Fried Chicken",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "KILO",
       "SetID": "55ol43k",
       "Name": "A Thousand Corpses",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "LVL_5",
       "SetID": "55ol43k",
       "Name": "Pentagrammaton",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "NECRONOMICON",
       "SetID": "55ol43k",
       "Name": "Necronomicon",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "REANIMATOR",
       "SetID": "55ol43k",
       "Name": "Re-Animator",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "SALMONELLA",
       "SetID": "55ol43k",
       "Name": "Salmonella",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "SCROOGE",
       "SetID": "55ol43k",
       "Name": "Scrooge McDead",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "STATUES",
       "SetID": "55ol43k",
       "Name": "Summoner",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "TRAINER",
       "SetID": "55ol43k",
       "Name": "Undead Trainer",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "VISITOR",
       "SetID": "55ol43k",
       "Name": "The Lidless Eye Socket",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "WERECHICKEN",
       "SetID": "55ol43k",
       "Name": "Werechicken",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -189,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:06:53.2553292+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:53.3848581+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:06:53.2553556+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:47.2071046+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:53.3848736+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:53.0417372+00:00",
   "AchievementSets": [
     {
       "ID": "55ol43k",
@@ -211,7 +235,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T16:15:41.0780517+00:00"

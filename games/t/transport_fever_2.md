@@ -1,4 +1,5 @@
 # Transport Fever 2
+[View Rawdata](../../db/t/transport_fever_2.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 180  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,69 +7,69 @@ Max (Highly Recommended): 37  (Ranked 417)
 Sum: 258 (Ranked 338)  
 Diff (max vs sum): 79  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First line | 76.00 |
-| First cargo item waiting | 71.00 |
-| First cargo item on board | 70.00 |
-| First bus stop | 69.00 |
-| First passenger on board | 66.00 |
-| First passenger waiting | 66.00 |
-| First bus arrived | 64.00 |
-| First train station | 63.00 |
-| First steam train arrived | 59.00 |
-| First industry upgraded | 55.00 |
-| Transport millionaire | 54.00 |
-| Cargo hub | 53.00 |
-| Cadet | 52.00 |
-| Transport master | 51.00 |
-| Sculpturer | 50.00 |
-| Settled down | 48.00 |
-| First electric train arrived | 47.00 |
-| First ship arrived | 45.00 |
-| Now what? | 45.00 |
-| High speed | 43.00 |
-| Transport shark | 40.00 |
-| First aircraft arrived | 40.00 |
-| Exemplary student | 40.00 |
-| Mass production | 34.00 |
-| Aircraft entrepreneur | 33.00 |
-| The future is now, old man | 31.00 |
-| Crowd in a train | 30.00 |
-| Not in my backyard | 30.00 |
-| City | 29.00 |
-| The king of the sea | 28.00 |
-| Transport tycoon | 24.00 |
-| Climate change | 22.00 |
-| Old timer | 22.00 |
-| The ugly smell of success | 22.00 |
-| Heavily loaded | 20.00 |
-| Bob Ross | 17.00 |
-| No free seats | 11.00 |
-| Penny pincher | 11.00 |
-| Campaign expert | 10.00 |
-| Truck Fever | 10.00 |
-| Back to the future | 9.00 |
-| Transport belt | 9.00 |
-| E.P.E.C. | 6.00 |
-| Antique | 5.00 |
-| Campaign shark | 5.00 |
-| Transport shark (Hard mode) | 4.00 |
-| Transport corporation | 4.00 |
-| Charles Alton Ellis | 3.00 |
-| Cannot get enough | 3.00 |
-| Industrialist | 3.00 |
-| Transport tycoon (Hard mode) | 2.00 |
-| Metropolis | 2.00 |
-| Speed of light | 2.00 |
-| Trans-Siberian Railway | 2.00 |
-| No country for old trains | 1.00 |
-| Campaign tycoon | 1.00 |
-| Train Fever | 0.90 |
-| Louis Favre | 0.90 |
-| Big spender | 0.50 |
-| Glacier express | 0.20 |
-| Museum line | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First line | 76.00% | ~78,128 |
+| First cargo item waiting | 71.00% | ~72,988 |
+| First cargo item on board | 70.00% | ~71,960 |
+| First bus stop | 69.00% | ~70,932 |
+| First passenger on board | 66.00% | ~67,848 |
+| First passenger waiting | 66.00% | ~67,848 |
+| First bus arrived | 64.00% | ~65,792 |
+| First train station | 63.00% | ~64,764 |
+| First steam train arrived | 59.00% | ~60,652 |
+| First industry upgraded | 55.00% | ~56,540 |
+| Transport millionaire | 54.00% | ~55,512 |
+| Cargo hub | 53.00% | ~54,484 |
+| Cadet | 52.00% | ~53,456 |
+| Transport master | 51.00% | ~52,428 |
+| Sculpturer | 50.00% | ~51,400 |
+| Settled down | 48.00% | ~49,344 |
+| First electric train arrived | 47.00% | ~48,316 |
+| First ship arrived | 45.00% | ~46,260 |
+| Now what? | 45.00% | ~46,260 |
+| High speed | 43.00% | ~44,204 |
+| Transport shark | 40.00% | ~41,120 |
+| First aircraft arrived | 40.00% | ~41,120 |
+| Exemplary student | 40.00% | ~41,120 |
+| Mass production | 34.00% | ~34,952 |
+| Aircraft entrepreneur | 33.00% | ~33,924 |
+| The future is now, old man | 31.00% | ~31,868 |
+| Crowd in a train | 30.00% | ~30,840 |
+| Not in my backyard | 30.00% | ~30,840 |
+| City | 29.00% | ~29,812 |
+| The king of the sea | 28.00% | ~28,784 |
+| Transport tycoon | 24.00% | ~24,672 |
+| Climate change | 22.00% | ~22,616 |
+| Old timer | 22.00% | ~22,616 |
+| The ugly smell of success | 22.00% | ~22,616 |
+| Heavily loaded | 20.00% | ~20,560 |
+| Bob Ross | 17.00% | ~17,476 |
+| No free seats | 11.00% | ~11,308 |
+| Penny pincher | 11.00% | ~11,308 |
+| Campaign expert | 10.00% | ~10,280 |
+| Truck Fever | 10.00% | ~10,280 |
+| Back to the future | 9.00% | ~9,252 |
+| Transport belt | 9.00% | ~9,252 |
+| E.P.E.C. | 6.00% | ~6,168 |
+| Antique | 5.00% | ~5,140 |
+| Campaign shark | 5.00% | ~5,140 |
+| Transport shark (Hard mode) | 4.00% | ~4,112 |
+| Transport corporation | 4.00% | ~4,112 |
+| Charles Alton Ellis | 3.00% | ~3,084 |
+| Cannot get enough | 3.00% | ~3,084 |
+| Industrialist | 3.00% | ~3,084 |
+| Transport tycoon (Hard mode) | 2.00% | ~2,056 |
+| Metropolis | 2.00% | ~2,056 |
+| Speed of light | 2.00% | ~2,056 |
+| Trans-Siberian Railway | 2.00% | ~2,056 |
+| No country for old trains | 1.00% | ~1,028 |
+| Campaign tycoon | 1.00% | ~1,028 |
+| Train Fever | 0.90% | ~925 |
+| Louis Favre | 0.90% | ~925 |
+| Big spender | 0.50% | ~514 |
+| Glacier express | 0.20% | ~206 |
+| Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,028 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 191)  

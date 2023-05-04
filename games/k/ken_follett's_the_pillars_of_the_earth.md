@@ -1,4 +1,5 @@
 # Ken Follett's The Pillars of the Earth
+[View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
 Rating: 4.52 (Ranked 499)  
 Number of Ratings: 368  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,49 +7,49 @@ Max (Easy Puzzles): 147  (Ranked 284)
 Sum: 186 (Ranked 353)  
 Diff (max vs sum): -69  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Tattletale | 42.00 |
-| Man of politics | 36.00 |
-| Friends of sorts | 35.00 |
-| Yet another secret | 35.00 |
-| Let there be darkness | 34.00 |
-| End of Book One | 31.00 |
-| Wannabe knight | 25.00 |
-| Garden of Eden | 25.00 |
-| Full house | 25.00 |
-| Help an old friend | 22.00 |
-| Two of us | 21.00 |
-| Negotiation skills | 19.00 |
-| Workers' union | 19.00 |
-| End of Book Two | 18.00 |
-| Everything's in order | 17.00 |
-| Jack was here! | 15.00 |
-| Twist of Fate | 14.00 |
-| Exterminator | 14.00 |
-| Whodunnit | 13.00 |
-| Good midwife | 11.00 |
-| Friar Tuck | 11.00 |
-| First profit | 11.00 |
-| Skilled merchant | 10.00 |
-| Team player | 10.00 |
-| Nothing but make-believe | 9.00 |
-| Brother Marcus | 9.00 |
-| The oath | 9.00 |
-| The truth revealed | 9.00 |
-| The End. | 9.00 |
-| A cry for help | 8.00 |
-| Silentium est aureum | 7.00 |
-| Rebel without a cause | 6.00 |
-| Staring contest champion | 5.00 |
-| Lone wolf | 5.00 |
-| Vox Populi | 5.00 |
-| Revenge | 4.00 |
-| Self-defense | 4.00 |
-| Countess Aliena | 4.00 |
-| Care, like a brother cares | 3.00 |
-| A brush with death | 3.00 |
-| Boy of mystery | 2.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Tattletale | 42.00% | ~511,434 |
+| Man of politics | 36.00% | ~438,372 |
+| Friends of sorts | 35.00% | ~426,195 |
+| Yet another secret | 35.00% | ~426,195 |
+| Let there be darkness | 34.00% | ~414,018 |
+| End of Book One | 31.00% | ~377,487 |
+| Wannabe knight | 25.00% | ~304,425 |
+| Garden of Eden | 25.00% | ~304,425 |
+| Full house | 25.00% | ~304,425 |
+| Help an old friend | 22.00% | ~267,894 |
+| Two of us | 21.00% | ~255,717 |
+| Negotiation skills | 19.00% | ~231,363 |
+| Workers' union | 19.00% | ~231,363 |
+| End of Book Two | 18.00% | ~219,186 |
+| Everything's in order | 17.00% | ~207,009 |
+| Jack was here! | 15.00% | ~182,655 |
+| Twist of Fate | 14.00% | ~170,478 |
+| Exterminator | 14.00% | ~170,478 |
+| Whodunnit | 13.00% | ~158,301 |
+| Good midwife | 11.00% | ~133,947 |
+| Friar Tuck | 11.00% | ~133,947 |
+| First profit | 11.00% | ~133,947 |
+| Skilled merchant | 10.00% | ~121,770 |
+| Team player | 10.00% | ~121,770 |
+| Nothing but make-believe | 9.00% | ~109,593 |
+| Brother Marcus | 9.00% | ~109,593 |
+| The oath | 9.00% | ~109,593 |
+| The truth revealed | 9.00% | ~109,593 |
+| The End. | 9.00% | ~109,593 |
+| A cry for help | 8.00% | ~97,416 |
+| Silentium est aureum | 7.00% | ~85,239 |
+| Rebel without a cause | 6.00% | ~73,062 |
+| Staring contest champion | 5.00% | ~60,885 |
+| Lone wolf | 5.00% | ~60,885 |
+| Vox Populi | 5.00% | ~60,885 |
+| Revenge | 4.00% | ~48,708 |
+| Self-defense | 4.00% | ~48,708 |
+| Countess Aliena | 4.00% | ~48,708 |
+| Care, like a brother cares | 3.00% | ~36,531 |
+| A brush with death | 3.00% | ~36,531 |
+| Boy of mystery | 2.00% | ~24,354 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,177 (Ranked 101)  
 Completed: 91 (0.75%) (Ranked 88)  

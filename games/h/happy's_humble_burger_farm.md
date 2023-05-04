@@ -1,7 +1,8 @@
 # Happy's Humble Burger Farm
+[View Rawdata](../../db/h/happy's_humble_burger_farm.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

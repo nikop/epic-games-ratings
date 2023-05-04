@@ -1,9 +1,10 @@
 # FAR: Lone Sails
+[View Rawdata](../../db/f/far__lone_sails.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

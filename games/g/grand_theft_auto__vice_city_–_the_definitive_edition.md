@@ -1,46 +1,47 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
+[View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
 Rating: 4.66 (Ranked 272)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 28  (Ranked 450)  
 Sum: 28 (Ranked 461)  
 Diff (max vs sum): -11  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Legal Counsel | 42.00 |
-| Greasy Palms | 39.00 |
-| South American Connection | 23.00 |
-| Life of the Party | 17.00 |
-| Tommy Two-Wheels | 13.00 |
-| Big Heat from Little Havana | 12.00 |
-| Chauffeur | 12.00 |
-| Iron-y | 9.00 |
-| Salutations My Little Friend | 9.00 |
-| Gun for Hire | 7.00 |
-| Mischief Managed | 7.00 |
-| Vice City Mogul | 6.00 |
-| Bloodstained Hands | 6.00 |
-| Catch Me if You Can | 5.00 |
-| Not my First Time | 4.00 |
-| Grand Theft Auto | 4.00 |
-| High Quality H2O | 3.00 |
-| Pie Guy | 3.00 |
-| Running Rampant | 2.00 |
-| Point A to Point B | 2.00 |
-| Bull in a China Shop | 2.00 |
-| Somebody Call the Wambulance? | 2.00 |
-| Just Like the Real Thing | 2.00 |
-| Don't Need Roads | 2.00 |
-| Take the Cannoli | 2.00 |
-| City Sleuth | 2.00 |
-| One is Better Than Two | 1.00 |
-| Chopper’d Up | 1.00 |
-| Daredevil | 0.80 |
-| Born in the 80’s | 0.70 |
-| I'm Famous! | 0.70 |
-| Keepie-Uppy Okie Dokie | 0.60 |
-| Done it All | 0.60 |
-| Kingpin | 0.30 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Legal Counsel | 42.00% | ~253,134 |
+| Greasy Palms | 39.00% | ~235,053 |
+| South American Connection | 23.00% | ~138,621 |
+| Life of the Party | 17.00% | ~102,459 |
+| Tommy Two-Wheels | 13.00% | ~78,351 |
+| Big Heat from Little Havana | 12.00% | ~72,324 |
+| Chauffeur | 12.00% | ~72,324 |
+| Iron-y | 9.00% | ~54,243 |
+| Salutations My Little Friend | 9.00% | ~54,243 |
+| Gun for Hire | 7.00% | ~42,189 |
+| Mischief Managed | 7.00% | ~42,189 |
+| Vice City Mogul | 6.00% | ~36,162 |
+| Bloodstained Hands | 6.00% | ~36,162 |
+| Catch Me if You Can | 5.00% | ~30,135 |
+| Not my First Time | 4.00% | ~24,108 |
+| Grand Theft Auto | 4.00% | ~24,108 |
+| High Quality H2O | 3.00% | ~18,081 |
+| Pie Guy | 3.00% | ~18,081 |
+| Running Rampant | 2.00% | ~12,054 |
+| Point A to Point B | 2.00% | ~12,054 |
+| Bull in a China Shop | 2.00% | ~12,054 |
+| Somebody Call the Wambulance? | 2.00% | ~12,054 |
+| Just Like the Real Thing | 2.00% | ~12,054 |
+| Don't Need Roads | 2.00% | ~12,054 |
+| Take the Cannoli | 2.00% | ~12,054 |
+| City Sleuth | 2.00% | ~12,054 |
+| One is Better Than Two | 1.00% | ~6,027 |
+| Chopper’d Up | 1.00% | ~6,027 |
+| Daredevil | 0.80% | ~4,822 |
+| Born in the 80’s | 0.70% | ~4,219 |
+| I'm Famous! | 0.70% | ~4,219 |
+| Keepie-Uppy Okie Dokie | 0.60% | ~3,616 |
+| Done it All | 0.60% | ~3,616 |
+| Kingpin | 0.30% | ~1,808 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,027 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 110)  

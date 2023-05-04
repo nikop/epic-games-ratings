@@ -1,57 +1,58 @@
 # Super Alloy Ranger
+[View Rawdata](../../db/s/super_alloy_ranger.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Gear Up | 72.00 |
-| Iceberg Theory | 72.00 |
-| A Grand Show | 72.00 |
-| Freshen Up | 50.00 |
-| GG EZ | 50.00 |
-| Hydrophobia | 22.00 |
-| Ka-Ching! | 11.00 |
-| Stop Right There | 11.00 |
-| Get to the Point | 11.00 |
-| The Paradox Coordinate Conqueror | 6.00 |
-| Grand Escape | 6.00 |
-| Space Warrior: Prologue | 6.00 |
-| The Hidden Secret | 6.00 |
-| Mr. Want It All | 6.00 |
-| Antaeus | 6.00 |
-| Air Interception | 6.00 |
-| Proliferation | 6.00 |
-| Toe to Toe | 6.00 |
-| The Sunken City Conqueror | 0.00 |
-| The Deep Frozen Conqueror | 0.00 |
-| The Abyss Conqueror | 0.00 |
-| The Infinite Train Conqueror | 0.00 |
-| The Fortress Conqueror | 0.00 |
-| The Zero Dimensional Capital Conqueror | 0.00 |
-| The Inactivated Frozen Conqueror | 0.00 |
-| The Hypergravitational Abyss Conqueror | 0.00 |
-| Death Bringer Conqueror | 0.00 |
-| he Ultra Fortress Conqueror | 0.00 |
-| The Looping Space Conqueror | 0.00 |
-| Break Through the Forbidden | 0.00 |
-| Alloy Rangers, Assemble! | 0.00 |
-| Space Ranger: Prologue | 0.00 |
-| Breaking the Limit | 0.00 |
-| Pumped Up | 0.00 |
-| The Truth? | 0.00 |
-| Easy Peasy | 0.00 |
-| Rapidfire | 0.00 |
-| Flawless | 0.00 |
-| Keep it Up, rookie! | 0.00 |
-| Hell of a Fight | 0.00 |
-| Peace Out | 0.00 |
-| Mischief Time | 0.00 |
-| Art is an Explosion | 0.00 |
-| Decapitation Strike | 0.00 |
-| Clean Sweep | 0.00 |
-| Bullets Fear Me | 0.00 |
-| Phew! | 0.00 |
-| Bye Bye Gravity | 0.00 |
-| Burn After Reading | 0.00 |
-| Super Alloy Ranger! | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Gear Up | 72.00% | ~1,296 |
+| Iceberg Theory | 72.00% | ~1,296 |
+| A Grand Show | 72.00% | ~1,296 |
+| Freshen Up | 50.00% | ~900 |
+| GG EZ | 50.00% | ~900 |
+| Hydrophobia | 22.00% | ~396 |
+| Ka-Ching! | 11.00% | ~198 |
+| Stop Right There | 11.00% | ~198 |
+| Get to the Point | 11.00% | ~198 |
+| The Paradox Coordinate Conqueror | 6.00% | ~108 |
+| Grand Escape | 6.00% | ~108 |
+| Space Warrior: Prologue | 6.00% | ~108 |
+| The Hidden Secret | 6.00% | ~108 |
+| Mr. Want It All | 6.00% | ~108 |
+| Antaeus | 6.00% | ~108 |
+| Air Interception | 6.00% | ~108 |
+| Proliferation | 6.00% | ~108 |
+| Toe to Toe | 6.00% | ~108 |
+| The Sunken City Conqueror | 0.00% | ~0 |
+| The Deep Frozen Conqueror | 0.00% | ~0 |
+| The Abyss Conqueror | 0.00% | ~0 |
+| The Infinite Train Conqueror | 0.00% | ~0 |
+| The Fortress Conqueror | 0.00% | ~0 |
+| The Zero Dimensional Capital Conqueror | 0.00% | ~0 |
+| The Inactivated Frozen Conqueror | 0.00% | ~0 |
+| The Hypergravitational Abyss Conqueror | 0.00% | ~0 |
+| Death Bringer Conqueror | 0.00% | ~0 |
+| he Ultra Fortress Conqueror | 0.00% | ~0 |
+| The Looping Space Conqueror | 0.00% | ~0 |
+| Break Through the Forbidden | 0.00% | ~0 |
+| Alloy Rangers, Assemble! | 0.00% | ~0 |
+| Space Ranger: Prologue | 0.00% | ~0 |
+| Breaking the Limit | 0.00% | ~0 |
+| Pumped Up | 0.00% | ~0 |
+| The Truth? | 0.00% | ~0 |
+| Easy Peasy | 0.00% | ~0 |
+| Rapidfire | 0.00% | ~0 |
+| Flawless | 0.00% | ~0 |
+| Keep it Up, rookie! | 0.00% | ~0 |
+| Hell of a Fight | 0.00% | ~0 |
+| Peace Out | 0.00% | ~0 |
+| Mischief Time | 0.00% | ~0 |
+| Art is an Explosion | 0.00% | ~0 |
+| Decapitation Strike | 0.00% | ~0 |
+| Clean Sweep | 0.00% | ~0 |
+| Bullets Fear Me | 0.00% | ~0 |
+| Phew! | 0.00% | ~0 |
+| Bye Bye Gravity | 0.00% | ~0 |
+| Burn After Reading | 0.00% | ~0 |
+| Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 191)  

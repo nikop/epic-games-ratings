@@ -1,8 +1,9 @@
 # Huntdown
+[View Rawdata](../../db/h/huntdown.json)  
 Rating: 4.85 (Ranked 37)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

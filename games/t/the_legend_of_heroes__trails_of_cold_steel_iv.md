@@ -1,9 +1,10 @@
 # The Legend of Heroes: Trails of Cold Steel IV
+[View Rawdata](../../db/t/the_legend_of_heroes__trails_of_cold_steel_iv.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 26  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

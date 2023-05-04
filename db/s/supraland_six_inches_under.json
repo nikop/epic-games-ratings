@@ -7,371 +7,424 @@
       "SetID": "5lok9mm",
       "Name": "You feel middle classy",
       "Percentage": 86,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 171054
     },
     {
       "ID": "AllChests",
       "SetID": "5lok9mm",
       "Name": "All the chests",
       "Percentage": 13,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 25857
     },
     {
       "ID": "Area2",
       "SetID": "5lok9mm",
       "Name": "Industrial Area",
       "Percentage": 89,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 177021
     },
     {
       "ID": "Area3",
       "SetID": "5lok9mm",
       "Name": "Banking District",
       "Percentage": 85,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 169065
     },
     {
       "ID": "Area4",
       "SetID": "5lok9mm",
       "Name": "Beat the big arena",
       "Percentage": 82,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 163098
     },
     {
       "ID": "Arrested",
       "SetID": "5lok9mm",
       "Name": "Arrested",
       "Percentage": 85,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 169065
     },
     {
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
       "Percentage": 92,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 182988
     },
     {
       "ID": "BenCave",
       "SetID": "5lok9mm",
       "Name": "Played with fire",
       "Percentage": 69,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 137241
     },
     {
       "ID": "BoomerAxe",
       "SetID": "5lok9mm",
       "Name": "Boomeraxe",
       "Percentage": 86,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 171054
     },
     {
       "ID": "BossBeaten",
       "SetID": "5lok9mm",
       "Name": "Inner Peace",
       "Percentage": 77,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 153153
     },
     {
       "ID": "Detector",
       "SetID": "5lok9mm",
       "Name": "Chest Detector",
       "Percentage": 54,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 107406
     },
     {
       "ID": "Down",
       "SetID": "5lok9mm",
       "Name": "Hit Rock Bottom",
       "Percentage": 97,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 192933
     },
     {
       "ID": "ElasticBeam",
       "SetID": "5lok9mm",
       "Name": "Bouncy",
       "Percentage": 61,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 121329
     },
     {
       "ID": "ElectricGun",
       "SetID": "5lok9mm",
       "Name": "Zappy Gun",
       "Percentage": 85,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 169065
     },
     {
       "ID": "EnterTown",
       "SetID": "5lok9mm",
       "Name": "Entered Cage Town",
       "Percentage": 93,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 184977
     },
     {
       "ID": "Escape",
       "SetID": "5lok9mm",
       "Name": "You\u0027re unsure if you broke the game or not",
       "Percentage": 41,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 81549
     },
     {
       "ID": "FireGun",
       "SetID": "5lok9mm",
       "Name": "Flames",
       "Percentage": 52,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 103428
     },
     {
       "ID": "FloatingMan",
       "SetID": "5lok9mm",
       "Name": "Much Magic",
       "Percentage": 56,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 111384
     },
     {
       "ID": "ForceCube",
       "SetID": "5lok9mm",
       "Name": "Force Cube",
       "Percentage": 81,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 161109
     },
     {
       "ID": "FullyEngaged",
       "SetID": "5lok9mm",
       "Name": "You feel fully engaged",
       "Percentage": 23,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 45747
     },
     {
       "ID": "GoldenBeam",
       "SetID": "5lok9mm",
       "Name": "Got your own one now",
       "Percentage": 85,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 169065
     },
     {
       "ID": "GoodMorning",
       "SetID": "5lok9mm",
       "Name": "Good Morning",
       "Percentage": 99,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 196911
     },
     {
       "ID": "GotBattery",
       "SetID": "5lok9mm",
       "Name": "Got Battery",
       "Percentage": 80,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 159120
     },
     {
       "ID": "Greenhouse",
       "SetID": "5lok9mm",
       "Name": "Greenhouse",
       "Percentage": 71,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 141219
     },
     {
       "ID": "GuardDistracted",
       "SetID": "5lok9mm",
       "Name": "Guard Distracted",
       "Percentage": 80,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 159120
     },
     {
       "ID": "HighJump",
       "SetID": "5lok9mm",
       "Name": "High Jump",
       "Percentage": 96,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 190944
     },
     {
       "ID": "HotGuy",
       "SetID": "5lok9mm",
       "Name": "Too hot",
       "Percentage": 19,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 37791
     },
     {
       "ID": "KneeBending",
       "SetID": "5lok9mm",
       "Name": "Knee bending",
       "Percentage": 96,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 190944
     },
     {
       "ID": "Magnet",
       "SetID": "5lok9mm",
       "Name": "Magnet",
       "Percentage": 90,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 179010
     },
     {
       "ID": "MagnetRepel",
       "SetID": "5lok9mm",
       "Name": "Magnet Repel",
       "Percentage": 88,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 175032
     },
     {
       "ID": "Map",
       "SetID": "5lok9mm",
       "Name": "Don\u0027t draw dicks pls",
       "Percentage": 84,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 167076
     },
     {
       "ID": "MissionUnlikely",
       "SetID": "5lok9mm",
       "Name": "Mission Unlikely",
       "Percentage": 85,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 169065
     },
     {
       "ID": "Momentum",
       "SetID": "5lok9mm",
       "Name": "Momentum",
       "Percentage": 45,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 89505
     },
     {
       "ID": "NoMatch",
       "SetID": "5lok9mm",
       "Name": "No Match for you",
       "Percentage": 65,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 129285
     },
     {
       "ID": "PickaxeDiamond",
       "SetID": "5lok9mm",
       "Name": "Diamond Pickaxe",
       "Percentage": 76,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 151164
     },
     {
       "ID": "PickaxeGuy",
       "SetID": "5lok9mm",
       "Name": "You feel very sorry",
       "Percentage": 69,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 137241
     },
     {
       "ID": "PickaxeIron",
       "SetID": "5lok9mm",
       "Name": "Iron Pickaxe",
       "Percentage": 86,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 171054
     },
     {
       "ID": "PickaxeStone",
       "SetID": "5lok9mm",
       "Name": "Stone Pickaxe",
       "Percentage": 93,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 184977
     },
     {
       "ID": "PickaxeWood",
       "SetID": "5lok9mm",
       "Name": "Pickaxe",
       "Percentage": 94,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 186966
     },
     {
       "ID": "Plumbster",
       "SetID": "5lok9mm",
       "Name": "Plumbster",
       "Percentage": 60,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 119340
     },
     {
       "ID": "Race",
       "SetID": "5lok9mm",
       "Name": "Faster",
       "Percentage": 59,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 117351
     },
     {
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
       "Percentage": 93,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 184977
     },
     {
       "ID": "RocketLaunched",
       "SetID": "5lok9mm",
       "Name": "Rocket Launched",
       "Percentage": 97,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 192933
     },
     {
       "ID": "SecretInSecretInSecret",
       "SetID": "5lok9mm",
       "Name": "But wait... ...There\u0027s more...",
       "Percentage": 39,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 77571
     },
     {
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
       "Percentage": 93,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 184977
     },
     {
       "ID": "Speed",
       "SetID": "5lok9mm",
       "Name": "Speed",
       "Percentage": 97,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 192933
     },
     {
       "ID": "Strength",
       "SetID": "5lok9mm",
       "Name": "Ripped",
       "Percentage": 84,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 167076
     },
     {
       "ID": "Surprise",
       "SetID": "5lok9mm",
       "Name": "Surprise",
       "Percentage": 93,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 184977
     },
     {
       "ID": "TownArena",
       "SetID": "5lok9mm",
       "Name": "Killed them all",
       "Percentage": 76,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 151164
     },
     {
       "ID": "TransShotForce",
       "SetID": "5lok9mm",
       "Name": "So much force",
       "Percentage": 34,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 67626
     },
     {
       "ID": "Translocator",
       "SetID": "5lok9mm",
       "Name": "Translocator",
       "Percentage": 79,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 157131
     },
     {
       "ID": "TrickleDown",
       "SetID": "5lok9mm",
       "Name": "Trickle Down Economy",
       "Percentage": 76,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 151164
     },
     {
       "ID": "Win",
       "SetID": "5lok9mm",
       "Name": "Win",
       "Percentage": 75,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 149175
     }
   ],
   "Tags": [
@@ -781,13 +834,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T22:06:59.3008057+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:57.729932+00:00",
   "EOS_NewCompleters": 2,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 238,
   "EOS_Progressed": 1989,
-  "LastUpdate_Achievements": "2023-05-04T22:06:59.3008533+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:03.6195742+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:57.7300034+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:04.0500376+00:00",
   "AchievementSets": [
     {
       "ID": "5lok9mm",
@@ -804,7 +857,7 @@
   "NumberOfAwards": 97,
   "NumberOfRatings": 209,
   "Ranking_EOS_NewCompleters": 41,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_Progress": 140,
   "Ranking_PopularitySum": 397,

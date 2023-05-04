@@ -1,4 +1,5 @@
 # Curse of the Dead Gods
+[View Rawdata](../../db/c/curse_of_the_dead_gods.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 140  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 114  (Ranked 307)
 Sum: 114 (Ranked 390)  
 Diff (max vs sum): -83  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

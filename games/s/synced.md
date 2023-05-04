@@ -1,4 +1,5 @@
 # SYNCED
+[View Rawdata](../../db/s/synced.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

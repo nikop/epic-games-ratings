@@ -1,4 +1,5 @@
 # Darkest Dungeon®
+[View Rawdata](../../db/d/darkest_dungeon®.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,428  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 3,170  (Ranked 83)
 Sum: 8,675 (Ranked 84)  
 Diff (max vs sum): -1  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,287 +7,328 @@
       "SetID": "7270ipa",
       "Name": "Badge of a Captain",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "AllBadgesP1",
       "SetID": "7270ipa",
       "Name": "A True Merit Badge",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "AllBadgesP2",
       "SetID": "7270ipa",
       "Name": "Wilderness Badge",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "AllBadgesP3",
       "SetID": "7270ipa",
       "Name": "Exobiology Badge",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "AllCollectibles",
       "SetID": "7270ipa",
       "Name": "Priceless Collection",
       "Percentage": 14,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 98
     },
     {
       "ID": "BuyAllWeapons",
       "SetID": "7270ipa",
       "Name": "One Man Army",
       "Percentage": 14,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 98
     },
     {
       "ID": "BuyWeapon",
       "SetID": "7270ipa",
       "Name": "Up your Arsenal",
       "Percentage": 14,
-      "XP": 130
+      "XP": 130,
+      "UsersEstimate": 98
     },
     {
       "ID": "Chests_100",
       "SetID": "7270ipa",
       "Name": "All of the Plunder",
       "Percentage": 0,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 0
     },
     {
       "ID": "Chests_50",
       "SetID": "7270ipa",
       "Name": "Quest for Loot",
       "Percentage": 14,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteAllCrewMissions",
       "SetID": "7270ipa",
       "Name": "Crew Love",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "CompleteCrewMission",
       "SetID": "7270ipa",
       "Name": "One for the Crew",
       "Percentage": 43,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 301
     },
     {
       "ID": "Creatures_100",
       "SetID": "7270ipa",
       "Name": "Proto Menagerie",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 98
     },
     {
       "ID": "Creatures_50",
       "SetID": "7270ipa",
       "Name": "Punny Lover",
       "Percentage": 14,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P1L1",
       "SetID": "7270ipa",
       "Name": "Restoring the Protostar",
       "Percentage": 71,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 497
     },
     {
       "ID": "Finish_P1L2",
       "SetID": "7270ipa",
       "Name": "The Clock is Ticking",
       "Percentage": 43,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 301
     },
     {
       "ID": "Finish_P1L3",
       "SetID": "7270ipa",
       "Name": "Back online",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P1L4",
       "SetID": "7270ipa",
       "Name": "Rok and Roll",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P2L1",
       "SetID": "7270ipa",
       "Name": "First Contact?",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P2L2",
       "SetID": "7270ipa",
       "Name": "Naroan History",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P2L3",
       "SetID": "7270ipa",
       "Name": "Playing with Time",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P2L4",
       "SetID": "7270ipa",
       "Name": "Escape from Mirios",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Finish_P3L1",
       "SetID": "7270ipa",
       "Name": "Coming in from the Cold",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Finish_P3L2",
       "SetID": "7270ipa",
       "Name": "Searching for Al\u0027Shams",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Finish_P3L3",
       "SetID": "7270ipa",
       "Name": "Stopping the Supernova",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Finish_P3L4",
       "SetID": "7270ipa",
       "Name": "Saved the System",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Hit3EnemiesWithPhaser",
       "SetID": "7270ipa",
       "Name": "Three Watchers, Two Phasers",
       "Percentage": 57,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 399
     },
     {
       "ID": "OpenAllSecretZones",
       "SetID": "7270ipa",
       "Name": "Seeking Discovery",
       "Percentage": 14,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 98
     },
     {
       "ID": "OpenSecretZone",
       "SetID": "7270ipa",
       "Name": "Open Sesame",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Plants_100",
       "SetID": "7270ipa",
       "Name": "Green Thumb",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Plants_50",
       "SetID": "7270ipa",
       "Name": "Budding Botanist",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "Relics_100",
       "SetID": "7270ipa",
       "Name": "Trekkie",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "Relics_50",
       "SetID": "7270ipa",
       "Name": "Relic Hunter",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "RescueJankomPog",
       "SetID": "7270ipa",
       "Name": "Guess who\u0027s back",
       "Percentage": 43,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 301
     },
     {
       "ID": "RescueMurf",
       "SetID": "7270ipa",
       "Name": "The Crew is Back!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "RescueRokTahk",
       "SetID": "7270ipa",
       "Name": "Not Too Long",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "RescueZero",
       "SetID": "7270ipa",
       "Name": "Welcome back",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "ReviveTeammate",
       "SetID": "7270ipa",
       "Name": "I\u0027ve Got You",
       "Percentage": 29,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 203
     },
     {
       "ID": "UpgradeAllWeapons",
       "SetID": "7270ipa",
       "Name": "Maxed out",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "UpgradeWeapon",
       "SetID": "7270ipa",
       "Name": "Getting Better",
       "Percentage": 14,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 98
     },
     {
       "ID": "UseAllCrewMembers",
       "SetID": "7270ipa",
       "Name": "Teamwork makes the dream work",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "UseCrewMember",
       "SetID": "7270ipa",
       "Name": "A Helping Hand",
       "Percentage": 43,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 301
     }
   ],
   "Tags": [],
@@ -313,13 +354,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-04T22:06:22.1088374+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:30.1511216+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 7,
-  "LastUpdate_Achievements": "2023-05-04T22:06:22.1088701+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:13.1237268+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:30.1511747+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:11.9017149+00:00",
   "AchievementSets": [
     {
       "ID": "7270ipa",
@@ -335,7 +376,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 313,
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00"

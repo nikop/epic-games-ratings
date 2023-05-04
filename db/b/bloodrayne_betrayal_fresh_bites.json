@@ -7,168 +7,192 @@
       "SetID": "6jf74lf",
       "Name": "Betrayed",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495
     },
     {
       "ID": "Chainsplosion",
       "SetID": "6jf74lf",
       "Name": "Chainsplosion!",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 90
     },
     {
       "ID": "ChampionOfLight",
       "SetID": "6jf74lf",
       "Name": "Champion of Light",
       "Percentage": 13,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 585
     },
     {
       "ID": "CoffinKicker",
       "SetID": "6jf74lf",
       "Name": "Coffin Kicker",
       "Percentage": 2,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 90
     },
     {
       "ID": "Collateral",
       "SetID": "6jf74lf",
       "Name": "Collateral",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
       "Percentage": 47,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2115
     },
     {
       "ID": "DropIn",
       "SetID": "6jf74lf",
       "Name": "Drop In",
       "Percentage": 22,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 990
     },
     {
       "ID": "EliteVamp",
       "SetID": "6jf74lf",
       "Name": "Elite Vamp",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "FinishHim",
       "SetID": "6jf74lf",
       "Name": "Finish Him",
       "Percentage": 91,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4095
     },
     {
       "ID": "FlightOfTheRaven",
       "SetID": "6jf74lf",
       "Name": "Flight of the Raven",
       "Percentage": 24,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1080
     },
     {
       "ID": "FootFace",
       "SetID": "6jf74lf",
       "Name": "A Foot Face?",
       "Percentage": 2,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 90
     },
     {
       "ID": "FunkyPuncher",
       "SetID": "6jf74lf",
       "Name": "That Funky Puncher",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 90
     },
     {
       "ID": "JustATaste",
       "SetID": "6jf74lf",
       "Name": "Just a Taste",
       "Percentage": 82,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 3690
     },
     {
       "ID": "LastBullet",
       "SetID": "6jf74lf",
       "Name": "The Last Bullet",
       "Percentage": 16,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 720
     },
     {
       "ID": "MsPerfect",
       "SetID": "6jf74lf",
       "Name": "Ms. Perfect",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 90
     },
     {
       "ID": "PartingGift",
       "SetID": "6jf74lf",
       "Name": "Parting Gift",
       "Percentage": 11,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 495
     },
     {
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
       "Percentage": 27,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1215
     },
     {
       "ID": "Skullector",
       "SetID": "6jf74lf",
       "Name": "Skullector",
       "Percentage": 7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 315
     },
     {
       "ID": "Skulltastic",
       "SetID": "6jf74lf",
       "Name": "Skulltastic",
       "Percentage": 2,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 90
     },
     {
       "ID": "StomachAche",
       "SetID": "6jf74lf",
       "Name": "Stomach Ache",
       "Percentage": 4,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 180
     },
     {
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
       "Percentage": 60,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2700
     },
     {
       "ID": "ToSunrise",
       "SetID": "6jf74lf",
       "Name": "Survived to Sunrise",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 180
     },
     {
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
       "Percentage": 58,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 2610
     },
     {
       "ID": "WalkingOnAir",
       "SetID": "6jf74lf",
       "Name": "Walking on Air",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 90
     }
   ],
   "Tags": [],
@@ -189,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:07:00.9266039+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:58.9986587+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 45,
-  "LastUpdate_Achievements": "2023-05-04T22:07:00.9266309+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:14.9619225+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:58.998684+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:11.6679718+00:00",
   "AchievementSets": [
     {
       "ID": "6jf74lf",
@@ -211,7 +235,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 275,
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00"

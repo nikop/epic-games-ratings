@@ -1,8 +1,9 @@
 # Yuppie Psycho: Executive Edition
+[View Rawdata](../../db/y/yuppie_psycho__executive_edition.json)  
 Rating: 4.68 (Ranked 233)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

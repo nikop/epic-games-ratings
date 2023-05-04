@@ -1,8 +1,9 @@
 # Flatout 2
+[View Rawdata](../../db/f/flatout_2.json)  
 Rating: 4.91 (Ranked 5)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

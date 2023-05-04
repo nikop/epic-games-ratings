@@ -1,4 +1,5 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
+[View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 371  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,67 +7,67 @@ Max (Character Customization): 207  (Ranked 253)
 Sum: 415 (Ranked 295)  
 Diff (max vs sum): -42  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Executioner | 30.00 |
-| Look Over There! | 27.00 |
-| Not So Fast... | 26.00 |
-| Watch Where You Step... | 26.00 |
-| An Ill Omen | 24.00 |
-| Purging Spree | 20.00 |
-| Blood for the Blood God! | 16.00 |
-| Friendly Fire | 15.00 |
-| Surgical Excision | 14.00 |
-| Bloodless | 13.00 |
-| Honoured Battle-Brother | 10.00 |
-| The Emperor Protects | 10.00 |
-| Nemesis Master | 10.00 |
-| Gunmaster | 10.00 |
-| A Foul Creche | 10.00 |
-| Efficient Killer | 7.00 |
-| Just a Scratch | 7.00 |
-| Hold Your Ground | 6.00 |
-| Opportunist | 6.00 |
-| A Gift Spurned | 4.00 |
-| Daemonkeeper | 3.00 |
-| Corruption Cleanser | 3.00 |
-| Mind Like a Fortress | 3.00 |
-| Harvest No More | 3.00 |
-| Junk Banishment | 3.00 |
-| Long Distance Call | 3.00 |
-| Patron of Deimos | 2.00 |
-| Preservationist | 2.00 |
-| Engine Kill | 2.00 |
-| Death Comes For All | 2.00 |
-| Tactical Flexibility | 2.00 |
-| Fleetmaster | 1.00 |
-| For the Machine God | 1.00 |
-| Unstable Immaterium | 1.00 |
-| Strike Force | 1.00 |
-| Exterminator | 1.00 |
-| Hands-On Research | 1.00 |
-| Only in Death | 1.00 |
-| Exercise in Restraint | 0.90 |
-| Clean Slate | 0.80 |
-| The Flesh is Weak | 0.50 |
-| Warp Flickers | 0.50 |
-| True Mastery | 0.50 |
-| Firing Squad | 0.30 |
-| Strategic Command | 0.30 |
-| Crisis Management | 0.20 |
-| Grand Master | 0.20 |
-| Brothers in Arms | 0.20 |
-| Arsenal of Destruction | 0.10 |
-| Blood and Iron | 0.10 |
-| Dominus | 0.10 |
-| Drone Army | 0.10 |
-| Mass Extinction | 0.10 |
-| Master of the Forge | 0.10 |
-| Field Apothecarion | 0.10 |
-| Phalanx | 0.10 |
-| Not a Mote of Corruption | 0.10 |
-| Legend of Titan | 0.00 |
-| Standard-Issue Killer | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Executioner | 30.00% | ~77,220 |
+| Look Over There! | 27.00% | ~69,498 |
+| Not So Fast... | 26.00% | ~66,924 |
+| Watch Where You Step... | 26.00% | ~66,924 |
+| An Ill Omen | 24.00% | ~61,776 |
+| Purging Spree | 20.00% | ~51,480 |
+| Blood for the Blood God! | 16.00% | ~41,184 |
+| Friendly Fire | 15.00% | ~38,610 |
+| Surgical Excision | 14.00% | ~36,036 |
+| Bloodless | 13.00% | ~33,462 |
+| Honoured Battle-Brother | 10.00% | ~25,740 |
+| The Emperor Protects | 10.00% | ~25,740 |
+| Nemesis Master | 10.00% | ~25,740 |
+| Gunmaster | 10.00% | ~25,740 |
+| A Foul Creche | 10.00% | ~25,740 |
+| Efficient Killer | 7.00% | ~18,018 |
+| Just a Scratch | 7.00% | ~18,018 |
+| Hold Your Ground | 6.00% | ~15,444 |
+| Opportunist | 6.00% | ~15,444 |
+| A Gift Spurned | 4.00% | ~10,296 |
+| Daemonkeeper | 3.00% | ~7,722 |
+| Corruption Cleanser | 3.00% | ~7,722 |
+| Mind Like a Fortress | 3.00% | ~7,722 |
+| Harvest No More | 3.00% | ~7,722 |
+| Junk Banishment | 3.00% | ~7,722 |
+| Long Distance Call | 3.00% | ~7,722 |
+| Patron of Deimos | 2.00% | ~5,148 |
+| Preservationist | 2.00% | ~5,148 |
+| Engine Kill | 2.00% | ~5,148 |
+| Death Comes For All | 2.00% | ~5,148 |
+| Tactical Flexibility | 2.00% | ~5,148 |
+| Fleetmaster | 1.00% | ~2,574 |
+| For the Machine God | 1.00% | ~2,574 |
+| Unstable Immaterium | 1.00% | ~2,574 |
+| Strike Force | 1.00% | ~2,574 |
+| Exterminator | 1.00% | ~2,574 |
+| Hands-On Research | 1.00% | ~2,574 |
+| Only in Death | 1.00% | ~2,574 |
+| Exercise in Restraint | 0.90% | ~2,317 |
+| Clean Slate | 0.80% | ~2,059 |
+| The Flesh is Weak | 0.50% | ~1,287 |
+| Warp Flickers | 0.50% | ~1,287 |
+| True Mastery | 0.50% | ~1,287 |
+| Firing Squad | 0.30% | ~772 |
+| Strategic Command | 0.30% | ~772 |
+| Crisis Management | 0.20% | ~515 |
+| Grand Master | 0.20% | ~515 |
+| Brothers in Arms | 0.20% | ~515 |
+| Arsenal of Destruction | 0.10% | ~257 |
+| Blood and Iron | 0.10% | ~257 |
+| Dominus | 0.10% | ~257 |
+| Drone Army | 0.10% | ~257 |
+| Mass Extinction | 0.10% | ~257 |
+| Master of the Forge | 0.10% | ~257 |
+| Field Apothecarion | 0.10% | ~257 |
+| Phalanx | 0.10% | ~257 |
+| Not a Mote of Corruption | 0.10% | ~257 |
+| Legend of Titan | 0.00% | ~0 |
+| Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,574 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 191)  

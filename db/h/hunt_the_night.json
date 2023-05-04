@@ -7,154 +7,176 @@
       "SetID": "2eim4o3",
       "Name": "Evening Star",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_01",
       "SetID": "2eim4o3",
       "Name": "Child of the Night",
       "Percentage": 53,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 901
     },
     {
       "ID": "Achievement_02",
       "SetID": "2eim4o3",
       "Name": "The Return of the King",
       "Percentage": 29,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 493
     },
     {
       "ID": "Achievement_03",
       "SetID": "2eim4o3",
       "Name": "Flames of Torment",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 306
     },
     {
       "ID": "Achievement_04",
       "SetID": "2eim4o3",
       "Name": "Master of Lies",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 306
     },
     {
       "ID": "Achievement_05",
       "SetID": "2eim4o3",
       "Name": "Force of Nature",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_06",
       "SetID": "2eim4o3",
       "Name": "The Witch and the Snake",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_07",
       "SetID": "2eim4o3",
       "Name": "Will of the Triumvirate",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_08",
       "SetID": "2eim4o3",
       "Name": "Aria of Blood",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_09",
       "SetID": "2eim4o3",
       "Name": "Paragon of Grace and Pain",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_10",
       "SetID": "2eim4o3",
       "Name": "Sins of the Father",
       "Percentage": 6,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_11",
       "SetID": "2eim4o3",
       "Name": "One of the Cycle",
       "Percentage": 6,
-      "XP": 125
+      "XP": 125,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_12",
       "SetID": "2eim4o3",
       "Name": "Everlasting Day",
       "Percentage": 6,
-      "XP": 125
+      "XP": 125,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_13",
       "SetID": "2eim4o3",
       "Name": "Stalker of the 9th Age",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_14",
       "SetID": "2eim4o3",
       "Name": "Relics of the Order",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_15",
       "SetID": "2eim4o3",
       "Name": "A Kind Heart",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_16",
       "SetID": "2eim4o3",
       "Name": "Knowledge is Power",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_17",
       "SetID": "2eim4o3",
       "Name": "Scholar of the Moon",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_18",
       "SetID": "2eim4o3",
       "Name": "Seeker of Progress",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_19",
       "SetID": "2eim4o3",
       "Name": "Dressed for Battle",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_20",
       "SetID": "2eim4o3",
       "Name": "Legacy of the Sanguine",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "Achievement_21",
       "SetID": "2eim4o3",
       "Name": "Daughter of Blood and Darkness",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -175,13 +197,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T22:06:33.7911604+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:38.7732417+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-04T22:06:33.7911766+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:31.6092068+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:38.7732568+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:04.4413989+00:00",
   "AchievementSets": [
     {
       "ID": "2eim4o3",
@@ -197,7 +219,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,
   "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00"

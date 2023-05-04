@@ -1,22 +1,23 @@
 # Biped
+[View Rawdata](../../db/b/biped.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First Step | 47.00 |
-| Dense Forest | 39.00 |
-| Cactus Vally | 29.00 |
-| Rainy Ruins | 17.00 |
-| Telepathic | 12.00 |
-| Snowy Peak | 11.00 |
-| Speed walkers | 10.00 |
-| High Treetops | 9.00 |
-| Blue Rapids | 7.00 |
-| Sunset Ridge | 4.00 |
-| I can do this alone | 0.10 |
-| Reaching for the stars | 0.10 |
-| Robot lives matter too | 0.00 |
-| Trend hunters | 0.00 |
-| Master biped | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First Step | 47.00% | ~47,329 |
+| Dense Forest | 39.00% | ~39,273 |
+| Cactus Vally | 29.00% | ~29,203 |
+| Rainy Ruins | 17.00% | ~17,119 |
+| Telepathic | 12.00% | ~12,084 |
+| Snowy Peak | 11.00% | ~11,077 |
+| Speed walkers | 10.00% | ~10,070 |
+| High Treetops | 9.00% | ~9,063 |
+| Blue Rapids | 7.00% | ~7,049 |
+| Sunset Ridge | 4.00% | ~4,028 |
+| I can do this alone | 0.10% | ~101 |
+| Reaching for the stars | 0.10% | ~101 |
+| Robot lives matter too | 0.00% | ~0 |
+| Trend hunters | 0.00% | ~0 |
+| Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,007 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 191)  

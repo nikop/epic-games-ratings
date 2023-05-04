@@ -7,259 +7,296 @@
       "SetID": "cieb1c3",
       "Name": "The Monster of Moonglow",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_02_TEMPEST",
       "SetID": "cieb1c3",
       "Name": "Eternal Tempest",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_03_ANCIENT",
       "SetID": "cieb1c3",
       "Name": "An Ancient Feud",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_04_CHANGE",
       "SetID": "cieb1c3",
       "Name": "They Can Change",
       "Percentage": 0.5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_05_HEART",
       "SetID": "cieb1c3",
       "Name": "The Heart of Moonglow",
       "Percentage": 0.3,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_06_JOURNEY",
       "SetID": "cieb1c3",
       "Name": "The Whole Journey",
       "Percentage": 0,
-      "XP": 110
+      "XP": 110,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_07_PROSPERITY",
       "SetID": "cieb1c3",
       "Name": "Restored to Prosperity",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_08_SEASON",
       "SetID": "cieb1c3",
       "Name": "Fishing Season",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_09_RESTAURANT",
       "SetID": "cieb1c3",
       "Name": "Restauranteur",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_10_VTHESEA",
       "SetID": "cieb1c3",
       "Name": "Versus the Sea",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_11_CONVO",
       "SetID": "cieb1c3",
       "Name": "The Art of Conversation",
       "Percentage": 0.5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_12_RACONTEUR",
       "SetID": "cieb1c3",
       "Name": "Expert Raconteur",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_13_TOWNROUST",
       "SetID": "cieb1c3",
       "Name": "Town Roustabout",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_14_BURDEN",
       "SetID": "cieb1c3",
       "Name": "The Burden",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_15_FOLKLORE",
       "SetID": "cieb1c3",
       "Name": "Folklore",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_16_EXPANSION",
       "SetID": "cieb1c3",
       "Name": "Aquatic Expansion",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_17_CULINARY",
       "SetID": "cieb1c3",
       "Name": "Culinary Arts",
       "Percentage": 0,
-      "XP": 45
+      "XP": 45,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_18_FAIRY",
       "SetID": "cieb1c3",
       "Name": "Like a Fairytale",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_19_UNDERWORLD",
       "SetID": "cieb1c3",
       "Name": "From the Underworld",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_20_LEGEND",
       "SetID": "cieb1c3",
       "Name": "The Stuff of Legend",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_21_BEYOND",
       "SetID": "cieb1c3",
       "Name": "From Beyond",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_22_WINGS",
       "SetID": "cieb1c3",
       "Name": "Ocean Wings",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_23_CRIME",
       "SetID": "cieb1c3",
       "Name": "Crimebusters of the Sea",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_24_FLOOFY",
       "SetID": "cieb1c3",
       "Name": "Wise and Floofy",
       "Percentage": 0.5,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_25_FOURLEGS",
       "SetID": "cieb1c3",
       "Name": "Four-Legged Friends",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_26_CONFECTION",
       "SetID": "cieb1c3",
       "Name": "Collection of Confection",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_27_BLACKSMITH",
       "SetID": "cieb1c3",
       "Name": "Ode to a Blacksmith",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_28_SHELLFISH",
       "SetID": "cieb1c3",
       "Name": "Selfish Shellfish",
       "Percentage": 0.8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_29_EXPEDITION",
       "SetID": "cieb1c3",
       "Name": "Expedition",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_30_CONSERVATION",
       "SetID": "cieb1c3",
       "Name": "Conservationist",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_31_THANKS",
       "SetID": "cieb1c3",
       "Name": "Uh... Thanks. I Think.",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_32_DOG",
       "SetID": "cieb1c3",
       "Name": "You Can Pet The Dog",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_33_TACKLE",
       "SetID": "cieb1c3",
       "Name": "Flying Tackle",
       "Percentage": 1,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_34_GRAPE",
       "SetID": "cieb1c3",
       "Name": "Then Peel Me A Grape",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_35_WORTH",
       "SetID": "cieb1c3",
       "Name": "Worth Your While",
       "Percentage": 0.3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_36_SPIDER",
       "SetID": "cieb1c3",
       "Name": "Get-it-off-get-it-off!",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_37_TONNE",
       "SetID": "cieb1c3",
       "Name": "A Tonne of Fun",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -280,13 +317,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-04T22:06:46.2699574+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:48.3179073+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 377,
-  "LastUpdate_Achievements": "2023-05-04T22:06:46.2699862+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:20.5187509+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:48.3179457+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:35.871396+00:00",
   "AchievementSets": [
     {
       "ID": "cieb1c3",
@@ -302,7 +339,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 193,
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00"

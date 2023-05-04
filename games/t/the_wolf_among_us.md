@@ -1,9 +1,10 @@
 # The Wolf Among Us
+[View Rawdata](../../db/t/the_wolf_among_us.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 511  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

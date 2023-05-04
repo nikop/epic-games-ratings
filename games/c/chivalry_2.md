@@ -1,4 +1,5 @@
 # Chivalry 2
+[View Rawdata](../../db/c/chivalry_2.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Extremely Fun): 4,021  (Ranked 72)
 Sum: 26,196 (Ranked 44)  
 Diff (max vs sum): 28  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,35 +7,40 @@
       "SetID": "dm385hd",
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 227800
     },
     {
       "ID": "2",
       "SetID": "dm385hd",
       "Name": "Traveler",
       "Percentage": 4,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 9112
     },
     {
       "ID": "3",
       "SetID": "dm385hd",
       "Name": "Explorer",
       "Percentage": 3,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 6834
     },
     {
       "ID": "4",
       "SetID": "dm385hd",
       "Name": "Adventurer",
       "Percentage": 3,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 6834
     },
     {
       "ID": "5",
       "SetID": "dm385hd",
       "Name": "Hero",
       "Percentage": 3,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 6834
     }
   ],
   "Tags": [],
@@ -676,13 +681,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-04T22:06:25.784601+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:33.0361255+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_Completed": 59,
   "EOS_Progressed": 2278,
-  "LastUpdate_Achievements": "2023-05-04T22:06:25.7846197+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:58:49.8456395+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:33.0361418+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:17:36.2247947+00:00",
   "AchievementSets": [
     {
       "ID": "dm385hd",

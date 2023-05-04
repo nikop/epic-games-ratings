@@ -1,9 +1,10 @@
 # Citizen Sleeper
+[View Rawdata](../../db/c/citizen_sleeper.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

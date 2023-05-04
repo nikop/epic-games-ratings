@@ -7,168 +7,192 @@
       "SetID": "c2k469b",
       "Name": "Builder",
       "Percentage": 4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 1452
     },
     {
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
       "Percentage": 36,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 13068
     },
     {
       "ID": "CampaignStars2",
       "SetID": "c2k469b",
       "Name": "Campaign Silver",
       "Percentage": 21,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 7623
     },
     {
       "ID": "CampaignStars3",
       "SetID": "c2k469b",
       "Name": "Campaign Gold",
       "Percentage": 13,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4719
     },
     {
       "ID": "CampaignStars4",
       "SetID": "c2k469b",
       "Name": "Campaign Titanium",
       "Percentage": 5,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 1815
     },
     {
       "ID": "Competitor1",
       "SetID": "c2k469b",
       "Name": "Competitor Bronze",
       "Percentage": 0.6,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 218
     },
     {
       "ID": "Competitor2",
       "SetID": "c2k469b",
       "Name": "Competitor Silver",
       "Percentage": 0.3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 109
     },
     {
       "ID": "Competitor3",
       "SetID": "c2k469b",
       "Name": "Competitor Gold",
       "Percentage": 0.3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 109
     },
     {
       "ID": "Environmentalist",
       "SetID": "c2k469b",
       "Name": "Environmentalist",
       "Percentage": 12,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 4356
     },
     {
       "ID": "Forester",
       "SetID": "c2k469b",
       "Name": "Forester",
       "Percentage": 7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 2541
     },
     {
       "ID": "Metropolis",
       "SetID": "c2k469b",
       "Name": "Metropolis",
       "Percentage": 27,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 9801
     },
     {
       "ID": "Multitalent",
       "SetID": "c2k469b",
       "Name": "Multitalent",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 363
     },
     {
       "ID": "PlanetBora",
       "SetID": "c2k469b",
       "Name": "Bora",
       "Percentage": 18,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 6534
     },
     {
       "ID": "PlanetEdora",
       "SetID": "c2k469b",
       "Name": "Edora",
       "Percentage": 14,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 5082
     },
     {
       "ID": "PlanetIqunox",
       "SetID": "c2k469b",
       "Name": "Iqunox",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3267
     },
     {
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
       "Percentage": 43,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 15609
     },
     {
       "ID": "PlanetLorian",
       "SetID": "c2k469b",
       "Name": "Lorian",
       "Percentage": 31,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 11253
     },
     {
       "ID": "PlanetMagni",
       "SetID": "c2k469b",
       "Name": "Magni",
       "Percentage": 21,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 7623
     },
     {
       "ID": "PlanetRounos",
       "SetID": "c2k469b",
       "Name": "Rounos",
       "Percentage": 23,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 8349
     },
     {
       "ID": "PlanetThera",
       "SetID": "c2k469b",
       "Name": "Thera",
       "Percentage": 6,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 2178
     },
     {
       "ID": "PlanetTuto",
       "SetID": "c2k469b",
       "Name": "Tuto",
       "Percentage": 61,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 22143
     },
     {
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
       "Percentage": 9,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 3267
     },
     {
       "ID": "Scientist",
       "SetID": "c2k469b",
       "Name": "Scientist",
       "Percentage": 15,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 5445
     },
     {
       "ID": "WorldCreator",
       "SetID": "c2k469b",
       "Name": "World Creator",
       "Percentage": 4,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1452
     }
   ],
   "Tags": [],
@@ -232,13 +256,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:06:40.8629508+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:44.2405976+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 363,
-  "LastUpdate_Achievements": "2023-05-04T22:06:40.862968+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:57.2926264+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:44.2406221+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:21.4004968+00:00",
   "AchievementSets": [
     {
       "ID": "c2k469b",
@@ -255,7 +279,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 22,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 194,
   "Ranking_PopularitySum": 490,

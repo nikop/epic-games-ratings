@@ -1,4 +1,5 @@
 # Lightyear Frontier
+[View Rawdata](../../db/l/lightyear_frontier.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |

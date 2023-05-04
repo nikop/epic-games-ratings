@@ -1,4 +1,5 @@
 # KARDS - The WWII Card Game
+[View Rawdata](../../db/k/kards_-_the_wwii_card_game.json)  
 Rating: 4.39 (Ranked 679)  
 Number of Ratings: 1,466  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Quick Sessions): 542  (Ranked 175)
 Sum: 3,625 (Ranked 137)  
 Diff (max vs sum): 38  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

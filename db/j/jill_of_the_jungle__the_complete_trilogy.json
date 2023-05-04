@@ -7,35 +7,40 @@
       "SetID": "dg4cch5",
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 46800
     },
     {
       "ID": "2",
       "SetID": "dg4cch5",
       "Name": "Jill the Bold",
       "Percentage": 12,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 5616
     },
     {
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
       "Percentage": 9,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 4212
     },
     {
       "ID": "4",
       "SetID": "dg4cch5",
       "Name": "Jill the Courageous",
       "Percentage": 8,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 3744
     },
     {
       "ID": "5",
       "SetID": "dg4cch5",
       "Name": "Jill the Champion",
       "Percentage": 7,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 3276
     }
   ],
   "Tags": [],
@@ -846,13 +851,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-04T22:06:16.9779661+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:26.4440301+00:00",
   "EOS_NewCompleters": 24,
   "EOS_NewPlayers": 300,
   "EOS_Completed": 32,
   "EOS_Progressed": 468,
-  "LastUpdate_Achievements": "2023-05-04T22:06:16.9779842+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:57:28.8684964+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:26.4440473+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:16:44.2346796+00:00",
   "AchievementSets": [
     {
       "ID": "dg4cch5",
@@ -867,7 +872,7 @@
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_Progress": 187,

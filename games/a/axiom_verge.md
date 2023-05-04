@@ -1,4 +1,5 @@
 # AXIOM VERGE
+[View Rawdata](../../db/a/axiom_verge.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 132  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 46  (Ranked 396)
 Sum: 46 (Ranked 435)  
 Diff (max vs sum): -39  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,7 +1,8 @@
 # Hitchhiker - A Mystery Game
+[View Rawdata](../../db/h/hitchhiker_-_a_mystery_game.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

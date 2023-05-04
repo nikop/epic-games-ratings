@@ -1,4 +1,5 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
+[View Rawdata](../../db/p/pathfinder__kingmaker_-_enhanced_plus_edition.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 3,868  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 3,029  (Ranked 85)
 Sum: 8,096 (Ranked 89)  
 Diff (max vs sum): -4  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

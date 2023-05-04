@@ -1,30 +1,31 @@
 # Iron Danger
+[View Rawdata](../../db/i/iron_danger.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| First Shard | 81.00 |
-| Found the Healer | 32.00 |
-| Second Shard | 10.00 |
-| Ring of Fire! | 9.00 |
-| Third Shard | 9.00 |
-| Champion of Kalevala | 8.00 |
-| Death is Merely a Setback | 8.00 |
-| Berry Nice | 7.00 |
-| Keyu Exterminator | 6.00 |
-| Fourth Shard | 6.00 |
-| Big Fish | 5.00 |
-| Tastes Like Chicken | 5.00 |
-| Fifth Shard | 5.00 |
-| Good Stew | 4.00 |
-| Green Thumb | 4.00 |
-| Avian Veterinarian | 4.00 |
-| Finished Iron Danger | 4.00 |
-| Bird Butcherer | 3.00 |
-| Natural Selection | 3.00 |
-| Mushroom Forager | 2.00 |
-| Knock, Knock! | 2.00 |
-| Trolled | 2.00 |
-| Troll Hunter | 2.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| First Shard | 81.00% | ~13,284 |
+| Found the Healer | 32.00% | ~5,248 |
+| Second Shard | 10.00% | ~1,640 |
+| Ring of Fire! | 9.00% | ~1,476 |
+| Third Shard | 9.00% | ~1,476 |
+| Champion of Kalevala | 8.00% | ~1,312 |
+| Death is Merely a Setback | 8.00% | ~1,312 |
+| Berry Nice | 7.00% | ~1,148 |
+| Keyu Exterminator | 6.00% | ~984 |
+| Fourth Shard | 6.00% | ~984 |
+| Big Fish | 5.00% | ~820 |
+| Tastes Like Chicken | 5.00% | ~820 |
+| Fifth Shard | 5.00% | ~820 |
+| Good Stew | 4.00% | ~656 |
+| Green Thumb | 4.00% | ~656 |
+| Avian Veterinarian | 4.00% | ~656 |
+| Finished Iron Danger | 4.00% | ~656 |
+| Bird Butcherer | 3.00% | ~492 |
+| Natural Selection | 3.00% | ~492 |
+| Mushroom Forager | 2.00% | ~328 |
+| Knock, Knock! | 2.00% | ~328 |
+| Trolled | 2.00% | ~328 |
+| Troll Hunter | 2.00% | ~328 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 164 (Ranked 226)  
 Completed: 4 (2.44%) (Ranked 53)  

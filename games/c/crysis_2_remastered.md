@@ -1,4 +1,5 @@
 # Crysis 2 Remastered
+[View Rawdata](../../db/c/crysis_2_remastered.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 612  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 212  (Ranked 250)
 Sum: 212 (Ranked 345)  
 Diff (max vs sum): -95  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

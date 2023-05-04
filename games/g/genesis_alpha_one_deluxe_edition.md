@@ -1,9 +1,10 @@
 # Genesis Alpha One Deluxe Edition
+[View Rawdata](../../db/g/genesis_alpha_one_deluxe_edition.json)  
 Rating: 4.40 (Ranked 663)  
 Number of Ratings: 50  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

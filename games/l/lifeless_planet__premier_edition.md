@@ -1,9 +1,10 @@
 # Lifeless Planet: Premier Edition
+[View Rawdata](../../db/l/lifeless_planet__premier_edition.json)  
 Rating: 4.05 (Ranked 867)  
 Number of Ratings: 287  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

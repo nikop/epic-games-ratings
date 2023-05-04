@@ -1,21 +1,22 @@
 # Smalland: Survive the Wilds
+[View Rawdata](../../db/s/smalland__survive_the_wilds.json)  
 Rating: 4.49 (Ranked 547)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| One VERY small step | 4.00 |
-| Getting some shuteye | 3.00 |
-| Insect hunter | 3.00 |
-| Stone Age | 3.00 |
-| Safe! | 2.00 |
-| Vertebrate hunter | 2.00 |
-| Forming bonds | 1.00 |
-| Smooth as silk | 1.00 |
-| Mastermind | 0.60 |
-| Metal Age | 0.60 |
-| Hang time | 0.50 |
-| Something Wicked | 0.30 |
-| The Key | 0.20 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| One VERY small step | 4.00% | ~72,576 |
+| Getting some shuteye | 3.00% | ~54,432 |
+| Insect hunter | 3.00% | ~54,432 |
+| Stone Age | 3.00% | ~54,432 |
+| Safe! | 2.00% | ~36,288 |
+| Vertebrate hunter | 2.00% | ~36,288 |
+| Forming bonds | 1.00% | ~18,144 |
+| Smooth as silk | 1.00% | ~18,144 |
+| Mastermind | 0.60% | ~10,886 |
+| Metal Age | 0.60% | ~10,886 |
+| Hang time | 0.50% | ~9,072 |
+| Something Wicked | 0.30% | ~5,443 |
+| The Key | 0.20% | ~3,629 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,144 (Ranked 94)  
 Completed: 18 (0.10%) (Ranked 150)  

@@ -1,12 +1,13 @@
 # Dishonored®: Death of the Outsider™
+[View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 633)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 28  (Ranked 450)  
 Sum: 185 (Ranked 354)  
 Diff (max vs sum): 96  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

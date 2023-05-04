@@ -6,218 +6,249 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 17,
-      "XP": 10
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 684
     },
     {
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
       "Percentage": 8,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 288
     },
     {
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ball_collector",
       "SetID": "jig50d",
       "Name": "Ball Collector",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "ball_galore",
       "SetID": "jig50d",
       "Name": "Ball Galore",
       "Percentage": 3,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 108
     },
     {
       "ID": "ball_protector",
       "SetID": "jig50d",
       "Name": "Ball Protector",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 108
     },
     {
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 108
     },
     {
       "ID": "collector",
       "SetID": "jig50d",
       "Name": "Collector",
       "Percentage": 0,
-      "XP": 90
+      "XP": 90,
+      "UsersEstimate": 0
     },
     {
       "ID": "detoxed",
       "SetID": "jig50d",
       "Name": "Detoxed",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
       "Percentage": 53,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 1908
     },
     {
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
       "Percentage": 3,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 108
     },
     {
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
       "Percentage": 67,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 2412
     },
     {
       "ID": "i_prefer_fusion_jazz",
       "SetID": "jig50d",
       "Name": "I Prefer Jazz Fusion",
       "Percentage": 11,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 396
     },
     {
       "ID": "ice_breaker",
       "SetID": "jig50d",
       "Name": "Ice Breaker",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "legendary_destructor",
       "SetID": "jig50d",
       "Name": "Legendary Destructor",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 108
     },
     {
       "ID": "machine_man",
       "SetID": "jig50d",
       "Name": "Machine Man",
       "Percentage": 3,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 108
     },
     {
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
       "Percentage": 3,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 108
     },
     {
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "monster_of_fashion",
       "SetID": "jig50d",
       "Name": "Monster of Fashion",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "mushroom_man",
       "SetID": "jig50d",
       "Name": "Mushroom Man",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 108
     },
     {
       "ID": "nomad",
       "SetID": "jig50d",
       "Name": "Nomad",
       "Percentage": 3,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 108
     },
     {
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
       "Percentage": 72,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 2592
     },
     {
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
       "Percentage": 3,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 108
     },
     {
       "ID": "single_person",
       "SetID": "jig50d",
       "Name": "Single Person On Earth",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "ticking_clock",
       "SetID": "jig50d",
       "Name": "Ticking Clock",
       "Percentage": 3,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 108
     },
     {
       "ID": "total_walrus",
       "SetID": "jig50d",
       "Name": "Total Walrus",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "true_victory",
       "SetID": "jig50d",
       "Name": "True Victory",
       "Percentage": 0,
-      "XP": 70
+      "XP": 70,
+      "UsersEstimate": 0
     },
     {
       "ID": "truest_victory",
       "SetID": "jig50d",
       "Name": "Victory That Is Even More True",
       "Percentage": 0,
-      "XP": 80
+      "XP": 80,
+      "UsersEstimate": 0
     },
     {
       "ID": "untouchable",
       "SetID": "jig50d",
       "Name": "Untouchable",
       "Percentage": 3,
-      "XP": 20
+      "XP": 20,
+      "UsersEstimate": 108
     },
     {
       "ID": "weapons",
       "SetID": "jig50d",
       "Name": "You Are Actually Supposed To Use Those",
       "Percentage": 8,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 288
     },
     {
       "ID": "what_are_you",
       "SetID": "jig50d",
       "Name": "What Even Are You?",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -373,13 +404,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:06:53.54483+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:53.6085522+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 29,
   "EOS_Completed": 0,
   "EOS_Progressed": 36,
-  "LastUpdate_Achievements": "2023-05-04T22:06:53.5448543+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:54.8016631+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:53.6085899+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:58.0252811+00:00",
   "AchievementSets": [
     {
       "ID": "jig50d",

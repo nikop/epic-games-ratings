@@ -1,8 +1,9 @@
 # Call of Cthulhu
+[View Rawdata](../../db/c/call_of_cthulhu.json)  
 Rating: 4.34 (Ranked 721)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

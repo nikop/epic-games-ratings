@@ -1,7 +1,8 @@
 # Eternal Kingdom Battle Peak
+[View Rawdata](../../db/e/eternal_kingdom_battle_peak.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

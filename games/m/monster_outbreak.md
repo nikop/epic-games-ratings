@@ -1,7 +1,8 @@
 # Monster Outbreak
+[View Rawdata](../../db/m/monster_outbreak.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 191)  

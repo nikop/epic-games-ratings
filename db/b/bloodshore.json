@@ -7,119 +7,136 @@
       "SetID": "84ad177",
       "Name": "Bromance",
       "Percentage": 29,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 4031
     },
     {
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
       "Percentage": 31,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 4309
     },
     {
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
       "Percentage": 50,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 6950
     },
     {
       "ID": "deathlooper",
       "SetID": "84ad177",
       "Name": "Deathlooper",
       "Percentage": 2,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 278
     },
     {
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
       "Percentage": 28,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3892
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
       "Percentage": 36,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 5004
     },
     {
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
       "Percentage": 22,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 3058
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
       "Percentage": 9,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 1251
     },
     {
       "ID": "mikey_lizard",
       "SetID": "84ad177",
       "Name": "Mikey Lizard",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 834
     },
     {
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
       "Percentage": 27,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 3753
     },
     {
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
       "Percentage": 49,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 6811
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
       "Percentage": 37,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 5143
     },
     {
       "ID": "thats_my_boy",
       "SetID": "84ad177",
       "Name": "That\u0027s my boy!",
       "Percentage": 2,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 278
     },
     {
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
       "Percentage": 33,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 4587
     },
     {
       "ID": "tried_to_warn_you",
       "SetID": "84ad177",
       "Name": "We tried to warn you!",
       "Percentage": 4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 556
     },
     {
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
       "Percentage": 46,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 6394
     },
     {
       "ID": "used_to_think_i_was_indecisive",
       "SetID": "84ad177",
       "Name": "I used to think I was indecisive...",
       "Percentage": 6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 834
     }
   ],
   "Tags": [],
@@ -145,13 +162,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-04T22:06:54.0159038+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:53.908867+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 139,
-  "LastUpdate_Achievements": "2023-05-04T22:06:54.0159232+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:54.421097+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:53.9088865+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:57.7308363+00:00",
   "AchievementSets": [
     {
       "ID": "84ad177",

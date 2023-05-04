@@ -7,245 +7,280 @@
       "SetID": "cd7863o",
       "Name": "Perfection",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     },
     {
       "ID": "1",
       "SetID": "cd7863o",
       "Name": "Picking it up",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "10",
       "SetID": "cd7863o",
       "Name": "Exploring the Valley",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "11",
       "SetID": "cd7863o",
       "Name": "Exploring the Temple",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "12",
       "SetID": "cd7863o",
       "Name": "Earning your wings",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "13",
       "SetID": "cd7863o",
       "Name": "Ancient mechanisms",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "14",
       "SetID": "cd7863o",
       "Name": "Oryktum alchemy",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "15",
       "SetID": "cd7863o",
       "Name": "Player",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "16",
       "SetID": "cd7863o",
       "Name": "I reassemble, ergo sum",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "17",
       "SetID": "cd7863o",
       "Name": "Done deal",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "18",
       "SetID": "cd7863o",
       "Name": "On the same wavelength",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "19",
       "SetID": "cd7863o",
       "Name": "The way to Jumbaba Valley",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "2",
       "SetID": "cd7863o",
       "Name": "Combiner",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "20",
       "SetID": "cd7863o",
       "Name": "Exploring Zhagros 05",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "21",
       "SetID": "cd7863o",
       "Name": "The Seeker\u0027s task",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "22",
       "SetID": "cd7863o",
       "Name": "Exploring the Jungles",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "23",
       "SetID": "cd7863o",
       "Name": "The darkest corner",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "24",
       "SetID": "cd7863o",
       "Name": "Exploring Sector 013",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "25",
       "SetID": "cd7863o",
       "Name": "The colours at sunset",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "26",
       "SetID": "cd7863o",
       "Name": "Exploring the Hills",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "27",
       "SetID": "cd7863o",
       "Name": "Exploring the Colony",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "28",
       "SetID": "cd7863o",
       "Name": "Exploring the Forest",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "29",
       "SetID": "cd7863o",
       "Name": "Flappy Drone",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "3",
       "SetID": "cd7863o",
       "Name": "The pieces are coming together",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "30",
       "SetID": "cd7863o",
       "Name": "The Library of Babel",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "31",
       "SetID": "cd7863o",
       "Name": "Master pilot",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "32",
       "SetID": "cd7863o",
       "Name": "The True Seeker",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "33",
       "SetID": "cd7863o",
       "Name": "Solitary Seeker",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "34",
       "SetID": "cd7863o",
       "Name": "Indestructable, almost",
       "Percentage": 0,
-      "XP": 40
+      "XP": 40,
+      "UsersEstimate": 0
     },
     {
       "ID": "4",
       "SetID": "cd7863o",
       "Name": "Mind the Oryktum",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "5",
       "SetID": "cd7863o",
       "Name": "Danger, falling rocks",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "6",
       "SetID": "cd7863o",
       "Name": "Exploring the Peaks",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "7",
       "SetID": "cd7863o",
       "Name": "In the depths of the jungle",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "8",
       "SetID": "cd7863o",
       "Name": "Every last nook and cranny",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     },
     {
       "ID": "9",
       "SetID": "cd7863o",
       "Name": "Exploring the Bluff",
       "Percentage": 0,
-      "XP": 15
+      "XP": 15,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -260,13 +295,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T22:07:01.1774988+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.1851303+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:07:01.1775247+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:18.0019283+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.185172+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:13.5008851+00:00",
   "AchievementSets": [
     {
       "ID": "cd7863o",
@@ -282,7 +317,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T16:09:05.3760645+00:00"

@@ -1,4 +1,5 @@
 # The Crew 2 Standard Edition
+[View Rawdata](../../db/t/the_crew_2_standard_edition.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 2,083  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great for Beginners): 415  (Ranked 192)
 Sum: 2,886 (Ranked 152)  
 Diff (max vs sum): 40  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

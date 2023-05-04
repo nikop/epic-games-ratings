@@ -7,210 +7,240 @@
       "SetID": "1kkoeef",
       "Name": "Goal!",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATBUTCHER",
       "SetID": "1kkoeef",
       "Name": "Butcher",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATCROWANDAH",
       "SetID": "1kkoeef",
       "Name": "K\u00E4rrh\u00E4xan",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATKING",
       "SetID": "1kkoeef",
       "Name": "The Mountain King",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATNAECKEN",
       "SetID": "1kkoeef",
       "Name": "N\u00E4cken",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATPESTA",
       "SetID": "1kkoeef",
       "Name": "Pesta",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATREAM3",
       "SetID": "1kkoeef",
       "Name": "Bramble",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "BEATSKOGSRA",
       "SetID": "1kkoeef",
       "Name": "Skogsr\u00E5et",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "BOOKREAD",
       "SetID": "1kkoeef",
       "Name": "Book worm",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "BREWEDPOTION",
       "SetID": "1kkoeef",
       "Name": "Witchcraft",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "COLLECTOR",
       "SetID": "1kkoeef",
       "Name": "Collector",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "COMPLETEGAME",
       "SetID": "1kkoeef",
       "Name": "Home Again",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDCROWANDAHFIG",
       "SetID": "1kkoeef",
       "Name": "K\u00E4rrh\u00E4xan Figurine",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDGNOMEFIG",
       "SetID": "1kkoeef",
       "Name": "Gnome Figurine",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDGUBBEFIG",
       "SetID": "1kkoeef",
       "Name": "Lyktgubben Figurine",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDLEMUSFIG",
       "SetID": "1kkoeef",
       "Name": "Lemus Figurine",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDNAECKENFIG",
       "SetID": "1kkoeef",
       "Name": "N\u00E4cken Figurine",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDNILSFIG",
       "SetID": "1kkoeef",
       "Name": "King Nils Figurine",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDPESTAFIG",
       "SetID": "1kkoeef",
       "Name": "Pesta Figurine",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDSISTERFIG",
       "SetID": "1kkoeef",
       "Name": "Lillemor Figurine",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDSKOGSRAFIG",
       "SetID": "1kkoeef",
       "Name": "Skogsr\u00E5et Figurine",
       "Percentage": 0,
-      "XP": 60
+      "XP": 60,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDTRICKSTERFIG",
       "SetID": "1kkoeef",
       "Name": "Troll Figurine",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINDTUVAFIG",
       "SetID": "1kkoeef",
       "Name": "Tuva Figurine",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "IRONMAN",
       "SetID": "1kkoeef",
       "Name": "Survivor",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "JUMPEDONMUSHROOMS",
       "SetID": "1kkoeef",
       "Name": "Bouncy",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "PINECONEOUTOFCAVE",
       "SetID": "1kkoeef",
       "Name": "Evicted",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "PROPERFUNERAL",
       "SetID": "1kkoeef",
       "Name": "Proper burial",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "PUSHEDGNOMEINMEAT",
       "SetID": "1kkoeef",
       "Name": "Bait",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "SAVEDALLGNOMES",
       "SetID": "1kkoeef",
       "Name": "Savior",
       "Percentage": 0,
-      "XP": 30
+      "XP": 30,
+      "UsersEstimate": 0
     },
     {
       "ID": "SKOGSRA100STABS",
       "SetID": "1kkoeef",
       "Name": "Murderer",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -225,13 +255,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:06:41.6068311+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:44.7445331+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:41.6068519+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:05.0842187+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:44.7445606+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:25.7576538+00:00",
   "AchievementSets": [
     {
       "ID": "1kkoeef",
@@ -247,7 +277,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00"

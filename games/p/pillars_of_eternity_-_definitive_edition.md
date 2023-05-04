@@ -1,61 +1,62 @@
 # Pillars of Eternity - Definitive Edition
+[View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,868  (Ranked 104)  
-Sum: 4,591 (Ranked 126)  
+Sum: 4,592 (Ranked 126)  
 Diff (max vs sum): -22  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Kickstarter Backer | 82.00 |
-| Completed Act I | 30.00 |
-| 5 Upgrades in Stronghold | 25.00 |
-| First 5 Levels of Od Nua | 24.00 |
-| Make an Adventurer | 23.00 |
-| Completed Act II | 16.00 |
-| Enchanter | 15.00 |
-| Disposition | 15.00 |
-| Middle 5 Levels of Od Nua | 15.00 |
-| Super Murderer | 14.00 |
-| All Upgrades in Stronghold | 14.00 |
-| The Watcher With Eight Friends | 14.00 |
-| The Heir of Caed Nua | 13.00 |
-| Soulbinder | 13.00 |
-| Last 5 Levels of Od Nua | 12.00 |
-| Bounty Hunter | 10.00 |
-| The Giftbearer | 10.00 |
-| Trappy | 9.00 |
-| Herald of the Old Flame | 9.00 |
-| Watcher at the Breach | 9.00 |
-| Completed Act III | 8.00 |
-| Fish Guts and Murder | 8.00 |
-| Alchemist | 7.00 |
-| The Siege of Crägholdt | 7.00 |
-| A Voice from the Deep | 6.00 |
-| Called to their Labor | 6.00 |
-| From the Clouds to the Depths | 5.00 |
-| Explorer | 5.00 |
-| Chef | 4.00 |
-| Scribe | 4.00 |
-| Appease All of the Gods | 4.00 |
-| Terror of the White March | 4.00 |
-| Won the Game!!! | 3.00 |
-| The Storied Adventurer | 3.00 |
-| Among the Moss and Peat | 2.00 |
-| Legendary Enchanter | 1.00 |
-| Path of the Damned | 0.70 |
-| Expert | 0.60 |
-| Solo | 0.60 |
-| Triple Crown | 0.60 |
-| Trial of Iron | 0.60 |
-| Frozen Crown Solo | 0.60 |
-| Relative Pacifism | 0.50 |
-| Zero Knockouts | 0.50 |
-| No Rest for the Pro | 0.50 |
-| Triple Crown Solo | 0.50 |
-| Frozen Crown | 0.50 |
-| The Ultimate | 0.50 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Kickstarter Backer | 82.00% | ~88,150 |
+| Completed Act I | 30.00% | ~32,250 |
+| 5 Upgrades in Stronghold | 25.00% | ~26,875 |
+| First 5 Levels of Od Nua | 24.00% | ~25,800 |
+| Make an Adventurer | 23.00% | ~24,725 |
+| Completed Act II | 16.00% | ~17,200 |
+| Enchanter | 15.00% | ~16,125 |
+| Disposition | 15.00% | ~16,125 |
+| Middle 5 Levels of Od Nua | 15.00% | ~16,125 |
+| Super Murderer | 14.00% | ~15,050 |
+| All Upgrades in Stronghold | 14.00% | ~15,050 |
+| The Watcher With Eight Friends | 14.00% | ~15,050 |
+| The Heir of Caed Nua | 13.00% | ~13,975 |
+| Soulbinder | 13.00% | ~13,975 |
+| Last 5 Levels of Od Nua | 12.00% | ~12,900 |
+| Bounty Hunter | 10.00% | ~10,750 |
+| The Giftbearer | 10.00% | ~10,750 |
+| Trappy | 9.00% | ~9,675 |
+| Herald of the Old Flame | 9.00% | ~9,675 |
+| Watcher at the Breach | 9.00% | ~9,675 |
+| Completed Act III | 8.00% | ~8,600 |
+| Fish Guts and Murder | 8.00% | ~8,600 |
+| Alchemist | 7.00% | ~7,525 |
+| The Siege of Crägholdt | 7.00% | ~7,525 |
+| A Voice from the Deep | 6.00% | ~6,450 |
+| Called to their Labor | 6.00% | ~6,450 |
+| From the Clouds to the Depths | 5.00% | ~5,375 |
+| Explorer | 5.00% | ~5,375 |
+| Chef | 4.00% | ~4,300 |
+| Scribe | 4.00% | ~4,300 |
+| Appease All of the Gods | 4.00% | ~4,300 |
+| Terror of the White March | 4.00% | ~4,300 |
+| Won the Game!!! | 3.00% | ~3,225 |
+| The Storied Adventurer | 3.00% | ~3,225 |
+| Among the Moss and Peat | 2.00% | ~2,150 |
+| Legendary Enchanter | 1.00% | ~1,075 |
+| Path of the Damned | 0.70% | ~752 |
+| Expert | 0.60% | ~645 |
+| Solo | 0.60% | ~645 |
+| Triple Crown | 0.60% | ~645 |
+| Trial of Iron | 0.60% | ~645 |
+| Frozen Crown Solo | 0.60% | ~645 |
+| Relative Pacifism | 0.50% | ~538 |
+| Zero Knockouts | 0.50% | ~538 |
+| No Rest for the Pro | 0.50% | ~538 |
+| Triple Crown Solo | 0.50% | ~538 |
+| Frozen Crown | 0.50% | ~538 |
+| The Ultimate | 0.50% | ~538 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,075 (Ranked 157)  
 Completed: 4 (0.37%) (Ranked 107)  
@@ -71,7 +72,7 @@ Completed: 4 (0.37%) (Ranked 107)
 | This game is Extremely Fun | 334 |
 | This game has Amazing Storytelling | 332 |
 | This game has Amazing Characters | 325 |
-| This game has Diverse Characters | 324 |
+| This game has Diverse Characters | 325 |
 | This game is Highly Recommended | 313 |
 | This game has Challenging Combat | 307 |
 | This game is Relaxing | 305 |
@@ -174,4 +175,4 @@ Completed: 4 (0.37%) (Ranked 107)
 | 2023-04-29 | 4.65 | - | 1,868 | 4,588 |
 | 2023-05-01 | 4.65 | - | 1,868 | 4,589 |
 | 2023-05-03 | 4.65 | - | 1,868 | 4,590 |
-| 2023-05-04 | 4.65 | - | 1,868 | 4,591 |
+| 2023-05-04 | 4.65 | - | 1,868 | 4,592 |

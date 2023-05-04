@@ -1,9 +1,10 @@
 # Amnesia: The Dark Descent
+[View Rawdata](../../db/a/amnesia__the_dark_descent.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 289  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

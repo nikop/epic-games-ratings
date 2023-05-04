@@ -1,4 +1,5 @@
 # ARK: Survival Evolved
+[View Rawdata](../../db/a/ark__survival_evolved.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 35,570  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 56,423  (Ranked 10)
 Sum: 250,108 (Ranked 11)  
 Diff (max vs sum): -1  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

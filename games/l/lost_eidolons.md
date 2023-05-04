@@ -1,31 +1,32 @@
 # Lost Eidolons
+[View Rawdata](../../db/l/lost_eidolons.json)  
 Rating: 4.31 (Ranked 746)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| The First Step | 69.00 |
-| First Blood | 65.00 |
-| Ready to Learn | 63.00 |
-| Monster Hunter | 54.00 |
-| Earning Trust | 51.00 |
-| Monster Slayer | 30.00 |
-| Awakening | 23.00 |
-| Huntmaster | 22.00 |
-| Complete the sidequest 'Malice and Greed' | 18.00 |
-| House Vulisica's Heirloom | 14.00 |
-| Digging Deep | 13.00 |
-| Broken Oath | 8.00 |
-| Way of the King | 6.00 |
-| Way of the Warlord | 4.00 |
-| Til We Meet Again | 4.00 |
-| The Unvanquished | 2.00 |
-| Let Us Cling Together | 2.00 |
-| Arrow in the Wind | 2.00 |
-| First Bloom | 1.00 |
-| A Promised Voyage | 1.00 |
-| Life or Death | 0.80 |
-| Someone to Protect | 0.60 |
-| Lean on Me | 0.40 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| The First Step | 69.00% | ~58,167 |
+| First Blood | 65.00% | ~54,795 |
+| Ready to Learn | 63.00% | ~53,109 |
+| Monster Hunter | 54.00% | ~45,522 |
+| Earning Trust | 51.00% | ~42,993 |
+| Monster Slayer | 30.00% | ~25,290 |
+| Awakening | 23.00% | ~19,389 |
+| Huntmaster | 22.00% | ~18,546 |
+| Complete the sidequest 'Malice and Greed' | 18.00% | ~15,174 |
+| House Vulisica's Heirloom | 14.00% | ~11,802 |
+| Digging Deep | 13.00% | ~10,959 |
+| Broken Oath | 8.00% | ~6,744 |
+| Way of the King | 6.00% | ~5,058 |
+| Way of the Warlord | 4.00% | ~3,372 |
+| Til We Meet Again | 4.00% | ~3,372 |
+| The Unvanquished | 2.00% | ~1,686 |
+| Let Us Cling Together | 2.00% | ~1,686 |
+| Arrow in the Wind | 2.00% | ~1,686 |
+| First Bloom | 1.00% | ~843 |
+| A Promised Voyage | 1.00% | ~843 |
+| Life or Death | 0.80% | ~674 |
+| Someone to Protect | 0.60% | ~506 |
+| Lean on Me | 0.40% | ~337 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 843 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 191)  

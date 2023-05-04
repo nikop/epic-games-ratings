@@ -7,70 +7,80 @@
       "SetID": "77jc0gi",
       "Name": "Baby Mozart",
       "Percentage": 5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 348070
     },
     {
       "ID": "Drawings01",
       "SetID": "77jc0gi",
       "Name": "House Drawings",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 69614
     },
     {
       "ID": "Drawings02",
       "SetID": "77jc0gi",
       "Name": "Cave Drawings",
       "Percentage": 1,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 69614
     },
     {
       "ID": "Drawings03",
       "SetID": "77jc0gi",
       "Name": "Forest Drawings",
       "Percentage": 0.8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 55691
     },
     {
       "ID": "Drawings04",
       "SetID": "77jc0gi",
       "Name": "Closet Drawings",
       "Percentage": 0.7,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 48730
     },
     {
       "ID": "DrawingsAll",
       "SetID": "77jc0gi",
       "Name": "Collected all drawings",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 34807
     },
     {
       "ID": "DrawingsDLC",
       "SetID": "77jc0gi",
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 41768
     },
     {
       "ID": "GameCompleted",
       "SetID": "77jc0gi",
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 696140
     },
     {
       "ID": "Level00BowlingStrike",
       "SetID": "77jc0gi",
       "Name": "Strike",
       "Percentage": 36,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 2506104
     },
     {
       "ID": "Level04DarkMusicBox",
       "SetID": "77jc0gi",
       "Name": "Bad Lullaby",
       "Percentage": 11,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 765754
     }
   ],
   "Tags": [],
@@ -1129,6 +1139,11 @@
       "Time": "2023-05-04T22:07:02.2698728+00:00",
       "NumProgressed": 69611,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-05-04T22:24:59.9536178+00:00",
+      "NumProgressed": 69614,
+      "NumCompleted": 325
     }
   ],
   "RatingHistory": [
@@ -1553,18 +1568,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-04T22:07:02.2698721+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:59.9536172+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 859,
   "EOS_Completed": 325,
-  "EOS_Progressed": 69611,
-  "LastUpdate_Achievements": "2023-05-04T22:07:02.2698873+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:28.6263359+00:00",
+  "EOS_Progressed": 69614,
+  "LastUpdate_Achievements": "2023-05-04T22:24:59.9536438+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:20.3858452+00:00",
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 69611,
+      "Progressed": 69614,
       "Completed": 325
     }
   ],

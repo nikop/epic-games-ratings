@@ -1,67 +1,68 @@
 # WTC - Relentless Protagonist
+[View Rawdata](../../db/w/wtc_-_relentless_protagonist.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| Start a new game | 50.00 |
-| Enter a new name | 25.00 |
-| Burying the past | 0.00 |
-| CD Player | 0.00 |
-| Father Route | 0.00 |
-| Day #1 | 0.00 |
-| Day #2 | 0.00 |
-| Day #3 | 0.00 |
-| Day #4 | 0.00 |
-| Day #5 | 0.00 |
-| Day #6 | 0.00 |
-| Day #7 | 0.00 |
-| Day #8 | 0.00 |
-| Day #9 | 0.00 |
-| Do nothing | 0.00 |
-| End Credits | 0.00 |
-| Epilogue #1 | 0.00 |
-| Epilogue #2 | 0.00 |
-| Epilogue #3 | 0.00 |
-| Epilogue #4 | 0.00 |
-| Escape | 0.00 |
-| School exams | 0.00 |
-| Ex-class representative | 0.00 |
-| Explode #1 | 0.00 |
-| Explode #2 | 0.00 |
-| Female Protagonist | 0.00 |
-| Fight | 0.00 |
-| Staff Room | 0.00 |
-| Forcefield | 0.00 |
-| ULTIMATE ACHIEVEMENT! | 0.00 |
-| Go Direct | 0.00 |
-| Grendel The Dunce | 0.00 |
-| Grendel The Genius | 0.00 |
-| Guard Voting Box | 0.00 |
-| Bury The Harddrive | 0.00 |
-| Helping Out | 0.00 |
-| Zafast City History | 0.00 |
-| In The Running | 0.00 |
-| Introductions #1/3 | 0.00 |
-| Introductions #2/3 | 0.00 |
-| Introductions #3/3 | 0.00 |
-| Keeping Secrets | 0.00 |
-| Male Protagonist | 0.00 |
-| Mother Route | 0.00 |
-| Grendel's Mother Has A Rest | 0.00 |
-| Grendel's Mother Keeps On Working | 0.00 |
-| Voting Box Not Guarded | 0.00 |
-| Haven't played WTC : Recruitment Day | 0.00 |
-| Original Ending | 0.00 |
-| Complete the prologue | 0.00 |
-| Radio Jinx | 0.00 |
-| Search Everywhere | 0.00 |
-| Searched one item | 0.00 |
-| Side Story | 0.00 |
-| Searched At Least Two Items | 0.00 |
-| Correct Location | 0.00 |
-| Survive! | 0.00 |
-| Title Sequence | 0.00 |
-| Victim | 0.00 |
-| Have played WTC : Recruitment Day | 0.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Start a new game | 50.00% | ~200 |
+| Enter a new name | 25.00% | ~100 |
+| Burying the past | 0.00% | ~0 |
+| CD Player | 0.00% | ~0 |
+| Father Route | 0.00% | ~0 |
+| Day #1 | 0.00% | ~0 |
+| Day #2 | 0.00% | ~0 |
+| Day #3 | 0.00% | ~0 |
+| Day #4 | 0.00% | ~0 |
+| Day #5 | 0.00% | ~0 |
+| Day #6 | 0.00% | ~0 |
+| Day #7 | 0.00% | ~0 |
+| Day #8 | 0.00% | ~0 |
+| Day #9 | 0.00% | ~0 |
+| Do nothing | 0.00% | ~0 |
+| End Credits | 0.00% | ~0 |
+| Epilogue #1 | 0.00% | ~0 |
+| Epilogue #2 | 0.00% | ~0 |
+| Epilogue #3 | 0.00% | ~0 |
+| Epilogue #4 | 0.00% | ~0 |
+| Escape | 0.00% | ~0 |
+| School exams | 0.00% | ~0 |
+| Ex-class representative | 0.00% | ~0 |
+| Explode #1 | 0.00% | ~0 |
+| Explode #2 | 0.00% | ~0 |
+| Female Protagonist | 0.00% | ~0 |
+| Fight | 0.00% | ~0 |
+| Staff Room | 0.00% | ~0 |
+| Forcefield | 0.00% | ~0 |
+| ULTIMATE ACHIEVEMENT! | 0.00% | ~0 |
+| Go Direct | 0.00% | ~0 |
+| Grendel The Dunce | 0.00% | ~0 |
+| Grendel The Genius | 0.00% | ~0 |
+| Guard Voting Box | 0.00% | ~0 |
+| Bury The Harddrive | 0.00% | ~0 |
+| Helping Out | 0.00% | ~0 |
+| Zafast City History | 0.00% | ~0 |
+| In The Running | 0.00% | ~0 |
+| Introductions #1/3 | 0.00% | ~0 |
+| Introductions #2/3 | 0.00% | ~0 |
+| Introductions #3/3 | 0.00% | ~0 |
+| Keeping Secrets | 0.00% | ~0 |
+| Male Protagonist | 0.00% | ~0 |
+| Mother Route | 0.00% | ~0 |
+| Grendel's Mother Has A Rest | 0.00% | ~0 |
+| Grendel's Mother Keeps On Working | 0.00% | ~0 |
+| Voting Box Not Guarded | 0.00% | ~0 |
+| Haven't played WTC : Recruitment Day | 0.00% | ~0 |
+| Original Ending | 0.00% | ~0 |
+| Complete the prologue | 0.00% | ~0 |
+| Radio Jinx | 0.00% | ~0 |
+| Search Everywhere | 0.00% | ~0 |
+| Searched one item | 0.00% | ~0 |
+| Side Story | 0.00% | ~0 |
+| Searched At Least Two Items | 0.00% | ~0 |
+| Correct Location | 0.00% | ~0 |
+| Survive! | 0.00% | ~0 |
+| Title Sequence | 0.00% | ~0 |
+| Victim | 0.00% | ~0 |
+| Have played WTC : Recruitment Day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 191)  

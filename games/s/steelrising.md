@@ -1,4 +1,5 @@
 # Steelrising
+[View Rawdata](../../db/s/steelrising.json)  
 Rating: 4.28 (Ranked 764)  
 Number of Ratings: 122  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Great Boss Battles): 36  (Ranked 421)
 Sum: 36 (Ranked 447)  
 Diff (max vs sum): -26  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

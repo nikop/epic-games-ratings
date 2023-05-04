@@ -1,8 +1,9 @@
 # The Jackbox Party Pack 4
+[View Rawdata](../../db/t/the_jackbox_party_pack_4.json)  
 Rating: 4.90 (Ranked 7)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

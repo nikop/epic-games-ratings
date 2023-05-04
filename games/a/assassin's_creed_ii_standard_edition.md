@@ -1,4 +1,5 @@
 # Assassin's Creed II Standard Edition
+[View Rawdata](../../db/a/assassin's_creed_ii_standard_edition.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 315  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Amazing Storytelling): 24  (Ranked 466)
 Sum: 85 (Ranked 403)  
 Diff (max vs sum): 63  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

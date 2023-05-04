@@ -1,8 +1,9 @@
 # Knights of Honor II: Sovereign
+[View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
 Rating: 4.46 (Ranked 590)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

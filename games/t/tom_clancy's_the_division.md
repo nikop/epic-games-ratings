@@ -1,4 +1,5 @@
 # Tom Clancy's The Division
+[View Rawdata](../../db/t/tom_clancy's_the_division.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 247  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Character Customization): 259  (Ranked 235)
 Sum: 587 (Ranked 279)  
 Diff (max vs sum): -44  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

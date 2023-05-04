@@ -7,161 +7,184 @@
       "SetID": "d0jo315",
       "Name": "Family man",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 223788
     },
     {
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
       "Percentage": 0.7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 13054
     },
     {
       "ID": "ChangChoi",
       "SetID": "d0jo315",
       "Name": "Nerd",
       "Percentage": 0.5,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 9324
     },
     {
       "ID": "DoItASAP",
       "SetID": "d0jo315",
       "Name": "Do it ASAP",
       "Percentage": 0.6,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 11189
     },
     {
       "ID": "DolanTrusk",
       "SetID": "d0jo315",
       "Name": "Worth Every Penny",
       "Percentage": 15,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 279735
     },
     {
       "ID": "EstateAgent",
       "SetID": "d0jo315",
       "Name": "Estate Agent",
       "Percentage": 5,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 93245
     },
     {
       "ID": "FirstMoney",
       "SetID": "d0jo315",
       "Name": "First money",
       "Percentage": 94,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 1753006
     },
     {
       "ID": "GameOver",
       "SetID": "d0jo315",
       "Name": "Game Over",
       "Percentage": 0.8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 14919
     },
     {
       "ID": "GorgioShanua",
       "SetID": "d0jo315",
       "Name": "I\u0027m Belieber",
       "Percentage": 2,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 37298
     },
     {
       "ID": "JackTarinton",
       "SetID": "d0jo315",
       "Name": "Wall Street Shark",
       "Percentage": 0.8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 14919
     },
     {
       "ID": "JimmyTraitor",
       "SetID": "d0jo315",
       "Name": "Mystery",
       "Percentage": 10,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 186490
     },
     {
       "ID": "JuniorEstateAgent",
       "SetID": "d0jo315",
       "Name": "Junior Estate Agent",
       "Percentage": 12,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 223788
     },
     {
       "ID": "KnockKnock",
       "SetID": "d0jo315",
       "Name": "Knock, knock",
       "Percentage": 0.8,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 14919
     },
     {
       "ID": "Millionaire",
       "SetID": "d0jo315",
       "Name": "Millionaire",
       "Percentage": 5,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 93245
     },
     {
       "ID": "MrAndMrsJantart",
       "SetID": "d0jo315",
       "Name": "Just Enough",
       "Percentage": 18,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 335682
     },
     {
       "ID": "Negotiator",
       "SetID": "d0jo315",
       "Name": "Negotiator",
       "Percentage": 0.8,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 14919
     },
     {
       "ID": "Perfectionist",
       "SetID": "d0jo315",
       "Name": "Perfectionist",
       "Percentage": 5,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 93245
     },
     {
       "ID": "RafaelErko",
       "SetID": "d0jo315",
       "Name": "Alpha Male",
       "Percentage": 19,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 354331
     },
     {
       "ID": "SeniorEstateAgent",
       "SetID": "d0jo315",
       "Name": "Senior Estate Agent",
       "Percentage": 0.5,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 9324
     },
     {
       "ID": "SmothFamily",
       "SetID": "d0jo315",
       "Name": "Pro-creative",
       "Percentage": 17,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 317033
     },
     {
       "ID": "Strongman",
       "SetID": "d0jo315",
       "Name": "Strongman",
       "Percentage": 31,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 578119
     },
     {
       "ID": "VeronicaLiptson",
       "SetID": "d0jo315",
       "Name": "Artistic soul",
       "Percentage": 9,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 167841
     },
     {
       "ID": "YouDoItWrong",
       "SetID": "d0jo315",
       "Name": "You do it wrong",
       "Percentage": 1,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 18649
     }
   ],
   "Tags": [
@@ -1769,13 +1792,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:06:43.5476839+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:45.82834+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 51,
   "EOS_Completed": 19,
   "EOS_Progressed": 18649,
-  "LastUpdate_Achievements": "2023-05-04T22:06:43.5477126+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:12.7762918+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:45.8283605+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:30.9089937+00:00",
   "AchievementSets": [
     {
       "ID": "d0jo315",

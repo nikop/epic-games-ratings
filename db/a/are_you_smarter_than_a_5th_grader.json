@@ -7,133 +7,152 @@
       "SetID": "6l18k14",
       "Name": "\u0022A\u002B\u0022 Student",
       "Percentage": 0,
-      "XP": 150
+      "XP": 150,
+      "UsersEstimate": 0
     },
     {
       "ID": "AStudent",
       "SetID": "6l18k14",
       "Name": "\u0022A\u0022 Student",
       "Percentage": 0.4,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 109
     },
     {
       "ID": "Byoing",
       "SetID": "6l18k14",
       "Name": "Byoing",
       "Percentage": 7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 1904
     },
     {
       "ID": "ExamPractice",
       "SetID": "6l18k14",
       "Name": "Exam Practice",
       "Percentage": 13,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 3536
     },
     {
       "ID": "ExamTime",
       "SetID": "6l18k14",
       "Name": "Exam Time",
       "Percentage": 84,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 22848
     },
     {
       "ID": "FifthGrade",
       "SetID": "6l18k14",
       "Name": "5th Grade",
       "Percentage": 0,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 0
     },
     {
       "ID": "FirstGrade",
       "SetID": "6l18k14",
       "Name": "1st Grade",
       "Percentage": 41,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 11152
     },
     {
       "ID": "FourthGrade",
       "SetID": "6l18k14",
       "Name": "4th Grade",
       "Percentage": 0.4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 109
     },
     {
       "ID": "FullHouse",
       "SetID": "6l18k14",
       "Name": "Full House",
       "Percentage": 0.7,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 190
     },
     {
       "ID": "Graduated",
       "SetID": "6l18k14",
       "Name": "Graduated",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "InTheHonorRoll",
       "SetID": "6l18k14",
       "Name": "In The Honor Roll",
       "Percentage": 10,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 2720
     },
     {
       "ID": "Librarian",
       "SetID": "6l18k14",
       "Name": "Librarian",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "ProdigyOfAllTrades",
       "SetID": "6l18k14",
       "Name": "Prodigy of all Trades",
       "Percentage": 0.4,
-      "XP": 75
+      "XP": 75,
+      "UsersEstimate": 109
     },
     {
       "ID": "SecondGrade",
       "SetID": "6l18k14",
       "Name": "2nd Grade",
       "Percentage": 2,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 544
     },
     {
       "ID": "SelfSufficient",
       "SetID": "6l18k14",
       "Name": "Self-Sufficient",
       "Percentage": 0.4,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 109
     },
     {
       "ID": "SmarterThanA5thGrader",
       "SetID": "6l18k14",
       "Name": "Smarter than a 5th Grader",
       "Percentage": 35,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 9520
     },
     {
       "ID": "StudySession",
       "SetID": "6l18k14",
       "Name": "Study Session",
       "Percentage": 31,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 8432
     },
     {
       "ID": "ThirdGrade",
       "SetID": "6l18k14",
       "Name": "3rd Grade",
       "Percentage": 0.7,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 190
     },
     {
       "ID": "Unlucky",
       "SetID": "6l18k14",
       "Name": "Unlucky",
       "Percentage": 19,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 5168
     }
   ],
   "Tags": [],
@@ -194,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-04T22:06:59.1909696+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:57.5956755+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-04T22:06:59.1909833+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:01:08.7904912+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:57.5956891+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:19:07.798907+00:00",
   "AchievementSets": [
     {
       "ID": "6l18k14",

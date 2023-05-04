@@ -1,4 +1,5 @@
 # Bridge Constructor The Walking Dead
+[View Rawdata](../../db/b/bridge_constructor_the_walking_dead.json)  
 Rating: 3.92 (Ranked 891)  
 Number of Ratings: 104  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,8 +7,8 @@ Max (Challenging Puzzles): 29  (Ranked 447)
 Sum: 29 (Ranked 459)  
 Diff (max vs sum): -12  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

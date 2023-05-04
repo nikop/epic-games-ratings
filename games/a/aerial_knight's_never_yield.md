@@ -1,7 +1,8 @@
 # Aerial_Knight's Never Yield
+[View Rawdata](../../db/a/aerial_knight's_never_yield.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

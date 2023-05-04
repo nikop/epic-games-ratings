@@ -1,21 +1,22 @@
 # Luna's Fishing Garden
+[View Rawdata](../../db/l/luna's_fishing_garden.json)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| A Feel for the Reel | 84.00 |
-| Anything Else? | 83.00 |
-| The Ones that Got Away | 68.00 |
-| Immortal | 40.00 |
-| Up! | 34.00 |
-| Bird Breeder | 27.00 |
-| Science Enthusiast | 27.00 |
-| Master Angler | 23.00 |
-| Fish Appreciation | 22.00 |
-| We're Gonna Need a Bigger Screen | 22.00 |
-| A Work of Art | 22.00 |
-| Cleanup Duty | 17.00 |
-| Hide and Seek | 15.00 |
-| Be Like the Lotus | 12.00 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| A Feel for the Reel | 84.00% | ~55,944 |
+| Anything Else? | 83.00% | ~55,278 |
+| The Ones that Got Away | 68.00% | ~45,288 |
+| Immortal | 40.00% | ~26,640 |
+| Up! | 34.00% | ~22,644 |
+| Bird Breeder | 27.00% | ~17,982 |
+| Science Enthusiast | 27.00% | ~17,982 |
+| Master Angler | 23.00% | ~15,318 |
+| Fish Appreciation | 22.00% | ~14,652 |
+| We're Gonna Need a Bigger Screen | 22.00% | ~14,652 |
+| A Work of Art | 22.00% | ~14,652 |
+| Cleanup Duty | 17.00% | ~11,322 |
+| Hide and Seek | 15.00% | ~9,990 |
+| Be Like the Lotus | 12.00% | ~7,992 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 666 (Ranked 176)  
 Completed: 42 (6.31%) (Ranked 21)  

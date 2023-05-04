@@ -7,217 +7,248 @@
       "SetID": "dkj0bmo",
       "Name": "0x40000000",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "COLLECTIBLE_KB",
       "SetID": "dkj0bmo",
       "Name": "0x400",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "COLLECTIBLE_MB",
       "SetID": "dkj0bmo",
       "Name": "0x100000",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "COLLECTIBLE_TB",
       "SetID": "dkj0bmo",
       "Name": "0x10000000000",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_GB",
       "SetID": "dkj0bmo",
       "Name": "2^30",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_KB",
       "SetID": "dkj0bmo",
       "Name": "2^10",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_LAUNCHES",
       "SetID": "dkj0bmo",
       "Name": "O(1)",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_MB",
       "SetID": "dkj0bmo",
       "Name": "2^20",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_SACRIFICE",
       "SetID": "dkj0bmo",
       "Name": "ALT\u002BF4",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_TB",
       "SetID": "dkj0bmo",
       "Name": "2^40",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_TIME_GB",
       "SetID": "dkj0bmo",
       "Name": "Multi-Threaded - GB Mode",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_TIME_KB",
       "SetID": "dkj0bmo",
       "Name": "Multi-Threaded - KB Mode",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_TIME_MB",
       "SetID": "dkj0bmo",
       "Name": "Multi-Threaded - MB Mode",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_TIME_TB",
       "SetID": "dkj0bmo",
       "Name": "Multi-Threaded - TB Mode",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_1",
       "SetID": "dkj0bmo",
       "Name": "Hello, World!",
       "Percentage": 23,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 299
     },
     {
       "ID": "LEVEL_2",
       "SetID": "dkj0bmo",
       "Name": "Gear Up",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_3",
       "SetID": "dkj0bmo",
       "Name": "Leap of Faith",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_4",
       "SetID": "dkj0bmo",
       "Name": "Follow The Wind",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_5",
       "SetID": "dkj0bmo",
       "Name": "To The Stars",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_6",
       "SetID": "dkj0bmo",
       "Name": "Make A Wish",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_7",
       "SetID": "dkj0bmo",
       "Name": "Sinking Feeling",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "LEVEL_8",
       "SetID": "dkj0bmo",
       "Name": "Don\u0027t Byte Your Tongue",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_CHALLENGE",
       "SetID": "dkj0bmo",
       "Name": "I Need A Challenge",
       "Percentage": 38,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 494
     },
     {
       "ID": "NPC_CHAT",
       "SetID": "dkj0bmo",
       "Name": "Hello, Friend!",
       "Percentage": 38,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 494
     },
     {
       "ID": "NPC_CHAT_ALL",
       "SetID": "dkj0bmo",
       "Name": "One Way Communication",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "NPC_ROAST",
       "SetID": "dkj0bmo",
       "Name": "What\u0027s so hard about going up?",
       "Percentage": 15,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 195
     },
     {
       "ID": "NPC_ROAST_ALL",
       "SetID": "dkj0bmo",
       "Name": "Clown Bot",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "STATS_LAUNCHES",
       "SetID": "dkj0bmo",
       "Name": "Stress Testing - Launches",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "STATS_SLAM_JUMPS",
       "SetID": "dkj0bmo",
       "Name": "Stress Testing - Slam Jumps",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "STATS_WALL_JUMPS",
       "SetID": "dkj0bmo",
       "Name": "Stress Testing - Wall Jumps",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "UNLOCK_ALL",
       "SetID": "dkj0bmo",
       "Name": "Byte-Sized Achievement",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -236,13 +267,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:06:42.0774266+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:45.0449379+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 13,
-  "LastUpdate_Achievements": "2023-05-04T22:06:42.0774503+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:08.0527932+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:45.0449745+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:28.0631911+00:00",
   "AchievementSets": [
     {
       "ID": "dkj0bmo",
@@ -253,7 +284,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 299,
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00"

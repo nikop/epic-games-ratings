@@ -7,231 +7,264 @@
       "SetID": "1f0d2e2",
       "Name": "When ACE met AYLA",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BIRDSPEAKER",
       "SetID": "1f0d2e2",
       "Name": "Simulacrum",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_HERSCHEL",
       "SetID": "1f0d2e2",
       "Name": "Kats always land on their feet",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_ODUM",
       "SetID": "1f0d2e2",
       "Name": "Quick like a Kat",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_UNISON",
       "SetID": "1f0d2e2",
       "Name": "Kat-like reflexes",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CHALLENGE_ZEPHYR",
       "SetID": "1f0d2e2",
       "Name": "Stellar extra-vehicular activities score",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CLIMB_FIRST",
       "SetID": "1f0d2e2",
       "Name": "Getting the hang of it",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_ASTROCHAT",
       "SetID": "1f0d2e2",
       "Name": "Reading is fundamental",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_ASTROCHAT_ALL",
       "SetID": "1f0d2e2",
       "Name": "Peruser",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_COMIC",
       "SetID": "1f0d2e2",
       "Name": "The beginning of a beautiful collection",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_COMIC_ALL",
       "SetID": "1f0d2e2",
       "Name": "Pannapictagraphist",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_HOLOGRAM",
       "SetID": "1f0d2e2",
       "Name": "Take a look",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_HOLOGRAM_ALL",
       "SetID": "1f0d2e2",
       "Name": "Cinephile",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_PROFILE",
       "SetID": "1f0d2e2",
       "Name": "Piecing the story together",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_PROFILE_ALL",
       "SetID": "1f0d2e2",
       "Name": "Curiosity didn\u0027t kill the Kat",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_PROFILE_FOUR",
       "SetID": "1f0d2e2",
       "Name": "As the story unfolds...",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_ROVER",
       "SetID": "1f0d2e2",
       "Name": "Their batteries were low and it got dark",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_SCANNABLE",
       "SetID": "1f0d2e2",
       "Name": "Better jot that down",
       "Percentage": 0,
-      "XP": 5
+      "XP": 5,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_COLLECT_SCANNABLE_ALL",
       "SetID": "1f0d2e2",
       "Name": "Chronicler",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_CRASHSITE",
       "SetID": "1f0d2e2",
       "Name": "On the Precipice",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_EARTHCAMPUS",
       "SetID": "1f0d2e2",
       "Name": "Moonbear",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_EPILOGUE",
       "SetID": "1f0d2e2",
       "Name": "Delivered Us Mars",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_HABITAS1",
       "SetID": "1f0d2e2",
       "Name": "The Dream for These Folks",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_HABITAS2",
       "SetID": "1f0d2e2",
       "Name": "Like Animals",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_HERSCHEL",
       "SetID": "1f0d2e2",
       "Name": "A Nice Place to Live",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_ODUM",
       "SetID": "1f0d2e2",
       "Name": "Not the Rabbits, Not the Bees",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_PROLOGUE",
       "SetID": "1f0d2e2",
       "Name": "Home Is...",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_UNISON",
       "SetID": "1f0d2e2",
       "Name": "Wants and Needs",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_WRECKAGE",
       "SetID": "1f0d2e2",
       "Name": "Desperate Times",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_ZEPHYR",
       "SetID": "1f0d2e2",
       "Name": "Want to Go to Space?",
       "Percentage": 0,
-      "XP": 10
+      "XP": 10,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_MARSWORM",
       "SetID": "1f0d2e2",
       "Name": "Shai-Hulud?",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PRISONROOM",
       "SetID": "1f0d2e2",
       "Name": "The Gang",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_RYAN_WAIT",
       "SetID": "1f0d2e2",
       "Name": "Who waits five minutes, seriously?",
       "Percentage": 0,
-      "XP": 25
+      "XP": 25,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -252,13 +285,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-04T22:06:43.9724793+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:46.3521124+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T22:06:43.9725185+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:00:08.8099581+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:46.3521453+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:28.6935715+00:00",
   "AchievementSets": [
     {
       "ID": "1f0d2e2",
@@ -274,7 +307,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 322,
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00"

@@ -1,4 +1,5 @@
 # Wildermyth
+[View Rawdata](../../db/w/wildermyth.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 45  (23.09.2022)  
 ## Popularity (Based on Awards)
@@ -6,64 +7,64 @@ Max (Character Customization): 27  (Ranked 454)
 Sum: 27 (Ranked 462)  
 Diff (max vs sum): -8  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
-| The Cost of Heroism | 28.00 |
-| Me and My Familiar | 26.00 |
-| This Too Shall Pass | 22.00 |
-| Passing Shadow | 21.00 |
-| Cutthroat Competitors | 21.00 |
-| How Romantic! | 20.00 |
-| Daybreak | 19.00 |
-| Gotta Ca... Must Collect All of Them | 18.00 |
-| Completing the Look | 10.00 |
-| War Endured | 10.00 |
-| A Mythic Menagerie | 9.00 |
-| Who's Counting? | 9.00 |
-| Core Failure | 9.00 |
-| Pyrrhic Victory | 7.00 |
-| Thematic Divergence | 6.00 |
-| Chain Reaction | 6.00 |
-| Echoes Die | 6.00 |
-| Everfading | 5.00 |
-| Another Tale to Tell | 5.00 |
-| A Story of Heroes | 5.00 |
-| Let Me Get My Chisel | 4.00 |
-| Plague Doctor | 4.00 |
-| All My Birds, Safely Home | 4.00 |
-| Turncoat | 4.00 |
-| Worldwalker | 3.00 |
-| Legends Never Die | 3.00 |
-| In Soil, In Smoke | 3.00 |
-| A Hunger, Sated | 3.00 |
-| Wingknight's Prowess | 3.00 |
-| No Time for Clawmonsters | 3.00 |
-| We Emerge Changed | 2.00 |
-| Storied Past | 2.00 |
-| The Power of Friendship | 2.00 |
-| Empty the Caves | 2.00 |
-| Bonebreakers | 2.00 |
-| No More Nightmares | 2.00 |
-| Bears are Scary | 2.00 |
-| Fight Like a Bird | 2.00 |
-| Grillmaster | 2.00 |
-| Some Say I'm Too Flashy | 2.00 |
-| Into Mulch | 2.00 |
-| Astrology | 2.00 |
-| Tempest | 2.00 |
-| Lochias's Hunger | 2.00 |
-| Drauvenslayers | 1.00 |
-| Back into the Sea | 1.00 |
-| War-Ender | 1.00 |
-| Solid as the Hills | 1.00 |
-| Symbiosis | 1.00 |
-| Thwack! | 1.00 |
-| I'm Not Smiling | 0.70 |
-| A Temperamental Shrub | 0.70 |
-| A Lowly Crust of Beef | 0.60 |
-| We Call That Mortificient! | 0.50 |
-| Overwhelming Monstrosity | 0.30 |
-| Peacemaker | 0.30 |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| The Cost of Heroism | 28.00% | ~31,388 |
+| Me and My Familiar | 26.00% | ~29,146 |
+| This Too Shall Pass | 22.00% | ~24,662 |
+| Passing Shadow | 21.00% | ~23,541 |
+| Cutthroat Competitors | 21.00% | ~23,541 |
+| How Romantic! | 20.00% | ~22,420 |
+| Daybreak | 19.00% | ~21,299 |
+| Gotta Ca... Must Collect All of Them | 18.00% | ~20,178 |
+| Completing the Look | 10.00% | ~11,210 |
+| War Endured | 10.00% | ~11,210 |
+| A Mythic Menagerie | 9.00% | ~10,089 |
+| Who's Counting? | 9.00% | ~10,089 |
+| Core Failure | 9.00% | ~10,089 |
+| Pyrrhic Victory | 7.00% | ~7,847 |
+| Thematic Divergence | 6.00% | ~6,726 |
+| Chain Reaction | 6.00% | ~6,726 |
+| Echoes Die | 6.00% | ~6,726 |
+| Everfading | 5.00% | ~5,605 |
+| Another Tale to Tell | 5.00% | ~5,605 |
+| A Story of Heroes | 5.00% | ~5,605 |
+| Let Me Get My Chisel | 4.00% | ~4,484 |
+| Plague Doctor | 4.00% | ~4,484 |
+| All My Birds, Safely Home | 4.00% | ~4,484 |
+| Turncoat | 4.00% | ~4,484 |
+| Worldwalker | 3.00% | ~3,363 |
+| Legends Never Die | 3.00% | ~3,363 |
+| In Soil, In Smoke | 3.00% | ~3,363 |
+| A Hunger, Sated | 3.00% | ~3,363 |
+| Wingknight's Prowess | 3.00% | ~3,363 |
+| No Time for Clawmonsters | 3.00% | ~3,363 |
+| We Emerge Changed | 2.00% | ~2,242 |
+| Storied Past | 2.00% | ~2,242 |
+| The Power of Friendship | 2.00% | ~2,242 |
+| Empty the Caves | 2.00% | ~2,242 |
+| Bonebreakers | 2.00% | ~2,242 |
+| No More Nightmares | 2.00% | ~2,242 |
+| Bears are Scary | 2.00% | ~2,242 |
+| Fight Like a Bird | 2.00% | ~2,242 |
+| Grillmaster | 2.00% | ~2,242 |
+| Some Say I'm Too Flashy | 2.00% | ~2,242 |
+| Into Mulch | 2.00% | ~2,242 |
+| Astrology | 2.00% | ~2,242 |
+| Tempest | 2.00% | ~2,242 |
+| Lochias's Hunger | 2.00% | ~2,242 |
+| Drauvenslayers | 1.00% | ~1,121 |
+| Back into the Sea | 1.00% | ~1,121 |
+| War-Ender | 1.00% | ~1,121 |
+| Solid as the Hills | 1.00% | ~1,121 |
+| Symbiosis | 1.00% | ~1,121 |
+| Thwack! | 1.00% | ~1,121 |
+| I'm Not Smiling | 0.70% | ~785 |
+| A Temperamental Shrub | 0.70% | ~785 |
+| A Lowly Crust of Beef | 0.60% | ~673 |
+| We Call That Mortificient! | 0.50% | ~560 |
+| Overwhelming Monstrosity | 0.30% | ~336 |
+| Peacemaker | 0.30% | ~336 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,121 (Ranked 154)  
 Completed: 3 (0.27%) (Ranked 123)  

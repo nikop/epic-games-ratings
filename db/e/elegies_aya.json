@@ -7,91 +7,104 @@
       "SetID": "1em00ld",
       "Name": "You\u0027ve met with a terrible fate haven\u0027t you?",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH1",
       "SetID": "1em00ld",
       "Name": "Nothing in life is to be feared",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH2",
       "SetID": "1em00ld",
       "Name": "Late night investigation",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH3",
       "SetID": "1em00ld",
       "Name": "Knock knock",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH4",
       "SetID": "1em00ld",
       "Name": "It\u0027s a trap!",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH5",
       "SetID": "1em00ld",
       "Name": "Like a ninja!",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH6",
       "SetID": "1em00ld",
       "Name": "Lights out",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH7",
       "SetID": "1em00ld",
       "Name": "Payback",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CH8",
       "SetID": "1em00ld",
       "Name": "The end... or is it?",
       "Percentage": 0,
-      "XP": 50
+      "XP": 50,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_E1",
       "SetID": "1em00ld",
       "Name": "Wrong turn",
       "Percentage": 0,
-      "XP": 100
+      "XP": 100,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_E2",
       "SetID": "1em00ld",
       "Name": "Happy ever after",
       "Percentage": 0,
-      "XP": 125
+      "XP": 125,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_E3",
       "SetID": "1em00ld",
       "Name": "Never fade away",
       "Percentage": 0,
-      "XP": 125
+      "XP": 125,
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_E4",
       "SetID": "1em00ld",
       "Name": "Thank you for playing!",
       "Percentage": 0,
-      "XP": 200
+      "XP": 200,
+      "UsersEstimate": 0
     }
   ],
   "Tags": [],
@@ -99,13 +112,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:06:32.3595141+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:24:37.6885986+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:06:32.3595245+00:00",
-  "LastUpdate_Ratings": "2023-05-04T21:59:32.5634382+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:24:37.6886146+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:18:05.0480913+00:00",
   "AchievementSets": [
     {
       "ID": "1em00ld",
@@ -116,7 +129,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00"

@@ -1,9 +1,10 @@
 # Untitled Goose Game
+[View Rawdata](../../db/u/untitled_goose_game.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 109  (23.09.2022)  
 ## Achievements
-| Name | Percentage |
-| ---- | ---------- |
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
