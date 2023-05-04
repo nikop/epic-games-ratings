@@ -6,42 +6,42 @@
       "ID": "Achievement_GarbageCollector",
       "SetID": "436h0ek",
       "Name": "Garbage collector",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 90
     },
     {
       "ID": "Achievement_IAmSpeed",
       "SetID": "436h0ek",
       "Name": "I am speed!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200
     },
     {
       "ID": "Achievement_ItsSafeHere",
       "SetID": "436h0ek",
       "Name": "It\u0027s safe here!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200
     },
     {
       "ID": "Achievement_NoOneWillHearYou",
       "SetID": "436h0ek",
       "Name": "No one will hear you!",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 20
     },
     {
       "ID": "Achievement_OmNomNom",
       "SetID": "436h0ek",
       "Name": "Om nom nom",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 200
     },
     {
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200
     },
     {
@@ -63,30 +63,35 @@
       "Time": "2023-05-04T04:00:52.6988279+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:07.0548549+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 7,
-  "LastChanged_Achievements": "2023-05-04T19:39:34.5794063+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:07.0548541+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
-  "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T19:39:34.579413+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:59.8213309+00:00",
+  "EOS_Progressed": 5,
+  "LastUpdate_Achievements": "2023-05-04T22:06:07.0548618+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:42.2709996+00:00",
   "AchievementSets": [
     {
       "ID": "436h0ek",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 322,
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00"
 }

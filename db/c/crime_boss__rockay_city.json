@@ -285,7 +285,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 210
+      "Count": 212
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1396,6 +1396,21 @@
     {
       "Time": "2023-05-04T19:40:12.2235824+00:00",
       "NumProgressed": 58612,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-04T20:06:06.0705205+00:00",
+      "NumProgressed": 58616,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-04T21:06:07.1850589+00:00",
+      "NumProgressed": 58621,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-04T22:06:55.8727008+00:00",
+      "NumProgressed": 58627,
       "NumCompleted": 26
     }
   ],
@@ -2527,32 +2542,38 @@
       "Rating": 3.93,
       "NumberOfAwards": 1077,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-05-04T22:00:55.7889059+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1079,
+      "NumberOfAwardsMax": 231
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-04T19:40:12.2235819+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:55.8727+00:00",
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 2362,
+  "EOS_NewPlayers": 2347,
   "EOS_Completed": 26,
-  "EOS_Progressed": 58612,
-  "LastUpdate_Achievements": "2023-05-04T19:40:12.2236182+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:28.0789855+00:00",
+  "EOS_Progressed": 58627,
+  "LastUpdate_Achievements": "2023-05-04T22:06:55.8727354+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:55.7889064+00:00",
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 58612,
+      "Progressed": 58627,
       "Completed": 26
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "LastChanged": "2023-05-04T15:00:25.9037697+00:00",
+  "LastChanged": "2023-05-04T22:00:55.7889056+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 231,
-  "NumberOfAwards": 1077,
+  "NumberOfAwards": 1079,
   "Ranking_EOS_NewCompleters": 29,
   "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_Completed": 167,

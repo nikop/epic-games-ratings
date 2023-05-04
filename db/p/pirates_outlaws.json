@@ -889,13 +889,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 124,
-  "LastChanged_Achievements": "2023-05-04T19:40:20.7759897+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:07:07.1025644+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-04T19:40:20.7761755+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:47.2418778+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:07:07.1027642+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:01:23.9939028+00:00",
   "AchievementSets": [
     {
       "ID": "5bahml4",
@@ -910,8 +910,8 @@
   "FirstSeen": "2022-12-12T14:58:21.7862512+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 251,
   "FirstSeenAchievements": "2023-04-25T16:42:15.3224895+00:00"

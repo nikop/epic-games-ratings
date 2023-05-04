@@ -483,7 +483,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1216,6 +1216,16 @@
     {
       "Time": "2023-05-04T19:40:08.545615+00:00",
       "NumProgressed": 60621,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-04T20:06:02.5570345+00:00",
+      "NumProgressed": 60622,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-04T21:06:03.8385851+00:00",
+      "NumProgressed": 60625,
       "NumCompleted": 89
     }
   ],
@@ -2085,39 +2095,45 @@
       "Rating": 4.17,
       "NumberOfAwards": 3616,
       "NumberOfAwardsMax": 2187
+    },
+    {
+      "Time": "2023-05-04T22:00:36.6193316+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3617,
+      "NumberOfAwardsMax": 2187
     }
   ],
   "TotalAchievementsXP": 1390,
   "TotalAchievements": 61,
-  "LastChanged_Achievements": "2023-05-04T19:40:08.5456145+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:51.8052875+00:00",
   "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 227,
   "EOS_Completed": 89,
-  "EOS_Progressed": 60621,
-  "LastUpdate_Achievements": "2023-05-04T19:40:08.5456763+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:15.380276+00:00",
+  "EOS_Progressed": 60625,
+  "LastUpdate_Achievements": "2023-05-04T22:06:51.8053553+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:36.619332+00:00",
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60621,
+      "Progressed": 60625,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30901,
+      "Progressed": 30905,
       "Completed": 2628
     }
   ],
   "EOS_Completed_Percentage": 0.15,
-  "LastChanged": "2023-05-04T05:59:53.8579462+00:00",
+  "LastChanged": "2023-05-04T22:00:36.6193314+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2187,
-  "NumberOfAwards": 3616,
-  "Ranking_EOS_NewCompleters": 35,
+  "NumberOfAwards": 3617,
+  "Ranking_EOS_NewCompleters": 36,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_Progress": 66,

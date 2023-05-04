@@ -15,17 +15,17 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.60% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.65% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
+| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 5.32% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 5.16% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
-| 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
+| 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
@@ -77,7 +77,7 @@
 | 75 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
-| 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
+| 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
 | 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
@@ -132,8 +132,8 @@
 | 129 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
 | 131 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 133 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
+| 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
+| 134 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 136 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
@@ -345,6 +345,7 @@
 | 191 | [Strawhart](games/s/strawhart.md) | 0.00% |
 | 191 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
 | 191 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
+| 191 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 0.00% |
 | 191 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
 | 191 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 0.00% |
 | 191 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 0.00% |
@@ -376,4 +377,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,554 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,555 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

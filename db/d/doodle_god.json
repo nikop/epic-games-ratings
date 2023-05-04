@@ -195,13 +195,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T19:40:03.5672102+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:44.7660159+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 8,
   "EOS_Progressed": 197,
-  "LastUpdate_Achievements": "2023-05-04T19:40:03.5672253+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:01.0632922+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:44.7660401+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:13.3434821+00:00",
   "AchievementSets": [
     {
       "ID": "4lpaifm",
@@ -216,9 +216,9 @@
   "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Progress": 222,
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00"
 }

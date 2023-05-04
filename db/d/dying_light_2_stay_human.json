@@ -529,7 +529,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 432
+      "Count": 435
     }
   ],
   "EosHistory": [
@@ -1616,6 +1616,21 @@
     {
       "Time": "2023-05-04T19:40:12.2823518+00:00",
       "NumProgressed": 539957,
+      "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-04T20:06:06.3185871+00:00",
+      "NumProgressed": 539979,
+      "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-04T21:06:07.5039492+00:00",
+      "NumProgressed": 540035,
+      "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-04T22:06:56.2196039+00:00",
+      "NumProgressed": 540072,
       "NumCompleted": 46
     }
   ],
@@ -5673,39 +5688,45 @@
       "Rating": 4.57,
       "NumberOfAwards": 15888,
       "NumberOfAwardsMax": 6866
+    },
+    {
+      "Time": "2023-05-04T20:59:52.6232745+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15891,
+      "NumberOfAwardsMax": 6866
     }
   ],
   "TotalAchievementsXP": 1200,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-04T19:40:12.282351+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:56.2196031+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 8448,
+  "EOS_NewPlayers": 8376,
   "EOS_Completed": 46,
-  "EOS_Progressed": 539957,
-  "LastUpdate_Achievements": "2023-05-04T19:40:12.2824254+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:24.4945876+00:00",
+  "EOS_Progressed": 540072,
+  "LastUpdate_Achievements": "2023-05-04T22:06:56.219732+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:50.9164944+00:00",
   "AchievementSets": [
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 539957,
+      "Progressed": 540072,
       "Completed": 46
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 185401,
+      "Progressed": 185516,
       "Completed": 1412
     }
   ],
   "EOS_Completed_Percentage": 0.01,
-  "LastChanged": "2023-05-04T18:59:19.8540843+00:00",
+  "LastChanged": "2023-05-04T20:59:52.623274+00:00",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6866,
-  "NumberOfAwards": 15888,
+  "NumberOfAwards": 15891,
   "NumberOfRatings": 7305,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_Progress": 22,

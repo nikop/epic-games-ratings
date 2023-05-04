@@ -41,7 +41,7 @@
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100
     },
     {
@@ -69,7 +69,7 @@
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50
     },
     {
@@ -83,7 +83,7 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10
     },
     {
@@ -97,14 +97,14 @@
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50
     },
     {
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10
     },
     {
@@ -118,7 +118,7 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10
     },
     {
@@ -230,7 +230,7 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10
     },
     {
@@ -272,7 +272,7 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10
     },
     {
@@ -1454,6 +1454,21 @@
       "Time": "2023-05-04T19:39:42.90641+00:00",
       "NumProgressed": 453972,
       "NumCompleted": 678
+    },
+    {
+      "Time": "2023-05-04T20:05:32.3452381+00:00",
+      "NumProgressed": 454122,
+      "NumCompleted": 682
+    },
+    {
+      "Time": "2023-05-04T21:05:34.2591732+00:00",
+      "NumProgressed": 454466,
+      "NumCompleted": 686
+    },
+    {
+      "Time": "2023-05-04T22:06:17.8973481+00:00",
+      "NumProgressed": 454758,
+      "NumCompleted": 689
     }
   ],
   "RatingHistory": [
@@ -1910,19 +1925,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T19:39:42.9064095+00:00",
-  "EOS_NewCompleters": 465,
-  "EOS_NewPlayers": 94733,
-  "EOS_Completed": 678,
-  "EOS_Progressed": 453972,
-  "LastUpdate_Achievements": "2023-05-04T19:39:42.906453+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:04.8301514+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:17.8973472+00:00",
+  "EOS_NewCompleters": 471,
+  "EOS_NewPlayers": 93718,
+  "EOS_Completed": 689,
+  "EOS_Progressed": 454758,
+  "LastUpdate_Achievements": "2023-05-04T22:06:17.8973975+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:49.0676108+00:00",
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 453972,
-      "Completed": 678
+      "Progressed": 454758,
+      "Completed": 689
     }
   ],
   "EOS_Completed_Percentage": 0.15,

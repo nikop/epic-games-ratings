@@ -3,7 +3,7 @@ Rating: 3.78 (Ranked 905)
 Number of Ratings: 22,103  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 1,022  (Ranked 133)  
-Sum: 9,046 (Ranked 82)  
+Sum: 9,047 (Ranked 82)  
 Diff (max vs sum): 51  
 ## Achievements
 | Name | Percentage |
@@ -38,9 +38,9 @@ Diff (max vs sum): 51
 | A Golden Age | 14.00 |
 | Challenge Accepted | 13.00 |
 | The Professional | 11.00 |
-| Chaos Tamer | 11.00 |
 | Free Refills | 11.00 |
 | Smooth Moves | 11.00 |
+| Chaos Tamer | 10.00 |
 | Neighborly | 10.00 |
 | Prankster | 8.00 |
 | Shopping Spree | 7.00 |
@@ -59,7 +59,7 @@ Diff (max vs sum): 51
 | Fiesta Time | 0.60 |
 | Untouchable | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,857 (Ranked 87)  
+Progressed: 21,909 (Ranked 87)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 20,930 | 1 |
 | 2023-05-02 | 21,231 | 1 |
 | 2023-05-03 | 21,560 | 1 |
-| 2023-05-04 | 21,857 | 1 |
+| 2023-05-04 | 21,909 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -82,7 +82,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | This game is Highly Recommended | 964 |
 | This game has Amazing Characters | 950 |
 | This game is Relaxing | 948 |
-| This game is Great for Beginners | 947 |
+| This game is Great for Beginners | 948 |
 | This game has Amazing Storytelling | 940 |
 | This game has Diverse Characters | 939 |
 | This game has Playful Visuals | 775 |
@@ -149,3 +149,4 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 3.78 | - | 1,022 | 9,040 |
 | 2023-05-02 | 3.78 | - | 1,022 | 9,043 |
 | 2023-05-03 | 3.78 | - | 1,022 | 9,046 |
+| 2023-05-04 | 3.78 | - | 1,022 | 9,047 |

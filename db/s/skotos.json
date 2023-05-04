@@ -14,13 +14,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-04T19:39:51.082987+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:28.646669+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:39:51.08299+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:22.912519+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:28.646673+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:13.8721565+00:00",
   "AchievementSets": [
     {
       "ID": "1enpn85",
@@ -35,9 +35,9 @@
   "FirstSeen": "2023-03-31T16:58:31.8527682+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T16:14:18.2788788+00:00"
 }

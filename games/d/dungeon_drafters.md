@@ -7,7 +7,7 @@
 | Setting Off | 35.00 |
 | Uncut Gem | 35.00 |
 | Friend! | 30.00 |
-| Clear as Water | 25.00 |
+| Clear as Water | 30.00 |
 | Shine! | 25.00 |
 | Dungeon Mastery | 20.00 |
 | Riddlesolver | 20.00 |

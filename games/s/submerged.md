@@ -1,5 +1,5 @@
 # Submerged
-Rating: 4.09 (Ranked 857)  
+Rating: 4.09 (Ranked 856)  
 Number of Ratings: 27  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

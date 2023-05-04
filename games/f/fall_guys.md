@@ -3,7 +3,7 @@ Rating: 4.53 (Ranked 488)
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 137,999  (Ranked 7)  
-Sum: 1,293,241 (Ranked 5)  
+Sum: 1,293,268 (Ranked 5)  
 Diff (max vs sum): 2  
 ## Achievements
 | Name | Percentage |
@@ -43,8 +43,8 @@ Diff (max vs sum): 2
 | Fall Guy Fashionista | 0.10 |
 | Infallible | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,371,354 (Ranked 1)  
-Completed: 28,883 (0.09%) (Ranked 155)  
+Progressed: 32,373,180 (Ranked 1)  
+Completed: 28,888 (0.09%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,14 +57,14 @@ Completed: 28,883 (0.09%) (Ranked 155)
 | 2023-05-01 | 32,325,532 | 28,800 |
 | 2023-05-02 | 32,342,752 | 28,842 |
 | 2023-05-03 | 32,358,290 | 28,864 |
-| 2023-05-04 | 32,371,354 | 28,883 |
+| 2023-05-04 | 32,373,180 | 28,888 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 137,999 |
 | This game is Relaxing | 129,539 |
-| This game has Competitive Players | 126,809 |
-| This game has Quickly Understood Controls | 126,792 |
+| This game has Competitive Players | 126,822 |
+| This game has Quickly Understood Controls | 126,806 |
 | This game is Great for Quick Sessions | 121,746 |
 | This game has Diverse Characters | 119,302 |
 | This game is Extremely Fun | 116,080 |
@@ -174,4 +174,4 @@ Completed: 28,883 (0.09%) (Ranked 155)
 | 2023-05-01 | 4.53 | - | 137,918 | 1,292,746 |
 | 2023-05-02 | 4.53 | - | 137,932 | 1,292,946 |
 | 2023-05-03 | 4.53 | - | 137,970 | 1,293,149 |
-| 2023-05-04 | 4.53 | - | 137,999 | 1,293,241 |
+| 2023-05-04 | 4.53 | - | 137,999 | 1,293,268 |

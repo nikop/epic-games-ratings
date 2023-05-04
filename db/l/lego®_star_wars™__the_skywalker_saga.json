@@ -111,7 +111,7 @@
       "ID": "COMPLETE_EPISODE_2",
       "SetID": "3fcpmbm",
       "Name": "Attack of the Clones",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20
     },
     {
@@ -353,7 +353,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 472
+      "Count": 473
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -671,6 +671,21 @@
     {
       "Time": "2023-05-04T19:40:19.6968198+00:00",
       "NumProgressed": 39256,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T20:06:15.0959992+00:00",
+      "NumProgressed": 39274,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T21:06:15.7758947+00:00",
+      "NumProgressed": 39311,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T22:07:05.8092962+00:00",
+      "NumProgressed": 39351,
       "NumCompleted": 160
     }
   ],
@@ -2523,34 +2538,40 @@
       "Rating": 4.79,
       "NumberOfAwards": 6265,
       "NumberOfAwardsMax": 2235
+    },
+    {
+      "Time": "2023-05-04T21:00:33.0303748+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6266,
+      "NumberOfAwardsMax": 2235
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T19:40:19.6968193+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:07:05.8092956+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 220,
   "EOS_Completed": 160,
-  "EOS_Progressed": 39256,
-  "LastUpdate_Achievements": "2023-05-04T19:40:19.696857+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:55.8272906+00:00",
+  "EOS_Progressed": 39351,
+  "LastUpdate_Achievements": "2023-05-04T22:07:05.8093332+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:01:38.3594303+00:00",
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 39256,
+      "Progressed": 39351,
       "Completed": 160
     }
   ],
   "EOS_Completed_Percentage": 0.41,
-  "LastChanged": "2023-05-04T08:59:47.24035+00:00",
+  "LastChanged": "2023-05-04T21:00:33.0303746+00:00",
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2235,
-  "NumberOfAwards": 6265,
+  "NumberOfAwards": 6266,
   "NumberOfRatings": 2536,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_Progress": 78,
   "Ranking_PopularitySum": 111,

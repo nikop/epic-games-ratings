@@ -131,7 +131,7 @@ Diff (max vs sum): 40
 | Never Too Many Hats | 0.40 |
 | Near Death Experience | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,744 (Ranked 41)  
+Progressed: 227,747 (Ranked 41)  
 Completed: 223 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 223 (0.10%) (Ranked 150)
 | 2023-05-01 | 227,568 | 223 |
 | 2023-05-02 | 227,639 | 223 |
 | 2023-05-03 | 227,692 | 223 |
-| 2023-05-04 | 227,744 | 223 |
+| 2023-05-04 | 227,747 | 223 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

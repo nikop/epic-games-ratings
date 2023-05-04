@@ -2654,6 +2654,21 @@
       "Time": "2023-05-04T19:40:21.1555211+00:00",
       "NumProgressed": 396246,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-05-04T20:06:16.7403364+00:00",
+      "NumProgressed": 396311,
+      "NumCompleted": 36
+    },
+    {
+      "Time": "2023-05-04T21:06:17.3827811+00:00",
+      "NumProgressed": 396473,
+      "NumCompleted": 36
+    },
+    {
+      "Time": "2023-05-04T22:07:07.481205+00:00",
+      "NumProgressed": 396616,
+      "NumCompleted": 36
     }
   ],
   "RatingHistory": [
@@ -7348,24 +7363,24 @@
   ],
   "TotalAchievementsXP": 5105,
   "TotalAchievements": 214,
-  "LastChanged_Achievements": "2023-05-04T19:40:21.1555205+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:07:07.4812045+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 27696,
+  "EOS_NewPlayers": 27458,
   "EOS_Completed": 36,
-  "EOS_Progressed": 396246,
-  "LastUpdate_Achievements": "2023-05-04T19:40:21.1560412+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:41.665925+00:00",
+  "EOS_Progressed": 396616,
+  "LastUpdate_Achievements": "2023-05-04T22:07:07.4817675+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:01:15.2127666+00:00",
   "AchievementSets": [
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 396246,
+      "Progressed": 396616,
       "Completed": 16
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 396246,
+      "Progressed": 396616,
       "Completed": 36
     }
   ],

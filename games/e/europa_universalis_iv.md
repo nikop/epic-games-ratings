@@ -46,12 +46,12 @@ Diff (max vs sum): 34
 | Down Under | 0.50 |
 | Electable! | 0.50 |
 | This navy can take it all | 0.50 |
-| Time Bandit | 0.50 |
 | Trustworthy | 0.50 |
 | All belongs to Mother Russia | 0.40 |
 | At every continent | 0.40 |
 | Early-Modern Warfare | 0.40 |
 | The pen is mightier than the sword | 0.40 |
+| Time Bandit | 0.40 |
 | Trophy Hunter | 0.40 |
 | Absolutely | 0.30 |
 | Dude, Where's my Boat? | 0.30 |
@@ -66,14 +66,12 @@ Diff (max vs sum): 34
 | This is My Faith | 0.30 |
 | Voting Streak | 0.30 |
 | A Decent Reserve | 0.20 |
-| A Protected Market | 0.20 |
 | All Your Trade Are Belong to Us | 0.20 |
 | Bleed Them Dry | 0.20 |
 | Four For Trade | 0.20 |
 | Global Hegemony | 0.20 |
 | Grand Coalition | 0.20 |
 | Grand Duchy | 0.20 |
-| Imperio español | 0.20 |
 | Italian Ambition | 0.20 |
 | Magellan’s Voyage | 0.20 |
 | Multiculturalism | 0.20 |
@@ -82,13 +80,13 @@ Diff (max vs sum): 34
 | The Chrysanthemum Throne | 0.20 |
 | Three Trivial Tributary Tribes | 0.20 |
 | Traditional Player | 0.20 |
-| Vasa or Wettin? | 0.20 |
 | Wonderful | 0.20 |
 | World Discoverer | 0.20 |
 | A Blessed Nation | 0.10 |
 | A Hero’s Welcome | 0.10 |
 | A Manchurian Candidate | 0.10 |
 | A Pile of Gold | 0.10 |
+| A Protected Market | 0.10 |
 | A Sun God | 0.10 |
 | A tale of two Families | 0.10 |
 | AAA Credit | 0.10 |
@@ -152,6 +150,7 @@ Diff (max vs sum): 34
 | Holiest Roman Empire | 0.10 |
 | Holy Horder | 0.10 |
 | Ideas Guy | 0.10 |
+| Imperio español | 0.10 |
 | Imposter Syndrome | 0.10 |
 | An Industrial Evolution | 0.10 |
 | Industrial Powerhouse | 0.10 |
@@ -248,6 +247,7 @@ Diff (max vs sum): 34
 | Trade Hegemon | 0.10 |
 | Turning the Tide | 0.10 |
 | Turtles all the way down | 0.10 |
+| Vasa or Wettin? | 0.10 |
 | Venetian Sea | 0.10 |
 | Viva la Revolución! | 0.10 |
 | Voltaire's Nightmare | 0.10 |
@@ -363,7 +363,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00 |
 | Yarr Harr a Pirate's Life For Me | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,327 (Ranked 82)  
+Progressed: 29,401 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 27,408 | 0 |
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
-| 2023-05-04 | 29,327 | 0 |
+| 2023-05-04 | 29,401 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,8 +2,8 @@
 Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 307  (Ranked 222)  
-Sum: 2,611 (Ranked 162)  
-Diff (max vs sum): 60  
+Sum: 2,611 (Ranked 163)  
+Diff (max vs sum): 59  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -47,7 +47,7 @@ Diff (max vs sum): 60
 | Move! That! Bus! | 0.60 |
 | G.O.A.T | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,473 (Ranked 45)  
+Progressed: 215,493 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 686 (0.32%) (Ranked 113)
 | 2023-05-01 | 215,144 | 686 |
 | 2023-05-02 | 215,267 | 686 |
 | 2023-05-03 | 215,383 | 686 |
-| 2023-05-04 | 215,473 | 686 |
+| 2023-05-04 | 215,493 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

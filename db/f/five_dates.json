@@ -62,7 +62,7 @@
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25
     },
     {
@@ -104,7 +104,7 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100
     }
   ],
@@ -174,6 +174,11 @@
       "Time": "2023-05-04T18:03:57.5872139+00:00",
       "NumProgressed": 343,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-04T20:05:39.1085838+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -186,18 +191,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T19:39:48.601937+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:25.2592965+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_Completed": 3,
-  "EOS_Progressed": 343,
-  "LastUpdate_Achievements": "2023-05-04T19:39:48.6019481+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:55.6749785+00:00",
+  "EOS_Progressed": 344,
+  "LastUpdate_Achievements": "2023-05-04T22:06:25.2593081+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:35.9097626+00:00",
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 3
     }
   ],
@@ -207,8 +212,8 @@
   "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_Progress": 198,
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00"

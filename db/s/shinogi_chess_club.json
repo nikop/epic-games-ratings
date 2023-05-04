@@ -105,13 +105,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T19:39:50.0810759+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:27.2253582+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-04T19:39:50.0810849+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:12.9745298+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:27.2253697+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:00.7683482+00:00",
   "AchievementSets": [
     {
       "ID": "3milekj",
@@ -126,9 +126,9 @@
   "FirstSeen": "2023-04-18T22:59:17.8138938+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 322,
   "FirstSeenAchievements": "2023-04-25T16:15:21.7881428+00:00"
 }

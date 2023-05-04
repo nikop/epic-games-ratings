@@ -91,7 +91,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 92
+      "Count": 94
     }
   ],
   "EosHistory": [],
@@ -2176,6 +2176,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 7685,
       "NumberOfAwardsMax": 3969
+    },
+    {
+      "Time": "2023-05-04T22:00:31.0317119+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 7687,
+      "NumberOfAwardsMax": 3969
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2184,20 +2190,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:38:45.9769269+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:11.8955326+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:04:57.6358983+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:31.0317125+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T18:59:06.410603+00:00",
+  "LastChanged": "2023-05-04T22:00:31.0317116+00:00",
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 3969,
-  "NumberOfAwards": 7685,
+  "NumberOfAwards": 7687,
   "NumberOfRatings": 4943,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 94,
   "Ranking_Popularity": 73,
   "Ranking_Rating": 18,

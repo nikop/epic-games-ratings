@@ -1373,6 +1373,21 @@
       "Time": "2023-05-04T19:39:43.0325659+00:00",
       "NumProgressed": 208504,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T20:05:32.4571331+00:00",
+      "NumProgressed": 208506,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T21:05:34.4120627+00:00",
+      "NumProgressed": 208511,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T22:06:18.0112175+00:00",
+      "NumProgressed": 208515,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -1643,18 +1658,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-04T19:39:43.0325654+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:18.0112167+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1033,
   "EOS_Completed": 2,
-  "EOS_Progressed": 208504,
-  "LastUpdate_Achievements": "2023-05-04T19:39:43.0325975+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:12.4134367+00:00",
+  "EOS_Progressed": 208515,
+  "LastUpdate_Achievements": "2023-05-04T22:06:18.0112685+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:59.7757764+00:00",
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 208504,
+      "Progressed": 208515,
       "Completed": 2
     }
   ],
@@ -1665,7 +1680,7 @@
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 276,
   "NumberOfAwards": 2089,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 47,

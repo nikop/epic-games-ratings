@@ -25,7 +25,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 856
+      "Count": 857
     },
     {
       "Text": "This game is Highly Recommended",
@@ -71,9 +71,9 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 723
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 769
     }
   ],
   "EosHistory": [],
@@ -2878,6 +2878,18 @@
       "Rating": 4.69,
       "NumberOfAwards": 7114,
       "NumberOfAwardsMax": 856
+    },
+    {
+      "Time": "2023-05-04T20:57:35.8734475+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7883,
+      "NumberOfAwardsMax": 856
+    },
+    {
+      "Time": "2023-05-04T21:58:01.8944386+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7884,
+      "NumberOfAwardsMax": 857
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2886,21 +2898,21 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:35:47.8816958+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:31.1894669+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:03:17.0992763+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:01.8944391+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T18:57:23.7678842+00:00",
+  "LastChanged": "2023-05-04T21:58:01.8944383+00:00",
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
   "MaxAwardTitle": "Extremely Fun",
-  "NumberOfAwardsMax": 856,
-  "NumberOfAwards": 7114,
+  "NumberOfAwardsMax": 857,
+  "NumberOfAwards": 7884,
   "NumberOfRatings": 2918,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
-  "Ranking_PopularitySum": 100,
+  "Ranking_EOS_Progress": 379,
+  "Ranking_PopularitySum": 92,
   "Ranking_Popularity": 142,
   "Ranking_Rating": 212,
   "Rating": 4.69

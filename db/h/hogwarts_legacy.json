@@ -314,7 +314,7 @@
       "ID": "PFA_9",
       "SetID": "1hf4dep",
       "Name": "Rising From the Ashes",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15
     }
   ],
@@ -347,7 +347,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 714
+      "Count": 716
     },
     {
       "Text": "This game is Extremely Fun",
@@ -371,7 +371,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 653
+      "Count": 660
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1436,6 +1436,21 @@
     {
       "Time": "2023-05-04T19:39:30.7765794+00:00",
       "NumProgressed": 265479,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-04T20:05:18.7270083+00:00",
+      "NumProgressed": 265484,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-04T21:05:20.6120292+00:00",
+      "NumProgressed": 265494,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-04T22:06:02.2826417+00:00",
+      "NumProgressed": 265496,
       "NumCompleted": 346
     }
   ],
@@ -3221,32 +3236,44 @@
       "Rating": 4.77,
       "NumberOfAwards": 33440,
       "NumberOfAwardsMax": 18359
+    },
+    {
+      "Time": "2023-05-04T19:57:13.7321817+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33442,
+      "NumberOfAwardsMax": 18359
+    },
+    {
+      "Time": "2023-05-04T21:57:29.6666112+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33449,
+      "NumberOfAwardsMax": 18359
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T19:39:30.7765788+00:00",
-  "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 1237,
+  "LastChanged_Achievements": "2023-05-04T22:06:02.2826408+00:00",
+  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1239,
   "EOS_Completed": 346,
-  "EOS_Progressed": 265479,
-  "LastUpdate_Achievements": "2023-05-04T19:39:30.7766222+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:09.9133624+00:00",
+  "EOS_Progressed": 265496,
+  "LastUpdate_Achievements": "2023-05-04T22:06:02.2827158+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:57:29.6666118+00:00",
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265479,
+      "Progressed": 265496,
       "Completed": 346
     }
   ],
   "EOS_Completed_Percentage": 0.13,
-  "LastChanged": "2023-05-04T19:32:09.913362+00:00",
+  "LastChanged": "2023-05-04T21:57:29.6666111+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18359,
-  "NumberOfAwards": 33440,
+  "NumberOfAwards": 33449,
   "Ranking_EOS_NewCompleters": 16,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_Completed": 144,

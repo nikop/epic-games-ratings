@@ -1,5 +1,5 @@
 # STAR WARS Jedi: Survivor™
-Rating: 4.38 (Ranked 687)  
+Rating: 4.38 (Ranked 686)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 130  (Ranked 291)  
 Sum: 130 (Ranked 383)  

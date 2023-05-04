@@ -83,7 +83,7 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10
     },
     {
@@ -3138,13 +3138,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T19:40:13.480244+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:57.4234097+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_Completed": 30,
   "EOS_Progressed": 14637,
-  "LastUpdate_Achievements": "2023-05-04T19:40:13.4802878+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:27.955475+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:57.4234598+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:55.5891112+00:00",
   "AchievementSets": [
     {
       "ID": "cfbk359",
@@ -3160,13 +3160,13 @@
   "NumberOfAwardsMax": 417,
   "NumberOfAwards": 3012,
   "NumberOfRatings": 1845,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 97,
   "Ranking_PopularitySum": 148,
   "Ranking_Popularity": 191,
-  "Ranking_Rating": 72,
+  "Ranking_Rating": 71,
   "Rating": 4.81,
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00"
 }

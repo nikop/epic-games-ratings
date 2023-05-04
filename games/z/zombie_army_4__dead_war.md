@@ -3,8 +3,8 @@ Rating: 4.69 (Ranked 212)
 Number of Ratings: 743  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 769  (Ranked 146)  
-Sum: 2,350 (Ranked 170)  
-Diff (max vs sum): -24  
+Sum: 2,350 (Ranked 171)  
+Diff (max vs sum): -25  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -75,7 +75,7 @@ Diff (max vs sum): -24
 | Just me and my trusty sidearm | 1.00 |
 | None more hard | 0.50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,201 (Ranked 76)  
+Progressed: 42,203 (Ranked 76)  
 Completed: 24 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 24 (0.06%) (Ranked 161)
 | 2023-05-01 | 42,178 | 24 |
 | 2023-05-02 | 42,182 | 24 |
 | 2023-05-03 | 42,196 | 24 |
-| 2023-05-04 | 42,201 | 24 |
+| 2023-05-04 | 42,203 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

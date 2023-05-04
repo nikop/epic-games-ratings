@@ -13,21 +13,21 @@
       "ID": "002",
       "SetID": "94k0mj8",
       "Name": "002",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100
     },
     {
       "ID": "003",
       "SetID": "94k0mj8",
       "Name": "003",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 80
     },
     {
       "ID": "004",
       "SetID": "94k0mj8",
       "Name": "004",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 80
     },
     {
@@ -167,6 +167,11 @@
     {
       "Time": "2023-05-03T13:06:53.0890838+00:00",
       "NumProgressed": 1865,
+      "NumCompleted": 133
+    },
+    {
+      "Time": "2023-05-04T20:05:15.4890166+00:00",
+      "NumProgressed": 1866,
       "NumCompleted": 133
     }
   ],
@@ -334,18 +339,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T19:39:28.0013921+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:05:58.5136726+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_Completed": 133,
-  "EOS_Progressed": 1865,
-  "LastUpdate_Achievements": "2023-05-04T19:39:28.00147+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:46.4810232+00:00",
+  "EOS_Progressed": 1866,
+  "LastUpdate_Achievements": "2023-05-04T22:05:58.5137346+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:23.5047368+00:00",
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 133
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 48,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_Completed": 18,
   "Ranking_EOS_Progress": 143,
   "Ranking_PopularitySum": 490,

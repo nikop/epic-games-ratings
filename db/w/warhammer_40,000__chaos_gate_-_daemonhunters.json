@@ -202,7 +202,7 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15
     },
     {
@@ -279,7 +279,7 @@
       "ID": "MissionVictory_Interceptors",
       "SetID": "3jha1np",
       "Name": "Warp Flickers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20
     },
     {
@@ -621,6 +621,11 @@
     {
       "Time": "2023-05-04T17:04:11.563824+00:00",
       "NumProgressed": 2573,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T21:05:46.8326876+00:00",
+      "NumProgressed": 2574,
       "NumCompleted": 0
     }
   ],
@@ -1045,24 +1050,24 @@
   ],
   "TotalAchievementsXP": 1150,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-04T19:39:53.8972074+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:32.4117618+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_Completed": 0,
-  "EOS_Progressed": 2573,
-  "LastUpdate_Achievements": "2023-05-04T19:39:53.8972579+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:21.8943098+00:00",
+  "EOS_Progressed": 2574,
+  "LastUpdate_Achievements": "2023-05-04T22:06:32.4118499+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:12.391888+00:00",
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2573,
+      "Progressed": 2574,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2573,
+      "Progressed": 2574,
       "Completed": 0
     }
   ],
@@ -1073,8 +1078,8 @@
   "NumberOfAwardsMax": 207,
   "NumberOfAwards": 415,
   "NumberOfRatings": 371,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 134,
   "Ranking_PopularitySum": 295,

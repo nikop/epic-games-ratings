@@ -34,7 +34,7 @@
 | Best in the field | 0.00 |
 | V is for Vegan | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 255)  
+Progressed: 75 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

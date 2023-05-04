@@ -1,5 +1,5 @@
 # Trackmania Turbo
-Rating: 4.81 (Ranked 72)  
+Rating: 4.81 (Ranked 71)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |

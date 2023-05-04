@@ -146,7 +146,7 @@
       "ID": "STB_FIND_ALL_SILVERWINGS",
       "SetID": "3pe2bac",
       "Name": "Silverwing nest",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60
     },
     {
@@ -1070,6 +1070,16 @@
       "Time": "2023-05-04T19:17:31.2518055+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T21:05:30.6636267+00:00",
+      "NumProgressed": 1868,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T22:06:13.9038721+00:00",
+      "NumProgressed": 1871,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1106,18 +1116,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T19:39:39.5725109+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:13.9038713+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 222,
   "EOS_Completed": 1,
-  "EOS_Progressed": 1866,
-  "LastUpdate_Achievements": "2023-05-04T19:39:39.5725607+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:28.0705784+00:00",
+  "EOS_Progressed": 1871,
+  "LastUpdate_Achievements": "2023-05-04T22:06:13.9039293+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:57:56.5733417+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1871,
       "Completed": 1
     }
   ],
@@ -1127,7 +1137,7 @@
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_Progress": 142,

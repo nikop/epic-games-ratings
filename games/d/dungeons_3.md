@@ -12,7 +12,7 @@ Diff (max vs sum): 52
 | The Evilest Evil | 60.00 |
 | Twistram is devastated | 59.00 |
 | The Gehenna Stones | 51.00 |
-| No one has to die today! | 47.00 |
+| No one has to die today! | 48.00 |
 | The Swamplanders from the swamplands | 46.00 |
 | Death and destruction! | 46.00 |
 | The One-Huge-Army-Building Evil | 43.00 |
@@ -45,7 +45,7 @@ Diff (max vs sum): 52
 | Lifeguard | 19.00 |
 | Flat as a pancake | 18.00 |
 | Can’t stand the sight of Dark Elf blood | 17.00 |
-| This is fun, I’m going to keep doing this! | 13.00 |
+| This is fun, I’m going to keep doing this! | 14.00 |
 | Then let them eat cake! | 13.00 |
 | Please, no interruptions! | 11.00 |
 | The White Knight | 10.00 |
@@ -56,21 +56,21 @@ Diff (max vs sum): 52
 | Can’t stand to see an Ogre bleed | 9.00 |
 | Lifesaver | 9.00 |
 | Prison Break | 9.00 |
+| Hearts are trump | 8.00 |
 | Spawner Killer | 7.00 |
 | A little something extra | 7.00 |
-| Hearts are trump | 7.00 |
 | The Benevolent Evil | 6.00 |
 | Band of Brothers | 5.00 |
 | Night of the Living Dead (on Speed) | 4.00 |
 | I need a hero! | 4.00 |
 | Storm And Stress | 3.00 |
+| Not a scratch | 3.00 |
 | I love the smell of Catapult fire! | 3.00 |
 | Discoverer | 2.00 |
-| Not a scratch | 2.00 |
 | Sacrifices! | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,642 (Ranked 96)  
-Completed: 140 (0.96%) (Ranked 78)  
+Progressed: 14,670 (Ranked 96)  
+Completed: 140 (0.95%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 140 (0.96%) (Ranked 78)
 | 2023-05-01 | 14,317 | 137 |
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
-| 2023-05-04 | 14,642 | 140 |
+| 2023-05-04 | 14,670 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

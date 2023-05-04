@@ -13,7 +13,7 @@
       "ID": "ACHV_BIGGERTHEYARE",
       "SetID": "cceobco",
       "Name": "The Bigger They Are",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30
     },
     {
@@ -41,7 +41,7 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30
     },
     {
@@ -62,7 +62,7 @@
       "ID": "ACHV_DOCKS",
       "SetID": "cceobco",
       "Name": "Starship Docks",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30
     },
     {
@@ -76,7 +76,7 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 60
     },
     {
@@ -111,14 +111,14 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30
     },
     {
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 60
     },
     {
@@ -132,7 +132,7 @@
       "ID": "ACHV_RIPPERDOC",
       "SetID": "cceobco",
       "Name": "Ripperdoc",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 60
     },
     {
@@ -188,7 +188,7 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 15
     },
     {
@@ -412,13 +412,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T19:40:06.2737723+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:48.644096+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 43,
   "EOS_Completed": 0,
   "EOS_Progressed": 57,
-  "LastUpdate_Achievements": "2023-05-04T19:40:06.273795+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:11.8032265+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:48.6441235+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:30.8396963+00:00",
   "AchievementSets": [
     {
       "ID": "cceobco",
@@ -433,7 +433,7 @@
   "FirstSeen": "2023-04-29T18:59:11.6482288+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 267,

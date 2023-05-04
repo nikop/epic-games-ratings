@@ -1,5 +1,5 @@
 # Fangs
-Rating: 4.09 (Ranked 857)  
+Rating: 4.09 (Ranked 856)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |

@@ -18,6 +18,7 @@ Diff (max vs sum): -92
 | You've been through a lot. | 2.00 |
 | People's feelings on these ones are very... Binary... | 2.00 |
 | I hope your remember your colour theory. | 2.00 |
+| Care to take a nap? | 2.00 |
 | Like wide, but upwards. | 2.00 |
 | Put the pieces together. | 2.00 |
 | Two cute little robots are better than one. | 2.00 |
@@ -26,7 +27,6 @@ Diff (max vs sum): -92
 | That's a wrap. | 2.00 |
 | In balance. | 2.00 |
 | I hope you're ready. | 1.00 |
-| Care to take a nap? | 1.00 |
 | Cockpit | 0.70 |
 | Witness it. | 0.70 |
 | Bridge crossed. | 0.60 |
@@ -37,7 +37,7 @@ Diff (max vs sum): -92
 | Snooper + | 0.40 |
 | Corrupted + | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,765 (Ranked 48)  
+Progressed: 188,781 (Ranked 48)  
 Completed: 406 (0.22%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 406 (0.22%) (Ranked 127)
 | 2023-05-01 | 188,524 | 402 |
 | 2023-05-02 | 188,621 | 404 |
 | 2023-05-03 | 188,702 | 404 |
-| 2023-05-04 | 188,765 | 406 |
+| 2023-05-04 | 188,781 | 406 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

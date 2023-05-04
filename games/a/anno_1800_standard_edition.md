@@ -1,9 +1,9 @@
 # Anno 1800 Standard Edition
-Rating: 4.82 (Ranked 59)  
+Rating: 4.81 (Ranked 71)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,260  (Ranked 120)  
-Sum: 9,753 (Ranked 79)  
+Sum: 9,761 (Ranked 79)  
 Diff (max vs sum): 41  
 ## Achievements
 | Name | Percentage |
@@ -14,12 +14,12 @@ Diff (max vs sum): 41
 | This game is Relaxing | 1,260 |
 | This game is Extremely Fun | 1,235 |
 | This game has Quickly Understood Controls | 1,190 |
-| This game is Highly Recommended | 1,164 |
+| This game is Highly Recommended | 1,171 |
 | This game is Educational | 1,136 |
 | This game has Amazing Storytelling | 1,111 |
 | This game has Diverse Characters | 1,033 |
 | This game has Amazing Characters | 969 |
-| This game has a Creative Community | 655 |
+| This game has a Creative Community | 656 |
 | This game has Beautiful Visuals | 654 |
 | This game has Obsessive Gameplay | 518 |
 ## Ratings History
@@ -143,4 +143,4 @@ Diff (max vs sum): 41
 | 2023-05-01 | 4.82 | - | 1,242 | 9,682 |
 | 2023-05-02 | 4.82 | - | 1,252 | 9,702 |
 | 2023-05-03 | 4.82 | - | 1,257 | 9,739 |
-| 2023-05-04 | 4.82 | - | 1,260 | 9,753 |
+| 2023-05-04 | 4.82 | - | 1,260 | 9,761 |

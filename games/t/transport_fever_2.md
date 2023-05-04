@@ -70,7 +70,7 @@ Diff (max vs sum): 79
 | Glacier express | 0.20 |
 | Museum line | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,027 (Ranked 158)  
+Progressed: 1,028 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 1,010 | 0 |
 | 2023-05-02 | 1,017 | 0 |
 | 2023-05-03 | 1,022 | 0 |
-| 2023-05-04 | 1,027 | 0 |
+| 2023-05-04 | 1,028 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

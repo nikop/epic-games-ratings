@@ -20,6 +20,7 @@
 | First Contact? | 14.00 |
 | Naroan History | 14.00 |
 | Playing with Time | 14.00 |
+| Coming in from the Cold | 14.00 |
 | Seeking Discovery | 14.00 |
 | Trekkie | 14.00 |
 | Not Too Long | 14.00 |
@@ -32,7 +33,6 @@
 | All of the Plunder | 0.00 |
 | Crew Love | 0.00 |
 | Escape from Mirios | 0.00 |
-| Coming in from the Cold | 0.00 |
 | Searching for Al'Shams | 0.00 |
 | Stopping the Supernova | 0.00 |
 | Saved the System | 0.00 |

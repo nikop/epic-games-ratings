@@ -3,7 +3,7 @@ Rating: 4.79 (Ranked 91)
 Number of Ratings: 2,536  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,235  (Ranked 97)  
-Sum: 6,265 (Ranked 111)  
+Sum: 6,266 (Ranked 111)  
 Diff (max vs sum): -14  
 ## Achievements
 | Name | Percentage |
@@ -17,7 +17,7 @@ Diff (max vs sum): -14
 | ''I can fly anything'' | 60.00 |
 | ''And who gave you permission...?'' | 56.00 |
 | A New Hope | 50.00 |
-| Attack of the Clones | 49.00 |
+| Attack of the Clones | 48.00 |
 | Revenge of the Sith | 42.00 |
 | The Empire Strikes Back | 39.00 |
 | ''A fine addition to my collection'' | 39.00 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -14
 | ''No more training, do you require'' | 1.00 |
 | ''I've never seen a real one!'' | 0.90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,256 (Ranked 78)  
+Progressed: 39,351 (Ranked 78)  
 Completed: 160 (0.41%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,12 +68,12 @@ Completed: 160 (0.41%) (Ranked 103)
 | 2023-05-01 | 39,157 | 160 |
 | 2023-05-02 | 39,164 | 160 |
 | 2023-05-03 | 39,171 | 160 |
-| 2023-05-04 | 39,256 | 160 |
+| 2023-05-04 | 39,351 | 160 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,235 |
-| This game has Diverse Characters | 472 |
+| This game has Diverse Characters | 473 |
 | This game has Amazing Characters | 465 |
 | This game is Great for Beginners | 462 |
 | This game is Highly Recommended | 451 |
@@ -178,4 +178,4 @@ Completed: 160 (0.41%) (Ranked 103)
 | 2023-04-29 | 4.79 | - | 2,233 | 6,259 |
 | 2023-04-30 | 4.79 | - | 2,233 | 6,261 |
 | 2023-05-02 | 4.79 | - | 2,234 | 6,263 |
-| 2023-05-04 | 4.79 | - | 2,235 | 6,265 |
+| 2023-05-04 | 4.79 | - | 2,235 | 6,266 |

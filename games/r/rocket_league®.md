@@ -2,8 +2,8 @@
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 401,779  (Ranked 2)  
-Sum: 2,740,004 (Ranked 2)  
+Max (Great for Quick Sessions): 402,582  (Ranked 2)  
+Sum: 2,745,546 (Ranked 2)  
 Diff (max vs sum): 0  
 ## Achievements
 | Name | Percentage |
@@ -97,8 +97,8 @@ Diff (max vs sum): 0
 | Virtuoso | 0.10 |
 | Winning is Winning | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,548,220 (Ranked 2)  
-Completed: 1,255 (0.01%) (Ranked 184)  
+Progressed: 23,550,089 (Ranked 2)  
+Completed: 1,256 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,19 +111,19 @@ Completed: 1,255 (0.01%) (Ranked 184)
 | 2023-05-01 | 23,511,466 | 1,250 |
 | 2023-05-02 | 23,525,243 | 1,251 |
 | 2023-05-03 | 23,537,701 | 1,254 |
-| 2023-05-04 | 23,548,220 | 1,255 |
+| 2023-05-04 | 23,550,089 | 1,256 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 401,779 |
-| This game has Competitive Players | 348,936 |
-| This game has Quickly Understood Controls | 318,826 |
-| This game is Extremely Fun | 312,390 |
-| This game is Highly Recommended | 300,385 |
-| This game has Challenging Combat | 290,819 |
-| This game has Amazing Storytelling | 261,434 |
-| This game has a Competitive Community | 258,941 |
-| This game has Amazing Characters | 246,494 |
+| This game is Great for Quick Sessions | 402,582 |
+| This game has Competitive Players | 349,663 |
+| This game has Quickly Understood Controls | 319,535 |
+| This game is Extremely Fun | 312,988 |
+| This game is Highly Recommended | 300,977 |
+| This game has Challenging Combat | 291,404 |
+| This game has Amazing Storytelling | 261,995 |
+| This game has a Competitive Community | 259,443 |
+| This game has Amazing Characters | 246,959 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -229,3 +229,4 @@ Completed: 1,255 (0.01%) (Ranked 184)
 | 2023-05-01 | 4.51 | - | 400,354 | 2,727,004 |
 | 2023-05-02 | 4.51 | - | 401,108 | 2,734,048 |
 | 2023-05-03 | 4.51 | - | 401,779 | 2,740,004 |
+| 2023-05-04 | 4.51 | - | 402,582 | 2,745,546 |

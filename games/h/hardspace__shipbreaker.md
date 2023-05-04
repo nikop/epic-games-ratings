@@ -32,7 +32,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00 |
 | Gecko Go(al) Getter | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597 (Ranked 179)  
+Progressed: 598 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,6 +40,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-25 | 595 | 0 |
 | 2023-04-26 | 596 | 0 |
 | 2023-05-02 | 597 | 0 |
+| 2023-05-04 | 598 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

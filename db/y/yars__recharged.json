@@ -120,13 +120,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T19:39:35.0062701+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:07.7915865+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:39:35.0062786+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:30.4462576+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:07.7916006+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:25.9427452+00:00",
   "AchievementSets": [
     {
       "ID": "kifj0l",
@@ -141,9 +141,9 @@
   "FirstSeen": "2022-08-27T18:32:14.7067755+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T16:15:34.5855018+00:00"
 }

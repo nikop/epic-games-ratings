@@ -1,5 +1,5 @@
 # Breathedge
-Rating: 4.40 (Ranked 663)  
+Rating: 4.38 (Ranked 686)  
 Number of Ratings: 61  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

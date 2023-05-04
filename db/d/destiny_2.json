@@ -175,7 +175,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6005
+      "Count": 6010
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1311,6 +1311,21 @@
       "Time": "2023-05-04T19:39:58.4591444+00:00",
       "NumProgressed": 390356,
       "NumCompleted": 11398
+    },
+    {
+      "Time": "2023-05-04T20:05:50.5663259+00:00",
+      "NumProgressed": 390385,
+      "NumCompleted": 11398
+    },
+    {
+      "Time": "2023-05-04T21:05:51.9470128+00:00",
+      "NumProgressed": 390426,
+      "NumCompleted": 11398
+    },
+    {
+      "Time": "2023-05-04T22:06:38.1831559+00:00",
+      "NumProgressed": 390476,
+      "NumCompleted": 11400
     }
   ],
   "RatingHistory": [
@@ -4501,38 +4516,44 @@
       "Rating": 4.5,
       "NumberOfAwards": 81198,
       "NumberOfAwardsMax": 33509
+    },
+    {
+      "Time": "2023-05-04T21:59:51.0124435+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 81203,
+      "NumberOfAwardsMax": 33509
     }
   ],
   "TotalAchievementsXP": 1240,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T19:39:58.4591439+00:00",
-  "EOS_NewCompleters": 206,
-  "EOS_NewPlayers": 7532,
-  "EOS_Completed": 11398,
-  "EOS_Progressed": 390356,
-  "LastUpdate_Achievements": "2023-05-04T19:39:58.459169+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:46.7597872+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:38.183155+00:00",
+  "EOS_NewCompleters": 207,
+  "EOS_NewPlayers": 7571,
+  "EOS_Completed": 11400,
+  "EOS_Progressed": 390476,
+  "LastUpdate_Achievements": "2023-05-04T22:06:38.1831932+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:51.012444+00:00",
   "AchievementSets": [
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 390356,
-      "Completed": 11398
+      "Progressed": 390476,
+      "Completed": 11400
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 390356,
-      "Completed": 27922
+      "Progressed": 390476,
+      "Completed": 27932
     }
   ],
   "EOS_Completed_Percentage": 2.92,
-  "LastChanged": "2023-05-04T16:59:10.1942591+00:00",
+  "LastChanged": "2023-05-04T21:59:51.0124433+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 33509,
-  "NumberOfAwards": 81198,
+  "NumberOfAwards": 81203,
   "NumberOfRatings": 32207,
   "Ranking_EOS_NewCompleters": 3,
   "Ranking_EOS_NewPlayers": 14,

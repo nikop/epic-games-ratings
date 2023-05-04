@@ -67,7 +67,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 87
+      "Count": 88
     }
   ],
   "EosHistory": [],
@@ -1099,6 +1099,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 1290,
       "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2023-05-04T22:01:02.4344123+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1291,
+      "NumberOfAwardsMax": 151
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1107,20 +1113,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:35:08.4032368+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:32.62374+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:02:03.4399067+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:01:02.4344129+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T10:59:52.8289571+00:00",
+  "LastChanged": "2023-05-04T22:01:02.4344121+00:00",
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 151,
-  "NumberOfAwards": 1290,
+  "NumberOfAwards": 1291,
   "NumberOfRatings": 431,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 215,
   "Ranking_Popularity": 281,
   "Ranking_Rating": 290,

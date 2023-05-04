@@ -2,8 +2,8 @@
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 28,658  (Ranked 14)  
-Sum: 51,693 (Ranked 21)  
+Max (Character Customization): 29,023  (Ranked 14)  
+Sum: 52,058 (Ranked 21)  
 Diff (max vs sum): -7  
 ## Achievements
 | Name | Percentage |
@@ -87,7 +87,7 @@ Diff (max vs sum): -7
 | Fast as hell | 0.10 |
 | Into the lava | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,442,344 (Ranked 4)  
+Progressed: 3,443,201 (Ranked 4)  
 Completed: 7 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,11 +101,11 @@ Completed: 7 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,409,850 | 7 |
 | 2023-05-02 | 3,422,528 | 7 |
 | 2023-05-03 | 3,433,675 | 7 |
-| 2023-05-04 | 3,442,344 | 7 |
+| 2023-05-04 | 3,443,201 | 7 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 28,658 |
+| This game has Inclusive Character Customization | 29,023 |
 | This game has Great Boss Battles | 11,615 |
 | This game is Great for Beginners | 1,611 |
 | This game has Diverse Characters | 1,433 |
@@ -240,4 +240,4 @@ Completed: 7 (0.00%) (Ranked 191)
 | 2023-05-01 | 4.59 | - | 27,761 | 49,750 |
 | 2023-05-02 | 4.59 | - | 28,224 | 50,678 |
 | 2023-05-03 | 4.59 | - | 28,658 | 51,517 |
-| 2023-05-04 | 4.59 | - | 28,658 | 51,693 |
+| 2023-05-04 | 4.59 | - | 29,023 | 52,058 |

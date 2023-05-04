@@ -3,7 +3,7 @@ Rating: 4.82 (Ranked 59)
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 6,025  (Ranked 53)  
-Sum: 10,203 (Ranked 77)  
+Sum: 10,205 (Ranked 77)  
 Diff (max vs sum): -24  
 ## Achievements
 | Name | Percentage |
@@ -16,6 +16,7 @@ Diff (max vs sum): -24
 | A Lady's Blood in the Snow | 0.70 |
 | Qi Gong: Breath | 0.70 |
 | Path of the Prospect | 0.70 |
+| The Assault | 0.60 |
 | Lady Wing Chun | 0.60 |
 | Furious Fists | 0.60 |
 | Kill Nil | 0.60 |
@@ -24,7 +25,6 @@ Diff (max vs sum): -24
 | Rumble in the Hangar | 0.60 |
 | Take damage to save time | 0.60 |
 | The Old Grandmaster | 0.50 |
-| The Assault | 0.50 |
 | Scareless | 0.50 |
 | Stuntmaster | 0.50 |
 | Street Fighting | 0.50 |
@@ -59,7 +59,7 @@ Diff (max vs sum): -24
 | Warriors from the Mountain | 0.10 |
 | Come Snap With Me | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,586 (Ranked 15)  
+Progressed: 702,592 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-01 | 702,484 | 12,705 |
 | 2023-05-02 | 702,521 | 12,707 |
 | 2023-05-03 | 702,552 | 12,707 |
-| 2023-05-04 | 702,586 | 12,707 |
+| 2023-05-04 | 702,592 | 12,707 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -81,13 +81,13 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | This game has Diverse Characters | 501 |
 | This game has Challenging Combat | 497 |
 | This game has Quickly Understood Controls | 495 |
-| This game is Extremely Fun | 485 |
+| This game is Extremely Fun | 486 |
 | This game has Amazing Storytelling | 483 |
 | This game is Highly Recommended | 470 |
 | This game has Amazing Characters | 462 |
 | This game has Unique Visuals | 447 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 338 |
+| This game has a Creative Community | 339 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -200,4 +200,4 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-01 | 4.82 | - | 6,014 | 10,171 |
 | 2023-05-02 | 4.82 | - | 6,014 | 10,179 |
 | 2023-05-03 | 4.82 | - | 6,018 | 10,190 |
-| 2023-05-04 | 4.82 | - | 6,025 | 10,203 |
+| 2023-05-04 | 4.82 | - | 6,025 | 10,205 |

@@ -20,6 +20,7 @@ Diff (max vs sum): -55
 | Star Sapphire | 3.00 |
 | Trapiche Emerald | 3.00 |
 | Upgrade complete | 3.00 |
+| Bridgemania | 2.00 |
 | Builder | 2.00 |
 | Close call! | 2.00 |
 | Critical care | 2.00 |
@@ -32,7 +33,6 @@ Diff (max vs sum): -55
 | One way | 2.00 |
 | Steam Age | 2.00 |
 | Beginner | 1.00 |
-| Bridgemania | 1.00 |
 | Electrical Age | 1.00 |
 | Environmental activist | 1.00 |
 | Industrial Age | 1.00 |

@@ -650,7 +650,7 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5
     },
     {
@@ -3449,7 +3449,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4474
+      "Count": 4475
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4525,6 +4525,21 @@
       "Time": "2023-05-04T19:40:01.5332236+00:00",
       "NumProgressed": 86468,
       "NumCompleted": 1803
+    },
+    {
+      "Time": "2023-05-04T20:05:54.66398+00:00",
+      "NumProgressed": 86470,
+      "NumCompleted": 1804
+    },
+    {
+      "Time": "2023-05-04T21:05:56.2239758+00:00",
+      "NumProgressed": 86475,
+      "NumCompleted": 1804
+    },
+    {
+      "Time": "2023-05-04T22:06:43.4682424+00:00",
+      "NumProgressed": 86479,
+      "NumCompleted": 1804
     }
   ],
   "RatingHistory": [
@@ -7960,39 +7975,45 @@
       "Rating": 4.06,
       "NumberOfAwards": 29795,
       "NumberOfAwardsMax": 4863
+    },
+    {
+      "Time": "2023-05-04T20:57:58.1895394+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29796,
+      "NumberOfAwardsMax": 4863
     }
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-04T19:40:01.5332231+00:00",
-  "EOS_NewCompleters": 21,
+  "LastChanged_Achievements": "2023-05-04T22:06:43.4682412+00:00",
+  "EOS_NewCompleters": 22,
   "EOS_NewPlayers": 808,
-  "EOS_Completed": 1803,
-  "EOS_Progressed": 86468,
-  "LastUpdate_Achievements": "2023-05-04T19:40:01.5355515+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:49.7304079+00:00",
+  "EOS_Completed": 1804,
+  "EOS_Progressed": 86479,
+  "LastUpdate_Achievements": "2023-05-04T22:06:43.4710069+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:28.0378611+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52742,
+      "Progressed": 52753,
       "Completed": 2462
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86468,
-      "Completed": 1803
+      "Progressed": 86479,
+      "Completed": 1804
     }
   ],
   "EOS_Completed_Percentage": 2.09,
-  "LastChanged": "2023-05-04T06:57:48.3544809+00:00",
+  "LastChanged": "2023-05-04T20:57:58.1895392+00:00",
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 4863,
-  "NumberOfAwards": 29795,
+  "NumberOfAwards": 29796,
   "NumberOfRatings": 9041,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_Progress": 59,

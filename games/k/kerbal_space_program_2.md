@@ -1,5 +1,5 @@
 # Kerbal Space Program 2
-Rating: 4.10 (Ranked 850)  
+Rating: 4.09 (Ranked 856)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -43,3 +43,4 @@ Rating: 4.10 (Ranked 850)
 | 2023-04-28 | 4.11 | 0 | 0 |
 | 2023-05-01 | 4.12 | 0 | 0 |
 | 2023-05-03 | 4.10 | 0 | 0 |
+| 2023-05-04 | 4.09 | 0 | 0 |

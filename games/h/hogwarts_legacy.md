@@ -2,7 +2,7 @@
 Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 18,359  (Ranked 18)  
-Sum: 33,440 (Ranked 34)  
+Sum: 33,449 (Ranked 34)  
 Diff (max vs sum): -16  
 ## Achievements
 | Name | Percentage |
@@ -13,6 +13,7 @@ Diff (max vs sum): -16
 | The Hero of Hogwarts | 5.00 |
 | The Defender of Dragons | 5.00 |
 | Coasting Along | 5.00 |
+| Rising From the Ashes | 5.00 |
 | The Sort Who Makes an Entrance | 4.00 |
 | The Avenging Gazelle | 4.00 |
 | Beast Friends | 4.00 |
@@ -27,7 +28,6 @@ Diff (max vs sum): -16
 | First Class Student | 4.00 |
 | Troll with the Punches | 4.00 |
 | That's a Keeper | 4.00 |
-| Rising From the Ashes | 4.00 |
 | The Seeker of Knowledge | 3.00 |
 | The Root of the Problem | 3.00 |
 | Third Time's a Charm | 3.00 |
@@ -53,7 +53,7 @@ Diff (max vs sum): -16
 | The Nature of the Beast | 0.30 |
 | Collector's Edition | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,479 (Ranked 38)  
+Progressed: 265,496 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,19 +67,19 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-01 | 265,089 | 341 |
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
-| 2023-05-04 | 265,479 | 346 |
+| 2023-05-04 | 265,496 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,359 |
 | This game has Great Boss Battles | 8,565 |
 | This game is Extremely Fun | 738 |
-| This game is Great for Beginners | 714 |
+| This game is Great for Beginners | 716 |
 | This game is Relaxing | 704 |
 | This game has Diverse Characters | 697 |
 | This game has Amazing Storytelling | 690 |
 | This game has Amazing Characters | 678 |
-| This game is Highly Recommended | 653 |
+| This game is Highly Recommended | 660 |
 | This game has Quickly Understood Controls | 607 |
 | This game has Beautiful Visuals | 583 |
 | This game has a Creative Community | 452 |
@@ -127,4 +127,4 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-01 | 4.78 | 18,275 | 33,198 |
 | 2023-05-02 | 4.78 | 18,275 | 33,258 |
 | 2023-05-03 | 4.77 | 18,328 | 33,362 |
-| 2023-05-04 | 4.77 | 18,359 | 33,440 |
+| 2023-05-04 | 4.77 | 18,359 | 33,449 |

@@ -97,7 +97,7 @@
       "ID": "ACHIEVEMENT_CRYOSLEEP",
       "SetID": "1fd5amk",
       "Name": "Care to take a nap?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40
     },
     {
@@ -1315,6 +1315,21 @@
       "Time": "2023-05-04T19:39:53.6587388+00:00",
       "NumProgressed": 188765,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-04T20:05:44.7339639+00:00",
+      "NumProgressed": 188767,
+      "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-04T21:05:46.5343819+00:00",
+      "NumProgressed": 188771,
+      "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-04T22:06:31.9067819+00:00",
+      "NumProgressed": 188781,
+      "NumCompleted": 406
     }
   ],
   "RatingHistory": [
@@ -1441,18 +1456,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T19:39:53.6587371+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:31.9067808+00:00",
   "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 786,
   "EOS_Completed": 406,
-  "EOS_Progressed": 188765,
-  "LastUpdate_Achievements": "2023-05-04T19:39:53.658765+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:30.0514549+00:00",
+  "EOS_Progressed": 188781,
+  "LastUpdate_Achievements": "2023-05-04T22:06:31.9068268+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:25.1794688+00:00",
   "AchievementSets": [
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 188765,
+      "Progressed": 188781,
       "Completed": 406
     }
   ],

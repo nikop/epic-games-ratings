@@ -83,7 +83,7 @@
       "ID": "AchievementBridgemania",
       "SetID": "76o014g",
       "Name": "Bridgemania",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10
     },
     {
@@ -783,13 +783,13 @@
   ],
   "TotalAchievementsXP": 1140,
   "TotalAchievements": 75,
-  "LastChanged_Achievements": "2023-05-04T19:39:41.5263354+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:16.0178197+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 697,
-  "LastUpdate_Achievements": "2023-05-04T19:39:41.5264099+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:18.7317245+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:16.0179017+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:57:43.3999492+00:00",
   "AchievementSets": [
     {
       "ID": "55bbbe2",
@@ -811,7 +811,7 @@
   "NumberOfAwardsMax": 71,
   "NumberOfAwards": 71,
   "NumberOfRatings": 87,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_Progress": 173,

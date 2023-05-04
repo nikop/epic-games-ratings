@@ -48,7 +48,7 @@ Diff (max vs sum): 93
 | The Ultimate Challenge | 0.10 |
 | Windswept | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,644 (Ranked 90)  
+Progressed: 19,658 (Ranked 90)  
 Completed: 3 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 3 (0.02%) (Ranked 175)
 | 2023-05-01 | 19,247 | 3 |
 | 2023-05-02 | 19,423 | 3 |
 | 2023-05-03 | 19,544 | 3 |
-| 2023-05-04 | 19,644 | 3 |
+| 2023-05-04 | 19,658 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

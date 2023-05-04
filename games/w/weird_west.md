@@ -1,5 +1,5 @@
 # Weird West
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 598)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 23  (Ranked 469)  
@@ -25,8 +25,8 @@ Diff (max vs sum): -2
 | The Great Escape | 23.00 |
 | That’s All, Folks | 18.00 |
 | Fallen Star | 16.00 |
+| For Balance | 16.00 |
 | Winds of War | 16.00 |
-| For Balance | 15.00 |
 | Here Comes Santa Claus | 15.00 |
 | Dog Days | 13.00 |
 | Workers' Rights | 13.00 |
@@ -62,7 +62,7 @@ Diff (max vs sum): -2
 | Winter Has Come | 0.30 |
 | Revenant | 0.20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,492 (Ranked 149)  
+Progressed: 1,493 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 2 (0.13%) (Ranked 144)
 | 2023-04-27 | 1,486 | 2 |
 | 2023-04-30 | 1,487 | 2 |
 | 2023-05-02 | 1,488 | 2 |
-| 2023-05-04 | 1,492 | 2 |
+| 2023-05-04 | 1,493 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

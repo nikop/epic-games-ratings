@@ -76,7 +76,7 @@ Diff (max vs sum): 61
 | Seeing is Believing | 0.90 |
 | Road to Berlin | 0.60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,229 (Ranked 58)  
+Progressed: 107,245 (Ranked 58)  
 Completed: 21 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 21 (0.02%) (Ranked 175)
 | 2023-05-01 | 106,798 | 20 |
 | 2023-05-02 | 106,966 | 20 |
 | 2023-05-03 | 107,108 | 20 |
-| 2023-05-04 | 107,229 | 21 |
+| 2023-05-04 | 107,245 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

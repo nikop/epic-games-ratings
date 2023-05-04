@@ -13,7 +13,7 @@
       "ID": "02_Vengeance_H1",
       "SetID": "adcm20g",
       "Name": "The Assault",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15
     },
     {
@@ -364,7 +364,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 485
+      "Count": 486
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -424,7 +424,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 338
+      "Count": 339
     }
   ],
   "EosHistory": [
@@ -1346,6 +1346,21 @@
     {
       "Time": "2023-05-04T19:39:57.3663287+00:00",
       "NumProgressed": 702586,
+      "NumCompleted": 12707
+    },
+    {
+      "Time": "2023-05-04T20:05:49.2856775+00:00",
+      "NumProgressed": 702588,
+      "NumCompleted": 12707
+    },
+    {
+      "Time": "2023-05-04T21:05:50.6375997+00:00",
+      "NumProgressed": 702589,
+      "NumCompleted": 12707
+    },
+    {
+      "Time": "2023-05-04T22:06:36.504122+00:00",
+      "NumProgressed": 702592,
       "NumCompleted": 12707
     }
   ],
@@ -5026,40 +5041,46 @@
       "Rating": 4.82,
       "NumberOfAwards": 10203,
       "NumberOfAwardsMax": 6025
+    },
+    {
+      "Time": "2023-05-04T21:59:37.1011806+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10205,
+      "NumberOfAwardsMax": 6025
     }
   ],
   "TotalAchievementsXP": 1350,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T19:39:57.3663283+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:36.5041217+00:00",
   "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 357,
   "EOS_Completed": 12707,
-  "EOS_Progressed": 702586,
-  "LastUpdate_Achievements": "2023-05-04T19:39:57.3663716+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:37.7620374+00:00",
+  "EOS_Progressed": 702592,
+  "LastUpdate_Achievements": "2023-05-04T22:06:36.5041803+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:37.1011811+00:00",
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11887,
-      "Completed": 10019
+      "Progressed": 11893,
+      "Completed": 10021
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702586,
+      "Progressed": 702592,
       "Completed": 12707
     }
   ],
   "EOS_Completed_Percentage": 1.81,
-  "LastChanged": "2023-05-04T14:59:15.3604301+00:00",
+  "LastChanged": "2023-05-04T21:59:37.1011804+00:00",
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6025,
-  "NumberOfAwards": 10203,
+  "NumberOfAwards": 10205,
   "NumberOfRatings": 9492,
   "Ranking_EOS_NewCompleters": 15,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_Progress": 15,
   "Ranking_PopularitySum": 77,

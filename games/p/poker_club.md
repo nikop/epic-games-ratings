@@ -5,11 +5,11 @@ Rating: 3.70 (Ranked 910)
 | ---- | ---------- |
 | Pro Creation | 76.00 |
 | Handy | 36.00 |
-| Cold Caller | 34.00 |
+| Cold Caller | 35.00 |
 | A Bit On The Side | 23.00 |
 | Backdoor | 21.00 |
 | Rank Amateur | 16.00 |
-| Three Way | 14.00 |
+| Three Way | 15.00 |
 | Deadly Assassin | 12.00 |
 | Showoff | 11.00 |
 | Gutshot | 10.00 |
@@ -49,7 +49,7 @@ Rating: 3.70 (Ranked 910)
 | Poker Ace | 0.00 |
 | Poker Showdown | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,865 (Ranked 32)  
+Progressed: 398,249 (Ranked 32)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 311,103 | 0 |
 | 2023-05-02 | 343,893 | 0 |
 | 2023-05-03 | 374,884 | 0 |
-| 2023-05-04 | 396,865 | 0 |
+| 2023-05-04 | 398,249 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

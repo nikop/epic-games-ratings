@@ -690,13 +690,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T19:40:14.9639059+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:59.739981+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 17,
   "EOS_Completed": 0,
   "EOS_Progressed": 759,
-  "LastUpdate_Achievements": "2023-05-04T19:40:14.9639338+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:34:37.5575855+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:59.7400174+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:01:09.9659162+00:00",
   "AchievementSets": [
     {
       "ID": "bf13m8j",
@@ -712,13 +712,13 @@
   "NumberOfAwardsMax": 46,
   "NumberOfAwards": 46,
   "NumberOfRatings": 54,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 168,
   "Ranking_PopularitySum": 435,
   "Ranking_Popularity": 396,
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 598,
   "Rating": 4.45,
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00"
 }

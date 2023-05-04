@@ -2,9 +2,9 @@
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 1,032  (Ranked 131)  
-Sum: 7,722 (Ranked 92)  
-Diff (max vs sum): 39  
+Max (Great for Beginners): 1,033  (Ranked 131)  
+Sum: 7,723 (Ranked 93)  
+Diff (max vs sum): 38  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -61,7 +61,7 @@ Diff (max vs sum): 39
 | Stop it | 0.10 |
 | Treat yourself - GPU | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,591 (Ranked 3)  
+Progressed: 3,493,638 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,11 +75,11 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,492,457 | 21 |
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
-| 2023-05-04 | 3,493,591 | 22 |
+| 2023-05-04 | 3,493,638 | 22 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,032 |
+| This game is Great for Beginners | 1,033 |
 | This game is Relaxing | 962 |
 | This game is Extremely Fun | 957 |
 | This game is Educational | 955 |
@@ -180,3 +180,4 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-04-26 | 4.66 | - | 1,030 | 7,714 |
 | 2023-05-01 | 4.66 | - | 1,032 | 7,717 |
 | 2023-05-03 | 4.66 | - | 1,032 | 7,722 |
+| 2023-05-04 | 4.66 | - | 1,033 | 7,723 |

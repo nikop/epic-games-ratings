@@ -659,6 +659,11 @@
       "Time": "2023-05-04T19:03:37.8910791+00:00",
       "NumProgressed": 2277,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-04T21:05:41.2383719+00:00",
+      "NumProgressed": 2278,
+      "NumCompleted": 59
     }
   ],
   "RatingHistory": [
@@ -671,18 +676,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-04T19:39:49.0457009+00:00",
-  "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 130,
+  "LastChanged_Achievements": "2023-05-04T22:06:25.784601+00:00",
+  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 128,
   "EOS_Completed": 59,
-  "EOS_Progressed": 2277,
-  "LastUpdate_Achievements": "2023-05-04T19:39:49.0457135+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:33:05.6344051+00:00",
+  "EOS_Progressed": 2278,
+  "LastUpdate_Achievements": "2023-05-04T22:06:25.7846197+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:49.8456395+00:00",
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2277,
+      "Progressed": 2278,
       "Completed": 59
     }
   ],
@@ -692,8 +697,8 @@
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 21,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_Progress": 139,
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00"

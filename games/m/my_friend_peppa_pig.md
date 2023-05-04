@@ -3,7 +3,7 @@
 | Name | Percentage |
 | ---- | ---------- |
 | The View From Windy Castle. | 61.00 |
-| Rocket to the Moon! | 53.00 |
+| Rocket to the Moon! | 55.00 |
 | Daddy’s Glasses | 50.00 |
 | Whose tracks are these? | 48.00 |
 | Collecting Sticks For the Campfire. | 47.00 |

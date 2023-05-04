@@ -4,23 +4,23 @@
 | ---- | ---------- |
 | Victor | 93.00 |
 | World Map | 79.00 |
-| Temple of Eternals | 53.00 |
-| Prestigious | 50.00 |
+| Temple of Eternals | 54.00 |
+| Prestigious | 51.00 |
 | Fellowship Power | 38.00 |
 | Guild Power | 22.00 |
 | Prestigious x10 | 18.00 |
 | The game is on | 14.00 |
+| Exotic Merchant | 13.00 |
 | Inspection | 13.00 |
 | Dragon Clicker | 12.00 |
-| Exotic Merchant | 12.00 |
 | Hero inspection | 11.00 |
 | Miner Clicker | 11.00 |
-| Full Party | 9.00 |
+| Full Party | 8.00 |
 | Dragon Master | 6.00 |
 | Enlightenment | 6.00 |
 | Lieutenant | 5.00 |
+| Natural Talent | 5.00 |
 | Milestone collector | 4.00 |
-| Natural Talent | 4.00 |
 | Superior | 4.00 |
 | The Unstoppable | 4.00 |
 | Daily Quest Completionist | 3.00 |
@@ -78,7 +78,7 @@
 | Ultimate War Machines | 0.10 |
 | War Machines Army | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 167)  
+Progressed: 838 (Ranked 167)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-01 | 772 | 1 |
 | 2023-05-02 | 795 | 1 |
 | 2023-05-03 | 816 | 1 |
-| 2023-05-04 | 835 | 1 |
+| 2023-05-04 | 838 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7325
+      "Count": 7338
     },
     {
       "Text": "This game is Highly Recommended",
@@ -67,7 +67,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 518
+      "Count": 520
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4531,6 +4531,18 @@
       "Rating": 4.6,
       "NumberOfAwards": 27046,
       "NumberOfAwardsMax": 11676
+    },
+    {
+      "Time": "2023-05-04T19:57:25.6307878+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27048,
+      "NumberOfAwardsMax": 11676
+    },
+    {
+      "Time": "2023-05-04T20:57:23.3590774+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27061,
+      "NumberOfAwardsMax": 11676
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4539,20 +4551,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T19:35:22.3892389+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:32:20.5263236+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:02:23.5660053+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:57:45.5550594+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T18:57:13.1847937+00:00",
+  "LastChanged": "2023-05-04T20:57:23.3590773+00:00",
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 11676,
-  "NumberOfAwards": 27046,
+  "NumberOfAwards": 27061,
   "NumberOfRatings": 12317,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 39,
   "Ranking_Popularity": 29,
   "Ranking_Rating": 379,
