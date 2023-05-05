@@ -9,56 +9,56 @@ Diff (max vs sum): -38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~696,103 |
-| The Blues | 85.00% | ~597,664 |
-| Fast | 66.00% | ~464,068 |
-| Healthbar | 55.00% | ~386,724 |
-| Force Cube | 52.00% | ~365,630 |
-| Double Jump | 48.00% | ~337,504 |
-| Regeneration | 47.00% | ~330,473 |
-| Climb the hill | 42.00% | ~295,316 |
-| Triple Jump | 42.00% | ~295,316 |
-| Through the fire pipe | 38.00% | ~267,191 |
-| MacGuffin | 37.00% | ~260,160 |
-| Just once | 36.00% | ~253,128 |
-| Armor | 30.00% | ~210,940 |
-| True holy spirit | 27.00% | ~189,846 |
-| That's how electronics work obviously | 26.00% | ~182,815 |
-| Force Cube Catapult | 25.00% | ~175,784 |
-| Holy Sword | 23.00% | ~161,721 |
-| Telefrag | 22.00% | ~154,689 |
-| Freed from prison | 21.00% | ~147,658 |
-| Stomp | 21.00% | ~147,658 |
-| Double Health | 18.00% | ~126,564 |
-| Buckle | 17.00% | ~119,533 |
-| Green Keycard | 17.00% | ~119,533 |
-| Rattle Hag | 15.00% | ~105,470 |
+| Out of bed | 99.00% | ~696,108 |
+| The Blues | 85.00% | ~597,668 |
+| Fast | 66.00% | ~464,072 |
+| Healthbar | 55.00% | ~386,726 |
+| Force Cube | 52.00% | ~365,632 |
+| Double Jump | 48.00% | ~337,507 |
+| Regeneration | 47.00% | ~330,475 |
+| Climb the hill | 42.00% | ~295,318 |
+| Triple Jump | 42.00% | ~295,318 |
+| Through the fire pipe | 38.00% | ~267,193 |
+| MacGuffin | 37.00% | ~260,161 |
+| Just once | 36.00% | ~253,130 |
+| Armor | 30.00% | ~210,942 |
+| True holy spirit | 27.00% | ~189,848 |
+| That's how electronics work obviously | 26.00% | ~182,816 |
+| Force Cube Catapult | 25.00% | ~175,785 |
+| Holy Sword | 23.00% | ~161,722 |
+| Telefrag | 22.00% | ~154,691 |
+| Freed from prison | 21.00% | ~147,659 |
+| Stomp | 21.00% | ~147,659 |
+| Double Health | 18.00% | ~126,565 |
+| Buckle | 17.00% | ~119,534 |
+| Green Keycard | 17.00% | ~119,534 |
+| Rattle Hag | 15.00% | ~105,471 |
 | All Shells | 14.00% | ~98,439 |
-| Beam | 13.00% | ~91,407 |
-| 9 | 13.00% | ~91,407 |
-| Purple Cube | 13.00% | ~91,407 |
-| Supraball Noob | 13.00% | ~91,407 |
-| Health Drink | 12.00% | ~84,376 |
-| Helped a star | 12.00% | ~84,376 |
+| Beam | 13.00% | ~91,408 |
+| 9 | 13.00% | ~91,408 |
+| Purple Cube | 13.00% | ~91,408 |
+| Supraball Noob | 13.00% | ~91,408 |
+| Health Drink | 12.00% | ~84,377 |
+| Helped a star | 12.00% | ~84,377 |
 | Infiltrated | 11.00% | ~77,345 |
 | Robbed | 11.00% | ~77,345 |
 | Strong | 11.00% | ~77,345 |
-| Blue King's lair | 10.00% | ~70,313 |
-| Payback | 10.00% | ~70,313 |
-| Got the coins back | 10.00% | ~70,313 |
-| Cave Flies | 10.00% | ~70,313 |
-| Gold Scam | 10.00% | ~70,313 |
-| Gold Scam Uncovered | 10.00% | ~70,313 |
-| Got the gun back | 10.00% | ~70,313 |
-| Translocator | 10.00% | ~70,313 |
-| Yellow Shot Button | 10.00% | ~70,313 |
-| Fire Flies | 9.00% | ~63,282 |
-| Moon Door | 9.00% | ~63,282 |
-| Momentum | 9.00% | ~63,282 |
-| Panic Lights | 9.00% | ~63,282 |
+| Blue King's lair | 10.00% | ~70,314 |
+| Payback | 10.00% | ~70,314 |
+| Got the coins back | 10.00% | ~70,314 |
+| Cave Flies | 10.00% | ~70,314 |
+| Gold Scam | 10.00% | ~70,314 |
+| Gold Scam Uncovered | 10.00% | ~70,314 |
+| Got the gun back | 10.00% | ~70,314 |
+| Translocator | 10.00% | ~70,314 |
+| Yellow Shot Button | 10.00% | ~70,314 |
+| Fire Flies | 9.00% | ~63,283 |
+| Moon Door | 9.00% | ~63,283 |
+| Momentum | 9.00% | ~63,283 |
+| Panic Lights | 9.00% | ~63,283 |
 | Through the tiny pipe | 8.00% | ~56,251 |
 | Win! | 8.00% | ~56,251 |
-| The real real teleported man | 7.00% | ~49,219 |
+| The real real teleported man | 7.00% | ~49,220 |
 | Well deserved | 6.00% | ~42,188 |
 | Happiness | 3.00% | ~21,094 |
 | Super Sword | 3.00% | ~21,094 |
@@ -108,8 +108,8 @@ Diff (max vs sum): -38
 | DLC: There he is! | 0.10% | ~703 |
 | DLC: Top of the world | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,134 (Ranked 14)  
-Completed: 668 (0.10%) (Ranked 150)  
+Progressed: 703,139 (Ranked 14)  
+Completed: 669 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 668 (0.10%) (Ranked 150)
 | 2023-05-02 | 702,784 | 666 |
 | 2023-05-03 | 702,946 | 668 |
 | 2023-05-04 | 703,109 | 668 |
-| 2023-05-05 | 703,134 | 668 |
+| 2023-05-05 | 703,139 | 669 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

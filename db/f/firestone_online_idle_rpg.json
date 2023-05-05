@@ -120,7 +120,7 @@
       "Name": "Dragon Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "dragonslayer",
@@ -176,7 +176,7 @@
       "Name": "Enlightenment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "exoticmerchant",
@@ -390,9 +390,9 @@
       "ID": "pokerface",
       "SetID": "3nl4bcg",
       "Name": "Pokerface",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "prestigious",
@@ -408,7 +408,7 @@
       "Name": "Prestigious x10",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "relicofthepast",
@@ -464,7 +464,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "thealchemist",
@@ -568,7 +568,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "warmachinesarmy",
@@ -600,7 +600,7 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     }
   ],
   "Tags": [],
@@ -1529,6 +1529,11 @@
       "Time": "2023-05-05T01:58:31.6705527+00:00",
       "NumProgressed": 841,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T04:06:05.4577872+00:00",
+      "NumProgressed": 842,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1541,18 +1546,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 75,
-  "LastChanged_Achievements": "2023-05-05T03:05:14.8065757+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:05.4577868+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_Completed": 1,
-  "EOS_Progressed": 841,
-  "LastUpdate_Achievements": "2023-05-05T03:05:14.806659+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:47.3650855+00:00",
+  "EOS_Progressed": 842,
+  "LastUpdate_Achievements": "2023-05-05T04:06:05.4578688+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:58.7556001+00:00",
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 841,
+      "Progressed": 842,
       "Completed": 1
     }
   ],
@@ -1563,7 +1568,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_Progress": 167,
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00"

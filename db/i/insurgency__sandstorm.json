@@ -40,7 +40,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -64,7 +64,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14475
+      "UsersEstimate": 14476
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -112,7 +112,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14475
+      "UsersEstimate": 14476
     },
     {
       "ID": "ACH_JR_50",
@@ -176,7 +176,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18094
+      "UsersEstimate": 18095
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -272,7 +272,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18094
+      "UsersEstimate": 18095
     },
     {
       "ID": "ACH_WET_FEET",
@@ -280,7 +280,7 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14475
+      "UsersEstimate": 14476
     }
   ],
   "Tags": [
@@ -1470,6 +1470,11 @@
     {
       "Time": "2023-05-05T03:04:55.1192321+00:00",
       "NumProgressed": 361886,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T04:05:43.4239909+00:00",
+      "NumProgressed": 361906,
       "NumCompleted": 2
     }
   ],
@@ -3211,18 +3216,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T03:04:55.1192316+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:43.4239905+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3876,
+  "EOS_NewPlayers": 3873,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361886,
-  "LastUpdate_Achievements": "2023-05-05T03:04:55.1192665+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:35.9660285+00:00",
+  "EOS_Progressed": 361906,
+  "LastUpdate_Achievements": "2023-05-05T04:05:43.4240278+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:45.9007524+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 361886,
+      "Progressed": 361906,
       "Completed": 2
     }
   ],

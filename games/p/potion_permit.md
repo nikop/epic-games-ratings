@@ -35,7 +35,7 @@ Diff (max vs sum): -55
 | Line Cook | 9.00% | ~111 |
 | Acrobatic Adventurer | 8.00% | ~98 |
 | Animal Exterminator | 7.00% | ~86 |
-| Adolescent Love | 5.00% | ~62 |
+| Adolescent Love | 6.00% | ~74 |
 | Mail Carrier | 5.00% | ~62 |
 | Plantation Exterminator | 4.00% | ~49 |
 | Grape Supplier | 4.00% | ~49 |

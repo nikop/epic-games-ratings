@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~782 |
-| World Map | 79.00% | ~664 |
-| Temple of Eternals | 54.00% | ~454 |
+| Victor | 93.00% | ~783 |
+| World Map | 79.00% | ~665 |
+| Temple of Eternals | 54.00% | ~455 |
 | Prestigious | 51.00% | ~429 |
 | Fellowship Power | 38.00% | ~320 |
 | Guild Power | 22.00% | ~185 |
-| Prestigious x10 | 18.00% | ~151 |
+| Prestigious x10 | 18.00% | ~152 |
 | The game is on | 14.00% | ~118 |
 | Exotic Merchant | 13.00% | ~109 |
 | Inspection | 13.00% | ~109 |
@@ -17,8 +17,8 @@
 | Hero inspection | 11.00% | ~93 |
 | Miner Clicker | 11.00% | ~93 |
 | Full Party | 9.00% | ~76 |
-| Dragon Master | 6.00% | ~50 |
-| Enlightenment | 6.00% | ~50 |
+| Dragon Master | 6.00% | ~51 |
+| Enlightenment | 6.00% | ~51 |
 | Lieutenant | 5.00% | ~42 |
 | Natural Talent | 5.00% | ~42 |
 | Milestone collector | 4.00% | ~34 |
@@ -51,12 +51,12 @@
 | Crystal Mining | 0.50% | ~4 |
 | Dragon Slayer | 0.50% | ~4 |
 | Legendary | 0.50% | ~4 |
+| Pokerface | 0.50% | ~4 |
 | Sailor | 0.50% | ~4 |
 | Tree of Life | 0.50% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~3 |
 | Enchanting skill | 0.40% | ~3 |
 | Engineer Mastery | 0.40% | ~3 |
-| Pokerface | 0.40% | ~3 |
 | The Alchemist | 0.40% | ~3 |
 | Transmute | 0.40% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
@@ -79,7 +79,7 @@
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 841 (Ranked 167)  
+Progressed: 842 (Ranked 167)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-02 | 795 | 1 |
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
-| 2023-05-05 | 841 | 1 |
+| 2023-05-05 | 842 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

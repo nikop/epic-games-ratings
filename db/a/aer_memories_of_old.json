@@ -8,7 +8,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -40,7 +40,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -48,7 +48,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -64,7 +64,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6469
+      "UsersEstimate": 6471
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -136,7 +136,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "NORTH_FINISHED",
@@ -160,7 +160,7 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     }
   ],
   "Tags": [],
@@ -1229,6 +1229,11 @@
       "Time": "2023-05-05T03:05:46.1164464+00:00",
       "NumProgressed": 8512,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T04:06:40.8641584+00:00",
+      "NumProgressed": 8514,
+      "NumCompleted": 195
     }
   ],
   "RatingHistory": [
@@ -1578,18 +1583,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T03:05:46.1164457+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:40.8641581+00:00",
   "EOS_NewCompleters": 16,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 597,
   "EOS_Completed": 195,
-  "EOS_Progressed": 8512,
-  "LastUpdate_Achievements": "2023-05-05T03:05:46.1164675+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:00:07.8869262+00:00",
+  "EOS_Progressed": 8514,
+  "LastUpdate_Achievements": "2023-05-05T04:06:40.8641768+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:00:41.1340467+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8512,
+      "Progressed": 8514,
       "Completed": 195
     }
   ],

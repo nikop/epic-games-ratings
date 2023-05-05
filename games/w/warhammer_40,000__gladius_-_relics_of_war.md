@@ -1,6 +1,6 @@
 # Warhammer 40,000: Gladius - Relics of War
 [View Rawdata](../../db/w/warhammer_40,000__gladius_-_relics_of_war.json)  
-Rating: 4.33 (Ranked 730)  
+Rating: 4.34 (Ranked 721)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 58  (Ranked 381)  
@@ -99,3 +99,4 @@ Diff (max vs sum): 64
 | 2023-05-02 | 4.34 | - | 58 | 322 |
 | 2023-05-03 | 4.34 | - | 58 | 323 |
 | 2023-05-04 | 4.33 | - | 58 | 324 |
+| 2023-05-05 | 4.34 | - | 58 | 324 |

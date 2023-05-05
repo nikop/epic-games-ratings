@@ -8,6 +8,7 @@
 | Savior | 20.00% | ~2 |
 | The Jydgement Day | 10.00% | ~1 |
 | The Dusk Falls | 10.00% | ~1 |
+| Weapon Mods | 10.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Cyberware | 0.00% | ~0 |
 | Crime Reaper | 0.00% | ~0 |
@@ -17,7 +18,6 @@
 | Lawful Not Awful | 0.00% | ~0 |
 | Firemodes to the Max | 0.00% | ~0 |
 | Special Specialist | 0.00% | ~0 |
-| Weapon Mods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 191)  

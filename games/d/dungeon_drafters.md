@@ -4,10 +4,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Treasure Hunting | 43.00% | ~9 |
+| Uncut Gem | 43.00% | ~9 |
 | Might be useful… | 43.00% | ~9 |
+| Friend! | 38.00% | ~8 |
 | Setting Off | 38.00% | ~8 |
-| Uncut Gem | 38.00% | ~8 |
-| Friend! | 33.00% | ~7 |
 | Clear as Water | 33.00% | ~7 |
 | Riddlesolver | 29.00% | ~6 |
 | Shine! | 29.00% | ~6 |

@@ -1,6 +1,6 @@
 # Griftlands
 [View Rawdata](../../db/g/griftlands.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 Number of Ratings: 151  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

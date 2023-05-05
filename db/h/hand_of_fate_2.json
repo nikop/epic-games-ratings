@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472034
+      "UsersEstimate": 472037
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380250
+      "UsersEstimate": 380252
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24,7 +24,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150789
+      "UsersEstimate": 150790
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -48,7 +48,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52448
+      "UsersEstimate": 52449
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -72,7 +72,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65560
+      "UsersEstimate": 65561
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -104,7 +104,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65560
+      "UsersEstimate": 65561
     },
     {
       "ID": "Achievement_14_Magician",
@@ -144,7 +144,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150789
+      "UsersEstimate": 150790
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -152,7 +152,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91784
+      "UsersEstimate": 91785
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -176,7 +176,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52448
+      "UsersEstimate": 52449
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -232,7 +232,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52448
+      "UsersEstimate": 52449
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -248,7 +248,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78672
+      "UsersEstimate": 78673
     },
     {
       "ID": "Achievement_32_Karma",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163901
+      "UsersEstimate": 163902
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -288,7 +288,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59004
+      "UsersEstimate": 59005
     },
     {
       "ID": "Achievement_37_Champion",
@@ -304,7 +304,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52448
+      "UsersEstimate": 52449
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -1387,6 +1387,11 @@
       "Time": "2023-05-05T03:05:03.3830653+00:00",
       "NumProgressed": 655603,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T04:05:52.6747459+00:00",
+      "NumProgressed": 655607,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2150,18 +2155,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T03:05:03.3830648+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:52.6747455+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 390,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655603,
-  "LastUpdate_Achievements": "2023-05-05T03:05:03.3831112+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:19.5437526+00:00",
+  "EOS_Progressed": 655607,
+  "LastUpdate_Achievements": "2023-05-05T04:05:52.6747982+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:27.6085544+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655603,
+      "Progressed": 655607,
       "Completed": 164
     }
   ],
@@ -2173,7 +2178,7 @@
   "NumberOfAwards": 180,
   "NumberOfRatings": 780,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_Progress": 18,
   "Ranking_PopularitySum": 358,

@@ -21,15 +21,15 @@
 | Starship Docks | 12.00% | ~7 |
 | Fully Modded | 8.00% | ~5 |
 | Eden Heights | 7.00% | ~4 |
+| Cybernetic | 3.00% | ~2 |
 | Outer Core | 3.00% | ~2 |
-| Cybernetic | 2.00% | ~1 |
 | Cyborg | 2.00% | ~1 |
 | Destruction | 2.00% | ~1 |
+| Hard Boiled | 2.00% | ~1 |
 | Inner Core | 2.00% | ~1 |
+| Integration | 2.00% | ~1 |
 | Ripperdoc | 2.00% | ~1 |
 | Trickshot | 2.00% | ~1 |
-| Hard Boiled | 0.00% | ~0 |
-| Integration | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 267)  

@@ -16,7 +16,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130036
+      "UsersEstimate": 130040
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24,7 +24,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -32,7 +32,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5494
+      "UsersEstimate": 5495
     },
     {
       "ID": "ACH_INITIATION",
@@ -40,7 +40,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 32967
+      "UsersEstimate": 32968
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -56,7 +56,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -72,7 +72,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -88,7 +88,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -120,7 +120,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -128,7 +128,7 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     }
   ],
   "Tags": [],
@@ -1227,6 +1227,11 @@
       "Time": "2023-05-05T01:58:54.6337766+00:00",
       "NumProgressed": 183149,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T04:06:31.5217201+00:00",
+      "NumProgressed": 183155,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1427,18 +1432,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T03:05:37.6890111+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:31.5217196+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1245,
   "EOS_Completed": 4,
-  "EOS_Progressed": 183149,
-  "LastUpdate_Achievements": "2023-05-05T03:05:37.6890292+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:59:39.8370951+00:00",
+  "EOS_Progressed": 183155,
+  "LastUpdate_Achievements": "2023-05-05T04:06:31.5217381+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:00:08.3143554+00:00",
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183149,
+      "Progressed": 183155,
       "Completed": 4
     }
   ],

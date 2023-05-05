@@ -9,13 +9,13 @@ Diff (max vs sum): 55
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,103 |
-| Incurious | 13.00% | ~76,103 |
+| Advanced Stroller | 13.00% | ~76,104 |
+| Incurious | 13.00% | ~76,104 |
 | Climate Change | 12.00% | ~70,249 |
 | Stroller | 11.00% | ~64,395 |
-| Toy Train | 10.00% | ~58,540 |
-| Hiker | 9.00% | ~52,686 |
-| Advanced Hiker | 9.00% | ~52,686 |
+| Toy Train | 10.00% | ~58,541 |
+| Hiker | 9.00% | ~52,687 |
+| Advanced Hiker | 9.00% | ~52,687 |
 | Mojave Courier | 4.00% | ~23,416 |
 | Voyager | 2.00% | ~11,708 |
 | Advanced Voyager | 2.00% | ~11,708 |
@@ -62,7 +62,7 @@ Diff (max vs sum): 55
 | Fireworks! | 0.10% | ~585 |
 | 20 Miles under the Sea | 0.10% | ~585 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585,405 (Ranked 21)  
+Progressed: 585,412 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-02 | 584,620 | 6 |
 | 2023-05-03 | 585,010 | 6 |
 | 2023-05-04 | 585,354 | 6 |
-| 2023-05-05 | 585,405 | 6 |
+| 2023-05-05 | 585,412 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

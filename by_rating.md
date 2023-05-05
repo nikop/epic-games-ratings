@@ -59,6 +59,7 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 490 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 344 |
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 490 |
+| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,260 | 120 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,467 | 58 |
 | 59 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 490 |
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 490 |
@@ -70,13 +71,12 @@
 | 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 387 | 202 |
 | 59 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 490 |
-| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
-| 71 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,260 | 120 |
-| 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 434 |
-| 71 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 490 |
-| 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 490 |
-| 71 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 490 |
-| 71 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 490 |
+| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
+| 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 434 |
+| 72 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 490 |
+| 72 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 490 |
+| 72 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 490 |
+| 72 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 490 |
 | 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 333 | 212 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,250 | 50 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 279 |
@@ -410,7 +410,7 @@
 | 395 | [The Medium](games/t/the_medium.md) | 4.59 | 0 | 490 |
 | 395 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,163 | 84 |
 | 395 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 443 |
-| 395 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 259 | 235 |
+| 395 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 260 | 235 |
 | 395 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
 | 395 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 312 | 218 |
 | 414 | [Among Us](games/a/among_us.md) | 4.58 | 2,390 | 92 |
@@ -613,7 +613,7 @@
 | 598 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 490 |
 | 598 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 847 | 143 |
 | 598 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 490 |
-| 598 | [SMITE](games/s/smite.md) | 4.45 | 3,715 | 77 |
+| 598 | [SMITE](games/s/smite.md) | 4.45 | 3,718 | 77 |
 | 598 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 521 | 178 |
 | 598 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 417 |
 | 598 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 310 |
@@ -718,7 +718,7 @@
 | 713 | [Encased](games/e/encased.md) | 4.35 | 125 | 297 |
 | 713 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 256 |
 | 713 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 490 |
-| 713 | [Paladins](games/p/paladins.md) | 4.35 | 3,197 | 82 |
+| 713 | [Paladins](games/p/paladins.md) | 4.35 | 3,200 | 82 |
 | 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 414 |
 | 721 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
 | 721 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 454 |
@@ -729,13 +729,13 @@
 | 721 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,868 | 61 |
 | 721 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 240 |
 | 721 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
-| 730 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
-| 730 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
-| 730 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |
-| 730 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 71 | 359 |
-| 730 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
-| 730 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
-| 730 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 58 | 381 |
+| 721 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 58 | 381 |
+| 731 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
+| 731 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
+| 731 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |
+| 731 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 71 | 359 |
+| 731 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
+| 731 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
 | 737 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 341 | 210 |
 | 737 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 490 |
 | 737 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
@@ -864,7 +864,7 @@
 | 861 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 265 |
 | 861 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 490 |
 | 861 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 490 |
-| 865 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,863 | 62 |
+| 865 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,865 | 62 |
 | 865 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 393 | 201 |
 | 867 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 490 |
 | 867 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 490 |

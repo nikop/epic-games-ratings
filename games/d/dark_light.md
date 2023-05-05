@@ -1,6 +1,6 @@
 # Dark Light
 [View Rawdata](../../db/d/dark_light.json)  
-Rating: 4.33 (Ranked 730)  
+Rating: 4.33 (Ranked 731)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

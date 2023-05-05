@@ -144,7 +144,7 @@
       "Name": "Longrunner",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "MoreThanHuman",
@@ -200,7 +200,7 @@
       "Name": "Perfection",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "PreempativeStrike",
@@ -232,7 +232,7 @@
       "Name": "Running out of breath",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "RunningWild",
@@ -240,7 +240,7 @@
       "Name": "Running Wild",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "Scrapped",
@@ -280,7 +280,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "SwordToAGunfight",
@@ -288,7 +288,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "TripleA",
@@ -320,7 +320,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "Wallrunner",
@@ -328,7 +328,7 @@
       "Name": "Wallrunner",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "WaveOfMutilation",
@@ -360,7 +360,7 @@
       "Name": "Why not both",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     }
   ],
   "Tags": [
@@ -1472,6 +1472,11 @@
       "Time": "2023-05-05T03:05:13.5091541+00:00",
       "NumProgressed": 3904,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-05T04:06:03.96471+00:00",
+      "NumProgressed": 3905,
+      "NumCompleted": 20
     }
   ],
   "RatingHistory": [
@@ -2243,24 +2248,24 @@
   ],
   "TotalAchievementsXP": 1195,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T03:05:13.5091534+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:03.9647094+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 754,
   "EOS_Completed": 20,
-  "EOS_Progressed": 3904,
-  "LastUpdate_Achievements": "2023-05-05T03:05:13.5091981+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:44.3747522+00:00",
+  "EOS_Progressed": 3905,
+  "LastUpdate_Achievements": "2023-05-05T04:06:03.9647587+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:55.2646232+00:00",
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 3904,
+      "Progressed": 3905,
       "Completed": 12
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 3904,
+      "Progressed": 3905,
       "Completed": 20
     }
   ],

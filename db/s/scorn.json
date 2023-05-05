@@ -6,9 +6,9 @@
       "ID": "001",
       "SetID": "94k0mj8",
       "Name": "001",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "002",
@@ -94,9 +94,9 @@
       "ID": "012",
       "SetID": "94k0mj8",
       "Name": "012",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "Tags": [],
@@ -351,13 +351,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-05T03:04:53.7683563+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:41.759266+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 133,
   "EOS_Progressed": 1866,
-  "LastUpdate_Achievements": "2023-05-05T03:04:53.7684235+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:46.9586206+00:00",
+  "LastUpdate_Achievements": "2023-05-05T04:05:41.759327+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:58.3660425+00:00",
   "AchievementSets": [
     {
       "ID": "94k0mj8",

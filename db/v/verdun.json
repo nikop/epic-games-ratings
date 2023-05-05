@@ -8,7 +8,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 23427
+      "UsersEstimate": 23428
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -264,7 +264,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13630
+      "UsersEstimate": 13631
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -304,7 +304,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -376,7 +376,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 32798
+      "UsersEstimate": 32799
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -1640,6 +1640,11 @@
     {
       "Time": "2023-05-05T03:05:05.2063961+00:00",
       "NumProgressed": 42595,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T04:05:54.5468008+00:00",
+      "NumProgressed": 42596,
       "NumCompleted": 2
     }
   ],
@@ -3010,18 +3015,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-05T03:05:05.2063955+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:54.5468003+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 863,
+  "EOS_NewPlayers": 861,
   "EOS_Completed": 2,
-  "EOS_Progressed": 42595,
-  "LastUpdate_Achievements": "2023-05-05T03:05:05.2064506+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:09.4577019+00:00",
+  "EOS_Progressed": 42596,
+  "LastUpdate_Achievements": "2023-05-05T04:05:54.5468767+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:58:25.1547147+00:00",
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 42595,
+      "Progressed": 42596,
       "Completed": 2
     }
   ],

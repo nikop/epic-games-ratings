@@ -8,7 +8,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "Achievement_1",
@@ -40,7 +40,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 19748
+      "UsersEstimate": 19750
     },
     {
       "ID": "Achievement_13",
@@ -88,7 +88,7 @@
       "Name": "Stone Walls",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 31364
+      "UsersEstimate": 31368
     },
     {
       "ID": "Achievement_5",
@@ -120,7 +120,7 @@
       "Name": "Samuel Norton",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 11616
+      "UsersEstimate": 11618
     },
     {
       "ID": "Achievement_9",
@@ -128,7 +128,7 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     }
   ],
   "Tags": [
@@ -1317,6 +1317,11 @@
     {
       "Time": "2023-05-05T03:05:09.7250568+00:00",
       "NumProgressed": 116164,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T04:05:59.8489471+00:00",
+      "NumProgressed": 116178,
       "NumCompleted": 4
     }
   ],
@@ -4123,18 +4128,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T03:05:09.7250565+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:59.8489467+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3389,
+  "EOS_NewPlayers": 3395,
   "EOS_Completed": 4,
-  "EOS_Progressed": 116164,
-  "LastUpdate_Achievements": "2023-05-05T03:05:09.7250723+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:12.7438009+00:00",
+  "EOS_Progressed": 116178,
+  "LastUpdate_Achievements": "2023-05-05T04:05:59.8489682+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:58:28.5046797+00:00",
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 116164,
+      "Progressed": 116178,
       "Completed": 4
     }
   ],

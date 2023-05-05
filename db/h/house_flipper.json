@@ -48,7 +48,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "FirstMoney",
@@ -56,7 +56,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17531
+      "UsersEstimate": 17532
     },
     {
       "ID": "GameOver",
@@ -112,7 +112,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "MrAndMrsJantart",
@@ -136,7 +136,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "RafaelErko",
@@ -176,7 +176,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "YouDoItWrong",
@@ -184,7 +184,7 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     }
   ],
   "Tags": [
@@ -539,6 +539,11 @@
     {
       "Time": "2023-05-05T00:05:17.3949378+00:00",
       "NumProgressed": 18650,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T04:06:25.8354075+00:00",
+      "NumProgressed": 18651,
       "NumCompleted": 19
     }
   ],
@@ -1797,18 +1802,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-05T03:05:32.6447347+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:25.835407+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 52,
   "EOS_Completed": 19,
-  "EOS_Progressed": 18650,
-  "LastUpdate_Achievements": "2023-05-05T03:05:32.6447538+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:59:21.1372459+00:00",
+  "EOS_Progressed": 18651,
+  "LastUpdate_Achievements": "2023-05-05T04:06:25.835428+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:59:45.8322229+00:00",
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18650,
+      "Progressed": 18651,
       "Completed": 19
     }
   ],

@@ -8,7 +8,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 15912
+      "UsersEstimate": 15913
     },
     {
       "ID": "Animated",
@@ -48,7 +48,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9031
+      "UsersEstimate": 9032
     },
     {
       "ID": "Collect_Spores",
@@ -88,7 +88,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3441
     },
     {
       "ID": "Discovery",
@@ -96,7 +96,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13547
+      "UsersEstimate": 13548
     },
     {
       "ID": "Dont_Need_These",
@@ -120,7 +120,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "Escape_Artist",
@@ -128,7 +128,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3441
     },
     {
       "ID": "Fragile_Panes",
@@ -272,7 +272,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3441
     },
     {
       "ID": "Side_Hustle",
@@ -344,7 +344,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9676
+      "UsersEstimate": 9677
     },
     {
       "ID": "Terrifying",
@@ -368,7 +368,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9461
+      "UsersEstimate": 9462
     },
     {
       "ID": "Tobins_Prodigy",
@@ -392,7 +392,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10536
+      "UsersEstimate": 10537
     },
     {
       "ID": "Welcome_Crew",
@@ -1425,6 +1425,11 @@
       "Time": "2023-05-05T03:05:25.7860227+00:00",
       "NumProgressed": 21503,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-05T04:06:18.0502383+00:00",
+      "NumProgressed": 21504,
+      "NumCompleted": 40
     }
   ],
   "RatingHistory": [
@@ -2211,18 +2216,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-05T03:05:25.7860222+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:18.0502377+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 408,
   "EOS_Completed": 40,
-  "EOS_Progressed": 21503,
-  "LastUpdate_Achievements": "2023-05-05T03:05:25.7860726+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:44.8063536+00:00",
+  "EOS_Progressed": 21504,
+  "LastUpdate_Achievements": "2023-05-05T04:06:18.0502915+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:59:05.1176694+00:00",
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21503,
+      "Progressed": 21504,
       "Completed": 40
     }
   ],

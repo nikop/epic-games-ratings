@@ -61,7 +61,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1362
+      "Count": 1368
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4591,6 +4591,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 21752,
       "NumberOfAwardsMax": 2533
+    },
+    {
+      "Time": "2023-05-05T03:58:18.5027004+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21758,
+      "NumberOfAwardsMax": 2533
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4599,15 +4605,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T03:01:04.1686361+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:03.7880059+00:00",
+  "LastUpdate_Achievements": "2023-05-05T04:01:49.4179755+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:58:18.5027009+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T01:51:03.308798+00:00",
+  "LastChanged": "2023-05-05T03:58:18.5027002+00:00",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 2533,
-  "NumberOfAwards": 21752,
+  "NumberOfAwards": 21758,
   "NumberOfRatings": 6825,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,

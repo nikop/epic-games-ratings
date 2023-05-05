@@ -10,7 +10,7 @@
 | Scraping by | 33.00% | ~26 |
 | Engineer-mage hybrid | 33.00% | ~26 |
 | Complete Level 1-3 | 29.00% | ~23 |
-| Defeat the warrior boss | 22.00% | ~17 |
+| Defeat the warrior boss | 23.00% | ~18 |
 | Get out of my way | 21.00% | ~16 |
 | Redecorator | 18.00% | ~14 |
 | Versatile | 18.00% | ~14 |

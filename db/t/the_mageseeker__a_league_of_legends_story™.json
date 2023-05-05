@@ -72,7 +72,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -184,7 +184,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -192,7 +192,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -224,7 +224,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -400,7 +400,7 @@
       "Name": "Full equipped",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1153,6 +1153,11 @@
       "Time": "2023-05-05T03:05:07.6874698+00:00",
       "NumProgressed": 1876,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T04:05:57.3629566+00:00",
+      "NumProgressed": 1877,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1189,18 +1194,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T03:05:07.6874693+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:57.362956+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 219,
   "EOS_Completed": 1,
-  "EOS_Progressed": 1876,
-  "LastUpdate_Achievements": "2023-05-05T03:05:07.6875213+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:23.5480445+00:00",
+  "EOS_Progressed": 1877,
+  "LastUpdate_Achievements": "2023-05-05T04:05:57.363011+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:32.2018849+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1876,
+      "Progressed": 1877,
       "Completed": 1
     }
   ],
@@ -1211,7 +1216,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_Progress": 142,
   "Ranking_PopularitySum": 490,

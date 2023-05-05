@@ -1,6 +1,6 @@
 # Hercule Poirot - The First Cases
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.33 (Ranked 730)  
+Rating: 4.33 (Ranked 731)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

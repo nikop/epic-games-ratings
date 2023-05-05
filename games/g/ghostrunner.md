@@ -9,20 +9,20 @@ Diff (max vs sum): -92
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,084 |
-| Sword Runner | 62.00% | ~2,420 |
-| Wallrunner | 58.00% | ~2,264 |
-| Running out of breath | 56.00% | ~2,186 |
+| Longrunner | 79.00% | ~3,085 |
+| Sword Runner | 62.00% | ~2,421 |
+| Wallrunner | 58.00% | ~2,265 |
+| Running out of breath | 56.00% | ~2,187 |
 | Homerunner | 47.00% | ~1,835 |
 | Out of order | 47.00% | ~1,835 |
 | I call it luck | 46.00% | ~1,796 |
 | Where are my Keys? | 44.00% | ~1,718 |
 | Back to hell | 39.00% | ~1,523 |
-| Perfection | 34.00% | ~1,327 |
-| Sword to a gunfight | 32.00% | ~1,249 |
-| Why not both | 32.00% | ~1,249 |
-| Running Wild | 30.00% | ~1,171 |
-| Upgrades not mandatory | 30.00% | ~1,171 |
+| Perfection | 34.00% | ~1,328 |
+| Sword to a gunfight | 32.00% | ~1,250 |
+| Why not both | 32.00% | ~1,250 |
+| Running Wild | 30.00% | ~1,172 |
+| Upgrades not mandatory | 30.00% | ~1,172 |
 | Artificial selection | 29.00% | ~1,132 |
 | Control freak | 29.00% | ~1,132 |
 | Finish line | 27.00% | ~1,054 |
@@ -55,7 +55,7 @@ Diff (max vs sum): -92
 | Legacy Drivers | 0.50% | ~20 |
 | Up Close And Personal | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,904 (Ranked 127)  
+Progressed: 3,905 (Ranked 127)  
 Completed: 20 (0.51%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 20 (0.51%) (Ranked 97)
 | 2023-05-02 | 3,732 | 19 |
 | 2023-05-03 | 3,816 | 19 |
 | 2023-05-04 | 3,897 | 20 |
-| 2023-05-05 | 3,904 | 20 |
+| 2023-05-05 | 3,905 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

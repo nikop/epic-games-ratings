@@ -6,17 +6,17 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
@@ -46,7 +46,7 @@
       "ID": "ACH_10_SHEPHERDS_KILLED",
       "SetID": "aio76gp",
       "Name": "Test of Faith",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -54,9 +54,9 @@
       "ID": "ACH_10_STAGES_ENDLESS",
       "SetID": "aio76gp",
       "Name": "Demolition Ambition",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_20000_CIVILIANS",
@@ -70,9 +70,9 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
@@ -102,9 +102,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -118,7 +118,7 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -158,7 +158,7 @@
       "ID": "ACH_50_POLICE_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Punchy Wagon",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -206,15 +206,15 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -259,6 +259,11 @@
       "Time": "2023-04-29T22:00:34.5630524+00:00",
       "NumProgressed": 35,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T04:05:57.5026901+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -271,30 +276,30 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T03:05:07.6906515+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:57.5026896+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_Completed": 2,
-  "EOS_Progressed": 35,
-  "LastUpdate_Achievements": "2023-05-05T03:05:07.6906708+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:12.1082251+00:00",
+  "EOS_Progressed": 36,
+  "LastUpdate_Achievements": "2023-05-05T04:05:57.5027121+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:58:27.9224465+00:00",
   "AchievementSets": [
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Completed_Percentage": 5.56,
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeen": "2022-10-23T19:31:15.6236599+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00"
 }

@@ -3,22 +3,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 100.00% | ~12 |
-| First Blood | 58.00% | ~7 |
-| No Asperascope | 42.00% | ~5 |
-| Triple Kill | 42.00% | ~5 |
-| Cornivore | 42.00% | ~5 |
-| 15K | 25.00% | ~3 |
-| Drinking Problem | 25.00% | ~3 |
-| Graveside Survivor | 25.00% | ~3 |
-| Skin Of Your Teeth | 25.00% | ~3 |
-| 10K | 25.00% | ~3 |
-| Chick Magnet | 17.00% | ~2 |
-| Fresh Pancake | 17.00% | ~2 |
-| Quit Horsin' Around | 17.00% | ~2 |
-| Pork Chop Express | 17.00% | ~2 |
-| Eggtraordinary | 17.00% | ~2 |
-| Carrocketeer | 17.00% | ~2 |
+| Seeds of War | 100.00% | ~13 |
+| First Blood | 54.00% | ~7 |
+| Triple Kill | 46.00% | ~6 |
+| Cornivore | 46.00% | ~6 |
+| No Asperascope | 38.00% | ~5 |
+| 15K | 23.00% | ~3 |
+| Drinking Problem | 23.00% | ~3 |
+| Graveside Survivor | 23.00% | ~3 |
+| Skin Of Your Teeth | 23.00% | ~3 |
+| 10K | 23.00% | ~3 |
+| Chick Magnet | 15.00% | ~2 |
+| Fresh Pancake | 15.00% | ~2 |
+| Quit Horsin' Around | 15.00% | ~2 |
+| Pork Chop Express | 15.00% | ~2 |
+| Eggtraordinary | 15.00% | ~2 |
+| Carrocketeer | 15.00% | ~2 |
 | Bring Home The Bacon | 8.00% | ~1 |
 | 15 Days | 8.00% | ~1 |
 | Getting Started | 8.00% | ~1 |
@@ -48,7 +48,7 @@
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 300)  
+Progressed: 13 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 8 | 0 |
 | 2023-05-03 | 10 | 0 |
 | 2023-05-04 | 11 | 0 |
-| 2023-05-05 | 12 | 0 |
+| 2023-05-05 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

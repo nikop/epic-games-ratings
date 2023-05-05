@@ -39,8 +39,8 @@ Diff (max vs sum): -19
 | Disciple | 30.00% | ~254 |
 | Mastery of Weapons | 29.00% | ~245 |
 | Two Birds | 26.00% | ~220 |
+| Ghosts | 25.00% | ~211 |
 | Uneasy Alliance | 24.00% | ~203 |
-| Ghosts | 24.00% | ~203 |
 | Mastery of Combat | 22.00% | ~186 |
 | Retaliate | 21.00% | ~177 |
 | Mastery of Rites | 20.00% | ~169 |

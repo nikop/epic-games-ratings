@@ -8,7 +8,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -24,7 +24,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9171
+      "UsersEstimate": 9172
     },
     {
       "ID": "Audiophile",
@@ -40,7 +40,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11329
+      "UsersEstimate": 11330
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -48,7 +48,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9171
+      "UsersEstimate": 9172
     },
     {
       "ID": "Butcher",
@@ -64,7 +64,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "Fair\u0027sFair",
@@ -72,7 +72,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "HardWorker",
@@ -80,7 +80,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10250
+      "UsersEstimate": 10251
     },
     {
       "ID": "Hearty",
@@ -88,7 +88,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "LazyBones",
@@ -96,7 +96,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "Magnetic Miracles",
@@ -112,7 +112,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10250
+      "UsersEstimate": 10251
     },
     {
       "ID": "Meaty",
@@ -120,7 +120,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "Mechanic",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9710
+      "UsersEstimate": 9711
     },
     {
       "ID": "Nice Try",
@@ -160,7 +160,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "Sniper",
@@ -184,7 +184,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "Tape Head",
@@ -192,7 +192,7 @@
       "Name": "Tape Head",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Vinyl Vibes",
@@ -200,7 +200,7 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     }
   ],
   "Tags": [],
@@ -1334,6 +1334,11 @@
       "Time": "2023-05-05T03:05:50.8660202+00:00",
       "NumProgressed": 53947,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-05-05T04:06:46.152999+00:00",
+      "NumProgressed": 53952,
+      "NumCompleted": 431
     }
   ],
   "RatingHistory": [
@@ -1352,18 +1357,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-05T03:05:50.8660197+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:46.1529986+00:00",
   "EOS_NewCompleters": 29,
-  "EOS_NewPlayers": 1580,
+  "EOS_NewPlayers": 1578,
   "EOS_Completed": 431,
-  "EOS_Progressed": 53947,
-  "LastUpdate_Achievements": "2023-05-05T03:05:50.8660449+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:00:27.3067946+00:00",
+  "EOS_Progressed": 53952,
+  "LastUpdate_Achievements": "2023-05-05T04:06:46.1530237+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:01:04.2796979+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 53947,
+      "Progressed": 53952,
       "Completed": 431
     }
   ],

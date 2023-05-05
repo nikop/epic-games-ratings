@@ -8,7 +8,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Achievement_002",
@@ -24,15 +24,15 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 760
     },
     {
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 320
     },
     {
       "ID": "Achievement_006",
@@ -56,7 +56,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Achievement_009",
@@ -64,7 +64,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 772
     },
     {
       "ID": "Achievement_010",
@@ -72,7 +72,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Achievement_011",
@@ -102,9 +102,9 @@
       "ID": "Achievement_014",
       "SetID": "6b34g18",
       "Name": "Monster Hunters Club",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_015",
@@ -126,9 +126,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 237
     },
     {
       "ID": "Achievement_018",
@@ -142,9 +142,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 1009
     },
     {
       "ID": "Achievement_020",
@@ -160,7 +160,7 @@
       "Name": "Radio Silence",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Achievement_022",
@@ -200,7 +200,7 @@
       "Name": "Fly Fisher",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Achievement_027",
@@ -208,15 +208,15 @@
       "Name": "Peek-a-boo",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 107
     },
     {
       "ID": "Achievement_029",
@@ -230,9 +230,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 534
     },
     {
       "ID": "Achievement_031",
@@ -240,7 +240,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Achievement_032",
@@ -256,7 +256,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "Achievement_034",
@@ -312,7 +312,7 @@
       "Name": "Heart Attack",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Achievement_041",
@@ -526,9 +526,9 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 214
     }
   ],
   "Tags": [],
@@ -892,6 +892,11 @@
       "Time": "2023-05-05T03:05:00.4414854+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T04:05:49.453742+00:00",
+      "NumProgressed": 1187,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -904,18 +909,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 66,
-  "LastChanged_Achievements": "2023-05-05T03:05:00.4414848+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:49.4537415+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1022,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1185,
-  "LastUpdate_Achievements": "2023-05-05T03:05:00.4415576+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:36.4872087+00:00",
+  "EOS_Progressed": 1187,
+  "LastUpdate_Achievements": "2023-05-05T04:05:49.4538128+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:46.5730248+00:00",
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1187,
       "Completed": 0
     }
   ],

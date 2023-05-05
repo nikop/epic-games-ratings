@@ -9,29 +9,29 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,652 |
+| Until death do us apart | 9.00% | ~2,653 |
 | That's a Grand Army | 8.00% | ~2,358 |
 | That is mine! | 8.00% | ~2,358 |
 | Victorious! | 8.00% | ~2,358 |
-| Brothers in Arms | 6.00% | ~1,768 |
-| That's a Grand Navy | 6.00% | ~1,768 |
-| Seriously?! | 6.00% | ~1,768 |
+| Brothers in Arms | 6.00% | ~1,769 |
+| That's a Grand Navy | 6.00% | ~1,769 |
+| Seriously?! | 6.00% | ~1,769 |
 | For the Glory | 5.00% | ~1,474 |
 | Cold War | 4.00% | ~1,179 |
 | Defender of the Faith | 3.00% | ~884 |
 | It's all about the money | 3.00% | ~884 |
 | Respected | 3.00% | ~884 |
 | True Catholic | 3.00% | ~884 |
-| Blockader | 2.00% | ~589 |
-| Combined Arms | 2.00% | ~589 |
-| Double the Love | 2.00% | ~589 |
-| Gentle Persuasion | 2.00% | ~589 |
-| It's all about luck | 2.00% | ~589 |
-| Queen of Conquest | 2.00% | ~589 |
-| Royal Authority | 2.00% | ~589 |
-| The Princess is in this Castle | 2.00% | ~589 |
-| Total Control | 2.00% | ~589 |
-| Truly Divine Ruler | 2.00% | ~589 |
+| Blockader | 2.00% | ~590 |
+| Combined Arms | 2.00% | ~590 |
+| Double the Love | 2.00% | ~590 |
+| Gentle Persuasion | 2.00% | ~590 |
+| It's all about luck | 2.00% | ~590 |
+| Queen of Conquest | 2.00% | ~590 |
+| Royal Authority | 2.00% | ~590 |
+| The Princess is in this Castle | 2.00% | ~590 |
+| Total Control | 2.00% | ~590 |
+| Truly Divine Ruler | 2.00% | ~590 |
 | Agressive Expander | 1.00% | ~295 |
 | Azur semé de lis or | 1.00% | ~295 |
 | Bright Spark | 1.00% | ~295 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,470 (Ranked 82)  
+Progressed: 29,479 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,470 | 0 |
+| 2023-05-05 | 29,479 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

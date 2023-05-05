@@ -96,7 +96,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH13",
@@ -112,7 +112,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH15",
@@ -168,7 +168,7 @@
       "Name": "Legal Counsel",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "ACH22",
@@ -192,7 +192,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH25",
@@ -200,7 +200,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH26",
@@ -898,6 +898,11 @@
       "Time": "2023-05-05T00:04:56.981319+00:00",
       "NumProgressed": 6029,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-05T04:05:58.4829176+00:00",
+      "NumProgressed": 6031,
+      "NumCompleted": 20
     }
   ],
   "RatingHistory": [
@@ -1154,18 +1159,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-05T03:05:08.5550775+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:58.4829171+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_Completed": 20,
-  "EOS_Progressed": 6029,
-  "LastUpdate_Achievements": "2023-05-05T03:05:08.5551065+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:03.3274922+00:00",
+  "EOS_Progressed": 6031,
+  "LastUpdate_Achievements": "2023-05-05T04:05:58.4829467+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:58:18.0018714+00:00",
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6029,
+      "Progressed": 6031,
       "Completed": 20
     }
   ],
@@ -1177,7 +1182,7 @@
   "NumberOfAwardsMax": 28,
   "NumberOfAwards": 28,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_Progress": 114,
   "Ranking_PopularitySum": 461,

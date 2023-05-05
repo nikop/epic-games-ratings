@@ -16,7 +16,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11037
+      "UsersEstimate": 11038
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24,7 +24,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 35213
+      "UsersEstimate": 35218
     },
     {
       "ID": "BEST_FRIENDS",
@@ -32,7 +32,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11563
+      "UsersEstimate": 11564
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -40,7 +40,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13667
     },
     {
       "ID": "ERADICATE",
@@ -48,7 +48,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10513
     },
     {
       "ID": "FETCH",
@@ -56,7 +56,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14190
+      "UsersEstimate": 14192
     },
     {
       "ID": "FOXIN_AROUND",
@@ -64,7 +64,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 14716
+      "UsersEstimate": 14718
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -80,7 +80,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 9460
+      "UsersEstimate": 9462
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -88,7 +88,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 27855
+      "UsersEstimate": 27859
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -152,7 +152,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10513
     },
     {
       "ID": "SPIRIT_DASH",
@@ -168,7 +168,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7884
+      "UsersEstimate": 7885
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -176,7 +176,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7358
+      "UsersEstimate": 7359
     },
     {
       "ID": "WEIGHTLESS",
@@ -184,7 +184,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -192,7 +192,7 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 7884
+      "UsersEstimate": 7885
     }
   ],
   "Tags": [
@@ -1335,6 +1335,11 @@
       "Time": "2023-05-05T03:05:32.527653+00:00",
       "NumProgressed": 52557,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-05T04:06:25.6117206+00:00",
+      "NumProgressed": 52564,
+      "NumCompleted": 238
     }
   ],
   "RatingHistory": [
@@ -1589,18 +1594,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T03:05:32.5276525+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:25.6117203+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1057,
   "EOS_Completed": 238,
-  "EOS_Progressed": 52557,
-  "LastUpdate_Achievements": "2023-05-05T03:05:32.5276774+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:59:21.2903457+00:00",
+  "EOS_Progressed": 52564,
+  "LastUpdate_Achievements": "2023-05-05T04:06:25.6117424+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:59:46.0148162+00:00",
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 52557,
+      "Progressed": 52564,
       "Completed": 238
     }
   ],
@@ -1612,7 +1617,7 @@
   "NumberOfAwardsMax": 25,
   "NumberOfAwards": 73,
   "NumberOfRatings": 1175,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_Progress": 72,

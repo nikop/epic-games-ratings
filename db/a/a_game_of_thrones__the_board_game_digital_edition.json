@@ -80,7 +80,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "1025",
@@ -112,7 +112,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "1029",
@@ -120,7 +120,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "1030",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "1031",
@@ -136,7 +136,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "1032",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "1033",
@@ -176,7 +176,7 @@
       "Name": "A Long Journey",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     }
   ],
   "Tags": [
@@ -1314,6 +1314,11 @@
     {
       "Time": "2023-05-05T02:32:26.8917097+00:00",
       "NumProgressed": 11027,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T04:06:40.4685965+00:00",
+      "NumProgressed": 11031,
       "NumCompleted": 23
     }
   ],
@@ -2472,18 +2477,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T03:05:45.7372449+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:40.4685962+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 916,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11027,
-  "LastUpdate_Achievements": "2023-05-05T03:05:45.7372655+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:00:09.8107012+00:00",
+  "EOS_Progressed": 11031,
+  "LastUpdate_Achievements": "2023-05-05T04:06:40.4686175+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:00:43.4383321+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11027,
+      "Progressed": 11031,
       "Completed": 23
     }
   ],

@@ -88,7 +88,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7564
+      "UsersEstimate": 7565
     },
     {
       "ID": "firstItem",
@@ -96,7 +96,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23600
+      "UsersEstimate": 23602
     },
     {
       "ID": "roots",
@@ -1066,6 +1066,11 @@
       "Time": "2023-05-05T02:32:28.3418352+00:00",
       "NumProgressed": 30257,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-05T04:06:41.8222962+00:00",
+      "NumProgressed": 30259,
+      "NumCompleted": 93
     }
   ],
   "RatingHistory": [
@@ -1273,18 +1278,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T03:05:47.0070854+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:41.8222958+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_Completed": 93,
-  "EOS_Progressed": 30257,
-  "LastUpdate_Achievements": "2023-05-05T03:05:47.0071021+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:00:11.5350764+00:00",
+  "EOS_Progressed": 30259,
+  "LastUpdate_Achievements": "2023-05-05T04:06:41.822314+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:00:45.4894815+00:00",
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30257,
+      "Progressed": 30259,
       "Completed": 93
     }
   ],

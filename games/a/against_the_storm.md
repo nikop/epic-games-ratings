@@ -1,6 +1,6 @@
 # Against the Storm
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  

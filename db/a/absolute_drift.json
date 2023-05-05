@@ -16,7 +16,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106004
+      "UsersEstimate": 106005
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -40,7 +40,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45430
+      "UsersEstimate": 45431
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -56,7 +56,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136291
+      "UsersEstimate": 136292
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -64,7 +64,7 @@
       "Name": "Hoon Airlines",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACH_INSANE_SKILLS",
@@ -88,7 +88,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45430
+      "UsersEstimate": 45431
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -112,7 +112,7 @@
       "Name": "Midnight Master",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -136,7 +136,7 @@
       "Name": "Spin Doctor",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -152,7 +152,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75717
+      "UsersEstimate": 75718
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -1299,6 +1299,11 @@
       "Time": "2023-05-05T03:05:44.4084203+00:00",
       "NumProgressed": 1514346,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T04:06:38.9265656+00:00",
+      "NumProgressed": 1514352,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1698,18 +1703,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T03:05:44.4084198+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:38.9265651+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1521,
+  "EOS_NewPlayers": 1522,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514346,
-  "LastUpdate_Achievements": "2023-05-05T03:05:44.4084388+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:00:01.9527641+00:00",
+  "EOS_Progressed": 1514352,
+  "LastUpdate_Achievements": "2023-05-05T04:06:38.9265894+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:00:34.4939532+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514346,
+      "Progressed": 1514352,
       "Completed": 597
     }
   ],

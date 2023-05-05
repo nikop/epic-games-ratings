@@ -9,25 +9,25 @@ Diff (max vs sum): 59
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~196,120 |
-| Private Club | 74.00% | ~159,482 |
+| Private Club | 74.00% | ~159,483 |
 | Rogue Guild | 66.00% | ~142,241 |
-| I Watched the Intro | 58.00% | ~124,999 |
+| I Watched the Intro | 58.00% | ~125,000 |
 | Covert Consortium | 55.00% | ~118,534 |
-| Goat Queen | 53.00% | ~114,223 |
+| Goat Queen | 53.00% | ~114,224 |
 | Reach the Stratosphere | 49.00% | ~105,603 |
 | Synchronization Complete | 47.00% | ~101,293 |
-| Secret Society | 45.00% | ~96,982 |
+| Secret Society | 45.00% | ~96,983 |
 | Shadow Syndicate | 37.00% | ~79,741 |
 | What a Waste of Money | 32.00% | ~68,965 |
 | New Goat Order | 30.00% | ~64,655 |
-| Don't touch the servers | 28.00% | ~60,344 |
+| Don't touch the servers | 28.00% | ~60,345 |
 | San Angora: Become Human | 26.00% | ~56,034 |
 | Raider of the Lost Parking Garage | 26.00% | ~56,034 |
 | Real Buoy | 26.00% | ~56,034 |
 | Welcome to Earth | 25.00% | ~53,879 |
 | Into the Matrix | 19.00% | ~40,948 |
 | Where is It? | 17.00% | ~36,638 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~32,327 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~32,328 |
 | Egg Simulator | 14.00% | ~30,172 |
 | Black Market | 14.00% | ~30,172 |
 | 401(K.O.) | 14.00% | ~30,172 |
@@ -37,7 +37,7 @@ Diff (max vs sum): 59
 | French Fika | 7.00% | ~15,086 |
 | Nasty! | 4.00% | ~8,621 |
 | [REDACTED] | 4.00% | ~8,621 |
-| Who Baywatches the Baywatch? | 3.00% | ~6,465 |
+| Who Baywatches the Baywatch? | 3.00% | ~6,466 |
 | Cannibanana | 2.00% | ~4,310 |
 | Daredevil | 2.00% | ~4,310 |
 | Certified Fresh | 1.00% | ~2,155 |
@@ -48,7 +48,7 @@ Diff (max vs sum): 59
 | Move! That! Bus! | 0.60% | ~1,293 |
 | G.O.A.T | 0.30% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,516 (Ranked 45)  
+Progressed: 215,517 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 686 (0.32%) (Ranked 113)
 | 2023-05-02 | 215,267 | 686 |
 | 2023-05-03 | 215,383 | 686 |
 | 2023-05-04 | 215,498 | 686 |
-| 2023-05-05 | 215,516 | 686 |
+| 2023-05-05 | 215,517 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

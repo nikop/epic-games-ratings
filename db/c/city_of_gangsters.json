@@ -112,7 +112,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43255
+      "UsersEstimate": 43256
     },
     {
       "ID": "ach015",
@@ -144,7 +144,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21627
+      "UsersEstimate": 21628
     },
     {
       "ID": "ach019",
@@ -216,7 +216,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 142123
+      "UsersEstimate": 142125
     },
     {
       "ID": "ach028",
@@ -232,7 +232,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30896
+      "UsersEstimate": 30897
     },
     {
       "ID": "ach030",
@@ -312,7 +312,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30896
+      "UsersEstimate": 30897
     },
     {
       "ID": "ach040",
@@ -344,7 +344,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21627
+      "UsersEstimate": 21628
     },
     {
       "ID": "ach044",
@@ -360,7 +360,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40165
+      "UsersEstimate": 40166
     },
     {
       "ID": "ach046",
@@ -368,7 +368,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21627
+      "UsersEstimate": 21628
     },
     {
       "ID": "ach047",
@@ -472,7 +472,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30896
+      "UsersEstimate": 30897
     },
     {
       "ID": "ach060",
@@ -520,7 +520,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43255
+      "UsersEstimate": 43256
     },
     {
       "ID": "ach067",
@@ -536,7 +536,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 49434
+      "UsersEstimate": 49435
     },
     {
       "ID": "ach069",
@@ -544,7 +544,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43255
+      "UsersEstimate": 43256
     },
     {
       "ID": "ach070",
@@ -1767,6 +1767,11 @@
       "Time": "2023-05-05T03:05:05.5607416+00:00",
       "NumProgressed": 308963,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T04:05:54.9774479+00:00",
+      "NumProgressed": 308968,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2035,18 +2040,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 80,
-  "LastChanged_Achievements": "2023-05-05T03:05:05.5607409+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:05:54.9774474+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2904,
+  "EOS_NewPlayers": 2898,
   "EOS_Completed": 3,
-  "EOS_Progressed": 308963,
-  "LastUpdate_Achievements": "2023-05-05T03:05:05.5608413+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:57:30.7699222+00:00",
+  "EOS_Progressed": 308968,
+  "LastUpdate_Achievements": "2023-05-05T04:05:54.9775432+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:57:39.9153658+00:00",
   "AchievementSets": [
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 308963,
+      "Progressed": 308968,
       "Completed": 3
     }
   ],

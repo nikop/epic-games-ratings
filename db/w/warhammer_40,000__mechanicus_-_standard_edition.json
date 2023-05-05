@@ -8,7 +8,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 39621
+      "UsersEstimate": 39622
     },
     {
       "ID": "ACH_BASE_10",
@@ -16,7 +16,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 52134
+      "UsersEstimate": 52135
     },
     {
       "ID": "ACH_BASE_11",
@@ -32,7 +32,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8341
+      "UsersEstimate": 8342
     },
     {
       "ID": "ACH_BASE_13",
@@ -48,7 +48,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18768
+      "UsersEstimate": 18769
     },
     {
       "ID": "ACH_BASE_16",
@@ -56,7 +56,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18768
+      "UsersEstimate": 18769
     },
     {
       "ID": "ACH_BASE_17",
@@ -64,7 +64,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18768
+      "UsersEstimate": 18769
     },
     {
       "ID": "ACH_BASE_18",
@@ -72,7 +72,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18768
+      "UsersEstimate": 18769
     },
     {
       "ID": "ACH_BASE_19",
@@ -176,7 +176,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8341
+      "UsersEstimate": 8342
     },
     {
       "ID": "ACH_BASE_30",
@@ -256,7 +256,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25024
+      "UsersEstimate": 25025
     },
     {
       "ID": "ACH_BASE_8",
@@ -264,7 +264,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8341
+      "UsersEstimate": 8342
     },
     {
       "ID": "ACH_BASE_9",
@@ -272,7 +272,7 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18768
+      "UsersEstimate": 18769
     }
   ],
   "Tags": [
@@ -1452,6 +1452,11 @@
       "Time": "2023-05-05T03:05:10.5525186+00:00",
       "NumProgressed": 208534,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T04:06:00.5934069+00:00",
+      "NumProgressed": 208539,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -1722,18 +1727,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-05T03:05:10.5525181+00:00",
+  "LastChanged_Achievements": "2023-05-05T04:06:00.5934064+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1025,
+  "EOS_NewPlayers": 1029,
   "EOS_Completed": 2,
-  "EOS_Progressed": 208534,
-  "LastUpdate_Achievements": "2023-05-05T03:05:10.5525502+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:58:18.6405581+00:00",
+  "EOS_Progressed": 208539,
+  "LastUpdate_Achievements": "2023-05-05T04:06:00.5934419+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:58:34.6689937+00:00",
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 208534,
+      "Progressed": 208539,
       "Completed": 2
     }
   ],

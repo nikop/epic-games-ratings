@@ -10,18 +10,18 @@ Diff (max vs sum): -69
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,116 |
-| Man of politics | 36.00% | ~4,385 |
-| Friends of sorts | 35.00% | ~4,263 |
-| Yet another secret | 35.00% | ~4,263 |
+| Man of politics | 36.00% | ~4,386 |
+| Friends of sorts | 35.00% | ~4,264 |
+| Yet another secret | 35.00% | ~4,264 |
 | Let there be darkness | 34.00% | ~4,142 |
 | End of Book One | 31.00% | ~3,776 |
-| Wannabe knight | 25.00% | ~3,045 |
-| Garden of Eden | 25.00% | ~3,045 |
-| Full house | 25.00% | ~3,045 |
+| Wannabe knight | 25.00% | ~3,046 |
+| Garden of Eden | 25.00% | ~3,046 |
+| Full house | 25.00% | ~3,046 |
 | Help an old friend | 22.00% | ~2,680 |
 | Two of us | 21.00% | ~2,558 |
-| Negotiation skills | 19.00% | ~2,314 |
-| Workers' union | 19.00% | ~2,314 |
+| Negotiation skills | 19.00% | ~2,315 |
+| Workers' union | 19.00% | ~2,315 |
 | End of Book Two | 18.00% | ~2,193 |
 | Everything's in order | 17.00% | ~2,071 |
 | Jack was here! | 15.00% | ~1,827 |
@@ -38,7 +38,7 @@ Diff (max vs sum): -69
 | The oath | 9.00% | ~1,096 |
 | The truth revealed | 9.00% | ~1,096 |
 | The End. | 9.00% | ~1,096 |
-| A cry for help | 8.00% | ~974 |
+| A cry for help | 8.00% | ~975 |
 | Silentium est aureum | 7.00% | ~853 |
 | Rebel without a cause | 6.00% | ~731 |
 | Staring contest champion | 5.00% | ~609 |
@@ -51,7 +51,7 @@ Diff (max vs sum): -69
 | A brush with death | 3.00% | ~365 |
 | Boy of mystery | 2.00% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,181 (Ranked 101)  
+Progressed: 12,182 (Ranked 101)  
 Completed: 91 (0.75%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 91 (0.75%) (Ranked 88)
 | 2023-05-02 | 12,153 | 91 |
 | 2023-05-03 | 12,164 | 91 |
 | 2023-05-04 | 12,177 | 91 |
-| 2023-05-05 | 12,181 | 91 |
+| 2023-05-05 | 12,182 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
