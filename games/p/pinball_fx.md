@@ -9,28 +9,28 @@ Diff (max vs sum): 62
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~171,312 |
-| I know the Rules | 45.00% | ~95,173 |
-| Contender | 12.00% | ~25,380 |
-| I Found it! | 6.00% | ~12,690 |
+| Ball Launched | 81.00% | ~171,325 |
+| I know the Rules | 45.00% | ~95,180 |
+| Contender | 12.00% | ~25,381 |
+| I Found it! | 6.00% | ~12,691 |
 | Dress Code | 4.00% | ~8,460 |
 | First but not Last | 3.00% | ~6,345 |
 | Ready Steady Score | 2.00% | ~4,230 |
 | Full Loot Madness | 2.00% | ~4,230 |
-| Nine Zeroes | 0.90% | ~1,903 |
-| My Table, my Rules | 0.70% | ~1,480 |
-| Shiny Memento | 0.30% | ~634 |
-| Pinball Hoarder | 0.30% | ~634 |
-| Interior Designer | 0.30% | ~634 |
-| Table Mastered, part 10 | 0.10% | ~211 |
-| Medal Hunter | 0.10% | ~211 |
-| Medal Wizard | 0.10% | ~211 |
-| Virtual Pinball Museum | 0.10% | ~211 |
-| Challenge Accepted! | 0.10% | ~211 |
-| Relic Hunter | 0.10% | ~211 |
-| Show Them | 0.10% | ~211 |
-| Totally Furnished | 0.10% | ~211 |
-| Customizer | 0.10% | ~211 |
+| Nine Zeroes | 0.90% | ~1,904 |
+| My Table, my Rules | 0.70% | ~1,481 |
+| Shiny Memento | 0.30% | ~635 |
+| Pinball Hoarder | 0.30% | ~635 |
+| Interior Designer | 0.30% | ~635 |
+| Table Mastered, part 10 | 0.10% | ~212 |
+| Medal Hunter | 0.10% | ~212 |
+| Medal Wizard | 0.10% | ~212 |
+| Virtual Pinball Museum | 0.10% | ~212 |
+| Challenge Accepted! | 0.10% | ~212 |
+| Relic Hunter | 0.10% | ~212 |
+| Show Them | 0.10% | ~212 |
+| Totally Furnished | 0.10% | ~212 |
+| Customizer | 0.10% | ~212 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -40,7 +40,7 @@ Diff (max vs sum): 62
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,496 (Ranked 46)  
+Progressed: 211,512 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 210,792 | 0 |
 | 2023-05-03 | 211,060 | 0 |
 | 2023-05-04 | 211,393 | 0 |
-| 2023-05-05 | 211,496 | 0 |
+| 2023-05-05 | 211,512 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

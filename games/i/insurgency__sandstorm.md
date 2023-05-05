@@ -18,11 +18,11 @@ Diff (max vs sum): 47
 | Lucky | 3.00% | ~10,858 |
 | Stylin' | 3.00% | ~10,858 |
 | Turf War | 3.00% | ~10,858 |
-| Banged | 2.00% | ~7,238 |
-| First Blood | 2.00% | ~7,238 |
-| Flaccid Paralysis | 2.00% | ~7,238 |
-| Push Victory | 2.00% | ~7,238 |
-| Self-destructive | 2.00% | ~7,238 |
+| Banged | 2.00% | ~7,239 |
+| First Blood | 2.00% | ~7,239 |
+| Flaccid Paralysis | 2.00% | ~7,239 |
+| Push Victory | 2.00% | ~7,239 |
+| Self-destructive | 2.00% | ~7,239 |
 | Blindfire | 1.00% | ~3,619 |
 | Efficient | 1.00% | ~3,619 |
 | Ruthless | 1.00% | ~3,619 |
@@ -32,8 +32,8 @@ Diff (max vs sum): 47
 | Personal | 0.90% | ~3,257 |
 | Grounded | 0.80% | ~2,895 |
 | Play to Win | 0.80% | ~2,895 |
-| #1 | 0.70% | ~2,533 |
-| Special Delivery | 0.70% | ~2,533 |
+| #1 | 0.70% | ~2,534 |
+| Special Delivery | 0.70% | ~2,534 |
 | Firefight Victory | 0.60% | ~2,172 |
 | Cinematic | 0.50% | ~1,810 |
 | Thanks Station! | 0.40% | ~1,448 |
@@ -45,7 +45,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,920 (Ranked 35)  
+Progressed: 361,930 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 361,920 | 2 |
+| 2023-05-05 | 361,930 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

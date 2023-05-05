@@ -72,7 +72,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10600
+      "UsersEstimate": 10601
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -1309,6 +1309,11 @@
       "Time": "2023-05-05T05:05:19.1919806+00:00",
       "NumProgressed": 1514357,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T06:05:49.9074875+00:00",
+      "NumProgressed": 1514360,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1708,18 +1713,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T05:05:19.1919804+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:49.9074872+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1522,
+  "EOS_NewPlayers": 1520,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514357,
-  "LastUpdate_Achievements": "2023-05-05T05:05:19.1919943+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:59:30.5924933+00:00",
+  "EOS_Progressed": 1514360,
+  "LastUpdate_Achievements": "2023-05-05T06:05:49.907505+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:00:06.8458916+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514357,
+      "Progressed": 1514360,
       "Completed": 597
     }
   ],

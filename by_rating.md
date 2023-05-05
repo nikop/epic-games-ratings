@@ -533,7 +533,7 @@
 | 530 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 252 |
 | 530 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
 | 530 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
-| 530 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,509 | 12 |
+| 530 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,534 | 12 |
 | 530 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
 | 530 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,286 | 94 |
 | 530 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |

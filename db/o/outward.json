@@ -16,7 +16,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "AncestorsPride_13",
@@ -80,7 +80,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ForAllAurai_8",
@@ -96,7 +96,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -112,7 +112,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "HouseofCards_19",
@@ -136,7 +136,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "LightofLevant_18",
@@ -152,7 +152,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "MasterofAurai_20",
@@ -192,7 +192,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "ReadyforWinter_42",
@@ -208,7 +208,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -216,7 +216,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -328,7 +328,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -591,6 +591,11 @@
     {
       "Time": "2023-05-05T05:04:53.4980456+00:00",
       "NumProgressed": 2306,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T06:05:20.0212791+00:00",
+      "NumProgressed": 2307,
       "NumCompleted": 1
     }
   ],
@@ -989,18 +994,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-05T05:04:53.498045+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:20.0212783+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2306,
-  "LastUpdate_Achievements": "2023-05-05T05:04:53.4980734+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:57:22.3258806+00:00",
+  "EOS_Progressed": 2307,
+  "LastUpdate_Achievements": "2023-05-05T06:05:20.021324+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:57:35.6473616+00:00",
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2306,
+      "Progressed": 2307,
       "Completed": 1
     }
   ],
@@ -1012,7 +1017,7 @@
   "NumberOfAwards": 238,
   "NumberOfRatings": 266,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 137,
   "Ranking_PopularitySum": 341,

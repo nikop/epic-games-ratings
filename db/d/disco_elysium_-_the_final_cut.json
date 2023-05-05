@@ -88,7 +88,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33027
+      "UsersEstimate": 33028
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -112,7 +112,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18872
+      "UsersEstimate": 18873
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -224,7 +224,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16513
+      "UsersEstimate": 16514
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -1388,6 +1388,11 @@
       "Time": "2023-05-05T05:05:04.3173417+00:00",
       "NumProgressed": 117953,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T06:05:32.4458934+00:00",
+      "NumProgressed": 117956,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2356,18 +2361,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T05:05:04.3173413+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:32.4458927+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 364,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117953,
-  "LastUpdate_Achievements": "2023-05-05T05:05:04.3173716+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:58:30.0312271+00:00",
+  "EOS_Progressed": 117956,
+  "LastUpdate_Achievements": "2023-05-05T06:05:32.4459453+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:58:58.3690928+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117953,
+      "Progressed": 117956,
       "Completed": 24
     }
   ],

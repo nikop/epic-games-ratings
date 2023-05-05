@@ -8,7 +8,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10863
+      "UsersEstimate": 10864
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -32,7 +32,7 @@
       "Name": "Danger Ahead",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -64,7 +64,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -88,7 +88,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "ACH_THE_FALL",
@@ -976,6 +976,11 @@
       "Time": "2023-05-05T05:05:23.6849252+00:00",
       "NumProgressed": 13751,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-05T06:05:55.2456534+00:00",
+      "NumProgressed": 13752,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1091,18 +1096,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T05:05:23.6849247+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:55.2456529+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 289,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13751,
-  "LastUpdate_Achievements": "2023-05-05T05:05:23.6849387+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:59:46.9035577+00:00",
+  "EOS_Progressed": 13752,
+  "LastUpdate_Achievements": "2023-05-05T06:05:55.2456719+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:00:27.3058363+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13751,
+      "Progressed": 13752,
       "Completed": 42
     }
   ],

@@ -1702,9 +1702,9 @@
       "ID": "objective_completed_36",
       "SetID": "cc37lbc",
       "Name": "The Death Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_37",
@@ -2190,9 +2190,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_546",
@@ -5068,6 +5068,11 @@
     {
       "Time": "2023-05-05T05:05:13.349798+00:00",
       "NumProgressed": 86502,
+      "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T06:05:43.4955309+00:00",
+      "NumProgressed": 86503,
       "NumCompleted": 1805
     }
   ],
@@ -8532,24 +8537,24 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T05:05:13.3497974+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:43.4955304+00:00",
   "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 800,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86502,
-  "LastUpdate_Achievements": "2023-05-05T05:05:13.3519472+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:57:40.4113946+00:00",
+  "EOS_Progressed": 86503,
+  "LastUpdate_Achievements": "2023-05-05T06:05:43.498104+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:57:57.590684+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52776,
-      "Completed": 2463
+      "Progressed": 52777,
+      "Completed": 2464
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86502,
+      "Progressed": 86503,
       "Completed": 1805
     }
   ],

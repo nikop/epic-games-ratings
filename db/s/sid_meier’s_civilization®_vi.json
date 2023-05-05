@@ -13,7 +13,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26744
+      "Count": 26776
     },
     {
       "Text": "This game is Educational",
@@ -4950,6 +4950,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 253068,
       "NumberOfAwardsMax": 30624
+    },
+    {
+      "Time": "2023-05-05T05:57:55.9519558+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 253100,
+      "NumberOfAwardsMax": 30624
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4958,15 +4964,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T05:00:02.1683136+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:57:39.0817685+00:00",
+  "LastUpdate_Achievements": "2023-05-05T06:00:47.1554661+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:57:55.9519564+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T04:57:39.0817678+00:00",
+  "LastChanged": "2023-05-05T05:57:55.9519556+00:00",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 30624,
-  "NumberOfAwards": 253068,
+  "NumberOfAwards": 253100,
   "NumberOfRatings": 57866,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 275,

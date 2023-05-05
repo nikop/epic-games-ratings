@@ -56,7 +56,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -802,6 +802,11 @@
       "Time": "2023-05-05T03:05:06.1137973+00:00",
       "NumProgressed": 5484,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T06:05:11.7902019+00:00",
+      "NumProgressed": 5485,
+      "NumCompleted": 19
     }
   ],
   "RatingHistory": [
@@ -908,18 +913,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-05T05:04:46.4031333+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:11.7902016+00:00",
   "EOS_NewCompleters": 3,
   "EOS_NewPlayers": 130,
   "EOS_Completed": 19,
-  "EOS_Progressed": 5484,
-  "LastUpdate_Achievements": "2023-05-05T05:04:46.4031467+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:57:35.4918896+00:00",
+  "EOS_Progressed": 5485,
+  "LastUpdate_Achievements": "2023-05-05T06:05:11.7902331+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:57:51.3933242+00:00",
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5484,
+      "Progressed": 5485,
       "Completed": 19
     }
   ],

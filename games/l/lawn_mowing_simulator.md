@@ -9,25 +9,25 @@ Diff (max vs sum): 36
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~499,718 |
-| Every story has a beginning | 37.00% | ~225,482 |
-| The first of many | 32.00% | ~195,012 |
-| Positive word of mouth | 18.00% | ~109,694 |
-| Lawn in the U.S.A. | 15.00% | ~91,412 |
-| Blade Runner | 9.00% | ~54,847 |
-| Credible | 7.00% | ~42,659 |
-| Teamwork makes the dream work | 5.00% | ~30,471 |
-| Bigger and better | 4.00% | ~24,376 |
-| Aggressive expansion | 4.00% | ~24,376 |
-| Where there's muck there's brass | 3.00% | ~18,282 |
-| Size isn't everything | 3.00% | ~18,282 |
-| Established | 3.00% | ~18,282 |
-| Mighty Mowing Park Ranger | 2.00% | ~12,188 |
-| Close shave | 2.00% | ~12,188 |
-| Every good deed… | 2.00% | ~12,188 |
-| Leaner and meaner | 2.00% | ~12,188 |
-| First step on the ladder | 2.00% | ~12,188 |
-| Trusted | 2.00% | ~12,188 |
+| The dream begins | 82.00% | ~499,733 |
+| Every story has a beginning | 37.00% | ~225,489 |
+| The first of many | 32.00% | ~195,018 |
+| Positive word of mouth | 18.00% | ~109,697 |
+| Lawn in the U.S.A. | 15.00% | ~91,414 |
+| Blade Runner | 9.00% | ~54,849 |
+| Credible | 7.00% | ~42,660 |
+| Teamwork makes the dream work | 5.00% | ~30,472 |
+| Bigger and better | 4.00% | ~24,377 |
+| Aggressive expansion | 4.00% | ~24,377 |
+| Where there's muck there's brass | 3.00% | ~18,283 |
+| Size isn't everything | 3.00% | ~18,283 |
+| Established | 3.00% | ~18,283 |
+| Mighty Mowing Park Ranger | 2.00% | ~12,189 |
+| Close shave | 2.00% | ~12,189 |
+| Every good deed… | 2.00% | ~12,189 |
+| Leaner and meaner | 2.00% | ~12,189 |
+| First step on the ladder | 2.00% | ~12,189 |
+| Trusted | 2.00% | ~12,189 |
 | Fighting on all fronts | 1.00% | ~6,094 |
 | The top of the mountain | 1.00% | ~6,094 |
 | Lawn & Order | 0.90% | ~5,485 |
@@ -36,7 +36,7 @@ Diff (max vs sum): 36
 | Jack of all trades | 0.80% | ~4,875 |
 | All hands on deck | 0.80% | ~4,875 |
 | Worked your grass off | 0.70% | ~4,266 |
-| The grass is always greener | 0.60% | ~3,656 |
+| The grass is always greener | 0.60% | ~3,657 |
 | Phoenix rises | 0.40% | ~2,438 |
 | Cut Loose | 0.40% | ~2,438 |
 | Esteemed | 0.40% | ~2,438 |
@@ -64,7 +64,7 @@ Diff (max vs sum): 36
 | Lawn Enforcement Officer | 0.10% | ~609 |
 | Mo mowers, mo problems | 0.10% | ~609 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609,412 (Ranked 19)  
+Progressed: 609,430 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 9 (0.00%) (Ranked 191)
 | 2023-05-02 | 608,630 | 9 |
 | 2023-05-03 | 608,996 | 9 |
 | 2023-05-04 | 609,338 | 9 |
-| 2023-05-05 | 609,412 | 9 |
+| 2023-05-05 | 609,430 | 9 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

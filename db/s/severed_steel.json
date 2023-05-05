@@ -16,7 +16,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40032
+      "UsersEstimate": 40034
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -24,7 +24,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24019
+      "UsersEstimate": 24020
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -32,7 +32,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36029
+      "UsersEstimate": 36030
     },
     {
       "ID": "BIGUPS",
@@ -72,7 +72,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28022
+      "UsersEstimate": 28023
     },
     {
       "ID": "CHAPTER2",
@@ -80,7 +80,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20016
+      "UsersEstimate": 20017
     },
     {
       "ID": "CHAPTER3",
@@ -384,7 +384,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28022
+      "UsersEstimate": 28023
     },
     {
       "ID": "SOUL",
@@ -1572,6 +1572,11 @@
       "Time": "2023-05-05T05:05:10.5397439+00:00",
       "NumProgressed": 400319,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-05T06:05:39.6350816+00:00",
+      "NumProgressed": 400335,
+      "NumCompleted": 29
     }
   ],
   "RatingHistory": [
@@ -1736,18 +1741,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 52,
-  "LastChanged_Achievements": "2023-05-05T05:05:10.5397434+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:39.635081+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2866,
+  "EOS_NewPlayers": 2873,
   "EOS_Completed": 29,
-  "EOS_Progressed": 400319,
-  "LastUpdate_Achievements": "2023-05-05T05:05:10.5397872+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:58:54.1804543+00:00",
+  "EOS_Progressed": 400335,
+  "LastUpdate_Achievements": "2023-05-05T06:05:39.6351321+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:59:27.766398+00:00",
   "AchievementSets": [
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400319,
+      "Progressed": 400335,
       "Completed": 29
     }
   ],

@@ -6,9 +6,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "cool-shirts",
@@ -56,7 +56,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "kill-lieutenants",
@@ -72,7 +72,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "play-at-night",
@@ -128,7 +128,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "unlock-residences",
@@ -144,7 +144,7 @@
       "Name": "Take-Off",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "use-submarine",
@@ -290,6 +290,11 @@
     {
       "Time": "2023-05-04T18:05:29.3004157+00:00",
       "NumProgressed": 304,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T06:05:52.3353725+00:00",
+      "NumProgressed": 305,
       "NumCompleted": 1
     }
   ],
@@ -552,18 +557,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-05T05:05:21.2373995+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:52.3353718+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_Completed": 1,
-  "EOS_Progressed": 304,
-  "LastUpdate_Achievements": "2023-05-05T05:05:21.2374114+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:59:31.9280846+00:00",
+  "EOS_Progressed": 305,
+  "LastUpdate_Achievements": "2023-05-05T06:05:52.3353852+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:00:08.464963+00:00",
   "AchievementSets": [
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 1
     }
   ],
@@ -574,7 +579,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 101,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_Progress": 204,
   "Ranking_PopularitySum": 490,

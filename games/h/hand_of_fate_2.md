@@ -9,13 +9,13 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,037 |
-| Apprentice | 58.00% | ~380,252 |
-| Close Shave | 25.00% | ~163,902 |
-| Mercenary | 23.00% | ~150,790 |
-| Ninja | 23.00% | ~150,790 |
-| Northern Scourge | 17.00% | ~111,453 |
-| Thief Bane | 14.00% | ~91,785 |
+| The Fool | 72.00% | ~472,040 |
+| Apprentice | 58.00% | ~380,254 |
+| Close Shave | 25.00% | ~163,903 |
+| Mercenary | 23.00% | ~150,791 |
+| Ninja | 23.00% | ~150,791 |
+| Northern Scourge | 17.00% | ~111,454 |
+| Thief Bane | 14.00% | ~91,786 |
 | Master of Arms | 12.00% | ~78,673 |
 | Gambler | 10.00% | ~65,561 |
 | Dice Master | 10.00% | ~65,561 |
@@ -24,13 +24,13 @@ Diff (max vs sum): 69
 | Cure for Corruption | 8.00% | ~52,449 |
 | Focused | 8.00% | ~52,449 |
 | Flurry of Fury | 8.00% | ~52,449 |
-| Long Shot | 7.00% | ~45,892 |
-| Devil Dice | 7.00% | ~45,892 |
-| Adventurer | 6.00% | ~39,336 |
-| Empire's Bane | 6.00% | ~39,336 |
-| Broken Heart | 6.00% | ~39,336 |
-| Jack of all Trades | 5.00% | ~32,780 |
-| Smithy | 5.00% | ~32,780 |
+| Long Shot | 7.00% | ~45,893 |
+| Devil Dice | 7.00% | ~45,893 |
+| Adventurer | 6.00% | ~39,337 |
+| Empire's Bane | 6.00% | ~39,337 |
+| Broken Heart | 6.00% | ~39,337 |
+| Jack of all Trades | 5.00% | ~32,781 |
+| Smithy | 5.00% | ~32,781 |
 | Leap of Faith | 3.00% | ~19,668 |
 | Combat Ready | 3.00% | ~19,668 |
 | Stuffed Potato | 3.00% | ~19,668 |
@@ -58,7 +58,7 @@ Diff (max vs sum): 69
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,607 (Ranked 18)  
+Progressed: 655,611 (Ranked 18)  
 Completed: 164 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 164 (0.03%) (Ranked 173)
 | 2023-05-02 | 655,512 | 164 |
 | 2023-05-03 | 655,549 | 164 |
 | 2023-05-04 | 655,594 | 164 |
-| 2023-05-05 | 655,607 | 164 |
+| 2023-05-05 | 655,611 | 164 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -16,7 +16,7 @@
       "Name": "Adventurer",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "distance250000",
@@ -216,7 +216,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5318
+      "UsersEstimate": 5320
     },
     {
       "ID": "sandboarder",
@@ -1502,6 +1502,11 @@
       "Time": "2023-05-05T05:05:06.172105+00:00",
       "NumProgressed": 19698,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T06:05:34.4703721+00:00",
+      "NumProgressed": 19702,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2070,18 +2075,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-05T05:05:06.1721045+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:34.4703715+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1209,
   "EOS_Completed": 3,
-  "EOS_Progressed": 19698,
-  "LastUpdate_Achievements": "2023-05-05T05:05:06.1721334+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:58:40.0895947+00:00",
+  "EOS_Progressed": 19702,
+  "LastUpdate_Achievements": "2023-05-05T06:05:34.470452+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:59:11.7027168+00:00",
   "AchievementSets": [
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 19698,
+      "Progressed": 19702,
       "Completed": 3
     }
   ],

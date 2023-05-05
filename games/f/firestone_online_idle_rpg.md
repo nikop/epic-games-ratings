@@ -43,10 +43,10 @@
 | The power of Awakening | 1.00% | ~8 |
 | What lies behind the bush | 1.00% | ~8 |
 | Ancient Knowledge | 0.80% | ~7 |
+| Master Enchanter | 0.80% | ~7 |
 | Missions Dedication | 0.80% | ~7 |
+| Trader | 0.80% | ~7 |
 | How Do You Turn This On? | 0.70% | ~6 |
-| Master Enchanter | 0.70% | ~6 |
-| Trader | 0.70% | ~6 |
 | Blueprint Upgrades | 0.50% | ~4 |
 | Crystal Mining | 0.50% | ~4 |
 | Dragon Slayer | 0.50% | ~4 |

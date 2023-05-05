@@ -9,9 +9,9 @@ Diff (max vs sum): 76
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~32,801 |
-| Worth it | 63.00% | ~26,837 |
-| Eagle Eye | 55.00% | ~23,429 |
+| Setting an example | 77.00% | ~32,802 |
+| Worth it | 63.00% | ~26,838 |
+| Eagle Eye | 55.00% | ~23,430 |
 | Corpseman I | 40.00% | ~17,040 |
 | Blast fishing | 38.00% | ~16,188 |
 | Not alone | 32.00% | ~13,632 |
@@ -69,7 +69,7 @@ Diff (max vs sum): 76
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,599 (Ranked 75)  
+Progressed: 42,600 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 42,404 | 2 |
 | 2023-05-03 | 42,492 | 2 |
 | 2023-05-04 | 42,583 | 2 |
-| 2023-05-05 | 42,599 | 2 |
+| 2023-05-05 | 42,600 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

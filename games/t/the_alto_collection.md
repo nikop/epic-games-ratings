@@ -9,7 +9,7 @@ Diff (max vs sum): 93
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,318 |
+| Finding Your Footing | 27.00% | ~5,320 |
 | Rookie | 24.00% | ~4,728 |
 | Nomad | 19.00% | ~3,743 |
 | Picking Up Speed | 18.00% | ~3,546 |
@@ -40,7 +40,7 @@ Diff (max vs sum): 93
 | Vandal | 1.00% | ~197 |
 | Daredevil | 0.80% | ~158 |
 | Unlock Felipe | 0.60% | ~118 |
-| Adventurer | 0.50% | ~98 |
+| Adventurer | 0.50% | ~99 |
 | Unlock Tupa | 0.40% | ~79 |
 | Master Of The Sands | 0.30% | ~59 |
 | Master | 0.10% | ~20 |
@@ -49,7 +49,7 @@ Diff (max vs sum): 93
 | The Ultimate Challenge | 0.10% | ~20 |
 | Windswept | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,698 (Ranked 90)  
+Progressed: 19,702 (Ranked 90)  
 Completed: 3 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 3 (0.02%) (Ranked 175)
 | 2023-05-02 | 19,423 | 3 |
 | 2023-05-03 | 19,544 | 3 |
 | 2023-05-04 | 19,662 | 3 |
-| 2023-05-05 | 19,698 | 3 |
+| 2023-05-05 | 19,702 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

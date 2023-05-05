@@ -9,30 +9,30 @@ Diff (max vs sum): 38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 40.00% | ~22,111 |
-| Final touch | 39.00% | ~21,558 |
-| Prop-M Rover | 35.00% | ~19,347 |
-| Changing the Planet | 30.00% | ~16,583 |
-| Sojourner | 29.00% | ~16,030 |
-| New Home | 26.00% | ~14,372 |
-| Beagle 2 | 26.00% | ~14,372 |
-| Winner Winner Terraformer | 24.00% | ~13,266 |
-| Project Manager | 21.00% | ~11,608 |
-| Curiosity | 21.00% | ~11,608 |
-| Collector | 21.00% | ~11,608 |
-| Self-sufficient | 21.00% | ~11,608 |
-| Master | 21.00% | ~11,608 |
-| No Longer Red | 20.00% | ~11,055 |
+| It's a steal! | 40.00% | ~22,112 |
+| Final touch | 39.00% | ~21,559 |
+| Prop-M Rover | 35.00% | ~19,348 |
+| Changing the Planet | 30.00% | ~16,584 |
+| Sojourner | 29.00% | ~16,031 |
+| New Home | 26.00% | ~14,373 |
+| Beagle 2 | 26.00% | ~14,373 |
+| Winner Winner Terraformer | 24.00% | ~13,267 |
+| Project Manager | 21.00% | ~11,609 |
+| Curiosity | 21.00% | ~11,609 |
+| Collector | 21.00% | ~11,609 |
+| Self-sufficient | 21.00% | ~11,609 |
+| Master | 21.00% | ~11,609 |
+| No Longer Red | 20.00% | ~11,056 |
 | Money money | 17.00% | ~9,397 |
-| Biggest Reward | 16.00% | ~8,844 |
+| Biggest Reward | 16.00% | ~8,845 |
 | Acquired knowledge | 14.00% | ~7,739 |
 | Most Achievements | 13.00% | ~7,186 |
 | Hellenic Elysium | 13.00% | ~7,186 |
 | Grand champion | 13.00% | ~7,186 |
 | First Journey | 12.00% | ~6,633 |
 | Landlord | 12.00% | ~6,633 |
-| Spirit | 11.00% | ~6,080 |
-| Ultimate success | 11.00% | ~6,080 |
+| Spirit | 11.00% | ~6,081 |
+| Ultimate success | 11.00% | ~6,081 |
 | Variety Expert | 10.00% | ~5,528 |
 | Frequent tester | 9.00% | ~4,975 |
 | Determined | 8.00% | ~4,422 |
@@ -40,7 +40,7 @@ Diff (max vs sum): 38
 | Team Effort | 3.00% | ~1,658 |
 | Opportunity | 3.00% | ~1,658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,277 (Ranked 69)  
+Progressed: 55,279 (Ranked 69)  
 Completed: 60 (0.11%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 60 (0.11%) (Ranked 149)
 | 2023-05-02 | 54,929 | 60 |
 | 2023-05-03 | 55,095 | 60 |
 | 2023-05-04 | 55,249 | 60 |
-| 2023-05-05 | 55,277 | 60 |
+| 2023-05-05 | 55,279 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

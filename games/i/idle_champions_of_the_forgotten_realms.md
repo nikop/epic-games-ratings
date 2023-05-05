@@ -48,9 +48,11 @@ Diff (max vs sum): 25
 | The Botched Kidnapping | 0.20% | ~173 |
 | Trollskull Manor | 0.20% | ~173 |
 | The Crumbling Temple | 0.20% | ~173 |
+| The Death Curse | 0.20% | ~173 |
 | Useless Allies | 0.20% | ~173 |
 | Premature Betrayal | 0.20% | ~173 |
 | Exploring Port Nyanzaru | 0.20% | ~173 |
+| The Dead Three | 0.20% | ~173 |
 | Flying Monkey Skulls of Doom | 0.20% | ~173 |
 | Running of the Saurs | 0.20% | ~173 |
 | The Contagious Curse | 0.20% | ~173 |
@@ -240,7 +242,6 @@ Diff (max vs sum): 25
 | The Trepidatious Trio | 0.10% | ~87 |
 | Our Time To Shine | 0.10% | ~87 |
 | Review by the Blackstaff | 0.10% | ~53 |
-| The Death Curse | 0.10% | ~87 |
 | Treasure Hunters | 0.10% | ~87 |
 | The Guardian of Orolunga | 0.10% | ~87 |
 | Think Your Way Out Of It | 0.10% | ~87 |
@@ -295,7 +296,6 @@ Diff (max vs sum): 25
 | A Tale of Two Fiends | 0.10% | ~87 |
 | A Tale of Two Champions | 0.10% | ~87 |
 | A Tale of Two Years | 0.10% | ~53 |
-| The Dead Three | 0.10% | ~87 |
 | Slow and Steady | 0.10% | ~87 |
 | A Hero's Entourage | 0.10% | ~87 |
 | Sneak Attack | 0.10% | ~53 |
@@ -499,7 +499,7 @@ Diff (max vs sum): 25
 | Overwhelming Force | 0.10% | ~87 |
 | Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,502 (Ranked 59)  
+Progressed: 86,503 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,502 | 1,805 |
+| 2023-05-05 | 86,503 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

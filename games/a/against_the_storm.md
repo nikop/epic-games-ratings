@@ -60,7 +60,7 @@ Diff (max vs sum): 43
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,640 (Ranked 97)  
+Progressed: 14,641 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-02 | 14,612 | 30 |
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
-| 2023-05-05 | 14,640 | 30 |
+| 2023-05-05 | 14,641 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -16,7 +16,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "bonus3",
@@ -56,7 +56,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2258
     },
     {
       "ID": "campaign10",
@@ -64,7 +64,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "campaign11",
@@ -80,7 +80,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "campaign13",
@@ -112,7 +112,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "campaign17",
@@ -144,7 +144,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "campaign20",
@@ -158,9 +158,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1631
     },
     {
       "ID": "campaign4",
@@ -168,15 +168,15 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 427
     },
     {
       "ID": "campaign6",
@@ -192,7 +192,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "campaign8",
@@ -216,7 +216,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "scenario2",
@@ -224,7 +224,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "scenario3",
@@ -238,9 +238,9 @@
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 151
     },
     {
       "ID": "scenario5",
@@ -618,6 +618,11 @@
       "Time": "2023-05-05T05:05:22.2500813+00:00",
       "NumProgressed": 2507,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T06:05:53.5976347+00:00",
+      "NumProgressed": 2509,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -630,18 +635,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-05T05:05:22.2500808+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:53.597634+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_Completed": 8,
-  "EOS_Progressed": 2507,
-  "LastUpdate_Achievements": "2023-05-05T05:05:22.2501025+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:59:36.7578019+00:00",
+  "EOS_Progressed": 2509,
+  "LastUpdate_Achievements": "2023-05-05T06:05:53.5976663+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:00:15.4632507+00:00",
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2507,
+      "Progressed": 2509,
       "Completed": 8
     }
   ],

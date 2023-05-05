@@ -24,10 +24,10 @@ Diff (max vs sum): -42
 | Nemesis Master | 10.00% | ~257 |
 | Gunmaster | 10.00% | ~257 |
 | A Foul Creche | 10.00% | ~257 |
+| Opportunist | 7.00% | ~180 |
 | Efficient Killer | 7.00% | ~180 |
 | Just a Scratch | 7.00% | ~180 |
 | Hold Your Ground | 6.00% | ~154 |
-| Opportunist | 6.00% | ~154 |
 | A Gift Spurned | 4.00% | ~103 |
 | Daemonkeeper | 3.00% | ~77 |
 | Corruption Cleanser | 3.00% | ~77 |

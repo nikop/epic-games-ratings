@@ -8,7 +8,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "ACH02",
@@ -16,7 +16,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACH03",
@@ -656,6 +656,11 @@
       "Time": "2023-05-05T01:58:19.2899378+00:00",
       "NumProgressed": 4807,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T06:05:09.4033971+00:00",
+      "NumProgressed": 4808,
+      "NumCompleted": 25
     }
   ],
   "RatingHistory": [
@@ -860,18 +865,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T05:04:44.2354826+00:00",
+  "LastChanged_Achievements": "2023-05-05T06:05:09.4033965+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_Completed": 25,
-  "EOS_Progressed": 4807,
-  "LastUpdate_Achievements": "2023-05-05T05:04:44.2354999+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:57:34.5382649+00:00",
+  "EOS_Progressed": 4808,
+  "LastUpdate_Achievements": "2023-05-05T06:05:09.4034222+00:00",
+  "LastUpdate_Ratings": "2023-05-05T05:57:50.1625125+00:00",
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4807,
+      "Progressed": 4808,
       "Completed": 25
     }
   ],
