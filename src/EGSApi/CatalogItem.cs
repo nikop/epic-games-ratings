@@ -42,12 +42,6 @@ namespace EpicRatingsUpdater.EGSApi
           key
           value
         }
-        catalogNs {
-          mappings(pageType: ""productHome"") {
-            pageSlug
-            pageType
-          }
-        }
         offerMappings {
           pageSlug
           pageType

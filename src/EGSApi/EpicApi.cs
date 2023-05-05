@@ -476,88 +476,21 @@ query Achievement($sandboxId: String!, $locale: String!) {
             return r.Data?.Achievement?.productAchievementsRecordBySandbox;
         }
 
-        public static async Task<string?> ResolveNameForNamespace(string ns)
+        public static async Task<ProductsPage?> GetProductPage(string slug)
         {
-            string? name = null;
-
             try
             {
-                var res = await GetCatalogNamespace(ns).ConfigureAwait(false);
+                var req = await httpClient.GetStringAsync($"https://store-content-ipv4.ak.epicgames.com/api/en-US/content/products/{slug}");
+                var rr = JsonSerializer.Deserialize<ProductsPage>(req);
 
-                if (res != null)
-                {
-                    name = res.displayName?.Trim();
-
-                    if (res.mappings != null)
-                    {
-                        var mapping = res.mappings.FirstOrDefault(x => x.pageType == "productHome");
-                        var offerId = mapping?.mappings?.offerId;
-                        var found = false;
-
-                        // Name from store content
-                        if (!found && mapping?.pageSlug != null)
-                        {
-                            try
-                            {
-                                var req = await httpClient.GetStringAsync($"https://store-content-ipv4.ak.epicgames.com/api/en-US/content/products/{mapping.pageSlug}");
-
-                                var rr = JsonSerializer.Deserialize<ProductsPage>(req);
-
-                                if (rr != null)
-                                {
-                                    if (rr.productName != null)
-                                    {
-                                        name = rr.productName.Trim();
-                                        found = true;
-                                    }
-
-                                    if (!found)
-                                    {
-                                        foreach (var p in rr.pages)
-                                        {
-                                            if (p.offer != null && p._title == "home")
-                                            {
-                                                offerId = p.offer.id;
-                                                break;
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                            catch (Exception)
-                            {
-                            }
-                        }
-
-                        // Name by offer
-                        if (!found && offerId != null)
-                        {
-                            try
-                            {
-                                var catalogOffer = await GetCatalogOffer(ns, offerId).ConfigureAwait(false);
-
-                                if (catalogOffer != null)
-                                {
-                                    if (catalogOffer.Title != null)
-                                    {
-                                        name = catalogOffer.Title;
-                                        found = true;
-                                    }
-                                }
-                            }
-                            catch (Exception)
-                            {
-                            }
-                        }
-                    }
-                }
-
+                return rr;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                Console.WriteLine(ex);
             }
 
-            return name;
+            return null;
         }
     }
 }

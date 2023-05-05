@@ -3,6 +3,8 @@ using EpicRatingsUpdater.GameDatabase;
 
 using GraphQL.Client.Http;
 
+using System.Net.Http.Json;
+
 namespace EpicRatingsUpdater
 {
     internal class UpdateAppInfo
@@ -16,13 +18,16 @@ namespace EpicRatingsUpdater
             Console.WriteLine("Updating AppInfo");
 
             var cutOff = DateTimeOffset.UtcNow.AddDays(-7);
-            var forceUpdate = false;
+            var forceUpdate = true;
 
 #if DEBUG
             forceUpdate = true;
 #endif
 
-            var orderedItems = items.Where(x => forceUpdate || x.LastUpdate_AppInfo == null || x.LastUpdate_AppInfo < cutOff).OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
+            var orderedItems = items
+                .Where(x => x.ProductSlug != null)
+                .Where(x => forceUpdate || x.LastUpdate_AppInfo == null || x.LastUpdate_AppInfo < cutOff)
+                .OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
 
             var c = 0;
             var total = orderedItems.Count;
@@ -58,19 +63,11 @@ namespace EpicRatingsUpdater
 
         public async Task UpdateItem(GameDbItem item)
         {
-            var res = await EpicApi.GetCatalogNamespace(item.ID).ConfigureAwait(false);
+            var page = await EpicApi.GetProductPage(item.ProductSlug!);
 
-            if (res != null)
+            if (page != null)
             {
-                if (res.mappings != null)
-                {
-                    var mapping = res.mappings.FirstOrDefault(x => x.pageType == "productHome");
-
-                    if (mapping != null)
-                    {
-                        item.ProductSlug = mapping.pageSlug;
-                    }
-                }
+                item.ReviewsDisabled = page.reviewOptOut;
             }
 
             item.LastUpdate_AppInfo = DateTimeOffset.UtcNow;

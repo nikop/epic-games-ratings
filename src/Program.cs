@@ -33,7 +33,7 @@ if (!skipCatalog)
 var items = await gameIndex.GetAllItems().ConfigureAwait(false);
 
 // Fetch appInfo (store pages)
-if (false && !skipAppInfo)
+if (!skipAppInfo)
 {
     var action = new UpdateAppInfo();
     await action.Run(items);
@@ -238,8 +238,13 @@ await File.WriteAllTextAsync(
     eosGames.FormatTable(items.Where(x => x.TotalAchievementsXP > 0).OrderByDescending(x => x.TotalAchievementsXP).ThenBy(x => x.Name))
 );
 
-// Is there any with multiple?
 await File.WriteAllTextAsync(
     Path.Combine(path, "experimental/eos_num_sets.md"),
     eosGamesSets.FormatTable(items.Where(x => x.AchievementSets.Count > 1).OrderByDescending(x => x.AchievementSets.Count).ThenBy(x => x.Name))
+);
+
+// Is there any?
+await File.WriteAllTextAsync(
+    Path.Combine(path, "experimental/reviews_disabled.md"),
+    eosGamesSets.FormatTable(items.Where(x => x.ReviewsDisabled).OrderBy(x => x.Name))
 );

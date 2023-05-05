@@ -1,10 +1,12 @@
-﻿internal class ProductsPage
+﻿public class ProductsPage
 {
     public string? productName { get; set; }
 
     public string? _title { get; set; }
 
     public List<ProductsPageSubPage> pages { get; set; } = new();
+
+    public bool reviewOptOut { get; set; }
 }
 
 public class ProductsPageSubPage
