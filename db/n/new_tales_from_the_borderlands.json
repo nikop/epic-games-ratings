@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.07,
   "RatingHistory": [
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3376,
+  "EOS_Progressed": 3377,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -255,6 +255,11 @@
       "Time": "2023-05-05T18:07:58.2809725+00:00",
       "NumProgressed": 3376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T22:06:46.163052+00:00",
+      "NumProgressed": 3377,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -266,7 +271,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -306,7 +311,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -322,7 +327,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -362,7 +367,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -386,7 +391,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -394,7 +399,7 @@
       "Name": "You Poor Now!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -402,7 +407,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -473,7 +478,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3376,
+      "Progressed": 3377,
       "Completed": 0
     }
   ],
@@ -481,8 +486,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:29.0589018+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:46.1630511+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:00:58.4029455+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:29.0589206+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:00:33.4771239+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:46.1630918+00:00"
 }

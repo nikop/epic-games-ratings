@@ -4,7 +4,7 @@
   "ProductSlug": "r-type-final-2",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:05.459304+00:00",
   "LastChanged": "2023-03-31T05:57:05.4593041+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.9368212+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:58:54.2608863+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:04:40.9191887+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:58:56.1773898+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:04:19.5167304+00:00"
 }

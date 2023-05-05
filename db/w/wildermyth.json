@@ -5,9 +5,9 @@
   "Ranking_Rating": 103,
   "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 462,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1126,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -206,6 +206,11 @@
       "Time": "2023-05-05T21:07:04.4634321+00:00",
       "NumProgressed": 1126,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T22:06:26.2352148+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -249,7 +254,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -289,7 +294,7 @@
       "Name": "Passing Shadow",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -361,7 +366,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -385,7 +390,7 @@
       "Name": "How Romantic!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_maimedHero",
@@ -393,7 +398,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_mythwalker",
@@ -409,7 +414,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -489,7 +494,7 @@
       "Name": "Daybreak",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "completedStory_vultureLord",
@@ -521,7 +526,7 @@
       "Name": "Core Failure",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -664,15 +669,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1126,
+      "Progressed": 1128,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:04.4634314+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:26.2352143+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:02:11.5776053+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:04.4634773+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:01:29.5140728+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:26.2352637+00:00"
 }

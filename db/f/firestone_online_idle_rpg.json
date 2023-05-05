@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 857,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1263,9 +1263,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "hunter",
@@ -1616,8 +1616,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:09.2600823+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:30.0376059+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:59:17.478787+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:09.2601668+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:59:14.6770179+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:30.0376869+00:00"
 }

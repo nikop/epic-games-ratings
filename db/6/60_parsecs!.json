@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -42,6 +42,11 @@
     {
       "Time": "2023-05-04T17:01:06.7530304+00:00",
       "NumProgressed": 582,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T22:06:14.2475018+00:00",
+      "NumProgressed": 583,
       "NumCompleted": 1
     }
   ],
@@ -118,7 +123,7 @@
       "Name": "Crafty",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Achievement_DontPanic",
@@ -126,7 +131,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "Achievement_DustToDust",
@@ -190,7 +195,7 @@
       "Name": "For Science!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_Friendzone",
@@ -198,7 +203,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -278,7 +283,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -340,9 +345,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 461
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -358,7 +363,7 @@
       "Name": "Space Explorer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement_SpaceSelfie",
@@ -405,7 +410,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 1
     }
   ],
@@ -413,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:06:49.9295563+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:14.2474993+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:08.8405232+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:00:21.8052275+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:06:49.9295938+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:00:05.6948172+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:14.2475364+00:00"
 }

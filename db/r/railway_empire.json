@@ -4,10 +4,10 @@
   "ProductSlug": "railway-empire",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 188,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.52,
   "NumberOfRatings": 2155,
@@ -2152,10 +2152,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1896,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-05-05T22:01:01.2309737+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1897,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1896,
+  "NumberOfAwards": 1897,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2205,7 +2211,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 229
+      "Count": 230
     },
     {
       "Text": "This game has a Creative Community",
@@ -2239,9 +2245,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2023-05-05T15:37:01.948243+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:35.3251984+00:00",
+  "LastChanged": "2023-05-05T22:01:01.2309735+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:51.0968942+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:07.3405179+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:01:34.6990956+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:35.3252017+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:01:01.2309742+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:51.0968974+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,082 |
-| Un-Lonely Island | 50.00% | ~1,334 |
-| The Beginning of a Servantship | 47.00% | ~1,254 |
-| Trade Is My Trait | 38.00% | ~1,014 |
+| Just One...More...Term... | 77.00% | ~2,056 |
+| Un-Lonely Island | 50.00% | ~1,335 |
+| The Beginning of a Servantship | 47.00% | ~1,255 |
+| Trade Is My Trait | 39.00% | ~1,041 |
 | Number 18 | 26.00% | ~694 |
 | We Don't Have Time For That | 20.00% | ~534 |
-| Caribbean Comrade | 18.00% | ~480 |
-| The Legend of Langostino | 18.00% | ~480 |
-| The Governator | 18.00% | ~480 |
+| Caribbean Comrade | 18.00% | ~481 |
+| The Legend of Langostino | 18.00% | ~481 |
+| The Governator | 18.00% | ~481 |
 | The Dreamer of Dreams | 17.00% | ~454 |
 | Go Sovereigns! | 12.00% | ~320 |
 | For Science! | 12.00% | ~320 |
@@ -31,7 +31,7 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~160 |
 | Watch The World Burn | 6.00% | ~160 |
 | Fairy Tale Come True | 6.00% | ~160 |
-| Viva Tropico! | 5.00% | ~133 |
+| Viva Tropico! | 5.00% | ~134 |
 | Apocalypso | 4.00% | ~107 |
 | The Time For Wonders | 4.00% | ~107 |
 | Been there, Done That | 3.00% | ~80 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~27 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,669 (Ranked 132)  
+Progressed: 2,670 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-02 | 2,623 | 1 |
 | 2023-05-03 | 2,641 | 1 |
 | 2023-05-04 | 2,654 | 1 |
-| 2023-05-05 | 2,669 | 1 |
+| 2023-05-05 | 2,670 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 314)  
 Sum: 748 (Ranked 253)  

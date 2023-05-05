@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.85,
   "NumberOfRatings": 1331,
@@ -1038,9 +1038,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21430,
+  "EOS_Progressed": 21431,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1663,6 +1663,11 @@
       "Time": "2023-05-05T21:07:22.6182063+00:00",
       "NumProgressed": 21430,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-05T22:06:40.8968228+00:00",
+      "NumProgressed": 21431,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -1736,9 +1741,9 @@
       "ID": "BossBridgeDefeated",
       "SetID": "3ojhj46",
       "Name": "Captain and Crew",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 64
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -1985,21 +1990,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21430,
+      "Progressed": 21431,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-05T14:58:42.3722591+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:22.6182049+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:40.8968222+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.4659285+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:00:34.9971593+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:22.6182396+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:00:15.7126057+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:40.8968574+00:00"
 }

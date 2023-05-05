@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Glass Act | 20.00% | ~2 |
+| Relight my Cannon | 20.00% | ~2 |
 | Backstory Buff | 10.00% | ~1 |
 | Flying High | 10.00% | ~1 |
-| Relight my Cannon | 10.00% | ~1 |
 | Snitch | 10.00% | ~1 |
 | Tour Guide Extraordinaire | 10.00% | ~1 |
 | A Box of Tricks | 0.00% | ~0 |

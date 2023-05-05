@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~137 |
-| Lochos | 5.00% | ~137 |
-| Initiate's Resolve | 5.00% | ~137 |
+| To Suffer is to Learn | 5.00% | ~138 |
+| Lochos | 5.00% | ~138 |
+| Initiate's Resolve | 5.00% | ~138 |
 | Go For the Head | 4.00% | ~110 |
 | Missilis | 4.00% | ~110 |
 | Modest Earnings | 4.00% | ~110 |
@@ -37,22 +37,22 @@
 | Mors Omnibus | 2.00% | ~55 |
 | Blot Out the Sky | 2.00% | ~55 |
 | Serpentine | 2.00% | ~55 |
-| The Nameless One | 1.00% | ~27 |
-| Wayward Son of Hephaestus | 1.00% | ~27 |
-| Lament of the Constellations | 1.00% | ~27 |
-| Rule of Thirds | 1.00% | ~27 |
-| Rock and a Hard Place | 1.00% | ~27 |
-| The Midas Touch | 1.00% | ~27 |
-| Pyr Demon | 1.00% | ~27 |
-| Don't Pay the Ferryman | 1.00% | ~27 |
-| Veneration of Hephaestus | 1.00% | ~27 |
-| Biotechnology | 1.00% | ~27 |
-| No Scylla in Sight | 1.00% | ~27 |
-| The Archimedes Principle | 1.00% | ~27 |
-| Rites at Sea | 1.00% | ~27 |
-| Close Shut the Doors | 1.00% | ~27 |
-| Baby Crabs They Ain't | 1.00% | ~27 |
-| Scrap Metal | 1.00% | ~27 |
+| The Nameless One | 1.00% | ~28 |
+| Wayward Son of Hephaestus | 1.00% | ~28 |
+| Lament of the Constellations | 1.00% | ~28 |
+| Rule of Thirds | 1.00% | ~28 |
+| Rock and a Hard Place | 1.00% | ~28 |
+| The Midas Touch | 1.00% | ~28 |
+| Pyr Demon | 1.00% | ~28 |
+| Don't Pay the Ferryman | 1.00% | ~28 |
+| Veneration of Hephaestus | 1.00% | ~28 |
+| Biotechnology | 1.00% | ~28 |
+| No Scylla in Sight | 1.00% | ~28 |
+| The Archimedes Principle | 1.00% | ~28 |
+| Rites at Sea | 1.00% | ~28 |
+| Close Shut the Doors | 1.00% | ~28 |
+| Baby Crabs They Ain't | 1.00% | ~28 |
+| Scrap Metal | 1.00% | ~28 |
 | Invicta | 0.80% | ~22 |
 | Athenian Treasury | 0.70% | ~19 |
 | Hipparchia's Labour | 0.50% | ~14 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,749 (Ranked 131)  
+Progressed: 2,750 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 2,721 | 0 |
 | 2023-05-03 | 2,727 | 0 |
 | 2023-05-04 | 2,739 | 0 |
-| 2023-05-05 | 2,749 | 0 |
+| 2023-05-05 | 2,750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

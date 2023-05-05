@@ -603,9 +603,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 237
     },
     {
       "ID": "Green Ticket Roundup",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:28.5696539+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:45.7951436+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:01:06.2760291+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:28.5696677+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:00:39.0504373+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:45.795156+00:00"
 }

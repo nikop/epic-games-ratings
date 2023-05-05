@@ -832,7 +832,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2669,
+  "EOS_Progressed": 2670,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -1482,6 +1482,11 @@
       "Time": "2023-05-05T19:07:06.0619985+00:00",
       "NumProgressed": 2669,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T22:06:57.0847718+00:00",
+      "NumProgressed": 2670,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1541,7 +1546,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -1549,7 +1554,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -1589,7 +1594,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -1597,7 +1602,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -1645,15 +1650,15 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
       "SetID": "1p8ab95",
       "Name": "Just One...More...Term...",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2056
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -1749,7 +1754,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -1763,9 +1768,9 @@
       "ID": "ACH_TRADEISMYTRAIT",
       "SetID": "1p8ab95",
       "Name": "Trade Is My Trait",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -1812,15 +1817,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2669,
+      "Progressed": 2670,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:42.5614689+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:57.0847712+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:01:44.5021431+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:42.5615035+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:01:08.804613+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:57.0848064+00:00"
 }

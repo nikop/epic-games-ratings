@@ -33,8 +33,8 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.57% |
-| 35 | [The Complex](games/t/the_complex.md) | 3.56% |
+| 34 | [The Complex](games/t/the_complex.md) | 3.56% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 3.53% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
@@ -59,8 +59,8 @@
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
 | 58 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 59 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
-| 60 | [Night Book](games/n/night_book.md) | 1.68% |
-| 61 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 60 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 60 | [Night Book](games/n/night_book.md) | 1.67% |
 | 62 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 62 | [Somerville](games/s/somerville.md) | 1.61% |
 | 64 | [Frogun](games/f/frogun.md) | 1.55% |
@@ -109,12 +109,12 @@
 | 106 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [Tchia](games/t/tchia.md) | 0.35% |
-| 110 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
 | 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 113 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.32% |
-| 113 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 112 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
+| 112 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 112 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.32% |
+| 112 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 116 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 116 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 118 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |

@@ -732,7 +732,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5514,
+  "EOS_Progressed": 5515,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
@@ -1552,6 +1552,11 @@
       "Time": "2023-05-05T21:06:48.2819892+00:00",
       "NumProgressed": 5514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T22:06:12.9160815+00:00",
+      "NumProgressed": 5515,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -1595,7 +1600,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -1641,9 +1646,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1710
     },
     {
       "ID": "First_Major_Ally",
@@ -1667,7 +1672,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "First_Race_Met",
@@ -1675,7 +1680,7 @@
       "Name": "First Contact",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "First_Ship_Designed",
@@ -1699,7 +1704,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2051,7 +2056,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2138,15 +2143,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5514,
+      "Progressed": 5515,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:06:48.2819888+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:12.9160805+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:58:33.3836669+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:06:48.2820734+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:58:40.267563+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:12.9161823+00:00"
 }

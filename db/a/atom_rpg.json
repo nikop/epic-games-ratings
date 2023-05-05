@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.45,
   "NumberOfRatings": 54,
@@ -326,9 +326,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -461,6 +461,11 @@
       "Time": "2023-05-05T19:07:05.7672497+00:00",
       "NumProgressed": 761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T22:06:56.8100206+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -528,7 +533,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "EXPERT_1",
@@ -600,7 +605,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -632,7 +637,7 @@
       "Name": "One shot, one kill",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "PACIFIST",
@@ -696,7 +701,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "SECRET_ROOM",
@@ -759,15 +764,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 762,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-04-22T20:58:02.069628+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:42.2758011+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:56.81002+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.2550678+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:01:45.0333245+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:42.2758293+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:01:09.1261042+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:56.8100502+00:00"
 }

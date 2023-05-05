@@ -3,12 +3,12 @@
 [View Rawdata](../../db/m/marvel's_midnight_suns.json)  
 Rating: 4.52 (Ranked 500)  
 ## Awards
-Max (Character Customization): 1,131  (Ranked 126)  
-Sum: 2,365 (Ranked 166)  
+Max (Character Customization): 1,133  (Ranked 126)  
+Sum: 2,367 (Ranked 166)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,131 |
+| This game has Inclusive Character Customization | 1,133 |
 | This game is Highly Recommended | 157 |
 | This game has Quickly Understood Controls | 152 |
 | This game is Relaxing | 146 |
@@ -98,4 +98,4 @@ Diff (max vs sum): -40
 | 2023-05-02 | 4.52 | 1,127 | 2,344 |
 | 2023-05-03 | 4.52 | 1,129 | 2,353 |
 | 2023-05-04 | 4.52 | 1,131 | 2,364 |
-| 2023-05-05 | 4.52 | 1,131 | 2,365 |
+| 2023-05-05 | 4.52 | 1,133 | 2,367 |

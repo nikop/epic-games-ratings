@@ -2,12 +2,12 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.54,
   "NumberOfRatings": 4870,
@@ -3704,6 +3704,6 @@
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
   "LastChanged": "2023-05-05T20:58:45.7253589+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.1672225+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:58:45.7253596+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:04:51.3925437+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:58:49.456741+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:04:27.358118+00:00"
 }

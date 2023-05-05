@@ -4374,9 +4374,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -4422,17 +4422,17 @@
       "ID": "roster_confirm_all_memoried",
       "SetID": "64l4lke",
       "Name": "Eidetic",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 100,
+      "Percentage": 120,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "run_victory_act01",
@@ -4510,8 +4510,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-05-05T19:01:08.0632848+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:32.9004774+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:49.1669974+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.6741172+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:01:22.7310886+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:32.9005397+00:00"
+  "LastUpdate_Ratings": "2023-05-05T22:00:51.6601146+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:49.1670609+00:00"
 }

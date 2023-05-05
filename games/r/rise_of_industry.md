@@ -5,24 +5,24 @@ Rating: 4.23 (Ranked 791)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~310,252 |
-| Well educated | 37.00% | ~244,241 |
-| City Planner | 19.00% | ~125,421 |
-| Deforester | 16.00% | ~105,618 |
-| Big Hauling | 15.00% | ~99,016 |
-| Exporter | 13.00% | ~85,814 |
-| Apprentice Manufacturer | 12.00% | ~79,213 |
-| I would drive 500 tiles... | 11.00% | ~72,612 |
-| Landscaper | 11.00% | ~72,612 |
-| Railwayman | 7.00% | ~46,208 |
-| Penniless | 6.00% | ~39,607 |
-| Massive Gains | 6.00% | ~39,607 |
-| Engineer | 2.00% | ~13,202 |
-| Salesman | 2.00% | ~13,202 |
-| High Flyer | 2.00% | ~13,202 |
+| Entrepreneur | 47.00% | ~310,271 |
+| Well educated | 37.00% | ~244,256 |
+| City Planner | 19.00% | ~125,429 |
+| Deforester | 16.00% | ~105,624 |
+| Big Hauling | 15.00% | ~99,023 |
+| Exporter | 13.00% | ~85,820 |
+| Apprentice Manufacturer | 12.00% | ~79,218 |
+| I would drive 500 tiles... | 11.00% | ~72,617 |
+| Landscaper | 11.00% | ~72,617 |
+| Railwayman | 7.00% | ~46,211 |
+| Penniless | 6.00% | ~39,609 |
+| Massive Gains | 6.00% | ~39,609 |
+| Engineer | 2.00% | ~13,203 |
+| Salesman | 2.00% | ~13,203 |
+| High Flyer | 2.00% | ~13,203 |
 | Captain | 0.70% | ~4,621 |
 | Billionaire | 0.60% | ~3,961 |
-| Vroom Vroom | 0.40% | ~2,640 |
+| Vroom Vroom | 0.40% | ~2,641 |
 | Excavator | 0.30% | ~1,980 |
 | Loan Ranger | 0.30% | ~1,980 |
 | [2130] Nature Lover | 0.10% | ~660 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 791)
 | Master Builder | 0.10% | ~660 |
 | Hard working | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,110 (Ranked 17)  
+Progressed: 660,152 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-02 | 657,868 | 1 |
 | 2023-05-03 | 658,621 | 1 |
 | 2023-05-04 | 659,355 | 1 |
-| 2023-05-05 | 660,110 | 1 |
+| 2023-05-05 | 660,152 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

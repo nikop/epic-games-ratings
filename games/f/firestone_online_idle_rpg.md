@@ -36,6 +36,7 @@
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | Here We Go Again | 1.00% | ~9 |
+| How Do You Turn This On? | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
 | Scroll Master | 1.00% | ~9 |
@@ -43,7 +44,6 @@
 | The power of Awakening | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Ancient Knowledge | 0.90% | ~8 |
-| How Do You Turn This On? | 0.90% | ~8 |
 | Missions Dedication | 0.90% | ~8 |
 | The father of Dragons | 0.90% | ~8 |
 | Trader | 0.90% | ~8 |

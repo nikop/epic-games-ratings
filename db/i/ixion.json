@@ -2,7 +2,7 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 145,
@@ -168,7 +168,7 @@
   "Tags": [],
   "EOS_Progressed": 1830,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -444,9 +444,9 @@
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_19",
@@ -708,9 +708,9 @@
       "ID": "ACH_BASE_51",
       "SetID": "92iocjf",
       "Name": "Convenient Transport",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_BASE_52",
@@ -851,8 +851,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:06:55.0644443+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:18.7661747+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:59:48.8203602+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:06:55.0645032+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:59:39.9354133+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:18.7662306+00:00"
 }

@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46010,
+  "EOS_Progressed": 46012,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1088,6 +1088,11 @@
       "Time": "2023-05-05T21:07:01.2657953+00:00",
       "NumProgressed": 46010,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-05T22:06:23.5365445+00:00",
+      "NumProgressed": 46012,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1219,7 +1224,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "17",
@@ -1291,7 +1296,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "26",
@@ -1411,7 +1416,7 @@
       "Name": "Right of Way",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "41",
@@ -1634,21 +1639,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46010,
+      "Progressed": 46012,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9478,
+      "Progressed": 9480,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-05T21:07:01.2657942+00:00",
+  "LastChanged_Achievements": "2023-05-05T22:06:23.5365439+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:58:54.4167393+00:00",
-  "LastUpdate_Achievements": "2023-05-05T21:07:01.2658654+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:58:56.2261398+00:00",
+  "LastUpdate_Achievements": "2023-05-05T22:06:23.5366146+00:00"
 }
