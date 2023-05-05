@@ -4,19 +4,19 @@ Rating: 4.66 (Ranked 272)
 Number of Ratings: 495  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 547  (Ranked 173)  
-Sum: 4,643 (Ranked 125)  
+Sum: 4,644 (Ranked 125)  
 Diff (max vs sum): 48  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,445 |
-| Thorough | 8.00% | ~13,156 |
+| Genin | 10.00% | ~16,446 |
+| Thorough | 8.00% | ~13,157 |
 | A thief's beginning | 7.00% | ~11,512 |
 | Tanuki Time | 7.00% | ~11,512 |
-| Disguised | 6.00% | ~9,867 |
-| Jonin | 6.00% | ~9,867 |
-| Rescue Takuma | 6.00% | ~9,867 |
-| Rollin' | 6.00% | ~9,867 |
+| Disguised | 6.00% | ~9,868 |
+| Jonin | 6.00% | ~9,868 |
+| Rescue Takuma | 6.00% | ~9,868 |
+| Rollin' | 6.00% | ~9,868 |
 | Chunin | 5.00% | ~8,223 |
 | Ice Ice Yuki | 5.00% | ~8,223 |
 | Stoned Ox | 5.00% | ~8,223 |
@@ -54,7 +54,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~164 |
 | Release the Kraken | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,454 (Ranked 50)  
+Progressed: 164,460 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,13 +69,14 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
+| 2023-05-05 | 164,460 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 547 |
 | This game has Diverse Characters | 517 |
 | This game is Extremely Fun | 510 |
-| This game has Amazing Storytelling | 496 |
+| This game has Amazing Storytelling | 497 |
 | This game has Amazing Characters | 479 |
 | This game is Highly Recommended | 475 |
 | This game has Challenging Combat | 469 |
@@ -186,4 +187,4 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-04-30 | 4.66 | - | 547 | 4,637 |
 | 2023-05-01 | 4.66 | - | 547 | 4,640 |
 | 2023-05-02 | 4.66 | - | 547 | 4,641 |
-| 2023-05-04 | 4.66 | - | 547 | 4,643 |
+| 2023-05-04 | 4.66 | - | 547 | 4,644 |

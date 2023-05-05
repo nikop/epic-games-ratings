@@ -40,7 +40,7 @@
       "Name": "Winter is Coming",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "1020",
@@ -96,7 +96,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "1027",
@@ -112,7 +112,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "1029",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "1033",
@@ -160,7 +160,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "1035",
@@ -168,7 +168,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "1036",
@@ -1299,6 +1299,11 @@
     {
       "Time": "2023-05-04T23:05:05.0609458+00:00",
       "NumProgressed": 11017,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T00:05:28.5109289+00:00",
+      "NumProgressed": 11019,
       "NumCompleted": 23
     }
   ],
@@ -2457,18 +2462,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-04T23:05:05.0609453+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:28.5109284+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 913,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11017,
-  "LastUpdate_Achievements": "2023-05-04T23:05:05.0609632+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:59:23.6346859+00:00",
+  "EOS_Progressed": 11019,
+  "LastUpdate_Achievements": "2023-05-05T00:05:28.5109688+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:30.8708263+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11017,
+      "Progressed": 11019,
       "Completed": 23
     }
   ],

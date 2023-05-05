@@ -64,7 +64,7 @@
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 490 |
 | 59 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 490 |
 | 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 490 |
-| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 482 | 185 |
+| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 485 | 184 |
 | 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 118 | 302 |
 | 59 | [Sifu](games/s/sifu.md) | 4.82 | 6,025 | 53 |
 | 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 387 | 201 |
@@ -91,7 +91,7 @@
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 460 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 490 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,437 | 115 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 483 | 184 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 483 | 185 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 717 | 153 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,235 | 97 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 997 | 136 |
@@ -183,7 +183,7 @@
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,221 | 51 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 469 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,133 | 43 |
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,137 | 43 |
 | 178 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 490 |
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 490 |
 | 178 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 490 |
@@ -194,7 +194,7 @@
 | 192 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 490 |
 | 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,518 | 67 |
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 490 |
-| 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 335 | 211 |
+| 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 336 | 211 |
 | 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,166 | 70 |
 | 192 | [For The King](games/f/for_the_king.md) | 4.70 | 361 | 207 |
 | 192 | [House Flipper](games/h/house_flipper.md) | 4.70 | 282 | 225 |
@@ -268,7 +268,7 @@
 | 255 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 490 |
 | 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 490 |
 | 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 490 |
-| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,525 | 89 |
+| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,533 | 89 |
 | 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 314 |
 | 255 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 478 |
 | 272 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 490 |
@@ -367,7 +367,7 @@
 | 353 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 36 | 421 |
 | 353 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 349 | 209 |
 | 353 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 490 |
-| 353 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,077 | 128 |
+| 353 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,078 | 128 |
 | 353 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 490 |
 | 353 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,459 | 90 |
 | 353 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 592 | 165 |
@@ -466,7 +466,7 @@
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 390 |
 | 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,818 | 75 |
 | 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 490 |
-| 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,136 | 124 |
+| 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,139 | 124 |
 | 466 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 478 |
 | 466 | [Hue](games/h/hue.md) | 4.55 | 0 | 490 |
 | 466 | [Outward](games/o/outward.md) | 4.55 | 31 | 440 |

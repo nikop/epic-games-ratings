@@ -41,7 +41,7 @@ Diff (max vs sum): 0
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 159)  
+Progressed: 1,007 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

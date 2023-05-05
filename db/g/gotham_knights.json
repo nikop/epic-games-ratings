@@ -502,7 +502,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1292,6 +1292,11 @@
     {
       "Time": "2023-05-04T23:05:00.6002115+00:00",
       "NumProgressed": 60626,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-05T00:05:24.2935594+00:00",
+      "NumProgressed": 60628,
       "NumCompleted": 89
     }
   ],
@@ -2167,38 +2172,44 @@
       "Rating": 4.17,
       "NumberOfAwards": 3617,
       "NumberOfAwardsMax": 2187
+    },
+    {
+      "Time": "2023-05-04T23:59:08.0836695+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3618,
+      "NumberOfAwardsMax": 2187
     }
   ],
   "TotalAchievementsXP": 1390,
   "TotalAchievements": 61,
-  "LastChanged_Achievements": "2023-05-04T23:05:00.600211+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:24.2935588+00:00",
   "EOS_NewCompleters": 4,
   "EOS_NewPlayers": 225,
   "EOS_Completed": 89,
-  "EOS_Progressed": 60626,
-  "LastUpdate_Achievements": "2023-05-04T23:05:00.6002606+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:59:00.994895+00:00",
+  "EOS_Progressed": 60628,
+  "LastUpdate_Achievements": "2023-05-05T00:05:24.2936207+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:08.0836699+00:00",
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60626,
+      "Progressed": 60628,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30906,
+      "Progressed": 30908,
       "Completed": 2628
     }
   ],
   "EOS_Completed_Percentage": 0.15,
-  "LastChanged": "2023-05-04T22:00:36.6193314+00:00",
+  "LastChanged": "2023-05-04T23:59:08.0836693+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2187,
-  "NumberOfAwards": 3617,
+  "NumberOfAwards": 3618,
   "Ranking_EOS_NewCompleters": 36,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_Completed": 138,

@@ -9,11 +9,11 @@ Diff (max vs sum): -69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,114 |
+| Tattletale | 42.00% | ~5,115 |
 | Man of politics | 36.00% | ~4,384 |
 | Friends of sorts | 35.00% | ~4,262 |
 | Yet another secret | 35.00% | ~4,262 |
-| Let there be darkness | 34.00% | ~4,140 |
+| Let there be darkness | 34.00% | ~4,141 |
 | End of Book One | 31.00% | ~3,775 |
 | Wannabe knight | 25.00% | ~3,044 |
 | Garden of Eden | 25.00% | ~3,044 |
@@ -28,9 +28,9 @@ Diff (max vs sum): -69
 | Twist of Fate | 14.00% | ~1,705 |
 | Exterminator | 14.00% | ~1,705 |
 | Whodunnit | 13.00% | ~1,583 |
-| Good midwife | 11.00% | ~1,339 |
-| Friar Tuck | 11.00% | ~1,339 |
-| First profit | 11.00% | ~1,339 |
+| Good midwife | 11.00% | ~1,340 |
+| Friar Tuck | 11.00% | ~1,340 |
+| First profit | 11.00% | ~1,340 |
 | Skilled merchant | 10.00% | ~1,218 |
 | Team player | 10.00% | ~1,218 |
 | Nothing but make-believe | 9.00% | ~1,096 |
@@ -51,7 +51,7 @@ Diff (max vs sum): -69
 | A brush with death | 3.00% | ~365 |
 | Boy of mystery | 2.00% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,177 (Ranked 101)  
+Progressed: 12,178 (Ranked 101)  
 Completed: 91 (0.75%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 91 (0.75%) (Ranked 88)
 | 2023-05-02 | 12,153 | 91 |
 | 2023-05-03 | 12,164 | 91 |
 | 2023-05-04 | 12,177 | 91 |
+| 2023-05-05 | 12,178 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

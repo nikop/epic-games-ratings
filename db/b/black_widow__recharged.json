@@ -24,7 +24,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -72,7 +72,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -961,6 +961,11 @@
       "Time": "2023-05-04T22:25:00.0709671+00:00",
       "NumProgressed": 13745,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-05T00:05:32.0397622+00:00",
+      "NumProgressed": 13746,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1076,18 +1081,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T23:05:08.3629309+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:32.0397613+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13745,
-  "LastUpdate_Achievements": "2023-05-04T23:05:08.3629431+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:59:33.7398577+00:00",
+  "EOS_Progressed": 13746,
+  "LastUpdate_Achievements": "2023-05-05T00:05:32.0397791+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:40.6992994+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13745,
+      "Progressed": 13746,
       "Completed": 42
     }
   ],
@@ -1098,7 +1103,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 34,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_Progress": 98,
   "Ranking_PopularitySum": 490,

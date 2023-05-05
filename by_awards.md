@@ -42,7 +42,7 @@
 | 40 | [Supraland](games/s/supraland.md) | 7,603 | 4.61 | 353 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,516 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,235 | 4.57 | 428 |
-| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,133 | 4.71 | 178 |
+| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,137 | 4.71 | 178 |
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,880 | 4.89 | 12 |
 | 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,866 | 4.57 | 428 |
 | 46 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 641 |
@@ -88,7 +88,7 @@
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,029 | 4.57 | 428 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,003 | 4.68 | 233 |
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,595 | 4.77 | 103 |
-| 89 | [Trackmania](games/t/trackmania.md) | 2,525 | 4.67 | 255 |
+| 89 | [Trackmania](games/t/trackmania.md) | 2,533 | 4.67 | 255 |
 | 90 | [Path of Exile](games/p/path_of_exile.md) | 2,459 | 4.61 | 353 |
 | 91 | [Rage 2](games/r/rage_2.md) | 2,435 | 4.28 | 764 |
 | 92 | [Among Us](games/a/among_us.md) | 2,390 | 4.58 | 414 |
@@ -123,11 +123,11 @@
 | 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,212 | 4.62 | 338 |
 | 122 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,210 | 4.86 | 28 |
 | 123 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,172 | 4.69 | 212 |
-| 124 | [Conan Exiles](games/c/conan_exiles.md) | 1,136 | 4.55 | 466 |
+| 124 | [Conan Exiles](games/c/conan_exiles.md) | 1,139 | 4.55 | 466 |
 | 125 | [XCOM® 2](games/x/xcom®_2.md) | 1,133 | 4.55 | 466 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,131 | 4.52 | 499 |
 | 127 | [OUTRIDERS](games/o/outriders.md) | 1,105 | 4.42 | 641 |
-| 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,077 | 4.61 | 353 |
+| 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,078 | 4.61 | 353 |
 | 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.61 | 353 |
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,038 | 4.43 | 633 |
 | 131 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,033 | 4.66 | 272 |
@@ -183,8 +183,8 @@
 | 181 | [Godfall](games/g/godfall.md) | 504 | 4.07 | 861 |
 | 182 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 500 | 4.52 | 499 |
 | 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 494 | 4.54 | 475 |
-| 184 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 483 | 4.79 | 91 |
-| 185 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 482 | 4.82 | 59 |
+| 184 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 485 | 4.82 | 59 |
+| 185 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 483 | 4.79 | 91 |
 | 186 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 458 | 4.86 | 28 |
 | 186 | [Unreal Tournament](games/u/unreal_tournament.md) | 458 | 4.66 | 272 |
 | 188 | [Ghostrunner](games/g/ghostrunner.md) | 454 | 4.72 | 166 |
@@ -210,7 +210,7 @@
 | 208 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 353 | 4.24 | 780 |
 | 209 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 349 | 4.61 | 353 |
 | 210 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 341 | 4.32 | 737 |
-| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 335 | 4.70 | 192 |
+| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 336 | 4.70 | 192 |
 | 212 | [Dishonored 2](games/d/dishonored_2.md) | 333 | 4.80 | 78 |
 | 213 | [Inscryption](games/i/inscryption.md) | 330 | 4.86 | 28 |
 | 214 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 324 | 4.76 | 113 |

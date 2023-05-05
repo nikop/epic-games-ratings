@@ -72,7 +72,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "0010",
@@ -96,7 +96,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "0013",
@@ -192,7 +192,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "0025",
@@ -224,7 +224,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "0029",
@@ -248,7 +248,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "0032",
@@ -256,7 +256,7 @@
       "Name": "Killer Looks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "0033",
@@ -264,7 +264,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "0034",
@@ -1172,6 +1172,11 @@
       "Time": "2023-05-04T22:06:49.1481158+00:00",
       "NumProgressed": 5154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T00:05:22.1566141+00:00",
+      "NumProgressed": 5155,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -1262,18 +1267,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-04T23:04:58.6024927+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:22.1566135+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 427,
   "EOS_Completed": 0,
-  "EOS_Progressed": 5154,
-  "LastUpdate_Achievements": "2023-05-04T23:04:58.6025173+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:58:57.3104214+00:00",
+  "EOS_Progressed": 5155,
+  "LastUpdate_Achievements": "2023-05-05T00:05:22.1566637+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:04.6639124+00:00",
   "AchievementSets": [
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5154,
+      "Progressed": 5155,
       "Completed": 0
     }
   ],

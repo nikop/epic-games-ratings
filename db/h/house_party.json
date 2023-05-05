@@ -62,9 +62,9 @@
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "Bride",
@@ -1077,13 +1077,13 @@
   ],
   "TotalAchievementsXP": 1040,
   "TotalAchievements": 69,
-  "LastChanged_Achievements": "2023-05-04T23:00:23.4349659+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:02:19.9198103+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_Completed": 2,
   "EOS_Progressed": 4939,
-  "LastUpdate_Achievements": "2023-05-04T23:00:23.4355306+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:00.1485618+00:00",
+  "LastUpdate_Achievements": "2023-05-05T00:02:19.9206218+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:07.5465503+00:00",
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
@@ -1105,7 +1105,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 177,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 120,
   "Ranking_PopularitySum": 490,

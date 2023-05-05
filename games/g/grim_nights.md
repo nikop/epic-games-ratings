@@ -3,10 +3,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So far so good... | 67.00% | ~4 |
-| Top notch! | 67.00% | ~4 |
+| So far so good... | 83.00% | ~5 |
+| Top notch! | 83.00% | ~5 |
+| Slay it! | 67.00% | ~4 |
 | Lives lost | 67.00% | ~4 |
-| Slay it! | 50.00% | ~3 |
 | Still alive! | 50.00% | ~3 |
 | Getting somewhere | 50.00% | ~3 |
 | Bling bling! | 50.00% | ~3 |

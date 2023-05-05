@@ -20,7 +20,7 @@ Diff (max vs sum): 54
 | New Opportunities | 34.00% | ~1,660 |
 | Famous Explorer | 33.00% | ~1,611 |
 | Energized | 33.00% | ~1,611 |
-| The Long Haul | 32.00% | ~1,562 |
+| The Long Haul | 33.00% | ~1,611 |
 | Survivor | 31.00% | ~1,513 |
 | The Great Healer | 30.00% | ~1,465 |
 | Catastrofan | 28.00% | ~1,367 |

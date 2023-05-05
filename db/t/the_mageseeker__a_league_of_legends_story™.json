@@ -64,7 +64,7 @@
       "Name": "No more holding back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -72,7 +72,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -88,7 +88,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -120,7 +120,7 @@
       "Name": "I chose my shackles",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -184,7 +184,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -192,7 +192,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -224,7 +224,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -264,7 +264,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -280,7 +280,7 @@
       "Name": "Terbisia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -312,7 +312,7 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "STB_PET_HORSE",
@@ -360,7 +360,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -368,7 +368,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -1138,6 +1138,11 @@
       "Time": "2023-05-04T23:04:32.4648359+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T00:04:55.9449309+00:00",
+      "NumProgressed": 1874,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1174,18 +1179,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T23:04:32.4648354+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:55.9449303+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 221,
   "EOS_Completed": 1,
-  "EOS_Progressed": 1873,
-  "LastUpdate_Achievements": "2023-05-04T23:04:32.4648721+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:12.6153799+00:00",
+  "EOS_Progressed": 1874,
+  "LastUpdate_Achievements": "2023-05-05T00:04:55.9450079+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:21.2193528+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 1
     }
   ],

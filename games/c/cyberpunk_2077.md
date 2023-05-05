@@ -9,7 +9,7 @@ Diff (max vs sum): -4
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~534,587 |
+| The Fool | 67.00% | ~534,588 |
 | Right Back At Ya | 37.00% | ~295,220 |
 | The Lovers | 32.00% | ~255,325 |
 | Stanislavski's Method | 27.00% | ~215,431 |
@@ -20,7 +20,7 @@ Diff (max vs sum): -4
 | The High Priestess | 20.00% | ~159,578 |
 | Legend of The Afterlife | 20.00% | ~159,578 |
 | Life of the Road | 19.00% | ~151,599 |
-| Full Body Conversion | 17.00% | ~135,641 |
+| Full Body Conversion | 17.00% | ~135,642 |
 | The World | 16.00% | ~127,663 |
 | Bushido and Chill | 15.00% | ~119,684 |
 | True Warrior | 14.00% | ~111,705 |
@@ -34,9 +34,9 @@ Diff (max vs sum): -4
 | The Quick and the Dead | 9.00% | ~71,810 |
 | Ten out of Ten | 8.00% | ~63,831 |
 | Breathtaking | 7.00% | ~55,852 |
-| To Bad Decisions! | 6.00% | ~47,873 |
-| The Star | 6.00% | ~47,873 |
-| The Sun | 6.00% | ~47,873 |
+| To Bad Decisions! | 6.00% | ~47,874 |
+| The Star | 6.00% | ~47,874 |
+| The Sun | 6.00% | ~47,874 |
 | Must Be Rats | 4.00% | ~31,916 |
 | Temperance | 4.00% | ~31,916 |
 | City Lights | 3.00% | ~23,937 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -4
 | Gunslinger | 1.00% | ~7,979 |
 | Rough Landing | 0.40% | ~3,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,891 (Ranked 10)  
+Progressed: 797,892 (Ranked 10)  
 Completed: 1,567 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 1,567 (0.20%) (Ranked 131)
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
 | 2023-05-04 | 797,891 | 1,567 |
+| 2023-05-05 | 797,892 | 1,567 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

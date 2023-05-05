@@ -134,9 +134,9 @@
       "ID": "ACH_BASE_26",
       "SetID": "92iocjf",
       "Name": "Sightseeing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_27",
@@ -366,9 +366,9 @@
       "ID": "ACH_BASE_57",
       "SetID": "92iocjf",
       "Name": "Pedal to the Metal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_58",
@@ -801,13 +801,13 @@
   ],
   "TotalAchievementsXP": 1050,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-04T23:04:27.7656708+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:51.1199669+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_Completed": 0,
   "EOS_Progressed": 1827,
-  "LastUpdate_Achievements": "2023-05-04T23:04:27.765718+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:52.9579076+00:00",
+  "LastUpdate_Achievements": "2023-05-05T00:04:51.1200363+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:58:00.9119567+00:00",
   "AchievementSets": [
     {
       "ID": "7a6m2da",
@@ -829,7 +829,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 145,
   "Ranking_PopularitySum": 490,

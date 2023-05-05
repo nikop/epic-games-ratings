@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472028
+      "UsersEstimate": 472029
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380245
+      "UsersEstimate": 380246
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -72,7 +72,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65559
+      "UsersEstimate": 65560
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -104,7 +104,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65559
+      "UsersEstimate": 65560
     },
     {
       "ID": "Achievement_14_Magician",
@@ -248,7 +248,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78671
+      "UsersEstimate": 78672
     },
     {
       "ID": "Achievement_32_Karma",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163898
+      "UsersEstimate": 163899
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -288,7 +288,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59003
+      "UsersEstimate": 59004
     },
     {
       "ID": "Achievement_37_Champion",
@@ -1372,6 +1372,11 @@
       "Time": "2023-05-04T22:06:09.4953797+00:00",
       "NumProgressed": 655594,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T00:04:52.5172516+00:00",
+      "NumProgressed": 655596,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2135,18 +2140,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-04T23:04:29.084127+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:52.5172504+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 384,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655594,
-  "LastUpdate_Achievements": "2023-05-04T23:04:29.0841623+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:08.5937354+00:00",
+  "EOS_Progressed": 655596,
+  "LastUpdate_Achievements": "2023-05-05T00:04:52.5172977+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:18.1221944+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655594,
+      "Progressed": 655596,
       "Completed": 164
     }
   ],

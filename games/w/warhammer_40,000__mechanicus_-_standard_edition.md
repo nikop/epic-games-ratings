@@ -8,9 +8,9 @@ Diff (max vs sum): 45
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,130 |
+| No aid from the Omnissiah | 25.00% | ~52,131 |
 | This is only the beginning | 19.00% | ~39,619 |
-| Knowledge is power | 12.00% | ~25,022 |
+| Knowledge is power | 12.00% | ~25,023 |
 | Power Ranger | 9.00% | ~18,767 |
 | Galvanic Rifle | 9.00% | ~18,767 |
 | Taser Goad | 9.00% | ~18,767 |
@@ -43,7 +43,7 @@ Diff (max vs sum): 45
 | Perma-live | 0.10% | ~209 |
 | Purge the Heretek | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,520 (Ranked 47)  
+Progressed: 208,523 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 208,286 | 2 |
 | 2023-05-03 | 208,404 | 2 |
 | 2023-05-04 | 208,520 | 2 |
+| 2023-05-05 | 208,523 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

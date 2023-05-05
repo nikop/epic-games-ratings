@@ -29,7 +29,7 @@ Rating: 4.67 (Ranked 255)
 | Legendary Bounty Hunter | 18.00% | ~4,070 |
 | Seeing All The Sights | 16.00% | ~3,618 |
 | Carried Stan's Load To Completion | 13.00% | ~2,939 |
-| We Paid For The Rights To Put A Whole Movie In Here | 11.00% | ~2,487 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,713 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,035 |
 | Sequel-Bait | 8.00% | ~1,809 |
 | Gunning For Your Job | 7.00% | ~1,583 |

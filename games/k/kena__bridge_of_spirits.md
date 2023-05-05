@@ -9,29 +9,29 @@ Diff (max vs sum): -80
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~403,616 |
-| Haikyo | 80.00% | ~339,887 |
-| Good as New | 72.00% | ~305,898 |
+| Found a Friend | 95.00% | ~403,617 |
+| Haikyo | 80.00% | ~339,888 |
+| Good as New | 72.00% | ~305,899 |
 | Into the Woods | 69.00% | ~293,153 |
-| Hunter in the Forest | 60.00% | ~254,915 |
+| Hunter in the Forest | 60.00% | ~254,916 |
 | Rot Commander | 59.00% | ~250,667 |
-| Taro's Fear | 55.00% | ~233,672 |
-| Between the Eyes | 46.00% | ~195,435 |
+| Taro's Fear | 55.00% | ~233,673 |
+| Between the Eyes | 46.00% | ~195,436 |
 | Taro's Love | 45.00% | ~191,187 |
-| Taro's Regret | 43.00% | ~182,689 |
+| Taro's Regret | 43.00% | ~182,690 |
 | Spirit Guide | 42.00% | ~178,441 |
-| Harness Your Power | 38.00% | ~161,446 |
+| Harness Your Power | 38.00% | ~161,447 |
 | The Open Range | 37.00% | ~157,198 |
-| Adira's Love | 33.00% | ~140,203 |
+| Adira's Love | 33.00% | ~140,204 |
 | Adira's Fear | 32.00% | ~135,955 |
-| Weigh Them Down | 31.00% | ~131,706 |
-| Adira's Regret | 31.00% | ~131,706 |
+| Weigh Them Down | 31.00% | ~131,707 |
+| Adira's Regret | 31.00% | ~131,707 |
 | A Heavy Hammer | 30.00% | ~127,458 |
 | Crossing Over | 29.00% | ~123,209 |
 | Quick Draw | 29.00% | ~123,209 |
 | Toshi's Fear | 27.00% | ~114,712 |
-| Toshi's Regret | 26.00% | ~110,463 |
-| Toshi's Love | 26.00% | ~110,463 |
+| Toshi's Regret | 26.00% | ~110,464 |
+| Toshi's Love | 26.00% | ~110,464 |
 | A Leader Walks Alone | 25.00% | ~106,215 |
 | Bow Master | 25.00% | ~106,215 |
 | The Lonely Path | 25.00% | ~106,215 |
@@ -51,7 +51,7 @@ Diff (max vs sum): -80
 | Triple Threat | 0.90% | ~3,824 |
 | Master Spirit Guide | 0.30% | ~1,275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,859 (Ranked 30)  
+Progressed: 424,860 (Ranked 30)  
 Completed: 497 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 497 (0.12%) (Ranked 146)
 | 2023-05-02 | 424,815 | 497 |
 | 2023-05-03 | 424,838 | 497 |
 | 2023-05-04 | 424,859 | 497 |
+| 2023-05-05 | 424,860 | 497 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

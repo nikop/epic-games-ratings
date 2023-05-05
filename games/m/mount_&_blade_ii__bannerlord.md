@@ -9,7 +9,7 @@ Diff (max vs sum): -19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,590 |
+| Lawbringer | 34.00% | ~16,591 |
 | Landlord | 29.00% | ~14,151 |
 | Bannerlord | 20.00% | ~9,759 |
 | Horde breaker | 20.00% | ~9,759 |
@@ -19,7 +19,7 @@ Diff (max vs sum): -19
 | King Solomon | 15.00% | ~7,319 |
 | I can do it | 14.00% | ~6,831 |
 | Apple of my eye | 13.00% | ~6,343 |
-| God of the Arena | 12.00% | ~5,855 |
+| God of the Arena | 12.00% | ~5,856 |
 | Against all odds | 9.00% | ~4,392 |
 | Swordbearer | 9.00% | ~4,392 |
 | Duelist | 8.00% | ~3,904 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,795 (Ranked 73)  
+Progressed: 48,796 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
+| 2023-05-05 | 48,796 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

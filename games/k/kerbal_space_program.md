@@ -2,9 +2,9 @@
 [View Rawdata](../../db/k/kerbal_space_program.json)  
 Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
-Max (Educational): 483  (Ranked 184)  
+Max (Educational): 483  (Ranked 185)  
 Sum: 3,199 (Ranked 144)  
-Diff (max vs sum): 40  
+Diff (max vs sum): 41  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

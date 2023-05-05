@@ -40,7 +40,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -56,7 +56,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -64,7 +64,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -264,7 +264,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "MAGIC_IVY",
@@ -1033,6 +1033,11 @@
       "Time": "2023-05-04T23:04:43.9235766+00:00",
       "NumProgressed": 37537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T00:05:07.7086818+00:00",
+      "NumProgressed": 37539,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1227,25 +1232,25 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T23:04:43.9235761+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:07.7086808+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_Completed": 1,
-  "EOS_Progressed": 37537,
-  "LastUpdate_Achievements": "2023-05-04T23:04:43.9236159+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:58.9032348+00:00",
+  "EOS_Progressed": 37539,
+  "LastUpdate_Achievements": "2023-05-05T00:05:07.7087265+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:58:06.6517014+00:00",
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37537,
+      "Progressed": 37539,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2374,
-      "Completed": 2374
+      "Progressed": 2376,
+      "Completed": 2376
     }
   ],
   "EOS_Completed_Percentage": 0,

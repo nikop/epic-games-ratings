@@ -72,7 +72,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17670
+      "UsersEstimate": 17671
     },
     {
       "ID": "FLAWLESS",
@@ -96,7 +96,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44176
+      "UsersEstimate": 44177
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -144,7 +144,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70682
+      "UsersEstimate": 70683
     },
     {
       "ID": "NOBUNAGA",
@@ -272,7 +272,7 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90561
+      "UsersEstimate": 90562
     }
   ],
   "Tags": [],
@@ -1256,6 +1256,11 @@
       "Time": "2023-05-04T23:04:26.1633232+00:00",
       "NumProgressed": 220881,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T00:04:49.6376392+00:00",
+      "NumProgressed": 220883,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -1565,18 +1570,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-04T23:04:26.1633227+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:49.6376386+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 650,
   "EOS_Completed": 41,
-  "EOS_Progressed": 220881,
-  "LastUpdate_Achievements": "2023-05-04T23:04:26.1633475+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:43.4765707+00:00",
+  "EOS_Progressed": 220883,
+  "LastUpdate_Achievements": "2023-05-05T00:04:49.6376713+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:51.1698153+00:00",
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 220881,
+      "Progressed": 220883,
       "Completed": 41
     }
   ],

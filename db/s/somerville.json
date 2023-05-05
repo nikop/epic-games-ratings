@@ -40,7 +40,7 @@
       "Name": "Resignation.",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SomervilleResignationReprise",
@@ -56,7 +56,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -80,7 +80,7 @@
       "Name": "Admiring the view.",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -152,6 +152,11 @@
       "Time": "2023-05-04T15:01:41.3164816+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T00:04:48.6885045+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 25
     }
   ],
   "RatingHistory": [
@@ -216,18 +221,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T23:04:25.2407002+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:48.688504+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_Completed": 25,
-  "EOS_Progressed": 1549,
-  "LastUpdate_Achievements": "2023-05-04T23:04:25.240709+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:16.8453526+00:00",
+  "EOS_Progressed": 1550,
+  "LastUpdate_Achievements": "2023-05-05T00:04:48.6885144+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:24.7701651+00:00",
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 25
     }
   ],
@@ -238,7 +243,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_Progress": 147,
   "Ranking_PopularitySum": 490,

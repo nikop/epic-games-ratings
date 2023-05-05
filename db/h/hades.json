@@ -8,7 +8,7 @@
       "Name": "Back to Work",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 265110
+      "UsersEstimate": 265111
     },
     {
       "ID": "AchAresKills",
@@ -56,7 +56,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 217526
+      "UsersEstimate": 217527
     },
     {
       "ID": "AchClearAnyRun",
@@ -64,7 +64,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 353480
+      "UsersEstimate": 353481
     },
     {
       "ID": "AchClearAsphodel",
@@ -72,7 +72,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 543816
+      "UsersEstimate": 543817
     },
     {
       "ID": "AchClearElysium",
@@ -80,7 +80,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 448648
+      "UsersEstimate": 448649
     },
     {
       "ID": "AchClearElysiumEM",
@@ -112,7 +112,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 604995
+      "UsersEstimate": 604996
     },
     {
       "ID": "AchCrushedThanatos",
@@ -120,7 +120,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 305896
+      "UsersEstimate": 305897
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -128,7 +128,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 81572
+      "UsersEstimate": 81573
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -168,7 +168,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 149549
+      "UsersEstimate": 149550
     },
     {
       "ID": "AchGreaterCall",
@@ -216,7 +216,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 169942
+      "UsersEstimate": 169943
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -224,7 +224,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 237919
+      "UsersEstimate": 237920
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -232,7 +232,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428255
+      "UsersEstimate": 428256
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -280,7 +280,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 244717
+      "UsersEstimate": 244718
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -360,7 +360,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 285503
+      "UsersEstimate": 285504
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -1536,6 +1536,11 @@
     {
       "Time": "2023-05-04T23:04:32.4595675+00:00",
       "NumProgressed": 679770,
+      "NumCompleted": 6073
+    },
+    {
+      "Time": "2023-05-05T00:04:55.7476518+00:00",
+      "NumProgressed": 679771,
       "NumCompleted": 6073
     }
   ],
@@ -4319,18 +4324,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-04T23:04:32.4595667+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:55.7476513+00:00",
   "EOS_NewCompleters": 22,
   "EOS_NewPlayers": 590,
   "EOS_Completed": 6073,
-  "EOS_Progressed": 679770,
-  "LastUpdate_Achievements": "2023-05-04T23:04:32.4596045+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:11.5824575+00:00",
+  "EOS_Progressed": 679771,
+  "LastUpdate_Achievements": "2023-05-05T00:04:55.747712+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:20.2137034+00:00",
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 679770,
+      "Progressed": 679771,
       "Completed": 6073
     }
   ],

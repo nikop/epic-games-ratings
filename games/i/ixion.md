@@ -19,6 +19,7 @@ Rating: 4.54 (Ranked 475)
 | Guy de Borderlands | 0.10% | ~2 |
 | Space Society | 0.10% | ~2 |
 | Sputnik 2049 | 0.10% | ~2 |
+| Sightseeing | 0.10% | ~2 |
 | A Hunk of Junk | 0.10% | ~2 |
 | Power Outage | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
@@ -31,6 +32,7 @@ Rating: 4.54 (Ranked 475)
 | Tiqqun Unchained | 0.10% | ~2 |
 | BRAWL! | 0.10% | ~2 |
 | Please Make it Stop! | 0.10% | ~2 |
+| Pedal to the Metal | 0.10% | ~2 |
 | Hope Seeker | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
@@ -41,7 +43,6 @@ Rating: 4.54 (Ranked 475)
 | Infinite Growth... | 0.00% | ~0 |
 | Sustainable Energy | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |
-| Sightseeing | 0.00% | ~0 |
 | In Dolos We Trust | 0.00% | ~0 |
 | Catastrophe Avoided | 0.00% | ~0 |
 | Breaking Protocol | 0.00% | ~0 |
@@ -55,7 +56,6 @@ Rating: 4.54 (Ranked 475)
 | A Junker's Dream | 0.00% | ~0 |
 | Scenic View | 0.00% | ~0 |
 | All in Good Health | 0.00% | ~0 |
-| Pedal to the Metal | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 | Help of the Forgotten Member | 0.00% | ~0 |

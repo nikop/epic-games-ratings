@@ -48,7 +48,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "FiveShadows",
@@ -80,7 +80,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16445
+      "UsersEstimate": 16446
     },
     {
       "ID": "HappyLittleAccidents",
@@ -128,7 +128,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "Mercyful",
@@ -224,7 +224,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "Rollin",
@@ -232,7 +232,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "StillRollin",
@@ -296,7 +296,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13156
+      "UsersEstimate": 13157
     },
     {
       "ID": "TimeParadox",
@@ -378,7 +378,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 496
+      "Count": 497
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1538,6 +1538,11 @@
       "Time": "2023-05-04T23:04:48.1599477+00:00",
       "NumProgressed": 164454,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T00:05:11.7474213+00:00",
+      "NumProgressed": 164460,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -2462,31 +2467,37 @@
       "Rating": 4.66,
       "NumberOfAwards": 4643,
       "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-04T23:58:26.3292813+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4644,
+      "NumberOfAwardsMax": 547
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-04T23:04:48.1599465+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:11.7474207+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 2252,
   "EOS_Completed": 41,
-  "EOS_Progressed": 164454,
-  "LastUpdate_Achievements": "2023-05-04T23:04:48.1599789+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:58:19.3415701+00:00",
+  "EOS_Progressed": 164460,
+  "LastUpdate_Achievements": "2023-05-05T00:05:11.7475565+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:58:26.3292816+00:00",
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164454,
+      "Progressed": 164460,
       "Completed": 41
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged": "2023-05-04T11:58:49.8867806+00:00",
+  "LastChanged": "2023-05-04T23:58:26.3292811+00:00",
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 547,
-  "NumberOfAwards": 4643,
+  "NumberOfAwards": 4644,
   "NumberOfRatings": 495,
   "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 31,

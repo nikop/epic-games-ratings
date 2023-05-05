@@ -88,7 +88,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ach_dawnmachine",
@@ -128,7 +128,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10145
+      "UsersEstimate": 10147
     },
     {
       "ID": "ach_die10",
@@ -160,7 +160,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ach_eye",
@@ -192,7 +192,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -216,7 +216,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3945
+      "UsersEstimate": 3946
     },
     {
       "ID": "ach_legacysalvager",
@@ -352,15 +352,15 @@
       "Name": "The Ascent of Man",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ach_sweetheart",
       "SetID": "ammcm",
       "Name": "Sweet Sorrow",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5072
+      "UsersEstimate": 5355
     },
     {
       "ID": "ach_terror100",
@@ -376,7 +376,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "ach_undercurrent",
@@ -416,7 +416,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ach_year10",
@@ -1511,6 +1511,11 @@
       "Time": "2023-05-04T23:04:58.1131949+00:00",
       "NumProgressed": 28180,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T00:05:21.7612018+00:00",
+      "NumProgressed": 28185,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2087,18 +2092,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-04T23:04:58.1131941+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:21.7612009+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 660,
   "EOS_Completed": 3,
-  "EOS_Progressed": 28180,
-  "LastUpdate_Achievements": "2023-05-04T23:04:58.1132376+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:58:56.1153546+00:00",
+  "EOS_Progressed": 28185,
+  "LastUpdate_Achievements": "2023-05-05T00:05:21.7612684+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:04.0455467+00:00",
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28180,
+      "Progressed": 28185,
       "Completed": 3
     }
   ],

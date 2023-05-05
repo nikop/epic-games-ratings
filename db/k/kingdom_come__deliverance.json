@@ -664,7 +664,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7133
+      "Count": 7137
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6070,17 +6070,23 @@
       "Rating": 4.71,
       "NumberOfAwards": 26699,
       "NumberOfAwardsMax": 7133
+    },
+    {
+      "Time": "2023-05-04T23:57:55.0307597+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26703,
+      "NumberOfAwardsMax": 7137
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 82,
-  "LastChanged_Achievements": "2023-05-04T23:04:42.453045+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:06.2900275+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 1271,
+  "EOS_NewPlayers": 1270,
   "EOS_Completed": 38,
   "EOS_Progressed": 779549,
-  "LastUpdate_Achievements": "2023-05-04T23:04:42.4531273+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:47.1151521+00:00",
+  "LastUpdate_Achievements": "2023-05-05T00:05:06.2901491+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:55.0307601+00:00",
   "AchievementSets": [
     {
       "ID": "8fdh3of",
@@ -6090,11 +6096,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T21:58:48.7075773+00:00",
+  "LastChanged": "2023-05-04T23:57:55.0307595+00:00",
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 7133,
-  "NumberOfAwards": 26699,
+  "NumberOfAwardsMax": 7137,
+  "NumberOfAwards": 26703,
   "NumberOfRatings": 9133,
   "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 42,

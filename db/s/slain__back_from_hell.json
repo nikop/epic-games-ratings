@@ -8,7 +8,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -16,7 +16,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -120,7 +120,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -160,7 +160,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -168,7 +168,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -1348,6 +1348,11 @@
       "Time": "2023-05-04T23:05:01.8067669+00:00",
       "NumProgressed": 18973,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T00:05:25.4655235+00:00",
+      "NumProgressed": 18980,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -1496,18 +1501,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-04T23:05:01.8067665+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:25.4655229+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1306,
+  "EOS_NewPlayers": 1305,
   "EOS_Completed": 14,
-  "EOS_Progressed": 18973,
-  "LastUpdate_Achievements": "2023-05-04T23:05:01.8067879+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:59:12.7235998+00:00",
+  "EOS_Progressed": 18980,
+  "LastUpdate_Achievements": "2023-05-05T00:05:25.465554+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:20.207521+00:00",
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 18973,
+      "Progressed": 18980,
       "Completed": 14
     }
   ],

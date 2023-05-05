@@ -12,6 +12,7 @@
 | Shine! | 25.00% | ~5 |
 | Dungeon Mastery | 20.00% | ~4 |
 | Riddlesolver | 20.00% | ~4 |
+| The Steed | 10.00% | ~2 |
 | A Strange Proposition | 10.00% | ~2 |
 | Card Collector | 10.00% | ~2 |
 | No Stone Unturned | 10.00% | ~2 |
@@ -19,7 +20,6 @@
 | The Apprentice | 5.00% | ~1 |
 | Braving Miasma | 5.00% | ~1 |
 | The Familiar | 5.00% | ~1 |
-| The Steed | 5.00% | ~1 |
 | Ancient Nemesis | 5.00% | ~1 |
 | Best Pupil | 5.00% | ~1 |
 | Oracle Mastery | 5.00% | ~1 |

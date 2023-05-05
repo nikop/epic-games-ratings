@@ -6,9 +6,9 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_boss2",
@@ -70,9 +70,9 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_level2",
@@ -86,9 +86,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 70,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lose",
@@ -166,13 +166,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T23:04:35.5002041+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:58.7669334+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-04T23:04:35.5002135+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:58:27.6284909+00:00",
+  "LastUpdate_Achievements": "2023-05-05T00:04:58.7669583+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:58:33.9363343+00:00",
   "AchievementSets": [
     {
       "ID": "c2c0fb6",

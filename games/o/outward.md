@@ -52,7 +52,7 @@ Diff (max vs sum): 99
 | Master of Aurai | 0.30% | ~7 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,305 (Ranked 136)  
+Progressed: 2,305 (Ranked 137)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |

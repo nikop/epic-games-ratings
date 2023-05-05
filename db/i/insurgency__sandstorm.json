@@ -64,7 +64,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14472
+      "UsersEstimate": 14473
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -96,7 +96,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -112,7 +112,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14472
+      "UsersEstimate": 14473
     },
     {
       "ID": "ACH_JR_50",
@@ -168,7 +168,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -176,7 +176,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18090
+      "UsersEstimate": 18091
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -272,7 +272,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18090
+      "UsersEstimate": 18091
     },
     {
       "ID": "ACH_WET_FEET",
@@ -280,7 +280,7 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14472
+      "UsersEstimate": 14473
     }
   ],
   "Tags": [
@@ -1450,6 +1450,11 @@
     {
       "Time": "2023-05-04T23:04:21.8250497+00:00",
       "NumProgressed": 361792,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T00:04:45.1418842+00:00",
+      "NumProgressed": 361814,
       "NumCompleted": 2
     }
   ],
@@ -3191,18 +3196,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T23:04:21.8250492+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:04:45.1418835+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3903,
+  "EOS_NewPlayers": 3898,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361792,
-  "LastUpdate_Achievements": "2023-05-04T23:04:21.8250769+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:57:22.4257723+00:00",
+  "EOS_Progressed": 361814,
+  "LastUpdate_Achievements": "2023-05-05T00:04:45.1419184+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:57:30.4022824+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 361792,
+      "Progressed": 361814,
       "Completed": 2
     }
   ],

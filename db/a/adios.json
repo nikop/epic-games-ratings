@@ -16,7 +16,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "Adios, Friendo",
@@ -24,7 +24,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "Audiophile",
@@ -32,7 +32,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "Be Seeing You",
@@ -40,7 +40,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11324
+      "UsersEstimate": 11325
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -48,7 +48,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "Butcher",
@@ -80,7 +80,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10246
+      "UsersEstimate": 10247
     },
     {
       "ID": "Hearty",
@@ -96,7 +96,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4853
+      "UsersEstimate": 4854
     },
     {
       "ID": "Magnetic Miracles",
@@ -112,7 +112,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10246
+      "UsersEstimate": 10247
     },
     {
       "ID": "Meaty",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9706
+      "UsersEstimate": 9707
     },
     {
       "ID": "Nice Try",
@@ -136,7 +136,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8628
+      "UsersEstimate": 8629
     },
     {
       "ID": "Nothing Left to Say",
@@ -152,7 +152,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "Right On Target",
@@ -160,7 +160,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "Sniper",
@@ -1319,6 +1319,11 @@
       "Time": "2023-05-04T23:05:09.1855615+00:00",
       "NumProgressed": 53925,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-05-05T00:05:32.9119279+00:00",
+      "NumProgressed": 53930,
+      "NumCompleted": 430
     }
   ],
   "RatingHistory": [
@@ -1337,18 +1342,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-04T23:05:09.1855611+00:00",
+  "LastChanged_Achievements": "2023-05-05T00:05:32.9119268+00:00",
   "EOS_NewCompleters": 28,
-  "EOS_NewPlayers": 1588,
+  "EOS_NewPlayers": 1589,
   "EOS_Completed": 430,
-  "EOS_Progressed": 53925,
-  "LastUpdate_Achievements": "2023-05-04T23:05:09.1855792+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:59:37.4002367+00:00",
+  "EOS_Progressed": 53930,
+  "LastUpdate_Achievements": "2023-05-05T00:05:32.9119483+00:00",
+  "LastUpdate_Ratings": "2023-05-04T23:59:44.4489321+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 53925,
+      "Progressed": 53930,
       "Completed": 430
     }
   ],
