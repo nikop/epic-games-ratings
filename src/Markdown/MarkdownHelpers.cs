@@ -153,16 +153,7 @@ namespace EpicRatingsUpdater.Markdown
                 sb.AppendLine($"Number of Ratings: {FormatVotes(item.NumberOfRatings)}  (23.09.2022)  ");
             }
 
-            if (item.NumberOfAwards != null && item.NumberOfAwards > 0)
-            {
-                sb.AppendLine("## Popularity (Based on Awards)");
-
-                sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
-                sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
-                sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}  ");
-            }
-
-            if (item.Achievements != null)
+            if (item.Achievements.Count > 0)
             {
                 sb.AppendLine("## Achievements");
 
@@ -202,6 +193,13 @@ namespace EpicRatingsUpdater.Markdown
             if (item.Tags.Count > 0)
             {
                 sb.AppendLine("## Awards");
+
+                if (item.NumberOfAwards != null && item.NumberOfAwards > 0)
+                {
+                    sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
+                    sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
+                    sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}  ");
+                }
 
                 sb.AppendLine("| Award | Count |");
                 sb.AppendLine("| ----- | ----- |");
