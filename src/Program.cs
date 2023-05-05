@@ -8,7 +8,7 @@ using System.Text.Json;
 var path = new DirectoryInfo(".").FullName;
 var index = new Dictionary<string, string>();
 
-var forceUpdateNames = args.Any(x => x == "--update-names");
+var skipAppInfo = args.Any(x => x == "--skip-appinfo");
 var skipRatingsUpdate = args.Any(x => x == "--skip-ratings");
 var skipAchievementsUpdate = args.Any(x => x == "--skip-achievement");
 var skipOffers = args.Any(x => x == "--skip-offers");
@@ -34,9 +34,6 @@ if (!Directory.Exists(dirItems) || !Directory.Exists(dirOffers))
     Environment.Exit(1);
     return;
 }
-
-if (forceUpdateNames)
-    Console.WriteLine("Updating names");
 
 // Known namespaces
 var namespaces = new Dictionary<string, NamespaceDef>{};
@@ -110,7 +107,7 @@ if (!skipOffers)
                 await gameIndex.RenameItem(item).ConfigureAwait(false);
             }
 
-            if (baseAppOffer.productSlug != item.ProductSlug)
+            if (baseAppOffer.productSlug != null && baseAppOffer.productSlug != item.ProductSlug)
             {
                 item.ProductSlug = baseAppOffer.productSlug;
                 requiresSave = true;
@@ -158,6 +155,13 @@ async ValueTask<GameDbItem> GetOrCreate(JsonIndexDb<GameDbItem> gameIndex, strin
 }
 
 var items = await gameIndex.GetAllItems().ConfigureAwait(false);
+
+// Fetch appInfo
+if (!skipAppInfo)
+{
+    var action = new UpdateAppInfo();
+    await action.Run(items);
+}
 
 // Fetch ratings
 if (!skipRatingsUpdate)

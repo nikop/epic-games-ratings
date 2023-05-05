@@ -59,6 +59,9 @@ namespace EpicRatingsUpdater.GameDatabase
         public DateTimeOffset? LastChanged_Achievements { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public DateTimeOffset? LastUpdate_AppInfo { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public DateTimeOffset? LastUpdate_Ratings { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
