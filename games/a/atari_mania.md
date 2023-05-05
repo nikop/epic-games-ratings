@@ -3,16 +3,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Magnetized | 50.00% | ~200 |
-| FOBOS fear has been reduced to dust | 25.00% | ~100 |
-| EXPLOSA exploded | 25.00% | ~100 |
-| GLOOMDOOM has been zapped | 25.00% | ~100 |
-| Bentley is saved | 25.00% | ~100 |
-| DUPLICIO has been found | 25.00% | ~100 |
-| RANDOMA's eyes has been gouged | 25.00% | ~100 |
-| I know my way around! | 25.00% | ~100 |
-| NEOS is lighted up | 25.00% | ~100 |
-| INPUTO's curse is lifted | 25.00% | ~100 |
+| Magnetized | 50.00% | ~2 |
+| FOBOS fear has been reduced to dust | 25.00% | ~1 |
+| EXPLOSA exploded | 25.00% | ~1 |
+| GLOOMDOOM has been zapped | 25.00% | ~1 |
+| Bentley is saved | 25.00% | ~1 |
+| DUPLICIO has been found | 25.00% | ~1 |
+| RANDOMA's eyes has been gouged | 25.00% | ~1 |
+| I know my way around! | 25.00% | ~1 |
+| NEOS is lighted up | 25.00% | ~1 |
+| INPUTO's curse is lifted | 25.00% | ~1 |
 | Clean Freak | 0.00% | ~0 |
 | Dedicated Floor #1 Gamer | 0.00% | ~0 |
 | Dedicated Floor #2 Gamer | 0.00% | ~0 |

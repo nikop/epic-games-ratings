@@ -8,7 +8,7 @@
       "Name": "Shiny New Weapons",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -16,7 +16,7 @@
       "Name": "Key Piece I",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -24,7 +24,7 @@
       "Name": "Completely Hooked",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -40,7 +40,7 @@
       "Name": "Money Bags",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -144,7 +144,7 @@
       "Name": "The Lawnmower Lady",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -152,7 +152,7 @@
       "Name": "Lily: Warrior Princess",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -181,13 +181,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:24:33.6407125+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:47.0665378+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-04T22:24:33.6407355+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:40.9303981+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:47.0665483+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:21.2498275+00:00",
   "AchievementSets": [
     {
       "ID": "2e4ldac",
@@ -202,8 +202,8 @@
   "FirstSeen": "2022-11-17T13:22:10.6759527+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 306,
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00"

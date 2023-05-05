@@ -3,8 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 50.00% | ~200 |
-| Master Of The Arts | 25.00% | ~100 |
+| Adventure Time | 50.00% | ~2 |
+| Master Of The Arts | 25.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |

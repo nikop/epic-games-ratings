@@ -8,7 +8,7 @@
       "Name": "The Story Begins...",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_1",
@@ -16,7 +16,7 @@
       "Name": "A Friend In Need",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_10",
@@ -24,7 +24,7 @@
       "Name": "Prison Break",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_11",
@@ -32,7 +32,7 @@
       "Name": "Skilled Hands",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_12",
@@ -40,7 +40,7 @@
       "Name": "I Pick You",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_13",
@@ -48,7 +48,7 @@
       "Name": "Accomplished Smithy",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_14",
@@ -56,7 +56,7 @@
       "Name": "The Blight\u0027s Blight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_15",
@@ -64,7 +64,7 @@
       "Name": "Close Encounter",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_16",
@@ -72,7 +72,7 @@
       "Name": "The Depths Of Darkness",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_17",
@@ -80,7 +80,7 @@
       "Name": "Master Smithy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_18",
@@ -88,7 +88,7 @@
       "Name": "One With The Blades",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_19",
@@ -96,7 +96,7 @@
       "Name": "Heart of Oblivion",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_2",
@@ -104,7 +104,7 @@
       "Name": "These Blades Are Made For Swinging",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 8
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_20",
@@ -112,7 +112,7 @@
       "Name": "Anahita\u0027s Greatest Mistake",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_21",
@@ -120,7 +120,7 @@
       "Name": "Heart\u0027s Desire",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_22",
@@ -128,7 +128,7 @@
       "Name": "The Ultimate Sacrifice",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_23",
@@ -136,7 +136,7 @@
       "Name": "Nature\u0027s Savior",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_24",
@@ -144,7 +144,7 @@
       "Name": "Hammer It Home",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_25",
@@ -152,7 +152,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_26",
@@ -160,7 +160,7 @@
       "Name": "Here I Am",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_27",
@@ -168,7 +168,7 @@
       "Name": "Break The Cycle",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_28",
@@ -176,7 +176,7 @@
       "Name": "Continue The Cycle",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 300
+      "UsersEstimate": 3
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_29",
@@ -184,7 +184,7 @@
       "Name": "A Stranger\u0027s Diary",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_3",
@@ -192,7 +192,7 @@
       "Name": "Unearth A Qanat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_30",
@@ -200,7 +200,7 @@
       "Name": "Read, Read, Read",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_31",
@@ -208,7 +208,7 @@
       "Name": "Ledge-walker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_32",
@@ -216,7 +216,7 @@
       "Name": "Prolific Artist",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_33",
@@ -224,7 +224,7 @@
       "Name": "Talent And Dedication",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_34",
@@ -232,7 +232,7 @@
       "Name": "Slip and Slide",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_35",
@@ -240,7 +240,7 @@
       "Name": "Merely Inquisitive",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_36",
@@ -248,7 +248,7 @@
       "Name": "It Feels Better Than It Sounds",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_37",
@@ -256,7 +256,7 @@
       "Name": "Shoo! Shoo!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_4",
@@ -264,7 +264,7 @@
       "Name": "Stand By Nature",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_5",
@@ -272,7 +272,7 @@
       "Name": "First Blood",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_6",
@@ -280,7 +280,7 @@
       "Name": "The Milk Canal",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_7",
@@ -288,7 +288,7 @@
       "Name": "Carving A Memory",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_8",
@@ -296,7 +296,7 @@
       "Name": "Fledgling Smithy",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_9",
@@ -304,7 +304,7 @@
       "Name": "At One With Nature",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     }
   ],
   "Tags": [],
@@ -335,13 +335,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-04T22:24:52.8648351+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:09.2788436+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T22:24:52.8648845+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:52.3406129+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:09.2788691+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:56.0545297+00:00",
   "AchievementSets": [
     {
       "ID": "1kdk24p",
@@ -356,9 +356,9 @@
   "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00"
 }

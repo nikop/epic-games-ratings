@@ -8,7 +8,7 @@
       "Name": "Bookworm",
       "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 2340
+      "UsersEstimate": 23
     },
     {
       "ID": "ALL_CASSETTES",
@@ -16,7 +16,7 @@
       "Name": "Press Play",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 3420
+      "UsersEstimate": 34
     },
     {
       "ID": "ALL_COMPUTERS",
@@ -24,7 +24,7 @@
       "Name": "Floppy Disk Finder",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1170
+      "UsersEstimate": 12
     },
     {
       "ID": "ALL_DOCUMENTS",
@@ -32,7 +32,7 @@
       "Name": "No Page Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 360
+      "UsersEstimate": 4
     },
     {
       "ID": "ALL_PEGS",
@@ -40,7 +40,7 @@
       "Name": "Friends",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 540
+      "UsersEstimate": 5
     },
     {
       "ID": "CHAPTER_02_COMPLETE",
@@ -48,7 +48,7 @@
       "Name": "Last Goodbye",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 8100
+      "UsersEstimate": 81
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -56,7 +56,7 @@
       "Name": "The Routine",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 7200
+      "UsersEstimate": 72
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
@@ -64,7 +64,7 @@
       "Name": "Failure",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 6660
+      "UsersEstimate": 67
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
@@ -72,7 +72,7 @@
       "Name": "Replace Fuse",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 6120
+      "UsersEstimate": 61
     },
     {
       "ID": "CHAPTER_06_COMPLETE",
@@ -80,7 +80,7 @@
       "Name": "Alarm",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 5760
+      "UsersEstimate": 58
     },
     {
       "ID": "CHAPTER_07_COMPLETE",
@@ -88,7 +88,7 @@
       "Name": "Air Filtration",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5670
+      "UsersEstimate": 57
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
@@ -96,7 +96,7 @@
       "Name": "Broken",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 5580
+      "UsersEstimate": 56
     },
     {
       "ID": "CHAPTER_09_COMPLETE",
@@ -104,7 +104,7 @@
       "Name": "Radiation",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 5490
+      "UsersEstimate": 55
     },
     {
       "ID": "CHAPTER_10_COMPLETE",
@@ -112,7 +112,7 @@
       "Name": "Descent",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 5400
+      "UsersEstimate": 54
     },
     {
       "ID": "CHAPTER_11_COMPLETE",
@@ -120,7 +120,7 @@
       "Name": "Awakenings",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 5220
+      "UsersEstimate": 52
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
@@ -128,7 +128,7 @@
       "Name": "Cold Storage",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 5220
+      "UsersEstimate": 52
     },
     {
       "ID": "LEAVE",
@@ -136,7 +136,7 @@
       "Name": "Leave",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 4410
+      "UsersEstimate": 44
     },
     {
       "ID": "MISSING_PIECE",
@@ -144,7 +144,7 @@
       "Name": "The Missing Piece",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 360
+      "UsersEstimate": 4
     },
     {
       "ID": "PEG_CHURCHILL",
@@ -152,7 +152,7 @@
       "Name": "Churchill",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 4680
+      "UsersEstimate": 47
     },
     {
       "ID": "PEG_COMMISSIONER",
@@ -160,7 +160,7 @@
       "Name": "Commissioner",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 43
     },
     {
       "ID": "PEG_DOCTOR",
@@ -168,7 +168,7 @@
       "Name": "Doctor",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 43
     },
     {
       "ID": "PEG_ENGINEER",
@@ -176,7 +176,7 @@
       "Name": "Engineer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 43
     },
     {
       "ID": "PEG_GENERAL",
@@ -184,7 +184,7 @@
       "Name": "General",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 21
     },
     {
       "ID": "PEG_MOTHER",
@@ -192,7 +192,7 @@
       "Name": "Mother",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6930
+      "UsersEstimate": 69
     },
     {
       "ID": "PEG_NURSE",
@@ -200,7 +200,7 @@
       "Name": "Nurse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 11
     },
     {
       "ID": "PEG_SAM",
@@ -208,7 +208,7 @@
       "Name": "Sam",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 4680
+      "UsersEstimate": 47
     },
     {
       "ID": "PEG_SOLDIER",
@@ -216,7 +216,7 @@
       "Name": "Soldier",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 43
     },
     {
       "ID": "STAY",
@@ -224,7 +224,7 @@
       "Name": "Stay",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 1530
+      "UsersEstimate": 15
     }
   ],
   "Tags": [],
@@ -250,13 +250,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:24:18.6970864+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:29.3482326+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 3,
   "EOS_Progressed": 90,
-  "LastUpdate_Achievements": "2023-05-04T22:24:18.697107+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:18.8336108+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:29.3482483+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:54.1136216+00:00",
   "AchievementSets": [
     {
       "ID": "bho0i1h",
@@ -271,8 +271,8 @@
   "FirstSeen": "2022-10-22T08:32:43.2662089+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_Progress": 248,
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00"

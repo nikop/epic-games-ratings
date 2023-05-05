@@ -9,59 +9,59 @@ Diff (max vs sum): -19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~1,658,996 |
-| Landlord | 29.00% | ~1,415,026 |
-| Bannerlord | 20.00% | ~975,880 |
-| Horde breaker | 20.00% | ~975,880 |
-| Lawmaker | 20.00% | ~975,880 |
-| Trained | 19.00% | ~927,086 |
-| The king is pleased | 16.00% | ~780,704 |
-| King Solomon | 15.00% | ~731,910 |
-| I can do it | 14.00% | ~683,116 |
-| Apple of my eye | 13.00% | ~634,322 |
-| God of the Arena | 12.00% | ~585,528 |
-| Against all odds | 9.00% | ~439,146 |
-| Swordbearer | 9.00% | ~439,146 |
-| Duelist | 8.00% | ~390,352 |
-| Dynasty | 8.00% | ~390,352 |
-| I spit on your grave | 8.00% | ~390,352 |
-| Butterlord | 7.00% | ~341,558 |
-| What have the Romans ever done for us? | 7.00% | ~341,558 |
-| Mastery | 6.00% | ~292,764 |
-| Know your enemy | 5.00% | ~243,970 |
-| This Is Our Land | 5.00% | ~243,970 |
-| Crush your enemies | 4.00% | ~195,176 |
-| My way | 4.00% | ~195,176 |
-| Veni vidi vici | 4.00% | ~195,176 |
-| Crowdfunded | 3.00% | ~146,382 |
-| Freedom! | 3.00% | ~146,382 |
-| Entrepreneur | 2.00% | ~97,588 |
-| Long live the Empire! | 2.00% | ~97,588 |
-| Real Estate | 2.00% | ~97,588 |
-| Supreme Emperor | 1.00% | ~48,794 |
-| Crackshot | 0.70% | ~34,156 |
-| Undercover | 0.70% | ~34,156 |
-| Fat Cat | 0.60% | ~29,276 |
-| Catch | 0.50% | ~24,397 |
-| Slice 'n dice | 0.40% | ~19,518 |
-| Ride it like you stole it | 0.30% | ~14,638 |
-| Mounted Archery | 0.20% | ~9,759 |
-| Best served cold | 0.10% | ~4,879 |
-| Butcher of Calradia | 0.10% | ~4,879 |
-| Explorer | 0.10% | ~4,879 |
-| Great Granny | 0.10% | ~4,879 |
-| Headhunter | 0.10% | ~4,879 |
-| Heartbreaker | 0.10% | ~4,879 |
-| Kingslayer | 0.10% | ~4,879 |
-| Lance-a-lot | 0.10% | ~4,879 |
-| Minor Clan | 0.10% | ~4,879 |
-| Roadkill | 0.10% | ~4,879 |
-| Strike! | 0.10% | ~4,879 |
-| This is Sparta! | 0.10% | ~4,879 |
+| Lawbringer | 34.00% | ~16,597 |
+| Landlord | 29.00% | ~14,157 |
+| Bannerlord | 20.00% | ~9,763 |
+| Horde breaker | 20.00% | ~9,763 |
+| Lawmaker | 20.00% | ~9,763 |
+| Trained | 19.00% | ~9,275 |
+| The king is pleased | 16.00% | ~7,811 |
+| King Solomon | 15.00% | ~7,322 |
+| I can do it | 14.00% | ~6,834 |
+| Apple of my eye | 13.00% | ~6,346 |
+| God of the Arena | 12.00% | ~5,858 |
+| Against all odds | 9.00% | ~4,393 |
+| Swordbearer | 9.00% | ~4,393 |
+| Duelist | 8.00% | ~3,905 |
+| Dynasty | 8.00% | ~3,905 |
+| I spit on your grave | 8.00% | ~3,905 |
+| Butterlord | 7.00% | ~3,417 |
+| What have the Romans ever done for us? | 7.00% | ~3,417 |
+| Mastery | 6.00% | ~2,929 |
+| Know your enemy | 5.00% | ~2,441 |
+| This Is Our Land | 5.00% | ~2,441 |
+| Crush your enemies | 4.00% | ~1,953 |
+| My way | 4.00% | ~1,953 |
+| Veni vidi vici | 4.00% | ~1,953 |
+| Crowdfunded | 3.00% | ~1,464 |
+| Freedom! | 3.00% | ~1,464 |
+| Entrepreneur | 2.00% | ~976 |
+| Long live the Empire! | 2.00% | ~976 |
+| Real Estate | 2.00% | ~976 |
+| Supreme Emperor | 1.00% | ~488 |
+| Crackshot | 0.70% | ~342 |
+| Undercover | 0.70% | ~342 |
+| Fat Cat | 0.60% | ~293 |
+| Catch | 0.50% | ~244 |
+| Slice 'n dice | 0.40% | ~195 |
+| Mounted Archery | 0.20% | ~98 |
+| Ride it like you stole it | 0.20% | ~98 |
+| Best served cold | 0.10% | ~49 |
+| Butcher of Calradia | 0.10% | ~49 |
+| Explorer | 0.10% | ~49 |
+| Great Granny | 0.10% | ~49 |
+| Headhunter | 0.10% | ~49 |
+| Heartbreaker | 0.10% | ~49 |
+| Kingslayer | 0.10% | ~49 |
+| Lance-a-lot | 0.10% | ~49 |
+| Minor Clan | 0.10% | ~49 |
+| Roadkill | 0.10% | ~49 |
+| Strike! | 0.10% | ~49 |
+| This is Sparta! | 0.10% | ~49 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,794 (Ranked 73)  
+Progressed: 48,816 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,8 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 48,589 | 0 |
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
-| 2023-05-04 | 48,794 | 0 |
+| 2023-05-04 | 48,795 | 0 |
+| 2023-05-05 | 48,816 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

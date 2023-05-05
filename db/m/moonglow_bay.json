@@ -8,7 +8,7 @@
       "Name": "The Monster of Moonglow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_02_TEMPEST",
@@ -16,7 +16,7 @@
       "Name": "Eternal Tempest",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_03_ANCIENT",
@@ -24,7 +24,7 @@
       "Name": "An Ancient Feud",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_04_CHANGE",
@@ -32,7 +32,7 @@
       "Name": "They Can Change",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_05_HEART",
@@ -40,7 +40,7 @@
       "Name": "The Heart of Moonglow",
       "Percentage": 0.3,
       "XP": 45,
-      "UsersEstimate": 113
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_06_JOURNEY",
@@ -88,7 +88,7 @@
       "Name": "The Art of Conversation",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_12_RACONTEUR",
@@ -128,7 +128,7 @@
       "Name": "Aquatic Expansion",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_17_CULINARY",
@@ -176,7 +176,7 @@
       "Name": "Ocean Wings",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_23_CRIME",
@@ -192,7 +192,7 @@
       "Name": "Wise and Floofy",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_25_FOURLEGS",
@@ -200,7 +200,7 @@
       "Name": "Four-Legged Friends",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_26_CONFECTION",
@@ -224,7 +224,7 @@
       "Name": "Selfish Shellfish",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_29_EXPEDITION",
@@ -264,7 +264,7 @@
       "Name": "Flying Tackle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_34_GRAPE",
@@ -272,7 +272,7 @@
       "Name": "Then Peel Me A Grape",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_35_WORTH",
@@ -280,7 +280,7 @@
       "Name": "Worth Your While",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_36_SPIDER",
@@ -317,13 +317,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-04T22:24:48.3179073+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:04.3353955+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 377,
-  "LastUpdate_Achievements": "2023-05-04T22:24:48.3179457+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:35.871396+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:04.3354192+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:35.3665859+00:00",
   "AchievementSets": [
     {
       "ID": "cieb1c3",
@@ -338,8 +338,8 @@
   "FirstSeen": "2022-07-22T20:25:09.4929662+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 193,
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00"

@@ -3,59 +3,59 @@
 Rating: 4.54 (Ranked 475)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,260  (Ranked 95)  
-Sum: 2,972 (Ranked 151)  
-Diff (max vs sum): -56  
+Sum: 3,020 (Ranked 147)  
+Diff (max vs sum): -52  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 88.00% | ~40,025,040 |
-| Break A Leg | 84.00% | ~38,205,720 |
-| Hazardous Materials | 76.00% | ~34,567,080 |
-| Coup de Grâce | 71.00% | ~32,292,930 |
-| Personal Assistant Personally Assisted | 70.00% | ~31,838,100 |
-| Git Gutte! | 67.00% | ~30,473,610 |
-| Apex Predator | 63.00% | ~28,654,290 |
-| Friends Like These | 59.00% | ~26,834,970 |
-| Bookworm | 54.00% | ~24,560,820 |
-| I Got a Zombie Army and You Can't Harm Me | 52.00% | ~23,651,160 |
-| Stacking the Deck | 49.00% | ~22,286,670 |
-| Welcome To Hell-A | 49.00% | ~22,286,670 |
-| Dr. Reed, I Presume? | 48.00% | ~21,831,840 |
-| This is My Weapon | 48.00% | ~21,831,840 |
-| Slayer Squad | 37.00% | ~16,828,710 |
-| But Doctor, I am Butcho | 36.00% | ~16,373,880 |
-| Anger Management | 35.00% | ~15,919,050 |
-| Making Your Mark | 34.00% | ~15,464,220 |
-| Perks of the Job | 34.00% | ~15,464,220 |
-| Can't Handle the Truth | 32.00% | ~14,554,560 |
-| Like Riding a Bike | 30.00% | ~13,644,900 |
-| I Am the Resurrection | 30.00% | ~13,644,900 |
-| Zombologist | 28.00% | ~12,735,240 |
-| Ooh, Shiny! | 28.00% | ~12,735,240 |
-| A Patton Emerges | 28.00% | ~12,735,240 |
-| Humanity Distilled | 27.00% | ~12,280,410 |
-| Our True Nature | 26.00% | ~11,825,580 |
-| Jumbo Keyring | 20.00% | ~9,096,600 |
-| Down with the Sickness | 20.00% | ~9,096,600 |
-| Go, Bobcats! | 19.00% | ~8,641,770 |
-| Rising Star | 19.00% | ~8,641,770 |
-| Smorgasbord | 12.00% | ~5,457,960 |
-| Internet Famous | 11.00% | ~5,003,130 |
-| Make it So | 9.00% | ~4,093,470 |
-| Not Even My Final Form | 9.00% | ~4,093,470 |
-| On Safari | 8.00% | ~3,638,640 |
-| Max Headroom | 8.00% | ~3,638,640 |
-| LA Influential | 7.00% | ~3,183,810 |
-| Gore Horse | 7.00% | ~3,183,810 |
-| Sharpest Tool in the Box | 6.00% | ~2,728,980 |
-| Sole Survivor | 5.00% | ~2,274,150 |
-| Variety is the Spice of Death | 5.00% | ~2,274,150 |
-| Donk! | 3.00% | ~1,364,490 |
-| Survival Skills | 3.00% | ~1,364,490 |
-| Zombicidal Maniac | 0.60% | ~272,898 |
+| Hotel California | 88.00% | ~402,511 |
+| Break A Leg | 84.00% | ~384,215 |
+| Hazardous Materials | 76.00% | ~347,623 |
+| Coup de Grâce | 71.00% | ~324,753 |
+| Personal Assistant Personally Assisted | 70.00% | ~320,179 |
+| Git Gutte! | 67.00% | ~306,457 |
+| Apex Predator | 63.00% | ~288,161 |
+| Friends Like These | 59.00% | ~269,865 |
+| Bookworm | 54.00% | ~246,995 |
+| I Got a Zombie Army and You Can't Harm Me | 52.00% | ~237,847 |
+| Dr. Reed, I Presume? | 49.00% | ~224,126 |
+| Stacking the Deck | 49.00% | ~224,126 |
+| Welcome To Hell-A | 49.00% | ~224,126 |
+| This is My Weapon | 48.00% | ~219,552 |
+| Slayer Squad | 37.00% | ~169,238 |
+| But Doctor, I am Butcho | 36.00% | ~164,664 |
+| Anger Management | 35.00% | ~160,090 |
+| Making Your Mark | 34.00% | ~155,516 |
+| Perks of the Job | 34.00% | ~155,516 |
+| Can't Handle the Truth | 32.00% | ~146,368 |
+| Like Riding a Bike | 30.00% | ~137,220 |
+| I Am the Resurrection | 30.00% | ~137,220 |
+| Ooh, Shiny! | 29.00% | ~132,646 |
+| Zombologist | 28.00% | ~128,072 |
+| A Patton Emerges | 28.00% | ~128,072 |
+| Humanity Distilled | 27.00% | ~123,498 |
+| Our True Nature | 27.00% | ~123,498 |
+| Jumbo Keyring | 21.00% | ~96,054 |
+| Down with the Sickness | 20.00% | ~91,480 |
+| Rising Star | 20.00% | ~91,480 |
+| Go, Bobcats! | 19.00% | ~86,906 |
+| Smorgasbord | 12.00% | ~54,888 |
+| Internet Famous | 12.00% | ~54,888 |
+| Make it So | 9.00% | ~41,166 |
+| Not Even My Final Form | 9.00% | ~41,166 |
+| On Safari | 8.00% | ~36,592 |
+| Max Headroom | 8.00% | ~36,592 |
+| LA Influential | 7.00% | ~32,018 |
+| Gore Horse | 7.00% | ~32,018 |
+| Sharpest Tool in the Box | 6.00% | ~27,444 |
+| Sole Survivor | 5.00% | ~22,870 |
+| Variety is the Spice of Death | 5.00% | ~22,870 |
+| Donk! | 3.00% | ~13,722 |
+| Survival Skills | 3.00% | ~13,722 |
+| Zombicidal Maniac | 0.70% | ~3,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,830 (Ranked 28)  
-Completed: 690 (0.15%) (Ranked 138)  
+Progressed: 457,399 (Ranked 27)  
+Completed: 708 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,19 +68,20 @@ Completed: 690 (0.15%) (Ranked 138)
 | 2023-05-01 | 433,075 | 523 |
 | 2023-05-02 | 441,520 | 585 |
 | 2023-05-03 | 448,692 | 640 |
-| 2023-05-04 | 454,830 | 690 |
+| 2023-05-04 | 455,004 | 693 |
+| 2023-05-05 | 457,399 | 708 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,260 |
 | This game has Diverse Characters | 121 |
-| This game is Great for Beginners | 98 |
-| This game has Quickly Understood Controls | 93 |
+| This game is Great for Beginners | 110 |
+| This game has Quickly Understood Controls | 105 |
+| This game is Highly Recommended | 94 |
 | This game has Amazing Characters | 90 |
-| This game is Highly Recommended | 83 |
-| This game is Relaxing | 79 |
+| This game is Relaxing | 88 |
 | This game is Extremely Fun | 77 |
-| This game has Amazing Storytelling | 71 |
+| This game has Amazing Storytelling | 75 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -98,3 +99,4 @@ Completed: 690 (0.15%) (Ranked 138)
 | 2023-05-02 | 4.54 | 1,989 | 2,560 |
 | 2023-05-03 | 4.54 | 2,115 | 2,712 |
 | 2023-05-04 | 4.54 | 2,260 | 2,972 |
+| 2023-05-05 | 4.54 | 2,260 | 3,020 |

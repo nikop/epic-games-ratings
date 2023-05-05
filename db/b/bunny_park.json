@@ -8,7 +8,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 27063
+      "UsersEstimate": 271
     },
     {
       "ID": "BP-02",
@@ -16,7 +16,7 @@
       "Name": "Bunny Party",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 10044
+      "UsersEstimate": 100
     },
     {
       "ID": "BP-03",
@@ -24,7 +24,7 @@
       "Name": "Bunny Fluffle",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2232
+      "UsersEstimate": 22
     },
     {
       "ID": "BP-04",
@@ -32,7 +32,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 23436
+      "UsersEstimate": 234
     },
     {
       "ID": "BP-05",
@@ -40,7 +40,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 16740
+      "UsersEstimate": 167
     },
     {
       "ID": "BP-06",
@@ -48,7 +48,7 @@
       "Name": "Debris Collector",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 5580
+      "UsersEstimate": 56
     },
     {
       "ID": "BP-07",
@@ -56,7 +56,7 @@
       "Name": "Beginner Decorator",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 13950
+      "UsersEstimate": 140
     },
     {
       "ID": "BP-08",
@@ -64,7 +64,7 @@
       "Name": "Stylish Decorator",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 8928
+      "UsersEstimate": 89
     },
     {
       "ID": "BP-09",
@@ -72,7 +72,7 @@
       "Name": "Ace Decorator",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 6696
+      "UsersEstimate": 67
     },
     {
       "ID": "BP-10",
@@ -80,7 +80,7 @@
       "Name": "Bunny Cuddles",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 4464
+      "UsersEstimate": 45
     },
     {
       "ID": "BP-11",
@@ -88,7 +88,7 @@
       "Name": "Tropical Summer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 837
+      "UsersEstimate": 8
     },
     {
       "ID": "BP-12",
@@ -96,7 +96,7 @@
       "Name": "Cozy Autumn",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 11439
+      "UsersEstimate": 114
     },
     {
       "ID": "BP-13",
@@ -104,7 +104,7 @@
       "Name": "Winter Wonderland",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 4185
+      "UsersEstimate": 42
     },
     {
       "ID": "BP-14",
@@ -112,7 +112,7 @@
       "Name": "Spring Blossom",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1953
+      "UsersEstimate": 20
     },
     {
       "ID": "BP-15",
@@ -120,7 +120,7 @@
       "Name": "Helpful Bot-terfly",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 12834
+      "UsersEstimate": 128
     },
     {
       "ID": "BP-16",
@@ -128,7 +128,7 @@
       "Name": "Pom Pom",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2511
+      "UsersEstimate": 25
     },
     {
       "ID": "BP-17",
@@ -136,7 +136,7 @@
       "Name": "Quack quack",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 14
     },
     {
       "ID": "BP-18",
@@ -144,7 +144,7 @@
       "Name": "Park Manager",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 3069
+      "UsersEstimate": 31
     }
   ],
   "Tags": [],
@@ -185,13 +185,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-04T22:24:18.3589463+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:29.9937036+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 8,
   "EOS_Progressed": 279,
-  "LastUpdate_Achievements": "2023-05-04T22:24:18.3589646+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:30.9692417+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:29.9937161+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:09.4469946+00:00",
   "AchievementSets": [
     {
       "ID": "7fc93f2",
@@ -206,7 +206,7 @@
   "FirstSeen": "2022-09-30T19:33:06.0814746+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_Progress": 208,

@@ -1,6 +1,6 @@
 # Bassmaster® Fishing
 [View Rawdata](../../db/b/bassmaster®_fishing.json)  
-Rating: 4.34 (Ranked 721)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 30  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

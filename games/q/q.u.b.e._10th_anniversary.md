@@ -3,12 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 100.00% | ~100 |
-| Sector 2 | 100.00% | ~100 |
-| Sector 3 | 100.00% | ~100 |
-| Sector 4 | 100.00% | ~100 |
-| Sector 5 | 100.00% | ~100 |
-| Sector 6 | 100.00% | ~100 |
+| Sector 1 | 100.00% | ~1 |
+| Sector 2 | 100.00% | ~1 |
+| Sector 3 | 100.00% | ~1 |
+| Sector 4 | 100.00% | ~1 |
+| Sector 5 | 100.00% | ~1 |
+| Sector 6 | 100.00% | ~1 |
 | Feeling the Blues | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Squished | 0.00% | ~0 |

@@ -3,6 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fashionista | 50.00% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
 | Craftsmen | 0.00% | ~0 |
@@ -22,7 +23,6 @@
 | Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |
 | Forest Expert | 0.00% | ~0 |
-| Fashionista | 0.00% | ~0 |
 | Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
 | Witch | 0.00% | ~0 |

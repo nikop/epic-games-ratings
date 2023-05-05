@@ -32,7 +32,7 @@
       "Name": "And We\u0027re Back!",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Bahamut Texto",
@@ -120,7 +120,7 @@
       "Name": "Prelude",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Shhhhh",
@@ -224,7 +224,7 @@
       "Name": "We\u0027ll Be Right Back!",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -245,13 +245,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T22:25:02.0660199+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:20.384747+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:25:02.0660517+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:25.8551985+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:20.3847609+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:40.4982405+00:00",
   "AchievementSets": [
     {
       "ID": "bp4889o",
@@ -266,8 +266,8 @@
   "FirstSeen": "2022-08-20T15:00:53.9642375+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:09:39.8514747+00:00"

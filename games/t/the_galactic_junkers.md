@@ -3,23 +3,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanic | 91.00% | ~2,093 |
-| Firefighter | 87.00% | ~2,001 |
-| Pirate | 70.00% | ~1,610 |
-| Miner | 61.00% | ~1,403 |
-| Expert Mechanic | 52.00% | ~1,196 |
-| Cookie Addict | 43.00% | ~989 |
-| Salvager | 35.00% | ~805 |
-| You're Hired! | 30.00% | ~690 |
-| Expert Miner | 26.00% | ~598 |
-| Expert Firefighter | 17.00% | ~391 |
-| Master Mechanic | 17.00% | ~391 |
-| Pancake Day | 17.00% | ~391 |
-| Notorious Pirate | 9.00% | ~207 |
-| Master Firefighter | 9.00% | ~207 |
-| Ray of Sunshine | 9.00% | ~207 |
-| Family Reunion | 4.00% | ~92 |
-| Master Miner | 4.00% | ~92 |
+| Mechanic | 91.00% | ~21 |
+| Firefighter | 87.00% | ~20 |
+| Pirate | 70.00% | ~16 |
+| Miner | 61.00% | ~14 |
+| Expert Mechanic | 52.00% | ~12 |
+| Cookie Addict | 43.00% | ~10 |
+| Salvager | 35.00% | ~8 |
+| You're Hired! | 30.00% | ~7 |
+| Expert Miner | 26.00% | ~6 |
+| Expert Firefighter | 17.00% | ~4 |
+| Master Mechanic | 17.00% | ~4 |
+| Pancake Day | 17.00% | ~4 |
+| Notorious Pirate | 9.00% | ~2 |
+| Master Firefighter | 9.00% | ~2 |
+| Ray of Sunshine | 9.00% | ~2 |
+| Family Reunion | 4.00% | ~1 |
+| Master Miner | 4.00% | ~1 |
 | Pirate Lord | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Just Lazy | 0.00% | ~0 |

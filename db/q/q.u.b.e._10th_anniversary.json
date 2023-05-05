@@ -136,7 +136,7 @@
       "Name": "Sector 1",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Sector2",
@@ -144,7 +144,7 @@
       "Name": "Sector 2",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Sector3",
@@ -152,7 +152,7 @@
       "Name": "Sector 3",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Sector4",
@@ -160,7 +160,7 @@
       "Name": "Sector 4",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Sector5",
@@ -168,7 +168,7 @@
       "Name": "Sector 5",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Sector6",
@@ -176,7 +176,7 @@
       "Name": "Sector 6",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Sector7",
@@ -206,13 +206,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:24:46.8983883+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:02.2262034+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:46.8984052+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:32.2119053+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:02.2262163+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:30.1951928+00:00",
   "AchievementSets": [
     {
       "ID": "a3lf366",
@@ -222,8 +222,8 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00"

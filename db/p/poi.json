@@ -120,7 +120,7 @@
       "Name": "Bonk!",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRST_DEATH",
@@ -128,7 +128,7 @@
       "Name": "First Death",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_FOSSIL",
@@ -152,7 +152,7 @@
       "Name": "Big Spender",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_MEDALLION",
@@ -160,7 +160,7 @@
       "Name": "Junior Explorer",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRST_TRIPLE_JUMP",
@@ -168,7 +168,7 @@
       "Name": "Classic Platforming",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_KICK_BUCKET_HEAD",
@@ -176,7 +176,7 @@
       "Name": "POW!",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MEET_MERCHANT",
@@ -200,7 +200,7 @@
       "Name": "Planet K-0",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -214,13 +214,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-04T22:24:51.2666632+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:07.5855603+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:24:51.2666892+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:48.3261624+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:07.5855739+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:51.0832612+00:00",
   "AchievementSets": [
     {
       "ID": "6ggg7d2",
@@ -230,8 +230,8 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T20:51:53.5136061+00:00"

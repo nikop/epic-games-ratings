@@ -3,17 +3,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 300.00% | ~300 |
-| First blood | 200.00% | ~200 |
-| By own strength | 100.00% | ~100 |
-| A solo player | 100.00% | ~100 |
-| Do it yourself | 100.00% | ~100 |
-| Suicide squad | 100.00% | ~100 |
-| Train hard, fight easy | 100.00% | ~100 |
-| Royal blessing | 100.00% | ~100 |
-| Under cover | 100.00% | ~100 |
-| A hidden snake | 100.00% | ~100 |
-| Blood and sand | 100.00% | ~100 |
+| First success | 300.00% | ~3 |
+| First blood | 200.00% | ~2 |
+| By own strength | 100.00% | ~1 |
+| A solo player | 100.00% | ~1 |
+| Do it yourself | 100.00% | ~1 |
+| Suicide squad | 100.00% | ~1 |
+| Train hard, fight easy | 100.00% | ~1 |
+| Royal blessing | 100.00% | ~1 |
+| Under cover | 100.00% | ~1 |
+| A hidden snake | 100.00% | ~1 |
+| Blood and sand | 100.00% | ~1 |
 | Crimson rivers | 0.00% | ~0 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |

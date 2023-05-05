@@ -3,35 +3,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 68.00% | ~4,488 |
-| Chapter 2 Complete | 45.00% | ~2,970 |
-| Vicious Spider | 42.00% | ~2,772 |
-| Chapter 3 Complete | 35.00% | ~2,310 |
-| The Guardian | 29.00% | ~1,914 |
-| Chapter 4 Complete | 29.00% | ~1,914 |
-| Heavy Duty | 23.00% | ~1,518 |
-| Chapter 5 Complete | 23.00% | ~1,518 |
-| The Truth | 23.00% | ~1,518 |
-| Chapter 6 Complete | 21.00% | ~1,386 |
-| Reconciliation | 21.00% | ~1,386 |
-| Always Watchful | 20.00% | ~1,320 |
-| Chapter 7 Complete | 20.00% | ~1,320 |
-| Plant Enchanter | 20.00% | ~1,320 |
-| Bounty Hunter | 18.00% | ~1,188 |
-| The Terror | 18.00% | ~1,188 |
-| All Geared Up | 15.00% | ~990 |
-| The End | 15.00% | ~990 |
-| Battle Ready | 15.00% | ~990 |
-| Good Deed | 14.00% | ~924 |
-| Music Collector | 14.00% | ~924 |
-| Gamer | 12.00% | ~792 |
-| Ultimate Team! | 12.00% | ~792 |
-| Pro Explorers | 11.00% | ~726 |
-| Cooking Maestro | 9.00% | ~594 |
-| Field Researcher | 9.00% | ~594 |
-| Helping Hand | 9.00% | ~594 |
-| Medal Collector | 8.00% | ~528 |
-| Our job's done! | 8.00% | ~528 |
+| Chapter 1 Complete | 68.00% | ~45 |
+| Chapter 2 Complete | 45.00% | ~30 |
+| Vicious Spider | 42.00% | ~28 |
+| Chapter 3 Complete | 35.00% | ~23 |
+| The Guardian | 29.00% | ~19 |
+| Chapter 4 Complete | 29.00% | ~19 |
+| Heavy Duty | 23.00% | ~15 |
+| Chapter 5 Complete | 23.00% | ~15 |
+| The Truth | 23.00% | ~15 |
+| Chapter 6 Complete | 21.00% | ~14 |
+| Reconciliation | 21.00% | ~14 |
+| Always Watchful | 20.00% | ~13 |
+| Chapter 7 Complete | 20.00% | ~13 |
+| Plant Enchanter | 20.00% | ~13 |
+| Bounty Hunter | 18.00% | ~12 |
+| The Terror | 18.00% | ~12 |
+| All Geared Up | 15.00% | ~10 |
+| The End | 15.00% | ~10 |
+| Battle Ready | 15.00% | ~10 |
+| Good Deed | 14.00% | ~9 |
+| Music Collector | 14.00% | ~9 |
+| Gamer | 12.00% | ~8 |
+| Ultimate Team! | 12.00% | ~8 |
+| Pro Explorers | 11.00% | ~7 |
+| Cooking Maestro | 9.00% | ~6 |
+| Field Researcher | 9.00% | ~6 |
+| Helping Hand | 9.00% | ~6 |
+| Medal Collector | 8.00% | ~5 |
+| Our job's done! | 8.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 262)  

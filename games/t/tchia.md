@@ -1,32 +1,32 @@
 # Tchia
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.77 (Ranked 103)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 19.00% | ~104,139 |
-| Energy Saver | 16.00% | ~87,696 |
-| The Journey Onwards | 12.00% | ~65,772 |
-| Globe Trotter | 11.00% | ~60,291 |
-| Body and Soul | 10.00% | ~54,810 |
-| Ahem Ahem | 9.00% | ~49,329 |
-| Audiophile | 7.00% | ~38,367 |
-| Clay Pigeon | 6.00% | ~32,886 |
-| Soul-Canon | 6.00% | ~32,886 |
-| Historian | 5.00% | ~27,405 |
-| Iconoclast | 5.00% | ~27,405 |
-| Shredder | 5.00% | ~27,405 |
-| Happy Camper | 4.00% | ~21,924 |
-| Liberator | 4.00% | ~21,924 |
-| Fashion Faux-Pas | 3.00% | ~16,443 |
-| Live Wire | 3.00% | ~16,443 |
-| Arrr! | 2.00% | ~10,962 |
-| Fashion Victim | 2.00% | ~10,962 |
-| Snip Snip | 2.00% | ~10,962 |
-| Ça de Wizz! | 1.00% | ~5,481 |
-| Thing | 1.00% | ~5,481 |
+| In a Pinch | 19.00% | ~1,043 |
+| Energy Saver | 16.00% | ~878 |
+| The Journey Onwards | 12.00% | ~658 |
+| Globe Trotter | 11.00% | ~604 |
+| Body and Soul | 10.00% | ~549 |
+| Ahem Ahem | 9.00% | ~494 |
+| Audiophile | 7.00% | ~384 |
+| Clay Pigeon | 6.00% | ~329 |
+| Soul-Canon | 6.00% | ~329 |
+| Historian | 5.00% | ~274 |
+| Iconoclast | 5.00% | ~274 |
+| Shredder | 5.00% | ~274 |
+| Happy Camper | 4.00% | ~219 |
+| Liberator | 4.00% | ~219 |
+| Fashion Faux-Pas | 3.00% | ~165 |
+| Live Wire | 3.00% | ~165 |
+| Arrr! | 2.00% | ~110 |
+| Fashion Victim | 2.00% | ~110 |
+| Snip Snip | 2.00% | ~110 |
+| Ça de Wizz! | 1.00% | ~55 |
+| Thing | 1.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,481 (Ranked 117)  
+Progressed: 5,487 (Ranked 117)  
 Completed: 19 (0.35%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,6 +41,7 @@ Completed: 19 (0.35%) (Ranked 108)
 | 2023-05-02 | 5,444 | 18 |
 | 2023-05-03 | 5,464 | 18 |
 | 2023-05-04 | 5,481 | 19 |
+| 2023-05-05 | 5,487 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -60,3 +61,4 @@ Completed: 19 (0.35%) (Ranked 108)
 | 2023-04-17 | 4.76 | 0 | 0 |
 | 2023-04-20 | 4.77 | 0 | 0 |
 | 2023-04-29 | 4.76 | 0 | 0 |
+| 2023-05-05 | 4.77 | 0 | 0 |

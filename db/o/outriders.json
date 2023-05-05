@@ -19,7 +19,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 143
+      "Count": 144
     },
     {
       "Text": "This game has Diverse Characters",
@@ -31,7 +31,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 158
+      "Count": 159
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1659,6 +1659,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 2311,
       "NumberOfAwardsMax": 1105
+    },
+    {
+      "Time": "2023-05-05T01:52:42.3021635+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 2312,
+      "NumberOfAwardsMax": 1105
+    },
+    {
+      "Time": "2023-05-05T02:26:01.8951605+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 2313,
+      "NumberOfAwardsMax": 1105
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1667,18 +1679,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:23:39.9007345+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:50.9706566+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:04:41.6317319+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:54.4768644+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T19:59:55.5234965+00:00",
+  "LastChanged": "2023-05-05T02:26:01.8951603+00:00",
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1105,
-  "NumberOfAwards": 2311,
+  "NumberOfAwards": 2313,
   "NumberOfRatings": 1201,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 172,

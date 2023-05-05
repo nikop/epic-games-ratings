@@ -8,7 +8,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 15694
+      "UsersEstimate": 157
     },
     {
       "ID": "Bernard",
@@ -16,7 +16,7 @@
       "Name": "Bernard",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 12331
+      "UsersEstimate": 123
     },
     {
       "ID": "Building the Fox",
@@ -24,7 +24,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 23541
+      "UsersEstimate": 236
     },
     {
       "ID": "Green Ticket Roundup",
@@ -32,7 +32,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 20178
+      "UsersEstimate": 202
     },
     {
       "ID": "Jacques a Dit",
@@ -40,7 +40,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 41477
+      "UsersEstimate": 415
     },
     {
       "ID": "Jakob",
@@ -48,7 +48,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 14573
+      "UsersEstimate": 146
     },
     {
       "ID": "Jude",
@@ -56,7 +56,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 13452
+      "UsersEstimate": 135
     },
     {
       "ID": "Le Juif et la France",
@@ -64,15 +64,15 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 13452
+      "UsersEstimate": 135
     },
     {
       "ID": "Little Helper",
       "SetID": "b40dflc",
       "Name": "Little Helper",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 34751
+      "UsersEstimate": 359
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -80,7 +80,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 8968
+      "UsersEstimate": 90
     },
     {
       "ID": "Nazis in Paris",
@@ -88,7 +88,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 26904
+      "UsersEstimate": 269
     },
     {
       "ID": "Nuremberg Laws",
@@ -96,7 +96,7 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 12331
+      "UsersEstimate": 123
     }
   ],
   "Tags": [],
@@ -620,6 +620,11 @@
       "Time": "2023-05-04T21:05:59.0599585+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-05-05T08:05:56.5374421+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 85
     }
   ],
   "RatingHistory": [
@@ -632,18 +637,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T22:24:48.1191074+00:00",
-  "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 117,
+  "LastChanged_Achievements": "2023-05-05T09:06:03.2711649+00:00",
+  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 112,
   "EOS_Completed": 85,
-  "EOS_Progressed": 1121,
-  "LastUpdate_Achievements": "2023-05-04T22:24:48.11912+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:39.0866955+00:00",
+  "EOS_Progressed": 1122,
+  "LastUpdate_Achievements": "2023-05-05T09:06:03.2711771+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:39.3131364+00:00",
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 85
     }
   ],
@@ -653,9 +658,9 @@
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 19,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 155,
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00"
 }

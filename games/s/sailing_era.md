@@ -1,6 +1,6 @@
 # Sailing Era
 [View Rawdata](../../db/s/sailing_era.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

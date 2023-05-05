@@ -19,7 +19,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 385
+      "Count": 388
     },
     {
       "Text": "This game is Educational",
@@ -31,7 +31,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 420
+      "Count": 422
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1275,6 +1275,18 @@
       "Rating": 4.79,
       "NumberOfAwards": 3199,
       "NumberOfAwardsMax": 483
+    },
+    {
+      "Time": "2023-05-05T02:22:54.6571277+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3202,
+      "NumberOfAwardsMax": 483
+    },
+    {
+      "Time": "2023-05-05T04:57:02.0662421+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3204,
+      "NumberOfAwardsMax": 483
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1283,22 +1295,22 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:20:05.6141529+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:46.6558709+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:03:22.8135073+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:10.167408+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T21:57:33.2942595+00:00",
+  "LastChanged": "2023-05-05T04:57:02.0662419+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 483,
-  "NumberOfAwards": 3199,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "NumberOfAwards": 3204,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 144,
-  "Ranking_Popularity": 184,
+  "Ranking_Popularity": 185,
   "Ranking_Rating": 91,
   "Rating": 4.79
 }

@@ -4,25 +4,25 @@ Rating: 4.67 (Ranked 255)
 Number of Ratings: 7,767  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,507  (Ranked 48)  
-Sum: 16,595 (Ranked 57)  
+Sum: 16,598 (Ranked 57)  
 Diff (max vs sum): -9  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 100.00% | ~400 |
-| Nope | 100.00% | ~400 |
-| To Grandmother's House | 75.00% | ~300 |
-| Don't Make Me Turn This Coach Around | 50.00% | ~200 |
-| Serenity Now! | 50.00% | ~200 |
-| The World As It Was | 50.00% | ~200 |
-| This Looks Familiar | 50.00% | ~200 |
-| Hope Rekindled | 50.00% | ~200 |
-| Loop Year | 25.00% | ~100 |
-| Predator | 25.00% | ~100 |
-| Deprogramming | 25.00% | ~100 |
-| Hat Trick | 25.00% | ~100 |
-| Rush Hour | 25.00% | ~100 |
-| Body of Work | 25.00% | ~100 |
+| A Place to Lay Your Head | 100.00% | ~4 |
+| Nope | 100.00% | ~4 |
+| To Grandmother's House | 75.00% | ~3 |
+| Don't Make Me Turn This Coach Around | 50.00% | ~2 |
+| Serenity Now! | 50.00% | ~2 |
+| The World As It Was | 50.00% | ~2 |
+| This Looks Familiar | 50.00% | ~2 |
+| Hope Rekindled | 50.00% | ~2 |
+| Loop Year | 25.00% | ~1 |
+| Predator | 25.00% | ~1 |
+| Deprogramming | 25.00% | ~1 |
+| Hat Trick | 25.00% | ~1 |
+| Rush Hour | 25.00% | ~1 |
+| Body of Work | 25.00% | ~1 |
 | It Rings a Bell | 0.00% | ~0 |
 | A Life Well Lived | 0.00% | ~0 |
 | Resurrection | 0.00% | ~0 |
@@ -91,9 +91,9 @@ Completed: 0 (0.00%) (Ranked 191)
 | This game is Highly Recommended | 1,217 |
 | This game is Extremely Fun | 1,185 |
 | This game has Amazing Characters | 1,171 |
-| This game has Amazing Storytelling | 1,125 |
+| This game has Amazing Storytelling | 1,127 |
 | This game has Quickly Understood Controls | 1,121 |
-| This game has Unique Visuals | 1,040 |
+| This game has Unique Visuals | 1,041 |
 | This game has a Creative Community | 776 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -198,4 +198,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 4.67 | - | 6,497 | 16,562 |
 | 2023-05-02 | 4.67 | - | 6,502 | 16,575 |
 | 2023-05-03 | 4.67 | - | 6,504 | 16,584 |
-| 2023-05-04 | 4.67 | - | 6,507 | 16,595 |
+| 2023-05-04 | 4.67 | - | 6,507 | 16,598 |

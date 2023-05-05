@@ -8,7 +8,7 @@
       "Name": "Wake Up",
       "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 6237
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ACT10",
@@ -16,7 +16,7 @@
       "Name": "So Close",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ACT11",
@@ -24,7 +24,7 @@
       "Name": "Transformers, cubes in disguise",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ACT12",
@@ -32,7 +32,7 @@
       "Name": "Kaboom!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ACT13",
@@ -40,7 +40,7 @@
       "Name": "All Alone",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ACT14",
@@ -48,7 +48,7 @@
       "Name": "Final Charge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ACT15",
@@ -56,7 +56,7 @@
       "Name": "Cataclysm",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 693
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ACT16",
@@ -72,7 +72,7 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 4928
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ACT3",
@@ -80,7 +80,7 @@
       "Name": "Command Centre",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 4081
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_ACT4",
@@ -88,7 +88,7 @@
       "Name": "This is a Wall",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3773
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ACT5",
@@ -96,7 +96,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3003
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_ACT6",
@@ -104,7 +104,7 @@
       "Name": "48 Attempts",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3080
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ACT7",
@@ -112,7 +112,7 @@
       "Name": "No Time To Relax",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1309
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ACT8",
@@ -120,7 +120,7 @@
       "Name": "Bad Robots",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1232
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ACT9",
@@ -128,7 +128,7 @@
       "Name": "Running Boots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1309
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ARCHIVIST",
@@ -136,7 +136,7 @@
       "Name": "Archivist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -144,7 +144,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2772
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -152,7 +152,7 @@
       "Name": "Chain Reaction",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2926
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -168,7 +168,7 @@
       "Name": "Fashionista",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1232
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -176,7 +176,7 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2079
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LOOPER",
@@ -184,7 +184,7 @@
       "Name": "Looper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 770
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_REUINTED",
@@ -192,7 +192,7 @@
       "Name": "Reunited",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 616
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REWINDTIME",
@@ -200,7 +200,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 6930
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -208,7 +208,7 @@
       "Name": "Summer Luvin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TERMINATED",
@@ -247,13 +247,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T22:24:21.6090718+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:33.2984723+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 77,
-  "LastUpdate_Achievements": "2023-05-04T22:24:21.6090994+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:52.2053217+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:33.2984888+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:17.2451131+00:00",
   "AchievementSets": [
     {
       "ID": "2310cb1",
@@ -268,8 +268,8 @@
   "FirstSeen": "2023-03-31T13:57:59.7998545+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 253,
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00"

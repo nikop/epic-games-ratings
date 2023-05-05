@@ -120,7 +120,7 @@
       "Name": "Hello, World!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_2",
@@ -184,7 +184,7 @@
       "Name": "I Need A Challenge",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 5
     },
     {
       "ID": "NPC_CHAT",
@@ -192,7 +192,7 @@
       "Name": "Hello, Friend!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 5
     },
     {
       "ID": "NPC_CHAT_ALL",
@@ -208,7 +208,7 @@
       "Name": "What\u0027s so hard about going up?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 2
     },
     {
       "ID": "NPC_ROAST_ALL",
@@ -267,13 +267,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T22:24:45.0449379+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:00.425051+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 13,
-  "LastUpdate_Achievements": "2023-05-04T22:24:45.0449745+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:28.0631911+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:00.4250705+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:25.4615803+00:00",
   "AchievementSets": [
     {
       "ID": "dkj0bmo",
@@ -283,8 +283,8 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 299,
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00"

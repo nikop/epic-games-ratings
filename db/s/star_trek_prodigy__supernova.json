@@ -40,7 +40,7 @@
       "Name": "Priceless Collection",
       "Percentage": 14,
       "XP": 70,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "BuyAllWeapons",
@@ -48,7 +48,7 @@
       "Name": "One Man Army",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "BuyWeapon",
@@ -56,7 +56,7 @@
       "Name": "Up your Arsenal",
       "Percentage": 14,
       "XP": 130,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Chests_100",
@@ -72,7 +72,7 @@
       "Name": "Quest for Loot",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteAllCrewMissions",
@@ -88,7 +88,7 @@
       "Name": "One for the Crew",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 3
     },
     {
       "ID": "Creatures_100",
@@ -96,7 +96,7 @@
       "Name": "Proto Menagerie",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Creatures_50",
@@ -104,7 +104,7 @@
       "Name": "Punny Lover",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P1L1",
@@ -112,7 +112,7 @@
       "Name": "Restoring the Protostar",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 5
     },
     {
       "ID": "Finish_P1L2",
@@ -120,7 +120,7 @@
       "Name": "The Clock is Ticking",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 3
     },
     {
       "ID": "Finish_P1L3",
@@ -128,7 +128,7 @@
       "Name": "Back online",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P1L4",
@@ -136,7 +136,7 @@
       "Name": "Rok and Roll",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P2L1",
@@ -144,7 +144,7 @@
       "Name": "First Contact?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P2L2",
@@ -152,7 +152,7 @@
       "Name": "Naroan History",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P2L3",
@@ -160,7 +160,7 @@
       "Name": "Playing with Time",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P2L4",
@@ -176,7 +176,7 @@
       "Name": "Coming in from the Cold",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P3L2",
@@ -208,7 +208,7 @@
       "Name": "Three Watchers, Two Phasers",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 4
     },
     {
       "ID": "OpenAllSecretZones",
@@ -216,7 +216,7 @@
       "Name": "Seeking Discovery",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "OpenSecretZone",
@@ -248,7 +248,7 @@
       "Name": "Trekkie",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "Relics_50",
@@ -264,7 +264,7 @@
       "Name": "Guess who\u0027s back",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 3
     },
     {
       "ID": "RescueMurf",
@@ -280,7 +280,7 @@
       "Name": "Not Too Long",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "RescueZero",
@@ -288,7 +288,7 @@
       "Name": "Welcome back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "ReviveTeammate",
@@ -296,7 +296,7 @@
       "Name": "I\u0027ve Got You",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 2
     },
     {
       "ID": "UpgradeAllWeapons",
@@ -312,7 +312,7 @@
       "Name": "Getting Better",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 1
     },
     {
       "ID": "UseAllCrewMembers",
@@ -328,7 +328,7 @@
       "Name": "A Helping Hand",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 3
     }
   ],
   "Tags": [],
@@ -354,13 +354,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-04T22:24:30.1511216+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:42.9093983+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 7,
-  "LastUpdate_Achievements": "2023-05-04T22:24:30.1511747+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:11.9017149+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:42.9094256+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:44.0354832+00:00",
   "AchievementSets": [
     {
       "ID": "7270ipa",
@@ -375,9 +375,9 @@
   "FirstSeen": "2023-02-10T02:16:04.7940165+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 314,
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00"
 }

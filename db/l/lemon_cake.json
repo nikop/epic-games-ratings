@@ -8,7 +8,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 10556
+      "UsersEstimate": 106
     },
     {
       "ID": "LC-02",
@@ -16,7 +16,7 @@
       "Name": "Bakery Startup",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 4872
+      "UsersEstimate": 49
     },
     {
       "ID": "LC-03",
@@ -24,7 +24,7 @@
       "Name": "Bakery Business",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 580
+      "UsersEstimate": 6
     },
     {
       "ID": "LC-04",
@@ -32,7 +32,7 @@
       "Name": "Bakery Empire",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 464
+      "UsersEstimate": 5
     },
     {
       "ID": "LC-05",
@@ -40,7 +40,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3944
+      "UsersEstimate": 39
     },
     {
       "ID": "LC-06",
@@ -48,7 +48,7 @@
       "Name": "Adept Baker",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1160
+      "UsersEstimate": 12
     },
     {
       "ID": "LC-07",
@@ -56,7 +56,7 @@
       "Name": "Expert Baker",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 1044
+      "UsersEstimate": 10
     },
     {
       "ID": "LC-08",
@@ -64,7 +64,7 @@
       "Name": "Master Baker",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 696
+      "UsersEstimate": 7
     },
     {
       "ID": "LC-09",
@@ -72,7 +72,7 @@
       "Name": "Verdant Greenhouse",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 1160
+      "UsersEstimate": 12
     },
     {
       "ID": "LC-10",
@@ -80,7 +80,7 @@
       "Name": "Luxury Kitchen",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 1044
+      "UsersEstimate": 10
     },
     {
       "ID": "LC-11",
@@ -88,7 +88,7 @@
       "Name": "Bustling Store",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 1160
+      "UsersEstimate": 12
     },
     {
       "ID": "LC-12",
@@ -96,7 +96,7 @@
       "Name": "The Famous Lemon Cake",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 580
+      "UsersEstimate": 6
     },
     {
       "ID": "LC-13",
@@ -104,7 +104,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3944
+      "UsersEstimate": 39
     },
     {
       "ID": "LC-14",
@@ -112,7 +112,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 928
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-15",
@@ -120,7 +120,7 @@
       "Name": "A Loving Home",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 696
+      "UsersEstimate": 7
     },
     {
       "ID": "LC-16",
@@ -128,7 +128,7 @@
       "Name": "Swing The Broom",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 928
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-17",
@@ -136,7 +136,7 @@
       "Name": "Perfect Server",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1856
+      "UsersEstimate": 19
     }
   ],
   "Tags": [],
@@ -162,13 +162,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-04T22:24:56.386224+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:13.7722329+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 116,
-  "LastUpdate_Achievements": "2023-05-04T22:24:56.386241+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:04.7549962+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:13.7722407+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:12.0432877+00:00",
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
@@ -183,8 +183,8 @@
   "FirstSeen": "2022-10-01T04:31:59.3146976+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_Progress": 245,
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00"

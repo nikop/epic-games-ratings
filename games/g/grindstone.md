@@ -5,57 +5,57 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~494,606 |
-| The Journey Begins | 98.00% | ~494,606 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~393,666 |
-| There is No Escape | 71.00% | ~358,337 |
-| Fun, Flirty, and Thirty | 62.00% | ~312,914 |
-| Royal Flush | 62.00% | ~312,914 |
-| Timber! | 60.00% | ~302,820 |
-| Survive the Bombsequences | 59.00% | ~297,773 |
-| Killed 20 Jerks | 53.00% | ~267,491 |
-| Death Defied | 53.00% | ~267,491 |
-| Fortunate Soul | 49.00% | ~247,303 |
-| Jerk-Slayer | 42.00% | ~211,974 |
-| I Believe I Can Fly | 37.00% | ~186,739 |
-| Employee of the Month | 36.00% | ~181,692 |
-| Bone Collector | 35.00% | ~176,645 |
-| Fe-Festival | 35.00% | ~176,645 |
-| Top of the Food Chain | 32.00% | ~161,504 |
-| Pardon my Slob | 32.00% | ~161,504 |
-| Humerus Achievement | 31.00% | ~156,457 |
-| Ghost Facers! | 27.00% | ~136,269 |
-| If It Bleeds, You Can Kill It | 21.00% | ~105,987 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~90,846 |
-| Can't Touch This | 18.00% | ~90,846 |
-| Royal Flush, Again | 18.00% | ~90,846 |
-| Yummy! | 16.00% | ~80,752 |
-| That Was Quick | 16.00% | ~80,752 |
-| Goldrush Glory Days | 15.00% | ~75,705 |
-| Best Party Guest | 15.00% | ~75,705 |
-| Shrub it Off | 15.00% | ~75,705 |
-| Collected 50 mushrooms | 14.00% | ~70,658 |
-| Budding Gardener | 14.00% | ~70,658 |
-| Stop Hitting Each Other | 12.00% | ~60,564 |
-| Ultimate Jerk | 12.00% | ~60,564 |
-| Hot Potato | 10.00% | ~50,470 |
-| Off the Beaten Path | 9.00% | ~45,423 |
-| It's Been a Blast | 9.00% | ~45,423 |
-| For Rock and Stone! | 9.00% | ~45,423 |
-| Don't Get Too Greedy | 7.00% | ~35,329 |
-| You're In a Cult, Call Your Dad | 6.00% | ~30,282 |
-| The Poison You Just Drank | 4.00% | ~20,188 |
-| Survived The Slaughter | 4.00% | ~20,188 |
-| The Fellowship | 3.00% | ~15,141 |
-| Eternal Frenemies | 3.00% | ~15,141 |
-| Are We Good Guys Or Bad Guys? | 1.00% | ~5,047 |
-| Biohazard | 0.80% | ~4,038 |
-| OK Boomer | 0.80% | ~4,038 |
-| Backdraft | 0.60% | ~3,028 |
-| The Midas Touch | 0.60% | ~3,028 |
-| Completionist | 0.50% | ~2,524 |
+| Quinceañera Time | 98.00% | ~4,947 |
+| The Journey Begins | 98.00% | ~4,947 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,937 |
+| There is No Escape | 71.00% | ~3,584 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,130 |
+| Royal Flush | 62.00% | ~3,130 |
+| Timber! | 60.00% | ~3,029 |
+| Survive the Bombsequences | 59.00% | ~2,978 |
+| Killed 20 Jerks | 53.00% | ~2,675 |
+| Death Defied | 53.00% | ~2,675 |
+| Fortunate Soul | 49.00% | ~2,474 |
+| Jerk-Slayer | 42.00% | ~2,120 |
+| I Believe I Can Fly | 37.00% | ~1,868 |
+| Employee of the Month | 36.00% | ~1,817 |
+| Bone Collector | 35.00% | ~1,767 |
+| Fe-Festival | 35.00% | ~1,767 |
+| Top of the Food Chain | 32.00% | ~1,615 |
+| Pardon my Slob | 32.00% | ~1,615 |
+| Humerus Achievement | 31.00% | ~1,565 |
+| Ghost Facers! | 27.00% | ~1,363 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,060 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~909 |
+| Can't Touch This | 18.00% | ~909 |
+| Royal Flush, Again | 18.00% | ~909 |
+| Yummy! | 16.00% | ~808 |
+| That Was Quick | 16.00% | ~808 |
+| Goldrush Glory Days | 15.00% | ~757 |
+| Best Party Guest | 15.00% | ~757 |
+| Shrub it Off | 15.00% | ~757 |
+| Collected 50 mushrooms | 14.00% | ~707 |
+| Budding Gardener | 14.00% | ~707 |
+| Stop Hitting Each Other | 12.00% | ~606 |
+| Ultimate Jerk | 12.00% | ~606 |
+| Hot Potato | 10.00% | ~505 |
+| Off the Beaten Path | 9.00% | ~454 |
+| It's Been a Blast | 9.00% | ~454 |
+| For Rock and Stone! | 9.00% | ~454 |
+| Don't Get Too Greedy | 7.00% | ~353 |
+| You're In a Cult, Call Your Dad | 6.00% | ~303 |
+| The Poison You Just Drank | 4.00% | ~202 |
+| Survived The Slaughter | 4.00% | ~202 |
+| The Fellowship | 3.00% | ~151 |
+| Eternal Frenemies | 3.00% | ~151 |
+| Are We Good Guys Or Bad Guys? | 1.00% | ~50 |
+| Biohazard | 0.80% | ~40 |
+| OK Boomer | 0.80% | ~40 |
+| Backdraft | 0.60% | ~30 |
+| The Midas Touch | 0.60% | ~30 |
+| Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,047 (Ranked 119)  
+Progressed: 5,048 (Ranked 119)  
 Completed: 26 (0.52%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 26 (0.52%) (Ranked 95)
 | 2023-04-30 | 5,044 | 26 |
 | 2023-05-02 | 5,045 | 26 |
 | 2023-05-04 | 5,047 | 26 |
+| 2023-05-05 | 5,048 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

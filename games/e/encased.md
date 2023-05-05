@@ -1,6 +1,6 @@
 # Encased
 [View Rawdata](../../db/e/encased.json)  
-Rating: 4.35 (Ranked 713)  
+Rating: 4.35 (Ranked 712)  
 Number of Ratings: 49  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 125  (Ranked 297)  

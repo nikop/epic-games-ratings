@@ -1,6 +1,6 @@
 # Automachef
 [View Rawdata](../../db/a/automachef.json)  
-Rating: 4.34 (Ranked 721)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 543  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 27  (Ranked 454)  

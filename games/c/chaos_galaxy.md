@@ -3,14 +3,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tyrant Rise | 56.00% | ~504 |
-| Assassination | 33.00% | ~297 |
-| Great Civil War | 22.00% | ~198 |
-| Investment | 22.00% | ~198 |
-| 2nd AI War | 11.00% | ~99 |
-| Secret War | 11.00% | ~99 |
-| Tech Breakthrough | 11.00% | ~99 |
-| Honor Medal | 11.00% | ~99 |
+| Tyrant Rise | 56.00% | ~5 |
+| Assassination | 33.00% | ~3 |
+| Great Civil War | 22.00% | ~2 |
+| Investment | 22.00% | ~2 |
+| 2nd AI War | 11.00% | ~1 |
+| Secret War | 11.00% | ~1 |
+| Tech Breakthrough | 11.00% | ~1 |
+| Honor Medal | 11.00% | ~1 |
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
 | Punish Southsea | 0.00% | ~0 |

@@ -1,6 +1,6 @@
 # Conarium
 [View Rawdata](../../db/c/conarium.json)  
-Rating: 3.91 (Ranked 895)  
+Rating: 3.91 (Ranked 896)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

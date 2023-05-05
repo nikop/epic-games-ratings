@@ -1,6 +1,6 @@
 # Tharsis
 [View Rawdata](../../db/t/tharsis.json)  
-Rating: 4.05 (Ranked 867)  
+Rating: 4.05 (Ranked 868)  
 Number of Ratings: 55  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

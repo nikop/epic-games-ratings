@@ -4,36 +4,36 @@ Rating: 4.62 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 35.00% | ~7,708,400 |
-| ... in the magical land of Foenum... | 34.00% | ~7,488,160 |
-| Be Gentle... | 22.00% | ~4,845,280 |
-| A Worthy Opponent | 17.00% | ~3,744,080 |
-| Makin' Bacon | 4.00% | ~880,960 |
-| Tenderhoof | 3.00% | ~660,720 |
-| Champ'een of The Praire | 1.00% | ~220,240 |
-| Come At Me! | 1.00% | ~220,240 |
-| Sin'er Man | 0.20% | ~44,048 |
-| Well-Done | 0.10% | ~22,024 |
-| Valedictorian | 0.10% | ~22,024 |
-| Love is a Battlefield | 0.10% | ~22,024 |
-| That'll Do | 0.10% | ~22,024 |
-| Swashbuckle'd | 0.10% | ~22,024 |
-| School of Hard Knocks | 0.10% | ~22,024 |
-| Way of the Dragon | 0.10% | ~22,024 |
-| Iced Out | 0.10% | ~22,024 |
-| Kickin' 'n Stompin' | 0.10% | ~22,024 |
-| Dark Magic | 0.10% | ~22,024 |
-| I Love You This Much | 0.10% | ~22,024 |
-| Who Let The Dogs Out? | 0.10% | ~22,024 |
-| The GOAT | 0.10% | ~22,024 |
-| The Key To Victory | 0.10% | ~22,024 |
-| Honor For All | 0.10% | ~22,024 |
-| Ice Queen | 0.10% | ~22,024 |
-| Doohickeys | 0.10% | ~22,024 |
-| Alpaca Space Program | 0.10% | ~22,024 |
-| High Priestess | 0.10% | ~22,024 |
+| Once upon a time... | 35.00% | ~77,097 |
+| ... in the magical land of Foenum... | 34.00% | ~74,894 |
+| Be Gentle... | 22.00% | ~48,461 |
+| A Worthy Opponent | 17.00% | ~37,447 |
+| Makin' Bacon | 4.00% | ~8,811 |
+| Tenderhoof | 3.00% | ~6,608 |
+| Champ'een of The Praire | 1.00% | ~2,203 |
+| Come At Me! | 1.00% | ~2,203 |
+| Sin'er Man | 0.20% | ~441 |
+| Well-Done | 0.10% | ~220 |
+| Valedictorian | 0.10% | ~220 |
+| Love is a Battlefield | 0.10% | ~220 |
+| That'll Do | 0.10% | ~220 |
+| Swashbuckle'd | 0.10% | ~220 |
+| School of Hard Knocks | 0.10% | ~220 |
+| Way of the Dragon | 0.10% | ~220 |
+| Iced Out | 0.10% | ~220 |
+| Kickin' 'n Stompin' | 0.10% | ~220 |
+| Dark Magic | 0.10% | ~220 |
+| I Love You This Much | 0.10% | ~220 |
+| Who Let The Dogs Out? | 0.10% | ~220 |
+| The GOAT | 0.10% | ~220 |
+| The Key To Victory | 0.10% | ~220 |
+| Honor For All | 0.10% | ~220 |
+| Ice Queen | 0.10% | ~220 |
+| Doohickeys | 0.10% | ~220 |
+| Alpaca Space Program | 0.10% | ~220 |
+| High Priestess | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,240 (Ranked 44)  
+Progressed: 220,277 (Ranked 44)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,8 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 220,014 | 2 |
 | 2023-05-02 | 220,094 | 2 |
 | 2023-05-03 | 220,170 | 2 |
-| 2023-05-04 | 220,240 | 2 |
+| 2023-05-04 | 220,243 | 2 |
+| 2023-05-05 | 220,277 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

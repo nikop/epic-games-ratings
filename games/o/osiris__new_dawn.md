@@ -1,6 +1,6 @@
 # Osiris: New Dawn
 [View Rawdata](../../db/o/osiris__new_dawn.json)  
-Rating: 3.75 (Ranked 907)  
+Rating: 3.75 (Ranked 908)  
 Number of Ratings: 106  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -3,62 +3,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 94.00% | ~4,982 |
-| Bullseye! | 87.00% | ~4,611 |
-| Villfir Forest | 83.00% | ~4,399 |
-| Graduation! | 79.00% | ~4,187 |
-| Right in the kisser! | 66.00% | ~3,498 |
-| The Shaman | 57.00% | ~3,021 |
-| Duscot Steamcity | 57.00% | ~3,021 |
-| The Penguin | 53.00% | ~2,809 |
-| The Magician | 53.00% | ~2,809 |
-| The Thrower | 49.00% | ~2,597 |
-| The Tunneler | 45.00% | ~2,385 |
-| Kill-streak | 43.00% | ~2,279 |
-| The Shield | 43.00% | ~2,279 |
-| Level Up!! | 40.00% | ~2,120 |
-| The Bird | 32.00% | ~1,696 |
-| The Ninja | 32.00% | ~1,696 |
-| The Idol | 30.00% | ~1,590 |
-| I'm Rich | 26.00% | ~1,378 |
-| Inferno Ruins | 26.00% | ~1,378 |
-| Untouchable | 25.00% | ~1,325 |
-| 1 is all I need | 23.00% | ~1,219 |
-| Topped up | 23.00% | ~1,219 |
-| The Slime | 21.00% | ~1,113 |
-| The Flower | 19.00% | ~1,007 |
-| The Giant | 19.00% | ~1,007 |
-| Out of the Frying Pan... | 17.00% | ~901 |
-| The Blacksmith | 15.00% | ~795 |
-| The Assistant | 13.00% | ~689 |
-| The Droid | 11.00% | ~583 |
-| The Ooze | 11.00% | ~583 |
-| Ember | 11.00% | ~583 |
-| Turquoise | 11.00% | ~583 |
-| Tested | 11.00% | ~583 |
-| The Bomber | 9.00% | ~477 |
-| The Steampunk | 9.00% | ~477 |
-| Verse | 9.00% | ~477 |
-| Iron | 9.00% | ~477 |
-| Anvil | 6.00% | ~318 |
-| Power Overwhelming | 4.00% | ~212 |
-| The Exorcist | 4.00% | ~212 |
-| The Astronaut | 4.00% | ~212 |
-| Analyzed | 4.00% | ~212 |
-| Highway to Hell | 4.00% | ~212 |
-| Combo Master | 2.00% | ~106 |
-| Really Bad Luck | 2.00% | ~106 |
-| It's a Trap! | 2.00% | ~106 |
-| Blaze | 2.00% | ~106 |
-| Topaz | 2.00% | ~106 |
-| Chorus | 2.00% | ~106 |
-| Tongs | 2.00% | ~106 |
-| Nuclear Bomb | 2.00% | ~106 |
-| Concluded | 2.00% | ~106 |
-| Divinity | 2.00% | ~106 |
-| Platinum | 2.00% | ~106 |
-| Gunpowder | 2.00% | ~106 |
-| Aluminum | 2.00% | ~106 |
+| Level Up! | 94.00% | ~50 |
+| Bullseye! | 87.00% | ~46 |
+| Villfir Forest | 83.00% | ~44 |
+| Graduation! | 79.00% | ~42 |
+| Right in the kisser! | 66.00% | ~35 |
+| The Shaman | 57.00% | ~30 |
+| Duscot Steamcity | 57.00% | ~30 |
+| The Penguin | 53.00% | ~28 |
+| The Magician | 53.00% | ~28 |
+| The Thrower | 49.00% | ~26 |
+| The Tunneler | 45.00% | ~24 |
+| Kill-streak | 43.00% | ~23 |
+| The Shield | 43.00% | ~23 |
+| Level Up!! | 40.00% | ~21 |
+| The Bird | 32.00% | ~17 |
+| The Ninja | 32.00% | ~17 |
+| The Idol | 30.00% | ~16 |
+| I'm Rich | 26.00% | ~14 |
+| Inferno Ruins | 26.00% | ~14 |
+| Untouchable | 25.00% | ~13 |
+| 1 is all I need | 23.00% | ~12 |
+| Topped up | 23.00% | ~12 |
+| The Slime | 21.00% | ~11 |
+| The Flower | 19.00% | ~10 |
+| The Giant | 19.00% | ~10 |
+| Out of the Frying Pan... | 17.00% | ~9 |
+| The Blacksmith | 15.00% | ~8 |
+| The Assistant | 13.00% | ~7 |
+| The Droid | 11.00% | ~6 |
+| The Ooze | 11.00% | ~6 |
+| Ember | 11.00% | ~6 |
+| Turquoise | 11.00% | ~6 |
+| Tested | 11.00% | ~6 |
+| The Bomber | 9.00% | ~5 |
+| The Steampunk | 9.00% | ~5 |
+| Verse | 9.00% | ~5 |
+| Iron | 9.00% | ~5 |
+| Anvil | 6.00% | ~3 |
+| Power Overwhelming | 4.00% | ~2 |
+| The Exorcist | 4.00% | ~2 |
+| The Astronaut | 4.00% | ~2 |
+| Analyzed | 4.00% | ~2 |
+| Highway to Hell | 4.00% | ~2 |
+| Combo Master | 2.00% | ~1 |
+| Really Bad Luck | 2.00% | ~1 |
+| It's a Trap! | 2.00% | ~1 |
+| Blaze | 2.00% | ~1 |
+| Topaz | 2.00% | ~1 |
+| Chorus | 2.00% | ~1 |
+| Tongs | 2.00% | ~1 |
+| Nuclear Bomb | 2.00% | ~1 |
+| Concluded | 2.00% | ~1 |
+| Divinity | 2.00% | ~1 |
+| Platinum | 2.00% | ~1 |
+| Gunpowder | 2.00% | ~1 |
+| Aluminum | 2.00% | ~1 |
 | Divinity | 0.00% | ~0 |
 | Mithril | 0.00% | ~0 |
 | TNT | 0.00% | ~0 |

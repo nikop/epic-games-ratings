@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dangerous path | 3.00% | ~117 |
+| Dangerous path | 3.00% | ~1 |
 | Easy breezy? | 0.00% | ~0 |
 | Some challenge | 0.00% | ~0 |
 | How hard can it be? | 0.00% | ~0 |

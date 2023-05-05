@@ -24,7 +24,7 @@
       "Name": "Agent",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_AGENT_EXPERT",
@@ -32,7 +32,7 @@
       "Name": "Expert Agent",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_AGENT_MASTER",
@@ -40,7 +40,7 @@
       "Name": "Master Agent",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_AND_SO_IT_BEGINS",
@@ -48,7 +48,7 @@
       "Name": "And So It Begins",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2893
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ANOTHER_ONE",
@@ -56,7 +56,7 @@
       "Name": "Another One",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_A_REAL_LANDLORD",
@@ -64,7 +64,7 @@
       "Name": "A Real Landlord",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BABYSITTER",
@@ -72,7 +72,7 @@
       "Name": "Babysitter",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BABYSITTER_EXPERT",
@@ -80,7 +80,7 @@
       "Name": "Expert Babysitter",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BABYSITTER_MASTER",
@@ -88,7 +88,7 @@
       "Name": "Master Babysitter",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BANKSY",
@@ -104,7 +104,7 @@
       "Name": "Better Safe Than Sorry",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BIG_APPLE",
@@ -120,7 +120,7 @@
       "Name": "Bookworm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BOTANIST",
@@ -160,7 +160,7 @@
       "Name": "Cleaning Service",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COLOMBIAN_PRINCE",
@@ -184,7 +184,7 @@
       "Name": "Decorator",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DOUBLE_DIGITS",
@@ -192,7 +192,7 @@
       "Name": "Double Digits",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DROP_THE_BEAT",
@@ -208,7 +208,7 @@
       "Name": "Face of Streaming",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_FILTHY_RICH",
@@ -216,7 +216,7 @@
       "Name": "Filthy Rich",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FINDERS_KEEPERS",
@@ -248,7 +248,7 @@
       "Name": "Gardener",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_GOTTA_CATCH_THEM_ALL",
@@ -264,7 +264,7 @@
       "Name": "Gotta Start Somewhere",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_GO_TEAM",
@@ -288,7 +288,7 @@
       "Name": "Home, Sweet Home",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_HOW_SWEET",
@@ -304,7 +304,7 @@
       "Name": "I\u2019m On A Boat",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_IVE_HAD_ENOUGH",
@@ -312,7 +312,7 @@
       "Name": "I\u2019ve Had Enough",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_I_AM_THE_ONE_WHO_KNOCKS",
@@ -344,7 +344,7 @@
       "Name": "Kill It With Gas",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KITCHEN_HELL",
@@ -352,7 +352,7 @@
       "Name": "Kitchen Hell",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LANDLORDS_DREAM",
@@ -360,7 +360,7 @@
       "Name": "Landlord\u2019s Dream",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LOADED",
@@ -368,7 +368,7 @@
       "Name": "Loaded",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_LURED_IN",
@@ -376,7 +376,7 @@
       "Name": "Lured In",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_MATCHMAKER",
@@ -384,7 +384,7 @@
       "Name": "Matchmaker",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_MILLIONAIRE",
@@ -392,7 +392,7 @@
       "Name": "Millionaire",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_MR_CLEAN",
@@ -400,7 +400,7 @@
       "Name": "Mr Clean",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_NO_RETIREMENT_FOR_YOU",
@@ -432,7 +432,7 @@
       "Name": "Passive Income",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_PETTY_BICKERING",
@@ -440,7 +440,7 @@
       "Name": "Petty Bickering",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_POKER_KING",
@@ -456,7 +456,7 @@
       "Name": "Privileged",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_RAIDER_OF_WONDERSVILLE",
@@ -472,7 +472,7 @@
       "Name": "Rat Race",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_REALTOR",
@@ -480,7 +480,7 @@
       "Name": "Realtor",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_REALTOR_EXPERT",
@@ -496,7 +496,7 @@
       "Name": "Master Realtor",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_RENOVATOR",
@@ -504,7 +504,7 @@
       "Name": "Renovator",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_RENOVATOR_EXPERT",
@@ -512,7 +512,7 @@
       "Name": "Expert Renovator",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_RENOVATOR_MASTER",
@@ -520,7 +520,7 @@
       "Name": "Master Renovator",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_RENTAL_BONANZA",
@@ -536,7 +536,7 @@
       "Name": "Run, Forrest, Run!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SENPAI",
@@ -544,7 +544,7 @@
       "Name": "Senpai",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SHERLOCK_HOMES",
@@ -576,7 +576,7 @@
       "Name": "Still Kind Of Poor",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_TEXAS_HOLDEM",
@@ -592,7 +592,7 @@
       "Name": "TGIF",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_THE_AFTERSHOCK",
@@ -600,7 +600,7 @@
       "Name": "The Aftershock",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_THE_GREAT_TENANTSINI",
@@ -616,7 +616,7 @@
       "Name": "The More The Merrier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_THE_SUBURBAN_DREAM",
@@ -632,7 +632,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_UNCLEST_OF_THE_UNCLES",
@@ -648,7 +648,7 @@
       "Name": "Well Off",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WELL_SCRATCH_THAT",
@@ -656,7 +656,7 @@
       "Name": "Well, Scratch That",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_WHATS_THAT_SMELL",
@@ -664,7 +664,7 @@
       "Name": "What\u2019s That Smell?",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_WHAT_TAXES_SIR",
@@ -1001,13 +1001,13 @@
   ],
   "TotalAchievementsXP": 1400,
   "TotalAchievements": 86,
-  "LastChanged_Achievements": "2023-05-04T22:24:41.4023854+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:57.2903887+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 9642,
-  "LastUpdate_Achievements": "2023-05-04T22:24:41.4024862+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:01.8370936+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:57.2904683+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:47.3643233+00:00",
   "AchievementSets": [
     {
       "ID": "13614nd",
@@ -1028,8 +1028,8 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 82,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 106,
   "Ranking_PopularitySum": 490,

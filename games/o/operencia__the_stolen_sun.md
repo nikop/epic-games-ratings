@@ -1,6 +1,6 @@
 # Operencia: The Stolen Sun
 [View Rawdata](../../db/o/operencia__the_stolen_sun.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

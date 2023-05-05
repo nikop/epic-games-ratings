@@ -3,30 +3,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Skinner | 59.00% | ~1,298 |
-| Deal with Shock | 55.00% | ~1,210 |
-| Deal with Anger | 32.00% | ~704 |
-| Robolimb Ripper | 18.00% | ~396 |
-| Deal with Depression | 18.00% | ~396 |
-| No Shock Race | 14.00% | ~308 |
-| Max Health | 9.00% | ~198 |
-| No Anger Race | 9.00% | ~198 |
-| No Depression Race | 9.00% | ~198 |
-| Deal with Acceptance | 9.00% | ~198 |
-| Zero to Hero | 9.00% | ~198 |
-| Bronze Tunnel Collector | 5.00% | ~110 |
-| Silver Tunnel Collector | 5.00% | ~110 |
-| Golden Tunnel Collector | 5.00% | ~110 |
-| Platinum Tunnel Collector | 5.00% | ~110 |
-| Monster Energy | 5.00% | ~110 |
-| Total Anger | 5.00% | ~110 |
-| Total Shock | 5.00% | ~110 |
-| Boss Rusher | 5.00% | ~110 |
-| Flawless Boss Rusher | 5.00% | ~110 |
-| The Fastest Boss Rusher | 5.00% | ~110 |
-| Faster Boss Rusher | 5.00% | ~110 |
-| Fast Boss Rusher | 5.00% | ~110 |
-| Tunnel Runner | 5.00% | ~110 |
+| Skinner | 59.00% | ~13 |
+| Deal with Shock | 55.00% | ~12 |
+| Deal with Anger | 32.00% | ~7 |
+| Robolimb Ripper | 18.00% | ~4 |
+| Deal with Depression | 18.00% | ~4 |
+| No Shock Race | 14.00% | ~3 |
+| Max Health | 9.00% | ~2 |
+| No Anger Race | 9.00% | ~2 |
+| No Depression Race | 9.00% | ~2 |
+| Deal with Acceptance | 9.00% | ~2 |
+| Zero to Hero | 9.00% | ~2 |
+| Bronze Tunnel Collector | 5.00% | ~1 |
+| Silver Tunnel Collector | 5.00% | ~1 |
+| Golden Tunnel Collector | 5.00% | ~1 |
+| Platinum Tunnel Collector | 5.00% | ~1 |
+| Monster Energy | 5.00% | ~1 |
+| Total Anger | 5.00% | ~1 |
+| Total Shock | 5.00% | ~1 |
+| Boss Rusher | 5.00% | ~1 |
+| Flawless Boss Rusher | 5.00% | ~1 |
+| The Fastest Boss Rusher | 5.00% | ~1 |
+| Faster Boss Rusher | 5.00% | ~1 |
+| Fast Boss Rusher | 5.00% | ~1 |
+| Tunnel Runner | 5.00% | ~1 |
 | Unlocked and Loaded | 0.00% | ~0 |
 | Call me Neo | 0.00% | ~0 |
 | Total Acceptor | 0.00% | ~0 |

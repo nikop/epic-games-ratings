@@ -4,57 +4,57 @@ Rating: 4.66 (Ranked 272)
 Number of Ratings: 495  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 547  (Ranked 173)  
-Sum: 4,643 (Ranked 125)  
+Sum: 4,644 (Ranked 125)  
 Diff (max vs sum): 48  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~1,644,440 |
-| Thorough | 8.00% | ~1,315,552 |
-| A thief's beginning | 7.00% | ~1,151,108 |
-| Tanuki Time | 7.00% | ~1,151,108 |
-| Disguised | 6.00% | ~986,664 |
-| Jonin | 6.00% | ~986,664 |
-| Rescue Takuma | 6.00% | ~986,664 |
-| Rollin' | 6.00% | ~986,664 |
-| Chunin | 5.00% | ~822,220 |
-| Ice Ice Yuki | 5.00% | ~822,220 |
-| Stoned Ox | 5.00% | ~822,220 |
-| Yabu | 5.00% | ~822,220 |
-| Flying Rocks | 4.00% | ~657,776 |
-| Happy Planning | 4.00% | ~657,776 |
-| Mugen Unchained | 4.00% | ~657,776 |
-| Okkoto | 4.00% | ~657,776 |
-| Warzone | 4.00% | ~657,776 |
-| Gear up | 3.00% | ~493,332 |
-| Happy little accidents | 3.00% | ~493,332 |
-| Noboru | 3.00% | ~493,332 |
-| Prisoners | 3.00% | ~493,332 |
-| Still Rollin' | 3.00% | ~493,332 |
-| Too Early | 3.00% | ~493,332 |
-| It's raining men | 2.00% | ~328,888 |
-| Stoned | 2.00% | ~328,888 |
-| The Old Way | 2.00% | ~328,888 |
-| Atheist Ox | 1.00% | ~164,444 |
-| Meticulous | 1.00% | ~164,444 |
-| No Gimmicks | 1.00% | ~164,444 |
-| Old Man | 1.00% | ~164,444 |
-| The End | 1.00% | ~164,444 |
-| Winner Winner | 1.00% | ~164,444 |
-| Undeserved Honor | 0.80% | ~131,555 |
-| When Cut Across the Neck | 0.70% | ~115,111 |
-| High Five the Moon | 0.60% | ~98,666 |
-| The Cave | 0.50% | ~82,222 |
-| Merciful | 0.40% | ~65,778 |
-| Time Paradox | 0.40% | ~65,778 |
-| Five Shadows | 0.20% | ~32,889 |
-| Chicken Dinner | 0.10% | ~16,444 |
-| Complete Mastery | 0.10% | ~16,444 |
-| Mimimi | 0.10% | ~16,444 |
-| Praise the Shogun | 0.10% | ~16,444 |
-| Release the Kraken | 0.10% | ~16,444 |
+| Genin | 10.00% | ~16,456 |
+| Thorough | 8.00% | ~13,164 |
+| A thief's beginning | 7.00% | ~11,519 |
+| Tanuki Time | 7.00% | ~11,519 |
+| Disguised | 6.00% | ~9,873 |
+| Jonin | 6.00% | ~9,873 |
+| Rescue Takuma | 6.00% | ~9,873 |
+| Rollin' | 6.00% | ~9,873 |
+| Chunin | 5.00% | ~8,228 |
+| Ice Ice Yuki | 5.00% | ~8,228 |
+| Stoned Ox | 5.00% | ~8,228 |
+| Yabu | 5.00% | ~8,228 |
+| Flying Rocks | 4.00% | ~6,582 |
+| Happy Planning | 4.00% | ~6,582 |
+| Mugen Unchained | 4.00% | ~6,582 |
+| Okkoto | 4.00% | ~6,582 |
+| Warzone | 4.00% | ~6,582 |
+| Gear up | 3.00% | ~4,937 |
+| Happy little accidents | 3.00% | ~4,937 |
+| Noboru | 3.00% | ~4,937 |
+| Prisoners | 3.00% | ~4,937 |
+| Still Rollin' | 3.00% | ~4,937 |
+| Too Early | 3.00% | ~4,937 |
+| It's raining men | 2.00% | ~3,291 |
+| Stoned | 2.00% | ~3,291 |
+| The Old Way | 2.00% | ~3,291 |
+| Atheist Ox | 1.00% | ~1,646 |
+| Meticulous | 1.00% | ~1,646 |
+| No Gimmicks | 1.00% | ~1,646 |
+| Old Man | 1.00% | ~1,646 |
+| The End | 1.00% | ~1,646 |
+| Winner Winner | 1.00% | ~1,646 |
+| Undeserved Honor | 0.80% | ~1,316 |
+| When Cut Across the Neck | 0.70% | ~1,152 |
+| High Five the Moon | 0.60% | ~987 |
+| The Cave | 0.50% | ~823 |
+| Merciful | 0.40% | ~658 |
+| Time Paradox | 0.40% | ~658 |
+| Five Shadows | 0.20% | ~329 |
+| Chicken Dinner | 0.10% | ~165 |
+| Complete Mastery | 0.10% | ~165 |
+| Mimimi | 0.10% | ~165 |
+| Praise the Shogun | 0.10% | ~165 |
+| Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,444 (Ranked 50)  
+Progressed: 164,556 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,14 +68,15 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-01 | 163,668 | 41 |
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
-| 2023-05-04 | 164,444 | 41 |
+| 2023-05-04 | 164,454 | 41 |
+| 2023-05-05 | 164,556 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 547 |
 | This game has Diverse Characters | 517 |
 | This game is Extremely Fun | 510 |
-| This game has Amazing Storytelling | 496 |
+| This game has Amazing Storytelling | 497 |
 | This game has Amazing Characters | 479 |
 | This game is Highly Recommended | 475 |
 | This game has Challenging Combat | 469 |
@@ -186,4 +187,4 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-04-30 | 4.66 | - | 547 | 4,637 |
 | 2023-05-01 | 4.66 | - | 547 | 4,640 |
 | 2023-05-02 | 4.66 | - | 547 | 4,641 |
-| 2023-05-04 | 4.66 | - | 547 | 4,643 |
+| 2023-05-04 | 4.66 | - | 547 | 4,644 |

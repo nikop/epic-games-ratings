@@ -9,54 +9,54 @@ Diff (max vs sum): -22
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~88,150 |
-| Completed Act I | 30.00% | ~32,250 |
-| 5 Upgrades in Stronghold | 25.00% | ~26,875 |
-| First 5 Levels of Od Nua | 24.00% | ~25,800 |
-| Make an Adventurer | 23.00% | ~24,725 |
-| Completed Act II | 16.00% | ~17,200 |
-| Enchanter | 15.00% | ~16,125 |
-| Disposition | 15.00% | ~16,125 |
-| Middle 5 Levels of Od Nua | 15.00% | ~16,125 |
-| Super Murderer | 14.00% | ~15,050 |
-| All Upgrades in Stronghold | 14.00% | ~15,050 |
-| The Watcher With Eight Friends | 14.00% | ~15,050 |
-| The Heir of Caed Nua | 13.00% | ~13,975 |
-| Soulbinder | 13.00% | ~13,975 |
-| Last 5 Levels of Od Nua | 12.00% | ~12,900 |
-| Bounty Hunter | 10.00% | ~10,750 |
-| The Giftbearer | 10.00% | ~10,750 |
-| Trappy | 9.00% | ~9,675 |
-| Herald of the Old Flame | 9.00% | ~9,675 |
-| Watcher at the Breach | 9.00% | ~9,675 |
-| Completed Act III | 8.00% | ~8,600 |
-| Fish Guts and Murder | 8.00% | ~8,600 |
-| Alchemist | 7.00% | ~7,525 |
-| The Siege of Crägholdt | 7.00% | ~7,525 |
-| A Voice from the Deep | 6.00% | ~6,450 |
-| Called to their Labor | 6.00% | ~6,450 |
-| From the Clouds to the Depths | 5.00% | ~5,375 |
-| Explorer | 5.00% | ~5,375 |
-| Chef | 4.00% | ~4,300 |
-| Scribe | 4.00% | ~4,300 |
-| Appease All of the Gods | 4.00% | ~4,300 |
-| Terror of the White March | 4.00% | ~4,300 |
-| Won the Game!!! | 3.00% | ~3,225 |
-| The Storied Adventurer | 3.00% | ~3,225 |
-| Among the Moss and Peat | 2.00% | ~2,150 |
-| Legendary Enchanter | 1.00% | ~1,075 |
-| Path of the Damned | 0.70% | ~752 |
-| Expert | 0.60% | ~645 |
-| Solo | 0.60% | ~645 |
-| Triple Crown | 0.60% | ~645 |
-| Trial of Iron | 0.60% | ~645 |
-| Frozen Crown Solo | 0.60% | ~645 |
-| Relative Pacifism | 0.50% | ~538 |
-| Zero Knockouts | 0.50% | ~538 |
-| No Rest for the Pro | 0.50% | ~538 |
-| Triple Crown Solo | 0.50% | ~538 |
-| Frozen Crown | 0.50% | ~538 |
-| The Ultimate | 0.50% | ~538 |
+| Kickstarter Backer | 82.00% | ~882 |
+| Completed Act I | 30.00% | ~322 |
+| 5 Upgrades in Stronghold | 25.00% | ~269 |
+| First 5 Levels of Od Nua | 24.00% | ~258 |
+| Make an Adventurer | 23.00% | ~247 |
+| Completed Act II | 16.00% | ~172 |
+| Enchanter | 15.00% | ~161 |
+| Disposition | 15.00% | ~161 |
+| Middle 5 Levels of Od Nua | 15.00% | ~161 |
+| Super Murderer | 14.00% | ~151 |
+| All Upgrades in Stronghold | 14.00% | ~151 |
+| The Watcher With Eight Friends | 14.00% | ~151 |
+| The Heir of Caed Nua | 13.00% | ~140 |
+| Soulbinder | 13.00% | ~140 |
+| Last 5 Levels of Od Nua | 12.00% | ~129 |
+| Bounty Hunter | 10.00% | ~108 |
+| The Giftbearer | 10.00% | ~108 |
+| Trappy | 9.00% | ~97 |
+| Herald of the Old Flame | 9.00% | ~97 |
+| Watcher at the Breach | 9.00% | ~97 |
+| Completed Act III | 8.00% | ~86 |
+| Fish Guts and Murder | 8.00% | ~86 |
+| Alchemist | 7.00% | ~75 |
+| The Siege of Crägholdt | 7.00% | ~75 |
+| A Voice from the Deep | 6.00% | ~64 |
+| Called to their Labor | 6.00% | ~64 |
+| From the Clouds to the Depths | 5.00% | ~54 |
+| Explorer | 5.00% | ~54 |
+| Chef | 4.00% | ~43 |
+| Scribe | 4.00% | ~43 |
+| Appease All of the Gods | 4.00% | ~43 |
+| Terror of the White March | 4.00% | ~43 |
+| Won the Game!!! | 3.00% | ~32 |
+| The Storied Adventurer | 3.00% | ~32 |
+| Among the Moss and Peat | 2.00% | ~22 |
+| Legendary Enchanter | 1.00% | ~11 |
+| Path of the Damned | 0.70% | ~8 |
+| Expert | 0.60% | ~6 |
+| Solo | 0.60% | ~6 |
+| Triple Crown | 0.60% | ~6 |
+| Trial of Iron | 0.60% | ~6 |
+| Frozen Crown Solo | 0.60% | ~6 |
+| Relative Pacifism | 0.50% | ~5 |
+| Zero Knockouts | 0.50% | ~5 |
+| No Rest for the Pro | 0.50% | ~5 |
+| Triple Crown Solo | 0.50% | ~5 |
+| Frozen Crown | 0.50% | ~5 |
+| The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,075 (Ranked 157)  
 Completed: 4 (0.37%) (Ranked 107)  

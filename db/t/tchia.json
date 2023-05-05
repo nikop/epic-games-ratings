@@ -8,7 +8,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 49329
+      "UsersEstimate": 494
     },
     {
       "ID": "ARRR",
@@ -16,7 +16,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 10962
+      "UsersEstimate": 110
     },
     {
       "ID": "AUDIOPHILE",
@@ -24,7 +24,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 38367
+      "UsersEstimate": 384
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -32,7 +32,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 54810
+      "UsersEstimate": 549
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -40,7 +40,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 5481
+      "UsersEstimate": 55
     },
     {
       "ID": "CLAY_PIGEON",
@@ -48,7 +48,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32886
+      "UsersEstimate": 329
     },
     {
       "ID": "ENERGY_SAVER",
@@ -56,7 +56,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 87696
+      "UsersEstimate": 878
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -64,7 +64,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16443
+      "UsersEstimate": 165
     },
     {
       "ID": "FASHION_VICTIM",
@@ -72,7 +72,7 @@
       "Name": "Fashion Victim",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 10962
+      "UsersEstimate": 110
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -80,7 +80,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 60291
+      "UsersEstimate": 604
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -88,7 +88,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21924
+      "UsersEstimate": 219
     },
     {
       "ID": "HISTORIAN",
@@ -96,7 +96,7 @@
       "Name": "Historian",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 27405
+      "UsersEstimate": 274
     },
     {
       "ID": "ICONOCLAST",
@@ -104,7 +104,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27405
+      "UsersEstimate": 274
     },
     {
       "ID": "IN_A_PINCH",
@@ -112,7 +112,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 104139
+      "UsersEstimate": 1043
     },
     {
       "ID": "LIBERATOR",
@@ -120,7 +120,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 21924
+      "UsersEstimate": 219
     },
     {
       "ID": "LIVE_WIRE",
@@ -128,7 +128,7 @@
       "Name": "Live Wire",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 16443
+      "UsersEstimate": 165
     },
     {
       "ID": "SHREDDER",
@@ -136,7 +136,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27405
+      "UsersEstimate": 274
     },
     {
       "ID": "SNIP_SNIP",
@@ -144,7 +144,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 10962
+      "UsersEstimate": 110
     },
     {
       "ID": "SOUL_CANON",
@@ -152,7 +152,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32886
+      "UsersEstimate": 329
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -160,7 +160,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 65772
+      "UsersEstimate": 658
     },
     {
       "ID": "THING",
@@ -168,7 +168,7 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 5481
+      "UsersEstimate": 55
     }
   ],
   "Tags": [],
@@ -787,6 +787,36 @@
       "Time": "2023-05-04T21:05:29.8018496+00:00",
       "NumProgressed": 5481,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T00:04:54.7228423+00:00",
+      "NumProgressed": 5482,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T01:58:22.2181155+00:00",
+      "NumProgressed": 5483,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T03:05:06.1137973+00:00",
+      "NumProgressed": 5484,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T06:05:11.7902019+00:00",
+      "NumProgressed": 5485,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T07:05:14.7915415+00:00",
+      "NumProgressed": 5486,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T08:05:27.0939025+00:00",
+      "NumProgressed": 5487,
+      "NumCompleted": 19
     }
   ],
   "RatingHistory": [
@@ -889,38 +919,44 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-05T08:57:51.5234337+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:24:23.3307197+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:34.9287605+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 131,
   "EOS_Completed": 19,
-  "EOS_Progressed": 5481,
-  "LastUpdate_Achievements": "2023-05-04T22:24:23.3307427+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:17.0263962+00:00",
+  "EOS_Progressed": 5487,
+  "LastUpdate_Achievements": "2023-05-05T09:05:34.9287774+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:51.5234341+00:00",
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5481,
+      "Progressed": 5487,
       "Completed": 19
     }
   ],
   "EOS_Completed_Percentage": 0.35,
-  "LastChanged": "2023-04-29T04:58:04.457199+00:00",
+  "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_Progress": 117,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 113,
-  "Rating": 4.76,
+  "Ranking_Rating": 103,
+  "Rating": 4.77,
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00"
 }

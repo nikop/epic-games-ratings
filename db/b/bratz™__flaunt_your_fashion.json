@@ -8,7 +8,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 2790
+      "UsersEstimate": 28
     },
     {
       "ID": "10",
@@ -16,7 +16,7 @@
       "Name": "Born to Win",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 806
+      "UsersEstimate": 8
     },
     {
       "ID": "11",
@@ -24,7 +24,7 @@
       "Name": "Creating New Trends",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 496
+      "UsersEstimate": 5
     },
     {
       "ID": "12",
@@ -32,7 +32,7 @@
       "Name": "Stilesville Hidden Style",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 992
+      "UsersEstimate": 10
     },
     {
       "ID": "13",
@@ -40,7 +40,7 @@
       "Name": "Barcelona Hidden Style",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 496
+      "UsersEstimate": 5
     },
     {
       "ID": "14",
@@ -48,7 +48,7 @@
       "Name": "Seoul Hidden Style",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 4
     },
     {
       "ID": "15",
@@ -56,7 +56,7 @@
       "Name": "Talented Photographer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 1
     },
     {
       "ID": "16",
@@ -64,7 +64,7 @@
       "Name": "Xtremely Cool Pictures",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 1
     },
     {
       "ID": "17",
@@ -72,7 +72,7 @@
       "Name": "Trendy Selfies",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 2
     },
     {
       "ID": "18",
@@ -88,7 +88,7 @@
       "Name": "Best Gala Ever",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 496
+      "UsersEstimate": 5
     },
     {
       "ID": "2",
@@ -96,7 +96,7 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 1488
+      "UsersEstimate": 15
     },
     {
       "ID": "3",
@@ -104,7 +104,7 @@
       "Name": "Welcome to Seoul",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 806
+      "UsersEstimate": 8
     },
     {
       "ID": "4",
@@ -112,7 +112,7 @@
       "Name": "Welcome to the The Stylin\u0027 Soiree",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 496
+      "UsersEstimate": 5
     },
     {
       "ID": "5",
@@ -120,7 +120,7 @@
       "Name": "We will need a bigger wardrobe",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 806
+      "UsersEstimate": 8
     },
     {
       "ID": "6",
@@ -128,7 +128,7 @@
       "Name": "Scooter Race",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
@@ -136,7 +136,7 @@
       "Name": "Roller Race",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 8
     },
     {
       "ID": "8",
@@ -144,7 +144,7 @@
       "Name": "Hoverboard Race",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 3
     },
     {
       "ID": "9",
@@ -152,7 +152,7 @@
       "Name": "Talented Performer",
       "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 1612
+      "UsersEstimate": 16
     }
   ],
   "Tags": [],
@@ -178,13 +178,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-04T22:24:41.7264327+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:56.5028514+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 31,
-  "LastUpdate_Achievements": "2023-05-04T22:24:41.726451+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:12.8524397+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:56.5028615+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:05.0999195+00:00",
   "AchievementSets": [
     {
       "ID": "41h3j82",
@@ -199,8 +199,8 @@
   "FirstSeen": "2023-03-03T02:22:16.5270322+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 284,
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00"

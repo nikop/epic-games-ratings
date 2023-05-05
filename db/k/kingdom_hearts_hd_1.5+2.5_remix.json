@@ -13,7 +13,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 462
+      "Count": 463
     },
     {
       "Text": "This game has Amazing Characters",
@@ -25,7 +25,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 481
+      "Count": 485
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -49,7 +49,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 447
+      "Count": 449
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -67,7 +67,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 427
+      "Count": 428
     },
     {
       "Text": "This game has a Creative Community",
@@ -3184,6 +3184,30 @@
       "Rating": 4.82,
       "NumberOfAwards": 3658,
       "NumberOfAwardsMax": 482
+    },
+    {
+      "Time": "2023-05-04T23:58:45.5911802+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3662,
+      "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2023-05-05T01:52:10.6281777+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3663,
+      "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2023-05-05T02:59:14.4733054+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3665,
+      "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2023-05-05T05:59:17.8295639+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3666,
+      "NumberOfAwardsMax": 485
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3192,22 +3216,22 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:23:19.493182+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:25.5807775+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:04:17.723903+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:22.5965715+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T20:59:16.1176266+00:00",
+  "LastChanged": "2023-05-05T05:59:17.8295636+00:00",
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "MaxAwardTitle": "Amazing Characters",
-  "NumberOfAwardsMax": 482,
-  "NumberOfAwards": 3658,
+  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwardsMax": 485,
+  "NumberOfAwards": 3666,
   "NumberOfRatings": 4283,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 135,
-  "Ranking_Popularity": 185,
+  "Ranking_Popularity": 184,
   "Ranking_Rating": 59,
   "Rating": 4.82
 }

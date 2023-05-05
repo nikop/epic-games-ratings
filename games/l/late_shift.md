@@ -3,26 +3,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 97.00% | ~32,301 |
-| Fair Share | 72.00% | ~23,976 |
-| Even Tempered | 54.00% | ~17,982 |
-| The Delivery | 44.00% | ~14,652 |
-| Shill Bidder | 44.00% | ~14,652 |
-| Star-Crossed Lovers | 44.00% | ~14,652 |
-| The Frenzy | 34.00% | ~11,322 |
-| Office Clerk | 32.00% | ~10,656 |
-| Good Karma | 31.00% | ~10,323 |
-| Protector | 28.00% | ~9,324 |
-| The Bribe | 26.00% | ~8,658 |
-| The Ploy | 16.00% | ~5,328 |
-| Interrogation | 14.00% | ~4,662 |
-| Sabotage | 11.00% | ~3,663 |
-| Choices Matter | 8.00% | ~2,664 |
-| The Fool | 6.00% | ~1,998 |
-| The Lion's Den | 4.00% | ~1,332 |
-| Proficient Storyteller | 4.00% | ~1,332 |
-| The Coward | 3.00% | ~999 |
-| Expert Storyteller | 1.00% | ~333 |
+| Cause and Effect | 97.00% | ~323 |
+| Fair Share | 72.00% | ~240 |
+| Even Tempered | 54.00% | ~180 |
+| The Delivery | 44.00% | ~147 |
+| Shill Bidder | 44.00% | ~147 |
+| Star-Crossed Lovers | 44.00% | ~147 |
+| The Frenzy | 34.00% | ~113 |
+| Office Clerk | 32.00% | ~107 |
+| Good Karma | 31.00% | ~103 |
+| Protector | 28.00% | ~93 |
+| The Bribe | 26.00% | ~87 |
+| The Ploy | 16.00% | ~53 |
+| Interrogation | 14.00% | ~47 |
+| Sabotage | 11.00% | ~37 |
+| Choices Matter | 8.00% | ~27 |
+| The Fool | 6.00% | ~20 |
+| The Lion's Den | 4.00% | ~13 |
+| Proficient Storyteller | 4.00% | ~13 |
+| The Coward | 3.00% | ~10 |
+| Expert Storyteller | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 333 (Ranked 200)  
 Completed: 4 (1.20%) (Ranked 75)  

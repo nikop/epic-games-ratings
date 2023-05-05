@@ -8,7 +8,7 @@
       "Name": "Constructor",
       "Percentage": 42,
       "XP": 200,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "Mason_Arch_01",
@@ -16,7 +16,7 @@
       "Name": "Arch Mason",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Mason_Expert_01",
@@ -24,7 +24,7 @@
       "Name": "Expert Mason",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "Mason_Grand_01",
@@ -32,7 +32,7 @@
       "Name": "Grand Mason",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "Mason_Novice_01",
@@ -40,7 +40,7 @@
       "Name": "Novice Mason",
       "Percentage": 42,
       "XP": 200,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     }
   ],
   "Tags": [],
@@ -66,13 +66,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-04T22:24:44.2050662+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:59.3865271+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-04T22:24:44.2050759+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:28.0687887+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:59.386533+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:25.2988182+00:00",
   "AchievementSets": [
     {
       "ID": "77clh7i",
@@ -87,9 +87,9 @@
   "FirstSeen": "2023-04-19T03:58:31.2715258+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00"
 }

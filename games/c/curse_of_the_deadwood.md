@@ -3,16 +3,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Defend Shelbert | 100.00% | ~200 |
-| Complete the Tutorial | 100.00% | ~200 |
-| Gunslinger | 100.00% | ~200 |
-| Hunter | 100.00% | ~200 |
-| Keeper In Training | 100.00% | ~200 |
-| Alert | 100.00% | ~200 |
-| Anti-Air | 100.00% | ~200 |
-| Defeat Quartermaster | 50.00% | ~100 |
-| Heavy Hitter | 50.00% | ~100 |
-| Skilled Keeper | 50.00% | ~100 |
+| Defend Shelbert | 100.00% | ~2 |
+| Complete the Tutorial | 100.00% | ~2 |
+| Gunslinger | 100.00% | ~2 |
+| Hunter | 100.00% | ~2 |
+| Keeper In Training | 100.00% | ~2 |
+| Alert | 100.00% | ~2 |
+| Anti-Air | 100.00% | ~2 |
+| Defeat Quartermaster | 50.00% | ~1 |
+| Heavy Hitter | 50.00% | ~1 |
+| Skilled Keeper | 50.00% | ~1 |
 | Sandovale's Biggest Fan | 0.00% | ~0 |
 | Master Tinkerer | 0.00% | ~0 |
 | Defeat Mograbora | 0.00% | ~0 |

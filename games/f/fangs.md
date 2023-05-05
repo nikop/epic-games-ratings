@@ -1,6 +1,6 @@
 # Fangs
 [View Rawdata](../../db/f/fangs.json)  
-Rating: 4.09 (Ranked 856)  
+Rating: 4.09 (Ranked 857)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -3,19 +3,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unexpected encounter | 15.00% | ~26,985 |
-| Starting as a duo | 13.00% | ~23,387 |
-| Stronger together | 11.00% | ~19,789 |
-| Helping the little ones | 9.00% | ~16,191 |
-| A big leap for wolfkind | 8.00% | ~14,392 |
-| Transmission | 7.00% | ~12,593 |
-| The will to move on | 6.00% | ~10,794 |
-| Reunion | 6.00% | ~10,794 |
-| The end | 5.00% | ~8,995 |
-| Sliders | 3.00% | ~5,397 |
-| Sheltered by the fallen tree | 2.00% | ~3,598 |
-| Snow-covered ruins | 0.40% | ~720 |
-| Another ride! | 0.30% | ~540 |
+| Unexpected encounter | 15.00% | ~270 |
+| Starting as a duo | 13.00% | ~234 |
+| Stronger together | 11.00% | ~198 |
+| Helping the little ones | 9.00% | ~162 |
+| A big leap for wolfkind | 8.00% | ~144 |
+| Transmission | 7.00% | ~126 |
+| The will to move on | 6.00% | ~108 |
+| Reunion | 6.00% | ~108 |
+| The end | 5.00% | ~90 |
+| Sliders | 3.00% | ~54 |
+| Sheltered by the fallen tree | 2.00% | ~36 |
+| Snow-covered ruins | 0.40% | ~7 |
+| Another ride! | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,799 (Ranked 146)  
 Completed: 4 (0.22%) (Ranked 127)  

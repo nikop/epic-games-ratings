@@ -3,9 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| And We're Back! | 100.00% | ~100 |
-| Prelude | 100.00% | ~100 |
-| We'll Be Right Back! | 100.00% | ~100 |
+| And We're Back! | 100.00% | ~1 |
+| Prelude | 100.00% | ~1 |
+| We'll Be Right Back! | 100.00% | ~1 |
 | 50 Feet Tall | 0.00% | ~0 |
 | A Happy Clowder | 0.00% | ~0 |
 | A Hero Sprouts Forth | 0.00% | ~0 |

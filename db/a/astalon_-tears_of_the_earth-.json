@@ -8,7 +8,7 @@
       "Name": "No match for me!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 2
     },
     {
       "ID": "Beat_Game",
@@ -16,7 +16,7 @@
       "Name": "Vanquisher!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1508
+      "UsersEstimate": 15
     },
     {
       "ID": "Beat_Game_100",
@@ -24,7 +24,7 @@
       "Name": "God of the Tower!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1300
+      "UsersEstimate": 13
     },
     {
       "ID": "Beat_Game_BK",
@@ -32,7 +32,7 @@
       "Name": "True Black Knight",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 520
+      "UsersEstimate": 5
     },
     {
       "ID": "Beat_Game_Gargoyle",
@@ -40,7 +40,7 @@
       "Name": "Freedom Monster",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 4
     },
     {
       "ID": "Buy_All_Algus_Character_Deals",
@@ -48,7 +48,7 @@
       "Name": "Wizard Mastery",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 10
     },
     {
       "ID": "Buy_All_Arias_Character_Deals",
@@ -56,7 +56,7 @@
       "Name": "Fighter Mastery",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 8
     },
     {
       "ID": "Buy_All_Bram_Character_Deals",
@@ -64,7 +64,7 @@
       "Name": "Gorgonslayer Mastery",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 7
     },
     {
       "ID": "Buy_All_Character_Deals",
@@ -72,7 +72,7 @@
       "Name": "Built for adventure",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 7
     },
     {
       "ID": "Buy_All_Kyuli_Character_Deals",
@@ -80,7 +80,7 @@
       "Name": "Rogue Mastery",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 9
     },
     {
       "ID": "Buy_All_Zeek_Character_Deals",
@@ -88,7 +88,7 @@
       "Name": "Collector Mastery",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 7
     },
     {
       "ID": "Collect_10000_Orbs",
@@ -96,7 +96,7 @@
       "Name": "Orb Gatherer",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1612
+      "UsersEstimate": 16
     },
     {
       "ID": "Collect_50000_Orbs",
@@ -104,7 +104,7 @@
       "Name": "Orb Collector",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 15
     },
     {
       "ID": "Complete_Bestiary_100",
@@ -112,7 +112,7 @@
       "Name": "Destoy all monsters!",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 676
+      "UsersEstimate": 7
     },
     {
       "ID": "Complete_Bestiary_20",
@@ -120,7 +120,7 @@
       "Name": "Beast Quest",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 17
     },
     {
       "ID": "Complete_Bestiary_50",
@@ -128,7 +128,7 @@
       "Name": "Beast Hunter",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1612
+      "UsersEstimate": 16
     },
     {
       "ID": "Complete_Bestiary_80",
@@ -136,7 +136,7 @@
       "Name": "Beast Knight",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 1404
+      "UsersEstimate": 14
     },
     {
       "ID": "Defeat_1000_Enemies",
@@ -144,7 +144,7 @@
       "Name": "Monster Hunt",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 17
     },
     {
       "ID": "Defeat_5000_Enemies",
@@ -152,7 +152,7 @@
       "Name": "Slay the Monster!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 8
     },
     {
       "ID": "Defeat_Gemini",
@@ -160,7 +160,7 @@
       "Name": "Twin slayer!",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 14
     },
     {
       "ID": "Defeat_Medusa",
@@ -168,7 +168,7 @@
       "Name": "Snakehead!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 15
     },
     {
       "ID": "Defeat_Solaria",
@@ -176,7 +176,7 @@
       "Name": "Unmasked!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 15
     },
     {
       "ID": "Defeat_Tauros",
@@ -184,7 +184,7 @@
       "Name": "Horn prize!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2392
+      "UsersEstimate": 24
     },
     {
       "ID": "Defeat_Volantis",
@@ -192,7 +192,7 @@
       "Name": "Space worm!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1612
+      "UsersEstimate": 16
     },
     {
       "ID": "Find_Secret_Ending1",
@@ -200,7 +200,7 @@
       "Name": "Fly, you fool!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 15
     },
     {
       "ID": "Get_100_Item_Completion",
@@ -208,7 +208,7 @@
       "Name": "Relic Collector",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 1300
+      "UsersEstimate": 13
     },
     {
       "ID": "Get_100_Map_Completion",
@@ -216,7 +216,7 @@
       "Name": "Cartographer",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 1300
+      "UsersEstimate": 13
     },
     {
       "ID": "Unlock_All_Secrets",
@@ -224,7 +224,7 @@
       "Name": "True Titan",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 208
+      "UsersEstimate": 2
     },
     {
       "ID": "Unlock_Bram",
@@ -232,7 +232,7 @@
       "Name": "Mercenary!",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 14
     },
     {
       "ID": "Unlock_Zeek",
@@ -240,7 +240,7 @@
       "Name": "Loot, loot!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1508
+      "UsersEstimate": 15
     }
   ],
   "Tags": [],
@@ -261,13 +261,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:24:25.6299194+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:37.8911767+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 52,
-  "LastUpdate_Achievements": "2023-05-04T22:24:25.6299467+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:36.6372815+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:37.8911939+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:17.0727296+00:00",
   "AchievementSets": [
     {
       "ID": "4f0g260",
@@ -282,8 +282,8 @@
   "FirstSeen": "2022-07-22T20:18:20.7821607+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_Progress": 271,
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00"

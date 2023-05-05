@@ -16,7 +16,7 @@
       "Name": "Body Blast Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "BodySnatcherChampion",
@@ -32,7 +32,7 @@
       "Name": "Body Spawn Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "BodySwapper",
@@ -40,7 +40,7 @@
       "Name": "Body Swapper",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ColdSkinMaster",
@@ -56,7 +56,7 @@
       "Name": "Dash Mastery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "DeathDefeated",
@@ -64,7 +64,7 @@
       "Name": "Death Defeated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "DecayDefeated",
@@ -72,7 +72,7 @@
       "Name": "Decay Defeated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "DemonButcher",
@@ -80,7 +80,7 @@
       "Name": "Demon Butcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "DemonKingDefeated",
@@ -104,7 +104,7 @@
       "Name": "Earth Shatter Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ElectricTrapMaster",
@@ -128,7 +128,7 @@
       "Name": "Elemental Mastery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "ElementalRouletteChampion",
@@ -184,7 +184,7 @@
       "Name": "Famine Defeated",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 493
+      "UsersEstimate": 5
     },
     {
       "ID": "FireBlastMaster",
@@ -192,7 +192,7 @@
       "Name": "Fire Blast Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "FireTornadoMaster",
@@ -248,7 +248,7 @@
       "Name": "Gold Collector",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 4
     },
     {
       "ID": "GroupFightMastery",
@@ -256,7 +256,7 @@
       "Name": "Group Fight Mastery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "HardModeChampion",
@@ -280,7 +280,7 @@
       "Name": "Land Mine Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "Liberator",
@@ -288,7 +288,7 @@
       "Name": "Liberator",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 7
     },
     {
       "ID": "LoneWolfChampion",
@@ -312,7 +312,7 @@
       "Name": "Master Assassin",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 2
     },
     {
       "ID": "MasterButcher",
@@ -328,7 +328,7 @@
       "Name": "Parry Mastery",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 4
     },
     {
       "ID": "Perceptive",
@@ -336,7 +336,7 @@
       "Name": "Perceptive",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 5
     },
     {
       "ID": "PossessMastery",
@@ -344,7 +344,7 @@
       "Name": "Possess Mastery",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 3
     },
     {
       "ID": "ProteciveDomeMaster",
@@ -360,7 +360,7 @@
       "Name": "Reanimate Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "RogueSpirit",
@@ -400,7 +400,7 @@
       "Name": "Silent Assassin",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 8
     },
     {
       "ID": "SkilfulChampion",
@@ -416,7 +416,7 @@
       "Name": "Skill Adept",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "SkillFinder",
@@ -464,7 +464,7 @@
       "Name": "Token Collector",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "VanishMaster",
@@ -472,7 +472,7 @@
       "Name": "Vanish Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     },
     {
       "ID": "WarDefeated",
@@ -480,7 +480,7 @@
       "Name": "War Defeated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -501,13 +501,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-04T22:24:22.0717302+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:33.752795+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-04T22:24:22.0718264+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:30.0783601+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:33.7528291+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:07.6983906+00:00",
   "AchievementSets": [
     {
       "ID": "b42i7am",
@@ -522,8 +522,8 @@
   "FirstSeen": "2023-03-16T13:13:35.7951452+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00"

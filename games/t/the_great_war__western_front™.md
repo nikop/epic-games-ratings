@@ -3,12 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 58.00% | ~4,408 |
-| La Der des Ders | 13.00% | ~988 |
-| Das Ist Endgültig! | 13.00% | ~988 |
-| From the Pages of History | 5.00% | ~380 |
-| The Chemists' War | 5.00% | ~380 |
-| War with Friends | 1.00% | ~76 |
+| Earth Shattering | 58.00% | ~44 |
+| La Der des Ders | 13.00% | ~10 |
+| Das Ist Endgültig! | 13.00% | ~10 |
+| From the Pages of History | 5.00% | ~4 |
+| The Chemists' War | 5.00% | ~4 |
+| War with Friends | 1.00% | ~1 |
 | Eventful | 0.00% | ~0 |
 | A Student of History | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |

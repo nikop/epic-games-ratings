@@ -1,6 +1,6 @@
 # Othercide
 [View Rawdata](../../db/o/othercide.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 40  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,6 +1,6 @@
 # Sackboy™: A Big Adventure
 [View Rawdata](../../db/s/sackboy™__a_big_adventure.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

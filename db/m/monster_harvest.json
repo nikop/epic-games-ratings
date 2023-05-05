@@ -8,7 +8,7 @@
       "Name": "Blue Goo",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 6789
+      "UsersEstimate": 68
     },
     {
       "ID": "FURNITURE_IN_THE_FOREST",
@@ -16,7 +16,7 @@
       "Name": "Furniture in the Forest!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 4599
+      "UsersEstimate": 46
     },
     {
       "ID": "GREEN_SLIME_SHEEN",
@@ -24,7 +24,7 @@
       "Name": "Green Sheen",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 10074
+      "UsersEstimate": 101
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -32,7 +32,7 @@
       "Name": "Let\u0027s Get Fishy!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 4599
+      "UsersEstimate": 46
     },
     {
       "ID": "MY_FIRST_PLANIMAL",
@@ -40,7 +40,7 @@
       "Name": "My first Planimal!",
       "Percentage": 71,
       "XP": 100,
-      "UsersEstimate": 15549
+      "UsersEstimate": 155
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -48,7 +48,7 @@
       "Name": "Red Slime Time",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 14892
+      "UsersEstimate": 149
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -56,7 +56,7 @@
       "Name": "Save the Slimes!",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2409
+      "UsersEstimate": 24
     },
     {
       "ID": "SO_LONG_SLIME_CO",
@@ -64,7 +64,7 @@
       "Name": "So long, Slime Co!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 657
+      "UsersEstimate": 7
     },
     {
       "ID": "TO_THE_REC_CENTER",
@@ -72,7 +72,7 @@
       "Name": "To the Rec Center!",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 11169
+      "UsersEstimate": 112
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -80,7 +80,7 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 21243
+      "UsersEstimate": 212
     }
   ],
   "Tags": [],
@@ -101,13 +101,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-04T22:24:32.9745623+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:46.688069+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 6,
   "EOS_Progressed": 219,
-  "LastUpdate_Achievements": "2023-05-04T22:24:32.9745724+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:33.2086491+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:46.6880763+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:12.4563964+00:00",
   "AchievementSets": [
     {
       "ID": "ca3djk0",
@@ -122,9 +122,9 @@
   "FirstSeen": "2022-11-05T01:02:08.2350013+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00"
 }

@@ -4,64 +4,64 @@ Rating: 4.47 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~7,680,312 |
-| Predator I | 21.00% | ~5,202,792 |
-| A week in Century City | 10.00% | ~2,477,520 |
-| Fixer I | 9.00% | ~2,229,768 |
-| The Wait | 7.00% | ~1,734,264 |
-| Green thumb I | 6.00% | ~1,486,512 |
-| Well-oiled machine | 5.00% | ~1,238,760 |
-| Saver I | 5.00% | ~1,238,760 |
-| Cleaning Company | 5.00% | ~1,238,760 |
-| The Ascent | 4.00% | ~991,008 |
-| Pacifist | 4.00% | ~991,008 |
-| Vandalism | 4.00% | ~991,008 |
-| Capitalist I | 4.00% | ~991,008 |
-| Adrenaline | 3.00% | ~743,256 |
-| By a hair | 2.00% | ~495,504 |
-| Fixer II | 2.00% | ~495,504 |
-| It took a while | 2.00% | ~495,504 |
-| Samurai | 2.00% | ~495,504 |
-| I Left You a Present | 2.00% | ~495,504 |
-| Predator II | 2.00% | ~495,504 |
-| Truffle Dog | 2.00% | ~495,504 |
-| A month in Century City | 2.00% | ~495,504 |
-| The Strengthening | 1.00% | ~247,752 |
-| Saver II | 1.00% | ~247,752 |
-| It's the last one, I swear | 1.00% | ~247,752 |
-| Botanist | 1.00% | ~247,752 |
-| Green thumb II | 1.00% | ~247,752 |
-| Don't try this at home | 1.00% | ~247,752 |
-| Bricklayer | 1.00% | ~247,752 |
-| Run the Economy | 1.00% | ~247,752 |
-| Committed Relationship | 0.80% | ~198,202 |
-| Number 1 | 0.70% | ~173,426 |
-| Interior designer | 0.60% | ~148,651 |
-| The Gamble | 0.50% | ~123,876 |
-| The Descent | 0.50% | ~123,876 |
-| A major purchase | 0.50% | ~123,876 |
-| Expert Hunter | 0.40% | ~99,101 |
-| Fungi hunter | 0.40% | ~99,101 |
-| Arms dealer | 0.30% | ~74,326 |
-| Predator III | 0.30% | ~74,326 |
-| AML questionnaire | 0.30% | ~74,326 |
-| Fixer III | 0.20% | ~49,550 |
-| Homerun | 0.20% | ~49,550 |
-| A season in Century City | 0.20% | ~49,550 |
-| Heartbreaker | 0.20% | ~49,550 |
-| Saver III | 0.10% | ~24,775 |
-| Collector | 0.10% | ~24,775 |
-| Mansion | 0.10% | ~24,775 |
-| Workhorse | 0.10% | ~24,775 |
-| Green thumb III | 0.10% | ~24,775 |
-| Plantation | 0.10% | ~24,775 |
-| Reminescence | 0.10% | ~24,775 |
-| Beloved | 0.10% | ~24,775 |
-| Capitalist II | 0.10% | ~24,775 |
-| Capitalist III | 0.10% | ~24,775 |
-| Hell Is You | 0.10% | ~24,775 |
+| Survivor | 31.00% | ~76,810 |
+| Predator I | 21.00% | ~52,033 |
+| A week in Century City | 10.00% | ~24,777 |
+| Fixer I | 9.00% | ~22,300 |
+| The Wait | 7.00% | ~17,344 |
+| Green thumb I | 6.00% | ~14,866 |
+| Well-oiled machine | 5.00% | ~12,389 |
+| Saver I | 5.00% | ~12,389 |
+| Cleaning Company | 5.00% | ~12,389 |
+| The Ascent | 4.00% | ~9,911 |
+| Pacifist | 4.00% | ~9,911 |
+| Vandalism | 4.00% | ~9,911 |
+| Capitalist I | 4.00% | ~9,911 |
+| Adrenaline | 3.00% | ~7,433 |
+| By a hair | 2.00% | ~4,955 |
+| Fixer II | 2.00% | ~4,955 |
+| It took a while | 2.00% | ~4,955 |
+| Samurai | 2.00% | ~4,955 |
+| I Left You a Present | 2.00% | ~4,955 |
+| Predator II | 2.00% | ~4,955 |
+| Truffle Dog | 2.00% | ~4,955 |
+| A month in Century City | 2.00% | ~4,955 |
+| The Strengthening | 1.00% | ~2,478 |
+| Saver II | 1.00% | ~2,478 |
+| It's the last one, I swear | 1.00% | ~2,478 |
+| Botanist | 1.00% | ~2,478 |
+| Green thumb II | 1.00% | ~2,478 |
+| Don't try this at home | 1.00% | ~2,478 |
+| Bricklayer | 1.00% | ~2,478 |
+| Run the Economy | 1.00% | ~2,478 |
+| Committed Relationship | 0.80% | ~1,982 |
+| Number 1 | 0.70% | ~1,734 |
+| Interior designer | 0.60% | ~1,487 |
+| The Gamble | 0.50% | ~1,239 |
+| The Descent | 0.50% | ~1,239 |
+| A major purchase | 0.50% | ~1,239 |
+| Expert Hunter | 0.40% | ~991 |
+| Fungi hunter | 0.40% | ~991 |
+| Arms dealer | 0.30% | ~743 |
+| Predator III | 0.30% | ~743 |
+| AML questionnaire | 0.30% | ~743 |
+| Fixer III | 0.20% | ~496 |
+| Homerun | 0.20% | ~496 |
+| A season in Century City | 0.20% | ~496 |
+| Heartbreaker | 0.20% | ~496 |
+| Saver III | 0.10% | ~248 |
+| Collector | 0.10% | ~248 |
+| Mansion | 0.10% | ~248 |
+| Workhorse | 0.10% | ~248 |
+| Green thumb III | 0.10% | ~248 |
+| Plantation | 0.10% | ~248 |
+| Reminescence | 0.10% | ~248 |
+| Beloved | 0.10% | ~248 |
+| Capitalist II | 0.10% | ~248 |
+| Capitalist III | 0.10% | ~248 |
+| Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,752 (Ranked 39)  
+Progressed: 247,774 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,8 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 247,493 | 0 |
 | 2023-05-02 | 247,587 | 0 |
 | 2023-05-03 | 247,672 | 1 |
-| 2023-05-04 | 247,752 | 1 |
+| 2023-05-04 | 247,753 | 1 |
+| 2023-05-05 | 247,774 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

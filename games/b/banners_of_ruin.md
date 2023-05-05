@@ -1,6 +1,6 @@
 # Banners of Ruin
 [View Rawdata](../../db/b/banners_of_ruin.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -5,33 +5,33 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~351,568 |
-| A Grove Replanted | 53.00% | ~332,734 |
-| Fields Watered | 41.00% | ~257,398 |
-| Seekers Found | 41.00% | ~257,398 |
-| Settling the Skies | 41.00% | ~257,398 |
-| Wind Powered | 40.00% | ~251,120 |
-| It Takes a Village | 34.00% | ~213,452 |
-| On the Town | 28.00% | ~175,784 |
-| Daylight Found | 26.00% | ~163,228 |
-| Irons Scorched | 25.00% | ~156,950 |
-| Islands Connected | 25.00% | ~156,950 |
-| Harp Tuned | 23.00% | ~144,394 |
-| Pyre Ignited | 23.00% | ~144,394 |
-| Travelers Returned | 23.00% | ~144,394 |
-| Hopes Hoisted | 22.00% | ~138,116 |
-| Knowledge Shared | 20.00% | ~125,560 |
-| Relic Finder | 20.00% | ~125,560 |
-| Worthy of the Title | 19.00% | ~119,282 |
-| A Peaceful Respite | 14.00% | ~87,892 |
-| A Learned Scholar | 13.00% | ~81,614 |
-| Prophecy Fulfilled | 13.00% | ~81,614 |
-| A Wanderer’s Guide | 11.00% | ~69,058 |
-| Knowledge Seeker | 7.00% | ~43,946 |
-| The Cycle Continues | 3.00% | ~18,834 |
-| Glowing Waters | 2.00% | ~12,556 |
-| Sparkling Alloys | 2.00% | ~12,556 |
-| A True Challenge | 2.00% | ~12,556 |
+| A Small Community | 56.00% | ~3,516 |
+| A Grove Replanted | 53.00% | ~3,327 |
+| Fields Watered | 41.00% | ~2,574 |
+| Seekers Found | 41.00% | ~2,574 |
+| Settling the Skies | 41.00% | ~2,574 |
+| Wind Powered | 40.00% | ~2,511 |
+| It Takes a Village | 34.00% | ~2,135 |
+| On the Town | 28.00% | ~1,758 |
+| Daylight Found | 26.00% | ~1,632 |
+| Irons Scorched | 25.00% | ~1,570 |
+| Islands Connected | 25.00% | ~1,570 |
+| Harp Tuned | 23.00% | ~1,444 |
+| Pyre Ignited | 23.00% | ~1,444 |
+| Travelers Returned | 23.00% | ~1,444 |
+| Hopes Hoisted | 22.00% | ~1,381 |
+| Knowledge Shared | 20.00% | ~1,256 |
+| Relic Finder | 20.00% | ~1,256 |
+| Worthy of the Title | 19.00% | ~1,193 |
+| A Peaceful Respite | 14.00% | ~879 |
+| A Learned Scholar | 13.00% | ~816 |
+| Prophecy Fulfilled | 13.00% | ~816 |
+| A Wanderer’s Guide | 11.00% | ~691 |
+| Knowledge Seeker | 7.00% | ~439 |
+| The Cycle Continues | 3.00% | ~188 |
+| Glowing Waters | 2.00% | ~126 |
+| Sparkling Alloys | 2.00% | ~126 |
+| A True Challenge | 2.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,278 (Ranked 112)  
 Completed: 50 (0.80%) (Ranked 86)  

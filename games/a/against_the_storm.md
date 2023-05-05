@@ -1,66 +1,66 @@
 # Against the Storm
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  
-Sum: 3,012 (Ranked 148)  
-Diff (max vs sum): 43  
+Sum: 3,012 (Ranked 149)  
+Diff (max vs sum): 42  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Marshlands | 0.60% | ~8,782 |
-| No Deaths | 0.60% | ~8,782 |
-| First Real Expedition | 0.50% | ~7,318 |
-| Overcoming Difficulty | 0.50% | ~7,318 |
-| Fertile Meadows | 0.50% | ~7,318 |
-| Coral Forest | 0.50% | ~7,318 |
-| The Scarlet Orchard | 0.50% | ~7,318 |
-| Taking Action | 0.50% | ~7,318 |
-| Like a Machine | 0.50% | ~7,318 |
-| Bandit Camp | 0.40% | ~5,855 |
-| Barren Lands | 0.40% | ~5,855 |
-| Trade Baron | 0.40% | ~5,855 |
-| Serving Ale | 0.30% | ~4,391 |
-| Refinery | 0.30% | ~4,391 |
-| Homesick | 0.30% | ~4,391 |
-| Ancient Battleground | 0.30% | ~4,391 |
-| Sparkdew Crystals | 0.30% | ~4,391 |
-| Dangerous Lands | 0.30% | ~4,391 |
-| Haunted Forest | 0.30% | ~4,391 |
-| Levitating Monument | 0.30% | ~4,391 |
-| Flooded Mines | 0.30% | ~4,391 |
-| Monastery of the Holy Flame | 0.30% | ~4,391 |
-| Royal Outpost | 0.30% | ~4,391 |
-| Lost Colonies | 0.30% | ~4,391 |
-| Forsaken Gods Temple | 0.30% | ~4,391 |
-| Corrosive Torrent | 0.30% | ~4,391 |
-| Watchtower | 0.30% | ~4,391 |
-| Cursed Lands | 0.30% | ~4,391 |
-| A Real Challenge | 0.30% | ~4,391 |
-| Defying the Crown | 0.30% | ~4,391 |
-| Against All Odds | 0.20% | ~2,927 |
-| Ruined Armory | 0.20% | ~2,927 |
-| Fishmen Ritual Site | 0.20% | ~2,927 |
-| Forbidden Lands | 0.20% | ~2,927 |
-| Statue of the Forefathers | 0.20% | ~2,927 |
-| Into the Forest | 0.20% | ~2,927 |
-| Feeding The People | 0.10% | ~1,464 |
-| Paradise | 0.10% | ~1,464 |
-| Higher Needs | 0.10% | ~1,464 |
-| Beaver Utopia | 0.10% | ~1,464 |
-| Harpy Utopia | 0.10% | ~1,464 |
-| Human Utopia | 0.10% | ~1,464 |
-| Lizard Utopia | 0.10% | ~1,464 |
-| Efficient Explorer | 0.10% | ~1,464 |
-| Prestigious Expedition | 0.10% | ~1,464 |
-| The Queen's Chosen | 0.10% | ~1,464 |
-| Treasure | 0.10% | ~1,464 |
-| Blood Flower Farmer | 0.10% | ~1,464 |
-| Victory through Prosperity | 0.10% | ~1,464 |
-| Ruins | 0.10% | ~1,464 |
+| Coral Forest | 0.60% | ~88 |
+| The Marshlands | 0.60% | ~88 |
+| No Deaths | 0.60% | ~88 |
+| First Real Expedition | 0.50% | ~73 |
+| Overcoming Difficulty | 0.50% | ~73 |
+| Fertile Meadows | 0.50% | ~73 |
+| The Scarlet Orchard | 0.50% | ~73 |
+| Taking Action | 0.50% | ~73 |
+| Like a Machine | 0.50% | ~73 |
+| Bandit Camp | 0.40% | ~59 |
+| Barren Lands | 0.40% | ~59 |
+| Cursed Lands | 0.40% | ~59 |
+| Trade Baron | 0.40% | ~59 |
+| Serving Ale | 0.30% | ~44 |
+| Refinery | 0.30% | ~44 |
+| Homesick | 0.30% | ~44 |
+| Ancient Battleground | 0.30% | ~44 |
+| Sparkdew Crystals | 0.30% | ~44 |
+| Dangerous Lands | 0.30% | ~44 |
+| Haunted Forest | 0.30% | ~44 |
+| Levitating Monument | 0.30% | ~44 |
+| Flooded Mines | 0.30% | ~44 |
+| Monastery of the Holy Flame | 0.30% | ~44 |
+| Royal Outpost | 0.30% | ~44 |
+| Lost Colonies | 0.30% | ~44 |
+| Forsaken Gods Temple | 0.30% | ~44 |
+| Corrosive Torrent | 0.30% | ~44 |
+| Watchtower | 0.30% | ~44 |
+| A Real Challenge | 0.30% | ~44 |
+| Defying the Crown | 0.30% | ~44 |
+| Into the Forest | 0.30% | ~44 |
+| Against All Odds | 0.20% | ~29 |
+| Ruined Armory | 0.20% | ~29 |
+| Fishmen Ritual Site | 0.20% | ~29 |
+| Forbidden Lands | 0.20% | ~29 |
+| Statue of the Forefathers | 0.20% | ~29 |
+| Blood Flower Farmer | 0.20% | ~29 |
+| Feeding The People | 0.10% | ~15 |
+| Paradise | 0.10% | ~15 |
+| Higher Needs | 0.10% | ~15 |
+| Beaver Utopia | 0.10% | ~15 |
+| Harpy Utopia | 0.10% | ~15 |
+| Human Utopia | 0.10% | ~15 |
+| Lizard Utopia | 0.10% | ~15 |
+| Efficient Explorer | 0.10% | ~15 |
+| Prestigious Expedition | 0.10% | ~15 |
+| The Queen's Chosen | 0.10% | ~15 |
+| Treasure | 0.10% | ~15 |
+| Victory through Prosperity | 0.10% | ~15 |
+| Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,637 (Ranked 97)  
+Progressed: 14,642 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-02 | 14,612 | 30 |
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
+| 2023-05-05 | 14,642 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

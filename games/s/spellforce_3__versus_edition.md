@@ -1,6 +1,6 @@
 # SpellForce 3: Versus Edition
 [View Rawdata](../../db/s/spellforce_3__versus_edition.json)  
-Rating: 3.77 (Ranked 906)  
+Rating: 3.77 (Ranked 907)  
 Number of Ratings: 66  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

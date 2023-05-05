@@ -8,7 +8,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 757154
+      "UsersEstimate": 7572
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -16,7 +16,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10600149
+      "UsersEstimate": 106007
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -24,7 +24,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3028614
+      "UsersEstimate": 30288
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -32,7 +32,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 757154
+      "UsersEstimate": 7572
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -40,7 +40,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4542921
+      "UsersEstimate": 45431
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -48,7 +48,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 908584
+      "UsersEstimate": 9086
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -56,7 +56,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 13628763
+      "UsersEstimate": 136294
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -64,7 +64,7 @@
       "Name": "Hoon Airlines",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1514307
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACH_INSANE_SKILLS",
@@ -72,7 +72,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 1060015
+      "UsersEstimate": 10601
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -80,7 +80,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3028614
+      "UsersEstimate": 30288
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -88,7 +88,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 4542921
+      "UsersEstimate": 45431
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -96,7 +96,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 3028614
+      "UsersEstimate": 30288
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -104,7 +104,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 15143070
+      "UsersEstimate": 151438
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -112,7 +112,7 @@
       "Name": "Midnight Master",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 1514307
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -120,7 +120,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 12114456
+      "UsersEstimate": 121150
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -128,7 +128,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1211446
+      "UsersEstimate": 12115
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -136,7 +136,7 @@
       "Name": "Spin Doctor",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1514307
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -144,7 +144,7 @@
       "Name": "The Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 151431
+      "UsersEstimate": 1514
     },
     {
       "ID": "ACH_THE_LONG_DRIFT",
@@ -152,7 +152,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7571535
+      "UsersEstimate": 75719
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -160,7 +160,7 @@
       "Name": "Washing Machine",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 454292
+      "UsersEstimate": 4543
     }
   ],
   "Tags": [],
@@ -1269,6 +1269,66 @@
       "Time": "2023-05-04T22:24:55.8230082+00:00",
       "NumProgressed": 1514307,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-04T22:39:45.4999599+00:00",
+      "NumProgressed": 1514310,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-04T23:05:04.1264056+00:00",
+      "NumProgressed": 1514315,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T00:05:27.5291527+00:00",
+      "NumProgressed": 1514326,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T01:59:00.8068205+00:00",
+      "NumProgressed": 1514340,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T02:32:25.3855949+00:00",
+      "NumProgressed": 1514343,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T03:05:44.4084203+00:00",
+      "NumProgressed": 1514346,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T04:06:38.9265656+00:00",
+      "NumProgressed": 1514352,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T05:05:19.1919806+00:00",
+      "NumProgressed": 1514357,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T06:05:49.9074875+00:00",
+      "NumProgressed": 1514360,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T07:05:49.4780968+00:00",
+      "NumProgressed": 1514366,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T08:06:05.8364091+00:00",
+      "NumProgressed": 1514375,
+      "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T09:06:12.6672439+00:00",
+      "NumProgressed": 1514380,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1668,18 +1728,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-04T22:24:55.8230076+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:12.6672435+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1529,
+  "EOS_NewPlayers": 1517,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514307,
-  "LastUpdate_Achievements": "2023-05-04T22:24:55.8230405+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:03.6718729+00:00",
+  "EOS_Progressed": 1514380,
+  "LastUpdate_Achievements": "2023-05-05T09:06:12.6672605+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:10.9109303+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514307,
+      "Progressed": 1514380,
       "Completed": 597
     }
   ],
@@ -1695,7 +1755,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 650,
   "Rating": 4.41,
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00"
 }

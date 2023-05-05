@@ -1,6 +1,6 @@
 # Blair Witch
 [View Rawdata](../../db/b/blair_witch.json)  
-Rating: 4.13 (Ranked 844)  
+Rating: 4.13 (Ranked 845)  
 Number of Ratings: 635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

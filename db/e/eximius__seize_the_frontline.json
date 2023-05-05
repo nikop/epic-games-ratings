@@ -8,7 +8,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 1465080
+      "UsersEstimate": 14655
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -16,7 +16,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 13002585
+      "UsersEstimate": 130064
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24,7 +24,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 915675
+      "UsersEstimate": 9159
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -32,7 +32,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 549405
+      "UsersEstimate": 5496
     },
     {
       "ID": "ACH_INITIATION",
@@ -40,7 +40,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3296430
+      "UsersEstimate": 32974
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -48,7 +48,7 @@
       "Name": "Not Afraid of the Big Bad Wolf",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 18314
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_TOTAL_DESTRUCTION",
@@ -56,7 +56,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 183135
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -64,7 +64,7 @@
       "Name": "Many More to Come",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18314
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_WIN_10_ONLINE_GAME",
@@ -72,7 +72,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 183135
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -80,7 +80,7 @@
       "Name": "We shall never Surrender!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 36627
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_WIN_3_ONLINE_GAME",
@@ -88,7 +88,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 915675
+      "UsersEstimate": 9159
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -96,7 +96,7 @@
       "Name": "Halfway There",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 36627
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_WIN_90_MAP_CONTROL",
@@ -104,7 +104,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 91568
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -112,7 +112,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 366270
+      "UsersEstimate": 3664
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -120,7 +120,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 183135
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -128,7 +128,7 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 915675
+      "UsersEstimate": 9159
     }
   ],
   "Tags": [],
@@ -1217,6 +1217,46 @@
       "Time": "2023-05-04T22:06:48.8784947+00:00",
       "NumProgressed": 183135,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T00:05:21.7660554+00:00",
+      "NumProgressed": 183137,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T01:58:54.6337766+00:00",
+      "NumProgressed": 183149,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T04:06:31.5217201+00:00",
+      "NumProgressed": 183155,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T05:05:13.4576658+00:00",
+      "NumProgressed": 183159,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T06:05:42.5630953+00:00",
+      "NumProgressed": 183169,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T07:05:41.9741458+00:00",
+      "NumProgressed": 183174,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T08:05:58.7454106+00:00",
+      "NumProgressed": 183182,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T09:06:05.5675225+00:00",
+      "NumProgressed": 183189,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1417,18 +1457,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:24:50.1615899+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:05.567522+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1253,
+  "EOS_NewPlayers": 1262,
   "EOS_Completed": 4,
-  "EOS_Progressed": 183135,
-  "LastUpdate_Achievements": "2023-05-04T22:24:50.1616188+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:45.4703205+00:00",
+  "EOS_Progressed": 183189,
+  "LastUpdate_Achievements": "2023-05-05T09:06:05.5675367+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:47.5445762+00:00",
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183135,
+      "Progressed": 183189,
       "Completed": 4
     }
   ],
@@ -1438,7 +1478,7 @@
   "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 49,

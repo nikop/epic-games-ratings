@@ -1,6 +1,6 @@
 # Necromunda: Hired Gun
 [View Rawdata](../../db/n/necromunda__hired_gun.json)  
-Rating: 4.10 (Ranked 850)  
+Rating: 4.10 (Ranked 852)  
 Number of Ratings: 112  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

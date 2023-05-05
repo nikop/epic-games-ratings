@@ -3,20 +3,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Monster of Moonglow | 1.00% | ~377 |
-| Flying Tackle | 1.00% | ~377 |
-| Eternal Tempest | 0.80% | ~302 |
-| An Ancient Feud | 0.80% | ~302 |
-| Selfish Shellfish | 0.80% | ~302 |
-| They Can Change | 0.50% | ~188 |
-| The Art of Conversation | 0.50% | ~188 |
-| Wise and Floofy | 0.50% | ~188 |
-| The Heart of Moonglow | 0.30% | ~113 |
-| Aquatic Expansion | 0.30% | ~113 |
-| Ocean Wings | 0.30% | ~113 |
-| Four-Legged Friends | 0.30% | ~113 |
-| Then Peel Me A Grape | 0.30% | ~113 |
-| Worth Your While | 0.30% | ~113 |
+| The Monster of Moonglow | 1.00% | ~4 |
+| Flying Tackle | 1.00% | ~4 |
+| Eternal Tempest | 0.80% | ~3 |
+| An Ancient Feud | 0.80% | ~3 |
+| Selfish Shellfish | 0.80% | ~3 |
+| They Can Change | 0.50% | ~2 |
+| The Art of Conversation | 0.50% | ~2 |
+| Wise and Floofy | 0.50% | ~2 |
+| The Heart of Moonglow | 0.30% | ~1 |
+| Aquatic Expansion | 0.30% | ~1 |
+| Ocean Wings | 0.30% | ~1 |
+| Four-Legged Friends | 0.30% | ~1 |
+| Then Peel Me A Grape | 0.30% | ~1 |
+| Worth Your While | 0.30% | ~1 |
 | The Whole Journey | 0.00% | ~0 |
 | Restored to Prosperity | 0.00% | ~0 |
 | Fishing Season | 0.00% | ~0 |

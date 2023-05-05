@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Took the challenge | 100.00% | ~300 |
+| Took the challenge | 100.00% | ~3 |
 | Temple level completed | 0.00% | ~0 |
 | Mission I finished | 0.00% | ~0 |
 | Mission II finished | 0.00% | ~0 |
@@ -43,8 +43,8 @@
 | Factory level completed | 0.00% | ~0 |
 | Train level completed | 0.00% | ~0 |
 | Bamboo level completed | 0.00% | ~0 |
-| City Completed | -33.30% | ~-100 |
-| First ninja bonus stage beaten | -33.30% | ~-100 |
+| City Completed | -33.30% | ~-1 |
+| First ninja bonus stage beaten | -33.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 191)  

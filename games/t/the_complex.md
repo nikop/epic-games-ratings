@@ -3,26 +3,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 95.00% | ~42,560 |
-| Blast From The Past | 88.00% | ~39,424 |
-| Kamikaze | 66.00% | ~29,568 |
-| The Rebel And The Doctor | 61.00% | ~27,328 |
-| Beat It | 55.00% | ~24,640 |
-| Storage Hunter | 49.00% | ~21,952 |
-| Free Champagne | 48.00% | ~21,504 |
-| Falling For You | 46.00% | ~20,608 |
-| Trust Me For Once | 30.00% | ~13,440 |
-| Lab Rat | 24.00% | ~10,752 |
-| Stalemate | 21.00% | ~9,408 |
-| Kindar Surprise | 19.00% | ~8,512 |
-| MVP - Most Vanishing Person | 15.00% | ~6,720 |
-| Deadly Secret | 14.00% | ~6,272 |
-| Get Out Of This Alive | 11.00% | ~4,928 |
-| The Promise | 10.00% | ~4,480 |
-| People Pleaser | 10.00% | ~4,480 |
-| The Nano Glitches And The Martyr | 8.00% | ~3,584 |
-| Second Chances | 7.00% | ~3,136 |
-| Not A People Person | 5.00% | ~2,240 |
+| Tough Decision | 95.00% | ~426 |
+| Blast From The Past | 88.00% | ~394 |
+| Kamikaze | 66.00% | ~296 |
+| The Rebel And The Doctor | 61.00% | ~273 |
+| Beat It | 55.00% | ~246 |
+| Storage Hunter | 49.00% | ~220 |
+| Free Champagne | 48.00% | ~215 |
+| Falling For You | 46.00% | ~206 |
+| Trust Me For Once | 30.00% | ~134 |
+| Lab Rat | 24.00% | ~108 |
+| Stalemate | 21.00% | ~94 |
+| Kindar Surprise | 19.00% | ~85 |
+| MVP - Most Vanishing Person | 15.00% | ~67 |
+| Deadly Secret | 14.00% | ~63 |
+| Get Out Of This Alive | 11.00% | ~49 |
+| The Promise | 10.00% | ~45 |
+| People Pleaser | 10.00% | ~45 |
+| The Nano Glitches And The Martyr | 8.00% | ~36 |
+| Second Chances | 7.00% | ~31 |
+| Not A People Person | 5.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 448 (Ranked 188)  
 Completed: 16 (3.57%) (Ranked 35)  

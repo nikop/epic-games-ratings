@@ -1,6 +1,6 @@
 # CORRUPTION 2029
 [View Rawdata](../../db/c/corruption_2029.json)  
-Rating: 3.75 (Ranked 907)  
+Rating: 3.75 (Ranked 908)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

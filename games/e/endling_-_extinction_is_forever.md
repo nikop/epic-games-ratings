@@ -3,34 +3,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~37,620 |
-| A Friend in Need | 59.00% | ~23,364 |
-| Surviving | 42.00% | ~16,632 |
-| Never Give Up | 38.00% | ~15,048 |
-| Detox diet | 38.00% | ~15,048 |
-| Tasty | 36.00% | ~14,256 |
-| Lullaby | 32.00% | ~12,672 |
-| You Can Pet The Fox | 29.00% | ~11,484 |
-| Hard Fox Life | 23.00% | ~9,108 |
-| Never Let Down | 23.00% | ~9,108 |
-| Chicken Dinner | 20.00% | ~7,920 |
-| A Barking Fox Doesn't Bite | 19.00% | ~7,524 |
-| Peaceful Instinct | 17.00% | ~6,732 |
-| Maternity | 15.00% | ~5,940 |
-| Barking in The Rain | 15.00% | ~5,940 |
-| Family Reunion | 14.00% | ~5,544 |
-| Never Run Around | 14.00% | ~5,544 |
-| Beyond Words | 14.00% | ~5,544 |
-| Three Little Foxes | 11.00% | ~4,356 |
-| Two Peas in a Pod | 11.00% | ~4,356 |
-| All For One | 11.00% | ~4,356 |
-| Extinction is Forever | 11.00% | ~4,356 |
-| We Are a Family | 9.00% | ~3,564 |
-| For a Better Tomorrow | 4.00% | ~1,584 |
-| Mother Love | 4.00% | ~1,584 |
-| Easter Egg | 3.00% | ~1,188 |
-| Omnivore | 2.00% | ~792 |
-| Endling | 1.00% | ~396 |
+| Home Sweet Home | 95.00% | ~376 |
+| A Friend in Need | 59.00% | ~234 |
+| Surviving | 42.00% | ~166 |
+| Never Give Up | 38.00% | ~150 |
+| Detox diet | 38.00% | ~150 |
+| Tasty | 36.00% | ~143 |
+| Lullaby | 32.00% | ~127 |
+| You Can Pet The Fox | 29.00% | ~115 |
+| Hard Fox Life | 23.00% | ~91 |
+| Never Let Down | 23.00% | ~91 |
+| Chicken Dinner | 20.00% | ~79 |
+| A Barking Fox Doesn't Bite | 19.00% | ~75 |
+| Peaceful Instinct | 17.00% | ~67 |
+| Maternity | 15.00% | ~59 |
+| Barking in The Rain | 15.00% | ~59 |
+| Family Reunion | 14.00% | ~55 |
+| Never Run Around | 14.00% | ~55 |
+| Beyond Words | 14.00% | ~55 |
+| Three Little Foxes | 11.00% | ~44 |
+| Two Peas in a Pod | 11.00% | ~44 |
+| All For One | 11.00% | ~44 |
+| Extinction is Forever | 11.00% | ~44 |
+| We Are a Family | 9.00% | ~36 |
+| For a Better Tomorrow | 4.00% | ~16 |
+| Mother Love | 4.00% | ~16 |
+| Easter Egg | 3.00% | ~12 |
+| Omnivore | 2.00% | ~8 |
+| Endling | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 396 (Ranked 191)  
 Completed: 2 (0.51%) (Ranked 97)  

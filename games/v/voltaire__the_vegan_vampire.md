@@ -3,32 +3,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 99.00% | ~7,425 |
-| Good to grow | 63.00% | ~4,725 |
-| Fashionista | 47.00% | ~3,525 |
-| Graduated | 40.00% | ~3,000 |
-| Irrigation not irritation | 39.00% | ~2,925 |
-| Night Shift | 27.00% | ~2,025 |
-| It's about the journey | 16.00% | ~1,200 |
-| C'who? | 12.00% | ~900 |
-| Shine bright | 12.00% | ~900 |
-| Holy Crops! | 9.00% | ~675 |
-| There be sand in me shorts | 9.00% | ~675 |
-| It gets everywhere | 9.00% | ~675 |
-| Make it rain | 8.00% | ~600 |
-| Do you wanna build a snowboiii? | 7.00% | ~525 |
-| Peaceful skies | 5.00% | ~375 |
-| Groovy! | 5.00% | ~375 |
-| Ay ay yarrr! | 5.00% | ~375 |
-| It's a bug's life | 4.00% | ~300 |
-| Homecoming | 3.00% | ~225 |
-| Who let the pets out? | 3.00% | ~225 |
-| Tururururu! | 3.00% | ~225 |
-| Zap! | 3.00% | ~225 |
-| Veggie Master | 1.00% | ~75 |
-| I am Root! | 1.00% | ~75 |
-| Yeehaw! | 1.00% | ~75 |
-| Yeetus Deletus | 1.00% | ~75 |
+| So it begins | 99.00% | ~74 |
+| Good to grow | 63.00% | ~47 |
+| Fashionista | 47.00% | ~35 |
+| Graduated | 40.00% | ~30 |
+| Irrigation not irritation | 39.00% | ~29 |
+| Night Shift | 27.00% | ~20 |
+| It's about the journey | 16.00% | ~12 |
+| C'who? | 12.00% | ~9 |
+| Shine bright | 12.00% | ~9 |
+| Holy Crops! | 9.00% | ~7 |
+| There be sand in me shorts | 9.00% | ~7 |
+| It gets everywhere | 9.00% | ~7 |
+| Make it rain | 8.00% | ~6 |
+| Do you wanna build a snowboiii? | 7.00% | ~5 |
+| Peaceful skies | 5.00% | ~4 |
+| Groovy! | 5.00% | ~4 |
+| Ay ay yarrr! | 5.00% | ~4 |
+| It's a bug's life | 4.00% | ~3 |
+| Homecoming | 3.00% | ~2 |
+| Who let the pets out? | 3.00% | ~2 |
+| Tururururu! | 3.00% | ~2 |
+| Zap! | 3.00% | ~2 |
+| Veggie Master | 1.00% | ~1 |
+| I am Root! | 1.00% | ~1 |
+| Yeehaw! | 1.00% | ~1 |
+| Yeetus Deletus | 1.00% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |

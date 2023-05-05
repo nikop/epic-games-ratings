@@ -4,36 +4,36 @@ Rating: 4.29 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 25.00% | ~18,350 |
-| Manipulating Fate | 5.00% | ~3,670 |
-| The City | 5.00% | ~3,670 |
-| Full house | 3.00% | ~2,202 |
-| Ascended | 3.00% | ~2,202 |
-| Burn and Pillage | 3.00% | ~2,202 |
-| Greedy | 3.00% | ~2,202 |
-| Hear me out | 3.00% | ~2,202 |
-| Listening to the crowd | 3.00% | ~2,202 |
-| Accepting the Prophecy | 3.00% | ~2,202 |
-| Just Chilling | 2.00% | ~1,468 |
-| Incredible Strength | 2.00% | ~1,468 |
-| The Penitent Ones | 2.00% | ~1,468 |
-| Hidden Secrets | 2.00% | ~1,468 |
-| The Stranded King | 2.00% | ~1,468 |
-| Prophecy Fulfilled | 2.00% | ~1,468 |
-| The great fire | 1.00% | ~734 |
-| The Greedy Ones | 1.00% | ~734 |
-| The First King | 0.80% | ~587 |
-| The Unruly Ones | 0.80% | ~587 |
-| The Council | 0.70% | ~514 |
-| The Mad | 0.50% | ~367 |
-| Like the dream | 0.40% | ~294 |
-| Knowledge is Power | 0.30% | ~220 |
-| Six Faces | 0.10% | ~73 |
-| The Great Winter | 0.10% | ~73 |
-| Charismatic Leader | 0.10% | ~73 |
-| Metropolis | 0.10% | ~73 |
-| It's spreading | 0.10% | ~73 |
-| The Incarnate | 0.10% | ~73 |
+| We made it | 25.00% | ~184 |
+| Manipulating Fate | 5.00% | ~37 |
+| The City | 5.00% | ~37 |
+| Full house | 3.00% | ~22 |
+| Ascended | 3.00% | ~22 |
+| Burn and Pillage | 3.00% | ~22 |
+| Greedy | 3.00% | ~22 |
+| Hear me out | 3.00% | ~22 |
+| Listening to the crowd | 3.00% | ~22 |
+| Accepting the Prophecy | 3.00% | ~22 |
+| Just Chilling | 2.00% | ~15 |
+| Incredible Strength | 2.00% | ~15 |
+| The Penitent Ones | 2.00% | ~15 |
+| Hidden Secrets | 2.00% | ~15 |
+| The Stranded King | 2.00% | ~15 |
+| Prophecy Fulfilled | 2.00% | ~15 |
+| The great fire | 1.00% | ~7 |
+| The Greedy Ones | 1.00% | ~7 |
+| The First King | 0.80% | ~6 |
+| The Unruly Ones | 0.80% | ~6 |
+| The Council | 0.70% | ~5 |
+| The Mad | 0.50% | ~4 |
+| Like the dream | 0.40% | ~3 |
+| Knowledge is Power | 0.30% | ~2 |
+| Six Faces | 0.10% | ~1 |
+| The Great Winter | 0.10% | ~1 |
+| Charismatic Leader | 0.10% | ~1 |
+| Metropolis | 0.10% | ~1 |
+| It's spreading | 0.10% | ~1 |
+| The Incarnate | 0.10% | ~1 |
 | Ice and Fire | 0.00% | ~0 |
 | Red Tape | 0.00% | ~0 |
 | Mad Engineers | 0.00% | ~0 |

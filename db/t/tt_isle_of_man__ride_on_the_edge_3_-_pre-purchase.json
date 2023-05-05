@@ -7,13 +7,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-04T22:24:12.3753675+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:22.1238075+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:24:12.3753969+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:00.4017508+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:22.1238132+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:27.228053+00:00",
   "AchievementSets": [
     {
       "ID": "gagif7",
@@ -23,8 +23,8 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00"

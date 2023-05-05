@@ -8,7 +8,7 @@
       "Name": "Bronze Tunnel Collector",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_coins_tunnelrun_250",
@@ -16,7 +16,7 @@
       "Name": "Silver Tunnel Collector",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_coins_tunnelrun_500",
@@ -24,7 +24,7 @@
       "Name": "Golden Tunnel Collector",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_collect_coins",
@@ -32,7 +32,7 @@
       "Name": "Platinum Tunnel Collector",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_consumables_upgrades",
@@ -56,7 +56,7 @@
       "Name": "Monster Energy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_health_upgrades",
@@ -64,7 +64,7 @@
       "Name": "Max Health",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_quests_acceptor",
@@ -80,7 +80,7 @@
       "Name": "Total Anger",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_quests_depression",
@@ -96,7 +96,7 @@
       "Name": "Total Shock",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_quests_zero",
@@ -112,7 +112,7 @@
       "Name": "Robolimb Ripper",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_savecat",
@@ -136,7 +136,7 @@
       "Name": "Skinner",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1298
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_tunnel_anger_nodamage",
@@ -144,7 +144,7 @@
       "Name": "No Anger Race",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_tunnel_collector_nodamage",
@@ -160,7 +160,7 @@
       "Name": "No Depression Race",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_tunnel_shock_nodamage",
@@ -168,7 +168,7 @@
       "Name": "No Shock Race",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_tunnel_zero_nodamage",
@@ -192,7 +192,7 @@
       "Name": "Deal with Acceptance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_win_anger",
@@ -200,7 +200,7 @@
       "Name": "Deal with Anger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_win_bossrush",
@@ -208,7 +208,7 @@
       "Name": "Boss Rusher",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_win_bossrush_nodamage",
@@ -216,7 +216,7 @@
       "Name": "Flawless Boss Rusher",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_win_bossrush_time_10",
@@ -224,7 +224,7 @@
       "Name": "The Fastest Boss Rusher",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_win_bossrush_time_12",
@@ -232,7 +232,7 @@
       "Name": "Faster Boss Rusher",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_win_bossrush_time_15",
@@ -240,7 +240,7 @@
       "Name": "Fast Boss Rusher",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_win_depression",
@@ -248,7 +248,7 @@
       "Name": "Deal with Depression",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_win_shock",
@@ -256,7 +256,7 @@
       "Name": "Deal with Shock",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_win_tunnelrun",
@@ -264,7 +264,7 @@
       "Name": "Tunnel Runner",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_win_tunnelrun_nodamage",
@@ -280,7 +280,7 @@
       "Name": "Zero to Hero",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     }
   ],
   "Tags": [],
@@ -306,13 +306,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T22:24:21.5737029+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:33.0428589+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 22,
-  "LastUpdate_Achievements": "2023-05-04T22:24:21.5737448+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:27.5184612+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:33.0428806+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:04.6222573+00:00",
   "AchievementSets": [
     {
       "ID": "7flpkel",
@@ -327,8 +327,8 @@
   "FirstSeen": "2023-04-12T09:57:52.0824759+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 290,
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00"

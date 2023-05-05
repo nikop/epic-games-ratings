@@ -3,50 +3,50 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Journey Begins | 75.00% | ~600 |
-| The Boy That Came With The Rain | 50.00% | ~400 |
-| Welcome To The Kabaret | 38.00% | ~304 |
-| I'll Become... A Beast | 25.00% | ~200 |
-| Congkak Hero | 25.00% | ~200 |
-| Congkak Champion | 25.00% | ~200 |
-| An Unheard Song | 25.00% | ~200 |
-| Bookworm | 25.00% | ~200 |
-| Behold, The Nagarimau | 25.00% | ~200 |
-| Clipped Wings | 25.00% | ~200 |
-| Let There Be Light | 25.00% | ~200 |
-| Lady In The Book | 25.00% | ~200 |
-| All Alone With A Curse | 25.00% | ~200 |
-| Strangers You Meet | 13.00% | ~104 |
-| Losing A Small, Good Thing | 13.00% | ~104 |
-| Rebel To God | 13.00% | ~104 |
-| True Potential Unlocked | 13.00% | ~104 |
-| Guli Novice | 13.00% | ~104 |
-| Guli Pro | 13.00% | ~104 |
-| Guli Master | 13.00% | ~104 |
-| Congkak Legend | 13.00% | ~104 |
-| In Service Of Others | 13.00% | ~104 |
-| Expert Service | 13.00% | ~104 |
-| Human Supremacy | 13.00% | ~104 |
-| Equality | 13.00% | ~104 |
-| Face Value | 13.00% | ~104 |
-| Goodbye Dear Friend | 13.00% | ~104 |
-| Uncommitted | 13.00% | ~104 |
-| Thou Art Naive | 13.00% | ~104 |
-| I Like Salty Seawater | 13.00% | ~104 |
-| Under The Sea | 13.00% | ~104 |
-| I Sit On The Beach, Watching The Tide Leave | 13.00% | ~104 |
-| By My Own Hands | 13.00% | ~104 |
-| Self-indulgent | 13.00% | ~104 |
-| Breaking In The Horse | 13.00% | ~104 |
-| Power Of Friendship | 13.00% | ~104 |
-| Squashed Bug | 13.00% | ~104 |
-| Till Death Do We... | 13.00% | ~104 |
-| An End To History | 13.00% | ~104 |
-| For The Greater Good | 13.00% | ~104 |
-| I Am Vengeance | 13.00% | ~104 |
-| Sowing The Seeds of Destruction | 13.00% | ~104 |
-| At The End of The World, It's Just Two of Us | 13.00% | ~104 |
-| The World Is Mine, And I Don't Want It | 13.00% | ~104 |
+| Your Journey Begins | 75.00% | ~6 |
+| The Boy That Came With The Rain | 50.00% | ~4 |
+| Welcome To The Kabaret | 38.00% | ~3 |
+| I'll Become... A Beast | 25.00% | ~2 |
+| Congkak Hero | 25.00% | ~2 |
+| Congkak Champion | 25.00% | ~2 |
+| An Unheard Song | 25.00% | ~2 |
+| Bookworm | 25.00% | ~2 |
+| Behold, The Nagarimau | 25.00% | ~2 |
+| Clipped Wings | 25.00% | ~2 |
+| Let There Be Light | 25.00% | ~2 |
+| Lady In The Book | 25.00% | ~2 |
+| All Alone With A Curse | 25.00% | ~2 |
+| Strangers You Meet | 13.00% | ~1 |
+| Losing A Small, Good Thing | 13.00% | ~1 |
+| Rebel To God | 13.00% | ~1 |
+| True Potential Unlocked | 13.00% | ~1 |
+| Guli Novice | 13.00% | ~1 |
+| Guli Pro | 13.00% | ~1 |
+| Guli Master | 13.00% | ~1 |
+| Congkak Legend | 13.00% | ~1 |
+| In Service Of Others | 13.00% | ~1 |
+| Expert Service | 13.00% | ~1 |
+| Human Supremacy | 13.00% | ~1 |
+| Equality | 13.00% | ~1 |
+| Face Value | 13.00% | ~1 |
+| Goodbye Dear Friend | 13.00% | ~1 |
+| Uncommitted | 13.00% | ~1 |
+| Thou Art Naive | 13.00% | ~1 |
+| I Like Salty Seawater | 13.00% | ~1 |
+| Under The Sea | 13.00% | ~1 |
+| I Sit On The Beach, Watching The Tide Leave | 13.00% | ~1 |
+| By My Own Hands | 13.00% | ~1 |
+| Self-indulgent | 13.00% | ~1 |
+| Breaking In The Horse | 13.00% | ~1 |
+| Power Of Friendship | 13.00% | ~1 |
+| Squashed Bug | 13.00% | ~1 |
+| Till Death Do We... | 13.00% | ~1 |
+| An End To History | 13.00% | ~1 |
+| For The Greater Good | 13.00% | ~1 |
+| I Am Vengeance | 13.00% | ~1 |
+| Sowing The Seeds of Destruction | 13.00% | ~1 |
+| At The End of The World, It's Just Two of Us | 13.00% | ~1 |
+| The World Is Mine, And I Don't Want It | 13.00% | ~1 |
 | Faithful Follower | 0.00% | ~0 |
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |

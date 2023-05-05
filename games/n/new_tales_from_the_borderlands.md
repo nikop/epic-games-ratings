@@ -1,34 +1,34 @@
 # New Tales from the Borderlands
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.07 (Ranked 861)  
+Rating: 4.07 (Ranked 862)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 48.00% | ~162,000 |
-| Totally Intentional | 43.00% | ~145,125 |
-| Each Sold Separately | 36.00% | ~121,500 |
-| We're In | 31.00% | ~104,625 |
-| You're Not Naked | 28.00% | ~94,500 |
-| Tale in the Toilet | 28.00% | ~94,500 |
-| From Zeroes... | 27.00% | ~91,125 |
-| Don't Get Cocky | 26.00% | ~87,750 |
-| Shard Snatchers | 23.00% | ~77,625 |
-| You Rich Now! | 21.00% | ~70,875 |
-| Our Lucky Winner | 20.00% | ~67,500 |
-| You Poor Now! | 19.00% | ~64,125 |
-| You Got the Goods, Kid | 19.00% | ~64,125 |
-| The Shardmenstration | 18.00% | ~60,750 |
-| Those Were the Days... | 18.00% | ~60,750 |
-| ...To Heroes | 17.00% | ~57,375 |
-| Mas, Por Favor | 16.00% | ~54,000 |
-| And Still Champion... | 13.00% | ~43,875 |
-| Super Trusting Friend! | 9.00% | ~30,375 |
-| Bring back the butt! | 4.00% | ~13,500 |
-| Hey, thanks! | 4.00% | ~13,500 |
-| Murderous Mascot Mayhem | 2.00% | ~6,750 |
-| New Business | 0.80% | ~2,700 |
-| Okay, Vain Much? | 0.50% | ~1,688 |
-| Not Dolls. Action Figures! | 0.20% | ~675 |
+| Who Needs Keys? | 48.00% | ~1,620 |
+| Totally Intentional | 43.00% | ~1,451 |
+| Each Sold Separately | 36.00% | ~1,215 |
+| We're In | 31.00% | ~1,046 |
+| You're Not Naked | 28.00% | ~945 |
+| Tale in the Toilet | 28.00% | ~945 |
+| From Zeroes... | 27.00% | ~911 |
+| Don't Get Cocky | 26.00% | ~878 |
+| Shard Snatchers | 23.00% | ~776 |
+| You Rich Now! | 21.00% | ~709 |
+| Our Lucky Winner | 20.00% | ~675 |
+| You Poor Now! | 19.00% | ~641 |
+| You Got the Goods, Kid | 19.00% | ~641 |
+| The Shardmenstration | 18.00% | ~608 |
+| Those Were the Days... | 18.00% | ~608 |
+| ...To Heroes | 17.00% | ~574 |
+| Mas, Por Favor | 16.00% | ~540 |
+| And Still Champion... | 13.00% | ~439 |
+| Super Trusting Friend! | 9.00% | ~304 |
+| Bring back the butt! | 4.00% | ~135 |
+| Hey, thanks! | 4.00% | ~135 |
+| Murderous Mascot Mayhem | 2.00% | ~68 |
+| New Business | 0.80% | ~27 |
+| Okay, Vain Much? | 0.50% | ~17 |
+| Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,375 (Ranked 130)  

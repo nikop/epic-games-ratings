@@ -1,6 +1,6 @@
 # Totally Accurate Battle Simulator
 [View Rawdata](../../db/t/totally_accurate_battle_simulator.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 Number of Ratings: 2,102  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 324  (Ranked 214)  

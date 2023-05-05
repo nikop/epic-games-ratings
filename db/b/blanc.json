@@ -8,7 +8,7 @@
       "Name": "Another ride!",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 540
+      "UsersEstimate": 5
     },
     {
       "ID": "BIG_LEAP",
@@ -16,7 +16,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14392
+      "UsersEstimate": 144
     },
     {
       "ID": "FALLEN_TREE",
@@ -24,7 +24,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 3598
+      "UsersEstimate": 36
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -32,7 +32,7 @@
       "Name": "Helping the little ones",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 16191
+      "UsersEstimate": 162
     },
     {
       "ID": "MOVE_ON",
@@ -40,7 +40,7 @@
       "Name": "The will to move on",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 10794
+      "UsersEstimate": 108
     },
     {
       "ID": "REUNION",
@@ -48,7 +48,7 @@
       "Name": "Reunion",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 10794
+      "UsersEstimate": 108
     },
     {
       "ID": "SLIDERS",
@@ -56,7 +56,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 5397
+      "UsersEstimate": 54
     },
     {
       "ID": "SNOW_RUINS",
@@ -64,7 +64,7 @@
       "Name": "Snow-covered ruins",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 720
+      "UsersEstimate": 7
     },
     {
       "ID": "STARTING_DUO",
@@ -72,7 +72,7 @@
       "Name": "Starting as a duo",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 23387
+      "UsersEstimate": 234
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -80,7 +80,7 @@
       "Name": "Stronger together",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 19789
+      "UsersEstimate": 198
     },
     {
       "ID": "THE_END",
@@ -88,7 +88,7 @@
       "Name": "The end",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8995
+      "UsersEstimate": 90
     },
     {
       "ID": "TRANSMISSION",
@@ -96,7 +96,7 @@
       "Name": "Transmission",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 12593
+      "UsersEstimate": 126
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -104,7 +104,7 @@
       "Name": "Unexpected encounter",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 26985
+      "UsersEstimate": 270
     }
   ],
   "Tags": [],
@@ -260,13 +260,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-04T22:24:43.4552203+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:58.3667769+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 22,
   "EOS_Completed": 4,
   "EOS_Progressed": 1799,
-  "LastUpdate_Achievements": "2023-05-04T22:24:43.455239+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:22.0261265+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:58.3667864+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:16.9008805+00:00",
   "AchievementSets": [
     {
       "ID": "1a29mp6",
@@ -281,8 +281,8 @@
   "FirstSeen": "2023-02-16T02:13:50.7298186+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_Progress": 146,
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00"

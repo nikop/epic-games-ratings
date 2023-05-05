@@ -1,6 +1,6 @@
 # Roller Champions™
 [View Rawdata](../../db/r/roller_champions™.json)  
-Rating: 4.34 (Ranked 721)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 237  (Ranked 240)  

@@ -8,7 +8,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 18834
+      "UsersEstimate": 188
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -16,7 +16,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 163228
+      "UsersEstimate": 1632
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -24,7 +24,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 257398
+      "UsersEstimate": 2574
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -32,7 +32,7 @@
       "Name": "Glowing Waters",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 12556
+      "UsersEstimate": 126
     },
     {
       "ID": "AK_GROVE_REPLANTED",
@@ -40,7 +40,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 332734
+      "UsersEstimate": 3327
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -48,7 +48,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 144394
+      "UsersEstimate": 1444
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -56,7 +56,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 138116
+      "UsersEstimate": 1381
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -64,7 +64,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 156950
+      "UsersEstimate": 1570
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -72,7 +72,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 156950
+      "UsersEstimate": 1570
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -80,7 +80,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 43946
+      "UsersEstimate": 439
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -88,7 +88,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 125560
+      "UsersEstimate": 1256
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -96,7 +96,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 81614
+      "UsersEstimate": 816
     },
     {
       "ID": "AK_ON_TOWN",
@@ -104,7 +104,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 175784
+      "UsersEstimate": 1758
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -112,7 +112,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 87892
+      "UsersEstimate": 879
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -120,7 +120,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 81614
+      "UsersEstimate": 816
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -128,7 +128,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 144394
+      "UsersEstimate": 1444
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -136,7 +136,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 125560
+      "UsersEstimate": 1256
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -144,7 +144,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 257398
+      "UsersEstimate": 2574
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -152,7 +152,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 257398
+      "UsersEstimate": 2574
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -160,7 +160,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 351568
+      "UsersEstimate": 3516
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -168,7 +168,7 @@
       "Name": "Sparkling Alloys",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 12556
+      "UsersEstimate": 126
     },
     {
       "ID": "AK_TAKES_VILLAGE",
@@ -176,7 +176,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 213452
+      "UsersEstimate": 2135
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -184,7 +184,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 144394
+      "UsersEstimate": 1444
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -192,7 +192,7 @@
       "Name": "A True Challenge",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 12556
+      "UsersEstimate": 126
     },
     {
       "ID": "AK_WANDERERS_GUIDE",
@@ -200,7 +200,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 69058
+      "UsersEstimate": 691
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -208,7 +208,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 251120
+      "UsersEstimate": 2511
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -216,7 +216,7 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 119282
+      "UsersEstimate": 1193
     }
   ],
   "Tags": [],
@@ -733,13 +733,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-04T22:24:31.7208433+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:44.8922116+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_Completed": 50,
   "EOS_Progressed": 6278,
-  "LastUpdate_Achievements": "2023-05-04T22:24:31.7208766+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:53.7519259+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:44.8922284+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:19.0613329+00:00",
   "AchievementSets": [
     {
       "ID": "dfmb89",
@@ -754,8 +754,8 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 74,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_Progress": 112,
   "Ranking_PopularitySum": 490,

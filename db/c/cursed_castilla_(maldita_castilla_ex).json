@@ -8,7 +8,7 @@
       "Name": "Pioneer",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1584
+      "UsersEstimate": 16
     },
     {
       "ID": "cc_achievement_02",
@@ -16,7 +16,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 4
     },
     {
       "ID": "cc_achievement_03",
@@ -24,7 +24,7 @@
       "Name": "Firefighter",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 5
     },
     {
       "ID": "cc_achievement_04",
@@ -32,7 +32,7 @@
       "Name": "Summoner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 3
     },
     {
       "ID": "cc_achievement_05",
@@ -40,7 +40,7 @@
       "Name": "Gentleman",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_06",
@@ -48,7 +48,7 @@
       "Name": "St. Martin",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 3
     },
     {
       "ID": "cc_achievement_07",
@@ -56,7 +56,7 @@
       "Name": "Invisible encounter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 2
     },
     {
       "ID": "cc_achievement_08",
@@ -64,7 +64,7 @@
       "Name": "A note from a Mort",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_09",
@@ -72,7 +72,7 @@
       "Name": "Bad knight",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 2
     },
     {
       "ID": "cc_achievement_10",
@@ -80,7 +80,7 @@
       "Name": "Martyr",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_11",
@@ -88,7 +88,7 @@
       "Name": "Champion",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_12",
@@ -96,7 +96,7 @@
       "Name": "Hero",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_13",
@@ -104,7 +104,7 @@
       "Name": "Purist",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_14",
@@ -112,7 +112,7 @@
       "Name": "Swordmaster",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_15",
@@ -120,7 +120,7 @@
       "Name": "Runner",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     },
     {
       "ID": "cc_achievement_16",
@@ -128,7 +128,7 @@
       "Name": "Legendary knight",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 96
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -154,13 +154,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:25:00.6947395+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:19.0165838+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 48,
-  "LastUpdate_Achievements": "2023-05-04T22:25:00.6947583+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:16.2009075+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:19.0165957+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:26.8919191+00:00",
   "AchievementSets": [
     {
       "ID": "177a8ba",
@@ -175,8 +175,8 @@
   "FirstSeen": "2022-12-09T21:57:04.8103508+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 274,
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00"

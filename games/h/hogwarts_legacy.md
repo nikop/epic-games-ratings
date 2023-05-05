@@ -2,59 +2,59 @@
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
 Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 18,359  (Ranked 18)  
-Sum: 33,449 (Ranked 34)  
+Max (Character Customization): 18,393  (Ranked 18)  
+Sum: 33,494 (Ranked 34)  
 Diff (max vs sum): -16  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 5.00% | ~1,327,480 |
-| The One Who Mastered Memories | 5.00% | ~1,327,480 |
-| The Hallowed Hero | 5.00% | ~1,327,480 |
-| The Hero of Hogwarts | 5.00% | ~1,327,480 |
-| The Defender of Dragons | 5.00% | ~1,327,480 |
-| Coasting Along | 5.00% | ~1,327,480 |
-| Rising From the Ashes | 5.00% | ~1,327,480 |
-| The Sort Who Makes an Entrance | 4.00% | ~1,061,984 |
-| The Avenging Gazelle | 4.00% | ~1,061,984 |
-| Beast Friends | 4.00% | ~1,061,984 |
-| A Sallow Grave | 4.00% | ~1,061,984 |
-| Flight the Good Flight | 4.00% | ~1,061,984 |
-| Challenge Accepted | 4.00% | ~1,061,984 |
-| A Keen Sense of Spell | 4.00% | ~1,061,984 |
-| Loom for Improvement | 4.00% | ~1,061,984 |
-| A Talent for Spending | 4.00% | ~1,061,984 |
-| Followed the Butterflies | 4.00% | ~1,061,984 |
-| The Spell Master | 4.00% | ~1,061,984 |
-| First Class Student | 4.00% | ~1,061,984 |
-| Troll with the Punches | 4.00% | ~1,061,984 |
-| That's a Keeper | 4.00% | ~1,061,984 |
-| The Seeker of Knowledge | 3.00% | ~796,488 |
-| The Root of the Problem | 3.00% | ~796,488 |
-| Third Time's a Charm | 3.00% | ~796,488 |
-| The Toast of the Town | 2.00% | ~530,992 |
-| Going Through the Potions | 2.00% | ~530,992 |
-| Room with a View | 2.00% | ~530,992 |
-| Floo Around the World | 2.00% | ~530,992 |
-| The Intrepid Explorer | 2.00% | ~530,992 |
-| The Gryffindor in the Graveyard | 2.00% | ~530,992 |
-| The Ends Petrify the Means | 2.00% | ~530,992 |
-| Raising Expectations | 2.00% | ~530,992 |
-| The Good Samaritan | 1.00% | ~265,496 |
-| Put Down Roots | 1.00% | ~265,496 |
-| The Auror's Apprentice | 1.00% | ~265,496 |
-| Rise to the Challenges | 1.00% | ~265,496 |
-| The Wise Owl | 1.00% | ~265,496 |
-| Finishing Touches | 0.90% | ~238,946 |
-| Demiguise Dread | 0.70% | ~185,847 |
-| A Forte for Achievement | 0.70% | ~185,847 |
-| Savvy Spender | 0.60% | ~159,298 |
-| Merlin's Beard! | 0.50% | ~132,748 |
-| Spilled Milk | 0.40% | ~106,198 |
-| The Nature of the Beast | 0.30% | ~79,649 |
-| Collector's Edition | 0.10% | ~26,550 |
+| Grappling with a Graphorn | 5.00% | ~13,278 |
+| The One Who Mastered Memories | 5.00% | ~13,278 |
+| The Hallowed Hero | 5.00% | ~13,278 |
+| The Hero of Hogwarts | 5.00% | ~13,278 |
+| The Defender of Dragons | 5.00% | ~13,278 |
+| Coasting Along | 5.00% | ~13,278 |
+| Rising From the Ashes | 5.00% | ~13,278 |
+| The Sort Who Makes an Entrance | 4.00% | ~10,622 |
+| The Avenging Gazelle | 4.00% | ~10,622 |
+| Beast Friends | 4.00% | ~10,622 |
+| A Sallow Grave | 4.00% | ~10,622 |
+| Flight the Good Flight | 4.00% | ~10,622 |
+| Challenge Accepted | 4.00% | ~10,622 |
+| A Keen Sense of Spell | 4.00% | ~10,622 |
+| Loom for Improvement | 4.00% | ~10,622 |
+| A Talent for Spending | 4.00% | ~10,622 |
+| Followed the Butterflies | 4.00% | ~10,622 |
+| The Spell Master | 4.00% | ~10,622 |
+| First Class Student | 4.00% | ~10,622 |
+| Troll with the Punches | 4.00% | ~10,622 |
+| That's a Keeper | 4.00% | ~10,622 |
+| The Seeker of Knowledge | 3.00% | ~7,966 |
+| The Root of the Problem | 3.00% | ~7,966 |
+| Third Time's a Charm | 3.00% | ~7,966 |
+| The Toast of the Town | 2.00% | ~5,311 |
+| Going Through the Potions | 2.00% | ~5,311 |
+| Room with a View | 2.00% | ~5,311 |
+| Floo Around the World | 2.00% | ~5,311 |
+| The Intrepid Explorer | 2.00% | ~5,311 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,311 |
+| The Ends Petrify the Means | 2.00% | ~5,311 |
+| Raising Expectations | 2.00% | ~5,311 |
+| The Good Samaritan | 1.00% | ~2,656 |
+| Put Down Roots | 1.00% | ~2,656 |
+| The Auror's Apprentice | 1.00% | ~2,656 |
+| Rise to the Challenges | 1.00% | ~2,656 |
+| The Wise Owl | 1.00% | ~2,656 |
+| Finishing Touches | 0.90% | ~2,390 |
+| Demiguise Dread | 0.70% | ~1,859 |
+| A Forte for Achievement | 0.70% | ~1,859 |
+| Savvy Spender | 0.60% | ~1,593 |
+| Merlin's Beard! | 0.50% | ~1,328 |
+| The Nature of the Beast | 0.40% | ~1,062 |
+| Spilled Milk | 0.40% | ~1,062 |
+| Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,496 (Ranked 38)  
+Progressed: 265,550 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,21 +68,22 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-01 | 265,089 | 341 |
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
-| 2023-05-04 | 265,496 | 346 |
+| 2023-05-04 | 265,501 | 346 |
+| 2023-05-05 | 265,550 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,359 |
+| This game has Inclusive Character Customization | 18,393 |
 | This game has Great Boss Battles | 8,565 |
 | This game is Extremely Fun | 738 |
 | This game is Great for Beginners | 716 |
 | This game is Relaxing | 704 |
 | This game has Diverse Characters | 697 |
-| This game has Amazing Storytelling | 690 |
+| This game has Amazing Storytelling | 695 |
 | This game has Amazing Characters | 678 |
 | This game is Highly Recommended | 660 |
-| This game has Quickly Understood Controls | 607 |
-| This game has Beautiful Visuals | 583 |
+| This game has Quickly Understood Controls | 608 |
+| This game has Beautiful Visuals | 588 |
 | This game has a Creative Community | 452 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -129,3 +130,4 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 4.78 | 18,275 | 33,258 |
 | 2023-05-03 | 4.77 | 18,328 | 33,362 |
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
+| 2023-05-05 | 4.77 | 18,393 | 33,494 |

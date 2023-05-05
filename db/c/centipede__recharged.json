@@ -8,7 +8,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 369936
+      "UsersEstimate": 3701
     },
     {
       "ID": "Burning_For_You",
@@ -16,7 +16,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 383148
+      "UsersEstimate": 3834
     },
     {
       "ID": "Deadline",
@@ -24,7 +24,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 198180
+      "UsersEstimate": 1983
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -32,7 +32,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 171756
+      "UsersEstimate": 1718
     },
     {
       "ID": "Eyes_On_Fire",
@@ -40,7 +40,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 171756
+      "UsersEstimate": 1718
     },
     {
       "ID": "Feel_The_Thunder",
@@ -48,7 +48,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 92484
+      "UsersEstimate": 925
     },
     {
       "ID": "Fireworks",
@@ -56,7 +56,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 435996
+      "UsersEstimate": 4362
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -64,7 +64,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 92484
+      "UsersEstimate": 925
     },
     {
       "ID": "I_Am_The_Storm",
@@ -72,7 +72,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 237816
+      "UsersEstimate": 2379
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -80,7 +80,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 568116
+      "UsersEstimate": 5684
     },
     {
       "ID": "Mirrors",
@@ -88,7 +88,7 @@
       "Name": "Mirrors",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 13212
+      "UsersEstimate": 132
     },
     {
       "ID": "Shadow_Warrior",
@@ -96,7 +96,7 @@
       "Name": "Shadow Warrior",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 26424
+      "UsersEstimate": 264
     },
     {
       "ID": "Shooting_Shark",
@@ -104,7 +104,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 673812
+      "UsersEstimate": 6742
     },
     {
       "ID": "Sole_Survivor",
@@ -112,7 +112,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 488844
+      "UsersEstimate": 4891
     },
     {
       "ID": "Still_Burning",
@@ -120,7 +120,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 237816
+      "UsersEstimate": 2379
     },
     {
       "ID": "The_Reaper",
@@ -128,7 +128,7 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 92484
+      "UsersEstimate": 925
     }
   ],
   "Tags": [],
@@ -1007,6 +1007,31 @@
       "Time": "2023-05-04T21:05:48.8747008+00:00",
       "NumProgressed": 13212,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T01:58:41.7919492+00:00",
+      "NumProgressed": 13213,
+      "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T04:06:17.1580298+00:00",
+      "NumProgressed": 13214,
+      "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T07:05:31.7410528+00:00",
+      "NumProgressed": 13217,
+      "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T08:05:46.7350276+00:00",
+      "NumProgressed": 13218,
+      "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T09:05:53.7389914+00:00",
+      "NumProgressed": 13219,
+      "NumCompleted": 81
     }
   ],
   "RatingHistory": [
@@ -1266,18 +1291,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:24:39.3722361+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:53.7389909+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 277,
   "EOS_Completed": 81,
-  "EOS_Progressed": 13212,
-  "LastUpdate_Achievements": "2023-05-04T22:24:39.37226+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:10.7171229+00:00",
+  "EOS_Progressed": 13219,
+  "LastUpdate_Achievements": "2023-05-05T09:05:53.7390043+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:03.2536309+00:00",
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13212,
+      "Progressed": 13219,
       "Completed": 81
     }
   ],
@@ -1287,7 +1312,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 76,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_Progress": 99,

@@ -1,6 +1,6 @@
 # Martha Is Dead
 [View Rawdata](../../db/m/martha_is_dead.json)  
-Rating: 4.03 (Ranked 872)  
+Rating: 4.03 (Ranked 873)  
 Number of Ratings: 39  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

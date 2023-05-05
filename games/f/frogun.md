@@ -3,37 +3,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 95.00% | ~18,240 |
-| Treasure hunter | 92.00% | ~17,664 |
-| Survivalist | 83.00% | ~15,936 |
-| Challenge seeker | 79.00% | ~15,168 |
-| Coin collector | 74.00% | ~14,208 |
-| Floater | 58.00% | ~11,136 |
-| Speedrunner | 43.00% | ~8,256 |
-| On foot racer | 41.00% | ~7,872 |
-| Prickly situation handler | 34.00% | ~6,528 |
-| Hat lover | 34.00% | ~6,528 |
-| Protected | 30.00% | ~5,760 |
-| Perfectionist | 30.00% | ~5,760 |
-| Pragmatic | 23.00% | ~4,416 |
-| Calory burner | 17.00% | ~3,264 |
-| Pacifist | 15.00% | ~2,880 |
-| Snow digger | 14.00% | ~2,688 |
-| Model | 14.00% | ~2,688 |
-| Fire extinguisher | 11.00% | ~2,112 |
-| Hubworld fan | 11.00% | ~2,112 |
-| Occult cataloger | 8.00% | ~1,536 |
-| Great rescuer | 5.00% | ~960 |
-| Absolute race champion | 5.00% | ~960 |
-| Doppelganger | 5.00% | ~960 |
-| Photographer | 5.00% | ~960 |
-| Tank | 4.00% | ~768 |
-| Biologist | 3.00% | ~576 |
-| Fashionista | 3.00% | ~576 |
-| Duelist | 3.00% | ~576 |
-| Gladiator | 2.00% | ~384 |
-| Art lover | 2.00% | ~384 |
-| Completionist | 2.00% | ~384 |
+| Historian | 95.00% | ~182 |
+| Treasure hunter | 92.00% | ~177 |
+| Survivalist | 83.00% | ~159 |
+| Challenge seeker | 79.00% | ~152 |
+| Coin collector | 74.00% | ~142 |
+| Floater | 58.00% | ~111 |
+| Speedrunner | 43.00% | ~83 |
+| On foot racer | 41.00% | ~79 |
+| Prickly situation handler | 34.00% | ~65 |
+| Hat lover | 34.00% | ~65 |
+| Protected | 30.00% | ~58 |
+| Perfectionist | 30.00% | ~58 |
+| Pragmatic | 23.00% | ~44 |
+| Calory burner | 17.00% | ~33 |
+| Pacifist | 15.00% | ~29 |
+| Snow digger | 14.00% | ~27 |
+| Model | 14.00% | ~27 |
+| Fire extinguisher | 11.00% | ~21 |
+| Hubworld fan | 11.00% | ~21 |
+| Occult cataloger | 8.00% | ~15 |
+| Great rescuer | 5.00% | ~10 |
+| Absolute race champion | 5.00% | ~10 |
+| Doppelganger | 5.00% | ~10 |
+| Photographer | 5.00% | ~10 |
+| Tank | 4.00% | ~8 |
+| Biologist | 3.00% | ~6 |
+| Fashionista | 3.00% | ~6 |
+| Duelist | 3.00% | ~6 |
+| Gladiator | 2.00% | ~4 |
+| Art lover | 2.00% | ~4 |
+| Completionist | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 192 (Ranked 223)  
 Completed: 3 (1.56%) (Ranked 64)  

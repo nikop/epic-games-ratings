@@ -1,6 +1,6 @@
 # Train Life: A Railway Simulator
 [View Rawdata](../../db/t/train_life__a_railway_simulator.json)  
-Rating: 4.00 (Ranked 876)  
+Rating: 4.00 (Ranked 877)  
 Number of Ratings: 42  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

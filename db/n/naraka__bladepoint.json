@@ -7,19 +7,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 181731
+      "Count": 181797
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 75169
+      "Count": 75250
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 69281
+      "Count": 69340
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3910,6 +3910,18 @@
       "Rating": 4.19,
       "NumberOfAwards": 379861,
       "NumberOfAwardsMax": 181731
+    },
+    {
+      "Time": "2023-05-05T05:59:48.8880172+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 379942,
+      "NumberOfAwardsMax": 181731
+    },
+    {
+      "Time": "2023-05-05T07:59:52.4929918+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 380067,
+      "NumberOfAwardsMax": 181797
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3918,18 +3930,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:23:38.771516+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:50.0725169+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:04:40.2393484+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:53.020306+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T08:00:18.5395387+00:00",
+  "LastChanged": "2023-05-05T07:59:52.4929916+00:00",
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 181731,
-  "NumberOfAwards": 379861,
+  "NumberOfAwardsMax": 181797,
+  "NumberOfAwards": 380067,
   "NumberOfRatings": 132339,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 7,

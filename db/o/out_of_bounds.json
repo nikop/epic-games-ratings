@@ -8,7 +8,7 @@
       "Name": "Damn, I\u0027m GOOD!",
       "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 92
+      "UsersEstimate": 1
     },
     {
       "ID": "BugsFixed_NoMiss",
@@ -16,7 +16,7 @@
       "Name": "Pro-dev",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "BugsFixed_Total_1",
@@ -24,7 +24,7 @@
       "Name": "64 bugs fixed",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 4
     },
     {
       "ID": "BugsFixed_Total_2",
@@ -32,7 +32,7 @@
       "Name": "128 bugs fixed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 3
     },
     {
       "ID": "BugsFixed_Total_3",
@@ -40,7 +40,7 @@
       "Name": "192 bugs fixed",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "BugsFixed_UpDown",
@@ -48,7 +48,7 @@
       "Name": "Guru-dev",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "CheckCredits",
@@ -56,7 +56,7 @@
       "Name": "No AI, only humans",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 7
     },
     {
       "ID": "CoffeeDouble",
@@ -64,7 +64,7 @@
       "Name": "Double-double",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 4
     },
     {
       "ID": "CoffeeHighPitch",
@@ -72,7 +72,7 @@
       "Name": "Going nuts!",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 4
     },
     {
       "ID": "CoffeeLowPitch",
@@ -80,7 +80,7 @@
       "Name": "Going under...",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "CoffeePitchShaders",
@@ -88,7 +88,7 @@
       "Name": "What am I doing?!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "Compilations_1",
@@ -96,7 +96,7 @@
       "Name": "Compiling (15)...",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 7
     },
     {
       "ID": "Compilations_2",
@@ -104,7 +104,7 @@
       "Name": "Compiling (30)...",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 3
     },
     {
       "ID": "Compilations_3",
@@ -112,7 +112,7 @@
       "Name": "Compiling (45)...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 3
     },
     {
       "ID": "DevTime_1",
@@ -120,7 +120,7 @@
       "Name": "Gamedev level 15",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "DevTime_2",
@@ -128,7 +128,7 @@
       "Name": "Gamedev level 30",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 3
     },
     {
       "ID": "DevTime_3",
@@ -136,7 +136,7 @@
       "Name": "Gamedev level 45",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "EatFood_1",
@@ -144,7 +144,7 @@
       "Name": "EnergyBackup \u003E= 15",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 6
     },
     {
       "ID": "EatFood_2",
@@ -152,7 +152,7 @@
       "Name": "EnergyBackup \u003E= 30",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "EatFood_3",
@@ -160,7 +160,7 @@
       "Name": "EnergyBackup \u003E= 45",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "FinishGame_FirstTime",
@@ -168,7 +168,7 @@
       "Name": "Package ready!",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 690
+      "UsersEstimate": 7
     },
     {
       "ID": "FinishGame_LessTime_1",
@@ -176,7 +176,7 @@
       "Name": "Two thirds is all I need",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "FinishGame_LessTime_2",
@@ -184,7 +184,7 @@
       "Name": "Half the time, half the fun",
       "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "FinishGame_MoreTime",
@@ -192,7 +192,7 @@
       "Name": "Just in time!",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 92
+      "UsersEstimate": 1
     },
     {
       "ID": "LoseBy_Audio",
@@ -200,7 +200,7 @@
       "Name": "Noisy saturation",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 9
     },
     {
       "ID": "LoseBy_Graphics",
@@ -208,7 +208,7 @@
       "Name": "Graphics outdated",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "LoseBy_Mechanics",
@@ -216,7 +216,7 @@
       "Name": "Errors found you",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 6
     },
     {
       "ID": "LoseBy_Time",
@@ -224,7 +224,7 @@
       "Name": "Almost there!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 8
     },
     {
       "ID": "SpeakerJumps_1",
@@ -232,7 +232,7 @@
       "Name": "SoundsFun = 15;",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 5
     },
     {
       "ID": "SpeakerJumps_2",
@@ -240,7 +240,7 @@
       "Name": "SoundsFun = 30;",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 3
     },
     {
       "ID": "SpeakerJumps_3",
@@ -248,7 +248,7 @@
       "Name": "SoundsFun = 45;",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "WatchEnding",
@@ -256,7 +256,7 @@
       "Name": "The dev life",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 6
     }
   ],
   "Tags": [],
@@ -270,13 +270,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-04T22:24:58.1115623+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:16.3642353+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 23,
-  "LastUpdate_Achievements": "2023-05-04T22:24:58.1115865+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:08.4041794+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:16.3642529+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:16.4281694+00:00",
   "AchievementSets": [
     {
       "ID": "94h12fn",
@@ -286,9 +286,9 @@
     }
   ],
   "EOS_Completed_Percentage": 4.35,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_Completed": 28,
   "Ranking_EOS_Progress": 288,
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00"
 }

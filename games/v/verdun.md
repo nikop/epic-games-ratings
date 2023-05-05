@@ -9,67 +9,67 @@ Diff (max vs sum): 76
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~3,278,660 |
-| Worth it | 63.00% | ~2,682,540 |
-| Eagle Eye | 55.00% | ~2,341,900 |
-| Corpseman I | 40.00% | ~1,703,200 |
-| Blast fishing | 38.00% | ~1,618,040 |
-| Not alone | 32.00% | ~1,362,560 |
-| Headhunter I | 27.00% | ~1,149,660 |
-| Manual Labour I | 26.00% | ~1,107,080 |
-| Developers, Developers, Developers | 24.00% | ~1,021,920 |
-| Basic Training | 24.00% | ~1,021,920 |
-| Furchtlos und Treu | 13.00% | ~553,540 |
-| Gott Mit Uns | 12.00% | ~510,960 |
-| This We'll Defend! | 9.00% | ~383,220 |
-| Anker wirf! | 9.00% | ~383,220 |
-| Providentiea Memor | 9.00% | ~383,220 |
-| For King and Country | 9.00% | ~383,220 |
-| Battle hardened | 8.00% | ~340,640 |
-| Semper Fidelis! | 7.00% | ~298,060 |
-| Honneur et Patrie | 7.00% | ~298,060 |
-| In Treue Fest | 5.00% | ~212,900 |
-| Voor De Koning | 5.00% | ~212,900 |
-| Extreme Headhunter | 5.00% | ~212,900 |
-| Advance Australia | 4.00% | ~170,320 |
-| We Stand on Guard | 4.00% | ~170,320 |
-| Sidi Brahim | 4.00% | ~170,320 |
-| War is better with friends I | 4.00% | ~170,320 |
-| Let them, come to us | 4.00% | ~170,320 |
-| Corpseman II | 4.00% | ~170,320 |
-| Manual Labour II | 4.00% | ~170,320 |
-| Offense is the best defence | 3.00% | ~127,740 |
-| There is no I in team | 3.00% | ~127,740 |
-| Veteran | 3.00% | ~127,740 |
-| In My Defens God Me Defend | 3.00% | ~127,740 |
-| Silver x100 | 3.00% | ~127,740 |
-| Impavidum Ferient Bella! | 3.00% | ~127,740 |
-| Bronze x100 | 2.00% | ~85,160 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~85,160 |
-| Gold x100 | 1.00% | ~42,580 |
-| Hunting the Hun | 1.00% | ~42,580 |
-| #1 | 1.00% | ~42,580 |
-| Golden Headhunter | 1.00% | ~42,580 |
-| That's another one down! | 1.00% | ~42,580 |
-| Do you even die? | 1.00% | ~42,580 |
-| Headhunter II | 1.00% | ~42,580 |
-| Corpseman III | 1.00% | ~42,580 |
-| Elite Player | 0.80% | ~34,064 |
-| Manual Labour III | 0.40% | ~17,032 |
-| Buddy | 0.30% | ~12,774 |
-| War is better with friends II | 0.20% | ~8,516 |
-| Gold Collector | 0.10% | ~4,258 |
-| Gold Hoarder | 0.10% | ~4,258 |
-| Silver Collector | 0.10% | ~4,258 |
-| Silver Hoarder | 0.10% | ~4,258 |
-| War is better with friends III | 0.10% | ~4,258 |
-| War is better with friends IV | 0.10% | ~4,258 |
-| Aimbot | 0.10% | ~4,258 |
-| Headhunter III | 0.10% | ~4,258 |
-| Comrade | 0.10% | ~4,258 |
-| Blood Brother | 0.10% | ~4,258 |
+| Setting an example | 77.00% | ~32,810 |
+| Worth it | 63.00% | ~26,844 |
+| Eagle Eye | 55.00% | ~23,436 |
+| Corpseman I | 40.00% | ~17,044 |
+| Blast fishing | 38.00% | ~16,192 |
+| Not alone | 32.00% | ~13,635 |
+| Headhunter I | 27.00% | ~11,505 |
+| Manual Labour I | 26.00% | ~11,079 |
+| Developers, Developers, Developers | 24.00% | ~10,226 |
+| Basic Training | 24.00% | ~10,226 |
+| Furchtlos und Treu | 13.00% | ~5,539 |
+| Gott Mit Uns | 12.00% | ~5,113 |
+| This We'll Defend! | 9.00% | ~3,835 |
+| Anker wirf! | 9.00% | ~3,835 |
+| Providentiea Memor | 9.00% | ~3,835 |
+| For King and Country | 9.00% | ~3,835 |
+| Battle hardened | 8.00% | ~3,409 |
+| Semper Fidelis! | 7.00% | ~2,983 |
+| Honneur et Patrie | 7.00% | ~2,983 |
+| In Treue Fest | 5.00% | ~2,130 |
+| Voor De Koning | 5.00% | ~2,130 |
+| Extreme Headhunter | 5.00% | ~2,130 |
+| Advance Australia | 4.00% | ~1,704 |
+| We Stand on Guard | 4.00% | ~1,704 |
+| Sidi Brahim | 4.00% | ~1,704 |
+| War is better with friends I | 4.00% | ~1,704 |
+| Let them, come to us | 4.00% | ~1,704 |
+| Corpseman II | 4.00% | ~1,704 |
+| Manual Labour II | 4.00% | ~1,704 |
+| Offense is the best defence | 3.00% | ~1,278 |
+| There is no I in team | 3.00% | ~1,278 |
+| Veteran | 3.00% | ~1,278 |
+| In My Defens God Me Defend | 3.00% | ~1,278 |
+| Silver x100 | 3.00% | ~1,278 |
+| Impavidum Ferient Bella! | 3.00% | ~1,278 |
+| Bronze x100 | 2.00% | ~852 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~852 |
+| Gold x100 | 1.00% | ~426 |
+| Hunting the Hun | 1.00% | ~426 |
+| #1 | 1.00% | ~426 |
+| Golden Headhunter | 1.00% | ~426 |
+| That's another one down! | 1.00% | ~426 |
+| Do you even die? | 1.00% | ~426 |
+| Headhunter II | 1.00% | ~426 |
+| Corpseman III | 1.00% | ~426 |
+| Elite Player | 0.80% | ~341 |
+| Manual Labour III | 0.40% | ~170 |
+| Buddy | 0.30% | ~128 |
+| War is better with friends II | 0.20% | ~85 |
+| Gold Collector | 0.10% | ~43 |
+| Gold Hoarder | 0.10% | ~43 |
+| Silver Collector | 0.10% | ~43 |
+| Silver Hoarder | 0.10% | ~43 |
+| War is better with friends III | 0.10% | ~43 |
+| War is better with friends IV | 0.10% | ~43 |
+| Aimbot | 0.10% | ~43 |
+| Headhunter III | 0.10% | ~43 |
+| Comrade | 0.10% | ~43 |
+| Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,580 (Ranked 75)  
+Progressed: 42,610 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,8 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 42,289 | 2 |
 | 2023-05-02 | 42,404 | 2 |
 | 2023-05-03 | 42,492 | 2 |
-| 2023-05-04 | 42,580 | 2 |
+| 2023-05-04 | 42,583 | 2 |
+| 2023-05-05 | 42,610 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

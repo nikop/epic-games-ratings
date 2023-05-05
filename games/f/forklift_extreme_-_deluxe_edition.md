@@ -3,11 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Challenge accepted | 100.00% | ~100 |
-| Awarded | 100.00% | ~100 |
-| Warehouse Master | 100.00% | ~100 |
-| It's just a scratch | 100.00% | ~100 |
-| Smash! | 100.00% | ~100 |
+| Challenge accepted | 100.00% | ~1 |
+| Awarded | 100.00% | ~1 |
+| Warehouse Master | 100.00% | ~1 |
+| It's just a scratch | 100.00% | ~1 |
+| Smash! | 100.00% | ~1 |
 | Diligent student | 0.00% | ~0 |
 | Challenge completed | 0.00% | ~0 |
 | Fully customize-able | 0.00% | ~0 |

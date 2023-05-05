@@ -8,7 +8,7 @@
       "Name": "Full house",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -24,7 +24,7 @@
       "Name": "The First King",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 587
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_FEWBUTGOOD",
@@ -32,7 +32,7 @@
       "Name": "Six Faces",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_GREATWINTER",
@@ -40,7 +40,7 @@
       "Name": "The Great Winter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_ITALY",
@@ -64,7 +64,7 @@
       "Name": "Charismatic Leader",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -72,7 +72,7 @@
       "Name": "Metropolis",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 1
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -80,7 +80,7 @@
       "Name": "The great fire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 7
     },
     {
       "ID": "CONTAINERS_MILL_FARMS_SURROUNDED",
@@ -96,7 +96,7 @@
       "Name": "It\u0027s spreading",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 1
     },
     {
       "ID": "DICE_TWELVE_FROZEN",
@@ -104,7 +104,7 @@
       "Name": "Just Chilling",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 15
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -120,7 +120,7 @@
       "Name": "Ascended",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -128,7 +128,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3670
+      "UsersEstimate": 37
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -136,7 +136,7 @@
       "Name": "Incredible Strength",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 15
     },
     {
       "ID": "ENDING_TRUE",
@@ -160,7 +160,7 @@
       "Name": "Burn and Pillage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -168,7 +168,7 @@
       "Name": "The Greedy Ones",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 7
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -176,7 +176,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 15
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -184,7 +184,7 @@
       "Name": "The Unruly Ones",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 6
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
@@ -192,7 +192,7 @@
       "Name": "The City",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3670
+      "UsersEstimate": 37
     },
     {
       "ID": "GOLDMASTER",
@@ -200,7 +200,7 @@
       "Name": "Greedy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "PREVENTRIOT",
@@ -208,7 +208,7 @@
       "Name": "Hear me out",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "RUIN_CLEAR",
@@ -216,7 +216,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 15
     },
     {
       "ID": "SUMMON_BOSS",
@@ -232,7 +232,7 @@
       "Name": "We made it",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 18350
+      "UsersEstimate": 184
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -240,7 +240,7 @@
       "Name": "Listening to the crowd",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -256,7 +256,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 2
     },
     {
       "ID": "UNLOCKALLACHIEVEMENTS",
@@ -272,7 +272,7 @@
       "Name": "The Council",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 5
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -296,7 +296,7 @@
       "Name": "The Stranded King",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 15
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -312,7 +312,7 @@
       "Name": "The Incarnate",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 1
     },
     {
       "ID": "WINMATCHWITH_SCIENTIST",
@@ -320,7 +320,7 @@
       "Name": "The Mad",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 4
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -344,7 +344,7 @@
       "Name": "Like the dream",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 3
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -352,7 +352,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 22
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -360,7 +360,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 15
     }
   ],
   "Tags": [],
@@ -484,13 +484,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T22:24:10.9798053+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:20.7971273+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_Completed": 0,
   "EOS_Progressed": 734,
-  "LastUpdate_Achievements": "2023-05-04T22:24:10.979852+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:05.1405351+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:20.7971608+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:34.4157877+00:00",
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
@@ -505,8 +505,8 @@
   "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 170,
   "Ranking_PopularitySum": 490,

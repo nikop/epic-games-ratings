@@ -8,7 +8,7 @@
       "Name": "ADVANCED",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 8260
+      "UsersEstimate": 83
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -16,7 +16,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 23128
+      "UsersEstimate": 232
     },
     {
       "ID": "CHIEF",
@@ -24,7 +24,7 @@
       "Name": "CHIEF",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4012
+      "UsersEstimate": 40
     },
     {
       "ID": "CLEANER",
@@ -32,7 +32,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 21948
+      "UsersEstimate": 220
     },
     {
       "ID": "DEBTOR",
@@ -40,15 +40,15 @@
       "Name": "DEBTOR",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 19
     },
     {
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 11800
+      "UsersEstimate": 116
     },
     {
       "ID": "FIRST_100K",
@@ -56,7 +56,7 @@
       "Name": "FIRST $100K",
       "Percentage": 3,
       "XP": 145,
-      "UsersEstimate": 708
+      "UsersEstimate": 7
     },
     {
       "ID": "FIRST_500K",
@@ -64,7 +64,7 @@
       "Name": "500K$.",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 2
     },
     {
       "ID": "FIRST_LOSED_VISITOR",
@@ -72,7 +72,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 16992
+      "UsersEstimate": 171
     },
     {
       "ID": "INTRODUCTION",
@@ -88,7 +88,7 @@
       "Name": "SECOND_FLOOR",
       "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 2596
+      "UsersEstimate": 26
     },
     {
       "ID": "SUCCESSFUL",
@@ -96,7 +96,7 @@
       "Name": "SUCCESSFUL",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 708
+      "UsersEstimate": 7
     },
     {
       "ID": "THINGS_ARE_GOING_WELL",
@@ -104,7 +104,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 708
+      "UsersEstimate": 7
     },
     {
       "ID": "YETTI",
@@ -112,7 +112,7 @@
       "Name": "YETTI",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 472
+      "UsersEstimate": 5
     }
   ],
   "Tags": [],
@@ -221,6 +221,11 @@
       "Time": "2023-05-04T17:04:50.4788574+00:00",
       "NumProgressed": 236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:49.3964128+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -233,18 +238,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T22:24:46.0071528+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:01.4183921+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 14,
   "EOS_Completed": 0,
-  "EOS_Progressed": 236,
-  "LastUpdate_Achievements": "2023-05-04T22:24:46.007171+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:32.0824612+00:00",
+  "EOS_Progressed": 237,
+  "LastUpdate_Achievements": "2023-05-05T09:06:01.4184025+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:30.245842+00:00",
   "AchievementSets": [
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 0
     }
   ],
@@ -254,9 +259,9 @@
   "FirstSeen": "2023-04-13T01:55:49.9064059+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 218,
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00"
 }

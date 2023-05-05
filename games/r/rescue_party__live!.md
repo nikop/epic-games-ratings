@@ -3,19 +3,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ASAP | 93.00% | ~13,857 |
-| Medal of honor | 39.00% | ~5,811 |
-| Life matters | 36.00% | ~5,364 |
-| Safety first | 34.00% | ~5,066 |
-| Professional team! | 24.00% | ~3,576 |
-| Dawn of Victory | 15.00% | ~2,235 |
-| Team assemble | 14.00% | ~2,086 |
-| Resource manager | 13.00% | ~1,937 |
-| Gloable operation | 6.00% | ~894 |
-| Love and peace | 5.00% | ~745 |
-| My turn | 5.00% | ~745 |
-| Give me a hand | 3.00% | ~447 |
-| Panda express | 1.00% | ~149 |
+| ASAP | 93.00% | ~139 |
+| Medal of honor | 39.00% | ~58 |
+| Life matters | 36.00% | ~54 |
+| Safety first | 34.00% | ~51 |
+| Professional team! | 24.00% | ~36 |
+| Dawn of Victory | 15.00% | ~22 |
+| Team assemble | 14.00% | ~21 |
+| Resource manager | 13.00% | ~19 |
+| Gloable operation | 6.00% | ~9 |
+| Love and peace | 5.00% | ~7 |
+| My turn | 5.00% | ~7 |
+| Give me a hand | 3.00% | ~4 |
+| Panda express | 1.00% | ~1 |
 | Damage control | 0.00% | ~0 |
 | Rush hour | 0.00% | ~0 |
 | Here comes the light | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 234)  
-Completed: 7 (4.70%) (Ranked 26)  
+Completed: 7 (4.70%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

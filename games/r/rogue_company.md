@@ -1,10 +1,10 @@
 # Rogue Company
 [View Rawdata](../../db/r/rogue_company.json)  
-Rating: 4.34 (Ranked 721)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,868  (Ranked 61)  
-Sum: 30,771 (Ranked 36)  
+Sum: 30,774 (Ranked 36)  
 Diff (max vs sum): 25  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 4,868 |
 | This game has Competitive Players | 4,637 |
 | This game is Extremely Fun | 4,489 |
-| This game has Quickly Understood Controls | 4,483 |
+| This game has Quickly Understood Controls | 4,486 |
 | This game is Highly Recommended | 4,382 |
 | This game has Amazing Characters | 4,367 |
 | This game has a Competitive Community | 3,545 |
@@ -122,3 +122,4 @@ Diff (max vs sum): 25
 | 2023-05-02 | 4.34 | - | 4,860 | 30,746 |
 | 2023-05-03 | 4.34 | - | 4,863 | 30,755 |
 | 2023-05-04 | 4.34 | - | 4,868 | 30,771 |
+| 2023-05-05 | 4.34 | - | 4,868 | 30,774 |

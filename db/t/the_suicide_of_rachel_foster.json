@@ -8,7 +8,7 @@
       "Name": "Cutepie",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 43000
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -16,7 +16,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 56000
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_Cacciavite",
@@ -24,7 +24,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 45000
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -32,7 +32,7 @@
       "Name": "Spicy",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6000
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FineEV5",
@@ -40,7 +40,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 47000
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_FineEV9",
@@ -48,7 +48,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 40000
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_FineGioco",
@@ -56,7 +56,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 34000
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -64,7 +64,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 40000
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -72,7 +72,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 77000
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -80,7 +80,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 41000
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -88,7 +88,7 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 41000
+      "UsersEstimate": 410
     }
   ],
   "Tags": [],
@@ -449,13 +449,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-04T22:24:55.3008143+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:12.0585048+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 18,
   "EOS_Completed": 50,
   "EOS_Progressed": 1000,
-  "LastUpdate_Achievements": "2023-05-04T22:24:55.3008268+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:03.6315974+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:12.0585143+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:10.7173329+00:00",
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
@@ -470,9 +470,9 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 71,
-  "Ranking_EOS_NewCompleters": 49,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_Progress": 161,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,

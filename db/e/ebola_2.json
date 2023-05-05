@@ -128,7 +128,7 @@
       "Name": "Statue \u2714",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "achVirus",
@@ -158,13 +158,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-04T22:20:02.8825824+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:03:19.760574+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:20:02.884822+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:41.1008036+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:03:19.7611419+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:02.8513149+00:00",
   "AchievementSets": [
     {
       "ID": "1al1mjg",
@@ -174,8 +174,8 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00"

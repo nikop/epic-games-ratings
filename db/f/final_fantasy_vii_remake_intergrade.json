@@ -7,13 +7,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5454
+      "Count": 5455
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3671
+      "Count": 3672
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -61,7 +61,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 317
+      "Count": 318
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2844,6 +2844,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 11964,
       "NumberOfAwardsMax": 5454
+    },
+    {
+      "Time": "2023-05-05T01:52:55.4459844+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 11965,
+      "NumberOfAwardsMax": 5454
+    },
+    {
+      "Time": "2023-05-05T02:59:59.0408348+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 11966,
+      "NumberOfAwardsMax": 5455
+    },
+    {
+      "Time": "2023-05-05T04:59:25.7372684+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 11967,
+      "NumberOfAwardsMax": 5455
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2852,18 +2870,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:23:45.3444605+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:00.8776056+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:04:48.2750939+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:07.9900807+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T19:59:26.6784174+00:00",
+  "LastChanged": "2023-05-05T04:59:25.7372674+00:00",
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 5454,
-  "NumberOfAwards": 11964,
+  "NumberOfAwardsMax": 5455,
+  "NumberOfAwards": 11967,
   "NumberOfRatings": 15120,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 71,

@@ -1,37 +1,37 @@
 # Adios
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.50 (Ranked 912)  
+Rating: 3.50 (Ranked 913)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~1,132,383 |
-| Hard Worker | 19.00% | ~1,024,537 |
-| Master, Commander | 19.00% | ~1,024,537 |
-| Mechanic | 18.00% | ~970,614 |
-| Adios, Friendo | 17.00% | ~916,691 |
-| Bottom's Up | 17.00% | ~916,691 |
-| Nice Try | 16.00% | ~862,768 |
-| Right On Target | 13.00% | ~700,999 |
-| Piano Man | 10.00% | ~539,230 |
-| Lazy Bones | 9.00% | ~485,307 |
-| Vinyl Vibes | 7.00% | ~377,461 |
-| Nothing Left to Say | 6.00% | ~323,538 |
-| Sniper | 6.00% | ~323,538 |
-| Cut Call | 5.00% | ~269,615 |
-| Butcher | 4.00% | ~215,692 |
-| Magnetic Miracles | 4.00% | ~215,692 |
-| Spicy | 4.00% | ~215,692 |
-| A Man Of Taste | 3.00% | ~161,769 |
-| Fair's Fair | 3.00% | ~161,769 |
-| Hearty | 3.00% | ~161,769 |
-| Meaty | 3.00% | ~161,769 |
-| Taco Toto | 3.00% | ~161,769 |
-| Ace in the Hole | 2.00% | ~107,846 |
-| Audiophile | 2.00% | ~107,846 |
-| Tape Head | 1.00% | ~53,923 |
+| Be Seeing You | 21.00% | ~11,336 |
+| Hard Worker | 19.00% | ~10,256 |
+| Master, Commander | 19.00% | ~10,256 |
+| Mechanic | 18.00% | ~9,717 |
+| Adios, Friendo | 17.00% | ~9,177 |
+| Bottom's Up | 17.00% | ~9,177 |
+| Nice Try | 16.00% | ~8,637 |
+| Right On Target | 13.00% | ~7,018 |
+| Piano Man | 10.00% | ~5,398 |
+| Lazy Bones | 9.00% | ~4,858 |
+| Vinyl Vibes | 7.00% | ~3,779 |
+| Nothing Left to Say | 6.00% | ~3,239 |
+| Sniper | 6.00% | ~3,239 |
+| Cut Call | 5.00% | ~2,699 |
+| Butcher | 4.00% | ~2,159 |
+| Magnetic Miracles | 4.00% | ~2,159 |
+| Spicy | 4.00% | ~2,159 |
+| A Man Of Taste | 3.00% | ~1,619 |
+| Fair's Fair | 3.00% | ~1,619 |
+| Hearty | 3.00% | ~1,619 |
+| Meaty | 3.00% | ~1,619 |
+| Taco Toto | 3.00% | ~1,619 |
+| Ace in the Hole | 2.00% | ~1,080 |
+| Audiophile | 2.00% | ~1,080 |
+| Tape Head | 1.00% | ~540 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,923 (Ranked 71)  
-Completed: 430 (0.80%) (Ranked 86)  
+Progressed: 53,981 (Ranked 71)  
+Completed: 433 (0.80%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,7 +44,8 @@ Completed: 430 (0.80%) (Ranked 86)
 | 2023-05-01 | 53,422 | 421 |
 | 2023-05-02 | 53,621 | 427 |
 | 2023-05-03 | 53,789 | 428 |
-| 2023-05-04 | 53,923 | 430 |
+| 2023-05-04 | 53,925 | 430 |
+| 2023-05-05 | 53,981 | 433 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

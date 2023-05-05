@@ -46,9 +46,9 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_07",
@@ -102,9 +102,9 @@
       "ID": "Achi_13",
       "SetID": "51a97k7",
       "Name": "Grand Escape",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_14",
@@ -134,17 +134,17 @@
       "ID": "Achi_17",
       "SetID": "51a97k7",
       "Name": "Space Warrior: Prologue",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 72,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_19",
@@ -158,9 +158,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_21",
@@ -174,17 +174,17 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 72,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_24",
@@ -198,9 +198,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_26",
@@ -214,9 +214,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_28",
@@ -224,7 +224,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_29",
@@ -238,9 +238,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 72,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_31",
@@ -262,41 +262,41 @@
       "ID": "Achi_33",
       "SetID": "51a97k7",
       "Name": "Antaeus",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_36",
       "SetID": "51a97k7",
       "Name": "Air Interception",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_38",
@@ -310,17 +310,17 @@
       "ID": "Achi_39",
       "SetID": "51a97k7",
       "Name": "Proliferation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_41",
@@ -479,6 +479,11 @@
       "Time": "2023-05-04T08:05:53.7289383+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:59.170959+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -491,18 +496,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T22:24:53.812163+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:11.4747132+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_Completed": 0,
-  "EOS_Progressed": 18,
-  "LastUpdate_Achievements": "2023-05-04T22:24:53.8122085+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:55.5438639+00:00",
+  "EOS_Progressed": 19,
+  "LastUpdate_Achievements": "2023-05-05T09:06:11.4747466+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:00.3315437+00:00",
   "AchievementSets": [
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
@@ -512,8 +517,8 @@
   "FirstSeen": "2023-05-02T05:59:19.9991116+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 295,
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00"

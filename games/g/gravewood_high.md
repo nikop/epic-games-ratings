@@ -1,6 +1,6 @@
 # Gravewood High
 [View Rawdata](../../db/g/gravewood_high.json)  
-Rating: 4.01 (Ranked 875)  
+Rating: 4.01 (Ranked 876)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -32,7 +32,7 @@
       "Name": "Defeat Quartermaster",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BEAT_QUEENBERRY",
@@ -88,7 +88,7 @@
       "Name": "Defend Shelbert",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COMPLETE_DEFENDSNAKEROOT",
@@ -240,7 +240,7 @@
       "Name": "Complete the Tutorial",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COMPLETE_WITCHFINALBATTLE",
@@ -296,7 +296,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_KILL_KNOT100",
@@ -344,7 +344,7 @@
       "Name": "Gunslinger",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_SPLINTER100",
@@ -360,7 +360,7 @@
       "Name": "Hunter",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_SPROUT100",
@@ -368,7 +368,7 @@
       "Name": "Keeper In Training",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_SPROUT1000",
@@ -376,7 +376,7 @@
       "Name": "Skilled Keeper",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_KILL_SPROUT10000",
@@ -416,7 +416,7 @@
       "Name": "Alert",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_THORN100",
@@ -440,7 +440,7 @@
       "Name": "Anti-Air",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_WINGCREEPER100",
@@ -581,13 +581,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 70,
-  "LastChanged_Achievements": "2023-05-04T22:24:20.6426608+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:31.9164485+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:24:20.6427757+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:50.9367528+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:31.9165025+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:15.6478814+00:00",
   "AchievementSets": [
     {
       "ID": "aichi7e",
@@ -602,8 +602,8 @@
   "FirstSeen": "2022-07-31T23:31:27.8477915+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00"

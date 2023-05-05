@@ -9,30 +9,30 @@ Diff (max vs sum): 66
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~666,531 |
-| What should I buy? | 83.00% | ~594,861 |
-| Focus! | 62.00% | ~444,354 |
-| Rescued Elder Ent | 62.00% | ~444,354 |
-| The End of the Gold Mane Knights | 46.00% | ~329,682 |
-| Rules of Etiquette | 39.00% | ~279,513 |
-| False Goddess, Disappear | 38.00% | ~272,346 |
-| Quick Movements | 33.00% | ~236,511 |
-| Inventory Management | 33.00% | ~236,511 |
-| The Fall of the Leonia Order | 28.00% | ~200,676 |
-| The Hero Killer | 27.00% | ~193,509 |
-| Go Home... | 25.00% | ~179,175 |
-| The Final Battle of the First Hero | 24.00% | ~172,008 |
-| Brain at Full Throttle | 22.00% | ~157,674 |
-| Rookies Welcome | 20.00% | ~143,340 |
-| Deadly Power | 15.00% | ~107,505 |
-| Castle Restoration Plans | 14.00% | ~100,338 |
-| The Dwarven Chandelier | 12.00% | ~86,004 |
-| Master of Speed | 9.00% | ~64,503 |
-| The Levitator | 5.00% | ~35,835 |
-| The God of Battle | 3.00% | ~21,501 |
-| Too Much of a Talker | 2.00% | ~14,334 |
-| The Skeleton King | 2.00% | ~14,334 |
-| Cold-Blooded | 0.80% | ~5,734 |
+| The Legend Begins | 93.00% | ~6,665 |
+| What should I buy? | 83.00% | ~5,949 |
+| Focus! | 62.00% | ~4,444 |
+| Rescued Elder Ent | 62.00% | ~4,444 |
+| The End of the Gold Mane Knights | 46.00% | ~3,297 |
+| Rules of Etiquette | 39.00% | ~2,795 |
+| False Goddess, Disappear | 38.00% | ~2,723 |
+| Quick Movements | 33.00% | ~2,365 |
+| Inventory Management | 33.00% | ~2,365 |
+| The Fall of the Leonia Order | 28.00% | ~2,007 |
+| The Hero Killer | 27.00% | ~1,935 |
+| Go Home... | 25.00% | ~1,792 |
+| The Final Battle of the First Hero | 24.00% | ~1,720 |
+| Brain at Full Throttle | 22.00% | ~1,577 |
+| Rookies Welcome | 20.00% | ~1,433 |
+| Deadly Power | 15.00% | ~1,075 |
+| Castle Restoration Plans | 14.00% | ~1,003 |
+| The Dwarven Chandelier | 12.00% | ~860 |
+| Master of Speed | 9.00% | ~645 |
+| The Levitator | 5.00% | ~358 |
+| The God of Battle | 3.00% | ~215 |
+| Too Much of a Talker | 2.00% | ~143 |
+| The Skeleton King | 2.00% | ~143 |
+| Cold-Blooded | 0.80% | ~57 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,167 (Ranked 110)  
 Completed: 11 (0.15%) (Ranked 138)  

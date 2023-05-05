@@ -5,54 +5,54 @@ Number of Ratings: 82  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| And So It Begins | 0.30% | ~2,893 |
-| Agent | 0.20% | ~1,928 |
-| A Real Landlord | 0.20% | ~1,928 |
-| Cleaning Service | 0.20% | ~1,928 |
-| Filthy Rich | 0.20% | ~1,928 |
-| Gotta Start Somewhere | 0.20% | ~1,928 |
-| Home, Sweet Home | 0.20% | ~1,928 |
-| Kill It With Gas | 0.20% | ~1,928 |
-| Loaded | 0.20% | ~1,928 |
-| Lured In | 0.20% | ~1,928 |
-| Renovator | 0.20% | ~1,928 |
-| Master Renovator | 0.20% | ~1,928 |
-| Still Kind Of Poor | 0.20% | ~1,928 |
-| Treasure Hunter | 0.20% | ~1,928 |
-| Well Off | 0.20% | ~1,928 |
-| Expert Agent | 0.10% | ~964 |
-| Master Agent | 0.10% | ~964 |
-| Another One | 0.10% | ~964 |
-| Babysitter | 0.10% | ~964 |
-| Expert Babysitter | 0.10% | ~964 |
-| Master Babysitter | 0.10% | ~964 |
-| Better Safe Than Sorry | 0.10% | ~964 |
-| Bookworm | 0.10% | ~964 |
-| Decorator | 0.10% | ~964 |
-| Double Digits | 0.10% | ~964 |
-| Face of Streaming | 0.10% | ~964 |
-| Gardener | 0.10% | ~964 |
-| I’m On A Boat | 0.10% | ~964 |
-| I’ve Had Enough | 0.10% | ~964 |
-| Kitchen Hell | 0.10% | ~964 |
-| Landlord’s Dream | 0.10% | ~964 |
-| Matchmaker | 0.10% | ~964 |
-| Millionaire | 0.10% | ~964 |
-| Mr Clean | 0.10% | ~964 |
-| Passive Income | 0.10% | ~964 |
-| Petty Bickering | 0.10% | ~964 |
-| Privileged | 0.10% | ~964 |
-| Rat Race | 0.10% | ~964 |
-| Realtor | 0.10% | ~964 |
-| Master Realtor | 0.10% | ~964 |
-| Expert Renovator | 0.10% | ~964 |
-| Run, Forrest, Run! | 0.10% | ~964 |
-| Senpai | 0.10% | ~964 |
-| TGIF | 0.10% | ~964 |
-| The Aftershock | 0.10% | ~964 |
-| The More The Merrier | 0.10% | ~964 |
-| Well, Scratch That | 0.10% | ~964 |
-| What’s That Smell? | 0.10% | ~964 |
+| And So It Begins | 0.30% | ~29 |
+| Agent | 0.20% | ~19 |
+| A Real Landlord | 0.20% | ~19 |
+| Cleaning Service | 0.20% | ~19 |
+| Filthy Rich | 0.20% | ~19 |
+| Gotta Start Somewhere | 0.20% | ~19 |
+| Home, Sweet Home | 0.20% | ~19 |
+| Kill It With Gas | 0.20% | ~19 |
+| Loaded | 0.20% | ~19 |
+| Lured In | 0.20% | ~19 |
+| Renovator | 0.20% | ~19 |
+| Master Renovator | 0.20% | ~19 |
+| Still Kind Of Poor | 0.20% | ~19 |
+| Treasure Hunter | 0.20% | ~19 |
+| Well Off | 0.20% | ~19 |
+| Expert Agent | 0.10% | ~10 |
+| Master Agent | 0.10% | ~10 |
+| Another One | 0.10% | ~10 |
+| Babysitter | 0.10% | ~10 |
+| Expert Babysitter | 0.10% | ~10 |
+| Master Babysitter | 0.10% | ~10 |
+| Better Safe Than Sorry | 0.10% | ~10 |
+| Bookworm | 0.10% | ~10 |
+| Decorator | 0.10% | ~10 |
+| Double Digits | 0.10% | ~10 |
+| Face of Streaming | 0.10% | ~10 |
+| Gardener | 0.10% | ~10 |
+| I’m On A Boat | 0.10% | ~10 |
+| I’ve Had Enough | 0.10% | ~10 |
+| Kitchen Hell | 0.10% | ~10 |
+| Landlord’s Dream | 0.10% | ~10 |
+| Matchmaker | 0.10% | ~10 |
+| Millionaire | 0.10% | ~10 |
+| Mr Clean | 0.10% | ~10 |
+| Passive Income | 0.10% | ~10 |
+| Petty Bickering | 0.10% | ~10 |
+| Privileged | 0.10% | ~10 |
+| Rat Race | 0.10% | ~10 |
+| Realtor | 0.10% | ~10 |
+| Master Realtor | 0.10% | ~10 |
+| Expert Renovator | 0.10% | ~10 |
+| Run, Forrest, Run! | 0.10% | ~10 |
+| Senpai | 0.10% | ~10 |
+| TGIF | 0.10% | ~10 |
+| The Aftershock | 0.10% | ~10 |
+| The More The Merrier | 0.10% | ~10 |
+| Well, Scratch That | 0.10% | ~10 |
+| What’s That Smell? | 0.10% | ~10 |
 | 5G | 0.00% | ~0 |
 | Achievement Hunter | 0.00% | ~0 |
 | Banksy | 0.00% | ~0 |

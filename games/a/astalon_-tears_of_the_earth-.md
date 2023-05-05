@@ -3,36 +3,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 46.00% | ~2,392 |
-| Beast Quest | 33.00% | ~1,716 |
-| Monster Hunt | 33.00% | ~1,716 |
-| Orb Gatherer | 31.00% | ~1,612 |
-| Beast Hunter | 31.00% | ~1,612 |
-| Space worm! | 31.00% | ~1,612 |
-| Vanquisher! | 29.00% | ~1,508 |
-| Orb Collector | 29.00% | ~1,508 |
-| Snakehead! | 29.00% | ~1,508 |
-| Unmasked! | 29.00% | ~1,508 |
-| Fly, you fool! | 29.00% | ~1,508 |
-| Loot, loot! | 29.00% | ~1,508 |
-| Beast Knight | 27.00% | ~1,404 |
-| Twin slayer! | 27.00% | ~1,404 |
-| Mercenary! | 27.00% | ~1,404 |
-| God of the Tower! | 25.00% | ~1,300 |
-| Relic Collector | 25.00% | ~1,300 |
-| Cartographer | 25.00% | ~1,300 |
-| Wizard Mastery | 19.00% | ~988 |
-| Rogue Mastery | 17.00% | ~884 |
-| Fighter Mastery | 15.00% | ~780 |
-| Slay the Monster! | 15.00% | ~780 |
-| Gorgonslayer Mastery | 13.00% | ~676 |
-| Built for adventure | 13.00% | ~676 |
-| Collector Mastery | 13.00% | ~676 |
-| Destoy all monsters! | 13.00% | ~676 |
-| True Black Knight | 10.00% | ~520 |
-| Freedom Monster | 8.00% | ~416 |
-| No match for me! | 4.00% | ~208 |
-| True Titan | 4.00% | ~208 |
+| Horn prize! | 46.00% | ~24 |
+| Beast Quest | 33.00% | ~17 |
+| Monster Hunt | 33.00% | ~17 |
+| Orb Gatherer | 31.00% | ~16 |
+| Beast Hunter | 31.00% | ~16 |
+| Space worm! | 31.00% | ~16 |
+| Vanquisher! | 29.00% | ~15 |
+| Orb Collector | 29.00% | ~15 |
+| Snakehead! | 29.00% | ~15 |
+| Unmasked! | 29.00% | ~15 |
+| Fly, you fool! | 29.00% | ~15 |
+| Loot, loot! | 29.00% | ~15 |
+| Beast Knight | 27.00% | ~14 |
+| Twin slayer! | 27.00% | ~14 |
+| Mercenary! | 27.00% | ~14 |
+| God of the Tower! | 25.00% | ~13 |
+| Relic Collector | 25.00% | ~13 |
+| Cartographer | 25.00% | ~13 |
+| Wizard Mastery | 19.00% | ~10 |
+| Rogue Mastery | 17.00% | ~9 |
+| Fighter Mastery | 15.00% | ~8 |
+| Slay the Monster! | 15.00% | ~8 |
+| Gorgonslayer Mastery | 13.00% | ~7 |
+| Built for adventure | 13.00% | ~7 |
+| Collector Mastery | 13.00% | ~7 |
+| Destoy all monsters! | 13.00% | ~7 |
+| True Black Knight | 10.00% | ~5 |
+| Freedom Monster | 8.00% | ~4 |
+| No match for me! | 4.00% | ~2 |
+| True Titan | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 271)  
 Completed: 2 (3.85%) (Ranked 33)  

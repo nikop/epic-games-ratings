@@ -1,6 +1,6 @@
 # Trackmania Turbo
 [View Rawdata](../../db/t/trackmania_turbo.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

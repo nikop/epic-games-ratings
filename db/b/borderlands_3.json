@@ -7,7 +7,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 108597
+      "Count": 108663
     },
     {
       "Text": "This game is Great for Beginners",
@@ -49,7 +49,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23463
+      "Count": 23480
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5207,6 +5207,18 @@
       "Rating": 4.69,
       "NumberOfAwards": 340340,
       "NumberOfAwardsMax": 108597
+    },
+    {
+      "Time": "2023-05-04T22:33:20.4624714+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 340357,
+      "NumberOfAwardsMax": 108597
+    },
+    {
+      "Time": "2023-05-05T02:59:30.5454276+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 340423,
+      "NumberOfAwardsMax": 108663
     }
   ],
   "TotalAchievementsXP": 0,
@@ -5215,18 +5227,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:23:29.8217495+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:37.8079778+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:04:29.3511885+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:37.9092898+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T22:00:23.637466+00:00",
+  "LastChanged": "2023-05-05T02:59:30.5454274+00:00",
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 108597,
-  "NumberOfAwards": 340340,
+  "NumberOfAwardsMax": 108663,
+  "NumberOfAwards": 340423,
   "NumberOfRatings": 151211,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 9,

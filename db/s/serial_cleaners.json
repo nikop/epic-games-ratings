@@ -40,7 +40,7 @@
       "Name": "Pride and Joy",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 93
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -72,15 +72,15 @@
       "Name": "Small-time Finder",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 1
     },
     {
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 2
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -88,7 +88,7 @@
       "Name": "Business as usual",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -182,9 +182,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VIPER_HACKING",
@@ -211,6 +211,11 @@
       "Time": "2023-05-02T12:04:29.0400657+00:00",
       "NumProgressed": 155,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-05T02:32:09.8234003+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 5
     }
   ],
   "RatingHistory": [
@@ -223,35 +228,35 @@
   ],
   "TotalAchievementsXP": 1300,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:24:43.7173756+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:59.1599809+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_Completed": 5,
-  "EOS_Progressed": 155,
-  "LastUpdate_Achievements": "2023-05-04T22:24:43.7174049+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:20.565541+00:00",
+  "EOS_Progressed": 156,
+  "LastUpdate_Achievements": "2023-05-05T09:05:59.1599947+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:14.8436406+00:00",
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 5
     }
   ],
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.21,
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_Progress": 229,
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00"

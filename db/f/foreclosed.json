@@ -8,7 +8,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 12
     },
     {
       "ID": "AutoBullets_0",
@@ -16,7 +16,7 @@
       "Name": "Hunter",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 2
     },
     {
       "ID": "AutoBullets_1",
@@ -24,7 +24,7 @@
       "Name": "No Place to Hide",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 2
     },
     {
       "ID": "ClubTurretsHack",
@@ -32,7 +32,7 @@
       "Name": "Sapper",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1606
+      "UsersEstimate": 16
     },
     {
       "ID": "EnemyDefeat_0",
@@ -40,7 +40,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1314
+      "UsersEstimate": 13
     },
     {
       "ID": "EnemyDefeat_1",
@@ -48,7 +48,7 @@
       "Name": "Cyborg",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 876
+      "UsersEstimate": 9
     },
     {
       "ID": "ExpertChoice",
@@ -56,7 +56,7 @@
       "Name": "Tough Decision",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 17
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -64,7 +64,7 @@
       "Name": "Breaking Through",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 52
     },
     {
       "ID": "FirstSkillBuy",
@@ -72,7 +72,7 @@
       "Name": "A.I. Training",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3796
+      "UsersEstimate": 38
     },
     {
       "ID": "GunUnlock",
@@ -80,7 +80,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 4234
+      "UsersEstimate": 42
     },
     {
       "ID": "Headshots_0",
@@ -88,7 +88,7 @@
       "Name": "Sniper",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2920
+      "UsersEstimate": 29
     },
     {
       "ID": "Headshots_1",
@@ -96,7 +96,7 @@
       "Name": "Veteran Sniper",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 1387
+      "UsersEstimate": 14
     },
     {
       "ID": "KyklosPlan",
@@ -104,7 +104,7 @@
       "Name": "The Red Herring",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2482
+      "UsersEstimate": 25
     },
     {
       "ID": "LiftEnemies_0",
@@ -112,7 +112,7 @@
       "Name": "Lifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 584
+      "UsersEstimate": 6
     },
     {
       "ID": "LiftEnemies_1",
@@ -120,7 +120,7 @@
       "Name": "Zero Gravity",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 3
     },
     {
       "ID": "Neuroconnector",
@@ -128,7 +128,7 @@
       "Name": "The Neuro-connector",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 15
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -136,7 +136,7 @@
       "Name": "Silent Overload",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4599
+      "UsersEstimate": 46
     },
     {
       "ID": "SecretEnding",
@@ -144,7 +144,7 @@
       "Name": "A Voice in the Dark",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 2
     },
     {
       "ID": "StealthDefeat_0",
@@ -152,7 +152,7 @@
       "Name": "Flatline",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1387
+      "UsersEstimate": 14
     },
     {
       "ID": "StealthDefeat_1",
@@ -160,7 +160,7 @@
       "Name": "Brain-hacker",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 6
     },
     {
       "ID": "StoryEnd",
@@ -168,7 +168,7 @@
       "Name": "One Click Away",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 12
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -176,7 +176,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1533
+      "UsersEstimate": 15
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -184,7 +184,7 @@
       "Name": "Gravity Bender",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 6
     },
     {
       "ID": "ThirdAutoSkillUnlock",
@@ -192,7 +192,7 @@
       "Name": "Telekinesis",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2117
+      "UsersEstimate": 21
     }
   ],
   "Tags": [],
@@ -223,13 +223,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T22:24:40.4851093+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:54.8268523+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 73,
-  "LastUpdate_Achievements": "2023-05-04T22:24:40.4851321+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:08.3645119+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:54.8268655+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:59.1502592+00:00",
   "AchievementSets": [
     {
       "ID": "9e3d06k",
@@ -244,8 +244,8 @@
   "FirstSeen": "2022-07-22T20:32:15.7439274+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_Progress": 257,
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00"

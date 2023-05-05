@@ -3,30 +3,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 90.00% | ~6,930 |
-| Wake Up | 81.00% | ~6,237 |
-| Time Gates | 64.00% | ~4,928 |
-| Command Centre | 53.00% | ~4,081 |
-| This is a Wall | 49.00% | ~3,773 |
-| 48 Attempts | 40.00% | ~3,080 |
-| Extendable Bridges | 39.00% | ~3,003 |
-| Chain Reaction | 38.00% | ~2,926 |
-| Man's Best Friend | 36.00% | ~2,772 |
-| Handyman | 27.00% | ~2,079 |
-| No Time To Relax | 17.00% | ~1,309 |
-| Running Boots | 17.00% | ~1,309 |
-| Bad Robots | 16.00% | ~1,232 |
-| Fashionista | 16.00% | ~1,232 |
-| Archivist | 13.00% | ~1,001 |
-| Looper | 10.00% | ~770 |
-| Cataclysm | 9.00% | ~693 |
-| So Close | 8.00% | ~616 |
-| Transformers, cubes in disguise | 8.00% | ~616 |
-| Kaboom! | 8.00% | ~616 |
-| All Alone | 8.00% | ~616 |
-| Final Charge | 8.00% | ~616 |
-| Reunited | 8.00% | ~616 |
-| Summer Luvin' | 4.00% | ~308 |
+| It's Rewind Time | 90.00% | ~69 |
+| Wake Up | 81.00% | ~62 |
+| Time Gates | 64.00% | ~49 |
+| Command Centre | 53.00% | ~41 |
+| This is a Wall | 49.00% | ~38 |
+| 48 Attempts | 40.00% | ~31 |
+| Extendable Bridges | 39.00% | ~30 |
+| Chain Reaction | 38.00% | ~29 |
+| Man's Best Friend | 36.00% | ~28 |
+| Handyman | 27.00% | ~21 |
+| No Time To Relax | 17.00% | ~13 |
+| Running Boots | 17.00% | ~13 |
+| Bad Robots | 16.00% | ~12 |
+| Fashionista | 16.00% | ~12 |
+| Archivist | 13.00% | ~10 |
+| Looper | 10.00% | ~8 |
+| Cataclysm | 9.00% | ~7 |
+| So Close | 8.00% | ~6 |
+| Transformers, cubes in disguise | 8.00% | ~6 |
+| Kaboom! | 8.00% | ~6 |
+| All Alone | 8.00% | ~6 |
+| Final Charge | 8.00% | ~6 |
+| Reunited | 8.00% | ~6 |
+| Summer Luvin' | 4.00% | ~3 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |

@@ -3,59 +3,59 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 105.00% | ~9,030 |
-| Every little bit counts | 98.00% | ~8,428 |
-| Break no Sweat | 97.00% | ~8,342 |
-| Growth | 86.00% | ~7,396 |
-| Targeting the Enemy | 69.00% | ~5,934 |
-| Unavoidable | 64.00% | ~5,504 |
-| Revenge | 62.00% | ~5,332 |
-| Reunion | 42.00% | ~3,612 |
-| Fluke | 35.00% | ~3,010 |
-| Victor's Prejudice | 35.00% | ~3,010 |
-| Elimination | 33.00% | ~2,838 |
-| Excellent Driving Skills | 30.00% | ~2,580 |
-| Memento | 30.00% | ~2,580 |
-| Once Bitten, Twice Shy | 29.00% | ~2,494 |
-| Fleet-footed | 27.00% | ~2,322 |
-| Defeat the AI | 26.00% | ~2,236 |
-| Unsalvageable | 26.00% | ~2,236 |
-| Invincible | 26.00% | ~2,236 |
-| Neutralize | 24.00% | ~2,064 |
-| Best in Dragon City | 23.00% | ~1,978 |
-| Walking into a Trap | 23.00% | ~1,978 |
-| Disdain | 21.00% | ~1,806 |
-| Final Battle | 20.00% | ~1,720 |
-| Outsider's Profit | 20.00% | ~1,720 |
-| Brain in a Vat | 16.00% | ~1,376 |
-| Reappearance | 15.00% | ~1,290 |
-| King of the Streets | 12.00% | ~1,032 |
-| Calamity | 10.00% | ~860 |
-| Survival Expert | 10.00% | ~860 |
-| Rest in peace | 9.00% | ~774 |
-| Still A Chance | 8.00% | ~688 |
-| Achieving Excellence | 8.00% | ~688 |
-| Fashionista | 8.00% | ~688 |
-| Intel Expert | 6.00% | ~516 |
-| Unexpected Crisis | 5.00% | ~430 |
-| Limbo | 5.00% | ~430 |
-| Ninja Killer | 5.00% | ~430 |
-| Greetings | 5.00% | ~430 |
-| Time's Up | 3.00% | ~258 |
-| Prowess | 3.00% | ~258 |
-| Interception | 2.00% | ~172 |
-| Giving Up | 2.00% | ~172 |
-| Escape Master | 2.00% | ~172 |
-| Clairvoyance | 2.00% | ~172 |
-| Encore | 2.00% | ~172 |
-| Pro Gamer | 1.00% | ~86 |
-| Cat Lover | 1.00% | ~86 |
-| Story King | 1.00% | ~86 |
-| Omni-compatibility | 1.00% | ~86 |
-| Arms Expert | 1.00% | ~86 |
-| Weapon Expert | 1.00% | ~86 |
-| Win by Surprise | 1.00% | ~86 |
-| Thoughts | 1.00% | ~86 |
+| Black Cat's Warning | 105.00% | ~90 |
+| Every little bit counts | 98.00% | ~84 |
+| Break no Sweat | 97.00% | ~83 |
+| Growth | 86.00% | ~74 |
+| Targeting the Enemy | 69.00% | ~59 |
+| Unavoidable | 64.00% | ~55 |
+| Revenge | 62.00% | ~53 |
+| Reunion | 42.00% | ~36 |
+| Fluke | 35.00% | ~30 |
+| Victor's Prejudice | 35.00% | ~30 |
+| Elimination | 33.00% | ~28 |
+| Excellent Driving Skills | 30.00% | ~26 |
+| Memento | 30.00% | ~26 |
+| Once Bitten, Twice Shy | 29.00% | ~25 |
+| Fleet-footed | 27.00% | ~23 |
+| Defeat the AI | 26.00% | ~22 |
+| Unsalvageable | 26.00% | ~22 |
+| Invincible | 26.00% | ~22 |
+| Neutralize | 24.00% | ~21 |
+| Best in Dragon City | 23.00% | ~20 |
+| Walking into a Trap | 23.00% | ~20 |
+| Disdain | 21.00% | ~18 |
+| Final Battle | 20.00% | ~17 |
+| Outsider's Profit | 20.00% | ~17 |
+| Brain in a Vat | 16.00% | ~14 |
+| Reappearance | 15.00% | ~13 |
+| King of the Streets | 12.00% | ~10 |
+| Calamity | 10.00% | ~9 |
+| Survival Expert | 10.00% | ~9 |
+| Rest in peace | 9.00% | ~8 |
+| Still A Chance | 8.00% | ~7 |
+| Achieving Excellence | 8.00% | ~7 |
+| Fashionista | 8.00% | ~7 |
+| Intel Expert | 6.00% | ~5 |
+| Unexpected Crisis | 5.00% | ~4 |
+| Limbo | 5.00% | ~4 |
+| Ninja Killer | 5.00% | ~4 |
+| Greetings | 5.00% | ~4 |
+| Time's Up | 3.00% | ~3 |
+| Prowess | 3.00% | ~3 |
+| Interception | 2.00% | ~2 |
+| Giving Up | 2.00% | ~2 |
+| Escape Master | 2.00% | ~2 |
+| Clairvoyance | 2.00% | ~2 |
+| Encore | 2.00% | ~2 |
+| Pro Gamer | 1.00% | ~1 |
+| Cat Lover | 1.00% | ~1 |
+| Story King | 1.00% | ~1 |
+| Omni-compatibility | 1.00% | ~1 |
+| Arms Expert | 1.00% | ~1 |
+| Weapon Expert | 1.00% | ~1 |
+| Win by Surprise | 1.00% | ~1 |
+| Thoughts | 1.00% | ~1 |
 | Terrible Weather | 0.00% | ~0 |
 | Extreme Challenge | 0.00% | ~0 |
 | Heavenly Music | 0.00% | ~0 |

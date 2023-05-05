@@ -5,39 +5,39 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 25.00% | ~21,725 |
-| Grenadier | 24.00% | ~20,856 |
-| War Never Changes | 24.00% | ~20,856 |
-| Heroes Never Die | 22.00% | ~19,118 |
-| Mosquito bite | 21.00% | ~18,249 |
-| Spice It Up | 19.00% | ~16,511 |
-| Agent 47 | 16.00% | ~13,904 |
-| You're Gonna Go Far, Kid | 16.00% | ~13,904 |
-| Bomberman | 16.00% | ~13,904 |
-| Death to the Oppressor! | 12.00% | ~10,428 |
-| The Gang's All Here | 10.00% | ~8,690 |
-| Your Answer | 9.00% | ~7,821 |
-| The Big Bertha | 8.00% | ~6,952 |
-| Game Over | 7.00% | ~6,083 |
-| One by One | 7.00% | ~6,083 |
-| Lock, Stock | 5.00% | ~4,345 |
-| Payback Time | 4.00% | ~3,476 |
-| No Witness | 3.00% | ~2,607 |
-| Strategist | 2.00% | ~1,738 |
-| Unbreakable Wall | 1.00% | ~869 |
-| Do a Barrel Roll! | 0.70% | ~608 |
-| Experienced Strategist | 0.70% | ~608 |
-| Tough as Nails | 0.30% | ~261 |
-| How?! | 0.30% | ~261 |
-| We Weren't There | 0.20% | ~174 |
-| Commandos | 0.10% | ~87 |
-| A Little Culture | 0.10% | ~87 |
+| E1M1 | 25.00% | ~218 |
+| Grenadier | 24.00% | ~209 |
+| War Never Changes | 24.00% | ~209 |
+| Heroes Never Die | 22.00% | ~191 |
+| Mosquito bite | 21.00% | ~183 |
+| Spice It Up | 19.00% | ~165 |
+| Agent 47 | 16.00% | ~139 |
+| You're Gonna Go Far, Kid | 16.00% | ~139 |
+| Bomberman | 16.00% | ~139 |
+| Death to the Oppressor! | 12.00% | ~104 |
+| The Gang's All Here | 10.00% | ~87 |
+| Your Answer | 9.00% | ~78 |
+| The Big Bertha | 8.00% | ~70 |
+| Game Over | 7.00% | ~61 |
+| One by One | 7.00% | ~61 |
+| Lock, Stock | 5.00% | ~44 |
+| Payback Time | 4.00% | ~35 |
+| No Witness | 3.00% | ~26 |
+| Strategist | 2.00% | ~17 |
+| Unbreakable Wall | 1.00% | ~9 |
+| Do a Barrel Roll! | 0.70% | ~6 |
+| Experienced Strategist | 0.70% | ~6 |
+| Tough as Nails | 0.30% | ~3 |
+| How?! | 0.30% | ~3 |
+| We Weren't There | 0.20% | ~2 |
+| Commandos | 0.10% | ~1 |
+| A Little Culture | 0.10% | ~1 |
 | Inspector General | 0.00% | ~0 |
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869 (Ranked 164)  
-Completed: 1 (0.12%) (Ranked 146)  
+Progressed: 870 (Ranked 164)  
+Completed: 1 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,6 +51,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-02 | 864 | 1 |
 | 2023-05-03 | 867 | 1 |
 | 2023-05-04 | 869 | 1 |
+| 2023-05-05 | 870 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

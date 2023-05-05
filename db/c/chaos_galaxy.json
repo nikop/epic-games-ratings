@@ -24,7 +24,7 @@
       "Name": "Assassination",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 3
     },
     {
       "ID": "12",
@@ -32,7 +32,7 @@
       "Name": "2nd AI War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
@@ -56,7 +56,7 @@
       "Name": "Tyrant Rise",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 5
     },
     {
       "ID": "16",
@@ -64,7 +64,7 @@
       "Name": "Great Civil War",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "17",
@@ -96,7 +96,7 @@
       "Name": "Secret War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "20",
@@ -272,7 +272,7 @@
       "Name": "Investment",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 2
     },
     {
       "ID": "40",
@@ -352,7 +352,7 @@
       "Name": "Tech Breakthrough",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
@@ -360,7 +360,7 @@
       "Name": "Honor Medal",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 1
     },
     {
       "ID": "7",
@@ -403,13 +403,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-04T22:24:21.0811965+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:32.3836017+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-04T22:24:21.0812368+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:34.2173924+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:32.3836361+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:33.1843961+00:00",
   "AchievementSets": [
     {
       "ID": "4fgie3j",
@@ -419,8 +419,8 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 306,
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00"

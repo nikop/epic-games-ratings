@@ -1,68 +1,68 @@
 # Gamedec - Definitive Edition
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.33 (Ranked 730)  
+Rating: 4.33 (Ranked 731)  
 Number of Ratings: 33  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 71  (Ranked 359)  
-Sum: 71 (Ranked 414)  
-Diff (max vs sum): -55  
+Sum: 71 (Ranked 415)  
+Diff (max vs sum): -56  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~6,243,160 |
-| Powergamer | 26.00% | ~5,797,220 |
-| Barely scratched the surface | 25.00% | ~5,574,250 |
-| Write that down | 24.00% | ~5,351,280 |
-| Guns, lots of guns | 12.00% | ~2,675,640 |
-| Collector | 11.00% | ~2,452,670 |
-| Elementary! | 8.00% | ~1,783,760 |
-| Pumpkin Jack | 8.00% | ~1,783,760 |
-| Wake up! | 8.00% | ~1,783,760 |
-| It's honest work | 7.00% | ~1,560,790 |
-| Griever | 7.00% | ~1,560,790 |
-| Me smart | 6.00% | ~1,337,820 |
-| Good listener | 5.00% | ~1,114,850 |
-| Trash compactor | 5.00% | ~1,114,850 |
-| Valedictorian | 5.00% | ~1,114,850 |
-| BOY! | 4.00% | ~891,880 |
-| Ka-ching! | 4.00% | ~891,880 |
-| I like to sniff around | 3.00% | ~668,910 |
-| Mind reader | 3.00% | ~668,910 |
-| So you like to read? | 3.00% | ~668,910 |
-| Gentleman's classic | 2.00% | ~445,940 |
-| Hoarder | 2.00% | ~445,940 |
-| Is that a rift? | 2.00% | ~445,940 |
-| It's alive! | 2.00% | ~445,940 |
-| Enjoy the beach | 2.00% | ~445,940 |
-| Rinse and repeat | 2.00% | ~445,940 |
-| Mama, I'm a criminal | 2.00% | ~445,940 |
-| Never gonna give you up | 2.00% | ~445,940 |
-| A muscle to rely on | 1.00% | ~222,970 |
-| Catnip | 1.00% | ~222,970 |
-| I am in great pain, please help me | 1.00% | ~222,970 |
-| High noon | 1.00% | ~222,970 |
-| Random encounter | 1.00% | ~222,970 |
-| SysOp on duty | 1.00% | ~222,970 |
-| Take the blue pill | 1.00% | ~222,970 |
-| A true blacksmith | 0.90% | ~200,673 |
-| The power of three | 0.90% | ~200,673 |
-| Let's try another | 0.80% | ~178,376 |
-| Home run | 0.80% | ~178,376 |
-| It's blue, always blue | 0.70% | ~156,079 |
-| I have the high ground | 0.60% | ~133,782 |
-| Who wouldn't love a troll? | 0.50% | ~111,485 |
-| Enjoy these little moments | 0.40% | ~89,188 |
-| Un-bear-able | 0.40% | ~89,188 |
-| Irondec | 0.30% | ~66,891 |
-| LET ME OUT! | 0.30% | ~66,891 |
-| Well-deserved reunion | 0.30% | ~66,891 |
-| Breaking the chains | 0.20% | ~44,594 |
-| Aren't you overthinking? | 0.20% | ~44,594 |
-| Take the red pill | 0.20% | ~44,594 |
-| This is the way | 0.20% | ~44,594 |
-| Memory 5 | 0.10% | ~22,297 |
+| I will finish what you started | 28.00% | ~62,453 |
+| Powergamer | 26.00% | ~57,992 |
+| Barely scratched the surface | 25.00% | ~55,761 |
+| Write that down | 24.00% | ~53,531 |
+| Guns, lots of guns | 12.00% | ~26,765 |
+| Collector | 11.00% | ~24,535 |
+| Elementary! | 8.00% | ~17,844 |
+| Pumpkin Jack | 8.00% | ~17,844 |
+| Wake up! | 8.00% | ~17,844 |
+| It's honest work | 7.00% | ~15,613 |
+| Griever | 7.00% | ~15,613 |
+| Me smart | 6.00% | ~13,383 |
+| Good listener | 5.00% | ~11,152 |
+| Trash compactor | 5.00% | ~11,152 |
+| Valedictorian | 5.00% | ~11,152 |
+| BOY! | 4.00% | ~8,922 |
+| Ka-ching! | 4.00% | ~8,922 |
+| I like to sniff around | 3.00% | ~6,691 |
+| Mind reader | 3.00% | ~6,691 |
+| So you like to read? | 3.00% | ~6,691 |
+| Gentleman's classic | 2.00% | ~4,461 |
+| Hoarder | 2.00% | ~4,461 |
+| Is that a rift? | 2.00% | ~4,461 |
+| It's alive! | 2.00% | ~4,461 |
+| Enjoy the beach | 2.00% | ~4,461 |
+| Rinse and repeat | 2.00% | ~4,461 |
+| Mama, I'm a criminal | 2.00% | ~4,461 |
+| Never gonna give you up | 2.00% | ~4,461 |
+| A muscle to rely on | 1.00% | ~2,230 |
+| Catnip | 1.00% | ~2,230 |
+| I am in great pain, please help me | 1.00% | ~2,230 |
+| High noon | 1.00% | ~2,230 |
+| Random encounter | 1.00% | ~2,230 |
+| SysOp on duty | 1.00% | ~2,230 |
+| Take the blue pill | 1.00% | ~2,230 |
+| A true blacksmith | 0.90% | ~2,007 |
+| The power of three | 0.90% | ~2,007 |
+| Let's try another | 0.80% | ~1,784 |
+| Home run | 0.80% | ~1,784 |
+| It's blue, always blue | 0.70% | ~1,561 |
+| I have the high ground | 0.60% | ~1,338 |
+| Who wouldn't love a troll? | 0.50% | ~1,115 |
+| Enjoy these little moments | 0.40% | ~892 |
+| Un-bear-able | 0.40% | ~892 |
+| Irondec | 0.30% | ~669 |
+| LET ME OUT! | 0.30% | ~669 |
+| Well-deserved reunion | 0.30% | ~669 |
+| Breaking the chains | 0.20% | ~446 |
+| Aren't you overthinking? | 0.20% | ~446 |
+| Take the red pill | 0.20% | ~446 |
+| This is the way | 0.20% | ~446 |
+| Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,970 (Ranked 42)  
+Progressed: 223,045 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,8 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-01 | 222,319 | 5 |
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
-| 2023-05-04 | 222,970 | 5 |
+| 2023-05-04 | 222,974 | 5 |
+| 2023-05-05 | 223,045 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

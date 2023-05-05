@@ -1,10 +1,10 @@
 # Killing Floor 2
 [View Rawdata](../../db/k/killing_floor_2.json)  
-Rating: 4.42 (Ranked 641)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 11,874  (Ranked 28)  
-Sum: 25,659 (Ranked 46)  
+Sum: 25,662 (Ranked 46)  
 Diff (max vs sum): -18  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,9 +17,9 @@ Diff (max vs sum): -18
 | This game is Relaxing | 1,587 |
 | This game has Diverse Characters | 1,580 |
 | This game is Extremely Fun | 1,561 |
-| This game has Quickly Understood Controls | 1,549 |
+| This game has Quickly Understood Controls | 1,550 |
 | This game has Amazing Characters | 1,520 |
-| This game is Highly Recommended | 1,503 |
+| This game is Highly Recommended | 1,505 |
 | This game has Challenging Combat | 1,480 |
 | This game has Amazing Storytelling | 1,327 |
 ## Ratings History
@@ -127,4 +127,5 @@ Diff (max vs sum): -18
 | 2023-05-01 | 4.41 | - | 11,848 | 25,597 |
 | 2023-05-02 | 4.41 | - | 11,857 | 25,623 |
 | 2023-05-03 | 4.41 | - | 11,870 | 25,643 |
-| 2023-05-04 | 4.42 | - | 11,874 | 25,659 |
+| 2023-05-04 | 4.42 | - | 11,874 | 25,660 |
+| 2023-05-05 | 4.41 | - | 11,874 | 25,662 |

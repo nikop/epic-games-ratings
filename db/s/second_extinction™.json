@@ -7,13 +7,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 387
+      "Count": 393
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Diverse Characters",
@@ -872,17 +872,29 @@
       "Rating": 4.07,
       "NumberOfAwards": 433,
       "NumberOfAwardsMax": 387
+    },
+    {
+      "Time": "2023-05-05T02:25:20.0563291+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 439,
+      "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-05-05T08:59:19.1539321+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 393
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-04T22:24:42.6303487+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:57.0790812+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:24:42.6303532+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:23.4879722+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:57.0790836+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:19.1539325+00:00",
   "AchievementSets": [
     {
       "ID": "9pom9m2",
@@ -892,19 +904,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T06:58:53.5604981+00:00",
+  "LastChanged": "2023-05-05T08:59:19.153932+00:00",
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 387,
-  "NumberOfAwards": 433,
+  "NumberOfAwardsMax": 393,
+  "NumberOfAwards": 440,
   "NumberOfRatings": 617,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 293,
   "Ranking_Popularity": 201,
-  "Ranking_Rating": 861,
-  "Rating": 4.07,
+  "Ranking_Rating": 866,
+  "Rating": 4.06,
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00"
 }

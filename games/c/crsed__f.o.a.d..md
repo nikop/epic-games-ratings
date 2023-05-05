@@ -1,10 +1,10 @@
 # CRSED: F.O.A.D.
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.35 (Ranked 713)  
+Rating: 4.35 (Ranked 712)  
 Number of Ratings: 464  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 90  (Ranked 334)  
-Sum: 600 (Ranked 274)  
+Sum: 601 (Ranked 274)  
 Diff (max vs sum): 60  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,7 +16,7 @@ Diff (max vs sum): 60
 | This game is Relaxing | 83 |
 | This game has Quickly Understood Controls | 82 |
 | This game has Amazing Characters | 80 |
-| This game is Extremely Fun | 78 |
+| This game is Extremely Fun | 79 |
 | This game has Diverse Characters | 76 |
 | This game has Competitive Players | 74 |
 | This game has Challenging Combat | 73 |
@@ -124,3 +124,4 @@ Diff (max vs sum): 60
 | 2023-04-30 | 4.35 | - | 90 | 677 |
 | 2023-05-01 | 4.35 | - | 90 | 679 |
 | 2023-05-02 | 4.35 | - | 90 | 680 |
+| 2023-05-05 | 4.35 | - | 90 | 601 |

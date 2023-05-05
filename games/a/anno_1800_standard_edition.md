@@ -1,6 +1,6 @@
 # Anno 1800 Standard Edition
 [View Rawdata](../../db/a/anno_1800_standard_edition.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.82 (Ranked 59)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,260  (Ranked 120)  
@@ -145,3 +145,4 @@ Diff (max vs sum): 41
 | 2023-05-02 | 4.82 | - | 1,252 | 9,702 |
 | 2023-05-03 | 4.82 | - | 1,257 | 9,739 |
 | 2023-05-04 | 4.82 | - | 1,260 | 9,761 |
+| 2023-05-05 | 4.82 | - | 1,260 | 9,761 |

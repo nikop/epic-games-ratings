@@ -3,9 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock Out | 60.00% | ~300 |
-| Frostbite | 40.00% | ~200 |
-| And the Hare | 40.00% | ~200 |
+| Rock Out | 60.00% | ~3 |
+| Frostbite | 40.00% | ~2 |
+| And the Hare | 40.00% | ~2 |
 | Stolen Thunder | 0.00% | ~0 |
 | Legal Action | 0.00% | ~0 |
 | Initiative | 0.00% | ~0 |
@@ -16,7 +16,7 @@
 | Are You Happy Now? | 0.00% | ~0 |
 | Life Lessons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 322)  
+Progressed: 5 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immersion Breaking | 50.00% | ~100 |
+| Immersion Breaking | 50.00% | ~1 |
 | Booty Master | 0.00% | ~0 |
 | Defeated Captain Tutorial | 0.00% | ~0 |
 | Defeated Booty The Bootleg | 0.00% | ~0 |

@@ -8,7 +8,7 @@
       "Name": "Agent 47",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 13904
+      "UsersEstimate": 139
     },
     {
       "ID": "Auditor",
@@ -24,7 +24,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 6
     },
     {
       "ID": "Big_Bertha",
@@ -32,7 +32,7 @@
       "Name": "The Big Bertha",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6952
+      "UsersEstimate": 70
     },
     {
       "ID": "Boy",
@@ -40,7 +40,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 13904
+      "UsersEstimate": 139
     },
     {
       "ID": "Commandos",
@@ -48,7 +48,7 @@
       "Name": "Commandos",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 1
     },
     {
       "ID": "Death_to_the_dictator",
@@ -56,7 +56,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 10428
+      "UsersEstimate": 104
     },
     {
       "ID": "Defense_Common",
@@ -64,7 +64,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 9
     },
     {
       "ID": "Defense_Epic",
@@ -80,7 +80,7 @@
       "Name": "Lock, Stock",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4345
+      "UsersEstimate": 44
     },
     {
       "ID": "E1M1",
@@ -88,7 +88,7 @@
       "Name": "E1M1",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 21725
+      "UsersEstimate": 218
     },
     {
       "ID": "Everyone_is_here",
@@ -96,7 +96,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 8690
+      "UsersEstimate": 87
     },
     {
       "ID": "Experienced_strategist",
@@ -104,7 +104,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 6
     },
     {
       "ID": "Game_Over",
@@ -112,7 +112,7 @@
       "Name": "Game Over",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 6083
+      "UsersEstimate": 61
     },
     {
       "ID": "Grenadier",
@@ -120,7 +120,7 @@
       "Name": "Grenadier",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 20856
+      "UsersEstimate": 209
     },
     {
       "ID": "Hard_Serpent",
@@ -128,7 +128,7 @@
       "Name": "Tough as Nails",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 3
     },
     {
       "ID": "Heroes_never_die",
@@ -136,7 +136,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 19118
+      "UsersEstimate": 191
     },
     {
       "ID": "High_noon",
@@ -144,7 +144,7 @@
       "Name": "Payback Time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3476
+      "UsersEstimate": 35
     },
     {
       "ID": "How",
@@ -152,7 +152,7 @@
       "Name": "How?!",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 261
+      "UsersEstimate": 3
     },
     {
       "ID": "Its_very_spicy",
@@ -160,7 +160,7 @@
       "Name": "Spice It Up",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 16511
+      "UsersEstimate": 165
     },
     {
       "ID": "KillAllM2",
@@ -168,7 +168,7 @@
       "Name": "No Witness",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2607
+      "UsersEstimate": 26
     },
     {
       "ID": "Kultprosvet",
@@ -176,7 +176,7 @@
       "Name": "A Little Culture",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 1
     },
     {
       "ID": "Long_fire",
@@ -184,7 +184,7 @@
       "Name": "One by One",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6083
+      "UsersEstimate": 61
     },
     {
       "ID": "Miner",
@@ -192,7 +192,7 @@
       "Name": "Bomberman",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13904
+      "UsersEstimate": 139
     },
     {
       "ID": "MoskitoBite",
@@ -200,7 +200,7 @@
       "Name": "Mosquito bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 18249
+      "UsersEstimate": 183
     },
     {
       "ID": "Scout",
@@ -216,7 +216,7 @@
       "Name": "Strategist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1738
+      "UsersEstimate": 17
     },
     {
       "ID": "War_never_changes",
@@ -224,7 +224,7 @@
       "Name": "War Never Changes",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 20856
+      "UsersEstimate": 209
     },
     {
       "ID": "We_were_not_here",
@@ -232,7 +232,7 @@
       "Name": "We Weren\u0027t There",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 174
+      "UsersEstimate": 2
     },
     {
       "ID": "Your_turn",
@@ -240,7 +240,7 @@
       "Name": "Your Answer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7821
+      "UsersEstimate": 78
     }
   ],
   "Tags": [],
@@ -358,6 +358,11 @@
     {
       "Time": "2023-05-04T18:04:45.4390533+00:00",
       "NumProgressed": 869,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T08:05:53.629547+00:00",
+      "NumProgressed": 870,
       "NumCompleted": 1
     }
   ],
@@ -635,30 +640,30 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-04T22:24:45.0883964+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:00.506432+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 19,
   "EOS_Completed": 1,
-  "EOS_Progressed": 869,
-  "LastUpdate_Achievements": "2023-05-04T22:24:45.0884249+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:23.4880336+00:00",
+  "EOS_Progressed": 870,
+  "LastUpdate_Achievements": "2023-05-05T09:06:00.5064504+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:19.2524203+00:00",
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 98,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_Progress": 164,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,

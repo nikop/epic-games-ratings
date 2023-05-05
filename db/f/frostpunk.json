@@ -7,7 +7,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 740
+      "Count": 741
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -37,7 +37,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 703
+      "Count": 704
     },
     {
       "Text": "This game is Highly Recommended",
@@ -67,7 +67,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 608
+      "Count": 609
     }
   ],
   "EosHistory": [],
@@ -3304,17 +3304,35 @@
       "Rating": 4.74,
       "NumberOfAwards": 6419,
       "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2023-05-04T23:57:24.0383085+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6420,
+      "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2023-05-05T04:57:21.7679827+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6421,
+      "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2023-05-05T07:57:33.7156499+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6422,
+      "NumberOfAwardsMax": 768
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-04T22:24:15.7375693+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:25.8239496+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:24:15.7375732+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:04.3891928+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:25.8239522+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:33.5141638+00:00",
   "AchievementSets": [
     {
       "ID": "bf9dj5j",
@@ -3324,14 +3342,14 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T16:57:51.5919883+00:00",
+  "LastChanged": "2023-05-05T07:57:33.7156496+00:00",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 768,
-  "NumberOfAwards": 6419,
+  "NumberOfAwards": 6422,
   "NumberOfRatings": 11240,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 109,

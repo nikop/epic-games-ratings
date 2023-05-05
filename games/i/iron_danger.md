@@ -3,29 +3,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~13,284 |
-| Found the Healer | 32.00% | ~5,248 |
-| Second Shard | 10.00% | ~1,640 |
-| Ring of Fire! | 9.00% | ~1,476 |
-| Third Shard | 9.00% | ~1,476 |
-| Champion of Kalevala | 8.00% | ~1,312 |
-| Death is Merely a Setback | 8.00% | ~1,312 |
-| Berry Nice | 7.00% | ~1,148 |
-| Keyu Exterminator | 6.00% | ~984 |
-| Fourth Shard | 6.00% | ~984 |
-| Big Fish | 5.00% | ~820 |
-| Tastes Like Chicken | 5.00% | ~820 |
-| Fifth Shard | 5.00% | ~820 |
-| Good Stew | 4.00% | ~656 |
-| Green Thumb | 4.00% | ~656 |
-| Avian Veterinarian | 4.00% | ~656 |
-| Finished Iron Danger | 4.00% | ~656 |
-| Bird Butcherer | 3.00% | ~492 |
-| Natural Selection | 3.00% | ~492 |
-| Mushroom Forager | 2.00% | ~328 |
-| Knock, Knock! | 2.00% | ~328 |
-| Trolled | 2.00% | ~328 |
-| Troll Hunter | 2.00% | ~328 |
+| First Shard | 81.00% | ~133 |
+| Found the Healer | 32.00% | ~52 |
+| Second Shard | 10.00% | ~16 |
+| Ring of Fire! | 9.00% | ~15 |
+| Third Shard | 9.00% | ~15 |
+| Champion of Kalevala | 8.00% | ~13 |
+| Death is Merely a Setback | 8.00% | ~13 |
+| Berry Nice | 7.00% | ~11 |
+| Keyu Exterminator | 6.00% | ~10 |
+| Fourth Shard | 6.00% | ~10 |
+| Big Fish | 5.00% | ~8 |
+| Tastes Like Chicken | 5.00% | ~8 |
+| Fifth Shard | 5.00% | ~8 |
+| Good Stew | 4.00% | ~7 |
+| Green Thumb | 4.00% | ~7 |
+| Avian Veterinarian | 4.00% | ~7 |
+| Finished Iron Danger | 4.00% | ~7 |
+| Bird Butcherer | 3.00% | ~5 |
+| Natural Selection | 3.00% | ~5 |
+| Mushroom Forager | 2.00% | ~3 |
+| Knock, Knock! | 2.00% | ~3 |
+| Trolled | 2.00% | ~3 |
+| Troll Hunter | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 164 (Ranked 226)  
 Completed: 4 (2.44%) (Ranked 53)  

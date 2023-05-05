@@ -7,7 +7,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1133
+      "Count": 1134
     },
     {
       "Text": "This game has Challenging Combat",
@@ -19,7 +19,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1099
+      "Count": 1102
     },
     {
       "Text": "This game is Extremely Fun",
@@ -31,7 +31,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1131
+      "Count": 1135
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3838,6 +3838,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 9273,
       "NumberOfAwardsMax": 1133
+    },
+    {
+      "Time": "2023-05-05T03:58:28.1131881+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9276,
+      "NumberOfAwardsMax": 1133
+    },
+    {
+      "Time": "2023-05-05T04:57:57.0481495+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9277,
+      "NumberOfAwardsMax": 1134
+    },
+    {
+      "Time": "2023-05-05T07:58:20.8570041+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9281,
+      "NumberOfAwardsMax": 1135
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3846,18 +3864,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:19:52.9636594+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:39.4889743+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:00:59.127593+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:19.4156614+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T13:03:56.6856384+00:00",
+  "LastChanged": "2023-05-05T07:58:20.8570039+00:00",
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 1133,
-  "NumberOfAwards": 9273,
+  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwardsMax": 1135,
+  "NumberOfAwards": 9281,
   "NumberOfRatings": 7396,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 80,

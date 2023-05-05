@@ -1,10 +1,10 @@
 # SnowRunner
 [View Rawdata](../../db/s/snowrunner.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 Number of Ratings: 21,349  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 7,869  (Ranked 39)  
-Sum: 55,908 (Ranked 19)  
+Sum: 55,934 (Ranked 19)  
 Diff (max vs sum): 20  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Diff (max vs sum): 20
 | This game is Great for Beginners | 7,869 |
 | This game is Relaxing | 7,285 |
 | This game has Quickly Understood Controls | 7,223 |
-| This game is Highly Recommended | 7,086 |
-| This game is Extremely Fun | 6,876 |
+| This game is Highly Recommended | 7,099 |
+| This game is Extremely Fun | 6,889 |
 | This game has Amazing Storytelling | 6,173 |
 | This game has Challenging Combat | 4,842 |
 | This game has Amazing Characters | 4,385 |
@@ -124,3 +124,4 @@ Diff (max vs sum): 20
 | 2023-05-02 | 4.76 | - | 7,831 | 55,741 |
 | 2023-05-03 | 4.76 | - | 7,846 | 55,831 |
 | 2023-05-04 | 4.76 | - | 7,869 | 55,908 |
+| 2023-05-05 | 4.76 | - | 7,869 | 55,934 |

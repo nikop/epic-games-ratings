@@ -8,7 +8,7 @@
       "Name": "FOBOS fear has been reduced to dust",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Blow_Cleard_Up_Achievement",
@@ -16,7 +16,7 @@
       "Name": "EXPLOSA exploded",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Clean_Freak_Achievement",
@@ -32,7 +32,7 @@
       "Name": "GLOOMDOOM has been zapped",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Dedicated_Floor_1_Gamer_Achievement",
@@ -72,7 +72,7 @@
       "Name": "Bentley is saved",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Find_Duplicio_Achievement",
@@ -80,7 +80,7 @@
       "Name": "DUPLICIO has been found",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Gouge_Randomas_Eyes_Achievement",
@@ -88,7 +88,7 @@
       "Name": "RANDOMA\u0027s eyes has been gouged",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "I_Know_My_Way_Around_Achievement",
@@ -96,7 +96,7 @@
       "Name": "I know my way around!",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Light_Neos_Up_Achievement",
@@ -104,7 +104,7 @@
       "Name": "NEOS is lighted up",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "Magnetize_Achievement",
@@ -112,7 +112,7 @@
       "Name": "Magnetized",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "Poster_Collector_Achievement",
@@ -128,7 +128,7 @@
       "Name": "INPUTO\u0027s curse is lifted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "The_Collector_Achievement",
@@ -165,13 +165,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-04T22:24:13.3114428+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:23.0179782+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T22:24:13.3114654+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:47.6730993+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:23.0179903+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:30.0086472+00:00",
   "AchievementSets": [
     {
       "ID": "2kpkmk",
@@ -186,8 +186,8 @@
   "FirstSeen": "2022-12-16T03:58:02.7411463+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 331,
   "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00"

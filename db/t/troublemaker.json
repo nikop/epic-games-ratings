@@ -8,7 +8,7 @@
       "Name": "Troublemaker",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_10",
@@ -80,7 +80,7 @@
       "Name": "Fist of Steel",
       "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_19",
@@ -104,7 +104,7 @@
       "Name": "They Gonna Need Another Pants",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_21",
@@ -128,7 +128,7 @@
       "Name": "Another Man Trash Is Another Man Treasure",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_24",
@@ -136,7 +136,7 @@
       "Name": "Break Their Bones",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_25",
@@ -152,7 +152,7 @@
       "Name": "They Pick the Wrong Guy",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_4",
@@ -184,7 +184,7 @@
       "Name": "Go With the Flow",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 1
     },
     {
       "ID": "tbm_a_8",
@@ -221,13 +221,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-04T22:24:43.1607009+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:58.1640838+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-04T22:24:43.16073+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:20.6889132+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:58.1640979+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:15.3118893+00:00",
   "AchievementSets": [
     {
       "ID": "aijfp1i",
@@ -242,8 +242,8 @@
   "FirstSeen": "2023-04-02T06:59:01.0065166+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00"

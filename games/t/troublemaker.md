@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Troublemaker | 100.00% | ~100 |
-| Fist of Steel | 100.00% | ~100 |
-| They Gonna Need Another Pants | 100.00% | ~100 |
-| Another Man Trash Is Another Man Treasure | 100.00% | ~100 |
-| Break Their Bones | 100.00% | ~100 |
-| They Pick the Wrong Guy | 100.00% | ~100 |
-| Go With the Flow | 100.00% | ~100 |
+| Troublemaker | 100.00% | ~1 |
+| Fist of Steel | 100.00% | ~1 |
+| They Gonna Need Another Pants | 100.00% | ~1 |
+| Another Man Trash Is Another Man Treasure | 100.00% | ~1 |
+| Break Their Bones | 100.00% | ~1 |
+| They Pick the Wrong Guy | 100.00% | ~1 |
+| Go With the Flow | 100.00% | ~1 |
 | I'm the One Who Can Fight | 0.00% | ~0 |
 | It's All About Respect! | 0.00% | ~0 |
 | The End of Tournament | 0.00% | ~0 |

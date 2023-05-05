@@ -1,53 +1,53 @@
 # MORDHAU
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 59  (Ranked 377)  
-Sum: 304 (Ranked 323)  
-Diff (max vs sum): 54  
+Sum: 309 (Ranked 322)  
+Diff (max vs sum): 55  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~63,489,545 |
-| The ABCs | 43.00% | ~55,715,315 |
-| Home Run | 42.00% | ~54,419,610 |
-| Keeps Coming Off | 40.00% | ~51,828,200 |
-| Guts | 20.00% | ~25,914,100 |
-| Meat Grinder | 20.00% | ~25,914,100 |
-| Burning Man | 16.00% | ~20,731,280 |
-| Lived to Tell the Tale | 11.00% | ~14,252,755 |
-| Highlander | 10.00% | ~12,957,050 |
-| Unstoppable | 10.00% | ~12,957,050 |
-| Just a Scratch | 8.00% | ~10,365,640 |
-| Tough Nut to Crack | 5.00% | ~6,478,525 |
-| Yoink | 5.00% | ~6,478,525 |
-| Long List of Names | 3.00% | ~3,887,115 |
-| Pyromaniac | 3.00% | ~3,887,115 |
-| The Queen of Weapons | 3.00% | ~3,887,115 |
-| This isn’t Sparta | 2.00% | ~2,591,410 |
-| Poacher | 2.00% | ~2,591,410 |
-| You’re Welcome | 2.00% | ~2,591,410 |
-| Crybaby | 1.00% | ~1,295,705 |
-| Eagle Eye | 1.00% | ~1,295,705 |
-| I Know Kung Fu | 1.00% | ~1,295,705 |
-| Put That Away | 1.00% | ~1,295,705 |
-| Coming Through | 0.70% | ~906,994 |
-| Chambermaid | 0.50% | ~647,852 |
-| Training Accident | 0.50% | ~647,852 |
-| Virtuoso | 0.50% | ~647,852 |
-| Boxer | 0.40% | ~518,282 |
-| Rock’n’Roll | 0.40% | ~518,282 |
-| Whack-A-Mole | 0.30% | ~388,712 |
-| Flyswatter | 0.20% | ~259,141 |
-| Vlad the Impaler | 0.20% | ~259,141 |
-| Clobbered | 0.10% | ~129,570 |
-| Ended Rightly | 0.10% | ~129,570 |
-| Friend Indeed | 0.10% | ~129,570 |
-| Living Sculpture | 0.10% | ~129,570 |
-| That’s No Ordinary Cold | 0.10% | ~129,570 |
-| Stairway to Hell | 0.10% | ~129,570 |
+| Justice from the Grave | 49.00% | ~635,687 |
+| The ABCs | 43.00% | ~557,848 |
+| Home Run | 42.00% | ~544,875 |
+| Keeps Coming Off | 40.00% | ~518,928 |
+| Guts | 20.00% | ~259,464 |
+| Meat Grinder | 20.00% | ~259,464 |
+| Burning Man | 16.00% | ~207,571 |
+| Lived to Tell the Tale | 11.00% | ~142,705 |
+| Highlander | 10.00% | ~129,732 |
+| Unstoppable | 10.00% | ~129,732 |
+| Just a Scratch | 8.00% | ~103,786 |
+| Tough Nut to Crack | 5.00% | ~64,866 |
+| Yoink | 5.00% | ~64,866 |
+| Long List of Names | 3.00% | ~38,920 |
+| Pyromaniac | 3.00% | ~38,920 |
+| The Queen of Weapons | 3.00% | ~38,920 |
+| This isn’t Sparta | 2.00% | ~25,946 |
+| Poacher | 2.00% | ~25,946 |
+| You’re Welcome | 2.00% | ~25,946 |
+| Crybaby | 1.00% | ~12,973 |
+| Eagle Eye | 1.00% | ~12,973 |
+| I Know Kung Fu | 1.00% | ~12,973 |
+| Put That Away | 1.00% | ~12,973 |
+| Coming Through | 0.70% | ~9,081 |
+| Chambermaid | 0.50% | ~6,487 |
+| Training Accident | 0.50% | ~6,487 |
+| Virtuoso | 0.50% | ~6,487 |
+| Boxer | 0.40% | ~5,189 |
+| Rock’n’Roll | 0.40% | ~5,189 |
+| Whack-A-Mole | 0.30% | ~3,892 |
+| Flyswatter | 0.20% | ~2,595 |
+| Vlad the Impaler | 0.20% | ~2,595 |
+| Clobbered | 0.10% | ~1,297 |
+| Ended Rightly | 0.10% | ~1,297 |
+| Friend Indeed | 0.10% | ~1,297 |
+| Living Sculpture | 0.10% | ~1,297 |
+| That’s No Ordinary Cold | 0.10% | ~1,297 |
+| Stairway to Hell | 0.10% | ~1,297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,295,705 (Ranked 7)  
+Progressed: 1,297,321 (Ranked 7)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,8 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 1,278,102 | 6 |
 | 2023-05-02 | 1,284,775 | 6 |
 | 2023-05-03 | 1,290,562 | 6 |
-| 2023-05-04 | 1,295,705 | 6 |
+| 2023-05-04 | 1,295,838 | 6 |
+| 2023-05-05 | 1,297,321 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -70,7 +71,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | This game has Competitive Players | 51 |
 | This game has Diverse Characters | 49 |
 | This game is Extremely Fun | 48 |
-| This game has Amazing Characters | 41 |
+| This game has Amazing Characters | 46 |
 | This game has Amazing Storytelling | 41 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -95,4 +96,4 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 4.41 | 47 | 264 |
 | 2023-05-02 | 4.41 | 51 | 296 |
 | 2023-05-03 | 4.41 | 56 | 306 |
-| 2023-05-04 | 4.41 | 59 | 304 |
+| 2023-05-04 | 4.41 | 59 | 309 |

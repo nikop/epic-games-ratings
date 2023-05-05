@@ -1,62 +1,62 @@
 # Port Royale 4
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 3.99 (Ranked 879)  
+Rating: 3.99 (Ranked 880)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~40,880 |
-| My little farm | 65.00% | ~33,215 |
-| Every beginning is difficult | 62.00% | ~31,682 |
-| 3, 2, 1, mine | 55.00% | ~28,105 |
-| Gofer | 55.00% | ~28,105 |
-| Seafarer | 54.00% | ~27,594 |
-| O Captain! My Captain! | 53.00% | ~27,083 |
-| Greed for gold | 42.00% | ~21,462 |
-| Intangible | 41.00% | ~20,951 |
-| I'm out of here for a while | 39.00% | ~19,929 |
-| In a mint condition | 38.00% | ~19,418 |
-| Licence to Kill | 35.00% | ~17,885 |
-| Pirates! | 35.00% | ~17,885 |
-| Collectionitis | 28.00% | ~14,308 |
-| Megalomania | 28.00% | ~14,308 |
-| Christening | 26.00% | ~13,286 |
-| Groundskeeper | 26.00% | ~13,286 |
-| Wholesale | 23.00% | ~11,753 |
-| Walk the plank | 21.00% | ~10,731 |
-| My precious! | 19.00% | ~9,709 |
-| Pearly gates | 17.00% | ~8,687 |
-| Conquistador | 14.00% | ~7,154 |
-| Panic buying | 12.00% | ~6,132 |
-| Just a scratch | 10.00% | ~5,110 |
-| Your vessel, my vessel | 10.00% | ~5,110 |
-| All mine! | 9.00% | ~4,599 |
-| Paths of Glory | 9.00% | ~4,599 |
-| Maker | 8.00% | ~4,088 |
-| Panel of experts | 8.00% | ~4,088 |
-| Conglomerate | 7.00% | ~3,577 |
-| The Grande Bouffe | 6.00% | ~3,066 |
-| Buccaneer | 5.00% | ~2,555 |
-| Flying Dutchman | 4.00% | ~2,044 |
-| A true pirate! | 4.00% | ~2,044 |
-| Overpopulation | 4.00% | ~2,044 |
-| Premier Maître | 3.00% | ~1,533 |
-| Supreme conqueror | 3.00% | ~1,533 |
-| Strategist | 3.00% | ~1,533 |
-| The customer is always right | 2.00% | ~1,022 |
-| Master & Commander | 2.00% | ~1,022 |
-| All aboard! | 2.00% | ~1,022 |
-| Gold fever | 2.00% | ~1,022 |
-| Fill it up, please! | 2.00% | ~1,022 |
-| Capitalist | 1.00% | ~511 |
-| Administrator | 1.00% | ~511 |
-| Raiders of the Lost Ark | 1.00% | ~511 |
-| Traffic chaos | 1.00% | ~511 |
-| Parlay? | 1.00% | ~511 |
-| Fleet Admiral | 0.80% | ~409 |
-| Davy Jones' locker | 0.40% | ~204 |
+| Cabin boy | 80.00% | ~410 |
+| My little farm | 65.00% | ~333 |
+| Every beginning is difficult | 62.00% | ~317 |
+| 3, 2, 1, mine | 55.00% | ~282 |
+| Gofer | 55.00% | ~282 |
+| Seafarer | 54.00% | ~276 |
+| O Captain! My Captain! | 53.00% | ~271 |
+| Greed for gold | 42.00% | ~215 |
+| Intangible | 41.00% | ~210 |
+| I'm out of here for a while | 39.00% | ~200 |
+| In a mint condition | 38.00% | ~195 |
+| Licence to Kill | 35.00% | ~179 |
+| Pirates! | 35.00% | ~179 |
+| Megalomania | 29.00% | ~148 |
+| Collectionitis | 28.00% | ~143 |
+| Christening | 26.00% | ~133 |
+| Groundskeeper | 26.00% | ~133 |
+| Wholesale | 23.00% | ~118 |
+| Walk the plank | 21.00% | ~108 |
+| My precious! | 19.00% | ~97 |
+| Pearly gates | 17.00% | ~87 |
+| Conquistador | 14.00% | ~72 |
+| Panic buying | 12.00% | ~61 |
+| Just a scratch | 10.00% | ~51 |
+| Your vessel, my vessel | 10.00% | ~51 |
+| All mine! | 9.00% | ~46 |
+| Paths of Glory | 9.00% | ~46 |
+| Maker | 8.00% | ~41 |
+| Panel of experts | 8.00% | ~41 |
+| Conglomerate | 7.00% | ~36 |
+| The Grande Bouffe | 6.00% | ~31 |
+| Buccaneer | 5.00% | ~26 |
+| Flying Dutchman | 4.00% | ~20 |
+| A true pirate! | 4.00% | ~20 |
+| Overpopulation | 4.00% | ~20 |
+| Premier Maître | 3.00% | ~15 |
+| Supreme conqueror | 3.00% | ~15 |
+| Strategist | 3.00% | ~15 |
+| The customer is always right | 2.00% | ~10 |
+| Master & Commander | 2.00% | ~10 |
+| All aboard! | 2.00% | ~10 |
+| Gold fever | 2.00% | ~10 |
+| Fill it up, please! | 2.00% | ~10 |
+| Capitalist | 1.00% | ~5 |
+| Administrator | 1.00% | ~5 |
+| Raiders of the Lost Ark | 1.00% | ~5 |
+| Traffic chaos | 1.00% | ~5 |
+| Parlay? | 1.00% | ~5 |
+| Fleet Admiral | 0.80% | ~4 |
+| Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 186)  
+Progressed: 512 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 509 | 0 |
 | 2023-05-02 | 510 | 0 |
 | 2023-05-03 | 511 | 0 |
+| 2023-05-05 | 512 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

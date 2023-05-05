@@ -19,7 +19,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 702
+      "Count": 703
     },
     {
       "Text": "This game is Highly Recommended",
@@ -31,7 +31,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 711
+      "Count": 712
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1576,6 +1576,18 @@
       "Rating": 4.76,
       "NumberOfAwards": 6986,
       "NumberOfAwardsMax": 835
+    },
+    {
+      "Time": "2023-05-05T02:57:50.7664411+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6987,
+      "NumberOfAwardsMax": 835
+    },
+    {
+      "Time": "2023-05-05T03:58:02.8872984+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6988,
+      "NumberOfAwardsMax": 835
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1584,23 +1596,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T22:19:58.1976378+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:21.6790497+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:03:16.7840876+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:57.6124121+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T22:17:21.6790485+00:00",
+  "LastChanged": "2023-05-05T03:58:02.8872982+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 835,
-  "NumberOfAwards": 6986,
+  "NumberOfAwards": 6988,
   "NumberOfRatings": 1396,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 102,
   "Ranking_Popularity": 144,
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 114,
   "Rating": 4.76
 }

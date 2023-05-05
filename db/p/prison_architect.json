@@ -8,7 +8,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 232240
+      "UsersEstimate": 2325
     },
     {
       "ID": "Achievement_1",
@@ -16,7 +16,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 58060
+      "UsersEstimate": 581
     },
     {
       "ID": "Achievement_10",
@@ -24,7 +24,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 348360
+      "UsersEstimate": 3487
     },
     {
       "ID": "Achievement_11",
@@ -32,7 +32,7 @@
       "Name": "Wait and Hope",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 464480
+      "UsersEstimate": 4649
     },
     {
       "ID": "Achievement_12",
@@ -40,7 +40,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1974040
+      "UsersEstimate": 19760
     },
     {
       "ID": "Achievement_13",
@@ -48,7 +48,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 11612
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_14",
@@ -56,7 +56,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 11612
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_15",
@@ -64,7 +64,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 464480
+      "UsersEstimate": 4649
     },
     {
       "ID": "Achievement_2",
@@ -72,7 +72,7 @@
       "Name": "Reformation",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 69672
+      "UsersEstimate": 697
     },
     {
       "ID": "Achievement_3",
@@ -80,7 +80,7 @@
       "Name": "Freedom",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 46448
+      "UsersEstimate": 465
     },
     {
       "ID": "Achievement_4",
@@ -88,7 +88,7 @@
       "Name": "Stone Walls",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 3135240
+      "UsersEstimate": 31383
     },
     {
       "ID": "Achievement_5",
@@ -96,7 +96,7 @@
       "Name": "Iron Bars",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 348360
+      "UsersEstimate": 3487
     },
     {
       "ID": "Achievement_6",
@@ -104,7 +104,7 @@
       "Name": "Confined",
       "Percentage": 0.4,
       "XP": 120,
-      "UsersEstimate": 46448
+      "UsersEstimate": 465
     },
     {
       "ID": "Achievement_7",
@@ -112,7 +112,7 @@
       "Name": "D.B. Cooper",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 116120
+      "UsersEstimate": 1162
     },
     {
       "ID": "Achievement_8",
@@ -120,7 +120,7 @@
       "Name": "Samuel Norton",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1161200
+      "UsersEstimate": 11623
     },
     {
       "ID": "Achievement_9",
@@ -128,7 +128,7 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 580600
+      "UsersEstimate": 5812
     }
   ],
   "Tags": [
@@ -1287,6 +1287,66 @@
     {
       "Time": "2023-05-04T22:24:26.5889225+00:00",
       "NumProgressed": 116120,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-04T22:39:16.4623599+00:00",
+      "NumProgressed": 116121,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-04T23:04:34.7318326+00:00",
+      "NumProgressed": 116122,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T00:04:57.8449648+00:00",
+      "NumProgressed": 116132,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T01:58:26.1845919+00:00",
+      "NumProgressed": 116147,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T02:31:46.6036393+00:00",
+      "NumProgressed": 116156,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T03:05:09.7250568+00:00",
+      "NumProgressed": 116164,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T04:05:59.8489471+00:00",
+      "NumProgressed": 116178,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T05:04:49.5914301+00:00",
+      "NumProgressed": 116187,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T06:05:15.4960967+00:00",
+      "NumProgressed": 116201,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T07:05:17.8208162+00:00",
+      "NumProgressed": 116211,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T08:05:30.6421452+00:00",
+      "NumProgressed": 116225,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T09:05:38.4452365+00:00",
+      "NumProgressed": 116234,
       "NumCompleted": 4
     }
   ],
@@ -4093,18 +4153,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-04T22:24:26.5889218+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:38.4452363+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3384,
+  "EOS_NewPlayers": 3403,
   "EOS_Completed": 4,
-  "EOS_Progressed": 116120,
-  "LastUpdate_Achievements": "2023-05-04T22:24:26.5889553+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:39.8164755+00:00",
+  "EOS_Progressed": 116234,
+  "LastUpdate_Achievements": "2023-05-05T09:05:38.4452493+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:19.7460208+00:00",
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 116120,
+      "Progressed": 116234,
       "Completed": 4
     }
   ],
@@ -4115,7 +4175,7 @@
   "NumberOfAwardsMax": 410,
   "NumberOfAwards": 3224,
   "NumberOfRatings": 4491,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 56,

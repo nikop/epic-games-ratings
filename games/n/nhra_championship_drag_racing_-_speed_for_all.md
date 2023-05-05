@@ -3,29 +3,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~65,637 |
-| Trouble with the swerve | 69.00% | ~45,747 |
-| Oops, My bad | 68.00% | ~45,084 |
-| Don't get ahead on yourself | 40.00% | ~26,520 |
-| I didn't know you where there! | 31.00% | ~20,553 |
-| Participation trophy | 23.00% | ~15,249 |
-| Whole again | 12.00% | ~7,956 |
-| Getting the job done | 8.00% | ~5,304 |
-| Cash Rules Everything Around Me | 8.00% | ~5,304 |
-| Risky business | 6.00% | ~3,978 |
-| Ready to Mingle | 5.00% | ~3,315 |
-| First one tastes better | 4.00% | ~2,652 |
-| Better late then never | 4.00% | ~2,652 |
-| Better than the pros | 2.00% | ~1,326 |
-| In the bank | 1.00% | ~663 |
-| American Legend | 1.00% | ~663 |
-| Fan Boy | 0.90% | ~597 |
-| Dedicated tourist | 0.90% | ~597 |
-| Well oiled Veteran | 0.30% | ~199 |
-| For Science! | 0.30% | ~199 |
-| Lightning fast | 0.20% | ~133 |
-| Unstoppable Force | 0.20% | ~133 |
-| Secure the bag | 0.20% | ~133 |
+| Graduated | 99.00% | ~656 |
+| Trouble with the swerve | 69.00% | ~457 |
+| Oops, My bad | 68.00% | ~451 |
+| Don't get ahead on yourself | 40.00% | ~265 |
+| I didn't know you where there! | 31.00% | ~206 |
+| Participation trophy | 23.00% | ~152 |
+| Whole again | 12.00% | ~80 |
+| Getting the job done | 8.00% | ~53 |
+| Cash Rules Everything Around Me | 8.00% | ~53 |
+| Risky business | 6.00% | ~40 |
+| Ready to Mingle | 5.00% | ~33 |
+| First one tastes better | 4.00% | ~27 |
+| Better late then never | 4.00% | ~27 |
+| Better than the pros | 2.00% | ~13 |
+| In the bank | 1.00% | ~7 |
+| American Legend | 1.00% | ~7 |
+| Fan Boy | 0.90% | ~6 |
+| Dedicated tourist | 0.90% | ~6 |
+| Well oiled Veteran | 0.30% | ~2 |
+| For Science! | 0.30% | ~2 |
+| Lightning fast | 0.20% | ~1 |
+| Unstoppable Force | 0.20% | ~1 |
+| Secure the bag | 0.20% | ~1 |
 | Allaround speed demon | 0.00% | ~0 |
 | Simply the best | 0.00% | ~0 |
 | I don't take breaks, I break records | 0.00% | ~0 |

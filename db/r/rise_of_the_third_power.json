@@ -8,7 +8,7 @@
       "Name": "Attuned",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 45
     },
     {
       "ID": "BeginningOfTheEnd",
@@ -16,7 +16,7 @@
       "Name": "Beginning of the End",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2142
+      "UsersEstimate": 21
     },
     {
       "ID": "Bling",
@@ -24,7 +24,7 @@
       "Name": "Bling",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2023
+      "UsersEstimate": 20
     },
     {
       "ID": "Bloodlust",
@@ -32,7 +32,7 @@
       "Name": "Bloodlust",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 6783
+      "UsersEstimate": 68
     },
     {
       "ID": "Determined",
@@ -40,7 +40,7 @@
       "Name": "Determined",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2380
+      "UsersEstimate": 24
     },
     {
       "ID": "EmpyreanChampion",
@@ -48,7 +48,7 @@
       "Name": "Empyrean Champion",
       "Percentage": 9,
       "XP": 130,
-      "UsersEstimate": 1071
+      "UsersEstimate": 11
     },
     {
       "ID": "Expert",
@@ -56,7 +56,7 @@
       "Name": "Master Tactician",
       "Percentage": 3,
       "XP": 170,
-      "UsersEstimate": 357
+      "UsersEstimate": 4
     },
     {
       "ID": "Feast",
@@ -64,7 +64,7 @@
       "Name": "Feast",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 5117
+      "UsersEstimate": 51
     },
     {
       "ID": "Geared",
@@ -72,7 +72,7 @@
       "Name": "Geared",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 1904
+      "UsersEstimate": 19
     },
     {
       "ID": "GettingItDone",
@@ -80,7 +80,7 @@
       "Name": "Gettin\u0027 It Done",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 6545
+      "UsersEstimate": 65
     },
     {
       "ID": "MasterCrafter",
@@ -88,7 +88,7 @@
       "Name": "Master Crafter",
       "Percentage": 12,
       "XP": 130,
-      "UsersEstimate": 1428
+      "UsersEstimate": 14
     },
     {
       "ID": "MasterTrader",
@@ -96,7 +96,7 @@
       "Name": "Master Trader",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 1547
+      "UsersEstimate": 15
     },
     {
       "ID": "MysteriesOfRin",
@@ -104,7 +104,7 @@
       "Name": "Mysteries of Rin",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 1428
+      "UsersEstimate": 14
     },
     {
       "ID": "Opulent",
@@ -112,7 +112,7 @@
       "Name": "Opulent",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3689
+      "UsersEstimate": 37
     },
     {
       "ID": "Overpowered",
@@ -120,7 +120,7 @@
       "Name": "Overpowered",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 9758
+      "UsersEstimate": 98
     },
     {
       "ID": "Patience",
@@ -128,7 +128,7 @@
       "Name": "Patience",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 1071
+      "UsersEstimate": 11
     },
     {
       "ID": "ReadyToRock",
@@ -136,7 +136,7 @@
       "Name": "Ready to Rock",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2618
+      "UsersEstimate": 26
     },
     {
       "ID": "SideJob",
@@ -144,7 +144,7 @@
       "Name": "Side Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 9163
+      "UsersEstimate": 92
     },
     {
       "ID": "Sparkly",
@@ -152,7 +152,7 @@
       "Name": "Sparkly",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3451
+      "UsersEstimate": 35
     },
     {
       "ID": "Specialist",
@@ -160,7 +160,7 @@
       "Name": "Specialist",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 3808
+      "UsersEstimate": 38
     },
     {
       "ID": "Teamwork",
@@ -168,7 +168,7 @@
       "Name": "Teamwork",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2618
+      "UsersEstimate": 26
     }
   ],
   "Tags": [],
@@ -189,13 +189,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:24:40.0079575+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:54.6117261+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 4,
   "EOS_Progressed": 119,
-  "LastUpdate_Achievements": "2023-05-04T22:24:40.0079791+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:09.3382086+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:54.6117393+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:00.6458349+00:00",
   "AchievementSets": [
     {
       "ID": "4nce15l",
@@ -210,8 +210,8 @@
   "FirstSeen": "2022-07-22T20:32:22.4007155+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_Progress": 244,
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00"

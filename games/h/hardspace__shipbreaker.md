@@ -5,31 +5,31 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~43,654 |
-| It’s Heating up! | 69.00% | ~41,262 |
-| Let’s patch things up | 65.00% | ~38,870 |
-| I can fix it! | 62.00% | ~37,076 |
-| Post No Bills | 56.00% | ~33,488 |
-| Truly Shocking! | 47.00% | ~28,106 |
-| Critical Thinker | 34.00% | ~20,332 |
-| Always Finding Your Mark | 29.00% | ~17,342 |
-| The Weight of the World | 29.00% | ~17,342 |
-| Act I Complete | 26.00% | ~15,548 |
-| A drop in the Ocean | 26.00% | ~15,548 |
-| No Niños | 26.00% | ~15,548 |
-| I ain’t afraid of no Ghost | 24.00% | ~14,352 |
-| Act II Complete | 20.00% | ~11,960 |
-| A successful procedure! | 19.00% | ~11,362 |
-| Bing Bang BOOM | 18.00% | ~10,764 |
-| Breaking the Ice | 16.00% | ~9,568 |
-| Solidarity Forever | 12.00% | ~7,176 |
-| A Tucked Tale | 10.00% | ~5,980 |
-| The best thing money can buy | 9.00% | ~5,382 |
-| Act III Complete | 6.00% | ~3,588 |
-| Fire and Brimstone | 5.00% | ~2,990 |
-| See you Space Cowboy | 5.00% | ~2,990 |
-| Ghost in the Ship | 2.00% | ~1,196 |
-| Disagree and Commit | 0.20% | ~120 |
+| Breathe In… Breathe Out… | 73.00% | ~437 |
+| It’s Heating up! | 69.00% | ~413 |
+| Let’s patch things up | 65.00% | ~389 |
+| I can fix it! | 62.00% | ~371 |
+| Post No Bills | 56.00% | ~335 |
+| Truly Shocking! | 47.00% | ~281 |
+| Critical Thinker | 34.00% | ~203 |
+| Always Finding Your Mark | 29.00% | ~173 |
+| The Weight of the World | 29.00% | ~173 |
+| Act I Complete | 26.00% | ~155 |
+| A drop in the Ocean | 26.00% | ~155 |
+| No Niños | 26.00% | ~155 |
+| I ain’t afraid of no Ghost | 24.00% | ~144 |
+| Act II Complete | 20.00% | ~120 |
+| A successful procedure! | 19.00% | ~114 |
+| Bing Bang BOOM | 18.00% | ~108 |
+| Breaking the Ice | 16.00% | ~96 |
+| Solidarity Forever | 12.00% | ~72 |
+| A Tucked Tale | 10.00% | ~60 |
+| The best thing money can buy | 9.00% | ~54 |
+| Act III Complete | 6.00% | ~36 |
+| Fire and Brimstone | 5.00% | ~30 |
+| See you Space Cowboy | 5.00% | ~30 |
+| Ghost in the Ship | 2.00% | ~12 |
+| Disagree and Commit | 0.20% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

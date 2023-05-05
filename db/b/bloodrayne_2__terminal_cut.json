@@ -8,7 +8,7 @@
       "Name": "Amateur Electrician",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Armed_And_Dangerous",
@@ -16,7 +16,7 @@
       "Name": "Armed and Dangerous",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Carnage",
@@ -64,7 +64,7 @@
       "Name": "Go for the Heart",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Going_Batty",
@@ -72,7 +72,7 @@
       "Name": "Going Batty",
       "Percentage": 25,
       "XP": 150,
-      "UsersEstimate": 200
+      "UsersEstimate": 2
     },
     {
       "ID": "EAchievement_Nowhere_You_Can_Hide",
@@ -88,7 +88,7 @@
       "Name": "Patricide",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Pound_Of_Flesh",
@@ -104,7 +104,7 @@
       "Name": "Tightrope",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Zen_Garden",
@@ -112,7 +112,7 @@
       "Name": "Zen Garden",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 1
     }
   ],
   "Tags": [],
@@ -133,13 +133,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-04T22:25:00.4278663+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:18.4388+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-04T22:25:00.4278838+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:19:17.9621335+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:18.438809+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:29.0436523+00:00",
   "AchievementSets": [
     {
       "ID": "2hpa30b",
@@ -154,8 +154,8 @@
   "FirstSeen": "2022-11-06T10:29:54.4473123+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 309,
   "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00"

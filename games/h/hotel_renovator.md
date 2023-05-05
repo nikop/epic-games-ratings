@@ -4,36 +4,36 @@ Rating: 4.48 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~54,416 |
-| And so it begins | 72.00% | ~51,552 |
-| No pressure | 69.00% | ~49,404 |
-| Memento | 61.00% | ~43,676 |
-| Let there be light | 59.00% | ~42,244 |
-| I think you dropped this | 55.00% | ~39,380 |
-| Soulmate? | 52.00% | ~37,232 |
-| Excellent service | 47.00% | ~33,652 |
-| Roll with it | 45.00% | ~32,220 |
-| Love is in the air | 43.00% | ~30,788 |
-| Humble beginnings | 42.00% | ~30,072 |
-| Moving up | 40.00% | ~28,640 |
-| Fine, I'll do it myself | 39.00% | ~27,924 |
-| No need to call anyone | 37.00% | ~26,492 |
-| Big fortune | 31.00% | ~22,196 |
-| Still more work ahead | 28.00% | ~20,048 |
-| Hotel sleuthing | 26.00% | ~18,616 |
-| Kaboom | 25.00% | ~17,900 |
-| Aesop's fable | 25.00% | ~17,900 |
-| Nearly there | 23.00% | ~16,468 |
-| Broken heart | 21.00% | ~15,036 |
-| Island boy | 20.00% | ~14,320 |
-| You're a star | 18.00% | ~12,888 |
-| Unstoppable | 17.00% | ~12,172 |
-| Reunited | 16.00% | ~11,456 |
-| King of hospitality | 11.00% | ~7,876 |
-| Top spot in town | 3.00% | ~2,148 |
+| Good start | 76.00% | ~545 |
+| And so it begins | 72.00% | ~516 |
+| No pressure | 69.00% | ~495 |
+| Memento | 61.00% | ~437 |
+| Let there be light | 58.00% | ~416 |
+| I think you dropped this | 55.00% | ~394 |
+| Soulmate? | 52.00% | ~373 |
+| Excellent service | 47.00% | ~337 |
+| Roll with it | 45.00% | ~323 |
+| Love is in the air | 43.00% | ~308 |
+| Humble beginnings | 42.00% | ~301 |
+| Moving up | 40.00% | ~287 |
+| Fine, I'll do it myself | 39.00% | ~280 |
+| No need to call anyone | 37.00% | ~265 |
+| Big fortune | 31.00% | ~222 |
+| Still more work ahead | 27.00% | ~194 |
+| Hotel sleuthing | 26.00% | ~186 |
+| Kaboom | 25.00% | ~179 |
+| Aesop's fable | 25.00% | ~179 |
+| Nearly there | 23.00% | ~165 |
+| Broken heart | 21.00% | ~151 |
+| Island boy | 20.00% | ~143 |
+| You're a star | 18.00% | ~129 |
+| Unstoppable | 17.00% | ~122 |
+| Reunited | 16.00% | ~115 |
+| King of hospitality | 11.00% | ~79 |
+| Top spot in town | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 172)  
-Completed: 11 (1.54%) (Ranked 65)  
+Progressed: 717 (Ranked 172)  
+Completed: 11 (1.53%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,6 +46,7 @@ Completed: 11 (1.54%) (Ranked 65)
 | 2023-05-01 | 712 | 11 |
 | 2023-05-02 | 714 | 11 |
 | 2023-05-04 | 716 | 11 |
+| 2023-05-05 | 717 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

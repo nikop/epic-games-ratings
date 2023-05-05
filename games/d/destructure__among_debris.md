@@ -3,26 +3,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 72.00% | ~2,592 |
-| Graduation | 67.00% | ~2,412 |
-| You Have Been Deaded | 53.00% | ~1,908 |
-| Apprentice Destructor | 19.00% | ~684 |
-| I Prefer Jazz Fusion | 11.00% | ~396 |
-| Avaricerite | 8.00% | ~288 |
-| You Are Actually Supposed To Use Those | 8.00% | ~288 |
-| Ball Galore | 3.00% | ~108 |
-| Ball Protector | 3.00% | ~108 |
-| Bullet Hell | 3.00% | ~108 |
-| Easy Victory | 3.00% | ~108 |
-| Legendary Destructor | 3.00% | ~108 |
-| Machine Man | 3.00% | ~108 |
-| Master Destructor | 3.00% | ~108 |
-| Mushroom Man | 3.00% | ~108 |
-| Nomad | 3.00% | ~108 |
-| Scrap Collector | 3.00% | ~108 |
-| Ticking Clock | 3.00% | ~108 |
-| Untouchable | 3.00% | ~108 |
-| Back From The Dead | 0.00% | ~0 |
+| Rookie | 74.00% | ~28 |
+| Graduation | 68.00% | ~26 |
+| You Have Been Deaded | 55.00% | ~21 |
+| Apprentice Destructor | 18.00% | ~7 |
+| I Prefer Jazz Fusion | 11.00% | ~4 |
+| Avaricerite | 8.00% | ~3 |
+| You Are Actually Supposed To Use Those | 8.00% | ~3 |
+| Master Destructor | 5.00% | ~2 |
+| Back From The Dead | 3.00% | ~1 |
+| Ball Galore | 3.00% | ~1 |
+| Ball Protector | 3.00% | ~1 |
+| Bullet Hell | 3.00% | ~1 |
+| Easy Victory | 3.00% | ~1 |
+| Legendary Destructor | 3.00% | ~1 |
+| Machine Man | 3.00% | ~1 |
+| Mushroom Man | 3.00% | ~1 |
+| Nomad | 3.00% | ~1 |
+| Scrap Collector | 3.00% | ~1 |
+| Ticking Clock | 3.00% | ~1 |
+| Untouchable | 3.00% | ~1 |
 | Ball Collector | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Detoxed | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Victory That Is Even More True | 0.00% | ~0 |
 | What Even Are You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 279)  
+Progressed: 38 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,6 +47,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 19 | 0 |
 | 2023-05-03 | 28 | 0 |
 | 2023-05-04 | 36 | 0 |
+| 2023-05-05 | 38 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,43 +8,43 @@ Diff (max vs sum): -87
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 93.00% | ~946,833 |
-| Newcomers | 78.00% | ~794,118 |
-| A Burden of Blood | 73.00% | ~743,213 |
-| Protector's Duty | 70.00% | ~712,670 |
-| Alchemist | 68.00% | ~692,308 |
-| In our Wake | 67.00% | ~682,127 |
-| Leaving all Behind | 64.00% | ~651,584 |
-| Felons | 61.00% | ~621,041 |
-| A Sea of Promises | 59.00% | ~600,679 |
-| Tales and Revelations | 56.00% | ~570,136 |
-| Bloodline | 51.00% | ~519,231 |
-| The Cradle of Centuries | 47.00% | ~478,507 |
-| The Life We Deserve | 45.00% | ~458,145 |
-| Night guard | 43.00% | ~437,783 |
-| Nothing Left | 38.00% | ~386,878 |
-| Healing our Wounds | 36.00% | ~366,516 |
-| Dying Sun | 32.00% | ~325,792 |
-| Improved crossbow | 26.00% | ~264,706 |
-| King Hugo | 23.00% | ~234,163 |
-| Mercy | 23.00% | ~234,163 |
-| Perfect shot | 22.00% | ~223,982 |
-| Effective instruments | 21.00% | ~213,801 |
-| Perfect throw | 21.00% | ~213,801 |
-| Knights! | 19.00% | ~193,439 |
-| Handful of pockets | 13.00% | ~132,353 |
-| Not a toy anymore | 11.00% | ~111,991 |
-| Pocket laboratory | 11.00% | ~111,991 |
-| Herbalist | 7.00% | ~71,267 |
-| Fighter | 7.00% | ~71,267 |
-| Ornithologist | 5.00% | ~50,905 |
-| Sneaky | 4.00% | ~40,724 |
-| Immortal memories | 3.00% | ~30,543 |
-| Old protector | 2.00% | ~20,362 |
-| Explorer | 1.00% | ~10,181 |
-| Malignant | 1.00% | ~10,181 |
+| Under a New Sun | 93.00% | ~9,470 |
+| Newcomers | 78.00% | ~7,943 |
+| A Burden of Blood | 73.00% | ~7,434 |
+| Protector's Duty | 70.00% | ~7,128 |
+| Alchemist | 68.00% | ~6,924 |
+| In our Wake | 67.00% | ~6,823 |
+| Leaving all Behind | 64.00% | ~6,517 |
+| Felons | 61.00% | ~6,212 |
+| A Sea of Promises | 59.00% | ~6,008 |
+| Tales and Revelations | 56.00% | ~5,702 |
+| Bloodline | 51.00% | ~5,193 |
+| The Cradle of Centuries | 47.00% | ~4,786 |
+| The Life We Deserve | 45.00% | ~4,582 |
+| Night guard | 43.00% | ~4,379 |
+| Nothing Left | 38.00% | ~3,870 |
+| Healing our Wounds | 36.00% | ~3,666 |
+| Dying Sun | 32.00% | ~3,259 |
+| Improved crossbow | 26.00% | ~2,648 |
+| King Hugo | 23.00% | ~2,342 |
+| Mercy | 23.00% | ~2,342 |
+| Perfect shot | 22.00% | ~2,240 |
+| Effective instruments | 21.00% | ~2,138 |
+| Perfect throw | 21.00% | ~2,138 |
+| Knights! | 19.00% | ~1,935 |
+| Handful of pockets | 13.00% | ~1,324 |
+| Not a toy anymore | 11.00% | ~1,120 |
+| Pocket laboratory | 11.00% | ~1,120 |
+| Herbalist | 7.00% | ~713 |
+| Fighter | 7.00% | ~713 |
+| Ornithologist | 5.00% | ~509 |
+| Sneaky | 4.00% | ~407 |
+| Immortal memories | 3.00% | ~305 |
+| Old protector | 2.00% | ~204 |
+| Explorer | 1.00% | ~102 |
+| Malignant | 1.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,181 (Ranked 104)  
+Progressed: 10,183 (Ranked 104)  
 Completed: 30 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 30 (0.29%) (Ranked 119)
 | 2023-05-02 | 10,170 | 30 |
 | 2023-05-03 | 10,176 | 30 |
 | 2023-05-04 | 10,181 | 30 |
+| 2023-05-05 | 10,183 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

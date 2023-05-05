@@ -8,40 +8,40 @@ Diff (max vs sum): 0
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~87,609 |
-| Household | 6.00% | ~6,042 |
-| An Old Friend | 6.00% | ~6,042 |
-| Lot 49 | 4.00% | ~4,028 |
-| Viva La Revolution | 4.00% | ~4,028 |
-| Walking Fortress | 4.00% | ~4,028 |
-| Atomic Soda | 3.00% | ~3,021 |
-| Freelance Police | 3.00% | ~3,021 |
-| Mysterious Knife | 3.00% | ~3,021 |
-| The Great and Powerful | 3.00% | ~3,021 |
-| Shadow over Trudograd | 3.00% | ~3,021 |
-| Fight Club | 2.00% | ~2,014 |
-| Human Antidote | 2.00% | ~2,014 |
-| Albino Bloodsucker | 1.00% | ~1,007 |
-| Death of the Author | 1.00% | ~1,007 |
-| Memoirs of a Nibbler | 0.70% | ~705 |
-| Sixth Sense | 0.70% | ~705 |
-| KGB Bunker | 0.60% | ~604 |
-| Rising Star | 0.60% | ~604 |
-| Baby Eater | 0.40% | ~403 |
-| Admiral | 0.30% | ~302 |
-| Commando | 0.30% | ~302 |
-| Incompetence | 0.30% | ~302 |
-| Sick Freak | 0.30% | ~302 |
-| Goodbye ATOM | 0.20% | ~201 |
-| Bronzovka | 0.20% | ~201 |
-| Escalation of Conflict | 0.20% | ~201 |
-| Holy Mountain | 0.20% | ~201 |
-| Goose Sacrifice | 0.20% | ~201 |
-| Power of Simplicity | 0.20% | ~201 |
-| Second Thought | 0.20% | ~201 |
-| Terrorist | 0.20% | ~201 |
+| Fresh Prince of Trudograd | 87.00% | ~876 |
+| Household | 6.00% | ~60 |
+| An Old Friend | 6.00% | ~60 |
+| Lot 49 | 4.00% | ~40 |
+| Viva La Revolution | 4.00% | ~40 |
+| Walking Fortress | 4.00% | ~40 |
+| Atomic Soda | 3.00% | ~30 |
+| Freelance Police | 3.00% | ~30 |
+| Mysterious Knife | 3.00% | ~30 |
+| The Great and Powerful | 3.00% | ~30 |
+| Shadow over Trudograd | 3.00% | ~30 |
+| Fight Club | 2.00% | ~20 |
+| Human Antidote | 2.00% | ~20 |
+| Albino Bloodsucker | 1.00% | ~10 |
+| Death of the Author | 1.00% | ~10 |
+| Memoirs of a Nibbler | 0.70% | ~7 |
+| Sixth Sense | 0.70% | ~7 |
+| KGB Bunker | 0.60% | ~6 |
+| Rising Star | 0.60% | ~6 |
+| Baby Eater | 0.40% | ~4 |
+| Admiral | 0.30% | ~3 |
+| Commando | 0.30% | ~3 |
+| Incompetence | 0.30% | ~3 |
+| Sick Freak | 0.30% | ~3 |
+| Goodbye ATOM | 0.20% | ~2 |
+| Bronzovka | 0.20% | ~2 |
+| Escalation of Conflict | 0.20% | ~2 |
+| Holy Mountain | 0.20% | ~2 |
+| Goose Sacrifice | 0.20% | ~2 |
+| Power of Simplicity | 0.20% | ~2 |
+| Second Thought | 0.20% | ~2 |
+| Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 159)  
+Progressed: 1,007 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

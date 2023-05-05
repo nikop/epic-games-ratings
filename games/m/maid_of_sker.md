@@ -3,25 +3,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 45.00% | ~5,850 |
-| Animal Lover | 36.00% | ~4,680 |
-| Don't Breathe | 32.00% | ~4,160 |
-| Rapturous Applause! | 15.00% | ~1,950 |
-| Smooth Operator | 15.00% | ~1,950 |
-| Easy Listening | 14.00% | ~1,820 |
-| Perfect Harmony! | 12.00% | ~1,560 |
-| Wales Interactive | 9.00% | ~1,170 |
-| Chief Butler | 8.00% | ~1,040 |
-| Bull in a China Shop | 6.00% | ~780 |
-| Sker Explorer | 4.00% | ~520 |
-| Ending on a High Note | 2.00% | ~260 |
-| Maids of Sker | 2.00% | ~260 |
-| Phonic Boom | 2.00% | ~260 |
-| The Long Night | 2.00% | ~260 |
-| Axe of Kindness | 0.80% | ~104 |
-| In Darkness | 0.80% | ~104 |
-| Luddite | 0.80% | ~104 |
-| Scholar | 0.80% | ~104 |
+| Choking Hazard | 45.00% | ~58 |
+| Animal Lover | 36.00% | ~47 |
+| Don't Breathe | 32.00% | ~42 |
+| Rapturous Applause! | 15.00% | ~20 |
+| Smooth Operator | 15.00% | ~20 |
+| Easy Listening | 14.00% | ~18 |
+| Perfect Harmony! | 12.00% | ~16 |
+| Wales Interactive | 9.00% | ~12 |
+| Chief Butler | 8.00% | ~10 |
+| Bull in a China Shop | 6.00% | ~8 |
+| Sker Explorer | 4.00% | ~5 |
+| Ending on a High Note | 2.00% | ~3 |
+| Maids of Sker | 2.00% | ~3 |
+| Phonic Boom | 2.00% | ~3 |
+| The Long Night | 2.00% | ~3 |
+| Axe of Kindness | 0.80% | ~1 |
+| In Darkness | 0.80% | ~1 |
+| Luddite | 0.80% | ~1 |
+| Scholar | 0.80% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |

@@ -9,44 +9,44 @@ Diff (max vs sum): -39
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~75,141 |
-| Wanderer | 36.00% | ~27,324 |
-| One HIT wonder | 34.00% | ~25,806 |
-| One shot, one kill | 30.00% | ~22,770 |
-| Traveler | 26.00% | ~19,734 |
-| Head Burst | 20.00% | ~15,180 |
-| Explorer | 19.00% | ~14,421 |
-| Grave Robber | 18.00% | ~13,662 |
-| Double agent | 14.00% | ~10,626 |
-| Paranoia | 14.00% | ~10,626 |
-| Kraina Grzybow | 9.00% | ~6,831 |
-| Love Guru | 9.00% | ~6,831 |
-| Savant | 9.00% | ~6,831 |
-| Not-so-private Eye | 8.00% | ~6,072 |
-| Superhuman | 8.00% | ~6,072 |
-| Bustin' nuts | 7.00% | ~5,313 |
-| The Vitinsky Rifle | 7.00% | ~5,313 |
-| Protection racket | 5.00% | ~3,795 |
-| Secret room | 5.00% | ~3,795 |
-| Indy | 4.00% | ~3,036 |
-| Sacrifice | 4.00% | ~3,036 |
-| Career criminal | 2.00% | ~1,518 |
-| Wishmaster | 2.00% | ~1,518 |
-| Neanderthal | 1.00% | ~759 |
-| It was worth a shot | 1.00% | ~759 |
-| Cosmic Horror | 1.00% | ~759 |
-| Ghostbuster | 0.90% | ~683 |
-| Tourist Korallov | 0.70% | ~531 |
-| Cheeki Breeki | 0.50% | ~380 |
-| It's a classic! | 0.50% | ~380 |
-| Expert | 0.50% | ~380 |
-| Comrade Yogi | 0.40% | ~304 |
-| Mystical relics | 0.30% | ~228 |
+| Atom Agent | 99.00% | ~752 |
+| Wanderer | 36.00% | ~274 |
+| One HIT wonder | 34.00% | ~258 |
+| One shot, one kill | 30.00% | ~228 |
+| Traveler | 26.00% | ~198 |
+| Head Burst | 20.00% | ~152 |
+| Explorer | 19.00% | ~144 |
+| Grave Robber | 18.00% | ~137 |
+| Double agent | 14.00% | ~106 |
+| Paranoia | 14.00% | ~106 |
+| Kraina Grzybow | 9.00% | ~68 |
+| Love Guru | 9.00% | ~68 |
+| Savant | 9.00% | ~68 |
+| Not-so-private Eye | 8.00% | ~61 |
+| Superhuman | 8.00% | ~61 |
+| Bustin' nuts | 7.00% | ~53 |
+| The Vitinsky Rifle | 7.00% | ~53 |
+| Protection racket | 5.00% | ~38 |
+| Secret room | 5.00% | ~38 |
+| Indy | 4.00% | ~30 |
+| Sacrifice | 4.00% | ~30 |
+| Career criminal | 2.00% | ~15 |
+| Wishmaster | 2.00% | ~15 |
+| Neanderthal | 1.00% | ~8 |
+| It was worth a shot | 1.00% | ~8 |
+| Cosmic Horror | 1.00% | ~8 |
+| Ghostbuster | 0.90% | ~7 |
+| Tourist Korallov | 0.70% | ~5 |
+| Cheeki Breeki | 0.50% | ~4 |
+| It's a classic! | 0.50% | ~4 |
+| Expert | 0.50% | ~4 |
+| Comrade Yogi | 0.40% | ~3 |
+| Mystical relics | 0.30% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759 (Ranked 168)  
+Progressed: 760 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-30 | 754 | 0 |
 | 2023-05-01 | 757 | 0 |
 | 2023-05-02 | 759 | 0 |
+| 2023-05-05 | 760 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

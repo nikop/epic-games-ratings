@@ -8,7 +8,7 @@
       "Name": "A good start",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 3286
+      "UsersEstimate": 33
     },
     {
       "ID": "RUNE_BAT",
@@ -16,7 +16,7 @@
       "Name": "It doesn\u0027t work like that",
       "Percentage": 19,
       "XP": 55,
-      "UsersEstimate": 1178
+      "UsersEstimate": 12
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
@@ -24,7 +24,7 @@
       "Name": "This is just the beginning...",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 806
+      "UsersEstimate": 8
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -40,7 +40,7 @@
       "Name": "Time is on my side",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 620
+      "UsersEstimate": 6
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -48,7 +48,7 @@
       "Name": "Unstoppable Curiosity",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 620
+      "UsersEstimate": 6
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
@@ -56,7 +56,7 @@
       "Name": "Runes collector",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 3224
+      "UsersEstimate": 32
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -64,7 +64,7 @@
       "Name": "Gold Digger",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 372
+      "UsersEstimate": 4
     },
     {
       "ID": "RUNE_DROPEXTRAHEART",
@@ -72,7 +72,7 @@
       "Name": "First time, yes?",
       "Percentage": 52,
       "XP": 55,
-      "UsersEstimate": 3224
+      "UsersEstimate": 32
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -80,7 +80,7 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 52,
       "XP": 55,
-      "UsersEstimate": 3224
+      "UsersEstimate": 32
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -88,7 +88,7 @@
       "Name": "Devil\u0027s dozen",
       "Percentage": 24,
       "XP": 55,
-      "UsersEstimate": 1488
+      "UsersEstimate": 15
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -96,7 +96,7 @@
       "Name": "Skilled rider",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2728
+      "UsersEstimate": 27
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -104,7 +104,7 @@
       "Name": "A small victory",
       "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 992
+      "UsersEstimate": 10
     },
     {
       "ID": "RUNE_STORM",
@@ -112,7 +112,7 @@
       "Name": "Path of purity",
       "Percentage": 79,
       "XP": 55,
-      "UsersEstimate": 4898
+      "UsersEstimate": 49
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -120,7 +120,7 @@
       "Name": "Kind heart",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 2914
+      "UsersEstimate": 29
     }
   ],
   "Tags": [],
@@ -211,13 +211,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T22:24:31.8952139+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:45.0887608+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 7,
   "EOS_Completed": 0,
   "EOS_Progressed": 62,
-  "LastUpdate_Achievements": "2023-05-04T22:24:31.8952306+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:16:56.7509511+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:45.0887701+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:22.8238867+00:00",
   "AchievementSets": [
     {
       "ID": "9433p49",
@@ -232,7 +232,7 @@
   "FirstSeen": "2023-04-21T21:58:16.6767695+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 264,

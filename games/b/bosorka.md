@@ -3,20 +3,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 79.00% | ~4,898 |
-| A good start | 53.00% | ~3,286 |
-| Runes collector | 52.00% | ~3,224 |
-| First time, yes? | 52.00% | ~3,224 |
-| Witch's duty | 52.00% | ~3,224 |
-| Kind heart | 47.00% | ~2,914 |
-| Skilled rider | 44.00% | ~2,728 |
-| Devil's dozen | 24.00% | ~1,488 |
-| It doesn't work like that | 19.00% | ~1,178 |
-| A small victory | 16.00% | ~992 |
-| This is just the beginning... | 13.00% | ~806 |
-| Time is on my side | 10.00% | ~620 |
-| Unstoppable Curiosity | 10.00% | ~620 |
-| Gold Digger | 6.00% | ~372 |
+| Path of purity | 79.00% | ~49 |
+| A good start | 53.00% | ~33 |
+| Runes collector | 52.00% | ~32 |
+| First time, yes? | 52.00% | ~32 |
+| Witch's duty | 52.00% | ~32 |
+| Kind heart | 47.00% | ~29 |
+| Skilled rider | 44.00% | ~27 |
+| Devil's dozen | 24.00% | ~15 |
+| It doesn't work like that | 19.00% | ~12 |
+| A small victory | 16.00% | ~10 |
+| This is just the beginning... | 13.00% | ~8 |
+| Time is on my side | 10.00% | ~6 |
+| Unstoppable Curiosity | 10.00% | ~6 |
+| Gold Digger | 6.00% | ~4 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62 (Ranked 264)  

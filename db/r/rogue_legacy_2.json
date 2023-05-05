@@ -16,7 +16,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "AllEquipment",
@@ -32,7 +32,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "AllRunes",
@@ -40,7 +40,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "AllScarsBronze",
@@ -48,7 +48,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "AllSkills",
@@ -56,7 +56,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -64,7 +64,7 @@
       "Name": "For Justice",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossBridgeDefeated",
@@ -72,7 +72,7 @@
       "Name": "Captain and Crew",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 43
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -80,7 +80,7 @@
       "Name": "For Glory",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossCastleDefeated",
@@ -88,7 +88,7 @@
       "Name": "Spells and Swords",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 43
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -96,7 +96,7 @@
       "Name": "For Wrath",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossCaveDefeated",
@@ -104,7 +104,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -112,7 +112,7 @@
       "Name": "For Greed",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossFinalDefeated",
@@ -120,7 +120,7 @@
       "Name": "King and Kin",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -128,7 +128,7 @@
       "Name": "For Survival",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossForestDefeated",
@@ -136,7 +136,7 @@
       "Name": "Harvest and Home",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -144,7 +144,7 @@
       "Name": "For Penance",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossGardenDefeated",
@@ -152,7 +152,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -160,15 +160,15 @@
       "Name": "For Love",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 43
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -176,7 +176,7 @@
       "Name": "For Pride",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BossTowerDefeated",
@@ -184,7 +184,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "BoxerBoss",
@@ -192,7 +192,7 @@
       "Name": "K.O.",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "EnableHouseRules",
@@ -200,7 +200,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "EndTimerFail",
@@ -232,7 +232,7 @@
       "Name": "Good Practice",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "Icarus",
@@ -240,7 +240,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "NightmareKhidr",
@@ -248,7 +248,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "PetDragon",
@@ -256,7 +256,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "PrequelReveal",
@@ -264,7 +264,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "RogueMode",
@@ -280,7 +280,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "StoryTutorial",
@@ -288,7 +288,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "TitleDrop",
@@ -296,7 +296,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "UnlockHighMastery",
@@ -304,7 +304,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     },
     {
       "ID": "UnlockHighestUnity",
@@ -312,7 +312,7 @@
       "Name": "Color Coordination",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 21
     }
   ],
   "Tags": [
@@ -931,6 +931,16 @@
     {
       "Time": "2023-05-04T22:24:42.3162542+00:00",
       "NumProgressed": 21409,
+      "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-05T01:58:45.2023278+00:00",
+      "NumProgressed": 21410,
+      "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-05T08:05:50.4678504+00:00",
+      "NumProgressed": 21412,
       "NumCompleted": 35
     }
   ],
@@ -1891,24 +1901,24 @@
   ],
   "TotalAchievementsXP": 1240,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-04T22:24:42.3162519+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:57.3172858+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_Completed": 35,
-  "EOS_Progressed": 21409,
-  "LastUpdate_Achievements": "2023-05-04T22:24:42.3163156+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:16.3137083+00:00",
+  "EOS_Progressed": 21412,
+  "LastUpdate_Achievements": "2023-05-05T09:05:57.3173132+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:09.3616715+00:00",
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21409,
+      "Progressed": 21412,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 339,
+      "Progressed": 342,
       "Completed": 203
     }
   ],
@@ -1919,8 +1929,8 @@
   "NumberOfAwardsMax": 215,
   "NumberOfAwards": 1620,
   "NumberOfRatings": 1331,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_Progress": 89,
   "Ranking_PopularitySum": 201,

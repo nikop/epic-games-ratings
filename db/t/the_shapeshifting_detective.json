@@ -8,7 +8,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3634
+      "UsersEstimate": 36
     },
     {
       "ID": "book_em_danny",
@@ -16,7 +16,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 1738
+      "UsersEstimate": 17
     },
     {
       "ID": "bullseye",
@@ -24,7 +24,7 @@
       "Name": "Bullseye",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 790
+      "UsersEstimate": 8
     },
     {
       "ID": "chameleon",
@@ -32,7 +32,7 @@
       "Name": "Chameleon",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3476
+      "UsersEstimate": 35
     },
     {
       "ID": "chicken",
@@ -40,7 +40,7 @@
       "Name": "Chicken",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1264
+      "UsersEstimate": 13
     },
     {
       "ID": "hashtag_winning",
@@ -48,7 +48,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 5530
+      "UsersEstimate": 55
     },
     {
       "ID": "heavy_rayne",
@@ -56,7 +56,7 @@
       "Name": "Heavy Rayne",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1422
+      "UsersEstimate": 14
     },
     {
       "ID": "highlander",
@@ -64,7 +64,7 @@
       "Name": "Highlander",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 3160
+      "UsersEstimate": 32
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -72,7 +72,7 @@
       "Name": "Look Mum I\u0027m A Detective",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 3160
+      "UsersEstimate": 32
     },
     {
       "ID": "oscar_winning_performance",
@@ -80,7 +80,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1422
+      "UsersEstimate": 14
     },
     {
       "ID": "patient_listener",
@@ -88,7 +88,7 @@
       "Name": "Patient Listener",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 71
     },
     {
       "ID": "play_it_again_sam",
@@ -96,7 +96,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 14536
+      "UsersEstimate": 145
     },
     {
       "ID": "play_me_by_the_hour",
@@ -104,7 +104,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 10270
+      "UsersEstimate": 103
     },
     {
       "ID": "poetent",
@@ -112,7 +112,7 @@
       "Name": "Poetent",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 1738
+      "UsersEstimate": 17
     },
     {
       "ID": "put_a_ring_on_it",
@@ -120,7 +120,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1422
+      "UsersEstimate": 14
     },
     {
       "ID": "show_me_some_skin",
@@ -128,7 +128,7 @@
       "Name": "Show Me Some Skin",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 790
+      "UsersEstimate": 8
     },
     {
       "ID": "strong_silent_type",
@@ -136,7 +136,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 14378
+      "UsersEstimate": 144
     },
     {
       "ID": "the_big_sleep",
@@ -144,7 +144,7 @@
       "Name": "The Big Sleep",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 632
+      "UsersEstimate": 6
     },
     {
       "ID": "video_saved_the_radio_star",
@@ -152,7 +152,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 5846
+      "UsersEstimate": 58
     },
     {
       "ID": "voyeur",
@@ -160,7 +160,7 @@
       "Name": "Voyeur",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1422
+      "UsersEstimate": 14
     },
     {
       "ID": "you_had_one_job",
@@ -168,7 +168,7 @@
       "Name": "You Had One Job",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2212
+      "UsersEstimate": 22
     }
   ],
   "Tags": [],
@@ -194,13 +194,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-04T22:24:35.5506156+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:49.7703553+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 158,
-  "LastUpdate_Achievements": "2023-05-04T22:24:35.55063+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:51.9300936+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:49.7703674+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:35.4263837+00:00",
   "AchievementSets": [
     {
       "ID": "2db2j74",
@@ -215,8 +215,8 @@
   "FirstSeen": "2022-10-31T15:31:54.8525902+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_Progress": 227,
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00"

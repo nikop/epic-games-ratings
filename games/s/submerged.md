@@ -1,6 +1,6 @@
 # Submerged
 [View Rawdata](../../db/s/submerged.json)  
-Rating: 4.09 (Ranked 856)  
+Rating: 4.09 (Ranked 857)  
 Number of Ratings: 27  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

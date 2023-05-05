@@ -5,42 +5,42 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~9,055,998 |
-| NATURAL BORN WINNER | 32.00% | ~7,068,096 |
-| CALLING HOUSTON | 28.00% | ~6,184,584 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~4,859,316 |
-| SNEAKY SNEAKY | 21.00% | ~4,638,438 |
-| GT9STRADALE | 20.00% | ~4,417,560 |
-| CHALLENGER | 11.00% | ~2,429,658 |
-| ON A ROLL | 9.00% | ~1,987,902 |
-| FASTER THAN EVER | 8.00% | ~1,767,024 |
-| CENTAUR | 7.00% | ~1,546,146 |
-| CHALLENGE THE WORLD | 7.00% | ~1,546,146 |
-| PHOTOFINISH | 7.00% | ~1,546,146 |
-| QAREEN | 5.00% | ~1,104,390 |
-| SHOWOFF | 4.00% | ~883,512 |
-| TAKATORA | 4.00% | ~883,512 |
-| GILA | 3.00% | ~662,634 |
-| PRO | 2.00% | ~441,756 |
-| RESPWND | 2.00% | ~441,756 |
-| SHINY SHINY GOLD | 2.00% | ~441,756 |
-| HARDCORE | 1.00% | ~220,878 |
-| ACE | 0.70% | ~154,615 |
-| TACTICIAN | 0.60% | ~132,527 |
-| GTX COMPETIZIONE | 0.50% | ~110,439 |
-| HIDDEN POWER | 0.50% | ~110,439 |
-| TUNING MANIAC | 0.50% | ~110,439 |
-| DRAGOON | 0.40% | ~88,351 |
-| FLAWLESS | 0.40% | ~88,351 |
-| BETTER THAN EVER | 0.20% | ~44,176 |
-| IINI | 0.20% | ~44,176 |
-| MARID | 0.20% | ~44,176 |
-| NOBUNAGA | 0.20% | ~44,176 |
-| ODIN | 0.20% | ~44,176 |
-| PILE UP TROPHIES | 0.20% | ~44,176 |
-| ENLIGHTENED | 0.10% | ~22,088 |
+| VANGUARD | 41.00% | ~90,571 |
+| NATURAL BORN WINNER | 32.00% | ~70,690 |
+| CALLING HOUSTON | 28.00% | ~61,853 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~48,599 |
+| SNEAKY SNEAKY | 21.00% | ~46,390 |
+| GT9STRADALE | 20.00% | ~44,181 |
+| CHALLENGER | 11.00% | ~24,300 |
+| ON A ROLL | 9.00% | ~19,881 |
+| FASTER THAN EVER | 8.00% | ~17,672 |
+| CENTAUR | 7.00% | ~15,463 |
+| CHALLENGE THE WORLD | 7.00% | ~15,463 |
+| PHOTOFINISH | 7.00% | ~15,463 |
+| QAREEN | 5.00% | ~11,045 |
+| SHOWOFF | 4.00% | ~8,836 |
+| TAKATORA | 4.00% | ~8,836 |
+| GILA | 3.00% | ~6,627 |
+| PRO | 2.00% | ~4,418 |
+| RESPWND | 2.00% | ~4,418 |
+| SHINY SHINY GOLD | 2.00% | ~4,418 |
+| HARDCORE | 1.00% | ~2,209 |
+| ACE | 0.70% | ~1,546 |
+| TACTICIAN | 0.60% | ~1,325 |
+| GTX COMPETIZIONE | 0.50% | ~1,105 |
+| HIDDEN POWER | 0.50% | ~1,105 |
+| TUNING MANIAC | 0.50% | ~1,105 |
+| DRAGOON | 0.40% | ~884 |
+| FLAWLESS | 0.40% | ~884 |
+| BETTER THAN EVER | 0.20% | ~442 |
+| IINI | 0.20% | ~442 |
+| MARID | 0.20% | ~442 |
+| NOBUNAGA | 0.20% | ~442 |
+| ODIN | 0.20% | ~442 |
+| PILE UP TROPHIES | 0.20% | ~442 |
+| ENLIGHTENED | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,878 (Ranked 43)  
+Progressed: 220,905 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,8 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-01 | 220,670 | 41 |
 | 2023-05-02 | 220,736 | 41 |
 | 2023-05-03 | 220,809 | 41 |
-| 2023-05-04 | 220,878 | 41 |
+| 2023-05-04 | 220,881 | 41 |
+| 2023-05-05 | 220,905 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
       "Name": "Notorious Pirate",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "A_Board_1_Ship",
@@ -16,7 +16,7 @@
       "Name": "Pirate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1610
+      "UsersEstimate": 16
     },
     {
       "ID": "A_Board_25_Ships",
@@ -48,7 +48,7 @@
       "Name": "Expert Firefighter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 4
     },
     {
       "ID": "A_Extinguish_1_Fire",
@@ -56,7 +56,7 @@
       "Name": "Firefighter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 2001
+      "UsersEstimate": 20
     },
     {
       "ID": "A_Extinguish_25_Fires",
@@ -64,7 +64,7 @@
       "Name": "Master Firefighter",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "A_Fix_10_Systems",
@@ -72,7 +72,7 @@
       "Name": "Expert Mechanic",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 12
     },
     {
       "ID": "A_Fix_1_System",
@@ -80,7 +80,7 @@
       "Name": "Mechanic",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 2093
+      "UsersEstimate": 21
     },
     {
       "ID": "A_Fix_50_Systems",
@@ -88,7 +88,7 @@
       "Name": "Master Mechanic",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 391
+      "UsersEstimate": 4
     },
     {
       "ID": "A_Hire_Crew",
@@ -96,7 +96,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 7
     },
     {
       "ID": "A_Kill_Cookie_Cutter",
@@ -104,7 +104,7 @@
       "Name": "Cookie Addict",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 10
     },
     {
       "ID": "A_Meet_Uncle_Steff",
@@ -112,7 +112,7 @@
       "Name": "Family Reunion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 1
     },
     {
       "ID": "A_Mine_10_Asteroid",
@@ -120,7 +120,7 @@
       "Name": "Expert Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 6
     },
     {
       "ID": "A_Mine_1_Asteroid",
@@ -128,7 +128,7 @@
       "Name": "Miner",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1403
+      "UsersEstimate": 14
     },
     {
       "ID": "A_Mine_25_Asteroid",
@@ -136,7 +136,7 @@
       "Name": "Master Miner",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 1
     },
     {
       "ID": "A_Pancake_Day",
@@ -144,7 +144,7 @@
       "Name": "Pancake Day",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 4
     },
     {
       "ID": "A_Ray_Of_Sunshine",
@@ -152,7 +152,7 @@
       "Name": "Ray of Sunshine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 2
     },
     {
       "ID": "A_Salvage_10_Wrecks",
@@ -168,7 +168,7 @@
       "Name": "Salvager",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 8
     },
     {
       "ID": "A_Salvage_25_Wrecks",
@@ -220,13 +220,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-04T22:24:38.8420081+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:53.5046289+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 23,
-  "LastUpdate_Achievements": "2023-05-04T22:24:38.8420301+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:18:05.8030425+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:53.5046428+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:55.5538005+00:00",
   "AchievementSets": [
     {
       "ID": "56632p4",
@@ -241,8 +241,8 @@
   "FirstSeen": "2023-01-11T17:10:59.3040461+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 288,
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00"

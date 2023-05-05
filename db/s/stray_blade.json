@@ -158,9 +158,9 @@
       "ID": "ACH_FIND_ALL_COLORS",
       "SetID": "7i20me3",
       "Name": "Fashionista",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
@@ -394,13 +394,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-04T22:24:10.4084164+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:19.8251937+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-04T22:24:10.408456+00:00",
-  "LastUpdate_Ratings": "2023-05-04T22:17:13.1720993+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:19.8252283+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:45.5382921+00:00",
   "AchievementSets": [
     {
       "ID": "7i20me3",
@@ -415,8 +415,8 @@
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00"
