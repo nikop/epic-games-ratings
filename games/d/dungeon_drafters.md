@@ -9,9 +9,9 @@
 | Uncut Gem | 38.00% | ~8 |
 | Friend! | 33.00% | ~7 |
 | Clear as Water | 33.00% | ~7 |
+| Riddlesolver | 29.00% | ~6 |
 | Shine! | 29.00% | ~6 |
 | Dungeon Mastery | 24.00% | ~5 |
-| Riddlesolver | 24.00% | ~5 |
 | The Steed | 14.00% | ~3 |
 | A Strange Proposition | 14.00% | ~3 |
 | Card Collector | 14.00% | ~3 |

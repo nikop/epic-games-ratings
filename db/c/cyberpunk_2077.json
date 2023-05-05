@@ -40,7 +40,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295225
+      "UsersEstimate": 295226
     },
     {
       "ID": "FollowingTheRiver",
@@ -128,7 +128,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167560
+      "UsersEstimate": 167561
     },
     {
       "ID": "MaxPain",
@@ -152,7 +152,7 @@
       "Name": "Breathtaking",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55853
+      "UsersEstimate": 55854
     },
     {
       "ID": "NoMansLand",
@@ -176,7 +176,7 @@
       "Name": "Life of the Road",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 151602
+      "UsersEstimate": 151603
     },
     {
       "ID": "Roleplayer",
@@ -192,7 +192,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63832
+      "UsersEstimate": 63833
     },
     {
       "ID": "Temperance",
@@ -224,7 +224,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 534597
+      "UsersEstimate": 534598
     },
     {
       "ID": "TheHermit",
@@ -232,7 +232,7 @@
       "Name": "The Hermit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175539
+      "UsersEstimate": 175540
     },
     {
       "ID": "TheHightPriestess",
@@ -240,7 +240,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159581
+      "UsersEstimate": 159582
     },
     {
       "ID": "TheLovers",
@@ -248,7 +248,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255330
+      "UsersEstimate": 255331
     },
     {
       "ID": "TheStar",
@@ -272,7 +272,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199476
+      "UsersEstimate": 199477
     },
     {
       "ID": "TheWorld",
@@ -304,7 +304,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175539
+      "UsersEstimate": 175540
     },
     {
       "ID": "TrueWarrior",
@@ -352,7 +352,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 159581
+      "UsersEstimate": 159582
     }
   ],
   "Tags": [
@@ -1528,6 +1528,11 @@
     {
       "Time": "2023-05-05T01:58:11.4872739+00:00",
       "NumProgressed": 797906,
+      "NumCompleted": 1567
+    },
+    {
+      "Time": "2023-05-05T02:31:30.4960479+00:00",
+      "NumProgressed": 797908,
       "NumCompleted": 1567
     }
   ],
@@ -6769,18 +6774,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T01:58:11.4872731+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:31:30.4960471+00:00",
   "EOS_NewCompleters": 25,
-  "EOS_NewPlayers": 1725,
+  "EOS_NewPlayers": 1727,
   "EOS_Completed": 1567,
-  "EOS_Progressed": 797906,
-  "LastUpdate_Achievements": "2023-05-05T01:58:11.4873199+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:50:30.4833617+00:00",
+  "EOS_Progressed": 797908,
+  "LastUpdate_Achievements": "2023-05-05T02:31:30.4960968+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:23:25.2537131+00:00",
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 797906,
+      "Progressed": 797908,
       "Completed": 1567
     }
   ],

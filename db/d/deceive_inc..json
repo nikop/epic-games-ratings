@@ -6,9 +6,9 @@
       "ID": "0001",
       "SetID": "2n2feee",
       "Name": "On Deceive Inc.\u0027s Secret Service",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3250
     },
     {
       "ID": "0002",
@@ -96,7 +96,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "0013",
@@ -144,7 +144,7 @@
       "Name": "In It to Win It",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "0019",
@@ -240,7 +240,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "0031",
@@ -248,7 +248,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "0032",
@@ -256,7 +256,7 @@
       "Name": "Killer Looks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "0033",
@@ -264,7 +264,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "0034",
@@ -272,7 +272,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "0035",
@@ -1182,6 +1182,11 @@
       "Time": "2023-05-05T01:58:55.106502+00:00",
       "NumProgressed": 5157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T02:32:18.7818748+00:00",
+      "NumProgressed": 5158,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -1272,18 +1277,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-05T01:58:55.1065014+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:32:18.7818743+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_Completed": 0,
-  "EOS_Progressed": 5157,
-  "LastUpdate_Achievements": "2023-05-05T01:58:55.1065343+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:52:31.6657058+00:00",
+  "EOS_Progressed": 5158,
+  "LastUpdate_Achievements": "2023-05-05T02:32:18.7819091+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:25:48.814362+00:00",
   "AchievementSets": [
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5157,
+      "Progressed": 5158,
       "Completed": 0
     }
   ],

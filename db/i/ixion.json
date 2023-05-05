@@ -142,9 +142,9 @@
       "ID": "ACH_BASE_27",
       "SetID": "92iocjf",
       "Name": "A Hunk of Junk",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_28",
@@ -174,9 +174,9 @@
       "ID": "ACH_BASE_30",
       "SetID": "92iocjf",
       "Name": "Exceeding Capacity",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_BASE_31",
@@ -302,9 +302,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_49",
@@ -806,13 +806,13 @@
   ],
   "TotalAchievementsXP": 1050,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-05T01:58:18.0424715+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:31:37.8360938+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
   "EOS_Progressed": 1828,
-  "LastUpdate_Achievements": "2023-05-05T01:58:18.0425403+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:51:15.174199+00:00",
+  "LastUpdate_Achievements": "2023-05-05T02:31:37.8361541+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:24:17.9738231+00:00",
   "AchievementSets": [
     {
       "ID": "7a6m2da",

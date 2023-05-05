@@ -26,10 +26,10 @@ Rating: 4.16 (Ranked 831)
 | Where To? | 1.00% | ~48 |
 | Playing Doctor | 1.00% | ~48 |
 | Liberty City Secrets | 1.00% | ~48 |
+| Planned Ahead | 0.90% | ~43 |
 | Wheels Up | 0.90% | ~43 |
 | Man Toyz | 0.90% | ~43 |
 | Going Rogue | 0.90% | ~43 |
-| Planned Ahead | 0.80% | ~38 |
 | Furious First Responder | 0.80% | ~38 |
 | Is That All You've Got? | 0.70% | ~34 |
 | King of Liberty City | 0.50% | ~24 |

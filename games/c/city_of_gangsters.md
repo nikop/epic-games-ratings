@@ -8,26 +8,26 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~142,118 |
-| Copacetic Coordination | 16.00% | ~49,432 |
-| Fronting the Money | 14.00% | ~43,253 |
-| The Dawn of Automation | 14.00% | ~43,253 |
-| Extraordinary Logistics | 14.00% | ~43,253 |
-| Family First | 13.00% | ~40,164 |
-| Cleaning House | 12.00% | ~37,074 |
-| Room in the Back | 12.00% | ~37,074 |
-| Dirty Money | 12.00% | ~37,074 |
+| Corner Clout | 46.00% | ~142,121 |
+| Copacetic Coordination | 16.00% | ~49,433 |
+| Fronting the Money | 14.00% | ~43,254 |
+| The Dawn of Automation | 14.00% | ~43,254 |
+| Extraordinary Logistics | 14.00% | ~43,254 |
+| Family First | 13.00% | ~40,165 |
+| Cleaning House | 12.00% | ~37,075 |
+| Room in the Back | 12.00% | ~37,075 |
+| Dirty Money | 12.00% | ~37,075 |
 | Booze Baron | 11.00% | ~33,985 |
-| Beating the Heat | 10.00% | ~30,895 |
-| Friends on the Force | 10.00% | ~30,895 |
-| Neighborhood Watch | 10.00% | ~30,895 |
-| Core Corps | 8.00% | ~24,716 |
+| Beating the Heat | 10.00% | ~30,896 |
+| Friends on the Force | 10.00% | ~30,896 |
+| Neighborhood Watch | 10.00% | ~30,896 |
+| Core Corps | 8.00% | ~24,717 |
 | Sizeable Stash | 7.00% | ~21,627 |
 | Street Fighter | 7.00% | ~21,627 |
 | Friendly Gestures | 7.00% | ~21,627 |
-| Liquor Lord | 6.00% | ~18,537 |
-| Show ‘em the Sugar | 6.00% | ~18,537 |
-| People Person | 6.00% | ~18,537 |
+| Liquor Lord | 6.00% | ~18,538 |
+| Show ‘em the Sugar | 6.00% | ~18,538 |
+| People Person | 6.00% | ~18,538 |
 | Street Knowledge | 5.00% | ~15,448 |
 | Oh Captain | 5.00% | ~15,448 |
 | Branching Out | 5.00% | ~15,448 |
@@ -89,7 +89,7 @@ Diff (max vs sum): 34
 | High Pillow | 0.10% | ~309 |
 | Station Master | 0.10% | ~309 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308,952 (Ranked 37)  
+Progressed: 308,959 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 3 (0.00%) (Ranked 191)
 | 2023-05-02 | 308,293 | 3 |
 | 2023-05-03 | 308,619 | 3 |
 | 2023-05-04 | 308,915 | 3 |
-| 2023-05-05 | 308,952 | 3 |
+| 2023-05-05 | 308,959 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -27,7 +27,7 @@
 | 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 4.45% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 4.37% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
@@ -38,7 +38,7 @@
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
-| 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.23% |
+| 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.21% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
@@ -90,8 +90,8 @@
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
-| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.67% |
-| 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
+| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.68% |
+| 92 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
 | 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |

@@ -43,7 +43,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 935
+      "Count": 940
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4555,6 +4555,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 27064,
       "NumberOfAwardsMax": 11676
+    },
+    {
+      "Time": "2023-05-05T02:23:06.276288+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27069,
+      "NumberOfAwardsMax": 11676
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4563,15 +4569,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T01:55:13.0662358+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:50:15.1587953+00:00",
+  "LastUpdate_Achievements": "2023-05-05T02:28:18.3057176+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:23:06.2762885+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T22:31:38.1983364+00:00",
+  "LastChanged": "2023-05-05T02:23:06.2762878+00:00",
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 11676,
-  "NumberOfAwards": 27064,
+  "NumberOfAwards": 27069,
   "NumberOfRatings": 12317,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 276,

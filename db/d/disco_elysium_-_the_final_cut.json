@@ -32,7 +32,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "ACH_COP_ART",
@@ -104,7 +104,7 @@
       "Name": "The Lawbringer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -144,7 +144,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -152,7 +152,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 12974
+      "UsersEstimate": 12975
     },
     {
       "ID": "ACH_CUNO",
@@ -1378,6 +1378,11 @@
       "Time": "2023-05-05T01:58:43.6398881+00:00",
       "NumProgressed": 117950,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T02:32:05.7411116+00:00",
+      "NumProgressed": 117951,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2346,18 +2351,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T01:58:43.6398873+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:32:05.7411108+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 365,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117950,
-  "LastUpdate_Achievements": "2023-05-05T01:58:43.6399312+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:51:51.2742092+00:00",
+  "EOS_Progressed": 117951,
+  "LastUpdate_Achievements": "2023-05-05T02:32:05.7411558+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:25:01.1236428+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117950,
+      "Progressed": 117951,
       "Completed": 24
     }
   ],

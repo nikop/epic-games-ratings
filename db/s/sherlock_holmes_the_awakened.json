@@ -78,17 +78,17 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ04_1",
@@ -345,13 +345,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T01:58:21.5560191+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:31:41.7327923+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 9,
   "EOS_Progressed": 133,
-  "LastUpdate_Achievements": "2023-05-05T01:58:21.556053+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:50:02.5100761+00:00",
+  "LastUpdate_Achievements": "2023-05-05T02:31:41.732814+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:22:51.7810361+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",

@@ -11,10 +11,10 @@ Diff (max vs sum): -19
 | ---- | ---------- | ----- |
 | Lawbringer | 34.00% | ~16,591 |
 | Landlord | 29.00% | ~14,151 |
-| Bannerlord | 20.00% | ~9,759 |
-| Horde breaker | 20.00% | ~9,759 |
-| Lawmaker | 20.00% | ~9,759 |
-| Trained | 19.00% | ~9,271 |
+| Bannerlord | 20.00% | ~9,760 |
+| Horde breaker | 20.00% | ~9,760 |
+| Lawmaker | 20.00% | ~9,760 |
+| Trained | 19.00% | ~9,272 |
 | The king is pleased | 16.00% | ~7,808 |
 | King Solomon | 15.00% | ~7,320 |
 | I can do it | 14.00% | ~6,832 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,797 (Ranked 73)  
+Progressed: 48,798 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,797 | 0 |
+| 2023-05-05 | 48,798 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

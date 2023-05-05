@@ -22,7 +22,7 @@
 | Relight my Cannon | 0.00% | ~0 |
 | Set Sail | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 314)  
+Progressed: 6 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

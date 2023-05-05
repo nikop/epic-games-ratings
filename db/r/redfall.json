@@ -14,9 +14,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_003",
@@ -24,7 +24,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "Achievement_004",
@@ -56,7 +56,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "Achievement_009",
@@ -64,7 +64,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "Achievement_010",
@@ -72,7 +72,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Achievement_011",
@@ -128,7 +128,7 @@
       "Name": "Bad Wiring",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Achievement_018",
@@ -144,7 +144,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 993
     },
     {
       "ID": "Achievement_020",
@@ -208,7 +208,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Achievement_028",
@@ -216,7 +216,7 @@
       "Name": "You Clean It Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Achievement_029",
@@ -224,7 +224,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Achievement_030",
@@ -232,7 +232,7 @@
       "Name": "ICU",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_031",
@@ -240,7 +240,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Achievement_032",
@@ -256,15 +256,15 @@
       "Name": "Wounded Whispers",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 745
     },
     {
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 508
     },
     {
       "ID": "Achievement_035",
@@ -358,9 +358,9 @@
       "ID": "Achievement_048",
       "SetID": "6b34g18",
       "Name": "Bloody Initiate",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_049",
@@ -472,7 +472,7 @@
       "Name": "Helping Hand",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Achievement_064",
@@ -882,6 +882,11 @@
       "Time": "2023-05-05T01:58:16.6133814+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T02:31:36.333155+00:00",
+      "NumProgressed": 1182,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -894,18 +899,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 66,
-  "LastChanged_Achievements": "2023-05-05T01:58:16.6133808+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:31:36.3331545+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1017,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1180,
-  "LastUpdate_Achievements": "2023-05-05T01:58:16.6134527+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:50:36.4623871+00:00",
+  "EOS_Progressed": 1182,
+  "LastUpdate_Achievements": "2023-05-05T02:31:36.3332429+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:23:32.2292715+00:00",
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1182,
       "Completed": 0
     }
   ],

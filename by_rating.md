@@ -67,7 +67,7 @@
 | 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 485 | 184 |
 | 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 118 | 302 |
 | 59 | [Sifu](games/s/sifu.md) | 4.82 | 6,025 | 53 |
-| 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 387 | 201 |
+| 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 387 | 202 |
 | 59 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 490 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
@@ -101,7 +101,7 @@
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 907 | 141 |
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 490 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,707 | 65 |
-| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,831 | 36 |
+| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,831 | 37 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,595 | 88 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,359 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,948 | 74 |
@@ -369,7 +369,7 @@
 | 353 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 490 |
 | 353 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,078 | 128 |
 | 353 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 490 |
-| 353 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,459 | 90 |
+| 353 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,463 | 90 |
 | 353 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 595 | 164 |
 | 353 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 410 | 193 |
 | 353 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,059 | 129 |
@@ -781,7 +781,7 @@
 | 775 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 490 |
 | 780 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 490 |
 | 780 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 440 |
-| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 8,812 | 37 |
+| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 8,877 | 36 |
 | 780 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 353 | 208 |
 | 780 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 490 |
 | 780 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 490 |
@@ -863,9 +863,9 @@
 | 861 | [Godfall](games/g/godfall.md) | 4.07 | 504 | 181 |
 | 861 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 265 |
 | 861 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 490 |
-| 861 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 387 | 201 |
 | 861 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 490 |
-| 866 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,863 | 62 |
+| 865 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,863 | 62 |
+| 865 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 393 | 201 |
 | 867 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 490 |
 | 867 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 490 |
 | 867 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 490 |
@@ -893,7 +893,7 @@
 | 891 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 447 |
 | 891 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 490 |
 | 891 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 490 |
-| 891 | [Warface](games/w/warface.md) | 3.92 | 387 | 201 |
+| 891 | [Warface](games/w/warface.md) | 3.92 | 387 | 202 |
 | 895 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 490 |
 | 895 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 317 |
 | 897 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 490 |

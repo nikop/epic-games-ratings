@@ -9,17 +9,17 @@ Diff (max vs sum): -4
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~534,597 |
-| Right Back At Ya | 37.00% | ~295,225 |
-| The Lovers | 32.00% | ~255,330 |
+| The Fool | 67.00% | ~534,598 |
+| Right Back At Ya | 37.00% | ~295,226 |
+| The Lovers | 32.00% | ~255,331 |
 | Stanislavski's Method | 27.00% | ~215,435 |
-| The Wheel of Fortune | 25.00% | ~199,476 |
-| The Hermit | 22.00% | ~175,539 |
-| True Soldier | 22.00% | ~175,539 |
-| Christmas Tree Attack | 21.00% | ~167,560 |
-| The High Priestess | 20.00% | ~159,581 |
-| Legend of The Afterlife | 20.00% | ~159,581 |
-| Life of the Road | 19.00% | ~151,602 |
+| The Wheel of Fortune | 25.00% | ~199,477 |
+| The Hermit | 22.00% | ~175,540 |
+| True Soldier | 22.00% | ~175,540 |
+| Christmas Tree Attack | 21.00% | ~167,561 |
+| The High Priestess | 20.00% | ~159,582 |
+| Legend of The Afterlife | 20.00% | ~159,582 |
+| Life of the Road | 19.00% | ~151,603 |
 | Full Body Conversion | 17.00% | ~135,644 |
 | The World | 16.00% | ~127,665 |
 | Bushido and Chill | 15.00% | ~119,686 |
@@ -32,8 +32,8 @@ Diff (max vs sum): -4
 | Two Heads, One Bullet | 11.00% | ~87,770 |
 | The Wandering Fool | 9.00% | ~71,812 |
 | The Quick and the Dead | 9.00% | ~71,812 |
-| Ten out of Ten | 8.00% | ~63,832 |
-| Breathtaking | 7.00% | ~55,853 |
+| Ten out of Ten | 8.00% | ~63,833 |
+| Breathtaking | 7.00% | ~55,854 |
 | To Bad Decisions! | 6.00% | ~47,874 |
 | The Star | 6.00% | ~47,874 |
 | The Sun | 6.00% | ~47,874 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -4
 | Gunslinger | 1.00% | ~7,979 |
 | Rough Landing | 0.40% | ~3,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,906 (Ranked 10)  
+Progressed: 797,908 (Ranked 10)  
 Completed: 1,567 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1,567 (0.20%) (Ranked 131)
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
 | 2023-05-04 | 797,891 | 1,567 |
-| 2023-05-05 | 797,906 | 1,567 |
+| 2023-05-05 | 797,908 | 1,567 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

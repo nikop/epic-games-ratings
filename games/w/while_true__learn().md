@@ -9,28 +9,28 @@ Diff (max vs sum): -92
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~545,863 |
-| Error: Stack Overflow | 66.00% | ~387,386 |
-| We need more gold | 60.00% | ~352,169 |
-| The dawn of civilization | 53.00% | ~311,083 |
-| More FPS for the FPS god! | 49.00% | ~287,605 |
+| First.. Bit? | 93.00% | ~545,864 |
+| Error: Stack Overflow | 66.00% | ~387,388 |
+| We need more gold | 60.00% | ~352,171 |
+| The dawn of civilization | 53.00% | ~311,084 |
+| More FPS for the FPS god! | 49.00% | ~287,606 |
 | Beauty and harmony | 48.00% | ~281,736 |
 | One more! | 44.00% | ~258,258 |
 | Overmind | 24.00% | ~140,868 |
 | RNG is my best friend now | 18.00% | ~105,651 |
-| Cosplay | 13.00% | ~76,303 |
-| Evolution in progress... | 13.00% | ~76,303 |
+| Cosplay | 13.00% | ~76,304 |
+| Evolution in progress... | 13.00% | ~76,304 |
 | Step by step | 8.00% | ~46,956 |
-| README reader | 3.00% | ~17,608 |
-| Data scientist | 3.00% | ~17,608 |
-| One small step for a man... | 3.00% | ~17,608 |
+| README reader | 3.00% | ~17,609 |
+| Data scientist | 3.00% | ~17,609 |
+| One small step for a man... | 3.00% | ~17,609 |
 | To see it all, to learn it all | 2.00% | ~11,739 |
 | Evolution complete | 2.00% | ~11,739 |
 | Is this Skynet? | 2.00% | ~11,739 |
 | Cybergeek 2047 | 2.00% | ~11,739 |
-| Best deal on the market | 1.00% | ~5,869 |
-| Ping | 1.00% | ~5,869 |
-| Magna cum laude | 1.00% | ~5,869 |
+| Best deal on the market | 1.00% | ~5,870 |
+| Ping | 1.00% | ~5,870 |
+| Magna cum laude | 1.00% | ~5,870 |
 | The hoarder | 0.90% | ~5,283 |
 | Deal with it! | 0.50% | ~2,935 |
 | Gold rush | 0.40% | ~2,348 |
@@ -38,7 +38,7 @@ Diff (max vs sum): -92
 | Elements will destroy you! | 0.30% | ~1,761 |
 | The Scrooge | 0.10% | ~587 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586,949 (Ranked 20)  
+Progressed: 586,951 (Ranked 20)  
 Completed: 474 (0.08%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 474 (0.08%) (Ranked 157)
 | 2023-05-02 | 586,713 | 474 |
 | 2023-05-03 | 586,815 | 474 |
 | 2023-05-04 | 586,934 | 474 |
-| 2023-05-05 | 586,949 | 474 |
+| 2023-05-05 | 586,951 | 474 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

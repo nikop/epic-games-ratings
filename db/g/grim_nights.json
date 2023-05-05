@@ -78,9 +78,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_level3",
@@ -166,13 +166,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T01:58:27.2317288+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:31:47.7521758+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-05T01:58:27.2317421+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:51:55.9553566+00:00",
+  "LastUpdate_Achievements": "2023-05-05T02:31:47.7521889+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:25:06.7242402+00:00",
   "AchievementSets": [
     {
       "ID": "c2c0fb6",
@@ -188,8 +188,8 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00"
 }

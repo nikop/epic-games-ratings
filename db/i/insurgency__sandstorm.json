@@ -64,7 +64,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14474
+      "UsersEstimate": 14475
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -112,7 +112,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14474
+      "UsersEstimate": 14475
     },
     {
       "ID": "ACH_JR_50",
@@ -176,7 +176,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -272,7 +272,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ACH_WET_FEET",
@@ -280,7 +280,7 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14474
+      "UsersEstimate": 14475
     }
   ],
   "Tags": [
@@ -1460,6 +1460,11 @@
     {
       "Time": "2023-05-05T01:58:11.1731546+00:00",
       "NumProgressed": 361860,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T02:31:30.2056367+00:00",
+      "NumProgressed": 361873,
       "NumCompleted": 2
     }
   ],
@@ -3201,18 +3206,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T01:58:11.1731541+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:31:30.2056361+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3879,
+  "EOS_NewPlayers": 3892,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361860,
-  "LastUpdate_Achievements": "2023-05-05T01:58:11.1731923+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:50:35.9000528+00:00",
+  "EOS_Progressed": 361873,
+  "LastUpdate_Achievements": "2023-05-05T02:31:30.205671+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:23:31.6187696+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 361860,
+      "Progressed": 361873,
       "Completed": 2
     }
   ],

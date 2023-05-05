@@ -32,7 +32,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -56,7 +56,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -88,7 +88,7 @@
       "Name": "Tails of Stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "FOUND_MAMBA",
@@ -96,7 +96,7 @@
       "Name": "Baa from the past",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -112,7 +112,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "GAME_FINISHED",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6464
+      "UsersEstimate": 6466
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -136,7 +136,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "NORTH_FINISHED",
@@ -152,7 +152,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "WEST_FINISHED",
@@ -160,7 +160,7 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     }
   ],
   "Tags": [],
@@ -1219,6 +1219,11 @@
       "Time": "2023-05-05T01:59:02.8424525+00:00",
       "NumProgressed": 8505,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T02:32:27.3433853+00:00",
+      "NumProgressed": 8508,
+      "NumCompleted": 195
     }
   ],
   "RatingHistory": [
@@ -1568,18 +1573,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T01:59:02.8424518+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:32:27.3433842+00:00",
   "EOS_NewCompleters": 16,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 599,
   "EOS_Completed": 195,
-  "EOS_Progressed": 8505,
-  "LastUpdate_Achievements": "2023-05-05T01:59:02.842477+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:53:03.6699681+00:00",
+  "EOS_Progressed": 8508,
+  "LastUpdate_Achievements": "2023-05-05T02:32:27.3434064+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:26:27.1252432+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8505,
+      "Progressed": 8508,
       "Completed": 195
     }
   ],

@@ -56,7 +56,7 @@
       "Name": "Contender",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25374
+      "UsersEstimate": 25375
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -96,7 +96,7 @@
       "Name": "First but not Last",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -168,7 +168,7 @@
       "Name": "I Found it!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12687
+      "UsersEstimate": 12688
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -232,7 +232,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 171274
+      "UsersEstimate": 171283
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -240,7 +240,7 @@
       "Name": "I know the Rules",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 95152
+      "UsersEstimate": 95157
     }
   ],
   "Tags": [
@@ -1447,6 +1447,11 @@
     {
       "Time": "2023-05-05T01:58:41.6194746+00:00",
       "NumProgressed": 211449,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T02:32:03.6043105+00:00",
+      "NumProgressed": 211460,
       "NumCompleted": 0
     }
   ],
@@ -2789,18 +2794,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T01:58:41.619474+00:00",
+  "LastChanged_Achievements": "2023-05-05T02:32:03.6043096+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2858,
+  "EOS_NewPlayers": 2869,
   "EOS_Completed": 0,
-  "EOS_Progressed": 211449,
-  "LastUpdate_Achievements": "2023-05-05T01:58:41.6195094+00:00",
-  "LastUpdate_Ratings": "2023-05-05T01:51:49.6705977+00:00",
+  "EOS_Progressed": 211460,
+  "LastUpdate_Achievements": "2023-05-05T02:32:03.6043418+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:24:59.4188131+00:00",
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 211449,
+      "Progressed": 211460,
       "Completed": 0
     }
   ],

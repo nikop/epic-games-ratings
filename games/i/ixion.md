@@ -4,12 +4,14 @@ Rating: 4.54 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Exceeding Capacity | 0.30% | ~5 |
 | The Ship of Theseus | 0.30% | ~5 |
 | Without Breaking Some Eggs... | 0.20% | ~4 |
 | Wakey Wakey | 0.20% | ~4 |
+| A Hunk of Junk | 0.20% | ~4 |
 | A Thousand Strong | 0.20% | ~4 |
-| Exceeding Capacity | 0.20% | ~4 |
 | Power Outage | 0.20% | ~4 |
+| Permanent Redesigns | 0.20% | ~4 |
 | Convenient Transport | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
 | Mutual Loyalty | 0.10% | ~2 |
@@ -21,13 +23,11 @@ Rating: 4.54 (Ranked 475)
 | Space Society | 0.10% | ~2 |
 | Sputnik 2049 | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
-| A Hunk of Junk | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
 | Fully Recycled | 0.10% | ~2 |
 | Ready for a New World | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |
 | Delivery! | 0.10% | ~2 |
-| Permanent Redesigns | 0.10% | ~2 |
 | Ain't Nobody Got Time for That | 0.10% | ~2 |
 | Tiqqun Unchained | 0.10% | ~2 |
 | BRAWL! | 0.10% | ~2 |

@@ -7,16 +7,16 @@
 | High Profile | 63.00% | ~84 |
 | Read Between The Lines | 62.00% | ~82 |
 | Whispers In The Dark | 62.00% | ~82 |
-| A Method To His Madness | 57.00% | ~76 |
+| A Method To His Madness | 58.00% | ~77 |
 | Fond Memories | 56.00% | ~74 |
 | History Check | 56.00% | ~74 |
 | The New World | 56.00% | ~74 |
 | Open Sesame | 54.00% | ~72 |
+| Gaze Into The Abyss | 53.00% | ~70 |
 | Sticky Fingers | 53.00% | ~70 |
 | Knives Out | 53.00% | ~70 |
 | Land, Ho! | 53.00% | ~70 |
 | Lock, Stock, And Barrel | 52.00% | ~69 |
-| Gaze Into The Abyss | 52.00% | ~69 |
 | Back In The Saddle | 52.00% | ~69 |
 | No Man Is An Island | 50.00% | ~66 |
 | Bookworm | 46.00% | ~61 |

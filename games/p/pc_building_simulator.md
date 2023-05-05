@@ -9,13 +9,13 @@ Diff (max vs sum): 38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,676,974 |
-| Easy to forget | 46.00% | ~1,607,100 |
-| Back in the black | 38.00% | ~1,327,604 |
-| That's what I'm talking about | 28.00% | ~978,235 |
-| The Best of Both Worlds | 24.00% | ~838,487 |
-| Get your wings | 20.00% | ~698,739 |
-| Double trouble | 15.00% | ~524,054 |
+| You need to plug it in... | 48.00% | ~1,676,977 |
+| Easy to forget | 46.00% | ~1,607,103 |
+| Back in the black | 38.00% | ~1,327,607 |
+| That's what I'm talking about | 28.00% | ~978,237 |
+| The Best of Both Worlds | 24.00% | ~838,488 |
+| Get your wings | 20.00% | ~698,740 |
+| Double trouble | 15.00% | ~524,055 |
 | Smashing it | 10.00% | ~349,370 |
 | But can it run Crysis? | 9.00% | ~314,433 |
 | My favourite feature... | 9.00% | ~314,433 |
@@ -42,9 +42,9 @@ Diff (max vs sum): 38
 | Owner | 1.00% | ~34,937 |
 | Show off | 0.90% | ~31,443 |
 | Work ethic 101 | 0.60% | ~20,962 |
-| Building momentum | 0.50% | ~17,468 |
-| Lead by example | 0.50% | ~17,468 |
-| Treat yourself - RAM | 0.50% | ~17,468 |
+| Building momentum | 0.50% | ~17,469 |
+| Lead by example | 0.50% | ~17,469 |
+| Treat yourself - RAM | 0.50% | ~17,469 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,481 |
 | Mr big business | 0.30% | ~10,481 |
 | Getting your feet wet | 0.30% | ~10,481 |
@@ -62,7 +62,7 @@ Diff (max vs sum): 38
 | Stop it | 0.10% | ~3,494 |
 | Treat yourself - GPU | 0.10% | ~3,494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,696 (Ranked 3)  
+Progressed: 3,493,702 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
 | 2023-05-04 | 3,493,649 | 22 |
-| 2023-05-05 | 3,493,696 | 22 |
+| 2023-05-05 | 3,493,702 | 22 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -3,10 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| So it goes | 1.00% | ~2 |
 | Pride and Joy | 0.60% | ~1 |
 | Small-time Finder | 0.60% | ~1 |
-| So it goes | 0.60% | ~1 |
 | Business as usual | 0.60% | ~1 |
+| Clean Conscience | 0.60% | ~1 |
 | All the Stories | 0.00% | ~0 |
 | Total Recall | 0.00% | ~0 |
 | Blood Capade | 0.00% | ~0 |
@@ -25,17 +26,17 @@
 | The Germophobes | 0.00% | ~0 |
 | Mr. Hygeni | 0.00% | ~0 |
 | The Wing and the Thigh | 0.00% | ~0 |
-| Clean Conscience | 0.00% | ~0 |
 | Hackathon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 229)  
-Completed: 5 (3.23%) (Ranked 39)  
+Progressed: 156 (Ranked 229)  
+Completed: 5 (3.21%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 152 | 5 |
 | 2023-04-26 | 153 | 5 |
 | 2023-05-02 | 155 | 5 |
+| 2023-05-05 | 156 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
