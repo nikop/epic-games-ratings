@@ -10,8 +10,3 @@
 
     public List<EpicOfferCategory> categories { get; set; } = new();
 }
-
-public class EpicOfferCategory
-{
-    public string? path { get; set; }
-}

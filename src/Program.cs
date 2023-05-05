@@ -8,156 +8,32 @@ using System.Text.Json;
 var path = new DirectoryInfo(".").FullName;
 var index = new Dictionary<string, string>();
 
+var skipCatalog = args.Any(x => x == "--skip-catalog");
 var skipAppInfo = args.Any(x => x == "--skip-appinfo");
 var skipRatingsUpdate = args.Any(x => x == "--skip-ratings");
 var skipAchievementsUpdate = args.Any(x => x == "--skip-achievement");
-var skipOffers = args.Any(x => x == "--skip-offers");
-var skipItems = args.Any(x => x == "--skip-items");
 
 #if DEBUG
-//skipOffers = true;
-skipItems = true;
 skipRatingsUpdate = true;
 #endif
 
 var ratingsCutOffNew = DateTimeOffset.UtcNow.AddDays(-30);
 var dirDb = Path.Combine(path, "db");
 var dirGames = Path.Combine(path, "games");
-var dirItems = Path.Combine(path, "items-tracker", "database");
-var dirOffers = Path.Combine(path, "offers-tracker", "database");
 
-var gameIndex = new JsonIndexDb<GameDbItem>(dirDb);
+var gameIndex = new GameDb(dirDb);
 
-if (!Directory.Exists(dirItems) || !Directory.Exists(dirOffers))
+// Update Catalog (new games / titles)
+if (!skipCatalog)
 {
-    Console.WriteLine("Databases missing");
-    Environment.Exit(1);
-    return;
-}
-
-// Known namespaces
-var namespaces = new Dictionary<string, NamespaceDef>{};
-
-NamespaceDef AddNamespace(string ns)
-{
-    if (namespaces.ContainsKey(ns))
-    {
-        return namespaces[ns];
-    }
-
-    var def = new NamespaceDef
-    {
-        Namespace = ns,
-    };
-
-    namespaces.Add(ns, def);
-
-    return def;
-}
-
-// Find namespaces from offers
-if (!skipOffers)
-{
-    Console.WriteLine("Reading offers");
-
-    var offersText = File.ReadAllText(Path.Combine(dirOffers, "namespaces.json"));
-    var typeOffers = JsonSerializer.Deserialize<Dictionary<string, List<string>>>(offersText);
-
-    foreach (var i in typeOffers!)
-    {
-        var def = AddNamespace(i.Key);
-
-        var item = await GetOrCreate(gameIndex, i.Key).ConfigureAwait(false);
-        var requiresSave = false;
-
-        List<EpicOffer> offers = new();
-        EpicOffer? baseAppOffer = null;
-
-        foreach (var v in i.Value)
-        {
-            var fileName = Path.Combine(dirOffers, "offers", $"{v}.json");
-
-            try
-            {
-                var fileContent = await File.ReadAllTextAsync(fileName);
-                var epicOffer = JsonSerializer.Deserialize<EpicOffer>(fileContent);
-
-                if (epicOffer == null)
-                    continue;
-
-                offers.Add(epicOffer);
-
-                if (epicOffer.categories.Any(x => x.path == "games/edition/base"))
-                {
-                    baseAppOffer ??= epicOffer;
-                }
-            }
-            catch (Exception)
-            {
-            }
-        }
-
-        if (baseAppOffer != null)
-        {
-            if (item.Name != baseAppOffer.title)
-            {
-                requiresSave = true;
-                item.Name = baseAppOffer.title;
-
-                await gameIndex.RenameItem(item).ConfigureAwait(false);
-            }
-
-            if (baseAppOffer.productSlug != null && baseAppOffer.productSlug != item.ProductSlug)
-            {
-                item.ProductSlug = baseAppOffer.productSlug;
-                requiresSave = true;
-            }
-        }
-
-        if (requiresSave)
-        {
-            await gameIndex.SaveItem(item).ConfigureAwait(false);
-        }
-    }
-}
-
-// Find namespaces from items
-if (!skipItems)
-{
-    Console.WriteLine("Reading items");
-
-    var itemsText = File.ReadAllText(Path.Combine(dirItems, "namespaces.json"));
-    var typeItems = JsonSerializer.Deserialize<Dictionary<string, List<string>>>(itemsText);
-
-    foreach (var i in typeItems!)
-    {
-        AddNamespace(i.Key);
-        var item = await GetOrCreate(gameIndex, i.Key).ConfigureAwait(false);
-    }
-}
-
-async ValueTask<GameDbItem> GetOrCreate(JsonIndexDb<GameDbItem> gameIndex, string ns, string? name = null)
-{
-    var item = await gameIndex.GetItemByKey(ns).ConfigureAwait(false);
-
-    if (item == null)
-    {
-        item = new GameDbItem
-        {
-            ID = ns,
-            Name = name,
-        };
-
-        await gameIndex.SaveItem(item).ConfigureAwait(false);
-    }
-
-    return item;
+    var action = new UpdateCatalog();
+    await action.Run(gameIndex);
 }
 
 var items = await gameIndex.GetAllItems().ConfigureAwait(false);
 
-// Fetch appInfo
-if (!skipAppInfo)
+// Fetch appInfo (store pages)
+if (false && !skipAppInfo)
 {
     var action = new UpdateAppInfo();
     await action.Run(items);

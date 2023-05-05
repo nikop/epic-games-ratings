@@ -11,6 +11,127 @@ namespace EpicRatingsUpdater.EGSApi
         private static GraphQLHttpClient graphQLClient = new GraphQLHttpClient("https://graphql.epicgames.com/graphql", new SystemTextJsonSerializer());
         public static HttpClient httpClient = new HttpClient();
 
+        public static async Task<QueryCatalogResult.SearchStore> QueryCatalog(string locale, string country, int count, int start, string sortBy, string sortDir)
+        {
+            var request = new GraphQLRequest
+            {
+                Query = @"query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $sortBy: String, $sortDir: String) {
+  Catalog {
+    searchStore (
+      locale: $locale,
+      count: $count
+      start: $start
+      country: $country
+      sortBy: $sortBy
+      sortDir: $sortDir
+    ) {
+      elements {
+        title
+        id
+        namespace
+        description
+        effectiveDate
+        isCodeRedemptionOnly
+        keyImages {
+          type
+          url
+        }
+        currentPrice
+        seller {
+          id
+          name
+        }
+        productSlug
+        urlSlug
+        url
+        tags {
+          id
+        }
+        items {
+          id
+          namespace
+        }
+        customAttributes {
+          key
+          value
+        }
+        categories {
+          path
+        }
+        catalogNs {
+          mappings(pageType: ""productHome"") {
+            pageSlug
+            pageType
+          }
+        }
+        offerMappings {
+          pageSlug
+          pageType
+        }
+        developerDisplayName
+        publisherDisplayName
+        price(country: $country) {
+          totalPrice {
+            discountPrice
+            originalPrice
+            voucherDiscount
+            discount
+            currencyCode
+            currencyInfo {
+              decimals
+            }
+            fmtPrice(locale: $locale) {
+              originalPrice
+              discountPrice
+              intermediatePrice
+            }
+          }
+          lineOffers {
+            appliedRules {
+              id
+              endDate
+              discountSetting {
+                discountType
+              }
+            }
+          }
+        }
+        prePurchase
+        releaseDate
+        pcReleaseDate
+        viewableDate
+        approximateReleasePlan {
+          day
+          month
+          quarter
+          year
+          releaseDateType
+        }
+      }
+      paging {
+        count
+        start
+        total
+      }
+    }
+  }
+}",
+                Variables =
+                new {
+                    locale,
+                    count,
+                    start,
+                    country,
+                    sortBy,
+                    sortDir,
+                }
+            };
+
+            var r = await graphQLClient.SendQueryAsync<QueryCatalogResult>(request);
+
+            return r.Data.Catalog.searchStore;
+        }
+
         public static async Task<EpicCatalogOffer?> GetCatalogOffer(string ns, string offerId)
         {
             var ratingRequest = new GraphQLRequest

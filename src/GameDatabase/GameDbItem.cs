@@ -4,6 +4,9 @@ namespace EpicRatingsUpdater.GameDatabase
 {
     public class GameDbItem : JsonIndexDbItem
     {
+        [JsonIgnore]
+        public bool IsNew { get; set; }
+
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public string? ProductSlug { get; set; }
 

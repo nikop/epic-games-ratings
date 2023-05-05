@@ -16,8 +16,13 @@ namespace EpicRatingsUpdater
             Console.WriteLine("Updating AppInfo");
 
             var cutOff = DateTimeOffset.UtcNow.AddDays(-7);
+            var forceUpdate = false;
 
-            var orderedItems = items.Where(x => x.LastUpdate_AppInfo == null || x.LastUpdate_AppInfo < cutOff).OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
+#if DEBUG
+            forceUpdate = true;
+#endif
+
+            var orderedItems = items.Where(x => forceUpdate || x.LastUpdate_AppInfo == null || x.LastUpdate_AppInfo < cutOff).OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
 
             var c = 0;
             var total = orderedItems.Count;
@@ -53,20 +58,17 @@ namespace EpicRatingsUpdater
 
         public async Task UpdateItem(GameDbItem item)
         {
-            if (item.ProductSlug == null)
+            var res = await EpicApi.GetCatalogNamespace(item.ID).ConfigureAwait(false);
+
+            if (res != null)
             {
-                var res = await EpicApi.GetCatalogNamespace(item.ID).ConfigureAwait(false);
-
-                if (res != null)
+                if (res.mappings != null)
                 {
-                    if (res.mappings != null)
-                    {
-                        var mapping = res.mappings.FirstOrDefault(x => x.pageType == "productHome");
+                    var mapping = res.mappings.FirstOrDefault(x => x.pageType == "productHome");
 
-                        if (mapping != null)
-                        {
-                            item.ProductSlug = mapping.pageSlug;
-                        }
+                    if (mapping != null)
+                    {
+                        item.ProductSlug = mapping.pageSlug;
                     }
                 }
             }

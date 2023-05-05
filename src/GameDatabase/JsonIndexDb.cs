@@ -81,6 +81,11 @@ namespace EpicRatingsUpdater.GameDatabase
                 return null;
             }
 
+            if (CachedItems.TryGetValue(key, out var item))
+            {
+                return item;
+            }
+
             try
             {
                 var fullPath = Path.Combine(BasePath, $"{name}.json");
@@ -88,6 +93,13 @@ namespace EpicRatingsUpdater.GameDatabase
                 var text = await File.ReadAllTextAsync(fullPath);
 
                 var data = JsonSerializer.Deserialize<T>(text);
+
+                if (data == null)
+                {
+                    return null;
+                }
+
+                CachedItems[data.ID] = data;
 
                 return data;
             }
@@ -158,10 +170,6 @@ namespace EpicRatingsUpdater.GameDatabase
                 File.Move(oldPath, newPath);
 
                 await SaveIndex().ConfigureAwait(false);
-            }
-            else
-            {
-
             }
         }
 
