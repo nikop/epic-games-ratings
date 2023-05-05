@@ -3,28 +3,24 @@
 [View Rawdata](../../db/t/the_alto_collection.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 332  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 44  (Ranked 405)  
-Sum: 344 (Ranked 312)  
-Diff (max vs sum): 93  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,343 |
-| Rookie | 24.00% | ~4,749 |
-| Nomad | 19.00% | ~3,760 |
-| Picking Up Speed | 18.00% | ~3,562 |
-| Welcome Maya | 17.00% | ~3,364 |
-| Sightseer | 12.00% | ~2,375 |
-| Scout | 10.00% | ~1,979 |
-| Enter Paz | 9.00% | ~1,781 |
-| Wanderer | 9.00% | ~1,781 |
-| Amateur | 8.00% | ~1,583 |
-| Unlock Maya | 7.00% | ~1,385 |
-| Aviator | 6.00% | ~1,187 |
-| One With The Board | 6.00% | ~1,187 |
-| Voyager | 6.00% | ~1,187 |
-| My Little Friend | 5.00% | ~989 |
+| Finding Your Footing | 27.00% | ~5,346 |
+| Rookie | 24.00% | ~4,752 |
+| Nomad | 19.00% | ~3,762 |
+| Picking Up Speed | 18.00% | ~3,564 |
+| Welcome Maya | 17.00% | ~3,366 |
+| Sightseer | 12.00% | ~2,376 |
+| Scout | 10.00% | ~1,980 |
+| Enter Paz | 9.00% | ~1,782 |
+| Wanderer | 9.00% | ~1,782 |
+| Amateur | 8.00% | ~1,584 |
+| Unlock Maya | 7.00% | ~1,386 |
+| Aviator | 6.00% | ~1,188 |
+| One With The Board | 6.00% | ~1,188 |
+| Voyager | 6.00% | ~1,188 |
+| My Little Friend | 5.00% | ~990 |
 | Sandboarder | 4.00% | ~792 |
 | Izel Has Arrived | 4.00% | ~792 |
 | Junkie | 3.00% | ~594 |
@@ -50,7 +46,7 @@ Diff (max vs sum): 93
 | The Ultimate Challenge | 0.10% | ~20 |
 | Windswept | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,789 (Ranked 90)  
+Progressed: 19,800 (Ranked 90)  
 Completed: 3 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,8 +61,11 @@ Completed: 3 (0.02%) (Ranked 175)
 | 2023-05-02 | 19,423 | 3 |
 | 2023-05-03 | 19,544 | 3 |
 | 2023-05-04 | 19,662 | 3 |
-| 2023-05-05 | 19,789 | 3 |
+| 2023-05-05 | 19,800 | 3 |
 ## Awards
+Max (Great for Quick Sessions): 44  (Ranked 405)  
+Sum: 344 (Ranked 312)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |

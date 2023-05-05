@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/days_gone.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 3,949  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 3,741  (Ranked 76)  
 Sum: 6,626 (Ranked 107)  
 Diff (max vs sum): -31  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,741 |

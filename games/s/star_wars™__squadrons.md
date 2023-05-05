@@ -1,9 +1,6 @@
 # STAR WARS™: Squadrons
 [Store](https://store.epicgames.com/en-US/p/star-wars-squadrons)  
 [View Rawdata](../../db/s/star_wars™__squadrons.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

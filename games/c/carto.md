@@ -1,9 +1,6 @@
 # Carto
 [Store](https://store.epicgames.com/en-US/p/carto)  
 [View Rawdata](../../db/c/carto.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

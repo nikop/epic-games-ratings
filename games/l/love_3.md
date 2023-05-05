@@ -1,9 +1,6 @@
 # LOVE 3
 [Store](https://store.epicgames.com/en-US/p/love-3-c2516f)  
 [View Rawdata](../../db/l/love_3.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

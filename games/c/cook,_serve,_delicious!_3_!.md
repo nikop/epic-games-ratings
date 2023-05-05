@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/cook,_serve,_delicious!_3_!.json)  
 Rating: 4.49 (Ranked 549)  
 Number of Ratings: 2,006  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Quick Sessions): 104  (Ranked 314)  
 Sum: 704 (Ranked 259)  
 Diff (max vs sum): 55  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 104 |

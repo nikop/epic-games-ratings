@@ -3,14 +3,10 @@
 [View Rawdata](../../db/n/nba_2k21.json)  
 Rating: 4.39 (Ranked 680)  
 Number of Ratings: 43,722  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 11,648  (Ranked 30)  
 Sum: 88,153 (Ranked 14)  
 Diff (max vs sum): 16  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 11,648 |

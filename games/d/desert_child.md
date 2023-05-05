@@ -1,9 +1,6 @@
 # Desert Child
 [Store](https://store.epicgames.com/en-US/p/desert-child-be4072)  
 [View Rawdata](../../db/d/desert_child.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

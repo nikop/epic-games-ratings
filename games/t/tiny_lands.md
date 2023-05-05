@@ -1,9 +1,6 @@
 # Tiny Lands
 [Store](https://store.epicgames.com/en-US/p/tiny-lands-527466)  
 [View Rawdata](../../db/t/tiny_lands.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

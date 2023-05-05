@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/darksiders_iii.json)  
 Rating: 4.49 (Ranked 549)  
 Number of Ratings: 116  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 88  (Ranked 336)  
-Sum: 88 (Ranked 401)  
-Diff (max vs sum): -65  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Great Boss Battles): 88  (Ranked 336)  
+Sum: 88 (Ranked 402)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 88 |

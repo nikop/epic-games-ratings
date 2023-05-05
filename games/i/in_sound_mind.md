@@ -3,14 +3,10 @@
 [View Rawdata](../../db/i/in_sound_mind.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 1,937  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 62  (Ranked 374)  
 Sum: 337 (Ranked 315)  
 Diff (max vs sum): 59  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 62 |

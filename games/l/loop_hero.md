@@ -3,14 +3,10 @@
 [View Rawdata](../../db/l/loop_hero.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 6,301  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 410  (Ranked 193)  
 Sum: 3,479 (Ranked 141)  
 Diff (max vs sum): 52  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 410 |

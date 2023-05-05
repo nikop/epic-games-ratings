@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/final_fantasy_vii_remake_intergrade.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 15,120  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 5,455  (Ranked 59)  
 Sum: 11,967 (Ranked 71)  
 Diff (max vs sum): -12  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 5,455 |

@@ -3,9 +3,6 @@
 [View Rawdata](../../db/t/travellers_rest.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 64  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

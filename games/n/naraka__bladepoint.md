@@ -3,14 +3,10 @@
 [View Rawdata](../../db/n/naraka__bladepoint.json)  
 Rating: 4.19 (Ranked 814)  
 Number of Ratings: 132,339  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 181,797  (Ranked 4)  
 Sum: 380,107 (Ranked 7)  
 Diff (max vs sum): -3  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 181,797 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/rogue_company.json)  
 Rating: 4.34 (Ranked 721)  
 Number of Ratings: 21,107  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 4,868  (Ranked 61)  
 Sum: 30,783 (Ranked 36)  
 Diff (max vs sum): 25  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,868 |

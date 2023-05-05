@@ -1,9 +1,6 @@
 # Tom Clancy's EndWar
 [Store](https://store.epicgames.com/en-US/p/endwar)  
 [View Rawdata](../../db/t/tom_clancy's_endwar.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

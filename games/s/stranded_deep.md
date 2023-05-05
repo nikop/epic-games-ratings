@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/stranded_deep.json)  
 Rating: 4.22 (Ranked 795)  
 Number of Ratings: 3,300  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 202  (Ranked 255)  
 Sum: 1,018 (Ranked 227)  
 Diff (max vs sum): 28  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 202 |

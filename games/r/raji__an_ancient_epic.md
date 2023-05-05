@@ -1,9 +1,6 @@
 # Raji: An Ancient Epic
 [Store](https://store.epicgames.com/en-US/p/raji-an-ancient-epic)  
 [View Rawdata](../../db/r/raji__an_ancient_epic.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

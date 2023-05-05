@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Silent City | 16.00% | ~119 |
-| Duet Desert | 2.00% | ~15 |
+| Duet Desert | 3.00% | ~22 |
 | Fermata | 2.00% | ~15 |
 | Cadenza | 1.00% | ~7 |
 | Staccato | 1.00% | ~7 |

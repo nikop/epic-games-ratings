@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/child-of-light)  
 [View Rawdata](../../db/c/child_of_light__ultimate_edition.json)  
 Rating: 4.83 (Ranked 55)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

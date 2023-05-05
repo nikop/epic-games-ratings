@@ -1,9 +1,6 @@
 # Kredolis
 [Store](https://store.epicgames.com/en-US/p/kredolis-cbd516)  
 [View Rawdata](../../db/k/kredolis.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

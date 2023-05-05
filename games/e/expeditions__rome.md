@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/expeditions__rome.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 68  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 45  (Ranked 401)  
 Sum: 45 (Ranked 438)  
 Diff (max vs sum): -37  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 45 |

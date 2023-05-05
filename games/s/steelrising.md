@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/steelrising.json)  
 Rating: 4.28 (Ranked 765)  
 Number of Ratings: 122  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 36  (Ranked 421)  
 Sum: 36 (Ranked 447)  
 Diff (max vs sum): -26  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

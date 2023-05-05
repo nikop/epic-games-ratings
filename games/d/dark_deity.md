@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/dark_deity.json)  
 Rating: 4.16 (Ranked 832)  
 Number of Ratings: 24  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 606  (Ranked 163)  
 Sum: 852 (Ranked 243)  
 Diff (max vs sum): -80  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 606 |

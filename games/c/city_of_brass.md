@@ -3,9 +3,6 @@
 [View Rawdata](../../db/c/city_of_brass.json)  
 Rating: 4.22 (Ranked 795)  
 Number of Ratings: 227  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

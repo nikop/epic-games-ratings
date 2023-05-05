@@ -3,9 +3,6 @@
 [View Rawdata](../../db/b/blair_witch.json)  
 Rating: 4.13 (Ranked 846)  
 Number of Ratings: 635  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

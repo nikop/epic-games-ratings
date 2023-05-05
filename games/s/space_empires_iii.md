@@ -1,9 +1,6 @@
 # Space Empires III
 [Store](https://store.epicgames.com/en-US/p/space-empires-iii-38e873)  
 [View Rawdata](../../db/s/space_empires_iii.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

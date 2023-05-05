@@ -3,10 +3,6 @@
 [View Rawdata](../../db/g/going_medieval.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 706  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Relaxing): 118  (Ranked 302)  
-Sum: 923 (Ranked 233)  
-Diff (max vs sum): 69  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,6 +45,9 @@ Completed: 6 (0.23%) (Ranked 127)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2,633 | 6 |
 ## Awards
+Max (Relaxing): 118  (Ranked 302)  
+Sum: 923 (Ranked 233)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 118 |

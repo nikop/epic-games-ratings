@@ -3,9 +3,6 @@
 [View Rawdata](../../db/t/this_is_the_police.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 52  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

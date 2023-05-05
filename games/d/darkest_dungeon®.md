@@ -1,16 +1,12 @@
 # Darkest Dungeon®
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon)  
 [View Rawdata](../../db/d/darkest_dungeon®.json)  
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 128)  
 Number of Ratings: 5,428  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 3,171  (Ranked 83)  
 Sum: 8,678 (Ranked 84)  
 Diff (max vs sum): -1  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,171 |

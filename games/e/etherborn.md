@@ -1,9 +1,6 @@
 # Etherborn
 [Store](https://store.epicgames.com/en-US/p/etherborn-00f378)  
 [View Rawdata](../../db/e/etherborn.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

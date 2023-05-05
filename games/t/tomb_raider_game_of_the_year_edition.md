@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/tomb_raider_game_of_the_year_edition.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 20,961  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 5,761  (Ranked 56)  
 Sum: 6,779 (Ranked 105)  
 Diff (max vs sum): -49  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,761 |

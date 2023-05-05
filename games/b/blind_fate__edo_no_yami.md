@@ -1,9 +1,6 @@
 # Blind Fate: Edo no Yami
 [Store](https://store.epicgames.com/en-US/p/blind-fate-edo-no-yami-87e748)  
 [View Rawdata](../../db/b/blind_fate__edo_no_yami.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

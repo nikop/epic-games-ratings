@@ -1,9 +1,6 @@
 # Beacon Pines
 [Store](https://store.epicgames.com/en-US/p/beacon-pines-629fc3)  
 [View Rawdata](../../db/b/beacon_pines.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

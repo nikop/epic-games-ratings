@@ -1,9 +1,6 @@
 # STAR WARS™ Battlefront™ Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-battlefront)  
 [View Rawdata](../../db/s/star_wars™_battlefront™_ultimate_edition.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

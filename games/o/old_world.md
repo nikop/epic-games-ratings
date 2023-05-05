@@ -3,10 +3,6 @@
 [View Rawdata](../../db/o/old_world.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 1,307  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Relaxing): 215  (Ranked 248)  
-Sum: 1,753 (Ranked 197)  
-Diff (max vs sum): 51  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -313,6 +309,9 @@ Completed: 2 (0.02%) (Ranked 175)
 | 2023-05-04 | 10,754 | 2 |
 | 2023-05-05 | 10,777 | 2 |
 ## Awards
+Max (Relaxing): 215  (Ranked 248)  
+Sum: 1,753 (Ranked 197)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 215 |

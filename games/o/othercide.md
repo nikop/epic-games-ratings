@@ -3,9 +3,6 @@
 [View Rawdata](../../db/o/othercide.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 40  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

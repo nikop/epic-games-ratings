@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/mages_of_mystralia.json)  
 Rating: 4.38 (Ranked 687)  
 Number of Ratings: 693  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 162  (Ranked 277)  
 Sum: 162 (Ranked 370)  
 Diff (max vs sum): -93  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 162 |

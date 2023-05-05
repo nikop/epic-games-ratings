@@ -3,9 +3,6 @@
 [View Rawdata](../../db/r/rime.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 85  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

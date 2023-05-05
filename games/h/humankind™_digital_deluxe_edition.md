@@ -3,14 +3,10 @@
 [View Rawdata](../../db/h/humankind™_digital_deluxe_edition.json)  
 Rating: 4.51 (Ranked 514)  
 Number of Ratings: 609  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Storytelling): 104  (Ranked 314)  
 Sum: 884 (Ranked 237)  
 Diff (max vs sum): 77  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 104 |

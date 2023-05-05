@@ -3,23 +3,19 @@
 [View Rawdata](../../db/w/weird_west.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 125  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Impact the Story): 23  (Ranked 469)  
-Sum: 23 (Ranked 471)  
-Diff (max vs sum): -2  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,285 |
+| Unforgiven | 86.00% | ~1,286 |
 | Self-Improvement | 71.00% | ~1,061 |
-| Perky | 66.00% | ~986 |
-| Let’s Ride | 60.00% | ~896 |
+| Perky | 66.00% | ~987 |
+| Let’s Ride | 60.00% | ~897 |
 | Welcome to the Weird West | 58.00% | ~867 |
 | Dead or Alive | 56.00% | ~837 |
 | Full House | 37.00% | ~553 |
 | Off the Trail | 34.00% | ~508 |
-| Justice Served | 29.00% | ~433 |
-| Chain Reaction | 27.00% | ~403 |
+| Justice Served | 29.00% | ~434 |
+| Chain Reaction | 27.00% | ~404 |
 | Rain of Death | 25.00% | ~374 |
 | Scholar | 25.00% | ~374 |
 | Through Their Eyes | 25.00% | ~374 |
@@ -38,10 +34,10 @@ Diff (max vs sum): -2
 | Something Wicked This Way Comes… | 12.00% | ~179 |
 | There is Hope | 12.00% | ~179 |
 | Turning the Tables | 12.00% | ~179 |
-| The Philosopher’s Stone | 10.00% | ~149 |
-| Loyalty to the Pack | 9.00% | ~134 |
-| Eternity Can Wait | 9.00% | ~134 |
-| Mystery Machine | 9.00% | ~134 |
+| Loyalty to the Pack | 9.00% | ~135 |
+| Eternity Can Wait | 9.00% | ~135 |
+| Mystery Machine | 9.00% | ~135 |
+| The Philosopher’s Stone | 9.00% | ~135 |
 | Gold Digger | 8.00% | ~120 |
 | Monster Hunter | 8.00% | ~120 |
 | Knuckle Sandwich | 8.00% | ~120 |
@@ -64,7 +60,7 @@ Diff (max vs sum): -2
 | Winter Has Come | 0.30% | ~4 |
 | Revenant | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,494 (Ranked 149)  
+Progressed: 1,495 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,8 +71,11 @@ Completed: 2 (0.13%) (Ranked 144)
 | 2023-04-30 | 1,487 | 2 |
 | 2023-05-02 | 1,488 | 2 |
 | 2023-05-04 | 1,493 | 2 |
-| 2023-05-05 | 1,494 | 2 |
+| 2023-05-05 | 1,495 | 2 |
 ## Awards
+Max (Impact the Story): 23  (Ranked 469)  
+Sum: 23 (Ranked 471)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

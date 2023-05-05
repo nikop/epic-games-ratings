@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/smite.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 6,749  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 3,718  (Ranked 77)  
 Sum: 23,039 (Ranked 47)  
 Diff (max vs sum): 30  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 3,718 |

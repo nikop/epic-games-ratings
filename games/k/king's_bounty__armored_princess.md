@@ -3,9 +3,6 @@
 [View Rawdata](../../db/k/king's_bounty__armored_princess.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 20  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,9 +1,6 @@
 # Dreamscaper
 [Store](https://store.epicgames.com/en-US/p/dreamscaper)  
 [View Rawdata](../../db/d/dreamscaper.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

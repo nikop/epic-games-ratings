@@ -3,16 +3,12 @@
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 1,611  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 687  (Ranked 156)  
-Sum: 1,043 (Ranked 226)  
-Diff (max vs sum): -70  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,038 |
-| Biggest Communism Builder | 24.00% | ~28,318 |
-| The World's Most Laughable Centrist | 20.00% | ~23,598 |
+| Goodest Of The Good Cops | 28.00% | ~33,039 |
+| Biggest Communism Builder | 24.00% | ~28,319 |
+| The World's Most Laughable Centrist | 20.00% | ~23,599 |
 | Il Coppo Del'Arte! | 18.00% | ~21,239 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,879 |
 | Hyperstellar Law Official | 15.00% | ~17,699 |
@@ -20,9 +16,9 @@ Diff (max vs sum): -70
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,339 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,339 |
 | Truly Rabid *Traditionalist* | 11.00% | ~12,979 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,619 |
-| Unbelievably Boring **** | 8.00% | ~9,439 |
-| Enemy Of The Physical Realm | 8.00% | ~9,439 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,620 |
+| Unbelievably Boring **** | 8.00% | ~9,440 |
+| Enemy Of The Physical Realm | 8.00% | ~9,440 |
 | Hardie's Heroes | 5.00% | ~5,900 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,720 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,540 |
@@ -51,7 +47,7 @@ Diff (max vs sum): -70
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,992 (Ranked 55)  
+Progressed: 117,995 (Ranked 55)  
 Completed: 24 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,8 +62,11 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-02 | 117,873 | 24 |
 | 2023-05-03 | 117,917 | 24 |
 | 2023-05-04 | 117,947 | 24 |
-| 2023-05-05 | 117,992 | 24 |
+| 2023-05-05 | 117,995 | 24 |
 ## Awards
+Max (Character Customization): 687  (Ranked 156)  
+Sum: 1,043 (Ranked 226)  
+Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 687 |

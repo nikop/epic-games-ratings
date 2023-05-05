@@ -3,14 +3,10 @@
 [View Rawdata](../../db/v/voidtrain.json)  
 Rating: 4.50 (Ranked 531)  
 Number of Ratings: 1,305  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 28  (Ranked 450)  
 Sum: 102 (Ranked 395)  
 Diff (max vs sum): 55  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

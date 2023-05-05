@@ -3,9 +3,6 @@
 [View Rawdata](../../db/h/hue.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 426  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

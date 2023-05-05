@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 77,
   "Rating": 4.29,
   "RatingHistory": [
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -134,6 +134,11 @@
     {
       "Time": "2023-05-04T19:39:25.9563318+00:00",
       "NumProgressed": 734,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T19:06:11.0325822+00:00",
+      "NumProgressed": 735,
       "NumCompleted": 0
     }
   ],
@@ -296,9 +301,9 @@
       "ID": "EXILED_DESTROY_CAMP",
       "SetID": "6ohhfoc",
       "Name": "Burn and Pillage",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 29
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -352,9 +357,9 @@
       "ID": "RUIN_CLEAR",
       "SetID": "6ohhfoc",
       "Name": "Hidden Secrets",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "SUMMON_BOSS",
@@ -505,7 +510,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 0
     }
   ],
@@ -513,8 +518,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:07:10.0308054+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:06:11.0325815+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:59:12.9692592+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:07:10.0308441+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:58:57.2095168+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:06:11.0326211+00:00"
 }

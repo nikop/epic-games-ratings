@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/black_book.json)  
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 96  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 21  (Ranked 478)  
 Sum: 21 (Ranked 478)  
 Diff (max vs sum): 0  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21 |

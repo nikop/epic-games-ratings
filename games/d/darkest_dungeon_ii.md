@@ -3,15 +3,11 @@
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 7,767  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 6,507  (Ranked 48)  
-Sum: 16,599 (Ranked 57)  
-Diff (max vs sum): -9  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Nope | 125.00% | ~5 |
 | A Place to Lay Your Head | 100.00% | ~4 |
-| Nope | 100.00% | ~4 |
 | To Grandmother's House | 75.00% | ~3 |
 | Don't Make Me Turn This Coach Around | 50.00% | ~2 |
 | Serenity Now! | 50.00% | ~2 |
@@ -84,9 +80,12 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 2 | 0 |
 | 2023-05-04 | 4 | 0 |
 ## Awards
+Max (Character Customization): 6,514  (Ranked 48)  
+Sum: 16,606 (Ranked 57)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,507 |
+| This game has Inclusive Character Customization | 6,514 |
 | This game has Challenging Combat | 1,228 |
 | This game has Diverse Characters | 1,226 |
 | This game is Highly Recommended | 1,217 |
@@ -200,4 +199,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.67 | - | 6,502 | 16,575 |
 | 2023-05-03 | 4.67 | - | 6,504 | 16,584 |
 | 2023-05-04 | 4.67 | - | 6,507 | 16,598 |
-| 2023-05-05 | 4.67 | - | 6,507 | 16,599 |
+| 2023-05-05 | 4.67 | - | 6,514 | 16,606 |

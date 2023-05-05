@@ -1,9 +1,6 @@
 # ReadySet Heroes
 [Store](https://store.epicgames.com/en-US/p/readyset-heroes)  
 [View Rawdata](../../db/r/readyset_heroes.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/recipe-for-disaster-83726f)  
 [View Rawdata](../../db/r/recipe_for_disaster.json)  
 Rating: 4.20 (Ranked 802)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

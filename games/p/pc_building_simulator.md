@@ -3,36 +3,32 @@
 [View Rawdata](../../db/p/pc_building_simulator.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 12,155  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 1,033  (Ranked 131)  
-Sum: 7,724 (Ranked 93)  
-Diff (max vs sum): 38  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,677,108 |
-| Easy to forget | 46.00% | ~1,607,228 |
-| Back in the black | 38.00% | ~1,327,710 |
-| That's what I'm talking about | 28.00% | ~978,313 |
-| The Best of Both Worlds | 24.00% | ~838,554 |
-| Get your wings | 20.00% | ~698,795 |
-| Double trouble | 15.00% | ~524,096 |
-| Smashing it | 10.00% | ~349,397 |
-| But can it run Crysis? | 9.00% | ~314,458 |
-| My favourite feature... | 9.00% | ~314,458 |
-| From humble beginnings... | 7.00% | ~244,578 |
-| Customer satisfaction | 7.00% | ~244,578 |
-| Keeping things neat | 4.00% | ~139,759 |
-| Seems you're pretty good at this | 4.00% | ~139,759 |
-| Triple threat | 3.00% | ~104,819 |
-| You rock at this! | 3.00% | ~104,819 |
-| Your music sucks | 3.00% | ~104,819 |
-| Bending over backwards | 3.00% | ~104,819 |
-| I'm broke, Uncle! | 2.00% | ~69,879 |
-| Maybe you should try something else? | 2.00% | ~69,879 |
-| Taking care of business | 2.00% | ~69,879 |
-| Perfection | 2.00% | ~69,879 |
-| Calling in Sick | 2.00% | ~69,879 |
+| You need to plug it in... | 48.00% | ~1,677,121 |
+| Easy to forget | 46.00% | ~1,607,241 |
+| Back in the black | 38.00% | ~1,327,721 |
+| That's what I'm talking about | 28.00% | ~978,321 |
+| The Best of Both Worlds | 24.00% | ~838,561 |
+| Get your wings | 20.00% | ~698,801 |
+| Double trouble | 15.00% | ~524,100 |
+| Smashing it | 10.00% | ~349,400 |
+| But can it run Crysis? | 9.00% | ~314,460 |
+| My favourite feature... | 9.00% | ~314,460 |
+| From humble beginnings... | 7.00% | ~244,580 |
+| Customer satisfaction | 7.00% | ~244,580 |
+| Keeping things neat | 4.00% | ~139,760 |
+| Seems you're pretty good at this | 4.00% | ~139,760 |
+| Triple threat | 3.00% | ~104,820 |
+| You rock at this! | 3.00% | ~104,820 |
+| Your music sucks | 3.00% | ~104,820 |
+| Bending over backwards | 3.00% | ~104,820 |
+| I'm broke, Uncle! | 2.00% | ~69,880 |
+| Maybe you should try something else? | 2.00% | ~69,880 |
+| Taking care of business | 2.00% | ~69,880 |
+| Perfection | 2.00% | ~69,880 |
+| Calling in Sick | 2.00% | ~69,880 |
 | Overvolted | 1.00% | ~34,940 |
 | If you fail the first time... | 1.00% | ~34,940 |
 | Amazonian | 1.00% | ~34,940 |
@@ -63,7 +59,7 @@ Diff (max vs sum): 38
 | Stop it | 0.10% | ~3,494 |
 | Treat yourself - GPU | 0.10% | ~3,494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,974 (Ranked 3)  
+Progressed: 3,494,003 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,13 +74,16 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
 | 2023-05-04 | 3,493,649 | 22 |
-| 2023-05-05 | 3,493,974 | 22 |
+| 2023-05-05 | 3,494,003 | 22 |
 ## Awards
+Max (Great for Beginners): 1,033  (Ranked 131)  
+Sum: 7,725 (Ranked 93)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,033 |
 | This game is Relaxing | 962 |
-| This game is Extremely Fun | 957 |
+| This game is Extremely Fun | 958 |
 | This game is Educational | 956 |
 | This game has Quickly Understood Controls | 920 |
 | This game is Highly Recommended | 860 |
@@ -184,4 +183,4 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-01 | 4.66 | - | 1,032 | 7,717 |
 | 2023-05-03 | 4.66 | - | 1,032 | 7,722 |
 | 2023-05-04 | 4.66 | - | 1,033 | 7,723 |
-| 2023-05-05 | 4.66 | - | 1,033 | 7,724 |
+| 2023-05-05 | 4.66 | - | 1,033 | 7,725 |

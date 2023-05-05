@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/borderlands__the_pre-sequel.json)  
 Rating: 4.49 (Ranked 549)  
 Number of Ratings: 2,939  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 394  (Ranked 200)  
 Sum: 2,730 (Ranked 159)  
 Diff (max vs sum): 41  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 394 |

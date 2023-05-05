@@ -3,10 +3,6 @@
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
 Rating: 4.76 (Ranked 114)  
 Number of Ratings: 1,354  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 1,624  (Ranked 111)  
-Sum: 6,577 (Ranked 108)  
-Diff (max vs sum): 3  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,7 +17,6 @@ Diff (max vs sum): 3
 | Embrace of the Abyss | 3.00% | ~259 |
 | Path of the Angel | 3.00% | ~259 |
 | Great Upstart | 3.00% | ~259 |
-| All Paths Open | 3.00% | ~259 |
 | Demonic and Divine | 3.00% | ~259 |
 | Path of the Azata | 2.00% | ~173 |
 | Transformation | 2.00% | ~173 |
@@ -29,6 +24,7 @@ Diff (max vs sum): 3
 | Divide and Rule | 2.00% | ~173 |
 | Mythic Reinforcements | 2.00% | ~173 |
 | Voice from Your Dreams | 2.00% | ~173 |
+| All Paths Open | 2.00% | ~173 |
 | A Flame | 2.00% | ~173 |
 | Hey, I Know You! | 2.00% | ~173 |
 | Next-Door Play | 2.00% | ~173 |
@@ -127,7 +123,7 @@ Diff (max vs sum): 3
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,640 (Ranked 107)  
+Progressed: 8,641 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,8 +138,11 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 8,584 | 0 |
 | 2023-05-03 | 8,607 | 0 |
 | 2023-05-04 | 8,627 | 0 |
-| 2023-05-05 | 8,640 | 0 |
+| 2023-05-05 | 8,641 | 0 |
 ## Awards
+Max (Character Customization): 1,624  (Ranked 111)  
+Sum: 6,577 (Ranked 108)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,624 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/p/phantasy_star_online_2_new_genesis.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 692  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 837  (Ranked 144)  
-Sum: 3,635 (Ranked 136)  
-Diff (max vs sum): 8  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Character Customization): 837  (Ranked 144)  
+Sum: 3,636 (Ranked 136)  
+Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 837 |
@@ -23,7 +19,7 @@ Diff (max vs sum): 8
 | This game has Quickly Understood Controls | 236 |
 | This game is Relaxing | 231 |
 | This game has Beautiful Visuals | 224 |
-| This game has a Creative Community | 202 |
+| This game has a Creative Community | 203 |
 | This game has Obsessive Gameplay | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -144,4 +140,4 @@ Diff (max vs sum): 8
 | 2023-05-02 | 4.55 | - | 831 | 3,620 |
 | 2023-05-03 | 4.55 | - | 835 | 3,626 |
 | 2023-05-04 | 4.55 | - | 835 | 3,630 |
-| 2023-05-05 | 4.55 | - | 837 | 3,635 |
+| 2023-05-05 | 4.55 | - | 837 | 3,636 |

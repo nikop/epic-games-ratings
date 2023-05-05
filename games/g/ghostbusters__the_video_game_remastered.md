@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/ghostbusters__the_video_game_remastered.json)  
 Rating: 4.46 (Ranked 591)  
 Number of Ratings: 418  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 106  (Ranked 313)  
 Sum: 106 (Ranked 394)  
 Diff (max vs sum): -81  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 106 |

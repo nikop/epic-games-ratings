@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/dandara__trials_of_fear_edition.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 164  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 50  (Ranked 385)  
 Sum: 50 (Ranked 431)  
 Diff (max vs sum): -46  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 50 |

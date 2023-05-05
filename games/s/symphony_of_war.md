@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/symphony_of_war.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 181  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  
 Diff (max vs sum): -55  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 66 |

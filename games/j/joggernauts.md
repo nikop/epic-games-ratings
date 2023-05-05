@@ -1,9 +1,6 @@
 # Joggernauts
 [Store](https://store.epicgames.com/en-US/p/joggernauts-a7767f)  
 [View Rawdata](../../db/j/joggernauts.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

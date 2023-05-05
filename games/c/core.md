@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/core.json)  
 Rating: 4.37 (Ranked 696)  
 Number of Ratings: 1,439  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 727  (Ranked 152)  
 Sum: 1,895 (Ranked 189)  
 Diff (max vs sum): -37  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 727 |

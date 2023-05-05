@@ -3,9 +3,6 @@
 [View Rawdata](../../db/p/patron.json)  
 Rating: 3.94 (Ranked 891)  
 Number of Ratings: 38  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

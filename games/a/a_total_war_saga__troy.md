@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/a_total_war_saga__troy.json)  
 Rating: 4.51 (Ranked 514)  
 Number of Ratings: 6,316  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 1,564  (Ranked 112)  
 Sum: 11,249 (Ranked 75)  
 Diff (max vs sum): 37  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,564 |

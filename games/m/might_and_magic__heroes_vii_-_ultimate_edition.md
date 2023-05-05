@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/might_and_magic__heroes_vii_-_ultimate_edition.json)  
 Rating: 4.46 (Ranked 591)  
 Number of Ratings: 96  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 27  (Ranked 454)  
 Sum: 72 (Ranked 413)  
 Diff (max vs sum): 41  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

@@ -1,9 +1,6 @@
 # Paradise Lost
 [Store](https://store.epicgames.com/en-US/p/paradise-lost)  
 [View Rawdata](../../db/p/paradise_lost.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

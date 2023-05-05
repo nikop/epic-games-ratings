@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/metro_2033_redux.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 5,684  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 1,172  (Ranked 123)  
 Sum: 1,281 (Ranked 216)  
 Diff (max vs sum): -93  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,172 |

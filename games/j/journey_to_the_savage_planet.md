@@ -3,14 +3,10 @@
 [View Rawdata](../../db/j/journey_to_the_savage_planet.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 114  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 36  (Ranked 421)  
 Sum: 36 (Ranked 447)  
 Diff (max vs sum): -26  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

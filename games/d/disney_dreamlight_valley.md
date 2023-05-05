@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
 Rating: 4.76 (Ranked 114)  
 Number of Ratings: 1,396  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 837  (Ranked 144)  
 Sum: 6,993 (Ranked 102)  
 Diff (max vs sum): 42  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 837 |

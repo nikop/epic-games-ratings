@@ -1,9 +1,6 @@
 # Trüberbrook
 [Store](https://store.epicgames.com/en-US/p/truberbrook)  
 [View Rawdata](../../db/t/trüberbrook.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

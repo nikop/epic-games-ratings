@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/tropico_5.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 2,008  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Extremely Fun): 113  (Ranked 310)  
-Sum: 885 (Ranked 236)  
-Diff (max vs sum): 74  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Extremely Fun): 113  (Ranked 310)  
+Sum: 886 (Ranked 236)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 113 |
@@ -18,7 +14,7 @@ Diff (max vs sum): 74
 | This game has Amazing Storytelling | 105 |
 | This game is Educational | 105 |
 | This game has Quickly Understood Controls | 101 |
-| This game is Relaxing | 100 |
+| This game is Relaxing | 101 |
 | This game is Highly Recommended | 98 |
 | This game has Amazing Characters | 84 |
 | This game has Diverse Characters | 83 |
@@ -116,3 +112,4 @@ Diff (max vs sum): 74
 | 2023-04-21 | 4.45 | - | 113 | 881 |
 | 2023-04-22 | 4.45 | - | 113 | 882 |
 | 2023-04-29 | 4.45 | - | 113 | 885 |
+| 2023-05-05 | 4.45 | - | 113 | 886 |

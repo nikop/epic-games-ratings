@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/slipways.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 34  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

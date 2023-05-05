@@ -1,9 +1,6 @@
 # Re-Legion
 [Store](https://store.epicgames.com/en-US/p/relegion-fe9684)  
 [View Rawdata](../../db/r/re-legion.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

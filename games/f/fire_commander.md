@@ -1,9 +1,6 @@
 # Fire Commander
 [Store](https://store.epicgames.com/en-US/p/fire-commander-df24ad)  
 [View Rawdata](../../db/f/fire_commander.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

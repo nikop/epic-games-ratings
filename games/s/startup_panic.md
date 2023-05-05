@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/startup_panic.json)  
 Rating: 4.38 (Ranked 687)  
 Number of Ratings: 28  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

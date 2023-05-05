@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/god_of_war.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 4,943  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 3,971  (Ranked 73)  
 Sum: 7,690 (Ranked 95)  
 Diff (max vs sum): -22  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,971 |

@@ -1,9 +1,6 @@
 # Kujlevka
 [Store](https://store.epicgames.com/en-US/p/kujlevka-9b53bb)  
 [View Rawdata](../../db/k/kujlevka.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

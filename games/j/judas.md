@@ -1,9 +1,6 @@
 # Judas
 [Store](https://store.epicgames.com/en-US/p/judas-45a458)  
 [View Rawdata](../../db/j/judas.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

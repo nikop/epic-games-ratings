@@ -1,9 +1,6 @@
 # The Last Friend
 [Store](https://store.epicgames.com/en-US/p/the-last-friend)  
 [View Rawdata](../../db/t/the_last_friend.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,9 +1,6 @@
 # Defunct
 [Store](https://store.epicgames.com/en-US/p/defunct-221ccf)  
 [View Rawdata](../../db/d/defunct.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

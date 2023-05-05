@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/knockout-city)  
 [View Rawdata](../../db/k/knockout_city™.json)  
 Rating: 4.44 (Ranked 621)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

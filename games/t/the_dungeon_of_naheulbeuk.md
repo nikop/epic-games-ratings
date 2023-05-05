@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 118  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 59  (Ranked 378)  
 Sum: 59 (Ranked 427)  
 Diff (max vs sum): -49  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 59 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/far_cry_4.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 639  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 510  (Ranked 180)  
 Sum: 766 (Ranked 251)  
 Diff (max vs sum): -71  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 510 |

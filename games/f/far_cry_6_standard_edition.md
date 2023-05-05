@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/far_cry_6_standard_edition.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 12,290  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Storytelling): 693  (Ranked 154)  
 Sum: 5,356 (Ranked 117)  
 Diff (max vs sum): 37  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 693 |

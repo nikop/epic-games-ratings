@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/wolfenstein__the_new_order_-_worldwide.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 61,135  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 14,333  (Ranked 22)  
 Sum: 16,987 (Ranked 55)  
 Diff (max vs sum): -33  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 14,333 |

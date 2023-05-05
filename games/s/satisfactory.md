@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/satisfactory.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 29,401  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 9,261  (Ranked 34)  
 Sum: 79,422 (Ranked 17)  
 Diff (max vs sum): 17  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 9,261 |

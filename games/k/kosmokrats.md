@@ -1,9 +1,6 @@
 # Kosmokrats
 [Store](https://store.epicgames.com/en-US/p/kosmokrats)  
 [View Rawdata](../../db/k/kosmokrats.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

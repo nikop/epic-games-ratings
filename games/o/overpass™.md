@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/overpass)  
 [View Rawdata](../../db/o/overpass™.json)  
 Rating: 4.21 (Ranked 798)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

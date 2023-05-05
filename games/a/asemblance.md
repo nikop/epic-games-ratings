@@ -1,9 +1,6 @@
 # Asemblance
 [Store](https://store.epicgames.com/en-US/p/asemblance)  
 [View Rawdata](../../db/a/asemblance.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

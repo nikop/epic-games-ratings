@@ -3,9 +3,6 @@
 [View Rawdata](../../db/y/yes,_your_grace.json)  
 Rating: 4.51 (Ranked 514)  
 Number of Ratings: 85  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

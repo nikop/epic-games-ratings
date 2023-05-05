@@ -3,14 +3,10 @@
 [View Rawdata](../../db/j/just_cause_4_reloaded.json)  
 Rating: 4.30 (Ranked 752)  
 Number of Ratings: 5,442  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 3,589  (Ranked 78)  
 Sum: 6,844 (Ranked 104)  
 Diff (max vs sum): -26  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,589 |

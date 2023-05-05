@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/anno_1800_standard_edition.json)  
 Rating: 4.81 (Ranked 71)  
 Number of Ratings: 4,392  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 1,260  (Ranked 120)  
 Sum: 9,770 (Ranked 79)  
 Diff (max vs sum): 41  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,260 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/elite_dangerous.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 6,856  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Highly Recommended): 2,085  (Ranked 102)  
 Sum: 11,985 (Ranked 70)  
 Diff (max vs sum): 32  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 2,085 |

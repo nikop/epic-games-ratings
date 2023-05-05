@@ -7,8 +7,8 @@
 | Earth Shattering | 59.00% | ~47 |
 | Das Ist Endgültig! | 14.00% | ~11 |
 | La Der des Ders | 13.00% | ~10 |
+| The Chemists' War | 6.00% | ~5 |
 | From the Pages of History | 5.00% | ~4 |
-| The Chemists' War | 5.00% | ~4 |
 | War with Friends | 1.00% | ~1 |
 | Eventful | 0.00% | ~0 |
 | A Student of History | 0.00% | ~0 |

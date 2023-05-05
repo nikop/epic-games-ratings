@@ -1,9 +1,6 @@
 # Boyfriend Dungeon
 [Store](https://store.epicgames.com/en-US/p/boyfriend-dungeon)  
 [View Rawdata](../../db/b/boyfriend_dungeon.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

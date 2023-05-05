@@ -3,10 +3,6 @@
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 1,331  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Extremely Fun): 215  (Ranked 248)  
-Sum: 1,621 (Ranked 201)  
-Diff (max vs sum): 47  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,6 +63,9 @@ Completed: 35 (0.16%) (Ranked 136)
 | 2023-05-04 | 21,409 | 35 |
 | 2023-05-05 | 21,427 | 35 |
 ## Awards
+Max (Extremely Fun): 215  (Ranked 248)  
+Sum: 1,621 (Ranked 201)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 215 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/far_cry_5_standard_edition.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 1,848  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 1,214  (Ranked 121)  
 Sum: 1,847 (Ranked 192)  
 Diff (max vs sum): -71  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,214 |

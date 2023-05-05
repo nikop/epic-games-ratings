@@ -3,20 +3,16 @@
 [View Rawdata](../../db/n/neverwinter.json)  
 Rating: 4.29 (Ranked 758)  
 Number of Ratings: 1,084  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 679  (Ranked 157)  
-Sum: 2,085 (Ranked 182)  
-Diff (max vs sum): -25  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Character Customization): 679  (Ranked 157)  
+Sum: 2,086 (Ranked 182)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 679 |
 | This game is Great for Beginners | 199 |
 | This game has Diverse Characters | 190 |
-| This game is Relaxing | 184 |
+| This game is Relaxing | 185 |
 | This game is Highly Recommended | 174 |
 | This game is Extremely Fun | 172 |
 | This game has Amazing Storytelling | 168 |
@@ -133,4 +129,4 @@ Diff (max vs sum): -25
 | 2023-05-02 | 4.29 | - | 679 | 2,077 |
 | 2023-05-03 | 4.29 | - | 679 | 2,079 |
 | 2023-05-04 | 4.29 | - | 679 | 2,083 |
-| 2023-05-05 | 4.29 | - | 679 | 2,085 |
+| 2023-05-05 | 4.29 | - | 679 | 2,086 |

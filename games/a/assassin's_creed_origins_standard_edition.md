@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/assassin's_creed_origins_standard_edition.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 3,843  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 3,003  (Ranked 87)  
 Sum: 5,047 (Ranked 122)  
 Diff (max vs sum): -35  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,003 |

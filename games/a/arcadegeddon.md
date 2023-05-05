@@ -3,10 +3,6 @@
 [View Rawdata](../../db/a/arcadegeddon.json)  
 Rating: 4.49 (Ranked 549)  
 Number of Ratings: 801  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Relaxing): 62  (Ranked 374)  
-Sum: 533 (Ranked 287)  
-Diff (max vs sum): 87  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -78,6 +74,9 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-04 | 6,178 | 0 |
 | 2023-05-05 | 6,190 | 0 |
 ## Awards
+Max (Relaxing): 62  (Ranked 374)  
+Sum: 533 (Ranked 287)  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 62 |

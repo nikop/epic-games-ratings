@@ -1,9 +1,6 @@
 # Worms Rumble
 [Store](https://store.epicgames.com/en-US/p/worms-rumble)  
 [View Rawdata](../../db/w/worms_rumble.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

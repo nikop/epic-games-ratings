@@ -1,9 +1,6 @@
 # Helheim Hassle
 [Store](https://store.epicgames.com/en-US/p/helheim-hassle-ea806f)  
 [View Rawdata](../../db/h/helheim_hassle.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

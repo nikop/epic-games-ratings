@@ -1,9 +1,6 @@
 # Sephonie
 [Store](https://store.epicgames.com/en-US/p/sephonie-6ab6f7)  
 [View Rawdata](../../db/s/sephonie.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

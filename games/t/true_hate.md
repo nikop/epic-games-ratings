@@ -1,9 +1,6 @@
 # True Hate
 [Store](https://store.epicgames.com/en-US/p/true-hate-007027)  
 [View Rawdata](../../db/t/true_hate.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

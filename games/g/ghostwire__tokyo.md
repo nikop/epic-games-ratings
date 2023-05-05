@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/ghostwire__tokyo.json)  
 Rating: 4.52 (Ranked 500)  
 Number of Ratings: 1,100  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 500  (Ranked 182)  
 Sum: 635 (Ranked 272)  
 Diff (max vs sum): -90  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 500 |

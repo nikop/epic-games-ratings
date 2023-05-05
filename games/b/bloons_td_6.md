@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/bloons_td_6.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 136  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 2,620  (Ranked 88)  
 Sum: 15,500 (Ranked 59)  
 Diff (max vs sum): 29  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 2,620 |

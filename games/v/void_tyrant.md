@@ -1,9 +1,6 @@
 # Void Tyrant
 [Store](https://store.epicgames.com/en-US/p/void-tyrant)  
 [View Rawdata](../../db/v/void_tyrant.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

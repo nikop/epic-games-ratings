@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/shadowrun_hong_kong_-_extended_edition.json)  
 Rating: 4.53 (Ranked 489)  
 Number of Ratings: 241  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 92  (Ranked 332)  
-Sum: 92 (Ranked 399)  
-Diff (max vs sum): -67  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Character Customization): 92  (Ranked 332)  
+Sum: 92 (Ranked 400)  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 92 |

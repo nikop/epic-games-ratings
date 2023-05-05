@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/creature_in_the_well.json)  
 Rating: 4.25 (Ranked 776)  
 Number of Ratings: 113  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 22  (Ranked 473)  
 Sum: 22 (Ranked 474)  
 Diff (max vs sum): -1  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 22 |

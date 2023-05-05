@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/wrc_10_fia_world_rally_championship.json)  
 Rating: 4.48 (Ranked 565)  
 Number of Ratings: 248  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Realistic Visuals): 36  (Ranked 421)  
 Sum: 284 (Ranked 326)  
 Diff (max vs sum): 95  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 36 |

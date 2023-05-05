@@ -1,9 +1,6 @@
 # Rogue State Revolution
 [Store](https://store.epicgames.com/en-US/p/rogue-state-revolution)  
 [View Rawdata](../../db/r/rogue_state_revolution.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

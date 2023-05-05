@@ -1,9 +1,6 @@
 # NASA XOSS MarsXR Editor
 [Store](https://store.epicgames.com/en-US/p/nasa-xoss-marsxr-editor)  
 [View Rawdata](../../db/n/nasa_xoss_marsxr_editor.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

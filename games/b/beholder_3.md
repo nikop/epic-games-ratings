@@ -3,9 +3,6 @@
 [View Rawdata](../../db/b/beholder_3.json)  
 Rating: 4.39 (Ranked 680)  
 Number of Ratings: 21  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/killing_floor_2.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 18,418  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 11,874  (Ranked 28)  
 Sum: 25,666 (Ranked 46)  
 Diff (max vs sum): -18  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 11,874 |

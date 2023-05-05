@@ -1,9 +1,6 @@
 # Dumpy and Bumpy
 [Store](https://store.epicgames.com/en-US/p/dumpy-and-bumpy-86c9d7)  
 [View Rawdata](../../db/d/dumpy_and_bumpy.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

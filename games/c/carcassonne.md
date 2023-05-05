@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/carcassonne.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 276  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Highly Recommended): 72  (Ranked 355)  
 Sum: 508 (Ranked 289)  
 Diff (max vs sum): 66  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 72 |

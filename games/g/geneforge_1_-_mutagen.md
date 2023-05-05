@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/geneforge_1_-_mutagen.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 1,102  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 33  (Ranked 432)  
 Sum: 166 (Ranked 367)  
 Diff (max vs sum): 65  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 33 |

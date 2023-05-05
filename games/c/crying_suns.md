@@ -3,27 +3,23 @@
 [View Rawdata](../../db/c/crying_suns.json)  
 Rating: 4.50 (Ranked 531)  
 Number of Ratings: 1,003  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 209  (Ranked 252)  
-Sum: 209 (Ranked 347)  
-Diff (max vs sum): -95  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,810 |
-| Jeef Skeejj | 44.00% | ~201,207 |
-| Careful planning | 39.00% | ~178,342 |
-| Second Coming | 33.00% | ~150,905 |
-| Jeef Skagg | 30.00% | ~137,186 |
+| The Shutdown | 66.00% | ~301,811 |
+| Jeef Skeejj | 44.00% | ~201,208 |
+| Careful planning | 39.00% | ~178,343 |
+| Second Coming | 33.00% | ~150,906 |
+| Jeef Skagg | 30.00% | ~137,187 |
 | Mother | 25.00% | ~114,322 |
-| In space, no one can hear you scream | 23.00% | ~105,176 |
-| Chapter I: Echoes | 22.00% | ~100,603 |
-| Excelsior Rule | 22.00% | ~100,603 |
+| In space, no one can hear you scream | 23.00% | ~105,177 |
+| Chapter I: Echoes | 22.00% | ~100,604 |
+| Excelsior Rule | 22.00% | ~100,604 |
 | Things persisted in not being what they seemed | 20.00% | ~91,458 |
-| Knightmare Frames | 15.00% | ~68,593 |
-| May His passing cleanse the world | 15.00% | ~68,593 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,593 |
-| Pope Zenon | 15.00% | ~68,593 |
+| Knightmare Frames | 15.00% | ~68,594 |
+| May His passing cleanse the world | 15.00% | ~68,594 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,594 |
+| Pope Zenon | 15.00% | ~68,594 |
 | Tetsuo | 11.00% | ~50,302 |
 | Plan for the worst | 11.00% | ~50,302 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,729 |
@@ -76,7 +72,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,288 (Ranked 28)  
+Progressed: 457,290 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,8 +87,11 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,288 | 14 |
+| 2023-05-05 | 457,290 | 14 |
 ## Awards
+Max (Character Customization): 209  (Ranked 252)  
+Sum: 209 (Ranked 347)  
+Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |

@@ -1,9 +1,6 @@
 # Legend Bowl
 [Store](https://store.epicgames.com/en-US/p/legend-bowl-10bc86)  
 [View Rawdata](../../db/l/legend_bowl.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/h/heroes_&_generals_wwii.json)  
 Rating: 4.23 (Ranked 791)  
 Number of Ratings: 4,634  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 989  (Ranked 137)  
 Sum: 6,893 (Ranked 103)  
 Diff (max vs sum): 34  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 989 |

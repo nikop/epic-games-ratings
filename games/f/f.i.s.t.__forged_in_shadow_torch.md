@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/f.i.s.t.__forged_in_shadow_torch.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 572  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 738  (Ranked 150)  
 Sum: 778 (Ranked 248)  
 Diff (max vs sum): -98  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 738 |

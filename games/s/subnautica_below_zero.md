@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/subnautica_below_zero.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 1,844  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 143  (Ranked 286)  
 Sum: 1,078 (Ranked 224)  
 Diff (max vs sum): 62  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 143 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/o/overcooked.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 601  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 112  (Ranked 311)  
 Sum: 112 (Ranked 392)  
 Diff (max vs sum): -81  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 112 |

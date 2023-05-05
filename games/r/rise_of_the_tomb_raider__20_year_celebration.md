@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/rise_of_the_tomb_raider__20_year_celebration.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 28,216  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 11,193  (Ranked 32)  
 Sum: 14,151 (Ranked 63)  
 Diff (max vs sum): -31  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 11,193 |

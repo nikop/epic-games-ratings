@@ -1,9 +1,6 @@
 # Asemblance: Oversight
 [Store](https://store.epicgames.com/en-US/p/asemblance-oversight)  
 [View Rawdata](../../db/a/asemblance__oversight.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

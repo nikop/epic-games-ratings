@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/total_war__warhammer_iii.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 882  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 1,481  (Ranked 113)  
 Sum: 5,322 (Ranked 118)  
 Diff (max vs sum): -5  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,481 |

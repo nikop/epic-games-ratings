@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/solar_ash.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 106  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 24  (Ranked 466)  
 Sum: 24 (Ranked 469)  
 Diff (max vs sum): -3  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 24 |

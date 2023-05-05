@@ -3,14 +3,10 @@
 [View Rawdata](../../db/o/overcooked!_2.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 5,157  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 222  (Ranked 246)  
 Sum: 2,126 (Ranked 178)  
 Diff (max vs sum): 68  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 222 |

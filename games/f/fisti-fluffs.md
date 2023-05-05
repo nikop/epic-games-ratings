@@ -1,9 +1,6 @@
 # Fisti-Fluffs
 [Store](https://store.epicgames.com/en-US/p/fisti-fluffs)  
 [View Rawdata](../../db/f/fisti-fluffs.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

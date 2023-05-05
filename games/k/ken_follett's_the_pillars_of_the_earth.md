@@ -3,28 +3,24 @@
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
 Rating: 4.52 (Ranked 500)  
 Number of Ratings: 368  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Easy Puzzles): 147  (Ranked 285)  
-Sum: 186 (Ranked 353)  
-Diff (max vs sum): -68  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,117 |
-| Man of politics | 36.00% | ~4,386 |
-| Friends of sorts | 35.00% | ~4,264 |
-| Yet another secret | 35.00% | ~4,264 |
+| Tattletale | 42.00% | ~5,118 |
+| Man of politics | 36.00% | ~4,387 |
+| Friends of sorts | 35.00% | ~4,265 |
+| Yet another secret | 35.00% | ~4,265 |
 | Let there be darkness | 34.00% | ~4,143 |
-| End of Book One | 31.00% | ~3,777 |
+| End of Book One | 31.00% | ~3,778 |
 | Wannabe knight | 25.00% | ~3,046 |
 | Garden of Eden | 25.00% | ~3,046 |
 | Full house | 25.00% | ~3,046 |
-| Help an old friend | 22.00% | ~2,680 |
+| Help an old friend | 22.00% | ~2,681 |
 | Two of us | 21.00% | ~2,559 |
 | Negotiation skills | 19.00% | ~2,315 |
 | Workers' union | 19.00% | ~2,315 |
 | End of Book Two | 18.00% | ~2,193 |
-| Everything's in order | 17.00% | ~2,071 |
+| Everything's in order | 17.00% | ~2,072 |
 | Jack was here! | 15.00% | ~1,828 |
 | Twist of Fate | 14.00% | ~1,706 |
 | Exterminator | 14.00% | ~1,706 |
@@ -32,8 +28,8 @@ Diff (max vs sum): -68
 | Good midwife | 11.00% | ~1,340 |
 | Friar Tuck | 11.00% | ~1,340 |
 | First profit | 11.00% | ~1,340 |
-| Skilled merchant | 10.00% | ~1,218 |
-| Team player | 10.00% | ~1,218 |
+| Skilled merchant | 10.00% | ~1,219 |
+| Team player | 10.00% | ~1,219 |
 | Nothing but make-believe | 9.00% | ~1,097 |
 | Brother Marcus | 9.00% | ~1,097 |
 | The oath | 9.00% | ~1,097 |
@@ -52,7 +48,7 @@ Diff (max vs sum): -68
 | A brush with death | 3.00% | ~366 |
 | Boy of mystery | 2.00% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,184 (Ranked 101)  
+Progressed: 12,186 (Ranked 101)  
 Completed: 91 (0.75%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,8 +63,11 @@ Completed: 91 (0.75%) (Ranked 88)
 | 2023-05-02 | 12,153 | 91 |
 | 2023-05-03 | 12,164 | 91 |
 | 2023-05-04 | 12,177 | 91 |
-| 2023-05-05 | 12,184 | 91 |
+| 2023-05-05 | 12,186 | 91 |
 ## Awards
+Max (Easy Puzzles): 147  (Ranked 285)  
+Sum: 186 (Ranked 353)  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 147 |

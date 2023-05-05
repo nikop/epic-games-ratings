@@ -3,14 +3,10 @@
 [View Rawdata](../../db/i/insurmountable.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 711  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 22  (Ranked 473)  
 Sum: 22 (Ranked 474)  
 Diff (max vs sum): -1  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 22 |

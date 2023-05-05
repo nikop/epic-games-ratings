@@ -3,10 +3,6 @@
 [View Rawdata](../../db/o/outward.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 266  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Amazing Characters): 31  (Ranked 440)  
-Sum: 238 (Ranked 341)  
-Diff (max vs sum): 99  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -69,6 +65,9 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-04 | 2,305 | 1 |
 | 2023-05-05 | 2,312 | 1 |
 ## Awards
+Max (Amazing Characters): 31  (Ranked 440)  
+Sum: 238 (Ranked 341)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

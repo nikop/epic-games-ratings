@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/surviving_mars.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 3,483  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 440  (Ranked 189)  
 Sum: 3,030 (Ranked 147)  
 Diff (max vs sum): 42  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 440 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/mechwarrior_5__mercenaries_standard_edition.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 4,280  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 1,078  (Ranked 128)  
 Sum: 7,228 (Ranked 98)  
 Diff (max vs sum): 30  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,078 |

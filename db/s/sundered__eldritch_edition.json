@@ -4,10 +4,10 @@
   "ProductSlug": "sundered-eldritch-edition",
   "Ranking_Rating": 395,
   "Ranking_Popularity": 351,
-  "Ranking_PopularitySum": 409,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 77,
   "Rating": 4.59,
   "NumberOfRatings": 181,
@@ -339,6 +339,6 @@
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
   "LastChanged": "2023-01-23T13:58:21.2043619+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:56.7334349+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:01:56.0887264+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:06:20.6643079+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:01:07.1164457+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:05:29.9366295+00:00"
 }

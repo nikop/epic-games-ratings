@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/remnant__from_the_ashes.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 12,107  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 9,039  (Ranked 35)  
 Sum: 14,138 (Ranked 64)  
 Diff (max vs sum): -29  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 9,039 |

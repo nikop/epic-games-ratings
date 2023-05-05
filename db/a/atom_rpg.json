@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 77,
   "Rating": 4.45,
   "NumberOfRatings": 54,
@@ -326,9 +326,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -456,6 +456,11 @@
       "Time": "2023-05-05T01:59:03.9450768+00:00",
       "NumProgressed": 760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T19:07:05.7672497+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -515,7 +520,7 @@
       "Name": "Double agent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -523,7 +528,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "EXPERT_1",
@@ -539,7 +544,7 @@
       "Name": "Explorer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "GHOSTBUSTER",
@@ -585,9 +590,9 @@
       "ID": "KRAINA_GRZYBOW_1",
       "SetID": "bf13m8j",
       "Name": "Kraina Grzybow",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "LOVE_GURU_1",
@@ -619,7 +624,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -643,7 +648,7 @@
       "Name": "Paranoia",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PRIVATE_EYE",
@@ -754,15 +759,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-04-22T20:58:02.069628+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:08:12.5309171+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:07:05.7672493+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.2550678+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:02:21.6327314+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:08:12.5309462+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:01:27.3974985+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:07:05.7672749+00:00"
 }

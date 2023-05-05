@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_witcher_3__wild_hunt_–_complete_edition.json)  
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 14,665  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 14,949  (Ranked 20)  
 Sum: 36,183 (Ranked 30)  
 Diff (max vs sum): -10  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 14,949 |

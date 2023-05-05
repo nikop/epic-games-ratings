@@ -1,9 +1,6 @@
 # NecroLand: Undead Corps
 [Store](https://store.epicgames.com/en-US/p/necroland-undead-corps)  
 [View Rawdata](../../db/n/necroland__undead_corps.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

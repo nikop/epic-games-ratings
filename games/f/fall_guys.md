@@ -3,50 +3,46 @@
 [View Rawdata](../../db/f/fall_guys.json)  
 Rating: 4.53 (Ranked 489)  
 Number of Ratings: 1,046,587  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 138,018  (Ranked 7)  
-Sum: 1,293,400 (Ranked 5)  
-Diff (max vs sum): 2  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 6.00% | ~1,943,244 |
-| Snowflake | 6.00% | ~1,943,244 |
-| Fall Throttle | 5.00% | ~1,619,370 |
-| Big Bully | 4.00% | ~1,295,496 |
-| Face First | 4.00% | ~1,295,496 |
-| One to Watch | 4.00% | ~1,295,496 |
-| Style Points | 4.00% | ~1,295,496 |
-| Troublemaker | 4.00% | ~1,295,496 |
-| Bargain Bucket | 3.00% | ~971,622 |
-| Flawless Victory | 3.00% | ~971,622 |
-| Fall Bae | 3.00% | ~971,622 |
-| Ahead of the Pack | 3.00% | ~971,622 |
-| Stumble Chums | 3.00% | ~971,622 |
-| Victory! | 3.00% | ~971,622 |
-| Household Name | 2.00% | ~647,748 |
-| Catwalk Model | 1.00% | ~323,874 |
-| Down to the Wire | 1.00% | ~323,874 |
-| Star of the Show | 1.00% | ~323,874 |
-| Head Turner | 1.00% | ~323,874 |
-| One giant leap | 1.00% | ~323,874 |
-| Big Air | 0.90% | ~291,487 |
-| Quite Dashing | 0.90% | ~291,487 |
-| Squad Goals | 0.90% | ~291,487 |
-| Low Baller | 0.60% | ~194,324 |
-| Mad Trendy | 0.60% | ~194,324 |
-| Shopping Spree | 0.60% | ~194,324 |
-| Top Tier | 0.50% | ~161,937 |
-| Veteran Status | 0.30% | ~97,162 |
-| Show Off | 0.30% | ~97,162 |
-| Track Star | 0.20% | ~64,775 |
-| Golden Guy | 0.20% | ~64,775 |
-| Big Tease | 0.10% | ~32,387 |
-| Fall Guy Fashionista | 0.10% | ~32,387 |
-| Infallible | 0.10% | ~32,387 |
+| One small trip | 6.00% | ~1,943,307 |
+| Snowflake | 6.00% | ~1,943,307 |
+| Fall Throttle | 5.00% | ~1,619,423 |
+| Big Bully | 4.00% | ~1,295,538 |
+| Face First | 4.00% | ~1,295,538 |
+| One to Watch | 4.00% | ~1,295,538 |
+| Style Points | 4.00% | ~1,295,538 |
+| Troublemaker | 4.00% | ~1,295,538 |
+| Bargain Bucket | 3.00% | ~971,654 |
+| Flawless Victory | 3.00% | ~971,654 |
+| Fall Bae | 3.00% | ~971,654 |
+| Ahead of the Pack | 3.00% | ~971,654 |
+| Stumble Chums | 3.00% | ~971,654 |
+| Victory! | 3.00% | ~971,654 |
+| Household Name | 2.00% | ~647,769 |
+| Catwalk Model | 1.00% | ~323,885 |
+| Down to the Wire | 1.00% | ~323,885 |
+| Star of the Show | 1.00% | ~323,885 |
+| Head Turner | 1.00% | ~323,885 |
+| One giant leap | 1.00% | ~323,885 |
+| Big Air | 0.90% | ~291,496 |
+| Quite Dashing | 0.90% | ~291,496 |
+| Squad Goals | 0.90% | ~291,496 |
+| Low Baller | 0.60% | ~194,331 |
+| Mad Trendy | 0.60% | ~194,331 |
+| Shopping Spree | 0.60% | ~194,331 |
+| Top Tier | 0.50% | ~161,942 |
+| Veteran Status | 0.30% | ~97,165 |
+| Show Off | 0.30% | ~97,165 |
+| Track Star | 0.20% | ~64,777 |
+| Golden Guy | 0.20% | ~64,777 |
+| Big Tease | 0.10% | ~32,388 |
+| Fall Guy Fashionista | 0.10% | ~32,388 |
+| Infallible | 0.10% | ~32,388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,387,397 (Ranked 1)  
-Completed: 28,904 (0.09%) (Ranked 155)  
+Progressed: 32,388,457 (Ranked 1)  
+Completed: 28,906 (0.09%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,8 +56,11 @@ Completed: 28,904 (0.09%) (Ranked 155)
 | 2023-05-02 | 32,342,752 | 28,842 |
 | 2023-05-03 | 32,358,290 | 28,864 |
 | 2023-05-04 | 32,373,751 | 28,890 |
-| 2023-05-05 | 32,387,397 | 28,904 |
+| 2023-05-05 | 32,388,457 | 28,906 |
 ## Awards
+Max (Great for Beginners): 138,018  (Ranked 7)  
+Sum: 1,293,428 (Ranked 5)  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 138,018 |
@@ -69,7 +68,7 @@ Completed: 28,904 (0.09%) (Ranked 155)
 | This game has Competitive Players | 126,822 |
 | This game has Quickly Understood Controls | 126,806 |
 | This game is Great for Quick Sessions | 121,778 |
-| This game has Diverse Characters | 119,302 |
+| This game has Diverse Characters | 119,330 |
 | This game is Extremely Fun | 116,096 |
 | This game is Highly Recommended | 109,270 |
 | This game has Amazing Characters | 106,591 |
@@ -178,4 +177,4 @@ Completed: 28,904 (0.09%) (Ranked 155)
 | 2023-05-02 | 4.53 | - | 137,932 | 1,292,946 |
 | 2023-05-03 | 4.53 | - | 137,970 | 1,293,149 |
 | 2023-05-04 | 4.53 | - | 137,999 | 1,293,304 |
-| 2023-05-05 | 4.53 | - | 138,018 | 1,293,400 |
+| 2023-05-05 | 4.53 | - | 138,018 | 1,293,428 |

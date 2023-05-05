@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/medieval_dynasty.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 722  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Storytelling): 48  (Ranked 391)  
 Sum: 385 (Ranked 304)  
 Diff (max vs sum): 87  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 48 |

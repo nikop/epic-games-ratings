@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/watch_dogs__legion_standard_edition.json)  
 Rating: 4.36 (Ranked 702)  
 Number of Ratings: 1,361  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Characters): 82  (Ranked 344)  
 Sum: 600 (Ranked 275)  
 Diff (max vs sum): 69  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 82 |

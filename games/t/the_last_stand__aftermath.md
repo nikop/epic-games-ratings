@@ -3,9 +3,6 @@
 [View Rawdata](../../db/t/the_last_stand__aftermath.json)  
 Rating: 4.43 (Ranked 635)  
 Number of Ratings: 44  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

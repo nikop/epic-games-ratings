@@ -1,9 +1,6 @@
 # The Town of Light
 [Store](https://store.epicgames.com/en-US/p/the-town-of-light)  
 [View Rawdata](../../db/t/the_town_of_light.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

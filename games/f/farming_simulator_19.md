@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/farming_simulator_19.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 16,706  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 6,228  (Ranked 51)  
 Sum: 47,116 (Ranked 24)  
 Diff (max vs sum): 27  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,228 |

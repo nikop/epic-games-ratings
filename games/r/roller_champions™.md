@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/roller_champions™.json)  
 Rating: 4.34 (Ranked 721)  
 Number of Ratings: 5,693  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 237  (Ranked 240)  
 Sum: 1,805 (Ranked 194)  
 Diff (max vs sum): 46  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 237 |

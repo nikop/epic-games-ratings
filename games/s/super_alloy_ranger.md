@@ -12,11 +12,11 @@
 | Hydrophobia | 21.00% | ~4 |
 | Stop Right There | 21.00% | ~4 |
 | Get to the Point | 21.00% | ~4 |
+| The Hidden Secret | 11.00% | ~2 |
 | Ka-Ching! | 11.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~1 |
 | Grand Escape | 5.00% | ~1 |
 | Space Warrior: Prologue | 5.00% | ~1 |
-| The Hidden Secret | 5.00% | ~1 |
 | Mr. Want It All | 5.00% | ~1 |
 | Antaeus | 5.00% | ~1 |
 | Air Interception | 5.00% | ~1 |

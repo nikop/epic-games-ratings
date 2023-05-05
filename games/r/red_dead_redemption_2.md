@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/red_dead_redemption_2.json)  
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 102,658  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Impact the Story): 138,448  (Ranked 6)  
 Sum: 352,591 (Ranked 8)  
 Diff (max vs sum): -2  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 138,448 |

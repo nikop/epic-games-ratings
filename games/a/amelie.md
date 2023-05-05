@@ -1,9 +1,6 @@
 # Amelie
 [Store](https://store.epicgames.com/en-US/p/amelie-45eab1)  
 [View Rawdata](../../db/a/amelie.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

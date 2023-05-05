@@ -1,9 +1,6 @@
 # Beku
 [Store](https://store.epicgames.com/en-US/p/beku-6423fb)  
 [View Rawdata](../../db/b/beku.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

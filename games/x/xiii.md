@@ -1,9 +1,6 @@
 # XIII
 [Store](https://store.epicgames.com/en-US/p/xiii-07f8c3)  
 [View Rawdata](../../db/x/xiii.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

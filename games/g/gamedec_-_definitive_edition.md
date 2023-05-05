@@ -3,30 +3,26 @@
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
 Rating: 4.33 (Ranked 732)  
 Number of Ratings: 33  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 71  (Ranked 359)  
-Sum: 71 (Ranked 415)  
-Diff (max vs sum): -56  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,485 |
-| Powergamer | 26.00% | ~58,022 |
-| Barely scratched the surface | 25.00% | ~55,790 |
-| Write that down | 24.00% | ~53,558 |
-| Guns, lots of guns | 12.00% | ~26,779 |
-| Collector | 11.00% | ~24,548 |
-| Elementary! | 8.00% | ~17,853 |
-| Pumpkin Jack | 8.00% | ~17,853 |
-| Wake up! | 8.00% | ~17,853 |
-| It's honest work | 7.00% | ~15,621 |
-| Griever | 7.00% | ~15,621 |
+| I will finish what you started | 28.00% | ~62,489 |
+| Powergamer | 26.00% | ~58,025 |
+| Barely scratched the surface | 25.00% | ~55,794 |
+| Write that down | 24.00% | ~53,562 |
+| Guns, lots of guns | 12.00% | ~26,781 |
+| Collector | 11.00% | ~24,549 |
+| Elementary! | 8.00% | ~17,854 |
+| Pumpkin Jack | 8.00% | ~17,854 |
+| Wake up! | 8.00% | ~17,854 |
+| It's honest work | 7.00% | ~15,622 |
+| Griever | 7.00% | ~15,622 |
 | Me smart | 6.00% | ~13,390 |
-| Good listener | 5.00% | ~11,158 |
-| Trash compactor | 5.00% | ~11,158 |
-| Valedictorian | 5.00% | ~11,158 |
-| BOY! | 4.00% | ~8,926 |
-| Ka-ching! | 4.00% | ~8,926 |
+| Good listener | 5.00% | ~11,159 |
+| Trash compactor | 5.00% | ~11,159 |
+| Valedictorian | 5.00% | ~11,159 |
+| BOY! | 4.00% | ~8,927 |
+| Ka-ching! | 4.00% | ~8,927 |
 | I like to sniff around | 3.00% | ~6,695 |
 | Mind reader | 3.00% | ~6,695 |
 | So you like to read? | 3.00% | ~6,695 |
@@ -45,8 +41,8 @@ Diff (max vs sum): -56
 | Random encounter | 1.00% | ~2,232 |
 | SysOp on duty | 1.00% | ~2,232 |
 | Take the blue pill | 1.00% | ~2,232 |
-| A true blacksmith | 0.90% | ~2,008 |
-| The power of three | 0.90% | ~2,008 |
+| A true blacksmith | 0.90% | ~2,009 |
+| The power of three | 0.90% | ~2,009 |
 | Let's try another | 0.80% | ~1,785 |
 | Home run | 0.80% | ~1,785 |
 | It's blue, always blue | 0.70% | ~1,562 |
@@ -54,16 +50,16 @@ Diff (max vs sum): -56
 | Who wouldn't love a troll? | 0.50% | ~1,116 |
 | Enjoy these little moments | 0.40% | ~893 |
 | Un-bear-able | 0.40% | ~893 |
-| Irondec | 0.30% | ~669 |
-| LET ME OUT! | 0.30% | ~669 |
-| Well-deserved reunion | 0.30% | ~669 |
+| Irondec | 0.30% | ~670 |
+| LET ME OUT! | 0.30% | ~670 |
+| Well-deserved reunion | 0.30% | ~670 |
 | Breaking the chains | 0.20% | ~446 |
 | Aren't you overthinking? | 0.20% | ~446 |
 | Take the red pill | 0.20% | ~446 |
 | This is the way | 0.20% | ~446 |
 | Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,160 (Ranked 42)  
+Progressed: 223,174 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,8 +74,11 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
 | 2023-05-04 | 222,974 | 5 |
-| 2023-05-05 | 223,160 | 5 |
+| 2023-05-05 | 223,174 | 5 |
 ## Awards
+Max (Character Customization): 71  (Ranked 359)  
+Sum: 71 (Ranked 415)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 71 |

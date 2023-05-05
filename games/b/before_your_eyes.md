@@ -1,9 +1,6 @@
 # Before Your Eyes
 [Store](https://store.epicgames.com/en-US/p/before-your-eyes)  
 [View Rawdata](../../db/b/before_your_eyes.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

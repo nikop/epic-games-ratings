@@ -3,10 +3,6 @@
 [View Rawdata](../../db/c/chorus.json)  
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 58  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 32  (Ranked 434)  
-Sum: 32 (Ranked 453)  
-Diff (max vs sum): -19  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -69,6 +65,9 @@ Completed: 11 (1.30%) (Ranked 70)
 | 2023-05-03 | 845 | 11 |
 | 2023-05-05 | 846 | 11 |
 ## Awards
+Max (Great Boss Battles): 32  (Ranked 434)  
+Sum: 32 (Ranked 453)  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 32 |

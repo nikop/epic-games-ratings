@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/among_us.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 26,171  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 2,390  (Ranked 92)  
 Sum: 21,904 (Ranked 50)  
 Diff (max vs sum): 42  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 2,390 |

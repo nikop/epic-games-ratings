@@ -1,9 +1,6 @@
 # Skate City
 [Store](https://store.epicgames.com/en-US/p/skate-city)  
 [View Rawdata](../../db/s/skate_city.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

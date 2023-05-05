@@ -1,9 +1,6 @@
 # Bibots
 [Store](https://store.epicgames.com/en-US/p/bibots-aad4d0)  
 [View Rawdata](../../db/b/bibots.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

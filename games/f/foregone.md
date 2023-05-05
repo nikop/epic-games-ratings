@@ -1,9 +1,6 @@
 # Foregone
 [Store](https://store.epicgames.com/en-US/p/foregone)  
 [View Rawdata](../../db/f/foregone.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

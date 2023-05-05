@@ -1,9 +1,6 @@
 # Wife Quest
 [Store](https://store.epicgames.com/en-US/p/wife-quest-ed5224)  
 [View Rawdata](../../db/w/wife_quest.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

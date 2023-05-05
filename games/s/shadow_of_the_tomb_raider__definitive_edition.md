@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/shadow_of_the_tomb_raider__definitive_edition.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 77,497  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 28,428  (Ranked 15)  
 Sum: 37,308 (Ranked 29)  
 Diff (max vs sum): -14  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 28,428 |

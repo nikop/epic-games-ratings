@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/railway_empire.json)  
 Rating: 4.52 (Ranked 500)  
 Number of Ratings: 2,155  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 273  (Ranked 229)  
 Sum: 1,896 (Ranked 188)  
 Diff (max vs sum): 41  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 273 |

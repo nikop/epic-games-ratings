@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/warface.json)  
 Rating: 3.92 (Ranked 893)  
 Number of Ratings: 3,179  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 387  (Ranked 202)  
 Sum: 2,716 (Ranked 160)  
 Diff (max vs sum): 42  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 387 |

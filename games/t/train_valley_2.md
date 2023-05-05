@@ -3,10 +3,6 @@
 [View Rawdata](../../db/t/train_valley_2.json)  
 Rating: 4.15 (Ranked 838)  
 Number of Ratings: 87  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Challenging Puzzles): 71  (Ranked 359)  
-Sum: 71 (Ranked 415)  
-Diff (max vs sum): -56  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -94,6 +90,9 @@ Completed: 1 (0.14%) (Ranked 142)
 | 2023-04-25 | 696 | 1 |
 | 2023-05-01 | 697 | 1 |
 ## Awards
+Max (Challenging Puzzles): 71  (Ranked 359)  
+Sum: 71 (Ranked 415)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 71 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 10,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3518,7 +3518,7 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86551,
+  "EOS_Progressed": 86554,
   "EOS_Completed": 1806,
   "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 21,
@@ -4702,6 +4702,11 @@
     {
       "Time": "2023-05-05T18:08:08.4207214+00:00",
       "NumProgressed": 86551,
+      "NumCompleted": 1806
+    },
+    {
+      "Time": "2023-05-05T19:07:02.7706879+00:00",
+      "NumProgressed": 86554,
       "NumCompleted": 1806
     }
   ],
@@ -7072,9 +7077,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_571",
@@ -8625,21 +8630,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52825,
+      "Progressed": 52828,
       "Completed": 2466
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86551,
+      "Progressed": 86554,
       "Completed": 1806
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-05T03:58:03.2515102+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:08:08.4207205+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:07:02.7706874+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:59:39.613954+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:08:08.4234834+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:59:18.5995466+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:07:02.7732859+00:00"
 }

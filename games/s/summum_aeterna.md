@@ -1,9 +1,6 @@
 # Summum Aeterna
 [Store](https://store.epicgames.com/en-US/p/summum-aeterna-6e9374)  
 [View Rawdata](../../db/s/summum_aeterna.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

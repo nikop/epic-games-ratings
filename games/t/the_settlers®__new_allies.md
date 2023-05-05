@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/the-settlers)  
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
 Rating: 3.75 (Ranked 910)  
-## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 47  (Ranked 394)  
-Sum: 91 (Ranked 400)  
-Diff (max vs sum): -6  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Quickly Understood Controls): 47  (Ranked 394)  
+Sum: 91 (Ranked 401)  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 47 |

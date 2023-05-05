@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/century__age_of_ashes.json)  
 Rating: 4.42 (Ranked 642)  
 Number of Ratings: 1,747  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Competitive Players): 60  (Ranked 377)  
 Sum: 580 (Ranked 281)  
 Diff (max vs sum): 96  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 60 |

@@ -1,9 +1,6 @@
 # Bright Paw - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/bright-paw-definitive-edition-cbe813)  
 [View Rawdata](../../db/b/bright_paw_-_definitive_edition.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

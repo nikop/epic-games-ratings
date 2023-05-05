@@ -1,9 +1,6 @@
 # REPLIKATOR
 [Store](https://store.epicgames.com/en-US/p/replikator-6adddc)  
 [View Rawdata](../../db/r/replikator.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

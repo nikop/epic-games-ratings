@@ -3,23 +3,19 @@
 [View Rawdata](../../db/t/the_surge.json)  
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 62  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 26  (Ranked 460)  
-Sum: 26 (Ranked 464)  
-Diff (max vs sum): -4  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~3,953 |
-| I'll Be Back | 84.00% | ~3,532 |
-| Sorry, I Dropped This | 77.00% | ~3,238 |
-| First Day on the Job | 76.00% | ~3,196 |
+| On My Own Two Feet | 94.00% | ~3,954 |
+| I'll Be Back | 84.00% | ~3,533 |
+| Sorry, I Dropped This | 77.00% | ~3,239 |
+| First Day on the Job | 76.00% | ~3,197 |
 | Butcher's Bill | 55.00% | ~2,313 |
 | P.A.X | 37.00% | ~1,556 |
 | Hey Listen | 36.00% | ~1,514 |
 | OPERATOR | 35.00% | ~1,472 |
 | It's Blue Light | 33.00% | ~1,388 |
-| Most Wanted | 26.00% | ~1,093 |
+| Most Wanted | 26.00% | ~1,094 |
 | Infidel | 23.00% | ~967 |
 | GOLIATH | 21.00% | ~883 |
 | Firebug | 20.00% | ~841 |
@@ -33,10 +29,10 @@ Diff (max vs sum): -4
 | Core Power | 12.00% | ~505 |
 | CREO Killed the Video Star | 11.00% | ~463 |
 | Who's in Charge Here? | 11.00% | ~463 |
-| Shall Not Pass | 10.00% | ~420 |
-| Right Tool for the Job | 10.00% | ~420 |
-| Raging Drones | 9.00% | ~378 |
-| Overconfident | 9.00% | ~378 |
+| Shall Not Pass | 10.00% | ~421 |
+| Right Tool for the Job | 10.00% | ~421 |
+| Raging Drones | 9.00% | ~379 |
+| Overconfident | 9.00% | ~379 |
 | Pusher Man | 8.00% | ~336 |
 | Melting Down | 8.00% | ~336 |
 | Squad Chief Helvig | 8.00% | ~336 |
@@ -78,7 +74,7 @@ Diff (max vs sum): -4
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,205 (Ranked 124)  
+Progressed: 4,206 (Ranked 124)  
 Completed: 13 (0.31%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +86,11 @@ Completed: 13 (0.31%) (Ranked 116)
 | 2023-04-30 | 4,202 | 13 |
 | 2023-05-01 | 4,204 | 13 |
 | 2023-05-04 | 4,205 | 13 |
+| 2023-05-05 | 4,206 | 13 |
 ## Awards
+Max (Great Boss Battles): 26  (Ranked 460)  
+Sum: 26 (Ranked 464)  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 26 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/shenmue_iii_-_standard_edition.json)  
 Rating: 4.19 (Ranked 814)  
 Number of Ratings: 172  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 26  (Ranked 460)  
 Sum: 26 (Ranked 464)  
 Diff (max vs sum): -4  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 26 |

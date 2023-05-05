@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/shadowrun_returns.json)  
 Rating: 4.43 (Ranked 635)  
 Number of Ratings: 324  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  
 Diff (max vs sum): -55  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 66 |

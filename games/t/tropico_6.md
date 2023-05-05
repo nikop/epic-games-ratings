@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/tropico_6.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 398  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 104  (Ranked 314)  
-Sum: 748 (Ranked 253)  
-Diff (max vs sum): 61  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,081 |
+| Just One...More...Term... | 78.00% | ~2,082 |
 | Un-Lonely Island | 50.00% | ~1,334 |
 | The Beginning of a Servantship | 47.00% | ~1,254 |
 | Trade Is My Trait | 38.00% | ~1,014 |
@@ -22,13 +18,13 @@ Diff (max vs sum): 61
 | The Dreamer of Dreams | 17.00% | ~454 |
 | Go Sovereigns! | 12.00% | ~320 |
 | For Science! | 12.00% | ~320 |
-| Happy Ending? | 11.00% | ~293 |
-| Of Seals And Men | 11.00% | ~293 |
+| Happy Ending? | 11.00% | ~294 |
+| Of Seals And Men | 11.00% | ~294 |
 | Shackadelic | 10.00% | ~267 |
 | Double Trouble | 9.00% | ~240 |
 | Firestarter | 9.00% | ~240 |
 | Make Tropico Great Again! | 9.00% | ~240 |
-| French Connection | 8.00% | ~213 |
+| French Connection | 8.00% | ~214 |
 | Don't Panic! | 7.00% | ~187 |
 | I Owe You Nothing | 7.00% | ~187 |
 | Computer Says "No" | 6.00% | ~160 |
@@ -51,7 +47,7 @@ Diff (max vs sum): 61
 | Survivor | 1.00% | ~27 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,668 (Ranked 132)  
+Progressed: 2,669 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,8 +62,11 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-02 | 2,623 | 1 |
 | 2023-05-03 | 2,641 | 1 |
 | 2023-05-04 | 2,654 | 1 |
-| 2023-05-05 | 2,668 | 1 |
+| 2023-05-05 | 2,669 | 1 |
 ## Awards
+Max (Great for Beginners): 104  (Ranked 314)  
+Sum: 748 (Ranked 253)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 104 |

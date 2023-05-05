@@ -3,17 +3,13 @@
 [View Rawdata](../../db/m/marvel's_spider-man_remastered.json)  
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 14,015  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 11,336  (Ranked 31)  
-Sum: 19,042 (Ranked 53)  
-Diff (max vs sum): -22  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Great Boss Battles): 11,338  (Ranked 31)  
+Sum: 19,044 (Ranked 53)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 11,336 |
+| This game has Great Boss Battles | 11,338 |
 | This game has Quickly Understood Controls | 930 |
 | This game is Extremely Fun | 907 |
 | This game is Highly Recommended | 895 |
@@ -112,4 +108,4 @@ Diff (max vs sum): -22
 | 2023-05-02 | 4.87 | - | 11,333 | 19,035 |
 | 2023-05-03 | 4.87 | - | 11,333 | 19,036 |
 | 2023-05-04 | 4.87 | - | 11,336 | 19,040 |
-| 2023-05-05 | 4.87 | - | 11,336 | 19,042 |
+| 2023-05-05 | 4.87 | - | 11,338 | 19,044 |

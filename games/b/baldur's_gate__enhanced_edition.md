@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/baldur's_gate__enhanced_edition.json)  
 Rating: 4.83 (Ranked 55)  
 Number of Ratings: 66  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 50  (Ranked 385)  
 Sum: 50 (Ranked 431)  
 Diff (max vs sum): -46  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 50 |

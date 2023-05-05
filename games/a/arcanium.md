@@ -1,9 +1,6 @@
 # Arcanium
 [Store](https://store.epicgames.com/en-US/p/arcanium-ab22e4)  
 [View Rawdata](../../db/a/arcanium.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

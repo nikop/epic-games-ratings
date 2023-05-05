@@ -1,9 +1,6 @@
 # Deepest Chamber: Resurrection
 [Store](https://store.epicgames.com/en-US/p/deepest-chamber-f7085f)  
 [View Rawdata](../../db/d/deepest_chamber__resurrection.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

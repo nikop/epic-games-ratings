@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/saints_row®__the_third™__remastered.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 6,169  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 2,161  (Ranked 100)  
 Sum: 3,004 (Ranked 150)  
 Diff (max vs sum): -50  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,161 |

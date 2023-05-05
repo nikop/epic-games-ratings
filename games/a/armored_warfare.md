@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/armored_warfare.json)  
 Rating: 4.12 (Ranked 849)  
 Number of Ratings: 458  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 73  (Ranked 353)  
 Sum: 573 (Ranked 283)  
 Diff (max vs sum): 70  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 73 |

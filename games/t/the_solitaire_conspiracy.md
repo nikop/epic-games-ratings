@@ -1,9 +1,6 @@
 # The Solitaire Conspiracy
 [Store](https://store.epicgames.com/en-US/p/the-solitaire-conspiracy)  
 [View Rawdata](../../db/t/the_solitaire_conspiracy.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

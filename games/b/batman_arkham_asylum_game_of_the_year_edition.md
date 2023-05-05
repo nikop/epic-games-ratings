@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/batman_arkham_asylum_game_of_the_year_edition.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 2,164  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 643  (Ranked 161)  
 Sum: 643 (Ranked 269)  
 Diff (max vs sum): -108  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 643 |

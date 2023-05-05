@@ -3,9 +3,6 @@
 [View Rawdata](../../db/f/fishing_-_north_atlantic.json)  
 Rating: 4.36 (Ranked 702)  
 Number of Ratings: 33  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

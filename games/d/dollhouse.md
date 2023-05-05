@@ -1,9 +1,6 @@
 # Dollhouse
 [Store](https://store.epicgames.com/en-US/p/dollhouse-de0de7)  
 [View Rawdata](../../db/d/dollhouse.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

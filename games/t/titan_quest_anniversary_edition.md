@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/titan_quest_anniversary_edition.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 98  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 85  (Ranked 339)  
 Sum: 141 (Ranked 378)  
 Diff (max vs sum): -39  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 85 |

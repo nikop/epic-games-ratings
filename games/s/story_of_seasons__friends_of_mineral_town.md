@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/story_of_seasons__friends_of_mineral_town.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 59  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

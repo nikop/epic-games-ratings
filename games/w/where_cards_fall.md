@@ -1,9 +1,6 @@
 # Where Cards Fall
 [Store](https://store.epicgames.com/en-US/p/where-cards-fall)  
 [View Rawdata](../../db/w/where_cards_fall.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

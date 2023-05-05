@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/skyrim)  
 [View Rawdata](../../db/t/the_elder_scrolls_v__skyrim_special_edition.json)  
 Rating: 4.86 (Ranked 28)  
-## Popularity (Based on Awards)
-Max (Character Customization): 1,210  (Ranked 122)  
-Sum: 2,738 (Ranked 158)  
-Diff (max vs sum): -36  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Character Customization): 1,210  (Ranked 122)  
+Sum: 2,739 (Ranked 158)  
+Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,210 |
@@ -19,7 +15,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 169 |
 | This game has Quickly Understood Controls | 167 |
 | This game is Extremely Fun | 164 |
-| This game has Amazing Characters | 160 |
+| This game has Amazing Characters | 161 |
 | This game is Relaxing | 156 |
 | This game has a Creative Community | 129 |
 ## Ratings History
@@ -94,3 +90,4 @@ Diff (max vs sum): -36
 | 2023-05-01 | 4.86 | 1,206 | 2,728 |
 | 2023-05-03 | 4.86 | 1,206 | 2,732 |
 | 2023-05-04 | 4.86 | 1,210 | 2,738 |
+| 2023-05-05 | 4.86 | 1,210 | 2,739 |

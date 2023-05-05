@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/south_park™__the_stick_of_truth™.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 115  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 35  (Ranked 427)  
 Sum: 35 (Ranked 450)  
 Diff (max vs sum): -23  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 35 |

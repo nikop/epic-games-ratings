@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_long_dark.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 4,814  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Highly Recommended): 748  (Ranked 149)  
 Sum: 4,513 (Ranked 128)  
 Diff (max vs sum): 21  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 748 |

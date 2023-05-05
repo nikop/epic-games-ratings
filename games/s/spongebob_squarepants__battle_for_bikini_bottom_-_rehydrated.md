@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 76  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 30  (Ranked 443)  
 Sum: 30 (Ranked 457)  
 Diff (max vs sum): -14  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 30 |

@@ -1,9 +1,6 @@
 # Togges
 [Store](https://store.epicgames.com/en-US/p/togges-17f696)  
 [View Rawdata](../../db/t/togges.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

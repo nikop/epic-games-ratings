@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/total_war__warhammer_ii.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 1,169  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 4,245  (Ranked 69)  
 Sum: 13,237 (Ranked 67)  
 Diff (max vs sum): 2  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,245 |

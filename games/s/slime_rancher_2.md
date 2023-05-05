@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/slime_rancher_2.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 36  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Storytelling): 101  (Ranked 320)  
 Sum: 809 (Ranked 246)  
 Diff (max vs sum): 74  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 101 |

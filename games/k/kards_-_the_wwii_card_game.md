@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/kards_-_the_wwii_card_game.json)  
 Rating: 4.39 (Ranked 680)  
 Number of Ratings: 1,466  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Quick Sessions): 542  (Ranked 175)  
 Sum: 3,626 (Ranked 137)  
 Diff (max vs sum): 38  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 542 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/godfall.json)  
 Rating: 4.07 (Ranked 863)  
 Number of Ratings: 818  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 504  (Ranked 181)  
 Sum: 812 (Ranked 245)  
 Diff (max vs sum): -64  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 504 |

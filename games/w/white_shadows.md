@@ -1,9 +1,6 @@
 # White Shadows
 [Store](https://store.epicgames.com/en-US/p/white-shadows-64e014)  
 [View Rawdata](../../db/w/white_shadows.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

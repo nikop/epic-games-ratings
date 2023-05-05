@@ -1,9 +1,6 @@
 # Horror Story: Hallowseed
 [Store](https://store.epicgames.com/en-US/p/horror-story-hallowseed)  
 [View Rawdata](../../db/h/horror_story__hallowseed.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

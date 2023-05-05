@@ -1,9 +1,6 @@
 # The Fabled Woods
 [Store](https://store.epicgames.com/en-US/p/the-fabled-woods)  
 [View Rawdata](../../db/t/the_fabled_woods.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

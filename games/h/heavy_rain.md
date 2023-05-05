@@ -3,14 +3,10 @@
 [View Rawdata](../../db/h/heavy_rain.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 251  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Impact the Story): 57  (Ranked 382)  
 Sum: 57 (Ranked 429)  
 Diff (max vs sum): -47  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 57 |

@@ -3,9 +3,6 @@
 [View Rawdata](../../db/m/martha_is_dead.json)  
 Rating: 4.03 (Ranked 874)  
 Number of Ratings: 39  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

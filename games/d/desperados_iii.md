@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/desperados_iii.json)  
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 351  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Storytelling): 46  (Ranked 396)  
 Sum: 280 (Ranked 327)  
 Diff (max vs sum): 69  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 46 |

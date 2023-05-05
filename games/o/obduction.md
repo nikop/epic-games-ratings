@@ -3,14 +3,10 @@
 [View Rawdata](../../db/o/obduction.json)  
 Rating: 4.10 (Ranked 853)  
 Number of Ratings: 231  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Challenging Puzzles): 52  (Ranked 383)  
 Sum: 52 (Ranked 430)  
 Diff (max vs sum): -47  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 52 |

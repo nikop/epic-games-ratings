@@ -1,9 +1,6 @@
 # Festival Tycoon
 [Store](https://store.epicgames.com/en-US/p/festival-tycoon)  
 [View Rawdata](../../db/f/festival_tycoon.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

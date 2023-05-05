@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 547  (Ranked 173)  
-Sum: 4,646 (Ranked 125)  
-Diff (max vs sum): 48  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,469 |
+| Genin | 10.00% | ~16,471 |
 | Thorough | 8.00% | ~13,176 |
 | A thief's beginning | 7.00% | ~11,529 |
 | Tanuki Time | 7.00% | ~11,529 |
@@ -45,7 +41,7 @@ Diff (max vs sum): 48
 | Undeserved Honor | 0.80% | ~1,318 |
 | When Cut Across the Neck | 0.70% | ~1,153 |
 | High Five the Moon | 0.60% | ~988 |
-| The Cave | 0.50% | ~823 |
+| The Cave | 0.50% | ~824 |
 | Merciful | 0.40% | ~659 |
 | Time Paradox | 0.40% | ~659 |
 | Five Shadows | 0.20% | ~329 |
@@ -55,7 +51,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,694 (Ranked 50)  
+Progressed: 164,706 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,8 +66,11 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,694 | 41 |
+| 2023-05-05 | 164,706 | 41 |
 ## Awards
+Max (Great for Beginners): 547  (Ranked 173)  
+Sum: 4,646 (Ranked 125)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 547 |

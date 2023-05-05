@@ -1,9 +1,6 @@
 # The Walking Dead: Michonne - A Telltale Miniseries
 [Store](https://store.epicgames.com/en-US/p/walking-dead-michonne)  
 [View Rawdata](../../db/t/the_walking_dead__michonne_-_a_telltale_miniseries.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

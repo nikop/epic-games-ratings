@@ -1,9 +1,6 @@
 # Kraken Academy!!
 [Store](https://store.epicgames.com/en-US/p/kraken-academy)  
 [View Rawdata](../../db/k/kraken_academy!!.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

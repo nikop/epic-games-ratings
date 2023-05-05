@@ -1,9 +1,6 @@
 # Bloodroots
 [Store](https://store.epicgames.com/en-US/p/bloodroots)  
 [View Rawdata](../../db/b/bloodroots.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

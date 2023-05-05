@@ -1,9 +1,6 @@
 # Silt
 [Store](https://store.epicgames.com/en-US/p/silt-6ca919)  
 [View Rawdata](../../db/s/silt.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

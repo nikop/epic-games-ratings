@@ -3,9 +3,6 @@
 [View Rawdata](../../db/f/fights_in_tight_spaces.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 38  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

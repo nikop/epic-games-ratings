@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.52,
   "NumberOfRatings": 368,
   "RatingHistory": [
@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12184,
+  "EOS_Progressed": 12186,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1142,6 +1142,11 @@
       "Time": "2023-05-05T11:05:07.9716579+00:00",
       "NumProgressed": 12184,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-05T19:06:16.3431852+00:00",
+      "NumProgressed": 12186,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 41,
@@ -1193,7 +1198,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "tpote_achievement_15",
@@ -1217,7 +1222,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "tpote_achievement_18",
@@ -1241,7 +1246,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "tpote_achievement_20",
@@ -1257,7 +1262,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "tpote_achievement_22",
@@ -1321,7 +1326,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "tpote_achievement_3",
@@ -1337,7 +1342,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "tpote_achievement_31",
@@ -1417,7 +1422,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5117
+      "UsersEstimate": 5118
     },
     {
       "ID": "tpote_achievement_40",
@@ -1465,7 +1470,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "tpote_achievement_9",
@@ -1473,22 +1478,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12184,
+      "Progressed": 12186,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:07:16.2937604+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:06:16.3431845+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:02:05.2092408+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:07:16.2937959+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:01:14.386634+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:06:16.3432219+00:00"
 }

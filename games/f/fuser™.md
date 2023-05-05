@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/fuser™.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 86  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Educational): 35  (Ranked 427)  
 Sum: 342 (Ranked 313)  
 Diff (max vs sum): 114  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

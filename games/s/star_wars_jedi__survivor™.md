@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
 Rating: 4.38 (Ranked 687)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 157  (Ranked 280)  
 Sum: 157 (Ranked 374)  
 Diff (max vs sum): -94  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 157 |

@@ -3,10 +3,6 @@
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 743  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 770  (Ranked 146)  
-Sum: 2,351 (Ranked 171)  
-Diff (max vs sum): -25  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -94,6 +90,9 @@ Completed: 24 (0.06%) (Ranked 161)
 | 2023-05-04 | 42,203 | 24 |
 | 2023-05-05 | 42,204 | 24 |
 ## Awards
+Max (Great Boss Battles): 770  (Ranked 146)  
+Sum: 2,351 (Ranked 171)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 770 |

@@ -3,13 +3,6 @@
 [View Rawdata](../../db/v/vampire__the_masquerade_–_swansong.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 736  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Impact the Story): 77  (Ranked 347)  
-Sum: 77 (Ranked 406)  
-Diff (max vs sum): -59  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 191)  
@@ -18,6 +11,9 @@ Completed: 0 (0.00%) (Ranked 191)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12 | 0 |
 ## Awards
+Max (Impact the Story): 77  (Ranked 347)  
+Sum: 77 (Ranked 407)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 77 |

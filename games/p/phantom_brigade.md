@@ -3,14 +3,10 @@
 [View Rawdata](../../db/p/phantom_brigade.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 239  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 102  (Ranked 319)  
 Sum: 102 (Ranked 395)  
 Diff (max vs sum): -76  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 102 |

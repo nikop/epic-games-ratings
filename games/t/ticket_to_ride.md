@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/ticket_to_ride.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 167  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Quick Sessions): 63  (Ranked 372)  
 Sum: 351 (Ranked 311)  
 Diff (max vs sum): 61  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 63 |

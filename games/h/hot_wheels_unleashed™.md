@@ -3,14 +3,10 @@
 [View Rawdata](../../db/h/hot_wheels_unleashed™.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 312  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 36  (Ranked 421)  
 Sum: 340 (Ranked 314)  
 Diff (max vs sum): 107  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

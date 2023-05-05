@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/stubbs_the_zombie_in_rebel_without_a_pulse.json)  
 Rating: 4.37 (Ranked 696)  
 Number of Ratings: 249  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 47  (Ranked 394)  
 Sum: 47 (Ranked 434)  
 Diff (max vs sum): -40  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 47 |
