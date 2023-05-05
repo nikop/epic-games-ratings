@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_binding_of_isaac__repentance.json)  
 Rating: 4.90 (Ranked 7)  
 Number of Ratings: 1,859  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 1,795  (Ranked 106)  
 Sum: 8,352 (Ranked 86)  
 Diff (max vs sum): 20  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,795 |

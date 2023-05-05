@@ -3,9 +3,6 @@
 [View Rawdata](../../db/k/king's_bounty_ii.json)  
 Rating: 4.17 (Ranked 827)  
 Number of Ratings: 108  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

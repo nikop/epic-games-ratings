@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/genshin_impact.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 219,180  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 294,973  (Ranked 3)  
 Sum: 1,326,955 (Ranked 3)  
 Diff (max vs sum): 0  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 294,973 |

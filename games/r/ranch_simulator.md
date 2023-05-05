@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/ranch_simulator.json)  
 Rating: 4.44 (Ranked 621)  
 Number of Ratings: 338  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Highly Recommended): 46  (Ranked 396)  
 Sum: 287 (Ranked 324)  
 Diff (max vs sum): 72  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |

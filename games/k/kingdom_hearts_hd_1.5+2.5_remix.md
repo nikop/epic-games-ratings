@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/kingdom_hearts_hd_1.5+2.5_remix.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 4,283  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 485  (Ranked 184)  
-Sum: 3,669 (Ranked 135)  
-Diff (max vs sum): 49  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Great for Beginners): 485  (Ranked 185)  
+Sum: 3,669 (Ranked 135)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 2,006 |

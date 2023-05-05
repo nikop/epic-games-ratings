@@ -3,9 +3,6 @@
 [View Rawdata](../../db/h/halcyon_6_starbase_commander.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 146  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,9 +1,6 @@
 # Missile Command: Recharged
 [Store](https://store.epicgames.com/en-US/p/missile-command-recharged)  
 [View Rawdata](../../db/m/missile_command__recharged.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

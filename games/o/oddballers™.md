@@ -1,9 +1,6 @@
 # OddBallers™
 [Store](https://store.epicgames.com/en-US/p/oddballers)  
 [View Rawdata](../../db/o/oddballers™.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

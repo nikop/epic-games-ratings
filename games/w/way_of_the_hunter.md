@@ -3,20 +3,16 @@
 [View Rawdata](../../db/w/way_of_the_hunter.json)  
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 190  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Highly Recommended): 38  (Ranked 414)  
-Sum: 190 (Ranked 351)  
-Diff (max vs sum): 63  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Highly Recommended): 38  (Ranked 414)  
+Sum: 191 (Ranked 351)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |
 | This game has Quickly Understood Controls | 37 |
 | This game is Relaxing | 33 |
-| This game is Extremely Fun | 30 |
+| This game is Extremely Fun | 31 |
 | This game has Amazing Storytelling | 26 |
 | This game has Amazing Characters | 26 |
 | This game has Diverse Characters | 25 |
@@ -105,3 +101,4 @@ Diff (max vs sum): 63
 | 2023-04-19 | 4.35 | - | 38 | 188 |
 | 2023-04-30 | 4.35 | - | 38 | 189 |
 | 2023-05-03 | 4.35 | - | 38 | 190 |
+| 2023-05-05 | 4.35 | - | 38 | 191 |

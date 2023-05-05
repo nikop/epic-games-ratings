@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/frostpunk.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 11,240  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 768  (Ranked 147)  
 Sum: 6,425 (Ranked 109)  
 Diff (max vs sum): 38  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 768 |

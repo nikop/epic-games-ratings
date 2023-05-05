@@ -3,14 +3,10 @@
 [View Rawdata](../../db/n/neon_abyss.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 8,340  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 661  (Ranked 158)  
 Sum: 5,284 (Ranked 119)  
 Diff (max vs sum): 39  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 661 |

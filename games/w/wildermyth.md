@@ -3,10 +3,6 @@
 [View Rawdata](../../db/w/wildermyth.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 45  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 27  (Ranked 454)  
-Sum: 27 (Ranked 462)  
-Diff (max vs sum): -8  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -81,6 +77,9 @@ Completed: 3 (0.27%) (Ranked 123)
 | 2023-05-04 | 1,121 | 3 |
 | 2023-05-05 | 1,125 | 3 |
 ## Awards
+Max (Character Customization): 27  (Ranked 454)  
+Sum: 27 (Ranked 462)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 27 |

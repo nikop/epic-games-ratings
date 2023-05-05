@@ -3,10 +3,6 @@
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
 Rating: 4.06 (Ranked 867)  
 Number of Ratings: 9,041  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Diverse Characters): 4,865  (Ranked 62)  
-Sum: 29,803 (Ranked 37)  
-Diff (max vs sum): 25  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,6 +55,7 @@ Diff (max vs sum): 25
 | Exploring Port Nyanzaru | 0.20% | ~173 |
 | The Dead Three | 0.20% | ~173 |
 | Flying Monkey Skulls of Doom | 0.20% | ~173 |
+| The Darkness Runs Deeper | 0.20% | ~173 |
 | Running of the Saurs | 0.20% | ~173 |
 | The Contagious Curse | 0.20% | ~173 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
@@ -318,7 +315,6 @@ Diff (max vs sum): 25
 | She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~53 |
 | Patience is Key | 0.10% | ~87 |
-| The Darkness Runs Deeper | 0.10% | ~87 |
 | Troublesome Prisoner | 0.10% | ~87 |
 | Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
@@ -500,7 +496,7 @@ Diff (max vs sum): 25
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,551 (Ranked 59)  
+Progressed: 86,554 (Ranked 59)  
 Completed: 1,806 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,8 +511,11 @@ Completed: 1,806 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,551 | 1,806 |
+| 2023-05-05 | 86,554 | 1,806 |
 ## Awards
+Max (Diverse Characters): 4,865  (Ranked 62)  
+Sum: 29,803 (Ranked 37)  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,865 |

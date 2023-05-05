@@ -3,10 +3,6 @@
 [View Rawdata](../../db/c/crayta.json)  
 Rating: 4.19 (Ranked 814)  
 Number of Ratings: 94  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Diverse Characters): 50  (Ranked 385)  
-Sum: 370 (Ranked 307)  
-Diff (max vs sum): 78  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,6 +57,9 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-03 | 109,245 | 5 |
 | 2023-05-04 | 109,250 | 5 |
 ## Awards
+Max (Diverse Characters): 50  (Ranked 385)  
+Sum: 370 (Ranked 307)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 50 |

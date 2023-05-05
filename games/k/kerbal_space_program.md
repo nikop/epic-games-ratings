@@ -2,21 +2,17 @@
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program)  
 [View Rawdata](../../db/k/kerbal_space_program.json)  
 Rating: 4.79 (Ranked 91)  
-## Popularity (Based on Awards)
-Max (Educational): 483  (Ranked 185)  
-Sum: 3,211 (Ranked 144)  
-Diff (max vs sum): 41  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Educational): 493  (Ranked 184)  
+Sum: 3,225 (Ranked 144)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 483 |
+| This game is Educational | 493 |
 | This game is Relaxing | 434 |
 | This game is Extremely Fun | 427 |
 | This game is Highly Recommended | 422 |
-| This game has a Creative Community | 393 |
+| This game has a Creative Community | 397 |
 | This game has Amazing Characters | 388 |
 | This game has Amazing Storytelling | 368 |
 | This game has Challenging Combat | 296 |
@@ -67,4 +63,4 @@ Diff (max vs sum): 41
 | 2023-05-02 | 4.79 | 477 | 3,155 |
 | 2023-05-03 | 4.79 | 483 | 3,189 |
 | 2023-05-04 | 4.79 | 483 | 3,199 |
-| 2023-05-05 | 4.79 | 483 | 3,211 |
+| 2023-05-05 | 4.79 | 493 | 3,225 |

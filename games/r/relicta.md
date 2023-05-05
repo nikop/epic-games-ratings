@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/relicta.json)  
 Rating: 4.15 (Ranked 838)  
 Number of Ratings: 429  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Challenging Puzzles): 193  (Ranked 259)  
 Sum: 261 (Ranked 337)  
 Diff (max vs sum): -78  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 193 |

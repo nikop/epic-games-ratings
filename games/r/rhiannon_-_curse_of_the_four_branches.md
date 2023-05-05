@@ -1,9 +1,6 @@
 # Rhiannon - Curse of the Four Branches
 [Store](https://store.epicgames.com/en-US/p/rhiannon-curse-of-the-four-branches-ae93f9)  
 [View Rawdata](../../db/r/rhiannon_-_curse_of_the_four_branches.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

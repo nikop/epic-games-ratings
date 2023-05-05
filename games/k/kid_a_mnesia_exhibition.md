@@ -3,9 +3,6 @@
 [View Rawdata](../../db/k/kid_a_mnesia_exhibition.json)  
 Rating: 4.81 (Ranked 71)  
 Number of Ratings: 41  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

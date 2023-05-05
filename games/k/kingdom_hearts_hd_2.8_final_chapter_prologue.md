@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/kingdom_hearts_hd_2.8_final_chapter_prologue.json)  
 Rating: 4.76 (Ranked 114)  
 Number of Ratings: 213  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 99  (Ranked 321)  
 Sum: 144 (Ranked 377)  
 Diff (max vs sum): -56  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 99 |

@@ -1,9 +1,6 @@
 # The Pegasus Expedition
 [Store](https://store.epicgames.com/en-US/p/the-pegasus-expedition-224279)  
 [View Rawdata](../../db/t/the_pegasus_expedition.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

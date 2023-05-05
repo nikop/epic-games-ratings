@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/train_sim_world®_3__standard_edition.json)  
 Rating: 4.54 (Ranked 476)  
 Number of Ratings: 170  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 275  (Ranked 228)  
 Sum: 2,068 (Ranked 183)  
 Diff (max vs sum): 45  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 275 |

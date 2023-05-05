@@ -3,10 +3,6 @@
 [View Rawdata](../../db/t/transport_fever_2.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 180  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Highly Recommended): 37  (Ranked 417)  
-Sum: 259 (Ranked 338)  
-Diff (max vs sum): 79  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -89,6 +85,9 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-04 | 1,028 | 0 |
 | 2023-05-05 | 1,029 | 0 |
 ## Awards
+Max (Highly Recommended): 37  (Ranked 417)  
+Sum: 259 (Ranked 338)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 37 |

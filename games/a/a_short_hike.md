@@ -3,9 +3,6 @@
 [View Rawdata](../../db/a/a_short_hike.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 184  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

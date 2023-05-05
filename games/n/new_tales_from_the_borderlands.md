@@ -26,7 +26,7 @@ Rating: 4.07 (Ranked 863)
 | Super Trusting Friend! | 9.00% | ~304 |
 | Bring back the butt! | 4.00% | ~135 |
 | Hey, thanks! | 4.00% | ~135 |
-| Murderous Mascot Mayhem | 2.00% | ~68 |
+| Murderous Mascot Mayhem | 3.00% | ~101 |
 | New Business | 0.80% | ~27 |
 | Okay, Vain Much? | 0.50% | ~17 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |

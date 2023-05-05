@@ -1,9 +1,6 @@
 # Nira
 [Store](https://store.epicgames.com/en-US/p/nira-02f6ee)  
 [View Rawdata](../../db/n/nira.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

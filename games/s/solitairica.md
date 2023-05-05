@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/solitairica.json)  
 Rating: 4.49 (Ranked 549)  
 Number of Ratings: 474  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 83  (Ranked 343)  
 Sum: 597 (Ranked 276)  
 Diff (max vs sum): 67  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 83 |

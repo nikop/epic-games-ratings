@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/grand_theft_auto_v__premium_edition.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 573,831  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 165,608  (Ranked 5)  
 Sum: 1,315,516 (Ranked 4)  
 Diff (max vs sum): 1  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 165,608 |

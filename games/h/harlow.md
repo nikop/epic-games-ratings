@@ -1,9 +1,6 @@
 # Harlow
 [Store](https://store.epicgames.com/en-US/p/harlow-b10a2a)  
 [View Rawdata](../../db/h/harlow.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

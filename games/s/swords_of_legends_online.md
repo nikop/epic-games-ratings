@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/swords_of_legends_online.json)  
 Rating: 4.30 (Ranked 752)  
 Number of Ratings: 262  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 169  (Ranked 274)  
 Sum: 389 (Ranked 302)  
 Diff (max vs sum): -28  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 169 |

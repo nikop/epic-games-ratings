@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/sid_meier’s_civilization®_vi.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 57,866  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 30,624  (Ranked 13)  
 Sum: 253,246 (Ranked 10)  
 Diff (max vs sum): 3  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 30,624 |

@@ -1,9 +1,6 @@
 # Paper Cut Mansion
 [Store](https://store.epicgames.com/en-US/p/paper-cut-mansion-2c67e2)  
 [View Rawdata](../../db/p/paper_cut_mansion.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

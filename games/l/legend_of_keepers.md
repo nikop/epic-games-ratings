@@ -3,9 +3,6 @@
 [View Rawdata](../../db/l/legend_of_keepers.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 39  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

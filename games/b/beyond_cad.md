@@ -1,9 +1,6 @@
 # Beyond CAD
 [Store](https://store.epicgames.com/en-US/p/beyond-cad)  
 [View Rawdata](../../db/b/beyond_cad.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

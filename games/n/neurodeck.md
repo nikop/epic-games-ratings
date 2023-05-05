@@ -1,9 +1,6 @@
 # Neurodeck
 [Store](https://store.epicgames.com/en-US/p/neurodeck)  
 [View Rawdata](../../db/n/neurodeck.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

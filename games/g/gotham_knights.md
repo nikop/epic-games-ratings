@@ -2,10 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
 Rating: 4.17 (Ranked 827)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,187  (Ranked 99)  
-Sum: 3,619 (Ranked 139)  
-Diff (max vs sum): -40  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -88,6 +84,9 @@ Completed: 89 (0.15%) (Ranked 139)
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,640 | 89 |
 ## Awards
+Max (Great Boss Battles): 2,187  (Ranked 99)  
+Sum: 3,619 (Ranked 139)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,187 |

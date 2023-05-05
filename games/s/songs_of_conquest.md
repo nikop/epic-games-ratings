@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/songs_of_conquest.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 292  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 27  (Ranked 454)  
 Sum: 170 (Ranked 363)  
 Diff (max vs sum): 91  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

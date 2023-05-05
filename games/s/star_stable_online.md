@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/star_stable_online.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 317  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 127  (Ranked 295)  
 Sum: 921 (Ranked 234)  
 Diff (max vs sum): 61  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 127 |

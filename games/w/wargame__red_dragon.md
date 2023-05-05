@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/wargame__red_dragon.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 2,918  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Highly Recommended): 858  (Ranked 142)  
 Sum: 7,892 (Ranked 92)  
 Diff (max vs sum): 50  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 858 |

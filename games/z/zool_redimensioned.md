@@ -1,9 +1,6 @@
 # Zool Redimensioned
 [Store](https://store.epicgames.com/en-US/p/zool-redimensioned-5c52a7)  
 [View Rawdata](../../db/z/zool_redimensioned.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

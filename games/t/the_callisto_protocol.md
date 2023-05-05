@@ -2,16 +2,12 @@
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
 Rating: 4.18 (Ranked 821)  
-## Popularity (Based on Awards)
-Max (Amazing Storytelling): 46  (Ranked 396)  
-Sum: 245 (Ranked 340)  
-Diff (max vs sum): 56  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 5.00% | ~627 |
 | Paper Jams | 5.00% | ~627 |
-| Get a Grip | 4.00% | ~501 |
+| Get a Grip | 4.00% | ~502 |
 | You Need a Gun | 3.00% | ~376 |
 | Two Heads Are Better Than One | 3.00% | ~376 |
 | Workplace Hazard | 3.00% | ~376 |
@@ -43,7 +39,7 @@ Diff (max vs sum): 56
 | The Protocol is About Life | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,537 (Ranked 100)  
+Progressed: 12,539 (Ranked 100)  
 Completed: 47 (0.37%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,8 +54,11 @@ Completed: 47 (0.37%) (Ranked 106)
 | 2023-05-02 | 12,529 | 47 |
 | 2023-05-03 | 12,531 | 47 |
 | 2023-05-04 | 12,533 | 47 |
-| 2023-05-05 | 12,537 | 47 |
+| 2023-05-05 | 12,539 | 47 |
 ## Awards
+Max (Amazing Storytelling): 46  (Ranked 396)  
+Sum: 245 (Ranked 340)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |

@@ -3,9 +3,6 @@
 [View Rawdata](../../db/a/assassin's_creed®_i__director's_cut.json)  
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 142  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

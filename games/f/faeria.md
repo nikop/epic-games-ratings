@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/faeria.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 194  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 103  (Ranked 317)  
 Sum: 316 (Ranked 320)  
 Diff (max vs sum): -3  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 103 |

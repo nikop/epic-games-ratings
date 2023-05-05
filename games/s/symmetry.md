@@ -1,9 +1,6 @@
 # SYMMETRY
 [Store](https://store.epicgames.com/en-US/p/symmetry-44cf24)  
 [View Rawdata](../../db/s/symmetry.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

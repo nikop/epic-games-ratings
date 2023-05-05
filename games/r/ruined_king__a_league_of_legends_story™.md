@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/ruined_king__a_league_of_legends_story™.json)  
 Rating: 4.63 (Ranked 328)  
 Number of Ratings: 597  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 181  (Ranked 264)  
 Sum: 181 (Ranked 357)  
 Diff (max vs sum): -93  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 181 |

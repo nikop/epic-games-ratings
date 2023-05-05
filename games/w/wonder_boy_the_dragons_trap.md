@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/wonder_boy_the_dragons_trap.json)  
 Rating: 4.44 (Ranked 621)  
 Number of Ratings: 3,047  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 59  (Ranked 378)  
 Sum: 386 (Ranked 303)  
 Diff (max vs sum): 75  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 59 |

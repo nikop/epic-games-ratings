@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/fault__elder_orb.json)  
 Rating: 3.91 (Ranked 897)  
 Number of Ratings: 723  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 103  (Ranked 317)  
 Sum: 728 (Ranked 256)  
 Diff (max vs sum): 61  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

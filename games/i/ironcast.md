@@ -3,9 +3,6 @@
 [View Rawdata](../../db/i/ironcast.json)  
 Rating: 3.92 (Ranked 893)  
 Number of Ratings: 238  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

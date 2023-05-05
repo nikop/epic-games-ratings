@@ -1,9 +1,6 @@
 # Venice 2089
 [Store](https://store.epicgames.com/en-US/p/venice-2089-2bad63)  
 [View Rawdata](../../db/v/venice_2089.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

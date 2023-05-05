@@ -1,9 +1,6 @@
 # Wavetale
 [Store](https://store.epicgames.com/en-US/p/wavetale-f9cfdf)  
 [View Rawdata](../../db/w/wavetale.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

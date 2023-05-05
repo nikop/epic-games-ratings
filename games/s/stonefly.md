@@ -1,9 +1,6 @@
 # Stonefly
 [Store](https://store.epicgames.com/en-US/p/stonefly)  
 [View Rawdata](../../db/s/stonefly.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

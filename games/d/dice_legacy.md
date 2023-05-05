@@ -8,17 +8,17 @@ Rating: 4.29 (Ranked 758)
 | We made it | 25.00% | ~184 |
 | Manipulating Fate | 5.00% | ~37 |
 | The City | 5.00% | ~37 |
+| Burn and Pillage | 4.00% | ~29 |
 | Full house | 3.00% | ~22 |
 | Ascended | 3.00% | ~22 |
-| Burn and Pillage | 3.00% | ~22 |
 | Greedy | 3.00% | ~22 |
 | Hear me out | 3.00% | ~22 |
+| Hidden Secrets | 3.00% | ~22 |
 | Listening to the crowd | 3.00% | ~22 |
 | Accepting the Prophecy | 3.00% | ~22 |
 | Just Chilling | 2.00% | ~15 |
 | Incredible Strength | 2.00% | ~15 |
 | The Penitent Ones | 2.00% | ~15 |
-| Hidden Secrets | 2.00% | ~15 |
 | The Stranded King | 2.00% | ~15 |
 | Prophecy Fulfilled | 2.00% | ~15 |
 | The great fire | 1.00% | ~7 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 758)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734 (Ranked 170)  
+Progressed: 735 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 731 | 0 |
 | 2023-05-03 | 732 | 0 |
 | 2023-05-04 | 734 | 0 |
+| 2023-05-05 | 735 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

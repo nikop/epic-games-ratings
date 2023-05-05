@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/might_&_magic_heroes_3.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 165  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 118  (Ranked 302)  
 Sum: 305 (Ranked 323)  
 Diff (max vs sum): -21  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 118 |

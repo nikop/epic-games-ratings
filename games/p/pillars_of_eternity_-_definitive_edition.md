@@ -3,10 +3,6 @@
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 2,847  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 1,868  (Ranked 104)  
-Sum: 4,592 (Ranked 126)  
-Diff (max vs sum): -22  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,6 +63,9 @@ Completed: 4 (0.37%) (Ranked 106)
 | 2023-04-25 | 1,074 | 4 |
 | 2023-05-04 | 1,075 | 4 |
 ## Awards
+Max (Character Customization): 1,868  (Ranked 104)  
+Sum: 4,592 (Ranked 126)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,868 |

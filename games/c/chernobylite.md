@@ -3,9 +3,6 @@
 [View Rawdata](../../db/c/chernobylite.json)  
 Rating: 4.13 (Ranked 846)  
 Number of Ratings: 149  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

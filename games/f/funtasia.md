@@ -1,9 +1,6 @@
 # Funtasia
 [Store](https://store.epicgames.com/en-US/p/funtasia-furry-road-bd0756)  
 [View Rawdata](../../db/f/funtasia.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

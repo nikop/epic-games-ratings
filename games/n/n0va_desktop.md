@@ -1,9 +1,6 @@
 # N0va Desktop
 [Store](https://store.epicgames.com/en-US/p/n0va-desktop)  
 [View Rawdata](../../db/n/n0va_desktop.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

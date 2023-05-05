@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/darksiders_warmastered_edition.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 721  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 74  (Ranked 351)  
-Sum: 74 (Ranked 409)  
-Diff (max vs sum): -58  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Great Boss Battles): 74  (Ranked 351)  
+Sum: 74 (Ranked 410)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 86 |

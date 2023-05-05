@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/spellforce-3-fallen-god)  
 [View Rawdata](../../db/s/spellforce_3__fallen_god.json)  
 Rating: 4.50 (Ranked 531)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

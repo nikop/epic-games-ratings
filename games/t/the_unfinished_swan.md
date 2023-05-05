@@ -1,9 +1,6 @@
 # The Unfinished Swan
 [Store](https://store.epicgames.com/en-US/p/the-unfinished-swan)  
 [View Rawdata](../../db/t/the_unfinished_swan.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

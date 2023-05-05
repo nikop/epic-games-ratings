@@ -1,9 +1,6 @@
 # A Knights Quest
 [Store](https://store.epicgames.com/en-US/p/a-knights-quest)  
 [View Rawdata](../../db/a/a_knights_quest.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

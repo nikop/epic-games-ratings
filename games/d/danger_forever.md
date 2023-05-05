@@ -1,9 +1,6 @@
 # Danger Forever
 [Store](https://store.epicgames.com/en-US/p/danger-forever-a10e7e)  
 [View Rawdata](../../db/d/danger_forever.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

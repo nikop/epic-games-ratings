@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/this_war_of_mine.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 1,090  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 79  (Ranked 346)  
 Sum: 620 (Ranked 273)  
 Diff (max vs sum): 73  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 79 |

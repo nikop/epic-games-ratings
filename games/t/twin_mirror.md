@@ -3,9 +3,6 @@
 [View Rawdata](../../db/t/twin_mirror.json)  
 Rating: 4.26 (Ranked 772)  
 Number of Ratings: 39  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,9 +1,6 @@
 # Bee Simulator
 [Store](https://store.epicgames.com/en-US/p/bee-simulator)  
 [View Rawdata](../../db/b/bee_simulator.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

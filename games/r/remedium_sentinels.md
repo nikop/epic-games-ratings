@@ -1,9 +1,6 @@
 # REMEDIUM Sentinels
 [Store](https://store.epicgames.com/en-US/p/remedium-sentinels-b5debd)  
 [View Rawdata](../../db/r/remedium_sentinels.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

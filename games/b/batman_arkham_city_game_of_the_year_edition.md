@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/batman_arkham_city_game_of_the_year_edition.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,832  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 1,437  (Ranked 115)  
 Sum: 1,949 (Ranked 186)  
 Diff (max vs sum): -71  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,437 |

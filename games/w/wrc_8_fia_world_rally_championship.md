@@ -3,9 +3,6 @@
 [View Rawdata](../../db/w/wrc_8_fia_world_rally_championship.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 199  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

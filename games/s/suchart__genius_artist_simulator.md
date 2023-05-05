@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/suchart__genius_artist_simulator.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 125  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

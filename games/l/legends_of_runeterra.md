@@ -3,14 +3,10 @@
 [View Rawdata](../../db/l/legends_of_runeterra.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 431  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Quick Sessions): 151  (Ranked 283)  
 Sum: 1,293 (Ranked 215)  
 Diff (max vs sum): 68  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 151 |

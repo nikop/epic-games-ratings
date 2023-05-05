@@ -3,9 +3,6 @@
 [View Rawdata](../../db/l/limbo.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 198  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/kingdom_new_lands.json)  
 Rating: 4.53 (Ranked 489)  
 Number of Ratings: 1,793  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 119  (Ranked 300)  
 Sum: 699 (Ranked 260)  
 Diff (max vs sum): 40  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 119 |

@@ -3,9 +3,6 @@
 [View Rawdata](../../db/t/the_life_and_suffering_of_sir_brante.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 31  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

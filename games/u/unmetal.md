@@ -3,9 +3,6 @@
 [View Rawdata](../../db/u/unmetal.json)  
 Rating: 4.52 (Ranked 500)  
 Number of Ratings: 35  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

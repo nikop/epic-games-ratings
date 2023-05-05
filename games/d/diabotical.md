@@ -1,16 +1,12 @@
 # Diabotical
 [Store](https://store.epicgames.com/en-US/p/diabotical)  
 [View Rawdata](../../db/d/diabotical.json)  
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 128)  
 Number of Ratings: 572  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Quick Sessions): 265  (Ranked 233)  
 Sum: 2,547 (Ranked 164)  
 Diff (max vs sum): 69  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 265 |

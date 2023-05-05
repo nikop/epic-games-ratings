@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/enter_the_gungeon.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 8,617  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 7,516  (Ranked 41)  
 Sum: 13,340 (Ranked 66)  
 Diff (max vs sum): -25  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,516 |

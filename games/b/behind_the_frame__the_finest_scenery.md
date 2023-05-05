@@ -1,9 +1,6 @@
 # Behind the Frame: The Finest Scenery
 [Store](https://store.epicgames.com/en-US/p/behind-the-frame-the-finest-scenery)  
 [View Rawdata](../../db/b/behind_the_frame__the_finest_scenery.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

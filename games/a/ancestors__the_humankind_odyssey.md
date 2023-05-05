@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/ancestors__the_humankind_odyssey.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 481  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Educational): 44  (Ranked 405)  
 Sum: 196 (Ranked 349)  
 Diff (max vs sum): 56  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 44 |

@@ -3,52 +3,48 @@
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 1,343  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 133  (Ranked 290)  
-Sum: 1,071 (Ranked 225)  
-Diff (max vs sum): 65  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~685,193 |
-| I Need a Bigger Garage | 61.00% | ~469,627 |
-| Pump my Ride | 45.00% | ~346,446 |
-| Ghostbuster | 29.00% | ~223,265 |
-| Call Roadside Assistance | 17.00% | ~130,880 |
-| That Was Close | 17.00% | ~130,880 |
-| Quickie | 10.00% | ~76,988 |
-| California Dreamer | 7.00% | ~53,892 |
-| Can't Touch This | 5.00% | ~38,494 |
-| Carménère Taster | 3.00% | ~23,096 |
-| Comeback | 3.00% | ~23,096 |
-| Marathonist | 3.00% | ~23,096 |
-| Living Legend | 3.00% | ~23,096 |
-| Driver from Ipanema | 2.00% | ~15,398 |
-| Pathfinder | 2.00% | ~15,398 |
-| Go-Kart Champion | 2.00% | ~15,398 |
-| Completionist | 2.00% | ~15,398 |
-| Supersonic | 2.00% | ~15,398 |
-| Harder, Better, Faster, Stronger | 2.00% | ~15,398 |
-| God of Roads | 1.00% | ~7,699 |
-| The Iceman | 1.00% | ~7,699 |
-| Oil Tycoon | 1.00% | ~7,699 |
-| Round the Globe | 1.00% | ~7,699 |
-| Golden Passport | 1.00% | ~7,699 |
-| Brave and Bold | 1.00% | ~7,699 |
-| Bollywood Star | 0.90% | ~6,929 |
-| Crocodile Hunter | 0.80% | ~6,159 |
-| Old Master | 0.80% | ~6,159 |
-| Volcano Surfer | 0.70% | ~5,389 |
-| Otaku | 0.70% | ~5,389 |
-| Getting Famous | 0.50% | ~3,849 |
-| Survivor | 0.50% | ~3,849 |
-| King of the World | 0.50% | ~3,849 |
-| Master of the Racetrack | 0.20% | ~1,540 |
-| Now Go Play Outside | 0.20% | ~1,540 |
-| Transporter | 0.10% | ~770 |
-| Look Mom, No Hands! | 0.10% | ~770 |
+| The First of Many | 89.00% | ~686,551 |
+| I Need a Bigger Garage | 61.00% | ~470,558 |
+| Pump my Ride | 45.00% | ~347,133 |
+| Ghostbuster | 29.00% | ~223,708 |
+| Call Roadside Assistance | 17.00% | ~131,139 |
+| That Was Close | 17.00% | ~131,139 |
+| Quickie | 10.00% | ~77,141 |
+| California Dreamer | 7.00% | ~53,998 |
+| Can't Touch This | 5.00% | ~38,570 |
+| Carménère Taster | 3.00% | ~23,142 |
+| Comeback | 3.00% | ~23,142 |
+| Marathonist | 3.00% | ~23,142 |
+| Living Legend | 3.00% | ~23,142 |
+| Driver from Ipanema | 2.00% | ~15,428 |
+| Pathfinder | 2.00% | ~15,428 |
+| Go-Kart Champion | 2.00% | ~15,428 |
+| Completionist | 2.00% | ~15,428 |
+| Supersonic | 2.00% | ~15,428 |
+| Harder, Better, Faster, Stronger | 2.00% | ~15,428 |
+| God of Roads | 1.00% | ~7,714 |
+| The Iceman | 1.00% | ~7,714 |
+| Oil Tycoon | 1.00% | ~7,714 |
+| Round the Globe | 1.00% | ~7,714 |
+| Golden Passport | 1.00% | ~7,714 |
+| Brave and Bold | 1.00% | ~7,714 |
+| Bollywood Star | 0.90% | ~6,943 |
+| Crocodile Hunter | 0.80% | ~6,171 |
+| Old Master | 0.80% | ~6,171 |
+| Volcano Surfer | 0.70% | ~5,400 |
+| Otaku | 0.70% | ~5,400 |
+| Getting Famous | 0.50% | ~3,857 |
+| Survivor | 0.50% | ~3,857 |
+| King of the World | 0.50% | ~3,857 |
+| Master of the Racetrack | 0.20% | ~1,543 |
+| Now Go Play Outside | 0.20% | ~1,543 |
+| Transporter | 0.10% | ~771 |
+| Look Mom, No Hands! | 0.10% | ~771 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769,880 (Ranked 12)  
+Progressed: 771,406 (Ranked 12)  
 Completed: 233 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,11 +59,14 @@ Completed: 233 (0.03%) (Ranked 173)
 | 2023-05-02 | 723,454 | 229 |
 | 2023-05-03 | 724,172 | 231 |
 | 2023-05-04 | 739,062 | 232 |
-| 2023-05-05 | 769,880 | 233 |
+| 2023-05-05 | 771,406 | 233 |
 ## Awards
+Max (Great for Beginners): 134  (Ranked 290)  
+Sum: 1,072 (Ranked 225)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 133 |
+| This game is Great for Beginners | 134 |
 | This game has Quickly Understood Controls | 114 |
 | This game is Relaxing | 111 |
 | This game is Highly Recommended | 103 |
@@ -185,4 +184,4 @@ Completed: 233 (0.03%) (Ranked 173)
 | 2023-05-01 | 4.56 | - | 133 | 1,069 |
 | 2023-05-02 | 4.56 | - | 133 | 1,070 |
 | 2023-05-03 | 4.57 | - | 133 | 1,070 |
-| 2023-05-05 | 4.57 | - | 133 | 1,071 |
+| 2023-05-05 | 4.57 | - | 134 | 1,072 |

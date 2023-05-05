@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/conan_exiles.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 1,374  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 1,139  (Ranked 124)  
 Sum: 8,124 (Ranked 88)  
 Diff (max vs sum): 36  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,139 |

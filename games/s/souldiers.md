@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/souldiers.json)  
 Rating: 4.54 (Ranked 476)  
 Number of Ratings: 63  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

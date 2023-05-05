@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 90  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 34  (Ranked 430)  
 Sum: 34 (Ranked 451)  
 Diff (max vs sum): -21  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

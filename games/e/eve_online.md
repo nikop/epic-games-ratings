@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/eve_online.json)  
 Rating: 4.26 (Ranked 772)  
 Number of Ratings: 1,408  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 1,018  (Ranked 134)  
 Sum: 2,011 (Ranked 185)  
 Diff (max vs sum): -51  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,018 |

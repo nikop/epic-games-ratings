@@ -3,9 +3,6 @@
 [View Rawdata](../../db/a/alan_wake’s_american_nightmare.json)  
 Rating: 4.12 (Ranked 849)  
 Number of Ratings: 82  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

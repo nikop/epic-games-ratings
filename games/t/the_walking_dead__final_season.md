@@ -1,11 +1,8 @@
 # The Walking Dead: Final Season
 [Store](https://store.epicgames.com/en-US/p/walking-dead-final-season)  
 [View Rawdata](../../db/t/the_walking_dead__final_season.json)  
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 128)  
 Number of Ratings: 57  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

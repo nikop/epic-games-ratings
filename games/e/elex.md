@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/elex.json)  
 Rating: 4.42 (Ranked 642)  
 Number of Ratings: 58  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 24  (Ranked 466)  
 Sum: 24 (Ranked 469)  
 Diff (max vs sum): -3  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

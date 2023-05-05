@@ -3,10 +3,6 @@
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
 Rating: 4.77 (Ranked 103)  
 Number of Ratings: 209  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Challenging Puzzles): 97  (Ranked 325)  
-Sum: 97 (Ranked 397)  
-Diff (max vs sum): -72  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -81,6 +77,9 @@ Completed: 240 (12.06%) (Ranked 10)
 | 2023-05-04 | 1,989 | 238 |
 | 2023-05-05 | 1,990 | 240 |
 ## Awards
+Max (Challenging Puzzles): 97  (Ranked 325)  
+Sum: 97 (Ranked 397)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 97 |

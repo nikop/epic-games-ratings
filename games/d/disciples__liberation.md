@@ -3,9 +3,6 @@
 [View Rawdata](../../db/d/disciples__liberation.json)  
 Rating: 4.36 (Ranked 702)  
 Number of Ratings: 145  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

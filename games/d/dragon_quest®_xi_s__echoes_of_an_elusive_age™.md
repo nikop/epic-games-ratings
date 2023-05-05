@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.json)  
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 306  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 211  (Ranked 251)  
 Sum: 410 (Ranked 297)  
 Diff (max vs sum): -46  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 211 |

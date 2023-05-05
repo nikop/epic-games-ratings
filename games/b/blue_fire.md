@@ -1,9 +1,6 @@
 # Blue Fire
 [Store](https://store.epicgames.com/en-US/p/blue-fire-9c1dac)  
 [View Rawdata](../../db/b/blue_fire.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

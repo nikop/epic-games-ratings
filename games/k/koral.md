@@ -1,9 +1,6 @@
 # KORAL
 [Store](https://store.epicgames.com/en-US/p/koral-63ea73)  
 [View Rawdata](../../db/k/koral.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

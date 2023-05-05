@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/bioshock_2_remastered.json)  
 Rating: 4.51 (Ranked 514)  
 Number of Ratings: 12,272  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 4,080  (Ranked 71)  
 Sum: 5,216 (Ranked 120)  
 Diff (max vs sum): -49  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,080 |

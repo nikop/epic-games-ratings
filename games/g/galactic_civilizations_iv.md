@@ -3,10 +3,6 @@
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
 Rating: 4.18 (Ranked 821)  
 Number of Ratings: 429  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Diverse Characters): 89  (Ranked 335)  
-Sum: 655 (Ranked 266)  
-Diff (max vs sum): 69  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -100,6 +96,9 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-04 | 5,500 | 0 |
 | 2023-05-05 | 5,511 | 0 |
 ## Awards
+Max (Diverse Characters): 89  (Ranked 335)  
+Sum: 655 (Ranked 266)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 89 |

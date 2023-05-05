@@ -1,9 +1,6 @@
 # Shakedown - Hawaii
 [Store](https://store.epicgames.com/en-US/p/shakedown-hawaii)  
 [View Rawdata](../../db/s/shakedown_-_hawaii.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

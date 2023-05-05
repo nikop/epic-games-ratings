@@ -1,9 +1,6 @@
 # GRAVEN
 [Store](https://store.epicgames.com/en-US/p/graven)  
 [View Rawdata](../../db/g/graven.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

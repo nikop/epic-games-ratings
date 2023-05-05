@@ -1,9 +1,6 @@
 # Exo One
 [Store](https://store.epicgames.com/en-US/p/exo-one)  
 [View Rawdata](../../db/e/exo_one.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

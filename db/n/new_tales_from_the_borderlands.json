@@ -456,9 +456,9 @@
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
       "SetID": "kakdpn",
       "Name": "Murderous Mascot Mayhem",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 101
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -481,8 +481,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:07:58.2809719+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:06:53.410446+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:01:31.0787062+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:07:58.2809913+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:00:46.3976778+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:06:53.4104624+00:00"
 }

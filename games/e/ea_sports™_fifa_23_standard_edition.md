@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
 Rating: 4.24 (Ranked 781)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 8,877  (Ranked 36)  
 Sum: 42,132 (Ranked 27)  
 Diff (max vs sum): 9  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 8,877 |

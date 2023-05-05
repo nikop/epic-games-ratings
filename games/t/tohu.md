@@ -1,9 +1,6 @@
 # TOHU
 [Store](https://store.epicgames.com/en-US/p/tohu)  
 [View Rawdata](../../db/t/tohu.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

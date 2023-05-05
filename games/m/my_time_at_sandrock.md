@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 892  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 557  (Ranked 169)  
 Sum: 1,196 (Ranked 219)  
 Diff (max vs sum): -50  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 557 |

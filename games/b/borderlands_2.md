@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/borderlands_2.json)  
 Rating: 4.76 (Ranked 114)  
 Number of Ratings: 13,386  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 14,098  (Ranked 23)  
 Sum: 35,464 (Ranked 32)  
 Diff (max vs sum): -9  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 14,098 |

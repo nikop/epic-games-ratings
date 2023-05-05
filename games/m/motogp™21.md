@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/motogp™21.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 95  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Characters): 22  (Ranked 473)  
 Sum: 42 (Ranked 440)  
 Diff (max vs sum): 33  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 22 |

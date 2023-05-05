@@ -3,14 +3,10 @@
 [View Rawdata](../../db/o/octopath_traveler™.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 166  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 116  (Ranked 305)  
 Sum: 116 (Ranked 388)  
 Diff (max vs sum): -83  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 116 |

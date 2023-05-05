@@ -3,9 +3,6 @@
 [View Rawdata](../../db/a/amnesia__a_machine_for_pigs.json)  
 Rating: 4.04 (Ranked 872)  
 Number of Ratings: 197  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

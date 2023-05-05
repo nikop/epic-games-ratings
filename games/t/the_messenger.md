@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_messenger.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 561  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 312  (Ranked 218)  
 Sum: 354 (Ranked 309)  
 Diff (max vs sum): -91  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 312 |

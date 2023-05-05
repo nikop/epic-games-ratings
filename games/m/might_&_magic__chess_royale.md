@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/might_&_magic__chess_royale.json)  
 Rating: 4.50 (Ranked 531)  
 Number of Ratings: 238  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 97  (Ranked 325)  
 Sum: 775 (Ranked 250)  
 Diff (max vs sum): 75  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 97 |

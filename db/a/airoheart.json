@@ -4,7 +4,7 @@
   "ProductSlug": "airoheart-247d10",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
@@ -272,8 +272,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.3597233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:39.6384536+00:00",
   "LastChanged": "2023-03-31T05:58:43.3597234+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:08:11.5064137+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:07:04.873742+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.0096733+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:02:14.0849082+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:08:11.5064347+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:01:21.2802957+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:07:04.8737839+00:00"
 }

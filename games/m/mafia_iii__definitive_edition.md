@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/mafia_iii__definitive_edition.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 1,289  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Characters): 76  (Ranked 349)  
 Sum: 478 (Ranked 291)  
 Diff (max vs sum): 58  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 307 |

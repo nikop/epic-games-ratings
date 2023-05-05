@@ -3,9 +3,6 @@
 [View Rawdata](../../db/a/ashen.json)  
 Rating: 4.34 (Ranked 721)  
 Number of Ratings: 111  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

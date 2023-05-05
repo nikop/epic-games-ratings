@@ -1,9 +1,6 @@
 # Paper Beast
 [Store](https://store.epicgames.com/en-US/p/paper-beast)  
 [View Rawdata](../../db/p/paper_beast.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

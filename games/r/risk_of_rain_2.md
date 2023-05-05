@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/risk_of_rain_2.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 1,310  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 226  (Ranked 244)  
 Sum: 2,217 (Ranked 174)  
 Diff (max vs sum): 70  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 226 |

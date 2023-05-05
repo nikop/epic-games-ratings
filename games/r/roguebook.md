@@ -3,9 +3,6 @@
 [View Rawdata](../../db/r/roguebook.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 64  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

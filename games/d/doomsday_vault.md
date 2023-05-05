@@ -1,9 +1,6 @@
 # Doomsday Vault
 [Store](https://store.epicgames.com/en-US/p/doomsday-vault-b0ed96)  
 [View Rawdata](../../db/d/doomsday_vault.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_walking_dead__season_one.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 70  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Impact the Story): 26  (Ranked 460)  
 Sum: 26 (Ranked 464)  
 Diff (max vs sum): -4  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 26 |

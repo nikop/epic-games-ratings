@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/ancient_enemy.json)  
 Rating: 3.95 (Ranked 889)  
 Number of Ratings: 2,089  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 45  (Ranked 401)  
 Sum: 193 (Ranked 350)  
 Diff (max vs sum): 51  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 45 |

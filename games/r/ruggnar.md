@@ -1,9 +1,6 @@
 # Ruggnar
 [Store](https://store.epicgames.com/en-US/p/ruggnar-06d06b)  
 [View Rawdata](../../db/r/ruggnar.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

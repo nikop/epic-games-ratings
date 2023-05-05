@@ -1,9 +1,6 @@
 # Castles II - Siege and Conquest
 [Store](https://store.epicgames.com/en-US/p/castles-ii-siege-and-conquest-aa3f88)  
 [View Rawdata](../../db/c/castles_ii_-_siege_and_conquest.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

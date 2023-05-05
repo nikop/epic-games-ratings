@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/metro_last_light_redux.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 6,367  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 1,814  (Ranked 105)  
 Sum: 2,094 (Ranked 180)  
 Diff (max vs sum): -75  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,814 |

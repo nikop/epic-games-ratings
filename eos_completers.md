@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.73% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
@@ -33,9 +33,9 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [The Complex](games/t/the_complex.md) | 3.56% |
-| 35 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 3.44% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.65% |
+| 35 | [The Complex](games/t/the_complex.md) | 3.56% |
+| 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -378,4 +378,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,557 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,558 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

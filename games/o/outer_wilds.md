@@ -3,9 +3,6 @@
 [View Rawdata](../../db/o/outer_wilds.json)  
 Rating: 4.90 (Ranked 7)  
 Number of Ratings: 726  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

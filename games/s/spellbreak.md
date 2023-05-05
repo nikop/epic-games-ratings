@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/spellbreak.json)  
 Rating: 4.63 (Ranked 328)  
 Number of Ratings: 1,020  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 304  (Ranked 223)  
 Sum: 400 (Ranked 299)  
 Diff (max vs sum): -76  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 304 |

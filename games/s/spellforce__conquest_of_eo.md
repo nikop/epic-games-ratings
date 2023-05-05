@@ -1,9 +1,6 @@
 # SpellForce: Conquest of Eo
 [Store](https://store.epicgames.com/en-US/p/spellforce-conquest-of-eo)  
 [View Rawdata](../../db/s/spellforce__conquest_of_eo.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/kingdom_hearts_iii_+_re_mind.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,011  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 717  (Ranked 153)  
 Sum: 1,394 (Ranked 211)  
 Diff (max vs sum): -58  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 882 |

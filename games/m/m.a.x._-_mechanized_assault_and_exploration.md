@@ -1,9 +1,6 @@
 # M.A.X. - Mechanized Assault and Exploration
 [Store](https://store.epicgames.com/en-US/p/max-mechanized-assault-and-exploration-0722cb)  
 [View Rawdata](../../db/m/m.a.x._-_mechanized_assault_and_exploration.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

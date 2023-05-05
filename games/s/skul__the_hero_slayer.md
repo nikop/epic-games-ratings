@@ -3,10 +3,6 @@
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 546  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 114  (Ranked 307)  
-Sum: 856 (Ranked 241)  
-Diff (max vs sum): 66  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,6 +45,9 @@ Completed: 11 (0.15%) (Ranked 139)
 | 2023-05-04 | 7,167 | 11 |
 | 2023-05-05 | 7,170 | 11 |
 ## Awards
+Max (Great for Beginners): 114  (Ranked 307)  
+Sum: 856 (Ranked 241)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 114 |

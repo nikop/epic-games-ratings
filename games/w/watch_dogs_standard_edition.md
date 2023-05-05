@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/watch_dogs_standard_edition.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 1,912  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Quickly Understood Controls): 49  (Ranked 390)  
 Sum: 327 (Ranked 316)  
 Diff (max vs sum): 74  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 49 |

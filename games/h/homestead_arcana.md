@@ -1,9 +1,6 @@
 # Homestead Arcana
 [Store](https://store.epicgames.com/en-US/p/homestead-arcana-60ff39)  
 [View Rawdata](../../db/h/homestead_arcana.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

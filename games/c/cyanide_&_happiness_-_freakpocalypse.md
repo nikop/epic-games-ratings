@@ -1,9 +1,6 @@
 # Cyanide & Happiness - Freakpocalypse (Episode 1)
 [Store](https://store.epicgames.com/en-US/p/cyanide-happiness-freakpocalypse)  
 [View Rawdata](../../db/c/cyanide_&_happiness_-_freakpocalypse.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

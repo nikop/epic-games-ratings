@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/warhammer_40,000__gladius_-_relics_of_war.json)  
 Rating: 4.34 (Ranked 721)  
 Number of Ratings: 39  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 58  (Ranked 381)  
 Sum: 327 (Ranked 316)  
 Diff (max vs sum): 65  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 58 |

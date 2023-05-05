@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/god's_trigger.json)  
 Rating: 4.17 (Ranked 827)  
 Number of Ratings: 114  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 26  (Ranked 460)  
 Sum: 26 (Ranked 464)  
 Diff (max vs sum): -4  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 26 |

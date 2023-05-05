@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.16,
   "RatingHistory": [
     {
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4817,
+  "EOS_Progressed": 4818,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-05-05T18:07:23.3428385+00:00",
       "NumProgressed": 4817,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T19:06:22.4703183+00:00",
+      "NumProgressed": 4818,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -695,7 +700,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "ACH02",
@@ -703,7 +708,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "ACH03",
@@ -926,7 +931,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4817,
+      "Progressed": 4818,
       "Completed": 25
     }
   ],
@@ -934,8 +939,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:07:23.3428378+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:06:22.4703178+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:59:30.7407537+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:07:23.3428658+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:59:11.7304877+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:06:22.4703414+00:00"
 }

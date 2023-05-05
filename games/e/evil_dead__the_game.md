@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/evil_dead__the_game.json)  
 Rating: 4.36 (Ranked 702)  
 Number of Ratings: 9,131  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 12,330  (Ranked 27)  
 Sum: 28,863 (Ranked 38)  
 Diff (max vs sum): -11  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 12,330 |

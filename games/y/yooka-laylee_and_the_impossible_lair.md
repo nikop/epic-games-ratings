@@ -3,14 +3,10 @@
 [View Rawdata](../../db/y/yooka-laylee_and_the_impossible_lair.json)  
 Rating: 4.37 (Ranked 696)  
 Number of Ratings: 346  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Relaxing): 31  (Ranked 440)  
 Sum: 176 (Ranked 361)  
 Diff (max vs sum): 79  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 31 |

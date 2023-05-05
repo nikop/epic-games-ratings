@@ -1,9 +1,6 @@
 # Tower of Guns
 [Store](https://store.epicgames.com/en-US/p/tower-of-guns)  
 [View Rawdata](../../db/t/tower_of_guns.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

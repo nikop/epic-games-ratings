@@ -3,9 +3,6 @@
 [View Rawdata](../../db/b/blazing_beaks.json)  
 Rating: 4.48 (Ranked 565)  
 Number of Ratings: 31  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

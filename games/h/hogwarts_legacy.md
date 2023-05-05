@@ -2,10 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
 Rating: 4.77 (Ranked 103)  
-## Popularity (Based on Awards)
-Max (Character Customization): 18,393  (Ranked 18)  
-Sum: 33,521 (Ranked 34)  
-Diff (max vs sum): -16  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,7 +51,7 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,599 (Ranked 38)  
+Progressed: 265,610 (Ranked 38)  
 Completed: 347 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,8 +66,11 @@ Completed: 347 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,599 | 347 |
+| 2023-05-05 | 265,610 | 347 |
 ## Awards
+Max (Character Customization): 18,393  (Ranked 18)  
+Sum: 33,521 (Ranked 34)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,393 |

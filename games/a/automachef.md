@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/automachef.json)  
 Rating: 4.34 (Ranked 721)  
 Number of Ratings: 543  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 27  (Ranked 454)  
 Sum: 70 (Ranked 417)  
 Diff (max vs sum): 37  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

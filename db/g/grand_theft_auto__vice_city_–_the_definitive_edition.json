@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 77,
   "Rating": 4.66,
   "RatingHistory": [
@@ -1105,9 +1105,9 @@
       "ID": "ACH20",
       "SetID": "9llo822",
       "Name": "Daredevil",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH21",
@@ -1234,8 +1234,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-03T10:57:57.9003989+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:07:28.8497146+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:06:27.4506958+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:59:54.9517871+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:07:28.849755+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:59:30.7896891+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:06:27.4507243+00:00"
 }

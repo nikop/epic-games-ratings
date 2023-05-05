@@ -3,14 +3,10 @@
 [View Rawdata](../../db/v/vampyr.json)  
 Rating: 4.32 (Ranked 738)  
 Number of Ratings: 5,106  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 545  (Ranked 174)  
 Sum: 735 (Ranked 254)  
 Diff (max vs sum): -80  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 545 |

@@ -1,9 +1,6 @@
 # Druidstone: The Secret of the Menhir Forest
 [Store](https://store.epicgames.com/en-US/p/druidstone-0697f7)  
 [View Rawdata](../../db/d/druidstone__the_secret_of_the_menhir_forest.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

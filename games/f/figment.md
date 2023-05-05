@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/figment.json)  
 Rating: 4.46 (Ranked 591)  
 Number of Ratings: 109  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 20  (Ranked 482)  
 Sum: 20 (Ranked 482)  
 Diff (max vs sum): 0  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 20 |

@@ -1,9 +1,6 @@
 # Chicken Police - Paint it Red!
 [Store](https://store.epicgames.com/en-US/p/chicken-police-paint-it-red)  
 [View Rawdata](../../db/c/chicken_police_-_paint_it_red!.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

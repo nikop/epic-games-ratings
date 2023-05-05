@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/aven_colony.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 2,200  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Amazing Storytelling): 119  (Ranked 300)  
 Sum: 706 (Ranked 258)  
 Diff (max vs sum): 42  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 119 |

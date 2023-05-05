@@ -1,9 +1,6 @@
 # Battlefield™ 2042
 [Store](https://store.epicgames.com/en-US/p/battlefield-2042)  
 [View Rawdata](../../db/b/battlefield™_2042.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

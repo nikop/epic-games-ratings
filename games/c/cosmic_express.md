@@ -1,9 +1,6 @@
 # Cosmic Express
 [Store](https://store.epicgames.com/en-US/p/cosmic-express)  
 [View Rawdata](../../db/c/cosmic_express.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/marvel's_guardians_of_the_galaxy.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 898  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 548  (Ranked 172)  
 Sum: 753 (Ranked 252)  
 Diff (max vs sum): -80  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 548 |

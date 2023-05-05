@@ -360,9 +360,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8568,
+  "EOS_Progressed": 8570,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -1515,6 +1515,11 @@
       "Time": "2023-05-05T18:08:10.3855763+00:00",
       "NumProgressed": 8568,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-05-05T19:07:03.8825148+00:00",
+      "NumProgressed": 8570,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 20,
@@ -1526,7 +1531,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -1542,7 +1547,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -1566,7 +1571,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -1574,7 +1579,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -1646,7 +1651,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6513
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -1654,7 +1659,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2400
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1685,15 +1690,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8568,
+      "Progressed": 8570,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:08:10.3855754+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:07:03.8825142+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:02:21.4217356+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:08:10.3856005+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:01:27.236919+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:07:03.8825338+00:00"
 }

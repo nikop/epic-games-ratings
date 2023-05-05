@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_king_of_fighters_xv.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 181  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 72  (Ranked 355)  
 Sum: 543 (Ranked 286)  
 Diff (max vs sum): 69  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 72 |

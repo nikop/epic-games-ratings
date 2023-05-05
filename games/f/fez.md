@@ -3,14 +3,10 @@
 [View Rawdata](../../db/f/fez.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 103  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Challenging Puzzles): 23  (Ranked 469)  
 Sum: 23 (Ranked 471)  
 Diff (max vs sum): -2  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 23 |

@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/second_extinction™.json)  
 Rating: 4.06 (Ranked 867)  
 Number of Ratings: 617  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 393  (Ranked 201)  
 Sum: 440 (Ranked 293)  
 Diff (max vs sum): -92  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 393 |

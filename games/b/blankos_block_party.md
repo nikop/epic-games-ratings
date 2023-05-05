@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/blankos_block_party.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 27  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Beginners): 29  (Ranked 447)  
 Sum: 173 (Ranked 362)  
 Diff (max vs sum): 85  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |

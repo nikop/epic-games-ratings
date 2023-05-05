@@ -1,9 +1,6 @@
 # Another World - 20th Anniversary
 [Store](https://store.epicgames.com/en-US/p/another-world-20th-anniversary-edition-64660d)  
 [View Rawdata](../../db/a/another_world_-_20th_anniversary.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

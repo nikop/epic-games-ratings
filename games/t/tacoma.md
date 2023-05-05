@@ -3,9 +3,6 @@
 [View Rawdata](../../db/t/tacoma.json)  
 Rating: 4.40 (Ranked 664)  
 Number of Ratings: 60  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

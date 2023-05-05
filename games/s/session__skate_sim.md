@@ -3,16 +3,12 @@
 [View Rawdata](../../db/s/session__skate_sim.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 111  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Highly Recommended): 48  (Ranked 391)  
-Sum: 403 (Ranked 298)  
-Diff (max vs sum): 93  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 49.00% | ~946 |
-| Keeping it classy | 25.00% | ~482 |
-| Welcome to the family | 18.00% | ~347 |
+| Keeping it classy | 25.00% | ~483 |
+| Welcome to the family | 18.00% | ~348 |
 | The finer things in life | 16.00% | ~309 |
 | Backpacker | 11.00% | ~212 |
 | Go with the Flow | 11.00% | ~212 |
@@ -24,14 +20,14 @@ Diff (max vs sum): 93
 | Upfront shredder | 7.00% | ~135 |
 | Finally he zips it | 6.00% | ~116 |
 | That pinch! | 6.00% | ~116 |
-| Bottom ply killer | 5.00% | ~96 |
-| Fashionista | 5.00% | ~96 |
-| Fulfilled the dream | 5.00% | ~96 |
-| G'Day Mate! | 5.00% | ~96 |
-| NAHELL! | 5.00% | ~96 |
-| Squad goals | 5.00% | ~96 |
-| Sup widdit big dog! | 5.00% | ~96 |
-| Tight lipslides | 5.00% | ~96 |
+| Bottom ply killer | 5.00% | ~97 |
+| Fashionista | 5.00% | ~97 |
+| Fulfilled the dream | 5.00% | ~97 |
+| G'Day Mate! | 5.00% | ~97 |
+| NAHELL! | 5.00% | ~97 |
+| Squad goals | 5.00% | ~97 |
+| Sup widdit big dog! | 5.00% | ~97 |
+| Tight lipslides | 5.00% | ~97 |
 | Commence the Hijinx! | 4.00% | ~77 |
 | DIY Boss | 4.00% | ~77 |
 | Globetrotter | 4.00% | ~77 |
@@ -59,7 +55,7 @@ Diff (max vs sum): 93
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,930 (Ranked 141)  
+Progressed: 1,931 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,8 +69,11 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 1,923 | 0 |
 | 2023-05-02 | 1,926 | 0 |
 | 2023-05-04 | 1,928 | 0 |
-| 2023-05-05 | 1,930 | 0 |
+| 2023-05-05 | 1,931 | 0 |
 ## Awards
+Max (Highly Recommended): 48  (Ranked 391)  
+Sum: 403 (Ranked 298)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |

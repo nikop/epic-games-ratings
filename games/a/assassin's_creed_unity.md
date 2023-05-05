@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/assassin's_creed_unity.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 900  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 594  (Ranked 165)  
 Sum: 594 (Ranked 278)  
 Diff (max vs sum): -113  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 594 |

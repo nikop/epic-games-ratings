@@ -3,14 +3,10 @@
 [View Rawdata](../../db/l/lego®_batman™_3__beyond_gotham.json)  
 Rating: 4.58 (Ranked 414)  
 Number of Ratings: 513  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 216  (Ranked 247)  
 Sum: 216 (Ranked 344)  
 Diff (max vs sum): -97  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 216 |

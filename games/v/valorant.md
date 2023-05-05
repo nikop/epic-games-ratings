@@ -3,14 +3,10 @@
 [View Rawdata](../../db/v/valorant.json)  
 Rating: 4.54 (Ranked 476)  
 Number of Ratings: 157,172  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 51,180  (Ranked 11)  
 Sum: 386,485 (Ranked 6)  
 Diff (max vs sum): 5  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 51,180 |

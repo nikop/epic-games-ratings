@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/sheltered.json)  
 Rating: 4.42 (Ranked 642)  
 Number of Ratings: 877  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 264  (Ranked 234)  
 Sum: 264 (Ranked 335)  
 Diff (max vs sum): -101  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 264 |

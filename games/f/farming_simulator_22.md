@@ -3,28 +3,24 @@
 [View Rawdata](../../db/f/farming_simulator_22.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 7,683  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 4,166  (Ranked 70)  
-Sum: 36,165 (Ranked 31)  
-Diff (max vs sum): 39  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~31,807 |
-| I read Shakespeare and stuff | 65.00% | ~27,203 |
-| Just a sprinkle | 63.00% | ~26,366 |
-| I'm stumped | 61.00% | ~25,529 |
-| Plant get enough | 61.00% | ~25,529 |
-| It's just the beginning | 59.00% | ~24,692 |
-| This is just my weekend vehicle | 58.00% | ~24,274 |
-| Hard work pays off | 53.00% | ~22,181 |
-| It's never too late to farm | 46.00% | ~19,251 |
-| All out of Land | 44.00% | ~18,414 |
-| Field Trip | 43.00% | ~17,996 |
-| I like to switch it up | 40.00% | ~16,740 |
-| Help me to help you | 38.00% | ~15,903 |
-| Ultimutt Pawesomeness | 28.00% | ~11,718 |
-| Van Gogh | 26.00% | ~10,881 |
+| Own use | 76.00% | ~31,808 |
+| I read Shakespeare and stuff | 65.00% | ~27,204 |
+| Just a sprinkle | 63.00% | ~26,367 |
+| I'm stumped | 61.00% | ~25,530 |
+| Plant get enough | 61.00% | ~25,530 |
+| It's just the beginning | 59.00% | ~24,693 |
+| This is just my weekend vehicle | 58.00% | ~24,275 |
+| Hard work pays off | 53.00% | ~22,182 |
+| It's never too late to farm | 46.00% | ~19,252 |
+| All out of Land | 44.00% | ~18,415 |
+| Field Trip | 43.00% | ~17,997 |
+| I like to switch it up | 40.00% | ~16,741 |
+| Help me to help you | 38.00% | ~15,904 |
+| Ultimutt Pawesomeness | 28.00% | ~11,719 |
+| Van Gogh | 26.00% | ~10,882 |
 | You wood not believe it | 21.00% | ~8,789 |
 | Vehicle fleet | 21.00% | ~8,789 |
 | The plot thickens | 16.00% | ~6,696 |
@@ -54,7 +50,7 @@ Diff (max vs sum): 39
 | You are not a kangaroo | 0.40% | ~167 |
 | Raisin the stakes | 0.30% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,851 (Ranked 77)  
+Progressed: 41,853 (Ranked 77)  
 Completed: 5 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,8 +65,11 @@ Completed: 5 (0.01%) (Ranked 184)
 | 2023-05-02 | 41,749 | 5 |
 | 2023-05-03 | 41,789 | 5 |
 | 2023-05-04 | 41,819 | 5 |
-| 2023-05-05 | 41,851 | 5 |
+| 2023-05-05 | 41,853 | 5 |
 ## Awards
+Max (Great for Beginners): 4,166  (Ranked 70)  
+Sum: 36,173 (Ranked 31)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,166 |
@@ -81,8 +80,8 @@ Completed: 5 (0.01%) (Ranked 184)
 | This game is Highly Recommended | 3,635 |
 | This game has Diverse Characters | 3,561 |
 | This game has Amazing Storytelling | 3,532 |
-| This game has Amazing Characters | 3,153 |
-| This game has a Creative Community | 2,954 |
+| This game has Amazing Characters | 3,155 |
+| This game has a Creative Community | 2,960 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -196,4 +195,4 @@ Completed: 5 (0.01%) (Ranked 184)
 | 2023-05-02 | 4.70 | - | 4,154 | 36,110 |
 | 2023-05-03 | 4.70 | - | 4,160 | 36,131 |
 | 2023-05-04 | 4.70 | - | 4,166 | 36,153 |
-| 2023-05-05 | 4.70 | - | 4,166 | 36,165 |
+| 2023-05-05 | 4.70 | - | 4,166 | 36,173 |

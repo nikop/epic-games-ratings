@@ -1,9 +1,6 @@
 # My Memory of Us
 [Store](https://store.epicgames.com/en-US/p/my-memory-of-us-709675)  
 [View Rawdata](../../db/m/my_memory_of_us.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

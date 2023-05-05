@@ -3,14 +3,10 @@
 [View Rawdata](../../db/l/league_of_legends.json)  
 Rating: 4.21 (Ranked 798)  
 Number of Ratings: 10,796  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 12,929  (Ranked 26)  
 Sum: 26,624 (Ranked 42)  
 Diff (max vs sum): -16  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 12,929 |

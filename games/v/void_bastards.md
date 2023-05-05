@@ -3,14 +3,10 @@
 [View Rawdata](../../db/v/void_bastards.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 986  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great for Quick Sessions): 20  (Ranked 482)  
 Sum: 20 (Ranked 482)  
 Diff (max vs sum): 0  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 20 |

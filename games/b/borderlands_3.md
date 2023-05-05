@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/borderlands_3.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 151,211  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 108,663  (Ranked 8)  
 Sum: 340,517 (Ranked 9)  
 Diff (max vs sum): -1  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 108,663 |

@@ -1,9 +1,6 @@
 # Kombinera
 [Store](https://store.epicgames.com/en-US/p/kombinara-e5baa8)  
 [View Rawdata](../../db/k/kombinera.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

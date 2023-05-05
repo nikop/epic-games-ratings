@@ -3,9 +3,6 @@
 [View Rawdata](../../db/e/elex_ii.json)  
 Rating: 4.28 (Ranked 765)  
 Number of Ratings: 124  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

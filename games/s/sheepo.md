@@ -1,9 +1,6 @@
 # Sheepo
 [Store](https://store.epicgames.com/en-US/p/sheepo-62cd3e)  
 [View Rawdata](../../db/s/sheepo.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

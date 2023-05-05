@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/shapez-0929c9)  
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 178)  
-## Popularity (Based on Awards)
+## Awards
 Max (Challenging Puzzles): 127  (Ranked 295)  
 Sum: 127 (Ranked 385)  
 Diff (max vs sum): -90  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 127 |

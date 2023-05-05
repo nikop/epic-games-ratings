@@ -3,14 +3,10 @@
 [View Rawdata](../../db/d/detroit__become_human.json)  
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 3,910  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Impact the Story): 1,372  (Ranked 117)  
 Sum: 1,476 (Ranked 209)  
 Diff (max vs sum): -92  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 1,372 |

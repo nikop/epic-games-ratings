@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/pascals-wager)  
 [View Rawdata](../../db/p/pascal's_wager__definitive_edition.json)  
 Rating: 4.33 (Ranked 732)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

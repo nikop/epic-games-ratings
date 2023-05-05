@@ -3,14 +3,10 @@
 [View Rawdata](../../db/k/kingdoms_of_amalur__re-reckoning.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 137  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 69  (Ranked 362)  
 Sum: 113 (Ranked 391)  
 Diff (max vs sum): -29  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 69 |

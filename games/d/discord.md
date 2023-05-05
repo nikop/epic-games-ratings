@@ -1,9 +1,6 @@
 # Discord
 [Store](https://store.epicgames.com/en-US/p/discord)  
 [View Rawdata](../../db/d/discord.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

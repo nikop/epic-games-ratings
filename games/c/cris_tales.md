@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/cris_tales.json)  
 Rating: 4.36 (Ranked 702)  
 Number of Ratings: 758  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 170  (Ranked 272)  
 Sum: 170 (Ranked 363)  
 Diff (max vs sum): -91  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 170 |

@@ -1,9 +1,6 @@
 # Deflector
 [Store](https://store.epicgames.com/en-US/p/deflector-fedbe0)  
 [View Rawdata](../../db/d/deflector.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

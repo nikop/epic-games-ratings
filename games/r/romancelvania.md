@@ -1,9 +1,6 @@
 # Romancelvania
 [Store](https://store.epicgames.com/en-US/p/romancelvania-47d94a)  
 [View Rawdata](../../db/r/romancelvania.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

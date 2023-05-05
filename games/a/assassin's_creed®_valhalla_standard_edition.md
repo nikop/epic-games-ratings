@@ -3,14 +3,10 @@
 [View Rawdata](../../db/a/assassin's_creed®_valhalla_standard_edition.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 12,317  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 11,694  (Ranked 29)  
 Sum: 27,088 (Ranked 39)  
 Diff (max vs sum): -10  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 11,694 |

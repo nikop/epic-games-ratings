@@ -1,9 +1,6 @@
 # The Pale Beyond
 [Store](https://store.epicgames.com/en-US/p/the-pale-beyond-e09cae)  
 [View Rawdata](../../db/t/the_pale_beyond.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,9 +1,6 @@
 # Wheels of Aurelia
 [Store](https://store.epicgames.com/en-US/p/wheels-of-aurelia)  
 [View Rawdata](../../db/w/wheels_of_aurelia.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

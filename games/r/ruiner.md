@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/ruiner.json)  
 Rating: 4.53 (Ranked 489)  
 Number of Ratings: 137  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 23  (Ranked 469)  
 Sum: 23 (Ranked 471)  
 Diff (max vs sum): -2  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 23 |

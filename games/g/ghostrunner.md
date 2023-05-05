@@ -3,37 +3,33 @@
 [View Rawdata](../../db/g/ghostrunner.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 1,047  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 454  (Ranked 188)  
-Sum: 586 (Ranked 280)  
-Diff (max vs sum): -92  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,131 |
-| Sword Runner | 62.00% | ~2,457 |
+| Longrunner | 79.00% | ~3,132 |
+| Sword Runner | 62.00% | ~2,458 |
 | Wallrunner | 58.00% | ~2,299 |
-| Running out of breath | 56.00% | ~2,219 |
+| Running out of breath | 56.00% | ~2,220 |
 | Homerunner | 47.00% | ~1,863 |
 | Out of order | 47.00% | ~1,863 |
 | I call it luck | 46.00% | ~1,823 |
 | Where are my Keys? | 44.00% | ~1,744 |
 | Back to hell | 39.00% | ~1,546 |
-| Perfection | 34.00% | ~1,347 |
+| Perfection | 34.00% | ~1,348 |
 | Sword to a gunfight | 32.00% | ~1,268 |
 | Why not both | 32.00% | ~1,268 |
 | Running Wild | 30.00% | ~1,189 |
 | Upgrades not mandatory | 30.00% | ~1,189 |
-| Artificial selection | 29.00% | ~1,149 |
-| Control freak | 29.00% | ~1,149 |
+| Artificial selection | 29.00% | ~1,150 |
+| Control freak | 29.00% | ~1,150 |
 | Finish line | 27.00% | ~1,070 |
 | Unstoppable force | 24.00% | ~951 |
-| Wave of mutilation | 23.00% | ~911 |
+| Wave of mutilation | 23.00% | ~912 |
 | Can't Run Can't Hide | 20.00% | ~793 |
 | R is for Running | 19.00% | ~753 |
 | Dead in the air | 17.00% | ~674 |
-| Improvise, adapt, overrun | 15.00% | ~594 |
-| Pre-empative strike | 15.00% | ~594 |
+| Improvise, adapt, overrun | 15.00% | ~595 |
+| Pre-empative strike | 15.00% | ~595 |
 | More than human | 14.00% | ~555 |
 | Strike | 13.00% | ~515 |
 | Triple A | 10.00% | ~396 |
@@ -56,7 +52,7 @@ Diff (max vs sum): -92
 | Legacy Drivers | 0.50% | ~20 |
 | Up Close And Personal | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,963 (Ranked 126)  
+Progressed: 3,964 (Ranked 126)  
 Completed: 20 (0.50%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,8 +67,11 @@ Completed: 20 (0.50%) (Ranked 98)
 | 2023-05-02 | 3,732 | 19 |
 | 2023-05-03 | 3,816 | 19 |
 | 2023-05-04 | 3,897 | 20 |
-| 2023-05-05 | 3,963 | 20 |
+| 2023-05-05 | 3,964 | 20 |
 ## Awards
+Max (Great Boss Battles): 454  (Ranked 188)  
+Sum: 586 (Ranked 280)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 454 |

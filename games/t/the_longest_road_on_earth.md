@@ -1,9 +1,6 @@
 # The Longest Road on Earth
 [Store](https://store.epicgames.com/en-US/p/the-longest-road-on-earth)  
 [View Rawdata](../../db/t/the_longest_road_on_earth.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

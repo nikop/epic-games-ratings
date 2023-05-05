@@ -3,10 +3,6 @@
 [View Rawdata](../../db/s/shop_titans.json)  
 Rating: 3.98 (Ranked 884)  
 Number of Ratings: 12,664  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Beginners): 4,551  (Ranked 66)  
-Sum: 26,514 (Ranked 43)  
-Diff (max vs sum): 23  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -140,6 +136,9 @@ Completed: 76 (0.06%) (Ranked 161)
 | 2023-05-04 | 127,539 | 76 |
 | 2023-05-05 | 127,601 | 76 |
 ## Awards
+Max (Great for Beginners): 4,551  (Ranked 66)  
+Sum: 26,514 (Ranked 43)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,551 |

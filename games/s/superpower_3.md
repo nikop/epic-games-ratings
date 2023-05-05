@@ -1,9 +1,6 @@
 # SuperPower 3
 [Store](https://store.epicgames.com/en-US/p/superpower-3)  
 [View Rawdata](../../db/s/superpower_3.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,14 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 40.00% | ~4 |
-| Hello World | 30.00% | ~3 |
-| I Think, Therefore I Am | 30.00% | ~3 |
-| The Real Beginning | 30.00% | ~3 |
+| First Day of the Rest of Your Life | 50.00% | ~5 |
+| Hello World | 40.00% | ~4 |
+| I Think, Therefore I Am | 40.00% | ~4 |
+| The Real Beginning | 40.00% | ~4 |
 | Job Creator | 20.00% | ~2 |
+| The Birds and the Bees | 20.00% | ~2 |
 | Shook Up | 10.00% | ~1 |
+| Task Master | 10.00% | ~1 |
 | They Flock to Him | 10.00% | ~1 |
-| The Birds and the Bees | 10.00% | ~1 |
 | A Little Eccentric | 0.00% | ~0 |
 | An Acquired Taste | 0.00% | ~0 |
 | A Real Headache | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Social Butterfly | 0.00% | ~0 |
 | Socially Acceptable Insanity | 0.00% | ~0 |
 | The Companion | 0.00% | ~0 |
-| Task Master | 0.00% | ~0 |
 | Tastes Like Regret | 0.00% | ~0 |
 | That One Doesn't Count | 0.00% | ~0 |
 | The Archetype | 0.00% | ~0 |

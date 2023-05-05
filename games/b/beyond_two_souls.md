@@ -3,14 +3,10 @@
 [View Rawdata](../../db/b/beyond_two_souls.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 348  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Impact the Story): 69  (Ranked 362)  
 Sum: 69 (Ranked 418)  
 Diff (max vs sum): -56  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 69 |

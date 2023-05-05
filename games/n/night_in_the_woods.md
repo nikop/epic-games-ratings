@@ -3,14 +3,10 @@
 [View Rawdata](../../db/n/night_in_the_woods.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 615  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Impact the Story): 139  (Ranked 287)  
 Sum: 139 (Ranked 379)  
 Diff (max vs sum): -92  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 139 |

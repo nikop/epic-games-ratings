@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/mafia___definitive_edition.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 2,035  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 581  (Ranked 167)  
 Sum: 697 (Ranked 261)  
 Diff (max vs sum): -94  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 581 |

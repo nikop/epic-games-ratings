@@ -3,9 +3,6 @@
 [View Rawdata](../../db/c/cryofall.json)  
 Rating: 4.50 (Ranked 531)  
 Number of Ratings: 46  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

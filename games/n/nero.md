@@ -1,9 +1,6 @@
 # NERO
 [Store](https://store.epicgames.com/en-US/p/nero-0011a8)  
 [View Rawdata](../../db/n/nero.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

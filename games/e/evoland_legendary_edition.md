@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec)  
 [View Rawdata](../../db/e/evoland_legendary_edition.json)  
 Rating: 4.49 (Ranked 549)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 271  (Ranked 231)  
 Sum: 271 (Ranked 332)  
 Diff (max vs sum): -101  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 271 |

@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/cook-serve-delicious-2-6db46c)  
 [View Rawdata](../../db/c/cook_serve_delicious_2.json)  
 Rating: 4.82 (Ranked 59)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

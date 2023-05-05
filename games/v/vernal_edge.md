@@ -1,9 +1,6 @@
 # Vernal Edge
 [Store](https://store.epicgames.com/en-US/p/vernal-edge-fdfa3e)  
 [View Rawdata](../../db/v/vernal_edge.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

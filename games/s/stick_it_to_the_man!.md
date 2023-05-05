@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/stick_it_to_the_man!.json)  
 Rating: 4.49 (Ranked 549)  
 Number of Ratings: 70  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

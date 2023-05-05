@@ -3,14 +3,10 @@
 [View Rawdata](../../db/p/poly_bridge_2.json)  
 Rating: 4.55 (Ranked 466)  
 Number of Ratings: 54  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Challenging Puzzles): 32  (Ranked 434)  
 Sum: 32 (Ranked 453)  
 Diff (max vs sum): -19  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 32 |

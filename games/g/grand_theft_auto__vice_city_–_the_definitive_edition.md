@@ -2,10 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
 Rating: 4.66 (Ranked 272)  
-## Popularity (Based on Awards)
-Max (Great Boss Battles): 28  (Ranked 450)  
-Sum: 28 (Ranked 461)  
-Diff (max vs sum): -11  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,7 +33,7 @@ Diff (max vs sum): -11
 | City Sleuth | 2.00% | ~121 |
 | One is Better Than Two | 1.00% | ~60 |
 | Chopper’d Up | 1.00% | ~60 |
-| Daredevil | 0.80% | ~48 |
+| Daredevil | 0.90% | ~54 |
 | Born in the 80’s | 0.70% | ~42 |
 | I'm Famous! | 0.70% | ~42 |
 | Keepie-Uppy Okie Dokie | 0.60% | ~36 |
@@ -61,6 +57,9 @@ Completed: 20 (0.33%) (Ranked 110)
 | 2023-05-04 | 6,028 | 20 |
 | 2023-05-05 | 6,042 | 20 |
 ## Awards
+Max (Great Boss Battles): 28  (Ranked 450)  
+Sum: 28 (Ranked 461)  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 28 |

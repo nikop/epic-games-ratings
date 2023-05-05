@@ -1,9 +1,6 @@
 # AscendantsRising
 [Store](https://store.epicgames.com/en-US/p/ascendantsrising-a8a65a)  
 [View Rawdata](../../db/a/ascendantsrising.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

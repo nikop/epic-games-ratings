@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/fallout-tactics-brotherhood-of-steel)  
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.51 (Ranked 514)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 68  (Ranked 364)  
 Sum: 68 (Ranked 419)  
 Diff (max vs sum): -55  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 68 |

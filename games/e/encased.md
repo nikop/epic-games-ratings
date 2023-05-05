@@ -3,14 +3,10 @@
 [View Rawdata](../../db/e/encased.json)  
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 49  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 125  (Ranked 297)  
 Sum: 125 (Ranked 386)  
 Diff (max vs sum): -89  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 125 |

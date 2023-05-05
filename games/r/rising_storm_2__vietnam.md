@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/rising_storm_2__vietnam.json)  
 Rating: 4.50 (Ranked 531)  
 Number of Ratings: 2,871  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Diverse Characters): 648  (Ranked 160)  
 Sum: 6,040 (Ranked 112)  
 Diff (max vs sum): 48  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 648 |

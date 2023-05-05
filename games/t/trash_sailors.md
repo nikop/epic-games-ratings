@@ -1,9 +1,6 @@
 # Trash Sailors
 [Store](https://store.epicgames.com/en-US/p/trash-sailors-3ae2e5)  
 [View Rawdata](../../db/t/trash_sailors.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

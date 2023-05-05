@@ -3,21 +3,17 @@
 [View Rawdata](../../db/u/unrailed!.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 21,990  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Diverse Characters): 183  (Ranked 262)  
-Sum: 1,497 (Ranked 207)  
-Diff (max vs sum): 55  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,134 |
-| Incurious | 13.00% | ~76,134 |
-| Climate Change | 12.00% | ~70,277 |
-| Stroller | 11.00% | ~64,421 |
-| Toy Train | 10.00% | ~58,564 |
-| Hiker | 9.00% | ~52,708 |
-| Advanced Hiker | 9.00% | ~52,708 |
-| Mojave Courier | 4.00% | ~23,426 |
+| Advanced Stroller | 13.00% | ~76,137 |
+| Incurious | 13.00% | ~76,137 |
+| Climate Change | 12.00% | ~70,280 |
+| Stroller | 11.00% | ~64,424 |
+| Toy Train | 10.00% | ~58,567 |
+| Hiker | 9.00% | ~52,710 |
+| Advanced Hiker | 9.00% | ~52,710 |
+| Mojave Courier | 4.00% | ~23,427 |
 | Voyager | 2.00% | ~11,713 |
 | Advanced Voyager | 2.00% | ~11,713 |
 | Expert Stroller | 2.00% | ~11,713 |
@@ -26,7 +22,7 @@ Diff (max vs sum): 55
 | Marathon | 2.00% | ~11,713 |
 | Destructionist | 2.00% | ~11,713 |
 | Saved by Nausicaä | 2.00% | ~11,713 |
-| Lost | 1.00% | ~5,856 |
+| Lost | 1.00% | ~5,857 |
 | Rocketman | 0.50% | ~2,928 |
 | Shopaholic | 0.50% | ~2,928 |
 | Expert Voyager | 0.40% | ~2,343 |
@@ -63,7 +59,7 @@ Diff (max vs sum): 55
 | Fireworks! | 0.10% | ~586 |
 | 20 Miles under the Sea | 0.10% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585,643 (Ranked 21)  
+Progressed: 585,669 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,8 +74,11 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-02 | 584,620 | 6 |
 | 2023-05-03 | 585,010 | 6 |
 | 2023-05-04 | 585,354 | 6 |
-| 2023-05-05 | 585,643 | 6 |
+| 2023-05-05 | 585,669 | 6 |
 ## Awards
+Max (Diverse Characters): 183  (Ranked 262)  
+Sum: 1,497 (Ranked 207)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 183 |

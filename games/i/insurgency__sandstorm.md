@@ -3,18 +3,14 @@
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 1,316  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 349  (Ranked 209)  
-Sum: 2,615 (Ranked 163)  
-Diff (max vs sum): 46  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,106 |
-| Wallbanger | 5.00% | ~18,106 |
-| Exploitative | 4.00% | ~14,485 |
-| High Speed Low Drag | 4.00% | ~14,485 |
-| Wet Feet | 4.00% | ~14,485 |
+| Point Shooting | 5.00% | ~18,107 |
+| Wallbanger | 5.00% | ~18,107 |
+| Exploitative | 4.00% | ~14,486 |
+| High Speed Low Drag | 4.00% | ~14,486 |
+| Wet Feet | 4.00% | ~14,486 |
 | Checkpoint Victory | 3.00% | ~10,864 |
 | Lucky | 3.00% | ~10,864 |
 | Stylin' | 3.00% | ~10,864 |
@@ -46,7 +42,7 @@ Diff (max vs sum): 46
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,129 (Ranked 35)  
+Progressed: 362,149 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,8 +57,11 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 362,129 | 2 |
+| 2023-05-05 | 362,149 | 2 |
 ## Awards
+Max (Quickly Understood Controls): 349  (Ranked 209)  
+Sum: 2,615 (Ranked 163)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 349 |

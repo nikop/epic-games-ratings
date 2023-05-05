@@ -1,9 +1,6 @@
 # Steel Rats
 [Store](https://store.epicgames.com/en-US/p/steel-rats-445306)  
 [View Rawdata](../../db/s/steel_rats.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

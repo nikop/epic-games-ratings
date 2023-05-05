@@ -3,14 +3,10 @@
 [View Rawdata](../../db/p/predator__hunting_grounds_standard_edition.json)  
 Rating: 4.45 (Ranked 600)  
 Number of Ratings: 1,373  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 847  (Ranked 143)  
 Sum: 2,305 (Ranked 173)  
 Diff (max vs sum): -30  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 847 |

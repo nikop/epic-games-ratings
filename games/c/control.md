@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/control.json)  
 Rating: 4.60 (Ranked 378)  
 Number of Ratings: 16,122  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 8,259  (Ranked 38)  
 Sum: 12,319 (Ranked 69)  
 Diff (max vs sum): -31  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,259 |

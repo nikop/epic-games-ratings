@@ -1,9 +1,6 @@
 # Recursive Ruin
 [Store](https://store.epicgames.com/en-US/p/recursive-ruin-8fa892)  
 [View Rawdata](../../db/r/recursive_ruin.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

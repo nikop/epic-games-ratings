@@ -3,14 +3,10 @@
 [View Rawdata](../../db/r/rage_2.json)  
 Rating: 4.28 (Ranked 765)  
 Number of Ratings: 4,311  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 2,435  (Ranked 91)  
 Sum: 3,247 (Ranked 142)  
 Diff (max vs sum): -51  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,435 |

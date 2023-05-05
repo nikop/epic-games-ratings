@@ -4,7 +4,7 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
@@ -366,8 +366,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-05-05T18:07:13.0732728+00:00",
+  "LastChanged_Achievements": "2023-05-05T19:06:13.6091668+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.6703742+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:58:32.9630837+00:00",
-  "LastUpdate_Achievements": "2023-05-05T18:07:13.0733246+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:58:24.1693973+00:00",
+  "LastUpdate_Achievements": "2023-05-05T19:06:13.6091963+00:00"
 }

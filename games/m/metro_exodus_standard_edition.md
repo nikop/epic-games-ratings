@@ -3,14 +3,10 @@
 [View Rawdata](../../db/m/metro_exodus_standard_edition.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 7,529  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 5,824  (Ranked 55)  
 Sum: 10,723 (Ranked 76)  
 Diff (max vs sum): -21  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,824 |

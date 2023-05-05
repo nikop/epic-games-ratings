@@ -1,9 +1,6 @@
 # Zorro The Chronicles
 [Store](https://store.epicgames.com/en-US/p/zorro-the-chronicles)  
 [View Rawdata](../../db/z/zorro_the_chronicles.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

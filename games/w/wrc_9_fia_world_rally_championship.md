@@ -3,14 +3,10 @@
 [View Rawdata](../../db/w/wrc_9_fia_world_rally_championship.json)  
 Rating: 4.54 (Ranked 476)  
 Number of Ratings: 233  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Competitive Players): 28  (Ranked 450)  
 Sum: 211 (Ranked 346)  
 Diff (max vs sum): 104  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |

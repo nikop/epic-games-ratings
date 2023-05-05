@@ -1,9 +1,6 @@
 # HENCHMAN STORY
 [Store](https://store.epicgames.com/en-US/p/henchman-story-327af4)  
 [View Rawdata](../../db/h/henchman_story.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

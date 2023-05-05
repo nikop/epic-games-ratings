@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/the-last-of-us-part-1)  
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
 Rating: 3.96 (Ranked 888)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  
 Diff (max vs sum): -55  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 66 |

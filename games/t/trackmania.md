@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/trackmania.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 6,825  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 2,533  (Ranked 89)  
-Sum: 21,786 (Ranked 51)  
-Diff (max vs sum): 38  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Great for Quick Sessions): 2,533  (Ranked 89)  
+Sum: 21,791 (Ranked 51)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 2,533 |
@@ -24,7 +20,7 @@ Diff (max vs sum): 38
 | This game has Amazing Storytelling | 1,370 |
 | This game has Challenging Combat | 1,368 |
 | This game has Obsessive Gameplay | 1,144 |
-| This game has Amazing Characters | 1,124 |
+| This game has Amazing Characters | 1,129 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -130,4 +126,4 @@ Diff (max vs sum): 38
 | 2023-05-02 | 4.67 | - | 2,518 | 21,565 |
 | 2023-05-03 | 4.67 | - | 2,525 | 21,657 |
 | 2023-05-04 | 4.67 | - | 2,533 | 21,738 |
-| 2023-05-05 | 4.67 | - | 2,533 | 21,786 |
+| 2023-05-05 | 4.67 | - | 2,533 | 21,791 |

@@ -2,14 +2,10 @@
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
 Rating: 4.76 (Ranked 114)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 40  (Ranked 409)  
 Sum: 40 (Ranked 442)  
 Diff (max vs sum): -33  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 40 |

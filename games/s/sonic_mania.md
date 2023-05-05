@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/sonic_mania.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,185  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 907  (Ranked 141)  
 Sum: 1,536 (Ranked 205)  
 Diff (max vs sum): -64  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 907 |

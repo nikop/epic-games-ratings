@@ -3,14 +3,10 @@
 [View Rawdata](../../db/s/shadowrun__dragonfall_-_director’s_cut.json)  
 Rating: 4.54 (Ranked 476)  
 Number of Ratings: 236  (23.09.2022)  
-## Popularity (Based on Awards)
-Max (Character Customization): 88  (Ranked 336)  
-Sum: 88 (Ranked 401)  
-Diff (max vs sum): -65  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
+Max (Character Customization): 88  (Ranked 336)  
+Sum: 88 (Ranked 402)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |

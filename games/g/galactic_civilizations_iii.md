@@ -3,14 +3,10 @@
 [View Rawdata](../../db/g/galactic_civilizations_iii.json)  
 Rating: 4.21 (Ranked 798)  
 Number of Ratings: 1,085  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Extremely Fun): 175  (Ranked 269)  
 Sum: 1,104 (Ranked 222)  
 Diff (max vs sum): 47  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 175 |

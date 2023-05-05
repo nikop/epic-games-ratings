@@ -3,14 +3,10 @@
 [View Rawdata](../../db/t/the_division_2_standard_edition.json)  
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 6,675  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Character Customization): 6,697  (Ranked 46)  
 Sum: 21,557 (Ranked 52)  
 Diff (max vs sum): -6  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,697 |

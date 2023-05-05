@@ -2,9 +2,6 @@
 [Store](https://store.epicgames.com/en-US/p/flatout-940461)  
 [View Rawdata](../../db/f/flatout.json)  
 Rating: 4.21 (Ranked 798)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

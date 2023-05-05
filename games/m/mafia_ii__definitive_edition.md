@@ -3,9 +3,6 @@
 [View Rawdata](../../db/m/mafia_ii__definitive_edition.json)  
 Rating: 4.42 (Ranked 642)  
 Number of Ratings: 1,020  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |

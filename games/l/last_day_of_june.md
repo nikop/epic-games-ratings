@@ -3,9 +3,6 @@
 [View Rawdata](../../db/l/last_day_of_june.json)  
 Rating: 4.63 (Ranked 328)  
 Number of Ratings: 33  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

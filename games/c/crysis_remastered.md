@@ -3,14 +3,10 @@
 [View Rawdata](../../db/c/crysis_remastered.json)  
 Rating: 4.40 (Ranked 664)  
 Number of Ratings: 697  (23.09.2022)  
-## Popularity (Based on Awards)
+## Awards
 Max (Great Boss Battles): 246  (Ranked 238)  
 Sum: 267 (Ranked 334)  
 Diff (max vs sum): -96  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
-## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 246 |

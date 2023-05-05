@@ -3,9 +3,6 @@
 [View Rawdata](../../db/3/3_out_of_10__season_two.json)  
 Rating: 4.31 (Ranked 747)  
 Number of Ratings: 52  (23.09.2022)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

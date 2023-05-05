@@ -1,9 +1,6 @@
 # Evan's Remains
 [Store](https://store.epicgames.com/en-US/p/evans-remains)  
 [View Rawdata](../../db/e/evan's_remains.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

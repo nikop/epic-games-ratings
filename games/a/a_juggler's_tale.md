@@ -1,9 +1,6 @@
 # A Juggler's Tale
 [Store](https://store.epicgames.com/en-US/p/a-jugglers-tale)  
 [View Rawdata](../../db/a/a_juggler's_tale.json)  
-## Achievements
-| Name | Percentage | Users |
-| ---- | ---------- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
