@@ -1,5 +1,5 @@
 # Human Resource Machine
-[Store](https://store.epicgames.com/en-US/p/human-resource-machine/home)  
+[Store](https://store.epicgames.com/en-US/p/human-resource-machine)  
 [View Rawdata](../../db/h/human_resource_machine.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -54,9 +54,9 @@
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 564
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1204,13 +1204,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:08.6065955+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:18.4259132+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_Completed": 1,
   "EOS_Progressed": 1879,
-  "LastUpdate_Achievements": "2023-05-05T15:04:48.9045375+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:24.1761526+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:18.4260047+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:29.1954354+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:08.6065955+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
@@ -1220,20 +1221,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0.05,
-  "LastChanged_Achievements": "2023-05-05T15:04:48.9044852+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
+  "LastChanged": "2023-05-02T18:57:40.6886277+00:00",
+  "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
+  "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Rating": 4.75,
   "Ranking_Rating": 127,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
+  "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "Ranking_EOS_Completed": 164,
-  "LastChanged": "2023-05-02T18:57:40.6886277+00:00",
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
-  "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "the-mageseeker-a-league-of-legends-story"
+  "Ranking_EOS_NewPlayers": 99
 }

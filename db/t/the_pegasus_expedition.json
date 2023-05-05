@@ -14,13 +14,14 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:50.0779387+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:44.5927623+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:12.2070299+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:06.9792039+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:44.5927663+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:38.3850765+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:50.0779387+00:00",
   "AchievementSets": [
     {
       "ID": "ddbp276",
@@ -30,16 +31,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:12.2070268+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:53.0288612+00:00",
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-03-31T05:57:01.6111102+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:57:01.61111+00:00",
+  "ProductSlug": "the-pegasus-expedition-224279",
+  "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T16:08:53.0288612+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-21T21:30:31.9703237+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:01.61111+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "the-pegasus-expedition-224279"
+  "Ranking_EOS_NewPlayers": 269
 }

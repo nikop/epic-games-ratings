@@ -16,6 +16,7 @@
 | Ball Galore | 3.00% | ~1 |
 | Ball Protector | 3.00% | ~1 |
 | Bullet Hell | 3.00% | ~1 |
+| Detoxed | 3.00% | ~1 |
 | Easy Victory | 3.00% | ~1 |
 | Legendary Destructor | 3.00% | ~1 |
 | Machine Man | 3.00% | ~1 |
@@ -26,7 +27,6 @@
 | Untouchable | 3.00% | ~1 |
 | Ball Collector | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Detoxed | 0.00% | ~0 |
 | Ice Breaker | 0.00% | ~0 |
 | Medium Rare | 0.00% | ~0 |
 | Monster of Fashion | 0.00% | ~0 |

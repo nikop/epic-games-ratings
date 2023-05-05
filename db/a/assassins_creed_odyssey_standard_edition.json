@@ -55,7 +55,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 411
+      "Count": 413
     },
     {
       "Text": "This game is Relaxing",
@@ -3727,32 +3727,38 @@
       "Rating": 4.75,
       "NumberOfAwards": 11775,
       "NumberOfAwardsMax": 4859
+    },
+    {
+      "Time": "2023-05-05T15:36:28.4199927+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11777,
+      "NumberOfAwardsMax": 4859
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:41.6928603+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:03:46.8888249+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:58.7736949+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:03.2511642+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:28.4199933+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:41.6928603+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:36:28.4199924+00:00",
+  "ProductSlug": "assassins-creed-odyssey",
   "Rating": 4.75,
   "Ranking_Rating": 127,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T14:58:58.7736925+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 5481,
-  "NumberOfAwards": 11775,
+  "NumberOfAwards": 11777,
   "NumberOfAwardsMax": 4859,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "assassins-creed-odyssey/home"
+  "Ranking_EOS_NewPlayers": 269
 }

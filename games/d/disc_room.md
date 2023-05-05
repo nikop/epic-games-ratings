@@ -1,5 +1,5 @@
 # DISC ROOM
-[Store](https://store.epicgames.com/en-US/p/disc-room/home)  
+[Store](https://store.epicgames.com/en-US/p/disc-room)  
 [View Rawdata](../../db/d/disc_room.json)  
 ## Achievements
 | Name | Percentage | Users |

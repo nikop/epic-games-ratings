@@ -1,4 +1,4 @@
-# Cyanide & Happiness - Freakpocalypse
+# Cyanide & Happiness - Freakpocalypse (Episode 1)
 [Store](https://store.epicgames.com/en-US/p/cyanide-happiness-freakpocalypse)  
 [View Rawdata](../../db/c/cyanide_&_happiness_-_freakpocalypse.json)  
 ## Achievements

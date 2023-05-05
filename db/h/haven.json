@@ -453,13 +453,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:46.7734029+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:46.3246871+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 8,
   "EOS_Completed": 8,
   "EOS_Progressed": 1105,
-  "LastUpdate_Achievements": "2023-05-05T15:05:13.8962892+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:03.4297581+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:46.3247155+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:34.2855282+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:46.7734029+00:00",
   "AchievementSets": [
     {
       "ID": "n50no0",
@@ -469,20 +470,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0.72,
-  "LastChanged_Achievements": "2023-05-05T15:05:13.8962661+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
+  "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
+  "ProductSlug": "haven",
   "Rating": 4.73,
   "Ranking_Rating": 157,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 156,
+  "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "Ranking_EOS_Completed": 90,
-  "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 38,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "haven"
+  "Ranking_EOS_NewPlayers": 179
 }

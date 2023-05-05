@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.75% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.72% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -33,12 +33,12 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.62% |
-| 35 | [The Complex](games/t/the_complex.md) | 3.56% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.56% |
+| 34 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
-| 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.21% |
+| 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.18% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
@@ -136,7 +136,7 @@
 | 134 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 136 | [Dead Island 2](games/d/dead_island_2.md) | 0.16% |
-| 136 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
+| 136 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 139 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 139 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
@@ -170,7 +170,7 @@
 | 167 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.04% |
 | 167 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 167 | [House Party](games/h/house_party.md) | 0.04% |
-| 167 | [Outward](games/o/outward.md) | 0.04% |
+| 167 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
 | 167 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 173 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 173 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
@@ -299,7 +299,7 @@
 | 191 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
 | 191 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
 | 191 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
-| 191 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
+| 191 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 191 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
 | 191 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
 | 191 | [PERISH](games/p/perish.md) | 0.00% |
@@ -339,14 +339,14 @@
 | 191 | [Showgunners](games/s/showgunners.md) | 0.00% |
 | 191 | [Silence](games/s/silence.md) | 0.00% |
 | 191 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
-| 191 | [Spacebase Startopia](games/s/spacebase_startopia.md) | 0.00% |
+| 191 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 191 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
 | 191 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
 | 191 | [Strawhart](games/s/strawhart.md) | 0.00% |
 | 191 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
 | 191 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
 | 191 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 0.00% |
-| 191 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
+| 191 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
 | 191 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 0.00% |
 | 191 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 0.00% |
 | 191 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |

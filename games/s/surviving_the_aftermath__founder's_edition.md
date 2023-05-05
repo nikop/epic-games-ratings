@@ -1,5 +1,5 @@
-# Surviving the Aftermath: Founder's Edition
-[Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath/home)  
+# Surviving the Aftermath
+[Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 836  (23.09.2022)  
@@ -16,7 +16,7 @@ Diff (max vs sum): 54
 | Healer | 52.00% | ~2,545 |
 | Aspiring Inventor | 45.00% | ~2,203 |
 | Adventurer | 41.00% | ~2,007 |
-| Famous Healer | 37.00% | ~1,811 |
+| Famous Healer | 38.00% | ~1,860 |
 | Local Leader | 35.00% | ~1,713 |
 | New Opportunities | 34.00% | ~1,664 |
 | Famous Explorer | 33.00% | ~1,615 |

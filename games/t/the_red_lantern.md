@@ -1,5 +1,5 @@
 # The Red Lantern
-[Store](https://store.epicgames.com/en-US/p/the-red-lantern/home)  
+[Store](https://store.epicgames.com/en-US/p/the-red-lantern)  
 [View Rawdata](../../db/t/the_red_lantern.json)  
 Rating: 4.70 (Ranked 192)  
 ## Achievements

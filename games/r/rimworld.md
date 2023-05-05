@@ -1,5 +1,5 @@
 # RimWorld
-[Store](https://store.epicgames.com/en-US/p/rimworld/home)  
+[Store](https://store.epicgames.com/en-US/p/rimworld)  
 [View Rawdata](../../db/r/rimworld.json)  
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 870  (23.09.2022)  

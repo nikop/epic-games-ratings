@@ -1,5 +1,5 @@
 # INSIDE
-[Store](https://store.epicgames.com/en-US/p/inside/home)  
+[Store](https://store.epicgames.com/en-US/p/inside)  
 [View Rawdata](../../db/i/inside.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 1,592  (23.09.2022)  

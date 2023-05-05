@@ -1,5 +1,5 @@
 # Surgeon Simulator 2
-[Store](https://store.epicgames.com/en-US/p/surgeon-simulator-2/home)  
+[Store](https://store.epicgames.com/en-US/p/surgeon-simulator-2)  
 [View Rawdata](../../db/s/surgeon_simulator_2.json)  
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 22  (23.09.2022)  

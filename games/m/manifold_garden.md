@@ -1,5 +1,5 @@
 # Manifold Garden
-[Store](https://store.epicgames.com/en-US/p/manifold-garden/home)  
+[Store](https://store.epicgames.com/en-US/p/manifold-garden)  
 [View Rawdata](../../db/m/manifold_garden.json)  
 ## Achievements
 | Name | Percentage | Users |

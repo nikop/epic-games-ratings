@@ -1,5 +1,5 @@
 # The Outer Worlds
-[Store](https://store.epicgames.com/en-US/p/the-outer-worlds/home)  
+[Store](https://store.epicgames.com/en-US/p/the-outer-worlds)  
 [View Rawdata](../../db/t/the_outer_worlds.json)  
 Rating: 4.63 (Ranked 328)  
 Number of Ratings: 2,487  (23.09.2022)  

@@ -1,5 +1,5 @@
 # Ooblets
-[Store](https://store.epicgames.com/en-US/p/ooblets/home)  
+[Store](https://store.epicgames.com/en-US/p/ooblets)  
 [View Rawdata](../../db/o/ooblets.json)  
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,446  (23.09.2022)  

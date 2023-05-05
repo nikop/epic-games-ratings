@@ -350,13 +350,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:51.3826602+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:15.9052898+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 11,
   "EOS_Completed": 9,
   "EOS_Progressed": 134,
-  "LastUpdate_Achievements": "2023-05-05T15:04:46.4838024+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:05.5481492+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:15.9053254+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:05.8590057+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:51.3826602+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",
@@ -366,16 +367,15 @@
     }
   ],
   "EOS_Completed_Percentage": 6.72,
-  "LastChanged_Achievements": "2023-05-05T15:04:46.4837849+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 20,
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "Ranking_EOS_NewPlayers": 172,
+  "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
+  "ProductSlug": "sherlock-holmes-the-awakened",
+  "Ranking_EOS_Progress": 239,
+  "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_NewCompleters": 49,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
-  "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
-  "Ranking_EOS_NewCompleters": 49,
-  "ProductSlug": "sherlock-holmes-the-awakened"
+  "Ranking_EOS_NewPlayers": 171
 }

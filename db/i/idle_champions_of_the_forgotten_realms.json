@@ -888,7 +888,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_1208",
@@ -1646,9 +1646,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_284",
@@ -5119,6 +5119,11 @@
       "Time": "2023-05-05T15:05:19.9586072+00:00",
       "NumProgressed": 86537,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T15:42:53.8709818+00:00",
+      "NumProgressed": 86540,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8582,43 +8587,43 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:29.6230385+00:00",
-  "EOS_NewCompleters": 21,
-  "EOS_NewPlayers": 794,
+  "LastChanged_Achievements": "2023-05-05T15:42:53.8709812+00:00",
+  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 793,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86537,
-  "LastUpdate_Achievements": "2023-05-05T15:05:19.9608837+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:47.3636673+00:00",
+  "EOS_Progressed": 86540,
+  "LastUpdate_Achievements": "2023-05-05T15:42:53.8738498+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:56.4011442+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:29.6230385+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52811,
+      "Progressed": 52814,
       "Completed": 2465
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86537,
+      "Progressed": 86540,
       "Completed": 1805
     }
   ],
   "EOS_Completed_Percentage": 2.09,
-  "LastChanged_Achievements": "2023-05-05T15:05:19.9586068+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
+  "LastChanged": "2023-05-05T03:58:03.2515102+00:00",
+  "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Rating": 4.06,
   "Ranking_Rating": 867,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
+  "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "Ranking_EOS_Completed": 55,
-  "LastChanged": "2023-05-05T03:58:03.2515102+00:00",
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 10,
   "NumberOfRatings": 9041,
   "NumberOfAwards": 29803,
   "NumberOfAwardsMax": 4865,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "Ranking_EOS_NewCompleters": 10,
-  "ProductSlug": "idle-champions-of-the-forgotten-realms"
+  "Ranking_EOS_NewPlayers": 59
 }

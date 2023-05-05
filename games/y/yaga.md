@@ -1,5 +1,5 @@
 # Yaga
-[Store](https://store.epicgames.com/en-US/p/yaga/home)  
+[Store](https://store.epicgames.com/en-US/p/yaga)  
 [View Rawdata](../../db/y/yaga.json)  
 ## Achievements
 | Name | Percentage | Users |

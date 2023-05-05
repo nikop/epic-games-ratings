@@ -1,5 +1,5 @@
 # Dying Light 2 Stay Human
-[Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human  )  
+[Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 7,305  (23.09.2022)  
@@ -10,45 +10,45 @@ Diff (max vs sum): -13
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,647 |
-| Into the Unknown | 8.00% | ~43,242 |
-| First Shot | 8.00% | ~43,242 |
-| Herzlich Wilkommen! | 7.00% | ~37,837 |
-| Sancho Panza | 7.00% | ~37,837 |
-| Good Night & Good Luck | 7.00% | ~37,837 |
-| Under Pressure | 6.00% | ~32,432 |
-| Flag Burning | 6.00% | ~32,432 |
-| Oh, So This Is How It Works! | 6.00% | ~32,432 |
-| On the Trail of the Enemy | 5.00% | ~27,026 |
-| Light in the Darkness | 5.00% | ~27,026 |
-| Get Outta My House! | 5.00% | ~27,026 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,026 |
-| Night Hunter | 5.00% | ~27,026 |
-| Being All Social | 5.00% | ~27,026 |
-| Debris and Ashes | 4.00% | ~21,621 |
-| We Will Be Heard! | 4.00% | ~21,621 |
-| Known Associate | 4.00% | ~21,621 |
-| Brush with Death | 4.00% | ~21,621 |
-| Tunnel Entrance | 4.00% | ~21,621 |
-| After the Fall | 4.00% | ~21,621 |
-| Can't Touch This! | 4.00% | ~21,621 |
-| Going Down | 3.00% | ~16,216 |
-| Family First | 3.00% | ~16,216 |
-| Your World, Your Rules | 3.00% | ~16,216 |
-| Death From Afar | 3.00% | ~16,216 |
-| Terminal Headache | 3.00% | ~16,216 |
-| Slowpoke! | 3.00% | ~16,216 |
-| Tickets, Please! | 2.00% | ~10,810 |
-| Parkour Master | 2.00% | ~10,810 |
-| Combat Master | 2.00% | ~10,810 |
-| You're Going Down! | 2.00% | ~10,810 |
-| Municipal Services | 1.00% | ~5,405 |
-| Tube Map | 1.00% | ~5,405 |
-| Don Quixote | 1.00% | ~5,405 |
-| Can't You Read the Signs? | 1.00% | ~5,405 |
-| Ban Hammer | 1.00% | ~5,405 |
-| Modder | 1.00% | ~5,405 |
-| Ironheart | 1.00% | ~5,405 |
+| You Never Forget Your First... | 9.00% | ~48,650 |
+| Into the Unknown | 8.00% | ~43,244 |
+| First Shot | 8.00% | ~43,244 |
+| Herzlich Wilkommen! | 7.00% | ~37,839 |
+| Sancho Panza | 7.00% | ~37,839 |
+| Good Night & Good Luck | 7.00% | ~37,839 |
+| Under Pressure | 6.00% | ~32,433 |
+| Flag Burning | 6.00% | ~32,433 |
+| Oh, So This Is How It Works! | 6.00% | ~32,433 |
+| On the Trail of the Enemy | 5.00% | ~27,028 |
+| Light in the Darkness | 5.00% | ~27,028 |
+| Get Outta My House! | 5.00% | ~27,028 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,028 |
+| Night Hunter | 5.00% | ~27,028 |
+| Being All Social | 5.00% | ~27,028 |
+| Debris and Ashes | 4.00% | ~21,622 |
+| We Will Be Heard! | 4.00% | ~21,622 |
+| Known Associate | 4.00% | ~21,622 |
+| Brush with Death | 4.00% | ~21,622 |
+| Tunnel Entrance | 4.00% | ~21,622 |
+| After the Fall | 4.00% | ~21,622 |
+| Can't Touch This! | 4.00% | ~21,622 |
+| Going Down | 3.00% | ~16,217 |
+| Family First | 3.00% | ~16,217 |
+| Your World, Your Rules | 3.00% | ~16,217 |
+| Death From Afar | 3.00% | ~16,217 |
+| Terminal Headache | 3.00% | ~16,217 |
+| Slowpoke! | 3.00% | ~16,217 |
+| Tickets, Please! | 2.00% | ~10,811 |
+| Parkour Master | 2.00% | ~10,811 |
+| Combat Master | 2.00% | ~10,811 |
+| You're Going Down! | 2.00% | ~10,811 |
+| Municipal Services | 1.00% | ~5,406 |
+| Tube Map | 1.00% | ~5,406 |
+| Don Quixote | 1.00% | ~5,406 |
+| Can't You Read the Signs? | 1.00% | ~5,406 |
+| Ban Hammer | 1.00% | ~5,406 |
+| Modder | 1.00% | ~5,406 |
+| Ironheart | 1.00% | ~5,406 |
 | Nemesis | 1.00% | ~1,860 |
 | Enter the Hall | 0.90% | ~1,674 |
 | That's Teamwork! | 0.80% | ~4,324 |
@@ -76,7 +76,7 @@ Diff (max vs sum): -13
 | True Champion | 0.10% | ~186 |
 | Connoisseur | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,525 (Ranked 22)  
+Progressed: 540,554 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 46 (0.01%) (Ranked 184)
 | 2023-05-02 | 538,429 | 46 |
 | 2023-05-03 | 539,308 | 46 |
 | 2023-05-04 | 540,116 | 46 |
-| 2023-05-05 | 540,525 | 46 |
+| 2023-05-05 | 540,554 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

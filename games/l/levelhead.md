@@ -1,5 +1,5 @@
 # Levelhead
-[Store](https://store.epicgames.com/en-US/p/levelhead/home)  
+[Store](https://store.epicgames.com/en-US/p/levelhead)  
 [View Rawdata](../../db/l/levelhead.json)  
 ## Achievements
 | Name | Percentage | Users |

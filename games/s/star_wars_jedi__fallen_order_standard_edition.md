@@ -1,5 +1,5 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
-[Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order/home)  
+[Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
 Rating: 4.66 (Ranked 272)  
 ## Achievements

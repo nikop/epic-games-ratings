@@ -158,9 +158,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_021",
@@ -432,13 +432,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:28.9528555+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:21.5759655+00:00",
   "EOS_NewCompleters": 8,
   "EOS_NewPlayers": 30,
   "EOS_Completed": 10,
   "EOS_Progressed": 55,
-  "LastUpdate_Achievements": "2023-05-05T15:04:51.5230236+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:45.9596286+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:21.5759849+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:55.5297208+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:28.9528555+00:00",
   "AchievementSets": [
     {
       "ID": "3khpmem",
@@ -448,16 +449,15 @@
     }
   ],
   "EOS_Completed_Percentage": 18.18,
-  "LastChanged_Achievements": "2023-05-05T15:04:51.5230055+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
-  "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 6,
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "Ranking_EOS_NewPlayers": 140,
+  "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
+  "ProductSlug": "island-cities-0a3026",
+  "Ranking_EOS_Progress": 268,
+  "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
+  "Ranking_EOS_Completed": 6,
+  "Ranking_EOS_NewCompleters": 20,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
-  "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
-  "Ranking_EOS_NewCompleters": 20,
-  "ProductSlug": "island-cities-0a3026"
+  "Ranking_EOS_NewPlayers": 140
 }

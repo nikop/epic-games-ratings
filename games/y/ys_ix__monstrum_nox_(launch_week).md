@@ -1,4 +1,4 @@
-# Ys IX: Monstrum Nox (Launch Week)
+# Ys IX: Monstrum Nox
 [Store](https://store.epicgames.com/en-US/p/ys-ix-monstrum-nox)  
 [View Rawdata](../../db/y/ys_ix__monstrum_nox_(launch_week).json)  
 Rating: 4.69 (Ranked 213)  

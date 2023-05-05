@@ -19,7 +19,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3051
+      "Count": 3054
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4096,32 +4096,38 @@
       "Rating": 4.59,
       "NumberOfAwards": 22964,
       "NumberOfAwardsMax": 3163
+    },
+    {
+      "Time": "2023-05-05T15:37:37.9864848+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 22967,
+      "NumberOfAwardsMax": 3163
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:36.3391743+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:31.4743877+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:54.9293521+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:58.1731676+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:37.9864855+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:36.3391743+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:37:37.9864844+00:00",
+  "ProductSlug": "thehunter-call-of-the-wild",
   "Rating": 4.59,
   "Ranking_Rating": 395,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T12:00:50.5001339+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 14635,
-  "NumberOfAwards": 22964,
+  "NumberOfAwards": 22967,
   "NumberOfAwardsMax": 3163,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "thehunter-call-of-the-wild"
+  "Ranking_EOS_NewPlayers": 269
 }

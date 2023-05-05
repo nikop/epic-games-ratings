@@ -31,11 +31,11 @@
 | Accomplished Smithy | 33.00% | ~4 |
 | The Blight's Blight | 33.00% | ~4 |
 | Break The Cycle | 33.00% | ~4 |
+| Continue The Cycle | 33.00% | ~4 |
 | Stand By Nature | 33.00% | ~4 |
 | The Milk Canal | 33.00% | ~4 |
 | Fledgling Smithy | 33.00% | ~4 |
 | At One With Nature | 33.00% | ~4 |
-| Continue The Cycle | 25.00% | ~3 |
 | Talent And Dedication | 17.00% | ~2 |
 | Read, Read, Read | 8.00% | ~1 |
 | Ledge-walker | 8.00% | ~1 |

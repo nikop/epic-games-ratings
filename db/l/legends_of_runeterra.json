@@ -61,7 +61,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1111,32 +1111,38 @@
       "Rating": 4.65,
       "NumberOfAwards": 1292,
       "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2023-05-05T15:37:05.3146151+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1293,
+      "NumberOfAwardsMax": 151
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:12.3931427+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:00:01.3630112+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:30.0119127+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:37:48.0821446+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:05.3146157+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:12.3931427+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:37:05.3146147+00:00",
+  "ProductSlug": "legends-of-runeterra",
   "Rating": 4.65,
   "Ranking_Rating": 290,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T14:59:30.0118834+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 431,
-  "NumberOfAwards": 1292,
+  "NumberOfAwards": 1293,
   "NumberOfAwardsMax": 151,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "legends-of-runeterra"
+  "Ranking_EOS_NewPlayers": 269
 }

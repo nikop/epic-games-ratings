@@ -1,4 +1,4 @@
-# Mafia : Definitive Edition
+# Mafia: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-definitive-edition)  
 [View Rawdata](../../db/m/mafia___definitive_edition.json)  
 Rating: 4.62 (Ranked 338)  

@@ -1,5 +1,5 @@
 # Back 4 Blood: Standard Edition
-[Store](https://store.epicgames.com/en-US/p/back-4-blood/home)  
+[Store](https://store.epicgames.com/en-US/p/back-4-blood)  
 [View Rawdata](../../db/b/back_4_blood__standard_edition.json)  
 Rating: 4.46 (Ranked 591)  
 Number of Ratings: 2,790  (23.09.2022)  

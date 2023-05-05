@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:22.9539249+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:58.1088477+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:23.9511719+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:40.8848911+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:58.1088521+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:19.8857617+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:22.9539249+00:00",
   "AchievementSets": [
     {
       "ID": "ccj6ce3",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:23.9511677+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:53:20.7258091+00:00",
+  "ProductSlug": "tiny-troopers-global-ops-4ac32b",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:53:20.7258091+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "tiny-troopers-global-ops-4ac32b"
+  "Ranking_EOS_NewPlayers": 269
 }

@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472056
+      "UsersEstimate": 472059
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380267
+      "UsersEstimate": 380269
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24,7 +24,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150796
+      "UsersEstimate": 150797
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -72,7 +72,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65563
+      "UsersEstimate": 65564
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -80,7 +80,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45894
+      "UsersEstimate": 45895
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -104,7 +104,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65563
+      "UsersEstimate": 65564
     },
     {
       "ID": "Achievement_14_Magician",
@@ -144,7 +144,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150796
+      "UsersEstimate": 150797
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -240,7 +240,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45894
+      "UsersEstimate": 45895
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163908
+      "UsersEstimate": 163909
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -1447,6 +1447,11 @@
       "Time": "2023-05-05T15:04:45.1622128+00:00",
       "NumProgressed": 655633,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T15:42:14.2546933+00:00",
+      "NumProgressed": 655637,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2210,37 +2215,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:05.5075646+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:14.2546927+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 391,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655633,
-  "LastUpdate_Achievements": "2023-05-05T15:04:45.1622576+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:20.5582008+00:00",
+  "EOS_Progressed": 655637,
+  "LastUpdate_Achievements": "2023-05-05T15:42:14.2547709+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:24.5160627+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:05.5075646+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655633,
+      "Progressed": 655637,
       "Completed": 164
     }
   ],
   "EOS_Completed_Percentage": 0.03,
-  "LastChanged_Achievements": "2023-05-05T15:04:45.1622123+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
+  "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
+  "ProductSlug": "hand-of-fate-2",
   "Rating": 4.57,
   "Ranking_Rating": 428,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 18,
+  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "Ranking_EOS_Completed": 173,
-  "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 780,
   "NumberOfAwards": 180,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "hand-of-fate-2"
+  "Ranking_EOS_NewPlayers": 83
 }

@@ -1,5 +1,5 @@
 # Afterparty
-[Store](https://store.epicgames.com/en-US/p/afterparty/home)  
+[Store](https://store.epicgames.com/en-US/p/afterparty)  
 [View Rawdata](../../db/a/afterparty.json)  
 ## Achievements
 | Name | Percentage | Users |

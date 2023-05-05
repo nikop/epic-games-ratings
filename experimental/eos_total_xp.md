@@ -17,7 +17,7 @@
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
-| [Pathfinder: Wrath of the Righteous](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
+| [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
@@ -178,7 +178,7 @@
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 61 | 1,000 |
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 |
-| [HITMAN 3](../games/h/hitman_3.md) | 47 | 1,000 |
+| [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
 | [Hogwarts Legacy](../games/h/hogwarts_legacy.md) | 45 | 1,000 |
 | [HordeCore](../games/h/hordecore.md) | 28 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
@@ -241,7 +241,7 @@
 | [One Hand Clapping](../games/o/one_hand_clapping.md) | 28 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
-| [Outward](../games/o/outward.md) | 42 | 1,000 |
+| [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
 | [Overloop](../games/o/overloop.md) | 21 | 1,000 |
 | [Oxide Room 104](../games/o/oxide_room_104.md) | 31 | 1,000 |
 | [Panic Porcupine](../games/p/panic_porcupine.md) | 13 | 1,000 |
@@ -315,7 +315,7 @@
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
-| [Spacebase Startopia](../games/s/spacebase_startopia.md) | 30 | 1,000 |
+| [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
 | [Star Trek Prodigy: Supernova](../games/s/star_trek_prodigy__supernova.md) | 41 | 1,000 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
@@ -328,7 +328,7 @@
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
 | [Supraland Six Inches Under](../games/s/supraland_six_inches_under.md) | 53 | 1,000 |
-| [Surviving the Aftermath: Founder's Edition](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
+| [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |

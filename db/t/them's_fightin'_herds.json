@@ -72,7 +72,7 @@
       "Name": "Once upon a time...",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 77104
+      "UsersEstimate": 77106
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -152,7 +152,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 74901
+      "UsersEstimate": 74903
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -1383,6 +1383,11 @@
       "Time": "2023-05-05T15:05:16.9997113+00:00",
       "NumProgressed": 220298,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T15:42:50.0245216+00:00",
+      "NumProgressed": 220302,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -1543,36 +1548,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:58.1425935+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:50.0245211+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 692,
   "EOS_Completed": 2,
-  "EOS_Progressed": 220298,
-  "LastUpdate_Achievements": "2023-05-05T15:05:16.9997358+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:15.2988964+00:00",
+  "EOS_Progressed": 220302,
+  "LastUpdate_Achievements": "2023-05-05T15:42:50.0245484+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:48.735425+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:58.1425935+00:00",
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 220298,
+      "Progressed": 220302,
       "Completed": 2
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:16.999711+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
+  "LastChanged": "2023-05-01T03:59:55.6951635+00:00",
+  "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
+  "ProductSlug": "thems-fightin-herds",
   "Rating": 4.62,
   "Ranking_Rating": 338,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 44,
+  "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-01T03:59:55.6951635+00:00",
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
-  "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "thems-fightin-herds/home"
+  "Ranking_EOS_NewPlayers": 65
 }

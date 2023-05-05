@@ -34,8 +34,8 @@ Rating: 4.50 (Ranked 531)
 | Wide Selection | 5.00% | ~18 |
 | Soldier | 5.00% | ~18 |
 | Android Power | 5.00% | ~18 |
+| Shopaholic | 3.00% | ~11 |
 | Zombie Lover | 3.00% | ~11 |
-| Shopaholic | 2.00% | ~7 |
 | Full House | 1.00% | ~4 |
 | Munchkin | 1.00% | ~4 |
 | Vet | 0.60% | ~2 |

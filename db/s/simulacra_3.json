@@ -206,13 +206,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:16.169547+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:56.0672624+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T15:05:22.0530901+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:33.852922+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:56.0672818+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:10.4865736+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:16.169547+00:00",
   "AchievementSets": [
     {
       "ID": "5pchd6l",
@@ -222,11 +223,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:22.0530745+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00",
+  "ProductSlug": "simulacra-3-61a15e",
   "Ranking_EOS_Progress": 356,
+  "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "simulacra-3-61a15e"
+  "Ranking_EOS_NewPlayers": 269
 }

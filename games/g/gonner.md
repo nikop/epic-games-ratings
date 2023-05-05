@@ -1,5 +1,5 @@
 # GoNNER
-[Store](https://store.epicgames.com/en-US/p/gonner/home)  
+[Store](https://store.epicgames.com/en-US/p/gonner)  
 [View Rawdata](../../db/g/gonner.json)  
 ## Achievements
 | Name | Percentage | Users |

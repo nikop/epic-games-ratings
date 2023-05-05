@@ -1,5 +1,5 @@
 # SuperMash
-[Store](https://store.epicgames.com/en-US/p/supermash/home)  
+[Store](https://store.epicgames.com/en-US/p/supermash)  
 [View Rawdata](../../db/s/supermash.json)  
 ## Achievements
 | Name | Percentage | Users |

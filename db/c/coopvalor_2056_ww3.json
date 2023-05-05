@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:49.2517798+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:06.6384293+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:38.5397237+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:03.6074722+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:06.6384332+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:03.3596502+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:49.2517798+00:00",
   "AchievementSets": [
     {
       "ID": "allig9c",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:38.539721+00:00",
-  "FirstSeenAchievements": "2023-04-27T07:00:05.0177716+00:00",
+  "ProductSlug": "coopvalor-wwii-718385",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-27T07:00:05.0177716+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "coopvalor-wwii-718385"
+  "Ranking_EOS_NewPlayers": 269
 }

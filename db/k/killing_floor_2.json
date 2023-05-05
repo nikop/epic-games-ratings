@@ -55,7 +55,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1480
+      "Count": 1484
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4376,32 +4376,38 @@
       "Rating": 4.41,
       "NumberOfAwards": 25662,
       "NumberOfAwardsMax": 11874
+    },
+    {
+      "Time": "2023-05-05T15:37:21.4756327+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 25666,
+      "NumberOfAwardsMax": 11874
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:24.0692597+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:20.64408+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:42.1190382+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:44.3610267+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:21.4756336+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:24.0692597+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:37:21.4756324+00:00",
+  "ProductSlug": "killing-floor-2",
   "Rating": 4.41,
   "Ranking_Rating": 651,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T06:00:22.1149362+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 18418,
-  "NumberOfAwards": 25662,
+  "NumberOfAwards": 25666,
   "NumberOfAwardsMax": 11874,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "killing-floor-2"
+  "Ranking_EOS_NewPlayers": 269
 }

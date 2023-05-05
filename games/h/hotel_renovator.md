@@ -9,7 +9,7 @@ Rating: 4.50 (Ranked 531)
 | And so it begins | 72.00% | ~517 |
 | No pressure | 69.00% | ~495 |
 | Memento | 61.00% | ~438 |
-| Let there be light | 58.00% | ~416 |
+| Let there be light | 59.00% | ~424 |
 | I think you dropped this | 55.00% | ~395 |
 | Soulmate? | 52.00% | ~373 |
 | Excellent service | 47.00% | ~337 |

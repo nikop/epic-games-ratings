@@ -31,7 +31,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10423
+      "Count": 10424
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4234,32 +4234,38 @@
       "Rating": 4.39,
       "NumberOfAwards": 88151,
       "NumberOfAwardsMax": 11647
+    },
+    {
+      "Time": "2023-05-05T15:37:03.5509604+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 88152,
+      "NumberOfAwardsMax": 11647
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:10.7814003+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:08.0171057+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:28.6988888+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:29.0994142+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:03.550961+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:10.7814003+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:37:03.55096+00:00",
+  "ProductSlug": "nba-2k21",
   "Rating": 4.39,
   "Ranking_Rating": 680,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-04T18:59:26.9360822+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 43722,
-  "NumberOfAwards": 88151,
+  "NumberOfAwards": 88152,
   "NumberOfAwardsMax": 11647,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "nba-2k21"
+  "Ranking_EOS_NewPlayers": 269
 }

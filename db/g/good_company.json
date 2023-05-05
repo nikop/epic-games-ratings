@@ -984,13 +984,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 76,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:18.1564307+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:40.7709608+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 28,
   "EOS_Completed": 1,
   "EOS_Progressed": 4705,
-  "LastUpdate_Achievements": "2023-05-05T15:05:08.9395557+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:35.8314429+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:40.7711128+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:56.5530238+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:18.1564307+00:00",
   "AchievementSets": [
     {
       "ID": "8cb3id7",
@@ -1000,20 +1001,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T15:05:08.939479+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
+  "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
+  "ProductSlug": "good-company",
   "Rating": 4.43,
   "Ranking_Rating": 635,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 123,
+  "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "Ranking_EOS_Completed": 175,
-  "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 75,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "good-company"
+  "Ranking_EOS_NewPlayers": 143
 }

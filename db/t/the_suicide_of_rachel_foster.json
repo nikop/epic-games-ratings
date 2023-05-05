@@ -449,13 +449,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:12.6534772+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:54.6190867+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 17,
   "EOS_Completed": 50,
   "EOS_Progressed": 1000,
-  "LastUpdate_Achievements": "2023-05-05T15:05:20.9185159+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:30.384248+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:54.6190988+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:05.8390237+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:12.6534772+00:00",
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
@@ -465,20 +466,19 @@
     }
   ],
   "EOS_Completed_Percentage": 5,
-  "LastChanged_Achievements": "2023-05-05T15:05:20.9185045+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
+  "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
+  "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
   "Rating": 4.18,
   "Ranking_Rating": 821,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 161,
+  "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "Ranking_EOS_Completed": 24,
-  "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 49,
   "NumberOfRatings": 71,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
-  "Ranking_EOS_NewCompleters": 49,
-  "ProductSlug": "the-suicide-of-rachel-foster-1dc01b"
+  "Ranking_EOS_NewPlayers": 158
 }

@@ -1,5 +1,5 @@
 # Nuclear Throne
-[Store](https://store.epicgames.com/en-US/p/nuclear-throne/home)  
+[Store](https://store.epicgames.com/en-US/p/nuclear-throne)  
 [View Rawdata](../../db/n/nuclear_throne.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 631  (23.09.2022)  

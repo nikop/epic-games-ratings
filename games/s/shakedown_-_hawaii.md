@@ -1,5 +1,5 @@
 # Shakedown - Hawaii
-[Store](https://store.epicgames.com/en-US/p/shakedown-hawaii/home)  
+[Store](https://store.epicgames.com/en-US/p/shakedown-hawaii)  
 [View Rawdata](../../db/s/shakedown_-_hawaii.json)  
 ## Achievements
 | Name | Percentage | Users |

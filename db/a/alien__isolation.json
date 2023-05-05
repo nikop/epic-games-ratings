@@ -1,6 +1,6 @@
 {
   "ID": "df37f065c3f14eadbf011177396e2966",
-  "Name": "Alien: Isolation ",
+  "Name": "Alien: Isolation",
   "Achievements": [],
   "Tags": [
     {
@@ -1945,28 +1945,28 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:25.9410461+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:02:23.8970512+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:43.1139027+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:40:11.0002002+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:51.7963115+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:25.9410461+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-03T06:57:49.3371876+00:00",
+  "ProductSlug": "alien-isolation",
   "Rating": 4.61,
   "Ranking_Rating": 353,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-03T06:57:49.3371876+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 5222,
   "NumberOfAwards": 928,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Challenging Combat",
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "alien-isolation"
+  "Ranking_EOS_NewPlayers": 269
 }

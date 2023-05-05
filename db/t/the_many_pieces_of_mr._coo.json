@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:17.4557379+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:57.1012321+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:22.9720182+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:35.2352205+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:57.1012355+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:12.6476376+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:17.4557379+00:00",
   "AchievementSets": [
     {
       "ID": "2i507j",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:22.9720149+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:53:01.5920642+00:00",
+  "ProductSlug": "the-many-pieces-of-mr-coo-a9a1f8",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:53:01.5920642+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "the-many-pieces-of-mr-coo-a9a1f8"
+  "Ranking_EOS_NewPlayers": 269
 }

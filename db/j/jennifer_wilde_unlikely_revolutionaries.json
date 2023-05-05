@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:25.3731076+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:37.4442454+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:06.0647507+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:43.2813548+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:37.4442492+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:06.521997+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:25.3731076+00:00",
   "AchievementSets": [
     {
       "ID": "1ejicho",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:06.0647427+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
+  "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e"
+  "Ranking_EOS_NewPlayers": 269
 }

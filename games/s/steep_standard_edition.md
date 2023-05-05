@@ -1,5 +1,5 @@
 # Steep Standard Edition
-[Store](https://store.epicgames.com/en-US/p/steep/home)  
+[Store](https://store.epicgames.com/en-US/p/steep)  
 [View Rawdata](../../db/s/steep_standard_edition.json)  
 Rating: 4.69 (Ranked 213)  
 Number of Ratings: 414  (23.09.2022)  

@@ -5,7 +5,7 @@ Rating: 4.81 (Ranked 71)
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  
-Sum: 3,013 (Ranked 149)  
+Sum: 3,014 (Ranked 149)  
 Diff (max vs sum): 42  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,6 +29,7 @@ Diff (max vs sum): 42
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Homesick | 0.30% | ~44 |
+| Against All Odds | 0.30% | ~44 |
 | Sparkdew Crystals | 0.30% | ~44 |
 | Dangerous Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
@@ -42,7 +43,6 @@ Diff (max vs sum): 42
 | A Real Challenge | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
 | Into the Forest | 0.30% | ~44 |
-| Against All Odds | 0.20% | ~29 |
 | Ruined Armory | 0.20% | ~29 |
 | Fishmen Ritual Site | 0.20% | ~29 |
 | Forbidden Lands | 0.20% | ~29 |
@@ -61,7 +61,7 @@ Diff (max vs sum): 42
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,645 (Ranked 97)  
+Progressed: 14,646 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,14 +76,14 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-02 | 14,612 | 30 |
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
-| 2023-05-05 | 14,645 | 30 |
+| 2023-05-05 | 14,646 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |
 | This game is Relaxing | 410 |
 | This game is Extremely Fun | 389 |
-| This game is Great for Beginners | 370 |
+| This game is Great for Beginners | 371 |
 | This game is Highly Recommended | 369 |
 | This game has Unique Visuals | 300 |
 | This game has Amazing Storytelling | 297 |
@@ -202,4 +202,4 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-01 | 4.81 | - | 417 | 3,010 |
 | 2023-05-02 | 4.81 | - | 417 | 3,011 |
 | 2023-05-04 | 4.81 | - | 417 | 3,012 |
-| 2023-05-05 | 4.81 | - | 417 | 3,013 |
+| 2023-05-05 | 4.81 | - | 417 | 3,014 |

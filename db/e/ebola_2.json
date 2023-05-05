@@ -158,13 +158,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:47.2033884+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:39:30.2330012+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T15:02:14.6524089+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:01.8620641+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:39:30.2330219+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:01.2137944+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:47.2033884+00:00",
   "AchievementSets": [
     {
       "ID": "1al1mjg",
@@ -174,11 +175,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:02:14.65239+00:00",
-  "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
+  "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 341,
+  "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "ebola-2-b61221"
+  "Ranking_EOS_NewPlayers": 269
 }

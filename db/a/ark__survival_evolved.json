@@ -7,7 +7,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 56423
+      "Count": 56459
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5239,32 +5239,38 @@
       "Rating": 4.59,
       "NumberOfAwards": 250143,
       "NumberOfAwardsMax": 56423
+    },
+    {
+      "Time": "2023-05-05T15:35:22.7303564+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 250179,
+      "NumberOfAwardsMax": 56459
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:50.3489326+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:02:15.6379554+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:08.7249107+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:39:31.3609039+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:22.7303573+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:50.3489326+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:35:22.7303561+00:00",
+  "ProductSlug": "ark",
   "Rating": 4.59,
   "Ranking_Rating": 395,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T07:58:26.5486117+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 35570,
-  "NumberOfAwards": 250143,
-  "NumberOfAwardsMax": 56423,
+  "NumberOfAwards": 250179,
+  "NumberOfAwardsMax": 56459,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "ark"
+  "Ranking_EOS_NewPlayers": 269
 }

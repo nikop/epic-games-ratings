@@ -1,4 +1,4 @@
-# Pathfinder: Wrath of the Righteous
+# Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
 Rating: 4.76 (Ranked 114)  

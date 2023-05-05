@@ -32,7 +32,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "1019",
@@ -48,7 +48,7 @@
       "Name": "Growing Strong",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "1021",
@@ -56,7 +56,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "1022",
@@ -64,7 +64,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "1023",
@@ -88,7 +88,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "1026",
@@ -104,7 +104,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "1028",
@@ -168,7 +168,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "1036",
@@ -1380,6 +1380,11 @@
       "Time": "2023-05-05T15:05:22.7075366+00:00",
       "NumProgressed": 11074,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T15:42:56.6848724+00:00",
+      "NumProgressed": 11076,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2537,37 +2542,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:18.3058728+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:56.6848705+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 914,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11074,
-  "LastUpdate_Achievements": "2023-05-05T15:05:22.707559+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:36.0673608+00:00",
+  "EOS_Progressed": 11076,
+  "LastUpdate_Achievements": "2023-05-05T15:42:56.6848939+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:13.6465656+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:18.3058728+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11074,
+      "Progressed": 11076,
       "Completed": 23
     }
   ],
   "EOS_Completed_Percentage": 0.21,
-  "LastChanged_Achievements": "2023-05-05T15:05:22.7075359+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
+  "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
+  "ProductSlug": "a-game-of-thrones-5858a3",
   "Rating": 4.2,
   "Ranking_Rating": 802,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 102,
+  "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "Ranking_EOS_Completed": 130,
-  "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 39,
   "NumberOfRatings": 2500,
   "NumberOfAwards": 778,
   "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
-  "Ranking_EOS_NewCompleters": 39,
-  "ProductSlug": "a-game-of-thrones-5858a3"
+  "Ranking_EOS_NewPlayers": 53
 }

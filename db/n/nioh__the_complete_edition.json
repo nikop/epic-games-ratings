@@ -13,7 +13,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5021
+      "Count": 5028
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4032,32 +4032,38 @@
       "Rating": 4.57,
       "NumberOfAwards": 16783,
       "NumberOfAwardsMax": 7235
+    },
+    {
+      "Time": "2023-05-05T15:37:37.8282281+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 16790,
+      "NumberOfAwardsMax": 7235
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:36.6799082+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:31.9404725+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:54.672194+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:58.8262461+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:37.8282286+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:36.6799082+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:37:37.8282275+00:00",
+  "ProductSlug": "nioh-the-complete-edition",
   "Rating": 4.57,
   "Ranking_Rating": 428,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T09:59:46.5830951+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 10807,
-  "NumberOfAwards": 16783,
+  "NumberOfAwards": 16790,
   "NumberOfAwardsMax": 7235,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "nioh-the-complete-edition"
+  "Ranking_EOS_NewPlayers": 269
 }

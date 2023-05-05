@@ -261,13 +261,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:33.8528797+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:42.5181238+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T15:05:10.3909798+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:51.138851+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:42.5181613+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:18.0120026+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:33.8528797+00:00",
   "AchievementSets": [
     {
       "ID": "38ide56",
@@ -277,16 +278,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:10.3909625+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
-  "Ranking_EOS_Progress": 341,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
+  "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
+  "Ranking_EOS_Progress": 341,
+  "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-05T14:58:28.7131253+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37"
+  "Ranking_EOS_NewPlayers": 269
 }

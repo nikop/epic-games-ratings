@@ -320,13 +320,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:13.0733699+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:08.423976+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:40.0228302+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:30.3880523+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:08.4240102+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:49.7531092+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:13.0733699+00:00",
   "AchievementSets": [
     {
       "ID": "bbp170p",
@@ -336,11 +337,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:40.0228018+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:30.2470225+00:00",
+  "ProductSlug": "super-smash-asteroids-afae0a",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:49:30.2470225+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "super-smash-asteroids-afae0a"
+  "Ranking_EOS_NewPlayers": 269
 }

@@ -10,19 +10,19 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,681 |
-| That's a Grand Army | 8.00% | ~2,383 |
-| That is mine! | 8.00% | ~2,383 |
-| Victorious! | 8.00% | ~2,383 |
-| Brothers in Arms | 6.00% | ~1,787 |
-| That's a Grand Navy | 6.00% | ~1,787 |
-| Seriously?! | 6.00% | ~1,787 |
-| For the Glory | 5.00% | ~1,489 |
-| Cold War | 4.00% | ~1,191 |
-| Defender of the Faith | 3.00% | ~894 |
-| It's all about the money | 3.00% | ~894 |
-| Respected | 3.00% | ~894 |
-| True Catholic | 3.00% | ~894 |
+| Until death do us apart | 9.00% | ~2,684 |
+| That's a Grand Army | 8.00% | ~2,386 |
+| That is mine! | 8.00% | ~2,386 |
+| Victorious! | 8.00% | ~2,386 |
+| Brothers in Arms | 6.00% | ~1,789 |
+| That's a Grand Navy | 6.00% | ~1,789 |
+| Seriously?! | 6.00% | ~1,789 |
+| For the Glory | 5.00% | ~1,491 |
+| Cold War | 4.00% | ~1,193 |
+| Defender of the Faith | 3.00% | ~895 |
+| It's all about the money | 3.00% | ~895 |
+| Respected | 3.00% | ~895 |
+| True Catholic | 3.00% | ~895 |
 | Blockader | 2.00% | ~596 |
 | Combined Arms | 2.00% | ~596 |
 | Double the Love | 2.00% | ~596 |
@@ -154,6 +154,7 @@ Diff (max vs sum): 34
 | Great Moravia | 0.10% | ~30 |
 | Guarantor of Peace | 0.10% | ~30 |
 | Hard Bargaining | 0.10% | ~30 |
+| Hessian Mercenaries | 0.10% | ~30 |
 | Holiest Roman Empire | 0.10% | ~30 |
 | Holy Horder | 0.10% | ~30 |
 | Ideas Guy | 0.10% | ~30 |
@@ -297,7 +298,6 @@ Diff (max vs sum): 34
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
-| Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,787 (Ranked 82)  
+Progressed: 29,819 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,787 | 0 |
+| 2023-05-05 | 29,819 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

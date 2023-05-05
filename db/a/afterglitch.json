@@ -94,13 +94,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:42.5400112+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:10.553405+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T15:04:41.8530806+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:59.9222588+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:10.5534172+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:12.9488138+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:42.5400112+00:00",
   "AchievementSets": [
     {
       "ID": "hnfblp",
@@ -110,11 +111,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:41.853069+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
+  "ProductSlug": "afterglitch-06da0d",
   "Ranking_EOS_Progress": 341,
+  "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "afterglitch-06da0d"
+  "Ranking_EOS_NewPlayers": 269
 }

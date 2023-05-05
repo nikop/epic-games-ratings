@@ -167,13 +167,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:54.6567884+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:16.8403659+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 3,
   "EOS_Progressed": 179,
-  "LastUpdate_Achievements": "2023-05-05T15:04:47.4450986+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:09.091172+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:16.8403806+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:09.6411959+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:54.6567884+00:00",
   "AchievementSets": [
     {
       "ID": "a3kkelb",
@@ -183,16 +184,15 @@
     }
   ],
   "EOS_Completed_Percentage": 1.68,
-  "LastChanged_Achievements": "2023-05-05T15:04:47.4450857+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
-  "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 60,
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "Ranking_EOS_NewPlayers": 231,
+  "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
+  "ProductSlug": "night-book-77f2c7",
+  "Ranking_EOS_Progress": 225,
+  "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-19T20:57:23.939293+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "night-book-77f2c7"
+  "Ranking_EOS_NewPlayers": 230
 }

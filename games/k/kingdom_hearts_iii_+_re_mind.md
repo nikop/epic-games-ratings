@@ -1,4 +1,4 @@
-# KINGDOM HEARTS III + Re Mind
+# KINGDOM HEARTS III + Re Mind (DLC)
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)  
 [View Rawdata](../../db/k/kingdom_hearts_iii_+_re_mind.json)  
 Rating: 4.79 (Ranked 91)  

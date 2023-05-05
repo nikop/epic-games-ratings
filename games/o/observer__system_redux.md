@@ -1,5 +1,5 @@
 # Observer: System Redux
-[Store](https://store.epicgames.com/en-US/p/observer-system-redux/home)  
+[Store](https://store.epicgames.com/en-US/p/observer-system-redux)  
 [View Rawdata](../../db/o/observer__system_redux.json)  
 Rating: 4.48 (Ranked 565)  
 ## Achievements

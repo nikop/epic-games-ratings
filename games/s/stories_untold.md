@@ -1,5 +1,5 @@
 # Stories Untold
-[Store](https://store.epicgames.com/en-US/p/stories-untold/home)  
+[Store](https://store.epicgames.com/en-US/p/stories-untold)  
 [View Rawdata](../../db/s/stories_untold.json)  
 Rating: 4.51 (Ranked 514)  
 Number of Ratings: 28  (23.09.2022)  

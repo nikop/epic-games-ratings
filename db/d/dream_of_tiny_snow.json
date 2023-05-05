@@ -14,13 +14,14 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:55.4757575+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:09.1625859+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:40.6214574+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:09.911153+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:09.1625883+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:10.8531214+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:55.4757575+00:00",
   "AchievementSets": [
     {
       "ID": "dind4c0",
@@ -30,16 +31,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:40.6214547+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:36.2096296+00:00",
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-04-22T15:58:14.1740796+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-04-22T15:58:14.1740796+00:00",
+  "ProductSlug": "dream-of-tiny-snow-36f018",
+  "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T16:15:36.2096296+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-22T15:58:14.174074+00:00",
-  "FirstSeenRating": "2023-04-22T15:58:14.1740796+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "dream-of-tiny-snow-36f018"
+  "Ranking_EOS_NewPlayers": 269
 }

@@ -1,5 +1,5 @@
 # RAYMAN® LEGENDS
-[Store](https://store.epicgames.com/en-US/p/rayman-legends/home)  
+[Store](https://store.epicgames.com/en-US/p/rayman-legends)  
 [View Rawdata](../../db/r/rayman®_legends.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 351  (23.09.2022)  

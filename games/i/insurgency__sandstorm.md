@@ -10,20 +10,20 @@ Diff (max vs sum): 47
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,103 |
-| Wallbanger | 5.00% | ~18,103 |
-| Exploitative | 4.00% | ~14,482 |
-| High Speed Low Drag | 4.00% | ~14,482 |
-| Wet Feet | 4.00% | ~14,482 |
+| Point Shooting | 5.00% | ~18,104 |
+| Wallbanger | 5.00% | ~18,104 |
+| Exploitative | 4.00% | ~14,483 |
+| High Speed Low Drag | 4.00% | ~14,483 |
+| Wet Feet | 4.00% | ~14,483 |
 | Checkpoint Victory | 3.00% | ~10,862 |
 | Lucky | 3.00% | ~10,862 |
 | Stylin' | 3.00% | ~10,862 |
 | Turf War | 3.00% | ~10,862 |
-| Banged | 2.00% | ~7,241 |
-| First Blood | 2.00% | ~7,241 |
-| Flaccid Paralysis | 2.00% | ~7,241 |
-| Push Victory | 2.00% | ~7,241 |
-| Self-destructive | 2.00% | ~7,241 |
+| Banged | 2.00% | ~7,242 |
+| First Blood | 2.00% | ~7,242 |
+| Flaccid Paralysis | 2.00% | ~7,242 |
+| Push Victory | 2.00% | ~7,242 |
+| Self-destructive | 2.00% | ~7,242 |
 | Blindfire | 1.00% | ~3,621 |
 | Efficient | 1.00% | ~3,621 |
 | Ruthless | 1.00% | ~3,621 |
@@ -31,10 +31,10 @@ Diff (max vs sum): 47
 | Carrying | 0.90% | ~3,259 |
 | Mount & Gun | 0.90% | ~3,259 |
 | Personal | 0.90% | ~3,259 |
-| Grounded | 0.80% | ~2,896 |
-| Play to Win | 0.80% | ~2,896 |
-| #1 | 0.70% | ~2,534 |
-| Special Delivery | 0.70% | ~2,534 |
+| Grounded | 0.80% | ~2,897 |
+| Play to Win | 0.80% | ~2,897 |
+| #1 | 0.70% | ~2,535 |
+| Special Delivery | 0.70% | ~2,535 |
 | Firefight Victory | 0.60% | ~2,172 |
 | Cinematic | 0.50% | ~1,810 |
 | Thanks Station! | 0.40% | ~1,448 |
@@ -46,7 +46,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,058 (Ranked 35)  
+Progressed: 362,080 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 362,058 | 2 |
+| 2023-05-05 | 362,080 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

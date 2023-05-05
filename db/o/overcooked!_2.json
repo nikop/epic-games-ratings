@@ -55,7 +55,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 179
+      "Count": 181
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2071,32 +2071,38 @@
       "Rating": 4.74,
       "NumberOfAwards": 2124,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-05-05T15:36:43.8666322+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2126,
+      "NumberOfAwardsMax": 222
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:54.1977827+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:03:56.8940228+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:11.3904656+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:15.5053198+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:43.8666328+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:54.1977827+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:36:43.8666319+00:00",
+  "ProductSlug": "overcooked-2",
   "Rating": 4.74,
   "Ranking_Rating": 142,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-03T16:00:10.7816946+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 5157,
-  "NumberOfAwards": 2124,
+  "NumberOfAwards": 2126,
   "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "overcooked-2"
+  "Ranking_EOS_NewPlayers": 269
 }

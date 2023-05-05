@@ -166,13 +166,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:22.5396641+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:20.7488935+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-05T15:04:50.7965204+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:40.411456+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:20.7489103+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:02.2152988+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:22.5396641+00:00",
   "AchievementSets": [
     {
       "ID": "c2c0fb6",
@@ -182,16 +183,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:50.7965074+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
-  "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "Ranking_EOS_NewPlayers": 193,
+  "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
+  "ProductSlug": "grim-nights-fa4c5a",
+  "Ranking_EOS_Progress": 317,
+  "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-28T10:59:29.2849937+00:00",
-  "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "grim-nights-fa4c5a"
+  "Ranking_EOS_NewPlayers": 193
 }

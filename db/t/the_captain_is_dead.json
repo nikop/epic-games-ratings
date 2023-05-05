@@ -296,13 +296,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:09.0225688+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:27.8215144+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:56.9373853+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:24.5712227+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:27.8215605+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:29.6901004+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:09.0225688+00:00",
   "AchievementSets": [
     {
       "ID": "5ci5dh3",
@@ -312,11 +313,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:56.9373625+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:46:02.588189+00:00",
+  "ProductSlug": "the-captain-is-dead-b35c02",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:46:02.588189+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "the-captain-is-dead-b35c02"
+  "Ranking_EOS_NewPlayers": 269
 }

@@ -405,13 +405,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:12.6347667+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:22.7529033+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 23,
   "EOS_Completed": 2,
   "EOS_Progressed": 396,
-  "LastUpdate_Achievements": "2023-05-05T15:04:52.6000431+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:29.9100586+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:22.7529298+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:49.2607949+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:12.6347667+00:00",
   "AchievementSets": [
     {
       "ID": "9n0dl35",
@@ -421,16 +422,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0.51,
-  "LastChanged_Achievements": "2023-05-05T15:04:52.6000215+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
-  "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 97,
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "Ranking_EOS_NewPlayers": 150,
+  "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
+  "ProductSlug": "endling-extinction-is-forever",
+  "Ranking_EOS_Progress": 191,
+  "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
+  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:57.6723398+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "endling-extinction-is-forever"
+  "Ranking_EOS_NewPlayers": 150
 }

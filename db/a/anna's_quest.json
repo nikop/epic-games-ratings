@@ -333,13 +333,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:27.7564211+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:37:45.2556849+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 4,
   "EOS_Progressed": 21,
-  "LastUpdate_Achievements": "2023-05-05T14:59:59.03442+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:45.761657+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:37:45.2563036+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:10.806592+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:27.7564211+00:00",
   "AchievementSets": [
     {
       "ID": "7jh86ne",
@@ -349,16 +350,15 @@
     }
   ],
   "EOS_Completed_Percentage": 19.05,
-  "LastChanged_Achievements": "2023-05-05T14:59:59.0339456+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
-  "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 5,
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
+  "ProductSlug": "annas-quest-fbefa2",
+  "Ranking_EOS_Progress": 293,
+  "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
+  "Ranking_EOS_Completed": 5,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-08T21:58:17.1248944+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "annas-quest-fbefa2"
+  "Ranking_EOS_NewPlayers": 269
 }

@@ -1,5 +1,5 @@
 # Bee Simulator
-[Store](https://store.epicgames.com/en-US/p/bee-simulator/home)  
+[Store](https://store.epicgames.com/en-US/p/bee-simulator)  
 [View Rawdata](../../db/b/bee_simulator.json)  
 ## Achievements
 | Name | Percentage | Users |

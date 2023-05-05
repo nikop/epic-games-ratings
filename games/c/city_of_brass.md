@@ -1,5 +1,5 @@
 # City of Brass
-[Store](https://store.epicgames.com/en-US/p/city-of-brass/home)  
+[Store](https://store.epicgames.com/en-US/p/city-of-brass)  
 [View Rawdata](../../db/c/city_of_brass.json)  
 Rating: 4.22 (Ranked 795)  
 Number of Ratings: 227  (23.09.2022)  

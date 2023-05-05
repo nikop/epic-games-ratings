@@ -1,5 +1,5 @@
 # Mutazione
-[Store](https://store.epicgames.com/en-US/p/mutazione/home)  
+[Store](https://store.epicgames.com/en-US/p/mutazione)  
 [View Rawdata](../../db/m/mutazione.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 63  (23.09.2022)  

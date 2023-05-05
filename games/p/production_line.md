@@ -1,5 +1,5 @@
 # Production Line
-[Store](https://store.epicgames.com/en-US/p/production-line/home)  
+[Store](https://store.epicgames.com/en-US/p/production-line)  
 [View Rawdata](../../db/p/production_line.json)  
 ## Achievements
 | Name | Percentage | Users |

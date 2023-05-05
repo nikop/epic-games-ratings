@@ -1,5 +1,5 @@
 # Batman Arkham Knight
-[Store](https://store.epicgames.com/en-US/p/batman-arkham-knight/home)  
+[Store](https://store.epicgames.com/en-US/p/batman-arkham-knight)  
 [View Rawdata](../../db/b/batman_arkham_knight.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 7,386  (23.09.2022)  

@@ -1,5 +1,5 @@
 # Far Cry 5 Standard Edition
-[Store](https://store.epicgames.com/en-US/p/far-cry-5/home)  
+[Store](https://store.epicgames.com/en-US/p/far-cry-5)  
 [View Rawdata](../../db/f/far_cry_5_standard_edition.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 1,848  (23.09.2022)  

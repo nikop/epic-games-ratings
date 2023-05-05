@@ -1,5 +1,5 @@
 # STAR WARS™: Squadrons
-[Store](https://store.epicgames.com/en-US/p/star-wars-squadrons/home)  
+[Store](https://store.epicgames.com/en-US/p/star-wars-squadrons)  
 [View Rawdata](../../db/s/star_wars™__squadrons.json)  
 ## Achievements
 | Name | Percentage | Users |

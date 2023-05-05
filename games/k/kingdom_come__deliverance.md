@@ -1,5 +1,5 @@
 # Kingdom Come: Deliverance
-[Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance/home)  
+[Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 9,133  (23.09.2022)  
@@ -10,28 +10,28 @@ Diff (max vs sum): 2
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,685 |
-| Cavalier | 25.00% | ~194,907 |
-| Fatso | 23.00% | ~179,314 |
-| Awakening | 20.00% | ~155,926 |
-| Ranger | 20.00% | ~155,926 |
-| Scrooge | 20.00% | ~155,926 |
-| Anorectic | 16.00% | ~124,740 |
-| Firestarter | 15.00% | ~116,944 |
-| Bookworm | 14.00% | ~109,148 |
+| Blacksmith's Son | 31.00% | ~241,687 |
+| Cavalier | 25.00% | ~194,908 |
+| Fatso | 23.00% | ~179,316 |
+| Awakening | 20.00% | ~155,927 |
+| Ranger | 20.00% | ~155,927 |
+| Scrooge | 20.00% | ~155,927 |
+| Anorectic | 16.00% | ~124,741 |
+| Firestarter | 15.00% | ~116,945 |
+| Bookworm | 14.00% | ~109,149 |
 | Insomniac | 13.00% | ~101,352 |
-| Buddy | 11.00% | ~85,759 |
-| Sinner | 11.00% | ~85,759 |
-| Thief | 11.00% | ~85,759 |
+| Buddy | 11.00% | ~85,760 |
+| Sinner | 11.00% | ~85,760 |
+| Thief | 11.00% | ~85,760 |
 | Convict | 10.00% | ~77,963 |
 | Traveller | 10.00% | ~77,963 |
 | Haggler | 9.00% | ~70,167 |
 | Runt | 7.00% | ~54,574 |
 | Casanova | 6.00% | ~46,778 |
 | McLovin | 6.00% | ~46,778 |
-| Bad Trip | 5.00% | ~38,981 |
-| Monk | 5.00% | ~38,981 |
-| Serial Killer | 5.00% | ~38,981 |
+| Bad Trip | 5.00% | ~38,982 |
+| Monk | 5.00% | ~38,982 |
+| Serial Killer | 5.00% | ~38,982 |
 | Bastard | 4.00% | ~31,185 |
 | Hunter | 4.00% | ~31,185 |
 | Plague Doctor | 4.00% | ~31,185 |
@@ -93,7 +93,7 @@ Diff (max vs sum): 2
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779,628 (Ranked 11)  
+Progressed: 779,634 (Ranked 11)  
 Completed: 38 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 38 (0.00%) (Ranked 191)
 | 2023-05-02 | 779,243 | 38 |
 | 2023-05-03 | 779,399 | 38 |
 | 2023-05-04 | 779,549 | 38 |
-| 2023-05-05 | 779,628 | 38 |
+| 2023-05-05 | 779,634 | 38 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

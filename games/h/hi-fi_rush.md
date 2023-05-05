@@ -24,7 +24,7 @@ Rating: 4.85 (Ranked 37)
 | Does that say weakpoint? | 52.00% | ~761 |
 | You must like calling me in, Chai | 46.00% | ~673 |
 | Out in a puff of smoke | 46.00% | ~673 |
-| Headliner | 44.00% | ~644 |
+| Headliner | 45.00% | ~658 |
 | Time to pay up! | 42.00% | ~614 |
 | Perfecter Parry-er! | 42.00% | ~614 |
 | Who's the boss now? | 40.00% | ~585 |

@@ -1,5 +1,5 @@
 # RollerCoaster Tycoon Adventures
-[Store](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-adventures/home)  
+[Store](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-adventures)  
 [View Rawdata](../../db/r/rollercoaster_tycoon_adventures.json)  
 ## Achievements
 | Name | Percentage | Users |

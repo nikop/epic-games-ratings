@@ -1,5 +1,5 @@
 # Aztez
-[Store](https://store.epicgames.com/en-US/p/aztez/home)  
+[Store](https://store.epicgames.com/en-US/p/aztez)  
 [View Rawdata](../../db/a/aztez.json)  
 Rating: 4.53 (Ranked 489)  
 Number of Ratings: 43  (23.09.2022)  

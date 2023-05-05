@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 54.00% | ~68 |
-| Inventory ✔ | 50.00% | ~62 |
-| Chest ✔ | 50.00% | ~62 |
+| Fright ✔ | 53.00% | ~67 |
+| Inventory ✔ | 51.00% | ~64 |
+| Chest ✔ | 50.00% | ~63 |
 | Police officers ✔ | 24.00% | ~30 |
 | Mutation ✔ | 22.00% | ~28 |
 | Doberman ✔ | 9.00% | ~11 |
@@ -33,21 +33,21 @@
 | Infected ✔ | 3.00% | ~4 |
 | Rank A ✔ | 3.00% | ~4 |
 | All secrets revealed ✔ | 3.00% | ~4 |
-| Boss 1 ✔ | 2.00% | ~2 |
-| Car ✔ | 2.00% | ~2 |
-| Seeker One ✔ | 2.00% | ~2 |
-| Secret ✔ | 2.00% | ~2 |
-| Boss 2 ✔ | 2.00% | ~2 |
-| Group Alpha ✔ | 2.00% | ~2 |
-| Mutant fight ✔ | 2.00% | ~2 |
-| Osipov's video message ✔ | 2.00% | ~2 |
-| The escape ✔ | 2.00% | ~2 |
-| Priest ✔ | 2.00% | ~2 |
-| Rank B+ ✔ | 2.00% | ~2 |
-| Speedrun ✔ | 2.00% | ~2 |
-| VIP ✔ | 2.00% | ~2 |
-| Broadcasting ✔ | 2.00% | ~2 |
-| Boss 3 ✔ | 2.00% | ~2 |
+| Boss 1 ✔ | 2.00% | ~3 |
+| Car ✔ | 2.00% | ~3 |
+| Seeker One ✔ | 2.00% | ~3 |
+| Secret ✔ | 2.00% | ~3 |
+| Boss 2 ✔ | 2.00% | ~3 |
+| Group Alpha ✔ | 2.00% | ~3 |
+| Mutant fight ✔ | 2.00% | ~3 |
+| Osipov's video message ✔ | 2.00% | ~3 |
+| The escape ✔ | 2.00% | ~3 |
+| Priest ✔ | 2.00% | ~3 |
+| Rank B+ ✔ | 2.00% | ~3 |
+| Speedrun ✔ | 2.00% | ~3 |
+| VIP ✔ | 2.00% | ~3 |
+| Broadcasting ✔ | 2.00% | ~3 |
+| Boss 3 ✔ | 2.00% | ~3 |
 | Seeker Three ✔ | 0.80% | ~1 |
 | Seeker Two ✔ | 0.80% | ~1 |
 | Crocodile Escape ✔ | 0.80% | ~1 |
@@ -55,7 +55,7 @@
 | Rank A+ ✔ | 0.80% | ~1 |
 | Exterminate pests ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 243)  
+Progressed: 126 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 82 | 0 |
 | 2023-05-03 | 98 | 0 |
 | 2023-05-04 | 121 | 0 |
-| 2023-05-05 | 125 | 0 |
+| 2023-05-05 | 126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

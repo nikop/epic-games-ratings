@@ -151,13 +151,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:54.8497098+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:11.9427523+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:43.1339101+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:09.3545461+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:11.9427726+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:10.0835995+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:54.8497098+00:00",
   "AchievementSets": [
     {
       "ID": "6abl3de",
@@ -167,16 +168,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:43.1338973+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:06.4750192+00:00",
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-03-31T05:57:09.5806081+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:57:09.580608+00:00",
+  "ProductSlug": "swordship-b6c7f4",
+  "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T16:09:06.4750192+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-26T07:57:15.6367512+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:09.580608+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "swordship-b6c7f4"
+  "Ranking_EOS_NewPlayers": 269
 }

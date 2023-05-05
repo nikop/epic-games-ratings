@@ -405,13 +405,14 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:26.8120207+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:38.2742368+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:06.7558116+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:44.7881611+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:38.274241+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:09.544395+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:26.8120207+00:00",
   "AchievementSets": [
     {
       "ID": "67nl3cc",
@@ -421,20 +422,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:06.7558088+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:10.7523636+00:00",
+  "LastChanged": "2023-03-31T05:57:11.9868009+00:00",
+  "ProductSlug": "chernobylite",
   "Rating": 4.13,
   "Ranking_Rating": 846,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T16:09:10.7523636+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-03-31T05:57:11.9868009+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 149,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "chernobylite"
+  "Ranking_EOS_NewPlayers": 269
 }

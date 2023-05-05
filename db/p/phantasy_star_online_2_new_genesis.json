@@ -61,7 +61,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1855,32 +1855,38 @@
       "Rating": 4.55,
       "NumberOfAwards": 3632,
       "NumberOfAwardsMax": 835
+    },
+    {
+      "Time": "2023-05-05T15:35:10.607375+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3633,
+      "NumberOfAwardsMax": 835
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:40.7449815+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:00:01.5376483+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:58.1766017+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:37:48.411151+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:10.6073757+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:40.7449815+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:35:10.6073747+00:00",
+  "ProductSlug": "phantasy-star-online-2",
   "Rating": 4.55,
   "Ranking_Rating": 466,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T13:02:55.9813179+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 692,
-  "NumberOfAwards": 3632,
+  "NumberOfAwards": 3633,
   "NumberOfAwardsMax": 835,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "phantasy-star-online-2"
+  "Ranking_EOS_NewPlayers": 269
 }

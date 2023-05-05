@@ -231,13 +231,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:40.3569696+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:42.8621013+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-05T15:05:10.8623104+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:56.9099015+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:42.862131+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:25.9358982+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:40.3569696+00:00",
   "AchievementSets": [
     {
       "ID": "d91enl3",
@@ -247,11 +248,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:10.8622926+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
+  "ProductSlug": "fur-squadron-0042b8",
   "Ranking_EOS_Progress": 317,
+  "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "fur-squadron-0042b8"
+  "Ranking_EOS_NewPlayers": 202
 }

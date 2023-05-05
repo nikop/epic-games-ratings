@@ -19,7 +19,7 @@ Diff (max vs sum): 79
 | First bus arrived | 64.00% | ~659 |
 | First train station | 63.00% | ~648 |
 | First steam train arrived | 59.00% | ~607 |
-| First industry upgraded | 55.00% | ~566 |
+| First industry upgraded | 56.00% | ~576 |
 | Transport millionaire | 54.00% | ~556 |
 | Cargo hub | 53.00% | ~545 |
 | Cadet | 52.00% | ~535 |

@@ -9,7 +9,7 @@
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
-| [Pathfinder: Wrath of the Righteous](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
+| [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
 | [Townsmen - A Kingdom Rebuilt](../games/t/townsmen_-_a_kingdom_rebuilt.md) | 101 | 1,000 |
 | [Football Manager 2023](../games/f/football_manager_2023.md) | 100 | 1,000 |
@@ -58,7 +58,7 @@
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Surviving the Aftermath: Founder's Edition](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
+| [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
@@ -112,7 +112,7 @@
 | [NeuroNet: Mendax Proxy](../games/n/neuronet__mendax_proxy.md) | 48 | 1,000 |
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
-| [HITMAN 3](../games/h/hitman_3.md) | 47 | 1,000 |
+| [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
@@ -140,7 +140,7 @@
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
-| [Outward](../games/o/outward.md) | 42 | 1,000 |
+| [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
 | [Shadow Gangs](../games/s/shadow_gangs.md) | 42 | 1,000 |
 | [Danger Scavenger](../games/d/danger_scavenger.md) | 41 | 1,000 |
 | [Foretales](../games/f/foretales.md) | 41 | 1,000 |
@@ -227,7 +227,7 @@
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
-| [Spacebase Startopia](../games/s/spacebase_startopia.md) | 30 | 1,000 |
+| [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |

@@ -48,7 +48,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "FiveShadows",
@@ -80,7 +80,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16464
+      "UsersEstimate": 16465
     },
     {
       "ID": "HappyLittleAccidents",
@@ -128,7 +128,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "Mercyful",
@@ -224,7 +224,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "Rollin",
@@ -232,7 +232,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "StillRollin",
@@ -296,7 +296,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13171
+      "UsersEstimate": 13172
     },
     {
       "ID": "TimeParadox",
@@ -336,7 +336,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "WinnerWinner",
@@ -1623,6 +1623,11 @@
       "Time": "2023-05-05T15:05:06.2312071+00:00",
       "NumProgressed": 164640,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T15:42:37.6295076+00:00",
+      "NumProgressed": 164646,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -2563,37 +2568,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:15.7425296+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:37.6295071+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2244,
+  "EOS_NewPlayers": 2223,
   "EOS_Completed": 41,
-  "EOS_Progressed": 164640,
-  "LastUpdate_Achievements": "2023-05-05T15:05:06.2312481+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:33.2952806+00:00",
+  "EOS_Progressed": 164646,
+  "LastUpdate_Achievements": "2023-05-05T15:42:37.6295519+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:53.2433194+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:15.7425296+00:00",
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164640,
+      "Progressed": 164646,
       "Completed": 41
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T15:05:06.2312067+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
+  "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
+  "ProductSlug": "shadow-tactics",
   "Rating": 4.66,
   "Ranking_Rating": 272,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 50,
+  "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "Ranking_EOS_Completed": 175,
-  "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 49,
   "NumberOfRatings": 495,
   "NumberOfAwards": 4646,
   "NumberOfAwardsMax": 547,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "Ranking_EOS_NewCompleters": 49,
-  "ProductSlug": "shadow-tactics/home"
+  "Ranking_EOS_NewPlayers": 31
 }

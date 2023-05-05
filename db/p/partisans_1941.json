@@ -640,13 +640,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:32.5786729+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:42.7592746+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 19,
   "EOS_Completed": 1,
   "EOS_Progressed": 870,
-  "LastUpdate_Achievements": "2023-05-05T15:05:10.6947335+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:49.7417534+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:42.759299+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:15.9652644+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:32.5786729+00:00",
   "AchievementSets": [
     {
       "ID": "85nb4h3",
@@ -656,20 +657,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0.11,
-  "LastChanged_Achievements": "2023-05-05T15:05:10.6947123+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
+  "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
+  "ProductSlug": "partisans-1941",
   "Rating": 4.61,
   "Ranking_Rating": 353,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
+  "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "Ranking_EOS_Completed": 148,
-  "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 98,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "partisans-1941"
+  "Ranking_EOS_NewPlayers": 155
 }

@@ -1,5 +1,5 @@
 # Super Meat Boy
-[Store](https://store.epicgames.com/en-US/p/super-meat-boy/home)  
+[Store](https://store.epicgames.com/en-US/p/super-meat-boy)  
 [View Rawdata](../../db/s/super_meat_boy.json)  
 Rating: 4.70 (Ranked 192)  
 Number of Ratings: 155  (23.09.2022)  

@@ -162,13 +162,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:07.0629235+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:53.7364462+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 139,
-  "LastUpdate_Achievements": "2023-05-05T15:05:20.2530983+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:24.2416886+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:53.7364685+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:58.4386011+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:07.0629235+00:00",
   "AchievementSets": [
     {
       "ID": "84ad177",
@@ -178,16 +179,15 @@
     }
   ],
   "EOS_Completed_Percentage": 1.44,
-  "LastChanged_Achievements": "2023-05-05T15:05:20.2530869+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
-  "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 67,
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
+  "ProductSlug": "bloodshore-939cb0",
+  "Ranking_EOS_Progress": 238,
+  "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
+  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-13T23:58:32.3641197+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "bloodshore-939cb0"
+  "Ranking_EOS_NewPlayers": 269
 }

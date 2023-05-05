@@ -138,13 +138,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:57.3131414+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:07.4297708+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 42,
   "EOS_Progressed": 666,
-  "LastUpdate_Achievements": "2023-05-05T15:04:39.1656967+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:12.0359328+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:07.4297852+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:13.2574431+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:57.3131414+00:00",
   "AchievementSets": [
     {
       "ID": "459695l",
@@ -154,16 +155,15 @@
     }
   ],
   "EOS_Completed_Percentage": 6.31,
-  "LastChanged_Achievements": "2023-05-05T15:04:39.165685+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
-  "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 21,
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
+  "ProductSlug": "lunas-fishing-garden",
+  "Ranking_EOS_Progress": 176,
+  "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
+  "Ranking_EOS_Completed": 21,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:08.9356043+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "lunas-fishing-garden"
+  "Ranking_EOS_NewPlayers": 269
 }

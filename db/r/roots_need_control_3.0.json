@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:11.2662317+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:07.0148759+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:38.8251095+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:27.3056372+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:07.0148797+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:32.2800374+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:11.2662317+00:00",
   "AchievementSets": [
     {
       "ID": "90gfl9h",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:38.8251069+00:00",
-  "FirstSeenAchievements": "2023-04-27T02:01:13.910319+00:00",
+  "ProductSlug": "roots-need-control-30-52a709",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-27T02:01:13.910319+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "roots-need-control-30-52a709"
+  "Ranking_EOS_NewPlayers": 269
 }

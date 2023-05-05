@@ -343,13 +343,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:13.5890915+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:57.8464531+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:23.6430315+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:31.27641+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:57.8464895+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:07.209997+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:13.5890915+00:00",
   "AchievementSets": [
     {
       "ID": "3k4kph0",
@@ -359,16 +360,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:23.6429994+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:27.141889+00:00",
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-03-31T05:57:21.3680112+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:57:21.3680111+00:00",
+  "ProductSlug": "danger-scavenger-0cd9a9",
+  "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T16:09:27.141889+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-30T02:05:07.3432153+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:21.3680111+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "danger-scavenger-0cd9a9"
+  "Ranking_EOS_NewPlayers": 269
 }

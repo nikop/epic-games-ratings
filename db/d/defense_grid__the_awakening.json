@@ -104,7 +104,7 @@
       "Name": "Close Call",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 233149
+      "UsersEstimate": 233150
     },
     {
       "ID": "COMBATTURMOIL",
@@ -136,7 +136,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76130
+      "UsersEstimate": 76131
     },
     {
       "ID": "DIVERSITY",
@@ -152,7 +152,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 318796
+      "UsersEstimate": 318797
     },
     {
       "ID": "EXTERMINATOR",
@@ -160,7 +160,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 171293
+      "UsersEstimate": 171294
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -176,7 +176,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 352103
+      "UsersEstimate": 352104
     },
     {
       "ID": "FILTHYRICH",
@@ -200,7 +200,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 385410
+      "UsersEstimate": 385411
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -208,7 +208,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199842
+      "UsersEstimate": 199843
     },
     {
       "ID": "FLURRY",
@@ -320,7 +320,7 @@
       "Name": "I Spy",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 299763
+      "UsersEstimate": 299764
     },
     {
       "ID": "KABOOM",
@@ -328,7 +328,7 @@
       "Name": "Kaboom!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137986
+      "UsersEstimate": 137987
     },
     {
       "ID": "KICKSTARTER",
@@ -352,7 +352,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137986
+      "UsersEstimate": 137987
     },
     {
       "ID": "MAJESTICPONY",
@@ -408,7 +408,7 @@
       "Name": "No Sale",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142744
+      "UsersEstimate": 142745
     },
     {
       "ID": "NOTSOFAST",
@@ -456,7 +456,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 233149
+      "UsersEstimate": 233150
     },
     {
       "ID": "PEWPEW",
@@ -464,7 +464,7 @@
       "Name": "Pew Pew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 233149
+      "UsersEstimate": 233150
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -520,7 +520,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76130
+      "UsersEstimate": 76131
     },
     {
       "ID": "RETRYAGAIN",
@@ -688,7 +688,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 261698
+      "UsersEstimate": 261699
     },
     {
       "ID": "YOUMONSTER",
@@ -1895,6 +1895,11 @@
     {
       "Time": "2023-05-05T15:04:58.5982514+00:00",
       "NumProgressed": 475815,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T15:42:29.7914391+00:00",
+      "NumProgressed": 475816,
       "NumCompleted": 4
     }
   ],
@@ -3346,37 +3351,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 87,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:42.5622005+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:29.7914384+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 671,
   "EOS_Completed": 4,
-  "EOS_Progressed": 475815,
-  "LastUpdate_Achievements": "2023-05-05T15:04:58.5983438+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:59.9609668+00:00",
+  "EOS_Progressed": 475816,
+  "LastUpdate_Achievements": "2023-05-05T15:42:29.791628+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:13.0726924+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:42.5622005+00:00",
   "AchievementSets": [
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 475815,
+      "Progressed": 475816,
       "Completed": 4
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:58.5982506+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
+  "LastChanged": "2023-05-01T21:57:58.3194204+00:00",
+  "ProductSlug": "defense-grid",
   "Rating": 4.45,
   "Ranking_Rating": 599,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 25,
+  "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-01T21:57:58.3194204+00:00",
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 1225,
   "NumberOfAwards": 1632,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "defense-grid"
+  "Ranking_EOS_NewPlayers": 66
 }

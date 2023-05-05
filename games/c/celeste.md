@@ -1,5 +1,5 @@
 # Celeste
-[Store](https://store.epicgames.com/en-US/p/celeste/home)  
+[Store](https://store.epicgames.com/en-US/p/celeste)  
 [View Rawdata](../../db/c/celeste.json)  
 Rating: 4.92 (Ranked 3)  
 Number of Ratings: 2,543  (23.09.2022)  

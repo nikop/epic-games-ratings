@@ -1,5 +1,5 @@
 # CARRION
-[Store](https://store.epicgames.com/en-US/p/carrion/home)  
+[Store](https://store.epicgames.com/en-US/p/carrion)  
 [View Rawdata](../../db/c/carrion.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 46  (23.09.2022)  

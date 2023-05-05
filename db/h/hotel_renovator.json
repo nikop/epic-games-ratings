@@ -142,9 +142,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -412,13 +412,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:44.0588428+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:45.9660907+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_Completed": 11,
   "EOS_Progressed": 718,
-  "LastUpdate_Achievements": "2023-05-05T15:05:13.4478556+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:00.0056173+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:45.9661248+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:33:58.6395178+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:44.0588428+00:00",
   "AchievementSets": [
     {
       "ID": "7k95e4n",
@@ -428,20 +429,19 @@
     }
   ],
   "EOS_Completed_Percentage": 1.53,
-  "LastChanged_Achievements": "2023-05-05T15:05:13.4478345+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
+  "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
+  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
+  "ProductSlug": "hotel-renovator",
   "Rating": 4.5,
   "Ranking_Rating": 531,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 172,
+  "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "Ranking_EOS_Completed": 65,
-  "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
-  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "hotel-renovator"
+  "Ranking_EOS_NewPlayers": 153
 }

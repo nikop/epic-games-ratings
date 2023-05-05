@@ -1561,13 +1561,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 75,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:26.764454+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:26.0954849+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 266,
   "EOS_Completed": 1,
   "EOS_Progressed": 847,
-  "LastUpdate_Achievements": "2023-05-05T15:04:55.4501336+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:43.8572422+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:26.0956327+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:52.7612124+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:26.764454+00:00",
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
@@ -1577,16 +1578,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0.12,
-  "LastChanged_Achievements": "2023-05-05T15:04:55.4500601+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 146,
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "Ranking_EOS_NewPlayers": 93,
+  "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
+  "ProductSlug": "firestone-online-idle-rpg-bfd04b",
+  "Ranking_EOS_Progress": 165,
+  "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
+  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
-  "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "firestone-online-idle-rpg-bfd04b"
+  "Ranking_EOS_NewPlayers": 93
 }

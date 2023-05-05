@@ -1,5 +1,5 @@
 # RiME
-[Store](https://store.epicgames.com/en-US/p/rime/home)  
+[Store](https://store.epicgames.com/en-US/p/rime)  
 [View Rawdata](../../db/r/rime.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 85  (23.09.2022)  

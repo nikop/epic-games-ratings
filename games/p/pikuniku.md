@@ -1,5 +1,5 @@
 # Pikuniku
-[Store](https://store.epicgames.com/en-US/p/pikuniku/home)  
+[Store](https://store.epicgames.com/en-US/p/pikuniku)  
 [View Rawdata](../../db/p/pikuniku.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 450  (23.09.2022)  

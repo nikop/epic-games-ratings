@@ -112,7 +112,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "First_Race_Met",
@@ -144,7 +144,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -312,7 +312,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -352,7 +352,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Win_As_Altarian",
@@ -496,7 +496,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -1436,6 +1436,11 @@
       "Time": "2023-05-05T11:05:05.7260551+00:00",
       "NumProgressed": 5509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T15:42:06.7724478+00:00",
+      "NumProgressed": 5510,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -2095,37 +2100,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 72,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:54.2385396+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:06.7724471+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 259,
   "EOS_Completed": 0,
-  "EOS_Progressed": 5509,
-  "LastUpdate_Achievements": "2023-05-05T15:04:38.5439118+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:08.7108062+00:00",
+  "EOS_Progressed": 5510,
+  "LastUpdate_Achievements": "2023-05-05T15:42:06.7725507+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:09.2938681+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:54.2385396+00:00",
   "AchievementSets": [
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5509,
+      "Progressed": 5510,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:38.5438371+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
+  "LastChanged": "2023-04-29T02:57:00.132474+00:00",
+  "ProductSlug": "galactic-civilizations-iv",
   "Rating": 4.18,
   "Ranking_Rating": 821,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 116,
+  "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 429,
   "NumberOfAwards": 655,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "galactic-civilizations-iv"
+  "Ranking_EOS_NewPlayers": 94
 }

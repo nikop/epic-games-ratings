@@ -13,7 +13,7 @@ Diff (max vs sum): 25
 | A Brief Tour of the Realms | 1.00% | ~865 |
 | Checkmate | 1.00% | ~528 |
 | Vecna Out! | 1.00% | ~528 |
-| Pin and Skewer | 0.80% | ~422 |
+| Pin and Skewer | 0.80% | ~423 |
 | Bully for Vecna | 0.60% | ~317 |
 | The Cursed Farmer | 0.60% | ~519 |
 | Beast Intentions | 0.50% | ~433 |
@@ -50,6 +50,7 @@ Diff (max vs sum): 25
 | The Dinner Party | 0.20% | ~173 |
 | The Botched Kidnapping | 0.20% | ~173 |
 | Trollskull Manor | 0.20% | ~173 |
+| Attack on the Manor | 0.20% | ~173 |
 | The Crumbling Temple | 0.20% | ~173 |
 | The Death Curse | 0.20% | ~173 |
 | Useless Allies | 0.20% | ~173 |
@@ -239,7 +240,6 @@ Diff (max vs sum): 25
 | The Gargoyle's Apprentice | 0.10% | ~87 |
 | House of Darkness | 0.10% | ~87 |
 | Home Not So Alone | 0.10% | ~53 |
-| Attack on the Manor | 0.10% | ~87 |
 | The Trepidatious Trio | 0.10% | ~87 |
 | Our Time To Shine | 0.10% | ~87 |
 | Review by the Blackstaff | 0.10% | ~53 |
@@ -500,7 +500,7 @@ Diff (max vs sum): 25
 | Overwhelming Force | 0.10% | ~87 |
 | Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,537 (Ranked 59)  
+Progressed: 86,540 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,537 | 1,805 |
+| 2023-05-05 | 86,540 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

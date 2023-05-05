@@ -216,7 +216,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ach_legacysalvager",
@@ -360,7 +360,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "ach_terror100",
@@ -1591,6 +1591,11 @@
       "Time": "2023-05-05T15:05:15.1473418+00:00",
       "NumProgressed": 28239,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T15:42:47.9091186+00:00",
+      "NumProgressed": 28240,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2167,37 +2172,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:50.8452478+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:47.9091161+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 666,
   "EOS_Completed": 3,
-  "EOS_Progressed": 28239,
-  "LastUpdate_Achievements": "2023-05-05T15:05:15.147386+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:07.9887934+00:00",
+  "EOS_Progressed": 28240,
+  "LastUpdate_Achievements": "2023-05-05T15:42:47.9091923+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:39.5383206+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:50.8452478+00:00",
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28239,
+      "Progressed": 28240,
       "Completed": 3
     }
   ],
   "EOS_Completed_Percentage": 0.01,
-  "LastChanged_Achievements": "2023-05-05T15:05:15.1473415+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
+  "LastChanged": "2023-04-29T16:59:24.1882634+00:00",
+  "ProductSlug": "sunless-sea",
   "Rating": 4.58,
   "Ranking_Rating": 414,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 83,
+  "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "Ranking_EOS_Completed": 184,
-  "LastChanged": "2023-04-29T16:59:24.1882634+00:00",
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 401,
   "NumberOfAwards": 272,
   "NumberOfAwardsMax": 203,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "sunless-sea"
+  "Ranking_EOS_NewPlayers": 67
 }

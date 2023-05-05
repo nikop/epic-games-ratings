@@ -1,4 +1,4 @@
-# JETT : THE FAR SHORE
+# JETT: The Far Shore + Given Time
 [Store](https://store.epicgames.com/en-US/p/jett-the-far-shore)  
 [View Rawdata](../../db/j/jett___the_far_shore.json)  
 ## Achievements

@@ -655,13 +655,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:18.8266391+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:58.8392215+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 76,
   "EOS_Completed": 8,
   "EOS_Progressed": 2515,
-  "LastUpdate_Achievements": "2023-05-05T15:05:24.5535466+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:36.6280003+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:58.8392682+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:14.5155955+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:18.8266391+00:00",
   "AchievementSets": [
     {
       "ID": "2h56gn1",
@@ -671,16 +672,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0.32,
-  "LastChanged_Achievements": "2023-05-05T15:05:24.5535197+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
-  "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 113,
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "Ranking_EOS_NewPlayers": 121,
+  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
+  "ProductSlug": "touch-type-tale",
+  "Ranking_EOS_Progress": 135,
+  "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "touch-type-tale"
+  "Ranking_EOS_NewPlayers": 121
 }

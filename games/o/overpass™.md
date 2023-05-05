@@ -1,5 +1,5 @@
 # OVERPASS™
-[Store](https://store.epicgames.com/en-US/p/overpass/home)  
+[Store](https://store.epicgames.com/en-US/p/overpass)  
 [View Rawdata](../../db/o/overpass™.json)  
 Rating: 4.21 (Ranked 798)  
 ## Achievements

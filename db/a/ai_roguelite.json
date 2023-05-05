@@ -7,18 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:06.9565946+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:00:19.623837+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:22.09664+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:38:10.9045067+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:26.6784043+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:06.9565946+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "ProductSlug": "ai-roguelite-714c18",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "ai-roguelite-714c18"
+  "Ranking_EOS_NewPlayers": 269
 }

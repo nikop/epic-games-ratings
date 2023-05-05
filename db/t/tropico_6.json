@@ -120,7 +120,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -264,7 +264,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -1021,6 +1021,11 @@
       "Time": "2023-05-05T15:05:24.3523792+00:00",
       "NumProgressed": 2665,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T15:42:58.5762087+00:00",
+      "NumProgressed": 2666,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1768,37 +1773,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:16.8786166+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:58.5762081+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 148,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2665,
-  "LastUpdate_Achievements": "2023-05-05T15:05:24.3524081+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:34.7211895+00:00",
+  "EOS_Progressed": 2666,
+  "LastUpdate_Achievements": "2023-05-05T15:42:58.5762683+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:11.9782792+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:16.8786166+00:00",
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2665,
+      "Progressed": 2666,
       "Completed": 1
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "LastChanged_Achievements": "2023-05-05T15:05:24.3523788+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
+  "LastChanged": "2023-05-03T00:00:10.1832841+00:00",
+  "ProductSlug": "tropico-6",
   "Rating": 4.67,
   "Ranking_Rating": 255,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
+  "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "Ranking_EOS_Completed": 167,
-  "LastChanged": "2023-05-03T00:00:10.1832841+00:00",
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 398,
   "NumberOfAwards": 747,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "tropico-6/home"
+  "Ranking_EOS_NewPlayers": 107
 }

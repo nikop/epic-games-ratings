@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:01.3105655+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:30.6945565+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:59.491166+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:18.7662698+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:30.6945601+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:35.761482+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:01.3105655+00:00",
   "AchievementSets": [
     {
       "ID": "230d40b",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:59.4911631+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:48:53.81887+00:00",
+  "ProductSlug": "everlasting-guilt-213534",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:48:53.81887+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "everlasting-guilt-213534"
+  "Ranking_EOS_NewPlayers": 269
 }

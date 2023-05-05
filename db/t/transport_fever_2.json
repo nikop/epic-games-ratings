@@ -246,9 +246,9 @@
       "ID": "achFirstIndustryUpgrade",
       "SetID": "dgl390n",
       "Name": "First industry upgraded",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 576
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -1196,13 +1196,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 61,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:48.6517918+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:50.6784217+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 55,
   "EOS_Completed": 0,
   "EOS_Progressed": 1029,
-  "LastUpdate_Achievements": "2023-05-05T15:05:17.578168+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:05.3510604+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:50.6784993+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:36.7645972+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:48.6517918+00:00",
   "AchievementSets": [
     {
       "ID": "dgl390n",
@@ -1212,21 +1213,20 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:17.5781086+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
+  "LastChanged": "2023-05-04T16:59:40.616485+00:00",
+  "ProductSlug": "transport-fever-2",
   "Rating": 4.7,
   "Ranking_Rating": 192,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 158,
+  "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-04T16:59:40.616485+00:00",
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 180,
   "NumberOfAwards": 258,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "transport-fever-2"
+  "Ranking_EOS_NewPlayers": 125
 }

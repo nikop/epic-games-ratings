@@ -1,5 +1,5 @@
 # Wattam
-[Store](https://store.epicgames.com/en-US/p/wattam/home)  
+[Store](https://store.epicgames.com/en-US/p/wattam)  
 [View Rawdata](../../db/w/wattam.json)  
 ## Achievements
 | Name | Percentage | Users |

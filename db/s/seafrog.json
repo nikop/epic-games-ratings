@@ -7,18 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:44.0482919+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:03:48.8886837+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:56:59.9143769+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:05.7377135+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:33:58.5312871+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:44.0482919+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "ProductSlug": "seafrog-b66769",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "seafrog-b66769"
+  "Ranking_EOS_NewPlayers": 269
 }

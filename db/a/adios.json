@@ -40,7 +40,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11348
+      "UsersEstimate": 11349
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "Nice Try",
@@ -136,7 +136,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8646
+      "UsersEstimate": 8647
     },
     {
       "ID": "Nothing Left to Say",
@@ -144,7 +144,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "Piano Man",
@@ -160,7 +160,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "Sniper",
@@ -168,7 +168,7 @@
       "Name": "Sniper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "Spicy",
@@ -1399,6 +1399,11 @@
       "Time": "2023-05-05T15:05:27.105134+00:00",
       "NumProgressed": 54040,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-05-05T15:43:02.0732005+00:00",
+      "NumProgressed": 54044,
+      "NumCompleted": 434
     }
   ],
   "RatingHistory": [
@@ -1417,36 +1422,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:32.2719209+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:43:02.0731996+00:00",
   "EOS_NewCompleters": 31,
-  "EOS_NewPlayers": 1582,
+  "EOS_NewPlayers": 1568,
   "EOS_Completed": 434,
-  "EOS_Progressed": 54040,
-  "LastUpdate_Achievements": "2023-05-05T15:05:27.1051559+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:50.1114622+00:00",
+  "EOS_Progressed": 54044,
+  "LastUpdate_Achievements": "2023-05-05T15:43:02.0732272+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:31.9207942+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:32.2719209+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 54040,
+      "Progressed": 54044,
       "Completed": 434
     }
   ],
   "EOS_Completed_Percentage": 0.8,
-  "LastChanged_Achievements": "2023-05-05T15:05:27.1051335+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
+  "LastChanged": "2023-04-30T21:00:24.3922365+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
+  "ProductSlug": "adios-b378b4",
   "Rating": 3.5,
   "Ranking_Rating": 914,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 71,
+  "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "Ranking_EOS_Completed": 86,
-  "LastChanged": "2023-04-30T21:00:24.3922365+00:00",
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewCompleters": 5,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
-  "Ranking_EOS_NewCompleters": 5,
-  "ProductSlug": "adios-b378b4"
+  "Ranking_EOS_NewPlayers": 36
 }

@@ -1,5 +1,5 @@
 # Jotun: Valhalla Edition
-[Store](https://store.epicgames.com/en-US/p/jotun/home)  
+[Store](https://store.epicgames.com/en-US/p/jotun)  
 [View Rawdata](../../db/j/jotun__valhalla_edition.json)  
 Rating: 4.41 (Ranked 651)  
 Number of Ratings: 758  (23.09.2022)  

@@ -55,7 +55,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 296
+      "Count": 297
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3008,32 +3008,38 @@
       "Rating": 4.59,
       "NumberOfAwards": 2357,
       "NumberOfAwardsMax": 312
+    },
+    {
+      "Time": "2023-05-05T15:35:57.2835584+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2358,
+      "NumberOfAwardsMax": 312
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:18.3334578+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:02:24.735735+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:36.4043953+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:40:12.0017355+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:57.283559+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:18.3334578+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:35:57.283558+00:00",
+  "ProductSlug": "watch-dogs-2",
   "Rating": 4.59,
   "Ranking_Rating": 395,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T08:59:01.1177741+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 6460,
-  "NumberOfAwards": 2357,
+  "NumberOfAwards": 2358,
   "NumberOfAwardsMax": 312,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "watch-dogs-2/home"
+  "Ranking_EOS_NewPlayers": 269
 }

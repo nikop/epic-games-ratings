@@ -1,5 +1,5 @@
 # Tom Clancy's Rainbow Six® Siege
-[Store](https://store.epicgames.com/en-US/p/rainbow-six-siege/home)  
+[Store](https://store.epicgames.com/en-US/p/rainbow-six-siege)  
 [View Rawdata](../../db/t/tom_clancy's_rainbow_six®_siege.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 8,669  (23.09.2022)  

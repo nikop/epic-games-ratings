@@ -280,13 +280,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:10.680919+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:56.230943+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:05:22.2381163+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:28.4498659+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:56.2309869+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:03.2370898+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:10.680919+00:00",
   "AchievementSets": [
     {
       "ID": "85daogm",
@@ -296,11 +297,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:22.2380953+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
+  "ProductSlug": "cloud-cutter-46f961",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "cloud-cutter-46f961"
+  "Ranking_EOS_NewPlayers": 269
 }

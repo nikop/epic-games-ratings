@@ -1,5 +1,5 @@
 # Conarium
-[Store](https://store.epicgames.com/en-US/p/conarium/home)  
+[Store](https://store.epicgames.com/en-US/p/conarium)  
 [View Rawdata](../../db/c/conarium.json)  
 Rating: 3.91 (Ranked 897)  
 Number of Ratings: 53  (23.09.2022)  

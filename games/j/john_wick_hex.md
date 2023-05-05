@@ -1,5 +1,5 @@
 # John Wick Hex
-[Store](https://store.epicgames.com/en-US/p/johnwickhex/home)  
+[Store](https://store.epicgames.com/en-US/p/johnwickhex)  
 [View Rawdata](../../db/j/john_wick_hex.json)  
 ## Achievements
 | Name | Percentage | Users |

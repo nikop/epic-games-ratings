@@ -8,7 +8,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "FirstGlide",
@@ -64,7 +64,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "PickupChitin",
@@ -1093,6 +1093,11 @@
       "Time": "2023-05-05T15:04:34.8913916+00:00",
       "NumProgressed": 18172,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-05T15:42:02.583007+00:00",
+      "NumProgressed": 18178,
+      "NumCompleted": 18
     }
   ],
   "RatingHistory": [
@@ -1213,36 +1218,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:00.7327979+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:02.5830065+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 655,
   "EOS_Completed": 18,
-  "EOS_Progressed": 18172,
-  "LastUpdate_Achievements": "2023-05-05T15:04:34.8914105+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:15.6896318+00:00",
+  "EOS_Progressed": 18178,
+  "LastUpdate_Achievements": "2023-05-05T15:42:02.5830315+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:18.0530536+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:00.7327979+00:00",
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18172,
+      "Progressed": 18178,
       "Completed": 18
     }
   ],
   "EOS_Completed_Percentage": 0.1,
-  "LastChanged_Achievements": "2023-05-05T15:04:34.8913912+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
+  "LastChanged": "2023-05-04T01:54:13.9128754+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
+  "ProductSlug": "smalland",
   "Rating": 4.49,
   "Ranking_Rating": 549,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 94,
+  "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "Ranking_EOS_Completed": 150,
-  "LastChanged": "2023-05-04T01:54:13.9128754+00:00",
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-29T21:57:34.1236869+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "smalland"
+  "Ranking_EOS_NewPlayers": 69
 }

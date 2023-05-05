@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rookie | 78.00% | ~47 |
-| Augmented | 73.00% | ~44 |
+| Augmented | 75.00% | ~45 |
+| Terminated I | 60.00% | ~36 |
+| Challenge Accepted | 58.00% | ~35 |
 | Nanonic I | 58.00% | ~35 |
-| Terminated I | 58.00% | ~35 |
-| Challenge Accepted | 57.00% | ~34 |
 | Unlocked and Loaded | 52.00% | ~31 |
 | Terminated II | 45.00% | ~27 |
 | Terminated III | 32.00% | ~19 |

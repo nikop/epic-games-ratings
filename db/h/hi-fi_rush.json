@@ -38,9 +38,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 658
     },
     {
       "ID": "Ach006",
@@ -746,13 +746,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 61,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:56.5979349+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:20.4300117+00:00",
   "EOS_NewCompleters": 2,
   "EOS_NewPlayers": 30,
   "EOS_Completed": 4,
   "EOS_Progressed": 1463,
-  "LastUpdate_Achievements": "2023-05-05T15:04:50.3876131+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:14.9753757+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:20.4301254+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:30.7105995+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:56.5979349+00:00",
   "AchievementSets": [
     {
       "ID": "12n4k20",
@@ -762,20 +763,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0.27,
-  "LastChanged_Achievements": "2023-05-05T15:04:50.3875606+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
+  "LastChanged": "2023-04-19T09:58:36.4480378+00:00",
+  "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
+  "ProductSlug": "hi-fi-rush",
   "Rating": 4.85,
   "Ranking_Rating": 37,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 150,
+  "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "Ranking_EOS_Completed": 123,
-  "LastChanged": "2023-04-19T09:58:36.4480378+00:00",
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 42,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
-  "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
-  "Ranking_EOS_NewCompleters": 42,
-  "ProductSlug": "hi-fi-rush"
+  "Ranking_EOS_NewPlayers": 140
 }

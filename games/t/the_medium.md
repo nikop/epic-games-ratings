@@ -1,5 +1,5 @@
 # The Medium
-[Store](https://store.epicgames.com/en-US/p/the-medium/home)  
+[Store](https://store.epicgames.com/en-US/p/the-medium)  
 [View Rawdata](../../db/t/the_medium.json)  
 Rating: 4.59 (Ranked 395)  
 ## Achievements

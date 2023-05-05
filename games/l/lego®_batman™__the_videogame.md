@@ -1,5 +1,5 @@
 # LEGO® Batman™: The Videogame
-[Store](https://store.epicgames.com/en-US/p/lego-batman/home)  
+[Store](https://store.epicgames.com/en-US/p/lego-batman)  
 [View Rawdata](../../db/l/lego®_batman™__the_videogame.json)  
 Rating: 4.52 (Ranked 500)  
 Number of Ratings: 523  (23.09.2022)  

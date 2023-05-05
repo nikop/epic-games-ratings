@@ -1323,6 +1323,11 @@
       "Time": "2023-05-05T07:05:46.8020612+00:00",
       "NumProgressed": 60634,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-05T15:42:51.80217+00:00",
+      "NumProgressed": 60635,
+      "NumCompleted": 89
     }
   ],
   "RatingHistory": [
@@ -2207,43 +2212,43 @@
   ],
   "TotalAchievementsXP": 1390,
   "TotalAchievements": 61,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:54.9281019+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:51.8021694+00:00",
   "EOS_NewCompleters": 4,
   "EOS_NewPlayers": 215,
   "EOS_Completed": 89,
-  "EOS_Progressed": 60634,
-  "LastUpdate_Achievements": "2023-05-05T15:05:18.4957705+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:12.1619217+00:00",
+  "EOS_Progressed": 60635,
+  "LastUpdate_Achievements": "2023-05-05T15:42:51.8022789+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:44.7545628+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:54.9281019+00:00",
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60634,
+      "Progressed": 60635,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30914,
+      "Progressed": 30915,
       "Completed": 2628
     }
   ],
   "EOS_Completed_Percentage": 0.15,
-  "LastChanged_Achievements": "2023-05-05T15:05:18.4957088+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
+  "LastChanged": "2023-05-04T23:59:08.0836693+00:00",
+  "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
+  "ProductSlug": "gotham-knights",
   "Rating": 4.17,
   "Ranking_Rating": 827,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 66,
+  "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "Ranking_EOS_Completed": 139,
-  "LastChanged": "2023-05-04T23:59:08.0836693+00:00",
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 35,
   "NumberOfAwards": 3618,
   "NumberOfAwardsMax": 2187,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
-  "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "Ranking_EOS_NewCompleters": 36,
-  "ProductSlug": "gotham-knights"
+  "Ranking_EOS_NewPlayers": 98
 }

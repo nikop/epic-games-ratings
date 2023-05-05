@@ -509,13 +509,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:04.0789378+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:35.9850331+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-05T15:05:04.565716+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:21.1640585+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:35.9850914+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:38.9866802+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:04.0789378+00:00",
   "AchievementSets": [
     {
       "ID": "94elm8b",
@@ -525,11 +526,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:04.5656613+00:00",
-  "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
+  "ProductSlug": "wtc-relentless-protagonist-06c355",
   "Ranking_EOS_Progress": 331,
+  "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "wtc-relentless-protagonist-06c355"
+  "Ranking_EOS_NewPlayers": 202
 }

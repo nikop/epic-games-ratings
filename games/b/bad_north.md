@@ -1,5 +1,5 @@
 # Bad North
-[Store](https://store.epicgames.com/en-US/p/bad-north/home)  
+[Store](https://store.epicgames.com/en-US/p/bad-north)  
 [View Rawdata](../../db/b/bad_north.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 859  (23.09.2022)  

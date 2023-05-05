@@ -1,5 +1,5 @@
 # Cardpocalypse Standard Edition
-[Store](https://store.epicgames.com/en-US/p/cardpocalypse/home)  
+[Store](https://store.epicgames.com/en-US/p/cardpocalypse)  
 [View Rawdata](../../db/c/cardpocalypse_standard_edition.json)  
 ## Achievements
 | Name | Percentage | Users |

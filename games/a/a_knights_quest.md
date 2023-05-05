@@ -1,5 +1,5 @@
 # A Knights Quest
-[Store](https://store.epicgames.com/en-US/p/a-knights-quest/home)  
+[Store](https://store.epicgames.com/en-US/p/a-knights-quest)  
 [View Rawdata](../../db/a/a_knights_quest.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -7,13 +7,14 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:47.7096539+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:04.6735459+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:36.8343162+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:02.2470643+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:04.6735501+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:01.6076034+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:47.7096539+00:00",
   "AchievementSets": [
     {
       "ID": "6gf78k7",
@@ -23,11 +24,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:36.8343116+00:00",
-  "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
+  "ProductSlug": "coryphaeus-championships-216f4a",
   "Ranking_EOS_Progress": 379,
+  "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "coryphaeus-championships-216f4a"
+  "Ranking_EOS_NewPlayers": 269
 }

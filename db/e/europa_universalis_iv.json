@@ -448,7 +448,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1789
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -528,7 +528,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1193
     },
     {
       "ID": "achievement_colonial_management",
@@ -624,7 +624,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -840,7 +840,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1491
     },
     {
       "ID": "achievement_forever_golden",
@@ -1008,7 +1008,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2386
     },
     {
       "ID": "achievement_grand_coalition",
@@ -1032,7 +1032,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1789
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -1086,9 +1086,9 @@
       "ID": "achievement_hessian_mercenaries",
       "SetID": "8p2n7he",
       "Name": "Hessian Mercenaries",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_hoarder",
@@ -1224,7 +1224,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -1944,7 +1944,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -2008,7 +2008,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1789
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -2288,7 +2288,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2386
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -2600,7 +2600,7 @@
       "Name": "True Catholic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -2672,7 +2672,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2684
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -2704,7 +2704,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2386
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -4097,6 +4097,11 @@
     {
       "Time": "2023-05-05T15:04:59.2902275+00:00",
       "NumProgressed": 29787,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T15:42:30.9348383+00:00",
+      "NumProgressed": 29819,
       "NumCompleted": 0
     }
   ],
@@ -8475,43 +8480,43 @@
   ],
   "TotalAchievementsXP": 5175,
   "TotalAchievements": 354,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:53.0791369+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:30.9348376+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6353,
+  "EOS_NewPlayers": 6305,
   "EOS_Completed": 0,
-  "EOS_Progressed": 29787,
-  "LastUpdate_Achievements": "2023-05-05T15:04:59.29133+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:07.5955805+00:00",
+  "EOS_Progressed": 29819,
+  "LastUpdate_Achievements": "2023-05-05T15:42:30.9367892+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:08.1778659+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:53.0791369+00:00",
   "AchievementSets": [
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 29787,
+      "Progressed": 29819,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 29787,
+      "Progressed": 29819,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:59.290227+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
+  "LastChanged": "2023-05-05T14:57:07.5955798+00:00",
+  "ProductSlug": "europa-universalis-iv",
   "Rating": 4.68,
   "Ranking_Rating": 234,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 82,
+  "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T14:57:07.5955798+00:00",
-  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 8414,
   "NumberOfAwards": 42771,
   "NumberOfAwardsMax": 5170,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "europa-universalis-iv"
+  "Ranking_EOS_NewPlayers": 17
 }

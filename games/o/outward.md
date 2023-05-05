@@ -1,4 +1,4 @@
-# Outward
+# Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
 Rating: 4.55 (Ranked 466)  

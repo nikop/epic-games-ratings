@@ -441,13 +441,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:06.4251004+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:12.712728+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 2,
   "EOS_Progressed": 228,
-  "LastUpdate_Achievements": "2023-05-05T15:04:43.7018091+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:21.5722071+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:12.7128014+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:25.348092+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:06.4251004+00:00",
   "AchievementSets": [
     {
       "ID": "2eg5kgc",
@@ -457,20 +458,19 @@
     }
   ],
   "EOS_Completed_Percentage": 0.88,
-  "LastChanged_Achievements": "2023-05-05T15:04:43.7017695+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
+  "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
+  "ProductSlug": "the-caligula-effect-2-a51f60",
   "Rating": 4.44,
   "Ranking_Rating": 621,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 219,
+  "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "Ranking_EOS_Completed": 82,
-  "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 32,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "the-caligula-effect-2-a51f60"
+  "Ranking_EOS_NewPlayers": 269
 }

@@ -1,4 +1,4 @@
-# Godfall
+# Godfall Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/godfall)  
 [View Rawdata](../../db/g/godfall.json)  
 Rating: 4.07 (Ranked 863)  

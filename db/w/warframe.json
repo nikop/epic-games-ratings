@@ -43,7 +43,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2975
+      "Count": 2982
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4617,32 +4617,38 @@
       "Rating": 4.61,
       "NumberOfAwards": 38527,
       "NumberOfAwardsMax": 14554
+    },
+    {
+      "Time": "2023-05-05T15:34:07.3500256+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 38534,
+      "NumberOfAwardsMax": 14554
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:30:52.4751446+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:00:09.3001832+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:07.0357742+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:37:57.8556138+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:07.3500262+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:52.4751446+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:34:07.3500253+00:00",
+  "ProductSlug": "warframe",
   "Rating": 4.61,
   "Ranking_Rating": 353,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T10:57:03.6954713+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 12660,
-  "NumberOfAwards": 38527,
+  "NumberOfAwards": 38534,
   "NumberOfAwardsMax": 14554,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "warframe"
+  "Ranking_EOS_NewPlayers": 269
 }

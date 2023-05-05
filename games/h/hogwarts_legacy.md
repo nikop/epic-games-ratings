@@ -33,14 +33,14 @@ Diff (max vs sum): -16
 | The Seeker of Knowledge | 3.00% | ~7,967 |
 | The Root of the Problem | 3.00% | ~7,967 |
 | Third Time's a Charm | 3.00% | ~7,967 |
-| The Toast of the Town | 2.00% | ~5,311 |
-| Going Through the Potions | 2.00% | ~5,311 |
-| Room with a View | 2.00% | ~5,311 |
-| Floo Around the World | 2.00% | ~5,311 |
-| The Intrepid Explorer | 2.00% | ~5,311 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,311 |
-| The Ends Petrify the Means | 2.00% | ~5,311 |
-| Raising Expectations | 2.00% | ~5,311 |
+| The Toast of the Town | 2.00% | ~5,312 |
+| Going Through the Potions | 2.00% | ~5,312 |
+| Room with a View | 2.00% | ~5,312 |
+| Floo Around the World | 2.00% | ~5,312 |
+| The Intrepid Explorer | 2.00% | ~5,312 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,312 |
+| The Ends Petrify the Means | 2.00% | ~5,312 |
+| Raising Expectations | 2.00% | ~5,312 |
 | The Good Samaritan | 1.00% | ~2,656 |
 | Put Down Roots | 1.00% | ~2,656 |
 | The Auror's Apprentice | 1.00% | ~2,656 |
@@ -55,7 +55,7 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,573 (Ranked 38)  
+Progressed: 265,577 (Ranked 38)  
 Completed: 347 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 347 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,573 | 347 |
+| 2023-05-05 | 265,577 | 347 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

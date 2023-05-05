@@ -1,5 +1,5 @@
 # The Pathless
-[Store](https://store.epicgames.com/en-US/p/the-pathless/home)  
+[Store](https://store.epicgames.com/en-US/p/the-pathless)  
 [View Rawdata](../../db/t/the_pathless.json)  
 Rating: 4.68 (Ranked 234)  
 Number of Ratings: 57  (23.09.2022)  

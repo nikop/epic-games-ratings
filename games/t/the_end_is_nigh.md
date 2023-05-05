@@ -1,5 +1,5 @@
 # The End is Nigh
-[Store](https://store.epicgames.com/en-US/p/the-end-is-nigh/home)  
+[Store](https://store.epicgames.com/en-US/p/the-end-is-nigh)  
 [View Rawdata](../../db/t/the_end_is_nigh.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 38  (23.09.2022)  

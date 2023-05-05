@@ -1,5 +1,5 @@
 # Swords of Legends Online
-[Store](https://store.epicgames.com/en-US/p/swords-of-legends-online/home)  
+[Store](https://store.epicgames.com/en-US/p/swords-of-legends-online)  
 [View Rawdata](../../db/s/swords_of_legends_online.json)  
 Rating: 4.30 (Ranked 752)  
 Number of Ratings: 262  (23.09.2022)  

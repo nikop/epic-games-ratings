@@ -7,18 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:33:29.2264794+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:04:25.9729263+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:47.4732146+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:41:51.2482647+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:37:28.2306653+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:29.2264794+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "ProductSlug": "soundfall",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "soundfall"
+  "Ranking_EOS_NewPlayers": 269
 }

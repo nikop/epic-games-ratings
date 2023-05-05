@@ -1,5 +1,5 @@
 # The Talos Principle
-[Store](https://store.epicgames.com/en-US/p/the-talos-principle/home)  
+[Store](https://store.epicgames.com/en-US/p/the-talos-principle)  
 [View Rawdata](../../db/t/the_talos_principle.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 281  (23.09.2022)  

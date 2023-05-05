@@ -1,5 +1,5 @@
 # Ghost Recon Breakpoint Standard Edition
-[Store](https://store.epicgames.com/en-US/p/ghost-recon-breakpoint/home)  
+[Store](https://store.epicgames.com/en-US/p/ghost-recon-breakpoint)  
 [View Rawdata](../../db/g/ghost_recon_breakpoint_standard_edition.json)  
 Rating: 4.54 (Ranked 476)  
 Number of Ratings: 4,870  (23.09.2022)  

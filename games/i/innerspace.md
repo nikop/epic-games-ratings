@@ -1,5 +1,5 @@
 # InnerSpace
-[Store](https://store.epicgames.com/en-US/p/innerspace/home)  
+[Store](https://store.epicgames.com/en-US/p/innerspace)  
 [View Rawdata](../../db/i/innerspace.json)  
 ## Achievements
 | Name | Percentage | Users |

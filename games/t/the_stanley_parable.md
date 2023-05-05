@@ -1,5 +1,5 @@
 # The Stanley Parable
-[Store](https://store.epicgames.com/en-US/p/the-stanley-parable/home)  
+[Store](https://store.epicgames.com/en-US/p/the-stanley-parable)  
 [View Rawdata](../../db/t/the_stanley_parable.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 188  (23.09.2022)  

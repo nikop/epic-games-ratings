@@ -1,5 +1,5 @@
 # Wheels of Aurelia
-[Store](https://store.epicgames.com/en-US/p/wheels-of-aurelia/home)  
+[Store](https://store.epicgames.com/en-US/p/wheels-of-aurelia)  
 [View Rawdata](../../db/w/wheels_of_aurelia.json)  
 ## Achievements
 | Name | Percentage | Users |

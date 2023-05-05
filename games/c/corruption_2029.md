@@ -1,7 +1,7 @@
 # CORRUPTION 2029
-[Store](https://store.epicgames.com/en-US/p/corruption-2029/home)  
+[Store](https://store.epicgames.com/en-US/p/corruption-2029)  
 [View Rawdata](../../db/c/corruption_2029.json)  
-Rating: 3.75 (Ranked 909)  
+Rating: 3.75 (Ranked 910)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

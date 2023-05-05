@@ -56,7 +56,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9438
+      "UsersEstimate": 9439
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -64,7 +64,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28315
+      "UsersEstimate": 28316
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -72,7 +72,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9438
+      "UsersEstimate": 9439
     },
     {
       "ID": "ACH_COP_DORK",
@@ -120,7 +120,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23596
+      "UsersEstimate": 23597
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -224,7 +224,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16517
+      "UsersEstimate": 16518
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -1438,6 +1438,11 @@
       "Time": "2023-05-05T15:05:06.8600447+00:00",
       "NumProgressed": 117981,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T15:42:38.3943644+00:00",
+      "NumProgressed": 117983,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2406,37 +2411,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:19.5872054+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:38.3943639+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 367,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117981,
-  "LastUpdate_Achievements": "2023-05-05T15:05:06.8600813+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:37.2714183+00:00",
+  "EOS_Progressed": 117983,
+  "LastUpdate_Achievements": "2023-05-05T15:42:38.3944092+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:58.4199229+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:19.5872054+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117981,
+      "Progressed": 117983,
       "Completed": 24
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T15:05:06.8600442+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
+  "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
+  "ProductSlug": "disco-elysium",
   "Rating": 4.86,
   "Ranking_Rating": 28,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 55,
+  "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "Ranking_EOS_Completed": 175,
-  "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 1611,
   "NumberOfAwards": 1043,
   "NumberOfAwardsMax": 687,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "disco-elysium"
+  "Ranking_EOS_NewPlayers": 84
 }

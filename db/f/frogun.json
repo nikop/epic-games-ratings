@@ -62,17 +62,17 @@
       "ID": "Achievement_Prickly",
       "SetID": "cn6a29l",
       "Name": "Prickly situation handler",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement_Race1",
       "SetID": "cn6a29l",
       "Name": "On foot racer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Achievement_RaceAll",
@@ -182,9 +182,9 @@
       "ID": "Achievement_hitJake",
       "SetID": "cn6a29l",
       "Name": "Pragmatic",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_hubworld",
@@ -274,13 +274,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastUpdate_AppInfo": "2023-05-05T13:32:56.0571276+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:48.3398371+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 3,
   "EOS_Progressed": 193,
-  "LastUpdate_Achievements": "2023-05-05T15:05:15.6595359+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:59:13.148642+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:48.339862+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:36:46.0319941+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:56.0571276+00:00",
   "AchievementSets": [
     {
       "ID": "cn6a29l",
@@ -290,16 +291,15 @@
     }
   ],
   "EOS_Completed_Percentage": 1.55,
-  "LastChanged_Achievements": "2023-05-05T15:05:15.659515+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
-  "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 64,
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "Ranking_EOS_NewPlayers": 231,
+  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
+  "ProductSlug": "frogun-9cf69e",
+  "Ranking_EOS_Progress": 223,
+  "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "frogun-9cf69e"
+  "Ranking_EOS_NewPlayers": 230
 }

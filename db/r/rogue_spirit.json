@@ -501,13 +501,14 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:37.7956208+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:15.6483109+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-05T15:04:46.2871276+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:55.2231442+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:42:15.6484078+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:06.6598584+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:37.7956208+00:00",
   "AchievementSets": [
     {
       "ID": "b42i7am",
@@ -517,16 +518,15 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:46.2870735+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
-  "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
+  "ProductSlug": "rogue-spirit",
+  "Ranking_EOS_Progress": 297,
+  "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-16T13:13:35.7951452+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "rogue-spirit"
+  "Ranking_EOS_NewPlayers": 269
 }

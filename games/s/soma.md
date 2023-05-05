@@ -1,5 +1,5 @@
 # SOMA
-[Store](https://store.epicgames.com/en-US/p/soma/home)  
+[Store](https://store.epicgames.com/en-US/p/soma)  
 [View Rawdata](../../db/s/soma.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 295  (23.09.2022)  

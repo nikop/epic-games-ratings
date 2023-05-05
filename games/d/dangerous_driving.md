@@ -1,5 +1,5 @@
 # Dangerous Driving
-[Store](https://store.epicgames.com/en-US/p/dangerous-driving/home)  
+[Store](https://store.epicgames.com/en-US/p/dangerous-driving)  
 [View Rawdata](../../db/d/dangerous_driving.json)  
 ## Achievements
 | Name | Percentage | Users |

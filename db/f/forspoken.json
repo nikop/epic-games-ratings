@@ -160,7 +160,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "CUFF_ATTACK",
@@ -1093,6 +1093,11 @@
       "Time": "2023-05-05T15:05:00.9339158+00:00",
       "NumProgressed": 37564,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T15:42:32.596622+00:00",
+      "NumProgressed": 37565,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1293,42 +1298,42 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:55.6535509+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:32.5966215+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_Completed": 1,
-  "EOS_Progressed": 37564,
-  "LastUpdate_Achievements": "2023-05-05T15:05:00.9339655+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:13.8561261+00:00",
+  "EOS_Progressed": 37565,
+  "LastUpdate_Achievements": "2023-05-05T15:42:32.5966727+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:29.2672131+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:55.6535509+00:00",
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37564,
+      "Progressed": 37565,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2401,
-      "Completed": 2401
+      "Progressed": 2402,
+      "Completed": 2402
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:05:00.9339153+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
+  "LastChanged": "2023-05-05T08:58:30.6786847+00:00",
+  "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
+  "ProductSlug": "forspoken",
   "Rating": 4.11,
   "Ranking_Rating": 852,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 79,
+  "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T08:58:30.6786847+00:00",
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
-  "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "forspoken"
+  "Ranking_EOS_NewPlayers": 102
 }

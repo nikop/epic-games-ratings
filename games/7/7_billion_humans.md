@@ -1,5 +1,5 @@
 # 7 Billion Humans
-[Store](https://store.epicgames.com/en-US/p/7-billion-humans/home)  
+[Store](https://store.epicgames.com/en-US/p/7-billion-humans)  
 [View Rawdata](../../db/7/7_billion_humans.json)  
 ## Achievements
 | Name | Percentage | Users |

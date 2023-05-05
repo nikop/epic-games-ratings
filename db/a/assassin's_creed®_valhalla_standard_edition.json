@@ -7,7 +7,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 11676
+      "Count": 11694
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4567,32 +4567,38 @@
       "Rating": 4.6,
       "NumberOfAwards": 27070,
       "NumberOfAwardsMax": 11676
+    },
+    {
+      "Time": "2023-05-05T15:34:18.9897603+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27088,
+      "NumberOfAwardsMax": 11694
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:01.3514413+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:02:12.9127313+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:16.249745+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:39:28.0603489+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:18.9897609+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:01.3514413+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "LastChanged": "2023-05-05T15:34:18.98976+00:00",
+  "ProductSlug": "assassins-creed-valhalla",
   "Rating": 4.6,
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T10:57:14.635166+00:00",
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 12317,
-  "NumberOfAwards": 27070,
-  "NumberOfAwardsMax": 11676,
+  "NumberOfAwards": 27088,
+  "NumberOfAwardsMax": 11694,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "assassins-creed-valhalla/home"
+  "Ranking_EOS_NewPlayers": 269
 }

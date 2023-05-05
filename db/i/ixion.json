@@ -650,6 +650,11 @@
       "Time": "2023-05-05T01:58:18.0424722+00:00",
       "NumProgressed": 1828,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T15:42:13.1901388+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -806,42 +811,42 @@
   ],
   "TotalAchievementsXP": 1050,
   "TotalAchievements": 57,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:49.4897807+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:42:13.1901382+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1828,
-  "LastUpdate_Achievements": "2023-05-05T15:04:44.1098226+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:58:07.8087379+00:00",
+  "EOS_Progressed": 1829,
+  "LastUpdate_Achievements": "2023-05-05T15:42:13.1902255+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:35:21.5654938+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:49.4897807+00:00",
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 3
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1828,
+      "Progressed": 1829,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T15:04:44.1097708+00:00",
-  "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
+  "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
+  "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
+  "ProductSlug": "ixion-88cda4",
   "Rating": 4.54,
   "Ranking_Rating": 476,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 145,
+  "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
-  "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
-  "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "ixion-88cda4"
+  "Ranking_EOS_NewPlayers": 138
 }

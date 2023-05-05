@@ -1,5 +1,5 @@
 # CastleStorm 2
-[Store](https://store.epicgames.com/en-US/p/castlestorm2/home)  
+[Store](https://store.epicgames.com/en-US/p/castlestorm2)  
 [View Rawdata](../../db/c/castlestorm_2.json)  
 ## Achievements
 | Name | Percentage | Users |

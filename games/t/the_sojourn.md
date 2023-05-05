@@ -1,5 +1,5 @@
 # The Sojourn
-[Store](https://store.epicgames.com/en-US/p/the-sojourn/home)  
+[Store](https://store.epicgames.com/en-US/p/the-sojourn)  
 [View Rawdata](../../db/t/the_sojourn.json)  
 ## Achievements
 | Name | Percentage | Users |

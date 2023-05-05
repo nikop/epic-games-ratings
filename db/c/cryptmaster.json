@@ -7,18 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastUpdate_AppInfo": "2023-05-05T13:31:15.7494892+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:02:11.5887295+00:00",
-  "LastUpdate_Ratings": "2023-05-05T14:57:32.0224743+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:39:26.488255+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:34:38.2273165+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:15.7494892+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
+  "ProductSlug": "cryptmaster-6468dc",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
-  "ProductSlug": "cryptmaster-6468dc"
+  "Ranking_EOS_NewPlayers": 269
 }
