@@ -17,8 +17,8 @@ Rating: 4.76 (Ranked 114)
 | Past trauma | 31.00% | ~584 |
 | Thornbarrow | 31.00% | ~584 |
 | Ternmoat Headquarters | 31.00% | ~584 |
+| Elemental master | 30.00% | ~565 |
 | Cypress Glen Headquarters | 30.00% | ~565 |
-| Elemental master | 29.00% | ~546 |
 | Old friend | 26.00% | ~490 |
 | Petricite Burst | 26.00% | ~490 |
 | Devineur | 25.00% | ~471 |
@@ -37,8 +37,8 @@ Rating: 4.76 (Ranked 114)
 | Terbisia | 13.00% | ~245 |
 | Quickmoore Headquarters | 13.00% | ~245 |
 | Whispers in the Woods III | 12.00% | ~226 |
+| Friendly fire | 12.00% | ~226 |
 | My heart and sword always for Demacia | 11.00% | ~207 |
-| Friendly fire | 11.00% | ~207 |
 | True power | 11.00% | ~207 |
 | Meltridge | 11.00% | ~207 |
 | The Central Headquarters | 11.00% | ~207 |

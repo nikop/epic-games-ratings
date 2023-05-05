@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.43,
   "RatingHistory": [
     {
@@ -274,11 +274,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 2089,
       "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2023-05-05T20:59:50.5132752+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2090,
+      "NumberOfAwardsMax": 277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2089,
-  "NumberOfAwardsMax": 276,
+  "NumberOfAwards": 2090,
+  "NumberOfAwardsMax": 277,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -303,7 +309,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 276
+      "Count": 277
     },
     {
       "Text": "This game has Amazing Characters",
@@ -342,9 +348,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 208635,
+  "EOS_Progressed": 208647,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1035,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1557,6 +1563,11 @@
       "Time": "2023-05-05T20:06:26.646359+00:00",
       "NumProgressed": 208635,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T21:07:03.5779855+00:00",
+      "NumProgressed": 208647,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 34,
@@ -1568,7 +1579,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 39641
+      "UsersEstimate": 39643
     },
     {
       "ID": "ACH_BASE_10",
@@ -1576,7 +1587,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 52159
+      "UsersEstimate": 52162
     },
     {
       "ID": "ACH_BASE_11",
@@ -1592,7 +1603,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8345
+      "UsersEstimate": 8346
     },
     {
       "ID": "ACH_BASE_13",
@@ -1600,7 +1611,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_BASE_15",
@@ -1608,7 +1619,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18777
+      "UsersEstimate": 18778
     },
     {
       "ID": "ACH_BASE_16",
@@ -1616,7 +1627,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18777
+      "UsersEstimate": 18778
     },
     {
       "ID": "ACH_BASE_17",
@@ -1624,7 +1635,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18777
+      "UsersEstimate": 18778
     },
     {
       "ID": "ACH_BASE_18",
@@ -1632,7 +1643,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18777
+      "UsersEstimate": 18778
     },
     {
       "ID": "ACH_BASE_19",
@@ -1648,7 +1659,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12518
+      "UsersEstimate": 12519
     },
     {
       "ID": "ACH_BASE_20",
@@ -1736,7 +1747,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8345
+      "UsersEstimate": 8346
     },
     {
       "ID": "ACH_BASE_30",
@@ -1816,7 +1827,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25036
+      "UsersEstimate": 25038
     },
     {
       "ID": "ACH_BASE_8",
@@ -1824,7 +1835,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8345
+      "UsersEstimate": 8346
     },
     {
       "ID": "ACH_BASE_9",
@@ -1832,23 +1843,23 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18777
+      "UsersEstimate": 18778
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 208635,
+      "Progressed": 208647,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-05-02T19:58:08.1401742+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:26.6463584+00:00",
+  "LastChanged": "2023-05-05T20:59:50.513275+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:03.577985+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.3584848+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:59:42.6506646+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:26.6463861+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:59:50.5132757+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:03.5780195+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.7559867+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2516,
+  "EOS_Progressed": 2518,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -403,6 +403,11 @@
       "Time": "2023-05-05T17:09:51.9208239+00:00",
       "NumProgressed": 2516,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T21:07:42.5089289+00:00",
+      "NumProgressed": 2518,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 33,
@@ -414,7 +419,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "bonus2",
@@ -438,7 +443,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "bonus5",
@@ -462,7 +467,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2266
     },
     {
       "ID": "campaign10",
@@ -526,7 +531,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "campaign18",
@@ -550,7 +555,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "campaign20",
@@ -564,9 +569,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1637
     },
     {
       "ID": "campaign4",
@@ -574,7 +579,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "campaign5",
@@ -590,7 +595,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "campaign7",
@@ -598,7 +603,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "campaign8",
@@ -614,7 +619,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "scenario1",
@@ -670,14 +675,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2516,
+      "Progressed": 2518,
       "Completed": 8
     }
   ],
@@ -685,8 +690,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:07:02.9764703+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:42.5089284+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:28.5076267+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:07:02.9764906+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:47.3634987+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:42.5089554+00:00"
 }

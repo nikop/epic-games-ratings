@@ -7,15 +7,15 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 28.00% | ~315 |
-| Me and My Familiar | 26.00% | ~292 |
+| Me and My Familiar | 26.00% | ~293 |
 | This Too Shall Pass | 22.00% | ~248 |
 | Passing Shadow | 21.00% | ~236 |
 | Cutthroat Competitors | 21.00% | ~236 |
 | How Romantic! | 20.00% | ~225 |
 | Daybreak | 20.00% | ~225 |
-| Gotta Ca... Must Collect All of Them | 18.00% | ~202 |
-| Completing the Look | 10.00% | ~112 |
-| War Endured | 10.00% | ~112 |
+| Gotta Ca... Must Collect All of Them | 18.00% | ~203 |
+| Completing the Look | 10.00% | ~113 |
+| War Endured | 10.00% | ~113 |
 | A Mythic Menagerie | 9.00% | ~101 |
 | Who's Counting? | 9.00% | ~101 |
 | Core Failure | 9.00% | ~101 |
@@ -36,20 +36,20 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 3.00% | ~34 |
 | Wingknight's Prowess | 3.00% | ~34 |
 | No Time for Clawmonsters | 3.00% | ~34 |
-| We Emerge Changed | 2.00% | ~22 |
-| Storied Past | 2.00% | ~22 |
-| The Power of Friendship | 2.00% | ~22 |
-| Empty the Caves | 2.00% | ~22 |
-| Bonebreakers | 2.00% | ~22 |
-| No More Nightmares | 2.00% | ~22 |
-| Bears are Scary | 2.00% | ~22 |
-| Fight Like a Bird | 2.00% | ~22 |
-| Grillmaster | 2.00% | ~22 |
-| Some Say I'm Too Flashy | 2.00% | ~22 |
-| Into Mulch | 2.00% | ~22 |
-| Astrology | 2.00% | ~22 |
-| Tempest | 2.00% | ~22 |
-| Lochias's Hunger | 2.00% | ~22 |
+| We Emerge Changed | 2.00% | ~23 |
+| Storied Past | 2.00% | ~23 |
+| The Power of Friendship | 2.00% | ~23 |
+| Empty the Caves | 2.00% | ~23 |
+| Bonebreakers | 2.00% | ~23 |
+| No More Nightmares | 2.00% | ~23 |
+| Bears are Scary | 2.00% | ~23 |
+| Fight Like a Bird | 2.00% | ~23 |
+| Grillmaster | 2.00% | ~23 |
+| Some Say I'm Too Flashy | 2.00% | ~23 |
+| Into Mulch | 2.00% | ~23 |
+| Astrology | 2.00% | ~23 |
+| Tempest | 2.00% | ~23 |
+| Lochias's Hunger | 2.00% | ~23 |
 | Drauvenslayers | 1.00% | ~11 |
 | Back into the Sea | 1.00% | ~11 |
 | War-Ender | 1.00% | ~11 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125 (Ranked 155)  
+Progressed: 1,126 (Ranked 155)  
 Completed: 3 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 3 (0.27%) (Ranked 123)
 | 2023-04-30 | 1,119 | 3 |
 | 2023-05-02 | 1,120 | 3 |
 | 2023-05-04 | 1,121 | 3 |
-| 2023-05-05 | 1,125 | 3 |
+| 2023-05-05 | 1,126 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 462)  

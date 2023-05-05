@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 49,
   "RatingHistory": [
     {
@@ -377,9 +377,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -490,8 +490,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:37.5692576+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:15.1856028+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:51.8789277+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:59:52.3110296+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:37.569291+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:00:00.2794097+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:15.1856483+00:00"
 }

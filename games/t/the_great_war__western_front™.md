@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 59.00% | ~47 |
-| Das Ist Endgültig! | 14.00% | ~11 |
-| La Der des Ders | 13.00% | ~10 |
+| Earth Shattering | 58.00% | ~47 |
+| Das Ist Endgültig! | 15.00% | ~12 |
+| La Der des Ders | 12.00% | ~10 |
 | The Chemists' War | 6.00% | ~5 |
 | From the Pages of History | 5.00% | ~4 |
 | War with Friends | 1.00% | ~1 |
@@ -17,7 +17,7 @@
 | That's Not What Happened | 0.00% | ~0 |
 | Nothing Can Stop Us! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 251)  
+Progressed: 81 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -29,7 +29,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 71 | 0 |
 | 2023-05-03 | 73 | 0 |
 | 2023-05-04 | 76 | 0 |
-| 2023-05-05 | 80 | 0 |
+| 2023-05-05 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

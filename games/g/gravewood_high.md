@@ -1,7 +1,7 @@
 # Gravewood High
 [Store](https://store.epicgames.com/en-US/p/gravewood-high)  
 [View Rawdata](../../db/g/gravewood_high.json)  
-Rating: 4.01 (Ranked 877)  
+Rating: 4.03 (Ranked 874)  
 Number of Ratings: 32  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -47,3 +47,4 @@ Number of Ratings: 32  (23.09.2022)
 | 2023-03-31 | 3.98 | - | 0 | 0 |
 | 2023-04-03 | 4.00 | - | 0 | 0 |
 | 2023-04-30 | 4.01 | - | 0 | 0 |
+| 2023-05-05 | 4.03 | - | 0 | 0 |

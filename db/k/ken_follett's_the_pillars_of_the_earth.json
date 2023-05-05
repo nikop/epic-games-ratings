@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12188,
+  "EOS_Progressed": 12189,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1152,6 +1152,11 @@
       "Time": "2023-05-05T20:06:14.3104177+00:00",
       "NumProgressed": 12188,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-05T21:06:50.1618965+00:00",
+      "NumProgressed": 12189,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 41,
@@ -1267,7 +1272,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "tpote_achievement_22",
@@ -1275,7 +1280,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "tpote_achievement_23",
@@ -1323,7 +1328,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "tpote_achievement_29",
@@ -1475,7 +1480,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "tpote_achievement_9",
@@ -1490,15 +1495,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12188,
+      "Progressed": 12189,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:14.3104173+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:06:50.1618959+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:13.1458455+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:14.3104506+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:29.8535266+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:06:50.1619329+00:00"
 }

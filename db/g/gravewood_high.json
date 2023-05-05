@@ -2,14 +2,14 @@
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
   "ProductSlug": "gravewood-high",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 874,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 75,
-  "Rating": 4.01,
+  "Ranking_EOS_NewCompleters": 74,
+  "Rating": 4.03,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -203,6 +203,12 @@
       "Rating": 4.01,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-05T21:01:28.7982128+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -221,8 +227,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:07.1625329+00:00",
   "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
-  "LastChanged": "2023-04-30T20:59:49.6791535+00:00",
+  "LastChanged": "2023-05-05T21:01:28.7982126+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.5728184+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:11.8089888+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:05:33.0480172+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:28.7982137+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:06:05.0120964+00:00"
 }

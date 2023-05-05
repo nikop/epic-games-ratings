@@ -4,8 +4,8 @@
   "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.5786698+00:00",
@@ -42,9 +42,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "2e4ldac",
       "Name": "Shiny New Weapons",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -211,8 +211,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:33.7973334+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:11.2497641+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:41.1116058+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:59:38.8503635+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:33.7973453+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:59:46.1272189+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:11.2497805+00:00"
 }

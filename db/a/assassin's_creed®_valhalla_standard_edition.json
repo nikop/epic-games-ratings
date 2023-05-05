@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.6,
   "NumberOfRatings": 12317,
   "RatingHistory": [
@@ -4507,10 +4507,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 27088,
       "NumberOfAwardsMax": 11694
+    },
+    {
+      "Time": "2023-05-05T20:58:43.2971836+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27100,
+      "NumberOfAwardsMax": 11694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27088,
+  "NumberOfAwards": 27100,
   "NumberOfAwardsMax": 11694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4524,7 +4530,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7338
+      "Count": 7345
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4566,7 +4572,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 933
+      "Count": 938
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4598,8 +4604,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-05-05T15:34:18.98976+00:00",
+  "LastChanged": "2023-05-05T20:58:43.2971832+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.2009153+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:58:42.0654489+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:04:11.6730865+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:58:43.2971845+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:04:30.0411052+00:00"
 }

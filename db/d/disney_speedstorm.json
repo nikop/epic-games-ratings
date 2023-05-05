@@ -5,13 +5,13 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2330,
+  "EOS_Progressed": 2331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-05-05T20:06:39.5281856+00:00",
       "NumProgressed": 2330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T21:07:17.4345386+00:00",
+      "NumProgressed": 2331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1011,9 +1016,9 @@
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 373
+      "UsersEstimate": 396
     },
     {
       "ID": "20",
@@ -1027,9 +1032,9 @@
       "ID": "21",
       "SetID": "9p3jgda",
       "Name": "ACE DEFENDER",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 140
     },
     {
       "ID": "22",
@@ -1077,7 +1082,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "6",
@@ -1091,9 +1096,9 @@
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 65,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "8",
@@ -1116,13 +1121,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2330,
+      "Progressed": 2331,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:39.5281848+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:17.434538+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:00:07.56055+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:39.5282038+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:00:17.3573731+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:17.4345619+00:00"
 }

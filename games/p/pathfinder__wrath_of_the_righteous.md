@@ -17,6 +17,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 3.00% | ~259 |
 | Path of the Angel | 3.00% | ~259 |
 | Great Upstart | 3.00% | ~259 |
+| All Paths Open | 3.00% | ~259 |
 | Demonic and Divine | 3.00% | ~259 |
 | Path of the Azata | 2.00% | ~173 |
 | Transformation | 2.00% | ~173 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Divide and Rule | 2.00% | ~173 |
 | Mythic Reinforcements | 2.00% | ~173 |
 | Voice from Your Dreams | 2.00% | ~173 |
-| All Paths Open | 2.00% | ~173 |
 | A Flame | 2.00% | ~173 |
 | Hey, I Know You! | 2.00% | ~173 |
 | Next-Door Play | 2.00% | ~173 |

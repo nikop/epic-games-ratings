@@ -2,14 +2,14 @@
   "ID": "92053006068e4aa9b1ad413f72090f5e",
   "Name": "Limbo",
   "ProductSlug": "limbo",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 75,
-  "Rating": 4.62,
+  "Ranking_EOS_NewCompleters": 74,
+  "Rating": 4.61,
   "NumberOfRatings": 198,
   "RatingHistory": [
     {
@@ -379,6 +379,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-05T20:59:27.1180721+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -396,8 +402,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
-  "LastChanged": "2023-03-31T05:57:49.8341392+00:00",
+  "LastChanged": "2023-05-05T20:59:27.1180719+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:25.1951979+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:59:21.605247+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:02:25.4062998+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:59:27.1180727+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:02:52.0729577+00:00"
 }

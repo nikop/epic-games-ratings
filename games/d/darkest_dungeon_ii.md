@@ -6,21 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nope | 125.00% | ~5 |
-| A Place to Lay Your Head | 100.00% | ~4 |
-| To Grandmother's House | 75.00% | ~3 |
-| Don't Make Me Turn This Coach Around | 50.00% | ~2 |
-| Serenity Now! | 50.00% | ~2 |
-| The World As It Was | 50.00% | ~2 |
-| This Looks Familiar | 50.00% | ~2 |
-| Hope Rekindled | 50.00% | ~2 |
-| Loop Year | 25.00% | ~1 |
-| Predator | 25.00% | ~1 |
-| Deprogramming | 25.00% | ~1 |
-| Hat Trick | 25.00% | ~1 |
-| Rush Hour | 25.00% | ~1 |
-| Autodidact | 25.00% | ~1 |
-| Body of Work | 25.00% | ~1 |
+| Nope | 100.00% | ~5 |
+| The World As It Was | 80.00% | ~4 |
+| This Looks Familiar | 80.00% | ~4 |
+| Hope Rekindled | 80.00% | ~4 |
+| A Place to Lay Your Head | 80.00% | ~4 |
+| To Grandmother's House | 60.00% | ~3 |
+| Don't Make Me Turn This Coach Around | 40.00% | ~2 |
+| Serenity Now! | 40.00% | ~2 |
+| Loop Year | 20.00% | ~1 |
+| Predator | 20.00% | ~1 |
+| Deprogramming | 20.00% | ~1 |
+| Hat Trick | 20.00% | ~1 |
+| Rush Hour | 20.00% | ~1 |
+| Autodidact | 20.00% | ~1 |
+| Unshackled | 20.00% | ~1 |
+| Body of Work | 20.00% | ~1 |
 | It Rings a Bell | 0.00% | ~0 |
 | A Life Well Lived | 0.00% | ~0 |
 | Resurrection | 0.00% | ~0 |
@@ -64,7 +65,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.00% | ~0 |
 | Utopia | 0.00% | ~0 |
 | Eidetic | 0.00% | ~0 |
-| Unshackled | 0.00% | ~0 |
 | Hot Air | 0.00% | ~0 |
 | Eyes Up | 0.00% | ~0 |
 | Handled | 0.00% | ~0 |
@@ -72,13 +72,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.00% | ~0 |
 | Road Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 331)  
+Progressed: 5 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-03 | 2 | 0 |
 | 2023-05-04 | 4 | 0 |
+| 2023-05-05 | 5 | 0 |
 ## Awards
 Max (Character Customization): 6,514  (Ranked 48)  
 Sum: 16,606 (Ranked 57)  

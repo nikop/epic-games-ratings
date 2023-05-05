@@ -19,7 +19,7 @@ Rating: 4.44 (Ranked 621)
 | As Quiet as a Mouse | 19.00% | ~129 |
 | The Kraken Sleeps | 19.00% | ~129 |
 | Liberté | 17.00% | ~116 |
-| Explosive Efficiency | 15.00% | ~102 |
+| Explosive Efficiency | 16.00% | ~109 |
 | Climbing the Ladder | 14.00% | ~95 |
 | Fields of Glory | 14.00% | ~95 |
 | Gunslinger | 14.00% | ~95 |

@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.71% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
@@ -33,7 +33,7 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.63% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.57% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -49,11 +49,11 @@
 | 47 | [FORECLOSED](games/f/foreclosed.md) | 2.74% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.62% |
+| 50 | [ZZT!](games/z/zzt!.md) | 2.61% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -378,4 +378,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,558 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,559 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

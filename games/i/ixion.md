@@ -13,6 +13,7 @@ Rating: 4.54 (Ranked 476)
 | A Hunk of Junk | 0.20% | ~4 |
 | A Thousand Strong | 0.20% | ~4 |
 | Power Outage | 0.20% | ~4 |
+| Fully Recycled | 0.20% | ~4 |
 | Permanent Redesigns | 0.20% | ~4 |
 | Convenient Transport | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 476)
 | In Dolos We Trust | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
-| Fully Recycled | 0.10% | ~2 |
 | Ready for a New World | 0.10% | ~2 |
 | Access Granted | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |

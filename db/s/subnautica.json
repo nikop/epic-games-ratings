@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.84,
   "NumberOfRatings": 7928,
   "RatingHistory": [
@@ -3250,18 +3250,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 5216,
       "NumberOfAwardsMax": 653
+    },
+    {
+      "Time": "2023-05-05T21:00:33.0273652+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5219,
+      "NumberOfAwardsMax": 655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5216,
-  "NumberOfAwardsMax": 653,
+  "NumberOfAwards": 5219,
+  "NumberOfAwardsMax": 655,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 653
+      "Count": 655
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3291,7 +3297,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 598
+      "Count": 599
     },
     {
       "Text": "This game is Relaxing",
@@ -3335,8 +3341,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-05-05T14:58:40.675547+00:00",
+  "LastChanged": "2023-05-05T21:00:33.027365+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.7211965+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:00:21.9036349+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:04:58.5844431+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:00:33.0273657+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:05:22.5936126+00:00"
 }

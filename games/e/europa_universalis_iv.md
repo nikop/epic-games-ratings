@@ -1,47 +1,47 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 235)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,704 |
-| That's a Grand Army | 8.00% | ~2,403 |
-| That is mine! | 8.00% | ~2,403 |
-| Victorious! | 8.00% | ~2,403 |
-| Brothers in Arms | 6.00% | ~1,803 |
-| That's a Grand Navy | 6.00% | ~1,803 |
-| Seriously?! | 6.00% | ~1,803 |
-| For the Glory | 5.00% | ~1,502 |
-| Cold War | 4.00% | ~1,202 |
-| Defender of the Faith | 3.00% | ~901 |
-| It's all about the money | 3.00% | ~901 |
-| Respected | 3.00% | ~901 |
-| True Catholic | 3.00% | ~901 |
-| Blockader | 2.00% | ~601 |
-| Combined Arms | 2.00% | ~601 |
-| Double the Love | 2.00% | ~601 |
-| Gentle Persuasion | 2.00% | ~601 |
-| It's all about luck | 2.00% | ~601 |
-| Queen of Conquest | 2.00% | ~601 |
-| Royal Authority | 2.00% | ~601 |
-| The Princess is in this Castle | 2.00% | ~601 |
-| Total Control | 2.00% | ~601 |
-| Truly Divine Ruler | 2.00% | ~601 |
-| Agressive Expander | 1.00% | ~300 |
-| Azur semé de lis or | 1.00% | ~300 |
-| Bright Spark | 1.00% | ~300 |
-| Factionalism | 1.00% | ~300 |
-| A Golden Empire | 1.00% | ~300 |
-| My armies are invincible! | 1.00% | ~300 |
-| All That's Thine Shall Be Mine | 0.90% | ~270 |
-| City of Cities | 0.90% | ~270 |
-| Isn't this the way to India? | 0.70% | ~210 |
-| The Five Colonies | 0.70% | ~210 |
-| The Emperors new clothes | 0.60% | ~180 |
-| Market Control | 0.60% | ~180 |
-| This navy can take it all | 0.60% | ~180 |
+| Until death do us apart | 9.00% | ~2,709 |
+| That's a Grand Army | 8.00% | ~2,408 |
+| That is mine! | 8.00% | ~2,408 |
+| Victorious! | 8.00% | ~2,408 |
+| Brothers in Arms | 6.00% | ~1,806 |
+| That's a Grand Navy | 6.00% | ~1,806 |
+| Seriously?! | 6.00% | ~1,806 |
+| For the Glory | 5.00% | ~1,505 |
+| Cold War | 4.00% | ~1,204 |
+| Defender of the Faith | 3.00% | ~903 |
+| It's all about the money | 3.00% | ~903 |
+| Respected | 3.00% | ~903 |
+| True Catholic | 3.00% | ~903 |
+| Blockader | 2.00% | ~602 |
+| Combined Arms | 2.00% | ~602 |
+| Double the Love | 2.00% | ~602 |
+| Gentle Persuasion | 2.00% | ~602 |
+| It's all about luck | 2.00% | ~602 |
+| Queen of Conquest | 2.00% | ~602 |
+| Royal Authority | 2.00% | ~602 |
+| The Princess is in this Castle | 2.00% | ~602 |
+| Total Control | 2.00% | ~602 |
+| Truly Divine Ruler | 2.00% | ~602 |
+| Agressive Expander | 1.00% | ~301 |
+| Azur semé de lis or | 1.00% | ~301 |
+| Bright Spark | 1.00% | ~301 |
+| Factionalism | 1.00% | ~301 |
+| A Golden Empire | 1.00% | ~301 |
+| My armies are invincible! | 1.00% | ~301 |
+| All That's Thine Shall Be Mine | 0.90% | ~271 |
+| City of Cities | 0.90% | ~271 |
+| Isn't this the way to India? | 0.70% | ~211 |
+| The Five Colonies | 0.70% | ~211 |
+| The Emperors new clothes | 0.60% | ~181 |
+| Market Control | 0.60% | ~181 |
+| This navy can take it all | 0.60% | ~181 |
 | Down Under | 0.50% | ~150 |
 | Electable! | 0.50% | ~150 |
 | Time Bandit | 0.50% | ~150 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,043 (Ranked 82)  
+Progressed: 30,097 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 30,043 | 0 |
+| 2023-05-05 | 30,097 | 0 |
 ## Awards
 Max (Educational): 5,170  (Ranked 60)  
 Sum: 42,780 (Ranked 26)  

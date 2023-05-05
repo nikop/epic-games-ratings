@@ -31,14 +31,14 @@ Rating: 4.67 (Ranked 255)
 | Both sides | 2.00% | ~6 |
 | Always worth a try | 2.00% | ~6 |
 | Toxic | 2.00% | ~6 |
-| Bad apple | 1.00% | ~3 |
-| Loremaster | 1.00% | ~3 |
-| Awards unwarded | 1.00% | ~3 |
-| Entangled | 1.00% | ~3 |
+| Bad apple | 0.90% | ~3 |
+| Loremaster | 0.90% | ~3 |
+| Awards unwarded | 0.90% | ~3 |
+| Entangled | 0.90% | ~3 |
 | Mushrooming enthusiast | 0.30% | ~1 |
 | Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 203)  
+Progressed: 316 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 310 | 0 |
 | 2023-05-03 | 313 | 0 |
 | 2023-05-04 | 314 | 0 |
-| 2023-05-05 | 315 | 0 |
+| 2023-05-05 | 316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

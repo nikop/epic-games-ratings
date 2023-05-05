@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.76,
   "RatingHistory": [
     {
@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 1884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -869,9 +869,9 @@
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 565
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -917,9 +917,9 @@
       "ID": "STB_DEFEAT_KILLAN",
       "SetID": "3pe2bac",
       "Name": "Friendly fire",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 226
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -1254,8 +1254,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-05T18:58:53.1227442+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:23.869485+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:00.4787725+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:58:51.5720709+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:23.8695251+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:58:53.5444128+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:00.4788254+00:00"
 }

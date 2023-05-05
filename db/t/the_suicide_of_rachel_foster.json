@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.18,
   "NumberOfRatings": 71,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -373,6 +373,11 @@
       "Time": "2023-05-04T04:05:12.4701631+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-05T21:07:37.6814429+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 11,
@@ -392,7 +397,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_Cacciavite",
@@ -446,9 +451,9 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 770
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -471,15 +476,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:58.4402781+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:37.6814425+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.5241617+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:21.1631004+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:58.4402885+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:38.6018412+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:37.6814536+00:00"
 }

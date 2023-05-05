@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 72,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.81,
   "NumberOfRatings": 1845,
   "RatingHistory": [
@@ -2208,9 +2208,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14653,
+  "EOS_Progressed": 14655,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2873,6 +2873,11 @@
       "Time": "2023-05-05T20:07:01.3036393+00:00",
       "NumProgressed": 14653,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-05T21:07:40.561282+00:00",
+      "NumProgressed": 14655,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3010,9 +3015,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearBattleground",
@@ -3283,15 +3288,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14653,
+      "Progressed": 14655,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-05T15:36:59.1263206+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:07:01.3036387+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:40.5612815+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:14.3959292+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:07:01.3036753+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:31.4273652+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:40.5613299+00:00"
 }

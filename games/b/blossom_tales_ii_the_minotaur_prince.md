@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shiny New Weapons | 40.00% | ~4 |
+| Shiny New Weapons | 50.00% | ~5 |
 | Key Piece I | 10.00% | ~1 |
 | Completely Hooked | 10.00% | ~1 |
 | Money Bags | 10.00% | ~1 |

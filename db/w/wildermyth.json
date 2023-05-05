@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.77,
   "NumberOfRatings": 45,
   "RatingHistory": [
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2023-05-05T18:07:31.613555+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T21:07:04.4634321+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -212,7 +217,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_150Calamities",
@@ -228,7 +233,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -236,7 +241,7 @@
       "Name": "Storied Past",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_5petsReceived",
@@ -276,7 +281,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -292,7 +297,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_fullTransformation",
@@ -300,7 +305,7 @@
       "Name": "Completing the Look",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -308,7 +313,7 @@
       "Name": "Empty the Caves",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -340,7 +345,7 @@
       "Name": "Bonebreakers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -348,7 +353,7 @@
       "Name": "No More Nightmares",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -452,7 +457,7 @@
       "Name": "War Endured",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "completedStory_legacy",
@@ -540,7 +545,7 @@
       "Name": "Bears are Scary",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -548,7 +553,7 @@
       "Name": "Fight Like a Bird",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -556,7 +561,7 @@
       "Name": "Grillmaster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -572,7 +577,7 @@
       "Name": "Some Say I\u0027m Too Flashy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_green_kill3Enemies",
@@ -580,7 +585,7 @@
       "Name": "Into Mulch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -612,7 +617,7 @@
       "Name": "Astrology",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -620,7 +625,7 @@
       "Name": "Tempest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -644,7 +649,7 @@
       "Name": "Lochias\u0027s Hunger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -659,15 +664,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:27.5332656+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:04.4634314+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:50.5655368+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:27.5333031+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:02:11.5776053+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:04.4634773+00:00"
 }

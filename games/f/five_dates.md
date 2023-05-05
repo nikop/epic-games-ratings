@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Set Up | 99.00% | ~344 |
-| Digital Casanova | 96.00% | ~333 |
-| Hold my Beer | 64.00% | ~222 |
-| Nueva Beginnings | 35.00% | ~121 |
+| All Set Up | 99.00% | ~345 |
+| Digital Casanova | 96.00% | ~334 |
+| Hold my Beer | 64.00% | ~223 |
+| Nueva Beginnings | 35.00% | ~122 |
 | Only Thyme Will Tell | 33.00% | ~115 |
-| Not Alone | 31.00% | ~108 |
+| Not Alone | 30.00% | ~104 |
 | We Go Again | 29.00% | ~101 |
 | In Contempt of Duvet | 27.00% | ~94 |
 | Booty Call | 26.00% | ~90 |
@@ -20,7 +20,7 @@
 | Crash and Burn | 3.00% | ~10 |
 | Interrogation | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347 (Ranked 197)  
+Progressed: 348 (Ranked 197)  
 Completed: 3 (0.86%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -33,7 +33,7 @@ Completed: 3 (0.86%) (Ranked 83)
 | 2023-05-01 | 340 | 3 |
 | 2023-05-02 | 341 | 3 |
 | 2023-05-04 | 344 | 3 |
-| 2023-05-05 | 347 | 3 |
+| 2023-05-05 | 348 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

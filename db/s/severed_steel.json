@@ -2,7 +2,7 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 32,
@@ -182,9 +182,9 @@
       "Count": 167
     }
   ],
-  "EOS_Progressed": 400590,
+  "EOS_Progressed": 400610,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 2875,
+  "EOS_NewPlayers": 2872,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1417,6 +1417,11 @@
       "Time": "2023-05-05T20:06:50.1419803+00:00",
       "NumProgressed": 400590,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-05T21:07:28.7559486+00:00",
+      "NumProgressed": 400610,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 52,
@@ -1436,7 +1441,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40059
+      "UsersEstimate": 40061
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -1444,7 +1449,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24035
+      "UsersEstimate": 24037
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -1452,7 +1457,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36053
+      "UsersEstimate": 36055
     },
     {
       "ID": "BIGUPS",
@@ -1492,7 +1497,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28041
+      "UsersEstimate": 28043
     },
     {
       "ID": "CHAPTER2",
@@ -1804,7 +1809,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28041
+      "UsersEstimate": 28043
     },
     {
       "ID": "SOUL",
@@ -1843,7 +1848,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400590,
+      "Progressed": 400610,
       "Completed": 29
     }
   ],
@@ -1851,8 +1856,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-03T01:57:02.3850436+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:50.1419798+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:28.7559478+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:00:45.2015581+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:50.1420186+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:00:58.5702749+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:28.7559989+00:00"
 }

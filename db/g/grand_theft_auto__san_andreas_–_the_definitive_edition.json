@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7491,
+  "EOS_Progressed": 7493,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-05-05T20:07:03.6994431+00:00",
       "NumProgressed": 7491,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-05T21:07:43.3323657+00:00",
+      "NumProgressed": 7493,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -947,7 +952,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "ACH02",
@@ -955,7 +960,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH03",
@@ -1003,7 +1008,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "ACH09",
@@ -1027,7 +1032,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH12",
@@ -1163,7 +1168,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH29",
@@ -1226,7 +1231,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7491,
+      "Progressed": 7493,
       "Completed": 15
     }
   ],
@@ -1234,8 +1239,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-04-28T17:01:34.9203237+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:07:03.6994424+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:43.3323652+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:29.6678721+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:07:03.6994679+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:48.687993+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:43.3323951+00:00"
 }

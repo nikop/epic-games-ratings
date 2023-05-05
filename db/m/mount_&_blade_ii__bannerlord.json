@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.74,
   "NumberOfRatings": 5603,
   "RatingHistory": [
@@ -3805,9 +3805,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 48893,
+  "EOS_Progressed": 48896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4955,6 +4955,11 @@
       "Time": "2023-05-05T20:06:55.1134948+00:00",
       "NumProgressed": 48893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T21:07:33.9778409+00:00",
+      "NumProgressed": 48896,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4966,7 +4971,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "Apple of my eye",
@@ -5046,7 +5051,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "Dynasty",
@@ -5054,7 +5059,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "Entrepreneur",
@@ -5094,7 +5099,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "Great Granny",
@@ -5142,7 +5147,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "Jack of All Trades",
@@ -5190,7 +5195,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14179
+      "UsersEstimate": 14180
     },
     {
       "ID": "Lawbringer",
@@ -5198,7 +5203,7 @@
       "Name": "Lawbringer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "Lawmaker",
@@ -5310,7 +5315,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "The king is pleased",
@@ -5373,15 +5378,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 48893,
+      "Progressed": 48896,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-05T19:01:00.0023624+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:55.1134944+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:33.9778403+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:00:58.7157376+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:55.1135378+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:13.5902442+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:33.9778937+00:00"
 }

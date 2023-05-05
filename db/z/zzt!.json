@@ -2,10 +2,10 @@
   "ID": "dba7dabb038f40209c6075de144754de",
   "Name": "ZZT!",
   "ProductSlug": "zzt",
-  "Ranking_EOS_Progress": 139,
+  "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 26,
   "RatingHistory": [
     {
       "Time": "2023-03-31T21:57:04.3858766+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2294,
+  "EOS_Progressed": 2295,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 119,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 2.62,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -698,6 +698,11 @@
       "Time": "2023-05-05T19:06:36.3063986+00:00",
       "NumProgressed": 2294,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-05-05T21:07:10.5532099+00:00",
+      "NumProgressed": 2295,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 5,
@@ -709,7 +714,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "2",
@@ -748,7 +753,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2294,
+      "Progressed": 2295,
       "Completed": 60
     }
   ],
@@ -756,8 +761,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:33.210346+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:10.5532095+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.4953287+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:59:35.2484191+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:33.2103552+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:59:42.0857125+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:10.5532224+00:00"
 }

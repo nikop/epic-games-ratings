@@ -5,10 +5,10 @@
   "Ranking_Rating": 255,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 57,
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.67,
   "NumberOfRatings": 7767,
   "RatingHistory": [
@@ -3943,9 +3943,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3968,6 +3968,11 @@
       "Time": "2023-05-04T17:05:14.0629186+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T21:07:32.9004779+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 65,
@@ -3977,7 +3982,7 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -3985,7 +3990,7 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -4065,31 +4070,31 @@
       "ID": "altar_of_hope_upgrade_total_full",
       "SetID": "64l4lke",
       "Name": "The World As It Was",
-      "Percentage": 50,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
       "SetID": "64l4lke",
       "Name": "This Looks Familiar",
-      "Percentage": 50,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 50,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "application_start_on_release_anniversary",
       "SetID": "64l4lke",
       "Name": "Loop Year",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -4097,7 +4102,7 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -4145,7 +4150,7 @@
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -4257,7 +4262,7 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -4273,7 +4278,7 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -4297,7 +4302,7 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -4329,7 +4334,7 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -4369,7 +4374,7 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -4425,7 +4430,7 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 125,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -4433,9 +4438,9 @@
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "run_victory_act02",
@@ -4465,7 +4470,7 @@
       "ID": "run_victory_act05",
       "SetID": "64l4lke",
       "Name": "Body of Work",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -4498,15 +4503,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-05-05T19:01:08.0632848+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:54.0720814+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:32.9004774+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.6741172+00:00",
-  "LastUpdate_Ratings": "2023-05-05T20:01:06.3892683+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:54.0721346+00:00"
+  "LastUpdate_Ratings": "2023-05-05T21:01:22.7310886+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:32.9005397+00:00"
 }

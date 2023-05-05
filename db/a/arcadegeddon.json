@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.49,
   "NumberOfRatings": 801,
   "RatingHistory": [
@@ -701,9 +701,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6191,
+  "EOS_Progressed": 6192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1331,6 +1331,11 @@
       "Time": "2023-05-05T20:06:28.2041895+00:00",
       "NumProgressed": 6191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T21:07:05.2710385+00:00",
+      "NumProgressed": 6192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1342,7 +1347,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -1406,7 +1411,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -1446,7 +1451,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -1454,7 +1459,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -1486,7 +1491,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 5634
+      "UsersEstimate": 5635
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -1542,7 +1547,7 @@
       "Name": "Photogenic",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 5386
+      "UsersEstimate": 5387
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -1550,7 +1555,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -1558,7 +1563,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -1590,7 +1595,7 @@
       "Name": "Rescue Ranger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_SEASONED_ADVENTURER",
@@ -1638,7 +1643,7 @@
       "Name": "Surge Ahead",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -1646,7 +1651,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -1654,7 +1659,7 @@
       "Name": "Surge Gauntlet Scholar",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_TEAM_PLAYER",
@@ -1741,15 +1746,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6191,
+      "Progressed": 6192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-04T16:58:15.4550999+00:00",
-  "LastChanged_Achievements": "2023-05-05T20:06:28.204189+00:00",
+  "LastChanged_Achievements": "2023-05-05T21:07:05.271038+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:34.2924475+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:59:31.39717+00:00",
-  "LastUpdate_Achievements": "2023-05-05T20:06:28.2042259+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:59:38.033839+00:00",
+  "LastUpdate_Achievements": "2023-05-05T21:07:05.2710857+00:00"
 }

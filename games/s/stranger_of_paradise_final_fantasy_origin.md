@@ -6,7 +6,7 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~75,526 |
+| Manifestation of the Soul | 98.00% | ~76,305 |
 | No Escape | 86.00% | ~66,961 |
 | Seeker of Power | 85.00% | ~66,183 |
 | Hopes and Dreams | 82.00% | ~63,847 |

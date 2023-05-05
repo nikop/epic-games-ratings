@@ -6,19 +6,19 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,578 |
-| keep it tidy | 77.00% | ~7,682 |
-| podium | 72.00% | ~7,183 |
-| medium attack | 59.00% | ~5,886 |
-| brail | 56.00% | ~5,587 |
+| light attack | 96.00% | ~9,579 |
+| keep it tidy | 77.00% | ~7,683 |
+| podium | 72.00% | ~7,184 |
+| medium attack | 59.00% | ~5,887 |
+| brail | 56.00% | ~5,588 |
 | grocery-getter | 39.00% | ~3,891 |
 | good drivers have dead flies on the side windows | 39.00% | ~3,891 |
 | rwd only | 26.00% | ~2,594 |
 | food tour: pasta | 26.00% | ~2,594 |
 | to finish first, first you must finish | 21.00% | ~2,095 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,095 |
-| autopilot | 20.00% | ~1,995 |
-| turbo | 20.00% | ~1,995 |
+| autopilot | 20.00% | ~1,996 |
+| turbo | 20.00% | ~1,996 |
 | food tour: pretzel | 19.00% | ~1,896 |
 | bicycle race | 15.00% | ~1,497 |
 | car wash | 13.00% | ~1,297 |
@@ -27,8 +27,8 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 12.00% | ~1,197 |
 | the artist | 12.00% | ~1,197 |
 | snorkel | 12.00% | ~1,197 |
-| where is the stage? | 11.00% | ~1,097 |
-| maximum attack | 11.00% | ~1,097 |
+| where is the stage? | 11.00% | ~1,098 |
+| maximum attack | 11.00% | ~1,098 |
 | espresso | 10.00% | ~998 |
 | parallel universe | 9.00% | ~898 |
 | samir | 8.00% | ~798 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,977 (Ranked 105)  
+Progressed: 9,978 (Ranked 105)  
 Completed: 9 (0.09%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 9 (0.09%) (Ranked 155)
 | 2023-05-02 | 9,970 | 9 |
 | 2023-05-03 | 9,972 | 9 |
 | 2023-05-04 | 9,975 | 9 |
-| 2023-05-05 | 9,977 | 9 |
+| 2023-05-05 | 9,978 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

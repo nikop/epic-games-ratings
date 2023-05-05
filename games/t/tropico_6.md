@@ -35,12 +35,12 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 4.00% | ~107 |
 | The Time For Wonders | 4.00% | ~107 |
 | Been there, Done That | 3.00% | ~80 |
+| One Does Not Simply Stage A Coup | 3.00% | ~80 |
 | Narcissist | 3.00% | ~80 |
 | Promising Endeavors | 3.00% | ~80 |
 | Terraformer | 3.00% | ~80 |
 | Chain Gang | 2.00% | ~53 |
 | From Knight to Little Duck | 2.00% | ~53 |
-| One Does Not Simply Stage A Coup | 2.00% | ~53 |
 | Sublime Subliminal Supreme | 2.00% | ~53 |
 | Teamplayer | 2.00% | ~53 |
 | Curse of the Mummy | 2.00% | ~53 |
