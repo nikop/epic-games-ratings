@@ -1,6 +1,6 @@
 # Borderlands 2
 [View Rawdata](../../db/b/borderlands_2.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 Number of Ratings: 13,386  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 14,089  (Ranked 23)  

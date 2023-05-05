@@ -9,12 +9,12 @@ Diff (max vs sum): -95
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,797 |
-| Jeef Skeejj | 44.00% | ~201,198 |
+| The Shutdown | 66.00% | ~301,798 |
+| Jeef Skeejj | 44.00% | ~201,199 |
 | Careful planning | 39.00% | ~178,335 |
-| Second Coming | 33.00% | ~150,898 |
-| Jeef Skagg | 30.00% | ~137,180 |
-| Mother | 25.00% | ~114,317 |
+| Second Coming | 33.00% | ~150,899 |
+| Jeef Skagg | 30.00% | ~137,181 |
+| Mother | 25.00% | ~114,318 |
 | In space, no one can hear you scream | 23.00% | ~105,172 |
 | Chapter I: Echoes | 22.00% | ~100,599 |
 | Excelsior Rule | 22.00% | ~100,599 |
@@ -23,14 +23,14 @@ Diff (max vs sum): -95
 | May His passing cleanse the world | 15.00% | ~68,590 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,590 |
 | Pope Zenon | 15.00% | ~68,590 |
-| Tetsuo | 11.00% | ~50,299 |
-| Plan for the worst | 11.00% | ~50,299 |
+| Tetsuo | 11.00% | ~50,300 |
+| Plan for the worst | 11.00% | ~50,300 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,727 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~36,581 |
-| Through the mirror | 8.00% | ~36,581 |
-| General Vivar | 8.00% | ~36,581 |
-| Back to Ganyma | 8.00% | ~36,581 |
-| Kaos Rule | 8.00% | ~36,581 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~36,582 |
+| Through the mirror | 8.00% | ~36,582 |
+| General Vivar | 8.00% | ~36,582 |
+| Back to Ganyma | 8.00% | ~36,582 |
+| Kaos Rule | 8.00% | ~36,582 |
 | Admiral Okonkwo | 7.00% | ~32,009 |
 | The Survivalists | 7.00% | ~32,009 |
 | The Tech Specialist | 7.00% | ~32,009 |
@@ -48,10 +48,10 @@ Diff (max vs sum): -95
 | The Smuggler | 6.00% | ~27,436 |
 | The Crazy Repairman | 6.00% | ~27,436 |
 | The Weasel | 6.00% | ~27,436 |
-| Kill the Doctor | 5.00% | ~22,863 |
-| Forsaken | 5.00% | ~22,863 |
-| Mercy | 5.00% | ~22,863 |
-| Jericho Rule | 5.00% | ~22,863 |
+| Kill the Doctor | 5.00% | ~22,864 |
+| Forsaken | 5.00% | ~22,864 |
+| Mercy | 5.00% | ~22,864 |
+| Jericho Rule | 5.00% | ~22,864 |
 | Geno Rule | 3.00% | ~13,718 |
 | Hammer Rule | 3.00% | ~13,718 |
 | Survivor | 2.00% | ~9,145 |
@@ -75,7 +75,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,268 (Ranked 27)  
+Progressed: 457,270 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,268 | 14 |
+| 2023-05-05 | 457,270 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

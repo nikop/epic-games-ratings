@@ -1,6 +1,6 @@
 # Forspoken
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.10 (Ranked 851)  
+Rating: 4.11 (Ranked 851)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -117,3 +117,4 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-04-14 | 4.11 | 0 | 0 |
 | 2023-04-18 | 4.12 | 0 | 0 |
 | 2023-04-29 | 4.10 | 0 | 0 |
+| 2023-05-05 | 4.11 | 0 | 0 |

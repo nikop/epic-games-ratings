@@ -15,8 +15,8 @@ Diff (max vs sum): -19
 | Demigod | 77.00% | ~651 |
 | The Great Destroyer | 75.00% | ~634 |
 | Shields Down | 73.00% | ~617 |
+| Helping Hand | 68.00% | ~575 |
 | Safe Home | 68.00% | ~575 |
-| Helping Hand | 67.00% | ~566 |
 | Paragon | 64.00% | ~541 |
 | Old Days Born Anew | 62.00% | ~524 |
 | Full Arsenal | 57.00% | ~482 |

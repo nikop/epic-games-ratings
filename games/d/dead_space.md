@@ -1,6 +1,6 @@
 # Dead Space
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 40  (Ranked 409)  
 Sum: 40 (Ranked 442)  

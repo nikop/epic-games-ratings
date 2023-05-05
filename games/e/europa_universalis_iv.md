@@ -9,19 +9,19 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,658 |
-| That's a Grand Army | 8.00% | ~2,363 |
-| That is mine! | 8.00% | ~2,363 |
-| Victorious! | 8.00% | ~2,363 |
-| Brothers in Arms | 6.00% | ~1,772 |
-| That's a Grand Navy | 6.00% | ~1,772 |
-| Seriously?! | 6.00% | ~1,772 |
-| For the Glory | 5.00% | ~1,477 |
-| Cold War | 4.00% | ~1,181 |
-| Defender of the Faith | 3.00% | ~886 |
-| It's all about the money | 3.00% | ~886 |
-| Respected | 3.00% | ~886 |
-| True Catholic | 3.00% | ~886 |
+| Until death do us apart | 9.00% | ~2,660 |
+| That's a Grand Army | 8.00% | ~2,364 |
+| That is mine! | 8.00% | ~2,364 |
+| Victorious! | 8.00% | ~2,364 |
+| Brothers in Arms | 6.00% | ~1,773 |
+| That's a Grand Navy | 6.00% | ~1,773 |
+| Seriously?! | 6.00% | ~1,773 |
+| For the Glory | 5.00% | ~1,478 |
+| Cold War | 4.00% | ~1,182 |
+| Defender of the Faith | 3.00% | ~887 |
+| It's all about the money | 3.00% | ~887 |
+| Respected | 3.00% | ~887 |
+| True Catholic | 3.00% | ~887 |
 | Blockader | 2.00% | ~591 |
 | Combined Arms | 2.00% | ~591 |
 | Double the Love | 2.00% | ~591 |
@@ -32,12 +32,12 @@ Diff (max vs sum): 34
 | The Princess is in this Castle | 2.00% | ~591 |
 | Total Control | 2.00% | ~591 |
 | Truly Divine Ruler | 2.00% | ~591 |
-| Agressive Expander | 1.00% | ~295 |
-| Azur semé de lis or | 1.00% | ~295 |
-| Bright Spark | 1.00% | ~295 |
-| Factionalism | 1.00% | ~295 |
-| A Golden Empire | 1.00% | ~295 |
-| My armies are invincible! | 1.00% | ~295 |
+| Agressive Expander | 1.00% | ~296 |
+| Azur semé de lis or | 1.00% | ~296 |
+| Bright Spark | 1.00% | ~296 |
+| Factionalism | 1.00% | ~296 |
+| A Golden Empire | 1.00% | ~296 |
+| My armies are invincible! | 1.00% | ~296 |
 | All That's Thine Shall Be Mine | 0.90% | ~266 |
 | City of Cities | 0.90% | ~266 |
 | Isn't this the way to India? | 0.70% | ~207 |
@@ -67,6 +67,7 @@ Diff (max vs sum): 34
 | This is My Faith | 0.30% | ~89 |
 | Voting Streak | 0.30% | ~89 |
 | A Decent Reserve | 0.20% | ~59 |
+| A Pile of Gold | 0.20% | ~59 |
 | All Your Trade Are Belong to Us | 0.20% | ~59 |
 | Bleed Them Dry | 0.20% | ~59 |
 | Four For Trade | 0.20% | ~59 |
@@ -86,7 +87,6 @@ Diff (max vs sum): 34
 | A Blessed Nation | 0.10% | ~30 |
 | A Hero’s Welcome | 0.10% | ~30 |
 | A Manchurian Candidate | 0.10% | ~30 |
-| A Pile of Gold | 0.10% | ~30 |
 | A Protected Market | 0.10% | ~30 |
 | A Sun God | 0.10% | ~30 |
 | A tale of two Families | 0.10% | ~30 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,532 (Ranked 82)  
+Progressed: 29,553 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,532 | 0 |
+| 2023-05-05 | 29,553 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

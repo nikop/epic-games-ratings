@@ -24,7 +24,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 155950
+      "UsersEstimate": 155951
     },
     {
       "ID": "DEVOTED",
@@ -64,7 +64,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 431463
+      "UsersEstimate": 431466
     },
     {
       "ID": "HONED",
@@ -72,7 +72,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20793
+      "UsersEstimate": 20794
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -80,7 +80,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20793
+      "UsersEstimate": 20794
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -120,7 +120,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 207934
+      "UsersEstimate": 207935
     },
     {
       "ID": "THE_CASTLE",
@@ -136,7 +136,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36388
+      "UsersEstimate": 36389
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -152,7 +152,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20793
+      "UsersEstimate": 20794
     },
     {
       "ID": "THE_DOME",
@@ -184,7 +184,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 93570
+      "UsersEstimate": 93571
     },
     {
       "ID": "THE_KEEP",
@@ -216,7 +216,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 20793
+      "UsersEstimate": 20794
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -256,7 +256,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36388
+      "UsersEstimate": 36389
     },
     {
       "ID": "THE_THREE",
@@ -264,7 +264,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 332694
+      "UsersEstimate": 332696
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -288,7 +288,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36388
+      "UsersEstimate": 36389
     },
     {
       "ID": "WISE_WORDS",
@@ -1490,6 +1490,11 @@
     {
       "Time": "2023-05-05T08:05:53.0026656+00:00",
       "NumProgressed": 519835,
+      "NumCompleted": 1397
+    },
+    {
+      "Time": "2023-05-05T09:05:59.8627809+00:00",
+      "NumProgressed": 519838,
       "NumCompleted": 1397
     }
   ],
@@ -3563,18 +3568,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-05T08:05:53.0026647+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:59.8627804+00:00",
   "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 874,
   "EOS_Completed": 1397,
-  "EOS_Progressed": 519835,
-  "LastUpdate_Achievements": "2023-05-05T08:05:53.0026991+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:59:20.7837636+00:00",
+  "EOS_Progressed": 519838,
+  "LastUpdate_Achievements": "2023-05-05T09:05:59.862809+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:21.4502402+00:00",
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 519835,
+      "Progressed": 519838,
       "Completed": 1397
     }
   ],
@@ -3586,7 +3591,7 @@
   "NumberOfAwards": 1872,
   "NumberOfRatings": 3114,
   "Ranking_EOS_NewCompleters": 19,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_Progress": 23,
   "Ranking_PopularitySum": 190,

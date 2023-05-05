@@ -1,6 +1,6 @@
 # King's Bounty: The Legend
 [View Rawdata](../../db/k/king's_bounty__the_legend.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

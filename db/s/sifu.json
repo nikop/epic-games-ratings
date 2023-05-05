@@ -1442,6 +1442,11 @@
       "Time": "2023-05-05T07:05:33.4412539+00:00",
       "NumProgressed": 702601,
       "NumCompleted": 12707
+    },
+    {
+      "Time": "2023-05-05T09:05:55.7521214+00:00",
+      "NumProgressed": 702603,
+      "NumCompleted": 12707
     }
   ],
   "RatingHistory": [
@@ -5143,24 +5148,24 @@
   ],
   "TotalAchievementsXP": 1350,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T08:05:48.7977755+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:55.7521211+00:00",
   "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 351,
   "EOS_Completed": 12707,
-  "EOS_Progressed": 702601,
-  "LastUpdate_Achievements": "2023-05-05T08:05:48.7978196+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:58:58.8847444+00:00",
+  "EOS_Progressed": 702603,
+  "LastUpdate_Achievements": "2023-05-05T09:05:55.7521589+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:58.9575354+00:00",
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11902,
+      "Progressed": 11904,
       "Completed": 10027
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702601,
+      "Progressed": 702603,
       "Completed": 12707
     }
   ],

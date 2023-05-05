@@ -1,6 +1,6 @@
 # Tchia
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.77 (Ranked 103)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,3 +61,4 @@ Completed: 19 (0.35%) (Ranked 108)
 | 2023-04-17 | 4.76 | 0 | 0 |
 | 2023-04-20 | 4.77 | 0 | 0 |
 | 2023-04-29 | 4.76 | 0 | 0 |
+| 2023-05-05 | 4.77 | 0 | 0 |

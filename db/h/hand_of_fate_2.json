@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472044
+      "UsersEstimate": 472045
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380257
+      "UsersEstimate": 380258
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -152,7 +152,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91786
+      "UsersEstimate": 91787
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -192,7 +192,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19668
+      "UsersEstimate": 19669
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -264,7 +264,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19668
+      "UsersEstimate": 19669
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -288,7 +288,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59005
+      "UsersEstimate": 59006
     },
     {
       "ID": "Achievement_37_Champion",
@@ -312,7 +312,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19668
+      "UsersEstimate": 19669
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -1407,6 +1407,11 @@
       "Time": "2023-05-05T08:05:24.4871974+00:00",
       "NumProgressed": 655616,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T09:05:32.2807804+00:00",
+      "NumProgressed": 655618,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2170,18 +2175,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T08:05:24.4871968+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:32.28078+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 393,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655616,
-  "LastUpdate_Achievements": "2023-05-05T08:05:24.4872411+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:57:25.8687766+00:00",
+  "EOS_Progressed": 655618,
+  "LastUpdate_Achievements": "2023-05-05T09:05:32.2808164+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:25.4359663+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655616,
+      "Progressed": 655618,
       "Completed": 164
     }
   ],

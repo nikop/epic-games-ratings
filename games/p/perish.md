@@ -11,7 +11,6 @@
 | Modest Earnings | 4.00% | ~110 |
 | Armaments of the Pantheon | 4.00% | ~110 |
 | Persephone's Guidance | 4.00% | ~110 |
-| The Sons of Minos | 4.00% | ~110 |
 | Strength of Herakles | 4.00% | ~110 |
 | Reign in Blood | 4.00% | ~110 |
 | Pillars of Eternity | 3.00% | ~82 |
@@ -19,6 +18,7 @@
 | Spartan Sandal | 3.00% | ~82 |
 | War Chest | 3.00% | ~82 |
 | Symbols of Heresy | 3.00% | ~82 |
+| The Sons of Minos | 3.00% | ~82 |
 | Sisters of the Pantheon | 3.00% | ~82 |
 | Siege Unit | 3.00% | ~82 |
 | Eidola | 3.00% | ~82 |
@@ -67,7 +67,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,742 (Ranked 131)  
+Progressed: 2,743 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 2,721 | 0 |
 | 2023-05-03 | 2,727 | 0 |
 | 2023-05-04 | 2,739 | 0 |
-| 2023-05-05 | 2,742 | 0 |
+| 2023-05-05 | 2,743 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

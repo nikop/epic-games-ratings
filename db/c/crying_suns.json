@@ -56,7 +56,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 36581
+      "UsersEstimate": 36582
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -96,7 +96,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301797
+      "UsersEstimate": 301798
     },
     {
       "ID": "achievement_story_landa",
@@ -104,7 +104,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22863
+      "UsersEstimate": 22864
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -112,7 +112,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22863
+      "UsersEstimate": 22864
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -120,7 +120,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36581
+      "UsersEstimate": 36582
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -128,7 +128,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114317
+      "UsersEstimate": 114318
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -160,7 +160,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50299
+      "UsersEstimate": 50300
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -168,7 +168,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36581
+      "UsersEstimate": 36582
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -192,7 +192,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 150898
+      "UsersEstimate": 150899
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -200,7 +200,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36581
+      "UsersEstimate": 36582
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -208,7 +208,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22863
+      "UsersEstimate": 22864
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -432,7 +432,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201198
+      "UsersEstimate": 201199
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -440,7 +440,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137180
+      "UsersEstimate": 137181
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -456,7 +456,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50299
+      "UsersEstimate": 50300
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -488,7 +488,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22863
+      "UsersEstimate": 22864
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -512,7 +512,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36581
+      "UsersEstimate": 36582
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -1566,6 +1566,11 @@
       "Time": "2023-05-05T08:05:53.8312941+00:00",
       "NumProgressed": 457268,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T09:06:00.6981844+00:00",
+      "NumProgressed": 457270,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -2077,24 +2082,24 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-05T08:05:53.8312935+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:00.6981839+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 532,
   "EOS_Completed": 14,
-  "EOS_Progressed": 457268,
-  "LastUpdate_Achievements": "2023-05-05T08:05:53.831358+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:59:16.8547012+00:00",
+  "EOS_Progressed": 457270,
+  "LastUpdate_Achievements": "2023-05-05T09:06:00.698238+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:17.1586783+00:00",
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1202,
-      "Completed": 1202
+      "Progressed": 1204,
+      "Completed": 1204
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457268,
+      "Progressed": 457270,
       "Completed": 14
     }
   ],
@@ -2106,9 +2111,9 @@
   "NumberOfAwards": 209,
   "NumberOfRatings": 1003,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 27,
+  "Ranking_EOS_Progress": 28,
   "Ranking_PopularitySum": 347,
   "Ranking_Popularity": 252,
   "Ranking_Rating": 530,

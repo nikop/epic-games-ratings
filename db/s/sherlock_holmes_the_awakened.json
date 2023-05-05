@@ -350,13 +350,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T08:05:26.3798774+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:34.1912676+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_Completed": 9,
   "EOS_Progressed": 134,
-  "LastUpdate_Achievements": "2023-05-05T08:05:26.3799094+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:57:05.4668573+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:34.1912847+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:07.7101235+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",
@@ -372,7 +372,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 48,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_Progress": 239,
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00"

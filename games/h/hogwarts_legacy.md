@@ -8,13 +8,13 @@ Diff (max vs sum): -16
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 5.00% | ~13,277 |
-| The One Who Mastered Memories | 5.00% | ~13,277 |
-| The Hallowed Hero | 5.00% | ~13,277 |
-| The Hero of Hogwarts | 5.00% | ~13,277 |
-| The Defender of Dragons | 5.00% | ~13,277 |
-| Coasting Along | 5.00% | ~13,277 |
-| Rising From the Ashes | 5.00% | ~13,277 |
+| Grappling with a Graphorn | 5.00% | ~13,278 |
+| The One Who Mastered Memories | 5.00% | ~13,278 |
+| The Hallowed Hero | 5.00% | ~13,278 |
+| The Hero of Hogwarts | 5.00% | ~13,278 |
+| The Defender of Dragons | 5.00% | ~13,278 |
+| Coasting Along | 5.00% | ~13,278 |
+| Rising From the Ashes | 5.00% | ~13,278 |
 | The Sort Who Makes an Entrance | 4.00% | ~10,622 |
 | The Avenging Gazelle | 4.00% | ~10,622 |
 | Beast Friends | 4.00% | ~10,622 |
@@ -40,11 +40,11 @@ Diff (max vs sum): -16
 | The Gryffindor in the Graveyard | 2.00% | ~5,311 |
 | The Ends Petrify the Means | 2.00% | ~5,311 |
 | Raising Expectations | 2.00% | ~5,311 |
-| The Good Samaritan | 1.00% | ~2,655 |
-| Put Down Roots | 1.00% | ~2,655 |
-| The Auror's Apprentice | 1.00% | ~2,655 |
-| Rise to the Challenges | 1.00% | ~2,655 |
-| The Wise Owl | 1.00% | ~2,655 |
+| The Good Samaritan | 1.00% | ~2,656 |
+| Put Down Roots | 1.00% | ~2,656 |
+| The Auror's Apprentice | 1.00% | ~2,656 |
+| Rise to the Challenges | 1.00% | ~2,656 |
+| The Wise Owl | 1.00% | ~2,656 |
 | Finishing Touches | 0.90% | ~2,390 |
 | Demiguise Dread | 0.70% | ~1,859 |
 | A Forte for Achievement | 0.70% | ~1,859 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,549 (Ranked 38)  
+Progressed: 265,550 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,549 | 346 |
+| 2023-05-05 | 265,550 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

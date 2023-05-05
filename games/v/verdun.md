@@ -9,25 +9,25 @@ Diff (max vs sum): 76
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~32,806 |
-| Worth it | 63.00% | ~26,841 |
-| Eagle Eye | 55.00% | ~23,433 |
-| Corpseman I | 40.00% | ~17,042 |
-| Blast fishing | 38.00% | ~16,190 |
-| Not alone | 32.00% | ~13,634 |
-| Headhunter I | 27.00% | ~11,503 |
-| Manual Labour I | 26.00% | ~11,077 |
-| Developers, Developers, Developers | 24.00% | ~10,225 |
-| Basic Training | 24.00% | ~10,225 |
+| Setting an example | 77.00% | ~32,810 |
+| Worth it | 63.00% | ~26,844 |
+| Eagle Eye | 55.00% | ~23,436 |
+| Corpseman I | 40.00% | ~17,044 |
+| Blast fishing | 38.00% | ~16,192 |
+| Not alone | 32.00% | ~13,635 |
+| Headhunter I | 27.00% | ~11,505 |
+| Manual Labour I | 26.00% | ~11,079 |
+| Developers, Developers, Developers | 24.00% | ~10,226 |
+| Basic Training | 24.00% | ~10,226 |
 | Furchtlos und Treu | 13.00% | ~5,539 |
 | Gott Mit Uns | 12.00% | ~5,113 |
-| This We'll Defend! | 9.00% | ~3,834 |
-| Anker wirf! | 9.00% | ~3,834 |
-| Providentiea Memor | 9.00% | ~3,834 |
-| For King and Country | 9.00% | ~3,834 |
-| Battle hardened | 8.00% | ~3,408 |
-| Semper Fidelis! | 7.00% | ~2,982 |
-| Honneur et Patrie | 7.00% | ~2,982 |
+| This We'll Defend! | 9.00% | ~3,835 |
+| Anker wirf! | 9.00% | ~3,835 |
+| Providentiea Memor | 9.00% | ~3,835 |
+| For King and Country | 9.00% | ~3,835 |
+| Battle hardened | 8.00% | ~3,409 |
+| Semper Fidelis! | 7.00% | ~2,983 |
+| Honneur et Patrie | 7.00% | ~2,983 |
 | In Treue Fest | 5.00% | ~2,130 |
 | Voor De Koning | 5.00% | ~2,130 |
 | Extreme Headhunter | 5.00% | ~2,130 |
@@ -69,7 +69,7 @@ Diff (max vs sum): 76
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,605 (Ranked 75)  
+Progressed: 42,610 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 42,404 | 2 |
 | 2023-05-03 | 42,492 | 2 |
 | 2023-05-04 | 42,583 | 2 |
-| 2023-05-05 | 42,605 | 2 |
+| 2023-05-05 | 42,610 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

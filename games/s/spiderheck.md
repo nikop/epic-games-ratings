@@ -1,6 +1,6 @@
 # SpiderHeck
 [View Rawdata](../../db/s/spiderheck.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

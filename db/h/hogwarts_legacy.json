@@ -16,7 +16,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "PFA_11",
@@ -24,7 +24,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "PFA_12",
@@ -32,7 +32,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "PFA_13",
@@ -40,7 +40,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "PFA_14",
@@ -64,7 +64,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "PFA_17",
@@ -104,7 +104,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "PFA_21",
@@ -168,7 +168,7 @@
       "Name": "Put Down Roots",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "PFA_29",
@@ -184,7 +184,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "PFA_30",
@@ -240,7 +240,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "PFA_37",
@@ -264,7 +264,7 @@
       "Name": "Coasting Along",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "PFA_4",
@@ -328,7 +328,7 @@
       "Name": "The Wise Owl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "PFA_6",
@@ -360,7 +360,7 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     }
   ],
   "Tags": [
@@ -1551,6 +1551,11 @@
     {
       "Time": "2023-05-05T08:05:18.154024+00:00",
       "NumProgressed": 265549,
+      "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-05T09:05:26.074462+00:00",
+      "NumProgressed": 265550,
       "NumCompleted": 346
     }
   ],
@@ -3370,18 +3375,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T08:05:18.154023+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:26.0744616+00:00",
   "EOS_NewCompleters": 12,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1248,
   "EOS_Completed": 346,
-  "EOS_Progressed": 265549,
-  "LastUpdate_Achievements": "2023-05-05T08:05:18.1540671+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:57:05.8284536+00:00",
+  "EOS_Progressed": 265550,
+  "LastUpdate_Achievements": "2023-05-05T09:05:26.0744977+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:08.1712498+00:00",
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265549,
+      "Progressed": 265550,
       "Completed": 346
     }
   ],

@@ -30,17 +30,17 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "achBett",
       "SetID": "72gjli4",
       "Name": "Betty \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achBrain",
@@ -70,9 +70,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "achCity",
@@ -150,9 +150,9 @@
       "ID": "achDog",
       "SetID": "72gjli4",
       "Name": "Doberman \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achEva",
@@ -206,9 +206,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achLizun",
@@ -358,9 +358,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "achVip",
@@ -886,13 +886,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T08:06:12.3747533+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:19.2174224+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 100,
   "EOS_Completed": 0,
   "EOS_Progressed": 125,
-  "LastUpdate_Achievements": "2023-05-05T08:06:12.3747983+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:00:20.8972696+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:19.2174607+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:21.4016389+00:00",
   "AchievementSets": [
     {
       "ID": "72gjli4",

@@ -8,24 +8,24 @@ Diff (max vs sum): 18
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~42,847 |
-| First One’s Free | 64.00% | ~37,564 |
-| Neophyte Ninja | 50.00% | ~29,347 |
-| Too Old for This | 47.00% | ~27,586 |
-| Fancy Pants | 35.00% | ~20,543 |
-| Case Closed | 34.00% | ~19,956 |
-| King of the Hill | 33.00% | ~19,369 |
-| Underworld Initiate | 29.00% | ~17,021 |
-| Roid Ranger | 21.00% | ~12,326 |
-| True Player | 18.00% | ~10,565 |
-| Off the Rocks | 18.00% | ~10,565 |
-| Raider’s Ruin | 15.00% | ~8,804 |
-| Dragonslayer | 15.00% | ~8,804 |
-| Hidden Sonata | 13.00% | ~7,630 |
-| Classy Joint | 10.00% | ~5,869 |
-| Rockay Rex | 10.00% | ~5,869 |
-| Track Star | 9.00% | ~5,282 |
-| Freebooter | 9.00% | ~5,282 |
+| Downed but Not Outed | 73.00% | ~42,850 |
+| First One’s Free | 64.00% | ~37,567 |
+| Neophyte Ninja | 50.00% | ~29,349 |
+| Too Old for This | 47.00% | ~27,588 |
+| Fancy Pants | 35.00% | ~20,544 |
+| Case Closed | 34.00% | ~19,957 |
+| King of the Hill | 33.00% | ~19,370 |
+| Underworld Initiate | 29.00% | ~17,022 |
+| Roid Ranger | 21.00% | ~12,327 |
+| True Player | 18.00% | ~10,566 |
+| Off the Rocks | 18.00% | ~10,566 |
+| Raider’s Ruin | 15.00% | ~8,805 |
+| Dragonslayer | 15.00% | ~8,805 |
+| Hidden Sonata | 13.00% | ~7,631 |
+| Classy Joint | 10.00% | ~5,870 |
+| Rockay Rex | 10.00% | ~5,870 |
+| Track Star | 9.00% | ~5,283 |
+| Freebooter | 9.00% | ~5,283 |
 | Headhunter | 8.00% | ~4,696 |
 | Ding Dong | 8.00% | ~4,696 |
 | I Like Trains | 7.00% | ~4,109 |
@@ -46,7 +46,7 @@ Diff (max vs sum): 18
 | Geek Out | 0.50% | ~293 |
 | Full House | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,694 (Ranked 67)  
+Progressed: 58,698 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 26 (0.04%) (Ranked 167)
 | 2023-05-02 | 58,146 | 25 |
 | 2023-05-03 | 58,428 | 25 |
 | 2023-05-04 | 58,631 | 26 |
-| 2023-05-05 | 58,694 | 26 |
+| 2023-05-05 | 58,698 | 26 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

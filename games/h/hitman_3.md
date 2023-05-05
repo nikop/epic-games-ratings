@@ -3,44 +3,44 @@
 Rating: 4.78 (Ranked 101)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 8,831  (Ranked 37)  
-Sum: 65,329 (Ranked 18)  
+Max (Diverse Characters): 8,841  (Ranked 37)  
+Sum: 65,339 (Ranked 18)  
 Diff (max vs sum): 19  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death From Above | 47.00% | ~596,770 |
-| Unseen Assassin | 46.00% | ~584,073 |
-| Master of the Household | 39.00% | ~495,192 |
-| Death of the Party | 37.00% | ~469,798 |
-| NEXUS-47 | 34.00% | ~431,706 |
-| The Last Tango | 32.00% | ~406,312 |
-| Nightmare Fuel | 31.00% | ~393,614 |
-| The Result of Previous Training | 28.00% | ~355,523 |
-| Tools of the Trade | 28.00% | ~355,523 |
-| Cleared for Field Duty | 27.00% | ~342,825 |
-| Seizing the Opportunity | 25.00% | ~317,431 |
-| Bullet Train | 22.00% | ~279,339 |
-| Stylish Assassin | 19.00% | ~241,248 |
-| Silent Assassin | 14.00% | ~177,761 |
-| Rise Up | 13.00% | ~165,064 |
-| Evil Wine Club | 12.00% | ~152,367 |
-| Console Cowboy | 10.00% | ~126,972 |
-| Last Stop | 10.00% | ~126,972 |
-| A New Profile | 9.00% | ~114,275 |
-| Full House | 9.00% | ~114,275 |
-| Dune Raider | 8.00% | ~101,578 |
-| No Stone Unturned | 8.00% | ~101,578 |
-| Train Surfing | 8.00% | ~101,578 |
-| Family Feud | 7.00% | ~88,881 |
-| Icebreaker | 7.00% | ~88,881 |
-| Rich Harvest | 6.00% | ~76,183 |
-| Count Down From 47 | 6.00% | ~76,183 |
-| Shortcut Killer | 5.00% | ~63,486 |
-| Treacherous Architecture | 5.00% | ~63,486 |
-| Stair Master | 5.00% | ~63,486 |
-| Followed the Trails | 5.00% | ~63,486 |
-| Last Call | 5.00% | ~63,486 |
+| Death From Above | 47.00% | ~596,776 |
+| Unseen Assassin | 46.00% | ~584,079 |
+| Master of the Household | 39.00% | ~495,197 |
+| Death of the Party | 37.00% | ~469,803 |
+| NEXUS-47 | 34.00% | ~431,711 |
+| The Last Tango | 32.00% | ~406,316 |
+| Nightmare Fuel | 31.00% | ~393,618 |
+| The Result of Previous Training | 28.00% | ~355,526 |
+| Tools of the Trade | 28.00% | ~355,526 |
+| Cleared for Field Duty | 27.00% | ~342,829 |
+| Seizing the Opportunity | 25.00% | ~317,434 |
+| Bullet Train | 22.00% | ~279,342 |
+| Stylish Assassin | 19.00% | ~241,250 |
+| Silent Assassin | 14.00% | ~177,763 |
+| Rise Up | 13.00% | ~165,066 |
+| Evil Wine Club | 12.00% | ~152,368 |
+| Console Cowboy | 10.00% | ~126,974 |
+| Last Stop | 10.00% | ~126,974 |
+| A New Profile | 9.00% | ~114,276 |
+| Full House | 9.00% | ~114,276 |
+| Dune Raider | 8.00% | ~101,579 |
+| No Stone Unturned | 8.00% | ~101,579 |
+| Train Surfing | 8.00% | ~101,579 |
+| Family Feud | 7.00% | ~88,882 |
+| Icebreaker | 7.00% | ~88,882 |
+| Rich Harvest | 6.00% | ~76,184 |
+| Count Down From 47 | 6.00% | ~76,184 |
+| Shortcut Killer | 5.00% | ~63,487 |
+| Treacherous Architecture | 5.00% | ~63,487 |
+| Stair Master | 5.00% | ~63,487 |
+| Followed the Trails | 5.00% | ~63,487 |
+| Last Call | 5.00% | ~63,487 |
 | Upstairs, Downstairs | 4.00% | ~50,789 |
 | The Great Outdoors | 4.00% | ~50,789 |
 | Partied Out | 4.00% | ~50,789 |
@@ -52,12 +52,12 @@ Diff (max vs sum): 19
 | Future Shock | 3.00% | ~38,092 |
 | Master the Terroir | 3.00% | ~38,092 |
 | Vineyard Virtuoso | 3.00% | ~38,092 |
-| Bird Art | 2.00% | ~25,394 |
+| Bird Art | 2.00% | ~25,395 |
 | Top of the Class | 1.00% | ~12,697 |
 | Ripe for the Picking | 1.00% | ~12,697 |
 | The Creative Assassin | 0.70% | ~8,888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269,724 (Ranked 8)  
+Progressed: 1,269,737 (Ranked 8)  
 Completed: 2,058 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,11 +72,11 @@ Completed: 2,058 (0.16%) (Ranked 136)
 | 2023-05-02 | 1,268,915 | 2,056 |
 | 2023-05-03 | 1,269,248 | 2,057 |
 | 2023-05-04 | 1,269,621 | 2,058 |
-| 2023-05-05 | 1,269,724 | 2,058 |
+| 2023-05-05 | 1,269,737 | 2,058 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 8,831 |
+| This game has Diverse Characters | 8,841 |
 | This game is Highly Recommended | 8,569 |
 | This game is Extremely Fun | 8,492 |
 | This game is Great for Beginners | 8,394 |
@@ -216,4 +216,4 @@ Completed: 2,058 (0.16%) (Ranked 136)
 | 2023-05-02 | 4.78 | - | 8,799 | 65,201 |
 | 2023-05-03 | 4.78 | - | 8,819 | 65,268 |
 | 2023-05-04 | 4.78 | - | 8,831 | 65,323 |
-| 2023-05-05 | 4.78 | - | 8,831 | 65,329 |
+| 2023-05-05 | 4.78 | - | 8,841 | 65,339 |

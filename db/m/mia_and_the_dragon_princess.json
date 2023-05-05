@@ -14,9 +14,9 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bathroom_brawler",
@@ -70,9 +70,9 @@
       "ID": "flying_high",
       "SetID": "5anb57n",
       "Name": "Flying High",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fools_gold",
@@ -118,9 +118,9 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "set_sail",
@@ -188,13 +188,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-05T08:05:34.9058469+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:42.5693835+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T08:05:34.9058591+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:58:00.3207987+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:42.5693952+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:59.7445437+00:00",
   "AchievementSets": [
     {
       "ID": "5anb57n",

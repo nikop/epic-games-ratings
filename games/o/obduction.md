@@ -1,6 +1,6 @@
 # Obduction
 [View Rawdata](../../db/o/obduction.json)  
-Rating: 4.10 (Ranked 851)  
+Rating: 4.10 (Ranked 852)  
 Number of Ratings: 231  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 52  (Ranked 383)  

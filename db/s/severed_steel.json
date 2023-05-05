@@ -16,7 +16,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40036
+      "UsersEstimate": 40038
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -24,7 +24,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24022
+      "UsersEstimate": 24023
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -32,7 +32,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36033
+      "UsersEstimate": 36034
     },
     {
       "ID": "BIGUPS",
@@ -72,7 +72,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28025
+      "UsersEstimate": 28027
     },
     {
       "ID": "CHAPTER2",
@@ -80,7 +80,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20018
+      "UsersEstimate": 20019
     },
     {
       "ID": "CHAPTER3",
@@ -88,7 +88,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16014
+      "UsersEstimate": 16015
     },
     {
       "ID": "CHAPTER4",
@@ -96,7 +96,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16014
+      "UsersEstimate": 16015
     },
     {
       "ID": "CHAPTER5",
@@ -384,7 +384,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28025
+      "UsersEstimate": 28027
     },
     {
       "ID": "SOUL",
@@ -1587,6 +1587,11 @@
       "Time": "2023-05-05T08:05:55.9753269+00:00",
       "NumProgressed": 400362,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-05T09:06:02.8773918+00:00",
+      "NumProgressed": 400379,
+      "NumCompleted": 29
     }
   ],
   "RatingHistory": [
@@ -1751,18 +1756,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 52,
-  "LastChanged_Achievements": "2023-05-05T08:05:55.9753264+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:02.8773913+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2867,
+  "EOS_NewPlayers": 2873,
   "EOS_Completed": 29,
-  "EOS_Progressed": 400362,
-  "LastUpdate_Achievements": "2023-05-05T08:05:55.975375+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:59:31.5247982+00:00",
+  "EOS_Progressed": 400379,
+  "LastUpdate_Achievements": "2023-05-05T09:06:02.8774323+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:59:32.0170664+00:00",
   "AchievementSets": [
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400362,
+      "Progressed": 400379,
       "Completed": 29
     }
   ],

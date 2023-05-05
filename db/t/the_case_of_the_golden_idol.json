@@ -129,13 +129,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-05T08:05:22.1660848+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:05:29.967162+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 4,
   "EOS_Completed": 2,
   "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-05T08:05:22.1660946+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:58:43.7681648+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:05:29.9671709+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:58:41.0586718+00:00",
   "AchievementSets": [
     {
       "ID": "acl54ke",
@@ -157,7 +157,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_Progress": 269,
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00"

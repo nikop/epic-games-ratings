@@ -398,9 +398,9 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     }
   ],
   "Tags": [
@@ -3208,13 +3208,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T08:06:07.4461785+00:00",
+  "LastChanged_Achievements": "2023-05-05T09:06:14.5641822+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 149,
   "EOS_Completed": 30,
   "EOS_Progressed": 14642,
-  "LastUpdate_Achievements": "2023-05-05T08:06:07.4462256+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:00:03.6232554+00:00",
+  "LastUpdate_Achievements": "2023-05-05T09:06:14.56422+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:00:03.8782505+00:00",
   "AchievementSets": [
     {
       "ID": "cfbk359",
@@ -3231,7 +3231,7 @@
   "NumberOfAwards": 3012,
   "NumberOfRatings": 1845,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 97,
   "Ranking_PopularitySum": 149,

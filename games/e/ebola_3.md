@@ -3,12 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 52.00% | ~65 |
-| Inventory ✔ | 48.00% | ~60 |
-| Chest ✔ | 48.00% | ~60 |
+| Fright ✔ | 53.00% | ~66 |
+| Inventory ✔ | 50.00% | ~62 |
+| Chest ✔ | 50.00% | ~62 |
 | Police officers ✔ | 23.00% | ~29 |
-| Mutation ✔ | 21.00% | ~26 |
-| Doberman ✔ | 8.00% | ~10 |
+| Mutation ✔ | 22.00% | ~28 |
+| Doberman ✔ | 9.00% | ~11 |
 | Hospital ✔ | 6.00% | ~8 |
 | Master of Unlocking ✔ | 6.00% | ~8 |
 | Thirst ✔ | 6.00% | ~8 |
@@ -17,13 +17,13 @@
 | Fraternal help ✔ | 5.00% | ~6 |
 | Chess ✔ | 5.00% | ~6 |
 | Antivirus ✔ | 4.00% | ~5 |
+| Betty ✔ | 4.00% | ~5 |
 | Cheats ✔ | 4.00% | ~5 |
 | Survival ✔ | 4.00% | ~5 |
 | Mutant run ✔ | 4.00% | ~5 |
 | City on fire ✔ | 4.00% | ~5 |
 | King of survival ✔ | 4.00% | ~5 |
 | Alice ✔ | 3.00% | ~4 |
-| Betty ✔ | 3.00% | ~4 |
 | Brain ✔ | 3.00% | ~4 |
 | Crocodile Attack ✔ | 3.00% | ~4 |
 | Eva ✔ | 3.00% | ~4 |

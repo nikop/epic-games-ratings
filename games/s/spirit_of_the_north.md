@@ -9,32 +9,32 @@ Diff (max vs sum): 53
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~35,229 |
-| INFUSED WITH LIGHT | 53.00% | ~27,867 |
-| FOXIN' AROUND | 28.00% | ~14,722 |
-| FETCH | 27.00% | ~14,197 |
-| BLOOMS OF LIGHT | 26.00% | ~13,671 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~35,231 |
+| INFUSED WITH LIGHT | 53.00% | ~27,870 |
+| FOXIN' AROUND | 28.00% | ~14,724 |
+| FETCH | 27.00% | ~14,198 |
+| BLOOMS OF LIGHT | 26.00% | ~13,672 |
 | BEST FRIENDS | 22.00% | ~11,568 |
-| AWAKEN | 21.00% | ~11,042 |
-| ERADICATE | 20.00% | ~10,516 |
-| SPIRIT BARK | 20.00% | ~10,516 |
-| GARDEN OF LIGHT | 18.00% | ~9,464 |
-| SPIRIT FORM | 15.00% | ~7,887 |
-| WRITTEN IN STONE | 15.00% | ~7,887 |
-| UPROOTING DARKNESS | 14.00% | ~7,361 |
+| AWAKEN | 21.00% | ~11,043 |
+| ERADICATE | 20.00% | ~10,517 |
+| SPIRIT BARK | 20.00% | ~10,517 |
+| GARDEN OF LIGHT | 18.00% | ~9,465 |
+| SPIRIT FORM | 15.00% | ~7,888 |
+| WRITTEN IN STONE | 15.00% | ~7,888 |
+| UPROOTING DARKNESS | 14.00% | ~7,362 |
 | WEIGHTLESS | 11.00% | ~5,784 |
 | SPIRIT DASH | 10.00% | ~5,258 |
-| OLD COMPANION | 8.00% | ~4,206 |
-| PLAGUE DOCTOR | 8.00% | ~4,206 |
+| OLD COMPANION | 8.00% | ~4,207 |
+| PLAGUE DOCTOR | 8.00% | ~4,207 |
 | MATCH MAKER | 7.00% | ~3,681 |
 | NORTHERN LIGHTS | 7.00% | ~3,681 |
 | SPIRITED AWAY | 7.00% | ~3,681 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,577 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,578 |
 | ANCIENT HISTORY | 2.00% | ~1,052 |
 | NONE FORGOTTEN | 2.00% | ~1,052 |
 | KINDRED SPIRITS | 0.50% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,580 (Ranked 72)  
+Progressed: 52,584 (Ranked 72)  
 Completed: 238 (0.45%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 238 (0.45%) (Ranked 101)
 | 2023-05-02 | 52,311 | 237 |
 | 2023-05-03 | 52,436 | 238 |
 | 2023-05-04 | 52,535 | 238 |
-| 2023-05-05 | 52,580 | 238 |
+| 2023-05-05 | 52,584 | 238 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

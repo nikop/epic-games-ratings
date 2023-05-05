@@ -1,6 +1,6 @@
 # SnowRunner
 [View Rawdata](../../db/s/snowrunner.json)  
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 114)  
 Number of Ratings: 21,349  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 7,869  (Ranked 39)  

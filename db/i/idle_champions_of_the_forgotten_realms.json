@@ -1206,9 +1206,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_166",
@@ -5084,6 +5084,11 @@
       "Time": "2023-05-05T08:06:00.6119298+00:00",
       "NumProgressed": 86511,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T09:06:07.8044694+00:00",
+      "NumProgressed": 86514,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8547,24 +8552,24 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T08:06:00.6119288+00:00",
-  "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 799,
+  "LastChanged_Achievements": "2023-05-05T09:06:07.8044686+00:00",
+  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 800,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86511,
-  "LastUpdate_Achievements": "2023-05-05T08:06:00.6146413+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:57:57.8358551+00:00",
+  "EOS_Progressed": 86514,
+  "LastUpdate_Achievements": "2023-05-05T09:06:07.8066399+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:57:57.7754472+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52785,
+      "Progressed": 52788,
       "Completed": 2464
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86511,
+      "Progressed": 86514,
       "Completed": 1805
     }
   ],
@@ -8575,7 +8580,7 @@
   "NumberOfAwardsMax": 4865,
   "NumberOfAwards": 29803,
   "NumberOfRatings": 9041,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_Progress": 59,

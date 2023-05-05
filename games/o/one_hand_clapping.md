@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent City | 16.00% | ~119 |
+| Silent City | 15.00% | ~111 |
 | Duet Desert | 2.00% | ~15 |
 | Fermata | 2.00% | ~15 |
 | Cadenza | 1.00% | ~7 |
@@ -32,7 +32,7 @@
 | Solo Sea Glyph | 0.00% | ~0 |
 | Silent City: Reprise Glyph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741 (Ranked 169)  
+Progressed: 742 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,6 +42,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-29 | 737 | 0 |
 | 2023-04-30 | 740 | 0 |
 | 2023-05-04 | 741 | 0 |
+| 2023-05-05 | 742 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

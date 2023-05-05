@@ -1,6 +1,6 @@
 # Chronos: Before the Ashes
 [View Rawdata](../../db/c/chronos__before_the_ashes.json)  
-Rating: 4.10 (Ranked 851)  
+Rating: 4.10 (Ranked 852)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -39,13 +39,13 @@ Diff (max vs sum): 42
 | Watchtower | 0.30% | ~44 |
 | A Real Challenge | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
+| Into the Forest | 0.30% | ~44 |
 | Against All Odds | 0.20% | ~29 |
 | Ruined Armory | 0.20% | ~29 |
 | Fishmen Ritual Site | 0.20% | ~29 |
 | Forbidden Lands | 0.20% | ~29 |
 | Statue of the Forefathers | 0.20% | ~29 |
 | Blood Flower Farmer | 0.20% | ~29 |
-| Into the Forest | 0.20% | ~29 |
 | Feeding The People | 0.10% | ~15 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
