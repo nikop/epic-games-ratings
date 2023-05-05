@@ -1,5 +1,4 @@
 set -e
-git submodule update --remote
 
 dotnet run --configuration Release --project src
 
