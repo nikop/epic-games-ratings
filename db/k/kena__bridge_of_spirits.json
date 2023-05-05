@@ -72,7 +72,7 @@
       "Name": "Piercing Blow",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55233
+      "UsersEstimate": 55234
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -88,7 +88,7 @@
       "Name": "Rot Commander",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 250675
+      "UsersEstimate": 250676
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -176,7 +176,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 403629
+      "UsersEstimate": 403630
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -208,7 +208,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293162
+      "UsersEstimate": 293163
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -224,7 +224,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 339898
+      "UsersEstimate": 339899
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -264,7 +264,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 135959
+      "UsersEstimate": 135960
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -288,7 +288,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 233680
+      "UsersEstimate": 233681
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -296,7 +296,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 182695
+      "UsersEstimate": 182696
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -1211,6 +1211,11 @@
     {
       "Time": "2023-05-05T14:04:38.498714+00:00",
       "NumProgressed": 424873,
+      "NumCompleted": 497
+    },
+    {
+      "Time": "2023-05-05T15:04:47.2413055+00:00",
+      "NumProgressed": 424874,
       "NumCompleted": 497
     }
   ],
@@ -2235,19 +2240,19 @@
   "EOS_NewCompleters": 6,
   "EOS_NewPlayers": 220,
   "EOS_Completed": 497,
-  "EOS_Progressed": 424873,
-  "LastUpdate_Achievements": "2023-05-05T14:04:38.4987525+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:51.064225+00:00",
+  "EOS_Progressed": 424874,
+  "LastUpdate_Achievements": "2023-05-05T15:04:47.2413397+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:56.7407836+00:00",
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 424873,
+      "Progressed": 424874,
       "Completed": 497
     }
   ],
   "EOS_Completed_Percentage": 0.12,
-  "LastChanged_Achievements": "2023-05-05T14:04:38.4987135+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:47.2413051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "Rating": 4.7,
   "Ranking_Rating": 192,

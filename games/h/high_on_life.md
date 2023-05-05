@@ -6,21 +6,21 @@ Rating: 4.67 (Ranked 255)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~18,770 |
-| Mods Please Ban | 77.00% | ~17,413 |
+| Mods Please Ban | 77.00% | ~17,414 |
 | Bring A Knife to a Gun Fight | 76.00% | ~17,187 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,508 |
-| First Bounty Down | 59.00% | ~13,342 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,890 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,509 |
+| First Bounty Down | 59.00% | ~13,343 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,891 |
 | Luglox Genocide | 43.00% | ~9,724 |
 | Playing Card To Get | 33.00% | ~7,463 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,463 |
 | Creature Feature | 29.00% | ~6,558 |
 | Satisfied Gus-tomer | 28.00% | ~6,332 |
 | Cold-Blooded Driller | 28.00% | ~6,332 |
-| Are You Packin'? | 24.00% | ~5,427 |
-| RIP Davey Glutes | 24.00% | ~5,427 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,427 |
-| G3 Graduation | 24.00% | ~5,427 |
+| Are You Packin'? | 24.00% | ~5,428 |
+| RIP Davey Glutes | 24.00% | ~5,428 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,428 |
+| G3 Graduation | 24.00% | ~5,428 |
 | Hardest Battle In The Game | 22.00% | ~4,975 |
 | Series Wrap on Suit-O | 22.00% | ~4,975 |
 | Lezduit! | 20.00% | ~4,523 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 255)
 | Epic Legendary Prize | 1.00% | ~226 |
 | A Starfish Is Born | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,614 (Ranked 86)  
+Progressed: 22,615 (Ranked 86)  
 Completed: 8 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 8 (0.04%) (Ranked 167)
 | 2023-05-02 | 22,603 | 8 |
 | 2023-05-03 | 22,608 | 8 |
 | 2023-05-04 | 22,611 | 8 |
-| 2023-05-05 | 22,614 | 8 |
+| 2023-05-05 | 22,615 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -118,9 +118,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_25",
@@ -390,9 +390,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_60",
@@ -811,8 +811,8 @@
   "EOS_NewPlayers": 31,
   "EOS_Completed": 0,
   "EOS_Progressed": 1828,
-  "LastUpdate_Achievements": "2023-05-05T14:04:34.8247901+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:01.7070333+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:44.1098226+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:07.8087379+00:00",
   "AchievementSets": [
     {
       "ID": "7a6m2da",
@@ -828,7 +828,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:34.8247311+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:44.1097708+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "Rating": 4.54,
   "Ranking_Rating": 476,

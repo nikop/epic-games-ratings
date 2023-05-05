@@ -8,7 +8,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10871
+      "UsersEstimate": 10872
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -48,7 +48,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -64,7 +64,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7293
+      "UsersEstimate": 7294
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -1006,6 +1006,11 @@
       "Time": "2023-05-05T13:11:13.8600125+00:00",
       "NumProgressed": 13761,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-05T15:05:26.2207026+00:00",
+      "NumProgressed": 13762,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1125,19 +1130,19 @@
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 289,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13761,
-  "LastUpdate_Achievements": "2023-05-05T14:05:17.6763897+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:40.0241321+00:00",
+  "EOS_Progressed": 13762,
+  "LastUpdate_Achievements": "2023-05-05T15:05:26.2207338+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:46.1642587+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13761,
+      "Progressed": 13762,
       "Completed": 42
     }
   ],
   "EOS_Completed_Percentage": 0.31,
-  "LastChanged_Achievements": "2023-05-05T14:05:17.6763722+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:26.2207021+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "Rating": 4.25,
   "Ranking_Rating": 776,

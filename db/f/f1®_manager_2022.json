@@ -43,7 +43,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 176
+      "Count": 177
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1214,6 +1214,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 1781,
       "NumberOfAwardsMax": 238
+    },
+    {
+      "Time": "2023-05-05T14:58:00.3772681+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1782,
+      "NumberOfAwardsMax": 238
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1223,8 +1229,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T14:04:47.8195334+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:54.7544332+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:56.598605+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:00.3772684+00:00",
   "AchievementSets": [
     {
       "ID": "a1glf60",
@@ -1234,7 +1240,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:47.8195298+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:56.5986022+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
   "Rating": 4.59,
   "Ranking_Rating": 395,
@@ -1242,10 +1248,10 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-01T16:59:05.8898756+00:00",
+  "LastChanged": "2023-05-05T14:58:00.3772678+00:00",
   "Ranking_EOS_NewPlayers": 269,
   "NumberOfRatings": 810,
-  "NumberOfAwards": 1781,
+  "NumberOfAwards": 1782,
   "NumberOfAwardsMax": 238,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",

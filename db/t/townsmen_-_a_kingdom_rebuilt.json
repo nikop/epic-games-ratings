@@ -1338,11 +1338,11 @@
   "TotalAchievements": 101,
   "LastUpdate_AppInfo": "2023-05-05T13:31:30.0859236+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_Completed": 3,
   "EOS_Progressed": 4141,
-  "LastUpdate_Achievements": "2023-05-05T14:04:29.1635715+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:40.8881373+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:38.1790797+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:47.7779199+00:00",
   "AchievementSets": [
     {
       "ID": "9eacipp",
@@ -1352,7 +1352,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.07,
-  "LastChanged_Achievements": "2023-05-05T14:04:29.163443+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:38.1789573+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "Rating": 4.18,
   "Ranking_Rating": 821,

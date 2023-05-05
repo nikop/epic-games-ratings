@@ -16,7 +16,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "ACH_CARRYING",
@@ -24,7 +24,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -32,7 +32,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10861
+      "UsersEstimate": 10862
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -56,7 +56,7 @@
       "Name": "Efficient",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -64,7 +64,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14481
+      "UsersEstimate": 14482
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -112,7 +112,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14481
+      "UsersEstimate": 14482
     },
     {
       "ID": "ACH_JR_50",
@@ -136,7 +136,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10861
+      "UsersEstimate": 10862
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -144,7 +144,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -160,7 +160,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -176,7 +176,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18102
+      "UsersEstimate": 18103
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -208,7 +208,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -224,7 +224,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -240,7 +240,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10861
+      "UsersEstimate": 10862
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -264,7 +264,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10861
+      "UsersEstimate": 10862
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -272,7 +272,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18102
+      "UsersEstimate": 18103
     },
     {
       "ID": "ACH_WET_FEET",
@@ -280,7 +280,7 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14481
+      "UsersEstimate": 14482
     }
   ],
   "Tags": [
@@ -1530,6 +1530,11 @@
     {
       "Time": "2023-05-05T14:04:28.7674163+00:00",
       "NumProgressed": 362037,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T15:04:37.7922828+00:00",
+      "NumProgressed": 362058,
       "NumCompleted": 2
     }
   ],
@@ -3273,21 +3278,21 @@
   "TotalAchievements": 35,
   "LastUpdate_AppInfo": "2023-05-05T13:31:18.1355337+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3849,
+  "EOS_NewPlayers": 3851,
   "EOS_Completed": 2,
-  "EOS_Progressed": 362037,
-  "LastUpdate_Achievements": "2023-05-05T14:04:28.7674529+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:28.3168057+00:00",
+  "EOS_Progressed": 362058,
+  "LastUpdate_Achievements": "2023-05-05T15:04:37.7923144+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:34.9932468+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 362037,
+      "Progressed": 362058,
       "Completed": 2
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:28.7674157+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:37.7922825+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "Rating": 4.61,
   "Ranking_Rating": 353,

@@ -1870,9 +1870,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 5386
+      "UsersEstimate": 5494
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -4452,11 +4452,11 @@
   "TotalAchievements": 285,
   "LastUpdate_AppInfo": "2023-05-05T13:31:23.9025462+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 193,
   "EOS_Completed": 2,
   "EOS_Progressed": 10773,
-  "LastUpdate_Achievements": "2023-05-05T14:04:44.9192379+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:34.4122574+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:53.7428894+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:41.2410713+00:00",
   "AchievementSets": [
     {
       "ID": "7l38kb8",
@@ -4472,7 +4472,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T14:04:44.9184817+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:53.7421704+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "Rating": 4.65,
   "Ranking_Rating": 290,
@@ -4487,6 +4487,6 @@
   "NumberOfAwardsMax": 215,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "old-world"
 }

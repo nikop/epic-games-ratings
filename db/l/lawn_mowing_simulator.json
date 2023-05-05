@@ -8,7 +8,7 @@
       "Name": "The dream begins",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 499824
+      "UsersEstimate": 499844
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -16,7 +16,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -24,7 +24,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -88,7 +88,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18286
+      "UsersEstimate": 18287
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -96,7 +96,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 225531
+      "UsersEstimate": 225539
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -120,7 +120,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18286
+      "UsersEstimate": 18287
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -248,7 +248,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 195053
+      "UsersEstimate": 195061
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -280,7 +280,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30477
+      "UsersEstimate": 30478
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -296,7 +296,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -312,7 +312,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 91431
+      "UsersEstimate": 91435
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -328,7 +328,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24382
+      "UsersEstimate": 24383
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -336,7 +336,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -344,7 +344,7 @@
       "Name": "The top of the mountain",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -368,7 +368,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42668
+      "UsersEstimate": 42670
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -384,7 +384,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18286
+      "UsersEstimate": 18287
     },
     {
       "ID": "RP_ESTEEMED",
@@ -408,7 +408,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109718
+      "UsersEstimate": 109722
     },
     {
       "ID": "RP_TRUSTED",
@@ -424,7 +424,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 54859
+      "UsersEstimate": 54861
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -432,7 +432,7 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24382
+      "UsersEstimate": 24383
     }
   ],
   "Tags": [
@@ -1671,6 +1671,11 @@
     {
       "Time": "2023-05-05T14:04:44.2001256+00:00",
       "NumProgressed": 609542,
+      "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-05T15:04:52.9678834+00:00",
+      "NumProgressed": 609566,
       "NumCompleted": 9
     }
   ],
@@ -3591,21 +3596,21 @@
   "TotalAchievements": 54,
   "LastUpdate_AppInfo": "2023-05-05T13:31:27.4600174+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 3149,
+  "EOS_NewPlayers": 3148,
   "EOS_Completed": 9,
-  "EOS_Progressed": 609542,
-  "LastUpdate_Achievements": "2023-05-05T14:04:44.2001777+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:37.7585359+00:00",
+  "EOS_Progressed": 609566,
+  "LastUpdate_Achievements": "2023-05-05T15:04:52.9679309+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:44.5693994+00:00",
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 609542,
+      "Progressed": 609566,
       "Completed": 9
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:44.2001252+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:52.967883+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "Rating": 4.07,
   "Ranking_Rating": 863,
@@ -3620,6 +3625,6 @@
   "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "lawn-mowing-simulator-838bf3"
 }

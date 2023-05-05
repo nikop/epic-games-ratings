@@ -8,7 +8,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 39631
+      "UsersEstimate": 39632
     },
     {
       "ID": "ACH_BASE_10",
@@ -16,7 +16,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 52146
+      "UsersEstimate": 52148
     },
     {
       "ID": "ACH_BASE_11",
@@ -32,7 +32,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8343
+      "UsersEstimate": 8344
     },
     {
       "ID": "ACH_BASE_13",
@@ -176,7 +176,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8343
+      "UsersEstimate": 8344
     },
     {
       "ID": "ACH_BASE_30",
@@ -256,7 +256,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25030
+      "UsersEstimate": 25031
     },
     {
       "ID": "ACH_BASE_8",
@@ -264,7 +264,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8343
+      "UsersEstimate": 8344
     },
     {
       "ID": "ACH_BASE_9",
@@ -1512,6 +1512,11 @@
       "Time": "2023-05-05T14:04:42.1045319+00:00",
       "NumProgressed": 208586,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T15:04:50.8048143+00:00",
+      "NumProgressed": 208591,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -1784,24 +1789,24 @@
   "TotalAchievements": 34,
   "LastUpdate_AppInfo": "2023-05-05T13:31:50.859008+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1040,
   "EOS_Completed": 2,
-  "EOS_Progressed": 208586,
-  "LastUpdate_Achievements": "2023-05-05T14:04:42.1045646+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:03.1827202+00:00",
+  "EOS_Progressed": 208591,
+  "LastUpdate_Achievements": "2023-05-05T15:04:50.8048452+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:09.2072224+00:00",
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 208586,
+      "Progressed": 208591,
       "Completed": 2
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:42.1045315+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:50.804814+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "Rating": 4.43,
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 47,

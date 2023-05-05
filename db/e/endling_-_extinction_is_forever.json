@@ -134,9 +134,9 @@
       "ID": "TROP016",
       "SetID": "9n0dl35",
       "Name": "Beyond Words",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "TROP017",
@@ -410,8 +410,8 @@
   "EOS_NewPlayers": 23,
   "EOS_Completed": 2,
   "EOS_Progressed": 396,
-  "LastUpdate_Achievements": "2023-05-05T14:04:43.9150924+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:24.4375029+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:52.6000431+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:29.9100586+00:00",
   "AchievementSets": [
     {
       "ID": "9n0dl35",
@@ -421,7 +421,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.51,
-  "LastChanged_Achievements": "2023-05-05T14:04:43.9150694+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:52.6000215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 97,

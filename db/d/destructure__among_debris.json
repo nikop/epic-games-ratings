@@ -78,9 +78,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "easy_victory",
@@ -424,8 +424,8 @@
   "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
   "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-05T14:05:11.0660376+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:17.7453998+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:19.69664+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:24.6371403+00:00",
   "AchievementSets": [
     {
       "ID": "jig50d",
@@ -435,7 +435,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:05:11.0660144+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:19.6966173+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 191,

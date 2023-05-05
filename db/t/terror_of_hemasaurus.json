@@ -281,8 +281,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 36,
-  "LastUpdate_Achievements": "2023-05-05T14:04:39.7156437+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:58.3062055+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:48.3328282+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:03.7844286+00:00",
   "AchievementSets": [
     {
       "ID": "aio76gp",
@@ -292,7 +292,7 @@
     }
   ],
   "EOS_Completed_Percentage": 5.56,
-  "LastChanged_Achievements": "2023-05-05T14:04:39.7156223+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:48.3328074+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 23,

@@ -472,7 +472,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "60",
@@ -1102,6 +1102,11 @@
       "Time": "2023-05-05T14:04:40.6455516+00:00",
       "NumProgressed": 46001,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-05T15:04:49.3152145+00:00",
+      "NumProgressed": 46002,
+      "NumCompleted": 44
     }
   ],
   "RatingHistory": [
@@ -1584,27 +1589,27 @@
   "TotalAchievements": 67,
   "LastUpdate_AppInfo": "2023-05-05T13:31:09.4589214+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_Completed": 44,
-  "EOS_Progressed": 46001,
-  "LastUpdate_Achievements": "2023-05-05T14:04:40.6456232+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:19.7227392+00:00",
+  "EOS_Progressed": 46002,
+  "LastUpdate_Achievements": "2023-05-05T15:04:49.3152841+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:24.9614448+00:00",
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46001,
+      "Progressed": 46002,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9469,
+      "Progressed": 9470,
       "Completed": 27
     }
   ],
   "EOS_Completed_Percentage": 0.1,
-  "LastChanged_Achievements": "2023-05-05T14:04:40.6455505+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:49.315214+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "Rating": 4.56,
   "Ranking_Rating": 447,
@@ -1618,6 +1623,6 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "alan-wake-remastered"
 }

@@ -64,7 +64,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6967
+      "UsersEstimate": 6968
     },
     {
       "ID": "Level00BowlingStrike",
@@ -72,7 +72,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25082
+      "UsersEstimate": 25085
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -80,7 +80,7 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7664
+      "UsersEstimate": 7665
     }
   ],
   "Tags": [],
@@ -1214,6 +1214,11 @@
       "Time": "2023-05-05T13:42:22.1278966+00:00",
       "NumProgressed": 69671,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-05-05T15:05:25.8309076+00:00",
+      "NumProgressed": 69680,
+      "NumCompleted": 325
     }
   ],
   "RatingHistory": [
@@ -1640,21 +1645,21 @@
   "TotalAchievements": 10,
   "LastUpdate_AppInfo": "2023-05-05T13:33:29.1622046+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 859,
   "EOS_Completed": 325,
-  "EOS_Progressed": 69671,
-  "LastUpdate_Achievements": "2023-05-05T14:05:17.4263865+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:41.0587317+00:00",
+  "EOS_Progressed": 69680,
+  "LastUpdate_Achievements": "2023-05-05T15:05:25.8309189+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:47.3376935+00:00",
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 69671,
+      "Progressed": 69680,
       "Completed": 325
     }
   ],
   "EOS_Completed_Percentage": 0.47,
-  "LastChanged_Achievements": "2023-05-05T14:05:17.4263706+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:25.8309072+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "Rating": 4.3,
   "Ranking_Rating": 752,
@@ -1668,6 +1673,6 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "among-the-sleep-enhanced-edition"
 }

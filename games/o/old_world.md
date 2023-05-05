@@ -28,9 +28,9 @@ Diff (max vs sum): 50
 | Keystone | 55.00% | ~5,925 |
 | Glorious | 54.00% | ~5,817 |
 | Trade Caravan | 53.00% | ~5,710 |
+| Zoroastrianism | 51.00% | ~5,494 |
 | Naming Landmarks | 51.00% | ~5,494 |
 | Learned | 50.00% | ~5,386 |
-| Zoroastrianism | 50.00% | ~5,386 |
 | Fountainhead | 49.00% | ~5,279 |
 | Pioneer | 49.00% | ~5,279 |
 | Developing Cities | 49.00% | ~5,279 |

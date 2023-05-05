@@ -206,9 +206,9 @@
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -491,8 +491,8 @@
   "EOS_NewPlayers": 3,
   "EOS_Completed": 2,
   "EOS_Progressed": 298,
-  "LastUpdate_Achievements": "2023-05-05T14:04:41.4266429+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:18.2970922+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:50.1360239+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:23.3643502+00:00",
   "AchievementSets": [
     {
       "ID": "20koof9",
@@ -502,9 +502,9 @@
     }
   ],
   "EOS_Completed_Percentage": 0.67,
-  "LastChanged_Achievements": "2023-05-05T14:04:41.4265946+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:50.1359802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
-  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 92,
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
   "Ranking_EOS_NewPlayers": 202,

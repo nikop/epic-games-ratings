@@ -65,7 +65,7 @@ Diff (max vs sum): -72
 | All the chests | 13.00% | ~259 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,990 (Ranked 140)  
-Completed: 238 (11.96%) (Ranked 10)  
+Completed: 239 (12.01%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 238 (11.96%) (Ranked 10)
 | 2023-05-02 | 1,986 | 236 |
 | 2023-05-03 | 1,986 | 238 |
 | 2023-05-04 | 1,989 | 238 |
-| 2023-05-05 | 1,990 | 238 |
+| 2023-05-05 | 1,990 | 239 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

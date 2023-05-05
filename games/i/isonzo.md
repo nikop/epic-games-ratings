@@ -11,12 +11,12 @@ Diff (max vs sum): 101
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,016 |
-| Tutti Eroi! | 53.00% | ~2,960 |
-| You Shall Not Pass | 53.00% | ~2,960 |
-| Avanti Savoia! | 46.00% | ~2,569 |
+| Tutti Eroi! | 53.00% | ~2,961 |
+| You Shall Not Pass | 53.00% | ~2,961 |
+| Avanti Savoia! | 46.00% | ~2,570 |
 | Conrad von Hotzensocks | 35.00% | ~1,955 |
 | Mamma Mia! | 35.00% | ~1,955 |
-| Gabriele D'Annunzio | 32.00% | ~1,787 |
+| Gabriele D'Annunzio | 32.00% | ~1,788 |
 | Silver Lining | 28.00% | ~1,564 |
 | Aurelio Baruzzi | 22.00% | ~1,229 |
 | Veni Vidi Vici | 22.00% | ~1,229 |
@@ -25,7 +25,7 @@ Diff (max vs sum): 101
 | Insubordination | 19.00% | ~1,061 |
 | The Italian Job | 19.00% | ~1,061 |
 | The Lion of the Isonzo | 18.00% | ~1,005 |
-| Ragazzi del '99 | 17.00% | ~949 |
+| Ragazzi del '99 | 17.00% | ~950 |
 | Thus With A Kiss | 15.00% | ~838 |
 | Dirty Dozen | 14.00% | ~782 |
 | Luigi Cadorna | 13.00% | ~726 |
@@ -56,7 +56,7 @@ Diff (max vs sum): 101
 | "Sacro Egoismo" | 0.40% | ~22 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,585 (Ranked 115)  
+Progressed: 5,586 (Ranked 115)  
 Completed: 8 (0.14%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 8 (0.14%) (Ranked 142)
 | 2023-05-02 | 5,578 | 8 |
 | 2023-05-03 | 5,581 | 8 |
 | 2023-05-04 | 5,584 | 8 |
-| 2023-05-05 | 5,585 | 8 |
+| 2023-05-05 | 5,586 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

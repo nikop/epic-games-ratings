@@ -56,7 +56,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23281
+      "UsersEstimate": 23283
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -72,7 +72,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -96,7 +96,7 @@
       "Name": "First but not Last",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -168,7 +168,7 @@
       "Name": "I Found it!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12698
+      "UsersEstimate": 12700
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -232,7 +232,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 171429
+      "UsersEstimate": 171446
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -240,7 +240,7 @@
       "Name": "I know the Rules",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 95238
+      "UsersEstimate": 95248
     }
   ],
   "Tags": [
@@ -1517,6 +1517,11 @@
     {
       "Time": "2023-05-05T14:04:54.9076748+00:00",
       "NumProgressed": 211641,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T15:05:04.2334244+00:00",
+      "NumProgressed": 211662,
       "NumCompleted": 0
     }
   ],
@@ -2861,21 +2866,21 @@
   "TotalAchievements": 30,
   "LastUpdate_AppInfo": "2023-05-05T13:32:18.1321137+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2916,
+  "EOS_NewPlayers": 2918,
   "EOS_Completed": 0,
-  "EOS_Progressed": 211641,
-  "LastUpdate_Achievements": "2023-05-05T14:04:54.9077046+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:29.829783+00:00",
+  "EOS_Progressed": 211662,
+  "LastUpdate_Achievements": "2023-05-05T15:05:04.2334537+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:35.7889353+00:00",
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 211641,
+      "Progressed": 211662,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:54.9076743+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:04.2334239+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "Rating": 4.03,
   "Ranking_Rating": 874,

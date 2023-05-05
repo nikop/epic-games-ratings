@@ -166,9 +166,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -294,9 +294,9 @@
       "ID": "MISC_UNLOCKNERVEPASSES",
       "SetID": "ccc0dlh",
       "Name": "Passage",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "QUEST_CHILD",
@@ -568,8 +568,8 @@
   "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
   "EOS_Progressed": 536,
-  "LastUpdate_Achievements": "2023-05-05T14:05:19.1227894+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:41.052382+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:27.5852712+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:47.2208647+00:00",
   "AchievementSets": [
     {
       "ID": "72k7oh",
@@ -585,7 +585,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:05:19.1227534+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:27.5852398+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "Rating": 4.61,
   "Ranking_Rating": 353,

@@ -9,7 +9,7 @@
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.75% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.72% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -33,7 +33,7 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.69% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.62% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -122,14 +122,14 @@
 | 119 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 119 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 122 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
+| 123 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
 | 123 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 123 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
-| 125 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
-| 126 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 127 | [Blanc](games/b/blanc.md) | 0.22% |
-| 127 | [Filament](games/f/filament.md) | 0.22% |
-| 129 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 129 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
+| 126 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
+| 127 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 128 | [Blanc](games/b/blanc.md) | 0.22% |
+| 128 | [Filament](games/f/filament.md) | 0.22% |
+| 130 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 131 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |

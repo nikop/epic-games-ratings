@@ -8,7 +8,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     },
     {
       "ID": "Burning_For_You",
@@ -16,7 +16,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "Deadline",
@@ -32,7 +32,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Eyes_On_Fire",
@@ -40,7 +40,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Feel_The_Thunder",
@@ -48,7 +48,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Fireworks",
@@ -56,7 +56,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4366
+      "UsersEstimate": 4368
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -64,7 +64,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "I_Am_The_Storm",
@@ -80,7 +80,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5691
     },
     {
       "ID": "Mirrors",
@@ -104,7 +104,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6750
     },
     {
       "ID": "Sole_Survivor",
@@ -112,7 +112,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4897
     },
     {
       "ID": "Still_Burning",
@@ -128,7 +128,7 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     }
   ],
   "Tags": [],
@@ -1057,6 +1057,11 @@
       "Time": "2023-05-05T14:04:55.1303625+00:00",
       "NumProgressed": 13231,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T15:05:04.4050252+00:00",
+      "NumProgressed": 13236,
+      "NumCompleted": 81
     }
   ],
   "RatingHistory": [
@@ -1318,21 +1323,21 @@
   "TotalAchievements": 16,
   "LastUpdate_AppInfo": "2023-05-05T13:32:19.9513364+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 287,
   "EOS_Completed": 81,
-  "EOS_Progressed": 13231,
-  "LastUpdate_Achievements": "2023-05-05T14:04:55.1303817+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:31.8477422+00:00",
+  "EOS_Progressed": 13236,
+  "LastUpdate_Achievements": "2023-05-05T15:05:04.4050422+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:37.5246002+00:00",
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13231,
+      "Progressed": 13236,
       "Completed": 81
     }
   ],
   "EOS_Completed_Percentage": 0.61,
-  "LastChanged_Achievements": "2023-05-05T14:04:55.1303615+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:04.4050247+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "Rating": 4.32,
   "Ranking_Rating": 738,

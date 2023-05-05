@@ -10,9 +10,9 @@ Diff (max vs sum): 25
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Brief Tour of the Realms | 1.00% | ~865 |
 | Checkmate | 1.00% | ~528 |
 | Vecna Out! | 1.00% | ~528 |
-| A Brief Tour of the Realms | 0.90% | ~779 |
 | Pin and Skewer | 0.80% | ~422 |
 | Bully for Vecna | 0.60% | ~317 |
 | The Cursed Farmer | 0.60% | ~519 |
@@ -23,12 +23,14 @@ Diff (max vs sum): 25
 | The Sanctum of the Sword | 0.30% | ~158 |
 | Get Back In The Castle | 0.30% | ~158 |
 | A Persistent Buzzing | 0.30% | ~260 |
+| Terror in the Dark | 0.30% | ~260 |
 | Seeking Allies | 0.30% | ~260 |
 | Are Ya Chicken? | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Friendly Imps | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~173 |
+| Tall Tales | 0.20% | ~106 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
@@ -39,7 +41,6 @@ Diff (max vs sum): 25
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~173 |
-| Terror in the Dark | 0.20% | ~173 |
 | Low Initiative | 0.20% | ~173 |
 | A Mysterious Summons | 0.20% | ~173 |
 | Street War | 0.20% | ~173 |
@@ -72,7 +73,6 @@ Diff (max vs sum): 25
 | Keep Your Friends Close | 0.10% | ~53 |
 | Friends and Foes | 0.10% | ~53 |
 | And Your Enemies Closer | 0.10% | ~53 |
-| Tall Tales | 0.10% | ~53 |
 | Nightmare Rats! | 0.10% | ~53 |
 | An Unexpected Geist | 0.10% | ~53 |
 | Back to Nature | 0.10% | ~53 |
@@ -500,7 +500,7 @@ Diff (max vs sum): 25
 | Overwhelming Force | 0.10% | ~87 |
 | Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,533 (Ranked 59)  
+Progressed: 86,537 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,533 | 1,805 |
+| 2023-05-05 | 86,537 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

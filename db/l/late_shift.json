@@ -216,8 +216,8 @@
   "EOS_NewPlayers": 2,
   "EOS_Completed": 4,
   "EOS_Progressed": 333,
-  "LastUpdate_Achievements": "2023-05-05T14:04:28.3273509+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:25.6632635+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:37.3402432+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:31.8183072+00:00",
   "AchievementSets": [
     {
       "ID": "8eejhlh",
@@ -227,7 +227,7 @@
     }
   ],
   "EOS_Completed_Percentage": 1.2,
-  "LastChanged_Achievements": "2023-05-05T14:04:28.3273359+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:37.3402285+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 75,

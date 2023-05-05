@@ -523,8 +523,8 @@
   "EOS_NewPlayers": 13,
   "EOS_Completed": 0,
   "EOS_Progressed": 1007,
-  "LastUpdate_Achievements": "2023-05-05T14:04:42.6068057+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:03.4569024+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:51.3258681+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:08.1103976+00:00",
   "AchievementSets": [
     {
       "ID": "62d2oh4",
@@ -534,7 +534,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:04:42.6067821+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:51.3258453+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "Rating": 4.5,
   "Ranking_Rating": 531,
@@ -543,7 +543,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "NumberOfAwards": 20,
   "NumberOfAwardsMax": 20,
   "MaxAwardTitle": "Character Customization",

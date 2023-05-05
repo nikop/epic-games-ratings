@@ -1001,8 +1001,8 @@
   "EOS_NewPlayers": 13,
   "EOS_Completed": 11,
   "EOS_Progressed": 7169,
-  "LastUpdate_Achievements": "2023-05-05T14:04:31.451481+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:26.00064+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:40.5158326+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:31.748259+00:00",
   "AchievementSets": [
     {
       "ID": "97dk767",
@@ -1012,7 +1012,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.15,
-  "LastChanged_Achievements": "2023-05-05T14:04:31.4514645+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:40.5158166+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "Rating": 4.71,
   "Ranking_Rating": 178,
@@ -1021,12 +1021,12 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 139,
   "LastChanged": "2023-05-04T09:58:55.9104765+00:00",
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "NumberOfRatings": 546,
   "NumberOfAwards": 856,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "skul-the-hero-slayer"
 }

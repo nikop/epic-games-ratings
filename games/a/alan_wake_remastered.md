@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~568 |
 | What Light Through Yonder Window | 5.00% | ~2,300 |
 | Right of Way | 5.00% | ~2,300 |
-| Ding! | 5.00% | ~473 |
+| Ding! | 5.00% | ~474 |
 | Tornado Wrangler | 4.00% | ~1,840 |
 | Departure | 4.00% | ~1,840 |
 | Children of the Elder God | 3.00% | ~1,380 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,001 (Ranked 74)  
+Progressed: 46,002 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 44 (0.10%) (Ranked 150)
 | 2023-05-02 | 45,971 | 44 |
 | 2023-05-03 | 45,986 | 44 |
 | 2023-05-04 | 45,993 | 44 |
-| 2023-05-05 | 46,001 | 44 |
+| 2023-05-05 | 46,002 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

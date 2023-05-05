@@ -40,7 +40,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "EstateAgent",
@@ -56,7 +56,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17537
+      "UsersEstimate": 17538
     },
     {
       "ID": "GameOver",
@@ -168,7 +168,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5784
     },
     {
       "ID": "VeronicaLiptson",
@@ -559,6 +559,11 @@
     {
       "Time": "2023-05-05T13:42:07.6515042+00:00",
       "NumProgressed": 18656,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T15:05:11.2520631+00:00",
+      "NumProgressed": 18657,
       "NumCompleted": 19
     }
   ],
@@ -1821,19 +1826,19 @@
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 54,
   "EOS_Completed": 19,
-  "EOS_Progressed": 18656,
-  "LastUpdate_Achievements": "2023-05-05T14:05:01.8291274+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:51.2451889+00:00",
+  "EOS_Progressed": 18657,
+  "LastUpdate_Achievements": "2023-05-05T15:05:11.2520813+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:57.2417826+00:00",
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18656,
+      "Progressed": 18657,
       "Completed": 19
     }
   ],
   "EOS_Completed_Percentage": 0.1,
-  "LastChanged_Achievements": "2023-05-05T14:05:01.8291087+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:11.2520626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "Rating": 4.7,
   "Ranking_Rating": 192,

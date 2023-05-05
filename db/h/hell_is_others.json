@@ -56,7 +56,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76816
+      "UsersEstimate": 76817
     },
     {
       "ID": "BackHomeNTimes",
@@ -112,7 +112,7 @@
       "Name": "Fixer I",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22301
+      "UsersEstimate": 22302
     },
     {
       "ID": "CreditLevel2",
@@ -296,7 +296,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52037
+      "UsersEstimate": 52038
     },
     {
       "ID": "KillOthers2",
@@ -400,7 +400,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24779
+      "UsersEstimate": 24780
     },
     {
       "ID": "ReachNDays2",
@@ -1627,6 +1627,11 @@
       "Time": "2023-05-05T14:05:17.6596806+00:00",
       "NumProgressed": 247793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T15:05:26.0660305+00:00",
+      "NumProgressed": 247798,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1935,21 +1940,21 @@
   "TotalAchievements": 56,
   "LastUpdate_AppInfo": "2023-05-05T13:33:19.258759+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 775,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247793,
-  "LastUpdate_Achievements": "2023-05-05T14:05:17.6597372+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:30.357517+00:00",
+  "EOS_Progressed": 247798,
+  "LastUpdate_Achievements": "2023-05-05T15:05:26.0660864+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:37.0274124+00:00",
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247793,
+      "Progressed": 247798,
       "Completed": 1
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T14:05:17.6596802+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:26.0660297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "Rating": 4.47,
   "Ranking_Rating": 574,
@@ -1963,6 +1968,6 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "hell-is-others-789262"
 }

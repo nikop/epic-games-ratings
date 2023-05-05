@@ -1140,8 +1140,8 @@
   "EOS_NewPlayers": 48,
   "EOS_Completed": 1261,
   "EOS_Progressed": 27351,
-  "LastUpdate_Achievements": "2023-05-05T14:05:07.7909052+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:05.7733084+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:16.5777876+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:12.16379+00:00",
   "AchievementSets": [
     {
       "ID": "2m0copd",
@@ -1151,7 +1151,7 @@
     }
   ],
   "EOS_Completed_Percentage": 4.61,
-  "LastChanged_Achievements": "2023-05-05T14:05:07.7908795+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:16.5777638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "Rating": 4.85,
   "Ranking_Rating": 37,
@@ -1160,12 +1160,12 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 26,
   "LastChanged": "2023-05-04T03:59:32.3679163+00:00",
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "NumberOfRatings": 425,
   "NumberOfAwards": 311,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "ProductSlug": "bugsnax/home"
 }

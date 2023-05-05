@@ -24,7 +24,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30288
+      "UsersEstimate": 30289
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -56,7 +56,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136298
+      "UsersEstimate": 136299
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -80,7 +80,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30288
+      "UsersEstimate": 30289
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -96,7 +96,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30288
+      "UsersEstimate": 30289
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -104,7 +104,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151442
+      "UsersEstimate": 151443
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -1359,6 +1359,11 @@
       "Time": "2023-05-05T14:05:12.9078037+00:00",
       "NumProgressed": 1514423,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T15:05:21.3065575+00:00",
+      "NumProgressed": 1514428,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1760,21 +1765,21 @@
   "TotalAchievements": 20,
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.7533678+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1535,
+  "EOS_NewPlayers": 1531,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514423,
-  "LastUpdate_Achievements": "2023-05-05T14:05:12.9078316+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:23.8548787+00:00",
+  "EOS_Progressed": 1514428,
+  "LastUpdate_Achievements": "2023-05-05T15:05:21.3065773+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:30.5084985+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514423,
+      "Progressed": 1514428,
       "Completed": 597
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "LastChanged_Achievements": "2023-05-05T14:05:12.9078026+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:21.3065571+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "Rating": 4.41,
   "Ranking_Rating": 651,

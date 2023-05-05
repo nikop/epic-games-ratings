@@ -2323,8 +2323,8 @@
   "EOS_NewPlayers": 108,
   "EOS_Completed": 2119,
   "EOS_Progressed": 77854,
-  "LastUpdate_Achievements": "2023-05-05T14:05:09.9512453+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:59:08.222913+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:18.6631937+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:14.5214535+00:00",
   "AchievementSets": [
     {
       "ID": "4ajkb4b",
@@ -2334,7 +2334,7 @@
     }
   ],
   "EOS_Completed_Percentage": 2.72,
-  "LastChanged_Achievements": "2023-05-05T14:05:09.9512026+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:18.6631545+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "Rating": 4.5,
   "Ranking_Rating": 531,
@@ -2349,6 +2349,6 @@
   "NumberOfAwardsMax": 752,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin"
 }

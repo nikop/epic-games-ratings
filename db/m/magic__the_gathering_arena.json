@@ -19,7 +19,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8329
+      "Count": 8337
     },
     {
       "Text": "This game is Relaxing",
@@ -4857,6 +4857,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 82962,
       "NumberOfAwardsMax": 10090
+    },
+    {
+      "Time": "2023-05-05T14:57:48.8833626+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 82970,
+      "NumberOfAwardsMax": 10090
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4866,8 +4872,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T14:00:21.7926341+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:41.9624995+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:00:30.3293845+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:48.8833632+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "Rating": 4.45,
@@ -4876,10 +4882,10 @@
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T13:34:22.6321441+00:00",
+  "LastChanged": "2023-05-05T14:57:48.8833624+00:00",
   "Ranking_EOS_NewPlayers": 269,
   "NumberOfRatings": 14652,
-  "NumberOfAwards": 82962,
+  "NumberOfAwards": 82970,
   "NumberOfAwardsMax": 10090,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",

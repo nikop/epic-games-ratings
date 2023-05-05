@@ -9,12 +9,14 @@ Rating: 4.54 (Ranked 476)
 | The Ship of Theseus | 0.30% | ~5 |
 | Without Breaking Some Eggs... | 0.20% | ~4 |
 | Wakey Wakey | 0.20% | ~4 |
+| Sputnik 2049 | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
 | A Thousand Strong | 0.20% | ~4 |
 | Power Outage | 0.20% | ~4 |
 | Permanent Redesigns | 0.20% | ~4 |
 | Convenient Transport | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
+| Hope Seeker | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
 | Mutual Loyalty | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
@@ -23,7 +25,6 @@ Rating: 4.54 (Ranked 476)
 | ...  in a finite world | 0.10% | ~2 |
 | Guy de Borderlands | 0.10% | ~2 |
 | Space Society | 0.10% | ~2 |
-| Sputnik 2049 | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
 | In Dolos We Trust | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
@@ -36,7 +37,6 @@ Rating: 4.54 (Ranked 476)
 | Tiqqun Unchained | 0.10% | ~2 |
 | BRAWL! | 0.10% | ~2 |
 | Pedal to the Metal | 0.10% | ~2 |
-| Hope Seeker | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | From the Past | 0.10% | ~2 |

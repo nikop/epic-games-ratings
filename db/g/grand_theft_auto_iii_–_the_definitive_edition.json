@@ -8,7 +8,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "ACH02",
@@ -32,7 +32,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "ACH05",
@@ -112,7 +112,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH15",
@@ -691,6 +691,11 @@
       "Time": "2023-05-05T14:04:36.3002382+00:00",
       "NumProgressed": 4815,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T15:04:45.5432768+00:00",
+      "NumProgressed": 4816,
+      "NumCompleted": 25
     }
   ],
   "RatingHistory": [
@@ -897,21 +902,21 @@
   "TotalAchievements": 29,
   "LastUpdate_AppInfo": "2023-05-05T13:31:23.7737861+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_Completed": 25,
-  "EOS_Progressed": 4815,
-  "LastUpdate_Achievements": "2023-05-05T14:04:36.3002624+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:34.2862479+00:00",
+  "EOS_Progressed": 4816,
+  "LastUpdate_Achievements": "2023-05-05T15:04:45.5433018+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:41.073445+00:00",
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4815,
+      "Progressed": 4816,
       "Completed": 25
     }
   ],
   "EOS_Completed_Percentage": 0.52,
-  "LastChanged_Achievements": "2023-05-05T14:04:36.3002377+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:04:45.543276+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "Rating": 4.16,
   "Ranking_Rating": 832,
@@ -920,11 +925,11 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 95,
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition"
 }

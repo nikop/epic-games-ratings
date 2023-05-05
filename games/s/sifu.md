@@ -13,7 +13,7 @@ Diff (max vs sum): -24
 | Diligence as a goal | 4.00% | ~476 |
 | Project Arena | 3.00% | ~357 |
 | Bloody Sport | 1.00% | ~119 |
-| The best strikes are the ones we avoid | 0.80% | ~95 |
+| The best strikes are the ones we avoid | 0.90% | ~107 |
 | The Hateful Pole Fighter | 0.70% | ~4,918 |
 | A Lady's Blood in the Snow | 0.70% | ~4,918 |
 | Qi Gong: Breath | 0.70% | ~4,918 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -24
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,605 (Ranked 15)  
+Progressed: 702,606 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-02 | 702,521 | 12,707 |
 | 2023-05-03 | 702,552 | 12,707 |
 | 2023-05-04 | 702,592 | 12,707 |
-| 2023-05-05 | 702,605 | 12,707 |
+| 2023-05-05 | 702,606 | 12,707 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

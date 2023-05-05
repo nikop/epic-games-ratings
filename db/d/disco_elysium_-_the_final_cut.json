@@ -40,7 +40,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21236
+      "UsersEstimate": 21237
     },
     {
       "ID": "ACH_COP_BAD",
@@ -88,7 +88,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33034
+      "UsersEstimate": 33035
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -136,7 +136,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15337
+      "UsersEstimate": 15338
     },
     {
       "ID": "ACH_COP_STAR",
@@ -288,7 +288,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15337
+      "UsersEstimate": 15338
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -1433,6 +1433,11 @@
       "Time": "2023-05-05T14:04:57.4703186+00:00",
       "NumProgressed": 117980,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T15:05:06.8600447+00:00",
+      "NumProgressed": 117981,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2403,21 +2408,21 @@
   "TotalAchievements": 40,
   "LastUpdate_AppInfo": "2023-05-05T13:32:19.5872054+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 367,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117980,
-  "LastUpdate_Achievements": "2023-05-05T14:04:57.4703595+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:31.3165272+00:00",
+  "EOS_Progressed": 117981,
+  "LastUpdate_Achievements": "2023-05-05T15:05:06.8600813+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:37.2714183+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117980,
+      "Progressed": 117981,
       "Completed": 24
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T14:04:57.4703181+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:06.8600442+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "Rating": 4.86,
   "Ranking_Rating": 28,

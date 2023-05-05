@@ -405,8 +405,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-05T14:02:18.2522603+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:57:19.3971453+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:03:06.3037883+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:24.6190612+00:00",
   "AchievementSets": [
     {
       "ID": "chb1m60",
@@ -416,7 +416,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.74,
-  "LastChanged_Achievements": "2023-05-05T14:02:18.2522012+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:03:06.3037494+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "Rating": 4.47,
   "Ranking_Rating": 574,

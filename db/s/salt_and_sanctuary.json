@@ -8,7 +8,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67582
+      "UsersEstimate": 67583
     },
     {
       "ID": "COASTROCK",
@@ -24,7 +24,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 155960
+      "UsersEstimate": 155962
     },
     {
       "ID": "DEVOTED",
@@ -64,7 +64,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 431488
+      "UsersEstimate": 431494
     },
     {
       "ID": "HONED",
@@ -112,7 +112,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25993
+      "UsersEstimate": 25994
     },
     {
       "ID": "THE_BANQUET",
@@ -120,7 +120,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 207946
+      "UsersEstimate": 207949
     },
     {
       "ID": "THE_CASTLE",
@@ -128,7 +128,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57185
+      "UsersEstimate": 57186
     },
     {
       "ID": "THE_CAVE",
@@ -168,7 +168,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 72781
+      "UsersEstimate": 72782
     },
     {
       "ID": "THE_IMPOSTER",
@@ -176,7 +176,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67582
+      "UsersEstimate": 67583
     },
     {
       "ID": "THE_IRON_ONES",
@@ -184,7 +184,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 93576
+      "UsersEstimate": 93577
     },
     {
       "ID": "THE_KEEP",
@@ -192,7 +192,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67582
+      "UsersEstimate": 67583
     },
     {
       "ID": "THE_LAKE",
@@ -200,7 +200,7 @@
       "Name": "The Lake",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25993
+      "UsersEstimate": 25994
     },
     {
       "ID": "THE_MIRE",
@@ -224,7 +224,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25993
+      "UsersEstimate": 25994
     },
     {
       "ID": "THE_RED_HALL",
@@ -248,7 +248,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41589
+      "UsersEstimate": 41590
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -264,7 +264,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 332714
+      "UsersEstimate": 332718
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -280,7 +280,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83178
+      "UsersEstimate": 83180
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -1525,6 +1525,11 @@
     {
       "Time": "2023-05-05T14:05:00.5784125+00:00",
       "NumProgressed": 519865,
+      "NumCompleted": 1397
+    },
+    {
+      "Time": "2023-05-05T15:05:10.0109788+00:00",
+      "NumProgressed": 519872,
       "NumCompleted": 1397
     }
   ],
@@ -3600,21 +3605,21 @@
   "TotalAchievements": 37,
   "LastUpdate_AppInfo": "2023-05-05T13:32:33.8714903+00:00",
   "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 870,
+  "EOS_NewPlayers": 872,
   "EOS_Completed": 1397,
-  "EOS_Progressed": 519865,
-  "LastUpdate_Achievements": "2023-05-05T14:05:00.5784482+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:58:45.0874934+00:00",
+  "EOS_Progressed": 519872,
+  "LastUpdate_Achievements": "2023-05-05T15:05:10.011014+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:51.019359+00:00",
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 519865,
+      "Progressed": 519872,
       "Completed": 1397
     }
   ],
   "EOS_Completed_Percentage": 0.27,
-  "LastChanged_Achievements": "2023-05-05T14:05:00.578412+00:00",
+  "LastChanged_Achievements": "2023-05-05T15:05:10.010978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "Rating": 4.61,
   "Ranking_Rating": 353,
