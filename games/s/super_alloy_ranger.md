@@ -7,9 +7,9 @@
 | Gear Up | 74.00% | ~14 |
 | Iceberg Theory | 74.00% | ~14 |
 | A Grand Show | 74.00% | ~14 |
+| Freshen Up | 53.00% | ~10 |
 | GG EZ | 53.00% | ~10 |
-| Freshen Up | 47.00% | ~9 |
-| Hydrophobia | 21.00% | ~4 |
+| Hydrophobia | 26.00% | ~5 |
 | Stop Right There | 21.00% | ~4 |
 | Get to the Point | 21.00% | ~4 |
 | The Hidden Secret | 11.00% | ~2 |

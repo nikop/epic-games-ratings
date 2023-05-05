@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.66,
   "NumberOfRatings": 111,
   "RatingHistory": [
@@ -586,9 +586,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1931,
+  "EOS_Progressed": 1932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-05-05T19:06:17.2703946+00:00",
       "NumProgressed": 1931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T20:06:15.2653915+00:00",
+      "NumProgressed": 1932,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -767,7 +772,7 @@
       "Name": "Backpacker",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_BING-BONG",
@@ -871,7 +876,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -911,7 +916,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -1087,7 +1092,7 @@
       "Name": "The hard way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -1143,22 +1148,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1931,
+      "Progressed": 1932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-04T16:59:05.2986234+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:06:17.2703942+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:06:15.2653909+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:00:21.6943671+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:06:17.2704315+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:00:20.3441901+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:06:15.2654262+00:00"
 }

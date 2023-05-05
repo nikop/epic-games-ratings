@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.61,
   "NumberOfRatings": 46,
   "RatingHistory": [
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -238,6 +238,11 @@
     {
       "Time": "2023-05-04T10:06:00.8829575+00:00",
       "NumProgressed": 536,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T20:07:06.5043698+00:00",
+      "NumProgressed": 537,
       "NumCompleted": 0
     }
   ],
@@ -322,7 +327,7 @@
       "Name": "Weeper",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -512,9 +517,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -522,7 +527,7 @@
       "Name": "Ravenous",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -585,21 +590,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 16
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:07:09.5702434+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:07:06.5043693+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:29.1938688+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:01:42.3963761+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:07:09.5702749+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:01:42.0778321+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:07:06.5044022+00:00"
 }

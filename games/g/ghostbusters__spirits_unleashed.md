@@ -11,8 +11,8 @@ Rating: 4.49 (Ranked 549)
 | Discovery | 63.00% | ~13,557 |
 | Swift Rift Removers | 56.00% | ~12,051 |
 | Fully Upgraded | 55.00% | ~11,835 |
+| I collect Spores, Molds, and Fungi | 53.00% | ~11,405 |
 | Cultured | 53.00% | ~11,405 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,190 |
 | Vaporous Expansion | 49.00% | ~10,544 |
 | Teamwork | 45.00% | ~9,684 |
 | There you are! | 44.00% | ~9,468 |

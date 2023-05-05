@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Path of purity | 79.00% | ~50 |
-| A good start | 56.00% | ~35 |
+| A good start | 57.00% | ~36 |
 | Runes collector | 52.00% | ~33 |
 | Witch's duty | 52.00% | ~33 |
 | First time, yes? | 51.00% | ~32 |
-| Kind heart | 46.00% | ~29 |
+| Kind heart | 48.00% | ~30 |
 | Skilled rider | 43.00% | ~27 |
-| Devil's dozen | 25.00% | ~16 |
+| Devil's dozen | 29.00% | ~18 |
 | It doesn't work like that | 19.00% | ~12 |
-| A small victory | 16.00% | ~10 |
+| A small victory | 17.00% | ~11 |
 | This is just the beginning... | 13.00% | ~8 |
+| Unstoppable Curiosity | 11.00% | ~7 |
 | Time is on my side | 10.00% | ~6 |
-| Unstoppable Curiosity | 10.00% | ~6 |
 | Gold Digger | 6.00% | ~4 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

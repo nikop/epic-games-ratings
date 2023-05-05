@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.67,
   "RatingHistory": [
     {
@@ -186,9 +186,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22615,
+  "EOS_Progressed": 22616,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -441,6 +441,11 @@
       "Time": "2023-05-05T15:04:43.4895203+00:00",
       "NumProgressed": 22615,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T20:06:18.0033157+00:00",
+      "NumProgressed": 22616,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -476,7 +481,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9724
+      "UsersEstimate": 9725
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -492,7 +497,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "ACH_GET_GUS",
@@ -516,7 +521,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17187
+      "UsersEstimate": 17188
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -556,7 +561,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18770
+      "UsersEstimate": 18771
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -604,7 +609,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -636,7 +641,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16509
+      "UsersEstimate": 16510
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -668,7 +673,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -700,14 +705,14 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22615,
+      "Progressed": 22616,
       "Completed": 8
     }
   ],
@@ -715,8 +720,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-04-28T05:57:41.6897144+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:06:19.9750878+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:06:18.0033151+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:59:13.395774+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:06:19.975112+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:59:11.8652107+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:06:18.0033378+00:00"
 }

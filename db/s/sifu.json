@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 59,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
@@ -3798,7 +3798,7 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 702613,
+  "EOS_Progressed": 702616,
   "EOS_Completed": 12709,
   "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 14,
@@ -4808,6 +4808,11 @@
       "Time": "2023-05-05T19:06:46.6835045+00:00",
       "NumProgressed": 702613,
       "NumCompleted": 12709
+    },
+    {
+      "Time": "2023-05-05T20:06:43.5795065+00:00",
+      "NumProgressed": 702616,
+      "NumCompleted": 12709
     }
   ],
   "TotalAchievements": 50,
@@ -5155,7 +5160,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -5218,21 +5223,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11914,
+      "Progressed": 11917,
       "Completed": 10031
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702613,
+      "Progressed": 702616,
       "Completed": 12709
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-05T16:01:01.917317+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:06:46.6835039+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:06:43.5795061+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:00:16.031827+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:06:46.683555+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:00:14.7895669+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:06:43.5795459+00:00"
 }

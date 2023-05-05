@@ -316,9 +316,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247829,
+  "EOS_Progressed": 247832,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1526,6 +1526,11 @@
       "Time": "2023-05-05T19:07:07.9323127+00:00",
       "NumProgressed": 247829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T20:07:04.8507853+00:00",
+      "NumProgressed": 247832,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -1585,7 +1590,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76827
+      "UsersEstimate": 76828
     },
     {
       "ID": "BackHomeNTimes",
@@ -1593,7 +1598,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12391
+      "UsersEstimate": 12392
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -1665,7 +1670,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12391
+      "UsersEstimate": 12392
     },
     {
       "ID": "CreedsInBank2",
@@ -1793,7 +1798,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12391
+      "UsersEstimate": 12392
     },
     {
       "ID": "KillOtherWithKatana",
@@ -1825,7 +1830,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52044
+      "UsersEstimate": 52045
     },
     {
       "ID": "KillOthers2",
@@ -1984,7 +1989,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247829,
+      "Progressed": 247832,
       "Completed": 1
     }
   ],
@@ -1992,8 +1997,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:07:07.9323121+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:07:04.8507847+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:01:30.0681454+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:07:07.9323685+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:01:28.9600704+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:07:04.8508298+00:00"
 }

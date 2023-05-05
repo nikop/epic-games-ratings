@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
       "Time": "2023-05-02T17:00:06.0264313+00:00",
@@ -187,9 +187,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "avaricerite",
@@ -267,9 +267,9 @@
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "graduation",
@@ -323,9 +323,9 @@
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "monster_of_fashion",
@@ -387,17 +387,17 @@
       "ID": "total_walrus",
       "SetID": "jig50d",
       "Name": "Total Walrus",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "true_victory",
       "SetID": "jig50d",
       "Name": "True Victory",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "truest_victory",
@@ -444,8 +444,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:07:00.0969295+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:06:57.2196028+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:01:15.4292584+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:07:00.0969497+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:01:14.2105831+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:06:57.2196211+00:00"
 }

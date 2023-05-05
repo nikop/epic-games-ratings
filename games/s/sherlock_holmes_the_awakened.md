@@ -21,7 +21,7 @@
 | Back In The Saddle | 51.00% | ~68 |
 | No Man Is An Island | 50.00% | ~67 |
 | Bookworm | 46.00% | ~62 |
-| At Wits' End | 44.00% | ~59 |
+| At Wits' End | 45.00% | ~60 |
 | Going Once... | 41.00% | ~55 |
 | Brain Food | 40.00% | ~54 |
 | Up In Flames | 39.00% | ~52 |

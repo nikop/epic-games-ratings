@@ -28,12 +28,12 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
+| 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 30 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.65% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.63% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -77,13 +77,13 @@
 | 75 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
-| 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
+| 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
 | 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
-| 83 | [Five Dates](games/f/five_dates.md) | 0.87% |
-| 84 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
+| 83 | [Five Dates](games/f/five_dates.md) | 0.86% |
+| 83 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 86 | [Adios](games/a/adios.md) | 0.80% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |

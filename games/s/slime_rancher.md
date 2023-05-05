@@ -1,7 +1,7 @@
 # Slime Rancher
 [Store](https://store.epicgames.com/en-US/p/slime-rancher)  
 [View Rawdata](../../db/s/slime_rancher.json)  
-Rating: 4.82 (Ranked 59)  
+Rating: 4.83 (Ranked 55)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 387  (Ranked 202)  
@@ -110,3 +110,4 @@ Diff (max vs sum): 54
 | 2023-05-02 | 4.83 | - | 386 | 3,017 |
 | 2023-05-03 | 4.83 | - | 387 | 3,020 |
 | 2023-05-04 | 4.82 | - | 387 | 3,020 |
+| 2023-05-05 | 4.83 | - | 387 | 3,020 |

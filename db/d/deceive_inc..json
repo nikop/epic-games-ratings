@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.64,
   "RatingHistory": [
     {
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5192,
+  "EOS_Progressed": 5193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1060,6 +1060,11 @@
       "Time": "2023-05-05T19:06:56.2008344+00:00",
       "NumProgressed": 5192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T20:06:53.2962123+00:00",
+      "NumProgressed": 5193,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1071,7 +1076,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "0002",
@@ -1135,7 +1140,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "0010",
@@ -1159,7 +1164,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "0013",
@@ -1247,7 +1252,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "0024",
@@ -1255,7 +1260,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "0025",
@@ -1269,9 +1274,9 @@
       "ID": "0026",
       "SetID": "2n2feee",
       "Name": "The Living Portrait",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1298
     },
     {
       "ID": "0027",
@@ -1287,7 +1292,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "0029",
@@ -1358,7 +1363,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5192,
+      "Progressed": 5193,
       "Completed": 0
     }
   ],
@@ -1366,8 +1371,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-01T22:58:56.3990087+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:06:56.2008333+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:06:53.2962118+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.5440231+00:00",
-  "LastUpdate_Ratings": "2023-05-05T19:00:57.1033327+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:06:56.200866+00:00"
+  "LastUpdate_Ratings": "2023-05-05T20:00:55.5403315+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:06:53.2962391+00:00"
 }

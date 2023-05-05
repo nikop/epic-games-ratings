@@ -326,9 +326,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "MQ08_1",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-05T19:06:23.9699171+00:00",
+  "LastChanged_Achievements": "2023-05-05T20:06:21.7270309+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:58:31.1089657+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:06:23.9699359+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:58:29.2736939+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:06:21.7270474+00:00"
 }

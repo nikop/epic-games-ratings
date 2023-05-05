@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,698 |
-| That's a Grand Army | 8.00% | ~2,399 |
-| That is mine! | 8.00% | ~2,399 |
-| Victorious! | 8.00% | ~2,399 |
-| Brothers in Arms | 6.00% | ~1,799 |
-| That's a Grand Navy | 6.00% | ~1,799 |
-| Seriously?! | 6.00% | ~1,799 |
-| For the Glory | 5.00% | ~1,499 |
-| Cold War | 4.00% | ~1,199 |
-| Defender of the Faith | 3.00% | ~899 |
-| It's all about the money | 3.00% | ~899 |
-| Respected | 3.00% | ~899 |
-| True Catholic | 3.00% | ~899 |
-| Blockader | 2.00% | ~600 |
-| Combined Arms | 2.00% | ~600 |
-| Double the Love | 2.00% | ~600 |
-| Gentle Persuasion | 2.00% | ~600 |
-| It's all about luck | 2.00% | ~600 |
-| Queen of Conquest | 2.00% | ~600 |
-| Royal Authority | 2.00% | ~600 |
-| The Princess is in this Castle | 2.00% | ~600 |
-| Total Control | 2.00% | ~600 |
-| Truly Divine Ruler | 2.00% | ~600 |
+| Until death do us apart | 9.00% | ~2,704 |
+| That's a Grand Army | 8.00% | ~2,403 |
+| That is mine! | 8.00% | ~2,403 |
+| Victorious! | 8.00% | ~2,403 |
+| Brothers in Arms | 6.00% | ~1,803 |
+| That's a Grand Navy | 6.00% | ~1,803 |
+| Seriously?! | 6.00% | ~1,803 |
+| For the Glory | 5.00% | ~1,502 |
+| Cold War | 4.00% | ~1,202 |
+| Defender of the Faith | 3.00% | ~901 |
+| It's all about the money | 3.00% | ~901 |
+| Respected | 3.00% | ~901 |
+| True Catholic | 3.00% | ~901 |
+| Blockader | 2.00% | ~601 |
+| Combined Arms | 2.00% | ~601 |
+| Double the Love | 2.00% | ~601 |
+| Gentle Persuasion | 2.00% | ~601 |
+| It's all about luck | 2.00% | ~601 |
+| Queen of Conquest | 2.00% | ~601 |
+| Royal Authority | 2.00% | ~601 |
+| The Princess is in this Castle | 2.00% | ~601 |
+| Total Control | 2.00% | ~601 |
+| Truly Divine Ruler | 2.00% | ~601 |
 | Agressive Expander | 1.00% | ~300 |
 | Azur semé de lis or | 1.00% | ~300 |
 | Bright Spark | 1.00% | ~300 |
@@ -65,7 +65,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Voting Streak | 0.30% | ~90 |
 | A Decent Reserve | 0.20% | ~60 |
 | A Pile of Gold | 0.20% | ~60 |
-| A Protected Market | 0.20% | ~60 |
 | All Your Trade Are Belong to Us | 0.20% | ~60 |
 | Bleed Them Dry | 0.20% | ~60 |
 | Four For Trade | 0.20% | ~60 |
@@ -88,6 +87,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Blessed Nation | 0.10% | ~30 |
 | A Hero’s Welcome | 0.10% | ~30 |
 | A Manchurian Candidate | 0.10% | ~30 |
+| A Protected Market | 0.10% | ~30 |
 | A Sun God | 0.10% | ~30 |
 | A tale of two Families | 0.10% | ~30 |
 | AAA Credit | 0.10% | ~30 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,982 (Ranked 82)  
+Progressed: 30,043 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,982 | 0 |
+| 2023-05-05 | 30,043 | 0 |
 ## Awards
 Max (Educational): 5,170  (Ranked 60)  
 Sum: 42,780 (Ranked 26)  

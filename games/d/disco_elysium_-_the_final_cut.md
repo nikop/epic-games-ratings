@@ -15,7 +15,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,519 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,339 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,339 |
-| Truly Rabid *Traditionalist* | 11.00% | ~12,979 |
+| Truly Rabid *Traditionalist* | 11.00% | ~12,980 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,620 |
 | Unbelievably Boring **** | 8.00% | ~9,440 |
 | Enemy Of The Physical Realm | 8.00% | ~9,440 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,995 (Ranked 55)  
+Progressed: 117,996 (Ranked 55)  
 Completed: 24 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-02 | 117,873 | 24 |
 | 2023-05-03 | 117,917 | 24 |
 | 2023-05-04 | 117,947 | 24 |
-| 2023-05-05 | 117,995 | 24 |
+| 2023-05-05 | 117,996 | 24 |
 ## Awards
 Max (Character Customization): 687  (Ranked 156)  
 Sum: 1,043 (Ranked 226)  

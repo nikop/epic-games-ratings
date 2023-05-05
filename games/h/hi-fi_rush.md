@@ -29,7 +29,7 @@ Rating: 4.85 (Ranked 37)
 | Perfecter Parry-er! | 42.00% | ~615 |
 | Who's the boss now? | 40.00% | ~586 |
 | I have to read these things? | 38.00% | ~556 |
-| I look cool. But I can look COOLER. | 36.00% | ~527 |
+| I look cool. But I can look COOLER. | 37.00% | ~542 |
 | That's a lot of junk metal… | 29.00% | ~425 |
 | There's such a thing as TOO helpful | 29.00% | ~425 |
 | Beat-hit mania | 26.00% | ~381 |

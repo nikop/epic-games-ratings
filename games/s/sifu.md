@@ -1,13 +1,13 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 59)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~477 |
-| Project Arena | 3.00% | ~357 |
+| Project Arena | 3.00% | ~358 |
 | Bloody Sport | 1.00% | ~119 |
 | The best strikes are the ones we avoid | 0.90% | ~107 |
 | The Hateful Pole Fighter | 0.70% | ~4,918 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,613 (Ranked 15)  
+Progressed: 702,616 (Ranked 15)  
 Completed: 12,709 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 12,709 (1.81%) (Ranked 57)
 | 2023-05-02 | 702,521 | 12,707 |
 | 2023-05-03 | 702,552 | 12,707 |
 | 2023-05-04 | 702,592 | 12,707 |
-| 2023-05-05 | 702,613 | 12,709 |
+| 2023-05-05 | 702,616 | 12,709 |
 ## Awards
 Max (Great Boss Battles): 6,029  (Ranked 53)  
 Sum: 10,213 (Ranked 77)  

@@ -12,7 +12,7 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 21.00% | ~236 |
 | Cutthroat Competitors | 21.00% | ~236 |
 | How Romantic! | 20.00% | ~225 |
-| Daybreak | 19.00% | ~214 |
+| Daybreak | 20.00% | ~225 |
 | Gotta Ca... Must Collect All of Them | 18.00% | ~202 |
 | Completing the Look | 10.00% | ~112 |
 | War Endured | 10.00% | ~112 |

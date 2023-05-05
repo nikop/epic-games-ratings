@@ -4,11 +4,11 @@
   "ProductSlug": "space-punks",
   "Ranking_Rating": 832,
   "Ranking_Popularity": 271,
-  "Ranking_PopularitySum": 230,
+  "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.16,
   "NumberOfRatings": 1927,
   "RatingHistory": [
@@ -1720,10 +1720,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 949,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2023-05-05T19:59:24.9020533+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 950,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 949,
+  "NumberOfAwards": 950,
   "NumberOfAwardsMax": 171,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1731,7 +1737,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 161
+      "Count": 162
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1781,8 +1787,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
-  "LastChanged": "2023-05-02T15:57:43.0369192+00:00",
+  "LastChanged": "2023-05-05T19:59:24.9020532+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:28.4608646+00:00",
-  "LastUpdate_Ratings": "2023-05-05T18:59:26.8522628+00:00",
-  "LastUpdate_Achievements": "2023-05-05T19:03:07.970935+00:00"
+  "LastUpdate_Ratings": "2023-05-05T19:59:24.9020536+00:00",
+  "LastUpdate_Achievements": "2023-05-05T20:02:37.9480726+00:00"
 }

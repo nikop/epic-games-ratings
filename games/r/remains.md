@@ -12,7 +12,7 @@
 | Repair master | 33.00% | ~3 |
 | It's safe here! | 22.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 307)  
+Progressed: 9 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

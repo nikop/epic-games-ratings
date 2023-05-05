@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~795 |
-| World Map | 79.00% | ~675 |
+| Victor | 93.00% | ~796 |
+| World Map | 80.00% | ~685 |
 | Temple of Eternals | 54.00% | ~462 |
-| Prestigious | 51.00% | ~436 |
+| Prestigious | 51.00% | ~437 |
 | Fellowship Power | 38.00% | ~325 |
 | Guild Power | 22.00% | ~188 |
 | Prestigious x10 | 18.00% | ~154 |
@@ -44,18 +44,18 @@
 | What lies behind the bush | 1.00% | ~9 |
 | Ancient Knowledge | 0.90% | ~8 |
 | How Do You Turn This On? | 0.90% | ~8 |
+| Missions Dedication | 0.90% | ~8 |
 | The father of Dragons | 0.90% | ~8 |
+| Trader | 0.90% | ~8 |
 | Master Enchanter | 0.80% | ~7 |
-| Missions Dedication | 0.80% | ~7 |
-| Trader | 0.80% | ~7 |
 | Dragon Slayer | 0.60% | ~5 |
+| Sailor | 0.60% | ~5 |
 | Blueprint Upgrades | 0.50% | ~4 |
 | Crystal Mining | 0.50% | ~4 |
 | Enchanting skill | 0.50% | ~4 |
 | Engineer Mastery | 0.50% | ~4 |
 | Legendary | 0.50% | ~4 |
 | Pokerface | 0.50% | ~4 |
-| Sailor | 0.50% | ~4 |
 | Tree of Life | 0.50% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~3 |
 | The Alchemist | 0.40% | ~3 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 855 (Ranked 165)  
+Progressed: 856 (Ranked 165)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-02 | 795 | 1 |
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
-| 2023-05-05 | 855 | 1 |
+| 2023-05-05 | 856 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
