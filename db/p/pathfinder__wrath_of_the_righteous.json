@@ -2226,9 +2226,9 @@
       "Count": 365
     }
   ],
-  "EOS_Progressed": 8638,
+  "EOS_Progressed": 8640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2816,6 +2816,11 @@
       "Time": "2023-05-05T17:09:31.1315657+00:00",
       "NumProgressed": 8638,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T18:07:44.8827047+00:00",
+      "NumProgressed": 8640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3177,9 +3182,9 @@
       "ID": "46_AllPathsOpen",
       "SetID": "989of5o",
       "Name": "All Paths Open",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 259
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -3195,7 +3200,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "49_Flame",
@@ -3754,21 +3759,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7420,
+      "Progressed": 7422,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8638,
+      "Progressed": 8640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-05T13:02:58.6170766+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:31.1315652+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:07:44.8827044+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:02:37.7989369+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:31.1317087+00:00"
+  "LastUpdate_Ratings": "2023-05-05T17:59:59.3869056+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:07:44.8828699+00:00"
 }

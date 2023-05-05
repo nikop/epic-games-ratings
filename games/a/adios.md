@@ -5,33 +5,33 @@ Rating: 3.50 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~11,353 |
-| Hard Worker | 19.00% | ~10,272 |
-| Master, Commander | 19.00% | ~10,272 |
-| Mechanic | 18.00% | ~9,731 |
-| Adios, Friendo | 17.00% | ~9,191 |
-| Bottom's Up | 17.00% | ~9,191 |
-| Nice Try | 16.00% | ~8,650 |
-| Right On Target | 13.00% | ~7,028 |
-| Piano Man | 10.00% | ~5,406 |
-| Lazy Bones | 9.00% | ~4,866 |
-| Vinyl Vibes | 7.00% | ~3,784 |
-| Nothing Left to Say | 6.00% | ~3,244 |
-| Sniper | 6.00% | ~3,244 |
-| Cut Call | 5.00% | ~2,703 |
-| Butcher | 4.00% | ~2,162 |
-| Magnetic Miracles | 4.00% | ~2,162 |
-| Spicy | 4.00% | ~2,162 |
+| Be Seeing You | 21.00% | ~11,356 |
+| Hard Worker | 19.00% | ~10,274 |
+| Master, Commander | 19.00% | ~10,274 |
+| Mechanic | 18.00% | ~9,734 |
+| Adios, Friendo | 17.00% | ~9,193 |
+| Bottom's Up | 17.00% | ~9,193 |
+| Nice Try | 16.00% | ~8,652 |
+| Right On Target | 13.00% | ~7,030 |
+| Piano Man | 10.00% | ~5,408 |
+| Lazy Bones | 9.00% | ~4,867 |
+| Vinyl Vibes | 7.00% | ~3,785 |
+| Nothing Left to Say | 6.00% | ~3,245 |
+| Sniper | 6.00% | ~3,245 |
+| Cut Call | 5.00% | ~2,704 |
+| Butcher | 4.00% | ~2,163 |
+| Magnetic Miracles | 4.00% | ~2,163 |
+| Spicy | 4.00% | ~2,163 |
 | A Man Of Taste | 3.00% | ~1,622 |
 | Fair's Fair | 3.00% | ~1,622 |
 | Hearty | 3.00% | ~1,622 |
 | Meaty | 3.00% | ~1,622 |
 | Taco Toto | 3.00% | ~1,622 |
-| Ace in the Hole | 2.00% | ~1,081 |
-| Audiophile | 2.00% | ~1,081 |
+| Ace in the Hole | 2.00% | ~1,082 |
+| Audiophile | 2.00% | ~1,082 |
 | Tape Head | 1.00% | ~541 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,062 (Ranked 71)  
+Progressed: 54,076 (Ranked 71)  
 Completed: 434 (0.80%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 434 (0.80%) (Ranked 86)
 | 2023-05-02 | 53,621 | 427 |
 | 2023-05-03 | 53,789 | 428 |
 | 2023-05-04 | 53,925 | 430 |
-| 2023-05-05 | 54,062 | 434 |
+| 2023-05-05 | 54,076 | 434 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
@@ -250,9 +250,9 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
@@ -370,9 +370,9 @@
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_ARCHETYPE",
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:43.0876565+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:08:01.1272973+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:03:45.3060015+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:43.0876884+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:01:46.0475948+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:08:01.1273393+00:00"
 }

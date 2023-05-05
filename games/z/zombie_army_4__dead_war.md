@@ -10,22 +10,22 @@ Diff (max vs sum): -25
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,698 |
-| Say goodbye, creep! | 65.00% | ~27,432 |
-| Blood splattered | 64.00% | ~27,010 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,699 |
+| Say goodbye, creep! | 65.00% | ~27,433 |
+| Blood splattered | 64.00% | ~27,011 |
 | Choo choo! | 61.00% | ~25,744 |
 | Groovy | 60.00% | ~25,322 |
 | Cleanup on aisle 4! | 56.00% | ~23,634 |
 | Gold | 50.00% | ~21,102 |
-| The boat can leave now...tell the crew | 48.00% | ~20,257 |
-| Give me something to shoot! | 46.00% | ~19,413 |
-| Stand back boy! | 46.00% | ~19,413 |
-| Weird science | 44.00% | ~18,569 |
-| Chain reaction | 44.00% | ~18,569 |
-| Look mummy! A shark! | 41.00% | ~17,303 |
-| What did you say, Blain? | 41.00% | ~17,303 |
-| In the dark dark woods... | 38.00% | ~16,037 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,037 |
+| The boat can leave now...tell the crew | 48.00% | ~20,258 |
+| Give me something to shoot! | 46.00% | ~19,414 |
+| Stand back boy! | 46.00% | ~19,414 |
+| Weird science | 44.00% | ~18,570 |
+| Chain reaction | 44.00% | ~18,570 |
+| Look mummy! A shark! | 41.00% | ~17,304 |
+| What did you say, Blain? | 41.00% | ~17,304 |
+| In the dark dark woods... | 38.00% | ~16,038 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,038 |
 | Double tap | 36.00% | ~15,193 |
 | Cranial blowout! | 36.00% | ~15,193 |
 | Zombie killin' machine | 36.00% | ~15,193 |
@@ -45,9 +45,9 @@ Diff (max vs sum): -25
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,597 |
 | Take them down screaming | 18.00% | ~7,597 |
 | Weapons expert | 17.00% | ~7,175 |
-| Bad Blood | 16.00% | ~6,752 |
-| The bigger they are... | 15.00% | ~6,330 |
-| I'm going deeper underground | 14.00% | ~5,908 |
+| Bad Blood | 16.00% | ~6,753 |
+| The bigger they are... | 15.00% | ~6,331 |
+| I'm going deeper underground | 14.00% | ~5,909 |
 | Well equipped | 12.00% | ~5,064 |
 | Into the deep | 12.00% | ~5,064 |
 | Damnedbusters | 9.00% | ~3,798 |
@@ -77,7 +77,7 @@ Diff (max vs sum): -25
 | Just me and my trusty sidearm | 1.00% | ~422 |
 | None more hard | 0.50% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,203 (Ranked 76)  
+Progressed: 42,204 (Ranked 76)  
 Completed: 24 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 24 (0.06%) (Ranked 161)
 | 2023-05-02 | 42,182 | 24 |
 | 2023-05-03 | 42,196 | 24 |
 | 2023-05-04 | 42,203 | 24 |
+| 2023-05-05 | 42,204 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

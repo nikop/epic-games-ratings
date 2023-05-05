@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 600)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~6,509 |
-| Mama? | 28.00% | ~2,398 |
-| People's Haven | 19.00% | ~1,627 |
+| Light at the end of the tunnel | 76.00% | ~6,512 |
+| Mama? | 28.00% | ~2,399 |
+| People's Haven | 19.00% | ~1,628 |
 | Cartographer | 18.00% | ~1,542 |
-| Antlers of Stone | 16.00% | ~1,370 |
+| Antlers of Stone | 16.00% | ~1,371 |
 | Knowledge for Power | 15.00% | ~1,285 |
-| Gaze into the abyss | 14.00% | ~1,199 |
-| Mausoleum of Ice | 14.00% | ~1,199 |
-| Equilibrium | 13.00% | ~1,113 |
+| Gaze into the abyss | 14.00% | ~1,200 |
+| Mausoleum of Ice | 14.00% | ~1,200 |
+| Equilibrium | 13.00% | ~1,114 |
 | In the belly of the beast | 12.00% | ~1,028 |
 | Wings of Stone | 12.00% | ~1,028 |
 | Condor condo | 11.00% | ~942 |
 | Memorial | 9.00% | ~771 |
 | An uninvited guest | 8.00% | ~685 |
-| Tails of Stone | 7.00% | ~599 |
-| Baa from the past | 7.00% | ~599 |
-| Written in stone | 7.00% | ~599 |
-| Talk to all the spirit animals | 7.00% | ~599 |
+| Tails of Stone | 7.00% | ~600 |
+| Baa from the past | 7.00% | ~600 |
+| Written in stone | 7.00% | ~600 |
+| Talk to all the spirit animals | 7.00% | ~600 |
 | Ripples on the surface | 6.00% | ~514 |
 | Hide and Seek | 5.00% | ~428 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,564 (Ranked 108)  
+Progressed: 8,568 (Ranked 108)  
 Completed: 196 (2.29%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,7 +42,7 @@ Completed: 196 (2.29%) (Ranked 54)
 | 2023-05-02 | 8,351 | 191 |
 | 2023-05-03 | 8,431 | 194 |
 | 2023-05-04 | 8,489 | 195 |
-| 2023-05-05 | 8,564 | 196 |
+| 2023-05-05 | 8,568 | 196 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

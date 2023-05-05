@@ -3798,7 +3798,7 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 702609,
+  "EOS_Progressed": 702612,
   "EOS_Completed": 12707,
   "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 12,
@@ -4798,6 +4798,11 @@
       "Time": "2023-05-05T17:09:35.3866682+00:00",
       "NumProgressed": 702609,
       "NumCompleted": 12707
+    },
+    {
+      "Time": "2023-05-05T18:07:50.5361684+00:00",
+      "NumProgressed": 702612,
+      "NumCompleted": 12707
     }
   ],
   "TotalAchievements": 50,
@@ -5063,9 +5068,9 @@
       "ID": "33_BladeOneShot",
       "SetID": "adcm20g",
       "Name": "Sword Stained With Blood",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1405
+      "UsersEstimate": 2108
     },
     {
       "ID": "34_TimedTakedown",
@@ -5153,7 +5158,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -5208,21 +5213,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11910,
+      "Progressed": 11913,
       "Completed": 10031
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702609,
+      "Progressed": 702612,
       "Completed": 12707
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-05T16:01:01.917317+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:35.3866677+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:07:50.5361677+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:03:10.167248+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:35.3867155+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:00:50.4920734+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:07:50.5362278+00:00"
 }

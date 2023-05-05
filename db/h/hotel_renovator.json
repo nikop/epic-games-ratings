@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 77,
   "Rating": 4.5,
   "RatingHistory": [
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -207,6 +207,11 @@
       "Time": "2023-05-05T10:05:02.4652761+00:00",
       "NumProgressed": 718,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-05T18:07:58.5517627+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -232,9 +237,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -242,7 +247,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -306,7 +311,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -314,7 +319,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -322,7 +327,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -378,7 +383,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_STAR_3",
@@ -433,7 +438,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 11
     }
   ],
@@ -441,8 +446,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:41.3297448+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:07:58.551762+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:01:38.8980082+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:41.3297644+00:00"
+  "LastUpdate_Ratings": "2023-05-05T17:58:33.0687825+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:07:58.5517834+00:00"
 }

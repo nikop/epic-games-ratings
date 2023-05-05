@@ -732,9 +732,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158191,
+  "EOS_Progressed": 158192,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 812,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1737,6 +1737,11 @@
       "Time": "2023-05-05T15:05:18.2374052+00:00",
       "NumProgressed": 158191,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-05T18:08:04.8015473+00:00",
+      "NumProgressed": 158192,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -1780,7 +1785,7 @@
       "Name": "Bootstrapping",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 118643
+      "UsersEstimate": 118644
     },
     {
       "ID": "CASH_going_places",
@@ -1972,7 +1977,7 @@
       "Name": "Elite Technician",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9491
+      "UsersEstimate": 9492
     },
     {
       "ID": "LEVEL_legendary_technician",
@@ -2004,7 +2009,7 @@
       "Name": "MOAR RGB",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 85423
+      "UsersEstimate": 85424
     },
     {
       "ID": "LIGHTING_shine_on",
@@ -2020,7 +2025,7 @@
       "Name": "Stabiliser",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 28474
+      "UsersEstimate": 28475
     },
     {
       "ID": "OVER_glutton",
@@ -2044,7 +2049,7 @@
       "Name": "This One Goes to 11",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 28474
+      "UsersEstimate": 28475
     },
     {
       "ID": "SCORE_bench_press",
@@ -2052,7 +2057,7 @@
       "Name": "On the Bench",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66440
+      "UsersEstimate": 66441
     },
     {
       "ID": "SCORE_bench_warmer",
@@ -2100,7 +2105,7 @@
       "Name": "The More the Merrier",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66440
+      "UsersEstimate": 66441
     },
     {
       "ID": "SHOP_basket_case",
@@ -2116,7 +2121,7 @@
       "Name": "Sales Pitch",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102824
+      "UsersEstimate": 102825
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -2148,7 +2153,7 @@
       "Name": "Local Hero",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44293
+      "UsersEstimate": 44294
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -2164,7 +2169,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107570
+      "UsersEstimate": 107571
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2196,7 +2201,7 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107570
+      "UsersEstimate": 107571
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -2204,7 +2209,7 @@
       "Name": "Chill Out",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102824
+      "UsersEstimate": 102825
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2219,7 +2224,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158191,
+      "Progressed": 158192,
       "Completed": 102
     }
   ],
@@ -2227,8 +2232,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-05T01:52:38.4142216+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:45.7399888+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:08:04.8015465+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:03:49.6685007+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:45.740048+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:01:52.2767028+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:08:04.8016077+00:00"
 }

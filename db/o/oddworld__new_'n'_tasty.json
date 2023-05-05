@@ -2,7 +2,7 @@
   "ID": "56eab841eaab4016b9fedd2350f997b6",
   "Name": "Oddworld: New \u0027n\u0027 Tasty",
   "ProductSlug": "oddworld-new-n-tasty",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 380,
@@ -363,6 +363,6 @@
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
   "LastChanged": "2023-03-19T19:58:05.6101345+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:21.4123972+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:03:20.5572566+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:08:08.6672458+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:01:07.2709217+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:05:45.7348763+00:00"
 }

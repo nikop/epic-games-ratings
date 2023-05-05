@@ -10,7 +10,7 @@ Diff (max vs sum): -24
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~476 |
+| Diligence as a goal | 4.00% | ~477 |
 | Project Arena | 3.00% | ~357 |
 | Bloody Sport | 1.00% | ~119 |
 | The best strikes are the ones we avoid | 0.90% | ~107 |
@@ -46,13 +46,13 @@ Diff (max vs sum): -24
 | Detective Story | 0.30% | ~2,108 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,108 |
 | I know Kung-Fu | 0.30% | ~2,108 |
+| Sword Stained With Blood | 0.30% | ~2,108 |
 | Martial Hub | 0.30% | ~36 |
 | Secure, Protect, Leave | 0.30% | ~36 |
 | Prodigal Child | 0.20% | ~1,405 |
 | Drunken Fighter | 0.20% | ~1,405 |
 | Martial Artist | 0.20% | ~1,405 |
 | Knowledge Greed | 0.20% | ~1,405 |
-| Sword Stained With Blood | 0.20% | ~1,405 |
 | The Pit Protector | 0.20% | ~1,405 |
 | Healing Memory | 0.10% | ~703 |
 | Master of the Phoenix Eye Fist | 0.10% | ~703 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -24
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,609 (Ranked 15)  
+Progressed: 702,612 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-02 | 702,521 | 12,707 |
 | 2023-05-03 | 702,552 | 12,707 |
 | 2023-05-04 | 702,592 | 12,707 |
-| 2023-05-05 | 702,609 | 12,707 |
+| 2023-05-05 | 702,612 | 12,707 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

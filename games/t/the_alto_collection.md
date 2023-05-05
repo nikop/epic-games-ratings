@@ -10,28 +10,28 @@ Diff (max vs sum): 93
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,341 |
-| Rookie | 24.00% | ~4,747 |
-| Nomad | 19.00% | ~3,758 |
-| Picking Up Speed | 18.00% | ~3,560 |
-| Welcome Maya | 17.00% | ~3,363 |
-| Sightseer | 12.00% | ~2,374 |
-| Scout | 10.00% | ~1,978 |
-| Enter Paz | 9.00% | ~1,780 |
-| Wanderer | 9.00% | ~1,780 |
-| Amateur | 8.00% | ~1,582 |
+| Finding Your Footing | 27.00% | ~5,343 |
+| Rookie | 24.00% | ~4,749 |
+| Nomad | 19.00% | ~3,760 |
+| Picking Up Speed | 18.00% | ~3,562 |
+| Welcome Maya | 17.00% | ~3,364 |
+| Sightseer | 12.00% | ~2,375 |
+| Scout | 10.00% | ~1,979 |
+| Enter Paz | 9.00% | ~1,781 |
+| Wanderer | 9.00% | ~1,781 |
+| Amateur | 8.00% | ~1,583 |
 | Unlock Maya | 7.00% | ~1,385 |
 | Aviator | 6.00% | ~1,187 |
 | One With The Board | 6.00% | ~1,187 |
 | Voyager | 6.00% | ~1,187 |
 | My Little Friend | 5.00% | ~989 |
-| Sandboarder | 4.00% | ~791 |
-| Izel Has Arrived | 4.00% | ~791 |
-| Junkie | 3.00% | ~593 |
-| Traveler | 3.00% | ~593 |
-| Journeyer | 3.00% | ~593 |
-| Unlock Paz | 3.00% | ~593 |
-| Here Comes Felipe | 3.00% | ~593 |
+| Sandboarder | 4.00% | ~792 |
+| Izel Has Arrived | 4.00% | ~792 |
+| Junkie | 3.00% | ~594 |
+| Traveler | 3.00% | ~594 |
+| Journeyer | 3.00% | ~594 |
+| Unlock Paz | 3.00% | ~594 |
+| Here Comes Felipe | 3.00% | ~594 |
 | Pro | 2.00% | ~396 |
 | Human Flight | 2.00% | ~396 |
 | Explorer | 1.00% | ~198 |
@@ -50,7 +50,7 @@ Diff (max vs sum): 93
 | The Ultimate Challenge | 0.10% | ~20 |
 | Windswept | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,780 (Ranked 90)  
+Progressed: 19,789 (Ranked 90)  
 Completed: 3 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 3 (0.02%) (Ranked 175)
 | 2023-05-02 | 19,423 | 3 |
 | 2023-05-03 | 19,544 | 3 |
 | 2023-05-04 | 19,662 | 3 |
-| 2023-05-05 | 19,780 | 3 |
+| 2023-05-05 | 19,789 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

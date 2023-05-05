@@ -10,28 +10,28 @@ Diff (max vs sum): 55
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,130 |
-| Incurious | 13.00% | ~76,130 |
-| Climate Change | 12.00% | ~70,274 |
-| Stroller | 11.00% | ~64,418 |
-| Toy Train | 10.00% | ~58,562 |
-| Hiker | 9.00% | ~52,706 |
-| Advanced Hiker | 9.00% | ~52,706 |
-| Mojave Courier | 4.00% | ~23,425 |
-| Voyager | 2.00% | ~11,712 |
-| Advanced Voyager | 2.00% | ~11,712 |
-| Expert Stroller | 2.00% | ~11,712 |
-| Expert Hiker | 2.00% | ~11,712 |
-| Orient Express | 2.00% | ~11,712 |
-| Marathon | 2.00% | ~11,712 |
-| Destructionist | 2.00% | ~11,712 |
-| Saved by Nausicaä | 2.00% | ~11,712 |
+| Advanced Stroller | 13.00% | ~76,134 |
+| Incurious | 13.00% | ~76,134 |
+| Climate Change | 12.00% | ~70,277 |
+| Stroller | 11.00% | ~64,421 |
+| Toy Train | 10.00% | ~58,564 |
+| Hiker | 9.00% | ~52,708 |
+| Advanced Hiker | 9.00% | ~52,708 |
+| Mojave Courier | 4.00% | ~23,426 |
+| Voyager | 2.00% | ~11,713 |
+| Advanced Voyager | 2.00% | ~11,713 |
+| Expert Stroller | 2.00% | ~11,713 |
+| Expert Hiker | 2.00% | ~11,713 |
+| Orient Express | 2.00% | ~11,713 |
+| Marathon | 2.00% | ~11,713 |
+| Destructionist | 2.00% | ~11,713 |
+| Saved by Nausicaä | 2.00% | ~11,713 |
 | Lost | 1.00% | ~5,856 |
 | Rocketman | 0.50% | ~2,928 |
 | Shopaholic | 0.50% | ~2,928 |
-| Expert Voyager | 0.40% | ~2,342 |
-| Nanuk | 0.40% | ~2,342 |
-| Terminal Station | 0.40% | ~2,342 |
+| Expert Voyager | 0.40% | ~2,343 |
+| Nanuk | 0.40% | ~2,343 |
+| Terminal Station | 0.40% | ~2,343 |
 | Wayfarer | 0.30% | ~1,757 |
 | Advanced Wayfarer | 0.30% | ~1,757 |
 | Scrooge | 0.30% | ~1,757 |
@@ -63,7 +63,7 @@ Diff (max vs sum): 55
 | Fireworks! | 0.10% | ~586 |
 | 20 Miles under the Sea | 0.10% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585,618 (Ranked 21)  
+Progressed: 585,643 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-02 | 584,620 | 6 |
 | 2023-05-03 | 585,010 | 6 |
 | 2023-05-04 | 585,354 | 6 |
-| 2023-05-05 | 585,618 | 6 |
+| 2023-05-05 | 585,643 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -12,8 +12,8 @@
 | Next Level Cuisine | 30.00% | ~12 |
 | S is for Scrumptious | 28.00% | ~11 |
 | Haute Cuisine | 25.00% | ~10 |
+| Italian Style | 18.00% | ~7 |
 | Well-Stocked Kitchen | 18.00% | ~7 |
-| Italian Style | 15.00% | ~6 |
 | Rolling in Dough | 10.00% | ~4 |
 | Culinary Arts | 8.00% | ~3 |
 | Perfectionist | 8.00% | ~3 |

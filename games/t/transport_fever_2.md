@@ -40,7 +40,7 @@ Diff (max vs sum): 79
 | Not in my backyard | 30.00% | ~309 |
 | City | 29.00% | ~298 |
 | The king of the sea | 28.00% | ~288 |
-| Transport tycoon | 24.00% | ~247 |
+| Transport tycoon | 25.00% | ~257 |
 | Climate change | 22.00% | ~226 |
 | Old timer | 22.00% | ~226 |
 | The ugly smell of success | 22.00% | ~226 |

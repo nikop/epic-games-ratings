@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -978,6 +978,11 @@
       "Time": "2023-05-05T17:09:24.7893236+00:00",
       "NumProgressed": 850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T18:07:36.4510612+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -989,7 +994,7 @@
       "Name": "Active Member",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ancientknowledge",
@@ -1085,7 +1090,7 @@
       "Name": "Doing My Part",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "dragonclicker",
@@ -1165,7 +1170,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "fellowshippower",
@@ -1181,7 +1186,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "frostfireliberator",
@@ -1197,7 +1202,7 @@
       "Name": "Full Party",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "gearenchanting",
@@ -1229,7 +1234,7 @@
       "Name": "Here We Go Again",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "heroinspection",
@@ -1261,7 +1266,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "jewelenchanting",
@@ -1349,7 +1354,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "mythicpower",
@@ -1365,7 +1370,7 @@
       "Name": "Natural Talent",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "pokerface",
@@ -1397,7 +1402,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "sailor",
@@ -1421,7 +1426,7 @@
       "Name": "Scroll Master",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "silverwoodliberator",
@@ -1445,7 +1450,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "thealchemist",
@@ -1461,7 +1466,7 @@
       "Name": "The Expeditioner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "thefatherofdragons",
@@ -1485,7 +1490,7 @@
       "Name": "The power of Awakening",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theunstoppable",
@@ -1493,7 +1498,7 @@
       "Name": "The Unstoppable",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "titanpower",
@@ -1549,7 +1554,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "warmachinesarmy",
@@ -1573,7 +1578,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "worldmap",
@@ -1588,7 +1593,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 1
     }
   ],
@@ -1596,8 +1601,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:24.7893231+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:07:36.4510608+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:02:21.4691994+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:24.7894014+00:00"
+  "LastUpdate_Ratings": "2023-05-05T17:59:35.2034752+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:07:36.4511415+00:00"
 }

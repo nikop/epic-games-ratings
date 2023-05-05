@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Rating": 4.77,
   "RatingHistory": [
     {
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5491,
+  "EOS_Progressed": 5493,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -792,6 +792,11 @@
       "Time": "2023-05-05T17:09:16.621676+00:00",
       "NumProgressed": 5491,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T18:07:25.5434634+00:00",
+      "NumProgressed": 5493,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 21,
@@ -819,7 +824,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -843,7 +848,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ENERGY_SAVER",
@@ -907,7 +912,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "LIBERATOR",
@@ -947,7 +952,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -970,7 +975,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5491,
+      "Progressed": 5493,
       "Completed": 19
     }
   ],
@@ -978,8 +983,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:16.6216755+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:07:25.5434626+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:02:19.0626167+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:16.6217035+00:00"
+  "LastUpdate_Ratings": "2023-05-05T17:59:32.0300015+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:07:25.5434826+00:00"
 }

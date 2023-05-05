@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 85.00% | ~1,047 |
-| Home Is Where the Heart Is | 65.00% | ~801 |
-| Ne Plus Ultra | 65.00% | ~801 |
-| Wounded Whispers | 64.00% | ~788 |
-| Blood Will Have Blood | 49.00% | ~604 |
-| ICU | 46.00% | ~567 |
-| Catch and Release | 44.00% | ~542 |
-| Peek-a-boo | 42.00% | ~517 |
-| Sucks To Be You | 42.00% | ~517 |
-| Welcome to the Neighborhood | 36.00% | ~444 |
-| Fly Fisher | 33.00% | ~407 |
-| Throw The First Stone | 32.00% | ~394 |
-| Enter of Your Own Free Will | 28.00% | ~345 |
-| Heart Attack | 28.00% | ~345 |
-| Skin of Their Teeth | 28.00% | ~345 |
-| Bad Wiring | 20.00% | ~246 |
-| Grounded | 19.00% | ~234 |
+| I Like My Stakes Rare! | 85.00% | ~1,051 |
+| Home Is Where the Heart Is | 65.00% | ~803 |
+| Ne Plus Ultra | 65.00% | ~803 |
+| Wounded Whispers | 64.00% | ~791 |
+| Blood Will Have Blood | 49.00% | ~606 |
+| ICU | 46.00% | ~569 |
+| Catch and Release | 44.00% | ~544 |
+| Peek-a-boo | 42.00% | ~519 |
+| Sucks To Be You | 42.00% | ~519 |
+| Welcome to the Neighborhood | 36.00% | ~445 |
+| Fly Fisher | 33.00% | ~408 |
+| Throw The First Stone | 32.00% | ~396 |
+| Enter of Your Own Free Will | 29.00% | ~358 |
+| Heart Attack | 28.00% | ~346 |
+| Skin of Their Teeth | 28.00% | ~346 |
+| Bad Wiring | 20.00% | ~247 |
+| Grounded | 19.00% | ~235 |
 | I Spit On Your Grave | 18.00% | ~222 |
 | Neighborhood Revitalization | 11.00% | ~136 |
 | Radio Silence | 11.00% | ~136 |
@@ -30,6 +30,7 @@
 | Block Party | 6.00% | ~74 |
 | From the Shadows | 3.00% | ~37 |
 | Revelations | 2.00% | ~25 |
+| Blood Brother | 2.00% | ~25 |
 | Bell-ringer | 2.00% | ~25 |
 | Empty Nest Syndrome | 2.00% | ~25 |
 | Right This Way | 2.00% | ~25 |
@@ -39,7 +40,6 @@
 | Friends 'Til The End | 2.00% | ~25 |
 | Contingency Plans | 1.00% | ~12 |
 | Scream Team | 1.00% | ~12 |
-| Blood Brother | 1.00% | ~12 |
 | Friendgineering | 1.00% | ~12 |
 | Sic Transit Umbra | 1.00% | ~12 |
 | Silence Is Golden | 1.00% | ~12 |
@@ -52,7 +52,7 @@
 | Bloody Initiate | 0.90% | ~11 |
 | Harvest’s End | 0.70% | ~9 |
 | Neighborhood Watch | 0.50% | ~6 |
-| What Lies Below | 0.40% | ~5 |
+| What Lies Below | 0.50% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~4 |
 | Under a Bushel | 0.30% | ~4 |
 | Sisterhood | 0.20% | ~2 |
@@ -71,7 +71,7 @@
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 152)  
+Progressed: 1,236 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 735 | 0 |
 | 2023-05-03 | 1,021 | 0 |
 | 2023-05-04 | 1,164 | 0 |
-| 2023-05-05 | 1,232 | 0 |
+| 2023-05-05 | 1,236 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

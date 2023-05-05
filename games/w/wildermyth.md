@@ -12,7 +12,7 @@ Diff (max vs sum): -8
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 28.00% | ~315 |
 | Me and My Familiar | 26.00% | ~292 |
-| This Too Shall Pass | 22.00% | ~247 |
+| This Too Shall Pass | 22.00% | ~248 |
 | Passing Shadow | 21.00% | ~236 |
 | Cutthroat Competitors | 21.00% | ~236 |
 | How Romantic! | 20.00% | ~225 |
@@ -24,9 +24,9 @@ Diff (max vs sum): -8
 | Who's Counting? | 9.00% | ~101 |
 | Core Failure | 9.00% | ~101 |
 | Pyrrhic Victory | 7.00% | ~79 |
-| Thematic Divergence | 6.00% | ~67 |
-| Chain Reaction | 6.00% | ~67 |
-| Echoes Die | 6.00% | ~67 |
+| Thematic Divergence | 6.00% | ~68 |
+| Chain Reaction | 6.00% | ~68 |
+| Echoes Die | 6.00% | ~68 |
 | Everfading | 5.00% | ~56 |
 | Another Tale to Tell | 5.00% | ~56 |
 | A Story of Heroes | 5.00% | ~56 |
@@ -67,7 +67,7 @@ Diff (max vs sum): -8
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,124 (Ranked 154)  
+Progressed: 1,125 (Ranked 155)  
 Completed: 3 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 3 (0.27%) (Ranked 123)
 | 2023-04-30 | 1,119 | 3 |
 | 2023-05-02 | 1,120 | 3 |
 | 2023-05-04 | 1,121 | 3 |
-| 2023-05-05 | 1,124 | 3 |
+| 2023-05-05 | 1,125 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

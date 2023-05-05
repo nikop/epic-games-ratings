@@ -63,9 +63,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "deathlooper",
@@ -79,9 +79,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "leader_you_are_not",
@@ -192,8 +192,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-05T17:09:47.1939194+00:00",
+  "LastChanged_Achievements": "2023-05-05T18:08:06.536859+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.2558016+00:00",
-  "LastUpdate_Ratings": "2023-05-05T17:03:58.7539292+00:00",
-  "LastUpdate_Achievements": "2023-05-05T17:09:47.1939326+00:00"
+  "LastUpdate_Ratings": "2023-05-05T18:02:06.0054829+00:00",
+  "LastUpdate_Achievements": "2023-05-05T18:08:06.5368724+00:00"
 }

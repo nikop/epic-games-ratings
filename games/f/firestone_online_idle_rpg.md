@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~790 |
+| Victor | 93.00% | ~791 |
 | World Map | 79.00% | ~672 |
-| Temple of Eternals | 54.00% | ~459 |
+| Temple of Eternals | 54.00% | ~460 |
 | Prestigious | 51.00% | ~434 |
 | Fellowship Power | 39.00% | ~332 |
 | Guild Power | 22.00% | ~187 |
 | Prestigious x10 | 18.00% | ~153 |
 | The game is on | 14.00% | ~119 |
-| Exotic Merchant | 13.00% | ~110 |
-| Inspection | 13.00% | ~110 |
+| Exotic Merchant | 13.00% | ~111 |
+| Inspection | 13.00% | ~111 |
 | Dragon Clicker | 12.00% | ~102 |
 | Miner Clicker | 12.00% | ~102 |
 | Hero inspection | 11.00% | ~94 |
-| Full Party | 9.00% | ~76 |
+| Full Party | 9.00% | ~77 |
 | Dragon Master | 6.00% | ~51 |
 | Enlightenment | 6.00% | ~51 |
 | Lieutenant | 6.00% | ~51 |
-| Natural Talent | 5.00% | ~42 |
-| The Unstoppable | 5.00% | ~42 |
+| Natural Talent | 5.00% | ~43 |
+| The Unstoppable | 5.00% | ~43 |
 | Milestone collector | 4.00% | ~34 |
 | Superior | 4.00% | ~34 |
 | Daily Quest Completionist | 3.00% | ~26 |
@@ -32,16 +32,16 @@
 | Hunter | 2.00% | ~17 |
 | Mastery | 2.00% | ~17 |
 | Moving Up The Ladder | 2.00% | ~17 |
-| Active Member | 1.00% | ~8 |
-| Doing My Part | 1.00% | ~8 |
-| Four Leaf Clover | 1.00% | ~8 |
-| Here We Go Again | 1.00% | ~8 |
-| Mysterious Rock | 1.00% | ~8 |
-| Relic Of The Past | 1.00% | ~8 |
-| Scroll Master | 1.00% | ~8 |
-| The Expeditioner | 1.00% | ~8 |
-| The power of Awakening | 1.00% | ~8 |
-| What lies behind the bush | 1.00% | ~8 |
+| Active Member | 1.00% | ~9 |
+| Doing My Part | 1.00% | ~9 |
+| Four Leaf Clover | 1.00% | ~9 |
+| Here We Go Again | 1.00% | ~9 |
+| Mysterious Rock | 1.00% | ~9 |
+| Relic Of The Past | 1.00% | ~9 |
+| Scroll Master | 1.00% | ~9 |
+| The Expeditioner | 1.00% | ~9 |
+| The power of Awakening | 1.00% | ~9 |
+| What lies behind the bush | 1.00% | ~9 |
 | Ancient Knowledge | 0.90% | ~8 |
 | How Do You Turn This On? | 0.90% | ~8 |
 | The father of Dragons | 0.90% | ~8 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 165)  
+Progressed: 851 (Ranked 165)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-02 | 795 | 1 |
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
-| 2023-05-05 | 850 | 1 |
+| 2023-05-05 | 851 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

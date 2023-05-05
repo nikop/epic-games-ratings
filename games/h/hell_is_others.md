@@ -5,20 +5,20 @@ Rating: 4.47 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~76,822 |
-| Predator I | 21.00% | ~52,041 |
-| A week in Century City | 10.00% | ~24,781 |
-| Fixer I | 9.00% | ~22,303 |
+| Survivor | 31.00% | ~76,825 |
+| Predator I | 21.00% | ~52,042 |
+| A week in Century City | 10.00% | ~24,782 |
+| Fixer I | 9.00% | ~22,304 |
 | The Wait | 7.00% | ~17,347 |
 | Green thumb I | 6.00% | ~14,869 |
 | Well-oiled machine | 5.00% | ~12,391 |
 | Saver I | 5.00% | ~12,391 |
 | Cleaning Company | 5.00% | ~12,391 |
-| The Ascent | 4.00% | ~9,912 |
-| Pacifist | 4.00% | ~9,912 |
-| Vandalism | 4.00% | ~9,912 |
-| Capitalist I | 4.00% | ~9,912 |
-| Adrenaline | 3.00% | ~7,434 |
+| The Ascent | 4.00% | ~9,913 |
+| Pacifist | 4.00% | ~9,913 |
+| Vandalism | 4.00% | ~9,913 |
+| Capitalist I | 4.00% | ~9,913 |
+| Adrenaline | 3.00% | ~7,435 |
 | By a hair | 2.00% | ~4,956 |
 | Fixer II | 2.00% | ~4,956 |
 | It took a while | 2.00% | ~4,956 |
@@ -35,7 +35,7 @@ Rating: 4.47 (Ranked 574)
 | Don't try this at home | 1.00% | ~2,478 |
 | Bricklayer | 1.00% | ~2,478 |
 | Run the Economy | 1.00% | ~2,478 |
-| Committed Relationship | 0.80% | ~1,982 |
+| Committed Relationship | 0.80% | ~1,983 |
 | Number 1 | 0.70% | ~1,735 |
 | Interior designer | 0.60% | ~1,487 |
 | The Gamble | 0.50% | ~1,239 |
@@ -62,7 +62,7 @@ Rating: 4.47 (Ranked 574)
 | Capitalist III | 0.10% | ~248 |
 | Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,812 (Ranked 39)  
+Progressed: 247,821 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-02 | 247,587 | 0 |
 | 2023-05-03 | 247,672 | 1 |
 | 2023-05-04 | 247,753 | 1 |
-| 2023-05-05 | 247,812 | 1 |
+| 2023-05-05 | 247,821 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

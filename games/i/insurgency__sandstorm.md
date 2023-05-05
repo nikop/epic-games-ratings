@@ -5,25 +5,25 @@ Rating: 4.61 (Ranked 353)
 Number of Ratings: 1,316  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 349  (Ranked 209)  
-Sum: 2,615 (Ranked 162)  
-Diff (max vs sum): 47  
+Sum: 2,615 (Ranked 163)  
+Diff (max vs sum): 46  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,105 |
-| Wallbanger | 5.00% | ~18,105 |
-| Exploitative | 4.00% | ~14,484 |
-| High Speed Low Drag | 4.00% | ~14,484 |
-| Wet Feet | 4.00% | ~14,484 |
-| Checkpoint Victory | 3.00% | ~10,863 |
-| Lucky | 3.00% | ~10,863 |
-| Stylin' | 3.00% | ~10,863 |
-| Turf War | 3.00% | ~10,863 |
-| Banged | 2.00% | ~7,242 |
-| First Blood | 2.00% | ~7,242 |
-| Flaccid Paralysis | 2.00% | ~7,242 |
-| Push Victory | 2.00% | ~7,242 |
-| Self-destructive | 2.00% | ~7,242 |
+| Point Shooting | 5.00% | ~18,106 |
+| Wallbanger | 5.00% | ~18,106 |
+| Exploitative | 4.00% | ~14,485 |
+| High Speed Low Drag | 4.00% | ~14,485 |
+| Wet Feet | 4.00% | ~14,485 |
+| Checkpoint Victory | 3.00% | ~10,864 |
+| Lucky | 3.00% | ~10,864 |
+| Stylin' | 3.00% | ~10,864 |
+| Turf War | 3.00% | ~10,864 |
+| Banged | 2.00% | ~7,243 |
+| First Blood | 2.00% | ~7,243 |
+| Flaccid Paralysis | 2.00% | ~7,243 |
+| Push Victory | 2.00% | ~7,243 |
+| Self-destructive | 2.00% | ~7,243 |
 | Blindfire | 1.00% | ~3,621 |
 | Efficient | 1.00% | ~3,621 |
 | Ruthless | 1.00% | ~3,621 |
@@ -37,7 +37,7 @@ Diff (max vs sum): 47
 | Special Delivery | 0.70% | ~2,535 |
 | Firefight Victory | 0.60% | ~2,173 |
 | Cinematic | 0.50% | ~1,811 |
-| Thanks Station! | 0.40% | ~1,448 |
+| Thanks Station! | 0.40% | ~1,449 |
 | Knock Knock | 0.30% | ~1,086 |
 | Hit and Run | 0.20% | ~724 |
 | There For You | 0.20% | ~724 |
@@ -46,7 +46,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,107 (Ranked 35)  
+Progressed: 362,129 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 362,107 | 2 |
+| 2023-05-05 | 362,129 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

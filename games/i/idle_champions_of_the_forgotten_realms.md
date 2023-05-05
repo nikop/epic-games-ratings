@@ -10,7 +10,7 @@ Diff (max vs sum): 25
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~865 |
+| A Brief Tour of the Realms | 1.00% | ~866 |
 | Checkmate | 1.00% | ~528 |
 | Vecna Out! | 1.00% | ~528 |
 | Pin and Skewer | 0.80% | ~423 |
@@ -500,7 +500,7 @@ Diff (max vs sum): 25
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,546 (Ranked 59)  
+Progressed: 86,551 (Ranked 59)  
 Completed: 1,806 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,806 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,546 | 1,806 |
+| 2023-05-05 | 86,551 | 1,806 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
