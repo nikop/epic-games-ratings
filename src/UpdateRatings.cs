@@ -74,7 +74,7 @@ namespace EpicRatingsUpdater
                     var NumberOfAwards = pi.pollResult.Sum(x => x.total ?? 0);
                     var NumberOfAwardsMax = topAward?.total ?? 0;
 
-                    if (NumberOfAwards != item.NumberOfAwards || NumberOfAwardsMax != item.NumberOfAwardsMax)
+                    if (NumberOfAwards > 0 && (NumberOfAwards != item.NumberOfAwards || NumberOfAwardsMax != item.NumberOfAwardsMax))
                     {
                         ratingChanged = true;
                     }
