@@ -1768,8 +1768,8 @@
   "EOS_NewPlayers": 148,
   "EOS_Completed": 1,
   "EOS_Progressed": 2664,
-  "LastUpdate_Achievements": "2023-05-05T13:42:20.1037188+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:37:23.8250457+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:05:15.7818162+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:28.0766068+00:00",
   "AchievementSets": [
     {
       "ID": "1p8ab95",
@@ -1779,7 +1779,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "LastChanged_Achievements": "2023-05-05T13:42:20.103688+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:15.7817793+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "Rating": 4.67,
   "Ranking_Rating": 255,
@@ -1788,7 +1788,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 167,
   "LastChanged": "2023-05-03T00:00:10.1832841+00:00",
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "NumberOfRatings": 398,
   "NumberOfAwards": 747,
   "NumberOfAwardsMax": 104,

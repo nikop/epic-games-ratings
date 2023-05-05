@@ -64,7 +64,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28314
+      "UsersEstimate": 28315
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -112,7 +112,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18876
+      "UsersEstimate": 18877
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -120,7 +120,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23595
+      "UsersEstimate": 23596
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -152,7 +152,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 12977
+      "UsersEstimate": 12978
     },
     {
       "ID": "ACH_CUNO",
@@ -1428,6 +1428,11 @@
       "Time": "2023-05-05T13:41:43.3066589+00:00",
       "NumProgressed": 117977,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T14:04:57.4703186+00:00",
+      "NumProgressed": 117980,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2398,21 +2403,21 @@
   "TotalAchievements": 40,
   "LastUpdate_AppInfo": "2023-05-05T13:32:19.5872054+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 371,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117977,
-  "LastUpdate_Achievements": "2023-05-05T13:41:43.3066939+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:35:12.7425594+00:00",
+  "EOS_Progressed": 117980,
+  "LastUpdate_Achievements": "2023-05-05T14:04:57.4703595+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:58:31.3165272+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117977,
+      "Progressed": 117980,
       "Completed": 24
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T13:41:43.3066583+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:57.4703181+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "Rating": 4.86,
   "Ranking_Rating": 28,

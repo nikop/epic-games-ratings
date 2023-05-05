@@ -408,7 +408,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "52",
@@ -1097,6 +1097,11 @@
       "Time": "2023-05-05T13:41:27.4845844+00:00",
       "NumProgressed": 46000,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-05T14:04:40.6455516+00:00",
+      "NumProgressed": 46001,
+      "NumCompleted": 44
     }
   ],
   "RatingHistory": [
@@ -1579,27 +1584,27 @@
   "TotalAchievements": 67,
   "LastUpdate_AppInfo": "2023-05-05T13:31:09.4589214+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_Completed": 44,
-  "EOS_Progressed": 46000,
-  "LastUpdate_Achievements": "2023-05-05T13:41:27.4846552+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:00.5988855+00:00",
+  "EOS_Progressed": 46001,
+  "LastUpdate_Achievements": "2023-05-05T14:04:40.6456232+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:19.7227392+00:00",
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46000,
+      "Progressed": 46001,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9468,
+      "Progressed": 9469,
       "Completed": 27
     }
   ],
   "EOS_Completed_Percentage": 0.1,
-  "LastChanged_Achievements": "2023-05-05T13:41:27.4845838+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:40.6455505+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "Rating": 4.56,
   "Ranking_Rating": 447,

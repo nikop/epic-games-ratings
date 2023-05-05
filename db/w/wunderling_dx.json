@@ -354,8 +354,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 40,
-  "LastUpdate_Achievements": "2023-05-05T13:41:22.4617931+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:44.7513125+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:34.994329+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:03.3865465+00:00",
   "AchievementSets": [
     {
       "ID": "emnkcf",
@@ -365,7 +365,7 @@
     }
   ],
   "EOS_Completed_Percentage": 2.5,
-  "LastChanged_Achievements": "2023-05-05T13:41:22.4617628+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:34.9942968+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.9093929+00:00",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 52,

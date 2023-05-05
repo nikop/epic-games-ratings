@@ -10,21 +10,21 @@ Diff (max vs sum): -38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~696,166 |
-| The Blues | 85.00% | ~597,718 |
-| Fast | 66.00% | ~464,111 |
-| Healthbar | 55.00% | ~386,759 |
-| Force Cube | 52.00% | ~365,663 |
-| Double Jump | 48.00% | ~337,535 |
-| Regeneration | 47.00% | ~330,503 |
-| Climb the hill | 42.00% | ~295,343 |
-| Triple Jump | 42.00% | ~295,343 |
-| Through the fire pipe | 38.00% | ~267,215 |
-| MacGuffin | 37.00% | ~260,183 |
-| Just once | 36.00% | ~253,151 |
-| Armor | 30.00% | ~210,959 |
-| True holy spirit | 27.00% | ~189,863 |
-| That's how electronics work obviously | 26.00% | ~182,831 |
+| Out of bed | 99.00% | ~696,168 |
+| The Blues | 85.00% | ~597,720 |
+| Fast | 66.00% | ~464,112 |
+| Healthbar | 55.00% | ~386,760 |
+| Force Cube | 52.00% | ~365,664 |
+| Double Jump | 48.00% | ~337,536 |
+| Regeneration | 47.00% | ~330,504 |
+| Climb the hill | 42.00% | ~295,344 |
+| Triple Jump | 42.00% | ~295,344 |
+| Through the fire pipe | 38.00% | ~267,216 |
+| MacGuffin | 37.00% | ~260,184 |
+| Just once | 36.00% | ~253,152 |
+| Armor | 30.00% | ~210,960 |
+| True holy spirit | 27.00% | ~189,864 |
+| That's how electronics work obviously | 26.00% | ~182,832 |
 | Force Cube Catapult | 25.00% | ~175,800 |
 | Holy Sword | 23.00% | ~161,736 |
 | Telefrag | 22.00% | ~154,704 |
@@ -109,7 +109,7 @@ Diff (max vs sum): -38
 | DLC: There he is! | 0.10% | ~703 |
 | DLC: Top of the world | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,198 (Ranked 14)  
+Progressed: 703,200 (Ranked 14)  
 Completed: 669 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 669 (0.10%) (Ranked 150)
 | 2023-05-02 | 702,784 | 666 |
 | 2023-05-03 | 702,946 | 668 |
 | 2023-05-04 | 703,109 | 668 |
-| 2023-05-05 | 703,198 | 669 |
+| 2023-05-05 | 703,200 | 669 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

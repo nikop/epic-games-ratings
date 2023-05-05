@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472051
+      "UsersEstimate": 472052
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380263
+      "UsersEstimate": 380264
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -160,7 +160,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111456
+      "UsersEstimate": 111457
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163906
+      "UsersEstimate": 163907
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -288,7 +288,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59006
+      "UsersEstimate": 59007
     },
     {
       "ID": "Achievement_37_Champion",
@@ -1437,6 +1437,11 @@
       "Time": "2023-05-05T13:41:23.4113851+00:00",
       "NumProgressed": 655626,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T14:04:35.9043978+00:00",
+      "NumProgressed": 655628,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2202,21 +2207,21 @@
   "TotalAchievements": 48,
   "LastUpdate_AppInfo": "2023-05-05T13:31:05.5075646+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 388,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655626,
-  "LastUpdate_Achievements": "2023-05-05T13:41:23.4114275+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:56.5055585+00:00",
+  "EOS_Progressed": 655628,
+  "LastUpdate_Achievements": "2023-05-05T14:04:35.9044392+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:15.9073028+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655626,
+      "Progressed": 655628,
       "Completed": 164
     }
   ],
   "EOS_Completed_Percentage": 0.03,
-  "LastChanged_Achievements": "2023-05-05T13:41:23.4113845+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:35.9043973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "Rating": 4.57,
   "Ranking_Rating": 428,

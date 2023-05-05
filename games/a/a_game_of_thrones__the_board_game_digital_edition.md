@@ -10,10 +10,10 @@ Diff (max vs sum): 51
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~4,425 |
+| Conqueror | 40.00% | ~4,426 |
 | Battering Crew | 21.00% | ~2,323 |
 | The Kingsroad | 19.00% | ~2,102 |
-| Well Stocked | 15.00% | ~1,659 |
+| Well Stocked | 15.00% | ~1,660 |
 | Royal Fleet | 14.00% | ~1,549 |
 | The Kraken’s Grasp | 10.00% | ~1,106 |
 | Daggers in the Dark | 9.00% | ~996 |
@@ -28,12 +28,12 @@ Diff (max vs sum): 51
 | Growing Strong | 6.00% | ~664 |
 | Hear me Roar! | 6.00% | ~664 |
 | Defender of the Wall | 6.00% | ~664 |
-| What is Dead may Never Die | 4.00% | ~442 |
+| What is Dead may Never Die | 4.00% | ~443 |
 | The Swift | 3.00% | ~332 |
 | King in the North | 2.00% | ~221 |
 | War of the Five Kings | 1.00% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,062 (Ranked 102)  
+Progressed: 11,064 (Ranked 102)  
 Completed: 23 (0.21%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 23 (0.21%) (Ranked 129)
 | 2023-05-02 | 10,803 | 22 |
 | 2023-05-03 | 10,920 | 23 |
 | 2023-05-04 | 11,017 | 23 |
-| 2023-05-05 | 11,062 | 23 |
+| 2023-05-05 | 11,064 | 23 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

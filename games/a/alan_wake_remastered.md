@@ -20,7 +20,7 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 8.00% | ~3,680 |
 | Sound and Fury | 8.00% | ~3,680 |
 | Damn Good Cup of Coffee | 8.00% | ~3,680 |
-| A Friend in Need | 8.00% | ~757 |
+| A Friend in Need | 8.00% | ~758 |
 | Heavy Metal | 7.00% | ~3,220 |
 | Iron Horse | 7.00% | ~3,220 |
 | Perchance to Dream | 7.00% | ~3,220 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,000 (Ranked 74)  
+Progressed: 46,001 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 44 (0.10%) (Ranked 150)
 | 2023-05-02 | 45,971 | 44 |
 | 2023-05-03 | 45,986 | 44 |
 | 2023-05-04 | 45,993 | 44 |
-| 2023-05-05 | 46,000 | 44 |
+| 2023-05-05 | 46,001 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

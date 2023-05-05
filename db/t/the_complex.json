@@ -14,9 +14,9 @@
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 392
+      "UsersEstimate": 396
     },
     {
       "ID": "deadly_secret",
@@ -102,9 +102,9 @@
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "kamikaze",
@@ -211,8 +211,8 @@
   "EOS_NewPlayers": 4,
   "EOS_Completed": 16,
   "EOS_Progressed": 450,
-  "LastUpdate_Achievements": "2023-05-05T13:42:24.1801775+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:50.7426328+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:05:19.6788908+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:56:55.8404523+00:00",
   "AchievementSets": [
     {
       "ID": "d4f4pll",
@@ -222,7 +222,7 @@
     }
   ],
   "EOS_Completed_Percentage": 3.56,
-  "LastChanged_Achievements": "2023-05-05T13:42:24.180149+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:19.6788764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 35,

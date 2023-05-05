@@ -24,7 +24,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 9769
+      "UsersEstimate": 9770
     },
     {
       "ID": "Best served cold",
@@ -168,7 +168,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 9769
+      "UsersEstimate": 9770
     },
     {
       "ID": "I can do it",
@@ -176,7 +176,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6838
+      "UsersEstimate": 6839
     },
     {
       "ID": "I spit on your grave",
@@ -232,7 +232,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14165
+      "UsersEstimate": 14166
     },
     {
       "ID": "Lawbringer",
@@ -248,7 +248,7 @@
       "Name": "Lawmaker",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9769
+      "UsersEstimate": 9770
     },
     {
       "ID": "Long live the Empire",
@@ -360,7 +360,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7815
+      "UsersEstimate": 7816
     },
     {
       "ID": "This Is Our Land",
@@ -1589,6 +1589,11 @@
     {
       "Time": "2023-05-05T13:42:13.2420933+00:00",
       "NumProgressed": 48846,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T14:05:08.4014472+00:00",
+      "NumProgressed": 48848,
       "NumCompleted": 0
     }
   ],
@@ -5300,21 +5305,21 @@
   "TotalAchievements": 51,
   "LastUpdate_AppInfo": "2023-05-05T13:32:53.7368569+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 630,
   "EOS_Completed": 0,
-  "EOS_Progressed": 48846,
-  "LastUpdate_Achievements": "2023-05-05T13:42:13.2421422+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:36:15.2350848+00:00",
+  "EOS_Progressed": 48848,
+  "LastUpdate_Achievements": "2023-05-05T14:05:08.4014969+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:04.1124294+00:00",
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 48846,
+      "Progressed": 48848,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:42:13.2420928+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:08.4014467+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "Rating": 4.74,
   "Ranking_Rating": 142,

@@ -31,7 +31,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 691
+      "Count": 692
     },
     {
       "Text": "This game is Educational",
@@ -3328,6 +3328,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 6424,
       "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2023-05-05T13:57:21.8009204+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6425,
+      "NumberOfAwardsMax": 768
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3337,8 +3343,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:41:17.6888621+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:02.5786877+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:30.1755023+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:21.8009218+00:00",
   "AchievementSets": [
     {
       "ID": "bf9dj5j",
@@ -3348,7 +3354,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:17.6888595+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:30.1754986+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
   "Rating": 4.74,
   "Ranking_Rating": 142,
@@ -3356,10 +3362,10 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T13:02:12.933391+00:00",
+  "LastChanged": "2023-05-05T13:57:21.8009201+00:00",
   "Ranking_EOS_NewPlayers": 269,
   "NumberOfRatings": 11240,
-  "NumberOfAwards": 6424,
+  "NumberOfAwards": 6425,
   "NumberOfAwardsMax": 768,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",

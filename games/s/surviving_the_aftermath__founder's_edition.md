@@ -10,18 +10,18 @@ Diff (max vs sum): 54
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,375 |
-| Leader | 60.00% | ~2,935 |
+| First Step | 69.00% | ~3,376 |
+| Leader | 60.00% | ~2,936 |
 | Explorer | 53.00% | ~2,593 |
 | Healer | 52.00% | ~2,544 |
-| Aspiring Inventor | 45.00% | ~2,201 |
+| Aspiring Inventor | 45.00% | ~2,202 |
 | Adventurer | 41.00% | ~2,006 |
-| Famous Healer | 37.00% | ~1,810 |
-| Local Leader | 35.00% | ~1,712 |
-| New Opportunities | 34.00% | ~1,663 |
-| Famous Explorer | 33.00% | ~1,614 |
-| Energized | 33.00% | ~1,614 |
-| The Long Haul | 33.00% | ~1,614 |
+| Famous Healer | 38.00% | ~1,859 |
+| Local Leader | 35.00% | ~1,713 |
+| New Opportunities | 34.00% | ~1,664 |
+| Famous Explorer | 33.00% | ~1,615 |
+| Energized | 33.00% | ~1,615 |
+| The Long Haul | 33.00% | ~1,615 |
 | Survivor | 31.00% | ~1,517 |
 | The Great Healer | 30.00% | ~1,468 |
 | Catastrofan | 28.00% | ~1,370 |
@@ -32,10 +32,10 @@ Diff (max vs sum): 54
 | Great Leader | 22.00% | ~1,076 |
 | Ice Lakes | 22.00% | ~1,076 |
 | Mentor | 22.00% | ~1,076 |
-| Merchant | 21.00% | ~1,027 |
-| Real Survivor | 21.00% | ~1,027 |
-| War Never Changes | 19.00% | ~929 |
-| Rocket Surgeon | 19.00% | ~929 |
+| Merchant | 21.00% | ~1,028 |
+| Real Survivor | 21.00% | ~1,028 |
+| War Never Changes | 19.00% | ~930 |
+| Rocket Surgeon | 19.00% | ~930 |
 | Friendly | 16.00% | ~783 |
 | Big Game Hunter | 16.00% | ~783 |
 | Around the World | 15.00% | ~734 |
@@ -47,8 +47,8 @@ Diff (max vs sum): 54
 | It's a Finnish Thing | 10.00% | ~489 |
 | Sky Burial | 9.00% | ~440 |
 | Trader | 8.00% | ~391 |
-| Bread and Circuses | 7.00% | ~342 |
-| Tailored to fit | 7.00% | ~342 |
+| Bread and Circuses | 7.00% | ~343 |
+| Tailored to fit | 7.00% | ~343 |
 | New Eden | 6.00% | ~294 |
 | Really Friendly | 5.00% | ~245 |
 | Amped Up | 5.00% | ~245 |
@@ -70,7 +70,7 @@ Diff (max vs sum): 54
 | Fun and Games | 0.10% | ~5 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,892 (Ranked 121)  
+Progressed: 4,893 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
 | 2023-05-04 | 4,882 | 0 |
-| 2023-05-05 | 4,892 | 0 |
+| 2023-05-05 | 4,893 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

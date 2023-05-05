@@ -10,29 +10,29 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,675 |
-| That's a Grand Army | 8.00% | ~2,378 |
-| That is mine! | 8.00% | ~2,378 |
-| Victorious! | 8.00% | ~2,378 |
-| Brothers in Arms | 6.00% | ~1,783 |
-| That's a Grand Navy | 6.00% | ~1,783 |
-| Seriously?! | 6.00% | ~1,783 |
-| For the Glory | 5.00% | ~1,486 |
-| Cold War | 4.00% | ~1,189 |
+| Until death do us apart | 9.00% | ~2,677 |
+| That's a Grand Army | 8.00% | ~2,379 |
+| That is mine! | 8.00% | ~2,379 |
+| Victorious! | 8.00% | ~2,379 |
+| Brothers in Arms | 6.00% | ~1,784 |
+| That's a Grand Navy | 6.00% | ~1,784 |
+| Seriously?! | 6.00% | ~1,784 |
+| For the Glory | 5.00% | ~1,487 |
+| Cold War | 4.00% | ~1,190 |
 | Defender of the Faith | 3.00% | ~892 |
 | It's all about the money | 3.00% | ~892 |
 | Respected | 3.00% | ~892 |
 | True Catholic | 3.00% | ~892 |
-| Blockader | 2.00% | ~594 |
-| Combined Arms | 2.00% | ~594 |
-| Double the Love | 2.00% | ~594 |
-| Gentle Persuasion | 2.00% | ~594 |
-| It's all about luck | 2.00% | ~594 |
-| Queen of Conquest | 2.00% | ~594 |
-| Royal Authority | 2.00% | ~594 |
-| The Princess is in this Castle | 2.00% | ~594 |
-| Total Control | 2.00% | ~594 |
-| Truly Divine Ruler | 2.00% | ~594 |
+| Blockader | 2.00% | ~595 |
+| Combined Arms | 2.00% | ~595 |
+| Double the Love | 2.00% | ~595 |
+| Gentle Persuasion | 2.00% | ~595 |
+| It's all about luck | 2.00% | ~595 |
+| Queen of Conquest | 2.00% | ~595 |
+| Royal Authority | 2.00% | ~595 |
+| The Princess is in this Castle | 2.00% | ~595 |
+| Total Control | 2.00% | ~595 |
+| Truly Divine Ruler | 2.00% | ~595 |
 | Agressive Expander | 1.00% | ~297 |
 | Azur semé de lis or | 1.00% | ~297 |
 | Bright Spark | 1.00% | ~297 |
@@ -45,9 +45,9 @@ Diff (max vs sum): 34
 | The Five Colonies | 0.70% | ~208 |
 | The Emperors new clothes | 0.60% | ~178 |
 | Market Control | 0.60% | ~178 |
+| This navy can take it all | 0.60% | ~178 |
 | Down Under | 0.50% | ~149 |
 | Electable! | 0.50% | ~149 |
-| This navy can take it all | 0.50% | ~149 |
 | Time Bandit | 0.50% | ~149 |
 | Trustworthy | 0.50% | ~149 |
 | All belongs to Mother Russia | 0.40% | ~119 |
@@ -117,6 +117,7 @@ Diff (max vs sum): 34
 | Center of Attention | 0.10% | ~30 |
 | Cherrypicking | 0.10% | ~30 |
 | Chop Chop | 0.10% | ~30 |
+| Choson One | 0.10% | ~30 |
 | Cities of Cibola | 0.10% | ~30 |
 | Colonial Management | 0.10% | ~30 |
 | Consulate of the Sea | 0.10% | ~30 |
@@ -279,7 +280,6 @@ Diff (max vs sum): 34
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
-| Choson One | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,724 (Ranked 82)  
+Progressed: 29,739 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,724 | 0 |
+| 2023-05-05 | 29,739 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

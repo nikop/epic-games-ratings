@@ -254,9 +254,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 599
+      "UsersEstimate": 614
     },
     {
       "ID": "Ach033",
@@ -746,8 +746,8 @@
   "EOS_NewPlayers": 30,
   "EOS_Completed": 3,
   "EOS_Progressed": 1462,
-  "LastUpdate_Achievements": "2023-05-05T13:41:28.4084775+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:49.7664658+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:41.7133698+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:58:09.3845778+00:00",
   "AchievementSets": [
     {
       "ID": "12n4k20",
@@ -757,7 +757,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.21,
-  "LastChanged_Achievements": "2023-05-05T13:41:28.4084176+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:41.7133077+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "Rating": 4.85,
   "Ranking_Rating": 37,

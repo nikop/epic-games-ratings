@@ -24,7 +24,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9183
+      "UsersEstimate": 9184
     },
     {
       "ID": "Audiophile",
@@ -40,7 +40,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11344
+      "UsersEstimate": 11345
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -48,7 +48,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9183
+      "UsersEstimate": 9184
     },
     {
       "ID": "Butcher",
@@ -80,7 +80,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10263
+      "UsersEstimate": 10264
     },
     {
       "ID": "Hearty",
@@ -112,7 +112,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10263
+      "UsersEstimate": 10264
     },
     {
       "ID": "Meaty",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9723
+      "UsersEstimate": 9724
     },
     {
       "ID": "Nice Try",
@@ -136,7 +136,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "Nothing Left to Say",
@@ -160,7 +160,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7022
+      "UsersEstimate": 7023
     },
     {
       "ID": "Sniper",
@@ -200,7 +200,7 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     }
   ],
   "Tags": [],
@@ -1389,6 +1389,11 @@
       "Time": "2023-05-05T13:42:23.1350995+00:00",
       "NumProgressed": 54017,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-05-05T14:05:18.6223247+00:00",
+      "NumProgressed": 54022,
+      "NumCompleted": 434
     }
   ],
   "RatingHistory": [
@@ -1409,21 +1414,21 @@
   "TotalAchievements": 25,
   "LastUpdate_AppInfo": "2023-05-05T13:33:32.2719209+00:00",
   "EOS_NewCompleters": 31,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1576,
   "EOS_Completed": 434,
-  "EOS_Progressed": 54017,
-  "LastUpdate_Achievements": "2023-05-05T13:42:23.1351241+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:37:40.394106+00:00",
+  "EOS_Progressed": 54022,
+  "LastUpdate_Achievements": "2023-05-05T14:05:18.6223506+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:43.845764+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 54017,
+      "Progressed": 54022,
       "Completed": 434
     }
   ],
   "EOS_Completed_Percentage": 0.8,
-  "LastChanged_Achievements": "2023-05-05T13:42:23.1350989+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:18.6223243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "Rating": 3.5,
   "Ranking_Rating": 914,

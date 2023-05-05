@@ -120,7 +120,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 194904
+      "UsersEstimate": 194905
     },
     {
       "ID": "Chivalrous",
@@ -208,7 +208,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179312
+      "UsersEstimate": 179313
     },
     {
       "ID": "Fighter",
@@ -328,7 +328,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 101350
+      "UsersEstimate": 101351
     },
     {
       "ID": "Judas",
@@ -1888,6 +1888,11 @@
     {
       "Time": "2023-05-05T13:41:37.8603452+00:00",
       "NumProgressed": 779618,
+      "NumCompleted": 38
+    },
+    {
+      "Time": "2023-05-05T14:04:51.6798917+00:00",
+      "NumProgressed": 779620,
       "NumCompleted": 38
     }
   ],
@@ -6142,21 +6147,21 @@
   "TotalAchievements": 82,
   "LastUpdate_AppInfo": "2023-05-05T13:31:43.6324409+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1277,
   "EOS_Completed": 38,
-  "EOS_Progressed": 779618,
-  "LastUpdate_Achievements": "2023-05-05T13:41:37.8604365+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:36.5344957+00:00",
+  "EOS_Progressed": 779620,
+  "LastUpdate_Achievements": "2023-05-05T14:04:51.6799897+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:55.7496953+00:00",
   "AchievementSets": [
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 779618,
+      "Progressed": 779620,
       "Completed": 38
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:37.8603448+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:51.6798912+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "Rating": 4.71,
   "Ranking_Rating": 178,

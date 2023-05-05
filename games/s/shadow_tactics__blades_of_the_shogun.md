@@ -11,9 +11,9 @@ Diff (max vs sum): 48
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~16,462 |
-| Thorough | 8.00% | ~13,169 |
-| A thief's beginning | 7.00% | ~11,523 |
-| Tanuki Time | 7.00% | ~11,523 |
+| Thorough | 8.00% | ~13,170 |
+| A thief's beginning | 7.00% | ~11,524 |
+| Tanuki Time | 7.00% | ~11,524 |
 | Disguised | 6.00% | ~9,877 |
 | Jonin | 6.00% | ~9,877 |
 | Rescue Takuma | 6.00% | ~9,877 |
@@ -55,7 +55,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,617 (Ranked 50)  
+Progressed: 164,624 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,617 | 41 |
+| 2023-05-05 | 164,624 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

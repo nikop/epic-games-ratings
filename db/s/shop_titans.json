@@ -16,7 +16,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35721
+      "UsersEstimate": 35722
     },
     {
       "ID": "advlevel03",
@@ -24,7 +24,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19136
+      "UsersEstimate": 19137
     },
     {
       "ID": "advlevel04",
@@ -56,7 +56,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35721
+      "UsersEstimate": 35722
     },
     {
       "ID": "ascend02",
@@ -144,7 +144,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 56133
+      "UsersEstimate": 56134
     },
     {
       "ID": "boss02",
@@ -176,7 +176,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 123749
+      "UsersEstimate": 123750
     },
     {
       "ID": "chest02",
@@ -208,7 +208,7 @@
       "Name": "Scrapbooker",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19136
+      "UsersEstimate": 19137
     },
     {
       "ID": "collection03",
@@ -240,7 +240,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116094
+      "UsersEstimate": 116095
     },
     {
       "ID": "commonres02",
@@ -272,7 +272,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 96958
+      "UsersEstimate": 96959
     },
     {
       "ID": "craft02",
@@ -280,7 +280,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 52306
+      "UsersEstimate": 52307
     },
     {
       "ID": "craft03",
@@ -320,7 +320,7 @@
       "Name": "This Power Level...!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19136
+      "UsersEstimate": 19137
     },
     {
       "ID": "damage03",
@@ -360,7 +360,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 77821
+      "UsersEstimate": 77822
     },
     {
       "ID": "energy02",
@@ -384,7 +384,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 89303
+      "UsersEstimate": 89304
     },
     {
       "ID": "expansion02",
@@ -392,7 +392,7 @@
       "Name": "Expansion in Session",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19136
+      "UsersEstimate": 19137
     },
     {
       "ID": "expansion03",
@@ -472,7 +472,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35721
+      "UsersEstimate": 35722
     },
     {
       "ID": "gold01",
@@ -480,7 +480,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 110991
+      "UsersEstimate": 110992
     },
     {
       "ID": "gold02",
@@ -488,7 +488,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 72718
+      "UsersEstimate": 72719
     },
     {
       "ID": "gold03",
@@ -528,7 +528,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35721
+      "UsersEstimate": 35722
     },
     {
       "ID": "help02",
@@ -592,7 +592,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84200
+      "UsersEstimate": 84201
     },
     {
       "ID": "level02",
@@ -672,7 +672,7 @@
       "Name": "Natural 20",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 29342
+      "UsersEstimate": 29343
     },
     {
       "ID": "master03",
@@ -680,7 +680,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19136
+      "UsersEstimate": 19137
     },
     {
       "ID": "master04",
@@ -784,7 +784,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 95682
+      "UsersEstimate": 95683
     },
     {
       "ID": "sell02",
@@ -792,7 +792,7 @@
       "Name": "Black Friday Special",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19136
+      "UsersEstimate": 19137
     },
     {
       "ID": "sell03",
@@ -824,7 +824,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 122473
+      "UsersEstimate": 122474
     },
     {
       "ID": "twinenchant01",
@@ -940,7 +940,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3083
+      "Count": 3085
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2043,6 +2043,11 @@
     {
       "Time": "2023-05-05T13:41:26.8818329+00:00",
       "NumProgressed": 127576,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T14:04:40.0691064+00:00",
+      "NumProgressed": 127577,
       "NumCompleted": 76
     }
   ],
@@ -5844,27 +5849,33 @@
       "Rating": 3.98,
       "NumberOfAwards": 26511,
       "NumberOfAwardsMax": 4551
+    },
+    {
+      "Time": "2023-05-05T13:57:57.1618462+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 26513,
+      "NumberOfAwardsMax": 4551
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 112,
   "LastUpdate_AppInfo": "2023-05-05T13:31:45.1352566+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 537,
   "EOS_Completed": 76,
-  "EOS_Progressed": 127576,
-  "LastUpdate_Achievements": "2023-05-05T13:41:26.8819864+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:37.8167352+00:00",
+  "EOS_Progressed": 127577,
+  "LastUpdate_Achievements": "2023-05-05T14:04:40.0692461+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:57.1618468+00:00",
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 127576,
+      "Progressed": 127577,
       "Completed": 76
     }
   ],
   "EOS_Completed_Percentage": 0.06,
-  "LastChanged_Achievements": "2023-05-05T13:41:26.8818324+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:40.069106+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "Rating": 3.98,
   "Ranking_Rating": 884,
@@ -5872,10 +5883,10 @@
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 161,
-  "LastChanged": "2023-05-05T11:58:30.8719851+00:00",
+  "LastChanged": "2023-05-05T13:57:57.1618458+00:00",
   "Ranking_EOS_NewPlayers": 75,
   "NumberOfRatings": 12664,
-  "NumberOfAwards": 26511,
+  "NumberOfAwards": 26513,
   "NumberOfAwardsMax": 4551,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",

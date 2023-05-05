@@ -49,7 +49,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 13128
+      "Count": 13154
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5454,6 +5454,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 352536,
       "NumberOfAwardsMax": 138448
+    },
+    {
+      "Time": "2023-05-05T13:58:30.4082581+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 352562,
+      "NumberOfAwardsMax": 138448
     }
   ],
   "TotalAchievementsXP": 0,
@@ -5463,8 +5469,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:40:10.1942476+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:35:11.8998188+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:03:13.9664004+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:58:30.4082586+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "Rating": 4.89,
@@ -5473,10 +5479,10 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T13:35:11.8998178+00:00",
+  "LastChanged": "2023-05-05T13:58:30.4082579+00:00",
   "Ranking_EOS_NewPlayers": 269,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 352536,
+  "NumberOfAwards": 352562,
   "NumberOfAwardsMax": 138448,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",

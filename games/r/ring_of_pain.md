@@ -10,32 +10,32 @@ Diff (max vs sum): 40
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~218,669 |
-| Uncharted Territory | 89.00% | ~202,724 |
-| Getting A Glimpse | 73.00% | ~166,279 |
-| A Quick Escape | 65.00% | ~148,057 |
+| First Steps | 96.00% | ~218,670 |
+| Uncharted Territory | 89.00% | ~202,725 |
+| Getting A Glimpse | 73.00% | ~166,280 |
+| A Quick Escape | 65.00% | ~148,058 |
 | Explorer | 62.00% | ~141,224 |
 | Defeat The Dark | 61.00% | ~138,946 |
 | An Offering | 61.00% | ~138,946 |
-| Colorful Corpse | 58.00% | ~132,112 |
+| Colorful Corpse | 58.00% | ~132,113 |
 | That Was Quick | 56.00% | ~127,557 |
 | A Donation | 56.00% | ~127,557 |
-| Goodbye, Frog Friend | 54.00% | ~123,001 |
+| Goodbye, Frog Friend | 54.00% | ~123,002 |
 | Heavy Hitter | 52.00% | ~118,446 |
 | Heartless | 46.00% | ~104,779 |
 | Spine Breaker | 46.00% | ~104,779 |
-| Deflection | 44.00% | ~100,223 |
-| Sneaky | 43.00% | ~97,945 |
+| Deflection | 44.00% | ~100,224 |
+| Sneaky | 43.00% | ~97,946 |
 | Delving Deeper | 42.00% | ~95,668 |
 | Ambitious Intent | 41.00% | ~93,390 |
 | C-C-Combo | 41.00% | ~93,390 |
 | The Bestiary | 40.00% | ~91,112 |
-| Nothing To Lose | 39.00% | ~88,834 |
-| What's Yours Is Mine | 38.00% | ~86,556 |
+| Nothing To Lose | 39.00% | ~88,835 |
+| What's Yours Is Mine | 38.00% | ~86,557 |
 | R.I.P | 36.00% | ~82,001 |
 | Shootout | 35.00% | ~79,723 |
-| Cold Hearted | 34.00% | ~77,445 |
-| I Am Overburdened | 34.00% | ~77,445 |
+| Cold Hearted | 34.00% | ~77,446 |
+| I Am Overburdened | 34.00% | ~77,446 |
 | Dig Your Own Grave | 32.00% | ~72,890 |
 | Toxic | 32.00% | ~72,890 |
 | Who To Trust? | 31.00% | ~70,612 |
@@ -52,8 +52,8 @@ Diff (max vs sum): 40
 | To The Death! | 19.00% | ~43,278 |
 | Well Prepared | 19.00% | ~43,278 |
 | Just Chilling | 19.00% | ~43,278 |
-| All Consuming | 18.00% | ~41,000 |
-| Stop Hitting Yourself | 18.00% | ~41,000 |
+| All Consuming | 18.00% | ~41,001 |
+| Stop Hitting Yourself | 18.00% | ~41,001 |
 | Shadow Spreads | 16.00% | ~36,445 |
 | Max Damage! | 16.00% | ~36,445 |
 | Don't Ignore Me! | 16.00% | ~36,445 |
@@ -133,7 +133,7 @@ Diff (max vs sum): 40
 | Never Too Many Hats | 0.40% | ~911 |
 | Near Death Experience | 0.30% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,780 (Ranked 41)  
+Progressed: 227,781 (Ranked 41)  
 Completed: 223 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 223 (0.10%) (Ranked 150)
 | 2023-05-02 | 227,639 | 223 |
 | 2023-05-03 | 227,692 | 223 |
 | 2023-05-04 | 227,747 | 223 |
-| 2023-05-05 | 227,780 | 223 |
+| 2023-05-05 | 227,781 | 223 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

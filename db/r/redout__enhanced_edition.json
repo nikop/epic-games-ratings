@@ -32,7 +32,7 @@
       "Name": "CENTAUR",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15464
+      "UsersEstimate": 15465
     },
     {
       "ID": "CHALLENGER",
@@ -48,7 +48,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15464
+      "UsersEstimate": 15465
     },
     {
       "ID": "DRAGOON",
@@ -144,7 +144,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70694
+      "UsersEstimate": 70695
     },
     {
       "ID": "NOBUNAGA",
@@ -176,7 +176,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15464
+      "UsersEstimate": 15465
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -232,7 +232,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46393
+      "UsersEstimate": 46394
     },
     {
       "ID": "TACTICIAN",
@@ -256,7 +256,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48602
+      "UsersEstimate": 48603
     },
     {
       "ID": "TUNINGMANIAC",
@@ -272,7 +272,7 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90577
+      "UsersEstimate": 90578
     }
   ],
   "Tags": [],
@@ -1326,6 +1326,11 @@
       "Time": "2023-05-05T13:41:20.3575996+00:00",
       "NumProgressed": 220920,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T14:04:32.9269229+00:00",
+      "NumProgressed": 220922,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -1637,21 +1642,21 @@
   "TotalAchievements": 34,
   "LastUpdate_AppInfo": "2023-05-05T13:31:39.4668929+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 652,
   "EOS_Completed": 41,
-  "EOS_Progressed": 220920,
-  "LastUpdate_Achievements": "2023-05-05T13:41:20.3576312+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:31.9564023+00:00",
+  "EOS_Progressed": 220922,
+  "LastUpdate_Achievements": "2023-05-05T14:04:32.9269565+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:51.1073772+00:00",
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 220920,
+      "Progressed": 220922,
       "Completed": 41
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T13:41:20.357599+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:32.9269225+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "Rating": 4.51,
   "Ranking_Rating": 514,

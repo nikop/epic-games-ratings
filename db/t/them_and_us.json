@@ -351,8 +351,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T13:41:22.2258012+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:40.3834892+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:34.6507344+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:56:58.1494411+00:00",
   "AchievementSets": [
     {
       "ID": "65jc0ap",
@@ -362,12 +362,12 @@
     }
   ],
   "EOS_Completed_Percentage": 12.5,
-  "LastChanged_Achievements": "2023-05-05T13:41:22.2257706+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:34.6507022+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 9,
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-05-01T09:56:49.9545519+00:00",

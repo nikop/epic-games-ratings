@@ -394,8 +394,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-05T13:41:43.9458262+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:35:14.3137846+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:58.1618988+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:58:33.3309426+00:00",
   "AchievementSets": [
     {
       "ID": "cfld5bl",
@@ -405,7 +405,7 @@
     }
   ],
   "EOS_Completed_Percentage": 1.28,
-  "LastChanged_Achievements": "2023-05-05T13:41:43.9457901+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:58.1618592+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 72,

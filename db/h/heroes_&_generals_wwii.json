@@ -55,7 +55,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 718
+      "Count": 720
     }
   ],
   "EosHistory": [],
@@ -3167,6 +3167,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 6891,
       "NumberOfAwardsMax": 989
+    },
+    {
+      "Time": "2023-05-05T13:59:40.5375644+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6893,
+      "NumberOfAwardsMax": 989
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3176,8 +3182,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:41:03.9301655+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:37:36.8995876+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:15.9420081+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:40.537565+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "Rating": 4.23,
@@ -3186,10 +3192,10 @@
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "LastChanged": "2023-05-05T07:00:15.8426328+00:00",
+  "LastChanged": "2023-05-05T13:59:40.5375641+00:00",
   "Ranking_EOS_NewPlayers": 269,
   "NumberOfRatings": 4634,
-  "NumberOfAwards": 6891,
+  "NumberOfAwards": 6893,
   "NumberOfAwardsMax": 989,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",

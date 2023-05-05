@@ -2346,8 +2346,8 @@
   "EOS_NewPlayers": 150,
   "EOS_Completed": 1149,
   "EOS_Progressed": 63739,
-  "LastUpdate_Achievements": "2023-05-05T13:41:30.4769725+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:31.1930506+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:43.6879552+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:50.2322301+00:00",
   "AchievementSets": [
     {
       "ID": "2jelldm",
@@ -2357,7 +2357,7 @@
     }
   ],
   "EOS_Completed_Percentage": 1.8,
-  "LastChanged_Achievements": "2023-05-05T13:41:30.4769233+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:43.6879062+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "Rating": 4.31,
   "Ranking_Rating": 747,
@@ -2372,6 +2372,6 @@
   "NumberOfAwardsMax": 929,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "ProductSlug": "salt-and-sacrifice"
 }

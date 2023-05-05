@@ -321,8 +321,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": -29,
   "EOS_Progressed": 3462,
-  "LastUpdate_Achievements": "2023-05-05T13:41:13.4704409+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:42.1131629+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:25.7569296+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:00.4096118+00:00",
   "AchievementSets": [
     {
       "ID": "5cfan5f",
@@ -332,12 +332,12 @@
     }
   ],
   "EOS_Completed_Percentage": -0.84,
-  "LastChanged_Achievements": "2023-05-05T13:41:13.4704077+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:25.7568954+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 2557,
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:22.7181663+00:00",

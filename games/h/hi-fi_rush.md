@@ -26,7 +26,7 @@ Rating: 4.85 (Ranked 37)
 | Out in a puff of smoke | 46.00% | ~673 |
 | Headliner | 45.00% | ~658 |
 | Time to pay up! | 42.00% | ~614 |
-| Perfecter Parry-er! | 41.00% | ~599 |
+| Perfecter Parry-er! | 42.00% | ~614 |
 | Who's the boss now? | 39.00% | ~570 |
 | I have to read these things? | 38.00% | ~556 |
 | I look cool. But I can look COOLER. | 36.00% | ~526 |

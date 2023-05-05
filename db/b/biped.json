@@ -24,7 +24,7 @@
       "Name": "Telepathic",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "12",
@@ -72,7 +72,7 @@
       "Name": "Cactus Vally",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "4",
@@ -112,7 +112,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "9",
@@ -869,6 +869,11 @@
       "Time": "2023-05-05T13:10:18.5799868+00:00",
       "NumProgressed": 1012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T14:04:34.2078411+00:00",
+      "NumProgressed": 1013,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -883,21 +888,21 @@
   "TotalAchievements": 15,
   "LastUpdate_AppInfo": "2023-05-05T13:31:29.506271+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1012,
-  "LastUpdate_Achievements": "2023-05-05T13:41:21.7725929+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:21.4040534+00:00",
+  "EOS_Progressed": 1013,
+  "LastUpdate_Achievements": "2023-05-05T14:04:34.2078582+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:40.7589173+00:00",
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1012,
+      "Progressed": 1013,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:21.7725763+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:34.2078406+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 191,

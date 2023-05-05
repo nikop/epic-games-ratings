@@ -8,7 +8,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "2",
@@ -884,6 +884,11 @@
       "Time": "2023-05-05T10:04:40.5919169+00:00",
       "NumProgressed": 480,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-05T14:04:41.2003349+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 33
     }
   ],
   "RatingHistory": [
@@ -898,21 +903,21 @@
   "TotalAchievements": 5,
   "LastUpdate_AppInfo": "2023-05-05T13:30:50.7546419+00:00",
   "EOS_NewCompleters": 21,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_Completed": 33,
-  "EOS_Progressed": 480,
-  "LastUpdate_Achievements": "2023-05-05T13:41:28.0763573+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:42.3668827+00:00",
+  "EOS_Progressed": 481,
+  "LastUpdate_Achievements": "2023-05-05T14:04:41.2003465+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:00.7966093+00:00",
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 33
     }
   ],
-  "EOS_Completed_Percentage": 6.88,
-  "LastChanged_Achievements": "2023-05-05T13:41:28.076346+00:00",
+  "EOS_Completed_Percentage": 6.86,
+  "LastChanged_Achievements": "2023-05-05T14:04:41.2003344+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 19,

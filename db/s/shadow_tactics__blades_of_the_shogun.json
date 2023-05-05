@@ -8,7 +8,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11523
+      "UsersEstimate": 11524
     },
     {
       "ID": "AtheistOx",
@@ -264,7 +264,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11523
+      "UsersEstimate": 11524
     },
     {
       "ID": "TheCave",
@@ -296,7 +296,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13169
+      "UsersEstimate": 13170
     },
     {
       "ID": "TimeParadox",
@@ -1613,6 +1613,11 @@
       "Time": "2023-05-05T13:41:42.7061302+00:00",
       "NumProgressed": 164617,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T14:04:56.7509541+00:00",
+      "NumProgressed": 164624,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -2555,21 +2560,21 @@
   "TotalAchievements": 44,
   "LastUpdate_AppInfo": "2023-05-05T13:32:15.7425296+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2239,
+  "EOS_NewPlayers": 2246,
   "EOS_Completed": 41,
-  "EOS_Progressed": 164617,
-  "LastUpdate_Achievements": "2023-05-05T13:41:42.7061724+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:35:08.3806259+00:00",
+  "EOS_Progressed": 164624,
+  "LastUpdate_Achievements": "2023-05-05T14:04:56.750997+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:58:27.4715727+00:00",
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164617,
+      "Progressed": 164624,
       "Completed": 41
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged_Achievements": "2023-05-05T13:41:42.7061294+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:56.7509532+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "Rating": 4.66,
   "Ranking_Rating": 272,

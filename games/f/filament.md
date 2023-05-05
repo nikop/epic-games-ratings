@@ -9,7 +9,7 @@ Diff (max vs sum): -92
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~177,502 |
+| Boarded! | 94.00% | ~177,503 |
 | Snooper. | 10.00% | ~18,883 |
 | You have to start somewhere, right? | 7.00% | ~13,218 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,330 |
@@ -39,7 +39,7 @@ Diff (max vs sum): -92
 | Snooper + | 0.40% | ~755 |
 | Corrupted + | 0.30% | ~566 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,832 (Ranked 48)  
+Progressed: 188,833 (Ranked 48)  
 Completed: 406 (0.22%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 406 (0.22%) (Ranked 127)
 | 2023-05-02 | 188,621 | 404 |
 | 2023-05-03 | 188,702 | 404 |
 | 2023-05-04 | 188,783 | 406 |
-| 2023-05-05 | 188,832 | 406 |
+| 2023-05-05 | 188,833 | 406 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

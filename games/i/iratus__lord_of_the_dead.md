@@ -10,47 +10,47 @@ Diff (max vs sum): -29
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~23,138 |
-| Blood Moon | 73.00% | ~19,871 |
-| Path of the Necromancer | 65.00% | ~17,694 |
-| Chainbreaker - I | 60.00% | ~16,333 |
-| Cursed Creature | 57.00% | ~15,516 |
-| Extraction | 57.00% | ~15,516 |
-| Chainbreaker - II | 54.00% | ~14,699 |
-| Necromancer's Apprentice | 51.00% | ~13,883 |
-| Keeper of Keys | 47.00% | ~12,794 |
-| Distillation | 43.00% | ~11,705 |
-| Mountain King - I | 42.00% | ~11,433 |
-| Transmutation | 42.00% | ~11,433 |
-| Prepared Necromancer | 40.00% | ~10,888 |
-| Mountain King - II | 39.00% | ~10,616 |
-| Blind Rage | 38.00% | ~10,344 |
-| Mad Genius | 35.00% | ~9,527 |
-| Cannon Fodder - I | 34.00% | ~9,255 |
-| Soul of Lies | 34.00% | ~9,255 |
-| Bane of Mercenaries - I | 33.00% | ~8,983 |
+| Improvement | 85.00% | ~23,140 |
+| Blood Moon | 73.00% | ~19,873 |
+| Path of the Necromancer | 65.00% | ~17,695 |
+| Chainbreaker - I | 60.00% | ~16,334 |
+| Cursed Creature | 57.00% | ~15,517 |
+| Extraction | 57.00% | ~15,517 |
+| Chainbreaker - II | 54.00% | ~14,700 |
+| Necromancer's Apprentice | 51.00% | ~13,884 |
+| Keeper of Keys | 47.00% | ~12,795 |
+| Distillation | 43.00% | ~11,706 |
+| Mountain King - I | 42.00% | ~11,434 |
+| Transmutation | 42.00% | ~11,434 |
+| Prepared Necromancer | 40.00% | ~10,889 |
+| Mountain King - II | 39.00% | ~10,617 |
+| Blind Rage | 38.00% | ~10,345 |
+| Mad Genius | 35.00% | ~9,528 |
+| Cannon Fodder - I | 34.00% | ~9,256 |
+| Soul of Lies | 34.00% | ~9,256 |
+| Bane of Mercenaries - I | 33.00% | ~8,984 |
 | Bane of Mercenaries - II | 31.00% | ~8,439 |
-| Cannon Fodder - II | 29.00% | ~7,894 |
-| Shadow Between Worlds | 29.00% | ~7,894 |
+| Cannon Fodder - II | 29.00% | ~7,895 |
+| Shadow Between Worlds | 29.00% | ~7,895 |
 | Bane of Monsters | 28.00% | ~7,622 |
 | Chainbreaker - III | 27.00% | ~7,350 |
-| Revealed Secrets - I | 26.00% | ~7,077 |
-| Revealed Secrets - II | 25.00% | ~6,805 |
-| Blood Elemental | 24.00% | ~6,533 |
+| Revealed Secrets - I | 26.00% | ~7,078 |
+| Revealed Secrets - II | 25.00% | ~6,806 |
+| Blood Elemental | 24.00% | ~6,534 |
 | Unholy Bones | 23.00% | ~6,261 |
 | Lord of Fire | 23.00% | ~6,261 |
 | Cannon Fodder - III | 22.00% | ~5,989 |
 | Spiritual Attraction | 22.00% | ~5,989 |
 | Uncommon Warrior | 22.00% | ~5,989 |
 | Nightmare of the Humanity - I | 22.00% | ~5,989 |
-| Nightmare of the Humanity - II | 21.00% | ~5,716 |
-| That Was Easy! | 20.00% | ~5,444 |
-| Silent Waters | 20.00% | ~5,444 |
-| Calcination | 20.00% | ~5,444 |
-| Head of Order | 20.00% | ~5,444 |
+| Nightmare of the Humanity - II | 21.00% | ~5,717 |
+| That Was Easy! | 20.00% | ~5,445 |
+| Silent Waters | 20.00% | ~5,445 |
+| Calcination | 20.00% | ~5,445 |
+| Head of Order | 20.00% | ~5,445 |
 | Blood Mage | 17.00% | ~4,628 |
-| Wild Hunger | 16.00% | ~4,355 |
-| Rage Concentrated | 16.00% | ~4,355 |
+| Wild Hunger | 16.00% | ~4,356 |
+| Rage Concentrated | 16.00% | ~4,356 |
 | Mountain King - III | 15.00% | ~4,083 |
 | Rare Warrior | 15.00% | ~4,083 |
 | Blood Madness | 13.00% | ~3,539 |
@@ -68,7 +68,7 @@ Diff (max vs sum): -29
 | Icy Incursion | 8.00% | ~2,178 |
 | Arachnophobia | 8.00% | ~2,178 |
 | Revealed Secrets - III | 8.00% | ~2,178 |
-| Nightmare of the Humanity - III | 7.00% | ~1,905 |
+| Nightmare of the Humanity - III | 7.00% | ~1,906 |
 | Means of Recovery | 6.00% | ~1,633 |
 | Master of Magic | 6.00% | ~1,633 |
 | Master of Destruction | 4.00% | ~1,089 |
@@ -86,7 +86,7 @@ Diff (max vs sum): -29
 | Unrivaled | 0.60% | ~163 |
 | Renowned Researcher | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,221 (Ranked 85)  
+Progressed: 27,223 (Ranked 85)  
 Completed: 14 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 14 (0.05%) (Ranked 164)
 | 2023-05-02 | 26,950 | 14 |
 | 2023-05-03 | 27,055 | 14 |
 | 2023-05-04 | 27,162 | 14 |
-| 2023-05-05 | 27,221 | 14 |
+| 2023-05-05 | 27,223 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

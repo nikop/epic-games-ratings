@@ -16,7 +16,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40046
+      "UsersEstimate": 40047
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -72,7 +72,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28032
+      "UsersEstimate": 28033
     },
     {
       "ID": "CHAPTER2",
@@ -384,7 +384,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28032
+      "UsersEstimate": 28033
     },
     {
       "ID": "SOUL",
@@ -1617,6 +1617,11 @@
       "Time": "2023-05-05T13:42:09.1580782+00:00",
       "NumProgressed": 400463,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-05T14:05:03.7169498+00:00",
+      "NumProgressed": 400467,
+      "NumCompleted": 29
     }
   ],
   "RatingHistory": [
@@ -1783,21 +1788,21 @@
   "TotalAchievements": 52,
   "LastUpdate_AppInfo": "2023-05-05T13:32:42.7728803+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2869,
+  "EOS_NewPlayers": 2873,
   "EOS_Completed": 29,
-  "EOS_Progressed": 400463,
-  "LastUpdate_Achievements": "2023-05-05T13:42:09.1581252+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:35:34.2314724+00:00",
+  "EOS_Progressed": 400467,
+  "LastUpdate_Achievements": "2023-05-05T14:05:03.7170002+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:58:53.4202218+00:00",
   "AchievementSets": [
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400463,
+      "Progressed": 400467,
       "Completed": 29
     }
   ],
   "EOS_Completed_Percentage": 0.01,
-  "LastChanged_Achievements": "2023-05-05T13:42:09.158077+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:03.7169493+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "Rating": 4.68,
   "Ranking_Rating": 234,

@@ -255,8 +255,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 3,
   "EOS_Progressed": 90,
-  "LastUpdate_Achievements": "2023-05-05T13:41:20.5879156+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:17.7732168+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:33.1698363+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:37.2121793+00:00",
   "AchievementSets": [
     {
       "ID": "bho0i1h",
@@ -266,12 +266,12 @@
     }
   ],
   "EOS_Completed_Percentage": 3.33,
-  "LastChanged_Achievements": "2023-05-05T13:41:20.5878972+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:33.1698138+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 38,
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-22T08:32:43.2662089+00:00",

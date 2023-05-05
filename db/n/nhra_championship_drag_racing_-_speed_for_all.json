@@ -300,8 +300,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 663,
-  "LastUpdate_Achievements": "2023-05-05T13:41:27.2219694+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:39.3515493+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:40.388353+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:58.6842273+00:00",
   "AchievementSets": [
     {
       "ID": "4n5bj21",
@@ -311,12 +311,12 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:27.2219436+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:40.3883263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-04T05:56:51.2215756+00:00",

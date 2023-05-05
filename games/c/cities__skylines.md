@@ -10,28 +10,28 @@ Diff (max vs sum): 35
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~500,040 |
-| Green Energy | 60.00% | ~422,569 |
-| Foggy Weather | 59.00% | ~415,526 |
-| Singing In The- | 59.00% | ~415,526 |
-| Unpopular Mayor | 41.00% | ~288,755 |
-| Power at Your Fingertips | 33.00% | ~232,413 |
-| City Planner | 23.00% | ~161,985 |
-| Rolling in Dough | 20.00% | ~140,856 |
-| Does My Bum Look Big In This? | 18.00% | ~126,771 |
-| Climbing the Social Ladder | 17.00% | ~119,728 |
-| Safe City | 14.00% | ~98,599 |
-| Quay-King | 11.00% | ~77,471 |
-| Lawmaker | 10.00% | ~70,428 |
-| With Canals You Can! | 10.00% | ~70,428 |
-| Nomen Est Omen | 7.00% | ~49,300 |
-| Well Informed | 6.00% | ~42,257 |
-| Fire Watch | 5.00% | ~35,214 |
-| Greenest City | 4.00% | ~28,171 |
-| Reporting! | 4.00% | ~28,171 |
-| Heavenly City | 3.00% | ~21,128 |
-| SIMulated City | 3.00% | ~21,128 |
-| The Safest Town | 3.00% | ~21,128 |
+| Pioneer | 71.00% | ~500,060 |
+| Green Energy | 60.00% | ~422,586 |
+| Foggy Weather | 59.00% | ~415,543 |
+| Singing In The- | 59.00% | ~415,543 |
+| Unpopular Mayor | 41.00% | ~288,767 |
+| Power at Your Fingertips | 33.00% | ~232,422 |
+| City Planner | 23.00% | ~161,991 |
+| Rolling in Dough | 20.00% | ~140,862 |
+| Does My Bum Look Big In This? | 18.00% | ~126,776 |
+| Climbing the Social Ladder | 17.00% | ~119,733 |
+| Safe City | 14.00% | ~98,603 |
+| Quay-King | 11.00% | ~77,474 |
+| Lawmaker | 10.00% | ~70,431 |
+| With Canals You Can! | 10.00% | ~70,431 |
+| Nomen Est Omen | 7.00% | ~49,302 |
+| Well Informed | 6.00% | ~42,259 |
+| Fire Watch | 5.00% | ~35,216 |
+| Greenest City | 4.00% | ~28,172 |
+| Reporting! | 4.00% | ~28,172 |
+| Heavenly City | 3.00% | ~21,129 |
+| SIMulated City | 3.00% | ~21,129 |
+| The Safest Town | 3.00% | ~21,129 |
 | City in Motion | 2.00% | ~14,086 |
 | Professional Dumper | 2.00% | ~14,086 |
 | Earthloving City | 1.00% | ~7,043 |
@@ -43,14 +43,14 @@ Diff (max vs sum): 35
 | Full Capacity | 0.60% | ~4,226 |
 | It's heading right for us! | 0.60% | ~4,226 |
 | The Waters of Our Lives | 0.60% | ~4,226 |
-| Airfield Expertise | 0.50% | ~3,521 |
-| Drop the Base | 0.50% | ~3,521 |
-| Get Your Snowshoes Ready! | 0.50% | ~3,521 |
-| Postman | 0.50% | ~3,521 |
-| Shake It Up! | 0.50% | ~3,521 |
-| Speed up! | 0.50% | ~3,521 |
-| Thunder and Lightning | 0.50% | ~3,521 |
-| Twist and shout | 0.50% | ~3,521 |
+| Airfield Expertise | 0.50% | ~3,522 |
+| Drop the Base | 0.50% | ~3,522 |
+| Get Your Snowshoes Ready! | 0.50% | ~3,522 |
+| Postman | 0.50% | ~3,522 |
+| Shake It Up! | 0.50% | ~3,522 |
+| Speed up! | 0.50% | ~3,522 |
+| Thunder and Lightning | 0.50% | ~3,522 |
+| Twist and shout | 0.50% | ~3,522 |
 | Airlifter | 0.40% | ~2,817 |
 | Airport Architect | 0.40% | ~2,817 |
 | Are They Naked In There? | 0.40% | ~2,817 |
@@ -130,7 +130,7 @@ Diff (max vs sum): 35
 | World of Rotorcraft | 0.10% | ~704 |
 | Z00 | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,281 (Ranked 13)  
+Progressed: 704,310 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-02 | 699,651 | 6 |
 | 2023-05-03 | 701,512 | 6 |
 | 2023-05-04 | 703,273 | 6 |
-| 2023-05-05 | 704,281 | 6 |
+| 2023-05-05 | 704,310 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

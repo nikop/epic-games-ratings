@@ -296,8 +296,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T13:41:22.7809286+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:40.7982401+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:35.2365371+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:56:58.6147986+00:00",
   "AchievementSets": [
     {
       "ID": "bepi5g1",
@@ -307,11 +307,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:22.7809045+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:35.2365129+00:00",
   "FirstSeenAchievements": "2023-04-29T09:59:46.73483+00:00",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "roboplant-5cc445"
 }

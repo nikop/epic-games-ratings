@@ -14,7 +14,7 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -70,7 +70,7 @@
       "ID": "flying_high",
       "SetID": "5anb57n",
       "Name": "Flying High",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -94,7 +94,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -118,7 +118,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -134,7 +134,7 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -142,7 +142,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -183,6 +183,11 @@
       "Time": "2023-05-05T08:05:34.9058476+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T14:04:45.4238537+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [],
@@ -190,25 +195,25 @@
   "TotalAchievements": 18,
   "LastUpdate_AppInfo": "2023-05-05T13:31:31.539692+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
-  "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T13:41:32.2729776+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:22.7722796+00:00",
+  "EOS_Progressed": 9,
+  "LastUpdate_Achievements": "2023-05-05T14:04:45.4238667+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:42.0869666+00:00",
   "AchievementSets": [
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:32.2729693+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:45.4238532+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0"
 }

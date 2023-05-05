@@ -2759,8 +2759,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 4,
   "EOS_Progressed": 1075,
-  "LastUpdate_Achievements": "2023-05-05T13:41:28.8319587+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:33:55.503755+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:42.0809333+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:14.8739711+00:00",
   "AchievementSets": [
     {
       "ID": "70p237j",
@@ -2770,7 +2770,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0.37,
-  "LastChanged_Achievements": "2023-05-05T13:41:28.8319208+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:42.0808872+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "Rating": 4.65,
   "Ranking_Rating": 290,
@@ -2779,7 +2779,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 106,
   "LastChanged": "2023-05-04T22:16:57.774322+00:00",
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "NumberOfRatings": 2847,
   "NumberOfAwards": 4592,
   "NumberOfAwardsMax": 1868,

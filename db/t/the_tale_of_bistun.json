@@ -340,8 +340,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T13:42:13.9708252+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:36:23.4042126+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:05:09.2658664+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:11.997751+00:00",
   "AchievementSets": [
     {
       "ID": "1kdk24p",
@@ -351,7 +351,7 @@
     }
   ],
   "EOS_Completed_Percentage": 8.33,
-  "LastChanged_Achievements": "2023-05-05T13:42:13.9707949+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:09.2658346+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 14,

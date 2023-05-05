@@ -586,8 +586,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T13:41:32.5064417+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:34.9358672+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:04:45.7277296+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:54.1152023+00:00",
   "AchievementSets": [
     {
       "ID": "9e2icc4",
@@ -597,7 +597,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:32.5063736+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:45.7276577+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6201537+00:00",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 191,

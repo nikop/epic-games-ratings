@@ -355,8 +355,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 843,
-  "LastUpdate_Achievements": "2023-05-05T13:42:11.8068572+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:36:13.9088461+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:05:06.3739068+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:02.7319259+00:00",
   "AchievementSets": [
     {
       "ID": "73ikgfc",
@@ -366,7 +366,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:42:11.8068422+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:06.3738906+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "Rating": 4.31,
   "Ranking_Rating": 747,
@@ -375,7 +375,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 191,
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",

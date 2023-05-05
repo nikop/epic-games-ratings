@@ -8,7 +8,7 @@
       "Name": "Powergamer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58005
+      "UsersEstimate": 58007
     },
     {
       "ID": "ACH_AON",
@@ -48,7 +48,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24540
+      "UsersEstimate": 24541
     },
     {
       "ID": "ACH_ENJOY",
@@ -72,7 +72,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26771
+      "UsersEstimate": 26772
     },
     {
       "ID": "ACH_HATTRICK",
@@ -152,7 +152,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 62467
+      "UsersEstimate": 62469
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -224,7 +224,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 53543
+      "UsersEstimate": 53544
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -328,7 +328,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 55774
+      "UsersEstimate": 55776
     },
     {
       "ID": "ACH_SOREAD",
@@ -416,7 +416,7 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     }
   ],
   "Tags": [
@@ -1592,6 +1592,11 @@
       "Time": "2023-05-05T13:41:25.9322841+00:00",
       "NumProgressed": 223095,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-05T14:04:39.047996+00:00",
+      "NumProgressed": 223102,
+      "NumCompleted": 5
     }
   ],
   "RatingHistory": [
@@ -1861,21 +1866,21 @@
   "TotalAchievements": 52,
   "LastUpdate_AppInfo": "2023-05-05T13:31:24.8021537+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1904,
+  "EOS_NewPlayers": 1911,
   "EOS_Completed": 5,
-  "EOS_Progressed": 223095,
-  "LastUpdate_Achievements": "2023-05-05T13:41:25.9323359+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:34:15.9112726+00:00",
+  "EOS_Progressed": 223102,
+  "LastUpdate_Achievements": "2023-05-05T14:04:39.0480505+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:57:35.4124296+00:00",
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 223095,
+      "Progressed": 223102,
       "Completed": 5
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:41:25.9322833+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:04:39.0479956+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "Rating": 4.33,
   "Ranking_Rating": 732,

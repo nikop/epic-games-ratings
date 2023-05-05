@@ -10,11 +10,11 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,485 |
-| The Three | 64.00% | ~332,712 |
-| The Banquet | 40.00% | ~207,945 |
-| Devara's Light | 30.00% | ~155,959 |
-| The Iron Ones | 18.00% | ~93,575 |
+| Find Sanctuary | 83.00% | ~431,488 |
+| The Three | 64.00% | ~332,714 |
+| The Banquet | 40.00% | ~207,946 |
+| Devara's Light | 30.00% | ~155,960 |
+| The Iron Ones | 18.00% | ~93,576 |
 | The Village | 16.00% | ~83,178 |
 | The Forest | 14.00% | ~72,781 |
 | Branded | 13.00% | ~67,582 |
@@ -24,9 +24,9 @@ Diff (max vs sum): 42
 | The Dome | 9.00% | ~46,788 |
 | The Red Hall | 9.00% | ~46,788 |
 | The Sacrifice | 8.00% | ~41,589 |
-| The Cave | 7.00% | ~36,390 |
-| The Stone Roots | 7.00% | ~36,390 |
-| The Ziggurat | 7.00% | ~36,390 |
+| The Cave | 7.00% | ~36,391 |
+| The Stone Roots | 7.00% | ~36,391 |
+| The Ziggurat | 7.00% | ~36,391 |
 | Storied | 6.00% | ~31,192 |
 | The Construct | 6.00% | ~31,192 |
 | The Mire | 6.00% | ~31,192 |
@@ -34,10 +34,10 @@ Diff (max vs sum): 42
 | The Alkymancery | 5.00% | ~25,993 |
 | The Lake | 5.00% | ~25,993 |
 | The Pitchwoods | 5.00% | ~25,993 |
-| Honed | 4.00% | ~20,794 |
-| The House of Splendor | 4.00% | ~20,794 |
-| The Crypt | 4.00% | ~20,794 |
-| The Palace | 4.00% | ~20,794 |
+| Honed | 4.00% | ~20,795 |
+| The House of Splendor | 4.00% | ~20,795 |
+| The Crypt | 4.00% | ~20,795 |
+| The Palace | 4.00% | ~20,795 |
 | Find Salvation | 3.00% | ~15,596 |
 | The Unspeakable Deep | 3.00% | ~15,596 |
 | Coastrock | 2.00% | ~10,397 |
@@ -48,7 +48,7 @@ Diff (max vs sum): 42
 | Wise Words | 2.00% | ~10,397 |
 | Fading Fast | 1.00% | ~5,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,862 (Ranked 23)  
+Progressed: 519,865 (Ranked 23)  
 Completed: 1,397 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1,397 (0.27%) (Ranked 123)
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
 | 2023-05-04 | 519,799 | 1,396 |
-| 2023-05-05 | 519,862 | 1,397 |
+| 2023-05-05 | 519,865 | 1,397 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

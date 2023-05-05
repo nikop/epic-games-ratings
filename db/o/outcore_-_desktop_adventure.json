@@ -232,8 +232,8 @@
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T13:42:10.0235361+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:36:12.6559269+00:00",
+  "LastUpdate_Achievements": "2023-05-05T14:05:04.5316741+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:59:01.5950031+00:00",
   "AchievementSets": [
     {
       "ID": "7ejh407",
@@ -243,11 +243,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged_Achievements": "2023-05-05T13:42:10.023517+00:00",
+  "LastChanged_Achievements": "2023-05-05T14:05:04.5316533+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "outcore-desktop-adventure-eb3aff"
 }
