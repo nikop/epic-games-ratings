@@ -110,7 +110,11 @@ if (!skipOffers)
                 await gameIndex.RenameItem(item).ConfigureAwait(false);
             }
 
-            item.ProductSlug = baseAppOffer.productSlug;
+            if (baseAppOffer.productSlug != item.ProductSlug)
+            {
+                item.ProductSlug = baseAppOffer.productSlug;
+                requiresSave = true;
+            }
         }
 
         if (requiresSave)
