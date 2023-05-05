@@ -1,4 +1,5 @@
 # A Hero's Rest
+[Store](https://store.epicgames.com/en-US/p/a-heros-rest-67f117)  
 [View Rawdata](../../db/a/a_hero's_rest.json)  
 ## Achievements
 | Name | Percentage | Users |

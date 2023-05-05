@@ -32,7 +32,7 @@
       "Name": "Chunin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8230
+      "UsersEstimate": 8231
     },
     {
       "ID": "CompleteMastery",
@@ -64,7 +64,7 @@
       "Name": "Flying Rocks",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "GearUp",
@@ -72,7 +72,7 @@
       "Name": "Gear up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "Genin",
@@ -80,7 +80,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16461
+      "UsersEstimate": 16462
     },
     {
       "ID": "HappyLittleAccidents",
@@ -88,7 +88,7 @@
       "Name": "Happy little accidents",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "HappyPlanning",
@@ -96,7 +96,7 @@
       "Name": "Happy Planning",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "HighFiveTheMoon",
@@ -112,7 +112,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8230
+      "UsersEstimate": 8231
     },
     {
       "ID": "ItsRainingMen",
@@ -160,7 +160,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "NoGimmicks",
@@ -176,7 +176,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "Okkoto",
@@ -184,7 +184,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "OldMan",
@@ -208,7 +208,7 @@
       "Name": "Prisoners",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "ReleaseTheKraken",
@@ -240,7 +240,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "Stoned",
@@ -256,7 +256,7 @@
       "Name": "Stoned Ox",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8230
+      "UsersEstimate": 8231
     },
     {
       "ID": "TanukiTime",
@@ -320,7 +320,7 @@
       "Name": "Too Early",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "Warzone",
@@ -328,7 +328,7 @@
       "Name": "Warzone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -352,7 +352,7 @@
       "Name": "Yabu",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8230
+      "UsersEstimate": 8231
     }
   ],
   "Tags": [
@@ -1608,6 +1608,11 @@
       "Time": "2023-05-05T13:10:47.2857362+00:00",
       "NumProgressed": 164609,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T13:41:42.7061302+00:00",
+      "NumProgressed": 164617,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -2548,36 +2553,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T13:10:47.2857356+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:15.7425296+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2248,
+  "EOS_NewPlayers": 2239,
   "EOS_Completed": 41,
-  "EOS_Progressed": 164609,
-  "LastUpdate_Achievements": "2023-05-05T13:10:47.2857826+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:47.1518494+00:00",
+  "EOS_Progressed": 164617,
+  "LastUpdate_Achievements": "2023-05-05T13:41:42.7061724+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:08.3806259+00:00",
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164609,
+      "Progressed": 164617,
       "Completed": 41
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
-  "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 547,
-  "NumberOfAwards": 4646,
-  "NumberOfRatings": 495,
-  "Ranking_EOS_NewCompleters": 49,
-  "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_Progress": 50,
-  "Ranking_PopularitySum": 125,
-  "Ranking_Popularity": 173,
-  "Ranking_Rating": 272,
-  "Rating": 4.66,
+  "LastChanged_Achievements": "2023-05-05T13:41:42.7061294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
+  "Rating": 4.66,
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 173,
+  "Ranking_PopularitySum": 125,
+  "Ranking_EOS_Progress": 50,
+  "Ranking_EOS_Completed": 175,
+  "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
+  "Ranking_EOS_NewPlayers": 31,
+  "NumberOfRatings": 495,
+  "NumberOfAwards": 4646,
+  "NumberOfAwardsMax": 547,
+  "MaxAwardTitle": "Great for Beginners",
+  "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
+  "Ranking_EOS_NewCompleters": 48,
   "ProductSlug": "shadow-tactics/home"
 }

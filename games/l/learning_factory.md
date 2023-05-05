@@ -1,4 +1,5 @@
 # Learning Factory
+[Store](https://store.epicgames.com/en-US/p/learning-factory-4d2213)  
 [View Rawdata](../../db/l/learning_factory.json)  
 ## Achievements
 | Name | Percentage | Users |

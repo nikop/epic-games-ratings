@@ -1,4 +1,5 @@
 # A Game Of Thrones: The Board Game Digital Edition
+[Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
 Rating: 4.20 (Ranked 802)  
 Number of Ratings: 2,500  (23.09.2022)  
@@ -9,30 +10,30 @@ Diff (max vs sum): 51
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~4,423 |
-| Battering Crew | 21.00% | ~2,322 |
-| The Kingsroad | 19.00% | ~2,101 |
+| Conqueror | 40.00% | ~4,425 |
+| Battering Crew | 21.00% | ~2,323 |
+| The Kingsroad | 19.00% | ~2,102 |
 | Well Stocked | 15.00% | ~1,659 |
-| Royal Fleet | 14.00% | ~1,548 |
+| Royal Fleet | 14.00% | ~1,549 |
 | The Kraken’s Grasp | 10.00% | ~1,106 |
-| Daggers in the Dark | 9.00% | ~995 |
-| Alliance | 9.00% | ~995 |
-| A Long Journey | 9.00% | ~995 |
+| Daggers in the Dark | 9.00% | ~996 |
+| Alliance | 9.00% | ~996 |
+| A Long Journey | 9.00% | ~996 |
 | Winter is Coming | 8.00% | ~885 |
 | Oathkeeper | 8.00% | ~885 |
 | Influential | 8.00% | ~885 |
 | Ours is the Fury | 7.00% | ~774 |
 | We Do Not Sow | 7.00% | ~774 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~663 |
-| Growing Strong | 6.00% | ~663 |
-| Hear me Roar! | 6.00% | ~663 |
-| Defender of the Wall | 6.00% | ~663 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~664 |
+| Growing Strong | 6.00% | ~664 |
+| Hear me Roar! | 6.00% | ~664 |
+| Defender of the Wall | 6.00% | ~664 |
 | What is Dead may Never Die | 4.00% | ~442 |
 | The Swift | 3.00% | ~332 |
 | King in the North | 2.00% | ~221 |
 | War of the Five Kings | 1.00% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,057 (Ranked 102)  
+Progressed: 11,062 (Ranked 102)  
 Completed: 23 (0.21%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +48,7 @@ Completed: 23 (0.21%) (Ranked 129)
 | 2023-05-02 | 10,803 | 22 |
 | 2023-05-03 | 10,920 | 23 |
 | 2023-05-04 | 11,017 | 23 |
-| 2023-05-05 | 11,057 | 23 |
+| 2023-05-05 | 11,062 | 23 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

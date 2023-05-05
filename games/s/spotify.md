@@ -1,4 +1,5 @@
 # Spotify
+[Store](https://store.epicgames.com/en-US/p/spotify)  
 [View Rawdata](../../db/s/spotify.json)  
 ## Achievements
 | Name | Percentage | Users |

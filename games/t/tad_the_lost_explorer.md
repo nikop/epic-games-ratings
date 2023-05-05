@@ -1,4 +1,5 @@
 # Tad the Lost Explorer
+[Store](https://store.epicgames.com/en-US/p/tad-the-lost-explorer-590c8e)  
 [View Rawdata](../../db/t/tad_the_lost_explorer.json)  
 ## Achievements
 | Name | Percentage | Users |

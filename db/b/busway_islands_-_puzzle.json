@@ -436,13 +436,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T13:10:30.8225044+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:09.7741977+00:00",
   "EOS_NewCompleters": 6,
   "EOS_NewPlayers": 22,
   "EOS_Completed": 6,
   "EOS_Progressed": 25,
-  "LastUpdate_Achievements": "2023-05-05T13:10:30.8225348+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:10.1931559+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:30.7533175+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:00.8680141+00:00",
   "AchievementSets": [
     {
       "ID": "dlpjnee",
@@ -452,14 +452,16 @@
     }
   ],
   "EOS_Completed_Percentage": 24,
-  "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
-  "FirstSeen": "2023-04-30T05:57:09.5836606+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 28,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_Completed": 3,
+  "LastChanged_Achievements": "2023-05-05T13:41:30.7532909+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "Ranking_EOS_Progress": 286,
-  "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00"
+  "Ranking_EOS_Completed": 3,
+  "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
+  "Ranking_EOS_NewPlayers": 151,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-30T05:57:09.5836606+00:00",
+  "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
+  "Ranking_EOS_NewCompleters": 28,
+  "ProductSlug": "busway-islands-puzzle-91287d"
 }

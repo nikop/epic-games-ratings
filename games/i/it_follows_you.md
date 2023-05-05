@@ -1,4 +1,5 @@
 # It follows you
+[Store](https://store.epicgames.com/en-US/p/it-follows-you-b11f3e)  
 [View Rawdata](../../db/i/it_follows_you.json)  
 ## Achievements
 | Name | Percentage | Users |

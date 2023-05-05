@@ -1,4 +1,5 @@
 # Cursed Castilla (Maldita Castilla EX)
+[Store](https://store.epicgames.com/en-US/p/cursed-castilla-maldita-castilla-ex-adaa43)  
 [View Rawdata](../../db/c/cursed_castilla_(maldita_castilla_ex).json)  
 ## Achievements
 | Name | Percentage | Users |

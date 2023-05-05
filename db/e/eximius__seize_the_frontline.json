@@ -16,7 +16,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130086
+      "UsersEstimate": 130093
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24,7 +24,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9161
+      "UsersEstimate": 9162
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -40,7 +40,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 32980
+      "UsersEstimate": 32981
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -88,7 +88,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9161
+      "UsersEstimate": 9162
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -112,7 +112,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -128,7 +128,7 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9161
+      "UsersEstimate": 9162
     }
   ],
   "Tags": [],
@@ -1277,6 +1277,11 @@
       "Time": "2023-05-05T13:10:59.5728226+00:00",
       "NumProgressed": 183220,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T13:42:11.4036876+00:00",
+      "NumProgressed": 183230,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1477,35 +1482,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T13:10:59.5728217+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:54.5330803+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1262,
+  "EOS_NewPlayers": 1259,
   "EOS_Completed": 4,
-  "EOS_Progressed": 183220,
-  "LastUpdate_Achievements": "2023-05-05T13:10:59.5728438+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:46.4180878+00:00",
+  "EOS_Progressed": 183230,
+  "LastUpdate_Achievements": "2023-05-05T13:42:11.4037074+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:36:16.0767374+00:00",
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183220,
+      "Progressed": 183230,
       "Completed": 4
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-01T19:59:20.8642488+00:00",
-  "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
-  "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 49,
-  "Ranking_PopularitySum": 490,
-  "Ranking_Popularity": 490,
-  "Ranking_Rating": 814,
-  "Rating": 4.19,
+  "LastChanged_Achievements": "2023-05-05T13:42:11.403687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
+  "Rating": 4.19,
+  "Ranking_Rating": 814,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 49,
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-05-01T19:59:20.8642488+00:00",
+  "Ranking_EOS_NewPlayers": 43,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
+  "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "eximius-seize-the-frontline"
 }

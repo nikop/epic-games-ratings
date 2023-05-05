@@ -7,16 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:31:34.0450134+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:05:53.9836715+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:45.8182538+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:38:08.060713+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:25.4688391+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "outlive-e2f5b1"
 }

@@ -1,4 +1,5 @@
 # Stygian: Reign of the Old Ones
+[Store](https://store.epicgames.com/en-US/p/stygian-reign-of-the-old-ones-56e1d7)  
 [View Rawdata](../../db/s/stygian__reign_of_the_old_ones.json)  
 Rating: 3.85 (Ranked 902)  
 ## Achievements

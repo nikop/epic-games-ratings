@@ -1,4 +1,5 @@
 # Battle Chess
+[Store](https://store.epicgames.com/en-US/p/battle-chess-83c4f8)  
 [View Rawdata](../../db/b/battle_chess.json)  
 ## Achievements
 | Name | Percentage | Users |

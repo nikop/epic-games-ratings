@@ -1,4 +1,5 @@
 # Aspire Inas Tale
+[Store](https://store.epicgames.com/en-US/p/aspire-inas-tale-f77a17)  
 [View Rawdata](../../db/a/aspire_inas_tale.json)  
 ## Achievements
 | Name | Percentage | Users |

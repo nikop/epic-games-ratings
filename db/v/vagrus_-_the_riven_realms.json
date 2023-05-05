@@ -823,13 +823,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 99,
-  "LastChanged_Achievements": "2023-05-05T13:10:17.4934951+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:07.2621849+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 52,
-  "LastUpdate_Achievements": "2023-05-05T13:10:17.4936294+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:34.7875359+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:20.9991784+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:59.6929662+00:00",
   "AchievementSets": [
     {
       "ID": "27kik8p",
@@ -839,14 +839,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
-  "FirstSeen": "2023-04-05T05:57:43.4826649+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:41:20.9990551+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "Ranking_EOS_Progress": 271,
-  "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
+  "Ranking_EOS_NewPlayers": 232,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-05T05:57:43.4826649+00:00",
+  "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "vagrus-the-riven-realms-c635d5"
 }

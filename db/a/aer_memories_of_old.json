@@ -8,7 +8,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16,7 +16,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "EAST_FINISHED",
@@ -48,7 +48,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -72,7 +72,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "FOUND_ERIN",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6492
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -136,7 +136,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1279,6 +1279,11 @@
       "Time": "2023-05-05T13:11:09.6061281+00:00",
       "NumProgressed": 8540,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T13:42:18.7970301+00:00",
+      "NumProgressed": 8542,
+      "NumCompleted": 195
     }
   ],
   "RatingHistory": [
@@ -1628,35 +1633,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T13:11:09.6061273+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:16.9789399+00:00",
   "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 602,
   "EOS_Completed": 195,
-  "EOS_Progressed": 8540,
-  "LastUpdate_Achievements": "2023-05-05T13:11:09.6061543+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:20.6530257+00:00",
+  "EOS_Progressed": 8542,
+  "LastUpdate_Achievements": "2023-05-05T13:42:18.7970517+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:23.9208776+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8540,
+      "Progressed": 8542,
       "Completed": 195
     }
   ],
   "EOS_Completed_Percentage": 2.28,
-  "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "NumberOfRatings": 170,
-  "Ranking_EOS_NewCompleters": 14,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_Progress": 108,
-  "Ranking_PopularitySum": 490,
-  "Ranking_Popularity": 490,
-  "Ranking_Rating": 599,
-  "Rating": 4.45,
+  "LastChanged_Achievements": "2023-05-05T13:42:18.7970294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
+  "Rating": 4.45,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 108,
+  "Ranking_EOS_Completed": 54,
+  "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
+  "Ranking_EOS_NewPlayers": 71,
+  "NumberOfRatings": 170,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
+  "Ranking_EOS_NewCompleters": 14,
   "ProductSlug": "aer-memories-of-old"
 }

@@ -151,13 +151,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T13:11:06.2300889+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:06.1900908+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 240,
-  "LastUpdate_Achievements": "2023-05-05T13:11:06.2301022+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:04.3575608+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:16.4237344+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:08.8451562+00:00",
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
@@ -167,14 +167,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0.83,
-  "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
-  "FirstSeen": "2022-11-21T13:29:30.1037433+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_Completed": 85,
+  "LastChanged_Achievements": "2023-05-05T13:42:16.4237223+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "Ranking_EOS_Progress": 216,
-  "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00"
+  "Ranking_EOS_Completed": 85,
+  "LastChanged": "2023-03-31T05:57:25.658507+00:00",
+  "Ranking_EOS_NewPlayers": 232,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-11-21T13:29:30.1037433+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "i-saw-black-clouds-67008d"
 }

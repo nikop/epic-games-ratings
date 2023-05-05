@@ -10,19 +10,19 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,671 |
-| That's a Grand Army | 8.00% | ~2,375 |
-| That is mine! | 8.00% | ~2,375 |
-| Victorious! | 8.00% | ~2,375 |
-| Brothers in Arms | 6.00% | ~1,781 |
-| That's a Grand Navy | 6.00% | ~1,781 |
-| Seriously?! | 6.00% | ~1,781 |
-| For the Glory | 5.00% | ~1,484 |
-| Cold War | 4.00% | ~1,187 |
-| Defender of the Faith | 3.00% | ~890 |
-| It's all about the money | 3.00% | ~890 |
-| Respected | 3.00% | ~890 |
-| True Catholic | 3.00% | ~890 |
+| Until death do us apart | 9.00% | ~2,675 |
+| That's a Grand Army | 8.00% | ~2,378 |
+| That is mine! | 8.00% | ~2,378 |
+| Victorious! | 8.00% | ~2,378 |
+| Brothers in Arms | 6.00% | ~1,783 |
+| That's a Grand Navy | 6.00% | ~1,783 |
+| Seriously?! | 6.00% | ~1,783 |
+| For the Glory | 5.00% | ~1,486 |
+| Cold War | 4.00% | ~1,189 |
+| Defender of the Faith | 3.00% | ~892 |
+| It's all about the money | 3.00% | ~892 |
+| Respected | 3.00% | ~892 |
+| True Catholic | 3.00% | ~892 |
 | Blockader | 2.00% | ~594 |
 | Combined Arms | 2.00% | ~594 |
 | Double the Love | 2.00% | ~594 |
@@ -39,17 +39,17 @@ Diff (max vs sum): 34
 | Factionalism | 1.00% | ~297 |
 | A Golden Empire | 1.00% | ~297 |
 | My armies are invincible! | 1.00% | ~297 |
-| All That's Thine Shall Be Mine | 0.90% | ~267 |
-| City of Cities | 0.90% | ~267 |
+| All That's Thine Shall Be Mine | 0.90% | ~268 |
+| City of Cities | 0.90% | ~268 |
 | Isn't this the way to India? | 0.70% | ~208 |
 | The Five Colonies | 0.70% | ~208 |
 | The Emperors new clothes | 0.60% | ~178 |
 | Market Control | 0.60% | ~178 |
-| Down Under | 0.50% | ~148 |
-| Electable! | 0.50% | ~148 |
-| This navy can take it all | 0.50% | ~148 |
-| Time Bandit | 0.50% | ~148 |
-| Trustworthy | 0.50% | ~148 |
+| Down Under | 0.50% | ~149 |
+| Electable! | 0.50% | ~149 |
+| This navy can take it all | 0.50% | ~149 |
+| Time Bandit | 0.50% | ~149 |
+| Trustworthy | 0.50% | ~149 |
 | All belongs to Mother Russia | 0.40% | ~119 |
 | At every continent | 0.40% | ~119 |
 | Early-Modern Warfare | 0.40% | ~119 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,683 (Ranked 82)  
+Progressed: 29,724 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,683 | 0 |
+| 2023-05-05 | 29,724 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

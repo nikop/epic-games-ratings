@@ -1,4 +1,5 @@
 # Banished
+[Store](https://store.epicgames.com/en-US/p/banished-a8eee5)  
 [View Rawdata](../../db/b/banished.json)  
 Rating: 4.00 (Ranked 878)  
 ## Achievements

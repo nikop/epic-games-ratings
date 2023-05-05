@@ -267,13 +267,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-05T13:10:53.571269+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:37.1533675+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 13,
-  "LastUpdate_Achievements": "2023-05-05T13:10:53.5712942+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:19.4012343+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:06.9688109+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:28.9818712+00:00",
   "AchievementSets": [
     {
       "ID": "dkj0bmo",
@@ -283,9 +283,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:42:06.9687877+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00",
   "Ranking_EOS_Progress": 299,
-  "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00"
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "dont-byte-your-tongue-da237b"
 }

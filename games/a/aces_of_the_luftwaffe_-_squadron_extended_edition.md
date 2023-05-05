@@ -1,4 +1,5 @@
 # Aces of the Luftwaffe - Squadron Extended Edition
+[Store](https://store.epicgames.com/en-US/p/aces-of-the-luftwaffe-squadron-97086d)  
 [View Rawdata](../../db/a/aces_of_the_luftwaffe_-_squadron_extended_edition.json)  
 ## Achievements
 | Name | Percentage | Users |

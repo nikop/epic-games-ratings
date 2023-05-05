@@ -1,4 +1,5 @@
 # Maritime Calling
+[Store](https://store.epicgames.com/en-US/p/maritime-calling-636728)  
 [View Rawdata](../../db/m/maritime_calling.json)  
 ## Achievements
 | Name | Percentage | Users |

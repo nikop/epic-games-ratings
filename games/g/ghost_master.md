@@ -1,4 +1,5 @@
 # Ghost Master
+[Store](https://store.epicgames.com/en-US/p/ghost-master-2-7b7040)  
 [View Rawdata](../../db/g/ghost_master.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # BloodRayne 2: Terminal Cut
+[Store](https://store.epicgames.com/en-US/p/bloodrayne-2-terminal-cut-a5d9d4)  
 [View Rawdata](../../db/b/bloodrayne_2__terminal_cut.json)  
 ## Achievements
 | Name | Percentage | Users |

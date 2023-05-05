@@ -7,16 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:32:22.0184769+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:08:38.0733795+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:57.3832593+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:40:12.3734719+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:15.1584926+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "lord-of-midchester-941d6d"
 }

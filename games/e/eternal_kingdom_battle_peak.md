@@ -1,4 +1,5 @@
 # Eternal Kingdom Battle Peak
+[Store](https://store.epicgames.com/en-US/p/eternal-d70f99)  
 [View Rawdata](../../db/e/eternal_kingdom_battle_peak.json)  
 ## Achievements
 | Name | Percentage | Users |

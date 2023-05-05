@@ -146,13 +146,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T13:10:24.7094365+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:14.0008197+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 3,
   "EOS_Progressed": 22,
-  "LastUpdate_Achievements": "2023-05-05T13:10:24.7094513+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:16.5633378+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:26.2136294+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:05.0792613+00:00",
   "AchievementSets": [
     {
       "ID": "dhjj31a",
@@ -162,14 +162,16 @@
     }
   ],
   "EOS_Completed_Percentage": 13.64,
-  "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
-  "FirstSeen": "2023-01-14T19:57:38.3223462+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 7,
+  "LastChanged_Achievements": "2023-05-05T13:41:26.2136178+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "Ranking_EOS_Progress": 290,
-  "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00"
+  "Ranking_EOS_Completed": 7,
+  "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-01-14T19:57:38.3223462+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7"
 }

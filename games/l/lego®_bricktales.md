@@ -1,4 +1,5 @@
 # LEGO® Bricktales
+[Store](https://store.epicgames.com/en-US/p/lego-bricktales-7ccf9b)  
 [View Rawdata](../../db/l/lego®_bricktales.json)  
 Rating: 4.70 (Ranked 192)  
 ## Achievements

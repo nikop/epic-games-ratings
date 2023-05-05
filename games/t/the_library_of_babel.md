@@ -1,4 +1,5 @@
 # The Library of Babel
+[Store](https://store.epicgames.com/en-US/p/library-of-babel-7cedb5)  
 [View Rawdata](../../db/t/the_library_of_babel.json)  
 ## Achievements
 | Name | Percentage | Users |

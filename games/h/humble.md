@@ -1,4 +1,5 @@
 # Humble
+[Store](https://store.epicgames.com/en-US/p/humble)  
 [View Rawdata](../../db/h/humble.json)  
 ## Achievements
 | Name | Percentage | Users |

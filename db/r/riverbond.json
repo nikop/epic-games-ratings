@@ -8,7 +8,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 118580
+      "UsersEstimate": 118581
     },
     {
       "ID": "10",
@@ -16,7 +16,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 232005
+      "UsersEstimate": 232006
     },
     {
       "ID": "11",
@@ -24,7 +24,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 360897
+      "UsersEstimate": 360898
     },
     {
       "ID": "12",
@@ -304,7 +304,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87646
+      "UsersEstimate": 87647
     },
     {
       "ID": "44",
@@ -344,7 +344,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 103113
+      "UsersEstimate": 103114
     },
     {
       "ID": "49",
@@ -368,7 +368,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 72179
+      "UsersEstimate": 72180
     },
     {
       "ID": "51",
@@ -392,7 +392,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 118580
+      "UsersEstimate": 118581
     },
     {
       "ID": "54",
@@ -1585,6 +1585,11 @@
       "Time": "2023-05-05T13:10:33.9781442+00:00",
       "NumProgressed": 515567,
       "NumCompleted": 400
+    },
+    {
+      "Time": "2023-05-05T13:41:33.0497695+00:00",
+      "NumProgressed": 515568,
+      "NumCompleted": 400
     }
   ],
   "RatingHistory": [
@@ -2045,34 +2050,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-05T13:10:33.9781433+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:30:56.0140399+00:00",
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 743,
   "EOS_Completed": 400,
-  "EOS_Progressed": 515567,
-  "LastUpdate_Achievements": "2023-05-05T13:10:33.9782081+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:01:48.7028053+00:00",
+  "EOS_Progressed": 515568,
+  "LastUpdate_Achievements": "2023-05-05T13:41:33.0498192+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:33:47.1068267+00:00",
   "AchievementSets": [
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 515567,
+      "Progressed": 515568,
       "Completed": 400
     }
   ],
   "EOS_Completed_Percentage": 0.08,
-  "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "NumberOfRatings": 617,
-  "Ranking_EOS_NewCompleters": 28,
-  "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_Progress": 24,
-  "Ranking_PopularitySum": 490,
-  "Ranking_Popularity": 490,
-  "Ranking_Rating": 574,
+  "LastChanged_Achievements": "2023-05-05T13:41:33.0497692+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "Rating": 4.47,
-  "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00"
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 24,
+  "Ranking_EOS_Completed": 157,
+  "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
+  "Ranking_EOS_NewPlayers": 64,
+  "NumberOfRatings": 617,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
+  "Ranking_EOS_NewCompleters": 28,
+  "ProductSlug": "riverbond-782aa4"
 }

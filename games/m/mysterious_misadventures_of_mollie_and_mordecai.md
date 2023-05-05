@@ -1,4 +1,5 @@
 # Mysterious Misadventures of Mollie and Mordecai
+[Store](https://store.epicgames.com/en-US/p/mysterious-misadventures-of-mollie-and-mordecai-daa4a1)  
 [View Rawdata](../../db/m/mysterious_misadventures_of_mollie_and_mordecai.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -129,13 +129,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-05T13:10:17.9889175+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:05.010886+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 4,
   "EOS_Completed": 2,
   "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-05T13:10:17.9889301+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:31.6006937+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:21.2240164+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:57.4602834+00:00",
   "AchievementSets": [
     {
       "ID": "acl54ke",
@@ -151,14 +151,16 @@
     }
   ],
   "EOS_Completed_Percentage": 3.77,
-  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
-  "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_Completed": 33,
+  "LastChanged_Achievements": "2023-05-05T13:41:21.2240065+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "Ranking_EOS_Progress": 269,
-  "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00"
+  "Ranking_EOS_Completed": 33,
+  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
+  "Ranking_EOS_NewPlayers": 197,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "the-case-of-the-golden-idol-ce58f7"
 }

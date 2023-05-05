@@ -1,4 +1,5 @@
 # Queens Wish: The Conqueror
+[Store](https://store.epicgames.com/en-US/p/queens-wish-the-conqueror-70494a)  
 [View Rawdata](../../db/q/queens_wish__the_conqueror.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,6 +1,7 @@
 # Baldur's Gate Dark Alliance II
+[Store](https://store.epicgames.com/en-US/p/baldurs-gate-dark-alliance-2-14db6b)  
 [View Rawdata](../../db/b/baldur's_gate_dark_alliance_ii.json)  
-Rating: 4.38 (Ranked 687)  
+Rating: 4.38 (Ranked 688)  
 Number of Ratings: 31  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

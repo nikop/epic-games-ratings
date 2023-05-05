@@ -10,55 +10,55 @@ Diff (max vs sum): 19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death From Above | 47.00% | ~596,810 |
-| Unseen Assassin | 46.00% | ~584,112 |
-| Master of the Household | 39.00% | ~495,226 |
-| Death of the Party | 37.00% | ~469,829 |
-| NEXUS-47 | 34.00% | ~431,735 |
-| The Last Tango | 32.00% | ~406,339 |
-| Nightmare Fuel | 31.00% | ~393,641 |
-| The Result of Previous Training | 28.00% | ~355,547 |
-| Tools of the Trade | 28.00% | ~355,547 |
-| Cleared for Field Duty | 27.00% | ~342,848 |
-| Seizing the Opportunity | 25.00% | ~317,452 |
-| Bullet Train | 22.00% | ~279,358 |
-| Stylish Assassin | 19.00% | ~241,264 |
-| Silent Assassin | 14.00% | ~177,773 |
-| Rise Up | 13.00% | ~165,075 |
-| Evil Wine Club | 12.00% | ~152,377 |
-| Console Cowboy | 10.00% | ~126,981 |
-| Last Stop | 10.00% | ~126,981 |
-| A New Profile | 9.00% | ~114,283 |
-| Full House | 9.00% | ~114,283 |
-| Dune Raider | 8.00% | ~101,585 |
-| No Stone Unturned | 8.00% | ~101,585 |
-| Train Surfing | 8.00% | ~101,585 |
+| Death From Above | 47.00% | ~596,816 |
+| Unseen Assassin | 46.00% | ~584,118 |
+| Master of the Household | 39.00% | ~495,230 |
+| Death of the Party | 37.00% | ~469,834 |
+| NEXUS-47 | 34.00% | ~431,739 |
+| The Last Tango | 32.00% | ~406,343 |
+| Nightmare Fuel | 31.00% | ~393,645 |
+| The Result of Previous Training | 28.00% | ~355,550 |
+| Tools of the Trade | 28.00% | ~355,550 |
+| Cleared for Field Duty | 27.00% | ~342,852 |
+| Seizing the Opportunity | 25.00% | ~317,455 |
+| Bullet Train | 22.00% | ~279,361 |
+| Stylish Assassin | 19.00% | ~241,266 |
+| Silent Assassin | 14.00% | ~177,775 |
+| Rise Up | 13.00% | ~165,077 |
+| Evil Wine Club | 12.00% | ~152,379 |
+| Console Cowboy | 10.00% | ~126,982 |
+| Last Stop | 10.00% | ~126,982 |
+| A New Profile | 9.00% | ~114,284 |
+| Full House | 9.00% | ~114,284 |
+| Dune Raider | 8.00% | ~101,586 |
+| No Stone Unturned | 8.00% | ~101,586 |
+| Train Surfing | 8.00% | ~101,586 |
 | Family Feud | 7.00% | ~88,887 |
 | Icebreaker | 7.00% | ~88,887 |
 | Rich Harvest | 6.00% | ~76,189 |
 | Count Down From 47 | 6.00% | ~76,189 |
-| Shortcut Killer | 5.00% | ~63,490 |
-| Treacherous Architecture | 5.00% | ~63,490 |
-| Stair Master | 5.00% | ~63,490 |
-| Followed the Trails | 5.00% | ~63,490 |
-| Last Call | 5.00% | ~63,490 |
-| Upstairs, Downstairs | 4.00% | ~50,792 |
-| The Great Outdoors | 4.00% | ~50,792 |
-| Partied Out | 4.00% | ~50,792 |
-| Surveillance Master | 4.00% | ~50,792 |
-| Hack the Planet | 4.00% | ~50,792 |
-| Training Escalated | 3.00% | ~38,094 |
-| Keep Your Eyes Peeled | 3.00% | ~38,094 |
-| Warehouse Veteran | 3.00% | ~38,094 |
-| Future Shock | 3.00% | ~38,094 |
-| Master the Terroir | 3.00% | ~38,094 |
-| Vineyard Virtuoso | 3.00% | ~38,094 |
+| Shortcut Killer | 5.00% | ~63,491 |
+| Treacherous Architecture | 5.00% | ~63,491 |
+| Stair Master | 5.00% | ~63,491 |
+| Followed the Trails | 5.00% | ~63,491 |
+| Last Call | 5.00% | ~63,491 |
+| Upstairs, Downstairs | 4.00% | ~50,793 |
+| The Great Outdoors | 4.00% | ~50,793 |
+| Partied Out | 4.00% | ~50,793 |
+| Surveillance Master | 4.00% | ~50,793 |
+| Hack the Planet | 4.00% | ~50,793 |
+| Training Escalated | 3.00% | ~38,095 |
+| Keep Your Eyes Peeled | 3.00% | ~38,095 |
+| Warehouse Veteran | 3.00% | ~38,095 |
+| Future Shock | 3.00% | ~38,095 |
+| Master the Terroir | 3.00% | ~38,095 |
+| Vineyard Virtuoso | 3.00% | ~38,095 |
 | Bird Art | 2.00% | ~25,396 |
 | Top of the Class | 1.00% | ~12,698 |
 | Ripe for the Picking | 1.00% | ~12,698 |
 | The Creative Assassin | 0.70% | ~8,889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269,809 (Ranked 8)  
+Progressed: 1,269,821 (Ranked 8)  
 Completed: 2,058 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 2,058 (0.16%) (Ranked 136)
 | 2023-05-02 | 1,268,915 | 2,056 |
 | 2023-05-03 | 1,269,248 | 2,057 |
 | 2023-05-04 | 1,269,621 | 2,058 |
-| 2023-05-05 | 1,269,809 | 2,058 |
+| 2023-05-05 | 1,269,821 | 2,058 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Itch.io
+[Store](https://store.epicgames.com/en-US/p/itch-io)  
 [View Rawdata](../../db/i/itch.io.json)  
 ## Achievements
 | Name | Percentage | Users |

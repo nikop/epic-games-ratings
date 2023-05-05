@@ -1,4 +1,5 @@
 # Shadow Gangs
+[Store](https://store.epicgames.com/en-US/p/shadow-gangs-0ce20b)  
 [View Rawdata](../../db/s/shadow_gangs.json)  
 ## Achievements
 | Name | Percentage | Users |

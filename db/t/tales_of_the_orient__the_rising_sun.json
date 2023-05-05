@@ -154,13 +154,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T13:10:10.9874709+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:55.1952056+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T13:10:10.987484+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:47.3653674+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:16.2022311+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:36:16.7834025+00:00",
   "AchievementSets": [
     {
       "ID": "c5idb6k",
@@ -170,14 +170,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
-  "FirstSeen": "2023-04-15T20:58:43.6104353+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:41:16.2022182+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "Ranking_EOS_Progress": 301,
-  "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
+  "Ranking_EOS_NewPlayers": 232,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-15T20:58:43.6104353+00:00",
+  "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "tales-of-the-orient-the-rising-sun-001806"
 }

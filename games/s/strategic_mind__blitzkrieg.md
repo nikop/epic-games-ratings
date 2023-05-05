@@ -1,4 +1,5 @@
 # Strategic Mind: Blitzkrieg
+[Store](https://store.epicgames.com/en-US/p/strategic-mind-blitzkrieg-d7e9a6)  
 [View Rawdata](../../db/s/strategic_mind__blitzkrieg.json)  
 ## Achievements
 | Name | Percentage | Users |

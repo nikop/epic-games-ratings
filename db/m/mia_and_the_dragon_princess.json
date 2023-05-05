@@ -188,13 +188,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-05T13:10:32.6230381+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:31.539692+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T13:10:32.6230518+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:41.9747398+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:32.2729776+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:22.7722796+00:00",
   "AchievementSets": [
     {
       "ID": "5anb57n",
@@ -204,9 +204,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:41:32.2729693+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
   "Ranking_EOS_Progress": 310,
-  "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00"
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "mia-and-the-dragon-princess-f4e1d0"
 }

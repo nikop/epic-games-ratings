@@ -1,4 +1,5 @@
 # Trinity Fusion
+[Store](https://store.epicgames.com/en-US/p/trinity-fusion-e036cf)  
 [View Rawdata](../../db/t/trinity_fusion.json)  
 ## Achievements
 | Name | Percentage | Users |

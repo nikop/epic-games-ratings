@@ -1,4 +1,5 @@
 # The Outbound Ghost
+[Store](https://store.epicgames.com/en-US/p/the-outbound-ghost-113ccc)  
 [View Rawdata](../../db/t/the_outbound_ghost.json)  
 ## Achievements
 | Name | Percentage | Users |

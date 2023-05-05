@@ -1,4 +1,5 @@
 # Terminal Velocity™: Boosted Edition
+[Store](https://store.epicgames.com/en-US/p/terminal-velocity-boosted-edition-1f204f)  
 [View Rawdata](../../db/t/terminal_velocity™__boosted_edition.json)  
 ## Achievements
 | Name | Percentage | Users |

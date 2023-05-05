@@ -500,7 +500,7 @@ Diff (max vs sum): 25
 | Overwhelming Force | 0.10% | ~87 |
 | Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,528 (Ranked 59)  
+Progressed: 86,531 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,528 | 1,805 |
+| 2023-05-05 | 86,531 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

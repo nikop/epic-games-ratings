@@ -1,4 +1,5 @@
 # Franchise Hockey Manager 9
+[Store](https://store.epicgames.com/en-US/p/franchise-hockey-manager-9-88aadb)  
 [View Rawdata](../../db/f/franchise_hockey_manager_9.json)  
 ## Achievements
 | Name | Percentage | Users |

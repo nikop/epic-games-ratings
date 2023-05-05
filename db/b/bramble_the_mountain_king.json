@@ -255,13 +255,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T13:10:53.0973011+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:34.826933+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:10:53.0973241+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:16.3097369+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:06.6772249+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:26.8935297+00:00",
   "AchievementSets": [
     {
       "ID": "1kkoeef",
@@ -271,14 +271,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-27T18:59:17.4164014+00:00",
-  "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
-  "FirstSeen": "2023-04-27T18:59:17.4163956+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:42:06.6772054+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00",
   "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-27T18:59:17.4164014+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-27T18:59:17.4163956+00:00",
+  "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "bramble-the-mountain-king-c0d1c6"
 }

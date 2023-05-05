@@ -1,4 +1,5 @@
 # Salt and Sanctuary
+[Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 3,114  (23.09.2022)  
@@ -9,19 +10,19 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,484 |
-| The Three | 64.00% | ~332,710 |
-| The Banquet | 40.00% | ~207,944 |
-| Devara's Light | 30.00% | ~155,958 |
+| Find Sanctuary | 83.00% | ~431,485 |
+| The Three | 64.00% | ~332,712 |
+| The Banquet | 40.00% | ~207,945 |
+| Devara's Light | 30.00% | ~155,959 |
 | The Iron Ones | 18.00% | ~93,575 |
 | The Village | 16.00% | ~83,178 |
-| The Forest | 14.00% | ~72,780 |
+| The Forest | 14.00% | ~72,781 |
 | Branded | 13.00% | ~67,582 |
 | The Imposter | 13.00% | ~67,582 |
 | The Keep | 13.00% | ~67,582 |
 | The Castle | 11.00% | ~57,185 |
-| The Dome | 9.00% | ~46,787 |
-| The Red Hall | 9.00% | ~46,787 |
+| The Dome | 9.00% | ~46,788 |
+| The Red Hall | 9.00% | ~46,788 |
 | The Sacrifice | 8.00% | ~41,589 |
 | The Cave | 7.00% | ~36,390 |
 | The Stone Roots | 7.00% | ~36,390 |
@@ -47,7 +48,7 @@ Diff (max vs sum): 42
 | Wise Words | 2.00% | ~10,397 |
 | Fading Fast | 1.00% | ~5,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,860 (Ranked 23)  
+Progressed: 519,862 (Ranked 23)  
 Completed: 1,397 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +63,7 @@ Completed: 1,397 (0.27%) (Ranked 123)
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
 | 2023-05-04 | 519,799 | 1,396 |
-| 2023-05-05 | 519,860 | 1,397 |
+| 2023-05-05 | 519,862 | 1,397 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

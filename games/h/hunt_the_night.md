@@ -1,4 +1,5 @@
 # Hunt the Night
+[Store](https://store.epicgames.com/en-US/p/hunt-the-night-3f1eb5)  
 [View Rawdata](../../db/h/hunt_the_night.json)  
 ## Achievements
 | Name | Percentage | Users |

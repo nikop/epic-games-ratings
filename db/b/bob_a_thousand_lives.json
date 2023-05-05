@@ -7,16 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:31:13.4530139+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:06:37.1795307+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:15.7843329+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:39:06.5494907+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:04.5623918+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "bob-a-thousand-lives-802452"
 }

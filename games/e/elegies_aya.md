@@ -1,4 +1,5 @@
 # ELEGIES Aya
+[Store](https://store.epicgames.com/en-US/p/elegies-aya-17c3f1)  
 [View Rawdata](../../db/e/elegies_aya.json)  
 ## Achievements
 | Name | Percentage | Users |

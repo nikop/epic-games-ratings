@@ -1,4 +1,5 @@
 # Wanted Dead
+[Store](https://store.epicgames.com/en-US/p/wanted-dead-798c3c)  
 [View Rawdata](../../db/w/wanted_dead.json)  
 ## Achievements
 | Name | Percentage | Users |

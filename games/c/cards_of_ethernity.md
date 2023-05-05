@@ -1,4 +1,5 @@
 # Cards of Ethernity
+[Store](https://store.epicgames.com/en-US/p/cards-of-ethernity-420f51)  
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
 ## Achievements
 | Name | Percentage | Users |

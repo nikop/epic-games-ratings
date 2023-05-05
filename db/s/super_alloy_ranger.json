@@ -496,13 +496,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T13:11:06.4915058+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:04.9827187+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 15,
   "EOS_Completed": 0,
   "EOS_Progressed": 19,
-  "LastUpdate_Achievements": "2023-05-05T13:11:06.4915607+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:02.1267922+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:16.626292+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:06.580366+00:00",
   "AchievementSets": [
     {
       "ID": "51a97k7",
@@ -512,14 +512,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
-  "FirstSeen": "2023-05-02T05:59:19.9991116+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:42:16.6262494+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "Ranking_EOS_Progress": 295,
-  "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-05-02T05:59:19.999115+00:00",
+  "Ranking_EOS_NewPlayers": 161,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-05-02T05:59:19.9991116+00:00",
+  "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "super-alloy-ranger-4252cc"
 }

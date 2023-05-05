@@ -112,13 +112,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-05T13:10:42.7231081+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:14.3894545+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:10:42.7231213+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:45.1733383+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:39.4115451+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:06.8878305+00:00",
   "AchievementSets": [
     {
       "ID": "1em00ld",
@@ -128,9 +128,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:41:39.4115361+00:00",
+  "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
   "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00"
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "elegies-aya-17c3f1"
 }

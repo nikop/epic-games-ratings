@@ -221,13 +221,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-05T13:10:50.7883981+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:28.8214993+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T13:10:50.7884147+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:08.3463029+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:45.1095811+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:22.0413498+00:00",
   "AchievementSets": [
     {
       "ID": "aijfp1i",
@@ -237,14 +237,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
-  "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
-  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:41:45.1095631+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00",
   "Ranking_EOS_Progress": 356,
-  "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00",
+  "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "parakacuk-22f4b2"
 }

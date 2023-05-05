@@ -1,4 +1,5 @@
 # The Tale of Bistun
+[Store](https://store.epicgames.com/en-US/p/the-tale-of-bistun-9d6c5f)  
 [View Rawdata](../../db/t/the_tale_of_bistun.json)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,11 +18,11 @@
 | Heart of Oblivion | 50.00% | ~6 |
 | Anahita's Greatest Mistake | 50.00% | ~6 |
 | Heart's Desire | 50.00% | ~6 |
+| Nature's Savior | 50.00% | ~6 |
+| Hammer It Home | 50.00% | ~6 |
 | Shoo! Shoo! | 50.00% | ~6 |
 | A Friend In Need | 42.00% | ~5 |
 | The Ultimate Sacrifice | 42.00% | ~5 |
-| Nature's Savior | 42.00% | ~5 |
-| Hammer It Home | 42.00% | ~5 |
 | For Whom the Bell Tolls | 42.00% | ~5 |
 | Here I Am | 42.00% | ~5 |
 | A Stranger's Diary | 42.00% | ~5 |

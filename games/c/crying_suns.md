@@ -10,13 +10,13 @@ Diff (max vs sum): -95
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,805 |
-| Jeef Skeejj | 44.00% | ~201,203 |
-| Careful planning | 39.00% | ~178,339 |
-| Second Coming | 33.00% | ~150,902 |
-| Jeef Skagg | 30.00% | ~137,184 |
+| The Shutdown | 66.00% | ~301,806 |
+| Jeef Skeejj | 44.00% | ~201,204 |
+| Careful planning | 39.00% | ~178,340 |
+| Second Coming | 33.00% | ~150,903 |
+| Jeef Skagg | 30.00% | ~137,185 |
 | Mother | 25.00% | ~114,320 |
-| In space, no one can hear you scream | 23.00% | ~105,174 |
+| In space, no one can hear you scream | 23.00% | ~105,175 |
 | Chapter I: Echoes | 22.00% | ~100,602 |
 | Excelsior Rule | 22.00% | ~100,602 |
 | Things persisted in not being what they seemed | 20.00% | ~91,456 |
@@ -27,11 +27,11 @@ Diff (max vs sum): -95
 | Tetsuo | 11.00% | ~50,301 |
 | Plan for the worst | 11.00% | ~50,301 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,728 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~36,582 |
-| Through the mirror | 8.00% | ~36,582 |
-| General Vivar | 8.00% | ~36,582 |
-| Back to Ganyma | 8.00% | ~36,582 |
-| Kaos Rule | 8.00% | ~36,582 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~36,583 |
+| Through the mirror | 8.00% | ~36,583 |
+| General Vivar | 8.00% | ~36,583 |
+| Back to Ganyma | 8.00% | ~36,583 |
+| Kaos Rule | 8.00% | ~36,583 |
 | Admiral Okonkwo | 7.00% | ~32,010 |
 | The Survivalists | 7.00% | ~32,010 |
 | The Tech Specialist | 7.00% | ~32,010 |
@@ -76,7 +76,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,280 (Ranked 28)  
+Progressed: 457,282 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,280 | 14 |
+| 2023-05-05 | 457,282 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -14,8 +14,8 @@ Rating: 4.43 (Ranked 634)
 | Resourceful | 23.00% | ~157 |
 | Taking it back | 23.00% | ~157 |
 | Organ Grinder | 21.00% | ~143 |
+| Target America | 21.00% | ~143 |
 | Sharpshooter | 20.00% | ~136 |
-| Target America | 20.00% | ~136 |
 | As Quiet as a Mouse | 19.00% | ~129 |
 | The Kraken Sleeps | 19.00% | ~129 |
 | Liberté | 16.00% | ~109 |

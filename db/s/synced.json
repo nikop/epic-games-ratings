@@ -7,13 +7,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T13:10:06.0540851+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:07.0579117+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:10:06.0540923+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:06.0114843+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:12.6397822+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:33:57.8465245+00:00",
   "AchievementSets": [
     {
       "ID": "2cfdi92",
@@ -23,10 +23,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379,
+  "LastChanged_Achievements": "2023-05-05T13:41:12.6397723+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
+  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "synced"
 }

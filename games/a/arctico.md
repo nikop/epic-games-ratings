@@ -1,4 +1,5 @@
 # Arctico
+[Store](https://store.epicgames.com/en-US/p/arctico-c29f1d)  
 [View Rawdata](../../db/a/arctico.json)  
 ## Achievements
 | Name | Percentage | Users |

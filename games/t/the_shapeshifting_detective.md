@@ -1,4 +1,5 @@
 # The Shapeshifting Detective
+[Store](https://store.epicgames.com/en-US/p/the-shapeshifting-detective-ef0f21)  
 [View Rawdata](../../db/t/the_shapeshifting_detective.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Rise of the Third Power
+[Store](https://store.epicgames.com/en-US/p/rise-of-the-third-power-682886)  
 [View Rawdata](../../db/r/rise_of_the_third_power.json)  
 ## Achievements
 | Name | Percentage | Users |

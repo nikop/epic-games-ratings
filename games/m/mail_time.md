@@ -1,4 +1,5 @@
 # Mail Time
+[Store](https://store.epicgames.com/en-US/p/mail-time-ed1aea)  
 [View Rawdata](../../db/m/mail_time.json)  
 ## Achievements
 | Name | Percentage | Users |

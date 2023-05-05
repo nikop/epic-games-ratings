@@ -1,4 +1,5 @@
 # Cruel Bands Career
+[Store](https://store.epicgames.com/en-US/p/cruel-bands-career-29d2fd)  
 [View Rawdata](../../db/c/cruel_bands_career.json)  
 ## Achievements
 | Name | Percentage | Users |

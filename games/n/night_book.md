@@ -1,4 +1,5 @@
 # Night Book
+[Store](https://store.epicgames.com/en-US/p/night-book-77f2c7)  
 [View Rawdata](../../db/n/night_book.json)  
 ## Achievements
 | Name | Percentage | Users |

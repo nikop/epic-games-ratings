@@ -1,4 +1,5 @@
 # Mahokenshi
+[Store](https://store.epicgames.com/en-US/p/mahokenshi-2bffba)  
 [View Rawdata](../../db/m/mahokenshi.json)  
 ## Achievements
 | Name | Percentage | Users |

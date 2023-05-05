@@ -1,4 +1,5 @@
 # Curious Expedition
+[Store](https://store.epicgames.com/en-US/p/curious-expedition-df0f2f)  
 [View Rawdata](../../db/c/curious_expedition.json)  
 ## Achievements
 | Name | Percentage | Users |

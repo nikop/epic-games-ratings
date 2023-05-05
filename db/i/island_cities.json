@@ -432,13 +432,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T13:10:29.5076179+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:28.9528555+00:00",
   "EOS_NewCompleters": 8,
   "EOS_NewPlayers": 30,
   "EOS_Completed": 10,
   "EOS_Progressed": 55,
-  "LastUpdate_Achievements": "2023-05-05T13:10:29.5076389+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:38.4569069+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:29.8264411+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:19.7924875+00:00",
   "AchievementSets": [
     {
       "ID": "3khpmem",
@@ -448,14 +448,16 @@
     }
   ],
   "EOS_Completed_Percentage": 18.18,
-  "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
-  "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 20,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_Completed": 6,
+  "LastChanged_Achievements": "2023-05-05T13:41:29.8264228+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "Ranking_EOS_Progress": 268,
-  "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00"
+  "Ranking_EOS_Completed": 6,
+  "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
+  "Ranking_EOS_NewPlayers": 140,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
+  "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
+  "Ranking_EOS_NewCompleters": 20,
+  "ProductSlug": "island-cities-0a3026"
 }

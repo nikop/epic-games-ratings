@@ -1,4 +1,5 @@
 # Kawaii Deathu Desu
+[Store](https://store.epicgames.com/en-US/p/kawaii-deathu-desu-bc669f)  
 [View Rawdata](../../db/k/kawaii_deathu_desu.json)  
 ## Achievements
 | Name | Percentage | Users |

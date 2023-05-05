@@ -1,4 +1,5 @@
 # Fantasy Wars
+[Store](https://store.epicgames.com/en-US/p/fantasy-wars-ec9601)  
 [View Rawdata](../../db/f/fantasy_wars.json)  
 ## Achievements
 | Name | Percentage | Users |

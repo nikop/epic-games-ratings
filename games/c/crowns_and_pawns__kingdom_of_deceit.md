@@ -1,4 +1,5 @@
 # Crowns and Pawns: Kingdom of Deceit
+[Store](https://store.epicgames.com/en-US/p/crowns-and-pawns-kingdom-of-deceit-51b045)  
 [View Rawdata](../../db/c/crowns_and_pawns__kingdom_of_deceit.json)  
 ## Achievements
 | Name | Percentage | Users |

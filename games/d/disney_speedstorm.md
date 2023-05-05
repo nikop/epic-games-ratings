@@ -20,13 +20,13 @@
 | ACE DEFENDER | 5.00% | ~116 |
 | LEGENDARY HERO | 4.00% | ~93 |
 | ACE BRAWLER | 3.00% | ~70 |
+| ACE TRICKSTER | 3.00% | ~70 |
 | TRAINING HARD | 2.00% | ~46 |
-| ACE TRICKSTER | 2.00% | ~46 |
 | EXPERIENCED CREW | 1.00% | ~23 |
+| FRIENDLY | 0.80% | ~19 |
 | BE OUR GUEST | 0.70% | ~16 |
-| FRIENDLY | 0.70% | ~16 |
 | FRAMED! | 0.50% | ~12 |
-| MASTER | 0.20% | ~5 |
+| MASTER | 0.30% | ~7 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,320 (Ranked 136)  

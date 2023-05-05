@@ -10,49 +10,49 @@ Diff (max vs sum): -12
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~605,025 |
-| Escaped Asphodel | 80.00% | ~543,842 |
-| Arms Collector | 71.00% | ~482,660 |
-| Friends in High Places | 68.00% | ~462,266 |
-| Escaped Elysium | 66.00% | ~448,670 |
-| Chthonic Colleagues | 63.00% | ~428,276 |
-| Is There No Escape? | 52.00% | ~353,498 |
-| Death Dealer | 45.00% | ~305,911 |
-| Skelly Slayer | 42.00% | ~285,517 |
-| Well Stocked | 40.00% | ~271,921 |
-| Back to Work | 39.00% | ~265,123 |
-| Day-or-Night Trader | 37.00% | ~251,527 |
-| Blessed by the Gods | 37.00% | ~251,527 |
-| Urge to Sing | 36.00% | ~244,729 |
-| Blood Bound | 35.00% | ~237,931 |
-| Three-Headed Boy | 32.00% | ~217,537 |
-| River Denizens | 28.00% | ~190,345 |
-| Grown Close | 28.00% | ~190,345 |
-| Home Makeover | 27.00% | ~183,547 |
-| The Family Secret | 26.00% | ~176,749 |
-| Had to Happen | 25.00% | ~169,951 |
-| To Charon's Credit | 23.00% | ~156,355 |
-| Tools of the Architect | 23.00% | ~156,355 |
-| Master of Arms | 23.00% | ~156,355 |
-| Rare Collectible | 22.00% | ~149,557 |
+| Escaped Tartarus | 89.00% | ~605,028 |
+| Escaped Asphodel | 80.00% | ~543,846 |
+| Arms Collector | 71.00% | ~482,663 |
+| Friends in High Places | 68.00% | ~462,269 |
+| Escaped Elysium | 66.00% | ~448,673 |
+| Chthonic Colleagues | 63.00% | ~428,278 |
+| Is There No Escape? | 52.00% | ~353,500 |
+| Death Dealer | 45.00% | ~305,913 |
+| Skelly Slayer | 42.00% | ~285,519 |
+| Well Stocked | 40.00% | ~271,923 |
+| Back to Work | 39.00% | ~265,125 |
+| Day-or-Night Trader | 37.00% | ~251,529 |
+| Blessed by the Gods | 37.00% | ~251,529 |
+| Urge to Sing | 36.00% | ~244,731 |
+| Blood Bound | 35.00% | ~237,932 |
+| Three-Headed Boy | 32.00% | ~217,538 |
+| River Denizens | 28.00% | ~190,346 |
+| Grown Close | 28.00% | ~190,346 |
+| Home Makeover | 27.00% | ~183,548 |
+| The Family Secret | 26.00% | ~176,750 |
+| Had to Happen | 25.00% | ~169,952 |
+| To Charon's Credit | 23.00% | ~156,356 |
+| Tools of the Architect | 23.00% | ~156,356 |
+| Master of Arms | 23.00% | ~156,356 |
+| Rare Collectible | 22.00% | ~149,558 |
 | Weapon of Fate | 21.00% | ~142,759 |
 | Something From Everyone | 19.00% | ~129,163 |
 | Hold the Onions | 18.00% | ~122,365 |
 | Well Versed | 17.00% | ~115,567 |
-| War-God's Bloodlust | 15.00% | ~101,970 |
-| Musician and Muse | 14.00% | ~95,172 |
-| The Useless Trinket | 13.00% | ~88,374 |
-| Champion of Elysium | 13.00% | ~88,374 |
-| Slashed Benefits | 12.00% | ~81,576 |
-| Haste of Hermes | 11.00% | ~74,778 |
-| Bad Call | 10.00% | ~67,980 |
-| Nyx's Mirror | 10.00% | ~67,980 |
-| Night and Darkness | 10.00% | ~67,980 |
-| End to Torment | 10.00% | ~67,980 |
-| Dark Reflections | 9.00% | ~61,182 |
-| Thanks, But No Thanks | 9.00% | ~61,182 |
-| Infernal Arms | 9.00% | ~61,182 |
-| Divided by Death | 8.00% | ~54,384 |
+| War-God's Bloodlust | 15.00% | ~101,971 |
+| Musician and Muse | 14.00% | ~95,173 |
+| The Useless Trinket | 13.00% | ~88,375 |
+| Champion of Elysium | 13.00% | ~88,375 |
+| Slashed Benefits | 12.00% | ~81,577 |
+| Haste of Hermes | 11.00% | ~74,779 |
+| Bad Call | 10.00% | ~67,981 |
+| Nyx's Mirror | 10.00% | ~67,981 |
+| Night and Darkness | 10.00% | ~67,981 |
+| End to Torment | 10.00% | ~67,981 |
+| Dark Reflections | 9.00% | ~61,183 |
+| Thanks, But No Thanks | 9.00% | ~61,183 |
+| Infernal Arms | 9.00% | ~61,183 |
+| Divided by Death | 8.00% | ~54,385 |
 | Harsh Conditions | 7.00% | ~47,586 |
 | One for the Ages | 7.00% | ~47,586 |
 | Complete Set | 6.00% | ~40,788 |
@@ -60,7 +60,7 @@ Diff (max vs sum): -12
 | Thorn of Thanatos | 4.00% | ~27,192 |
 | Friends Forever | 4.00% | ~27,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,803 (Ranked 16)  
+Progressed: 679,807 (Ranked 16)  
 Completed: 6,075 (0.89%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 6,075 (0.89%) (Ranked 80)
 | 2023-05-02 | 679,645 | 6,067 |
 | 2023-05-03 | 679,707 | 6,070 |
 | 2023-05-04 | 679,770 | 6,073 |
-| 2023-05-05 | 679,803 | 6,075 |
+| 2023-05-05 | 679,807 | 6,075 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

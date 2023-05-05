@@ -56,7 +56,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76814
+      "UsersEstimate": 76815
     },
     {
       "ID": "BackHomeNTimes",
@@ -296,7 +296,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52035
+      "UsersEstimate": 52036
     },
     {
       "ID": "KillOthers2",
@@ -1617,6 +1617,11 @@
       "Time": "2023-05-05T13:11:13.7775663+00:00",
       "NumProgressed": 247788,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T13:42:22.2048426+00:00",
+      "NumProgressed": 247789,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1923,34 +1928,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T13:11:13.7775658+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:19.258759+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 774,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247788,
-  "LastUpdate_Achievements": "2023-05-05T13:11:13.7776249+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:24.1123204+00:00",
+  "EOS_Progressed": 247789,
+  "LastUpdate_Achievements": "2023-05-05T13:42:22.2048953+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:25.9551439+00:00",
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247788,
+      "Progressed": 247789,
       "Completed": 1
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
-  "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
-  "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 49,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 39,
-  "Ranking_PopularitySum": 490,
-  "Ranking_Popularity": 490,
-  "Ranking_Rating": 574,
+  "LastChanged_Achievements": "2023-05-05T13:42:22.204842+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "Rating": 4.47,
-  "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00"
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 39,
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
+  "Ranking_EOS_NewPlayers": 62,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
+  "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
+  "Ranking_EOS_NewCompleters": 48,
+  "ProductSlug": "hell-is-others-789262"
 }

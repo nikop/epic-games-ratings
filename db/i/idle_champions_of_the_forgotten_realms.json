@@ -5104,6 +5104,11 @@
       "Time": "2023-05-05T13:11:03.9123301+00:00",
       "NumProgressed": 86528,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T13:42:15.1494685+00:00",
+      "NumProgressed": 86531,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8567,42 +8572,43 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T13:11:03.9123296+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:29.6230385+00:00",
   "EOS_NewCompleters": 21,
   "EOS_NewPlayers": 792,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86528,
-  "LastUpdate_Achievements": "2023-05-05T13:11:03.9149275+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:39.4612928+00:00",
+  "EOS_Progressed": 86531,
+  "LastUpdate_Achievements": "2023-05-05T13:42:15.1517855+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:20.6429186+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52802,
+      "Progressed": 52805,
       "Completed": 2465
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86528,
+      "Progressed": 86531,
       "Completed": 1805
     }
   ],
   "EOS_Completed_Percentage": 2.09,
-  "LastChanged": "2023-05-05T03:58:03.2515102+00:00",
-  "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "MaxAwardTitle": "Diverse Characters",
-  "NumberOfAwardsMax": 4865,
-  "NumberOfAwards": 29803,
-  "NumberOfRatings": 9041,
-  "Ranking_EOS_NewCompleters": 10,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_Progress": 59,
-  "Ranking_PopularitySum": 37,
-  "Ranking_Popularity": 62,
-  "Ranking_Rating": 867,
-  "Rating": 4.06,
+  "LastChanged_Achievements": "2023-05-05T13:42:15.149468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
+  "Rating": 4.06,
+  "Ranking_Rating": 867,
+  "Ranking_Popularity": 62,
+  "Ranking_PopularitySum": 37,
+  "Ranking_EOS_Progress": 59,
+  "Ranking_EOS_Completed": 55,
+  "LastChanged": "2023-05-05T03:58:03.2515102+00:00",
+  "Ranking_EOS_NewPlayers": 59,
+  "NumberOfRatings": 9041,
+  "NumberOfAwards": 29803,
+  "NumberOfAwardsMax": 4865,
+  "MaxAwardTitle": "Diverse Characters",
+  "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
+  "Ranking_EOS_NewCompleters": 10,
   "ProductSlug": "idle-champions-of-the-forgotten-realms"
 }

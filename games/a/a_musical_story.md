@@ -1,4 +1,5 @@
 # A Musical Story
+[Store](https://store.epicgames.com/en-US/p/a-musical-story-973128)  
 [View Rawdata](../../db/a/a_musical_story.json)  
 ## Achievements
 | Name | Percentage | Users |

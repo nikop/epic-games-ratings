@@ -7,16 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:30:49.1085277+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:07:12.1232868+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:01:38.2910547+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:39:16.1382996+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:33:40.8799451+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "vengeance-of-mr-peppermint-8953c5"
 }

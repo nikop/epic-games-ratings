@@ -1,4 +1,5 @@
 # BROK the InvestiGator
+[Store](https://store.epicgames.com/en-US/p/brok-the-investigator-fb0513)  
 [View Rawdata](../../db/b/brok_the_investigator.json)  
 ## Achievements
 | Name | Percentage | Users |

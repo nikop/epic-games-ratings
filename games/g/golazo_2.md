@@ -1,4 +1,5 @@
 # Golazo 2
+[Store](https://store.epicgames.com/en-US/p/golazo-2-0b1701)  
 [View Rawdata](../../db/g/golazo_2.json)  
 ## Achievements
 | Name | Percentage | Users |

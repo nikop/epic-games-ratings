@@ -231,13 +231,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-05T13:11:16.2184243+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:34.8617689+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-05T13:11:16.2184451+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:47.5295161+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:23.7909204+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:42.9295346+00:00",
   "AchievementSets": [
     {
       "ID": "18i0ipj",
@@ -247,14 +247,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
-  "FirstSeen": "2023-03-24T19:57:52.2568081+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:42:23.790904+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00",
   "Ranking_EOS_Progress": 277,
-  "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-03-24T19:57:52.2568081+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "quest-of-dungeons-3064d5"
 }

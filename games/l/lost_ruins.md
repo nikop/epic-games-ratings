@@ -1,4 +1,5 @@
 # Lost Ruins
+[Store](https://store.epicgames.com/en-US/p/lost-ruins-d6233b)  
 [View Rawdata](../../db/l/lost_ruins.json)  
 ## Achievements
 | Name | Percentage | Users |

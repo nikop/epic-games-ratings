@@ -1,4 +1,5 @@
 # Chaos Galaxy
+[Store](https://store.epicgames.com/en-US/p/chaos-galaxy-a33dac)  
 [View Rawdata](../../db/c/chaos_galaxy.json)  
 ## Achievements
 | Name | Percentage | Users |

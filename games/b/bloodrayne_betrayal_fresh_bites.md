@@ -1,4 +1,5 @@
 # BloodRayne Betrayal Fresh Bites
+[Store](https://store.epicgames.com/en-US/p/bloodrayne-betrayal-fresh-bites-8f1012)  
 [View Rawdata](../../db/b/bloodrayne_betrayal_fresh_bites.json)  
 ## Achievements
 | Name | Percentage | Users |

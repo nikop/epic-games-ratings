@@ -1,4 +1,5 @@
 # Sunshine Manor
+[Store](https://store.epicgames.com/en-US/p/sunshine-manor-bc9b28)  
 [View Rawdata](../../db/s/sunshine_manor.json)  
 ## Achievements
 | Name | Percentage | Users |

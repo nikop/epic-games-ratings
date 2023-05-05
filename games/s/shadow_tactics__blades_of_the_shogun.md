@@ -10,7 +10,7 @@ Diff (max vs sum): 48
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,461 |
+| Genin | 10.00% | ~16,462 |
 | Thorough | 8.00% | ~13,169 |
 | A thief's beginning | 7.00% | ~11,523 |
 | Tanuki Time | 7.00% | ~11,523 |
@@ -18,21 +18,21 @@ Diff (max vs sum): 48
 | Jonin | 6.00% | ~9,877 |
 | Rescue Takuma | 6.00% | ~9,877 |
 | Rollin' | 6.00% | ~9,877 |
-| Chunin | 5.00% | ~8,230 |
-| Ice Ice Yuki | 5.00% | ~8,230 |
-| Stoned Ox | 5.00% | ~8,230 |
-| Yabu | 5.00% | ~8,230 |
-| Flying Rocks | 4.00% | ~6,584 |
-| Happy Planning | 4.00% | ~6,584 |
-| Mugen Unchained | 4.00% | ~6,584 |
-| Okkoto | 4.00% | ~6,584 |
-| Warzone | 4.00% | ~6,584 |
-| Gear up | 3.00% | ~4,938 |
-| Happy little accidents | 3.00% | ~4,938 |
-| Noboru | 3.00% | ~4,938 |
-| Prisoners | 3.00% | ~4,938 |
-| Still Rollin' | 3.00% | ~4,938 |
-| Too Early | 3.00% | ~4,938 |
+| Chunin | 5.00% | ~8,231 |
+| Ice Ice Yuki | 5.00% | ~8,231 |
+| Stoned Ox | 5.00% | ~8,231 |
+| Yabu | 5.00% | ~8,231 |
+| Flying Rocks | 4.00% | ~6,585 |
+| Happy Planning | 4.00% | ~6,585 |
+| Mugen Unchained | 4.00% | ~6,585 |
+| Okkoto | 4.00% | ~6,585 |
+| Warzone | 4.00% | ~6,585 |
+| Gear up | 3.00% | ~4,939 |
+| Happy little accidents | 3.00% | ~4,939 |
+| Noboru | 3.00% | ~4,939 |
+| Prisoners | 3.00% | ~4,939 |
+| Still Rollin' | 3.00% | ~4,939 |
+| Too Early | 3.00% | ~4,939 |
 | It's raining men | 2.00% | ~3,292 |
 | Stoned | 2.00% | ~3,292 |
 | The Old Way | 2.00% | ~3,292 |
@@ -55,7 +55,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,609 (Ranked 50)  
+Progressed: 164,617 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,609 | 41 |
+| 2023-05-05 | 164,617 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

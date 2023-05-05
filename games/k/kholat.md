@@ -1,4 +1,5 @@
 # Kholat
+[Store](https://store.epicgames.com/en-US/p/kholat-3f394b)  
 [View Rawdata](../../db/k/kholat.json)  
 ## Achievements
 | Name | Percentage | Users |

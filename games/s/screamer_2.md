@@ -1,4 +1,5 @@
 # Screamer 2
+[Store](https://store.epicgames.com/en-US/p/screamer-2-ae0386)  
 [View Rawdata](../../db/s/screamer_2.json)  
 ## Achievements
 | Name | Percentage | Users |

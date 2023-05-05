@@ -1,4 +1,5 @@
 # Submerged
+[Store](https://store.epicgames.com/en-US/p/submerged-041523)  
 [View Rawdata](../../db/s/submerged.json)  
 Rating: 4.09 (Ranked 858)  
 Number of Ratings: 27  (23.09.2022)  

@@ -1,4 +1,5 @@
 # King of Retail
+[Store](https://store.epicgames.com/en-US/p/king-of-retail-c3ad3e)  
 [View Rawdata](../../db/k/king_of_retail.json)  
 Rating: 4.67 (Ranked 255)  
 ## Achievements

@@ -1,4 +1,5 @@
 # Blossom Tales II The Minotaur Prince
+[Store](https://store.epicgames.com/en-US/p/blossom-tales-ii-the-minotaur-prince-e74c95)  
 [View Rawdata](../../db/b/blossom_tales_ii_the_minotaur_prince.json)  
 ## Achievements
 | Name | Percentage | Users |

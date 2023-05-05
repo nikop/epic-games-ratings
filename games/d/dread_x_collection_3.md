@@ -1,4 +1,5 @@
 # Dread X Collection 3
+[Store](https://store.epicgames.com/en-US/p/dread-x-collection-3-29dd47)  
 [View Rawdata](../../db/d/dread_x_collection_3.json)  
 ## Achievements
 | Name | Percentage | Users |

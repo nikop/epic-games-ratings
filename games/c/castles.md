@@ -1,4 +1,5 @@
 # Castles
+[Store](https://store.epicgames.com/en-US/p/castles-5a423e)  
 [View Rawdata](../../db/c/castles.json)  
 ## Achievements
 | Name | Percentage | Users |

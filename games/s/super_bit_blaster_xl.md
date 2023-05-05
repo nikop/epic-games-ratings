@@ -1,4 +1,5 @@
 # Super Bit Blaster XL
+[Store](https://store.epicgames.com/en-US/p/super-bit-blaster-xl-35d206)  
 [View Rawdata](../../db/s/super_bit_blaster_xl.json)  
 ## Achievements
 | Name | Percentage | Users |

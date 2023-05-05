@@ -1,4 +1,5 @@
 # Shop Titans
+[Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
 Rating: 3.98 (Ranked 884)  
 Number of Ratings: 12,664  (23.09.2022)  
@@ -9,37 +10,37 @@ Diff (max vs sum): 23
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~123,748 |
-| Titan's First Steps | 96.00% | ~122,472 |
-| Basic in Bulk | 91.00% | ~116,093 |
-| Tinkle of Coins | 87.00% | ~110,990 |
-| Disintermediation | 76.00% | ~96,957 |
-| Capitalism Ho! | 75.00% | ~95,681 |
-| It's Free Real Estate | 70.00% | ~89,302 |
+| Sponsored by Argon | 97.00% | ~123,749 |
+| Titan's First Steps | 96.00% | ~122,473 |
+| Basic in Bulk | 91.00% | ~116,094 |
+| Tinkle of Coins | 87.00% | ~110,991 |
+| Disintermediation | 76.00% | ~96,958 |
+| Capitalism Ho! | 75.00% | ~95,682 |
+| It's Free Real Estate | 70.00% | ~89,303 |
 | Budding Merchant | 66.00% | ~84,200 |
 | Another Satisfied Customer | 61.00% | ~77,821 |
-| One Easy Payment | 60.00% | ~76,545 |
-| Own the Means of Production | 60.00% | ~76,545 |
-| Some Assembly Required | 59.00% | ~75,269 |
+| One Easy Payment | 60.00% | ~76,546 |
+| Own the Means of Production | 60.00% | ~76,546 |
+| Some Assembly Required | 59.00% | ~75,270 |
 | Pretty Penny | 57.00% | ~72,718 |
 | One-Armed Bandit | 50.00% | ~63,788 |
-| Through Repetition, Perfection | 47.00% | ~59,960 |
-| The Daily Grind | 46.00% | ~58,684 |
+| Through Repetition, Perfection | 47.00% | ~59,961 |
+| The Daily Grind | 46.00% | ~58,685 |
 | Bounty Hunters | 44.00% | ~56,133 |
-| Where it Hurts | 43.00% | ~54,857 |
-| Dungeon Imports | 43.00% | ~54,857 |
+| Where it Hurts | 43.00% | ~54,858 |
+| Dungeon Imports | 43.00% | ~54,858 |
 | Flooding the Market | 41.00% | ~52,306 |
-| Demand for Supplies | 39.00% | ~49,754 |
+| Demand for Supplies | 39.00% | ~49,755 |
 | Gild-Gotten Goods | 37.00% | ~47,203 |
-| Did we pack lunch? | 35.00% | ~44,651 |
+| Did we pack lunch? | 35.00% | ~44,652 |
 | Arcane Industries | 34.00% | ~43,376 |
-| Accomplished Merchant | 31.00% | ~39,548 |
+| Accomplished Merchant | 31.00% | ~39,549 |
 | On the Path to Greatness | 28.00% | ~35,721 |
 | Ascended | 28.00% | ~35,721 |
 | Gem Expert | 28.00% | ~35,721 |
 | Helping Hand | 28.00% | ~35,721 |
-| Blank Page Syndrome | 27.00% | ~34,445 |
-| Efficient Floor Space | 27.00% | ~34,445 |
+| Blank Page Syndrome | 27.00% | ~34,446 |
+| Efficient Floor Space | 27.00% | ~34,446 |
 | Vanity, Verily | 26.00% | ~33,170 |
 | Research & Development | 25.00% | ~31,894 |
 | Power of Love | 24.00% | ~30,618 |
@@ -58,10 +59,10 @@ Diff (max vs sum): 23
 | Expansion in Session | 15.00% | ~19,136 |
 | Seasoned Journeyman | 15.00% | ~19,136 |
 | Black Friday Special | 15.00% | ~19,136 |
-| Big Game Hunting | 14.00% | ~17,860 |
-| Locally Sourced | 14.00% | ~17,860 |
-| Flying off the Shelves | 14.00% | ~17,860 |
-| Laden with Loot | 14.00% | ~17,860 |
+| Big Game Hunting | 14.00% | ~17,861 |
+| Locally Sourced | 14.00% | ~17,861 |
+| Flying off the Shelves | 14.00% | ~17,861 |
+| Laden with Loot | 14.00% | ~17,861 |
 | Fat Cat Tag Team | 13.00% | ~16,585 |
 | Hidden Potential | 12.00% | ~15,309 |
 | Mammonite | 12.00% | ~15,309 |
@@ -82,9 +83,9 @@ Diff (max vs sum): 23
 | Item of Renown | 8.00% | ~10,206 |
 | A Legend is Born | 7.00% | ~8,930 |
 | Wealth Beyond Measure | 7.00% | ~8,930 |
-| Booty by the Boatload | 6.00% | ~7,654 |
-| Treasure Trove | 6.00% | ~7,654 |
-| All Accounted For | 6.00% | ~7,654 |
+| Booty by the Boatload | 6.00% | ~7,655 |
+| Treasure Trove | 6.00% | ~7,655 |
+| All Accounted For | 6.00% | ~7,655 |
 | Thirst for Knowledge | 5.00% | ~6,379 |
 | Archivist | 5.00% | ~6,379 |
 | Bountiful Harvest | 5.00% | ~6,379 |
@@ -122,7 +123,7 @@ Diff (max vs sum): 23
 | Ultimate Collector | 0.40% | ~510 |
 | Capitalist Camaraderie | 0.20% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,575 (Ranked 54)  
+Progressed: 127,576 (Ranked 54)  
 Completed: 76 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +138,7 @@ Completed: 76 (0.06%) (Ranked 161)
 | 2023-05-02 | 127,411 | 75 |
 | 2023-05-03 | 127,478 | 76 |
 | 2023-05-04 | 127,539 | 76 |
-| 2023-05-05 | 127,575 | 76 |
+| 2023-05-05 | 127,576 | 76 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

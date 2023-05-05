@@ -1,4 +1,5 @@
 # Kao the Kangaroo - Round 2
+[Store](https://store.epicgames.com/en-US/p/kao-the-kangaroo-round-2-5d4d25)  
 [View Rawdata](../../db/k/kao_the_kangaroo_-_round_2.json)  
 Rating: 4.68 (Ranked 234)  
 ## Achievements

@@ -1,4 +1,5 @@
 # Life of Delta
+[Store](https://store.epicgames.com/en-US/p/life-of-delta-44f4e4)  
 [View Rawdata](../../db/l/life_of_delta.json)  
 ## Achievements
 | Name | Percentage | Users |

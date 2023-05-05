@@ -1,4 +1,5 @@
 # Bloodshore
+[Store](https://store.epicgames.com/en-US/p/bloodshore-939cb0)  
 [View Rawdata](../../db/b/bloodshore.json)  
 ## Achievements
 | Name | Percentage | Users |

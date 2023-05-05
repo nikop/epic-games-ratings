@@ -33,7 +33,7 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.73% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.70% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -63,7 +63,7 @@
 | 61 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 62 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 62 | [Somerville](games/s/somerville.md) | 1.61% |
-| 64 | [Frogun](games/f/frogun.md) | 1.56% |
+| 64 | [Frogun](games/f/frogun.md) | 1.55% |
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |

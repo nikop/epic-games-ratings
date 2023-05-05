@@ -1,4 +1,5 @@
 # JYDGE
+[Store](https://store.epicgames.com/en-US/p/jydge-14242d)  
 [View Rawdata](../../db/j/jydge.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Gripper
+[Store](https://store.epicgames.com/en-US/p/gripper-a6534b)  
 [View Rawdata](../../db/g/gripper.json)  
 ## Achievements
 | Name | Percentage | Users |

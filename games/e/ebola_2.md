@@ -1,4 +1,5 @@
 # EBOLA 2
+[Store](https://store.epicgames.com/en-US/p/ebola-2-b61221)  
 [View Rawdata](../../db/e/ebola_2.json)  
 ## Achievements
 | Name | Percentage | Users |

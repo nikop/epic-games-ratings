@@ -1,4 +1,5 @@
 # Travellers Rest
+[Store](https://store.epicgames.com/en-US/p/travellers-rest-c115d1)  
 [View Rawdata](../../db/t/travellers_rest.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 64  (23.09.2022)  

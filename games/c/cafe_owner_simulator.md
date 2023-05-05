@@ -1,4 +1,5 @@
 # Cafe Owner Simulator
+[Store](https://store.epicgames.com/en-US/p/cafe-owner-simulator-749e0f)  
 [View Rawdata](../../db/c/cafe_owner_simulator.json)  
 ## Achievements
 | Name | Percentage | Users |

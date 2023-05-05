@@ -1,4 +1,5 @@
 # The Alien Cube
+[Store](https://store.epicgames.com/en-US/p/the-alien-cube-789431)  
 [View Rawdata](../../db/t/the_alien_cube.json)  
 ## Achievements
 | Name | Percentage | Users |

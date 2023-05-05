@@ -56,7 +56,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "campaign10",
@@ -144,7 +144,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "campaign20",
@@ -160,7 +160,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "campaign4",
@@ -176,7 +176,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "campaign6",
@@ -638,6 +638,11 @@
       "Time": "2023-05-05T12:06:08.7217483+00:00",
       "NumProgressed": 2514,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T13:42:20.3121238+00:00",
+      "NumProgressed": 2515,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -650,31 +655,32 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-05T13:11:11.6898166+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:18.8266391+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_Completed": 8,
-  "EOS_Progressed": 2514,
-  "LastUpdate_Achievements": "2023-05-05T13:11:11.6898473+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:23.5380806+00:00",
+  "EOS_Progressed": 2515,
+  "LastUpdate_Achievements": "2023-05-05T13:42:20.3121501+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:25.6009734+00:00",
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2514,
+      "Progressed": 2515,
       "Completed": 8
     }
   ],
   "EOS_Completed_Percentage": 0.32,
-  "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
-  "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_Progress": 135,
+  "LastChanged_Achievements": "2023-05-05T13:42:20.3121232+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
+  "Ranking_EOS_Progress": 135,
+  "Ranking_EOS_Completed": 113,
+  "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
+  "Ranking_EOS_NewPlayers": 121,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "touch-type-tale"
 }

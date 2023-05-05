@@ -1,4 +1,5 @@
 # Battle Of Europe
+[Store](https://store.epicgames.com/en-US/p/battle-of-europe-00b917)  
 [View Rawdata](../../db/b/battle_of_europe.json)  
 ## Achievements
 | Name | Percentage | Users |

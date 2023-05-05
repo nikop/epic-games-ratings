@@ -1,4 +1,5 @@
 # Tavern Master
+[Store](https://store.epicgames.com/en-US/p/tavern-master-ee18ab)  
 [View Rawdata](../../db/t/tavern_master.json)  
 ## Achievements
 | Name | Percentage | Users |

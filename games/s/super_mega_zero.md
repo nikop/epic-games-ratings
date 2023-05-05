@@ -1,4 +1,5 @@
 # Super Mega Zero
+[Store](https://store.epicgames.com/en-US/p/super-mega-zero-485299)  
 [View Rawdata](../../db/s/super_mega_zero.json)  
 ## Achievements
 | Name | Percentage | Users |

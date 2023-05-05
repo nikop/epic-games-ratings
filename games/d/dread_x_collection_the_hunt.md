@@ -1,4 +1,5 @@
 # Dread X Collection The Hunt
+[Store](https://store.epicgames.com/en-US/p/dread-x-collection-the-hunt-e9793e)  
 [View Rawdata](../../db/d/dread_x_collection_the_hunt.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -14,13 +14,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T13:11:01.6413156+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:03.433003+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:11:01.6413197+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:59.9052326+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:13.0094469+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:36:25.2710815+00:00",
   "AchievementSets": [
     {
       "ID": "d56841b",
@@ -30,14 +30,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:54.9787392+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:54.9787391+00:00",
-  "FirstSeen": "2023-02-26T04:57:46.7863374+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:42:13.0094438+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:27.1450969+00:00",
   "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:10:27.1450969+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:57:54.9787392+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-02-26T04:57:46.7863374+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:54.9787391+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "danger-forever-a10e7e"
 }

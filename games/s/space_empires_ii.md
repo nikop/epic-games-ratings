@@ -1,4 +1,5 @@
 # Space Empires II
+[Store](https://store.epicgames.com/en-US/p/space-empires-ii-1fece2)  
 [View Rawdata](../../db/s/space_empires_ii.json)  
 ## Achievements
 | Name | Percentage | Users |

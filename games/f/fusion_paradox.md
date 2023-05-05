@@ -1,4 +1,5 @@
 # Fusion Paradox
+[Store](https://store.epicgames.com/en-US/p/fusion-paradox-31b28a)  
 [View Rawdata](../../db/f/fusion_paradox.json)  
 ## Achievements
 | Name | Percentage | Users |

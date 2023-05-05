@@ -10,18 +10,18 @@ Diff (max vs sum): 39
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matchmaker | 74.00% | ~790,365 |
-| Bun-Puncher Supreme | 68.00% | ~726,281 |
-| You Mean Business | 68.00% | ~726,281 |
-| You're Getting Pretty Good At This! | 68.00% | ~726,281 |
-| Aerial Specialist | 63.00% | ~672,878 |
-| Proving Yourself | 63.00% | ~672,878 |
-| Stepping Out | 63.00% | ~672,878 |
-| The Throne Is Yours | 63.00% | ~672,878 |
+| Matchmaker | 74.00% | ~790,366 |
+| Bun-Puncher Supreme | 68.00% | ~726,282 |
+| You Mean Business | 68.00% | ~726,282 |
+| You're Getting Pretty Good At This! | 68.00% | ~726,282 |
+| Aerial Specialist | 63.00% | ~672,879 |
+| Proving Yourself | 63.00% | ~672,879 |
+| Stepping Out | 63.00% | ~672,879 |
+| The Throne Is Yours | 63.00% | ~672,879 |
 | Spike Specialist | 54.00% | ~576,753 |
 | Southpaw Specialist | 54.00% | ~576,753 |
 | Rightie Specialist | 54.00% | ~576,753 |
-| Signature Slammer | 43.00% | ~459,266 |
+| Signature Slammer | 43.00% | ~459,267 |
 | Distanced Damage Dealer | 42.00% | ~448,586 |
 | Watch Your Head | 42.00% | ~448,586 |
 | Catch This | 42.00% | ~448,586 |
@@ -39,7 +39,7 @@ Diff (max vs sum): 39
 | Going Down? | 29.00% | ~309,738 |
 | Run It Back | 6.00% | ~64,084 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,061 (Ranked 9)  
+Progressed: 1,068,062 (Ranked 9)  
 Completed: 31,619 (2.96%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 31,619 (2.96%) (Ranked 42)
 | 2023-05-02 | 1,067,597 | 31,615 |
 | 2023-05-03 | 1,067,773 | 31,617 |
 | 2023-05-04 | 1,067,966 | 31,618 |
-| 2023-05-05 | 1,068,061 | 31,619 |
+| 2023-05-05 | 1,068,062 | 31,619 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

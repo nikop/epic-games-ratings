@@ -1,4 +1,5 @@
 # Bibots
+[Store](https://store.epicgames.com/en-US/p/bibots-aad4d0)  
 [View Rawdata](../../db/b/bibots.json)  
 ## Achievements
 | Name | Percentage | Users |

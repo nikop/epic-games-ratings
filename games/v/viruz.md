@@ -1,4 +1,5 @@
 # ViruZ
+[Store](https://store.epicgames.com/en-US/p/viruz-873472)  
 [View Rawdata](../../db/v/viruz.json)  
 ## Achievements
 | Name | Percentage | Users |

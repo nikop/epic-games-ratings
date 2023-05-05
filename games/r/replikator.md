@@ -1,4 +1,5 @@
 # REPLIKATOR
+[Store](https://store.epicgames.com/en-US/p/replikator-6adddc)  
 [View Rawdata](../../db/r/replikator.json)  
 ## Achievements
 | Name | Percentage | Users |

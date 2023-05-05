@@ -1,4 +1,5 @@
 # Shinogi Chess Club
+[Store](https://store.epicgames.com/en-US/p/shinogi-chess-club-995dd7)  
 [View Rawdata](../../db/s/shinogi_chess_club.json)  
 ## Achievements
 | Name | Percentage | Users |

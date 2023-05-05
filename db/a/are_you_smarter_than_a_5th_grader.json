@@ -213,13 +213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-05T13:11:10.886427+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:16.4786389+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
   "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-05T13:11:10.8864442+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:19.84061+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:42:19.7634014+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:23.1927118+00:00",
   "AchievementSets": [
     {
       "ID": "6l18k14",
@@ -229,14 +229,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
-  "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:42:19.7633889+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "Ranking_EOS_Progress": 211,
-  "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
+  "Ranking_EOS_NewPlayers": 193,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a"
 }

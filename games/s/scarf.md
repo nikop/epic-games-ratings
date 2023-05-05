@@ -1,4 +1,5 @@
 # Scarf
+[Store](https://store.epicgames.com/en-US/p/scarf-dd1030)  
 [View Rawdata](../../db/s/scarf.json)  
 ## Achievements
 | Name | Percentage | Users |

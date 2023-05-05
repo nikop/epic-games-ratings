@@ -191,13 +191,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T13:10:29.9652352+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:29.7553353+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-05T13:10:29.9652529+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:39.6493568+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:30.0756109+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:34:20.7663308+00:00",
   "AchievementSets": [
     {
       "ID": "3jfhgga",
@@ -207,14 +207,16 @@
     }
   ],
   "EOS_Completed_Percentage": 2.56,
-  "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
-  "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_Completed": 51,
+  "LastChanged_Achievements": "2023-05-05T13:41:30.0755969+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "Ranking_EOS_Progress": 277,
-  "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00"
+  "Ranking_EOS_Completed": 51,
+  "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
+  "Ranking_EOS_NewPlayers": 232,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "jars-e39063"
 }

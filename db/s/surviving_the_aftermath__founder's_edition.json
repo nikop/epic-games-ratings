@@ -8,7 +8,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "10",
@@ -16,7 +16,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "11",
@@ -24,7 +24,7 @@
       "Name": "Really Friendly",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "12",
@@ -40,7 +40,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "14",
@@ -56,7 +56,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "16",
@@ -64,7 +64,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "17",
@@ -88,7 +88,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "2",
@@ -104,7 +104,7 @@
       "Name": "Famous Healer",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "21",
@@ -112,7 +112,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "22",
@@ -120,7 +120,7 @@
       "Name": "First Step",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3374
+      "UsersEstimate": 3375
     },
     {
       "ID": "23",
@@ -144,7 +144,7 @@
       "Name": "Cleaner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "26",
@@ -152,7 +152,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "27",
@@ -254,9 +254,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2201
     },
     {
       "ID": "39",
@@ -272,7 +272,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "40",
@@ -288,7 +288,7 @@
       "Name": "New Eden",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "42",
@@ -328,7 +328,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "47",
@@ -392,7 +392,7 @@
       "Name": "Amped Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "54",
@@ -456,7 +456,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "8",
@@ -1477,6 +1477,11 @@
       "Time": "2023-05-05T12:06:05.1100348+00:00",
       "NumProgressed": 4890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:42:17.4080467+00:00",
+      "NumProgressed": 4892,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -2371,36 +2376,37 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-05T13:11:07.6385352+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:04.1425716+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_Completed": 0,
-  "EOS_Progressed": 4890,
-  "LastUpdate_Achievements": "2023-05-05T13:11:07.63861+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:00.9796621+00:00",
+  "EOS_Progressed": 4892,
+  "LastUpdate_Achievements": "2023-05-05T13:42:17.4081054+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:37:05.8661836+00:00",
   "AchievementSets": [
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 4890,
+      "Progressed": 4892,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T17:00:01.1569445+00:00",
-  "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
-  "MaxAwardTitle": "Extremely Fun",
-  "NumberOfAwardsMax": 99,
-  "NumberOfAwards": 651,
-  "NumberOfRatings": 836,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 121,
-  "Ranking_PopularitySum": 267,
-  "Ranking_Popularity": 321,
-  "Ranking_Rating": 574,
-  "Rating": 4.47,
+  "LastChanged_Achievements": "2023-05-05T13:42:17.4080464+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
+  "Rating": 4.47,
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 321,
+  "Ranking_PopularitySum": 267,
+  "Ranking_EOS_Progress": 121,
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-05-04T17:00:01.1569445+00:00",
+  "Ranking_EOS_NewPlayers": 88,
+  "NumberOfRatings": 836,
+  "NumberOfAwards": 651,
+  "NumberOfAwardsMax": 99,
+  "MaxAwardTitle": "Extremely Fun",
+  "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "surviving-the-aftermath/home"
 }

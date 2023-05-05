@@ -1,4 +1,5 @@
 # Yars: Recharged
+[Store](https://store.epicgames.com/en-US/p/yars-revenge-recharged-fbdc11)  
 [View Rawdata](../../db/y/yars__recharged.json)  
 ## Achievements
 | Name | Percentage | Users |

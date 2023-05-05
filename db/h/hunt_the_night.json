@@ -197,13 +197,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T13:10:45.0751904+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:13.2197163+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-05T13:10:45.0752076+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:43.2745508+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:41:41.0024188+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:35:05.753843+00:00",
   "AchievementSets": [
     {
       "ID": "2eim4o3",
@@ -213,14 +213,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
-  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
-  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T13:41:41.0024026+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
   "Ranking_EOS_Progress": 297,
-  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
+  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "hunt-the-night-3f1eb5"
 }
