@@ -350,9 +350,9 @@
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -838,13 +838,13 @@
   ],
   "TotalAchievementsXP": 1550,
   "TotalAchievements": 68,
-  "LastChanged_Achievements": "2023-05-05T09:05:27.8804481+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:31.8459014+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 24,
   "EOS_Completed": 2,
   "EOS_Progressed": 680,
-  "LastUpdate_Achievements": "2023-05-05T09:05:27.8805089+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:37.7615887+00:00",
+  "LastUpdate_Achievements": "2023-05-05T10:04:31.8459696+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:42.7489546+00:00",
   "AchievementSets": [
     {
       "ID": "83mdf7p",

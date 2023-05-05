@@ -48,7 +48,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "BackHomeFirstTime",
@@ -56,7 +56,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76810
+      "UsersEstimate": 76811
     },
     {
       "ID": "BackHomeNTimes",
@@ -120,7 +120,7 @@
       "Name": "Fixer II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "CreditLevel3",
@@ -208,7 +208,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14867
     },
     {
       "ID": "GrowPlants2",
@@ -248,7 +248,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -272,7 +272,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -288,7 +288,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "KillOthers1",
@@ -304,7 +304,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "KillOthers3",
@@ -320,7 +320,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -400,7 +400,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24777
+      "UsersEstimate": 24778
     },
     {
       "ID": "ReachNDays2",
@@ -408,7 +408,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "ReachNDays3",
@@ -1597,6 +1597,11 @@
       "Time": "2023-05-05T09:06:17.8860376+00:00",
       "NumProgressed": 247774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T10:05:15.2147081+00:00",
+      "NumProgressed": 247776,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1903,18 +1908,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T09:06:17.886037+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:05:15.2147075+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 778,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247774,
-  "LastUpdate_Achievements": "2023-05-05T09:06:17.8860828+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:18.9893034+00:00",
+  "EOS_Progressed": 247776,
+  "LastUpdate_Achievements": "2023-05-05T10:05:15.2147571+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:28.1264183+00:00",
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247774,
+      "Progressed": 247776,
       "Completed": 1
     }
   ],
@@ -1925,7 +1930,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 48,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 39,
   "Ranking_PopularitySum": 490,

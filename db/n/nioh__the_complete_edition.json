@@ -43,13 +43,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 749
+      "Count": 751
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 719
+      "Count": 721
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4026,6 +4026,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 16779,
       "NumberOfAwardsMax": 7235
+    },
+    {
+      "Time": "2023-05-05T09:59:46.5830953+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 16783,
+      "NumberOfAwardsMax": 7235
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4034,18 +4040,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:05:17.511351+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:42.6468261+00:00",
+  "LastUpdate_Achievements": "2023-05-05T10:04:23.0994447+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:46.5830958+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T17:00:43.9842574+00:00",
+  "LastChanged": "2023-05-05T09:59:46.5830951+00:00",
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 7235,
-  "NumberOfAwards": 16779,
+  "NumberOfAwards": 16783,
   "NumberOfRatings": 10807,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 56,

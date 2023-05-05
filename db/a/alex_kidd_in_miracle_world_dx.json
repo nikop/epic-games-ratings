@@ -149,13 +149,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T09:05:26.4948354+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:30.6372966+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 3,
   "EOS_Progressed": 226,
-  "LastUpdate_Achievements": "2023-05-05T09:05:26.4948454+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:04.956303+00:00",
+  "LastUpdate_Achievements": "2023-05-05T10:04:30.6373093+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:39.7381732+00:00",
   "AchievementSets": [
     {
       "ID": "7im05fi",
@@ -171,7 +171,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_Progress": 220,
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00"

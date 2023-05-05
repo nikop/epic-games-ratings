@@ -4,34 +4,34 @@ Rating: 4.68 (Ranked 233)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,170  (Ranked 60)  
-Sum: 42,713 (Ranked 26)  
+Sum: 42,724 (Ranked 26)  
 Diff (max vs sum): 34  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,660 |
-| That's a Grand Army | 8.00% | ~2,364 |
-| That is mine! | 8.00% | ~2,364 |
-| Victorious! | 8.00% | ~2,364 |
-| Brothers in Arms | 6.00% | ~1,773 |
-| That's a Grand Navy | 6.00% | ~1,773 |
-| Seriously?! | 6.00% | ~1,773 |
-| For the Glory | 5.00% | ~1,478 |
-| Cold War | 4.00% | ~1,182 |
+| Until death do us apart | 9.00% | ~2,662 |
+| That's a Grand Army | 8.00% | ~2,367 |
+| That is mine! | 8.00% | ~2,367 |
+| Victorious! | 8.00% | ~2,367 |
+| Brothers in Arms | 6.00% | ~1,775 |
+| That's a Grand Navy | 6.00% | ~1,775 |
+| Seriously?! | 6.00% | ~1,775 |
+| For the Glory | 5.00% | ~1,479 |
+| Cold War | 4.00% | ~1,183 |
 | Defender of the Faith | 3.00% | ~887 |
 | It's all about the money | 3.00% | ~887 |
 | Respected | 3.00% | ~887 |
 | True Catholic | 3.00% | ~887 |
-| Blockader | 2.00% | ~591 |
-| Combined Arms | 2.00% | ~591 |
-| Double the Love | 2.00% | ~591 |
-| Gentle Persuasion | 2.00% | ~591 |
-| It's all about luck | 2.00% | ~591 |
-| Queen of Conquest | 2.00% | ~591 |
-| Royal Authority | 2.00% | ~591 |
-| The Princess is in this Castle | 2.00% | ~591 |
-| Total Control | 2.00% | ~591 |
-| Truly Divine Ruler | 2.00% | ~591 |
+| Blockader | 2.00% | ~592 |
+| Combined Arms | 2.00% | ~592 |
+| Double the Love | 2.00% | ~592 |
+| Gentle Persuasion | 2.00% | ~592 |
+| It's all about luck | 2.00% | ~592 |
+| Queen of Conquest | 2.00% | ~592 |
+| Royal Authority | 2.00% | ~592 |
+| The Princess is in this Castle | 2.00% | ~592 |
+| Total Control | 2.00% | ~592 |
+| Truly Divine Ruler | 2.00% | ~592 |
 | Agressive Expander | 1.00% | ~296 |
 | Azur semé de lis or | 1.00% | ~296 |
 | Bright Spark | 1.00% | ~296 |
@@ -47,12 +47,12 @@ Diff (max vs sum): 34
 | Down Under | 0.50% | ~148 |
 | Electable! | 0.50% | ~148 |
 | This navy can take it all | 0.50% | ~148 |
-| Time Bandit | 0.50% | ~148 |
 | Trustworthy | 0.50% | ~148 |
 | All belongs to Mother Russia | 0.40% | ~118 |
 | At every continent | 0.40% | ~118 |
 | Early-Modern Warfare | 0.40% | ~118 |
 | The pen is mightier than the sword | 0.40% | ~118 |
+| Time Bandit | 0.40% | ~118 |
 | Trophy Hunter | 0.40% | ~118 |
 | Absolutely | 0.30% | ~89 |
 | Dude, Where's my Boat? | 0.30% | ~89 |
@@ -82,6 +82,7 @@ Diff (max vs sum): 34
 | The Chrysanthemum Throne | 0.20% | ~59 |
 | Three Trivial Tributary Tribes | 0.20% | ~59 |
 | Traditional Player | 0.20% | ~59 |
+| Vasa or Wettin? | 0.20% | ~59 |
 | Wonderful | 0.20% | ~59 |
 | World Discoverer | 0.20% | ~59 |
 | A Blessed Nation | 0.10% | ~30 |
@@ -248,7 +249,6 @@ Diff (max vs sum): 34
 | Trade Hegemon | 0.10% | ~30 |
 | Turning the Tide | 0.10% | ~30 |
 | Turtles all the way down | 0.10% | ~30 |
-| Vasa or Wettin? | 0.10% | ~30 |
 | Venetian Sea | 0.10% | ~30 |
 | Viva la Revolución! | 0.10% | ~30 |
 | Voltaire's Nightmare | 0.10% | ~30 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,553 (Ranked 82)  
+Progressed: 29,582 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,12 +379,12 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,553 | 0 |
+| 2023-05-05 | 29,582 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,170 |
-| This game is Highly Recommended | 4,942 |
+| This game is Highly Recommended | 4,953 |
 | This game has Challenging Combat | 4,930 |
 | This game is Extremely Fun | 4,896 |
 | This game has Diverse Characters | 4,859 |
@@ -504,4 +504,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
-| 2023-05-05 | 4.68 | - | 5,170 | 42,713 |
+| 2023-05-05 | 4.68 | - | 5,170 | 42,724 |

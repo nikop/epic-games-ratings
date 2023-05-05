@@ -36,7 +36,7 @@ Diff (max vs sum): -72
 | Don't draw dicks pls | 84.00% | ~1,671 |
 | Ripped | 84.00% | ~1,671 |
 | Beat the big arena | 82.00% | ~1,631 |
-| Force Cube | 81.00% | ~1,611 |
+| Force Cube | 82.00% | ~1,631 |
 | Got Battery | 80.00% | ~1,591 |
 | Guard Distracted | 80.00% | ~1,591 |
 | Translocator | 79.00% | ~1,571 |

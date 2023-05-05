@@ -11,9 +11,9 @@ Diff (max vs sum): 47
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~18,098 |
 | Wallbanger | 5.00% | ~18,098 |
-| Exploitative | 4.00% | ~14,478 |
-| High Speed Low Drag | 4.00% | ~14,478 |
-| Wet Feet | 4.00% | ~14,478 |
+| Exploitative | 4.00% | ~14,479 |
+| High Speed Low Drag | 4.00% | ~14,479 |
+| Wet Feet | 4.00% | ~14,479 |
 | Checkpoint Victory | 3.00% | ~10,859 |
 | Lucky | 3.00% | ~10,859 |
 | Stylin' | 3.00% | ~10,859 |
@@ -45,7 +45,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,954 (Ranked 35)  
+Progressed: 361,970 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 361,954 | 2 |
+| 2023-05-05 | 361,970 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

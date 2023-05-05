@@ -62,9 +62,9 @@ Rating: 4.43 (Ranked 633)
 | Alpha | 1.00% | ~6 |
 | Das Familienjuwel | 0.90% | ~6 |
 | Eagle Eyed | 0.70% | ~5 |
+| Up close and personal | 0.70% | ~5 |
 | Can't Outrun A Bullet | 0.70% | ~5 |
 | Master of Secondaries | 0.60% | ~4 |
-| Up close and personal | 0.60% | ~4 |
 | Master of Pistols | 0.40% | ~3 |
 | Master of Rifles | 0.40% | ~3 |
 | Master-at-arms | 0.40% | ~3 |

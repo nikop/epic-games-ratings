@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472045
+      "UsersEstimate": 472046
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380258
+      "UsersEstimate": 380259
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -48,7 +48,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52449
+      "UsersEstimate": 52450
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -176,7 +176,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52449
+      "UsersEstimate": 52450
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -232,7 +232,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52449
+      "UsersEstimate": 52450
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163904
+      "UsersEstimate": 163905
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -304,7 +304,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52449
+      "UsersEstimate": 52450
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -1412,6 +1412,11 @@
       "Time": "2023-05-05T09:05:32.2807804+00:00",
       "NumProgressed": 655618,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T10:04:35.6684556+00:00",
+      "NumProgressed": 655619,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2175,18 +2180,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T09:05:32.28078+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:35.668455+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 393,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655618,
-  "LastUpdate_Achievements": "2023-05-05T09:05:32.2808164+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:57:25.4359663+00:00",
+  "EOS_Progressed": 655619,
+  "LastUpdate_Achievements": "2023-05-05T10:04:35.6685054+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:07.6080336+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655618,
+      "Progressed": 655619,
       "Completed": 164
     }
   ],

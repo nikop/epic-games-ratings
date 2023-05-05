@@ -128,7 +128,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 25692
+      "UsersEstimate": 25693
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -208,7 +208,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -232,7 +232,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 17445
+      "UsersEstimate": 17446
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -248,7 +248,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 19983
+      "UsersEstimate": 19984
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -272,7 +272,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19031
+      "UsersEstimate": 19032
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -280,7 +280,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 21569
+      "UsersEstimate": 21570
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -344,7 +344,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 29181
+      "UsersEstimate": 29182
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1316,6 +1316,11 @@
       "Time": "2023-05-05T09:05:21.4398006+00:00",
       "NumProgressed": 31719,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-05-05T10:04:26.4827598+00:00",
+      "NumProgressed": 31720,
+      "NumCompleted": 147
     }
   ],
   "RatingHistory": [
@@ -1509,18 +1514,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T09:05:21.4398002+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:26.4827593+00:00",
   "EOS_NewCompleters": 5,
   "EOS_NewPlayers": 519,
   "EOS_Completed": 147,
-  "EOS_Progressed": 31719,
-  "LastUpdate_Achievements": "2023-05-05T09:05:21.439839+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:18.5325139+00:00",
+  "EOS_Progressed": 31720,
+  "LastUpdate_Achievements": "2023-05-05T10:04:26.4828026+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:50.0261019+00:00",
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 31719,
+      "Progressed": 31720,
       "Completed": 147
     }
   ],

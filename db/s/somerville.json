@@ -8,7 +8,7 @@
       "Name": "Blues Jam.",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SomervilleFamilyFirst",
@@ -16,7 +16,7 @@
       "Name": "Family First.",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -64,7 +64,7 @@
       "Name": "Understanding.",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
@@ -157,6 +157,11 @@
       "Time": "2023-05-05T00:04:48.6885045+00:00",
       "NumProgressed": 1550,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T10:04:32.1839877+00:00",
+      "NumProgressed": 1551,
+      "NumCompleted": 25
     }
   ],
   "RatingHistory": [
@@ -221,18 +226,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-05T09:05:28.2699541+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:32.1839871+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_Completed": 25,
-  "EOS_Progressed": 1550,
-  "LastUpdate_Achievements": "2023-05-05T09:05:28.2699631+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:57:34.7342572+00:00",
+  "EOS_Progressed": 1551,
+  "LastUpdate_Achievements": "2023-05-05T10:04:32.1839966+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:15.0630504+00:00",
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1550,
+      "Progressed": 1551,
       "Completed": 25
     }
   ],
@@ -243,7 +248,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_Progress": 147,
   "Ranking_PopularitySum": 490,

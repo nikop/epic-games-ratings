@@ -16,7 +16,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -24,7 +24,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -40,7 +40,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -56,7 +56,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -80,7 +80,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -144,7 +144,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -152,7 +152,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -160,7 +160,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -208,7 +208,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -439,6 +439,11 @@
     {
       "Time": "2023-05-04T19:39:47.5800636+00:00",
       "NumProgressed": 6278,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-05T10:04:46.3003402+00:00",
+      "NumProgressed": 6280,
       "NumCompleted": 50
     }
   ],
@@ -733,18 +738,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-05T09:05:44.8922116+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:46.3003396+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_Completed": 50,
-  "EOS_Progressed": 6278,
-  "LastUpdate_Achievements": "2023-05-05T09:05:44.8922284+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:57:19.0613329+00:00",
+  "EOS_Progressed": 6280,
+  "LastUpdate_Achievements": "2023-05-05T10:04:46.3003606+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:02.2400805+00:00",
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6278,
+      "Progressed": 6280,
       "Completed": 50
     }
   ],

@@ -9,21 +9,21 @@ Diff (max vs sum): 28
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~229,564 |
-| First Victory | 50.00% | ~229,564 |
-| Clean Sheet | 49.00% | ~224,973 |
+| He's Signed! | 50.00% | ~229,565 |
+| First Victory | 50.00% | ~229,565 |
+| Clean Sheet | 49.00% | ~224,974 |
 | He's Sold! | 47.00% | ~215,791 |
 | I'm The Boss! | 41.00% | ~188,243 |
 | Hat-trick | 41.00% | ~188,243 |
 | Scoring Streak | 37.00% | ~169,878 |
-| Unbeatable! | 36.00% | ~165,286 |
-| Thumping | 36.00% | ~165,286 |
+| Unbeatable! | 36.00% | ~165,287 |
+| Thumping | 36.00% | ~165,287 |
 | Superb Dressing Room Atmosphere | 34.00% | ~156,104 |
-| Total Support | 32.00% | ~146,921 |
+| Total Support | 32.00% | ~146,922 |
 | Record Signing | 31.00% | ~142,330 |
 | He's a Natural | 30.00% | ~137,739 |
 | Millionaire's Club | 30.00% | ~137,739 |
-| Team Performance | 29.00% | ~133,147 |
+| Team Performance | 29.00% | ~133,148 |
 | Parked The Bus | 28.00% | ~128,556 |
 | Shrewd Spender | 28.00% | ~128,556 |
 | Star Man | 28.00% | ~128,556 |
@@ -37,9 +37,9 @@ Diff (max vs sum): 28
 | Full Faith | 23.00% | ~105,600 |
 | The Boss | 23.00% | ~105,600 |
 | Armchair Expert | 23.00% | ~105,600 |
-| Iron Curtain | 22.00% | ~101,008 |
-| Top Of The Class | 22.00% | ~101,008 |
-| Goal Machine | 22.00% | ~101,008 |
+| Iron Curtain | 22.00% | ~101,009 |
+| Top Of The Class | 22.00% | ~101,009 |
+| Goal Machine | 22.00% | ~101,009 |
 | Splashing The Cash | 21.00% | ~96,417 |
 | What A Goal! | 21.00% | ~96,417 |
 | Cup Glory! | 21.00% | ~96,417 |
@@ -49,13 +49,13 @@ Diff (max vs sum): 28
 | Do The Double | 18.00% | ~82,643 |
 | Top Form | 16.00% | ~73,461 |
 | Cash To Burn | 16.00% | ~73,461 |
-| Overachiever! | 15.00% | ~68,869 |
-| Rushed signing | 15.00% | ~68,869 |
+| Overachiever! | 15.00% | ~68,870 |
+| Rushed signing | 15.00% | ~68,870 |
 | Beating Expectations | 14.00% | ~64,278 |
 | Eyes and Ears | 14.00% | ~64,278 |
 | Window Shopping | 14.00% | ~64,278 |
 | Comeback King! | 13.00% | ~59,687 |
-| You're Up! | 12.00% | ~55,095 |
+| You're Up! | 12.00% | ~55,096 |
 | Money, Money, Money | 11.00% | ~50,504 |
 | Invincible! | 10.00% | ~45,913 |
 | Best In The World | 10.00% | ~45,913 |
@@ -108,7 +108,7 @@ Diff (max vs sum): 28
 | Draft Value | 0.10% | ~459 |
 | Shoestring Budget | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,129 (Ranked 26)  
+Progressed: 459,130 (Ranked 26)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
 | 2023-05-04 | 459,113 | 18 |
-| 2023-05-05 | 459,129 | 18 |
+| 2023-05-05 | 459,130 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
