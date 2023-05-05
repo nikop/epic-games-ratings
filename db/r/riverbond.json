@@ -24,7 +24,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 360879
+      "UsersEstimate": 360880
     },
     {
       "ID": "12",
@@ -40,7 +40,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67020
+      "UsersEstimate": 67021
     },
     {
       "ID": "14",
@@ -88,7 +88,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 319636
+      "UsersEstimate": 319637
     },
     {
       "ID": "2",
@@ -232,7 +232,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 257771
+      "UsersEstimate": 257772
     },
     {
       "ID": "36",
@@ -264,7 +264,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 175284
+      "UsersEstimate": 175285
     },
     {
       "ID": "4",
@@ -336,7 +336,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 319636
+      "UsersEstimate": 319637
     },
     {
       "ID": "48",
@@ -344,7 +344,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 103108
+      "UsersEstimate": 103109
     },
     {
       "ID": "49",
@@ -352,7 +352,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 175284
+      "UsersEstimate": 175285
     },
     {
       "ID": "5",
@@ -384,7 +384,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237149
+      "UsersEstimate": 237150
     },
     {
       "ID": "53",
@@ -1555,6 +1555,11 @@
       "Time": "2023-05-05T07:05:23.3677726+00:00",
       "NumProgressed": 515542,
       "NumCompleted": 400
+    },
+    {
+      "Time": "2023-05-05T08:05:36.4064957+00:00",
+      "NumProgressed": 515543,
+      "NumCompleted": 400
     }
   ],
   "RatingHistory": [
@@ -2015,18 +2020,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-05T07:05:23.3677722+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:36.4064951+00:00",
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 741,
   "EOS_Completed": 400,
-  "EOS_Progressed": 515542,
-  "LastUpdate_Achievements": "2023-05-05T07:05:23.3678178+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:31.7085963+00:00",
+  "EOS_Progressed": 515543,
+  "LastUpdate_Achievements": "2023-05-05T08:05:36.4065532+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:11.1892408+00:00",
   "AchievementSets": [
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 515542,
+      "Progressed": 515543,
       "Completed": 400
     }
   ],

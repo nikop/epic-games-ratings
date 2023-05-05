@@ -80,7 +80,7 @@
       "Name": "Lock, Stock",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "E1M1",
@@ -88,7 +88,7 @@
       "Name": "E1M1",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Everyone_is_here",
@@ -200,7 +200,7 @@
       "Name": "Mosquito bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Scout",
@@ -358,6 +358,11 @@
     {
       "Time": "2023-05-04T18:04:45.4390533+00:00",
       "NumProgressed": 869,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T08:05:53.629547+00:00",
+      "NumProgressed": 870,
       "NumCompleted": 1
     }
   ],
@@ -635,22 +640,22 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T07:05:37.613453+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:53.6295463+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_Completed": 1,
-  "EOS_Progressed": 869,
-  "LastUpdate_Achievements": "2023-05-05T07:05:37.6134701+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:59:10.5636597+00:00",
+  "EOS_Progressed": 870,
+  "LastUpdate_Achievements": "2023-05-05T08:05:53.6295693+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:18.806932+00:00",
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "NumberOfAwardsMax": 0,
@@ -658,7 +663,7 @@
   "NumberOfRatings": 98,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_Progress": 164,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,

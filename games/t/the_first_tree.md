@@ -1,6 +1,6 @@
 # The First Tree
 [View Rawdata](../../db/t/the_first_tree.json)  
-Rating: 3.98 (Ranked 882)  
+Rating: 3.98 (Ranked 883)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

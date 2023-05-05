@@ -1,6 +1,6 @@
 # Chernobylite
 [View Rawdata](../../db/c/chernobylite.json)  
-Rating: 4.13 (Ranked 844)  
+Rating: 4.13 (Ranked 845)  
 Number of Ratings: 149  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

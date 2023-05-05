@@ -24,7 +24,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "bonus4",
@@ -56,7 +56,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "campaign10",
@@ -136,7 +136,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "campaign2",
@@ -144,7 +144,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "campaign20",
@@ -152,7 +152,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "campaign3",
@@ -160,7 +160,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "campaign4",
@@ -168,7 +168,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "campaign5",
@@ -232,15 +232,15 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 126
     },
     {
       "ID": "scenario5",
@@ -623,6 +623,11 @@
       "Time": "2023-05-05T06:05:53.5976347+00:00",
       "NumProgressed": 2509,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T08:06:09.53697+00:00",
+      "NumProgressed": 2510,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -635,18 +640,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-05T07:05:52.549861+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:06:09.5369692+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_Completed": 8,
-  "EOS_Progressed": 2509,
-  "LastUpdate_Achievements": "2023-05-05T07:05:52.5498815+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:00:06.067084+00:00",
+  "EOS_Progressed": 2510,
+  "LastUpdate_Achievements": "2023-05-05T08:06:09.5369968+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:00:18.0211934+00:00",
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2509,
+      "Progressed": 2510,
       "Completed": 8
     }
   ],

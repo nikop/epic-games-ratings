@@ -15,14 +15,14 @@ Diff (max vs sum): 99
 | Cordon Bleu | 43.00% | ~993 |
 | Tapped! | 35.00% | ~808 |
 | Eureka | 31.00% | ~716 |
-| Scourge Slayer | 25.00% | ~577 |
+| Scourge Slayer | 25.00% | ~578 |
 | Science, Troglodyte! | 23.00% | ~531 |
 | Exceptional Skill | 22.00% | ~508 |
 | Home Sweet Home | 22.00% | ~508 |
 | Encyclopedic! | 20.00% | ~462 |
-| A Fortress Toppled! | 16.00% | ~369 |
-| Apex Predator | 16.00% | ~369 |
-| The Power of Family | 16.00% | ~369 |
+| A Fortress Toppled! | 16.00% | ~370 |
+| Apex Predator | 16.00% | ~370 |
+| The Power of Family | 16.00% | ~370 |
 | Strange amalgams | 13.00% | ~300 |
 | The Power of Faith | 13.00% | ~300 |
 | The Power of Freedom | 9.00% | ~208 |
@@ -35,7 +35,7 @@ Diff (max vs sum): 99
 | The stuff of legends. | 7.00% | ~162 |
 | Blood and justice | 6.00% | ~139 |
 | Hold my Mead and Watch This | 6.00% | ~139 |
-| Ancestor's Pride | 5.00% | ~115 |
+| Ancestor's Pride | 5.00% | ~116 |
 | For All Aurai | 4.00% | ~92 |
 | Memory of a legend | 4.00% | ~92 |
 | Light of Levant | 3.00% | ~69 |
@@ -52,7 +52,7 @@ Diff (max vs sum): 99
 | Master of Aurai | 0.30% | ~7 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,309 (Ranked 137)  
+Progressed: 2,310 (Ranked 137)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-02 | 2,295 | 1 |
 | 2023-05-03 | 2,298 | 1 |
 | 2023-05-04 | 2,305 | 1 |
-| 2023-05-05 | 2,309 | 1 |
+| 2023-05-05 | 2,310 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

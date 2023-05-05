@@ -1,6 +1,6 @@
 # Realpolitiks II
 [View Rawdata](../../db/r/realpolitiks_ii.json)  
-Rating: 4.14 (Ranked 842)  
+Rating: 4.14 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

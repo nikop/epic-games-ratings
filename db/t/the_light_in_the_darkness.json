@@ -24,7 +24,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Green Ticket Roundup",
@@ -70,9 +70,9 @@
       "ID": "Little Helper",
       "SetID": "b40dflc",
       "Name": "Little Helper",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 359
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -620,6 +620,11 @@
       "Time": "2023-05-04T21:05:59.0599585+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-05-05T08:05:56.5374421+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 85
     }
   ],
   "RatingHistory": [
@@ -632,18 +637,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-05T07:05:40.0190485+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:56.5374415+00:00",
   "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_Completed": 85,
-  "EOS_Progressed": 1121,
-  "LastUpdate_Achievements": "2023-05-05T07:05:40.0190593+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:59:27.8359356+00:00",
+  "EOS_Progressed": 1122,
+  "LastUpdate_Achievements": "2023-05-05T08:05:56.5374551+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:39.164476+00:00",
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 85
     }
   ],

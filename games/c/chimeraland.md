@@ -1,6 +1,6 @@
 # Chimeraland
 [View Rawdata](../../db/c/chimeraland.json)  
-Rating: 3.95 (Ranked 887)  
+Rating: 3.95 (Ranked 888)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -24,7 +24,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -144,7 +144,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -160,7 +160,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -1490,6 +1490,11 @@
     {
       "Time": "2023-05-05T07:05:04.9953369+00:00",
       "NumProgressed": 361939,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T08:05:16.3059314+00:00",
+      "NumProgressed": 361948,
       "NumCompleted": 2
     }
   ],
@@ -3231,18 +3236,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T07:05:04.9953365+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:16.3059307+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3847,
+  "EOS_NewPlayers": 3849,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361939,
-  "LastUpdate_Achievements": "2023-05-05T07:05:04.9953624+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:54.9043964+00:00",
+  "EOS_Progressed": 361948,
+  "LastUpdate_Achievements": "2023-05-05T08:05:16.3059619+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:41.6344457+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 361939,
+      "Progressed": 361948,
       "Completed": 2
     }
   ],

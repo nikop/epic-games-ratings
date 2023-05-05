@@ -14,9 +14,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "angelpower",
@@ -262,9 +262,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "hunter",
@@ -510,9 +510,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "titanpower",
@@ -1546,13 +1546,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 75,
-  "LastChanged_Achievements": "2023-05-05T07:05:23.0885258+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:36.1318362+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 281,
   "EOS_Completed": 1,
   "EOS_Progressed": 842,
-  "LastUpdate_Achievements": "2023-05-05T07:05:23.0885896+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:03.6842684+00:00",
+  "LastUpdate_Achievements": "2023-05-05T08:05:36.1319186+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:53.1210597+00:00",
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
@@ -1568,7 +1568,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_Progress": 167,
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00"

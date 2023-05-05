@@ -1,6 +1,6 @@
 # Edge Of Eternity
 [View Rawdata](../../db/e/edge_of_eternity.json)  
-Rating: 3.79 (Ranked 903)  
+Rating: 3.79 (Ranked 904)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

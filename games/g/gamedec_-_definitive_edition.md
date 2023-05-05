@@ -9,23 +9,23 @@ Diff (max vs sum): -56
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,448 |
-| Powergamer | 26.00% | ~57,988 |
-| Barely scratched the surface | 25.00% | ~55,757 |
-| Write that down | 24.00% | ~53,527 |
-| Guns, lots of guns | 12.00% | ~26,763 |
-| Collector | 11.00% | ~24,533 |
-| Elementary! | 8.00% | ~17,842 |
-| Pumpkin Jack | 8.00% | ~17,842 |
-| Wake up! | 8.00% | ~17,842 |
-| It's honest work | 7.00% | ~15,612 |
-| Griever | 7.00% | ~15,612 |
+| I will finish what you started | 28.00% | ~62,451 |
+| Powergamer | 26.00% | ~57,990 |
+| Barely scratched the surface | 25.00% | ~55,760 |
+| Write that down | 24.00% | ~53,530 |
+| Guns, lots of guns | 12.00% | ~26,765 |
+| Collector | 11.00% | ~24,534 |
+| Elementary! | 8.00% | ~17,843 |
+| Pumpkin Jack | 8.00% | ~17,843 |
+| Wake up! | 8.00% | ~17,843 |
+| It's honest work | 7.00% | ~15,613 |
+| Griever | 7.00% | ~15,613 |
 | Me smart | 6.00% | ~13,382 |
-| Good listener | 5.00% | ~11,151 |
-| Trash compactor | 5.00% | ~11,151 |
-| Valedictorian | 5.00% | ~11,151 |
-| BOY! | 4.00% | ~8,921 |
-| Ka-ching! | 4.00% | ~8,921 |
+| Good listener | 5.00% | ~11,152 |
+| Trash compactor | 5.00% | ~11,152 |
+| Valedictorian | 5.00% | ~11,152 |
+| BOY! | 4.00% | ~8,922 |
+| Ka-ching! | 4.00% | ~8,922 |
 | I like to sniff around | 3.00% | ~6,691 |
 | Mind reader | 3.00% | ~6,691 |
 | So you like to read? | 3.00% | ~6,691 |
@@ -62,7 +62,7 @@ Diff (max vs sum): -56
 | This is the way | 0.20% | ~446 |
 | Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,029 (Ranked 42)  
+Progressed: 223,040 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
 | 2023-05-04 | 222,974 | 5 |
-| 2023-05-05 | 223,029 | 5 |
+| 2023-05-05 | 223,040 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

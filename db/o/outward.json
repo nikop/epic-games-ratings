@@ -8,7 +8,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "AceDetective_9",
@@ -24,7 +24,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ApexPredator_27",
@@ -32,7 +32,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "BloodAndJustice_50",
@@ -216,7 +216,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -272,7 +272,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -601,6 +601,11 @@
     {
       "Time": "2023-05-05T07:05:22.6854151+00:00",
       "NumProgressed": 2309,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T08:05:35.5779878+00:00",
+      "NumProgressed": 2310,
       "NumCompleted": 1
     }
   ],
@@ -999,18 +1004,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-05T07:05:22.6854144+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:35.5779871+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2309,
-  "LastUpdate_Achievements": "2023-05-05T07:05:22.6854406+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:48.5800837+00:00",
+  "EOS_Progressed": 2310,
+  "LastUpdate_Achievements": "2023-05-05T08:05:35.5780223+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:34.4835435+00:00",
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2309,
+      "Progressed": 2310,
       "Completed": 1
     }
   ],
@@ -1022,7 +1027,7 @@
   "NumberOfAwards": 238,
   "NumberOfRatings": 266,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 137,
   "Ranking_PopularitySum": 341,

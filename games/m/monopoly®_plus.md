@@ -1,6 +1,6 @@
 # MONOPOLY® PLUS
 [View Rawdata](../../db/m/monopoly®_plus.json)  
-Rating: 3.92 (Ranked 891)  
+Rating: 3.92 (Ranked 892)  
 Number of Ratings: 142  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

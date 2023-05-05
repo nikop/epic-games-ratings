@@ -8,7 +8,7 @@
       "Name": "Long and Winding Road",
       "Percentage": 94,
       "XP": 40,
-      "UsersEstimate": 367430
+      "UsersEstimate": 367456
     },
     {
       "ID": "ACH_10",
@@ -16,7 +16,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 70359
+      "UsersEstimate": 70364
     },
     {
       "ID": "ACH_11",
@@ -24,7 +24,7 @@
       "Name": "Belly Of The Beast",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 46906
+      "UsersEstimate": 46909
     },
     {
       "ID": "ACH_12",
@@ -32,7 +32,7 @@
       "Name": "The Prestige",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 27362
+      "UsersEstimate": 27364
     },
     {
       "ID": "ACH_13",
@@ -40,7 +40,7 @@
       "Name": "Lest Ye Be Judged",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 105538
+      "UsersEstimate": 105546
     },
     {
       "ID": "ACH_14",
@@ -48,7 +48,7 @@
       "Name": "Legends Grow",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 62541
+      "UsersEstimate": 62546
     },
     {
       "ID": "ACH_15",
@@ -56,7 +56,7 @@
       "Name": "Exotique",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 54724
+      "UsersEstimate": 54728
     },
     {
       "ID": "ACH_16",
@@ -64,7 +64,7 @@
       "Name": "Seal the Deal",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19544
+      "UsersEstimate": 19546
     },
     {
       "ID": "ACH_17",
@@ -72,7 +72,7 @@
       "Name": "Fashion Statement",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31271
+      "UsersEstimate": 31273
     },
     {
       "ID": "ACH_18",
@@ -80,7 +80,7 @@
       "Name": "Heart of the Awoken",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 82085
+      "UsersEstimate": 82091
     },
     {
       "ID": "ACH_19",
@@ -88,7 +88,7 @@
       "Name": "An Exotic Journey",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 54724
+      "UsersEstimate": 54728
     },
     {
       "ID": "ACH_2",
@@ -96,7 +96,7 @@
       "Name": "Zavala\u0027s Lieutenant",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 78177
+      "UsersEstimate": 78182
     },
     {
       "ID": "ACH_20",
@@ -104,7 +104,7 @@
       "Name": "High-Stakes Play",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 74268
+      "UsersEstimate": 74273
     },
     {
       "ID": "ACH_21",
@@ -112,7 +112,7 @@
       "Name": "Darkness Falls",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 50815
+      "UsersEstimate": 50818
     },
     {
       "ID": "ACH_22",
@@ -120,7 +120,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 58632
+      "UsersEstimate": 58637
     },
     {
       "ID": "ACH_23",
@@ -128,7 +128,7 @@
       "Name": "Wishing for the Best",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 27362
+      "UsersEstimate": 27364
     },
     {
       "ID": "ACH_3",
@@ -136,7 +136,7 @@
       "Name": "Cayde\u0027s Pathfinder",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 97721
+      "UsersEstimate": 97728
     },
     {
       "ID": "ACH_4",
@@ -144,7 +144,7 @@
       "Name": "Ikora\u0027s Prot\u00E9g\u00E9",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 89903
+      "UsersEstimate": 89910
     },
     {
       "ID": "ACH_5",
@@ -152,7 +152,7 @@
       "Name": "Show Me What You Got",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 70359
+      "UsersEstimate": 70364
     },
     {
       "ID": "ACH_6",
@@ -160,7 +160,7 @@
       "Name": "In A Flash",
       "Percentage": 34,
       "XP": 80,
-      "UsersEstimate": 132900
+      "UsersEstimate": 132910
     },
     {
       "ID": "ACH_7",
@@ -168,7 +168,7 @@
       "Name": "The People\u0027s Hero",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 226712
+      "UsersEstimate": 226728
     },
     {
       "ID": "ACH_8",
@@ -176,7 +176,7 @@
       "Name": "Heart of Darkness",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 105538
+      "UsersEstimate": 105546
     },
     {
       "ID": "ACH_9",
@@ -184,7 +184,7 @@
       "Name": "The Life Exotic",
       "Percentage": 22,
       "XP": 120,
-      "UsersEstimate": 85994
+      "UsersEstimate": 86000
     }
   ],
   "Tags": [
@@ -1404,6 +1404,11 @@
       "Time": "2023-05-05T07:05:34.5650186+00:00",
       "NumProgressed": 390883,
       "NumCompleted": 11409
+    },
+    {
+      "Time": "2023-05-05T08:05:50.0122518+00:00",
+      "NumProgressed": 390911,
+      "NumCompleted": 11410
     }
   ],
   "RatingHistory": [
@@ -4616,25 +4621,25 @@
   ],
   "TotalAchievementsXP": 1240,
   "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-05T07:05:34.5650178+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:50.0122512+00:00",
   "EOS_NewCompleters": 207,
-  "EOS_NewPlayers": 7701,
-  "EOS_Completed": 11409,
-  "EOS_Progressed": 390883,
-  "LastUpdate_Achievements": "2023-05-05T07:05:34.5650361+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:59:03.4086267+00:00",
+  "EOS_NewPlayers": 7702,
+  "EOS_Completed": 11410,
+  "EOS_Progressed": 390911,
+  "LastUpdate_Achievements": "2023-05-05T08:05:50.0122749+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:10.0878654+00:00",
   "AchievementSets": [
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 390883,
-      "Completed": 11409
+      "Progressed": 390911,
+      "Completed": 11410
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 390883,
-      "Completed": 27951
+      "Progressed": 390911,
+      "Completed": 27952
     }
   ],
   "EOS_Completed_Percentage": 2.92,
@@ -4646,7 +4651,7 @@
   "NumberOfAwards": 81272,
   "NumberOfRatings": 32207,
   "Ranking_EOS_NewCompleters": 3,
-  "Ranking_EOS_NewPlayers": 14,
+  "Ranking_EOS_NewPlayers": 13,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_Progress": 34,
   "Ranking_PopularitySum": 16,

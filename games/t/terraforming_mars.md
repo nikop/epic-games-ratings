@@ -9,23 +9,23 @@ Diff (max vs sum): 38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 40.00% | ~22,113 |
-| Final touch | 39.00% | ~21,560 |
-| Prop-M Rover | 35.00% | ~19,349 |
-| Changing the Planet | 30.00% | ~16,585 |
-| Sojourner | 29.00% | ~16,032 |
-| New Home | 26.00% | ~14,373 |
-| Beagle 2 | 26.00% | ~14,373 |
+| It's a steal! | 40.00% | ~22,114 |
+| Final touch | 39.00% | ~21,561 |
+| Prop-M Rover | 35.00% | ~19,350 |
+| Changing the Planet | 30.00% | ~16,586 |
+| Sojourner | 29.00% | ~16,033 |
+| New Home | 26.00% | ~14,374 |
+| Beagle 2 | 26.00% | ~14,374 |
 | Winner Winner Terraformer | 24.00% | ~13,268 |
-| Project Manager | 21.00% | ~11,609 |
-| Curiosity | 21.00% | ~11,609 |
-| Collector | 21.00% | ~11,609 |
-| Self-sufficient | 21.00% | ~11,609 |
-| Master | 21.00% | ~11,609 |
-| No Longer Red | 20.00% | ~11,056 |
+| Project Manager | 21.00% | ~11,610 |
+| Curiosity | 21.00% | ~11,610 |
+| Collector | 21.00% | ~11,610 |
+| Self-sufficient | 21.00% | ~11,610 |
+| Master | 21.00% | ~11,610 |
+| No Longer Red | 20.00% | ~11,057 |
 | Money money | 17.00% | ~9,398 |
-| Biggest Reward | 16.00% | ~8,845 |
-| Acquired knowledge | 14.00% | ~7,739 |
+| Biggest Reward | 16.00% | ~8,846 |
+| Acquired knowledge | 14.00% | ~7,740 |
 | Most Achievements | 13.00% | ~7,187 |
 | Hellenic Elysium | 13.00% | ~7,187 |
 | Grand champion | 13.00% | ~7,187 |
@@ -34,14 +34,14 @@ Diff (max vs sum): 38
 | Spirit | 11.00% | ~6,081 |
 | Ultimate success | 11.00% | ~6,081 |
 | Variety Expert | 10.00% | ~5,528 |
-| Frequent tester | 9.00% | ~4,975 |
+| Frequent tester | 9.00% | ~4,976 |
 | Determined | 8.00% | ~4,423 |
 | Terraformer | 5.00% | ~2,764 |
-| Team Effort | 3.00% | ~1,658 |
-| Opportunity | 3.00% | ~1,658 |
+| Team Effort | 3.00% | ~1,659 |
+| Opportunity | 3.00% | ~1,659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,282 (Ranked 69)  
-Completed: 60 (0.11%) (Ranked 149)  
+Progressed: 55,285 (Ranked 69)  
+Completed: 60 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,7 +55,7 @@ Completed: 60 (0.11%) (Ranked 149)
 | 2023-05-02 | 54,929 | 60 |
 | 2023-05-03 | 55,095 | 60 |
 | 2023-05-04 | 55,249 | 60 |
-| 2023-05-05 | 55,282 | 60 |
+| 2023-05-05 | 55,285 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

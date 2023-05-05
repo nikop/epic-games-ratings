@@ -24,7 +24,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105171
+      "UsersEstimate": 105172
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -96,7 +96,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301796
+      "UsersEstimate": 301797
     },
     {
       "ID": "achievement_story_landa",
@@ -128,7 +128,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114316
+      "UsersEstimate": 114317
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -184,7 +184,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91453
+      "UsersEstimate": 91454
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -432,7 +432,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201197
+      "UsersEstimate": 201198
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -464,7 +464,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178334
+      "UsersEstimate": 178335
     },
     {
       "ID": "achievement_win_run_hard",
@@ -1561,6 +1561,11 @@
       "Time": "2023-05-05T07:05:37.7961832+00:00",
       "NumProgressed": 457266,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T08:05:53.8312941+00:00",
+      "NumProgressed": 457268,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -2072,24 +2077,24 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-05T07:05:37.7961827+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:53.8312935+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 532,
   "EOS_Completed": 14,
-  "EOS_Progressed": 457266,
-  "LastUpdate_Achievements": "2023-05-05T07:05:37.7962368+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:59:09.0074143+00:00",
+  "EOS_Progressed": 457268,
+  "LastUpdate_Achievements": "2023-05-05T08:05:53.831358+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:16.8547012+00:00",
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1200,
-      "Completed": 1200
+      "Progressed": 1202,
+      "Completed": 1202
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457266,
+      "Progressed": 457268,
       "Completed": 14
     }
   ],

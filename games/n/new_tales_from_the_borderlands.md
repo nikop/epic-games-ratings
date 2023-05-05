@@ -1,6 +1,6 @@
 # New Tales from the Borderlands
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.07 (Ranked 861)  
+Rating: 4.07 (Ranked 862)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

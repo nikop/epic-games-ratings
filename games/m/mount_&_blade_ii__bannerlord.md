@@ -9,17 +9,17 @@ Diff (max vs sum): -19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,595 |
-| Landlord | 29.00% | ~14,155 |
-| Bannerlord | 20.00% | ~9,762 |
-| Horde breaker | 20.00% | ~9,762 |
-| Lawmaker | 20.00% | ~9,762 |
+| Lawbringer | 34.00% | ~16,596 |
+| Landlord | 29.00% | ~14,156 |
+| Bannerlord | 20.00% | ~9,763 |
+| Horde breaker | 20.00% | ~9,763 |
+| Lawmaker | 20.00% | ~9,763 |
 | Trained | 19.00% | ~9,274 |
 | The king is pleased | 16.00% | ~7,810 |
 | King Solomon | 15.00% | ~7,322 |
-| I can do it | 14.00% | ~6,833 |
-| Apple of my eye | 13.00% | ~6,345 |
-| God of the Arena | 12.00% | ~5,857 |
+| I can do it | 14.00% | ~6,834 |
+| Apple of my eye | 13.00% | ~6,346 |
+| God of the Arena | 12.00% | ~5,858 |
 | Against all odds | 9.00% | ~4,393 |
 | Swordbearer | 9.00% | ~4,393 |
 | Duelist | 8.00% | ~3,905 |
@@ -28,11 +28,11 @@ Diff (max vs sum): -19
 | Butterlord | 7.00% | ~3,417 |
 | What have the Romans ever done for us? | 7.00% | ~3,417 |
 | Mastery | 6.00% | ~2,929 |
-| Know your enemy | 5.00% | ~2,440 |
-| This Is Our Land | 5.00% | ~2,440 |
-| Crush your enemies | 4.00% | ~1,952 |
-| My way | 4.00% | ~1,952 |
-| Veni vidi vici | 4.00% | ~1,952 |
+| Know your enemy | 5.00% | ~2,441 |
+| This Is Our Land | 5.00% | ~2,441 |
+| Crush your enemies | 4.00% | ~1,953 |
+| My way | 4.00% | ~1,953 |
+| Veni vidi vici | 4.00% | ~1,953 |
 | Crowdfunded | 3.00% | ~1,464 |
 | Freedom! | 3.00% | ~1,464 |
 | Entrepreneur | 2.00% | ~976 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,810 (Ranked 73)  
+Progressed: 48,813 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,810 | 0 |
+| 2023-05-05 | 48,813 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

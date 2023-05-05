@@ -5143,19 +5143,19 @@
   ],
   "TotalAchievementsXP": 1350,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T07:05:33.4412535+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:48.7977755+00:00",
   "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 350,
   "EOS_Completed": 12707,
   "EOS_Progressed": 702601,
-  "LastUpdate_Achievements": "2023-05-05T07:05:33.4412903+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:54.6143215+00:00",
+  "LastUpdate_Achievements": "2023-05-05T08:05:48.7978196+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:58:58.8847444+00:00",
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
       "Progressed": 11902,
-      "Completed": 10026
+      "Completed": 10027
     },
     {
       "ID": "adcm20g",

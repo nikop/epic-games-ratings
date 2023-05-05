@@ -24,7 +24,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30287
+      "UsersEstimate": 30288
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -56,7 +56,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136293
+      "UsersEstimate": 136294
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -80,7 +80,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30287
+      "UsersEstimate": 30288
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -96,7 +96,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30287
+      "UsersEstimate": 30288
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -104,7 +104,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151437
+      "UsersEstimate": 151438
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -120,7 +120,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121149
+      "UsersEstimate": 121150
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -152,7 +152,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75718
+      "UsersEstimate": 75719
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -1319,6 +1319,11 @@
       "Time": "2023-05-05T07:05:49.4780968+00:00",
       "NumProgressed": 1514366,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T08:06:05.8364091+00:00",
+      "NumProgressed": 1514375,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1718,18 +1723,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T07:05:49.4780967+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:06:05.8364083+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1520,
+  "EOS_NewPlayers": 1523,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514366,
-  "LastUpdate_Achievements": "2023-05-05T07:05:49.4781114+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:59:59.4267857+00:00",
+  "EOS_Progressed": 1514375,
+  "LastUpdate_Achievements": "2023-05-05T08:06:05.8364305+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:00:09.9574581+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514366,
+      "Progressed": 1514375,
       "Completed": 597
     }
   ],

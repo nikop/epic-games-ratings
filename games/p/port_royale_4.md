@@ -1,6 +1,6 @@
 # Port Royale 4
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 3.99 (Ranked 879)  
+Rating: 3.99 (Ranked 880)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

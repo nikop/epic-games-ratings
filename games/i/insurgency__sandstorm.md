@@ -27,9 +27,9 @@ Diff (max vs sum): 47
 | Efficient | 1.00% | ~3,619 |
 | Ruthless | 1.00% | ~3,619 |
 | Semper Paratus | 1.00% | ~3,619 |
-| Carrying | 0.90% | ~3,257 |
-| Mount & Gun | 0.90% | ~3,257 |
-| Personal | 0.90% | ~3,257 |
+| Carrying | 0.90% | ~3,258 |
+| Mount & Gun | 0.90% | ~3,258 |
+| Personal | 0.90% | ~3,258 |
 | Grounded | 0.80% | ~2,896 |
 | Play to Win | 0.80% | ~2,896 |
 | #1 | 0.70% | ~2,534 |
@@ -45,7 +45,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,939 (Ranked 35)  
+Progressed: 361,948 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 361,939 | 2 |
+| 2023-05-05 | 361,948 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

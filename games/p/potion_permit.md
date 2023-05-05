@@ -1,6 +1,6 @@
 # Potion Permit
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.79 (Ranked 903)  
+Rating: 3.79 (Ranked 904)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  

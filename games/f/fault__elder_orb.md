@@ -1,6 +1,6 @@
 # Fault: Elder Orb
 [View Rawdata](../../db/f/fault__elder_orb.json)  
-Rating: 3.91 (Ranked 895)  
+Rating: 3.91 (Ranked 896)  
 Number of Ratings: 723  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 103  (Ranked 317)  

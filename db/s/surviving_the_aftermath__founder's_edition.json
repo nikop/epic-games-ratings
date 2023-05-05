@@ -334,9 +334,9 @@
       "ID": "47",
       "SetID": "8idi9ml",
       "Name": "The Long Haul",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1612
     },
     {
       "ID": "48",
@@ -2356,13 +2356,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-05T07:05:49.2649574+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:06:05.6417234+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 310,
   "EOS_Completed": 0,
   "EOS_Progressed": 4885,
-  "LastUpdate_Achievements": "2023-05-05T07:05:49.2650049+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:59:50.8028201+00:00",
+  "LastUpdate_Achievements": "2023-05-05T08:06:05.6417859+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:58.7813429+00:00",
   "AchievementSets": [
     {
       "ID": "8idi9ml",

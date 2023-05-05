@@ -1,6 +1,6 @@
 # Blood of Steel
 [View Rawdata](../../db/b/blood_of_steel.json)  
-Rating: 3.67 (Ranked 911)  
+Rating: 3.67 (Ranked 912)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

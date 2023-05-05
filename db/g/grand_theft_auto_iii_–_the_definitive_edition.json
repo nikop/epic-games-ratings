@@ -48,7 +48,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH07",
@@ -152,7 +152,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH20",
@@ -661,6 +661,11 @@
       "Time": "2023-05-05T06:05:09.4033971+00:00",
       "NumProgressed": 4808,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T08:05:24.7165121+00:00",
+      "NumProgressed": 4809,
+      "NumCompleted": 25
     }
   ],
   "RatingHistory": [
@@ -865,18 +870,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T07:05:12.6669557+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:24.7165115+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_Completed": 25,
-  "EOS_Progressed": 4808,
-  "LastUpdate_Achievements": "2023-05-05T07:05:12.6669749+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:00.833072+00:00",
+  "EOS_Progressed": 4809,
+  "LastUpdate_Achievements": "2023-05-05T08:05:24.716535+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:49.4859115+00:00",
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4808,
+      "Progressed": 4809,
       "Completed": 25
     }
   ],

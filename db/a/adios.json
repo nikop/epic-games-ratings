@@ -16,7 +16,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "Adios, Friendo",
@@ -32,7 +32,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "Be Seeing You",
@@ -80,7 +80,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "Hearty",
@@ -112,7 +112,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "Meaty",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9715
+      "UsersEstimate": 9716
     },
     {
       "ID": "Nice Try",
@@ -144,7 +144,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "Piano Man",
@@ -152,7 +152,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "Right On Target",
@@ -168,7 +168,7 @@
       "Name": "Sniper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "Spicy",
@@ -1354,6 +1354,11 @@
       "Time": "2023-05-05T07:05:54.9135131+00:00",
       "NumProgressed": 53974,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-05-05T08:06:12.5757643+00:00",
+      "NumProgressed": 53977,
+      "NumCompleted": 432
     }
   ],
   "RatingHistory": [
@@ -1372,18 +1377,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-05T07:05:54.9135128+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:06:12.5757635+00:00",
   "EOS_NewCompleters": 30,
-  "EOS_NewPlayers": 1581,
+  "EOS_NewPlayers": 1580,
   "EOS_Completed": 432,
-  "EOS_Progressed": 53974,
-  "LastUpdate_Achievements": "2023-05-05T07:05:54.9135301+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:00:19.6219047+00:00",
+  "EOS_Progressed": 53977,
+  "LastUpdate_Achievements": "2023-05-05T08:06:12.5757891+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:00:34.8500979+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 53974,
+      "Progressed": 53977,
       "Completed": 432
     }
   ],
@@ -1399,7 +1404,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 913,
   "Rating": 3.5,
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00"
 }

@@ -4,7 +4,7 @@ Rating: 4.59 (Ranked 395)
 Number of Ratings: 35,570  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 56,423  (Ranked 10)  
-Sum: 250,125 (Ranked 11)  
+Sum: 250,143 (Ranked 11)  
 Diff (max vs sum): -1  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,9 +17,9 @@ Diff (max vs sum): -1
 | This game has Challenging Combat | 20,126 |
 | This game is Highly Recommended | 20,056 |
 | This game is Educational | 19,869 |
-| This game is Extremely Fun | 19,738 |
+| This game is Extremely Fun | 19,742 |
 | This game is Relaxing | 19,224 |
-| This game has Competitive Players | 18,744 |
+| This game has Competitive Players | 18,758 |
 | This game has Quickly Understood Controls | 18,686 |
 | This game has Amazing Storytelling | 18,602 |
 | This game has Amazing Characters | 18,215 |
@@ -129,4 +129,4 @@ Diff (max vs sum): -1
 | 2023-05-02 | 4.59 | - | 56,359 | 249,893 |
 | 2023-05-03 | 4.59 | - | 56,392 | 250,005 |
 | 2023-05-04 | 4.59 | - | 56,423 | 250,108 |
-| 2023-05-05 | 4.59 | - | 56,423 | 250,125 |
+| 2023-05-05 | 4.59 | - | 56,423 | 250,143 |

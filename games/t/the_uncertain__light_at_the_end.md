@@ -1,6 +1,6 @@
 # The Uncertain: Light at the End
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.88 (Ranked 897)  
+Rating: 3.88 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

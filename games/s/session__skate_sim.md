@@ -12,7 +12,7 @@ Diff (max vs sum): 93
 | You're free now! | 49.00% | ~945 |
 | Keeping it classy | 25.00% | ~482 |
 | Welcome to the family | 18.00% | ~347 |
-| The finer things in life | 16.00% | ~308 |
+| The finer things in life | 16.00% | ~309 |
 | Backpacker | 11.00% | ~212 |
 | Go with the Flow | 11.00% | ~212 |
 | Plastic Surgeon | 9.00% | ~174 |
@@ -51,14 +51,14 @@ Diff (max vs sum): 93
 | Pew-Pew | 2.00% | ~39 |
 | Dipped! | 1.00% | ~19 |
 | That was wheelie fun | 0.80% | ~15 |
-| Skatepark hero | 0.70% | ~13 |
+| Skatepark hero | 0.70% | ~14 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,928 (Ranked 141)  
+Progressed: 1,929 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 1,923 | 0 |
 | 2023-05-02 | 1,926 | 0 |
 | 2023-05-04 | 1,928 | 0 |
+| 2023-05-05 | 1,929 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

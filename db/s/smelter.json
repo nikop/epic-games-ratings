@@ -434,13 +434,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-05T07:05:32.2259588+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:47.1762031+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 3,
   "EOS_Progressed": 30,
-  "LastUpdate_Achievements": "2023-05-05T07:05:32.2259914+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:50.673569+00:00",
+  "LastUpdate_Achievements": "2023-05-05T08:05:47.176241+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:58:53.5620742+00:00",
   "AchievementSets": [
     {
       "ID": "1g58k92",
@@ -456,7 +456,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_Progress": 285,
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00"

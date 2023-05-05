@@ -56,7 +56,7 @@
       "Name": "Contender",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25383
+      "UsersEstimate": 25385
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -216,7 +216,7 @@
       "Name": "Dress Code",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8461
+      "UsersEstimate": 8462
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -232,7 +232,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 171338
+      "UsersEstimate": 171348
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -240,7 +240,7 @@
       "Name": "I know the Rules",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 95188
+      "UsersEstimate": 95193
     }
   ],
   "Tags": [
@@ -1477,6 +1477,11 @@
     {
       "Time": "2023-05-05T07:05:31.3519615+00:00",
       "NumProgressed": 211529,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:05:46.2050054+00:00",
+      "NumProgressed": 211541,
       "NumCompleted": 0
     }
   ],
@@ -2819,18 +2824,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T07:05:31.351961+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:46.2050049+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2885,
+  "EOS_NewPlayers": 2888,
   "EOS_Completed": 0,
-  "EOS_Progressed": 211529,
-  "LastUpdate_Achievements": "2023-05-05T07:05:31.3519839+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:55.7401952+00:00",
+  "EOS_Progressed": 211541,
+  "LastUpdate_Achievements": "2023-05-05T08:05:46.205031+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:00.3479969+00:00",
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 211529,
+      "Progressed": 211541,
       "Completed": 0
     }
   ],
@@ -2842,12 +2847,12 @@
   "NumberOfAwards": 1483,
   "NumberOfRatings": 756,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 46,
   "Ranking_PopularitySum": 208,
   "Ranking_Popularity": 270,
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 873,
   "Rating": 4.03,
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00"
 }

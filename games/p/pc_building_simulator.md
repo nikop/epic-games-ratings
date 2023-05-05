@@ -9,20 +9,20 @@ Diff (max vs sum): 38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,677,004 |
-| Easy to forget | 46.00% | ~1,607,129 |
-| Back in the black | 38.00% | ~1,327,628 |
-| That's what I'm talking about | 28.00% | ~978,252 |
-| The Best of Both Worlds | 24.00% | ~838,502 |
-| Get your wings | 20.00% | ~698,752 |
-| Double trouble | 15.00% | ~524,064 |
-| Smashing it | 10.00% | ~349,376 |
-| But can it run Crysis? | 9.00% | ~314,438 |
-| My favourite feature... | 9.00% | ~314,438 |
-| From humble beginnings... | 7.00% | ~244,563 |
-| Customer satisfaction | 7.00% | ~244,563 |
-| Keeping things neat | 4.00% | ~139,750 |
-| Seems you're pretty good at this | 4.00% | ~139,750 |
+| You need to plug it in... | 48.00% | ~1,677,010 |
+| Easy to forget | 46.00% | ~1,607,135 |
+| Back in the black | 38.00% | ~1,327,633 |
+| That's what I'm talking about | 28.00% | ~978,256 |
+| The Best of Both Worlds | 24.00% | ~838,505 |
+| Get your wings | 20.00% | ~698,754 |
+| Double trouble | 15.00% | ~524,066 |
+| Smashing it | 10.00% | ~349,377 |
+| But can it run Crysis? | 9.00% | ~314,439 |
+| My favourite feature... | 9.00% | ~314,439 |
+| From humble beginnings... | 7.00% | ~244,564 |
+| Customer satisfaction | 7.00% | ~244,564 |
+| Keeping things neat | 4.00% | ~139,751 |
+| Seems you're pretty good at this | 4.00% | ~139,751 |
 | Triple threat | 3.00% | ~104,813 |
 | You rock at this! | 3.00% | ~104,813 |
 | Your music sucks | 3.00% | ~104,813 |
@@ -62,7 +62,7 @@ Diff (max vs sum): 38
 | Stop it | 0.10% | ~3,494 |
 | Treat yourself - GPU | 0.10% | ~3,494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,758 (Ranked 3)  
+Progressed: 3,493,771 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
 | 2023-05-04 | 3,493,649 | 22 |
-| 2023-05-05 | 3,493,758 | 22 |
+| 2023-05-05 | 3,493,771 | 22 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

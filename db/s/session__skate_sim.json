@@ -256,7 +256,7 @@
       "Name": "Skatepark hero",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -312,7 +312,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -610,6 +610,11 @@
     {
       "Time": "2023-05-04T15:01:37.0919986+00:00",
       "NumProgressed": 1928,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:05:19.5612535+00:00",
+      "NumProgressed": 1929,
       "NumCompleted": 0
     }
   ],
@@ -1112,18 +1117,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T07:05:07.7496238+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:19.5612524+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1928,
-  "LastUpdate_Achievements": "2023-05-05T07:05:07.7496566+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:59.3555271+00:00",
+  "EOS_Progressed": 1929,
+  "LastUpdate_Achievements": "2023-05-05T08:05:19.561296+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:59:05.0025738+00:00",
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1928,
+      "Progressed": 1929,
       "Completed": 0
     }
   ],

@@ -1,6 +1,6 @@
 # Gods Will Fall
 [View Rawdata](../../db/g/gods_will_fall.json)  
-Rating: 3.97 (Ranked 885)  
+Rating: 3.97 (Ranked 886)  
 Number of Ratings: 228  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

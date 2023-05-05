@@ -18,8 +18,8 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
-| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.72% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.56% |
@@ -28,9 +28,9 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.12% |
-| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
+| 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
+| 30 | [Doodle God](games/d/doodle_god.md) | 4.06% |
+| 30 | [Ravenlok](games/r/ravenlok.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
@@ -49,7 +49,7 @@
 | 47 | [FORECLOSED](games/f/foreclosed.md) | 2.74% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.59% |
+| 50 | [ZZT!](games/z/zzt!.md) | 2.58% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
@@ -147,8 +147,8 @@
 | 144 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 146 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.12% |
 | 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
-| 149 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 148 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 148 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 150 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |

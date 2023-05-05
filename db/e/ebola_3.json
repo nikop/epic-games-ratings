@@ -30,9 +30,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "achBett",
@@ -72,7 +72,7 @@
       "Name": "Chest \u2714",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achCity",
@@ -190,9 +190,9 @@
       "ID": "achHospital",
       "SetID": "72gjli4",
       "Name": "Hospital \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achIvan",
@@ -206,9 +206,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "achLizun",
@@ -280,7 +280,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achPriest",
@@ -336,7 +336,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achShahmat",
@@ -384,7 +384,7 @@
       "Name": "Thirst \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achWeapon",
@@ -392,7 +392,7 @@
       "Name": "Weapon \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achWorms",
@@ -869,6 +869,11 @@
       "Time": "2023-05-05T07:05:54.712928+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:06:12.3747539+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -881,18 +886,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T07:05:54.7129275+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:06:12.3747533+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_Completed": 0,
-  "EOS_Progressed": 123,
-  "LastUpdate_Achievements": "2023-05-05T07:05:54.7129672+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:00:08.3552369+00:00",
+  "EOS_Progressed": 125,
+  "LastUpdate_Achievements": "2023-05-05T08:06:12.3747983+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:00:20.8972696+00:00",
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
@@ -903,7 +908,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 243,
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00"

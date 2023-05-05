@@ -374,9 +374,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 206
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1194,13 +1194,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T07:05:16.2104717+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:28.8258181+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 217,
   "EOS_Completed": 1,
   "EOS_Progressed": 1877,
-  "LastUpdate_Achievements": "2023-05-05T07:05:16.2105091+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:45.183155+00:00",
+  "LastUpdate_Achievements": "2023-05-05T08:05:28.82587+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:30.1332656+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",

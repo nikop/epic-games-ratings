@@ -32,7 +32,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177479
+      "UsersEstimate": 177480
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -144,7 +144,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11328
+      "UsersEstimate": 11329
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -208,7 +208,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13216
+      "UsersEstimate": 13217
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -1409,6 +1409,11 @@
       "Time": "2023-05-05T07:05:29.6116242+00:00",
       "NumProgressed": 188807,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-05T08:05:44.1911223+00:00",
+      "NumProgressed": 188809,
+      "NumCompleted": 406
     }
   ],
   "RatingHistory": [
@@ -1535,18 +1540,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T07:05:29.6116235+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:44.1911216+00:00",
   "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 783,
   "EOS_Completed": 406,
-  "EOS_Progressed": 188807,
-  "LastUpdate_Achievements": "2023-05-05T07:05:29.6116449+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:46.2959249+00:00",
+  "EOS_Progressed": 188809,
+  "LastUpdate_Achievements": "2023-05-05T08:05:44.1911508+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:58:48.3213498+00:00",
   "AchievementSets": [
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 188807,
+      "Progressed": 188809,
       "Completed": 406
     }
   ],

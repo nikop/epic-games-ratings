@@ -176,7 +176,7 @@
       "Name": "How Romantic!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_maimedHero",
@@ -504,6 +504,11 @@
       "Time": "2023-05-05T05:04:50.3761677+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T08:05:31.9516988+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -621,18 +626,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T07:05:18.9000214+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:31.9516981+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_Completed": 3,
-  "EOS_Progressed": 1122,
-  "LastUpdate_Achievements": "2023-05-05T07:05:18.9000602+00:00",
-  "LastUpdate_Ratings": "2023-05-05T07:00:24.7212119+00:00",
+  "EOS_Progressed": 1123,
+  "LastUpdate_Achievements": "2023-05-05T08:05:31.9517477+00:00",
+  "LastUpdate_Ratings": "2023-05-05T08:00:40.0989104+00:00",
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1123,
       "Completed": 3
     }
   ],
@@ -644,7 +649,7 @@
   "NumberOfAwards": 27,
   "NumberOfRatings": 45,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_Progress": 154,
   "Ranking_PopularitySum": 462,

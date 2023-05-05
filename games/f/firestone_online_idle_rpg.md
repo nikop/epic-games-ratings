@@ -21,9 +21,9 @@
 | Enlightenment | 6.00% | ~51 |
 | Lieutenant | 5.00% | ~42 |
 | Natural Talent | 5.00% | ~42 |
+| The Unstoppable | 5.00% | ~42 |
 | Milestone collector | 4.00% | ~34 |
 | Superior | 4.00% | ~34 |
-| The Unstoppable | 4.00% | ~34 |
 | Daily Quest Completionist | 3.00% | ~25 |
 | Scientist | 3.00% | ~25 |
 | Background Story | 2.00% | ~17 |
@@ -31,9 +31,11 @@
 | Hunter | 2.00% | ~17 |
 | Mastery | 2.00% | ~17 |
 | Active Member | 1.00% | ~8 |
+| Ancient Knowledge | 1.00% | ~8 |
 | Doing My Part | 1.00% | ~8 |
 | Four Leaf Clover | 1.00% | ~8 |
 | Here We Go Again | 1.00% | ~8 |
+| How Do You Turn This On? | 1.00% | ~8 |
 | Moving Up The Ladder | 1.00% | ~8 |
 | Mysterious Rock | 1.00% | ~8 |
 | Relic Of The Past | 1.00% | ~8 |
@@ -42,11 +44,9 @@
 | The father of Dragons | 1.00% | ~8 |
 | The power of Awakening | 1.00% | ~8 |
 | What lies behind the bush | 1.00% | ~8 |
-| Ancient Knowledge | 0.80% | ~7 |
 | Master Enchanter | 0.80% | ~7 |
 | Missions Dedication | 0.80% | ~7 |
 | Trader | 0.80% | ~7 |
-| How Do You Turn This On? | 0.70% | ~6 |
 | Blueprint Upgrades | 0.50% | ~4 |
 | Crystal Mining | 0.50% | ~4 |
 | Dragon Slayer | 0.50% | ~4 |

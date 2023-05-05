@@ -24,7 +24,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37080
+      "UsersEstimate": 37081
     },
     {
       "ID": "ach004",
@@ -64,7 +64,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37080
+      "UsersEstimate": 37081
     },
     {
       "ID": "ach009",
@@ -96,7 +96,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 24720
+      "UsersEstimate": 24721
     },
     {
       "ID": "ach013",
@@ -112,7 +112,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43259
+      "UsersEstimate": 43261
     },
     {
       "ID": "ach015",
@@ -136,7 +136,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37080
+      "UsersEstimate": 37081
     },
     {
       "ID": "ach018",
@@ -216,7 +216,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 142138
+      "UsersEstimate": 142143
     },
     {
       "ID": "ach028",
@@ -232,7 +232,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30900
+      "UsersEstimate": 30901
     },
     {
       "ID": "ach030",
@@ -312,7 +312,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30900
+      "UsersEstimate": 30901
     },
     {
       "ID": "ach040",
@@ -360,7 +360,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40169
+      "UsersEstimate": 40171
     },
     {
       "ID": "ach046",
@@ -408,7 +408,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33990
+      "UsersEstimate": 33991
     },
     {
       "ID": "ach052",
@@ -472,7 +472,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30900
+      "UsersEstimate": 30901
     },
     {
       "ID": "ach060",
@@ -520,7 +520,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43259
+      "UsersEstimate": 43261
     },
     {
       "ID": "ach067",
@@ -536,7 +536,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 49439
+      "UsersEstimate": 49441
     },
     {
       "ID": "ach069",
@@ -544,7 +544,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43259
+      "UsersEstimate": 43261
     },
     {
       "ID": "ach070",
@@ -1787,6 +1787,11 @@
       "Time": "2023-05-05T07:05:14.2793916+00:00",
       "NumProgressed": 308996,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T08:05:26.6907311+00:00",
+      "NumProgressed": 309007,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2055,18 +2060,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 80,
-  "LastChanged_Achievements": "2023-05-05T07:05:14.2793912+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:26.6907303+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2888,
+  "EOS_NewPlayers": 2886,
   "EOS_Completed": 3,
-  "EOS_Progressed": 308996,
-  "LastUpdate_Achievements": "2023-05-05T07:05:14.2794655+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:50.8641495+00:00",
+  "EOS_Progressed": 309007,
+  "LastUpdate_Achievements": "2023-05-05T08:05:26.6908292+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:36.7285462+00:00",
   "AchievementSets": [
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 308996,
+      "Progressed": 309007,
       "Completed": 3
     }
   ],
@@ -2078,7 +2083,7 @@
   "NumberOfAwardsMax": 23,
   "NumberOfAwards": 46,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 37,
   "Ranking_PopularitySum": 435,

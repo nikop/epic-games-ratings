@@ -1,6 +1,6 @@
 # Stygian: Reign of the Old Ones
 [View Rawdata](../../db/s/stygian__reign_of_the_old_ones.json)  
-Rating: 3.85 (Ranked 900)  
+Rating: 3.85 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

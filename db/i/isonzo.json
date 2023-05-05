@@ -16,7 +16,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -56,7 +56,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -176,7 +176,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -200,7 +200,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -352,7 +352,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -598,6 +598,11 @@
     {
       "Time": "2023-05-04T17:03:30.3069956+00:00",
       "NumProgressed": 5584,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T08:05:33.2236309+00:00",
+      "NumProgressed": 5585,
       "NumCompleted": 8
     }
   ],
@@ -1028,18 +1033,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T07:05:20.1734259+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:33.2236302+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_Completed": 8,
-  "EOS_Progressed": 5584,
-  "LastUpdate_Achievements": "2023-05-05T07:05:20.1734548+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:31.5734466+00:00",
+  "EOS_Progressed": 5585,
+  "LastUpdate_Achievements": "2023-05-05T08:05:33.2236642+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:11.0386295+00:00",
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5584,
+      "Progressed": 5585,
       "Completed": 8
     }
   ],
@@ -1052,7 +1057,7 @@
   "NumberOfAwards": 232,
   "NumberOfRatings": 98,
   "Ranking_EOS_NewCompleters": 48,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_Progress": 115,
   "Ranking_PopularitySum": 342,

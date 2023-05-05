@@ -1,6 +1,6 @@
 # Siege Survival - Gloria Victis
 [View Rawdata](../../db/s/siege_survival_-_gloria_victis.json)  
-Rating: 4.05 (Ranked 867)  
+Rating: 4.05 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

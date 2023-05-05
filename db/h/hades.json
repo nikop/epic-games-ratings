@@ -8,7 +8,7 @@
       "Name": "Back to Work",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 265115
+      "UsersEstimate": 265116
     },
     {
       "ID": "AchAresKills",
@@ -16,7 +16,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101967
+      "UsersEstimate": 101968
     },
     {
       "ID": "AchBeatCharon",
@@ -64,7 +64,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 353487
+      "UsersEstimate": 353488
     },
     {
       "ID": "AchClearAsphodel",
@@ -72,7 +72,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 543826
+      "UsersEstimate": 543827
     },
     {
       "ID": "AchClearElysium",
@@ -104,7 +104,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 142754
+      "UsersEstimate": 142755
     },
     {
       "ID": "AchClearTartarus",
@@ -112,7 +112,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 605007
+      "UsersEstimate": 605008
     },
     {
       "ID": "AchCrushedThanatos",
@@ -120,7 +120,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 305902
+      "UsersEstimate": 305903
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -136,7 +136,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 190339
+      "UsersEstimate": 190340
     },
     {
       "ID": "AchForgedBond",
@@ -144,7 +144,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 190339
+      "UsersEstimate": 190340
     },
     {
       "ID": "AchFoundAllSummons",
@@ -176,7 +176,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462252
+      "UsersEstimate": 462253
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -208,7 +208,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 183541
+      "UsersEstimate": 183542
     },
     {
       "ID": "AchManyQuests",
@@ -232,7 +232,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428263
+      "UsersEstimate": 428264
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -248,7 +248,7 @@
       "Name": "Dark Reflections",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61180
+      "UsersEstimate": 61181
     },
     {
       "ID": "AchMyrmidonReunion",
@@ -312,7 +312,7 @@
       "Name": "Thanks, But No Thanks",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61180
+      "UsersEstimate": 61181
     },
     {
       "ID": "AchReachedEnding",
@@ -368,7 +368,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 482646
+      "UsersEstimate": 482647
     },
     {
       "ID": "AchWeaponClears",
@@ -384,7 +384,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 271913
+      "UsersEstimate": 271914
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -392,7 +392,7 @@
       "Name": "Infernal Arms",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 61180
+      "UsersEstimate": 61181
     }
   ],
   "Tags": [
@@ -1571,6 +1571,11 @@
     {
       "Time": "2023-05-05T07:05:15.9628375+00:00",
       "NumProgressed": 679783,
+      "NumCompleted": 6074
+    },
+    {
+      "Time": "2023-05-05T08:05:28.5634944+00:00",
+      "NumProgressed": 679784,
       "NumCompleted": 6074
     }
   ],
@@ -4354,18 +4359,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T07:05:15.9628371+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:28.5634938+00:00",
   "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 591,
   "EOS_Completed": 6074,
-  "EOS_Progressed": 679783,
-  "LastUpdate_Achievements": "2023-05-05T07:05:15.9628752+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:44.1328765+00:00",
+  "EOS_Progressed": 679784,
+  "LastUpdate_Achievements": "2023-05-05T08:05:28.5635411+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:28.8572637+00:00",
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 679783,
+      "Progressed": 679784,
       "Completed": 6074
     }
   ],

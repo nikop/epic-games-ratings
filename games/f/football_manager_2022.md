@@ -9,56 +9,56 @@ Diff (max vs sum): 28
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~229,562 |
-| First Victory | 50.00% | ~229,562 |
-| Clean Sheet | 49.00% | ~224,971 |
-| He's Sold! | 47.00% | ~215,788 |
-| I'm The Boss! | 41.00% | ~188,241 |
-| Hat-trick | 41.00% | ~188,241 |
-| Scoring Streak | 37.00% | ~169,876 |
+| He's Signed! | 50.00% | ~229,563 |
+| First Victory | 50.00% | ~229,563 |
+| Clean Sheet | 49.00% | ~224,972 |
+| He's Sold! | 47.00% | ~215,789 |
+| I'm The Boss! | 41.00% | ~188,242 |
+| Hat-trick | 41.00% | ~188,242 |
+| Scoring Streak | 37.00% | ~169,877 |
 | Unbeatable! | 36.00% | ~165,285 |
 | Thumping | 36.00% | ~165,285 |
-| Superb Dressing Room Atmosphere | 34.00% | ~156,102 |
+| Superb Dressing Room Atmosphere | 34.00% | ~156,103 |
 | Total Support | 32.00% | ~146,920 |
-| Record Signing | 31.00% | ~142,328 |
-| He's a Natural | 30.00% | ~137,737 |
-| Millionaire's Club | 30.00% | ~137,737 |
-| Team Performance | 29.00% | ~133,146 |
+| Record Signing | 31.00% | ~142,329 |
+| He's a Natural | 30.00% | ~137,738 |
+| Millionaire's Club | 30.00% | ~137,738 |
+| Team Performance | 29.00% | ~133,147 |
 | Parked The Bus | 28.00% | ~128,555 |
 | Shrewd Spender | 28.00% | ~128,555 |
 | Star Man | 28.00% | ~128,555 |
-| Attack! | 27.00% | ~123,963 |
-| You're On Fire | 26.00% | ~119,372 |
-| Tremendous Trio | 26.00% | ~119,372 |
-| On A Roll | 25.00% | ~114,781 |
-| Unstoppable Force | 25.00% | ~114,781 |
-| Record Sale | 25.00% | ~114,781 |
+| Attack! | 27.00% | ~123,964 |
+| You're On Fire | 26.00% | ~119,373 |
+| Tremendous Trio | 26.00% | ~119,373 |
+| On A Roll | 25.00% | ~114,782 |
+| Unstoppable Force | 25.00% | ~114,782 |
+| Record Sale | 25.00% | ~114,782 |
 | Fantastic Five | 23.00% | ~105,599 |
 | Full Faith | 23.00% | ~105,599 |
 | The Boss | 23.00% | ~105,599 |
 | Armchair Expert | 23.00% | ~105,599 |
-| Iron Curtain | 22.00% | ~101,007 |
-| Top Of The Class | 22.00% | ~101,007 |
-| Goal Machine | 22.00% | ~101,007 |
+| Iron Curtain | 22.00% | ~101,008 |
+| Top Of The Class | 22.00% | ~101,008 |
+| Goal Machine | 22.00% | ~101,008 |
 | Splashing The Cash | 21.00% | ~96,416 |
 | What A Goal! | 21.00% | ~96,416 |
 | Cup Glory! | 21.00% | ~96,416 |
 | Clean Bill of Health | 20.00% | ~91,825 |
 | Irresistible Force | 19.00% | ~87,234 |
 | Excellent Match Cohesion | 19.00% | ~87,234 |
-| Do The Double | 18.00% | ~82,642 |
+| Do The Double | 18.00% | ~82,643 |
 | Top Form | 16.00% | ~73,460 |
 | Cash To Burn | 16.00% | ~73,460 |
 | Overachiever! | 15.00% | ~68,869 |
 | Rushed signing | 15.00% | ~68,869 |
-| Beating Expectations | 14.00% | ~64,277 |
-| Eyes and Ears | 14.00% | ~64,277 |
-| Window Shopping | 14.00% | ~64,277 |
+| Beating Expectations | 14.00% | ~64,278 |
+| Eyes and Ears | 14.00% | ~64,278 |
+| Window Shopping | 14.00% | ~64,278 |
 | Comeback King! | 13.00% | ~59,686 |
 | You're Up! | 12.00% | ~55,095 |
 | Money, Money, Money | 11.00% | ~50,504 |
-| Invincible! | 10.00% | ~45,912 |
-| Best In The World | 10.00% | ~45,912 |
+| Invincible! | 10.00% | ~45,913 |
+| Best In The World | 10.00% | ~45,913 |
 | Best In Europe | 9.00% | ~41,321 |
 | Superb Strike | 9.00% | ~41,321 |
 | International Superstar | 9.00% | ~41,321 |
@@ -66,9 +66,9 @@ Diff (max vs sum): 28
 | Headhunted | 8.00% | ~36,730 |
 | Domination | 8.00% | ~36,730 |
 | Best In The Business | 7.00% | ~32,139 |
-| Parked The Tank | 6.00% | ~27,547 |
-| World Renowned | 6.00% | ~27,547 |
-| Head-to-Head | 6.00% | ~27,547 |
+| Parked The Tank | 6.00% | ~27,548 |
+| World Renowned | 6.00% | ~27,548 |
+| Head-to-Head | 6.00% | ~27,548 |
 | Legend | 5.00% | ~22,956 |
 | Win the Club World Cup | 5.00% | ~22,956 |
 | We Trust You | 5.00% | ~22,956 |
@@ -76,12 +76,12 @@ Diff (max vs sum): 28
 | National Hero | 3.00% | ~13,774 |
 | Golden Boot | 3.00% | ~13,774 |
 | Trophy Hoarder | 3.00% | ~13,774 |
-| Part Of The Furniture | 2.00% | ~9,182 |
-| Childhood Dream | 2.00% | ~9,182 |
-| Invitational | 2.00% | ~9,182 |
-| Scout's Honour | 2.00% | ~9,182 |
-| Freedom Of The Country | 2.00% | ~9,182 |
-| On Top Of The World | 2.00% | ~9,182 |
+| Part Of The Furniture | 2.00% | ~9,183 |
+| Childhood Dream | 2.00% | ~9,183 |
+| Invitational | 2.00% | ~9,183 |
+| Scout's Honour | 2.00% | ~9,183 |
+| Freedom Of The Country | 2.00% | ~9,183 |
+| On Top Of The World | 2.00% | ~9,183 |
 | Icon | 1.00% | ~4,591 |
 | There Is Always Plan B | 1.00% | ~4,591 |
 | Mr Delegator | 1.00% | ~4,591 |
@@ -108,7 +108,7 @@ Diff (max vs sum): 28
 | Draft Value | 0.10% | ~459 |
 | Shoestring Budget | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,124 (Ranked 26)  
+Progressed: 459,126 (Ranked 26)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
 | 2023-05-04 | 459,113 | 18 |
-| 2023-05-05 | 459,124 | 18 |
+| 2023-05-05 | 459,126 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

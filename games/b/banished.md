@@ -1,6 +1,6 @@
 # Banished
 [View Rawdata](../../db/b/banished.json)  
-Rating: 4.00 (Ranked 876)  
+Rating: 4.00 (Ranked 877)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

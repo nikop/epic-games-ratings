@@ -9,25 +9,25 @@ Diff (max vs sum): 2
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,668 |
+| Blacksmith's Son | 31.00% | ~241,669 |
 | Cavalier | 25.00% | ~194,894 |
-| Fatso | 23.00% | ~179,302 |
-| Awakening | 20.00% | ~155,915 |
-| Ranger | 20.00% | ~155,915 |
-| Scrooge | 20.00% | ~155,915 |
+| Fatso | 23.00% | ~179,303 |
+| Awakening | 20.00% | ~155,916 |
+| Ranger | 20.00% | ~155,916 |
+| Scrooge | 20.00% | ~155,916 |
 | Anorectic | 16.00% | ~124,732 |
-| Firestarter | 15.00% | ~116,936 |
-| Bookworm | 14.00% | ~109,140 |
+| Firestarter | 15.00% | ~116,937 |
+| Bookworm | 14.00% | ~109,141 |
 | Insomniac | 13.00% | ~101,345 |
-| Buddy | 11.00% | ~85,753 |
-| Sinner | 11.00% | ~85,753 |
-| Thief | 11.00% | ~85,753 |
-| Convict | 10.00% | ~77,957 |
-| Traveller | 10.00% | ~77,957 |
+| Buddy | 11.00% | ~85,754 |
+| Sinner | 11.00% | ~85,754 |
+| Thief | 11.00% | ~85,754 |
+| Convict | 10.00% | ~77,958 |
+| Traveller | 10.00% | ~77,958 |
 | Haggler | 9.00% | ~70,162 |
 | Runt | 7.00% | ~54,570 |
-| Casanova | 6.00% | ~46,774 |
-| McLovin | 6.00% | ~46,774 |
+| Casanova | 6.00% | ~46,775 |
+| McLovin | 6.00% | ~46,775 |
 | Bad Trip | 5.00% | ~38,979 |
 | Monk | 5.00% | ~38,979 |
 | Serial Killer | 5.00% | ~38,979 |
@@ -38,15 +38,15 @@ Diff (max vs sum): 2
 | Conqueror | 3.00% | ~23,387 |
 | Ginger in a Pickle | 3.00% | ~23,387 |
 | Kingdom did not come | 3.00% | ~23,387 |
-| Completionist | 2.00% | ~15,591 |
-| Death by splinter | 2.00% | ~15,591 |
-| King Charming | 2.00% | ~15,591 |
-| Knightrider | 2.00% | ~15,591 |
-| Level Cap | 2.00% | ~15,591 |
-| Arena Master | 2.00% | ~15,591 |
-| Robber Baron | 2.00% | ~15,591 |
-| Talmberger | 2.00% | ~15,591 |
-| The End | 2.00% | ~15,591 |
+| Completionist | 2.00% | ~15,592 |
+| Death by splinter | 2.00% | ~15,592 |
+| King Charming | 2.00% | ~15,592 |
+| Knightrider | 2.00% | ~15,592 |
+| Level Cap | 2.00% | ~15,592 |
+| Arena Master | 2.00% | ~15,592 |
+| Robber Baron | 2.00% | ~15,592 |
+| Talmberger | 2.00% | ~15,592 |
+| The End | 2.00% | ~15,592 |
 | Woman's Lot | 1.00% | ~7,796 |
 | Chivalrous Soul | 1.00% | ~7,796 |
 | Freud | 1.00% | ~7,796 |
@@ -92,7 +92,7 @@ Diff (max vs sum): 2
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779,574 (Ranked 11)  
+Progressed: 779,578 (Ranked 11)  
 Completed: 38 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 38 (0.00%) (Ranked 191)
 | 2023-05-02 | 779,243 | 38 |
 | 2023-05-03 | 779,399 | 38 |
 | 2023-05-04 | 779,549 | 38 |
-| 2023-05-05 | 779,574 | 38 |
+| 2023-05-05 | 779,578 | 38 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

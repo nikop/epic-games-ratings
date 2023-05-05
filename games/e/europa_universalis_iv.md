@@ -9,29 +9,29 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,656 |
-| That's a Grand Army | 8.00% | ~2,361 |
-| That is mine! | 8.00% | ~2,361 |
-| Victorious! | 8.00% | ~2,361 |
-| Brothers in Arms | 6.00% | ~1,771 |
-| That's a Grand Navy | 6.00% | ~1,771 |
-| Seriously?! | 6.00% | ~1,771 |
-| For the Glory | 5.00% | ~1,476 |
+| Until death do us apart | 9.00% | ~2,658 |
+| That's a Grand Army | 8.00% | ~2,363 |
+| That is mine! | 8.00% | ~2,363 |
+| Victorious! | 8.00% | ~2,363 |
+| Brothers in Arms | 6.00% | ~1,772 |
+| That's a Grand Navy | 6.00% | ~1,772 |
+| Seriously?! | 6.00% | ~1,772 |
+| For the Glory | 5.00% | ~1,477 |
 | Cold War | 4.00% | ~1,181 |
-| Defender of the Faith | 3.00% | ~885 |
-| It's all about the money | 3.00% | ~885 |
-| Respected | 3.00% | ~885 |
-| True Catholic | 3.00% | ~885 |
-| Blockader | 2.00% | ~590 |
-| Combined Arms | 2.00% | ~590 |
-| Double the Love | 2.00% | ~590 |
-| Gentle Persuasion | 2.00% | ~590 |
-| It's all about luck | 2.00% | ~590 |
-| Queen of Conquest | 2.00% | ~590 |
-| Royal Authority | 2.00% | ~590 |
-| The Princess is in this Castle | 2.00% | ~590 |
-| Total Control | 2.00% | ~590 |
-| Truly Divine Ruler | 2.00% | ~590 |
+| Defender of the Faith | 3.00% | ~886 |
+| It's all about the money | 3.00% | ~886 |
+| Respected | 3.00% | ~886 |
+| True Catholic | 3.00% | ~886 |
+| Blockader | 2.00% | ~591 |
+| Combined Arms | 2.00% | ~591 |
+| Double the Love | 2.00% | ~591 |
+| Gentle Persuasion | 2.00% | ~591 |
+| It's all about luck | 2.00% | ~591 |
+| Queen of Conquest | 2.00% | ~591 |
+| Royal Authority | 2.00% | ~591 |
+| The Princess is in this Castle | 2.00% | ~591 |
+| Total Control | 2.00% | ~591 |
+| Truly Divine Ruler | 2.00% | ~591 |
 | Agressive Expander | 1.00% | ~295 |
 | Azur semé de lis or | 1.00% | ~295 |
 | Bright Spark | 1.00% | ~295 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,515 (Ranked 82)  
+Progressed: 29,532 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,515 | 0 |
+| 2023-05-05 | 29,532 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

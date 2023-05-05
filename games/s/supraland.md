@@ -9,55 +9,55 @@ Diff (max vs sum): -38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~696,121 |
-| The Blues | 85.00% | ~597,680 |
-| Fast | 66.00% | ~464,081 |
-| Healthbar | 55.00% | ~386,734 |
-| Force Cube | 52.00% | ~365,640 |
-| Double Jump | 48.00% | ~337,513 |
-| Regeneration | 47.00% | ~330,482 |
-| Climb the hill | 42.00% | ~295,324 |
-| Triple Jump | 42.00% | ~295,324 |
-| Through the fire pipe | 38.00% | ~267,198 |
-| MacGuffin | 37.00% | ~260,167 |
-| Just once | 36.00% | ~253,135 |
-| Armor | 30.00% | ~210,946 |
-| True holy spirit | 27.00% | ~189,851 |
-| That's how electronics work obviously | 26.00% | ~182,820 |
-| Force Cube Catapult | 25.00% | ~175,788 |
-| Holy Sword | 23.00% | ~161,725 |
-| Telefrag | 22.00% | ~154,694 |
-| Freed from prison | 21.00% | ~147,662 |
-| Stomp | 21.00% | ~147,662 |
+| Out of bed | 99.00% | ~696,126 |
+| The Blues | 85.00% | ~597,684 |
+| Fast | 66.00% | ~464,084 |
+| Healthbar | 55.00% | ~386,737 |
+| Force Cube | 52.00% | ~365,642 |
+| Double Jump | 48.00% | ~337,516 |
+| Regeneration | 47.00% | ~330,484 |
+| Climb the hill | 42.00% | ~295,326 |
+| Triple Jump | 42.00% | ~295,326 |
+| Through the fire pipe | 38.00% | ~267,200 |
+| MacGuffin | 37.00% | ~260,168 |
+| Just once | 36.00% | ~253,137 |
+| Armor | 30.00% | ~210,947 |
+| True holy spirit | 27.00% | ~189,853 |
+| That's how electronics work obviously | 26.00% | ~182,821 |
+| Force Cube Catapult | 25.00% | ~175,790 |
+| Holy Sword | 23.00% | ~161,726 |
+| Telefrag | 22.00% | ~154,695 |
+| Freed from prison | 21.00% | ~147,663 |
+| Stomp | 21.00% | ~147,663 |
 | Double Health | 18.00% | ~126,568 |
-| Buckle | 17.00% | ~119,536 |
-| Green Keycard | 17.00% | ~119,536 |
-| Rattle Hag | 15.00% | ~105,473 |
-| All Shells | 14.00% | ~98,441 |
-| Beam | 13.00% | ~91,410 |
-| 9 | 13.00% | ~91,410 |
-| Purple Cube | 13.00% | ~91,410 |
-| Supraball Noob | 13.00% | ~91,410 |
-| Health Drink | 12.00% | ~84,378 |
-| Helped a star | 12.00% | ~84,378 |
+| Buckle | 17.00% | ~119,537 |
+| Green Keycard | 17.00% | ~119,537 |
+| Rattle Hag | 15.00% | ~105,474 |
+| All Shells | 14.00% | ~98,442 |
+| Beam | 13.00% | ~91,411 |
+| 9 | 13.00% | ~91,411 |
+| Purple Cube | 13.00% | ~91,411 |
+| Supraball Noob | 13.00% | ~91,411 |
+| Health Drink | 12.00% | ~84,379 |
+| Helped a star | 12.00% | ~84,379 |
 | Infiltrated | 11.00% | ~77,347 |
 | Robbed | 11.00% | ~77,347 |
 | Strong | 11.00% | ~77,347 |
-| Blue King's lair | 10.00% | ~70,315 |
-| Payback | 10.00% | ~70,315 |
-| Got the coins back | 10.00% | ~70,315 |
-| Cave Flies | 10.00% | ~70,315 |
-| Gold Scam | 10.00% | ~70,315 |
-| Gold Scam Uncovered | 10.00% | ~70,315 |
-| Got the gun back | 10.00% | ~70,315 |
-| Translocator | 10.00% | ~70,315 |
-| Yellow Shot Button | 10.00% | ~70,315 |
+| Blue King's lair | 10.00% | ~70,316 |
+| Payback | 10.00% | ~70,316 |
+| Got the coins back | 10.00% | ~70,316 |
+| Cave Flies | 10.00% | ~70,316 |
+| Gold Scam | 10.00% | ~70,316 |
+| Gold Scam Uncovered | 10.00% | ~70,316 |
+| Got the gun back | 10.00% | ~70,316 |
+| Translocator | 10.00% | ~70,316 |
+| Yellow Shot Button | 10.00% | ~70,316 |
 | Fire Flies | 9.00% | ~63,284 |
 | Moon Door | 9.00% | ~63,284 |
 | Momentum | 9.00% | ~63,284 |
 | Panic Lights | 9.00% | ~63,284 |
-| Through the tiny pipe | 8.00% | ~56,252 |
-| Win! | 8.00% | ~56,252 |
+| Through the tiny pipe | 8.00% | ~56,253 |
+| Win! | 8.00% | ~56,253 |
 | The real real teleported man | 7.00% | ~49,221 |
 | Well deserved | 6.00% | ~42,189 |
 | Happiness | 3.00% | ~21,095 |
@@ -108,7 +108,7 @@ Diff (max vs sum): -38
 | DLC: There he is! | 0.10% | ~703 |
 | DLC: Top of the world | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,153 (Ranked 14)  
+Progressed: 703,158 (Ranked 14)  
 Completed: 669 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 669 (0.10%) (Ranked 150)
 | 2023-05-02 | 702,784 | 666 |
 | 2023-05-03 | 702,946 | 668 |
 | 2023-05-04 | 703,109 | 668 |
-| 2023-05-05 | 703,153 | 669 |
+| 2023-05-05 | 703,158 | 669 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

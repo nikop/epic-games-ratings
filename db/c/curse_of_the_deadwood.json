@@ -581,13 +581,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 70,
-  "LastChanged_Achievements": "2023-05-05T07:05:12.182046+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:24.1151563+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T07:05:12.1820974+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:57:33.4369481+00:00",
+  "LastUpdate_Achievements": "2023-05-05T08:05:24.1152308+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:57:13.6032842+00:00",
   "AchievementSets": [
     {
       "ID": "aichi7e",
@@ -603,7 +603,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,
   "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00"

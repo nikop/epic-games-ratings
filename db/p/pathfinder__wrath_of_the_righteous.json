@@ -8,7 +8,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "02_BurningCity",
@@ -1563,6 +1563,11 @@
     {
       "Time": "2023-05-05T07:05:29.3149222+00:00",
       "NumProgressed": 8629,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:05:43.9047697+00:00",
+      "NumProgressed": 8631,
       "NumCompleted": 0
     }
   ],
@@ -3705,24 +3710,24 @@
   ],
   "TotalAchievementsXP": 1150,
   "TotalAchievements": 116,
-  "LastChanged_Achievements": "2023-05-05T07:05:29.3149217+00:00",
+  "LastChanged_Achievements": "2023-05-05T08:05:43.904769+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_Completed": 0,
-  "EOS_Progressed": 8629,
-  "LastUpdate_Achievements": "2023-05-05T07:05:29.3150591+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:58:21.0603627+00:00",
+  "EOS_Progressed": 8631,
+  "LastUpdate_Achievements": "2023-05-05T08:05:43.9049146+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:58:15.6600973+00:00",
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7411,
+      "Progressed": 7413,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8629,
+      "Progressed": 8631,
       "Completed": 0
     }
   ],
@@ -3734,7 +3739,7 @@
   "NumberOfAwards": 6574,
   "NumberOfRatings": 1354,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 107,
   "Ranking_PopularitySum": 108,
