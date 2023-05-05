@@ -34,6 +34,7 @@
 | Trailblazer | 20.00% | ~1 |
 | Resistance is futile | 20.00% | ~1 |
 | Go West | 20.00% | ~1 |
+| A new Hope | 20.00% | ~1 |
 | Traffic Jam | 20.00% | ~1 |
 | Going once, going twice, sold | 20.00% | ~1 |
 | Hostile Takeover | 20.00% | ~1 |
@@ -41,7 +42,6 @@
 | Locusts | 20.00% | ~1 |
 | Mole | 20.00% | ~1 |
 | Networker | 20.00% | ~1 |
-| A new Hope | 0.00% | ~0 |
 | Unstoppable | 0.00% | ~0 |
 | Track to the Future | 0.00% | ~0 |
 | Conductor | 0.00% | ~0 |

@@ -32,7 +32,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177476
+      "UsersEstimate": 177479
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -192,7 +192,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 18880
+      "UsersEstimate": 18881
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -1404,6 +1404,11 @@
       "Time": "2023-05-05T06:05:28.0148814+00:00",
       "NumProgressed": 188804,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-05T07:05:29.6116242+00:00",
+      "NumProgressed": 188807,
+      "NumCompleted": 406
     }
   ],
   "RatingHistory": [
@@ -1530,18 +1535,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T06:05:28.0148809+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:29.6116235+00:00",
   "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 784,
   "EOS_Completed": 406,
-  "EOS_Progressed": 188804,
-  "LastUpdate_Achievements": "2023-05-05T06:05:28.0149085+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:58:45.0092432+00:00",
+  "EOS_Progressed": 188807,
+  "LastUpdate_Achievements": "2023-05-05T07:05:29.6116449+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:46.2959249+00:00",
   "AchievementSets": [
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 188804,
+      "Progressed": 188807,
       "Completed": 406
     }
   ],

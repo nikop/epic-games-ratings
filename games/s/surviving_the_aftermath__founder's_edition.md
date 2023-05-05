@@ -9,34 +9,34 @@ Diff (max vs sum): 54
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,370 |
-| Leader | 60.00% | ~2,930 |
+| First Step | 69.00% | ~3,371 |
+| Leader | 60.00% | ~2,931 |
 | Explorer | 53.00% | ~2,589 |
 | Healer | 52.00% | ~2,540 |
 | Aspiring Inventor | 44.00% | ~2,149 |
-| Adventurer | 41.00% | ~2,002 |
+| Adventurer | 41.00% | ~2,003 |
 | Famous Healer | 37.00% | ~1,807 |
-| Local Leader | 35.00% | ~1,709 |
+| Local Leader | 35.00% | ~1,710 |
 | New Opportunities | 34.00% | ~1,661 |
 | Famous Explorer | 33.00% | ~1,612 |
 | Energized | 33.00% | ~1,612 |
 | The Long Haul | 32.00% | ~1,563 |
 | Survivor | 31.00% | ~1,514 |
-| The Great Healer | 30.00% | ~1,465 |
+| The Great Healer | 30.00% | ~1,466 |
 | Catastrofan | 28.00% | ~1,368 |
 | Legendary Explorer | 27.00% | ~1,319 |
 | Cleaner | 27.00% | ~1,319 |
 | Finders, Keepers | 25.00% | ~1,221 |
 | Top Notch | 24.00% | ~1,172 |
-| Great Leader | 22.00% | ~1,074 |
-| Ice Lakes | 22.00% | ~1,074 |
-| Mentor | 22.00% | ~1,074 |
+| Great Leader | 22.00% | ~1,075 |
+| Ice Lakes | 22.00% | ~1,075 |
+| Mentor | 22.00% | ~1,075 |
 | Merchant | 21.00% | ~1,026 |
 | Real Survivor | 21.00% | ~1,026 |
 | War Never Changes | 19.00% | ~928 |
 | Rocket Surgeon | 19.00% | ~928 |
-| Friendly | 16.00% | ~781 |
-| Big Game Hunter | 16.00% | ~781 |
+| Friendly | 16.00% | ~782 |
+| Big Game Hunter | 16.00% | ~782 |
 | Around the World | 15.00% | ~733 |
 | Spreading Influence | 15.00% | ~733 |
 | Bookworm | 14.00% | ~684 |
@@ -64,12 +64,12 @@ Diff (max vs sum): 54
 | Feng Shui | 0.90% | ~44 |
 | Legendary Adventurer | 0.80% | ~39 |
 | Slimy yet Satisfying | 0.80% | ~39 |
+| Choo-choo! | 0.20% | ~10 |
 | Finnished | 0.20% | ~10 |
 | Fun and Games | 0.10% | ~5 |
-| Choo-choo! | 0.10% | ~5 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,884 (Ranked 121)  
+Progressed: 4,885 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
 | 2023-05-04 | 4,882 | 0 |
-| 2023-05-05 | 4,884 | 0 |
+| 2023-05-05 | 4,885 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

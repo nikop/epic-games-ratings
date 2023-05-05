@@ -10,34 +10,34 @@ Diff (max vs sum): 40
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 96.00% | ~218,652 |
-| Uncharted Territory | 89.00% | ~202,708 |
-| Getting A Glimpse | 73.00% | ~166,266 |
-| A Quick Escape | 65.00% | ~148,045 |
-| Explorer | 62.00% | ~141,212 |
+| Uncharted Territory | 89.00% | ~202,709 |
+| Getting A Glimpse | 73.00% | ~166,267 |
+| A Quick Escape | 65.00% | ~148,046 |
+| Explorer | 62.00% | ~141,213 |
 | Defeat The Dark | 61.00% | ~138,935 |
 | An Offering | 61.00% | ~138,935 |
-| Colorful Corpse | 58.00% | ~132,102 |
+| Colorful Corpse | 58.00% | ~132,103 |
 | That Was Quick | 56.00% | ~127,547 |
 | A Donation | 56.00% | ~127,547 |
-| Goodbye, Frog Friend | 54.00% | ~122,991 |
-| Heavy Hitter | 52.00% | ~118,436 |
+| Goodbye, Frog Friend | 54.00% | ~122,992 |
+| Heavy Hitter | 52.00% | ~118,437 |
 | Heartless | 46.00% | ~104,771 |
-| Spine Breaker | 46.00% | ~104,771 |
-| Deflection | 44.00% | ~100,215 |
+| Spine Breaker | 45.00% | ~102,493 |
+| Deflection | 44.00% | ~100,216 |
 | Sneaky | 43.00% | ~97,938 |
 | Delving Deeper | 42.00% | ~95,660 |
-| Ambitious Intent | 41.00% | ~93,382 |
-| C-C-Combo | 41.00% | ~93,382 |
+| Ambitious Intent | 41.00% | ~93,383 |
+| C-C-Combo | 41.00% | ~93,383 |
 | The Bestiary | 40.00% | ~91,105 |
-| Nothing To Lose | 39.00% | ~88,827 |
+| Nothing To Lose | 39.00% | ~88,828 |
 | What's Yours Is Mine | 38.00% | ~86,550 |
-| R.I.P | 36.00% | ~81,994 |
+| R.I.P | 36.00% | ~81,995 |
 | Shootout | 35.00% | ~79,717 |
 | Cold Hearted | 34.00% | ~77,439 |
 | I Am Overburdened | 34.00% | ~77,439 |
 | Dig Your Own Grave | 32.00% | ~72,884 |
 | Toxic | 32.00% | ~72,884 |
-| Who To Trust? | 31.00% | ~70,606 |
+| Who To Trust? | 31.00% | ~70,607 |
 | Flesh Wound | 29.00% | ~66,051 |
 | Walk It Off | 27.00% | ~61,496 |
 | Stone Touch | 27.00% | ~61,496 |
@@ -60,9 +60,9 @@ Diff (max vs sum): 40
 | Doing Time | 16.00% | ~36,442 |
 | Spreading Plague | 14.00% | ~31,887 |
 | The Long Run | 14.00% | ~31,887 |
-| A Rough Road | 12.00% | ~27,331 |
-| Berzerker | 12.00% | ~27,331 |
-| Chain Reaction | 12.00% | ~27,331 |
+| A Rough Road | 12.00% | ~27,332 |
+| Berzerker | 12.00% | ~27,332 |
+| Chain Reaction | 12.00% | ~27,332 |
 | Antivenom | 11.00% | ~25,054 |
 | Thank You, Friend | 10.00% | ~22,776 |
 | Barbecue | 9.00% | ~20,499 |
@@ -87,14 +87,14 @@ Diff (max vs sum): 40
 | Just Looking Around | 6.00% | ~13,666 |
 | Obsessed | 6.00% | ~13,666 |
 | Champion of the Day | 5.00% | ~11,388 |
-| Achievement Hunter | 4.00% | ~9,110 |
-| Hydrophobe | 4.00% | ~9,110 |
-| Explosive Betrayal | 4.00% | ~9,110 |
-| Willing the World | 4.00% | ~9,110 |
-| Predator | 4.00% | ~9,110 |
-| Resourceful | 4.00% | ~9,110 |
-| Become The Nightmare | 4.00% | ~9,110 |
-| No Mercy | 4.00% | ~9,110 |
+| Achievement Hunter | 4.00% | ~9,111 |
+| Hydrophobe | 4.00% | ~9,111 |
+| Explosive Betrayal | 4.00% | ~9,111 |
+| Willing the World | 4.00% | ~9,111 |
+| Predator | 4.00% | ~9,111 |
+| Resourceful | 4.00% | ~9,111 |
+| Become The Nightmare | 4.00% | ~9,111 |
+| No Mercy | 4.00% | ~9,111 |
 | Quick Descent | 3.00% | ~6,833 |
 | A Week Attempt | 3.00% | ~6,833 |
 | Dead Revels | 3.00% | ~6,833 |
@@ -132,7 +132,7 @@ Diff (max vs sum): 40
 | Never Too Many Hats | 0.40% | ~911 |
 | Near Death Experience | 0.30% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,762 (Ranked 41)  
+Progressed: 227,763 (Ranked 41)  
 Completed: 223 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 223 (0.10%) (Ranked 150)
 | 2023-05-02 | 227,639 | 223 |
 | 2023-05-03 | 227,692 | 223 |
 | 2023-05-04 | 227,747 | 223 |
-| 2023-05-05 | 227,762 | 223 |
+| 2023-05-05 | 227,763 | 223 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

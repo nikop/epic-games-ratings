@@ -270,9 +270,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "WinOnCursed",
@@ -1079,6 +1079,11 @@
     {
       "Time": "2023-05-05T06:05:51.413343+00:00",
       "NumProgressed": 14641,
+      "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-05T07:05:50.6937955+00:00",
+      "NumProgressed": 14642,
       "NumCompleted": 30
     }
   ],
@@ -3203,18 +3208,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T06:05:51.4133424+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:50.693795+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 151,
   "EOS_Completed": 30,
-  "EOS_Progressed": 14641,
-  "LastUpdate_Achievements": "2023-05-05T06:05:51.413389+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:59:59.2652358+00:00",
+  "EOS_Progressed": 14642,
+  "LastUpdate_Achievements": "2023-05-05T07:05:50.6938309+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:59:54.1788278+00:00",
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14641,
+      "Progressed": 14642,
       "Completed": 30
     }
   ],
@@ -3226,7 +3231,7 @@
   "NumberOfAwards": 3012,
   "NumberOfRatings": 1845,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 97,
   "Ranking_PopularitySum": 148,

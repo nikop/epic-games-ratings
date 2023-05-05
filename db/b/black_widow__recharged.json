@@ -8,7 +8,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10864
+      "UsersEstimate": 10865
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -40,7 +40,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -981,6 +981,11 @@
       "Time": "2023-05-05T06:05:55.2456534+00:00",
       "NumProgressed": 13752,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-05T07:05:53.8994154+00:00",
+      "NumProgressed": 13753,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1096,18 +1101,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T06:05:55.2456529+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:53.8994152+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13752,
-  "LastUpdate_Achievements": "2023-05-05T06:05:55.2456719+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:00:27.3058363+00:00",
+  "EOS_Progressed": 13753,
+  "LastUpdate_Achievements": "2023-05-05T07:05:53.8994264+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:00:15.4879895+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13752,
+      "Progressed": 13753,
       "Completed": 42
     }
   ],

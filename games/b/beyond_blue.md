@@ -1,6 +1,6 @@
 # Beyond Blue
 [View Rawdata](../../db/b/beyond_blue.json)  
-Rating: 4.36 (Ranked 701)  
+Rating: 4.34 (Ranked 720)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,3 +17,4 @@ Rating: 4.36 (Ranked 701)
 | 2023-04-30 | 4.31 | 0 | 0 |
 | 2023-05-01 | 4.35 | 0 | 0 |
 | 2023-05-03 | 4.36 | 0 | 0 |
+| 2023-05-05 | 4.34 | 0 | 0 |

@@ -56,7 +56,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "completionist",
@@ -88,7 +88,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7565
+      "UsersEstimate": 7566
     },
     {
       "ID": "firstItem",
@@ -96,7 +96,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23603
+      "UsersEstimate": 23604
     },
     {
       "ID": "roots",
@@ -104,7 +104,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "secretItem",
@@ -1076,6 +1076,11 @@
       "Time": "2023-05-05T05:05:21.4101328+00:00",
       "NumProgressed": 30260,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-05T07:05:51.6452769+00:00",
+      "NumProgressed": 30262,
+      "NumCompleted": 93
     }
   ],
   "RatingHistory": [
@@ -1283,18 +1288,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T06:05:52.5132356+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:51.6452764+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_Completed": 93,
-  "EOS_Progressed": 30260,
-  "LastUpdate_Achievements": "2023-05-05T06:05:52.5132537+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:00:16.4467224+00:00",
+  "EOS_Progressed": 30262,
+  "LastUpdate_Achievements": "2023-05-05T07:05:51.6452892+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:00:06.9105984+00:00",
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30260,
+      "Progressed": 30262,
       "Completed": 93
     }
   ],

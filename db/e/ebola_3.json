@@ -30,9 +30,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "achBett",
@@ -208,7 +208,7 @@
       "Name": "Fright \u2714",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achLizun",
@@ -864,6 +864,11 @@
       "Time": "2023-05-05T01:59:07.0583731+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T07:05:54.712928+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -876,18 +881,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T06:05:56.1733277+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:54.7129275+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_Completed": 0,
-  "EOS_Progressed": 122,
-  "LastUpdate_Achievements": "2023-05-05T06:05:56.1733729+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:00:18.3446605+00:00",
+  "EOS_Progressed": 123,
+  "LastUpdate_Achievements": "2023-05-05T07:05:54.7129672+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:00:08.3552369+00:00",
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],

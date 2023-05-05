@@ -96,7 +96,7 @@
       "Name": "Absolutely",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_abu_bakr_IIs_ambition",
@@ -448,7 +448,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -528,7 +528,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "achievement_colonial_management",
@@ -696,7 +696,7 @@
       "Name": "Dude, Where\u0027s my Boat?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_early_modern_warfare",
@@ -840,7 +840,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "achievement_forever_golden",
@@ -1008,7 +1008,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "achievement_grand_coalition",
@@ -1032,7 +1032,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -1160,7 +1160,7 @@
       "Name": "In the Name of the Father",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_industrial_evolution",
@@ -1200,7 +1200,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_italian_ambition",
@@ -1440,7 +1440,7 @@
       "Name": "Live Long and Prosper",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_luck_of_the_irish",
@@ -1720,7 +1720,7 @@
       "Name": "One Family to Rule them All",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_one_king_to_rule",
@@ -1744,7 +1744,7 @@
       "Name": "One Night in Paris",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_ostindisk_kompagni_te",
@@ -1816,7 +1816,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_prester_john",
@@ -1976,7 +1976,7 @@
       "Name": "Ruina Imperii",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_sailor_mon",
@@ -2008,7 +2008,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -2272,7 +2272,7 @@
       "Name": "Tear Down This Wall",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_terra_mariana",
@@ -2288,7 +2288,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -2344,7 +2344,7 @@
       "Name": "The Continuation of Diplomacy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_the_five_colonies",
@@ -2352,7 +2352,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -2496,7 +2496,7 @@
       "Name": "This is My Faith",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_this_is_persia",
@@ -2542,9 +2542,9 @@
       "ID": "achievement_time_bandit",
       "SetID": "8p2n7he",
       "Name": "Time Bandit",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_to_the_bone",
@@ -2672,7 +2672,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -2704,7 +2704,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -2728,7 +2728,7 @@
       "Name": "Voting Streak",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -2888,7 +2888,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4397
+      "Count": 4404
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4047,6 +4047,11 @@
     {
       "Time": "2023-05-05T06:05:22.1356679+00:00",
       "NumProgressed": 29500,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T07:05:24.7841097+00:00",
+      "NumProgressed": 29515,
       "NumCompleted": 0
     }
   ],
@@ -8397,37 +8402,43 @@
       "Rating": 4.68,
       "NumberOfAwards": 42706,
       "NumberOfAwardsMax": 5170
+    },
+    {
+      "Time": "2023-05-05T06:57:28.8903941+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42713,
+      "NumberOfAwardsMax": 5170
     }
   ],
   "TotalAchievementsXP": 5175,
   "TotalAchievements": 354,
-  "LastChanged_Achievements": "2023-05-05T06:05:22.1356674+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:24.7841089+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6428,
+  "EOS_NewPlayers": 6427,
   "EOS_Completed": 0,
-  "EOS_Progressed": 29500,
-  "LastUpdate_Achievements": "2023-05-05T06:05:22.1368654+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:57:11.7153754+00:00",
+  "EOS_Progressed": 29515,
+  "LastUpdate_Achievements": "2023-05-05T07:05:24.7851169+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:57:28.8903945+00:00",
   "AchievementSets": [
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 29500,
+      "Progressed": 29515,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 29500,
+      "Progressed": 29515,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T04:57:01.8205429+00:00",
+  "LastChanged": "2023-05-05T06:57:28.890393+00:00",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 5170,
-  "NumberOfAwards": 42706,
+  "NumberOfAwards": 42713,
   "NumberOfRatings": 8414,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 17,

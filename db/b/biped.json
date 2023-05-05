@@ -8,7 +8,7 @@
       "Name": "First Step",
       "Percentage": 47,
       "XP": 45,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "10",
@@ -62,9 +62,9 @@
       "ID": "2",
       "SetID": "1dkhij4",
       "Name": "Dense Forest",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 383
+      "UsersEstimate": 394
     },
     {
       "ID": "3",
@@ -854,6 +854,11 @@
       "Time": "2023-05-05T00:04:50.8623951+00:00",
       "NumProgressed": 1009,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T07:05:10.7927116+00:00",
+      "NumProgressed": 1010,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -866,18 +871,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T06:05:07.2449068+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:10.7927112+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1009,
-  "LastUpdate_Achievements": "2023-05-05T06:05:07.2449225+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:57:57.4924611+00:00",
+  "EOS_Progressed": 1010,
+  "LastUpdate_Achievements": "2023-05-05T07:05:10.7927239+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:06.4755198+00:00",
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1009,
+      "Progressed": 1010,
       "Completed": 0
     }
   ],

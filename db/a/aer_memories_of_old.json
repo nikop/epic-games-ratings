@@ -56,7 +56,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -104,7 +104,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6473
+      "UsersEstimate": 6474
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -144,7 +144,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -160,7 +160,7 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     }
   ],
   "Tags": [],
@@ -1244,6 +1244,11 @@
       "Time": "2023-05-05T06:05:51.8226091+00:00",
       "NumProgressed": 8517,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T07:05:50.9915178+00:00",
+      "NumProgressed": 8519,
+      "NumCompleted": 195
     }
   ],
   "RatingHistory": [
@@ -1593,18 +1598,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T06:05:51.8226085+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:50.9915173+00:00",
   "EOS_NewCompleters": 15,
   "EOS_NewPlayers": 593,
   "EOS_Completed": 195,
-  "EOS_Progressed": 8517,
-  "LastUpdate_Achievements": "2023-05-05T06:05:51.822628+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:00:12.2780392+00:00",
+  "EOS_Progressed": 8519,
+  "LastUpdate_Achievements": "2023-05-05T07:05:50.9915331+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:00:04.1971448+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8517,
+      "Progressed": 8519,
       "Completed": 195
     }
   ],

@@ -8,6 +8,7 @@ Diff (max vs sum): -40
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Batman Family | 0.20% | ~121 |
 | End of an Era | 0.20% | ~121 |
 | In Your Element | 0.20% | ~121 |
 | Protector of Gotham | 0.20% | ~121 |
@@ -43,7 +44,6 @@ Diff (max vs sum): -40
 | Renewable Enemy Source | 0.10% | ~31 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~31 |
 | The Cold, the Bad and the Ugly | 0.10% | ~31 |
-| The Batman Family | 0.10% | ~61 |
 | Gotham's Greatest Depths | 0.10% | ~31 |
 | Showdown Sovereign | 0.10% | ~31 |
 | Practice Makes Perfect | 0.10% | ~61 |
@@ -70,7 +70,7 @@ Diff (max vs sum): -40
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,633 (Ranked 66)  
+Progressed: 60,634 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 89 (0.15%) (Ranked 138)
 | 2023-05-02 | 60,584 | 89 |
 | 2023-05-03 | 60,606 | 89 |
 | 2023-05-04 | 60,626 | 89 |
-| 2023-05-05 | 60,633 | 89 |
+| 2023-05-05 | 60,634 | 89 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

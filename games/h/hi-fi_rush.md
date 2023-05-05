@@ -4,45 +4,45 @@ Rating: 4.85 (Ranked 37)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 89.00% | ~1,300 |
-| Feeling the beat! | 89.00% | ~1,300 |
-| You can pet the cat! | 85.00% | ~1,242 |
-| Who put gears in there? | 81.00% | ~1,183 |
-| Cream of the Crop | 77.00% | ~1,125 |
-| Thanks for the free chip, Peppermint! | 76.00% | ~1,110 |
-| You got this, Peppermint? | 72.00% | ~1,052 |
-| Perfect Parry | 69.00% | ~1,008 |
-| Alright, that felt AWESOME! | 69.00% | ~1,008 |
-| I play my own way! | 64.00% | ~935 |
+| Start with a bang! | 89.00% | ~1,301 |
+| Feeling the beat! | 89.00% | ~1,301 |
+| You can pet the cat! | 85.00% | ~1,243 |
+| Who put gears in there? | 81.00% | ~1,184 |
+| Cream of the Crop | 77.00% | ~1,126 |
+| Thanks for the free chip, Peppermint! | 76.00% | ~1,111 |
+| You got this, Peppermint? | 72.00% | ~1,053 |
+| Perfect Parry | 69.00% | ~1,009 |
+| Alright, that felt AWESOME! | 69.00% | ~1,009 |
+| I play my own way! | 64.00% | ~936 |
 | This will cost you big time | 62.00% | ~906 |
-| Uh, they were broken when I got here | 62.00% | ~906 |
+| Uh, they were broken when I got here | 61.00% | ~892 |
 | Z-shielding's got nothing on us! | 60.00% | ~877 |
-| Kissing the sky! | 58.00% | ~847 |
+| Kissing the sky! | 58.00% | ~848 |
 | Whoa! There's ANOTHER health bar!? | 54.00% | ~789 |
 | The Negotiator | 52.00% | ~760 |
 | Does that say weakpoint? | 52.00% | ~760 |
-| You must like calling me in, Chai | 46.00% | ~672 |
-| Out in a puff of smoke | 46.00% | ~672 |
+| You must like calling me in, Chai | 46.00% | ~673 |
+| Out in a puff of smoke | 46.00% | ~673 |
 | Headliner | 44.00% | ~643 |
 | Time to pay up! | 42.00% | ~614 |
 | Perfecter Parry-er! | 41.00% | ~599 |
 | Who's the boss now? | 39.00% | ~570 |
-| I have to read these things? | 38.00% | ~555 |
+| I have to read these things? | 37.00% | ~541 |
 | I look cool. But I can look COOLER. | 36.00% | ~526 |
 | That's a lot of junk metal… | 29.00% | ~424 |
 | There's such a thing as TOO helpful | 29.00% | ~424 |
 | Beat-hit mania | 26.00% | ~380 |
 | Well that was a rush! | 24.00% | ~351 |
 | I told you I'd be fine, Peppermint! | 24.00% | ~351 |
-| Wanna hear my playlist? | 17.00% | ~248 |
-| Check out my moves! | 17.00% | ~248 |
+| Wanna hear my playlist? | 17.00% | ~249 |
+| Check out my moves! | 17.00% | ~249 |
 | Chip-tuned | 16.00% | ~234 |
 | We're Jammin' | 13.00% | ~190 |
 | I think I found your calling, Macaron | 11.00% | ~161 |
 | I'm not done with you yet | 11.00% | ~161 |
 | First we parry, then we counter | 11.00% | ~161 |
 | I hit things with a guitar really well. | 11.00% | ~161 |
-| I think I deserve some praise, here! | 9.00% | ~131 |
+| I think I deserve some praise, here! | 9.00% | ~132 |
 | You ever parry a volcano? | 8.00% | ~117 |
 | This is a breeze! | 7.00% | ~102 |
 | OK, well THEY came after ME! | 5.00% | ~73 |
@@ -66,7 +66,7 @@ Rating: 4.85 (Ranked 37)
 | Didn't skip a beat! | 0.40% | ~6 |
 | What a journey it was... | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,461 (Ranked 150)  
+Progressed: 1,462 (Ranked 150)  
 Completed: 3 (0.21%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 3 (0.21%) (Ranked 129)
 | 2023-05-02 | 1,455 | 3 |
 | 2023-05-03 | 1,456 | 3 |
 | 2023-05-04 | 1,460 | 3 |
-| 2023-05-05 | 1,461 | 3 |
+| 2023-05-05 | 1,462 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

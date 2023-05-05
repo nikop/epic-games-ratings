@@ -9,7 +9,7 @@ Diff (max vs sum): 46
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~17,532 |
+| First money | 94.00% | ~17,533 |
 | Strongman | 31.00% | ~5,782 |
 | Alpha Male | 19.00% | ~3,544 |
 | Just Enough | 18.00% | ~3,357 |
@@ -33,7 +33,7 @@ Diff (max vs sum): 46
 | Nerd | 0.50% | ~93 |
 | Senior Estate Agent | 0.50% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,651 (Ranked 92)  
+Progressed: 18,652 (Ranked 92)  
 Completed: 19 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 19 (0.10%) (Ranked 150)
 | 2023-05-02 | 18,638 | 19 |
 | 2023-05-03 | 18,643 | 19 |
 | 2023-05-04 | 18,649 | 19 |
-| 2023-05-05 | 18,651 | 19 |
+| 2023-05-05 | 18,652 | 19 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

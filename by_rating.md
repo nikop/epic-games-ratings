@@ -286,7 +286,7 @@
 | 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 547 | 173 |
 | 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 466 |
 | 272 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 490 |
-| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 415 | 192 |
+| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 417 | 191 |
 | 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,760 | 56 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 186 |
 | 290 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 490 |
@@ -547,7 +547,7 @@
 | 530 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 490 |
 | 530 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 28 | 450 |
 | 547 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 373 |
-| 547 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 394 | 199 |
+| 547 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 394 | 200 |
 | 547 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,971 | 103 |
 | 547 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104 | 314 |
 | 547 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 336 |
@@ -671,7 +671,7 @@
 | 663 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 490 |
 | 663 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 490 |
 | 663 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 73 | 353 |
-| 663 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 394 | 199 |
+| 663 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 395 | 199 |
 | 663 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 490 |
 | 663 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 490 |
 | 663 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 490 |
@@ -701,7 +701,6 @@
 | 695 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 394 |
 | 695 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 440 |
 | 701 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 490 |
-| 701 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 490 |
 | 701 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 272 |
 | 701 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 490 |
 | 701 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,330 | 27 |
@@ -712,24 +711,25 @@
 | 701 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 490 |
 | 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 82 | 344 |
 | 701 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 490 |
-| 713 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 490 |
-| 713 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 334 |
-| 713 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 48 | 391 |
-| 713 | [Encased](games/e/encased.md) | 4.35 | 125 | 297 |
-| 713 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 256 |
-| 713 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 490 |
-| 713 | [Paladins](games/p/paladins.md) | 4.35 | 3,200 | 82 |
-| 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 414 |
-| 721 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
-| 721 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 454 |
-| 721 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 490 |
-| 721 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
-| 721 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
-| 721 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
-| 721 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,868 | 61 |
-| 721 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 240 |
-| 721 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
-| 721 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 58 | 381 |
+| 712 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 490 |
+| 712 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 334 |
+| 712 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 48 | 391 |
+| 712 | [Encased](games/e/encased.md) | 4.35 | 125 | 297 |
+| 712 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 256 |
+| 712 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 490 |
+| 712 | [Paladins](games/p/paladins.md) | 4.35 | 3,200 | 82 |
+| 712 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 414 |
+| 720 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
+| 720 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 454 |
+| 720 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 490 |
+| 720 | [Beyond Blue](games/b/beyond_blue.md) | 4.34 | 0 | 490 |
+| 720 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
+| 720 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
+| 720 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
+| 720 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,868 | 61 |
+| 720 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 240 |
+| 720 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
+| 720 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 58 | 381 |
 | 731 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
 | 731 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
 | 731 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |

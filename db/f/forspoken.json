@@ -56,7 +56,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -104,7 +104,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -120,7 +120,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -128,7 +128,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -160,7 +160,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "CUFF_ATTACK",
@@ -168,7 +168,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -208,7 +208,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -224,7 +224,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -256,7 +256,7 @@
       "Name": "Shocker",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -304,7 +304,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -360,7 +360,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "STAYING_AIR",
@@ -1058,6 +1058,11 @@
       "Time": "2023-05-05T06:05:26.7507272+00:00",
       "NumProgressed": 37549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T07:05:28.5291838+00:00",
+      "NumProgressed": 37550,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1252,25 +1257,25 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T06:05:26.7507265+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:28.5291832+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_Completed": 1,
-  "EOS_Progressed": 37549,
-  "LastUpdate_Achievements": "2023-05-05T06:05:26.7507776+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:58:30.5260688+00:00",
+  "EOS_Progressed": 37550,
+  "LastUpdate_Achievements": "2023-05-05T07:05:28.5292205+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:33.9305327+00:00",
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37549,
+      "Progressed": 37550,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2386,
-      "Completed": 2386
+      "Progressed": 2387,
+      "Completed": 2387
     }
   ],
   "EOS_Completed_Percentage": 0,

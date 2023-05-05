@@ -850,13 +850,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T06:05:06.7841444+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:10.3756109+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T06:05:06.7841461+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:57:44.7223725+00:00",
+  "LastUpdate_Achievements": "2023-05-05T07:05:10.375613+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:57:56.2682624+00:00",
   "AchievementSets": [
     {
       "ID": "daiie3o",
@@ -879,7 +879,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 202,
   "Ranking_Popularity": 256,
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 712,
   "Rating": 4.35,
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00"
 }

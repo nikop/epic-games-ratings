@@ -9,19 +9,19 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,456 |
-| The Three | 64.00% | ~332,689 |
-| The Banquet | 40.00% | ~207,931 |
-| Devara's Light | 30.00% | ~155,948 |
-| The Iron Ones | 18.00% | ~93,569 |
-| The Village | 16.00% | ~83,172 |
+| Find Sanctuary | 83.00% | ~431,460 |
+| The Three | 64.00% | ~332,692 |
+| The Banquet | 40.00% | ~207,932 |
+| Devara's Light | 30.00% | ~155,949 |
+| The Iron Ones | 18.00% | ~93,570 |
+| The Village | 16.00% | ~83,173 |
 | The Forest | 14.00% | ~72,776 |
 | Branded | 13.00% | ~67,578 |
 | The Imposter | 13.00% | ~67,578 |
 | The Keep | 13.00% | ~67,578 |
 | The Castle | 11.00% | ~57,181 |
-| The Dome | 9.00% | ~46,784 |
-| The Red Hall | 9.00% | ~46,784 |
+| The Dome | 9.00% | ~46,785 |
+| The Red Hall | 9.00% | ~46,785 |
 | The Sacrifice | 8.00% | ~41,586 |
 | The Cave | 7.00% | ~36,388 |
 | The Stone Roots | 7.00% | ~36,388 |
@@ -30,9 +30,9 @@ Diff (max vs sum): 42
 | The Construct | 6.00% | ~31,190 |
 | The Mire | 6.00% | ~31,190 |
 | The Ruins | 6.00% | ~31,190 |
-| The Alkymancery | 5.00% | ~25,991 |
-| The Lake | 5.00% | ~25,991 |
-| The Pitchwoods | 5.00% | ~25,991 |
+| The Alkymancery | 5.00% | ~25,992 |
+| The Lake | 5.00% | ~25,992 |
+| The Pitchwoods | 5.00% | ~25,992 |
 | Honed | 4.00% | ~20,793 |
 | The House of Splendor | 4.00% | ~20,793 |
 | The Crypt | 4.00% | ~20,793 |
@@ -47,7 +47,7 @@ Diff (max vs sum): 42
 | Wise Words | 2.00% | ~10,397 |
 | Fading Fast | 1.00% | ~5,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,827 (Ranked 23)  
+Progressed: 519,831 (Ranked 23)  
 Completed: 1,397 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 1,397 (0.27%) (Ranked 123)
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
 | 2023-05-04 | 519,799 | 1,396 |
-| 2023-05-05 | 519,827 | 1,397 |
+| 2023-05-05 | 519,831 | 1,397 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

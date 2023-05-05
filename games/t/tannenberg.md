@@ -9,46 +9,46 @@ Diff (max vs sum): 60
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~95,474 |
-| Comeback | 81.00% | ~86,892 |
-| Information is Key | 80.00% | ~85,819 |
+| Immovable Object | 89.00% | ~95,475 |
+| Comeback | 81.00% | ~86,893 |
+| Information is Key | 80.00% | ~85,820 |
 | Unlucky | 71.00% | ~76,165 |
-| Anarchist | 68.00% | ~72,946 |
-| Wallhack | 65.00% | ~69,728 |
-| Steady Supply | 60.00% | ~64,364 |
-| Lucky Shot | 53.00% | ~56,855 |
-| Forward Observer | 52.00% | ~55,782 |
-| Ring Ring! | 52.00% | ~55,782 |
-| Bossing Around | 45.00% | ~48,273 |
-| Frostbite | 45.00% | ~48,273 |
-| Night Owl | 45.00% | ~48,273 |
-| Strength in Numbers | 45.00% | ~48,273 |
-| Fog of War | 41.00% | ~43,982 |
+| Anarchist | 68.00% | ~72,947 |
+| Wallhack | 65.00% | ~69,729 |
+| Steady Supply | 60.00% | ~64,365 |
+| Lucky Shot | 53.00% | ~56,856 |
+| Forward Observer | 52.00% | ~55,783 |
+| Ring Ring! | 52.00% | ~55,783 |
+| Bossing Around | 45.00% | ~48,274 |
+| Frostbite | 45.00% | ~48,274 |
+| Night Owl | 45.00% | ~48,274 |
+| Strength in Numbers | 45.00% | ~48,274 |
+| Fog of War | 41.00% | ~43,983 |
 | Stronghold Denied | 39.00% | ~41,837 |
 | Anyone Else? | 38.00% | ~40,764 |
 | Rasputin | 38.00% | ~40,764 |
 | This Belongs to Us Now | 36.00% | ~38,619 |
 | Hydra | 35.00% | ~37,546 |
-| Stronghold | 34.00% | ~36,473 |
-| Leeroy | 33.00% | ~35,400 |
-| Lost Batallion | 33.00% | ~35,400 |
+| Stronghold | 34.00% | ~36,474 |
+| Leeroy | 33.00% | ~35,401 |
+| Lost Batallion | 33.00% | ~35,401 |
 | This is MY Machine Gun! | 31.00% | ~33,255 |
 | Together As One | 31.00% | ~33,255 |
 | Gavrilo Princip | 27.00% | ~28,964 |
-| Lead Harvest | 25.00% | ~26,818 |
+| Lead Harvest | 25.00% | ~26,819 |
 | Kesselschlacht | 23.00% | ~24,673 |
 | Skynet Confirmed | 23.00% | ~24,673 |
 | Democracy Works! | 20.00% | ~21,455 |
 | Switch, Please! | 19.00% | ~20,382 |
-| I've Seen It All | 18.00% | ~19,309 |
-| Tourist | 18.00% | ~19,309 |
+| I've Seen It All | 18.00% | ~19,310 |
+| Tourist | 18.00% | ~19,310 |
 | At Least This Way I Can Win... | 17.00% | ~18,237 |
 | Oops! | 17.00% | ~18,237 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~17,164 |
 | Butcher | 12.00% | ~12,873 |
-| Before the Leaves Fall | 10.00% | ~10,727 |
-| Close Call | 10.00% | ~10,727 |
-| Pinpoint | 10.00% | ~10,727 |
+| Before the Leaves Fall | 10.00% | ~10,728 |
+| Close Call | 10.00% | ~10,728 |
+| Pinpoint | 10.00% | ~10,728 |
 | Tannenberg | 9.00% | ~9,655 |
 | For the Emperor | 8.00% | ~8,582 |
 | Hawk Eye | 8.00% | ~8,582 |
@@ -63,13 +63,13 @@ Diff (max vs sum): 60
 | Living on the Edge | 4.00% | ~4,291 |
 | Chivalrous | 3.00% | ~3,218 |
 | S nami Bog! | 3.00% | ~3,218 |
-| Cheeki Breeki | 2.00% | ~2,145 |
-| Na Nozh! | 2.00% | ~2,145 |
-| Pe aici nu se trece | 2.00% | ~2,145 |
-| Phone It In | 2.00% | ~2,145 |
-| Pulcējaties zem latviešu karogiem! | 2.00% | ~2,145 |
-| Pure Krupp Steel | 2.00% | ~2,145 |
-| Za veru, Tsarya i otechestvo | 2.00% | ~2,145 |
+| Cheeki Breeki | 2.00% | ~2,146 |
+| Na Nozh! | 2.00% | ~2,146 |
+| Pe aici nu se trece | 2.00% | ~2,146 |
+| Phone It In | 2.00% | ~2,146 |
+| Pulcējaties zem latviešu karogiem! | 2.00% | ~2,146 |
+| Pure Krupp Steel | 2.00% | ~2,146 |
+| Za veru, Tsarya i otechestvo | 2.00% | ~2,146 |
 | From Russia with Hate | 1.00% | ~1,073 |
 | Talk Much? | 1.00% | ~1,073 |
 | To Arms! To Arms! | 1.00% | ~1,073 |
@@ -77,7 +77,7 @@ Diff (max vs sum): 60
 | Seeing is Believing | 0.90% | ~965 |
 | Road to Berlin | 0.60% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,274 (Ranked 58)  
+Progressed: 107,275 (Ranked 58)  
 Completed: 21 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 21 (0.02%) (Ranked 175)
 | 2023-05-02 | 106,966 | 20 |
 | 2023-05-03 | 107,108 | 20 |
 | 2023-05-04 | 107,246 | 21 |
-| 2023-05-05 | 107,274 | 21 |
+| 2023-05-05 | 107,275 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

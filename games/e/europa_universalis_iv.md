@@ -4,20 +4,20 @@ Rating: 4.68 (Ranked 233)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,170  (Ranked 60)  
-Sum: 42,706 (Ranked 26)  
+Sum: 42,713 (Ranked 26)  
 Diff (max vs sum): 34  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,655 |
-| That's a Grand Army | 8.00% | ~2,360 |
-| That is mine! | 8.00% | ~2,360 |
-| Victorious! | 8.00% | ~2,360 |
-| Brothers in Arms | 6.00% | ~1,770 |
-| That's a Grand Navy | 6.00% | ~1,770 |
-| Seriously?! | 6.00% | ~1,770 |
-| For the Glory | 5.00% | ~1,475 |
-| Cold War | 4.00% | ~1,180 |
+| Until death do us apart | 9.00% | ~2,656 |
+| That's a Grand Army | 8.00% | ~2,361 |
+| That is mine! | 8.00% | ~2,361 |
+| Victorious! | 8.00% | ~2,361 |
+| Brothers in Arms | 6.00% | ~1,771 |
+| That's a Grand Navy | 6.00% | ~1,771 |
+| Seriously?! | 6.00% | ~1,771 |
+| For the Glory | 5.00% | ~1,476 |
+| Cold War | 4.00% | ~1,181 |
 | Defender of the Faith | 3.00% | ~885 |
 | It's all about the money | 3.00% | ~885 |
 | Respected | 3.00% | ~885 |
@@ -40,32 +40,32 @@ Diff (max vs sum): 34
 | My armies are invincible! | 1.00% | ~295 |
 | All That's Thine Shall Be Mine | 0.90% | ~266 |
 | City of Cities | 0.90% | ~266 |
-| Isn't this the way to India? | 0.70% | ~206 |
-| The Five Colonies | 0.70% | ~206 |
+| Isn't this the way to India? | 0.70% | ~207 |
+| The Five Colonies | 0.70% | ~207 |
 | The Emperors new clothes | 0.60% | ~177 |
 | Market Control | 0.60% | ~177 |
 | Down Under | 0.50% | ~148 |
 | Electable! | 0.50% | ~148 |
 | This navy can take it all | 0.50% | ~148 |
+| Time Bandit | 0.50% | ~148 |
 | Trustworthy | 0.50% | ~148 |
 | All belongs to Mother Russia | 0.40% | ~118 |
 | At every continent | 0.40% | ~118 |
 | Early-Modern Warfare | 0.40% | ~118 |
 | The pen is mightier than the sword | 0.40% | ~118 |
-| Time Bandit | 0.40% | ~118 |
 | Trophy Hunter | 0.40% | ~118 |
-| Absolutely | 0.30% | ~88 |
-| Dude, Where's my Boat? | 0.30% | ~88 |
-| In the Name of the Father | 0.30% | ~88 |
-| Live Long and Prosper | 0.30% | ~88 |
-| One Family to Rule them All | 0.30% | ~88 |
-| One Night in Paris | 0.30% | ~88 |
-| Populists in Government | 0.30% | ~88 |
-| Ruina Imperii | 0.30% | ~88 |
-| Tear Down This Wall | 0.30% | ~88 |
-| The Continuation of Diplomacy | 0.30% | ~88 |
-| This is My Faith | 0.30% | ~88 |
-| Voting Streak | 0.30% | ~88 |
+| Absolutely | 0.30% | ~89 |
+| Dude, Where's my Boat? | 0.30% | ~89 |
+| In the Name of the Father | 0.30% | ~89 |
+| Live Long and Prosper | 0.30% | ~89 |
+| One Family to Rule them All | 0.30% | ~89 |
+| One Night in Paris | 0.30% | ~89 |
+| Populists in Government | 0.30% | ~89 |
+| Ruina Imperii | 0.30% | ~89 |
+| Tear Down This Wall | 0.30% | ~89 |
+| The Continuation of Diplomacy | 0.30% | ~89 |
+| This is My Faith | 0.30% | ~89 |
+| Voting Streak | 0.30% | ~89 |
 | A Decent Reserve | 0.20% | ~59 |
 | All Your Trade Are Belong to Us | 0.20% | ~59 |
 | Bleed Them Dry | 0.20% | ~59 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,500 (Ranked 82)  
+Progressed: 29,515 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,500 | 0 |
+| 2023-05-05 | 29,515 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -390,7 +390,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | This game has Diverse Characters | 4,859 |
 | This game is Relaxing | 4,803 |
 | This game has Competitive Players | 4,636 |
-| This game has Amazing Storytelling | 4,397 |
+| This game has Amazing Storytelling | 4,404 |
 | This game has Amazing Characters | 4,073 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -504,4 +504,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
-| 2023-05-05 | 4.68 | - | 5,170 | 42,706 |
+| 2023-05-05 | 4.68 | - | 5,170 | 42,713 |

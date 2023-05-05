@@ -26,9 +26,9 @@ Diff (max vs sum): 60
 | Ghostbuster In Training | 31.00% | ~6,666 |
 | Solo Capture | 31.00% | ~6,666 |
 | Icing on the Cake | 30.00% | ~6,451 |
+| We have the best insurance | 28.00% | ~6,021 |
 | Legions | 28.00% | ~6,021 |
 | Side Hustle | 28.00% | ~6,021 |
-| We have the best insurance | 27.00% | ~5,806 |
 | Pesky Jerks | 27.00% | ~5,806 |
 | Right back at ya | 27.00% | ~5,806 |
 | Stunner | 27.00% | ~5,806 |

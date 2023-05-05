@@ -152,7 +152,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -1383,6 +1383,11 @@
       "Time": "2023-05-05T06:05:47.4600295+00:00",
       "NumProgressed": 19011,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T07:05:47.5467575+00:00",
+      "NumProgressed": 19013,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -1531,18 +1536,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T06:05:47.4600289+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:47.546757+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1298,
+  "EOS_NewPlayers": 1297,
   "EOS_Completed": 14,
-  "EOS_Progressed": 19011,
-  "LastUpdate_Achievements": "2023-05-05T06:05:47.4600673+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:59:59.0992989+00:00",
+  "EOS_Progressed": 19013,
+  "LastUpdate_Achievements": "2023-05-05T07:05:47.5467791+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:59:54.040502+00:00",
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19011,
+      "Progressed": 19013,
       "Completed": 14
     }
   ],

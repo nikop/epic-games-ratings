@@ -8,7 +8,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11517
+      "UsersEstimate": 11518
     },
     {
       "ID": "AtheistOx",
@@ -32,7 +32,7 @@
       "Name": "Chunin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8226
+      "UsersEstimate": 8227
     },
     {
       "ID": "CompleteMastery",
@@ -80,7 +80,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16453
+      "UsersEstimate": 16454
     },
     {
       "ID": "HappyLittleAccidents",
@@ -112,7 +112,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8226
+      "UsersEstimate": 8227
     },
     {
       "ID": "ItsRainingMen",
@@ -256,7 +256,7 @@
       "Name": "Stoned Ox",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8226
+      "UsersEstimate": 8227
     },
     {
       "ID": "TanukiTime",
@@ -264,7 +264,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11517
+      "UsersEstimate": 11518
     },
     {
       "ID": "TheCave",
@@ -296,7 +296,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13162
+      "UsersEstimate": 13163
     },
     {
       "ID": "TimeParadox",
@@ -352,7 +352,7 @@
       "Name": "Yabu",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8226
+      "UsersEstimate": 8227
     }
   ],
   "Tags": [
@@ -1573,6 +1573,11 @@
       "Time": "2023-05-05T06:05:31.775882+00:00",
       "NumProgressed": 164528,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T07:05:32.8314339+00:00",
+      "NumProgressed": 164536,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -2507,18 +2512,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T06:05:31.7758816+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:32.8314331+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2276,
+  "EOS_NewPlayers": 2273,
   "EOS_Completed": 41,
-  "EOS_Progressed": 164528,
-  "LastUpdate_Achievements": "2023-05-05T06:05:31.7759184+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:58:53.5277519+00:00",
+  "EOS_Progressed": 164536,
+  "LastUpdate_Achievements": "2023-05-05T07:05:32.8314694+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:53.122617+00:00",
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164528,
+      "Progressed": 164536,
       "Completed": 41
     }
   ],

@@ -4,28 +4,28 @@ Rating: 4.64 (Ranked 312)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,303 |
-| Mainframe Hacker | 49.00% | ~2,529 |
-| The Spy who eliminated me | 49.00% | ~2,529 |
-| Tomorrow Never Dyes | 47.00% | ~2,426 |
+| On Deceive Inc.'s Secret Service | 63.00% | ~3,253 |
+| Mainframe Hacker | 49.00% | ~2,530 |
+| The Spy who eliminated me | 49.00% | ~2,530 |
+| Tomorrow Never Dyes | 47.00% | ~2,427 |
 | Never Say Loser Again | 42.00% | ~2,168 |
-| From the Vault with Love | 40.00% | ~2,064 |
-| For your Eyes only | 39.00% | ~2,013 |
-| Tailor-Made | 38.00% | ~1,961 |
+| From the Vault with Love | 40.00% | ~2,065 |
+| For your Eyes only | 39.00% | ~2,014 |
+| Tailor-Made | 38.00% | ~1,962 |
 | Fully Decked Out | 37.00% | ~1,910 |
 | You Only Live Twice | 34.00% | ~1,755 |
 | A view to Win | 29.00% | ~1,497 |
-| In It to Win It | 27.00% | ~1,393 |
-| Smells Like Trouble | 27.00% | ~1,393 |
-| Private Collection | 25.00% | ~1,290 |
-| Killer Looks | 25.00% | ~1,290 |
-| Hostile Takeover | 25.00% | ~1,290 |
+| In It to Win It | 27.00% | ~1,394 |
+| Smells Like Trouble | 27.00% | ~1,394 |
+| Private Collection | 25.00% | ~1,291 |
+| Killer Looks | 25.00% | ~1,291 |
+| Hostile Takeover | 25.00% | ~1,291 |
 | Assistant Accountant | 24.00% | ~1,239 |
 | Keycards Royale | 24.00% | ~1,239 |
 | Dr. No Kill | 24.00% | ~1,239 |
 | The Living Portrait | 24.00% | ~1,239 |
 | My Motto, My Creed | 24.00% | ~1,239 |
-| Security Supervisor | 9.00% | ~464 |
+| Security Supervisor | 9.00% | ~465 |
 | License to Thrill | 8.00% | ~413 |
 | Social of Solace | 8.00% | ~413 |
 | Safe Withdrawal | 7.00% | ~361 |
@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 312)
 | Extraction Confusion | 0.30% | ~15 |
 | Spyfall | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,161 (Ranked 118)  
+Progressed: 5,163 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 5,040 | 0 |
 | 2023-05-03 | 5,111 | 0 |
 | 2023-05-04 | 5,154 | 0 |
-| 2023-05-05 | 5,161 | 0 |
+| 2023-05-05 | 5,163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -870,9 +870,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 346
     },
     {
       "ID": "objective_completed_1203",
@@ -5074,6 +5074,11 @@
       "Time": "2023-05-05T06:05:43.4955309+00:00",
       "NumProgressed": 86503,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T07:05:43.2767274+00:00",
+      "NumProgressed": 86506,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8537,24 +8542,24 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T06:05:43.4955304+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:43.2767269+00:00",
   "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 799,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86503,
-  "LastUpdate_Achievements": "2023-05-05T06:05:43.498104+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:57:57.590684+00:00",
+  "EOS_Progressed": 86506,
+  "LastUpdate_Achievements": "2023-05-05T07:05:43.2788518+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:06.5322457+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52777,
+      "Progressed": 52780,
       "Completed": 2464
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86503,
+      "Progressed": 86506,
       "Completed": 1805
     }
   ],

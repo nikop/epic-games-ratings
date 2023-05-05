@@ -1,6 +1,6 @@
 # Rogue Company
 [View Rawdata](../../db/r/rogue_company.json)  
-Rating: 4.34 (Ranked 721)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,868  (Ranked 61)  

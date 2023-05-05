@@ -38,9 +38,9 @@
       "ID": "Achievement_006",
       "SetID": "6b34g18",
       "Name": "Contingency Plans",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_007",
@@ -54,9 +54,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 573
     },
     {
       "ID": "Achievement_009",
@@ -70,9 +70,9 @@
       "ID": "Achievement_010",
       "SetID": "6b34g18",
       "Name": "Welcome to the Neighborhood",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 418
     },
     {
       "ID": "Achievement_011",
@@ -110,9 +110,9 @@
       "ID": "Achievement_015",
       "SetID": "6b34g18",
       "Name": "Blood Brother",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_016",
@@ -142,9 +142,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1015
     },
     {
       "ID": "Achievement_020",
@@ -238,9 +238,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 501
     },
     {
       "ID": "Achievement_032",
@@ -422,17 +422,17 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_058",
       "SetID": "6b34g18",
       "Name": "Enemy of My Enemy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_059",
@@ -486,9 +486,9 @@
       "ID": "Achievement_065",
       "SetID": "6b34g18",
       "Name": "Curious Finch",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_066",
@@ -919,13 +919,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 66,
-  "LastChanged_Achievements": "2023-05-05T06:05:06.5366123+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:10.1675891+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1029,
   "EOS_Completed": 0,
   "EOS_Progressed": 1194,
-  "LastUpdate_Achievements": "2023-05-05T06:05:06.5366875+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:57:43.6544922+00:00",
+  "LastUpdate_Achievements": "2023-05-05T07:05:10.167646+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:57:55.4709283+00:00",
   "AchievementSets": [
     {
       "ID": "6b34g18",
@@ -941,7 +941,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 153,
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00"

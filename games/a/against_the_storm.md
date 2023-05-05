@@ -9,12 +9,12 @@ Diff (max vs sum): 43
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Coral Forest | 0.60% | ~88 |
 | The Marshlands | 0.60% | ~88 |
 | No Deaths | 0.60% | ~88 |
 | First Real Expedition | 0.50% | ~73 |
 | Overcoming Difficulty | 0.50% | ~73 |
 | Fertile Meadows | 0.50% | ~73 |
-| Coral Forest | 0.50% | ~73 |
 | The Scarlet Orchard | 0.50% | ~73 |
 | Taking Action | 0.50% | ~73 |
 | Like a Machine | 0.50% | ~73 |
@@ -60,7 +60,7 @@ Diff (max vs sum): 43
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,641 (Ranked 97)  
+Progressed: 14,642 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-02 | 14,612 | 30 |
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
-| 2023-05-05 | 14,641 | 30 |
+| 2023-05-05 | 14,642 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,6 +1,6 @@
 # King's Bounty: Dark Side
 [View Rawdata](../../db/k/king's_bounty__dark_side.json)  
-Rating: 4.35 (Ranked 713)  
+Rating: 4.35 (Ranked 712)  
 Number of Ratings: 40  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -30,9 +30,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 5806
+      "UsersEstimate": 6021
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -2216,13 +2216,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-05T06:05:31.3608538+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:32.4745317+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 404,
   "EOS_Completed": 40,
   "EOS_Progressed": 21504,
-  "LastUpdate_Achievements": "2023-05-05T06:05:31.3609166+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:58:50.0151492+00:00",
+  "LastUpdate_Achievements": "2023-05-05T07:05:32.4745705+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:50.313923+00:00",
   "AchievementSets": [
     {
       "ID": "819popo",

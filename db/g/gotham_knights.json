@@ -54,9 +54,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 121
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -1318,6 +1318,11 @@
       "Time": "2023-05-05T06:05:46.6780773+00:00",
       "NumProgressed": 60633,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-05T07:05:46.8020612+00:00",
+      "NumProgressed": 60634,
+      "NumCompleted": 89
     }
   ],
   "RatingHistory": [
@@ -2202,24 +2207,24 @@
   ],
   "TotalAchievementsXP": 1390,
   "TotalAchievements": 61,
-  "LastChanged_Achievements": "2023-05-05T06:05:46.6780767+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:46.8020609+00:00",
   "EOS_NewCompleters": 4,
   "EOS_NewPlayers": 218,
   "EOS_Completed": 89,
-  "EOS_Progressed": 60633,
-  "LastUpdate_Achievements": "2023-05-05T06:05:46.678131+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:59:43.7229655+00:00",
+  "EOS_Progressed": 60634,
+  "LastUpdate_Achievements": "2023-05-05T07:05:46.8021097+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:59:38.7082231+00:00",
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60633,
+      "Progressed": 60634,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30913,
+      "Progressed": 30914,
       "Completed": 2628
     }
   ],

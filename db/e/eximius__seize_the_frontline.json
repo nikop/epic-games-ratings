@@ -16,7 +16,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130050
+      "UsersEstimate": 130054
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24,7 +24,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -40,7 +40,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 32970
+      "UsersEstimate": 32971
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -88,7 +88,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -128,7 +128,7 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     }
   ],
   "Tags": [],
@@ -1242,6 +1242,11 @@
       "Time": "2023-05-05T06:05:42.5630953+00:00",
       "NumProgressed": 183169,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T07:05:41.9741458+00:00",
+      "NumProgressed": 183174,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1442,18 +1447,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T06:05:42.5630945+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:41.9741454+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1252,
   "EOS_Completed": 4,
-  "EOS_Progressed": 183169,
-  "LastUpdate_Achievements": "2023-05-05T06:05:42.5631146+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:59:43.2180467+00:00",
+  "EOS_Progressed": 183174,
+  "LastUpdate_Achievements": "2023-05-05T07:05:41.9741596+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:59:37.9221516+00:00",
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183169,
+      "Progressed": 183174,
       "Completed": 4
     }
   ],

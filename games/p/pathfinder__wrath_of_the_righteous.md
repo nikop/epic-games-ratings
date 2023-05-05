@@ -126,7 +126,7 @@ Diff (max vs sum): 3
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,628 (Ranked 107)  
+Progressed: 8,629 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 8,584 | 0 |
 | 2023-05-03 | 8,607 | 0 |
 | 2023-05-04 | 8,627 | 0 |
-| 2023-05-05 | 8,628 | 0 |
+| 2023-05-05 | 8,629 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

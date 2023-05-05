@@ -50,13 +50,13 @@
 | Blueprint Upgrades | 0.50% | ~4 |
 | Crystal Mining | 0.50% | ~4 |
 | Dragon Slayer | 0.50% | ~4 |
+| Engineer Mastery | 0.50% | ~4 |
 | Legendary | 0.50% | ~4 |
 | Pokerface | 0.50% | ~4 |
 | Sailor | 0.50% | ~4 |
 | Tree of Life | 0.50% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~3 |
 | Enchanting skill | 0.40% | ~3 |
-| Engineer Mastery | 0.40% | ~3 |
 | The Alchemist | 0.40% | ~3 |
 | Transmute | 0.40% | ~3 |
 | Beast War Machines | 0.20% | ~2 |

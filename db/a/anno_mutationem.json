@@ -246,9 +246,9 @@
       "ID": "Welcome_home_06",
       "SetID": "gl7plp",
       "Name": "Welcome home, 06",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "Woman on a (side) mission",
@@ -392,13 +392,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-05T06:05:08.8770935+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:12.2376452+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 597,
-  "LastUpdate_Achievements": "2023-05-05T06:05:08.8771416+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:57:32.2710835+00:00",
+  "LastUpdate_Achievements": "2023-05-05T07:05:12.2376656+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:57:46.1151122+00:00",
   "AchievementSets": [
     {
       "ID": "gl7plp",

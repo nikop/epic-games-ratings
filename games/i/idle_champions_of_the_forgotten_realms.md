@@ -17,10 +17,10 @@ Diff (max vs sum): 25
 | The Cursed Farmer | 0.60% | ~519 |
 | Beast Intentions | 0.50% | ~433 |
 | The Mad Wizard | 0.50% | ~433 |
+| Were-verpowered | 0.40% | ~346 |
 | The Ring of Regeneration | 0.40% | ~346 |
 | The Sanctum of the Sword | 0.30% | ~158 |
 | Get Back In The Castle | 0.30% | ~158 |
-| Were-verpowered | 0.30% | ~260 |
 | A Persistent Buzzing | 0.30% | ~260 |
 | Seeking Allies | 0.30% | ~260 |
 | Are Ya Chicken? | 0.30% | ~260 |
@@ -499,7 +499,7 @@ Diff (max vs sum): 25
 | Overwhelming Force | 0.10% | ~87 |
 | Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,503 (Ranked 59)  
+Progressed: 86,506 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,503 | 1,805 |
+| 2023-05-05 | 86,506 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -31,7 +31,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 398
+      "Count": 400
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2247,6 +2247,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 6743,
       "NumberOfAwardsMax": 2346
+    },
+    {
+      "Time": "2023-05-05T07:00:17.0871442+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6745,
+      "NumberOfAwardsMax": 2346
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2255,15 +2261,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T06:04:47.2465835+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:00:29.2166459+00:00",
+  "LastUpdate_Achievements": "2023-05-05T07:04:53.733242+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:00:17.0871446+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T15:00:56.8405261+00:00",
+  "LastChanged": "2023-05-05T07:00:17.0871441+00:00",
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2346,
-  "NumberOfAwards": 6743,
+  "NumberOfAwards": 6745,
   "NumberOfRatings": 2526,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 275,

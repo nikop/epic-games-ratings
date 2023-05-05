@@ -26,8 +26,8 @@ Rating: 4.55 (Ranked 466)
 | 1+1>2 | 8.00% | ~48 |
 | So Fresh and So clean clean | 8.00% | ~48 |
 | This can't be right… | 8.00% | ~48 |
+| Welcome home, 06 | 8.00% | ~48 |
 | Supreme Bartender Ann | 7.00% | ~42 |
-| Welcome home, 06 | 7.00% | ~42 |
 | Clarity of Mind | 6.00% | ~36 |
 | I feel secure, contained & protected | 6.00% | ~36 |
 | I'm walking here! | 6.00% | ~36 |

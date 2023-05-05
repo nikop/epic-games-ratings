@@ -168,7 +168,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -192,7 +192,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -264,7 +264,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -280,7 +280,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -990,6 +990,11 @@
     {
       "Time": "2023-05-05T04:06:41.8490993+00:00",
       "NumProgressed": 2657,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T07:05:51.83829+00:00",
+      "NumProgressed": 2658,
       "NumCompleted": 1
     }
   ],
@@ -1738,18 +1743,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T06:05:52.7409101+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:51.8382895+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2657,
-  "LastUpdate_Achievements": "2023-05-05T06:05:52.7409419+00:00",
-  "LastUpdate_Ratings": "2023-05-05T06:00:12.2178772+00:00",
+  "EOS_Progressed": 2658,
+  "LastUpdate_Achievements": "2023-05-05T07:05:51.8383166+00:00",
+  "LastUpdate_Ratings": "2023-05-05T07:00:04.1082121+00:00",
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2657,
+      "Progressed": 2658,
       "Completed": 1
     }
   ],

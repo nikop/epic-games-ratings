@@ -8,7 +8,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 23430
+      "UsersEstimate": 23432
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -128,7 +128,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10224
+      "UsersEstimate": 10225
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -240,7 +240,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11502
+      "UsersEstimate": 11503
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -264,7 +264,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13632
+      "UsersEstimate": 13633
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -272,7 +272,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 17040
+      "UsersEstimate": 17041
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -296,7 +296,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 26838
+      "UsersEstimate": 26840
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -320,7 +320,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10224
+      "UsersEstimate": 10225
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -352,7 +352,7 @@
       "Name": "Manual Labour I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11076
+      "UsersEstimate": 11077
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -376,7 +376,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 32802
+      "UsersEstimate": 32804
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -472,7 +472,7 @@
       "Name": "Blast fishing",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 16188
+      "UsersEstimate": 16189
     }
   ],
   "Tags": [
@@ -1655,6 +1655,11 @@
     {
       "Time": "2023-05-05T06:05:10.9145313+00:00",
       "NumProgressed": 42600,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T07:05:14.0343409+00:00",
+      "NumProgressed": 42603,
       "NumCompleted": 2
     }
   ],
@@ -3025,18 +3030,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-05T06:05:10.9145309+00:00",
+  "LastChanged_Achievements": "2023-05-05T07:05:14.0343366+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 854,
   "EOS_Completed": 2,
-  "EOS_Progressed": 42600,
-  "LastUpdate_Achievements": "2023-05-05T06:05:10.9145989+00:00",
-  "LastUpdate_Ratings": "2023-05-05T05:58:15.9964228+00:00",
+  "EOS_Progressed": 42603,
+  "LastUpdate_Achievements": "2023-05-05T07:05:14.0343861+00:00",
+  "LastUpdate_Ratings": "2023-05-05T06:58:22.7487473+00:00",
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 42600,
+      "Progressed": 42603,
       "Completed": 2
     }
   ],

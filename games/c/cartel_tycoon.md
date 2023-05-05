@@ -1,6 +1,6 @@
 # Cartel Tycoon
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 713)  
+Rating: 4.35 (Ranked 712)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 101  (23.09.2022)
 | That was base | 38.00% | ~116 |
 | Safe Pair of Hands | 34.00% | ~104 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~88 |
-| Architect of Fortunes | 25.00% | ~76 |
+| Architect of Fortunes | 26.00% | ~79 |
 | Pampered Life | 25.00% | ~76 |
 | Bite the Blow | 16.00% | ~49 |
 | Spreading Fear | 9.00% | ~27 |

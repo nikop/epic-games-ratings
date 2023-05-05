@@ -1,6 +1,6 @@
 # Hundred Days - Winemaking Simulator
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 713)  
+Rating: 4.35 (Ranked 712)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 201  (Ranked 256)  
