@@ -55,7 +55,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 107352
+      "Count": 107459
     },
     {
       "Text": "This game is Relaxing",
@@ -4894,6 +4894,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1326848,
       "NumberOfAwardsMax": 294973
+    },
+    {
+      "Time": "2023-05-05T01:51:34.3662438+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1326955,
+      "NumberOfAwardsMax": 294973
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4902,18 +4908,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T00:00:17.1213836+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:15.4634976+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:54:06.3311541+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:34.3662445+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T22:32:41.2682926+00:00",
+  "LastChanged": "2023-05-05T01:51:34.3662436+00:00",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 294973,
-  "NumberOfAwards": 1326848,
+  "NumberOfAwards": 1326955,
   "NumberOfRatings": 219180,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 3,

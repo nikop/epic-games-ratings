@@ -37,7 +37,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 643
+      "Count": 645
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2795,6 +2795,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 6033,
       "NumberOfAwardsMax": 647
+    },
+    {
+      "Time": "2023-05-05T01:52:32.130178+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 6035,
+      "NumberOfAwardsMax": 647
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2803,18 +2809,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T00:03:52.2845892+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:04.9710037+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:57:18.313511+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:32.1301785+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T15:00:03.9477995+00:00",
+  "LastChanged": "2023-05-05T01:52:32.1301778+00:00",
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 647,
-  "NumberOfAwards": 6033,
+  "NumberOfAwards": 6035,
   "NumberOfRatings": 2871,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 112,

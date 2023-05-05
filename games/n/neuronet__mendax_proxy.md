@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 60.00% | ~3 |
-| Hello World | 40.00% | ~2 |
-| I Think, Therefore I Am | 40.00% | ~2 |
-| Job Creator | 40.00% | ~2 |
-| The Real Beginning | 40.00% | ~2 |
-| Shook Up | 20.00% | ~1 |
-| The Birds and the Bees | 20.00% | ~1 |
+| First Day of the Rest of Your Life | 50.00% | ~3 |
+| Hello World | 33.00% | ~2 |
+| I Think, Therefore I Am | 33.00% | ~2 |
+| Job Creator | 33.00% | ~2 |
+| The Real Beginning | 33.00% | ~2 |
+| Shook Up | 17.00% | ~1 |
+| The Birds and the Bees | 17.00% | ~1 |
 | A Little Eccentric | 0.00% | ~0 |
 | An Acquired Taste | 0.00% | ~0 |
 | A Real Headache | 0.00% | ~0 |
@@ -52,7 +52,7 @@
 | Wilful Ignorance | 0.00% | ~0 |
 | Zonk! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 322)  
+Progressed: 6 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 3 | 0 |
 | 2023-05-03 | 4 | 0 |
 | 2023-05-04 | 5 | 0 |
+| 2023-05-05 | 6 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

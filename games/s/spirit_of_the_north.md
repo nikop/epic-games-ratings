@@ -9,32 +9,32 @@ Diff (max vs sum): 53
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~35,202 |
-| INFUSED WITH LIGHT | 53.00% | ~27,847 |
-| FOXIN' AROUND | 28.00% | ~14,711 |
-| FETCH | 27.00% | ~14,186 |
-| BLOOMS OF LIGHT | 26.00% | ~13,661 |
-| BEST FRIENDS | 22.00% | ~11,559 |
-| AWAKEN | 21.00% | ~11,034 |
-| ERADICATE | 20.00% | ~10,508 |
-| SPIRIT BARK | 20.00% | ~10,508 |
-| GARDEN OF LIGHT | 18.00% | ~9,457 |
-| SPIRIT FORM | 15.00% | ~7,881 |
-| WRITTEN IN STONE | 15.00% | ~7,881 |
-| UPROOTING DARKNESS | 14.00% | ~7,356 |
-| WEIGHTLESS | 11.00% | ~5,780 |
-| SPIRIT DASH | 10.00% | ~5,254 |
-| OLD COMPANION | 8.00% | ~4,203 |
-| PLAGUE DOCTOR | 8.00% | ~4,203 |
-| MATCH MAKER | 7.00% | ~3,678 |
-| NORTHERN LIGHTS | 7.00% | ~3,678 |
-| SPIRITED AWAY | 7.00% | ~3,678 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,576 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~35,211 |
+| INFUSED WITH LIGHT | 53.00% | ~27,853 |
+| FOXIN' AROUND | 28.00% | ~14,715 |
+| FETCH | 27.00% | ~14,189 |
+| BLOOMS OF LIGHT | 26.00% | ~13,664 |
+| BEST FRIENDS | 22.00% | ~11,562 |
+| AWAKEN | 21.00% | ~11,036 |
+| ERADICATE | 20.00% | ~10,511 |
+| SPIRIT BARK | 20.00% | ~10,511 |
+| GARDEN OF LIGHT | 18.00% | ~9,460 |
+| SPIRIT FORM | 15.00% | ~7,883 |
+| WRITTEN IN STONE | 15.00% | ~7,883 |
+| UPROOTING DARKNESS | 14.00% | ~7,357 |
+| WEIGHTLESS | 11.00% | ~5,781 |
+| SPIRIT DASH | 10.00% | ~5,255 |
+| OLD COMPANION | 8.00% | ~4,204 |
+| PLAGUE DOCTOR | 8.00% | ~4,204 |
+| MATCH MAKER | 7.00% | ~3,679 |
+| NORTHERN LIGHTS | 7.00% | ~3,679 |
+| SPIRITED AWAY | 7.00% | ~3,679 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,577 |
 | ANCIENT HISTORY | 2.00% | ~1,051 |
 | NONE FORGOTTEN | 2.00% | ~1,051 |
 | KINDRED SPIRITS | 0.50% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,541 (Ranked 72)  
+Progressed: 52,553 (Ranked 72)  
 Completed: 238 (0.45%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 238 (0.45%) (Ranked 101)
 | 2023-05-02 | 52,311 | 237 |
 | 2023-05-03 | 52,436 | 238 |
 | 2023-05-04 | 52,535 | 238 |
-| 2023-05-05 | 52,541 | 238 |
+| 2023-05-05 | 52,553 | 238 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

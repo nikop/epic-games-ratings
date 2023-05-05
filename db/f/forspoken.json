@@ -200,7 +200,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -248,7 +248,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -296,7 +296,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -320,7 +320,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -1038,6 +1038,11 @@
       "Time": "2023-05-05T00:05:07.7086818+00:00",
       "NumProgressed": 37539,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T01:58:37.7246307+00:00",
+      "NumProgressed": 37542,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1232,25 +1237,25 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T00:05:07.7086808+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:37.7246301+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_Completed": 1,
-  "EOS_Progressed": 37539,
-  "LastUpdate_Achievements": "2023-05-05T00:05:07.7087265+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:06.6517014+00:00",
+  "EOS_Progressed": 37542,
+  "LastUpdate_Achievements": "2023-05-05T01:58:37.7246897+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:22.8199968+00:00",
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37539,
+      "Progressed": 37542,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2376,
-      "Completed": 2376
+      "Progressed": 2379,
+      "Completed": 2379
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1260,7 +1265,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 79,
   "Ranking_PopularitySum": 490,

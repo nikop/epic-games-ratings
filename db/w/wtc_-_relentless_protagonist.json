@@ -230,9 +230,9 @@
       "ID": "WTCRP_GODIRECT",
       "SetID": "94elm8b",
       "Name": "Go Direct",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WTCRP_GRENDELTD",
@@ -509,13 +509,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-05T00:05:09.9022072+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:41.2312256+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-05T00:05:09.9022519+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:13.5692653+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:58:41.2312846+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:32.1680338+00:00",
   "AchievementSets": [
     {
       "ID": "94elm8b",

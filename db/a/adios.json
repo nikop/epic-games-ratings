@@ -24,7 +24,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9168
+      "UsersEstimate": 9170
     },
     {
       "ID": "Audiophile",
@@ -40,7 +40,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11325
+      "UsersEstimate": 11328
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -48,7 +48,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9168
+      "UsersEstimate": 9170
     },
     {
       "ID": "Butcher",
@@ -56,7 +56,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "Cut Call",
@@ -64,7 +64,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "Fair\u0027sFair",
@@ -80,7 +80,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10247
+      "UsersEstimate": 10249
     },
     {
       "ID": "Hearty",
@@ -96,7 +96,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "Magnetic Miracles",
@@ -104,7 +104,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "Master, Commander",
@@ -112,7 +112,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10247
+      "UsersEstimate": 10249
     },
     {
       "ID": "Meaty",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9707
+      "UsersEstimate": 9709
     },
     {
       "ID": "Nice Try",
@@ -136,7 +136,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8629
+      "UsersEstimate": 8631
     },
     {
       "ID": "Nothing Left to Say",
@@ -152,7 +152,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5393
+      "UsersEstimate": 5394
     },
     {
       "ID": "Right On Target",
@@ -160,7 +160,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7011
+      "UsersEstimate": 7012
     },
     {
       "ID": "Sniper",
@@ -176,7 +176,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "Taco Toto",
@@ -200,7 +200,7 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     }
   ],
   "Tags": [],
@@ -1324,6 +1324,11 @@
       "Time": "2023-05-05T00:05:32.9119279+00:00",
       "NumProgressed": 53930,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-05-05T01:59:07.4604775+00:00",
+      "NumProgressed": 53941,
+      "NumCompleted": 431
     }
   ],
   "RatingHistory": [
@@ -1342,19 +1347,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-05T00:05:32.9119268+00:00",
-  "EOS_NewCompleters": 28,
-  "EOS_NewPlayers": 1589,
-  "EOS_Completed": 430,
-  "EOS_Progressed": 53930,
-  "LastUpdate_Achievements": "2023-05-05T00:05:32.9119483+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:44.4489321+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:07.4604769+00:00",
+  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 1584,
+  "EOS_Completed": 431,
+  "EOS_Progressed": 53941,
+  "LastUpdate_Achievements": "2023-05-05T01:59:07.4605067+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:53:22.6598659+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 53930,
-      "Completed": 430
+      "Progressed": 53941,
+      "Completed": 431
     }
   ],
   "EOS_Completed_Percentage": 0.8,

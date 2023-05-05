@@ -3950,7 +3950,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3926
+      "Count": 3927
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5044,6 +5044,11 @@
       "Time": "2023-05-05T00:05:19.5746395+00:00",
       "NumProgressed": 86486,
       "NumCompleted": 1804
+    },
+    {
+      "Time": "2023-05-05T01:58:52.4215767+00:00",
+      "NumProgressed": 86494,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8491,37 +8496,43 @@
       "Rating": 4.06,
       "NumberOfAwards": 29800,
       "NumberOfAwardsMax": 4863
+    },
+    {
+      "Time": "2023-05-05T01:50:50.5907471+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29801,
+      "NumberOfAwardsMax": 4863
     }
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T00:05:19.5746389+00:00",
-  "EOS_NewCompleters": 22,
+  "LastChanged_Achievements": "2023-05-05T01:58:52.4215762+00:00",
+  "EOS_NewCompleters": 23,
   "EOS_NewPlayers": 809,
-  "EOS_Completed": 1804,
-  "EOS_Progressed": 86486,
-  "LastUpdate_Achievements": "2023-05-05T00:05:19.5767896+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:41.6748064+00:00",
+  "EOS_Completed": 1805,
+  "EOS_Progressed": 86494,
+  "LastUpdate_Achievements": "2023-05-05T01:58:52.4243488+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:50:50.5907478+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52760,
-      "Completed": 2462
+      "Progressed": 52768,
+      "Completed": 2463
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86486,
-      "Completed": 1804
+      "Progressed": 86494,
+      "Completed": 1805
     }
   ],
   "EOS_Completed_Percentage": 2.09,
-  "LastChanged": "2023-05-04T22:17:21.8017599+00:00",
+  "LastChanged": "2023-05-05T01:50:50.5907468+00:00",
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 4863,
-  "NumberOfAwards": 29800,
+  "NumberOfAwards": 29801,
   "NumberOfRatings": 9041,
   "Ranking_EOS_NewCompleters": 10,
   "Ranking_EOS_NewPlayers": 59,

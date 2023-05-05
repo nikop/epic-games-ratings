@@ -8,7 +8,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 3989
+      "UsersEstimate": 3990
     },
     {
       "ID": "ACH02",
@@ -32,7 +32,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH05",
@@ -128,7 +128,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ACH17",
@@ -144,7 +144,7 @@
       "Name": "Not So Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH19",
@@ -651,6 +651,11 @@
       "Time": "2023-05-04T19:02:11.4033318+00:00",
       "NumProgressed": 4806,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T01:58:19.2899378+00:00",
+      "NumProgressed": 4807,
+      "NumCompleted": 25
     }
   ],
   "RatingHistory": [
@@ -855,18 +860,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T00:04:52.289442+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:19.2899369+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 70,
   "EOS_Completed": 25,
-  "EOS_Progressed": 4806,
-  "LastUpdate_Achievements": "2023-05-05T00:04:52.2894645+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:35.8185381+00:00",
+  "EOS_Progressed": 4807,
+  "LastUpdate_Achievements": "2023-05-05T01:58:19.2899661+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:50:42.8008578+00:00",
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4806,
+      "Progressed": 4807,
       "Completed": 25
     }
   ],
@@ -876,7 +881,7 @@
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_Progress": 122,

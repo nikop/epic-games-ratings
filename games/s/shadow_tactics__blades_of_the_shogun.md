@@ -9,32 +9,32 @@ Diff (max vs sum): 48
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,446 |
-| Thorough | 8.00% | ~13,157 |
-| A thief's beginning | 7.00% | ~11,512 |
-| Tanuki Time | 7.00% | ~11,512 |
-| Disguised | 6.00% | ~9,868 |
-| Jonin | 6.00% | ~9,868 |
-| Rescue Takuma | 6.00% | ~9,868 |
-| Rollin' | 6.00% | ~9,868 |
-| Chunin | 5.00% | ~8,223 |
-| Ice Ice Yuki | 5.00% | ~8,223 |
-| Stoned Ox | 5.00% | ~8,223 |
-| Yabu | 5.00% | ~8,223 |
-| Flying Rocks | 4.00% | ~6,578 |
-| Happy Planning | 4.00% | ~6,578 |
-| Mugen Unchained | 4.00% | ~6,578 |
-| Okkoto | 4.00% | ~6,578 |
-| Warzone | 4.00% | ~6,578 |
+| Genin | 10.00% | ~16,448 |
+| Thorough | 8.00% | ~13,158 |
+| A thief's beginning | 7.00% | ~11,513 |
+| Tanuki Time | 7.00% | ~11,513 |
+| Disguised | 6.00% | ~9,869 |
+| Jonin | 6.00% | ~9,869 |
+| Rescue Takuma | 6.00% | ~9,869 |
+| Rollin' | 6.00% | ~9,869 |
+| Chunin | 5.00% | ~8,224 |
+| Ice Ice Yuki | 5.00% | ~8,224 |
+| Stoned Ox | 5.00% | ~8,224 |
+| Yabu | 5.00% | ~8,224 |
+| Flying Rocks | 4.00% | ~6,579 |
+| Happy Planning | 4.00% | ~6,579 |
+| Mugen Unchained | 4.00% | ~6,579 |
+| Okkoto | 4.00% | ~6,579 |
+| Warzone | 4.00% | ~6,579 |
 | Gear up | 3.00% | ~4,934 |
 | Happy little accidents | 3.00% | ~4,934 |
 | Noboru | 3.00% | ~4,934 |
 | Prisoners | 3.00% | ~4,934 |
 | Still Rollin' | 3.00% | ~4,934 |
 | Too Early | 3.00% | ~4,934 |
-| It's raining men | 2.00% | ~3,289 |
-| Stoned | 2.00% | ~3,289 |
-| The Old Way | 2.00% | ~3,289 |
+| It's raining men | 2.00% | ~3,290 |
+| Stoned | 2.00% | ~3,290 |
+| The Old Way | 2.00% | ~3,290 |
 | Atheist Ox | 1.00% | ~1,645 |
 | Meticulous | 1.00% | ~1,645 |
 | No Gimmicks | 1.00% | ~1,645 |
@@ -54,7 +54,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~164 |
 | Release the Kraken | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,460 (Ranked 50)  
+Progressed: 164,477 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,460 | 41 |
+| 2023-05-05 | 164,477 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

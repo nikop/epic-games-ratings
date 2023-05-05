@@ -15,7 +15,7 @@ Rating: 4.85 (Ranked 37)
 | Alright, that felt AWESOME! | 69.00% | ~1,007 |
 | I play my own way! | 64.00% | ~934 |
 | This will cost you big time | 62.00% | ~905 |
-| Uh, they were broken when I got here | 61.00% | ~891 |
+| Uh, they were broken when I got here | 62.00% | ~905 |
 | Z-shielding's got nothing on us! | 60.00% | ~876 |
 | Kissing the sky! | 58.00% | ~847 |
 | Whoa! There's ANOTHER health bar!? | 54.00% | ~788 |

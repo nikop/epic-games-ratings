@@ -64,7 +64,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "EXPERT_1",
@@ -264,7 +264,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "VVE",
@@ -280,7 +280,7 @@
       "Name": "Wanderer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "WISHMASTER_1",
@@ -418,6 +418,11 @@
     {
       "Time": "2023-05-02T16:05:01.5646074+00:00",
       "NumProgressed": 759,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:59:03.9450768+00:00",
+      "NumProgressed": 760,
       "NumCompleted": 0
     }
   ],
@@ -726,18 +731,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-05T00:05:29.8920621+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:03.9450761+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 17,
   "EOS_Completed": 0,
-  "EOS_Progressed": 759,
-  "LastUpdate_Achievements": "2023-05-05T00:05:29.8921086+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:29.7871767+00:00",
+  "EOS_Progressed": 760,
+  "LastUpdate_Achievements": "2023-05-05T01:59:03.9451085+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:53:03.981152+00:00",
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 760,
       "Completed": 0
     }
   ],

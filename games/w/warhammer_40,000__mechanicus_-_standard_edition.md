@@ -8,25 +8,25 @@ Diff (max vs sum): 45
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,131 |
-| This is only the beginning | 19.00% | ~39,619 |
-| Knowledge is power | 12.00% | ~25,023 |
-| Power Ranger | 9.00% | ~18,767 |
-| Galvanic Rifle | 9.00% | ~18,767 |
-| Taser Goad | 9.00% | ~18,767 |
-| Radium Ready | 9.00% | ~18,767 |
-| Half a cog | 9.00% | ~18,767 |
-| Watch them crumble | 6.00% | ~12,511 |
+| No aid from the Omnissiah | 25.00% | ~52,133 |
+| This is only the beginning | 19.00% | ~39,621 |
+| Knowledge is power | 12.00% | ~25,024 |
+| Power Ranger | 9.00% | ~18,768 |
+| Galvanic Rifle | 9.00% | ~18,768 |
+| Taser Goad | 9.00% | ~18,768 |
+| Radium Ready | 9.00% | ~18,768 |
+| Half a cog | 9.00% | ~18,768 |
+| Watch them crumble | 6.00% | ~12,512 |
 | Competent Cohort | 4.00% | ~8,341 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,341 |
 | One with the Machine | 4.00% | ~8,341 |
 | Legio Cybernetica | 3.00% | ~6,256 |
 | Fleshy Disposal | 3.00% | ~6,256 |
-| Battle Servitor | 2.00% | ~4,170 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,170 |
-| Impatient destruction | 2.00% | ~4,170 |
-| Vivisected Vizier | 2.00% | ~4,170 |
-| Architect Abortion | 2.00% | ~4,170 |
+| Battle Servitor | 2.00% | ~4,171 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,171 |
+| Impatient destruction | 2.00% | ~4,171 |
+| Vivisected Vizier | 2.00% | ~4,171 |
+| Architect Abortion | 2.00% | ~4,171 |
 | Cohortus Maximus | 0.70% | ~1,460 |
 | Mother of Xenarites | 0.40% | ~834 |
 | False God | 0.30% | ~626 |
@@ -43,7 +43,7 @@ Diff (max vs sum): 45
 | Perma-live | 0.10% | ~209 |
 | Purge the Heretek | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,523 (Ranked 47)  
+Progressed: 208,531 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 208,286 | 2 |
 | 2023-05-03 | 208,404 | 2 |
 | 2023-05-04 | 208,520 | 2 |
-| 2023-05-05 | 208,523 | 2 |
+| 2023-05-05 | 208,531 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

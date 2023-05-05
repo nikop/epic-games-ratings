@@ -9,11 +9,11 @@ Diff (max vs sum): -39
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~751 |
-| Wanderer | 36.00% | ~273 |
+| Atom Agent | 99.00% | ~752 |
+| Wanderer | 36.00% | ~274 |
 | One HIT wonder | 34.00% | ~258 |
 | One shot, one kill | 30.00% | ~228 |
-| Traveler | 26.00% | ~197 |
+| Traveler | 26.00% | ~198 |
 | Head Burst | 20.00% | ~152 |
 | Explorer | 19.00% | ~144 |
 | Grave Robber | 18.00% | ~137 |
@@ -46,7 +46,7 @@ Diff (max vs sum): -39
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759 (Ranked 168)  
+Progressed: 760 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-30 | 754 | 0 |
 | 2023-05-01 | 757 | 0 |
 | 2023-05-02 | 759 | 0 |
+| 2023-05-05 | 760 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

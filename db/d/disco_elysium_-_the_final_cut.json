@@ -40,7 +40,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21230
+      "UsersEstimate": 21231
     },
     {
       "ID": "ACH_COP_BAD",
@@ -64,7 +64,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28307
+      "UsersEstimate": 28308
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -80,7 +80,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -88,7 +88,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33025
+      "UsersEstimate": 33026
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -120,7 +120,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23589
+      "UsersEstimate": 23590
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -136,7 +136,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15333
+      "UsersEstimate": 15334
     },
     {
       "ID": "ACH_COP_STAR",
@@ -168,7 +168,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10615
+      "UsersEstimate": 10616
     },
     {
       "ID": "ACH_GLUTEN",
@@ -200,7 +200,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -288,7 +288,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15333
+      "UsersEstimate": 15334
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -1373,6 +1373,11 @@
       "Time": "2023-05-04T22:06:36.4910617+00:00",
       "NumProgressed": 117947,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T01:58:43.6398881+00:00",
+      "NumProgressed": 117950,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2341,18 +2346,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T00:05:12.4305189+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:43.6398873+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 364,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117947,
-  "LastUpdate_Achievements": "2023-05-05T00:05:12.4305542+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:29.7668374+00:00",
+  "EOS_Progressed": 117950,
+  "LastUpdate_Achievements": "2023-05-05T01:58:43.6399312+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:51.2742092+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117947,
+      "Progressed": 117950,
       "Completed": 24
     }
   ],
@@ -2364,7 +2369,7 @@
   "NumberOfAwards": 1043,
   "NumberOfRatings": 1611,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 55,
   "Ranking_PopularitySum": 226,

@@ -8,15 +8,15 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "ACH02",
       "SetID": "4ck5mbe",
       "Name": "With Extra Dip",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH03",
@@ -56,7 +56,7 @@
       "Name": "The American Dream",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ACH08",
@@ -88,7 +88,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH12",
@@ -899,6 +899,11 @@
       "Time": "2023-05-04T22:39:48.54014+00:00",
       "NumProgressed": 7478,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-05T01:59:04.9216247+00:00",
+      "NumProgressed": 7479,
+      "NumCompleted": 15
     }
   ],
   "RatingHistory": [
@@ -1155,18 +1160,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T00:05:30.7537783+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:04.9216242+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_Completed": 15,
-  "EOS_Progressed": 7478,
-  "LastUpdate_Achievements": "2023-05-05T00:05:30.7538104+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:32.2419066+00:00",
+  "EOS_Progressed": 7479,
+  "LastUpdate_Achievements": "2023-05-05T01:59:04.9216598+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:53:07.1331884+00:00",
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7478,
+      "Progressed": 7479,
       "Completed": 15
     }
   ],

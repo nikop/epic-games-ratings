@@ -30,9 +30,9 @@
       "ID": "Area3",
       "SetID": "5lok9mm",
       "Name": "Banking District",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1711
     },
     {
       "ID": "Area4",
@@ -834,13 +834,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T00:05:29.7690696+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:03.951981+00:00",
   "EOS_NewCompleters": 2,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 238,
   "EOS_Progressed": 1989,
-  "LastUpdate_Achievements": "2023-05-05T00:05:29.7691173+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:25.7406585+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:59:03.952034+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:58.6949371+00:00",
   "AchievementSets": [
     {
       "ID": "5lok9mm",
@@ -857,7 +857,7 @@
   "NumberOfAwards": 97,
   "NumberOfRatings": 209,
   "Ranking_EOS_NewCompleters": 41,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_Progress": 140,
   "Ranking_PopularitySum": 397,

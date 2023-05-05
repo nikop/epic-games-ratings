@@ -32,7 +32,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48486
+      "UsersEstimate": 48487
     },
     {
       "ID": "blotbuster",
@@ -64,7 +64,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41213
+      "UsersEstimate": 41214
     },
     {
       "ID": "cantBeKeptDown",
@@ -80,7 +80,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36364
+      "UsersEstimate": 36365
     },
     {
       "ID": "clearCut",
@@ -104,7 +104,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43637
+      "UsersEstimate": 43638
     },
     {
       "ID": "curator",
@@ -112,7 +112,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48486
+      "UsersEstimate": 48487
     },
     {
       "ID": "didYourTime",
@@ -184,7 +184,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 128487
+      "UsersEstimate": 128489
     },
     {
       "ID": "indegestible",
@@ -208,7 +208,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63032
+      "UsersEstimate": 63033
     },
     {
       "ID": "justABit",
@@ -224,7 +224,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19394
+      "UsersEstimate": 19395
     },
     {
       "ID": "lockupLockdown",
@@ -240,7 +240,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 33940
+      "UsersEstimate": 33941
     },
     {
       "ID": "myFirstRunbow",
@@ -248,7 +248,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 123639
+      "UsersEstimate": 123641
     },
     {
       "ID": "notScared",
@@ -312,7 +312,7 @@
       "Name": "The Stunner",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48486
+      "UsersEstimate": 48487
     },
     {
       "ID": "thunderstruck",
@@ -1327,6 +1327,11 @@
       "Time": "2023-05-05T00:05:13.9526547+00:00",
       "NumProgressed": 242429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T01:58:45.4183562+00:00",
+      "NumProgressed": 242433,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1487,18 +1492,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T00:05:13.9526544+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:45.4183556+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 462,
   "EOS_Completed": 1,
-  "EOS_Progressed": 242429,
-  "LastUpdate_Achievements": "2023-05-05T00:05:13.9526932+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:36.4490711+00:00",
+  "EOS_Progressed": 242433,
+  "LastUpdate_Achievements": "2023-05-05T01:58:45.4184008+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:59.1469917+00:00",
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242429,
+      "Progressed": 242433,
       "Completed": 1
     }
   ],

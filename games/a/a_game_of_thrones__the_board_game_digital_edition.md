@@ -9,8 +9,8 @@ Diff (max vs sum): 51
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~4,408 |
-| Battering Crew | 21.00% | ~2,314 |
+| Conqueror | 40.00% | ~4,409 |
+| Battering Crew | 21.00% | ~2,315 |
 | The Kingsroad | 19.00% | ~2,094 |
 | Well Stocked | 15.00% | ~1,653 |
 | Royal Fleet | 14.00% | ~1,543 |
@@ -21,9 +21,9 @@ Diff (max vs sum): 51
 | Winter is Coming | 8.00% | ~882 |
 | Oathkeeper | 8.00% | ~882 |
 | Influential | 8.00% | ~882 |
-| Ours is the Fury | 7.00% | ~771 |
-| We Do Not Sow | 7.00% | ~771 |
-| Defender of the Wall | 7.00% | ~771 |
+| Ours is the Fury | 7.00% | ~772 |
+| We Do Not Sow | 7.00% | ~772 |
+| Defender of the Wall | 7.00% | ~772 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~661 |
 | Growing Strong | 6.00% | ~661 |
 | Hear me Roar! | 6.00% | ~661 |
@@ -32,7 +32,7 @@ Diff (max vs sum): 51
 | King in the North | 2.00% | ~220 |
 | War of the Five Kings | 1.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,019 (Ranked 102)  
+Progressed: 11,023 (Ranked 102)  
 Completed: 23 (0.21%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 23 (0.21%) (Ranked 129)
 | 2023-05-02 | 10,803 | 22 |
 | 2023-05-03 | 10,920 | 23 |
 | 2023-05-04 | 11,017 | 23 |
-| 2023-05-05 | 11,019 | 23 |
+| 2023-05-05 | 11,023 | 23 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

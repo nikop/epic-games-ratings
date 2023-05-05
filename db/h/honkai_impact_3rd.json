@@ -79,7 +79,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 371
+      "Count": 373
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1857,6 +1857,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 7686,
       "NumberOfAwardsMax": 2286
+    },
+    {
+      "Time": "2023-05-05T01:51:10.8301677+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7688,
+      "NumberOfAwardsMax": 2286
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1865,21 +1871,21 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T23:59:58.4187853+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:57.5319683+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:53:43.3173266+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:10.8301682+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T19:12:57.8801439+00:00",
+  "LastChanged": "2023-05-05T01:51:10.8301675+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2286,
-  "NumberOfAwards": 7686,
+  "NumberOfAwards": 7688,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
-  "Ranking_PopularitySum": 95,
+  "Ranking_PopularitySum": 94,
   "Ranking_Popularity": 94,
   "Ranking_Rating": 530,
   "Rating": 4.5

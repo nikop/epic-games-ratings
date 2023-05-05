@@ -190,9 +190,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 121
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -1298,6 +1298,11 @@
       "Time": "2023-05-05T00:05:24.2935594+00:00",
       "NumProgressed": 60628,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-05T01:58:57.4408104+00:00",
+      "NumProgressed": 60629,
+      "NumCompleted": 89
     }
   ],
   "RatingHistory": [
@@ -2182,24 +2187,24 @@
   ],
   "TotalAchievementsXP": 1390,
   "TotalAchievements": 61,
-  "LastChanged_Achievements": "2023-05-05T00:05:24.2935588+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:57.4408099+00:00",
   "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_Completed": 89,
-  "EOS_Progressed": 60628,
-  "LastUpdate_Achievements": "2023-05-05T00:05:24.2936207+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:08.0836699+00:00",
+  "EOS_Progressed": 60629,
+  "LastUpdate_Achievements": "2023-05-05T01:58:57.4408859+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:36.324167+00:00",
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60628,
+      "Progressed": 60629,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30908,
+      "Progressed": 30909,
       "Completed": 2628
     }
   ],

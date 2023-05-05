@@ -7,12 +7,12 @@
 | Top notch! | 83.00% | ~5 |
 | Slay it! | 67.00% | ~4 |
 | Lives lost | 67.00% | ~4 |
+| Bling bling! | 67.00% | ~4 |
 | Still alive! | 50.00% | ~3 |
 | Getting somewhere | 50.00% | ~3 |
-| Bling bling! | 50.00% | ~3 |
+| Slaughter | 50.00% | ~3 |
 | Poor things... | 33.00% | ~2 |
 | Endurance test! | 33.00% | ~2 |
-| Slaughter | 33.00% | ~2 |
 | Massive slaughter | 33.00% | ~2 |
 | Slay that one too! | 17.00% | ~1 |
 | ... And that one! | 17.00% | ~1 |

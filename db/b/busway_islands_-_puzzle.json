@@ -436,13 +436,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T00:05:00.1833097+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:28.9646015+00:00",
   "EOS_NewCompleters": 6,
   "EOS_NewPlayers": 22,
   "EOS_Completed": 6,
   "EOS_Progressed": 25,
-  "LastUpdate_Achievements": "2023-05-05T00:05:00.1833347+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:22.2078059+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:58:28.9646294+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:50:25.7965313+00:00",
   "AchievementSets": [
     {
       "ID": "dlpjnee",
@@ -457,8 +457,8 @@
   "FirstSeen": "2023-04-30T05:57:09.5836606+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 30,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_Progress": 286,
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00"

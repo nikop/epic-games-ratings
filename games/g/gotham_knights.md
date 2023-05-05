@@ -15,6 +15,7 @@ Diff (max vs sum): -40
 | The Show Mud Go On | 0.20% | ~121 |
 | Rock and a Hard Place | 0.20% | ~121 |
 | Bulldozed | 0.20% | ~121 |
+| Out of Their League | 0.20% | ~121 |
 | Shock Til They Drop | 0.20% | ~121 |
 | Drone You Out | 0.20% | ~121 |
 | To the Victor Go the Spoils | 0.20% | ~121 |
@@ -52,7 +53,6 @@ Diff (max vs sum): -40
 | Expert Crime Fighter | 0.10% | ~61 |
 | Not On My Watch | 0.10% | ~61 |
 | Talonted | 0.10% | ~61 |
-| Out of Their League | 0.10% | ~61 |
 | The Man-Bat Family | 0.10% | ~61 |
 | Family Meeting | 0.10% | ~61 |
 | Icebreaker | 0.10% | ~31 |
@@ -70,7 +70,7 @@ Diff (max vs sum): -40
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,628 (Ranked 66)  
+Progressed: 60,629 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 89 (0.15%) (Ranked 138)
 | 2023-05-02 | 60,584 | 89 |
 | 2023-05-03 | 60,606 | 89 |
 | 2023-05-04 | 60,626 | 89 |
-| 2023-05-05 | 60,628 | 89 |
+| 2023-05-05 | 60,629 | 89 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

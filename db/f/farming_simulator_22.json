@@ -318,9 +318,9 @@
       "ID": "TruckDriving",
       "SetID": "636ci4d",
       "Name": "Long haul",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6273
+      "UsersEstimate": 6691
     },
     {
       "ID": "VehicleRepaint",
@@ -5388,13 +5388,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 43,
-  "LastChanged_Achievements": "2023-05-05T00:05:20.8782076+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:53.5769799+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 363,
   "EOS_Completed": 5,
   "EOS_Progressed": 41821,
-  "LastUpdate_Achievements": "2023-05-05T00:05:20.8782776+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:03.4265581+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:58:53.5770267+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:30.0531179+00:00",
   "AchievementSets": [
     {
       "ID": "636ci4d",
@@ -5411,7 +5411,7 @@
   "NumberOfAwards": 36153,
   "NumberOfRatings": 7683,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_Progress": 77,
   "Ranking_PopularitySum": 30,

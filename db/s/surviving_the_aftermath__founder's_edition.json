@@ -8,7 +8,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "10",
@@ -40,7 +40,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "14",
@@ -104,7 +104,7 @@
       "Name": "Famous Healer",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "21",
@@ -256,7 +256,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "39",
@@ -328,7 +328,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "47",
@@ -368,7 +368,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "51",
@@ -456,7 +456,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "8",
@@ -1447,6 +1447,11 @@
       "Time": "2023-05-04T22:06:55.5746516+00:00",
       "NumProgressed": 4882,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:59:00.4090655+00:00",
+      "NumProgressed": 4883,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -2341,18 +2346,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-05T00:05:26.9503687+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:00.409065+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 313,
   "EOS_Completed": 0,
-  "EOS_Progressed": 4882,
-  "LastUpdate_Achievements": "2023-05-05T00:05:26.9504331+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:16.9476657+00:00",
+  "EOS_Progressed": 4883,
+  "LastUpdate_Achievements": "2023-05-05T01:59:00.4091414+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:47.519189+00:00",
   "AchievementSets": [
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 4882,
+      "Progressed": 4883,
       "Completed": 0
     }
   ],
@@ -2364,7 +2369,7 @@
   "NumberOfAwards": 651,
   "NumberOfRatings": 836,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 121,
   "Ranking_PopularitySum": 267,

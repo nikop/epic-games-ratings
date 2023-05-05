@@ -10,23 +10,23 @@ Diff (max vs sum): 54
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 69.00% | ~3,369 |
-| Leader | 60.00% | ~2,929 |
-| Explorer | 53.00% | ~2,587 |
+| Leader | 60.00% | ~2,930 |
+| Explorer | 53.00% | ~2,588 |
 | Healer | 52.00% | ~2,539 |
-| Aspiring Inventor | 44.00% | ~2,148 |
+| Aspiring Inventor | 44.00% | ~2,149 |
 | Adventurer | 41.00% | ~2,002 |
-| Famous Healer | 37.00% | ~1,806 |
+| Famous Healer | 37.00% | ~1,807 |
 | Local Leader | 35.00% | ~1,709 |
 | New Opportunities | 34.00% | ~1,660 |
 | Famous Explorer | 33.00% | ~1,611 |
 | Energized | 33.00% | ~1,611 |
 | The Long Haul | 33.00% | ~1,611 |
-| Survivor | 31.00% | ~1,513 |
+| Survivor | 31.00% | ~1,514 |
 | The Great Healer | 30.00% | ~1,465 |
 | Catastrofan | 28.00% | ~1,367 |
 | Legendary Explorer | 27.00% | ~1,318 |
 | Cleaner | 27.00% | ~1,318 |
-| Finders, Keepers | 25.00% | ~1,220 |
+| Finders, Keepers | 25.00% | ~1,221 |
 | Top Notch | 24.00% | ~1,172 |
 | Great Leader | 22.00% | ~1,074 |
 | Ice Lakes | 22.00% | ~1,074 |
@@ -39,7 +39,7 @@ Diff (max vs sum): 54
 | Big Game Hunter | 16.00% | ~781 |
 | Around the World | 15.00% | ~732 |
 | Spreading Influence | 15.00% | ~732 |
-| Bookworm | 14.00% | ~683 |
+| Bookworm | 14.00% | ~684 |
 | Famous Adventurer | 13.00% | ~635 |
 | Prepared for Anything | 12.00% | ~586 |
 | Big Catastrofan | 12.00% | ~586 |
@@ -69,7 +69,7 @@ Diff (max vs sum): 54
 | Choo-choo! | 0.10% | ~5 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,882 (Ranked 121)  
+Progressed: 4,883 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
 | 2023-05-04 | 4,882 | 0 |
+| 2023-05-05 | 4,883 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

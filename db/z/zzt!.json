@@ -8,7 +8,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "2",
@@ -674,6 +674,11 @@
       "Time": "2023-05-05T00:05:04.7937994+00:00",
       "NumProgressed": 2279,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-05T01:58:34.1820135+00:00",
+      "NumProgressed": 2280,
+      "NumCompleted": 59
     }
   ],
   "RatingHistory": [
@@ -686,18 +691,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-05T00:05:04.7937988+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:34.1820129+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_Completed": 59,
-  "EOS_Progressed": 2279,
-  "LastUpdate_Achievements": "2023-05-05T00:05:04.7938091+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:55.8216767+00:00",
+  "EOS_Progressed": 2280,
+  "LastUpdate_Achievements": "2023-05-05T01:58:34.1820279+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:08.7219405+00:00",
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2279,
+      "Progressed": 2280,
       "Completed": 59
     }
   ],

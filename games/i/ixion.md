@@ -9,6 +9,7 @@ Rating: 4.54 (Ranked 475)
 | Wakey Wakey | 0.20% | ~4 |
 | A Thousand Strong | 0.20% | ~4 |
 | Exceeding Capacity | 0.20% | ~4 |
+| Power Outage | 0.20% | ~4 |
 | Convenient Transport | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
 | Mutual Loyalty | 0.10% | ~2 |
@@ -21,7 +22,6 @@ Rating: 4.54 (Ranked 475)
 | Sputnik 2049 | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
 | A Hunk of Junk | 0.10% | ~2 |
-| Power Outage | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
 | Fully Recycled | 0.10% | ~2 |
 | Ready for a New World | 0.10% | ~2 |
@@ -62,7 +62,7 @@ Rating: 4.54 (Ranked 475)
 | I Give You the Stars | 0.00% | ~0 |
 | What the Ruins Teach Us | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,827 (Ranked 145)  
+Progressed: 1,828 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 1,820 | 0 |
 | 2023-05-03 | 1,825 | 0 |
 | 2023-05-04 | 1,827 | 0 |
+| 2023-05-05 | 1,828 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

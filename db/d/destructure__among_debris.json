@@ -6,7 +6,7 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -78,7 +78,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -96,7 +96,7 @@
       "Name": "Graduation",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -174,7 +174,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -397,6 +397,11 @@
       "Time": "2023-05-05T00:05:25.477489+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:58.7205257+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -409,18 +414,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-05T00:05:25.4774887+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:58.720525+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_Completed": 0,
-  "EOS_Progressed": 37,
-  "LastUpdate_Achievements": "2023-05-05T00:05:25.4775087+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:19.9517586+00:00",
+  "EOS_Progressed": 38,
+  "LastUpdate_Achievements": "2023-05-05T01:58:58.7205527+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:51.2532829+00:00",
   "AchievementSets": [
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
@@ -431,7 +436,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 279,
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00"

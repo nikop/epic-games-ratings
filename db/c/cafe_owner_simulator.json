@@ -16,7 +16,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "CHIEF",
@@ -32,7 +32,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "DEBTOR",
@@ -46,9 +46,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "FIRST_100K",
@@ -72,7 +72,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "INTRODUCTION",
@@ -221,6 +221,11 @@
       "Time": "2023-05-04T17:04:50.4788574+00:00",
       "NumProgressed": 236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:49.3964128+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -233,18 +238,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T00:05:17.41074+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:49.3964123+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_Completed": 0,
-  "EOS_Progressed": 236,
-  "LastUpdate_Achievements": "2023-05-05T00:05:17.4107478+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:53.3825856+00:00",
+  "EOS_Progressed": 237,
+  "LastUpdate_Achievements": "2023-05-05T01:58:49.3964228+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:18.6178524+00:00",
   "AchievementSets": [
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 0
     }
   ],

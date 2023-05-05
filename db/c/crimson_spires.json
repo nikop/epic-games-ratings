@@ -126,13 +126,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T00:04:41.9231947+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:07.484057+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T00:04:41.9232081+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:07.7869619+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:58:07.4840693+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:50:09.9307282+00:00",
   "AchievementSets": [
     {
       "ID": "5akl69",
@@ -143,7 +143,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T20:45:22.8919686+00:00"

@@ -14,7 +14,7 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -62,7 +62,7 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -118,7 +118,7 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -142,7 +142,7 @@
       "ID": "JOB_CREATOR",
       "SetID": "2d85n75",
       "Name": "Job Creator",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -174,7 +174,7 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -238,7 +238,7 @@
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -310,7 +310,7 @@
       "ID": "THE_BIRDS_AND_THE_BEES",
       "SetID": "2d85n75",
       "Name": "The Birds and the Bees",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -413,6 +413,11 @@
       "Time": "2023-05-04T18:05:01.5973348+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:53.6371654+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -425,18 +430,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T00:05:21.0003096+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:53.6371647+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_Completed": 0,
-  "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-05T00:05:21.0003523+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:05.9681336+00:00",
+  "EOS_Progressed": 6,
+  "LastUpdate_Achievements": "2023-05-05T01:58:53.6372118+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:33.4791546+00:00",
   "AchievementSets": [
     {
       "ID": "2d85n75",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
@@ -447,8 +452,8 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 314,
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00"
 }

@@ -8,7 +8,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10859
+      "UsersEstimate": 10862
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -32,7 +32,7 @@
       "Name": "Danger Ahead",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -40,7 +40,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -64,7 +64,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7287
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -88,7 +88,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "ACH_THE_FALL",
@@ -112,7 +112,7 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     }
   ],
   "Tags": [],
@@ -966,6 +966,11 @@
       "Time": "2023-05-05T00:05:32.0397622+00:00",
       "NumProgressed": 13746,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-05T01:59:06.4073152+00:00",
+      "NumProgressed": 13749,
+      "NumCompleted": 42
     }
   ],
   "RatingHistory": [
@@ -1081,18 +1086,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T00:05:32.0397613+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:06.4073146+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_Completed": 42,
-  "EOS_Progressed": 13746,
-  "LastUpdate_Achievements": "2023-05-05T00:05:32.0397791+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:40.6992994+00:00",
+  "EOS_Progressed": 13749,
+  "LastUpdate_Achievements": "2023-05-05T01:59:06.4073348+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:53:17.9007666+00:00",
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13746,
+      "Progressed": 13749,
       "Completed": 42
     }
   ],
@@ -1103,7 +1108,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 34,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_Progress": 98,
   "Ranking_PopularitySum": 490,

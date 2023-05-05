@@ -30,9 +30,9 @@
       "ID": "ach_daily_challenge_15",
       "SetID": "cmg602e",
       "Name": "15 Days",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_daily_challenge_30",
@@ -150,9 +150,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -278,9 +278,9 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_sextaKill",
@@ -423,13 +423,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T00:04:43.8263944+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:09.5987653+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 10,
   "EOS_Completed": 0,
   "EOS_Progressed": 11,
-  "LastUpdate_Achievements": "2023-05-05T00:04:43.8264245+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:52.6297341+00:00",
+  "LastUpdate_Achievements": "2023-05-05T01:58:09.5988015+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:51:04.8444756+00:00",
   "AchievementSets": [
     {
       "ID": "cmg602e",

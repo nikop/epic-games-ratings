@@ -9,28 +9,28 @@ Diff (max vs sum): 55
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,097 |
-| Incurious | 13.00% | ~76,097 |
-| Climate Change | 12.00% | ~70,244 |
-| Stroller | 11.00% | ~64,390 |
-| Toy Train | 10.00% | ~58,536 |
-| Hiker | 9.00% | ~52,683 |
-| Advanced Hiker | 9.00% | ~52,683 |
-| Mojave Courier | 4.00% | ~23,415 |
-| Voyager | 2.00% | ~11,707 |
-| Advanced Voyager | 2.00% | ~11,707 |
-| Expert Stroller | 2.00% | ~11,707 |
-| Expert Hiker | 2.00% | ~11,707 |
-| Orient Express | 2.00% | ~11,707 |
-| Marathon | 2.00% | ~11,707 |
-| Destructionist | 2.00% | ~11,707 |
-| Saved by Nausicaä | 2.00% | ~11,707 |
+| Advanced Stroller | 13.00% | ~76,101 |
+| Incurious | 13.00% | ~76,101 |
+| Climate Change | 12.00% | ~70,247 |
+| Stroller | 11.00% | ~64,393 |
+| Toy Train | 10.00% | ~58,539 |
+| Hiker | 9.00% | ~52,685 |
+| Advanced Hiker | 9.00% | ~52,685 |
+| Mojave Courier | 4.00% | ~23,416 |
+| Voyager | 2.00% | ~11,708 |
+| Advanced Voyager | 2.00% | ~11,708 |
+| Expert Stroller | 2.00% | ~11,708 |
+| Expert Hiker | 2.00% | ~11,708 |
+| Orient Express | 2.00% | ~11,708 |
+| Marathon | 2.00% | ~11,708 |
+| Destructionist | 2.00% | ~11,708 |
+| Saved by Nausicaä | 2.00% | ~11,708 |
 | Lost | 1.00% | ~5,854 |
 | Rocketman | 0.50% | ~2,927 |
 | Shopaholic | 0.50% | ~2,927 |
-| Expert Voyager | 0.40% | ~2,341 |
-| Nanuk | 0.40% | ~2,341 |
-| Terminal Station | 0.40% | ~2,341 |
+| Expert Voyager | 0.40% | ~2,342 |
+| Nanuk | 0.40% | ~2,342 |
+| Terminal Station | 0.40% | ~2,342 |
 | Wayfarer | 0.30% | ~1,756 |
 | Advanced Wayfarer | 0.30% | ~1,756 |
 | Scrooge | 0.30% | ~1,756 |
@@ -62,7 +62,7 @@ Diff (max vs sum): 55
 | Fireworks! | 0.10% | ~585 |
 | 20 Miles under the Sea | 0.10% | ~585 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585,363 (Ranked 21)  
+Progressed: 585,389 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-02 | 584,620 | 6 |
 | 2023-05-03 | 585,010 | 6 |
 | 2023-05-04 | 585,354 | 6 |
-| 2023-05-05 | 585,363 | 6 |
+| 2023-05-05 | 585,389 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

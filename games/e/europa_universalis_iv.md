@@ -3,25 +3,25 @@
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Educational): 5,157  (Ranked 60)  
-Sum: 42,684 (Ranked 26)  
+Max (Educational): 5,170  (Ranked 60)  
+Sum: 42,697 (Ranked 26)  
 Diff (max vs sum): 34  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,649 |
-| That's a Grand Army | 8.00% | ~2,355 |
-| That is mine! | 8.00% | ~2,355 |
-| Victorious! | 8.00% | ~2,355 |
-| Brothers in Arms | 6.00% | ~1,766 |
-| That's a Grand Navy | 6.00% | ~1,766 |
-| Seriously?! | 6.00% | ~1,766 |
-| For the Glory | 5.00% | ~1,472 |
-| Cold War | 4.00% | ~1,177 |
-| Defender of the Faith | 3.00% | ~883 |
-| It's all about the money | 3.00% | ~883 |
-| Respected | 3.00% | ~883 |
-| True Catholic | 3.00% | ~883 |
+| Until death do us apart | 9.00% | ~2,651 |
+| That's a Grand Army | 8.00% | ~2,356 |
+| That is mine! | 8.00% | ~2,356 |
+| Victorious! | 8.00% | ~2,356 |
+| Brothers in Arms | 6.00% | ~1,767 |
+| That's a Grand Navy | 6.00% | ~1,767 |
+| Seriously?! | 6.00% | ~1,767 |
+| For the Glory | 5.00% | ~1,473 |
+| Cold War | 4.00% | ~1,178 |
+| Defender of the Faith | 3.00% | ~884 |
+| It's all about the money | 3.00% | ~884 |
+| Respected | 3.00% | ~884 |
+| True Catholic | 3.00% | ~884 |
 | Blockader | 2.00% | ~589 |
 | Combined Arms | 2.00% | ~589 |
 | Double the Love | 2.00% | ~589 |
@@ -32,12 +32,12 @@ Diff (max vs sum): 34
 | The Princess is in this Castle | 2.00% | ~589 |
 | Total Control | 2.00% | ~589 |
 | Truly Divine Ruler | 2.00% | ~589 |
-| Agressive Expander | 1.00% | ~294 |
-| Azur semé de lis or | 1.00% | ~294 |
-| Bright Spark | 1.00% | ~294 |
-| Factionalism | 1.00% | ~294 |
-| A Golden Empire | 1.00% | ~294 |
-| My armies are invincible! | 1.00% | ~294 |
+| Agressive Expander | 1.00% | ~295 |
+| Azur semé de lis or | 1.00% | ~295 |
+| Bright Spark | 1.00% | ~295 |
+| Factionalism | 1.00% | ~295 |
+| A Golden Empire | 1.00% | ~295 |
+| My armies are invincible! | 1.00% | ~295 |
 | All That's Thine Shall Be Mine | 0.90% | ~265 |
 | City of Cities | 0.90% | ~265 |
 | Isn't this the way to India? | 0.70% | ~206 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,433 (Ranked 82)  
+Progressed: 29,454 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,11 +379,11 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,433 | 0 |
+| 2023-05-05 | 29,454 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,157 |
+| This game is Educational | 5,170 |
 | This game is Highly Recommended | 4,942 |
 | This game has Challenging Combat | 4,930 |
 | This game is Extremely Fun | 4,896 |
@@ -504,3 +504,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
+| 2023-05-05 | 4.68 | - | 5,170 | 42,697 |

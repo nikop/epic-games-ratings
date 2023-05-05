@@ -41,7 +41,7 @@ Diff (max vs sum): 93
 | Dapper Capper | 6.00% | ~1,641 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27,345 (Ranked 84)  
-Completed: 1,261 (4.61%) (Ranked 27)  
+Completed: 1,261 (4.61%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

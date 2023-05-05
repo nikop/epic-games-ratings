@@ -9,19 +9,19 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,345 |
-| Worker Specialization | 78.00% | ~4,290 |
-| First Contact | 74.00% | ~4,070 |
-| Win a Battle | 67.00% | ~3,685 |
-| Anomaly Researcher | 63.00% | ~3,465 |
-| Unleash My Power | 62.00% | ~3,410 |
-| Own 30 Planets | 35.00% | ~1,925 |
-| Xenocide | 33.00% | ~1,815 |
-| Commodity Trader | 32.00% | ~1,760 |
-| Design a Civilization | 32.00% | ~1,760 |
-| Design a Ship | 29.00% | ~1,595 |
-| Commodity Seller | 26.00% | ~1,430 |
-| Prestige Victory! | 14.00% | ~770 |
+| Colonize a Planet | 79.00% | ~4,348 |
+| Worker Specialization | 78.00% | ~4,293 |
+| First Contact | 74.00% | ~4,073 |
+| Win a Battle | 67.00% | ~3,688 |
+| Anomaly Researcher | 63.00% | ~3,468 |
+| Unleash My Power | 62.00% | ~3,412 |
+| Own 30 Planets | 35.00% | ~1,926 |
+| Xenocide | 33.00% | ~1,816 |
+| Commodity Trader | 32.00% | ~1,761 |
+| Design a Civilization | 32.00% | ~1,761 |
+| Design a Ship | 29.00% | ~1,596 |
+| Commodity Seller | 26.00% | ~1,431 |
+| Prestige Victory! | 14.00% | ~771 |
 | Galactic War | 11.00% | ~605 |
 | Trading Partner | 9.00% | ~495 |
 | Fleet Victory | 8.00% | ~440 |
@@ -44,15 +44,15 @@ Diff (max vs sum): 69
 | Win as the Navigators | 0.90% | ~50 |
 | Win as Torians | 0.90% | ~50 |
 | Win as Xeloxi | 0.80% | ~44 |
-| Win as the Drath | 0.70% | ~38 |
-| Win as the Drengin | 0.70% | ~38 |
-| Win as the Krynn | 0.70% | ~38 |
-| Win as the Manti | 0.70% | ~38 |
-| Diplomatic Victory! | 0.70% | ~38 |
+| Win as the Drath | 0.70% | ~39 |
+| Win as the Drengin | 0.70% | ~39 |
+| Win as the Krynn | 0.70% | ~39 |
+| Win as the Manti | 0.70% | ~39 |
+| Diplomatic Victory! | 0.70% | ~39 |
 | Win as the Iconians | 0.60% | ~33 |
 | Win as the Iridium | 0.60% | ~33 |
 | Win as the Onyx | 0.60% | ~33 |
-| Iconia Reclaimed! | 0.30% | ~16 |
+| Iconia Reclaimed! | 0.30% | ~17 |
 | Relic Hoarder | 0.20% | ~11 |
 | Commodity Seller, Level 2 | 0.20% | ~11 |
 | Commodity Trader - Level 2 | 0.10% | ~6 |
@@ -82,7 +82,7 @@ Diff (max vs sum): 69
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,500 (Ranked 116)  
+Progressed: 5,504 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 5,465 | 0 |
 | 2023-05-03 | 5,479 | 0 |
 | 2023-05-04 | 5,500 | 0 |
+| 2023-05-05 | 5,504 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

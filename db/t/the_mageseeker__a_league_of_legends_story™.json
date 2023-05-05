@@ -54,9 +54,9 @@
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 544
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -72,7 +72,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -88,7 +88,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -112,7 +112,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -134,17 +134,17 @@
       "ID": "STB_DEFEAT_NIGHTMARE_II",
       "SetID": "3pe2bac",
       "Name": "Little light",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 319
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -192,7 +192,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -224,7 +224,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -240,7 +240,7 @@
       "Name": "Clarion Cove",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -248,7 +248,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -272,7 +272,7 @@
       "Name": "Capelworth",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -328,7 +328,7 @@
       "Name": "The Unshackled",
       "Percentage": 0.4,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_ALL",
@@ -376,7 +376,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -384,7 +384,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -424,7 +424,7 @@
       "Name": "Petricite Burst",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     }
   ],
   "Tags": [],
@@ -1143,6 +1143,11 @@
       "Time": "2023-05-05T00:04:55.9449309+00:00",
       "NumProgressed": 1874,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T01:58:24.0349102+00:00",
+      "NumProgressed": 1875,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1179,18 +1184,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T00:04:55.9449303+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:24.0349095+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_Completed": 1,
-  "EOS_Progressed": 1874,
-  "LastUpdate_Achievements": "2023-05-05T00:04:55.9450079+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:21.2193528+00:00",
+  "EOS_Progressed": 1875,
+  "LastUpdate_Achievements": "2023-05-05T01:58:24.0349615+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:50:24.4955221+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1874,
+      "Progressed": 1875,
       "Completed": 1
     }
   ],

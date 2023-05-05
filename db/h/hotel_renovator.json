@@ -24,7 +24,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -32,7 +32,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -48,7 +48,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -64,7 +64,7 @@
       "Name": "Broken heart",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -80,7 +80,7 @@
       "Name": "Top spot in town",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_GOLDEN_EGGS_ALL",
@@ -104,7 +104,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -142,9 +142,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -160,7 +160,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACH_STAR_2",
@@ -168,15 +168,15 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_STAR_4",
@@ -350,6 +350,11 @@
       "Time": "2023-05-04T19:04:34.4960166+00:00",
       "NumProgressed": 716,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-05T01:58:51.3295066+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 11
     }
   ],
   "RatingHistory": [
@@ -396,29 +401,29 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-05T00:05:19.4397609+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:51.3295058+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_Completed": 11,
-  "EOS_Progressed": 716,
-  "LastUpdate_Achievements": "2023-05-05T00:05:19.4397808+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:58:56.8674038+00:00",
+  "EOS_Progressed": 717,
+  "LastUpdate_Achievements": "2023-05-05T01:58:51.3295294+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:21.727762+00:00",
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 11
     }
   ],
-  "EOS_Completed_Percentage": 1.54,
+  "EOS_Completed_Percentage": 1.53,
   "LastChanged": "2023-04-17T21:57:16.8800544+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_Progress": 172,
   "Ranking_PopularitySum": 490,

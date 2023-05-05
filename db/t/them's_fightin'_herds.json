@@ -72,7 +72,7 @@
       "Name": "Once upon a time...",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 77087
+      "UsersEstimate": 77090
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -144,7 +144,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -152,7 +152,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 74884
+      "UsersEstimate": 74887
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -168,7 +168,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 48455
+      "UsersEstimate": 48457
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -176,7 +176,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6607
+      "UsersEstimate": 6608
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -192,7 +192,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -216,7 +216,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37442
+      "UsersEstimate": 37444
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -224,7 +224,7 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     }
   ],
   "Tags": [],
@@ -1303,6 +1303,11 @@
       "Time": "2023-05-05T00:05:23.3050017+00:00",
       "NumProgressed": 220248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T01:58:56.2016941+00:00",
+      "NumProgressed": 220257,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -1463,18 +1468,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T00:05:23.3050011+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:56.2016933+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 701,
   "EOS_Completed": 2,
-  "EOS_Progressed": 220248,
-  "LastUpdate_Achievements": "2023-05-05T00:05:23.3050299+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:11.7738872+00:00",
+  "EOS_Progressed": 220257,
+  "LastUpdate_Achievements": "2023-05-05T01:58:56.2017246+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:40.3374451+00:00",
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 220248,
+      "Progressed": 220257,
       "Completed": 2
     }
   ],

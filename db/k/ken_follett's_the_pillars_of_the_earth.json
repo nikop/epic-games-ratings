@@ -24,7 +24,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "tpote_achievement_12",
@@ -48,7 +48,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "tpote_achievement_15",
@@ -96,7 +96,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "tpote_achievement_20",
@@ -120,7 +120,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "tpote_achievement_23",
@@ -296,7 +296,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "tpote_achievement_6",
@@ -304,7 +304,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "tpote_achievement_7",
@@ -312,7 +312,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "tpote_achievement_8",
@@ -1000,6 +1000,11 @@
       "Time": "2023-05-05T00:04:47.7762559+00:00",
       "NumProgressed": 12178,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-05T01:58:14.05311+00:00",
+      "NumProgressed": 12179,
+      "NumCompleted": 91
     }
   ],
   "RatingHistory": [
@@ -1432,18 +1437,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T00:04:47.7762552+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:14.0531093+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_Completed": 91,
-  "EOS_Progressed": 12178,
-  "LastUpdate_Achievements": "2023-05-05T00:04:47.7762887+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:18.9791824+00:00",
+  "EOS_Progressed": 12179,
+  "LastUpdate_Achievements": "2023-05-05T01:58:14.0531485+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:52:50.0634782+00:00",
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12178,
+      "Progressed": 12179,
       "Completed": 91
     }
   ],
@@ -1454,7 +1459,7 @@
   "NumberOfAwardsMax": 147,
   "NumberOfAwards": 186,
   "NumberOfRatings": 368,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_Progress": 101,

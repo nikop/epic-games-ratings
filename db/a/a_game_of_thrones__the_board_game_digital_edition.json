@@ -16,7 +16,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "1017",
@@ -24,7 +24,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "1018",
@@ -64,7 +64,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "1023",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "1031",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "1033",
@@ -1305,6 +1305,11 @@
       "Time": "2023-05-05T00:05:28.5109289+00:00",
       "NumProgressed": 11019,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T01:59:02.4700427+00:00",
+      "NumProgressed": 11023,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2462,18 +2467,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T00:05:28.5109284+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:59:02.470042+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 911,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11019,
-  "LastUpdate_Achievements": "2023-05-05T00:05:28.5109688+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:59:30.8708263+00:00",
+  "EOS_Progressed": 11023,
+  "LastUpdate_Achievements": "2023-05-05T01:59:02.4700687+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:53:05.3899997+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11019,
+      "Progressed": 11023,
       "Completed": 23
     }
   ],

@@ -4,6 +4,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start a new game | 50.00% | ~2 |
+| Go Direct | 25.00% | ~1 |
 | Enter a new name | 25.00% | ~1 |
 | Burying the past | 0.00% | ~0 |
 | CD Player | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | Staff Room | 0.00% | ~0 |
 | Forcefield | 0.00% | ~0 |
 | ULTIMATE ACHIEVEMENT! | 0.00% | ~0 |
-| Go Direct | 0.00% | ~0 |
 | Grendel The Dunce | 0.00% | ~0 |
 | Grendel The Genius | 0.00% | ~0 |
 | Guard Voting Box | 0.00% | ~0 |

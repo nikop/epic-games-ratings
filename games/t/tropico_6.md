@@ -9,9 +9,9 @@ Diff (max vs sum): 61
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,070 |
-| Un-Lonely Island | 50.00% | ~1,327 |
-| The Beginning of a Servantship | 47.00% | ~1,247 |
+| Just One...More...Term... | 78.00% | ~2,071 |
+| Un-Lonely Island | 50.00% | ~1,328 |
+| The Beginning of a Servantship | 47.00% | ~1,248 |
 | Trade Is My Trait | 39.00% | ~1,035 |
 | Number 18 | 26.00% | ~690 |
 | We Don't Have Time For That | 20.00% | ~531 |
@@ -19,11 +19,11 @@ Diff (max vs sum): 61
 | The Legend of Langostino | 18.00% | ~478 |
 | The Governator | 18.00% | ~478 |
 | The Dreamer of Dreams | 17.00% | ~451 |
-| Go Sovereigns! | 12.00% | ~318 |
-| For Science! | 12.00% | ~318 |
+| Go Sovereigns! | 12.00% | ~319 |
+| For Science! | 12.00% | ~319 |
 | Happy Ending? | 11.00% | ~292 |
-| Of Seals And Men | 10.00% | ~265 |
-| Shackadelic | 10.00% | ~265 |
+| Of Seals And Men | 10.00% | ~266 |
+| Shackadelic | 10.00% | ~266 |
 | Double Trouble | 9.00% | ~239 |
 | Firestarter | 9.00% | ~239 |
 | Make Tropico Great Again! | 9.00% | ~239 |
@@ -50,7 +50,7 @@ Diff (max vs sum): 61
 | Survivor | 1.00% | ~27 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,654 (Ranked 132)  
+Progressed: 2,655 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-02 | 2,623 | 1 |
 | 2023-05-03 | 2,641 | 1 |
 | 2023-05-04 | 2,654 | 1 |
+| 2023-05-05 | 2,655 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

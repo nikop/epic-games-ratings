@@ -26,9 +26,9 @@ Diff (max vs sum): -72
 | Industrial Area | 89.00% | ~1,770 |
 | Magnet Repel | 88.00% | ~1,750 |
 | You feel middle classy | 86.00% | ~1,711 |
+| Banking District | 86.00% | ~1,711 |
 | Boomeraxe | 86.00% | ~1,711 |
 | Iron Pickaxe | 86.00% | ~1,711 |
-| Banking District | 85.00% | ~1,691 |
 | Arrested | 85.00% | ~1,691 |
 | Zappy Gun | 85.00% | ~1,691 |
 | Got your own one now | 85.00% | ~1,691 |

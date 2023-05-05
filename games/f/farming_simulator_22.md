@@ -27,10 +27,10 @@ Diff (max vs sum): 40
 | You wood not believe it | 21.00% | ~8,782 |
 | Vehicle fleet | 21.00% | ~8,782 |
 | The plot thickens | 16.00% | ~6,691 |
+| Long haul | 16.00% | ~6,691 |
 | Clucky Streak | 15.00% | ~6,273 |
 | Large-scale supplier | 15.00% | ~6,273 |
 | Well-Oiled Machine | 15.00% | ~6,273 |
-| Long haul | 15.00% | ~6,273 |
 | Fix me up | 13.00% | ~5,437 |
 | That's a wrap | 13.00% | ~5,437 |
 | Rock on | 12.00% | ~5,019 |

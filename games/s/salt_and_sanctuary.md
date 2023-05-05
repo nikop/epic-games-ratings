@@ -9,34 +9,34 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,436 |
-| The Three | 64.00% | ~332,674 |
-| The Banquet | 40.00% | ~207,921 |
-| Devara's Light | 30.00% | ~155,941 |
-| The Iron Ones | 18.00% | ~93,565 |
-| The Village | 16.00% | ~83,168 |
-| The Forest | 14.00% | ~72,772 |
-| Branded | 13.00% | ~67,574 |
-| The Imposter | 13.00% | ~67,574 |
-| The Keep | 13.00% | ~67,574 |
-| The Castle | 11.00% | ~57,178 |
-| The Dome | 9.00% | ~46,782 |
-| The Red Hall | 9.00% | ~46,782 |
-| The Sacrifice | 8.00% | ~41,584 |
-| The Cave | 7.00% | ~36,386 |
-| The Stone Roots | 7.00% | ~36,386 |
-| The Ziggurat | 7.00% | ~36,386 |
-| Storied | 6.00% | ~31,188 |
-| The Construct | 6.00% | ~31,188 |
-| The Mire | 6.00% | ~31,188 |
-| The Ruins | 6.00% | ~31,188 |
-| The Alkymancery | 5.00% | ~25,990 |
-| The Lake | 5.00% | ~25,990 |
-| The Pitchwoods | 5.00% | ~25,990 |
-| Honed | 4.00% | ~20,792 |
-| The House of Splendor | 4.00% | ~20,792 |
-| The Crypt | 4.00% | ~20,792 |
-| The Palace | 4.00% | ~20,792 |
+| Find Sanctuary | 83.00% | ~431,445 |
+| The Three | 64.00% | ~332,680 |
+| The Banquet | 40.00% | ~207,925 |
+| Devara's Light | 30.00% | ~155,944 |
+| The Iron Ones | 18.00% | ~93,566 |
+| The Village | 16.00% | ~83,170 |
+| The Forest | 14.00% | ~72,774 |
+| Branded | 13.00% | ~67,576 |
+| The Imposter | 13.00% | ~67,576 |
+| The Keep | 13.00% | ~67,576 |
+| The Castle | 11.00% | ~57,179 |
+| The Dome | 9.00% | ~46,783 |
+| The Red Hall | 9.00% | ~46,783 |
+| The Sacrifice | 8.00% | ~41,585 |
+| The Cave | 7.00% | ~36,387 |
+| The Stone Roots | 7.00% | ~36,387 |
+| The Ziggurat | 7.00% | ~36,387 |
+| Storied | 6.00% | ~31,189 |
+| The Construct | 6.00% | ~31,189 |
+| The Mire | 6.00% | ~31,189 |
+| The Ruins | 6.00% | ~31,189 |
+| The Alkymancery | 5.00% | ~25,991 |
+| The Lake | 5.00% | ~25,991 |
+| The Pitchwoods | 5.00% | ~25,991 |
+| Honed | 4.00% | ~20,793 |
+| The House of Splendor | 4.00% | ~20,793 |
+| The Crypt | 4.00% | ~20,793 |
+| The Palace | 4.00% | ~20,793 |
 | Find Salvation | 3.00% | ~15,594 |
 | The Unspeakable Deep | 3.00% | ~15,594 |
 | Coastrock | 2.00% | ~10,396 |
@@ -47,7 +47,7 @@ Diff (max vs sum): 42
 | Wise Words | 2.00% | ~10,396 |
 | Fading Fast | 1.00% | ~5,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,803 (Ranked 23)  
+Progressed: 519,813 (Ranked 23)  
 Completed: 1,396 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 1,396 (0.27%) (Ranked 123)
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
 | 2023-05-04 | 519,799 | 1,396 |
-| 2023-05-05 | 519,803 | 1,396 |
+| 2023-05-05 | 519,813 | 1,396 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

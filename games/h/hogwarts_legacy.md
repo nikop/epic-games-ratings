@@ -3,35 +3,35 @@
 Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 18,359  (Ranked 18)  
-Sum: 33,449 (Ranked 34)  
+Sum: 33,454 (Ranked 34)  
 Diff (max vs sum): -16  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 5.00% | ~13,275 |
-| The One Who Mastered Memories | 5.00% | ~13,275 |
-| The Hallowed Hero | 5.00% | ~13,275 |
-| The Hero of Hogwarts | 5.00% | ~13,275 |
-| The Defender of Dragons | 5.00% | ~13,275 |
-| Coasting Along | 5.00% | ~13,275 |
-| Rising From the Ashes | 5.00% | ~13,275 |
-| The Sort Who Makes an Entrance | 4.00% | ~10,620 |
-| The Avenging Gazelle | 4.00% | ~10,620 |
-| Beast Friends | 4.00% | ~10,620 |
-| A Sallow Grave | 4.00% | ~10,620 |
-| Flight the Good Flight | 4.00% | ~10,620 |
-| Challenge Accepted | 4.00% | ~10,620 |
-| A Keen Sense of Spell | 4.00% | ~10,620 |
-| Loom for Improvement | 4.00% | ~10,620 |
-| A Talent for Spending | 4.00% | ~10,620 |
-| Followed the Butterflies | 4.00% | ~10,620 |
-| The Spell Master | 4.00% | ~10,620 |
-| First Class Student | 4.00% | ~10,620 |
-| Troll with the Punches | 4.00% | ~10,620 |
-| That's a Keeper | 4.00% | ~10,620 |
-| The Seeker of Knowledge | 3.00% | ~7,965 |
-| The Root of the Problem | 3.00% | ~7,965 |
-| Third Time's a Charm | 3.00% | ~7,965 |
+| Grappling with a Graphorn | 5.00% | ~13,276 |
+| The One Who Mastered Memories | 5.00% | ~13,276 |
+| The Hallowed Hero | 5.00% | ~13,276 |
+| The Hero of Hogwarts | 5.00% | ~13,276 |
+| The Defender of Dragons | 5.00% | ~13,276 |
+| Coasting Along | 5.00% | ~13,276 |
+| Rising From the Ashes | 5.00% | ~13,276 |
+| The Sort Who Makes an Entrance | 4.00% | ~10,621 |
+| The Avenging Gazelle | 4.00% | ~10,621 |
+| Beast Friends | 4.00% | ~10,621 |
+| A Sallow Grave | 4.00% | ~10,621 |
+| Flight the Good Flight | 4.00% | ~10,621 |
+| Challenge Accepted | 4.00% | ~10,621 |
+| A Keen Sense of Spell | 4.00% | ~10,621 |
+| Loom for Improvement | 4.00% | ~10,621 |
+| A Talent for Spending | 4.00% | ~10,621 |
+| Followed the Butterflies | 4.00% | ~10,621 |
+| The Spell Master | 4.00% | ~10,621 |
+| First Class Student | 4.00% | ~10,621 |
+| Troll with the Punches | 4.00% | ~10,621 |
+| That's a Keeper | 4.00% | ~10,621 |
+| The Seeker of Knowledge | 3.00% | ~7,966 |
+| The Root of the Problem | 3.00% | ~7,966 |
+| Third Time's a Charm | 3.00% | ~7,966 |
 | The Toast of the Town | 2.00% | ~5,310 |
 | Going Through the Potions | 2.00% | ~5,310 |
 | Room with a View | 2.00% | ~5,310 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -16
 | The Nature of the Beast | 0.30% | ~797 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,506 (Ranked 38)  
+Progressed: 265,519 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,506 | 346 |
+| 2023-05-05 | 265,519 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -83,7 +83,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | This game has Amazing Characters | 678 |
 | This game is Highly Recommended | 660 |
 | This game has Quickly Understood Controls | 607 |
-| This game has Beautiful Visuals | 583 |
+| This game has Beautiful Visuals | 588 |
 | This game has a Creative Community | 452 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -130,3 +130,4 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 4.78 | 18,275 | 33,258 |
 | 2023-05-03 | 4.77 | 18,328 | 33,362 |
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
+| 2023-05-05 | 4.77 | 18,359 | 33,454 |

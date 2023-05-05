@@ -15,10 +15,10 @@ Diff (max vs sum): -19
 | Horde breaker | 20.00% | ~9,759 |
 | Lawmaker | 20.00% | ~9,759 |
 | Trained | 19.00% | ~9,271 |
-| The king is pleased | 16.00% | ~7,807 |
-| King Solomon | 15.00% | ~7,319 |
-| I can do it | 14.00% | ~6,831 |
-| Apple of my eye | 13.00% | ~6,343 |
+| The king is pleased | 16.00% | ~7,808 |
+| King Solomon | 15.00% | ~7,320 |
+| I can do it | 14.00% | ~6,832 |
+| Apple of my eye | 13.00% | ~6,344 |
 | God of the Arena | 12.00% | ~5,856 |
 | Against all odds | 9.00% | ~4,392 |
 | Swordbearer | 9.00% | ~4,392 |
@@ -61,7 +61,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,796 (Ranked 73)  
+Progressed: 48,797 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,796 | 0 |
+| 2023-05-05 | 48,797 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

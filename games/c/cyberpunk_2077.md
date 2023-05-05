@@ -3,37 +3,37 @@
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 63,570  (Ranked 9)  
-Sum: 166,185 (Ranked 13)  
+Max (Character Customization): 63,632  (Ranked 9)  
+Sum: 166,274 (Ranked 13)  
 Diff (max vs sum): -4  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~534,588 |
-| Right Back At Ya | 37.00% | ~295,220 |
-| The Lovers | 32.00% | ~255,325 |
-| Stanislavski's Method | 27.00% | ~215,431 |
-| The Wheel of Fortune | 25.00% | ~199,473 |
-| The Hermit | 22.00% | ~175,536 |
-| True Soldier | 22.00% | ~175,536 |
-| Christmas Tree Attack | 21.00% | ~167,557 |
-| The High Priestess | 20.00% | ~159,578 |
-| Legend of The Afterlife | 20.00% | ~159,578 |
-| Life of the Road | 19.00% | ~151,599 |
-| Full Body Conversion | 17.00% | ~135,642 |
-| The World | 16.00% | ~127,663 |
-| Bushido and Chill | 15.00% | ~119,684 |
-| True Warrior | 14.00% | ~111,705 |
-| To Protect and Serve | 13.00% | ~103,726 |
-| Gun Fu | 13.00% | ~103,726 |
-| Master Crafter | 13.00% | ~103,726 |
-| I Am The Law | 13.00% | ~103,726 |
-| Judy vs Night City | 13.00% | ~103,726 |
-| Two Heads, One Bullet | 11.00% | ~87,768 |
-| The Wandering Fool | 9.00% | ~71,810 |
-| The Quick and the Dead | 9.00% | ~71,810 |
-| Ten out of Ten | 8.00% | ~63,831 |
-| Breathtaking | 7.00% | ~55,852 |
+| The Fool | 67.00% | ~534,597 |
+| Right Back At Ya | 37.00% | ~295,225 |
+| The Lovers | 32.00% | ~255,330 |
+| Stanislavski's Method | 27.00% | ~215,435 |
+| The Wheel of Fortune | 25.00% | ~199,476 |
+| The Hermit | 22.00% | ~175,539 |
+| True Soldier | 22.00% | ~175,539 |
+| Christmas Tree Attack | 21.00% | ~167,560 |
+| The High Priestess | 20.00% | ~159,581 |
+| Legend of The Afterlife | 20.00% | ~159,581 |
+| Life of the Road | 19.00% | ~151,602 |
+| Full Body Conversion | 17.00% | ~135,644 |
+| The World | 16.00% | ~127,665 |
+| Bushido and Chill | 15.00% | ~119,686 |
+| True Warrior | 14.00% | ~111,707 |
+| To Protect and Serve | 13.00% | ~103,728 |
+| Gun Fu | 13.00% | ~103,728 |
+| Master Crafter | 13.00% | ~103,728 |
+| I Am The Law | 13.00% | ~103,728 |
+| Judy vs Night City | 13.00% | ~103,728 |
+| Two Heads, One Bullet | 11.00% | ~87,770 |
+| The Wandering Fool | 9.00% | ~71,812 |
+| The Quick and the Dead | 9.00% | ~71,812 |
+| Ten out of Ten | 8.00% | ~63,832 |
+| Breathtaking | 7.00% | ~55,853 |
 | To Bad Decisions! | 6.00% | ~47,874 |
 | The Star | 6.00% | ~47,874 |
 | The Sun | 6.00% | ~47,874 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -4
 | Gunslinger | 1.00% | ~7,979 |
 | Rough Landing | 0.40% | ~3,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,892 (Ranked 10)  
+Progressed: 797,906 (Ranked 10)  
 Completed: 1,567 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,17 +69,17 @@ Completed: 1,567 (0.20%) (Ranked 131)
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
 | 2023-05-04 | 797,891 | 1,567 |
-| 2023-05-05 | 797,892 | 1,567 |
+| 2023-05-05 | 797,906 | 1,567 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 63,570 |
+| This game has Inclusive Character Customization | 63,632 |
 | This game has Great Boss Battles | 40,798 |
 | This game has Amazing Storytelling | 7,306 |
 | This game is Great for Beginners | 7,241 |
-| This game has Diverse Characters | 7,214 |
+| This game has Diverse Characters | 7,230 |
 | This game is Extremely Fun | 7,194 |
-| This game is Relaxing | 7,133 |
+| This game is Relaxing | 7,144 |
 | This game is Highly Recommended | 7,120 |
 | This game has Quickly Understood Controls | 7,019 |
 | This game has Amazing Characters | 6,955 |
@@ -193,3 +193,4 @@ Completed: 1,567 (0.20%) (Ranked 131)
 | 2023-05-02 | 4.62 | - | 63,418 | 165,714 |
 | 2023-05-03 | 4.62 | - | 63,500 | 165,972 |
 | 2023-05-04 | 4.62 | - | 63,570 | 166,185 |
+| 2023-05-05 | 4.62 | - | 63,632 | 166,274 |

@@ -40,7 +40,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -48,7 +48,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3468
     },
     {
       "ID": "Control_All_Relics",
@@ -72,7 +72,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -88,7 +88,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "First_Major_Ally",
@@ -112,7 +112,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4345
+      "UsersEstimate": 4348
     },
     {
       "ID": "First_Race_Met",
@@ -120,7 +120,7 @@
       "Name": "First Contact",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4073
     },
     {
       "ID": "First_Ship_Designed",
@@ -128,7 +128,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "First_Stream_Travel",
@@ -144,7 +144,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4293
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -224,7 +224,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "Play_1000_Hours",
@@ -312,7 +312,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -320,7 +320,7 @@
       "Name": "Iconia Reclaimed!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Use_Artifact_Power",
@@ -328,7 +328,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3412
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -384,7 +384,7 @@
       "Name": "Win as the Drath",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Win_As_Drengin",
@@ -392,7 +392,7 @@
       "Name": "Win as the Drengin",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Win_As_Festron",
@@ -424,7 +424,7 @@
       "Name": "Win as the Krynn",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Win_As_Manti",
@@ -432,7 +432,7 @@
       "Name": "Win as the Manti",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Win_As_Mimot",
@@ -496,7 +496,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3688
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -528,7 +528,7 @@
       "Name": "Diplomatic Victory!",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Win_ImmenseMap",
@@ -560,7 +560,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "Win_Quickly",
@@ -1411,6 +1411,11 @@
       "Time": "2023-05-04T22:06:00.4178501+00:00",
       "NumProgressed": 5500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:11.7707022+00:00",
+      "NumProgressed": 5504,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -2070,18 +2075,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 72,
-  "LastChanged_Achievements": "2023-05-05T00:04:45.6250106+00:00",
+  "LastChanged_Achievements": "2023-05-05T01:58:11.7707015+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_Completed": 0,
-  "EOS_Progressed": 5500,
-  "LastUpdate_Achievements": "2023-05-05T00:04:45.6250954+00:00",
-  "LastUpdate_Ratings": "2023-05-04T23:57:04.7831573+00:00",
+  "EOS_Progressed": 5504,
+  "LastUpdate_Achievements": "2023-05-05T01:58:11.7707949+00:00",
+  "LastUpdate_Ratings": "2023-05-05T01:50:05.7196171+00:00",
   "AchievementSets": [
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5500,
+      "Progressed": 5504,
       "Completed": 0
     }
   ],
@@ -2093,7 +2098,7 @@
   "NumberOfAwards": 655,
   "NumberOfRatings": 429,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 116,
   "Ranking_PopularitySum": 266,

@@ -3,11 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 50.00% | ~60 |
-| Inventory ✔ | 48.00% | ~58 |
-| Chest ✔ | 48.00% | ~58 |
+| Fright ✔ | 51.00% | ~62 |
+| Inventory ✔ | 48.00% | ~59 |
+| Chest ✔ | 48.00% | ~59 |
 | Police officers ✔ | 23.00% | ~28 |
-| Mutation ✔ | 21.00% | ~25 |
+| Mutation ✔ | 21.00% | ~26 |
 | Doberman ✔ | 8.00% | ~10 |
 | Master of Unlocking ✔ | 6.00% | ~7 |
 | Thirst ✔ | 6.00% | ~7 |
@@ -54,7 +54,7 @@
 | Rank A+ ✔ | 0.80% | ~1 |
 | Exterminate pests ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 243)  
+Progressed: 122 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 82 | 0 |
 | 2023-05-03 | 98 | 0 |
 | 2023-05-04 | 121 | 0 |
+| 2023-05-05 | 122 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

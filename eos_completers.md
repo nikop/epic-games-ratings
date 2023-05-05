@@ -18,16 +18,16 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 24 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 4.64% |
-| 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
-| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
+| 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
+| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 4.45% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
@@ -64,7 +64,7 @@
 | 62 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 62 | [Somerville](games/s/somerville.md) | 1.61% |
 | 64 | [Frogun](games/f/frogun.md) | 1.56% |
-| 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
+| 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
 | 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.38% |

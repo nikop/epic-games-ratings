@@ -44,6 +44,7 @@ Diff (max vs sum): 43
 | Fishmen Ritual Site | 0.20% | ~29 |
 | Forbidden Lands | 0.20% | ~29 |
 | Statue of the Forefathers | 0.20% | ~29 |
+| Blood Flower Farmer | 0.20% | ~29 |
 | Into the Forest | 0.20% | ~29 |
 | Feeding The People | 0.10% | ~15 |
 | Paradise | 0.10% | ~15 |
@@ -56,11 +57,10 @@ Diff (max vs sum): 43
 | Prestigious Expedition | 0.10% | ~15 |
 | The Queen's Chosen | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
-| Blood Flower Farmer | 0.10% | ~15 |
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,638 (Ranked 97)  
+Progressed: 14,640 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-02 | 14,612 | 30 |
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
-| 2023-05-05 | 14,638 | 30 |
+| 2023-05-05 | 14,640 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
