@@ -1,4 +1,5 @@
 # Brave
+[Store](https://store.epicgames.com/en-US/p/brave)  
 [View Rawdata](../../db/b/brave.json)  
 ## Achievements
 | Name | Percentage | Users |

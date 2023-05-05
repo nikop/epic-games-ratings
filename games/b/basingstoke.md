@@ -1,4 +1,5 @@
 # Basingstoke
+[Store](https://store.epicgames.com/en-US/p/basingstoke-16d446)  
 [View Rawdata](../../db/b/basingstoke.json)  
 ## Achievements
 | Name | Percentage | Users |

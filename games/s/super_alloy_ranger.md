@@ -1,4 +1,5 @@
 # Super Alloy Ranger
+[Store](https://store.epicgames.com/en-US/p/super-alloy-ranger-4252cc)  
 [View Rawdata](../../db/s/super_alloy_ranger.json)  
 ## Achievements
 | Name | Percentage | Users |

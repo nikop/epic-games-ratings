@@ -1,4 +1,5 @@
 # Vernal Edge
+[Store](https://store.epicgames.com/en-US/p/vernal-edge-fdfa3e)  
 [View Rawdata](../../db/v/vernal_edge.json)  
 ## Achievements
 | Name | Percentage | Users |

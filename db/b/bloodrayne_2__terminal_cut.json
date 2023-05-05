@@ -133,13 +133,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T13:11:14.297565+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:26.4189051+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T13:11:14.2975797+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:35.0653789+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:26.3306628+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:44.4920252+00:00",
   "AchievementSets": [
     {
       "ID": "2hpa30b",
@@ -149,14 +149,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:48.9575384+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:48.9575383+00:00",
-  "FirstSeen": "2022-11-06T10:29:54.4473123+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
+  "LastChanged_Achievements": "2023-05-05T15:05:26.3306531+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00",
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 310,
-  "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00"
+  "LastChanged": "2023-03-31T05:57:48.9575384+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-11-06T10:29:54.4473123+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:48.9575383+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "bloodrayne-2-terminal-cut-a5d9d4"
 }

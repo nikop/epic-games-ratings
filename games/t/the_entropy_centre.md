@@ -1,4 +1,5 @@
 # The Entropy Centre
+[Store](https://store.epicgames.com/en-US/p/the-entropy-centre-40bccd)  
 [View Rawdata](../../db/t/the_entropy_centre.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # HENCHMAN STORY
+[Store](https://store.epicgames.com/en-US/p/henchman-story-327af4)  
 [View Rawdata](../../db/h/henchman_story.json)  
 ## Achievements
 | Name | Percentage | Users |

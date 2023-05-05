@@ -1,4 +1,5 @@
 # Legend Bowl
+[Store](https://store.epicgames.com/en-US/p/legend-bowl-10bc86)  
 [View Rawdata](../../db/l/legend_bowl.json)  
 ## Achievements
 | Name | Percentage | Users |

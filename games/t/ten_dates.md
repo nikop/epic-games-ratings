@@ -1,4 +1,5 @@
 # Ten Dates
+[Store](https://store.epicgames.com/en-US/p/ten-dates-9a188a)  
 [View Rawdata](../../db/t/ten_dates.json)  
 ## Achievements
 | Name | Percentage | Users |

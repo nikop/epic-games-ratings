@@ -1,4 +1,5 @@
 # He Will Shoot
+[Store](https://store.epicgames.com/en-US/p/he-will-shoot-46efff)  
 [View Rawdata](../../db/h/he_will_shoot.json)  
 ## Achievements
 | Name | Percentage | Users |

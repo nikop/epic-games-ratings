@@ -1,4 +1,5 @@
 # Prince of Qin
+[Store](https://store.epicgames.com/en-US/p/prince-of-qin-3bb44c)  
 [View Rawdata](../../db/p/prince_of_qin.json)  
 ## Achievements
 | Name | Percentage | Users |

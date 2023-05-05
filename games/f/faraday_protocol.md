@@ -1,4 +1,5 @@
 # Faraday Protocol
+[Store](https://store.epicgames.com/en-US/p/faraday-protocol-a083a9)  
 [View Rawdata](../../db/f/faraday_protocol.json)  
 ## Achievements
 | Name | Percentage | Users |

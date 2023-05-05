@@ -1,4 +1,5 @@
 # Infindustry
+[Store](https://store.epicgames.com/en-US/p/infindustry-cccc40)  
 [View Rawdata](../../db/i/infindustry.json)  
 ## Achievements
 | Name | Percentage | Users |

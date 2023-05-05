@@ -1,4 +1,5 @@
 # Monorail Stories
+[Store](https://store.epicgames.com/en-US/p/monorail-stories-4b4a69)  
 [View Rawdata](../../db/m/monorail_stories.json)  
 ## Achievements
 | Name | Percentage | Users |

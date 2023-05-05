@@ -19,7 +19,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4637
+      "Count": 4640
     },
     {
       "Text": "This game is Extremely Fun",
@@ -37,7 +37,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4382
+      "Count": 4384
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4322,31 +4322,44 @@
       "Rating": 4.34,
       "NumberOfAwards": 30776,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-05T13:58:04.6552595+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 30779,
+      "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-05T14:58:10.3995303+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 30781,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:31:51.9673177+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:08:15.5970956+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:13.6517955+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:03:18.2886215+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:10.3995308+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T10:58:18.7064403+00:00",
-  "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "MaxAwardTitle": "Diverse Characters",
-  "NumberOfAwardsMax": 4868,
-  "NumberOfAwards": 30776,
-  "NumberOfRatings": 21107,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_PopularitySum": 36,
-  "Ranking_Popularity": 61,
-  "Ranking_Rating": 721,
   "Rating": 4.34,
+  "Ranking_Rating": 721,
+  "Ranking_Popularity": 61,
+  "Ranking_PopularitySum": 36,
+  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-05-05T14:58:10.39953+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfRatings": 21107,
+  "NumberOfAwards": 30781,
+  "NumberOfAwardsMax": 4868,
+  "MaxAwardTitle": "Diverse Characters",
+  "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "rogue-company/home"
 }

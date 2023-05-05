@@ -1,4 +1,5 @@
 # FUR Squadron
+[Store](https://store.epicgames.com/en-US/p/fur-squadron-0042b8)  
 [View Rawdata](../../db/f/fur_squadron.json)  
 ## Achievements
 | Name | Percentage | Users |

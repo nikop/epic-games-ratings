@@ -1,4 +1,5 @@
 # Space Trader - Merchant Marine
+[Store](https://store.epicgames.com/en-US/p/space-trader-merchant-marine-0426a8)  
 [View Rawdata](../../db/s/space_trader_-_merchant_marine.json)  
 ## Achievements
 | Name | Percentage | Users |

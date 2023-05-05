@@ -262,7 +262,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1185,17 +1185,23 @@
       "Rating": 4.6,
       "NumberOfAwards": 922,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-05-05T14:59:14.845557+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 923,
+      "NumberOfAwardsMax": 118
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-05T13:11:01.6614681+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:57.781902+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 6,
   "EOS_Progressed": 2633,
-  "LastUpdate_Achievements": "2023-05-05T13:11:01.6614931+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:51.310612+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:16.9768238+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:14.8455574+00:00",
   "AchievementSets": [
     {
       "ID": "5349c2e",
@@ -1205,20 +1211,21 @@
     }
   ],
   "EOS_Completed_Percentage": 0.23,
-  "LastChanged": "2023-05-03T01:57:16.9563641+00:00",
-  "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
-  "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 118,
-  "NumberOfAwards": 922,
-  "NumberOfRatings": 706,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_Progress": 133,
-  "Ranking_PopularitySum": 233,
-  "Ranking_Popularity": 302,
-  "Ranking_Rating": 379,
-  "Rating": 4.6,
+  "LastChanged_Achievements": "2023-05-05T15:05:16.9768034+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
+  "Rating": 4.6,
+  "Ranking_Rating": 379,
+  "Ranking_Popularity": 302,
+  "Ranking_PopularitySum": 233,
+  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Completed": 127,
+  "LastChanged": "2023-05-05T14:59:14.8455568+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfRatings": 706,
+  "NumberOfAwards": 923,
+  "NumberOfAwardsMax": 118,
+  "MaxAwardTitle": "Relaxing",
+  "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "going-medieval"
 }

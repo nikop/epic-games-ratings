@@ -413,13 +413,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T13:10:19.8100345+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:42.3593888+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T13:10:19.8100745+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:58.4262386+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:44.3279198+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:59.6953627+00:00",
   "AchievementSets": [
     {
       "ID": "c64if4d",
@@ -429,14 +429,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
-  "FirstSeen": "2023-04-28T08:58:19.1642953+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:04:44.3278774+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "Ranking_EOS_Progress": 356,
-  "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-28T08:58:19.164305+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-28T08:58:19.1642953+00:00",
+  "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "ash-of-gods-the-way-58bd36"
 }

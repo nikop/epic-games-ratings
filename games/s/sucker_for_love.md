@@ -1,4 +1,5 @@
 # Sucker for Love
+[Store](https://store.epicgames.com/en-US/p/sucker-for-love-1807d3)  
 [View Rawdata](../../db/s/sucker_for_love.json)  
 ## Achievements
 | Name | Percentage | Users |

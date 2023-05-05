@@ -1,15 +1,16 @@
 # DESTRUCTURE: Among Debris
+[Store](https://store.epicgames.com/en-US/p/destructure-among-debris-b4aaf8)  
 [View Rawdata](../../db/d/destructure__among_debris.json)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 74.00% | ~28 |
-| Graduation | 68.00% | ~26 |
-| You Have Been Deaded | 55.00% | ~21 |
+| Rookie | 74.00% | ~29 |
+| Graduation | 69.00% | ~27 |
+| You Have Been Deaded | 56.00% | ~22 |
 | Apprentice Destructor | 18.00% | ~7 |
-| I Prefer Jazz Fusion | 11.00% | ~4 |
+| I Prefer Jazz Fusion | 10.00% | ~4 |
+| You Are Actually Supposed To Use Those | 10.00% | ~4 |
 | Avaricerite | 8.00% | ~3 |
-| You Are Actually Supposed To Use Those | 8.00% | ~3 |
 | Master Destructor | 5.00% | ~2 |
 | Back From The Dead | 3.00% | ~1 |
 | Ball Galore | 3.00% | ~1 |
@@ -35,7 +36,7 @@
 | Victory That Is Even More True | 0.00% | ~0 |
 | What Even Are You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 280)  
+Progressed: 39 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +48,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 19 | 0 |
 | 2023-05-03 | 28 | 0 |
 | 2023-05-04 | 36 | 0 |
-| 2023-05-05 | 38 | 0 |
+| 2023-05-05 | 39 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

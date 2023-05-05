@@ -1,4 +1,5 @@
 # Planet Cube - Edge
+[Store](https://store.epicgames.com/en-US/p/planet-cube-edge-aac6d5)  
 [View Rawdata](../../db/p/planet_cube_-_edge.json)  
 ## Achievements
 | Name | Percentage | Users |

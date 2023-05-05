@@ -54,17 +54,17 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Clothes10",
@@ -166,9 +166,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Money10000",
@@ -182,17 +182,17 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PerfectGrade25",
@@ -206,9 +206,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "RecipeDifferent30",
@@ -262,17 +262,17 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UnlockAssiette",
@@ -318,9 +318,9 @@
       "ID": "WorkStation10",
       "SetID": "d1bm05f",
       "Name": "Well-Stocked Kitchen",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "Tags": [],
@@ -439,6 +439,11 @@
       "Time": "2023-05-05T13:10:38.3710269+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T14:04:49.2536194+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -451,31 +456,32 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T13:10:38.3710263+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:48.8499477+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_Completed": 0,
-  "EOS_Progressed": 39,
-  "LastUpdate_Achievements": "2023-05-05T13:10:38.3710594+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:08.3624924+00:00",
+  "EOS_Progressed": 40,
+  "LastUpdate_Achievements": "2023-05-05T15:04:58.157375+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:07.3057216+00:00",
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
-  "FirstSeen": "2023-02-23T19:57:35.9957332+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 277,
+  "LastChanged_Achievements": "2023-05-05T15:04:58.1573473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
+  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
+  "Ranking_EOS_NewPlayers": 135,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-02-23T19:57:35.9957332+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "chef-life-a-restaurant-simulator"
 }

@@ -1,6 +1,7 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
+[Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 634)  
+Rating: 4.43 (Ranked 635)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 276  (Ranked 226)  
 Sum: 2,089 (Ranked 181)  
@@ -8,20 +9,20 @@ Diff (max vs sum): 45
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,144 |
-| This is only the beginning | 19.00% | ~39,629 |
-| Knowledge is power | 12.00% | ~25,029 |
-| Power Ranger | 9.00% | ~18,772 |
-| Galvanic Rifle | 9.00% | ~18,772 |
-| Taser Goad | 9.00% | ~18,772 |
-| Radium Ready | 9.00% | ~18,772 |
-| Half a cog | 9.00% | ~18,772 |
+| No aid from the Omnissiah | 25.00% | ~52,148 |
+| This is only the beginning | 19.00% | ~39,632 |
+| Knowledge is power | 12.00% | ~25,031 |
+| Power Ranger | 9.00% | ~18,773 |
+| Galvanic Rifle | 9.00% | ~18,773 |
+| Taser Goad | 9.00% | ~18,773 |
+| Radium Ready | 9.00% | ~18,773 |
+| Half a cog | 9.00% | ~18,773 |
 | Watch them crumble | 6.00% | ~12,515 |
-| Competent Cohort | 4.00% | ~8,343 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,343 |
-| One with the Machine | 4.00% | ~8,343 |
-| Legio Cybernetica | 3.00% | ~6,257 |
-| Fleshy Disposal | 3.00% | ~6,257 |
+| Competent Cohort | 4.00% | ~8,344 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,344 |
+| One with the Machine | 4.00% | ~8,344 |
+| Legio Cybernetica | 3.00% | ~6,258 |
+| Fleshy Disposal | 3.00% | ~6,258 |
 | Battle Servitor | 2.00% | ~4,172 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,172 |
 | Impatient destruction | 2.00% | ~4,172 |
@@ -43,7 +44,7 @@ Diff (max vs sum): 45
 | Perma-live | 0.10% | ~209 |
 | Purge the Heretek | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,576 (Ranked 47)  
+Progressed: 208,591 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +59,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 208,286 | 2 |
 | 2023-05-03 | 208,404 | 2 |
 | 2023-05-04 | 208,520 | 2 |
-| 2023-05-05 | 208,576 | 2 |
+| 2023-05-05 | 208,591 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

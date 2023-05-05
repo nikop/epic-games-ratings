@@ -1,4 +1,5 @@
 # The Darkside Detective
+[Store](https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a)  
 [View Rawdata](../../db/t/the_darkside_detective.json)  
 ## Achievements
 | Name | Percentage | Users |

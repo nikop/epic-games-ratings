@@ -1,4 +1,5 @@
 # Star Trek Prodigy: Supernova
+[Store](https://store.epicgames.com/en-US/p/star-trek-prodigy-supernova-cdb770)  
 [View Rawdata](../../db/s/star_trek_prodigy__supernova.json)  
 ## Achievements
 | Name | Percentage | Users |

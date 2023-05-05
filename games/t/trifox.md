@@ -1,4 +1,5 @@
 # Trifox
+[Store](https://store.epicgames.com/en-US/p/trifox-b361b7)  
 [View Rawdata](../../db/t/trifox.json)  
 ## Achievements
 | Name | Percentage | Users |

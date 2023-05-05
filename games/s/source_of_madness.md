@@ -1,4 +1,5 @@
 # Source of Madness
+[Store](https://store.epicgames.com/en-US/p/source-of-madness-287857)  
 [View Rawdata](../../db/s/source_of_madness.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Bug Fables -The Everlasting Sapling-
+[Store](https://store.epicgames.com/en-US/p/bug-fables-the-everlasting-sapling-851aa9)  
 [View Rawdata](../../db/b/bug_fables_-the_everlasting_sapling-.json)  
 ## Achievements
 | Name | Percentage | Users |

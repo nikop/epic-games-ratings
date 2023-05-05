@@ -1,4 +1,5 @@
 # Full Metal Sergeant
+[Store](https://store.epicgames.com/en-US/p/full-metal-sergeant-f8e345)  
 [View Rawdata](../../db/f/full_metal_sergeant.json)  
 ## Achievements
 | Name | Percentage | Users |

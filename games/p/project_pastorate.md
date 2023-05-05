@@ -1,4 +1,5 @@
 # Project Pastorate
+[Store](https://store.epicgames.com/en-US/p/project-pastorate-6e8765)  
 [View Rawdata](../../db/p/project_pastorate.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # 60 Parsecs!
+[Store](https://store.epicgames.com/en-US/p/60-parsecs-0481c5)  
 [View Rawdata](../../db/6/60_parsecs!.json)  
 ## Achievements
 | Name | Percentage | Users |

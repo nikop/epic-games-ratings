@@ -1,4 +1,5 @@
 # The Case of the Golden Idol
+[Store](https://store.epicgames.com/en-US/p/the-case-of-the-golden-idol-ce58f7)  
 [View Rawdata](../../db/t/the_case_of_the_golden_idol.json)  
 ## Achievements
 | Name | Percentage | Users |

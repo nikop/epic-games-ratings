@@ -234,13 +234,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 26,
-  "LastChanged_Achievements": "2023-05-05T13:11:09.0865265+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:13.1270213+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 143,
-  "LastUpdate_Achievements": "2023-05-05T13:11:09.0865487+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:14.7232629+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:22.456643+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:30.7623858+00:00",
   "AchievementSets": [
     {
       "ID": "9kk0gal",
@@ -250,14 +250,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
-  "FirstSeen": "2023-01-11T22:57:22.4743186+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:05:22.4566237+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "Ranking_EOS_Progress": 237,
-  "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-01-11T22:57:22.4743186+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "children-of-silentown-52cc21"
 }

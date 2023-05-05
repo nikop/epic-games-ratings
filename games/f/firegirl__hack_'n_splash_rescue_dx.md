@@ -1,4 +1,5 @@
 # Firegirl: Hack 'n Splash Rescue DX
+[Store](https://store.epicgames.com/en-US/p/firegirl-29bf39)  
 [View Rawdata](../../db/f/firegirl__hack_'n_splash_rescue_dx.json)  
 ## Achievements
 | Name | Percentage | Users |

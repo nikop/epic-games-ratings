@@ -10,26 +10,26 @@ Diff (max vs sum): -56
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,464 |
-| Powergamer | 26.00% | ~58,002 |
-| Barely scratched the surface | 25.00% | ~55,771 |
-| Write that down | 24.00% | ~53,540 |
-| Guns, lots of guns | 12.00% | ~26,770 |
-| Collector | 11.00% | ~24,539 |
-| Elementary! | 8.00% | ~17,847 |
-| Pumpkin Jack | 8.00% | ~17,847 |
-| Wake up! | 8.00% | ~17,847 |
-| It's honest work | 7.00% | ~15,616 |
-| Griever | 7.00% | ~15,616 |
-| Me smart | 6.00% | ~13,385 |
-| Good listener | 5.00% | ~11,154 |
-| Trash compactor | 5.00% | ~11,154 |
-| Valedictorian | 5.00% | ~11,154 |
-| BOY! | 4.00% | ~8,923 |
-| Ka-ching! | 4.00% | ~8,923 |
-| I like to sniff around | 3.00% | ~6,693 |
-| Mind reader | 3.00% | ~6,693 |
-| So you like to read? | 3.00% | ~6,693 |
+| I will finish what you started | 28.00% | ~62,474 |
+| Powergamer | 26.00% | ~58,011 |
+| Barely scratched the surface | 25.00% | ~55,780 |
+| Write that down | 24.00% | ~53,549 |
+| Guns, lots of guns | 12.00% | ~26,774 |
+| Collector | 11.00% | ~24,543 |
+| Elementary! | 8.00% | ~17,850 |
+| Pumpkin Jack | 8.00% | ~17,850 |
+| Wake up! | 8.00% | ~17,850 |
+| It's honest work | 7.00% | ~15,618 |
+| Griever | 7.00% | ~15,618 |
+| Me smart | 6.00% | ~13,387 |
+| Good listener | 5.00% | ~11,156 |
+| Trash compactor | 5.00% | ~11,156 |
+| Valedictorian | 5.00% | ~11,156 |
+| BOY! | 4.00% | ~8,925 |
+| Ka-ching! | 4.00% | ~8,925 |
+| I like to sniff around | 3.00% | ~6,694 |
+| Mind reader | 3.00% | ~6,694 |
+| So you like to read? | 3.00% | ~6,694 |
 | Gentleman's classic | 2.00% | ~4,462 |
 | Hoarder | 2.00% | ~4,462 |
 | Is that a rift? | 2.00% | ~4,462 |
@@ -51,7 +51,7 @@ Diff (max vs sum): -56
 | Home run | 0.80% | ~1,785 |
 | It's blue, always blue | 0.70% | ~1,562 |
 | I have the high ground | 0.60% | ~1,339 |
-| Who wouldn't love a troll? | 0.50% | ~1,115 |
+| Who wouldn't love a troll? | 0.50% | ~1,116 |
 | Enjoy these little moments | 0.40% | ~892 |
 | Un-bear-able | 0.40% | ~892 |
 | Irondec | 0.30% | ~669 |
@@ -63,7 +63,7 @@ Diff (max vs sum): -56
 | This is the way | 0.20% | ~446 |
 | Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,085 (Ranked 42)  
+Progressed: 223,120 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
 | 2023-05-04 | 222,974 | 5 |
-| 2023-05-05 | 223,085 | 5 |
+| 2023-05-05 | 223,120 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

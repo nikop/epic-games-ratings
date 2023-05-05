@@ -23,7 +23,7 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 8.00% | ~43 |
 | Host | 8.00% | ~10 |
 | Jawstag | 8.00% | ~43 |
-| Celebration | 6.00% | ~32 |
+| Celebration | 7.00% | ~38 |
 | Inevitable | 6.00% | ~32 |
 | Watcher | 6.00% | ~32 |
 | Predator | 6.00% | ~32 |
@@ -33,10 +33,10 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 5.00% | ~27 |
 | Hush | 5.00% | ~27 |
 | All-Seeing | 5.00% | ~27 |
+| Passage | 5.00% | ~27 |
 | Kin | 5.00% | ~6 |
 | Kinship | 4.00% | ~21 |
 | Unwrap the Gift | 4.00% | ~21 |
-| Passage | 4.00% | ~21 |
 | Weakness | 3.00% | ~16 |
 | Breathsmith | 3.00% | ~16 |
 | Proportions | 3.00% | ~16 |

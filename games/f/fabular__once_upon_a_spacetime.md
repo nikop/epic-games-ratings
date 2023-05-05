@@ -1,4 +1,5 @@
 # Fabular: Once Upon a Spacetime
+[Store](https://store.epicgames.com/en-US/p/fabular-once-upon-a-spacetime-b73ba1)  
 [View Rawdata](../../db/f/fabular__once_upon_a_spacetime.json)  
 ## Achievements
 | Name | Percentage | Users |

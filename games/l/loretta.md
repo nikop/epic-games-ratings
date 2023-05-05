@@ -1,4 +1,5 @@
 # Loretta
+[Store](https://store.epicgames.com/en-US/p/loretta-0099a6)  
 [View Rawdata](../../db/l/loretta.json)  
 ## Achievements
 | Name | Percentage | Users |

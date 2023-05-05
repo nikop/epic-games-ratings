@@ -1,4 +1,5 @@
 # Camp Sunshine
+[Store](https://store.epicgames.com/en-US/p/camp-sunshine-fee104)  
 [View Rawdata](../../db/c/camp_sunshine.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -8,7 +8,7 @@
       "Name": "Coin collector",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -24,7 +24,7 @@
       "Name": "Treasure hunter",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Achievement_Hexy",
@@ -48,7 +48,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Achievement_Notes",
@@ -56,7 +56,7 @@
       "Name": "Historian",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Achievement_Prickly",
@@ -64,15 +64,15 @@
       "Name": "Prickly situation handler",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Achievement_Race1",
       "SetID": "cn6a29l",
       "Name": "On foot racer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_RaceAll",
@@ -102,9 +102,9 @@
       "ID": "Achievement_TimeTrial",
       "SetID": "cn6a29l",
       "Name": "Speedrunner",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement_Wrintry",
@@ -158,9 +158,9 @@
       "ID": "Achievement_float",
       "SetID": "cn6a29l",
       "Name": "Floater",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "Achievement_hat",
@@ -168,7 +168,7 @@
       "Name": "Hat lover",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Achievement_healthup",
@@ -214,9 +214,9 @@
       "ID": "Achievement_perfectionist",
       "SetID": "cn6a29l",
       "Name": "Perfectionist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Achievement_photofirstperson",
@@ -230,9 +230,9 @@
       "ID": "Achievement_photoselfie",
       "SetID": "cn6a29l",
       "Name": "Model",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement_tank",
@@ -257,6 +257,11 @@
       "Time": "2023-04-25T16:09:55.639606+00:00",
       "NumProgressed": 192,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T13:42:11.5956902+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -269,30 +274,32 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-05T13:11:00.0309455+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:56.0571276+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_Completed": 3,
-  "EOS_Progressed": 192,
-  "LastUpdate_Achievements": "2023-05-05T13:11:00.0309709+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:48.7328189+00:00",
+  "EOS_Progressed": 193,
+  "LastUpdate_Achievements": "2023-05-05T15:05:15.6595359+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:13.148642+00:00",
   "AchievementSets": [
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 1.56,
-  "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
-  "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 64,
+  "EOS_Completed_Percentage": 1.55,
+  "LastChanged_Achievements": "2023-05-05T15:05:15.659515+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "Ranking_EOS_Progress": 223,
-  "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00"
+  "Ranking_EOS_Completed": 64,
+  "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
+  "Ranking_EOS_NewPlayers": 231,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "frogun-9cf69e"
 }

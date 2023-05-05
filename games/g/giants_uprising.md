@@ -1,4 +1,5 @@
 # Giants Uprising
+[Store](https://store.epicgames.com/en-US/p/giants-uprising-5c1535)  
 [View Rawdata](../../db/g/giants_uprising.json)  
 ## Achievements
 | Name | Percentage | Users |

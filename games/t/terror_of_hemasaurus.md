@@ -1,4 +1,5 @@
 # Terror of Hemasaurus
+[Store](https://store.epicgames.com/en-US/p/terror-of-hemasaurus-a08800)  
 [View Rawdata](../../db/t/terror_of_hemasaurus.json)  
 ## Achievements
 | Name | Percentage | Users |

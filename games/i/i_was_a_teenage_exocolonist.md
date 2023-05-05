@@ -1,4 +1,5 @@
 # I Was a Teenage Exocolonist
+[Store](https://store.epicgames.com/en-US/p/i-was-a-teenage-exocolonist-20625e)  
 [View Rawdata](../../db/i/i_was_a_teenage_exocolonist.json)  
 Rating: 4.68 (Ranked 234)  
 ## Achievements

@@ -1,4 +1,5 @@
 # Tyrants Blessing
+[Store](https://store.epicgames.com/en-US/p/tyrants-blessing-02fddd)  
 [View Rawdata](../../db/t/tyrants_blessing.json)  
 ## Achievements
 | Name | Percentage | Users |

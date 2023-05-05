@@ -1,4 +1,5 @@
 # Kaichu - The Kaiju Dating Sim
+[Store](https://store.epicgames.com/en-US/p/kaichu-the-kaiju-dating-sim-531fb7)  
 [View Rawdata](../../db/k/kaichu_-_the_kaiju_dating_sim.json)  
 ## Achievements
 | Name | Percentage | Users |

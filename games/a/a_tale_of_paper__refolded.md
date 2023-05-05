@@ -1,4 +1,5 @@
 # A Tale of Paper: Refolded
+[Store](https://store.epicgames.com/en-US/p/a-tale-of-paper-refolded-edition-39dd94)  
 [View Rawdata](../../db/a/a_tale_of_paper__refolded.json)  
 ## Achievements
 | Name | Percentage | Users |

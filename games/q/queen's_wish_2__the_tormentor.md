@@ -1,4 +1,5 @@
 # Queen's Wish 2: The Tormentor
+[Store](https://store.epicgames.com/en-US/p/queens-wish-2-the-tormentor-cbac44)  
 [View Rawdata](../../db/q/queen's_wish_2__the_tormentor.json)  
 ## Achievements
 | Name | Percentage | Users |

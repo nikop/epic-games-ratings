@@ -1,4 +1,5 @@
 # Grand Tactician The Civil War 1861-1865
+[Store](https://store.epicgames.com/en-US/p/grand-tactician-the-civil-war-18611865-6c21fc)  
 [View Rawdata](../../db/g/grand_tactician_the_civil_war_1861-1865.json)  
 Rating: 4.15 (Ranked 838)  
 Number of Ratings: 29  (23.09.2022)  

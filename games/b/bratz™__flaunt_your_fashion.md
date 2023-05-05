@@ -1,4 +1,5 @@
 # Bratz™: Flaunt Your Fashion
+[Store](https://store.epicgames.com/en-US/p/bratz-flaunt-your-fashion-95d529)  
 [View Rawdata](../../db/b/bratz™__flaunt_your_fashion.json)  
 ## Achievements
 | Name | Percentage | Users |

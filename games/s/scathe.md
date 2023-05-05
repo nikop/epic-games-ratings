@@ -1,4 +1,5 @@
 # Scathe
+[Store](https://store.epicgames.com/en-US/p/scathe-ca258f)  
 [View Rawdata](../../db/s/scathe.json)  
 ## Achievements
 | Name | Percentage | Users |

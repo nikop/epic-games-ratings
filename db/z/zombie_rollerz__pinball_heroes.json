@@ -625,13 +625,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 73,
-  "LastChanged_Achievements": "2023-05-05T13:10:39.3181609+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:03.1728578+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-05T13:10:39.3182337+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:00.6127983+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:59.1985726+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:18.3181641+00:00",
   "AchievementSets": [
     {
       "ID": "89cjc9l",
@@ -641,14 +641,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
-  "FirstSeen": "2022-07-22T20:17:18.8444158+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:04:59.198498+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "Ranking_EOS_Progress": 269,
-  "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
+  "Ranking_EOS_NewPlayers": 202,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:17:18.8444158+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "zombie-rollerz-7aa027"
 }

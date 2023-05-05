@@ -1,4 +1,5 @@
 # Cafe Owner Simulator
+[Store](https://store.epicgames.com/en-US/p/cafe-owner-simulator-749e0f)  
 [View Rawdata](../../db/c/cafe_owner_simulator.json)  
 ## Achievements
 | Name | Percentage | Users |
@@ -6,7 +7,7 @@
 | BUSINESS OWNER | 98.00% | ~232 |
 | CLEANER | 93.00% | ~220 |
 | OH NO, HE'S LEAVING! | 72.00% | ~171 |
-| FIREFIGHTER | 49.00% | ~116 |
+| FIREFIGHTER | 50.00% | ~118 |
 | ADVANCED | 35.00% | ~83 |
 | CHIEF | 17.00% | ~40 |
 | SECOND_FLOOR | 11.00% | ~26 |

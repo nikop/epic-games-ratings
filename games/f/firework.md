@@ -1,4 +1,5 @@
 # Firework
+[Store](https://store.epicgames.com/en-US/p/firework-a03fdc)  
 [View Rawdata](../../db/f/firework.json)  
 Rating: 4.89 (Ranked 12)  
 ## Achievements

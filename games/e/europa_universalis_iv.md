@@ -5,51 +5,51 @@ Rating: 4.68 (Ranked 234)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,170  (Ranked 60)  
-Sum: 42,737 (Ranked 26)  
+Sum: 42,771 (Ranked 26)  
 Diff (max vs sum): 34  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,671 |
-| That's a Grand Army | 8.00% | ~2,375 |
-| That is mine! | 8.00% | ~2,375 |
-| Victorious! | 8.00% | ~2,375 |
-| Brothers in Arms | 6.00% | ~1,781 |
-| That's a Grand Navy | 6.00% | ~1,781 |
-| Seriously?! | 6.00% | ~1,781 |
-| For the Glory | 5.00% | ~1,484 |
-| Cold War | 4.00% | ~1,187 |
-| Defender of the Faith | 3.00% | ~890 |
-| It's all about the money | 3.00% | ~890 |
-| Respected | 3.00% | ~890 |
-| True Catholic | 3.00% | ~890 |
-| Blockader | 2.00% | ~594 |
-| Combined Arms | 2.00% | ~594 |
-| Double the Love | 2.00% | ~594 |
-| Gentle Persuasion | 2.00% | ~594 |
-| It's all about luck | 2.00% | ~594 |
-| Queen of Conquest | 2.00% | ~594 |
-| Royal Authority | 2.00% | ~594 |
-| The Princess is in this Castle | 2.00% | ~594 |
-| Total Control | 2.00% | ~594 |
-| Truly Divine Ruler | 2.00% | ~594 |
-| Agressive Expander | 1.00% | ~297 |
-| Azur semé de lis or | 1.00% | ~297 |
-| Bright Spark | 1.00% | ~297 |
-| Factionalism | 1.00% | ~297 |
-| A Golden Empire | 1.00% | ~297 |
-| My armies are invincible! | 1.00% | ~297 |
-| All That's Thine Shall Be Mine | 0.90% | ~267 |
-| City of Cities | 0.90% | ~267 |
-| Isn't this the way to India? | 0.70% | ~208 |
-| The Five Colonies | 0.70% | ~208 |
-| The Emperors new clothes | 0.60% | ~178 |
-| Market Control | 0.60% | ~178 |
-| Down Under | 0.50% | ~148 |
-| Electable! | 0.50% | ~148 |
-| This navy can take it all | 0.50% | ~148 |
-| Time Bandit | 0.50% | ~148 |
-| Trustworthy | 0.50% | ~148 |
+| Until death do us apart | 9.00% | ~2,681 |
+| That's a Grand Army | 8.00% | ~2,383 |
+| That is mine! | 8.00% | ~2,383 |
+| Victorious! | 8.00% | ~2,383 |
+| Brothers in Arms | 6.00% | ~1,787 |
+| That's a Grand Navy | 6.00% | ~1,787 |
+| Seriously?! | 6.00% | ~1,787 |
+| For the Glory | 5.00% | ~1,489 |
+| Cold War | 4.00% | ~1,191 |
+| Defender of the Faith | 3.00% | ~894 |
+| It's all about the money | 3.00% | ~894 |
+| Respected | 3.00% | ~894 |
+| True Catholic | 3.00% | ~894 |
+| Blockader | 2.00% | ~596 |
+| Combined Arms | 2.00% | ~596 |
+| Double the Love | 2.00% | ~596 |
+| Gentle Persuasion | 2.00% | ~596 |
+| It's all about luck | 2.00% | ~596 |
+| Queen of Conquest | 2.00% | ~596 |
+| Royal Authority | 2.00% | ~596 |
+| The Princess is in this Castle | 2.00% | ~596 |
+| Total Control | 2.00% | ~596 |
+| Truly Divine Ruler | 2.00% | ~596 |
+| Agressive Expander | 1.00% | ~298 |
+| Azur semé de lis or | 1.00% | ~298 |
+| Bright Spark | 1.00% | ~298 |
+| Factionalism | 1.00% | ~298 |
+| A Golden Empire | 1.00% | ~298 |
+| My armies are invincible! | 1.00% | ~298 |
+| All That's Thine Shall Be Mine | 0.90% | ~268 |
+| City of Cities | 0.90% | ~268 |
+| Isn't this the way to India? | 0.70% | ~209 |
+| The Five Colonies | 0.70% | ~209 |
+| The Emperors new clothes | 0.60% | ~179 |
+| Market Control | 0.60% | ~179 |
+| This navy can take it all | 0.60% | ~179 |
+| Down Under | 0.50% | ~149 |
+| Electable! | 0.50% | ~149 |
+| Time Bandit | 0.50% | ~149 |
+| Trustworthy | 0.50% | ~149 |
 | All belongs to Mother Russia | 0.40% | ~119 |
 | At every continent | 0.40% | ~119 |
 | Early-Modern Warfare | 0.40% | ~119 |
@@ -67,26 +67,27 @@ Diff (max vs sum): 34
 | The Continuation of Diplomacy | 0.30% | ~89 |
 | This is My Faith | 0.30% | ~89 |
 | Voting Streak | 0.30% | ~89 |
-| A Decent Reserve | 0.20% | ~59 |
-| A Pile of Gold | 0.20% | ~59 |
-| All Your Trade Are Belong to Us | 0.20% | ~59 |
-| Bleed Them Dry | 0.20% | ~59 |
-| Four For Trade | 0.20% | ~59 |
-| Global Hegemony | 0.20% | ~59 |
-| Grand Coalition | 0.20% | ~59 |
-| Grand Duchy | 0.20% | ~59 |
-| Imperio español | 0.20% | ~59 |
-| Italian Ambition | 0.20% | ~59 |
-| Magellan’s Voyage | 0.20% | ~59 |
-| Multiculturalism | 0.20% | ~59 |
-| No Pirates in my Caribbean | 0.20% | ~59 |
-| Not so sad a state... | 0.20% | ~59 |
-| The Chrysanthemum Throne | 0.20% | ~59 |
-| Three Trivial Tributary Tribes | 0.20% | ~59 |
-| Traditional Player | 0.20% | ~59 |
-| Vasa or Wettin? | 0.20% | ~59 |
-| Wonderful | 0.20% | ~59 |
-| World Discoverer | 0.20% | ~59 |
+| A Decent Reserve | 0.20% | ~60 |
+| A Pile of Gold | 0.20% | ~60 |
+| All Your Trade Are Belong to Us | 0.20% | ~60 |
+| Bleed Them Dry | 0.20% | ~60 |
+| Four For Trade | 0.20% | ~60 |
+| Global Hegemony | 0.20% | ~60 |
+| Grand Coalition | 0.20% | ~60 |
+| Grand Duchy | 0.20% | ~60 |
+| Imperio español | 0.20% | ~60 |
+| Italian Ambition | 0.20% | ~60 |
+| Just a Little Patience | 0.20% | ~60 |
+| Magellan’s Voyage | 0.20% | ~60 |
+| Multiculturalism | 0.20% | ~60 |
+| No Pirates in my Caribbean | 0.20% | ~60 |
+| Not so sad a state... | 0.20% | ~60 |
+| The Chrysanthemum Throne | 0.20% | ~60 |
+| Three Trivial Tributary Tribes | 0.20% | ~60 |
+| Traditional Player | 0.20% | ~60 |
+| Vasa or Wettin? | 0.20% | ~60 |
+| Wonderful | 0.20% | ~60 |
+| World Discoverer | 0.20% | ~60 |
 | A Blessed Nation | 0.10% | ~30 |
 | A Hero’s Welcome | 0.10% | ~30 |
 | A Manchurian Candidate | 0.10% | ~30 |
@@ -117,6 +118,7 @@ Diff (max vs sum): 34
 | Center of Attention | 0.10% | ~30 |
 | Cherrypicking | 0.10% | ~30 |
 | Chop Chop | 0.10% | ~30 |
+| Choson One | 0.10% | ~30 |
 | Cities of Cibola | 0.10% | ~30 |
 | Colonial Management | 0.10% | ~30 |
 | Consulate of the Sea | 0.10% | ~30 |
@@ -160,7 +162,6 @@ Diff (max vs sum): 34
 | Industrial Powerhouse | 0.10% | ~30 |
 | The Iron Price | 0.10% | ~30 |
 | Je maintiendrai | 0.10% | ~30 |
-| Just a Little Patience | 0.10% | ~30 |
 | Just Resting In My Account | 0.10% | ~30 |
 | A Kaiser not just in name | 0.10% | ~30 |
 | Keep the Flame Burning | 0.10% | ~30 |
@@ -279,7 +280,6 @@ Diff (max vs sum): 34
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
-| Choson One | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,683 (Ranked 82)  
+Progressed: 29,787 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,19 +380,19 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,683 | 0 |
+| 2023-05-05 | 29,787 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,170 |
 | This game is Highly Recommended | 4,953 |
-| This game has Challenging Combat | 4,930 |
-| This game is Extremely Fun | 4,896 |
+| This game has Challenging Combat | 4,939 |
+| This game is Extremely Fun | 4,910 |
 | This game has Diverse Characters | 4,859 |
 | This game is Relaxing | 4,816 |
 | This game has Competitive Players | 4,636 |
 | This game has Amazing Storytelling | 4,404 |
-| This game has Amazing Characters | 4,073 |
+| This game has Amazing Characters | 4,084 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -505,4 +505,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
-| 2023-05-05 | 4.68 | - | 5,170 | 42,737 |
+| 2023-05-05 | 4.68 | - | 5,170 | 42,771 |

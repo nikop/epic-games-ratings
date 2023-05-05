@@ -403,13 +403,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T13:10:20.6517767+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:43.7664073+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-05T13:10:20.6518304+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:28.9061898+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:44.9661077+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:00.6192298+00:00",
   "AchievementSets": [
     {
       "ID": "4fgie3j",
@@ -419,9 +419,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:04:44.966067+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
   "Ranking_EOS_Progress": 306,
-  "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00"
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "chaos-galaxy-a33dac"
 }

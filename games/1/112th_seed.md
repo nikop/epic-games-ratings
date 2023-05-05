@@ -1,4 +1,5 @@
 # 112th Seed
+[Store](https://store.epicgames.com/en-US/p/112th-seed-6292ea)  
 [View Rawdata](../../db/1/112th_seed.json)  
 ## Achievements
 | Name | Percentage | Users |

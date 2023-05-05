@@ -5,7 +5,7 @@ Rating: 4.49 (Ranked 549)
 Number of Ratings: 474  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 83  (Ranked 343)  
-Sum: 596 (Ranked 276)  
+Sum: 597 (Ranked 276)  
 Diff (max vs sum): 67  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,7 +21,7 @@ Diff (max vs sum): 67
 | This game has Amazing Storytelling | 62 |
 | This game has Challenging Combat | 56 |
 | This game has Diverse Characters | 55 |
-| This game has Playful Visuals | 54 |
+| This game has Playful Visuals | 55 |
 | This game has Amazing Characters | 48 |
 | This game has a Creative Community | 22 |
 ## Ratings History
@@ -105,4 +105,4 @@ Diff (max vs sum): 67
 | 2023-04-25 | 4.49 | - | 82 | 593 |
 | 2023-04-28 | 4.49 | - | 83 | 594 |
 | 2023-05-04 | 4.49 | - | 83 | 595 |
-| 2023-05-05 | 4.49 | - | 83 | 596 |
+| 2023-05-05 | 4.49 | - | 83 | 597 |

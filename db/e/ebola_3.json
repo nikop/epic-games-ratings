@@ -206,9 +206,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "achLizun",
@@ -886,13 +886,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T13:11:15.583191+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:21.2179363+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_Completed": 0,
   "EOS_Progressed": 125,
-  "LastUpdate_Achievements": "2023-05-05T13:11:15.5832403+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:27.0657277+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:27.3369943+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:39.2624328+00:00",
   "AchievementSets": [
     {
       "ID": "72gjli4",
@@ -902,14 +902,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
-  "FirstSeen": "2023-04-27T18:00:42.6973754+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:05:27.3369535+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "Ranking_EOS_Progress": 243,
-  "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
+  "Ranking_EOS_NewPlayers": 120,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-27T18:00:42.6973754+00:00",
+  "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "ebola-3-2c79e9"
 }

@@ -1,4 +1,5 @@
 # Kredolis
+[Store](https://store.epicgames.com/en-US/p/kredolis-cbd516)  
 [View Rawdata](../../db/k/kredolis.json)  
 ## Achievements
 | Name | Percentage | Users |

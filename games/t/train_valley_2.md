@@ -1,4 +1,5 @@
 # Train Valley 2
+[Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
 Rating: 4.15 (Ranked 838)  
 Number of Ratings: 87  (23.09.2022)  
@@ -85,7 +86,7 @@ Diff (max vs sum): -56
 | Jeweller | 0.00% | ~0 |
 | The Hare with an espresso | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697 (Ranked 173)  
+Progressed: 697 (Ranked 174)  
 Completed: 1 (0.14%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,4 +1,5 @@
 # The Galactic Junkers
+[Store](https://store.epicgames.com/en-US/p/the-galactic-junkers-7fef21)  
 [View Rawdata](../../db/t/the_galactic_junkers.json)  
 ## Achievements
 | Name | Percentage | Users |

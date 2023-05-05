@@ -1,4 +1,5 @@
 # Disciples Rise of the Elves Gold
+[Store](https://store.epicgames.com/en-US/p/disciples-rise-of-the-elves-gold-669f54)  
 [View Rawdata](../../db/d/disciples_rise_of_the_elves_gold.json)  
 ## Achievements
 | Name | Percentage | Users |

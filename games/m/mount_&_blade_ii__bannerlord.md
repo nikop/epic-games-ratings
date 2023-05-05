@@ -10,36 +10,36 @@ Diff (max vs sum): -19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,607 |
-| Landlord | 29.00% | ~14,164 |
-| Bannerlord | 20.00% | ~9,769 |
-| Horde breaker | 20.00% | ~9,769 |
-| Lawmaker | 20.00% | ~9,769 |
-| Trained | 19.00% | ~9,280 |
-| The king is pleased | 16.00% | ~7,815 |
-| King Solomon | 15.00% | ~7,326 |
-| I can do it | 14.00% | ~6,838 |
-| Apple of my eye | 13.00% | ~6,350 |
-| God of the Arena | 12.00% | ~5,861 |
-| Against all odds | 9.00% | ~4,396 |
-| Swordbearer | 9.00% | ~4,396 |
-| Duelist | 8.00% | ~3,907 |
-| Dynasty | 8.00% | ~3,907 |
-| I spit on your grave | 8.00% | ~3,907 |
-| Butterlord | 7.00% | ~3,419 |
-| What have the Romans ever done for us? | 7.00% | ~3,419 |
+| Lawbringer | 34.00% | ~16,611 |
+| Landlord | 29.00% | ~14,168 |
+| Bannerlord | 20.00% | ~9,771 |
+| Horde breaker | 20.00% | ~9,771 |
+| Lawmaker | 20.00% | ~9,771 |
+| Trained | 19.00% | ~9,283 |
+| The king is pleased | 16.00% | ~7,817 |
+| King Solomon | 15.00% | ~7,328 |
+| I can do it | 14.00% | ~6,840 |
+| Apple of my eye | 13.00% | ~6,351 |
+| God of the Arena | 12.00% | ~5,863 |
+| Against all odds | 9.00% | ~4,397 |
+| Swordbearer | 9.00% | ~4,397 |
+| Duelist | 8.00% | ~3,908 |
+| Dynasty | 8.00% | ~3,908 |
+| I spit on your grave | 8.00% | ~3,908 |
+| Butterlord | 7.00% | ~3,420 |
+| What have the Romans ever done for us? | 7.00% | ~3,420 |
 | Mastery | 6.00% | ~2,931 |
-| Know your enemy | 5.00% | ~2,442 |
-| This Is Our Land | 5.00% | ~2,442 |
+| Know your enemy | 5.00% | ~2,443 |
+| This Is Our Land | 5.00% | ~2,443 |
 | Crush your enemies | 4.00% | ~1,954 |
 | My way | 4.00% | ~1,954 |
 | Veni vidi vici | 4.00% | ~1,954 |
-| Crowdfunded | 3.00% | ~1,465 |
-| Freedom! | 3.00% | ~1,465 |
+| Crowdfunded | 3.00% | ~1,466 |
+| Freedom! | 3.00% | ~1,466 |
 | Entrepreneur | 2.00% | ~977 |
 | Long live the Empire! | 2.00% | ~977 |
 | Real Estate | 2.00% | ~977 |
-| Supreme Emperor | 1.00% | ~488 |
+| Supreme Emperor | 1.00% | ~489 |
 | Crackshot | 0.70% | ~342 |
 | Undercover | 0.70% | ~342 |
 | Fat Cat | 0.60% | ~293 |
@@ -62,7 +62,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,843 (Ranked 73)  
+Progressed: 48,856 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,843 | 0 |
+| 2023-05-05 | 48,856 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

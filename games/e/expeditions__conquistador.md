@@ -1,4 +1,5 @@
 # Expeditions: Conquistador
+[Store](https://store.epicgames.com/en-US/p/expeditions-conquistador)  
 [View Rawdata](../../db/e/expeditions__conquistador.json)  
 ## Achievements
 | Name | Percentage | Users |

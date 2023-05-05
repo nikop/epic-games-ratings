@@ -458,13 +458,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-05T13:10:09.8372609+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:37.4792521+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
   "EOS_Progressed": 51,
-  "LastUpdate_Achievements": "2023-05-05T13:10:09.837305+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:02:50.8708875+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:36.850012+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:57:54.8218958+00:00",
   "AchievementSets": [
     {
       "ID": "6finf64",
@@ -474,14 +474,16 @@
     }
   ],
   "EOS_Completed_Percentage": 1.96,
-  "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
-  "FirstSeen": "2022-07-22T20:20:38.213412+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_Completed": 56,
+  "LastChanged_Achievements": "2023-05-05T15:04:36.8499617+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "Ranking_EOS_Progress": 273,
-  "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00"
+  "Ranking_EOS_Completed": 56,
+  "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
+  "Ranking_EOS_NewPlayers": 231,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:20:38.213412+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "a-musical-story-973128"
 }

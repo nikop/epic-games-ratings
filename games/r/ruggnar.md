@@ -1,4 +1,5 @@
 # Ruggnar
+[Store](https://store.epicgames.com/en-US/p/ruggnar-06d06b)  
 [View Rawdata](../../db/r/ruggnar.json)  
 ## Achievements
 | Name | Percentage | Users |

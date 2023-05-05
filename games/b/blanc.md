@@ -1,4 +1,5 @@
 # Blanc
+[Store](https://store.epicgames.com/en-US/p/blanc-703b40)  
 [View Rawdata](../../db/b/blanc.json)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,7 +19,7 @@
 | Another ride! | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,799 (Ranked 146)  
-Completed: 4 (0.22%) (Ranked 127)  
+Completed: 4 (0.22%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,4 +1,5 @@
 # Guardians of Hyelore
+[Store](https://store.epicgames.com/en-US/p/guardians-of-hyelore-0b07d3)  
 [View Rawdata](../../db/g/guardians_of_hyelore.json)  
 ## Achievements
 | Name | Percentage | Users |

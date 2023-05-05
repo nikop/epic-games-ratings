@@ -1,4 +1,5 @@
 # Jitsu Squad
+[Store](https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f)  
 [View Rawdata](../../db/j/jitsu_squad.json)  
 ## Achievements
 | Name | Percentage | Users |

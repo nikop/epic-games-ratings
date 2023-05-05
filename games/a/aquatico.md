@@ -1,4 +1,5 @@
 # Aquatico
+[Store](https://store.epicgames.com/en-US/p/aquatico-b4f0ce)  
 [View Rawdata](../../db/a/aquatico.json)  
 ## Achievements
 | Name | Percentage | Users |

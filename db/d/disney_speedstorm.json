@@ -126,9 +126,9 @@
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 603
+      "UsersEstimate": 626
     },
     {
       "ID": "24",
@@ -142,9 +142,9 @@
       "ID": "3",
       "SetID": "9p3jgda",
       "Name": "FRIENDLY",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "4",
@@ -174,17 +174,17 @@
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 65,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
       "SetID": "9p3jgda",
       "Name": "ACE TRICKSTER",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 70
     },
     {
       "ID": "9",
@@ -1076,13 +1076,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T13:10:44.319369+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:11.5198354+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 453,
   "EOS_Completed": 0,
   "EOS_Progressed": 2320,
-  "LastUpdate_Achievements": "2023-05-05T13:10:44.3193925+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:41.1188574+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:03.119866+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:28.9851829+00:00",
   "AchievementSets": [
     {
       "ID": "9p3jgda",
@@ -1092,10 +1092,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 136,
+  "LastChanged_Achievements": "2023-05-05T15:05:03.1198456+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
+  "Ranking_EOS_Progress": 136,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "disney-speedstorm"
 }

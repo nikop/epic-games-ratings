@@ -13,7 +13,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6221
+      "Count": 6228
     },
     {
       "Text": "This game is Educational",
@@ -37,13 +37,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5088
+      "Count": 5094
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5092
+      "Count": 5096
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4180,31 +4180,44 @@
       "Rating": 4.71,
       "NumberOfAwards": 47093,
       "NumberOfAwardsMax": 6221
+    },
+    {
+      "Time": "2023-05-05T13:35:13.4837068+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 47097,
+      "NumberOfAwardsMax": 6221
+    },
+    {
+      "Time": "2023-05-05T14:58:38.1900332+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 47110,
+      "NumberOfAwardsMax": 6228
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:32:20.303699+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:08:35.7135878+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:54.3460001+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:03:31.6765918+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:38.1900337+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T10:58:52.6978791+00:00",
-  "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 6221,
-  "NumberOfAwards": 47093,
-  "NumberOfRatings": 16706,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_PopularitySum": 24,
-  "Ranking_Popularity": 51,
-  "Ranking_Rating": 178,
   "Rating": 4.71,
+  "Ranking_Rating": 178,
+  "Ranking_Popularity": 51,
+  "Ranking_PopularitySum": 24,
+  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-05-05T14:58:38.1900329+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfRatings": 16706,
+  "NumberOfAwards": 47110,
+  "NumberOfAwardsMax": 6228,
+  "MaxAwardTitle": "Great for Beginners",
+  "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
+  "Ranking_EOS_NewCompleters": 77,
   "ProductSlug": "farming-simulator-19"
 }

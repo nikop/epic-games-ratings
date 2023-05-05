@@ -1,4 +1,5 @@
 # King's Bounty: The Legend
+[Store](https://store.epicgames.com/en-US/p/kings-bounty-the-legend-b69320)  
 [View Rawdata](../../db/k/king's_bounty__the_legend.json)  
 Rating: 4.76 (Ranked 114)  
 Number of Ratings: 48  (23.09.2022)  

@@ -1,4 +1,5 @@
 # Godstrike
+[Store](https://store.epicgames.com/en-US/p/godstrike-dad86e)  
 [View Rawdata](../../db/g/godstrike.json)  
 ## Achievements
 | Name | Percentage | Users |

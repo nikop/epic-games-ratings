@@ -22,10 +22,10 @@
 | You're it | 26.00% | ~77 |
 | First Come, First Serve | 25.00% | ~74 |
 | Disoriented | 25.00% | ~74 |
+| Take that Frosty! | 25.00% | ~74 |
 | Beach Party! | 25.00% | ~74 |
 | In the Bag! | 25.00% | ~74 |
 | Anger Issues | 24.00% | ~72 |
-| Take that Frosty! | 24.00% | ~72 |
 | Goodbye cruel world | 24.00% | ~72 |
 | Car-Tapult | 23.00% | ~69 |
 | Your Highness | 23.00% | ~69 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 205)  
+Progressed: 298 (Ranked 206)  
 Completed: 2 (0.67%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |

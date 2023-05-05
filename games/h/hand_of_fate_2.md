@@ -10,34 +10,34 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,049 |
-| Apprentice | 58.00% | ~380,262 |
-| Close Shave | 25.00% | ~163,906 |
-| Mercenary | 23.00% | ~150,794 |
-| Ninja | 23.00% | ~150,794 |
-| Northern Scourge | 17.00% | ~111,456 |
-| Thief Bane | 14.00% | ~91,787 |
-| Master of Arms | 12.00% | ~78,675 |
-| Gambler | 10.00% | ~65,562 |
-| Dice Master | 10.00% | ~65,562 |
-| Swordsman | 9.00% | ~59,006 |
-| Knight | 8.00% | ~52,450 |
-| Cure for Corruption | 8.00% | ~52,450 |
-| Focused | 8.00% | ~52,450 |
-| Flurry of Fury | 8.00% | ~52,450 |
+| The Fool | 72.00% | ~472,056 |
+| Apprentice | 58.00% | ~380,267 |
+| Close Shave | 25.00% | ~163,908 |
+| Mercenary | 23.00% | ~150,796 |
+| Ninja | 23.00% | ~150,796 |
+| Northern Scourge | 17.00% | ~111,458 |
+| Thief Bane | 14.00% | ~91,789 |
+| Master of Arms | 12.00% | ~78,676 |
+| Gambler | 10.00% | ~65,563 |
+| Dice Master | 10.00% | ~65,563 |
+| Swordsman | 9.00% | ~59,007 |
+| Knight | 8.00% | ~52,451 |
+| Cure for Corruption | 8.00% | ~52,451 |
+| Focused | 8.00% | ~52,451 |
+| Flurry of Fury | 8.00% | ~52,451 |
 | Long Shot | 7.00% | ~45,894 |
 | Devil Dice | 7.00% | ~45,894 |
-| Adventurer | 6.00% | ~39,337 |
-| Empire's Bane | 6.00% | ~39,337 |
-| Broken Heart | 6.00% | ~39,337 |
-| Jack of all Trades | 5.00% | ~32,781 |
-| Smithy | 5.00% | ~32,781 |
+| Adventurer | 6.00% | ~39,338 |
+| Empire's Bane | 6.00% | ~39,338 |
+| Broken Heart | 6.00% | ~39,338 |
+| Jack of all Trades | 5.00% | ~32,782 |
+| Smithy | 5.00% | ~32,782 |
 | Leap of Faith | 3.00% | ~19,669 |
 | Combat Ready | 3.00% | ~19,669 |
 | Stuffed Potato | 3.00% | ~19,669 |
-| Card Sharp | 2.00% | ~13,112 |
-| Magician | 2.00% | ~13,112 |
-| Draknar's Bane | 2.00% | ~13,112 |
+| Card Sharp | 2.00% | ~13,113 |
+| Magician | 2.00% | ~13,113 |
+| Draknar's Bane | 2.00% | ~13,113 |
 | Protector of the Realm | 1.00% | ~6,556 |
 | Purgatorium | 1.00% | ~6,556 |
 | Cursed Soul | 1.00% | ~6,556 |
@@ -49,8 +49,8 @@ Diff (max vs sum): 69
 | Hero | 0.60% | ~3,934 |
 | Rebel | 0.60% | ~3,934 |
 | Dungeon Master | 0.50% | ~3,278 |
-| Pilgrim | 0.40% | ~2,622 |
-| Smiths Honour | 0.40% | ~2,622 |
+| Pilgrim | 0.40% | ~2,623 |
+| Smiths Honour | 0.40% | ~2,623 |
 | Peaceful Coast | 0.30% | ~1,967 |
 | Money Bags | 0.20% | ~1,311 |
 | Grifter | 0.10% | ~656 |
@@ -59,7 +59,7 @@ Diff (max vs sum): 69
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,624 (Ranked 18)  
+Progressed: 655,633 (Ranked 18)  
 Completed: 164 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 164 (0.03%) (Ranked 173)
 | 2023-05-02 | 655,512 | 164 |
 | 2023-05-03 | 655,549 | 164 |
 | 2023-05-04 | 655,594 | 164 |
-| 2023-05-05 | 655,624 | 164 |
+| 2023-05-05 | 655,633 | 164 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

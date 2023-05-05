@@ -1,4 +1,5 @@
 # Hellslave
+[Store](https://store.epicgames.com/en-US/p/hellslave-cc8a71)  
 [View Rawdata](../../db/h/hellslave.json)  
 ## Achievements
 | Name | Percentage | Users |

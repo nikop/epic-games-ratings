@@ -1,4 +1,5 @@
 # Shame Legacy
+[Store](https://store.epicgames.com/en-US/p/shame-legacy-ef1b66)  
 [View Rawdata](../../db/s/shame_legacy.json)  
 ## Achievements
 | Name | Percentage | Users |

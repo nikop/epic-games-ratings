@@ -85,13 +85,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 8,
-  "LastChanged_Achievements": "2023-05-05T13:10:50.5377687+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:30.6938979+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-05T13:10:50.5377774+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:11.0657393+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:08.5306546+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:48.5171603+00:00",
   "AchievementSets": [
     {
       "ID": "cgfmd9l",
@@ -101,14 +101,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:05.2361399+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:05.2361398+00:00",
-  "FirstSeen": "2022-11-12T14:57:44.1410083+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:05:08.5306471+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:45.2048579+00:00",
   "Ranking_EOS_Progress": 306,
-  "FirstSeenAchievements": "2023-04-25T16:10:45.2048579+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:58:05.2361399+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-11-12T14:57:44.1410083+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:05.2361398+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "fabular-once-upon-a-spacetime-b73ba1"
 }

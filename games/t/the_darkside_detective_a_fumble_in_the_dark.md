@@ -1,4 +1,5 @@
 # The Darkside Detective A Fumble in the Dark
+[Store](https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf)  
 [View Rawdata](../../db/t/the_darkside_detective_a_fumble_in_the_dark.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Warrior Kings
+[Store](https://store.epicgames.com/en-US/p/warrior-kings-d07850)  
 [View Rawdata](../../db/w/warrior_kings.json)  
 ## Achievements
 | Name | Percentage | Users |

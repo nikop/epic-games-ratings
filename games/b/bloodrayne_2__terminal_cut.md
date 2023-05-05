@@ -1,4 +1,5 @@
 # BloodRayne 2: Terminal Cut
+[Store](https://store.epicgames.com/en-US/p/bloodrayne-2-terminal-cut-a5d9d4)  
 [View Rawdata](../../db/b/bloodrayne_2__terminal_cut.json)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,7 +19,7 @@
 | Nowhere you can hide | 0.00% | ~0 |
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 310)  
+Progressed: 8 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

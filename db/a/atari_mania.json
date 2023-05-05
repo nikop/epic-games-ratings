@@ -165,13 +165,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 18,
-  "LastChanged_Achievements": "2023-05-05T13:10:10.2891143+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:31:55.1460354+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-05T13:10:10.289131+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:17.8815576+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:37.1609719+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:13.4111634+00:00",
   "AchievementSets": [
     {
       "ID": "2kpkmk",
@@ -181,14 +181,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:54.0080898+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:54.0080897+00:00",
-  "FirstSeen": "2022-12-16T03:58:02.7411463+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:04:37.1609584+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00",
   "Ranking_EOS_Progress": 331,
-  "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:57:54.0080898+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-12-16T03:58:02.7411463+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:54.0080897+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "atari-mania-702c68"
 }

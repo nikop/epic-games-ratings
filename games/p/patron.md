@@ -1,4 +1,5 @@
 # Patron
+[Store](https://store.epicgames.com/en-US/p/patron-4ab1c1)  
 [View Rawdata](../../db/p/patron.json)  
 Rating: 3.94 (Ranked 891)  
 Number of Ratings: 38  (23.09.2022)  

@@ -1,4 +1,5 @@
 # Tales of the Orient: The Rising Sun
+[Store](https://store.epicgames.com/en-US/p/tales-of-the-orient-the-rising-sun-001806)  
 [View Rawdata](../../db/t/tales_of_the_orient__the_rising_sun.json)  
 ## Achievements
 | Name | Percentage | Users |

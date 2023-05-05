@@ -7,16 +7,18 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
+  "LastUpdate_AppInfo": "2023-05-05T13:33:12.0384342+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:09:32.4087605+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:13.1077405+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:04:10.3949889+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:29.7380629+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "acceptance-beff58"
 }

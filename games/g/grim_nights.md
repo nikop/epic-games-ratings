@@ -1,4 +1,5 @@
 # Grim Nights
+[Store](https://store.epicgames.com/en-US/p/grim-nights-fa4c5a)  
 [View Rawdata](../../db/g/grim_nights.json)  
 ## Achievements
 | Name | Percentage | Users |

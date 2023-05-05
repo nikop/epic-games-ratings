@@ -381,13 +381,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T13:11:17.6191945+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:35.3160135+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 18,
-  "LastUpdate_Achievements": "2023-05-05T13:11:17.6192393+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:48.225862+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:28.8267257+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:53.3403563+00:00",
   "AchievementSets": [
     {
       "ID": "4akddl8",
@@ -397,14 +397,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
-  "FirstSeen": "2022-07-22T20:32:27.8918697+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:05:28.8266882+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "Ranking_EOS_Progress": 296,
-  "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:58:43.024621+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:32:27.8918697+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "saint-kotar-7f0c47"
 }

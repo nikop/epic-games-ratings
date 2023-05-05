@@ -1,4 +1,5 @@
 # Adventures of Chris
+[Store](https://store.epicgames.com/en-US/p/adventures-of-chris-64c13b)  
 [View Rawdata](../../db/a/adventures_of_chris.json)  
 ## Achievements
 | Name | Percentage | Users |

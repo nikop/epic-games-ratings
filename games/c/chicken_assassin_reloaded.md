@@ -1,4 +1,5 @@
 # Chicken Assassin Reloaded
+[Store](https://store.epicgames.com/en-US/p/chicken-assassin-reloaded-279863)  
 [View Rawdata](../../db/c/chicken_assassin_reloaded.json)  
 ## Achievements
 | Name | Percentage | Users |

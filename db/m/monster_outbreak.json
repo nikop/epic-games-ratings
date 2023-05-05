@@ -20,13 +20,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T13:10:42.450912+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:10.4338654+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-05T13:10:42.4509222+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:39.3669881+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:01.633861+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:27.8198166+00:00",
   "AchievementSets": [
     {
       "ID": "8l4o27e",
@@ -36,14 +36,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:19.1476939+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:19.1476938+00:00",
-  "FirstSeen": "2022-10-05T11:32:19.6268315+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:05:01.6338585+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:17.3277147+00:00",
   "Ranking_EOS_Progress": 317,
-  "FirstSeenAchievements": "2023-04-25T16:14:17.3277147+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:58:19.1476939+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-10-05T11:32:19.6268315+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:19.1476938+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "monster-outbreak-2e8c08"
 }

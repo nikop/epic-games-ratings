@@ -1,4 +1,5 @@
 # Locks Quest
+[Store](https://store.epicgames.com/en-US/p/locks-quest-befcf1)  
 [View Rawdata](../../db/l/locks_quest.json)  
 ## Achievements
 | Name | Percentage | Users |

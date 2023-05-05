@@ -1,4 +1,5 @@
 # The Darkest Tales
+[Store](https://store.epicgames.com/en-US/p/the-darkest-tales-7d0dab)  
 [View Rawdata](../../db/t/the_darkest_tales.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Atari Mania
+[Store](https://store.epicgames.com/en-US/p/atari-mania-702c68)  
 [View Rawdata](../../db/a/atari_mania.json)  
 ## Achievements
 | Name | Percentage | Users |

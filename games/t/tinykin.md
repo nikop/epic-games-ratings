@@ -1,4 +1,5 @@
 # Tinykin
+[Store](https://store.epicgames.com/en-US/p/tinykin-d1a022)  
 [View Rawdata](../../db/t/tinykin.json)  
 ## Achievements
 | Name | Percentage | Users |

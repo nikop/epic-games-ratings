@@ -14,13 +14,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T13:10:56.7138995+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:49.2776904+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T13:10:56.7139031+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:04:38.0332719+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:12.5617979+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:06.219665+00:00",
   "AchievementSets": [
     {
       "ID": "al2jal1",
@@ -30,14 +30,16 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:26.9360281+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:26.936028+00:00",
-  "FirstSeen": "2022-09-13T15:32:11.0115733+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 191,
+  "LastChanged_Achievements": "2023-05-05T15:05:12.5617963+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:30.6334594+00:00",
   "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:14:30.6334594+00:00"
+  "Ranking_EOS_Completed": 191,
+  "LastChanged": "2023-03-31T05:58:26.9360281+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-09-13T15:32:11.0115733+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:26.936028+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "justice-sucks-bbf069"
 }

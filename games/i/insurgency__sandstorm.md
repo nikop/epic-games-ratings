@@ -10,27 +10,27 @@ Diff (max vs sum): 47
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,101 |
-| Wallbanger | 5.00% | ~18,101 |
-| Exploitative | 4.00% | ~14,481 |
-| High Speed Low Drag | 4.00% | ~14,481 |
-| Wet Feet | 4.00% | ~14,481 |
-| Checkpoint Victory | 3.00% | ~10,860 |
-| Lucky | 3.00% | ~10,860 |
-| Stylin' | 3.00% | ~10,860 |
-| Turf War | 3.00% | ~10,860 |
-| Banged | 2.00% | ~7,240 |
-| First Blood | 2.00% | ~7,240 |
-| Flaccid Paralysis | 2.00% | ~7,240 |
-| Push Victory | 2.00% | ~7,240 |
-| Self-destructive | 2.00% | ~7,240 |
-| Blindfire | 1.00% | ~3,620 |
-| Efficient | 1.00% | ~3,620 |
-| Ruthless | 1.00% | ~3,620 |
-| Semper Paratus | 1.00% | ~3,620 |
-| Carrying | 0.90% | ~3,258 |
-| Mount & Gun | 0.90% | ~3,258 |
-| Personal | 0.90% | ~3,258 |
+| Point Shooting | 5.00% | ~18,103 |
+| Wallbanger | 5.00% | ~18,103 |
+| Exploitative | 4.00% | ~14,482 |
+| High Speed Low Drag | 4.00% | ~14,482 |
+| Wet Feet | 4.00% | ~14,482 |
+| Checkpoint Victory | 3.00% | ~10,862 |
+| Lucky | 3.00% | ~10,862 |
+| Stylin' | 3.00% | ~10,862 |
+| Turf War | 3.00% | ~10,862 |
+| Banged | 2.00% | ~7,241 |
+| First Blood | 2.00% | ~7,241 |
+| Flaccid Paralysis | 2.00% | ~7,241 |
+| Push Victory | 2.00% | ~7,241 |
+| Self-destructive | 2.00% | ~7,241 |
+| Blindfire | 1.00% | ~3,621 |
+| Efficient | 1.00% | ~3,621 |
+| Ruthless | 1.00% | ~3,621 |
+| Semper Paratus | 1.00% | ~3,621 |
+| Carrying | 0.90% | ~3,259 |
+| Mount & Gun | 0.90% | ~3,259 |
+| Personal | 0.90% | ~3,259 |
 | Grounded | 0.80% | ~2,896 |
 | Play to Win | 0.80% | ~2,896 |
 | #1 | 0.70% | ~2,534 |
@@ -46,7 +46,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,015 (Ranked 35)  
+Progressed: 362,058 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 362,015 | 2 |
+| 2023-05-05 | 362,058 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

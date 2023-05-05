@@ -1,4 +1,5 @@
 # Foretales
+[Store](https://store.epicgames.com/en-US/p/foretales-d6c5bd)  
 [View Rawdata](../../db/f/foretales.json)  
 ## Achievements
 | Name | Percentage | Users |

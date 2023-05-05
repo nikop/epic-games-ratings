@@ -1,4 +1,5 @@
 # NAIRI: Rising Tide
+[Store](https://store.epicgames.com/en-US/p/nairi-rising-tide-3cdcee)  
 [View Rawdata](../../db/n/nairi__rising_tide.json)  
 ## Achievements
 | Name | Percentage | Users |

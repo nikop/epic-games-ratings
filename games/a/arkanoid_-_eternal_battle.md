@@ -1,4 +1,5 @@
 # Arkanoid - Eternal Battle
+[Store](https://store.epicgames.com/en-US/p/arkanoid-eternal-battle-e1b089)  
 [View Rawdata](../../db/a/arkanoid_-_eternal_battle.json)  
 ## Achievements
 | Name | Percentage | Users |

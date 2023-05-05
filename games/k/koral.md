@@ -1,4 +1,5 @@
 # KORAL
+[Store](https://store.epicgames.com/en-US/p/koral-63ea73)  
 [View Rawdata](../../db/k/koral.json)  
 ## Achievements
 | Name | Percentage | Users |

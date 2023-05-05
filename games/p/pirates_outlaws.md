@@ -1,4 +1,5 @@
 # Pirates Outlaws
+[Store](https://store.epicgames.com/en-US/p/pirates-outlaws-a8cc60)  
 [View Rawdata](../../db/p/pirates_outlaws.json)  
 ## Achievements
 | Name | Percentage | Users |

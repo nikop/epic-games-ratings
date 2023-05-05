@@ -10,7 +10,7 @@ Diff (max vs sum): 93
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 49.00% | ~945 |
+| You're free now! | 49.00% | ~946 |
 | Keeping it classy | 25.00% | ~482 |
 | Welcome to the family | 18.00% | ~347 |
 | The finer things in life | 16.00% | ~309 |
@@ -59,7 +59,7 @@ Diff (max vs sum): 93
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,929 (Ranked 141)  
+Progressed: 1,930 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 1,923 | 0 |
 | 2023-05-02 | 1,926 | 0 |
 | 2023-05-04 | 1,928 | 0 |
-| 2023-05-05 | 1,929 | 0 |
+| 2023-05-05 | 1,930 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

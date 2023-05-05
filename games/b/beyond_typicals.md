@@ -1,4 +1,5 @@
 # Beyond Typicals
+[Store](https://store.epicgames.com/en-US/p/beyond-typicals)  
 [View Rawdata](../../db/b/beyond_typicals.json)  
 ## Achievements
 | Name | Percentage | Users |

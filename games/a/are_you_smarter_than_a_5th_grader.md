@@ -1,4 +1,5 @@
 # Are You Smarter Than A 5th Grader
+[Store](https://store.epicgames.com/en-US/p/are-you-smarter-than-a-5th-grader-bc328a)  
 [View Rawdata](../../db/a/are_you_smarter_than_a_5th_grader.json)  
 ## Achievements
 | Name | Percentage | Users |

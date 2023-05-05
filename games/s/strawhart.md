@@ -1,4 +1,5 @@
 # Strawhart
+[Store](https://store.epicgames.com/en-US/p/strawhart-776f4d)  
 [View Rawdata](../../db/s/strawhart.json)  
 ## Achievements
 | Name | Percentage | Users |

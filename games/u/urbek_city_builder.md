@@ -1,4 +1,5 @@
 # Urbek City Builder
+[Store](https://store.epicgames.com/en-US/p/urbek-city-builder-17cf7d)  
 [View Rawdata](../../db/u/urbek_city_builder.json)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +15,7 @@
 | Clean energy | 20.00% | ~26 |
 | Soviet town | 15.00% | ~20 |
 | Bucolic city | 14.00% | ~18 |
-| King of fish | 12.00% | ~16 |
+| King of fish | 13.00% | ~17 |
 | I love books! | 11.00% | ~15 |
 | I love parks | 11.00% | ~15 |
 | What would we do if we can't go out with friends? | 10.00% | ~13 |

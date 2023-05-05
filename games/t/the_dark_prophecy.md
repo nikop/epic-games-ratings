@@ -1,4 +1,5 @@
 # The Dark Prophecy
+[Store](https://store.epicgames.com/en-US/p/the-dark-prophecy-2193c4)  
 [View Rawdata](../../db/t/the_dark_prophecy.json)  
 ## Achievements
 | Name | Percentage | Users |

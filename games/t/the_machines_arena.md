@@ -1,4 +1,5 @@
 # The Machines Arena
+[Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.68 (Ranked 234)  
 ## Achievements

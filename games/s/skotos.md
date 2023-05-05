@@ -1,4 +1,5 @@
 # Skotos
+[Store](https://store.epicgames.com/en-US/p/skotos-455463)  
 [View Rawdata](../../db/s/skotos.json)  
 ## Achievements
 | Name | Percentage | Users |

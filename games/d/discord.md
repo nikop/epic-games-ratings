@@ -1,4 +1,5 @@
 # Discord
+[Store](https://store.epicgames.com/en-US/p/discord)  
 [View Rawdata](../../db/d/discord.json)  
 ## Achievements
 | Name | Percentage | Users |

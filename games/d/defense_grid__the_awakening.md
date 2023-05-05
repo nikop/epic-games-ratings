@@ -10,47 +10,47 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,404 |
-| Hey! That's mine! | 78.00% | ~371,129 |
-| Happy Returns | 77.00% | ~366,371 |
-| Field Promotion | 74.00% | ~352,097 |
-| Leadhead | 71.00% | ~337,823 |
-| Eradicator | 67.00% | ~318,791 |
-| Surplus | 65.00% | ~309,275 |
-| I Spy | 63.00% | ~299,758 |
-| Burn Baby Burn | 59.00% | ~280,726 |
-| Yellow Beats Green | 55.00% | ~261,694 |
-| Salvage Rights | 53.00% | ~252,178 |
-| What IS that? | 50.00% | ~237,904 |
-| Close Call | 49.00% | ~233,145 |
-| Penny Pincher | 49.00% | ~233,145 |
-| Pew Pew | 49.00% | ~233,145 |
-| Arsenal | 46.00% | ~218,871 |
-| Boot Camp | 45.00% | ~214,113 |
-| Flawless Victory | 42.00% | ~199,839 |
-| Confident | 40.00% | ~190,323 |
-| Exterminator | 36.00% | ~171,291 |
-| Sharpshooter | 33.00% | ~157,016 |
-| Great Ball of Fire | 32.00% | ~152,258 |
-| Not So Fast | 32.00% | ~152,258 |
-| No Sale | 30.00% | ~142,742 |
-| Kaboom! | 29.00% | ~137,984 |
-| Liquidator | 29.00% | ~137,984 |
-| High Voltage | 24.00% | ~114,194 |
-| Filthy Rich | 19.00% | ~90,403 |
-| Power Builder | 17.00% | ~80,887 |
-| Pyrrhic Victory | 17.00% | ~80,887 |
-| The Not-So-Friendly Skies | 17.00% | ~80,887 |
-| Death From Above | 16.00% | ~76,129 |
-| Retry | 16.00% | ~76,129 |
-| Head Trauma | 12.00% | ~57,097 |
-| Full Defense | 10.00% | ~47,581 |
+| First Blood | 81.00% | ~385,410 |
+| Hey! That's mine! | 78.00% | ~371,136 |
+| Happy Returns | 77.00% | ~366,378 |
+| Field Promotion | 74.00% | ~352,103 |
+| Leadhead | 71.00% | ~337,829 |
+| Eradicator | 67.00% | ~318,796 |
+| Surplus | 65.00% | ~309,280 |
+| I Spy | 63.00% | ~299,763 |
+| Burn Baby Burn | 59.00% | ~280,731 |
+| Yellow Beats Green | 55.00% | ~261,698 |
+| Salvage Rights | 53.00% | ~252,182 |
+| What IS that? | 50.00% | ~237,908 |
+| Close Call | 49.00% | ~233,149 |
+| Penny Pincher | 49.00% | ~233,149 |
+| Pew Pew | 49.00% | ~233,149 |
+| Arsenal | 46.00% | ~218,875 |
+| Boot Camp | 45.00% | ~214,117 |
+| Flawless Victory | 42.00% | ~199,842 |
+| Confident | 40.00% | ~190,326 |
+| Exterminator | 36.00% | ~171,293 |
+| Sharpshooter | 33.00% | ~157,019 |
+| Great Ball of Fire | 32.00% | ~152,261 |
+| Not So Fast | 32.00% | ~152,261 |
+| No Sale | 30.00% | ~142,744 |
+| Kaboom! | 29.00% | ~137,986 |
+| Liquidator | 29.00% | ~137,986 |
+| High Voltage | 24.00% | ~114,196 |
+| Filthy Rich | 19.00% | ~90,405 |
+| Power Builder | 17.00% | ~80,889 |
+| Pyrrhic Victory | 17.00% | ~80,889 |
+| The Not-So-Friendly Skies | 17.00% | ~80,889 |
+| Death From Above | 16.00% | ~76,130 |
+| Retry | 16.00% | ~76,130 |
+| Head Trauma | 12.00% | ~57,098 |
+| Full Defense | 10.00% | ~47,582 |
 | Overseer | 9.00% | ~42,823 |
 | Annihilator | 8.00% | ~38,065 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,065 |
-| Indecisive | 6.00% | ~28,548 |
-| Base Defender | 5.00% | ~23,790 |
-| Relay Race | 5.00% | ~23,790 |
+| Indecisive | 6.00% | ~28,549 |
+| Base Defender | 5.00% | ~23,791 |
+| Relay Race | 5.00% | ~23,791 |
 | Diversity | 3.00% | ~14,274 |
 | Full Potential | 3.00% | ~14,274 |
 | Tower Expert | 3.00% | ~14,274 |
@@ -64,8 +64,8 @@ Diff (max vs sum): 42
 | Gun Crazy | 0.90% | ~4,282 |
 | Planet Defender | 0.90% | ~4,282 |
 | Xenocide | 0.90% | ~4,282 |
-| Master Siege Breaker | 0.80% | ~3,806 |
-| Few and Proud | 0.80% | ~3,806 |
+| Master Siege Breaker | 0.80% | ~3,807 |
+| Few and Proud | 0.80% | ~3,807 |
 | Shell-shocked | 0.70% | ~3,331 |
 | Alien Tears | 0.50% | ~2,379 |
 | Full House | 0.40% | ~1,903 |
@@ -98,7 +98,7 @@ Diff (max vs sum): 42
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,807 (Ranked 25)  
+Progressed: 475,815 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-02 | 475,627 | 4 |
 | 2023-05-03 | 475,693 | 4 |
 | 2023-05-04 | 475,761 | 4 |
-| 2023-05-05 | 475,807 | 4 |
+| 2023-05-05 | 475,815 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

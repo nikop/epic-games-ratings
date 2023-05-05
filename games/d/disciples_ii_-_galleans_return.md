@@ -1,4 +1,5 @@
 # Disciples II - Galleans Return
+[Store](https://store.epicgames.com/en-US/p/disciples-ii-galleans-return-9ecd70)  
 [View Rawdata](../../db/d/disciples_ii_-_galleans_return.json)  
 ## Achievements
 | Name | Percentage | Users |

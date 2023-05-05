@@ -1,4 +1,5 @@
 # The Captain is Dead
+[Store](https://store.epicgames.com/en-US/p/the-captain-is-dead-b35c02)  
 [View Rawdata](../../db/t/the_captain_is_dead.json)  
 ## Achievements
 | Name | Percentage | Users |

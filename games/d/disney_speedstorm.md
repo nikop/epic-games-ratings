@@ -8,8 +8,8 @@
 | EXTRA BOOST | 39.00% | ~905 |
 | IT MAKES BOOM! | 39.00% | ~905 |
 | PRO | 29.00% | ~673 |
+| A TIGER'S FEAR | 27.00% | ~626 |
 | PROTECTED | 26.00% | ~603 |
-| A TIGER'S FEAR | 26.00% | ~603 |
 | HERE ARE SOME BARE NECESSITIES | 26.00% | ~603 |
 | AGGRESSIVE RACER | 26.00% | ~603 |
 | ACE SPEEDSTER | 16.00% | ~371 |
@@ -20,13 +20,13 @@
 | ACE DEFENDER | 5.00% | ~116 |
 | LEGENDARY HERO | 4.00% | ~93 |
 | ACE BRAWLER | 3.00% | ~70 |
+| ACE TRICKSTER | 3.00% | ~70 |
 | TRAINING HARD | 2.00% | ~46 |
-| ACE TRICKSTER | 2.00% | ~46 |
 | EXPERIENCED CREW | 1.00% | ~23 |
+| FRIENDLY | 0.80% | ~19 |
 | BE OUR GUEST | 0.70% | ~16 |
-| FRIENDLY | 0.70% | ~16 |
 | FRAMED! | 0.50% | ~12 |
-| MASTER | 0.20% | ~5 |
+| MASTER | 0.30% | ~7 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,320 (Ranked 136)  

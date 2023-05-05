@@ -1,4 +1,5 @@
 # Shotgun Farmers
+[Store](https://store.epicgames.com/en-US/p/shotgun-farmers-d9f3f0)  
 [View Rawdata](../../db/s/shotgun_farmers.json)  
 ## Achievements
 | Name | Percentage | Users |

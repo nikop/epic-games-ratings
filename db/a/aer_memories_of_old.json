@@ -8,7 +8,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1539
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16,7 +16,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "EAST_FINISHED",
@@ -24,7 +24,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1283
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -32,7 +32,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -40,7 +40,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -48,7 +48,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 939
+      "UsersEstimate": 941
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -56,7 +56,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -64,7 +64,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -72,7 +72,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1368
     },
     {
       "ID": "FOUND_ERIN",
@@ -80,7 +80,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -88,7 +88,7 @@
       "Name": "Tails of Stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "FOUND_MAMBA",
@@ -96,7 +96,7 @@
       "Name": "Baa from the past",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -104,7 +104,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -112,7 +112,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "GAME_FINISHED",
@@ -120,7 +120,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1112
     },
     {
       "ID": "INTRO_FINISHED",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6500
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -136,7 +136,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2395
     },
     {
       "ID": "NORTH_FINISHED",
@@ -144,7 +144,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -152,7 +152,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WEST_FINISHED",
@@ -160,7 +160,7 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1625
     }
   ],
   "Tags": [],
@@ -1279,6 +1279,21 @@
       "Time": "2023-05-05T13:11:09.6061281+00:00",
       "NumProgressed": 8540,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T13:42:18.7970301+00:00",
+      "NumProgressed": 8542,
+      "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T14:05:14.4624828+00:00",
+      "NumProgressed": 8547,
+      "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T15:05:22.8879711+00:00",
+      "NumProgressed": 8552,
+      "NumCompleted": 195
     }
   ],
   "RatingHistory": [
@@ -1628,35 +1643,36 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T13:11:09.6061273+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:33:16.9789399+00:00",
   "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 609,
   "EOS_Completed": 195,
-  "EOS_Progressed": 8540,
-  "LastUpdate_Achievements": "2023-05-05T13:11:09.6061543+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:05:20.6530257+00:00",
+  "EOS_Progressed": 8552,
+  "LastUpdate_Achievements": "2023-05-05T15:05:22.8879919+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:59:34.8472448+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8540,
+      "Progressed": 8552,
       "Completed": 195
     }
   ],
   "EOS_Completed_Percentage": 2.28,
-  "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "NumberOfRatings": 170,
-  "Ranking_EOS_NewCompleters": 14,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_Progress": 108,
-  "Ranking_PopularitySum": 490,
-  "Ranking_Popularity": 490,
-  "Ranking_Rating": 599,
-  "Rating": 4.45,
+  "LastChanged_Achievements": "2023-05-05T15:05:22.8879705+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
+  "Rating": 4.45,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 108,
+  "Ranking_EOS_Completed": 54,
+  "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
+  "Ranking_EOS_NewPlayers": 72,
+  "NumberOfRatings": 170,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
+  "Ranking_EOS_NewCompleters": 14,
   "ProductSlug": "aer-memories-of-old"
 }

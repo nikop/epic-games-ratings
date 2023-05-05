@@ -1,4 +1,5 @@
 # Wife Quest
+[Store](https://store.epicgames.com/en-US/p/wife-quest-ed5224)  
 [View Rawdata](../../db/w/wife_quest.json)  
 ## Achievements
 | Name | Percentage | Users |

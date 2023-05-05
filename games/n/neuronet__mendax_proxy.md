@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 33.00% | ~3 |
+| First Day of the Rest of Your Life | 44.00% | ~4 |
 | Hello World | 22.00% | ~2 |
 | I Think, Therefore I Am | 22.00% | ~2 |
 | Job Creator | 22.00% | ~2 |

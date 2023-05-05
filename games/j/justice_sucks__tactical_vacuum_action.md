@@ -1,4 +1,5 @@
 # JUSTICE SUCKS: Tactical Vacuum Action
+[Store](https://store.epicgames.com/en-US/p/justice-sucks-bbf069)  
 [View Rawdata](../../db/j/justice_sucks__tactical_vacuum_action.json)  
 ## Achievements
 | Name | Percentage | Users |

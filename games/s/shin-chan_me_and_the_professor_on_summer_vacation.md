@@ -1,4 +1,5 @@
 # Shin-chan Me and the Professor on Summer Vacation
+[Store](https://store.epicgames.com/en-US/p/shinchan-me-and-the-professor-on-summer-vacation-bb7bad)  
 [View Rawdata](../../db/s/shin-chan_me_and_the_professor_on_summer_vacation.json)  
 ## Achievements
 | Name | Percentage | Users |

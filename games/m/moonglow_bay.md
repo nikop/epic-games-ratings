@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Monster of Moonglow | 1.00% | ~4 |
+| Eternal Tempest | 1.00% | ~4 |
 | Flying Tackle | 1.00% | ~4 |
-| Eternal Tempest | 0.80% | ~3 |
 | An Ancient Feud | 0.80% | ~3 |
 | Selfish Shellfish | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |

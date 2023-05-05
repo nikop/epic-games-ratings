@@ -1,4 +1,5 @@
 # Glover
+[Store](https://store.epicgames.com/en-US/p/glover-9e820d)  
 [View Rawdata](../../db/g/glover.json)  
 ## Achievements
 | Name | Percentage | Users |

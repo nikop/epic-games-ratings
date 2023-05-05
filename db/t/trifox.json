@@ -389,13 +389,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T13:10:49.1227113+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T13:32:21.16406+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-05T13:10:49.1227483+00:00",
-  "LastUpdate_Ratings": "2023-05-05T13:03:55.715902+00:00",
+  "LastUpdate_Achievements": "2023-05-05T15:05:07.5119148+00:00",
+  "LastUpdate_Ratings": "2023-05-05T14:58:39.0986431+00:00",
   "AchievementSets": [
     {
       "ID": "cfld5bl",
@@ -405,14 +405,16 @@
     }
   ],
   "EOS_Completed_Percentage": 1.28,
-  "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
-  "FirstSeen": "2022-10-15T15:02:54.3970273+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_Completed": 72,
+  "LastChanged_Achievements": "2023-05-05T15:05:07.511877+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "Ranking_EOS_Progress": 251,
-  "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00"
+  "Ranking_EOS_Completed": 72,
+  "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
+  "Ranking_EOS_NewPlayers": 269,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2022-10-15T15:02:54.3970273+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
+  "Ranking_EOS_NewCompleters": 77,
+  "ProductSlug": "trifox-b361b7"
 }

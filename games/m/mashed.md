@@ -1,4 +1,5 @@
 # Mashed
+[Store](https://store.epicgames.com/en-US/p/mashed-ebdee9)  
 [View Rawdata](../../db/m/mashed.json)  
 ## Achievements
 | Name | Percentage | Users |

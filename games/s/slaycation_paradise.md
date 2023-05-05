@@ -1,4 +1,5 @@
 # Slaycation Paradise
+[Store](https://store.epicgames.com/en-US/p/slaycation-paradise-47a603)  
 [View Rawdata](../../db/s/slaycation_paradise.json)  
 ## Achievements
 | Name | Percentage | Users |

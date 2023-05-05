@@ -1,9 +1,10 @@
 # EBOLA 3
+[Store](https://store.epicgames.com/en-US/p/ebola-3-2c79e9)  
 [View Rawdata](../../db/e/ebola_3.json)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 53.00% | ~66 |
+| Fright ✔ | 54.00% | ~68 |
 | Inventory ✔ | 50.00% | ~62 |
 | Chest ✔ | 50.00% | ~62 |
 | Police officers ✔ | 24.00% | ~30 |

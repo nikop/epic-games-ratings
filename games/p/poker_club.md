@@ -1,56 +1,57 @@
 # Poker Club
+[Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
 Rating: 3.75 (Ranked 909)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~306,950 |
-| Handy | 37.00% | ~149,436 |
-| Cold Caller | 35.00% | ~141,358 |
-| A Bit On The Side | 23.00% | ~92,893 |
-| Backdoor | 21.00% | ~84,815 |
-| Rank Amateur | 16.00% | ~64,621 |
-| Three Way | 15.00% | ~60,582 |
-| Deadly Assassin | 13.00% | ~52,505 |
-| Showoff | 12.00% | ~48,466 |
-| Gutshot | 10.00% | ~40,388 |
-| Risk It For A Biscuit | 10.00% | ~40,388 |
-| W.H.I.P. | 8.00% | ~32,310 |
-| Poker Joker | 7.00% | ~28,272 |
-| Bet Bet Bet | 6.00% | ~24,233 |
-| Blindman's Bluff | 6.00% | ~24,233 |
-| Never Give Up | 6.00% | ~24,233 |
-| Total Knock Out | 6.00% | ~24,233 |
-| Quack Quack | 5.00% | ~20,194 |
-| Dog Eat Dog | 4.00% | ~16,155 |
-| Give Your Regards To Broadway | 4.00% | ~16,155 |
-| Check Yourself | 2.00% | ~8,078 |
-| In The Gang | 2.00% | ~8,078 |
-| Moneymaker | 2.00% | ~8,078 |
-| On The Button | 2.00% | ~8,078 |
-| The Bigger They Are | 2.00% | ~8,078 |
-| Before You Wreck Yourself | 0.80% | ~3,231 |
-| Bluffing Eh? | 0.80% | ~3,231 |
-| Keep Your Heads Up | 0.70% | ~2,827 |
-| Club Legend | 0.30% | ~1,212 |
-| Go For It | 0.30% | ~1,212 |
-| Holding Your Own | 0.30% | ~1,212 |
-| Bring It On | 0.20% | ~808 |
-| How I Roll | 0.20% | ~808 |
-| Choke A Dozen Donkeys | 0.10% | ~404 |
-| Clubman | 0.10% | ~404 |
-| Dress To Impress | 0.10% | ~404 |
-| Philanthropic | 0.10% | ~404 |
-| Pro Player | 0.10% | ~404 |
-| Regular Punter | 0.10% | ~404 |
-| Rock & High Roller | 0.10% | ~404 |
-| Rounder | 0.10% | ~404 |
-| Top Dog | 0.10% | ~404 |
+| Pro Creation | 76.00% | ~307,778 |
+| Handy | 37.00% | ~149,839 |
+| Cold Caller | 35.00% | ~141,740 |
+| A Bit On The Side | 23.00% | ~93,143 |
+| Backdoor | 21.00% | ~85,044 |
+| Rank Amateur | 17.00% | ~68,845 |
+| Three Way | 15.00% | ~60,746 |
+| Deadly Assassin | 13.00% | ~52,646 |
+| Showoff | 12.00% | ~48,597 |
+| Gutshot | 11.00% | ~44,547 |
+| Risk It For A Biscuit | 10.00% | ~40,497 |
+| W.H.I.P. | 8.00% | ~32,398 |
+| Poker Joker | 7.00% | ~28,348 |
+| Bet Bet Bet | 6.00% | ~24,298 |
+| Blindman's Bluff | 6.00% | ~24,298 |
+| Never Give Up | 6.00% | ~24,298 |
+| Total Knock Out | 6.00% | ~24,298 |
+| Quack Quack | 5.00% | ~20,249 |
+| Dog Eat Dog | 4.00% | ~16,199 |
+| Give Your Regards To Broadway | 4.00% | ~16,199 |
+| Check Yourself | 2.00% | ~8,099 |
+| In The Gang | 2.00% | ~8,099 |
+| Moneymaker | 2.00% | ~8,099 |
+| On The Button | 2.00% | ~8,099 |
+| The Bigger They Are | 2.00% | ~8,099 |
+| Before You Wreck Yourself | 0.80% | ~3,240 |
+| Bluffing Eh? | 0.80% | ~3,240 |
+| Keep Your Heads Up | 0.70% | ~2,835 |
+| Club Legend | 0.30% | ~1,215 |
+| Go For It | 0.30% | ~1,215 |
+| Holding Your Own | 0.30% | ~1,215 |
+| Bring It On | 0.20% | ~810 |
+| How I Roll | 0.20% | ~810 |
+| Choke A Dozen Donkeys | 0.10% | ~405 |
+| Clubman | 0.10% | ~405 |
+| Dress To Impress | 0.10% | ~405 |
+| Philanthropic | 0.10% | ~405 |
+| Pro Player | 0.10% | ~405 |
+| Regular Punter | 0.10% | ~405 |
+| Rock & High Roller | 0.10% | ~405 |
+| Rounder | 0.10% | ~405 |
+| Top Dog | 0.10% | ~405 |
 | Bounty Hunter | 0.00% | ~0 |
 | Poker Ace | 0.00% | ~0 |
 | Poker Showdown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,881 (Ranked 31)  
+Progressed: 404,971 (Ranked 31)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 343,893 | 0 |
 | 2023-05-03 | 374,884 | 0 |
 | 2023-05-04 | 398,569 | 0 |
-| 2023-05-05 | 403,881 | 0 |
+| 2023-05-05 | 404,971 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

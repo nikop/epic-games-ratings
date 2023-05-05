@@ -1,4 +1,5 @@
 # Gold Rush! Classic
+[Store](https://store.epicgames.com/en-US/p/gold-rush-classic-34d7d5)  
 [View Rawdata](../../db/g/gold_rush!_classic.json)  
 ## Achievements
 | Name | Percentage | Users |

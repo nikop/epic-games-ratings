@@ -1,4 +1,5 @@
 # Astalon -Tears of the Earth-
+[Store](https://store.epicgames.com/en-US/p/astalon-tears-of-the-earth-1b2279)  
 [View Rawdata](../../db/a/astalon_-tears_of_the_earth-.json)  
 ## Achievements
 | Name | Percentage | Users |

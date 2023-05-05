@@ -1,4 +1,5 @@
 # ArcRunner
+[Store](https://store.epicgames.com/en-US/p/arcrunner-61fee6)  
 [View Rawdata](../../db/a/arcrunner.json)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +10,7 @@
 | Terminated I | 58.00% | ~35 |
 | Challenge Accepted | 57.00% | ~34 |
 | Unlocked and Loaded | 52.00% | ~31 |
-| Terminated II | 43.00% | ~26 |
+| Terminated II | 45.00% | ~27 |
 | Terminated III | 32.00% | ~19 |
 | Nanonic II | 30.00% | ~18 |
 | Challenge Mastered | 22.00% | ~13 |

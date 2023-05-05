@@ -1,4 +1,5 @@
 # Curse of the Deadwood
+[Store](https://store.epicgames.com/en-US/p/curse-of-the-deadwood-3dcda7)  
 [View Rawdata](../../db/c/curse_of_the_deadwood.json)  
 ## Achievements
 | Name | Percentage | Users |
