@@ -1195,13 +1195,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-05T15:42:49.8335159+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:05.5104804+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 6,
   "EOS_Progressed": 2633,
-  "LastUpdate_Achievements": "2023-05-05T15:42:49.8335546+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:36:48.2461462+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:08:05.5105224+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:02:02.1381797+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:57.781902+00:00",
   "AchievementSets": [
     {
@@ -1227,5 +1227,5 @@
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

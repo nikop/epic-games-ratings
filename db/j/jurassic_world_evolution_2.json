@@ -55,7 +55,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 524
+      "Count": 525
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2904,6 +2904,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 5424,
       "NumberOfAwardsMax": 584
+    },
+    {
+      "Time": "2023-05-05T15:59:36.9474844+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5425,
+      "NumberOfAwardsMax": 584
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2912,12 +2918,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:39:25.0977284+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:44.4824552+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:04:09.8628914+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:36.947485+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:20.2121763+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T13:34:11.4302085+00:00",
+  "LastChanged": "2023-05-05T15:59:36.947484+00:00",
   "ProductSlug": "jurassic-world-evolution-2",
   "Rating": 4.74,
   "Ranking_Rating": 142,
@@ -2927,9 +2933,9 @@
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 3746,
-  "NumberOfAwards": 5424,
+  "NumberOfAwards": 5425,
   "NumberOfAwardsMax": 584,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

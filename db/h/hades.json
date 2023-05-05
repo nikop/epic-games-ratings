@@ -24,7 +24,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 156357
+      "UsersEstimate": 156358
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -72,7 +72,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 543852
+      "UsersEstimate": 543853
     },
     {
       "ID": "AchClearElysium",
@@ -80,7 +80,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 448678
+      "UsersEstimate": 448679
     },
     {
       "ID": "AchClearElysiumEM",
@@ -112,7 +112,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 605035
+      "UsersEstimate": 605036
     },
     {
       "ID": "AchCrushedThanatos",
@@ -168,7 +168,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 149559
+      "UsersEstimate": 149560
     },
     {
       "ID": "AchGreaterCall",
@@ -176,7 +176,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462274
+      "UsersEstimate": 462275
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -224,7 +224,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 237935
+      "UsersEstimate": 237936
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -232,7 +232,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428283
+      "UsersEstimate": 428284
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -280,7 +280,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 244733
+      "UsersEstimate": 244734
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -304,7 +304,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 156357
+      "UsersEstimate": 156358
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -360,7 +360,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 285522
+      "UsersEstimate": 285523
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -376,7 +376,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 156357
+      "UsersEstimate": 156358
     },
     {
       "ID": "AchWellShopItems",
@@ -1616,6 +1616,11 @@
     {
       "Time": "2023-05-05T15:04:48.561352+00:00",
       "NumProgressed": 679815,
+      "NumCompleted": 6075
+    },
+    {
+      "Time": "2023-05-05T16:07:29.5780432+00:00",
+      "NumProgressed": 679816,
       "NumCompleted": 6075
     }
   ],
@@ -4405,19 +4410,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T15:42:18.1353992+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:29.5780428+00:00",
   "EOS_NewCompleters": 22,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 589,
   "EOS_Completed": 6075,
-  "EOS_Progressed": 679815,
-  "LastUpdate_Achievements": "2023-05-05T15:42:18.1354807+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:27.7560987+00:00",
+  "EOS_Progressed": 679816,
+  "LastUpdate_Achievements": "2023-05-05T16:07:29.5780804+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:17.1779217+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:07.5734894+00:00",
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 679815,
+      "Progressed": 679816,
       "Completed": 6075
     }
   ],

@@ -30,9 +30,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "13",
@@ -166,9 +166,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "29",
@@ -206,9 +206,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "33",
@@ -262,17 +262,17 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 253
     },
     {
       "ID": "40",
@@ -350,9 +350,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "5",
@@ -382,9 +382,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "8",
@@ -721,13 +721,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T15:42:09.8763802+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:20.0053132+00:00",
   "EOS_NewCompleters": 5,
   "EOS_NewPlayers": 255,
   "EOS_Completed": 11,
   "EOS_Progressed": 309,
-  "LastUpdate_Achievements": "2023-05-05T15:42:09.876456+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:19.9010318+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:20.0053523+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:08.8054914+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:02.0013096+00:00",
   "AchievementSets": [
     {

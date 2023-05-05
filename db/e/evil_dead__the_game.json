@@ -37,7 +37,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1868
+      "Count": 1869
     },
     {
       "Text": "This game has Competitive Players",
@@ -3509,6 +3509,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 28862,
       "NumberOfAwardsMax": 12330
+    },
+    {
+      "Time": "2023-05-05T15:59:26.8868605+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 28863,
+      "NumberOfAwardsMax": 12330
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3517,12 +3523,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:38:05.3832829+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:35.5216104+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:03:34.8476523+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:26.8868611+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.2941564+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T07:57:35.7555848+00:00",
+  "LastChanged": "2023-05-05T15:59:26.8868602+00:00",
   "ProductSlug": "evil-dead-the-game",
   "Rating": 4.36,
   "Ranking_Rating": 702,
@@ -3532,9 +3538,9 @@
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 9131,
-  "NumberOfAwards": 28862,
+  "NumberOfAwards": 28863,
   "NumberOfAwardsMax": 12330,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

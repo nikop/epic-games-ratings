@@ -16,7 +16,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "1017",
@@ -24,7 +24,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "1018",
@@ -112,7 +112,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "1029",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "1031",
@@ -136,7 +136,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "1032",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4432
     },
     {
       "ID": "1033",
@@ -1385,6 +1385,11 @@
       "Time": "2023-05-05T15:42:56.6848724+00:00",
       "NumProgressed": 11076,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T16:08:12.9817863+00:00",
+      "NumProgressed": 11079,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2542,19 +2547,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T15:42:56.6848705+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:12.9817856+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 917,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11076,
-  "LastUpdate_Achievements": "2023-05-05T15:42:56.6848939+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:37:13.6465656+00:00",
+  "EOS_Progressed": 11079,
+  "LastUpdate_Achievements": "2023-05-05T16:08:12.9818523+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:02:31.9282582+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:18.3058728+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11076,
+      "Progressed": 11079,
       "Completed": 23
     }
   ],

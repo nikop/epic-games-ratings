@@ -670,8 +670,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:40:43.3887149+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:56.958965+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:05:37.3207477+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:04.2506408+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:18.5333988+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -689,5 +689,5 @@
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

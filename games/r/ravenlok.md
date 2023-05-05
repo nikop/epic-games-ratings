@@ -7,11 +7,11 @@
 | Once Upon a Time | 94.00% | ~290 |
 | Waff! | 91.00% | ~281 |
 | Into the Barn | 84.00% | ~260 |
-| A Prophecy | 81.00% | ~250 |
-| Sword, Shield, Fight! | 72.00% | ~222 |
+| A Prophecy | 82.00% | ~253 |
+| Sword, Shield, Fight! | 73.00% | ~226 |
 | A Grand Visit | 67.00% | ~207 |
 | Vibing | 59.00% | ~182 |
-| Fun Guy | 56.00% | ~173 |
+| Fun Guy | 57.00% | ~176 |
 | Tragic Brave | 48.00% | ~148 |
 | Awakened Spirits | 43.00% | ~133 |
 | Little Shop | 42.00% | ~130 |
@@ -24,15 +24,15 @@
 | Gooey Delight! | 32.00% | ~99 |
 | Teacups for Toppy | 32.00% | ~99 |
 | Nightmare Fuel | 30.00% | ~93 |
+| The Guardian | 30.00% | ~93 |
 | Take Heart | 29.00% | ~90 |
-| The Guardian | 29.00% | ~90 |
 | It's Pointy! | 28.00% | ~87 |
 | Ancient Wisdom | 27.00% | ~83 |
 | Frog Facts! | 27.00% | ~83 |
 | All That Glistens | 27.00% | ~83 |
 | Stronger! | 27.00% | ~83 |
-| Spellbound | 24.00% | ~74 |
-| All Skilled Up! | 24.00% | ~74 |
+| Spellbound | 25.00% | ~77 |
+| All Skilled Up! | 25.00% | ~77 |
 | Extinct Again! | 23.00% | ~71 |
 | Bird of Prey | 23.00% | ~71 |
 | Stardust | 23.00% | ~71 |
@@ -43,8 +43,8 @@
 | All Heart | 21.00% | ~65 |
 | Trick Question! | 21.00% | ~65 |
 | Extraordinary! | 21.00% | ~65 |
+| Final Showdown | 21.00% | ~65 |
 | The Downfall | 20.00% | ~62 |
-| Final Showdown | 20.00% | ~62 |
 | Spot of Tea? | 20.00% | ~62 |
 | Going Home | 20.00% | ~62 |
 | Mirror, Mirror | 19.00% | ~59 |

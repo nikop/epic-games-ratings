@@ -1128,8 +1128,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:40:41.7524894+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:54.5483083+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:05:35.3642285+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:01.3572315+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:16.4423809+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -1147,5 +1147,5 @@
   "NumberOfAwardsMax": 611,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

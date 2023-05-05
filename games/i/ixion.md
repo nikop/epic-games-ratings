@@ -27,11 +27,13 @@ Rating: 4.54 (Ranked 476)
 | Space Society | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
 | In Dolos We Trust | 0.10% | ~2 |
+| Catastrophe Avoided | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
 | Fully Recycled | 0.10% | ~2 |
 | Ready for a New World | 0.10% | ~2 |
 | Access Granted | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |
+| Gregor Spinoza | 0.10% | ~2 |
 | Delivery! | 0.10% | ~2 |
 | Ain't Nobody Got Time for That | 0.10% | ~2 |
 | Tiqqun Unchained | 0.10% | ~2 |
@@ -46,10 +48,8 @@ Rating: 4.54 (Ranked 476)
 | Infinite Growth... | 0.00% | ~0 |
 | Sustainable Energy | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |
-| Catastrophe Avoided | 0.00% | ~0 |
 | Breaking Protocol | 0.00% | ~0 |
 | You Had One Job... | 0.00% | ~0 |
-| Gregor Spinoza | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Work Harder | 0.00% | ~0 |
 | Space Greenhouse | 0.00% | ~0 |

@@ -32,7 +32,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "ACH_COP_ART",
@@ -88,7 +88,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33035
+      "UsersEstimate": 33036
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -104,7 +104,7 @@
       "Name": "The Lawbringer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -112,7 +112,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18877
+      "UsersEstimate": 18878
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -144,7 +144,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17697
+      "UsersEstimate": 17698
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -168,7 +168,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10618
+      "UsersEstimate": 10619
     },
     {
       "ID": "ACH_GLUTEN",
@@ -1443,6 +1443,11 @@
       "Time": "2023-05-05T15:42:38.3943644+00:00",
       "NumProgressed": 117983,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-05T16:07:52.4407965+00:00",
+      "NumProgressed": 117985,
+      "NumCompleted": 24
     }
   ],
   "RatingHistory": [
@@ -2411,19 +2416,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T15:42:38.3943639+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:52.440796+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 369,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117983,
-  "LastUpdate_Achievements": "2023-05-05T15:42:38.3944092+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:58.4199229+00:00",
+  "EOS_Progressed": 117985,
+  "LastUpdate_Achievements": "2023-05-05T16:07:52.4408384+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:05.9801663+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:19.5872054+00:00",
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 117983,
+      "Progressed": 117985,
       "Completed": 24
     }
   ],

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Day of the Rest of Your Life | 44.00% | ~4 |
-| Hello World | 22.00% | ~2 |
+| Hello World | 33.00% | ~3 |
 | I Think, Therefore I Am | 22.00% | ~2 |
 | Job Creator | 22.00% | ~2 |
 | The Real Beginning | 22.00% | ~2 |

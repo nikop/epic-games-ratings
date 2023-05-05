@@ -10,28 +10,28 @@ Diff (max vs sum): -13
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,650 |
-| Into the Unknown | 8.00% | ~43,244 |
-| First Shot | 8.00% | ~43,244 |
-| Herzlich Wilkommen! | 7.00% | ~37,839 |
-| Sancho Panza | 7.00% | ~37,839 |
-| Good Night & Good Luck | 7.00% | ~37,839 |
-| Under Pressure | 6.00% | ~32,433 |
-| Flag Burning | 6.00% | ~32,433 |
-| Oh, So This Is How It Works! | 6.00% | ~32,433 |
-| On the Trail of the Enemy | 5.00% | ~27,028 |
-| Light in the Darkness | 5.00% | ~27,028 |
-| Get Outta My House! | 5.00% | ~27,028 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,028 |
-| Night Hunter | 5.00% | ~27,028 |
-| Being All Social | 5.00% | ~27,028 |
-| Debris and Ashes | 4.00% | ~21,622 |
-| We Will Be Heard! | 4.00% | ~21,622 |
-| Known Associate | 4.00% | ~21,622 |
-| Brush with Death | 4.00% | ~21,622 |
-| Tunnel Entrance | 4.00% | ~21,622 |
-| After the Fall | 4.00% | ~21,622 |
-| Can't Touch This! | 4.00% | ~21,622 |
+| You Never Forget Your First... | 9.00% | ~48,651 |
+| Into the Unknown | 8.00% | ~43,246 |
+| First Shot | 8.00% | ~43,246 |
+| Herzlich Wilkommen! | 7.00% | ~37,840 |
+| Sancho Panza | 7.00% | ~37,840 |
+| Good Night & Good Luck | 7.00% | ~37,840 |
+| Under Pressure | 6.00% | ~32,434 |
+| Flag Burning | 6.00% | ~32,434 |
+| Oh, So This Is How It Works! | 6.00% | ~32,434 |
+| On the Trail of the Enemy | 5.00% | ~27,029 |
+| Light in the Darkness | 5.00% | ~27,029 |
+| Get Outta My House! | 5.00% | ~27,029 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,029 |
+| Night Hunter | 5.00% | ~27,029 |
+| Being All Social | 5.00% | ~27,029 |
+| Debris and Ashes | 4.00% | ~21,623 |
+| We Will Be Heard! | 4.00% | ~21,623 |
+| Known Associate | 4.00% | ~21,623 |
+| Brush with Death | 4.00% | ~21,623 |
+| Tunnel Entrance | 4.00% | ~21,623 |
+| After the Fall | 4.00% | ~21,623 |
+| Can't Touch This! | 4.00% | ~21,623 |
 | Going Down | 3.00% | ~16,217 |
 | Family First | 3.00% | ~16,217 |
 | Your World, Your Rules | 3.00% | ~16,217 |
@@ -51,8 +51,8 @@ Diff (max vs sum): -13
 | Ironheart | 1.00% | ~5,406 |
 | Nemesis | 1.00% | ~1,860 |
 | Enter the Hall | 0.90% | ~1,674 |
-| That's Teamwork! | 0.80% | ~4,324 |
-| Fit as a Fiddle | 0.80% | ~4,324 |
+| That's Teamwork! | 0.80% | ~4,325 |
+| Fit as a Fiddle | 0.80% | ~4,325 |
 | Boot Licker | 0.70% | ~3,784 |
 | Night of Terrors | 0.70% | ~1,302 |
 | Find Anything Interesting? | 0.60% | ~3,243 |
@@ -76,7 +76,7 @@ Diff (max vs sum): -13
 | True Champion | 0.10% | ~186 |
 | Connoisseur | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,554 (Ranked 22)  
+Progressed: 540,572 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 46 (0.01%) (Ranked 184)
 | 2023-05-02 | 538,429 | 46 |
 | 2023-05-03 | 539,308 | 46 |
 | 2023-05-04 | 540,116 | 46 |
-| 2023-05-05 | 540,554 | 46 |
+| 2023-05-05 | 540,572 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

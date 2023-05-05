@@ -9,34 +9,34 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 56.00% | ~161 |
 | Cartographer | 50.00% | ~144 |
 | A Strange Artefact | 47.00% | ~135 |
-| Insomnia | 43.00% | ~123 |
+| Insomnia | 43.00% | ~124 |
+| Lost & Found & Lost Again | 38.00% | ~109 |
 | From Whence we Came | 38.00% | ~109 |
-| Lost & Found & Lost Again | 37.00% | ~106 |
-| Fire and Flood | 35.00% | ~100 |
+| Fire and Flood | 35.00% | ~101 |
 | Spooky! | 33.00% | ~95 |
 | Shennong Herbalist | 31.00% | ~89 |
 | Treasure Hunt | 30.00% | ~86 |
-| Good Mama | 29.00% | ~83 |
-| O Captain My Captain | 26.00% | ~75 |
+| Good Mama | 29.00% | ~84 |
+| O Captain My Captain | 27.00% | ~78 |
+| Taxonomist | 25.00% | ~72 |
 | Plunderer | 25.00% | ~72 |
-| Taxonomist | 24.00% | ~69 |
+| Uncertain Loyalties | 23.00% | ~66 |
 | Nahua Seeker | 22.00% | ~63 |
-| Uncertain Loyalties | 22.00% | ~63 |
 | Traveller | 21.00% | ~60 |
-| Roll to Save | 20.00% | ~57 |
+| Roll to Save | 20.00% | ~58 |
 | Red Flag Pirate | 17.00% | ~49 |
 | Veteran Explorer | 17.00% | ~49 |
 | For the Club! | 15.00% | ~43 |
+| A Gentle Beast | 15.00% | ~43 |
 | Practical Palaeontology | 15.00% | ~43 |
 | Dapper | 15.00% | ~43 |
+| Iron Man | 14.00% | ~40 |
 | Shortening of the Way | 14.00% | ~40 |
-| A Gentle Beast | 14.00% | ~40 |
 | The New Director | 13.00% | ~37 |
 | The Director is Dead | 13.00% | ~37 |
-| Iron Man | 13.00% | ~37 |
 | Discovery | 13.00% | ~37 |
 | Plays Well With Others | 13.00% | ~37 |
-| Adventurer | 11.00% | ~32 |
+| Adventurer | 12.00% | ~35 |
 | Very Classy | 11.00% | ~32 |
 | Under the Table | 10.00% | ~29 |
 | And Here Is Your Statue | 9.00% | ~26 |
@@ -51,10 +51,10 @@ Number of Ratings: 20  (23.09.2022)
 | Islander Understanding | 5.00% | ~14 |
 | A Paris Sunset | 5.00% | ~14 |
 | The Workshop | 5.00% | ~14 |
-| The Director Perseveres | 4.00% | ~11 |
-| X Marks the Spot | 4.00% | ~11 |
-| The Round Table | 4.00% | ~11 |
-| Frugal | 4.00% | ~11 |
+| The Director Perseveres | 4.00% | ~12 |
+| X Marks the Spot | 4.00% | ~12 |
+| The Round Table | 4.00% | ~12 |
+| Frugal | 4.00% | ~12 |
 | A Familiar Figure | 3.00% | ~9 |
 | A Perfect Map | 3.00% | ~9 |
 | Risk/Reward | 3.00% | ~9 |
@@ -67,12 +67,13 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287 (Ranked 207)  
+Progressed: 288 (Ranked 207)  
 Completed: 1 (0.35%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 287 | 1 |
+| 2023-05-05 | 288 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

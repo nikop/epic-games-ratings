@@ -141,7 +141,7 @@
 | 127 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 408 |
 | 127 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 490 |
 | 127 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 490 |
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 198 |
+| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 399 | 198 |
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 490 |
 | 142 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 490 |
 | 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 517 | 179 |
@@ -472,7 +472,7 @@
 | 466 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.55 | 0 | 490 |
 | 466 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 440 |
 | 466 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 490 |
-| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 835 | 145 |
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 837 | 144 |
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 434 |
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,135 | 125 |
 | 476 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 2,260 | 95 |
@@ -536,7 +536,7 @@
 | 531 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
 | 531 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,534 | 12 |
 | 531 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
-| 531 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,286 | 94 |
+| 531 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,291 | 94 |
 | 531 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
 | 531 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 490 |
 | 531 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 490 |

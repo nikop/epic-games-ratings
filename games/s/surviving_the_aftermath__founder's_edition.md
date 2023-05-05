@@ -11,19 +11,19 @@ Diff (max vs sum): 54
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 69.00% | ~3,378 |
-| Leader | 60.00% | ~2,937 |
-| Explorer | 53.00% | ~2,594 |
-| Healer | 52.00% | ~2,545 |
+| Leader | 60.00% | ~2,938 |
+| Explorer | 53.00% | ~2,595 |
+| Healer | 52.00% | ~2,546 |
 | Aspiring Inventor | 45.00% | ~2,203 |
 | Adventurer | 41.00% | ~2,007 |
 | Famous Healer | 38.00% | ~1,860 |
-| Local Leader | 35.00% | ~1,713 |
-| New Opportunities | 34.00% | ~1,664 |
-| Famous Explorer | 33.00% | ~1,615 |
-| Energized | 33.00% | ~1,615 |
-| The Long Haul | 33.00% | ~1,615 |
-| Survivor | 31.00% | ~1,517 |
-| The Great Healer | 30.00% | ~1,468 |
+| Local Leader | 35.00% | ~1,714 |
+| New Opportunities | 34.00% | ~1,665 |
+| Famous Explorer | 33.00% | ~1,616 |
+| Energized | 33.00% | ~1,616 |
+| The Long Haul | 33.00% | ~1,616 |
+| Survivor | 31.00% | ~1,518 |
+| The Great Healer | 30.00% | ~1,469 |
 | Catastrofan | 28.00% | ~1,371 |
 | Legendary Explorer | 27.00% | ~1,322 |
 | Cleaner | 27.00% | ~1,322 |
@@ -42,8 +42,8 @@ Diff (max vs sum): 54
 | Spreading Influence | 15.00% | ~734 |
 | Bookworm | 14.00% | ~685 |
 | Famous Adventurer | 13.00% | ~636 |
-| Prepared for Anything | 12.00% | ~587 |
-| Big Catastrofan | 12.00% | ~587 |
+| Prepared for Anything | 12.00% | ~588 |
+| Big Catastrofan | 12.00% | ~588 |
 | It's a Finnish Thing | 10.00% | ~490 |
 | Sky Burial | 9.00% | ~441 |
 | Trader | 8.00% | ~392 |
@@ -70,7 +70,7 @@ Diff (max vs sum): 54
 | Fun and Games | 0.10% | ~5 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,895 (Ranked 121)  
+Progressed: 4,896 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
 | 2023-05-04 | 4,882 | 0 |
-| 2023-05-05 | 4,895 | 0 |
+| 2023-05-05 | 4,896 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2212,8 +2212,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:38:14.6712716+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:07.0339884+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:03:45.5211836+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:58:53.9065457+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:30:52.3653595+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -2231,5 +2231,5 @@
   "NumberOfAwardsMax": 533,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

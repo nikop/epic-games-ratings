@@ -310,9 +310,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_1090",
@@ -3910,9 +3910,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     }
   ],
   "Tags": [
@@ -5124,6 +5124,11 @@
       "Time": "2023-05-05T15:42:53.8709818+00:00",
       "NumProgressed": 86540,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T16:08:10.2103619+00:00",
+      "NumProgressed": 86541,
+      "NumCompleted": 1806
     }
   ],
   "RatingHistory": [
@@ -8587,26 +8592,26 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T15:42:53.8709812+00:00",
-  "EOS_NewCompleters": 20,
-  "EOS_NewPlayers": 793,
-  "EOS_Completed": 1805,
-  "EOS_Progressed": 86540,
-  "LastUpdate_Achievements": "2023-05-05T15:42:53.8738498+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:56.4011442+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:10.2103613+00:00",
+  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 794,
+  "EOS_Completed": 1806,
+  "EOS_Progressed": 86541,
+  "LastUpdate_Achievements": "2023-05-05T16:08:10.2136884+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:52.0009832+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:29.6230385+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52814,
+      "Progressed": 52815,
       "Completed": 2465
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86540,
-      "Completed": 1805
+      "Progressed": 86541,
+      "Completed": 1806
     }
   ],
   "EOS_Completed_Percentage": 2.09,

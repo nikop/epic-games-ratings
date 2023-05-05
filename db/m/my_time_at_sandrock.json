@@ -809,13 +809,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T15:42:06.8211324+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:16.4040235+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:42:06.821136+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:55.715256+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:16.4040265+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:51.2015799+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:29.0534131+00:00",
   "AchievementSets": [
     {
@@ -841,5 +841,5 @@
   "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

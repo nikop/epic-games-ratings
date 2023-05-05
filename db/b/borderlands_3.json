@@ -19,7 +19,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24430
+      "Count": 24445
     },
     {
       "Text": "This game is Extremely Fun",
@@ -55,7 +55,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22873
+      "Count": 22893
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5225,6 +5225,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 340449,
       "NumberOfAwardsMax": 108663
+    },
+    {
+      "Time": "2023-05-05T16:01:46.2624126+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 340484,
+      "NumberOfAwardsMax": 108663
     }
   ],
   "TotalAchievementsXP": 0,
@@ -5233,12 +5239,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:41:09.2100669+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:36:35.1018618+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:06:07.5548059+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:46.2624133+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:47.4492701+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T11:59:47.8253189+00:00",
+  "LastChanged": "2023-05-05T16:01:46.2624121+00:00",
   "ProductSlug": "borderlands-3",
   "Rating": 4.69,
   "Ranking_Rating": 213,
@@ -5248,9 +5254,9 @@
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 151211,
-  "NumberOfAwards": 340449,
+  "NumberOfAwards": 340484,
   "NumberOfAwardsMax": 108663,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

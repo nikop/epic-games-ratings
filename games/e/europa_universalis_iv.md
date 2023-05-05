@@ -10,37 +10,37 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,684 |
-| That's a Grand Army | 8.00% | ~2,386 |
-| That is mine! | 8.00% | ~2,386 |
-| Victorious! | 8.00% | ~2,386 |
-| Brothers in Arms | 6.00% | ~1,789 |
-| That's a Grand Navy | 6.00% | ~1,789 |
-| Seriously?! | 6.00% | ~1,789 |
-| For the Glory | 5.00% | ~1,491 |
-| Cold War | 4.00% | ~1,193 |
+| Until death do us apart | 9.00% | ~2,686 |
+| That's a Grand Army | 8.00% | ~2,387 |
+| That is mine! | 8.00% | ~2,387 |
+| Victorious! | 8.00% | ~2,387 |
+| Brothers in Arms | 6.00% | ~1,790 |
+| That's a Grand Navy | 6.00% | ~1,790 |
+| Seriously?! | 6.00% | ~1,790 |
+| For the Glory | 5.00% | ~1,492 |
+| Cold War | 4.00% | ~1,194 |
 | Defender of the Faith | 3.00% | ~895 |
 | It's all about the money | 3.00% | ~895 |
 | Respected | 3.00% | ~895 |
 | True Catholic | 3.00% | ~895 |
-| Blockader | 2.00% | ~596 |
-| Combined Arms | 2.00% | ~596 |
-| Double the Love | 2.00% | ~596 |
-| Gentle Persuasion | 2.00% | ~596 |
-| It's all about luck | 2.00% | ~596 |
-| Queen of Conquest | 2.00% | ~596 |
-| Royal Authority | 2.00% | ~596 |
-| The Princess is in this Castle | 2.00% | ~596 |
-| Total Control | 2.00% | ~596 |
-| Truly Divine Ruler | 2.00% | ~596 |
+| Blockader | 2.00% | ~597 |
+| Combined Arms | 2.00% | ~597 |
+| Double the Love | 2.00% | ~597 |
+| Gentle Persuasion | 2.00% | ~597 |
+| It's all about luck | 2.00% | ~597 |
+| Queen of Conquest | 2.00% | ~597 |
+| Royal Authority | 2.00% | ~597 |
+| The Princess is in this Castle | 2.00% | ~597 |
+| Total Control | 2.00% | ~597 |
+| Truly Divine Ruler | 2.00% | ~597 |
 | Agressive Expander | 1.00% | ~298 |
 | Azur semé de lis or | 1.00% | ~298 |
 | Bright Spark | 1.00% | ~298 |
 | Factionalism | 1.00% | ~298 |
 | A Golden Empire | 1.00% | ~298 |
 | My armies are invincible! | 1.00% | ~298 |
-| All That's Thine Shall Be Mine | 0.90% | ~268 |
-| City of Cities | 0.90% | ~268 |
+| All That's Thine Shall Be Mine | 0.90% | ~269 |
+| City of Cities | 0.90% | ~269 |
 | Isn't this the way to India? | 0.70% | ~209 |
 | The Five Colonies | 0.70% | ~209 |
 | The Emperors new clothes | 0.60% | ~179 |
@@ -55,18 +55,18 @@ Diff (max vs sum): 34
 | Early-Modern Warfare | 0.40% | ~119 |
 | The pen is mightier than the sword | 0.40% | ~119 |
 | Trophy Hunter | 0.40% | ~119 |
-| Absolutely | 0.30% | ~89 |
-| Dude, Where's my Boat? | 0.30% | ~89 |
-| In the Name of the Father | 0.30% | ~89 |
-| Live Long and Prosper | 0.30% | ~89 |
-| One Family to Rule them All | 0.30% | ~89 |
-| One Night in Paris | 0.30% | ~89 |
-| Populists in Government | 0.30% | ~89 |
-| Ruina Imperii | 0.30% | ~89 |
-| Tear Down This Wall | 0.30% | ~89 |
-| The Continuation of Diplomacy | 0.30% | ~89 |
-| This is My Faith | 0.30% | ~89 |
-| Voting Streak | 0.30% | ~89 |
+| Absolutely | 0.30% | ~90 |
+| Dude, Where's my Boat? | 0.30% | ~90 |
+| In the Name of the Father | 0.30% | ~90 |
+| Live Long and Prosper | 0.30% | ~90 |
+| One Family to Rule them All | 0.30% | ~90 |
+| One Night in Paris | 0.30% | ~90 |
+| Populists in Government | 0.30% | ~90 |
+| Ruina Imperii | 0.30% | ~90 |
+| Tear Down This Wall | 0.30% | ~90 |
+| The Continuation of Diplomacy | 0.30% | ~90 |
+| This is My Faith | 0.30% | ~90 |
+| Voting Streak | 0.30% | ~90 |
 | A Decent Reserve | 0.20% | ~60 |
 | A Pile of Gold | 0.20% | ~60 |
 | All Your Trade Are Belong to Us | 0.20% | ~60 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,819 (Ranked 82)  
+Progressed: 29,840 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,819 | 0 |
+| 2023-05-05 | 29,840 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -30,9 +30,9 @@ Diff (max vs sum): -16
 | First Class Student | 4.00% | ~10,623 |
 | Troll with the Punches | 4.00% | ~10,623 |
 | That's a Keeper | 4.00% | ~10,623 |
-| The Seeker of Knowledge | 3.00% | ~7,967 |
-| The Root of the Problem | 3.00% | ~7,967 |
-| Third Time's a Charm | 3.00% | ~7,967 |
+| The Seeker of Knowledge | 3.00% | ~7,968 |
+| The Root of the Problem | 3.00% | ~7,968 |
+| Third Time's a Charm | 3.00% | ~7,968 |
 | The Toast of the Town | 2.00% | ~5,312 |
 | Going Through the Potions | 2.00% | ~5,312 |
 | Room with a View | 2.00% | ~5,312 |
@@ -49,13 +49,13 @@ Diff (max vs sum): -16
 | Finishing Touches | 0.90% | ~2,390 |
 | Demiguise Dread | 0.70% | ~1,859 |
 | A Forte for Achievement | 0.70% | ~1,859 |
-| Savvy Spender | 0.60% | ~1,593 |
+| Savvy Spender | 0.60% | ~1,594 |
 | Merlin's Beard! | 0.50% | ~1,328 |
 | The Nature of the Beast | 0.40% | ~1,062 |
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,577 (Ranked 38)  
+Progressed: 265,584 (Ranked 38)  
 Completed: 347 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 347 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,577 | 347 |
+| 2023-05-05 | 265,584 | 347 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

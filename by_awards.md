@@ -93,7 +93,7 @@
 | 91 | [Rage 2](games/r/rage_2.md) | 2,435 | 4.28 | 765 |
 | 92 | [Among Us](games/a/among_us.md) | 2,390 | 4.58 | 414 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,346 | 4.80 | 78 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,286 | 4.50 | 531 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,291 | 4.50 | 531 |
 | 95 | [Dead Island 2](games/d/dead_island_2.md) | 2,260 | 4.54 | 476 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,259 | 4.10 | 853 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,235 | 4.79 | 91 |
@@ -144,7 +144,7 @@
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 857 | 4.69 | 213 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 847 | 4.45 | 599 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 837 | 4.76 | 114 |
-| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 835 | 4.55 | 466 |
+| 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 837 | 4.55 | 466 |
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 770 | 4.69 | 213 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 768 | 4.74 | 142 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 752 | 4.50 | 531 |
@@ -197,7 +197,7 @@
 | 195 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
 | 196 | [RimWorld](games/r/rimworld.md) | 404 | 4.89 | 12 |
 | 197 | [Football Manager 2023](games/f/football_manager_2023.md) | 402 | 4.75 | 127 |
-| 198 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 398 | 4.74 | 142 |
+| 198 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 399 | 4.74 | 142 |
 | 199 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 395 | 4.40 | 664 |
 | 200 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 394 | 4.49 | 549 |
 | 201 | [Second Extinction™](games/s/second_extinction™.md) | 393 | 4.06 | 867 |

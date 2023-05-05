@@ -3,8 +3,8 @@
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
 Rating: 4.74 (Ranked 142)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 398  (Ranked 198)  
-Sum: 554 (Ranked 285)  
+Max (Great Boss Battles): 399  (Ranked 198)  
+Sum: 555 (Ranked 285)  
 Diff (max vs sum): -87  
 ## Achievements
 | Name | Percentage | Users |
@@ -64,7 +64,7 @@ Completed: 30 (0.29%) (Ranked 119)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 398 |
+| This game has Great Boss Battles | 399 |
 | This game is Highly Recommended | 29 |
 | This game has Diverse Characters | 28 |
 | This game is Great for Beginners | 27 |
@@ -101,3 +101,4 @@ Completed: 30 (0.29%) (Ranked 119)
 | 2023-04-08 | 4.74 | 397 | 551 |
 | 2023-04-17 | 4.74 | 398 | 553 |
 | 2023-04-23 | 4.74 | 398 | 554 |
+| 2023-05-05 | 4.74 | 399 | 555 |

@@ -31,7 +31,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3727
+      "Count": 3732
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4251,6 +4251,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 26214,
       "NumberOfAwardsMax": 4021
+    },
+    {
+      "Time": "2023-05-05T15:59:39.2656608+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 26219,
+      "NumberOfAwardsMax": 4021
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4259,12 +4265,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:38:08.3784677+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:45.9683758+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:03:38.1177684+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:39.2656613+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:21.3064263+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T15:34:45.9683749+00:00",
+  "LastChanged": "2023-05-05T15:59:39.2656606+00:00",
   "ProductSlug": "chivalry-2",
   "Rating": 4.61,
   "Ranking_Rating": 353,
@@ -4274,9 +4280,9 @@
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 18078,
-  "NumberOfAwards": 26214,
+  "NumberOfAwards": 26219,
   "NumberOfAwardsMax": 4021,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

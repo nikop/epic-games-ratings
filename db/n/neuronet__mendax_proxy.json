@@ -14,9 +14,9 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
@@ -445,13 +445,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T15:42:48.115743+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:03.6744082+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 8,
   "EOS_Completed": 0,
   "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-05T15:42:48.1157998+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:36:41.7987416+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:08:03.6744497+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:54.2583129+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:52.7770789+00:00",
   "AchievementSets": [
     {

@@ -49,7 +49,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6542
+      "Count": 6546
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4863,6 +4863,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 82970,
       "NumberOfAwardsMax": 10090
+    },
+    {
+      "Time": "2023-05-05T15:59:54.4009545+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 82974,
+      "NumberOfAwardsMax": 10090
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4871,12 +4877,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:39:13.9736978+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:58.4429818+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:03:56.2983518+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:54.4009552+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:31.28699+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T14:57:48.8833624+00:00",
+  "LastChanged": "2023-05-05T15:59:54.4009542+00:00",
   "ProductSlug": "mtg-arena",
   "Rating": 4.45,
   "Ranking_Rating": 599,
@@ -4886,9 +4892,9 @@
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 14652,
-  "NumberOfAwards": 82970,
+  "NumberOfAwards": 82974,
   "NumberOfAwardsMax": 10090,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

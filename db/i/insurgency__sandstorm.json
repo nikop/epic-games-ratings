@@ -32,7 +32,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -64,7 +64,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -72,7 +72,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -112,7 +112,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "ACH_JR_50",
@@ -136,7 +136,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -240,7 +240,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -264,7 +264,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -280,7 +280,7 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     }
   ],
   "Tags": [
@@ -306,7 +306,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 280
+      "Count": 282
     },
     {
       "Text": "This game has Challenging Combat",
@@ -330,7 +330,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1540,6 +1540,11 @@
     {
       "Time": "2023-05-05T15:42:05.7764966+00:00",
       "NumProgressed": 362080,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T16:07:15.3581614+00:00",
+      "NumProgressed": 362088,
       "NumCompleted": 2
     }
   ],
@@ -3277,28 +3282,34 @@
       "Rating": 4.61,
       "NumberOfAwards": 2612,
       "NumberOfAwardsMax": 349
+    },
+    {
+      "Time": "2023-05-05T15:59:33.6829967+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2615,
+      "NumberOfAwardsMax": 349
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T15:42:05.776496+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:15.3581608+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3855,
+  "EOS_NewPlayers": 3863,
   "EOS_Completed": 2,
-  "EOS_Progressed": 362080,
-  "LastUpdate_Achievements": "2023-05-05T15:42:05.7765532+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:41.509012+00:00",
+  "EOS_Progressed": 362088,
+  "LastUpdate_Achievements": "2023-05-05T16:07:15.358197+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:33.6829974+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:18.1355337+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 362080,
+      "Progressed": 362088,
       "Completed": 2
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T21:58:11.2484096+00:00",
+  "LastChanged": "2023-05-05T15:59:33.6829964+00:00",
   "ProductSlug": "insurgency-sandstorm",
   "Rating": 4.61,
   "Ranking_Rating": 353,
@@ -3309,7 +3320,7 @@
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 1316,
-  "NumberOfAwards": 2612,
+  "NumberOfAwards": 2615,
   "NumberOfAwardsMax": 349,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",

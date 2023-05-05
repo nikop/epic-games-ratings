@@ -8,7 +8,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16,7 +16,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "EAST_FINISHED",
@@ -24,7 +24,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -56,7 +56,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -120,7 +120,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "INTRO_FINISHED",
@@ -128,7 +128,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6502
+      "UsersEstimate": 6505
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -136,7 +136,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2397
     },
     {
       "ID": "NORTH_FINISHED",
@@ -160,7 +160,7 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     }
   ],
   "Tags": [],
@@ -1299,6 +1299,11 @@
       "Time": "2023-05-05T15:42:56.9177824+00:00",
       "NumProgressed": 8555,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-05-05T16:08:13.2410669+00:00",
+      "NumProgressed": 8559,
+      "NumCompleted": 196
     }
   ],
   "RatingHistory": [
@@ -1648,23 +1653,23 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T15:42:56.9177819+00:00",
-  "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 608,
-  "EOS_Completed": 195,
-  "EOS_Progressed": 8555,
-  "LastUpdate_Achievements": "2023-05-05T15:42:56.9178041+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:37:12.1482016+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:13.2410663+00:00",
+  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 612,
+  "EOS_Completed": 196,
+  "EOS_Progressed": 8559,
+  "LastUpdate_Achievements": "2023-05-05T16:08:13.241089+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:02:30.0384924+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:16.9789399+00:00",
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8555,
-      "Completed": 195
+      "Progressed": 8559,
+      "Completed": 196
     }
   ],
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.29,
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
   "ProductSlug": "aer-memories-of-old",
   "Rating": 4.45,

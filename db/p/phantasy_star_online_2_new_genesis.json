@@ -7,7 +7,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 835
+      "Count": 837
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1861,6 +1861,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 3633,
       "NumberOfAwardsMax": 835
+    },
+    {
+      "Time": "2023-05-05T16:00:08.9515626+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3635,
+      "NumberOfAwardsMax": 837
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1869,24 +1875,24 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:37:48.411151+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:10.6073757+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:03:14.6538741+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:00:08.9515631+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:40.7449815+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T15:35:10.6073747+00:00",
+  "LastChanged": "2023-05-05T16:00:08.9515623+00:00",
   "ProductSlug": "phantasy-star-online-2",
   "Rating": 4.55,
   "Ranking_Rating": 466,
-  "Ranking_Popularity": 145,
+  "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfRatings": 692,
-  "NumberOfAwards": 3633,
-  "NumberOfAwardsMax": 835,
+  "NumberOfAwards": 3635,
+  "NumberOfAwardsMax": 837,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

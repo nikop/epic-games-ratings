@@ -262,8 +262,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:41:38.4339727+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:37:11.8085267+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:06:43.510435+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:02:29.6942508+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:16.5782835+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -281,5 +281,5 @@
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

@@ -166,9 +166,9 @@
       "ID": "ACH_BASE_3",
       "SetID": "92iocjf",
       "Name": "Catastrophe Avoided",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_30",
@@ -246,9 +246,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_40",
@@ -811,13 +811,13 @@
   ],
   "TotalAchievementsXP": 1050,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-05T15:42:13.1901382+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:23.8519877+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
   "EOS_Progressed": 1829,
-  "LastUpdate_Achievements": "2023-05-05T15:42:13.1902255+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:21.5654938+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:23.8520479+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:00:22.8390578+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:49.4897807+00:00",
   "AchievementSets": [
     {

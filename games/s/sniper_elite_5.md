@@ -46,13 +46,13 @@ Rating: 4.44 (Ranked 621)
 | Siegebreaker | 5.00% | ~32 |
 | Strategist | 4.00% | ~27 |
 | Don't hold your breath | 4.00% | ~27 |
+| Shoot for the Moon | 4.00% | ~27 |
 | If You Go Down To The Woods Today | 4.00% | ~25 |
 | Fight Another Day | 4.00% | ~25 |
 | Burn after reading | 3.00% | ~20 |
 | It'll Buff Right Out | 3.00% | ~20 |
 | Locomotion Commotion | 3.00% | ~20 |
 | Road Rage | 3.00% | ~20 |
-| Shoot for the Moon | 3.00% | ~20 |
 | Out of Scope | 2.00% | ~14 |
 | From Paris with Love | 2.00% | ~14 |
 | Souvenir hunter | 2.00% | ~14 |

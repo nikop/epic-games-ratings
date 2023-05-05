@@ -3,9 +3,9 @@
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.00% |
-| 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
-| 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 6 | [Island Cities](games/i/island_cities.md) | 18.18% |
+| 4 | [Island Cities](games/i/island_cities.md) | 20.00% |
+| 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
+| 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -53,7 +53,7 @@
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |

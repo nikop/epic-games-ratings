@@ -48,7 +48,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 7967
+      "UsersEstimate": 7968
     },
     {
       "ID": "PFA_15",
@@ -144,7 +144,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7967
+      "UsersEstimate": 7968
     },
     {
       "ID": "PFA_26",
@@ -176,7 +176,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7967
+      "UsersEstimate": 7968
     },
     {
       "ID": "PFA_3",
@@ -200,7 +200,7 @@
       "Name": "Savvy Spender",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "PFA_32",
@@ -1591,6 +1591,11 @@
     {
       "Time": "2023-05-05T15:42:07.8875443+00:00",
       "NumProgressed": 265577,
+      "NumCompleted": 347
+    },
+    {
+      "Time": "2023-05-05T16:07:17.7065332+00:00",
+      "NumProgressed": 265584,
       "NumCompleted": 347
     }
   ],
@@ -3416,19 +3421,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T15:42:07.8875423+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:17.7065327+00:00",
   "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1225,
   "EOS_Completed": 347,
-  "EOS_Progressed": 265577,
-  "LastUpdate_Achievements": "2023-05-05T15:42:07.8875892+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:06.3488314+00:00",
+  "EOS_Progressed": 265584,
+  "LastUpdate_Achievements": "2023-05-05T16:07:17.7065752+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:58:53.0222767+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:30:51.878187+00:00",
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265577,
+      "Progressed": 265584,
       "Completed": 347
     }
   ],

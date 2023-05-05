@@ -31,6 +31,7 @@ Diff (max vs sum): 25
 | Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~173 |
 | Tall Tales | 0.20% | ~106 |
+| The Silken Swamp | 0.20% | ~173 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
@@ -67,6 +68,7 @@ Diff (max vs sum): 25
 | Underdeep Cartography | 0.20% | ~173 |
 | Overdue Rendezvous | 0.20% | ~173 |
 | The Templar's Camp | 0.20% | ~173 |
+| Rescue in the Jungle | 0.20% | ~173 |
 | Pros and CONs | 0.10% | ~87 |
 | Upholding the Law | 0.10% | ~87 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -102,7 +104,6 @@ Diff (max vs sum): 25
 | First Third Out | 0.10% | ~53 |
 | Second Third Out | 0.10% | ~53 |
 | Third Third Out | 0.10% | ~53 |
-| The Silken Swamp | 0.10% | ~87 |
 | Slack-jawed Lorna | 0.10% | ~53 |
 | I'm Sure I Saw It Move! | 0.10% | ~53 |
 | End of the Line | 0.10% | ~53 |
@@ -498,10 +499,9 @@ Diff (max vs sum): 25
 | The Haunted Jungle | 0.10% | ~87 |
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
-| Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,540 (Ranked 59)  
-Completed: 1,805 (2.09%) (Ranked 55)  
+Progressed: 86,541 (Ranked 59)  
+Completed: 1,806 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -515,7 +515,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,540 | 1,805 |
+| 2023-05-05 | 86,541 | 1,806 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

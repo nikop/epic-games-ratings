@@ -472,8 +472,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:41:10.0083108+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:36:41.4685242+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:06:08.3646248+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:53.731207+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:52.46501+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -491,5 +491,5 @@
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

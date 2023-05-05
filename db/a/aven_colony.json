@@ -1456,8 +1456,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:39:26.7021182+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:20.1234237+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:04:11.7359399+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:09.0831828+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:02.1143396+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -1475,5 +1475,5 @@
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

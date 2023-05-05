@@ -1648,8 +1648,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:41:42.6639144+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:37:17.8360032+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:06:48.4900663+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:02:36.5854005+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:21.4291041+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -1667,5 +1667,5 @@
   "NumberOfAwardsMax": 1214,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

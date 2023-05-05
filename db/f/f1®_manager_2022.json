@@ -1224,13 +1224,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T15:42:27.3434982+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:39.9979377+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:42:27.3435019+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:13.4328663+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:39.9979422+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:00:12.9452576+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:42.9666846+00:00",
   "AchievementSets": [
     {
@@ -1257,5 +1257,5 @@
   "NumberOfAwardsMax": 238,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

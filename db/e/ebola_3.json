@@ -70,9 +70,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achCity",
@@ -891,13 +891,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T15:43:02.3613509+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:19.4808888+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 94,
   "EOS_Completed": 0,
   "EOS_Progressed": 126,
-  "LastUpdate_Achievements": "2023-05-05T15:43:02.3614308+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:37:17.9975968+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:08:19.4809404+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:02:36.7724924+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:21.2179363+00:00",
   "AchievementSets": [
     {

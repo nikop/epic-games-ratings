@@ -462,7 +462,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 447
+      "Count": 448
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5170,17 +5170,23 @@
       "Rating": 4.82,
       "NumberOfAwards": 10212,
       "NumberOfAwardsMax": 6029
+    },
+    {
+      "Time": "2023-05-05T16:01:01.9173172+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10213,
+      "NumberOfAwardsMax": 6029
     }
   ],
   "TotalAchievementsXP": 1350,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T15:42:38.6877053+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:52.6714265+00:00",
   "EOS_NewCompleters": 12,
   "EOS_NewPlayers": 338,
   "EOS_Completed": 12707,
   "EOS_Progressed": 702607,
-  "LastUpdate_Achievements": "2023-05-05T15:42:38.6877982+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:54.9362542+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:52.6714726+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:01.9173178+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:17.061451+00:00",
   "AchievementSets": [
     {
@@ -5197,7 +5203,7 @@
     }
   ],
   "EOS_Completed_Percentage": 1.81,
-  "LastChanged": "2023-05-05T15:35:54.9362532+00:00",
+  "LastChanged": "2023-05-05T16:01:01.917317+00:00",
   "ProductSlug": "sifu",
   "Rating": 4.82,
   "Ranking_Rating": 59,
@@ -5208,7 +5214,7 @@
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewCompleters": 16,
   "NumberOfRatings": 9492,
-  "NumberOfAwards": 10212,
+  "NumberOfAwards": 10213,
   "NumberOfAwardsMax": 6029,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",

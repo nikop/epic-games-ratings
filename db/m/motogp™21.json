@@ -209,8 +209,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:37:55.8809835+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:25.1446431+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:03:23.3841838+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:00:26.6392624+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:51.8549008+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -228,5 +228,5 @@
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

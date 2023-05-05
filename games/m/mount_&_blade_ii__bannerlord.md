@@ -5,35 +5,35 @@ Rating: 4.74 (Ranked 142)
 Number of Ratings: 5,603  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,480  (Ranked 49)  
-Sum: 12,906 (Ranked 68)  
+Sum: 12,908 (Ranked 68)  
 Diff (max vs sum): -19  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,613 |
-| Landlord | 29.00% | ~14,170 |
-| Bannerlord | 20.00% | ~9,772 |
-| Horde breaker | 20.00% | ~9,772 |
-| Lawmaker | 20.00% | ~9,772 |
+| Lawbringer | 34.00% | ~16,614 |
+| Landlord | 29.00% | ~14,171 |
+| Bannerlord | 20.00% | ~9,773 |
+| Horde breaker | 20.00% | ~9,773 |
+| Lawmaker | 20.00% | ~9,773 |
 | Trained | 19.00% | ~9,284 |
 | The king is pleased | 16.00% | ~7,818 |
-| King Solomon | 15.00% | ~7,329 |
+| King Solomon | 15.00% | ~7,330 |
 | I can do it | 14.00% | ~6,841 |
 | Apple of my eye | 13.00% | ~6,352 |
-| God of the Arena | 12.00% | ~5,863 |
+| God of the Arena | 12.00% | ~5,864 |
 | Against all odds | 9.00% | ~4,398 |
 | Swordbearer | 9.00% | ~4,398 |
 | Duelist | 8.00% | ~3,909 |
 | Dynasty | 8.00% | ~3,909 |
 | I spit on your grave | 8.00% | ~3,909 |
-| Butterlord | 7.00% | ~3,420 |
-| What have the Romans ever done for us? | 7.00% | ~3,420 |
+| Butterlord | 7.00% | ~3,421 |
+| What have the Romans ever done for us? | 7.00% | ~3,421 |
 | Mastery | 6.00% | ~2,932 |
 | Know your enemy | 5.00% | ~2,443 |
 | This Is Our Land | 5.00% | ~2,443 |
-| Crush your enemies | 4.00% | ~1,954 |
-| My way | 4.00% | ~1,954 |
-| Veni vidi vici | 4.00% | ~1,954 |
+| Crush your enemies | 4.00% | ~1,955 |
+| My way | 4.00% | ~1,955 |
+| Veni vidi vici | 4.00% | ~1,955 |
 | Crowdfunded | 3.00% | ~1,466 |
 | Freedom! | 3.00% | ~1,466 |
 | Entrepreneur | 2.00% | ~977 |
@@ -62,7 +62,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,862 (Ranked 73)  
+Progressed: 48,865 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,13 +77,13 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,862 | 0 |
+| 2023-05-05 | 48,865 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,480 |
+| This game is Great for Beginners | 794 |
 | This game has Diverse Characters | 794 |
-| This game is Great for Beginners | 792 |
 | This game is Highly Recommended | 760 |
 | This game is Extremely Fun | 724 |
 | This game has Amazing Storytelling | 720 |
@@ -206,3 +206,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.74 | - | 6,472 | 12,886 |
 | 2023-05-03 | 4.74 | - | 6,477 | 12,897 |
 | 2023-05-04 | 4.74 | - | 6,480 | 12,906 |
+| 2023-05-05 | 4.74 | - | 6,480 | 12,908 |

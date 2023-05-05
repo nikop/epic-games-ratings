@@ -3960,8 +3960,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:41:58.7003299+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:37:38.1491419+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:07.5028358+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:03:00.2282778+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:36.7765887+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -3979,5 +3979,5 @@
   "NumberOfAwardsMax": 1731,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

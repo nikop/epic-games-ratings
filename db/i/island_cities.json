@@ -166,17 +166,17 @@
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "Tags": [],
@@ -420,6 +420,11 @@
       "Time": "2023-05-04T00:03:11.6896263+00:00",
       "NumProgressed": 55,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-05T16:07:33.4929223+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 11
     }
   ],
   "RatingHistory": [
@@ -432,32 +437,32 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T15:42:21.5759655+00:00",
-  "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 30,
-  "EOS_Completed": 10,
+  "LastChanged_Achievements": "2023-05-05T16:07:33.4929218+00:00",
+  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 29,
+  "EOS_Completed": 11,
   "EOS_Progressed": 55,
-  "LastUpdate_Achievements": "2023-05-05T15:42:21.5759849+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:34:55.5297208+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:33.4929403+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:59:50.9967641+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:28.9528555+00:00",
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 55,
-      "Completed": 10
+      "Completed": 11
     }
   ],
-  "EOS_Completed_Percentage": 18.18,
+  "EOS_Completed_Percentage": 20,
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 268,
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Completed": 4,
+  "Ranking_EOS_NewCompleters": 19,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
-  "Ranking_EOS_NewPlayers": 140
+  "Ranking_EOS_NewPlayers": 142
 }

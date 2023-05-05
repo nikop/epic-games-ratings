@@ -70,9 +70,9 @@
       "ID": "ending_6",
       "SetID": "d4f4pll",
       "Name": "Stalemate",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ending_7",
@@ -206,13 +206,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T15:43:03.2929114+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:08:20.5334207+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 16,
   "EOS_Progressed": 450,
-  "LastUpdate_Achievements": "2023-05-05T15:43:03.2929256+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:33:59.6173423+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:08:20.5334364+00:00",
+  "LastUpdate_Ratings": "2023-05-05T15:58:44.0165107+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:37.0313379+00:00",
   "AchievementSets": [
     {

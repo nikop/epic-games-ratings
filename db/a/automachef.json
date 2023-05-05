@@ -611,8 +611,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:41:06.2658375+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:36:32.1748564+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:06:03.9295584+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:42.9224418+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:45.2042602+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -630,5 +630,5 @@
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

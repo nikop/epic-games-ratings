@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T15:40:29.0242306+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:35:25.9683949+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:05:20.0006394+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:00:27.5740813+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:52.710555+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
@@ -32,5 +32,5 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-08T19:57:22.635934+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }

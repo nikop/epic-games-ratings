@@ -389,13 +389,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T15:42:39.1315261+00:00",
+  "LastChanged_Achievements": "2023-05-05T16:07:53.17658+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-05T15:42:39.1315651+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:36:00.5876385+00:00",
+  "LastUpdate_Achievements": "2023-05-05T16:07:53.1766137+00:00",
+  "LastUpdate_Ratings": "2023-05-05T16:01:08.8576992+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:21.16406+00:00",
   "AchievementSets": [
     {
@@ -409,12 +409,12 @@
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 252,
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewCompleters": 77,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-15T15:02:54.3970273+00:00",
-  "Ranking_EOS_NewPlayers": 269
+  "Ranking_EOS_NewPlayers": 270
 }
