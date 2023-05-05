@@ -13,7 +13,7 @@ namespace EpicRatingsUpdater
 
         public async Task Run(List<GameDbItem> items)
         {
-            Console.WriteLine("Updating Ratings");
+            Console.WriteLine("::group::Ratings Update");
 
             var orderedItems = items.OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
 
@@ -47,6 +47,8 @@ namespace EpicRatingsUpdater
                 Console.WriteLine($"{c} / {total}");
                 await Task.WhenAny(task, Task.Delay(5000));
             }
+
+            Console.WriteLine("::endgroup::");
         }
 
         public async Task UpdateItem(GameDbItem item)

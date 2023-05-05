@@ -15,7 +15,7 @@ namespace EpicRatingsUpdater
 
         public async Task Run(List<GameDbItem> items)
         {
-            Console.WriteLine("Updating Achievements");
+            Console.WriteLine("::group::Achievements Update");
 
             var orderedItems = items.OrderBy(x => x.LastUpdate_Achievements ?? DateTimeOffset.MinValue).ToList();
 
@@ -52,6 +52,8 @@ namespace EpicRatingsUpdater
                 Console.WriteLine($"{c} / {total}");
                 await Task.WhenAny(task, Task.Delay(5000));
             }
+
+            Console.WriteLine("::endgroup::");
         }
 
         GameDbItemEOSHistory? GetComparisonPoint(IEnumerable<GameDbItemEOSHistory> items)

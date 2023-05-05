@@ -15,10 +15,10 @@ namespace EpicRatingsUpdater
 
         public async Task Run(List<GameDbItem> items)
         {
-            Console.WriteLine("Updating AppInfo");
+            Console.WriteLine("::group::Product Pages Update");
 
             var cutOff = DateTimeOffset.UtcNow.AddDays(-7);
-            var forceUpdate = true;
+            var forceUpdate = false;
 
 #if DEBUG
             forceUpdate = true;
@@ -59,6 +59,8 @@ namespace EpicRatingsUpdater
                 Console.WriteLine($"{c} / {total}");
                 await Task.WhenAny(task, Task.Delay(5000));
             }
+
+            Console.WriteLine("::endgroup::");
         }
 
         public async Task UpdateItem(GameDbItem item)

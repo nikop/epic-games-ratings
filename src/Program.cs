@@ -14,7 +14,10 @@ var skipRatingsUpdate = args.Any(x => x == "--skip-ratings");
 var skipAchievementsUpdate = args.Any(x => x == "--skip-achievement");
 
 #if DEBUG
+skipCatalog = true;
+skipAppInfo = true;
 skipRatingsUpdate = true;
+skipAchievementsUpdate = true;
 #endif
 
 var ratingsCutOffNew = DateTimeOffset.UtcNow.AddDays(-30);
@@ -100,6 +103,17 @@ MarkdownHelpers.RankItems(
     x => x.EOS_NewCompleters,
     (x, rank) => x.Ranking_EOS_NewCompleters = rank
 );
+
+//
+foreach (var file in Directory.GetFiles("games", "*.md", SearchOption.AllDirectories))
+{
+    File.Delete(file);
+}
+foreach (var file in Directory.GetFiles("experimental", "*.md", SearchOption.AllDirectories))
+{
+    File.Delete(file);
+}
+
 
 foreach (var item in items)
 {
