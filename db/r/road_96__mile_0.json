@@ -8,7 +8,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "completeact2",
@@ -16,7 +16,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 52,
       "XP": 80,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "completeact3",
@@ -24,7 +24,7 @@
       "Name": "On the Road",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "findalltapes",
@@ -46,9 +46,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "scoreminrankrb2",
@@ -56,7 +56,7 @@
       "Name": "Freedom",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "scoreminrankrf1",
@@ -78,9 +78,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "scoreminrankrp1",
@@ -96,7 +96,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "scoreminrankrp3",
@@ -199,6 +199,11 @@
       "Time": "2023-05-04T04:03:57.4753929+00:00",
       "NumProgressed": 145,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T10:04:52.7752111+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -211,29 +216,29 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T09:05:52.1547338+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:52.7752098+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_Completed": 2,
-  "EOS_Progressed": 145,
-  "LastUpdate_Achievements": "2023-05-05T09:05:52.1547439+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:45.2003242+00:00",
+  "EOS_Progressed": 146,
+  "LastUpdate_Achievements": "2023-05-05T10:04:52.7752223+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:58:12.9007536+00:00",
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 1.38,
+  "EOS_Completed_Percentage": 1.37,
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeen": "2023-04-05T01:40:29.4675735+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_Progress": 236,
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00"

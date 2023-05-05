@@ -9,69 +9,69 @@ Diff (max vs sum): -7
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is It Really Necessary? | 90.00% | ~3,101,988 |
-| Little Craftsman | 88.00% | ~3,033,055 |
-| Flight of the Crane | 85.00% | ~2,929,655 |
-| My left or your left? | 51.00% | ~1,757,793 |
-| Prom Night | 43.00% | ~1,482,061 |
-| Can't Touch This | 36.00% | ~1,240,795 |
-| I've Got Your Back | 36.00% | ~1,240,795 |
-| Mouths Wide Open | 35.00% | ~1,206,329 |
-| Open Sesame | 34.00% | ~1,171,862 |
-| Strong | 34.00% | ~1,171,862 |
-| Harran Shooting Club | 30.00% | ~1,033,996 |
-| Agile | 29.00% | ~999,529 |
-| Snake in the grass | 28.00% | ~965,063 |
-| Everybody Knows Kyle | 28.00% | ~965,063 |
-| Trade Company | 27.00% | ~930,596 |
-| Sightseeing | 26.00% | ~896,130 |
-| Hush, Hush Now | 22.00% | ~758,264 |
-| Making Faces | 22.00% | ~758,264 |
-| Tied loose end | 20.00% | ~689,331 |
-| The Legend of Harran | 18.00% | ~620,398 |
-| Now You Can Come In | 18.00% | ~620,398 |
-| Vertigo | 18.00% | ~620,398 |
-| Pheidippides | 15.00% | ~516,998 |
-| Bittersweet | 15.00% | ~516,998 |
-| Everybody Dance Now | 13.00% | ~448,065 |
-| Afraid to get wet? | 11.00% | ~379,132 |
-| BBQ | 9.00% | ~310,199 |
-| Disaster Recovery | 7.00% | ~241,266 |
-| Mount Everest | 6.00% | ~206,799 |
-| A Game of Catch | 6.00% | ~206,799 |
-| Pearls in the Mud | 6.00% | ~206,799 |
-| I felt your presence | 6.00% | ~206,799 |
-| Now It's Safe | 5.00% | ~172,333 |
-| Master Crafter | 5.00% | ~172,333 |
-| I was waiting for you for so long | 5.00% | ~172,333 |
-| Gabriel's Sword | 4.00% | ~137,866 |
-| We're All In This Together | 3.00% | ~103,400 |
-| High Flyer | 3.00% | ~103,400 |
-| A Long Way Down | 3.00% | ~103,400 |
-| And you liked him, didn't you? | 3.00% | ~103,400 |
-| What if you picked the other one? | 3.00% | ~103,400 |
-| Bolter Hunting | 2.00% | ~68,933 |
-| Harran Athletics | 2.00% | ~68,933 |
-| Blinded by the Lights | 2.00% | ~68,933 |
-| Judo Master | 2.00% | ~68,933 |
-| Get the Bozak | 2.00% | ~68,933 |
-| Robin Hood Theory | 2.00% | ~68,933 |
-| You realize it's only points, don't you? | 2.00% | ~68,933 |
-| The Whole Story | 1.00% | ~34,467 |
-| Lucky 7 | 1.00% | ~34,467 |
-| Polyamory | 1.00% | ~34,467 |
-| It wasn't that hard, was it? | 1.00% | ~34,467 |
-| I don't approve of mindless fun | 1.00% | ~34,467 |
-| It's All In the Writing | 0.80% | ~27,573 |
-| Things That Go Ka-Boom | 0.70% | ~24,127 |
-| Electric Whisper | 0.60% | ~20,680 |
-| Clavis was a key all along | 0.60% | ~20,680 |
-| I'm a Runner and a fighter | 0.50% | ~17,233 |
-| This is Harraaaaan! | 0.40% | ~13,787 |
-| Together Till the End | 0.40% | ~13,787 |
-| Electrified! | 0.20% | ~6,893 |
-| Sweaty palms? | 0.20% | ~6,893 |
-| Beginnings are hard | 0.20% | ~6,893 |
+| Is It Really Necessary? | 90.00% | ~3,102,332 |
+| Little Craftsman | 88.00% | ~3,033,391 |
+| Flight of the Crane | 85.00% | ~2,929,980 |
+| My left or your left? | 51.00% | ~1,757,988 |
+| Prom Night | 43.00% | ~1,482,225 |
+| Can't Touch This | 36.00% | ~1,240,933 |
+| I've Got Your Back | 36.00% | ~1,240,933 |
+| Mouths Wide Open | 35.00% | ~1,206,462 |
+| Open Sesame | 34.00% | ~1,171,992 |
+| Strong | 34.00% | ~1,171,992 |
+| Harran Shooting Club | 30.00% | ~1,034,110 |
+| Agile | 29.00% | ~999,640 |
+| Snake in the grass | 28.00% | ~965,170 |
+| Everybody Knows Kyle | 28.00% | ~965,170 |
+| Trade Company | 27.00% | ~930,699 |
+| Sightseeing | 26.00% | ~896,229 |
+| Hush, Hush Now | 22.00% | ~758,348 |
+| Making Faces | 22.00% | ~758,348 |
+| Tied loose end | 20.00% | ~689,407 |
+| The Legend of Harran | 18.00% | ~620,466 |
+| Now You Can Come In | 18.00% | ~620,466 |
+| Vertigo | 18.00% | ~620,466 |
+| Pheidippides | 15.00% | ~517,055 |
+| Bittersweet | 15.00% | ~517,055 |
+| Everybody Dance Now | 13.00% | ~448,115 |
+| Afraid to get wet? | 11.00% | ~379,174 |
+| BBQ | 9.00% | ~310,233 |
+| Disaster Recovery | 7.00% | ~241,292 |
+| Mount Everest | 6.00% | ~206,822 |
+| A Game of Catch | 6.00% | ~206,822 |
+| Pearls in the Mud | 6.00% | ~206,822 |
+| I felt your presence | 6.00% | ~206,822 |
+| Now It's Safe | 5.00% | ~172,352 |
+| Master Crafter | 5.00% | ~172,352 |
+| I was waiting for you for so long | 5.00% | ~172,352 |
+| Gabriel's Sword | 4.00% | ~137,881 |
+| We're All In This Together | 3.00% | ~103,411 |
+| High Flyer | 3.00% | ~103,411 |
+| A Long Way Down | 3.00% | ~103,411 |
+| And you liked him, didn't you? | 3.00% | ~103,411 |
+| What if you picked the other one? | 3.00% | ~103,411 |
+| Bolter Hunting | 2.00% | ~68,941 |
+| Harran Athletics | 2.00% | ~68,941 |
+| Blinded by the Lights | 2.00% | ~68,941 |
+| Judo Master | 2.00% | ~68,941 |
+| Get the Bozak | 2.00% | ~68,941 |
+| Robin Hood Theory | 2.00% | ~68,941 |
+| You realize it's only points, don't you? | 2.00% | ~68,941 |
+| The Whole Story | 1.00% | ~34,470 |
+| Lucky 7 | 1.00% | ~34,470 |
+| Polyamory | 1.00% | ~34,470 |
+| It wasn't that hard, was it? | 1.00% | ~34,470 |
+| I don't approve of mindless fun | 1.00% | ~34,470 |
+| It's All In the Writing | 0.80% | ~27,576 |
+| Things That Go Ka-Boom | 0.70% | ~24,129 |
+| Electric Whisper | 0.60% | ~20,682 |
+| Clavis was a key all along | 0.60% | ~20,682 |
+| I'm a Runner and a fighter | 0.50% | ~17,235 |
+| This is Harraaaaan! | 0.40% | ~13,788 |
+| Together Till the End | 0.40% | ~13,788 |
+| Electrified! | 0.20% | ~6,894 |
+| Sweaty palms? | 0.20% | ~6,894 |
+| Beginnings are hard | 0.20% | ~6,894 |
 | Homo Homini Lupus Est | 0.10% | ~3,447 |
 | Trespassing | 0.10% | ~3,447 |
 | Enlightened! | 0.10% | ~3,447 |
@@ -88,7 +88,7 @@ Diff (max vs sum): -7
 | Fast as hell | 0.10% | ~3,447 |
 | Into the lava | 0.10% | ~3,447 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,446,653 (Ranked 4)  
+Progressed: 3,447,035 (Ranked 4)  
 Completed: 7 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 7 (0.00%) (Ranked 191)
 | 2023-05-02 | 3,422,528 | 7 |
 | 2023-05-03 | 3,433,675 | 7 |
 | 2023-05-04 | 3,443,474 | 7 |
-| 2023-05-05 | 3,446,653 | 7 |
+| 2023-05-05 | 3,447,035 | 7 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

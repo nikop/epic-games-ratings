@@ -276,13 +276,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T09:05:36.51018+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:39.2826297+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 36,
-  "LastUpdate_Achievements": "2023-05-05T09:05:36.5101986+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:19.2579871+00:00",
+  "LastUpdate_Achievements": "2023-05-05T10:04:39.2826507+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:50.8394675+00:00",
   "AchievementSets": [
     {
       "ID": "aio76gp",
@@ -298,7 +298,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_Progress": 280,
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00"

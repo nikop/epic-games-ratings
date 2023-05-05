@@ -48,7 +48,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9873
+      "UsersEstimate": 9874
     },
     {
       "ID": "FiveShadows",
@@ -64,7 +64,7 @@
       "Name": "Flying Rocks",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "GearUp",
@@ -96,7 +96,7 @@
       "Name": "Happy Planning",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "HighFiveTheMoon",
@@ -128,7 +128,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9873
+      "UsersEstimate": 9874
     },
     {
       "ID": "Mercyful",
@@ -160,7 +160,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "NoGimmicks",
@@ -184,7 +184,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "OldMan",
@@ -224,7 +224,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9873
+      "UsersEstimate": 9874
     },
     {
       "ID": "Rollin",
@@ -232,7 +232,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9873
+      "UsersEstimate": 9874
     },
     {
       "ID": "StillRollin",
@@ -296,7 +296,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13164
+      "UsersEstimate": 13165
     },
     {
       "ID": "TimeParadox",
@@ -312,7 +312,7 @@
       "Name": "Undeserved Honor",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "WarriorBarrel",
@@ -328,7 +328,7 @@
       "Name": "Warzone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -1588,6 +1588,11 @@
       "Time": "2023-05-05T09:05:55.0544023+00:00",
       "NumProgressed": 164556,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T10:04:55.3440181+00:00",
+      "NumProgressed": 164564,
+      "NumCompleted": 41
     }
   ],
   "RatingHistory": [
@@ -2522,18 +2527,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T09:05:55.0544018+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:55.3440175+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2265,
+  "EOS_NewPlayers": 2259,
   "EOS_Completed": 41,
-  "EOS_Progressed": 164556,
-  "LastUpdate_Achievements": "2023-05-05T09:05:55.0544358+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:57.0057898+00:00",
+  "EOS_Progressed": 164564,
+  "LastUpdate_Achievements": "2023-05-05T10:04:55.3440591+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:58:20.9069867+00:00",
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164556,
+      "Progressed": 164564,
       "Completed": 41
     }
   ],

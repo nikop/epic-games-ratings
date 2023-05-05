@@ -9,29 +9,29 @@ Diff (max vs sum): 40
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~218,657 |
+| First Steps | 96.00% | ~218,658 |
 | Uncharted Territory | 89.00% | ~202,714 |
 | Getting A Glimpse | 73.00% | ~166,271 |
-| A Quick Escape | 65.00% | ~148,049 |
-| Explorer | 62.00% | ~141,216 |
-| Defeat The Dark | 61.00% | ~138,938 |
-| An Offering | 61.00% | ~138,938 |
-| Colorful Corpse | 58.00% | ~132,105 |
-| That Was Quick | 56.00% | ~127,550 |
-| A Donation | 56.00% | ~127,550 |
+| A Quick Escape | 65.00% | ~148,050 |
+| Explorer | 62.00% | ~141,217 |
+| Defeat The Dark | 61.00% | ~138,939 |
+| An Offering | 61.00% | ~138,939 |
+| Colorful Corpse | 58.00% | ~132,106 |
+| That Was Quick | 56.00% | ~127,551 |
+| A Donation | 56.00% | ~127,551 |
 | Goodbye, Frog Friend | 54.00% | ~122,995 |
-| Heavy Hitter | 52.00% | ~118,439 |
-| Heartless | 46.00% | ~104,773 |
-| Spine Breaker | 46.00% | ~104,773 |
+| Heavy Hitter | 52.00% | ~118,440 |
+| Heartless | 46.00% | ~104,774 |
+| Spine Breaker | 46.00% | ~104,774 |
 | Deflection | 44.00% | ~100,218 |
-| Sneaky | 43.00% | ~97,940 |
+| Sneaky | 43.00% | ~97,941 |
 | Delving Deeper | 42.00% | ~95,663 |
 | Ambitious Intent | 41.00% | ~93,385 |
 | C-C-Combo | 41.00% | ~93,385 |
-| The Bestiary | 40.00% | ~91,107 |
+| The Bestiary | 40.00% | ~91,108 |
 | Nothing To Lose | 39.00% | ~88,830 |
 | What's Yours Is Mine | 38.00% | ~86,552 |
-| R.I.P | 36.00% | ~81,996 |
+| R.I.P | 36.00% | ~81,997 |
 | Shootout | 35.00% | ~79,719 |
 | Cold Hearted | 34.00% | ~77,441 |
 | I Am Overburdened | 34.00% | ~77,441 |
@@ -39,15 +39,15 @@ Diff (max vs sum): 40
 | Toxic | 32.00% | ~72,886 |
 | Who To Trust? | 31.00% | ~70,608 |
 | Flesh Wound | 29.00% | ~66,053 |
-| Walk It Off | 27.00% | ~61,497 |
-| Stone Touch | 27.00% | ~61,497 |
-| Acid Bath | 27.00% | ~61,497 |
-| Shadow Walker | 27.00% | ~61,497 |
+| Walk It Off | 27.00% | ~61,498 |
+| Stone Touch | 27.00% | ~61,498 |
+| Acid Bath | 27.00% | ~61,498 |
+| Shadow Walker | 27.00% | ~61,498 |
 | Consecutive Curses | 26.00% | ~59,220 |
 | Destroy Your Fears | 26.00% | ~59,220 |
 | New Perspectives | 26.00% | ~59,220 |
 | Shapeshifting | 26.00% | ~59,220 |
-| Save Our Souls | 24.00% | ~54,664 |
+| Save Our Souls | 24.00% | ~54,665 |
 | To The Death! | 19.00% | ~43,276 |
 | Well Prepared | 19.00% | ~43,276 |
 | Just Chilling | 19.00% | ~43,276 |
@@ -63,15 +63,15 @@ Diff (max vs sum): 40
 | A Rough Road | 12.00% | ~27,332 |
 | Berzerker | 12.00% | ~27,332 |
 | Chain Reaction | 12.00% | ~27,332 |
-| Antivenom | 11.00% | ~25,054 |
+| Antivenom | 11.00% | ~25,055 |
 | Thank You, Friend | 10.00% | ~22,777 |
 | Barbecue | 9.00% | ~20,499 |
 | Snake Sneak | 9.00% | ~20,499 |
-| Challenge Increases | 8.00% | ~18,221 |
-| New Game+ | 8.00% | ~18,221 |
-| Clearing The Room | 8.00% | ~18,221 |
-| Fragile Mortality | 8.00% | ~18,221 |
-| Precious | 8.00% | ~18,221 |
+| Challenge Increases | 8.00% | ~18,222 |
+| New Game+ | 8.00% | ~18,222 |
+| Clearing The Room | 8.00% | ~18,222 |
+| Fragile Mortality | 8.00% | ~18,222 |
+| Precious | 8.00% | ~18,222 |
 | Path To Enlightenment | 7.00% | ~15,944 |
 | Decisions, Decisions | 7.00% | ~15,944 |
 | Fire Away! | 7.00% | ~15,944 |
@@ -132,7 +132,7 @@ Diff (max vs sum): 40
 | Never Too Many Hats | 0.40% | ~911 |
 | Near Death Experience | 0.30% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,768 (Ranked 41)  
+Progressed: 227,769 (Ranked 41)  
 Completed: 223 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 223 (0.10%) (Ranked 150)
 | 2023-05-02 | 227,639 | 223 |
 | 2023-05-03 | 227,692 | 223 |
 | 2023-05-04 | 227,747 | 223 |
-| 2023-05-05 | 227,768 | 223 |
+| 2023-05-05 | 227,769 | 223 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

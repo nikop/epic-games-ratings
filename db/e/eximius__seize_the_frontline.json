@@ -8,7 +8,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14655
+      "UsersEstimate": 14656
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -16,7 +16,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130064
+      "UsersEstimate": 130068
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24,7 +24,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9159
+      "UsersEstimate": 9160
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -40,7 +40,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 32974
+      "UsersEstimate": 32975
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -88,7 +88,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9159
+      "UsersEstimate": 9160
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -128,7 +128,7 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9159
+      "UsersEstimate": 9160
     }
   ],
   "Tags": [],
@@ -1257,6 +1257,11 @@
       "Time": "2023-05-05T09:06:05.5675225+00:00",
       "NumProgressed": 183189,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T10:05:04.4601814+00:00",
+      "NumProgressed": 183194,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1457,18 +1462,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T09:06:05.567522+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:05:04.4601808+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1262,
+  "EOS_NewPlayers": 1266,
   "EOS_Completed": 4,
-  "EOS_Progressed": 183189,
-  "LastUpdate_Achievements": "2023-05-05T09:06:05.5675367+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:59:47.5445762+00:00",
+  "EOS_Progressed": 183194,
+  "LastUpdate_Achievements": "2023-05-05T10:05:04.4602002+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:02.2298937+00:00",
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183189,
+      "Progressed": 183194,
       "Completed": 4
     }
   ],

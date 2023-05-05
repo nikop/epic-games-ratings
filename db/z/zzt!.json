@@ -8,7 +8,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "2",
@@ -24,7 +24,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "4",
@@ -32,7 +32,7 @@
       "Name": "Adventurer",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "5",
@@ -40,7 +40,7 @@
       "Name": "Hero",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "Tags": [],
@@ -689,6 +689,11 @@
       "Time": "2023-05-05T08:05:38.9399779+00:00",
       "NumProgressed": 2283,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-05T10:04:47.5550773+00:00",
+      "NumProgressed": 2284,
+      "NumCompleted": 60
     }
   ],
   "RatingHistory": [
@@ -701,28 +706,28 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-05T09:05:46.4848249+00:00",
-  "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 125,
-  "EOS_Completed": 59,
-  "EOS_Progressed": 2283,
-  "LastUpdate_Achievements": "2023-05-05T09:05:46.4848344+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:16.6117708+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:47.5550765+00:00",
+  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 126,
+  "EOS_Completed": 60,
+  "EOS_Progressed": 2284,
+  "LastUpdate_Achievements": "2023-05-05T10:04:47.5550886+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:57:48.5754633+00:00",
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2283,
-      "Completed": 59
+      "Progressed": 2284,
+      "Completed": 60
     }
   ],
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.63,
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 20,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_Progress": 139,

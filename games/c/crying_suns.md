@@ -9,20 +9,20 @@ Diff (max vs sum): -95
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,798 |
-| Jeef Skeejj | 44.00% | ~201,199 |
-| Careful planning | 39.00% | ~178,335 |
-| Second Coming | 33.00% | ~150,899 |
-| Jeef Skagg | 30.00% | ~137,181 |
+| The Shutdown | 66.00% | ~301,800 |
+| Jeef Skeejj | 44.00% | ~201,200 |
+| Careful planning | 39.00% | ~178,336 |
+| Second Coming | 33.00% | ~150,900 |
+| Jeef Skagg | 30.00% | ~137,182 |
 | Mother | 25.00% | ~114,318 |
-| In space, no one can hear you scream | 23.00% | ~105,172 |
-| Chapter I: Echoes | 22.00% | ~100,599 |
-| Excelsior Rule | 22.00% | ~100,599 |
-| Things persisted in not being what they seemed | 20.00% | ~91,454 |
-| Knightmare Frames | 15.00% | ~68,590 |
-| May His passing cleanse the world | 15.00% | ~68,590 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,590 |
-| Pope Zenon | 15.00% | ~68,590 |
+| In space, no one can hear you scream | 23.00% | ~105,173 |
+| Chapter I: Echoes | 22.00% | ~100,600 |
+| Excelsior Rule | 22.00% | ~100,600 |
+| Things persisted in not being what they seemed | 20.00% | ~91,455 |
+| Knightmare Frames | 15.00% | ~68,591 |
+| May His passing cleanse the world | 15.00% | ~68,591 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,591 |
+| Pope Zenon | 15.00% | ~68,591 |
 | Tetsuo | 11.00% | ~50,300 |
 | Plan for the worst | 11.00% | ~50,300 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,727 |
@@ -75,7 +75,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,270 (Ranked 28)  
+Progressed: 457,273 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,270 | 14 |
+| 2023-05-05 | 457,273 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

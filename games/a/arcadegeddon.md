@@ -9,28 +9,28 @@ Diff (max vs sum): 86
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,627 |
-| Photogenic | 87.00% | ~5,380 |
-| Surge Gauntlet Jockey | 85.00% | ~5,256 |
+| Let's Get This Party Started | 91.00% | ~5,628 |
+| Photogenic | 87.00% | ~5,381 |
+| Surge Gauntlet Jockey | 85.00% | ~5,257 |
 | Plug It In | 84.00% | ~5,195 |
-| Adventure Time | 80.00% | ~4,947 |
+| Adventure Time | 80.00% | ~4,948 |
 | Playing With Power | 77.00% | ~4,762 |
 | You're Fired | 59.00% | ~3,649 |
 | Coup d'Etat | 58.00% | ~3,587 |
-| Get Furious | 55.00% | ~3,401 |
-| Gunplay And Cosplay | 54.00% | ~3,339 |
-| Hacks In Stacks | 54.00% | ~3,339 |
-| Meching Enemies | 49.00% | ~3,030 |
-| Booty Bashing | 48.00% | ~2,968 |
-| Ticket Toddler | 48.00% | ~2,968 |
+| Get Furious | 55.00% | ~3,402 |
+| Gunplay And Cosplay | 54.00% | ~3,340 |
+| Hacks In Stacks | 54.00% | ~3,340 |
+| Meching Enemies | 49.00% | ~3,031 |
+| Booty Bashing | 48.00% | ~2,969 |
+| Ticket Toddler | 48.00% | ~2,969 |
 | Here Comes a New Challenger | 37.00% | ~2,288 |
-| Field Medic | 36.00% | ~2,226 |
+| Field Medic | 36.00% | ~2,227 |
 | Guardian Angel | 34.00% | ~2,103 |
 | Rapid Response | 32.00% | ~1,979 |
 | The Full Monty | 32.00% | ~1,979 |
 | Surge Ahead | 31.00% | ~1,917 |
 | Poppin Noggins | 25.00% | ~1,546 |
-| Clips and Crits | 23.00% | ~1,422 |
+| Clips and Crits | 23.00% | ~1,423 |
 | Grey Goo | 21.00% | ~1,299 |
 | Boss of Bosses | 15.00% | ~928 |
 | The Final Blow | 15.00% | ~928 |
@@ -60,7 +60,7 @@ Diff (max vs sum): 86
 | Infinite Adventures! | 0.50% | ~31 |
 | Pyrotechnical | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,184 (Ranked 113)  
+Progressed: 6,185 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 6,135 | 0 |
 | 2023-05-03 | 6,158 | 0 |
 | 2023-05-04 | 6,178 | 0 |
-| 2023-05-05 | 6,184 | 0 |
+| 2023-05-05 | 6,185 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

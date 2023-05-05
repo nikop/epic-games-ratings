@@ -9,31 +9,31 @@ Diff (max vs sum): 2
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,672 |
-| Cavalier | 25.00% | ~194,896 |
-| Fatso | 23.00% | ~179,305 |
-| Awakening | 20.00% | ~155,917 |
-| Ranger | 20.00% | ~155,917 |
-| Scrooge | 20.00% | ~155,917 |
-| Anorectic | 16.00% | ~124,734 |
-| Firestarter | 15.00% | ~116,938 |
-| Bookworm | 14.00% | ~109,142 |
-| Insomniac | 13.00% | ~101,346 |
-| Buddy | 11.00% | ~85,754 |
-| Sinner | 11.00% | ~85,754 |
-| Thief | 11.00% | ~85,754 |
+| Blacksmith's Son | 31.00% | ~241,673 |
+| Cavalier | 25.00% | ~194,898 |
+| Fatso | 23.00% | ~179,306 |
+| Awakening | 20.00% | ~155,918 |
+| Ranger | 20.00% | ~155,918 |
+| Scrooge | 20.00% | ~155,918 |
+| Anorectic | 16.00% | ~124,735 |
+| Firestarter | 15.00% | ~116,939 |
+| Bookworm | 14.00% | ~109,143 |
+| Insomniac | 13.00% | ~101,347 |
+| Buddy | 11.00% | ~85,755 |
+| Sinner | 11.00% | ~85,755 |
+| Thief | 11.00% | ~85,755 |
 | Convict | 10.00% | ~77,959 |
 | Traveller | 10.00% | ~77,959 |
 | Haggler | 9.00% | ~70,163 |
 | Runt | 7.00% | ~54,571 |
 | Casanova | 6.00% | ~46,775 |
 | McLovin | 6.00% | ~46,775 |
-| Bad Trip | 5.00% | ~38,979 |
-| Monk | 5.00% | ~38,979 |
-| Serial Killer | 5.00% | ~38,979 |
-| Bastard | 4.00% | ~31,183 |
-| Hunter | 4.00% | ~31,183 |
-| Plague Doctor | 4.00% | ~31,183 |
+| Bad Trip | 5.00% | ~38,980 |
+| Monk | 5.00% | ~38,980 |
+| Serial Killer | 5.00% | ~38,980 |
+| Bastard | 4.00% | ~31,184 |
+| Hunter | 4.00% | ~31,184 |
+| Plague Doctor | 4.00% | ~31,184 |
 | Bard | 3.00% | ~23,388 |
 | Conqueror | 3.00% | ~23,388 |
 | Ginger in a Pickle | 3.00% | ~23,388 |
@@ -92,7 +92,7 @@ Diff (max vs sum): 2
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779,586 (Ranked 11)  
+Progressed: 779,591 (Ranked 11)  
 Completed: 38 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 38 (0.00%) (Ranked 191)
 | 2023-05-02 | 779,243 | 38 |
 | 2023-05-03 | 779,399 | 38 |
 | 2023-05-04 | 779,549 | 38 |
-| 2023-05-05 | 779,586 | 38 |
+| 2023-05-05 | 779,591 | 38 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

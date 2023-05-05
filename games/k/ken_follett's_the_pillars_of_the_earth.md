@@ -3,9 +3,9 @@
 Rating: 4.52 (Ranked 499)  
 Number of Ratings: 368  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Easy Puzzles): 147  (Ranked 284)  
+Max (Easy Puzzles): 147  (Ranked 285)  
 Sum: 186 (Ranked 353)  
-Diff (max vs sum): -69  
+Diff (max vs sum): -68  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

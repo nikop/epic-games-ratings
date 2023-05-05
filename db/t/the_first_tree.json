@@ -96,7 +96,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23606
+      "UsersEstimate": 23607
     },
     {
       "ID": "roots",
@@ -1086,6 +1086,11 @@
       "Time": "2023-05-05T09:06:15.4168614+00:00",
       "NumProgressed": 30264,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-05T10:05:12.9437686+00:00",
+      "NumProgressed": 30265,
+      "NumCompleted": 93
     }
   ],
   "RatingHistory": [
@@ -1293,18 +1298,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T09:06:15.416861+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:05:12.9437681+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_Completed": 93,
-  "EOS_Progressed": 30264,
-  "LastUpdate_Achievements": "2023-05-05T09:06:15.4168738+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:19.4799882+00:00",
+  "EOS_Progressed": 30265,
+  "LastUpdate_Achievements": "2023-05-05T10:05:12.9437828+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:28.5962007+00:00",
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30264,
+      "Progressed": 30265,
       "Completed": 93
     }
   ],

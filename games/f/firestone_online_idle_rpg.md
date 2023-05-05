@@ -17,8 +17,8 @@
 | Miner Clicker | 12.00% | ~101 |
 | Hero inspection | 11.00% | ~93 |
 | Full Party | 9.00% | ~76 |
+| Enlightenment | 7.00% | ~59 |
 | Dragon Master | 6.00% | ~51 |
-| Enlightenment | 6.00% | ~51 |
 | Lieutenant | 5.00% | ~42 |
 | Natural Talent | 5.00% | ~42 |
 | The Unstoppable | 5.00% | ~42 |

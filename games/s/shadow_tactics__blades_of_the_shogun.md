@@ -10,22 +10,22 @@ Diff (max vs sum): 48
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~16,456 |
-| Thorough | 8.00% | ~13,164 |
+| Thorough | 8.00% | ~13,165 |
 | A thief's beginning | 7.00% | ~11,519 |
 | Tanuki Time | 7.00% | ~11,519 |
-| Disguised | 6.00% | ~9,873 |
-| Jonin | 6.00% | ~9,873 |
-| Rescue Takuma | 6.00% | ~9,873 |
-| Rollin' | 6.00% | ~9,873 |
+| Disguised | 6.00% | ~9,874 |
+| Jonin | 6.00% | ~9,874 |
+| Rescue Takuma | 6.00% | ~9,874 |
+| Rollin' | 6.00% | ~9,874 |
 | Chunin | 5.00% | ~8,228 |
 | Ice Ice Yuki | 5.00% | ~8,228 |
 | Stoned Ox | 5.00% | ~8,228 |
 | Yabu | 5.00% | ~8,228 |
-| Flying Rocks | 4.00% | ~6,582 |
-| Happy Planning | 4.00% | ~6,582 |
-| Mugen Unchained | 4.00% | ~6,582 |
-| Okkoto | 4.00% | ~6,582 |
-| Warzone | 4.00% | ~6,582 |
+| Flying Rocks | 4.00% | ~6,583 |
+| Happy Planning | 4.00% | ~6,583 |
+| Mugen Unchained | 4.00% | ~6,583 |
+| Okkoto | 4.00% | ~6,583 |
+| Warzone | 4.00% | ~6,583 |
 | Gear up | 3.00% | ~4,937 |
 | Happy little accidents | 3.00% | ~4,937 |
 | Noboru | 3.00% | ~4,937 |
@@ -41,7 +41,7 @@ Diff (max vs sum): 48
 | Old Man | 1.00% | ~1,646 |
 | The End | 1.00% | ~1,646 |
 | Winner Winner | 1.00% | ~1,646 |
-| Undeserved Honor | 0.80% | ~1,316 |
+| Undeserved Honor | 0.80% | ~1,317 |
 | When Cut Across the Neck | 0.70% | ~1,152 |
 | High Five the Moon | 0.60% | ~987 |
 | The Cave | 0.50% | ~823 |
@@ -54,7 +54,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,556 (Ranked 50)  
+Progressed: 164,564 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,556 | 41 |
+| 2023-05-05 | 164,564 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

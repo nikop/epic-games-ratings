@@ -62,9 +62,9 @@
       "ID": "1022",
       "SetID": "9l3d3cl",
       "Name": "Defender of the Wall",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 773
+      "UsersEstimate": 663
     },
     {
       "ID": "1023",
@@ -104,7 +104,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "1028",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "1031",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "1033",
@@ -168,7 +168,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "1036",
@@ -1345,6 +1345,11 @@
       "Time": "2023-05-05T09:06:14.2221472+00:00",
       "NumProgressed": 11045,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T10:05:11.8668079+00:00",
+      "NumProgressed": 11047,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2502,18 +2507,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T09:06:14.2221466+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:05:11.8668073+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 915,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11045,
-  "LastUpdate_Achievements": "2023-05-05T09:06:14.2221651+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:17.8726373+00:00",
+  "EOS_Progressed": 11047,
+  "LastUpdate_Achievements": "2023-05-05T10:05:11.8668326+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:27.1763993+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11045,
+      "Progressed": 11047,
       "Completed": 23
     }
   ],

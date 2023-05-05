@@ -10,24 +10,24 @@ Diff (max vs sum): 54
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 69.00% | ~3,371 |
-| Leader | 60.00% | ~2,931 |
-| Explorer | 53.00% | ~2,589 |
-| Healer | 52.00% | ~2,540 |
-| Aspiring Inventor | 44.00% | ~2,149 |
+| Leader | 60.00% | ~2,932 |
+| Explorer | 53.00% | ~2,590 |
+| Healer | 52.00% | ~2,541 |
+| Aspiring Inventor | 44.00% | ~2,150 |
 | Adventurer | 41.00% | ~2,003 |
-| Famous Healer | 37.00% | ~1,807 |
+| Famous Healer | 37.00% | ~1,808 |
 | Local Leader | 35.00% | ~1,710 |
 | New Opportunities | 34.00% | ~1,661 |
 | Famous Explorer | 33.00% | ~1,612 |
 | Energized | 33.00% | ~1,612 |
 | The Long Haul | 33.00% | ~1,612 |
-| Survivor | 31.00% | ~1,514 |
+| Survivor | 31.00% | ~1,515 |
 | The Great Healer | 30.00% | ~1,466 |
 | Catastrofan | 28.00% | ~1,368 |
 | Legendary Explorer | 27.00% | ~1,319 |
 | Cleaner | 27.00% | ~1,319 |
-| Finders, Keepers | 25.00% | ~1,221 |
-| Top Notch | 24.00% | ~1,172 |
+| Finders, Keepers | 25.00% | ~1,222 |
+| Top Notch | 24.00% | ~1,173 |
 | Great Leader | 22.00% | ~1,075 |
 | Ice Lakes | 22.00% | ~1,075 |
 | Mentor | 22.00% | ~1,075 |
@@ -43,7 +43,7 @@ Diff (max vs sum): 54
 | Famous Adventurer | 13.00% | ~635 |
 | Prepared for Anything | 12.00% | ~586 |
 | Big Catastrofan | 12.00% | ~586 |
-| It's a Finnish Thing | 10.00% | ~488 |
+| It's a Finnish Thing | 10.00% | ~489 |
 | Sky Burial | 9.00% | ~440 |
 | Trader | 8.00% | ~391 |
 | Bread and Circuses | 7.00% | ~342 |
@@ -69,7 +69,7 @@ Diff (max vs sum): 54
 | Fun and Games | 0.10% | ~5 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,885 (Ranked 121)  
+Progressed: 4,886 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
 | 2023-05-04 | 4,882 | 0 |
-| 2023-05-05 | 4,885 | 0 |
+| 2023-05-05 | 4,886 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

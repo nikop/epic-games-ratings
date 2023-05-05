@@ -40,7 +40,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45431
+      "UsersEstimate": 45432
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -56,7 +56,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136294
+      "UsersEstimate": 136295
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -88,7 +88,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45431
+      "UsersEstimate": 45432
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -104,7 +104,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151438
+      "UsersEstimate": 151439
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -120,7 +120,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121150
+      "UsersEstimate": 121151
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -1329,6 +1329,11 @@
       "Time": "2023-05-05T09:06:12.6672439+00:00",
       "NumProgressed": 1514380,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-05T10:05:10.6555829+00:00",
+      "NumProgressed": 1514387,
+      "NumCompleted": 597
     }
   ],
   "RatingHistory": [
@@ -1728,18 +1733,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T09:06:12.6672435+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:05:10.6555821+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 1517,
+  "EOS_NewPlayers": 1521,
   "EOS_Completed": 597,
-  "EOS_Progressed": 1514380,
-  "LastUpdate_Achievements": "2023-05-05T09:06:12.6672605+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:10.9109303+00:00",
+  "EOS_Progressed": 1514387,
+  "LastUpdate_Achievements": "2023-05-05T10:05:10.6556029+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:21.7654407+00:00",
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514380,
+      "Progressed": 1514387,
       "Completed": 597
     }
   ],

@@ -8,7 +8,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3701
+      "UsersEstimate": 3702
     },
     {
       "ID": "Burning_For_You",
@@ -32,7 +32,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "Eyes_On_Fire",
@@ -40,7 +40,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "Feel_The_Thunder",
@@ -56,7 +56,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -72,7 +72,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -80,7 +80,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "Mirrors",
@@ -120,7 +120,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "The_Reaper",
@@ -1032,6 +1032,11 @@
       "Time": "2023-05-05T09:05:53.7389914+00:00",
       "NumProgressed": 13219,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-05T10:04:54.1661013+00:00",
+      "NumProgressed": 13220,
+      "NumCompleted": 81
     }
   ],
   "RatingHistory": [
@@ -1291,18 +1296,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T09:05:53.7389909+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:54.1661007+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 278,
   "EOS_Completed": 81,
-  "EOS_Progressed": 13219,
-  "LastUpdate_Achievements": "2023-05-05T09:05:53.7390043+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:59:03.2536309+00:00",
+  "EOS_Progressed": 13220,
+  "LastUpdate_Achievements": "2023-05-05T10:04:54.1661175+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:58:26.6480996+00:00",
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13219,
+      "Progressed": 13220,
       "Completed": 81
     }
   ],
@@ -1313,7 +1318,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 76,
   "Ranking_EOS_NewCompleters": 48,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_Progress": 99,
   "Ranking_PopularitySum": 490,

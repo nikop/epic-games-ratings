@@ -29,9 +29,9 @@ Diff (max vs sum): -16
 | First Class Student | 4.00% | ~10,622 |
 | Troll with the Punches | 4.00% | ~10,622 |
 | That's a Keeper | 4.00% | ~10,622 |
-| The Seeker of Knowledge | 3.00% | ~7,966 |
-| The Root of the Problem | 3.00% | ~7,966 |
-| Third Time's a Charm | 3.00% | ~7,966 |
+| The Seeker of Knowledge | 3.00% | ~7,967 |
+| The Root of the Problem | 3.00% | ~7,967 |
+| Third Time's a Charm | 3.00% | ~7,967 |
 | The Toast of the Town | 2.00% | ~5,311 |
 | Going Through the Potions | 2.00% | ~5,311 |
 | Room with a View | 2.00% | ~5,311 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,550 (Ranked 38)  
+Progressed: 265,551 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,550 | 346 |
+| 2023-05-05 | 265,551 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

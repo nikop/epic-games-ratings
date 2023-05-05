@@ -72,7 +72,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -184,7 +184,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "JUSTCOUNTER",
@@ -1063,6 +1063,11 @@
       "Time": "2023-05-05T07:05:28.5291838+00:00",
       "NumProgressed": 37550,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T10:04:50.7921342+00:00",
+      "NumProgressed": 37554,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1263,25 +1268,25 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T09:05:50.0495934+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:04:50.7921333+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 154,
   "EOS_Completed": 1,
-  "EOS_Progressed": 37550,
-  "LastUpdate_Achievements": "2023-05-05T09:05:50.0496324+00:00",
-  "LastUpdate_Ratings": "2023-05-05T08:58:30.6786858+00:00",
+  "EOS_Progressed": 37554,
+  "LastUpdate_Achievements": "2023-05-05T10:04:50.792183+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:58:00.2947255+00:00",
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37550,
+      "Progressed": 37554,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2387,
-      "Completed": 2387
+      "Progressed": 2391,
+      "Completed": 2391
     }
   ],
   "EOS_Completed_Percentage": 0,

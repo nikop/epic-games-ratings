@@ -364,13 +364,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T09:06:20.3481117+00:00",
+  "LastChanged_Achievements": "2023-05-05T10:05:17.2326909+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 253,
-  "LastUpdate_Achievements": "2023-05-05T09:06:20.3481349+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:00:37.4587734+00:00",
+  "LastUpdate_Achievements": "2023-05-05T10:05:17.2327237+00:00",
+  "LastUpdate_Ratings": "2023-05-05T09:59:42.5097455+00:00",
   "AchievementSets": [
     {
       "ID": "5bkacmp",
@@ -386,7 +386,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 215,
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00"
