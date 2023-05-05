@@ -72,8 +72,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:01.8579053+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:21.1494574+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:32.3467579+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:58.4985644+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-12T04:57:48.9573349+00:00",
@@ -81,12 +81,13 @@
   "FirstSeen": "2022-07-22T20:25:44.1996449+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 395,
-  "Rating": 4.59
+  "Rating": 4.59,
+  "ProductSlug": "the-medium/home"
 }

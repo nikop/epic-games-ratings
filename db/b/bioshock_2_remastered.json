@@ -2050,8 +2050,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:01:28.6409599+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:34.0127174+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:32.9249826+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:00.9192863+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T05:59:09.1150922+00:00",
@@ -2060,12 +2060,13 @@
   "NumberOfAwardsMax": 4080,
   "NumberOfAwards": 5216,
   "NumberOfRatings": 12272,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 120,
   "Ranking_Popularity": 71,
   "Ranking_Rating": 513,
-  "Rating": 4.51
+  "Rating": 4.51,
+  "ProductSlug": "bioshock-2-remastered"
 }

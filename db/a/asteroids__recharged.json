@@ -154,13 +154,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 16,
-  "LastChanged_Achievements": "2023-05-05T10:04:51.2842692+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:32.7256918+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 60,
-  "LastUpdate_Achievements": "2023-05-05T10:04:51.28428+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:10.6444047+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:32.7257019+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:35.6588691+00:00",
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
@@ -175,9 +175,10 @@
   "FirstSeen": "2022-07-22T20:32:18.6445496+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_Progress": 266,
-  "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
+  "ProductSlug": "asteroids-recharged"
 }

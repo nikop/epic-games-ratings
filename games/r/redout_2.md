@@ -1,4 +1,5 @@
 # Redout 2
+[Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
 Rating: 4.45 (Ranked 598)  
 ## Achievements

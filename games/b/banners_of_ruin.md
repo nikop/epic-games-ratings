@@ -1,4 +1,5 @@
 # Banners of Ruin
+[Store](https://store.epicgames.com/en-US/p/banners-of-ruin)  
 [View Rawdata](../../db/b/banners_of_ruin.json)  
 Rating: 4.41 (Ranked 650)  
 ## Achievements

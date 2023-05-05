@@ -1,4 +1,5 @@
 # Aven Colony
+[Store](https://store.epicgames.com/en-US/p/aven-colony)  
 [View Rawdata](../../db/a/aven_colony.json)  
 Rating: 4.20 (Ranked 801)  
 Number of Ratings: 2,200  (23.09.2022)  

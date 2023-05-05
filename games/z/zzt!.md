@@ -1,4 +1,5 @@
 # ZZT!
+[Store](https://store.epicgames.com/en-US/p/zzt)  
 [View Rawdata](../../db/z/zzt!.json)  
 ## Achievements
 | Name | Percentage | Users |

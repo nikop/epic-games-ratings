@@ -107,8 +107,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:33.584822+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:06.9763473+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:11.466628+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:18.8761734+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:19.7535597+00:00",
@@ -116,12 +116,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 30,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 447,
-  "Rating": 4.56
+  "Rating": 4.56,
+  "ProductSlug": "hextech-mayhem-a-league-of-legends-story"
 }

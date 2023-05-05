@@ -1,4 +1,5 @@
 # The Vale: Shadow of the Crown
+[Store](https://store.epicgames.com/en-US/p/the-vale-shadow-of-the-crown)  
 [View Rawdata](../../db/t/the_vale__shadow_of_the_crown.json)  
 ## Achievements
 | Name | Percentage | Users |

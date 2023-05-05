@@ -1,4 +1,5 @@
 # Garden Story
+[Store](https://store.epicgames.com/en-US/p/garden-story)  
 [View Rawdata](../../db/g/garden_story.json)  
 ## Achievements
 | Name | Percentage | Users |

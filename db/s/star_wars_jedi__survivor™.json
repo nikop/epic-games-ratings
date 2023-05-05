@@ -133,8 +133,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:21.130383+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:44.1353185+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:56.0803106+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:26.7055259+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T09:59:44.1353179+00:00",
@@ -143,12 +143,13 @@
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 157,
   "NumberOfAwards": 157,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 374,
   "Ranking_Popularity": 280,
   "Ranking_Rating": 686,
-  "Rating": 4.38
+  "Rating": 4.38,
+  "ProductSlug": "star-wars-jedi-survivor"
 }

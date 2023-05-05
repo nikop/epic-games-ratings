@@ -322,8 +322,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:31.1708549+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:17.0592051+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:08.5281073+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:30.4561734+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-02-16T05:57:24.9355249+00:00",
@@ -332,12 +332,13 @@
   "NumberOfAwardsMax": 72,
   "NumberOfAwards": 72,
   "NumberOfRatings": 179,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 413,
   "Ranking_Popularity": 355,
   "Ranking_Rating": 650,
-  "Rating": 4.41
+  "Rating": 4.41,
+  "ProductSlug": "sonic-colors-ultimate"
 }

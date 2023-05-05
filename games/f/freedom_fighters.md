@@ -1,4 +1,5 @@
 # Freedom Fighters
+[Store](https://store.epicgames.com/en-US/p/freedom-fighters)  
 [View Rawdata](../../db/f/freedom_fighters.json)  
 Rating: 4.65 (Ranked 290)  
 ## Achievements

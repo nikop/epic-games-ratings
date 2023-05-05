@@ -2125,8 +2125,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:45.603103+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:59.3433698+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:12.3023217+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:31.1480453+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T21:59:13.9541054+00:00",
@@ -2135,12 +2135,13 @@
   "NumberOfAwardsMax": 5760,
   "NumberOfAwards": 6778,
   "NumberOfRatings": 20961,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 105,
   "Ranking_Popularity": 56,
   "Ranking_Rating": 272,
-  "Rating": 4.66
+  "Rating": 4.66,
+  "ProductSlug": "tomb-raider"
 }

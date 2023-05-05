@@ -1,4 +1,5 @@
 # Airborne Kingdom
+[Store](https://store.epicgames.com/en-US/p/airborne-kingdom/home)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 74  (23.09.2022)  

@@ -387,8 +387,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:49.7334152+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:39.9719252+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:35.7024909+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:57.6222925+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:07.6418739+00:00",
@@ -396,12 +396,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 419,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 488,
-  "Rating": 4.53
+  "Rating": 4.53,
+  "ProductSlug": "alan-wake"
 }

@@ -1,4 +1,5 @@
 # Critadel
+[Store](https://store.epicgames.com/en-US/p/critadel)  
 [View Rawdata](../../db/c/critadel.json)  
 ## Achievements
 | Name | Percentage | Users |

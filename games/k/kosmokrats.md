@@ -1,4 +1,5 @@
 # Kosmokrats
+[Store](https://store.epicgames.com/en-US/p/kosmokrats)  
 [View Rawdata](../../db/k/kosmokrats.json)  
 ## Achievements
 | Name | Percentage | Users |

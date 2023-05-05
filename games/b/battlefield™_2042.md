@@ -1,4 +1,5 @@
 # Battlefield™ 2042
+[Store](https://store.epicgames.com/en-US/p/battlefield-2042)  
 [View Rawdata](../../db/b/battlefield™_2042.json)  
 ## Achievements
 | Name | Percentage | Users |

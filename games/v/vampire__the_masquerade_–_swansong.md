@@ -1,4 +1,5 @@
 # Vampire: The Masquerade – Swansong
+[Store](https://store.epicgames.com/en-US/p/vampire-the-masquerade-swansong)  
 [View Rawdata](../../db/v/vampire__the_masquerade_–_swansong.json)  
 Rating: 4.20 (Ranked 801)  
 Number of Ratings: 736  (23.09.2022)  

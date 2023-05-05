@@ -1,4 +1,5 @@
 # Chicory: A Colorful Tale
+[Store](https://store.epicgames.com/en-US/p/chicory-a-colorful-tale)  
 [View Rawdata](../../db/c/chicory__a_colorful_tale.json)  
 Rating: 4.74 (Ranked 142)  
 ## Achievements

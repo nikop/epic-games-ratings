@@ -253,8 +253,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:17.6128418+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:39.6135985+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:51.8834858+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:21.2563333+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-01-09T02:07:07.194529+00:00",
@@ -263,12 +263,13 @@
   "NumberOfAwardsMax": 29,
   "NumberOfAwards": 29,
   "NumberOfRatings": 104,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 459,
   "Ranking_Popularity": 447,
   "Ranking_Rating": 737,
-  "Rating": 4.32
+  "Rating": 4.32,
+  "ProductSlug": "speed-brawl"
 }

@@ -1,4 +1,5 @@
 # ChromaGun
+[Store](https://store.epicgames.com/en-US/p/chromagun)  
 [View Rawdata](../../db/c/chromagun.json)  
 ## Achievements
 | Name | Percentage | Users |

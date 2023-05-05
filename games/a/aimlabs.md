@@ -1,4 +1,5 @@
 # Aimlabs
+[Store](https://store.epicgames.com/en-US/p/aimlabs)  
 [View Rawdata](../../db/a/aimlabs.json)  
 Rating: 4.68 (Ranked 233)  
 ## Achievements

@@ -1,4 +1,5 @@
 # Astria Ascending
+[Store](https://store.epicgames.com/en-US/p/astria-ascending)  
 [View Rawdata](../../db/a/astria_ascending.json)  
 ## Achievements
 | Name | Percentage | Users |

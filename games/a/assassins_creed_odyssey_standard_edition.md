@@ -1,4 +1,5 @@
 # Assassins Creed Odyssey Standard Edition
+[Store](https://store.epicgames.com/en-US/p/assassins-creed-odyssey/home)  
 [View Rawdata](../../db/a/assassins_creed_odyssey_standard_edition.json)  
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,481  (23.09.2022)  

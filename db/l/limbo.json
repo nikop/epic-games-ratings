@@ -380,8 +380,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:00.8800936+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:37.6102358+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:49.3597212+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:54.8562755+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:49.8341392+00:00",
@@ -389,12 +389,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 198,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 338,
-  "Rating": 4.62
+  "Rating": 4.62,
+  "ProductSlug": "limbo/home"
 }

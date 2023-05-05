@@ -1,4 +1,5 @@
 # Gorogoa
+[Store](https://store.epicgames.com/en-US/p/gorogoa/home)  
 [View Rawdata](../../db/g/gorogoa.json)  
 ## Achievements
 | Name | Percentage | Users |

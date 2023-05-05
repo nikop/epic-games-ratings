@@ -1,4 +1,5 @@
 # RAILGRADE
+[Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
 Rating: 4.54 (Ranked 475)  
 ## Popularity (Based on Awards)
@@ -8,29 +9,29 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,875 |
-| Before the Downfall | 93.00% | ~16,963 |
-| Money like Water | 91.00% | ~16,598 |
-| Minimalist | 90.00% | ~16,416 |
-| Builder | 83.00% | ~15,139 |
-| Eraser | 70.00% | ~12,768 |
-| Pocket of Trains | 65.00% | ~11,856 |
-| Inspector | 58.00% | ~10,579 |
-| Going the Distance | 54.00% | ~9,850 |
-| Oil Baron | 42.00% | ~7,661 |
-| Loads-a-Money | 42.00% | ~7,661 |
+| Trevithick's Legacy | 98.00% | ~17,877 |
+| Before the Downfall | 93.00% | ~16,965 |
+| Money like Water | 91.00% | ~16,600 |
+| Minimalist | 90.00% | ~16,418 |
+| Builder | 83.00% | ~15,141 |
+| Eraser | 70.00% | ~12,769 |
+| Pocket of Trains | 65.00% | ~11,857 |
+| Inspector | 58.00% | ~10,580 |
+| Going the Distance | 54.00% | ~9,851 |
+| Oil Baron | 42.00% | ~7,662 |
+| Loads-a-Money | 42.00% | ~7,662 |
 | Helper of the People | 39.00% | ~7,114 |
-| Simplification | 33.00% | ~6,019 |
-| Box of Trains | 33.00% | ~6,019 |
+| Simplification | 33.00% | ~6,020 |
+| Box of Trains | 33.00% | ~6,020 |
 | Let There be Light | 32.00% | ~5,837 |
-| Hot Water | 30.00% | ~5,472 |
+| Hot Water | 30.00% | ~5,473 |
 | Indecisive | 29.00% | ~5,290 |
 | The scenic route | 27.00% | ~4,925 |
 | Industrialist | 25.00% | ~4,560 |
-| Perfectionist | 23.00% | ~4,195 |
+| Perfectionist | 23.00% | ~4,196 |
 | 8K is Enough for Everyone | 22.00% | ~4,013 |
 | Trains over Pipes | 22.00% | ~4,013 |
-| Man of Steel | 16.00% | ~2,918 |
+| Man of Steel | 16.00% | ~2,919 |
 | Room Full of Trains | 12.00% | ~2,189 |
 | Investor | 9.00% | ~1,642 |
 | Multiverse | 7.00% | ~1,277 |
@@ -46,8 +47,8 @@ Diff (max vs sum): 69
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,240 (Ranked 93)  
-Completed: 28 (0.15%) (Ranked 138)  
+Progressed: 18,242 (Ranked 93)  
+Completed: 28 (0.15%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,7 +62,7 @@ Completed: 28 (0.15%) (Ranked 138)
 | 2023-05-02 | 18,161 | 27 |
 | 2023-05-03 | 18,182 | 28 |
 | 2023-05-04 | 18,228 | 28 |
-| 2023-05-05 | 18,240 | 28 |
+| 2023-05-05 | 18,242 | 28 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,10 +1,11 @@
 # Red Dead Redemption 2
+[Store](https://store.epicgames.com/en-US/p/red-dead-redemption-2)  
 [View Rawdata](../../db/r/red_dead_redemption_2.json)  
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 102,658  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 138,448  (Ranked 6)  
-Sum: 352,326 (Ranked 8)  
+Sum: 352,397 (Ranked 8)  
 Diff (max vs sum): -2  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,12 +15,12 @@ Diff (max vs sum): -2
 | ----- | ----- |
 | In this game, your choices Impact the Story | 138,448 |
 | This game has Great Boss Battles | 75,630 |
-| This game is Great for Beginners | 13,463 |
+| This game is Great for Beginners | 13,488 |
 | This game has Diverse Characters | 13,128 |
 | This game is Highly Recommended | 13,045 |
 | This game is Relaxing | 13,024 |
+| This game has Amazing Storytelling | 12,953 |
 | This game is Extremely Fun | 12,943 |
-| This game has Amazing Storytelling | 12,907 |
 | This game has Amazing Characters | 12,877 |
 | This game is Educational | 12,639 |
 | This game has Quickly Understood Controls | 12,451 |
@@ -130,4 +131,4 @@ Diff (max vs sum): -2
 | 2023-05-02 | 4.89 | - | 138,032 | 350,980 |
 | 2023-05-03 | 4.89 | - | 138,269 | 351,681 |
 | 2023-05-04 | 4.89 | - | 138,448 | 352,280 |
-| 2023-05-05 | 4.89 | - | 138,448 | 352,326 |
+| 2023-05-05 | 4.89 | - | 138,448 | 352,397 |

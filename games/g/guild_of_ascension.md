@@ -1,4 +1,5 @@
 # Guild Of Ascension
+[Store](https://store.epicgames.com/en-US/p/guild-of-ascension)  
 [View Rawdata](../../db/g/guild_of_ascension.json)  
 ## Achievements
 | Name | Percentage | Users |

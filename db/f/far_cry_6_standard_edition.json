@@ -25,7 +25,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 671
+      "Count": 673
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3792,6 +3792,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 5351,
       "NumberOfAwardsMax": 693
+    },
+    {
+      "Time": "2023-05-05T10:59:18.6607008+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5353,
+      "NumberOfAwardsMax": 693
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3800,22 +3806,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:37.7400314+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:48.2995751+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:52.8438448+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:18.6607013+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T09:58:48.2995741+00:00",
+  "LastChanged": "2023-05-05T10:59:18.6607005+00:00",
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 693,
-  "NumberOfAwards": 5351,
+  "NumberOfAwards": 5353,
   "NumberOfRatings": 12290,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 117,
   "Ranking_Popularity": 154,
   "Ranking_Rating": 598,
-  "Rating": 4.45
+  "Rating": 4.45,
+  "ProductSlug": "far-cry-6/home"
 }

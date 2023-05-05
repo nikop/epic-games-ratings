@@ -1,4 +1,5 @@
 # Kingdom New Lands
+[Store](https://store.epicgames.com/en-US/p/kingdom-new-lands/home)  
 [View Rawdata](../../db/k/kingdom_new_lands.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 1,793  (23.09.2022)  

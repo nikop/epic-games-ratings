@@ -1,4 +1,5 @@
 # Suzerain
+[Store](https://store.epicgames.com/en-US/p/suzerain)  
 [View Rawdata](../../db/s/suzerain.json)  
 Rating: 4.74 (Ranked 142)  
 ## Achievements

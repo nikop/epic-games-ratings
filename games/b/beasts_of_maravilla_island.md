@@ -1,4 +1,5 @@
 # Beasts of Maravilla Island
+[Store](https://store.epicgames.com/en-US/p/beasts-of-maravilla-island)  
 [View Rawdata](../../db/b/beasts_of_maravilla_island.json)  
 ## Achievements
 | Name | Percentage | Users |

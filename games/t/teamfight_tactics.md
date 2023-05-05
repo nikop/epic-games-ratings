@@ -1,4 +1,5 @@
 # Teamfight Tactics
+[Store](https://store.epicgames.com/en-US/p/teamfight-tactics)  
 [View Rawdata](../../db/t/teamfight_tactics.json)  
 ## Achievements
 | Name | Percentage | Users |

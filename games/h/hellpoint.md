@@ -1,4 +1,5 @@
 # Hellpoint
+[Store](https://store.epicgames.com/en-US/p/hellpoint/home)  
 [View Rawdata](../../db/h/hellpoint.json)  
 Rating: 4.30 (Ranked 751)  
 Number of Ratings: 20  (23.09.2022)  

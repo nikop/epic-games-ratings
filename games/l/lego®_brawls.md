@@ -1,4 +1,5 @@
 # LEGO® Brawls
+[Store](https://store.epicgames.com/en-US/p/lego-brawls)  
 [View Rawdata](../../db/l/lego®_brawls.json)  
 ## Achievements
 | Name | Percentage | Users |

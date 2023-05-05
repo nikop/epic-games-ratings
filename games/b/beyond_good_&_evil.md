@@ -1,4 +1,5 @@
 # Beyond Good & Evil
+[Store](https://store.epicgames.com/en-US/p/beyond-good-and-evil/home)  
 [View Rawdata](../../db/b/beyond_good_&_evil.json)  
 ## Achievements
 | Name | Percentage | Users |

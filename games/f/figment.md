@@ -1,4 +1,5 @@
 # Figment
+[Store](https://store.epicgames.com/en-US/p/figment/home)  
 [View Rawdata](../../db/f/figment.json)  
 Rating: 4.46 (Ranked 590)  
 Number of Ratings: 109  (23.09.2022)  

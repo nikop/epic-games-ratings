@@ -4628,8 +4628,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:48.1765328+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:00.7557727+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:15.5389958+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:32.8103762+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:59:05.0755893+00:00",
@@ -4638,12 +4638,13 @@
   "NumberOfAwardsMax": 9248,
   "NumberOfAwards": 79383,
   "NumberOfRatings": 29401,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 17,
   "Ranking_Popularity": 34,
   "Ranking_Rating": 18,
-  "Rating": 4.88
+  "Rating": 4.88,
+  "ProductSlug": "satisfactory"
 }

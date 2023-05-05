@@ -1,4 +1,5 @@
 # Void Tyrant
+[Store](https://store.epicgames.com/en-US/p/Void-tyrant)  
 [View Rawdata](../../db/v/void_tyrant.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -3723,8 +3723,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:38.033884+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:48.0384402+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:53.2050505+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:18.3367479+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:58:56.4001299+00:00",
@@ -3733,12 +3733,13 @@
   "NumberOfAwardsMax": 4853,
   "NumberOfAwards": 11768,
   "NumberOfRatings": 5481,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 72,
   "Ranking_Popularity": 63,
   "Ranking_Rating": 127,
-  "Rating": 4.75
+  "Rating": 4.75,
+  "ProductSlug": "assassins-creed-odyssey/home"
 }

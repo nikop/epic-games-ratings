@@ -1,4 +1,5 @@
 # Before We Leave
+[Store](https://store.epicgames.com/en-US/p/before-we-leave)  
 [View Rawdata](../../db/b/before_we_leave.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 73  (23.09.2022)  

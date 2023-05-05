@@ -210,8 +210,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:53.4877517+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:14.3308816+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:40.2688083+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:39.8545438+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-19T14:58:09.7693588+00:00",
@@ -220,12 +220,13 @@
   "NumberOfAwardsMax": 30,
   "NumberOfAwards": 30,
   "NumberOfRatings": 76,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 457,
   "Ranking_Popularity": 443,
   "Ranking_Rating": 233,
-  "Rating": 4.68
+  "Rating": 4.68,
+  "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
 }

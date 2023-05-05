@@ -349,8 +349,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:22.5507425+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:45.294969+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:57.5956277+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:28.1498015+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-16T16:57:25.843938+00:00",
@@ -359,12 +359,13 @@
   "NumberOfAwardsMax": 20,
   "NumberOfAwards": 20,
   "NumberOfRatings": 122,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 482,
   "Ranking_Popularity": 482,
   "Ranking_Rating": 737,
-  "Rating": 4.32
+  "Rating": 4.32,
+  "ProductSlug": "torchlight"
 }

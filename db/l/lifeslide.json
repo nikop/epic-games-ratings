@@ -269,13 +269,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-05T10:04:38.2270396+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:16.882972+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 315,
-  "LastUpdate_Achievements": "2023-05-05T10:04:38.2270603+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:43.2811557+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:16.8829952+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:01.9170245+00:00",
   "AchievementSets": [
     {
       "ID": "b6f796g",
@@ -290,9 +290,10 @@
   "FirstSeen": "2022-07-22T20:21:30.2759488+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 202,
-  "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
+  "ProductSlug": "lifeslide"
 }

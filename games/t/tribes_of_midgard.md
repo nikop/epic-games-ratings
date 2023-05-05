@@ -1,4 +1,5 @@
 # Tribes of Midgard
+[Store](https://store.epicgames.com/en-US/p/tribes-of-midgard)  
 [View Rawdata](../../db/t/tribes_of_midgard.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 120  (23.09.2022)  

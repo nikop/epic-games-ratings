@@ -1,4 +1,5 @@
 # Hitchhiker - A Mystery Game
+[Store](https://store.epicgames.com/en-US/p/hitchhiker-a-mystery-game)  
 [View Rawdata](../../db/h/hitchhiker_-_a_mystery_game.json)  
 ## Achievements
 | Name | Percentage | Users |

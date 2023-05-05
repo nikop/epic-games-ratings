@@ -1,4 +1,5 @@
 # Madden NFL 23
+[Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
 Rating: 4.49 (Ranked 547)  
 ## Achievements

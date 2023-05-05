@@ -1,4 +1,5 @@
 # Rhythm Sprout: Sick Beats & Bad Sweets
+[Store](https://store.epicgames.com/en-US/p/rhythm-sprout)  
 [View Rawdata](../../db/r/rhythm_sprout__sick_beats_&_bad_sweets.json)  
 ## Achievements
 | Name | Percentage | Users |

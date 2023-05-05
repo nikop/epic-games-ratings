@@ -1,4 +1,5 @@
 # Aztech Forgotten Gods
+[Store](https://store.epicgames.com/en-US/p/aztech-forgotten-gods)  
 [View Rawdata](../../db/a/aztech_forgotten_gods.json)  
 ## Achievements
 | Name | Percentage | Users |

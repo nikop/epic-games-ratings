@@ -1,4 +1,5 @@
 # Rescue Party: Live!
+[Store](https://store.epicgames.com/en-US/p/rescue-party-live)  
 [View Rawdata](../../db/r/rescue_party__live!.json)  
 ## Achievements
 | Name | Percentage | Users |

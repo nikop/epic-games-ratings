@@ -9,7 +9,7 @@
 | Freshen Up | 47.00% | ~9 |
 | GG EZ | 47.00% | ~9 |
 | Hydrophobia | 21.00% | ~4 |
-| Stop Right There | 16.00% | ~3 |
+| Stop Right There | 21.00% | ~4 |
 | Get to the Point | 16.00% | ~3 |
 | Ka-Ching! | 11.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~1 |

@@ -1,4 +1,5 @@
 # NeuroNet: Mendax Proxy
+[Store](https://store.epicgames.com/en-US/p/neuronet-mendax-proxy)  
 [View Rawdata](../../db/n/neuronet__mendax_proxy.json)  
 ## Achievements
 | Name | Percentage | Users |

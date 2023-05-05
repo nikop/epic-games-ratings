@@ -1,4 +1,5 @@
 # Shadow Complex Remastered
+[Store](https://store.epicgames.com/en-US/p/shadow-complex)  
 [View Rawdata](../../db/s/shadow_complex_remastered.json)  
 ## Achievements
 | Name | Percentage | Users |

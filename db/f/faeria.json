@@ -480,8 +480,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:13.7661419+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:34.5098407+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:47.1865315+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:15.3708736+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T13:02:21.5835377+00:00",
@@ -490,12 +490,13 @@
   "NumberOfAwardsMax": 103,
   "NumberOfAwards": 316,
   "NumberOfRatings": 194,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 319,
   "Ranking_Popularity": 317,
   "Ranking_Rating": 598,
-  "Rating": 4.45
+  "Rating": 4.45,
+  "ProductSlug": "faeria"
 }

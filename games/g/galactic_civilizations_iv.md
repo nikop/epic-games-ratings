@@ -1,4 +1,5 @@
 # Galactic Civilizations IV
+[Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
 Rating: 4.18 (Ranked 820)  
 Number of Ratings: 429  (23.09.2022)  
@@ -9,17 +10,17 @@ Diff (max vs sum): 69
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,351 |
-| Worker Specialization | 78.00% | ~4,296 |
-| First Contact | 74.00% | ~4,076 |
-| Win a Battle | 67.00% | ~3,690 |
-| Anomaly Researcher | 63.00% | ~3,470 |
-| Unleash My Power | 62.00% | ~3,415 |
+| Colonize a Planet | 79.00% | ~4,352 |
+| Worker Specialization | 78.00% | ~4,297 |
+| First Contact | 74.00% | ~4,077 |
+| Win a Battle | 67.00% | ~3,691 |
+| Anomaly Researcher | 63.00% | ~3,471 |
+| Unleash My Power | 62.00% | ~3,416 |
 | Own 30 Planets | 35.00% | ~1,928 |
 | Xenocide | 33.00% | ~1,818 |
 | Commodity Trader | 32.00% | ~1,763 |
 | Design a Civilization | 32.00% | ~1,763 |
-| Design a Ship | 29.00% | ~1,597 |
+| Design a Ship | 29.00% | ~1,598 |
 | Commodity Seller | 26.00% | ~1,432 |
 | Prestige Victory! | 14.00% | ~771 |
 | Galactic War | 11.00% | ~606 |
@@ -27,7 +28,7 @@ Diff (max vs sum): 69
 | Fleet Victory | 8.00% | ~441 |
 | Win as Terrans | 7.00% | ~386 |
 | Win with a Custom Faction | 7.00% | ~386 |
-| Gain an Ally | 6.00% | ~330 |
+| Gain an Ally | 6.00% | ~331 |
 | War with the Unknown | 5.00% | ~275 |
 | Conquest Victory! | 4.00% | ~220 |
 | Win Quickly | 4.00% | ~220 |
@@ -82,7 +83,7 @@ Diff (max vs sum): 69
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,508 (Ranked 116)  
+Progressed: 5,509 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 5,465 | 0 |
 | 2023-05-03 | 5,479 | 0 |
 | 2023-05-04 | 5,500 | 0 |
-| 2023-05-05 | 5,508 | 0 |
+| 2023-05-05 | 5,509 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,4 +1,5 @@
 # Ironcast
+[Store](https://store.epicgames.com/en-US/p/ironcast)  
 [View Rawdata](../../db/i/ironcast.json)  
 Rating: 3.92 (Ranked 892)  
 Number of Ratings: 238  (23.09.2022)  

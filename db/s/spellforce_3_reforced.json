@@ -216,8 +216,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:31.9713555+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:46.1146944+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:09.5019434+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:05.5201979+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-24T14:57:24.5387546+00:00",
@@ -225,12 +225,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 71,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 547,
-  "Rating": 4.49
+  "Rating": 4.49,
+  "ProductSlug": "spellforce-3"
 }

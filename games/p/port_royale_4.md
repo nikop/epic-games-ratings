@@ -1,4 +1,5 @@
 # Port Royale 4
+[Store](https://store.epicgames.com/en-US/p/port-royale-4/home)  
 [View Rawdata](../../db/p/port_royale_4.json)  
 Rating: 3.99 (Ranked 880)  
 Number of Ratings: 53  (23.09.2022)  

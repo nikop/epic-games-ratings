@@ -831,13 +831,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T10:05:00.218348+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:43.2502552+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 54,
   "EOS_Completed": 30,
   "EOS_Progressed": 10183,
-  "LastUpdate_Achievements": "2023-05-05T10:05:00.2183732+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:42.8881602+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:43.2502915+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:12.0898417+00:00",
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
@@ -853,7 +853,7 @@
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 398,
   "NumberOfAwards": 554,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_Progress": 104,
@@ -861,5 +861,6 @@
   "Ranking_Popularity": 198,
   "Ranking_Rating": 142,
   "Rating": 4.74,
-  "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
+  "ProductSlug": "a-plague-tale-requiem"
 }

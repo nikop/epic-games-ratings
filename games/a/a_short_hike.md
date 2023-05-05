@@ -1,4 +1,5 @@
 # A Short Hike
+[Store](https://store.epicgames.com/en-US/p/a-short-hike/home)  
 [View Rawdata](../../db/a/a_short_hike.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 184  (23.09.2022)  

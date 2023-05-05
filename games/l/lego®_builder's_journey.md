@@ -1,4 +1,5 @@
 # LEGO® Builder's Journey
+[Store](https://store.epicgames.com/en-US/p/lego-builders-journey)  
 [View Rawdata](../../db/l/lego®_builder's_journey.json)  
 ## Achievements
 | Name | Percentage | Users |

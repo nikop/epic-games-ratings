@@ -1395,8 +1395,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:01.2875524+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:24.6982999+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:49.881806+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:40.3344772+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T11:57:38.2478182+00:00",
@@ -1405,12 +1405,13 @@
   "NumberOfAwardsMax": 119,
   "NumberOfAwards": 699,
   "NumberOfRatings": 1793,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 260,
   "Ranking_Popularity": 300,
   "Ranking_Rating": 488,
-  "Rating": 4.53
+  "Rating": 4.53,
+  "ProductSlug": "kingdom-new-lands/home"
 }

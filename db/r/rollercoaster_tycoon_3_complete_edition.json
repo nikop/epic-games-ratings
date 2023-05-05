@@ -911,8 +911,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:56.6800842+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:13.1031108+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:26.1921303+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:48.2272356+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T14:00:37.1009998+00:00",
@@ -921,12 +921,13 @@
   "NumberOfAwardsMax": 51,
   "NumberOfAwards": 415,
   "NumberOfRatings": 687,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 295,
   "Ranking_Popularity": 384,
   "Ranking_Rating": 290,
-  "Rating": 4.65
+  "Rating": 4.65,
+  "ProductSlug": "rollercoaster-tycoon-3-complete-edition/home"
 }

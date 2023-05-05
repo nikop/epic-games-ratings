@@ -1106,8 +1106,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:08.3734863+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:38.5025064+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:58.7799143+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:55.8375009+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T17:57:55.5487566+00:00",
@@ -1116,12 +1116,13 @@
   "NumberOfAwardsMax": 104,
   "NumberOfAwards": 884,
   "NumberOfRatings": 609,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 237,
   "Ranking_Popularity": 314,
   "Ranking_Rating": 513,
-  "Rating": 4.51
+  "Rating": 4.51,
+  "ProductSlug": "humankind/digital-deluxe"
 }

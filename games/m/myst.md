@@ -1,4 +1,5 @@
 # Myst
+[Store](https://store.epicgames.com/en-US/p/myst)  
 [View Rawdata](../../db/m/myst.json)  
 ## Achievements
 | Name | Percentage | Users |

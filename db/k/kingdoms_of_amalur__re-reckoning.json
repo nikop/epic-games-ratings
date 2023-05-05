@@ -352,8 +352,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:11.6984455+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:32.8138167+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:44.5903213+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:13.0916677+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-03T04:57:47.310221+00:00",
@@ -362,12 +362,13 @@
   "NumberOfAwardsMax": 69,
   "NumberOfAwards": 113,
   "NumberOfRatings": 137,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 391,
   "Ranking_Popularity": 362,
   "Ranking_Rating": 447,
-  "Rating": 4.56
+  "Rating": 4.56,
+  "ProductSlug": "kingdoms-of-amalur-re-reckoning/home"
 }

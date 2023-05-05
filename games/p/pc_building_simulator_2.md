@@ -1,4 +1,5 @@
 # PC Building Simulator 2
+[Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
 Rating: 4.61 (Ranked 353)  
 ## Popularity (Based on Awards)
@@ -8,37 +9,37 @@ Diff (max vs sum): 37
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,639 |
+| Bootstrapping | 75.00% | ~118,640 |
 | Shine On | 70.00% | ~110,730 |
 | On the Job | 69.00% | ~109,148 |
 | Get Stuck In | 68.00% | ~107,566 |
 | Room for Expansion | 68.00% | ~107,566 |
-| Sales Pitch | 65.00% | ~102,820 |
-| Chill Out | 65.00% | ~102,820 |
+| Sales Pitch | 65.00% | ~102,821 |
+| Chill Out | 65.00% | ~102,821 |
 | Tinker | 61.00% | ~96,493 |
-| Grand Designs | 60.00% | ~94,911 |
-| Hot Stuff | 59.00% | ~93,329 |
+| Grand Designs | 60.00% | ~94,912 |
+| Hot Stuff | 59.00% | ~93,330 |
 | MOAR RGB | 54.00% | ~85,420 |
-| Dream Theme | 46.00% | ~72,765 |
-| The Customer is King | 45.00% | ~71,183 |
-| Working Hard | 44.00% | ~69,601 |
+| Dream Theme | 46.00% | ~72,766 |
+| The Customer is King | 45.00% | ~71,184 |
+| Working Hard | 44.00% | ~69,602 |
 | On the Bench | 42.00% | ~66,438 |
 | The More the Merrier | 42.00% | ~66,438 |
-| Mix and Match | 38.00% | ~60,110 |
-| Recycler | 38.00% | ~60,110 |
-| Foot in the Door | 37.00% | ~58,528 |
+| Mix and Match | 38.00% | ~60,111 |
+| Recycler | 38.00% | ~60,111 |
+| Foot in the Door | 37.00% | ~58,529 |
 | Very Imported PC | 36.00% | ~56,947 |
 | Full Throttle | 34.00% | ~53,783 |
-| Pimp My Rig | 32.00% | ~50,619 |
-| Repair Master | 32.00% | ~50,619 |
+| Pimp My Rig | 32.00% | ~50,620 |
+| Repair Master | 32.00% | ~50,620 |
 | Local Hero | 28.00% | ~44,292 |
 | Broken to Smokin' | 26.00% | ~41,128 |
 | Workaholic | 26.00% | ~41,128 |
 | Thanks Jeff | 25.00% | ~39,546 |
-| Cinematic | 24.00% | ~37,964 |
-| Bench Warmer | 24.00% | ~37,964 |
-| Gift of the Gab | 24.00% | ~37,964 |
-| Salvage Squad | 24.00% | ~37,964 |
+| Cinematic | 24.00% | ~37,965 |
+| Bench Warmer | 24.00% | ~37,965 |
+| Gift of the Gab | 24.00% | ~37,965 |
+| Salvage Squad | 24.00% | ~37,965 |
 | On the Ladder | 23.00% | ~36,383 |
 | Stick With It | 23.00% | ~36,383 |
 | Variations on a Theme | 22.00% | ~34,801 |
@@ -68,7 +69,7 @@ Diff (max vs sum): 37
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,185 (Ranked 51)  
+Progressed: 158,186 (Ranked 51)  
 Completed: 102 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +84,7 @@ Completed: 102 (0.06%) (Ranked 161)
 | 2023-05-02 | 158,151 | 102 |
 | 2023-05-03 | 158,160 | 102 |
 | 2023-05-04 | 158,178 | 102 |
-| 2023-05-05 | 158,185 | 102 |
+| 2023-05-05 | 158,186 | 102 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

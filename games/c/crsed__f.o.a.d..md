@@ -1,4 +1,5 @@
 # CRSED: F.O.A.D.
+[Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d/home)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
 Rating: 4.35 (Ranked 712)  
 Number of Ratings: 464  (23.09.2022)  

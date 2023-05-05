@@ -1,4 +1,5 @@
 # Tom Clancy's Rainbow Six 3 GOLD EDITION
+[Store](https://store.epicgames.com/en-US/p/rainbow-six-3-gold-edition)  
 [View Rawdata](../../db/t/tom_clancy's_rainbow_six_3_gold_edition.json)  
 ## Achievements
 | Name | Percentage | Users |

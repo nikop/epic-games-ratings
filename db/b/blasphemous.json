@@ -413,8 +413,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:16.5725836+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:02.1847628+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:01:08.8323416+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:13.342656+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T04:57:06.5865272+00:00",
@@ -423,12 +423,13 @@
   "NumberOfAwardsMax": 139,
   "NumberOfAwards": 139,
   "NumberOfRatings": 205,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 379,
   "Ranking_Popularity": 287,
   "Ranking_Rating": 28,
-  "Rating": 4.86
+  "Rating": 4.86,
+  "ProductSlug": "blasphemous"
 }

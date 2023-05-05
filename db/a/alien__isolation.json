@@ -1949,8 +1949,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:23.8654953+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:29.3811406+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:29.8868028+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:45.5268202+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T06:57:49.3371876+00:00",
@@ -1959,12 +1959,13 @@
   "NumberOfAwardsMax": 128,
   "NumberOfAwards": 928,
   "NumberOfRatings": 5222,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 232,
   "Ranking_Popularity": 292,
   "Ranking_Rating": 353,
-  "Rating": 4.61
+  "Rating": 4.61,
+  "ProductSlug": "alien-isolation"
 }

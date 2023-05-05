@@ -40,7 +40,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 155918
+      "UsersEstimate": 155919
     },
     {
       "ID": "BadGirl",
@@ -88,7 +88,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 241673
+      "UsersEstimate": 241674
     },
     {
       "ID": "Bookworm",
@@ -112,7 +112,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46775
+      "UsersEstimate": 46776
     },
     {
       "ID": "Cavalier",
@@ -208,7 +208,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179306
+      "UsersEstimate": 179307
     },
     {
       "ID": "Fighter",
@@ -408,7 +408,7 @@
       "Name": "McLovin",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46775
+      "UsersEstimate": 46776
     },
     {
       "ID": "MercenarysHonor",
@@ -488,7 +488,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 155918
+      "UsersEstimate": 155919
     },
     {
       "ID": "RevenantOfLedechko",
@@ -512,7 +512,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54571
+      "UsersEstimate": 54572
     },
     {
       "ID": "Saviour",
@@ -528,7 +528,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 155918
+      "UsersEstimate": 155919
     },
     {
       "ID": "SerialKiller",
@@ -1868,6 +1868,11 @@
     {
       "Time": "2023-05-05T10:04:50.0274717+00:00",
       "NumProgressed": 779591,
+      "NumCompleted": 38
+    },
+    {
+      "Time": "2023-05-05T11:05:31.3620305+00:00",
+      "NumProgressed": 779594,
       "NumCompleted": 38
     }
   ],
@@ -6120,18 +6125,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 82,
-  "LastChanged_Achievements": "2023-05-05T10:04:50.0274713+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:31.3620301+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 1275,
   "EOS_Completed": 38,
-  "EOS_Progressed": 779591,
-  "LastUpdate_Achievements": "2023-05-05T10:04:50.027554+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:47.7821629+00:00",
+  "EOS_Progressed": 779594,
+  "LastUpdate_Achievements": "2023-05-05T11:05:31.3621137+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:07.4561549+00:00",
   "AchievementSets": [
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 779591,
+      "Progressed": 779594,
       "Completed": 38
     }
   ],
@@ -6142,7 +6147,7 @@
   "NumberOfAwardsMax": 7137,
   "NumberOfAwards": 26703,
   "NumberOfRatings": 9133,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 11,
@@ -6150,5 +6155,6 @@
   "Ranking_Popularity": 43,
   "Ranking_Rating": 178,
   "Rating": 4.71,
-  "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
+  "ProductSlug": "kingdom-come-deliverance/home"
 }

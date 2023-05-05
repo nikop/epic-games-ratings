@@ -246,9 +246,9 @@
       "ID": "ACH_037",
       "SetID": "72imik0",
       "Name": "Florette Duval",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_038",
@@ -414,13 +414,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T10:04:48.526033+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:29.4073938+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 4,
   "EOS_Progressed": 339,
-  "LastUpdate_Achievements": "2023-05-05T10:04:48.5260711+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:20.4005217+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:29.4074291+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:35.0345075+00:00",
   "AchievementSets": [
     {
       "ID": "72imik0",
@@ -435,8 +435,8 @@
   "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_Progress": 199,
   "Ranking_PopularitySum": 490,

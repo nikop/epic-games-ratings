@@ -1,4 +1,5 @@
 # Aeterna Noctis
+[Store](https://store.epicgames.com/en-US/p/aeterna-noctis)  
 [View Rawdata](../../db/a/aeterna_noctis.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 21  (23.09.2022)  

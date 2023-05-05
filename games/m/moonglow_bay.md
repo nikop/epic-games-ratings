@@ -1,4 +1,5 @@
 # Moonglow Bay
+[Store](https://store.epicgames.com/en-US/p/moonglow-bay)  
 [View Rawdata](../../db/m/moonglow_bay.json)  
 ## Achievements
 | Name | Percentage | Users |

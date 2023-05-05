@@ -1,4 +1,5 @@
 # The Last Campfire
+[Store](https://store.epicgames.com/en-US/p/the-last-campfire)  
 [View Rawdata](../../db/t/the_last_campfire.json)  
 Rating: 4.83 (Ranked 55)  
 Number of Ratings: 42  (23.09.2022)  

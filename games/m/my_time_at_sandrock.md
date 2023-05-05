@@ -1,4 +1,5 @@
 # My Time at Sandrock
+[Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 892  (23.09.2022)  

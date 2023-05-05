@@ -1,4 +1,5 @@
 # FAR CRY 4
+[Store](https://store.epicgames.com/en-US/p/far-cry-4/home)  
 [View Rawdata](../../db/f/far_cry_4.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 639  (23.09.2022)  

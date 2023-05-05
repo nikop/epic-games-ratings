@@ -1,4 +1,5 @@
 # Gods Will Fall
+[Store](https://store.epicgames.com/en-US/p/gods-will-fall)  
 [View Rawdata](../../db/g/gods_will_fall.json)  
 Rating: 3.97 (Ranked 886)  
 Number of Ratings: 228  (23.09.2022)  

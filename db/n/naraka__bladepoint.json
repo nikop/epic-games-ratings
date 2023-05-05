@@ -43,7 +43,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 53680
+      "Count": 53720
     }
   ],
   "EosHistory": [],
@@ -3922,6 +3922,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 380067,
       "NumberOfAwardsMax": 181797
+    },
+    {
+      "Time": "2023-05-05T10:59:39.9113168+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 380107,
+      "NumberOfAwardsMax": 181797
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3930,22 +3936,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:52.1606757+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:06.4002118+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:20.289516+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:39.9113176+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T07:59:52.4929916+00:00",
+  "LastChanged": "2023-05-05T10:59:39.9113165+00:00",
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 181797,
-  "NumberOfAwards": 380067,
+  "NumberOfAwards": 380107,
   "NumberOfRatings": 132339,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 7,
   "Ranking_Popularity": 4,
   "Ranking_Rating": 813,
-  "Rating": 4.19
+  "Rating": 4.19,
+  "ProductSlug": "naraka-bladepoint"
 }

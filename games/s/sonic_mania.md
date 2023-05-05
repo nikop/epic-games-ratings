@@ -1,4 +1,5 @@
 # Sonic Mania
+[Store](https://store.epicgames.com/en-US/p/sonic-mania)  
 [View Rawdata](../../db/s/sonic_mania.json)  
 Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,185  (23.09.2022)  

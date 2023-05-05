@@ -1,4 +1,5 @@
 # Transistor
+[Store](https://store.epicgames.com/en-US/p/transistor/home)  
 [View Rawdata](../../db/t/transistor.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 123  (23.09.2022)  

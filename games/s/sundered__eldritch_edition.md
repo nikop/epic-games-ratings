@@ -1,4 +1,5 @@
 # Sundered: Eldritch Edition
+[Store](https://store.epicgames.com/en-US/p/sundered-eldritch-edition/home)  
 [View Rawdata](../../db/s/sundered__eldritch_edition.json)  
 Rating: 4.59 (Ranked 395)  
 Number of Ratings: 181  (23.09.2022)  

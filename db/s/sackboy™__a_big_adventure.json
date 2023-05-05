@@ -202,8 +202,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:57.2610733+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:20.6883667+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:44.7205667+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:46.4235123+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-30T19:58:31.5753552+00:00",
@@ -211,12 +211,13 @@
   "FirstSeen": "2022-10-27T21:31:24.5822973+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 114,
-  "Rating": 4.76
+  "Rating": 4.76,
+  "ProductSlug": "sackboy-a-big-adventure"
 }

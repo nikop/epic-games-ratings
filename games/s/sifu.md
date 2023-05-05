@@ -1,4 +1,5 @@
 # Sifu
+[Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
 Rating: 4.82 (Ranked 59)  
 Number of Ratings: 9,492  (23.09.2022)  

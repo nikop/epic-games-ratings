@@ -1,4 +1,5 @@
 # Outer Wilds
+[Store](https://store.epicgames.com/en-US/p/outerwilds)  
 [View Rawdata](../../db/o/outer_wilds.json)  
 Rating: 4.90 (Ranked 7)  
 Number of Ratings: 726  (23.09.2022)  

@@ -1,4 +1,5 @@
 # Master of Magic
+[Store](https://store.epicgames.com/en-US/p/master-of-magic)  
 [View Rawdata](../../db/m/master_of_magic.json)  
 ## Achievements
 | Name | Percentage | Users |

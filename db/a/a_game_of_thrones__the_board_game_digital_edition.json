@@ -8,7 +8,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "1016",
@@ -16,7 +16,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "1017",
@@ -24,7 +24,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "1018",
@@ -80,7 +80,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "1025",
@@ -112,7 +112,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "1029",
@@ -120,7 +120,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "1030",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "1031",
@@ -136,7 +136,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "1032",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4421
     },
     {
       "ID": "1033",
@@ -152,7 +152,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "1034",
@@ -176,7 +176,7 @@
       "Name": "A Long Journey",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     }
   ],
   "Tags": [
@@ -1350,6 +1350,11 @@
       "Time": "2023-05-05T10:05:11.8668079+00:00",
       "NumProgressed": 11047,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T11:05:56.8644518+00:00",
+      "NumProgressed": 11052,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2507,18 +2512,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T10:05:11.8668073+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:56.8644516+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 918,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11047,
-  "LastUpdate_Achievements": "2023-05-05T10:05:11.8668326+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:27.1763993+00:00",
+  "EOS_Progressed": 11052,
+  "LastUpdate_Achievements": "2023-05-05T11:05:56.8644722+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:06.3259707+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11047,
+      "Progressed": 11052,
       "Completed": 23
     }
   ],

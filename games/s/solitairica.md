@@ -1,4 +1,5 @@
 # Solitairica
+[Store](https://store.epicgames.com/en-US/p/solitairica)  
 [View Rawdata](../../db/s/solitairica.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 474  (23.09.2022)  

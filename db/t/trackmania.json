@@ -4612,7 +4612,7 @@
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-05T10:00:22.1294273+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:44.0919484+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:02.7788716+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:57:50.2530266+00:00",
@@ -4621,12 +4621,13 @@
   "NumberOfAwardsMax": 2533,
   "NumberOfAwards": 21774,
   "NumberOfRatings": 6825,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 51,
   "Ranking_Popularity": 89,
   "Ranking_Rating": 255,
-  "Rating": 4.67
+  "Rating": 4.67,
+  "ProductSlug": "trackmania/home"
 }

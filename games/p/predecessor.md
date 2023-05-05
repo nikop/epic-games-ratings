@@ -1,4 +1,5 @@
 # Predecessor
+[Store](https://store.epicgames.com/en-US/p/predecessor)  
 [View Rawdata](../../db/p/predecessor.json)  
 Rating: 4.44 (Ranked 620)  
 ## Popularity (Based on Awards)

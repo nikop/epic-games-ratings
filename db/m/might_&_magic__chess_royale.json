@@ -775,8 +775,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:42.7802059+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:55.2903526+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:08.9380388+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:26.1445624+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T01:52:26.8308955+00:00",
@@ -785,12 +785,13 @@
   "NumberOfAwardsMax": 97,
   "NumberOfAwards": 775,
   "NumberOfRatings": 238,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 250,
   "Ranking_Popularity": 325,
   "Ranking_Rating": 530,
-  "Rating": 4.5
+  "Rating": 4.5,
+  "ProductSlug": "might-and-magic-chess-royale"
 }

@@ -1,4 +1,5 @@
 # Blade Strangers
+[Store](https://store.epicgames.com/en-US/p/blade-strangers)  
 [View Rawdata](../../db/b/blade_strangers.json)  
 ## Achievements
 | Name | Percentage | Users |

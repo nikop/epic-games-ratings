@@ -927,8 +927,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:15.4987117+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:12.8744854+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:25.674375+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:37.9206687+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T08:58:45.1040734+00:00",
@@ -937,12 +937,13 @@
   "NumberOfAwardsMax": 58,
   "NumberOfAwards": 326,
   "NumberOfRatings": 39,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 317,
   "Ranking_Popularity": 381,
   "Ranking_Rating": 720,
-  "Rating": 4.34
+  "Rating": 4.34,
+  "ProductSlug": "warhammer-40000-gladius-relics-of-war"
 }

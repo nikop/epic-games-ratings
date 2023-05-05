@@ -1,4 +1,5 @@
 # Black Skylands
+[Store](https://store.epicgames.com/en-US/p/black-skylands)  
 [View Rawdata](../../db/b/black_skylands.json)  
 ## Achievements
 | Name | Percentage | Users |

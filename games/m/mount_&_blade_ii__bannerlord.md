@@ -1,4 +1,5 @@
 # Mount & Blade II: Bannerlord
+[Store](https://store.epicgames.com/en-US/p/mount-and-blade-2/home)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 5,603  (23.09.2022)  
@@ -9,7 +10,7 @@ Diff (max vs sum): -19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,598 |
+| Lawbringer | 34.00% | ~16,599 |
 | Landlord | 29.00% | ~14,158 |
 | Bannerlord | 20.00% | ~9,764 |
 | Horde breaker | 20.00% | ~9,764 |
@@ -18,8 +19,8 @@ Diff (max vs sum): -19
 | The king is pleased | 16.00% | ~7,811 |
 | King Solomon | 15.00% | ~7,323 |
 | I can do it | 14.00% | ~6,835 |
-| Apple of my eye | 13.00% | ~6,346 |
-| God of the Arena | 12.00% | ~5,858 |
+| Apple of my eye | 13.00% | ~6,347 |
+| God of the Arena | 12.00% | ~5,859 |
 | Against all odds | 9.00% | ~4,394 |
 | Swordbearer | 9.00% | ~4,394 |
 | Duelist | 8.00% | ~3,906 |
@@ -61,7 +62,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,819 (Ranked 73)  
+Progressed: 48,821 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,819 | 0 |
+| 2023-05-05 | 48,821 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

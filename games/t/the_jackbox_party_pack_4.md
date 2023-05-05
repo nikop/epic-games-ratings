@@ -1,4 +1,5 @@
 # The Jackbox Party Pack 4
+[Store](https://store.epicgames.com/en-US/p/jackbox-party-pack-4)  
 [View Rawdata](../../db/t/the_jackbox_party_pack_4.json)  
 Rating: 4.90 (Ranked 7)  
 ## Achievements

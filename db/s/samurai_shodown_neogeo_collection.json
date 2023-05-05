@@ -272,8 +272,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:23.4692303+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:27.0256221+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:35.5563005+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:52.5185679+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-13T20:58:03.2498733+00:00",
@@ -281,12 +281,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 83,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 573,
-  "Rating": 4.47
+  "Rating": 4.47,
+  "ProductSlug": "samurai-shodown-neogeo-collection"
 }

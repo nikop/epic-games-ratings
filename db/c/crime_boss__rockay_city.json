@@ -8,7 +8,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 29354
+      "UsersEstimate": 29356
     },
     {
       "ID": "ACH_0011",
@@ -16,7 +16,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17025
+      "UsersEstimate": 17027
     },
     {
       "ID": "ACH_0012",
@@ -24,7 +24,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12328
+      "UsersEstimate": 12330
     },
     {
       "ID": "ACH_0013",
@@ -32,7 +32,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7632
+      "UsersEstimate": 7633
     },
     {
       "ID": "ACH_0014",
@@ -48,7 +48,7 @@
       "Name": "Legend Looter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ACH_0016",
@@ -56,7 +56,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ACH_0021",
@@ -80,7 +80,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "ACH_0040",
@@ -88,7 +88,7 @@
       "Name": "I Like Trains",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "ACH_0050",
@@ -96,7 +96,7 @@
       "Name": "Foo Finder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "ACH_0060",
@@ -152,7 +152,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 37572
+      "UsersEstimate": 37576
     },
     {
       "ID": "ACH_0210",
@@ -160,7 +160,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 42856
+      "UsersEstimate": 42860
     },
     {
       "ID": "ACH_0211",
@@ -176,7 +176,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 27592
+      "UsersEstimate": 27595
     },
     {
       "ID": "ACH_0300",
@@ -184,7 +184,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ACH_0310",
@@ -208,7 +208,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ACH_0350",
@@ -224,7 +224,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19960
+      "UsersEstimate": 19962
     },
     {
       "ID": "ACH_0420",
@@ -232,7 +232,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19373
+      "UsersEstimate": 19375
     },
     {
       "ID": "ACH_0430",
@@ -240,7 +240,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20547
+      "UsersEstimate": 20550
     },
     {
       "ID": "ACH_0431",
@@ -256,7 +256,7 @@
       "Name": "True Player",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 10567
+      "UsersEstimate": 10568
     },
     {
       "ID": "ACH_0450",
@@ -264,7 +264,7 @@
       "Name": "Off the Rocks",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10567
+      "UsersEstimate": 10568
     },
     {
       "ID": "ACH_0451",
@@ -272,7 +272,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "ACH_0452",
@@ -280,7 +280,7 @@
       "Name": "Dragonslayer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "ACH_0460",
@@ -328,7 +328,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 205
+      "Count": 209
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1509,6 +1509,11 @@
       "Time": "2023-05-05T10:05:11.0087856+00:00",
       "NumProgressed": 58707,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-05T11:05:55.8056483+00:00",
+      "NumProgressed": 58713,
+      "NumCompleted": 26
     }
   ],
   "RatingHistory": [
@@ -2645,39 +2650,46 @@
       "Rating": 3.93,
       "NumberOfAwards": 1079,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-05-05T10:59:50.6555639+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1083,
+      "NumberOfAwardsMax": 231
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-05T10:05:11.008785+00:00",
-  "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 2305,
+  "LastChanged_Achievements": "2023-05-05T11:05:55.805648+00:00",
+  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 2287,
   "EOS_Completed": 26,
-  "EOS_Progressed": 58707,
-  "LastUpdate_Achievements": "2023-05-05T10:05:11.0088231+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:15.2790432+00:00",
+  "EOS_Progressed": 58713,
+  "LastUpdate_Achievements": "2023-05-05T11:05:55.8056764+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:50.6555644+00:00",
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 58707,
+      "Progressed": 58713,
       "Completed": 26
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "LastChanged": "2023-05-04T22:00:55.7889056+00:00",
+  "LastChanged": "2023-05-05T10:59:50.6555636+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 231,
-  "NumberOfAwards": 1079,
-  "Ranking_EOS_NewCompleters": 29,
-  "Ranking_EOS_NewPlayers": 29,
+  "NumberOfAwards": 1083,
+  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 67,
   "Ranking_PopularitySum": 223,
   "Ranking_Popularity": 241,
   "Ranking_Rating": 891,
   "Rating": 3.93,
-  "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
+  "ProductSlug": "crime-boss"
 }

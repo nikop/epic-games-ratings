@@ -275,8 +275,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:57.4905205+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:52.3421647+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:45.0124653+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:13.3187036+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:38.0587763+00:00",
@@ -284,12 +284,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 119,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 255,
-  "Rating": 4.67
+  "Rating": 4.67,
+  "ProductSlug": "syberia-the-world-before"
 }

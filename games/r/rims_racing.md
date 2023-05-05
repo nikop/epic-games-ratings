@@ -1,4 +1,5 @@
 # RiMS Racing
+[Store](https://store.epicgames.com/en-US/p/rims-racing)  
 [View Rawdata](../../db/r/rims_racing.json)  
 Rating: 4.44 (Ranked 620)  
 Number of Ratings: 31  (23.09.2022)  

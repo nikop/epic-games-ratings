@@ -1,4 +1,5 @@
 # Boyfriend Dungeon
+[Store](https://store.epicgames.com/en-US/p/boyfriend-dungeon)  
 [View Rawdata](../../db/b/boyfriend_dungeon.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Jurassic World Evolution 2
+[Store](https://store.epicgames.com/en-US/p/jurassic-world-evolution-2)  
 [View Rawdata](../../db/j/jurassic_world_evolution_2.json)  
 Rating: 4.74 (Ranked 142)  
 Number of Ratings: 3,746  (23.09.2022)  

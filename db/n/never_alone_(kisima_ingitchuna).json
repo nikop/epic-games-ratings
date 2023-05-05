@@ -391,8 +391,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:22.7779129+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:44.2955325+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:28.6003846+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:03.0591936+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-27T20:57:51.168447+00:00",
@@ -400,12 +400,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 174,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 845,
-  "Rating": 4.13
+  "Rating": 4.13,
+  "ProductSlug": "never-alone-kisima-ingitchuna"
 }

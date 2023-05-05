@@ -269,8 +269,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:33.9806282+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:42.6432757+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:48.4024098+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:11.8157763+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:36.672452+00:00",
@@ -278,12 +278,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 99,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 466,
-  "Rating": 4.55
+  "Rating": 4.55,
+  "ProductSlug": "oxenfree/home"
 }

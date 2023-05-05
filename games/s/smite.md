@@ -1,4 +1,5 @@
 # SMITE
+[Store](https://store.epicgames.com/en-US/p/smite)  
 [View Rawdata](../../db/s/smite.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 6,749  (23.09.2022)  

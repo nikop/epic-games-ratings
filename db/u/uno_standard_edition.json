@@ -265,8 +265,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:55.6187741+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:40.589266+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:42.9264038+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:58.5266224+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T19:32:57.2842932+00:00",
@@ -274,12 +274,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 58,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 573,
-  "Rating": 4.47
+  "Rating": 4.47,
+  "ProductSlug": "uno/home"
 }

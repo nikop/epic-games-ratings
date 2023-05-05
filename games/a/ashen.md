@@ -1,4 +1,5 @@
 # Ashen
+[Store](https://store.epicgames.com/en-US/p/ashen)  
 [View Rawdata](../../db/a/ashen.json)  
 Rating: 4.34 (Ranked 720)  
 Number of Ratings: 111  (23.09.2022)  

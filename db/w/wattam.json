@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:23.2048623+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:24.0765876+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:35.2042125+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:50.3292823+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:33.4051641+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-07-22T20:31:04.9916583+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "wattam/home"
 }

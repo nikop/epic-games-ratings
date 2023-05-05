@@ -5148,13 +5148,13 @@
   ],
   "TotalAchievementsXP": 1350,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T10:04:56.0143231+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:38.2230696+00:00",
   "EOS_NewCompleters": 12,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 346,
   "EOS_Completed": 12707,
   "EOS_Progressed": 702603,
-  "LastUpdate_Achievements": "2023-05-05T10:04:56.0143654+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:22.265582+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:38.2231363+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:48.343527+00:00",
   "AchievementSets": [
     {
       "ID": "14c2oii",
@@ -5184,5 +5184,6 @@
   "Ranking_Popularity": 53,
   "Ranking_Rating": 59,
   "Rating": 4.82,
-  "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
+  "ProductSlug": "sifu"
 }

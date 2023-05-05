@@ -1,4 +1,5 @@
 # Roguebook
+[Store](https://store.epicgames.com/en-US/p/rougebook)  
 [View Rawdata](../../db/r/roguebook.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 64  (23.09.2022)  

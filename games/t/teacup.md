@@ -1,4 +1,5 @@
 # Teacup
+[Store](https://store.epicgames.com/en-US/p/teacup)  
 [View Rawdata](../../db/t/teacup.json)  
 ## Achievements
 | Name | Percentage | Users |

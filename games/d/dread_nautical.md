@@ -1,4 +1,5 @@
 # Dread Nautical
+[Store](https://store.epicgames.com/en-US/p/dread-nautical/home)  
 [View Rawdata](../../db/d/dread_nautical.json)  
 ## Achievements
 | Name | Percentage | Users |

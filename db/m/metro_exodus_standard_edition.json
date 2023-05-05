@@ -3093,13 +3093,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T10:04:25.4178282+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:01.3539335+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:25.4178363+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:29.3860692+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:01.3539379+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:55.324421+00:00",
   "AchievementSets": [
     {
       "ID": "2npnlc4",
@@ -3115,13 +3115,14 @@
   "NumberOfAwardsMax": 5823,
   "NumberOfAwards": 10722,
   "NumberOfRatings": 7529,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 76,
   "Ranking_Popularity": 55,
   "Ranking_Rating": 91,
   "Rating": 4.79,
-  "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
+  "ProductSlug": "metro-exodus"
 }

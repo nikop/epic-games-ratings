@@ -1,4 +1,5 @@
 # The Crew® – Standard Edition
+[Store](https://store.epicgames.com/en-US/p/the-crew)  
 [View Rawdata](../../db/t/the_crew®_–_standard_edition.json)  
 Rating: 4.63 (Ranked 328)  
 ## Achievements

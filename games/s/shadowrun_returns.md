@@ -1,4 +1,5 @@
 # Shadowrun Returns
+[Store](https://store.epicgames.com/en-US/p/shadowrun-returns/home)  
 [View Rawdata](../../db/s/shadowrun_returns.json)  
 Rating: 4.43 (Ranked 633)  
 Number of Ratings: 324  (23.09.2022)  

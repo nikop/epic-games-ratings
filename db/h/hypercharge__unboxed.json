@@ -51,8 +51,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:12.3741087+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:32.9467099+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:45.4423564+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:13.2775598+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:55.6670916+00:00",
@@ -61,12 +61,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 20,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 328,
-  "Rating": 4.63
+  "Rating": 4.63,
+  "ProductSlug": "hypercharge-unboxed"
 }

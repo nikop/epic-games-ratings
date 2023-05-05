@@ -1,4 +1,5 @@
 # Griftlands
+[Store](https://store.epicgames.com/en-US/p/griftlands/home)  
 [View Rawdata](../../db/g/griftlands.json)  
 Rating: 4.81 (Ranked 72)  
 Number of Ratings: 151  (23.09.2022)  

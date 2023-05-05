@@ -1,4 +1,5 @@
 # For Honor Standard Edition
+[Store](https://store.epicgames.com/en-US/p/for-honor/home)  
 [View Rawdata](../../db/f/for_honor_standard_edition.json)  
 ## Achievements
 | Name | Percentage | Users |

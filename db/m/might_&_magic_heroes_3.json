@@ -605,8 +605,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:02.3049134+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:21.9816333+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:51.2183639+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:37.0281309+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T01:54:37.4911832+00:00",
@@ -615,12 +615,13 @@
   "NumberOfAwardsMax": 118,
   "NumberOfAwards": 305,
   "NumberOfRatings": 165,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 323,
   "Ranking_Popularity": 302,
   "Ranking_Rating": 59,
-  "Rating": 4.82
+  "Rating": 4.82,
+  "ProductSlug": "might-and-magic-heroes-3"
 }

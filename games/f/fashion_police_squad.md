@@ -1,4 +1,5 @@
 # Fashion Police Squad
+[Store](https://store.epicgames.com/en-US/p/fashion-police-squad)  
 [View Rawdata](../../db/f/fashion_police_squad.json)  
 ## Achievements
 | Name | Percentage | Users |

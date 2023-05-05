@@ -1,4 +1,5 @@
 # RUINER
+[Store](https://store.epicgames.com/en-US/p/ruiner/home)  
 [View Rawdata](../../db/r/ruiner.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 137  (23.09.2022)  

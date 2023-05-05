@@ -1,4 +1,5 @@
 # Touch Type Tale
+[Store](https://store.epicgames.com/en-US/p/touch-type-tale)  
 [View Rawdata](../../db/t/touch_type_tale.json)  
 ## Achievements
 | Name | Percentage | Users |

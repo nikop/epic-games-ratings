@@ -1,4 +1,5 @@
 # Super Squad
+[Store](https://store.epicgames.com/en-US/p/super-squad)  
 [View Rawdata](../../db/s/super_squad.json)  
 ## Achievements
 | Name | Percentage | Users |

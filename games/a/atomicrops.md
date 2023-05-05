@@ -1,4 +1,5 @@
 # Atomicrops
+[Store](https://store.epicgames.com/en-US/p/atomicrops/home)  
 [View Rawdata](../../db/a/atomicrops.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 157  (23.09.2022)  

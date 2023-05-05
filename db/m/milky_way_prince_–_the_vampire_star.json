@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:11.8379891+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:01.2082193+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:21.2110741+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:24.3977888+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:17.4073626+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-07-22T20:20:04.2350712+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "milky-way-prince-the-vampire-star"
 }

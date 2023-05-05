@@ -1,4 +1,5 @@
 # Boomerang X
+[Store](https://store.epicgames.com/en-US/p/boomerang-x)  
 [View Rawdata](../../db/b/boomerang_x.json)  
 ## Achievements
 | Name | Percentage | Users |

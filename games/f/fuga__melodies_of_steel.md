@@ -1,4 +1,5 @@
 # Fuga: Melodies of Steel
+[Store](https://store.epicgames.com/en-US/p/fuga-melodies-of-steel)  
 [View Rawdata](../../db/f/fuga__melodies_of_steel.json)  
 ## Achievements
 | Name | Percentage | Users |

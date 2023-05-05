@@ -651,8 +651,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:08.1776723+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:55.1602327+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:10.9241674+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:16.6596658+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-30T20:58:21.6772385+00:00",
@@ -661,12 +661,13 @@
   "NumberOfAwardsMax": 46,
   "NumberOfAwards": 287,
   "NumberOfRatings": 338,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 324,
   "Ranking_Popularity": 396,
   "Ranking_Rating": 620,
-  "Rating": 4.44
+  "Rating": 4.44,
+  "ProductSlug": "ranch-simulator"
 }

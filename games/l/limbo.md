@@ -1,4 +1,5 @@
 # Limbo
+[Store](https://store.epicgames.com/en-US/p/limbo/home)  
 [View Rawdata](../../db/l/limbo.json)  
 Rating: 4.62 (Ranked 338)  
 Number of Ratings: 198  (23.09.2022)  

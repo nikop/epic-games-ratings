@@ -1,4 +1,5 @@
 # Torchlight
+[Store](https://store.epicgames.com/en-US/p/torchlight)  
 [View Rawdata](../../db/t/torchlight.json)  
 Rating: 4.32 (Ranked 737)  
 Number of Ratings: 122  (23.09.2022)  

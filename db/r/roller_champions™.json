@@ -1922,8 +1922,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:04.0044551+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:39.273979+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:53.3063921+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:56.8175961+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T20:57:38.685962+00:00",
@@ -1932,12 +1932,13 @@
   "NumberOfAwardsMax": 237,
   "NumberOfAwards": 1805,
   "NumberOfRatings": 5693,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 194,
   "Ranking_Popularity": 240,
   "Ranking_Rating": 720,
-  "Rating": 4.34
+  "Rating": 4.34,
+  "ProductSlug": "roller-champions"
 }

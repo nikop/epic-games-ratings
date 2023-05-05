@@ -1,4 +1,5 @@
 # The Jackbox Party Pack 2
+[Store](https://store.epicgames.com/en-US/p/jackbox-party-pack-2)  
 [View Rawdata](../../db/t/the_jackbox_party_pack_2.json)  
 ## Achievements
 | Name | Percentage | Users |

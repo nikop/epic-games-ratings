@@ -162,13 +162,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-05T10:05:11.5664636+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:56.4303069+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 116,
-  "LastUpdate_Achievements": "2023-05-05T10:05:11.5664764+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:22.6587598+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:56.4303164+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:00.4136456+00:00",
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
@@ -183,8 +183,8 @@
   "FirstSeen": "2022-10-01T04:31:59.3146976+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_Progress": 245,
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00"

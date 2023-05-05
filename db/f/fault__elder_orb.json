@@ -1408,8 +1408,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:54.1790979+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:55.3147818+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:41.182232+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:06.2475222+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2022-12-03T23:07:52.062399+00:00",
@@ -1418,12 +1418,13 @@
   "NumberOfAwardsMax": 103,
   "NumberOfAwards": 728,
   "NumberOfRatings": 723,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 256,
   "Ranking_Popularity": 317,
   "Ranking_Rating": 896,
-  "Rating": 3.91
+  "Rating": 3.91,
+  "ProductSlug": "fault-elder-orb"
 }

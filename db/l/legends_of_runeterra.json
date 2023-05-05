@@ -1114,7 +1114,7 @@
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-05T10:00:22.4131715+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:21.2863234+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:58.6694168+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T22:01:02.4344121+00:00",
@@ -1123,12 +1123,13 @@
   "NumberOfAwardsMax": 151,
   "NumberOfAwards": 1291,
   "NumberOfRatings": 431,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 215,
   "Ranking_Popularity": 282,
   "Ranking_Rating": 290,
-  "Rating": 4.65
+  "Rating": 4.65,
+  "ProductSlug": "legends-of-runeterra"
 }

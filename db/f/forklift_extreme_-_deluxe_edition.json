@@ -125,13 +125,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-05T10:05:10.3229228+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:55.0185984+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T10:05:10.3229327+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:19.3700771+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:55.0186052+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:56.9002666+00:00",
   "AchievementSets": [
     {
       "ID": "lhmi37",
@@ -146,8 +146,8 @@
   "FirstSeen": "2023-03-18T17:58:02.8547148+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 356,
   "FirstSeenAchievements": "2023-04-25T16:42:11.9927145+00:00"

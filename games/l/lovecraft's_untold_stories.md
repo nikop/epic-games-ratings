@@ -1,4 +1,5 @@
 # Lovecraft's Untold Stories
+[Store](https://store.epicgames.com/en-US/p/lovecrafts-untold-stories)  
 [View Rawdata](../../db/l/lovecraft's_untold_stories.json)  
 ## Achievements
 | Name | Percentage | Users |

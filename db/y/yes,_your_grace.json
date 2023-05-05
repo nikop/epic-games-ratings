@@ -217,8 +217,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:32.0942129+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:39.6366758+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:46.1068007+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:07.7419154+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:40.8851888+00:00",
@@ -227,12 +227,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 85,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 513,
-  "Rating": 4.51
+  "Rating": 4.51,
+  "ProductSlug": "yes-your-grace"
 }

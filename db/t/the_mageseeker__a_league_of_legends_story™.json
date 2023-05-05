@@ -1194,13 +1194,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T10:04:39.4688341+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:18.3993462+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 213,
   "EOS_Completed": 1,
   "EOS_Progressed": 1877,
-  "LastUpdate_Achievements": "2023-05-05T10:04:39.4688855+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:10.9892026+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:18.3994021+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:23.5648805+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
@@ -1215,7 +1215,7 @@
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_Progress": 142,
@@ -1223,5 +1223,6 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 127,
   "Rating": 4.75,
-  "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
+  "ProductSlug": "the-mageseeker-a-league-of-legends-story"
 }

@@ -25,7 +25,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4489
+      "Count": 4491
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4316,6 +4316,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 30774,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-05T10:58:18.7064406+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 30776,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4324,22 +4330,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:09.3889711+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:56.8589528+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:18.182328+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:18.7064411+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T08:58:26.4950085+00:00",
+  "LastChanged": "2023-05-05T10:58:18.7064403+00:00",
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 4868,
-  "NumberOfAwards": 30774,
+  "NumberOfAwards": 30776,
   "NumberOfRatings": 21107,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 36,
   "Ranking_Popularity": 61,
   "Ranking_Rating": 720,
-  "Rating": 4.34
+  "Rating": 4.34,
+  "ProductSlug": "rogue-company/home"
 }

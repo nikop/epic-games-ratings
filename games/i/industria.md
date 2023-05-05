@@ -1,4 +1,5 @@
 # INDUSTRIA
+[Store](https://store.epicgames.com/en-US/p/industria)  
 [View Rawdata](../../db/i/industria.json)  
 ## Achievements
 | Name | Percentage | Users |

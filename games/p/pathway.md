@@ -1,4 +1,5 @@
 # Pathway
+[Store](https://store.epicgames.com/en-US/p/pathway)  
 [View Rawdata](../../db/p/pathway.json)  
 Rating: 4.45 (Ranked 598)  
 Number of Ratings: 425  (23.09.2022)  

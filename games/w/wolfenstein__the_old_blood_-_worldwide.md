@@ -1,4 +1,5 @@
 # Wolfenstein: The Old Blood - Worldwide
+[Store](https://store.epicgames.com/en-US/p/wolfenstein-the-old-blood--worldwide)  
 [View Rawdata](../../db/w/wolfenstein__the_old_blood_-_worldwide.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 290  (23.09.2022)  

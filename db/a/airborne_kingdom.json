@@ -738,13 +738,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-05T10:04:46.3003396+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:26.6380679+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 37,
   "EOS_Completed": 50,
   "EOS_Progressed": 6280,
-  "LastUpdate_Achievements": "2023-05-05T10:04:46.3003606+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:02.2400805+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:26.6380874+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:13.4847076+00:00",
   "AchievementSets": [
     {
       "ID": "dfmb89",
@@ -759,7 +759,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 74,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_Progress": 112,
@@ -767,5 +767,6 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 290,
   "Rating": 4.65,
-  "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
+  "ProductSlug": "airborne-kingdom/home"
 }

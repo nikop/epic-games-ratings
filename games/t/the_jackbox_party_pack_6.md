@@ -1,4 +1,5 @@
 # The Jackbox Party Pack 6
+[Store](https://store.epicgames.com/en-US/p/jackbox-party-pack-6)  
 [View Rawdata](../../db/t/the_jackbox_party_pack_6.json)  
 Rating: 4.70 (Ranked 192)  
 ## Achievements

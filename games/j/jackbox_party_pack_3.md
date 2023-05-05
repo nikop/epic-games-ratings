@@ -1,4 +1,5 @@
 # Jackbox Party Pack 3
+[Store](https://store.epicgames.com/en-US/p/jackbox-party-pack-3)  
 [View Rawdata](../../db/j/jackbox_party_pack_3.json)  
 Rating: 4.96 (Ranked 1)  
 ## Achievements

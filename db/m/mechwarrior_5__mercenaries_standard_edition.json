@@ -2974,8 +2974,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:10.8878397+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:57.3078472+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:14.356425+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:08.0298858+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:57:04.9228261+00:00",
@@ -2984,12 +2984,13 @@
   "NumberOfAwardsMax": 1078,
   "NumberOfAwards": 7226,
   "NumberOfRatings": 4280,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 98,
   "Ranking_Popularity": 128,
   "Ranking_Rating": 353,
-  "Rating": 4.61
+  "Rating": 4.61,
+  "ProductSlug": "mechwarrior-5/home"
 }

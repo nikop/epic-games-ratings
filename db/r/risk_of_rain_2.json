@@ -1350,8 +1350,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:30.5557624+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:36.0011813+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:44.1605411+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:03.0617953+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T13:59:38.8014924+00:00",
@@ -1360,12 +1360,13 @@
   "NumberOfAwardsMax": 226,
   "NumberOfAwards": 2216,
   "NumberOfRatings": 1310,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 174,
   "Ranking_Popularity": 244,
   "Ranking_Rating": 37,
-  "Rating": 4.85
+  "Rating": 4.85,
+  "ProductSlug": "risk-of-rain-2"
 }

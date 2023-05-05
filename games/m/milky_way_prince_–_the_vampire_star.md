@@ -1,4 +1,5 @@
 # Milky Way Prince – The Vampire Star
+[Store](https://store.epicgames.com/en-US/p/milky-way-prince-the-vampire-star)  
 [View Rawdata](../../db/m/milky_way_prince_–_the_vampire_star.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Skul: The Hero Slayer
+[Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 546  (23.09.2022)  
@@ -35,7 +36,7 @@ Diff (max vs sum): 66
 | Cold-Blooded | 0.80% | ~57 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,167 (Ranked 110)  
-Completed: 11 (0.15%) (Ranked 138)  
+Completed: 11 (0.15%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

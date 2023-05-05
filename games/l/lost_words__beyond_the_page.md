@@ -1,4 +1,5 @@
 # Lost Words: Beyond the Page
+[Store](https://store.epicgames.com/en-US/p/lost-words-beyond-the-page)  
 [View Rawdata](../../db/l/lost_words__beyond_the_page.json)  
 ## Achievements
 | Name | Percentage | Users |

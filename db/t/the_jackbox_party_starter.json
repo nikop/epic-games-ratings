@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:07.7418957+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:27.4324015+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:39.5482727+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:06.663882+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:06.5607146+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-07-22T20:27:13.3796122+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "jackbox-party-starter"
 }

@@ -1,4 +1,5 @@
 # SUPERHOT
+[Store](https://store.epicgames.com/en-US/p/superhot/home)  
 [View Rawdata](../../db/s/superhot.json)  
 Rating: 4.72 (Ranked 166)  
 Number of Ratings: 146  (23.09.2022)  

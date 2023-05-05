@@ -56,8 +56,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:13.2808337+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:30.091422+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:01:04.8067782+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:46.4213806+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T23:57:32.3597248+00:00",
@@ -65,12 +65,13 @@
   "FirstSeen": "2022-07-22T20:21:38.1986449+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 178,
-  "Rating": 4.71
+  "Rating": 4.71,
+  "ProductSlug": "shady-part-of-me"
 }

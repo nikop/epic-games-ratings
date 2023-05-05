@@ -896,13 +896,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-05T10:04:40.5919163+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:19.6126789+00:00",
   "EOS_NewCompleters": 22,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 284,
   "EOS_Completed": 33,
   "EOS_Progressed": 480,
-  "LastUpdate_Achievements": "2023-05-05T10:04:40.5919279+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:51.3814421+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:19.6126898+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:01.3495329+00:00",
   "AchievementSets": [
     {
       "ID": "dg4cch5",
@@ -917,9 +917,10 @@
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_Progress": 187,
-  "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00"
+  "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
+  "ProductSlug": "jill-of-the-jungle-the-complete-trilogy"
 }

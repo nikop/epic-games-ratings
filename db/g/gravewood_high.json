@@ -204,8 +204,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:56.4103722+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:12.6143066+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:25.8579719+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:47.7226553+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-30T20:59:49.6791535+00:00",
@@ -214,12 +214,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 32,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 876,
-  "Rating": 4.01
+  "Rating": 4.01,
+  "ProductSlug": "gravewood-high"
 }

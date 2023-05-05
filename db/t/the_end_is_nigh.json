@@ -130,8 +130,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:26.2351268+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:28.7420054+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:38.8809249+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:54.4841052+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:49.7085535+00:00",
@@ -140,12 +140,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 38,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 127,
-  "Rating": 4.75
+  "Rating": 4.75,
+  "ProductSlug": "the-end-is-nigh/home"
 }

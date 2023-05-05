@@ -1,4 +1,5 @@
 # KARDS - The WWII Card Game
+[Store](https://store.epicgames.com/en-US/p/kards-the-world-war-ii-card-game)  
 [View Rawdata](../../db/k/kards_-_the_wwii_card_game.json)  
 Rating: 4.39 (Ranked 679)  
 Number of Ratings: 1,466  (23.09.2022)  

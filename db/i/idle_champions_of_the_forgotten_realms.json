@@ -5089,6 +5089,11 @@
       "Time": "2023-05-05T09:06:07.8044694+00:00",
       "NumProgressed": 86514,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T11:05:51.333869+00:00",
+      "NumProgressed": 86520,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8552,24 +8557,24 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T10:05:06.7611216+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:51.3338688+00:00",
   "EOS_NewCompleters": 21,
-  "EOS_NewPlayers": 792,
+  "EOS_NewPlayers": 794,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86514,
-  "LastUpdate_Achievements": "2023-05-05T10:05:06.7634657+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:33.1925598+00:00",
+  "EOS_Progressed": 86520,
+  "LastUpdate_Achievements": "2023-05-05T11:05:51.3364131+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:50.1067842+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52788,
+      "Progressed": 52794,
       "Completed": 2465
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86514,
+      "Progressed": 86520,
       "Completed": 1805
     }
   ],
@@ -8588,5 +8593,6 @@
   "Ranking_Popularity": 62,
   "Ranking_Rating": 866,
   "Rating": 4.06,
-  "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
+  "ProductSlug": "idle-champions-of-the-forgotten-realms"
 }

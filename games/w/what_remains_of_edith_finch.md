@@ -1,4 +1,5 @@
 # What Remains of Edith Finch
+[Store](https://store.epicgames.com/en-US/p/what-remains-of-edith-finch/home)  
 [View Rawdata](../../db/w/what_remains_of_edith_finch.json)  
 Rating: 4.73 (Ranked 157)  
 Number of Ratings: 75  (23.09.2022)  

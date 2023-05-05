@@ -1,4 +1,5 @@
 # Exo One
+[Store](https://store.epicgames.com/en-US/p/exo-one)  
 [View Rawdata](../../db/e/exo_one.json)  
 ## Achievements
 | Name | Percentage | Users |

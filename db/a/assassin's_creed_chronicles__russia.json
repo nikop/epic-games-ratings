@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:36.4426758+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:43.6351293+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:51.2896618+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:13.3337146+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:34.1126443+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-10-29T19:02:15.4544963+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "assassins-creed-chronicles-russia"
 }

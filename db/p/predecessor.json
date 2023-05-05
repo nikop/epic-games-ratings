@@ -893,8 +893,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:15.8015793+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:37.6976651+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:49.6031036+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:18.965341+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T20:00:32.4527139+00:00",
@@ -903,12 +903,13 @@
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 72,
   "NumberOfAwards": 502,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 290,
   "Ranking_Popularity": 355,
   "Ranking_Rating": 620,
-  "Rating": 4.44
+  "Rating": 4.44,
+  "ProductSlug": "predecessor"
 }

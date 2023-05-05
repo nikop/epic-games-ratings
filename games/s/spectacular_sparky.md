@@ -1,4 +1,5 @@
 # Spectacular Sparky
+[Store](https://store.epicgames.com/en-US/p/spectacular-sparky)  
 [View Rawdata](../../db/s/spectacular_sparky.json)  
 ## Achievements
 | Name | Percentage | Users |

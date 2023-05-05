@@ -486,8 +486,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:19.0743501+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:19.9974647+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:23.952596+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:34.5454935+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T17:57:39.912132+00:00",
@@ -496,12 +496,13 @@
   "NumberOfAwardsMax": 39,
   "NumberOfAwards": 268,
   "NumberOfRatings": 272,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 333,
   "Ranking_Popularity": 412,
   "Ranking_Rating": 28,
-  "Rating": 4.86
+  "Rating": 4.86,
+  "ProductSlug": "tetris-effect"
 }

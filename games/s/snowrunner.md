@@ -1,4 +1,5 @@
 # SnowRunner
+[Store](https://store.epicgames.com/en-US/p/snowrunner/home)  
 [View Rawdata](../../db/s/snowrunner.json)  
 Rating: 4.76 (Ranked 114)  
 Number of Ratings: 21,349  (23.09.2022)  

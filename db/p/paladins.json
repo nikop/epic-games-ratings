@@ -61,7 +61,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2184
+      "Count": 2187
     }
   ],
   "EosHistory": [],
@@ -4066,6 +4066,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 22113,
       "NumberOfAwardsMax": 3200
+    },
+    {
+      "Time": "2023-05-05T11:00:25.6398818+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 22116,
+      "NumberOfAwardsMax": 3200
     }
   ],
   "TotalAchievementsXP": 0,
@@ -4074,22 +4080,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:18.6808481+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:43.3788024+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:53.2231468+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:25.6398824+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T04:01:06.2093424+00:00",
+  "LastChanged": "2023-05-05T11:00:25.6398815+00:00",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 3200,
-  "NumberOfAwards": 22113,
+  "NumberOfAwards": 22116,
   "NumberOfRatings": 11687,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 49,
   "Ranking_Popularity": 82,
   "Ranking_Rating": 712,
-  "Rating": 4.35
+  "Rating": 4.35,
+  "ProductSlug": "paladins"
 }

@@ -1,4 +1,5 @@
 # Shadow of the Tomb Raider: Definitive Edition
+[Store](https://store.epicgames.com/en-US/p/shadow-of-the-tomb-raider)  
 [View Rawdata](../../db/s/shadow_of_the_tomb_raider__definitive_edition.json)  
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 77,497  (23.09.2022)  

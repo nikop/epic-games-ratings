@@ -1,4 +1,5 @@
 # Control
+[Store](https://store.epicgames.com/en-US/p/control)  
 [View Rawdata](../../db/c/control.json)  
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 16,122  (23.09.2022)  

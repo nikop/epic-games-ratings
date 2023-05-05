@@ -42,8 +42,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:01.517367+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:19.4242488+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:31.833942+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:55.2386711+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:33.8208681+00:00",
@@ -51,12 +51,13 @@
   "FirstSeen": "2022-07-22T20:22:30.407463+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 37,
-  "Rating": 4.85
+  "Rating": 4.85,
+  "ProductSlug": "huntdown"
 }

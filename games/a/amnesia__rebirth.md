@@ -1,4 +1,5 @@
 # Amnesia: Rebirth
+[Store](https://store.epicgames.com/en-US/p/amnesia-rebirth)  
 [View Rawdata](../../db/a/amnesia__rebirth.json)  
 Rating: 4.24 (Ranked 780)  
 Number of Ratings: 1,664  (23.09.2022)  

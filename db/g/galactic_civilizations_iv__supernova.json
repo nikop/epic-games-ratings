@@ -1427,13 +1427,13 @@
   ],
   "TotalAchievementsXP": 1060,
   "TotalAchievements": 77,
-  "LastChanged_Achievements": "2023-05-05T10:04:26.6994542+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:03.1161619+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 552,
   "EOS_Completed": 0,
   "EOS_Progressed": 696,
-  "LastUpdate_Achievements": "2023-05-05T10:04:26.6995573+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:49.5334511+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:03.1162864+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:56:58.4201924+00:00",
   "AchievementSets": [
     {
       "ID": "1b9olh7",
@@ -1454,9 +1454,10 @@
   "FirstSeen": "2023-04-27T21:57:06.0397133+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 174,
-  "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00"
+  "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
+  "ProductSlug": "galactic-civilizations-iv-supernova"
 }

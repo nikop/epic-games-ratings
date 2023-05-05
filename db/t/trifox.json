@@ -389,13 +389,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T10:04:56.8035371+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:39.1379211+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-05T10:04:56.8035742+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:28.2800739+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:39.1379556+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:53.8475645+00:00",
   "AchievementSets": [
     {
       "ID": "cfld5bl",
@@ -410,8 +410,8 @@
   "FirstSeen": "2022-10-15T15:02:54.3970273+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_Progress": 251,
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00"

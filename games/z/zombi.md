@@ -1,4 +1,5 @@
 # ZOMBI
+[Store](https://store.epicgames.com/en-US/p/zombi/home)  
 [View Rawdata](../../db/z/zombi.json)  
 Rating: 4.36 (Ranked 701)  
 ## Achievements

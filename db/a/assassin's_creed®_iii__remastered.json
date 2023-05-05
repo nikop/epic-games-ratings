@@ -493,8 +493,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:04.3633576+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:23.9036916+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:35.3473306+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:02.1110314+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-28T20:01:03.7748156+00:00",
@@ -502,12 +502,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 257,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 573,
-  "Rating": 4.47
+  "Rating": 4.47,
+  "ProductSlug": "assassins-creed-3"
 }

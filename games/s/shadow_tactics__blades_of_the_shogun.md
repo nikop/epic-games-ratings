@@ -1,4 +1,5 @@
 # Shadow Tactics: Blades of the Shogun
+[Store](https://store.epicgames.com/en-US/p/shadow-tactics/home)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
@@ -9,18 +10,18 @@ Diff (max vs sum): 48
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,456 |
-| Thorough | 8.00% | ~13,165 |
-| A thief's beginning | 7.00% | ~11,519 |
-| Tanuki Time | 7.00% | ~11,519 |
-| Disguised | 6.00% | ~9,874 |
-| Jonin | 6.00% | ~9,874 |
-| Rescue Takuma | 6.00% | ~9,874 |
-| Rollin' | 6.00% | ~9,874 |
-| Chunin | 5.00% | ~8,228 |
-| Ice Ice Yuki | 5.00% | ~8,228 |
-| Stoned Ox | 5.00% | ~8,228 |
-| Yabu | 5.00% | ~8,228 |
+| Genin | 10.00% | ~16,458 |
+| Thorough | 8.00% | ~13,166 |
+| A thief's beginning | 7.00% | ~11,521 |
+| Tanuki Time | 7.00% | ~11,521 |
+| Disguised | 6.00% | ~9,875 |
+| Jonin | 6.00% | ~9,875 |
+| Rescue Takuma | 6.00% | ~9,875 |
+| Rollin' | 6.00% | ~9,875 |
+| Chunin | 5.00% | ~8,229 |
+| Ice Ice Yuki | 5.00% | ~8,229 |
+| Stoned Ox | 5.00% | ~8,229 |
+| Yabu | 5.00% | ~8,229 |
 | Flying Rocks | 4.00% | ~6,583 |
 | Happy Planning | 4.00% | ~6,583 |
 | Mugen Unchained | 4.00% | ~6,583 |
@@ -32,9 +33,9 @@ Diff (max vs sum): 48
 | Prisoners | 3.00% | ~4,937 |
 | Still Rollin' | 3.00% | ~4,937 |
 | Too Early | 3.00% | ~4,937 |
-| It's raining men | 2.00% | ~3,291 |
-| Stoned | 2.00% | ~3,291 |
-| The Old Way | 2.00% | ~3,291 |
+| It's raining men | 2.00% | ~3,292 |
+| Stoned | 2.00% | ~3,292 |
+| The Old Way | 2.00% | ~3,292 |
 | Atheist Ox | 1.00% | ~1,646 |
 | Meticulous | 1.00% | ~1,646 |
 | No Gimmicks | 1.00% | ~1,646 |
@@ -54,7 +55,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,564 (Ranked 50)  
+Progressed: 164,579 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +70,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,564 | 41 |
+| 2023-05-05 | 164,579 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

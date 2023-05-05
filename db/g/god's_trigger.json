@@ -316,8 +316,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:10.435484+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:59.1324022+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:19.4557647+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:21.7405209+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-02-11T23:57:23.0503403+00:00",
@@ -326,12 +326,13 @@
   "NumberOfAwardsMax": 26,
   "NumberOfAwards": 26,
   "NumberOfRatings": 114,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 464,
   "Ranking_Popularity": 460,
   "Ranking_Rating": 826,
-  "Rating": 4.17
+  "Rating": 4.17,
+  "ProductSlug": "gods-trigger"
 }

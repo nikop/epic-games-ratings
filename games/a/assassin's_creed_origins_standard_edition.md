@@ -1,4 +1,5 @@
 # Assassin's Creed Origins Standard Edition
+[Store](https://store.epicgames.com/en-US/p/assassins-creed-origins)  
 [View Rawdata](../../db/a/assassin's_creed_origins_standard_edition.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 3,843  (23.09.2022)  

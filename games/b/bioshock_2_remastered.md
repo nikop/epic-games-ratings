@@ -1,4 +1,5 @@
 # BioShock 2 Remastered
+[Store](https://store.epicgames.com/en-US/p/bioshock-2-remastered)  
 [View Rawdata](../../db/b/bioshock_2_remastered.json)  
 Rating: 4.51 (Ranked 513)  
 Number of Ratings: 12,272  (23.09.2022)  

@@ -1295,8 +1295,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:44.1936181+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:55.5427392+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:10.6907945+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:26.4682035+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T03:59:58.0474268+00:00",
@@ -1305,12 +1305,13 @@
   "NumberOfAwardsMax": 82,
   "NumberOfAwards": 647,
   "NumberOfRatings": 1298,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 268,
   "Ranking_Popularity": 344,
   "Ranking_Rating": 55,
-  "Rating": 4.83
+  "Rating": 4.83,
+  "ProductSlug": "tony-hawks-pro-skater-1-and-2"
 }

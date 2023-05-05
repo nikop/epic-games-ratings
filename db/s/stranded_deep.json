@@ -2020,8 +2020,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:05.042072+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:25.0569345+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:36.1818178+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:03.7543264+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T20:00:17.4259468+00:00",
@@ -2030,12 +2030,13 @@
   "NumberOfAwardsMax": 202,
   "NumberOfAwards": 1018,
   "NumberOfRatings": 3300,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 227,
   "Ranking_Popularity": 255,
   "Ranking_Rating": 794,
-  "Rating": 4.22
+  "Rating": 4.22,
+  "ProductSlug": "stranded-deep"
 }

@@ -1942,8 +1942,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:47.2293575+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:00.8797656+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:14.3399629+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:32.9718313+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T13:59:36.2443917+00:00",
@@ -1952,12 +1952,13 @@
   "NumberOfAwardsMax": 4518,
   "NumberOfAwards": 5547,
   "NumberOfRatings": 18329,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 115,
   "Ranking_Popularity": 67,
   "Ranking_Rating": 192,
-  "Rating": 4.7
+  "Rating": 4.7,
+  "ProductSlug": "bioshock-infinite-complete-edition"
 }

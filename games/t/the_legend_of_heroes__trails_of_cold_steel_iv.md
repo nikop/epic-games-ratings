@@ -1,4 +1,5 @@
 # The Legend of Heroes: Trails of Cold Steel IV
+[Store](https://store.epicgames.com/en-US/p/the-legend-of-heroes-trails-of-cold-steel-iv)  
 [View Rawdata](../../db/t/the_legend_of_heroes__trails_of_cold_steel_iv.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 26  (23.09.2022)  

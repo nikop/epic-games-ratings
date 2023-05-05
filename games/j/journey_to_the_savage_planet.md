@@ -1,4 +1,5 @@
 # Journey to the Savage Planet
+[Store](https://store.epicgames.com/en-US/p/journey-to-the-savage-planet)  
 [View Rawdata](../../db/j/journey_to_the_savage_planet.json)  
 Rating: 4.57 (Ranked 428)  
 Number of Ratings: 114  (23.09.2022)  

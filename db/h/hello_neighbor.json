@@ -1693,8 +1693,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:08.4945604+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:52.8032631+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:16.8669351+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:13.9441675+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:57:58.8695337+00:00",
@@ -1703,12 +1703,13 @@
   "NumberOfAwardsMax": 196,
   "NumberOfAwards": 1340,
   "NumberOfRatings": 1166,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 213,
   "Ranking_Popularity": 257,
   "Ranking_Rating": 475,
-  "Rating": 4.54
+  "Rating": 4.54,
+  "ProductSlug": "hello-neighbor/home"
 }

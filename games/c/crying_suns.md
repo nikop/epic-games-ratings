@@ -1,4 +1,5 @@
 # Crying Suns
+[Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
 Rating: 4.50 (Ranked 530)  
 Number of Ratings: 1,003  (23.09.2022)  
@@ -9,12 +10,12 @@ Diff (max vs sum): -95
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,800 |
-| Jeef Skeejj | 44.00% | ~201,200 |
-| Careful planning | 39.00% | ~178,336 |
-| Second Coming | 33.00% | ~150,900 |
+| The Shutdown | 66.00% | ~301,802 |
+| Jeef Skeejj | 44.00% | ~201,201 |
+| Careful planning | 39.00% | ~178,337 |
+| Second Coming | 33.00% | ~150,901 |
 | Jeef Skagg | 30.00% | ~137,182 |
-| Mother | 25.00% | ~114,318 |
+| Mother | 25.00% | ~114,319 |
 | In space, no one can hear you scream | 23.00% | ~105,173 |
 | Chapter I: Echoes | 22.00% | ~100,600 |
 | Excelsior Rule | 22.00% | ~100,600 |
@@ -25,7 +26,7 @@ Diff (max vs sum): -95
 | Pope Zenon | 15.00% | ~68,591 |
 | Tetsuo | 11.00% | ~50,300 |
 | Plan for the worst | 11.00% | ~50,300 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,727 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,728 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,582 |
 | Through the mirror | 8.00% | ~36,582 |
 | General Vivar | 8.00% | ~36,582 |
@@ -54,7 +55,7 @@ Diff (max vs sum): -95
 | Jericho Rule | 5.00% | ~22,864 |
 | Geno Rule | 3.00% | ~13,718 |
 | Hammer Rule | 3.00% | ~13,718 |
-| Survivor | 2.00% | ~9,145 |
+| Survivor | 2.00% | ~9,146 |
 | A Rock in the Dark | 1.00% | ~4,573 |
 | Emperor of Misery | 1.00% | ~4,573 |
 | A Frozen Lady | 1.00% | ~4,573 |
@@ -75,7 +76,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,273 (Ranked 28)  
+Progressed: 457,275 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +91,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,273 | 14 |
+| 2023-05-05 | 457,275 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

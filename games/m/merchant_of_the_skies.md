@@ -1,4 +1,5 @@
 # Merchant of the Skies
+[Store](https://store.epicgames.com/en-US/p/merchant-of-the-skies)  
 [View Rawdata](../../db/m/merchant_of_the_skies.json)  
 ## Achievements
 | Name | Percentage | Users |

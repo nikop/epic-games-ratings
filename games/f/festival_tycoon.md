@@ -1,4 +1,5 @@
 # Festival Tycoon
+[Store](https://store.epicgames.com/en-US/p/festival-tycoon)  
 [View Rawdata](../../db/f/festival_tycoon.json)  
 ## Achievements
 | Name | Percentage | Users |

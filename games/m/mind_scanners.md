@@ -1,4 +1,5 @@
 # Mind Scanners
+[Store](https://store.epicgames.com/en-US/p/mind-scanners)  
 [View Rawdata](../../db/m/mind_scanners.json)  
 ## Achievements
 | Name | Percentage | Users |

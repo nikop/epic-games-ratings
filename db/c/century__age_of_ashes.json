@@ -1249,8 +1249,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:20.0290409+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:05.987157+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:25.3011142+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:17.7055763+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-01T22:57:10.7803445+00:00",
@@ -1259,12 +1259,13 @@
   "NumberOfAwardsMax": 60,
   "NumberOfAwards": 580,
   "NumberOfRatings": 1747,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 281,
   "Ranking_Popularity": 376,
   "Ranking_Rating": 641,
-  "Rating": 4.42
+  "Rating": 4.42,
+  "ProductSlug": "century-age-of-ashes"
 }

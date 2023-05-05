@@ -1,4 +1,5 @@
 # Path of Exile
+[Store](https://store.epicgames.com/en-US/p/path-of-exile/home)  
 [View Rawdata](../../db/p/path_of_exile.json)  
 Rating: 4.61 (Ranked 353)  
 Number of Ratings: 3,102  (23.09.2022)  

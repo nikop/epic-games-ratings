@@ -1,4 +1,5 @@
 # Hypnospace Outlaw
+[Store](https://store.epicgames.com/en-US/p/hypnospace-outlaw)  
 [View Rawdata](../../db/h/hypnospace_outlaw.json)  
 ## Achievements
 | Name | Percentage | Users |

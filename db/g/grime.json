@@ -563,13 +563,13 @@
   ],
   "TotalAchievementsXP": 1100,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-05T10:05:16.6477557+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:06:02.5471425+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 0,
   "EOS_Progressed": 536,
-  "LastUpdate_Achievements": "2023-05-05T10:05:16.6477877+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:38.8365922+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:06:02.5471717+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:20.1590704+00:00",
   "AchievementSets": [
     {
       "ID": "72k7oh",
@@ -590,7 +590,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 46,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 185,
@@ -598,5 +598,6 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 353,
   "Rating": 4.61,
-  "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
+  "ProductSlug": "grime"
 }

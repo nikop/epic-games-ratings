@@ -1,4 +1,5 @@
 # Evil Dead: The Game
+[Store](https://store.epicgames.com/en-US/p/evil-dead-the-game)  
 [View Rawdata](../../db/e/evil_dead__the_game.json)  
 Rating: 4.36 (Ranked 701)  
 Number of Ratings: 9,131  (23.09.2022)  

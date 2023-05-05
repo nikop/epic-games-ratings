@@ -3682,8 +3682,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:07.6332572+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:49.1786262+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:15.8371341+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:09.0832358+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T02:58:10.3309571+00:00",
@@ -3692,12 +3692,13 @@
   "NumberOfAwardsMax": 9039,
   "NumberOfAwards": 14138,
   "NumberOfRatings": 12107,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 64,
   "Ranking_Popularity": 35,
   "Ranking_Rating": 379,
-  "Rating": 4.6
+  "Rating": 4.6,
+  "ProductSlug": "remnant-from-the-ashes"
 }

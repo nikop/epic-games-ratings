@@ -274,8 +274,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:06.5171126+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:39.6413022+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:14.462865+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:57.1385068+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T21:57:46.5418988+00:00",
@@ -283,12 +283,13 @@
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 547,
-  "Rating": 4.49
+  "Rating": 4.49,
+  "ProductSlug": "madden-nfl-23"
 }

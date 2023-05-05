@@ -1,4 +1,5 @@
 # Next Up Hero
+[Store](https://store.epicgames.com/en-US/p/next-up-hero)  
 [View Rawdata](../../db/n/next_up_hero.json)  
 ## Achievements
 | Name | Percentage | Users |

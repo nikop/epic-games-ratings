@@ -13,7 +13,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 605
+      "Count": 606
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3316,6 +3316,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 8675,
       "NumberOfAwardsMax": 3170
+    },
+    {
+      "Time": "2023-05-05T10:59:38.1031769+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8676,
+      "NumberOfAwardsMax": 3170
     }
   ],
   "TotalAchievementsXP": 0,
@@ -3324,22 +3330,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:50.200619+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:04.9385192+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:17.9592522+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:38.1031775+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T17:59:21.8568467+00:00",
+  "LastChanged": "2023-05-05T10:59:38.1031765+00:00",
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 3170,
-  "NumberOfAwards": 8675,
+  "NumberOfAwards": 8676,
   "NumberOfRatings": 5428,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 84,
   "Ranking_Popularity": 83,
   "Ranking_Rating": 127,
-  "Rating": 4.75
+  "Rating": 4.75,
+  "ProductSlug": "darkest-dungeon"
 }

@@ -2388,8 +2388,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:06.1681663+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:46.245629+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:55.9232405+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:05.6861186+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T20:58:13.8471098+00:00",
@@ -2398,12 +2398,13 @@
   "NumberOfAwardsMax": 394,
   "NumberOfAwards": 2730,
   "NumberOfRatings": 2939,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 159,
   "Ranking_Popularity": 200,
   "Ranking_Rating": 547,
-  "Rating": 4.49
+  "Rating": 4.49,
+  "ProductSlug": "borderlands-the-pre-sequel"
 }

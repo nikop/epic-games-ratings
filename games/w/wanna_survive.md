@@ -1,4 +1,5 @@
 # Wanna Survive
+[Store](https://store.epicgames.com/en-US/p/wanna-survive)  
 [View Rawdata](../../db/w/wanna_survive.json)  
 ## Achievements
 | Name | Percentage | Users |

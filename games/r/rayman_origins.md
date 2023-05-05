@@ -1,4 +1,5 @@
 # Rayman Origins
+[Store](https://store.epicgames.com/en-US/p/rayman-origins)  
 [View Rawdata](../../db/r/rayman_origins.json)  
 Rating: 4.80 (Ranked 78)  
 Number of Ratings: 34  (23.09.2022)  

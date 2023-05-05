@@ -474,8 +474,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:23.6538383+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:46.780138+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:58.9937738+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:29.8701866+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:53.4653339+00:00",
@@ -483,12 +483,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 491,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 620,
-  "Rating": 4.44
+  "Rating": 4.44,
+  "ProductSlug": "sherlock-holmes-crimes-and-punishments/home"
 }

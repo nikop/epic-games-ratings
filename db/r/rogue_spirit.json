@@ -501,13 +501,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-05T10:04:37.0364623+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:15.382043+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-05T10:04:37.0365178+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:41.8469302+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:15.3820991+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:00.2653018+00:00",
   "AchievementSets": [
     {
       "ID": "b42i7am",
@@ -522,9 +522,10 @@
   "FirstSeen": "2023-03-16T13:13:35.7951452+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 297,
-  "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
+  "ProductSlug": "rogue-spirit"
 }

@@ -1,4 +1,5 @@
 # The Architect: Paris
+[Store](https://store.epicgames.com/en-US/p/the-architect-paris)  
 [View Rawdata](../../db/t/the_architect__paris.json)  
 ## Achievements
 | Name | Percentage | Users |

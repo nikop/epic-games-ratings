@@ -1,4 +1,5 @@
 # Costume Quest
+[Store](https://store.epicgames.com/en-US/p/costume-quest/home)  
 [View Rawdata](../../db/c/costume_quest.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 53  (23.09.2022)  

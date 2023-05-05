@@ -1,4 +1,5 @@
 # Alan Wake
+[Store](https://store.epicgames.com/en-US/p/alan-wake)  
 [View Rawdata](../../db/a/alan_wake.json)  
 Rating: 4.53 (Ranked 488)  
 Number of Ratings: 419  (23.09.2022)  

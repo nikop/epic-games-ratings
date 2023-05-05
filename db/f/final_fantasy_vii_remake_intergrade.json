@@ -2870,8 +2870,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:58.8719214+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:18.6886004+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:28.8128964+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:54.0716855+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:59:25.7372674+00:00",
@@ -2880,12 +2880,13 @@
   "NumberOfAwardsMax": 5455,
   "NumberOfAwards": 11967,
   "NumberOfRatings": 15120,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 71,
   "Ranking_Popularity": 59,
   "Ranking_Rating": 37,
-  "Rating": 4.85
+  "Rating": 4.85,
+  "ProductSlug": "final-fantasy-vii-remake-intergrade"
 }

@@ -277,7 +277,7 @@
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-05-05T10:02:28.8282663+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:13.8022898+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:39.1756078+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-21T20:57:46.983965+00:00",
@@ -286,12 +286,13 @@
   "NumberOfAwardsMax": 34,
   "NumberOfAwards": 34,
   "NumberOfRatings": 85,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 451,
   "Ranking_Popularity": 430,
   "Ranking_Rating": 338,
-  "Rating": 4.62
+  "Rating": 4.62,
+  "ProductSlug": "destroy-all-humans"
 }

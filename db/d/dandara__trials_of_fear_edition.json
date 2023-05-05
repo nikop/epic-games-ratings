@@ -345,8 +345,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:35.7466076+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:45.6244581+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:50.4090167+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:15.3136607+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T21:58:57.3793649+00:00",
@@ -355,12 +355,13 @@
   "NumberOfAwardsMax": 50,
   "NumberOfAwards": 50,
   "NumberOfRatings": 164,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 431,
   "Ranking_Popularity": 385,
   "Ranking_Rating": 447,
-  "Rating": 4.56
+  "Rating": 4.56,
+  "ProductSlug": "dandara"
 }

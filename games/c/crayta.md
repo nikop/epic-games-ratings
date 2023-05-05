@@ -1,4 +1,5 @@
 # Crayta
+[Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
 Rating: 4.19 (Ranked 813)  
 Number of Ratings: 94  (23.09.2022)  

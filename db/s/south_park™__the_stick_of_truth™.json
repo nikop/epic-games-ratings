@@ -298,8 +298,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:08.1590869+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:28.1961473+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:40.1935214+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:07.6495+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T19:59:15.0309055+00:00",
@@ -308,12 +308,13 @@
   "NumberOfAwardsMax": 35,
   "NumberOfAwards": 35,
   "NumberOfRatings": 115,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 450,
   "Ranking_Popularity": 427,
   "Ranking_Rating": 59,
-  "Rating": 4.82
+  "Rating": 4.82,
+  "ProductSlug": "south-park-the-stick-of-truth/home"
 }

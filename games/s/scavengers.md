@@ -1,4 +1,5 @@
 # Scavengers
+[Store](https://store.epicgames.com/en-US/p/scavengers)  
 [View Rawdata](../../db/s/scavengers.json)  
 Rating: 4.18 (Ranked 820)  
 Number of Ratings: 403  (23.09.2022)  

@@ -1,4 +1,5 @@
 # Knight Squad 2
+[Store](https://store.epicgames.com/en-US/p/knight-squad-2)  
 [View Rawdata](../../db/k/knight_squad_2.json)  
 ## Achievements
 | Name | Percentage | Users |

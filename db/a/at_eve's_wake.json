@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:03.7809866+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:22.4432229+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:34.6678141+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:00.1626326+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T06:58:21.5477393+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-07-22T20:29:36.4235843+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "at-eves-wake"
 }

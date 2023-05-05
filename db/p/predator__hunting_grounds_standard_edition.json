@@ -1882,8 +1882,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:17.1805975+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:14.5537235+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:27.5929526+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:40.0798719+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T16:59:23.3011632+00:00",
@@ -1892,12 +1892,13 @@
   "NumberOfAwardsMax": 847,
   "NumberOfAwards": 2305,
   "NumberOfRatings": 1373,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 173,
   "Ranking_Popularity": 143,
   "Ranking_Rating": 598,
-  "Rating": 4.45
+  "Rating": 4.45,
+  "ProductSlug": "predator-hunting-grounds/home"
 }

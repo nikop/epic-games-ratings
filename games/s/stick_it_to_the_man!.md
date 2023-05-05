@@ -1,4 +1,5 @@
 # Stick It To The Man!
+[Store](https://store.epicgames.com/en-US/p/stick-it-to-the-man)  
 [View Rawdata](../../db/s/stick_it_to_the_man!.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 70  (23.09.2022)  

@@ -1,4 +1,5 @@
 # R-Type Final 2
+[Store](https://store.epicgames.com/en-US/p/r-type-final-2)  
 [View Rawdata](../../db/r/r-type_final_2.json)  
 ## Achievements
 | Name | Percentage | Users |

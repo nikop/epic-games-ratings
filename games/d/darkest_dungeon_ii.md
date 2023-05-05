@@ -1,4 +1,5 @@
 # Darkest Dungeon II
+[Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2/home)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 7,767  (23.09.2022)  

@@ -1,4 +1,5 @@
 # Carnival Games
+[Store](https://store.epicgames.com/en-US/p/carnival-games)  
 [View Rawdata](../../db/c/carnival_games.json)  
 ## Achievements
 | Name | Percentage | Users |

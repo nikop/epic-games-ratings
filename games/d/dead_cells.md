@@ -1,4 +1,5 @@
 # Dead Cells
+[Store](https://store.epicgames.com/en-US/p/dead-cells/home)  
 [View Rawdata](../../db/d/dead_cells.json)  
 Rating: 4.88 (Ranked 18)  
 Number of Ratings: 1,319  (23.09.2022)  

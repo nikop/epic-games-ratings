@@ -9,7 +9,7 @@
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 490 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 490 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 490 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,793 | 106 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,795 | 106 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 490 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,880 | 44 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 490 |
@@ -339,7 +339,7 @@
 | 328 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 490 |
 | 338 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,632 | 9 |
 | 338 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 430 |
-| 338 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,212 | 121 |
+| 338 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,214 | 121 |
 | 338 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 530 | 177 |
 | 338 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 490 |
 | 338 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 581 | 167 |
@@ -377,7 +377,7 @@
 | 353 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 490 |
 | 353 | [Supraland](games/s/supraland.md) | 4.61 | 7,603 | 40 |
 | 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 371 |
-| 353 | [Warframe](games/w/warframe.md) | 4.61 | 14,529 | 21 |
+| 353 | [Warframe](games/w/warframe.md) | 4.61 | 14,554 | 21 |
 | 379 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,676 | 29 |
 | 379 | [Control](games/c/control.md) | 4.60 | 8,259 | 38 |
 | 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 351 |

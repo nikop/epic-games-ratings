@@ -1,4 +1,5 @@
 # Narita Boy
+[Store](https://store.epicgames.com/en-US/p/narita-boy)  
 [View Rawdata](../../db/n/narita_boy.json)  
 ## Achievements
 | Name | Percentage | Users |

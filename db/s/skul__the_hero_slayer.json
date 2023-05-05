@@ -986,13 +986,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T10:04:31.2188335+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:08.4141882+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 11,
   "EOS_Progressed": 7167,
-  "LastUpdate_Achievements": "2023-05-05T10:04:31.2188539+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:18.9971433+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:08.4142051+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:44.7890884+00:00",
   "AchievementSets": [
     {
       "ID": "97dk767",
@@ -1008,13 +1008,14 @@
   "NumberOfAwardsMax": 114,
   "NumberOfAwards": 856,
   "NumberOfRatings": 546,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_Completed": 139,
   "Ranking_EOS_Progress": 110,
   "Ranking_PopularitySum": 241,
   "Ranking_Popularity": 307,
   "Ranking_Rating": 178,
   "Rating": 4.71,
-  "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
+  "ProductSlug": "skul-the-hero-slayer"
 }

@@ -541,8 +541,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:01:27.8688174+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:51.6079702+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:32.0599433+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:11.9867194+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-30T17:58:17.4365668+00:00",
@@ -551,12 +551,13 @@
   "NumberOfAwardsMax": 212,
   "NumberOfAwards": 212,
   "NumberOfRatings": 612,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 345,
   "Ranking_Popularity": 250,
   "Ranking_Rating": 353,
-  "Rating": 4.61
+  "Rating": 4.61,
+  "ProductSlug": "crysis-2-remastered"
 }

@@ -304,8 +304,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:05.181293+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:15.319588+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:54.7724559+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:40.9602068+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-09T18:57:57.1269296+00:00",
@@ -313,12 +313,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 66,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 353,
-  "Rating": 4.61
+  "Rating": 4.61,
+  "ProductSlug": "little-inferno/home"
 }

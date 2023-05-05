@@ -1,4 +1,5 @@
 # Isonzo
+[Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 98  (23.09.2022)  

@@ -1,4 +1,5 @@
 # Europa Universalis IV
+[Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,414  (23.09.2022)  
@@ -9,19 +10,19 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,662 |
-| That's a Grand Army | 8.00% | ~2,367 |
-| That is mine! | 8.00% | ~2,367 |
-| Victorious! | 8.00% | ~2,367 |
-| Brothers in Arms | 6.00% | ~1,775 |
-| That's a Grand Navy | 6.00% | ~1,775 |
-| Seriously?! | 6.00% | ~1,775 |
-| For the Glory | 5.00% | ~1,479 |
-| Cold War | 4.00% | ~1,183 |
-| Defender of the Faith | 3.00% | ~887 |
-| It's all about the money | 3.00% | ~887 |
-| Respected | 3.00% | ~887 |
-| True Catholic | 3.00% | ~887 |
+| Until death do us apart | 9.00% | ~2,665 |
+| That's a Grand Army | 8.00% | ~2,369 |
+| That is mine! | 8.00% | ~2,369 |
+| Victorious! | 8.00% | ~2,369 |
+| Brothers in Arms | 6.00% | ~1,776 |
+| That's a Grand Navy | 6.00% | ~1,776 |
+| Seriously?! | 6.00% | ~1,776 |
+| For the Glory | 5.00% | ~1,480 |
+| Cold War | 4.00% | ~1,184 |
+| Defender of the Faith | 3.00% | ~888 |
+| It's all about the money | 3.00% | ~888 |
+| Respected | 3.00% | ~888 |
+| True Catholic | 3.00% | ~888 |
 | Blockader | 2.00% | ~592 |
 | Combined Arms | 2.00% | ~592 |
 | Double the Love | 2.00% | ~592 |
@@ -42,8 +43,8 @@ Diff (max vs sum): 34
 | City of Cities | 0.90% | ~266 |
 | Isn't this the way to India? | 0.70% | ~207 |
 | The Five Colonies | 0.70% | ~207 |
-| The Emperors new clothes | 0.60% | ~177 |
-| Market Control | 0.60% | ~177 |
+| The Emperors new clothes | 0.60% | ~178 |
+| Market Control | 0.60% | ~178 |
 | Down Under | 0.50% | ~148 |
 | Electable! | 0.50% | ~148 |
 | This navy can take it all | 0.50% | ~148 |
@@ -138,6 +139,7 @@ Diff (max vs sum): 34
 | Foul Mouthed | 0.10% | ~30 |
 | From Humble Origins | 0.10% | ~30 |
 | Frozen Assets | 0.10% | ~30 |
+| Fugger Banking | 0.10% | ~30 |
 | Full House | 0.10% | ~30 |
 | Georgia on my Mind | 0.10% | ~30 |
 | God Tier | 0.10% | ~30 |
@@ -291,7 +293,6 @@ Diff (max vs sum): 34
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
-| Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -364,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,582 (Ranked 82)  
+Progressed: 29,607 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,582 | 0 |
+| 2023-05-05 | 29,607 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -485,13 +485,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-05T10:04:34.0850506+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:12.0381189+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 2,
   "EOS_Completed": 0,
   "EOS_Progressed": 598,
-  "LastUpdate_Achievements": "2023-05-05T10:04:34.08507+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:06.191525+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:12.0381358+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:17.9093327+00:00",
   "AchievementSets": [
     {
       "ID": "108h92c",
@@ -507,13 +507,14 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 36,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 179,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 290,
   "Rating": 4.65,
-  "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
+  "ProductSlug": "hardspace-shipbreaker"
 }

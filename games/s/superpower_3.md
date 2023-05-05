@@ -1,4 +1,5 @@
 # SuperPower 3
+[Store](https://store.epicgames.com/en-US/p/superpower-3)  
 [View Rawdata](../../db/s/superpower_3.json)  
 ## Achievements
 | Name | Percentage | Users |

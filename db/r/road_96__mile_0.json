@@ -216,13 +216,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T10:04:52.7752098+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:34.4068535+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 10,
   "EOS_Completed": 2,
   "EOS_Progressed": 146,
-  "LastUpdate_Achievements": "2023-05-05T10:04:52.7752223+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:12.9007536+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:34.406863+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:37.9799771+00:00",
   "AchievementSets": [
     {
       "ID": "40n95i5",
@@ -237,9 +237,10 @@
   "FirstSeen": "2023-04-05T01:40:29.4675735+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_Progress": 236,
-  "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
+  "ProductSlug": "road-96-mile-0"
 }

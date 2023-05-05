@@ -1,4 +1,5 @@
 # Fez
+[Store](https://store.epicgames.com/en-US/p/fez/home)  
 [View Rawdata](../../db/f/fez.json)  
 Rating: 4.71 (Ranked 178)  
 Number of Ratings: 103  (23.09.2022)  

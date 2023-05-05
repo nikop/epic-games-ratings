@@ -1,4 +1,5 @@
 # A Monster's Expedition
+[Store](https://store.epicgames.com/en-US/p/a-monsters-expedition)  
 [View Rawdata](../../db/a/a_monster's_expedition.json)  
 ## Achievements
 | Name | Percentage | Users |

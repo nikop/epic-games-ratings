@@ -1,4 +1,5 @@
 # Wizards: Wand of Epicosity
+[Store](https://store.epicgames.com/en-US/p/wizards-wand-of-epicosity)  
 [View Rawdata](../../db/w/wizards__wand_of_epicosity.json)  
 ## Achievements
 | Name | Percentage | Users |

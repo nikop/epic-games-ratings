@@ -1,4 +1,5 @@
 # The Magnificent Trufflepigs
+[Store](https://store.epicgames.com/en-US/p/the-magnificent-trufflepigs)  
 [View Rawdata](../../db/t/the_magnificent_trufflepigs.json)  
 ## Achievements
 | Name | Percentage | Users |

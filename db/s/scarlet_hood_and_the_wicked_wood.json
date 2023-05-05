@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:07.4649327+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:26.909158+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:39.1757625+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:06.0169761+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:04.0805545+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-07-22T20:26:48.5342047+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "scarlet-hood-and-the-wicked-wood"
 }

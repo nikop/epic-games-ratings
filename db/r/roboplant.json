@@ -291,13 +291,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-05T10:04:35.0657095+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:13.1118578+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T10:04:35.0657344+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:49.7903595+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:13.1118926+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:56:58.9134339+00:00",
   "AchievementSets": [
     {
       "ID": "bepi5g1",
@@ -307,7 +307,7 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 341,

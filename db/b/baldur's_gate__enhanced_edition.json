@@ -212,8 +212,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:02.8527549+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:57.837076+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:51.7922364+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:20.1008639+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-12T07:57:35.8472461+00:00",
@@ -222,12 +222,13 @@
   "NumberOfAwardsMax": 50,
   "NumberOfAwards": 50,
   "NumberOfRatings": 66,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 431,
   "Ranking_Popularity": 385,
   "Ranking_Rating": 55,
-  "Rating": 4.83
+  "Rating": 4.83,
+  "ProductSlug": "baldurs-gate-enhanced-edition"
 }

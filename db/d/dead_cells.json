@@ -1736,8 +1736,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:54.2835896+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:43.3989711+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:41.2953342+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:02.0409265+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:57:49.7333137+00:00",
@@ -1746,12 +1746,13 @@
   "NumberOfAwardsMax": 249,
   "NumberOfAwards": 2183,
   "NumberOfRatings": 1319,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 175,
   "Ranking_Popularity": 236,
   "Ranking_Rating": 18,
-  "Rating": 4.88
+  "Rating": 4.88,
+  "ProductSlug": "dead-cells/home"
 }

@@ -445,8 +445,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:26.6340724+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:56.5446389+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:33.4077359+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:18.2582696+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T05:58:25.9226317+00:00",
@@ -455,12 +455,13 @@
   "NumberOfAwardsMax": 27,
   "NumberOfAwards": 72,
   "NumberOfRatings": 96,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 413,
   "Ranking_Popularity": 454,
   "Ranking_Rating": 590,
-  "Rating": 4.46
+  "Rating": 4.46,
+  "ProductSlug": "might-and-magic-heroes-7/home"
 }

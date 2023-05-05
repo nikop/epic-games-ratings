@@ -1324,8 +1324,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:17.5812843+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:15.9085861+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:28.1425515+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:41.2799325+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T14:59:16.1272287+00:00",
@@ -1334,12 +1334,13 @@
   "NumberOfAwardsMax": 148,
   "NumberOfAwards": 890,
   "NumberOfRatings": 635,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 235,
   "Ranking_Popularity": 284,
   "Ranking_Rating": 499,
-  "Rating": 4.52
+  "Rating": 4.52,
+  "ProductSlug": "rainbow-six-extraction"
 }

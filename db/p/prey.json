@@ -2793,8 +2793,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:11.5527617+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:33.7490856+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:44.4223237+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:14.3824316+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T18:59:41.2762106+00:00",
@@ -2803,12 +2803,13 @@
   "NumberOfAwardsMax": 5530,
   "NumberOfAwards": 7477,
   "NumberOfRatings": 13217,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 96,
   "Ranking_Popularity": 57,
   "Ranking_Rating": 338,
-  "Rating": 4.62
+  "Rating": 4.62,
+  "ProductSlug": "prey"
 }

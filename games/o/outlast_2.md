@@ -1,4 +1,5 @@
 # Outlast 2
+[Store](https://store.epicgames.com/en-US/p/outlast-2)  
 [View Rawdata](../../db/o/outlast_2.json)  
 Rating: 4.71 (Ranked 178)  
 ## Achievements

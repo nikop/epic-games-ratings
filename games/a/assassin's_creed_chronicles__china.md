@@ -1,4 +1,5 @@
 # Assassin's Creed Chronicles: China
+[Store](https://store.epicgames.com/en-US/p/assassins-creed-chronicles-china)  
 [View Rawdata](../../db/a/assassin's_creed_chronicles__china.json)  
 Rating: 4.68 (Ranked 233)  
 ## Achievements

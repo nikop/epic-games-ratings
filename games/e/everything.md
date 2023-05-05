@@ -1,4 +1,5 @@
 # Everything
+[Store](https://store.epicgames.com/en-US/p/everything/home)  
 [View Rawdata](../../db/e/everything.json)  
 Rating: 4.58 (Ranked 414)  
 ## Achievements

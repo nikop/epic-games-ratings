@@ -9,13 +9,13 @@ Diff (max vs sum): -8
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 28.00% | ~314 |
+| The Cost of Heroism | 28.00% | ~315 |
 | Me and My Familiar | 26.00% | ~292 |
 | This Too Shall Pass | 22.00% | ~247 |
 | Passing Shadow | 21.00% | ~236 |
 | Cutthroat Competitors | 21.00% | ~236 |
 | How Romantic! | 20.00% | ~225 |
-| Daybreak | 19.00% | ~213 |
+| Daybreak | 19.00% | ~214 |
 | Gotta Ca... Must Collect All of Them | 18.00% | ~202 |
 | Completing the Look | 10.00% | ~112 |
 | War Endured | 10.00% | ~112 |
@@ -66,7 +66,7 @@ Diff (max vs sum): -8
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,123 (Ranked 154)  
+Progressed: 1,124 (Ranked 154)  
 Completed: 3 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 3 (0.27%) (Ranked 123)
 | 2023-04-30 | 1,119 | 3 |
 | 2023-05-02 | 1,120 | 3 |
 | 2023-05-04 | 1,121 | 3 |
-| 2023-05-05 | 1,123 | 3 |
+| 2023-05-05 | 1,124 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

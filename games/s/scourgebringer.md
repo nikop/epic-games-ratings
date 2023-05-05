@@ -1,4 +1,5 @@
 # Scourgebringer
+[Store](https://store.epicgames.com/en-US/p/scourgebringer)  
 [View Rawdata](../../db/s/scourgebringer.json)  
 ## Achievements
 | Name | Percentage | Users |

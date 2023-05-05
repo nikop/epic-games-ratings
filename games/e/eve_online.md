@@ -1,4 +1,5 @@
 # EVE Online
+[Store](https://store.epicgames.com/en-US/p/eve-online)  
 [View Rawdata](../../db/e/eve_online.json)  
 Rating: 4.26 (Ranked 771)  
 Number of Ratings: 1,408  (23.09.2022)  

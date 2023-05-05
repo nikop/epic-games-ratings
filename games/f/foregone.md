@@ -1,4 +1,5 @@
 # Foregone
+[Store](https://store.epicgames.com/en-US/p/foregone/home)  
 [View Rawdata](../../db/f/foregone.json)  
 ## Achievements
 | Name | Percentage | Users |

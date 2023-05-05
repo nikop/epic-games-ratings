@@ -1,4 +1,5 @@
 # Gamedec - Definitive Edition
+[Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
 Rating: 4.33 (Ranked 731)  
 Number of Ratings: 33  (23.09.2022)  
@@ -9,18 +10,18 @@ Diff (max vs sum): -56
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,454 |
-| Powergamer | 26.00% | ~57,993 |
-| Barely scratched the surface | 25.00% | ~55,763 |
-| Write that down | 24.00% | ~53,532 |
-| Guns, lots of guns | 12.00% | ~26,766 |
-| Collector | 11.00% | ~24,536 |
-| Elementary! | 8.00% | ~17,844 |
-| Pumpkin Jack | 8.00% | ~17,844 |
-| Wake up! | 8.00% | ~17,844 |
+| I will finish what you started | 28.00% | ~62,457 |
+| Powergamer | 26.00% | ~57,996 |
+| Barely scratched the surface | 25.00% | ~55,766 |
+| Write that down | 24.00% | ~53,535 |
+| Guns, lots of guns | 12.00% | ~26,767 |
+| Collector | 11.00% | ~24,537 |
+| Elementary! | 8.00% | ~17,845 |
+| Pumpkin Jack | 8.00% | ~17,845 |
+| Wake up! | 8.00% | ~17,845 |
 | It's honest work | 7.00% | ~15,614 |
 | Griever | 7.00% | ~15,614 |
-| Me smart | 6.00% | ~13,383 |
+| Me smart | 6.00% | ~13,384 |
 | Good listener | 5.00% | ~11,153 |
 | Trash compactor | 5.00% | ~11,153 |
 | Valedictorian | 5.00% | ~11,153 |
@@ -44,8 +45,8 @@ Diff (max vs sum): -56
 | Random encounter | 1.00% | ~2,231 |
 | SysOp on duty | 1.00% | ~2,231 |
 | Take the blue pill | 1.00% | ~2,231 |
-| A true blacksmith | 0.90% | ~2,007 |
-| The power of three | 0.90% | ~2,007 |
+| A true blacksmith | 0.90% | ~2,008 |
+| The power of three | 0.90% | ~2,008 |
 | Let's try another | 0.80% | ~1,784 |
 | Home run | 0.80% | ~1,784 |
 | It's blue, always blue | 0.70% | ~1,561 |
@@ -62,7 +63,7 @@ Diff (max vs sum): -56
 | This is the way | 0.20% | ~446 |
 | Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,051 (Ranked 42)  
+Progressed: 223,062 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +78,7 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
 | 2023-05-04 | 222,974 | 5 |
-| 2023-05-05 | 223,051 | 5 |
+| 2023-05-05 | 223,062 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

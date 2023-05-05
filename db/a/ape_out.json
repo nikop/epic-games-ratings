@@ -144,8 +144,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:19.4385672+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:04.2160763+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:01:12.3566742+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:15.5978267+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-19T20:04:17.1770801+00:00",
@@ -154,12 +154,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 33,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 272,
-  "Rating": 4.66
+  "Rating": 4.66,
+  "ProductSlug": "ape-out/home"
 }

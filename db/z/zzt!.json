@@ -706,13 +706,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-05T10:04:47.5550765+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:27.9187509+00:00",
   "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_Completed": 60,
   "EOS_Progressed": 2284,
-  "LastUpdate_Achievements": "2023-05-05T10:04:47.5550886+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:48.5754633+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:27.918765+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:08.4124175+00:00",
   "AchievementSets": [
     {
       "ID": "dm385hd",
@@ -731,5 +731,6 @@
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_Progress": 139,
-  "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
+  "ProductSlug": "zzt"
 }

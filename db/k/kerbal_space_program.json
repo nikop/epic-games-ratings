@@ -13,7 +13,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 423
+      "Count": 427
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1287,6 +1287,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 3204,
       "NumberOfAwardsMax": 483
+    },
+    {
+      "Time": "2023-05-05T10:57:04.5016419+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3208,
+      "NumberOfAwardsMax": 483
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1295,22 +1301,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:17.3471999+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:53.8523041+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:21.853368+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:04.5016426+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T04:57:02.0662419+00:00",
+  "LastChanged": "2023-05-05T10:57:04.5016416+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 483,
-  "NumberOfAwards": 3204,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "NumberOfAwards": 3208,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 144,
   "Ranking_Popularity": 185,
   "Ranking_Rating": 91,
-  "Rating": 4.79
+  "Rating": 4.79,
+  "ProductSlug": "kerbal-space-program"
 }

@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:24.2402591+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:45.678111+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:59.8212795+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:28.6293724+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:56:56.5200457+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2022-07-22T20:16:53.2042945+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "Void-tyrant"
 }

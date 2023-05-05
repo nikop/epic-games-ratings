@@ -1,4 +1,5 @@
 # Arcadegeddon
+[Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
 Rating: 4.49 (Ranked 547)  
 Number of Ratings: 801  (23.09.2022)  
@@ -9,26 +10,26 @@ Diff (max vs sum): 86
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,628 |
-| Photogenic | 87.00% | ~5,381 |
-| Surge Gauntlet Jockey | 85.00% | ~5,257 |
-| Plug It In | 84.00% | ~5,195 |
-| Adventure Time | 80.00% | ~4,948 |
-| Playing With Power | 77.00% | ~4,762 |
-| You're Fired | 59.00% | ~3,649 |
-| Coup d'Etat | 58.00% | ~3,587 |
+| Let's Get This Party Started | 91.00% | ~5,629 |
+| Photogenic | 87.00% | ~5,382 |
+| Surge Gauntlet Jockey | 85.00% | ~5,258 |
+| Plug It In | 84.00% | ~5,196 |
+| Adventure Time | 80.00% | ~4,949 |
+| Playing With Power | 77.00% | ~4,763 |
+| You're Fired | 59.00% | ~3,650 |
+| Coup d'Etat | 58.00% | ~3,588 |
 | Get Furious | 55.00% | ~3,402 |
 | Gunplay And Cosplay | 54.00% | ~3,340 |
 | Hacks In Stacks | 54.00% | ~3,340 |
 | Meching Enemies | 49.00% | ~3,031 |
 | Booty Bashing | 48.00% | ~2,969 |
 | Ticket Toddler | 48.00% | ~2,969 |
-| Here Comes a New Challenger | 37.00% | ~2,288 |
+| Here Comes a New Challenger | 37.00% | ~2,289 |
 | Field Medic | 36.00% | ~2,227 |
 | Guardian Angel | 34.00% | ~2,103 |
-| Rapid Response | 32.00% | ~1,979 |
-| The Full Monty | 32.00% | ~1,979 |
-| Surge Ahead | 31.00% | ~1,917 |
+| Rapid Response | 32.00% | ~1,980 |
+| The Full Monty | 32.00% | ~1,980 |
+| Surge Ahead | 31.00% | ~1,918 |
 | Poppin Noggins | 25.00% | ~1,546 |
 | Clips and Crits | 23.00% | ~1,423 |
 | Grey Goo | 21.00% | ~1,299 |
@@ -60,7 +61,7 @@ Diff (max vs sum): 86
 | Infinite Adventures! | 0.50% | ~31 |
 | Pyrotechnical | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,185 (Ranked 113)  
+Progressed: 6,186 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 6,135 | 0 |
 | 2023-05-03 | 6,158 | 0 |
 | 2023-05-04 | 6,178 | 0 |
-| 2023-05-05 | 6,185 | 0 |
+| 2023-05-05 | 6,186 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

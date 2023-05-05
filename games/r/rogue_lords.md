@@ -1,4 +1,5 @@
 # Rogue Lords
+[Store](https://store.epicgames.com/en-US/p/rogue-lords)  
 [View Rawdata](../../db/r/rogue_lords.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 38  (23.09.2022)  

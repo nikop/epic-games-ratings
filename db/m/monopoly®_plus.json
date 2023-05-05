@@ -388,8 +388,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:57.6802592+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:12.5909666+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:27.4127293+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:47.5828274+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-03T01:57:25.5080853+00:00",
@@ -397,12 +397,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 142,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 892,
-  "Rating": 3.92
+  "Rating": 3.92,
+  "ProductSlug": "monopoly-plus/home"
 }

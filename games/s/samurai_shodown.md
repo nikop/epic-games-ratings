@@ -1,4 +1,5 @@
 # SAMURAI SHODOWN
+[Store](https://store.epicgames.com/en-US/p/samurai-shodown-reboot/home)  
 [View Rawdata](../../db/s/samurai_shodown.json)  
 Rating: 4.65 (Ranked 290)  
 ## Achievements

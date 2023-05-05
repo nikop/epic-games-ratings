@@ -1,4 +1,5 @@
 # Chorus
+[Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 58  (23.09.2022)  

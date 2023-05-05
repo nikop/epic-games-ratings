@@ -1,4 +1,5 @@
 # Sniper Elite 5
+[Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
 Rating: 4.43 (Ranked 633)  
 ## Achievements
@@ -7,11 +8,11 @@ Rating: 4.43 (Ranked 633)
 | Meeting Resistance | 35.00% | ~238 |
 | Confirming Suspicions | 31.00% | ~211 |
 | The Kraken Wakes | 29.00% | ~197 |
-| It's Starting to Crack | 28.00% | ~190 |
+| It's Starting to Crack | 28.00% | ~191 |
 | Change the Channel | 25.00% | ~170 |
 | Lord of War | 24.00% | ~163 |
-| Resourceful | 23.00% | ~156 |
-| Taking it back | 23.00% | ~156 |
+| Resourceful | 23.00% | ~157 |
+| Taking it back | 23.00% | ~157 |
 | Organ Grinder | 21.00% | ~143 |
 | Sharpshooter | 20.00% | ~136 |
 | Target America | 20.00% | ~136 |
@@ -24,8 +25,8 @@ Rating: 4.43 (Ranked 633)
 | Gunslinger | 14.00% | ~95 |
 | Skirmisher | 14.00% | ~95 |
 | Close Quarters | 14.00% | ~95 |
-| Just a Flesh Wound | 13.00% | ~88 |
-| Der Geist | 13.00% | ~88 |
+| Just a Flesh Wound | 13.00% | ~89 |
+| Der Geist | 13.00% | ~89 |
 | Set Europe Ablaze | 12.00% | ~82 |
 | Die Nussknacker Sweet! | 12.00% | ~82 |
 | Snake in the Grass | 12.00% | ~82 |
@@ -36,8 +37,8 @@ Rating: 4.43 (Ranked 633)
 | My Little Friend | 9.00% | ~61 |
 | Precision Is Key | 8.00% | ~54 |
 | Rigged to Blow | 8.00% | ~54 |
-| Herr Today, Gone Tomorrow | 8.00% | ~50 |
-| Operation Foxley | 8.00% | ~50 |
+| Herr Today, Gone Tomorrow | 8.00% | ~51 |
+| Operation Foxley | 8.00% | ~51 |
 | Last Resort | 7.00% | ~44 |
 | Ghost of Falaise | 6.00% | ~38 |
 | The Long Game | 5.00% | ~34 |
@@ -52,11 +53,11 @@ Rating: 4.43 (Ranked 633)
 | Locomotion Commotion | 3.00% | ~20 |
 | Road Rage | 3.00% | ~20 |
 | Shoot for the Moon | 3.00% | ~20 |
-| Covert Elimination | 3.00% | ~19 |
 | Out of Scope | 2.00% | ~14 |
 | From Paris with Love | 2.00% | ~14 |
 | Souvenir hunter | 2.00% | ~14 |
 | Reich To The Point | 2.00% | ~13 |
+| Covert Elimination | 2.00% | ~13 |
 | Best of the Best | 1.00% | ~7 |
 | Führerious Repetition | 1.00% | ~6 |
 | Alpha | 1.00% | ~6 |
@@ -73,7 +74,7 @@ Rating: 4.43 (Ranked 633)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680 (Ranked 175)  
+Progressed: 681 (Ranked 175)  
 Completed: 2 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +88,7 @@ Completed: 2 (0.29%) (Ranked 119)
 | 2023-05-01 | 668 | 2 |
 | 2023-05-02 | 675 | 2 |
 | 2023-05-03 | 680 | 2 |
+| 2023-05-05 | 681 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

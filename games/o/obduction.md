@@ -1,4 +1,5 @@
 # Obduction
+[Store](https://store.epicgames.com/en-US/p/obduction)  
 [View Rawdata](../../db/o/obduction.json)  
 Rating: 4.10 (Ranked 852)  
 Number of Ratings: 231  (23.09.2022)  

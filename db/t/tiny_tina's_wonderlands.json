@@ -4522,8 +4522,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:59.3962159+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:00.0836178+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:47.5615381+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:23.0786067+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T13:58:26.4725631+00:00",
@@ -4532,12 +4532,13 @@
   "NumberOfAwardsMax": 18157,
   "NumberOfAwards": 31995,
   "NumberOfRatings": 20753,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 35,
   "Ranking_Popularity": 19,
   "Ranking_Rating": 428,
-  "Rating": 4.57
+  "Rating": 4.57,
+  "ProductSlug": "tiny-tinas-wonderlands"
 }

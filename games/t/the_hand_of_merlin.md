@@ -1,4 +1,5 @@
 # The Hand of Merlin
+[Store](https://store.epicgames.com/en-US/p/the-hand-of-merlin)  
 [View Rawdata](../../db/t/the_hand_of_merlin.json)  
 ## Achievements
 | Name | Percentage | Users |

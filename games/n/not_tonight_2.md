@@ -1,4 +1,5 @@
 # Not Tonight 2
+[Store](https://store.epicgames.com/en-US/p/not-tonight-2)  
 [View Rawdata](../../db/n/not_tonight_2.json)  
 Rating: 4.19 (Ranked 813)  
 ## Achievements

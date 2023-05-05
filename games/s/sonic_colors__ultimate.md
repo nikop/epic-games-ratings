@@ -1,4 +1,5 @@
 # Sonic Colors: Ultimate
+[Store](https://store.epicgames.com/en-US/p/sonic-colors-ultimate)  
 [View Rawdata](../../db/s/sonic_colors__ultimate.json)  
 Rating: 4.41 (Ranked 650)  
 Number of Ratings: 179  (23.09.2022)  

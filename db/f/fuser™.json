@@ -286,8 +286,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:25.6065174+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:52.1041305+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:32.1626011+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:13.1521708+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-01-12T21:57:19.0247448+00:00",
@@ -296,12 +296,13 @@
   "NumberOfAwardsMax": 35,
   "NumberOfAwards": 342,
   "NumberOfRatings": 86,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 313,
   "Ranking_Popularity": 427,
   "Ranking_Rating": 178,
-  "Rating": 4.71
+  "Rating": 4.71,
+  "ProductSlug": "fuser"
 }

@@ -4609,8 +4609,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:21.0694792+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:01.1383075+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:26.5217892+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:12.0663133+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T20:57:20.3460538+00:00",
@@ -4619,12 +4619,13 @@
   "NumberOfAwardsMax": 1281338,
   "NumberOfAwards": 9266992,
   "NumberOfRatings": 2283925,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 1,
   "Ranking_Popularity": 1,
   "Ranking_Rating": 757,
-  "Rating": 4.29
+  "Rating": 4.29,
+  "ProductSlug": "fortnite"
 }

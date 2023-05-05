@@ -1,4 +1,5 @@
 # Galactic Civilizations IV: Supernova
+[Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv-supernova)  
 [View Rawdata](../../db/g/galactic_civilizations_iv__supernova.json)  
 ## Achievements
 | Name | Percentage | Users |

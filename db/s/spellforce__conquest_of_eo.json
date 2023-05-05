@@ -18,8 +18,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:21.3569239+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:52.2974671+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:26.9197613+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:02.7070535+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
@@ -27,8 +27,9 @@
   "FirstSeen": "2023-02-06T21:58:03.1395886+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 379
+  "Ranking_EOS_Progress": 379,
+  "ProductSlug": "spellforce-conquest-of-eo"
 }

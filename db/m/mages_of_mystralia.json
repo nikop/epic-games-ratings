@@ -523,8 +523,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:10.5185173+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:31.4939249+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:43.1554025+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:11.5005732+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-14T20:57:43.0123617+00:00",
@@ -533,12 +533,13 @@
   "NumberOfAwardsMax": 162,
   "NumberOfAwards": 162,
   "NumberOfRatings": 693,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 370,
   "Ranking_Popularity": 277,
   "Ranking_Rating": 686,
-  "Rating": 4.38
+  "Rating": 4.38,
+  "ProductSlug": "mages-of-mystralia"
 }

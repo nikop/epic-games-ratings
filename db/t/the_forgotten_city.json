@@ -143,8 +143,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:20.5553038+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:56:51.6328633+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:01:13.7507585+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:01.8532239+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:09.4384439+00:00",
@@ -152,12 +152,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 37,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 127,
-  "Rating": 4.75
+  "Rating": 4.75,
+  "ProductSlug": "the-forgotten-city"
 }

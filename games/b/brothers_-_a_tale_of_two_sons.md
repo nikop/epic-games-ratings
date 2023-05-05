@@ -1,4 +1,5 @@
 # Brothers - A Tale of Two Sons
+[Store](https://store.epicgames.com/en-US/p/brothers-a-tale-of-two-sons)  
 [View Rawdata](../../db/b/brothers_-_a_tale_of_two_sons.json)  
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 687  (23.09.2022)  

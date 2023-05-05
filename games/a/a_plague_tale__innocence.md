@@ -1,4 +1,5 @@
 # A Plague Tale: Innocence
+[Store](https://store.epicgames.com/en-US/p/a-plague-tale-innocence)  
 [View Rawdata](../../db/a/a_plague_tale__innocence.json)  
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 10,904  (23.09.2022)  

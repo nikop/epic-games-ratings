@@ -1795,8 +1795,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:18.7661154+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:07.1023416+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:23.5679438+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:19.0495464+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:57:27.2502641+00:00",
@@ -1805,12 +1805,13 @@
   "NumberOfAwardsMax": 1017,
   "NumberOfAwards": 2010,
   "NumberOfRatings": 1408,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 185,
   "Ranking_Popularity": 134,
   "Ranking_Rating": 771,
-  "Rating": 4.26
+  "Rating": 4.26,
+  "ProductSlug": "eve-online"
 }

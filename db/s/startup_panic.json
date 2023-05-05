@@ -121,8 +121,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:22.9993608+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:52.7148946+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:06.395794+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:13.7816322+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:57:40.6669984+00:00",
@@ -131,12 +131,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 28,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 686,
-  "Rating": 4.38
+  "Rating": 4.38,
+  "ProductSlug": "startup-panic"
 }

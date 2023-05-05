@@ -1,4 +1,5 @@
 # Colt Canyon
+[Store](https://store.epicgames.com/en-US/p/colt-canyon)  
 [View Rawdata](../../db/c/colt_canyon.json)  
 Rating: 4.61 (Ranked 353)  
 ## Achievements

@@ -1,4 +1,5 @@
 # Second Extinction™
+[Store](https://store.epicgames.com/en-US/p/second-extinction)  
 [View Rawdata](../../db/s/second_extinction™.json)  
 Rating: 4.06 (Ranked 866)  
 Number of Ratings: 617  (23.09.2022)  

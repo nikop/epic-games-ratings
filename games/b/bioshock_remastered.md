@@ -1,4 +1,5 @@
 # BioShock Remastered
+[Store](https://store.epicgames.com/en-US/p/bioshock-remastered)  
 [View Rawdata](../../db/b/bioshock_remastered.json)  
 Rating: 4.64 (Ranked 312)  
 Number of Ratings: 24,195  (23.09.2022)  

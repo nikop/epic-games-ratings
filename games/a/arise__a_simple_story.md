@@ -1,4 +1,5 @@
 # Arise: A Simple Story
+[Store](https://store.epicgames.com/en-US/p/arise-a-simple-story/home)  
 [View Rawdata](../../db/a/arise__a_simple_story.json)  
 ## Achievements
 | Name | Percentage | Users |

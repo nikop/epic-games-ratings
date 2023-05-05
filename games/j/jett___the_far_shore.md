@@ -1,4 +1,5 @@
 # JETT : THE FAR SHORE
+[Store](https://store.epicgames.com/en-US/p/jett-the-far-shore)  
 [View Rawdata](../../db/j/jett___the_far_shore.json)  
 ## Achievements
 | Name | Percentage | Users |

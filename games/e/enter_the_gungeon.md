@@ -1,4 +1,5 @@
 # Enter the Gungeon
+[Store](https://store.epicgames.com/en-US/p/enter-the-gungeon/home)  
 [View Rawdata](../../db/e/enter_the_gungeon.json)  
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 8,617  (23.09.2022)  

@@ -354,8 +354,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:21.2089179+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:21.5774993+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:26.6954801+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:36.4832961+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-29T15:57:59.8377587+00:00",
@@ -364,12 +364,13 @@
   "NumberOfAwardsMax": 85,
   "NumberOfAwards": 141,
   "NumberOfRatings": 98,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 378,
   "Ranking_Popularity": 339,
   "Ranking_Rating": 233,
-  "Rating": 4.68
+  "Rating": 4.68,
+  "ProductSlug": "titan-quest"
 }

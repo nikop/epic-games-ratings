@@ -13,7 +13,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1793
+      "Count": 1795
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2375,6 +2375,12 @@
       "Rating": 4.9,
       "NumberOfAwards": 8348,
       "NumberOfAwardsMax": 1793
+    },
+    {
+      "Time": "2023-05-05T10:58:04.2165364+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8350,
+      "NumberOfAwardsMax": 1795
     }
   ],
   "TotalAchievementsXP": 0,
@@ -2383,22 +2389,23 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:20.1225772+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:45.0692053+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:01:13.0529772+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:04.2165368+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T07:58:13.4789683+00:00",
+  "LastChanged": "2023-05-05T10:58:04.2165362+00:00",
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 1793,
-  "NumberOfAwards": 8348,
+  "NumberOfAwardsMax": 1795,
+  "NumberOfAwards": 8350,
   "NumberOfRatings": 1859,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 86,
   "Ranking_Popularity": 106,
   "Ranking_Rating": 7,
-  "Rating": 4.9
+  "Rating": 4.9,
+  "ProductSlug": "the-binding-of-isaac-repentance"
 }

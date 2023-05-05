@@ -2267,13 +2267,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T10:04:55.0357089+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:36.9965071+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:55.0357118+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:29.5188492+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:36.9965092+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:55.4857828+00:00",
   "AchievementSets": [
     {
       "ID": "akhg1a3",
@@ -2290,13 +2290,14 @@
   "NumberOfAwardsMax": 6689,
   "NumberOfAwards": 53953,
   "NumberOfRatings": 61855,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 20,
   "Ranking_Popularity": 47,
   "Ranking_Rating": 641,
   "Rating": 4.42,
-  "FirstSeenAchievements": "2023-04-25T16:08:55.5183215+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:08:55.5183215+00:00",
+  "ProductSlug": "rumbleverse"
 }

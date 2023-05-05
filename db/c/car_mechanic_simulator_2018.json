@@ -3366,8 +3366,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:06.7778429+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:45.6399259+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:14.8077056+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:04.9741943+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T16:58:15.2711789+00:00",
@@ -3376,12 +3376,13 @@
   "NumberOfAwardsMax": 1971,
   "NumberOfAwards": 15351,
   "NumberOfRatings": 38343,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 60,
   "Ranking_Popularity": 103,
   "Ranking_Rating": 547,
-  "Rating": 4.49
+  "Rating": 4.49,
+  "ProductSlug": "car-mechanic-simulator-2018"
 }

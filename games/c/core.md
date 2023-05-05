@@ -1,4 +1,5 @@
 # Core
+[Store](https://store.epicgames.com/en-US/p/core)  
 [View Rawdata](../../db/c/core.json)  
 Rating: 4.37 (Ranked 695)  
 Number of Ratings: 1,439  (23.09.2022)  

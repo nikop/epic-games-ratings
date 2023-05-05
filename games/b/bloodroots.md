@@ -1,4 +1,5 @@
 # Bloodroots
+[Store](https://store.epicgames.com/en-US/p/bloodroots/home)  
 [View Rawdata](../../db/b/bloodroots.json)  
 ## Achievements
 | Name | Percentage | Users |

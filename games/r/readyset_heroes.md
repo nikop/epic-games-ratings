@@ -1,4 +1,5 @@
 # ReadySet Heroes
+[Store](https://store.epicgames.com/en-US/p/readyset-heroes)  
 [View Rawdata](../../db/r/readyset_heroes.json)  
 ## Achievements
 | Name | Percentage | Users |

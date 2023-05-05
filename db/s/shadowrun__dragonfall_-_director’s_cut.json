@@ -422,8 +422,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:24.3277986+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:48.3524535+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:59.9833571+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:31.5903289+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-04-10T15:58:03.8915099+00:00",
@@ -432,12 +432,13 @@
   "NumberOfAwardsMax": 88,
   "NumberOfAwards": 88,
   "NumberOfRatings": 236,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 401,
   "Ranking_Popularity": 336,
   "Ranking_Rating": 475,
-  "Rating": 4.54
+  "Rating": 4.54,
+  "ProductSlug": "shadowrun-dragonfall/home"
 }

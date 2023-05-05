@@ -1,4 +1,5 @@
 # Hextech Mayhem: A League of Legends Story™
+[Store](https://store.epicgames.com/en-US/p/hextech-mayhem-a-league-of-legends-story)  
 [View Rawdata](../../db/h/hextech_mayhem__a_league_of_legends_story™.json)  
 Rating: 4.56 (Ranked 447)  
 Number of Ratings: 30  (23.09.2022)  

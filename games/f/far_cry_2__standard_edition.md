@@ -1,4 +1,5 @@
 # Far Cry 2: Standard Edition
+[Store](https://store.epicgames.com/en-US/p/far-cry-2)  
 [View Rawdata](../../db/f/far_cry_2__standard_edition.json)  
 Rating: 4.25 (Ranked 775)  
 Number of Ratings: 60  (23.09.2022)  

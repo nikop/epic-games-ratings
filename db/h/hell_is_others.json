@@ -8,7 +8,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17344
+      "UsersEstimate": 17345
     },
     {
       "ID": "Act2",
@@ -56,7 +56,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76811
+      "UsersEstimate": 76812
     },
     {
       "ID": "BackHomeNTimes",
@@ -296,7 +296,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52033
+      "UsersEstimate": 52034
     },
     {
       "ID": "KillOthers2",
@@ -1602,6 +1602,11 @@
       "Time": "2023-05-05T10:05:15.2147081+00:00",
       "NumProgressed": 247776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T11:06:00.7806695+00:00",
+      "NumProgressed": 247780,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1908,18 +1913,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T10:05:15.2147075+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:06:00.7806692+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 779,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247776,
-  "LastUpdate_Achievements": "2023-05-05T10:05:15.2147571+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:28.1264183+00:00",
+  "EOS_Progressed": 247780,
+  "LastUpdate_Achievements": "2023-05-05T11:06:00.7807235+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:07.6013253+00:00",
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247776,
+      "Progressed": 247780,
       "Completed": 1
     }
   ],
@@ -1929,7 +1934,7 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 39,

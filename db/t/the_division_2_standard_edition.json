@@ -4716,8 +4716,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:16.6461818+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:38.5775661+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:04:50.6682475+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:19.8416494+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T06:00:28.1227494+00:00",
@@ -4726,12 +4726,13 @@
   "NumberOfAwardsMax": 6697,
   "NumberOfAwards": 21549,
   "NumberOfRatings": 6675,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 52,
   "Ranking_Popularity": 46,
   "Ranking_Rating": 573,
-  "Rating": 4.47
+  "Rating": 4.47,
+  "ProductSlug": "the-division-2/home"
 }

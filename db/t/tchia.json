@@ -88,7 +88,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "HISTORIAN",
@@ -120,7 +120,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "LIVE_WIRE",
@@ -160,7 +160,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "THING",
@@ -817,6 +817,11 @@
       "Time": "2023-05-05T08:05:27.0939025+00:00",
       "NumProgressed": 5487,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T11:05:16.5323826+00:00",
+      "NumProgressed": 5488,
+      "NumCompleted": 19
     }
   ],
   "RatingHistory": [
@@ -929,18 +934,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-05T10:04:37.9985141+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:16.5323823+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_Completed": 19,
-  "EOS_Progressed": 5487,
-  "LastUpdate_Achievements": "2023-05-05T10:04:37.9985479+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:27.8403253+00:00",
+  "EOS_Progressed": 5488,
+  "LastUpdate_Achievements": "2023-05-05T11:05:16.5324013+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:43.9146527+00:00",
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5487,
+      "Progressed": 5488,
       "Completed": 19
     }
   ],
@@ -958,5 +963,6 @@
   "Ranking_Popularity": 490,
   "Ranking_Rating": 103,
   "Rating": 4.77,
-  "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
+  "ProductSlug": "tchia"
 }

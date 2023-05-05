@@ -4654,8 +4654,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:21.665884+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:59:22.3210663+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:27.2255143+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:00:00.0403787+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T04:59:31.294224+00:00",
@@ -4664,12 +4664,13 @@
   "NumberOfAwardsMax": 7869,
   "NumberOfAwards": 55934,
   "NumberOfRatings": 21349,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 19,
   "Ranking_Popularity": 39,
   "Ranking_Rating": 114,
-  "Rating": 4.76
+  "Rating": 4.76,
+  "ProductSlug": "snowrunner/home"
 }

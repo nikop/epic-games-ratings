@@ -1,4 +1,5 @@
 # OUTRIDERS
+[Store](https://store.epicgames.com/en-US/p/outriders)  
 [View Rawdata](../../db/o/outriders.json)  
 Rating: 4.42 (Ranked 641)  
 Number of Ratings: 1,201  (23.09.2022)  

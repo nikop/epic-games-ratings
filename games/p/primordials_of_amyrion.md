@@ -1,4 +1,5 @@
 # Primordials of Amyrion
+[Store](https://store.epicgames.com/en-US/p/primordials-of-amyrion)  
 [View Rawdata](../../db/p/primordials_of_amyrion.json)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,4 +1,5 @@
 # Synergia
+[Store](https://store.epicgames.com/en-US/p/synergia)  
 [View Rawdata](../../db/s/synergia.json)  
 ## Achievements
 | Name | Percentage | Users |

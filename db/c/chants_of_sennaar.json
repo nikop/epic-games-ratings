@@ -7,13 +7,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T10:04:27.1493711+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:03.480117+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:04:27.1494187+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:23.8143186+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:03.4801442+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:49.9948176+00:00",
   "AchievementSets": [
     {
       "ID": "2gma9an",
@@ -23,9 +23,10 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
+  "ProductSlug": "chants-of-sennaar"
 }

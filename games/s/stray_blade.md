@@ -1,4 +1,5 @@
 # Stray Blade
+[Store](https://store.epicgames.com/en-US/p/stray-blade)  
 [View Rawdata](../../db/s/stray_blade.json)  
 ## Achievements
 | Name | Percentage | Users |

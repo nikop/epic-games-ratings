@@ -30,11 +30,11 @@
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 30 | [Doodle God](games/d/doodle_god.md) | 4.06% |
-| 31 | [Ravenlok](games/r/ravenlok.md) | 3.91% |
-| 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
-| 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
+| 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 33 | [Ravenlok](games/r/ravenlok.md) | 3.82% |
 | 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 35 | [The Complex](games/t/the_complex.md) | 3.57% |
+| 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
@@ -135,12 +135,12 @@
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
 | 134 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 136 | [Dead Island 2](games/d/dead_island_2.md) | 0.16% |
 | 136 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 138 | [Dead Island 2](games/d/dead_island_2.md) | 0.15% |
-| 138 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 138 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 138 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 139 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 139 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
+| 139 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 142 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 142 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 144 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
@@ -377,4 +377,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,556 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,557 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

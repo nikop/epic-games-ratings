@@ -797,13 +797,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 34,
-  "LastChanged_Achievements": "2023-05-05T10:04:26.0844125+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:02.1730188+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 29,
   "EOS_Completed": 5,
   "EOS_Progressed": 109250,
-  "LastUpdate_Achievements": "2023-05-05T10:04:26.0844458+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:43.0317427+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:02.1730503+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:01.5896629+00:00",
   "AchievementSets": [
     {
       "ID": "4i9cj6f",
@@ -819,7 +819,7 @@
   "NumberOfAwardsMax": 50,
   "NumberOfAwards": 370,
   "NumberOfRatings": 94,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 57,
@@ -827,5 +827,6 @@
   "Ranking_Popularity": 385,
   "Ranking_Rating": 813,
   "Rating": 4.19,
-  "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
+  "ProductSlug": "crayta"
 }

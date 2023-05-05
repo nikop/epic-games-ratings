@@ -1035,8 +1035,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:03:28.0743624+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:33.2373226+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:03:41.2706382+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:59.9418101+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-04T20:59:06.3144742+00:00",
@@ -1046,12 +1046,13 @@
   "NumberOfAwardsMax": 274,
   "NumberOfAwards": 2067,
   "NumberOfRatings": 170,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 183,
   "Ranking_Popularity": 228,
   "Ranking_Rating": 475,
-  "Rating": 4.54
+  "Rating": 4.54,
+  "ProductSlug": "train-sim-world-3"
 }

@@ -367,8 +367,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T09:59:52.5358081+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:53.6620871+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:00:39.1906135+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:24.4050382+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:23.6544731+00:00",
@@ -376,12 +376,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 148,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 353,
-  "Rating": 4.61
+  "Rating": 4.61,
+  "ProductSlug": "abzu"
 }

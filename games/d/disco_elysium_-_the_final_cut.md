@@ -1,4 +1,5 @@
 # Disco Elysium - The Final Cut
+[Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
 Rating: 4.86 (Ranked 28)  
 Number of Ratings: 1,611  (23.09.2022)  
@@ -10,14 +11,14 @@ Diff (max vs sum): -70
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~33,030 |
-| Biggest Communism Builder | 24.00% | ~28,311 |
+| Biggest Communism Builder | 24.00% | ~28,312 |
 | The World's Most Laughable Centrist | 20.00% | ~23,593 |
 | Il Coppo Del'Arte! | 18.00% | ~21,234 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,874 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,875 |
 | Hyperstellar Law Official | 15.00% | ~17,695 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,515 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,335 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,335 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,336 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,336 |
 | Truly Rabid *Traditionalist* | 11.00% | ~12,976 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,617 |
 | Unbelievably Boring **** | 8.00% | ~9,437 |
@@ -50,7 +51,7 @@ Diff (max vs sum): -70
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,964 (Ranked 55)  
+Progressed: 117,966 (Ranked 55)  
 Completed: 24 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +66,7 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-02 | 117,873 | 24 |
 | 2023-05-03 | 117,917 | 24 |
 | 2023-05-04 | 117,947 | 24 |
-| 2023-05-05 | 117,964 | 24 |
+| 2023-05-05 | 117,966 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -411,8 +411,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:00:13.8227061+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:00.6435458+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:01:05.3620977+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:23.7335183+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-03-31T05:58:07.5537425+00:00",
@@ -420,12 +420,13 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 687,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
   "Ranking_Rating": 573,
-  "Rating": 4.47
+  "Rating": 4.47,
+  "ProductSlug": "brothers-a-tale-of-two-sons"
 }

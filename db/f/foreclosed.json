@@ -223,13 +223,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T10:04:55.134054+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:37.235921+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 2,
   "EOS_Progressed": 73,
-  "LastUpdate_Achievements": "2023-05-05T10:04:55.1340711+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:22.5281783+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:37.2359347+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:48.6559824+00:00",
   "AchievementSets": [
     {
       "ID": "9e3d06k",
@@ -244,9 +244,10 @@
   "FirstSeen": "2022-07-22T20:32:15.7439274+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_Progress": 257,
-  "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
+  "ProductSlug": "foreclosed"
 }

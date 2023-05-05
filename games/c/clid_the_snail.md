@@ -1,4 +1,5 @@
 # Clid The Snail
+[Store](https://store.epicgames.com/en-US/p/clid-the-snail)  
 [View Rawdata](../../db/c/clid_the_snail.json)  
 ## Achievements
 | Name | Percentage | Users |

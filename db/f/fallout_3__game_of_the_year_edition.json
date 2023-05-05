@@ -993,8 +993,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T10:02:11.1789867+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:57:34.7738583+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:02:14.6876583+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:57:51.7556374+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
   "LastChanged": "2023-05-05T01:50:52.7138802+00:00",
@@ -1003,12 +1003,13 @@
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 13227,
   "NumberOfAwards": 27023,
-  "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 40,
   "Ranking_Popularity": 25,
   "Ranking_Rating": 379,
-  "Rating": 4.6
+  "Rating": 4.6,
+  "ProductSlug": "fallout-3-game-of-the-year-edition"
 }

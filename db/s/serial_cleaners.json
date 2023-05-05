@@ -228,13 +228,13 @@
   ],
   "TotalAchievementsXP": 1300,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T10:04:58.7433681+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:41.542355+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 5,
   "EOS_Progressed": 156,
-  "LastUpdate_Achievements": "2023-05-05T10:04:58.743386+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:36.2660817+00:00",
+  "LastUpdate_Achievements": "2023-05-05T11:05:41.5423707+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:59:03.3792444+00:00",
   "AchievementSets": [
     {
       "ID": "5jieak",
@@ -255,9 +255,10 @@
   "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_Progress": 229,
-  "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00"
+  "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
+  "ProductSlug": "serial-cleaners"
 }

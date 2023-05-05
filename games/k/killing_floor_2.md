@@ -1,4 +1,5 @@
 # Killing Floor 2
+[Store](https://store.epicgames.com/en-US/p/killing-floor-2)  
 [View Rawdata](../../db/k/killing_floor_2.json)  
 Rating: 4.41 (Ranked 650)  
 Number of Ratings: 18,418  (23.09.2022)  

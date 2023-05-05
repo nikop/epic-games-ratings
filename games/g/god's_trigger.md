@@ -1,4 +1,5 @@
 # God's Trigger
+[Store](https://store.epicgames.com/en-US/p/gods-trigger)  
 [View Rawdata](../../db/g/god's_trigger.json)  
 Rating: 4.17 (Ranked 826)  
 Number of Ratings: 114  (23.09.2022)  

@@ -1,4 +1,5 @@
 # The Valiant
+[Store](https://store.epicgames.com/en-US/p/the-valiant)  
 [View Rawdata](../../db/t/the_valiant.json)  
 ## Achievements
 | Name | Percentage | Users |

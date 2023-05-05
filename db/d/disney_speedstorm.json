@@ -104,7 +104,7 @@
       "Name": "PROTECTED",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "21",
@@ -128,7 +128,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "24",
@@ -136,7 +136,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "3",
@@ -152,7 +152,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "5",
@@ -174,9 +174,9 @@
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 65,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "8",
@@ -1056,30 +1056,36 @@
       "Time": "2023-05-05T04:06:15.4138125+00:00",
       "NumProgressed": 2317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T11:05:34.834898+00:00",
+      "NumProgressed": 2318,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T10:04:53.1299341+00:00",
+  "LastChanged_Achievements": "2023-05-05T11:05:34.8348977+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 455,
   "EOS_Completed": 0,
-  "EOS_Progressed": 2317,
-  "LastUpdate_Achievements": "2023-05-05T10:04:53.1299524+00:00",
-  "LastUpdate_Ratings": "2023-05-05T09:58:16.3034494+00:00",
+  "EOS_Progressed": 2318,
+  "LastUpdate_Achievements": "2023-05-05T11:05:34.8349149+00:00",
+  "LastUpdate_Ratings": "2023-05-05T10:58:41.750236+00:00",
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2317,
+      "Progressed": 2318,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 136,
-  "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00"
+  "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
+  "ProductSlug": "disney-speedstorm"
 }
