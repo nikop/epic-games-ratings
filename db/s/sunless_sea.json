@@ -24,7 +24,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4798
+      "UsersEstimate": 4799
     },
     {
       "ID": "ach_antiquarian10",
@@ -128,7 +128,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10160
+      "UsersEstimate": 10162
     },
     {
       "ID": "ach_die10",
@@ -168,7 +168,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ach_hunterskeep",
@@ -184,7 +184,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ach_ladylilac",
@@ -216,7 +216,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3951
+      "UsersEstimate": 3952
     },
     {
       "ID": "ach_legacysalvager",
@@ -360,7 +360,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5362
+      "UsersEstimate": 5363
     },
     {
       "ID": "ach_terror100",
@@ -1571,6 +1571,11 @@
       "Time": "2023-05-05T12:05:57.8753857+00:00",
       "NumProgressed": 28223,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T13:10:59.555788+00:00",
+      "NumProgressed": 28228,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2147,18 +2152,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-05T12:05:57.8753852+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:59.5557869+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 670,
   "EOS_Completed": 3,
-  "EOS_Progressed": 28223,
-  "LastUpdate_Achievements": "2023-05-05T12:05:57.8754312+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:52.3557864+00:00",
+  "EOS_Progressed": 28228,
+  "LastUpdate_Achievements": "2023-05-05T13:10:59.555844+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:04:40.6730626+00:00",
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28223,
+      "Progressed": 28228,
       "Completed": 3
     }
   ],

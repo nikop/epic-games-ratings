@@ -1,7 +1,7 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 513)  
+Rating: 4.51 (Ranked 514)  
 Number of Ratings: 896  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 131  (Ranked 291)  
@@ -10,17 +10,17 @@ Diff (max vs sum): -92
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~545,897 |
-| Error: Stack Overflow | 66.00% | ~387,411 |
-| We need more gold | 60.00% | ~352,192 |
-| The dawn of civilization | 53.00% | ~311,103 |
-| More FPS for the FPS god! | 49.00% | ~287,623 |
-| Beauty and harmony | 48.00% | ~281,753 |
-| One more! | 44.00% | ~258,274 |
-| Overmind | 24.00% | ~140,877 |
-| RNG is my best friend now | 18.00% | ~105,657 |
-| Cosplay | 13.00% | ~76,308 |
-| Evolution in progress... | 13.00% | ~76,308 |
+| First.. Bit? | 93.00% | ~545,903 |
+| Error: Stack Overflow | 66.00% | ~387,415 |
+| We need more gold | 60.00% | ~352,196 |
+| The dawn of civilization | 53.00% | ~311,106 |
+| More FPS for the FPS god! | 49.00% | ~287,627 |
+| Beauty and harmony | 48.00% | ~281,757 |
+| One more! | 44.00% | ~258,277 |
+| Overmind | 24.00% | ~140,878 |
+| RNG is my best friend now | 18.00% | ~105,659 |
+| Cosplay | 13.00% | ~76,309 |
+| Evolution in progress... | 13.00% | ~76,309 |
 | Step by step | 8.00% | ~46,959 |
 | README reader | 3.00% | ~17,610 |
 | Data scientist | 3.00% | ~17,610 |
@@ -39,7 +39,7 @@ Diff (max vs sum): -92
 | Elements will destroy you! | 0.30% | ~1,761 |
 | The Scrooge | 0.10% | ~587 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586,986 (Ranked 20)  
+Progressed: 586,993 (Ranked 20)  
 Completed: 474 (0.08%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 474 (0.08%) (Ranked 157)
 | 2023-05-02 | 586,713 | 474 |
 | 2023-05-03 | 586,815 | 474 |
 | 2023-05-04 | 586,934 | 474 |
-| 2023-05-05 | 586,986 | 474 |
+| 2023-05-05 | 586,993 | 474 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

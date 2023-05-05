@@ -1,6 +1,6 @@
 # Imagine Earth
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.30 (Ranked 751)  
+Rating: 4.30 (Ranked 752)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

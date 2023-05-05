@@ -230,9 +230,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearStatue",
@@ -3213,13 +3213,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T12:06:06.989865+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:09.8814928+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_Completed": 30,
   "EOS_Progressed": 14643,
-  "LastUpdate_Achievements": "2023-05-05T12:06:06.9899067+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:12.6966746+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:11:09.8815432+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:06.4430381+00:00",
   "AchievementSets": [
     {
       "ID": "cfbk359",
@@ -3236,7 +3236,7 @@
   "NumberOfAwards": 3012,
   "NumberOfRatings": 1845,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 97,
   "Ranking_PopularitySum": 149,

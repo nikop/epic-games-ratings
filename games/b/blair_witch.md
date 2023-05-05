@@ -1,7 +1,7 @@
 # Blair Witch
 [Store](https://store.epicgames.com/en-US/p/blair-witch/home)  
 [View Rawdata](../../db/b/blair_witch.json)  
-Rating: 4.13 (Ranked 845)  
+Rating: 4.13 (Ranked 846)  
 Number of Ratings: 635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

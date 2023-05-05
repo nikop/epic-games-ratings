@@ -1,7 +1,7 @@
 # Genesis Alpha One Deluxe Edition
 [Store](https://store.epicgames.com/en-US/p/genesis-alpha-one)  
 [View Rawdata](../../db/g/genesis_alpha_one_deluxe_edition.json)  
-Rating: 4.40 (Ranked 663)  
+Rating: 4.40 (Ranked 664)  
 Number of Ratings: 50  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

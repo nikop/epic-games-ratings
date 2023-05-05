@@ -5,19 +5,19 @@ Rating: 4.66 (Ranked 272)
 Number of Ratings: 495  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 547  (Ranked 173)  
-Sum: 4,644 (Ranked 125)  
+Sum: 4,646 (Ranked 125)  
 Diff (max vs sum): 48  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,459 |
-| Thorough | 8.00% | ~13,167 |
-| A thief's beginning | 7.00% | ~11,521 |
-| Tanuki Time | 7.00% | ~11,521 |
-| Disguised | 6.00% | ~9,875 |
-| Jonin | 6.00% | ~9,875 |
-| Rescue Takuma | 6.00% | ~9,875 |
-| Rollin' | 6.00% | ~9,875 |
+| Genin | 10.00% | ~16,461 |
+| Thorough | 8.00% | ~13,169 |
+| A thief's beginning | 7.00% | ~11,523 |
+| Tanuki Time | 7.00% | ~11,523 |
+| Disguised | 6.00% | ~9,877 |
+| Jonin | 6.00% | ~9,877 |
+| Rescue Takuma | 6.00% | ~9,877 |
+| Rollin' | 6.00% | ~9,877 |
 | Chunin | 5.00% | ~8,230 |
 | Ice Ice Yuki | 5.00% | ~8,230 |
 | Stoned Ox | 5.00% | ~8,230 |
@@ -55,7 +55,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,591 (Ranked 50)  
+Progressed: 164,609 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,591 | 41 |
+| 2023-05-05 | 164,609 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -80,7 +80,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | This game has Amazing Storytelling | 497 |
 | This game has Amazing Characters | 479 |
 | This game is Highly Recommended | 475 |
-| This game has Challenging Combat | 469 |
+| This game has Challenging Combat | 471 |
 | This game is Relaxing | 465 |
 | This game has Quickly Understood Controls | 443 |
 | This game has a Creative Community | 242 |
@@ -189,3 +189,4 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-01 | 4.66 | - | 547 | 4,640 |
 | 2023-05-02 | 4.66 | - | 547 | 4,641 |
 | 2023-05-04 | 4.66 | - | 547 | 4,644 |
+| 2023-05-05 | 4.66 | - | 547 | 4,646 |

@@ -12,19 +12,19 @@ Diff (max vs sum): -42
 | ---- | ---------- | ----- |
 | Executioner | 30.00% | ~772 |
 | Look Over There! | 27.00% | ~695 |
-| Not So Fast... | 26.00% | ~669 |
-| Watch Where You Step... | 26.00% | ~669 |
+| Not So Fast... | 26.00% | ~670 |
+| Watch Where You Step... | 26.00% | ~670 |
 | An Ill Omen | 24.00% | ~618 |
 | Purging Spree | 20.00% | ~515 |
-| Blood for the Blood God! | 16.00% | ~412 |
+| Blood for the Blood God! | 15.00% | ~386 |
 | Friendly Fire | 15.00% | ~386 |
-| Surgical Excision | 14.00% | ~360 |
+| Surgical Excision | 14.00% | ~361 |
 | Bloodless | 13.00% | ~335 |
-| Honoured Battle-Brother | 10.00% | ~257 |
-| The Emperor Protects | 10.00% | ~257 |
-| Nemesis Master | 10.00% | ~257 |
-| Gunmaster | 10.00% | ~257 |
-| A Foul Creche | 10.00% | ~257 |
+| Honoured Battle-Brother | 10.00% | ~258 |
+| The Emperor Protects | 10.00% | ~258 |
+| Nemesis Master | 10.00% | ~258 |
+| Gunmaster | 10.00% | ~258 |
+| A Foul Creche | 10.00% | ~258 |
 | Opportunist | 7.00% | ~180 |
 | Efficient Killer | 7.00% | ~180 |
 | Just a Scratch | 7.00% | ~180 |
@@ -36,11 +36,11 @@ Diff (max vs sum): -42
 | Harvest No More | 3.00% | ~77 |
 | Junk Banishment | 3.00% | ~77 |
 | Long Distance Call | 3.00% | ~77 |
-| Patron of Deimos | 2.00% | ~51 |
-| Preservationist | 2.00% | ~51 |
-| Engine Kill | 2.00% | ~51 |
-| Death Comes For All | 2.00% | ~51 |
-| Tactical Flexibility | 2.00% | ~51 |
+| Patron of Deimos | 2.00% | ~52 |
+| Preservationist | 2.00% | ~52 |
+| Engine Kill | 2.00% | ~52 |
+| Death Comes For All | 2.00% | ~52 |
+| Tactical Flexibility | 2.00% | ~52 |
 | Fleetmaster | 1.00% | ~26 |
 | For the Machine God | 1.00% | ~26 |
 | Unstable Immaterium | 1.00% | ~26 |
@@ -70,7 +70,7 @@ Diff (max vs sum): -42
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,574 (Ranked 134)  
+Progressed: 2,575 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 2,568 | 0 |
 | 2023-05-03 | 2,571 | 0 |
 | 2023-05-04 | 2,574 | 0 |
+| 2023-05-05 | 2,575 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

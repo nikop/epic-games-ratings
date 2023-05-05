@@ -253,13 +253,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T12:05:47.4726862+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:47.8041911+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-05T12:05:47.4727035+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:12.1527762+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:47.8042135+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:52.2224238+00:00",
   "AchievementSets": [
     {
       "ID": "bb2dp",
@@ -275,7 +275,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 317,
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00"

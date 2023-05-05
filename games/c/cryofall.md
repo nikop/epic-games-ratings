@@ -1,6 +1,6 @@
 # CryoFall
 [View Rawdata](../../db/c/cryofall.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 531)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

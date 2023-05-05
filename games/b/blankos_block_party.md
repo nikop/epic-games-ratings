@@ -1,6 +1,6 @@
 # Blankos Block Party
 [View Rawdata](../../db/b/blankos_block_party.json)  
-Rating: 4.20 (Ranked 801)  
+Rating: 4.20 (Ranked 802)  
 Number of Ratings: 27  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 29  (Ranked 447)  

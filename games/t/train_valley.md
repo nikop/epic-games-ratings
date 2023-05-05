@@ -1,6 +1,6 @@
 # Train Valley
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.47 (Ranked 573)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

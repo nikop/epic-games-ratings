@@ -1,6 +1,6 @@
 # Duskers
 [View Rawdata](../../db/d/duskers.json)  
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

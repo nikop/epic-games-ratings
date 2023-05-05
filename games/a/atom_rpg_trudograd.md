@@ -1,6 +1,6 @@
 # ATOM RPG Trudograd
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 531)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 20  (Ranked 482)  
 Sum: 20 (Ranked 482)  

@@ -1,6 +1,6 @@
 # Hell is Others
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.47 (Ranked 573)  
+Rating: 4.47 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,10 +13,10 @@ Rating: 4.47 (Ranked 573)
 | Well-oiled machine | 5.00% | ~12,389 |
 | Saver I | 5.00% | ~12,389 |
 | Cleaning Company | 5.00% | ~12,389 |
-| The Ascent | 4.00% | ~9,911 |
-| Pacifist | 4.00% | ~9,911 |
-| Vandalism | 4.00% | ~9,911 |
-| Capitalist I | 4.00% | ~9,911 |
+| The Ascent | 4.00% | ~9,912 |
+| Pacifist | 4.00% | ~9,912 |
+| Vandalism | 4.00% | ~9,912 |
+| Capitalist I | 4.00% | ~9,912 |
 | Adrenaline | 3.00% | ~7,434 |
 | By a hair | 2.00% | ~4,956 |
 | Fixer II | 2.00% | ~4,956 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 573)
 | Capitalist III | 0.10% | ~248 |
 | Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,786 (Ranked 39)  
+Progressed: 247,788 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-02 | 247,587 | 0 |
 | 2023-05-03 | 247,672 | 1 |
 | 2023-05-04 | 247,753 | 1 |
-| 2023-05-05 | 247,786 | 1 |
+| 2023-05-05 | 247,788 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

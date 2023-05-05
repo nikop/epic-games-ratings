@@ -1,7 +1,7 @@
 # The Vanishing of Ethan Carter
 [Store](https://store.epicgames.com/en-US/p/the-vanishing-of-ethan-carter)  
 [View Rawdata](../../db/t/the_vanishing_of_ethan_carter.json)  
-Rating: 4.25 (Ranked 775)  
+Rating: 4.25 (Ranked 776)  
 Number of Ratings: 490  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

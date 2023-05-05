@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 114)
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,624  (Ranked 111)  
-Sum: 6,574 (Ranked 108)  
+Sum: 6,577 (Ranked 108)  
 Diff (max vs sum): 3  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Diff (max vs sum): 3
 | Devoured by Darkness | 12.00% | ~1,036 |
 | Burning City | 8.00% | ~691 |
 | A Spark | 8.00% | ~691 |
-| Mythic Choices | 7.00% | ~604 |
-| Defender's Heart | 7.00% | ~604 |
+| Mythic Choices | 7.00% | ~605 |
+| Defender's Heart | 7.00% | ~605 |
 | Banner over the Citadel | 6.00% | ~518 |
 | Queen's Gratitude | 6.00% | ~518 |
 | Fifth Crusade | 4.00% | ~345 |
@@ -50,7 +50,7 @@ Diff (max vs sum): 3
 | Path of the Demon | 0.80% | ~69 |
 | Abyssal Conspiracy | 0.60% | ~52 |
 | End of Eternal Guard | 0.60% | ~52 |
-| This Wall Won't Fall | 0.60% | ~44 |
+| This Wall Won't Fall | 0.60% | ~45 |
 | The Final Threshold | 0.50% | ~43 |
 | Path of the Dragon | 0.50% | ~43 |
 | Path of the Legend | 0.50% | ~43 |
@@ -127,7 +127,7 @@ Diff (max vs sum): 3
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,632 (Ranked 107)  
+Progressed: 8,637 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 8,584 | 0 |
 | 2023-05-03 | 8,607 | 0 |
 | 2023-05-04 | 8,627 | 0 |
-| 2023-05-05 | 8,632 | 0 |
+| 2023-05-05 | 8,637 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -150,8 +150,8 @@ Completed: 0 (0.00%) (Ranked 191)
 | This game is Extremely Fun | 614 |
 | This game has Amazing Characters | 600 |
 | This game is Highly Recommended | 600 |
+| This game has Amazing Storytelling | 584 |
 | This game has Diverse Characters | 584 |
-| This game has Amazing Storytelling | 581 |
 | This game has Quickly Understood Controls | 545 |
 | This game has Challenging Combat | 539 |
 | This game is Relaxing | 522 |
@@ -260,3 +260,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.76 | - | 1,623 | 6,567 |
 | 2023-05-03 | 4.76 | - | 1,623 | 6,568 |
 | 2023-05-04 | 4.76 | - | 1,624 | 6,574 |
+| 2023-05-05 | 4.76 | - | 1,624 | 6,577 |

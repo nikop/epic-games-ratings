@@ -23,6 +23,7 @@ Diff (max vs sum): 42
 | Barren Lands | 0.40% | ~59 |
 | Ancient Battleground | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
+| Lost Colonies | 0.40% | ~59 |
 | Cursed Lands | 0.40% | ~59 |
 | Trade Baron | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |
@@ -34,7 +35,6 @@ Diff (max vs sum): 42
 | Levitating Monument | 0.30% | ~44 |
 | Flooded Mines | 0.30% | ~44 |
 | Royal Outpost | 0.30% | ~44 |
-| Lost Colonies | 0.30% | ~44 |
 | Statue of the Forefathers | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
 | Corrosive Torrent | 0.30% | ~44 |

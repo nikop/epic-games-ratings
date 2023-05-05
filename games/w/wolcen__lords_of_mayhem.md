@@ -1,6 +1,6 @@
 # Wolcen: Lords of Mayhem
 [View Rawdata](../../db/w/wolcen__lords_of_mayhem.json)  
-Rating: 4.10 (Ranked 852)  
+Rating: 4.10 (Ranked 853)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

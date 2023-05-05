@@ -562,13 +562,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-05T12:06:07.6392669+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:10.6344758+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 24,
   "EOS_Completed": 1,
   "EOS_Progressed": 306,
-  "LastUpdate_Achievements": "2023-05-05T12:06:07.6392788+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:21.0931583+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:11:10.6344919+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:16.0300577+00:00",
   "AchievementSets": [
     {
       "ID": "bed33dd",
@@ -589,7 +589,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 712,
+  "Ranking_Rating": 713,
   "Rating": 4.35,
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "ProductSlug": "cartel-tycoon"

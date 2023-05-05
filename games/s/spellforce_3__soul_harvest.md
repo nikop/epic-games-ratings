@@ -1,7 +1,7 @@
 # SpellForce 3: Soul Harvest
 [Store](https://store.epicgames.com/en-US/p/spellforce-3-soul-harvest/home)  
 [View Rawdata](../../db/s/spellforce_3__soul_harvest.json)  
-Rating: 4.44 (Ranked 620)  
+Rating: 4.44 (Ranked 621)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

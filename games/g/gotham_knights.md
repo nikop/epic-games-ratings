@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 826)  
+Rating: 4.17 (Ranked 827)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,187  (Ranked 99)  
 Sum: 3,618 (Ranked 139)  

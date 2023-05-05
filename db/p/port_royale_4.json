@@ -706,13 +706,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T12:05:40.806658+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:40.2364949+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 18,
   "EOS_Completed": 0,
   "EOS_Progressed": 512,
-  "LastUpdate_Achievements": "2023-05-05T12:05:40.8066975+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:58:38.6633516+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:40.2365399+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:12.3865417+00:00",
   "AchievementSets": [
     {
       "ID": "69nfp41",
@@ -733,7 +733,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Rating": 3.99,
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "ProductSlug": "port-royale-4/home"

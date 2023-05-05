@@ -16,7 +16,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11045
+      "UsersEstimate": 11047
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24,7 +24,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 35239
+      "UsersEstimate": 35245
     },
     {
       "ID": "BEST_FRIENDS",
@@ -32,7 +32,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11573
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -40,7 +40,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 13675
+      "UsersEstimate": 13677
     },
     {
       "ID": "ERADICATE",
@@ -48,7 +48,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10521
     },
     {
       "ID": "FETCH",
@@ -56,7 +56,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14201
+      "UsersEstimate": 14203
     },
     {
       "ID": "FOXIN_AROUND",
@@ -64,7 +64,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 14727
+      "UsersEstimate": 14729
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -80,7 +80,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9469
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -88,7 +88,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 27876
+      "UsersEstimate": 27880
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -152,7 +152,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10521
     },
     {
       "ID": "SPIRIT_DASH",
@@ -168,7 +168,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7891
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -176,7 +176,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7363
+      "UsersEstimate": 7365
     },
     {
       "ID": "WEIGHTLESS",
@@ -192,7 +192,7 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7891
     }
   ],
   "Tags": [
@@ -1380,6 +1380,11 @@
       "Time": "2023-05-05T12:05:53.0910609+00:00",
       "NumProgressed": 52596,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-05T13:10:54.3931585+00:00",
+      "NumProgressed": 52604,
+      "NumCompleted": 238
     }
   ],
   "RatingHistory": [
@@ -1634,18 +1639,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T12:05:53.0910606+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:54.393158+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1055,
+  "EOS_NewPlayers": 1058,
   "EOS_Completed": 238,
-  "EOS_Progressed": 52596,
-  "LastUpdate_Achievements": "2023-05-05T12:05:53.0910794+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:38.5820226+00:00",
+  "EOS_Progressed": 52604,
+  "LastUpdate_Achievements": "2023-05-05T13:10:54.3931878+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:04:24.4178558+00:00",
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 52596,
+      "Progressed": 52604,
       "Completed": 238
     }
   ],
@@ -1657,13 +1662,13 @@
   "NumberOfAwardsMax": 25,
   "NumberOfAwards": 73,
   "NumberOfRatings": 1175,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_Progress": 72,
   "Ranking_PopularitySum": 411,
   "Ranking_Popularity": 464,
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 702,
   "Rating": 4.36,
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00"
 }

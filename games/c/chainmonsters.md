@@ -1,6 +1,6 @@
 # Chainmonsters
 [View Rawdata](../../db/c/chainmonsters.json)  
-Rating: 3.81 (Ranked 902)  
+Rating: 3.81 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

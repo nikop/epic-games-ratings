@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed )  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 547)  
+Rating: 4.49 (Ranked 549)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 226  (Ranked 244)  
 Sum: 2,036 (Ranked 184)  
@@ -9,50 +9,50 @@ Diff (max vs sum): 60
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 87.00% | ~18,711 |
-| Advancement | 74.00% | ~15,915 |
-| Meticulously Efficient | 65.00% | ~13,980 |
-| Discovery | 63.00% | ~13,549 |
-| Swift Rift Removers | 56.00% | ~12,044 |
-| Fully Upgraded | 55.00% | ~11,829 |
-| I collect Spores, Molds, and Fungi | 53.00% | ~11,399 |
-| Cultured | 53.00% | ~11,399 |
-| Vaporous Expansion | 49.00% | ~10,538 |
-| Teamwork | 45.00% | ~9,678 |
-| There you are! | 44.00% | ~9,463 |
-| Clutch Capture | 42.00% | ~9,033 |
-| Back Off | 36.00% | ~7,743 |
-| Daily Dose | 36.00% | ~7,743 |
-| Welcome to the Crew | 33.00% | ~7,097 |
-| Ghostbuster In Training | 31.00% | ~6,667 |
-| Solo Capture | 31.00% | ~6,667 |
-| Icing on the Cake | 30.00% | ~6,452 |
-| We have the best insurance | 28.00% | ~6,022 |
-| Legions | 28.00% | ~6,022 |
-| Side Hustle | 28.00% | ~6,022 |
-| Pesky Jerks | 27.00% | ~5,807 |
-| Stunner | 27.00% | ~5,807 |
-| Summoner | 27.00% | ~5,807 |
-| Right back at ya | 26.00% | ~5,592 |
-| Animated | 25.00% | ~5,377 |
-| Collector | 25.00% | ~5,377 |
-| Skilled | 25.00% | ~5,377 |
-| Ectoplasmic Entity | 24.00% | ~5,162 |
-| Rift Destroyer | 20.00% | ~4,301 |
-| Tobin's Prodigy | 19.00% | ~4,086 |
-| Reckless | 18.00% | ~3,871 |
-| Terrifying | 17.00% | ~3,656 |
-| Diabolical | 16.00% | ~3,441 |
-| Escape Artist | 16.00% | ~3,441 |
-| Seasoned | 16.00% | ~3,441 |
+| Stylish | 87.00% | ~18,715 |
+| Advancement | 74.00% | ~15,918 |
+| Meticulously Efficient | 65.00% | ~13,982 |
+| Discovery | 63.00% | ~13,552 |
+| Swift Rift Removers | 56.00% | ~12,046 |
+| Fully Upgraded | 55.00% | ~11,831 |
+| I collect Spores, Molds, and Fungi | 53.00% | ~11,401 |
+| Cultured | 53.00% | ~11,401 |
+| Vaporous Expansion | 49.00% | ~10,540 |
+| Teamwork | 45.00% | ~9,680 |
+| There you are! | 44.00% | ~9,465 |
+| Clutch Capture | 42.00% | ~9,035 |
+| Back Off | 36.00% | ~7,744 |
+| Daily Dose | 36.00% | ~7,744 |
+| Welcome to the Crew | 33.00% | ~7,099 |
+| Ghostbuster In Training | 31.00% | ~6,668 |
+| Solo Capture | 31.00% | ~6,668 |
+| Icing on the Cake | 30.00% | ~6,453 |
+| Legions | 28.00% | ~6,023 |
+| Side Hustle | 28.00% | ~6,023 |
+| We have the best insurance | 27.00% | ~5,808 |
+| Pesky Jerks | 27.00% | ~5,808 |
+| Stunner | 27.00% | ~5,808 |
+| Summoner | 27.00% | ~5,808 |
+| Right back at ya | 26.00% | ~5,593 |
+| Animated | 25.00% | ~5,378 |
+| Collector | 25.00% | ~5,378 |
+| Skilled | 25.00% | ~5,378 |
+| Ectoplasmic Entity | 24.00% | ~5,163 |
+| Rift Destroyer | 20.00% | ~4,302 |
+| Tobin's Prodigy | 19.00% | ~4,087 |
+| Reckless | 18.00% | ~3,872 |
+| Terrifying | 17.00% | ~3,657 |
+| Diabolical | 16.00% | ~3,442 |
+| Escape Artist | 16.00% | ~3,442 |
+| Seasoned | 16.00% | ~3,442 |
 | Liability | 11.00% | ~2,366 |
 | Rivalry | 10.00% | ~2,151 |
 | Fragile Panes | 9.00% | ~1,936 |
 | Surprise! | 9.00% | ~1,936 |
 | Whoopsie | 9.00% | ~1,936 |
-| Master Collector | 7.00% | ~1,505 |
-| Rift Seeker | 7.00% | ~1,505 |
-| Therapeutic | 7.00% | ~1,505 |
+| Master Collector | 7.00% | ~1,506 |
+| Rift Seeker | 7.00% | ~1,506 |
+| Therapeutic | 7.00% | ~1,506 |
 | Ghost Expert | 3.00% | ~645 |
 | Ultimate Defense | 3.00% | ~645 |
 | Catostrophic Destroyer | 2.00% | ~430 |
@@ -61,7 +61,7 @@ Diff (max vs sum): 60
 | I don't need these | 1.00% | ~215 |
 | Mycophile | 1.00% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,507 (Ranked 88)  
+Progressed: 21,511 (Ranked 88)  
 Completed: 40 (0.19%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 40 (0.19%) (Ranked 134)
 | 2023-05-02 | 21,395 | 40 |
 | 2023-05-03 | 21,454 | 40 |
 | 2023-05-04 | 21,484 | 40 |
-| 2023-05-05 | 21,507 | 40 |
+| 2023-05-05 | 21,511 | 40 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

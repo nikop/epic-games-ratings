@@ -56,7 +56,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23276
+      "UsersEstimate": 23279
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -96,7 +96,7 @@
       "Name": "First but not Last",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -152,7 +152,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -168,7 +168,7 @@
       "Name": "I Found it!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12696
+      "UsersEstimate": 12698
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -216,7 +216,7 @@
       "Name": "Dress Code",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -232,7 +232,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 171395
+      "UsersEstimate": 171416
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -240,7 +240,7 @@
       "Name": "I know the Rules",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 95220
+      "UsersEstimate": 95231
     }
   ],
   "Tags": [
@@ -1502,6 +1502,11 @@
     {
       "Time": "2023-05-05T12:05:45.1533914+00:00",
       "NumProgressed": 211599,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:10:45.1064345+00:00",
+      "NumProgressed": 211625,
       "NumCompleted": 0
     }
   ],
@@ -2844,18 +2849,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T12:05:45.1533911+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:45.1064342+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2900,
+  "EOS_NewPlayers": 2907,
   "EOS_Completed": 0,
-  "EOS_Progressed": 211599,
-  "LastUpdate_Achievements": "2023-05-05T12:05:45.1534174+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:11.0083086+00:00",
+  "EOS_Progressed": 211625,
+  "LastUpdate_Achievements": "2023-05-05T13:10:45.1064647+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:50.8545156+00:00",
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 211599,
+      "Progressed": 211625,
       "Completed": 0
     }
   ],
@@ -2872,7 +2877,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_PopularitySum": 208,
   "Ranking_Popularity": 270,
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 874,
   "Rating": 4.03,
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "ProductSlug": "pinball-fx"

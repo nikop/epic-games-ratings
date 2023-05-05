@@ -1,6 +1,6 @@
 # House Party
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 737)  
+Rating: 4.32 (Ranked 738)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

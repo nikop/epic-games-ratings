@@ -9,27 +9,27 @@ Diff (max vs sum): -87
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 93.00% | ~9,471 |
+| Under a New Sun | 93.00% | ~9,472 |
 | Newcomers | 78.00% | ~7,944 |
-| A Burden of Blood | 73.00% | ~7,434 |
-| Protector's Duty | 70.00% | ~7,129 |
-| Alchemist | 68.00% | ~6,925 |
-| In our Wake | 67.00% | ~6,823 |
+| A Burden of Blood | 73.00% | ~7,435 |
+| Protector's Duty | 70.00% | ~7,130 |
+| Alchemist | 68.00% | ~6,926 |
+| In our Wake | 67.00% | ~6,824 |
 | Leaving all Behind | 64.00% | ~6,518 |
-| Felons | 61.00% | ~6,212 |
+| Felons | 61.00% | ~6,213 |
 | A Sea of Promises | 59.00% | ~6,009 |
-| Tales and Revelations | 56.00% | ~5,703 |
+| Tales and Revelations | 56.00% | ~5,704 |
 | Bloodline | 51.00% | ~5,194 |
-| The Cradle of Centuries | 47.00% | ~4,786 |
+| The Cradle of Centuries | 47.00% | ~4,787 |
 | The Life We Deserve | 45.00% | ~4,583 |
-| Night guard | 43.00% | ~4,379 |
+| Night guard | 43.00% | ~4,380 |
 | Nothing Left | 38.00% | ~3,870 |
-| Healing our Wounds | 36.00% | ~3,666 |
+| Healing our Wounds | 36.00% | ~3,667 |
 | Dying Sun | 32.00% | ~3,259 |
 | Improved crossbow | 26.00% | ~2,648 |
-| King Hugo | 23.00% | ~2,342 |
-| Mercy | 23.00% | ~2,342 |
-| Perfect shot | 22.00% | ~2,240 |
+| King Hugo | 23.00% | ~2,343 |
+| Mercy | 23.00% | ~2,343 |
+| Perfect shot | 22.00% | ~2,241 |
 | Effective instruments | 21.00% | ~2,139 |
 | Perfect throw | 21.00% | ~2,139 |
 | Knights! | 19.00% | ~1,935 |
@@ -45,7 +45,7 @@ Diff (max vs sum): -87
 | Explorer | 1.00% | ~102 |
 | Malignant | 1.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,184 (Ranked 104)  
+Progressed: 10,185 (Ranked 104)  
 Completed: 30 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 30 (0.29%) (Ranked 119)
 | 2023-05-02 | 10,170 | 30 |
 | 2023-05-03 | 10,176 | 30 |
 | 2023-05-04 | 10,181 | 30 |
-| 2023-05-05 | 10,184 | 30 |
+| 2023-05-05 | 10,185 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

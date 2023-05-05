@@ -158,9 +158,9 @@
       "ID": "STB_DEFEAT_WISTERIA_III",
       "SetID": "3pe2bac",
       "Name": "Do you trust me?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 113
+      "UsersEstimate": 131
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -1194,13 +1194,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T12:05:28.3071059+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:25.8392709+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_Completed": 1,
   "EOS_Progressed": 1877,
-  "LastUpdate_Achievements": "2023-05-05T12:05:28.307151+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:43.5841211+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:25.8393222+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:02:08.5374636+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",

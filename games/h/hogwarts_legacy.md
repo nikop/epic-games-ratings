@@ -4,7 +4,7 @@
 Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 18,393  (Ranked 18)  
-Sum: 33,494 (Ranked 34)  
+Sum: 33,518 (Ranked 34)  
 Diff (max vs sum): -16  
 ## Achievements
 | Name | Percentage | Users |
@@ -55,8 +55,8 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,564 (Ranked 38)  
-Completed: 346 (0.13%) (Ranked 144)  
+Progressed: 265,566 (Ranked 38)  
+Completed: 347 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,18 +70,18 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,564 | 346 |
+| 2023-05-05 | 265,566 | 347 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,393 |
-| This game has Great Boss Battles | 8,565 |
+| This game has Great Boss Battles | 8,586 |
 | This game is Extremely Fun | 738 |
 | This game is Great for Beginners | 716 |
 | This game is Relaxing | 704 |
 | This game has Diverse Characters | 697 |
 | This game has Amazing Storytelling | 695 |
-| This game has Amazing Characters | 678 |
+| This game has Amazing Characters | 681 |
 | This game is Highly Recommended | 660 |
 | This game has Quickly Understood Controls | 608 |
 | This game has Beautiful Visuals | 588 |
@@ -131,4 +131,4 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 4.78 | 18,275 | 33,258 |
 | 2023-05-03 | 4.77 | 18,328 | 33,362 |
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
-| 2023-05-05 | 4.77 | 18,393 | 33,494 |
+| 2023-05-05 | 4.77 | 18,393 | 33,518 |

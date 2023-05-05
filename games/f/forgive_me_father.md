@@ -1,6 +1,6 @@
 # Forgive Me Father
 [View Rawdata](../../db/f/forgive_me_father.json)  
-Rating: 4.44 (Ranked 620)  
+Rating: 4.44 (Ranked 621)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,6 +1,6 @@
 # Wonder Boy The Dragons Trap
 [View Rawdata](../../db/w/wonder_boy_the_dragons_trap.json)  
-Rating: 4.44 (Ranked 620)  
+Rating: 4.44 (Ranked 621)  
 Number of Ratings: 3,047  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 59  (Ranked 378)  

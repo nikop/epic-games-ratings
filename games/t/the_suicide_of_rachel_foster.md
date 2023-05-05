@@ -1,6 +1,6 @@
 # The Suicide of Rachel Foster
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 820)  
+Rating: 4.18 (Ranked 821)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,6 +1,6 @@
 # Wildcat Gun Machine
 [View Rawdata](../../db/w/wildcat_gun_machine.json)  
-Rating: 3.87 (Ranked 899)  
+Rating: 3.87 (Ranked 900)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

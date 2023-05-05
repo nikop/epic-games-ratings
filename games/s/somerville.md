@@ -1,6 +1,6 @@
 # Somerville
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.20 (Ranked 801)  
+Rating: 4.20 (Ranked 802)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

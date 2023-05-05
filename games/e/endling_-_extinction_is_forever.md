@@ -18,15 +18,15 @@
 | A Barking Fox Doesn't Bite | 19.00% | ~75 |
 | Peaceful Instinct | 17.00% | ~67 |
 | Maternity | 15.00% | ~59 |
+| Family Reunion | 15.00% | ~59 |
 | Barking in The Rain | 15.00% | ~59 |
-| Family Reunion | 14.00% | ~55 |
 | Never Run Around | 14.00% | ~55 |
 | Beyond Words | 14.00% | ~55 |
 | Three Little Foxes | 11.00% | ~44 |
 | Two Peas in a Pod | 11.00% | ~44 |
 | All For One | 11.00% | ~44 |
 | Extinction is Forever | 11.00% | ~44 |
-| We Are a Family | 9.00% | ~36 |
+| We Are a Family | 10.00% | ~40 |
 | For a Better Tomorrow | 4.00% | ~16 |
 | Mother Love | 4.00% | ~16 |
 | Easter Egg | 3.00% | ~12 |

@@ -271,13 +271,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T12:05:45.8175164+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:45.8497746+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T12:05:45.8175359+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:05.6165591+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:45.8498+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:44.592213+00:00",
   "AchievementSets": [
     {
       "ID": "369d86p",
@@ -293,9 +293,9 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 310,
   "FirstSeenAchievements": "2023-04-25T16:09:32.3445242+00:00",
   "ProductSlug": "spacebase-startopia"
 }

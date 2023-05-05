@@ -8,7 +8,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -16,7 +16,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -64,7 +64,7 @@
       "Name": "Scaling up",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -88,7 +88,7 @@
       "Name": "More than a Tourist",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -580,6 +580,11 @@
     {
       "Time": "2023-05-05T08:06:02.044186+00:00",
       "NumProgressed": 3403,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:11:02.8554358+00:00",
+      "NumProgressed": 3404,
       "NumCompleted": 0
     }
   ],
@@ -1074,24 +1079,24 @@
   ],
   "TotalAchievementsXP": 1200,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T12:06:01.1172762+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:02.855435+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_Completed": 0,
-  "EOS_Progressed": 3403,
-  "LastUpdate_Achievements": "2023-05-05T12:06:01.1173003+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:03.7615793+00:00",
+  "EOS_Progressed": 3404,
+  "LastUpdate_Achievements": "2023-05-05T13:11:02.8554717+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:04:54.1001956+00:00",
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3403,
+      "Progressed": 3404,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2775,
+      "Progressed": 2776,
       "Completed": 112
     }
   ],
@@ -1109,7 +1114,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_PopularitySum": 373,
   "Ranking_Popularity": 434,
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 849,
   "Rating": 4.12,
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "ProductSlug": "call-of-the-wild-the-angler"

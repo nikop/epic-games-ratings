@@ -1,6 +1,6 @@
 # Lawn Mowing Simulator
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 862)  
+Rating: 4.07 (Ranked 863)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 179  (Ranked 265)  
@@ -9,19 +9,19 @@ Diff (max vs sum): 36
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~499,792 |
-| Every story has a beginning | 37.00% | ~225,516 |
-| The first of many | 32.00% | ~195,041 |
-| Positive word of mouth | 18.00% | ~109,710 |
-| Lawn in the U.S.A. | 15.00% | ~91,425 |
-| Blade Runner | 9.00% | ~54,855 |
-| Credible | 7.00% | ~42,665 |
-| Teamwork makes the dream work | 5.00% | ~30,475 |
-| Bigger and better | 4.00% | ~24,380 |
-| Aggressive expansion | 4.00% | ~24,380 |
-| Where there's muck there's brass | 3.00% | ~18,285 |
-| Size isn't everything | 3.00% | ~18,285 |
-| Established | 3.00% | ~18,285 |
+| The dream begins | 82.00% | ~499,807 |
+| Every story has a beginning | 37.00% | ~225,523 |
+| The first of many | 32.00% | ~195,047 |
+| Positive word of mouth | 18.00% | ~109,714 |
+| Lawn in the U.S.A. | 15.00% | ~91,428 |
+| Blade Runner | 9.00% | ~54,857 |
+| Credible | 7.00% | ~42,666 |
+| Teamwork makes the dream work | 5.00% | ~30,476 |
+| Bigger and better | 4.00% | ~24,381 |
+| Aggressive expansion | 4.00% | ~24,381 |
+| Where there's muck there's brass | 3.00% | ~18,286 |
+| Size isn't everything | 3.00% | ~18,286 |
+| Established | 3.00% | ~18,286 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,190 |
 | Close shave | 2.00% | ~12,190 |
 | Every good deed… | 2.00% | ~12,190 |
@@ -64,7 +64,7 @@ Diff (max vs sum): 36
 | Lawn Enforcement Officer | 0.10% | ~610 |
 | Mo mowers, mo problems | 0.10% | ~610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609,502 (Ranked 19)  
+Progressed: 609,521 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 9 (0.00%) (Ranked 191)
 | 2023-05-02 | 608,630 | 9 |
 | 2023-05-03 | 608,996 | 9 |
 | 2023-05-04 | 609,338 | 9 |
-| 2023-05-05 | 609,502 | 9 |
+| 2023-05-05 | 609,521 | 9 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

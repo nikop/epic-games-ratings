@@ -1,6 +1,6 @@
 # ATOM RPG
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 54  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 46  (Ranked 396)  

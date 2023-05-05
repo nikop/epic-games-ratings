@@ -1,7 +1,7 @@
 # Dinosaur Fossil Hunter
 [Store](https://store.epicgames.com/en-US/p/dinosaur-fossil-hunter)  
 [View Rawdata](../../db/d/dinosaur_fossil_hunter.json)  
-Rating: 4.20 (Ranked 801)  
+Rating: 4.20 (Ranked 802)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

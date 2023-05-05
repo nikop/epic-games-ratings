@@ -43,7 +43,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 12342
+      "Count": 12366
     },
     {
       "Text": "This game has Diverse Characters",
@@ -79,7 +79,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12451
+      "Count": 12483
     },
     {
       "Text": "This game has a Creative Community",
@@ -5442,6 +5442,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 352423,
       "NumberOfAwardsMax": 138448
+    },
+    {
+      "Time": "2023-05-05T13:03:51.8274096+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 352479,
+      "NumberOfAwardsMax": 138448
     }
   ],
   "TotalAchievementsXP": 0,
@@ -5450,18 +5456,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T12:03:54.8373978+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:11.8365867+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:08:36.4513251+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:51.8274106+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T11:59:11.8365862+00:00",
+  "LastChanged": "2023-05-05T13:03:51.8274093+00:00",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 138448,
-  "NumberOfAwards": 352423,
+  "NumberOfAwards": 352479,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 8,

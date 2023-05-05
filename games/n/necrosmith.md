@@ -1,6 +1,6 @@
 # Necrosmith
 [View Rawdata](../../db/n/necrosmith.json)  
-Rating: 4.40 (Ranked 663)  
+Rating: 4.40 (Ranked 664)  
 Number of Ratings: 131  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

@@ -1,6 +1,6 @@
 # Diplomacy is Not an Option
 [View Rawdata](../../db/d/diplomacy_is_not_an_option.json)  
-Rating: 4.47 (Ranked 573)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 51  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

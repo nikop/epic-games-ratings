@@ -24,7 +24,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "complete_act_three",
@@ -48,7 +48,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "deal_damage",
@@ -56,7 +56,7 @@
       "Name": "Ouch",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "defeat_enemies",
@@ -64,7 +64,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "defeat_tree_dummy",
@@ -80,7 +80,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "piercing_beam",
@@ -128,7 +128,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "stick_decoy",
@@ -144,7 +144,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "trash_truck",
@@ -201,6 +201,11 @@
       "Time": "2023-05-04T18:05:39.9367174+00:00",
       "NumProgressed": 1855,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-05T13:11:12.7482501+00:00",
+      "NumProgressed": 1856,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -229,18 +234,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-05T12:06:09.5587385+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:12.7482493+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_Completed": 6,
-  "EOS_Progressed": 1855,
-  "LastUpdate_Achievements": "2023-05-05T12:06:09.558751+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:32.9843553+00:00",
+  "EOS_Progressed": 1856,
+  "LastUpdate_Achievements": "2023-05-05T13:11:12.7482812+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:30.1834629+00:00",
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1855,
+      "Progressed": 1856,
       "Completed": 6
     }
   ],
@@ -251,12 +256,12 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 49,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_Progress": 144,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 771,
+  "Ranking_Rating": 772,
   "Rating": 4.26,
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00"
 }

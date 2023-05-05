@@ -14,9 +14,9 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "TROP002",
@@ -62,9 +62,9 @@
       "ID": "TROP007",
       "SetID": "9n0dl35",
       "Name": "Family Reunion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "TROP008",
@@ -405,13 +405,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T12:05:32.2850861+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:30.5573294+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 23,
   "EOS_Completed": 2,
   "EOS_Progressed": 396,
-  "LastUpdate_Achievements": "2023-05-05T12:05:32.2851032+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:03.972138+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:30.5573487+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:42.4935563+00:00",
   "AchievementSets": [
     {
       "ID": "9n0dl35",

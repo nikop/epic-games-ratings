@@ -1,6 +1,6 @@
 # Evoland Legendary Edition
 [View Rawdata](../../db/e/evoland_legendary_edition.json)  
-Rating: 4.49 (Ranked 547)  
+Rating: 4.49 (Ranked 549)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 271  (Ranked 231)  
 Sum: 271 (Ranked 332)  

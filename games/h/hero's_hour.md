@@ -1,6 +1,6 @@
 # Hero's Hour
 [View Rawdata](../../db/h/hero's_hour.json)  
-Rating: 4.39 (Ranked 679)  
+Rating: 4.39 (Ranked 680)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

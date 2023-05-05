@@ -1,6 +1,6 @@
 # Townsmen - A Kingdom Rebuilt
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.18 (Ranked 820)  
+Rating: 4.18 (Ranked 821)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

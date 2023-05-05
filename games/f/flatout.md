@@ -1,6 +1,6 @@
 # Flatout
 [View Rawdata](../../db/f/flatout.json)  
-Rating: 4.21 (Ranked 797)  
+Rating: 4.21 (Ranked 798)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

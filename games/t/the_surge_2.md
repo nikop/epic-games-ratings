@@ -1,6 +1,6 @@
 # The Surge 2
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 780)  
+Rating: 4.24 (Ranked 781)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

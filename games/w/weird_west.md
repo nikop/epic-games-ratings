@@ -1,6 +1,6 @@
 # Weird West
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 23  (Ranked 469)  
@@ -9,21 +9,21 @@ Diff (max vs sum): -2
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,284 |
-| Self-Improvement | 71.00% | ~1,060 |
-| Perky | 66.00% | ~985 |
+| Unforgiven | 86.00% | ~1,285 |
+| Self-Improvement | 71.00% | ~1,061 |
+| Perky | 66.00% | ~986 |
 | Let’s Ride | 60.00% | ~896 |
-| Welcome to the Weird West | 58.00% | ~866 |
-| Dead or Alive | 56.00% | ~836 |
-| Full House | 37.00% | ~552 |
+| Welcome to the Weird West | 58.00% | ~867 |
+| Dead or Alive | 56.00% | ~837 |
+| Full House | 37.00% | ~553 |
 | Off the Trail | 34.00% | ~508 |
 | Justice Served | 29.00% | ~433 |
 | Chain Reaction | 27.00% | ~403 |
-| Rain of Death | 25.00% | ~373 |
-| Scholar | 25.00% | ~373 |
-| Through Their Eyes | 25.00% | ~373 |
-| Dishonored | 24.00% | ~358 |
-| The Great Escape | 23.00% | ~343 |
+| Rain of Death | 25.00% | ~374 |
+| Scholar | 25.00% | ~374 |
+| Through Their Eyes | 25.00% | ~374 |
+| Dishonored | 24.00% | ~359 |
+| The Great Escape | 23.00% | ~344 |
 | That’s All, Folks | 18.00% | ~269 |
 | Fallen Star | 16.00% | ~239 |
 | For Balance | 16.00% | ~239 |
@@ -41,9 +41,9 @@ Diff (max vs sum): -2
 | Loyalty to the Pack | 9.00% | ~134 |
 | Eternity Can Wait | 9.00% | ~134 |
 | Mystery Machine | 9.00% | ~134 |
-| Gold Digger | 8.00% | ~119 |
-| Monster Hunter | 8.00% | ~119 |
-| Knuckle Sandwich | 8.00% | ~119 |
+| Gold Digger | 8.00% | ~120 |
+| Monster Hunter | 8.00% | ~120 |
+| Knuckle Sandwich | 8.00% | ~120 |
 | Do Not Pass Go… | 7.00% | ~105 |
 | Getting the Gang Back Together | 7.00% | ~105 |
 | Who You Gonna Call? | 6.00% | ~90 |
@@ -63,7 +63,7 @@ Diff (max vs sum): -2
 | Winter Has Come | 0.30% | ~4 |
 | Revenant | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,493 (Ranked 149)  
+Progressed: 1,494 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 2 (0.13%) (Ranked 144)
 | 2023-04-30 | 1,487 | 2 |
 | 2023-05-02 | 1,488 | 2 |
 | 2023-05-04 | 1,493 | 2 |
+| 2023-05-05 | 1,494 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

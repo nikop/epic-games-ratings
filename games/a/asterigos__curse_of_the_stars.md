@@ -1,6 +1,6 @@
 # Asterigos: Curse of the Stars
 [View Rawdata](../../db/a/asterigos__curse_of_the_stars.json)  
-Rating: 4.40 (Ranked 663)  
+Rating: 4.40 (Ranked 664)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

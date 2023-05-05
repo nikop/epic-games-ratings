@@ -1,6 +1,6 @@
 # Souldiers
 [View Rawdata](../../db/s/souldiers.json)  
-Rating: 4.54 (Ranked 475)  
+Rating: 4.54 (Ranked 476)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

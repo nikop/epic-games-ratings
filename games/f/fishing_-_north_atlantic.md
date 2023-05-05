@@ -1,6 +1,6 @@
 # Fishing - North Atlantic
 [View Rawdata](../../db/f/fishing_-_north_atlantic.json)  
-Rating: 4.36 (Ranked 701)  
+Rating: 4.36 (Ranked 702)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

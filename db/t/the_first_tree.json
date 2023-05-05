@@ -8,7 +8,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "150stars",
@@ -88,7 +88,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7567
+      "UsersEstimate": 7568
     },
     {
       "ID": "firstItem",
@@ -96,7 +96,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23609
+      "UsersEstimate": 23611
     },
     {
       "ID": "roots",
@@ -1096,6 +1096,11 @@
       "Time": "2023-05-05T11:05:58.0987913+00:00",
       "NumProgressed": 30268,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-05T13:11:10.6455941+00:00",
+      "NumProgressed": 30270,
+      "NumCompleted": 93
     }
   ],
   "RatingHistory": [
@@ -1303,18 +1308,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T12:06:07.8096907+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:10.6455935+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 357,
   "EOS_Completed": 93,
-  "EOS_Progressed": 30268,
-  "LastUpdate_Achievements": "2023-05-05T12:06:07.8097056+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:28.1271555+00:00",
+  "EOS_Progressed": 30270,
+  "LastUpdate_Achievements": "2023-05-05T13:11:10.6456462+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:24.49011+00:00",
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30268,
+      "Progressed": 30270,
       "Completed": 93
     }
   ],
@@ -1330,7 +1335,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 884,
   "Rating": 3.98,
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "ProductSlug": "the-first-tree"

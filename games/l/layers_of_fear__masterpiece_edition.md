@@ -1,7 +1,7 @@
 # Layers of Fear: Masterpiece Edition
 [Store](https://store.epicgames.com/en-US/p/layers-of-fear/home)  
 [View Rawdata](../../db/l/layers_of_fear__masterpiece_edition.json)  
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 142  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

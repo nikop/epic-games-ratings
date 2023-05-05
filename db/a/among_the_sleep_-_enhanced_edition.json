@@ -64,7 +64,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6966
+      "UsersEstimate": 6967
     },
     {
       "ID": "Level00BowlingStrike",
@@ -72,7 +72,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25077
+      "UsersEstimate": 25080
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -80,7 +80,7 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     }
   ],
   "Tags": [],
@@ -1204,6 +1204,11 @@
       "Time": "2023-05-05T12:06:10.0745084+00:00",
       "NumProgressed": 69659,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-05-05T13:11:13.2609669+00:00",
+      "NumProgressed": 69668,
+      "NumCompleted": 325
     }
   ],
   "RatingHistory": [
@@ -1628,18 +1633,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-05T12:06:10.0745079+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:13.2609662+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 863,
   "EOS_Completed": 325,
-  "EOS_Progressed": 69659,
-  "LastUpdate_Achievements": "2023-05-05T12:06:10.0745224+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:40.8954889+00:00",
+  "EOS_Progressed": 69668,
+  "LastUpdate_Achievements": "2023-05-05T13:11:13.2610039+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:39.22771+00:00",
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 69659,
+      "Progressed": 69668,
       "Completed": 325
     }
   ],
@@ -1655,7 +1660,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 752,
   "Rating": 4.3,
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "ProductSlug": "among-the-sleep-enhanced-edition"

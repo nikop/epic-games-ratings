@@ -378,13 +378,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T12:05:37.6347246+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:36.5490423+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1,
   "EOS_Completed": 0,
   "EOS_Progressed": 278,
-  "LastUpdate_Achievements": "2023-05-05T12:05:37.6347504+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:22.2329542+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:36.5490748+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:01:42.1679667+00:00",
   "AchievementSets": [
     {
       "ID": "d9ekhim",
@@ -400,7 +400,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 210,
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00"

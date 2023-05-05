@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 233)  
+Rating: 4.68 (Ranked 234)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,170  (Ranked 60)  
@@ -10,50 +10,50 @@ Diff (max vs sum): 34
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,667 |
-| That's a Grand Army | 8.00% | ~2,371 |
-| That is mine! | 8.00% | ~2,371 |
-| Victorious! | 8.00% | ~2,371 |
-| Brothers in Arms | 6.00% | ~1,778 |
-| That's a Grand Navy | 6.00% | ~1,778 |
-| Seriously?! | 6.00% | ~1,778 |
-| For the Glory | 5.00% | ~1,482 |
-| Cold War | 4.00% | ~1,186 |
-| Defender of the Faith | 3.00% | ~889 |
-| It's all about the money | 3.00% | ~889 |
-| Respected | 3.00% | ~889 |
-| True Catholic | 3.00% | ~889 |
-| Blockader | 2.00% | ~593 |
-| Combined Arms | 2.00% | ~593 |
-| Double the Love | 2.00% | ~593 |
-| Gentle Persuasion | 2.00% | ~593 |
-| It's all about luck | 2.00% | ~593 |
-| Queen of Conquest | 2.00% | ~593 |
-| Royal Authority | 2.00% | ~593 |
-| The Princess is in this Castle | 2.00% | ~593 |
-| Total Control | 2.00% | ~593 |
-| Truly Divine Ruler | 2.00% | ~593 |
-| Agressive Expander | 1.00% | ~296 |
-| Azur semé de lis or | 1.00% | ~296 |
-| Bright Spark | 1.00% | ~296 |
-| Factionalism | 1.00% | ~296 |
-| A Golden Empire | 1.00% | ~296 |
-| My armies are invincible! | 1.00% | ~296 |
+| Until death do us apart | 9.00% | ~2,671 |
+| That's a Grand Army | 8.00% | ~2,375 |
+| That is mine! | 8.00% | ~2,375 |
+| Victorious! | 8.00% | ~2,375 |
+| Brothers in Arms | 6.00% | ~1,781 |
+| That's a Grand Navy | 6.00% | ~1,781 |
+| Seriously?! | 6.00% | ~1,781 |
+| For the Glory | 5.00% | ~1,484 |
+| Cold War | 4.00% | ~1,187 |
+| Defender of the Faith | 3.00% | ~890 |
+| It's all about the money | 3.00% | ~890 |
+| Respected | 3.00% | ~890 |
+| True Catholic | 3.00% | ~890 |
+| Blockader | 2.00% | ~594 |
+| Combined Arms | 2.00% | ~594 |
+| Double the Love | 2.00% | ~594 |
+| Gentle Persuasion | 2.00% | ~594 |
+| It's all about luck | 2.00% | ~594 |
+| Queen of Conquest | 2.00% | ~594 |
+| Royal Authority | 2.00% | ~594 |
+| The Princess is in this Castle | 2.00% | ~594 |
+| Total Control | 2.00% | ~594 |
+| Truly Divine Ruler | 2.00% | ~594 |
+| Agressive Expander | 1.00% | ~297 |
+| Azur semé de lis or | 1.00% | ~297 |
+| Bright Spark | 1.00% | ~297 |
+| Factionalism | 1.00% | ~297 |
+| A Golden Empire | 1.00% | ~297 |
+| My armies are invincible! | 1.00% | ~297 |
 | All That's Thine Shall Be Mine | 0.90% | ~267 |
 | City of Cities | 0.90% | ~267 |
-| Isn't this the way to India? | 0.70% | ~207 |
-| The Five Colonies | 0.70% | ~207 |
+| Isn't this the way to India? | 0.70% | ~208 |
+| The Five Colonies | 0.70% | ~208 |
 | The Emperors new clothes | 0.60% | ~178 |
 | Market Control | 0.60% | ~178 |
-| This navy can take it all | 0.60% | ~178 |
 | Down Under | 0.50% | ~148 |
 | Electable! | 0.50% | ~148 |
+| This navy can take it all | 0.50% | ~148 |
+| Time Bandit | 0.50% | ~148 |
 | Trustworthy | 0.50% | ~148 |
 | All belongs to Mother Russia | 0.40% | ~119 |
 | At every continent | 0.40% | ~119 |
 | Early-Modern Warfare | 0.40% | ~119 |
 | The pen is mightier than the sword | 0.40% | ~119 |
-| Time Bandit | 0.40% | ~119 |
 | Trophy Hunter | 0.40% | ~119 |
 | Absolutely | 0.30% | ~89 |
 | Dude, Where's my Boat? | 0.30% | ~89 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,638 (Ranked 82)  
+Progressed: 29,683 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,638 | 0 |
+| 2023-05-05 | 29,683 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

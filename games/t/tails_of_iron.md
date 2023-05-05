@@ -1,6 +1,6 @@
 # Tails of Iron
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -984,13 +984,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 76,
-  "LastChanged_Achievements": "2023-05-05T12:05:50.0463179+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:50.8214278+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_Completed": 1,
   "EOS_Progressed": 4705,
-  "LastUpdate_Achievements": "2023-05-05T12:05:50.0463892+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:11.0674525+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:50.8215101+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:50.9863379+00:00",
   "AchievementSets": [
     {
       "ID": "8cb3id7",
@@ -1011,7 +1011,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Rating": 4.43,
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "ProductSlug": "good-company"

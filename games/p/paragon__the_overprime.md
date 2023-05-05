@@ -1,6 +1,6 @@
 # Paragon: The Overprime
 [View Rawdata](../../db/p/paragon__the_overprime.json)  
-Rating: 4.24 (Ranked 780)  
+Rating: 4.24 (Ranked 781)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 353  (Ranked 208)  
 Sum: 2,825 (Ranked 154)  

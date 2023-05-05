@@ -1,7 +1,7 @@
 # Surviving the Aftermath: Founder's Edition
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath/home)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 573)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 836  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 99  (Ranked 321)  

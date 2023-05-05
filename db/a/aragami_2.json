@@ -8,7 +8,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18080
+      "UsersEstimate": 18081
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -32,7 +32,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -128,7 +128,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 25693
+      "UsersEstimate": 25694
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -184,7 +184,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 6978
+      "UsersEstimate": 6979
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -200,7 +200,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 11736
+      "UsersEstimate": 11737
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -232,7 +232,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 17446
+      "UsersEstimate": 17447
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -240,7 +240,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10150
+      "UsersEstimate": 10151
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -256,7 +256,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8564
+      "UsersEstimate": 8565
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -272,7 +272,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19032
+      "UsersEstimate": 19033
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -344,7 +344,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 29182
+      "UsersEstimate": 29183
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -352,7 +352,7 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16177
+      "UsersEstimate": 16178
     }
   ],
   "Tags": [],
@@ -1321,6 +1321,11 @@
       "Time": "2023-05-05T10:04:26.4827598+00:00",
       "NumProgressed": 31720,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-05-05T13:10:08.4792827+00:00",
+      "NumProgressed": 31721,
+      "NumCompleted": 147
     }
   ],
   "RatingHistory": [
@@ -1514,18 +1519,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T12:05:12.940019+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:08.4792823+00:00",
   "EOS_NewCompleters": 5,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 517,
   "EOS_Completed": 147,
-  "EOS_Progressed": 31720,
-  "LastUpdate_Achievements": "2023-05-05T12:05:12.9400597+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:58:31.5396066+00:00",
+  "EOS_Progressed": 31721,
+  "LastUpdate_Achievements": "2023-05-05T13:10:08.4793409+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:03.3249952+00:00",
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 31720,
+      "Progressed": 31721,
       "Completed": 147
     }
   ],

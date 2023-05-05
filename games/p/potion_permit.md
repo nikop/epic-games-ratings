@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.79 (Ranked 904)  
+Rating: 3.79 (Ranked 905)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 66  (Ranked 366)  
 Sum: 66 (Ranked 421)  

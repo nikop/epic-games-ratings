@@ -1,6 +1,6 @@
 # Godlike Burger
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.23 (Ranked 790)  
+Rating: 4.23 (Ranked 791)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

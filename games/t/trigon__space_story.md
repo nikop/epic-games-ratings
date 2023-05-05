@@ -1,6 +1,6 @@
 # Trigon: Space Story
 [View Rawdata](../../db/t/trigon__space_story.json)  
-Rating: 4.27 (Ranked 768)  
+Rating: 4.27 (Ranked 769)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

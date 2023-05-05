@@ -1,6 +1,6 @@
 # Lamentum
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.37 (Ranked 695)  
+Rating: 4.37 (Ranked 696)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -402,17 +402,23 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-05T13:04:29.3480638+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-05T12:05:55.7764989+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:57.2370132+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 22,
   "EOS_Completed": 11,
   "EOS_Progressed": 718,
-  "LastUpdate_Achievements": "2023-05-05T12:05:55.7765149+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:43.1307707+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:57.237037+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:04:29.3480643+00:00",
   "AchievementSets": [
     {
       "ID": "7k95e4n",
@@ -422,7 +428,7 @@
     }
   ],
   "EOS_Completed_Percentage": 1.53,
-  "LastChanged": "2023-04-17T21:57:16.8800544+00:00",
+  "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "NumberOfAwardsMax": 0,
@@ -433,8 +439,8 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 563,
-  "Rating": 4.48,
+  "Ranking_Rating": 531,
+  "Rating": 4.5,
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "ProductSlug": "hotel-renovator"
 }

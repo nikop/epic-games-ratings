@@ -1,6 +1,6 @@
 # Train Valley 2
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.15 (Ranked 837)  
+Rating: 4.15 (Ranked 838)  
 Number of Ratings: 87  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 71  (Ranked 359)  

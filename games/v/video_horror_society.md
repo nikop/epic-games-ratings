@@ -1,7 +1,7 @@
 # Video Horror Society
 [Store](https://store.epicgames.com/en-US/p/video-horror-society)  
 [View Rawdata](../../db/v/video_horror_society.json)  
-Rating: 4.27 (Ranked 768)  
+Rating: 4.27 (Ranked 769)  
 Number of Ratings: 559  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 297  (Ranked 224)  

@@ -1,7 +1,7 @@
 # Ancient Enemy
 [Store](https://store.epicgames.com/en-US/p/ancient-enemy)  
 [View Rawdata](../../db/a/ancient_enemy.json)  
-Rating: 3.95 (Ranked 888)  
+Rating: 3.95 (Ranked 889)  
 Number of Ratings: 2,089  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 45  (Ranked 401)  

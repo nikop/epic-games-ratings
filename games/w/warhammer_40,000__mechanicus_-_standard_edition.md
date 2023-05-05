@@ -1,6 +1,6 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 633)  
+Rating: 4.43 (Ranked 634)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 276  (Ranked 226)  
 Sum: 2,089 (Ranked 181)  
@@ -8,25 +8,25 @@ Diff (max vs sum): 45
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,142 |
-| This is only the beginning | 19.00% | ~39,628 |
-| Knowledge is power | 12.00% | ~25,028 |
-| Power Ranger | 9.00% | ~18,771 |
-| Galvanic Rifle | 9.00% | ~18,771 |
-| Taser Goad | 9.00% | ~18,771 |
-| Radium Ready | 9.00% | ~18,771 |
-| Half a cog | 9.00% | ~18,771 |
-| Watch them crumble | 6.00% | ~12,514 |
+| No aid from the Omnissiah | 25.00% | ~52,144 |
+| This is only the beginning | 19.00% | ~39,629 |
+| Knowledge is power | 12.00% | ~25,029 |
+| Power Ranger | 9.00% | ~18,772 |
+| Galvanic Rifle | 9.00% | ~18,772 |
+| Taser Goad | 9.00% | ~18,772 |
+| Radium Ready | 9.00% | ~18,772 |
+| Half a cog | 9.00% | ~18,772 |
+| Watch them crumble | 6.00% | ~12,515 |
 | Competent Cohort | 4.00% | ~8,343 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,343 |
 | One with the Machine | 4.00% | ~8,343 |
 | Legio Cybernetica | 3.00% | ~6,257 |
 | Fleshy Disposal | 3.00% | ~6,257 |
-| Battle Servitor | 2.00% | ~4,171 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,171 |
-| Impatient destruction | 2.00% | ~4,171 |
-| Vivisected Vizier | 2.00% | ~4,171 |
-| Architect Abortion | 2.00% | ~4,171 |
+| Battle Servitor | 2.00% | ~4,172 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,172 |
+| Impatient destruction | 2.00% | ~4,172 |
+| Vivisected Vizier | 2.00% | ~4,172 |
+| Architect Abortion | 2.00% | ~4,172 |
 | Cohortus Maximus | 0.70% | ~1,460 |
 | Mother of Xenarites | 0.40% | ~834 |
 | False God | 0.30% | ~626 |
@@ -43,7 +43,7 @@ Diff (max vs sum): 45
 | Perma-live | 0.10% | ~209 |
 | Purge the Heretek | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,570 (Ranked 47)  
+Progressed: 208,576 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 208,286 | 2 |
 | 2023-05-03 | 208,404 | 2 |
 | 2023-05-04 | 208,520 | 2 |
-| 2023-05-05 | 208,570 | 2 |
+| 2023-05-05 | 208,576 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

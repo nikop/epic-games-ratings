@@ -1,7 +1,7 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.33 (Ranked 731)  
+Rating: 4.33 (Ranked 732)  
 Number of Ratings: 33  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 71  (Ranked 359)  
@@ -10,26 +10,26 @@ Diff (max vs sum): -56
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,461 |
-| Powergamer | 26.00% | ~58,000 |
-| Barely scratched the surface | 25.00% | ~55,769 |
-| Write that down | 24.00% | ~53,538 |
-| Guns, lots of guns | 12.00% | ~26,769 |
-| Collector | 11.00% | ~24,538 |
-| Elementary! | 8.00% | ~17,846 |
-| Pumpkin Jack | 8.00% | ~17,846 |
-| Wake up! | 8.00% | ~17,846 |
-| It's honest work | 7.00% | ~15,615 |
-| Griever | 7.00% | ~15,615 |
-| Me smart | 6.00% | ~13,384 |
+| I will finish what you started | 28.00% | ~62,464 |
+| Powergamer | 26.00% | ~58,002 |
+| Barely scratched the surface | 25.00% | ~55,771 |
+| Write that down | 24.00% | ~53,540 |
+| Guns, lots of guns | 12.00% | ~26,770 |
+| Collector | 11.00% | ~24,539 |
+| Elementary! | 8.00% | ~17,847 |
+| Pumpkin Jack | 8.00% | ~17,847 |
+| Wake up! | 8.00% | ~17,847 |
+| It's honest work | 7.00% | ~15,616 |
+| Griever | 7.00% | ~15,616 |
+| Me smart | 6.00% | ~13,385 |
 | Good listener | 5.00% | ~11,154 |
 | Trash compactor | 5.00% | ~11,154 |
 | Valedictorian | 5.00% | ~11,154 |
 | BOY! | 4.00% | ~8,923 |
 | Ka-ching! | 4.00% | ~8,923 |
-| I like to sniff around | 3.00% | ~6,692 |
-| Mind reader | 3.00% | ~6,692 |
-| So you like to read? | 3.00% | ~6,692 |
+| I like to sniff around | 3.00% | ~6,693 |
+| Mind reader | 3.00% | ~6,693 |
+| So you like to read? | 3.00% | ~6,693 |
 | Gentleman's classic | 2.00% | ~4,462 |
 | Hoarder | 2.00% | ~4,462 |
 | Is that a rift? | 2.00% | ~4,462 |
@@ -50,7 +50,7 @@ Diff (max vs sum): -56
 | Let's try another | 0.80% | ~1,785 |
 | Home run | 0.80% | ~1,785 |
 | It's blue, always blue | 0.70% | ~1,562 |
-| I have the high ground | 0.60% | ~1,338 |
+| I have the high ground | 0.60% | ~1,339 |
 | Who wouldn't love a troll? | 0.50% | ~1,115 |
 | Enjoy these little moments | 0.40% | ~892 |
 | Un-bear-able | 0.40% | ~892 |
@@ -63,7 +63,7 @@ Diff (max vs sum): -56
 | This is the way | 0.20% | ~446 |
 | Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,075 (Ranked 42)  
+Progressed: 223,085 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
 | 2023-05-04 | 222,974 | 5 |
-| 2023-05-05 | 223,075 | 5 |
+| 2023-05-05 | 223,085 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

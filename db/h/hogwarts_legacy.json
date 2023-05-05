@@ -374,7 +374,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8565
+      "Count": 8586
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -386,7 +386,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 678
+      "Count": 681
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1572,6 +1572,11 @@
       "Time": "2023-05-05T12:05:17.353331+00:00",
       "NumProgressed": 265564,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-05-05T13:10:13.4664827+00:00",
+      "NumProgressed": 265566,
+      "NumCompleted": 347
     }
   ],
   "RatingHistory": [
@@ -3386,32 +3391,38 @@
       "Rating": 4.77,
       "NumberOfAwards": 33494,
       "NumberOfAwardsMax": 18393
+    },
+    {
+      "Time": "2023-05-05T13:01:42.7821902+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33518,
+      "NumberOfAwardsMax": 18393
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T12:05:17.3533306+00:00",
-  "EOS_NewCompleters": 12,
-  "EOS_NewPlayers": 1244,
-  "EOS_Completed": 346,
-  "EOS_Progressed": 265564,
-  "LastUpdate_Achievements": "2023-05-05T12:05:17.3533674+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:22.7115261+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:13.4664819+00:00",
+  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 1242,
+  "EOS_Completed": 347,
+  "EOS_Progressed": 265566,
+  "LastUpdate_Achievements": "2023-05-05T13:10:13.4665323+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:01:42.7821907+00:00",
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265564,
-      "Completed": 346
+      "Progressed": 265566,
+      "Completed": 347
     }
   ],
   "EOS_Completed_Percentage": 0.13,
-  "LastChanged": "2023-05-05T07:57:05.8284529+00:00",
+  "LastChanged": "2023-05-05T13:01:42.78219+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18393,
-  "NumberOfAwards": 33494,
+  "NumberOfAwards": 33518,
   "Ranking_EOS_NewCompleters": 15,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_Completed": 144,

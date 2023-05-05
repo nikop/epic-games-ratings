@@ -1,6 +1,6 @@
 # IXION
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.54 (Ranked 475)  
+Rating: 4.54 (Ranked 476)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

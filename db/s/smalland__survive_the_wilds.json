@@ -1073,6 +1073,11 @@
       "Time": "2023-05-05T12:05:12.1465407+00:00",
       "NumProgressed": 18159,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-05T13:10:07.4986782+00:00",
+      "NumProgressed": 18162,
+      "NumCompleted": 18
     }
   ],
   "RatingHistory": [
@@ -1193,18 +1198,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-05T12:05:12.1465401+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:07.4986776+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 660,
   "EOS_Completed": 18,
-  "EOS_Progressed": 18159,
-  "LastUpdate_Achievements": "2023-05-05T12:05:12.1465594+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:33.7768604+00:00",
+  "EOS_Progressed": 18162,
+  "LastUpdate_Achievements": "2023-05-05T13:10:07.4987405+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:01:56.2624116+00:00",
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18159,
+      "Progressed": 18162,
       "Completed": 18
     }
   ],
@@ -1220,7 +1225,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 549,
   "Rating": 4.49,
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "ProductSlug": "smalland"

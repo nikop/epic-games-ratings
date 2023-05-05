@@ -643,13 +643,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-05T12:06:11.2400296+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:14.7873377+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 6,
   "EOS_Completed": 5,
   "EOS_Progressed": 1230,
-  "LastUpdate_Achievements": "2023-05-05T12:06:11.2400512+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:36.8335081+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:11:14.7873695+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:34.8836825+00:00",
   "AchievementSets": [
     {
       "ID": "d4o538a",
@@ -671,7 +671,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_PopularitySum": 421,
   "Ranking_Popularity": 366,
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Rating": 3.79,
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "ProductSlug": "potion-permit"

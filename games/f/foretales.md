@@ -4,7 +4,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 61.00% | ~154 |
-| Gorilla warfare | 56.00% | ~142 |
+| Gorilla warfare | 57.00% | ~144 |
 | Isenburg's fall | 48.00% | ~121 |
 | Pieces of eight! | 41.00% | ~104 |
 | Aboard the Sea Bird | 31.00% | ~78 |
@@ -13,7 +13,7 @@
 | Sneak in, sneak out | 26.00% | ~66 |
 | Is this the end? | 25.00% | ~63 |
 | A gift horse | 24.00% | ~61 |
-| You sssaved me | 23.00% | ~58 |
+| You sssaved me | 24.00% | ~61 |
 | Say hello to my little friends | 21.00% | ~53 |
 | Gotcha | 18.00% | ~46 |
 | Heal thyself | 18.00% | ~46 |

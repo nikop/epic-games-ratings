@@ -1,6 +1,6 @@
 # Despot's Game
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

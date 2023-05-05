@@ -1,7 +1,7 @@
 # Werewolf: The Apocalypse – Earthblood
 [Store](https://store.epicgames.com/en-US/p/werewolf-the-apocalypse-earthblood/home)  
 [View Rawdata](../../db/w/werewolf__the_apocalypse_–_earthblood.json)  
-Rating: 4.14 (Ranked 843)  
+Rating: 4.14 (Ranked 844)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

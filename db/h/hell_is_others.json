@@ -16,7 +16,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "Act3",
@@ -72,7 +72,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "BreakNWindows",
@@ -80,7 +80,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -376,7 +376,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "Patrimony2",
@@ -1612,6 +1612,11 @@
       "Time": "2023-05-05T12:06:10.5675347+00:00",
       "NumProgressed": 247786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T13:11:13.7775663+00:00",
+      "NumProgressed": 247788,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1918,18 +1923,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T12:06:10.5675342+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:13.7775658+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 778,
   "EOS_Completed": 1,
-  "EOS_Progressed": 247786,
-  "LastUpdate_Achievements": "2023-05-05T12:06:10.5675806+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:27.7949116+00:00",
+  "EOS_Progressed": 247788,
+  "LastUpdate_Achievements": "2023-05-05T13:11:13.7776249+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:24.1123204+00:00",
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247786,
+      "Progressed": 247788,
       "Completed": 1
     }
   ],
@@ -1945,7 +1950,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 574,
   "Rating": 4.47,
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00"
 }

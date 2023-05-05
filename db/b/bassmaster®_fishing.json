@@ -97,13 +97,13 @@
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T12:06:11.4205869+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:14.7179068+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T12:06:11.4205898+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:46.4931984+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:11:14.7179106+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:45.3483706+00:00",
   "AchievementSets": [
     {
       "ID": "cb4a24m",
@@ -120,12 +120,12 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 30,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 721,
   "Rating": 4.34,
   "FirstSeenAchievements": "2023-04-25T16:08:52.2907913+00:00"
 }

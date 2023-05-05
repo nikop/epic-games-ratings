@@ -1,6 +1,6 @@
 # Family Man
 [View Rawdata](../../db/f/family_man.json)  
-Rating: 4.16 (Ranked 831)  
+Rating: 4.16 (Ranked 832)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

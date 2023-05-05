@@ -19,7 +19,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 737
+      "Count": 739
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3322,17 +3322,23 @@
       "Rating": 4.74,
       "NumberOfAwards": 6422,
       "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2023-05-05T13:02:12.9333912+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6424,
+      "NumberOfAwardsMax": 768
     }
   ],
   "TotalAchievementsXP": 0,
   "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T12:05:17.1662291+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:13.1377377+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T12:05:17.1662315+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:47.15509+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:13.1377472+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:02:12.9333919+00:00",
   "AchievementSets": [
     {
       "ID": "bf9dj5j",
@@ -3342,14 +3348,14 @@
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T07:57:33.7156496+00:00",
+  "LastChanged": "2023-05-05T13:02:12.933391+00:00",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 768,
-  "NumberOfAwards": 6422,
+  "NumberOfAwards": 6424,
   "NumberOfRatings": 11240,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "Ranking_PopularitySum": 109,

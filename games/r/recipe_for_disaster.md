@@ -1,6 +1,6 @@
 # Recipe for Disaster
 [View Rawdata](../../db/r/recipe_for_disaster.json)  
-Rating: 4.20 (Ranked 801)  
+Rating: 4.20 (Ranked 802)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

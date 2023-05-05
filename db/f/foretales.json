@@ -302,9 +302,9 @@
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "trialByCombat",
@@ -326,9 +326,9 @@
       "ID": "youSssavedMe",
       "SetID": "5bkacmp",
       "Name": "You sssaved me",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     }
   ],
   "Tags": [],
@@ -364,13 +364,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T12:06:12.7871311+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:16.469788+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 253,
-  "LastUpdate_Achievements": "2023-05-05T12:06:12.7871575+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:45.5093359+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:11:16.4698316+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:44.1738427+00:00",
   "AchievementSets": [
     {
       "ID": "5bkacmp",
@@ -386,7 +386,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 215,
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00"

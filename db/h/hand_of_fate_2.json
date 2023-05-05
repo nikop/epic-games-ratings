@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472048
+      "UsersEstimate": 472049
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380261
+      "UsersEstimate": 380262
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24,7 +24,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150793
+      "UsersEstimate": 150794
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -144,7 +144,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150793
+      "UsersEstimate": 150794
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -1427,6 +1427,11 @@
       "Time": "2023-05-05T12:05:23.8163367+00:00",
       "NumProgressed": 655622,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T13:10:20.8950118+00:00",
+      "NumProgressed": 655624,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2190,18 +2195,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T12:05:23.8163361+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:20.8950111+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 385,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655622,
-  "LastUpdate_Achievements": "2023-05-05T12:05:23.8163759+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:39.6580575+00:00",
+  "EOS_Progressed": 655624,
+  "LastUpdate_Achievements": "2023-05-05T13:10:20.8950605+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:02:03.8536804+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655622,
+      "Progressed": 655624,
       "Completed": 164
     }
   ],

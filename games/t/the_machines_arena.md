@@ -1,6 +1,6 @@
 # The Machines Arena
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.68 (Ranked 233)  
+Rating: 4.68 (Ranked 234)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

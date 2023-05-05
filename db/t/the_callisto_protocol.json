@@ -819,13 +819,13 @@
   ],
   "TotalAchievementsXP": 1280,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-05T12:05:34.224846+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:32.5137114+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 28,
   "EOS_Completed": 47,
   "EOS_Progressed": 12534,
-  "LastUpdate_Achievements": "2023-05-05T12:05:34.2248679+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:56.1523941+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:32.5137379+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:02:23.3666521+00:00",
   "AchievementSets": [
     {
       "ID": "4hj6d86",
@@ -853,7 +853,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_PopularitySum": 340,
   "Ranking_Popularity": 396,
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 821,
   "Rating": 4.18,
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "ProductSlug": "the-callisto-protocol"

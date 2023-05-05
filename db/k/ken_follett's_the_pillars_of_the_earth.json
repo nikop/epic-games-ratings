@@ -1457,13 +1457,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T12:05:18.0320878+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:14.2307895+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_Completed": 91,
   "EOS_Progressed": 12184,
-  "LastUpdate_Achievements": "2023-05-05T12:05:18.0321191+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:11.3000335+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:14.2308298+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:04.7310521+00:00",
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
@@ -1485,7 +1485,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_PopularitySum": 353,
   "Ranking_Popularity": 285,
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 500,
   "Rating": 4.52,
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth"

@@ -51,9 +51,9 @@ Rating: 4.75 (Ranked 127)
 | The Great City of Demacia | 8.00% | ~150 |
 | Back to sleep, then... | 8.00% | ~150 |
 | Call it 'redistribution of magic | 8.00% | ~150 |
+| Do you trust me? | 7.00% | ~131 |
 | Truth is a dark mirror | 7.00% | ~131 |
 | You can pet the... horse | 7.00% | ~131 |
-| Do you trust me? | 6.00% | ~113 |
 | The great mage rebellion starts now | 6.00% | ~113 |
 | Spellcrafting | 6.00% | ~113 |
 | Silverwing nest | 1.00% | ~19 |

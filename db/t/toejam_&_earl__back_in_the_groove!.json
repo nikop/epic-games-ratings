@@ -344,7 +344,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "TimelySplash",
@@ -1136,6 +1136,11 @@
       "Time": "2023-05-05T04:06:48.2957639+00:00",
       "NumProgressed": 54190,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-05T13:11:17.2521538+00:00",
+      "NumProgressed": 54192,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -1334,18 +1339,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T12:06:13.4826395+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:17.252153+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_Completed": 4,
-  "EOS_Progressed": 54190,
-  "LastUpdate_Achievements": "2023-05-05T12:06:13.4826814+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:52.4885764+00:00",
+  "EOS_Progressed": 54192,
+  "LastUpdate_Achievements": "2023-05-05T13:11:17.2522+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:52.7054968+00:00",
   "AchievementSets": [
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54190,
+      "Progressed": 54192,
       "Completed": 4
     }
   ],
@@ -1361,7 +1366,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 738,
   "Rating": 4.32,
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00"
 }

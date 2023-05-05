@@ -320,13 +320,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-05T12:05:17.7644772+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:13.8484682+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T12:05:17.7645005+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:59:04.4610793+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:13.848513+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:03:43.0795169+00:00",
   "AchievementSets": [
     {
       "ID": "bbp170p",
@@ -337,7 +337,7 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 379,
   "FirstSeenAchievements": "2023-04-25T20:49:30.2470225+00:00"

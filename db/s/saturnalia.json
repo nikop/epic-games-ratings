@@ -1242,13 +1242,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T12:05:19.6920917+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:10:15.9906401+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 304,
   "EOS_Completed": 10,
   "EOS_Progressed": 63120,
-  "LastUpdate_Achievements": "2023-05-05T12:05:19.6921089+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:57:36.9972014+00:00",
+  "LastUpdate_Achievements": "2023-05-05T13:10:15.9906667+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:02:00.6940129+00:00",
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
@@ -1269,7 +1269,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_PopularitySum": 490,
   "Ranking_Popularity": 490,
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 781,
   "Rating": 4.24,
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "ProductSlug": "saturnalia"

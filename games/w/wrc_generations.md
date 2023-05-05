@@ -1,6 +1,6 @@
 # WRC Generations
 [View Rawdata](../../db/w/wrc_generations.json)  
-Rating: 4.47 (Ranked 573)  
+Rating: 4.47 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

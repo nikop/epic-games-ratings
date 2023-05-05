@@ -40,7 +40,7 @@
       "Name": "Winter is Coming",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "1020",
@@ -96,7 +96,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "1027",
@@ -112,7 +112,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "1029",
@@ -136,7 +136,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "1032",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "1033",
@@ -160,7 +160,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "1035",
@@ -1360,6 +1360,11 @@
       "Time": "2023-05-05T12:06:06.5914629+00:00",
       "NumProgressed": 11055,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T13:11:09.3247152+00:00",
+      "NumProgressed": 11057,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2517,18 +2522,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T12:06:06.5914623+00:00",
+  "LastChanged_Achievements": "2023-05-05T13:11:09.3247146+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 912,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11055,
-  "LastUpdate_Achievements": "2023-05-05T12:06:06.591485+00:00",
-  "LastUpdate_Ratings": "2023-05-05T12:00:26.5392149+00:00",
+  "EOS_Progressed": 11057,
+  "LastUpdate_Achievements": "2023-05-05T13:11:09.3247388+00:00",
+  "LastUpdate_Ratings": "2023-05-05T13:05:22.6763742+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11055,
+      "Progressed": 11057,
       "Completed": 23
     }
   ],
@@ -2545,7 +2550,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_PopularitySum": 248,
   "Ranking_Popularity": 299,
-  "Ranking_Rating": 801,
+  "Ranking_Rating": 802,
   "Rating": 4.2,
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00"
 }

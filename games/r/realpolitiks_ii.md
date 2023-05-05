@@ -1,7 +1,7 @@
 # Realpolitiks II
 [Store](https://store.epicgames.com/en-US/p/realpolitiks-2)  
 [View Rawdata](../../db/r/realpolitiks_ii.json)  
-Rating: 4.14 (Ranked 843)  
+Rating: 4.14 (Ranked 844)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
