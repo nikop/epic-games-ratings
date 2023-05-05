@@ -7,11 +7,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Marshlands | 0.70% | ~103 |
+| Overcoming Difficulty | 0.60% | ~88 |
 | Coral Forest | 0.60% | ~88 |
 | The Scarlet Orchard | 0.60% | ~88 |
 | No Deaths | 0.60% | ~88 |
 | First Real Expedition | 0.50% | ~73 |
-| Overcoming Difficulty | 0.50% | ~73 |
 | Bandit Camp | 0.50% | ~73 |
 | Barren Lands | 0.50% | ~73 |
 | Fertile Meadows | 0.50% | ~73 |
@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.50% | ~73 |
 | Homesick | 0.40% | ~59 |
 | Ancient Battleground | 0.40% | ~59 |
+| Sparkdew Crystals | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
 | Lost Colonies | 0.40% | ~59 |
 | Cursed Lands | 0.40% | ~59 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Against All Odds | 0.30% | ~44 |
-| Sparkdew Crystals | 0.30% | ~44 |
 | Dangerous Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
 | Levitating Monument | 0.30% | ~44 |

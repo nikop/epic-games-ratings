@@ -2210,7 +2210,7 @@
   ],
   "EOS_Progressed": 14657,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2988,9 +2988,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "WinImpossible",
@@ -3036,9 +3036,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearDangerous",
@@ -3300,8 +3300,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-05T15:36:59.1263206+00:00",
-  "LastChanged_Achievements": "2023-05-05T22:06:55.4264025+00:00",
+  "LastChanged_Achievements": "2023-05-05T23:07:54.5408746+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-05T22:00:58.9317078+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:06:55.4264547+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:01:57.7021779+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:07:54.5409557+00:00"
 }

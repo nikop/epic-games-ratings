@@ -489,9 +489,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 259
     },
     {
       "ID": "kill-lieutenants",
@@ -601,8 +601,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-05T22:06:56.3607401+00:00",
+  "LastChanged_Achievements": "2023-05-05T23:07:55.8589195+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-05T22:01:05.8405817+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:06:56.3607544+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:02:07.8218153+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:07:55.8589336+00:00"
 }

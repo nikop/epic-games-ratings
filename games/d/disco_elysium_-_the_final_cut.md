@@ -1,15 +1,15 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.86 (Ranked 28)  
+Rating: 4.86 (Ranked 27)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,039 |
-| Biggest Communism Builder | 24.00% | ~28,319 |
-| The World's Most Laughable Centrist | 20.00% | ~23,599 |
-| Il Coppo Del'Arte! | 18.00% | ~21,239 |
+| Goodest Of The Good Cops | 28.00% | ~33,040 |
+| Biggest Communism Builder | 24.00% | ~28,320 |
+| The World's Most Laughable Centrist | 20.00% | ~23,600 |
+| Il Coppo Del'Arte! | 18.00% | ~21,240 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,880 |
 | Hyperstellar Law Official | 15.00% | ~17,700 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,520 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,997 (Ranked 55)  
+Progressed: 117,999 (Ranked 55)  
 Completed: 24 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-02 | 117,873 | 24 |
 | 2023-05-03 | 117,917 | 24 |
 | 2023-05-04 | 117,947 | 24 |
-| 2023-05-05 | 117,997 | 24 |
+| 2023-05-05 | 117,999 | 24 |
 ## Awards
 Max (Character Customization): 687  (Ranked 156)  
 Sum: 1,043 (Ranked 226)  

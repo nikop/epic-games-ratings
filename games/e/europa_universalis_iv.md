@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,712 |
-| That's a Grand Army | 8.00% | ~2,411 |
-| That is mine! | 8.00% | ~2,411 |
-| Victorious! | 8.00% | ~2,411 |
-| Brothers in Arms | 6.00% | ~1,808 |
-| That's a Grand Navy | 6.00% | ~1,808 |
-| Seriously?! | 6.00% | ~1,808 |
-| For the Glory | 5.00% | ~1,507 |
-| Cold War | 4.00% | ~1,205 |
-| Defender of the Faith | 3.00% | ~904 |
-| It's all about the money | 3.00% | ~904 |
-| Respected | 3.00% | ~904 |
-| True Catholic | 3.00% | ~904 |
+| Until death do us apart | 9.00% | ~2,715 |
+| That's a Grand Army | 8.00% | ~2,413 |
+| That is mine! | 8.00% | ~2,413 |
+| Victorious! | 8.00% | ~2,413 |
+| Brothers in Arms | 6.00% | ~1,810 |
+| That's a Grand Navy | 6.00% | ~1,810 |
+| Seriously?! | 6.00% | ~1,810 |
+| For the Glory | 5.00% | ~1,508 |
+| Cold War | 4.00% | ~1,207 |
+| Defender of the Faith | 3.00% | ~905 |
+| It's all about the money | 3.00% | ~905 |
+| Respected | 3.00% | ~905 |
+| True Catholic | 3.00% | ~905 |
 | Blockader | 2.00% | ~603 |
 | Combined Arms | 2.00% | ~603 |
 | Double the Love | 2.00% | ~603 |
@@ -29,14 +29,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~603 |
 | Total Control | 2.00% | ~603 |
 | Truly Divine Ruler | 2.00% | ~603 |
-| Agressive Expander | 1.00% | ~301 |
-| Azur semé de lis or | 1.00% | ~301 |
-| Bright Spark | 1.00% | ~301 |
-| Factionalism | 1.00% | ~301 |
-| A Golden Empire | 1.00% | ~301 |
-| My armies are invincible! | 1.00% | ~301 |
-| All That's Thine Shall Be Mine | 0.90% | ~271 |
-| City of Cities | 0.90% | ~271 |
+| Agressive Expander | 1.00% | ~302 |
+| Azur semé de lis or | 1.00% | ~302 |
+| Bright Spark | 1.00% | ~302 |
+| Factionalism | 1.00% | ~302 |
+| A Golden Empire | 1.00% | ~302 |
+| My armies are invincible! | 1.00% | ~302 |
+| All That's Thine Shall Be Mine | 0.90% | ~272 |
+| City of Cities | 0.90% | ~272 |
 | Isn't this the way to India? | 0.70% | ~211 |
 | The Five Colonies | 0.70% | ~211 |
 | The Emperors new clothes | 0.60% | ~181 |
@@ -51,18 +51,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.40% | ~121 |
 | The pen is mightier than the sword | 0.40% | ~121 |
 | Trophy Hunter | 0.40% | ~121 |
-| Absolutely | 0.30% | ~90 |
-| Dude, Where's my Boat? | 0.30% | ~90 |
-| In the Name of the Father | 0.30% | ~90 |
-| Live Long and Prosper | 0.30% | ~90 |
-| One Family to Rule them All | 0.30% | ~90 |
-| One Night in Paris | 0.30% | ~90 |
-| Populists in Government | 0.30% | ~90 |
-| Ruina Imperii | 0.30% | ~90 |
-| Tear Down This Wall | 0.30% | ~90 |
-| The Continuation of Diplomacy | 0.30% | ~90 |
-| This is My Faith | 0.30% | ~90 |
-| Voting Streak | 0.30% | ~90 |
+| Absolutely | 0.30% | ~91 |
+| Dude, Where's my Boat? | 0.30% | ~91 |
+| In the Name of the Father | 0.30% | ~91 |
+| Live Long and Prosper | 0.30% | ~91 |
+| One Family to Rule them All | 0.30% | ~91 |
+| One Night in Paris | 0.30% | ~91 |
+| Populists in Government | 0.30% | ~91 |
+| Ruina Imperii | 0.30% | ~91 |
+| Tear Down This Wall | 0.30% | ~91 |
+| The Continuation of Diplomacy | 0.30% | ~91 |
+| This is My Faith | 0.30% | ~91 |
+| Voting Streak | 0.30% | ~91 |
 | A Decent Reserve | 0.20% | ~60 |
 | A Pile of Gold | 0.20% | ~60 |
 | All Your Trade Are Belong to Us | 0.20% | ~60 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,134 (Ranked 82)  
+Progressed: 30,168 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 30,134 | 0 |
+| 2023-05-05 | 30,168 | 0 |
 ## Awards
 Max (Educational): 5,170  (Ranked 60)  
 Sum: 42,780 (Ranked 26)  

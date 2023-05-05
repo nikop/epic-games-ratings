@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 88.00% | ~35 |
-| Home Cook | 63.00% | ~25 |
-| So Clean You Can Eat Off the Floor | 53.00% | ~21 |
-| You're the Expert! | 50.00% | ~20 |
-| French Flair | 40.00% | ~16 |
-| Next Level Cuisine | 30.00% | ~12 |
-| S is for Scrumptious | 28.00% | ~11 |
-| Haute Cuisine | 25.00% | ~10 |
-| Italian Style | 18.00% | ~7 |
-| Well-Stocked Kitchen | 18.00% | ~7 |
+| The Big Day | 88.00% | ~36 |
+| Home Cook | 63.00% | ~26 |
+| So Clean You Can Eat Off the Floor | 54.00% | ~22 |
+| You're the Expert! | 51.00% | ~21 |
+| French Flair | 41.00% | ~17 |
+| Next Level Cuisine | 29.00% | ~12 |
+| S is for Scrumptious | 29.00% | ~12 |
+| Haute Cuisine | 24.00% | ~10 |
+| Italian Style | 17.00% | ~7 |
+| Well-Stocked Kitchen | 17.00% | ~7 |
 | Rolling in Dough | 10.00% | ~4 |
-| Culinary Arts | 8.00% | ~3 |
-| Perfectionist | 8.00% | ~3 |
-| Sous-Chef | 8.00% | ~3 |
+| Culinary Arts | 7.00% | ~3 |
+| Perfectionist | 7.00% | ~3 |
+| Sous-Chef | 7.00% | ~3 |
 | Chef, Yes Chef! | 5.00% | ~2 |
-| Eco Warrior | 3.00% | ~1 |
+| Eco Warrior | 2.00% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
@@ -45,14 +45,14 @@
 | Leaning Tower of Pizza | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 276)  
+Progressed: 41 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-03 | 18 | 0 |
 | 2023-05-04 | 34 | 0 |
-| 2023-05-05 | 40 | 0 |
+| 2023-05-05 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

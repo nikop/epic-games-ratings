@@ -6,39 +6,39 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~605,059 |
-| Escaped Asphodel | 80.00% | ~543,874 |
-| Arms Collector | 71.00% | ~482,688 |
-| Friends in High Places | 68.00% | ~462,293 |
-| Escaped Elysium | 66.00% | ~448,696 |
-| Chthonic Colleagues | 63.00% | ~428,300 |
-| Is There No Escape? | 52.00% | ~353,518 |
-| Death Dealer | 45.00% | ~305,929 |
+| Escaped Tartarus | 89.00% | ~605,061 |
+| Escaped Asphodel | 80.00% | ~543,875 |
+| Arms Collector | 71.00% | ~482,689 |
+| Friends in High Places | 68.00% | ~462,294 |
+| Escaped Elysium | 66.00% | ~448,697 |
+| Chthonic Colleagues | 63.00% | ~428,302 |
+| Is There No Escape? | 52.00% | ~353,519 |
+| Death Dealer | 45.00% | ~305,930 |
 | Skelly Slayer | 42.00% | ~285,534 |
-| Well Stocked | 40.00% | ~271,937 |
-| Back to Work | 39.00% | ~265,138 |
+| Well Stocked | 40.00% | ~271,938 |
+| Back to Work | 39.00% | ~265,139 |
 | Day-or-Night Trader | 37.00% | ~251,542 |
 | Blessed by the Gods | 37.00% | ~251,542 |
-| Urge to Sing | 36.00% | ~244,743 |
+| Urge to Sing | 36.00% | ~244,744 |
 | Blood Bound | 35.00% | ~237,945 |
-| Three-Headed Boy | 32.00% | ~217,549 |
+| Three-Headed Boy | 32.00% | ~217,550 |
 | River Denizens | 28.00% | ~190,356 |
 | Grown Close | 28.00% | ~190,356 |
-| Home Makeover | 27.00% | ~183,557 |
+| Home Makeover | 27.00% | ~183,558 |
 | The Family Secret | 26.00% | ~176,759 |
-| Had to Happen | 25.00% | ~169,960 |
+| Had to Happen | 25.00% | ~169,961 |
 | To Charon's Credit | 23.00% | ~156,364 |
 | Tools of the Architect | 23.00% | ~156,364 |
 | Master of Arms | 23.00% | ~156,364 |
-| Rare Collectible | 22.00% | ~149,565 |
+| Rare Collectible | 22.00% | ~149,566 |
 | Weapon of Fate | 21.00% | ~142,767 |
 | Something From Everyone | 19.00% | ~129,170 |
 | Hold the Onions | 18.00% | ~122,372 |
 | Well Versed | 17.00% | ~115,573 |
-| War-God's Bloodlust | 15.00% | ~101,976 |
+| War-God's Bloodlust | 15.00% | ~101,977 |
 | Musician and Muse | 14.00% | ~95,178 |
-| The Useless Trinket | 13.00% | ~88,379 |
-| Champion of Elysium | 13.00% | ~88,379 |
+| The Useless Trinket | 13.00% | ~88,380 |
+| Champion of Elysium | 13.00% | ~88,380 |
 | Slashed Benefits | 12.00% | ~81,581 |
 | Haste of Hermes | 11.00% | ~74,783 |
 | Bad Call | 10.00% | ~67,984 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~61,186 |
 | Thanks, But No Thanks | 9.00% | ~61,186 |
 | Infernal Arms | 9.00% | ~61,186 |
-| Divided by Death | 8.00% | ~54,387 |
+| Divided by Death | 8.00% | ~54,388 |
 | Harsh Conditions | 7.00% | ~47,589 |
 | One for the Ages | 7.00% | ~47,589 |
 | Complete Set | 6.00% | ~40,791 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,194 |
 | Friends Forever | 4.00% | ~27,194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,842 (Ranked 16)  
+Progressed: 679,844 (Ranked 16)  
 Completed: 6,076 (0.89%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,17 +71,17 @@ Completed: 6,076 (0.89%) (Ranked 80)
 | 2023-05-02 | 679,645 | 6,067 |
 | 2023-05-03 | 679,707 | 6,070 |
 | 2023-05-04 | 679,770 | 6,073 |
-| 2023-05-05 | 679,842 | 6,076 |
+| 2023-05-05 | 679,844 | 6,076 |
 ## Awards
 Max (Character Customization): 3,029  (Ranked 86)  
-Sum: 7,394 (Ranked 97)  
+Sum: 7,395 (Ranked 97)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,029 |
 | This game has Great Boss Battles | 2,149 |
 | This game is Highly Recommended | 251 |
-| This game is Great for Beginners | 234 |
+| This game is Great for Beginners | 235 |
 | This game is Extremely Fun | 233 |
 | This game has Amazing Storytelling | 231 |
 | This game has Amazing Characters | 228 |
@@ -194,4 +194,4 @@ Diff (max vs sum): -11
 | 2023-05-01 | 4.92 | - | 3,022 | 7,383 |
 | 2023-05-03 | 4.92 | - | 3,025 | 7,388 |
 | 2023-05-04 | 4.92 | - | 3,029 | 7,393 |
-| 2023-05-05 | 4.92 | - | 3,029 | 7,394 |
+| 2023-05-05 | 4.92 | - | 3,029 | 7,395 |

@@ -7,7 +7,7 @@
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
+| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.84% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
-| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.72% |
+| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.56% |
@@ -30,12 +30,12 @@
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 30 | [Doodle God](games/d/doodle_god.md) | 4.06% |
-| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
+| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 34 | [The Complex](games/t/the_complex.md) | 3.56% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 3.53% |
-| 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
+| 35 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 3.48% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -85,8 +85,8 @@
 | 83 | [Five Dates](games/f/five_dates.md) | 0.86% |
 | 83 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
-| 86 | [Adios](games/a/adios.md) | 0.80% |
-| 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
+| 86 | [Adios](games/a/adios.md) | 0.81% |
+| 87 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.72% |

@@ -14,17 +14,17 @@
 | Persephone's Guidance | 4.00% | ~110 |
 | Strength of Herakles | 4.00% | ~110 |
 | Reign in Blood | 4.00% | ~110 |
-| Pillars of Eternity | 3.00% | ~82 |
-| Immolator | 3.00% | ~82 |
-| Spartan Sandal | 3.00% | ~82 |
-| War Chest | 3.00% | ~82 |
-| Symbols of Heresy | 3.00% | ~82 |
-| The Sons of Minos | 3.00% | ~82 |
-| Sisters of the Pantheon | 3.00% | ~82 |
-| Siege Unit | 3.00% | ~82 |
-| Eidola | 3.00% | ~82 |
-| Divine Assemblage | 3.00% | ~82 |
-| Ophiolatreia | 3.00% | ~82 |
+| Pillars of Eternity | 3.00% | ~83 |
+| Immolator | 3.00% | ~83 |
+| Spartan Sandal | 3.00% | ~83 |
+| War Chest | 3.00% | ~83 |
+| Symbols of Heresy | 3.00% | ~83 |
+| The Sons of Minos | 3.00% | ~83 |
+| Sisters of the Pantheon | 3.00% | ~83 |
+| Siege Unit | 3.00% | ~83 |
+| Eidola | 3.00% | ~83 |
+| Divine Assemblage | 3.00% | ~83 |
+| Ophiolatreia | 3.00% | ~83 |
 | Comedy and Tragedy | 2.00% | ~55 |
 | Forged in Fire | 2.00% | ~55 |
 | Chthonic Investor | 2.00% | ~55 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,750 (Ranked 131)  
+Progressed: 2,751 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 2,721 | 0 |
 | 2023-05-03 | 2,727 | 0 |
 | 2023-05-04 | 2,739 | 0 |
-| 2023-05-05 | 2,750 | 0 |
+| 2023-05-05 | 2,751 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

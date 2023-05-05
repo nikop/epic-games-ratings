@@ -5,26 +5,26 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,645 |
-| Shine On | 70.00% | ~110,735 |
-| On the Job | 69.00% | ~109,153 |
-| Get Stuck In | 68.00% | ~107,571 |
-| Room for Expansion | 68.00% | ~107,571 |
-| Sales Pitch | 65.00% | ~102,825 |
-| Chill Out | 65.00% | ~102,825 |
+| Bootstrapping | 75.00% | ~118,646 |
+| Shine On | 70.00% | ~110,736 |
+| On the Job | 69.00% | ~109,154 |
+| Get Stuck In | 68.00% | ~107,572 |
+| Room for Expansion | 68.00% | ~107,572 |
+| Sales Pitch | 65.00% | ~102,826 |
+| Chill Out | 65.00% | ~102,826 |
 | Tinker | 61.00% | ~96,498 |
 | Grand Designs | 60.00% | ~94,916 |
 | Hot Stuff | 59.00% | ~93,334 |
-| MOAR RGB | 54.00% | ~85,424 |
+| MOAR RGB | 54.00% | ~85,425 |
 | Dream Theme | 46.00% | ~72,769 |
 | The Customer is King | 45.00% | ~71,187 |
 | Working Hard | 44.00% | ~69,605 |
 | On the Bench | 42.00% | ~66,441 |
 | The More the Merrier | 42.00% | ~66,441 |
-| Mix and Match | 38.00% | ~60,113 |
-| Recycler | 38.00% | ~60,113 |
-| Foot in the Door | 37.00% | ~58,531 |
-| Very Imported PC | 36.00% | ~56,949 |
+| Mix and Match | 38.00% | ~60,114 |
+| Recycler | 38.00% | ~60,114 |
+| Foot in the Door | 37.00% | ~58,532 |
+| Very Imported PC | 36.00% | ~56,950 |
 | Full Throttle | 34.00% | ~53,786 |
 | Pimp My Rig | 32.00% | ~50,622 |
 | Repair Master | 32.00% | ~50,622 |
@@ -32,14 +32,14 @@ Rating: 4.61 (Ranked 352)
 | Broken to Smokin' | 26.00% | ~41,130 |
 | Workaholic | 26.00% | ~41,130 |
 | Thanks Jeff | 25.00% | ~39,548 |
-| Cinematic | 24.00% | ~37,966 |
-| Bench Warmer | 24.00% | ~37,966 |
-| Gift of the Gab | 24.00% | ~37,966 |
-| Salvage Squad | 24.00% | ~37,966 |
-| On the Ladder | 23.00% | ~36,384 |
-| Stick With It | 23.00% | ~36,384 |
-| Variations on a Theme | 22.00% | ~34,802 |
-| Cowboy | 22.00% | ~34,802 |
+| Cinematic | 24.00% | ~37,967 |
+| Bench Warmer | 24.00% | ~37,967 |
+| Gift of the Gab | 24.00% | ~37,967 |
+| Salvage Squad | 24.00% | ~37,967 |
+| On the Ladder | 23.00% | ~36,385 |
+| Stick With It | 23.00% | ~36,385 |
+| Variations on a Theme | 22.00% | ~34,803 |
+| Cowboy | 22.00% | ~34,803 |
 | Slap Happy | 21.00% | ~33,221 |
 | Supercool | 19.00% | ~30,057 |
 | Stabiliser | 18.00% | ~28,475 |
@@ -49,9 +49,9 @@ Rating: 4.61 (Ranked 352)
 | Showpiece | 13.00% | ~20,565 |
 | Paste Not, Want Not | 13.00% | ~20,565 |
 | Bench Press | 9.00% | ~14,237 |
-| Matching Set | 8.00% | ~12,655 |
-| Tech Vet | 8.00% | ~12,655 |
-| Salesperson of the Month | 8.00% | ~12,655 |
+| Matching Set | 8.00% | ~12,656 |
+| Tech Vet | 8.00% | ~12,656 |
+| Salesperson of the Month | 8.00% | ~12,656 |
 | Making It Mine | 7.00% | ~11,074 |
 | Ship It | 7.00% | ~11,074 |
 | Elite Technician | 6.00% | ~9,492 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,193 (Ranked 51)  
+Progressed: 158,194 (Ranked 51)  
 Completed: 102 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,10 +80,10 @@ Completed: 102 (0.06%) (Ranked 161)
 | 2023-05-02 | 158,151 | 102 |
 | 2023-05-03 | 158,160 | 102 |
 | 2023-05-04 | 158,178 | 102 |
-| 2023-05-05 | 158,193 | 102 |
+| 2023-05-05 | 158,194 | 102 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 164)  
-Sum: 4,516 (Ranked 127)  
+Sum: 4,517 (Ranked 127)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -94,7 +94,7 @@ Diff (max vs sum): 37
 | This game has Quickly Understood Controls | 534 |
 | This game is Highly Recommended | 509 |
 | This game has Amazing Storytelling | 470 |
-| This game has a Creative Community | 381 |
+| This game has a Creative Community | 382 |
 | This game has Amazing Characters | 338 |
 | This game has Obsessive Gameplay | 171 |
 | This game has Easy Combat | 96 |
@@ -147,4 +147,4 @@ Diff (max vs sum): 37
 | 2023-05-01 | 4.61 | 591 | 4,498 |
 | 2023-05-02 | 4.61 | 592 | 4,506 |
 | 2023-05-03 | 4.61 | 592 | 4,513 |
-| 2023-05-05 | 4.61 | 595 | 4,516 |
+| 2023-05-05 | 4.61 | 595 | 4,517 |

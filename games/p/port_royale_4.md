@@ -8,19 +8,19 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~410 |
 | My little farm | 65.00% | ~333 |
-| Every beginning is difficult | 62.00% | ~317 |
+| Every beginning is difficult | 62.00% | ~318 |
 | 3, 2, 1, mine | 55.00% | ~282 |
 | Gofer | 55.00% | ~282 |
-| Seafarer | 54.00% | ~276 |
-| O Captain! My Captain! | 53.00% | ~271 |
+| Seafarer | 54.00% | ~277 |
+| O Captain! My Captain! | 53.00% | ~272 |
 | Greed for gold | 42.00% | ~215 |
 | Intangible | 41.00% | ~210 |
 | I'm out of here for a while | 39.00% | ~200 |
 | In a mint condition | 38.00% | ~195 |
-| Licence to Kill | 35.00% | ~179 |
-| Pirates! | 35.00% | ~179 |
-| Megalomania | 29.00% | ~148 |
-| Collectionitis | 28.00% | ~143 |
+| Licence to Kill | 35.00% | ~180 |
+| Pirates! | 35.00% | ~180 |
+| Collectionitis | 28.00% | ~144 |
+| Megalomania | 28.00% | ~144 |
 | Christening | 26.00% | ~133 |
 | Groundskeeper | 26.00% | ~133 |
 | Wholesale | 23.00% | ~118 |
@@ -28,7 +28,7 @@ Number of Ratings: 53  (23.09.2022)
 | My precious! | 19.00% | ~97 |
 | Pearly gates | 17.00% | ~87 |
 | Conquistador | 14.00% | ~72 |
-| Panic buying | 12.00% | ~61 |
+| Panic buying | 12.00% | ~62 |
 | Just a scratch | 10.00% | ~51 |
 | Your vessel, my vessel | 10.00% | ~51 |
 | All mine! | 9.00% | ~46 |
@@ -38,9 +38,9 @@ Number of Ratings: 53  (23.09.2022)
 | Conglomerate | 7.00% | ~36 |
 | The Grande Bouffe | 6.00% | ~31 |
 | Buccaneer | 5.00% | ~26 |
-| Flying Dutchman | 4.00% | ~20 |
-| A true pirate! | 4.00% | ~20 |
-| Overpopulation | 4.00% | ~20 |
+| Flying Dutchman | 4.00% | ~21 |
+| A true pirate! | 4.00% | ~21 |
+| Overpopulation | 4.00% | ~21 |
 | Premier Maître | 3.00% | ~15 |
 | Supreme conqueror | 3.00% | ~15 |
 | Strategist | 3.00% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.80% | ~4 |
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 512 (Ranked 186)  
+Progressed: 513 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 509 | 0 |
 | 2023-05-02 | 510 | 0 |
 | 2023-05-03 | 511 | 0 |
-| 2023-05-05 | 512 | 0 |
+| 2023-05-05 | 513 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

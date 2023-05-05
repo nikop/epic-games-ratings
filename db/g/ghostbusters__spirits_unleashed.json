@@ -876,9 +876,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21528,
+  "EOS_Progressed": 21529,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1876,6 +1876,11 @@
       "Time": "2023-05-05T22:06:38.4726393+00:00",
       "NumProgressed": 21528,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-05T23:07:33.0450503+00:00",
+      "NumProgressed": 21529,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -1933,9 +1938,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 11195
+      "UsersEstimate": 11410
     },
     {
       "ID": "Collector",
@@ -1967,7 +1972,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "Discovery",
@@ -1999,7 +2004,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 13993
+      "UsersEstimate": 13994
     },
     {
       "ID": "Escape_Artist",
@@ -2007,7 +2012,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "Fragile_Panes",
@@ -2023,7 +2028,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 11840
+      "UsersEstimate": 11841
     },
     {
       "ID": "GB_In_Training",
@@ -2047,7 +2052,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6458
+      "UsersEstimate": 6459
     },
     {
       "ID": "Legions",
@@ -2151,7 +2156,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "Side_Hustle",
@@ -2191,7 +2196,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18729
+      "UsersEstimate": 18730
     },
     {
       "ID": "Summoner",
@@ -2247,7 +2252,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Tobins_Prodigy",
@@ -2255,7 +2260,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "Ultimate_Defense",
@@ -2279,7 +2284,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "Whoopsie",
@@ -2294,7 +2299,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21528,
+      "Progressed": 21529,
       "Completed": 40
     }
   ],
@@ -2302,8 +2307,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-05T18:00:44.1786598+00:00",
-  "LastChanged_Achievements": "2023-05-05T22:06:38.472639+00:00",
+  "LastChanged_Achievements": "2023-05-05T23:07:33.0450494+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-05T22:00:03.5938857+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:06:38.4726922+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:00:36.523495+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:07:33.0451045+00:00"
 }

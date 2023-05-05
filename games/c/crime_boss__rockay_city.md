@@ -5,20 +5,20 @@ Rating: 3.93 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~42,953 |
-| First One’s Free | 64.00% | ~37,658 |
-| Neophyte Ninja | 50.00% | ~29,420 |
-| Too Old for This | 47.00% | ~27,655 |
-| Fancy Pants | 35.00% | ~20,594 |
-| Case Closed | 34.00% | ~20,006 |
-| King of the Hill | 33.00% | ~19,417 |
+| Downed but Not Outed | 73.00% | ~42,955 |
+| First One’s Free | 64.00% | ~37,660 |
+| Neophyte Ninja | 50.00% | ~29,422 |
+| Too Old for This | 47.00% | ~27,656 |
+| Fancy Pants | 35.00% | ~20,595 |
+| Case Closed | 34.00% | ~20,007 |
+| King of the Hill | 33.00% | ~19,418 |
 | Underworld Initiate | 29.00% | ~17,064 |
-| Roid Ranger | 21.00% | ~12,356 |
-| True Player | 18.00% | ~10,591 |
-| Off the Rocks | 18.00% | ~10,591 |
+| Roid Ranger | 21.00% | ~12,357 |
+| True Player | 18.00% | ~10,592 |
+| Off the Rocks | 18.00% | ~10,592 |
 | Raider’s Ruin | 15.00% | ~8,826 |
 | Dragonslayer | 15.00% | ~8,826 |
-| Hidden Sonata | 13.00% | ~7,649 |
+| Hidden Sonata | 13.00% | ~7,650 |
 | Classy Joint | 10.00% | ~5,884 |
 | Rockay Rex | 10.00% | ~5,884 |
 | Track Star | 9.00% | ~5,296 |
@@ -26,7 +26,7 @@ Rating: 3.93 (Ranked 892)
 | Headhunter | 8.00% | ~4,707 |
 | Ding Dong | 8.00% | ~4,707 |
 | I Like Trains | 7.00% | ~4,119 |
-| Foo Finder | 6.00% | ~3,530 |
+| Foo Finder | 6.00% | ~3,531 |
 | Savvy Seeker | 5.00% | ~2,942 |
 | Legend Looter | 4.00% | ~2,354 |
 | Imports and Exports | 4.00% | ~2,354 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 892)
 | Geek Out | 0.50% | ~294 |
 | Full House | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,840 (Ranked 67)  
+Progressed: 58,843 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 26 (0.04%) (Ranked 167)
 | 2023-05-02 | 58,146 | 25 |
 | 2023-05-03 | 58,428 | 25 |
 | 2023-05-04 | 58,631 | 26 |
-| 2023-05-05 | 58,840 | 26 |
+| 2023-05-05 | 58,843 | 26 |
 ## Awards
 Max (Highly Recommended): 235  (Ranked 241)  
 Sum: 1,093 (Ranked 223)  

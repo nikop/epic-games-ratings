@@ -530,9 +530,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457302,
+  "EOS_Progressed": 457303,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-05-05T22:06:43.5136179+00:00",
       "NumProgressed": 457302,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T23:07:39.4699335+00:00",
+      "NumProgressed": 457303,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -1662,7 +1667,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105179
+      "UsersEstimate": 105180
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -1670,7 +1675,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100606
+      "UsersEstimate": 100607
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -1734,7 +1739,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301819
+      "UsersEstimate": 301820
     },
     {
       "ID": "achievement_story_landa",
@@ -1822,7 +1827,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91460
+      "UsersEstimate": 91461
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -2158,28 +2163,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100606
+      "UsersEstimate": 100607
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1236,
-      "Completed": 1236
+      "Progressed": 1237,
+      "Completed": 1237
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457302,
+      "Progressed": 457303,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-05T22:06:43.5136176+00:00",
+  "LastChanged_Achievements": "2023-05-05T23:07:39.4699326+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-05T22:00:21.84873+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:06:43.5136889+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:01:03.060132+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:07:39.4700556+00:00"
 }

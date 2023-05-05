@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,524 |
-| The Three | 64.00% | ~332,742 |
-| The Banquet | 40.00% | ~207,964 |
-| Devara's Light | 30.00% | ~155,973 |
+| Find Sanctuary | 83.00% | ~431,527 |
+| The Three | 64.00% | ~332,744 |
+| The Banquet | 40.00% | ~207,965 |
+| Devara's Light | 30.00% | ~155,974 |
 | The Iron Ones | 18.00% | ~93,584 |
-| The Village | 16.00% | ~83,185 |
-| The Forest | 14.00% | ~72,787 |
-| Branded | 13.00% | ~67,588 |
-| The Imposter | 13.00% | ~67,588 |
-| The Keep | 13.00% | ~67,588 |
+| The Village | 16.00% | ~83,186 |
+| The Forest | 14.00% | ~72,788 |
+| Branded | 13.00% | ~67,589 |
+| The Imposter | 13.00% | ~67,589 |
+| The Keep | 13.00% | ~67,589 |
 | The Castle | 11.00% | ~57,190 |
 | The Dome | 9.00% | ~46,792 |
 | The Red Hall | 9.00% | ~46,792 |
@@ -27,9 +27,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,195 |
 | The Mire | 6.00% | ~31,195 |
 | The Ruins | 6.00% | ~31,195 |
-| The Alkymancery | 5.00% | ~25,995 |
-| The Lake | 5.00% | ~25,995 |
-| The Pitchwoods | 5.00% | ~25,995 |
+| The Alkymancery | 5.00% | ~25,996 |
+| The Lake | 5.00% | ~25,996 |
+| The Pitchwoods | 5.00% | ~25,996 |
 | Honed | 4.00% | ~20,796 |
 | The House of Splendor | 4.00% | ~20,796 |
 | The Crypt | 4.00% | ~20,796 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,398 |
 | Fading Fast | 1.00% | ~5,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,909 (Ranked 23)  
+Progressed: 519,912 (Ranked 23)  
 Completed: 1,397 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1,397 (0.27%) (Ranked 123)
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
 | 2023-05-04 | 519,799 | 1,396 |
-| 2023-05-05 | 519,909 | 1,397 |
+| 2023-05-05 | 519,912 | 1,397 |
 ## Awards
 Max (Challenging Combat): 267  (Ranked 232)  
 Sum: 1,872 (Ranked 190)  

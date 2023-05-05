@@ -1,7 +1,7 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.86 (Ranked 27)  
 Number of Ratings: 96  (23.09.2022)  
 ## Awards
 Max (Character Customization): 21  (Ranked 478)  
@@ -52,3 +52,4 @@ Diff (max vs sum): 0
 | 2022-10-23 | 4.87 | - | - | - |
 | 2022-11-12 | 4.88 | - | - | - |
 | 2023-01-25 | 4.87 | - | - | - |
+| 2023-05-05 | 4.86 | - | 21 | 21 |

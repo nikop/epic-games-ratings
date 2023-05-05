@@ -6,15 +6,15 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,119 |
+| Tattletale | 42.00% | ~5,120 |
 | Man of politics | 36.00% | ~4,388 |
 | Friends of sorts | 35.00% | ~4,266 |
 | Yet another secret | 35.00% | ~4,266 |
-| Let there be darkness | 34.00% | ~4,144 |
+| Let there be darkness | 34.00% | ~4,145 |
 | End of Book One | 31.00% | ~3,779 |
-| Wannabe knight | 25.00% | ~3,047 |
-| Garden of Eden | 25.00% | ~3,047 |
-| Full house | 25.00% | ~3,047 |
+| Wannabe knight | 25.00% | ~3,048 |
+| Garden of Eden | 25.00% | ~3,048 |
+| Full house | 25.00% | ~3,048 |
 | Help an old friend | 22.00% | ~2,682 |
 | Two of us | 21.00% | ~2,560 |
 | Negotiation skills | 19.00% | ~2,316 |
@@ -22,8 +22,8 @@ Number of Ratings: 368  (23.09.2022)
 | End of Book Two | 18.00% | ~2,194 |
 | Everything's in order | 17.00% | ~2,072 |
 | Jack was here! | 15.00% | ~1,828 |
-| Twist of Fate | 14.00% | ~1,706 |
-| Exterminator | 14.00% | ~1,706 |
+| Twist of Fate | 14.00% | ~1,707 |
+| Exterminator | 14.00% | ~1,707 |
 | Whodunnit | 13.00% | ~1,585 |
 | Good midwife | 11.00% | ~1,341 |
 | Friar Tuck | 11.00% | ~1,341 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~975 |
 | Silentium est aureum | 7.00% | ~853 |
 | Rebel without a cause | 6.00% | ~731 |
-| Staring contest champion | 5.00% | ~609 |
-| Lone wolf | 5.00% | ~609 |
-| Vox Populi | 5.00% | ~609 |
+| Staring contest champion | 5.00% | ~610 |
+| Lone wolf | 5.00% | ~610 |
+| Vox Populi | 5.00% | ~610 |
 | Revenge | 4.00% | ~488 |
 | Self-defense | 4.00% | ~488 |
 | Countess Aliena | 4.00% | ~488 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~366 |
 | Boy of mystery | 2.00% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,189 (Ranked 101)  
+Progressed: 12,190 (Ranked 101)  
 Completed: 91 (0.75%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 91 (0.75%) (Ranked 88)
 | 2023-05-02 | 12,153 | 91 |
 | 2023-05-03 | 12,164 | 91 |
 | 2023-05-04 | 12,177 | 91 |
-| 2023-05-05 | 12,189 | 91 |
+| 2023-05-05 | 12,190 | 91 |
 ## Awards
 Max (Easy Puzzles): 147  (Ranked 285)  
 Sum: 186 (Ranked 353)  

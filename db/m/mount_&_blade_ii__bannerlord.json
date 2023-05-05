@@ -3805,9 +3805,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 48900,
+  "EOS_Progressed": 48901,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4965,6 +4965,11 @@
       "Time": "2023-05-05T22:06:50.112326+00:00",
       "NumProgressed": 48900,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T23:07:47.9382882+00:00",
+      "NumProgressed": 48901,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5024,7 +5029,7 @@
       "Name": "Catch",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Champion",
@@ -5270,9 +5275,9 @@
       "ID": "Ride it like you stole it",
       "SetID": "den0lp1",
       "Name": "Ride it like you stole it",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 147
     },
     {
       "ID": "Roadkill",
@@ -5383,15 +5388,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 48900,
+      "Progressed": 48901,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-05T19:01:00.0023624+00:00",
-  "LastChanged_Achievements": "2023-05-05T22:06:50.1123255+00:00",
+  "LastChanged_Achievements": "2023-05-05T23:07:47.9382871+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-05T22:00:44.9375324+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:06:50.112375+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:01:37.9118723+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:07:47.9383411+00:00"
 }

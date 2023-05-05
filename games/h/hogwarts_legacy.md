@@ -5,13 +5,13 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 5.00% | ~13,282 |
-| The One Who Mastered Memories | 5.00% | ~13,282 |
-| The Hallowed Hero | 5.00% | ~13,282 |
-| The Hero of Hogwarts | 5.00% | ~13,282 |
-| The Defender of Dragons | 5.00% | ~13,282 |
-| Coasting Along | 5.00% | ~13,282 |
-| Rising From the Ashes | 5.00% | ~13,282 |
+| Grappling with a Graphorn | 5.00% | ~13,283 |
+| The One Who Mastered Memories | 5.00% | ~13,283 |
+| The Hallowed Hero | 5.00% | ~13,283 |
+| The Hero of Hogwarts | 5.00% | ~13,283 |
+| The Defender of Dragons | 5.00% | ~13,283 |
+| Coasting Along | 5.00% | ~13,283 |
+| Rising From the Ashes | 5.00% | ~13,283 |
 | The Sort Who Makes an Entrance | 4.00% | ~10,626 |
 | The Avenging Gazelle | 4.00% | ~10,626 |
 | Beast Friends | 4.00% | ~10,626 |
@@ -26,9 +26,9 @@ Rating: 4.77 (Ranked 103)
 | First Class Student | 4.00% | ~10,626 |
 | Troll with the Punches | 4.00% | ~10,626 |
 | That's a Keeper | 4.00% | ~10,626 |
-| The Seeker of Knowledge | 3.00% | ~7,969 |
-| The Root of the Problem | 3.00% | ~7,969 |
-| Third Time's a Charm | 3.00% | ~7,969 |
+| The Seeker of Knowledge | 3.00% | ~7,970 |
+| The Root of the Problem | 3.00% | ~7,970 |
+| Third Time's a Charm | 3.00% | ~7,970 |
 | The Toast of the Town | 2.00% | ~5,313 |
 | Going Through the Potions | 2.00% | ~5,313 |
 | Room with a View | 2.00% | ~5,313 |
@@ -37,11 +37,11 @@ Rating: 4.77 (Ranked 103)
 | The Gryffindor in the Graveyard | 2.00% | ~5,313 |
 | The Ends Petrify the Means | 2.00% | ~5,313 |
 | Raising Expectations | 2.00% | ~5,313 |
-| The Good Samaritan | 1.00% | ~2,656 |
-| Put Down Roots | 1.00% | ~2,656 |
-| The Auror's Apprentice | 1.00% | ~2,656 |
-| Rise to the Challenges | 1.00% | ~2,656 |
-| The Wise Owl | 1.00% | ~2,656 |
+| The Good Samaritan | 1.00% | ~2,657 |
+| Put Down Roots | 1.00% | ~2,657 |
+| The Auror's Apprentice | 1.00% | ~2,657 |
+| Rise to the Challenges | 1.00% | ~2,657 |
+| The Wise Owl | 1.00% | ~2,657 |
 | Finishing Touches | 0.90% | ~2,391 |
 | Demiguise Dread | 0.70% | ~1,860 |
 | A Forte for Achievement | 0.70% | ~1,860 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,063 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,646 (Ranked 38)  
+Progressed: 265,656 (Ranked 38)  
 Completed: 347 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 347 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,646 | 347 |
+| 2023-05-05 | 265,656 | 347 |
 ## Awards
 Max (Character Customization): 18,393  (Ranked 18)  
 Sum: 33,525 (Ranked 34)  

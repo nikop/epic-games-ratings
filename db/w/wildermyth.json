@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1130,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-05-05T22:06:26.2352148+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T23:07:16.7445253+00:00",
+      "NumProgressed": 1130,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -238,7 +243,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -382,15 +387,15 @@
       "Name": "This Too Shall Pass",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_maimedHero",
@@ -492,9 +497,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 215
     },
     {
       "ID": "completedStory_vultureLord",
@@ -669,15 +674,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1130,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-05T22:06:26.2352143+00:00",
+  "LastChanged_Achievements": "2023-05-05T23:07:16.7445243+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-05T22:01:29.5140728+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:06:26.2352637+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:02:42.0452065+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:07:16.7445817+00:00"
 }

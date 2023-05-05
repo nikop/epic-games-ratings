@@ -4846,18 +4846,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1327063,
       "NumberOfAwardsMax": 294973
+    },
+    {
+      "Time": "2023-05-05T23:00:26.2994132+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1327426,
+      "NumberOfAwardsMax": 295068
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1327063,
-  "NumberOfAwardsMax": 294973,
+  "NumberOfAwards": 1327426,
+  "NumberOfAwardsMax": 295068,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 294973
+      "Count": 295068
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4869,19 +4875,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 126916
+      "Count": 126974
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 115547
+      "Count": 115596
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 110529
+      "Count": 110589
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4911,13 +4917,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 108015
+      "Count": 108080
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 105874
+      "Count": 105910
     }
   ],
   "EOS_Progressed": 0,
@@ -4931,8 +4937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-05-05T21:59:56.2053926+00:00",
+  "LastChanged": "2023-05-05T23:00:26.2994131+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:58.7999042+00:00",
-  "LastUpdate_Ratings": "2023-05-05T21:59:56.2053935+00:00",
-  "LastUpdate_Achievements": "2023-05-05T22:01:50.2014617+00:00"
+  "LastUpdate_Ratings": "2023-05-05T23:00:26.2994138+00:00",
+  "LastUpdate_Achievements": "2023-05-05T23:03:14.2035342+00:00"
 }
