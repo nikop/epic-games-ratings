@@ -9,7 +9,7 @@ Diff (max vs sum): 38
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 40.00% | ~22,110 |
+| It's a steal! | 40.00% | ~22,111 |
 | Final touch | 39.00% | ~21,558 |
 | Prop-M Rover | 35.00% | ~19,347 |
 | Changing the Planet | 30.00% | ~16,583 |
@@ -40,7 +40,7 @@ Diff (max vs sum): 38
 | Team Effort | 3.00% | ~1,658 |
 | Opportunity | 3.00% | ~1,658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,276 (Ranked 69)  
+Progressed: 55,277 (Ranked 69)  
 Completed: 60 (0.11%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 60 (0.11%) (Ranked 149)
 | 2023-05-02 | 54,929 | 60 |
 | 2023-05-03 | 55,095 | 60 |
 | 2023-05-04 | 55,249 | 60 |
-| 2023-05-05 | 55,276 | 60 |
+| 2023-05-05 | 55,277 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

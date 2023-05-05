@@ -1,6 +1,6 @@
 # Saints Row®: The Third™  Remastered
 [View Rawdata](../../db/s/saints_row®__the_third™__remastered.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 6,169  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,161  (Ranked 100)  

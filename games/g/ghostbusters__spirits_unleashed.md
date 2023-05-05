@@ -30,9 +30,9 @@ Diff (max vs sum): 60
 | Side Hustle | 28.00% | ~6,021 |
 | We have the best insurance | 27.00% | ~5,806 |
 | Pesky Jerks | 27.00% | ~5,806 |
+| Right back at ya | 27.00% | ~5,806 |
 | Stunner | 27.00% | ~5,806 |
 | Summoner | 27.00% | ~5,806 |
-| Right back at ya | 26.00% | ~5,591 |
 | Animated | 25.00% | ~5,376 |
 | Collector | 25.00% | ~5,376 |
 | Skilled | 25.00% | ~5,376 |

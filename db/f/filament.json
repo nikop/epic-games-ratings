@@ -32,7 +32,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177472
+      "UsersEstimate": 177473
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -1394,6 +1394,11 @@
       "Time": "2023-05-05T04:06:14.2943268+00:00",
       "NumProgressed": 188800,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-05T05:05:00.4583287+00:00",
+      "NumProgressed": 188801,
+      "NumCompleted": 406
     }
   ],
   "RatingHistory": [
@@ -1520,18 +1525,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T04:06:14.2943263+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:00.4583281+00:00",
   "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 780,
   "EOS_Completed": 406,
-  "EOS_Progressed": 188800,
-  "LastUpdate_Achievements": "2023-05-05T04:06:14.2943524+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:58:59.4033878+00:00",
+  "EOS_Progressed": 188801,
+  "LastUpdate_Achievements": "2023-05-05T05:05:00.4583505+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:58:18.4369728+00:00",
   "AchievementSets": [
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 188800,
+      "Progressed": 188801,
       "Completed": 406
     }
   ],

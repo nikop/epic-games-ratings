@@ -1373,6 +1373,11 @@
       "Time": "2023-05-05T04:06:36.2036885+00:00",
       "NumProgressed": 19004,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T05:05:17.1276235+00:00",
+      "NumProgressed": 19007,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -1521,18 +1526,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T04:06:36.2036881+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:17.1276233+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1296,
+  "EOS_NewPlayers": 1297,
   "EOS_Completed": 14,
-  "EOS_Progressed": 19004,
-  "LastUpdate_Achievements": "2023-05-05T04:06:36.2037142+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:26.5641443+00:00",
+  "EOS_Progressed": 19007,
+  "LastUpdate_Achievements": "2023-05-05T05:05:17.1276436+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:19.7743333+00:00",
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19004,
+      "Progressed": 19007,
       "Completed": 14
     }
   ],

@@ -11,22 +11,22 @@ Diff (max vs sum): 25
 | ---- | ---------- | ----- |
 | Checkmate | 1.00% | ~528 |
 | Vecna Out! | 1.00% | ~528 |
-| A Brief Tour of the Realms | 0.90% | ~778 |
+| A Brief Tour of the Realms | 0.90% | ~779 |
 | Pin and Skewer | 0.80% | ~422 |
 | Bully for Vecna | 0.60% | ~317 |
 | The Cursed Farmer | 0.60% | ~519 |
-| Beast Intentions | 0.50% | ~432 |
-| The Mad Wizard | 0.50% | ~432 |
+| Beast Intentions | 0.50% | ~433 |
+| The Mad Wizard | 0.50% | ~433 |
 | The Ring of Regeneration | 0.40% | ~346 |
 | The Sanctum of the Sword | 0.30% | ~158 |
 | Get Back In The Castle | 0.30% | ~158 |
-| Were-verpowered | 0.30% | ~259 |
-| A Persistent Buzzing | 0.30% | ~259 |
-| Seeking Allies | 0.30% | ~259 |
-| Are Ya Chicken? | 0.30% | ~259 |
-| Mad Cow Disease | 0.30% | ~259 |
-| Friendly Imps | 0.30% | ~259 |
-| Pure Energy | 0.30% | ~259 |
+| Were-verpowered | 0.30% | ~260 |
+| A Persistent Buzzing | 0.30% | ~260 |
+| Seeking Allies | 0.30% | ~260 |
+| Are Ya Chicken? | 0.30% | ~260 |
+| Mad Cow Disease | 0.30% | ~260 |
+| Friendly Imps | 0.30% | ~260 |
+| Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~173 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
@@ -61,9 +61,9 @@ Diff (max vs sum): 25
 | Underdeep Cartography | 0.20% | ~173 |
 | Overdue Rendezvous | 0.20% | ~173 |
 | The Templar's Camp | 0.20% | ~173 |
-| Pros and CONs | 0.10% | ~86 |
-| Upholding the Law | 0.10% | ~86 |
-| Starving in the Jungle | 0.10% | ~86 |
+| Pros and CONs | 0.10% | ~87 |
+| Upholding the Law | 0.10% | ~87 |
+| Starving in the Jungle | 0.10% | ~87 |
 | Cold as Ice | 0.10% | ~53 |
 | Keep Your Friends Close | 0.10% | ~53 |
 | Friends and Foes | 0.10% | ~53 |
@@ -97,7 +97,7 @@ Diff (max vs sum): 25
 | First Third Out | 0.10% | ~53 |
 | Second Third Out | 0.10% | ~53 |
 | Third Third Out | 0.10% | ~53 |
-| The Silken Swamp | 0.10% | ~86 |
+| The Silken Swamp | 0.10% | ~87 |
 | Slack-jawed Lorna | 0.10% | ~53 |
 | I'm Sure I Saw It Move! | 0.10% | ~53 |
 | End of the Line | 0.10% | ~53 |
@@ -105,19 +105,19 @@ Diff (max vs sum): 25
 | The Fairy Rings of Thither | 0.10% | ~53 |
 | Zarak's Revenge | 0.10% | ~53 |
 | Bully for You! | 0.10% | ~53 |
-| Wet Feet | 0.10% | ~86 |
+| Wet Feet | 0.10% | ~87 |
 | The Dark Heart | 0.10% | ~53 |
 | Undergeared | 0.10% | ~53 |
 | Underdark Chill | 0.10% | ~53 |
 | The Alien Underdark | 0.10% | ~53 |
 | Thoughts on the Menu | 0.10% | ~53 |
 | Brains on Ice | 0.10% | ~53 |
-| Hatchlings Underfoot | 0.10% | ~86 |
+| Hatchlings Underfoot | 0.10% | ~87 |
 | The Oozing Hunger | 0.10% | ~53 |
 | Levelheaded | 0.10% | ~53 |
 | The Madness of Zuggtmoy | 0.10% | ~53 |
 | It's So Pretty… | 0.10% | ~53 |
-| Don't Look Up! | 0.10% | ~86 |
+| Don't Look Up! | 0.10% | ~87 |
 | The Cult of Lolth | 0.10% | ~53 |
 | Head over Heals | 0.10% | ~53 |
 | The Demon Lords of the Abyss | 0.10% | ~53 |
@@ -128,25 +128,25 @@ Diff (max vs sum): 25
 | The Roots of Loomlurch | 0.10% | ~53 |
 | The Loots of Loomlurch | 0.10% | ~53 |
 | The Lutes of Loomlurch | 0.10% | ~53 |
-| Supply Run | 0.10% | ~86 |
+| Supply Run | 0.10% | ~87 |
 | Best Laid Plans | 0.10% | ~53 |
 | Pincushion Party | 0.10% | ~53 |
 | G. O. A. T. | 0.10% | ~53 |
 | The Howling Peaks of Yon | 0.10% | ~53 |
 | Strength of Character | 0.10% | ~53 |
 | The Invisible Wizards of Thay | 0.10% | ~53 |
-| Heavy Burden | 0.10% | ~86 |
+| Heavy Burden | 0.10% | ~87 |
 | Seeds of Destruction | 0.10% | ~53 |
 | Speeds of Destruction | 0.10% | ~53 |
 | The Evacuation of Waterdeep | 0.10% | ~53 |
 | Flapjacks and Waffles | 0.10% | ~53 |
-| On the Hunt | 0.10% | ~86 |
+| On the Hunt | 0.10% | ~87 |
 | Vecna Lives! | 0.10% | ~53 |
 | Overwhelmed with Knowledge | 0.10% | ~53 |
 | A Demi-god's Defender | 0.10% | ~53 |
 | Vecna Loots! | 0.10% | ~53 |
 | Well Equipped | 0.10% | ~53 |
-| Friends of the Forest | 0.10% | ~86 |
+| Friends of the Forest | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~53 |
 | Arcane Efforts | 0.10% | ~53 |
 | Heatwave | 0.10% | ~53 |
@@ -159,14 +159,14 @@ Diff (max vs sum): 25
 | Clowning Around | 0.10% | ~53 |
 | Xanathaaaaaaar! | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
-| Homecoming | 0.10% | ~86 |
-| Anti-Dexterous Explorers | 0.10% | ~86 |
-| Struggling Toward Omu | 0.10% | ~86 |
-| Wagon Train | 0.10% | ~86 |
-| The Lost Heir of Omu | 0.10% | ~86 |
-| Not Very Charming | 0.10% | ~86 |
-| Lobsterfolk Assault | 0.10% | ~86 |
-| Taking Responsibility | 0.10% | ~86 |
+| Homecoming | 0.10% | ~87 |
+| Anti-Dexterous Explorers | 0.10% | ~87 |
+| Struggling Toward Omu | 0.10% | ~87 |
+| Wagon Train | 0.10% | ~87 |
+| The Lost Heir of Omu | 0.10% | ~87 |
+| Not Very Charming | 0.10% | ~87 |
+| Lobsterfolk Assault | 0.10% | ~87 |
+| Taking Responsibility | 0.10% | ~87 |
 | The Minions of Endelyn Moongrave | 0.10% | ~53 |
 | Between a Brigganock and a Hard Place | 0.10% | ~53 |
 | Love Unsoiled | 0.10% | ~53 |
@@ -179,184 +179,184 @@ Diff (max vs sum): 25
 | Anchors Aweigh | 0.10% | ~53 |
 | Welcome to the Rock | 0.10% | ~53 |
 | Welcome to the Band | 0.10% | ~53 |
-| The Forbidden City | 0.10% | ~86 |
-| Periodic Petrification | 0.10% | ~86 |
-| No Good at All | 0.10% | ~86 |
-| Fall From Grace | 0.10% | ~86 |
-| Captured! | 0.10% | ~86 |
-| Home Field Advantage | 0.10% | ~86 |
-| Double Vision | 0.10% | ~86 |
-| Underground Railroad | 0.10% | ~86 |
-| Street War | 0.10% | ~86 |
-| Force Grey Unleashed | 0.10% | ~86 |
-| Vajra's Guards | 0.10% | ~86 |
-| March of the Undead | 0.10% | ~86 |
-| Wisdom Check | 0.10% | ~86 |
-| Sleuth It Out | 0.10% | ~86 |
+| The Forbidden City | 0.10% | ~87 |
+| Periodic Petrification | 0.10% | ~87 |
+| No Good at All | 0.10% | ~87 |
+| Fall From Grace | 0.10% | ~87 |
+| Captured! | 0.10% | ~87 |
+| Home Field Advantage | 0.10% | ~87 |
+| Double Vision | 0.10% | ~87 |
+| Underground Railroad | 0.10% | ~87 |
+| Street War | 0.10% | ~87 |
+| Force Grey Unleashed | 0.10% | ~87 |
+| Vajra's Guards | 0.10% | ~87 |
+| March of the Undead | 0.10% | ~87 |
+| Wisdom Check | 0.10% | ~87 |
+| Sleuth It Out | 0.10% | ~87 |
 | The Newcomers of Notoriety | 0.10% | ~53 |
-| A Grand Puzzle | 0.10% | ~86 |
-| Never Split the Party | 0.10% | ~86 |
-| Azaka's Procession - Part 1 | 0.10% | ~86 |
+| A Grand Puzzle | 0.10% | ~87 |
+| Never Split the Party | 0.10% | ~87 |
+| Azaka's Procession - Part 1 | 0.10% | ~87 |
 | Snakes on our Plane | 0.10% | ~53 |
-| Tomb of the Nine Gods | 0.10% | ~86 |
-| The Soulmonger Calls | 0.10% | ~86 |
-| Azaka's Procession - Part 2 | 0.10% | ~86 |
+| Tomb of the Nine Gods | 0.10% | ~87 |
+| The Soulmonger Calls | 0.10% | ~87 |
+| Azaka's Procession - Part 2 | 0.10% | ~87 |
 | Acererak's Puzzle | 0.10% | ~53 |
-| The Mists of Ravenloft | 0.10% | ~86 |
-| The Hunt for Owl-y | 0.10% | ~86 |
-| Invisible Shadows | 0.10% | ~86 |
-| Werewolves in the Mist | 0.10% | ~86 |
-| We're not in Faerûn Anymore | 0.10% | ~86 |
-| Family Entanglements | 0.10% | ~86 |
-| Haunted Fortunes | 0.10% | ~86 |
-| Poor Fortune | 0.10% | ~86 |
-| Relentless Misfortune | 0.10% | ~86 |
-| Chatty Nobles | 0.10% | ~86 |
-| Modron Assistance | 0.10% | ~86 |
+| The Mists of Ravenloft | 0.10% | ~87 |
+| The Hunt for Owl-y | 0.10% | ~87 |
+| Invisible Shadows | 0.10% | ~87 |
+| Werewolves in the Mist | 0.10% | ~87 |
+| We're not in Faerûn Anymore | 0.10% | ~87 |
+| Family Entanglements | 0.10% | ~87 |
+| Haunted Fortunes | 0.10% | ~87 |
+| Poor Fortune | 0.10% | ~87 |
+| Relentless Misfortune | 0.10% | ~87 |
+| Chatty Nobles | 0.10% | ~87 |
+| Modron Assistance | 0.10% | ~87 |
 | Thine Bounty is Mine! | 0.10% | ~53 |
-| Haaave You Met Asmodeus? | 0.10% | ~86 |
-| Domesticated Owlbears | 0.10% | ~86 |
+| Haaave You Met Asmodeus? | 0.10% | ~87 |
+| Domesticated Owlbears | 0.10% | ~87 |
 | This Quest Stinks! | 0.10% | ~53 |
-| The Immortal Warrior | 0.10% | ~86 |
-| Hold for the Red Wizards | 0.10% | ~86 |
-| Form Ranks | 0.10% | ~86 |
+| The Immortal Warrior | 0.10% | ~87 |
+| Hold for the Red Wizards | 0.10% | ~87 |
+| Form Ranks | 0.10% | ~87 |
 | Drop of Time | 0.10% | ~53 |
-| The Wyrmheart Mine | 0.10% | ~86 |
-| They Who Smelt It | 0.10% | ~86 |
-| Distribute Your Weight | 0.10% | ~86 |
+| The Wyrmheart Mine | 0.10% | ~87 |
+| They Who Smelt It | 0.10% | ~87 |
+| Distribute Your Weight | 0.10% | ~87 |
 | Mongrelfolk Incursion | 0.10% | ~53 |
-| Tower on the Lake | 0.10% | ~86 |
-| Only the Strong Survive | 0.10% | ~86 |
-| Shorty's Day Off | 0.10% | ~86 |
-| Intelligence Hunt | 0.10% | ~86 |
-| Seeds of Deceit | 0.10% | ~86 |
-| Visions of Strahd | 0.10% | ~86 |
-| Seeds of Corruption | 0.10% | ~86 |
+| Tower on the Lake | 0.10% | ~87 |
+| Only the Strong Survive | 0.10% | ~87 |
+| Shorty's Day Off | 0.10% | ~87 |
+| Intelligence Hunt | 0.10% | ~87 |
+| Seeds of Deceit | 0.10% | ~87 |
+| Visions of Strahd | 0.10% | ~87 |
+| Seeds of Corruption | 0.10% | ~87 |
 | The Strahd Squad | 0.10% | ~53 |
-| The Gargoyle's Apprentice | 0.10% | ~86 |
-| House of Darkness | 0.10% | ~86 |
+| The Gargoyle's Apprentice | 0.10% | ~87 |
+| House of Darkness | 0.10% | ~87 |
 | Home Not So Alone | 0.10% | ~53 |
-| Attack on the Manor | 0.10% | ~86 |
-| The Trepidatious Trio | 0.10% | ~86 |
-| Our Time To Shine | 0.10% | ~86 |
+| Attack on the Manor | 0.10% | ~87 |
+| The Trepidatious Trio | 0.10% | ~87 |
+| Our Time To Shine | 0.10% | ~87 |
 | Review by the Blackstaff | 0.10% | ~53 |
-| The Death Curse | 0.10% | ~86 |
-| Treasure Hunters | 0.10% | ~86 |
-| The Guardian of Orolunga | 0.10% | ~86 |
-| Think Your Way Out Of It | 0.10% | ~86 |
-| Air's Getting Pretty Thin | 0.10% | ~86 |
+| The Death Curse | 0.10% | ~87 |
+| Treasure Hunters | 0.10% | ~87 |
+| The Guardian of Orolunga | 0.10% | ~87 |
+| Think Your Way Out Of It | 0.10% | ~87 |
+| Air's Getting Pretty Thin | 0.10% | ~87 |
 | Red Wizard 'Escort' | 0.10% | ~53 |
-| The Lost Love | 0.10% | ~86 |
-| A Saurial's Lament | 0.10% | ~86 |
-| A Saurial's Resolve | 0.10% | ~86 |
+| The Lost Love | 0.10% | ~87 |
+| A Saurial's Lament | 0.10% | ~87 |
+| A Saurial's Resolve | 0.10% | ~87 |
 | Spirit of the Trickster Gods | 0.10% | ~53 |
-| Flies on the Wall | 0.10% | ~86 |
-| The Killer Mists | 0.10% | ~86 |
-| Class Vacation | 0.10% | ~86 |
+| Flies on the Wall | 0.10% | ~87 |
+| The Killer Mists | 0.10% | ~87 |
+| Class Vacation | 0.10% | ~87 |
 | A Nod from Strahd | 0.10% | ~53 |
-| Backtracking Through Barovia | 0.10% | ~86 |
-| Diversity Day-Trip | 0.10% | ~86 |
-| Late Game | 0.10% | ~86 |
+| Backtracking Through Barovia | 0.10% | ~87 |
+| Diversity Day-Trip | 0.10% | ~87 |
+| Late Game | 0.10% | ~87 |
 | Shadowfell Stalwarts | 0.10% | ~53 |
-| Nimble Escape | 0.10% | ~86 |
-| Nimblest Escape | 0.10% | ~86 |
-| Stumbling Escape | 0.10% | ~86 |
+| Nimble Escape | 0.10% | ~87 |
+| Nimblest Escape | 0.10% | ~87 |
+| Stumbling Escape | 0.10% | ~87 |
 | Distracted Escape | 0.10% | ~53 |
-| Fugitives | 0.10% | ~86 |
-| From The Shadows | 0.10% | ~86 |
-| Spined Nuisances | 0.10% | ~86 |
+| Fugitives | 0.10% | ~87 |
+| From The Shadows | 0.10% | ~87 |
+| Spined Nuisances | 0.10% | ~87 |
 | Twilight Twist | 0.10% | ~53 |
-| Excavating History | 0.10% | ~86 |
-| Screams of the Dead | 0.10% | ~86 |
-| Frantic Excavation | 0.10% | ~86 |
+| Excavating History | 0.10% | ~87 |
+| Screams of the Dead | 0.10% | ~87 |
+| Frantic Excavation | 0.10% | ~87 |
 | Birds of a Feather | 0.10% | ~53 |
-| Towering Expectations | 0.10% | ~86 |
-| Guests of the Groom | 0.10% | ~86 |
-| Careful Consideration | 0.10% | ~86 |
+| Towering Expectations | 0.10% | ~87 |
+| Guests of the Groom | 0.10% | ~87 |
+| Careful Consideration | 0.10% | ~87 |
 | Tanking Expectations | 0.10% | ~53 |
-| Hopelessly Lost | 0.10% | ~86 |
-| Bazaar Exploits | 0.10% | ~86 |
-| Cramped Quarters | 0.10% | ~86 |
-| Flame(skull) War | 0.10% | ~86 |
+| Hopelessly Lost | 0.10% | ~87 |
+| Bazaar Exploits | 0.10% | ~87 |
+| Cramped Quarters | 0.10% | ~87 |
+| Flame(skull) War | 0.10% | ~87 |
 | Servants of the Demon Prince | 0.10% | ~53 |
-| Enter the Sargauth | 0.10% | ~86 |
-| Elder Rune Madness | 0.10% | ~86 |
-| The Madness Grows | 0.10% | ~86 |
+| Enter the Sargauth | 0.10% | ~87 |
+| Elder Rune Madness | 0.10% | ~87 |
+| The Madness Grows | 0.10% | ~87 |
 | The Madness Peaks | 0.10% | ~53 |
-| Who Lurks in Lurkwood | 0.10% | ~86 |
-| Bullywugs in the Bog | 0.10% | ~86 |
-| Modrons in the Mud | 0.10% | ~86 |
+| Who Lurks in Lurkwood | 0.10% | ~87 |
+| Bullywugs in the Bog | 0.10% | ~87 |
+| Modrons in the Mud | 0.10% | ~87 |
 | And a Pixie in a Pear Treant | 0.10% | ~53 |
-| Orcs Are Wild | 0.10% | ~86 |
-| An Abyssal Situation | 0.10% | ~86 |
-| Dino Nightmare | 0.10% | ~86 |
+| Orcs Are Wild | 0.10% | ~87 |
+| An Abyssal Situation | 0.10% | ~87 |
+| Dino Nightmare | 0.10% | ~87 |
 | A Familiar Friend | 0.10% | ~53 |
-| A Tale of Two Cities | 0.10% | ~86 |
-| A Tale of Two Fiends | 0.10% | ~86 |
-| A Tale of Two Champions | 0.10% | ~86 |
+| A Tale of Two Cities | 0.10% | ~87 |
+| A Tale of Two Fiends | 0.10% | ~87 |
+| A Tale of Two Champions | 0.10% | ~87 |
 | A Tale of Two Years | 0.10% | ~53 |
-| The Dead Three | 0.10% | ~86 |
-| Slow and Steady | 0.10% | ~86 |
-| A Hero's Entourage | 0.10% | ~86 |
+| The Dead Three | 0.10% | ~87 |
+| Slow and Steady | 0.10% | ~87 |
+| A Hero's Entourage | 0.10% | ~87 |
 | Sneak Attack | 0.10% | ~53 |
-| Lair of the Xanathar | 0.10% | ~86 |
-| Dreams of Beholders | 0.10% | ~86 |
-| Feigned Weakness | 0.10% | ~86 |
+| Lair of the Xanathar | 0.10% | ~87 |
+| Dreams of Beholders | 0.10% | ~87 |
+| Feigned Weakness | 0.10% | ~87 |
 | DPS in the Deeps | 0.10% | ~53 |
-| Waterdeep Under Siege | 0.10% | ~86 |
-| Bregan D'aerthe Comes to Call | 0.10% | ~86 |
-| Sober Up | 0.10% | ~86 |
+| Waterdeep Under Siege | 0.10% | ~87 |
+| Bregan D'aerthe Comes to Call | 0.10% | ~87 |
+| Sober Up | 0.10% | ~87 |
 | In The Beginning | 0.10% | ~53 |
-| Crowded Streets | 0.10% | ~86 |
-| The Sunless Citadel | 0.10% | ~86 |
-| Veteran Brigade | 0.10% | ~86 |
+| Crowded Streets | 0.10% | ~87 |
+| The Sunless Citadel | 0.10% | ~87 |
+| Veteran Brigade | 0.10% | ~87 |
 | Social Grace | 0.10% | ~53 |
 | Evergreens with an Evergreen | 0.10% | ~53 |
-| Meepo's Quest | 0.10% | ~86 |
-| She's Harmless! | 0.10% | ~86 |
+| Meepo's Quest | 0.10% | ~87 |
+| She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~53 |
-| Patience is Key | 0.10% | ~86 |
-| The Darkness Runs Deeper | 0.10% | ~86 |
-| Troublesome Prisoner | 0.10% | ~86 |
-| Dark Doppelgangers | 0.10% | ~86 |
+| Patience is Key | 0.10% | ~87 |
+| The Darkness Runs Deeper | 0.10% | ~87 |
+| Troublesome Prisoner | 0.10% | ~87 |
+| Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
-| Difficult Terrain | 0.10% | ~86 |
-| Cold & Wet | 0.10% | ~86 |
-| Madcap Adventures | 0.10% | ~86 |
+| Difficult Terrain | 0.10% | ~87 |
+| Cold & Wet | 0.10% | ~87 |
+| Madcap Adventures | 0.10% | ~87 |
 | Faerûn's Most Neglected | 0.10% | ~53 |
-| Vault of Dragons | 0.10% | ~86 |
-| Vault of Pixies | 0.10% | ~86 |
-| Vault of Poison | 0.10% | ~86 |
+| Vault of Dragons | 0.10% | ~87 |
+| Vault of Pixies | 0.10% | ~87 |
+| Vault of Poison | 0.10% | ~87 |
 | Vault of Cuteness | 0.10% | ~53 |
-| Champions of Waterdeep | 0.10% | ~86 |
-| On The Job Learning | 0.10% | ~86 |
+| Champions of Waterdeep | 0.10% | ~87 |
+| On The Job Learning | 0.10% | ~87 |
 | Strike! | 0.10% | ~53 |
 | Take Five | 0.10% | ~53 |
-| Lost in the Goblin Halls | 0.10% | ~86 |
-| Batiri in the Goblin Halls | 0.10% | ~86 |
+| Lost in the Goblin Halls | 0.10% | ~87 |
+| Batiri in the Goblin Halls | 0.10% | ~87 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~53 |
-| The Twilight Grove | 0.10% | ~86 |
-| The Nimble Grove | 0.10% | ~86 |
+| The Twilight Grove | 0.10% | ~87 |
+| The Nimble Grove | 0.10% | ~87 |
 | The Misty Grove | 0.10% | ~53 |
-| Dinosaur Racing | 0.10% | ~86 |
-| Elturel Has Fallen | 0.10% | ~86 |
-| Everything is Awful | 0.10% | ~86 |
+| Dinosaur Racing | 0.10% | ~87 |
+| Elturel Has Fallen | 0.10% | ~87 |
+| Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~53 |
 | Hailstorm! | 0.10% | ~53 |
-| Resolve Amongst Chaos | 0.10% | ~86 |
-| All You Know Is Wrong | 0.10% | ~86 |
+| Resolve Amongst Chaos | 0.10% | ~87 |
+| All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~53 |
 | Avernus Frozen Over | 0.10% | ~53 |
-| Market Fluctuations | 0.10% | ~86 |
-| Once More Into The Breach | 0.10% | ~86 |
-| Twice More Into The Breach | 0.10% | ~86 |
+| Market Fluctuations | 0.10% | ~87 |
+| Once More Into The Breach | 0.10% | ~87 |
+| Twice More Into The Breach | 0.10% | ~87 |
 | Thrice More Into The Breach | 0.10% | ~53 |
 | Nightmare Mode | 0.10% | ~53 |
-| Wyllowwood | 0.10% | ~86 |
-| Displaced Anger | 0.10% | ~86 |
+| Wyllowwood | 0.10% | ~87 |
+| Displaced Anger | 0.10% | ~87 |
 | Ettercap Swarm | 0.10% | ~53 |
 | Smooth Talkers | 0.10% | ~53 |
-| Relay Race | 0.10% | ~86 |
+| Relay Race | 0.10% | ~87 |
 | An Illithid Undertaking | 0.10% | ~53 |
 | An Illithid Ambush | 0.10% | ~53 |
 | Misty Undermountain | 0.10% | ~53 |
@@ -410,11 +410,11 @@ Diff (max vs sum): 25
 | Enemy Summit | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
-| Close Escort | 0.10% | ~86 |
-| The Long Haul | 0.10% | ~86 |
-| Lost in the Deep | 0.10% | ~86 |
-| Easily Distracted | 0.10% | ~86 |
-| Rude Welcome | 0.10% | ~86 |
+| Close Escort | 0.10% | ~87 |
+| The Long Haul | 0.10% | ~87 |
+| Lost in the Deep | 0.10% | ~87 |
+| Easily Distracted | 0.10% | ~87 |
+| Rude Welcome | 0.10% | ~87 |
 | Moose Tracks | 0.10% | ~53 |
 | An Awakened Axe | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
@@ -422,7 +422,7 @@ Diff (max vs sum): 25
 | Civilization | 0.10% | ~53 |
 | Trench Coat Run | 0.10% | ~53 |
 | The Taunting Lord | 0.10% | ~53 |
-| Durable Deep | 0.10% | ~86 |
+| Durable Deep | 0.10% | ~87 |
 | Lone Wolf Party | 0.10% | ~53 |
 | The Sibriex | 0.10% | ~53 |
 | The Archduke's Blessing | 0.10% | ~53 |
@@ -430,7 +430,7 @@ Diff (max vs sum): 25
 | Wrecked Flying Fortress | 0.10% | ~53 |
 | Relentless Peril | 0.10% | ~53 |
 | Rickety Rubble | 0.10% | ~53 |
-| Expert Opinion | 0.10% | ~86 |
+| Expert Opinion | 0.10% | ~87 |
 | Dwarven Rumors | 0.10% | ~53 |
 | Mimic Perception | 0.10% | ~53 |
 | Frozen in Fear | 0.10% | ~53 |
@@ -494,12 +494,12 @@ Diff (max vs sum): 25
 | The Netherese Necropolis | 0.10% | ~53 |
 | Ineffectual Intellectuals | 0.10% | ~53 |
 | The Archaeologist and the Sailor | 0.10% | ~53 |
-| The Haunted Jungle | 0.10% | ~86 |
-| Poor Guidance | 0.10% | ~86 |
-| Overwhelming Force | 0.10% | ~86 |
-| Rescue in the Jungle | 0.10% | ~86 |
+| The Haunted Jungle | 0.10% | ~87 |
+| Poor Guidance | 0.10% | ~87 |
+| Overwhelming Force | 0.10% | ~87 |
+| Rescue in the Jungle | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,498 (Ranked 59)  
+Progressed: 86,502 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,498 | 1,805 |
+| 2023-05-05 | 86,502 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -64,7 +64,7 @@
       "Name": "On A Roll",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 114780
+      "UsersEstimate": 114781
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -120,7 +120,7 @@
       "Name": "Team Performance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 133145
+      "UsersEstimate": 133146
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -184,7 +184,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91824
+      "UsersEstimate": 91825
     },
     {
       "ID": "achievement_clean_sheet",
@@ -400,7 +400,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114780
+      "UsersEstimate": 114781
     },
     {
       "ID": "achievement_mr_delegator",
@@ -432,7 +432,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 156101
+      "UsersEstimate": 156102
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -504,7 +504,7 @@
       "Name": "Record Sale",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 114780
+      "UsersEstimate": 114781
     },
     {
       "ID": "achievement_record_signing",
@@ -528,7 +528,7 @@
       "Name": "Scoring Streak",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 169875
+      "UsersEstimate": 169876
     },
     {
       "ID": "achievement_scouts_honour",
@@ -552,7 +552,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 215787
+      "UsersEstimate": 215788
     },
     {
       "ID": "achievement_signed_a_player",
@@ -560,7 +560,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 229561
+      "UsersEstimate": 229562
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -640,7 +640,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 229561
+      "UsersEstimate": 229562
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -696,7 +696,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50503
+      "UsersEstimate": 50504
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -1919,6 +1919,11 @@
     {
       "Time": "2023-05-05T02:32:29.9427468+00:00",
       "NumProgressed": 459122,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-05T05:05:22.8492388+00:00",
+      "NumProgressed": 459123,
       "NumCompleted": 18
     }
   ],
@@ -5908,18 +5913,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 98,
-  "LastChanged_Achievements": "2023-05-05T04:06:43.6168376+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:22.8492385+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 794,
   "EOS_Completed": 18,
-  "EOS_Progressed": 459122,
-  "LastUpdate_Achievements": "2023-05-05T04:06:43.6169703+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:28.9049111+00:00",
+  "EOS_Progressed": 459123,
+  "LastUpdate_Achievements": "2023-05-05T05:05:22.849332+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:22.7411419+00:00",
   "AchievementSets": [
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 459122,
+      "Progressed": 459123,
       "Completed": 18
     }
   ],

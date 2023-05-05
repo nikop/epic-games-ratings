@@ -48,7 +48,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "CrowdPleaser",
@@ -200,7 +200,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -280,7 +280,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "TheStuffOfLegends",
@@ -586,6 +586,11 @@
     {
       "Time": "2023-05-04T22:39:20.5317969+00:00",
       "NumProgressed": 2305,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T05:04:53.4980456+00:00",
+      "NumProgressed": 2306,
       "NumCompleted": 1
     }
   ],
@@ -984,18 +989,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-05T04:06:04.9366575+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:53.498045+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 31,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2305,
-  "LastUpdate_Achievements": "2023-05-05T04:06:04.936691+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:57:37.2089055+00:00",
+  "EOS_Progressed": 2306,
+  "LastUpdate_Achievements": "2023-05-05T05:04:53.4980734+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:22.3258806+00:00",
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2305,
+      "Progressed": 2306,
       "Completed": 1
     }
   ],

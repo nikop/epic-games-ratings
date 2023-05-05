@@ -40,7 +40,7 @@
       "Name": "Winter is Coming",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "1020",
@@ -96,7 +96,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "1027",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "1033",
@@ -160,7 +160,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "1035",
@@ -168,7 +168,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "1036",
@@ -1319,6 +1319,11 @@
     {
       "Time": "2023-05-05T04:06:40.4685965+00:00",
       "NumProgressed": 11031,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T05:05:20.424185+00:00",
+      "NumProgressed": 11033,
       "NumCompleted": 23
     }
   ],
@@ -2477,18 +2482,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T04:06:40.4685962+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:20.4241846+00:00",
   "EOS_NewCompleters": 3,
   "EOS_NewPlayers": 916,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11031,
-  "LastUpdate_Achievements": "2023-05-05T04:06:40.4686175+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:43.4383321+00:00",
+  "EOS_Progressed": 11033,
+  "LastUpdate_Achievements": "2023-05-05T05:05:20.4242017+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:36.2531956+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11031,
+      "Progressed": 11033,
       "Completed": 23
     }
   ],

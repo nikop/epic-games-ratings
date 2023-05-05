@@ -418,7 +418,7 @@
 | 414 | [Everything](games/e/everything.md) | 4.58 | 0 | 490 |
 | 414 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 215 | 247 |
 | 414 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 22 | 473 |
-| 414 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,469 | 114 |
+| 414 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,470 | 114 |
 | 414 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 203 | 254 |
 | 414 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 385 |
 | 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 178 | 267 |
@@ -426,7 +426,7 @@
 | 414 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,044 | 52 |
 | 414 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 490 |
 | 414 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 207 | 253 |
-| 414 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,332 | 22 |
+| 414 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,333 | 22 |
 | 428 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 490 |
 | 428 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 490 |
 | 428 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 490 |
@@ -473,7 +473,7 @@
 | 466 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 490 |
 | 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 835 | 144 |
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 434 |
-| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,133 | 125 |
+| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,134 | 125 |
 | 475 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 2,260 | 95 |
 | 475 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 432 |
 | 475 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,032 | 132 |
@@ -642,7 +642,6 @@
 | 633 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,038 | 130 |
 | 641 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 376 |
 | 641 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
-| 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,874 | 28 |
 | 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 490 |
 | 641 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,105 | 127 |
 | 641 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 443 |
@@ -650,18 +649,19 @@
 | 641 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |
 | 641 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 490 |
 | 641 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 533 | 176 |
-| 651 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 490 |
-| 651 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 490 |
-| 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 178 | 267 |
-| 651 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 329 |
-| 651 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 490 |
-| 651 | [MORDHAU](games/m/mordhau.md) | 4.41 | 59 | 377 |
-| 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 490 |
-| 651 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 490 |
-| 651 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 490 |
-| 651 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,161 | 100 |
-| 651 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 355 |
-| 651 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 126 | 296 |
+| 650 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 490 |
+| 650 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 490 |
+| 650 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 178 | 267 |
+| 650 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 329 |
+| 650 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,874 | 28 |
+| 650 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 490 |
+| 650 | [MORDHAU](games/m/mordhau.md) | 4.41 | 59 | 377 |
+| 650 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 490 |
+| 650 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 490 |
+| 650 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 490 |
+| 650 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,161 | 100 |
+| 650 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 355 |
+| 650 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 127 | 295 |
 | 663 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 490 |
 | 663 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 238 |
 | 663 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 983 | 138 |

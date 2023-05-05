@@ -9,8 +9,8 @@ Diff (max vs sum): -55
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,444 |
-| Powergamer | 26.00% | ~57,984 |
+| I will finish what you started | 28.00% | ~62,445 |
+| Powergamer | 26.00% | ~57,985 |
 | Barely scratched the surface | 25.00% | ~55,754 |
 | Write that down | 24.00% | ~53,524 |
 | Guns, lots of guns | 12.00% | ~26,762 |
@@ -26,9 +26,9 @@ Diff (max vs sum): -55
 | Valedictorian | 5.00% | ~11,151 |
 | BOY! | 4.00% | ~8,921 |
 | Ka-ching! | 4.00% | ~8,921 |
-| I like to sniff around | 3.00% | ~6,690 |
-| Mind reader | 3.00% | ~6,690 |
-| So you like to read? | 3.00% | ~6,690 |
+| I like to sniff around | 3.00% | ~6,691 |
+| Mind reader | 3.00% | ~6,691 |
+| So you like to read? | 3.00% | ~6,691 |
 | Gentleman's classic | 2.00% | ~4,460 |
 | Hoarder | 2.00% | ~4,460 |
 | Is that a rift? | 2.00% | ~4,460 |
@@ -62,7 +62,7 @@ Diff (max vs sum): -55
 | This is the way | 0.20% | ~446 |
 | Memory 5 | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,015 (Ranked 42)  
+Progressed: 223,018 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 5 (0.00%) (Ranked 191)
 | 2023-05-02 | 222,541 | 5 |
 | 2023-05-03 | 222,766 | 5 |
 | 2023-05-04 | 222,974 | 5 |
-| 2023-05-05 | 223,015 | 5 |
+| 2023-05-05 | 223,018 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

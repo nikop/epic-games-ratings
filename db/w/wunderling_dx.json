@@ -349,13 +349,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T04:05:51.2546688+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:42.6851495+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 40,
-  "LastUpdate_Achievements": "2023-05-05T04:05:51.2546975+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:57:08.867989+00:00",
+  "LastUpdate_Achievements": "2023-05-05T05:04:42.6851734+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:02.1693688+00:00",
   "AchievementSets": [
     {
       "ID": "emnkcf",
@@ -371,7 +371,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_Progress": 276,
   "FirstSeenAchievements": "2023-04-25T16:15:28.9093929+00:00"

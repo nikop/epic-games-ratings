@@ -47,9 +47,9 @@ Number of Ratings: 20  (23.09.2022)
 | Cold Blood, Warm Heart | 8.00% | ~23 |
 | No Laughing Matter | 7.00% | ~20 |
 | Zookeeper | 6.00% | ~17 |
+| Islander Understanding | 5.00% | ~14 |
 | A Paris Sunset | 5.00% | ~14 |
 | The Workshop | 5.00% | ~14 |
-| Islander Understanding | 4.00% | ~11 |
 | The Director Perseveres | 4.00% | ~11 |
 | X Marks the Spot | 4.00% | ~11 |
 | The Round Table | 4.00% | ~11 |

@@ -5,22 +5,22 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 80.00% | ~882 |
+| Balding bloot! | 80.00% | ~883 |
 | Lovebirds | 52.00% | ~574 |
-| Life’s short, ride long | 48.00% | ~529 |
-| Hug therapy | 47.00% | ~518 |
-| Over my dead body | 42.00% | ~463 |
+| Life’s short, ride long | 48.00% | ~530 |
+| Hug therapy | 47.00% | ~519 |
+| Over my dead body | 42.00% | ~464 |
 | Shake the rust off their feet | 23.00% | ~254 |
 | Strike! | 21.00% | ~232 |
 | My little pony | 21.00% | ~232 |
 | A love supreme | 20.00% | ~221 |
 | In my shoes | 19.00% | ~210 |
-| Like new! | 16.00% | ~176 |
-| Head in the clouds | 15.00% | ~165 |
-| Don't look back | 14.00% | ~154 |
-| Heartstrings | 14.00% | ~154 |
-| Back to rust | 13.00% | ~143 |
-| Flower Powered | 13.00% | ~143 |
+| Like new! | 16.00% | ~177 |
+| Heartstrings | 14.00% | ~155 |
+| Head in the clouds | 14.00% | ~155 |
+| Back to rust | 13.00% | ~144 |
+| Flower Powered | 13.00% | ~144 |
+| Don't look back | 13.00% | ~144 |
 | Unstoppable | 11.00% | ~121 |
 | Perfect timing | 10.00% | ~110 |
 | Self-sustainability | 9.00% | ~99 |
@@ -36,8 +36,8 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~22 |
 | À la carte | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,103 (Ranked 156)  
-Completed: 8 (0.73%) (Ranked 90)  
+Progressed: 1,104 (Ranked 156)  
+Completed: 8 (0.72%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,6 +50,7 @@ Completed: 8 (0.73%) (Ranked 90)
 | 2023-05-02 | 1,101 | 8 |
 | 2023-05-03 | 1,102 | 8 |
 | 2023-05-04 | 1,103 | 8 |
+| 2023-05-05 | 1,104 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

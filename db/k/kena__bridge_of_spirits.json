@@ -24,7 +24,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 254917
+      "UsersEstimate": 254918
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -120,7 +120,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131707
+      "UsersEstimate": 131708
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -168,7 +168,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 16994
+      "UsersEstimate": 16995
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -176,7 +176,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 403619
+      "UsersEstimate": 403620
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -184,7 +184,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 16994
+      "UsersEstimate": 16995
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -288,7 +288,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 233674
+      "UsersEstimate": 233675
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -304,7 +304,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 140204
+      "UsersEstimate": 140205
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -320,7 +320,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131707
+      "UsersEstimate": 131708
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -328,7 +328,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 16994
+      "UsersEstimate": 16995
     }
   ],
   "Tags": [
@@ -1176,6 +1176,11 @@
     {
       "Time": "2023-05-05T03:05:05.7454946+00:00",
       "NumProgressed": 424862,
+      "NumCompleted": 497
+    },
+    {
+      "Time": "2023-05-05T05:04:46.0946984+00:00",
+      "NumProgressed": 424863,
       "NumCompleted": 497
     }
   ],
@@ -2196,18 +2201,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T04:05:55.1206097+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:46.0946979+00:00",
   "EOS_NewCompleters": 6,
   "EOS_NewPlayers": 218,
   "EOS_Completed": 497,
-  "EOS_Progressed": 424862,
-  "LastUpdate_Achievements": "2023-05-05T04:05:55.1206478+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:58:17.4232688+00:00",
+  "EOS_Progressed": 424863,
+  "LastUpdate_Achievements": "2023-05-05T05:04:46.0947276+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:49.5423557+00:00",
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 424862,
+      "Progressed": 424863,
       "Completed": 497
     }
   ],

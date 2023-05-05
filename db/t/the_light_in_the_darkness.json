@@ -632,13 +632,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-05T04:06:28.3198792+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:10.9736049+00:00",
   "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_Completed": 85,
   "EOS_Progressed": 1121,
-  "LastUpdate_Achievements": "2023-05-05T04:06:28.3198945+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:59:58.8027078+00:00",
+  "LastUpdate_Achievements": "2023-05-05T05:05:10.9736124+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:00.2972171+00:00",
   "AchievementSets": [
     {
       "ID": "b40dflc",
@@ -653,9 +653,9 @@
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 155,
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00"
 }

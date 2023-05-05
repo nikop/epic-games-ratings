@@ -278,9 +278,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "WinOnMarshlands",
@@ -3198,13 +3198,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T04:06:40.410718+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:20.3846543+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 150,
   "EOS_Completed": 30,
   "EOS_Progressed": 14640,
-  "LastUpdate_Achievements": "2023-05-05T04:06:40.410766+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:26.7570234+00:00",
+  "LastUpdate_Achievements": "2023-05-05T05:05:20.3846905+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:20.0325039+00:00",
   "AchievementSets": [
     {
       "ID": "cfbk359",

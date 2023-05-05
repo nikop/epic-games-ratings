@@ -16,7 +16,7 @@
       "Name": "The Copse",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18483
+      "UsersEstimate": 18484
     },
     {
       "ID": "area_mountain",
@@ -24,7 +24,7 @@
       "Name": "The Mountain",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25494
+      "UsersEstimate": 25495
     },
     {
       "ID": "area_swamp",
@@ -40,7 +40,7 @@
       "Name": "The Wastes",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 52901
+      "UsersEstimate": 52902
     },
     {
       "ID": "bibliomancer",
@@ -56,7 +56,7 @@
       "Name": "The Dragon",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18483
+      "UsersEstimate": 18484
     },
     {
       "ID": "chronomancer",
@@ -72,7 +72,7 @@
       "Name": "The Corpumancer",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 26769
+      "UsersEstimate": 26770
     },
     {
       "ID": "crafting_all_replenish_found",
@@ -96,7 +96,7 @@
       "Name": "Waste Not",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 50989
+      "UsersEstimate": 50990
     },
     {
       "ID": "crafting_first_replenish",
@@ -104,7 +104,7 @@
       "Name": "Stock Up",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 47802
+      "UsersEstimate": 47803
     },
     {
       "ID": "crafting_max_upgrade",
@@ -120,7 +120,7 @@
       "Name": "The Cryomancer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 48439
+      "UsersEstimate": 48440
     },
     {
       "ID": "diablomancer",
@@ -136,7 +136,7 @@
       "Name": "The Dracomancer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18483
+      "UsersEstimate": 18484
     },
     {
       "ID": "electromancer",
@@ -144,7 +144,7 @@
       "Name": "The Electromancer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 38879
+      "UsersEstimate": 38880
     },
     {
       "ID": "elfslayer",
@@ -152,7 +152,7 @@
       "Name": "The Champion",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 58000
+      "UsersEstimate": 58001
     },
     {
       "ID": "end_climb",
@@ -176,7 +176,7 @@
       "Name": "Blueheart Runners",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 34417
+      "UsersEstimate": 34418
     },
     {
       "ID": "faction_chaos",
@@ -192,7 +192,7 @@
       "Name": "Dawnlight Order",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 40791
+      "UsersEstimate": 40792
     },
     {
       "ID": "faction_oath",
@@ -240,7 +240,7 @@
       "Name": "The Hag",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 28681
+      "UsersEstimate": 28682
     },
     {
       "ID": "huntsman",
@@ -248,7 +248,7 @@
       "Name": "The Huntsman",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 41428
+      "UsersEstimate": 41429
     },
     {
       "ID": "hydromancer",
@@ -256,7 +256,7 @@
       "Name": "The Hydromancer",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 46527
+      "UsersEstimate": 46528
     },
     {
       "ID": "kinetomancer",
@@ -296,7 +296,7 @@
       "Name": "The Exalted",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 35692
+      "UsersEstimate": 35693
     },
     {
       "ID": "necromancer",
@@ -312,7 +312,7 @@
       "Name": "The Neuromancer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21670
+      "UsersEstimate": 21671
     },
     {
       "ID": "npc_blue_nomad",
@@ -328,7 +328,7 @@
       "Name": "The King",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "npc_owlmancer",
@@ -352,7 +352,7 @@
       "Name": "The Pyromancer",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 54813
+      "UsersEstimate": 54814
     },
     {
       "ID": "queen",
@@ -360,7 +360,7 @@
       "Name": "The Matriarch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 44615
+      "UsersEstimate": 44616
     },
     {
       "ID": "sanguimancer",
@@ -384,7 +384,7 @@
       "Name": "The Terramancer",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 37604
+      "UsersEstimate": 37605
     },
     {
       "ID": "thaumamancer",
@@ -400,7 +400,7 @@
       "Name": "The Treeheart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 25494
+      "UsersEstimate": 25495
     },
     {
       "ID": "two_monks",
@@ -408,7 +408,7 @@
       "Name": "The Two Monks",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 23582
+      "UsersEstimate": 23583
     },
     {
       "ID": "umbramancer",
@@ -422,9 +422,9 @@
       "ID": "venomancer",
       "SetID": "2jelldm",
       "Name": "The Venomancer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 41428
+      "UsersEstimate": 42066
     }
   ],
   "Tags": [
@@ -1134,6 +1134,11 @@
     {
       "Time": "2023-05-04T23:04:36.2764443+00:00",
       "NumProgressed": 63736,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-05T05:04:51.4142645+00:00",
+      "NumProgressed": 63737,
       "NumCompleted": 1149
     }
   ],
@@ -2326,18 +2331,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T04:06:02.1403354+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:51.414264+00:00",
   "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_Completed": 1149,
-  "EOS_Progressed": 63736,
-  "LastUpdate_Achievements": "2023-05-05T04:06:02.1403868+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:58:16.1725661+00:00",
+  "EOS_Progressed": 63737,
+  "LastUpdate_Achievements": "2023-05-05T05:04:51.414304+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:48.6637371+00:00",
   "AchievementSets": [
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 63736,
+      "Progressed": 63737,
       "Completed": 1149
     }
   ],
@@ -2349,7 +2354,7 @@
   "NumberOfAwards": 1859,
   "NumberOfRatings": 2205,
   "Ranking_EOS_NewCompleters": 17,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_Progress": 63,
   "Ranking_PopularitySum": 191,

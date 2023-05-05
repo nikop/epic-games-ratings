@@ -20,6 +20,7 @@ Diff (max vs sum): 43
 | Like a Machine | 0.50% | ~73 |
 | Bandit Camp | 0.40% | ~59 |
 | Barren Lands | 0.40% | ~59 |
+| Cursed Lands | 0.40% | ~59 |
 | Trade Baron | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
@@ -36,7 +37,6 @@ Diff (max vs sum): 43
 | Forsaken Gods Temple | 0.30% | ~44 |
 | Corrosive Torrent | 0.30% | ~44 |
 | Watchtower | 0.30% | ~44 |
-| Cursed Lands | 0.30% | ~44 |
 | A Real Challenge | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
 | Against All Odds | 0.20% | ~29 |

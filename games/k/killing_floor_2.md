@@ -1,6 +1,6 @@
 # Killing Floor 2
 [View Rawdata](../../db/k/killing_floor_2.json)  
-Rating: 4.42 (Ranked 641)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 11,874  (Ranked 28)  
@@ -128,3 +128,4 @@ Diff (max vs sum): -18
 | 2023-05-02 | 4.41 | - | 11,857 | 25,623 |
 | 2023-05-03 | 4.41 | - | 11,870 | 25,643 |
 | 2023-05-04 | 4.42 | - | 11,874 | 25,660 |
+| 2023-05-05 | 4.41 | - | 11,874 | 25,660 |

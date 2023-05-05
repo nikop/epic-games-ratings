@@ -984,7 +984,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1378
+      "Count": 1380
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1008,7 +1008,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1469
+      "Count": 1470
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3909,17 +3909,23 @@
       "Rating": 4.58,
       "NumberOfAwards": 11375,
       "NumberOfAwardsMax": 1469
+    },
+    {
+      "Time": "2023-05-05T04:58:55.599605+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11378,
+      "NumberOfAwardsMax": 1470
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 122,
-  "LastChanged_Achievements": "2023-05-05T04:06:34.0904855+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:15.522511+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 498,
   "EOS_Completed": 223,
   "EOS_Progressed": 227760,
-  "LastUpdate_Achievements": "2023-05-05T04:06:34.0906861+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:59:52.0944856+00:00",
+  "LastUpdate_Achievements": "2023-05-05T05:05:15.5226573+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:58:55.5996053+00:00",
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
@@ -3929,12 +3935,12 @@
     }
   ],
   "EOS_Completed_Percentage": 0.1,
-  "LastChanged": "2023-05-05T02:59:25.6253698+00:00",
+  "LastChanged": "2023-05-05T04:58:55.5996049+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
-  "NumberOfAwardsMax": 1469,
-  "NumberOfAwards": 11375,
+  "NumberOfAwardsMax": 1470,
+  "NumberOfAwards": 11378,
   "NumberOfRatings": 15086,
   "Ranking_EOS_NewCompleters": 41,
   "Ranking_EOS_NewPlayers": 77,

@@ -4,24 +4,24 @@ Rating: 4.68 (Ranked 233)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,170  (Ranked 60)  
-Sum: 42,697 (Ranked 26)  
+Sum: 42,706 (Ranked 26)  
 Diff (max vs sum): 34  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,653 |
-| That's a Grand Army | 8.00% | ~2,358 |
-| That is mine! | 8.00% | ~2,358 |
-| Victorious! | 8.00% | ~2,358 |
+| Until death do us apart | 9.00% | ~2,654 |
+| That's a Grand Army | 8.00% | ~2,359 |
+| That is mine! | 8.00% | ~2,359 |
+| Victorious! | 8.00% | ~2,359 |
 | Brothers in Arms | 6.00% | ~1,769 |
 | That's a Grand Navy | 6.00% | ~1,769 |
 | Seriously?! | 6.00% | ~1,769 |
 | For the Glory | 5.00% | ~1,474 |
 | Cold War | 4.00% | ~1,179 |
-| Defender of the Faith | 3.00% | ~884 |
-| It's all about the money | 3.00% | ~884 |
-| Respected | 3.00% | ~884 |
-| True Catholic | 3.00% | ~884 |
+| Defender of the Faith | 3.00% | ~885 |
+| It's all about the money | 3.00% | ~885 |
+| Respected | 3.00% | ~885 |
+| True Catholic | 3.00% | ~885 |
 | Blockader | 2.00% | ~590 |
 | Combined Arms | 2.00% | ~590 |
 | Double the Love | 2.00% | ~590 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,479 (Ranked 82)  
+Progressed: 29,487 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,479 | 0 |
+| 2023-05-05 | 29,487 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -387,7 +387,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | This game is Highly Recommended | 4,942 |
 | This game has Challenging Combat | 4,930 |
 | This game is Extremely Fun | 4,896 |
-| This game has Diverse Characters | 4,850 |
+| This game has Diverse Characters | 4,859 |
 | This game is Relaxing | 4,803 |
 | This game has Competitive Players | 4,636 |
 | This game has Amazing Storytelling | 4,397 |
@@ -504,4 +504,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
-| 2023-05-05 | 4.68 | - | 5,170 | 42,697 |
+| 2023-05-05 | 4.68 | - | 5,170 | 42,706 |

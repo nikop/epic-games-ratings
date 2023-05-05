@@ -88,7 +88,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 22110
+      "UsersEstimate": 22111
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1403,6 +1403,11 @@
     {
       "Time": "2023-05-05T04:05:39.0244044+00:00",
       "NumProgressed": 55276,
+      "NumCompleted": 60
+    },
+    {
+      "Time": "2023-05-05T05:04:32.7853444+00:00",
+      "NumProgressed": 55277,
       "NumCompleted": 60
     }
   ],
@@ -3456,18 +3461,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T04:05:39.0244039+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:32.7853439+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1484,
+  "EOS_NewPlayers": 1482,
   "EOS_Completed": 60,
-  "EOS_Progressed": 55276,
-  "LastUpdate_Achievements": "2023-05-05T04:05:39.0244696+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:58:13.5270229+00:00",
+  "EOS_Progressed": 55277,
+  "LastUpdate_Achievements": "2023-05-05T05:04:32.7856322+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:47.1162692+00:00",
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 55276,
+      "Progressed": 55277,
       "Completed": 60
     }
   ],

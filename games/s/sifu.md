@@ -4,7 +4,7 @@ Rating: 4.82 (Ranked 59)
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 6,025  (Ranked 53)  
-Sum: 10,206 (Ranked 77)  
+Sum: 10,208 (Ranked 77)  
 Diff (max vs sum): -24  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,8 +32,8 @@ Diff (max vs sum): -24
 | Life is your teacher | 0.50% | ~3,513 |
 | Lightning Hands | 0.50% | ~3,513 |
 | Kung-Fu Tussle | 0.50% | ~3,513 |
-| Deadly Venom | 0.50% | ~59 |
-| A Touch of Acumen | 0.50% | ~59 |
+| Deadly Venom | 0.50% | ~60 |
+| A Touch of Acumen | 0.50% | ~60 |
 | Dance of the Praying Mantis | 0.40% | ~2,810 |
 | Qi Gong: Mind | 0.40% | ~2,810 |
 | Old Child | 0.40% | ~2,810 |
@@ -60,7 +60,7 @@ Diff (max vs sum): -24
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,598 (Ranked 15)  
+Progressed: 702,600 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,13 +75,13 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-02 | 702,521 | 12,707 |
 | 2023-05-03 | 702,552 | 12,707 |
 | 2023-05-04 | 702,592 | 12,707 |
-| 2023-05-05 | 702,598 | 12,707 |
+| 2023-05-05 | 702,600 | 12,707 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,025 |
 | This game has Diverse Characters | 501 |
-| This game has Challenging Combat | 497 |
+| This game has Challenging Combat | 499 |
 | This game has Quickly Understood Controls | 495 |
 | This game is Extremely Fun | 486 |
 | This game has Amazing Storytelling | 483 |
@@ -203,4 +203,4 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-02 | 4.82 | - | 6,014 | 10,179 |
 | 2023-05-03 | 4.82 | - | 6,018 | 10,190 |
 | 2023-05-04 | 4.82 | - | 6,025 | 10,205 |
-| 2023-05-05 | 4.82 | - | 6,025 | 10,206 |
+| 2023-05-05 | 4.82 | - | 6,025 | 10,208 |

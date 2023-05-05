@@ -1,6 +1,6 @@
 # Lords and Villeins
 [View Rawdata](../../db/l/lords_and_villeins.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 21  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

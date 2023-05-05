@@ -54,17 +54,17 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 54,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 100,
+      "Percentage": 108,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -294,9 +294,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -433,13 +433,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T04:05:41.5107885+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:34.7340195+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 0,
   "EOS_Progressed": 13,
-  "LastUpdate_Achievements": "2023-05-05T04:05:41.5108241+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:58:20.290894+00:00",
+  "LastUpdate_Achievements": "2023-05-05T05:04:34.7340494+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:51.4079601+00:00",
   "AchievementSets": [
     {
       "ID": "cmg602e",

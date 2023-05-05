@@ -335,13 +335,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-05T04:06:34.8502789+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:16.072347+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T04:06:34.8503093+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:17.991246+00:00",
+  "LastUpdate_Achievements": "2023-05-05T05:05:16.0723713+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:13.6768139+00:00",
   "AchievementSets": [
     {
       "ID": "1kdk24p",
@@ -357,7 +357,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_Progress": 301,
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00"

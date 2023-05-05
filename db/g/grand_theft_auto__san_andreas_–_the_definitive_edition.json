@@ -8,7 +8,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5984
+      "UsersEstimate": 5986
     },
     {
       "ID": "ACH02",
@@ -64,7 +64,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "ACH09",
@@ -232,7 +232,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH30",
@@ -909,6 +909,11 @@
       "Time": "2023-05-05T03:05:47.9891467+00:00",
       "NumProgressed": 7480,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-05T05:05:22.3140107+00:00",
+      "NumProgressed": 7482,
+      "NumCompleted": 15
     }
   ],
   "RatingHistory": [
@@ -1165,18 +1170,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T04:06:42.9353271+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:22.3140102+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_Completed": 15,
-  "EOS_Progressed": 7480,
-  "LastUpdate_Achievements": "2023-05-05T04:06:42.9353659+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:45.6860685+00:00",
+  "EOS_Progressed": 7482,
+  "LastUpdate_Achievements": "2023-05-05T05:05:22.3140342+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:37.6410025+00:00",
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7480,
+      "Progressed": 7482,
       "Completed": 15
     }
   ],
@@ -1187,7 +1192,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 41,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 109,
   "Ranking_PopularitySum": 490,

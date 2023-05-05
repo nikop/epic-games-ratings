@@ -9,19 +9,19 @@ Diff (max vs sum): 52
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~10,283 |
-| The Evilest Evil | 60.00% | ~8,814 |
-| Twistram is devastated | 59.00% | ~8,667 |
+| The Shadow strikes | 70.00% | ~10,284 |
+| The Evilest Evil | 60.00% | ~8,815 |
+| Twistram is devastated | 59.00% | ~8,668 |
 | The Gehenna Stones | 51.00% | ~7,492 |
-| No one has to die today! | 48.00% | ~7,051 |
-| The Swamplanders from the swamplands | 46.00% | ~6,757 |
-| Death and destruction! | 46.00% | ~6,757 |
+| No one has to die today! | 48.00% | ~7,052 |
+| The Swamplanders from the swamplands | 46.00% | ~6,758 |
+| Death and destruction! | 46.00% | ~6,758 |
 | The One-Huge-Army-Building Evil | 43.00% | ~6,317 |
 | Rusty Steel | 43.00% | ~6,317 |
 | The last burger | 40.00% | ~5,876 |
 | Braiiiiins! | 39.00% | ~5,729 |
-| Hands off the Dungeonheart! | 38.00% | ~5,582 |
-| A trip on sea, what fun it can be | 37.00% | ~5,435 |
+| Hands off the Dungeonheart! | 38.00% | ~5,583 |
+| A trip on sea, what fun it can be | 37.00% | ~5,436 |
 | Damned good | 35.00% | ~5,142 |
 | Stock Market Crash | 34.00% | ~4,995 |
 | Factory farming | 34.00% | ~4,995 |
@@ -32,11 +32,11 @@ Diff (max vs sum): 52
 | Shadow hunter | 30.00% | ~4,407 |
 | Destroy the thing | 28.00% | ~4,113 |
 | Tide Master | 28.00% | ~4,113 |
-| Difficult family relationships | 27.00% | ~3,966 |
-| MASS-O-BOT | 26.00% | ~3,819 |
-| Prepare the grave | 26.00% | ~3,819 |
-| Angel of Fire | 26.00% | ~3,819 |
-| Where there is Light, there is Shadow | 25.00% | ~3,672 |
+| Difficult family relationships | 27.00% | ~3,967 |
+| MASS-O-BOT | 26.00% | ~3,820 |
+| Prepare the grave | 26.00% | ~3,820 |
+| Angel of Fire | 26.00% | ~3,820 |
+| Where there is Light, there is Shadow | 25.00% | ~3,673 |
 | At the foot of Mount Destiny | 24.00% | ~3,526 |
 | The Force disturbed | 23.00% | ~3,379 |
 | The Victorious Evil | 22.00% | ~3,232 |
@@ -61,7 +61,7 @@ Diff (max vs sum): 52
 | Spawner Killer | 7.00% | ~1,028 |
 | A little something extra | 7.00% | ~1,028 |
 | The Benevolent Evil | 6.00% | ~881 |
-| Band of Brothers | 5.00% | ~734 |
+| Band of Brothers | 5.00% | ~735 |
 | Night of the Living Dead (on Speed) | 4.00% | ~588 |
 | I need a hero! | 4.00% | ~588 |
 | Storm And Stress | 3.00% | ~441 |
@@ -70,7 +70,7 @@ Diff (max vs sum): 52
 | Discoverer | 2.00% | ~294 |
 | Sacrifices! | 2.00% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,690 (Ranked 96)  
+Progressed: 14,691 (Ranked 96)  
 Completed: 141 (0.96%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 141 (0.96%) (Ranked 78)
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
 | 2023-05-04 | 14,674 | 140 |
-| 2023-05-05 | 14,690 | 141 |
+| 2023-05-05 | 14,691 | 141 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

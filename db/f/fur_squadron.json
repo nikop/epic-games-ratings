@@ -6,7 +6,7 @@
       "ID": "COMPLETED_AXEL_1",
       "SetID": "d91enl3",
       "Name": "Piece of cake",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -54,7 +54,7 @@
       "ID": "COMPLETED_BLAZE_1",
       "SetID": "d91enl3",
       "Name": "All systems go",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -142,7 +142,7 @@
       "ID": "COMPLETED_KIRO_6",
       "SetID": "d91enl3",
       "Name": "No need to say goodbye",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -150,7 +150,7 @@
       "ID": "MASTERED_1",
       "SetID": "d91enl3",
       "Name": "Enemy shield analyzed",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -221,30 +221,35 @@
       "Time": "2023-04-30T13:07:31.4290076+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T05:05:09.0760281+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T04:06:25.3794245+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:09.0760276+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
-  "EOS_Progressed": 5,
-  "LastUpdate_Achievements": "2023-05-05T04:06:25.3794401+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:59:45.543006+00:00",
+  "EOS_Progressed": 6,
+  "LastUpdate_Achievements": "2023-05-05T05:05:09.0760412+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:58:51.8843659+00:00",
   "AchievementSets": [
     {
       "ID": "d91enl3",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 317,
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00"
 }

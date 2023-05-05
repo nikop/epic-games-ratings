@@ -9,55 +9,55 @@ Diff (max vs sum): 61
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~95,467 |
-| Comeback | 81.00% | ~86,885 |
-| Information is Key | 80.00% | ~85,813 |
-| Unlucky | 71.00% | ~76,159 |
-| Anarchist | 68.00% | ~72,941 |
-| Wallhack | 65.00% | ~69,723 |
-| Steady Supply | 60.00% | ~64,360 |
-| Lucky Shot | 53.00% | ~56,851 |
-| Forward Observer | 52.00% | ~55,778 |
-| Ring Ring! | 52.00% | ~55,778 |
-| Bossing Around | 45.00% | ~48,270 |
-| Frostbite | 45.00% | ~48,270 |
-| Night Owl | 45.00% | ~48,270 |
-| Strength in Numbers | 45.00% | ~48,270 |
-| Fog of War | 41.00% | ~43,979 |
-| Stronghold Denied | 39.00% | ~41,834 |
-| Anyone Else? | 38.00% | ~40,761 |
-| Rasputin | 38.00% | ~40,761 |
-| This Belongs to Us Now | 36.00% | ~38,616 |
-| Hydra | 35.00% | ~37,543 |
-| Stronghold | 34.00% | ~36,470 |
-| Leeroy | 33.00% | ~35,398 |
-| Lost Batallion | 33.00% | ~35,398 |
-| This is MY Machine Gun! | 31.00% | ~33,252 |
-| Together As One | 31.00% | ~33,252 |
-| Gavrilo Princip | 27.00% | ~28,962 |
-| Lead Harvest | 25.00% | ~26,816 |
-| Kesselschlacht | 23.00% | ~24,671 |
-| Skynet Confirmed | 23.00% | ~24,671 |
-| Democracy Works! | 20.00% | ~21,453 |
+| Immovable Object | 89.00% | ~95,471 |
+| Comeback | 81.00% | ~86,890 |
+| Information is Key | 80.00% | ~85,817 |
+| Unlucky | 71.00% | ~76,162 |
+| Anarchist | 68.00% | ~72,944 |
+| Wallhack | 65.00% | ~69,726 |
+| Steady Supply | 60.00% | ~64,363 |
+| Lucky Shot | 53.00% | ~56,854 |
+| Forward Observer | 52.00% | ~55,781 |
+| Ring Ring! | 52.00% | ~55,781 |
+| Bossing Around | 45.00% | ~48,272 |
+| Frostbite | 45.00% | ~48,272 |
+| Night Owl | 45.00% | ~48,272 |
+| Strength in Numbers | 45.00% | ~48,272 |
+| Fog of War | 41.00% | ~43,981 |
+| Stronghold Denied | 39.00% | ~41,836 |
+| Anyone Else? | 38.00% | ~40,763 |
+| Rasputin | 38.00% | ~40,763 |
+| This Belongs to Us Now | 36.00% | ~38,618 |
+| Hydra | 35.00% | ~37,545 |
+| Stronghold | 34.00% | ~36,472 |
+| Leeroy | 33.00% | ~35,399 |
+| Lost Batallion | 33.00% | ~35,399 |
+| This is MY Machine Gun! | 31.00% | ~33,254 |
+| Together As One | 31.00% | ~33,254 |
+| Gavrilo Princip | 27.00% | ~28,963 |
+| Lead Harvest | 25.00% | ~26,818 |
+| Kesselschlacht | 23.00% | ~24,672 |
+| Skynet Confirmed | 23.00% | ~24,672 |
+| Democracy Works! | 20.00% | ~21,454 |
 | Switch, Please! | 19.00% | ~20,381 |
-| I've Seen It All | 18.00% | ~19,308 |
-| Tourist | 18.00% | ~19,308 |
-| At Least This Way I Can Win... | 17.00% | ~18,235 |
-| Oops! | 17.00% | ~18,235 |
+| I've Seen It All | 18.00% | ~19,309 |
+| Tourist | 18.00% | ~19,309 |
+| At Least This Way I Can Win... | 17.00% | ~18,236 |
+| Oops! | 17.00% | ~18,236 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~17,163 |
-| Butcher | 12.00% | ~12,872 |
+| Butcher | 12.00% | ~12,873 |
 | Before the Leaves Fall | 10.00% | ~10,727 |
 | Close Call | 10.00% | ~10,727 |
 | Pinpoint | 10.00% | ~10,727 |
 | Tannenberg | 9.00% | ~9,654 |
-| For the Emperor | 8.00% | ~8,581 |
-| Hawk Eye | 8.00% | ~8,581 |
+| For the Emperor | 8.00% | ~8,582 |
+| Hawk Eye | 8.00% | ~8,582 |
 | Hötzendorf | 7.00% | ~7,509 |
 | Equality For All | 6.00% | ~6,436 |
-| Crack Shot | 5.00% | ~5,363 |
-| From Russia with Love | 5.00% | ~5,363 |
-| Overachiever | 5.00% | ~5,363 |
-| Your Family Will Be Proud... | 5.00% | ~5,363 |
+| Crack Shot | 5.00% | ~5,364 |
+| From Russia with Love | 5.00% | ~5,364 |
+| Overachiever | 5.00% | ~5,364 |
+| Your Family Will Be Proud... | 5.00% | ~5,364 |
 | Gott Mit Uns | 4.00% | ~4,291 |
 | Indivisibiliter ac Inseparabiliter | 4.00% | ~4,291 |
 | Living on the Edge | 4.00% | ~4,291 |
@@ -77,7 +77,7 @@ Diff (max vs sum): 61
 | Seeing is Believing | 0.90% | ~965 |
 | Road to Berlin | 0.60% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,266 (Ranked 58)  
+Progressed: 107,271 (Ranked 58)  
 Completed: 21 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 21 (0.02%) (Ranked 175)
 | 2023-05-02 | 106,966 | 20 |
 | 2023-05-03 | 107,108 | 20 |
 | 2023-05-04 | 107,246 | 21 |
-| 2023-05-05 | 107,266 | 21 |
+| 2023-05-05 | 107,271 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

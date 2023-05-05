@@ -60,7 +60,7 @@ Diff (max vs sum): -12
 | Friends Forever | 4.00% | ~27,191 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 679,782 (Ranked 16)  
-Completed: 6,073 (0.89%) (Ranked 80)  
+Completed: 6,074 (0.89%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 6,073 (0.89%) (Ranked 80)
 | 2023-05-02 | 679,645 | 6,067 |
 | 2023-05-03 | 679,707 | 6,070 |
 | 2023-05-04 | 679,770 | 6,073 |
-| 2023-05-05 | 679,782 | 6,073 |
+| 2023-05-05 | 679,782 | 6,074 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

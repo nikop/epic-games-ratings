@@ -624,7 +624,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -1008,7 +1008,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "achievement_grand_coalition",
@@ -1224,7 +1224,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -1944,7 +1944,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -2288,7 +2288,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -2600,7 +2600,7 @@
       "Name": "True Catholic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -2672,7 +2672,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -2704,7 +2704,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -2852,7 +2852,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4850
+      "Count": 4859
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4037,6 +4037,11 @@
     {
       "Time": "2023-05-05T04:06:06.6012553+00:00",
       "NumProgressed": 29479,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T05:04:54.997455+00:00",
+      "NumProgressed": 29487,
       "NumCompleted": 0
     }
   ],
@@ -8381,37 +8386,43 @@
       "Rating": 4.68,
       "NumberOfAwards": 42697,
       "NumberOfAwardsMax": 5170
+    },
+    {
+      "Time": "2023-05-05T04:57:01.8205432+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42706,
+      "NumberOfAwardsMax": 5170
     }
   ],
   "TotalAchievementsXP": 5175,
   "TotalAchievements": 354,
-  "LastChanged_Achievements": "2023-05-05T04:06:06.6012548+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:54.9974545+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6432,
+  "EOS_NewPlayers": 6428,
   "EOS_Completed": 0,
-  "EOS_Progressed": 29479,
-  "LastUpdate_Achievements": "2023-05-05T04:06:06.6025787+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:57:08.3110805+00:00",
+  "EOS_Progressed": 29487,
+  "LastUpdate_Achievements": "2023-05-05T05:04:54.9984324+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:01.8205442+00:00",
   "AchievementSets": [
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 29479,
+      "Progressed": 29487,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 29479,
+      "Progressed": 29487,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T01:50:04.5816089+00:00",
+  "LastChanged": "2023-05-05T04:57:01.8205429+00:00",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 5170,
-  "NumberOfAwards": 42697,
+  "NumberOfAwards": 42706,
   "NumberOfRatings": 8414,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 17,

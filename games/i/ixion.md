@@ -24,6 +24,7 @@ Rating: 4.54 (Ranked 475)
 | Space Society | 0.10% | ~2 |
 | Sputnik 2049 | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
+| In Dolos We Trust | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
 | Fully Recycled | 0.10% | ~2 |
 | Ready for a New World | 0.10% | ~2 |
@@ -43,7 +44,6 @@ Rating: 4.54 (Ranked 475)
 | Infinite Growth... | 0.00% | ~0 |
 | Sustainable Energy | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |
-| In Dolos We Trust | 0.00% | ~0 |
 | Catastrophe Avoided | 0.00% | ~0 |
 | Breaking Protocol | 0.00% | ~0 |
 | Access Granted | 0.00% | ~0 |

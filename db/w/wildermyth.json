@@ -24,7 +24,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -80,7 +80,7 @@
       "Name": "Passing Shadow",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -200,7 +200,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -224,7 +224,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "completedStory_cvawn",
@@ -499,6 +499,11 @@
       "Time": "2023-05-04T14:03:36.4409324+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T05:04:50.3761677+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -616,18 +621,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T04:06:00.8981914+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:50.3761673+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_Completed": 3,
-  "EOS_Progressed": 1121,
-  "LastUpdate_Achievements": "2023-05-05T04:06:00.898241+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:01:10.1377903+00:00",
+  "EOS_Progressed": 1122,
+  "LastUpdate_Achievements": "2023-05-05T05:04:50.3762064+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:54.7700809+00:00",
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 3
     }
   ],
@@ -639,7 +644,7 @@
   "NumberOfAwards": 27,
   "NumberOfRatings": 45,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_Progress": 154,
   "Ranking_PopularitySum": 462,

@@ -9,18 +9,18 @@ Diff (max vs sum): 48
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,450 |
-| Thorough | 8.00% | ~13,160 |
-| A thief's beginning | 7.00% | ~11,515 |
-| Tanuki Time | 7.00% | ~11,515 |
-| Disguised | 6.00% | ~9,870 |
-| Jonin | 6.00% | ~9,870 |
-| Rescue Takuma | 6.00% | ~9,870 |
-| Rollin' | 6.00% | ~9,870 |
-| Chunin | 5.00% | ~8,225 |
-| Ice Ice Yuki | 5.00% | ~8,225 |
-| Stoned Ox | 5.00% | ~8,225 |
-| Yabu | 5.00% | ~8,225 |
+| Genin | 10.00% | ~16,451 |
+| Thorough | 8.00% | ~13,161 |
+| A thief's beginning | 7.00% | ~11,516 |
+| Tanuki Time | 7.00% | ~11,516 |
+| Disguised | 6.00% | ~9,871 |
+| Jonin | 6.00% | ~9,871 |
+| Rescue Takuma | 6.00% | ~9,871 |
+| Rollin' | 6.00% | ~9,871 |
+| Chunin | 5.00% | ~8,226 |
+| Ice Ice Yuki | 5.00% | ~8,226 |
+| Stoned Ox | 5.00% | ~8,226 |
+| Yabu | 5.00% | ~8,226 |
 | Flying Rocks | 4.00% | ~6,580 |
 | Happy Planning | 4.00% | ~6,580 |
 | Mugen Unchained | 4.00% | ~6,580 |
@@ -42,19 +42,19 @@ Diff (max vs sum): 48
 | The End | 1.00% | ~1,645 |
 | Winner Winner | 1.00% | ~1,645 |
 | Undeserved Honor | 0.80% | ~1,316 |
-| When Cut Across the Neck | 0.70% | ~1,151 |
+| When Cut Across the Neck | 0.70% | ~1,152 |
 | High Five the Moon | 0.60% | ~987 |
-| The Cave | 0.50% | ~822 |
+| The Cave | 0.50% | ~823 |
 | Merciful | 0.40% | ~658 |
 | Time Paradox | 0.40% | ~658 |
 | Five Shadows | 0.20% | ~329 |
-| Chicken Dinner | 0.10% | ~164 |
-| Complete Mastery | 0.10% | ~164 |
-| Mimimi | 0.10% | ~164 |
-| Praise the Shogun | 0.10% | ~164 |
-| Release the Kraken | 0.10% | ~164 |
+| Chicken Dinner | 0.10% | ~165 |
+| Complete Mastery | 0.10% | ~165 |
+| Mimimi | 0.10% | ~165 |
+| Praise the Shogun | 0.10% | ~165 |
+| Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,500 (Ranked 50)  
+Progressed: 164,512 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,500 | 41 |
+| 2023-05-05 | 164,512 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

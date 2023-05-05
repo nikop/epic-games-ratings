@@ -1,18 +1,18 @@
 # Star Stable Online
 [View Rawdata](../../db/s/star_stable_online.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 317  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 126  (Ranked 296)  
-Sum: 920 (Ranked 234)  
-Diff (max vs sum): 62  
+Max (Great for Beginners): 127  (Ranked 295)  
+Sum: 921 (Ranked 234)  
+Diff (max vs sum): 61  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 126 |
+| This game is Great for Beginners | 127 |
 | This game has Diverse Characters | 106 |
 | This game has Amazing Characters | 105 |
 | This game is Relaxing | 105 |
@@ -153,3 +153,4 @@ Diff (max vs sum): 62
 | 2023-05-01 | 4.42 | - | 124 | 912 |
 | 2023-05-02 | 4.41 | - | 124 | 917 |
 | 2023-05-03 | 4.41 | - | 126 | 920 |
+| 2023-05-05 | 4.41 | - | 127 | 921 |

@@ -1,6 +1,6 @@
 # Sonic Colors: Ultimate
 [View Rawdata](../../db/s/sonic_colors__ultimate.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.41 (Ranked 650)  
 Number of Ratings: 179  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 72  (Ranked 355)  

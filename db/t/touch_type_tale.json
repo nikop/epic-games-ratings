@@ -56,7 +56,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "campaign10",
@@ -88,7 +88,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "campaign14",
@@ -144,7 +144,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "campaign20",
@@ -160,7 +160,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "campaign4",
@@ -216,7 +216,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "scenario2",
@@ -613,6 +613,11 @@
       "Time": "2023-05-04T22:39:47.9836418+00:00",
       "NumProgressed": 2506,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-05T05:05:22.2500813+00:00",
+      "NumProgressed": 2507,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -625,18 +630,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 33,
-  "LastChanged_Achievements": "2023-05-05T04:06:42.9190506+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:05:22.2500808+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 74,
   "EOS_Completed": 8,
-  "EOS_Progressed": 2506,
-  "LastUpdate_Achievements": "2023-05-05T04:06:42.9190803+00:00",
-  "LastUpdate_Ratings": "2023-05-05T04:00:44.1929853+00:00",
+  "EOS_Progressed": 2507,
+  "LastUpdate_Achievements": "2023-05-05T05:05:22.2501025+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:59:36.7578019+00:00",
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2506,
+      "Progressed": 2507,
       "Completed": 8
     }
   ],

@@ -23,7 +23,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 29.00% | ~69 |
 | The Horror | 28.00% | ~67 |
 | Collectibles of Chapter II | 25.00% | ~60 |
-| The Difference | 23.00% | ~55 |
+| The Difference | 24.00% | ~57 |
 | Vengeance | 23.00% | ~55 |
 | Food Massacre | 21.00% | ~50 |
 | Bullseye! | 21.00% | ~50 |

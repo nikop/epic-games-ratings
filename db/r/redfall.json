@@ -32,7 +32,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "Achievement_006",
@@ -40,7 +40,7 @@
       "Name": "Contingency Plans",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_007",
@@ -86,9 +86,9 @@
       "ID": "Achievement_012",
       "SetID": "6b34g18",
       "Name": "Neighborhood Watch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_013",
@@ -128,7 +128,7 @@
       "Name": "Bad Wiring",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Achievement_018",
@@ -144,7 +144,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "Achievement_020",
@@ -152,7 +152,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_021",
@@ -184,23 +184,23 @@
       "Name": "Good Morning",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 202
     },
     {
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 380
     },
     {
       "ID": "Achievement_027",
@@ -222,9 +222,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 368
     },
     {
       "ID": "Achievement_030",
@@ -232,7 +232,7 @@
       "Name": "ICU",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "Achievement_031",
@@ -264,7 +264,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Achievement_035",
@@ -294,9 +294,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_039",
@@ -310,9 +310,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 321
     },
     {
       "ID": "Achievement_041",
@@ -342,9 +342,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 333
     },
     {
       "ID": "Achievement_046",
@@ -360,7 +360,7 @@
       "Name": "Bloody Initiate",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_049",
@@ -406,9 +406,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_056",
@@ -488,7 +488,7 @@
       "Name": "Curious Finch",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_066",
@@ -897,6 +897,11 @@
       "Time": "2023-05-05T04:05:49.453742+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T05:04:41.4039024+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -909,18 +914,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 66,
-  "LastChanged_Achievements": "2023-05-05T04:05:49.4537415+00:00",
+  "LastChanged_Achievements": "2023-05-05T05:04:41.4039019+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1022,
+  "EOS_NewPlayers": 1023,
   "EOS_Completed": 0,
-  "EOS_Progressed": 1187,
-  "LastUpdate_Achievements": "2023-05-05T04:05:49.4538128+00:00",
-  "LastUpdate_Ratings": "2023-05-05T03:57:46.5730248+00:00",
+  "EOS_Progressed": 1188,
+  "LastUpdate_Achievements": "2023-05-05T05:04:41.4039579+00:00",
+  "LastUpdate_Ratings": "2023-05-05T04:57:29.384509+00:00",
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 0
     }
   ],
