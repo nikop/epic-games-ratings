@@ -34,7 +34,7 @@
 | Simulation 8e7d28c1 | 6.00% | ~2 |
 | Kill All Humans! | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 280)  
+Progressed: 36 (Ranked 281)  
 Completed: 2 (5.56%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |

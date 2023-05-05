@@ -30,9 +30,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 337
     },
     {
       "ID": "Achievement_006",
@@ -70,9 +70,9 @@
       "ID": "Achievement_010",
       "SetID": "6b34g18",
       "Name": "Welcome to the Neighborhood",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 433
     },
     {
       "ID": "Achievement_011",
@@ -166,9 +166,9 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_023",
@@ -198,9 +198,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 397
     },
     {
       "ID": "Achievement_027",
@@ -222,9 +222,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 385
     },
     {
       "ID": "Achievement_030",
@@ -422,9 +422,9 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_058",
@@ -939,13 +939,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 66,
-  "LastChanged_Achievements": "2023-05-05T11:05:11.2624522+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:21.236114+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 1037,
   "EOS_Completed": 0,
   "EOS_Progressed": 1202,
-  "LastUpdate_Achievements": "2023-05-05T11:05:11.2625216+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:57:36.3768118+00:00",
+  "LastUpdate_Achievements": "2023-05-05T12:05:21.2361726+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:57:55.9872149+00:00",
   "AchievementSets": [
     {
       "ID": "6b34g18",

@@ -28,7 +28,7 @@
 | Colossal Cave Explorer | 4.00% | ~3 |
 | Perfect 350 pt score | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 254)  
+Progressed: 76 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

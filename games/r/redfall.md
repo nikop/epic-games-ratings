@@ -13,11 +13,11 @@
 | Catch and Release | 44.00% | ~529 |
 | Peek-a-boo | 42.00% | ~505 |
 | Sucks To Be You | 42.00% | ~505 |
-| Welcome to the Neighborhood | 35.00% | ~421 |
-| Fly Fisher | 32.00% | ~385 |
-| Throw The First Stone | 31.00% | ~373 |
+| Welcome to the Neighborhood | 36.00% | ~433 |
+| Fly Fisher | 33.00% | ~397 |
+| Throw The First Stone | 32.00% | ~385 |
+| Enter of Your Own Free Will | 28.00% | ~337 |
 | Skin of Their Teeth | 28.00% | ~337 |
-| Enter of Your Own Free Will | 27.00% | ~325 |
 | Heart Attack | 27.00% | ~325 |
 | Bad Wiring | 20.00% | ~240 |
 | Grounded | 18.00% | ~216 |
@@ -29,6 +29,7 @@
 | Starve the Beast | 7.00% | ~84 |
 | Block Party | 6.00% | ~72 |
 | Revelations | 2.00% | ~24 |
+| Bell-ringer | 2.00% | ~24 |
 | From the Shadows | 2.00% | ~24 |
 | Empty Nest Syndrome | 2.00% | ~24 |
 | Right This Way | 2.00% | ~24 |
@@ -41,7 +42,6 @@
 | Blood Brother | 1.00% | ~12 |
 | Friendgineering | 1.00% | ~12 |
 | Sic Transit Umbra | 1.00% | ~12 |
-| Bell-ringer | 1.00% | ~12 |
 | Silence Is Golden | 1.00% | ~12 |
 | Good Morning | 1.00% | ~12 |
 | Check, Please! | 1.00% | ~12 |
@@ -54,9 +54,9 @@
 | Neighborhood Watch | 0.50% | ~6 |
 | What Lies Below | 0.40% | ~5 |
 | So Anyway I Started Blasting | 0.30% | ~4 |
+| Under a Bushel | 0.30% | ~4 |
 | Sisterhood | 0.20% | ~2 |
 | Someplace to Be | 0.20% | ~2 |
-| Under a Bushel | 0.20% | ~2 |
 | Good Samaritan | 0.10% | ~1 |
 | Eagle Eyes | 0.10% | ~1 |
 | Deforestation | 0.00% | ~0 |

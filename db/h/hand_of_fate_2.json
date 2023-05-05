@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472047
+      "UsersEstimate": 472048
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380260
+      "UsersEstimate": 380261
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -80,7 +80,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45893
+      "UsersEstimate": 45894
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -240,7 +240,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45893
+      "UsersEstimate": 45894
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163905
+      "UsersEstimate": 163906
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -1422,6 +1422,11 @@
       "Time": "2023-05-05T11:05:13.8930228+00:00",
       "NumProgressed": 655621,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T12:05:23.8163367+00:00",
+      "NumProgressed": 655622,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2185,18 +2190,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T11:05:13.8930225+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:23.8163361+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655621,
-  "LastUpdate_Achievements": "2023-05-05T11:05:13.8930796+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:57:19.6864441+00:00",
+  "EOS_Progressed": 655622,
+  "LastUpdate_Achievements": "2023-05-05T12:05:23.8163759+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:57:39.6580575+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655621,
+      "Progressed": 655622,
       "Completed": 164
     }
   ],

@@ -142,9 +142,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "enchantingskillx5",
@@ -1551,13 +1551,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 75,
-  "LastChanged_Achievements": "2023-05-05T11:05:25.7934564+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:35.6269191+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_Completed": 1,
   "EOS_Progressed": 843,
-  "LastUpdate_Achievements": "2023-05-05T11:05:25.7935294+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:57:46.4872719+00:00",
+  "LastUpdate_Achievements": "2023-05-05T12:05:35.6269888+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:58:06.4556669+00:00",
   "AchievementSets": [
     {
       "ID": "3nl4bcg",

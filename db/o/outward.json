@@ -48,7 +48,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "CrowdPleaser",
@@ -72,7 +72,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -80,7 +80,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ForAllAurai_8",
@@ -112,7 +112,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "HouseofCards_19",
@@ -192,7 +192,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ReadyforWinter_42",
@@ -200,7 +200,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1480
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -208,7 +208,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -224,7 +224,7 @@
       "Name": "Strange amalgams",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Tapped_22",
@@ -232,7 +232,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -264,7 +264,7 @@
       "Name": "The Power of Faith",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -328,7 +328,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1711
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -606,6 +606,11 @@
     {
       "Time": "2023-05-05T08:05:35.5779878+00:00",
       "NumProgressed": 2310,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T12:05:34.9349831+00:00",
+      "NumProgressed": 2312,
       "NumCompleted": 1
     }
   ],
@@ -1004,18 +1009,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-05T11:05:25.0843021+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:34.9349825+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2310,
-  "LastUpdate_Achievements": "2023-05-05T11:05:25.0843358+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:57:27.9621986+00:00",
+  "EOS_Progressed": 2312,
+  "LastUpdate_Achievements": "2023-05-05T12:05:34.9350109+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:57:47.8076509+00:00",
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2310,
+      "Progressed": 2312,
       "Completed": 1
     }
   ],

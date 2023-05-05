@@ -43,8 +43,8 @@ Diff (max vs sum): 56
 | The Protocol is About Life | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,533 (Ranked 100)  
-Completed: 47 (0.38%) (Ranked 105)  
+Progressed: 12,534 (Ranked 100)  
+Completed: 47 (0.37%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,6 +58,7 @@ Completed: 47 (0.38%) (Ranked 105)
 | 2023-05-02 | 12,529 | 47 |
 | 2023-05-03 | 12,531 | 47 |
 | 2023-05-04 | 12,533 | 47 |
+| 2023-05-05 | 12,534 | 47 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

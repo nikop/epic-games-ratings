@@ -8,14 +8,15 @@
 | First Blood | 75.00% | ~9 |
 | These Blades Are Made For Swinging | 67.00% | ~8 |
 | Skilled Hands | 58.00% | ~7 |
+| Master Smithy | 58.00% | ~7 |
 | Unearth A Qanat | 58.00% | ~7 |
 | Carving A Memory | 58.00% | ~7 |
 | Close Encounter | 50.00% | ~6 |
 | The Depths Of Darkness | 50.00% | ~6 |
-| Master Smithy | 50.00% | ~6 |
+| One With The Blades | 50.00% | ~6 |
+| Heart of Oblivion | 50.00% | ~6 |
+| Shoo! Shoo! | 50.00% | ~6 |
 | A Friend In Need | 42.00% | ~5 |
-| One With The Blades | 42.00% | ~5 |
-| Heart of Oblivion | 42.00% | ~5 |
 | Anahita's Greatest Mistake | 42.00% | ~5 |
 | Heart's Desire | 42.00% | ~5 |
 | Nature's Savior | 42.00% | ~5 |
@@ -23,7 +24,6 @@
 | For Whom the Bell Tolls | 42.00% | ~5 |
 | Here I Am | 42.00% | ~5 |
 | A Stranger's Diary | 42.00% | ~5 |
-| Shoo! Shoo! | 42.00% | ~5 |
 | Prison Break | 33.00% | ~4 |
 | I Pick You | 33.00% | ~4 |
 | Accomplished Smithy | 33.00% | ~4 |

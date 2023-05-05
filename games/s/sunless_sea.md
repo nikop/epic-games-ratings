@@ -10,29 +10,29 @@ Diff (max vs sum): -76
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,157 |
-| Sweet Sorrow | 19.00% | ~5,361 |
-| Rules the Waves | 17.00% | ~4,796 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,514 |
-| Rival | 14.00% | ~3,950 |
-| Correspondent | 12.00% | ~3,386 |
-| Lose Your Mind | 12.00% | ~3,386 |
-| Sound Mind? | 12.00% | ~3,386 |
-| Salt's Curse | 11.00% | ~3,104 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,104 |
-| The Fall of the House | 11.00% | ~3,104 |
-| Shipmate | 11.00% | ~3,104 |
-| The Ascent of Man | 8.00% | ~2,257 |
-| One Year at Zee | 8.00% | ~2,257 |
-| Pupil | 7.00% | ~1,975 |
-| Salvager | 7.00% | ~1,975 |
-| Open Your Ears | 7.00% | ~1,975 |
+| Sink Beneath the Waves | 36.00% | ~10,160 |
+| Sweet Sorrow | 19.00% | ~5,362 |
+| Rules the Waves | 17.00% | ~4,798 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,516 |
+| Rival | 14.00% | ~3,951 |
+| Correspondent | 12.00% | ~3,387 |
+| Lose Your Mind | 12.00% | ~3,387 |
+| Sound Mind? | 12.00% | ~3,387 |
+| Salt's Curse | 11.00% | ~3,105 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,105 |
+| The Fall of the House | 11.00% | ~3,105 |
+| Shipmate | 11.00% | ~3,105 |
+| The Ascent of Man | 8.00% | ~2,258 |
+| One Year at Zee | 8.00% | ~2,258 |
+| Pupil | 7.00% | ~1,976 |
+| Salvager | 7.00% | ~1,976 |
+| Open Your Ears | 7.00% | ~1,976 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,411 |
 | Zee Fever | 5.00% | ~1,411 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,129 |
-| Storm's Curse | 3.00% | ~846 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~846 |
-| Come Closer | 3.00% | ~846 |
+| Storm's Curse | 3.00% | ~847 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~847 |
+| Come Closer | 3.00% | ~847 |
 | Roaring Rise | 2.00% | ~564 |
 | I am the Captain of my Soul | 2.00% | ~564 |
 | A buoyant escape | 1.00% | ~282 |
@@ -53,7 +53,7 @@ Diff (max vs sum): -76
 | Leviathan | 0.90% | ~254 |
 | Depth charge | 0.90% | ~254 |
 | What lies beneath | 0.80% | ~226 |
-| Stone's Curse | 0.70% | ~197 |
+| Stone's Curse | 0.70% | ~198 |
 | Five Years at Zee | 0.50% | ~141 |
 | The Lady's Parlour | 0.20% | ~56 |
 | A Past Wreathed in Shadows | 0.20% | ~56 |
@@ -65,7 +65,7 @@ Diff (max vs sum): -76
 | Death By Water | 0.10% | ~28 |
 | Ten Years at Zee | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,214 (Ranked 83)  
+Progressed: 28,223 (Ranked 83)  
 Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-02 | 28,017 | 3 |
 | 2023-05-03 | 28,094 | 3 |
 | 2023-05-04 | 28,180 | 3 |
-| 2023-05-05 | 28,214 | 3 |
+| 2023-05-05 | 28,223 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

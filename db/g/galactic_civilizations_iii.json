@@ -43,7 +43,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 110
+      "Count": 111
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1409,6 +1409,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 1103,
       "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2023-05-05T12:00:07.0533639+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1104,
+      "NumberOfAwardsMax": 175
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1417,15 +1423,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T11:00:56.2683106+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:59:44.36275+00:00",
+  "LastUpdate_Achievements": "2023-05-05T12:01:18.3369989+00:00",
+  "LastUpdate_Ratings": "2023-05-05T12:00:07.0533643+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T18:59:15.8092094+00:00",
+  "LastChanged": "2023-05-05T12:00:07.0533637+00:00",
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 175,
-  "NumberOfAwards": 1103,
+  "NumberOfAwards": 1104,
   "NumberOfRatings": 1085,
   "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 271,

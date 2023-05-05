@@ -10,21 +10,21 @@ Diff (max vs sum): 92
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~26,529 |
-| Gone Home | 93.00% | ~25,435 |
+| Everybody Gets One | 97.00% | ~26,530 |
+| Gone Home | 93.00% | ~25,436 |
 | Wonderfalls | 87.00% | ~23,794 |
-| Got to Catch a Few | 77.00% | ~21,059 |
+| Got to Catch a Few | 77.00% | ~21,060 |
 | Double Trapper | 75.00% | ~20,512 |
-| I'm Stuffed | 68.00% | ~18,597 |
-| Got to Catch a Lot | 66.00% | ~18,050 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~16,683 |
+| I'm Stuffed | 68.00% | ~18,598 |
+| Got to Catch a Lot | 66.00% | ~18,051 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~16,684 |
 | Know Thy Neighbor | 59.00% | ~16,136 |
-| In the Arms of the Gramble | 58.00% | ~15,862 |
-| Launch Party | 56.00% | ~15,315 |
-| Perf Dirt | 56.00% | ~15,315 |
-| Vacation's End | 52.00% | ~14,221 |
+| In the Arms of the Gramble | 58.00% | ~15,863 |
+| Launch Party | 56.00% | ~15,316 |
+| Perf Dirt | 56.00% | ~15,316 |
+| Vacation's End | 52.00% | ~14,222 |
 | Bossy Bugs | 46.00% | ~12,581 |
-| Survivor | 45.00% | ~12,307 |
+| Survivor | 45.00% | ~12,308 |
 | That Reminds Me of a Puzzle | 43.00% | ~11,760 |
 | Sidetracked | 40.00% | ~10,940 |
 | Film Buff | 38.00% | ~10,393 |
@@ -37,11 +37,11 @@ Diff (max vs sum): 92
 | Feeding Frenzy | 18.00% | ~4,923 |
 | Clothesline | 16.00% | ~4,376 |
 | Say Cheese! | 15.00% | ~4,102 |
-| Sundae Best | 13.00% | ~3,555 |
+| Sundae Best | 13.00% | ~3,556 |
 | Live Laugh Hut | 8.00% | ~2,188 |
 | Dapper Capper | 6.00% | ~1,641 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,349 (Ranked 84)  
+Progressed: 27,350 (Ranked 84)  
 Completed: 1,261 (4.61%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 1,261 (4.61%) (Ranked 26)
 | 2023-05-02 | 27,331 | 1,258 |
 | 2023-05-03 | 27,340 | 1,259 |
 | 2023-05-04 | 27,343 | 1,261 |
-| 2023-05-05 | 27,349 | 1,261 |
+| 2023-05-05 | 27,350 | 1,261 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

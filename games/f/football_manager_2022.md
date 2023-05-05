@@ -12,46 +12,46 @@ Diff (max vs sum): 28
 | ---- | ---------- | ----- |
 | He's Signed! | 50.00% | ~229,568 |
 | First Victory | 50.00% | ~229,568 |
-| Clean Sheet | 49.00% | ~224,976 |
-| He's Sold! | 47.00% | ~215,793 |
-| I'm The Boss! | 41.00% | ~188,245 |
-| Hat-trick | 41.00% | ~188,245 |
-| Scoring Streak | 37.00% | ~169,880 |
+| Clean Sheet | 49.00% | ~224,977 |
+| He's Sold! | 47.00% | ~215,794 |
+| I'm The Boss! | 41.00% | ~188,246 |
+| Hat-trick | 41.00% | ~188,246 |
+| Scoring Streak | 37.00% | ~169,881 |
 | Unbeatable! | 36.00% | ~165,289 |
 | Thumping | 36.00% | ~165,289 |
-| Superb Dressing Room Atmosphere | 34.00% | ~156,106 |
-| Total Support | 32.00% | ~146,923 |
+| Superb Dressing Room Atmosphere | 34.00% | ~156,107 |
+| Total Support | 32.00% | ~146,924 |
 | Record Signing | 31.00% | ~142,332 |
-| He's a Natural | 30.00% | ~137,740 |
-| Millionaire's Club | 30.00% | ~137,740 |
-| Team Performance | 29.00% | ~133,149 |
+| He's a Natural | 30.00% | ~137,741 |
+| Millionaire's Club | 30.00% | ~137,741 |
+| Team Performance | 29.00% | ~133,150 |
 | Parked The Bus | 28.00% | ~128,558 |
 | Shrewd Spender | 28.00% | ~128,558 |
 | Star Man | 28.00% | ~128,558 |
-| Attack! | 27.00% | ~123,966 |
-| You're On Fire | 26.00% | ~119,375 |
-| Tremendous Trio | 26.00% | ~119,375 |
+| Attack! | 27.00% | ~123,967 |
+| You're On Fire | 26.00% | ~119,376 |
+| Tremendous Trio | 26.00% | ~119,376 |
 | On A Roll | 25.00% | ~114,784 |
 | Unstoppable Force | 25.00% | ~114,784 |
 | Record Sale | 25.00% | ~114,784 |
-| Fantastic Five | 23.00% | ~105,601 |
-| Full Faith | 23.00% | ~105,601 |
-| The Boss | 23.00% | ~105,601 |
-| Armchair Expert | 23.00% | ~105,601 |
+| Fantastic Five | 23.00% | ~105,602 |
+| Full Faith | 23.00% | ~105,602 |
+| The Boss | 23.00% | ~105,602 |
+| Armchair Expert | 23.00% | ~105,602 |
 | Iron Curtain | 22.00% | ~101,010 |
 | Top Of The Class | 22.00% | ~101,010 |
 | Goal Machine | 22.00% | ~101,010 |
-| Splashing The Cash | 21.00% | ~96,418 |
-| What A Goal! | 21.00% | ~96,418 |
-| Cup Glory! | 21.00% | ~96,418 |
+| Splashing The Cash | 21.00% | ~96,419 |
+| What A Goal! | 21.00% | ~96,419 |
+| Cup Glory! | 21.00% | ~96,419 |
 | Clean Bill of Health | 20.00% | ~91,827 |
 | Irresistible Force | 19.00% | ~87,236 |
 | Excellent Match Cohesion | 19.00% | ~87,236 |
-| Do The Double | 18.00% | ~82,644 |
+| Do The Double | 18.00% | ~82,645 |
 | Top Form | 16.00% | ~73,462 |
 | Cash To Burn | 16.00% | ~73,462 |
-| Overachiever! | 15.00% | ~68,870 |
-| Rushed signing | 15.00% | ~68,870 |
+| Overachiever! | 15.00% | ~68,871 |
+| Rushed signing | 15.00% | ~68,871 |
 | Beating Expectations | 14.00% | ~64,279 |
 | Eyes and Ears | 14.00% | ~64,279 |
 | Window Shopping | 14.00% | ~64,279 |
@@ -66,7 +66,7 @@ Diff (max vs sum): 28
 | National Service | 8.00% | ~36,731 |
 | Headhunted | 8.00% | ~36,731 |
 | Domination | 8.00% | ~36,731 |
-| Best In The Business | 7.00% | ~32,139 |
+| Best In The Business | 7.00% | ~32,140 |
 | Parked The Tank | 6.00% | ~27,548 |
 | World Renowned | 6.00% | ~27,548 |
 | Head-to-Head | 6.00% | ~27,548 |
@@ -109,7 +109,7 @@ Diff (max vs sum): 28
 | Draft Value | 0.10% | ~459 |
 | Shoestring Budget | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,135 (Ranked 26)  
+Progressed: 459,137 (Ranked 26)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
 | 2023-05-04 | 459,113 | 18 |
-| 2023-05-05 | 459,135 | 18 |
+| 2023-05-05 | 459,137 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

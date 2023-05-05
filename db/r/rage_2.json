@@ -49,7 +49,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 110
+      "Count": 111
     },
     {
       "Text": "This game has a Creative Community",
@@ -1946,6 +1946,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 3246,
       "NumberOfAwardsMax": 2435
+    },
+    {
+      "Time": "2023-05-05T11:59:05.7755165+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3247,
+      "NumberOfAwardsMax": 2435
     }
   ],
   "TotalAchievementsXP": 0,
@@ -1954,15 +1960,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T11:02:16.8698627+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:58:44.6260052+00:00",
+  "LastUpdate_Achievements": "2023-05-05T12:03:07.3450867+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:59:05.7755168+00:00",
   "AchievementSets": [],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T13:04:41.5243545+00:00",
+  "LastChanged": "2023-05-05T11:59:05.7755164+00:00",
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 2435,
-  "NumberOfAwards": 3246,
+  "NumberOfAwards": 3247,
   "NumberOfRatings": 4311,
   "Ranking_EOS_NewCompleters": 77,
   "Ranking_EOS_NewPlayers": 271,

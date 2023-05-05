@@ -43,8 +43,8 @@
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,516 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,235 | 4.57 | 428 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,137 | 4.71 | 178 |
-| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,880 | 4.89 | 12 |
-| 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,866 | 4.57 | 428 |
+| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,898 | 4.89 | 12 |
+| 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,885 | 4.57 | 428 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,697 | 4.47 | 573 |
 | 47 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 641 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,507 | 4.67 | 255 |
@@ -240,7 +240,7 @@
 | 238 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 663 |
 | 239 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 238 | 4.59 | 395 |
 | 240 | [Roller Champions™](games/r/roller_champions™.md) | 237 | 4.34 | 720 |
-| 241 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 231 | 3.93 | 891 |
+| 241 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 235 | 3.93 | 891 |
 | 242 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 230 | 4.45 | 598 |
 | 242 | [MudRunner](games/m/mudrunner.md) | 230 | 4.62 | 338 |
 | 244 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 226 | 4.49 | 547 |
@@ -365,21 +365,21 @@
 | 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 447 |
 | 364 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 68 | 4.51 | 513 |
 | 364 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 68 | 4.72 | 166 |
+| 366 | [MORDHAU](games/m/mordhau.md) | 66 | 4.41 | 650 |
 | 366 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.79 | 904 |
 | 366 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 633 |
 | 366 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 312 |
 | 366 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 66 | 3.96 | 887 |
-| 370 | [DOOM 3](games/d/doom_3.md) | 65 | 4.61 | 353 |
-| 371 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 513 |
-| 371 | [Ticket to Ride](games/t/ticket_to_ride.md) | 63 | 4.61 | 353 |
-| 373 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 547 |
-| 373 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 62 | 4.76 | 114 |
-| 373 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 379 |
-| 376 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 641 |
-| 377 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 59 | 4.64 | 312 |
-| 377 | [MORDHAU](games/m/mordhau.md) | 59 | 4.41 | 650 |
-| 377 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 59 | 4.69 | 212 |
-| 377 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 620 |
+| 371 | [DOOM 3](games/d/doom_3.md) | 65 | 4.61 | 353 |
+| 372 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 513 |
+| 372 | [Ticket to Ride](games/t/ticket_to_ride.md) | 63 | 4.61 | 353 |
+| 374 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 547 |
+| 374 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 62 | 4.76 | 114 |
+| 374 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 379 |
+| 377 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 641 |
+| 378 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 59 | 4.64 | 312 |
+| 378 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 59 | 4.69 | 212 |
+| 378 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 620 |
 | 381 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 58 | 4.34 | 720 |
 | 382 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 395 |
 | 383 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 852 |

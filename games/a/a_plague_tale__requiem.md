@@ -9,19 +9,19 @@ Diff (max vs sum): -87
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 93.00% | ~9,470 |
-| Newcomers | 78.00% | ~7,943 |
+| Under a New Sun | 93.00% | ~9,471 |
+| Newcomers | 78.00% | ~7,944 |
 | A Burden of Blood | 73.00% | ~7,434 |
-| Protector's Duty | 70.00% | ~7,128 |
-| Alchemist | 68.00% | ~6,924 |
+| Protector's Duty | 70.00% | ~7,129 |
+| Alchemist | 68.00% | ~6,925 |
 | In our Wake | 67.00% | ~6,823 |
-| Leaving all Behind | 64.00% | ~6,517 |
+| Leaving all Behind | 64.00% | ~6,518 |
 | Felons | 61.00% | ~6,212 |
-| A Sea of Promises | 59.00% | ~6,008 |
-| Tales and Revelations | 56.00% | ~5,702 |
-| Bloodline | 51.00% | ~5,193 |
+| A Sea of Promises | 59.00% | ~6,009 |
+| Tales and Revelations | 56.00% | ~5,703 |
+| Bloodline | 51.00% | ~5,194 |
 | The Cradle of Centuries | 47.00% | ~4,786 |
-| The Life We Deserve | 45.00% | ~4,582 |
+| The Life We Deserve | 45.00% | ~4,583 |
 | Night guard | 43.00% | ~4,379 |
 | Nothing Left | 38.00% | ~3,870 |
 | Healing our Wounds | 36.00% | ~3,666 |
@@ -30,8 +30,8 @@ Diff (max vs sum): -87
 | King Hugo | 23.00% | ~2,342 |
 | Mercy | 23.00% | ~2,342 |
 | Perfect shot | 22.00% | ~2,240 |
-| Effective instruments | 21.00% | ~2,138 |
-| Perfect throw | 21.00% | ~2,138 |
+| Effective instruments | 21.00% | ~2,139 |
+| Perfect throw | 21.00% | ~2,139 |
 | Knights! | 19.00% | ~1,935 |
 | Handful of pockets | 13.00% | ~1,324 |
 | Not a toy anymore | 11.00% | ~1,120 |
@@ -40,12 +40,12 @@ Diff (max vs sum): -87
 | Fighter | 7.00% | ~713 |
 | Ornithologist | 5.00% | ~509 |
 | Sneaky | 4.00% | ~407 |
-| Immortal memories | 3.00% | ~305 |
+| Immortal memories | 3.00% | ~306 |
 | Old protector | 2.00% | ~204 |
 | Explorer | 1.00% | ~102 |
 | Malignant | 1.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,183 (Ranked 104)  
+Progressed: 10,184 (Ranked 104)  
 Completed: 30 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 30 (0.29%) (Ranked 119)
 | 2023-05-02 | 10,170 | 30 |
 | 2023-05-03 | 10,176 | 30 |
 | 2023-05-04 | 10,181 | 30 |
-| 2023-05-05 | 10,183 | 30 |
+| 2023-05-05 | 10,184 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -5,34 +5,34 @@ Rating: 4.66 (Ranked 272)
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 1,033  (Ranked 131)  
-Sum: 7,723 (Ranked 93)  
+Sum: 7,724 (Ranked 93)  
 Diff (max vs sum): 38  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,677,034 |
-| Easy to forget | 46.00% | ~1,607,157 |
-| Back in the black | 38.00% | ~1,327,652 |
-| That's what I'm talking about | 28.00% | ~978,270 |
-| The Best of Both Worlds | 24.00% | ~838,517 |
-| Get your wings | 20.00% | ~698,764 |
-| Double trouble | 15.00% | ~524,073 |
-| Smashing it | 10.00% | ~349,382 |
-| But can it run Crysis? | 9.00% | ~314,444 |
-| My favourite feature... | 9.00% | ~314,444 |
-| From humble beginnings... | 7.00% | ~244,567 |
-| Customer satisfaction | 7.00% | ~244,567 |
+| You need to plug it in... | 48.00% | ~1,677,041 |
+| Easy to forget | 46.00% | ~1,607,164 |
+| Back in the black | 38.00% | ~1,327,657 |
+| That's what I'm talking about | 28.00% | ~978,274 |
+| The Best of Both Worlds | 24.00% | ~838,520 |
+| Get your wings | 20.00% | ~698,767 |
+| Double trouble | 15.00% | ~524,075 |
+| Smashing it | 10.00% | ~349,384 |
+| But can it run Crysis? | 9.00% | ~314,445 |
+| My favourite feature... | 9.00% | ~314,445 |
+| From humble beginnings... | 7.00% | ~244,568 |
+| Customer satisfaction | 7.00% | ~244,568 |
 | Keeping things neat | 4.00% | ~139,753 |
 | Seems you're pretty good at this | 4.00% | ~139,753 |
 | Triple threat | 3.00% | ~104,815 |
 | You rock at this! | 3.00% | ~104,815 |
 | Your music sucks | 3.00% | ~104,815 |
 | Bending over backwards | 3.00% | ~104,815 |
-| I'm broke, Uncle! | 2.00% | ~69,876 |
-| Maybe you should try something else? | 2.00% | ~69,876 |
-| Taking care of business | 2.00% | ~69,876 |
-| Perfection | 2.00% | ~69,876 |
-| Calling in Sick | 2.00% | ~69,876 |
+| I'm broke, Uncle! | 2.00% | ~69,877 |
+| Maybe you should try something else? | 2.00% | ~69,877 |
+| Taking care of business | 2.00% | ~69,877 |
+| Perfection | 2.00% | ~69,877 |
+| Calling in Sick | 2.00% | ~69,877 |
 | Overvolted | 1.00% | ~34,938 |
 | If you fail the first time... | 1.00% | ~34,938 |
 | Amazonian | 1.00% | ~34,938 |
@@ -41,16 +41,16 @@ Diff (max vs sum): 38
 | Building isn't cheap! | 1.00% | ~34,938 |
 | Majority Shareholder | 1.00% | ~34,938 |
 | Owner | 1.00% | ~34,938 |
-| Show off | 0.90% | ~31,444 |
+| Show off | 0.90% | ~31,445 |
 | Work ethic 101 | 0.60% | ~20,963 |
 | Building momentum | 0.50% | ~17,469 |
 | Lead by example | 0.50% | ~17,469 |
 | Treat yourself - RAM | 0.50% | ~17,469 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,481 |
-| Mr big business | 0.30% | ~10,481 |
-| Getting your feet wet | 0.30% | ~10,481 |
-| Customer's ALWAYS right. | 0.30% | ~10,481 |
-| Treat yourself - CPU | 0.30% | ~10,481 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,482 |
+| Mr big business | 0.30% | ~10,482 |
+| Getting your feet wet | 0.30% | ~10,482 |
+| Customer's ALWAYS right. | 0.30% | ~10,482 |
+| Treat yourself - CPU | 0.30% | ~10,482 |
 | Mister Big | 0.20% | ~6,988 |
 | Blow 'em away | 0.20% | ~6,988 |
 | 1920x1080 | 0.10% | ~3,494 |
@@ -63,7 +63,7 @@ Diff (max vs sum): 38
 | Stop it | 0.10% | ~3,494 |
 | Treat yourself - GPU | 0.10% | ~3,494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493,820 (Ranked 3)  
+Progressed: 3,493,835 (Ranked 3)  
 Completed: 22 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,14 +78,14 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-02 | 3,492,866 | 22 |
 | 2023-05-03 | 3,493,243 | 22 |
 | 2023-05-04 | 3,493,649 | 22 |
-| 2023-05-05 | 3,493,820 | 22 |
+| 2023-05-05 | 3,493,835 | 22 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,033 |
 | This game is Relaxing | 962 |
 | This game is Extremely Fun | 957 |
-| This game is Educational | 955 |
+| This game is Educational | 956 |
 | This game has Quickly Understood Controls | 920 |
 | This game is Highly Recommended | 860 |
 | This game has Amazing Storytelling | 785 |
@@ -184,3 +184,4 @@ Completed: 22 (0.00%) (Ranked 191)
 | 2023-05-01 | 4.66 | - | 1,032 | 7,717 |
 | 2023-05-03 | 4.66 | - | 1,032 | 7,722 |
 | 2023-05-04 | 4.66 | - | 1,033 | 7,723 |
+| 2023-05-05 | 4.66 | - | 1,033 | 7,724 |

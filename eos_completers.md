@@ -32,7 +32,7 @@
 | 30 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 33 | [Ravenlok](games/r/ravenlok.md) | 3.82% |
+| 33 | [Ravenlok](games/r/ravenlok.md) | 3.78% |
 | 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
@@ -49,11 +49,11 @@
 | 47 | [FORECLOSED](games/f/foreclosed.md) | 2.74% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.63% |
+| 50 | [ZZT!](games/z/zzt!.md) | 2.62% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -105,8 +105,8 @@
 | 103 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
 | 105 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
-| 105 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
-| 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 106 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 106 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [Tchia](games/t/tchia.md) | 0.35% |
 | 110 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |

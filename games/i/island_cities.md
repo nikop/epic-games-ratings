@@ -21,7 +21,7 @@
 | The beach is right there | 20.00% | ~11 |
 | Commuting | 20.00% | ~11 |
 | Le jardin magnifique | 20.00% | ~11 |
-| Aiming for a living and human city | 18.00% | ~10 |
+| Aiming for a living and human city | 20.00% | ~11 |
 | City of dreams | 18.00% | ~10 |
 | Happy Christmas night! | 18.00% | ~10 |
 | Night walk along the beach | 18.00% | ~10 |

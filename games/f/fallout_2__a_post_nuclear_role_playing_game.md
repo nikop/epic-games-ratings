@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
 Rating: 4.76 (Ranked 114)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 62  (Ranked 373)  
+Max (Character Customization): 62  (Ranked 374)  
 Sum: 62 (Ranked 426)  
-Diff (max vs sum): -53  
+Diff (max vs sum): -52  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -88,7 +88,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "2",
@@ -160,7 +160,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "6",
@@ -168,7 +168,7 @@
       "Name": "PRO",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "7",
@@ -1061,23 +1061,28 @@
       "Time": "2023-05-05T11:05:34.834898+00:00",
       "NumProgressed": 2318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T12:05:44.4060668+00:00",
+      "NumProgressed": 2319,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T11:05:34.8348977+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:44.4060665+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 455,
   "EOS_Completed": 0,
-  "EOS_Progressed": 2318,
-  "LastUpdate_Achievements": "2023-05-05T11:05:34.8349149+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:58:41.750236+00:00",
+  "EOS_Progressed": 2319,
+  "LastUpdate_Achievements": "2023-05-05T12:05:44.4060902+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:59:02.8605346+00:00",
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2318,
+      "Progressed": 2319,
       "Completed": 0
     }
   ],

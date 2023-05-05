@@ -21,13 +21,13 @@ Diff (max vs sum): 42
 | Like a Machine | 0.50% | ~73 |
 | Bandit Camp | 0.40% | ~59 |
 | Barren Lands | 0.40% | ~59 |
+| Ancient Battleground | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
 | Cursed Lands | 0.40% | ~59 |
 | Trade Baron | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Homesick | 0.30% | ~44 |
-| Ancient Battleground | 0.30% | ~44 |
 | Sparkdew Crystals | 0.30% | ~44 |
 | Dangerous Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |

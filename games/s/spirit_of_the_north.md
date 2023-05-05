@@ -9,32 +9,32 @@ Diff (max vs sum): 53
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~35,236 |
-| INFUSED WITH LIGHT | 53.00% | ~27,873 |
-| FOXIN' AROUND | 28.00% | ~14,725 |
-| FETCH | 27.00% | ~14,200 |
-| BLOOMS OF LIGHT | 26.00% | ~13,674 |
-| BEST FRIENDS | 22.00% | ~11,570 |
-| AWAKEN | 21.00% | ~11,044 |
-| ERADICATE | 20.00% | ~10,518 |
-| SPIRIT BARK | 20.00% | ~10,518 |
-| GARDEN OF LIGHT | 18.00% | ~9,466 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~35,239 |
+| INFUSED WITH LIGHT | 53.00% | ~27,876 |
+| FOXIN' AROUND | 28.00% | ~14,727 |
+| FETCH | 27.00% | ~14,201 |
+| BLOOMS OF LIGHT | 26.00% | ~13,675 |
+| BEST FRIENDS | 22.00% | ~11,571 |
+| AWAKEN | 21.00% | ~11,045 |
+| ERADICATE | 20.00% | ~10,519 |
+| SPIRIT BARK | 20.00% | ~10,519 |
+| GARDEN OF LIGHT | 18.00% | ~9,467 |
 | SPIRIT FORM | 15.00% | ~7,889 |
 | WRITTEN IN STONE | 15.00% | ~7,889 |
 | UPROOTING DARKNESS | 14.00% | ~7,363 |
-| WEIGHTLESS | 11.00% | ~5,785 |
-| SPIRIT DASH | 10.00% | ~5,259 |
-| OLD COMPANION | 8.00% | ~4,207 |
-| PLAGUE DOCTOR | 8.00% | ~4,207 |
-| MATCH MAKER | 7.00% | ~3,681 |
-| NORTHERN LIGHTS | 7.00% | ~3,681 |
-| SPIRITED AWAY | 7.00% | ~3,681 |
+| WEIGHTLESS | 11.00% | ~5,786 |
+| SPIRIT DASH | 10.00% | ~5,260 |
+| OLD COMPANION | 8.00% | ~4,208 |
+| PLAGUE DOCTOR | 8.00% | ~4,208 |
+| MATCH MAKER | 7.00% | ~3,682 |
+| NORTHERN LIGHTS | 7.00% | ~3,682 |
+| SPIRITED AWAY | 7.00% | ~3,682 |
 | FOX? OR FLYING SQUIRREL? | 3.00% | ~1,578 |
 | ANCIENT HISTORY | 2.00% | ~1,052 |
 | NONE FORGOTTEN | 2.00% | ~1,052 |
 | KINDRED SPIRITS | 0.50% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,591 (Ranked 72)  
+Progressed: 52,596 (Ranked 72)  
 Completed: 238 (0.45%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 238 (0.45%) (Ranked 101)
 | 2023-05-02 | 52,311 | 237 |
 | 2023-05-03 | 52,436 | 238 |
 | 2023-05-04 | 52,535 | 238 |
-| 2023-05-05 | 52,591 | 238 |
+| 2023-05-05 | 52,596 | 238 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -12,13 +12,13 @@ Diff (max vs sum): -95
 | ---- | ---------- | ----- |
 | The Shutdown | 66.00% | ~301,802 |
 | Jeef Skeejj | 44.00% | ~201,201 |
-| Careful planning | 39.00% | ~178,337 |
+| Careful planning | 39.00% | ~178,338 |
 | Second Coming | 33.00% | ~150,901 |
-| Jeef Skagg | 30.00% | ~137,182 |
+| Jeef Skagg | 30.00% | ~137,183 |
 | Mother | 25.00% | ~114,319 |
 | In space, no one can hear you scream | 23.00% | ~105,173 |
-| Chapter I: Echoes | 22.00% | ~100,600 |
-| Excelsior Rule | 22.00% | ~100,600 |
+| Chapter I: Echoes | 22.00% | ~100,601 |
+| Excelsior Rule | 22.00% | ~100,601 |
 | Things persisted in not being what they seemed | 20.00% | ~91,455 |
 | Knightmare Frames | 15.00% | ~68,591 |
 | May His passing cleanse the world | 15.00% | ~68,591 |
@@ -35,20 +35,20 @@ Diff (max vs sum): -95
 | Admiral Okonkwo | 7.00% | ~32,009 |
 | The Survivalists | 7.00% | ~32,009 |
 | The Tech Specialist | 7.00% | ~32,009 |
-| Chapter V: Memories of None | 6.00% | ~27,436 |
-| Meet your maker | 6.00% | ~27,436 |
-| The Impersonator | 6.00% | ~27,436 |
-| The Kid | 6.00% | ~27,436 |
-| The Evangelist | 6.00% | ~27,436 |
-| The Inquisitor | 6.00% | ~27,436 |
-| The Ace Pilot | 6.00% | ~27,436 |
-| The Tech Med | 6.00% | ~27,436 |
-| The Mech Soldier | 6.00% | ~27,436 |
-| The lucky charm | 6.00% | ~27,436 |
-| The Anonymous | 6.00% | ~27,436 |
-| The Smuggler | 6.00% | ~27,436 |
-| The Crazy Repairman | 6.00% | ~27,436 |
-| The Weasel | 6.00% | ~27,436 |
+| Chapter V: Memories of None | 6.00% | ~27,437 |
+| Meet your maker | 6.00% | ~27,437 |
+| The Impersonator | 6.00% | ~27,437 |
+| The Kid | 6.00% | ~27,437 |
+| The Evangelist | 6.00% | ~27,437 |
+| The Inquisitor | 6.00% | ~27,437 |
+| The Ace Pilot | 6.00% | ~27,437 |
+| The Tech Med | 6.00% | ~27,437 |
+| The Mech Soldier | 6.00% | ~27,437 |
+| The lucky charm | 6.00% | ~27,437 |
+| The Anonymous | 6.00% | ~27,437 |
+| The Smuggler | 6.00% | ~27,437 |
+| The Crazy Repairman | 6.00% | ~27,437 |
+| The Weasel | 6.00% | ~27,437 |
 | Kill the Doctor | 5.00% | ~22,864 |
 | Forsaken | 5.00% | ~22,864 |
 | Mercy | 5.00% | ~22,864 |
@@ -76,7 +76,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,275 (Ranked 28)  
+Progressed: 457,276 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,275 | 14 |
+| 2023-05-05 | 457,276 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

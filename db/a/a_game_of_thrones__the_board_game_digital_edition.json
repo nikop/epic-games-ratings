@@ -104,7 +104,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "1028",
@@ -128,7 +128,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "1031",
@@ -144,7 +144,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "1033",
@@ -168,7 +168,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "1036",
@@ -1355,6 +1355,11 @@
       "Time": "2023-05-05T11:05:56.8644518+00:00",
       "NumProgressed": 11052,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-05T12:06:06.5914629+00:00",
+      "NumProgressed": 11055,
+      "NumCompleted": 23
     }
   ],
   "RatingHistory": [
@@ -2512,18 +2517,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T11:05:56.8644516+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:06:06.5914623+00:00",
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 916,
   "EOS_Completed": 23,
-  "EOS_Progressed": 11052,
-  "LastUpdate_Achievements": "2023-05-05T11:05:56.8644722+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:00:06.3259707+00:00",
+  "EOS_Progressed": 11055,
+  "LastUpdate_Achievements": "2023-05-05T12:06:06.591485+00:00",
+  "LastUpdate_Ratings": "2023-05-05T12:00:26.5392149+00:00",
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11052,
+      "Progressed": 11055,
       "Completed": 23
     }
   ],

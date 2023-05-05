@@ -200,7 +200,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -248,7 +248,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -296,7 +296,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -320,7 +320,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -344,7 +344,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "SPRING_ALL",
@@ -1073,6 +1073,11 @@
       "Time": "2023-05-05T11:05:32.1301144+00:00",
       "NumProgressed": 37556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T12:05:41.7644435+00:00",
+      "NumProgressed": 37559,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1273,25 +1278,25 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T11:05:32.1301139+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:41.764443+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 159,
   "EOS_Completed": 1,
-  "EOS_Progressed": 37556,
-  "LastUpdate_Achievements": "2023-05-05T11:05:32.130164+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:58:23.2605171+00:00",
+  "EOS_Progressed": 37559,
+  "LastUpdate_Achievements": "2023-05-05T12:05:41.7644883+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:58:43.8912664+00:00",
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37556,
+      "Progressed": 37559,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2393,
-      "Completed": 2393
+      "Progressed": 2396,
+      "Completed": 2396
     }
   ],
   "EOS_Completed_Percentage": 0,

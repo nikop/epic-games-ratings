@@ -16,20 +16,20 @@ Diff (max vs sum): -16
 | The Defender of Dragons | 5.00% | ~13,278 |
 | Coasting Along | 5.00% | ~13,278 |
 | Rising From the Ashes | 5.00% | ~13,278 |
-| The Sort Who Makes an Entrance | 4.00% | ~10,622 |
-| The Avenging Gazelle | 4.00% | ~10,622 |
-| Beast Friends | 4.00% | ~10,622 |
-| A Sallow Grave | 4.00% | ~10,622 |
-| Flight the Good Flight | 4.00% | ~10,622 |
-| Challenge Accepted | 4.00% | ~10,622 |
-| A Keen Sense of Spell | 4.00% | ~10,622 |
-| Loom for Improvement | 4.00% | ~10,622 |
-| A Talent for Spending | 4.00% | ~10,622 |
-| Followed the Butterflies | 4.00% | ~10,622 |
-| The Spell Master | 4.00% | ~10,622 |
-| First Class Student | 4.00% | ~10,622 |
-| Troll with the Punches | 4.00% | ~10,622 |
-| That's a Keeper | 4.00% | ~10,622 |
+| The Sort Who Makes an Entrance | 4.00% | ~10,623 |
+| The Avenging Gazelle | 4.00% | ~10,623 |
+| Beast Friends | 4.00% | ~10,623 |
+| A Sallow Grave | 4.00% | ~10,623 |
+| Flight the Good Flight | 4.00% | ~10,623 |
+| Challenge Accepted | 4.00% | ~10,623 |
+| A Keen Sense of Spell | 4.00% | ~10,623 |
+| Loom for Improvement | 4.00% | ~10,623 |
+| A Talent for Spending | 4.00% | ~10,623 |
+| Followed the Butterflies | 4.00% | ~10,623 |
+| The Spell Master | 4.00% | ~10,623 |
+| First Class Student | 4.00% | ~10,623 |
+| Troll with the Punches | 4.00% | ~10,623 |
+| That's a Keeper | 4.00% | ~10,623 |
 | The Seeker of Knowledge | 3.00% | ~7,967 |
 | The Root of the Problem | 3.00% | ~7,967 |
 | Third Time's a Charm | 3.00% | ~7,967 |
@@ -55,7 +55,7 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,556 (Ranked 38)  
+Progressed: 265,564 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,556 | 346 |
+| 2023-05-05 | 265,564 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

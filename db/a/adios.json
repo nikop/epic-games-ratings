@@ -24,7 +24,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9179
+      "UsersEstimate": 9181
     },
     {
       "ID": "Audiophile",
@@ -40,7 +40,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11338
+      "UsersEstimate": 11341
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -48,7 +48,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9179
+      "UsersEstimate": 9181
     },
     {
       "ID": "Butcher",
@@ -80,7 +80,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10258
+      "UsersEstimate": 10261
     },
     {
       "ID": "Hearty",
@@ -96,7 +96,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "Magnetic Miracles",
@@ -112,7 +112,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10258
+      "UsersEstimate": 10261
     },
     {
       "ID": "Meaty",
@@ -128,7 +128,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9719
+      "UsersEstimate": 9721
     },
     {
       "ID": "Nice Try",
@@ -136,7 +136,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "Nothing Left to Say",
@@ -152,7 +152,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5399
+      "UsersEstimate": 5400
     },
     {
       "ID": "Right On Target",
@@ -160,7 +160,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7020
     },
     {
       "ID": "Sniper",
@@ -200,7 +200,7 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     }
   ],
   "Tags": [],
@@ -1374,6 +1374,11 @@
       "Time": "2023-05-05T11:06:02.1120325+00:00",
       "NumProgressed": 53992,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-05-05T12:06:11.842081+00:00",
+      "NumProgressed": 54003,
+      "NumCompleted": 434
     }
   ],
   "RatingHistory": [
@@ -1392,19 +1397,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 25,
-  "LastChanged_Achievements": "2023-05-05T11:06:02.1120319+00:00",
-  "EOS_NewCompleters": 31,
+  "LastChanged_Achievements": "2023-05-05T12:06:11.8420805+00:00",
+  "EOS_NewCompleters": 32,
   "EOS_NewPlayers": 1577,
-  "EOS_Completed": 433,
-  "EOS_Progressed": 53992,
-  "LastUpdate_Achievements": "2023-05-05T11:06:02.1120572+00:00",
-  "LastUpdate_Ratings": "2023-05-05T11:00:23.8844409+00:00",
+  "EOS_Completed": 434,
+  "EOS_Progressed": 54003,
+  "LastUpdate_Achievements": "2023-05-05T12:06:11.8420996+00:00",
+  "LastUpdate_Ratings": "2023-05-05T12:00:44.883998+00:00",
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 53992,
-      "Completed": 433
+      "Progressed": 54003,
+      "Completed": 434
     }
   ],
   "EOS_Completed_Percentage": 0.8,

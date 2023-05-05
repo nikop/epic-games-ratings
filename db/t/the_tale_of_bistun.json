@@ -78,25 +78,25 @@
       "ID": "BISTUN_ACHIEVEMENT_17",
       "SetID": "1kdk24p",
       "Name": "Master Smithy",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_18",
       "SetID": "1kdk24p",
       "Name": "One With The Blades",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_19",
       "SetID": "1kdk24p",
       "Name": "Heart of Oblivion",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_2",
@@ -254,9 +254,9 @@
       "ID": "BISTUN_ACHIEVEMENT_37",
       "SetID": "1kdk24p",
       "Name": "Shoo! Shoo!",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_4",
@@ -335,13 +335,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-05T11:05:51.8416279+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:06:01.3672553+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 1,
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T11:05:51.8416541+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:59:42.9771862+00:00",
+  "LastUpdate_Achievements": "2023-05-05T12:06:01.3672802+00:00",
+  "LastUpdate_Ratings": "2023-05-05T12:00:05.5839179+00:00",
   "AchievementSets": [
     {
       "ID": "1kdk24p",

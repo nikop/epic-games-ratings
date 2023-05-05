@@ -134,9 +134,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_II",
       "SetID": "3pe2bac",
       "Name": "Little light",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 338
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1194,13 +1194,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T11:05:18.3993462+00:00",
+  "LastChanged_Achievements": "2023-05-05T12:05:28.3071059+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_Completed": 1,
   "EOS_Progressed": 1877,
-  "LastUpdate_Achievements": "2023-05-05T11:05:18.3994021+00:00",
-  "LastUpdate_Ratings": "2023-05-05T10:57:23.5648805+00:00",
+  "LastUpdate_Achievements": "2023-05-05T12:05:28.307151+00:00",
+  "LastUpdate_Ratings": "2023-05-05T11:57:43.5841211+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
