@@ -136,6 +136,11 @@ namespace EpicRatingsUpdater.Markdown
 
             sb.AppendLine($"# {item.Name}");
 
+            if (item.ProductSlug != null)
+            {
+                sb.AppendLine($"[Store](https://store.epicgames.com/en-US/p/{item.ProductSlug})  ");
+            }
+
             sb.AppendLine($"[View Rawdata](../../{rawLink})  ");
 
             if (item.Rating != null)

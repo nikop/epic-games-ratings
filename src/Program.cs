@@ -15,7 +15,7 @@ var skipOffers = args.Any(x => x == "--skip-offers");
 var skipItems = args.Any(x => x == "--skip-items");
 
 #if DEBUG
-skipOffers = true;
+//skipOffers = true;
 skipItems = true;
 skipRatingsUpdate = true;
 #endif
@@ -109,6 +109,8 @@ if (!skipOffers)
 
                 await gameIndex.RenameItem(item).ConfigureAwait(false);
             }
+
+            item.ProductSlug = baseAppOffer.productSlug;
         }
 
         if (requiresSave)
