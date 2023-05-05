@@ -72,7 +72,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "tpote_achievement_18",
@@ -112,7 +112,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     },
     {
       "ID": "tpote_achievement_22",
@@ -168,7 +168,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "tpote_achievement_29",
@@ -184,7 +184,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "tpote_achievement_30",
@@ -200,7 +200,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "tpote_achievement_32",
@@ -272,7 +272,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "tpote_achievement_40",
@@ -320,7 +320,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "tpote_achievement_9",
@@ -328,7 +328,7 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     }
   ],
   "Tags": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-05-05T01:58:14.05311+00:00",
       "NumProgressed": 12179,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-05T03:04:57.782865+00:00",
+      "NumProgressed": 12181,
+      "NumCompleted": 91
     }
   ],
   "RatingHistory": [
@@ -1437,18 +1442,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T02:31:33.4304934+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:04:57.7828645+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 169,
   "EOS_Completed": 91,
-  "EOS_Progressed": 12179,
-  "LastUpdate_Achievements": "2023-05-05T02:31:33.4305389+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:26:10.9522817+00:00",
+  "EOS_Progressed": 12181,
+  "LastUpdate_Achievements": "2023-05-05T03:04:57.7829008+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:53.9108707+00:00",
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12179,
+      "Progressed": 12181,
       "Completed": 91
     }
   ],

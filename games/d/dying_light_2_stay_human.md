@@ -9,9 +9,9 @@ Diff (max vs sum): -13
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,617 |
-| Into the Unknown | 8.00% | ~43,215 |
-| First Shot | 8.00% | ~43,215 |
+| You Never Forget Your First... | 9.00% | ~48,618 |
+| Into the Unknown | 8.00% | ~43,216 |
+| First Shot | 8.00% | ~43,216 |
 | Herzlich Wilkommen! | 7.00% | ~37,814 |
 | Sancho Panza | 7.00% | ~37,814 |
 | Good Night & Good Luck | 7.00% | ~37,814 |
@@ -53,7 +53,7 @@ Diff (max vs sum): -13
 | That's Teamwork! | 0.80% | ~4,322 |
 | Fit as a Fiddle | 0.80% | ~4,322 |
 | Boot Licker | 0.70% | ~3,781 |
-| Night of Terrors | 0.70% | ~1,299 |
+| Night of Terrors | 0.70% | ~1,300 |
 | Find Anything Interesting? | 0.60% | ~3,241 |
 | My Friend, Ciro | 0.60% | ~1,114 |
 | Skullcrusher | 0.60% | ~1,114 |
@@ -75,7 +75,7 @@ Diff (max vs sum): -13
 | True Champion | 0.10% | ~186 |
 | Connoisseur | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,193 (Ranked 22)  
+Progressed: 540,201 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 46 (0.01%) (Ranked 184)
 | 2023-05-02 | 538,429 | 46 |
 | 2023-05-03 | 539,308 | 46 |
 | 2023-05-04 | 540,116 | 46 |
-| 2023-05-05 | 540,193 | 46 |
+| 2023-05-05 | 540,201 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

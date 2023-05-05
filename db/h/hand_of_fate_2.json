@@ -8,7 +8,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472033
+      "UsersEstimate": 472034
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16,7 +16,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380249
+      "UsersEstimate": 380250
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24,7 +24,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150788
+      "UsersEstimate": 150789
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -144,7 +144,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150788
+      "UsersEstimate": 150789
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -160,7 +160,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111452
+      "UsersEstimate": 111453
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -272,7 +272,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163900
+      "UsersEstimate": 163901
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -1382,6 +1382,11 @@
       "Time": "2023-05-05T01:58:19.5422405+00:00",
       "NumProgressed": 655601,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T03:05:03.3830653+00:00",
+      "NumProgressed": 655603,
+      "NumCompleted": 164
     }
   ],
   "RatingHistory": [
@@ -2145,18 +2150,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T02:31:39.6065057+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:03.3830648+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 389,
   "EOS_Completed": 164,
-  "EOS_Progressed": 655601,
-  "LastUpdate_Achievements": "2023-05-05T02:31:39.6065827+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:23:12.7525193+00:00",
+  "EOS_Progressed": 655603,
+  "LastUpdate_Achievements": "2023-05-05T03:05:03.3831112+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:57:19.5437526+00:00",
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655601,
+      "Progressed": 655603,
       "Completed": 164
     }
   ],

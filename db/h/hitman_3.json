@@ -8,7 +8,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 355505
+      "UsersEstimate": 355506
     },
     {
       "ID": "ACH_001",
@@ -72,7 +72,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 355505
+      "UsersEstimate": 355506
     },
     {
       "ID": "ACH_009",
@@ -104,7 +104,7 @@
       "Name": "Death From Above",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 596741
+      "UsersEstimate": 596742
     },
     {
       "ID": "ACH_013",
@@ -152,7 +152,7 @@
       "Name": "Master of the Household",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 495168
+      "UsersEstimate": 495169
     },
     {
       "ID": "ACH_019",
@@ -168,7 +168,7 @@
       "Name": "Upstairs, Downstairs",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50786
+      "UsersEstimate": 50787
     },
     {
       "ID": "ACH_021",
@@ -192,7 +192,7 @@
       "Name": "The Great Outdoors",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 50786
+      "UsersEstimate": 50787
     },
     {
       "ID": "ACH_024",
@@ -200,7 +200,7 @@
       "Name": "Death of the Party",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 469775
+      "UsersEstimate": 469776
     },
     {
       "ID": "ACH_025",
@@ -216,7 +216,7 @@
       "Name": "Partied Out",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50786
+      "UsersEstimate": 50787
     },
     {
       "ID": "ACH_027",
@@ -248,7 +248,7 @@
       "Name": "NEXUS-47",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 431685
+      "UsersEstimate": 431686
     },
     {
       "ID": "ACH_031",
@@ -256,7 +256,7 @@
       "Name": "Surveillance Master",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 50786
+      "UsersEstimate": 50787
     },
     {
       "ID": "ACH_032",
@@ -288,7 +288,7 @@
       "Name": "Hack the Planet",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 50786
+      "UsersEstimate": 50787
     },
     {
       "ID": "ACH_036",
@@ -320,7 +320,7 @@
       "Name": "Evil Wine Club",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 152359
+      "UsersEstimate": 152360
     },
     {
       "ID": "ACH_040",
@@ -344,7 +344,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 393595
+      "UsersEstimate": 393596
     },
     {
       "ID": "ACH_043",
@@ -1555,6 +1555,11 @@
     {
       "Time": "2023-05-05T02:31:41.4312127+00:00",
       "NumProgressed": 1269662,
+      "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-05-05T03:05:05.0988603+00:00",
+      "NumProgressed": 1269664,
       "NumCompleted": 2058
     }
   ],
@@ -6506,18 +6511,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 47,
-  "LastChanged_Achievements": "2023-05-05T02:31:41.431212+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:05.0988596+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 3126,
+  "EOS_NewPlayers": 3114,
   "EOS_Completed": 2058,
-  "EOS_Progressed": 1269662,
-  "LastUpdate_Achievements": "2023-05-05T02:31:41.4312896+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:25:38.4467162+00:00",
+  "EOS_Progressed": 1269664,
+  "LastUpdate_Achievements": "2023-05-05T03:05:05.0988995+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:26.1083454+00:00",
   "AchievementSets": [
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1269662,
+      "Progressed": 1269664,
       "Completed": 2058
     }
   ],

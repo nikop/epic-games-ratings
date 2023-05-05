@@ -128,7 +128,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10149
+      "UsersEstimate": 10150
     },
     {
       "ID": "ach_die10",
@@ -352,15 +352,15 @@
       "Name": "The Ascent of Man",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ach_sweetheart",
       "SetID": "ammcm",
       "Name": "Sweet Sorrow",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5075
     },
     {
       "ID": "ach_terror100",
@@ -416,7 +416,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ach_year10",
@@ -1526,6 +1526,11 @@
       "Time": "2023-05-05T02:32:17.9998422+00:00",
       "NumProgressed": 28193,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T03:05:37.4775076+00:00",
+      "NumProgressed": 28195,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -2102,18 +2107,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-05T02:32:17.9998414+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:37.477507+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 660,
   "EOS_Completed": 3,
-  "EOS_Progressed": 28193,
-  "LastUpdate_Achievements": "2023-05-05T02:32:17.99993+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:25:47.8904181+00:00",
+  "EOS_Progressed": 28195,
+  "LastUpdate_Achievements": "2023-05-05T03:05:37.4775619+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:34.7950693+00:00",
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28193,
+      "Progressed": 28195,
       "Completed": 3
     }
   ],
@@ -2125,7 +2130,7 @@
   "NumberOfAwards": 272,
   "NumberOfRatings": 401,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_Progress": 83,
   "Ranking_PopularitySum": 330,

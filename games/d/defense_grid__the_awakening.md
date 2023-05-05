@@ -9,37 +9,37 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,376 |
-| Hey! That's mine! | 78.00% | ~371,103 |
-| Happy Returns | 77.00% | ~366,345 |
-| Field Promotion | 74.00% | ~352,072 |
-| Leadhead | 71.00% | ~337,799 |
-| Eradicator | 67.00% | ~318,768 |
-| Surplus | 65.00% | ~309,252 |
-| I Spy | 63.00% | ~299,737 |
-| Burn Baby Burn | 59.00% | ~280,706 |
-| Yellow Beats Green | 55.00% | ~261,675 |
+| First Blood | 81.00% | ~385,377 |
+| Hey! That's mine! | 78.00% | ~371,104 |
+| Happy Returns | 77.00% | ~366,346 |
+| Field Promotion | 74.00% | ~352,073 |
+| Leadhead | 71.00% | ~337,800 |
+| Eradicator | 67.00% | ~318,769 |
+| Surplus | 65.00% | ~309,253 |
+| I Spy | 63.00% | ~299,738 |
+| Burn Baby Burn | 59.00% | ~280,707 |
+| Yellow Beats Green | 55.00% | ~261,676 |
 | Salvage Rights | 53.00% | ~252,160 |
-| What IS that? | 50.00% | ~237,886 |
+| What IS that? | 50.00% | ~237,887 |
 | Close Call | 49.00% | ~233,129 |
 | Penny Pincher | 49.00% | ~233,129 |
 | Pew Pew | 49.00% | ~233,129 |
 | Arsenal | 46.00% | ~218,856 |
 | Boot Camp | 45.00% | ~214,098 |
 | Flawless Victory | 42.00% | ~199,825 |
-| Confident | 40.00% | ~190,309 |
-| Exterminator | 36.00% | ~171,278 |
+| Confident | 40.00% | ~190,310 |
+| Exterminator | 36.00% | ~171,279 |
 | Sharpshooter | 33.00% | ~157,005 |
-| Great Ball of Fire | 32.00% | ~152,247 |
-| Not So Fast | 32.00% | ~152,247 |
+| Great Ball of Fire | 32.00% | ~152,248 |
+| Not So Fast | 32.00% | ~152,248 |
 | No Sale | 30.00% | ~142,732 |
 | Kaboom! | 29.00% | ~137,974 |
 | Liquidator | 29.00% | ~137,974 |
 | High Voltage | 24.00% | ~114,186 |
 | Filthy Rich | 19.00% | ~90,397 |
-| Power Builder | 17.00% | ~80,881 |
-| Pyrrhic Victory | 17.00% | ~80,881 |
-| The Not-So-Friendly Skies | 17.00% | ~80,881 |
+| Power Builder | 17.00% | ~80,882 |
+| Pyrrhic Victory | 17.00% | ~80,882 |
+| The Not-So-Friendly Skies | 17.00% | ~80,882 |
 | Death From Above | 16.00% | ~76,124 |
 | Retry | 16.00% | ~76,124 |
 | Head Trauma | 12.00% | ~57,093 |
@@ -97,7 +97,7 @@ Diff (max vs sum): 42
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,773 (Ranked 25)  
+Progressed: 475,774 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-02 | 475,627 | 4 |
 | 2023-05-03 | 475,693 | 4 |
 | 2023-05-04 | 475,761 | 4 |
-| 2023-05-05 | 475,773 | 4 |
+| 2023-05-05 | 475,774 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

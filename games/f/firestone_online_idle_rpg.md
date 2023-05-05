@@ -11,9 +11,9 @@
 | Guild Power | 22.00% | ~185 |
 | Prestigious x10 | 18.00% | ~151 |
 | The game is on | 14.00% | ~118 |
+| Exotic Merchant | 13.00% | ~109 |
 | Inspection | 13.00% | ~109 |
 | Dragon Clicker | 12.00% | ~101 |
-| Exotic Merchant | 12.00% | ~101 |
 | Hero inspection | 11.00% | ~93 |
 | Miner Clicker | 11.00% | ~93 |
 | Full Party | 9.00% | ~76 |

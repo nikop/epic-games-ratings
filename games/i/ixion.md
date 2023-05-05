@@ -13,6 +13,7 @@ Rating: 4.54 (Ranked 475)
 | Power Outage | 0.20% | ~4 |
 | Permanent Redesigns | 0.20% | ~4 |
 | Convenient Transport | 0.20% | ~4 |
+| Please Make it Stop! | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
 | Mutual Loyalty | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
@@ -31,7 +32,6 @@ Rating: 4.54 (Ranked 475)
 | Ain't Nobody Got Time for That | 0.10% | ~2 |
 | Tiqqun Unchained | 0.10% | ~2 |
 | BRAWL! | 0.10% | ~2 |
-| Please Make it Stop! | 0.10% | ~2 |
 | Pedal to the Metal | 0.10% | ~2 |
 | Hope Seeker | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |

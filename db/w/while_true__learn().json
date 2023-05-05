@@ -88,7 +88,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 258258
+      "UsersEstimate": 258259
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -120,7 +120,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 281736
+      "UsersEstimate": 281737
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -136,7 +136,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 545864
+      "UsersEstimate": 545865
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -184,7 +184,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 311084
+      "UsersEstimate": 311085
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -1345,6 +1345,11 @@
       "Time": "2023-05-05T02:32:04.5505659+00:00",
       "NumProgressed": 586951,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-05-05T03:05:25.6875092+00:00",
+      "NumProgressed": 586952,
+      "NumCompleted": 474
     }
   ],
   "RatingHistory": [
@@ -1792,18 +1797,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T02:32:04.5505651+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:25.6875085+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 971,
   "EOS_Completed": 474,
-  "EOS_Progressed": 586951,
-  "LastUpdate_Achievements": "2023-05-05T02:32:04.5505953+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:24:59.2291004+00:00",
+  "EOS_Progressed": 586952,
+  "LastUpdate_Achievements": "2023-05-05T03:05:25.6875339+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:58:51.3171111+00:00",
   "AchievementSets": [
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 586951,
+      "Progressed": 586952,
       "Completed": 474
     }
   ],

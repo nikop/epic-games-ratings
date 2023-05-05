@@ -16,7 +16,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47874
+      "UsersEstimate": 47875
     },
     {
       "ID": "BushidoAndChill",
@@ -32,7 +32,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135644
+      "UsersEstimate": 135645
     },
     {
       "ID": "Denied",
@@ -224,7 +224,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 534598
+      "UsersEstimate": 534599
     },
     {
       "ID": "TheHermit",
@@ -256,7 +256,7 @@
       "Name": "The Star",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47874
+      "UsersEstimate": 47875
     },
     {
       "ID": "TheSun",
@@ -264,7 +264,7 @@
       "Name": "The Sun",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47874
+      "UsersEstimate": 47875
     },
     {
       "ID": "TheWheelOfFortune",
@@ -1533,6 +1533,11 @@
     {
       "Time": "2023-05-05T02:31:30.4960479+00:00",
       "NumProgressed": 797908,
+      "NumCompleted": 1567
+    },
+    {
+      "Time": "2023-05-05T03:04:55.3746751+00:00",
+      "NumProgressed": 797909,
       "NumCompleted": 1567
     }
   ],
@@ -6774,18 +6779,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T02:31:30.4960471+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:04:55.3746746+00:00",
   "EOS_NewCompleters": 25,
-  "EOS_NewPlayers": 1727,
+  "EOS_NewPlayers": 1723,
   "EOS_Completed": 1567,
-  "EOS_Progressed": 797908,
-  "LastUpdate_Achievements": "2023-05-05T02:31:30.4960968+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:23:25.2537131+00:00",
+  "EOS_Progressed": 797909,
+  "LastUpdate_Achievements": "2023-05-05T03:04:55.3747204+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:57:30.2111416+00:00",
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 797908,
+      "Progressed": 797909,
       "Completed": 1567
     }
   ],

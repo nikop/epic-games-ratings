@@ -27,8 +27,8 @@
 | 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 4.37% |
-| 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
+| 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |

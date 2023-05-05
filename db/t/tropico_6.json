@@ -80,7 +80,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -128,7 +128,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -168,7 +168,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -280,7 +280,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -980,6 +980,11 @@
     {
       "Time": "2023-05-05T01:59:03.6643146+00:00",
       "NumProgressed": 2655,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T03:05:46.9692302+00:00",
+      "NumProgressed": 2656,
       "NumCompleted": 1
     }
   ],
@@ -1728,18 +1733,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T02:32:28.2253573+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:46.9692295+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2655,
-  "LastUpdate_Achievements": "2023-05-05T02:32:28.2253911+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:26:27.0061648+00:00",
+  "EOS_Progressed": 2656,
+  "LastUpdate_Achievements": "2023-05-05T03:05:46.9692643+00:00",
+  "LastUpdate_Ratings": "2023-05-05T03:00:07.836665+00:00",
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2655,
+      "Progressed": 2656,
       "Completed": 1
     }
   ],

@@ -14,15 +14,15 @@ Diff (max vs sum): 47
 | Exploitative | 4.00% | ~14,475 |
 | High Speed Low Drag | 4.00% | ~14,475 |
 | Wet Feet | 4.00% | ~14,475 |
-| Checkpoint Victory | 3.00% | ~10,856 |
-| Lucky | 3.00% | ~10,856 |
-| Stylin' | 3.00% | ~10,856 |
-| Turf War | 3.00% | ~10,856 |
-| Banged | 2.00% | ~7,237 |
-| First Blood | 2.00% | ~7,237 |
-| Flaccid Paralysis | 2.00% | ~7,237 |
-| Push Victory | 2.00% | ~7,237 |
-| Self-destructive | 2.00% | ~7,237 |
+| Checkpoint Victory | 3.00% | ~10,857 |
+| Lucky | 3.00% | ~10,857 |
+| Stylin' | 3.00% | ~10,857 |
+| Turf War | 3.00% | ~10,857 |
+| Banged | 2.00% | ~7,238 |
+| First Blood | 2.00% | ~7,238 |
+| Flaccid Paralysis | 2.00% | ~7,238 |
+| Push Victory | 2.00% | ~7,238 |
+| Self-destructive | 2.00% | ~7,238 |
 | Blindfire | 1.00% | ~3,619 |
 | Efficient | 1.00% | ~3,619 |
 | Ruthless | 1.00% | ~3,619 |
@@ -36,7 +36,7 @@ Diff (max vs sum): 47
 | Special Delivery | 0.70% | ~2,533 |
 | Firefight Victory | 0.60% | ~2,171 |
 | Cinematic | 0.50% | ~1,809 |
-| Thanks Station! | 0.40% | ~1,447 |
+| Thanks Station! | 0.40% | ~1,448 |
 | Knock Knock | 0.30% | ~1,086 |
 | Hit and Run | 0.20% | ~724 |
 | There For You | 0.20% | ~724 |
@@ -45,7 +45,7 @@ Diff (max vs sum): 47
 | It's All in the Reflexes | 0.10% | ~362 |
 | Road Hazard | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,873 (Ranked 35)  
+Progressed: 361,886 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-02 | 360,843 | 2 |
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
-| 2023-05-05 | 361,873 | 2 |
+| 2023-05-05 | 361,886 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

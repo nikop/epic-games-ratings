@@ -11,6 +11,7 @@ Diff (max vs sum): 46
 | ---- | ---------- | ----- |
 | Captain and Crew | 0.20% | ~43 |
 | Spells and Swords | 0.20% | ~43 |
+| Poise and Poisons | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |
 | Full House | 0.10% | ~21 |
 | Pillow Investments | 0.10% | ~21 |
@@ -27,7 +28,6 @@ Diff (max vs sum): 46
 | For Penance | 0.10% | ~21 |
 | Progenitor and Protégé | 0.10% | ~21 |
 | For Love | 0.10% | ~21 |
-| Poise and Poisons | 0.10% | ~21 |
 | For Pride | 0.10% | ~21 |
 | Suns and Soldiers | 0.10% | ~21 |
 | K.O. | 0.10% | ~21 |

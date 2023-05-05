@@ -9,7 +9,7 @@ Rating: 4.76 (Ranked 113)
 | The Journey Onwards | 12.00% | ~658 |
 | Globe Trotter | 11.00% | ~603 |
 | Body and Soul | 10.00% | ~548 |
-| Ahem Ahem | 9.00% | ~493 |
+| Ahem Ahem | 9.00% | ~494 |
 | Audiophile | 7.00% | ~384 |
 | Clay Pigeon | 6.00% | ~329 |
 | Soul-Canon | 6.00% | ~329 |
@@ -18,15 +18,15 @@ Rating: 4.76 (Ranked 113)
 | Shredder | 5.00% | ~274 |
 | Happy Camper | 4.00% | ~219 |
 | Liberator | 4.00% | ~219 |
-| Fashion Faux-Pas | 3.00% | ~164 |
-| Live Wire | 3.00% | ~164 |
+| Fashion Faux-Pas | 3.00% | ~165 |
+| Live Wire | 3.00% | ~165 |
 | Arrr! | 2.00% | ~110 |
 | Fashion Victim | 2.00% | ~110 |
 | Snip Snip | 2.00% | ~110 |
 | Ça de Wizz! | 1.00% | ~55 |
 | Thing | 1.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,483 (Ranked 117)  
+Progressed: 5,484 (Ranked 117)  
 Completed: 19 (0.35%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,7 +41,7 @@ Completed: 19 (0.35%) (Ranked 108)
 | 2023-05-02 | 5,444 | 18 |
 | 2023-05-03 | 5,464 | 18 |
 | 2023-05-04 | 5,481 | 19 |
-| 2023-05-05 | 5,483 | 19 |
+| 2023-05-05 | 5,484 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@ Rating: 4.64 (Ranked 312)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 63.00% | ~3,250 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,301 |
 | Mainframe Hacker | 49.00% | ~2,527 |
 | The Spy who eliminated me | 49.00% | ~2,527 |
 | Tomorrow Never Dyes | 47.00% | ~2,424 |
@@ -37,7 +37,7 @@ Rating: 4.64 (Ranked 312)
 | Lose Another Day | 2.00% | ~103 |
 | Chairman of Deceive Inc. | 2.00% | ~103 |
 | Chief Information Officer | 1.00% | ~52 |
-| Masteries Are Forever | 0.40% | ~21 |
+| Masteries Are Forever | 0.50% | ~26 |
 | Extraction Confusion | 0.30% | ~15 |
 | Spyfall | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)

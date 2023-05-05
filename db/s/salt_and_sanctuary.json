@@ -24,7 +24,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 155944
+      "UsersEstimate": 155945
     },
     {
       "ID": "DEVOTED",
@@ -64,7 +64,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 431446
+      "UsersEstimate": 431447
     },
     {
       "ID": "HONED",
@@ -264,7 +264,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 332681
+      "UsersEstimate": 332682
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -280,7 +280,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83170
+      "UsersEstimate": 83171
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -1460,6 +1460,11 @@
     {
       "Time": "2023-05-05T02:32:10.6441519+00:00",
       "NumProgressed": 519814,
+      "NumCompleted": 1396
+    },
+    {
+      "Time": "2023-05-05T03:05:31.0611836+00:00",
+      "NumProgressed": 519816,
       "NumCompleted": 1396
     }
   ],
@@ -3533,18 +3538,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-05T02:32:10.6441514+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:31.061183+00:00",
   "EOS_NewCompleters": 7,
   "EOS_NewPlayers": 878,
   "EOS_Completed": 1396,
-  "EOS_Progressed": 519814,
-  "LastUpdate_Achievements": "2023-05-05T02:32:10.6441929+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:25:22.5206109+00:00",
+  "EOS_Progressed": 519816,
+  "LastUpdate_Achievements": "2023-05-05T03:05:31.0612145+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:13.8357216+00:00",
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 519814,
+      "Progressed": 519816,
       "Completed": 1396
     }
   ],

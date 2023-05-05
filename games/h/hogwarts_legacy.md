@@ -2,8 +2,8 @@
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
 Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 18,359  (Ranked 18)  
-Sum: 33,454 (Ranked 34)  
+Max (Character Customization): 18,393  (Ranked 18)  
+Sum: 33,493 (Ranked 34)  
 Diff (max vs sum): -16  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,14 +32,14 @@ Diff (max vs sum): -16
 | The Seeker of Knowledge | 3.00% | ~7,966 |
 | The Root of the Problem | 3.00% | ~7,966 |
 | Third Time's a Charm | 3.00% | ~7,966 |
-| The Toast of the Town | 2.00% | ~5,310 |
-| Going Through the Potions | 2.00% | ~5,310 |
-| Room with a View | 2.00% | ~5,310 |
-| Floo Around the World | 2.00% | ~5,310 |
-| The Intrepid Explorer | 2.00% | ~5,310 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,310 |
-| The Ends Petrify the Means | 2.00% | ~5,310 |
-| Raising Expectations | 2.00% | ~5,310 |
+| The Toast of the Town | 2.00% | ~5,311 |
+| Going Through the Potions | 2.00% | ~5,311 |
+| Room with a View | 2.00% | ~5,311 |
+| Floo Around the World | 2.00% | ~5,311 |
+| The Intrepid Explorer | 2.00% | ~5,311 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,311 |
+| The Ends Petrify the Means | 2.00% | ~5,311 |
+| Raising Expectations | 2.00% | ~5,311 |
 | The Good Samaritan | 1.00% | ~2,655 |
 | Put Down Roots | 1.00% | ~2,655 |
 | The Auror's Apprentice | 1.00% | ~2,655 |
@@ -54,7 +54,7 @@ Diff (max vs sum): -16
 | The Nature of the Beast | 0.30% | ~797 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,524 (Ranked 38)  
+Progressed: 265,526 (Ranked 38)  
 Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,17 +69,17 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,524 | 346 |
+| 2023-05-05 | 265,526 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,359 |
+| This game has Inclusive Character Customization | 18,393 |
 | This game has Great Boss Battles | 8,565 |
 | This game is Extremely Fun | 738 |
 | This game is Great for Beginners | 716 |
 | This game is Relaxing | 704 |
 | This game has Diverse Characters | 697 |
-| This game has Amazing Storytelling | 690 |
+| This game has Amazing Storytelling | 695 |
 | This game has Amazing Characters | 678 |
 | This game is Highly Recommended | 660 |
 | This game has Quickly Understood Controls | 607 |
@@ -130,4 +130,4 @@ Completed: 346 (0.13%) (Ranked 144)
 | 2023-05-02 | 4.78 | 18,275 | 33,258 |
 | 2023-05-03 | 4.77 | 18,328 | 33,362 |
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
-| 2023-05-05 | 4.77 | 18,359 | 33,454 |
+| 2023-05-05 | 4.77 | 18,393 | 33,493 |

@@ -32,7 +32,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -72,7 +72,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -88,7 +88,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -128,7 +128,7 @@
       "Name": "Past trauma",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -142,9 +142,9 @@
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 488
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -160,7 +160,7 @@
       "Name": "Do you trust me?",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -184,7 +184,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -192,7 +192,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -216,7 +216,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -224,7 +224,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -232,7 +232,7 @@
       "Name": "Thornbarrow",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -312,7 +312,7 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "STB_PET_HORSE",
@@ -344,7 +344,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -352,7 +352,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -384,7 +384,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -392,7 +392,7 @@
       "Name": "Spellcrafting",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -416,7 +416,7 @@
       "Name": "Ancient power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1148,6 +1148,11 @@
       "Time": "2023-05-05T01:58:24.0349102+00:00",
       "NumProgressed": 1875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T03:05:07.6874698+00:00",
+      "NumProgressed": 1876,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -1184,18 +1189,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T02:31:44.1998946+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:07.6874693+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_Completed": 1,
-  "EOS_Progressed": 1875,
-  "LastUpdate_Achievements": "2023-05-05T02:31:44.1999555+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:23:17.6573173+00:00",
+  "EOS_Progressed": 1876,
+  "LastUpdate_Achievements": "2023-05-05T03:05:07.6875213+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:57:23.5480445+00:00",
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1875,
+      "Progressed": 1876,
       "Completed": 1
     }
   ],
@@ -1206,7 +1211,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_Progress": 142,
   "Ranking_PopularitySum": 490,

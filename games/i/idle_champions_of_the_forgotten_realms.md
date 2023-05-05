@@ -18,6 +18,7 @@ Diff (max vs sum): 25
 | Beast Intentions | 0.50% | ~432 |
 | The Mad Wizard | 0.50% | ~432 |
 | The Ring of Regeneration | 0.40% | ~346 |
+| The Sanctum of the Sword | 0.30% | ~158 |
 | Get Back In The Castle | 0.30% | ~158 |
 | Were-verpowered | 0.30% | ~259 |
 | A Persistent Buzzing | 0.30% | ~259 |
@@ -36,7 +37,6 @@ Diff (max vs sum): 25
 | Frail Doesn't Mean Broken | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
-| The Sanctum of the Sword | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~173 |
 | Terror in the Dark | 0.20% | ~173 |
 | Low Initiative | 0.20% | ~173 |
@@ -499,7 +499,7 @@ Diff (max vs sum): 25
 | Overwhelming Force | 0.10% | ~86 |
 | Rescue in the Jungle | 0.10% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,496 (Ranked 59)  
+Progressed: 86,497 (Ranked 59)  
 Completed: 1,805 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,805 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,496 | 1,805 |
+| 2023-05-05 | 86,497 | 1,805 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

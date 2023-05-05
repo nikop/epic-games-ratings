@@ -6,9 +6,9 @@
       "ID": "0001",
       "SetID": "2n2feee",
       "Name": "On Deceive Inc.\u0027s Secret Service",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3301
     },
     {
       "ID": "0002",
@@ -54,9 +54,9 @@
       "ID": "0007",
       "SetID": "2n2feee",
       "Name": "Masteries Are Forever",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 115,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "0008",
@@ -1277,13 +1277,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-05T02:32:18.7818743+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:38.2541851+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_Completed": 0,
   "EOS_Progressed": 5158,
-  "LastUpdate_Achievements": "2023-05-05T02:32:18.7819091+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:25:48.814362+00:00",
+  "LastUpdate_Achievements": "2023-05-05T03:05:38.2542156+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:35.5785378+00:00",
   "AchievementSets": [
     {
       "ID": "2n2feee",

@@ -32,7 +32,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11562
+      "UsersEstimate": 11563
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -128,7 +128,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -136,7 +136,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -168,7 +168,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7883
+      "UsersEstimate": 7884
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -192,7 +192,7 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 7883
+      "UsersEstimate": 7884
     }
   ],
   "Tags": [
@@ -1330,6 +1330,11 @@
       "Time": "2023-05-05T02:32:12.3448903+00:00",
       "NumProgressed": 52556,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-05T03:05:32.527653+00:00",
+      "NumProgressed": 52557,
+      "NumCompleted": 238
     }
   ],
   "RatingHistory": [
@@ -1584,18 +1589,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T02:32:12.3448898+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:32.5276525+00:00",
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1054,
   "EOS_Completed": 238,
-  "EOS_Progressed": 52556,
-  "LastUpdate_Achievements": "2023-05-05T02:32:12.3449155+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:25:32.0795275+00:00",
+  "EOS_Progressed": 52557,
+  "LastUpdate_Achievements": "2023-05-05T03:05:32.5276774+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:21.2903457+00:00",
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 52556,
+      "Progressed": 52557,
       "Completed": 238
     }
   ],

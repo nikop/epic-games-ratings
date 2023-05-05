@@ -1002,7 +1002,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1180
+      "Count": 1181
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1020,7 +1020,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1337
+      "Count": 1338
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3898,17 +3898,23 @@
       "Rating": 4.58,
       "NumberOfAwards": 11373,
       "NumberOfAwardsMax": 1469
+    },
+    {
+      "Time": "2023-05-05T02:59:25.62537+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11375,
+      "NumberOfAwardsMax": 1469
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 122,
-  "LastChanged_Achievements": "2023-05-05T02:32:20.3933584+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:39.8436163+00:00",
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 502,
   "EOS_Completed": 223,
   "EOS_Progressed": 227758,
-  "LastUpdate_Achievements": "2023-05-05T02:32:20.3935511+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:25:37.8925652+00:00",
+  "LastUpdate_Achievements": "2023-05-05T03:05:39.8438009+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:25.6253705+00:00",
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
@@ -3918,12 +3924,12 @@
     }
   ],
   "EOS_Completed_Percentage": 0.1,
-  "LastChanged": "2023-05-04T06:59:05.4833392+00:00",
+  "LastChanged": "2023-05-05T02:59:25.6253698+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 1469,
-  "NumberOfAwards": 11373,
+  "NumberOfAwards": 11375,
   "NumberOfRatings": 15086,
   "Ranking_EOS_NewCompleters": 41,
   "Ranking_EOS_NewPlayers": 77,

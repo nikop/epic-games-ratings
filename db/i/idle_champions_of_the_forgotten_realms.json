@@ -838,9 +838,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 158
     },
     {
       "ID": "objective_completed_1194",
@@ -5054,6 +5054,11 @@
       "Time": "2023-05-05T02:32:16.265019+00:00",
       "NumProgressed": 86496,
       "NumCompleted": 1805
+    },
+    {
+      "Time": "2023-05-05T03:05:36.500838+00:00",
+      "NumProgressed": 86497,
+      "NumCompleted": 1805
     }
   ],
   "RatingHistory": [
@@ -8511,24 +8516,24 @@
   ],
   "TotalAchievementsXP": 2445,
   "TotalAchievements": 489,
-  "LastChanged_Achievements": "2023-05-05T02:32:16.2650184+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:36.5008375+00:00",
   "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 806,
   "EOS_Completed": 1805,
-  "EOS_Progressed": 86496,
-  "LastUpdate_Achievements": "2023-05-05T02:32:16.2678948+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:23:48.2576591+00:00",
+  "EOS_Progressed": 86497,
+  "LastUpdate_Achievements": "2023-05-05T03:05:36.5032357+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:57:51.0341666+00:00",
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52770,
+      "Progressed": 52771,
       "Completed": 2463
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86496,
+      "Progressed": 86497,
       "Completed": 1805
     }
   ],

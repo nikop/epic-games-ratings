@@ -8,7 +8,7 @@
       "Name": "Into the Unknown",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43215
+      "UsersEstimate": 43216
     },
     {
       "ID": "achievement_02",
@@ -16,7 +16,7 @@
       "Name": "First Shot",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43215
+      "UsersEstimate": 43216
     },
     {
       "ID": "achievement_03",
@@ -216,7 +216,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48617
+      "UsersEstimate": 48618
     },
     {
       "ID": "achievement_28",
@@ -480,7 +480,7 @@
       "Name": "Night of Terrors",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "achievement_61",
@@ -1726,6 +1726,11 @@
     {
       "Time": "2023-05-05T02:32:25.7637536+00:00",
       "NumProgressed": 540193,
+      "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-05T03:05:44.7970833+00:00",
+      "NumProgressed": 540201,
       "NumCompleted": 46
     }
   ],
@@ -5793,24 +5798,24 @@
   ],
   "TotalAchievementsXP": 1200,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-05T02:32:25.763753+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:44.7970824+00:00",
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 8313,
+  "EOS_NewPlayers": 8281,
   "EOS_Completed": 46,
-  "EOS_Progressed": 540193,
-  "LastUpdate_Achievements": "2023-05-05T02:32:25.7638461+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:26:08.2195848+00:00",
+  "EOS_Progressed": 540201,
+  "LastUpdate_Achievements": "2023-05-05T03:05:44.7971483+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:59:51.8114775+00:00",
   "AchievementSets": [
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 540193,
+      "Progressed": 540201,
       "Completed": 46
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 185637,
+      "Progressed": 185645,
       "Completed": 1412
     }
   ],

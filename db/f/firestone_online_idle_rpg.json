@@ -182,9 +182,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 109
     },
     {
       "ID": "fellowshippower",
@@ -1541,13 +1541,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 75,
-  "LastChanged_Achievements": "2023-05-05T02:31:52.5326801+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:14.8065757+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 292,
   "EOS_Completed": 1,
   "EOS_Progressed": 841,
-  "LastUpdate_Achievements": "2023-05-05T02:31:52.5327647+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:23:44.2639884+00:00",
+  "LastUpdate_Achievements": "2023-05-05T03:05:14.806659+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:57:47.3650855+00:00",
   "AchievementSets": [
     {
       "ID": "3nl4bcg",

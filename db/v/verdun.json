@@ -136,7 +136,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -240,7 +240,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11500
+      "UsersEstimate": 11501
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -296,7 +296,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 26834
+      "UsersEstimate": 26835
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -352,7 +352,7 @@
       "Name": "Manual Labour I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11074
+      "UsersEstimate": 11075
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -376,7 +376,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 32797
+      "UsersEstimate": 32798
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -384,7 +384,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -448,7 +448,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -464,7 +464,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -1635,6 +1635,11 @@
     {
       "Time": "2023-05-05T02:31:41.46224+00:00",
       "NumProgressed": 42594,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T03:05:05.2063961+00:00",
+      "NumProgressed": 42595,
       "NumCompleted": 2
     }
   ],
@@ -3005,18 +3010,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 59,
-  "LastChanged_Achievements": "2023-05-05T02:31:41.4622395+00:00",
+  "LastChanged_Achievements": "2023-05-05T03:05:05.2063955+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 863,
   "EOS_Completed": 2,
-  "EOS_Progressed": 42594,
-  "LastUpdate_Achievements": "2023-05-05T02:31:41.4623297+00:00",
-  "LastUpdate_Ratings": "2023-05-05T02:24:10.3705813+00:00",
+  "EOS_Progressed": 42595,
+  "LastUpdate_Achievements": "2023-05-05T03:05:05.2064506+00:00",
+  "LastUpdate_Ratings": "2023-05-05T02:58:09.4577019+00:00",
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 42594,
+      "Progressed": 42595,
       "Completed": 2
     }
   ],

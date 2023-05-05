@@ -9,8 +9,8 @@ Diff (max vs sum): 48
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,448 |
-| Thorough | 8.00% | ~13,158 |
+| Genin | 10.00% | ~16,449 |
+| Thorough | 8.00% | ~13,159 |
 | A thief's beginning | 7.00% | ~11,514 |
 | Tanuki Time | 7.00% | ~11,514 |
 | Disguised | 6.00% | ~9,869 |
@@ -26,12 +26,12 @@ Diff (max vs sum): 48
 | Mugen Unchained | 4.00% | ~6,579 |
 | Okkoto | 4.00% | ~6,579 |
 | Warzone | 4.00% | ~6,579 |
-| Gear up | 3.00% | ~4,934 |
-| Happy little accidents | 3.00% | ~4,934 |
-| Noboru | 3.00% | ~4,934 |
-| Prisoners | 3.00% | ~4,934 |
-| Still Rollin' | 3.00% | ~4,934 |
-| Too Early | 3.00% | ~4,934 |
+| Gear up | 3.00% | ~4,935 |
+| Happy little accidents | 3.00% | ~4,935 |
+| Noboru | 3.00% | ~4,935 |
+| Prisoners | 3.00% | ~4,935 |
+| Still Rollin' | 3.00% | ~4,935 |
+| Too Early | 3.00% | ~4,935 |
 | It's raining men | 2.00% | ~3,290 |
 | Stoned | 2.00% | ~3,290 |
 | The Old Way | 2.00% | ~3,290 |
@@ -54,7 +54,7 @@ Diff (max vs sum): 48
 | Praise the Shogun | 0.10% | ~164 |
 | Release the Kraken | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,481 (Ranked 50)  
+Progressed: 164,487 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-05-02 | 163,962 | 41 |
 | 2023-05-03 | 164,202 | 41 |
 | 2023-05-04 | 164,454 | 41 |
-| 2023-05-05 | 164,481 | 41 |
+| 2023-05-05 | 164,487 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

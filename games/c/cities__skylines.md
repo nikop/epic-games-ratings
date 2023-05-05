@@ -9,30 +9,30 @@ Diff (max vs sum): 35
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~499,454 |
-| Green Energy | 60.00% | ~422,074 |
-| Foggy Weather | 59.00% | ~415,040 |
-| Singing In The- | 59.00% | ~415,040 |
-| Unpopular Mayor | 41.00% | ~288,417 |
-| Power at Your Fingertips | 33.00% | ~232,141 |
-| City Planner | 23.00% | ~161,795 |
-| Rolling in Dough | 20.00% | ~140,691 |
-| Does My Bum Look Big In This? | 18.00% | ~126,622 |
-| Climbing the Social Ladder | 17.00% | ~119,588 |
-| Safe City | 14.00% | ~98,484 |
-| Quay-King | 11.00% | ~77,380 |
-| Lawmaker | 10.00% | ~70,346 |
-| With Canals You Can! | 10.00% | ~70,346 |
-| Nomen Est Omen | 7.00% | ~49,242 |
-| Well Informed | 6.00% | ~42,207 |
-| Fire Watch | 5.00% | ~35,173 |
-| Greenest City | 4.00% | ~28,138 |
-| Reporting! | 4.00% | ~28,138 |
-| Heavenly City | 3.00% | ~21,104 |
-| SIMulated City | 3.00% | ~21,104 |
-| The Safest Town | 3.00% | ~21,104 |
-| City in Motion | 2.00% | ~14,069 |
-| Professional Dumper | 2.00% | ~14,069 |
+| Pioneer | 71.00% | ~499,476 |
+| Green Energy | 60.00% | ~422,093 |
+| Foggy Weather | 59.00% | ~415,058 |
+| Singing In The- | 59.00% | ~415,058 |
+| Unpopular Mayor | 41.00% | ~288,430 |
+| Power at Your Fingertips | 33.00% | ~232,151 |
+| City Planner | 23.00% | ~161,802 |
+| Rolling in Dough | 20.00% | ~140,698 |
+| Does My Bum Look Big In This? | 18.00% | ~126,628 |
+| Climbing the Social Ladder | 17.00% | ~119,593 |
+| Safe City | 14.00% | ~98,488 |
+| Quay-King | 11.00% | ~77,384 |
+| Lawmaker | 10.00% | ~70,349 |
+| With Canals You Can! | 10.00% | ~70,349 |
+| Nomen Est Omen | 7.00% | ~49,244 |
+| Well Informed | 6.00% | ~42,209 |
+| Fire Watch | 5.00% | ~35,174 |
+| Greenest City | 4.00% | ~28,140 |
+| Reporting! | 4.00% | ~28,140 |
+| Heavenly City | 3.00% | ~21,105 |
+| SIMulated City | 3.00% | ~21,105 |
+| The Safest Town | 3.00% | ~21,105 |
+| City in Motion | 2.00% | ~14,070 |
+| Professional Dumper | 2.00% | ~14,070 |
 | Earthloving City | 1.00% | ~7,035 |
 | Metropolis | 1.00% | ~7,035 |
 | Higher Education | 0.80% | ~5,628 |
@@ -129,7 +129,7 @@ Diff (max vs sum): 35
 | World of Rotorcraft | 0.10% | ~703 |
 | Z00 | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,457 (Ranked 13)  
+Progressed: 703,488 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-02 | 699,651 | 6 |
 | 2023-05-03 | 701,512 | 6 |
 | 2023-05-04 | 703,273 | 6 |
-| 2023-05-05 | 703,457 | 6 |
+| 2023-05-05 | 703,488 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
