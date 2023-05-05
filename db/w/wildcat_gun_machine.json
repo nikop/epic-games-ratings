@@ -1,170 +1,15 @@
 {
   "ID": "13cba1b288ec417badb9a276cbb6d819",
   "Name": "Wildcat Gun Machine",
-  "Achievements": [
-    {
-      "ID": "2_cats_1_3",
-      "SetID": "9epame3",
-      "Name": "i\u0027ll be back",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "all_cats_1_4",
-      "SetID": "9epame3",
-      "Name": "like a cat",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "all_dash_1_1",
-      "SetID": "9epame3",
-      "Name": "can\u0027t touch this",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "all_grenades_1_2",
-      "SetID": "9epame3",
-      "Name": "grenadier",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "all_guns_1_7",
-      "SetID": "9epame3",
-      "Name": "armed to the teeth",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "all_movement_1_0",
-      "SetID": "9epame3",
-      "Name": "fleet of foot",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "all_pistols_1_6",
-      "SetID": "9epame3",
-      "Name": "armed and dangerous",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "chain_dash_1_8",
-      "SetID": "9epame3",
-      "Name": "chain chain chain",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "eye_beast_1_17",
-      "SetID": "9epame3",
-      "Name": "zinnerblilie, eye of the beast",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "heart_beast_1_15",
-      "SetID": "9epame3",
-      "Name": "votolato, heart of the beast",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "meat_sack_1_9",
-      "SetID": "9epame3",
-      "Name": "meat sack",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "mind_beast_1_16",
-      "SetID": "9epame3",
-      "Name": "serbian, mind of the beast",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "nosraep_1_19",
-      "SetID": "9epame3",
-      "Name": "nosraep, true form of the beast",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "remnants_1_18",
-      "SetID": "9epame3",
-      "Name": "the remnants",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "rot_belcher_1_11",
-      "SetID": "9epame3",
-      "Name": "rot belcher",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "sluggoth_1_12",
-      "SetID": "9epame3",
-      "Name": "sluggoth",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "spawning_queen_1_10",
-      "SetID": "9epame3",
-      "Name": "spawning queen",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "special_weapon_1_5",
-      "SetID": "9epame3",
-      "Name": "lock \u0027n\u0027 load",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "unspeakable_1_14",
-      "SetID": "9epame3",
-      "Name": "defeat unspeakable horror",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "unthinkable_1_13",
-      "SetID": "9epame3",
-      "Name": "unthinkable horror",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    }
-  ],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "wildcat-gun-machine-c66c4e",
+  "Ranking_Rating": 900,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 3.87,
   "RatingHistory": [
     {
       "Time": "2022-12-09T16:58:13.227819+00:00",
@@ -355,16 +200,180 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T16:07:18.7420461+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:18.7420592+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:13.3198674+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:43.2646721+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "2_cats_1_3",
+      "SetID": "9epame3",
+      "Name": "i\u0027ll be back",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_cats_1_4",
+      "SetID": "9epame3",
+      "Name": "like a cat",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_dash_1_1",
+      "SetID": "9epame3",
+      "Name": "can\u0027t touch this",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_grenades_1_2",
+      "SetID": "9epame3",
+      "Name": "grenadier",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_guns_1_7",
+      "SetID": "9epame3",
+      "Name": "armed to the teeth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_movement_1_0",
+      "SetID": "9epame3",
+      "Name": "fleet of foot",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_pistols_1_6",
+      "SetID": "9epame3",
+      "Name": "armed and dangerous",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chain_dash_1_8",
+      "SetID": "9epame3",
+      "Name": "chain chain chain",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "eye_beast_1_17",
+      "SetID": "9epame3",
+      "Name": "zinnerblilie, eye of the beast",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "heart_beast_1_15",
+      "SetID": "9epame3",
+      "Name": "votolato, heart of the beast",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "meat_sack_1_9",
+      "SetID": "9epame3",
+      "Name": "meat sack",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mind_beast_1_16",
+      "SetID": "9epame3",
+      "Name": "serbian, mind of the beast",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "nosraep_1_19",
+      "SetID": "9epame3",
+      "Name": "nosraep, true form of the beast",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "remnants_1_18",
+      "SetID": "9epame3",
+      "Name": "the remnants",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "rot_belcher_1_11",
+      "SetID": "9epame3",
+      "Name": "rot belcher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sluggoth_1_12",
+      "SetID": "9epame3",
+      "Name": "sluggoth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "spawning_queen_1_10",
+      "SetID": "9epame3",
+      "Name": "spawning queen",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "special_weapon_1_5",
+      "SetID": "9epame3",
+      "Name": "lock \u0027n\u0027 load",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unspeakable_1_14",
+      "SetID": "9epame3",
+      "Name": "defeat unspeakable horror",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unthinkable_1_13",
+      "SetID": "9epame3",
+      "Name": "unthinkable horror",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9epame3",
@@ -373,20 +382,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-27T20:57:54.4211656+00:00",
-  "FirstSeenRating": "2022-12-09T16:58:13.2278182+00:00",
-  "ProductSlug": "wildcat-gun-machine-c66c4e",
-  "Rating": 3.87,
-  "Ranking_Rating": 900,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:42:11.7379667+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:10.3966316+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2022-12-09T16:58:13.2278182+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:11.7379667+00:00",
+  "LastChanged": "2023-04-27T20:57:54.4211656+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:09.988075+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:36.2119111+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:38.3950013+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:09.9880898+00:00"
 }

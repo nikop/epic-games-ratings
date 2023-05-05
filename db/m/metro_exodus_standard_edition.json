@@ -1,82 +1,16 @@
 {
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 5824
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 628
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 565
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 561
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 599
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 590
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 590
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 379
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 557
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 533
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 276
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 109
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "metro-exodus",
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 55,
+  "Ranking_PopularitySum": 76,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.79,
+  "NumberOfRatings": 7529,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -3097,16 +3031,93 @@
       "NumberOfAwardsMax": 5824
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:07:10.9151395+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 10723,
+  "NumberOfAwardsMax": 5824,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 5824
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 628
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 565
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 561
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 599
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 590
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 590
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 379
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 557
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 533
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 276
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 109
+    }
+  ],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:10.9151465+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:10.6517462+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:22.2964488+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "2npnlc4",
@@ -3115,21 +3126,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T13:03:57.7825507+00:00",
-  "ProductSlug": "metro-exodus",
-  "Rating": 4.79,
-  "Ranking_Rating": 91,
-  "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 76,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 7529,
-  "NumberOfAwards": 10723,
-  "NumberOfAwardsMax": 5824,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
+  "LastChanged": "2023-05-05T13:03:57.7825507+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:04.4821652+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:17.1644896+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:16.8415285+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:04.4821703+00:00"
 }

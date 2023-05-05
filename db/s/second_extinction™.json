@@ -1,28 +1,16 @@
 {
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 393
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 23
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "second-extinction",
+  "Ranking_Rating": 867,
+  "Ranking_Popularity": 201,
+  "Ranking_PopularitySum": 293,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.06,
+  "NumberOfRatings": 617,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -886,16 +874,39 @@
       "NumberOfAwardsMax": 393
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:07:53.5478001+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 440,
+  "NumberOfAwardsMax": 393,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 393
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 23
+    }
+  ],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:53.547804+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:25.0768207+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:32.6111017+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "9pom9m2",
@@ -904,21 +915,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T08:59:19.153932+00:00",
-  "ProductSlug": "second-extinction",
-  "Rating": 4.06,
-  "Ranking_Rating": 867,
-  "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 293,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 617,
-  "NumberOfAwards": 440,
-  "NumberOfAwardsMax": 393,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
+  "LastChanged": "2023-05-05T08:59:19.153932+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:35.8533708+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:27.787526+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:26.1224067+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:35.8533749+00:00"
 }

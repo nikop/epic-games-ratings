@@ -1,6 +1,53 @@
 {
   "ID": "e9f8d704869e4bd1a2d4e065c8c86f6e",
   "Name": "Remains",
+  "ProductSlug": "remains-dcb937",
+  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 8,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 5,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:47:43.8172131+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T04:00:52.6988279+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:07.0548549+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T03:05:00.8498137+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T04:05:49.9273914+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T15:42:11.2047891+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 7,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "Achievement_GarbageCollector",
@@ -59,50 +106,6 @@
       "UsersEstimate": 8
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T20:47:43.8172131+00:00",
-      "NumProgressed": 3,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T04:00:52.6988279+00:00",
-      "NumProgressed": 4,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T22:06:07.0548549+00:00",
-      "NumProgressed": 5,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T03:05:00.8498137+00:00",
-      "NumProgressed": 6,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T04:05:49.9273914+00:00",
-      "NumProgressed": 7,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T15:42:11.2047891+00:00",
-      "NumProgressed": 8,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 7,
-  "LastChanged_Achievements": "2023-05-05T16:07:21.5650633+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 5,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 8,
-  "LastUpdate_Achievements": "2023-05-05T16:07:21.5650709+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:06.4160874+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:39.151674+00:00",
   "AchievementSets": [
     {
       "ID": "436h0ek",
@@ -111,11 +114,9 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "ProductSlug": "remains-dcb937",
-  "Ranking_EOS_Progress": 311,
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 193
+  "LastChanged_Achievements": "2023-05-05T17:09:12.0088061+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:31.1999703+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:33.8284042+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:12.0089274+00:00"
 }

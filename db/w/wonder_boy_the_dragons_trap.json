@@ -1,82 +1,16 @@
 {
   "ID": "e1e92771f6774072bb1b8d0a0a6197f7",
   "Name": "Wonder Boy The Dragons Trap",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 59
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 51
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 45
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "",
-      "Type": "",
-      "Count": 32
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "",
-      "Type": "",
-      "Count": 33
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 43
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 53
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 33
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 22
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "wonder-boy-the-dragons-trap-26381d",
+  "Ranking_Rating": 621,
+  "Ranking_Popularity": 378,
+  "Ranking_PopularitySum": 303,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.44,
+  "NumberOfRatings": 3047,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:29.5801017+00:00",
@@ -1067,16 +1001,93 @@
       "NumberOfAwardsMax": 59
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:07:46.6195668+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 386,
+  "NumberOfAwardsMax": 59,
+  "MaxAwardTitle": "Relaxing",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 59
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 51
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 45
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "",
+      "Type": "",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
+      "Count": 33
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 33
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 22
+    }
+  ],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:46.6195706+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:56.1156722+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:13.5009288+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "10e5ndd",
@@ -1085,21 +1096,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-29T05:58:33.4798646+00:00",
-  "ProductSlug": "wonder-boy-the-dragons-trap-26381d",
-  "Rating": 4.44,
-  "Ranking_Rating": 621,
-  "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 303,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:14:35.8235457+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 3047,
-  "NumberOfAwards": 386,
-  "NumberOfAwardsMax": 59,
-  "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:14:35.8235457+00:00",
+  "LastChanged": "2023-04-29T05:58:33.4798646+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:30.4797879+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:07.1524927+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:06.3380749+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:30.4797912+00:00"
 }

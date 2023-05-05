@@ -1,6 +1,37 @@
 {
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
+  "ProductSlug": "trifox-b361b7",
+  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:28.8391986+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 78,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.28,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:34.1090375+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_BYEBYEWILSON",
@@ -371,32 +402,6 @@
       "UsersEstimate": 4
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:14:34.1090375+00:00",
-      "NumProgressed": 78,
-      "NumCompleted": 1
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:28.8391986+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T16:07:53.17658+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 1,
-  "EOS_Progressed": 78,
-  "LastUpdate_Achievements": "2023-05-05T16:07:53.1766137+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:08.8576992+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:21.16406+00:00",
   "AchievementSets": [
     {
       "ID": "cfld5bl",
@@ -405,16 +410,12 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 1.28,
-  "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
-  "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 252,
-  "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-15T15:02:54.3970273+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
+  "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:35.7260925+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:16.0570916+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:15.6710969+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:35.7261302+00:00"
 }

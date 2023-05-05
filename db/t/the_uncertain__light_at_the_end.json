@@ -1,6 +1,104 @@
 {
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
+  "ProductSlug": "the-uncertain-light-at-the-end",
+  "Ranking_Rating": 899,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Completed": 74,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 3.88,
+  "RatingHistory": [
+    {
+      "Time": "2022-10-10T07:33:50.0588665+00:00",
+      "Rating": 3.85
+    },
+    {
+      "Time": "2022-10-23T09:02:40.483965+00:00",
+      "Rating": 3.9
+    },
+    {
+      "Time": "2022-10-27T09:32:38.6301765+00:00",
+      "Rating": 3.95
+    },
+    {
+      "Time": "2022-10-28T09:32:39.0320935+00:00",
+      "Rating": 3.96
+    },
+    {
+      "Time": "2022-11-03T10:33:37.9321547+00:00",
+      "Rating": 4
+    },
+    {
+      "Time": "2022-11-06T10:58:40.7621266+00:00",
+      "Rating": 3.96
+    },
+    {
+      "Time": "2022-11-27T14:58:32.5628963+00:00",
+      "Rating": 4
+    },
+    {
+      "Time": "2022-12-27T02:02:25.8960129+00:00",
+      "Rating": 3.94
+    },
+    {
+      "Time": "2023-03-31T05:58:45.8169592+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T16:58:18.4820763+00:00",
+      "Rating": 3.88,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 406,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 2,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.23,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:44.5175392+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-26T04:08:55.9787848+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-26T09:09:23.3260554+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-27T23:05:45.1847328+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-29T20:04:53.7325869+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-04T08:06:39.909926+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 5
+    }
+  ],
+  "TotalAchievements": 29,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "80lvl_Gamer",
@@ -235,95 +333,6 @@
       "UsersEstimate": 57
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:44.5175392+00:00",
-      "NumProgressed": 401,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-26T04:08:55.9787848+00:00",
-      "NumProgressed": 402,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-26T09:09:23.3260554+00:00",
-      "NumProgressed": 403,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-27T23:05:45.1847328+00:00",
-      "NumProgressed": 404,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-29T20:04:53.7325869+00:00",
-      "NumProgressed": 405,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-05-04T08:06:39.909926+00:00",
-      "NumProgressed": 406,
-      "NumCompleted": 5
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-10-10T07:33:50.0588665+00:00",
-      "Rating": 3.85
-    },
-    {
-      "Time": "2022-10-23T09:02:40.483965+00:00",
-      "Rating": 3.9
-    },
-    {
-      "Time": "2022-10-27T09:32:38.6301765+00:00",
-      "Rating": 3.95
-    },
-    {
-      "Time": "2022-10-28T09:32:39.0320935+00:00",
-      "Rating": 3.96
-    },
-    {
-      "Time": "2022-11-03T10:33:37.9321547+00:00",
-      "Rating": 4
-    },
-    {
-      "Time": "2022-11-06T10:58:40.7621266+00:00",
-      "Rating": 3.96
-    },
-    {
-      "Time": "2022-11-27T14:58:32.5628963+00:00",
-      "Rating": 4
-    },
-    {
-      "Time": "2022-12-27T02:02:25.8960129+00:00",
-      "Rating": 3.94
-    },
-    {
-      "Time": "2023-03-31T05:58:45.8169592+00:00",
-      "Rating": 3.94,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T16:58:18.4820763+00:00",
-      "Rating": 3.88,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T16:08:21.1365163+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
-  "EOS_Completed": 5,
-  "EOS_Progressed": 406,
-  "LastUpdate_Achievements": "2023-05-05T16:08:21.1365401+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:57.2978429+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:34.8464143+00:00",
   "AchievementSets": [
     {
       "ID": "ek310c",
@@ -332,20 +341,12 @@
       "Completed": 5
     }
   ],
-  "EOS_Completed_Percentage": 1.23,
-  "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
-  "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
-  "ProductSlug": "the-uncertain-light-at-the-end",
-  "Rating": 3.88,
-  "Ranking_Rating": 899,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 190,
-  "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
-  "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
-  "Ranking_EOS_NewPlayers": 212
+  "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
+  "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:56.0528134+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:35.0221591+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:27.0824658+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:56.0528356+00:00"
 }

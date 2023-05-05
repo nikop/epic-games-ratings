@@ -1,6 +1,112 @@
 {
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
+  "ProductSlug": "dungeon-drafters-82c40a",
+  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-29T19:56:51.5139219+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 21,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-27T15:02:34.561475+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T17:01:34.7176422+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T05:00:00.3440097+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T09:01:15.3978586+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T22:01:41.6068726+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T04:02:52.226122+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T09:02:15.0290371+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T19:02:27.1160177+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T22:02:11.500231+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T02:01:48.7328926+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T22:00:34.9460096+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T21:00:24.2716541+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T01:58:35.9151637+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T07:00:44.0739425+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T09:03:19.9397562+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:23.4487925+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "DD_complete",
@@ -323,107 +429,6 @@
       "UsersEstimate": 1
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-27T15:02:34.561475+00:00",
-      "NumProgressed": 5,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T17:01:34.7176422+00:00",
-      "NumProgressed": 6,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T05:00:00.3440097+00:00",
-      "NumProgressed": 7,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T09:01:15.3978586+00:00",
-      "NumProgressed": 8,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T22:01:41.6068726+00:00",
-      "NumProgressed": 10,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T04:02:52.226122+00:00",
-      "NumProgressed": 11,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T09:02:15.0290371+00:00",
-      "NumProgressed": 12,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T19:02:27.1160177+00:00",
-      "NumProgressed": 13,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T22:02:11.500231+00:00",
-      "NumProgressed": 14,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T02:01:48.7328926+00:00",
-      "NumProgressed": 15,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T22:00:34.9460096+00:00",
-      "NumProgressed": 16,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T21:00:24.2716541+00:00",
-      "NumProgressed": 17,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T01:58:35.9151637+00:00",
-      "NumProgressed": 18,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T07:00:44.0739425+00:00",
-      "NumProgressed": 19,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T09:03:19.9397562+00:00",
-      "NumProgressed": 20,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T01:58:23.4487925+00:00",
-      "NumProgressed": 21,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-29T19:56:51.5139219+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 40,
-  "LastChanged_Achievements": "2023-05-05T16:07:29.5731521+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 11,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 21,
-  "LastUpdate_Achievements": "2023-05-05T16:07:29.5732216+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:51.9006624+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:51.026904+00:00",
   "AchievementSets": [
     {
       "ID": "3b8n56h",
@@ -432,16 +437,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
-  "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 293,
-  "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-29T19:56:51.5139174+00:00",
-  "Ranking_EOS_NewPlayers": 171
+  "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
+  "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
+  "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:17.9828557+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:38.9411894+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:44.092828+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:17.982908+00:00"
 }

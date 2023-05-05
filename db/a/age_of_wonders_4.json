@@ -1,9 +1,15 @@
 {
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
-  "Achievements": [],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "age-of-wonders-4",
+  "Ranking_Rating": 838,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -18,16 +24,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:03:10.8721184+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:10.8721675+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:32.9424945+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:38.0281807+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "7132754",
@@ -42,20 +51,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T07:59:25.6879067+00:00",
-  "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
-  "ProductSlug": "age-of-wonders-4",
-  "Rating": 4.15,
-  "Ranking_Rating": 838,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
+  "LastChanged": "2023-05-05T07:59:25.6879067+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:04:36.470668+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:33.2846548+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:31.082551+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:04:36.4706953+00:00"
 }

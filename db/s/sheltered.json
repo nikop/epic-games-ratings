@@ -1,16 +1,16 @@
 {
   "ID": "3b550d92911244558770b68c5a812a5d",
   "Name": "Sheltered",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 264
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "sheltered",
+  "Ranking_Rating": 642,
+  "Ranking_Popularity": 234,
+  "Ranking_PopularitySum": 335,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.42,
+  "NumberOfRatings": 877,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.2392679+00:00",
@@ -673,30 +673,31 @@
       "NumberOfAwardsMax": 264
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:48.9100245+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:37.791604+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:22.1614796+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-07T18:56:55.1233892+00:00",
-  "ProductSlug": "sheltered",
-  "Rating": 4.42,
-  "Ranking_Rating": 642,
-  "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 335,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 877,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 264,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 264
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-07T18:56:55.1233892+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:21.2813729+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:14.7546245+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:49.0531795+00:00"
 }

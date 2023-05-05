@@ -1,70 +1,16 @@
 {
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 965
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 972
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 953
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 1026
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "This game has",
-      "Type": "Realistic Visuals",
-      "Count": 868
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 987
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 730
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 842
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 744
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 1038
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "world-of-warships",
+  "Ranking_Rating": 635,
+  "Ranking_Popularity": 130,
+  "Ranking_PopularitySum": 81,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.43,
+  "NumberOfRatings": 4733,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -4094,32 +4040,93 @@
       "Rating": 4.43,
       "NumberOfAwards": 9125,
       "NumberOfAwardsMax": 1038
+    },
+    {
+      "Time": "2023-05-05T17:02:57.5345202+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 9129,
+      "NumberOfAwardsMax": 1038
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:47.7926031+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:42.7157185+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:04.1795462+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T13:03:29.9451923+00:00",
-  "ProductSlug": "world-of-warships",
-  "Rating": 4.43,
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 130,
-  "Ranking_PopularitySum": 81,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 4733,
-  "NumberOfAwards": 9125,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 9129,
   "NumberOfAwardsMax": 1038,
   "MaxAwardTitle": "Relaxing",
+  "Tags": [
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 966
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 972
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 953
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1026
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 868
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 987
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 730
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 845
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 744
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 1038
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-05T17:02:57.5345201+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:57.1083744+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:57.5345207+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:05:01.3360094+00:00"
 }

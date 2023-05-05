@@ -1,16 +1,16 @@
 {
   "ID": "aa5ef9d2f8394731a034504c562e292c",
   "Name": "Bad North",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "",
-      "Type": "",
-      "Count": 84
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "bad-north",
+  "Ranking_Rating": 234,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.68,
+  "NumberOfRatings": 859,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.501657+00:00",
@@ -564,29 +564,30 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:37.9191293+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:22.6369052+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:12.4214337+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T20:59:32.7003686+00:00",
-  "ProductSlug": "bad-north",
-  "Rating": 4.68,
-  "Ranking_Rating": 234,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 859,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
+      "Count": 84
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:59.5016567+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-02T20:59:32.7003686+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:10.22869+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:04.4302473+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:42.0342715+00:00"
 }

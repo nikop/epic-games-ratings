@@ -37,10 +37,10 @@ Diff (max vs sum): -39
 | It was worth a shot | 1.00% | ~8 |
 | Cosmic Horror | 1.00% | ~8 |
 | Ghostbuster | 0.90% | ~7 |
+| Expert | 0.70% | ~5 |
 | Tourist Korallov | 0.70% | ~5 |
 | Cheeki Breeki | 0.50% | ~4 |
 | It's a classic! | 0.50% | ~4 |
-| Expert | 0.50% | ~4 |
 | Comrade Yogi | 0.40% | ~3 |
 | Mystical relics | 0.30% | ~2 |
 | 27 Club | 0.00% | ~0 |

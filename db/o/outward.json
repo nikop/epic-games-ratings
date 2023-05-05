@@ -1,619 +1,16 @@
 {
   "ID": "viola",
   "Name": "Outward Definitive Edition",
-  "Achievements": [
-    {
-      "ID": "AFortressToppled_14",
-      "SetID": "c4hee28",
-      "Name": "A Fortress Toppled!",
-      "Percentage": 16,
-      "XP": 15,
-      "UsersEstimate": 370
-    },
-    {
-      "ID": "AceDetective_9",
-      "SetID": "c4hee28",
-      "Name": "Ace Detective",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 185
-    },
-    {
-      "ID": "AncestorsPride_13",
-      "SetID": "c4hee28",
-      "Name": "Ancestor\u0027s Pride",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 116
-    },
-    {
-      "ID": "ApexPredator_27",
-      "SetID": "c4hee28",
-      "Name": "Apex Predator",
-      "Percentage": 16,
-      "XP": 30,
-      "UsersEstimate": 370
-    },
-    {
-      "ID": "BloodAndJustice_50",
-      "SetID": "c4hee28",
-      "Name": "Blood and justice",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 139
-    },
-    {
-      "ID": "CordonBleu_28",
-      "SetID": "c4hee28",
-      "Name": "Cordon Bleu",
-      "Percentage": 43,
-      "XP": 15,
-      "UsersEstimate": 994
-    },
-    {
-      "ID": "CrowdPleaser",
-      "SetID": "c4hee28",
-      "Name": "Crowd Pleaser.",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 46
-    },
-    {
-      "ID": "Encyclopedic_30",
-      "SetID": "c4hee28",
-      "Name": "Encyclopedic!",
-      "Percentage": 20,
-      "XP": 20,
-      "UsersEstimate": 462
-    },
-    {
-      "ID": "Eureka_23",
-      "SetID": "c4hee28",
-      "Name": "Eureka",
-      "Percentage": 31,
-      "XP": 10,
-      "UsersEstimate": 717
-    },
-    {
-      "ID": "ExceptionalSkill_24",
-      "SetID": "c4hee28",
-      "Name": "Exceptional Skill",
-      "Percentage": 22,
-      "XP": 30,
-      "UsersEstimate": 509
-    },
-    {
-      "ID": "ForAllAurai_8",
-      "SetID": "c4hee28",
-      "Name": "For All Aurai",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 92
-    },
-    {
-      "ID": "GiftfromtheAncestors_34",
-      "SetID": "c4hee28",
-      "Name": "Gift from the Ancestors",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 185
-    },
-    {
-      "ID": "HoldmyMeadandWatchThis_43",
-      "SetID": "c4hee28",
-      "Name": "Hold my Mead and Watch This",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 139
-    },
-    {
-      "ID": "HomeSweetHome_25",
-      "SetID": "c4hee28",
-      "Name": "Home Sweet Home",
-      "Percentage": 22,
-      "XP": 15,
-      "UsersEstimate": 509
-    },
-    {
-      "ID": "HouseofCards_19",
-      "SetID": "c4hee28",
-      "Name": "House of Cards",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 162
-    },
-    {
-      "ID": "LegacyOfaMasterHunter_55",
-      "SetID": "c4hee28",
-      "Name": "Legacy of a master hunter",
-      "Percentage": 0.4,
-      "XP": 30,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "LetEmEatMagma",
-      "SetID": "c4hee28",
-      "Name": "Let \u2018em eat magma!",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 185
-    },
-    {
-      "ID": "LightofLevant_18",
-      "SetID": "c4hee28",
-      "Name": "Light of Levant",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 69
-    },
-    {
-      "ID": "MagicIsaScience_58",
-      "SetID": "c4hee28",
-      "Name": "Magic is a science",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 185
-    },
-    {
-      "ID": "MasterofAurai_20",
-      "SetID": "c4hee28",
-      "Name": "Master of Aurai",
-      "Percentage": 0.3,
-      "XP": 90,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "MemoryOfALegend_51",
-      "SetID": "c4hee28",
-      "Name": "Memory of a legend",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 92
-    },
-    {
-      "ID": "PerfectDefense_31",
-      "SetID": "c4hee28",
-      "Name": "Perfect Defense",
-      "Percentage": 2,
-      "XP": 90,
-      "UsersEstimate": 46
-    },
-    {
-      "ID": "PowerToThePeople",
-      "SetID": "c4hee28",
-      "Name": "Power! To! The People!",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 46
-    },
-    {
-      "ID": "ReadyforSummer_41",
-      "SetID": "c4hee28",
-      "Name": "Ready for Summer",
-      "Percentage": 51,
-      "XP": 10,
-      "UsersEstimate": 1179
-    },
-    {
-      "ID": "ReadyforWinter_42",
-      "SetID": "c4hee28",
-      "Name": "Ready for Winter",
-      "Percentage": 64,
-      "XP": 10,
-      "UsersEstimate": 1480
-    },
-    {
-      "ID": "ScienceTroglodyte_29",
-      "SetID": "c4hee28",
-      "Name": "Science, Troglodyte!",
-      "Percentage": 23,
-      "XP": 15,
-      "UsersEstimate": 532
-    },
-    {
-      "ID": "ScourgeSlayer_26",
-      "SetID": "c4hee28",
-      "Name": "Scourge Slayer",
-      "Percentage": 25,
-      "XP": 30,
-      "UsersEstimate": 578
-    },
-    {
-      "ID": "StrangeAmalgams_53",
-      "SetID": "c4hee28",
-      "Name": "Strange amalgams",
-      "Percentage": 13,
-      "XP": 30,
-      "UsersEstimate": 301
-    },
-    {
-      "ID": "Tapped_22",
-      "SetID": "c4hee28",
-      "Name": "Tapped!",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 809
-    },
-    {
-      "ID": "TheAbsolutePinnacle",
-      "SetID": "c4hee28",
-      "Name": "The Absolute Pinnacle.",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "TheBloodIsLife_54",
-      "SetID": "c4hee28",
-      "Name": "The blood is life",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 23
-    },
-    {
-      "ID": "ThePowerOfAmbition_45",
-      "SetID": "c4hee28",
-      "Name": "The power of ambition",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 162
-    },
-    {
-      "ID": "ThePowerofFaith_4",
-      "SetID": "c4hee28",
-      "Name": "The Power of Faith",
-      "Percentage": 13,
-      "XP": 10,
-      "UsersEstimate": 301
-    },
-    {
-      "ID": "ThePowerofFamily_2",
-      "SetID": "c4hee28",
-      "Name": "The Power of Family",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 370
-    },
-    {
-      "ID": "ThePowerofFreedom_3",
-      "SetID": "c4hee28",
-      "Name": "The Power of Freedom",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 208
-    },
-    {
-      "ID": "TheStuffOfLegends",
-      "SetID": "c4hee28",
-      "Name": "The stuff of legends.",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 162
-    },
-    {
-      "ID": "TheyllTellStoriesAboutThis_35",
-      "SetID": "c4hee28",
-      "Name": "They\u0027ll Tell Stories About This",
-      "Percentage": 1,
-      "XP": 90,
-      "UsersEstimate": 23
-    },
-    {
-      "ID": "ThisWasAMistake",
-      "SetID": "c4hee28",
-      "Name": "This was a mistake...",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 69
-    },
-    {
-      "ID": "ThroughFireAndFlame",
-      "SetID": "c4hee28",
-      "Name": "Through fire and flame.",
-      "Percentage": 0.8,
-      "XP": 30,
-      "UsersEstimate": 18
-    },
-    {
-      "ID": "VanquisherOfNightmares_52",
-      "SetID": "c4hee28",
-      "Name": "Vanquisher of nightmares",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 23
-    },
-    {
-      "ID": "VentureOutward_21",
-      "SetID": "c4hee28",
-      "Name": "Venture Outward",
-      "Percentage": 74,
-      "XP": 10,
-      "UsersEstimate": 1711
-    },
-    {
-      "ID": "YourActionsDefineYou_49",
-      "SetID": "c4hee28",
-      "Name": "Your actions define you",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 46
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 30
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 31
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 31
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 25
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:49.1218315+00:00",
-      "NumProgressed": 2267,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-25T22:05:41.2703345+00:00",
-      "NumProgressed": 2268,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T04:03:27.9899053+00:00",
-      "NumProgressed": 2269,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T16:00:22.6437245+00:00",
-      "NumProgressed": 2270,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T19:02:17.5953523+00:00",
-      "NumProgressed": 2271,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T20:00:31.5426878+00:00",
-      "NumProgressed": 2272,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T23:01:54.0992478+00:00",
-      "NumProgressed": 2273,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T00:00:15.3595516+00:00",
-      "NumProgressed": 2274,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T09:36:22.4197538+00:00",
-      "NumProgressed": 2275,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T14:01:22.8871422+00:00",
-      "NumProgressed": 2276,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T17:03:00.9862247+00:00",
-      "NumProgressed": 2277,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T20:02:25.5826826+00:00",
-      "NumProgressed": 2278,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T21:03:21.1952633+00:00",
-      "NumProgressed": 2279,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T02:03:02.0904264+00:00",
-      "NumProgressed": 2280,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T04:02:55.4330097+00:00",
-      "NumProgressed": 2282,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T09:02:16.9659863+00:00",
-      "NumProgressed": 2283,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T16:03:08.3306031+00:00",
-      "NumProgressed": 2284,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T20:00:25.181102+00:00",
-      "NumProgressed": 2285,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T02:04:22.0307178+00:00",
-      "NumProgressed": 2288,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T17:02:16.5306302+00:00",
-      "NumProgressed": 2289,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T18:03:10.746+00:00",
-      "NumProgressed": 2290,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T22:03:22.2173111+00:00",
-      "NumProgressed": 2291,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T16:03:29.4305435+00:00",
-      "NumProgressed": 2292,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-02T04:02:36.1122786+00:00",
-      "NumProgressed": 2293,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-02T17:03:48.88005+00:00",
-      "NumProgressed": 2294,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-02T19:03:40.7887936+00:00",
-      "NumProgressed": 2295,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-03T05:04:00.0991061+00:00",
-      "NumProgressed": 2296,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-03T06:03:15.8689238+00:00",
-      "NumProgressed": 2297,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-03T15:03:32.997451+00:00",
-      "NumProgressed": 2298,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T13:09:19.8959896+00:00",
-      "NumProgressed": 2299,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T17:03:41.3439015+00:00",
-      "NumProgressed": 2300,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T18:03:51.3393121+00:00",
-      "NumProgressed": 2301,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T19:03:30.3886549+00:00",
-      "NumProgressed": 2302,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T19:39:46.8832676+00:00",
-      "NumProgressed": 2303,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T21:05:38.6280088+00:00",
-      "NumProgressed": 2304,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T22:39:20.5317969+00:00",
-      "NumProgressed": 2305,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T05:04:53.4980456+00:00",
-      "NumProgressed": 2306,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T06:05:20.0212791+00:00",
-      "NumProgressed": 2307,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T07:05:22.6854151+00:00",
-      "NumProgressed": 2309,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T08:05:35.5779878+00:00",
-      "NumProgressed": 2310,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T12:05:34.9349831+00:00",
-      "NumProgressed": 2312,
-      "NumCompleted": 1
-    }
-  ],
+  "ProductSlug": "outward",
+  "Ranking_Rating": 466,
+  "Ranking_Popularity": 440,
+  "Ranking_PopularitySum": 341,
+  "Ranking_EOS_Progress": 137,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.55,
+  "NumberOfRatings": 266,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -1007,16 +404,630 @@
       "NumberOfAwardsMax": 31
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 42,
-  "LastChanged_Achievements": "2023-05-05T16:07:37.8625434+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 35,
-  "EOS_Completed": 1,
+  "ReviewsDisabled": true,
+  "NumberOfAwards": 238,
+  "NumberOfAwardsMax": 31,
+  "MaxAwardTitle": "Amazing Characters",
+  "Tags": [
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 30
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 31
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 31
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 25
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 2312,
-  "LastUpdate_Achievements": "2023-05-05T16:07:37.8625791+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:25.3086483+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:12.147074+00:00",
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 35,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.04,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:49.1218315+00:00",
+      "NumProgressed": 2267,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-25T22:05:41.2703345+00:00",
+      "NumProgressed": 2268,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T04:03:27.9899053+00:00",
+      "NumProgressed": 2269,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T16:00:22.6437245+00:00",
+      "NumProgressed": 2270,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T19:02:17.5953523+00:00",
+      "NumProgressed": 2271,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T20:00:31.5426878+00:00",
+      "NumProgressed": 2272,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T23:01:54.0992478+00:00",
+      "NumProgressed": 2273,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T00:00:15.3595516+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T09:36:22.4197538+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T14:01:22.8871422+00:00",
+      "NumProgressed": 2276,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T17:03:00.9862247+00:00",
+      "NumProgressed": 2277,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T20:02:25.5826826+00:00",
+      "NumProgressed": 2278,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T21:03:21.1952633+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T02:03:02.0904264+00:00",
+      "NumProgressed": 2280,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T04:02:55.4330097+00:00",
+      "NumProgressed": 2282,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T09:02:16.9659863+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T16:03:08.3306031+00:00",
+      "NumProgressed": 2284,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T20:00:25.181102+00:00",
+      "NumProgressed": 2285,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T02:04:22.0307178+00:00",
+      "NumProgressed": 2288,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T17:02:16.5306302+00:00",
+      "NumProgressed": 2289,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T18:03:10.746+00:00",
+      "NumProgressed": 2290,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T22:03:22.2173111+00:00",
+      "NumProgressed": 2291,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T16:03:29.4305435+00:00",
+      "NumProgressed": 2292,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-02T04:02:36.1122786+00:00",
+      "NumProgressed": 2293,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-02T17:03:48.88005+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-02T19:03:40.7887936+00:00",
+      "NumProgressed": 2295,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-03T05:04:00.0991061+00:00",
+      "NumProgressed": 2296,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-03T06:03:15.8689238+00:00",
+      "NumProgressed": 2297,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-03T15:03:32.997451+00:00",
+      "NumProgressed": 2298,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T13:09:19.8959896+00:00",
+      "NumProgressed": 2299,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T17:03:41.3439015+00:00",
+      "NumProgressed": 2300,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T18:03:51.3393121+00:00",
+      "NumProgressed": 2301,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T19:03:30.3886549+00:00",
+      "NumProgressed": 2302,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T19:39:46.8832676+00:00",
+      "NumProgressed": 2303,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T21:05:38.6280088+00:00",
+      "NumProgressed": 2304,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T22:39:20.5317969+00:00",
+      "NumProgressed": 2305,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T05:04:53.4980456+00:00",
+      "NumProgressed": 2306,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T06:05:20.0212791+00:00",
+      "NumProgressed": 2307,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T07:05:22.6854151+00:00",
+      "NumProgressed": 2309,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T08:05:35.5779878+00:00",
+      "NumProgressed": 2310,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T12:05:34.9349831+00:00",
+      "NumProgressed": 2312,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 42,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AFortressToppled_14",
+      "SetID": "c4hee28",
+      "Name": "A Fortress Toppled!",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 370
+    },
+    {
+      "ID": "AceDetective_9",
+      "SetID": "c4hee28",
+      "Name": "Ace Detective",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 185
+    },
+    {
+      "ID": "AncestorsPride_13",
+      "SetID": "c4hee28",
+      "Name": "Ancestor\u0027s Pride",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 116
+    },
+    {
+      "ID": "ApexPredator_27",
+      "SetID": "c4hee28",
+      "Name": "Apex Predator",
+      "Percentage": 16,
+      "XP": 30,
+      "UsersEstimate": 370
+    },
+    {
+      "ID": "BloodAndJustice_50",
+      "SetID": "c4hee28",
+      "Name": "Blood and justice",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 139
+    },
+    {
+      "ID": "CordonBleu_28",
+      "SetID": "c4hee28",
+      "Name": "Cordon Bleu",
+      "Percentage": 43,
+      "XP": 15,
+      "UsersEstimate": 994
+    },
+    {
+      "ID": "CrowdPleaser",
+      "SetID": "c4hee28",
+      "Name": "Crowd Pleaser.",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "Encyclopedic_30",
+      "SetID": "c4hee28",
+      "Name": "Encyclopedic!",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 462
+    },
+    {
+      "ID": "Eureka_23",
+      "SetID": "c4hee28",
+      "Name": "Eureka",
+      "Percentage": 31,
+      "XP": 10,
+      "UsersEstimate": 717
+    },
+    {
+      "ID": "ExceptionalSkill_24",
+      "SetID": "c4hee28",
+      "Name": "Exceptional Skill",
+      "Percentage": 22,
+      "XP": 30,
+      "UsersEstimate": 509
+    },
+    {
+      "ID": "ForAllAurai_8",
+      "SetID": "c4hee28",
+      "Name": "For All Aurai",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 92
+    },
+    {
+      "ID": "GiftfromtheAncestors_34",
+      "SetID": "c4hee28",
+      "Name": "Gift from the Ancestors",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 185
+    },
+    {
+      "ID": "HoldmyMeadandWatchThis_43",
+      "SetID": "c4hee28",
+      "Name": "Hold my Mead and Watch This",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 139
+    },
+    {
+      "ID": "HomeSweetHome_25",
+      "SetID": "c4hee28",
+      "Name": "Home Sweet Home",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 509
+    },
+    {
+      "ID": "HouseofCards_19",
+      "SetID": "c4hee28",
+      "Name": "House of Cards",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 162
+    },
+    {
+      "ID": "LegacyOfaMasterHunter_55",
+      "SetID": "c4hee28",
+      "Name": "Legacy of a master hunter",
+      "Percentage": 0.4,
+      "XP": 30,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "LetEmEatMagma",
+      "SetID": "c4hee28",
+      "Name": "Let \u2018em eat magma!",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 185
+    },
+    {
+      "ID": "LightofLevant_18",
+      "SetID": "c4hee28",
+      "Name": "Light of Levant",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "MagicIsaScience_58",
+      "SetID": "c4hee28",
+      "Name": "Magic is a science",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 185
+    },
+    {
+      "ID": "MasterofAurai_20",
+      "SetID": "c4hee28",
+      "Name": "Master of Aurai",
+      "Percentage": 0.3,
+      "XP": 90,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "MemoryOfALegend_51",
+      "SetID": "c4hee28",
+      "Name": "Memory of a legend",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 92
+    },
+    {
+      "ID": "PerfectDefense_31",
+      "SetID": "c4hee28",
+      "Name": "Perfect Defense",
+      "Percentage": 2,
+      "XP": 90,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "PowerToThePeople",
+      "SetID": "c4hee28",
+      "Name": "Power! To! The People!",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "ReadyforSummer_41",
+      "SetID": "c4hee28",
+      "Name": "Ready for Summer",
+      "Percentage": 51,
+      "XP": 10,
+      "UsersEstimate": 1179
+    },
+    {
+      "ID": "ReadyforWinter_42",
+      "SetID": "c4hee28",
+      "Name": "Ready for Winter",
+      "Percentage": 64,
+      "XP": 10,
+      "UsersEstimate": 1480
+    },
+    {
+      "ID": "ScienceTroglodyte_29",
+      "SetID": "c4hee28",
+      "Name": "Science, Troglodyte!",
+      "Percentage": 23,
+      "XP": 15,
+      "UsersEstimate": 532
+    },
+    {
+      "ID": "ScourgeSlayer_26",
+      "SetID": "c4hee28",
+      "Name": "Scourge Slayer",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 578
+    },
+    {
+      "ID": "StrangeAmalgams_53",
+      "SetID": "c4hee28",
+      "Name": "Strange amalgams",
+      "Percentage": 13,
+      "XP": 30,
+      "UsersEstimate": 301
+    },
+    {
+      "ID": "Tapped_22",
+      "SetID": "c4hee28",
+      "Name": "Tapped!",
+      "Percentage": 35,
+      "XP": 10,
+      "UsersEstimate": 809
+    },
+    {
+      "ID": "TheAbsolutePinnacle",
+      "SetID": "c4hee28",
+      "Name": "The Absolute Pinnacle.",
+      "Percentage": 0.3,
+      "XP": 30,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "TheBloodIsLife_54",
+      "SetID": "c4hee28",
+      "Name": "The blood is life",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "ThePowerOfAmbition_45",
+      "SetID": "c4hee28",
+      "Name": "The power of ambition",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 162
+    },
+    {
+      "ID": "ThePowerofFaith_4",
+      "SetID": "c4hee28",
+      "Name": "The Power of Faith",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 301
+    },
+    {
+      "ID": "ThePowerofFamily_2",
+      "SetID": "c4hee28",
+      "Name": "The Power of Family",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 370
+    },
+    {
+      "ID": "ThePowerofFreedom_3",
+      "SetID": "c4hee28",
+      "Name": "The Power of Freedom",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 208
+    },
+    {
+      "ID": "TheStuffOfLegends",
+      "SetID": "c4hee28",
+      "Name": "The stuff of legends.",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 162
+    },
+    {
+      "ID": "TheyllTellStoriesAboutThis_35",
+      "SetID": "c4hee28",
+      "Name": "They\u0027ll Tell Stories About This",
+      "Percentage": 1,
+      "XP": 90,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "ThisWasAMistake",
+      "SetID": "c4hee28",
+      "Name": "This was a mistake...",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "ThroughFireAndFlame",
+      "SetID": "c4hee28",
+      "Name": "Through fire and flame.",
+      "Percentage": 0.8,
+      "XP": 30,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "VanquisherOfNightmares_52",
+      "SetID": "c4hee28",
+      "Name": "Vanquisher of nightmares",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "VentureOutward_21",
+      "SetID": "c4hee28",
+      "Name": "Venture Outward",
+      "Percentage": 74,
+      "XP": 10,
+      "UsersEstimate": 1711
+    },
+    {
+      "ID": "YourActionsDefineYou_49",
+      "SetID": "c4hee28",
+      "Name": "Your actions define you",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 46
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
@@ -1025,21 +1036,11 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0.04,
-  "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "ProductSlug": "outward",
-  "Rating": 4.55,
-  "Ranking_Rating": 466,
-  "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 341,
-  "Ranking_EOS_Progress": 137,
-  "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 266,
-  "NumberOfAwards": 238,
-  "NumberOfAwardsMax": 31,
-  "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "Ranking_EOS_NewPlayers": 137
+  "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
+  "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:23.9109522+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:06.169598+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:23.9109908+00:00"
 }

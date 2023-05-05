@@ -1,512 +1,821 @@
 {
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
-  "Achievements": [
+  "ProductSlug": "death-stranding",
+  "Ranking_Rating": 101,
+  "Ranking_Popularity": 65,
+  "Ranking_PopularitySum": 110,
+  "Ranking_EOS_Progress": 5,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 9,
+  "Ranking_EOS_NewCompleters": 11,
+  "Rating": 4.78,
+  "RatingHistory": [
     {
-      "ID": "0",
-      "SetID": "8j99d4d",
-      "Name": "Greatest of Great Deliverers",
-      "Percentage": 0.1,
-      "XP": 200,
-      "UsersEstimate": 2511
+      "Time": "2022-12-26T09:58:07.1196692+00:00",
+      "Rating": 4.65
     },
     {
-      "ID": "1",
-      "SetID": "8j99d4d",
-      "Name": "Delivering Is What I Do",
-      "Percentage": 91,
-      "XP": 10,
-      "UsersEstimate": 2285222
+      "Time": "2022-12-26T13:08:47.4095841+00:00",
+      "Rating": 4.68
     },
     {
-      "ID": "10",
-      "SetID": "8j99d4d",
-      "Name": "The Particle of God",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 175786
+      "Time": "2022-12-27T10:57:43.5724288+00:00",
+      "Rating": 4.69
     },
     {
-      "ID": "11",
-      "SetID": "8j99d4d",
-      "Name": "I\u0027m Your Die-Hardman",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 175786
+      "Time": "2022-12-27T13:58:21.2003367+00:00",
+      "Rating": 4.7
     },
     {
-      "ID": "12",
-      "SetID": "8j99d4d",
-      "Name": "Bring Back My Baby",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 175786
+      "Time": "2022-12-28T10:57:42.7454607+00:00",
+      "Rating": 4.74
     },
     {
-      "ID": "13",
-      "SetID": "8j99d4d",
-      "Name": "She\u0027s waiting for you on the Beach.",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 150674
+      "Time": "2022-12-28T13:09:00.0944736+00:00",
+      "Rating": 4.75
     },
     {
-      "ID": "14",
-      "SetID": "8j99d4d",
-      "Name": "Thank You, Sam",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 150674
+      "Time": "2022-12-29T02:58:06.6499743+00:00",
+      "Rating": 4.76
     },
     {
-      "ID": "15",
-      "SetID": "8j99d4d",
-      "Name": "Thanks for Everything",
-      "Percentage": 6,
-      "XP": 40,
-      "UsersEstimate": 150674
+      "Time": "2022-12-29T11:58:28.0280398+00:00",
+      "Rating": 4.77
     },
     {
-      "ID": "16",
-      "SetID": "8j99d4d",
-      "Name": "Everyday Delivery",
-      "Percentage": 24,
-      "XP": 10,
-      "UsersEstimate": 602696
+      "Time": "2022-12-29T23:57:40.6902888+00:00",
+      "Rating": 4.76
     },
     {
-      "ID": "17",
-      "SetID": "8j99d4d",
-      "Name": "Deliveries Done",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 175786
+      "Time": "2022-12-30T10:57:59.4176028+00:00",
+      "Rating": 4.77
     },
     {
-      "ID": "18",
-      "SetID": "8j99d4d",
-      "Name": "Birth of a Legend",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 7534
+      "Time": "2023-01-01T03:13:06.4019917+00:00",
+      "Rating": 4.76
     },
     {
-      "ID": "19",
-      "SetID": "8j99d4d",
-      "Name": "Growth of a Legend",
-      "Percentage": 0.1,
-      "XP": 100,
-      "UsersEstimate": 2511
+      "Time": "2023-01-06T15:57:43.634849+00:00",
+      "Rating": 4.77
     },
     {
-      "ID": "2",
-      "SetID": "8j99d4d",
-      "Name": "Rebuilding America",
-      "Percentage": 65,
-      "XP": 10,
-      "UsersEstimate": 1632301
+      "Time": "2023-01-06T20:58:09.0312308+00:00",
+      "Rating": 4.76
     },
     {
-      "ID": "20",
-      "SetID": "8j99d4d",
-      "Name": "A Helping Hand",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 25112
+      "Time": "2023-01-07T11:57:57.3188749+00:00",
+      "Rating": 4.77
     },
     {
-      "ID": "21",
-      "SetID": "8j99d4d",
-      "Name": "The Automation Revolution",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 351573
+      "Time": "2023-01-13T15:57:39.2843298+00:00",
+      "Rating": 4.78
     },
     {
-      "ID": "22",
-      "SetID": "8j99d4d",
-      "Name": "Apprentice Builder",
-      "Percentage": 51,
-      "XP": 10,
-      "UsersEstimate": 1280729
+      "Time": "2023-01-14T02:02:21.5770165+00:00",
+      "Rating": 4.77
     },
     {
-      "ID": "23",
-      "SetID": "8j99d4d",
-      "Name": "Master Builder",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 25112
+      "Time": "2023-01-14T05:58:02.8624837+00:00",
+      "Rating": 4.78
     },
     {
-      "ID": "24",
-      "SetID": "8j99d4d",
-      "Name": "A New Day for the UCA",
-      "Percentage": 50,
-      "XP": 10,
-      "UsersEstimate": 1255616
+      "Time": "2023-03-31T11:58:10.874767+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5796,
+      "NumberOfAwardsMax": 4243
     },
     {
-      "ID": "25",
-      "SetID": "8j99d4d",
-      "Name": "In Sam We Trust",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 7534
+      "Time": "2023-03-31T13:57:57.695952+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5808,
+      "NumberOfAwardsMax": 4255
     },
     {
-      "ID": "26",
-      "SetID": "8j99d4d",
-      "Name": "Well Connected",
-      "Percentage": 36,
-      "XP": 10,
-      "UsersEstimate": 904044
+      "Time": "2023-03-31T18:57:54.0455005+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5809,
+      "NumberOfAwardsMax": 4255
     },
     {
-      "ID": "27",
-      "SetID": "8j99d4d",
-      "Name": "Best Beloved",
-      "Percentage": 0.2,
-      "XP": 40,
-      "UsersEstimate": 5022
+      "Time": "2023-04-01T04:57:51.8776933+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5810,
+      "NumberOfAwardsMax": 4255
     },
     {
-      "ID": "28",
-      "SetID": "8j99d4d",
-      "Name": "Like and Be Liked",
-      "Percentage": 63,
-      "XP": 10,
-      "UsersEstimate": 1582077
+      "Time": "2023-04-01T09:58:14.687808+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5812,
+      "NumberOfAwardsMax": 4255
     },
     {
-      "ID": "29",
-      "SetID": "8j99d4d",
-      "Name": "The People\u0027s Porter",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 753370
+      "Time": "2023-04-01T11:57:58.0791262+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5813,
+      "NumberOfAwardsMax": 4255
     },
     {
-      "ID": "3",
-      "SetID": "8j99d4d",
-      "Name": "We Need You",
-      "Percentage": 20,
-      "XP": 10,
-      "UsersEstimate": 502247
+      "Time": "2023-04-01T14:57:44.1516958+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5827,
+      "NumberOfAwardsMax": 4268
     },
     {
-      "ID": "30",
-      "SetID": "8j99d4d",
-      "Name": "The World\u0027s Most Popular Porter",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 200899
+      "Time": "2023-04-02T10:57:44.475627+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5830,
+      "NumberOfAwardsMax": 4268
     },
     {
-      "ID": "31",
-      "SetID": "8j99d4d",
-      "Name": "Good Samaritan",
-      "Percentage": 88,
-      "XP": 10,
-      "UsersEstimate": 2209885
+      "Time": "2023-04-02T11:58:05.5573848+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5833,
+      "NumberOfAwardsMax": 4268
     },
     {
-      "ID": "32",
-      "SetID": "8j99d4d",
-      "Name": "Giver of Gifts",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 426910
+      "Time": "2023-04-02T13:01:37.9455494+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5836,
+      "NumberOfAwardsMax": 4268
     },
     {
-      "ID": "33",
-      "SetID": "8j99d4d",
-      "Name": "Chiral Crafter",
-      "Percentage": 33,
-      "XP": 10,
-      "UsersEstimate": 828707
+      "Time": "2023-04-02T14:57:43.0697438+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5863,
+      "NumberOfAwardsMax": 4295
     },
     {
-      "ID": "34",
-      "SetID": "8j99d4d",
-      "Name": "A Thirst for Knowledge",
-      "Percentage": 20,
-      "XP": 10,
-      "UsersEstimate": 502247
+      "Time": "2023-04-03T09:58:35.6529249+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5867,
+      "NumberOfAwardsMax": 4295
     },
     {
-      "ID": "35",
-      "SetID": "8j99d4d",
-      "Name": "Fount of Knowledge",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 2511
+      "Time": "2023-04-03T14:58:19.7120904+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5870,
+      "NumberOfAwardsMax": 4295
     },
     {
-      "ID": "36",
-      "SetID": "8j99d4d",
-      "Name": "The Custom Kid",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 878932
+      "Time": "2023-04-03T15:57:48.2878985+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5881,
+      "NumberOfAwardsMax": 4306
     },
     {
-      "ID": "37",
-      "SetID": "8j99d4d",
-      "Name": "Soak and Sigh",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 175786
+      "Time": "2023-04-03T19:58:06.4973484+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5882,
+      "NumberOfAwardsMax": 4306
     },
     {
-      "ID": "38",
-      "SetID": "8j99d4d",
-      "Name": "The Post Guides the Present",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 100449
+      "Time": "2023-04-04T01:59:15.6309108+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5883,
+      "NumberOfAwardsMax": 4306
     },
     {
-      "ID": "39",
-      "SetID": "8j99d4d",
-      "Name": "The Past Guides the Present",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 17579
+      "Time": "2023-04-04T03:58:00.9208633+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5884,
+      "NumberOfAwardsMax": 4306
     },
     {
-      "ID": "4",
-      "SetID": "8j99d4d",
-      "Name": "I Won\u0027t Break",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 276236
+      "Time": "2023-04-04T15:57:57.6565076+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5907,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "40",
-      "SetID": "8j99d4d",
-      "Name": "Pathfinder",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 351573
+      "Time": "2023-04-04T18:58:03.8251884+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5909,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "41",
-      "SetID": "8j99d4d",
-      "Name": "Childminder",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 50225
+      "Time": "2023-04-04T19:58:15.2489364+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5910,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "42",
-      "SetID": "8j99d4d",
-      "Name": "A Baby Blessing",
-      "Percentage": 40,
-      "XP": 10,
-      "UsersEstimate": 1004493
+      "Time": "2023-04-05T02:57:51.9668398+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5912,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "43",
-      "SetID": "8j99d4d",
-      "Name": "Prominent Porter",
-      "Percentage": 40,
-      "XP": 10,
-      "UsersEstimate": 1004493
+      "Time": "2023-04-05T05:58:04.7627679+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5913,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "44",
-      "SetID": "8j99d4d",
-      "Name": "Great Deliverer",
-      "Percentage": 0.2,
-      "XP": 40,
-      "UsersEstimate": 5022
+      "Time": "2023-04-05T11:57:44.0230899+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5915,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "45",
-      "SetID": "8j99d4d",
-      "Name": "Catcher Crusher",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 527359
+      "Time": "2023-04-05T13:16:06.9755937+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5917,
+      "NumberOfAwardsMax": 4328
     },
     {
-      "ID": "46",
-      "SetID": "8j99d4d",
-      "Name": "Snooze \u0027n\u0027 Soothe",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 728258
+      "Time": "2023-04-05T16:57:51.8892478+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5939,
+      "NumberOfAwardsMax": 4350
     },
     {
-      "ID": "47",
-      "SetID": "8j99d4d",
-      "Name": "Boots Are a Porter\u0027s Best Friend",
-      "Percentage": 34,
-      "XP": 10,
-      "UsersEstimate": 853819
+      "Time": "2023-04-05T20:58:03.3235386+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5940,
+      "NumberOfAwardsMax": 4350
     },
     {
-      "ID": "48",
-      "SetID": "8j99d4d",
-      "Name": "Hooked on Delivering!?",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 75337
+      "Time": "2023-04-06T13:57:46.7141982+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5942,
+      "NumberOfAwardsMax": 4350
     },
     {
-      "ID": "49",
-      "SetID": "8j99d4d",
-      "Name": "Pumped Porter",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 200899
+      "Time": "2023-04-06T15:57:50.535057+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5945,
+      "NumberOfAwardsMax": 4350
     },
     {
-      "ID": "5",
-      "SetID": "8j99d4d",
-      "Name": "BB...",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 276236
+      "Time": "2023-04-06T16:57:46.41179+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5964,
+      "NumberOfAwardsMax": 4369
     },
     {
-      "ID": "50",
-      "SetID": "8j99d4d",
-      "Name": "Well-Traveled",
-      "Percentage": 13,
-      "XP": 10,
-      "UsersEstimate": 326460
+      "Time": "2023-04-06T18:58:12.5208612+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5966,
+      "NumberOfAwardsMax": 4369
     },
     {
-      "ID": "51",
-      "SetID": "8j99d4d",
-      "Name": "God Particle Go-Getter",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 50225
+      "Time": "2023-04-07T11:57:38.2762357+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5968,
+      "NumberOfAwardsMax": 4369
     },
     {
-      "ID": "52",
-      "SetID": "8j99d4d",
-      "Name": "Rest In Pieces",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 125562
+      "Time": "2023-04-07T15:57:55.9498167+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5970,
+      "NumberOfAwardsMax": 4369
     },
     {
-      "ID": "53",
-      "SetID": "8j99d4d",
-      "Name": "Any Porter in a Storm",
-      "Percentage": 0.6,
-      "XP": 10,
-      "UsersEstimate": 15067
+      "Time": "2023-04-07T18:57:55.393639+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5996,
+      "NumberOfAwardsMax": 4395
     },
     {
-      "ID": "54",
-      "SetID": "8j99d4d",
-      "Name": "Sleep Tight, Little BB",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 678033
+      "Time": "2023-04-07T19:58:07.3806901+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5998,
+      "NumberOfAwardsMax": 4395
     },
     {
-      "ID": "55",
-      "SetID": "8j99d4d",
-      "Name": "A Shout in the Dark",
-      "Percentage": 24,
-      "XP": 10,
-      "UsersEstimate": 602696
+      "Time": "2023-04-07T21:57:44.7547857+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5999,
+      "NumberOfAwardsMax": 4395
     },
     {
-      "ID": "56",
-      "SetID": "8j99d4d",
-      "Name": "Public Service Porter",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 75337
+      "Time": "2023-04-07T22:57:57.1325415+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6000,
+      "NumberOfAwardsMax": 4395
     },
     {
-      "ID": "57",
-      "SetID": "8j99d4d",
-      "Name": "Trail-Blazer",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 2511
+      "Time": "2023-04-08T05:58:18.7893497+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6001,
+      "NumberOfAwardsMax": 4395
     },
     {
-      "ID": "58",
-      "SetID": "8j99d4d",
-      "Name": "I Couldn\u0027t Hold it In!",
-      "Percentage": 38,
-      "XP": 10,
-      "UsersEstimate": 954269
+      "Time": "2023-04-08T18:57:59.1527255+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6021,
+      "NumberOfAwardsMax": 4415
     },
     {
-      "ID": "59",
-      "SetID": "8j99d4d",
-      "Name": "All Roads Lead to the UCA",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 376685
+      "Time": "2023-04-09T05:57:58.8226244+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6023,
+      "NumberOfAwardsMax": 4415
     },
     {
-      "ID": "6",
-      "SetID": "8j99d4d",
-      "Name": "We\u0027re Whole Again",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 226011
+      "Time": "2023-04-09T09:58:04.3807452+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6025,
+      "NumberOfAwardsMax": 4415
     },
     {
-      "ID": "60",
-      "SetID": "8j99d4d",
-      "Name": "Soothing Sounds",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 678033
+      "Time": "2023-04-09T19:57:40.0868395+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6040,
+      "NumberOfAwardsMax": 4430
     },
     {
-      "ID": "61",
-      "SetID": "8j99d4d",
-      "Name": "Building Bridges",
-      "Percentage": 34,
-      "XP": 10,
-      "UsersEstimate": 853819
+      "Time": "2023-04-09T20:57:39.3071618+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6041,
+      "NumberOfAwardsMax": 4430
     },
     {
-      "ID": "62",
-      "SetID": "8j99d4d",
-      "Name": "Homo Faber",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 2511
+      "Time": "2023-04-10T04:57:54.3158014+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6042,
+      "NumberOfAwardsMax": 4430
     },
     {
-      "ID": "7",
-      "SetID": "8j99d4d",
-      "Name": "BBs: A Bridge Between This World and the One Beyond",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 200899
+      "Time": "2023-04-10T07:57:39.1345988+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6044,
+      "NumberOfAwardsMax": 4430
     },
     {
-      "ID": "8",
-      "SetID": "8j99d4d",
-      "Name": "BB",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 200899
+      "Time": "2023-04-10T14:57:59.5167362+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6046,
+      "NumberOfAwardsMax": 4430
     },
     {
-      "ID": "9",
-      "SetID": "8j99d4d",
-      "Name": "Sixty Deaths and Sixty Births in a Day",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 175786
+      "Time": "2023-04-10T17:58:30.7498574+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6047,
+      "NumberOfAwardsMax": 4430
+    },
+    {
+      "Time": "2023-04-10T21:57:52.3775901+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6065,
+      "NumberOfAwardsMax": 4448
+    },
+    {
+      "Time": "2023-04-11T13:57:53.0456048+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6067,
+      "NumberOfAwardsMax": 4448
+    },
+    {
+      "Time": "2023-04-11T14:58:02.4658227+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6069,
+      "NumberOfAwardsMax": 4448
+    },
+    {
+      "Time": "2023-04-12T01:57:13.2412585+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6080,
+      "NumberOfAwardsMax": 4459
+    },
+    {
+      "Time": "2023-04-12T10:57:57.8010754+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6082,
+      "NumberOfAwardsMax": 4459
+    },
+    {
+      "Time": "2023-04-13T03:57:50.1982096+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6083,
+      "NumberOfAwardsMax": 4459
+    },
+    {
+      "Time": "2023-04-13T08:58:19.0030913+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6091,
+      "NumberOfAwardsMax": 4467
+    },
+    {
+      "Time": "2023-04-14T01:53:48.4599137+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6093,
+      "NumberOfAwardsMax": 4467
+    },
+    {
+      "Time": "2023-04-14T04:57:32.4930134+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6094,
+      "NumberOfAwardsMax": 4467
+    },
+    {
+      "Time": "2023-04-14T10:58:12.3756466+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6108,
+      "NumberOfAwardsMax": 4478
+    },
+    {
+      "Time": "2023-04-14T15:57:55.673263+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6109,
+      "NumberOfAwardsMax": 4478
+    },
+    {
+      "Time": "2023-04-14T16:57:42.4004025+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6110,
+      "NumberOfAwardsMax": 4478
+    },
+    {
+      "Time": "2023-04-14T17:57:42.3969122+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6111,
+      "NumberOfAwardsMax": 4478
+    },
+    {
+      "Time": "2023-04-14T19:58:11.4217846+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6112,
+      "NumberOfAwardsMax": 4478
+    },
+    {
+      "Time": "2023-04-15T10:58:42.9178536+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6130,
+      "NumberOfAwardsMax": 4496
+    },
+    {
+      "Time": "2023-04-15T16:57:52.9285849+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6132,
+      "NumberOfAwardsMax": 4496
+    },
+    {
+      "Time": "2023-04-16T09:58:14.8556569+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6133,
+      "NumberOfAwardsMax": 4496
+    },
+    {
+      "Time": "2023-04-16T13:57:41.1336668+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6153,
+      "NumberOfAwardsMax": 4516
+    },
+    {
+      "Time": "2023-04-16T16:57:38.0098418+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6154,
+      "NumberOfAwardsMax": 4516
+    },
+    {
+      "Time": "2023-04-17T01:57:40.8954142+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6155,
+      "NumberOfAwardsMax": 4516
+    },
+    {
+      "Time": "2023-04-17T08:58:22.9284869+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6156,
+      "NumberOfAwardsMax": 4516
+    },
+    {
+      "Time": "2023-04-17T09:58:33.3963412+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6157,
+      "NumberOfAwardsMax": 4516
+    },
+    {
+      "Time": "2023-04-17T17:57:50.9406974+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6170,
+      "NumberOfAwardsMax": 4529
+    },
+    {
+      "Time": "2023-04-17T20:57:59.6294502+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6172,
+      "NumberOfAwardsMax": 4529
+    },
+    {
+      "Time": "2023-04-18T07:58:27.4843658+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6174,
+      "NumberOfAwardsMax": 4529
+    },
+    {
+      "Time": "2023-04-18T10:58:43.4365003+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6176,
+      "NumberOfAwardsMax": 4529
+    },
+    {
+      "Time": "2023-04-18T17:58:34.0066052+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6186,
+      "NumberOfAwardsMax": 4539
+    },
+    {
+      "Time": "2023-04-19T10:58:33.5449908+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6187,
+      "NumberOfAwardsMax": 4539
+    },
+    {
+      "Time": "2023-04-19T17:57:55.7482629+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6188,
+      "NumberOfAwardsMax": 4539
+    },
+    {
+      "Time": "2023-04-19T18:58:02.5249893+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6198,
+      "NumberOfAwardsMax": 4549
+    },
+    {
+      "Time": "2023-04-19T21:58:02.0512528+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6199,
+      "NumberOfAwardsMax": 4550
+    },
+    {
+      "Time": "2023-04-20T09:58:15.842415+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6200,
+      "NumberOfAwardsMax": 4550
+    },
+    {
+      "Time": "2023-04-21T03:58:49.3000156+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6201,
+      "NumberOfAwardsMax": 4550
+    },
+    {
+      "Time": "2023-04-21T04:58:03.9529788+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6214,
+      "NumberOfAwardsMax": 4563
+    },
+    {
+      "Time": "2023-04-21T10:57:47.2164264+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6216,
+      "NumberOfAwardsMax": 4563
+    },
+    {
+      "Time": "2023-04-22T01:58:06.8751298+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6217,
+      "NumberOfAwardsMax": 4563
+    },
+    {
+      "Time": "2023-04-22T06:58:11.8233695+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6230,
+      "NumberOfAwardsMax": 4575
+    },
+    {
+      "Time": "2023-04-23T07:58:24.8495623+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6231,
+      "NumberOfAwardsMax": 4575
+    },
+    {
+      "Time": "2023-04-23T08:57:46.4136259+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6233,
+      "NumberOfAwardsMax": 4575
+    },
+    {
+      "Time": "2023-04-23T09:57:47.4242029+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6243,
+      "NumberOfAwardsMax": 4585
+    },
+    {
+      "Time": "2023-04-24T13:05:35.3191754+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6255,
+      "NumberOfAwardsMax": 4597
+    },
+    {
+      "Time": "2023-04-24T15:58:23.3805389+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6257,
+      "NumberOfAwardsMax": 4597
+    },
+    {
+      "Time": "2023-04-24T17:57:52.8115376+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6259,
+      "NumberOfAwardsMax": 4597
+    },
+    {
+      "Time": "2023-04-25T13:05:28.1109357+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6275,
+      "NumberOfAwardsMax": 4613
+    },
+    {
+      "Time": "2023-04-25T15:57:48.4250447+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6276,
+      "NumberOfAwardsMax": 4613
+    },
+    {
+      "Time": "2023-04-25T16:59:29.1072735+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6279,
+      "NumberOfAwardsMax": 4613
+    },
+    {
+      "Time": "2023-04-26T00:00:44.620221+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6281,
+      "NumberOfAwardsMax": 4613
+    },
+    {
+      "Time": "2023-04-26T08:01:48.8519112+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6282,
+      "NumberOfAwardsMax": 4613
+    },
+    {
+      "Time": "2023-04-26T09:00:58.2196268+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6283,
+      "NumberOfAwardsMax": 4613
+    },
+    {
+      "Time": "2023-04-26T14:00:57.5043888+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6294,
+      "NumberOfAwardsMax": 4624
+    },
+    {
+      "Time": "2023-04-26T20:59:44.7093789+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6295,
+      "NumberOfAwardsMax": 4624
+    },
+    {
+      "Time": "2023-04-27T03:59:13.972228+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6296,
+      "NumberOfAwardsMax": 4624
+    },
+    {
+      "Time": "2023-04-27T18:59:29.2787397+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6297,
+      "NumberOfAwardsMax": 4624
+    },
+    {
+      "Time": "2023-04-27T22:59:27.3269362+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6298,
+      "NumberOfAwardsMax": 4624
+    },
+    {
+      "Time": "2023-04-28T02:00:39.6476562+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6307,
+      "NumberOfAwardsMax": 4633
+    },
+    {
+      "Time": "2023-04-29T03:00:19.7273649+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6316,
+      "NumberOfAwardsMax": 4641
+    },
+    {
+      "Time": "2023-04-29T07:58:50.5734214+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6318,
+      "NumberOfAwardsMax": 4641
+    },
+    {
+      "Time": "2023-04-29T17:59:09.7470213+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6319,
+      "NumberOfAwardsMax": 4641
+    },
+    {
+      "Time": "2023-04-29T19:58:40.7133882+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6321,
+      "NumberOfAwardsMax": 4641
+    },
+    {
+      "Time": "2023-04-30T03:58:49.7174122+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6322,
+      "NumberOfAwardsMax": 4641
+    },
+    {
+      "Time": "2023-04-30T06:58:43.9218969+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6335,
+      "NumberOfAwardsMax": 4654
+    },
+    {
+      "Time": "2023-04-30T21:59:17.1403901+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6336,
+      "NumberOfAwardsMax": 4654
+    },
+    {
+      "Time": "2023-05-01T11:59:24.251789+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6353,
+      "NumberOfAwardsMax": 4671
+    },
+    {
+      "Time": "2023-05-01T14:59:20.8774033+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6354,
+      "NumberOfAwardsMax": 4671
+    },
+    {
+      "Time": "2023-05-01T15:59:24.8479625+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6358,
+      "NumberOfAwardsMax": 4671
+    },
+    {
+      "Time": "2023-05-01T20:59:57.3063262+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6359,
+      "NumberOfAwardsMax": 4671
+    },
+    {
+      "Time": "2023-05-01T21:59:01.462319+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6360,
+      "NumberOfAwardsMax": 4671
+    },
+    {
+      "Time": "2023-05-02T11:59:18.4673261+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6378,
+      "NumberOfAwardsMax": 4689
+    },
+    {
+      "Time": "2023-05-02T20:59:02.4667708+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6379,
+      "NumberOfAwardsMax": 4689
+    },
+    {
+      "Time": "2023-05-03T15:00:07.7246961+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6389,
+      "NumberOfAwardsMax": 4699
+    },
+    {
+      "Time": "2023-05-03T19:59:34.8834801+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6390,
+      "NumberOfAwardsMax": 4699
+    },
+    {
+      "Time": "2023-05-04T01:56:12.3898942+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6391,
+      "NumberOfAwardsMax": 4699
+    },
+    {
+      "Time": "2023-05-04T16:59:34.9085091+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6399,
+      "NumberOfAwardsMax": 4707
+    },
+    {
+      "Time": "2023-05-05T04:58:56.2243455+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6400,
+      "NumberOfAwardsMax": 4707
+    },
+    {
+      "Time": "2023-05-05T13:36:06.2699525+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6402,
+      "NumberOfAwardsMax": 4707
+    },
+    {
+      "Time": "2023-05-05T14:59:01.2606803+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6403,
+      "NumberOfAwardsMax": 4707
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 6403,
+  "NumberOfAwardsMax": 4707,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -575,6 +884,11 @@
       "Count": 28
     }
   ],
+  "EOS_Progressed": 2511340,
+  "EOS_Completed": 1222,
+  "EOS_NewPlayers": 18531,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:36.4568417+00:00",
@@ -1785,843 +2099,535 @@
       "Time": "2023-05-05T16:08:04.2317644+00:00",
       "NumProgressed": 2511233,
       "NumCompleted": 1222
+    },
+    {
+      "Time": "2023-05-05T17:09:43.55524+00:00",
+      "NumProgressed": 2511340,
+      "NumCompleted": 1222
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-12-26T09:58:07.1196692+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-12-26T13:08:47.4095841+00:00",
-      "Rating": 4.68
-    },
-    {
-      "Time": "2022-12-27T10:57:43.5724288+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-12-27T13:58:21.2003367+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2022-12-28T10:57:42.7454607+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-12-28T13:09:00.0944736+00:00",
-      "Rating": 4.75
-    },
-    {
-      "Time": "2022-12-29T02:58:06.6499743+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2022-12-29T11:58:28.0280398+00:00",
-      "Rating": 4.77
-    },
-    {
-      "Time": "2022-12-29T23:57:40.6902888+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2022-12-30T10:57:59.4176028+00:00",
-      "Rating": 4.77
-    },
-    {
-      "Time": "2023-01-01T03:13:06.4019917+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2023-01-06T15:57:43.634849+00:00",
-      "Rating": 4.77
-    },
-    {
-      "Time": "2023-01-06T20:58:09.0312308+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2023-01-07T11:57:57.3188749+00:00",
-      "Rating": 4.77
-    },
-    {
-      "Time": "2023-01-13T15:57:39.2843298+00:00",
-      "Rating": 4.78
-    },
-    {
-      "Time": "2023-01-14T02:02:21.5770165+00:00",
-      "Rating": 4.77
-    },
-    {
-      "Time": "2023-01-14T05:58:02.8624837+00:00",
-      "Rating": 4.78
-    },
-    {
-      "Time": "2023-03-31T11:58:10.874767+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5796,
-      "NumberOfAwardsMax": 4243
-    },
-    {
-      "Time": "2023-03-31T13:57:57.695952+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5808,
-      "NumberOfAwardsMax": 4255
-    },
-    {
-      "Time": "2023-03-31T18:57:54.0455005+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5809,
-      "NumberOfAwardsMax": 4255
-    },
-    {
-      "Time": "2023-04-01T04:57:51.8776933+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5810,
-      "NumberOfAwardsMax": 4255
-    },
-    {
-      "Time": "2023-04-01T09:58:14.687808+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5812,
-      "NumberOfAwardsMax": 4255
-    },
-    {
-      "Time": "2023-04-01T11:57:58.0791262+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5813,
-      "NumberOfAwardsMax": 4255
-    },
-    {
-      "Time": "2023-04-01T14:57:44.1516958+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5827,
-      "NumberOfAwardsMax": 4268
-    },
-    {
-      "Time": "2023-04-02T10:57:44.475627+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5830,
-      "NumberOfAwardsMax": 4268
-    },
-    {
-      "Time": "2023-04-02T11:58:05.5573848+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5833,
-      "NumberOfAwardsMax": 4268
-    },
-    {
-      "Time": "2023-04-02T13:01:37.9455494+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5836,
-      "NumberOfAwardsMax": 4268
-    },
-    {
-      "Time": "2023-04-02T14:57:43.0697438+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5863,
-      "NumberOfAwardsMax": 4295
-    },
-    {
-      "Time": "2023-04-03T09:58:35.6529249+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5867,
-      "NumberOfAwardsMax": 4295
-    },
-    {
-      "Time": "2023-04-03T14:58:19.7120904+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5870,
-      "NumberOfAwardsMax": 4295
-    },
-    {
-      "Time": "2023-04-03T15:57:48.2878985+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5881,
-      "NumberOfAwardsMax": 4306
-    },
-    {
-      "Time": "2023-04-03T19:58:06.4973484+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5882,
-      "NumberOfAwardsMax": 4306
-    },
-    {
-      "Time": "2023-04-04T01:59:15.6309108+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5883,
-      "NumberOfAwardsMax": 4306
-    },
-    {
-      "Time": "2023-04-04T03:58:00.9208633+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5884,
-      "NumberOfAwardsMax": 4306
-    },
-    {
-      "Time": "2023-04-04T15:57:57.6565076+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5907,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-04T18:58:03.8251884+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5909,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-04T19:58:15.2489364+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5910,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-05T02:57:51.9668398+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5912,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-05T05:58:04.7627679+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5913,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-05T11:57:44.0230899+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5915,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-05T13:16:06.9755937+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5917,
-      "NumberOfAwardsMax": 4328
-    },
-    {
-      "Time": "2023-04-05T16:57:51.8892478+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5939,
-      "NumberOfAwardsMax": 4350
-    },
-    {
-      "Time": "2023-04-05T20:58:03.3235386+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5940,
-      "NumberOfAwardsMax": 4350
-    },
-    {
-      "Time": "2023-04-06T13:57:46.7141982+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5942,
-      "NumberOfAwardsMax": 4350
-    },
-    {
-      "Time": "2023-04-06T15:57:50.535057+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5945,
-      "NumberOfAwardsMax": 4350
-    },
-    {
-      "Time": "2023-04-06T16:57:46.41179+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5964,
-      "NumberOfAwardsMax": 4369
-    },
-    {
-      "Time": "2023-04-06T18:58:12.5208612+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5966,
-      "NumberOfAwardsMax": 4369
-    },
-    {
-      "Time": "2023-04-07T11:57:38.2762357+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5968,
-      "NumberOfAwardsMax": 4369
-    },
-    {
-      "Time": "2023-04-07T15:57:55.9498167+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5970,
-      "NumberOfAwardsMax": 4369
-    },
-    {
-      "Time": "2023-04-07T18:57:55.393639+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5996,
-      "NumberOfAwardsMax": 4395
-    },
-    {
-      "Time": "2023-04-07T19:58:07.3806901+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5998,
-      "NumberOfAwardsMax": 4395
-    },
-    {
-      "Time": "2023-04-07T21:57:44.7547857+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 5999,
-      "NumberOfAwardsMax": 4395
-    },
-    {
-      "Time": "2023-04-07T22:57:57.1325415+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6000,
-      "NumberOfAwardsMax": 4395
-    },
-    {
-      "Time": "2023-04-08T05:58:18.7893497+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6001,
-      "NumberOfAwardsMax": 4395
-    },
-    {
-      "Time": "2023-04-08T18:57:59.1527255+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6021,
-      "NumberOfAwardsMax": 4415
-    },
-    {
-      "Time": "2023-04-09T05:57:58.8226244+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6023,
-      "NumberOfAwardsMax": 4415
-    },
-    {
-      "Time": "2023-04-09T09:58:04.3807452+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6025,
-      "NumberOfAwardsMax": 4415
-    },
-    {
-      "Time": "2023-04-09T19:57:40.0868395+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6040,
-      "NumberOfAwardsMax": 4430
-    },
-    {
-      "Time": "2023-04-09T20:57:39.3071618+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6041,
-      "NumberOfAwardsMax": 4430
-    },
-    {
-      "Time": "2023-04-10T04:57:54.3158014+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6042,
-      "NumberOfAwardsMax": 4430
-    },
-    {
-      "Time": "2023-04-10T07:57:39.1345988+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6044,
-      "NumberOfAwardsMax": 4430
-    },
-    {
-      "Time": "2023-04-10T14:57:59.5167362+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6046,
-      "NumberOfAwardsMax": 4430
-    },
-    {
-      "Time": "2023-04-10T17:58:30.7498574+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6047,
-      "NumberOfAwardsMax": 4430
-    },
-    {
-      "Time": "2023-04-10T21:57:52.3775901+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6065,
-      "NumberOfAwardsMax": 4448
-    },
-    {
-      "Time": "2023-04-11T13:57:53.0456048+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6067,
-      "NumberOfAwardsMax": 4448
-    },
-    {
-      "Time": "2023-04-11T14:58:02.4658227+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6069,
-      "NumberOfAwardsMax": 4448
-    },
-    {
-      "Time": "2023-04-12T01:57:13.2412585+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6080,
-      "NumberOfAwardsMax": 4459
-    },
-    {
-      "Time": "2023-04-12T10:57:57.8010754+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6082,
-      "NumberOfAwardsMax": 4459
-    },
-    {
-      "Time": "2023-04-13T03:57:50.1982096+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6083,
-      "NumberOfAwardsMax": 4459
-    },
-    {
-      "Time": "2023-04-13T08:58:19.0030913+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6091,
-      "NumberOfAwardsMax": 4467
-    },
-    {
-      "Time": "2023-04-14T01:53:48.4599137+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6093,
-      "NumberOfAwardsMax": 4467
-    },
-    {
-      "Time": "2023-04-14T04:57:32.4930134+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6094,
-      "NumberOfAwardsMax": 4467
-    },
-    {
-      "Time": "2023-04-14T10:58:12.3756466+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6108,
-      "NumberOfAwardsMax": 4478
-    },
-    {
-      "Time": "2023-04-14T15:57:55.673263+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6109,
-      "NumberOfAwardsMax": 4478
-    },
-    {
-      "Time": "2023-04-14T16:57:42.4004025+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6110,
-      "NumberOfAwardsMax": 4478
-    },
-    {
-      "Time": "2023-04-14T17:57:42.3969122+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6111,
-      "NumberOfAwardsMax": 4478
-    },
-    {
-      "Time": "2023-04-14T19:58:11.4217846+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6112,
-      "NumberOfAwardsMax": 4478
-    },
-    {
-      "Time": "2023-04-15T10:58:42.9178536+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6130,
-      "NumberOfAwardsMax": 4496
-    },
-    {
-      "Time": "2023-04-15T16:57:52.9285849+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6132,
-      "NumberOfAwardsMax": 4496
-    },
-    {
-      "Time": "2023-04-16T09:58:14.8556569+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6133,
-      "NumberOfAwardsMax": 4496
-    },
-    {
-      "Time": "2023-04-16T13:57:41.1336668+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6153,
-      "NumberOfAwardsMax": 4516
-    },
-    {
-      "Time": "2023-04-16T16:57:38.0098418+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6154,
-      "NumberOfAwardsMax": 4516
-    },
-    {
-      "Time": "2023-04-17T01:57:40.8954142+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6155,
-      "NumberOfAwardsMax": 4516
-    },
-    {
-      "Time": "2023-04-17T08:58:22.9284869+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6156,
-      "NumberOfAwardsMax": 4516
-    },
-    {
-      "Time": "2023-04-17T09:58:33.3963412+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6157,
-      "NumberOfAwardsMax": 4516
-    },
-    {
-      "Time": "2023-04-17T17:57:50.9406974+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6170,
-      "NumberOfAwardsMax": 4529
-    },
-    {
-      "Time": "2023-04-17T20:57:59.6294502+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6172,
-      "NumberOfAwardsMax": 4529
-    },
-    {
-      "Time": "2023-04-18T07:58:27.4843658+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6174,
-      "NumberOfAwardsMax": 4529
-    },
-    {
-      "Time": "2023-04-18T10:58:43.4365003+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6176,
-      "NumberOfAwardsMax": 4529
-    },
-    {
-      "Time": "2023-04-18T17:58:34.0066052+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6186,
-      "NumberOfAwardsMax": 4539
-    },
-    {
-      "Time": "2023-04-19T10:58:33.5449908+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6187,
-      "NumberOfAwardsMax": 4539
-    },
-    {
-      "Time": "2023-04-19T17:57:55.7482629+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6188,
-      "NumberOfAwardsMax": 4539
-    },
-    {
-      "Time": "2023-04-19T18:58:02.5249893+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6198,
-      "NumberOfAwardsMax": 4549
-    },
-    {
-      "Time": "2023-04-19T21:58:02.0512528+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6199,
-      "NumberOfAwardsMax": 4550
-    },
-    {
-      "Time": "2023-04-20T09:58:15.842415+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6200,
-      "NumberOfAwardsMax": 4550
-    },
-    {
-      "Time": "2023-04-21T03:58:49.3000156+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6201,
-      "NumberOfAwardsMax": 4550
-    },
-    {
-      "Time": "2023-04-21T04:58:03.9529788+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6214,
-      "NumberOfAwardsMax": 4563
-    },
-    {
-      "Time": "2023-04-21T10:57:47.2164264+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6216,
-      "NumberOfAwardsMax": 4563
-    },
-    {
-      "Time": "2023-04-22T01:58:06.8751298+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6217,
-      "NumberOfAwardsMax": 4563
-    },
-    {
-      "Time": "2023-04-22T06:58:11.8233695+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6230,
-      "NumberOfAwardsMax": 4575
-    },
-    {
-      "Time": "2023-04-23T07:58:24.8495623+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6231,
-      "NumberOfAwardsMax": 4575
-    },
-    {
-      "Time": "2023-04-23T08:57:46.4136259+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6233,
-      "NumberOfAwardsMax": 4575
-    },
-    {
-      "Time": "2023-04-23T09:57:47.4242029+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6243,
-      "NumberOfAwardsMax": 4585
-    },
-    {
-      "Time": "2023-04-24T13:05:35.3191754+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6255,
-      "NumberOfAwardsMax": 4597
-    },
-    {
-      "Time": "2023-04-24T15:58:23.3805389+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6257,
-      "NumberOfAwardsMax": 4597
-    },
-    {
-      "Time": "2023-04-24T17:57:52.8115376+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6259,
-      "NumberOfAwardsMax": 4597
-    },
-    {
-      "Time": "2023-04-25T13:05:28.1109357+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6275,
-      "NumberOfAwardsMax": 4613
-    },
-    {
-      "Time": "2023-04-25T15:57:48.4250447+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6276,
-      "NumberOfAwardsMax": 4613
-    },
-    {
-      "Time": "2023-04-25T16:59:29.1072735+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6279,
-      "NumberOfAwardsMax": 4613
-    },
-    {
-      "Time": "2023-04-26T00:00:44.620221+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6281,
-      "NumberOfAwardsMax": 4613
-    },
-    {
-      "Time": "2023-04-26T08:01:48.8519112+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6282,
-      "NumberOfAwardsMax": 4613
-    },
-    {
-      "Time": "2023-04-26T09:00:58.2196268+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6283,
-      "NumberOfAwardsMax": 4613
-    },
-    {
-      "Time": "2023-04-26T14:00:57.5043888+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6294,
-      "NumberOfAwardsMax": 4624
-    },
-    {
-      "Time": "2023-04-26T20:59:44.7093789+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6295,
-      "NumberOfAwardsMax": 4624
-    },
-    {
-      "Time": "2023-04-27T03:59:13.972228+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6296,
-      "NumberOfAwardsMax": 4624
-    },
-    {
-      "Time": "2023-04-27T18:59:29.2787397+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6297,
-      "NumberOfAwardsMax": 4624
-    },
-    {
-      "Time": "2023-04-27T22:59:27.3269362+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6298,
-      "NumberOfAwardsMax": 4624
-    },
-    {
-      "Time": "2023-04-28T02:00:39.6476562+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6307,
-      "NumberOfAwardsMax": 4633
-    },
-    {
-      "Time": "2023-04-29T03:00:19.7273649+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6316,
-      "NumberOfAwardsMax": 4641
-    },
-    {
-      "Time": "2023-04-29T07:58:50.5734214+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6318,
-      "NumberOfAwardsMax": 4641
-    },
-    {
-      "Time": "2023-04-29T17:59:09.7470213+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6319,
-      "NumberOfAwardsMax": 4641
-    },
-    {
-      "Time": "2023-04-29T19:58:40.7133882+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6321,
-      "NumberOfAwardsMax": 4641
-    },
-    {
-      "Time": "2023-04-30T03:58:49.7174122+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6322,
-      "NumberOfAwardsMax": 4641
-    },
-    {
-      "Time": "2023-04-30T06:58:43.9218969+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6335,
-      "NumberOfAwardsMax": 4654
-    },
-    {
-      "Time": "2023-04-30T21:59:17.1403901+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6336,
-      "NumberOfAwardsMax": 4654
-    },
-    {
-      "Time": "2023-05-01T11:59:24.251789+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6353,
-      "NumberOfAwardsMax": 4671
-    },
-    {
-      "Time": "2023-05-01T14:59:20.8774033+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6354,
-      "NumberOfAwardsMax": 4671
-    },
-    {
-      "Time": "2023-05-01T15:59:24.8479625+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6358,
-      "NumberOfAwardsMax": 4671
-    },
-    {
-      "Time": "2023-05-01T20:59:57.3063262+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6359,
-      "NumberOfAwardsMax": 4671
-    },
-    {
-      "Time": "2023-05-01T21:59:01.462319+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6360,
-      "NumberOfAwardsMax": 4671
-    },
-    {
-      "Time": "2023-05-02T11:59:18.4673261+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6378,
-      "NumberOfAwardsMax": 4689
-    },
-    {
-      "Time": "2023-05-02T20:59:02.4667708+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6379,
-      "NumberOfAwardsMax": 4689
-    },
-    {
-      "Time": "2023-05-03T15:00:07.7246961+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6389,
-      "NumberOfAwardsMax": 4699
-    },
-    {
-      "Time": "2023-05-03T19:59:34.8834801+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6390,
-      "NumberOfAwardsMax": 4699
-    },
-    {
-      "Time": "2023-05-04T01:56:12.3898942+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6391,
-      "NumberOfAwardsMax": 4699
-    },
-    {
-      "Time": "2023-05-04T16:59:34.9085091+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6399,
-      "NumberOfAwardsMax": 4707
-    },
-    {
-      "Time": "2023-05-05T04:58:56.2243455+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6400,
-      "NumberOfAwardsMax": 4707
-    },
-    {
-      "Time": "2023-05-05T13:36:06.2699525+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6402,
-      "NumberOfAwardsMax": 4707
-    },
-    {
-      "Time": "2023-05-05T14:59:01.2606803+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 6403,
-      "NumberOfAwardsMax": 4707
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 63,
-  "LastChanged_Achievements": "2023-05-05T16:08:04.2317639+00:00",
-  "EOS_NewCompleters": 20,
-  "EOS_NewPlayers": 18555,
-  "EOS_Completed": 1222,
-  "EOS_Progressed": 2511233,
-  "LastUpdate_Achievements": "2023-05-05T16:08:04.2318361+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:42.0362215+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:44.6224163+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "8j99d4d",
+      "Name": "Greatest of Great Deliverers",
+      "Percentage": 0.1,
+      "XP": 200,
+      "UsersEstimate": 2511
+    },
+    {
+      "ID": "1",
+      "SetID": "8j99d4d",
+      "Name": "Delivering Is What I Do",
+      "Percentage": 91,
+      "XP": 10,
+      "UsersEstimate": 2285319
+    },
+    {
+      "ID": "10",
+      "SetID": "8j99d4d",
+      "Name": "The Particle of God",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 175794
+    },
+    {
+      "ID": "11",
+      "SetID": "8j99d4d",
+      "Name": "I\u0027m Your Die-Hardman",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 175794
+    },
+    {
+      "ID": "12",
+      "SetID": "8j99d4d",
+      "Name": "Bring Back My Baby",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 175794
+    },
+    {
+      "ID": "13",
+      "SetID": "8j99d4d",
+      "Name": "She\u0027s waiting for you on the Beach.",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 150680
+    },
+    {
+      "ID": "14",
+      "SetID": "8j99d4d",
+      "Name": "Thank You, Sam",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 150680
+    },
+    {
+      "ID": "15",
+      "SetID": "8j99d4d",
+      "Name": "Thanks for Everything",
+      "Percentage": 6,
+      "XP": 40,
+      "UsersEstimate": 150680
+    },
+    {
+      "ID": "16",
+      "SetID": "8j99d4d",
+      "Name": "Everyday Delivery",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 602722
+    },
+    {
+      "ID": "17",
+      "SetID": "8j99d4d",
+      "Name": "Deliveries Done",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 175794
+    },
+    {
+      "ID": "18",
+      "SetID": "8j99d4d",
+      "Name": "Birth of a Legend",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 7534
+    },
+    {
+      "ID": "19",
+      "SetID": "8j99d4d",
+      "Name": "Growth of a Legend",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 2511
+    },
+    {
+      "ID": "2",
+      "SetID": "8j99d4d",
+      "Name": "Rebuilding America",
+      "Percentage": 65,
+      "XP": 10,
+      "UsersEstimate": 1632371
+    },
+    {
+      "ID": "20",
+      "SetID": "8j99d4d",
+      "Name": "A Helping Hand",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 25113
+    },
+    {
+      "ID": "21",
+      "SetID": "8j99d4d",
+      "Name": "The Automation Revolution",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 351588
+    },
+    {
+      "ID": "22",
+      "SetID": "8j99d4d",
+      "Name": "Apprentice Builder",
+      "Percentage": 51,
+      "XP": 10,
+      "UsersEstimate": 1280783
+    },
+    {
+      "ID": "23",
+      "SetID": "8j99d4d",
+      "Name": "Master Builder",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 25113
+    },
+    {
+      "ID": "24",
+      "SetID": "8j99d4d",
+      "Name": "A New Day for the UCA",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1255670
+    },
+    {
+      "ID": "25",
+      "SetID": "8j99d4d",
+      "Name": "In Sam We Trust",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 7534
+    },
+    {
+      "ID": "26",
+      "SetID": "8j99d4d",
+      "Name": "Well Connected",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 904082
+    },
+    {
+      "ID": "27",
+      "SetID": "8j99d4d",
+      "Name": "Best Beloved",
+      "Percentage": 0.2,
+      "XP": 40,
+      "UsersEstimate": 5023
+    },
+    {
+      "ID": "28",
+      "SetID": "8j99d4d",
+      "Name": "Like and Be Liked",
+      "Percentage": 63,
+      "XP": 10,
+      "UsersEstimate": 1582144
+    },
+    {
+      "ID": "29",
+      "SetID": "8j99d4d",
+      "Name": "The People\u0027s Porter",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 753402
+    },
+    {
+      "ID": "3",
+      "SetID": "8j99d4d",
+      "Name": "We Need You",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 502268
+    },
+    {
+      "ID": "30",
+      "SetID": "8j99d4d",
+      "Name": "The World\u0027s Most Popular Porter",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 200907
+    },
+    {
+      "ID": "31",
+      "SetID": "8j99d4d",
+      "Name": "Good Samaritan",
+      "Percentage": 88,
+      "XP": 10,
+      "UsersEstimate": 2209979
+    },
+    {
+      "ID": "32",
+      "SetID": "8j99d4d",
+      "Name": "Giver of Gifts",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 426928
+    },
+    {
+      "ID": "33",
+      "SetID": "8j99d4d",
+      "Name": "Chiral Crafter",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 828742
+    },
+    {
+      "ID": "34",
+      "SetID": "8j99d4d",
+      "Name": "A Thirst for Knowledge",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 502268
+    },
+    {
+      "ID": "35",
+      "SetID": "8j99d4d",
+      "Name": "Fount of Knowledge",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 2511
+    },
+    {
+      "ID": "36",
+      "SetID": "8j99d4d",
+      "Name": "The Custom Kid",
+      "Percentage": 35,
+      "XP": 10,
+      "UsersEstimate": 878969
+    },
+    {
+      "ID": "37",
+      "SetID": "8j99d4d",
+      "Name": "Soak and Sigh",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 175794
+    },
+    {
+      "ID": "38",
+      "SetID": "8j99d4d",
+      "Name": "The Post Guides the Present",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 100454
+    },
+    {
+      "ID": "39",
+      "SetID": "8j99d4d",
+      "Name": "The Past Guides the Present",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 17579
+    },
+    {
+      "ID": "4",
+      "SetID": "8j99d4d",
+      "Name": "I Won\u0027t Break",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 276247
+    },
+    {
+      "ID": "40",
+      "SetID": "8j99d4d",
+      "Name": "Pathfinder",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 351588
+    },
+    {
+      "ID": "41",
+      "SetID": "8j99d4d",
+      "Name": "Childminder",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 50227
+    },
+    {
+      "ID": "42",
+      "SetID": "8j99d4d",
+      "Name": "A Baby Blessing",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 1004536
+    },
+    {
+      "ID": "43",
+      "SetID": "8j99d4d",
+      "Name": "Prominent Porter",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 1004536
+    },
+    {
+      "ID": "44",
+      "SetID": "8j99d4d",
+      "Name": "Great Deliverer",
+      "Percentage": 0.2,
+      "XP": 40,
+      "UsersEstimate": 5023
+    },
+    {
+      "ID": "45",
+      "SetID": "8j99d4d",
+      "Name": "Catcher Crusher",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 527381
+    },
+    {
+      "ID": "46",
+      "SetID": "8j99d4d",
+      "Name": "Snooze \u0027n\u0027 Soothe",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 728289
+    },
+    {
+      "ID": "47",
+      "SetID": "8j99d4d",
+      "Name": "Boots Are a Porter\u0027s Best Friend",
+      "Percentage": 34,
+      "XP": 10,
+      "UsersEstimate": 853856
+    },
+    {
+      "ID": "48",
+      "SetID": "8j99d4d",
+      "Name": "Hooked on Delivering!?",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 75340
+    },
+    {
+      "ID": "49",
+      "SetID": "8j99d4d",
+      "Name": "Pumped Porter",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 200907
+    },
+    {
+      "ID": "5",
+      "SetID": "8j99d4d",
+      "Name": "BB...",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 276247
+    },
+    {
+      "ID": "50",
+      "SetID": "8j99d4d",
+      "Name": "Well-Traveled",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 326474
+    },
+    {
+      "ID": "51",
+      "SetID": "8j99d4d",
+      "Name": "God Particle Go-Getter",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 50227
+    },
+    {
+      "ID": "52",
+      "SetID": "8j99d4d",
+      "Name": "Rest In Pieces",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 125567
+    },
+    {
+      "ID": "53",
+      "SetID": "8j99d4d",
+      "Name": "Any Porter in a Storm",
+      "Percentage": 0.6,
+      "XP": 10,
+      "UsersEstimate": 15068
+    },
+    {
+      "ID": "54",
+      "SetID": "8j99d4d",
+      "Name": "Sleep Tight, Little BB",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 678062
+    },
+    {
+      "ID": "55",
+      "SetID": "8j99d4d",
+      "Name": "A Shout in the Dark",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 602722
+    },
+    {
+      "ID": "56",
+      "SetID": "8j99d4d",
+      "Name": "Public Service Porter",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 75340
+    },
+    {
+      "ID": "57",
+      "SetID": "8j99d4d",
+      "Name": "Trail-Blazer",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 2511
+    },
+    {
+      "ID": "58",
+      "SetID": "8j99d4d",
+      "Name": "I Couldn\u0027t Hold it In!",
+      "Percentage": 38,
+      "XP": 10,
+      "UsersEstimate": 954309
+    },
+    {
+      "ID": "59",
+      "SetID": "8j99d4d",
+      "Name": "All Roads Lead to the UCA",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 376701
+    },
+    {
+      "ID": "6",
+      "SetID": "8j99d4d",
+      "Name": "We\u0027re Whole Again",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 226021
+    },
+    {
+      "ID": "60",
+      "SetID": "8j99d4d",
+      "Name": "Soothing Sounds",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 678062
+    },
+    {
+      "ID": "61",
+      "SetID": "8j99d4d",
+      "Name": "Building Bridges",
+      "Percentage": 34,
+      "XP": 10,
+      "UsersEstimate": 853856
+    },
+    {
+      "ID": "62",
+      "SetID": "8j99d4d",
+      "Name": "Homo Faber",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 2511
+    },
+    {
+      "ID": "7",
+      "SetID": "8j99d4d",
+      "Name": "BBs: A Bridge Between This World and the One Beyond",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 200907
+    },
+    {
+      "ID": "8",
+      "SetID": "8j99d4d",
+      "Name": "BB",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 200907
+    },
+    {
+      "ID": "9",
+      "SetID": "8j99d4d",
+      "Name": "Sixty Deaths and Sixty Births in a Day",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 175794
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8j99d4d",
       "IsBase": true,
-      "Progressed": 2511233,
+      "Progressed": 2511340,
       "Completed": 1222
     }
   ],
-  "EOS_Completed_Percentage": 0.05,
-  "LastChanged": "2023-05-05T14:59:01.26068+00:00",
-  "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
-  "ProductSlug": "death-stranding",
-  "Rating": 4.78,
-  "Ranking_Rating": 101,
-  "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 110,
-  "Ranking_EOS_Progress": 5,
-  "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
-  "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewCompleters": 11,
-  "NumberOfAwards": 6403,
-  "NumberOfAwardsMax": 4707,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
-  "Ranking_EOS_NewPlayers": 9
+  "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
+  "LastChanged": "2023-05-05T14:59:01.26068+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:43.5552397+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:39.8413006+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:37.0665962+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:43.5553032+00:00"
 }

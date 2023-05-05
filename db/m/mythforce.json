@@ -1,70 +1,16 @@
 {
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 32
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 23
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 22
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 20
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "mythforce-d2710b",
+  "Ranking_Rating": 514,
+  "Ranking_Popularity": 434,
+  "Ranking_PopularitySum": 343,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.51,
+  "NumberOfRatings": 285,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.2920773+00:00",
@@ -501,30 +447,85 @@
       "Rating": 4.51
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:16.2016066+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:14.3002173+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:43.9032125+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2022-12-08T03:57:39.0693837+00:00",
-  "ProductSlug": "mythforce-d2710b",
-  "Rating": 4.51,
-  "Ranking_Rating": 514,
-  "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 343,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 285,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 219,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Highly Recommended",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2022-12-08T03:57:39.0693837+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:36.9310761+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:39.148676+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:28.7435716+00:00"
 }

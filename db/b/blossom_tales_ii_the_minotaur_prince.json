@@ -1,6 +1,37 @@
 {
   "ID": "aec58215a9424d00b0d47379180e6af2",
   "Name": "Blossom Tales II The Minotaur Prince",
+  "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
+  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:45.5786698+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 9,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:09.1117908+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -163,32 +194,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:09.1117908+00:00",
-      "NumProgressed": 9,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:45.5786698+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T16:07:41.5665751+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 9,
-  "LastUpdate_Achievements": "2023-05-05T16:07:41.5665913+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:20.1116853+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:47.763091+00:00",
   "AchievementSets": [
     {
       "ID": "2e4ldac",
@@ -197,16 +202,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
-  "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
-  "Ranking_EOS_Progress": 306,
-  "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-17T13:22:10.6759527+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
+  "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:26.6245321+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:41.1116058+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:42.8020148+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:26.6245445+00:00"
 }

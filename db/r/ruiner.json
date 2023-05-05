@@ -1,16 +1,16 @@
 {
   "ID": "74d82b28ab424956ac24407229fe6faa",
   "Name": "RUINER",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 23
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "ruiner",
+  "Ranking_Rating": 489,
+  "Ranking_Popularity": 469,
+  "Ranking_PopularitySum": 471,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.53,
+  "NumberOfRatings": 137,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:12.7413329+00:00",
@@ -341,30 +341,31 @@
       "Rating": 4.53
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:51.2415298+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:22.6401948+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:30.2657521+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-02-08T11:57:47.3832372+00:00",
-  "ProductSlug": "ruiner",
-  "Rating": 4.53,
-  "Ranking_Rating": 489,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 471,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 137,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 23,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 23
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-02-08T11:57:47.3832372+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:26.0677212+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:24.5455966+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:11.7438261+00:00"
 }

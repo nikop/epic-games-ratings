@@ -61,7 +61,7 @@ Diff (max vs sum): -24
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,607 (Ranked 15)  
+Progressed: 702,609 (Ranked 15)  
 Completed: 12,707 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 12,707 (1.81%) (Ranked 57)
 | 2023-05-02 | 702,521 | 12,707 |
 | 2023-05-03 | 702,552 | 12,707 |
 | 2023-05-04 | 702,592 | 12,707 |
-| 2023-05-05 | 702,607 | 12,707 |
+| 2023-05-05 | 702,609 | 12,707 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

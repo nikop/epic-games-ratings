@@ -1,6 +1,142 @@
 {
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
+  "ProductSlug": "sherlock-holmes-the-awakened",
+  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 49,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-12T21:57:08.1785831+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 134,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 6.72,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:47.1075074+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-04-25T22:04:37.3442119+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-26T20:00:06.7943907+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T03:01:52.4076049+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T12:00:16.2668737+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T15:03:25.9671001+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T17:02:25.8295368+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T18:02:07.7269644+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T02:03:14.496888+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T05:02:10.6438642+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T12:02:54.3549555+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T23:03:06.9460412+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-29T19:59:33.1889447+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-29T22:00:20.7469512+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-30T14:00:03.4582493+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-30T19:02:17.0733922+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-01T02:01:42.1217283+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-01T16:01:05.8901191+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-02T15:02:12.3780996+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-03T07:00:24.1307921+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-04T00:02:05.6637762+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-05T08:05:26.3798781+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 9
+    }
+  ],
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "MQ01_1",
@@ -227,137 +363,6 @@
       "UsersEstimate": 15
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:08:47.1075074+00:00",
-      "NumProgressed": 114,
-      "NumCompleted": 7
-    },
-    {
-      "Time": "2023-04-25T22:04:37.3442119+00:00",
-      "NumProgressed": 114,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-26T20:00:06.7943907+00:00",
-      "NumProgressed": 115,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-27T03:01:52.4076049+00:00",
-      "NumProgressed": 116,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-27T12:00:16.2668737+00:00",
-      "NumProgressed": 117,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-27T15:03:25.9671001+00:00",
-      "NumProgressed": 118,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-27T17:02:25.8295368+00:00",
-      "NumProgressed": 119,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-27T18:02:07.7269644+00:00",
-      "NumProgressed": 120,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-28T02:03:14.496888+00:00",
-      "NumProgressed": 121,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-28T05:02:10.6438642+00:00",
-      "NumProgressed": 122,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-28T12:02:54.3549555+00:00",
-      "NumProgressed": 123,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-28T23:03:06.9460412+00:00",
-      "NumProgressed": 124,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-29T19:59:33.1889447+00:00",
-      "NumProgressed": 125,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-29T22:00:20.7469512+00:00",
-      "NumProgressed": 126,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-30T14:00:03.4582493+00:00",
-      "NumProgressed": 127,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-30T19:02:17.0733922+00:00",
-      "NumProgressed": 128,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-05-01T02:01:42.1217283+00:00",
-      "NumProgressed": 129,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-05-01T16:01:05.8901191+00:00",
-      "NumProgressed": 131,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-05-02T15:02:12.3780996+00:00",
-      "NumProgressed": 132,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-05-03T07:00:24.1307921+00:00",
-      "NumProgressed": 133,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-05-04T00:02:05.6637762+00:00",
-      "NumProgressed": 133,
-      "NumCompleted": 9
-    },
-    {
-      "Time": "2023-05-05T08:05:26.3798781+00:00",
-      "NumProgressed": 134,
-      "NumCompleted": 9
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-12T21:57:08.1785831+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T16:07:27.0164424+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 11,
-  "EOS_Completed": 9,
-  "EOS_Progressed": 134,
-  "LastUpdate_Achievements": "2023-05-05T16:07:27.0164643+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:52.4338437+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:51.3826602+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",
@@ -366,16 +371,12 @@
       "Completed": 9
     }
   ],
-  "EOS_Completed_Percentage": 6.72,
-  "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
-  "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_EOS_Progress": 239,
-  "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
-  "Ranking_EOS_NewPlayers": 171
+  "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
+  "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:16.0860299+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:44.3953722+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:16.0860559+00:00"
 }

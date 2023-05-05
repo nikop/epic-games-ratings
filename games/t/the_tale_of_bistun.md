@@ -25,12 +25,12 @@
 | Shoo! Shoo! | 50.00% | ~6 |
 | A Friend In Need | 42.00% | ~5 |
 | The Ultimate Sacrifice | 42.00% | ~5 |
+| Break The Cycle | 42.00% | ~5 |
 | A Stranger's Diary | 42.00% | ~5 |
 | Prison Break | 33.00% | ~4 |
 | I Pick You | 33.00% | ~4 |
 | Accomplished Smithy | 33.00% | ~4 |
 | The Blight's Blight | 33.00% | ~4 |
-| Break The Cycle | 33.00% | ~4 |
 | Continue The Cycle | 33.00% | ~4 |
 | Stand By Nature | 33.00% | ~4 |
 | The Milk Canal | 33.00% | ~4 |

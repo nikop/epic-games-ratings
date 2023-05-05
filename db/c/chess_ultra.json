@@ -1,313 +1,212 @@
 {
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
-  "Achievements": [
+  "ProductSlug": "chess-ultra-91bba3",
+  "Ranking_Rating": 776,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 52,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 14,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.25,
+  "RatingHistory": [
     {
-      "ID": "AbsolutePin",
-      "SetID": "b4je51k",
-      "Name": "Absolute pin",
-      "Percentage": 44,
-      "XP": 20,
-      "UsersEstimate": 69087
+      "Time": "2023-03-28T10:57:23.5590256+00:00",
+      "Rating": 4.27
     },
     {
-      "ID": "AlekhinesGun",
-      "SetID": "b4je51k",
-      "Name": "Alekhine\u2019s gun",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 157
+      "Time": "2023-03-29T10:57:10.7061883+00:00",
+      "Rating": 4.38
     },
     {
-      "ID": "BackRankMate",
-      "SetID": "b4je51k",
-      "Name": "Back-rank Mate",
-      "Percentage": 0.8,
-      "XP": 20,
-      "UsersEstimate": 1256
+      "Time": "2023-03-30T10:57:14.5627542+00:00",
+      "Rating": 4.28
     },
     {
-      "ID": "BlindPigs",
-      "SetID": "b4je51k",
-      "Name": "Blind Pigs",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 3140
+      "Time": "2023-03-31T05:57:12.7349864+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "BobbyTime",
-      "SetID": "b4je51k",
-      "Name": "Bobby Time",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 1570
+      "Time": "2023-03-31T10:39:57.8343549+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "BodensMate",
-      "SetID": "b4je51k",
-      "Name": "Boden\u2019s Mate",
-      "Percentage": 0.1,
-      "XP": 40,
-      "UsersEstimate": 157
+      "Time": "2023-04-01T10:57:20.3986335+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Check",
-      "SetID": "b4je51k",
-      "Name": "Check",
-      "Percentage": 52,
-      "XP": 10,
-      "UsersEstimate": 81648
+      "Time": "2023-04-01T20:57:19.1000136+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Checkmate",
-      "SetID": "b4je51k",
-      "Name": "Checkmate",
-      "Percentage": 28,
-      "XP": 10,
-      "UsersEstimate": 43964
+      "Time": "2023-04-02T16:57:03.8023904+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ChessChampion",
-      "SetID": "b4je51k",
-      "Name": "Chess Champion",
-      "Percentage": 0.3,
-      "XP": 100,
-      "UsersEstimate": 471
+      "Time": "2023-04-02T22:57:27.0669969+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ChopWood",
-      "SetID": "b4je51k",
-      "Name": "Chop Wood",
-      "Percentage": 66,
-      "XP": 10,
-      "UsersEstimate": 103630
+      "Time": "2023-04-04T11:57:04.8976311+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "DoubleCheck",
-      "SetID": "b4je51k",
-      "Name": "Double Check",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 10991
+      "Time": "2023-04-05T11:57:08.8301634+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "DoubledPawn",
-      "SetID": "b4je51k",
-      "Name": "Doubled Pawn",
-      "Percentage": 53,
-      "XP": 10,
-      "UsersEstimate": 83218
+      "Time": "2023-04-06T11:57:07.2543259+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Elo",
-      "SetID": "b4je51k",
-      "Name": "ELO",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 6281
+      "Time": "2023-04-06T23:57:27.5034344+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "EloElo",
-      "SetID": "b4je51k",
-      "Name": "ELO ELO",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 4710
+      "Time": "2023-04-07T16:57:08.6487571+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "EloEloElo",
-      "SetID": "b4je51k",
-      "Name": "ELO ELO ELO",
-      "Percentage": 2,
-      "XP": 100,
-      "UsersEstimate": 3140
+      "Time": "2023-04-08T04:57:27.0725336+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "EnPassant",
-      "SetID": "b4je51k",
-      "Name": "En Passant",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 12561
+      "Time": "2023-04-09T04:57:23.4556304+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "EpauletteMate",
-      "SetID": "b4je51k",
-      "Name": "Epaulette Mate",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 157
+      "Time": "2023-04-10T01:52:00.9562467+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "FamilyFork",
-      "SetID": "b4je51k",
-      "Name": "Family Fork",
-      "Percentage": 5,
-      "XP": 30,
-      "UsersEstimate": 7851
+      "Time": "2023-04-10T16:57:00.9855352+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "FoolsMate",
-      "SetID": "b4je51k",
-      "Name": "Fool\u2019s Mate",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 157
+      "Time": "2023-04-11T02:57:28.6689851+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "FriendlyFire",
-      "SetID": "b4je51k",
-      "Name": "Friendly Fire",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 7851
+      "Time": "2023-04-12T18:57:03.0911883+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Learner",
-      "SetID": "b4je51k",
-      "Name": "Learner",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 3140
+      "Time": "2023-04-14T16:57:06.2584586+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "O-O",
-      "SetID": "b4je51k",
-      "Name": "O-O",
-      "Percentage": 22,
-      "XP": 10,
-      "UsersEstimate": 34543
+      "Time": "2023-04-14T22:57:17.1609867+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "O-O-O",
-      "SetID": "b4je51k",
-      "Name": "O-O-O",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 18842
+      "Time": "2023-04-15T22:57:28.3790391+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Octopus",
-      "SetID": "b4je51k",
-      "Name": "Octopus",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 18842
+      "Time": "2023-04-18T02:57:29.2273883+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "PieceCollector",
-      "SetID": "b4je51k",
-      "Name": "Piece Collector",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 7851
+      "Time": "2023-04-19T02:57:16.7702389+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ProblemSolved",
-      "SetID": "b4je51k",
-      "Name": "Problem Solved",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 157
+      "Time": "2023-04-21T13:57:03.7900728+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ProblemSolver",
-      "SetID": "b4je51k",
-      "Name": "Problem Solver",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 157
+      "Time": "2023-04-21T14:57:15.830867+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Promotion",
-      "SetID": "b4je51k",
-      "Name": "Promotion",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 45534
+      "Time": "2023-04-25T01:57:28.0944605+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "QueenSacrifice",
-      "SetID": "b4je51k",
-      "Name": "Queen Sacrifice",
-      "Percentage": 19,
-      "XP": 40,
-      "UsersEstimate": 29833
+      "Time": "2023-04-27T22:59:49.1231825+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ScholarsMate",
-      "SetID": "b4je51k",
-      "Name": "Scholar\u2019s Mate",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 157
+      "Time": "2023-04-29T22:59:22.2297403+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "SpanishBishop",
-      "SetID": "b4je51k",
-      "Name": "Spanish Bishop",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 29833
+      "Time": "2023-04-30T13:02:30.6792543+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Stalemate",
-      "SetID": "b4je51k",
-      "Name": "Stalemate",
-      "Percentage": 17,
-      "XP": 30,
-      "UsersEstimate": 26693
-    },
-    {
-      "ID": "StrangerDanger",
-      "SetID": "b4je51k",
-      "Name": "Stranger Danger",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 18842
-    },
-    {
-      "ID": "TournamentAmateur",
-      "SetID": "b4je51k",
-      "Name": "Tournament Amateur",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 157
-    },
-    {
-      "ID": "TournamentChampion",
-      "SetID": "b4je51k",
-      "Name": "Tournament Champion",
-      "Percentage": 0,
-      "XP": 100,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "TournamentMaster",
-      "SetID": "b4je51k",
-      "Name": "Tournament Master",
-      "Percentage": 0,
-      "XP": 100,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "TournamentPro",
-      "SetID": "b4je51k",
-      "Name": "Tournament Pro",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "Underpromote",
-      "SetID": "b4je51k",
-      "Name": "Underpromote",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 6281
+      "Time": "2023-05-02T13:06:09.1918946+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 157063,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 7522,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:12.0189836+00:00",
@@ -1518,228 +1417,335 @@
       "Time": "2023-05-05T16:08:08.0889694+00:00",
       "NumProgressed": 157015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T17:09:46.2511337+00:00",
+      "NumProgressed": 157063,
+      "NumCompleted": 0
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-28T10:57:23.5590256+00:00",
-      "Rating": 4.27
-    },
-    {
-      "Time": "2023-03-29T10:57:10.7061883+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2023-03-30T10:57:14.5627542+00:00",
-      "Rating": 4.28
-    },
-    {
-      "Time": "2023-03-31T05:57:12.7349864+00:00",
-      "Rating": 4.28,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-03-31T10:39:57.8343549+00:00",
-      "Rating": 4.38,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-01T10:57:20.3986335+00:00",
-      "Rating": 4.32,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-01T20:57:19.1000136+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-02T16:57:03.8023904+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-02T22:57:27.0669969+00:00",
-      "Rating": 4.28,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-04T11:57:04.8976311+00:00",
-      "Rating": 4.29,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-05T11:57:08.8301634+00:00",
-      "Rating": 4.31,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-06T11:57:07.2543259+00:00",
-      "Rating": 4.3,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-06T23:57:27.5034344+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-07T16:57:08.6487571+00:00",
-      "Rating": 4.26,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-08T04:57:27.0725336+00:00",
-      "Rating": 4.27,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-09T04:57:23.4556304+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-10T01:52:00.9562467+00:00",
-      "Rating": 4.24,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-10T16:57:00.9855352+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-11T02:57:28.6689851+00:00",
-      "Rating": 4.26,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-12T18:57:03.0911883+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T16:57:06.2584586+00:00",
-      "Rating": 4.27,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T22:57:17.1609867+00:00",
-      "Rating": 4.26,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T22:57:28.3790391+00:00",
-      "Rating": 4.28,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-18T02:57:29.2273883+00:00",
-      "Rating": 4.29,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T02:57:16.7702389+00:00",
-      "Rating": 4.27,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-21T13:57:03.7900728+00:00",
-      "Rating": 4.26,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-21T14:57:15.830867+00:00",
-      "Rating": 4.27,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-25T01:57:28.0944605+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-27T22:59:49.1231825+00:00",
-      "Rating": 4.24,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-29T22:59:22.2297403+00:00",
-      "Rating": 4.23,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-30T13:02:30.6792543+00:00",
-      "Rating": 4.24,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-02T13:06:09.1918946+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-05T16:08:08.0889686+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7553,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 157015,
-  "LastUpdate_Achievements": "2023-05-05T16:08:08.089038+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:43.62379+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:04.0423949+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AbsolutePin",
+      "SetID": "b4je51k",
+      "Name": "Absolute pin",
+      "Percentage": 44,
+      "XP": 20,
+      "UsersEstimate": 69108
+    },
+    {
+      "ID": "AlekhinesGun",
+      "SetID": "b4je51k",
+      "Name": "Alekhine\u2019s gun",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "BackRankMate",
+      "SetID": "b4je51k",
+      "Name": "Back-rank Mate",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 1257
+    },
+    {
+      "ID": "BlindPigs",
+      "SetID": "b4je51k",
+      "Name": "Blind Pigs",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 3141
+    },
+    {
+      "ID": "BobbyTime",
+      "SetID": "b4je51k",
+      "Name": "Bobby Time",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1571
+    },
+    {
+      "ID": "BodensMate",
+      "SetID": "b4je51k",
+      "Name": "Boden\u2019s Mate",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "Check",
+      "SetID": "b4je51k",
+      "Name": "Check",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 81673
+    },
+    {
+      "ID": "Checkmate",
+      "SetID": "b4je51k",
+      "Name": "Checkmate",
+      "Percentage": 28,
+      "XP": 10,
+      "UsersEstimate": 43978
+    },
+    {
+      "ID": "ChessChampion",
+      "SetID": "b4je51k",
+      "Name": "Chess Champion",
+      "Percentage": 0.3,
+      "XP": 100,
+      "UsersEstimate": 471
+    },
+    {
+      "ID": "ChopWood",
+      "SetID": "b4je51k",
+      "Name": "Chop Wood",
+      "Percentage": 66,
+      "XP": 10,
+      "UsersEstimate": 103662
+    },
+    {
+      "ID": "DoubleCheck",
+      "SetID": "b4je51k",
+      "Name": "Double Check",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 10994
+    },
+    {
+      "ID": "DoubledPawn",
+      "SetID": "b4je51k",
+      "Name": "Doubled Pawn",
+      "Percentage": 53,
+      "XP": 10,
+      "UsersEstimate": 83243
+    },
+    {
+      "ID": "Elo",
+      "SetID": "b4je51k",
+      "Name": "ELO",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 6283
+    },
+    {
+      "ID": "EloElo",
+      "SetID": "b4je51k",
+      "Name": "ELO ELO",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 4712
+    },
+    {
+      "ID": "EloEloElo",
+      "SetID": "b4je51k",
+      "Name": "ELO ELO ELO",
+      "Percentage": 2,
+      "XP": 100,
+      "UsersEstimate": 3141
+    },
+    {
+      "ID": "EnPassant",
+      "SetID": "b4je51k",
+      "Name": "En Passant",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 12565
+    },
+    {
+      "ID": "EpauletteMate",
+      "SetID": "b4je51k",
+      "Name": "Epaulette Mate",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "FamilyFork",
+      "SetID": "b4je51k",
+      "Name": "Family Fork",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 7853
+    },
+    {
+      "ID": "FoolsMate",
+      "SetID": "b4je51k",
+      "Name": "Fool\u2019s Mate",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "FriendlyFire",
+      "SetID": "b4je51k",
+      "Name": "Friendly Fire",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 7853
+    },
+    {
+      "ID": "Learner",
+      "SetID": "b4je51k",
+      "Name": "Learner",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 3141
+    },
+    {
+      "ID": "O-O",
+      "SetID": "b4je51k",
+      "Name": "O-O",
+      "Percentage": 22,
+      "XP": 10,
+      "UsersEstimate": 34554
+    },
+    {
+      "ID": "O-O-O",
+      "SetID": "b4je51k",
+      "Name": "O-O-O",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 18848
+    },
+    {
+      "ID": "Octopus",
+      "SetID": "b4je51k",
+      "Name": "Octopus",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 18848
+    },
+    {
+      "ID": "PieceCollector",
+      "SetID": "b4je51k",
+      "Name": "Piece Collector",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 7853
+    },
+    {
+      "ID": "ProblemSolved",
+      "SetID": "b4je51k",
+      "Name": "Problem Solved",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "ProblemSolver",
+      "SetID": "b4je51k",
+      "Name": "Problem Solver",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "Promotion",
+      "SetID": "b4je51k",
+      "Name": "Promotion",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 45548
+    },
+    {
+      "ID": "QueenSacrifice",
+      "SetID": "b4je51k",
+      "Name": "Queen Sacrifice",
+      "Percentage": 19,
+      "XP": 40,
+      "UsersEstimate": 29842
+    },
+    {
+      "ID": "ScholarsMate",
+      "SetID": "b4je51k",
+      "Name": "Scholar\u2019s Mate",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "SpanishBishop",
+      "SetID": "b4je51k",
+      "Name": "Spanish Bishop",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 29842
+    },
+    {
+      "ID": "Stalemate",
+      "SetID": "b4je51k",
+      "Name": "Stalemate",
+      "Percentage": 17,
+      "XP": 30,
+      "UsersEstimate": 26701
+    },
+    {
+      "ID": "StrangerDanger",
+      "SetID": "b4je51k",
+      "Name": "Stranger Danger",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 18848
+    },
+    {
+      "ID": "TournamentAmateur",
+      "SetID": "b4je51k",
+      "Name": "Tournament Amateur",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 157
+    },
+    {
+      "ID": "TournamentChampion",
+      "SetID": "b4je51k",
+      "Name": "Tournament Champion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TournamentMaster",
+      "SetID": "b4je51k",
+      "Name": "Tournament Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TournamentPro",
+      "SetID": "b4je51k",
+      "Name": "Tournament Pro",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Underpromote",
+      "SetID": "b4je51k",
+      "Name": "Underpromote",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 6283
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 157015,
+      "Progressed": 157063,
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T13:06:09.1918942+00:00",
-  "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
-  "ProductSlug": "chess-ultra-91bba3",
-  "Rating": 4.25,
-  "Ranking_Rating": 776,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 52,
-  "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
-  "Ranking_EOS_NewPlayers": 14
+  "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
+  "LastChanged": "2023-05-02T13:06:09.1918942+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:46.2511334+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:33.6437598+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:39.4097555+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:46.2511878+00:00"
 }

@@ -1,6 +1,37 @@
 {
   "ID": "12e586edb35c452280f22ffabda0038c",
   "Name": "Faraday Protocol",
+  "ProductSlug": "faraday-protocol-a083a9",
+  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:35.4805102+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 4,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:25.4261701+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 17,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ID_BACK_TO_THE_Z02_LOBBY",
@@ -139,32 +170,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:25.4261701+00:00",
-      "NumProgressed": 4,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:35.4805102+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-05T16:07:15.7130058+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-05T16:07:15.7130199+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:11.41087+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:41.9501217+00:00",
   "AchievementSets": [
     {
       "ID": "5jhk6jb",
@@ -173,16 +178,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:35.48051+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:35.4805099+00:00",
-  "ProductSlug": "faraday-protocol-a083a9",
-  "Ranking_EOS_Progress": 331,
-  "FirstSeenAchievements": "2023-04-25T16:15:25.4261709+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-22T00:32:51.4896379+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:35.4805099+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:25.4261709+00:00",
+  "LastChanged": "2023-03-31T05:58:35.48051+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:07.8738862+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:34.7495201+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:37.2566704+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:07.8738987+00:00"
 }

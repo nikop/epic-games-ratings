@@ -1,6 +1,85 @@
 {
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
+  "ProductSlug": "deponia-doomsday-1848dd",
+  "Ranking_Rating": 447,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.56,
+  "RatingHistory": [
+    {
+      "Time": "2022-10-15T13:33:12.9761112+00:00",
+      "Rating": 4.55
+    },
+    {
+      "Time": "2022-10-28T07:02:30.1892679+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2022-11-04T07:34:07.407022+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-11-10T09:58:35.7814889+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2022-11-11T09:58:04.2115426+00:00",
+      "Rating": 4.58
+    },
+    {
+      "Time": "2022-11-13T09:58:25.5913013+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2022-11-20T10:58:44.2190329+00:00",
+      "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T05:58:38.7354103+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T16:58:11.0368692+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 356,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.69,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:31.6449061+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-29T18:05:06.2826673+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-02T02:03:51.9736979+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 6
+    }
+  ],
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "dep4_achievement_1",
@@ -291,76 +370,6 @@
       "UsersEstimate": 21
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:31.6449061+00:00",
-      "NumProgressed": 354,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-04-29T18:05:06.2826673+00:00",
-      "NumProgressed": 355,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-05-02T02:03:51.9736979+00:00",
-      "NumProgressed": 356,
-      "NumCompleted": 6
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-10-15T13:33:12.9761112+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2022-10-28T07:02:30.1892679+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-04T07:34:07.407022+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-11-10T09:58:35.7814889+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-11T09:58:04.2115426+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2022-11-13T09:58:25.5913013+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-20T10:58:44.2190329+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2023-03-31T05:58:38.7354103+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T16:58:11.0368692+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-05T16:08:18.653472+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 6,
-  "EOS_Progressed": 356,
-  "LastUpdate_Achievements": "2023-05-05T16:08:18.6535006+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:37.3384187+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:21.8624178+00:00",
   "AchievementSets": [
     {
       "ID": "5d32b60",
@@ -369,20 +378,12 @@
       "Completed": 6
     }
   ],
-  "EOS_Completed_Percentage": 1.69,
-  "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
-  "ProductSlug": "deponia-doomsday-1848dd",
-  "Rating": 4.56,
-  "Ranking_Rating": 447,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 195,
-  "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-30T17:02:29.7644171+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
+  "LastChanged": "2023-04-17T16:58:11.036869+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:54.2610745+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:20.9602311+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:14.4171054+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:54.261103+00:00"
 }

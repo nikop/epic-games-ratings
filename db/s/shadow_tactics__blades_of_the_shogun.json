@@ -1,360 +1,956 @@
 {
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
-  "Achievements": [
+  "ProductSlug": "shadow-tactics",
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 173,
+  "Ranking_PopularitySum": 125,
+  "Ranking_EOS_Progress": 50,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.66,
+  "NumberOfRatings": 495,
+  "RatingHistory": [
     {
-      "ID": "AThiefsBeginning",
-      "SetID": "ak6bfk8",
-      "Name": "A thief\u0027s beginning",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 11526
+      "Time": "2022-07-22T20:21:59.8684255+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 208
     },
     {
-      "ID": "AtheistOx",
-      "SetID": "ak6bfk8",
-      "Name": "Atheist Ox",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 1647
+      "Time": "2022-07-23T06:01:52.1587953+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 213
     },
     {
-      "ID": "ChickenDinner",
-      "SetID": "ak6bfk8",
-      "Name": "Chicken Dinner",
-      "Percentage": 0.1,
-      "XP": 15,
-      "UsersEstimate": 165
+      "Time": "2022-07-23T16:01:00.5414237+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 214
     },
     {
-      "ID": "Chunin",
-      "SetID": "ak6bfk8",
-      "Name": "Chunin",
-      "Percentage": 5,
-      "XP": 50,
-      "UsersEstimate": 8233
+      "Time": "2022-07-23T20:00:53.3598187+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 217
     },
     {
-      "ID": "CompleteMastery",
-      "SetID": "ak6bfk8",
-      "Name": "Complete Mastery",
-      "Percentage": 0.1,
-      "XP": 100,
-      "UsersEstimate": 165
+      "Time": "2022-07-24T02:00:50.2660684+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 219
     },
     {
-      "ID": "Disguised",
-      "SetID": "ak6bfk8",
-      "Name": "Disguised",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 9879
+      "Time": "2022-07-24T22:00:55.0290891+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 226
     },
     {
-      "ID": "FiveShadows",
-      "SetID": "ak6bfk8",
-      "Name": "Five Shadows",
-      "Percentage": 0.2,
-      "XP": 15,
-      "UsersEstimate": 329
+      "Time": "2022-07-25T12:01:47.5455346+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 229
     },
     {
-      "ID": "FlyingRocks",
-      "SetID": "ak6bfk8",
-      "Name": "Flying Rocks",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 6586
+      "Time": "2022-07-25T14:02:04.9947596+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 230
     },
     {
-      "ID": "GearUp",
-      "SetID": "ak6bfk8",
-      "Name": "Gear up",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 4940
+      "Time": "2022-07-26T14:02:54.8388541+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 235
     },
     {
-      "ID": "Genin",
-      "SetID": "ak6bfk8",
-      "Name": "Genin",
-      "Percentage": 10,
-      "XP": 25,
-      "UsersEstimate": 16466
+      "Time": "2022-07-27T02:01:44.3451805+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 237
     },
     {
-      "ID": "HappyLittleAccidents",
-      "SetID": "ak6bfk8",
-      "Name": "Happy little accidents",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 4940
+      "Time": "2022-07-28T02:01:05.5797722+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 240
     },
     {
-      "ID": "HappyPlanning",
-      "SetID": "ak6bfk8",
-      "Name": "Happy Planning",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 6586
+      "Time": "2022-07-28T16:01:15.4979269+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 244
     },
     {
-      "ID": "HighFiveTheMoon",
-      "SetID": "ak6bfk8",
-      "Name": "High Five the Moon",
-      "Percentage": 0.6,
-      "XP": 15,
-      "UsersEstimate": 988
+      "Time": "2022-07-28T16:58:13.6296266+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 245
     },
     {
-      "ID": "IceIceYuki",
-      "SetID": "ak6bfk8",
-      "Name": "Ice Ice Yuki",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 8233
+      "Time": "2022-07-29T08:00:49.3458588+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 246
     },
     {
-      "ID": "ItsRainingMen",
-      "SetID": "ak6bfk8",
-      "Name": "It\u0027s raining men",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 3293
+      "Time": "2022-07-29T20:01:29.6087748+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 249
     },
     {
-      "ID": "Jonin",
-      "SetID": "ak6bfk8",
-      "Name": "Jonin",
-      "Percentage": 6,
-      "XP": 50,
-      "UsersEstimate": 9879
+      "Time": "2022-07-30T20:01:08.6819555+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 259
     },
     {
-      "ID": "Mercyful",
-      "SetID": "ak6bfk8",
-      "Name": "Merciful",
-      "Percentage": 0.4,
-      "XP": 15,
-      "UsersEstimate": 659
+      "Time": "2022-07-30T20:31:02.8789381+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 249
     },
     {
-      "ID": "Meticulous",
-      "SetID": "ak6bfk8",
-      "Name": "Meticulous",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 1647
+      "Time": "2022-07-30T21:30:55.3324051+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 259
     },
     {
-      "ID": "Mimimi",
-      "SetID": "ak6bfk8",
-      "Name": "Mimimi",
-      "Percentage": 0.1,
-      "XP": 100,
-      "UsersEstimate": 165
+      "Time": "2022-07-31T13:01:08.6878148+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 260
     },
     {
-      "ID": "MugenUnchained",
-      "SetID": "ak6bfk8",
-      "Name": "Mugen Unchained",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 6586
+      "Time": "2022-07-31T16:00:56.9674683+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 261
     },
     {
-      "ID": "NoGimmicks",
-      "SetID": "ak6bfk8",
-      "Name": "No Gimmicks",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 1647
+      "Time": "2022-08-01T03:00:51.3419173+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 265
     },
     {
-      "ID": "Noboru",
-      "SetID": "ak6bfk8",
-      "Name": "Noboru",
-      "Percentage": 3,
-      "XP": 25,
-      "UsersEstimate": 4940
+      "Time": "2022-08-01T09:01:27.6927347+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 266
     },
     {
-      "ID": "Okkoto",
-      "SetID": "ak6bfk8",
-      "Name": "Okkoto",
-      "Percentage": 4,
-      "XP": 25,
-      "UsersEstimate": 6586
+      "Time": "2022-08-01T16:01:02.045165+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 271
     },
     {
-      "ID": "OldMan",
-      "SetID": "ak6bfk8",
-      "Name": "Old Man",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 1647
+      "Time": "2022-08-02T13:01:24.427498+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 275
     },
     {
-      "ID": "PraiseTheShogun",
-      "SetID": "ak6bfk8",
-      "Name": "Praise the Shogun",
-      "Percentage": 0.1,
-      "XP": 15,
-      "UsersEstimate": 165
+      "Time": "2022-08-03T10:32:02.9853865+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 279
     },
     {
-      "ID": "Prisoners",
-      "SetID": "ak6bfk8",
-      "Name": "Prisoners",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 4940
+      "Time": "2022-08-03T13:31:06.9056946+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 280
     },
     {
-      "ID": "ReleaseTheKraken",
-      "SetID": "ak6bfk8",
-      "Name": "Release the Kraken",
-      "Percentage": 0.1,
-      "XP": 15,
-      "UsersEstimate": 165
+      "Time": "2022-08-04T06:00:55.0605074+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 282
     },
     {
-      "ID": "RescueTakuma",
-      "SetID": "ak6bfk8",
-      "Name": "Rescue Takuma",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 9879
+      "Time": "2022-08-05T12:30:57.5817333+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 288
     },
     {
-      "ID": "Rollin",
-      "SetID": "ak6bfk8",
-      "Name": "Rollin\u0027",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 9879
+      "Time": "2022-08-05T15:31:00.8636669+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 290
     },
     {
-      "ID": "StillRollin",
-      "SetID": "ak6bfk8",
-      "Name": "Still Rollin\u0027",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 4940
+      "Time": "2022-08-06T05:30:52.7841409+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 293
     },
     {
-      "ID": "Stoned",
-      "SetID": "ak6bfk8",
-      "Name": "Stoned",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 3293
+      "Time": "2022-08-06T09:00:55.7671445+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": 294
     },
     {
-      "ID": "StonedOx",
-      "SetID": "ak6bfk8",
-      "Name": "Stoned Ox",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 8233
+      "Time": "2022-08-06T19:00:54.3724867+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 295
     },
     {
-      "ID": "TanukiTime",
-      "SetID": "ak6bfk8",
-      "Name": "Tanuki Time",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 11526
+      "Time": "2022-08-06T20:30:57.2215201+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 296
     },
     {
-      "ID": "TheCave",
-      "SetID": "ak6bfk8",
-      "Name": "The Cave",
-      "Percentage": 0.5,
-      "XP": 15,
-      "UsersEstimate": 823
+      "Time": "2022-08-07T00:30:55.9707732+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 297
     },
     {
-      "ID": "TheEnd",
-      "SetID": "ak6bfk8",
-      "Name": "The End",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 1647
+      "Time": "2022-08-08T06:30:55.0867144+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 298
     },
     {
-      "ID": "TheOldWay",
-      "SetID": "ak6bfk8",
-      "Name": "The Old Way",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 3293
+      "Time": "2022-08-09T07:00:58.5413035+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 299
     },
     {
-      "ID": "Thorough",
-      "SetID": "ak6bfk8",
-      "Name": "Thorough",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 13172
+      "Time": "2022-08-10T14:30:55.9544661+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 301
     },
     {
-      "ID": "TimeParadox",
-      "SetID": "ak6bfk8",
-      "Name": "Time Paradox",
-      "Percentage": 0.4,
-      "XP": 15,
-      "UsersEstimate": 659
+      "Time": "2022-08-11T00:00:59.3394386+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 302
     },
     {
-      "ID": "UndeservedHonor",
-      "SetID": "ak6bfk8",
-      "Name": "Undeserved Honor",
-      "Percentage": 0.8,
-      "XP": 15,
-      "UsersEstimate": 1317
+      "Time": "2022-08-11T13:31:05.0831155+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 303
     },
     {
-      "ID": "WarriorBarrel",
-      "SetID": "ak6bfk8",
-      "Name": "Too Early",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 4940
+      "Time": "2022-08-13T02:01:18.3162637+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 307
     },
     {
-      "ID": "Warzone",
-      "SetID": "ak6bfk8",
-      "Name": "Warzone",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 6586
+      "Time": "2022-08-13T05:00:46.7913897+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 308
     },
     {
-      "ID": "WhenCutAcrossTheNeck",
-      "SetID": "ak6bfk8",
-      "Name": "When Cut Across the Neck",
-      "Percentage": 0.7,
-      "XP": 15,
-      "UsersEstimate": 1153
+      "Time": "2022-08-13T09:00:54.859764+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 309
     },
     {
-      "ID": "WinnerWinner",
-      "SetID": "ak6bfk8",
-      "Name": "Winner Winner",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 1647
+      "Time": "2022-08-14T00:30:56.919924+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 311
     },
     {
-      "ID": "Yabu",
-      "SetID": "ak6bfk8",
-      "Name": "Yabu",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 8233
+      "Time": "2022-08-15T00:30:53.3792475+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": 320
+    },
+    {
+      "Time": "2022-08-15T12:31:01.1803882+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 324
+    },
+    {
+      "Time": "2022-08-16T10:01:33.3822304+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 331
+    },
+    {
+      "Time": "2022-08-17T03:31:47.7874395+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 332
+    },
+    {
+      "Time": "2022-08-17T06:30:53.423453+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 333
+    },
+    {
+      "Time": "2022-08-17T12:30:53.0467526+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 334
+    },
+    {
+      "Time": "2022-08-18T12:30:58.0548201+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 341
+    },
+    {
+      "Time": "2022-08-18T23:01:05.4991155+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 344
+    },
+    {
+      "Time": "2022-08-19T11:02:08.4387452+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 350
+    },
+    {
+      "Time": "2022-08-20T08:30:53.2798292+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 358
+    },
+    {
+      "Time": "2022-08-21T13:00:57.9067751+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 366
+    },
+    {
+      "Time": "2022-08-21T16:01:00.9625235+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 367
+    },
+    {
+      "Time": "2022-08-21T22:30:56.2838605+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 369
+    },
+    {
+      "Time": "2022-08-22T22:31:28.5415799+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 379
+    },
+    {
+      "Time": "2022-08-23T07:32:01.5465324+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 380
+    },
+    {
+      "Time": "2022-08-23T20:01:32.9527743+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 384
+    },
+    {
+      "Time": "2022-08-24T01:30:55.2331679+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 385
+    },
+    {
+      "Time": "2022-08-24T10:01:31.2996764+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 386
+    },
+    {
+      "Time": "2022-08-24T11:30:59.9452417+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 387
+    },
+    {
+      "Time": "2022-08-25T10:01:01.5121069+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 390
+    },
+    {
+      "Time": "2022-08-26T07:02:05.0947621+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 395
+    },
+    {
+      "Time": "2022-08-27T07:30:59.4847978+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 399
+    },
+    {
+      "Time": "2022-08-27T09:31:04.529686+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 400
+    },
+    {
+      "Time": "2022-08-28T06:00:59.8764018+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 403
+    },
+    {
+      "Time": "2022-08-29T06:00:56.8043152+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 407
+    },
+    {
+      "Time": "2022-08-30T11:31:11.1254429+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 408
+    },
+    {
+      "Time": "2022-08-30T16:01:42.9765786+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": 409
+    },
+    {
+      "Time": "2022-08-31T05:31:46.8528793+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 414
+    },
+    {
+      "Time": "2022-08-31T13:01:18.7964315+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 415
+    },
+    {
+      "Time": "2022-09-01T04:31:31.9224714+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 418
+    },
+    {
+      "Time": "2022-09-01T08:01:24.5330344+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 420
+    },
+    {
+      "Time": "2022-09-01T14:33:05.6313431+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 421
+    },
+    {
+      "Time": "2022-09-01T15:31:02.9853042+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 422
+    },
+    {
+      "Time": "2022-09-01T21:01:42.1667338+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 423
+    },
+    {
+      "Time": "2022-09-02T05:30:59.051365+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 425
+    },
+    {
+      "Time": "2022-09-02T16:01:51.8001217+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 426
+    },
+    {
+      "Time": "2022-09-04T03:31:06.745203+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 430
+    },
+    {
+      "Time": "2022-09-04T20:30:57.9622568+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 437
+    },
+    {
+      "Time": "2022-09-05T20:30:59.8684159+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 440
+    },
+    {
+      "Time": "2022-09-06T11:00:56.0869528+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 441
+    },
+    {
+      "Time": "2022-09-06T21:30:59.8160641+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 445
+    },
+    {
+      "Time": "2022-09-07T10:01:04.3212996+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 446
+    },
+    {
+      "Time": "2022-09-08T01:01:09.9154144+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 448
+    },
+    {
+      "Time": "2022-09-08T18:30:57.1884692+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 451
+    },
+    {
+      "Time": "2022-09-09T18:30:56.8115421+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 455
+    },
+    {
+      "Time": "2022-09-10T10:30:57.0848363+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 457
+    },
+    {
+      "Time": "2022-09-10T23:01:09.0450106+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 459
+    },
+    {
+      "Time": "2022-09-11T11:31:02.9095367+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 460
+    },
+    {
+      "Time": "2022-09-11T17:31:12.425513+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 461
+    },
+    {
+      "Time": "2022-09-12T09:31:14.6133769+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 462
+    },
+    {
+      "Time": "2022-09-12T15:02:03.3390052+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 463
+    },
+    {
+      "Time": "2022-09-12T18:31:07.3327167+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 464
+    },
+    {
+      "Time": "2022-09-12T22:31:29.7204663+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 465
+    },
+    {
+      "Time": "2022-09-13T22:31:38.9439614+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 468
+    },
+    {
+      "Time": "2022-09-14T14:30:56.5558746+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 470
+    },
+    {
+      "Time": "2022-09-14T16:30:57.0367577+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 471
+    },
+    {
+      "Time": "2022-09-15T16:01:49.5862127+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 473
+    },
+    {
+      "Time": "2022-09-15T18:31:12.0726114+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 474
+    },
+    {
+      "Time": "2022-09-16T12:00:57.0511482+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 477
+    },
+    {
+      "Time": "2022-09-17T12:00:56.7736746+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 482
+    },
+    {
+      "Time": "2022-09-17T13:00:58.0177208+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 483
+    },
+    {
+      "Time": "2022-09-17T17:31:02.152042+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 485
+    },
+    {
+      "Time": "2022-09-19T05:00:59.9359531+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 486
+    },
+    {
+      "Time": "2022-09-19T19:01:16.3798549+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 488
+    },
+    {
+      "Time": "2022-09-20T04:01:02.9603934+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 489
+    },
+    {
+      "Time": "2022-09-20T21:01:29.6237447+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 490
+    },
+    {
+      "Time": "2022-09-21T15:31:00.290326+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 491
+    },
+    {
+      "Time": "2022-09-22T15:31:02.5396554+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": 493
+    },
+    {
+      "Time": "2022-09-22T22:31:05.6581908+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": 495
+    },
+    {
+      "Time": "2022-09-26T20:32:19.1412678+00:00",
+      "Rating": 4.76
+    },
+    {
+      "Time": "2022-10-02T23:01:04.9534601+00:00",
+      "Rating": 4.77
+    },
+    {
+      "Time": "2022-10-04T03:30:55.7244539+00:00",
+      "Rating": 4.76
+    },
+    {
+      "Time": "2022-10-25T19:33:06.5754715+00:00",
+      "Rating": 4.75
+    },
+    {
+      "Time": "2022-11-10T13:39:26.8347504+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-11-11T13:32:11.9199247+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-11-11T17:08:19.5234228+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-11-12T05:57:25.1091281+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-11-12T08:57:26.5779387+00:00",
+      "Rating": 4.7
+    },
+    {
+      "Time": "2022-11-12T09:57:16.9545669+00:00",
+      "Rating": 4.69
+    },
+    {
+      "Time": "2022-11-12T11:57:21.0947991+00:00",
+      "Rating": 4.7
+    },
+    {
+      "Time": "2022-11-12T13:18:02.6636496+00:00",
+      "Rating": 4.69
+    },
+    {
+      "Time": "2022-11-12T23:57:11.6284616+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-13T14:57:47.2023972+00:00",
+      "Rating": 4.64
+    },
+    {
+      "Time": "2022-11-14T02:49:12.1773946+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-14T13:38:41.7140202+00:00",
+      "Rating": 4.64
+    },
+    {
+      "Time": "2022-11-15T04:12:44.2399771+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-15T13:25:59.2458879+00:00",
+      "Rating": 4.64
+    },
+    {
+      "Time": "2022-11-15T15:57:36.0800987+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-15T17:57:15.0907391+00:00",
+      "Rating": 4.64
+    },
+    {
+      "Time": "2022-11-16T07:57:45.3491504+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-19T03:32:16.1568419+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-19T14:57:21.5646592+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-19T15:57:08.3794099+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-19T21:57:35.2191592+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-21T11:57:51.0446561+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-21T17:57:08.5599843+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-22T02:40:19.1141971+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-25T10:57:16.9190689+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-25T14:57:32.5071135+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-25T18:57:34.0651553+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-26T11:57:31.3993449+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-26T16:57:46.5530588+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-29T16:58:44.8612766+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-11-29T17:57:48.2598043+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-29T18:57:20.1876833+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2022-12-01T05:57:34.8428327+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-12-01T20:57:40.9101624+00:00",
+      "Rating": 4.66
+    },
+    {
+      "Time": "2023-03-31T11:57:35.1401425+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4602,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-01T02:57:33.6917374+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4603,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-01T11:57:22.5658048+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4604,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-04T04:57:34.2046147+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4606,
+      "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2023-04-05T06:57:29.82538+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4607,
+      "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2023-04-05T23:57:22.9808382+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4609,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-08T03:57:36.6541209+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4610,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-09T13:00:44.9262343+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4611,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-09T15:57:09.0351289+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4612,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-10T05:57:37.5052989+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4613,
+      "NumberOfAwardsMax": 543
+    },
+    {
+      "Time": "2023-04-12T01:56:37.1824045+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4614,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-13T06:57:42.0274126+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4615,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-14T13:03:43.401743+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4616,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-15T13:00:44.6104066+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4617,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-15T16:57:28.8900696+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4618,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-16T16:57:14.3064266+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4619,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-16T18:57:33.7879486+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4621,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-18T09:58:09.5588435+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4622,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-18T16:57:44.809839+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4623,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-20T08:57:48.5448129+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4625,
+      "NumberOfAwardsMax": 546
+    },
+    {
+      "Time": "2023-04-20T17:57:12.2119591+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4626,
+      "NumberOfAwardsMax": 546
+    },
+    {
+      "Time": "2023-04-24T16:57:28.6749145+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4627,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-25T04:57:46.8247852+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4628,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-25T17:57:37.0052712+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4630,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-26T08:59:55.7534116+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4631,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-28T16:59:38.1051676+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4632,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-28T18:59:09.1891563+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4633,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-28T23:59:19.1482517+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4634,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-29T13:01:07.0029735+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4636,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-30T10:58:22.1586362+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4637,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-01T08:58:15.4516575+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4639,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-01T14:58:44.3380888+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4640,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-02T01:57:14.4833281+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4641,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-04T05:59:02.4143148+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4642,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-04T11:58:49.8867807+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4643,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-04T23:58:26.3292813+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4644,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-05-05T13:03:47.151849+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4646,
+      "NumberOfAwardsMax": 547
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 4646,
+  "NumberOfAwardsMax": 547,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -423,6 +1019,11 @@
       "Count": 242
     }
   ],
+  "EOS_Progressed": 164672,
+  "EOS_Completed": 41,
+  "EOS_NewPlayers": 2231,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.1019566+00:00",
@@ -1633,977 +2234,382 @@
       "Time": "2023-05-05T16:07:51.6894449+00:00",
       "NumProgressed": 164656,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-05T17:09:34.4222943+00:00",
+      "NumProgressed": 164672,
+      "NumCompleted": 41
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:21:59.8684255+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 208
-    },
-    {
-      "Time": "2022-07-23T06:01:52.1587953+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 213
-    },
-    {
-      "Time": "2022-07-23T16:01:00.5414237+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 214
-    },
-    {
-      "Time": "2022-07-23T20:00:53.3598187+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 217
-    },
-    {
-      "Time": "2022-07-24T02:00:50.2660684+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 219
-    },
-    {
-      "Time": "2022-07-24T22:00:55.0290891+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": 226
-    },
-    {
-      "Time": "2022-07-25T12:01:47.5455346+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 229
-    },
-    {
-      "Time": "2022-07-25T14:02:04.9947596+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 230
-    },
-    {
-      "Time": "2022-07-26T14:02:54.8388541+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 235
-    },
-    {
-      "Time": "2022-07-27T02:01:44.3451805+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 237
-    },
-    {
-      "Time": "2022-07-28T02:01:05.5797722+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 240
-    },
-    {
-      "Time": "2022-07-28T16:01:15.4979269+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 244
-    },
-    {
-      "Time": "2022-07-28T16:58:13.6296266+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 245
-    },
-    {
-      "Time": "2022-07-29T08:00:49.3458588+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 246
-    },
-    {
-      "Time": "2022-07-29T20:01:29.6087748+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": 249
-    },
-    {
-      "Time": "2022-07-30T20:01:08.6819555+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 259
-    },
-    {
-      "Time": "2022-07-30T20:31:02.8789381+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": 249
-    },
-    {
-      "Time": "2022-07-30T21:30:55.3324051+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 259
-    },
-    {
-      "Time": "2022-07-31T13:01:08.6878148+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 260
-    },
-    {
-      "Time": "2022-07-31T16:00:56.9674683+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 261
-    },
-    {
-      "Time": "2022-08-01T03:00:51.3419173+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 265
-    },
-    {
-      "Time": "2022-08-01T09:01:27.6927347+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 266
-    },
-    {
-      "Time": "2022-08-01T16:01:02.045165+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 271
-    },
-    {
-      "Time": "2022-08-02T13:01:24.427498+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 275
-    },
-    {
-      "Time": "2022-08-03T10:32:02.9853865+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 279
-    },
-    {
-      "Time": "2022-08-03T13:31:06.9056946+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 280
-    },
-    {
-      "Time": "2022-08-04T06:00:55.0605074+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 282
-    },
-    {
-      "Time": "2022-08-05T12:30:57.5817333+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 288
-    },
-    {
-      "Time": "2022-08-05T15:31:00.8636669+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 290
-    },
-    {
-      "Time": "2022-08-06T05:30:52.7841409+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 293
-    },
-    {
-      "Time": "2022-08-06T09:00:55.7671445+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": 294
-    },
-    {
-      "Time": "2022-08-06T19:00:54.3724867+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 295
-    },
-    {
-      "Time": "2022-08-06T20:30:57.2215201+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 296
-    },
-    {
-      "Time": "2022-08-07T00:30:55.9707732+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 297
-    },
-    {
-      "Time": "2022-08-08T06:30:55.0867144+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 298
-    },
-    {
-      "Time": "2022-08-09T07:00:58.5413035+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 299
-    },
-    {
-      "Time": "2022-08-10T14:30:55.9544661+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 301
-    },
-    {
-      "Time": "2022-08-11T00:00:59.3394386+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 302
-    },
-    {
-      "Time": "2022-08-11T13:31:05.0831155+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 303
-    },
-    {
-      "Time": "2022-08-13T02:01:18.3162637+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 307
-    },
-    {
-      "Time": "2022-08-13T05:00:46.7913897+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 308
-    },
-    {
-      "Time": "2022-08-13T09:00:54.859764+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 309
-    },
-    {
-      "Time": "2022-08-14T00:30:56.919924+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 311
-    },
-    {
-      "Time": "2022-08-15T00:30:53.3792475+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": 320
-    },
-    {
-      "Time": "2022-08-15T12:31:01.1803882+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 324
-    },
-    {
-      "Time": "2022-08-16T10:01:33.3822304+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 331
-    },
-    {
-      "Time": "2022-08-17T03:31:47.7874395+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 332
-    },
-    {
-      "Time": "2022-08-17T06:30:53.423453+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 333
-    },
-    {
-      "Time": "2022-08-17T12:30:53.0467526+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 334
-    },
-    {
-      "Time": "2022-08-18T12:30:58.0548201+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 341
-    },
-    {
-      "Time": "2022-08-18T23:01:05.4991155+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 344
-    },
-    {
-      "Time": "2022-08-19T11:02:08.4387452+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 350
-    },
-    {
-      "Time": "2022-08-20T08:30:53.2798292+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 358
-    },
-    {
-      "Time": "2022-08-21T13:00:57.9067751+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 366
-    },
-    {
-      "Time": "2022-08-21T16:01:00.9625235+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 367
-    },
-    {
-      "Time": "2022-08-21T22:30:56.2838605+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 369
-    },
-    {
-      "Time": "2022-08-22T22:31:28.5415799+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 379
-    },
-    {
-      "Time": "2022-08-23T07:32:01.5465324+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 380
-    },
-    {
-      "Time": "2022-08-23T20:01:32.9527743+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 384
-    },
-    {
-      "Time": "2022-08-24T01:30:55.2331679+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 385
-    },
-    {
-      "Time": "2022-08-24T10:01:31.2996764+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 386
-    },
-    {
-      "Time": "2022-08-24T11:30:59.9452417+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 387
-    },
-    {
-      "Time": "2022-08-25T10:01:01.5121069+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 390
-    },
-    {
-      "Time": "2022-08-26T07:02:05.0947621+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 395
-    },
-    {
-      "Time": "2022-08-27T07:30:59.4847978+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 399
-    },
-    {
-      "Time": "2022-08-27T09:31:04.529686+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 400
-    },
-    {
-      "Time": "2022-08-28T06:00:59.8764018+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 403
-    },
-    {
-      "Time": "2022-08-29T06:00:56.8043152+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 407
-    },
-    {
-      "Time": "2022-08-30T11:31:11.1254429+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 408
-    },
-    {
-      "Time": "2022-08-30T16:01:42.9765786+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": 409
-    },
-    {
-      "Time": "2022-08-31T05:31:46.8528793+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 414
-    },
-    {
-      "Time": "2022-08-31T13:01:18.7964315+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 415
-    },
-    {
-      "Time": "2022-09-01T04:31:31.9224714+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 418
-    },
-    {
-      "Time": "2022-09-01T08:01:24.5330344+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 420
-    },
-    {
-      "Time": "2022-09-01T14:33:05.6313431+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 421
-    },
-    {
-      "Time": "2022-09-01T15:31:02.9853042+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 422
-    },
-    {
-      "Time": "2022-09-01T21:01:42.1667338+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 423
-    },
-    {
-      "Time": "2022-09-02T05:30:59.051365+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 425
-    },
-    {
-      "Time": "2022-09-02T16:01:51.8001217+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 426
-    },
-    {
-      "Time": "2022-09-04T03:31:06.745203+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 430
-    },
-    {
-      "Time": "2022-09-04T20:30:57.9622568+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 437
-    },
-    {
-      "Time": "2022-09-05T20:30:59.8684159+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 440
-    },
-    {
-      "Time": "2022-09-06T11:00:56.0869528+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 441
-    },
-    {
-      "Time": "2022-09-06T21:30:59.8160641+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 445
-    },
-    {
-      "Time": "2022-09-07T10:01:04.3212996+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 446
-    },
-    {
-      "Time": "2022-09-08T01:01:09.9154144+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 448
-    },
-    {
-      "Time": "2022-09-08T18:30:57.1884692+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 451
-    },
-    {
-      "Time": "2022-09-09T18:30:56.8115421+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 455
-    },
-    {
-      "Time": "2022-09-10T10:30:57.0848363+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 457
-    },
-    {
-      "Time": "2022-09-10T23:01:09.0450106+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 459
-    },
-    {
-      "Time": "2022-09-11T11:31:02.9095367+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 460
-    },
-    {
-      "Time": "2022-09-11T17:31:12.425513+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 461
-    },
-    {
-      "Time": "2022-09-12T09:31:14.6133769+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 462
-    },
-    {
-      "Time": "2022-09-12T15:02:03.3390052+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 463
-    },
-    {
-      "Time": "2022-09-12T18:31:07.3327167+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 464
-    },
-    {
-      "Time": "2022-09-12T22:31:29.7204663+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 465
-    },
-    {
-      "Time": "2022-09-13T22:31:38.9439614+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 468
-    },
-    {
-      "Time": "2022-09-14T14:30:56.5558746+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 470
-    },
-    {
-      "Time": "2022-09-14T16:30:57.0367577+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 471
-    },
-    {
-      "Time": "2022-09-15T16:01:49.5862127+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 473
-    },
-    {
-      "Time": "2022-09-15T18:31:12.0726114+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 474
-    },
-    {
-      "Time": "2022-09-16T12:00:57.0511482+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 477
-    },
-    {
-      "Time": "2022-09-17T12:00:56.7736746+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 482
-    },
-    {
-      "Time": "2022-09-17T13:00:58.0177208+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": 483
-    },
-    {
-      "Time": "2022-09-17T17:31:02.152042+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": 485
-    },
-    {
-      "Time": "2022-09-19T05:00:59.9359531+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": 486
-    },
-    {
-      "Time": "2022-09-19T19:01:16.3798549+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": 488
-    },
-    {
-      "Time": "2022-09-20T04:01:02.9603934+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": 489
-    },
-    {
-      "Time": "2022-09-20T21:01:29.6237447+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 490
-    },
-    {
-      "Time": "2022-09-21T15:31:00.290326+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 491
-    },
-    {
-      "Time": "2022-09-22T15:31:02.5396554+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": 493
-    },
-    {
-      "Time": "2022-09-22T22:31:05.6581908+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": 495
-    },
-    {
-      "Time": "2022-09-26T20:32:19.1412678+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2022-10-02T23:01:04.9534601+00:00",
-      "Rating": 4.77
-    },
-    {
-      "Time": "2022-10-04T03:30:55.7244539+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2022-10-25T19:33:06.5754715+00:00",
-      "Rating": 4.75
-    },
-    {
-      "Time": "2022-11-10T13:39:26.8347504+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-11-11T13:32:11.9199247+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-11-11T17:08:19.5234228+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-11-12T05:57:25.1091281+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-11-12T08:57:26.5779387+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2022-11-12T09:57:16.9545669+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-11-12T11:57:21.0947991+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2022-11-12T13:18:02.6636496+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-11-12T23:57:11.6284616+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-13T14:57:47.2023972+00:00",
-      "Rating": 4.64
-    },
-    {
-      "Time": "2022-11-14T02:49:12.1773946+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-14T13:38:41.7140202+00:00",
-      "Rating": 4.64
-    },
-    {
-      "Time": "2022-11-15T04:12:44.2399771+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-15T13:25:59.2458879+00:00",
-      "Rating": 4.64
-    },
-    {
-      "Time": "2022-11-15T15:57:36.0800987+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-15T17:57:15.0907391+00:00",
-      "Rating": 4.64
-    },
-    {
-      "Time": "2022-11-16T07:57:45.3491504+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-19T03:32:16.1568419+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-19T14:57:21.5646592+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-19T15:57:08.3794099+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-19T21:57:35.2191592+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-21T11:57:51.0446561+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-21T17:57:08.5599843+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-22T02:40:19.1141971+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-25T10:57:16.9190689+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-25T14:57:32.5071135+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-25T18:57:34.0651553+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-26T11:57:31.3993449+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-26T16:57:46.5530588+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-29T16:58:44.8612766+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-11-29T17:57:48.2598043+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-29T18:57:20.1876833+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2022-12-01T05:57:34.8428327+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-12-01T20:57:40.9101624+00:00",
-      "Rating": 4.66
-    },
-    {
-      "Time": "2023-03-31T11:57:35.1401425+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4602,
-      "NumberOfAwardsMax": 539
-    },
-    {
-      "Time": "2023-04-01T02:57:33.6917374+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4603,
-      "NumberOfAwardsMax": 539
-    },
-    {
-      "Time": "2023-04-01T11:57:22.5658048+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4604,
-      "NumberOfAwardsMax": 539
-    },
-    {
-      "Time": "2023-04-04T04:57:34.2046147+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4606,
-      "NumberOfAwardsMax": 541
-    },
-    {
-      "Time": "2023-04-05T06:57:29.82538+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4607,
-      "NumberOfAwardsMax": 541
-    },
-    {
-      "Time": "2023-04-05T23:57:22.9808382+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4609,
-      "NumberOfAwardsMax": 542
-    },
-    {
-      "Time": "2023-04-08T03:57:36.6541209+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4610,
-      "NumberOfAwardsMax": 542
-    },
-    {
-      "Time": "2023-04-09T13:00:44.9262343+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4611,
-      "NumberOfAwardsMax": 542
-    },
-    {
-      "Time": "2023-04-09T15:57:09.0351289+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4612,
-      "NumberOfAwardsMax": 542
-    },
-    {
-      "Time": "2023-04-10T05:57:37.5052989+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4613,
-      "NumberOfAwardsMax": 543
-    },
-    {
-      "Time": "2023-04-12T01:56:37.1824045+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4614,
-      "NumberOfAwardsMax": 544
-    },
-    {
-      "Time": "2023-04-13T06:57:42.0274126+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4615,
-      "NumberOfAwardsMax": 544
-    },
-    {
-      "Time": "2023-04-14T13:03:43.401743+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4616,
-      "NumberOfAwardsMax": 544
-    },
-    {
-      "Time": "2023-04-15T13:00:44.6104066+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4617,
-      "NumberOfAwardsMax": 544
-    },
-    {
-      "Time": "2023-04-15T16:57:28.8900696+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4618,
-      "NumberOfAwardsMax": 545
-    },
-    {
-      "Time": "2023-04-16T16:57:14.3064266+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4619,
-      "NumberOfAwardsMax": 545
-    },
-    {
-      "Time": "2023-04-16T18:57:33.7879486+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4621,
-      "NumberOfAwardsMax": 545
-    },
-    {
-      "Time": "2023-04-18T09:58:09.5588435+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4622,
-      "NumberOfAwardsMax": 545
-    },
-    {
-      "Time": "2023-04-18T16:57:44.809839+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4623,
-      "NumberOfAwardsMax": 545
-    },
-    {
-      "Time": "2023-04-20T08:57:48.5448129+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4625,
-      "NumberOfAwardsMax": 546
-    },
-    {
-      "Time": "2023-04-20T17:57:12.2119591+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4626,
-      "NumberOfAwardsMax": 546
-    },
-    {
-      "Time": "2023-04-24T16:57:28.6749145+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4627,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-25T04:57:46.8247852+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4628,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-25T17:57:37.0052712+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4630,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-26T08:59:55.7534116+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4631,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-28T16:59:38.1051676+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4632,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-28T18:59:09.1891563+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4633,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-28T23:59:19.1482517+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4634,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-29T13:01:07.0029735+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4636,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-04-30T10:58:22.1586362+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4637,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-01T08:58:15.4516575+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4639,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-01T14:58:44.3380888+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4640,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-02T01:57:14.4833281+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4641,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-04T05:59:02.4143148+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4642,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-04T11:58:49.8867807+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4643,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-04T23:58:26.3292813+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4644,
-      "NumberOfAwardsMax": 547
-    },
-    {
-      "Time": "2023-05-05T13:03:47.151849+00:00",
-      "Rating": 4.66,
-      "NumberOfAwards": 4646,
-      "NumberOfAwardsMax": 547
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T16:07:51.6894446+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2233,
-  "EOS_Completed": 41,
-  "EOS_Progressed": 164656,
-  "LastUpdate_Achievements": "2023-05-05T16:07:51.6894876+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:59.9603934+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:15.7425296+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AThiefsBeginning",
+      "SetID": "ak6bfk8",
+      "Name": "A thief\u0027s beginning",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 11527
+    },
+    {
+      "ID": "AtheistOx",
+      "SetID": "ak6bfk8",
+      "Name": "Atheist Ox",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "ChickenDinner",
+      "SetID": "ak6bfk8",
+      "Name": "Chicken Dinner",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "Chunin",
+      "SetID": "ak6bfk8",
+      "Name": "Chunin",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 8234
+    },
+    {
+      "ID": "CompleteMastery",
+      "SetID": "ak6bfk8",
+      "Name": "Complete Mastery",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "Disguised",
+      "SetID": "ak6bfk8",
+      "Name": "Disguised",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 9880
+    },
+    {
+      "ID": "FiveShadows",
+      "SetID": "ak6bfk8",
+      "Name": "Five Shadows",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 329
+    },
+    {
+      "ID": "FlyingRocks",
+      "SetID": "ak6bfk8",
+      "Name": "Flying Rocks",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 6587
+    },
+    {
+      "ID": "GearUp",
+      "SetID": "ak6bfk8",
+      "Name": "Gear up",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 4940
+    },
+    {
+      "ID": "Genin",
+      "SetID": "ak6bfk8",
+      "Name": "Genin",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 16467
+    },
+    {
+      "ID": "HappyLittleAccidents",
+      "SetID": "ak6bfk8",
+      "Name": "Happy little accidents",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 4940
+    },
+    {
+      "ID": "HappyPlanning",
+      "SetID": "ak6bfk8",
+      "Name": "Happy Planning",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 6587
+    },
+    {
+      "ID": "HighFiveTheMoon",
+      "SetID": "ak6bfk8",
+      "Name": "High Five the Moon",
+      "Percentage": 0.6,
+      "XP": 15,
+      "UsersEstimate": 988
+    },
+    {
+      "ID": "IceIceYuki",
+      "SetID": "ak6bfk8",
+      "Name": "Ice Ice Yuki",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 8234
+    },
+    {
+      "ID": "ItsRainingMen",
+      "SetID": "ak6bfk8",
+      "Name": "It\u0027s raining men",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 3293
+    },
+    {
+      "ID": "Jonin",
+      "SetID": "ak6bfk8",
+      "Name": "Jonin",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 9880
+    },
+    {
+      "ID": "Mercyful",
+      "SetID": "ak6bfk8",
+      "Name": "Merciful",
+      "Percentage": 0.4,
+      "XP": 15,
+      "UsersEstimate": 659
+    },
+    {
+      "ID": "Meticulous",
+      "SetID": "ak6bfk8",
+      "Name": "Meticulous",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "Mimimi",
+      "SetID": "ak6bfk8",
+      "Name": "Mimimi",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "MugenUnchained",
+      "SetID": "ak6bfk8",
+      "Name": "Mugen Unchained",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 6587
+    },
+    {
+      "ID": "NoGimmicks",
+      "SetID": "ak6bfk8",
+      "Name": "No Gimmicks",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "Noboru",
+      "SetID": "ak6bfk8",
+      "Name": "Noboru",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 4940
+    },
+    {
+      "ID": "Okkoto",
+      "SetID": "ak6bfk8",
+      "Name": "Okkoto",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 6587
+    },
+    {
+      "ID": "OldMan",
+      "SetID": "ak6bfk8",
+      "Name": "Old Man",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "PraiseTheShogun",
+      "SetID": "ak6bfk8",
+      "Name": "Praise the Shogun",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "Prisoners",
+      "SetID": "ak6bfk8",
+      "Name": "Prisoners",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 4940
+    },
+    {
+      "ID": "ReleaseTheKraken",
+      "SetID": "ak6bfk8",
+      "Name": "Release the Kraken",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "RescueTakuma",
+      "SetID": "ak6bfk8",
+      "Name": "Rescue Takuma",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 9880
+    },
+    {
+      "ID": "Rollin",
+      "SetID": "ak6bfk8",
+      "Name": "Rollin\u0027",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 9880
+    },
+    {
+      "ID": "StillRollin",
+      "SetID": "ak6bfk8",
+      "Name": "Still Rollin\u0027",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 4940
+    },
+    {
+      "ID": "Stoned",
+      "SetID": "ak6bfk8",
+      "Name": "Stoned",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 3293
+    },
+    {
+      "ID": "StonedOx",
+      "SetID": "ak6bfk8",
+      "Name": "Stoned Ox",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 8234
+    },
+    {
+      "ID": "TanukiTime",
+      "SetID": "ak6bfk8",
+      "Name": "Tanuki Time",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 11527
+    },
+    {
+      "ID": "TheCave",
+      "SetID": "ak6bfk8",
+      "Name": "The Cave",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 823
+    },
+    {
+      "ID": "TheEnd",
+      "SetID": "ak6bfk8",
+      "Name": "The End",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "TheOldWay",
+      "SetID": "ak6bfk8",
+      "Name": "The Old Way",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 3293
+    },
+    {
+      "ID": "Thorough",
+      "SetID": "ak6bfk8",
+      "Name": "Thorough",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 13174
+    },
+    {
+      "ID": "TimeParadox",
+      "SetID": "ak6bfk8",
+      "Name": "Time Paradox",
+      "Percentage": 0.4,
+      "XP": 15,
+      "UsersEstimate": 659
+    },
+    {
+      "ID": "UndeservedHonor",
+      "SetID": "ak6bfk8",
+      "Name": "Undeserved Honor",
+      "Percentage": 0.8,
+      "XP": 15,
+      "UsersEstimate": 1317
+    },
+    {
+      "ID": "WarriorBarrel",
+      "SetID": "ak6bfk8",
+      "Name": "Too Early",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 4940
+    },
+    {
+      "ID": "Warzone",
+      "SetID": "ak6bfk8",
+      "Name": "Warzone",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 6587
+    },
+    {
+      "ID": "WhenCutAcrossTheNeck",
+      "SetID": "ak6bfk8",
+      "Name": "When Cut Across the Neck",
+      "Percentage": 0.7,
+      "XP": 15,
+      "UsersEstimate": 1153
+    },
+    {
+      "ID": "WinnerWinner",
+      "SetID": "ak6bfk8",
+      "Name": "Winner Winner",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "Yabu",
+      "SetID": "ak6bfk8",
+      "Name": "Yabu",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 8234
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164656,
+      "Progressed": 164672,
       "Completed": 41
     }
   ],
-  "EOS_Completed_Percentage": 0.02,
-  "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
-  "ProductSlug": "shadow-tactics",
-  "Rating": 4.66,
-  "Ranking_Rating": 272,
-  "Ranking_Popularity": 173,
-  "Ranking_PopularitySum": 125,
-  "Ranking_EOS_Progress": 50,
-  "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfRatings": 495,
-  "NumberOfAwards": 4646,
-  "NumberOfAwardsMax": 547,
-  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "Ranking_EOS_NewPlayers": 31
+  "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
+  "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:34.4222938+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:09.8632245+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:08.8319164+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:34.4223701+00:00"
 }

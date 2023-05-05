@@ -1,6 +1,57 @@
 {
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
+  "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
+  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:12.5416793+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 53,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 4,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 3.77,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:11.7250837+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-28T19:04:05.0508547+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-28T22:03:35.3924798+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-29T23:00:27.6752687+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T17:01:29.0360265+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 2
+    }
+  ],
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "0",
@@ -91,52 +142,6 @@
       "UsersEstimate": 10
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:11.7250837+00:00",
-      "NumProgressed": 48,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-28T19:04:05.0508547+00:00",
-      "NumProgressed": 49,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-28T22:03:35.3924798+00:00",
-      "NumProgressed": 51,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-29T23:00:27.6752687+00:00",
-      "NumProgressed": 52,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T17:01:29.0360265+00:00",
-      "NumProgressed": 53,
-      "NumCompleted": 2
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:12.5416793+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-05T16:07:22.0877896+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4,
-  "EOS_Completed": 2,
-  "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-05T16:07:22.0878014+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:43.8374706+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:05.010886+00:00",
   "AchievementSets": [
     {
       "ID": "acl54ke",
@@ -151,16 +156,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 3.77,
-  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
-  "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 269,
-  "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
-  "Ranking_EOS_NewPlayers": 198
+  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
+  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:12.4044349+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:57.9380112+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:58.2041334+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:12.404445+00:00"
 }

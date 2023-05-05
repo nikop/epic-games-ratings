@@ -1,9 +1,16 @@
 {
   "ID": "4b9bd8b8a4804e088d3412062a4f0251",
   "Name": "Aeterna Noctis",
-  "Achievements": [],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "aeterna-noctis",
+  "Ranking_Rating": 447,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.56,
+  "NumberOfRatings": 21,
   "RatingHistory": [
     {
       "Time": "2022-09-14T16:00:55.3418126+00:00",
@@ -54,16 +61,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:08:05.644945+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:08:05.644949+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:11.8557774+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:05.3835917+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "7okl86j",
@@ -72,21 +82,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:03.4753145+00:00",
-  "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
-  "ProductSlug": "aeterna-noctis",
-  "Rating": 4.56,
-  "Ranking_Rating": 447,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:08:56.35812+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 21,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:49.6622036+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:56.35812+00:00",
+  "LastChanged": "2023-03-31T05:57:03.4753145+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:44.4825922+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:02.4338521+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:57.1925005+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:44.4825945+00:00"
 }

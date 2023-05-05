@@ -1,6 +1,109 @@
 {
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
+  "ProductSlug": "train-valley-ead642",
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.47,
+  "NumberOfRatings": 28,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-24T18:00:59.0035372+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-07-25T18:01:18.6919979+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-29T17:31:19.4461992+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-05T21:01:08.3196297+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 26
+    },
+    {
+      "Time": "2022-08-12T19:01:01.6171939+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-08-16T14:33:08.4110067+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-10-01T21:31:10.8319671+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-10-03T21:31:39.2379649+00:00",
+      "Rating": 4.4
+    },
+    {
+      "Time": "2022-10-15T23:31:41.9863464+00:00",
+      "Rating": 4.39
+    },
+    {
+      "Time": "2022-10-16T13:01:06.7270048+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-11-02T15:02:18.3058001+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-11-04T16:32:02.503875+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-12-24T04:57:44.2934436+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-03-30T04:58:04.3970024+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2023-03-31T05:57:32.4531081+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 272,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.74,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:48.389739+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T07:03:27.8704115+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 2
+    }
+  ],
+  "TotalAchievements": 39,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "01_gettingstarted",
@@ -315,99 +418,6 @@
       "UsersEstimate": 2
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:48.389739+00:00",
-      "NumProgressed": 271,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T07:03:27.8704115+00:00",
-      "NumProgressed": 272,
-      "NumCompleted": 2
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-24T18:00:59.0035372+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 20
-    },
-    {
-      "Time": "2022-07-25T18:01:18.6919979+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": 21
-    },
-    {
-      "Time": "2022-07-29T17:31:19.4461992+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 24
-    },
-    {
-      "Time": "2022-08-05T21:01:08.3196297+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 26
-    },
-    {
-      "Time": "2022-08-12T19:01:01.6171939+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 27
-    },
-    {
-      "Time": "2022-08-16T14:33:08.4110067+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 28
-    },
-    {
-      "Time": "2022-10-01T21:31:10.8319671+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-10-03T21:31:39.2379649+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-10-15T23:31:41.9863464+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2022-10-16T13:01:06.7270048+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-11-02T15:02:18.3058001+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-11-04T16:32:02.503875+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-12-24T04:57:44.2934436+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-03-30T04:58:04.3970024+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2023-03-31T05:57:32.4531081+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-05T16:04:31.6138568+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 2,
-  "EOS_Progressed": 272,
-  "LastUpdate_Achievements": "2023-05-05T16:04:31.6139116+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:19.836233+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:09.1815402+00:00",
   "AchievementSets": [
     {
       "ID": "chb1m60",
@@ -416,20 +426,11 @@
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 0.74,
-  "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "ProductSlug": "train-valley-ead642",
-  "Rating": 4.47,
-  "Ranking_Rating": 574,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 211,
-  "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 28,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
+  "LastChanged": "2023-03-31T05:57:32.453108+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:07:19.3170907+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:58.8226513+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:02.8370568+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:19.3171306+00:00"
 }

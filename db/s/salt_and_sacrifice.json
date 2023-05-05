@@ -1,1162 +1,16 @@
 {
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
-  "Achievements": [
-    {
-      "ID": "aeromancer",
-      "SetID": "2jelldm",
-      "Name": "The Aeromancer",
-      "Percentage": 66,
-      "XP": 10,
-      "UsersEstimate": 42068
-    },
-    {
-      "ID": "area_copse",
-      "SetID": "2jelldm",
-      "Name": "The Copse",
-      "Percentage": 29,
-      "XP": 15,
-      "UsersEstimate": 18485
-    },
-    {
-      "ID": "area_mountain",
-      "SetID": "2jelldm",
-      "Name": "The Mountain",
-      "Percentage": 40,
-      "XP": 10,
-      "UsersEstimate": 25496
-    },
-    {
-      "ID": "area_swamp",
-      "SetID": "2jelldm",
-      "Name": "The Swamp",
-      "Percentage": 50,
-      "XP": 10,
-      "UsersEstimate": 31870
-    },
-    {
-      "ID": "area_wastes",
-      "SetID": "2jelldm",
-      "Name": "The Wastes",
-      "Percentage": 83,
-      "XP": 10,
-      "UsersEstimate": 52904
-    },
-    {
-      "ID": "bibliomancer",
-      "SetID": "2jelldm",
-      "Name": "The Bibliomancer",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 15935
-    },
-    {
-      "ID": "bluedragon",
-      "SetID": "2jelldm",
-      "Name": "The Dragon",
-      "Percentage": 29,
-      "XP": 15,
-      "UsersEstimate": 18485
-    },
-    {
-      "ID": "chronomancer",
-      "SetID": "2jelldm",
-      "Name": "The Chronomancer",
-      "Percentage": 32,
-      "XP": 10,
-      "UsersEstimate": 20397
-    },
-    {
-      "ID": "corpumancer",
-      "SetID": "2jelldm",
-      "Name": "The Corpumancer",
-      "Percentage": 42,
-      "XP": 10,
-      "UsersEstimate": 26771
-    },
-    {
-      "ID": "crafting_all_replenish_found",
-      "SetID": "2jelldm",
-      "Name": "Well Stocked",
-      "Percentage": 27,
-      "XP": 50,
-      "UsersEstimate": 17210
-    },
-    {
-      "ID": "crafting_all_replenish_upgrade",
-      "SetID": "2jelldm",
-      "Name": "Top Shelf",
-      "Percentage": 5,
-      "XP": 50,
-      "UsersEstimate": 3187
-    },
-    {
-      "ID": "crafting_first_craft",
-      "SetID": "2jelldm",
-      "Name": "Waste Not",
-      "Percentage": 80,
-      "XP": 10,
-      "UsersEstimate": 50992
-    },
-    {
-      "ID": "crafting_first_replenish",
-      "SetID": "2jelldm",
-      "Name": "Stock Up",
-      "Percentage": 75,
-      "XP": 10,
-      "UsersEstimate": 47805
-    },
-    {
-      "ID": "crafting_max_upgrade",
-      "SetID": "2jelldm",
-      "Name": "Want Not",
-      "Percentage": 21,
-      "XP": 50,
-      "UsersEstimate": 13385
-    },
-    {
-      "ID": "cryomancer",
-      "SetID": "2jelldm",
-      "Name": "The Cryomancer",
-      "Percentage": 76,
-      "XP": 10,
-      "UsersEstimate": 48442
-    },
-    {
-      "ID": "diablomancer",
-      "SetID": "2jelldm",
-      "Name": "The Diablomancer",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 13385
-    },
-    {
-      "ID": "dracomancer",
-      "SetID": "2jelldm",
-      "Name": "The Dracomancer",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 18485
-    },
-    {
-      "ID": "electromancer",
-      "SetID": "2jelldm",
-      "Name": "The Electromancer",
-      "Percentage": 61,
-      "XP": 10,
-      "UsersEstimate": 38881
-    },
-    {
-      "ID": "elfslayer",
-      "SetID": "2jelldm",
-      "Name": "The Champion",
-      "Percentage": 91,
-      "XP": 15,
-      "UsersEstimate": 58003
-    },
-    {
-      "ID": "end_climb",
-      "SetID": "2jelldm",
-      "Name": "Make The Climb",
-      "Percentage": 10,
-      "XP": 100,
-      "UsersEstimate": 6374
-    },
-    {
-      "ID": "end_devour",
-      "SetID": "2jelldm",
-      "Name": "Take Your Place",
-      "Percentage": 14,
-      "XP": 100,
-      "UsersEstimate": 8924
-    },
-    {
-      "ID": "faction_blueheart",
-      "SetID": "2jelldm",
-      "Name": "Blueheart Runners",
-      "Percentage": 54,
-      "XP": 15,
-      "UsersEstimate": 34420
-    },
-    {
-      "ID": "faction_chaos",
-      "SetID": "2jelldm",
-      "Name": "Chaos Hunger",
-      "Percentage": 27,
-      "XP": 15,
-      "UsersEstimate": 17210
-    },
-    {
-      "ID": "faction_dawnlight",
-      "SetID": "2jelldm",
-      "Name": "Dawnlight Order",
-      "Percentage": 64,
-      "XP": 15,
-      "UsersEstimate": 40794
-    },
-    {
-      "ID": "faction_oath",
-      "SetID": "2jelldm",
-      "Name": "Oathbound Watchers",
-      "Percentage": 33,
-      "XP": 15,
-      "UsersEstimate": 21034
-    },
-    {
-      "ID": "faction_sheriff",
-      "SetID": "2jelldm",
-      "Name": "Sheriff Inquisitors",
-      "Percentage": 55,
-      "XP": 15,
-      "UsersEstimate": 35057
-    },
-    {
-      "ID": "faction_shroud",
-      "SetID": "2jelldm",
-      "Name": "Shroud Alliance",
-      "Percentage": 39,
-      "XP": 15,
-      "UsersEstimate": 24859
-    },
-    {
-      "ID": "firelord",
-      "SetID": "2jelldm",
-      "Name": "The Firelord",
-      "Percentage": 24,
-      "XP": 15,
-      "UsersEstimate": 15298
-    },
-    {
-      "ID": "fungalmancer",
-      "SetID": "2jelldm",
-      "Name": "The Fungalmancer",
-      "Percentage": 47,
-      "XP": 10,
-      "UsersEstimate": 29958
-    },
-    {
-      "ID": "hag",
-      "SetID": "2jelldm",
-      "Name": "The Hag",
-      "Percentage": 45,
-      "XP": 15,
-      "UsersEstimate": 28683
-    },
-    {
-      "ID": "huntsman",
-      "SetID": "2jelldm",
-      "Name": "The Huntsman",
-      "Percentage": 65,
-      "XP": 15,
-      "UsersEstimate": 41431
-    },
-    {
-      "ID": "hydromancer",
-      "SetID": "2jelldm",
-      "Name": "The Hydromancer",
-      "Percentage": 73,
-      "XP": 10,
-      "UsersEstimate": 46530
-    },
-    {
-      "ID": "kinetomancer",
-      "SetID": "2jelldm",
-      "Name": "The Kinetomancer",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 17210
-    },
-    {
-      "ID": "luminimancer",
-      "SetID": "2jelldm",
-      "Name": "The Luminimancer",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 15935
-    },
-    {
-      "ID": "mechanomancer",
-      "SetID": "2jelldm",
-      "Name": "The Mechanomancer",
-      "Percentage": 32,
-      "XP": 10,
-      "UsersEstimate": 20397
-    },
-    {
-      "ID": "messiah",
-      "SetID": "2jelldm",
-      "Name": "The Sacrifice",
-      "Percentage": 21,
-      "XP": 50,
-      "UsersEstimate": 13385
-    },
-    {
-      "ID": "mummy",
-      "SetID": "2jelldm",
-      "Name": "The Exalted",
-      "Percentage": 56,
-      "XP": 15,
-      "UsersEstimate": 35694
-    },
-    {
-      "ID": "necromancer",
-      "SetID": "2jelldm",
-      "Name": "The Necromancer",
-      "Percentage": 52,
-      "XP": 10,
-      "UsersEstimate": 33145
-    },
-    {
-      "ID": "neuromancer",
-      "SetID": "2jelldm",
-      "Name": "The Neuromancer",
-      "Percentage": 34,
-      "XP": 10,
-      "UsersEstimate": 21672
-    },
-    {
-      "ID": "npc_blue_nomad",
-      "SetID": "2jelldm",
-      "Name": "The Nomad",
-      "Percentage": 14,
-      "XP": 20,
-      "UsersEstimate": 8924
-    },
-    {
-      "ID": "npc_king",
-      "SetID": "2jelldm",
-      "Name": "The King",
-      "Percentage": 18,
-      "XP": 20,
-      "UsersEstimate": 11473
-    },
-    {
-      "ID": "npc_owlmancer",
-      "SetID": "2jelldm",
-      "Name": "The Scholar",
-      "Percentage": 10,
-      "XP": 20,
-      "UsersEstimate": 6374
-    },
-    {
-      "ID": "npc_soldier",
-      "SetID": "2jelldm",
-      "Name": "The Soldier",
-      "Percentage": 11,
-      "XP": 20,
-      "UsersEstimate": 7011
-    },
-    {
-      "ID": "pyromancer",
-      "SetID": "2jelldm",
-      "Name": "The Pyromancer",
-      "Percentage": 86,
-      "XP": 10,
-      "UsersEstimate": 54816
-    },
-    {
-      "ID": "queen",
-      "SetID": "2jelldm",
-      "Name": "The Matriarch",
-      "Percentage": 70,
-      "XP": 15,
-      "UsersEstimate": 44618
-    },
-    {
-      "ID": "sanguimancer",
-      "SetID": "2jelldm",
-      "Name": "The Sanguimancer",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 17210
-    },
-    {
-      "ID": "skylord",
-      "SetID": "2jelldm",
-      "Name": "The Skylord",
-      "Percentage": 25,
-      "XP": 15,
-      "UsersEstimate": 15935
-    },
-    {
-      "ID": "terramancer",
-      "SetID": "2jelldm",
-      "Name": "The Terramancer",
-      "Percentage": 59,
-      "XP": 10,
-      "UsersEstimate": 37607
-    },
-    {
-      "ID": "thaumamancer",
-      "SetID": "2jelldm",
-      "Name": "The Thaumamancer",
-      "Percentage": 47,
-      "XP": 10,
-      "UsersEstimate": 29958
-    },
-    {
-      "ID": "treeheart",
-      "SetID": "2jelldm",
-      "Name": "The Treeheart",
-      "Percentage": 40,
-      "XP": 15,
-      "UsersEstimate": 25496
-    },
-    {
-      "ID": "two_monks",
-      "SetID": "2jelldm",
-      "Name": "The Two Monks",
-      "Percentage": 37,
-      "XP": 15,
-      "UsersEstimate": 23584
-    },
-    {
-      "ID": "umbramancer",
-      "SetID": "2jelldm",
-      "Name": "The Umbramancer",
-      "Percentage": 28,
-      "XP": 15,
-      "UsersEstimate": 17847
-    },
-    {
-      "ID": "venomancer",
-      "SetID": "2jelldm",
-      "Name": "The Venomancer",
-      "Percentage": 65,
-      "XP": 10,
-      "UsersEstimate": 41431
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 929
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 538
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 53
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 65
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 63
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 54
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 55
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 52
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 39
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 50
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 51
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:04.9867144+00:00",
-      "NumProgressed": 63534,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T16:37:58.7118731+00:00",
-      "NumProgressed": 63537,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T16:58:49.9189861+00:00",
-      "NumProgressed": 63538,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T18:57:49.4657264+00:00",
-      "NumProgressed": 63540,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T19:14:44.6995195+00:00",
-      "NumProgressed": 63541,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T20:47:33.4256865+00:00",
-      "NumProgressed": 63542,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T22:06:55.7777713+00:00",
-      "NumProgressed": 63545,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-25T23:04:45.8536197+00:00",
-      "NumProgressed": 63547,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T03:06:36.7297739+00:00",
-      "NumProgressed": 63548,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T06:08:01.379562+00:00",
-      "NumProgressed": 63551,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T08:06:15.0809653+00:00",
-      "NumProgressed": 63552,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T10:04:56.3182831+00:00",
-      "NumProgressed": 63553,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T12:07:11.3649179+00:00",
-      "NumProgressed": 63555,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T13:14:24.3116343+00:00",
-      "NumProgressed": 63556,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T15:03:14.4628577+00:00",
-      "NumProgressed": 63557,
-      "NumCompleted": 1138
-    },
-    {
-      "Time": "2023-04-26T17:03:16.9575551+00:00",
-      "NumProgressed": 63559,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-26T18:03:09.3409471+00:00",
-      "NumProgressed": 63561,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-26T19:03:09.8333189+00:00",
-      "NumProgressed": 63563,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-26T20:02:14.4957089+00:00",
-      "NumProgressed": 63564,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-26T21:03:21.2847027+00:00",
-      "NumProgressed": 63565,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-26T22:02:12.8632007+00:00",
-      "NumProgressed": 63567,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T00:01:05.60308+00:00",
-      "NumProgressed": 63568,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T02:02:28.9818779+00:00",
-      "NumProgressed": 63569,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T04:03:17.9953145+00:00",
-      "NumProgressed": 63571,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T05:02:17.8110927+00:00",
-      "NumProgressed": 63572,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T06:02:23.5859458+00:00",
-      "NumProgressed": 63573,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T09:02:07.0391835+00:00",
-      "NumProgressed": 63574,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T11:59:52.8657022+00:00",
-      "NumProgressed": 63575,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T15:02:51.3357551+00:00",
-      "NumProgressed": 63577,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T16:01:49.174756+00:00",
-      "NumProgressed": 63578,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T19:00:58.1962913+00:00",
-      "NumProgressed": 63580,
-      "NumCompleted": 1139
-    },
-    {
-      "Time": "2023-04-27T20:01:19.4554141+00:00",
-      "NumProgressed": 63580,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-27T21:00:11.0836179+00:00",
-      "NumProgressed": 63582,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T00:00:24.5406959+00:00",
-      "NumProgressed": 63583,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T02:02:35.5394162+00:00",
-      "NumProgressed": 63585,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T04:01:59.216082+00:00",
-      "NumProgressed": 63587,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T06:01:28.546063+00:00",
-      "NumProgressed": 63588,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T12:02:30.4607005+00:00",
-      "NumProgressed": 63589,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T16:01:03.4870743+00:00",
-      "NumProgressed": 63591,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T18:02:02.5353931+00:00",
-      "NumProgressed": 63594,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T20:02:34.6188854+00:00",
-      "NumProgressed": 63595,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T21:03:31.4090258+00:00",
-      "NumProgressed": 63597,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T22:01:51.9080311+00:00",
-      "NumProgressed": 63598,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-28T23:03:59.3584906+00:00",
-      "NumProgressed": 63599,
-      "NumCompleted": 1140
-    },
-    {
-      "Time": "2023-04-29T02:03:12.1031081+00:00",
-      "NumProgressed": 63599,
-      "NumCompleted": 1143
-    },
-    {
-      "Time": "2023-04-29T03:02:45.4994344+00:00",
-      "NumProgressed": 63601,
-      "NumCompleted": 1143
-    },
-    {
-      "Time": "2023-04-29T04:03:02.4416385+00:00",
-      "NumProgressed": 63603,
-      "NumCompleted": 1143
-    },
-    {
-      "Time": "2023-04-29T05:02:38.9893769+00:00",
-      "NumProgressed": 63604,
-      "NumCompleted": 1144
-    },
-    {
-      "Time": "2023-04-29T06:02:15.2058554+00:00",
-      "NumProgressed": 63608,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T08:00:36.6126949+00:00",
-      "NumProgressed": 63611,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T09:02:23.7000961+00:00",
-      "NumProgressed": 63612,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T10:02:19.2299492+00:00",
-      "NumProgressed": 63615,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T11:02:11.3453426+00:00",
-      "NumProgressed": 63616,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T12:02:14.6388951+00:00",
-      "NumProgressed": 63618,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T15:02:12.3281791+00:00",
-      "NumProgressed": 63619,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T17:02:13.3015579+00:00",
-      "NumProgressed": 63621,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T18:02:22.2492968+00:00",
-      "NumProgressed": 63624,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T19:02:33.7427284+00:00",
-      "NumProgressed": 63625,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T20:02:09.9428753+00:00",
-      "NumProgressed": 63627,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-29T22:02:17.4532277+00:00",
-      "NumProgressed": 63629,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T00:02:23.4481302+00:00",
-      "NumProgressed": 63632,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T02:04:25.1883621+00:00",
-      "NumProgressed": 63636,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T03:02:20.496268+00:00",
-      "NumProgressed": 63640,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T06:02:32.55134+00:00",
-      "NumProgressed": 63642,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T08:59:52.3962622+00:00",
-      "NumProgressed": 63643,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T09:59:39.1279177+00:00",
-      "NumProgressed": 63644,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T10:59:52.4304455+00:00",
-      "NumProgressed": 63645,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T13:03:30.7572927+00:00",
-      "NumProgressed": 63647,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T13:59:44.0878351+00:00",
-      "NumProgressed": 63649,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T17:00:38.3760988+00:00",
-      "NumProgressed": 63651,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T18:01:22.4904541+00:00",
-      "NumProgressed": 63652,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T19:01:49.6389031+00:00",
-      "NumProgressed": 63655,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T20:00:36.4094872+00:00",
-      "NumProgressed": 63656,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T21:00:55.1561372+00:00",
-      "NumProgressed": 63658,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T22:00:48.1309782+00:00",
-      "NumProgressed": 63660,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-04-30T23:00:12.6462203+00:00",
-      "NumProgressed": 63661,
-      "NumCompleted": 1145
-    },
-    {
-      "Time": "2023-05-01T03:01:50.2108844+00:00",
-      "NumProgressed": 63661,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T04:01:29.7694822+00:00",
-      "NumProgressed": 63663,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T05:01:22.7449941+00:00",
-      "NumProgressed": 63665,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T06:00:20.1525165+00:00",
-      "NumProgressed": 63667,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T07:01:25.7637653+00:00",
-      "NumProgressed": 63668,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T10:01:04.7478983+00:00",
-      "NumProgressed": 63669,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T12:01:17.8704391+00:00",
-      "NumProgressed": 63670,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T13:06:53.3794368+00:00",
-      "NumProgressed": 63671,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T14:01:12.1183561+00:00",
-      "NumProgressed": 63673,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T15:02:16.7520593+00:00",
-      "NumProgressed": 63675,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T16:02:14.5899516+00:00",
-      "NumProgressed": 63679,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T17:02:54.7107438+00:00",
-      "NumProgressed": 63681,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T18:02:25.5430636+00:00",
-      "NumProgressed": 63682,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-01T19:02:37.0219754+00:00",
-      "NumProgressed": 63683,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T01:59:27.2389929+00:00",
-      "NumProgressed": 63684,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T06:03:13.9586192+00:00",
-      "NumProgressed": 63685,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T07:02:20.518049+00:00",
-      "NumProgressed": 63686,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T15:02:18.7628277+00:00",
-      "NumProgressed": 63688,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T16:02:31.1602745+00:00",
-      "NumProgressed": 63690,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T17:03:26.8921155+00:00",
-      "NumProgressed": 63691,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T18:03:18.039973+00:00",
-      "NumProgressed": 63692,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T19:03:18.8732964+00:00",
-      "NumProgressed": 63693,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-02T20:02:25.4020358+00:00",
-      "NumProgressed": 63694,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T00:02:23.6642054+00:00",
-      "NumProgressed": 63695,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T02:00:24.6198226+00:00",
-      "NumProgressed": 63697,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T03:03:33.326705+00:00",
-      "NumProgressed": 63701,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T05:03:42.0270999+00:00",
-      "NumProgressed": 63702,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T08:02:23.0639565+00:00",
-      "NumProgressed": 63703,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T12:02:38.7423488+00:00",
-      "NumProgressed": 63704,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T13:08:46.2307648+00:00",
-      "NumProgressed": 63705,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T14:03:44.1001457+00:00",
-      "NumProgressed": 63706,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T16:03:20.6630031+00:00",
-      "NumProgressed": 63707,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T17:03:29.4664596+00:00",
-      "NumProgressed": 63710,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T18:03:10.3822044+00:00",
-      "NumProgressed": 63712,
-      "NumCompleted": 1146
-    },
-    {
-      "Time": "2023-05-03T19:02:21.6760993+00:00",
-      "NumProgressed": 63712,
-      "NumCompleted": 1147
-    },
-    {
-      "Time": "2023-05-03T20:03:23.9320517+00:00",
-      "NumProgressed": 63716,
-      "NumCompleted": 1147
-    },
-    {
-      "Time": "2023-05-03T22:02:37.7659792+00:00",
-      "NumProgressed": 63718,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-03T23:03:31.0735371+00:00",
-      "NumProgressed": 63720,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T00:03:11.2985093+00:00",
-      "NumProgressed": 63721,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T03:03:13.6916753+00:00",
-      "NumProgressed": 63722,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T06:03:59.1926141+00:00",
-      "NumProgressed": 63724,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T07:03:33.63877+00:00",
-      "NumProgressed": 63725,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T08:03:40.0142397+00:00",
-      "NumProgressed": 63726,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T11:03:52.329277+00:00",
-      "NumProgressed": 63728,
-      "NumCompleted": 1148
-    },
-    {
-      "Time": "2023-05-04T13:08:48.1411927+00:00",
-      "NumProgressed": 63728,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T17:03:28.5826011+00:00",
-      "NumProgressed": 63729,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T18:03:40.2209882+00:00",
-      "NumProgressed": 63730,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T19:18:14.3006466+00:00",
-      "NumProgressed": 63732,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T19:39:43.8149042+00:00",
-      "NumProgressed": 63733,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T21:05:35.3022829+00:00",
-      "NumProgressed": 63734,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T22:06:18.9909526+00:00",
-      "NumProgressed": 63735,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-04T23:04:36.2764443+00:00",
-      "NumProgressed": 63736,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-05T05:04:51.4142645+00:00",
-      "NumProgressed": 63737,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-05T09:05:40.5444215+00:00",
-      "NumProgressed": 63738,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-05T11:05:22.4360923+00:00",
-      "NumProgressed": 63739,
-      "NumCompleted": 1149
-    },
-    {
-      "Time": "2023-05-05T15:42:22.7169841+00:00",
-      "NumProgressed": 63740,
-      "NumCompleted": 1149
-    }
-  ],
+  "ProductSlug": "salt-and-sacrifice",
+  "Ranking_Rating": 747,
+  "Ranking_Popularity": 140,
+  "Ranking_PopularitySum": 191,
+  "Ranking_EOS_Progress": 63,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 19,
+  "Rating": 4.31,
+  "NumberOfRatings": 2205,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -2344,39 +1198,1191 @@
       "NumberOfAwardsMax": 929
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T16:07:34.755143+00:00",
-  "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 149,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 1859,
+  "NumberOfAwardsMax": 929,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 929
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 538
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 65
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 63
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 54
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 55
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 52
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 39
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 50
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 51
+    }
+  ],
+  "EOS_Progressed": 63741,
   "EOS_Completed": 1149,
-  "EOS_Progressed": 63740,
-  "LastUpdate_Achievements": "2023-05-05T16:07:34.7552586+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:05.8142114+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:38.5435757+00:00",
+  "EOS_NewPlayers": 147,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 1.8,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:04.9867144+00:00",
+      "NumProgressed": 63534,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T16:37:58.7118731+00:00",
+      "NumProgressed": 63537,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T16:58:49.9189861+00:00",
+      "NumProgressed": 63538,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T18:57:49.4657264+00:00",
+      "NumProgressed": 63540,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T19:14:44.6995195+00:00",
+      "NumProgressed": 63541,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T20:47:33.4256865+00:00",
+      "NumProgressed": 63542,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T22:06:55.7777713+00:00",
+      "NumProgressed": 63545,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-25T23:04:45.8536197+00:00",
+      "NumProgressed": 63547,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T03:06:36.7297739+00:00",
+      "NumProgressed": 63548,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T06:08:01.379562+00:00",
+      "NumProgressed": 63551,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T08:06:15.0809653+00:00",
+      "NumProgressed": 63552,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T10:04:56.3182831+00:00",
+      "NumProgressed": 63553,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T12:07:11.3649179+00:00",
+      "NumProgressed": 63555,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T13:14:24.3116343+00:00",
+      "NumProgressed": 63556,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T15:03:14.4628577+00:00",
+      "NumProgressed": 63557,
+      "NumCompleted": 1138
+    },
+    {
+      "Time": "2023-04-26T17:03:16.9575551+00:00",
+      "NumProgressed": 63559,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-26T18:03:09.3409471+00:00",
+      "NumProgressed": 63561,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-26T19:03:09.8333189+00:00",
+      "NumProgressed": 63563,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-26T20:02:14.4957089+00:00",
+      "NumProgressed": 63564,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-26T21:03:21.2847027+00:00",
+      "NumProgressed": 63565,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-26T22:02:12.8632007+00:00",
+      "NumProgressed": 63567,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T00:01:05.60308+00:00",
+      "NumProgressed": 63568,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T02:02:28.9818779+00:00",
+      "NumProgressed": 63569,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T04:03:17.9953145+00:00",
+      "NumProgressed": 63571,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T05:02:17.8110927+00:00",
+      "NumProgressed": 63572,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T06:02:23.5859458+00:00",
+      "NumProgressed": 63573,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T09:02:07.0391835+00:00",
+      "NumProgressed": 63574,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T11:59:52.8657022+00:00",
+      "NumProgressed": 63575,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T15:02:51.3357551+00:00",
+      "NumProgressed": 63577,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T16:01:49.174756+00:00",
+      "NumProgressed": 63578,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T19:00:58.1962913+00:00",
+      "NumProgressed": 63580,
+      "NumCompleted": 1139
+    },
+    {
+      "Time": "2023-04-27T20:01:19.4554141+00:00",
+      "NumProgressed": 63580,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-27T21:00:11.0836179+00:00",
+      "NumProgressed": 63582,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T00:00:24.5406959+00:00",
+      "NumProgressed": 63583,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T02:02:35.5394162+00:00",
+      "NumProgressed": 63585,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T04:01:59.216082+00:00",
+      "NumProgressed": 63587,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T06:01:28.546063+00:00",
+      "NumProgressed": 63588,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T12:02:30.4607005+00:00",
+      "NumProgressed": 63589,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T16:01:03.4870743+00:00",
+      "NumProgressed": 63591,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T18:02:02.5353931+00:00",
+      "NumProgressed": 63594,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T20:02:34.6188854+00:00",
+      "NumProgressed": 63595,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T21:03:31.4090258+00:00",
+      "NumProgressed": 63597,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T22:01:51.9080311+00:00",
+      "NumProgressed": 63598,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-28T23:03:59.3584906+00:00",
+      "NumProgressed": 63599,
+      "NumCompleted": 1140
+    },
+    {
+      "Time": "2023-04-29T02:03:12.1031081+00:00",
+      "NumProgressed": 63599,
+      "NumCompleted": 1143
+    },
+    {
+      "Time": "2023-04-29T03:02:45.4994344+00:00",
+      "NumProgressed": 63601,
+      "NumCompleted": 1143
+    },
+    {
+      "Time": "2023-04-29T04:03:02.4416385+00:00",
+      "NumProgressed": 63603,
+      "NumCompleted": 1143
+    },
+    {
+      "Time": "2023-04-29T05:02:38.9893769+00:00",
+      "NumProgressed": 63604,
+      "NumCompleted": 1144
+    },
+    {
+      "Time": "2023-04-29T06:02:15.2058554+00:00",
+      "NumProgressed": 63608,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T08:00:36.6126949+00:00",
+      "NumProgressed": 63611,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T09:02:23.7000961+00:00",
+      "NumProgressed": 63612,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T10:02:19.2299492+00:00",
+      "NumProgressed": 63615,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T11:02:11.3453426+00:00",
+      "NumProgressed": 63616,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T12:02:14.6388951+00:00",
+      "NumProgressed": 63618,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T15:02:12.3281791+00:00",
+      "NumProgressed": 63619,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T17:02:13.3015579+00:00",
+      "NumProgressed": 63621,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T18:02:22.2492968+00:00",
+      "NumProgressed": 63624,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T19:02:33.7427284+00:00",
+      "NumProgressed": 63625,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T20:02:09.9428753+00:00",
+      "NumProgressed": 63627,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T22:02:17.4532277+00:00",
+      "NumProgressed": 63629,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T00:02:23.4481302+00:00",
+      "NumProgressed": 63632,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T02:04:25.1883621+00:00",
+      "NumProgressed": 63636,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T03:02:20.496268+00:00",
+      "NumProgressed": 63640,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T06:02:32.55134+00:00",
+      "NumProgressed": 63642,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T08:59:52.3962622+00:00",
+      "NumProgressed": 63643,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T09:59:39.1279177+00:00",
+      "NumProgressed": 63644,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T10:59:52.4304455+00:00",
+      "NumProgressed": 63645,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T13:03:30.7572927+00:00",
+      "NumProgressed": 63647,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T13:59:44.0878351+00:00",
+      "NumProgressed": 63649,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T17:00:38.3760988+00:00",
+      "NumProgressed": 63651,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T18:01:22.4904541+00:00",
+      "NumProgressed": 63652,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T19:01:49.6389031+00:00",
+      "NumProgressed": 63655,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T20:00:36.4094872+00:00",
+      "NumProgressed": 63656,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T21:00:55.1561372+00:00",
+      "NumProgressed": 63658,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T22:00:48.1309782+00:00",
+      "NumProgressed": 63660,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-30T23:00:12.6462203+00:00",
+      "NumProgressed": 63661,
+      "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-05-01T03:01:50.2108844+00:00",
+      "NumProgressed": 63661,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T04:01:29.7694822+00:00",
+      "NumProgressed": 63663,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T05:01:22.7449941+00:00",
+      "NumProgressed": 63665,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T06:00:20.1525165+00:00",
+      "NumProgressed": 63667,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T07:01:25.7637653+00:00",
+      "NumProgressed": 63668,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T10:01:04.7478983+00:00",
+      "NumProgressed": 63669,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T12:01:17.8704391+00:00",
+      "NumProgressed": 63670,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T13:06:53.3794368+00:00",
+      "NumProgressed": 63671,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T14:01:12.1183561+00:00",
+      "NumProgressed": 63673,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T15:02:16.7520593+00:00",
+      "NumProgressed": 63675,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T16:02:14.5899516+00:00",
+      "NumProgressed": 63679,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T17:02:54.7107438+00:00",
+      "NumProgressed": 63681,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T18:02:25.5430636+00:00",
+      "NumProgressed": 63682,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-01T19:02:37.0219754+00:00",
+      "NumProgressed": 63683,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T01:59:27.2389929+00:00",
+      "NumProgressed": 63684,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T06:03:13.9586192+00:00",
+      "NumProgressed": 63685,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T07:02:20.518049+00:00",
+      "NumProgressed": 63686,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T15:02:18.7628277+00:00",
+      "NumProgressed": 63688,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T16:02:31.1602745+00:00",
+      "NumProgressed": 63690,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T17:03:26.8921155+00:00",
+      "NumProgressed": 63691,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T18:03:18.039973+00:00",
+      "NumProgressed": 63692,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T19:03:18.8732964+00:00",
+      "NumProgressed": 63693,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-02T20:02:25.4020358+00:00",
+      "NumProgressed": 63694,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T00:02:23.6642054+00:00",
+      "NumProgressed": 63695,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T02:00:24.6198226+00:00",
+      "NumProgressed": 63697,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T03:03:33.326705+00:00",
+      "NumProgressed": 63701,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T05:03:42.0270999+00:00",
+      "NumProgressed": 63702,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T08:02:23.0639565+00:00",
+      "NumProgressed": 63703,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T12:02:38.7423488+00:00",
+      "NumProgressed": 63704,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T13:08:46.2307648+00:00",
+      "NumProgressed": 63705,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T14:03:44.1001457+00:00",
+      "NumProgressed": 63706,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T16:03:20.6630031+00:00",
+      "NumProgressed": 63707,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T17:03:29.4664596+00:00",
+      "NumProgressed": 63710,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T18:03:10.3822044+00:00",
+      "NumProgressed": 63712,
+      "NumCompleted": 1146
+    },
+    {
+      "Time": "2023-05-03T19:02:21.6760993+00:00",
+      "NumProgressed": 63712,
+      "NumCompleted": 1147
+    },
+    {
+      "Time": "2023-05-03T20:03:23.9320517+00:00",
+      "NumProgressed": 63716,
+      "NumCompleted": 1147
+    },
+    {
+      "Time": "2023-05-03T22:02:37.7659792+00:00",
+      "NumProgressed": 63718,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-03T23:03:31.0735371+00:00",
+      "NumProgressed": 63720,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T00:03:11.2985093+00:00",
+      "NumProgressed": 63721,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T03:03:13.6916753+00:00",
+      "NumProgressed": 63722,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T06:03:59.1926141+00:00",
+      "NumProgressed": 63724,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T07:03:33.63877+00:00",
+      "NumProgressed": 63725,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T08:03:40.0142397+00:00",
+      "NumProgressed": 63726,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T11:03:52.329277+00:00",
+      "NumProgressed": 63728,
+      "NumCompleted": 1148
+    },
+    {
+      "Time": "2023-05-04T13:08:48.1411927+00:00",
+      "NumProgressed": 63728,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T17:03:28.5826011+00:00",
+      "NumProgressed": 63729,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T18:03:40.2209882+00:00",
+      "NumProgressed": 63730,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T19:18:14.3006466+00:00",
+      "NumProgressed": 63732,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T19:39:43.8149042+00:00",
+      "NumProgressed": 63733,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T21:05:35.3022829+00:00",
+      "NumProgressed": 63734,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T22:06:18.9909526+00:00",
+      "NumProgressed": 63735,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-04T23:04:36.2764443+00:00",
+      "NumProgressed": 63736,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-05T05:04:51.4142645+00:00",
+      "NumProgressed": 63737,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-05T09:05:40.5444215+00:00",
+      "NumProgressed": 63738,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-05T11:05:22.4360923+00:00",
+      "NumProgressed": 63739,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-05T15:42:22.7169841+00:00",
+      "NumProgressed": 63740,
+      "NumCompleted": 1149
+    },
+    {
+      "Time": "2023-05-05T17:09:21.7991883+00:00",
+      "NumProgressed": 63741,
+      "NumCompleted": 1149
+    }
+  ],
+  "TotalAchievements": 53,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "aeromancer",
+      "SetID": "2jelldm",
+      "Name": "The Aeromancer",
+      "Percentage": 66,
+      "XP": 10,
+      "UsersEstimate": 42069
+    },
+    {
+      "ID": "area_copse",
+      "SetID": "2jelldm",
+      "Name": "The Copse",
+      "Percentage": 29,
+      "XP": 15,
+      "UsersEstimate": 18485
+    },
+    {
+      "ID": "area_mountain",
+      "SetID": "2jelldm",
+      "Name": "The Mountain",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 25496
+    },
+    {
+      "ID": "area_swamp",
+      "SetID": "2jelldm",
+      "Name": "The Swamp",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 31870
+    },
+    {
+      "ID": "area_wastes",
+      "SetID": "2jelldm",
+      "Name": "The Wastes",
+      "Percentage": 83,
+      "XP": 10,
+      "UsersEstimate": 52905
+    },
+    {
+      "ID": "bibliomancer",
+      "SetID": "2jelldm",
+      "Name": "The Bibliomancer",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 15935
+    },
+    {
+      "ID": "bluedragon",
+      "SetID": "2jelldm",
+      "Name": "The Dragon",
+      "Percentage": 29,
+      "XP": 15,
+      "UsersEstimate": 18485
+    },
+    {
+      "ID": "chronomancer",
+      "SetID": "2jelldm",
+      "Name": "The Chronomancer",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 20397
+    },
+    {
+      "ID": "corpumancer",
+      "SetID": "2jelldm",
+      "Name": "The Corpumancer",
+      "Percentage": 42,
+      "XP": 10,
+      "UsersEstimate": 26771
+    },
+    {
+      "ID": "crafting_all_replenish_found",
+      "SetID": "2jelldm",
+      "Name": "Well Stocked",
+      "Percentage": 27,
+      "XP": 50,
+      "UsersEstimate": 17210
+    },
+    {
+      "ID": "crafting_all_replenish_upgrade",
+      "SetID": "2jelldm",
+      "Name": "Top Shelf",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 3187
+    },
+    {
+      "ID": "crafting_first_craft",
+      "SetID": "2jelldm",
+      "Name": "Waste Not",
+      "Percentage": 80,
+      "XP": 10,
+      "UsersEstimate": 50993
+    },
+    {
+      "ID": "crafting_first_replenish",
+      "SetID": "2jelldm",
+      "Name": "Stock Up",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 47806
+    },
+    {
+      "ID": "crafting_max_upgrade",
+      "SetID": "2jelldm",
+      "Name": "Want Not",
+      "Percentage": 21,
+      "XP": 50,
+      "UsersEstimate": 13386
+    },
+    {
+      "ID": "cryomancer",
+      "SetID": "2jelldm",
+      "Name": "The Cryomancer",
+      "Percentage": 76,
+      "XP": 10,
+      "UsersEstimate": 48443
+    },
+    {
+      "ID": "diablomancer",
+      "SetID": "2jelldm",
+      "Name": "The Diablomancer",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 13386
+    },
+    {
+      "ID": "dracomancer",
+      "SetID": "2jelldm",
+      "Name": "The Dracomancer",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 18485
+    },
+    {
+      "ID": "electromancer",
+      "SetID": "2jelldm",
+      "Name": "The Electromancer",
+      "Percentage": 61,
+      "XP": 10,
+      "UsersEstimate": 38882
+    },
+    {
+      "ID": "elfslayer",
+      "SetID": "2jelldm",
+      "Name": "The Champion",
+      "Percentage": 91,
+      "XP": 15,
+      "UsersEstimate": 58004
+    },
+    {
+      "ID": "end_climb",
+      "SetID": "2jelldm",
+      "Name": "Make The Climb",
+      "Percentage": 10,
+      "XP": 100,
+      "UsersEstimate": 6374
+    },
+    {
+      "ID": "end_devour",
+      "SetID": "2jelldm",
+      "Name": "Take Your Place",
+      "Percentage": 14,
+      "XP": 100,
+      "UsersEstimate": 8924
+    },
+    {
+      "ID": "faction_blueheart",
+      "SetID": "2jelldm",
+      "Name": "Blueheart Runners",
+      "Percentage": 54,
+      "XP": 15,
+      "UsersEstimate": 34420
+    },
+    {
+      "ID": "faction_chaos",
+      "SetID": "2jelldm",
+      "Name": "Chaos Hunger",
+      "Percentage": 27,
+      "XP": 15,
+      "UsersEstimate": 17210
+    },
+    {
+      "ID": "faction_dawnlight",
+      "SetID": "2jelldm",
+      "Name": "Dawnlight Order",
+      "Percentage": 64,
+      "XP": 15,
+      "UsersEstimate": 40794
+    },
+    {
+      "ID": "faction_oath",
+      "SetID": "2jelldm",
+      "Name": "Oathbound Watchers",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 21035
+    },
+    {
+      "ID": "faction_sheriff",
+      "SetID": "2jelldm",
+      "Name": "Sheriff Inquisitors",
+      "Percentage": 55,
+      "XP": 15,
+      "UsersEstimate": 35058
+    },
+    {
+      "ID": "faction_shroud",
+      "SetID": "2jelldm",
+      "Name": "Shroud Alliance",
+      "Percentage": 39,
+      "XP": 15,
+      "UsersEstimate": 24859
+    },
+    {
+      "ID": "firelord",
+      "SetID": "2jelldm",
+      "Name": "The Firelord",
+      "Percentage": 24,
+      "XP": 15,
+      "UsersEstimate": 15298
+    },
+    {
+      "ID": "fungalmancer",
+      "SetID": "2jelldm",
+      "Name": "The Fungalmancer",
+      "Percentage": 47,
+      "XP": 10,
+      "UsersEstimate": 29958
+    },
+    {
+      "ID": "hag",
+      "SetID": "2jelldm",
+      "Name": "The Hag",
+      "Percentage": 45,
+      "XP": 15,
+      "UsersEstimate": 28683
+    },
+    {
+      "ID": "huntsman",
+      "SetID": "2jelldm",
+      "Name": "The Huntsman",
+      "Percentage": 65,
+      "XP": 15,
+      "UsersEstimate": 41432
+    },
+    {
+      "ID": "hydromancer",
+      "SetID": "2jelldm",
+      "Name": "The Hydromancer",
+      "Percentage": 73,
+      "XP": 10,
+      "UsersEstimate": 46531
+    },
+    {
+      "ID": "kinetomancer",
+      "SetID": "2jelldm",
+      "Name": "The Kinetomancer",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 17210
+    },
+    {
+      "ID": "luminimancer",
+      "SetID": "2jelldm",
+      "Name": "The Luminimancer",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 15935
+    },
+    {
+      "ID": "mechanomancer",
+      "SetID": "2jelldm",
+      "Name": "The Mechanomancer",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 20397
+    },
+    {
+      "ID": "messiah",
+      "SetID": "2jelldm",
+      "Name": "The Sacrifice",
+      "Percentage": 21,
+      "XP": 50,
+      "UsersEstimate": 13386
+    },
+    {
+      "ID": "mummy",
+      "SetID": "2jelldm",
+      "Name": "The Exalted",
+      "Percentage": 56,
+      "XP": 15,
+      "UsersEstimate": 35695
+    },
+    {
+      "ID": "necromancer",
+      "SetID": "2jelldm",
+      "Name": "The Necromancer",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 33145
+    },
+    {
+      "ID": "neuromancer",
+      "SetID": "2jelldm",
+      "Name": "The Neuromancer",
+      "Percentage": 34,
+      "XP": 10,
+      "UsersEstimate": 21672
+    },
+    {
+      "ID": "npc_blue_nomad",
+      "SetID": "2jelldm",
+      "Name": "The Nomad",
+      "Percentage": 14,
+      "XP": 20,
+      "UsersEstimate": 8924
+    },
+    {
+      "ID": "npc_king",
+      "SetID": "2jelldm",
+      "Name": "The King",
+      "Percentage": 18,
+      "XP": 20,
+      "UsersEstimate": 11473
+    },
+    {
+      "ID": "npc_owlmancer",
+      "SetID": "2jelldm",
+      "Name": "The Scholar",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 6374
+    },
+    {
+      "ID": "npc_soldier",
+      "SetID": "2jelldm",
+      "Name": "The Soldier",
+      "Percentage": 11,
+      "XP": 20,
+      "UsersEstimate": 7012
+    },
+    {
+      "ID": "pyromancer",
+      "SetID": "2jelldm",
+      "Name": "The Pyromancer",
+      "Percentage": 86,
+      "XP": 10,
+      "UsersEstimate": 54817
+    },
+    {
+      "ID": "queen",
+      "SetID": "2jelldm",
+      "Name": "The Matriarch",
+      "Percentage": 70,
+      "XP": 15,
+      "UsersEstimate": 44619
+    },
+    {
+      "ID": "sanguimancer",
+      "SetID": "2jelldm",
+      "Name": "The Sanguimancer",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 17210
+    },
+    {
+      "ID": "skylord",
+      "SetID": "2jelldm",
+      "Name": "The Skylord",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 15935
+    },
+    {
+      "ID": "terramancer",
+      "SetID": "2jelldm",
+      "Name": "The Terramancer",
+      "Percentage": 59,
+      "XP": 10,
+      "UsersEstimate": 37607
+    },
+    {
+      "ID": "thaumamancer",
+      "SetID": "2jelldm",
+      "Name": "The Thaumamancer",
+      "Percentage": 47,
+      "XP": 10,
+      "UsersEstimate": 29958
+    },
+    {
+      "ID": "treeheart",
+      "SetID": "2jelldm",
+      "Name": "The Treeheart",
+      "Percentage": 40,
+      "XP": 15,
+      "UsersEstimate": 25496
+    },
+    {
+      "ID": "two_monks",
+      "SetID": "2jelldm",
+      "Name": "The Two Monks",
+      "Percentage": 37,
+      "XP": 15,
+      "UsersEstimate": 23584
+    },
+    {
+      "ID": "umbramancer",
+      "SetID": "2jelldm",
+      "Name": "The Umbramancer",
+      "Percentage": 28,
+      "XP": 15,
+      "UsersEstimate": 17847
+    },
+    {
+      "ID": "venomancer",
+      "SetID": "2jelldm",
+      "Name": "The Venomancer",
+      "Percentage": 65,
+      "XP": 10,
+      "UsersEstimate": 41432
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 63740,
+      "Progressed": 63741,
       "Completed": 1149
     }
   ],
-  "EOS_Completed_Percentage": 1.8,
-  "LastChanged": "2023-05-04T14:58:21.4493794+00:00",
-  "ProductSlug": "salt-and-sacrifice",
-  "Rating": 4.31,
-  "Ranking_Rating": 747,
-  "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 191,
-  "Ranking_EOS_Progress": 63,
-  "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewCompleters": 19,
-  "NumberOfRatings": 2205,
-  "NumberOfAwards": 1859,
-  "NumberOfAwardsMax": 929,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "Ranking_EOS_NewPlayers": 106
+  "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
+  "LastChanged": "2023-05-04T14:58:21.4493794+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:21.7991878+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:30.6675947+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:33.367583+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:21.7992409+00:00"
 }

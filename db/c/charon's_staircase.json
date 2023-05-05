@@ -1,6 +1,37 @@
 {
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
+  "ProductSlug": "charons-staircase-b2d05f",
+  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:38.612559+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 68,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 2.94,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:31.3534175+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 2
+    }
+  ],
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_1",
@@ -163,32 +194,6 @@
       "UsersEstimate": 18
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:31.3534175+00:00",
-      "NumProgressed": 68,
-      "NumCompleted": 2
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:38.612559+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T16:07:52.6361417+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 2,
-  "EOS_Progressed": 68,
-  "LastUpdate_Achievements": "2023-05-05T16:07:52.6361553+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:12.9467504+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:23.9800488+00:00",
   "AchievementSets": [
     {
       "ID": "1g3d1lg",
@@ -197,16 +202,12 @@
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 2.94,
-  "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
-  "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 260,
-  "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-28T17:03:13.9470339+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
+  "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:35.1961224+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:18.9213802+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:18.4101605+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:35.1961354+00:00"
 }

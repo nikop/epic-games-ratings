@@ -1,603 +1,16 @@
 {
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
-  "Achievements": [
-    {
-      "ID": "ACHIEVEMENT_001",
-      "SetID": "1a05lfd",
-      "Name": "Fish Just Got Reel",
-      "Percentage": 71,
-      "XP": 10,
-      "UsersEstimate": 2418
-    },
-    {
-      "ID": "ACHIEVEMENT_002",
-      "SetID": "1a05lfd",
-      "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 44,
-      "XP": 20,
-      "UsersEstimate": 1499
-    },
-    {
-      "ID": "ACHIEVEMENT_003",
-      "SetID": "1a05lfd",
-      "Name": "Hey Good Hookin",
-      "Percentage": 61,
-      "XP": 30,
-      "UsersEstimate": 2078
-    },
-    {
-      "ID": "ACHIEVEMENT_004",
-      "SetID": "1a05lfd",
-      "Name": "Ready to Rod and Roll",
-      "Percentage": 36,
-      "XP": 10,
-      "UsersEstimate": 1226
-    },
-    {
-      "ID": "ACHIEVEMENT_005",
-      "SetID": "1a05lfd",
-      "Name": "Fish Out of Water",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 988
-    },
-    {
-      "ID": "ACHIEVEMENT_006",
-      "SetID": "1a05lfd",
-      "Name": "I\u0027m on a Boat!",
-      "Percentage": 52,
-      "XP": 10,
-      "UsersEstimate": 1771
-    },
-    {
-      "ID": "ACHIEVEMENT_007",
-      "SetID": "1a05lfd",
-      "Name": "More Fish in the Sea",
-      "Percentage": 37,
-      "XP": 20,
-      "UsersEstimate": 1260
-    },
-    {
-      "ID": "ACHIEVEMENT_008",
-      "SetID": "1a05lfd",
-      "Name": "Scaling up",
-      "Percentage": 45,
-      "XP": 30,
-      "UsersEstimate": 1533
-    },
-    {
-      "ID": "ACHIEVEMENT_009",
-      "SetID": "1a05lfd",
-      "Name": "Things that go Splash in the Night",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 852
-    },
-    {
-      "ID": "ACHIEVEMENT_010",
-      "SetID": "1a05lfd",
-      "Name": "License to Gill",
-      "Percentage": 31,
-      "XP": 20,
-      "UsersEstimate": 1056
-    },
-    {
-      "ID": "ACHIEVEMENT_011",
-      "SetID": "1a05lfd",
-      "Name": "More than a Tourist",
-      "Percentage": 13,
-      "XP": 30,
-      "UsersEstimate": 443
-    },
-    {
-      "ID": "ACHIEVEMENT_012",
-      "SetID": "1a05lfd",
-      "Name": "I\u0027m the Captain Now",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 170
-    },
-    {
-      "ID": "ACHIEVEMENT_013",
-      "SetID": "1a05lfd",
-      "Name": "Hook, Line and Sinker",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 272
-    },
-    {
-      "ID": "ACHIEVEMENT_014",
-      "SetID": "1a05lfd",
-      "Name": "Goldfish?",
-      "Percentage": 25,
-      "XP": 50,
-      "UsersEstimate": 852
-    },
-    {
-      "ID": "ACHIEVEMENT_015",
-      "SetID": "1a05lfd",
-      "Name": "Going for Gold",
-      "Percentage": 23,
-      "XP": 50,
-      "UsersEstimate": 783
-    },
-    {
-      "ID": "ACHIEVEMENT_016",
-      "SetID": "1a05lfd",
-      "Name": "School\u0027s Out for Summer",
-      "Percentage": 4,
-      "XP": 30,
-      "UsersEstimate": 136
-    },
-    {
-      "ID": "ACHIEVEMENT_017",
-      "SetID": "1a05lfd",
-      "Name": "Head for Heights",
-      "Percentage": 0.7,
-      "XP": 20,
-      "UsersEstimate": 24
-    },
-    {
-      "ID": "ACHIEVEMENT_018",
-      "SetID": "1a05lfd",
-      "Name": "The Beetles",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 68
-    },
-    {
-      "ID": "ACHIEVEMENT_019",
-      "SetID": "1a05lfd",
-      "Name": "Lake Me up Before You Go Go",
-      "Percentage": 0.5,
-      "XP": 30,
-      "UsersEstimate": 17
-    },
-    {
-      "ID": "ACHIEVEMENT_020",
-      "SetID": "1a05lfd",
-      "Name": "Marathon",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 272
-    },
-    {
-      "ID": "ACHIEVEMENT_021",
-      "SetID": "1a05lfd",
-      "Name": "I\u0027m Hooked!",
-      "Percentage": 17,
-      "XP": 30,
-      "UsersEstimate": 579
-    },
-    {
-      "ID": "ACHIEVEMENT_022",
-      "SetID": "1a05lfd",
-      "Name": "Diamond in the Rough",
-      "Percentage": 12,
-      "XP": 100,
-      "UsersEstimate": 409
-    },
-    {
-      "ID": "ACHIEVEMENT_023",
-      "SetID": "1a05lfd",
-      "Name": "No Fin left to give",
-      "Percentage": 0,
-      "XP": 40,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ACHIEVEMENT_024",
-      "SetID": "1a05lfd",
-      "Name": "Have Fish, Will Travel",
-      "Percentage": 0,
-      "XP": 40,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ACHIEVEMENT_025",
-      "SetID": "1a05lfd",
-      "Name": "Taylor Made",
-      "Percentage": 2,
-      "XP": 50,
-      "UsersEstimate": 68
-    },
-    {
-      "ID": "ACHIEVEMENT_026",
-      "SetID": "1a05lfd",
-      "Name": "Big Fish Small Pond",
-      "Percentage": 6,
-      "XP": 50,
-      "UsersEstimate": 204
-    },
-    {
-      "ID": "ACHIEVEMENT_027",
-      "SetID": "1a05lfd",
-      "Name": "Lost and Flounder",
-      "Percentage": 0.1,
-      "XP": 40,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "ACHIEVEMENT_028",
-      "SetID": "1a05lfd",
-      "Name": "Golden Ridge Ranger",
-      "Percentage": 0.2,
-      "XP": 40,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "ACHIEVEMENT_029",
-      "SetID": "1a05lfd",
-      "Name": "Buckaroo",
-      "Percentage": 0.2,
-      "XP": 50,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "ACHIEVEMENT_030",
-      "SetID": "1a05lfd",
-      "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 3,
-      "XP": 100,
-      "UsersEstimate": 102
-    },
-    {
-      "ID": "ACHIEVEMENT_032",
-      "SetID": "6jk25od",
-      "Name": "Rod and Troll",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 56
-    },
-    {
-      "ID": "ACHIEVEMENT_033",
-      "SetID": "6jk25od",
-      "Name": "Norway Jose",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "ACHIEVEMENT_034",
-      "SetID": "6jk25od",
-      "Name": "Trollsporet Tale Teller",
-      "Percentage": 0.2,
-      "XP": 30,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "ACHIEVEMENT_035",
-      "SetID": "6jk25od",
-      "Name": "Fish upon a Star",
-      "Percentage": 0.6,
-      "XP": 30,
-      "UsersEstimate": 17
-    },
-    {
-      "ID": "ACHIEVEMENT_036",
-      "SetID": "6jk25od",
-      "Name": "Cache and Carry",
-      "Percentage": 0.3,
-      "XP": 100,
-      "UsersEstimate": 8
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 32
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 30
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 24
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:06.9545354+00:00",
-      "NumProgressed": 3343,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T18:57:07.3644355+00:00",
-      "NumProgressed": 3344,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T02:09:59.928126+00:00",
-      "NumProgressed": 3345,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T06:12:22.7659586+00:00",
-      "NumProgressed": 3346,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T19:05:28.8581182+00:00",
-      "NumProgressed": 3348,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T09:05:54.2943706+00:00",
-      "NumProgressed": 3349,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T13:10:22.5372392+00:00",
-      "NumProgressed": 3350,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T18:05:09.5950845+00:00",
-      "NumProgressed": 3351,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T19:05:08.0759971+00:00",
-      "NumProgressed": 3352,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T20:05:15.414284+00:00",
-      "NumProgressed": 3353,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T02:06:13.1522689+00:00",
-      "NumProgressed": 3355,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T05:04:21.9935674+00:00",
-      "NumProgressed": 3356,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T07:05:17.9893223+00:00",
-      "NumProgressed": 3358,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T15:04:55.7109076+00:00",
-      "NumProgressed": 3359,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T16:04:35.0469636+00:00",
-      "NumProgressed": 3360,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T17:05:53.9939751+00:00",
-      "NumProgressed": 3363,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T19:05:03.9481401+00:00",
-      "NumProgressed": 3364,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T21:06:11.9674489+00:00",
-      "NumProgressed": 3365,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T22:04:43.5154747+00:00",
-      "NumProgressed": 3366,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T09:04:39.9326125+00:00",
-      "NumProgressed": 3367,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T16:06:04.0999472+00:00",
-      "NumProgressed": 3368,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T17:04:31.820913+00:00",
-      "NumProgressed": 3370,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T23:04:43.0877982+00:00",
-      "NumProgressed": 3371,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T00:04:27.165024+00:00",
-      "NumProgressed": 3372,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T05:04:48.5938098+00:00",
-      "NumProgressed": 3374,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T08:05:41.6462567+00:00",
-      "NumProgressed": 3375,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T14:04:35.8227893+00:00",
-      "NumProgressed": 3376,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T16:05:03.4903161+00:00",
-      "NumProgressed": 3377,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T21:05:03.3601616+00:00",
-      "NumProgressed": 3378,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T00:05:29.6582067+00:00",
-      "NumProgressed": 3379,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T02:06:08.8813091+00:00",
-      "NumProgressed": 3380,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T12:04:30.1741036+00:00",
-      "NumProgressed": 3381,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T15:05:04.4723688+00:00",
-      "NumProgressed": 3382,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T16:05:13.3063857+00:00",
-      "NumProgressed": 3383,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T18:05:34.0095275+00:00",
-      "NumProgressed": 3385,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T22:04:39.1731544+00:00",
-      "NumProgressed": 3386,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T00:04:26.7525551+00:00",
-      "NumProgressed": 3387,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T02:03:23.9228189+00:00",
-      "NumProgressed": 3388,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T11:05:40.4750942+00:00",
-      "NumProgressed": 3389,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T17:05:25.3690118+00:00",
-      "NumProgressed": 3390,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T22:04:34.8926439+00:00",
-      "NumProgressed": 3392,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T03:06:05.4874184+00:00",
-      "NumProgressed": 3393,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T09:05:37.5790606+00:00",
-      "NumProgressed": 3394,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T19:04:30.4931586+00:00",
-      "NumProgressed": 3395,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T20:05:13.3721696+00:00",
-      "NumProgressed": 3396,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T23:05:45.0217014+00:00",
-      "NumProgressed": 3397,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T02:01:41.2908708+00:00",
-      "NumProgressed": 3398,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T17:05:18.2284861+00:00",
-      "NumProgressed": 3399,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T18:05:12.1895296+00:00",
-      "NumProgressed": 3400,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T21:06:03.5308519+00:00",
-      "NumProgressed": 3401,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T22:06:51.4022811+00:00",
-      "NumProgressed": 3402,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T08:06:02.044186+00:00",
-      "NumProgressed": 3403,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T13:11:02.8554358+00:00",
-      "NumProgressed": 3404,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T13:42:13.8928931+00:00",
-      "NumProgressed": 3405,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T15:42:50.9274368+00:00",
-      "NumProgressed": 3406,
-      "NumCompleted": 0
-    }
-  ],
+  "ProductSlug": "call-of-the-wild-the-angler",
+  "Ranking_Rating": 849,
+  "Ranking_Popularity": 434,
+  "Ranking_PopularitySum": 373,
+  "Ranking_EOS_Progress": 129,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.12,
+  "NumberOfRatings": 281,
   "RatingHistory": [
     {
       "Time": "2022-09-02T02:01:46.3061228+00:00",
@@ -1087,46 +500,639 @@
       "NumberOfAwardsMax": 32
     }
   ],
-  "TotalAchievementsXP": 1200,
-  "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T16:08:06.6549902+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 46,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 158,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Relaxing",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 32
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 3407,
   "EOS_Completed": 0,
-  "EOS_Progressed": 3406,
-  "LastUpdate_Achievements": "2023-05-05T16:08:06.6550199+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:04.7246153+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:59.4651731+00:00",
+  "EOS_NewPlayers": 44,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:06.9545354+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T18:57:07.3644355+00:00",
+      "NumProgressed": 3344,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T02:09:59.928126+00:00",
+      "NumProgressed": 3345,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T06:12:22.7659586+00:00",
+      "NumProgressed": 3346,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T19:05:28.8581182+00:00",
+      "NumProgressed": 3348,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T09:05:54.2943706+00:00",
+      "NumProgressed": 3349,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T13:10:22.5372392+00:00",
+      "NumProgressed": 3350,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T18:05:09.5950845+00:00",
+      "NumProgressed": 3351,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T19:05:08.0759971+00:00",
+      "NumProgressed": 3352,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T20:05:15.414284+00:00",
+      "NumProgressed": 3353,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T02:06:13.1522689+00:00",
+      "NumProgressed": 3355,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T05:04:21.9935674+00:00",
+      "NumProgressed": 3356,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T07:05:17.9893223+00:00",
+      "NumProgressed": 3358,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T15:04:55.7109076+00:00",
+      "NumProgressed": 3359,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T16:04:35.0469636+00:00",
+      "NumProgressed": 3360,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T17:05:53.9939751+00:00",
+      "NumProgressed": 3363,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T19:05:03.9481401+00:00",
+      "NumProgressed": 3364,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T21:06:11.9674489+00:00",
+      "NumProgressed": 3365,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T22:04:43.5154747+00:00",
+      "NumProgressed": 3366,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T09:04:39.9326125+00:00",
+      "NumProgressed": 3367,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T16:06:04.0999472+00:00",
+      "NumProgressed": 3368,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T17:04:31.820913+00:00",
+      "NumProgressed": 3370,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T23:04:43.0877982+00:00",
+      "NumProgressed": 3371,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T00:04:27.165024+00:00",
+      "NumProgressed": 3372,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T05:04:48.5938098+00:00",
+      "NumProgressed": 3374,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T08:05:41.6462567+00:00",
+      "NumProgressed": 3375,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T14:04:35.8227893+00:00",
+      "NumProgressed": 3376,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T16:05:03.4903161+00:00",
+      "NumProgressed": 3377,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T21:05:03.3601616+00:00",
+      "NumProgressed": 3378,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T00:05:29.6582067+00:00",
+      "NumProgressed": 3379,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T02:06:08.8813091+00:00",
+      "NumProgressed": 3380,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T12:04:30.1741036+00:00",
+      "NumProgressed": 3381,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T15:05:04.4723688+00:00",
+      "NumProgressed": 3382,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T16:05:13.3063857+00:00",
+      "NumProgressed": 3383,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T18:05:34.0095275+00:00",
+      "NumProgressed": 3385,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T22:04:39.1731544+00:00",
+      "NumProgressed": 3386,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T00:04:26.7525551+00:00",
+      "NumProgressed": 3387,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T02:03:23.9228189+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T11:05:40.4750942+00:00",
+      "NumProgressed": 3389,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T17:05:25.3690118+00:00",
+      "NumProgressed": 3390,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T22:04:34.8926439+00:00",
+      "NumProgressed": 3392,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T03:06:05.4874184+00:00",
+      "NumProgressed": 3393,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T09:05:37.5790606+00:00",
+      "NumProgressed": 3394,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T19:04:30.4931586+00:00",
+      "NumProgressed": 3395,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T20:05:13.3721696+00:00",
+      "NumProgressed": 3396,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T23:05:45.0217014+00:00",
+      "NumProgressed": 3397,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T02:01:41.2908708+00:00",
+      "NumProgressed": 3398,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T17:05:18.2284861+00:00",
+      "NumProgressed": 3399,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T18:05:12.1895296+00:00",
+      "NumProgressed": 3400,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T21:06:03.5308519+00:00",
+      "NumProgressed": 3401,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:51.4022811+00:00",
+      "NumProgressed": 3402,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:06:02.044186+00:00",
+      "NumProgressed": 3403,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:11:02.8554358+00:00",
+      "NumProgressed": 3404,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:42:13.8928931+00:00",
+      "NumProgressed": 3405,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T15:42:50.9274368+00:00",
+      "NumProgressed": 3406,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T17:09:45.2773353+00:00",
+      "NumProgressed": 3407,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1200,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_001",
+      "SetID": "1a05lfd",
+      "Name": "Fish Just Got Reel",
+      "Percentage": 71,
+      "XP": 10,
+      "UsersEstimate": 2419
+    },
+    {
+      "ID": "ACHIEVEMENT_002",
+      "SetID": "1a05lfd",
+      "Name": "Can you smell what the Rod is Hooking",
+      "Percentage": 44,
+      "XP": 20,
+      "UsersEstimate": 1499
+    },
+    {
+      "ID": "ACHIEVEMENT_003",
+      "SetID": "1a05lfd",
+      "Name": "Hey Good Hookin",
+      "Percentage": 61,
+      "XP": 30,
+      "UsersEstimate": 2078
+    },
+    {
+      "ID": "ACHIEVEMENT_004",
+      "SetID": "1a05lfd",
+      "Name": "Ready to Rod and Roll",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 1227
+    },
+    {
+      "ID": "ACHIEVEMENT_005",
+      "SetID": "1a05lfd",
+      "Name": "Fish Out of Water",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 988
+    },
+    {
+      "ID": "ACHIEVEMENT_006",
+      "SetID": "1a05lfd",
+      "Name": "I\u0027m on a Boat!",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 1772
+    },
+    {
+      "ID": "ACHIEVEMENT_007",
+      "SetID": "1a05lfd",
+      "Name": "More Fish in the Sea",
+      "Percentage": 37,
+      "XP": 20,
+      "UsersEstimate": 1261
+    },
+    {
+      "ID": "ACHIEVEMENT_008",
+      "SetID": "1a05lfd",
+      "Name": "Scaling up",
+      "Percentage": 45,
+      "XP": 30,
+      "UsersEstimate": 1533
+    },
+    {
+      "ID": "ACHIEVEMENT_009",
+      "SetID": "1a05lfd",
+      "Name": "Things that go Splash in the Night",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 852
+    },
+    {
+      "ID": "ACHIEVEMENT_010",
+      "SetID": "1a05lfd",
+      "Name": "License to Gill",
+      "Percentage": 31,
+      "XP": 20,
+      "UsersEstimate": 1056
+    },
+    {
+      "ID": "ACHIEVEMENT_011",
+      "SetID": "1a05lfd",
+      "Name": "More than a Tourist",
+      "Percentage": 13,
+      "XP": 30,
+      "UsersEstimate": 443
+    },
+    {
+      "ID": "ACHIEVEMENT_012",
+      "SetID": "1a05lfd",
+      "Name": "I\u0027m the Captain Now",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 170
+    },
+    {
+      "ID": "ACHIEVEMENT_013",
+      "SetID": "1a05lfd",
+      "Name": "Hook, Line and Sinker",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 273
+    },
+    {
+      "ID": "ACHIEVEMENT_014",
+      "SetID": "1a05lfd",
+      "Name": "Goldfish?",
+      "Percentage": 25,
+      "XP": 50,
+      "UsersEstimate": 852
+    },
+    {
+      "ID": "ACHIEVEMENT_015",
+      "SetID": "1a05lfd",
+      "Name": "Going for Gold",
+      "Percentage": 23,
+      "XP": 50,
+      "UsersEstimate": 784
+    },
+    {
+      "ID": "ACHIEVEMENT_016",
+      "SetID": "1a05lfd",
+      "Name": "School\u0027s Out for Summer",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 136
+    },
+    {
+      "ID": "ACHIEVEMENT_017",
+      "SetID": "1a05lfd",
+      "Name": "Head for Heights",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 24
+    },
+    {
+      "ID": "ACHIEVEMENT_018",
+      "SetID": "1a05lfd",
+      "Name": "The Beetles",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "ACHIEVEMENT_019",
+      "SetID": "1a05lfd",
+      "Name": "Lake Me up Before You Go Go",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "ACHIEVEMENT_020",
+      "SetID": "1a05lfd",
+      "Name": "Marathon",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 273
+    },
+    {
+      "ID": "ACHIEVEMENT_021",
+      "SetID": "1a05lfd",
+      "Name": "I\u0027m Hooked!",
+      "Percentage": 17,
+      "XP": 30,
+      "UsersEstimate": 579
+    },
+    {
+      "ID": "ACHIEVEMENT_022",
+      "SetID": "1a05lfd",
+      "Name": "Diamond in the Rough",
+      "Percentage": 12,
+      "XP": 100,
+      "UsersEstimate": 409
+    },
+    {
+      "ID": "ACHIEVEMENT_023",
+      "SetID": "1a05lfd",
+      "Name": "No Fin left to give",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_024",
+      "SetID": "1a05lfd",
+      "Name": "Have Fish, Will Travel",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_025",
+      "SetID": "1a05lfd",
+      "Name": "Taylor Made",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "ACHIEVEMENT_026",
+      "SetID": "1a05lfd",
+      "Name": "Big Fish Small Pond",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 204
+    },
+    {
+      "ID": "ACHIEVEMENT_027",
+      "SetID": "1a05lfd",
+      "Name": "Lost and Flounder",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACHIEVEMENT_028",
+      "SetID": "1a05lfd",
+      "Name": "Golden Ridge Ranger",
+      "Percentage": 0.2,
+      "XP": 40,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "ACHIEVEMENT_029",
+      "SetID": "1a05lfd",
+      "Name": "Buckaroo",
+      "Percentage": 0.2,
+      "XP": 50,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "ACHIEVEMENT_030",
+      "SetID": "1a05lfd",
+      "Name": "Gonna Need a Bigger Boat",
+      "Percentage": 3,
+      "XP": 100,
+      "UsersEstimate": 102
+    },
+    {
+      "ID": "ACHIEVEMENT_032",
+      "SetID": "6jk25od",
+      "Name": "Rod and Troll",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 56
+    },
+    {
+      "ID": "ACHIEVEMENT_033",
+      "SetID": "6jk25od",
+      "Name": "Norway Jose",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACHIEVEMENT_034",
+      "SetID": "6jk25od",
+      "Name": "Trollsporet Tale Teller",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "ACHIEVEMENT_035",
+      "SetID": "6jk25od",
+      "Name": "Fish upon a Star",
+      "Percentage": 0.6,
+      "XP": 30,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "ACHIEVEMENT_036",
+      "SetID": "6jk25od",
+      "Name": "Cache and Carry",
+      "Percentage": 0.3,
+      "XP": 100,
+      "UsersEstimate": 8
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3406,
+      "Progressed": 3407,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 112
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
-  "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
-  "ProductSlug": "call-of-the-wild-the-angler",
-  "Rating": 4.12,
-  "Ranking_Rating": 849,
-  "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 373,
-  "Ranking_EOS_Progress": 129,
-  "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 281,
-  "NumberOfAwards": 158,
-  "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
-  "Ranking_EOS_NewPlayers": 131
+  "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
+  "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:45.2773348+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:57.1004222+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:52.5939802+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:45.2773625+00:00"
 }

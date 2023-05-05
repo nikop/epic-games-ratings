@@ -1,22 +1,15 @@
 {
   "ID": "3f7bd21610f743e598fa8e955500f5b7",
   "Name": "Evoland Legendary Edition",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 271
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "evoland-legendary-edition-5753ec",
+  "Ranking_Rating": 549,
+  "Ranking_Popularity": 231,
+  "Ranking_PopularitySum": 332,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2022-10-21T11:02:38.8584731+00:00",
@@ -69,30 +62,38 @@
       "NumberOfAwardsMax": 271
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:33.5933607+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:27.329146+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:13.5977394+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-13T20:58:12.657837+00:00",
-  "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
-  "ProductSlug": "evoland-legendary-edition-5753ec",
-  "Rating": 4.49,
-  "Ranking_Rating": 549,
-  "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 332,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 271,
   "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 271
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
+  "LastChanged": "2023-04-13T20:58:12.657837+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:03.4281336+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:07.5570186+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:04:51.5726308+00:00"
 }

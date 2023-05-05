@@ -1,22 +1,16 @@
 {
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "motogp-21",
+  "Ranking_Rating": 414,
+  "Ranking_Popularity": 473,
+  "Ranking_PopularitySum": 440,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.58,
+  "NumberOfRatings": 95,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:40.3601331+00:00",
@@ -203,30 +197,37 @@
       "NumberOfAwardsMax": 22
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:23.3841838+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:26.6392624+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:51.8549008+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-04T13:57:48.913211+00:00",
-  "ProductSlug": "motogp-21",
-  "Rating": 4.58,
-  "Ranking_Rating": 414,
-  "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 440,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 95,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 42,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Amazing Characters",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-04T13:57:48.913211+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:45.9365162+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:47.2014745+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:04:44.8038054+00:00"
 }

@@ -1,6 +1,283 @@
 {
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
+  "ProductSlug": "atom-rpg-trudograd-a97244",
+  "Ranking_Rating": 531,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 482,
+  "Ranking_EOS_Progress": 160,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.5,
+  "RatingHistory": [
+    {
+      "Time": "2022-11-18T14:57:38.137253+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-11-20T02:44:58.591949+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-20T15:59:01.6850556+00:00",
+      "Rating": 4.48
+    },
+    {
+      "Time": "2022-11-21T03:41:10.8824476+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-11-22T20:58:20.8453824+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-11-24T19:58:09.8460839+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-11-24T20:57:57.0557952+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-11-25T20:57:39.4670066+00:00",
+      "Rating": 4.34
+    },
+    {
+      "Time": "2022-11-27T13:12:30.5244453+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-11-27T13:58:23.7316248+00:00",
+      "Rating": 4.39
+    },
+    {
+      "Time": "2022-11-27T20:57:59.8383233+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-11-28T20:58:08.7302762+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-11-29T03:58:03.3679091+00:00",
+      "Rating": 4.38
+    },
+    {
+      "Time": "2022-11-29T16:59:17.2464409+00:00",
+      "Rating": 4.4
+    },
+    {
+      "Time": "2022-11-30T10:57:53.7847197+00:00",
+      "Rating": 4.39
+    },
+    {
+      "Time": "2022-12-01T02:34:39.3177866+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-12-01T20:58:16.4944417+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-04T17:57:45.6818352+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2022-12-06T16:58:17.4734902+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-08T03:57:31.9702761+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2022-12-08T15:58:29.9395842+00:00",
+      "Rating": 4.4
+    },
+    {
+      "Time": "2022-12-09T21:57:34.090495+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-12-11T21:57:50.7584671+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-12-12T21:58:13.9396488+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-12-16T21:58:17.6821471+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2023-01-01T22:57:50.2653435+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2023-01-05T22:57:51.993929+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2023-02-21T02:15:14.8077277+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2023-02-28T03:11:47.0128147+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-03-22T13:10:09.2844948+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2023-03-31T05:58:08.5509787+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T11:57:50.2738453+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-13T21:57:54.969737+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-17T21:57:46.424332+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-29T21:56:53.0228719+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 1007,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 12,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:51.1456705+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T20:00:11.3290984+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T20:45:09.9538926+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T21:01:08.4337228+00:00",
+      "NumProgressed": 991,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T07:00:29.9717778+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T15:03:27.7241024+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T14:01:02.3332959+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T19:01:24.6877402+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T04:02:38.0466833+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T10:00:18.3151593+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T13:03:15.104479+00:00",
+      "NumProgressed": 998,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T15:01:31.4588542+00:00",
+      "NumProgressed": 999,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T19:00:05.8706687+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T23:59:52.8607833+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T15:01:21.4377289+00:00",
+      "NumProgressed": 1003,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T19:02:19.1104328+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T15:00:55.6392407+00:00",
+      "NumProgressed": 1005,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T16:01:03.6528949+00:00",
+      "NumProgressed": 1006,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T16:02:24.5438788+00:00",
+      "NumProgressed": 1007,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ADMIRAL",
@@ -259,273 +536,6 @@
       "UsersEstimate": 876
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:51.1456705+00:00",
-      "NumProgressed": 988,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T20:00:11.3290984+00:00",
-      "NumProgressed": 989,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T20:45:09.9538926+00:00",
-      "NumProgressed": 990,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T21:01:08.4337228+00:00",
-      "NumProgressed": 991,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T07:00:29.9717778+00:00",
-      "NumProgressed": 992,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T15:03:27.7241024+00:00",
-      "NumProgressed": 993,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T14:01:02.3332959+00:00",
-      "NumProgressed": 994,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T19:01:24.6877402+00:00",
-      "NumProgressed": 995,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T04:02:38.0466833+00:00",
-      "NumProgressed": 996,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T10:00:18.3151593+00:00",
-      "NumProgressed": 997,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T13:03:15.104479+00:00",
-      "NumProgressed": 998,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T15:01:31.4588542+00:00",
-      "NumProgressed": 999,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T19:00:05.8706687+00:00",
-      "NumProgressed": 1001,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T23:59:52.8607833+00:00",
-      "NumProgressed": 1002,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T15:01:21.4377289+00:00",
-      "NumProgressed": 1003,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T19:02:19.1104328+00:00",
-      "NumProgressed": 1004,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T15:00:55.6392407+00:00",
-      "NumProgressed": 1005,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T16:01:03.6528949+00:00",
-      "NumProgressed": 1006,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T16:02:24.5438788+00:00",
-      "NumProgressed": 1007,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-11-18T14:57:38.137253+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-11-20T02:44:58.591949+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-20T15:59:01.6850556+00:00",
-      "Rating": 4.48
-    },
-    {
-      "Time": "2022-11-21T03:41:10.8824476+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-11-22T20:58:20.8453824+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-11-24T19:58:09.8460839+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-11-24T20:57:57.0557952+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-11-25T20:57:39.4670066+00:00",
-      "Rating": 4.34
-    },
-    {
-      "Time": "2022-11-27T13:12:30.5244453+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-11-27T13:58:23.7316248+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2022-11-27T20:57:59.8383233+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-11-28T20:58:08.7302762+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-11-29T03:58:03.3679091+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2022-11-29T16:59:17.2464409+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-11-30T10:57:53.7847197+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2022-12-01T02:34:39.3177866+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-12-01T20:58:16.4944417+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-04T17:57:45.6818352+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2022-12-06T16:58:17.4734902+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-08T03:57:31.9702761+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2022-12-08T15:58:29.9395842+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-12-09T21:57:34.090495+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-12-11T21:57:50.7584671+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-12-12T21:58:13.9396488+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-12-16T21:58:17.6821471+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-01-01T22:57:50.2653435+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-01-05T22:57:51.993929+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-02-21T02:15:14.8077277+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2023-02-28T03:11:47.0128147+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-03-22T13:10:09.2844948+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2023-03-31T05:58:08.5509787+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-05T11:57:50.2738453+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 20,
-      "NumberOfAwardsMax": 20
-    },
-    {
-      "Time": "2023-04-13T21:57:54.969737+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 20,
-      "NumberOfAwardsMax": 20
-    },
-    {
-      "Time": "2023-04-17T21:57:46.424332+00:00",
-      "Rating": 4.49,
-      "NumberOfAwards": 20,
-      "NumberOfAwardsMax": 20
-    },
-    {
-      "Time": "2023-04-29T21:56:53.0228719+00:00",
-      "Rating": 4.5,
-      "NumberOfAwards": 20,
-      "NumberOfAwardsMax": 20
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-05T16:07:33.4391879+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 13,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 1007,
-  "LastUpdate_Achievements": "2023-05-05T16:07:33.4392113+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:55.4722716+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:53.7377299+00:00",
   "AchievementSets": [
     {
       "ID": "62d2oh4",
@@ -534,21 +544,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
-  "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Rating": 4.5,
-  "Ranking_Rating": 531,
-  "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 482,
-  "Ranking_EOS_Progress": 160,
-  "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
-  "Ranking_EOS_NewPlayers": 165
+  "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
+  "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:20.7332146+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:41.550647+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:46.3511864+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:20.7332443+00:00"
 }

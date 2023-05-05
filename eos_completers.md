@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.75% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.74% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
@@ -33,9 +33,9 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 3.56% |
 | 34 | [The Complex](games/t/the_complex.md) | 3.56% |
-| 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 3.50% |
+| 35 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.18% |
@@ -66,7 +66,7 @@
 | 64 | [Frogun](games/f/frogun.md) | 1.55% |
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
+| 67 | [Bloodshore](games/b/bloodshore.md) | 1.43% |
 | 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.37% |
 | 69 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 70 | [Chorus](games/c/chorus.md) | 1.30% |
@@ -97,10 +97,10 @@
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
-| 97 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
+| 98 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
-| 101 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
+| 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 102 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 103 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
@@ -290,6 +290,7 @@
 | 191 | [Moonglow Bay](games/m/moonglow_bay.md) | 0.00% |
 | 191 | [MORDHAU](games/m/mordhau.md) | 0.00% |
 | 191 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 0.00% |
+| 191 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
 | 191 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
 | 191 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 0.00% |
 | 191 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |

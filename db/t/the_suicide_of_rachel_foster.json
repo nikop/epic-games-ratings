@@ -1,234 +1,16 @@
 {
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
-  "Achievements": [
-    {
-      "ID": "ACH_Appuntamento",
-      "SetID": "7a9m7mj",
-      "Name": "Cutepie",
-      "Percentage": 43,
-      "XP": 100,
-      "UsersEstimate": 430
-    },
-    {
-      "ID": "ACH_BloccatoInGhiacciaia",
-      "SetID": "7a9m7mj",
-      "Name": "Freeze to death",
-      "Percentage": 56,
-      "XP": 100,
-      "UsersEstimate": 560
-    },
-    {
-      "ID": "ACH_Cacciavite",
-      "SetID": "7a9m7mj",
-      "Name": "Screwdriver",
-      "Percentage": 45,
-      "XP": 50,
-      "UsersEstimate": 450
-    },
-    {
-      "ID": "ACH_DialogoAspettoFisico",
-      "SetID": "7a9m7mj",
-      "Name": "Spicy",
-      "Percentage": 6,
-      "XP": 50,
-      "UsersEstimate": 60
-    },
-    {
-      "ID": "ACH_FineEV5",
-      "SetID": "7a9m7mj",
-      "Name": "Is she really dead?",
-      "Percentage": 47,
-      "XP": 100,
-      "UsersEstimate": 470
-    },
-    {
-      "ID": "ACH_FineEV9",
-      "SetID": "7a9m7mj",
-      "Name": "Alone",
-      "Percentage": 40,
-      "XP": 100,
-      "UsersEstimate": 400
-    },
-    {
-      "ID": "ACH_FineGioco",
-      "SetID": "7a9m7mj",
-      "Name": "All together, again",
-      "Percentage": 34,
-      "XP": 100,
-      "UsersEstimate": 340
-    },
-    {
-      "ID": "ACH_PrendiTuttiOggetti",
-      "SetID": "7a9m7mj",
-      "Name": "Pack Rat",
-      "Percentage": 40,
-      "XP": 100,
-      "UsersEstimate": 400
-    },
-    {
-      "ID": "ACH_PrimoContattoIrving",
-      "SetID": "7a9m7mj",
-      "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 77,
-      "XP": 100,
-      "UsersEstimate": 770
-    },
-    {
-      "ID": "ACH_StanzaSegreta",
-      "SetID": "7a9m7mj",
-      "Name": "Someone was here",
-      "Percentage": 41,
-      "XP": 100,
-      "UsersEstimate": 410
-    },
-    {
-      "ID": "ACH_SussurriHotel",
-      "SetID": "7a9m7mj",
-      "Name": "Ghost Hunters",
-      "Percentage": 41,
-      "XP": 100,
-      "UsersEstimate": 410
-    }
-  ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:08:57.7032048+00:00",
-      "NumProgressed": 974,
-      "NumCompleted": 48
-    },
-    {
-      "Time": "2023-04-26T19:05:52.1446924+00:00",
-      "NumProgressed": 975,
-      "NumCompleted": 48
-    },
-    {
-      "Time": "2023-04-27T04:04:59.154812+00:00",
-      "NumProgressed": 976,
-      "NumCompleted": 48
-    },
-    {
-      "Time": "2023-04-27T12:04:27.0409288+00:00",
-      "NumProgressed": 977,
-      "NumCompleted": 48
-    },
-    {
-      "Time": "2023-04-27T14:05:08.4884166+00:00",
-      "NumProgressed": 978,
-      "NumCompleted": 48
-    },
-    {
-      "Time": "2023-04-27T20:05:35.5834169+00:00",
-      "NumProgressed": 979,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-28T00:04:47.9914995+00:00",
-      "NumProgressed": 980,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-28T02:06:35.2655474+00:00",
-      "NumProgressed": 981,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-28T04:05:28.7553033+00:00",
-      "NumProgressed": 982,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-28T14:05:03.1750225+00:00",
-      "NumProgressed": 983,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-28T18:05:30.5636277+00:00",
-      "NumProgressed": 984,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-28T19:05:19.8799941+00:00",
-      "NumProgressed": 985,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-29T10:04:31.6806429+00:00",
-      "NumProgressed": 986,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-30T11:04:45.8371049+00:00",
-      "NumProgressed": 987,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-30T13:08:18.1356143+00:00",
-      "NumProgressed": 988,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-30T15:05:26.583428+00:00",
-      "NumProgressed": 989,
-      "NumCompleted": 49
-    },
-    {
-      "Time": "2023-04-30T16:05:19.7294362+00:00",
-      "NumProgressed": 990,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-01T00:05:46.431928+00:00",
-      "NumProgressed": 991,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-01T05:05:36.588313+00:00",
-      "NumProgressed": 992,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-01T17:06:33.6414831+00:00",
-      "NumProgressed": 993,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-01T19:06:15.6599899+00:00",
-      "NumProgressed": 994,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-01T20:04:52.5152491+00:00",
-      "NumProgressed": 995,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-02T09:05:36.0783905+00:00",
-      "NumProgressed": 996,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-03T00:05:13.6423984+00:00",
-      "NumProgressed": 997,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-03T04:05:31.8065551+00:00",
-      "NumProgressed": 998,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-03T10:04:51.8133955+00:00",
-      "NumProgressed": 999,
-      "NumCompleted": 50
-    },
-    {
-      "Time": "2023-05-04T04:05:12.4701631+00:00",
-      "NumProgressed": 1000,
-      "NumCompleted": 50
-    }
-  ],
+  "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
+  "Ranking_Rating": 821,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.18,
+  "NumberOfRatings": 71,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.0342445+00:00",
@@ -447,16 +229,244 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-05T16:08:10.6890259+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 17,
-  "EOS_Completed": 50,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 1000,
-  "LastUpdate_Achievements": "2023-05-05T16:08:10.6890368+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:23.0302631+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:12.6534772+00:00",
+  "EOS_Completed": 50,
+  "EOS_NewPlayers": 16,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:57.7032048+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 48
+    },
+    {
+      "Time": "2023-04-26T19:05:52.1446924+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 48
+    },
+    {
+      "Time": "2023-04-27T04:04:59.154812+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 48
+    },
+    {
+      "Time": "2023-04-27T12:04:27.0409288+00:00",
+      "NumProgressed": 977,
+      "NumCompleted": 48
+    },
+    {
+      "Time": "2023-04-27T14:05:08.4884166+00:00",
+      "NumProgressed": 978,
+      "NumCompleted": 48
+    },
+    {
+      "Time": "2023-04-27T20:05:35.5834169+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-28T00:04:47.9914995+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-28T02:06:35.2655474+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-28T04:05:28.7553033+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-28T14:05:03.1750225+00:00",
+      "NumProgressed": 983,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-28T18:05:30.5636277+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-28T19:05:19.8799941+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-29T10:04:31.6806429+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-30T11:04:45.8371049+00:00",
+      "NumProgressed": 987,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-30T13:08:18.1356143+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-30T15:05:26.583428+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 49
+    },
+    {
+      "Time": "2023-04-30T16:05:19.7294362+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-01T00:05:46.431928+00:00",
+      "NumProgressed": 991,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-01T05:05:36.588313+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-01T17:06:33.6414831+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-01T19:06:15.6599899+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-01T20:04:52.5152491+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-02T09:05:36.0783905+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-03T00:05:13.6423984+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-03T04:05:31.8065551+00:00",
+      "NumProgressed": 998,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-03T10:04:51.8133955+00:00",
+      "NumProgressed": 999,
+      "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-04T04:05:12.4701631+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 50
+    }
+  ],
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_Appuntamento",
+      "SetID": "7a9m7mj",
+      "Name": "Cutepie",
+      "Percentage": 43,
+      "XP": 100,
+      "UsersEstimate": 430
+    },
+    {
+      "ID": "ACH_BloccatoInGhiacciaia",
+      "SetID": "7a9m7mj",
+      "Name": "Freeze to death",
+      "Percentage": 56,
+      "XP": 100,
+      "UsersEstimate": 560
+    },
+    {
+      "ID": "ACH_Cacciavite",
+      "SetID": "7a9m7mj",
+      "Name": "Screwdriver",
+      "Percentage": 45,
+      "XP": 50,
+      "UsersEstimate": 450
+    },
+    {
+      "ID": "ACH_DialogoAspettoFisico",
+      "SetID": "7a9m7mj",
+      "Name": "Spicy",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 60
+    },
+    {
+      "ID": "ACH_FineEV5",
+      "SetID": "7a9m7mj",
+      "Name": "Is she really dead?",
+      "Percentage": 47,
+      "XP": 100,
+      "UsersEstimate": 470
+    },
+    {
+      "ID": "ACH_FineEV9",
+      "SetID": "7a9m7mj",
+      "Name": "Alone",
+      "Percentage": 40,
+      "XP": 100,
+      "UsersEstimate": 400
+    },
+    {
+      "ID": "ACH_FineGioco",
+      "SetID": "7a9m7mj",
+      "Name": "All together, again",
+      "Percentage": 34,
+      "XP": 100,
+      "UsersEstimate": 340
+    },
+    {
+      "ID": "ACH_PrendiTuttiOggetti",
+      "SetID": "7a9m7mj",
+      "Name": "Pack Rat",
+      "Percentage": 40,
+      "XP": 100,
+      "UsersEstimate": 400
+    },
+    {
+      "ID": "ACH_PrimoContattoIrving",
+      "SetID": "7a9m7mj",
+      "Name": "\u0022Nice\u0022 to meet you",
+      "Percentage": 77,
+      "XP": 100,
+      "UsersEstimate": 770
+    },
+    {
+      "ID": "ACH_StanzaSegreta",
+      "SetID": "7a9m7mj",
+      "Name": "Someone was here",
+      "Percentage": 41,
+      "XP": 100,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "ACH_SussurriHotel",
+      "SetID": "7a9m7mj",
+      "Name": "Ghost Hunters",
+      "Percentage": 41,
+      "XP": 100,
+      "UsersEstimate": 410
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
@@ -465,20 +475,11 @@
       "Completed": 50
     }
   ],
-  "EOS_Completed_Percentage": 5,
-  "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Rating": 4.18,
-  "Ranking_Rating": 821,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 161,
-  "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
-  "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfRatings": 71,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
-  "Ranking_EOS_NewPlayers": 158
+  "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
+  "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:48.286954+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:10.5241617+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:04.6843081+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:48.2869653+00:00"
 }

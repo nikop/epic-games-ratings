@@ -1,82 +1,15 @@
 {
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 997
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 36
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 32
-    },
-    {
-      "Text": "This game has Beautiful Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 33
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 30
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 33
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 25
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 26
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "marvels-spider-man-miles-morales",
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 136,
+  "Ranking_PopularitySum": 214,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -375,32 +308,106 @@
       "Rating": 4.79,
       "NumberOfAwards": 1323,
       "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2023-05-05T17:03:13.5911323+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1324,
+      "NumberOfAwardsMax": 998
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:38.3625544+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:05.2322411+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:19.1378472+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T21:59:40.0154725+00:00",
-  "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "ProductSlug": "marvels-spider-man-miles-morales",
-  "Rating": 4.79,
-  "Ranking_Rating": 91,
-  "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 214,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 1323,
-  "NumberOfAwardsMax": 997,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 1324,
+  "NumberOfAwardsMax": 998,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 998
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 32
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 33
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 33
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 26
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
+  "LastChanged": "2023-05-05T17:03:13.5911322+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:13.8423279+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:13.5911325+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:43.1532179+00:00"
 }

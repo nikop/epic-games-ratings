@@ -9,8 +9,8 @@ Diff (max vs sum): -11
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 42.00% | ~2,536 |
-| Greasy Palms | 39.00% | ~2,355 |
+| Legal Counsel | 42.00% | ~2,537 |
+| Greasy Palms | 39.00% | ~2,356 |
 | South American Connection | 23.00% | ~1,389 |
 | Life of the Party | 17.00% | ~1,027 |
 | Tommy Two-Wheels | 13.00% | ~785 |
@@ -44,7 +44,7 @@ Diff (max vs sum): -11
 | Done it All | 0.60% | ~36 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,039 (Ranked 114)  
+Progressed: 6,040 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 20 (0.33%) (Ranked 110)
 | 2023-05-02 | 5,993 | 20 |
 | 2023-05-03 | 6,011 | 20 |
 | 2023-05-04 | 6,028 | 20 |
-| 2023-05-05 | 6,039 | 20 |
+| 2023-05-05 | 6,040 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

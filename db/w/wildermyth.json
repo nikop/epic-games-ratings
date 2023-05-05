@@ -1,6 +1,205 @@
 {
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
+  "ProductSlug": "wildermyth-593344",
+  "Ranking_Rating": 103,
+  "Ranking_Popularity": 454,
+  "Ranking_PopularitySum": 462,
+  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.77,
+  "NumberOfRatings": 45,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:29:42.7377529+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-07-22T21:23:14.5577421+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-07-24T18:01:53.2214204+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-27T22:02:08.7457035+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-28T21:02:22.9975494+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-08-06T20:01:52.7320291+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-08-07T09:03:14.249357+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-07T09:32:09.3331251+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-08-07T20:01:55.6106546+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-12T16:31:52.6032318+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 35
+    },
+    {
+      "Time": "2022-08-18T14:02:23.5117716+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-08-25T22:01:59.0029844+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-08-31T04:02:21.7385169+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 38
+    },
+    {
+      "Time": "2022-09-04T11:32:10.5579119+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 40
+    },
+    {
+      "Time": "2022-09-10T17:31:57.2669564+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-09-14T20:32:03.9034817+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 42
+    },
+    {
+      "Time": "2022-09-18T22:32:00.4476371+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-09-19T22:33:13.7090959+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 44
+    },
+    {
+      "Time": "2022-09-21T04:02:13.471977+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-09-28T14:02:02.4445311+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-10-14T19:32:20.5654243+00:00",
+      "Rating": 4.75
+    },
+    {
+      "Time": "2022-11-02T02:02:30.7800746+00:00",
+      "Rating": 4.76
+    },
+    {
+      "Time": "2022-12-16T19:58:42.3078187+00:00",
+      "Rating": 4.77
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 27
+    }
+  ],
+  "EOS_Progressed": 1124,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 7,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.27,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:23.2726912+00:00",
+      "NumProgressed": 1114,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-26T03:12:12.0288382+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-27T18:06:10.4911029+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-29T07:05:55.6609716+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-29T21:05:30.5206162+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-30T02:07:00.7280584+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-02T17:03:22.6696584+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-04T14:03:36.4409324+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T05:04:50.3761677+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T08:05:31.9516988+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T11:05:21.509877+00:00",
+      "NumProgressed": 1124,
+      "NumCompleted": 3
+    }
+  ],
+  "TotalAchievements": 56,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "achievement_10DifferentThemeLimbs",
@@ -451,194 +650,6 @@
       "UsersEstimate": 34
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 27
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:14:23.2726912+00:00",
-      "NumProgressed": 1114,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-26T03:12:12.0288382+00:00",
-      "NumProgressed": 1115,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-27T18:06:10.4911029+00:00",
-      "NumProgressed": 1116,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-29T07:05:55.6609716+00:00",
-      "NumProgressed": 1117,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-29T21:05:30.5206162+00:00",
-      "NumProgressed": 1118,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-30T02:07:00.7280584+00:00",
-      "NumProgressed": 1119,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-05-02T17:03:22.6696584+00:00",
-      "NumProgressed": 1120,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-05-04T14:03:36.4409324+00:00",
-      "NumProgressed": 1121,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-05-05T05:04:50.3761677+00:00",
-      "NumProgressed": 1122,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-05-05T08:05:31.9516988+00:00",
-      "NumProgressed": 1123,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-05-05T11:05:21.509877+00:00",
-      "NumProgressed": 1124,
-      "NumCompleted": 3
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:29:42.7377529+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": 27
-    },
-    {
-      "Time": "2022-07-22T21:23:14.5577421+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": 28
-    },
-    {
-      "Time": "2022-07-24T18:01:53.2214204+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": 29
-    },
-    {
-      "Time": "2022-07-27T22:02:08.7457035+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": 30
-    },
-    {
-      "Time": "2022-07-28T21:02:22.9975494+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 32
-    },
-    {
-      "Time": "2022-08-06T20:01:52.7320291+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 33
-    },
-    {
-      "Time": "2022-08-07T09:03:14.249357+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 34
-    },
-    {
-      "Time": "2022-08-07T09:32:09.3331251+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 33
-    },
-    {
-      "Time": "2022-08-07T20:01:55.6106546+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 34
-    },
-    {
-      "Time": "2022-08-12T16:31:52.6032318+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 35
-    },
-    {
-      "Time": "2022-08-18T14:02:23.5117716+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": 36
-    },
-    {
-      "Time": "2022-08-25T22:01:59.0029844+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 37
-    },
-    {
-      "Time": "2022-08-31T04:02:21.7385169+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 38
-    },
-    {
-      "Time": "2022-09-04T11:32:10.5579119+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 40
-    },
-    {
-      "Time": "2022-09-10T17:31:57.2669564+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 41
-    },
-    {
-      "Time": "2022-09-14T20:32:03.9034817+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 42
-    },
-    {
-      "Time": "2022-09-18T22:32:00.4476371+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 43
-    },
-    {
-      "Time": "2022-09-19T22:33:13.7090959+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 44
-    },
-    {
-      "Time": "2022-09-21T04:02:13.471977+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 45
-    },
-    {
-      "Time": "2022-09-28T14:02:02.4445311+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-10-14T19:32:20.5654243+00:00",
-      "Rating": 4.75
-    },
-    {
-      "Time": "2022-11-02T02:02:30.7800746+00:00",
-      "Rating": 4.76
-    },
-    {
-      "Time": "2022-12-16T19:58:42.3078187+00:00",
-      "Rating": 4.77
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T16:07:34.0328774+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7,
-  "EOS_Completed": 3,
-  "EOS_Progressed": 1124,
-  "LastUpdate_Achievements": "2023-05-05T16:07:34.0329243+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:58.9721773+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:36.0764599+00:00",
   "AchievementSets": [
     {
       "ID": "95dc8p",
@@ -647,21 +658,11 @@
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 0.27,
-  "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "ProductSlug": "wildermyth-593344",
-  "Rating": 4.77,
-  "Ranking_Rating": 103,
-  "Ranking_Popularity": 454,
-  "Ranking_PopularitySum": 462,
-  "Ranking_EOS_Progress": 154,
-  "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 45,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
-  "Ranking_EOS_NewPlayers": 185
+  "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
+  "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:21.2725301+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:28.3103766+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:21.272589+00:00"
 }

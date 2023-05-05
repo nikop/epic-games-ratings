@@ -1,6 +1,57 @@
 {
   "ID": "68f36df0a2174a6ab9059fb149f994f4",
   "Name": "Cursed Treasure 2 Ultimate Edition",
+  "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
+  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Completed": 8,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 49,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:34.5268806+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 147,
+  "EOS_Completed": 19,
+  "EOS_NewPlayers": 2,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 12.93,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:52.0136119+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 17
+    },
+    {
+      "Time": "2023-04-29T04:03:47.0497885+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-04-29T18:03:38.4369622+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-02T02:02:23.773511+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-03T10:03:41.010829+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 19
+    }
+  ],
+  "TotalAchievements": 53,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "BADGE_ARMORED_KNIGHT_KILL",
@@ -427,52 +478,6 @@
       "UsersEstimate": 100
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:52.0136119+00:00",
-      "NumProgressed": 145,
-      "NumCompleted": 17
-    },
-    {
-      "Time": "2023-04-29T04:03:47.0497885+00:00",
-      "NumProgressed": 145,
-      "NumCompleted": 18
-    },
-    {
-      "Time": "2023-04-29T18:03:38.4369622+00:00",
-      "NumProgressed": 146,
-      "NumCompleted": 18
-    },
-    {
-      "Time": "2023-05-02T02:02:23.773511+00:00",
-      "NumProgressed": 146,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-03T10:03:41.010829+00:00",
-      "NumProgressed": 147,
-      "NumCompleted": 19
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:34.5268806+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T16:07:46.0079181+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 2,
-  "EOS_Completed": 19,
-  "EOS_Progressed": 147,
-  "LastUpdate_Achievements": "2023-05-05T16:07:46.0079652+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:35.1966292+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:58.3501601+00:00",
   "AchievementSets": [
     {
       "ID": "ak6pfjk",
@@ -481,16 +486,12 @@
       "Completed": 19
     }
   ],
-  "EOS_Completed_Percentage": 12.93,
-  "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
-  "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
-  "Ranking_EOS_Progress": 235,
-  "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
-  "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:36.5493914+00:00",
-  "Ranking_EOS_NewPlayers": 212
+  "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
+  "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:30.162967+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:51.8789277+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:52.6053746+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:30.1630113+00:00"
 }

@@ -1,16 +1,15 @@
 {
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 157
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "star-wars-jedi-survivor",
+  "Ranking_Rating": 687,
+  "Ranking_Popularity": 280,
+  "Ranking_PopularitySum": 374,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-04-28T17:02:09.2169577+00:00",
@@ -131,32 +130,40 @@
       "Rating": 4.39,
       "NumberOfAwards": 157,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2023-05-05T17:04:26.4763381+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 157,
+      "NumberOfAwardsMax": 157
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:04.401911+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:56.322281+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:34.3412872+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T13:37:42.4545122+00:00",
-  "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "ProductSlug": "star-wars-jedi-survivor",
-  "Rating": 4.39,
-  "Ranking_Rating": 680,
-  "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 374,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 157,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 157
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
+  "LastChanged": "2023-05-05T17:04:26.476338+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:34.3115122+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:26.4763386+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:00.1917741+00:00"
 }

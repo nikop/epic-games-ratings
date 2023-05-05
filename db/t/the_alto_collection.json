@@ -1,320 +1,584 @@
 {
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
-  "Achievements": [
+  "ProductSlug": "the-alto-collection",
+  "Ranking_Rating": 192,
+  "Ranking_Popularity": 405,
+  "Ranking_PopularitySum": 312,
+  "Ranking_EOS_Progress": 90,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.7,
+  "NumberOfRatings": 332,
+  "RatingHistory": [
     {
-      "ID": "chain10000",
-      "SetID": "2lgngib",
-      "Name": "Junkie",
-      "Percentage": 3,
-      "XP": 25,
-      "UsersEstimate": 593
+      "Time": "2022-07-22T20:27:20.90716+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 143
     },
     {
-      "ID": "distance1000000",
-      "SetID": "2lgngib",
-      "Name": "Adventurer",
-      "Percentage": 0.5,
-      "XP": 25,
-      "UsersEstimate": 99
+      "Time": "2022-07-22T21:05:34.181086+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 144
     },
     {
-      "ID": "distance250000",
-      "SetID": "2lgngib",
-      "Name": "Traveler",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 593
+      "Time": "2022-07-23T22:01:47.5739039+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 146
     },
     {
-      "ID": "distance50000",
-      "SetID": "2lgngib",
-      "Name": "Scout",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 1977
+      "Time": "2022-07-24T04:01:41.316701+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 148
     },
     {
-      "ID": "distance500000",
-      "SetID": "2lgngib",
-      "Name": "Explorer",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 198
+      "Time": "2022-07-25T04:01:56.3331879+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 149
     },
     {
-      "ID": "goals10",
-      "SetID": "2lgngib",
-      "Name": "Rookie",
-      "Percentage": 24,
-      "XP": 10,
-      "UsersEstimate": 4745
+      "Time": "2022-07-26T04:02:10.7814018+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 154
     },
     {
-      "ID": "goals180",
-      "SetID": "2lgngib",
-      "Name": "Master",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 20
+      "Time": "2022-07-27T00:01:41.4429918+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 160
     },
     {
-      "ID": "goals25",
-      "SetID": "2lgngib",
-      "Name": "Amateur",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 1582
+      "Time": "2022-07-27T10:01:54.5471727+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 162
     },
     {
-      "ID": "goals75",
-      "SetID": "2lgngib",
-      "Name": "Pro",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 395
+      "Time": "2022-07-28T10:01:49.0927242+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 165
     },
     {
-      "ID": "hoistthemainsail",
-      "SetID": "2lgngib",
-      "Name": "Hoist the Mainsail",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 198
+      "Time": "2022-07-28T16:58:53.5444078+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 167
     },
     {
-      "ID": "humanflight",
-      "SetID": "2lgngib",
-      "Name": "Aviator",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 1186
+      "Time": "2022-07-29T05:01:28.7534591+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 169
     },
     {
-      "ID": "journeyer",
-      "SetID": "2lgngib",
-      "Name": "Journeyer",
-      "Percentage": 3,
-      "XP": 50,
-      "UsersEstimate": 593
+      "Time": "2022-07-30T05:31:45.213924+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 171
     },
     {
-      "ID": "lifeaquatic",
-      "SetID": "2lgngib",
-      "Name": "Life Aquatic",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 20
+      "Time": "2022-07-30T11:32:21.3909343+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 172
     },
     {
-      "ID": "master",
-      "SetID": "2lgngib",
-      "Name": "Master Of The Sands",
-      "Percentage": 0.3,
-      "XP": 50,
-      "UsersEstimate": 59
+      "Time": "2022-07-30T20:31:51.5643905+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 173
     },
     {
-      "ID": "mylittlefriend",
-      "SetID": "2lgngib",
-      "Name": "My Little Friend",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 989
+      "Time": "2022-07-31T14:01:37.5467342+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 175
     },
     {
-      "ID": "nomad",
-      "SetID": "2lgngib",
-      "Name": "Nomad",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 3756
+      "Time": "2022-07-31T22:32:46.3755013+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 177
     },
     {
-      "ID": "novice",
-      "SetID": "2lgngib",
-      "Name": "Picking Up Speed",
-      "Percentage": 18,
-      "XP": 10,
-      "UsersEstimate": 3559
+      "Time": "2022-08-01T23:01:36.1554888+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 181
     },
     {
-      "ID": "playerFelipe",
-      "SetID": "2lgngib",
-      "Name": "Unlock Felipe",
-      "Percentage": 0.6,
-      "XP": 25,
-      "UsersEstimate": 119
+      "Time": "2022-08-02T12:01:34.017439+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 182
     },
     {
-      "ID": "playerIzel",
-      "SetID": "2lgngib",
-      "Name": "Unlock Izel",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 198
+      "Time": "2022-08-03T12:02:17.5012163+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 183
     },
     {
-      "ID": "playerMaya",
-      "SetID": "2lgngib",
-      "Name": "Unlock Maya",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1384
+      "Time": "2022-08-04T05:01:32.7697316+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 185
     },
     {
-      "ID": "playerPaz",
-      "SetID": "2lgngib",
-      "Name": "Unlock Paz",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 593
+      "Time": "2022-08-05T04:31:43.7497953+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 189
     },
     {
-      "ID": "playerTime3days",
-      "SetID": "2lgngib",
-      "Name": "Survivalist",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 20
+      "Time": "2022-08-05T17:01:40.707228+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 190
     },
     {
-      "ID": "playerTupa",
-      "SetID": "2lgngib",
-      "Name": "Unlock Tupa",
-      "Percentage": 0.4,
-      "XP": 50,
-      "UsersEstimate": 79
+      "Time": "2022-08-06T01:31:33.8762388+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 192
     },
     {
-      "ID": "playerWingsuit",
-      "SetID": "2lgngib",
-      "Name": "Human Flight",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 395
+      "Time": "2022-08-06T14:31:35.5316373+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 193
     },
     {
-      "ID": "pro",
-      "SetID": "2lgngib",
-      "Name": "One With The Board",
-      "Percentage": 6,
-      "XP": 25,
-      "UsersEstimate": 1186
+      "Time": "2022-08-07T14:31:53.597117+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 195
     },
     {
-      "ID": "proximityFly1000",
-      "SetID": "2lgngib",
-      "Name": "Daredevil",
-      "Percentage": 0.8,
-      "XP": 25,
-      "UsersEstimate": 158
+      "Time": "2022-08-08T18:31:35.5902662+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 196
     },
     {
-      "ID": "rookie",
-      "SetID": "2lgngib",
-      "Name": "Finding Your Footing",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 5338
+      "Time": "2022-08-09T18:32:23.5870843+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 197
     },
     {
-      "ID": "sandboarder",
-      "SetID": "2lgngib",
-      "Name": "Sandboarder",
-      "Percentage": 4,
-      "XP": 25,
-      "UsersEstimate": 791
+      "Time": "2022-08-10T08:31:37.9919654+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 200
     },
     {
-      "ID": "sightseer",
-      "SetID": "2lgngib",
-      "Name": "Sightseer",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 2373
+      "Time": "2022-08-11T00:31:40.3070259+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 201
     },
     {
-      "ID": "ultimate",
-      "SetID": "2lgngib",
-      "Name": "The Ultimate Challenge",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 20
+      "Time": "2022-08-12T00:31:32.8811809+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 205
     },
     {
-      "ID": "unlockfelipe",
-      "SetID": "2lgngib",
-      "Name": "Here Comes Felipe",
-      "Percentage": 3,
-      "XP": 25,
-      "UsersEstimate": 593
+      "Time": "2022-08-12T10:32:32.6382352+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 207
     },
     {
-      "ID": "unlockfinal",
-      "SetID": "2lgngib",
-      "Name": "Introducing Sumara",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 198
+      "Time": "2022-08-13T00:02:37.8988938+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 210
     },
     {
-      "ID": "unlockizel",
-      "SetID": "2lgngib",
-      "Name": "Izel Has Arrived",
-      "Percentage": 4,
-      "XP": 25,
-      "UsersEstimate": 791
+      "Time": "2022-08-14T00:31:39.7175066+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 214
     },
     {
-      "ID": "unlockmaya",
-      "SetID": "2lgngib",
-      "Name": "Welcome Maya",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 3361
+      "Time": "2022-08-14T18:01:38.6203771+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 215
     },
     {
-      "ID": "unlockpaz",
-      "SetID": "2lgngib",
-      "Name": "Enter Paz",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 1779
+      "Time": "2022-08-15T14:32:23.4353984+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 220
     },
     {
-      "ID": "vandal",
-      "SetID": "2lgngib",
-      "Name": "Vandal",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 198
+      "Time": "2022-08-16T15:32:11.0732558+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 221
     },
     {
-      "ID": "voyager",
-      "SetID": "2lgngib",
-      "Name": "Voyager",
-      "Percentage": 6,
-      "XP": 25,
-      "UsersEstimate": 1186
+      "Time": "2022-08-17T01:01:53.9447346+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 222
     },
     {
-      "ID": "wanderer",
-      "SetID": "2lgngib",
-      "Name": "Wanderer",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 1779
+      "Time": "2022-08-18T01:01:54.7225036+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 224
     },
     {
-      "ID": "windswept",
-      "SetID": "2lgngib",
-      "Name": "Windswept",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 20
+      "Time": "2022-08-19T16:31:34.883817+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 225
+    },
+    {
+      "Time": "2022-08-20T00:31:34.5032795+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 227
+    },
+    {
+      "Time": "2022-08-20T23:01:39.7317636+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 229
+    },
+    {
+      "Time": "2022-08-21T22:31:37.7606153+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 230
+    },
+    {
+      "Time": "2022-08-22T16:02:50.0006511+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 233
+    },
+    {
+      "Time": "2022-08-23T16:02:44.2639972+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 236
+    },
+    {
+      "Time": "2022-08-23T19:02:08.9987435+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 237
+    },
+    {
+      "Time": "2022-08-24T11:31:39.8563957+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 239
+    },
+    {
+      "Time": "2022-08-25T01:31:39.2330769+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 240
+    },
+    {
+      "Time": "2022-08-25T12:02:14.7907697+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 241
+    },
+    {
+      "Time": "2022-08-25T18:32:37.2538496+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 242
+    },
+    {
+      "Time": "2022-08-26T19:32:20.2066381+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 245
+    },
+    {
+      "Time": "2022-08-27T14:02:42.1729969+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 247
+    },
+    {
+      "Time": "2022-08-28T23:01:39.1340095+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 251
+    },
+    {
+      "Time": "2022-08-29T04:01:37.4664348+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 252
+    },
+    {
+      "Time": "2022-08-29T13:31:56.0811832+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 253
+    },
+    {
+      "Time": "2022-08-30T14:03:01.3446486+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 255
+    },
+    {
+      "Time": "2022-08-31T09:02:11.5850402+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 257
+    },
+    {
+      "Time": "2022-08-31T21:02:09.7221727+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 258
+    },
+    {
+      "Time": "2022-09-01T21:02:25.0318742+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 259
+    },
+    {
+      "Time": "2022-09-02T04:31:58.1570729+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 261
+    },
+    {
+      "Time": "2022-09-03T13:31:46.5396242+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 264
+    },
+    {
+      "Time": "2022-09-04T13:31:47.0949277+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 270
+    },
+    {
+      "Time": "2022-09-04T22:31:45.7847793+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 272
+    },
+    {
+      "Time": "2022-09-05T06:31:38.0617598+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 274
+    },
+    {
+      "Time": "2022-09-05T23:31:37.8696998+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 278
+    },
+    {
+      "Time": "2022-09-06T23:31:37.9323346+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 280
+    },
+    {
+      "Time": "2022-09-07T03:31:37.519406+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 281
+    },
+    {
+      "Time": "2022-09-07T16:01:54.5155741+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 282
+    },
+    {
+      "Time": "2022-09-07T18:31:59.2430076+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 283
+    },
+    {
+      "Time": "2022-09-08T16:31:37.298193+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 284
+    },
+    {
+      "Time": "2022-09-10T01:01:41.5139777+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 287
+    },
+    {
+      "Time": "2022-09-11T04:32:28.5680797+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 290
+    },
+    {
+      "Time": "2022-09-12T04:32:05.7417505+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 293
+    },
+    {
+      "Time": "2022-09-13T08:31:51.937105+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 296
+    },
+    {
+      "Time": "2022-09-13T13:33:05.9046592+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 297
+    },
+    {
+      "Time": "2022-09-13T18:31:38.5592461+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 298
+    },
+    {
+      "Time": "2022-09-14T18:31:43.873251+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 302
+    },
+    {
+      "Time": "2022-09-15T09:31:43.8435588+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 304
+    },
+    {
+      "Time": "2022-09-15T17:02:25.8755424+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 306
+    },
+    {
+      "Time": "2022-09-16T21:01:40.1377754+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 307
+    },
+    {
+      "Time": "2022-09-17T03:02:21.6911539+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 309
+    },
+    {
+      "Time": "2022-09-17T18:02:35.4480454+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 311
+    },
+    {
+      "Time": "2022-09-18T18:01:48.5445086+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 312
+    },
+    {
+      "Time": "2022-09-19T18:02:39.6610625+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 315
+    },
+    {
+      "Time": "2022-09-20T01:01:50.9614533+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 316
+    },
+    {
+      "Time": "2022-09-20T20:32:52.4783115+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": 319
+    },
+    {
+      "Time": "2022-09-20T22:01:48.1879364+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 320
+    },
+    {
+      "Time": "2022-09-21T07:31:48.7453892+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 321
+    },
+    {
+      "Time": "2022-09-21T14:32:24.9143883+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 322
+    },
+    {
+      "Time": "2022-09-22T11:31:50.5730953+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 328
+    },
+    {
+      "Time": "2022-09-22T13:31:44.42451+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 329
+    },
+    {
+      "Time": "2022-09-22T19:32:27.2651033+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 330
+    },
+    {
+      "Time": "2022-09-23T06:31:41.5906453+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 332
+    },
+    {
+      "Time": "2022-09-29T15:31:50.2368827+00:00",
+      "Rating": 4.68
+    },
+    {
+      "Time": "2022-10-02T07:02:01.630269+00:00",
+      "Rating": 4.69
+    },
+    {
+      "Time": "2022-10-04T12:31:44.163236+00:00",
+      "Rating": 4.68
+    },
+    {
+      "Time": "2022-10-07T14:32:18.9964286+00:00",
+      "Rating": 4.69
+    },
+    {
+      "Time": "2022-10-16T19:31:52.3357521+00:00",
+      "Rating": 4.7
+    },
+    {
+      "Time": "2022-11-23T10:58:32.4971612+00:00",
+      "Rating": 4.69
+    },
+    {
+      "Time": "2022-12-06T13:15:13.1680871+00:00",
+      "Rating": 4.7
+    },
+    {
+      "Time": "2022-12-07T21:57:58.5715223+00:00",
+      "Rating": 4.69
+    },
+    {
+      "Time": "2022-12-08T15:58:28.9324171+00:00",
+      "Rating": 4.7
+    },
+    {
+      "Time": "2023-03-31T13:09:59.4890903+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-02T13:58:34.4199594+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-03T23:58:15.0501044+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-05T23:57:58.1013674+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-06T23:58:33.7033882+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-10T23:57:43.654652+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-20T19:57:57.8917055+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-25T13:58:36.5559855+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-26T18:59:47.0721477+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 342,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-29T16:58:57.0130364+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-05-02T20:58:46.8976304+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 44
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 344,
+  "NumberOfAwardsMax": 44,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -377,6 +641,11 @@
       "Count": 26
     }
   ],
+  "EOS_Progressed": 19780,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 1208,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:49.500159+00:00",
@@ -1562,605 +1831,342 @@
       "Time": "2023-05-05T16:07:54.3819031+00:00",
       "NumProgressed": 19771,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T17:09:36.5278215+00:00",
+      "NumProgressed": 19780,
+      "NumCompleted": 3
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:27:20.90716+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 143
-    },
-    {
-      "Time": "2022-07-22T21:05:34.181086+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 144
-    },
-    {
-      "Time": "2022-07-23T22:01:47.5739039+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 146
-    },
-    {
-      "Time": "2022-07-24T04:01:41.316701+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 148
-    },
-    {
-      "Time": "2022-07-25T04:01:56.3331879+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 149
-    },
-    {
-      "Time": "2022-07-26T04:02:10.7814018+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 154
-    },
-    {
-      "Time": "2022-07-27T00:01:41.4429918+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 160
-    },
-    {
-      "Time": "2022-07-27T10:01:54.5471727+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 162
-    },
-    {
-      "Time": "2022-07-28T10:01:49.0927242+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 165
-    },
-    {
-      "Time": "2022-07-28T16:58:53.5444078+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 167
-    },
-    {
-      "Time": "2022-07-29T05:01:28.7534591+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 169
-    },
-    {
-      "Time": "2022-07-30T05:31:45.213924+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 171
-    },
-    {
-      "Time": "2022-07-30T11:32:21.3909343+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 172
-    },
-    {
-      "Time": "2022-07-30T20:31:51.5643905+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 173
-    },
-    {
-      "Time": "2022-07-31T14:01:37.5467342+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 175
-    },
-    {
-      "Time": "2022-07-31T22:32:46.3755013+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 177
-    },
-    {
-      "Time": "2022-08-01T23:01:36.1554888+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 181
-    },
-    {
-      "Time": "2022-08-02T12:01:34.017439+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 182
-    },
-    {
-      "Time": "2022-08-03T12:02:17.5012163+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 183
-    },
-    {
-      "Time": "2022-08-04T05:01:32.7697316+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 185
-    },
-    {
-      "Time": "2022-08-05T04:31:43.7497953+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 189
-    },
-    {
-      "Time": "2022-08-05T17:01:40.707228+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 190
-    },
-    {
-      "Time": "2022-08-06T01:31:33.8762388+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 192
-    },
-    {
-      "Time": "2022-08-06T14:31:35.5316373+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 193
-    },
-    {
-      "Time": "2022-08-07T14:31:53.597117+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 195
-    },
-    {
-      "Time": "2022-08-08T18:31:35.5902662+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 196
-    },
-    {
-      "Time": "2022-08-09T18:32:23.5870843+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 197
-    },
-    {
-      "Time": "2022-08-10T08:31:37.9919654+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 200
-    },
-    {
-      "Time": "2022-08-11T00:31:40.3070259+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 201
-    },
-    {
-      "Time": "2022-08-12T00:31:32.8811809+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 205
-    },
-    {
-      "Time": "2022-08-12T10:32:32.6382352+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 207
-    },
-    {
-      "Time": "2022-08-13T00:02:37.8988938+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 210
-    },
-    {
-      "Time": "2022-08-14T00:31:39.7175066+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 214
-    },
-    {
-      "Time": "2022-08-14T18:01:38.6203771+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 215
-    },
-    {
-      "Time": "2022-08-15T14:32:23.4353984+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 220
-    },
-    {
-      "Time": "2022-08-16T15:32:11.0732558+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 221
-    },
-    {
-      "Time": "2022-08-17T01:01:53.9447346+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 222
-    },
-    {
-      "Time": "2022-08-18T01:01:54.7225036+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 224
-    },
-    {
-      "Time": "2022-08-19T16:31:34.883817+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 225
-    },
-    {
-      "Time": "2022-08-20T00:31:34.5032795+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 227
-    },
-    {
-      "Time": "2022-08-20T23:01:39.7317636+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 229
-    },
-    {
-      "Time": "2022-08-21T22:31:37.7606153+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 230
-    },
-    {
-      "Time": "2022-08-22T16:02:50.0006511+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 233
-    },
-    {
-      "Time": "2022-08-23T16:02:44.2639972+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 236
-    },
-    {
-      "Time": "2022-08-23T19:02:08.9987435+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 237
-    },
-    {
-      "Time": "2022-08-24T11:31:39.8563957+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 239
-    },
-    {
-      "Time": "2022-08-25T01:31:39.2330769+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 240
-    },
-    {
-      "Time": "2022-08-25T12:02:14.7907697+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 241
-    },
-    {
-      "Time": "2022-08-25T18:32:37.2538496+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 242
-    },
-    {
-      "Time": "2022-08-26T19:32:20.2066381+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 245
-    },
-    {
-      "Time": "2022-08-27T14:02:42.1729969+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 247
-    },
-    {
-      "Time": "2022-08-28T23:01:39.1340095+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 251
-    },
-    {
-      "Time": "2022-08-29T04:01:37.4664348+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 252
-    },
-    {
-      "Time": "2022-08-29T13:31:56.0811832+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 253
-    },
-    {
-      "Time": "2022-08-30T14:03:01.3446486+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 255
-    },
-    {
-      "Time": "2022-08-31T09:02:11.5850402+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 257
-    },
-    {
-      "Time": "2022-08-31T21:02:09.7221727+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 258
-    },
-    {
-      "Time": "2022-09-01T21:02:25.0318742+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 259
-    },
-    {
-      "Time": "2022-09-02T04:31:58.1570729+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 261
-    },
-    {
-      "Time": "2022-09-03T13:31:46.5396242+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 264
-    },
-    {
-      "Time": "2022-09-04T13:31:47.0949277+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 270
-    },
-    {
-      "Time": "2022-09-04T22:31:45.7847793+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 272
-    },
-    {
-      "Time": "2022-09-05T06:31:38.0617598+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 274
-    },
-    {
-      "Time": "2022-09-05T23:31:37.8696998+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 278
-    },
-    {
-      "Time": "2022-09-06T23:31:37.9323346+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 280
-    },
-    {
-      "Time": "2022-09-07T03:31:37.519406+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 281
-    },
-    {
-      "Time": "2022-09-07T16:01:54.5155741+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 282
-    },
-    {
-      "Time": "2022-09-07T18:31:59.2430076+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 283
-    },
-    {
-      "Time": "2022-09-08T16:31:37.298193+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 284
-    },
-    {
-      "Time": "2022-09-10T01:01:41.5139777+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 287
-    },
-    {
-      "Time": "2022-09-11T04:32:28.5680797+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 290
-    },
-    {
-      "Time": "2022-09-12T04:32:05.7417505+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 293
-    },
-    {
-      "Time": "2022-09-13T08:31:51.937105+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 296
-    },
-    {
-      "Time": "2022-09-13T13:33:05.9046592+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 297
-    },
-    {
-      "Time": "2022-09-13T18:31:38.5592461+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 298
-    },
-    {
-      "Time": "2022-09-14T18:31:43.873251+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 302
-    },
-    {
-      "Time": "2022-09-15T09:31:43.8435588+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 304
-    },
-    {
-      "Time": "2022-09-15T17:02:25.8755424+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": 306
-    },
-    {
-      "Time": "2022-09-16T21:01:40.1377754+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": 307
-    },
-    {
-      "Time": "2022-09-17T03:02:21.6911539+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": 309
-    },
-    {
-      "Time": "2022-09-17T18:02:35.4480454+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": 311
-    },
-    {
-      "Time": "2022-09-18T18:01:48.5445086+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 312
-    },
-    {
-      "Time": "2022-09-19T18:02:39.6610625+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 315
-    },
-    {
-      "Time": "2022-09-20T01:01:50.9614533+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 316
-    },
-    {
-      "Time": "2022-09-20T20:32:52.4783115+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": 319
-    },
-    {
-      "Time": "2022-09-20T22:01:48.1879364+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 320
-    },
-    {
-      "Time": "2022-09-21T07:31:48.7453892+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 321
-    },
-    {
-      "Time": "2022-09-21T14:32:24.9143883+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 322
-    },
-    {
-      "Time": "2022-09-22T11:31:50.5730953+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 328
-    },
-    {
-      "Time": "2022-09-22T13:31:44.42451+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 329
-    },
-    {
-      "Time": "2022-09-22T19:32:27.2651033+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 330
-    },
-    {
-      "Time": "2022-09-23T06:31:41.5906453+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 332
-    },
-    {
-      "Time": "2022-09-29T15:31:50.2368827+00:00",
-      "Rating": 4.68
-    },
-    {
-      "Time": "2022-10-02T07:02:01.630269+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-10-04T12:31:44.163236+00:00",
-      "Rating": 4.68
-    },
-    {
-      "Time": "2022-10-07T14:32:18.9964286+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-10-16T19:31:52.3357521+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2022-11-23T10:58:32.4971612+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-12-06T13:15:13.1680871+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2022-12-07T21:57:58.5715223+00:00",
-      "Rating": 4.69
-    },
-    {
-      "Time": "2022-12-08T15:58:28.9324171+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2023-03-31T13:09:59.4890903+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 338,
-      "NumberOfAwardsMax": 43
-    },
-    {
-      "Time": "2023-04-02T13:58:34.4199594+00:00",
-      "Rating": 4.69,
-      "NumberOfAwards": 338,
-      "NumberOfAwardsMax": 43
-    },
-    {
-      "Time": "2023-04-03T23:58:15.0501044+00:00",
-      "Rating": 4.69,
-      "NumberOfAwards": 339,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-05T23:57:58.1013674+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 339,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-06T23:58:33.7033882+00:00",
-      "Rating": 4.69,
-      "NumberOfAwards": 339,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-10T23:57:43.654652+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 339,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-20T19:57:57.8917055+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 340,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-25T13:58:36.5559855+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 341,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-26T18:59:47.0721477+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 342,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-04-29T16:58:57.0130364+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 343,
-      "NumberOfAwardsMax": 44
-    },
-    {
-      "Time": "2023-05-02T20:58:46.8976304+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 344,
-      "NumberOfAwardsMax": 44
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 39,
-  "LastChanged_Achievements": "2023-05-05T16:07:54.3819026+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1209,
-  "EOS_Completed": 3,
-  "EOS_Progressed": 19771,
-  "LastUpdate_Achievements": "2023-05-05T16:07:54.3819428+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:20.9221113+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:28.7067563+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "chain10000",
+      "SetID": "2lgngib",
+      "Name": "Junkie",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 593
+    },
+    {
+      "ID": "distance1000000",
+      "SetID": "2lgngib",
+      "Name": "Adventurer",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 99
+    },
+    {
+      "ID": "distance250000",
+      "SetID": "2lgngib",
+      "Name": "Traveler",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 593
+    },
+    {
+      "ID": "distance50000",
+      "SetID": "2lgngib",
+      "Name": "Scout",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 1978
+    },
+    {
+      "ID": "distance500000",
+      "SetID": "2lgngib",
+      "Name": "Explorer",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "goals10",
+      "SetID": "2lgngib",
+      "Name": "Rookie",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 4747
+    },
+    {
+      "ID": "goals180",
+      "SetID": "2lgngib",
+      "Name": "Master",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "goals25",
+      "SetID": "2lgngib",
+      "Name": "Amateur",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 1582
+    },
+    {
+      "ID": "goals75",
+      "SetID": "2lgngib",
+      "Name": "Pro",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 396
+    },
+    {
+      "ID": "hoistthemainsail",
+      "SetID": "2lgngib",
+      "Name": "Hoist the Mainsail",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "humanflight",
+      "SetID": "2lgngib",
+      "Name": "Aviator",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 1187
+    },
+    {
+      "ID": "journeyer",
+      "SetID": "2lgngib",
+      "Name": "Journeyer",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 593
+    },
+    {
+      "ID": "lifeaquatic",
+      "SetID": "2lgngib",
+      "Name": "Life Aquatic",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "master",
+      "SetID": "2lgngib",
+      "Name": "Master Of The Sands",
+      "Percentage": 0.3,
+      "XP": 50,
+      "UsersEstimate": 59
+    },
+    {
+      "ID": "mylittlefriend",
+      "SetID": "2lgngib",
+      "Name": "My Little Friend",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 989
+    },
+    {
+      "ID": "nomad",
+      "SetID": "2lgngib",
+      "Name": "Nomad",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 3758
+    },
+    {
+      "ID": "novice",
+      "SetID": "2lgngib",
+      "Name": "Picking Up Speed",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 3560
+    },
+    {
+      "ID": "playerFelipe",
+      "SetID": "2lgngib",
+      "Name": "Unlock Felipe",
+      "Percentage": 0.6,
+      "XP": 25,
+      "UsersEstimate": 119
+    },
+    {
+      "ID": "playerIzel",
+      "SetID": "2lgngib",
+      "Name": "Unlock Izel",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "playerMaya",
+      "SetID": "2lgngib",
+      "Name": "Unlock Maya",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1385
+    },
+    {
+      "ID": "playerPaz",
+      "SetID": "2lgngib",
+      "Name": "Unlock Paz",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 593
+    },
+    {
+      "ID": "playerTime3days",
+      "SetID": "2lgngib",
+      "Name": "Survivalist",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "playerTupa",
+      "SetID": "2lgngib",
+      "Name": "Unlock Tupa",
+      "Percentage": 0.4,
+      "XP": 50,
+      "UsersEstimate": 79
+    },
+    {
+      "ID": "playerWingsuit",
+      "SetID": "2lgngib",
+      "Name": "Human Flight",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 396
+    },
+    {
+      "ID": "pro",
+      "SetID": "2lgngib",
+      "Name": "One With The Board",
+      "Percentage": 6,
+      "XP": 25,
+      "UsersEstimate": 1187
+    },
+    {
+      "ID": "proximityFly1000",
+      "SetID": "2lgngib",
+      "Name": "Daredevil",
+      "Percentage": 0.8,
+      "XP": 25,
+      "UsersEstimate": 158
+    },
+    {
+      "ID": "rookie",
+      "SetID": "2lgngib",
+      "Name": "Finding Your Footing",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 5341
+    },
+    {
+      "ID": "sandboarder",
+      "SetID": "2lgngib",
+      "Name": "Sandboarder",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 791
+    },
+    {
+      "ID": "sightseer",
+      "SetID": "2lgngib",
+      "Name": "Sightseer",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 2374
+    },
+    {
+      "ID": "ultimate",
+      "SetID": "2lgngib",
+      "Name": "The Ultimate Challenge",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "unlockfelipe",
+      "SetID": "2lgngib",
+      "Name": "Here Comes Felipe",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 593
+    },
+    {
+      "ID": "unlockfinal",
+      "SetID": "2lgngib",
+      "Name": "Introducing Sumara",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "unlockizel",
+      "SetID": "2lgngib",
+      "Name": "Izel Has Arrived",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 791
+    },
+    {
+      "ID": "unlockmaya",
+      "SetID": "2lgngib",
+      "Name": "Welcome Maya",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 3363
+    },
+    {
+      "ID": "unlockpaz",
+      "SetID": "2lgngib",
+      "Name": "Enter Paz",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 1780
+    },
+    {
+      "ID": "vandal",
+      "SetID": "2lgngib",
+      "Name": "Vandal",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "voyager",
+      "SetID": "2lgngib",
+      "Name": "Voyager",
+      "Percentage": 6,
+      "XP": 25,
+      "UsersEstimate": 1187
+    },
+    {
+      "ID": "wanderer",
+      "SetID": "2lgngib",
+      "Name": "Wanderer",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 1780
+    },
+    {
+      "ID": "windswept",
+      "SetID": "2lgngib",
+      "Name": "Windswept",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 20
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 19771,
+      "Progressed": 19780,
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 0.02,
-  "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "ProductSlug": "the-alto-collection",
-  "Rating": 4.7,
-  "Ranking_Rating": 192,
-  "Ranking_Popularity": 405,
-  "Ranking_PopularitySum": 312,
-  "Ranking_EOS_Progress": 90,
-  "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 332,
-  "NumberOfAwards": 344,
-  "NumberOfAwardsMax": 44,
-  "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
-  "Ranking_EOS_NewPlayers": 45
+  "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
+  "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:36.5278211+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:24.8068644+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:23.4170739+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:36.5278778+00:00"
 }

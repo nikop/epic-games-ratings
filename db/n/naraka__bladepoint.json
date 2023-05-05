@@ -1,52 +1,16 @@
 {
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 181797
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 75250
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 69340
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 60101
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "",
-      "Type": "",
-      "Count": 31643
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "",
-      "Type": "",
-      "Count": 46871
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 53720
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "naraka-bladepoint",
+  "Ranking_Rating": 814,
+  "Ranking_Popularity": 4,
+  "Ranking_PopularitySum": 7,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.19,
+  "NumberOfRatings": 132339,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:04.1152304+00:00",
@@ -3930,30 +3894,67 @@
       "NumberOfAwardsMax": 181797
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:20.6038202+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:03.3677515+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:58.6030964+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T10:59:39.9113165+00:00",
-  "ProductSlug": "naraka-bladepoint",
-  "Rating": 4.19,
-  "Ranking_Rating": 814,
-  "Ranking_Popularity": 4,
-  "Ranking_PopularitySum": 7,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 132339,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 380107,
   "NumberOfAwardsMax": 181797,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 181797
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 75250
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 69340
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 60101
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "",
+      "Type": "",
+      "Count": 31643
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "",
+      "Type": "",
+      "Count": 46871
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 53720
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-05T10:59:39.9113165+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:55.9757404+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:51.55077+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:31.2150064+00:00"
 }

@@ -1,16 +1,15 @@
 {
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 40
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "dead-space",
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 409,
+  "Ranking_PopularitySum": 442,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
@@ -207,30 +206,32 @@
       "NumberOfAwardsMax": 40
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:06.9092085+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:56.8825865+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:34.6948704+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T02:59:40.8325137+00:00",
-  "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
-  "ProductSlug": "dead-space",
-  "Rating": 4.76,
-  "Ranking_Rating": 114,
-  "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 442,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 40,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 40
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
+  "LastChanged": "2023-05-04T02:59:40.8325137+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:34.7264548+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:26.8364691+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:01.7149582+00:00"
 }

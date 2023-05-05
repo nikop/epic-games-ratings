@@ -1,52 +1,16 @@
 {
   "ID": "138c9362d8ff4c239076bc556e18cdac",
   "Name": "Ancient Enemy",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 44
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 45
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "",
-      "Type": "",
-      "Count": 38
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 35
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 38
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 31
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "",
-      "Type": "",
-      "Count": 42
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "ancient-enemy",
+  "Ranking_Rating": 889,
+  "Ranking_Popularity": 401,
+  "Ranking_PopularitySum": 350,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 3.95,
+  "NumberOfRatings": 2089,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.0310517+00:00",
@@ -744,30 +708,67 @@
       "NumberOfRatings": 2089
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:39.7527681+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:05.6205748+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:19.393599+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2022-09-22T21:00:39.6212241+00:00",
-  "ProductSlug": "ancient-enemy",
-  "Rating": 3.95,
-  "Ranking_Rating": 889,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 2089,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 193,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Relaxing",
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 44
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "",
+      "Type": "",
+      "Count": 38
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 35
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 38
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 31
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "",
+      "Type": "",
+      "Count": 42
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2022-09-22T21:00:39.6212241+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:14.1282972+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:13.9366196+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:44.0218257+00:00"
 }

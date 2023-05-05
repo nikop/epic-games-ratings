@@ -1,6 +1,42 @@
 {
   "ID": "acc5980b138144229ceaacdebb4cb054",
   "Name": "Smelter",
+  "ProductSlug": "smelter-97a47b",
+  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Completed": 11,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:06.0584884+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 30,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 10,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:46.9022204+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-30T04:03:40.8083502+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 3
+    }
+  ],
+  "TotalAchievements": 51,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "SMELTER_ALL_COLLECTIBLES",
@@ -411,37 +447,6 @@
       "UsersEstimate": 5
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:46.9022204+00:00",
-      "NumProgressed": 29,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-30T04:03:40.8083502+00:00",
-      "NumProgressed": 30,
-      "NumCompleted": 3
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:06.0584884+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-05T16:07:50.1670287+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 3,
-  "EOS_Progressed": 30,
-  "LastUpdate_Achievements": "2023-05-05T16:07:50.1670774+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:55.6511642+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:13.3456102+00:00",
   "AchievementSets": [
     {
       "ID": "1g58k92",
@@ -450,16 +455,12 @@
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 10,
-  "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
-  "ProductSlug": "smelter-97a47b",
-  "Ranking_EOS_Progress": 285,
-  "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
-  "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:06.5888334+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
+  "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:33.2732114+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:06.8626632+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:05.9369981+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:33.2732513+00:00"
 }

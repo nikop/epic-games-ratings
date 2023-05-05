@@ -1,105 +1,28 @@
 {
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
-  "Achievements": [
+  "ProductSlug": "the-great-war-western-front",
+  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
     {
-      "ID": "COMPLETE_300_STRATEGIC_EVENTS",
-      "SetID": "6kcl14p",
-      "Name": "Eventful",
-      "Percentage": 0,
-      "XP": 75,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "COMPLETE_ALL_HISTORIC BATTLES",
-      "SetID": "6kcl14p",
-      "Name": "A Student of History",
-      "Percentage": 0,
-      "XP": 80,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "COMPLETE_ALL_HISTORIC BATTLES_HIGHEST_MEDAL",
-      "SetID": "6kcl14p",
-      "Name": "Generalissimo",
-      "Percentage": 0,
-      "XP": 120,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "COMPLETE_ANY_HISTORIC BATTLE",
-      "SetID": "6kcl14p",
-      "Name": "From the Pages of History",
-      "Percentage": 5,
-      "XP": 85,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "COMPLETE_MULTIPLAYER_MATCH",
-      "SetID": "6kcl14p",
-      "Name": "War with Friends",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
-      "SetID": "6kcl14p",
-      "Name": "Bombs Away!",
-      "Percentage": 0,
-      "XP": 60,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "KILL_1000_WITH_GAS",
-      "SetID": "6kcl14p",
-      "Name": "The Chemists\u0027 War",
-      "Percentage": 5,
-      "XP": 110,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "REACH_DECEMBER_1919",
-      "SetID": "6kcl14p",
-      "Name": "That\u0027s Not What Happened",
-      "Percentage": 0,
-      "XP": 70,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "USE_UNDERMINE",
-      "SetID": "6kcl14p",
-      "Name": "Earth Shattering",
-      "Percentage": 59,
-      "XP": 90,
-      "UsersEstimate": 47
-    },
-    {
-      "ID": "WIN_CAMPAIGN_AS_ALLIES",
-      "SetID": "6kcl14p",
-      "Name": "La Der des Ders",
-      "Percentage": 13,
-      "XP": 100,
-      "UsersEstimate": 10
-    },
-    {
-      "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
-      "SetID": "6kcl14p",
-      "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 14,
-      "XP": 100,
-      "UsersEstimate": 11
-    },
-    {
-      "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
-      "SetID": "6kcl14p",
-      "Name": "Nothing Can Stop Us!",
-      "Percentage": 0,
-      "XP": 60,
-      "UsersEstimate": 0
+      "Time": "2023-03-31T05:57:31.1456661+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 80,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 78,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-28T17:19:18.7620293+00:00",
@@ -370,44 +293,127 @@
       "Time": "2023-05-05T16:07:42.3449279+00:00",
       "NumProgressed": 79,
       "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
+    },
     {
-      "Time": "2023-03-31T05:57:31.1456661+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "Time": "2023-05-05T17:09:27.3613617+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-05T16:07:42.3449273+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 77,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 79,
-  "LastUpdate_Achievements": "2023-05-05T16:07:42.3449392+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:24.4951564+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:50.5477275+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "COMPLETE_300_STRATEGIC_EVENTS",
+      "SetID": "6kcl14p",
+      "Name": "Eventful",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALL_HISTORIC BATTLES",
+      "SetID": "6kcl14p",
+      "Name": "A Student of History",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALL_HISTORIC BATTLES_HIGHEST_MEDAL",
+      "SetID": "6kcl14p",
+      "Name": "Generalissimo",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ANY_HISTORIC BATTLE",
+      "SetID": "6kcl14p",
+      "Name": "From the Pages of History",
+      "Percentage": 5,
+      "XP": 85,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "COMPLETE_MULTIPLAYER_MATCH",
+      "SetID": "6kcl14p",
+      "Name": "War with Friends",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
+      "SetID": "6kcl14p",
+      "Name": "Bombs Away!",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_1000_WITH_GAS",
+      "SetID": "6kcl14p",
+      "Name": "The Chemists\u0027 War",
+      "Percentage": 5,
+      "XP": 110,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "REACH_DECEMBER_1919",
+      "SetID": "6kcl14p",
+      "Name": "That\u0027s Not What Happened",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "USE_UNDERMINE",
+      "SetID": "6kcl14p",
+      "Name": "Earth Shattering",
+      "Percentage": 59,
+      "XP": 90,
+      "UsersEstimate": 47
+    },
+    {
+      "ID": "WIN_CAMPAIGN_AS_ALLIES",
+      "SetID": "6kcl14p",
+      "Name": "La Der des Ders",
+      "Percentage": 13,
+      "XP": 100,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
+      "SetID": "6kcl14p",
+      "Name": "Das Ist Endg\u00FCltig!",
+      "Percentage": 14,
+      "XP": 100,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
+      "SetID": "6kcl14p",
+      "Name": "Nothing Can Stop Us!",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
-  "ProductSlug": "the-great-war-western-front",
-  "Ranking_EOS_Progress": 251,
-  "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-30T22:57:31.8125553+00:00",
-  "Ranking_EOS_NewPlayers": 121
+  "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
+  "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:27.3613612+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:44.2155635+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:45.8440661+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:27.3613741+00:00"
 }

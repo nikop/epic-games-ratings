@@ -5,34 +5,34 @@ Rating: 4.85 (Ranked 37)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 89.00% | ~1,302 |
-| Feeling the beat! | 89.00% | ~1,302 |
+| Start with a bang! | 89.00% | ~1,303 |
+| Feeling the beat! | 89.00% | ~1,303 |
 | You can pet the cat! | 85.00% | ~1,244 |
-| Who put gears in there? | 81.00% | ~1,185 |
+| Who put gears in there? | 81.00% | ~1,186 |
 | Cream of the Crop | 77.00% | ~1,127 |
-| Thanks for the free chip, Peppermint! | 76.00% | ~1,112 |
-| You got this, Peppermint? | 72.00% | ~1,053 |
-| Perfect Parry | 69.00% | ~1,009 |
-| Alright, that felt AWESOME! | 69.00% | ~1,009 |
-| I play my own way! | 64.00% | ~936 |
-| This will cost you big time | 62.00% | ~907 |
-| Uh, they were broken when I got here | 62.00% | ~907 |
+| Thanks for the free chip, Peppermint! | 76.00% | ~1,113 |
+| You got this, Peppermint? | 72.00% | ~1,054 |
+| Perfect Parry | 69.00% | ~1,010 |
+| Alright, that felt AWESOME! | 69.00% | ~1,010 |
+| I play my own way! | 64.00% | ~937 |
+| This will cost you big time | 62.00% | ~908 |
+| Uh, they were broken when I got here | 62.00% | ~908 |
 | Z-shielding's got nothing on us! | 60.00% | ~878 |
 | Kissing the sky! | 58.00% | ~849 |
-| Whoa! There's ANOTHER health bar!? | 54.00% | ~790 |
+| Whoa! There's ANOTHER health bar!? | 54.00% | ~791 |
 | The Negotiator | 52.00% | ~761 |
 | Does that say weakpoint? | 52.00% | ~761 |
 | You must like calling me in, Chai | 46.00% | ~673 |
 | Out in a puff of smoke | 46.00% | ~673 |
-| Headliner | 45.00% | ~658 |
-| Time to pay up! | 42.00% | ~614 |
-| Perfecter Parry-er! | 42.00% | ~614 |
-| Who's the boss now? | 40.00% | ~585 |
+| Headliner | 45.00% | ~659 |
+| Time to pay up! | 42.00% | ~615 |
+| Perfecter Parry-er! | 42.00% | ~615 |
+| Who's the boss now? | 39.00% | ~571 |
 | I have to read these things? | 38.00% | ~556 |
-| I look cool. But I can look COOLER. | 37.00% | ~541 |
-| That's a lot of junk metal… | 29.00% | ~424 |
-| There's such a thing as TOO helpful | 29.00% | ~424 |
-| Beat-hit mania | 26.00% | ~380 |
+| I look cool. But I can look COOLER. | 36.00% | ~527 |
+| That's a lot of junk metal… | 29.00% | ~425 |
+| There's such a thing as TOO helpful | 29.00% | ~425 |
+| Beat-hit mania | 26.00% | ~381 |
 | Well that was a rush! | 24.00% | ~351 |
 | I told you I'd be fine, Peppermint! | 24.00% | ~351 |
 | Wanna hear my playlist? | 17.00% | ~249 |
@@ -53,8 +53,8 @@ Rating: 4.85 (Ranked 37)
 | Fully Powered Up! | 3.00% | ~44 |
 | Now this is how you fight like a team! | 3.00% | ~44 |
 | I am a good person who likes to help | 3.00% | ~44 |
+| With our powers combined…and to the rhythm… | 3.00% | ~44 |
 | And the crowd goes wild! | 2.00% | ~29 |
-| With our powers combined…and to the rhythm… | 2.00% | ~29 |
 | My Ultimate Setlist | 1.00% | ~15 |
 | This was... not what I expected. | 1.00% | ~15 |
 | Have we met before? | 1.00% | ~15 |
@@ -67,7 +67,7 @@ Rating: 4.85 (Ranked 37)
 | Didn't skip a beat! | 0.50% | ~7 |
 | What a journey it was... | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,463 (Ranked 150)  
+Progressed: 1,464 (Ranked 150)  
 Completed: 4 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 4 (0.27%) (Ranked 123)
 | 2023-05-02 | 1,455 | 3 |
 | 2023-05-03 | 1,456 | 3 |
 | 2023-05-04 | 1,460 | 3 |
-| 2023-05-05 | 1,463 | 4 |
+| 2023-05-05 | 1,464 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

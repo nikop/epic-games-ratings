@@ -1,6 +1,52 @@
 {
   "ID": "c5730ad3d7004a65a472a7699b88008a",
   "Name": "Foretales",
+  "ProductSlug": "foretales-d6c5bd",
+  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:28.0245432+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 253,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:39.9795206+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T14:05:38.5146534+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T19:05:57.3757452+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T19:05:45.3687505+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "beKindToMonsters",
@@ -331,47 +377,6 @@
       "UsersEstimate": 61
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:39.9795206+00:00",
-      "NumProgressed": 250,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T14:05:38.5146534+00:00",
-      "NumProgressed": 251,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T19:05:57.3757452+00:00",
-      "NumProgressed": 252,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T19:05:45.3687505+00:00",
-      "NumProgressed": 253,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:28.0245432+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 41,
-  "LastChanged_Achievements": "2023-05-05T16:08:20.2833974+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 253,
-  "LastUpdate_Achievements": "2023-05-05T16:08:20.2834299+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:53.5972117+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:32.6786406+00:00",
   "AchievementSets": [
     {
       "ID": "5bkacmp",
@@ -380,16 +385,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
-  "ProductSlug": "foretales-d6c5bd",
-  "Ranking_EOS_Progress": 215,
-  "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-15T22:31:51.1934709+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
+  "LastChanged": "2023-03-31T05:57:28.024543+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:55.427776+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:32.3627848+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:24.7714048+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:55.4278202+00:00"
 }

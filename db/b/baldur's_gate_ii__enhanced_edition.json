@@ -1,16 +1,16 @@
 {
   "ID": "9fce8233852f4940acde233a87bb41ce",
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "baldurs-gate-2-enhanced-edition",
+  "Ranking_Rating": 5,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 482,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.91,
+  "NumberOfRatings": 29,
   "RatingHistory": [
     {
       "Time": "2022-08-05T18:01:05.4325183+00:00",
@@ -111,31 +111,32 @@
       "NumberOfAwardsMax": 20
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:56.4095847+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:28.5073489+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:53.0800661+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-20T13:04:04.7643883+00:00",
-  "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
-  "ProductSlug": "baldurs-gate-2-enhanced-edition",
-  "Rating": 4.91,
-  "Ranking_Rating": 5,
-  "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 482,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 29,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 20,
   "NumberOfAwardsMax": 20,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:50.9338623+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
+  "LastChanged": "2023-04-20T13:04:04.7643883+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:47.2537416+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:48.3844446+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:05:06.7874163+00:00"
 }

@@ -1,9 +1,11 @@
 {
   "ID": "400354f58d89469eac906b4fd435de9b",
   "Name": "Homestead Arcana",
-  "Achievements": [],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "homestead-arcana-60ff39",
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
       "Time": "2023-04-23T02:06:28.0321514+00:00",
@@ -12,16 +14,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:08:06.7870305+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:08:06.787034+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:15.9465179+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:08.1760775+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "5978ldl",
@@ -30,16 +35,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-23T02:06:28.0321511+00:00",
-  "FirstSeenRating": "2023-04-23T02:06:28.0321511+00:00",
-  "ProductSlug": "homestead-arcana-60ff39",
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:10:26.9124479+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-23T02:06:28.0321446+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-23T02:06:28.0321511+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:26.9124479+00:00",
+  "LastChanged": "2023-04-23T02:06:28.0321511+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:45.3084581+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:05.5573568+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:59.9313853+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:45.3084602+00:00"
 }

@@ -1,16 +1,16 @@
 {
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 24
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "elex",
+  "Ranking_Rating": 642,
+  "Ranking_Popularity": 466,
+  "Ranking_PopularitySum": 469,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.42,
+  "NumberOfRatings": 58,
   "RatingHistory": [
     {
       "Time": "2022-07-25T10:01:57.4129818+00:00",
@@ -263,30 +263,31 @@
       "NumberOfAwardsMax": 24
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:04:19.3683493+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:28.0821674+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:14.2344959+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-30T19:57:15.3539672+00:00",
-  "ProductSlug": "elex",
-  "Rating": 4.42,
-  "Ranking_Rating": 642,
-  "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 58,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 24,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 24
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-30T19:57:15.3539672+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:03.9269282+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:07.9998485+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:11.1648838+00:00"
 }

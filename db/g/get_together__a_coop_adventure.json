@@ -1,6 +1,52 @@
 {
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
+  "ProductSlug": "get-together-176532",
+  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-16T21:58:05.2747206+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 24,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 2,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:43.6991454+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T20:03:55.5648957+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T18:05:07.9503962+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T19:05:30.6889711+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "GT_ACH_CAVESYNC",
@@ -83,47 +129,6 @@
       "UsersEstimate": 20
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:43.6991454+00:00",
-      "NumProgressed": 20,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T20:03:55.5648957+00:00",
-      "NumProgressed": 22,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T18:05:07.9503962+00:00",
-      "NumProgressed": 23,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T19:05:30.6889711+00:00",
-      "NumProgressed": 24,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-16T21:58:05.2747206+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 10,
-  "LastChanged_Achievements": "2023-05-05T16:07:58.5021573+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 24,
-  "LastUpdate_Achievements": "2023-05-05T16:07:58.5021665+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:40.1012143+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:43.1213885+00:00",
   "AchievementSets": [
     {
       "ID": "883j7b4",
@@ -132,16 +137,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
-  "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 287,
-  "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-16T21:58:05.2747167+00:00",
-  "Ranking_EOS_NewPlayers": 212
+  "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
+  "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:39.522517+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:38.3279954+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:35.6715788+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:39.5225262+00:00"
 }

@@ -1,6 +1,158 @@
 {
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
+  "ProductSlug": "somerville-229529",
+  "Ranking_Rating": 802,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.2,
+  "RatingHistory": [
+    {
+      "Time": "2022-11-25T17:58:18.002963+00:00",
+      "Rating": 4.24
+    },
+    {
+      "Time": "2022-11-27T17:57:49.0288568+00:00",
+      "Rating": 4.3
+    },
+    {
+      "Time": "2022-11-28T17:58:04.3358151+00:00",
+      "Rating": 4.24
+    },
+    {
+      "Time": "2022-11-29T17:58:36.3813454+00:00",
+      "Rating": 4.22
+    },
+    {
+      "Time": "2022-11-30T17:58:33.3009457+00:00",
+      "Rating": 4.25
+    },
+    {
+      "Time": "2022-12-01T17:58:33.0381256+00:00",
+      "Rating": 4.24
+    },
+    {
+      "Time": "2022-12-02T17:59:02.8270098+00:00",
+      "Rating": 4.19
+    },
+    {
+      "Time": "2022-12-03T17:58:08.8874659+00:00",
+      "Rating": 4.24
+    },
+    {
+      "Time": "2022-12-04T17:57:50.5366087+00:00",
+      "Rating": 4.23
+    },
+    {
+      "Time": "2022-12-06T17:58:00.4015432+00:00",
+      "Rating": 4.22
+    },
+    {
+      "Time": "2022-12-31T05:58:36.9098332+00:00",
+      "Rating": 4.21
+    },
+    {
+      "Time": "2023-01-07T05:57:59.7910043+00:00",
+      "Rating": 4.18
+    },
+    {
+      "Time": "2023-01-11T06:58:28.9082009+00:00",
+      "Rating": 4.2
+    },
+    {
+      "Time": "2023-03-31T05:58:16.1045521+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 1551,
+  "EOS_Completed": 25,
+  "EOS_NewPlayers": 8,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.61,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:11.8533699+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-26T16:00:23.543147+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-27T16:01:38.2528882+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-27T21:00:03.5098947+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-28T07:01:39.2742472+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-28T16:00:55.091443+00:00",
+      "NumProgressed": 1543,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-29T22:00:25.7027413+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-30T12:02:02.2697973+00:00",
+      "NumProgressed": 1545,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-04-30T13:05:10.928106+00:00",
+      "NumProgressed": 1546,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-02T11:02:07.2718818+00:00",
+      "NumProgressed": 1547,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-03T09:01:24.7472809+00:00",
+      "NumProgressed": 1548,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-04T15:01:41.3164816+00:00",
+      "NumProgressed": 1549,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T00:04:48.6885045+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-05T10:04:32.1839877+00:00",
+      "NumProgressed": 1551,
+      "NumCompleted": 25
+    }
+  ],
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "SomervilleBluesJam",
@@ -91,149 +243,6 @@
       "UsersEstimate": 186
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:14:11.8533699+00:00",
-      "NumProgressed": 1538,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-26T16:00:23.543147+00:00",
-      "NumProgressed": 1539,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-27T16:01:38.2528882+00:00",
-      "NumProgressed": 1540,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-27T21:00:03.5098947+00:00",
-      "NumProgressed": 1541,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-28T07:01:39.2742472+00:00",
-      "NumProgressed": 1542,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-28T16:00:55.091443+00:00",
-      "NumProgressed": 1543,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-29T22:00:25.7027413+00:00",
-      "NumProgressed": 1544,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-30T12:02:02.2697973+00:00",
-      "NumProgressed": 1545,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-04-30T13:05:10.928106+00:00",
-      "NumProgressed": 1546,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-05-02T11:02:07.2718818+00:00",
-      "NumProgressed": 1547,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-05-03T09:01:24.7472809+00:00",
-      "NumProgressed": 1548,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-05-04T15:01:41.3164816+00:00",
-      "NumProgressed": 1549,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-05-05T00:04:48.6885045+00:00",
-      "NumProgressed": 1550,
-      "NumCompleted": 25
-    },
-    {
-      "Time": "2023-05-05T10:04:32.1839877+00:00",
-      "NumProgressed": 1551,
-      "NumCompleted": 25
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-11-25T17:58:18.002963+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-11-27T17:57:49.0288568+00:00",
-      "Rating": 4.3
-    },
-    {
-      "Time": "2022-11-28T17:58:04.3358151+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-11-29T17:58:36.3813454+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2022-11-30T17:58:33.3009457+00:00",
-      "Rating": 4.25
-    },
-    {
-      "Time": "2022-12-01T17:58:33.0381256+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-12-02T17:59:02.8270098+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2022-12-03T17:58:08.8874659+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-12-04T17:57:50.5366087+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2022-12-06T17:58:00.4015432+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2022-12-31T05:58:36.9098332+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-01-07T05:57:59.7910043+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2023-01-11T06:58:28.9082009+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-03-31T05:58:16.1045521+00:00",
-      "Rating": 4.2,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 11,
-  "LastChanged_Achievements": "2023-05-05T16:07:20.6688979+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 8,
-  "EOS_Completed": 25,
-  "EOS_Progressed": 1551,
-  "LastUpdate_Achievements": "2023-05-05T16:07:20.6689085+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:25.1196371+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:12.3321006+00:00",
   "AchievementSets": [
     {
       "ID": "3mk3nll",
@@ -242,20 +251,12 @@
       "Completed": 25
     }
   ],
-  "EOS_Completed_Percentage": 1.61,
-  "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
-  "ProductSlug": "somerville-229529",
-  "Rating": 4.2,
-  "Ranking_Rating": 802,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 147,
-  "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
-  "Ranking_EOS_NewPlayers": 179
+  "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
+  "LastChanged": "2023-03-31T05:58:16.104552+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:11.3824693+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:01.9883419+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:06.0468753+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:11.3824807+00:00"
 }

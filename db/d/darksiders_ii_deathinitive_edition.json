@@ -1,22 +1,16 @@
 {
   "ID": "091d95ea332843498122beee1a786d71",
   "Name": "Darksiders II Deathinitive Edition",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 374
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 201
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "darksiders2",
+  "Ranking_Rating": 353,
+  "Ranking_Popularity": 204,
+  "Ranking_PopularitySum": 282,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.61,
+  "NumberOfRatings": 827,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:32.2059197+00:00",
@@ -571,30 +565,37 @@
       "NumberOfAwardsMax": 374
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:25.6853025+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:42.8811796+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:04.279858+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-17T21:57:24.4038973+00:00",
-  "ProductSlug": "darksiders2",
-  "Rating": 4.61,
-  "Ranking_Rating": 353,
-  "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 282,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 827,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 575,
   "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 374
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 201
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-17T21:57:24.4038973+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:57.1949703+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:57.5808795+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:34.667368+00:00"
 }

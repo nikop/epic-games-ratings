@@ -1,6 +1,47 @@
 {
   "ID": "e804a0aa57fa40738d486f70dd6d7079",
   "Name": "Showgunners",
+  "ProductSlug": "showgunners-cbc083",
+  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-05-03T17:56:57.8703126+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 3,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 2,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-05-02T09:01:09.9196274+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T07:59:54.3048331+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T10:00:14.4088225+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "PJ_ACHIV_B_01",
@@ -371,42 +412,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-05-02T09:01:09.9196274+00:00",
-      "NumProgressed": 1,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T07:59:54.3048331+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T10:00:14.4088225+00:00",
-      "NumProgressed": 3,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-05-03T17:56:57.8703126+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T16:07:26.4216292+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 3,
-  "LastUpdate_Achievements": "2023-05-05T16:07:26.4216673+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:49.6608353+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:49.4947509+00:00",
   "AchievementSets": [
     {
       "ID": "39fp85m",
@@ -415,16 +420,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T17:56:57.8703123+00:00",
-  "FirstSeenRating": "2023-05-03T17:56:57.8703123+00:00",
-  "ProductSlug": "showgunners-cbc083",
-  "Ranking_EOS_Progress": 338,
-  "FirstSeenAchievements": "2023-04-27T16:01:31.7700747+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-05-03T17:56:57.8703047+00:00",
-  "Ranking_EOS_NewPlayers": 212
+  "FirstSeenRating": "2023-05-03T17:56:57.8703123+00:00",
+  "FirstSeenAchievements": "2023-04-27T16:01:31.7700747+00:00",
+  "LastChanged": "2023-05-03T17:56:57.8703123+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:15.6597666+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:37.3897574+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:42.7303288+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:15.6598071+00:00"
 }

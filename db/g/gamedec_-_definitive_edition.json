@@ -1,424 +1,283 @@
 {
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
-  "Achievements": [
+  "ProductSlug": "gamedec",
+  "Ranking_Rating": 732,
+  "Ranking_Popularity": 359,
+  "Ranking_PopularitySum": 415,
+  "Ranking_EOS_Progress": 42,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.33,
+  "NumberOfRatings": 33,
+  "RatingHistory": [
     {
-      "ID": "ACH_ALLALLROUNDER",
-      "SetID": "dfh7g87",
-      "Name": "Powergamer",
-      "Percentage": 26,
-      "XP": 20,
-      "UsersEstimate": 58016
+      "Time": "2022-08-13T10:30:34.4977327+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 20
     },
     {
-      "ID": "ACH_AON",
-      "SetID": "dfh7g87",
-      "Name": "A muscle to rely on",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 2231
+      "Time": "2022-08-23T07:00:46.3466206+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 21
     },
     {
-      "ID": "ACH_ATRUEBLACKSMITHS",
-      "SetID": "dfh7g87",
-      "Name": "A true blacksmith",
-      "Percentage": 0.9,
-      "XP": 15,
-      "UsersEstimate": 2008
+      "Time": "2022-08-23T07:31:36.440397+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 20
     },
     {
-      "ID": "ACH_BOY",
-      "SetID": "dfh7g87",
-      "Name": "BOY!",
-      "Percentage": 4,
-      "XP": 30,
-      "UsersEstimate": 8925
+      "Time": "2022-08-23T12:01:32.9209495+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 21
     },
     {
-      "ID": "ACH_CATNIPCATNIP",
-      "SetID": "dfh7g87",
-      "Name": "Catnip",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 2231
+      "Time": "2022-08-24T12:00:41.7686737+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 22
     },
     {
-      "ID": "ACH_COLLECTOR",
-      "SetID": "dfh7g87",
-      "Name": "Collector",
-      "Percentage": 11,
-      "XP": 15,
-      "UsersEstimate": 24545
+      "Time": "2022-08-28T12:00:55.8946203+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 23
     },
     {
-      "ID": "ACH_ENJOY",
-      "SetID": "dfh7g87",
-      "Name": "Enjoy these little moments",
-      "Percentage": 0.4,
-      "XP": 15,
-      "UsersEstimate": 893
+      "Time": "2022-08-31T12:30:37.1059456+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 24
     },
     {
-      "ID": "ACH_GENTLEMAN",
-      "SetID": "dfh7g87",
-      "Name": "Gentleman\u0027s classic",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 4463
+      "Time": "2022-09-01T20:30:50.1443351+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 25
     },
     {
-      "ID": "ACH_GUNSGUNS",
-      "SetID": "dfh7g87",
-      "Name": "Guns, lots of guns",
-      "Percentage": 12,
-      "XP": 25,
-      "UsersEstimate": 26776
+      "Time": "2022-09-03T21:00:44.4187986+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 26
     },
     {
-      "ID": "ACH_HATTRICK",
-      "SetID": "dfh7g87",
-      "Name": "Hoarder",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 4463
+      "Time": "2022-09-06T21:30:40.4605827+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 28
     },
     {
-      "ID": "ACH_HERCULESBEPROUD",
-      "SetID": "dfh7g87",
-      "Name": "Elementary!",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 17851
+      "Time": "2022-09-11T09:30:42.1505897+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 29
     },
     {
-      "ID": "ACH_HIDEANDSEEK",
-      "SetID": "dfh7g87",
-      "Name": "I am in great pain, please help me",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2231
+      "Time": "2022-09-15T10:01:06.4038391+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 30
     },
     {
-      "ID": "ACH_HIGHGROUND",
-      "SetID": "dfh7g87",
-      "Name": "I have the high ground",
-      "Percentage": 0.6,
-      "XP": 15,
-      "UsersEstimate": 1339
+      "Time": "2022-09-17T19:30:37.7379792+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 31
     },
     {
-      "ID": "ACH_HIGHNOON",
-      "SetID": "dfh7g87",
-      "Name": "High noon",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 2231
+      "Time": "2022-09-19T19:30:51.1481873+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 32
     },
     {
-      "ID": "ACH_HMMSHINY",
-      "SetID": "dfh7g87",
-      "Name": "Random encounter",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2231
+      "Time": "2022-09-22T18:01:41.4033115+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 33
     },
     {
-      "ID": "ACH_ILIKETOSNIFF",
-      "SetID": "dfh7g87",
-      "Name": "I like to sniff around",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 6694
+      "Time": "2022-09-27T21:01:09.3099444+00:00",
+      "Rating": 4.41
     },
     {
-      "ID": "ACH_IRONDEC",
-      "SetID": "dfh7g87",
-      "Name": "Irondec",
-      "Percentage": 0.3,
-      "XP": 20,
-      "UsersEstimate": 669
+      "Time": "2022-10-02T21:31:47.9044323+00:00",
+      "Rating": 4.43
     },
     {
-      "ID": "ACH_ISRIFT",
-      "SetID": "dfh7g87",
-      "Name": "Is that a rift?",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 4463
+      "Time": "2022-10-05T20:30:40.295782+00:00",
+      "Rating": 4.44
     },
     {
-      "ID": "ACH_ISTARTED",
-      "SetID": "dfh7g87",
-      "Name": "I will finish what you started",
-      "Percentage": 28,
-      "XP": 20,
-      "UsersEstimate": 62478
+      "Time": "2022-11-20T04:57:14.2145492+00:00",
+      "Rating": 4.46
     },
     {
-      "ID": "ACH_ITSALIVE",
-      "SetID": "dfh7g87",
-      "Name": "It\u0027s alive!",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 4463
+      "Time": "2022-11-23T05:56:57.7255298+00:00",
+      "Rating": 4.47
     },
     {
-      "ID": "ACH_ITSALWAYSBLUE",
-      "SetID": "dfh7g87",
-      "Name": "It\u0027s blue, always blue",
-      "Percentage": 0.7,
-      "XP": 30,
-      "UsersEstimate": 1562
+      "Time": "2022-11-24T11:57:24.6064334+00:00",
+      "Rating": 4.49
     },
     {
-      "ID": "ACH_KACHING",
-      "SetID": "dfh7g87",
-      "Name": "Ka-ching!",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 8925
+      "Time": "2022-12-03T13:08:46.6917598+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ACH_LETMEOUT",
-      "SetID": "dfh7g87",
-      "Name": "LET ME OUT!",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 669
+      "Time": "2023-01-12T20:57:15.9072809+00:00",
+      "Rating": 4.49
     },
     {
-      "ID": "ACH_LETSABLE",
-      "SetID": "dfh7g87",
-      "Name": "Un-bear-able",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 893
+      "Time": "2023-01-13T17:57:03.6472598+00:00",
+      "Rating": 4.36
     },
     {
-      "ID": "ACH_LETSANOTHER",
-      "SetID": "dfh7g87",
-      "Name": "Let\u0027s try another",
-      "Percentage": 0.8,
-      "XP": 15,
-      "UsersEstimate": 1785
+      "Time": "2023-01-14T17:57:02.3625267+00:00",
+      "Rating": 4.21
     },
     {
-      "ID": "ACH_LETSBEACH",
-      "SetID": "dfh7g87",
-      "Name": "Enjoy the beach",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4463
+      "Time": "2023-01-14T22:57:09.5020247+00:00",
+      "Rating": 4.23
     },
     {
-      "ID": "ACH_LETSCHAINS",
-      "SetID": "dfh7g87",
-      "Name": "Breaking the chains",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 446
+      "Time": "2023-01-15T02:10:10.8564094+00:00",
+      "Rating": 4.24
     },
     {
-      "ID": "ACH_LETSDOWN",
-      "SetID": "dfh7g87",
-      "Name": "Write that down",
-      "Percentage": 24,
-      "XP": 20,
-      "UsersEstimate": 53553
+      "Time": "2023-01-15T15:57:05.5986209+00:00",
+      "Rating": 4.26
     },
     {
-      "ID": "ACH_LETSDUTY",
-      "SetID": "dfh7g87",
-      "Name": "SysOp on duty",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 2231
+      "Time": "2023-01-16T02:07:47.3642185+00:00",
+      "Rating": 4.28
     },
     {
-      "ID": "ACH_LETSLISTENER",
-      "SetID": "dfh7g87",
-      "Name": "Good listener",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 11157
+      "Time": "2023-01-16T21:57:08.7445314+00:00",
+      "Rating": 4.26
     },
     {
-      "ID": "ACH_LETSOTHERTHINKING",
-      "SetID": "dfh7g87",
-      "Name": "Aren\u0027t you overthinking?",
-      "Percentage": 0.2,
-      "XP": 20,
-      "UsersEstimate": 446
+      "Time": "2023-01-18T04:57:36.1877509+00:00",
+      "Rating": 4.29
     },
     {
-      "ID": "ACH_LETSREPEAT",
-      "SetID": "dfh7g87",
-      "Name": "Rinse and repeat",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 4463
+      "Time": "2023-01-20T07:57:09.1386238+00:00",
+      "Rating": 4.28
     },
     {
-      "ID": "ACH_LETSSCOFIELD",
-      "SetID": "dfh7g87",
-      "Name": "Mama, I\u0027m a criminal",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4463
+      "Time": "2023-01-20T20:57:13.015762+00:00",
+      "Rating": 4.29
     },
     {
-      "ID": "ACH_LETSSMILE",
-      "SetID": "dfh7g87",
-      "Name": "Home run",
-      "Percentage": 0.8,
-      "XP": 20,
-      "UsersEstimate": 1785
+      "Time": "2023-01-22T02:10:20.1332293+00:00",
+      "Rating": 4.3
     },
     {
-      "ID": "ACH_LETSWORK",
-      "SetID": "dfh7g87",
-      "Name": "It\u0027s honest work",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 15620
+      "Time": "2023-01-22T14:56:57.9802802+00:00",
+      "Rating": 4.31
     },
     {
-      "ID": "ACH_MEMESMART",
-      "SetID": "dfh7g87",
-      "Name": "Me smart",
-      "Percentage": 6,
-      "XP": 20,
-      "UsersEstimate": 13388
+      "Time": "2023-01-25T19:57:10.6288129+00:00",
+      "Rating": 4.3
     },
     {
-      "ID": "ACH_MEMORY5",
-      "SetID": "dfh7g87",
-      "Name": "Memory 5",
-      "Percentage": 0.1,
-      "XP": 15,
-      "UsersEstimate": 223
+      "Time": "2023-01-27T08:57:28.6593605+00:00",
+      "Rating": 4.31
     },
     {
-      "ID": "ACH_MINDREADER",
-      "SetID": "dfh7g87",
-      "Name": "Mind reader",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 6694
+      "Time": "2023-01-28T02:09:10.8454723+00:00",
+      "Rating": 4.3
     },
     {
-      "ID": "ACH_NOSTRINGS",
-      "SetID": "dfh7g87",
-      "Name": "Griever",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 15620
+      "Time": "2023-01-28T04:57:03.8643315+00:00",
+      "Rating": 4.31
     },
     {
-      "ID": "ACH_PUMPKINJACK",
-      "SetID": "dfh7g87",
-      "Name": "Pumpkin Jack",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 17851
+      "Time": "2023-01-30T07:57:22.5221825+00:00",
+      "Rating": 4.32
     },
     {
-      "ID": "ACH_SCRATCH",
-      "SetID": "dfh7g87",
-      "Name": "Barely scratched the surface",
-      "Percentage": 25,
-      "XP": 20,
-      "UsersEstimate": 55784
+      "Time": "2023-02-01T19:57:11.8939231+00:00",
+      "Rating": 4.31
     },
     {
-      "ID": "ACH_SOREAD",
-      "SetID": "dfh7g87",
-      "Name": "So you like to read?",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 6694
+      "Time": "2023-02-03T02:14:14.9455998+00:00",
+      "Rating": 4.32
     },
     {
-      "ID": "ACH_TAKEBLUEPILL",
-      "SetID": "dfh7g87",
-      "Name": "Take the blue pill",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 2231
+      "Time": "2023-02-04T16:57:07.848565+00:00",
+      "Rating": 4.31
     },
     {
-      "ID": "ACH_TAKEREDPILL",
-      "SetID": "dfh7g87",
-      "Name": "Take the red pill",
-      "Percentage": 0.2,
-      "XP": 30,
-      "UsersEstimate": 446
+      "Time": "2023-02-07T21:57:25.0297863+00:00",
+      "Rating": 4.32
     },
     {
-      "ID": "ACH_THEOFTHREE",
-      "SetID": "dfh7g87",
-      "Name": "The power of three",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 2008
+      "Time": "2023-02-23T18:57:28.8590781+00:00",
+      "Rating": 4.33
     },
     {
-      "ID": "ACH_THISWAY",
-      "SetID": "dfh7g87",
-      "Name": "This is the way",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 446
+      "Time": "2023-02-26T04:57:18.4245806+00:00",
+      "Rating": 4.32
     },
     {
-      "ID": "ACH_TRASHCOMPACTOR",
-      "SetID": "dfh7g87",
-      "Name": "Trash compactor",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 11157
+      "Time": "2023-02-27T04:57:11.4354759+00:00",
+      "Rating": 4.33
     },
     {
-      "ID": "ACH_TROLLKING",
-      "SetID": "dfh7g87",
-      "Name": "Never gonna give you up",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 4463
+      "Time": "2023-03-27T15:57:35.4836973+00:00",
+      "Rating": 4.32
     },
     {
-      "ID": "ACH_VALEDICTORIAN",
-      "SetID": "dfh7g87",
-      "Name": "Valedictorian",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 11157
+      "Time": "2023-04-02T13:00:47.5364225+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
     },
     {
-      "ID": "ACH_WAKEUP",
-      "SetID": "dfh7g87",
-      "Name": "Wake up!",
-      "Percentage": 8,
-      "XP": 25,
-      "UsersEstimate": 17851
+      "Time": "2023-04-12T13:05:09.2555667+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
     },
     {
-      "ID": "ACH_WELLDESERVED",
-      "SetID": "dfh7g87",
-      "Name": "Well-deserved reunion",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 669
+      "Time": "2023-04-13T13:04:35.7824397+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
     },
     {
-      "ID": "ACH_WHOTROLL",
-      "SetID": "dfh7g87",
-      "Name": "Who wouldn\u0027t love a troll?",
-      "Percentage": 0.5,
-      "XP": 30,
-      "UsersEstimate": 1116
+      "Time": "2023-04-15T13:00:31.6395703+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-16T13:01:03.4601966+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-18T19:57:06.5270753+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-20T23:57:05.3606622+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-28T23:57:57.625779+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-30T19:57:29.8748318+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 71
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 71,
+  "NumberOfAwardsMax": 71,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -427,6 +286,11 @@
       "Count": 71
     }
   ],
+  "EOS_Progressed": 223148,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 1910,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:13.8451565+00:00",
@@ -1612,305 +1476,447 @@
       "Time": "2023-05-05T16:07:28.7039252+00:00",
       "NumProgressed": 223137,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-05T17:09:17.330036+00:00",
+      "NumProgressed": 223148,
+      "NumCompleted": 5
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-08-13T10:30:34.4977327+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": 20
-    },
-    {
-      "Time": "2022-08-23T07:00:46.3466206+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 21
-    },
-    {
-      "Time": "2022-08-23T07:31:36.440397+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": 20
-    },
-    {
-      "Time": "2022-08-23T12:01:32.9209495+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 21
-    },
-    {
-      "Time": "2022-08-24T12:00:41.7686737+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 22
-    },
-    {
-      "Time": "2022-08-28T12:00:55.8946203+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 23
-    },
-    {
-      "Time": "2022-08-31T12:30:37.1059456+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 24
-    },
-    {
-      "Time": "2022-09-01T20:30:50.1443351+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 25
-    },
-    {
-      "Time": "2022-09-03T21:00:44.4187986+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 26
-    },
-    {
-      "Time": "2022-09-06T21:30:40.4605827+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 28
-    },
-    {
-      "Time": "2022-09-11T09:30:42.1505897+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 29
-    },
-    {
-      "Time": "2022-09-15T10:01:06.4038391+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 30
-    },
-    {
-      "Time": "2022-09-17T19:30:37.7379792+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 31
-    },
-    {
-      "Time": "2022-09-19T19:30:51.1481873+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 32
-    },
-    {
-      "Time": "2022-09-22T18:01:41.4033115+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 33
-    },
-    {
-      "Time": "2022-09-27T21:01:09.3099444+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-10-02T21:31:47.9044323+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-10-05T20:30:40.295782+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-20T04:57:14.2145492+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-11-23T05:56:57.7255298+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2022-11-24T11:57:24.6064334+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2022-12-03T13:08:46.6917598+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2023-01-12T20:57:15.9072809+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2023-01-13T17:57:03.6472598+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2023-01-14T17:57:02.3625267+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-01-14T22:57:09.5020247+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2023-01-15T02:10:10.8564094+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2023-01-15T15:57:05.5986209+00:00",
-      "Rating": 4.26
-    },
-    {
-      "Time": "2023-01-16T02:07:47.3642185+00:00",
-      "Rating": 4.28
-    },
-    {
-      "Time": "2023-01-16T21:57:08.7445314+00:00",
-      "Rating": 4.26
-    },
-    {
-      "Time": "2023-01-18T04:57:36.1877509+00:00",
-      "Rating": 4.29
-    },
-    {
-      "Time": "2023-01-20T07:57:09.1386238+00:00",
-      "Rating": 4.28
-    },
-    {
-      "Time": "2023-01-20T20:57:13.015762+00:00",
-      "Rating": 4.29
-    },
-    {
-      "Time": "2023-01-22T02:10:20.1332293+00:00",
-      "Rating": 4.3
-    },
-    {
-      "Time": "2023-01-22T14:56:57.9802802+00:00",
-      "Rating": 4.31
-    },
-    {
-      "Time": "2023-01-25T19:57:10.6288129+00:00",
-      "Rating": 4.3
-    },
-    {
-      "Time": "2023-01-27T08:57:28.6593605+00:00",
-      "Rating": 4.31
-    },
-    {
-      "Time": "2023-01-28T02:09:10.8454723+00:00",
-      "Rating": 4.3
-    },
-    {
-      "Time": "2023-01-28T04:57:03.8643315+00:00",
-      "Rating": 4.31
-    },
-    {
-      "Time": "2023-01-30T07:57:22.5221825+00:00",
-      "Rating": 4.32
-    },
-    {
-      "Time": "2023-02-01T19:57:11.8939231+00:00",
-      "Rating": 4.31
-    },
-    {
-      "Time": "2023-02-03T02:14:14.9455998+00:00",
-      "Rating": 4.32
-    },
-    {
-      "Time": "2023-02-04T16:57:07.848565+00:00",
-      "Rating": 4.31
-    },
-    {
-      "Time": "2023-02-07T21:57:25.0297863+00:00",
-      "Rating": 4.32
-    },
-    {
-      "Time": "2023-02-23T18:57:28.8590781+00:00",
-      "Rating": 4.33
-    },
-    {
-      "Time": "2023-02-26T04:57:18.4245806+00:00",
-      "Rating": 4.32
-    },
-    {
-      "Time": "2023-02-27T04:57:11.4354759+00:00",
-      "Rating": 4.33
-    },
-    {
-      "Time": "2023-03-27T15:57:35.4836973+00:00",
-      "Rating": 4.32
-    },
-    {
-      "Time": "2023-04-02T13:00:47.5364225+00:00",
-      "Rating": 4.32,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 68
-    },
-    {
-      "Time": "2023-04-12T13:05:09.2555667+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 68
-    },
-    {
-      "Time": "2023-04-13T13:04:35.7824397+00:00",
-      "Rating": 4.32,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 68
-    },
-    {
-      "Time": "2023-04-15T13:00:31.6395703+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 68
-    },
-    {
-      "Time": "2023-04-16T13:01:03.4601966+00:00",
-      "Rating": 4.32,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 68
-    },
-    {
-      "Time": "2023-04-18T19:57:06.5270753+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 68
-    },
-    {
-      "Time": "2023-04-20T23:57:05.3606622+00:00",
-      "Rating": 4.32,
-      "NumberOfAwards": 70,
-      "NumberOfAwardsMax": 70
-    },
-    {
-      "Time": "2023-04-28T23:57:57.625779+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 70,
-      "NumberOfAwardsMax": 70
-    },
-    {
-      "Time": "2023-04-30T19:57:29.8748318+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 71,
-      "NumberOfAwardsMax": 71
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 52,
-  "LastChanged_Achievements": "2023-05-05T16:07:28.7039246+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1914,
-  "EOS_Completed": 5,
-  "EOS_Progressed": 223137,
-  "LastUpdate_Achievements": "2023-05-05T16:07:28.7039796+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:45.2631849+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:24.8021537+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ALLALLROUNDER",
+      "SetID": "dfh7g87",
+      "Name": "Powergamer",
+      "Percentage": 26,
+      "XP": 20,
+      "UsersEstimate": 58018
+    },
+    {
+      "ID": "ACH_AON",
+      "SetID": "dfh7g87",
+      "Name": "A muscle to rely on",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_ATRUEBLACKSMITHS",
+      "SetID": "dfh7g87",
+      "Name": "A true blacksmith",
+      "Percentage": 0.9,
+      "XP": 15,
+      "UsersEstimate": 2008
+    },
+    {
+      "ID": "ACH_BOY",
+      "SetID": "dfh7g87",
+      "Name": "BOY!",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 8926
+    },
+    {
+      "ID": "ACH_CATNIPCATNIP",
+      "SetID": "dfh7g87",
+      "Name": "Catnip",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_COLLECTOR",
+      "SetID": "dfh7g87",
+      "Name": "Collector",
+      "Percentage": 11,
+      "XP": 15,
+      "UsersEstimate": 24546
+    },
+    {
+      "ID": "ACH_ENJOY",
+      "SetID": "dfh7g87",
+      "Name": "Enjoy these little moments",
+      "Percentage": 0.4,
+      "XP": 15,
+      "UsersEstimate": 893
+    },
+    {
+      "ID": "ACH_GENTLEMAN",
+      "SetID": "dfh7g87",
+      "Name": "Gentleman\u0027s classic",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_GUNSGUNS",
+      "SetID": "dfh7g87",
+      "Name": "Guns, lots of guns",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 26778
+    },
+    {
+      "ID": "ACH_HATTRICK",
+      "SetID": "dfh7g87",
+      "Name": "Hoarder",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_HERCULESBEPROUD",
+      "SetID": "dfh7g87",
+      "Name": "Elementary!",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 17852
+    },
+    {
+      "ID": "ACH_HIDEANDSEEK",
+      "SetID": "dfh7g87",
+      "Name": "I am in great pain, please help me",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_HIGHGROUND",
+      "SetID": "dfh7g87",
+      "Name": "I have the high ground",
+      "Percentage": 0.6,
+      "XP": 15,
+      "UsersEstimate": 1339
+    },
+    {
+      "ID": "ACH_HIGHNOON",
+      "SetID": "dfh7g87",
+      "Name": "High noon",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_HMMSHINY",
+      "SetID": "dfh7g87",
+      "Name": "Random encounter",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_ILIKETOSNIFF",
+      "SetID": "dfh7g87",
+      "Name": "I like to sniff around",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 6694
+    },
+    {
+      "ID": "ACH_IRONDEC",
+      "SetID": "dfh7g87",
+      "Name": "Irondec",
+      "Percentage": 0.3,
+      "XP": 20,
+      "UsersEstimate": 669
+    },
+    {
+      "ID": "ACH_ISRIFT",
+      "SetID": "dfh7g87",
+      "Name": "Is that a rift?",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_ISTARTED",
+      "SetID": "dfh7g87",
+      "Name": "I will finish what you started",
+      "Percentage": 28,
+      "XP": 20,
+      "UsersEstimate": 62481
+    },
+    {
+      "ID": "ACH_ITSALIVE",
+      "SetID": "dfh7g87",
+      "Name": "It\u0027s alive!",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_ITSALWAYSBLUE",
+      "SetID": "dfh7g87",
+      "Name": "It\u0027s blue, always blue",
+      "Percentage": 0.7,
+      "XP": 30,
+      "UsersEstimate": 1562
+    },
+    {
+      "ID": "ACH_KACHING",
+      "SetID": "dfh7g87",
+      "Name": "Ka-ching!",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 8926
+    },
+    {
+      "ID": "ACH_LETMEOUT",
+      "SetID": "dfh7g87",
+      "Name": "LET ME OUT!",
+      "Percentage": 0.3,
+      "XP": 30,
+      "UsersEstimate": 669
+    },
+    {
+      "ID": "ACH_LETSABLE",
+      "SetID": "dfh7g87",
+      "Name": "Un-bear-able",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 893
+    },
+    {
+      "ID": "ACH_LETSANOTHER",
+      "SetID": "dfh7g87",
+      "Name": "Let\u0027s try another",
+      "Percentage": 0.8,
+      "XP": 15,
+      "UsersEstimate": 1785
+    },
+    {
+      "ID": "ACH_LETSBEACH",
+      "SetID": "dfh7g87",
+      "Name": "Enjoy the beach",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_LETSCHAINS",
+      "SetID": "dfh7g87",
+      "Name": "Breaking the chains",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 446
+    },
+    {
+      "ID": "ACH_LETSDOWN",
+      "SetID": "dfh7g87",
+      "Name": "Write that down",
+      "Percentage": 24,
+      "XP": 20,
+      "UsersEstimate": 53556
+    },
+    {
+      "ID": "ACH_LETSDUTY",
+      "SetID": "dfh7g87",
+      "Name": "SysOp on duty",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_LETSLISTENER",
+      "SetID": "dfh7g87",
+      "Name": "Good listener",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 11157
+    },
+    {
+      "ID": "ACH_LETSOTHERTHINKING",
+      "SetID": "dfh7g87",
+      "Name": "Aren\u0027t you overthinking?",
+      "Percentage": 0.2,
+      "XP": 20,
+      "UsersEstimate": 446
+    },
+    {
+      "ID": "ACH_LETSREPEAT",
+      "SetID": "dfh7g87",
+      "Name": "Rinse and repeat",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_LETSSCOFIELD",
+      "SetID": "dfh7g87",
+      "Name": "Mama, I\u0027m a criminal",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_LETSSMILE",
+      "SetID": "dfh7g87",
+      "Name": "Home run",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 1785
+    },
+    {
+      "ID": "ACH_LETSWORK",
+      "SetID": "dfh7g87",
+      "Name": "It\u0027s honest work",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 15620
+    },
+    {
+      "ID": "ACH_MEMESMART",
+      "SetID": "dfh7g87",
+      "Name": "Me smart",
+      "Percentage": 6,
+      "XP": 20,
+      "UsersEstimate": 13389
+    },
+    {
+      "ID": "ACH_MEMORY5",
+      "SetID": "dfh7g87",
+      "Name": "Memory 5",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 223
+    },
+    {
+      "ID": "ACH_MINDREADER",
+      "SetID": "dfh7g87",
+      "Name": "Mind reader",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 6694
+    },
+    {
+      "ID": "ACH_NOSTRINGS",
+      "SetID": "dfh7g87",
+      "Name": "Griever",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 15620
+    },
+    {
+      "ID": "ACH_PUMPKINJACK",
+      "SetID": "dfh7g87",
+      "Name": "Pumpkin Jack",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 17852
+    },
+    {
+      "ID": "ACH_SCRATCH",
+      "SetID": "dfh7g87",
+      "Name": "Barely scratched the surface",
+      "Percentage": 25,
+      "XP": 20,
+      "UsersEstimate": 55787
+    },
+    {
+      "ID": "ACH_SOREAD",
+      "SetID": "dfh7g87",
+      "Name": "So you like to read?",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 6694
+    },
+    {
+      "ID": "ACH_TAKEBLUEPILL",
+      "SetID": "dfh7g87",
+      "Name": "Take the blue pill",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 2231
+    },
+    {
+      "ID": "ACH_TAKEREDPILL",
+      "SetID": "dfh7g87",
+      "Name": "Take the red pill",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 446
+    },
+    {
+      "ID": "ACH_THEOFTHREE",
+      "SetID": "dfh7g87",
+      "Name": "The power of three",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 2008
+    },
+    {
+      "ID": "ACH_THISWAY",
+      "SetID": "dfh7g87",
+      "Name": "This is the way",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 446
+    },
+    {
+      "ID": "ACH_TRASHCOMPACTOR",
+      "SetID": "dfh7g87",
+      "Name": "Trash compactor",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 11157
+    },
+    {
+      "ID": "ACH_TROLLKING",
+      "SetID": "dfh7g87",
+      "Name": "Never gonna give you up",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 4463
+    },
+    {
+      "ID": "ACH_VALEDICTORIAN",
+      "SetID": "dfh7g87",
+      "Name": "Valedictorian",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 11157
+    },
+    {
+      "ID": "ACH_WAKEUP",
+      "SetID": "dfh7g87",
+      "Name": "Wake up!",
+      "Percentage": 8,
+      "XP": 25,
+      "UsersEstimate": 17852
+    },
+    {
+      "ID": "ACH_WELLDESERVED",
+      "SetID": "dfh7g87",
+      "Name": "Well-deserved reunion",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 669
+    },
+    {
+      "ID": "ACH_WHOTROLL",
+      "SetID": "dfh7g87",
+      "Name": "Who wouldn\u0027t love a troll?",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 1116
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 223137,
+      "Progressed": 223148,
       "Completed": 5
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-30T19:57:29.8748317+00:00",
-  "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
-  "ProductSlug": "gamedec",
-  "Rating": 4.33,
-  "Ranking_Rating": 732,
-  "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 415,
-  "Ranking_EOS_Progress": 42,
-  "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 33,
-  "NumberOfAwards": 71,
-  "NumberOfAwardsMax": 71,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
-  "Ranking_EOS_NewPlayers": 33
+  "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
+  "LastChanged": "2023-04-30T19:57:29.8748317+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:17.3300355+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:15.8566986+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:19.1910467+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:17.3300918+00:00"
 }

@@ -1,584 +1,675 @@
 {
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
-  "Achievements": [
-    {
-      "ID": "10000_Credits",
-      "SetID": "4h07amh",
-      "Name": "Solid Economy",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+  "ProductSlug": "galactic-civilizations-iv",
+  "Ranking_Rating": 821,
+  "Ranking_Popularity": 335,
+  "Ranking_PopularitySum": 266,
+  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.18,
+  "NumberOfRatings": 429,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:20:44.6509479+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 277
+    },
+    {
+      "Time": "2022-07-23T02:01:40.2455521+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 280
+    },
+    {
+      "Time": "2022-07-24T16:01:36.7404591+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 282
+    },
+    {
+      "Time": "2022-07-24T20:00:47.6836729+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 283
+    },
+    {
+      "Time": "2022-07-25T04:01:07.1739993+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 284
+    },
+    {
+      "Time": "2022-07-25T16:01:24.3370012+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 285
+    },
+    {
+      "Time": "2022-07-27T02:01:34.0417496+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 287
+    },
+    {
+      "Time": "2022-07-27T20:00:44.6835373+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 288
+    },
+    {
+      "Time": "2022-07-27T22:01:03.255879+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 289
+    },
+    {
+      "Time": "2022-07-28T04:00:43.2414779+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 290
+    },
+    {
+      "Time": "2022-07-28T20:00:55.8330057+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 291
+    },
+    {
+      "Time": "2022-07-29T23:00:44.1873741+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 295
+    },
+    {
+      "Time": "2022-07-30T05:30:54.1041547+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 296
+    },
+    {
+      "Time": "2022-07-30T20:00:55.4369475+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 297
+    },
+    {
+      "Time": "2022-07-30T20:30:51.9781844+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 298
+    },
+    {
+      "Time": "2022-07-31T05:00:48.7681172+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 300
+    },
+    {
+      "Time": "2022-07-31T09:31:39.5229297+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 301
+    },
+    {
+      "Time": "2022-08-01T19:30:47.0647461+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 304
+    },
+    {
+      "Time": "2022-08-02T00:00:48.7800363+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 305
+    },
+    {
+      "Time": "2022-08-02T13:30:44.9219378+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 308
+    },
+    {
+      "Time": "2022-08-03T16:30:49.0382371+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 310
+    },
+    {
+      "Time": "2022-08-04T11:30:52.2829122+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 311
+    },
+    {
+      "Time": "2022-08-04T21:00:43.8973703+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 313
+    },
+    {
+      "Time": "2022-08-05T13:00:54.2538628+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 316
+    },
+    {
+      "Time": "2022-08-05T15:30:51.197486+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 317
+    },
+    {
+      "Time": "2022-08-05T21:00:56.3196847+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 319
+    },
+    {
+      "Time": "2022-08-05T22:00:49.2675073+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 320
+    },
+    {
+      "Time": "2022-08-06T08:00:47.5860803+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 321
+    },
+    {
+      "Time": "2022-08-06T14:30:44.8915851+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 322
+    },
+    {
+      "Time": "2022-08-07T03:01:01.3026353+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 323
+    },
+    {
+      "Time": "2022-08-07T09:01:55.4702226+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 324
+    },
+    {
+      "Time": "2022-08-07T18:30:48.307141+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 326
+    },
+    {
+      "Time": "2022-08-08T01:30:44.182118+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 327
+    },
+    {
+      "Time": "2022-08-09T19:00:50.8305614+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 328
+    },
+    {
+      "Time": "2022-08-10T01:30:46.9597969+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 330
+    },
+    {
+      "Time": "2022-08-10T13:01:17.1986587+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 335
+    },
+    {
+      "Time": "2022-08-10T16:30:47.4802129+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 337
+    },
+    {
+      "Time": "2022-08-11T16:01:19.7894403+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 338
+    },
+    {
+      "Time": "2022-08-12T07:30:47.1306853+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 339
+    },
+    {
+      "Time": "2022-08-12T18:30:53.3167776+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 343
+    },
+    {
+      "Time": "2022-08-13T01:00:50.7614421+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 345
+    },
+    {
+      "Time": "2022-08-13T05:00:37.5785719+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 346
+    },
+    {
+      "Time": "2022-08-13T12:30:44.4497306+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 347
+    },
+    {
+      "Time": "2022-08-14T14:30:51.011176+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 348
+    },
+    {
+      "Time": "2022-08-15T19:31:17.7841339+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 350
+    },
+    {
+      "Time": "2022-08-16T08:31:03.385972+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 351
+    },
+    {
+      "Time": "2022-08-16T15:01:26.2186345+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 352
+    },
+    {
+      "Time": "2022-08-17T19:01:16.704538+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 354
+    },
+    {
+      "Time": "2022-08-18T03:01:13.1990336+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 355
+    },
+    {
+      "Time": "2022-08-19T03:00:59.133411+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 356
+    },
+    {
+      "Time": "2022-08-19T17:31:28.1985391+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 358
+    },
+    {
+      "Time": "2022-08-20T03:30:43.7594711+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 359
+    },
+    {
+      "Time": "2022-08-20T16:30:45.5100354+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 360
+    },
+    {
+      "Time": "2022-08-20T21:00:46.5301521+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 361
+    },
+    {
+      "Time": "2022-08-21T23:30:46.1139762+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 362
+    },
+    {
+      "Time": "2022-08-22T22:01:00.4136224+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 363
+    },
+    {
+      "Time": "2022-08-23T14:31:16.9887295+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 364
+    },
+    {
+      "Time": "2022-08-24T08:01:22.6188573+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 366
+    },
+    {
+      "Time": "2022-08-25T09:00:53.8159245+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 367
+    },
+    {
+      "Time": "2022-08-26T12:30:50.4876493+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": 369
+    },
+    {
+      "Time": "2022-08-28T02:01:59.3021508+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 373
+    },
+    {
+      "Time": "2022-08-28T20:00:50.6262675+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 374
+    },
+    {
+      "Time": "2022-08-30T05:00:50.9168378+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 375
+    },
+    {
+      "Time": "2022-08-30T22:02:35.4466277+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 378
     },
-    {
-      "ID": "30_Citizens",
-      "SetID": "4h07amh",
-      "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-08-31T07:30:52.8294466+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 379
+    },
+    {
+      "Time": "2022-08-31T20:01:20.8060444+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 381
+    },
+    {
+      "Time": "2022-09-01T03:30:44.415067+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 382
+    },
+    {
+      "Time": "2022-09-01T14:32:55.9213957+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 383
+    },
+    {
+      "Time": "2022-09-02T14:01:33.0376809+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 384
+    },
+    {
+      "Time": "2022-09-03T15:30:57.7332267+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 387
+    },
+    {
+      "Time": "2022-09-05T01:30:55.3524826+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 389
     },
-    {
-      "ID": "Buy_10_Resource",
-      "SetID": "4h07amh",
-      "Name": "Commodity Trader - Level 2",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 6
+    {
+      "Time": "2022-09-05T14:00:46.6794721+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 390
+    },
+    {
+      "Time": "2022-09-05T20:00:49.6487084+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 391
+    },
+    {
+      "Time": "2022-09-06T07:00:48.0321939+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 394
+    },
+    {
+      "Time": "2022-09-06T18:03:05.0522008+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 397
     },
-    {
-      "ID": "Buy_30_Resource",
-      "SetID": "4h07amh",
-      "Name": "Commodity Guru",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-07T18:01:23.3426775+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 398
     },
-    {
-      "ID": "Buy_Resource",
-      "SetID": "4h07amh",
-      "Name": "Commodity Trader",
-      "Percentage": 32,
-      "XP": 5,
-      "UsersEstimate": 1764
+    {
+      "Time": "2022-09-07T19:01:25.2497004+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 399
     },
-    {
-      "ID": "Collect_15_Anomalies",
-      "SetID": "4h07amh",
-      "Name": "Anomaly Researcher",
-      "Percentage": 63,
-      "XP": 5,
-      "UsersEstimate": 3472
+    {
+      "Time": "2022-09-07T22:31:48.8804158+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 400
     },
-    {
-      "ID": "Control_All_Relics",
-      "SetID": "4h07amh",
-      "Name": "Relic Hoarder",
-      "Percentage": 0.2,
-      "XP": 15,
-      "UsersEstimate": 11
+    {
+      "Time": "2022-09-08T04:31:00.4328131+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 401
     },
-    {
-      "ID": "Destroy_8_Pirate_Bases",
-      "SetID": "4h07amh",
-      "Name": "Pirate Cleansing",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 165
+    {
+      "Time": "2022-09-09T04:31:14.2304562+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 405
     },
-    {
-      "ID": "Destroy_Any_Faction",
-      "SetID": "4h07amh",
-      "Name": "Xenocide",
-      "Percentage": 33,
-      "XP": 10,
-      "UsersEstimate": 1819
+    {
+      "Time": "2022-09-09T10:01:24.3769817+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 406
     },
-    {
-      "ID": "Destroy_Iconians_As_Yor",
-      "SetID": "4h07amh",
-      "Name": "Yor Dead Iconians",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-09T15:31:14.36816+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 407
     },
-    {
-      "ID": "First_Civ_Designed",
-      "SetID": "4h07amh",
-      "Name": "Design a Civilization",
-      "Percentage": 32,
-      "XP": 5,
-      "UsersEstimate": 1764
+    {
+      "Time": "2022-09-10T21:30:54.6552289+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 408
     },
-    {
-      "ID": "First_Major_Ally",
-      "SetID": "4h07amh",
-      "Name": "Gain an Ally",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 331
+    {
+      "Time": "2022-09-11T13:30:51.9470219+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 410
     },
-    {
-      "ID": "First_Nebula_Anomaly",
-      "SetID": "4h07amh",
-      "Name": "Discover a Nebula",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 6
+    {
+      "Time": "2022-09-11T18:00:56.0711832+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 411
     },
-    {
-      "ID": "First_Planet_Colonized",
-      "SetID": "4h07amh",
-      "Name": "Colonize a Planet",
-      "Percentage": 79,
-      "XP": 5,
-      "UsersEstimate": 4354
+    {
+      "Time": "2022-09-14T05:31:44.3760531+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 412
     },
-    {
-      "ID": "First_Race_Met",
-      "SetID": "4h07amh",
-      "Name": "First Contact",
-      "Percentage": 74,
-      "XP": 5,
-      "UsersEstimate": 4078
+    {
+      "Time": "2022-09-15T00:01:40.4761817+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 413
     },
-    {
-      "ID": "First_Ship_Designed",
-      "SetID": "4h07amh",
-      "Name": "Design a Ship",
-      "Percentage": 29,
-      "XP": 5,
-      "UsersEstimate": 1598
+    {
+      "Time": "2022-09-16T18:30:48.6954461+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 415
     },
-    {
-      "ID": "First_Stream_Travel",
-      "SetID": "4h07amh",
-      "Name": "Hyperspace!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-17T10:00:48.9314221+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 416
     },
-    {
-      "ID": "First_Worker_Specialization",
-      "SetID": "4h07amh",
-      "Name": "Worker Specialization",
-      "Percentage": 78,
-      "XP": 5,
-      "UsersEstimate": 4299
+    {
+      "Time": "2022-09-17T21:30:47.2994602+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 417
     },
-    {
-      "ID": "GA_Against_The_Tide",
-      "SetID": "4h07amh",
-      "Name": "Against the Tide",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-18T08:00:53.0863431+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 418
     },
-    {
-      "ID": "GA_Breeding_Season",
-      "SetID": "4h07amh",
-      "Name": "Breeding Season",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-18T13:01:05.9381416+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 419
     },
-    {
-      "ID": "GA_Orb_Of_Draginol",
-      "SetID": "4h07amh",
-      "Name": "The Orb of Draginol",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-18T20:30:53.4036832+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 420
     },
-    {
-      "ID": "GA_Shard_Of_The_Mithrilar",
-      "SetID": "4h07amh",
-      "Name": "Shard of the Mithrilar",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-19T01:30:53.4957854+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 421
     },
-    {
-      "ID": "GA_The_Everwar",
-      "SetID": "4h07amh",
-      "Name": "The Everwar",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-19T09:01:03.3655907+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 422
     },
-    {
-      "ID": "GA_The_Plague",
-      "SetID": "4h07amh",
-      "Name": "The Plague",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-19T16:31:00.0477091+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 423
     },
-    {
-      "ID": "Have_Many_TradeRoutes",
-      "SetID": "4h07amh",
-      "Name": "Trading Partner",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 496
+    {
+      "Time": "2022-09-19T18:31:02.5467217+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 424
     },
-    {
-      "ID": "Level_5_Ship",
-      "SetID": "4h07amh",
-      "Name": "Veteran Crew",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-20T08:01:36.9798081+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 425
     },
-    {
-      "ID": "Minor_Civ_Quest",
-      "SetID": "4h07amh",
-      "Name": "Complete a Minor Civilization Quest",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-20T19:01:42.8100885+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 427
     },
-    {
-      "ID": "Own_30_Planets",
-      "SetID": "4h07amh",
-      "Name": "Own 30 Planets",
-      "Percentage": 35,
-      "XP": 15,
-      "UsersEstimate": 1929
+    {
+      "Time": "2022-09-22T18:01:53.1306303+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 428
     },
-    {
-      "ID": "Play_1000_Hours",
-      "SetID": "4h07amh",
-      "Name": "Play for 1000 Hours",
-      "Percentage": 0.1,
-      "XP": 35,
-      "UsersEstimate": 6
+    {
+      "Time": "2022-09-23T06:30:48.7710676+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 429
     },
-    {
-      "ID": "Play_100_Hours",
-      "SetID": "4h07amh",
-      "Name": "Play for 100 Hours",
-      "Percentage": 0.1,
-      "XP": 15,
-      "UsersEstimate": 6
+    {
+      "Time": "2022-09-25T01:01:05.3998093+00:00",
+      "Rating": 4.23
     },
-    {
-      "ID": "Play_5_Hours",
-      "SetID": "4h07amh",
-      "Name": "Play for 5 Hours",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 6
+    {
+      "Time": "2022-09-25T18:00:53.6340243+00:00",
+      "Rating": 4.24
     },
-    {
-      "ID": "Play_Multiplayer",
-      "SetID": "4h07amh",
-      "Name": "Play a Multiplayer Game",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-09-30T11:01:33.0797123+00:00",
+      "Rating": 4.23
     },
-    {
-      "ID": "Rebuild_The_Retribution",
-      "SetID": "4h07amh",
-      "Name": "Rebuild the Retribution",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-10-02T20:30:59.9133326+00:00",
+      "Rating": 4.24
     },
-    {
-      "ID": "Recapture_Home_Planet",
-      "SetID": "4h07amh",
-      "Name": "It\u0027s OUR Homeworld",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 6
+    {
+      "Time": "2022-10-07T05:30:54.3619718+00:00",
+      "Rating": 4.23
     },
-    {
-      "ID": "Recruit_12_Leaders",
-      "SetID": "4h07amh",
-      "Name": "Recruit a Dozen Leaders",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-10-27T18:01:17.2795687+00:00",
+      "Rating": 4.22
     },
-    {
-      "ID": "Recruit_Leader",
-      "SetID": "4h07amh",
-      "Name": "Recruit a Leader",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-11-01T06:00:55.9384983+00:00",
+      "Rating": 4.23
     },
-    {
-      "ID": "Sell_10_Resource",
-      "SetID": "4h07amh",
-      "Name": "Commodity Seller, Level 2",
-      "Percentage": 0.2,
-      "XP": 5,
-      "UsersEstimate": 11
+    {
+      "Time": "2022-11-02T03:30:50.1592069+00:00",
+      "Rating": 4.22
     },
-    {
-      "ID": "Sell_30_Resource",
-      "SetID": "4h07amh",
-      "Name": "Commodity Selling Guru",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
+    {
+      "Time": "2022-11-12T13:17:54.0800457+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "Sell_Resource",
-      "SetID": "4h07amh",
-      "Name": "Commodity Seller",
-      "Percentage": 26,
-      "XP": 5,
-      "UsersEstimate": 1433
+    {
+      "Time": "2022-11-12T18:57:24.0046652+00:00",
+      "Rating": 4.22
     },
-    {
-      "ID": "Take_Iconia_From_Yor_As_Iconians",
-      "SetID": "4h07amh",
-      "Name": "Iconia Reclaimed!",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 17
+    {
+      "Time": "2022-11-13T03:47:34.7581071+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "Use_Artifact_Power",
-      "SetID": "4h07amh",
-      "Name": "Unleash My Power",
-      "Percentage": 62,
-      "XP": 5,
-      "UsersEstimate": 3417
+    {
+      "Time": "2022-11-21T23:57:13.3846651+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "Use_X_Artifact_Powers",
-      "SetID": "4h07amh",
-      "Name": "Artifact Mastery",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 110
+    {
+      "Time": "2022-11-22T19:57:16.8703431+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "War_With_5_Factions",
-      "SetID": "4h07amh",
-      "Name": "Galactic War",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 606
+    {
+      "Time": "2022-11-23T05:57:05.2266555+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "War_Without_Translator",
-      "SetID": "4h07amh",
-      "Name": "War with the Unknown",
-      "Percentage": 5,
-      "XP": 5,
-      "UsersEstimate": 276
+    {
+      "Time": "2022-11-27T09:57:36.4992055+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "Win_As_Altarian",
-      "SetID": "4h07amh",
-      "Name": "Win as Altarians",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 110
+    {
+      "Time": "2022-11-28T02:19:48.9853841+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "Win_As_Arcean",
-      "SetID": "4h07amh",
-      "Name": "Win as Arceans",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 55
+    {
+      "Time": "2022-12-20T02:57:15.9195848+00:00",
+      "Rating": 4.19
     },
-    {
-      "ID": "Win_As_Baratak",
-      "SetID": "4h07amh",
-      "Name": "Win as the Baratak",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 55
+    {
+      "Time": "2023-02-27T02:14:15.7293347+00:00",
+      "Rating": 4.18
     },
-    {
-      "ID": "Win_As_Drath",
-      "SetID": "4h07amh",
-      "Name": "Win as the Drath",
-      "Percentage": 0.7,
-      "XP": 20,
-      "UsersEstimate": 39
+    {
+      "Time": "2023-03-10T14:57:20.2040489+00:00",
+      "Rating": 4.19
     },
-    {
-      "ID": "Win_As_Drengin",
-      "SetID": "4h07amh",
-      "Name": "Win as the Drengin",
-      "Percentage": 0.7,
-      "XP": 20,
-      "UsersEstimate": 39
+    {
+      "Time": "2023-04-02T05:57:12.1688674+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 641,
+      "NumberOfAwardsMax": 84
     },
-    {
-      "ID": "Win_As_Festron",
-      "SetID": "4h07amh",
-      "Name": "Win as Festron",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 55
+    {
+      "Time": "2023-04-08T19:57:16.5134363+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 85
     },
-    {
-      "ID": "Win_As_Iconian",
-      "SetID": "4h07amh",
-      "Name": "Win as the Iconians",
-      "Percentage": 0.6,
-      "XP": 20,
-      "UsersEstimate": 33
+    {
+      "Time": "2023-04-13T23:57:11.5395572+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 644,
+      "NumberOfAwardsMax": 86
     },
-    {
-      "ID": "Win_As_Iridium",
-      "SetID": "4h07amh",
-      "Name": "Win as the Iridium",
-      "Percentage": 0.6,
-      "XP": 20,
-      "UsersEstimate": 33
+    {
+      "Time": "2023-04-14T09:57:28.6884447+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 645,
+      "NumberOfAwardsMax": 86
     },
-    {
-      "ID": "Win_As_Krynn",
-      "SetID": "4h07amh",
-      "Name": "Win as the Krynn",
-      "Percentage": 0.7,
-      "XP": 20,
-      "UsersEstimate": 39
+    {
+      "Time": "2023-04-19T01:58:56.1809931+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 86
     },
-    {
-      "ID": "Win_As_Manti",
-      "SetID": "4h07amh",
-      "Name": "Win as the Manti",
-      "Percentage": 0.7,
-      "XP": 20,
-      "UsersEstimate": 39
+    {
+      "Time": "2023-04-21T14:57:22.4768752+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 648,
+      "NumberOfAwardsMax": 87
     },
-    {
-      "ID": "Win_As_Mimot",
-      "SetID": "4h07amh",
-      "Name": "Win as the Mimot",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 55
+    {
+      "Time": "2023-04-23T02:06:02.2624952+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 649,
+      "NumberOfAwardsMax": 87
     },
-    {
-      "ID": "Win_As_Navigators",
-      "SetID": "4h07amh",
-      "Name": "Win as the Navigators",
-      "Percentage": 0.9,
-      "XP": 20,
-      "UsersEstimate": 50
+    {
+      "Time": "2023-04-25T11:57:14.8234358+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 651,
+      "NumberOfAwardsMax": 87
     },
-    {
-      "ID": "Win_As_Onyx",
-      "SetID": "4h07amh",
-      "Name": "Win as the Onyx",
-      "Percentage": 0.6,
-      "XP": 20,
-      "UsersEstimate": 33
+    {
+      "Time": "2023-04-25T16:37:14.2410114+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 652,
+      "NumberOfAwardsMax": 88
     },
-    {
-      "ID": "Win_As_Terran",
-      "SetID": "4h07amh",
-      "Name": "Win as Terrans",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 386
+    {
+      "Time": "2023-04-28T22:57:07.4698208+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 653,
+      "NumberOfAwardsMax": 89
     },
-    {
-      "ID": "Win_As_Torian",
-      "SetID": "4h07amh",
-      "Name": "Win as Torians",
-      "Percentage": 0.9,
-      "XP": 20,
-      "UsersEstimate": 50
+    {
+      "Time": "2023-04-29T01:56:35.8815511+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 654,
+      "NumberOfAwardsMax": 89
     },
-    {
-      "ID": "Win_As_Xeloxi",
-      "SetID": "4h07amh",
-      "Name": "Win as Xeloxi",
-      "Percentage": 0.8,
-      "XP": 20,
-      "UsersEstimate": 44
-    },
-    {
-      "ID": "Win_As_Yor",
-      "SetID": "4h07amh",
-      "Name": "Win as the Yor",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 110
-    },
-    {
-      "ID": "Win_Battle",
-      "SetID": "4h07amh",
-      "Name": "Win a Battle",
-      "Percentage": 67,
-      "XP": 5,
-      "UsersEstimate": 3692
-    },
-    {
-      "ID": "Win_Battle_Against_Many_Ships",
-      "SetID": "4h07amh",
-      "Name": "Fleet Victory",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 441
-    },
-    {
-      "ID": "Win_Conquest",
-      "SetID": "4h07amh",
-      "Name": "Conquest Victory!",
-      "Percentage": 4,
-      "XP": 50,
-      "UsersEstimate": 220
-    },
-    {
-      "ID": "Win_CustomFaction",
-      "SetID": "4h07amh",
-      "Name": "Win with a Custom Faction",
-      "Percentage": 7,
-      "XP": 5,
-      "UsersEstimate": 386
-    },
-    {
-      "ID": "Win_Diplomacy",
-      "SetID": "4h07amh",
-      "Name": "Diplomatic Victory!",
-      "Percentage": 0.7,
-      "XP": 50,
-      "UsersEstimate": 39
-    },
-    {
-      "ID": "Win_ImmenseMap",
-      "SetID": "4h07amh",
-      "Name": "Win an Immense Game",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 165
-    },
-    {
-      "ID": "Win_Influence",
-      "SetID": "4h07amh",
-      "Name": "Influence Victory!",
-      "Percentage": 2,
-      "XP": 50,
-      "UsersEstimate": 110
-    },
-    {
-      "ID": "Win_Multiplayer",
-      "SetID": "4h07amh",
-      "Name": "Win a Multiplayer Game",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "Win_Prestige",
-      "SetID": "4h07amh",
-      "Name": "Prestige Victory!",
-      "Percentage": 14,
-      "XP": 50,
-      "UsersEstimate": 772
-    },
-    {
-      "ID": "Win_Quickly",
-      "SetID": "4h07amh",
-      "Name": "Win Quickly",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 220
-    },
-    {
-      "ID": "Win_Research",
-      "SetID": "4h07amh",
-      "Name": "Science Victory!",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
+    {
+      "Time": "2023-04-29T02:57:00.1324742+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 655,
+      "NumberOfAwardsMax": 89
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 655,
+  "NumberOfAwardsMax": 89,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -641,6 +732,11 @@
       "Count": 27
     }
   ],
+  "EOS_Progressed": 5511,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 256,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.9117318+00:00",
@@ -1448,671 +1544,586 @@
       "NumCompleted": 0
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:20:44.6509479+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 277
-    },
-    {
-      "Time": "2022-07-23T02:01:40.2455521+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 280
-    },
-    {
-      "Time": "2022-07-24T16:01:36.7404591+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 282
-    },
-    {
-      "Time": "2022-07-24T20:00:47.6836729+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 283
-    },
-    {
-      "Time": "2022-07-25T04:01:07.1739993+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 284
-    },
-    {
-      "Time": "2022-07-25T16:01:24.3370012+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 285
-    },
-    {
-      "Time": "2022-07-27T02:01:34.0417496+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 287
-    },
-    {
-      "Time": "2022-07-27T20:00:44.6835373+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 288
-    },
-    {
-      "Time": "2022-07-27T22:01:03.255879+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 289
-    },
-    {
-      "Time": "2022-07-28T04:00:43.2414779+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 290
-    },
-    {
-      "Time": "2022-07-28T20:00:55.8330057+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 291
-    },
-    {
-      "Time": "2022-07-29T23:00:44.1873741+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 295
-    },
-    {
-      "Time": "2022-07-30T05:30:54.1041547+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 296
-    },
-    {
-      "Time": "2022-07-30T20:00:55.4369475+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 297
-    },
-    {
-      "Time": "2022-07-30T20:30:51.9781844+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 298
-    },
-    {
-      "Time": "2022-07-31T05:00:48.7681172+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 300
-    },
-    {
-      "Time": "2022-07-31T09:31:39.5229297+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 301
-    },
-    {
-      "Time": "2022-08-01T19:30:47.0647461+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 304
-    },
-    {
-      "Time": "2022-08-02T00:00:48.7800363+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 305
-    },
-    {
-      "Time": "2022-08-02T13:30:44.9219378+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": 308
-    },
-    {
-      "Time": "2022-08-03T16:30:49.0382371+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": 310
-    },
-    {
-      "Time": "2022-08-04T11:30:52.2829122+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": 311
-    },
-    {
-      "Time": "2022-08-04T21:00:43.8973703+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": 313
-    },
-    {
-      "Time": "2022-08-05T13:00:54.2538628+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 316
-    },
-    {
-      "Time": "2022-08-05T15:30:51.197486+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 317
-    },
-    {
-      "Time": "2022-08-05T21:00:56.3196847+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 319
-    },
-    {
-      "Time": "2022-08-05T22:00:49.2675073+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 320
-    },
-    {
-      "Time": "2022-08-06T08:00:47.5860803+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 321
-    },
-    {
-      "Time": "2022-08-06T14:30:44.8915851+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 322
-    },
-    {
-      "Time": "2022-08-07T03:01:01.3026353+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 323
-    },
-    {
-      "Time": "2022-08-07T09:01:55.4702226+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 324
-    },
-    {
-      "Time": "2022-08-07T18:30:48.307141+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 326
-    },
-    {
-      "Time": "2022-08-08T01:30:44.182118+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 327
-    },
-    {
-      "Time": "2022-08-09T19:00:50.8305614+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 328
-    },
-    {
-      "Time": "2022-08-10T01:30:46.9597969+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 330
-    },
-    {
-      "Time": "2022-08-10T13:01:17.1986587+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 335
-    },
-    {
-      "Time": "2022-08-10T16:30:47.4802129+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 337
-    },
-    {
-      "Time": "2022-08-11T16:01:19.7894403+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 338
-    },
-    {
-      "Time": "2022-08-12T07:30:47.1306853+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 339
-    },
-    {
-      "Time": "2022-08-12T18:30:53.3167776+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 343
-    },
-    {
-      "Time": "2022-08-13T01:00:50.7614421+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 345
-    },
-    {
-      "Time": "2022-08-13T05:00:37.5785719+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 346
-    },
-    {
-      "Time": "2022-08-13T12:30:44.4497306+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 347
-    },
-    {
-      "Time": "2022-08-14T14:30:51.011176+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 348
-    },
-    {
-      "Time": "2022-08-15T19:31:17.7841339+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 350
-    },
-    {
-      "Time": "2022-08-16T08:31:03.385972+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 351
-    },
-    {
-      "Time": "2022-08-16T15:01:26.2186345+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 352
-    },
-    {
-      "Time": "2022-08-17T19:01:16.704538+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 354
-    },
-    {
-      "Time": "2022-08-18T03:01:13.1990336+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 355
-    },
-    {
-      "Time": "2022-08-19T03:00:59.133411+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 356
-    },
-    {
-      "Time": "2022-08-19T17:31:28.1985391+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 358
-    },
-    {
-      "Time": "2022-08-20T03:30:43.7594711+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 359
-    },
-    {
-      "Time": "2022-08-20T16:30:45.5100354+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 360
-    },
-    {
-      "Time": "2022-08-20T21:00:46.5301521+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 361
-    },
-    {
-      "Time": "2022-08-21T23:30:46.1139762+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 362
-    },
-    {
-      "Time": "2022-08-22T22:01:00.4136224+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 363
-    },
-    {
-      "Time": "2022-08-23T14:31:16.9887295+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 364
-    },
-    {
-      "Time": "2022-08-24T08:01:22.6188573+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 366
-    },
-    {
-      "Time": "2022-08-25T09:00:53.8159245+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 367
-    },
-    {
-      "Time": "2022-08-26T12:30:50.4876493+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": 369
-    },
-    {
-      "Time": "2022-08-28T02:01:59.3021508+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 373
-    },
-    {
-      "Time": "2022-08-28T20:00:50.6262675+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 374
-    },
-    {
-      "Time": "2022-08-30T05:00:50.9168378+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 375
-    },
-    {
-      "Time": "2022-08-30T22:02:35.4466277+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 378
-    },
-    {
-      "Time": "2022-08-31T07:30:52.8294466+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 379
-    },
-    {
-      "Time": "2022-08-31T20:01:20.8060444+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 381
-    },
-    {
-      "Time": "2022-09-01T03:30:44.415067+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 382
-    },
-    {
-      "Time": "2022-09-01T14:32:55.9213957+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 383
-    },
-    {
-      "Time": "2022-09-02T14:01:33.0376809+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 384
-    },
-    {
-      "Time": "2022-09-03T15:30:57.7332267+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 387
-    },
-    {
-      "Time": "2022-09-05T01:30:55.3524826+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 389
-    },
-    {
-      "Time": "2022-09-05T14:00:46.6794721+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 390
-    },
-    {
-      "Time": "2022-09-05T20:00:49.6487084+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 391
-    },
-    {
-      "Time": "2022-09-06T07:00:48.0321939+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 394
-    },
-    {
-      "Time": "2022-09-06T18:03:05.0522008+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 397
-    },
-    {
-      "Time": "2022-09-07T18:01:23.3426775+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 398
-    },
-    {
-      "Time": "2022-09-07T19:01:25.2497004+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 399
-    },
-    {
-      "Time": "2022-09-07T22:31:48.8804158+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 400
-    },
-    {
-      "Time": "2022-09-08T04:31:00.4328131+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 401
-    },
-    {
-      "Time": "2022-09-09T04:31:14.2304562+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 405
-    },
-    {
-      "Time": "2022-09-09T10:01:24.3769817+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 406
-    },
-    {
-      "Time": "2022-09-09T15:31:14.36816+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 407
-    },
-    {
-      "Time": "2022-09-10T21:30:54.6552289+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 408
-    },
-    {
-      "Time": "2022-09-11T13:30:51.9470219+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 410
-    },
-    {
-      "Time": "2022-09-11T18:00:56.0711832+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 411
-    },
-    {
-      "Time": "2022-09-14T05:31:44.3760531+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 412
-    },
-    {
-      "Time": "2022-09-15T00:01:40.4761817+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 413
-    },
-    {
-      "Time": "2022-09-16T18:30:48.6954461+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 415
-    },
-    {
-      "Time": "2022-09-17T10:00:48.9314221+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 416
-    },
-    {
-      "Time": "2022-09-17T21:30:47.2994602+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 417
-    },
-    {
-      "Time": "2022-09-18T08:00:53.0863431+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 418
-    },
-    {
-      "Time": "2022-09-18T13:01:05.9381416+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 419
-    },
-    {
-      "Time": "2022-09-18T20:30:53.4036832+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 420
-    },
-    {
-      "Time": "2022-09-19T01:30:53.4957854+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 421
-    },
-    {
-      "Time": "2022-09-19T09:01:03.3655907+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 422
-    },
-    {
-      "Time": "2022-09-19T16:31:00.0477091+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 423
-    },
-    {
-      "Time": "2022-09-19T18:31:02.5467217+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 424
-    },
-    {
-      "Time": "2022-09-20T08:01:36.9798081+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 425
-    },
-    {
-      "Time": "2022-09-20T19:01:42.8100885+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 427
-    },
-    {
-      "Time": "2022-09-22T18:01:53.1306303+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 428
-    },
-    {
-      "Time": "2022-09-23T06:30:48.7710676+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 429
-    },
-    {
-      "Time": "2022-09-25T01:01:05.3998093+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2022-09-25T18:00:53.6340243+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-09-30T11:01:33.0797123+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2022-10-02T20:30:59.9133326+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-10-07T05:30:54.3619718+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2022-10-27T18:01:17.2795687+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2022-11-01T06:00:55.9384983+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2022-11-02T03:30:50.1592069+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2022-11-12T13:17:54.0800457+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2022-11-12T18:57:24.0046652+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2022-11-13T03:47:34.7581071+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2022-11-21T23:57:13.3846651+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2022-11-22T19:57:16.8703431+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2022-11-23T05:57:05.2266555+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2022-11-27T09:57:36.4992055+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2022-11-28T02:19:48.9853841+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2022-12-20T02:57:15.9195848+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-02-27T02:14:15.7293347+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2023-03-10T14:57:20.2040489+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-04-02T05:57:12.1688674+00:00",
-      "Rating": 4.19,
-      "NumberOfAwards": 641,
-      "NumberOfAwardsMax": 84
-    },
-    {
-      "Time": "2023-04-08T19:57:16.5134363+00:00",
-      "Rating": 4.19,
-      "NumberOfAwards": 642,
-      "NumberOfAwardsMax": 85
-    },
-    {
-      "Time": "2023-04-13T23:57:11.5395572+00:00",
-      "Rating": 4.19,
-      "NumberOfAwards": 644,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-14T09:57:28.6884447+00:00",
-      "Rating": 4.19,
-      "NumberOfAwards": 645,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-19T01:58:56.1809931+00:00",
-      "Rating": 4.19,
-      "NumberOfAwards": 646,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-21T14:57:22.4768752+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 648,
-      "NumberOfAwardsMax": 87
-    },
-    {
-      "Time": "2023-04-23T02:06:02.2624952+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 649,
-      "NumberOfAwardsMax": 87
-    },
-    {
-      "Time": "2023-04-25T11:57:14.8234358+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 651,
-      "NumberOfAwardsMax": 87
-    },
-    {
-      "Time": "2023-04-25T16:37:14.2410114+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 652,
-      "NumberOfAwardsMax": 88
-    },
-    {
-      "Time": "2023-04-28T22:57:07.4698208+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 653,
-      "NumberOfAwardsMax": 89
-    },
-    {
-      "Time": "2023-04-29T01:56:35.8815511+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 654,
-      "NumberOfAwardsMax": 89
-    },
-    {
-      "Time": "2023-04-29T02:57:00.1324742+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 655,
-      "NumberOfAwardsMax": 89
+  "TotalAchievements": 72,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "10000_Credits",
+      "SetID": "4h07amh",
+      "Name": "Solid Economy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30_Citizens",
+      "SetID": "4h07amh",
+      "Name": "Ask Not What Your Empire Can Do For You",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Buy_10_Resource",
+      "SetID": "4h07amh",
+      "Name": "Commodity Trader - Level 2",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Buy_30_Resource",
+      "SetID": "4h07amh",
+      "Name": "Commodity Guru",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Buy_Resource",
+      "SetID": "4h07amh",
+      "Name": "Commodity Trader",
+      "Percentage": 32,
+      "XP": 5,
+      "UsersEstimate": 1764
+    },
+    {
+      "ID": "Collect_15_Anomalies",
+      "SetID": "4h07amh",
+      "Name": "Anomaly Researcher",
+      "Percentage": 63,
+      "XP": 5,
+      "UsersEstimate": 3472
+    },
+    {
+      "ID": "Control_All_Relics",
+      "SetID": "4h07amh",
+      "Name": "Relic Hoarder",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "Destroy_8_Pirate_Bases",
+      "SetID": "4h07amh",
+      "Name": "Pirate Cleansing",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "Destroy_Any_Faction",
+      "SetID": "4h07amh",
+      "Name": "Xenocide",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 1819
+    },
+    {
+      "ID": "Destroy_Iconians_As_Yor",
+      "SetID": "4h07amh",
+      "Name": "Yor Dead Iconians",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "First_Civ_Designed",
+      "SetID": "4h07amh",
+      "Name": "Design a Civilization",
+      "Percentage": 32,
+      "XP": 5,
+      "UsersEstimate": 1764
+    },
+    {
+      "ID": "First_Major_Ally",
+      "SetID": "4h07amh",
+      "Name": "Gain an Ally",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 331
+    },
+    {
+      "ID": "First_Nebula_Anomaly",
+      "SetID": "4h07amh",
+      "Name": "Discover a Nebula",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "First_Planet_Colonized",
+      "SetID": "4h07amh",
+      "Name": "Colonize a Planet",
+      "Percentage": 79,
+      "XP": 5,
+      "UsersEstimate": 4354
+    },
+    {
+      "ID": "First_Race_Met",
+      "SetID": "4h07amh",
+      "Name": "First Contact",
+      "Percentage": 74,
+      "XP": 5,
+      "UsersEstimate": 4078
+    },
+    {
+      "ID": "First_Ship_Designed",
+      "SetID": "4h07amh",
+      "Name": "Design a Ship",
+      "Percentage": 29,
+      "XP": 5,
+      "UsersEstimate": 1598
+    },
+    {
+      "ID": "First_Stream_Travel",
+      "SetID": "4h07amh",
+      "Name": "Hyperspace!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "First_Worker_Specialization",
+      "SetID": "4h07amh",
+      "Name": "Worker Specialization",
+      "Percentage": 78,
+      "XP": 5,
+      "UsersEstimate": 4299
+    },
+    {
+      "ID": "GA_Against_The_Tide",
+      "SetID": "4h07amh",
+      "Name": "Against the Tide",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GA_Breeding_Season",
+      "SetID": "4h07amh",
+      "Name": "Breeding Season",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GA_Orb_Of_Draginol",
+      "SetID": "4h07amh",
+      "Name": "The Orb of Draginol",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GA_Shard_Of_The_Mithrilar",
+      "SetID": "4h07amh",
+      "Name": "Shard of the Mithrilar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GA_The_Everwar",
+      "SetID": "4h07amh",
+      "Name": "The Everwar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GA_The_Plague",
+      "SetID": "4h07amh",
+      "Name": "The Plague",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Have_Many_TradeRoutes",
+      "SetID": "4h07amh",
+      "Name": "Trading Partner",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 496
+    },
+    {
+      "ID": "Level_5_Ship",
+      "SetID": "4h07amh",
+      "Name": "Veteran Crew",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Minor_Civ_Quest",
+      "SetID": "4h07amh",
+      "Name": "Complete a Minor Civilization Quest",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Own_30_Planets",
+      "SetID": "4h07amh",
+      "Name": "Own 30 Planets",
+      "Percentage": 35,
+      "XP": 15,
+      "UsersEstimate": 1929
+    },
+    {
+      "ID": "Play_1000_Hours",
+      "SetID": "4h07amh",
+      "Name": "Play for 1000 Hours",
+      "Percentage": 0.1,
+      "XP": 35,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Play_100_Hours",
+      "SetID": "4h07amh",
+      "Name": "Play for 100 Hours",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Play_5_Hours",
+      "SetID": "4h07amh",
+      "Name": "Play for 5 Hours",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Play_Multiplayer",
+      "SetID": "4h07amh",
+      "Name": "Play a Multiplayer Game",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rebuild_The_Retribution",
+      "SetID": "4h07amh",
+      "Name": "Rebuild the Retribution",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Recapture_Home_Planet",
+      "SetID": "4h07amh",
+      "Name": "It\u0027s OUR Homeworld",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Recruit_12_Leaders",
+      "SetID": "4h07amh",
+      "Name": "Recruit a Dozen Leaders",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Recruit_Leader",
+      "SetID": "4h07amh",
+      "Name": "Recruit a Leader",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sell_10_Resource",
+      "SetID": "4h07amh",
+      "Name": "Commodity Seller, Level 2",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "Sell_30_Resource",
+      "SetID": "4h07amh",
+      "Name": "Commodity Selling Guru",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sell_Resource",
+      "SetID": "4h07amh",
+      "Name": "Commodity Seller",
+      "Percentage": 26,
+      "XP": 5,
+      "UsersEstimate": 1433
+    },
+    {
+      "ID": "Take_Iconia_From_Yor_As_Iconians",
+      "SetID": "4h07amh",
+      "Name": "Iconia Reclaimed!",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "Use_Artifact_Power",
+      "SetID": "4h07amh",
+      "Name": "Unleash My Power",
+      "Percentage": 62,
+      "XP": 5,
+      "UsersEstimate": 3417
+    },
+    {
+      "ID": "Use_X_Artifact_Powers",
+      "SetID": "4h07amh",
+      "Name": "Artifact Mastery",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "War_With_5_Factions",
+      "SetID": "4h07amh",
+      "Name": "Galactic War",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 606
+    },
+    {
+      "ID": "War_Without_Translator",
+      "SetID": "4h07amh",
+      "Name": "War with the Unknown",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 276
+    },
+    {
+      "ID": "Win_As_Altarian",
+      "SetID": "4h07amh",
+      "Name": "Win as Altarians",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "Win_As_Arcean",
+      "SetID": "4h07amh",
+      "Name": "Win as Arceans",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "Win_As_Baratak",
+      "SetID": "4h07amh",
+      "Name": "Win as the Baratak",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "Win_As_Drath",
+      "SetID": "4h07amh",
+      "Name": "Win as the Drath",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "Win_As_Drengin",
+      "SetID": "4h07amh",
+      "Name": "Win as the Drengin",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "Win_As_Festron",
+      "SetID": "4h07amh",
+      "Name": "Win as Festron",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "Win_As_Iconian",
+      "SetID": "4h07amh",
+      "Name": "Win as the Iconians",
+      "Percentage": 0.6,
+      "XP": 20,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "Win_As_Iridium",
+      "SetID": "4h07amh",
+      "Name": "Win as the Iridium",
+      "Percentage": 0.6,
+      "XP": 20,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "Win_As_Krynn",
+      "SetID": "4h07amh",
+      "Name": "Win as the Krynn",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "Win_As_Manti",
+      "SetID": "4h07amh",
+      "Name": "Win as the Manti",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "Win_As_Mimot",
+      "SetID": "4h07amh",
+      "Name": "Win as the Mimot",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "Win_As_Navigators",
+      "SetID": "4h07amh",
+      "Name": "Win as the Navigators",
+      "Percentage": 0.9,
+      "XP": 20,
+      "UsersEstimate": 50
+    },
+    {
+      "ID": "Win_As_Onyx",
+      "SetID": "4h07amh",
+      "Name": "Win as the Onyx",
+      "Percentage": 0.6,
+      "XP": 20,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "Win_As_Terran",
+      "SetID": "4h07amh",
+      "Name": "Win as Terrans",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 386
+    },
+    {
+      "ID": "Win_As_Torian",
+      "SetID": "4h07amh",
+      "Name": "Win as Torians",
+      "Percentage": 0.9,
+      "XP": 20,
+      "UsersEstimate": 50
+    },
+    {
+      "ID": "Win_As_Xeloxi",
+      "SetID": "4h07amh",
+      "Name": "Win as Xeloxi",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 44
+    },
+    {
+      "ID": "Win_As_Yor",
+      "SetID": "4h07amh",
+      "Name": "Win as the Yor",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "Win_Battle",
+      "SetID": "4h07amh",
+      "Name": "Win a Battle",
+      "Percentage": 67,
+      "XP": 5,
+      "UsersEstimate": 3692
+    },
+    {
+      "ID": "Win_Battle_Against_Many_Ships",
+      "SetID": "4h07amh",
+      "Name": "Fleet Victory",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 441
+    },
+    {
+      "ID": "Win_Conquest",
+      "SetID": "4h07amh",
+      "Name": "Conquest Victory!",
+      "Percentage": 4,
+      "XP": 50,
+      "UsersEstimate": 220
+    },
+    {
+      "ID": "Win_CustomFaction",
+      "SetID": "4h07amh",
+      "Name": "Win with a Custom Faction",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 386
+    },
+    {
+      "ID": "Win_Diplomacy",
+      "SetID": "4h07amh",
+      "Name": "Diplomatic Victory!",
+      "Percentage": 0.7,
+      "XP": 50,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "Win_ImmenseMap",
+      "SetID": "4h07amh",
+      "Name": "Win an Immense Game",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "Win_Influence",
+      "SetID": "4h07amh",
+      "Name": "Influence Victory!",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "Win_Multiplayer",
+      "SetID": "4h07amh",
+      "Name": "Win a Multiplayer Game",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Win_Prestige",
+      "SetID": "4h07amh",
+      "Name": "Prestige Victory!",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 772
+    },
+    {
+      "ID": "Win_Quickly",
+      "SetID": "4h07amh",
+      "Name": "Win Quickly",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 220
+    },
+    {
+      "ID": "Win_Research",
+      "SetID": "4h07amh",
+      "Name": "Science Victory!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 72,
-  "LastChanged_Achievements": "2023-05-05T16:07:16.4633798+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 260,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 5511,
-  "LastUpdate_Achievements": "2023-05-05T16:07:16.4634962+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:56.3822682+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:54.2385396+00:00",
   "AchievementSets": [
     {
       "ID": "4h07amh",
@@ -2121,21 +2132,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "ProductSlug": "galactic-civilizations-iv",
-  "Rating": 4.18,
-  "Ranking_Rating": 821,
-  "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 266,
-  "Ranking_EOS_Progress": 116,
-  "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 429,
-  "NumberOfAwards": 655,
-  "NumberOfAwardsMax": 89,
-  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "Ranking_EOS_NewPlayers": 94
+  "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
+  "LastChanged": "2023-04-29T02:57:00.132474+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:08.496694+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:46.9488351+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:08.4967715+00:00"
 }

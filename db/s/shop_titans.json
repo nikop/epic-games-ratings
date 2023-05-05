@@ -1,2071 +1,16 @@
 {
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
-  "Achievements": [
-    {
-      "ID": "advlevel01",
-      "SetID": "anfd17p",
-      "Name": "The Daily Grind",
-      "Percentage": 46,
-      "XP": 5,
-      "UsersEstimate": 58693
-    },
-    {
-      "ID": "advlevel02",
-      "SetID": "anfd17p",
-      "Name": "On the Path to Greatness",
-      "Percentage": 28,
-      "XP": 10,
-      "UsersEstimate": 35726
-    },
-    {
-      "ID": "advlevel03",
-      "SetID": "anfd17p",
-      "Name": "A Notch Above the Rest",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 19139
-    },
-    {
-      "ID": "advlevel04",
-      "SetID": "anfd17p",
-      "Name": "Cream of the Crop",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 10207
-    },
-    {
-      "ID": "advlevel05",
-      "SetID": "anfd17p",
-      "Name": "Top of the World",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "argon_a",
-      "SetID": "anfd17p",
-      "Name": "Proud Paladin",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 5104
-    },
-    {
-      "ID": "ascend01",
-      "SetID": "anfd17p",
-      "Name": "Ascended",
-      "Percentage": 28,
-      "XP": 5,
-      "UsersEstimate": 35726
-    },
-    {
-      "ID": "ascend02",
-      "SetID": "anfd17p",
-      "Name": "Above the Norm",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 14035
-    },
-    {
-      "ID": "ascend03",
-      "SetID": "anfd17p",
-      "Name": "Constellated",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 3828
-    },
-    {
-      "ID": "ashley_a",
-      "SetID": "anfd17p",
-      "Name": "A Ronin Reborn",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 893
-    },
-    {
-      "ID": "bigsale01",
-      "SetID": "anfd17p",
-      "Name": "One Easy Payment",
-      "Percentage": 60,
-      "XP": 5,
-      "UsersEstimate": 76556
-    },
-    {
-      "ID": "bigsale02",
-      "SetID": "anfd17p",
-      "Name": "Tax not Included",
-      "Percentage": 20,
-      "XP": 10,
-      "UsersEstimate": 25519
-    },
-    {
-      "ID": "bigsale03",
-      "SetID": "anfd17p",
-      "Name": "The King\u0027s Caprice",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 10207
-    },
-    {
-      "ID": "blueprint01",
-      "SetID": "anfd17p",
-      "Name": "Some Assembly Required",
-      "Percentage": 59,
-      "XP": 5,
-      "UsersEstimate": 75280
-    },
-    {
-      "ID": "blueprint02",
-      "SetID": "anfd17p",
-      "Name": "Research \u0026 Development",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 31898
-    },
-    {
-      "ID": "blueprint03",
-      "SetID": "anfd17p",
-      "Name": "Thirst for Knowledge",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 6380
-    },
-    {
-      "ID": "bookentry",
-      "SetID": "anfd17p",
-      "Name": "Vanity, Verily",
-      "Percentage": 26,
-      "XP": 10,
-      "UsersEstimate": 33174
-    },
-    {
-      "ID": "boss01",
-      "SetID": "anfd17p",
-      "Name": "Bounty Hunters",
-      "Percentage": 44,
-      "XP": 5,
-      "UsersEstimate": 56141
-    },
-    {
-      "ID": "boss02",
-      "SetID": "anfd17p",
-      "Name": "Big Game Hunting",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 17863
-    },
-    {
-      "ID": "boss03",
-      "SetID": "anfd17p",
-      "Name": "Bane of Legends",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 1276
-    },
-    {
-      "ID": "champions01",
-      "SetID": "anfd17p",
-      "Name": "Fated Encounters",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 26795
-    },
-    {
-      "ID": "chest01",
-      "SetID": "anfd17p",
-      "Name": "Sponsored by Argon",
-      "Percentage": 97,
-      "XP": 5,
-      "UsersEstimate": 123765
-    },
-    {
-      "ID": "chest02",
-      "SetID": "anfd17p",
-      "Name": "For the Hoard!",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 21691
-    },
-    {
-      "ID": "chest03",
-      "SetID": "anfd17p",
-      "Name": "Booty by the Boatload",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 7656
-    },
-    {
-      "ID": "collection01",
-      "SetID": "anfd17p",
-      "Name": "Blank Page Syndrome",
-      "Percentage": 27,
-      "XP": 5,
-      "UsersEstimate": 34450
-    },
-    {
-      "ID": "collection02",
-      "SetID": "anfd17p",
-      "Name": "Scrapbooker",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 19139
-    },
-    {
-      "ID": "collection03",
-      "SetID": "anfd17p",
-      "Name": "Archivist",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 6380
-    },
-    {
-      "ID": "collection04",
-      "SetID": "anfd17p",
-      "Name": "The Free Encyclopedia",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 1276
-    },
-    {
-      "ID": "collection05",
-      "SetID": "anfd17p",
-      "Name": "Ultimate Collector",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 510
-    },
-    {
-      "ID": "commonres01",
-      "SetID": "anfd17p",
-      "Name": "Basic in Bulk",
-      "Percentage": 91,
-      "XP": 5,
-      "UsersEstimate": 116110
-    },
-    {
-      "ID": "commonres02",
-      "SetID": "anfd17p",
-      "Name": "Demand for Supplies",
-      "Percentage": 39,
-      "XP": 10,
-      "UsersEstimate": 49761
-    },
-    {
-      "ID": "commonres03",
-      "SetID": "anfd17p",
-      "Name": "Locally Sourced",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 17863
-    },
-    {
-      "ID": "commonres04",
-      "SetID": "anfd17p",
-      "Name": "Fillin\u0027 the Bin",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 3828
-    },
-    {
-      "ID": "craft01",
-      "SetID": "anfd17p",
-      "Name": "Disintermediation",
-      "Percentage": 76,
-      "XP": 5,
-      "UsersEstimate": 96971
-    },
-    {
-      "ID": "craft02",
-      "SetID": "anfd17p",
-      "Name": "Flooding the Market",
-      "Percentage": 41,
-      "XP": 10,
-      "UsersEstimate": 52313
-    },
-    {
-      "ID": "craft03",
-      "SetID": "anfd17p",
-      "Name": "Flying off the Shelves",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 17863
-    },
-    {
-      "ID": "craft04",
-      "SetID": "anfd17p",
-      "Name": "Industrial Evolution",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 5104
-    },
-    {
-      "ID": "craft05",
-      "SetID": "anfd17p",
-      "Name": "Oligarch Monarch",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 1148
-    },
-    {
-      "ID": "damage01",
-      "SetID": "anfd17p",
-      "Name": "Where it Hurts",
-      "Percentage": 43,
-      "XP": 5,
-      "UsersEstimate": 54865
-    },
-    {
-      "ID": "damage02",
-      "SetID": "anfd17p",
-      "Name": "This Power Level...!",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 19139
-    },
-    {
-      "ID": "damage03",
-      "SetID": "anfd17p",
-      "Name": "Omae wa Mou Shindeiru",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 14035
-    },
-    {
-      "ID": "donovan_a",
-      "SetID": "anfd17p",
-      "Name": "Master of Transmutation",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "enchant01",
-      "SetID": "anfd17p",
-      "Name": "Hidden Potential",
-      "Percentage": 12,
-      "XP": 5,
-      "UsersEstimate": 15311
-    },
-    {
-      "ID": "enchant02",
-      "SetID": "anfd17p",
-      "Name": "Unleashed Potential",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 1276
-    },
-    {
-      "ID": "energy01",
-      "SetID": "anfd17p",
-      "Name": "Another Satisfied Customer",
-      "Percentage": 61,
-      "XP": 5,
-      "UsersEstimate": 77832
-    },
-    {
-      "ID": "energy02",
-      "SetID": "anfd17p",
-      "Name": "Power of Love",
-      "Percentage": 24,
-      "XP": 10,
-      "UsersEstimate": 30622
-    },
-    {
-      "ID": "energy03",
-      "SetID": "anfd17p",
-      "Name": "Supercharged",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 10207
-    },
-    {
-      "ID": "expansion01",
-      "SetID": "anfd17p",
-      "Name": "It\u0027s Free Real Estate",
-      "Percentage": 70,
-      "XP": 5,
-      "UsersEstimate": 89315
-    },
-    {
-      "ID": "expansion02",
-      "SetID": "anfd17p",
-      "Name": "Expansion in Session",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 19139
-    },
-    {
-      "ID": "expansion03",
-      "SetID": "anfd17p",
-      "Name": "Thank You Tom Nook",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 3828
-    },
-    {
-      "ID": "fullmoon",
-      "SetID": "anfd17p",
-      "Name": "Ritualist",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 11483
-    },
-    {
-      "ID": "furniture01",
-      "SetID": "anfd17p",
-      "Name": "Efficient Floor Space",
-      "Percentage": 27,
-      "XP": 5,
-      "UsersEstimate": 34450
-    },
-    {
-      "ID": "furniture02",
-      "SetID": "anfd17p",
-      "Name": "Cranked up to 11",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 14035
-    },
-    {
-      "ID": "furniture03",
-      "SetID": "anfd17p",
-      "Name": "Fit for a King",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 5104
-    },
-    {
-      "ID": "fuseepic",
-      "SetID": "anfd17p",
-      "Name": "By Your Powers Combined...",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 14035
-    },
-    {
-      "ID": "fuseflawless",
-      "SetID": "anfd17p",
-      "Name": "Flawless Fusion",
-      "Percentage": 24,
-      "XP": 10,
-      "UsersEstimate": 30622
-    },
-    {
-      "ID": "fuselegendary",
-      "SetID": "anfd17p",
-      "Name": "A Legend is Born",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 8932
-    },
-    {
-      "ID": "fuseuncommon",
-      "SetID": "anfd17p",
-      "Name": "Trash to Treasure",
-      "Percentage": 18,
-      "XP": 10,
-      "UsersEstimate": 22967
-    },
-    {
-      "ID": "gemsspent",
-      "SetID": "anfd17p",
-      "Name": "Gem Expert",
-      "Percentage": 28,
-      "XP": 10,
-      "UsersEstimate": 35726
-    },
-    {
-      "ID": "gold01",
-      "SetID": "anfd17p",
-      "Name": "Tinkle of Coins",
-      "Percentage": 87,
-      "XP": 5,
-      "UsersEstimate": 111006
-    },
-    {
-      "ID": "gold02",
-      "SetID": "anfd17p",
-      "Name": "Pretty Penny",
-      "Percentage": 57,
-      "XP": 10,
-      "UsersEstimate": 72728
-    },
-    {
-      "ID": "gold03",
-      "SetID": "anfd17p",
-      "Name": "Gild-Gotten Goods",
-      "Percentage": 37,
-      "XP": 10,
-      "UsersEstimate": 47209
-    },
-    {
-      "ID": "gold04",
-      "SetID": "anfd17p",
-      "Name": "Royal Ransom",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 26795
-    },
-    {
-      "ID": "gold05",
-      "SetID": "anfd17p",
-      "Name": "Mammonite",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 15311
-    },
-    {
-      "ID": "gold06",
-      "SetID": "anfd17p",
-      "Name": "Wealth Beyond Measure",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 8932
-    },
-    {
-      "ID": "help01",
-      "SetID": "anfd17p",
-      "Name": "Helping Hand",
-      "Percentage": 28,
-      "XP": 5,
-      "UsersEstimate": 35726
-    },
-    {
-      "ID": "help02",
-      "SetID": "anfd17p",
-      "Name": "Fat Cat Tag Team",
-      "Percentage": 13,
-      "XP": 10,
-      "UsersEstimate": 16587
-    },
-    {
-      "ID": "help03",
-      "SetID": "anfd17p",
-      "Name": "Capitalist Camaraderie",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 255
-    },
-    {
-      "ID": "hemma_a",
-      "SetID": "anfd17p",
-      "Name": "Necromancer Queen",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "jackslot01",
-      "SetID": "anfd17p",
-      "Name": "One-Armed Bandit",
-      "Percentage": 50,
-      "XP": 5,
-      "UsersEstimate": 63796
-    },
-    {
-      "ID": "jackslot02",
-      "SetID": "anfd17p",
-      "Name": "Jackpot!",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 5104
-    },
-    {
-      "ID": "jackslot03",
-      "SetID": "anfd17p",
-      "Name": "JACKPOT!!!",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 893
-    },
-    {
-      "ID": "legenchant01",
-      "SetID": "anfd17p",
-      "Name": "Item of Renown",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 10207
-    },
-    {
-      "ID": "level01",
-      "SetID": "anfd17p",
-      "Name": "Budding Merchant",
-      "Percentage": 66,
-      "XP": 10,
-      "UsersEstimate": 84211
-    },
-    {
-      "ID": "level02",
-      "SetID": "anfd17p",
-      "Name": "Accomplished Merchant",
-      "Percentage": 31,
-      "XP": 10,
-      "UsersEstimate": 39554
-    },
-    {
-      "ID": "level03",
-      "SetID": "anfd17p",
-      "Name": "Master Merchant",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 11483
-    },
-    {
-      "ID": "level04",
-      "SetID": "anfd17p",
-      "Name": "Merchant Extraordinaire",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 638
-    },
-    {
-      "ID": "lilu_a",
-      "SetID": "anfd17p",
-      "Name": "Miracle Alchemist",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 5104
-    },
-    {
-      "ID": "loot01",
-      "SetID": "anfd17p",
-      "Name": "Dungeon Imports",
-      "Percentage": 43,
-      "XP": 5,
-      "UsersEstimate": 54865
-    },
-    {
-      "ID": "loot02",
-      "SetID": "anfd17p",
-      "Name": "Laden with Loot",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 17863
-    },
-    {
-      "ID": "loot03",
-      "SetID": "anfd17p",
-      "Name": "Bountiful Harvest",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 6380
-    },
-    {
-      "ID": "loot04",
-      "SetID": "anfd17p",
-      "Name": "Anything not Nailed Down",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 1148
-    },
-    {
-      "ID": "master01",
-      "SetID": "anfd17p",
-      "Name": "Through Repetition, Perfection",
-      "Percentage": 47,
-      "XP": 5,
-      "UsersEstimate": 59969
-    },
-    {
-      "ID": "master02",
-      "SetID": "anfd17p",
-      "Name": "Natural 20",
-      "Percentage": 23,
-      "XP": 10,
-      "UsersEstimate": 29346
-    },
-    {
-      "ID": "master03",
-      "SetID": "anfd17p",
-      "Name": "Seasoned Journeyman",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 19139
-    },
-    {
-      "ID": "master04",
-      "SetID": "anfd17p",
-      "Name": "Precision Engineering",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 6380
-    },
-    {
-      "ID": "master05",
-      "SetID": "anfd17p",
-      "Name": "The Greatest Grind",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 1276
-    },
-    {
-      "ID": "masterpiece",
-      "SetID": "anfd17p",
-      "Name": "All or Nothing!",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "polonia_a",
-      "SetID": "anfd17p",
-      "Name": "Scourge of the Seas",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "quest01",
-      "SetID": "anfd17p",
-      "Name": "Did we pack lunch?",
-      "Percentage": 35,
-      "XP": 5,
-      "UsersEstimate": 44658
-    },
-    {
-      "ID": "quest02",
-      "SetID": "anfd17p",
-      "Name": "Attrition Mission",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 15311
-    },
-    {
-      "ID": "quest03",
-      "SetID": "anfd17p",
-      "Name": "Eternal Crusade",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "quest04",
-      "SetID": "anfd17p",
-      "Name": "To Hell and Back",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 638
-    },
-    {
-      "ID": "rareres01",
-      "SetID": "anfd17p",
-      "Name": "Glittering Collection",
-      "Percentage": 9,
-      "XP": 5,
-      "UsersEstimate": 11483
-    },
-    {
-      "ID": "rareres02",
-      "SetID": "anfd17p",
-      "Name": "Treasure Trove",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 7656
-    },
-    {
-      "ID": "rareres03",
-      "SetID": "anfd17p",
-      "Name": "Marvels from the World Over",
-      "Percentage": 0.8,
-      "XP": 10,
-      "UsersEstimate": 1021
-    },
-    {
-      "ID": "rudo_a",
-      "SetID": "anfd17p",
-      "Name": "Moment of Respite",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 2552
-    },
-    {
-      "ID": "sell01",
-      "SetID": "anfd17p",
-      "Name": "Capitalism Ho!",
-      "Percentage": 75,
-      "XP": 5,
-      "UsersEstimate": 95695
-    },
-    {
-      "ID": "sell02",
-      "SetID": "anfd17p",
-      "Name": "Black Friday Special",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 19139
-    },
-    {
-      "ID": "sell03",
-      "SetID": "anfd17p",
-      "Name": "Cash Only Please",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 893
-    },
-    {
-      "ID": "sia_a",
-      "SetID": "anfd17p",
-      "Name": "King\u0027s Shadow",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 3828
-    },
-    {
-      "ID": "transmuter",
-      "SetID": "anfd17p",
-      "Name": "Master Recycler",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 11483
-    },
-    {
-      "ID": "tutorial",
-      "SetID": "anfd17p",
-      "Name": "Titan\u0027s First Steps",
-      "Percentage": 96,
-      "XP": 5,
-      "UsersEstimate": 122489
-    },
-    {
-      "ID": "twinenchant01",
-      "SetID": "anfd17p",
-      "Name": "Magical Harmony",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 26795
-    },
-    {
-      "ID": "typeunlock01",
-      "SetID": "anfd17p",
-      "Name": "All Accounted For",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 7656
-    },
-    {
-      "ID": "uncommonres01",
-      "SetID": "anfd17p",
-      "Name": "Special Ingredient",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 21691
-    },
-    {
-      "ID": "uncommonres02",
-      "SetID": "anfd17p",
-      "Name": "Exotic Commodities",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 14035
-    },
-    {
-      "ID": "uncommonres03",
-      "SetID": "anfd17p",
-      "Name": "Economy of Scarce",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 3828
-    },
-    {
-      "ID": "workers01",
-      "SetID": "anfd17p",
-      "Name": "Own the Means of Production",
-      "Percentage": 60,
-      "XP": 5,
-      "UsersEstimate": 76556
-    },
-    {
-      "ID": "workers02",
-      "SetID": "anfd17p",
-      "Name": "Arcane Industries",
-      "Percentage": 34,
-      "XP": 10,
-      "UsersEstimate": 43382
-    },
-    {
-      "ID": "workers03",
-      "SetID": "anfd17p",
-      "Name": "Complete Monopoly",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 14035
-    },
-    {
-      "ID": "yami_a",
-      "SetID": "anfd17p",
-      "Name": "King\u0027s Blade",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 3828
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 3739
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 4551
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 3602
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 3930
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 3943
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 3085
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 3663
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:08:59.5794002+00:00",
-      "NumProgressed": 126869,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T16:36:39.3109209+00:00",
-      "NumProgressed": 126871,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T16:57:30.151106+00:00",
-      "NumProgressed": 126873,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T17:57:04.8374348+00:00",
-      "NumProgressed": 126874,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T18:57:02.1122073+00:00",
-      "NumProgressed": 126877,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T19:12:47.4225142+00:00",
-      "NumProgressed": 126879,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T19:57:33.2267402+00:00",
-      "NumProgressed": 126884,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T20:48:01.1903786+00:00",
-      "NumProgressed": 126887,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T21:06:35.8745512+00:00",
-      "NumProgressed": 126888,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T22:07:22.1840928+00:00",
-      "NumProgressed": 126893,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-25T23:05:06.2192258+00:00",
-      "NumProgressed": 126897,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T00:04:43.5476101+00:00",
-      "NumProgressed": 126901,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T02:06:35.2477843+00:00",
-      "NumProgressed": 126902,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T03:07:01.2676629+00:00",
-      "NumProgressed": 126904,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T05:07:32.0603503+00:00",
-      "NumProgressed": 126906,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T06:08:29.433212+00:00",
-      "NumProgressed": 126907,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T07:06:36.428038+00:00",
-      "NumProgressed": 126909,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T09:05:07.6736521+00:00",
-      "NumProgressed": 126911,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T11:06:36.5930093+00:00",
-      "NumProgressed": 126913,
-      "NumCompleted": 73
-    },
-    {
-      "Time": "2023-04-26T12:07:37.7042781+00:00",
-      "NumProgressed": 126914,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T13:14:50.7562575+00:00",
-      "NumProgressed": 126920,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T14:05:06.3532047+00:00",
-      "NumProgressed": 126923,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T15:03:24.6970256+00:00",
-      "NumProgressed": 126926,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T16:03:09.6839082+00:00",
-      "NumProgressed": 126931,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T17:03:26.7231785+00:00",
-      "NumProgressed": 126936,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T18:03:22.7278159+00:00",
-      "NumProgressed": 126937,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T19:03:23.3161753+00:00",
-      "NumProgressed": 126941,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T20:02:24.5394778+00:00",
-      "NumProgressed": 126943,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T21:03:33.2398977+00:00",
-      "NumProgressed": 126948,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-26T22:02:23.0608854+00:00",
-      "NumProgressed": 126949,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T00:02:17.4125156+00:00",
-      "NumProgressed": 126950,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T02:03:09.0866001+00:00",
-      "NumProgressed": 126952,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T03:03:24.5955858+00:00",
-      "NumProgressed": 126953,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T04:03:25.9749803+00:00",
-      "NumProgressed": 126955,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T05:02:25.8322698+00:00",
-      "NumProgressed": 126956,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T06:03:11.7245865+00:00",
-      "NumProgressed": 126959,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T07:03:14.5807734+00:00",
-      "NumProgressed": 126964,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T08:03:19.5717149+00:00",
-      "NumProgressed": 126965,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T09:03:46.3769838+00:00",
-      "NumProgressed": 126966,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T10:02:31.0201108+00:00",
-      "NumProgressed": 126970,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T11:02:26.719339+00:00",
-      "NumProgressed": 126971,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T12:02:26.0092379+00:00",
-      "NumProgressed": 126973,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T13:08:20.3761327+00:00",
-      "NumProgressed": 126976,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T14:03:14.5094344+00:00",
-      "NumProgressed": 126983,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T15:04:29.1262741+00:00",
-      "NumProgressed": 126987,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T16:03:46.5974348+00:00",
-      "NumProgressed": 126990,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T17:03:39.335781+00:00",
-      "NumProgressed": 126991,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T18:03:27.4426193+00:00",
-      "NumProgressed": 126993,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T19:03:36.0856039+00:00",
-      "NumProgressed": 126996,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T20:03:32.2416374+00:00",
-      "NumProgressed": 127000,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T21:03:07.7470542+00:00",
-      "NumProgressed": 127001,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T22:03:12.4244302+00:00",
-      "NumProgressed": 127004,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-27T23:03:20.4673355+00:00",
-      "NumProgressed": 127007,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T00:03:17.6312743+00:00",
-      "NumProgressed": 127008,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T02:04:28.3462951+00:00",
-      "NumProgressed": 127013,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T03:03:32.1406496+00:00",
-      "NumProgressed": 127014,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T04:03:20.805356+00:00",
-      "NumProgressed": 127016,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T05:03:09.7710233+00:00",
-      "NumProgressed": 127018,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T06:03:31.4849292+00:00",
-      "NumProgressed": 127021,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T07:03:40.8448373+00:00",
-      "NumProgressed": 127022,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T08:03:15.9855431+00:00",
-      "NumProgressed": 127023,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T09:03:23.9326425+00:00",
-      "NumProgressed": 127024,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T11:03:23.8868669+00:00",
-      "NumProgressed": 127031,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T12:03:33.4197961+00:00",
-      "NumProgressed": 127035,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T13:07:47.6618295+00:00",
-      "NumProgressed": 127037,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T14:02:44.8069266+00:00",
-      "NumProgressed": 127040,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T15:03:44.6020244+00:00",
-      "NumProgressed": 127041,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T16:03:13.9383588+00:00",
-      "NumProgressed": 127046,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T17:04:10.276438+00:00",
-      "NumProgressed": 127049,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T18:03:30.1051232+00:00",
-      "NumProgressed": 127052,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T19:03:50.3055411+00:00",
-      "NumProgressed": 127058,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T20:03:34.0390257+00:00",
-      "NumProgressed": 127062,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T21:04:29.226205+00:00",
-      "NumProgressed": 127067,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T22:03:21.0574692+00:00",
-      "NumProgressed": 127069,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-28T23:04:52.2718454+00:00",
-      "NumProgressed": 127071,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T00:03:29.0564732+00:00",
-      "NumProgressed": 127075,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T02:04:04.3437598+00:00",
-      "NumProgressed": 127084,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T03:03:33.0525415+00:00",
-      "NumProgressed": 127085,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T04:03:40.3401747+00:00",
-      "NumProgressed": 127089,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T06:00:08.8377372+00:00",
-      "NumProgressed": 127095,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T07:00:38.1789878+00:00",
-      "NumProgressed": 127097,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T07:59:50.5402454+00:00",
-      "NumProgressed": 127098,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T08:59:59.5186191+00:00",
-      "NumProgressed": 127101,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T09:59:55.4433254+00:00",
-      "NumProgressed": 127104,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T11:01:05.8863631+00:00",
-      "NumProgressed": 127109,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T12:00:43.7736198+00:00",
-      "NumProgressed": 127113,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T13:02:51.8236761+00:00",
-      "NumProgressed": 127116,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T14:01:51.1538495+00:00",
-      "NumProgressed": 127123,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T15:01:03.3359655+00:00",
-      "NumProgressed": 127130,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T16:02:10.204023+00:00",
-      "NumProgressed": 127138,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T17:00:43.7930844+00:00",
-      "NumProgressed": 127142,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T18:00:33.7361366+00:00",
-      "NumProgressed": 127152,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T19:00:26.9630688+00:00",
-      "NumProgressed": 127156,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T19:59:55.4473574+00:00",
-      "NumProgressed": 127160,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T21:00:54.7023242+00:00",
-      "NumProgressed": 127163,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T22:00:47.3608034+00:00",
-      "NumProgressed": 127167,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-29T23:00:26.6456818+00:00",
-      "NumProgressed": 127169,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T00:00:13.6108836+00:00",
-      "NumProgressed": 127171,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T02:01:47.0328605+00:00",
-      "NumProgressed": 127179,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T03:00:14.2863144+00:00",
-      "NumProgressed": 127182,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T04:00:19.1533554+00:00",
-      "NumProgressed": 127189,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T05:01:17.3378014+00:00",
-      "NumProgressed": 127192,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T06:02:10.4127647+00:00",
-      "NumProgressed": 127194,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T07:00:15.4324443+00:00",
-      "NumProgressed": 127199,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T08:02:23.1421458+00:00",
-      "NumProgressed": 127204,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T09:02:13.609164+00:00",
-      "NumProgressed": 127207,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T10:00:17.55218+00:00",
-      "NumProgressed": 127213,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T11:00:31.986154+00:00",
-      "NumProgressed": 127215,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T13:05:31.7343709+00:00",
-      "NumProgressed": 127218,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T14:02:21.5293691+00:00",
-      "NumProgressed": 127224,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T15:02:20.9613674+00:00",
-      "NumProgressed": 127227,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T16:02:18.7620194+00:00",
-      "NumProgressed": 127232,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T17:01:19.6221986+00:00",
-      "NumProgressed": 127234,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T18:02:20.8944207+00:00",
-      "NumProgressed": 127238,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T20:02:27.8829507+00:00",
-      "NumProgressed": 127244,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T21:02:24.5797911+00:00",
-      "NumProgressed": 127247,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T22:02:37.305978+00:00",
-      "NumProgressed": 127252,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-04-30T23:02:23.6837506+00:00",
-      "NumProgressed": 127254,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T00:03:30.8974304+00:00",
-      "NumProgressed": 127257,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T02:03:28.952713+00:00",
-      "NumProgressed": 127260,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T03:03:10.2750164+00:00",
-      "NumProgressed": 127267,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T04:02:26.7302454+00:00",
-      "NumProgressed": 127269,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T05:02:29.0437404+00:00",
-      "NumProgressed": 127272,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T06:02:16.5167061+00:00",
-      "NumProgressed": 127277,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T07:02:27.1577719+00:00",
-      "NumProgressed": 127279,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T08:03:32.1054205+00:00",
-      "NumProgressed": 127283,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T09:02:35.5198852+00:00",
-      "NumProgressed": 127289,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T10:02:23.0792704+00:00",
-      "NumProgressed": 127293,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T11:03:11.0278926+00:00",
-      "NumProgressed": 127297,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T12:01:45.4900775+00:00",
-      "NumProgressed": 127300,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T13:07:25.3072957+00:00",
-      "NumProgressed": 127303,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T14:02:29.4016072+00:00",
-      "NumProgressed": 127308,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T15:03:13.0968933+00:00",
-      "NumProgressed": 127315,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T16:03:20.4570332+00:00",
-      "NumProgressed": 127319,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T17:03:34.6131617+00:00",
-      "NumProgressed": 127322,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T18:03:15.148578+00:00",
-      "NumProgressed": 127326,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T19:03:36.6213977+00:00",
-      "NumProgressed": 127328,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T20:03:10.3458848+00:00",
-      "NumProgressed": 127330,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T21:03:04.0744048+00:00",
-      "NumProgressed": 127332,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T22:02:36.6376615+00:00",
-      "NumProgressed": 127336,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-01T23:02:21.9462479+00:00",
-      "NumProgressed": 127338,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T00:02:15.6232271+00:00",
-      "NumProgressed": 127342,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T02:01:24.3087367+00:00",
-      "NumProgressed": 127350,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T03:03:11.7047892+00:00",
-      "NumProgressed": 127351,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T04:02:29.4105724+00:00",
-      "NumProgressed": 127353,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T05:02:18.5439599+00:00",
-      "NumProgressed": 127356,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T06:03:27.9825646+00:00",
-      "NumProgressed": 127359,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T07:02:35.094143+00:00",
-      "NumProgressed": 127362,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T08:02:30.2459467+00:00",
-      "NumProgressed": 127367,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T09:03:35.4785353+00:00",
-      "NumProgressed": 127369,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T10:02:32.8626976+00:00",
-      "NumProgressed": 127377,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T11:03:29.0615373+00:00",
-      "NumProgressed": 127381,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T12:03:20.4615086+00:00",
-      "NumProgressed": 127382,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T13:09:45.3529868+00:00",
-      "NumProgressed": 127385,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T14:03:19.3260721+00:00",
-      "NumProgressed": 127389,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T15:02:32.9931394+00:00",
-      "NumProgressed": 127391,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T16:03:15.9299051+00:00",
-      "NumProgressed": 127393,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T17:03:42.8606944+00:00",
-      "NumProgressed": 127396,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T18:03:36.4792632+00:00",
-      "NumProgressed": 127398,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T19:03:35.0909896+00:00",
-      "NumProgressed": 127400,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T21:00:01.4248952+00:00",
-      "NumProgressed": 127404,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T22:00:01.7410055+00:00",
-      "NumProgressed": 127406,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-02T23:00:03.6726009+00:00",
-      "NumProgressed": 127411,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T00:00:49.8309536+00:00",
-      "NumProgressed": 127413,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T01:58:13.848175+00:00",
-      "NumProgressed": 127416,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T03:02:02.4994868+00:00",
-      "NumProgressed": 127420,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T04:01:06.1960811+00:00",
-      "NumProgressed": 127421,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T05:01:01.6501778+00:00",
-      "NumProgressed": 127422,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T06:01:04.5072795+00:00",
-      "NumProgressed": 127424,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T07:00:22.4379142+00:00",
-      "NumProgressed": 127429,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T07:59:56.6317393+00:00",
-      "NumProgressed": 127433,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T09:01:13.6648398+00:00",
-      "NumProgressed": 127435,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T10:00:16.6653181+00:00",
-      "NumProgressed": 127436,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T11:00:55.2403959+00:00",
-      "NumProgressed": 127438,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T12:01:01.3672014+00:00",
-      "NumProgressed": 127443,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T13:07:29.2282772+00:00",
-      "NumProgressed": 127448,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T14:01:46.2617072+00:00",
-      "NumProgressed": 127450,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T15:02:12.4721759+00:00",
-      "NumProgressed": 127455,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T16:02:06.6361062+00:00",
-      "NumProgressed": 127463,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T17:02:25.7317719+00:00",
-      "NumProgressed": 127465,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T18:01:15.4038635+00:00",
-      "NumProgressed": 127467,
-      "NumCompleted": 75
-    },
-    {
-      "Time": "2023-05-03T19:00:26.3992957+00:00",
-      "NumProgressed": 127470,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-03T20:01:32.0059525+00:00",
-      "NumProgressed": 127473,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-03T21:00:31.5263434+00:00",
-      "NumProgressed": 127474,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-03T22:00:46.9345781+00:00",
-      "NumProgressed": 127475,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-03T23:02:47.851212+00:00",
-      "NumProgressed": 127478,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T01:57:54.4260828+00:00",
-      "NumProgressed": 127484,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T03:02:14.7639959+00:00",
-      "NumProgressed": 127485,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T04:01:19.3709004+00:00",
-      "NumProgressed": 127486,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T05:02:19.2326214+00:00",
-      "NumProgressed": 127487,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T06:03:27.4163189+00:00",
-      "NumProgressed": 127490,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T08:02:25.2739226+00:00",
-      "NumProgressed": 127492,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T09:00:37.8526618+00:00",
-      "NumProgressed": 127495,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T10:02:25.0995331+00:00",
-      "NumProgressed": 127496,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T12:02:18.6928344+00:00",
-      "NumProgressed": 127498,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T13:08:23.0246175+00:00",
-      "NumProgressed": 127505,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T14:03:14.0734147+00:00",
-      "NumProgressed": 127508,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T15:02:26.8332035+00:00",
-      "NumProgressed": 127514,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T17:02:22.7510155+00:00",
-      "NumProgressed": 127524,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T18:03:19.7437699+00:00",
-      "NumProgressed": 127525,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T19:02:19.5859195+00:00",
-      "NumProgressed": 127528,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T19:39:38.4054087+00:00",
-      "NumProgressed": 127531,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T21:05:29.27401+00:00",
-      "NumProgressed": 127535,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T22:06:12.3474727+00:00",
-      "NumProgressed": 127537,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T22:24:23.1580634+00:00",
-      "NumProgressed": 127538,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-04T23:04:31.5262009+00:00",
-      "NumProgressed": 127539,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T01:58:22.5757679+00:00",
-      "NumProgressed": 127542,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T03:05:06.4975152+00:00",
-      "NumProgressed": 127544,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T04:05:56.1187871+00:00",
-      "NumProgressed": 127548,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T05:04:46.9810799+00:00",
-      "NumProgressed": 127549,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T06:05:12.5910493+00:00",
-      "NumProgressed": 127550,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T07:05:15.4744944+00:00",
-      "NumProgressed": 127551,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T08:05:28.1314871+00:00",
-      "NumProgressed": 127555,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T09:05:36.0239842+00:00",
-      "NumProgressed": 127557,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T10:04:38.9893408+00:00",
-      "NumProgressed": 127561,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T11:05:17.8568579+00:00",
-      "NumProgressed": 127565,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T12:05:27.7605387+00:00",
-      "NumProgressed": 127571,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T13:10:25.4315502+00:00",
-      "NumProgressed": 127575,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T13:41:26.8818329+00:00",
-      "NumProgressed": 127576,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T14:04:40.0691064+00:00",
-      "NumProgressed": 127577,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T15:04:48.9134198+00:00",
-      "NumProgressed": 127585,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T15:42:18.8003326+00:00",
-      "NumProgressed": 127591,
-      "NumCompleted": 76
-    },
-    {
-      "Time": "2023-05-05T16:07:30.2710709+00:00",
-      "NumProgressed": 127593,
-      "NumCompleted": 76
-    }
-  ],
+  "ProductSlug": "shop-titans-d95c1c",
+  "Ranking_Rating": 884,
+  "Ranking_Popularity": 66,
+  "Ranking_PopularitySum": 43,
+  "Ranking_EOS_Progress": 54,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 3.98,
+  "NumberOfRatings": 12664,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -5870,41 +3815,2108 @@
       "Rating": 3.98,
       "NumberOfAwards": 26513,
       "NumberOfAwardsMax": 4551
+    },
+    {
+      "Time": "2023-05-05T17:02:40.1708112+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 26514,
+      "NumberOfAwardsMax": 4551
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 112,
-  "LastChanged_Achievements": "2023-05-05T16:07:30.2710703+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 547,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 26514,
+  "NumberOfAwardsMax": 4551,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 3739
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 4551
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 3602
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 3930
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 3943
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 3085
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 3664
+    }
+  ],
+  "EOS_Progressed": 127595,
   "EOS_Completed": 76,
-  "EOS_Progressed": 127593,
-  "LastUpdate_Achievements": "2023-05-05T16:07:30.2712142+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:16.0416923+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:45.1352566+00:00",
+  "EOS_NewPlayers": 546,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.06,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:59.5794002+00:00",
+      "NumProgressed": 126869,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T16:36:39.3109209+00:00",
+      "NumProgressed": 126871,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T16:57:30.151106+00:00",
+      "NumProgressed": 126873,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T17:57:04.8374348+00:00",
+      "NumProgressed": 126874,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T18:57:02.1122073+00:00",
+      "NumProgressed": 126877,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T19:12:47.4225142+00:00",
+      "NumProgressed": 126879,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T19:57:33.2267402+00:00",
+      "NumProgressed": 126884,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T20:48:01.1903786+00:00",
+      "NumProgressed": 126887,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T21:06:35.8745512+00:00",
+      "NumProgressed": 126888,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T22:07:22.1840928+00:00",
+      "NumProgressed": 126893,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T23:05:06.2192258+00:00",
+      "NumProgressed": 126897,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T00:04:43.5476101+00:00",
+      "NumProgressed": 126901,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T02:06:35.2477843+00:00",
+      "NumProgressed": 126902,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T03:07:01.2676629+00:00",
+      "NumProgressed": 126904,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T05:07:32.0603503+00:00",
+      "NumProgressed": 126906,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T06:08:29.433212+00:00",
+      "NumProgressed": 126907,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T07:06:36.428038+00:00",
+      "NumProgressed": 126909,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T09:05:07.6736521+00:00",
+      "NumProgressed": 126911,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T11:06:36.5930093+00:00",
+      "NumProgressed": 126913,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T12:07:37.7042781+00:00",
+      "NumProgressed": 126914,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T13:14:50.7562575+00:00",
+      "NumProgressed": 126920,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T14:05:06.3532047+00:00",
+      "NumProgressed": 126923,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T15:03:24.6970256+00:00",
+      "NumProgressed": 126926,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T16:03:09.6839082+00:00",
+      "NumProgressed": 126931,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T17:03:26.7231785+00:00",
+      "NumProgressed": 126936,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T18:03:22.7278159+00:00",
+      "NumProgressed": 126937,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T19:03:23.3161753+00:00",
+      "NumProgressed": 126941,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T20:02:24.5394778+00:00",
+      "NumProgressed": 126943,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T21:03:33.2398977+00:00",
+      "NumProgressed": 126948,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-26T22:02:23.0608854+00:00",
+      "NumProgressed": 126949,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T00:02:17.4125156+00:00",
+      "NumProgressed": 126950,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T02:03:09.0866001+00:00",
+      "NumProgressed": 126952,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T03:03:24.5955858+00:00",
+      "NumProgressed": 126953,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T04:03:25.9749803+00:00",
+      "NumProgressed": 126955,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T05:02:25.8322698+00:00",
+      "NumProgressed": 126956,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T06:03:11.7245865+00:00",
+      "NumProgressed": 126959,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T07:03:14.5807734+00:00",
+      "NumProgressed": 126964,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T08:03:19.5717149+00:00",
+      "NumProgressed": 126965,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T09:03:46.3769838+00:00",
+      "NumProgressed": 126966,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T10:02:31.0201108+00:00",
+      "NumProgressed": 126970,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T11:02:26.719339+00:00",
+      "NumProgressed": 126971,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T12:02:26.0092379+00:00",
+      "NumProgressed": 126973,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T13:08:20.3761327+00:00",
+      "NumProgressed": 126976,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T14:03:14.5094344+00:00",
+      "NumProgressed": 126983,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T15:04:29.1262741+00:00",
+      "NumProgressed": 126987,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T16:03:46.5974348+00:00",
+      "NumProgressed": 126990,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T17:03:39.335781+00:00",
+      "NumProgressed": 126991,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T18:03:27.4426193+00:00",
+      "NumProgressed": 126993,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T19:03:36.0856039+00:00",
+      "NumProgressed": 126996,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T20:03:32.2416374+00:00",
+      "NumProgressed": 127000,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T21:03:07.7470542+00:00",
+      "NumProgressed": 127001,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T22:03:12.4244302+00:00",
+      "NumProgressed": 127004,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-27T23:03:20.4673355+00:00",
+      "NumProgressed": 127007,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T00:03:17.6312743+00:00",
+      "NumProgressed": 127008,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T02:04:28.3462951+00:00",
+      "NumProgressed": 127013,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T03:03:32.1406496+00:00",
+      "NumProgressed": 127014,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T04:03:20.805356+00:00",
+      "NumProgressed": 127016,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T05:03:09.7710233+00:00",
+      "NumProgressed": 127018,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T06:03:31.4849292+00:00",
+      "NumProgressed": 127021,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T07:03:40.8448373+00:00",
+      "NumProgressed": 127022,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T08:03:15.9855431+00:00",
+      "NumProgressed": 127023,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T09:03:23.9326425+00:00",
+      "NumProgressed": 127024,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T11:03:23.8868669+00:00",
+      "NumProgressed": 127031,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T12:03:33.4197961+00:00",
+      "NumProgressed": 127035,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T13:07:47.6618295+00:00",
+      "NumProgressed": 127037,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T14:02:44.8069266+00:00",
+      "NumProgressed": 127040,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T15:03:44.6020244+00:00",
+      "NumProgressed": 127041,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T16:03:13.9383588+00:00",
+      "NumProgressed": 127046,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T17:04:10.276438+00:00",
+      "NumProgressed": 127049,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T18:03:30.1051232+00:00",
+      "NumProgressed": 127052,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T19:03:50.3055411+00:00",
+      "NumProgressed": 127058,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T20:03:34.0390257+00:00",
+      "NumProgressed": 127062,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T21:04:29.226205+00:00",
+      "NumProgressed": 127067,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T22:03:21.0574692+00:00",
+      "NumProgressed": 127069,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-28T23:04:52.2718454+00:00",
+      "NumProgressed": 127071,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T00:03:29.0564732+00:00",
+      "NumProgressed": 127075,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T02:04:04.3437598+00:00",
+      "NumProgressed": 127084,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T03:03:33.0525415+00:00",
+      "NumProgressed": 127085,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T04:03:40.3401747+00:00",
+      "NumProgressed": 127089,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T06:00:08.8377372+00:00",
+      "NumProgressed": 127095,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T07:00:38.1789878+00:00",
+      "NumProgressed": 127097,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T07:59:50.5402454+00:00",
+      "NumProgressed": 127098,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T08:59:59.5186191+00:00",
+      "NumProgressed": 127101,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T09:59:55.4433254+00:00",
+      "NumProgressed": 127104,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T11:01:05.8863631+00:00",
+      "NumProgressed": 127109,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T12:00:43.7736198+00:00",
+      "NumProgressed": 127113,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T13:02:51.8236761+00:00",
+      "NumProgressed": 127116,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T14:01:51.1538495+00:00",
+      "NumProgressed": 127123,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T15:01:03.3359655+00:00",
+      "NumProgressed": 127130,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T16:02:10.204023+00:00",
+      "NumProgressed": 127138,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T17:00:43.7930844+00:00",
+      "NumProgressed": 127142,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T18:00:33.7361366+00:00",
+      "NumProgressed": 127152,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T19:00:26.9630688+00:00",
+      "NumProgressed": 127156,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T19:59:55.4473574+00:00",
+      "NumProgressed": 127160,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T21:00:54.7023242+00:00",
+      "NumProgressed": 127163,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T22:00:47.3608034+00:00",
+      "NumProgressed": 127167,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-29T23:00:26.6456818+00:00",
+      "NumProgressed": 127169,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T00:00:13.6108836+00:00",
+      "NumProgressed": 127171,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T02:01:47.0328605+00:00",
+      "NumProgressed": 127179,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T03:00:14.2863144+00:00",
+      "NumProgressed": 127182,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T04:00:19.1533554+00:00",
+      "NumProgressed": 127189,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T05:01:17.3378014+00:00",
+      "NumProgressed": 127192,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T06:02:10.4127647+00:00",
+      "NumProgressed": 127194,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T07:00:15.4324443+00:00",
+      "NumProgressed": 127199,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T08:02:23.1421458+00:00",
+      "NumProgressed": 127204,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T09:02:13.609164+00:00",
+      "NumProgressed": 127207,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T10:00:17.55218+00:00",
+      "NumProgressed": 127213,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T11:00:31.986154+00:00",
+      "NumProgressed": 127215,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T13:05:31.7343709+00:00",
+      "NumProgressed": 127218,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T14:02:21.5293691+00:00",
+      "NumProgressed": 127224,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T15:02:20.9613674+00:00",
+      "NumProgressed": 127227,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T16:02:18.7620194+00:00",
+      "NumProgressed": 127232,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T17:01:19.6221986+00:00",
+      "NumProgressed": 127234,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T18:02:20.8944207+00:00",
+      "NumProgressed": 127238,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T20:02:27.8829507+00:00",
+      "NumProgressed": 127244,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T21:02:24.5797911+00:00",
+      "NumProgressed": 127247,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T22:02:37.305978+00:00",
+      "NumProgressed": 127252,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-04-30T23:02:23.6837506+00:00",
+      "NumProgressed": 127254,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T00:03:30.8974304+00:00",
+      "NumProgressed": 127257,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T02:03:28.952713+00:00",
+      "NumProgressed": 127260,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T03:03:10.2750164+00:00",
+      "NumProgressed": 127267,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T04:02:26.7302454+00:00",
+      "NumProgressed": 127269,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T05:02:29.0437404+00:00",
+      "NumProgressed": 127272,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T06:02:16.5167061+00:00",
+      "NumProgressed": 127277,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T07:02:27.1577719+00:00",
+      "NumProgressed": 127279,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T08:03:32.1054205+00:00",
+      "NumProgressed": 127283,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T09:02:35.5198852+00:00",
+      "NumProgressed": 127289,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T10:02:23.0792704+00:00",
+      "NumProgressed": 127293,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T11:03:11.0278926+00:00",
+      "NumProgressed": 127297,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T12:01:45.4900775+00:00",
+      "NumProgressed": 127300,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T13:07:25.3072957+00:00",
+      "NumProgressed": 127303,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T14:02:29.4016072+00:00",
+      "NumProgressed": 127308,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T15:03:13.0968933+00:00",
+      "NumProgressed": 127315,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T16:03:20.4570332+00:00",
+      "NumProgressed": 127319,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T17:03:34.6131617+00:00",
+      "NumProgressed": 127322,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T18:03:15.148578+00:00",
+      "NumProgressed": 127326,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T19:03:36.6213977+00:00",
+      "NumProgressed": 127328,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T20:03:10.3458848+00:00",
+      "NumProgressed": 127330,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T21:03:04.0744048+00:00",
+      "NumProgressed": 127332,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T22:02:36.6376615+00:00",
+      "NumProgressed": 127336,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-01T23:02:21.9462479+00:00",
+      "NumProgressed": 127338,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T00:02:15.6232271+00:00",
+      "NumProgressed": 127342,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T02:01:24.3087367+00:00",
+      "NumProgressed": 127350,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T03:03:11.7047892+00:00",
+      "NumProgressed": 127351,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T04:02:29.4105724+00:00",
+      "NumProgressed": 127353,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T05:02:18.5439599+00:00",
+      "NumProgressed": 127356,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T06:03:27.9825646+00:00",
+      "NumProgressed": 127359,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T07:02:35.094143+00:00",
+      "NumProgressed": 127362,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T08:02:30.2459467+00:00",
+      "NumProgressed": 127367,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T09:03:35.4785353+00:00",
+      "NumProgressed": 127369,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T10:02:32.8626976+00:00",
+      "NumProgressed": 127377,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T11:03:29.0615373+00:00",
+      "NumProgressed": 127381,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T12:03:20.4615086+00:00",
+      "NumProgressed": 127382,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T13:09:45.3529868+00:00",
+      "NumProgressed": 127385,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T14:03:19.3260721+00:00",
+      "NumProgressed": 127389,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T15:02:32.9931394+00:00",
+      "NumProgressed": 127391,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T16:03:15.9299051+00:00",
+      "NumProgressed": 127393,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T17:03:42.8606944+00:00",
+      "NumProgressed": 127396,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T18:03:36.4792632+00:00",
+      "NumProgressed": 127398,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T19:03:35.0909896+00:00",
+      "NumProgressed": 127400,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T21:00:01.4248952+00:00",
+      "NumProgressed": 127404,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T22:00:01.7410055+00:00",
+      "NumProgressed": 127406,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-02T23:00:03.6726009+00:00",
+      "NumProgressed": 127411,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T00:00:49.8309536+00:00",
+      "NumProgressed": 127413,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T01:58:13.848175+00:00",
+      "NumProgressed": 127416,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T03:02:02.4994868+00:00",
+      "NumProgressed": 127420,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T04:01:06.1960811+00:00",
+      "NumProgressed": 127421,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T05:01:01.6501778+00:00",
+      "NumProgressed": 127422,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T06:01:04.5072795+00:00",
+      "NumProgressed": 127424,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T07:00:22.4379142+00:00",
+      "NumProgressed": 127429,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T07:59:56.6317393+00:00",
+      "NumProgressed": 127433,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T09:01:13.6648398+00:00",
+      "NumProgressed": 127435,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T10:00:16.6653181+00:00",
+      "NumProgressed": 127436,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T11:00:55.2403959+00:00",
+      "NumProgressed": 127438,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T12:01:01.3672014+00:00",
+      "NumProgressed": 127443,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T13:07:29.2282772+00:00",
+      "NumProgressed": 127448,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T14:01:46.2617072+00:00",
+      "NumProgressed": 127450,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T15:02:12.4721759+00:00",
+      "NumProgressed": 127455,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T16:02:06.6361062+00:00",
+      "NumProgressed": 127463,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T17:02:25.7317719+00:00",
+      "NumProgressed": 127465,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T18:01:15.4038635+00:00",
+      "NumProgressed": 127467,
+      "NumCompleted": 75
+    },
+    {
+      "Time": "2023-05-03T19:00:26.3992957+00:00",
+      "NumProgressed": 127470,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-03T20:01:32.0059525+00:00",
+      "NumProgressed": 127473,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-03T21:00:31.5263434+00:00",
+      "NumProgressed": 127474,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-03T22:00:46.9345781+00:00",
+      "NumProgressed": 127475,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-03T23:02:47.851212+00:00",
+      "NumProgressed": 127478,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T01:57:54.4260828+00:00",
+      "NumProgressed": 127484,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T03:02:14.7639959+00:00",
+      "NumProgressed": 127485,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T04:01:19.3709004+00:00",
+      "NumProgressed": 127486,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T05:02:19.2326214+00:00",
+      "NumProgressed": 127487,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T06:03:27.4163189+00:00",
+      "NumProgressed": 127490,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T08:02:25.2739226+00:00",
+      "NumProgressed": 127492,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T09:00:37.8526618+00:00",
+      "NumProgressed": 127495,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T10:02:25.0995331+00:00",
+      "NumProgressed": 127496,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T12:02:18.6928344+00:00",
+      "NumProgressed": 127498,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T13:08:23.0246175+00:00",
+      "NumProgressed": 127505,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T14:03:14.0734147+00:00",
+      "NumProgressed": 127508,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T15:02:26.8332035+00:00",
+      "NumProgressed": 127514,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T17:02:22.7510155+00:00",
+      "NumProgressed": 127524,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T18:03:19.7437699+00:00",
+      "NumProgressed": 127525,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T19:02:19.5859195+00:00",
+      "NumProgressed": 127528,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T19:39:38.4054087+00:00",
+      "NumProgressed": 127531,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T21:05:29.27401+00:00",
+      "NumProgressed": 127535,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T22:06:12.3474727+00:00",
+      "NumProgressed": 127537,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T22:24:23.1580634+00:00",
+      "NumProgressed": 127538,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-04T23:04:31.5262009+00:00",
+      "NumProgressed": 127539,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T01:58:22.5757679+00:00",
+      "NumProgressed": 127542,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T03:05:06.4975152+00:00",
+      "NumProgressed": 127544,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T04:05:56.1187871+00:00",
+      "NumProgressed": 127548,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T05:04:46.9810799+00:00",
+      "NumProgressed": 127549,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T06:05:12.5910493+00:00",
+      "NumProgressed": 127550,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T07:05:15.4744944+00:00",
+      "NumProgressed": 127551,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T08:05:28.1314871+00:00",
+      "NumProgressed": 127555,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T09:05:36.0239842+00:00",
+      "NumProgressed": 127557,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T10:04:38.9893408+00:00",
+      "NumProgressed": 127561,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T11:05:17.8568579+00:00",
+      "NumProgressed": 127565,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T12:05:27.7605387+00:00",
+      "NumProgressed": 127571,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T13:10:25.4315502+00:00",
+      "NumProgressed": 127575,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T13:41:26.8818329+00:00",
+      "NumProgressed": 127576,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T14:04:40.0691064+00:00",
+      "NumProgressed": 127577,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T15:04:48.9134198+00:00",
+      "NumProgressed": 127585,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T15:42:18.8003326+00:00",
+      "NumProgressed": 127591,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T16:07:30.2710709+00:00",
+      "NumProgressed": 127593,
+      "NumCompleted": 76
+    },
+    {
+      "Time": "2023-05-05T17:09:18.5983786+00:00",
+      "NumProgressed": 127595,
+      "NumCompleted": 76
+    }
+  ],
+  "TotalAchievements": 112,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "advlevel01",
+      "SetID": "anfd17p",
+      "Name": "The Daily Grind",
+      "Percentage": 46,
+      "XP": 5,
+      "UsersEstimate": 58694
+    },
+    {
+      "ID": "advlevel02",
+      "SetID": "anfd17p",
+      "Name": "On the Path to Greatness",
+      "Percentage": 28,
+      "XP": 10,
+      "UsersEstimate": 35727
+    },
+    {
+      "ID": "advlevel03",
+      "SetID": "anfd17p",
+      "Name": "A Notch Above the Rest",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 19139
+    },
+    {
+      "ID": "advlevel04",
+      "SetID": "anfd17p",
+      "Name": "Cream of the Crop",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 10208
+    },
+    {
+      "ID": "advlevel05",
+      "SetID": "anfd17p",
+      "Name": "Top of the World",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "argon_a",
+      "SetID": "anfd17p",
+      "Name": "Proud Paladin",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 5104
+    },
+    {
+      "ID": "ascend01",
+      "SetID": "anfd17p",
+      "Name": "Ascended",
+      "Percentage": 28,
+      "XP": 5,
+      "UsersEstimate": 35727
+    },
+    {
+      "ID": "ascend02",
+      "SetID": "anfd17p",
+      "Name": "Above the Norm",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 14035
+    },
+    {
+      "ID": "ascend03",
+      "SetID": "anfd17p",
+      "Name": "Constellated",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3828
+    },
+    {
+      "ID": "ashley_a",
+      "SetID": "anfd17p",
+      "Name": "A Ronin Reborn",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 893
+    },
+    {
+      "ID": "bigsale01",
+      "SetID": "anfd17p",
+      "Name": "One Easy Payment",
+      "Percentage": 60,
+      "XP": 5,
+      "UsersEstimate": 76557
+    },
+    {
+      "ID": "bigsale02",
+      "SetID": "anfd17p",
+      "Name": "Tax not Included",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 25519
+    },
+    {
+      "ID": "bigsale03",
+      "SetID": "anfd17p",
+      "Name": "The King\u0027s Caprice",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 10208
+    },
+    {
+      "ID": "blueprint01",
+      "SetID": "anfd17p",
+      "Name": "Some Assembly Required",
+      "Percentage": 59,
+      "XP": 5,
+      "UsersEstimate": 75281
+    },
+    {
+      "ID": "blueprint02",
+      "SetID": "anfd17p",
+      "Name": "Research \u0026 Development",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 31899
+    },
+    {
+      "ID": "blueprint03",
+      "SetID": "anfd17p",
+      "Name": "Thirst for Knowledge",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 6380
+    },
+    {
+      "ID": "bookentry",
+      "SetID": "anfd17p",
+      "Name": "Vanity, Verily",
+      "Percentage": 26,
+      "XP": 10,
+      "UsersEstimate": 33175
+    },
+    {
+      "ID": "boss01",
+      "SetID": "anfd17p",
+      "Name": "Bounty Hunters",
+      "Percentage": 44,
+      "XP": 5,
+      "UsersEstimate": 56142
+    },
+    {
+      "ID": "boss02",
+      "SetID": "anfd17p",
+      "Name": "Big Game Hunting",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 17863
+    },
+    {
+      "ID": "boss03",
+      "SetID": "anfd17p",
+      "Name": "Bane of Legends",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1276
+    },
+    {
+      "ID": "champions01",
+      "SetID": "anfd17p",
+      "Name": "Fated Encounters",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 26795
+    },
+    {
+      "ID": "chest01",
+      "SetID": "anfd17p",
+      "Name": "Sponsored by Argon",
+      "Percentage": 97,
+      "XP": 5,
+      "UsersEstimate": 123767
+    },
+    {
+      "ID": "chest02",
+      "SetID": "anfd17p",
+      "Name": "For the Hoard!",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 21691
+    },
+    {
+      "ID": "chest03",
+      "SetID": "anfd17p",
+      "Name": "Booty by the Boatload",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 7656
+    },
+    {
+      "ID": "collection01",
+      "SetID": "anfd17p",
+      "Name": "Blank Page Syndrome",
+      "Percentage": 27,
+      "XP": 5,
+      "UsersEstimate": 34451
+    },
+    {
+      "ID": "collection02",
+      "SetID": "anfd17p",
+      "Name": "Scrapbooker",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 19139
+    },
+    {
+      "ID": "collection03",
+      "SetID": "anfd17p",
+      "Name": "Archivist",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 6380
+    },
+    {
+      "ID": "collection04",
+      "SetID": "anfd17p",
+      "Name": "The Free Encyclopedia",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1276
+    },
+    {
+      "ID": "collection05",
+      "SetID": "anfd17p",
+      "Name": "Ultimate Collector",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 510
+    },
+    {
+      "ID": "commonres01",
+      "SetID": "anfd17p",
+      "Name": "Basic in Bulk",
+      "Percentage": 91,
+      "XP": 5,
+      "UsersEstimate": 116111
+    },
+    {
+      "ID": "commonres02",
+      "SetID": "anfd17p",
+      "Name": "Demand for Supplies",
+      "Percentage": 39,
+      "XP": 10,
+      "UsersEstimate": 49762
+    },
+    {
+      "ID": "commonres03",
+      "SetID": "anfd17p",
+      "Name": "Locally Sourced",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 17863
+    },
+    {
+      "ID": "commonres04",
+      "SetID": "anfd17p",
+      "Name": "Fillin\u0027 the Bin",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3828
+    },
+    {
+      "ID": "craft01",
+      "SetID": "anfd17p",
+      "Name": "Disintermediation",
+      "Percentage": 76,
+      "XP": 5,
+      "UsersEstimate": 96972
+    },
+    {
+      "ID": "craft02",
+      "SetID": "anfd17p",
+      "Name": "Flooding the Market",
+      "Percentage": 41,
+      "XP": 10,
+      "UsersEstimate": 52314
+    },
+    {
+      "ID": "craft03",
+      "SetID": "anfd17p",
+      "Name": "Flying off the Shelves",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 17863
+    },
+    {
+      "ID": "craft04",
+      "SetID": "anfd17p",
+      "Name": "Industrial Evolution",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 5104
+    },
+    {
+      "ID": "craft05",
+      "SetID": "anfd17p",
+      "Name": "Oligarch Monarch",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 1148
+    },
+    {
+      "ID": "damage01",
+      "SetID": "anfd17p",
+      "Name": "Where it Hurts",
+      "Percentage": 43,
+      "XP": 5,
+      "UsersEstimate": 54866
+    },
+    {
+      "ID": "damage02",
+      "SetID": "anfd17p",
+      "Name": "This Power Level...!",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 19139
+    },
+    {
+      "ID": "damage03",
+      "SetID": "anfd17p",
+      "Name": "Omae wa Mou Shindeiru",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 14035
+    },
+    {
+      "ID": "donovan_a",
+      "SetID": "anfd17p",
+      "Name": "Master of Transmutation",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "enchant01",
+      "SetID": "anfd17p",
+      "Name": "Hidden Potential",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 15311
+    },
+    {
+      "ID": "enchant02",
+      "SetID": "anfd17p",
+      "Name": "Unleashed Potential",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1276
+    },
+    {
+      "ID": "energy01",
+      "SetID": "anfd17p",
+      "Name": "Another Satisfied Customer",
+      "Percentage": 61,
+      "XP": 5,
+      "UsersEstimate": 77833
+    },
+    {
+      "ID": "energy02",
+      "SetID": "anfd17p",
+      "Name": "Power of Love",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 30623
+    },
+    {
+      "ID": "energy03",
+      "SetID": "anfd17p",
+      "Name": "Supercharged",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 10208
+    },
+    {
+      "ID": "expansion01",
+      "SetID": "anfd17p",
+      "Name": "It\u0027s Free Real Estate",
+      "Percentage": 70,
+      "XP": 5,
+      "UsersEstimate": 89316
+    },
+    {
+      "ID": "expansion02",
+      "SetID": "anfd17p",
+      "Name": "Expansion in Session",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 19139
+    },
+    {
+      "ID": "expansion03",
+      "SetID": "anfd17p",
+      "Name": "Thank You Tom Nook",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3828
+    },
+    {
+      "ID": "fullmoon",
+      "SetID": "anfd17p",
+      "Name": "Ritualist",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 11484
+    },
+    {
+      "ID": "furniture01",
+      "SetID": "anfd17p",
+      "Name": "Efficient Floor Space",
+      "Percentage": 27,
+      "XP": 5,
+      "UsersEstimate": 34451
+    },
+    {
+      "ID": "furniture02",
+      "SetID": "anfd17p",
+      "Name": "Cranked up to 11",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 14035
+    },
+    {
+      "ID": "furniture03",
+      "SetID": "anfd17p",
+      "Name": "Fit for a King",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 5104
+    },
+    {
+      "ID": "fuseepic",
+      "SetID": "anfd17p",
+      "Name": "By Your Powers Combined...",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 14035
+    },
+    {
+      "ID": "fuseflawless",
+      "SetID": "anfd17p",
+      "Name": "Flawless Fusion",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 30623
+    },
+    {
+      "ID": "fuselegendary",
+      "SetID": "anfd17p",
+      "Name": "A Legend is Born",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 8932
+    },
+    {
+      "ID": "fuseuncommon",
+      "SetID": "anfd17p",
+      "Name": "Trash to Treasure",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 22967
+    },
+    {
+      "ID": "gemsspent",
+      "SetID": "anfd17p",
+      "Name": "Gem Expert",
+      "Percentage": 28,
+      "XP": 10,
+      "UsersEstimate": 35727
+    },
+    {
+      "ID": "gold01",
+      "SetID": "anfd17p",
+      "Name": "Tinkle of Coins",
+      "Percentage": 87,
+      "XP": 5,
+      "UsersEstimate": 111008
+    },
+    {
+      "ID": "gold02",
+      "SetID": "anfd17p",
+      "Name": "Pretty Penny",
+      "Percentage": 57,
+      "XP": 10,
+      "UsersEstimate": 72729
+    },
+    {
+      "ID": "gold03",
+      "SetID": "anfd17p",
+      "Name": "Gild-Gotten Goods",
+      "Percentage": 37,
+      "XP": 10,
+      "UsersEstimate": 47210
+    },
+    {
+      "ID": "gold04",
+      "SetID": "anfd17p",
+      "Name": "Royal Ransom",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 26795
+    },
+    {
+      "ID": "gold05",
+      "SetID": "anfd17p",
+      "Name": "Mammonite",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 15311
+    },
+    {
+      "ID": "gold06",
+      "SetID": "anfd17p",
+      "Name": "Wealth Beyond Measure",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 8932
+    },
+    {
+      "ID": "help01",
+      "SetID": "anfd17p",
+      "Name": "Helping Hand",
+      "Percentage": 28,
+      "XP": 5,
+      "UsersEstimate": 35727
+    },
+    {
+      "ID": "help02",
+      "SetID": "anfd17p",
+      "Name": "Fat Cat Tag Team",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 16587
+    },
+    {
+      "ID": "help03",
+      "SetID": "anfd17p",
+      "Name": "Capitalist Camaraderie",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 255
+    },
+    {
+      "ID": "hemma_a",
+      "SetID": "anfd17p",
+      "Name": "Necromancer Queen",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "jackslot01",
+      "SetID": "anfd17p",
+      "Name": "One-Armed Bandit",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 63798
+    },
+    {
+      "ID": "jackslot02",
+      "SetID": "anfd17p",
+      "Name": "Jackpot!",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 5104
+    },
+    {
+      "ID": "jackslot03",
+      "SetID": "anfd17p",
+      "Name": "JACKPOT!!!",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 893
+    },
+    {
+      "ID": "legenchant01",
+      "SetID": "anfd17p",
+      "Name": "Item of Renown",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 10208
+    },
+    {
+      "ID": "level01",
+      "SetID": "anfd17p",
+      "Name": "Budding Merchant",
+      "Percentage": 66,
+      "XP": 10,
+      "UsersEstimate": 84213
+    },
+    {
+      "ID": "level02",
+      "SetID": "anfd17p",
+      "Name": "Accomplished Merchant",
+      "Percentage": 31,
+      "XP": 10,
+      "UsersEstimate": 39554
+    },
+    {
+      "ID": "level03",
+      "SetID": "anfd17p",
+      "Name": "Master Merchant",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 11484
+    },
+    {
+      "ID": "level04",
+      "SetID": "anfd17p",
+      "Name": "Merchant Extraordinaire",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 638
+    },
+    {
+      "ID": "lilu_a",
+      "SetID": "anfd17p",
+      "Name": "Miracle Alchemist",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 5104
+    },
+    {
+      "ID": "loot01",
+      "SetID": "anfd17p",
+      "Name": "Dungeon Imports",
+      "Percentage": 43,
+      "XP": 5,
+      "UsersEstimate": 54866
+    },
+    {
+      "ID": "loot02",
+      "SetID": "anfd17p",
+      "Name": "Laden with Loot",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 17863
+    },
+    {
+      "ID": "loot03",
+      "SetID": "anfd17p",
+      "Name": "Bountiful Harvest",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 6380
+    },
+    {
+      "ID": "loot04",
+      "SetID": "anfd17p",
+      "Name": "Anything not Nailed Down",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 1148
+    },
+    {
+      "ID": "master01",
+      "SetID": "anfd17p",
+      "Name": "Through Repetition, Perfection",
+      "Percentage": 47,
+      "XP": 5,
+      "UsersEstimate": 59970
+    },
+    {
+      "ID": "master02",
+      "SetID": "anfd17p",
+      "Name": "Natural 20",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 29347
+    },
+    {
+      "ID": "master03",
+      "SetID": "anfd17p",
+      "Name": "Seasoned Journeyman",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 19139
+    },
+    {
+      "ID": "master04",
+      "SetID": "anfd17p",
+      "Name": "Precision Engineering",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 6380
+    },
+    {
+      "ID": "master05",
+      "SetID": "anfd17p",
+      "Name": "The Greatest Grind",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1276
+    },
+    {
+      "ID": "masterpiece",
+      "SetID": "anfd17p",
+      "Name": "All or Nothing!",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "polonia_a",
+      "SetID": "anfd17p",
+      "Name": "Scourge of the Seas",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "quest01",
+      "SetID": "anfd17p",
+      "Name": "Did we pack lunch?",
+      "Percentage": 35,
+      "XP": 5,
+      "UsersEstimate": 44658
+    },
+    {
+      "ID": "quest02",
+      "SetID": "anfd17p",
+      "Name": "Attrition Mission",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 15311
+    },
+    {
+      "ID": "quest03",
+      "SetID": "anfd17p",
+      "Name": "Eternal Crusade",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "quest04",
+      "SetID": "anfd17p",
+      "Name": "To Hell and Back",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 638
+    },
+    {
+      "ID": "rareres01",
+      "SetID": "anfd17p",
+      "Name": "Glittering Collection",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 11484
+    },
+    {
+      "ID": "rareres02",
+      "SetID": "anfd17p",
+      "Name": "Treasure Trove",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 7656
+    },
+    {
+      "ID": "rareres03",
+      "SetID": "anfd17p",
+      "Name": "Marvels from the World Over",
+      "Percentage": 0.8,
+      "XP": 10,
+      "UsersEstimate": 1021
+    },
+    {
+      "ID": "rudo_a",
+      "SetID": "anfd17p",
+      "Name": "Moment of Respite",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2552
+    },
+    {
+      "ID": "sell01",
+      "SetID": "anfd17p",
+      "Name": "Capitalism Ho!",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 95696
+    },
+    {
+      "ID": "sell02",
+      "SetID": "anfd17p",
+      "Name": "Black Friday Special",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 19139
+    },
+    {
+      "ID": "sell03",
+      "SetID": "anfd17p",
+      "Name": "Cash Only Please",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 893
+    },
+    {
+      "ID": "sia_a",
+      "SetID": "anfd17p",
+      "Name": "King\u0027s Shadow",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3828
+    },
+    {
+      "ID": "transmuter",
+      "SetID": "anfd17p",
+      "Name": "Master Recycler",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 11484
+    },
+    {
+      "ID": "tutorial",
+      "SetID": "anfd17p",
+      "Name": "Titan\u0027s First Steps",
+      "Percentage": 96,
+      "XP": 5,
+      "UsersEstimate": 122491
+    },
+    {
+      "ID": "twinenchant01",
+      "SetID": "anfd17p",
+      "Name": "Magical Harmony",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 26795
+    },
+    {
+      "ID": "typeunlock01",
+      "SetID": "anfd17p",
+      "Name": "All Accounted For",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 7656
+    },
+    {
+      "ID": "uncommonres01",
+      "SetID": "anfd17p",
+      "Name": "Special Ingredient",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 21691
+    },
+    {
+      "ID": "uncommonres02",
+      "SetID": "anfd17p",
+      "Name": "Exotic Commodities",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 14035
+    },
+    {
+      "ID": "uncommonres03",
+      "SetID": "anfd17p",
+      "Name": "Economy of Scarce",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3828
+    },
+    {
+      "ID": "workers01",
+      "SetID": "anfd17p",
+      "Name": "Own the Means of Production",
+      "Percentage": 60,
+      "XP": 5,
+      "UsersEstimate": 76557
+    },
+    {
+      "ID": "workers02",
+      "SetID": "anfd17p",
+      "Name": "Arcane Industries",
+      "Percentage": 34,
+      "XP": 10,
+      "UsersEstimate": 43382
+    },
+    {
+      "ID": "workers03",
+      "SetID": "anfd17p",
+      "Name": "Complete Monopoly",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 14035
+    },
+    {
+      "ID": "yami_a",
+      "SetID": "anfd17p",
+      "Name": "King\u0027s Blade",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3828
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 127593,
+      "Progressed": 127595,
       "Completed": 76
     }
   ],
-  "EOS_Completed_Percentage": 0.06,
-  "LastChanged": "2023-05-05T13:57:57.1618458+00:00",
-  "ProductSlug": "shop-titans-d95c1c",
-  "Rating": 3.98,
-  "Ranking_Rating": 884,
-  "Ranking_Popularity": 66,
-  "Ranking_PopularitySum": 43,
-  "Ranking_EOS_Progress": 54,
-  "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfRatings": 12664,
-  "NumberOfAwards": 26513,
-  "NumberOfAwardsMax": 4551,
-  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "Ranking_EOS_NewPlayers": 74
+  "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
+  "LastChanged": "2023-05-05T17:02:40.170811+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:18.5983778+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:38.2111116+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:40.1708117+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:18.5985159+00:00"
 }

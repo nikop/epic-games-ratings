@@ -1,371 +1,16 @@
 {
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
-  "Achievements": [
-    {
-      "ID": "Agent_47",
-      "SetID": "85nb4h3",
-      "Name": "Agent 47",
-      "Percentage": 16,
-      "XP": 20,
-      "UsersEstimate": 139
-    },
-    {
-      "ID": "Auditor",
-      "SetID": "85nb4h3",
-      "Name": "Inspector General",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "Barrel_roll",
-      "SetID": "85nb4h3",
-      "Name": "Do a Barrel Roll!",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "Big_Bertha",
-      "SetID": "85nb4h3",
-      "Name": "The Big Bertha",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 70
-    },
-    {
-      "ID": "Boy",
-      "SetID": "85nb4h3",
-      "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 16,
-      "XP": 30,
-      "UsersEstimate": 139
-    },
-    {
-      "ID": "Commandos",
-      "SetID": "85nb4h3",
-      "Name": "Commandos",
-      "Percentage": 0.1,
-      "XP": 90,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "Death_to_the_dictator",
-      "SetID": "85nb4h3",
-      "Name": "Death to the Oppressor!",
-      "Percentage": 12,
-      "XP": 15,
-      "UsersEstimate": 104
-    },
-    {
-      "ID": "Defense_Common",
-      "SetID": "85nb4h3",
-      "Name": "Unbreakable Wall",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "Defense_Epic",
-      "SetID": "85nb4h3",
-      "Name": "Defense of Steel",
-      "Percentage": 0,
-      "XP": 90,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "Double_barrel",
-      "SetID": "85nb4h3",
-      "Name": "Lock, Stock",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 44
-    },
-    {
-      "ID": "E1M1",
-      "SetID": "85nb4h3",
-      "Name": "E1M1",
-      "Percentage": 25,
-      "XP": 15,
-      "UsersEstimate": 218
-    },
-    {
-      "ID": "Everyone_is_here",
-      "SetID": "85nb4h3",
-      "Name": "The Gang\u0027s All Here",
-      "Percentage": 10,
-      "XP": 15,
-      "UsersEstimate": 87
-    },
-    {
-      "ID": "Experienced_strategist",
-      "SetID": "85nb4h3",
-      "Name": "Experienced Strategist",
-      "Percentage": 0.7,
-      "XP": 30,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "Game_Over",
-      "SetID": "85nb4h3",
-      "Name": "Game Over",
-      "Percentage": 7,
-      "XP": 90,
-      "UsersEstimate": 61
-    },
-    {
-      "ID": "Grenadier",
-      "SetID": "85nb4h3",
-      "Name": "Grenadier",
-      "Percentage": 24,
-      "XP": 10,
-      "UsersEstimate": 209
-    },
-    {
-      "ID": "Hard_Serpent",
-      "SetID": "85nb4h3",
-      "Name": "Tough as Nails",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "Heroes_never_die",
-      "SetID": "85nb4h3",
-      "Name": "Heroes Never Die",
-      "Percentage": 22,
-      "XP": 15,
-      "UsersEstimate": 191
-    },
-    {
-      "ID": "High_noon",
-      "SetID": "85nb4h3",
-      "Name": "Payback Time",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 35
-    },
-    {
-      "ID": "How",
-      "SetID": "85nb4h3",
-      "Name": "How?!",
-      "Percentage": 0.3,
-      "XP": 90,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "Its_very_spicy",
-      "SetID": "85nb4h3",
-      "Name": "Spice It Up",
-      "Percentage": 19,
-      "XP": 15,
-      "UsersEstimate": 165
-    },
-    {
-      "ID": "KillAllM2",
-      "SetID": "85nb4h3",
-      "Name": "No Witness",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 26
-    },
-    {
-      "ID": "Kultprosvet",
-      "SetID": "85nb4h3",
-      "Name": "A Little Culture",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "Long_fire",
-      "SetID": "85nb4h3",
-      "Name": "One by One",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 61
-    },
-    {
-      "ID": "Miner",
-      "SetID": "85nb4h3",
-      "Name": "Bomberman",
-      "Percentage": 16,
-      "XP": 15,
-      "UsersEstimate": 139
-    },
-    {
-      "ID": "MoskitoBite",
-      "SetID": "85nb4h3",
-      "Name": "Mosquito bite",
-      "Percentage": 21,
-      "XP": 15,
-      "UsersEstimate": 183
-    },
-    {
-      "ID": "Scout",
-      "SetID": "85nb4h3",
-      "Name": "Scout",
-      "Percentage": 0,
-      "XP": 90,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "Strategist",
-      "SetID": "85nb4h3",
-      "Name": "Strategist",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 17
-    },
-    {
-      "ID": "War_never_changes",
-      "SetID": "85nb4h3",
-      "Name": "War Never Changes",
-      "Percentage": 24,
-      "XP": 15,
-      "UsersEstimate": 209
-    },
-    {
-      "ID": "We_were_not_here",
-      "SetID": "85nb4h3",
-      "Name": "We Weren\u0027t There",
-      "Percentage": 0.2,
-      "XP": 90,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "Your_turn",
-      "SetID": "85nb4h3",
-      "Name": "Your Answer",
-      "Percentage": 9,
-      "XP": 15,
-      "UsersEstimate": 78
-    }
-  ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:39.863214+00:00",
-      "NumProgressed": 846,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-25T17:57:33.7279621+00:00",
-      "NumProgressed": 847,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-25T22:09:44.9099025+00:00",
-      "NumProgressed": 848,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T09:06:57.5123513+00:00",
-      "NumProgressed": 849,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-27T10:03:49.3857129+00:00",
-      "NumProgressed": 850,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T19:04:35.5521045+00:00",
-      "NumProgressed": 851,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T12:04:21.6260932+00:00",
-      "NumProgressed": 852,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T17:03:55.3092118+00:00",
-      "NumProgressed": 853,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T11:03:55.8849376+00:00",
-      "NumProgressed": 854,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T14:04:11.16359+00:00",
-      "NumProgressed": 855,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T16:04:33.5745667+00:00",
-      "NumProgressed": 856,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T23:04:18.8131012+00:00",
-      "NumProgressed": 857,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T02:05:38.5073577+00:00",
-      "NumProgressed": 858,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T08:04:58.0134245+00:00",
-      "NumProgressed": 859,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T13:09:31.1104641+00:00",
-      "NumProgressed": 860,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T18:04:58.7545537+00:00",
-      "NumProgressed": 862,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T22:04:13.56599+00:00",
-      "NumProgressed": 863,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-02T20:04:08.9025719+00:00",
-      "NumProgressed": 864,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-03T02:02:23.8813801+00:00",
-      "NumProgressed": 865,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-03T08:04:01.4713477+00:00",
-      "NumProgressed": 866,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-03T22:04:11.1776475+00:00",
-      "NumProgressed": 867,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T06:05:13.8230874+00:00",
-      "NumProgressed": 868,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T18:04:45.4390533+00:00",
-      "NumProgressed": 869,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T08:05:53.629547+00:00",
-      "NumProgressed": 870,
-      "NumCompleted": 1
-    }
-  ],
+  "ProductSlug": "partisans-1941",
+  "Ranking_Rating": 353,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.61,
+  "NumberOfRatings": 98,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:38.7033824+00:00",
@@ -638,16 +283,381 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 30,
-  "LastChanged_Achievements": "2023-05-05T16:07:57.4664178+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 19,
-  "EOS_Completed": 1,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 870,
-  "LastUpdate_Achievements": "2023-05-05T16:07:57.4664387+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:25.0606095+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:32.5786729+00:00",
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 19,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.11,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:39.863214+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-25T17:57:33.7279621+00:00",
+      "NumProgressed": 847,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-25T22:09:44.9099025+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T09:06:57.5123513+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T10:03:49.3857129+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T19:04:35.5521045+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T12:04:21.6260932+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T17:03:55.3092118+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T11:03:55.8849376+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T14:04:11.16359+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T16:04:33.5745667+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T23:04:18.8131012+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T02:05:38.5073577+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T08:04:58.0134245+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T13:09:31.1104641+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T18:04:58.7545537+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T22:04:13.56599+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-02T20:04:08.9025719+00:00",
+      "NumProgressed": 864,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-03T02:02:23.8813801+00:00",
+      "NumProgressed": 865,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-03T08:04:01.4713477+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-03T22:04:11.1776475+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T06:05:13.8230874+00:00",
+      "NumProgressed": 868,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T18:04:45.4390533+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T08:05:53.629547+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Agent_47",
+      "SetID": "85nb4h3",
+      "Name": "Agent 47",
+      "Percentage": 16,
+      "XP": 20,
+      "UsersEstimate": 139
+    },
+    {
+      "ID": "Auditor",
+      "SetID": "85nb4h3",
+      "Name": "Inspector General",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Barrel_roll",
+      "SetID": "85nb4h3",
+      "Name": "Do a Barrel Roll!",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Big_Bertha",
+      "SetID": "85nb4h3",
+      "Name": "The Big Bertha",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 70
+    },
+    {
+      "ID": "Boy",
+      "SetID": "85nb4h3",
+      "Name": "You\u0027re Gonna Go Far, Kid",
+      "Percentage": 16,
+      "XP": 30,
+      "UsersEstimate": 139
+    },
+    {
+      "ID": "Commandos",
+      "SetID": "85nb4h3",
+      "Name": "Commandos",
+      "Percentage": 0.1,
+      "XP": 90,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Death_to_the_dictator",
+      "SetID": "85nb4h3",
+      "Name": "Death to the Oppressor!",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 104
+    },
+    {
+      "ID": "Defense_Common",
+      "SetID": "85nb4h3",
+      "Name": "Unbreakable Wall",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "Defense_Epic",
+      "SetID": "85nb4h3",
+      "Name": "Defense of Steel",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Double_barrel",
+      "SetID": "85nb4h3",
+      "Name": "Lock, Stock",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 44
+    },
+    {
+      "ID": "E1M1",
+      "SetID": "85nb4h3",
+      "Name": "E1M1",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 218
+    },
+    {
+      "ID": "Everyone_is_here",
+      "SetID": "85nb4h3",
+      "Name": "The Gang\u0027s All Here",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "Experienced_strategist",
+      "SetID": "85nb4h3",
+      "Name": "Experienced Strategist",
+      "Percentage": 0.7,
+      "XP": 30,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Game_Over",
+      "SetID": "85nb4h3",
+      "Name": "Game Over",
+      "Percentage": 7,
+      "XP": 90,
+      "UsersEstimate": 61
+    },
+    {
+      "ID": "Grenadier",
+      "SetID": "85nb4h3",
+      "Name": "Grenadier",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 209
+    },
+    {
+      "ID": "Hard_Serpent",
+      "SetID": "85nb4h3",
+      "Name": "Tough as Nails",
+      "Percentage": 0.3,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Heroes_never_die",
+      "SetID": "85nb4h3",
+      "Name": "Heroes Never Die",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 191
+    },
+    {
+      "ID": "High_noon",
+      "SetID": "85nb4h3",
+      "Name": "Payback Time",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 35
+    },
+    {
+      "ID": "How",
+      "SetID": "85nb4h3",
+      "Name": "How?!",
+      "Percentage": 0.3,
+      "XP": 90,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Its_very_spicy",
+      "SetID": "85nb4h3",
+      "Name": "Spice It Up",
+      "Percentage": 19,
+      "XP": 15,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "KillAllM2",
+      "SetID": "85nb4h3",
+      "Name": "No Witness",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "Kultprosvet",
+      "SetID": "85nb4h3",
+      "Name": "A Little Culture",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Long_fire",
+      "SetID": "85nb4h3",
+      "Name": "One by One",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 61
+    },
+    {
+      "ID": "Miner",
+      "SetID": "85nb4h3",
+      "Name": "Bomberman",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 139
+    },
+    {
+      "ID": "MoskitoBite",
+      "SetID": "85nb4h3",
+      "Name": "Mosquito bite",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 183
+    },
+    {
+      "ID": "Scout",
+      "SetID": "85nb4h3",
+      "Name": "Scout",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Strategist",
+      "SetID": "85nb4h3",
+      "Name": "Strategist",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "War_never_changes",
+      "SetID": "85nb4h3",
+      "Name": "War Never Changes",
+      "Percentage": 24,
+      "XP": 15,
+      "UsersEstimate": 209
+    },
+    {
+      "ID": "We_were_not_here",
+      "SetID": "85nb4h3",
+      "Name": "We Weren\u0027t There",
+      "Percentage": 0.2,
+      "XP": 90,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Your_turn",
+      "SetID": "85nb4h3",
+      "Name": "Your Answer",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 78
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
@@ -656,20 +666,11 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0.11,
-  "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "ProductSlug": "partisans-1941",
-  "Rating": 4.61,
-  "Ranking_Rating": 353,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 164,
-  "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
-  "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 98,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
-  "Ranking_EOS_NewPlayers": 155
+  "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
+  "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:38.8472526+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:27.8079323+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:26.1214456+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:38.8472716+00:00"
 }

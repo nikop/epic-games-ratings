@@ -1,117 +1,16 @@
 {
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
-  "Achievements": [
-    {
-      "ID": "almostthere",
-      "SetID": "8oef5bg",
-      "Name": "Almost There?",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "bordermaster",
-      "SetID": "8oef5bg",
-      "Name": "Border Master",
-      "Percentage": 0,
-      "XP": 200,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "campaign",
-      "SetID": "8oef5bg",
-      "Name": "Campaign Funder",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "catperson",
-      "SetID": "8oef5bg",
-      "Name": "Cat Person",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "collect",
-      "SetID": "8oef5bg",
-      "Name": "Collect \u0027em All",
-      "Percentage": 0,
-      "XP": 120,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "hardchoice",
-      "SetID": "8oef5bg",
-      "Name": "Hard Choice",
-      "Percentage": 0,
-      "XP": 150,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "helpfriend",
-      "SetID": "8oef5bg",
-      "Name": "Help a Friend",
-      "Percentage": 0,
-      "XP": 100,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "homesick",
-      "SetID": "8oef5bg",
-      "Name": "Homesick",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "lightindarkness",
-      "SetID": "8oef5bg",
-      "Name": "A Light in the Darkness",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "oldpro",
-      "SetID": "8oef5bg",
-      "Name": "Old Pro",
-      "Percentage": 0,
-      "XP": 120,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "roadpals",
-      "SetID": "8oef5bg",
-      "Name": "Road Pals",
-      "Percentage": 0,
-      "XP": 80,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "stoneafterstone",
-      "SetID": "8oef5bg",
-      "Name": "Stone After Stone",
-      "Percentage": 0,
-      "XP": 60,
-      "UsersEstimate": 0
-    }
-  ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:28.2855562+00:00",
-      "NumProgressed": 1,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T08:07:38.0319118+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    }
-  ],
+  "ProductSlug": "road-96",
+  "Ranking_Rating": 338,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.62,
+  "NumberOfRatings": 86,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:33.5631588+00:00",
@@ -371,16 +270,127 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-05T16:07:46.4776809+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T16:07:46.4776885+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:47.2203104+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:07.3662167+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:28.2855562+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T08:07:38.0319118+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 12,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "almostthere",
+      "SetID": "8oef5bg",
+      "Name": "Almost There?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bordermaster",
+      "SetID": "8oef5bg",
+      "Name": "Border Master",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "campaign",
+      "SetID": "8oef5bg",
+      "Name": "Campaign Funder",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "catperson",
+      "SetID": "8oef5bg",
+      "Name": "Cat Person",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect",
+      "SetID": "8oef5bg",
+      "Name": "Collect \u0027em All",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hardchoice",
+      "SetID": "8oef5bg",
+      "Name": "Hard Choice",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "helpfriend",
+      "SetID": "8oef5bg",
+      "Name": "Help a Friend",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "homesick",
+      "SetID": "8oef5bg",
+      "Name": "Homesick",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "lightindarkness",
+      "SetID": "8oef5bg",
+      "Name": "A Light in the Darkness",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "oldpro",
+      "SetID": "8oef5bg",
+      "Name": "Old Pro",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "roadpals",
+      "SetID": "8oef5bg",
+      "Name": "Road Pals",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stoneafterstone",
+      "SetID": "8oef5bg",
+      "Name": "Stone After Stone",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8oef5bg",
@@ -389,20 +399,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T21:58:23.8160555+00:00",
-  "ProductSlug": "road-96",
-  "Rating": 4.62,
-  "Ranking_Rating": 338,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 341,
-  "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 86,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00",
+  "LastChanged": "2023-05-02T21:58:23.8160555+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:30.4477589+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:00.6416631+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:00.515898+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:30.4477685+00:00"
 }

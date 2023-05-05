@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~790 |
-| World Map | 80.00% | ~679 |
-| Temple of Eternals | 54.00% | ~458 |
-| Prestigious | 51.00% | ~433 |
-| Fellowship Power | 38.00% | ~323 |
+| World Map | 79.00% | ~672 |
+| Temple of Eternals | 54.00% | ~459 |
+| Prestigious | 51.00% | ~434 |
+| Fellowship Power | 39.00% | ~332 |
 | Guild Power | 22.00% | ~187 |
 | Prestigious x10 | 18.00% | ~153 |
 | The game is on | 14.00% | ~119 |
@@ -16,7 +16,7 @@
 | Inspection | 13.00% | ~110 |
 | Dragon Clicker | 12.00% | ~102 |
 | Miner Clicker | 12.00% | ~102 |
-| Hero inspection | 11.00% | ~93 |
+| Hero inspection | 11.00% | ~94 |
 | Full Party | 9.00% | ~76 |
 | Dragon Master | 6.00% | ~51 |
 | Enlightenment | 6.00% | ~51 |
@@ -25,8 +25,8 @@
 | The Unstoppable | 5.00% | ~42 |
 | Milestone collector | 4.00% | ~34 |
 | Superior | 4.00% | ~34 |
-| Daily Quest Completionist | 3.00% | ~25 |
-| Scientist | 3.00% | ~25 |
+| Daily Quest Completionist | 3.00% | ~26 |
+| Scientist | 3.00% | ~26 |
 | Background Story | 2.00% | ~17 |
 | Frostfire Liberator | 2.00% | ~17 |
 | Hunter | 2.00% | ~17 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 165)  
+Progressed: 850 (Ranked 165)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-02 | 795 | 1 |
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
-| 2023-05-05 | 849 | 1 |
+| 2023-05-05 | 850 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

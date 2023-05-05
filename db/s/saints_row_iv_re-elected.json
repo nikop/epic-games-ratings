@@ -1,584 +1,205 @@
 {
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
-  "Achievements": [
-    {
-      "ID": "*BEEP* YOU, CLAWZ!",
-      "SetID": "d4hjaom",
-      "Name": "*BEEP* YOU, CLAWZ!",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 7504
-    },
-    {
-      "ID": "...A Saint Gets a Gun",
-      "SetID": "d4hjaom",
-      "Name": "...A Saint Gets a Gun",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 6004
-    },
-    {
-      "ID": "A Real Cluster....",
-      "SetID": "d4hjaom",
-      "Name": "A Real Cluster....",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 1501
-    },
-    {
-      "ID": "A Very Genki Holiday",
-      "SetID": "d4hjaom",
-      "Name": "A Very Genki Holiday",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 1501
-    },
-    {
-      "ID": "A World Without Christmas",
-      "SetID": "d4hjaom",
-      "Name": "A World Without Christmas",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
-    },
-    {
-      "ID": "About Time!",
-      "SetID": "d4hjaom",
-      "Name": "About Time!",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 12007
-    },
-    {
-      "ID": "Actor-Turned-Politician",
-      "SetID": "d4hjaom",
-      "Name": "Actor-Turned-Politician",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 12007
-    },
-    {
-      "ID": "All Too Easy",
-      "SetID": "d4hjaom",
-      "Name": "All Too Easy",
-      "Percentage": 17,
-      "XP": 5,
-      "UsersEstimate": 25515
-    },
-    {
-      "ID": "And I Ran...",
-      "SetID": "d4hjaom",
-      "Name": "And I Ran...",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4503
-    },
-    {
-      "ID": "Back in the Day",
-      "SetID": "d4hjaom",
-      "Name": "Back in the Day",
-      "Percentage": 0.7,
-      "XP": 5,
-      "UsersEstimate": 1051
-    },
-    {
-      "ID": "Benjamin [CENSORED] King",
-      "SetID": "d4hjaom",
-      "Name": "Benjamin [CENSORED] King",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 3002
-    },
-    {
-      "ID": "Betrayed",
-      "SetID": "d4hjaom",
-      "Name": "Betrayed",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 10506
-    },
-    {
-      "ID": "Better This Way",
-      "SetID": "d4hjaom",
-      "Name": "Better This Way",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3002
-    },
-    {
-      "ID": "Blast from the Past",
-      "SetID": "d4hjaom",
-      "Name": "Blast from the Past",
-      "Percentage": 9,
-      "XP": 15,
-      "UsersEstimate": 13508
-    },
-    {
-      "ID": "Bouncin\u0027 with an Old Friend",
-      "SetID": "d4hjaom",
-      "Name": "Bouncin\u0027 with an Old Friend",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 3002
-    },
-    {
-      "ID": "Bow to the Boss",
-      "SetID": "d4hjaom",
-      "Name": "Bow to the Boss!",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 15009
-    },
-    {
-      "ID": "Bringin\u0027 the Heat",
-      "SetID": "d4hjaom",
-      "Name": "Bringin\u0027 the Heat",
-      "Percentage": 0.4,
-      "XP": 5,
-      "UsersEstimate": 600
-    },
-    {
-      "ID": "Chill Out",
-      "SetID": "d4hjaom",
-      "Name": "Chill Out",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4503
-    },
-    {
-      "ID": "Dear Santa",
-      "SetID": "d4hjaom",
-      "Name": "Dear Santa",
-      "Percentage": 0.8,
-      "XP": 5,
-      "UsersEstimate": 1201
-    },
-    {
-      "ID": "Destroyer-In-Chief",
-      "SetID": "d4hjaom",
-      "Name": "Destroyer-In-Chief",
-      "Percentage": 61,
-      "XP": 5,
-      "UsersEstimate": 91554
-    },
-    {
-      "ID": "Didn\u0027t Need to See Him Naked",
-      "SetID": "d4hjaom",
-      "Name": "Didn\u0027t Need to See Him Naked",
-      "Percentage": 15,
-      "XP": 15,
-      "UsersEstimate": 22513
-    },
-    {
-      "ID": "Don\u0027t Look Down",
-      "SetID": "d4hjaom",
-      "Name": "Don\u0027t Look Down",
-      "Percentage": 32,
-      "XP": 5,
-      "UsersEstimate": 48028
-    },
-    {
-      "ID": "Don\u0027t Panic",
-      "SetID": "d4hjaom",
-      "Name": "Don\u0027t Panic",
-      "Percentage": 31,
-      "XP": 25,
-      "UsersEstimate": 46527
+  "ProductSlug": "saints-row-iv-re-elected",
+  "Ranking_Rating": 664,
+  "Ranking_Popularity": 199,
+  "Ranking_PopularitySum": 300,
+  "Ranking_EOS_Progress": 53,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 15,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.4,
+  "RatingHistory": [
+    {
+      "Time": "2022-12-09T02:11:05.5025321+00:00",
+      "Rating": 4.4
     },
-    {
-      "ID": "Double Team",
-      "SetID": "d4hjaom",
-      "Name": "Double Team",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 9005
+    {
+      "Time": "2022-12-09T04:57:19.4078741+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "Elementary",
-      "SetID": "d4hjaom",
-      "Name": "Elementary",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4503
+    {
+      "Time": "2022-12-11T02:16:39.1449508+00:00",
+      "Rating": 4.41
     },
-    {
-      "ID": "Epic Jump Quest",
-      "SetID": "d4hjaom",
-      "Name": "Epic Jump Quest",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
+    {
+      "Time": "2022-12-13T04:57:36.4232396+00:00",
+      "Rating": 4.42
     },
-    {
-      "ID": "Experimental Tech",
-      "SetID": "d4hjaom",
-      "Name": "Experimental Tech",
-      "Percentage": 0.3,
-      "XP": 15,
-      "UsersEstimate": 450
+    {
+      "Time": "2022-12-15T03:58:20.6476168+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "First of Many",
-      "SetID": "d4hjaom",
-      "Name": "First of Many",
-      "Percentage": 45,
-      "XP": 5,
-      "UsersEstimate": 67540
+    {
+      "Time": "2022-12-15T16:58:21.5352918+00:00",
+      "Rating": 4.44
     },
-    {
-      "ID": "Fist Meet Ground",
-      "SetID": "d4hjaom",
-      "Name": "Fist Meet Ground",
-      "Percentage": 0.3,
-      "XP": 5,
-      "UsersEstimate": 450
+    {
+      "Time": "2022-12-18T13:04:29.3458844+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "Fourth and Forty",
-      "SetID": "d4hjaom",
-      "Name": "Fourth and Forty",
-      "Percentage": 0.3,
-      "XP": 50,
-      "UsersEstimate": 450
+    {
+      "Time": "2022-12-20T19:57:11.556948+00:00",
+      "Rating": 4.44
     },
-    {
-      "ID": "Friend of the Raptors",
-      "SetID": "d4hjaom",
-      "Name": "Friend of the Raptors",
-      "Percentage": 10,
-      "XP": 15,
-      "UsersEstimate": 15009
+    {
+      "Time": "2022-12-20T20:57:16.4294604+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "Get that Kid to a Psychologist",
-      "SetID": "d4hjaom",
-      "Name": "Get that Kid to a Psychologist",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
+    {
+      "Time": "2022-12-22T15:57:09.7529493+00:00",
+      "Rating": 4.44
     },
-    {
-      "ID": "Ghost in the Machine",
-      "SetID": "d4hjaom",
-      "Name": "Ghost in the Machine",
-      "Percentage": 20,
-      "XP": 20,
-      "UsersEstimate": 30018
+    {
+      "Time": "2022-12-28T02:02:54.1895658+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "Half Way Home",
-      "SetID": "d4hjaom",
-      "Name": "Half Way Home",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 6004
+    {
+      "Time": "2023-01-02T17:57:45.9391099+00:00",
+      "Rating": 4.42
     },
-    {
-      "ID": "He\u0027s Still on the Naughty List",
-      "SetID": "d4hjaom",
-      "Name": "He\u0027s Still on the Naughty List",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
+    {
+      "Time": "2023-01-02T18:57:57.6805221+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "Health Inspector",
-      "SetID": "d4hjaom",
-      "Name": "Health Inspector",
-      "Percentage": 0.5,
-      "XP": 5,
-      "UsersEstimate": 750
+    {
+      "Time": "2023-01-03T20:57:40.8087428+00:00",
+      "Rating": 4.42
     },
-    {
-      "ID": "Hello Little Friend",
-      "SetID": "d4hjaom",
-      "Name": "Hello Little Friend",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
+    {
+      "Time": "2023-01-04T20:57:32.6098663+00:00",
+      "Rating": 4.43
     },
-    {
-      "ID": "Here! Catch!",
-      "SetID": "d4hjaom",
-      "Name": "Here! Catch!",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 1501
+    {
+      "Time": "2023-01-07T21:57:30.6084812+00:00",
+      "Rating": 4.42
     },
-    {
-      "ID": "How It Should Be",
-      "SetID": "d4hjaom",
-      "Name": "How It Should Be",
-      "Percentage": 4,
-      "XP": 50,
-      "UsersEstimate": 6004
+    {
+      "Time": "2023-01-25T13:11:23.4645665+00:00",
+      "Rating": 4.41
     },
-    {
-      "ID": "I Am Become Death",
-      "SetID": "d4hjaom",
-      "Name": "I Am Become Death",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 150
+    {
+      "Time": "2023-01-27T05:57:38.3012463+00:00",
+      "Rating": 4.42
     },
-    {
-      "ID": "Imperator",
-      "SetID": "d4hjaom",
-      "Name": "Imperator",
-      "Percentage": 6,
-      "XP": 35,
-      "UsersEstimate": 9005
+    {
+      "Time": "2023-01-28T05:57:08.7418113+00:00",
+      "Rating": 4.41
     },
-    {
-      "ID": "Indomitable",
-      "SetID": "d4hjaom",
-      "Name": "Indomitable",
-      "Percentage": 11,
-      "XP": 5,
-      "UsersEstimate": 16510
+    {
+      "Time": "2023-01-29T13:06:21.0829375+00:00",
+      "Rating": 4.42
     },
-    {
-      "ID": "Keymaster",
-      "SetID": "d4hjaom",
-      "Name": "Keymaster",
-      "Percentage": 6,
-      "XP": 20,
-      "UsersEstimate": 9005
+    {
+      "Time": "2023-02-01T18:57:28.1206891+00:00",
+      "Rating": 4.41
     },
-    {
-      "ID": "Machine Man",
-      "SetID": "d4hjaom",
-      "Name": "Machine Man",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 6004
+    {
+      "Time": "2023-02-12T11:57:29.9670267+00:00",
+      "Rating": 4.4
     },
-    {
-      "ID": "Make a List, Check it Twice",
-      "SetID": "d4hjaom",
-      "Name": "Make a List, Check it Twice",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 1501
+    {
+      "Time": "2023-04-01T08:57:27.652312+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 369,
+      "NumberOfAwardsMax": 369
     },
-    {
-      "ID": "Maximum Stopping Power",
-      "SetID": "d4hjaom",
-      "Name": "Maximum Stopping Power",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 12007
+    {
+      "Time": "2023-04-04T07:57:22.4773907+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 371,
+      "NumberOfAwardsMax": 371
     },
-    {
-      "ID": "Minty Fresh!",
-      "SetID": "d4hjaom",
-      "Name": "Minty Fresh!",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 1501
+    {
+      "Time": "2023-04-05T19:57:53.565021+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 372
     },
-    {
-      "ID": "OMGWTFBBQ",
-      "SetID": "d4hjaom",
-      "Name": "OMGWTFBBQ",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
+    {
+      "Time": "2023-04-07T10:57:12.5691282+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 373,
+      "NumberOfAwardsMax": 373
     },
-    {
-      "ID": "On Her Saint\u0027s Secret Service",
-      "SetID": "d4hjaom",
-      "Name": "On Her Saint\u0027s Secret Service",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 4503
+    {
+      "Time": "2023-04-12T09:57:46.8441501+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 377,
+      "NumberOfAwardsMax": 377
     },
-    {
-      "ID": "Ooo A Piece of Candy!",
-      "SetID": "d4hjaom",
-      "Name": "Ooo A Piece of Candy!",
-      "Percentage": 25,
-      "XP": 5,
-      "UsersEstimate": 37522
+    {
+      "Time": "2023-04-13T11:57:46.920974+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 379,
+      "NumberOfAwardsMax": 379
     },
-    {
-      "ID": "Our Gift to You",
-      "SetID": "d4hjaom",
-      "Name": "Our Gift to You",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 3002
+    {
+      "Time": "2023-04-16T07:57:27.6715414+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 380
     },
-    {
-      "ID": "Paranormal Bromance",
-      "SetID": "d4hjaom",
-      "Name": "Paranormal Bromance",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 4503
+    {
+      "Time": "2023-04-18T14:57:30.3958966+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 381,
+      "NumberOfAwardsMax": 381
     },
-    {
-      "ID": "Poodle Skirt",
-      "SetID": "d4hjaom",
-      "Name": "Poodle Skirt",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 10506
+    {
+      "Time": "2023-04-21T13:02:59.3199507+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
     },
-    {
-      "ID": "Pounding the Pavement",
-      "SetID": "d4hjaom",
-      "Name": "Pounding the Pavement",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
+    {
+      "Time": "2023-04-22T20:57:34.9741376+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 387
     },
-    {
-      "ID": "Rigging the Race",
-      "SetID": "d4hjaom",
-      "Name": "Rigging the Race",
-      "Percentage": 0.7,
-      "XP": 5,
-      "UsersEstimate": 1051
+    {
+      "Time": "2023-04-25T20:59:49.9278131+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 388,
+      "NumberOfAwardsMax": 388
     },
-    {
-      "ID": "Saints \u0026 Sensibility",
-      "SetID": "d4hjaom",
-      "Name": "Saints \u0026 Sensibility",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 4503
+    {
+      "Time": "2023-04-28T13:02:59.4752889+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 389,
+      "NumberOfAwardsMax": 389
     },
-    {
-      "ID": "Super Power Team Up!",
-      "SetID": "d4hjaom",
-      "Name": "Super Power Team Up!",
-      "Percentage": 0.1,
-      "XP": 100,
-      "UsersEstimate": 150
+    {
+      "Time": "2023-04-30T06:58:00.5863236+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 390
     },
-    {
-      "ID": "Switch Hitter",
-      "SetID": "d4hjaom",
-      "Name": "Switch Hitter",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 1501
+    {
+      "Time": "2023-05-01T18:59:02.7845575+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 391,
+      "NumberOfAwardsMax": 391
     },
-    {
-      "ID": "The Challenge King",
-      "SetID": "d4hjaom",
-      "Name": "The Challenge King",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 450
+    {
+      "Time": "2023-05-03T11:58:23.6334332+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 394,
+      "NumberOfAwardsMax": 394
     },
-    {
-      "ID": "The Face of the Saints",
-      "SetID": "d4hjaom",
-      "Name": "The Face of the Saints",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 3002
-    },
-    {
-      "ID": "The Full Kinzie",
-      "SetID": "d4hjaom",
-      "Name": "The Full Kinzie",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 6004
-    },
-    {
-      "ID": "The Twin Saints",
-      "SetID": "d4hjaom",
-      "Name": "The Twin Saints",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3002
-    },
-    {
-      "ID": "The Two Shaundis",
-      "SetID": "d4hjaom",
-      "Name": "The Two Shaundis",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 6004
-    },
-    {
-      "ID": "The Whole Story",
-      "SetID": "d4hjaom",
-      "Name": "The Whole Story",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 1501
-    },
-    {
-      "ID": "There Is No Pancakes",
-      "SetID": "d4hjaom",
-      "Name": "There Is No Pancakes",
-      "Percentage": 57,
-      "XP": 5,
-      "UsersEstimate": 85550
-    },
-    {
-      "ID": "Ultimate Hot Potato",
-      "SetID": "d4hjaom",
-      "Name": "Ultimate Hot Potato",
-      "Percentage": 0.1,
-      "XP": 5,
-      "UsersEstimate": 150
-    },
-    {
-      "ID": "Walking the Dinorsaur",
-      "SetID": "d4hjaom",
-      "Name": "Walking the Dinosaur",
-      "Percentage": 0.4,
-      "XP": 5,
-      "UsersEstimate": 600
-    },
-    {
-      "ID": "Where\u0027s My Cape?",
-      "SetID": "d4hjaom",
-      "Name": "Where\u0027s My Cape?",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 3002
-    },
-    {
-      "ID": "Woah.",
-      "SetID": "d4hjaom",
-      "Name": "Woah.",
-      "Percentage": 40,
-      "XP": 15,
-      "UsersEstimate": 60035
-    },
-    {
-      "ID": "You Chose... Poorly",
-      "SetID": "d4hjaom",
-      "Name": "You Chose... Poorly",
-      "Percentage": 7,
-      "XP": 5,
-      "UsersEstimate": 10506
-    },
-    {
-      "ID": "Zero Saints Thirty",
-      "SetID": "d4hjaom",
-      "Name": "Zero Saints Thirty",
-      "Percentage": 67,
-      "XP": 5,
-      "UsersEstimate": 100559
-    },
-    {
-      "ID": "Zoo Keeper",
-      "SetID": "d4hjaom",
-      "Name": "Zoo Keeper",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 1501
+    {
+      "Time": "2023-05-05T06:58:36.7241578+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 395,
+      "NumberOfAwardsMax": 395
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 395,
+  "NumberOfAwardsMax": 395,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -587,6 +208,11 @@
       "Count": 395
     }
   ],
+  "EOS_Progressed": 150134,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 7495,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:41.5716998+00:00",
@@ -1797,227 +1423,607 @@
       "Time": "2023-05-05T16:07:47.2340472+00:00",
       "NumProgressed": 150088,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-05T17:09:31.0445006+00:00",
+      "NumProgressed": 150134,
+      "NumCompleted": 6
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-12-09T02:11:05.5025321+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-12-09T04:57:19.4078741+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-12-11T02:16:39.1449508+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-12-13T04:57:36.4232396+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-12-15T03:58:20.6476168+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-12-15T16:58:21.5352918+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-12-18T13:04:29.3458844+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-12-20T19:57:11.556948+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-12-20T20:57:16.4294604+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-12-22T15:57:09.7529493+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-12-28T02:02:54.1895658+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-01-02T17:57:45.9391099+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-01-02T18:57:57.6805221+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-01-03T20:57:40.8087428+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-01-04T20:57:32.6098663+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-01-07T21:57:30.6084812+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-01-25T13:11:23.4645665+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2023-01-27T05:57:38.3012463+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-01-28T05:57:08.7418113+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2023-01-29T13:06:21.0829375+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-02-01T18:57:28.1206891+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2023-02-12T11:57:29.9670267+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2023-04-01T08:57:27.652312+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 369,
-      "NumberOfAwardsMax": 369
-    },
-    {
-      "Time": "2023-04-04T07:57:22.4773907+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 371,
-      "NumberOfAwardsMax": 371
-    },
-    {
-      "Time": "2023-04-05T19:57:53.565021+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 372,
-      "NumberOfAwardsMax": 372
-    },
-    {
-      "Time": "2023-04-07T10:57:12.5691282+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 373,
-      "NumberOfAwardsMax": 373
-    },
-    {
-      "Time": "2023-04-12T09:57:46.8441501+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 377,
-      "NumberOfAwardsMax": 377
-    },
-    {
-      "Time": "2023-04-13T11:57:46.920974+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 379,
-      "NumberOfAwardsMax": 379
-    },
-    {
-      "Time": "2023-04-16T07:57:27.6715414+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 380,
-      "NumberOfAwardsMax": 380
-    },
-    {
-      "Time": "2023-04-18T14:57:30.3958966+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 381,
-      "NumberOfAwardsMax": 381
-    },
-    {
-      "Time": "2023-04-21T13:02:59.3199507+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 382,
-      "NumberOfAwardsMax": 382
-    },
-    {
-      "Time": "2023-04-22T20:57:34.9741376+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 387,
-      "NumberOfAwardsMax": 387
-    },
-    {
-      "Time": "2023-04-25T20:59:49.9278131+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 388,
-      "NumberOfAwardsMax": 388
-    },
-    {
-      "Time": "2023-04-28T13:02:59.4752889+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 389,
-      "NumberOfAwardsMax": 389
-    },
-    {
-      "Time": "2023-04-30T06:58:00.5863236+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 390,
-      "NumberOfAwardsMax": 390
-    },
-    {
-      "Time": "2023-05-01T18:59:02.7845575+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 391,
-      "NumberOfAwardsMax": 391
-    },
-    {
-      "Time": "2023-05-03T11:58:23.6334332+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 394,
-      "NumberOfAwardsMax": 394
-    },
-    {
-      "Time": "2023-05-05T06:58:36.7241578+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 395,
-      "NumberOfAwardsMax": 395
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 72,
-  "LastChanged_Achievements": "2023-05-05T16:07:47.2340467+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7496,
-  "EOS_Completed": 6,
-  "EOS_Progressed": 150088,
-  "LastUpdate_Achievements": "2023-05-05T16:07:47.2341217+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:35.7835003+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:58.7681344+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "*BEEP* YOU, CLAWZ!",
+      "SetID": "d4hjaom",
+      "Name": "*BEEP* YOU, CLAWZ!",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 7507
+    },
+    {
+      "ID": "...A Saint Gets a Gun",
+      "SetID": "d4hjaom",
+      "Name": "...A Saint Gets a Gun",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 6005
+    },
+    {
+      "ID": "A Real Cluster....",
+      "SetID": "d4hjaom",
+      "Name": "A Real Cluster....",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "A Very Genki Holiday",
+      "SetID": "d4hjaom",
+      "Name": "A Very Genki Holiday",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "A World Without Christmas",
+      "SetID": "d4hjaom",
+      "Name": "A World Without Christmas",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "About Time!",
+      "SetID": "d4hjaom",
+      "Name": "About Time!",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 12011
+    },
+    {
+      "ID": "Actor-Turned-Politician",
+      "SetID": "d4hjaom",
+      "Name": "Actor-Turned-Politician",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 12011
+    },
+    {
+      "ID": "All Too Easy",
+      "SetID": "d4hjaom",
+      "Name": "All Too Easy",
+      "Percentage": 17,
+      "XP": 5,
+      "UsersEstimate": 25523
+    },
+    {
+      "ID": "And I Ran...",
+      "SetID": "d4hjaom",
+      "Name": "And I Ran...",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4504
+    },
+    {
+      "ID": "Back in the Day",
+      "SetID": "d4hjaom",
+      "Name": "Back in the Day",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 1051
+    },
+    {
+      "ID": "Benjamin [CENSORED] King",
+      "SetID": "d4hjaom",
+      "Name": "Benjamin [CENSORED] King",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "Betrayed",
+      "SetID": "d4hjaom",
+      "Name": "Betrayed",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 10509
+    },
+    {
+      "ID": "Better This Way",
+      "SetID": "d4hjaom",
+      "Name": "Better This Way",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "Blast from the Past",
+      "SetID": "d4hjaom",
+      "Name": "Blast from the Past",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 13512
+    },
+    {
+      "ID": "Bouncin\u0027 with an Old Friend",
+      "SetID": "d4hjaom",
+      "Name": "Bouncin\u0027 with an Old Friend",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "Bow to the Boss",
+      "SetID": "d4hjaom",
+      "Name": "Bow to the Boss!",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 15013
+    },
+    {
+      "ID": "Bringin\u0027 the Heat",
+      "SetID": "d4hjaom",
+      "Name": "Bringin\u0027 the Heat",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 601
+    },
+    {
+      "ID": "Chill Out",
+      "SetID": "d4hjaom",
+      "Name": "Chill Out",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4504
+    },
+    {
+      "ID": "Dear Santa",
+      "SetID": "d4hjaom",
+      "Name": "Dear Santa",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1201
+    },
+    {
+      "ID": "Destroyer-In-Chief",
+      "SetID": "d4hjaom",
+      "Name": "Destroyer-In-Chief",
+      "Percentage": 61,
+      "XP": 5,
+      "UsersEstimate": 91582
+    },
+    {
+      "ID": "Didn\u0027t Need to See Him Naked",
+      "SetID": "d4hjaom",
+      "Name": "Didn\u0027t Need to See Him Naked",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 22520
+    },
+    {
+      "ID": "Don\u0027t Look Down",
+      "SetID": "d4hjaom",
+      "Name": "Don\u0027t Look Down",
+      "Percentage": 32,
+      "XP": 5,
+      "UsersEstimate": 48043
+    },
+    {
+      "ID": "Don\u0027t Panic",
+      "SetID": "d4hjaom",
+      "Name": "Don\u0027t Panic",
+      "Percentage": 31,
+      "XP": 25,
+      "UsersEstimate": 46542
+    },
+    {
+      "ID": "Double Team",
+      "SetID": "d4hjaom",
+      "Name": "Double Team",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 9008
+    },
+    {
+      "ID": "Elementary",
+      "SetID": "d4hjaom",
+      "Name": "Elementary",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4504
+    },
+    {
+      "ID": "Epic Jump Quest",
+      "SetID": "d4hjaom",
+      "Name": "Epic Jump Quest",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Experimental Tech",
+      "SetID": "d4hjaom",
+      "Name": "Experimental Tech",
+      "Percentage": 0.3,
+      "XP": 15,
+      "UsersEstimate": 450
+    },
+    {
+      "ID": "First of Many",
+      "SetID": "d4hjaom",
+      "Name": "First of Many",
+      "Percentage": 45,
+      "XP": 5,
+      "UsersEstimate": 67560
+    },
+    {
+      "ID": "Fist Meet Ground",
+      "SetID": "d4hjaom",
+      "Name": "Fist Meet Ground",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 450
+    },
+    {
+      "ID": "Fourth and Forty",
+      "SetID": "d4hjaom",
+      "Name": "Fourth and Forty",
+      "Percentage": 0.3,
+      "XP": 50,
+      "UsersEstimate": 450
+    },
+    {
+      "ID": "Friend of the Raptors",
+      "SetID": "d4hjaom",
+      "Name": "Friend of the Raptors",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 15013
+    },
+    {
+      "ID": "Get that Kid to a Psychologist",
+      "SetID": "d4hjaom",
+      "Name": "Get that Kid to a Psychologist",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Ghost in the Machine",
+      "SetID": "d4hjaom",
+      "Name": "Ghost in the Machine",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 30027
+    },
+    {
+      "ID": "Half Way Home",
+      "SetID": "d4hjaom",
+      "Name": "Half Way Home",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 6005
+    },
+    {
+      "ID": "He\u0027s Still on the Naughty List",
+      "SetID": "d4hjaom",
+      "Name": "He\u0027s Still on the Naughty List",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Health Inspector",
+      "SetID": "d4hjaom",
+      "Name": "Health Inspector",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 751
+    },
+    {
+      "ID": "Hello Little Friend",
+      "SetID": "d4hjaom",
+      "Name": "Hello Little Friend",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Here! Catch!",
+      "SetID": "d4hjaom",
+      "Name": "Here! Catch!",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "How It Should Be",
+      "SetID": "d4hjaom",
+      "Name": "How It Should Be",
+      "Percentage": 4,
+      "XP": 50,
+      "UsersEstimate": 6005
+    },
+    {
+      "ID": "I Am Become Death",
+      "SetID": "d4hjaom",
+      "Name": "I Am Become Death",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Imperator",
+      "SetID": "d4hjaom",
+      "Name": "Imperator",
+      "Percentage": 6,
+      "XP": 35,
+      "UsersEstimate": 9008
+    },
+    {
+      "ID": "Indomitable",
+      "SetID": "d4hjaom",
+      "Name": "Indomitable",
+      "Percentage": 11,
+      "XP": 5,
+      "UsersEstimate": 16515
+    },
+    {
+      "ID": "Keymaster",
+      "SetID": "d4hjaom",
+      "Name": "Keymaster",
+      "Percentage": 6,
+      "XP": 20,
+      "UsersEstimate": 9008
+    },
+    {
+      "ID": "Machine Man",
+      "SetID": "d4hjaom",
+      "Name": "Machine Man",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 6005
+    },
+    {
+      "ID": "Make a List, Check it Twice",
+      "SetID": "d4hjaom",
+      "Name": "Make a List, Check it Twice",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "Maximum Stopping Power",
+      "SetID": "d4hjaom",
+      "Name": "Maximum Stopping Power",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 12011
+    },
+    {
+      "ID": "Minty Fresh!",
+      "SetID": "d4hjaom",
+      "Name": "Minty Fresh!",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "OMGWTFBBQ",
+      "SetID": "d4hjaom",
+      "Name": "OMGWTFBBQ",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "On Her Saint\u0027s Secret Service",
+      "SetID": "d4hjaom",
+      "Name": "On Her Saint\u0027s Secret Service",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4504
+    },
+    {
+      "ID": "Ooo A Piece of Candy!",
+      "SetID": "d4hjaom",
+      "Name": "Ooo A Piece of Candy!",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 37534
+    },
+    {
+      "ID": "Our Gift to You",
+      "SetID": "d4hjaom",
+      "Name": "Our Gift to You",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "Paranormal Bromance",
+      "SetID": "d4hjaom",
+      "Name": "Paranormal Bromance",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4504
+    },
+    {
+      "ID": "Poodle Skirt",
+      "SetID": "d4hjaom",
+      "Name": "Poodle Skirt",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 10509
+    },
+    {
+      "ID": "Pounding the Pavement",
+      "SetID": "d4hjaom",
+      "Name": "Pounding the Pavement",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Rigging the Race",
+      "SetID": "d4hjaom",
+      "Name": "Rigging the Race",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 1051
+    },
+    {
+      "ID": "Saints \u0026 Sensibility",
+      "SetID": "d4hjaom",
+      "Name": "Saints \u0026 Sensibility",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4504
+    },
+    {
+      "ID": "Super Power Team Up!",
+      "SetID": "d4hjaom",
+      "Name": "Super Power Team Up!",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Switch Hitter",
+      "SetID": "d4hjaom",
+      "Name": "Switch Hitter",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "The Challenge King",
+      "SetID": "d4hjaom",
+      "Name": "The Challenge King",
+      "Percentage": 0.3,
+      "XP": 30,
+      "UsersEstimate": 450
+    },
+    {
+      "ID": "The Face of the Saints",
+      "SetID": "d4hjaom",
+      "Name": "The Face of the Saints",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "The Full Kinzie",
+      "SetID": "d4hjaom",
+      "Name": "The Full Kinzie",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 6005
+    },
+    {
+      "ID": "The Twin Saints",
+      "SetID": "d4hjaom",
+      "Name": "The Twin Saints",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "The Two Shaundis",
+      "SetID": "d4hjaom",
+      "Name": "The Two Shaundis",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 6005
+    },
+    {
+      "ID": "The Whole Story",
+      "SetID": "d4hjaom",
+      "Name": "The Whole Story",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1501
+    },
+    {
+      "ID": "There Is No Pancakes",
+      "SetID": "d4hjaom",
+      "Name": "There Is No Pancakes",
+      "Percentage": 57,
+      "XP": 5,
+      "UsersEstimate": 85576
+    },
+    {
+      "ID": "Ultimate Hot Potato",
+      "SetID": "d4hjaom",
+      "Name": "Ultimate Hot Potato",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "Walking the Dinorsaur",
+      "SetID": "d4hjaom",
+      "Name": "Walking the Dinosaur",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 601
+    },
+    {
+      "ID": "Where\u0027s My Cape?",
+      "SetID": "d4hjaom",
+      "Name": "Where\u0027s My Cape?",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 3003
+    },
+    {
+      "ID": "Woah.",
+      "SetID": "d4hjaom",
+      "Name": "Woah.",
+      "Percentage": 40,
+      "XP": 15,
+      "UsersEstimate": 60054
+    },
+    {
+      "ID": "You Chose... Poorly",
+      "SetID": "d4hjaom",
+      "Name": "You Chose... Poorly",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 10509
+    },
+    {
+      "ID": "Zero Saints Thirty",
+      "SetID": "d4hjaom",
+      "Name": "Zero Saints Thirty",
+      "Percentage": 67,
+      "XP": 5,
+      "UsersEstimate": 100590
+    },
+    {
+      "ID": "Zoo Keeper",
+      "SetID": "d4hjaom",
+      "Name": "Zoo Keeper",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1501
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 150088,
+      "Progressed": 150134,
       "Completed": 6
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T06:58:36.7241576+00:00",
-  "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
-  "ProductSlug": "saints-row-iv-re-elected",
-  "Rating": 4.4,
-  "Ranking_Rating": 664,
-  "Ranking_Popularity": 199,
-  "Ranking_PopularitySum": 300,
-  "Ranking_EOS_Progress": 53,
-  "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 395,
-  "NumberOfAwardsMax": 395,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
-  "Ranking_EOS_NewPlayers": 15
+  "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
+  "LastChanged": "2023-05-05T06:58:36.7241576+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:31.0445002+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:52.2640572+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:53.0527277+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:31.0445738+00:00"
 }

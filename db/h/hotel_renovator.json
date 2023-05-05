@@ -1,6 +1,216 @@
 {
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
+  "ProductSlug": "hotel-renovator",
+  "Ranking_Rating": 531,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 172,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.5,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-30T21:57:33.3986384+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2023-03-31T05:57:31.9854555+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T21:57:36.2441203+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T21:57:13.957878+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T21:57:40.7936685+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T21:57:18.1223091+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T21:57:16.8800546+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-05T13:04:29.3480638+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 718,
+  "EOS_Completed": 11,
+  "EOS_NewPlayers": 21,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.53,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:47.1560439+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-26T17:04:34.5118019+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-26T20:04:12.0121091+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-27T15:06:14.3070648+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-27T20:04:55.1747681+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-27T22:04:21.525232+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T09:39:57.0453823+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T14:04:23.5086723+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T16:04:18.8676033+00:00",
+      "NumProgressed": 697,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T22:04:26.8681781+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T08:04:01.4307149+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T10:04:01.9135268+00:00",
+      "NumProgressed": 700,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T14:05:17.3771028+00:00",
+      "NumProgressed": 701,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T20:03:57.4292244+00:00",
+      "NumProgressed": 703,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T21:04:20.6146184+00:00",
+      "NumProgressed": 704,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T23:04:26.8696506+00:00",
+      "NumProgressed": 705,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T02:06:02.2113448+00:00",
+      "NumProgressed": 706,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T10:04:01.646719+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T13:07:39.5693529+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T17:04:23.6089836+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T23:04:28.596239+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-01T22:04:23.7673664+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-02T02:03:08.5209208+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-02T19:05:07.7295604+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-04T12:04:51.4685449+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-04T19:04:34.4960166+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-05T01:58:51.3295066+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-05T10:05:02.4652761+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 11
+    }
+  ],
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_BOOK_5",
@@ -22,9 +232,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -206,9 +416,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -219,207 +429,6 @@
       "UsersEstimate": 395
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:47.1560439+00:00",
-      "NumProgressed": 687,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-26T17:04:34.5118019+00:00",
-      "NumProgressed": 688,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-26T20:04:12.0121091+00:00",
-      "NumProgressed": 689,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-27T15:06:14.3070648+00:00",
-      "NumProgressed": 691,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-27T20:04:55.1747681+00:00",
-      "NumProgressed": 692,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-27T22:04:21.525232+00:00",
-      "NumProgressed": 693,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-28T09:39:57.0453823+00:00",
-      "NumProgressed": 694,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-28T14:04:23.5086723+00:00",
-      "NumProgressed": 696,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-28T16:04:18.8676033+00:00",
-      "NumProgressed": 697,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-28T22:04:26.8681781+00:00",
-      "NumProgressed": 698,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T08:04:01.4307149+00:00",
-      "NumProgressed": 699,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T10:04:01.9135268+00:00",
-      "NumProgressed": 700,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T14:05:17.3771028+00:00",
-      "NumProgressed": 701,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T20:03:57.4292244+00:00",
-      "NumProgressed": 703,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T21:04:20.6146184+00:00",
-      "NumProgressed": 704,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T23:04:26.8696506+00:00",
-      "NumProgressed": 705,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T02:06:02.2113448+00:00",
-      "NumProgressed": 706,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T10:04:01.646719+00:00",
-      "NumProgressed": 707,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T13:07:39.5693529+00:00",
-      "NumProgressed": 709,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T17:04:23.6089836+00:00",
-      "NumProgressed": 710,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T23:04:28.596239+00:00",
-      "NumProgressed": 711,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-01T22:04:23.7673664+00:00",
-      "NumProgressed": 712,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-02T02:03:08.5209208+00:00",
-      "NumProgressed": 713,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-02T19:05:07.7295604+00:00",
-      "NumProgressed": 714,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-04T12:04:51.4685449+00:00",
-      "NumProgressed": 715,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-04T19:04:34.4960166+00:00",
-      "NumProgressed": 716,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-05T01:58:51.3295066+00:00",
-      "NumProgressed": 717,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-05T10:05:02.4652761+00:00",
-      "NumProgressed": 718,
-      "NumCompleted": 11
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-30T21:57:33.3986384+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2023-03-31T05:57:31.9854555+00:00",
-      "Rating": 4.35,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-02T21:57:36.2441203+00:00",
-      "Rating": 4.38,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-09T21:57:13.957878+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-11T21:57:40.7936685+00:00",
-      "Rating": 4.43,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T21:57:18.1223091+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T21:57:16.8800546+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-05T13:04:29.3480638+00:00",
-      "Rating": 4.5,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 27,
-  "LastChanged_Achievements": "2023-05-05T16:08:01.1211989+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 21,
-  "EOS_Completed": 11,
-  "EOS_Progressed": 718,
-  "LastUpdate_Achievements": "2023-05-05T16:08:01.1212195+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:42.8595279+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:44.0588428+00:00",
   "AchievementSets": [
     {
       "ID": "7k95e4n",
@@ -428,20 +437,12 @@
       "Completed": 11
     }
   ],
-  "EOS_Completed_Percentage": 1.53,
-  "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
-  "ProductSlug": "hotel-renovator",
-  "Rating": 4.5,
-  "Ranking_Rating": 531,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 172,
-  "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
-  "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
-  "Ranking_EOS_NewPlayers": 153
+  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
+  "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:41.3297448+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:38.8980082+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:41.3297644+00:00"
 }

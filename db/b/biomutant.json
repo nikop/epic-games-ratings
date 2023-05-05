@@ -1,22 +1,16 @@
 {
   "ID": "f7dc2f3c915444f1a6ba4105bc00d592",
   "Name": "BIOMUTANT",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 114
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 43
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "biomutant",
+  "Ranking_Rating": 732,
+  "Ranking_Popularity": 307,
+  "Ranking_PopularitySum": 374,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.33,
+  "NumberOfRatings": 198,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.6090067+00:00",
@@ -388,30 +382,37 @@
       "NumberOfAwardsMax": 114
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:58.590637+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:34.1817686+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:38.9285636+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-29T05:59:01.9952879+00:00",
-  "ProductSlug": "biomutant",
-  "Rating": 4.33,
-  "Ranking_Rating": 732,
-  "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 374,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 198,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 157,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 114
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 43
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-29T05:59:01.9952879+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:34.168454+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:31.852411+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:16.6893395+00:00"
 }

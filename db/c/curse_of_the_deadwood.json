@@ -1,6 +1,37 @@
 {
   "ID": "f847aa02bd6c455ca51a11093354684b",
   "Name": "Curse of the Deadwood",
+  "ProductSlug": "curse-of-the-deadwood-3dcda7",
+  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:59.0266213+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 2,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:33.6192794+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 70,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_ALLSANDOVALE",
@@ -563,32 +594,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:33.6192794+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:59.0266213+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 70,
-  "LastChanged_Achievements": "2023-05-05T16:07:24.4593382+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T16:07:24.4593982+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:01.8690933+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:57.8351257+00:00",
   "AchievementSets": [
     {
       "ID": "aichi7e",
@@ -597,16 +602,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:59.026621+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:59.0266209+00:00",
-  "ProductSlug": "curse-of-the-deadwood-3dcda7",
-  "Ranking_EOS_Progress": 341,
-  "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-31T23:31:27.8477915+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:57:59.0266209+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00",
+  "LastChanged": "2023-03-31T05:57:59.026621+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:14.2429283+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:46.3317953+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:50.4625259+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:14.2429972+00:00"
 }

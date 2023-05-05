@@ -1,6 +1,64 @@
 {
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
+  "ProductSlug": "curious-expedition-2-8cb901",
+  "Ranking_Rating": 192,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.7,
+  "NumberOfRatings": 20,
+  "RatingHistory": [
+    {
+      "Time": "2022-09-21T17:31:43.7401171+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": 20
+    },
+    {
+      "Time": "2022-10-13T06:32:04.607835+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-12-22T11:57:44.0488027+00:00",
+      "Rating": 4.68
+    },
+    {
+      "Time": "2023-02-09T21:57:39.2809053+00:00",
+      "Rating": 4.7
+    },
+    {
+      "Time": "2023-03-31T05:57:33.841013+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 288,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.35,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:50.9590463+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T16:08:21.8091414+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 60,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ach-abominationEatPerson",
@@ -483,54 +541,6 @@
       "UsersEstimate": 43
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:50.9590463+00:00",
-      "NumProgressed": 287,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-05T16:08:21.8091414+00:00",
-      "NumProgressed": 288,
-      "NumCompleted": 1
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-09-21T17:31:43.7401171+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": 20
-    },
-    {
-      "Time": "2022-10-13T06:32:04.607835+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-12-22T11:57:44.0488027+00:00",
-      "Rating": 4.68
-    },
-    {
-      "Time": "2023-02-09T21:57:39.2809053+00:00",
-      "Rating": 4.7
-    },
-    {
-      "Time": "2023-03-31T05:57:33.841013+00:00",
-      "Rating": 4.7,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-05T16:08:21.8091406+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 1,
-  "EOS_Progressed": 288,
-  "LastUpdate_Achievements": "2023-05-05T16:08:21.8092105+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:03:00.9460568+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:37.5791613+00:00",
   "AchievementSets": [
     {
       "ID": "17ih7ma",
@@ -539,21 +549,12 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0.35,
-  "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
-  "ProductSlug": "curious-expedition-2-8cb901",
-  "Rating": 4.7,
-  "Ranking_Rating": 192,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 207,
-  "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 20,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:56.4682953+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
+  "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:56.5839034+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:37.7226254+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:29.5616961+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:56.5839818+00:00"
 }

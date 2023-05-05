@@ -1,22 +1,16 @@
 {
   "ID": "1b8a504ec52d4430b65cca2990ad6c7f",
   "Name": "Crashlands",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 188
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 88
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "crashlands",
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 261,
+  "Ranking_PopularitySum": 328,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.66,
+  "NumberOfRatings": 517,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -588,30 +582,37 @@
       "NumberOfAwardsMax": 188
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:04:32.199905+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:25.3061262+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:51.2647826+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-22T07:57:57.5812873+00:00",
-  "ProductSlug": "crashlands",
-  "Rating": 4.66,
-  "Ranking_Rating": 272,
-  "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 328,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 517,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 276,
   "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 188
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 88
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-22T07:57:57.5812873+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:44.9166756+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:46.324094+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:19.7022837+00:00"
 }

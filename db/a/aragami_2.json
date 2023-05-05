@@ -1,361 +1,214 @@
 {
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
-  "Achievements": [
+  "ProductSlug": "aragami-2",
+  "Ranking_Rating": 428,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 80,
+  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 35,
+  "Rating": 4.57,
+  "NumberOfRatings": 88,
+  "RatingHistory": [
     {
-      "ID": "ACHIEVEMENT_1",
-      "SetID": "db84117",
-      "Name": "Secret Seeker",
-      "Percentage": 57,
-      "XP": 10,
-      "UsersEstimate": 18088
+      "Time": "2022-08-18T20:02:23.7159826+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 22
     },
     {
-      "ID": "ACHIEVEMENT_10",
-      "SetID": "db84117",
-      "Name": "Lady",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 9520
+      "Time": "2022-08-19T20:02:14.0621223+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 28
     },
     {
-      "ID": "ACHIEVEMENT_11",
-      "SetID": "db84117",
-      "Name": "Embers",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 6664
+      "Time": "2022-08-21T19:32:15.0793951+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 31
     },
     {
-      "ID": "ACHIEVEMENT_12",
-      "SetID": "db84117",
-      "Name": "Burning",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 5395
+      "Time": "2022-08-22T19:32:15.7131372+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 38
     },
     {
-      "ID": "ACHIEVEMENT_13",
-      "SetID": "db84117",
-      "Name": "Family",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 4443
+      "Time": "2022-08-23T19:31:42.4333225+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 44
     },
     {
-      "ID": "ACHIEVEMENT_14",
-      "SetID": "db84117",
-      "Name": "Ruse",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 3491
+      "Time": "2022-08-24T04:01:33.2884515+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 46
     },
     {
-      "ID": "ACHIEVEMENT_15",
-      "SetID": "db84117",
-      "Name": "Hatching",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 2856
+      "Time": "2022-08-25T07:32:11.301555+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 49
     },
     {
-      "ID": "ACHIEVEMENT_16",
-      "SetID": "db84117",
-      "Name": "Bonds",
-      "Percentage": 9,
-      "XP": 20,
-      "UsersEstimate": 2856
+      "Time": "2022-08-26T07:31:39.2358626+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 50
     },
     {
-      "ID": "ACHIEVEMENT_18",
-      "SetID": "db84117",
-      "Name": "Denouement",
-      "Percentage": 8,
-      "XP": 100,
-      "UsersEstimate": 2539
+      "Time": "2022-08-26T22:32:38.8513739+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 52
     },
     {
-      "ID": "ACHIEVEMENT_19",
-      "SetID": "db84117",
-      "Name": "War Engines",
-      "Percentage": 14,
-      "XP": 30,
-      "UsersEstimate": 4443
+      "Time": "2022-08-27T17:31:44.6756765+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 56
     },
     {
-      "ID": "ACHIEVEMENT_2",
-      "SetID": "db84117",
-      "Name": "The Lookout",
-      "Percentage": 5,
-      "XP": 30,
-      "UsersEstimate": 1587
+      "Time": "2022-08-28T17:31:45.1353563+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 58
     },
     {
-      "ID": "ACHIEVEMENT_20",
-      "SetID": "db84117",
-      "Name": "Left Behind",
-      "Percentage": 4,
-      "XP": 30,
-      "UsersEstimate": 1269
+      "Time": "2022-08-29T17:02:14.3372487+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 59
     },
     {
-      "ID": "ACHIEVEMENT_21",
-      "SetID": "db84117",
-      "Name": "Secrets of the Earth",
-      "Percentage": 4,
-      "XP": 30,
-      "UsersEstimate": 1269
+      "Time": "2022-08-30T16:02:31.5264192+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 63
     },
     {
-      "ID": "ACHIEVEMENT_22",
-      "SetID": "db84117",
-      "Name": "The Lion\u2019s Den",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 952
+      "Time": "2022-08-31T07:02:47.728075+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 65
     },
     {
-      "ID": "ACHIEVEMENT_23",
-      "SetID": "db84117",
-      "Name": "Heart of Fire",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 952
+      "Time": "2022-08-31T07:31:54.9536308+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 63
     },
     {
-      "ID": "ACHIEVEMENT_24",
-      "SetID": "db84117",
-      "Name": "First Steps",
-      "Percentage": 81,
-      "XP": 10,
-      "UsersEstimate": 25705
+      "Time": "2022-08-31T15:31:42.8259837+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 66
     },
     {
-      "ID": "ACHIEVEMENT_25",
-      "SetID": "db84117",
-      "Name": "Master Ninja",
-      "Percentage": 10,
-      "XP": 40,
-      "UsersEstimate": 3173
+      "Time": "2022-09-01T03:31:34.7053223+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 67
     },
     {
-      "ID": "ACHIEVEMENT_26",
-      "SetID": "db84117",
-      "Name": "Hot Potato",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 317
+      "Time": "2022-09-01T18:31:42.2714945+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 68
     },
     {
-      "ID": "ACHIEVEMENT_27",
-      "SetID": "db84117",
-      "Name": "Get Over Here",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 2539
+      "Time": "2022-09-02T17:02:19.1920434+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 70
     },
     {
-      "ID": "ACHIEVEMENT_28",
-      "SetID": "db84117",
-      "Name": "Anger Management",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 317
+      "Time": "2022-09-03T17:01:58.6317068+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 72
     },
     {
-      "ID": "ACHIEVEMENT_29",
-      "SetID": "db84117",
-      "Name": "Look Behind You",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 5077
+      "Time": "2022-09-04T23:01:52.0509773+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 74
     },
     {
-      "ID": "ACHIEVEMENT_3",
-      "SetID": "db84117",
-      "Name": "The Hidden Village",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 2539
+      "Time": "2022-09-06T14:02:17.7565432+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 77
     },
     {
-      "ID": "ACHIEVEMENT_30",
-      "SetID": "db84117",
-      "Name": "Soul Reaver",
-      "Percentage": 22,
-      "XP": 40,
-      "UsersEstimate": 6981
+      "Time": "2022-09-11T05:32:51.4741629+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 79
     },
     {
-      "ID": "ACHIEVEMENT_31",
-      "SetID": "db84117",
-      "Name": "Sleeping on the Job",
-      "Percentage": 16,
-      "XP": 40,
-      "UsersEstimate": 5077
+      "Time": "2022-09-11T13:03:06.374801+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 82
     },
     {
-      "ID": "ACHIEVEMENT_32",
-      "SetID": "db84117",
-      "Name": "Bird of Prey",
-      "Percentage": 37,
-      "XP": 20,
-      "UsersEstimate": 11742
+      "Time": "2022-09-13T15:31:50.7316033+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 83
     },
     {
-      "ID": "ACHIEVEMENT_33",
-      "SetID": "db84117",
-      "Name": "Clinging to Life",
-      "Percentage": 18,
-      "XP": 20,
-      "UsersEstimate": 5712
+      "Time": "2022-09-17T07:01:43.4227003+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 84
     },
     {
-      "ID": "ACHIEVEMENT_34",
-      "SetID": "db84117",
-      "Name": "Wall Lizard",
-      "Percentage": 20,
-      "XP": 20,
-      "UsersEstimate": 6347
+      "Time": "2022-09-18T07:01:46.9964859+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 85
     },
     {
-      "ID": "ACHIEVEMENT_35",
-      "SetID": "db84117",
-      "Name": "Apex Predator",
-      "Percentage": 24,
-      "XP": 20,
-      "UsersEstimate": 7616
+      "Time": "2022-09-18T21:31:41.290206+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 86
     },
     {
-      "ID": "ACHIEVEMENT_36",
-      "SetID": "db84117",
-      "Name": "Forge of Assassins",
-      "Percentage": 55,
-      "XP": 10,
-      "UsersEstimate": 17454
+      "Time": "2022-09-20T21:32:51.5075531+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 88
     },
     {
-      "ID": "ACHIEVEMENT_37",
-      "SetID": "db84117",
-      "Name": "Engraved with Power",
-      "Percentage": 32,
-      "XP": 10,
-      "UsersEstimate": 10155
+      "Time": "2022-09-24T13:34:24.445211+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ACHIEVEMENT_38",
-      "SetID": "db84117",
-      "Name": "Tools of the Trade",
-      "Percentage": 63,
-      "XP": 10,
-      "UsersEstimate": 19992
+      "Time": "2022-09-27T03:01:32.0046944+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ACHIEVEMENT_39",
-      "SetID": "db84117",
-      "Name": "Fashionable Assassin",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 8568
+      "Time": "2022-10-28T17:02:35.8430242+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ACHIEVEMENT_4",
-      "SetID": "db84117",
-      "Name": "A Pleasant Stay",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 2539
+      "Time": "2022-11-09T13:35:12.4810284+00:00",
+      "Rating": 4.54
     },
     {
-      "ID": "ACHIEVEMENT_40",
-      "SetID": "db84117",
-      "Name": "Apprentice",
-      "Percentage": 60,
-      "XP": 10,
-      "UsersEstimate": 19040
+      "Time": "2022-11-22T04:01:24.7682065+00:00",
+      "Rating": 4.55
     },
     {
-      "ID": "ACHIEVEMENT_41",
-      "SetID": "db84117",
-      "Name": "Control the Shadows",
-      "Percentage": 68,
-      "XP": 10,
-      "UsersEstimate": 21579
+      "Time": "2022-11-25T21:57:53.0411091+00:00",
+      "Rating": 4.56
     },
     {
-      "ID": "ACHIEVEMENT_42",
-      "SetID": "db84117",
-      "Name": "The Spirit of Vengeance",
-      "Percentage": 5,
-      "XP": 100,
-      "UsersEstimate": 1587
+      "Time": "2022-12-06T16:58:17.0731755+00:00",
+      "Rating": 4.57
     },
     {
-      "ID": "ACHIEVEMENT_43",
-      "SetID": "db84117",
-      "Name": "Signature Move",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 4443
+      "Time": "2023-01-21T19:58:07.5019274+00:00",
+      "Rating": 4.56
     },
     {
-      "ID": "ACHIEVEMENT_44",
-      "SetID": "db84117",
-      "Name": "Legacy",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 635
+      "Time": "2023-02-07T20:57:58.0757206+00:00",
+      "Rating": 4.57
     },
     {
-      "ID": "ACHIEVEMENT_45",
-      "SetID": "db84117",
-      "Name": "I don\u2019t Care!",
-      "Percentage": 45,
-      "XP": 10,
-      "UsersEstimate": 14280
-    },
-    {
-      "ID": "ACHIEVEMENT_5",
-      "SetID": "db84117",
-      "Name": "Hollow",
-      "Percentage": 4,
-      "XP": 30,
-      "UsersEstimate": 1269
-    },
-    {
-      "ID": "ACHIEVEMENT_6",
-      "SetID": "db84117",
-      "Name": "Pilgrimage",
-      "Percentage": 7,
-      "XP": 30,
-      "UsersEstimate": 2221
-    },
-    {
-      "ID": "ACHIEVEMENT_7",
-      "SetID": "db84117",
-      "Name": "Forest Spirits",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 952
-    },
-    {
-      "ID": "ACHIEVEMENT_8",
-      "SetID": "db84117",
-      "Name": "Awakening",
-      "Percentage": 92,
-      "XP": 10,
-      "UsersEstimate": 29195
-    },
-    {
-      "ID": "ACHIEVEMENT_9",
-      "SetID": "db84117",
-      "Name": "Revenant",
-      "Percentage": 51,
-      "XP": 10,
-      "UsersEstimate": 16184
+      "Time": "2023-03-31T05:58:07.8538506+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 31739,
+  "EOS_Completed": 147,
+  "EOS_NewPlayers": 530,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.0141589+00:00",
@@ -1346,230 +1199,383 @@
       "Time": "2023-05-05T16:07:12.918911+00:00",
       "NumProgressed": 31734,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-05-05T17:09:05.858935+00:00",
+      "NumProgressed": 31739,
+      "NumCompleted": 147
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-08-18T20:02:23.7159826+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 22
-    },
-    {
-      "Time": "2022-08-19T20:02:14.0621223+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 28
-    },
-    {
-      "Time": "2022-08-21T19:32:15.0793951+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 31
-    },
-    {
-      "Time": "2022-08-22T19:32:15.7131372+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": 38
-    },
-    {
-      "Time": "2022-08-23T19:31:42.4333225+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 44
-    },
-    {
-      "Time": "2022-08-24T04:01:33.2884515+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": 46
-    },
-    {
-      "Time": "2022-08-25T07:32:11.301555+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 49
-    },
-    {
-      "Time": "2022-08-26T07:31:39.2358626+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 50
-    },
-    {
-      "Time": "2022-08-26T22:32:38.8513739+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 52
-    },
-    {
-      "Time": "2022-08-27T17:31:44.6756765+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 56
-    },
-    {
-      "Time": "2022-08-28T17:31:45.1353563+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 58
-    },
-    {
-      "Time": "2022-08-29T17:02:14.3372487+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 59
-    },
-    {
-      "Time": "2022-08-30T16:02:31.5264192+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 63
-    },
-    {
-      "Time": "2022-08-31T07:02:47.728075+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 65
-    },
-    {
-      "Time": "2022-08-31T07:31:54.9536308+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 63
-    },
-    {
-      "Time": "2022-08-31T15:31:42.8259837+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": 66
-    },
-    {
-      "Time": "2022-09-01T03:31:34.7053223+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 67
-    },
-    {
-      "Time": "2022-09-01T18:31:42.2714945+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": 68
-    },
-    {
-      "Time": "2022-09-02T17:02:19.1920434+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 70
-    },
-    {
-      "Time": "2022-09-03T17:01:58.6317068+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 72
-    },
-    {
-      "Time": "2022-09-04T23:01:52.0509773+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 74
-    },
-    {
-      "Time": "2022-09-06T14:02:17.7565432+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 77
-    },
-    {
-      "Time": "2022-09-11T05:32:51.4741629+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 79
-    },
-    {
-      "Time": "2022-09-11T13:03:06.374801+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 82
-    },
-    {
-      "Time": "2022-09-13T15:31:50.7316033+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 83
-    },
-    {
-      "Time": "2022-09-17T07:01:43.4227003+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 84
-    },
-    {
-      "Time": "2022-09-18T07:01:46.9964859+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 85
-    },
-    {
-      "Time": "2022-09-18T21:31:41.290206+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 86
-    },
-    {
-      "Time": "2022-09-20T21:32:51.5075531+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 88
-    },
-    {
-      "Time": "2022-09-24T13:34:24.445211+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-09-27T03:01:32.0046944+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-28T17:02:35.8430242+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-11-09T13:35:12.4810284+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-11-22T04:01:24.7682065+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2022-11-25T21:57:53.0411091+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-12-06T16:58:17.0731755+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-01-21T19:58:07.5019274+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-02-07T20:57:58.0757206+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-31T05:58:07.8538506+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-05T16:07:12.9189106+00:00",
-  "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 527,
-  "EOS_Completed": 147,
-  "EOS_Progressed": 31734,
-  "LastUpdate_Achievements": "2023-05-05T16:07:12.919005+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:16.9234456+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:45.6588225+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_1",
+      "SetID": "db84117",
+      "Name": "Secret Seeker",
+      "Percentage": 57,
+      "XP": 10,
+      "UsersEstimate": 18091
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "db84117",
+      "Name": "Lady",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 9522
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "db84117",
+      "Name": "Embers",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 6665
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "db84117",
+      "Name": "Burning",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 5396
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "db84117",
+      "Name": "Family",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 4443
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "db84117",
+      "Name": "Ruse",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 3491
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "db84117",
+      "Name": "Hatching",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 2857
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "db84117",
+      "Name": "Bonds",
+      "Percentage": 9,
+      "XP": 20,
+      "UsersEstimate": 2857
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "db84117",
+      "Name": "Denouement",
+      "Percentage": 8,
+      "XP": 100,
+      "UsersEstimate": 2539
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "db84117",
+      "Name": "War Engines",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 4443
+    },
+    {
+      "ID": "ACHIEVEMENT_2",
+      "SetID": "db84117",
+      "Name": "The Lookout",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1587
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "db84117",
+      "Name": "Left Behind",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 1270
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "db84117",
+      "Name": "Secrets of the Earth",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 1270
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "db84117",
+      "Name": "The Lion\u2019s Den",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 952
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "db84117",
+      "Name": "Heart of Fire",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 952
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "db84117",
+      "Name": "First Steps",
+      "Percentage": 81,
+      "XP": 10,
+      "UsersEstimate": 25709
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "db84117",
+      "Name": "Master Ninja",
+      "Percentage": 10,
+      "XP": 40,
+      "UsersEstimate": 3174
+    },
+    {
+      "ID": "ACHIEVEMENT_26",
+      "SetID": "db84117",
+      "Name": "Hot Potato",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 317
+    },
+    {
+      "ID": "ACHIEVEMENT_27",
+      "SetID": "db84117",
+      "Name": "Get Over Here",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 2539
+    },
+    {
+      "ID": "ACHIEVEMENT_28",
+      "SetID": "db84117",
+      "Name": "Anger Management",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 317
+    },
+    {
+      "ID": "ACHIEVEMENT_29",
+      "SetID": "db84117",
+      "Name": "Look Behind You",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 5078
+    },
+    {
+      "ID": "ACHIEVEMENT_3",
+      "SetID": "db84117",
+      "Name": "The Hidden Village",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 2539
+    },
+    {
+      "ID": "ACHIEVEMENT_30",
+      "SetID": "db84117",
+      "Name": "Soul Reaver",
+      "Percentage": 22,
+      "XP": 40,
+      "UsersEstimate": 6983
+    },
+    {
+      "ID": "ACHIEVEMENT_31",
+      "SetID": "db84117",
+      "Name": "Sleeping on the Job",
+      "Percentage": 16,
+      "XP": 40,
+      "UsersEstimate": 5078
+    },
+    {
+      "ID": "ACHIEVEMENT_32",
+      "SetID": "db84117",
+      "Name": "Bird of Prey",
+      "Percentage": 37,
+      "XP": 20,
+      "UsersEstimate": 11743
+    },
+    {
+      "ID": "ACHIEVEMENT_33",
+      "SetID": "db84117",
+      "Name": "Clinging to Life",
+      "Percentage": 18,
+      "XP": 20,
+      "UsersEstimate": 5713
+    },
+    {
+      "ID": "ACHIEVEMENT_34",
+      "SetID": "db84117",
+      "Name": "Wall Lizard",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 6348
+    },
+    {
+      "ID": "ACHIEVEMENT_35",
+      "SetID": "db84117",
+      "Name": "Apex Predator",
+      "Percentage": 24,
+      "XP": 20,
+      "UsersEstimate": 7617
+    },
+    {
+      "ID": "ACHIEVEMENT_36",
+      "SetID": "db84117",
+      "Name": "Forge of Assassins",
+      "Percentage": 55,
+      "XP": 10,
+      "UsersEstimate": 17456
+    },
+    {
+      "ID": "ACHIEVEMENT_37",
+      "SetID": "db84117",
+      "Name": "Engraved with Power",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 10156
+    },
+    {
+      "ID": "ACHIEVEMENT_38",
+      "SetID": "db84117",
+      "Name": "Tools of the Trade",
+      "Percentage": 63,
+      "XP": 10,
+      "UsersEstimate": 19996
+    },
+    {
+      "ID": "ACHIEVEMENT_39",
+      "SetID": "db84117",
+      "Name": "Fashionable Assassin",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 8570
+    },
+    {
+      "ID": "ACHIEVEMENT_4",
+      "SetID": "db84117",
+      "Name": "A Pleasant Stay",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 2539
+    },
+    {
+      "ID": "ACHIEVEMENT_40",
+      "SetID": "db84117",
+      "Name": "Apprentice",
+      "Percentage": 60,
+      "XP": 10,
+      "UsersEstimate": 19043
+    },
+    {
+      "ID": "ACHIEVEMENT_41",
+      "SetID": "db84117",
+      "Name": "Control the Shadows",
+      "Percentage": 68,
+      "XP": 10,
+      "UsersEstimate": 21583
+    },
+    {
+      "ID": "ACHIEVEMENT_42",
+      "SetID": "db84117",
+      "Name": "The Spirit of Vengeance",
+      "Percentage": 5,
+      "XP": 100,
+      "UsersEstimate": 1587
+    },
+    {
+      "ID": "ACHIEVEMENT_43",
+      "SetID": "db84117",
+      "Name": "Signature Move",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 4443
+    },
+    {
+      "ID": "ACHIEVEMENT_44",
+      "SetID": "db84117",
+      "Name": "Legacy",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 635
+    },
+    {
+      "ID": "ACHIEVEMENT_45",
+      "SetID": "db84117",
+      "Name": "I don\u2019t Care!",
+      "Percentage": 45,
+      "XP": 10,
+      "UsersEstimate": 14283
+    },
+    {
+      "ID": "ACHIEVEMENT_5",
+      "SetID": "db84117",
+      "Name": "Hollow",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 1270
+    },
+    {
+      "ID": "ACHIEVEMENT_6",
+      "SetID": "db84117",
+      "Name": "Pilgrimage",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 2222
+    },
+    {
+      "ID": "ACHIEVEMENT_7",
+      "SetID": "db84117",
+      "Name": "Forest Spirits",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 952
+    },
+    {
+      "ID": "ACHIEVEMENT_8",
+      "SetID": "db84117",
+      "Name": "Awakening",
+      "Percentage": 92,
+      "XP": 10,
+      "UsersEstimate": 29200
+    },
+    {
+      "ID": "ACHIEVEMENT_9",
+      "SetID": "db84117",
+      "Name": "Revenant",
+      "Percentage": 51,
+      "XP": 10,
+      "UsersEstimate": 16187
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 31734,
+      "Progressed": 31739,
       "Completed": 147
     }
   ],
-  "EOS_Completed_Percentage": 0.46,
-  "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
-  "ProductSlug": "aragami-2",
-  "Rating": 4.57,
-  "Ranking_Rating": 428,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 80,
-  "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewCompleters": 35,
-  "NumberOfRatings": 88,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
-  "Ranking_EOS_NewPlayers": 76
+  "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
+  "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:05.8589345+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:38.7776274+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:40.7889772+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:05.859013+00:00"
 }

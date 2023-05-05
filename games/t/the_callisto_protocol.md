@@ -4,7 +4,7 @@
 Rating: 4.18 (Ranked 821)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 46  (Ranked 396)  
-Sum: 244 (Ranked 340)  
+Sum: 245 (Ranked 340)  
 Diff (max vs sum): 56  
 ## Achievements
 | Name | Percentage | Users |
@@ -64,8 +64,8 @@ Completed: 47 (0.37%) (Ranked 106)
 | ----- | ----- |
 | This game is Highly Recommended | 46 |
 | This game has Amazing Storytelling | 46 |
+| This game has Amazing Characters | 42 |
 | This game is Extremely Fun | 41 |
-| This game has Amazing Characters | 41 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 30 |
 ## Ratings History
@@ -115,3 +115,4 @@ Completed: 47 (0.37%) (Ranked 106)
 | 2023-04-26 | 4.18 | 46 | 242 |
 | 2023-04-28 | 4.18 | 46 | 243 |
 | 2023-04-30 | 4.18 | 46 | 244 |
+| 2023-05-05 | 4.18 | 46 | 245 |

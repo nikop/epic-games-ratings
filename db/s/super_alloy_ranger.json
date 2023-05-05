@@ -1,6 +1,112 @@
 {
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
+  "ProductSlug": "super-alloy-ranger-4252cc",
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-05-02T05:59:19.9991153+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 19,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 15,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:52:20.3185117+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T17:04:50.7852457+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T02:06:18.1937815+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T08:05:37.820113+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T11:05:23.7222492+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T13:10:16.8613542+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T16:05:21.9524008+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T00:04:34.0664146+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T02:03:31.3929086+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T05:04:23.5869668+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T11:05:50.692039+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T14:05:37.9920614+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T18:05:44.605986+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T20:05:21.9443639+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T08:05:53.7289383+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:59.170959+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "Achi_01",
@@ -142,9 +248,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_19",
@@ -174,9 +280,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_23",
@@ -214,9 +320,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achi_28",
@@ -238,9 +344,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_31",
@@ -403,107 +509,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T20:52:20.3185117+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T17:04:50.7852457+00:00",
-      "NumProgressed": 4,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T02:06:18.1937815+00:00",
-      "NumProgressed": 5,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T08:05:37.820113+00:00",
-      "NumProgressed": 7,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T11:05:23.7222492+00:00",
-      "NumProgressed": 8,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T13:10:16.8613542+00:00",
-      "NumProgressed": 9,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T16:05:21.9524008+00:00",
-      "NumProgressed": 10,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T00:04:34.0664146+00:00",
-      "NumProgressed": 11,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T02:03:31.3929086+00:00",
-      "NumProgressed": 12,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T05:04:23.5869668+00:00",
-      "NumProgressed": 13,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T11:05:50.692039+00:00",
-      "NumProgressed": 14,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T14:05:37.9920614+00:00",
-      "NumProgressed": 15,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T18:05:44.605986+00:00",
-      "NumProgressed": 16,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T20:05:21.9443639+00:00",
-      "NumProgressed": 17,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T08:05:53.7289383+00:00",
-      "NumProgressed": 18,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T01:58:59.170959+00:00",
-      "NumProgressed": 19,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-05-02T05:59:19.9991153+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T16:08:10.1558539+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 15,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 19,
-  "LastUpdate_Achievements": "2023-05-05T16:08:10.1559078+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:11.1366182+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:04.9827187+00:00",
   "AchievementSets": [
     {
       "ID": "51a97k7",
@@ -512,16 +517,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
-  "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 295,
-  "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-05-02T05:59:19.9991116+00:00",
-  "Ranking_EOS_NewPlayers": 161
+  "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
+  "LastChanged": "2023-05-02T05:59:19.999115+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:47.5400756+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:01.899245+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:56.7726712+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:47.540121+00:00"
 }

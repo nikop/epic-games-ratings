@@ -9,27 +9,27 @@ Diff (max vs sum): -16
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 5.00% | ~13,279 |
-| The One Who Mastered Memories | 5.00% | ~13,279 |
-| The Hallowed Hero | 5.00% | ~13,279 |
-| The Hero of Hogwarts | 5.00% | ~13,279 |
-| The Defender of Dragons | 5.00% | ~13,279 |
-| Coasting Along | 5.00% | ~13,279 |
-| Rising From the Ashes | 5.00% | ~13,279 |
-| The Sort Who Makes an Entrance | 4.00% | ~10,623 |
-| The Avenging Gazelle | 4.00% | ~10,623 |
-| Beast Friends | 4.00% | ~10,623 |
-| A Sallow Grave | 4.00% | ~10,623 |
-| Flight the Good Flight | 4.00% | ~10,623 |
-| Challenge Accepted | 4.00% | ~10,623 |
-| A Keen Sense of Spell | 4.00% | ~10,623 |
-| Loom for Improvement | 4.00% | ~10,623 |
-| A Talent for Spending | 4.00% | ~10,623 |
-| Followed the Butterflies | 4.00% | ~10,623 |
-| The Spell Master | 4.00% | ~10,623 |
-| First Class Student | 4.00% | ~10,623 |
-| Troll with the Punches | 4.00% | ~10,623 |
-| That's a Keeper | 4.00% | ~10,623 |
+| Grappling with a Graphorn | 5.00% | ~13,280 |
+| The One Who Mastered Memories | 5.00% | ~13,280 |
+| The Hallowed Hero | 5.00% | ~13,280 |
+| The Hero of Hogwarts | 5.00% | ~13,280 |
+| The Defender of Dragons | 5.00% | ~13,280 |
+| Coasting Along | 5.00% | ~13,280 |
+| Rising From the Ashes | 5.00% | ~13,280 |
+| The Sort Who Makes an Entrance | 4.00% | ~10,624 |
+| The Avenging Gazelle | 4.00% | ~10,624 |
+| Beast Friends | 4.00% | ~10,624 |
+| A Sallow Grave | 4.00% | ~10,624 |
+| Flight the Good Flight | 4.00% | ~10,624 |
+| Challenge Accepted | 4.00% | ~10,624 |
+| A Keen Sense of Spell | 4.00% | ~10,624 |
+| Loom for Improvement | 4.00% | ~10,624 |
+| A Talent for Spending | 4.00% | ~10,624 |
+| Followed the Butterflies | 4.00% | ~10,624 |
+| The Spell Master | 4.00% | ~10,624 |
+| First Class Student | 4.00% | ~10,624 |
+| Troll with the Punches | 4.00% | ~10,624 |
+| That's a Keeper | 4.00% | ~10,624 |
 | The Seeker of Knowledge | 3.00% | ~7,968 |
 | The Root of the Problem | 3.00% | ~7,968 |
 | Third Time's a Charm | 3.00% | ~7,968 |
@@ -55,7 +55,7 @@ Diff (max vs sum): -16
 | Spilled Milk | 0.40% | ~1,062 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,584 (Ranked 38)  
+Progressed: 265,594 (Ranked 38)  
 Completed: 347 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 347 (0.13%) (Ranked 144)
 | 2023-05-02 | 265,238 | 343 |
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
-| 2023-05-05 | 265,584 | 347 |
+| 2023-05-05 | 265,594 | 347 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

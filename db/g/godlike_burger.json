@@ -1,6 +1,107 @@
 {
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
+  "ProductSlug": "godlike-burger-4150a0",
+  "Ranking_Rating": 791,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.23,
+  "RatingHistory": [
+    {
+      "Time": "2022-10-16T14:30:41.059788+00:00",
+      "Rating": 4.1
+    },
+    {
+      "Time": "2022-10-18T02:30:39.0288363+00:00",
+      "Rating": 4.14
+    },
+    {
+      "Time": "2022-10-19T15:30:54.5556125+00:00",
+      "Rating": 4.21
+    },
+    {
+      "Time": "2022-10-24T23:31:10.1156283+00:00",
+      "Rating": 4.24
+    },
+    {
+      "Time": "2022-11-21T05:56:54.5685413+00:00",
+      "Rating": 4.15
+    },
+    {
+      "Time": "2022-11-22T05:57:20.8074797+00:00",
+      "Rating": 4.19
+    },
+    {
+      "Time": "2022-11-30T18:57:20.4722859+00:00",
+      "Rating": 4.18
+    },
+    {
+      "Time": "2022-12-01T18:57:17.152329+00:00",
+      "Rating": 4.21
+    },
+    {
+      "Time": "2022-12-08T19:57:15.9771356+00:00",
+      "Rating": 4.23
+    },
+    {
+      "Time": "2023-03-31T05:57:15.235454+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 265,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 4,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.38,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:15.8385226+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T05:07:28.8742408+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-28T14:02:40.1966442+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T03:03:28.221096+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-30T07:03:07.3311815+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T07:01:20.1417745+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T01:59:22.8107362+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "GB_BUTCHER",
@@ -227,98 +328,6 @@
       "UsersEstimate": 117
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:15.8385226+00:00",
-      "NumProgressed": 259,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T05:07:28.8742408+00:00",
-      "NumProgressed": 260,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-28T14:02:40.1966442+00:00",
-      "NumProgressed": 261,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-29T03:03:28.221096+00:00",
-      "NumProgressed": 262,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-30T07:03:07.3311815+00:00",
-      "NumProgressed": 263,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-01T07:01:20.1417745+00:00",
-      "NumProgressed": 264,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-05-04T01:59:22.8107362+00:00",
-      "NumProgressed": 265,
-      "NumCompleted": 1
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-10-16T14:30:41.059788+00:00",
-      "Rating": 4.1
-    },
-    {
-      "Time": "2022-10-18T02:30:39.0288363+00:00",
-      "Rating": 4.14
-    },
-    {
-      "Time": "2022-10-19T15:30:54.5556125+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2022-10-24T23:31:10.1156283+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2022-11-21T05:56:54.5685413+00:00",
-      "Rating": 4.15
-    },
-    {
-      "Time": "2022-11-22T05:57:20.8074797+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2022-11-30T18:57:20.4722859+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2022-12-01T18:57:17.152329+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2022-12-08T19:57:15.9771356+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2023-03-31T05:57:15.235454+00:00",
-      "Rating": 4.23,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T16:07:33.7038111+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4,
-  "EOS_Completed": 1,
-  "EOS_Progressed": 265,
-  "LastUpdate_Achievements": "2023-05-05T16:07:33.7038485+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:14.2725087+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:43.7672963+00:00",
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
@@ -327,20 +336,12 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0.38,
-  "LastChanged": "2023-03-31T05:57:15.2354538+00:00",
-  "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
-  "ProductSlug": "godlike-burger-4150a0",
-  "Rating": 4.23,
-  "Ranking_Rating": 791,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 213,
-  "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
-  "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:42.5762189+00:00",
-  "Ranking_EOS_NewPlayers": 198
+  "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
+  "LastChanged": "2023-03-31T05:57:15.2354538+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:20.9476137+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:36.9009505+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:39.0410917+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:20.9476397+00:00"
 }

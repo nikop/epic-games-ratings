@@ -1,9 +1,15 @@
 {
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
-  "Achievements": [],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "the-outer-worlds-spacers-choice-edition",
+  "Ranking_Rating": 500,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-03-24T21:56:57.6638821+00:00",
@@ -132,16 +138,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:08:16.6329009+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:08:16.6329049+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:44.7398103+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:26.5186371+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "3i1a0ml",
@@ -150,20 +159,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T12:00:15.6178901+00:00",
-  "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
-  "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Rating": 4.52,
-  "Ranking_Rating": 500,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
+  "LastChanged": "2023-05-03T12:00:15.6178901+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:52.729098+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:26.4550514+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:19.0761161+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:52.7291015+00:00"
 }

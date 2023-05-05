@@ -3,9 +3,9 @@
 [View Rawdata](../../db/h/honkai_impact_3rd.json)  
 Rating: 4.50 (Ranked 531)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,291  (Ranked 94)  
+Max (Character Customization): 2,291  (Ranked 95)  
 Sum: 7,706 (Ranked 94)  
-Diff (max vs sum): 0  
+Diff (max vs sum): 1  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

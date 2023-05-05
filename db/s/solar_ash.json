@@ -1,16 +1,16 @@
 {
   "ID": "fe5a2e3e842a4394938a81f3308df2ed",
   "Name": "Solar Ash",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 24
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "solar-ash",
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 466,
+  "Ranking_PopularitySum": 469,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.66,
+  "NumberOfRatings": 106,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:55.4392128+00:00",
@@ -237,30 +237,31 @@
       "Rating": 4.66
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:08.9946849+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:47.5937719+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:48.2997721+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-28T06:58:18.5325874+00:00",
-  "ProductSlug": "solar-ash",
-  "Rating": 4.66,
-  "Ranking_Rating": 272,
-  "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 106,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 24,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 24
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-03-28T06:58:18.5325874+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:44.0653995+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:40.8201987+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:23.483462+00:00"
 }

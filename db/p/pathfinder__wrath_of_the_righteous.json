@@ -1,1586 +1,16 @@
 {
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-  "Achievements": [
-    {
-      "ID": "01_DevouredByDarkness",
-      "SetID": "989of5o",
-      "Name": "Devoured by Darkness",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 1036
-    },
-    {
-      "ID": "02_BurningCity",
-      "SetID": "989of5o",
-      "Name": "Burning City",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 691
-    },
-    {
-      "ID": "03_BannerOverCitadel",
-      "SetID": "989of5o",
-      "Name": "Banner over the Citadel",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 518
-    },
-    {
-      "ID": "04_FithCrusade",
-      "SetID": "989of5o",
-      "Name": "Fifth Crusade",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 345
-    },
-    {
-      "ID": "05_EmbraceOfAbyss",
-      "SetID": "989of5o",
-      "Name": "Embrace of the Abyss",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 259
-    },
-    {
-      "ID": "06_HeartOfFallenLand",
-      "SetID": "989of5o",
-      "Name": "Heart of the Fallen Land",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "07_FinalThreshold",
-      "SetID": "989of5o",
-      "Name": "The Final Threshold",
-      "Percentage": 0.5,
-      "XP": 30,
-      "UsersEstimate": 43
-    },
-    {
-      "ID": "08_PathOfAngel",
-      "SetID": "989of5o",
-      "Name": "Path of the Angel",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 259
-    },
-    {
-      "ID": "09_PathOfDemon",
-      "SetID": "989of5o",
-      "Name": "Path of the Demon",
-      "Percentage": 0.8,
-      "XP": 10,
-      "UsersEstimate": 69
-    },
-    {
-      "ID": "10_PathOfAzata",
-      "SetID": "989of5o",
-      "Name": "Path of the Azata",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "11_PathOfAeon",
-      "SetID": "989of5o",
-      "Name": "Path of the Aeon",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 78
-    },
-    {
-      "ID": "12_PathOfTrickster",
-      "SetID": "989of5o",
-      "Name": "Path of the Trickster",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "13_PathOfLich",
-      "SetID": "989of5o",
-      "Name": "Path of the Lich",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "14_PathOfSwarm",
-      "SetID": "989of5o",
-      "Name": "Path of the Swarm",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "15_PathOfDragon",
-      "SetID": "989of5o",
-      "Name": "Path of the Dragon",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 43
-    },
-    {
-      "ID": "16_PathOfLegend",
-      "SetID": "989of5o",
-      "Name": "Path of the Legend",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 43
-    },
-    {
-      "ID": "17_Transformation",
-      "SetID": "989of5o",
-      "Name": "Transformation",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "18_MythicChoices",
-      "SetID": "989of5o",
-      "Name": "Mythic Choices",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 605
-    },
-    {
-      "ID": "19_EqualToAroden",
-      "SetID": "989of5o",
-      "Name": "Equal to Aroden",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "20_SpiritOfAdventures",
-      "SetID": "989of5o",
-      "Name": "Spirit of Adventure",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "21_TestOfStarstone",
-      "SetID": "989of5o",
-      "Name": "Test of the Starstone",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "22_MasterfulCraftsmanship",
-      "SetID": "989of5o",
-      "Name": "Masterful Craftsmanship",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "23_MasterfulCharge",
-      "SetID": "989of5o",
-      "Name": "Masterful Charge",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 26
-    },
-    {
-      "ID": "24_Legacy",
-      "SetID": "989of5o",
-      "Name": "The Legacy",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "25_MasterfulDispell",
-      "SetID": "989of5o",
-      "Name": "Masterful Dispel",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "27_VictorySeige",
-      "SetID": "989of5o",
-      "Name": "Queen\u0027s Gratitude",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 518
-    },
-    {
-      "ID": "28_GreatUpstart",
-      "SetID": "989of5o",
-      "Name": "Great Upstart",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 259
-    },
-    {
-      "ID": "29_StrategicVictory",
-      "SetID": "989of5o",
-      "Name": "Strategic Victory",
-      "Percentage": 0.4,
-      "XP": 20,
-      "UsersEstimate": 35
-    },
-    {
-      "ID": "30_BattlefieldVictory",
-      "SetID": "989of5o",
-      "Name": "Heroic Victory",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "31_DivideAndRule",
-      "SetID": "989of5o",
-      "Name": "Divide and Rule",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "32_MythicReinforcements",
-      "SetID": "989of5o",
-      "Name": "Mythic Reinforcements",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "33_DefendersHeart",
-      "SetID": "989of5o",
-      "Name": "Defender\u0027s Heart",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 605
-    },
-    {
-      "ID": "34_CapitulationIsNowMoot",
-      "SetID": "989of5o",
-      "Name": "Capitulation Is Now Moot",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "35_AbyssalConspiracy",
-      "SetID": "989of5o",
-      "Name": "Abyssal Conspiracy",
-      "Percentage": 0.6,
-      "XP": 10,
-      "UsersEstimate": 52
-    },
-    {
-      "ID": "36_CoreOfRiddle",
-      "SetID": "989of5o",
-      "Name": "Core of the Riddle",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "37_FirstBigEnemy",
-      "SetID": "989of5o",
-      "Name": "Your First Big Enemy",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 86
-    },
-    {
-      "ID": "38_PrelatesNemesis",
-      "SetID": "989of5o",
-      "Name": "Prelate\u0027s Nemesis",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 17
-    },
-    {
-      "ID": "39_Blight of Drezen",
-      "SetID": "989of5o",
-      "Name": "Blight of Drezen",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "40_EndOfEternalGuard",
-      "SetID": "989of5o",
-      "Name": "End of Eternal Guard",
-      "Percentage": 0.6,
-      "XP": 10,
-      "UsersEstimate": 52
-    },
-    {
-      "ID": "41_PlayfulMood",
-      "SetID": "989of5o",
-      "Name": "Playful Mood",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 43
-    },
-    {
-      "ID": "42_JustPathetic",
-      "SetID": "989of5o",
-      "Name": "Just Pathetic",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 17
-    },
-    {
-      "ID": "43_DreadfulDragon",
-      "SetID": "989of5o",
-      "Name": "Dreadful Dragon",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 35
-    },
-    {
-      "ID": "44_AshesToAshes",
-      "SetID": "989of5o",
-      "Name": "Ashes to Ashes",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "45_VoiceFromDreams",
-      "SetID": "989of5o",
-      "Name": "Voice from Your Dreams",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "46_AllPathsOpen",
-      "SetID": "989of5o",
-      "Name": "All Paths Open",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "47_ MemoriesFrozenInTime",
-      "SetID": "989of5o",
-      "Name": "Memories Frozen in Time",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "48_Spark",
-      "SetID": "989of5o",
-      "Name": "A Spark",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 691
-    },
-    {
-      "ID": "49_Flame",
-      "SetID": "989of5o",
-      "Name": "A Flame",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "50_HeyIKnowYou",
-      "SetID": "989of5o",
-      "Name": "Hey, I Know You!",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "51_DemonicAndDivine",
-      "SetID": "989of5o",
-      "Name": "Demonic and Divine",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 259
-    },
-    {
-      "ID": "52_TrulyImportantDeed",
-      "SetID": "989of5o",
-      "Name": "Truly Important Deed",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 78
-    },
-    {
-      "ID": "53_TrulyProfaneGift",
-      "SetID": "989of5o",
-      "Name": "Truly Profane Gift",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 35
-    },
-    {
-      "ID": "54_DeathByColumn",
-      "SetID": "989of5o",
-      "Name": "Death by Column",
-      "Percentage": 0,
-      "XP": 20,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "55_NextDoorPlay",
-      "SetID": "989of5o",
-      "Name": "Next-Door Play",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "56_GetToad",
-      "SetID": "989of5o",
-      "Name": "Get the Toad",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 173
-    },
-    {
-      "ID": "57_PathOfDevil",
-      "SetID": "989of5o",
-      "Name": "Path of the Devil",
-      "Percentage": 0,
-      "XP": 20,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "58_Midnight Aim",
-      "SetID": "989of5o",
-      "Name": "Midnight Aim",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "59_SoMuchOfMe",
-      "SetID": "989of5o",
-      "Name": "So Much of Me",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "60_Ascension",
-      "SetID": "989of5o",
-      "Name": "Ascension",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "61_GrainOfSand",
-      "SetID": "989of5o",
-      "Name": "Grain of Sand",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "62_StoryWorthMillenia",
-      "SetID": "989of5o",
-      "Name": "A Story Worth Millennia",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "63_SecretOfSecrets",
-      "SetID": "989of5o",
-      "Name": "Secret of Secrets",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "64_Radiance",
-      "SetID": "989of5o",
-      "Name": "Radiance",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "65_SubtleHints",
-      "SetID": "989of5o",
-      "Name": "Subtle Hints",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "66_Inevitable",
-      "SetID": "989of5o",
-      "Name": "Inevitable Outcome",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "67_Glimpse",
-      "SetID": "989of5o",
-      "Name": "Glimpse of Truth",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "68_Detective",
-      "SetID": "989of5o",
-      "Name": "Detective at Work",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "69_Silver",
-      "SetID": "989of5o",
-      "Name": "Silver Tongue",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "70_Disillusioned",
-      "SetID": "989of5o",
-      "Name": "Disillusioned",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "71_Paradox",
-      "SetID": "989of5o",
-      "Name": "Paradox",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_01_Provoker",
-      "SetID": "989of5o",
-      "Name": "The Art of Provocation",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_02_GraveRobber",
-      "SetID": "989of5o",
-      "Name": "Ill-Gotten Gains",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_03_CarefulSteps",
-      "SetID": "989of5o",
-      "Name": "Careful Steps",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_04_Deadweight",
-      "SetID": "989of5o",
-      "Name": "Deadweight",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_05_AMomentOfPeace",
-      "SetID": "989of5o",
-      "Name": "In Memoriam",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_06_GuardianAngel",
-      "SetID": "989of5o",
-      "Name": "We Don\u0027t Trade Lives",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_07_BookWorm",
-      "SetID": "989of5o",
-      "Name": "The Manuscript Found in Kenabres",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_08_NoPainNoGain",
-      "SetID": "989of5o",
-      "Name": "The Unbreakable Trio",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_09_ComeInHandy",
-      "SetID": "989of5o",
-      "Name": "Don\u0027t Eat This",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_10_Carelessness",
-      "SetID": "989of5o",
-      "Name": "This Side Toward the Enemy",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_18_RunFools",
-      "SetID": "989of5o",
-      "Name": "One for All",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_19_FriendInNeed",
-      "SetID": "989of5o",
-      "Name": "All for One",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_Bully_achiv",
-      "SetID": "989of5o",
-      "Name": "No Escape From Justice",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_Bureaucrat_achiv",
-      "SetID": "989of5o",
-      "Name": "Come Rain or Shine",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_Healer_achiv",
-      "SetID": "989of5o",
-      "Name": "Bloody Bandages",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_Knock_achiv",
-      "SetID": "989of5o",
-      "Name": "Who\u0027s There?",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_Puzzle_achiv",
-      "SetID": "989of5o",
-      "Name": "Piece It Together",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC2_Vandal_achiv",
-      "SetID": "989of5o",
-      "Name": "Are You a Cat?",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_01_All_ends",
-      "SetID": "11go2ek",
-      "Name": "Secret of the Midnight Isles",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_02_Win_conscience",
-      "SetID": "11go2ek",
-      "Name": "The Past Never Dies",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_03_Take_boon",
-      "SetID": "11go2ek",
-      "Name": "Ride the Wind",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_04_Take_15_boons",
-      "SetID": "11go2ek",
-      "Name": "Windcatcher",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_05_Take_all_boons",
-      "SetID": "11go2ek",
-      "Name": "Windmaster",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_06_Quest_of_bismarites",
-      "SetID": "11go2ek",
-      "Name": "Loot the Loot!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_07_Hidden_ending",
-      "SetID": "11go2ek",
-      "Name": "Redemption",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_08_Kill_the_fox",
-      "SetID": "11go2ek",
-      "Name": "Hunting Darkness",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_09_Win_the_tricster",
-      "SetID": "11go2ek",
-      "Name": "Broken Trickster",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_10_Win_the_minister",
-      "SetID": "11go2ek",
-      "Name": "Devoted Servant",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_11_Win_the_angel",
-      "SetID": "11go2ek",
-      "Name": "Fallen Angel",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_12_Win_the_firstguard",
-      "SetID": "11go2ek",
-      "Name": "The Path Is Clear",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_13_Gardener",
-      "SetID": "11go2ek",
-      "Name": "Green Thumb",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_14_Do_not_shout_at_me",
-      "SetID": "11go2ek",
-      "Name": "Don\u0027t Scream at Me!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_15_Madness_of_the_brave",
-      "SetID": "11go2ek",
-      "Name": "Brave and Foolhardy",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_16_From_the_jaws_of_defeat",
-      "SetID": "11go2ek",
-      "Name": "From the Jaws of Defeat",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_17_Own_hands",
-      "SetID": "11go2ek",
-      "Name": "Who Needs Ballistae?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_18_Get_a_set",
-      "SetID": "11go2ek",
-      "Name": "Synergy",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_19_First_try",
-      "SetID": "11go2ek",
-      "Name": "No Remorse",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_20_Unusual_mortal",
-      "SetID": "11go2ek",
-      "Name": "No Ordinary Mortal",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC3_21_Myth_sell",
-      "SetID": "11go2ek",
-      "Name": "Wealth Is the Best Superpower",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DLC4_22_Stay Underground",
-      "SetID": "11go2ek",
-      "Name": "Stay Underground",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 74
-    },
-    {
-      "ID": "DLC4_24_Hanged Man\u0027s Notes",
-      "SetID": "11go2ek",
-      "Name": "Hanged Man\u0027s Notes",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 74
-    },
-    {
-      "ID": "DLC4_25_Sarkoris Will Be Green",
-      "SetID": "11go2ek",
-      "Name": "Sarkoris Will Be Green",
-      "Percentage": 1,
-      "XP": 5,
-      "UsersEstimate": 74
-    },
-    {
-      "ID": "DLC4_26_This Wall Won\u0027t Fall",
-      "SetID": "11go2ek",
-      "Name": "This Wall Won\u0027t Fall",
-      "Percentage": 0.6,
-      "XP": 5,
-      "UsersEstimate": 45
-    },
-    {
-      "ID": "DLC4_27_Not the Last Sarkorian",
-      "SetID": "11go2ek",
-      "Name": "Not the Last Sarkorian",
-      "Percentage": 0.5,
-      "XP": 5,
-      "UsersEstimate": 37
-    },
-    {
-      "ID": "DLC4_29_The Lady of the Forest",
-      "SetID": "11go2ek",
-      "Name": "The Lady of the Forest",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 148
-    },
-    {
-      "ID": "DLC4_34_Beware of Still Water",
-      "SetID": "11go2ek",
-      "Name": "Beware Still Water",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 148
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 1624
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 584
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 614
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 600
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 584
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 600
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 364
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 522
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 545
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 539
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 365
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:36:53.5630437+00:00",
-      "NumProgressed": 8445,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T19:57:49.5914987+00:00",
-      "NumProgressed": 8446,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T20:47:51.2293235+00:00",
-      "NumProgressed": 8448,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T22:07:12.8678845+00:00",
-      "NumProgressed": 8449,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T23:04:58.7315423+00:00",
-      "NumProgressed": 8450,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T00:04:36.4526151+00:00",
-      "NumProgressed": 8451,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T02:06:26.3839315+00:00",
-      "NumProgressed": 8454,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T04:04:38.3390708+00:00",
-      "NumProgressed": 8455,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T05:07:22.7524214+00:00",
-      "NumProgressed": 8456,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T08:06:30.6154547+00:00",
-      "NumProgressed": 8458,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T11:06:28.0138186+00:00",
-      "NumProgressed": 8459,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T12:07:28.3623931+00:00",
-      "NumProgressed": 8460,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T14:04:58.5103445+00:00",
-      "NumProgressed": 8461,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T16:02:26.2518741+00:00",
-      "NumProgressed": 8462,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T18:03:18.4077302+00:00",
-      "NumProgressed": 8463,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T19:03:18.9575522+00:00",
-      "NumProgressed": 8467,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T21:03:29.4238852+00:00",
-      "NumProgressed": 8468,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T22:02:19.7828912+00:00",
-      "NumProgressed": 8470,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T02:03:07.7919079+00:00",
-      "NumProgressed": 8472,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T06:03:10.5700383+00:00",
-      "NumProgressed": 8473,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T11:02:25.4282378+00:00",
-      "NumProgressed": 8474,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T12:02:24.6397761+00:00",
-      "NumProgressed": 8475,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T14:03:12.9079584+00:00",
-      "NumProgressed": 8476,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T15:04:27.4391575+00:00",
-      "NumProgressed": 8477,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T16:03:44.8713666+00:00",
-      "NumProgressed": 8478,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T17:03:37.6363729+00:00",
-      "NumProgressed": 8479,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T19:03:34.4820426+00:00",
-      "NumProgressed": 8480,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T02:04:26.7887938+00:00",
-      "NumProgressed": 8481,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T08:03:14.3918849+00:00",
-      "NumProgressed": 8482,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T14:02:42.9934529+00:00",
-      "NumProgressed": 8486,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T17:04:07.9093684+00:00",
-      "NumProgressed": 8488,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T19:03:48.7074227+00:00",
-      "NumProgressed": 8489,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T20:03:32.065609+00:00",
-      "NumProgressed": 8491,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T21:04:26.9213978+00:00",
-      "NumProgressed": 8493,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T23:04:50.2810418+00:00",
-      "NumProgressed": 8494,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T00:03:27.5822537+00:00",
-      "NumProgressed": 8497,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T02:04:02.3084172+00:00",
-      "NumProgressed": 8501,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T03:03:31.5714948+00:00",
-      "NumProgressed": 8502,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T06:03:29.9148944+00:00",
-      "NumProgressed": 8503,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T10:03:09.9528608+00:00",
-      "NumProgressed": 8504,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T12:03:31.4118966+00:00",
-      "NumProgressed": 8508,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T15:03:29.0692861+00:00",
-      "NumProgressed": 8512,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T16:04:08.2058097+00:00",
-      "NumProgressed": 8513,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T17:03:13.1733149+00:00",
-      "NumProgressed": 8516,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T18:03:32.0113954+00:00",
-      "NumProgressed": 8518,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T19:03:32.7211509+00:00",
-      "NumProgressed": 8520,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T20:03:07.632157+00:00",
-      "NumProgressed": 8523,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T21:03:19.4869347+00:00",
-      "NumProgressed": 8524,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T22:03:20.8347349+00:00",
-      "NumProgressed": 8525,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T23:03:36.1101062+00:00",
-      "NumProgressed": 8528,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T02:04:51.9953197+00:00",
-      "NumProgressed": 8530,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T05:03:27.6430051+00:00",
-      "NumProgressed": 8531,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T07:03:11.746818+00:00",
-      "NumProgressed": 8532,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T09:03:29.3389198+00:00",
-      "NumProgressed": 8533,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T10:03:11.4548946+00:00",
-      "NumProgressed": 8534,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T12:03:22.6922484+00:00",
-      "NumProgressed": 8535,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T13:06:34.308824+00:00",
-      "NumProgressed": 8538,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T16:03:45.5794794+00:00",
-      "NumProgressed": 8541,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T17:03:24.4975451+00:00",
-      "NumProgressed": 8542,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T18:03:42.9024643+00:00",
-      "NumProgressed": 8545,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T19:04:09.9067492+00:00",
-      "NumProgressed": 8546,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T20:03:32.3419561+00:00",
-      "NumProgressed": 8548,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T21:03:36.9727998+00:00",
-      "NumProgressed": 8550,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T23:03:38.259803+00:00",
-      "NumProgressed": 8552,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T02:04:50.2509964+00:00",
-      "NumProgressed": 8553,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T03:03:58.2414175+00:00",
-      "NumProgressed": 8555,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T04:03:50.6816207+00:00",
-      "NumProgressed": 8556,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T05:03:42.8185286+00:00",
-      "NumProgressed": 8558,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T10:03:39.5631884+00:00",
-      "NumProgressed": 8563,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T12:03:11.6898993+00:00",
-      "NumProgressed": 8565,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T13:08:36.5654618+00:00",
-      "NumProgressed": 8567,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T14:03:34.0792455+00:00",
-      "NumProgressed": 8568,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T16:03:54.7091465+00:00",
-      "NumProgressed": 8570,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T17:04:44.5690806+00:00",
-      "NumProgressed": 8572,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T19:04:25.8179214+00:00",
-      "NumProgressed": 8575,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T20:03:37.3784164+00:00",
-      "NumProgressed": 8576,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T22:03:24.6729292+00:00",
-      "NumProgressed": 8578,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T00:03:22.4212239+00:00",
-      "NumProgressed": 8580,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T08:03:24.3230284+00:00",
-      "NumProgressed": 8581,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T12:03:48.1394067+00:00",
-      "NumProgressed": 8582,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T15:03:26.7582354+00:00",
-      "NumProgressed": 8583,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T20:03:31.2793813+00:00",
-      "NumProgressed": 8584,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T02:01:37.4146847+00:00",
-      "NumProgressed": 8587,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T03:04:39.0357386+00:00",
-      "NumProgressed": 8589,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T04:03:54.7495943+00:00",
-      "NumProgressed": 8590,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T05:04:21.6819006+00:00",
-      "NumProgressed": 8591,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T08:03:25.2481277+00:00",
-      "NumProgressed": 8592,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T10:03:38.8622341+00:00",
-      "NumProgressed": 8593,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T11:03:41.8216103+00:00",
-      "NumProgressed": 8595,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T13:09:48.4306238+00:00",
-      "NumProgressed": 8596,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T14:04:20.1734767+00:00",
-      "NumProgressed": 8597,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T15:03:58.2935186+00:00",
-      "NumProgressed": 8598,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T16:04:02.8241136+00:00",
-      "NumProgressed": 8600,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T17:04:22.0575601+00:00",
-      "NumProgressed": 8601,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T18:03:45.299523+00:00",
-      "NumProgressed": 8602,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T19:03:30.3067937+00:00",
-      "NumProgressed": 8605,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T21:03:32.29572+00:00",
-      "NumProgressed": 8607,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T00:03:44.2147894+00:00",
-      "NumProgressed": 8608,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T02:00:31.3166508+00:00",
-      "NumProgressed": 8609,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T03:03:40.3427877+00:00",
-      "NumProgressed": 8611,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T04:03:45.8945789+00:00",
-      "NumProgressed": 8612,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T07:04:01.8301389+00:00",
-      "NumProgressed": 8613,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T10:03:55.8929582+00:00",
-      "NumProgressed": 8614,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T13:09:40.8798784+00:00",
-      "NumProgressed": 8615,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T14:04:12.511427+00:00",
-      "NumProgressed": 8618,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T15:04:21.8911234+00:00",
-      "NumProgressed": 8619,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T19:03:48.4812554+00:00",
-      "NumProgressed": 8621,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T20:05:43.005457+00:00",
-      "NumProgressed": 8623,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T21:05:44.7834827+00:00",
-      "NumProgressed": 8624,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T22:39:25.9737221+00:00",
-      "NumProgressed": 8625,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T23:04:44.1467095+00:00",
-      "NumProgressed": 8627,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T05:05:00.0693863+00:00",
-      "NumProgressed": 8628,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T07:05:29.3149222+00:00",
-      "NumProgressed": 8629,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T08:05:43.9047697+00:00",
-      "NumProgressed": 8631,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T12:05:43.3044165+00:00",
-      "NumProgressed": 8632,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T13:10:43.0749608+00:00",
-      "NumProgressed": 8637,
-      "NumCompleted": 0
-    }
-  ],
+  "ProductSlug": "pathfinder-wrath-of-the-righteous",
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 111,
+  "Ranking_PopularitySum": 108,
+  "Ranking_EOS_Progress": 107,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.76,
+  "NumberOfRatings": 1354,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.6085612+00:00",
@@ -3724,45 +2154,1621 @@
       "NumberOfAwardsMax": 1624
     }
   ],
-  "TotalAchievementsXP": 1150,
-  "TotalAchievements": 116,
-  "LastChanged_Achievements": "2023-05-05T16:07:47.4899896+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 149,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 6577,
+  "NumberOfAwardsMax": 1624,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 1624
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 584
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 614
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 600
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 584
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 600
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 364
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 522
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 545
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 539
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 365
+    }
+  ],
+  "EOS_Progressed": 8638,
   "EOS_Completed": 0,
-  "EOS_Progressed": 8637,
-  "LastUpdate_Achievements": "2023-05-05T16:07:47.4901424+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:12.3649191+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:42.4614042+00:00",
+  "EOS_NewPlayers": 150,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:36:53.5630437+00:00",
+      "NumProgressed": 8445,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T19:57:49.5914987+00:00",
+      "NumProgressed": 8446,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T20:47:51.2293235+00:00",
+      "NumProgressed": 8448,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T22:07:12.8678845+00:00",
+      "NumProgressed": 8449,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T23:04:58.7315423+00:00",
+      "NumProgressed": 8450,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T00:04:36.4526151+00:00",
+      "NumProgressed": 8451,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T02:06:26.3839315+00:00",
+      "NumProgressed": 8454,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T04:04:38.3390708+00:00",
+      "NumProgressed": 8455,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T05:07:22.7524214+00:00",
+      "NumProgressed": 8456,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T08:06:30.6154547+00:00",
+      "NumProgressed": 8458,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T11:06:28.0138186+00:00",
+      "NumProgressed": 8459,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T12:07:28.3623931+00:00",
+      "NumProgressed": 8460,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T14:04:58.5103445+00:00",
+      "NumProgressed": 8461,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T16:02:26.2518741+00:00",
+      "NumProgressed": 8462,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T18:03:18.4077302+00:00",
+      "NumProgressed": 8463,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T19:03:18.9575522+00:00",
+      "NumProgressed": 8467,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T21:03:29.4238852+00:00",
+      "NumProgressed": 8468,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T22:02:19.7828912+00:00",
+      "NumProgressed": 8470,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T02:03:07.7919079+00:00",
+      "NumProgressed": 8472,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T06:03:10.5700383+00:00",
+      "NumProgressed": 8473,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T11:02:25.4282378+00:00",
+      "NumProgressed": 8474,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T12:02:24.6397761+00:00",
+      "NumProgressed": 8475,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T14:03:12.9079584+00:00",
+      "NumProgressed": 8476,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T15:04:27.4391575+00:00",
+      "NumProgressed": 8477,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T16:03:44.8713666+00:00",
+      "NumProgressed": 8478,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T17:03:37.6363729+00:00",
+      "NumProgressed": 8479,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T19:03:34.4820426+00:00",
+      "NumProgressed": 8480,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T02:04:26.7887938+00:00",
+      "NumProgressed": 8481,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T08:03:14.3918849+00:00",
+      "NumProgressed": 8482,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T14:02:42.9934529+00:00",
+      "NumProgressed": 8486,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T17:04:07.9093684+00:00",
+      "NumProgressed": 8488,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T19:03:48.7074227+00:00",
+      "NumProgressed": 8489,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T20:03:32.065609+00:00",
+      "NumProgressed": 8491,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T21:04:26.9213978+00:00",
+      "NumProgressed": 8493,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T23:04:50.2810418+00:00",
+      "NumProgressed": 8494,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T00:03:27.5822537+00:00",
+      "NumProgressed": 8497,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T02:04:02.3084172+00:00",
+      "NumProgressed": 8501,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T03:03:31.5714948+00:00",
+      "NumProgressed": 8502,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T06:03:29.9148944+00:00",
+      "NumProgressed": 8503,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T10:03:09.9528608+00:00",
+      "NumProgressed": 8504,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T12:03:31.4118966+00:00",
+      "NumProgressed": 8508,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T15:03:29.0692861+00:00",
+      "NumProgressed": 8512,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T16:04:08.2058097+00:00",
+      "NumProgressed": 8513,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T17:03:13.1733149+00:00",
+      "NumProgressed": 8516,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T18:03:32.0113954+00:00",
+      "NumProgressed": 8518,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T19:03:32.7211509+00:00",
+      "NumProgressed": 8520,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T20:03:07.632157+00:00",
+      "NumProgressed": 8523,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T21:03:19.4869347+00:00",
+      "NumProgressed": 8524,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T22:03:20.8347349+00:00",
+      "NumProgressed": 8525,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T23:03:36.1101062+00:00",
+      "NumProgressed": 8528,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T02:04:51.9953197+00:00",
+      "NumProgressed": 8530,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T05:03:27.6430051+00:00",
+      "NumProgressed": 8531,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T07:03:11.746818+00:00",
+      "NumProgressed": 8532,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T09:03:29.3389198+00:00",
+      "NumProgressed": 8533,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T10:03:11.4548946+00:00",
+      "NumProgressed": 8534,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T12:03:22.6922484+00:00",
+      "NumProgressed": 8535,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T13:06:34.308824+00:00",
+      "NumProgressed": 8538,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T16:03:45.5794794+00:00",
+      "NumProgressed": 8541,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T17:03:24.4975451+00:00",
+      "NumProgressed": 8542,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T18:03:42.9024643+00:00",
+      "NumProgressed": 8545,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T19:04:09.9067492+00:00",
+      "NumProgressed": 8546,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T20:03:32.3419561+00:00",
+      "NumProgressed": 8548,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T21:03:36.9727998+00:00",
+      "NumProgressed": 8550,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T23:03:38.259803+00:00",
+      "NumProgressed": 8552,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T02:04:50.2509964+00:00",
+      "NumProgressed": 8553,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T03:03:58.2414175+00:00",
+      "NumProgressed": 8555,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T04:03:50.6816207+00:00",
+      "NumProgressed": 8556,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T05:03:42.8185286+00:00",
+      "NumProgressed": 8558,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T10:03:39.5631884+00:00",
+      "NumProgressed": 8563,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T12:03:11.6898993+00:00",
+      "NumProgressed": 8565,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T13:08:36.5654618+00:00",
+      "NumProgressed": 8567,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T14:03:34.0792455+00:00",
+      "NumProgressed": 8568,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T16:03:54.7091465+00:00",
+      "NumProgressed": 8570,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T17:04:44.5690806+00:00",
+      "NumProgressed": 8572,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T19:04:25.8179214+00:00",
+      "NumProgressed": 8575,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T20:03:37.3784164+00:00",
+      "NumProgressed": 8576,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T22:03:24.6729292+00:00",
+      "NumProgressed": 8578,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T00:03:22.4212239+00:00",
+      "NumProgressed": 8580,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T08:03:24.3230284+00:00",
+      "NumProgressed": 8581,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T12:03:48.1394067+00:00",
+      "NumProgressed": 8582,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T15:03:26.7582354+00:00",
+      "NumProgressed": 8583,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T20:03:31.2793813+00:00",
+      "NumProgressed": 8584,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T02:01:37.4146847+00:00",
+      "NumProgressed": 8587,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T03:04:39.0357386+00:00",
+      "NumProgressed": 8589,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T04:03:54.7495943+00:00",
+      "NumProgressed": 8590,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T05:04:21.6819006+00:00",
+      "NumProgressed": 8591,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T08:03:25.2481277+00:00",
+      "NumProgressed": 8592,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T10:03:38.8622341+00:00",
+      "NumProgressed": 8593,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T11:03:41.8216103+00:00",
+      "NumProgressed": 8595,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T13:09:48.4306238+00:00",
+      "NumProgressed": 8596,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T14:04:20.1734767+00:00",
+      "NumProgressed": 8597,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T15:03:58.2935186+00:00",
+      "NumProgressed": 8598,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T16:04:02.8241136+00:00",
+      "NumProgressed": 8600,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T17:04:22.0575601+00:00",
+      "NumProgressed": 8601,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T18:03:45.299523+00:00",
+      "NumProgressed": 8602,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T19:03:30.3067937+00:00",
+      "NumProgressed": 8605,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T21:03:32.29572+00:00",
+      "NumProgressed": 8607,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T00:03:44.2147894+00:00",
+      "NumProgressed": 8608,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T02:00:31.3166508+00:00",
+      "NumProgressed": 8609,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T03:03:40.3427877+00:00",
+      "NumProgressed": 8611,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T04:03:45.8945789+00:00",
+      "NumProgressed": 8612,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T07:04:01.8301389+00:00",
+      "NumProgressed": 8613,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T10:03:55.8929582+00:00",
+      "NumProgressed": 8614,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T13:09:40.8798784+00:00",
+      "NumProgressed": 8615,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T14:04:12.511427+00:00",
+      "NumProgressed": 8618,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T15:04:21.8911234+00:00",
+      "NumProgressed": 8619,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T19:03:48.4812554+00:00",
+      "NumProgressed": 8621,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T20:05:43.005457+00:00",
+      "NumProgressed": 8623,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T21:05:44.7834827+00:00",
+      "NumProgressed": 8624,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:39:25.9737221+00:00",
+      "NumProgressed": 8625,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T23:04:44.1467095+00:00",
+      "NumProgressed": 8627,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T05:05:00.0693863+00:00",
+      "NumProgressed": 8628,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T07:05:29.3149222+00:00",
+      "NumProgressed": 8629,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:05:43.9047697+00:00",
+      "NumProgressed": 8631,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T12:05:43.3044165+00:00",
+      "NumProgressed": 8632,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:10:43.0749608+00:00",
+      "NumProgressed": 8637,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T17:09:31.1315657+00:00",
+      "NumProgressed": 8638,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 116,
+  "TotalAchievementsXP": 1150,
+  "Achievements": [
+    {
+      "ID": "01_DevouredByDarkness",
+      "SetID": "989of5o",
+      "Name": "Devoured by Darkness",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 1037
+    },
+    {
+      "ID": "02_BurningCity",
+      "SetID": "989of5o",
+      "Name": "Burning City",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 691
+    },
+    {
+      "ID": "03_BannerOverCitadel",
+      "SetID": "989of5o",
+      "Name": "Banner over the Citadel",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 518
+    },
+    {
+      "ID": "04_FithCrusade",
+      "SetID": "989of5o",
+      "Name": "Fifth Crusade",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 346
+    },
+    {
+      "ID": "05_EmbraceOfAbyss",
+      "SetID": "989of5o",
+      "Name": "Embrace of the Abyss",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 259
+    },
+    {
+      "ID": "06_HeartOfFallenLand",
+      "SetID": "989of5o",
+      "Name": "Heart of the Fallen Land",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "07_FinalThreshold",
+      "SetID": "989of5o",
+      "Name": "The Final Threshold",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 43
+    },
+    {
+      "ID": "08_PathOfAngel",
+      "SetID": "989of5o",
+      "Name": "Path of the Angel",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 259
+    },
+    {
+      "ID": "09_PathOfDemon",
+      "SetID": "989of5o",
+      "Name": "Path of the Demon",
+      "Percentage": 0.8,
+      "XP": 10,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "10_PathOfAzata",
+      "SetID": "989of5o",
+      "Name": "Path of the Azata",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "11_PathOfAeon",
+      "SetID": "989of5o",
+      "Name": "Path of the Aeon",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 78
+    },
+    {
+      "ID": "12_PathOfTrickster",
+      "SetID": "989of5o",
+      "Name": "Path of the Trickster",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "13_PathOfLich",
+      "SetID": "989of5o",
+      "Name": "Path of the Lich",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "14_PathOfSwarm",
+      "SetID": "989of5o",
+      "Name": "Path of the Swarm",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "15_PathOfDragon",
+      "SetID": "989of5o",
+      "Name": "Path of the Dragon",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 43
+    },
+    {
+      "ID": "16_PathOfLegend",
+      "SetID": "989of5o",
+      "Name": "Path of the Legend",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 43
+    },
+    {
+      "ID": "17_Transformation",
+      "SetID": "989of5o",
+      "Name": "Transformation",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "18_MythicChoices",
+      "SetID": "989of5o",
+      "Name": "Mythic Choices",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 605
+    },
+    {
+      "ID": "19_EqualToAroden",
+      "SetID": "989of5o",
+      "Name": "Equal to Aroden",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "20_SpiritOfAdventures",
+      "SetID": "989of5o",
+      "Name": "Spirit of Adventure",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "21_TestOfStarstone",
+      "SetID": "989of5o",
+      "Name": "Test of the Starstone",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "22_MasterfulCraftsmanship",
+      "SetID": "989of5o",
+      "Name": "Masterful Craftsmanship",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "23_MasterfulCharge",
+      "SetID": "989of5o",
+      "Name": "Masterful Charge",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "24_Legacy",
+      "SetID": "989of5o",
+      "Name": "The Legacy",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "25_MasterfulDispell",
+      "SetID": "989of5o",
+      "Name": "Masterful Dispel",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "27_VictorySeige",
+      "SetID": "989of5o",
+      "Name": "Queen\u0027s Gratitude",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 518
+    },
+    {
+      "ID": "28_GreatUpstart",
+      "SetID": "989of5o",
+      "Name": "Great Upstart",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 259
+    },
+    {
+      "ID": "29_StrategicVictory",
+      "SetID": "989of5o",
+      "Name": "Strategic Victory",
+      "Percentage": 0.4,
+      "XP": 20,
+      "UsersEstimate": 35
+    },
+    {
+      "ID": "30_BattlefieldVictory",
+      "SetID": "989of5o",
+      "Name": "Heroic Victory",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "31_DivideAndRule",
+      "SetID": "989of5o",
+      "Name": "Divide and Rule",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "32_MythicReinforcements",
+      "SetID": "989of5o",
+      "Name": "Mythic Reinforcements",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "33_DefendersHeart",
+      "SetID": "989of5o",
+      "Name": "Defender\u0027s Heart",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 605
+    },
+    {
+      "ID": "34_CapitulationIsNowMoot",
+      "SetID": "989of5o",
+      "Name": "Capitulation Is Now Moot",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "35_AbyssalConspiracy",
+      "SetID": "989of5o",
+      "Name": "Abyssal Conspiracy",
+      "Percentage": 0.6,
+      "XP": 10,
+      "UsersEstimate": 52
+    },
+    {
+      "ID": "36_CoreOfRiddle",
+      "SetID": "989of5o",
+      "Name": "Core of the Riddle",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "37_FirstBigEnemy",
+      "SetID": "989of5o",
+      "Name": "Your First Big Enemy",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "38_PrelatesNemesis",
+      "SetID": "989of5o",
+      "Name": "Prelate\u0027s Nemesis",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "39_Blight of Drezen",
+      "SetID": "989of5o",
+      "Name": "Blight of Drezen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40_EndOfEternalGuard",
+      "SetID": "989of5o",
+      "Name": "End of Eternal Guard",
+      "Percentage": 0.6,
+      "XP": 10,
+      "UsersEstimate": 52
+    },
+    {
+      "ID": "41_PlayfulMood",
+      "SetID": "989of5o",
+      "Name": "Playful Mood",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 43
+    },
+    {
+      "ID": "42_JustPathetic",
+      "SetID": "989of5o",
+      "Name": "Just Pathetic",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "43_DreadfulDragon",
+      "SetID": "989of5o",
+      "Name": "Dreadful Dragon",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 35
+    },
+    {
+      "ID": "44_AshesToAshes",
+      "SetID": "989of5o",
+      "Name": "Ashes to Ashes",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "45_VoiceFromDreams",
+      "SetID": "989of5o",
+      "Name": "Voice from Your Dreams",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "46_AllPathsOpen",
+      "SetID": "989of5o",
+      "Name": "All Paths Open",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "47_ MemoriesFrozenInTime",
+      "SetID": "989of5o",
+      "Name": "Memories Frozen in Time",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "48_Spark",
+      "SetID": "989of5o",
+      "Name": "A Spark",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 777
+    },
+    {
+      "ID": "49_Flame",
+      "SetID": "989of5o",
+      "Name": "A Flame",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "50_HeyIKnowYou",
+      "SetID": "989of5o",
+      "Name": "Hey, I Know You!",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "51_DemonicAndDivine",
+      "SetID": "989of5o",
+      "Name": "Demonic and Divine",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 259
+    },
+    {
+      "ID": "52_TrulyImportantDeed",
+      "SetID": "989of5o",
+      "Name": "Truly Important Deed",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 78
+    },
+    {
+      "ID": "53_TrulyProfaneGift",
+      "SetID": "989of5o",
+      "Name": "Truly Profane Gift",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 35
+    },
+    {
+      "ID": "54_DeathByColumn",
+      "SetID": "989of5o",
+      "Name": "Death by Column",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "55_NextDoorPlay",
+      "SetID": "989of5o",
+      "Name": "Next-Door Play",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "56_GetToad",
+      "SetID": "989of5o",
+      "Name": "Get the Toad",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 173
+    },
+    {
+      "ID": "57_PathOfDevil",
+      "SetID": "989of5o",
+      "Name": "Path of the Devil",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "58_Midnight Aim",
+      "SetID": "989of5o",
+      "Name": "Midnight Aim",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "59_SoMuchOfMe",
+      "SetID": "989of5o",
+      "Name": "So Much of Me",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60_Ascension",
+      "SetID": "989of5o",
+      "Name": "Ascension",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61_GrainOfSand",
+      "SetID": "989of5o",
+      "Name": "Grain of Sand",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "62_StoryWorthMillenia",
+      "SetID": "989of5o",
+      "Name": "A Story Worth Millennia",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "63_SecretOfSecrets",
+      "SetID": "989of5o",
+      "Name": "Secret of Secrets",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "64_Radiance",
+      "SetID": "989of5o",
+      "Name": "Radiance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "65_SubtleHints",
+      "SetID": "989of5o",
+      "Name": "Subtle Hints",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "66_Inevitable",
+      "SetID": "989of5o",
+      "Name": "Inevitable Outcome",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "67_Glimpse",
+      "SetID": "989of5o",
+      "Name": "Glimpse of Truth",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "68_Detective",
+      "SetID": "989of5o",
+      "Name": "Detective at Work",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "69_Silver",
+      "SetID": "989of5o",
+      "Name": "Silver Tongue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "70_Disillusioned",
+      "SetID": "989of5o",
+      "Name": "Disillusioned",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71_Paradox",
+      "SetID": "989of5o",
+      "Name": "Paradox",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_01_Provoker",
+      "SetID": "989of5o",
+      "Name": "The Art of Provocation",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_02_GraveRobber",
+      "SetID": "989of5o",
+      "Name": "Ill-Gotten Gains",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_03_CarefulSteps",
+      "SetID": "989of5o",
+      "Name": "Careful Steps",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_04_Deadweight",
+      "SetID": "989of5o",
+      "Name": "Deadweight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_05_AMomentOfPeace",
+      "SetID": "989of5o",
+      "Name": "In Memoriam",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_06_GuardianAngel",
+      "SetID": "989of5o",
+      "Name": "We Don\u0027t Trade Lives",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_07_BookWorm",
+      "SetID": "989of5o",
+      "Name": "The Manuscript Found in Kenabres",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_08_NoPainNoGain",
+      "SetID": "989of5o",
+      "Name": "The Unbreakable Trio",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_09_ComeInHandy",
+      "SetID": "989of5o",
+      "Name": "Don\u0027t Eat This",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_10_Carelessness",
+      "SetID": "989of5o",
+      "Name": "This Side Toward the Enemy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_18_RunFools",
+      "SetID": "989of5o",
+      "Name": "One for All",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_19_FriendInNeed",
+      "SetID": "989of5o",
+      "Name": "All for One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_Bully_achiv",
+      "SetID": "989of5o",
+      "Name": "No Escape From Justice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_Bureaucrat_achiv",
+      "SetID": "989of5o",
+      "Name": "Come Rain or Shine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_Healer_achiv",
+      "SetID": "989of5o",
+      "Name": "Bloody Bandages",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_Knock_achiv",
+      "SetID": "989of5o",
+      "Name": "Who\u0027s There?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_Puzzle_achiv",
+      "SetID": "989of5o",
+      "Name": "Piece It Together",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC2_Vandal_achiv",
+      "SetID": "989of5o",
+      "Name": "Are You a Cat?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_01_All_ends",
+      "SetID": "11go2ek",
+      "Name": "Secret of the Midnight Isles",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_02_Win_conscience",
+      "SetID": "11go2ek",
+      "Name": "The Past Never Dies",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_03_Take_boon",
+      "SetID": "11go2ek",
+      "Name": "Ride the Wind",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_04_Take_15_boons",
+      "SetID": "11go2ek",
+      "Name": "Windcatcher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_05_Take_all_boons",
+      "SetID": "11go2ek",
+      "Name": "Windmaster",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_06_Quest_of_bismarites",
+      "SetID": "11go2ek",
+      "Name": "Loot the Loot!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_07_Hidden_ending",
+      "SetID": "11go2ek",
+      "Name": "Redemption",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_08_Kill_the_fox",
+      "SetID": "11go2ek",
+      "Name": "Hunting Darkness",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_09_Win_the_tricster",
+      "SetID": "11go2ek",
+      "Name": "Broken Trickster",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_10_Win_the_minister",
+      "SetID": "11go2ek",
+      "Name": "Devoted Servant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_11_Win_the_angel",
+      "SetID": "11go2ek",
+      "Name": "Fallen Angel",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_12_Win_the_firstguard",
+      "SetID": "11go2ek",
+      "Name": "The Path Is Clear",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_13_Gardener",
+      "SetID": "11go2ek",
+      "Name": "Green Thumb",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_14_Do_not_shout_at_me",
+      "SetID": "11go2ek",
+      "Name": "Don\u0027t Scream at Me!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_15_Madness_of_the_brave",
+      "SetID": "11go2ek",
+      "Name": "Brave and Foolhardy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_16_From_the_jaws_of_defeat",
+      "SetID": "11go2ek",
+      "Name": "From the Jaws of Defeat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_17_Own_hands",
+      "SetID": "11go2ek",
+      "Name": "Who Needs Ballistae?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_18_Get_a_set",
+      "SetID": "11go2ek",
+      "Name": "Synergy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_19_First_try",
+      "SetID": "11go2ek",
+      "Name": "No Remorse",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_20_Unusual_mortal",
+      "SetID": "11go2ek",
+      "Name": "No Ordinary Mortal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC3_21_Myth_sell",
+      "SetID": "11go2ek",
+      "Name": "Wealth Is the Best Superpower",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLC4_22_Stay Underground",
+      "SetID": "11go2ek",
+      "Name": "Stay Underground",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 74
+    },
+    {
+      "ID": "DLC4_24_Hanged Man\u0027s Notes",
+      "SetID": "11go2ek",
+      "Name": "Hanged Man\u0027s Notes",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 74
+    },
+    {
+      "ID": "DLC4_25_Sarkoris Will Be Green",
+      "SetID": "11go2ek",
+      "Name": "Sarkoris Will Be Green",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 74
+    },
+    {
+      "ID": "DLC4_26_This Wall Won\u0027t Fall",
+      "SetID": "11go2ek",
+      "Name": "This Wall Won\u0027t Fall",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "DLC4_27_Not the Last Sarkorian",
+      "SetID": "11go2ek",
+      "Name": "Not the Last Sarkorian",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "DLC4_29_The Lady of the Forest",
+      "SetID": "11go2ek",
+      "Name": "The Lady of the Forest",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 148
+    },
+    {
+      "ID": "DLC4_34_Beware of Still Water",
+      "SetID": "11go2ek",
+      "Name": "Beware Still Water",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 148
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7419,
+      "Progressed": 7420,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8637,
+      "Progressed": 8638,
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T13:02:58.6170766+00:00",
-  "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Rating": 4.76,
-  "Ranking_Rating": 114,
-  "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 108,
-  "Ranking_EOS_Progress": 107,
-  "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 1354,
-  "NumberOfAwards": 6577,
-  "NumberOfAwardsMax": 1624,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
-  "Ranking_EOS_NewPlayers": 106
+  "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
+  "LastChanged": "2023-05-05T13:02:58.6170766+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:31.1315652+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:37.7989369+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:31.1317087+00:00"
 }

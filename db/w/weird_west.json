@@ -1,6 +1,390 @@
 {
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West",
+  "ProductSlug": "weird-west-906661",
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 469,
+  "Ranking_PopularitySum": 471,
+  "Ranking_EOS_Progress": 149,
+  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.45,
+  "NumberOfRatings": 125,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:30:17.206459+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 85
+    },
+    {
+      "Time": "2022-07-26T20:02:32.8801168+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 87
+    },
+    {
+      "Time": "2022-07-28T20:02:04.9710933+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 88
+    },
+    {
+      "Time": "2022-07-29T20:02:35.0463179+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 90
+    },
+    {
+      "Time": "2022-07-31T09:01:53.327131+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 92
+    },
+    {
+      "Time": "2022-07-31T19:02:13.0191774+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 93
+    },
+    {
+      "Time": "2022-08-03T06:01:58.7789582+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 94
+    },
+    {
+      "Time": "2022-08-03T17:02:18.5372166+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 95
+    },
+    {
+      "Time": "2022-08-04T08:31:54.23275+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 96
+    },
+    {
+      "Time": "2022-08-05T08:31:56.8117131+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 97
+    },
+    {
+      "Time": "2022-08-06T08:34:01.8670711+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 99
+    },
+    {
+      "Time": "2022-08-08T03:31:52.8870395+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 100
+    },
+    {
+      "Time": "2022-08-09T06:31:53.1120695+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 101
+    },
+    {
+      "Time": "2022-08-17T07:31:58.366339+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 103
+    },
+    {
+      "Time": "2022-08-18T10:02:03.8016806+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 104
+    },
+    {
+      "Time": "2022-08-18T20:32:35.3606004+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 105
+    },
+    {
+      "Time": "2022-08-20T20:31:58.4222635+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 106
+    },
+    {
+      "Time": "2022-08-22T20:32:49.54732+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 108
+    },
+    {
+      "Time": "2022-08-23T20:32:32.4262663+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 110
+    },
+    {
+      "Time": "2022-08-24T21:02:40.9698829+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 111
+    },
+    {
+      "Time": "2022-08-26T21:02:18.3547655+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 112
+    },
+    {
+      "Time": "2022-09-01T23:32:47.3230259+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 114
+    },
+    {
+      "Time": "2022-09-03T19:02:34.904307+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 115
+    },
+    {
+      "Time": "2022-09-04T19:02:37.5666104+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 116
+    },
+    {
+      "Time": "2022-09-10T20:03:33.5992002+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 118
+    },
+    {
+      "Time": "2022-09-11T12:02:50.6088845+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 119
+    },
+    {
+      "Time": "2022-09-14T12:02:35.1721616+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 120
+    },
+    {
+      "Time": "2022-09-15T12:03:24.2672692+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 121
+    },
+    {
+      "Time": "2022-09-17T12:32:00.4387828+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 123
+    },
+    {
+      "Time": "2022-09-23T13:33:18.4374395+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 125
+    },
+    {
+      "Time": "2022-10-01T13:32:27.9461119+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-10-02T13:32:10.3051425+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-10-03T19:03:05.6449781+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-10-04T19:03:12.5476156+00:00",
+      "Rating": 4.4
+    },
+    {
+      "Time": "2022-10-08T05:32:01.2514497+00:00",
+      "Rating": 4.39
+    },
+    {
+      "Time": "2022-10-10T05:32:39.6738787+00:00",
+      "Rating": 4.4
+    },
+    {
+      "Time": "2022-10-13T06:02:11.6362626+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-10-14T06:02:24.7829072+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-10-21T15:32:17.986677+00:00",
+      "Rating": 4.41
+    },
+    {
+      "Time": "2022-10-23T14:32:40.807819+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-10-23T18:32:35.8529593+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-10-25T18:36:32.9024327+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-10-26T16:33:28.7229607+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-11-04T08:04:10.0421044+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-13T02:49:07.2501832+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-14T02:51:50.0389747+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-26T17:57:57.7551699+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-11-28T17:58:11.502297+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-30T18:58:26.5581603+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-12-05T18:59:45.3705873+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-26T18:58:29.9430052+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-12-29T18:58:10.1013433+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-30T14:58:22.0785369+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2023-01-05T15:57:59.2022182+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2023-01-31T21:58:30.864487+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-02-23T23:58:24.3688551+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2023-02-24T23:58:19.477075+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2023-03-24T18:58:50.3448451+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-04-03T07:59:09.9435507+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-04T08:58:21.0392329+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-18T11:59:25.5957545+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Impact the Story",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    },
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 23
+    }
+  ],
+  "EOS_Progressed": 1494,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 8,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.13,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:31.998977+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-26T21:03:39.7120174+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T14:03:18.2454689+00:00",
+      "NumProgressed": 1484,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T18:03:31.3518+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T20:03:35.7732802+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-30T21:01:06.9372532+00:00",
+      "NumProgressed": 1487,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-02T14:02:20.600503+00:00",
+      "NumProgressed": 1488,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T09:02:26.4998579+00:00",
+      "NumProgressed": 1489,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T11:03:47.5888143+00:00",
+      "NumProgressed": 1490,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T12:03:11.1659177+00:00",
+      "NumProgressed": 1491,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T19:03:15.158419+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T21:05:33.2865264+00:00",
+      "NumProgressed": 1493,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-05T13:10:27.8017736+00:00",
+      "NumProgressed": 1494,
+      "NumCompleted": 2
+    }
+  ],
+  "TotalAchievements": 53,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_CHAIN_REACTION",
@@ -427,379 +811,6 @@
       "UsersEstimate": 194
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    },
-    {
-      "Text": "In this game, your choices Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Impact the Story",
-      "Count": 23
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:14:31.998977+00:00",
-      "NumProgressed": 1482,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-26T21:03:39.7120174+00:00",
-      "NumProgressed": 1483,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-27T14:03:18.2454689+00:00",
-      "NumProgressed": 1484,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-27T18:03:31.3518+00:00",
-      "NumProgressed": 1485,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-27T20:03:35.7732802+00:00",
-      "NumProgressed": 1486,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-04-30T21:01:06.9372532+00:00",
-      "NumProgressed": 1487,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-02T14:02:20.600503+00:00",
-      "NumProgressed": 1488,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T09:02:26.4998579+00:00",
-      "NumProgressed": 1489,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T11:03:47.5888143+00:00",
-      "NumProgressed": 1490,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T12:03:11.1659177+00:00",
-      "NumProgressed": 1491,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T19:03:15.158419+00:00",
-      "NumProgressed": 1492,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-04T21:05:33.2865264+00:00",
-      "NumProgressed": 1493,
-      "NumCompleted": 2
-    },
-    {
-      "Time": "2023-05-05T13:10:27.8017736+00:00",
-      "NumProgressed": 1494,
-      "NumCompleted": 2
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:30:17.206459+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 85
-    },
-    {
-      "Time": "2022-07-26T20:02:32.8801168+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 87
-    },
-    {
-      "Time": "2022-07-28T20:02:04.9710933+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 88
-    },
-    {
-      "Time": "2022-07-29T20:02:35.0463179+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 90
-    },
-    {
-      "Time": "2022-07-31T09:01:53.327131+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 92
-    },
-    {
-      "Time": "2022-07-31T19:02:13.0191774+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 93
-    },
-    {
-      "Time": "2022-08-03T06:01:58.7789582+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 94
-    },
-    {
-      "Time": "2022-08-03T17:02:18.5372166+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 95
-    },
-    {
-      "Time": "2022-08-04T08:31:54.23275+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 96
-    },
-    {
-      "Time": "2022-08-05T08:31:56.8117131+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 97
-    },
-    {
-      "Time": "2022-08-06T08:34:01.8670711+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 99
-    },
-    {
-      "Time": "2022-08-08T03:31:52.8870395+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 100
-    },
-    {
-      "Time": "2022-08-09T06:31:53.1120695+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 101
-    },
-    {
-      "Time": "2022-08-17T07:31:58.366339+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 103
-    },
-    {
-      "Time": "2022-08-18T10:02:03.8016806+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 104
-    },
-    {
-      "Time": "2022-08-18T20:32:35.3606004+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 105
-    },
-    {
-      "Time": "2022-08-20T20:31:58.4222635+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 106
-    },
-    {
-      "Time": "2022-08-22T20:32:49.54732+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 108
-    },
-    {
-      "Time": "2022-08-23T20:32:32.4262663+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 110
-    },
-    {
-      "Time": "2022-08-24T21:02:40.9698829+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 111
-    },
-    {
-      "Time": "2022-08-26T21:02:18.3547655+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 112
-    },
-    {
-      "Time": "2022-09-01T23:32:47.3230259+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 114
-    },
-    {
-      "Time": "2022-09-03T19:02:34.904307+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 115
-    },
-    {
-      "Time": "2022-09-04T19:02:37.5666104+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 116
-    },
-    {
-      "Time": "2022-09-10T20:03:33.5992002+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 118
-    },
-    {
-      "Time": "2022-09-11T12:02:50.6088845+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 119
-    },
-    {
-      "Time": "2022-09-14T12:02:35.1721616+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 120
-    },
-    {
-      "Time": "2022-09-15T12:03:24.2672692+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 121
-    },
-    {
-      "Time": "2022-09-17T12:32:00.4387828+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 123
-    },
-    {
-      "Time": "2022-09-23T13:33:18.4374395+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 125
-    },
-    {
-      "Time": "2022-10-01T13:32:27.9461119+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-10-02T13:32:10.3051425+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-10-03T19:03:05.6449781+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-10-04T19:03:12.5476156+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-10-08T05:32:01.2514497+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2022-10-10T05:32:39.6738787+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-10-13T06:02:11.6362626+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-10-14T06:02:24.7829072+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-10-21T15:32:17.986677+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2022-10-23T14:32:40.807819+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-10-23T18:32:35.8529593+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-10-25T18:36:32.9024327+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-10-26T16:33:28.7229607+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-11-04T08:04:10.0421044+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-13T02:49:07.2501832+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-14T02:51:50.0389747+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-26T17:57:57.7551699+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-11-28T17:58:11.502297+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-30T18:58:26.5581603+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-12-05T18:59:45.3705873+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-26T18:58:29.9430052+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-12-29T18:58:10.1013433+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-30T14:58:22.0785369+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-01-05T15:57:59.2022182+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2023-01-31T21:58:30.864487+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-02-23T23:58:24.3688551+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-02-24T23:58:19.477075+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2023-03-24T18:58:50.3448451+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-04-03T07:59:09.9435507+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 22,
-      "NumberOfAwardsMax": 22
-    },
-    {
-      "Time": "2023-04-04T08:58:21.0392329+00:00",
-      "Rating": 4.45,
-      "NumberOfAwards": 22,
-      "NumberOfAwardsMax": 22
-    },
-    {
-      "Time": "2023-04-18T11:59:25.5957545+00:00",
-      "Rating": 4.45,
-      "NumberOfAwards": 23,
-      "NumberOfAwardsMax": 23
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-05T16:07:32.2430616+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 8,
-  "EOS_Completed": 2,
-  "EOS_Progressed": 1494,
-  "LastUpdate_Achievements": "2023-05-05T16:07:32.2431209+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:23.5578638+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:50.0036462+00:00",
   "AchievementSets": [
     {
       "ID": "8j30i9k",
@@ -808,21 +819,11 @@
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 0.13,
-  "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "ProductSlug": "weird-west-906661",
-  "Rating": 4.45,
-  "Ranking_Rating": 599,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 471,
-  "Ranking_EOS_Progress": 149,
-  "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
-  "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 125,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
-  "Ranking_EOS_NewPlayers": 179
+  "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
+  "LastChanged": "2023-04-18T11:59:25.595754+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:19.907883+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:43.5309725+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:45.0286319+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:19.9079522+00:00"
 }

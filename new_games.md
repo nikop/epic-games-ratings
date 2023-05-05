@@ -28,7 +28,7 @@
 | [Gold Rush! Classic](games/g/gold_rush!_classic.md) | - | - | 0 | - |
 | [Cats Yakuza - Online card game](games/c/cats_yakuza_-_online_card_game.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.39 | 680 | 157 | 280 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.38 | 687 | 157 | 280 |
 | [Grim Nights](games/g/grim_nights.md) | - | - | 0 | - |
 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | - | - | 0 | - |
 | [Island Cities](games/i/island_cities.md) | - | - | 0 | - |
@@ -58,7 +58,7 @@
 | [Roma Invicta](games/r/roma_invicta.md) | - | - | 0 | - |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | - | - | 0 | - |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 476 | 2,260 | 95 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 476 | 2,369 | 93 |
 | [Doomed Lands](games/d/doomed_lands.md) | - | - | 0 | - |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
 | [Stray Blade](games/s/stray_blade.md) | - | - | 0 | - |

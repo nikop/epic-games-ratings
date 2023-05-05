@@ -1,6 +1,37 @@
 {
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
+  "ProductSlug": "rise-of-the-third-power-682886",
+  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.3919586+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 119,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 3.36,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:37.958758+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 4
+    }
+  ],
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "Attuned",
@@ -171,32 +202,6 @@
       "UsersEstimate": 26
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:37.958758+00:00",
-      "NumProgressed": 119,
-      "NumCompleted": 4
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:42.3919586+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-05T16:07:51.1821077+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 4,
-  "EOS_Progressed": 119,
-  "LastUpdate_Achievements": "2023-05-05T16:07:51.1821201+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:03.4774374+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:18.058729+00:00",
   "AchievementSets": [
     {
       "ID": "4nce15l",
@@ -205,16 +210,12 @@
       "Completed": 4
     }
   ],
-  "EOS_Completed_Percentage": 3.36,
-  "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
-  "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 244,
-  "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:22.4007155+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
+  "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:34.0009477+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:12.4323401+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:12.6044501+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:34.000965+00:00"
 }

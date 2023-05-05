@@ -10,27 +10,27 @@ Diff (max vs sum): -19
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,614 |
-| Landlord | 29.00% | ~14,171 |
-| Bannerlord | 20.00% | ~9,773 |
-| Horde breaker | 20.00% | ~9,773 |
-| Lawmaker | 20.00% | ~9,773 |
-| Trained | 19.00% | ~9,284 |
-| The king is pleased | 16.00% | ~7,818 |
-| King Solomon | 15.00% | ~7,330 |
-| I can do it | 14.00% | ~6,841 |
-| Apple of my eye | 13.00% | ~6,352 |
-| God of the Arena | 12.00% | ~5,864 |
-| Against all odds | 9.00% | ~4,398 |
-| Swordbearer | 9.00% | ~4,398 |
-| Duelist | 8.00% | ~3,909 |
-| Dynasty | 8.00% | ~3,909 |
-| I spit on your grave | 8.00% | ~3,909 |
+| Lawbringer | 34.00% | ~16,617 |
+| Landlord | 29.00% | ~14,173 |
+| Bannerlord | 20.00% | ~9,775 |
+| Horde breaker | 20.00% | ~9,775 |
+| Lawmaker | 20.00% | ~9,775 |
+| Trained | 19.00% | ~9,286 |
+| The king is pleased | 16.00% | ~7,820 |
+| King Solomon | 15.00% | ~7,331 |
+| I can do it | 14.00% | ~6,842 |
+| Apple of my eye | 13.00% | ~6,354 |
+| God of the Arena | 12.00% | ~5,865 |
+| Against all odds | 9.00% | ~4,399 |
+| Swordbearer | 9.00% | ~4,399 |
+| Duelist | 8.00% | ~3,910 |
+| Dynasty | 8.00% | ~3,910 |
+| I spit on your grave | 8.00% | ~3,910 |
 | Butterlord | 7.00% | ~3,421 |
 | What have the Romans ever done for us? | 7.00% | ~3,421 |
 | Mastery | 6.00% | ~2,932 |
-| Know your enemy | 5.00% | ~2,443 |
-| This Is Our Land | 5.00% | ~2,443 |
+| Know your enemy | 5.00% | ~2,444 |
+| This Is Our Land | 5.00% | ~2,444 |
 | Crush your enemies | 4.00% | ~1,955 |
 | My way | 4.00% | ~1,955 |
 | Veni vidi vici | 4.00% | ~1,955 |
@@ -62,7 +62,7 @@ Diff (max vs sum): -19
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,865 (Ranked 73)  
+Progressed: 48,874 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 48,658 | 0 |
 | 2023-05-03 | 48,714 | 0 |
 | 2023-05-04 | 48,795 | 0 |
-| 2023-05-05 | 48,865 | 0 |
+| 2023-05-05 | 48,874 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

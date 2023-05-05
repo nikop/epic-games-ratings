@@ -1,6 +1,42 @@
 {
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
+  "ProductSlug": "doodle-devil-8e65af",
+  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Completed": 5,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:51.051829+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 72,
+  "EOS_Completed": 14,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 19.44,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:19.0754835+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-02T14:06:08.1908781+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 14
+    }
+  ],
+  "TotalAchievements": 9,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "701312",
@@ -75,37 +111,6 @@
       "UsersEstimate": 32
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:19.0754835+00:00",
-      "NumProgressed": 71,
-      "NumCompleted": 14
-    },
-    {
-      "Time": "2023-05-02T14:06:08.1908781+00:00",
-      "NumProgressed": 72,
-      "NumCompleted": 14
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:51.051829+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 9,
-  "LastChanged_Achievements": "2023-05-05T16:08:17.300727+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 14,
-  "EOS_Progressed": 72,
-  "LastUpdate_Achievements": "2023-05-05T16:08:17.3007362+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:43.0435808+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:25.1647946+00:00",
   "AchievementSets": [
     {
       "ID": "3n3mm3c",
@@ -114,16 +119,12 @@
       "Completed": 14
     }
   ],
-  "EOS_Completed_Percentage": 19.44,
-  "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
-  "ProductSlug": "doodle-devil-8e65af",
-  "Ranking_EOS_Progress": 258,
-  "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
-  "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:53.4158862+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
+  "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:53.2862096+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:25.2529987+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:17.9631963+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:53.2862308+00:00"
 }

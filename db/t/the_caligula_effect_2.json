@@ -1,6 +1,70 @@
 {
   "ID": "380b93eff8d14bf5b7ba9e39979af8f3",
   "Name": "The Caligula Effect 2",
+  "ProductSlug": "the-caligula-effect-2-a51f60",
+  "Ranking_Rating": 621,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Completed": 82,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.44,
+  "NumberOfRatings": 32,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:19:58.3140989+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-07-23T16:00:44.8632425+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-28T10:00:43.3697319+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-08-14T06:37:12.2001342+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-10-08T23:00:50.0485946+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2023-01-10T10:57:06.8808594+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2023-03-31T05:57:16.8033508+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 228,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.88,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:18.7038891+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 2
+    }
+  ],
+  "TotalAchievements": 49,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_01",
@@ -395,60 +459,6 @@
       "UsersEstimate": 5
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:18.7038891+00:00",
-      "NumProgressed": 228,
-      "NumCompleted": 2
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:19:58.3140989+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 28
-    },
-    {
-      "Time": "2022-07-23T16:00:44.8632425+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 29
-    },
-    {
-      "Time": "2022-07-28T10:00:43.3697319+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 31
-    },
-    {
-      "Time": "2022-08-14T06:37:12.2001342+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 32
-    },
-    {
-      "Time": "2022-10-08T23:00:50.0485946+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-01-10T10:57:06.8808594+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-03-31T05:57:16.8033508+00:00",
-      "Rating": 4.44,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T16:07:23.3338888+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 2,
-  "EOS_Progressed": 228,
-  "LastUpdate_Achievements": "2023-05-05T16:07:23.3339487+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:15.4701132+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:06.4251004+00:00",
   "AchievementSets": [
     {
       "ID": "2eg5kgc",
@@ -457,20 +467,11 @@
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 0.88,
-  "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "ProductSlug": "the-caligula-effect-2-a51f60",
-  "Rating": 4.44,
-  "Ranking_Rating": 621,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 219,
-  "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 32,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
+  "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:13.3065662+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:55.7572865+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:00.0473362+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:13.3066676+00:00"
 }

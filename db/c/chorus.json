@@ -1,6 +1,369 @@
 {
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
+  "ProductSlug": "chorus",
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 434,
+  "Ranking_PopularitySum": 453,
+  "Ranking_EOS_Progress": 166,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.47,
+  "NumberOfRatings": 58,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:25:13.6854187+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-07-24T10:01:26.1024307+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-07-25T10:01:45.0385009+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-07-27T12:01:41.1724473+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-07-28T12:01:46.5378519+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 35
+    },
+    {
+      "Time": "2022-07-29T16:01:21.1569704+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-07-30T02:31:33.0992159+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-07-31T17:01:21.1750216+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 40
+    },
+    {
+      "Time": "2022-08-02T22:01:35.8943257+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 42
+    },
+    {
+      "Time": "2022-08-03T22:01:22.1322759+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-08-05T12:31:22.2118487+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 44
+    },
+    {
+      "Time": "2022-08-07T16:31:32.888671+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-08-08T16:31:20.4832709+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 46
+    },
+    {
+      "Time": "2022-08-10T16:31:21.2002265+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-08-13T21:01:24.7077361+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 48
+    },
+    {
+      "Time": "2022-08-15T17:02:15.1463844+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-08-16T17:01:47.5171116+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 50
+    },
+    {
+      "Time": "2022-08-29T21:01:29.2467128+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-09-04T16:01:42.9704258+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 52
+    },
+    {
+      "Time": "2022-09-06T16:02:12.1014761+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 53
+    },
+    {
+      "Time": "2022-09-07T14:01:44.7802788+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-09-07T14:31:37.0843831+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 53
+    },
+    {
+      "Time": "2022-09-07T16:01:34.9207671+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-09-08T11:16:13.2896258+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 55
+    },
+    {
+      "Time": "2022-09-10T04:01:24.2935762+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 56
+    },
+    {
+      "Time": "2022-09-11T10:01:33.2713667+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-09-17T20:31:30.8451217+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-09-26T21:35:23.2849783+00:00",
+      "Rating": 4.5
+    },
+    {
+      "Time": "2022-09-27T21:32:07.5412437+00:00",
+      "Rating": 4.51
+    },
+    {
+      "Time": "2022-10-01T20:01:39.7788818+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-02T20:31:40.9884028+00:00",
+      "Rating": 4.51
+    },
+    {
+      "Time": "2022-10-09T21:01:34.6960227+00:00",
+      "Rating": 4.5
+    },
+    {
+      "Time": "2022-10-16T21:31:28.1716932+00:00",
+      "Rating": 4.51
+    },
+    {
+      "Time": "2022-10-24T11:32:00.1325365+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-10-26T12:02:45.5994393+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-10-28T12:01:43.0960139+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-10-29T12:01:35.1811683+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-10-31T12:01:31.0223294+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-11-01T12:02:01.8589044+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-11-11T17:57:37.4579243+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-11-13T20:58:48.8513928+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-18T21:57:26.7881947+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-19T21:57:57.9985077+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-22T03:32:18.3231127+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-11-27T18:57:27.0161147+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-28T18:57:34.7025886+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-04T11:57:46.4760697+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-12-08T02:11:38.1060562+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-30T02:05:43.0271503+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-02-04T05:57:45.0250447+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2023-02-19T06:57:57.5722582+00:00",
+      "Rating": 4.48
+    },
+    {
+      "Time": "2023-03-29T10:57:57.6438106+00:00",
+      "Rating": 4.47
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 32
+    }
+  ],
+  "EOS_Progressed": 846,
+  "EOS_Completed": 11,
+  "EOS_NewPlayers": 14,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.3,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:24.544527+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-26T02:10:26.9671256+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-26T12:11:45.0821476+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-26T18:05:43.2079282+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-27T18:05:23.2029094+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-27T21:04:31.9552864+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T13:09:38.7776032+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T03:05:41.5690472+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T15:05:02.7884011+00:00",
+      "NumProgressed": 834,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-29T19:04:48.3161213+00:00",
+      "NumProgressed": 835,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T02:06:26.5245462+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T13:08:11.1158647+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T16:05:13.643456+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T19:05:53.4605843+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-30T22:05:16.9276547+00:00",
+      "NumProgressed": 842,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-01T16:05:23.397127+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-01T17:06:27.037662+00:00",
+      "NumProgressed": 844,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-03T22:04:44.0955194+00:00",
+      "NumProgressed": 845,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-05T15:05:21.1476553+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 11
+    }
+  ],
+  "TotalAchievements": 43,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "AllTrophies",
@@ -347,358 +710,6 @@
       "UsersEstimate": 415
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 32
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:24.544527+00:00",
-      "NumProgressed": 826,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-26T02:10:26.9671256+00:00",
-      "NumProgressed": 827,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-26T12:11:45.0821476+00:00",
-      "NumProgressed": 828,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-26T18:05:43.2079282+00:00",
-      "NumProgressed": 829,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-27T18:05:23.2029094+00:00",
-      "NumProgressed": 830,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-27T21:04:31.9552864+00:00",
-      "NumProgressed": 831,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-28T13:09:38.7776032+00:00",
-      "NumProgressed": 832,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T03:05:41.5690472+00:00",
-      "NumProgressed": 833,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T15:05:02.7884011+00:00",
-      "NumProgressed": 834,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-29T19:04:48.3161213+00:00",
-      "NumProgressed": 835,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T02:06:26.5245462+00:00",
-      "NumProgressed": 837,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T13:08:11.1158647+00:00",
-      "NumProgressed": 838,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T16:05:13.643456+00:00",
-      "NumProgressed": 839,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T19:05:53.4605843+00:00",
-      "NumProgressed": 841,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-04-30T22:05:16.9276547+00:00",
-      "NumProgressed": 842,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-01T16:05:23.397127+00:00",
-      "NumProgressed": 843,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-01T17:06:27.037662+00:00",
-      "NumProgressed": 844,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-03T22:04:44.0955194+00:00",
-      "NumProgressed": 845,
-      "NumCompleted": 11
-    },
-    {
-      "Time": "2023-05-05T15:05:21.1476553+00:00",
-      "NumProgressed": 846,
-      "NumCompleted": 11
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:25:13.6854187+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 31
-    },
-    {
-      "Time": "2022-07-24T10:01:26.1024307+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 32
-    },
-    {
-      "Time": "2022-07-25T10:01:45.0385009+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 33
-    },
-    {
-      "Time": "2022-07-27T12:01:41.1724473+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 34
-    },
-    {
-      "Time": "2022-07-28T12:01:46.5378519+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 35
-    },
-    {
-      "Time": "2022-07-29T16:01:21.1569704+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 36
-    },
-    {
-      "Time": "2022-07-30T02:31:33.0992159+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 37
-    },
-    {
-      "Time": "2022-07-31T17:01:21.1750216+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 40
-    },
-    {
-      "Time": "2022-08-02T22:01:35.8943257+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 42
-    },
-    {
-      "Time": "2022-08-03T22:01:22.1322759+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 43
-    },
-    {
-      "Time": "2022-08-05T12:31:22.2118487+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 44
-    },
-    {
-      "Time": "2022-08-07T16:31:32.888671+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 45
-    },
-    {
-      "Time": "2022-08-08T16:31:20.4832709+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 46
-    },
-    {
-      "Time": "2022-08-10T16:31:21.2002265+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 47
-    },
-    {
-      "Time": "2022-08-13T21:01:24.7077361+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 48
-    },
-    {
-      "Time": "2022-08-15T17:02:15.1463844+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 49
-    },
-    {
-      "Time": "2022-08-16T17:01:47.5171116+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 50
-    },
-    {
-      "Time": "2022-08-29T21:01:29.2467128+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 51
-    },
-    {
-      "Time": "2022-09-04T16:01:42.9704258+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 52
-    },
-    {
-      "Time": "2022-09-06T16:02:12.1014761+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 53
-    },
-    {
-      "Time": "2022-09-07T14:01:44.7802788+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 54
-    },
-    {
-      "Time": "2022-09-07T14:31:37.0843831+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 53
-    },
-    {
-      "Time": "2022-09-07T16:01:34.9207671+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 54
-    },
-    {
-      "Time": "2022-09-08T11:16:13.2896258+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 55
-    },
-    {
-      "Time": "2022-09-10T04:01:24.2935762+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 56
-    },
-    {
-      "Time": "2022-09-11T10:01:33.2713667+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 57
-    },
-    {
-      "Time": "2022-09-17T20:31:30.8451217+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 58
-    },
-    {
-      "Time": "2022-09-26T21:35:23.2849783+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-09-27T21:32:07.5412437+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-01T20:01:39.7788818+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-02T20:31:40.9884028+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-09T21:01:34.6960227+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-16T21:31:28.1716932+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-24T11:32:00.1325365+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-10-26T12:02:45.5994393+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-10-28T12:01:43.0960139+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-10-29T12:01:35.1811683+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-10-31T12:01:31.0223294+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-11-01T12:02:01.8589044+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-11-11T17:57:37.4579243+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-11-13T20:58:48.8513928+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-18T21:57:26.7881947+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-19T21:57:57.9985077+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-22T03:32:18.3231127+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-11-27T18:57:27.0161147+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-28T18:57:34.7025886+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-04T11:57:46.4760697+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-12-08T02:11:38.1060562+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-30T02:05:43.0271503+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-02-04T05:57:45.0250447+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2023-02-19T06:57:57.5722582+00:00",
-      "Rating": 4.48
-    },
-    {
-      "Time": "2023-03-29T10:57:57.6438106+00:00",
-      "Rating": 4.47
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 43,
-  "LastChanged_Achievements": "2023-05-05T16:08:10.9552552+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 14,
-  "EOS_Completed": 11,
-  "EOS_Progressed": 846,
-  "LastUpdate_Achievements": "2023-05-05T16:08:10.9552871+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:14.0043173+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:06.9243801+00:00",
   "AchievementSets": [
     {
       "ID": "a6c395p",
@@ -707,21 +718,11 @@
       "Completed": 11
     }
   ],
-  "EOS_Completed_Percentage": 1.3,
-  "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "ProductSlug": "chorus",
-  "Rating": 4.47,
-  "Ranking_Rating": 574,
-  "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 453,
-  "Ranking_EOS_Progress": 166,
-  "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 58,
-  "NumberOfAwards": 32,
-  "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
-  "Ranking_EOS_NewPlayers": 164
+  "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
+  "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:48.6204503+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:04.0894109+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:58.627959+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:48.6204796+00:00"
 }

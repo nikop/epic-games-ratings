@@ -1,52 +1,16 @@
 {
   "ID": "0ded1556336546bf849c9d28878ec86c",
   "Name": "Space Punks",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 161
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 159
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 150
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 171
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "",
-      "Type": "",
-      "Count": 79
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 143
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 165
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "space-punks",
+  "Ranking_Rating": 832,
+  "Ranking_Popularity": 271,
+  "Ranking_PopularitySum": 230,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.16,
+  "NumberOfRatings": 1927,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.1353749+00:00",
@@ -1758,30 +1722,67 @@
       "NumberOfAwardsMax": 171
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:53.3918965+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:02.22706+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:36.0962124+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-02T15:57:43.0369192+00:00",
-  "ProductSlug": "space-punks",
-  "Rating": 4.16,
-  "Ranking_Rating": 832,
-  "Ranking_Popularity": 271,
-  "Ranking_PopularitySum": 230,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 1927,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 949,
   "NumberOfAwardsMax": 171,
   "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 161
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 159
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 150
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 171
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "",
+      "Type": "",
+      "Count": 79
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 143
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 165
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-02T15:57:43.0369192+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:28.4608646+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:31.3075614+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:05:04.6975565+00:00"
 }

@@ -1,6 +1,42 @@
 {
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
+  "ProductSlug": "mason-building-bricks-73659e",
+  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-19T03:58:31.2715308+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 12,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 8.33,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:22.155756+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T03:09:21.7725022+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "Constructor_01",
@@ -43,37 +79,6 @@
       "UsersEstimate": 5
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:22.155756+00:00",
-      "NumProgressed": 12,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T03:09:21.7725022+00:00",
-      "NumProgressed": 12,
-      "NumCompleted": 1
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-19T03:58:31.2715308+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 5,
-  "LastChanged_Achievements": "2023-05-05T16:07:55.8927044+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 1,
-  "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T16:07:55.8927304+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:31.7659145+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:37.0433745+00:00",
   "AchievementSets": [
     {
       "ID": "77clh7i",
@@ -82,16 +87,12 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 8.33,
-  "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
-  "ProductSlug": "mason-building-bricks-73659e",
-  "Ranking_EOS_Progress": 301,
-  "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
-  "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-19T03:58:31.2715258+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
+  "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:37.5845539+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:32.4046609+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:30.2667804+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:37.5845616+00:00"
 }

@@ -1,6 +1,37 @@
 {
   "ID": "4374bc821f524407b18a891da624ef3f",
   "Name": "A Tale of Paper: Refolded",
+  "ProductSlug": "a-tale-of-paper-refolded-edition-39dd94",
+  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:38.3457189+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 2,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:57.990419+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 29,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACH_A",
@@ -235,32 +266,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:57.990419+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:38.3457189+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T16:08:18.1139604+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 2,
-  "LastUpdate_Achievements": "2023-05-05T16:08:18.1139794+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:45.6347872+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:26.6978632+00:00",
   "AchievementSets": [
     {
       "ID": "6992n2e",
@@ -269,16 +274,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:38.3457186+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:38.3457185+00:00",
-  "ProductSlug": "a-tale-of-paper-refolded-edition-39dd94",
-  "Ranking_EOS_Progress": 341,
-  "FirstSeenAchievements": "2023-04-25T16:09:57.9904198+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-25T13:31:06.6550408+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:57:38.3457185+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:57.9904198+00:00",
+  "LastChanged": "2023-03-31T05:57:38.3457186+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:53.7185976+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:27.0093519+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:19.5603144+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:53.7186377+00:00"
 }

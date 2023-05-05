@@ -1,6 +1,107 @@
 {
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
+  "ProductSlug": "shoulders-of-giants-61381f",
+  "Ranking_Rating": 772,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 144,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.26,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-08T19:57:26.4841995+00:00",
+      "Rating": 4.2
+    },
+    {
+      "Time": "2023-03-14T20:57:31.6066583+00:00",
+      "Rating": 4.19
+    },
+    {
+      "Time": "2023-03-17T20:57:42.1875246+00:00",
+      "Rating": 4.23
+    },
+    {
+      "Time": "2023-03-26T21:57:13.1185769+00:00",
+      "Rating": 4.26
+    },
+    {
+      "Time": "2023-03-31T05:57:31.8756207+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 1857,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 6,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.32,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:46.8863145+00:00",
+      "NumProgressed": 1845,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-25T22:12:19.6391157+00:00",
+      "NumProgressed": 1846,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-26T03:11:35.8299784+00:00",
+      "NumProgressed": 1849,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-29T21:05:13.520221+00:00",
+      "NumProgressed": 1851,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-29T22:05:14.5191577+00:00",
+      "NumProgressed": 1852,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-02T18:06:14.5706127+00:00",
+      "NumProgressed": 1852,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-02T22:05:03.616164+00:00",
+      "NumProgressed": 1853,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-03T22:05:02.2391902+00:00",
+      "NumProgressed": 1854,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-04T18:05:39.9367174+00:00",
+      "NumProgressed": 1855,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-05T13:11:12.7482501+00:00",
+      "NumProgressed": 1856,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-05T13:42:21.2982821+00:00",
+      "NumProgressed": 1857,
+      "NumCompleted": 6
+    }
+  ],
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "climb_tree",
@@ -155,98 +256,6 @@
       "UsersEstimate": 130
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:46.8863145+00:00",
-      "NumProgressed": 1845,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-25T22:12:19.6391157+00:00",
-      "NumProgressed": 1846,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-26T03:11:35.8299784+00:00",
-      "NumProgressed": 1849,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-29T21:05:13.520221+00:00",
-      "NumProgressed": 1851,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-04-29T22:05:14.5191577+00:00",
-      "NumProgressed": 1852,
-      "NumCompleted": 5
-    },
-    {
-      "Time": "2023-05-02T18:06:14.5706127+00:00",
-      "NumProgressed": 1852,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-05-02T22:05:03.616164+00:00",
-      "NumProgressed": 1853,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-05-03T22:05:02.2391902+00:00",
-      "NumProgressed": 1854,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-05-04T18:05:39.9367174+00:00",
-      "NumProgressed": 1855,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-05-05T13:11:12.7482501+00:00",
-      "NumProgressed": 1856,
-      "NumCompleted": 6
-    },
-    {
-      "Time": "2023-05-05T13:42:21.2982821+00:00",
-      "NumProgressed": 1857,
-      "NumCompleted": 6
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-08T19:57:26.4841995+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-03-14T20:57:31.6066583+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-03-17T20:57:42.1875246+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2023-03-26T21:57:13.1185769+00:00",
-      "Rating": 4.26
-    },
-    {
-      "Time": "2023-03-31T05:57:31.8756207+00:00",
-      "Rating": 4.26,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-05T16:08:16.8848029+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 6,
-  "EOS_Completed": 6,
-  "EOS_Progressed": 1857,
-  "LastUpdate_Achievements": "2023-05-05T16:08:16.8848205+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:39.6778494+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:23.2705222+00:00",
   "AchievementSets": [
     {
       "ID": "236b9eg",
@@ -255,20 +264,12 @@
       "Completed": 6
     }
   ],
-  "EOS_Completed_Percentage": 0.32,
-  "LastChanged": "2023-03-31T05:57:31.8756206+00:00",
-  "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
-  "ProductSlug": "shoulders-of-giants-61381f",
-  "Rating": 4.26,
-  "Ranking_Rating": 772,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 144,
-  "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T15:57:54.151819+00:00",
-  "Ranking_EOS_NewPlayers": 187
+  "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
+  "LastChanged": "2023-03-31T05:57:31.8756206+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:52.9416221+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:15.8917486+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:52.9416353+00:00"
 }

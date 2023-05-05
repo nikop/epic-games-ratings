@@ -1,40 +1,16 @@
 {
   "ID": "newt",
   "Name": "Spellbreak",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 304
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 25
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 22
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "spellbreak",
+  "Ranking_Rating": 328,
+  "Ranking_Popularity": 223,
+  "Ranking_PopularitySum": 299,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.63,
+  "NumberOfRatings": 1020,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -716,30 +692,55 @@
       "Rating": 4.63
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:04:09.4546718+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:13.2566011+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:04.8498865+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2022-11-28T20:57:02.2175915+00:00",
-  "ProductSlug": "spellbreak",
-  "Rating": 4.63,
-  "Ranking_Rating": 328,
-  "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 299,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 1020,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 400,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 304
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 22
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2022-11-28T20:57:02.2175915+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:54.1508834+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:58.4657506+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:05:15.1721881+00:00"
 }

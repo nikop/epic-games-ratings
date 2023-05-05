@@ -1,6 +1,42 @@
 {
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
+  "ProductSlug": "bratz-flaunt-your-fashion-95d529",
+  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:31.8996548+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 31,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:19.5108834+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T22:04:21.8713681+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "1",
@@ -155,37 +191,6 @@
       "UsersEstimate": 16
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:19.5108834+00:00",
-      "NumProgressed": 30,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T22:04:21.8713681+00:00",
-      "NumProgressed": 31,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:31.8996548+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 19,
-  "LastChanged_Achievements": "2023-05-05T16:07:53.1147617+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 31,
-  "LastUpdate_Achievements": "2023-05-05T16:07:53.1147735+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:09.0385319+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:21.3249615+00:00",
   "AchievementSets": [
     {
       "ID": "41h3j82",
@@ -194,16 +199,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
-  "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 284,
-  "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-03T02:22:16.5270322+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
+  "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:35.5865817+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:16.1914898+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:15.7982787+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:35.5865975+00:00"
 }

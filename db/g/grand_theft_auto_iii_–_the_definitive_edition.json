@@ -1,241 +1,224 @@
 {
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
-  "Achievements": [
+  "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
+  "Ranking_Rating": 832,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.16,
+  "RatingHistory": [
     {
-      "ID": "ACH01",
-      "SetID": "552d41m",
-      "Name": "First Day on the Job",
-      "Percentage": 83,
-      "XP": 15,
-      "UsersEstimate": 3997
+      "Time": "2023-02-24T19:57:59.6714906+00:00",
+      "Rating": 4
     },
     {
-      "ID": "ACH02",
-      "SetID": "552d41m",
-      "Name": "Without a Scratch",
-      "Percentage": 32,
-      "XP": 40,
-      "UsersEstimate": 1541
+      "Time": "2023-02-25T19:58:00.1785007+00:00",
+      "Rating": 3.89
     },
     {
-      "ID": "ACH03",
-      "SetID": "552d41m",
-      "Name": "Escape Artist",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 48
+      "Time": "2023-02-26T21:57:57.1535518+00:00",
+      "Rating": 3.86
     },
     {
-      "ID": "ACH04",
-      "SetID": "552d41m",
-      "Name": "Disposing of the Evidence",
-      "Percentage": 36,
-      "XP": 15,
-      "UsersEstimate": 1734
+      "Time": "2023-02-27T21:57:59.2235157+00:00",
+      "Rating": 3.97
     },
     {
-      "ID": "ACH05",
-      "SetID": "552d41m",
-      "Name": "Mob Boss",
-      "Percentage": 2,
-      "XP": 45,
-      "UsersEstimate": 96
+      "Time": "2023-03-01T10:58:25.9216028+00:00",
+      "Rating": 4
     },
     {
-      "ID": "ACH06",
-      "SetID": "552d41m",
-      "Name": "Street Sweeper",
-      "Percentage": 17,
-      "XP": 25,
-      "UsersEstimate": 819
+      "Time": "2023-03-01T23:58:48.5774856+00:00",
+      "Rating": 4.12
     },
     {
-      "ID": "ACH07",
-      "SetID": "552d41m",
-      "Name": "Planned Ahead",
-      "Percentage": 0.9,
-      "XP": 40,
-      "UsersEstimate": 43
+      "Time": "2023-03-03T02:22:07.8631032+00:00",
+      "Rating": 4.11
     },
     {
-      "ID": "ACH08",
-      "SetID": "552d41m",
-      "Name": "Got This Figured Out",
-      "Percentage": 1,
-      "XP": 45,
-      "UsersEstimate": 48
+      "Time": "2023-03-04T02:11:44.4544689+00:00",
+      "Rating": 4.15
     },
     {
-      "ID": "ACH09",
-      "SetID": "552d41m",
-      "Name": "By a Mile",
-      "Percentage": 9,
-      "XP": 30,
-      "UsersEstimate": 433
+      "Time": "2023-03-06T22:58:11.3772847+00:00",
+      "Rating": 4.16
     },
     {
-      "ID": "ACH10",
-      "SetID": "552d41m",
-      "Name": "Wreckless Driving",
-      "Percentage": 27,
-      "XP": 25,
-      "UsersEstimate": 1300
+      "Time": "2023-03-08T23:58:19.9359963+00:00",
+      "Rating": 4.12
     },
     {
-      "ID": "ACH11",
-      "SetID": "552d41m",
-      "Name": "Wheels Up",
-      "Percentage": 0.9,
-      "XP": 50,
-      "UsersEstimate": 43
+      "Time": "2023-03-11T22:58:44.7427181+00:00",
+      "Rating": 4.13
     },
     {
-      "ID": "ACH12",
-      "SetID": "552d41m",
-      "Name": "Come Out to Play-y-y-y",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 48
+      "Time": "2023-03-13T10:58:28.2937653+00:00",
+      "Rating": 4.15
     },
     {
-      "ID": "ACH13",
-      "SetID": "552d41m",
-      "Name": "Where To?",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 48
+      "Time": "2023-03-14T09:58:44.2745746+00:00",
+      "Rating": 4.13
     },
     {
-      "ID": "ACH14",
-      "SetID": "552d41m",
-      "Name": "Liberty City Minute",
-      "Percentage": 16,
-      "XP": 50,
-      "UsersEstimate": 771
+      "Time": "2023-03-16T09:58:05.0567483+00:00",
+      "Rating": 4.09
     },
     {
-      "ID": "ACH15",
-      "SetID": "552d41m",
-      "Name": "Full Artillery",
-      "Percentage": 4,
-      "XP": 25,
-      "UsersEstimate": 193
+      "Time": "2023-03-17T09:57:58.6926371+00:00",
+      "Rating": 4.12
     },
     {
-      "ID": "ACH16",
-      "SetID": "552d41m",
-      "Name": "A Marked Man",
-      "Percentage": 24,
-      "XP": 25,
-      "UsersEstimate": 1156
+      "Time": "2023-03-19T09:58:05.6041369+00:00",
+      "Rating": 4.13
     },
     {
-      "ID": "ACH17",
-      "SetID": "552d41m",
-      "Name": "Offshore Delivery",
-      "Percentage": 12,
-      "XP": 25,
-      "UsersEstimate": 578
+      "Time": "2023-03-19T23:58:36.6920517+00:00",
+      "Rating": 4.11
     },
     {
-      "ID": "ACH18",
-      "SetID": "552d41m",
-      "Name": "Not So Fast",
-      "Percentage": 8,
-      "XP": 25,
-      "UsersEstimate": 385
+      "Time": "2023-03-22T04:58:19.5898021+00:00",
+      "Rating": 4.12
     },
     {
-      "ID": "ACH19",
-      "SetID": "552d41m",
-      "Name": "A Gift from the King",
-      "Percentage": 6,
-      "XP": 25,
-      "UsersEstimate": 289
+      "Time": "2023-03-23T04:58:30.3739347+00:00",
+      "Rating": 4.13
     },
     {
-      "ID": "ACH20",
-      "SetID": "552d41m",
-      "Name": "Man Toyz",
-      "Percentage": 0.9,
-      "XP": 30,
-      "UsersEstimate": 43
+      "Time": "2023-03-26T10:57:58.2289865+00:00",
+      "Rating": 4.16
     },
     {
-      "ID": "ACH21",
-      "SetID": "552d41m",
-      "Name": "Splish Splash",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 96
+      "Time": "2023-03-29T10:58:33.388093+00:00",
+      "Rating": 4.17
     },
     {
-      "ID": "ACH22",
-      "SetID": "552d41m",
-      "Name": "Playing Doctor",
-      "Percentage": 1,
-      "XP": 35,
-      "UsersEstimate": 48
+      "Time": "2023-03-31T05:58:23.8387647+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH23",
-      "SetID": "552d41m",
-      "Name": "Going Rogue",
-      "Percentage": 0.9,
-      "XP": 30,
-      "UsersEstimate": 43
+      "Time": "2023-04-04T10:58:49.1147423+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH24",
-      "SetID": "552d41m",
-      "Name": "Dirty Money",
-      "Percentage": 11,
-      "XP": 30,
-      "UsersEstimate": 530
+      "Time": "2023-04-06T10:58:25.8460863+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH25",
-      "SetID": "552d41m",
-      "Name": "Right-hand Man",
-      "Percentage": 9,
-      "XP": 25,
-      "UsersEstimate": 433
+      "Time": "2023-04-08T05:58:44.0793151+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH26",
-      "SetID": "552d41m",
-      "Name": "Furious First Responder",
-      "Percentage": 0.8,
-      "XP": 55,
-      "UsersEstimate": 39
+      "Time": "2023-04-09T05:58:22.0673617+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH27",
-      "SetID": "552d41m",
-      "Name": "Liberty City Secrets",
-      "Percentage": 1,
-      "XP": 60,
-      "UsersEstimate": 48
+      "Time": "2023-04-10T05:58:30.4819535+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH28",
-      "SetID": "552d41m",
-      "Name": "Is That All You\u0027ve Got?",
-      "Percentage": 0.7,
-      "XP": 50,
-      "UsersEstimate": 34
+      "Time": "2023-04-11T01:55:56.5001429+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH29",
-      "SetID": "552d41m",
-      "Name": "King of Liberty City",
-      "Percentage": 0.5,
-      "XP": 50,
-      "UsersEstimate": 24
+      "Time": "2023-04-13T16:58:14.9657567+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T16:58:11.9802402+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T16:57:56.3435766+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T16:57:58.4078891+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-18T16:58:31.4112238+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-19T20:04:36.1046565+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T05:58:30.1577581+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T05:58:05.1535512+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-25T01:58:24.1832398+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-28T04:57:27.1405189+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-01T08:57:24.4061978+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-02T08:57:42.669106+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 4816,
+  "EOS_Completed": 25,
+  "EOS_NewPlayers": 74,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -698,216 +681,242 @@
       "NumCompleted": 25
     }
   ],
-  "RatingHistory": [
+  "TotalAchievements": 29,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
     {
-      "Time": "2023-02-24T19:57:59.6714906+00:00",
-      "Rating": 4
+      "ID": "ACH01",
+      "SetID": "552d41m",
+      "Name": "First Day on the Job",
+      "Percentage": 83,
+      "XP": 15,
+      "UsersEstimate": 3997
     },
     {
-      "Time": "2023-02-25T19:58:00.1785007+00:00",
-      "Rating": 3.89
+      "ID": "ACH02",
+      "SetID": "552d41m",
+      "Name": "Without a Scratch",
+      "Percentage": 32,
+      "XP": 40,
+      "UsersEstimate": 1541
     },
     {
-      "Time": "2023-02-26T21:57:57.1535518+00:00",
-      "Rating": 3.86
+      "ID": "ACH03",
+      "SetID": "552d41m",
+      "Name": "Escape Artist",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 48
     },
     {
-      "Time": "2023-02-27T21:57:59.2235157+00:00",
-      "Rating": 3.97
+      "ID": "ACH04",
+      "SetID": "552d41m",
+      "Name": "Disposing of the Evidence",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 1734
     },
     {
-      "Time": "2023-03-01T10:58:25.9216028+00:00",
-      "Rating": 4
+      "ID": "ACH05",
+      "SetID": "552d41m",
+      "Name": "Mob Boss",
+      "Percentage": 2,
+      "XP": 45,
+      "UsersEstimate": 96
     },
     {
-      "Time": "2023-03-01T23:58:48.5774856+00:00",
-      "Rating": 4.12
+      "ID": "ACH06",
+      "SetID": "552d41m",
+      "Name": "Street Sweeper",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 819
     },
     {
-      "Time": "2023-03-03T02:22:07.8631032+00:00",
-      "Rating": 4.11
+      "ID": "ACH07",
+      "SetID": "552d41m",
+      "Name": "Planned Ahead",
+      "Percentage": 0.9,
+      "XP": 40,
+      "UsersEstimate": 43
     },
     {
-      "Time": "2023-03-04T02:11:44.4544689+00:00",
-      "Rating": 4.15
+      "ID": "ACH08",
+      "SetID": "552d41m",
+      "Name": "Got This Figured Out",
+      "Percentage": 1,
+      "XP": 45,
+      "UsersEstimate": 48
     },
     {
-      "Time": "2023-03-06T22:58:11.3772847+00:00",
-      "Rating": 4.16
+      "ID": "ACH09",
+      "SetID": "552d41m",
+      "Name": "By a Mile",
+      "Percentage": 9,
+      "XP": 30,
+      "UsersEstimate": 433
     },
     {
-      "Time": "2023-03-08T23:58:19.9359963+00:00",
-      "Rating": 4.12
+      "ID": "ACH10",
+      "SetID": "552d41m",
+      "Name": "Wreckless Driving",
+      "Percentage": 27,
+      "XP": 25,
+      "UsersEstimate": 1300
     },
     {
-      "Time": "2023-03-11T22:58:44.7427181+00:00",
-      "Rating": 4.13
+      "ID": "ACH11",
+      "SetID": "552d41m",
+      "Name": "Wheels Up",
+      "Percentage": 0.9,
+      "XP": 50,
+      "UsersEstimate": 43
     },
     {
-      "Time": "2023-03-13T10:58:28.2937653+00:00",
-      "Rating": 4.15
+      "ID": "ACH12",
+      "SetID": "552d41m",
+      "Name": "Come Out to Play-y-y-y",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 48
     },
     {
-      "Time": "2023-03-14T09:58:44.2745746+00:00",
-      "Rating": 4.13
+      "ID": "ACH13",
+      "SetID": "552d41m",
+      "Name": "Where To?",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 48
     },
     {
-      "Time": "2023-03-16T09:58:05.0567483+00:00",
-      "Rating": 4.09
+      "ID": "ACH14",
+      "SetID": "552d41m",
+      "Name": "Liberty City Minute",
+      "Percentage": 16,
+      "XP": 50,
+      "UsersEstimate": 771
     },
     {
-      "Time": "2023-03-17T09:57:58.6926371+00:00",
-      "Rating": 4.12
+      "ID": "ACH15",
+      "SetID": "552d41m",
+      "Name": "Full Artillery",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 193
     },
     {
-      "Time": "2023-03-19T09:58:05.6041369+00:00",
-      "Rating": 4.13
+      "ID": "ACH16",
+      "SetID": "552d41m",
+      "Name": "A Marked Man",
+      "Percentage": 24,
+      "XP": 25,
+      "UsersEstimate": 1156
     },
     {
-      "Time": "2023-03-19T23:58:36.6920517+00:00",
-      "Rating": 4.11
+      "ID": "ACH17",
+      "SetID": "552d41m",
+      "Name": "Offshore Delivery",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 578
     },
     {
-      "Time": "2023-03-22T04:58:19.5898021+00:00",
-      "Rating": 4.12
+      "ID": "ACH18",
+      "SetID": "552d41m",
+      "Name": "Not So Fast",
+      "Percentage": 8,
+      "XP": 25,
+      "UsersEstimate": 385
     },
     {
-      "Time": "2023-03-23T04:58:30.3739347+00:00",
-      "Rating": 4.13
+      "ID": "ACH19",
+      "SetID": "552d41m",
+      "Name": "A Gift from the King",
+      "Percentage": 6,
+      "XP": 25,
+      "UsersEstimate": 289
     },
     {
-      "Time": "2023-03-26T10:57:58.2289865+00:00",
-      "Rating": 4.16
+      "ID": "ACH20",
+      "SetID": "552d41m",
+      "Name": "Man Toyz",
+      "Percentage": 0.9,
+      "XP": 30,
+      "UsersEstimate": 43
     },
     {
-      "Time": "2023-03-29T10:58:33.388093+00:00",
-      "Rating": 4.17
+      "ID": "ACH21",
+      "SetID": "552d41m",
+      "Name": "Splish Splash",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 96
     },
     {
-      "Time": "2023-03-31T05:58:23.8387647+00:00",
-      "Rating": 4.17,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH22",
+      "SetID": "552d41m",
+      "Name": "Playing Doctor",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 48
     },
     {
-      "Time": "2023-04-04T10:58:49.1147423+00:00",
-      "Rating": 4.15,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH23",
+      "SetID": "552d41m",
+      "Name": "Going Rogue",
+      "Percentage": 0.9,
+      "XP": 30,
+      "UsersEstimate": 43
     },
     {
-      "Time": "2023-04-06T10:58:25.8460863+00:00",
-      "Rating": 4.16,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH24",
+      "SetID": "552d41m",
+      "Name": "Dirty Money",
+      "Percentage": 11,
+      "XP": 30,
+      "UsersEstimate": 530
     },
     {
-      "Time": "2023-04-08T05:58:44.0793151+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH25",
+      "SetID": "552d41m",
+      "Name": "Right-hand Man",
+      "Percentage": 9,
+      "XP": 25,
+      "UsersEstimate": 433
     },
     {
-      "Time": "2023-04-09T05:58:22.0673617+00:00",
-      "Rating": 4.2,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH26",
+      "SetID": "552d41m",
+      "Name": "Furious First Responder",
+      "Percentage": 0.8,
+      "XP": 55,
+      "UsersEstimate": 39
     },
     {
-      "Time": "2023-04-10T05:58:30.4819535+00:00",
-      "Rating": 4.18,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH27",
+      "SetID": "552d41m",
+      "Name": "Liberty City Secrets",
+      "Percentage": 1,
+      "XP": 60,
+      "UsersEstimate": 48
     },
     {
-      "Time": "2023-04-11T01:55:56.5001429+00:00",
-      "Rating": 4.16,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH28",
+      "SetID": "552d41m",
+      "Name": "Is That All You\u0027ve Got?",
+      "Percentage": 0.7,
+      "XP": 50,
+      "UsersEstimate": 34
     },
     {
-      "Time": "2023-04-13T16:58:14.9657567+00:00",
-      "Rating": 4.13,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T16:58:11.9802402+00:00",
-      "Rating": 4.11,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-16T16:57:56.3435766+00:00",
-      "Rating": 4.13,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T16:57:58.4078891+00:00",
-      "Rating": 4.14,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-18T16:58:31.4112238+00:00",
-      "Rating": 4.11,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T20:04:36.1046565+00:00",
-      "Rating": 4.1,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-22T05:58:30.1577581+00:00",
-      "Rating": 4.11,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-23T05:58:05.1535512+00:00",
-      "Rating": 4.14,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-25T01:58:24.1832398+00:00",
-      "Rating": 4.15,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-28T04:57:27.1405189+00:00",
-      "Rating": 4.14,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-01T08:57:24.4061978+00:00",
-      "Rating": 4.15,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-02T08:57:42.669106+00:00",
-      "Rating": 4.16,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ACH29",
+      "SetID": "552d41m",
+      "Name": "King of Liberty City",
+      "Percentage": 0.5,
+      "XP": 50,
+      "UsersEstimate": 24
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 29,
-  "LastChanged_Achievements": "2023-05-05T16:07:25.6599071+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 74,
-  "EOS_Completed": 25,
-  "EOS_Progressed": 4816,
-  "LastUpdate_Achievements": "2023-05-05T16:07:25.6599306+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:43.4774943+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:23.7737861+00:00",
   "AchievementSets": [
     {
       "ID": "552d41m",
@@ -916,20 +925,12 @@
       "Completed": 25
     }
   ],
-  "EOS_Completed_Percentage": 0.52,
-  "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
-  "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Rating": 4.16,
-  "Ranking_Rating": 832,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 122,
-  "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
-  "Ranking_EOS_NewPlayers": 123
+  "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
+  "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:15.1054813+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:18.2057041+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:15.1055047+00:00"
 }

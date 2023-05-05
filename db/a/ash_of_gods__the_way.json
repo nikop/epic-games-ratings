@@ -1,6 +1,37 @@
 {
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
+  "ProductSlug": "ash-of-gods-the-way-58bd36",
+  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-28T08:58:19.1643053+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 1,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-27T12:00:12.8859699+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 49,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "collect1",
@@ -395,32 +426,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-27T12:00:12.8859699+00:00",
-      "NumProgressed": 1,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-28T08:58:19.1643053+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T16:07:24.1408207+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T16:07:24.1408539+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:12.1493464+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:42.3593888+00:00",
   "AchievementSets": [
     {
       "ID": "c64if4d",
@@ -429,16 +434,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
-  "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 356,
-  "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-28T08:58:19.1642953+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
+  "LastChanged": "2023-04-28T08:58:19.164305+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:13.8801327+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:35.3168691+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:37.6738385+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:13.8801717+00:00"
 }

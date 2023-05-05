@@ -1,628 +1,16 @@
 {
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
-  "Achievements": [
-    {
-      "ID": "ACH_BACKPACKER",
-      "SetID": "72olkc5",
-      "Name": "Backpacker",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 212
-    },
-    {
-      "ID": "ACH_BING-BONG",
-      "SetID": "72olkc5",
-      "Name": "Bing Bong!",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ACH_BOTTOM-PLY-KILLER",
-      "SetID": "72olkc5",
-      "Name": "Bottom ply killer",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_COMMENCE-THE-HIJINX",
-      "SetID": "72olkc5",
-      "Name": "Commence the Hijinx!",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_COPS-CALLED",
-      "SetID": "72olkc5",
-      "Name": "Cops called!",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 58
-    },
-    {
-      "ID": "ACH_CROSS-LOCK-COUNTRY",
-      "SetID": "72olkc5",
-      "Name": "Cross lock country",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 39
-    },
-    {
-      "ID": "ACH_DIPPED",
-      "SetID": "72olkc5",
-      "Name": "Dipped!",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 19
-    },
-    {
-      "ID": "ACH_DIY-BOSS",
-      "SetID": "72olkc5",
-      "Name": "DIY Boss",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_FASHIONISTA",
-      "SetID": "72olkc5",
-      "Name": "Fashionista",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_FINALLY-HE-SHUTS-UP",
-      "SetID": "72olkc5",
-      "Name": "Finally he zips it",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 116
-    },
-    {
-      "ID": "ACH_FULFILLED-THE-DREAM",
-      "SetID": "72olkc5",
-      "Name": "Fulfilled the dream",
-      "Percentage": 5,
-      "XP": 45,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_GDAY-MATE",
-      "SetID": "72olkc5",
-      "Name": "G\u0027Day Mate!",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_GLOBETROTTER",
-      "SetID": "72olkc5",
-      "Name": "Globetrotter",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_GO-WITH-THE-FLOW",
-      "SetID": "72olkc5",
-      "Name": "Go with the Flow",
-      "Percentage": 11,
-      "XP": 35,
-      "UsersEstimate": 212
-    },
-    {
-      "ID": "ACH_GOAT-STATUS",
-      "SetID": "72olkc5",
-      "Name": "G.O.A.T. status",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 58
-    },
-    {
-      "ID": "ACH_GOLDEN",
-      "SetID": "72olkc5",
-      "Name": "Golden!",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ACH_GOOD-VIBES",
-      "SetID": "72olkc5",
-      "Name": "Good vibes",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 135
-    },
-    {
-      "ID": "ACH_HOARDER",
-      "SetID": "72olkc5",
-      "Name": "Hoarder",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 58
-    },
-    {
-      "ID": "ACH_KEEP-THE-DREAM-ALIVE",
-      "SetID": "72olkc5",
-      "Name": "Keep the dream alive",
-      "Percentage": 8,
-      "XP": 40,
-      "UsersEstimate": 154
-    },
-    {
-      "ID": "ACH_KEEPING-IT-CLASSY",
-      "SetID": "72olkc5",
-      "Name": "Keeping it classy",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 482
-    },
-    {
-      "ID": "ACH_LAID-BACK",
-      "SetID": "72olkc5",
-      "Name": "Laid back",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_LINES-FOR-DAYS",
-      "SetID": "72olkc5",
-      "Name": "Lines for days",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_LOVES-YOU-BACK",
-      "SetID": "72olkc5",
-      "Name": "Loves You Back",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ACH_MANNY-SLAYS-ALL",
-      "SetID": "72olkc5",
-      "Name": "Manny Destroys All",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_MANY-PLYS-LATER",
-      "SetID": "72olkc5",
-      "Name": "Many plys later...",
-      "Percentage": 2,
-      "XP": 50,
-      "UsersEstimate": 39
-    },
-    {
-      "ID": "ACH_NAHELL",
-      "SetID": "72olkc5",
-      "Name": "NAHELL!",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_PEW-PEW",
-      "SetID": "72olkc5",
-      "Name": "Pew-Pew",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 39
-    },
-    {
-      "ID": "ACH_PLASTIC-SURGEON",
-      "SetID": "72olkc5",
-      "Name": "Plastic Surgeon",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 174
-    },
-    {
-      "ID": "ACH_PRINCE-OF-PHILLY",
-      "SetID": "72olkc5",
-      "Name": "Prince of Philly",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_PURPLE-PASSION",
-      "SetID": "72olkc5",
-      "Name": "Purple passion",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_RENAISSANCE-MAN",
-      "SetID": "72olkc5",
-      "Name": "Renaissance man",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_SKATEPARK-HERO",
-      "SetID": "72olkc5",
-      "Name": "Skatepark hero",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 14
-    },
-    {
-      "ID": "ACH_SQUAD-GOALS",
-      "SetID": "72olkc5",
-      "Name": "Squad goals",
-      "Percentage": 5,
-      "XP": 100,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_SUP-WIDDIT-BIG-DOG",
-      "SetID": "72olkc5",
-      "Name": "Sup widdit big dog!",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_TANK-COMMANDER",
-      "SetID": "72olkc5",
-      "Name": "Tank commander",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 77
-    },
-    {
-      "ID": "ACH_THAT-PINCH",
-      "SetID": "72olkc5",
-      "Name": "That pinch!",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 116
-    },
-    {
-      "ID": "ACH_THAT-WAS-WHEELIE-FUN",
-      "SetID": "72olkc5",
-      "Name": "That was wheelie fun",
-      "Percentage": 0.8,
-      "XP": 45,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "ACH_THATS-HOW-ITS-DONE",
-      "SetID": "72olkc5",
-      "Name": "That\u0027s how it\u0027s done!",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
-      "SetID": "72olkc5",
-      "Name": "The finer things in life",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 309
-    },
-    {
-      "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
-      "SetID": "72olkc5",
-      "Name": "The flip trick crown jewel",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 174
-    },
-    {
-      "ID": "ACH_THE-HARD-WAY",
-      "SetID": "72olkc5",
-      "Name": "The hard way",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 154
-    },
-    {
-      "ID": "ACH_TIGHT-LIPSLIDES",
-      "SetID": "72olkc5",
-      "Name": "Tight lipslides",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 96
-    },
-    {
-      "ID": "ACH_TRICK-SHOT-MARKSMAN",
-      "SetID": "72olkc5",
-      "Name": "Trick shot marksman",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 58
-    },
-    {
-      "ID": "ACH_ULTIMATE-SKATE-NERD",
-      "SetID": "72olkc5",
-      "Name": "Ultimate skate nerd",
-      "Percentage": 0.1,
-      "XP": 100,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "ACH_UPFRONT-SHREDDER",
-      "SetID": "72olkc5",
-      "Name": "Upfront shredder",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 135
-    },
-    {
-      "ID": "ACH_WE-GET-IT-YOURE-GOOD",
-      "SetID": "72olkc5",
-      "Name": "We get it, you\u0027re good",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 58
-    },
-    {
-      "ID": "ACH_WELCOME-TO-THE-FAMILY",
-      "SetID": "72olkc5",
-      "Name": "Welcome to the family",
-      "Percentage": 18,
-      "XP": 25,
-      "UsersEstimate": 347
-    },
-    {
-      "ID": "ACH_YOURE-FREE-NOW",
-      "SetID": "72olkc5",
-      "Name": "You\u0027re free now!",
-      "Percentage": 49,
-      "XP": 10,
-      "UsersEstimate": 946
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 48
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 37
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 40
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 38
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 34
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "This game has",
-      "Type": "Realistic Visuals",
-      "Count": 36
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 36
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 34
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 24
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 22
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:30.86373+00:00",
-      "NumProgressed": 1893,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T20:50:00.0546259+00:00",
-      "NumProgressed": 1894,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T02:08:19.0175002+00:00",
-      "NumProgressed": 1896,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T08:08:17.8843+00:00",
-      "NumProgressed": 1897,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T17:04:08.5792297+00:00",
-      "NumProgressed": 1898,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T19:04:30.9621212+00:00",
-      "NumProgressed": 1899,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T23:04:03.8082254+00:00",
-      "NumProgressed": 1900,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T10:03:37.4239371+00:00",
-      "NumProgressed": 1901,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T18:04:15.403485+00:00",
-      "NumProgressed": 1902,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T21:03:42.1654887+00:00",
-      "NumProgressed": 1903,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T23:04:02.6918414+00:00",
-      "NumProgressed": 1904,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T02:05:16.9587235+00:00",
-      "NumProgressed": 1908,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T04:04:09.9235575+00:00",
-      "NumProgressed": 1909,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T05:03:43.0198809+00:00",
-      "NumProgressed": 1910,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T02:02:32.6399886+00:00",
-      "NumProgressed": 1911,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T04:02:34.7807971+00:00",
-      "NumProgressed": 1912,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T15:01:27.4078078+00:00",
-      "NumProgressed": 1913,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T21:01:16.5037896+00:00",
-      "NumProgressed": 1914,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T23:02:13.6475242+00:00",
-      "NumProgressed": 1915,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T18:01:14.21812+00:00",
-      "NumProgressed": 1917,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T20:00:29.2952337+00:00",
-      "NumProgressed": 1918,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T21:00:48.3218155+00:00",
-      "NumProgressed": 1919,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T23:00:06.9322705+00:00",
-      "NumProgressed": 1920,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T08:01:15.0652953+00:00",
-      "NumProgressed": 1921,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T17:02:50.5090273+00:00",
-      "NumProgressed": 1922,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T18:02:21.1654194+00:00",
-      "NumProgressed": 1923,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T01:59:25.4510956+00:00",
-      "NumProgressed": 1925,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T06:03:12.1619134+00:00",
-      "NumProgressed": 1926,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T01:57:15.5827169+00:00",
-      "NumProgressed": 1927,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T15:01:37.0919986+00:00",
-      "NumProgressed": 1928,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T08:05:19.5612535+00:00",
-      "NumProgressed": 1929,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T13:41:19.3106607+00:00",
-      "NumProgressed": 1930,
-      "NumCompleted": 0
-    }
-  ],
+  "ProductSlug": "session-skate-sim",
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 298,
+  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.66,
+  "NumberOfRatings": 111,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.6746018+00:00",
@@ -1120,16 +508,639 @@
       "NumberOfAwardsMax": 48
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T16:07:19.548246+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 19,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 403,
+  "NumberOfAwardsMax": 48,
+  "MaxAwardTitle": "Highly Recommended",
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 48
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 37
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 40
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 38
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 34
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 34
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
+      "Count": 22
+    }
+  ],
   "EOS_Progressed": 1930,
-  "LastUpdate_Achievements": "2023-05-05T16:07:19.5482847+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:09.1137401+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:21.3795024+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 19,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:30.86373+00:00",
+      "NumProgressed": 1893,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T20:50:00.0546259+00:00",
+      "NumProgressed": 1894,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T02:08:19.0175002+00:00",
+      "NumProgressed": 1896,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T08:08:17.8843+00:00",
+      "NumProgressed": 1897,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T17:04:08.5792297+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T19:04:30.9621212+00:00",
+      "NumProgressed": 1899,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T23:04:03.8082254+00:00",
+      "NumProgressed": 1900,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T10:03:37.4239371+00:00",
+      "NumProgressed": 1901,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T18:04:15.403485+00:00",
+      "NumProgressed": 1902,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T21:03:42.1654887+00:00",
+      "NumProgressed": 1903,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T23:04:02.6918414+00:00",
+      "NumProgressed": 1904,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T02:05:16.9587235+00:00",
+      "NumProgressed": 1908,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T04:04:09.9235575+00:00",
+      "NumProgressed": 1909,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T05:03:43.0198809+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T02:02:32.6399886+00:00",
+      "NumProgressed": 1911,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T04:02:34.7807971+00:00",
+      "NumProgressed": 1912,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T15:01:27.4078078+00:00",
+      "NumProgressed": 1913,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T21:01:16.5037896+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T23:02:13.6475242+00:00",
+      "NumProgressed": 1915,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T18:01:14.21812+00:00",
+      "NumProgressed": 1917,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T20:00:29.2952337+00:00",
+      "NumProgressed": 1918,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T21:00:48.3218155+00:00",
+      "NumProgressed": 1919,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T23:00:06.9322705+00:00",
+      "NumProgressed": 1920,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T08:01:15.0652953+00:00",
+      "NumProgressed": 1921,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T17:02:50.5090273+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T18:02:21.1654194+00:00",
+      "NumProgressed": 1923,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T01:59:25.4510956+00:00",
+      "NumProgressed": 1925,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T06:03:12.1619134+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T01:57:15.5827169+00:00",
+      "NumProgressed": 1927,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T15:01:37.0919986+00:00",
+      "NumProgressed": 1928,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T08:05:19.5612535+00:00",
+      "NumProgressed": 1929,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T13:41:19.3106607+00:00",
+      "NumProgressed": 1930,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 48,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BACKPACKER",
+      "SetID": "72olkc5",
+      "Name": "Backpacker",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 212
+    },
+    {
+      "ID": "ACH_BING-BONG",
+      "SetID": "72olkc5",
+      "Name": "Bing Bong!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BOTTOM-PLY-KILLER",
+      "SetID": "72olkc5",
+      "Name": "Bottom ply killer",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_COMMENCE-THE-HIJINX",
+      "SetID": "72olkc5",
+      "Name": "Commence the Hijinx!",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_COPS-CALLED",
+      "SetID": "72olkc5",
+      "Name": "Cops called!",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 58
+    },
+    {
+      "ID": "ACH_CROSS-LOCK-COUNTRY",
+      "SetID": "72olkc5",
+      "Name": "Cross lock country",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "ACH_DIPPED",
+      "SetID": "72olkc5",
+      "Name": "Dipped!",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "ACH_DIY-BOSS",
+      "SetID": "72olkc5",
+      "Name": "DIY Boss",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_FASHIONISTA",
+      "SetID": "72olkc5",
+      "Name": "Fashionista",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_FINALLY-HE-SHUTS-UP",
+      "SetID": "72olkc5",
+      "Name": "Finally he zips it",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 116
+    },
+    {
+      "ID": "ACH_FULFILLED-THE-DREAM",
+      "SetID": "72olkc5",
+      "Name": "Fulfilled the dream",
+      "Percentage": 5,
+      "XP": 45,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_GDAY-MATE",
+      "SetID": "72olkc5",
+      "Name": "G\u0027Day Mate!",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_GLOBETROTTER",
+      "SetID": "72olkc5",
+      "Name": "Globetrotter",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_GO-WITH-THE-FLOW",
+      "SetID": "72olkc5",
+      "Name": "Go with the Flow",
+      "Percentage": 11,
+      "XP": 35,
+      "UsersEstimate": 212
+    },
+    {
+      "ID": "ACH_GOAT-STATUS",
+      "SetID": "72olkc5",
+      "Name": "G.O.A.T. status",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 58
+    },
+    {
+      "ID": "ACH_GOLDEN",
+      "SetID": "72olkc5",
+      "Name": "Golden!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GOOD-VIBES",
+      "SetID": "72olkc5",
+      "Name": "Good vibes",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 135
+    },
+    {
+      "ID": "ACH_HOARDER",
+      "SetID": "72olkc5",
+      "Name": "Hoarder",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 58
+    },
+    {
+      "ID": "ACH_KEEP-THE-DREAM-ALIVE",
+      "SetID": "72olkc5",
+      "Name": "Keep the dream alive",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 154
+    },
+    {
+      "ID": "ACH_KEEPING-IT-CLASSY",
+      "SetID": "72olkc5",
+      "Name": "Keeping it classy",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 482
+    },
+    {
+      "ID": "ACH_LAID-BACK",
+      "SetID": "72olkc5",
+      "Name": "Laid back",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_LINES-FOR-DAYS",
+      "SetID": "72olkc5",
+      "Name": "Lines for days",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_LOVES-YOU-BACK",
+      "SetID": "72olkc5",
+      "Name": "Loves You Back",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MANNY-SLAYS-ALL",
+      "SetID": "72olkc5",
+      "Name": "Manny Destroys All",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_MANY-PLYS-LATER",
+      "SetID": "72olkc5",
+      "Name": "Many plys later...",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "ACH_NAHELL",
+      "SetID": "72olkc5",
+      "Name": "NAHELL!",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_PEW-PEW",
+      "SetID": "72olkc5",
+      "Name": "Pew-Pew",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "ACH_PLASTIC-SURGEON",
+      "SetID": "72olkc5",
+      "Name": "Plastic Surgeon",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 174
+    },
+    {
+      "ID": "ACH_PRINCE-OF-PHILLY",
+      "SetID": "72olkc5",
+      "Name": "Prince of Philly",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_PURPLE-PASSION",
+      "SetID": "72olkc5",
+      "Name": "Purple passion",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_RENAISSANCE-MAN",
+      "SetID": "72olkc5",
+      "Name": "Renaissance man",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_SKATEPARK-HERO",
+      "SetID": "72olkc5",
+      "Name": "Skatepark hero",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "ACH_SQUAD-GOALS",
+      "SetID": "72olkc5",
+      "Name": "Squad goals",
+      "Percentage": 5,
+      "XP": 100,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_SUP-WIDDIT-BIG-DOG",
+      "SetID": "72olkc5",
+      "Name": "Sup widdit big dog!",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_TANK-COMMANDER",
+      "SetID": "72olkc5",
+      "Name": "Tank commander",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 77
+    },
+    {
+      "ID": "ACH_THAT-PINCH",
+      "SetID": "72olkc5",
+      "Name": "That pinch!",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 116
+    },
+    {
+      "ID": "ACH_THAT-WAS-WHEELIE-FUN",
+      "SetID": "72olkc5",
+      "Name": "That was wheelie fun",
+      "Percentage": 0.8,
+      "XP": 45,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACH_THATS-HOW-ITS-DONE",
+      "SetID": "72olkc5",
+      "Name": "That\u0027s how it\u0027s done!",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
+      "SetID": "72olkc5",
+      "Name": "The finer things in life",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
+      "SetID": "72olkc5",
+      "Name": "The flip trick crown jewel",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 174
+    },
+    {
+      "ID": "ACH_THE-HARD-WAY",
+      "SetID": "72olkc5",
+      "Name": "The hard way",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 154
+    },
+    {
+      "ID": "ACH_TIGHT-LIPSLIDES",
+      "SetID": "72olkc5",
+      "Name": "Tight lipslides",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "ACH_TRICK-SHOT-MARKSMAN",
+      "SetID": "72olkc5",
+      "Name": "Trick shot marksman",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 58
+    },
+    {
+      "ID": "ACH_ULTIMATE-SKATE-NERD",
+      "SetID": "72olkc5",
+      "Name": "Ultimate skate nerd",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_UPFRONT-SHREDDER",
+      "SetID": "72olkc5",
+      "Name": "Upfront shredder",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 135
+    },
+    {
+      "ID": "ACH_WE-GET-IT-YOURE-GOOD",
+      "SetID": "72olkc5",
+      "Name": "We get it, you\u0027re good",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 58
+    },
+    {
+      "ID": "ACH_WELCOME-TO-THE-FAMILY",
+      "SetID": "72olkc5",
+      "Name": "Welcome to the family",
+      "Percentage": 18,
+      "XP": 25,
+      "UsersEstimate": 347
+    },
+    {
+      "ID": "ACH_YOURE-FREE-NOW",
+      "SetID": "72olkc5",
+      "Name": "You\u0027re free now!",
+      "Percentage": 49,
+      "XP": 10,
+      "UsersEstimate": 946
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
@@ -1138,21 +1149,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T16:59:05.2986234+00:00",
-  "ProductSlug": "session-skate-sim",
-  "Rating": 4.66,
-  "Ranking_Rating": 272,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 298,
-  "Ranking_EOS_Progress": 141,
-  "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 111,
-  "NumberOfAwards": 403,
-  "NumberOfAwardsMax": 48,
-  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
-  "Ranking_EOS_NewPlayers": 155
+  "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
+  "LastChanged": "2023-05-04T16:59:05.2986234+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:10.6354084+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:15.9414707+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:10.6354495+00:00"
 }

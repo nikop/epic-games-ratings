@@ -1,169 +1,370 @@
 {
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
-  "Achievements": [
+  "ProductSlug": "aer-memories-of-old",
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 108,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 14,
+  "Rating": 4.45,
+  "NumberOfRatings": 170,
+  "RatingHistory": [
     {
-      "ID": "COMPLETED_MAP",
-      "SetID": "b6m2mm5",
-      "Name": "Cartographer",
-      "Percentage": 18,
-      "XP": 50,
-      "UsersEstimate": 1541
+      "Time": "2022-07-22T20:31:57.2410234+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": 85
     },
     {
-      "ID": "DOWN_THE_WELL",
-      "SetID": "b6m2mm5",
-      "Name": "Ripples on the surface",
-      "Percentage": 6,
-      "XP": 50,
-      "UsersEstimate": 514
+      "Time": "2022-07-24T08:02:06.8432063+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": 88
     },
     {
-      "ID": "EAST_FINISHED",
-      "SetID": "b6m2mm5",
-      "Name": "Knowledge for Power",
-      "Percentage": 15,
-      "XP": 50,
-      "UsersEstimate": 1284
+      "Time": "2022-07-24T16:03:02.5704456+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 89
     },
     {
-      "ID": "FOUND_BATTLEFIELD",
-      "SetID": "b6m2mm5",
-      "Name": "Memorial",
-      "Percentage": 9,
-      "XP": 50,
-      "UsersEstimate": 770
+      "Time": "2022-07-26T16:02:55.4668926+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 90
     },
     {
-      "ID": "FOUND_BIG_SKELETON",
-      "SetID": "b6m2mm5",
-      "Name": "In the belly of the beast",
-      "Percentage": 12,
-      "XP": 50,
-      "UsersEstimate": 1027
+      "Time": "2022-07-27T16:02:29.3572732+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 91
     },
     {
-      "ID": "FOUND_BIRDSHRINE",
-      "SetID": "b6m2mm5",
-      "Name": "Condor condo",
-      "Percentage": 11,
-      "XP": 50,
-      "UsersEstimate": 941
+      "Time": "2022-07-28T16:02:28.9767572+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 94
     },
     {
-      "ID": "FOUND_CRAB_ISLAND",
-      "SetID": "b6m2mm5",
-      "Name": "An uninvited guest",
-      "Percentage": 8,
-      "XP": 50,
-      "UsersEstimate": 685
+      "Time": "2022-07-30T19:32:36.3523447+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 96
     },
     {
-      "ID": "FOUND_CRANE_STATUE",
-      "SetID": "b6m2mm5",
-      "Name": "Wings of Stone",
-      "Percentage": 12,
-      "XP": 50,
-      "UsersEstimate": 1027
+      "Time": "2022-07-31T19:32:05.7226954+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 97
     },
     {
-      "ID": "FOUND_DEER_STATUE",
-      "SetID": "b6m2mm5",
-      "Name": "Antlers of Stone",
-      "Percentage": 16,
-      "XP": 50,
-      "UsersEstimate": 1369
+      "Time": "2022-08-01T19:32:09.3156213+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 99
     },
     {
-      "ID": "FOUND_ERIN",
-      "SetID": "b6m2mm5",
-      "Name": "Hide and Seek",
-      "Percentage": 5,
-      "XP": 50,
-      "UsersEstimate": 428
+      "Time": "2022-08-03T19:32:28.2611862+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 101
     },
     {
-      "ID": "FOUND_FOX_STATUE",
-      "SetID": "b6m2mm5",
-      "Name": "Tails of Stone",
-      "Percentage": 7,
-      "XP": 50,
-      "UsersEstimate": 599
+      "Time": "2022-08-04T19:32:38.8253816+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 102
     },
     {
-      "ID": "FOUND_MAMBA",
-      "SetID": "b6m2mm5",
-      "Name": "Baa from the past",
-      "Percentage": 7,
-      "XP": 50,
-      "UsersEstimate": 599
+      "Time": "2022-08-06T19:32:09.2758179+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 103
     },
     {
-      "ID": "FOUND_RIFT_CAVE",
-      "SetID": "b6m2mm5",
-      "Name": "Gaze into the abyss",
-      "Percentage": 14,
-      "XP": 50,
-      "UsersEstimate": 1198
+      "Time": "2022-08-07T19:32:16.3761405+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 109
     },
     {
-      "ID": "FOUND_STONE_MAP",
-      "SetID": "b6m2mm5",
-      "Name": "Written in stone",
-      "Percentage": 7,
-      "XP": 50,
-      "UsersEstimate": 599
+      "Time": "2022-08-09T19:32:50.297311+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 112
     },
     {
-      "ID": "GAME_FINISHED",
-      "SetID": "b6m2mm5",
-      "Name": "Equilibrium",
-      "Percentage": 13,
-      "XP": 50,
-      "UsersEstimate": 1113
+      "Time": "2022-08-10T19:32:45.335643+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 114
     },
     {
-      "ID": "INTRO_FINISHED",
-      "SetID": "b6m2mm5",
-      "Name": "Light at the end of the tunnel",
-      "Percentage": 76,
-      "XP": 50,
-      "UsersEstimate": 6505
+      "Time": "2022-08-11T19:32:25.3986161+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": 116
     },
     {
-      "ID": "LAMBABY_LOVE",
-      "SetID": "b6m2mm5",
-      "Name": "Mama?",
-      "Percentage": 28,
-      "XP": 50,
-      "UsersEstimate": 2397
+      "Time": "2022-08-14T14:32:15.2805073+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 118
     },
     {
-      "ID": "NORTH_FINISHED",
-      "SetID": "b6m2mm5",
-      "Name": "Mausoleum of Ice",
-      "Percentage": 14,
-      "XP": 50,
-      "UsersEstimate": 1198
+      "Time": "2022-08-15T14:32:57.8159119+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 119
     },
     {
-      "ID": "TALK_TO_SPIRIT_ANIMALS",
-      "SetID": "b6m2mm5",
-      "Name": "Talk to all the spirit animals",
-      "Percentage": 7,
-      "XP": 50,
-      "UsersEstimate": 599
+      "Time": "2022-08-16T14:34:18.0357693+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 121
     },
     {
-      "ID": "WEST_FINISHED",
-      "SetID": "b6m2mm5",
-      "Name": "People\u0027s Haven",
-      "Percentage": 19,
-      "XP": 50,
-      "UsersEstimate": 1626
+      "Time": "2022-08-18T14:32:59.4803949+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 123
+    },
+    {
+      "Time": "2022-08-19T14:32:52.486259+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 125
+    },
+    {
+      "Time": "2022-08-20T14:32:11.3199679+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 127
+    },
+    {
+      "Time": "2022-08-21T14:32:11.9780976+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 133
+    },
+    {
+      "Time": "2022-08-22T14:32:17.1062716+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 135
+    },
+    {
+      "Time": "2022-08-23T14:32:42.5287824+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 136
+    },
+    {
+      "Time": "2022-08-24T15:02:17.0635875+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 137
+    },
+    {
+      "Time": "2022-08-25T13:32:11.9796012+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 138
+    },
+    {
+      "Time": "2022-08-26T13:32:22.1237602+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 140
+    },
+    {
+      "Time": "2022-08-28T13:32:27.9824496+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 143
+    },
+    {
+      "Time": "2022-08-29T19:03:23.2096666+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 144
+    },
+    {
+      "Time": "2022-08-30T22:04:24.1621602+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 147
+    },
+    {
+      "Time": "2022-08-31T22:02:09.0469348+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 148
+    },
+    {
+      "Time": "2022-09-01T22:02:57.1378675+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 150
+    },
+    {
+      "Time": "2022-09-02T22:02:46.0552155+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 151
+    },
+    {
+      "Time": "2022-09-04T22:32:19.1349093+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 152
+    },
+    {
+      "Time": "2022-09-05T22:32:06.7589954+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 155
+    },
+    {
+      "Time": "2022-09-07T22:33:30.6448786+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 156
+    },
+    {
+      "Time": "2022-09-08T07:32:26.4245156+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 157
+    },
+    {
+      "Time": "2022-09-08T08:02:25.4898515+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 156
+    },
+    {
+      "Time": "2022-09-08T22:32:54.6970446+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 158
+    },
+    {
+      "Time": "2022-09-11T22:33:10.5946856+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 159
+    },
+    {
+      "Time": "2022-09-12T23:02:23.5672163+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 160
+    },
+    {
+      "Time": "2022-09-15T23:03:14.3763322+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 161
+    },
+    {
+      "Time": "2022-09-16T23:02:14.1793738+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": 163
+    },
+    {
+      "Time": "2022-09-17T23:02:15.8343358+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 167
+    },
+    {
+      "Time": "2022-09-18T23:02:17.0892516+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 169
+    },
+    {
+      "Time": "2022-09-20T23:03:39.804806+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": 170
+    },
+    {
+      "Time": "2022-09-24T13:07:50.2155361+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-09-24T23:32:21.9980466+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-09-26T23:32:30.7514599+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-10-02T17:02:40.8884271+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-10-04T17:02:33.5273212+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-10-06T17:32:57.8103817+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-10-27T05:32:36.46669+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-10-31T05:32:35.6008417+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-11-01T17:33:04.8690943+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-06T17:58:26.7329424+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-14T18:01:19.6624107+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-16T18:58:38.3873215+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-17T18:57:57.0544192+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-18T18:57:56.6641894+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-11-24T05:58:49.5996378+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-11-26T05:58:44.8496353+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-04T06:58:02.0605473+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-12-10T06:58:02.0033429+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-22T06:58:04.3085658+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-01-21T08:58:12.7331339+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2023-02-21T09:58:47.396873+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-03-31T05:58:38.8099647+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T11:58:41.7500768+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-06T11:58:32.70163+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-04T21:00:08.7329243+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 8564,
+  "EOS_Completed": 196,
+  "EOS_NewPlayers": 611,
+  "EOS_NewCompleters": 16,
+  "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -1304,385 +1505,190 @@
       "Time": "2023-05-05T16:08:13.2410669+00:00",
       "NumProgressed": 8559,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-05-05T17:09:50.162284+00:00",
+      "NumProgressed": 8564,
+      "NumCompleted": 196
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:31:57.2410234+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": 85
-    },
-    {
-      "Time": "2022-07-24T08:02:06.8432063+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": 88
-    },
-    {
-      "Time": "2022-07-24T16:03:02.5704456+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 89
-    },
-    {
-      "Time": "2022-07-26T16:02:55.4668926+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 90
-    },
-    {
-      "Time": "2022-07-27T16:02:29.3572732+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 91
-    },
-    {
-      "Time": "2022-07-28T16:02:28.9767572+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 94
-    },
-    {
-      "Time": "2022-07-30T19:32:36.3523447+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 96
-    },
-    {
-      "Time": "2022-07-31T19:32:05.7226954+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 97
-    },
-    {
-      "Time": "2022-08-01T19:32:09.3156213+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 99
-    },
-    {
-      "Time": "2022-08-03T19:32:28.2611862+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 101
-    },
-    {
-      "Time": "2022-08-04T19:32:38.8253816+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 102
-    },
-    {
-      "Time": "2022-08-06T19:32:09.2758179+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 103
-    },
-    {
-      "Time": "2022-08-07T19:32:16.3761405+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 109
-    },
-    {
-      "Time": "2022-08-09T19:32:50.297311+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 112
-    },
-    {
-      "Time": "2022-08-10T19:32:45.335643+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 114
-    },
-    {
-      "Time": "2022-08-11T19:32:25.3986161+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": 116
-    },
-    {
-      "Time": "2022-08-14T14:32:15.2805073+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 118
-    },
-    {
-      "Time": "2022-08-15T14:32:57.8159119+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 119
-    },
-    {
-      "Time": "2022-08-16T14:34:18.0357693+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 121
-    },
-    {
-      "Time": "2022-08-18T14:32:59.4803949+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 123
-    },
-    {
-      "Time": "2022-08-19T14:32:52.486259+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 125
-    },
-    {
-      "Time": "2022-08-20T14:32:11.3199679+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 127
-    },
-    {
-      "Time": "2022-08-21T14:32:11.9780976+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 133
-    },
-    {
-      "Time": "2022-08-22T14:32:17.1062716+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 135
-    },
-    {
-      "Time": "2022-08-23T14:32:42.5287824+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 136
-    },
-    {
-      "Time": "2022-08-24T15:02:17.0635875+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 137
-    },
-    {
-      "Time": "2022-08-25T13:32:11.9796012+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 138
-    },
-    {
-      "Time": "2022-08-26T13:32:22.1237602+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 140
-    },
-    {
-      "Time": "2022-08-28T13:32:27.9824496+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 143
-    },
-    {
-      "Time": "2022-08-29T19:03:23.2096666+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 144
-    },
-    {
-      "Time": "2022-08-30T22:04:24.1621602+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 147
-    },
-    {
-      "Time": "2022-08-31T22:02:09.0469348+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 148
-    },
-    {
-      "Time": "2022-09-01T22:02:57.1378675+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 150
-    },
-    {
-      "Time": "2022-09-02T22:02:46.0552155+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 151
-    },
-    {
-      "Time": "2022-09-04T22:32:19.1349093+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 152
-    },
-    {
-      "Time": "2022-09-05T22:32:06.7589954+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 155
-    },
-    {
-      "Time": "2022-09-07T22:33:30.6448786+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 156
-    },
-    {
-      "Time": "2022-09-08T07:32:26.4245156+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 157
-    },
-    {
-      "Time": "2022-09-08T08:02:25.4898515+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 156
-    },
-    {
-      "Time": "2022-09-08T22:32:54.6970446+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 158
-    },
-    {
-      "Time": "2022-09-11T22:33:10.5946856+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 159
-    },
-    {
-      "Time": "2022-09-12T23:02:23.5672163+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 160
-    },
-    {
-      "Time": "2022-09-15T23:03:14.3763322+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 161
-    },
-    {
-      "Time": "2022-09-16T23:02:14.1793738+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": 163
-    },
-    {
-      "Time": "2022-09-17T23:02:15.8343358+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 167
-    },
-    {
-      "Time": "2022-09-18T23:02:17.0892516+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 169
-    },
-    {
-      "Time": "2022-09-20T23:03:39.804806+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": 170
-    },
-    {
-      "Time": "2022-09-24T13:07:50.2155361+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-09-24T23:32:21.9980466+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-09-26T23:32:30.7514599+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-10-02T17:02:40.8884271+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-10-04T17:02:33.5273212+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-10-06T17:32:57.8103817+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-10-27T05:32:36.46669+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-10-31T05:32:35.6008417+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-11-01T17:33:04.8690943+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-06T17:58:26.7329424+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-14T18:01:19.6624107+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-16T18:58:38.3873215+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-17T18:57:57.0544192+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-18T18:57:56.6641894+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-11-24T05:58:49.5996378+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-11-26T05:58:44.8496353+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-04T06:58:02.0605473+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-12-10T06:58:02.0033429+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-22T06:58:04.3085658+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-01-21T08:58:12.7331339+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2023-02-21T09:58:47.396873+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-03-31T05:58:38.8099647+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-01T11:58:41.7500768+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-06T11:58:32.70163+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-04T21:00:08.7329243+00:00",
-      "Rating": 4.45,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 20,
-  "LastChanged_Achievements": "2023-05-05T16:08:13.2410663+00:00",
-  "EOS_NewCompleters": 16,
-  "EOS_NewPlayers": 612,
-  "EOS_Completed": 196,
-  "EOS_Progressed": 8559,
-  "LastUpdate_Achievements": "2023-05-05T16:08:13.241089+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:30.0384924+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:16.9789399+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "COMPLETED_MAP",
+      "SetID": "b6m2mm5",
+      "Name": "Cartographer",
+      "Percentage": 18,
+      "XP": 50,
+      "UsersEstimate": 1542
+    },
+    {
+      "ID": "DOWN_THE_WELL",
+      "SetID": "b6m2mm5",
+      "Name": "Ripples on the surface",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 514
+    },
+    {
+      "ID": "EAST_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Knowledge for Power",
+      "Percentage": 15,
+      "XP": 50,
+      "UsersEstimate": 1285
+    },
+    {
+      "ID": "FOUND_BATTLEFIELD",
+      "SetID": "b6m2mm5",
+      "Name": "Memorial",
+      "Percentage": 9,
+      "XP": 50,
+      "UsersEstimate": 771
+    },
+    {
+      "ID": "FOUND_BIG_SKELETON",
+      "SetID": "b6m2mm5",
+      "Name": "In the belly of the beast",
+      "Percentage": 12,
+      "XP": 50,
+      "UsersEstimate": 1028
+    },
+    {
+      "ID": "FOUND_BIRDSHRINE",
+      "SetID": "b6m2mm5",
+      "Name": "Condor condo",
+      "Percentage": 11,
+      "XP": 50,
+      "UsersEstimate": 942
+    },
+    {
+      "ID": "FOUND_CRAB_ISLAND",
+      "SetID": "b6m2mm5",
+      "Name": "An uninvited guest",
+      "Percentage": 8,
+      "XP": 50,
+      "UsersEstimate": 685
+    },
+    {
+      "ID": "FOUND_CRANE_STATUE",
+      "SetID": "b6m2mm5",
+      "Name": "Wings of Stone",
+      "Percentage": 12,
+      "XP": 50,
+      "UsersEstimate": 1028
+    },
+    {
+      "ID": "FOUND_DEER_STATUE",
+      "SetID": "b6m2mm5",
+      "Name": "Antlers of Stone",
+      "Percentage": 16,
+      "XP": 50,
+      "UsersEstimate": 1370
+    },
+    {
+      "ID": "FOUND_ERIN",
+      "SetID": "b6m2mm5",
+      "Name": "Hide and Seek",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 428
+    },
+    {
+      "ID": "FOUND_FOX_STATUE",
+      "SetID": "b6m2mm5",
+      "Name": "Tails of Stone",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 599
+    },
+    {
+      "ID": "FOUND_MAMBA",
+      "SetID": "b6m2mm5",
+      "Name": "Baa from the past",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 599
+    },
+    {
+      "ID": "FOUND_RIFT_CAVE",
+      "SetID": "b6m2mm5",
+      "Name": "Gaze into the abyss",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 1199
+    },
+    {
+      "ID": "FOUND_STONE_MAP",
+      "SetID": "b6m2mm5",
+      "Name": "Written in stone",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 599
+    },
+    {
+      "ID": "GAME_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Equilibrium",
+      "Percentage": 13,
+      "XP": 50,
+      "UsersEstimate": 1113
+    },
+    {
+      "ID": "INTRO_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Light at the end of the tunnel",
+      "Percentage": 76,
+      "XP": 50,
+      "UsersEstimate": 6509
+    },
+    {
+      "ID": "LAMBABY_LOVE",
+      "SetID": "b6m2mm5",
+      "Name": "Mama?",
+      "Percentage": 28,
+      "XP": 50,
+      "UsersEstimate": 2398
+    },
+    {
+      "ID": "NORTH_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "Mausoleum of Ice",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 1199
+    },
+    {
+      "ID": "TALK_TO_SPIRIT_ANIMALS",
+      "SetID": "b6m2mm5",
+      "Name": "Talk to all the spirit animals",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 599
+    },
+    {
+      "ID": "WEST_FINISHED",
+      "SetID": "b6m2mm5",
+      "Name": "People\u0027s Haven",
+      "Percentage": 19,
+      "XP": 50,
+      "UsersEstimate": 1627
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8559,
+      "Progressed": 8564,
       "Completed": 196
     }
   ],
-  "EOS_Completed_Percentage": 2.29,
-  "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "ProductSlug": "aer-memories-of-old",
-  "Rating": 4.45,
-  "Ranking_Rating": 599,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 108,
-  "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
-  "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewCompleters": 14,
-  "NumberOfRatings": 170,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
-  "Ranking_EOS_NewPlayers": 72
+  "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
+  "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:50.1622835+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:08.9319694+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:50.1623062+00:00"
 }

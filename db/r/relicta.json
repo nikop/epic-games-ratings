@@ -1,22 +1,16 @@
 {
   "ID": "d79920221de24b448e24516a7810804e",
   "Name": "Relicta",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 193
-    },
-    {
-      "Text": "In this game, your choices Don\u0027t Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Don\u0027t Impact the Story",
-      "Count": 68
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "relicta",
+  "Ranking_Rating": 838,
+  "Ranking_Popularity": 259,
+  "Ranking_PopularitySum": 337,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.15,
+  "NumberOfRatings": 429,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -523,30 +517,37 @@
       "NumberOfAwardsMax": 193
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:24.6748645+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:34.8114734+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:57.9280709+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-21T21:58:25.1634046+00:00",
-  "ProductSlug": "relicta",
-  "Rating": 4.15,
-  "Ranking_Rating": 838,
-  "Ranking_Popularity": 259,
-  "Ranking_PopularitySum": 337,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 429,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 261,
   "NumberOfAwardsMax": 193,
   "MaxAwardTitle": "Challenging Puzzles",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 193
+    },
+    {
+      "Text": "In this game, your choices Don\u0027t Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Don\u0027t Impact the Story",
+      "Count": 68
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-21T21:58:25.1634046+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:51.64814+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:52.3609904+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:04:45.6144187+00:00"
 }

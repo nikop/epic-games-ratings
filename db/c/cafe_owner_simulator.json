@@ -1,6 +1,142 @@
 {
   "ID": "8f412f068bf3470699726398816663a1",
   "Name": "Cafe Owner Simulator",
+  "ProductSlug": "cafe-owner-simulator-749e0f",
+  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-13T01:55:49.9064109+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 237,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 12,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:37.5408632+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T18:02:35.943691+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T20:04:27.527129+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T22:10:07.0126038+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T00:06:46.99603+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T12:10:22.9930544+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T15:04:38.0675245+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T18:04:59.4164544+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T10:04:06.9948553+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T16:05:04.2697668+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T02:05:43.9427512+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T11:04:48.3944175+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T15:04:34.4609021+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T15:04:26.5670174+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T11:04:10.3304725+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T16:04:38.4163331+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T18:05:04.7514556+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T20:04:12.3782327+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T14:05:08.4866418+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T15:05:04.2462904+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T17:04:50.4788574+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:58:49.3964128+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ADVANCED",
@@ -115,137 +251,6 @@
       "UsersEstimate": 5
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:37.5408632+00:00",
-      "NumProgressed": 208,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T18:02:35.943691+00:00",
-      "NumProgressed": 210,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T20:04:27.527129+00:00",
-      "NumProgressed": 213,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T22:10:07.0126038+00:00",
-      "NumProgressed": 214,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T00:06:46.99603+00:00",
-      "NumProgressed": 215,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T12:10:22.9930544+00:00",
-      "NumProgressed": 217,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T15:04:38.0675245+00:00",
-      "NumProgressed": 218,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T18:04:59.4164544+00:00",
-      "NumProgressed": 219,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T10:04:06.9948553+00:00",
-      "NumProgressed": 220,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T16:05:04.2697668+00:00",
-      "NumProgressed": 221,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T02:05:43.9427512+00:00",
-      "NumProgressed": 222,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T11:04:48.3944175+00:00",
-      "NumProgressed": 223,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T15:04:34.4609021+00:00",
-      "NumProgressed": 225,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T15:04:26.5670174+00:00",
-      "NumProgressed": 226,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T11:04:10.3304725+00:00",
-      "NumProgressed": 227,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T16:04:38.4163331+00:00",
-      "NumProgressed": 229,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T18:05:04.7514556+00:00",
-      "NumProgressed": 230,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T20:04:12.3782327+00:00",
-      "NumProgressed": 231,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T14:05:08.4866418+00:00",
-      "NumProgressed": 232,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T15:05:04.2462904+00:00",
-      "NumProgressed": 233,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T17:04:50.4788574+00:00",
-      "NumProgressed": 236,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T01:58:49.3964128+00:00",
-      "NumProgressed": 237,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-13T01:55:49.9064109+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T16:07:58.3545858+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 12,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 237,
-  "LastUpdate_Achievements": "2023-05-05T16:07:58.3545998+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:37.7651838+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:41.3912182+00:00",
   "AchievementSets": [
     {
       "ID": "64e5lgf",
@@ -254,16 +259,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
-  "ProductSlug": "cafe-owner-simulator-749e0f",
-  "Ranking_EOS_Progress": 218,
-  "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-13T01:55:49.9064059+00:00",
-  "Ranking_EOS_NewPlayers": 167
+  "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
+  "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:39.3938942+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:36.5576999+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:34.0839291+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:39.3939037+00:00"
 }

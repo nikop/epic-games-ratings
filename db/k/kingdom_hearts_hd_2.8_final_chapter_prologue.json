@@ -1,22 +1,16 @@
 {
   "ID": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 99
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 45
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 321,
+  "Ranking_PopularitySum": 377,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.76,
+  "NumberOfRatings": 213,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.0851077+00:00",
@@ -490,30 +484,37 @@
       "NumberOfAwardsMax": 99
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:32.2574311+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:16.3259636+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:08.3771193+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-27T23:59:30.7181272+00:00",
-  "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-  "Rating": 4.76,
-  "Ranking_Rating": 114,
-  "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 377,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 213,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 144,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 99
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 45
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-27T23:59:30.7181272+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:05.8324166+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:00.2452865+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:38.2168348+00:00"
 }

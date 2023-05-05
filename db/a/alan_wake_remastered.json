@@ -1,544 +1,495 @@
 {
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
-  "Achievements": [
-    {
-      "ID": "01",
-      "SetID": "212770e",
-      "Name": "Follow the Light",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 8740
+  "ProductSlug": "alan-wake-remastered",
+  "Ranking_Rating": 447,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 74,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.56,
+  "NumberOfRatings": 524,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:22:49.7160328+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 260
+    },
+    {
+      "Time": "2022-07-23T11:06:50.8339216+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 264
+    },
+    {
+      "Time": "2022-07-23T18:00:59.959534+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 266
+    },
+    {
+      "Time": "2022-07-24T04:01:08.201613+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 270
+    },
+    {
+      "Time": "2022-07-25T04:01:23.0912104+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": 275
+    },
+    {
+      "Time": "2022-07-26T10:01:26.5182068+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 281
+    },
+    {
+      "Time": "2022-07-26T18:01:40.2697996+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 284
+    },
+    {
+      "Time": "2022-07-27T18:01:20.7225474+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 292
+    },
+    {
+      "Time": "2022-07-27T20:01:00.6636448+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 293
+    },
+    {
+      "Time": "2022-07-28T18:37:51.5660515+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": 302
+    },
+    {
+      "Time": "2022-07-29T02:30:52.8027585+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 304
+    },
+    {
+      "Time": "2022-07-30T02:31:15.1595407+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": 309
+    },
+    {
+      "Time": "2022-07-30T19:01:13.0706811+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 316
+    },
+    {
+      "Time": "2022-07-31T06:01:02.0161465+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 320
+    },
+    {
+      "Time": "2022-08-01T06:01:09.607916+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 323
+    },
+    {
+      "Time": "2022-08-01T22:30:58.2127123+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 324
+    },
+    {
+      "Time": "2022-08-02T22:30:59.426454+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 327
+    },
+    {
+      "Time": "2022-08-03T14:01:21.4851981+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 331
+    },
+    {
+      "Time": "2022-08-03T23:31:24.7664948+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 333
+    },
+    {
+      "Time": "2022-08-05T22:01:04.6840107+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 335
+    },
+    {
+      "Time": "2022-08-06T22:01:05.0072972+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 342
+    },
+    {
+      "Time": "2022-08-07T17:31:03.8447504+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 344
+    },
+    {
+      "Time": "2022-08-08T17:32:52.6123625+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 352
+    },
+    {
+      "Time": "2022-08-09T01:30:57.8552434+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 355
+    },
+    {
+      "Time": "2022-08-10T01:31:02.5241891+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 361
+    },
+    {
+      "Time": "2022-08-10T12:01:52.6411815+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 362
+    },
+    {
+      "Time": "2022-08-11T17:31:08.2436964+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 365
+    },
+    {
+      "Time": "2022-08-13T00:02:03.8082504+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 369
+    },
+    {
+      "Time": "2022-08-13T15:01:29.1160933+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 372
+    },
+    {
+      "Time": "2022-08-14T13:31:07.4642182+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 376
+    },
+    {
+      "Time": "2022-08-14T22:01:03.1620489+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": 378
+    },
+    {
+      "Time": "2022-08-16T10:31:14.8261628+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 381
+    },
+    {
+      "Time": "2022-08-17T01:01:20.0930558+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 382
+    },
+    {
+      "Time": "2022-08-18T01:01:20.4276028+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 383
+    },
+    {
+      "Time": "2022-08-18T22:31:08.9136227+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 388
+    },
+    {
+      "Time": "2022-08-19T22:31:39.7632465+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 390
+    },
+    {
+      "Time": "2022-08-20T22:31:05.0001273+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 392
+    },
+    {
+      "Time": "2022-08-22T09:31:08.6137358+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 394
+    },
+    {
+      "Time": "2022-08-23T09:31:23.4957094+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 398
+    },
+    {
+      "Time": "2022-08-24T09:31:39.2791248+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 400
+    },
+    {
+      "Time": "2022-08-25T09:31:06.0339732+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 404
+    },
+    {
+      "Time": "2022-08-26T19:31:41.8189537+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 406
+    },
+    {
+      "Time": "2022-08-27T06:31:18.4446804+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 408
+    },
+    {
+      "Time": "2022-08-28T06:31:04.6009244+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 415
     },
-    {
-      "ID": "02",
-      "SetID": "212770e",
-      "Name": "Nordic Walking",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 5520
+    {
+      "Time": "2022-08-28T13:01:18.389075+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 417
     },
-    {
-      "ID": "03",
-      "SetID": "212770e",
-      "Name": "Bright Falls\u0027 Finest",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 5520
+    {
+      "Time": "2022-08-29T13:01:46.0643385+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 422
     },
-    {
-      "ID": "04",
-      "SetID": "212770e",
-      "Name": "Boob Tube",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 920
+    {
+      "Time": "2022-08-30T16:01:50.1579059+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 430
     },
-    {
-      "ID": "05",
-      "SetID": "212770e",
-      "Name": "Under a Thin Layer of Skin",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 5060
+    {
+      "Time": "2022-08-30T21:01:21.4422718+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 431
     },
-    {
-      "ID": "06",
-      "SetID": "212770e",
-      "Name": "Park Ranger",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 4140
+    {
+      "Time": "2022-08-31T21:01:35.3045674+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 436
     },
-    {
-      "ID": "07",
-      "SetID": "212770e",
-      "Name": "Heavy Metal",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-01T21:01:48.9661048+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 441
     },
-    {
-      "ID": "08",
-      "SetID": "212770e",
-      "Name": "Iron Horse",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-02T11:01:05.2404628+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 444
     },
-    {
-      "ID": "09",
-      "SetID": "212770e",
-      "Name": "Wheels Within Wheels",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 3680
+    {
+      "Time": "2022-09-03T11:01:08.2706629+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 447
     },
-    {
-      "ID": "10",
-      "SetID": "212770e",
-      "Name": "Medical Opinions",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 460
+    {
+      "Time": "2022-09-04T02:31:14.170359+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 452
     },
-    {
-      "ID": "11",
-      "SetID": "212770e",
-      "Name": "Children of the Elder God",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 1380
+    {
+      "Time": "2022-09-05T06:01:02.5348899+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 458
     },
-    {
-      "ID": "12",
-      "SetID": "212770e",
-      "Name": "Perchance to Dream",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-05T22:31:00.1086203+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 461
     },
-    {
-      "ID": "13",
-      "SetID": "212770e",
-      "Name": "Drink \u0027Em Both Up",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 1380
+    {
+      "Time": "2022-09-06T22:31:05.1360123+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 466
     },
-    {
-      "ID": "14",
-      "SetID": "212770e",
-      "Name": "Gatekeeper",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 2760
+    {
+      "Time": "2022-09-07T22:32:08.5317333+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 472
     },
-    {
-      "ID": "15",
-      "SetID": "212770e",
-      "Name": "The Lady of the Light",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 2760
+    {
+      "Time": "2022-09-08T22:31:45.2687501+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 478
     },
-    {
-      "ID": "16",
-      "SetID": "212770e",
-      "Name": "Tornado Wrangler",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 1840
+    {
+      "Time": "2022-09-09T22:31:08.89741+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 482
     },
-    {
-      "ID": "17",
-      "SetID": "212770e",
-      "Name": "Departure",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 1840
+    {
+      "Time": "2022-09-10T21:01:05.744592+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 486
     },
-    {
-      "ID": "18",
-      "SetID": "212770e",
-      "Name": "Hardboiled Writer",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 1380
+    {
+      "Time": "2022-09-11T21:01:18.8949585+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 494
     },
-    {
-      "ID": "19",
-      "SetID": "212770e",
-      "Name": "Alan, Wake Up",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 92
+    {
+      "Time": "2022-09-12T14:31:05.4032021+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 495
     },
-    {
-      "ID": "20",
-      "SetID": "212770e",
-      "Name": "If It Flies, It Burns",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 1380
+    {
+      "Time": "2022-09-13T14:31:03.8656895+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 497
     },
-    {
-      "ID": "21",
-      "SetID": "212770e",
-      "Name": "They\u0027re Heeeeeere!",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 3680
+    {
+      "Time": "2022-09-13T20:31:12.6440921+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 499
     },
-    {
-      "ID": "22",
-      "SetID": "212770e",
-      "Name": "The Six-Gun Scribe",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-14T20:31:09.0412449+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 504
     },
-    {
-      "ID": "23",
-      "SetID": "212770e",
-      "Name": "Taken Season",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 460
+    {
+      "Time": "2022-09-15T01:00:54.5263326+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 505
     },
-    {
-      "ID": "24",
-      "SetID": "212770e",
-      "Name": "It\u0027s Not Just a Typewriter Brand",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 2760
+    {
+      "Time": "2022-09-15T17:31:15.9657504+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 507
     },
-    {
-      "ID": "25",
-      "SetID": "212770e",
-      "Name": "What Light Through Yonder Window",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 2300
+    {
+      "Time": "2022-09-16T06:01:09.9226452+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 508
     },
-    {
-      "ID": "26",
-      "SetID": "212770e",
-      "Name": "Thunder and Lightning",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 2760
+    {
+      "Time": "2022-09-16T06:31:25.8338283+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 507
     },
-    {
-      "ID": "27",
-      "SetID": "212770e",
-      "Name": "Collateral Carnage",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-16T11:02:17.963419+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 508
     },
-    {
-      "ID": "28",
-      "SetID": "212770e",
-      "Name": "Come One, Come All",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-18T01:01:13.0366708+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 510
     },
-    {
-      "ID": "29",
-      "SetID": "212770e",
-      "Name": "Sound and Fury",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 3680
+    {
+      "Time": "2022-09-18T23:01:05.1460347+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 512
     },
-    {
-      "ID": "30",
-      "SetID": "212770e",
-      "Name": "Two For the Price of One",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 2760
+    {
+      "Time": "2022-09-19T23:01:17.1270063+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 516
     },
-    {
-      "ID": "31",
-      "SetID": "212770e",
-      "Name": "Back! Back, I Say!",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 4140
+    {
+      "Time": "2022-09-20T23:02:27.0566845+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 521
     },
-    {
-      "ID": "32",
-      "SetID": "212770e",
-      "Name": "Float Like a Butterfly",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 6900
+    {
+      "Time": "2022-09-22T00:01:51.6507365+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 522
     },
-    {
-      "ID": "33",
-      "SetID": "212770e",
-      "Name": "Missed by a Mile",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 3220
+    {
+      "Time": "2022-09-23T09:01:55.0124201+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 524
     },
-    {
-      "ID": "34",
-      "SetID": "212770e",
-      "Name": "Energized!",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 2760
+    {
+      "Time": "2022-09-24T13:06:37.1300127+00:00",
+      "Rating": 4.58
     },
-    {
-      "ID": "35",
-      "SetID": "212770e",
-      "Name": "Let There Be Light",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 7360
+    {
+      "Time": "2022-10-22T01:01:22.0425927+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "36",
-      "SetID": "212770e",
-      "Name": "Carny",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 920
+    {
+      "Time": "2022-10-28T14:31:47.3991792+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "37",
-      "SetID": "212770e",
-      "Name": "Meet the Deadline",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 92
+    {
+      "Time": "2022-10-28T15:01:23.8087916+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "38",
-      "SetID": "212770e",
-      "Name": "An Idyllic Small Town",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 460
+    {
+      "Time": "2022-11-01T02:01:13.9915605+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "39",
-      "SetID": "212770e",
-      "Name": "Gunless Wonder",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 46
+    {
+      "Time": "2022-11-01T07:31:13.50412+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "40",
-      "SetID": "212770e",
-      "Name": "Right of Way",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 2300
+    {
+      "Time": "2022-11-10T02:54:10.3853129+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "41",
-      "SetID": "212770e",
-      "Name": "Finders Keepers",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 4140
+    {
+      "Time": "2022-11-11T02:52:35.0089808+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "42",
-      "SetID": "212770e",
-      "Name": "Every Nook and Cranny",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 46
+    {
+      "Time": "2022-11-17T18:57:19.0370526+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "43",
-      "SetID": "212770e",
-      "Name": "Paging Mr. Wake",
-      "Percentage": 9,
-      "XP": 50,
-      "UsersEstimate": 4140
+    {
+      "Time": "2022-11-18T18:57:17.3952974+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "44",
-      "SetID": "212770e",
-      "Name": "Picking Up After Yourself",
-      "Percentage": 0.2,
-      "XP": 50,
-      "UsersEstimate": 92
+    {
+      "Time": "2022-11-20T20:57:15.3603779+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "45",
-      "SetID": "212770e",
-      "Name": "Collector\u0027s Edition",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 46
+    {
+      "Time": "2022-11-23T03:25:42.7444928+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "46",
-      "SetID": "212770e",
-      "Name": "Damn Good Cup of Coffee",
-      "Percentage": 8,
-      "XP": 50,
-      "UsersEstimate": 3680
+    {
+      "Time": "2022-11-24T03:17:20.3284294+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "47",
-      "SetID": "212770e",
-      "Name": "Hypercaffeinated",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 46
+    {
+      "Time": "2022-12-01T23:57:46.2119218+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "48",
-      "SetID": "212770e",
-      "Name": "KBF-FM",
-      "Percentage": 3,
-      "XP": 110,
-      "UsersEstimate": 1380
+    {
+      "Time": "2022-12-08T20:57:32.391894+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "49",
-      "SetID": "212770e",
-      "Name": "Couch Potato",
-      "Percentage": 1,
-      "XP": 110,
-      "UsersEstimate": 460
+    {
+      "Time": "2023-01-04T13:11:55.5636445+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "50",
-      "SetID": "212770e",
-      "Name": "Bright Falls Aficionado",
-      "Percentage": 0.1,
-      "XP": 110,
-      "UsersEstimate": 46
+    {
+      "Time": "2023-02-23T18:57:45.1961336+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "51",
-      "SetID": "6apfemg",
-      "Name": "A Friend in Need",
-      "Percentage": 8,
-      "XP": 25,
-      "UsersEstimate": 758
+    {
+      "Time": "2023-02-27T18:57:34.2881089+00:00",
+      "Rating": 4.57
     },
-    {
-      "ID": "52",
-      "SetID": "6apfemg",
-      "Name": "A Friend Indeed",
-      "Percentage": 6,
-      "XP": 50,
-      "UsersEstimate": 568
+    {
+      "Time": "2023-03-26T19:57:46.3354203+00:00",
+      "Rating": 4.56
     },
-    {
-      "ID": "53",
-      "SetID": "6apfemg",
-      "Name": "Fast and Furious",
-      "Percentage": 0.5,
-      "XP": 25,
-      "UsersEstimate": 47
+    {
+      "Time": "2023-03-31T05:57:36.2043613+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
-    {
-      "ID": "54",
-      "SetID": "6apfemg",
-      "Name": "Words Will Never Harm You",
-      "Percentage": 0.6,
-      "XP": 25,
-      "UsersEstimate": 57
+    {
+      "Time": "2023-04-06T06:58:01.728375+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
-    {
-      "ID": "55",
-      "SetID": "6apfemg",
-      "Name": "Run-On Sentence",
-      "Percentage": 0.3,
-      "XP": 50,
-      "UsersEstimate": 28
-    },
-    {
-      "ID": "56",
-      "SetID": "6apfemg",
-      "Name": "License Revoked",
-      "Percentage": 0.4,
-      "XP": 20,
-      "UsersEstimate": 38
-    },
-    {
-      "ID": "57",
-      "SetID": "6apfemg",
-      "Name": "Tick Tock",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 28
-    },
-    {
-      "ID": "58",
-      "SetID": "6apfemg",
-      "Name": "Cardboard Companions",
-      "Percentage": 0.6,
-      "XP": 25,
-      "UsersEstimate": 57
-    },
-    {
-      "ID": "59",
-      "SetID": "6apfemg",
-      "Name": "Ding!",
-      "Percentage": 5,
-      "XP": 5,
-      "UsersEstimate": 474
-    },
-    {
-      "ID": "60",
-      "SetID": "6apfemg",
-      "Name": "Kill Your Darlings",
-      "Percentage": 3,
-      "XP": 50,
-      "UsersEstimate": 284
-    },
-    {
-      "ID": "61",
-      "SetID": "6apfemg",
-      "Name": "Go Gentle Into That Good Light",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 95
-    },
-    {
-      "ID": "62",
-      "SetID": "6apfemg",
-      "Name": "No Punctuation",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 9
-    },
-    {
-      "ID": "63",
-      "SetID": "6apfemg",
-      "Name": "Iron Will",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 189
-    },
-    {
-      "ID": "64",
-      "SetID": "6apfemg",
-      "Name": "Whirlwind",
-      "Percentage": 0.4,
-      "XP": 20,
-      "UsersEstimate": 38
-    },
-    {
-      "ID": "65",
-      "SetID": "6apfemg",
-      "Name": "Licensed Properties",
-      "Percentage": 0.2,
-      "XP": 30,
-      "UsersEstimate": 19
-    },
-    {
-      "ID": "66",
-      "SetID": "6apfemg",
-      "Name": "Creative Space",
-      "Percentage": 0.4,
-      "XP": 25,
-      "UsersEstimate": 38
-    },
-    {
-      "ID": "67",
-      "SetID": "6apfemg",
-      "Name": "Heartbreaker",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 284
+    {
+      "Time": "2023-04-09T06:57:34.0412694+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -547,6 +498,11 @@
       "Count": 153
     }
   ],
+  "EOS_Progressed": 46003,
+  "EOS_Completed": 44,
+  "EOS_NewPlayers": 133,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.036072+00:00",
@@ -1107,522 +1063,572 @@
       "Time": "2023-05-05T15:04:49.3152145+00:00",
       "NumProgressed": 46002,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-05T17:09:18.7433068+00:00",
+      "NumProgressed": 46003,
+      "NumCompleted": 44
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:22:49.7160328+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 260
-    },
-    {
-      "Time": "2022-07-23T11:06:50.8339216+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 264
-    },
-    {
-      "Time": "2022-07-23T18:00:59.959534+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 266
-    },
-    {
-      "Time": "2022-07-24T04:01:08.201613+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 270
-    },
-    {
-      "Time": "2022-07-25T04:01:23.0912104+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": 275
-    },
-    {
-      "Time": "2022-07-26T10:01:26.5182068+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 281
-    },
-    {
-      "Time": "2022-07-26T18:01:40.2697996+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 284
-    },
-    {
-      "Time": "2022-07-27T18:01:20.7225474+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 292
-    },
-    {
-      "Time": "2022-07-27T20:01:00.6636448+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 293
-    },
-    {
-      "Time": "2022-07-28T18:37:51.5660515+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": 302
-    },
-    {
-      "Time": "2022-07-29T02:30:52.8027585+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": 304
-    },
-    {
-      "Time": "2022-07-30T02:31:15.1595407+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": 309
-    },
-    {
-      "Time": "2022-07-30T19:01:13.0706811+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 316
-    },
-    {
-      "Time": "2022-07-31T06:01:02.0161465+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 320
-    },
-    {
-      "Time": "2022-08-01T06:01:09.607916+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 323
-    },
-    {
-      "Time": "2022-08-01T22:30:58.2127123+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 324
-    },
-    {
-      "Time": "2022-08-02T22:30:59.426454+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 327
-    },
-    {
-      "Time": "2022-08-03T14:01:21.4851981+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 331
-    },
-    {
-      "Time": "2022-08-03T23:31:24.7664948+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 333
-    },
-    {
-      "Time": "2022-08-05T22:01:04.6840107+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 335
-    },
-    {
-      "Time": "2022-08-06T22:01:05.0072972+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 342
-    },
-    {
-      "Time": "2022-08-07T17:31:03.8447504+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 344
-    },
-    {
-      "Time": "2022-08-08T17:32:52.6123625+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 352
-    },
-    {
-      "Time": "2022-08-09T01:30:57.8552434+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 355
-    },
-    {
-      "Time": "2022-08-10T01:31:02.5241891+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 361
-    },
-    {
-      "Time": "2022-08-10T12:01:52.6411815+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 362
-    },
-    {
-      "Time": "2022-08-11T17:31:08.2436964+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 365
-    },
-    {
-      "Time": "2022-08-13T00:02:03.8082504+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 369
-    },
-    {
-      "Time": "2022-08-13T15:01:29.1160933+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 372
-    },
-    {
-      "Time": "2022-08-14T13:31:07.4642182+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 376
-    },
-    {
-      "Time": "2022-08-14T22:01:03.1620489+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": 378
-    },
-    {
-      "Time": "2022-08-16T10:31:14.8261628+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 381
-    },
-    {
-      "Time": "2022-08-17T01:01:20.0930558+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 382
-    },
-    {
-      "Time": "2022-08-18T01:01:20.4276028+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 383
-    },
-    {
-      "Time": "2022-08-18T22:31:08.9136227+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 388
-    },
-    {
-      "Time": "2022-08-19T22:31:39.7632465+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 390
-    },
-    {
-      "Time": "2022-08-20T22:31:05.0001273+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 392
-    },
-    {
-      "Time": "2022-08-22T09:31:08.6137358+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 394
-    },
-    {
-      "Time": "2022-08-23T09:31:23.4957094+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 398
-    },
-    {
-      "Time": "2022-08-24T09:31:39.2791248+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 400
-    },
-    {
-      "Time": "2022-08-25T09:31:06.0339732+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 404
-    },
-    {
-      "Time": "2022-08-26T19:31:41.8189537+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 406
-    },
-    {
-      "Time": "2022-08-27T06:31:18.4446804+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 408
-    },
-    {
-      "Time": "2022-08-28T06:31:04.6009244+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 415
-    },
-    {
-      "Time": "2022-08-28T13:01:18.389075+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 417
-    },
-    {
-      "Time": "2022-08-29T13:01:46.0643385+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 422
-    },
-    {
-      "Time": "2022-08-30T16:01:50.1579059+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 430
-    },
-    {
-      "Time": "2022-08-30T21:01:21.4422718+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 431
-    },
-    {
-      "Time": "2022-08-31T21:01:35.3045674+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 436
-    },
-    {
-      "Time": "2022-09-01T21:01:48.9661048+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 441
-    },
-    {
-      "Time": "2022-09-02T11:01:05.2404628+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 444
-    },
-    {
-      "Time": "2022-09-03T11:01:08.2706629+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 447
-    },
-    {
-      "Time": "2022-09-04T02:31:14.170359+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 452
-    },
-    {
-      "Time": "2022-09-05T06:01:02.5348899+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 458
-    },
-    {
-      "Time": "2022-09-05T22:31:00.1086203+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 461
-    },
-    {
-      "Time": "2022-09-06T22:31:05.1360123+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 466
-    },
-    {
-      "Time": "2022-09-07T22:32:08.5317333+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 472
-    },
-    {
-      "Time": "2022-09-08T22:31:45.2687501+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 478
-    },
-    {
-      "Time": "2022-09-09T22:31:08.89741+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 482
-    },
-    {
-      "Time": "2022-09-10T21:01:05.744592+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 486
-    },
-    {
-      "Time": "2022-09-11T21:01:18.8949585+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 494
-    },
-    {
-      "Time": "2022-09-12T14:31:05.4032021+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 495
-    },
-    {
-      "Time": "2022-09-13T14:31:03.8656895+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 497
-    },
-    {
-      "Time": "2022-09-13T20:31:12.6440921+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 499
-    },
-    {
-      "Time": "2022-09-14T20:31:09.0412449+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 504
-    },
-    {
-      "Time": "2022-09-15T01:00:54.5263326+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 505
-    },
-    {
-      "Time": "2022-09-15T17:31:15.9657504+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 507
-    },
-    {
-      "Time": "2022-09-16T06:01:09.9226452+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 508
-    },
-    {
-      "Time": "2022-09-16T06:31:25.8338283+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 507
-    },
-    {
-      "Time": "2022-09-16T11:02:17.963419+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 508
-    },
-    {
-      "Time": "2022-09-18T01:01:13.0366708+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 510
-    },
-    {
-      "Time": "2022-09-18T23:01:05.1460347+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 512
-    },
-    {
-      "Time": "2022-09-19T23:01:17.1270063+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 516
-    },
-    {
-      "Time": "2022-09-20T23:02:27.0566845+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 521
-    },
-    {
-      "Time": "2022-09-22T00:01:51.6507365+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 522
-    },
-    {
-      "Time": "2022-09-23T09:01:55.0124201+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 524
-    },
-    {
-      "Time": "2022-09-24T13:06:37.1300127+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2022-10-22T01:01:22.0425927+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-10-28T14:31:47.3991792+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-10-28T15:01:23.8087916+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-01T02:01:13.9915605+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-01T07:31:13.50412+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-10T02:54:10.3853129+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-11T02:52:35.0089808+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-17T18:57:19.0370526+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-18T18:57:17.3952974+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-20T20:57:15.3603779+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-23T03:25:42.7444928+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-24T03:17:20.3284294+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-12-01T23:57:46.2119218+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-12-08T20:57:32.391894+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-01-04T13:11:55.5636445+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-02-23T18:57:45.1961336+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-02-27T18:57:34.2881089+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-26T19:57:46.3354203+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-03-31T05:57:36.2043613+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-06T06:58:01.728375+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-09T06:57:34.0412694+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1500,
   "TotalAchievements": 67,
-  "LastChanged_Achievements": "2023-05-05T16:07:30.6019163+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 136,
-  "EOS_Completed": 44,
-  "EOS_Progressed": 46002,
-  "LastUpdate_Achievements": "2023-05-05T16:07:30.6019909+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:20.407367+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:09.4589214+00:00",
+  "TotalAchievementsXP": 1500,
+  "Achievements": [
+    {
+      "ID": "01",
+      "SetID": "212770e",
+      "Name": "Follow the Light",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 8741
+    },
+    {
+      "ID": "02",
+      "SetID": "212770e",
+      "Name": "Nordic Walking",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 5520
+    },
+    {
+      "ID": "03",
+      "SetID": "212770e",
+      "Name": "Bright Falls\u0027 Finest",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 5520
+    },
+    {
+      "ID": "04",
+      "SetID": "212770e",
+      "Name": "Boob Tube",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 920
+    },
+    {
+      "ID": "05",
+      "SetID": "212770e",
+      "Name": "Under a Thin Layer of Skin",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 5060
+    },
+    {
+      "ID": "06",
+      "SetID": "212770e",
+      "Name": "Park Ranger",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 4140
+    },
+    {
+      "ID": "07",
+      "SetID": "212770e",
+      "Name": "Heavy Metal",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "08",
+      "SetID": "212770e",
+      "Name": "Iron Horse",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "09",
+      "SetID": "212770e",
+      "Name": "Wheels Within Wheels",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 3680
+    },
+    {
+      "ID": "10",
+      "SetID": "212770e",
+      "Name": "Medical Opinions",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 460
+    },
+    {
+      "ID": "11",
+      "SetID": "212770e",
+      "Name": "Children of the Elder God",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 1380
+    },
+    {
+      "ID": "12",
+      "SetID": "212770e",
+      "Name": "Perchance to Dream",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "13",
+      "SetID": "212770e",
+      "Name": "Drink \u0027Em Both Up",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 1380
+    },
+    {
+      "ID": "14",
+      "SetID": "212770e",
+      "Name": "Gatekeeper",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 2760
+    },
+    {
+      "ID": "15",
+      "SetID": "212770e",
+      "Name": "The Lady of the Light",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 2760
+    },
+    {
+      "ID": "16",
+      "SetID": "212770e",
+      "Name": "Tornado Wrangler",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 1840
+    },
+    {
+      "ID": "17",
+      "SetID": "212770e",
+      "Name": "Departure",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 1840
+    },
+    {
+      "ID": "18",
+      "SetID": "212770e",
+      "Name": "Hardboiled Writer",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 1380
+    },
+    {
+      "ID": "19",
+      "SetID": "212770e",
+      "Name": "Alan, Wake Up",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 92
+    },
+    {
+      "ID": "20",
+      "SetID": "212770e",
+      "Name": "If It Flies, It Burns",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 1380
+    },
+    {
+      "ID": "21",
+      "SetID": "212770e",
+      "Name": "They\u0027re Heeeeeere!",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 3680
+    },
+    {
+      "ID": "22",
+      "SetID": "212770e",
+      "Name": "The Six-Gun Scribe",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "23",
+      "SetID": "212770e",
+      "Name": "Taken Season",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 460
+    },
+    {
+      "ID": "24",
+      "SetID": "212770e",
+      "Name": "It\u0027s Not Just a Typewriter Brand",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 2760
+    },
+    {
+      "ID": "25",
+      "SetID": "212770e",
+      "Name": "What Light Through Yonder Window",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 2300
+    },
+    {
+      "ID": "26",
+      "SetID": "212770e",
+      "Name": "Thunder and Lightning",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 2760
+    },
+    {
+      "ID": "27",
+      "SetID": "212770e",
+      "Name": "Collateral Carnage",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "28",
+      "SetID": "212770e",
+      "Name": "Come One, Come All",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "29",
+      "SetID": "212770e",
+      "Name": "Sound and Fury",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 3680
+    },
+    {
+      "ID": "30",
+      "SetID": "212770e",
+      "Name": "Two For the Price of One",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 2760
+    },
+    {
+      "ID": "31",
+      "SetID": "212770e",
+      "Name": "Back! Back, I Say!",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 4140
+    },
+    {
+      "ID": "32",
+      "SetID": "212770e",
+      "Name": "Float Like a Butterfly",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 6900
+    },
+    {
+      "ID": "33",
+      "SetID": "212770e",
+      "Name": "Missed by a Mile",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3220
+    },
+    {
+      "ID": "34",
+      "SetID": "212770e",
+      "Name": "Energized!",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 2760
+    },
+    {
+      "ID": "35",
+      "SetID": "212770e",
+      "Name": "Let There Be Light",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 7360
+    },
+    {
+      "ID": "36",
+      "SetID": "212770e",
+      "Name": "Carny",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 920
+    },
+    {
+      "ID": "37",
+      "SetID": "212770e",
+      "Name": "Meet the Deadline",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 92
+    },
+    {
+      "ID": "38",
+      "SetID": "212770e",
+      "Name": "An Idyllic Small Town",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 460
+    },
+    {
+      "ID": "39",
+      "SetID": "212770e",
+      "Name": "Gunless Wonder",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "40",
+      "SetID": "212770e",
+      "Name": "Right of Way",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 2300
+    },
+    {
+      "ID": "41",
+      "SetID": "212770e",
+      "Name": "Finders Keepers",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 4140
+    },
+    {
+      "ID": "42",
+      "SetID": "212770e",
+      "Name": "Every Nook and Cranny",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "43",
+      "SetID": "212770e",
+      "Name": "Paging Mr. Wake",
+      "Percentage": 9,
+      "XP": 50,
+      "UsersEstimate": 4140
+    },
+    {
+      "ID": "44",
+      "SetID": "212770e",
+      "Name": "Picking Up After Yourself",
+      "Percentage": 0.2,
+      "XP": 50,
+      "UsersEstimate": 92
+    },
+    {
+      "ID": "45",
+      "SetID": "212770e",
+      "Name": "Collector\u0027s Edition",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "46",
+      "SetID": "212770e",
+      "Name": "Damn Good Cup of Coffee",
+      "Percentage": 8,
+      "XP": 50,
+      "UsersEstimate": 3680
+    },
+    {
+      "ID": "47",
+      "SetID": "212770e",
+      "Name": "Hypercaffeinated",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "48",
+      "SetID": "212770e",
+      "Name": "KBF-FM",
+      "Percentage": 3,
+      "XP": 110,
+      "UsersEstimate": 1380
+    },
+    {
+      "ID": "49",
+      "SetID": "212770e",
+      "Name": "Couch Potato",
+      "Percentage": 1,
+      "XP": 110,
+      "UsersEstimate": 460
+    },
+    {
+      "ID": "50",
+      "SetID": "212770e",
+      "Name": "Bright Falls Aficionado",
+      "Percentage": 0.1,
+      "XP": 110,
+      "UsersEstimate": 46
+    },
+    {
+      "ID": "51",
+      "SetID": "6apfemg",
+      "Name": "A Friend in Need",
+      "Percentage": 8,
+      "XP": 25,
+      "UsersEstimate": 758
+    },
+    {
+      "ID": "52",
+      "SetID": "6apfemg",
+      "Name": "A Friend Indeed",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 568
+    },
+    {
+      "ID": "53",
+      "SetID": "6apfemg",
+      "Name": "Fast and Furious",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 47
+    },
+    {
+      "ID": "54",
+      "SetID": "6apfemg",
+      "Name": "Words Will Never Harm You",
+      "Percentage": 0.6,
+      "XP": 25,
+      "UsersEstimate": 57
+    },
+    {
+      "ID": "55",
+      "SetID": "6apfemg",
+      "Name": "Run-On Sentence",
+      "Percentage": 0.3,
+      "XP": 50,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "56",
+      "SetID": "6apfemg",
+      "Name": "License Revoked",
+      "Percentage": 0.4,
+      "XP": 20,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "57",
+      "SetID": "6apfemg",
+      "Name": "Tick Tock",
+      "Percentage": 0.3,
+      "XP": 30,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "58",
+      "SetID": "6apfemg",
+      "Name": "Cardboard Companions",
+      "Percentage": 0.6,
+      "XP": 25,
+      "UsersEstimate": 57
+    },
+    {
+      "ID": "59",
+      "SetID": "6apfemg",
+      "Name": "Ding!",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 474
+    },
+    {
+      "ID": "60",
+      "SetID": "6apfemg",
+      "Name": "Kill Your Darlings",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 284
+    },
+    {
+      "ID": "61",
+      "SetID": "6apfemg",
+      "Name": "Go Gentle Into That Good Light",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 95
+    },
+    {
+      "ID": "62",
+      "SetID": "6apfemg",
+      "Name": "No Punctuation",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "63",
+      "SetID": "6apfemg",
+      "Name": "Iron Will",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 189
+    },
+    {
+      "ID": "64",
+      "SetID": "6apfemg",
+      "Name": "Whirlwind",
+      "Percentage": 0.4,
+      "XP": 20,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "65",
+      "SetID": "6apfemg",
+      "Name": "Licensed Properties",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "66",
+      "SetID": "6apfemg",
+      "Name": "Creative Space",
+      "Percentage": 0.4,
+      "XP": 25,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "67",
+      "SetID": "6apfemg",
+      "Name": "Heartbreaker",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 284
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46002,
+      "Progressed": 46003,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9470,
+      "Progressed": 9471,
       "Completed": 27
     }
   ],
-  "EOS_Completed_Percentage": 0.1,
-  "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "ProductSlug": "alan-wake-remastered",
-  "Rating": 4.56,
-  "Ranking_Rating": 447,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 74,
-  "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfRatings": 524,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
-  "Ranking_EOS_NewPlayers": 110
+  "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
+  "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:18.7433063+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:03.1953901+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:18.7433985+00:00"
 }

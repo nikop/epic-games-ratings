@@ -1,16 +1,16 @@
 {
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 23
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "fez",
+  "Ranking_Rating": 178,
+  "Ranking_Popularity": 469,
+  "Ranking_PopularitySum": 471,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.71,
+  "NumberOfRatings": 103,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:13.4186643+00:00",
@@ -291,30 +291,31 @@
       "Rating": 4.71
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:23.1716373+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:39.8089049+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:02.0317419+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-21T22:57:30.8924995+00:00",
-  "ProductSlug": "fez",
-  "Rating": 4.71,
-  "Ranking_Rating": 178,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 471,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 103,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 23,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Challenging Puzzles",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 23
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-03-21T22:57:30.8924995+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:55.0889466+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:55.5868357+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:33.0159497+00:00"
 }

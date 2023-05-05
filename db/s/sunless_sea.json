@@ -1,440 +1,592 @@
 {
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
-  "Achievements": [
+  "ProductSlug": "sunless-sea",
+  "Ranking_Rating": 414,
+  "Ranking_Popularity": 254,
+  "Ranking_PopularitySum": 330,
+  "Ranking_EOS_Progress": 83,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.58,
+  "NumberOfRatings": 401,
+  "RatingHistory": [
     {
-      "ID": "ach_abysschange",
-      "SetID": "ammcm",
-      "Name": "A zee-change",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 254
+      "Time": "2022-07-22T20:20:36.9352359+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 172
     },
     {
-      "ID": "ach_abysslady",
-      "SetID": "ammcm",
-      "Name": "The Lady\u0027s Parlour",
-      "Percentage": 0.2,
-      "XP": 70,
-      "UsersEstimate": 56
+      "Time": "2022-07-23T16:00:50.2033778+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": 178
     },
     {
-      "ID": "ach_admirality10",
-      "SetID": "ammcm",
-      "Name": "Rules the Waves",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 4801
+      "Time": "2022-07-25T18:01:05.18956+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 182
     },
     {
-      "ID": "ach_antiquarian10",
-      "SetID": "ammcm",
-      "Name": "Old Unhappy Far-Off Things",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 1130
+      "Time": "2022-07-26T04:01:17.1785569+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 183
     },
     {
-      "ID": "ach_combuoy",
-      "SetID": "ammcm",
-      "Name": "A buoyant escape",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-07-27T00:00:45.6095616+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 185
     },
     {
-      "ID": "ach_constant",
-      "SetID": "ammcm",
-      "Name": "What lies beneath",
-      "Percentage": 0.8,
-      "XP": 10,
-      "UsersEstimate": 226
+      "Time": "2022-07-27T02:01:32.9577511+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 183
     },
     {
-      "ID": "ach_contdrownie",
-      "SetID": "ammcm",
-      "Name": "A Drownie devotee",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 28
+      "Time": "2022-07-27T04:00:48.2385205+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 185
     },
     {
-      "ID": "ach_controman",
-      "SetID": "ammcm",
-      "Name": "Romans 6:9",
-      "Percentage": 0.1,
-      "XP": 70,
-      "UsersEstimate": 28
+      "Time": "2022-07-27T22:01:02.2285679+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": 186
     },
     {
-      "ID": "ach_cursesalt",
-      "SetID": "ammcm",
-      "Name": "Salt\u0027s Curse",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 3107
+      "Time": "2022-07-28T06:00:42.9306912+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 187
     },
     {
-      "ID": "ach_cursestone",
-      "SetID": "ammcm",
-      "Name": "Stone\u0027s Curse",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 198
+      "Time": "2022-07-28T16:01:04.7771876+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 188
     },
     {
-      "ID": "ach_cursestorm",
-      "SetID": "ammcm",
-      "Name": "Storm\u0027s Curse",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 847
+      "Time": "2022-07-28T22:30:37.5989637+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 189
     },
     {
-      "ID": "ach_dawnmachine",
-      "SetID": "ammcm",
-      "Name": "HE SUN THE SUN THE SUN T",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 3107
+      "Time": "2022-07-29T01:00:38.6151696+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": 190
     },
     {
-      "ID": "ach_deathofermod",
-      "SetID": "ammcm",
-      "Name": "Ofermod",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 28
+      "Time": "2022-07-29T22:30:41.9219232+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 195
     },
     {
-      "ID": "ach_deathphlebas",
-      "SetID": "ammcm",
-      "Name": "Consider Phlebas",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 28
+      "Time": "2022-07-30T00:00:44.1900837+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 196
     },
     {
-      "ID": "ach_deathwat",
-      "SetID": "ammcm",
-      "Name": "Death By Water",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 28
+      "Time": "2022-07-30T05:00:55.4659294+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 197
     },
     {
-      "ID": "ach_die1",
-      "SetID": "ammcm",
-      "Name": "Sink Beneath the Waves",
-      "Percentage": 36,
-      "XP": 10,
-      "UsersEstimate": 10167
+      "Time": "2022-07-30T13:00:55.9626566+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": 198
     },
     {
-      "ID": "ach_die10",
-      "SetID": "ammcm",
-      "Name": "Never Stop Sinking...",
-      "Percentage": 0.9,
-      "XP": 20,
-      "UsersEstimate": 254
+      "Time": "2022-07-31T03:30:40.5364388+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 199
     },
     {
-      "ID": "ach_die5",
-      "SetID": "ammcm",
-      "Name": "Sink Beneath the Waves. Again.",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 1412
+      "Time": "2022-07-31T21:30:41.0395478+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 202
     },
     {
-      "ID": "ach_dive",
-      "SetID": "ammcm",
-      "Name": "Frightful, sheer, no-man-fathomed",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 282
+      "Time": "2022-08-01T19:30:45.9249708+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 204
     },
     {
-      "ID": "ach_dreadnaught",
-      "SetID": "ammcm",
-      "Name": "We\u0027re Gonna Need a Bigger Boat",
-      "Percentage": 3,
-      "XP": 70,
-      "UsersEstimate": 847
+      "Time": "2022-08-02T02:00:42.623898+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 208
     },
     {
-      "ID": "ach_eye",
-      "SetID": "ammcm",
-      "Name": "Roaring Rise",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 565
+      "Time": "2022-08-03T13:01:21.7383965+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 212
     },
     {
-      "ID": "ach_hunterskeep",
-      "SetID": "ammcm",
-      "Name": "The Fall of the House",
-      "Percentage": 11,
-      "XP": 20,
-      "UsersEstimate": 3107
+      "Time": "2022-08-04T14:30:51.9014832+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 213
     },
     {
-      "ID": "ach_invictus",
-      "SetID": "ammcm",
-      "Name": "I am the Captain of my Soul",
-      "Percentage": 2,
-      "XP": 70,
-      "UsersEstimate": 565
+      "Time": "2022-08-05T09:00:45.8432734+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 214
     },
     {
-      "ID": "ach_ladylilac",
-      "SetID": "ammcm",
-      "Name": "Come Closer",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 847
+      "Time": "2022-08-05T23:30:44.6198607+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 217
     },
     {
-      "ID": "ach_legacycorrespondent",
-      "SetID": "ammcm",
-      "Name": "Correspondent",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 3389
+      "Time": "2022-08-06T23:31:04.7628553+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 224
     },
     {
-      "ID": "ach_legacypupil",
-      "SetID": "ammcm",
-      "Name": "Pupil",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1977
+      "Time": "2022-08-07T12:30:52.5839896+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 229
     },
     {
-      "ID": "ach_legacyrival",
-      "SetID": "ammcm",
-      "Name": "Rival",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 3954
+      "Time": "2022-08-08T01:00:46.4223523+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 231
     },
     {
-      "ID": "ach_legacysalvager",
-      "SetID": "ammcm",
-      "Name": "Salvager",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1977
+      "Time": "2022-08-08T03:00:42.7685671+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 232
     },
     {
-      "ID": "ach_legacyshipmate",
-      "SetID": "ammcm",
-      "Name": "Shipmate",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 3107
+      "Time": "2022-08-08T06:30:44.4781032+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 233
     },
     {
-      "ID": "ach_newstories",
-      "SetID": "ammcm",
-      "Name": "Open Your Ears",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1977
+      "Time": "2022-08-09T09:01:01.2726057+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 236
     },
     {
-      "ID": "ach_portbell",
-      "SetID": "ammcm",
-      "Name": "The Bell Tolls",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-09T22:31:15.1403934+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 237
     },
     {
-      "ID": "ach_portbones",
-      "SetID": "ammcm",
-      "Name": "His bones in whispers",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-10T14:30:44.7512668+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 241
     },
     {
-      "ID": "ach_portdeep",
-      "SetID": "ammcm",
-      "Name": "The beauty of the deep",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-11T17:30:49.0201766+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 242
     },
     {
-      "ID": "ach_portdragon",
-      "SetID": "ammcm",
-      "Name": "The dragon in the zee",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-11T19:31:03.9085259+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 244
     },
     {
-      "ID": "ach_portfish",
-      "SetID": "ammcm",
-      "Name": "Thanks for all the fish",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-11T22:00:48.5943104+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 245
     },
     {
-      "ID": "ach_portknife",
-      "SetID": "ammcm",
-      "Name": "Knife, Cup and Bone",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-12T08:30:51.5768311+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 247
     },
     {
-      "ID": "ach_portleviathan",
-      "SetID": "ammcm",
-      "Name": "Leviathan",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 254
+      "Time": "2022-08-13T08:30:45.9462938+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 249
     },
     {
-      "ID": "ach_portpearls",
-      "SetID": "ammcm",
-      "Name": "Those are pearls that were his eyes",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-13T23:00:44.5976206+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 250
     },
     {
-      "ID": "ach_portregret",
-      "SetID": "ammcm",
-      "Name": "No regrets",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-14T11:00:48.4085678+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 252
     },
     {
-      "ID": "ach_portrose",
-      "SetID": "ammcm",
-      "Name": "Rosewater sailor",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-15T08:30:57.654177+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 255
     },
     {
-      "ID": "ach_portunder",
-      "SetID": "ammcm",
-      "Name": "Under the zee",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-15T09:00:58.9949795+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 252
     },
     {
-      "ID": "ach_scion",
-      "SetID": "ammcm",
-      "Name": "Zee Fever",
-      "Percentage": 5,
-      "XP": 20,
-      "UsersEstimate": 1412
+      "Time": "2022-08-15T11:00:50.5648361+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 255
     },
     {
-      "ID": "ach_stranger",
-      "SetID": "ammcm",
-      "Name": "A Past Wreathed in Shadows",
-      "Percentage": 0.2,
-      "XP": 20,
-      "UsersEstimate": 56
+      "Time": "2022-08-15T17:31:44.6301996+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 257
     },
     {
-      "ID": "ach_surface",
-      "SetID": "ammcm",
-      "Name": "The Ascent of Man",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 2259
+      "Time": "2022-08-17T10:30:47.6776636+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 259
     },
     {
-      "ID": "ach_sweetheart",
-      "SetID": "ammcm",
-      "Name": "Sweet Sorrow",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 5366
+      "Time": "2022-08-18T02:00:44.0082158+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 261
     },
     {
-      "ID": "ach_terror100",
-      "SetID": "ammcm",
-      "Name": "Lose Your Mind",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 3389
+      "Time": "2022-08-19T04:31:25.2149198+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 264
     },
     {
-      "ID": "ach_terror90",
-      "SetID": "ammcm",
-      "Name": "Thou, All-Shaking Thunder",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 4519
+      "Time": "2022-08-20T13:30:48.2852766+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 269
     },
     {
-      "ID": "ach_undercurrent",
-      "SetID": "ammcm",
-      "Name": "A current under zee",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 282
+      "Time": "2022-08-21T19:01:19.3412735+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 274
     },
     {
-      "ID": "ach_underdepth",
-      "SetID": "ammcm",
-      "Name": "Depth charge",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 254
+      "Time": "2022-08-22T02:00:43.9367659+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 276
     },
     {
-      "ID": "ach_underpressure",
-      "SetID": "ammcm",
-      "Name": "Under pressure",
-      "Percentage": 0.2,
-      "XP": 70,
-      "UsersEstimate": 56
+      "Time": "2022-08-22T06:30:45.8490877+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 277
     },
     {
-      "ID": "ach_will",
-      "SetID": "ammcm",
-      "Name": "Sound Mind?",
-      "Percentage": 12,
-      "XP": 20,
-      "UsersEstimate": 3389
+      "Time": "2022-08-23T04:00:56.9623669+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 281
     },
     {
-      "ID": "ach_year1",
-      "SetID": "ammcm",
-      "Name": "One Year at Zee",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 2259
+      "Time": "2022-08-23T04:31:24.8622613+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 277
     },
     {
-      "ID": "ach_year10",
-      "SetID": "ammcm",
-      "Name": "Ten Years at Zee",
-      "Percentage": 0.1,
-      "XP": 70,
-      "UsersEstimate": 28
+      "Time": "2022-08-23T06:31:33.0233797+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 282
     },
     {
-      "ID": "ach_year5",
-      "SetID": "ammcm",
-      "Name": "Five Years at Zee",
-      "Percentage": 0.5,
-      "XP": 20,
-      "UsersEstimate": 141
+      "Time": "2022-08-24T04:00:42.8697177+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 284
+    },
+    {
+      "Time": "2022-08-24T16:30:45.9129305+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 285
+    },
+    {
+      "Time": "2022-08-26T01:30:46.8508341+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 290
+    },
+    {
+      "Time": "2022-08-27T10:30:50.75134+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 292
+    },
+    {
+      "Time": "2022-08-28T03:01:03.8831085+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 295
+    },
+    {
+      "Time": "2022-08-29T13:01:28.6135678+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 301
+    },
+    {
+      "Time": "2022-08-30T17:01:26.2138367+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 305
+    },
+    {
+      "Time": "2022-08-30T23:05:33.2789385+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 306
+    },
+    {
+      "Time": "2022-08-31T15:30:49.3957508+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 308
+    },
+    {
+      "Time": "2022-09-02T14:30:51.5391792+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 312
+    },
+    {
+      "Time": "2022-09-02T22:30:49.0304052+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 313
+    },
+    {
+      "Time": "2022-09-03T22:30:56.9547802+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 315
+    },
+    {
+      "Time": "2022-09-04T18:30:52.0840639+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 317
+    },
+    {
+      "Time": "2022-09-04T22:00:46.3649177+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 318
+    },
+    {
+      "Time": "2022-09-05T22:00:45.8691141+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 326
+    },
+    {
+      "Time": "2022-09-06T19:01:20.5743326+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 327
+    },
+    {
+      "Time": "2022-09-09T08:30:44.3149402+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 328
+    },
+    {
+      "Time": "2022-09-09T13:01:24.9761013+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": 330
+    },
+    {
+      "Time": "2022-09-10T12:30:44.8275774+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 336
+    },
+    {
+      "Time": "2022-09-11T01:30:57.2692256+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 341
+    },
+    {
+      "Time": "2022-09-11T08:30:57.3546729+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 342
+    },
+    {
+      "Time": "2022-09-11T23:00:56.61651+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 349
+    },
+    {
+      "Time": "2022-09-12T19:31:26.0080932+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 350
+    },
+    {
+      "Time": "2022-09-13T19:31:21.2447275+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 352
+    },
+    {
+      "Time": "2022-09-14T15:01:26.210209+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": 354
+    },
+    {
+      "Time": "2022-09-15T16:31:56.7944161+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 361
+    },
+    {
+      "Time": "2022-09-16T19:31:22.0881875+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 366
+    },
+    {
+      "Time": "2022-09-17T03:01:27.4715444+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 369
+    },
+    {
+      "Time": "2022-09-17T13:00:47.0367411+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": 371
+    },
+    {
+      "Time": "2022-09-18T13:01:04.6365492+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 375
+    },
+    {
+      "Time": "2022-09-18T14:01:19.7894732+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 376
+    },
+    {
+      "Time": "2022-09-19T12:30:49.9295518+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 384
+    },
+    {
+      "Time": "2022-09-19T18:01:20.8308288+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 385
+    },
+    {
+      "Time": "2022-09-19T20:31:39.6759573+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 387
+    },
+    {
+      "Time": "2022-09-20T16:30:50.6241524+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 389
+    },
+    {
+      "Time": "2022-09-21T07:30:54.508758+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 392
+    },
+    {
+      "Time": "2022-09-22T09:00:52.6638957+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 397
+    },
+    {
+      "Time": "2022-09-22T14:31:10.7220431+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 398
+    },
+    {
+      "Time": "2022-09-23T14:30:50.2009389+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": 401
+    },
+    {
+      "Time": "2022-09-24T13:06:18.9772687+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-09-25T09:01:01.4026912+00:00",
+      "Rating": 4.6
+    },
+    {
+      "Time": "2022-09-26T12:30:47.2371952+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-09-29T09:31:08.8497389+00:00",
+      "Rating": 4.6
+    },
+    {
+      "Time": "2022-10-01T22:31:57.054378+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-10-03T08:01:08.5996854+00:00",
+      "Rating": 4.6
+    },
+    {
+      "Time": "2022-10-03T19:31:37.6176328+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-10-04T21:30:54.2161184+00:00",
+      "Rating": 4.6
+    },
+    {
+      "Time": "2022-10-06T01:00:54.1973289+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-10-13T04:00:47.4014567+00:00",
+      "Rating": 4.6
+    },
+    {
+      "Time": "2022-10-14T04:00:48.2158883+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-10-24T03:30:55.6140732+00:00",
+      "Rating": 4.6
+    },
+    {
+      "Time": "2022-10-25T03:31:19.0547315+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-10-29T14:31:33.289645+00:00",
+      "Rating": 4.58
+    },
+    {
+      "Time": "2022-10-29T22:31:01.2474331+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-10-31T15:31:32.733931+00:00",
+      "Rating": 4.58
+    },
+    {
+      "Time": "2022-11-03T08:00:56.2646701+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-11-03T12:01:58.6664573+00:00",
+      "Rating": 4.58
+    },
+    {
+      "Time": "2022-11-03T21:31:37.761008+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2022-11-10T05:57:04.1391537+00:00",
+      "Rating": 4.58
+    },
+    {
+      "Time": "2023-04-11T19:57:25.2445974+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-12T19:57:15.9817586+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-16T11:57:20.5672354+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2023-04-20T11:57:11.6223842+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2023-04-29T16:59:24.1882636+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 203
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 272,
+  "NumberOfAwardsMax": 203,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -461,6 +613,11 @@
       "Count": 21
     }
   ],
+  "EOS_Progressed": 28247,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 665,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:26.2077116+00:00",
@@ -1601,613 +1758,462 @@
       "Time": "2023-05-05T16:08:03.3491783+00:00",
       "NumProgressed": 28243,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T17:09:42.890216+00:00",
+      "NumProgressed": 28247,
+      "NumCompleted": 3
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:20:36.9352359+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 172
-    },
-    {
-      "Time": "2022-07-23T16:00:50.2033778+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": 178
-    },
-    {
-      "Time": "2022-07-25T18:01:05.18956+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 182
-    },
-    {
-      "Time": "2022-07-26T04:01:17.1785569+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 183
-    },
-    {
-      "Time": "2022-07-27T00:00:45.6095616+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 185
-    },
-    {
-      "Time": "2022-07-27T02:01:32.9577511+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 183
-    },
-    {
-      "Time": "2022-07-27T04:00:48.2385205+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 185
-    },
-    {
-      "Time": "2022-07-27T22:01:02.2285679+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": 186
-    },
-    {
-      "Time": "2022-07-28T06:00:42.9306912+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 187
-    },
-    {
-      "Time": "2022-07-28T16:01:04.7771876+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 188
-    },
-    {
-      "Time": "2022-07-28T22:30:37.5989637+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 189
-    },
-    {
-      "Time": "2022-07-29T01:00:38.6151696+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": 190
-    },
-    {
-      "Time": "2022-07-29T22:30:41.9219232+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 195
-    },
-    {
-      "Time": "2022-07-30T00:00:44.1900837+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 196
-    },
-    {
-      "Time": "2022-07-30T05:00:55.4659294+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 197
-    },
-    {
-      "Time": "2022-07-30T13:00:55.9626566+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": 198
-    },
-    {
-      "Time": "2022-07-31T03:30:40.5364388+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 199
-    },
-    {
-      "Time": "2022-07-31T21:30:41.0395478+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 202
-    },
-    {
-      "Time": "2022-08-01T19:30:45.9249708+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 204
-    },
-    {
-      "Time": "2022-08-02T02:00:42.623898+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 208
-    },
-    {
-      "Time": "2022-08-03T13:01:21.7383965+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 212
-    },
-    {
-      "Time": "2022-08-04T14:30:51.9014832+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 213
-    },
-    {
-      "Time": "2022-08-05T09:00:45.8432734+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 214
-    },
-    {
-      "Time": "2022-08-05T23:30:44.6198607+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 217
-    },
-    {
-      "Time": "2022-08-06T23:31:04.7628553+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 224
-    },
-    {
-      "Time": "2022-08-07T12:30:52.5839896+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 229
-    },
-    {
-      "Time": "2022-08-08T01:00:46.4223523+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 231
-    },
-    {
-      "Time": "2022-08-08T03:00:42.7685671+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 232
-    },
-    {
-      "Time": "2022-08-08T06:30:44.4781032+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 233
-    },
-    {
-      "Time": "2022-08-09T09:01:01.2726057+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 236
-    },
-    {
-      "Time": "2022-08-09T22:31:15.1403934+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 237
-    },
-    {
-      "Time": "2022-08-10T14:30:44.7512668+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 241
-    },
-    {
-      "Time": "2022-08-11T17:30:49.0201766+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 242
-    },
-    {
-      "Time": "2022-08-11T19:31:03.9085259+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 244
-    },
-    {
-      "Time": "2022-08-11T22:00:48.5943104+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 245
-    },
-    {
-      "Time": "2022-08-12T08:30:51.5768311+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 247
-    },
-    {
-      "Time": "2022-08-13T08:30:45.9462938+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 249
-    },
-    {
-      "Time": "2022-08-13T23:00:44.5976206+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 250
-    },
-    {
-      "Time": "2022-08-14T11:00:48.4085678+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 252
-    },
-    {
-      "Time": "2022-08-15T08:30:57.654177+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 255
-    },
-    {
-      "Time": "2022-08-15T09:00:58.9949795+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 252
-    },
-    {
-      "Time": "2022-08-15T11:00:50.5648361+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 255
-    },
-    {
-      "Time": "2022-08-15T17:31:44.6301996+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 257
-    },
-    {
-      "Time": "2022-08-17T10:30:47.6776636+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 259
-    },
-    {
-      "Time": "2022-08-18T02:00:44.0082158+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 261
-    },
-    {
-      "Time": "2022-08-19T04:31:25.2149198+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 264
-    },
-    {
-      "Time": "2022-08-20T13:30:48.2852766+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 269
-    },
-    {
-      "Time": "2022-08-21T19:01:19.3412735+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 274
-    },
-    {
-      "Time": "2022-08-22T02:00:43.9367659+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 276
-    },
-    {
-      "Time": "2022-08-22T06:30:45.8490877+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 277
-    },
-    {
-      "Time": "2022-08-23T04:00:56.9623669+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 281
-    },
-    {
-      "Time": "2022-08-23T04:31:24.8622613+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 277
-    },
-    {
-      "Time": "2022-08-23T06:31:33.0233797+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 282
-    },
-    {
-      "Time": "2022-08-24T04:00:42.8697177+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 284
-    },
-    {
-      "Time": "2022-08-24T16:30:45.9129305+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 285
-    },
-    {
-      "Time": "2022-08-26T01:30:46.8508341+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 290
-    },
-    {
-      "Time": "2022-08-27T10:30:50.75134+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 292
-    },
-    {
-      "Time": "2022-08-28T03:01:03.8831085+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 295
-    },
-    {
-      "Time": "2022-08-29T13:01:28.6135678+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 301
-    },
-    {
-      "Time": "2022-08-30T17:01:26.2138367+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 305
-    },
-    {
-      "Time": "2022-08-30T23:05:33.2789385+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 306
-    },
-    {
-      "Time": "2022-08-31T15:30:49.3957508+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 308
-    },
-    {
-      "Time": "2022-09-02T14:30:51.5391792+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 312
-    },
-    {
-      "Time": "2022-09-02T22:30:49.0304052+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 313
-    },
-    {
-      "Time": "2022-09-03T22:30:56.9547802+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 315
-    },
-    {
-      "Time": "2022-09-04T18:30:52.0840639+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 317
-    },
-    {
-      "Time": "2022-09-04T22:00:46.3649177+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 318
-    },
-    {
-      "Time": "2022-09-05T22:00:45.8691141+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 326
-    },
-    {
-      "Time": "2022-09-06T19:01:20.5743326+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 327
-    },
-    {
-      "Time": "2022-09-09T08:30:44.3149402+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 328
-    },
-    {
-      "Time": "2022-09-09T13:01:24.9761013+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": 330
-    },
-    {
-      "Time": "2022-09-10T12:30:44.8275774+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 336
-    },
-    {
-      "Time": "2022-09-11T01:30:57.2692256+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 341
-    },
-    {
-      "Time": "2022-09-11T08:30:57.3546729+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 342
-    },
-    {
-      "Time": "2022-09-11T23:00:56.61651+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 349
-    },
-    {
-      "Time": "2022-09-12T19:31:26.0080932+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 350
-    },
-    {
-      "Time": "2022-09-13T19:31:21.2447275+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 352
-    },
-    {
-      "Time": "2022-09-14T15:01:26.210209+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": 354
-    },
-    {
-      "Time": "2022-09-15T16:31:56.7944161+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 361
-    },
-    {
-      "Time": "2022-09-16T19:31:22.0881875+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 366
-    },
-    {
-      "Time": "2022-09-17T03:01:27.4715444+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 369
-    },
-    {
-      "Time": "2022-09-17T13:00:47.0367411+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": 371
-    },
-    {
-      "Time": "2022-09-18T13:01:04.6365492+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 375
-    },
-    {
-      "Time": "2022-09-18T14:01:19.7894732+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 376
-    },
-    {
-      "Time": "2022-09-19T12:30:49.9295518+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 384
-    },
-    {
-      "Time": "2022-09-19T18:01:20.8308288+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 385
-    },
-    {
-      "Time": "2022-09-19T20:31:39.6759573+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 387
-    },
-    {
-      "Time": "2022-09-20T16:30:50.6241524+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 389
-    },
-    {
-      "Time": "2022-09-21T07:30:54.508758+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 392
-    },
-    {
-      "Time": "2022-09-22T09:00:52.6638957+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 397
-    },
-    {
-      "Time": "2022-09-22T14:31:10.7220431+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 398
-    },
-    {
-      "Time": "2022-09-23T14:30:50.2009389+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": 401
-    },
-    {
-      "Time": "2022-09-24T13:06:18.9772687+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-09-25T09:01:01.4026912+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-09-26T12:30:47.2371952+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-09-29T09:31:08.8497389+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-10-01T22:31:57.054378+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-10-03T08:01:08.5996854+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-10-03T19:31:37.6176328+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-10-04T21:30:54.2161184+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-10-06T01:00:54.1973289+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-10-13T04:00:47.4014567+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-10-14T04:00:48.2158883+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-10-24T03:30:55.6140732+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-10-25T03:31:19.0547315+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-10-29T14:31:33.289645+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2022-10-29T22:31:01.2474331+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-10-31T15:31:32.733931+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2022-11-03T08:00:56.2646701+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-11-03T12:01:58.6664573+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2022-11-03T21:31:37.761008+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2022-11-10T05:57:04.1391537+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2023-04-11T19:57:25.2445974+00:00",
-      "Rating": 4.59,
-      "NumberOfAwards": 269,
-      "NumberOfAwardsMax": 201
-    },
-    {
-      "Time": "2023-04-12T19:57:15.9817586+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 269,
-      "NumberOfAwardsMax": 201
-    },
-    {
-      "Time": "2023-04-16T11:57:20.5672354+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 270,
-      "NumberOfAwardsMax": 202
-    },
-    {
-      "Time": "2023-04-20T11:57:11.6223842+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 271,
-      "NumberOfAwardsMax": 202
-    },
-    {
-      "Time": "2023-04-29T16:59:24.1882636+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 272,
-      "NumberOfAwardsMax": 203
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-05T16:08:03.3491775+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 669,
-  "EOS_Completed": 3,
-  "EOS_Progressed": 28243,
-  "LastUpdate_Achievements": "2023-05-05T16:08:03.3492323+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:51.5891965+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:50.8452478+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_abysschange",
+      "SetID": "ammcm",
+      "Name": "A zee-change",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 254
+    },
+    {
+      "ID": "ach_abysslady",
+      "SetID": "ammcm",
+      "Name": "The Lady\u0027s Parlour",
+      "Percentage": 0.2,
+      "XP": 70,
+      "UsersEstimate": 56
+    },
+    {
+      "ID": "ach_admirality10",
+      "SetID": "ammcm",
+      "Name": "Rules the Waves",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 4802
+    },
+    {
+      "ID": "ach_antiquarian10",
+      "SetID": "ammcm",
+      "Name": "Old Unhappy Far-Off Things",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 1130
+    },
+    {
+      "ID": "ach_combuoy",
+      "SetID": "ammcm",
+      "Name": "A buoyant escape",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_constant",
+      "SetID": "ammcm",
+      "Name": "What lies beneath",
+      "Percentage": 0.8,
+      "XP": 10,
+      "UsersEstimate": 226
+    },
+    {
+      "ID": "ach_contdrownie",
+      "SetID": "ammcm",
+      "Name": "A Drownie devotee",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "ach_controman",
+      "SetID": "ammcm",
+      "Name": "Romans 6:9",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "ach_cursesalt",
+      "SetID": "ammcm",
+      "Name": "Salt\u0027s Curse",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 3107
+    },
+    {
+      "ID": "ach_cursestone",
+      "SetID": "ammcm",
+      "Name": "Stone\u0027s Curse",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "ach_cursestorm",
+      "SetID": "ammcm",
+      "Name": "Storm\u0027s Curse",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 847
+    },
+    {
+      "ID": "ach_dawnmachine",
+      "SetID": "ammcm",
+      "Name": "HE SUN THE SUN THE SUN T",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 3107
+    },
+    {
+      "ID": "ach_deathofermod",
+      "SetID": "ammcm",
+      "Name": "Ofermod",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "ach_deathphlebas",
+      "SetID": "ammcm",
+      "Name": "Consider Phlebas",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "ach_deathwat",
+      "SetID": "ammcm",
+      "Name": "Death By Water",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "ach_die1",
+      "SetID": "ammcm",
+      "Name": "Sink Beneath the Waves",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 10169
+    },
+    {
+      "ID": "ach_die10",
+      "SetID": "ammcm",
+      "Name": "Never Stop Sinking...",
+      "Percentage": 0.9,
+      "XP": 20,
+      "UsersEstimate": 254
+    },
+    {
+      "ID": "ach_die5",
+      "SetID": "ammcm",
+      "Name": "Sink Beneath the Waves. Again.",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 1412
+    },
+    {
+      "ID": "ach_dive",
+      "SetID": "ammcm",
+      "Name": "Frightful, sheer, no-man-fathomed",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_dreadnaught",
+      "SetID": "ammcm",
+      "Name": "We\u0027re Gonna Need a Bigger Boat",
+      "Percentage": 3,
+      "XP": 70,
+      "UsersEstimate": 847
+    },
+    {
+      "ID": "ach_eye",
+      "SetID": "ammcm",
+      "Name": "Roaring Rise",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 565
+    },
+    {
+      "ID": "ach_hunterskeep",
+      "SetID": "ammcm",
+      "Name": "The Fall of the House",
+      "Percentage": 11,
+      "XP": 20,
+      "UsersEstimate": 3107
+    },
+    {
+      "ID": "ach_invictus",
+      "SetID": "ammcm",
+      "Name": "I am the Captain of my Soul",
+      "Percentage": 2,
+      "XP": 70,
+      "UsersEstimate": 565
+    },
+    {
+      "ID": "ach_ladylilac",
+      "SetID": "ammcm",
+      "Name": "Come Closer",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 847
+    },
+    {
+      "ID": "ach_legacycorrespondent",
+      "SetID": "ammcm",
+      "Name": "Correspondent",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 3390
+    },
+    {
+      "ID": "ach_legacypupil",
+      "SetID": "ammcm",
+      "Name": "Pupil",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1977
+    },
+    {
+      "ID": "ach_legacyrival",
+      "SetID": "ammcm",
+      "Name": "Rival",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 3955
+    },
+    {
+      "ID": "ach_legacysalvager",
+      "SetID": "ammcm",
+      "Name": "Salvager",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1977
+    },
+    {
+      "ID": "ach_legacyshipmate",
+      "SetID": "ammcm",
+      "Name": "Shipmate",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 3107
+    },
+    {
+      "ID": "ach_newstories",
+      "SetID": "ammcm",
+      "Name": "Open Your Ears",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1977
+    },
+    {
+      "ID": "ach_portbell",
+      "SetID": "ammcm",
+      "Name": "The Bell Tolls",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portbones",
+      "SetID": "ammcm",
+      "Name": "His bones in whispers",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portdeep",
+      "SetID": "ammcm",
+      "Name": "The beauty of the deep",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portdragon",
+      "SetID": "ammcm",
+      "Name": "The dragon in the zee",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portfish",
+      "SetID": "ammcm",
+      "Name": "Thanks for all the fish",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portknife",
+      "SetID": "ammcm",
+      "Name": "Knife, Cup and Bone",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portleviathan",
+      "SetID": "ammcm",
+      "Name": "Leviathan",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 254
+    },
+    {
+      "ID": "ach_portpearls",
+      "SetID": "ammcm",
+      "Name": "Those are pearls that were his eyes",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portregret",
+      "SetID": "ammcm",
+      "Name": "No regrets",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portrose",
+      "SetID": "ammcm",
+      "Name": "Rosewater sailor",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_portunder",
+      "SetID": "ammcm",
+      "Name": "Under the zee",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_scion",
+      "SetID": "ammcm",
+      "Name": "Zee Fever",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 1412
+    },
+    {
+      "ID": "ach_stranger",
+      "SetID": "ammcm",
+      "Name": "A Past Wreathed in Shadows",
+      "Percentage": 0.2,
+      "XP": 20,
+      "UsersEstimate": 56
+    },
+    {
+      "ID": "ach_surface",
+      "SetID": "ammcm",
+      "Name": "The Ascent of Man",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 2260
+    },
+    {
+      "ID": "ach_sweetheart",
+      "SetID": "ammcm",
+      "Name": "Sweet Sorrow",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 5367
+    },
+    {
+      "ID": "ach_terror100",
+      "SetID": "ammcm",
+      "Name": "Lose Your Mind",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 3390
+    },
+    {
+      "ID": "ach_terror90",
+      "SetID": "ammcm",
+      "Name": "Thou, All-Shaking Thunder",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 4520
+    },
+    {
+      "ID": "ach_undercurrent",
+      "SetID": "ammcm",
+      "Name": "A current under zee",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 282
+    },
+    {
+      "ID": "ach_underdepth",
+      "SetID": "ammcm",
+      "Name": "Depth charge",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 254
+    },
+    {
+      "ID": "ach_underpressure",
+      "SetID": "ammcm",
+      "Name": "Under pressure",
+      "Percentage": 0.2,
+      "XP": 70,
+      "UsersEstimate": 56
+    },
+    {
+      "ID": "ach_will",
+      "SetID": "ammcm",
+      "Name": "Sound Mind?",
+      "Percentage": 12,
+      "XP": 20,
+      "UsersEstimate": 3390
+    },
+    {
+      "ID": "ach_year1",
+      "SetID": "ammcm",
+      "Name": "One Year at Zee",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 2260
+    },
+    {
+      "ID": "ach_year10",
+      "SetID": "ammcm",
+      "Name": "Ten Years at Zee",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "ach_year5",
+      "SetID": "ammcm",
+      "Name": "Five Years at Zee",
+      "Percentage": 0.5,
+      "XP": 20,
+      "UsersEstimate": 141
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28243,
+      "Progressed": 28247,
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 0.01,
-  "LastChanged": "2023-04-29T16:59:24.1882634+00:00",
-  "ProductSlug": "sunless-sea",
-  "Rating": 4.58,
-  "Ranking_Rating": 414,
-  "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 330,
-  "Ranking_EOS_Progress": 83,
-  "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 401,
-  "NumberOfAwards": 272,
-  "NumberOfAwardsMax": 203,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "Ranking_EOS_NewPlayers": 68
+  "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
+  "LastChanged": "2023-04-29T16:59:24.1882634+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:42.8902156+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:46.8537665+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:43.5528013+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:42.8902661+00:00"
 }

@@ -1,16 +1,16 @@
 {
   "ID": "39c6dd5409944922a04cac3f59fbbcd4",
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 68
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "shadow-tactics-aikos-choice-5678c1",
+  "Ranking_Rating": 166,
+  "Ranking_Popularity": 364,
+  "Ranking_PopularitySum": 419,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.72,
+  "NumberOfRatings": 68,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:07.8581551+00:00",
@@ -360,16 +360,27 @@
       "NumberOfAwardsMax": 68
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:07:35.6552151+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 68,
+  "NumberOfAwardsMax": 68,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 68
+    }
+  ],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:35.6552369+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:34.8563885+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:58.0689176+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "dhhl8hj",
@@ -378,21 +389,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-18T17:59:09.7079363+00:00",
-  "ProductSlug": "shadow-tactics-aikos-choice-5678c1",
-  "Rating": 4.72,
-  "Ranking_Rating": 166,
-  "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 419,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:14:29.6758612+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 68,
-  "NumberOfAwards": 68,
-  "NumberOfAwardsMax": 68,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:14:29.6758612+00:00",
+  "LastChanged": "2023-04-18T17:59:09.7079363+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:22.4258243+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:51.720387+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:52.4344667+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:22.4258276+00:00"
 }

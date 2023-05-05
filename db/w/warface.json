@@ -1,76 +1,16 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 319
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 335
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 336
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 387
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 146
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 362
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 373
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 340
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 266
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 317
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "",
-      "Type": "",
-      "Count": 277
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "warface",
+  "Ranking_Rating": 893,
+  "Ranking_Popularity": 202,
+  "Ranking_PopularitySum": 160,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 3.92,
+  "NumberOfRatings": 3179,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2611,30 +2551,91 @@
       "NumberOfAwardsMax": 387
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:19.1646215+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:01.9869965+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:57.76164+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T20:59:45.0264278+00:00",
-  "ProductSlug": "warface",
-  "Rating": 3.92,
-  "Ranking_Rating": 893,
-  "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 160,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 3179,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 2716,
   "NumberOfAwardsMax": 387,
   "MaxAwardTitle": "Relaxing",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 319
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 335
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 336
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 387
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
+      "Count": 146
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 362
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 373
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 340
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 266
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 317
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
+      "Count": 277
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-04T20:59:45.0264278+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:54.9437183+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:50.6569265+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:30.2099332+00:00"
 }

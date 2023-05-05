@@ -1,6 +1,52 @@
 {
   "ID": "af216ef873a244c6b0c22ea798de1aef",
   "Name": "The Galactic Junkers",
+  "ProductSlug": "the-galactic-junkers-7fef21",
+  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:44.0451515+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 23,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:41.2389408+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T02:03:45.333446+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T17:04:42.864869+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T22:03:47.9209653+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "A_Board_10_Ships",
@@ -187,47 +233,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:41.2389408+00:00",
-      "NumProgressed": 20,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T02:03:45.333446+00:00",
-      "NumProgressed": 21,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T17:04:42.864869+00:00",
-      "NumProgressed": 22,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T22:03:47.9209653+00:00",
-      "NumProgressed": 23,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:44.0451515+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-05T16:07:49.5609091+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 23,
-  "LastUpdate_Achievements": "2023-05-05T16:07:49.5609268+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:58.3776709+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:14.7330928+00:00",
   "AchievementSets": [
     {
       "ID": "56632p4",
@@ -236,16 +241,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
-  "ProductSlug": "the-galactic-junkers-7fef21",
-  "Ranking_EOS_Progress": 288,
-  "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-11T17:10:59.3040461+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
+  "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:32.7717413+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:08.5642859+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:07.4966257+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:32.7717597+00:00"
 }

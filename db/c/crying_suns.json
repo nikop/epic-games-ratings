@@ -1,528 +1,527 @@
 {
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
-  "Achievements": [
-    {
-      "ID": "achievement_expedition_overcome_mech",
-      "SetID": "8cokdon",
-      "Name": "Knightmare Frames",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 68592
+  "ProductSlug": "crying-suns",
+  "Ranking_Rating": 531,
+  "Ranking_Popularity": 252,
+  "Ranking_PopularitySum": 347,
+  "Ranking_EOS_Progress": 28,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.5,
+  "NumberOfRatings": 1003,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:24:25.9606457+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 491
+    },
+    {
+      "Time": "2022-07-22T22:03:34.282038+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 493
+    },
+    {
+      "Time": "2022-07-23T22:01:25.0390666+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 502
+    },
+    {
+      "Time": "2022-07-24T12:01:14.8090782+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 503
+    },
+    {
+      "Time": "2022-07-25T00:01:27.4935605+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 504
+    },
+    {
+      "Time": "2022-07-25T16:01:52.5145108+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 507
+    },
+    {
+      "Time": "2022-07-26T12:01:41.6079392+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 514
+    },
+    {
+      "Time": "2022-07-27T12:01:35.0320241+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 524
+    },
+    {
+      "Time": "2022-07-27T18:01:32.9734917+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 529
+    },
+    {
+      "Time": "2022-07-28T18:04:16.9201784+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 537
+    },
+    {
+      "Time": "2022-07-29T18:01:50.7931045+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 545
+    },
+    {
+      "Time": "2022-07-30T18:01:26.187473+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 554
+    },
+    {
+      "Time": "2022-07-31T18:01:15.0203439+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 565
+    },
+    {
+      "Time": "2022-07-31T21:31:08.6352447+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 566
+    },
+    {
+      "Time": "2022-08-01T03:01:08.4136253+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 567
+    },
+    {
+      "Time": "2022-08-02T03:01:13.1230287+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 574
+    },
+    {
+      "Time": "2022-08-02T14:31:16.4995713+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 579
+    },
+    {
+      "Time": "2022-08-03T14:31:47.3398897+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 585
+    },
+    {
+      "Time": "2022-08-03T20:31:18.8784401+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 586
+    },
+    {
+      "Time": "2022-08-05T02:31:25.6323692+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 600
+    },
+    {
+      "Time": "2022-08-05T19:01:44.1253593+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 607
+    },
+    {
+      "Time": "2022-08-06T10:32:13.7187674+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 614
+    },
+    {
+      "Time": "2022-08-06T18:31:16.1466251+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 618
+    },
+    {
+      "Time": "2022-08-07T18:31:19.064473+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 629
+    },
+    {
+      "Time": "2022-08-08T11:01:14.7809477+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": 633
+    },
+    {
+      "Time": "2022-08-09T11:01:41.511991+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 642
+    },
+    {
+      "Time": "2022-08-10T11:03:08.9353015+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 654
+    },
+    {
+      "Time": "2022-08-11T11:01:51.0167332+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 663
+    },
+    {
+      "Time": "2022-08-12T11:01:59.4192671+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 668
+    },
+    {
+      "Time": "2022-08-13T09:31:15.1312591+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 672
+    },
+    {
+      "Time": "2022-08-14T09:31:14.376193+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 682
+    },
+    {
+      "Time": "2022-08-14T21:01:16.2855225+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 692
+    },
+    {
+      "Time": "2022-08-15T21:01:47.4548531+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 700
+    },
+    {
+      "Time": "2022-08-16T19:32:11.5800262+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 706
+    },
+    {
+      "Time": "2022-08-17T20:01:49.1677402+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 712
+    },
+    {
+      "Time": "2022-08-18T00:31:12.15858+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 715
+    },
+    {
+      "Time": "2022-08-18T11:31:17.4982979+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 718
+    },
+    {
+      "Time": "2022-08-19T08:31:29.0380062+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 726
     },
-    {
-      "ID": "achievement_expedition_overcome_sandworm",
-      "SetID": "8cokdon",
-      "Name": "May His passing cleanse the world",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 68592
+    {
+      "Time": "2022-08-20T08:31:12.2160719+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 735
+    },
+    {
+      "Time": "2022-08-20T12:31:12.4635841+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 737
+    },
+    {
+      "Time": "2022-08-21T09:31:25.1595418+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 747
+    },
+    {
+      "Time": "2022-08-22T01:01:16.0799757+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 755
+    },
+    {
+      "Time": "2022-08-22T13:31:16.7526064+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 760
+    },
+    {
+      "Time": "2022-08-23T08:01:38.9062587+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 761
+    },
+    {
+      "Time": "2022-08-23T08:31:29.9848765+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 760
+    },
+    {
+      "Time": "2022-08-23T13:31:14.7967896+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 763
+    },
+    {
+      "Time": "2022-08-23T16:31:13.5573672+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 764
+    },
+    {
+      "Time": "2022-08-24T10:31:13.559681+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 769
     },
-    {
-      "ID": "achievement_first_death",
-      "SetID": "8cokdon",
-      "Name": "In space, no one can hear you scream",
-      "Percentage": 23,
-      "XP": 10,
-      "UsersEstimate": 105175
+    {
+      "Time": "2022-08-25T00:01:21.3203237+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 774
+    },
+    {
+      "Time": "2022-08-26T00:01:15.2840613+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 780
+    },
+    {
+      "Time": "2022-08-27T00:02:10.3511075+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 782
+    },
+    {
+      "Time": "2022-08-27T20:01:17.1182537+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 787
     },
-    {
-      "ID": "achievement_story_complete_chapter_1",
-      "SetID": "8cokdon",
-      "Name": "Chapter I: Echoes",
-      "Percentage": 22,
-      "XP": 15,
-      "UsersEstimate": 100602
+    {
+      "Time": "2022-08-28T10:31:17.6271561+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 789
     },
-    {
-      "ID": "achievement_story_complete_chapter_2",
-      "SetID": "8cokdon",
-      "Name": "Chapter II: Fallible Flesh",
-      "Percentage": 15,
-      "XP": 15,
-      "UsersEstimate": 68592
+    {
+      "Time": "2022-08-29T10:31:15.4986695+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 796
     },
-    {
-      "ID": "achievement_story_complete_chapter_3",
-      "SetID": "8cokdon",
-      "Name": "Chapter III: The Man Who Sold the World",
-      "Percentage": 10,
-      "XP": 15,
-      "UsersEstimate": 45728
+    {
+      "Time": "2022-08-30T07:31:54.0622292+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 803
     },
-    {
-      "ID": "achievement_story_complete_chapter_4",
-      "SetID": "8cokdon",
-      "Name": "Chapter IV: Through the Looking Glass",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 36583
+    {
+      "Time": "2022-08-31T07:31:28.7935996+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 808
     },
-    {
-      "ID": "achievement_story_complete_chapter_5",
-      "SetID": "8cokdon",
-      "Name": "Chapter V: Memories of None",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-08-31T15:01:26.4226432+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 813
     },
-    {
-      "ID": "achievement_story_ending_earth",
-      "SetID": "8cokdon",
-      "Name": "A Rock in the Dark",
-      "Percentage": 1,
-      "XP": 35,
-      "UsersEstimate": 4573
+    {
+      "Time": "2022-09-01T04:01:13.0861825+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 818
     },
-    {
-      "ID": "achievement_story_ending_emperor",
-      "SetID": "8cokdon",
-      "Name": "Emperor of Misery",
-      "Percentage": 1,
-      "XP": 35,
-      "UsersEstimate": 4573
+    {
+      "Time": "2022-09-01T16:01:20.808013+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 821
     },
-    {
-      "ID": "achievement_story_ending_rebecca",
-      "SetID": "8cokdon",
-      "Name": "A Frozen Lady",
-      "Percentage": 1,
-      "XP": 35,
-      "UsersEstimate": 4573
+    {
+      "Time": "2022-09-02T04:31:34.6916218+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": 823
     },
-    {
-      "ID": "achievement_story_event_bowie_ended",
-      "SetID": "8cokdon",
-      "Name": "The Shutdown",
-      "Percentage": 66,
-      "XP": 10,
-      "UsersEstimate": 301807
+    {
+      "Time": "2022-09-02T12:31:23.146372+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 827
     },
-    {
-      "ID": "achievement_story_landa",
-      "SetID": "8cokdon",
-      "Name": "Kill the Doctor",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 22864
+    {
+      "Time": "2022-09-02T17:01:56.2547285+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 830
     },
-    {
-      "ID": "achievement_story_meet_cryo_rebecca",
-      "SetID": "8cokdon",
-      "Name": "Forsaken",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 22864
+    {
+      "Time": "2022-09-03T08:01:20.381064+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 837
     },
-    {
-      "ID": "achievement_story_meet_idaho_b",
-      "SetID": "8cokdon",
-      "Name": "Through the mirror",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 36583
+    {
+      "Time": "2022-09-03T13:31:20.8291169+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 838
     },
-    {
-      "ID": "achievement_story_meet_mother",
-      "SetID": "8cokdon",
-      "Name": "Mother",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 114321
+    {
+      "Time": "2022-09-04T15:01:24.4097267+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 848
     },
-    {
-      "ID": "achievement_story_meet_oberon",
-      "SetID": "8cokdon",
-      "Name": "Meet your maker",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-05T05:31:13.3168349+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 854
     },
-    {
-      "ID": "achievement_story_meet_okonkwo",
-      "SetID": "8cokdon",
-      "Name": "Admiral Okonkwo",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 32010
+    {
+      "Time": "2022-09-05T19:01:20.5410596+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 859
     },
-    {
-      "ID": "achievement_story_meet_survivalists",
-      "SetID": "8cokdon",
-      "Name": "The Survivalists",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 32010
+    {
+      "Time": "2022-09-06T02:31:13.2418806+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 862
     },
-    {
-      "ID": "achievement_story_meet_tetsuo",
-      "SetID": "8cokdon",
-      "Name": "Tetsuo",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 50301
+    {
+      "Time": "2022-09-06T21:01:47.5392309+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 869
     },
-    {
-      "ID": "achievement_story_meet_vivar",
-      "SetID": "8cokdon",
-      "Name": "General Vivar",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 36583
+    {
+      "Time": "2022-09-07T21:02:05.3561129+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 875
     },
-    {
-      "ID": "achievement_story_meet_zenon",
-      "SetID": "8cokdon",
-      "Name": "Pope Zenon",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 68592
+    {
+      "Time": "2022-09-09T06:31:15.1172159+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 884
     },
-    {
-      "ID": "achievement_story_neon_child",
-      "SetID": "8cokdon",
-      "Name": "Things persisted in not being what they seemed",
-      "Percentage": 20,
-      "XP": 10,
-      "UsersEstimate": 91457
+    {
+      "Time": "2022-09-09T23:31:37.7628485+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 887
     },
-    {
-      "ID": "achievement_story_second_awakening",
-      "SetID": "8cokdon",
-      "Name": "Second Coming",
-      "Percentage": 33,
-      "XP": 10,
-      "UsersEstimate": 150903
+    {
+      "Time": "2022-09-10T23:31:26.3661295+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 902
     },
-    {
-      "ID": "achievement_story_see_ganyma",
-      "SetID": "8cokdon",
-      "Name": "Back to Ganyma",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 36583
+    {
+      "Time": "2022-09-11T17:31:37.9223814+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 904
     },
-    {
-      "ID": "achievement_story_spare_oberon",
-      "SetID": "8cokdon",
-      "Name": "Mercy",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 22864
+    {
+      "Time": "2022-09-12T17:01:27.2599469+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 915
     },
-    {
-      "ID": "achievement_unlock_officer_as_1",
-      "SetID": "8cokdon",
-      "Name": "The Impersonator",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-13T03:31:16.550616+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 916
     },
-    {
-      "ID": "achievement_unlock_officer_as_2",
-      "SetID": "8cokdon",
-      "Name": "The Kid",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-14T03:31:14.6868819+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 924
     },
-    {
-      "ID": "achievement_unlock_officer_church_1",
-      "SetID": "8cokdon",
-      "Name": "The Evangelist",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-14T15:01:56.5886259+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 927
     },
-    {
-      "ID": "achievement_unlock_officer_church_2",
-      "SetID": "8cokdon",
-      "Name": "The Inquisitor",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-14T21:02:01.4446546+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 929
     },
-    {
-      "ID": "achievement_unlock_officer_empire_1",
-      "SetID": "8cokdon",
-      "Name": "The Tech Specialist",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 32010
+    {
+      "Time": "2022-09-15T19:31:37.4869632+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 935
     },
-    {
-      "ID": "achievement_unlock_officer_empire_2",
-      "SetID": "8cokdon",
-      "Name": "The Ace Pilot",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-16T20:02:02.8866343+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 944
     },
-    {
-      "ID": "achievement_unlock_officer_kb_1",
-      "SetID": "8cokdon",
-      "Name": "The Tech Med",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-17T02:01:35.869919+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 945
     },
-    {
-      "ID": "achievement_unlock_officer_kb_2",
-      "SetID": "8cokdon",
-      "Name": "The Mech Soldier",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-17T05:31:35.6717145+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 946
     },
-    {
-      "ID": "achievement_unlock_officer_kickstarter_1",
-      "SetID": "8cokdon",
-      "Name": "The lucky charm",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-17T22:01:22.1520831+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 956
     },
-    {
-      "ID": "achievement_unlock_officer_pirate_1",
-      "SetID": "8cokdon",
-      "Name": "The Anonymous",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-18T14:31:20.7031932+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 963
     },
-    {
-      "ID": "achievement_unlock_officer_pirate_2",
-      "SetID": "8cokdon",
-      "Name": "The Smuggler",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-18T17:31:22.6114801+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 965
     },
-    {
-      "ID": "achievement_unlock_officer_scrapper_1",
-      "SetID": "8cokdon",
-      "Name": "The Crazy Repairman",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-19T13:02:03.7848498+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 973
     },
-    {
-      "ID": "achievement_unlock_officer_scrapper_2",
-      "SetID": "8cokdon",
-      "Name": "The Weasel",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 27437
+    {
+      "Time": "2022-09-19T18:31:44.8060437+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 976
     },
-    {
-      "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Liberator",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-09-20T00:31:30.853401+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": 982
     },
-    {
-      "ID": "achievement_win_all_chapers_with_all_bs_hard",
-      "SetID": "8cokdon",
-      "Name": "The Art of War",
-      "Percentage": 0.1,
-      "XP": 100,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-09-21T00:31:20.9782593+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 992
     },
-    {
-      "ID": "achievement_win_all_chapers_with_as_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Geno Mastery",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-09-21T05:01:18.5607123+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 993
     },
-    {
-      "ID": "achievement_win_all_chapers_with_as_hard",
-      "SetID": "8cokdon",
-      "Name": "Geno Supremacy",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-09-22T00:02:04.7961984+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 999
     },
-    {
-      "ID": "achievement_win_all_chapers_with_church_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Jericho Mastery",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-09-22T16:31:25.7883187+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": 1003
     },
-    {
-      "ID": "achievement_win_all_chapers_with_church_hard",
-      "SetID": "8cokdon",
-      "Name": "Jericho Supremacy",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-09-27T08:02:42.6772779+00:00",
+      "Rating": 4.49
     },
-    {
-      "ID": "achievement_win_all_chapers_with_kb_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Hammer Mastery",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-10-15T07:01:33.9817852+00:00",
+      "Rating": 4.5
     },
-    {
-      "ID": "achievement_win_all_chapers_with_kb_hard",
-      "SetID": "8cokdon",
-      "Name": "Hammer Supremacy",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-10-16T14:31:20.9011717+00:00",
+      "Rating": 4.49
     },
-    {
-      "ID": "achievement_win_all_chapers_with_pirate_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Void Mastery",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-10-18T21:01:56.9228934+00:00",
+      "Rating": 4.5
     },
-    {
-      "ID": "achievement_win_all_chapers_with_pirate_hard",
-      "SetID": "8cokdon",
-      "Name": "Void Supremacy",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-10-19T04:01:20.9780771+00:00",
+      "Rating": 4.49
     },
-    {
-      "ID": "achievement_win_all_chapers_with_scrapper_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Kaos Mastery",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-10-20T12:02:09.9513486+00:00",
+      "Rating": 4.5
     },
-    {
-      "ID": "achievement_win_all_chapers_with_scrapper_hard",
-      "SetID": "8cokdon",
-      "Name": "Kaos Supremacy",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
+    {
+      "Time": "2022-11-10T17:57:38.9075859+00:00",
+      "Rating": 4.49
     },
-    {
-      "ID": "achievement_win_all_chapers_with_starter_easy_normal",
-      "SetID": "8cokdon",
-      "Name": "Excelsior Mastery",
-      "Percentage": 0.8,
-      "XP": 20,
-      "UsersEstimate": 3658
+    {
+      "Time": "2023-04-10T19:57:56.6673791+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 208
     },
-    {
-      "ID": "achievement_win_all_chapers_with_starter_hard",
-      "SetID": "8cokdon",
-      "Name": "Excelsior Supremacy",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 457
-    },
-    {
-      "ID": "achievement_win_boss_sector_1",
-      "SetID": "8cokdon",
-      "Name": "Jeef Skeejj",
-      "Percentage": 44,
-      "XP": 10,
-      "UsersEstimate": 201205
-    },
-    {
-      "ID": "achievement_win_boss_sector_2",
-      "SetID": "8cokdon",
-      "Name": "Jeef Skagg",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 137185
-    },
-    {
-      "ID": "achievement_win_expedition_all_commandos_dead",
-      "SetID": "8cokdon",
-      "Name": "Survivor",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 9146
-    },
-    {
-      "ID": "achievement_win_expedition_with_monster_noloss",
-      "SetID": "8cokdon",
-      "Name": "Plan for the worst",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 50301
-    },
-    {
-      "ID": "achievement_win_expedition_without_monster_noloss",
-      "SetID": "8cokdon",
-      "Name": "Careful planning",
-      "Percentage": 39,
-      "XP": 10,
-      "UsersEstimate": 178340
-    },
-    {
-      "ID": "achievement_win_run_hard",
-      "SetID": "8cokdon",
-      "Name": "The greatest admiral of all time",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 2286
-    },
-    {
-      "ID": "achievement_win_run_with_as",
-      "SetID": "8cokdon",
-      "Name": "Geno Rule",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 13718
-    },
-    {
-      "ID": "achievement_win_run_with_church",
-      "SetID": "8cokdon",
-      "Name": "Jericho Rule",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 22864
-    },
-    {
-      "ID": "achievement_win_run_with_kb",
-      "SetID": "8cokdon",
-      "Name": "Hammer Rule",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 13718
-    },
-    {
-      "ID": "achievement_win_run_with_pirate",
-      "SetID": "8cokdon",
-      "Name": "Void Rule",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 4573
-    },
-    {
-      "ID": "achievement_win_run_with_scrapper",
-      "SetID": "8cokdon",
-      "Name": "Kaos Rule",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 36583
-    },
-    {
-      "ID": "achievement_win_run_with_starter",
-      "SetID": "8cokdon",
-      "Name": "Excelsior Rule",
-      "Percentage": 22,
-      "XP": 10,
-      "UsersEstimate": 100602
+    {
+      "Time": "2023-04-18T05:57:41.4584943+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 209
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 209,
+  "NumberOfAwardsMax": 209,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -531,6 +530,11 @@
       "Count": 209
     }
   ],
+  "EOS_Progressed": 457286,
+  "EOS_Completed": 14,
+  "EOS_NewPlayers": 522,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:13.4102446+00:00",
@@ -1601,554 +1605,556 @@
       "Time": "2023-05-05T15:05:10.6539343+00:00",
       "NumProgressed": 457283,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-05T17:09:38.6803335+00:00",
+      "NumProgressed": 457286,
+      "NumCompleted": 14
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:24:25.9606457+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 491
-    },
-    {
-      "Time": "2022-07-22T22:03:34.282038+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 493
-    },
-    {
-      "Time": "2022-07-23T22:01:25.0390666+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 502
-    },
-    {
-      "Time": "2022-07-24T12:01:14.8090782+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 503
-    },
-    {
-      "Time": "2022-07-25T00:01:27.4935605+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 504
-    },
-    {
-      "Time": "2022-07-25T16:01:52.5145108+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 507
-    },
-    {
-      "Time": "2022-07-26T12:01:41.6079392+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 514
-    },
-    {
-      "Time": "2022-07-27T12:01:35.0320241+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 524
-    },
-    {
-      "Time": "2022-07-27T18:01:32.9734917+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 529
-    },
-    {
-      "Time": "2022-07-28T18:04:16.9201784+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 537
-    },
-    {
-      "Time": "2022-07-29T18:01:50.7931045+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 545
-    },
-    {
-      "Time": "2022-07-30T18:01:26.187473+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 554
-    },
-    {
-      "Time": "2022-07-31T18:01:15.0203439+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 565
-    },
-    {
-      "Time": "2022-07-31T21:31:08.6352447+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 566
-    },
-    {
-      "Time": "2022-08-01T03:01:08.4136253+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 567
-    },
-    {
-      "Time": "2022-08-02T03:01:13.1230287+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 574
-    },
-    {
-      "Time": "2022-08-02T14:31:16.4995713+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 579
-    },
-    {
-      "Time": "2022-08-03T14:31:47.3398897+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 585
-    },
-    {
-      "Time": "2022-08-03T20:31:18.8784401+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 586
-    },
-    {
-      "Time": "2022-08-05T02:31:25.6323692+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 600
-    },
-    {
-      "Time": "2022-08-05T19:01:44.1253593+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 607
-    },
-    {
-      "Time": "2022-08-06T10:32:13.7187674+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 614
-    },
-    {
-      "Time": "2022-08-06T18:31:16.1466251+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 618
-    },
-    {
-      "Time": "2022-08-07T18:31:19.064473+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 629
-    },
-    {
-      "Time": "2022-08-08T11:01:14.7809477+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": 633
-    },
-    {
-      "Time": "2022-08-09T11:01:41.511991+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 642
-    },
-    {
-      "Time": "2022-08-10T11:03:08.9353015+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 654
-    },
-    {
-      "Time": "2022-08-11T11:01:51.0167332+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 663
-    },
-    {
-      "Time": "2022-08-12T11:01:59.4192671+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 668
-    },
-    {
-      "Time": "2022-08-13T09:31:15.1312591+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 672
-    },
-    {
-      "Time": "2022-08-14T09:31:14.376193+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 682
-    },
-    {
-      "Time": "2022-08-14T21:01:16.2855225+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 692
-    },
-    {
-      "Time": "2022-08-15T21:01:47.4548531+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 700
-    },
-    {
-      "Time": "2022-08-16T19:32:11.5800262+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 706
-    },
-    {
-      "Time": "2022-08-17T20:01:49.1677402+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 712
-    },
-    {
-      "Time": "2022-08-18T00:31:12.15858+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 715
-    },
-    {
-      "Time": "2022-08-18T11:31:17.4982979+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 718
-    },
-    {
-      "Time": "2022-08-19T08:31:29.0380062+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 726
-    },
-    {
-      "Time": "2022-08-20T08:31:12.2160719+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 735
-    },
-    {
-      "Time": "2022-08-20T12:31:12.4635841+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 737
-    },
-    {
-      "Time": "2022-08-21T09:31:25.1595418+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 747
-    },
-    {
-      "Time": "2022-08-22T01:01:16.0799757+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 755
-    },
-    {
-      "Time": "2022-08-22T13:31:16.7526064+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 760
-    },
-    {
-      "Time": "2022-08-23T08:01:38.9062587+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 761
-    },
-    {
-      "Time": "2022-08-23T08:31:29.9848765+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 760
-    },
-    {
-      "Time": "2022-08-23T13:31:14.7967896+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 763
-    },
-    {
-      "Time": "2022-08-23T16:31:13.5573672+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 764
-    },
-    {
-      "Time": "2022-08-24T10:31:13.559681+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 769
-    },
-    {
-      "Time": "2022-08-25T00:01:21.3203237+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 774
-    },
-    {
-      "Time": "2022-08-26T00:01:15.2840613+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 780
-    },
-    {
-      "Time": "2022-08-27T00:02:10.3511075+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 782
-    },
-    {
-      "Time": "2022-08-27T20:01:17.1182537+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 787
-    },
-    {
-      "Time": "2022-08-28T10:31:17.6271561+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 789
-    },
-    {
-      "Time": "2022-08-29T10:31:15.4986695+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 796
-    },
-    {
-      "Time": "2022-08-30T07:31:54.0622292+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 803
-    },
-    {
-      "Time": "2022-08-31T07:31:28.7935996+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 808
-    },
-    {
-      "Time": "2022-08-31T15:01:26.4226432+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 813
-    },
-    {
-      "Time": "2022-09-01T04:01:13.0861825+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 818
-    },
-    {
-      "Time": "2022-09-01T16:01:20.808013+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 821
-    },
-    {
-      "Time": "2022-09-02T04:31:34.6916218+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": 823
-    },
-    {
-      "Time": "2022-09-02T12:31:23.146372+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 827
-    },
-    {
-      "Time": "2022-09-02T17:01:56.2547285+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 830
-    },
-    {
-      "Time": "2022-09-03T08:01:20.381064+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 837
-    },
-    {
-      "Time": "2022-09-03T13:31:20.8291169+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 838
-    },
-    {
-      "Time": "2022-09-04T15:01:24.4097267+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 848
-    },
-    {
-      "Time": "2022-09-05T05:31:13.3168349+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 854
-    },
-    {
-      "Time": "2022-09-05T19:01:20.5410596+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 859
-    },
-    {
-      "Time": "2022-09-06T02:31:13.2418806+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 862
-    },
-    {
-      "Time": "2022-09-06T21:01:47.5392309+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 869
-    },
-    {
-      "Time": "2022-09-07T21:02:05.3561129+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 875
-    },
-    {
-      "Time": "2022-09-09T06:31:15.1172159+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 884
-    },
-    {
-      "Time": "2022-09-09T23:31:37.7628485+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 887
-    },
-    {
-      "Time": "2022-09-10T23:31:26.3661295+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 902
-    },
-    {
-      "Time": "2022-09-11T17:31:37.9223814+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 904
-    },
-    {
-      "Time": "2022-09-12T17:01:27.2599469+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 915
-    },
-    {
-      "Time": "2022-09-13T03:31:16.550616+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 916
-    },
-    {
-      "Time": "2022-09-14T03:31:14.6868819+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 924
-    },
-    {
-      "Time": "2022-09-14T15:01:56.5886259+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 927
-    },
-    {
-      "Time": "2022-09-14T21:02:01.4446546+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 929
-    },
-    {
-      "Time": "2022-09-15T19:31:37.4869632+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 935
-    },
-    {
-      "Time": "2022-09-16T20:02:02.8866343+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 944
-    },
-    {
-      "Time": "2022-09-17T02:01:35.869919+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 945
-    },
-    {
-      "Time": "2022-09-17T05:31:35.6717145+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 946
-    },
-    {
-      "Time": "2022-09-17T22:01:22.1520831+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 956
-    },
-    {
-      "Time": "2022-09-18T14:31:20.7031932+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 963
-    },
-    {
-      "Time": "2022-09-18T17:31:22.6114801+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 965
-    },
-    {
-      "Time": "2022-09-19T13:02:03.7848498+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 973
-    },
-    {
-      "Time": "2022-09-19T18:31:44.8060437+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 976
-    },
-    {
-      "Time": "2022-09-20T00:31:30.853401+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": 982
-    },
-    {
-      "Time": "2022-09-21T00:31:20.9782593+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 992
-    },
-    {
-      "Time": "2022-09-21T05:01:18.5607123+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 993
-    },
-    {
-      "Time": "2022-09-22T00:02:04.7961984+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 999
-    },
-    {
-      "Time": "2022-09-22T16:31:25.7883187+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": 1003
-    },
-    {
-      "Time": "2022-09-27T08:02:42.6772779+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2022-10-15T07:01:33.9817852+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-16T14:31:20.9011717+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2022-10-18T21:01:56.9228934+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-19T04:01:20.9780771+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2022-10-20T12:02:09.9513486+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-11-10T17:57:38.9075859+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2023-04-10T19:57:56.6673791+00:00",
-      "Rating": 4.5,
-      "NumberOfAwards": 208,
-      "NumberOfAwardsMax": 208
-    },
-    {
-      "Time": "2023-04-18T05:57:41.4584943+00:00",
-      "Rating": 4.5,
-      "NumberOfAwards": 209,
-      "NumberOfAwardsMax": 209
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 65,
-  "LastChanged_Achievements": "2023-05-05T16:07:57.3834746+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 525,
-  "EOS_Completed": 14,
-  "EOS_Progressed": 457283,
-  "LastUpdate_Achievements": "2023-05-05T16:07:57.3835435+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:22.8210825+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:30.2657714+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievement_expedition_overcome_mech",
+      "SetID": "8cokdon",
+      "Name": "Knightmare Frames",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 68593
+    },
+    {
+      "ID": "achievement_expedition_overcome_sandworm",
+      "SetID": "8cokdon",
+      "Name": "May His passing cleanse the world",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 68593
+    },
+    {
+      "ID": "achievement_first_death",
+      "SetID": "8cokdon",
+      "Name": "In space, no one can hear you scream",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 105176
+    },
+    {
+      "ID": "achievement_story_complete_chapter_1",
+      "SetID": "8cokdon",
+      "Name": "Chapter I: Echoes",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 100603
+    },
+    {
+      "ID": "achievement_story_complete_chapter_2",
+      "SetID": "8cokdon",
+      "Name": "Chapter II: Fallible Flesh",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 68593
+    },
+    {
+      "ID": "achievement_story_complete_chapter_3",
+      "SetID": "8cokdon",
+      "Name": "Chapter III: The Man Who Sold the World",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 45729
+    },
+    {
+      "ID": "achievement_story_complete_chapter_4",
+      "SetID": "8cokdon",
+      "Name": "Chapter IV: Through the Looking Glass",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 36583
+    },
+    {
+      "ID": "achievement_story_complete_chapter_5",
+      "SetID": "8cokdon",
+      "Name": "Chapter V: Memories of None",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_story_ending_earth",
+      "SetID": "8cokdon",
+      "Name": "A Rock in the Dark",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 4573
+    },
+    {
+      "ID": "achievement_story_ending_emperor",
+      "SetID": "8cokdon",
+      "Name": "Emperor of Misery",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 4573
+    },
+    {
+      "ID": "achievement_story_ending_rebecca",
+      "SetID": "8cokdon",
+      "Name": "A Frozen Lady",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 4573
+    },
+    {
+      "ID": "achievement_story_event_bowie_ended",
+      "SetID": "8cokdon",
+      "Name": "The Shutdown",
+      "Percentage": 66,
+      "XP": 10,
+      "UsersEstimate": 301809
+    },
+    {
+      "ID": "achievement_story_landa",
+      "SetID": "8cokdon",
+      "Name": "Kill the Doctor",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 22864
+    },
+    {
+      "ID": "achievement_story_meet_cryo_rebecca",
+      "SetID": "8cokdon",
+      "Name": "Forsaken",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 22864
+    },
+    {
+      "ID": "achievement_story_meet_idaho_b",
+      "SetID": "8cokdon",
+      "Name": "Through the mirror",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 36583
+    },
+    {
+      "ID": "achievement_story_meet_mother",
+      "SetID": "8cokdon",
+      "Name": "Mother",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 114322
+    },
+    {
+      "ID": "achievement_story_meet_oberon",
+      "SetID": "8cokdon",
+      "Name": "Meet your maker",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_story_meet_okonkwo",
+      "SetID": "8cokdon",
+      "Name": "Admiral Okonkwo",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 32010
+    },
+    {
+      "ID": "achievement_story_meet_survivalists",
+      "SetID": "8cokdon",
+      "Name": "The Survivalists",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 32010
+    },
+    {
+      "ID": "achievement_story_meet_tetsuo",
+      "SetID": "8cokdon",
+      "Name": "Tetsuo",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 50301
+    },
+    {
+      "ID": "achievement_story_meet_vivar",
+      "SetID": "8cokdon",
+      "Name": "General Vivar",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 36583
+    },
+    {
+      "ID": "achievement_story_meet_zenon",
+      "SetID": "8cokdon",
+      "Name": "Pope Zenon",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 68593
+    },
+    {
+      "ID": "achievement_story_neon_child",
+      "SetID": "8cokdon",
+      "Name": "Things persisted in not being what they seemed",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 91457
+    },
+    {
+      "ID": "achievement_story_second_awakening",
+      "SetID": "8cokdon",
+      "Name": "Second Coming",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 150904
+    },
+    {
+      "ID": "achievement_story_see_ganyma",
+      "SetID": "8cokdon",
+      "Name": "Back to Ganyma",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 36583
+    },
+    {
+      "ID": "achievement_story_spare_oberon",
+      "SetID": "8cokdon",
+      "Name": "Mercy",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 22864
+    },
+    {
+      "ID": "achievement_unlock_officer_as_1",
+      "SetID": "8cokdon",
+      "Name": "The Impersonator",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_as_2",
+      "SetID": "8cokdon",
+      "Name": "The Kid",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_church_1",
+      "SetID": "8cokdon",
+      "Name": "The Evangelist",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_church_2",
+      "SetID": "8cokdon",
+      "Name": "The Inquisitor",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_empire_1",
+      "SetID": "8cokdon",
+      "Name": "The Tech Specialist",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 32010
+    },
+    {
+      "ID": "achievement_unlock_officer_empire_2",
+      "SetID": "8cokdon",
+      "Name": "The Ace Pilot",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_kb_1",
+      "SetID": "8cokdon",
+      "Name": "The Tech Med",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_kb_2",
+      "SetID": "8cokdon",
+      "Name": "The Mech Soldier",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_kickstarter_1",
+      "SetID": "8cokdon",
+      "Name": "The lucky charm",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_pirate_1",
+      "SetID": "8cokdon",
+      "Name": "The Anonymous",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_pirate_2",
+      "SetID": "8cokdon",
+      "Name": "The Smuggler",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_scrapper_1",
+      "SetID": "8cokdon",
+      "Name": "The Crazy Repairman",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_unlock_officer_scrapper_2",
+      "SetID": "8cokdon",
+      "Name": "The Weasel",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 27437
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Liberator",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_all_bs_hard",
+      "SetID": "8cokdon",
+      "Name": "The Art of War",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_as_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Geno Mastery",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_as_hard",
+      "SetID": "8cokdon",
+      "Name": "Geno Supremacy",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_church_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Jericho Mastery",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_church_hard",
+      "SetID": "8cokdon",
+      "Name": "Jericho Supremacy",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_kb_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Hammer Mastery",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_kb_hard",
+      "SetID": "8cokdon",
+      "Name": "Hammer Supremacy",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_pirate_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Void Mastery",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_pirate_hard",
+      "SetID": "8cokdon",
+      "Name": "Void Supremacy",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_scrapper_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Kaos Mastery",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_scrapper_hard",
+      "SetID": "8cokdon",
+      "Name": "Kaos Supremacy",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_starter_easy_normal",
+      "SetID": "8cokdon",
+      "Name": "Excelsior Mastery",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 3658
+    },
+    {
+      "ID": "achievement_win_all_chapers_with_starter_hard",
+      "SetID": "8cokdon",
+      "Name": "Excelsior Supremacy",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 457
+    },
+    {
+      "ID": "achievement_win_boss_sector_1",
+      "SetID": "8cokdon",
+      "Name": "Jeef Skeejj",
+      "Percentage": 44,
+      "XP": 10,
+      "UsersEstimate": 201206
+    },
+    {
+      "ID": "achievement_win_boss_sector_2",
+      "SetID": "8cokdon",
+      "Name": "Jeef Skagg",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 137186
+    },
+    {
+      "ID": "achievement_win_expedition_all_commandos_dead",
+      "SetID": "8cokdon",
+      "Name": "Survivor",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 9146
+    },
+    {
+      "ID": "achievement_win_expedition_with_monster_noloss",
+      "SetID": "8cokdon",
+      "Name": "Plan for the worst",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 50301
+    },
+    {
+      "ID": "achievement_win_expedition_without_monster_noloss",
+      "SetID": "8cokdon",
+      "Name": "Careful planning",
+      "Percentage": 39,
+      "XP": 10,
+      "UsersEstimate": 178342
+    },
+    {
+      "ID": "achievement_win_run_hard",
+      "SetID": "8cokdon",
+      "Name": "The greatest admiral of all time",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 2286
+    },
+    {
+      "ID": "achievement_win_run_with_as",
+      "SetID": "8cokdon",
+      "Name": "Geno Rule",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 13719
+    },
+    {
+      "ID": "achievement_win_run_with_church",
+      "SetID": "8cokdon",
+      "Name": "Jericho Rule",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 22864
+    },
+    {
+      "ID": "achievement_win_run_with_kb",
+      "SetID": "8cokdon",
+      "Name": "Hammer Rule",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 13719
+    },
+    {
+      "ID": "achievement_win_run_with_pirate",
+      "SetID": "8cokdon",
+      "Name": "Void Rule",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 4573
+    },
+    {
+      "ID": "achievement_win_run_with_scrapper",
+      "SetID": "8cokdon",
+      "Name": "Kaos Rule",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 36583
+    },
+    {
+      "ID": "achievement_win_run_with_starter",
+      "SetID": "8cokdon",
+      "Name": "Excelsior Rule",
+      "Percentage": 22,
+      "XP": 10,
+      "UsersEstimate": 100603
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1217,
-      "Completed": 1217
+      "Progressed": 1220,
+      "Completed": 1220
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457283,
+      "Progressed": 457286,
       "Completed": 14
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "ProductSlug": "crying-suns",
-  "Rating": 4.5,
-  "Ranking_Rating": 531,
-  "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 347,
-  "Ranking_EOS_Progress": 28,
-  "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 1003,
-  "NumberOfAwards": 209,
-  "NumberOfAwardsMax": 209,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "Ranking_EOS_NewPlayers": 77
+  "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
+  "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:38.680333+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:24.6740099+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:38.6804034+00:00"
 }

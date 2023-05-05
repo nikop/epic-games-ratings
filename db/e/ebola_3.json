@@ -1,409 +1,28 @@
 {
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
-  "Achievements": [
+  "ProductSlug": "ebola-3-2c79e9",
+  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
     {
-      "ID": "achAlice",
-      "SetID": "72gjli4",
-      "Name": "Boss 1 \u2714",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achAliceTwo",
-      "SetID": "72gjli4",
-      "Name": "Alice \u2714",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achAntivirus",
-      "SetID": "72gjli4",
-      "Name": "Antivirus \u2714",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achBag",
-      "SetID": "72gjli4",
-      "Name": "Inventory \u2714",
-      "Percentage": 51,
-      "XP": 5,
-      "UsersEstimate": 64
-    },
-    {
-      "ID": "achBett",
-      "SetID": "72gjli4",
-      "Name": "Betty \u2714",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achBrain",
-      "SetID": "72gjli4",
-      "Name": "Brain \u2714",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achCar",
-      "SetID": "72gjli4",
-      "Name": "Car \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achCheet",
-      "SetID": "72gjli4",
-      "Name": "Cheats \u2714",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achChest",
-      "SetID": "72gjli4",
-      "Name": "Chest \u2714",
-      "Percentage": 51,
-      "XP": 5,
-      "UsersEstimate": 64
-    },
-    {
-      "ID": "achCity",
-      "SetID": "72gjli4",
-      "Name": "City \u2714",
-      "Percentage": 5,
-      "XP": 5,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "achCoinOne",
-      "SetID": "72gjli4",
-      "Name": "Seeker One \u2714",
-      "Percentage": 2,
-      "XP": 35,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achCoinThree",
-      "SetID": "72gjli4",
-      "Name": "Seeker Three \u2714",
-      "Percentage": 0.8,
-      "XP": 35,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "achCoinTwo",
-      "SetID": "72gjli4",
-      "Name": "Seeker Two \u2714",
-      "Percentage": 0.8,
-      "XP": 35,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "achCrokoOne",
-      "SetID": "72gjli4",
-      "Name": "Crocodile Escape \u2714",
-      "Percentage": 0.8,
-      "XP": 5,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "achCrokoTwo",
-      "SetID": "72gjli4",
-      "Name": "Crocodile Attack \u2714",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achCrow",
-      "SetID": "72gjli4",
-      "Name": "Exterminate pests \u2714",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "achDeva",
-      "SetID": "72gjli4",
-      "Name": "Secret \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achDictator",
-      "SetID": "72gjli4",
-      "Name": "Boss 2 \u2714",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achDog",
-      "SetID": "72gjli4",
-      "Name": "Doberman \u2714",
-      "Percentage": 9,
-      "XP": 5,
-      "UsersEstimate": 11
-    },
-    {
-      "ID": "achEva",
-      "SetID": "72gjli4",
-      "Name": "Eva \u2714",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achExplosion",
-      "SetID": "72gjli4",
-      "Name": "Survival \u2714",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achFood",
-      "SetID": "72gjli4",
-      "Name": "Food \u2714",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achGameHard",
-      "SetID": "72gjli4",
-      "Name": "Hardcore \u2714",
-      "Percentage": 0.8,
-      "XP": 70,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "achHospital",
-      "SetID": "72gjli4",
-      "Name": "Hospital \u2714",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "achIvan",
-      "SetID": "72gjli4",
-      "Name": "Group Alpha \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achKloyn",
-      "SetID": "72gjli4",
-      "Name": "Fright \u2714",
-      "Percentage": 53,
-      "XP": 5,
-      "UsersEstimate": 67
-    },
-    {
-      "ID": "achLizun",
-      "SetID": "72gjli4",
-      "Name": "Mutant fight \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achLizunTwo",
-      "SetID": "72gjli4",
-      "Name": "Mutant run \u2714",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achMaikl",
-      "SetID": "72gjli4",
-      "Name": "Fraternal help \u2714",
-      "Percentage": 5,
-      "XP": 5,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "achOsipovOne",
-      "SetID": "72gjli4",
-      "Name": "Sheriff \u2714",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achOsipovTwo",
-      "SetID": "72gjli4",
-      "Name": "Osipov\u0027s video message \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achPlotOne",
-      "SetID": "72gjli4",
-      "Name": "City on fire \u2714",
-      "Percentage": 4,
-      "XP": 35,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achPlotThree",
-      "SetID": "72gjli4",
-      "Name": "Infected \u2714",
-      "Percentage": 3,
-      "XP": 35,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achPlotTwo",
-      "SetID": "72gjli4",
-      "Name": "The escape \u2714",
-      "Percentage": 2,
-      "XP": 35,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achPolice",
-      "SetID": "72gjli4",
-      "Name": "Police officers \u2714",
-      "Percentage": 24,
-      "XP": 5,
-      "UsersEstimate": 30
-    },
-    {
-      "ID": "achPriest",
-      "SetID": "72gjli4",
-      "Name": "Priest \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achRankOne",
-      "SetID": "72gjli4",
-      "Name": "Rank B\u002B \u2714",
-      "Percentage": 2,
-      "XP": 35,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achRankThree",
-      "SetID": "72gjli4",
-      "Name": "Rank A\u002B \u2714",
-      "Percentage": 0.8,
-      "XP": 85,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "achRankTwo",
-      "SetID": "72gjli4",
-      "Name": "Rank A \u2714",
-      "Percentage": 3,
-      "XP": 50,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achSave",
-      "SetID": "72gjli4",
-      "Name": "King of survival \u2714",
-      "Percentage": 4,
-      "XP": 70,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "achSecretos",
-      "SetID": "72gjli4",
-      "Name": "All secrets revealed \u2714",
-      "Percentage": 3,
-      "XP": 35,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "achSeif",
-      "SetID": "72gjli4",
-      "Name": "Master of Unlocking \u2714",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "achShahmat",
-      "SetID": "72gjli4",
-      "Name": "Chess \u2714",
-      "Percentage": 5,
-      "XP": 5,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "achSpped",
-      "SetID": "72gjli4",
-      "Name": "Speedrun \u2714",
-      "Percentage": 2,
-      "XP": 70,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achTransform",
-      "SetID": "72gjli4",
-      "Name": "Mutation \u2714",
-      "Percentage": 22,
-      "XP": 5,
-      "UsersEstimate": 28
-    },
-    {
-      "ID": "achVip",
-      "SetID": "72gjli4",
-      "Name": "VIP \u2714",
-      "Percentage": 2,
-      "XP": 120,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achVitali",
-      "SetID": "72gjli4",
-      "Name": "Broadcasting \u2714",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achWater",
-      "SetID": "72gjli4",
-      "Name": "Thirst \u2714",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "achWeapon",
-      "SetID": "72gjli4",
-      "Name": "Weapon \u2714",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "achWorms",
-      "SetID": "72gjli4",
-      "Name": "Boss 3 \u2714",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 3
+      "Time": "2023-04-27T18:00:42.6973794+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 127,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 95,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:53:14.7759663+00:00",
@@ -879,44 +498,431 @@
       "Time": "2023-05-05T15:43:02.3613517+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
+    },
     {
-      "Time": "2023-04-27T18:00:42.6973794+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "Time": "2023-05-05T17:09:54.8902557+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-05T16:08:19.4808888+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 94,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 126,
-  "LastUpdate_Achievements": "2023-05-05T16:08:19.4809404+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:36.7724924+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:21.2179363+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achAlice",
+      "SetID": "72gjli4",
+      "Name": "Boss 1 \u2714",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achAliceTwo",
+      "SetID": "72gjli4",
+      "Name": "Alice \u2714",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achAntivirus",
+      "SetID": "72gjli4",
+      "Name": "Antivirus \u2714",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achBag",
+      "SetID": "72gjli4",
+      "Name": "Inventory \u2714",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 64
+    },
+    {
+      "ID": "achBett",
+      "SetID": "72gjli4",
+      "Name": "Betty \u2714",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achBrain",
+      "SetID": "72gjli4",
+      "Name": "Brain \u2714",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achCar",
+      "SetID": "72gjli4",
+      "Name": "Car \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achCheet",
+      "SetID": "72gjli4",
+      "Name": "Cheats \u2714",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achChest",
+      "SetID": "72gjli4",
+      "Name": "Chest \u2714",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 64
+    },
+    {
+      "ID": "achCity",
+      "SetID": "72gjli4",
+      "Name": "City \u2714",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "achCoinOne",
+      "SetID": "72gjli4",
+      "Name": "Seeker One \u2714",
+      "Percentage": 2,
+      "XP": 35,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achCoinThree",
+      "SetID": "72gjli4",
+      "Name": "Seeker Three \u2714",
+      "Percentage": 0.8,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achCoinTwo",
+      "SetID": "72gjli4",
+      "Name": "Seeker Two \u2714",
+      "Percentage": 0.8,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achCrokoOne",
+      "SetID": "72gjli4",
+      "Name": "Crocodile Escape \u2714",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achCrokoTwo",
+      "SetID": "72gjli4",
+      "Name": "Crocodile Attack \u2714",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achCrow",
+      "SetID": "72gjli4",
+      "Name": "Exterminate pests \u2714",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achDeva",
+      "SetID": "72gjli4",
+      "Name": "Secret \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achDictator",
+      "SetID": "72gjli4",
+      "Name": "Boss 2 \u2714",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achDog",
+      "SetID": "72gjli4",
+      "Name": "Doberman \u2714",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "achEva",
+      "SetID": "72gjli4",
+      "Name": "Eva \u2714",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achExplosion",
+      "SetID": "72gjli4",
+      "Name": "Survival \u2714",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achFood",
+      "SetID": "72gjli4",
+      "Name": "Food \u2714",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achGameHard",
+      "SetID": "72gjli4",
+      "Name": "Hardcore \u2714",
+      "Percentage": 0.8,
+      "XP": 70,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achHospital",
+      "SetID": "72gjli4",
+      "Name": "Hospital \u2714",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "achIvan",
+      "SetID": "72gjli4",
+      "Name": "Group Alpha \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achKloyn",
+      "SetID": "72gjli4",
+      "Name": "Fright \u2714",
+      "Percentage": 54,
+      "XP": 5,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "achLizun",
+      "SetID": "72gjli4",
+      "Name": "Mutant fight \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achLizunTwo",
+      "SetID": "72gjli4",
+      "Name": "Mutant run \u2714",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achMaikl",
+      "SetID": "72gjli4",
+      "Name": "Fraternal help \u2714",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "achOsipovOne",
+      "SetID": "72gjli4",
+      "Name": "Sheriff \u2714",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achOsipovTwo",
+      "SetID": "72gjli4",
+      "Name": "Osipov\u0027s video message \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achPlotOne",
+      "SetID": "72gjli4",
+      "Name": "City on fire \u2714",
+      "Percentage": 4,
+      "XP": 35,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achPlotThree",
+      "SetID": "72gjli4",
+      "Name": "Infected \u2714",
+      "Percentage": 3,
+      "XP": 35,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achPlotTwo",
+      "SetID": "72gjli4",
+      "Name": "The escape \u2714",
+      "Percentage": 2,
+      "XP": 35,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achPolice",
+      "SetID": "72gjli4",
+      "Name": "Police officers \u2714",
+      "Percentage": 24,
+      "XP": 5,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "achPriest",
+      "SetID": "72gjli4",
+      "Name": "Priest \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achRankOne",
+      "SetID": "72gjli4",
+      "Name": "Rank B\u002B \u2714",
+      "Percentage": 2,
+      "XP": 35,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achRankThree",
+      "SetID": "72gjli4",
+      "Name": "Rank A\u002B \u2714",
+      "Percentage": 0.8,
+      "XP": 85,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achRankTwo",
+      "SetID": "72gjli4",
+      "Name": "Rank A \u2714",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achSave",
+      "SetID": "72gjli4",
+      "Name": "King of survival \u2714",
+      "Percentage": 4,
+      "XP": 70,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achSecretos",
+      "SetID": "72gjli4",
+      "Name": "All secrets revealed \u2714",
+      "Percentage": 3,
+      "XP": 35,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achSeif",
+      "SetID": "72gjli4",
+      "Name": "Master of Unlocking \u2714",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "achShahmat",
+      "SetID": "72gjli4",
+      "Name": "Chess \u2714",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "achSpped",
+      "SetID": "72gjli4",
+      "Name": "Speedrun \u2714",
+      "Percentage": 2,
+      "XP": 70,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achTransform",
+      "SetID": "72gjli4",
+      "Name": "Mutation \u2714",
+      "Percentage": 22,
+      "XP": 5,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "achVip",
+      "SetID": "72gjli4",
+      "Name": "VIP \u2714",
+      "Percentage": 2,
+      "XP": 120,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achVitali",
+      "SetID": "72gjli4",
+      "Name": "Broadcasting \u2714",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achWater",
+      "SetID": "72gjli4",
+      "Name": "Thirst \u2714",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "achWeapon",
+      "SetID": "72gjli4",
+      "Name": "Weapon \u2714",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "achWorms",
+      "SetID": "72gjli4",
+      "Name": "Boss 3 \u2714",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 3
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
-  "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 243,
-  "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-27T18:00:42.6973754+00:00",
-  "Ranking_EOS_NewPlayers": 120
+  "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
+  "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:54.8902553+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:14.0431204+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:54.8903167+00:00"
 }

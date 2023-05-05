@@ -10,23 +10,23 @@ Diff (max vs sum): -95
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,807 |
-| Jeef Skeejj | 44.00% | ~201,205 |
-| Careful planning | 39.00% | ~178,340 |
-| Second Coming | 33.00% | ~150,903 |
-| Jeef Skagg | 30.00% | ~137,185 |
-| Mother | 25.00% | ~114,321 |
-| In space, no one can hear you scream | 23.00% | ~105,175 |
-| Chapter I: Echoes | 22.00% | ~100,602 |
-| Excelsior Rule | 22.00% | ~100,602 |
+| The Shutdown | 66.00% | ~301,809 |
+| Jeef Skeejj | 44.00% | ~201,206 |
+| Careful planning | 39.00% | ~178,342 |
+| Second Coming | 33.00% | ~150,904 |
+| Jeef Skagg | 30.00% | ~137,186 |
+| Mother | 25.00% | ~114,322 |
+| In space, no one can hear you scream | 23.00% | ~105,176 |
+| Chapter I: Echoes | 22.00% | ~100,603 |
+| Excelsior Rule | 22.00% | ~100,603 |
 | Things persisted in not being what they seemed | 20.00% | ~91,457 |
-| Knightmare Frames | 15.00% | ~68,592 |
-| May His passing cleanse the world | 15.00% | ~68,592 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,592 |
-| Pope Zenon | 15.00% | ~68,592 |
+| Knightmare Frames | 15.00% | ~68,593 |
+| May His passing cleanse the world | 15.00% | ~68,593 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,593 |
+| Pope Zenon | 15.00% | ~68,593 |
 | Tetsuo | 11.00% | ~50,301 |
 | Plan for the worst | 11.00% | ~50,301 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,728 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,729 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,583 |
 | Through the mirror | 8.00% | ~36,583 |
 | General Vivar | 8.00% | ~36,583 |
@@ -53,8 +53,8 @@ Diff (max vs sum): -95
 | Forsaken | 5.00% | ~22,864 |
 | Mercy | 5.00% | ~22,864 |
 | Jericho Rule | 5.00% | ~22,864 |
-| Geno Rule | 3.00% | ~13,718 |
-| Hammer Rule | 3.00% | ~13,718 |
+| Geno Rule | 3.00% | ~13,719 |
+| Hammer Rule | 3.00% | ~13,719 |
 | Survivor | 2.00% | ~9,146 |
 | A Rock in the Dark | 1.00% | ~4,573 |
 | Emperor of Misery | 1.00% | ~4,573 |
@@ -76,7 +76,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,283 (Ranked 28)  
+Progressed: 457,286 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
-| 2023-05-05 | 457,283 | 14 |
+| 2023-05-05 | 457,286 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

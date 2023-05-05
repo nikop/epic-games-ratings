@@ -1,312 +1,441 @@
 {
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
-  "Achievements": [
+  "ProductSlug": "mordhau",
+  "Ranking_Rating": 651,
+  "Ranking_Popularity": 366,
+  "Ranking_PopularitySum": 318,
+  "Ranking_EOS_Progress": 7,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 6,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.41,
+  "RatingHistory": [
     {
-      "ID": "Boxer",
-      "SetID": "anh8moj",
-      "Name": "Boxer",
-      "Percentage": 0.4,
-      "XP": 30,
-      "UsersEstimate": 5197
+      "Time": "2023-04-13T15:58:07.4170884+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "BurningMan",
-      "SetID": "anh8moj",
-      "Name": "Burning Man",
-      "Percentage": 16,
-      "XP": 20,
-      "UsersEstimate": 207873
+      "Time": "2023-04-14T13:58:10.3509889+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Chambermaid",
-      "SetID": "anh8moj",
-      "Name": "Chambermaid",
-      "Percentage": 0.5,
-      "XP": 25,
-      "UsersEstimate": 6496
+      "Time": "2023-04-15T13:57:50.8000701+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Clobbered",
-      "SetID": "anh8moj",
-      "Name": "Clobbered",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 1299
+      "Time": "2023-04-15T16:57:51.5043281+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ComingThrough",
-      "SetID": "anh8moj",
-      "Name": "Coming Through",
-      "Percentage": 0.7,
-      "XP": 15,
-      "UsersEstimate": 9094
+      "Time": "2023-04-15T23:58:28.0307144+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Crybaby",
-      "SetID": "anh8moj",
-      "Name": "Crybaby",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 12992
+      "Time": "2023-04-16T13:02:01.1032567+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "EagleEye",
-      "SetID": "anh8moj",
-      "Name": "Eagle Eye",
-      "Percentage": 1,
-      "XP": 35,
-      "UsersEstimate": 12992
+      "Time": "2023-04-16T15:58:29.0896311+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "EndedRightly",
-      "SetID": "anh8moj",
-      "Name": "Ended Rightly",
-      "Percentage": 0.1,
-      "XP": 60,
-      "UsersEstimate": 1299
+      "Time": "2023-04-16T22:57:39.7864403+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Flyswatter",
-      "SetID": "anh8moj",
-      "Name": "Flyswatter",
-      "Percentage": 0.2,
-      "XP": 35,
-      "UsersEstimate": 2598
+      "Time": "2023-04-17T13:07:14.895895+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "FriendIndeed",
-      "SetID": "anh8moj",
-      "Name": "Friend Indeed",
-      "Percentage": 0.1,
-      "XP": 35,
-      "UsersEstimate": 1299
+      "Time": "2023-04-17T19:58:23.2284837+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Guts",
-      "SetID": "anh8moj",
-      "Name": "Guts",
-      "Percentage": 20,
-      "XP": 15,
-      "UsersEstimate": 259842
+      "Time": "2023-04-18T06:58:21.2896657+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Highlander",
-      "SetID": "anh8moj",
-      "Name": "Highlander",
-      "Percentage": 10,
-      "XP": 25,
-      "UsersEstimate": 129921
+      "Time": "2023-04-18T11:58:46.6356393+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "HomeRun",
-      "SetID": "anh8moj",
-      "Name": "Home Run",
-      "Percentage": 42,
-      "XP": 15,
-      "UsersEstimate": 545668
+      "Time": "2023-04-18T13:58:03.1348442+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "JustScratch",
-      "SetID": "anh8moj",
-      "Name": "Just a Scratch",
-      "Percentage": 9,
-      "XP": 20,
-      "UsersEstimate": 116929
+      "Time": "2023-04-19T06:58:23.1795616+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "JusticeFromGrave",
-      "SetID": "anh8moj",
-      "Name": "Justice from the Grave",
-      "Percentage": 49,
-      "XP": 15,
-      "UsersEstimate": 636612
+      "Time": "2023-04-19T17:57:54.2505508+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "KeepsComingOff",
-      "SetID": "anh8moj",
-      "Name": "Keeps Coming Off",
-      "Percentage": 40,
-      "XP": 15,
-      "UsersEstimate": 519684
+      "Time": "2023-04-19T18:58:00.6673114+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "KungFu",
-      "SetID": "anh8moj",
-      "Name": "I Know Kung Fu",
-      "Percentage": 1,
-      "XP": 35,
-      "UsersEstimate": 12992
+      "Time": "2023-04-19T20:02:11.3239859+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "LivedToTell",
-      "SetID": "anh8moj",
-      "Name": "Lived to Tell the Tale",
-      "Percentage": 11,
-      "XP": 20,
-      "UsersEstimate": 142913
+      "Time": "2023-04-20T01:55:35.1898514+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "LivingSculpture",
-      "SetID": "anh8moj",
-      "Name": "Living Sculpture",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 1299
+      "Time": "2023-04-21T19:57:33.2079812+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "LongListNames",
-      "SetID": "anh8moj",
-      "Name": "Long List of Names",
-      "Percentage": 3,
-      "XP": 25,
-      "UsersEstimate": 38976
+      "Time": "2023-04-23T08:57:44.7641463+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "MeatGrinder",
-      "SetID": "anh8moj",
-      "Name": "Meat Grinder",
-      "Percentage": 20,
-      "XP": 20,
-      "UsersEstimate": 259842
+      "Time": "2023-04-23T15:58:20.9526848+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "NoOrdinaryCold",
-      "SetID": "anh8moj",
-      "Name": "That\u2019s No Ordinary Cold",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 1299
+      "Time": "2023-04-25T16:38:34.9324402+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "NotSparta",
-      "SetID": "anh8moj",
-      "Name": "This isn\u2019t Sparta",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 25984
+      "Time": "2023-04-25T17:58:12.3443164+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     },
     {
-      "ID": "Poacher",
-      "SetID": "anh8moj",
-      "Name": "Poacher",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 25984
+      "Time": "2023-04-25T18:58:09.3579801+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     },
     {
-      "ID": "PutThatAway",
-      "SetID": "anh8moj",
-      "Name": "Put That Away",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 12992
+      "Time": "2023-04-26T15:00:08.6767282+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 23
     },
     {
-      "ID": "Pyromaniac",
-      "SetID": "anh8moj",
-      "Name": "Pyromaniac",
-      "Percentage": 3,
-      "XP": 25,
-      "UsersEstimate": 38976
+      "Time": "2023-04-26T18:01:00.2460058+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 27
     },
     {
-      "ID": "QueenOfWeapons",
-      "SetID": "anh8moj",
-      "Name": "The Queen of Weapons",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 38976
+      "Time": "2023-04-26T23:59:44.3286331+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 27
     },
     {
-      "ID": "Rocknroll",
-      "SetID": "anh8moj",
-      "Name": "Rock\u2019n\u2019Roll",
-      "Percentage": 0.4,
-      "XP": 30,
-      "UsersEstimate": 5197
+      "Time": "2023-04-27T03:59:48.8042576+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 28
     },
     {
-      "ID": "StairwayHell",
-      "SetID": "anh8moj",
-      "Name": "Stairway to Hell",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 1299
+      "Time": "2023-04-27T13:06:07.2268+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 28
     },
     {
-      "ID": "TheABCs",
-      "SetID": "anh8moj",
-      "Name": "The ABCs",
-      "Percentage": 43,
-      "XP": 15,
-      "UsersEstimate": 558660
+      "Time": "2023-04-27T20:00:33.52606+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 122,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "ToughNut",
-      "SetID": "anh8moj",
-      "Name": "Tough Nut to Crack",
-      "Percentage": 5,
-      "XP": 20,
-      "UsersEstimate": 64960
+      "Time": "2023-04-27T20:59:35.1549472+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 125,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "TrainingAccident",
-      "SetID": "anh8moj",
-      "Name": "Training Accident",
-      "Percentage": 0.6,
-      "XP": 30,
-      "UsersEstimate": 7795
+      "Time": "2023-04-27T23:59:41.8847869+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "Unstoppable",
-      "SetID": "anh8moj",
-      "Name": "Unstoppable",
-      "Percentage": 10,
-      "XP": 25,
-      "UsersEstimate": 129921
+      "Time": "2023-04-28T11:01:02.2496335+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "Virtuoso",
-      "SetID": "anh8moj",
-      "Name": "Virtuoso",
-      "Percentage": 0.5,
-      "XP": 40,
-      "UsersEstimate": 6496
+      "Time": "2023-04-28T15:00:16.318033+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "Vlad",
-      "SetID": "anh8moj",
-      "Name": "Vlad the Impaler",
-      "Percentage": 0.2,
-      "XP": 25,
-      "UsersEstimate": 2598
+      "Time": "2023-04-28T16:00:02.2574311+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "Whackamole",
-      "SetID": "anh8moj",
-      "Name": "Whack-A-Mole",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 3898
+      "Time": "2023-04-28T23:02:20.2733016+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 30
     },
     {
-      "ID": "Yoink",
-      "SetID": "anh8moj",
-      "Name": "Yoink",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 64960
+      "Time": "2023-04-29T02:01:37.0770174+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 36
     },
     {
-      "ID": "YoureWelcome",
-      "SetID": "anh8moj",
-      "Name": "You\u2019re Welcome",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 25984
+      "Time": "2023-04-29T04:01:46.5892087+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 162,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T07:59:26.5556546+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T12:00:05.1924012+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T16:01:18.2055979+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T16:59:59.5235837+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T18:59:45.3153035+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-30T03:59:24.8800952+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 217,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-30T13:59:16.3132459+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-30T15:59:56.4007478+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 228,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-30T19:59:51.1158316+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 234,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-30T21:00:09.5068123+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-30T22:00:00.4085339+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-05-01T02:01:09.9369122+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-05-01T15:00:05.5705879+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 252,
+      "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-05-01T19:01:08.0169297+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-01T21:59:37.9391907+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-02T06:59:19.2924577+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-02T12:00:03.3464503+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-02T17:00:22.6495836+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-02T19:59:36.8235377+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 292,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-02T20:59:40.725459+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-03T03:01:16.2287755+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 302,
+      "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-03T12:00:07.3585887+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 306,
+      "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-03T16:00:53.0885868+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-03T23:01:20.1853584+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 277,
+      "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-05-04T00:00:49.6097572+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-05-04T01:56:56.1130007+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-05-04T08:00:51.2217781+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 298,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-05-04T17:59:45.011612+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 304,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-05-04T23:59:32.3617101+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-05-05T09:59:28.9807137+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 314,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-05-05T12:00:28.6170329+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-05-05T14:59:37.7428239+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 326,
+      "NumberOfAwardsMax": 66
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 326,
+  "NumberOfAwardsMax": 66,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -357,6 +486,11 @@
       "Count": 53
     }
   ],
+  "EOS_Progressed": 1299529,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 59901,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:33.1084396+00:00",
@@ -1567,463 +1701,335 @@
       "Time": "2023-05-05T16:08:14.9544753+00:00",
       "NumProgressed": 1299209,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-05T17:09:51.4765951+00:00",
+      "NumProgressed": 1299529,
+      "NumCompleted": 6
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-13T15:58:07.4170884+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T13:58:10.3509889+00:00",
-      "Rating": 4.43,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T13:57:50.8000701+00:00",
-      "Rating": 4.35,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T16:57:51.5043281+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T23:58:28.0307144+00:00",
-      "Rating": 4.31,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-16T13:02:01.1032567+00:00",
-      "Rating": 4.33,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-16T15:58:29.0896311+00:00",
-      "Rating": 4.34,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-16T22:57:39.7864403+00:00",
-      "Rating": 4.35,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T13:07:14.895895+00:00",
-      "Rating": 4.36,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T19:58:23.2284837+00:00",
-      "Rating": 4.37,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-18T06:58:21.2896657+00:00",
-      "Rating": 4.38,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-18T11:58:46.6356393+00:00",
-      "Rating": 4.37,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-18T13:58:03.1348442+00:00",
-      "Rating": 4.38,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T06:58:23.1795616+00:00",
-      "Rating": 4.39,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T17:57:54.2505508+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T18:58:00.6673114+00:00",
-      "Rating": 4.39,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T20:02:11.3239859+00:00",
-      "Rating": 4.4,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-20T01:55:35.1898514+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-21T19:57:33.2079812+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-23T08:57:44.7641463+00:00",
-      "Rating": 4.43,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-23T15:58:20.9526848+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-25T16:38:34.9324402+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-25T17:58:12.3443164+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 23,
-      "NumberOfAwardsMax": 23
-    },
-    {
-      "Time": "2023-04-25T18:58:09.3579801+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 23,
-      "NumberOfAwardsMax": 23
-    },
-    {
-      "Time": "2023-04-26T15:00:08.6767282+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 43,
-      "NumberOfAwardsMax": 23
-    },
-    {
-      "Time": "2023-04-26T18:01:00.2460058+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 47,
-      "NumberOfAwardsMax": 27
-    },
-    {
-      "Time": "2023-04-26T23:59:44.3286331+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 68,
-      "NumberOfAwardsMax": 27
-    },
-    {
-      "Time": "2023-04-27T03:59:48.8042576+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 96,
-      "NumberOfAwardsMax": 28
-    },
-    {
-      "Time": "2023-04-27T13:06:07.2268+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 119,
-      "NumberOfAwardsMax": 28
-    },
-    {
-      "Time": "2023-04-27T20:00:33.52606+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 122,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-27T20:59:35.1549472+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 125,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-27T23:59:41.8847869+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 130,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-28T11:01:02.2496335+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 102,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-28T15:00:16.318033+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 129,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-28T16:00:02.2574311+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 153,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-28T23:02:20.2733016+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 153,
-      "NumberOfAwardsMax": 30
-    },
-    {
-      "Time": "2023-04-29T02:01:37.0770174+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 159,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-29T04:01:46.5892087+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 162,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-29T07:59:26.5556546+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 171,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-29T12:00:05.1924012+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 171,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-29T16:01:18.2055979+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 186,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-29T16:59:59.5235837+00:00",
-      "Rating": 4.42,
-      "NumberOfAwards": 191,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-29T18:59:45.3153035+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 213,
-      "NumberOfAwardsMax": 36
-    },
-    {
-      "Time": "2023-04-30T03:59:24.8800952+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 217,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-04-30T13:59:16.3132459+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 223,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-04-30T15:59:56.4007478+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 228,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-04-30T19:59:51.1158316+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 234,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-04-30T21:00:09.5068123+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 238,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-04-30T22:00:00.4085339+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 245,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-05-01T02:01:09.9369122+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 248,
-      "NumberOfAwardsMax": 40
-    },
-    {
-      "Time": "2023-05-01T15:00:05.5705879+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 252,
-      "NumberOfAwardsMax": 42
-    },
-    {
-      "Time": "2023-05-01T19:01:08.0169297+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 259,
-      "NumberOfAwardsMax": 47
-    },
-    {
-      "Time": "2023-05-01T21:59:37.9391907+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 264,
-      "NumberOfAwardsMax": 47
-    },
-    {
-      "Time": "2023-05-02T06:59:19.2924577+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 270,
-      "NumberOfAwardsMax": 47
-    },
-    {
-      "Time": "2023-05-02T12:00:03.3464503+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 275,
-      "NumberOfAwardsMax": 47
-    },
-    {
-      "Time": "2023-05-02T17:00:22.6495836+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 284,
-      "NumberOfAwardsMax": 47
-    },
-    {
-      "Time": "2023-05-02T19:59:36.8235377+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 292,
-      "NumberOfAwardsMax": 50
-    },
-    {
-      "Time": "2023-05-02T20:59:40.725459+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 296,
-      "NumberOfAwardsMax": 51
-    },
-    {
-      "Time": "2023-05-03T03:01:16.2287755+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 302,
-      "NumberOfAwardsMax": 51
-    },
-    {
-      "Time": "2023-05-03T12:00:07.3585887+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 306,
-      "NumberOfAwardsMax": 51
-    },
-    {
-      "Time": "2023-05-03T16:00:53.0885868+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 271,
-      "NumberOfAwardsMax": 51
-    },
-    {
-      "Time": "2023-05-03T23:01:20.1853584+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 277,
-      "NumberOfAwardsMax": 56
-    },
-    {
-      "Time": "2023-05-04T00:00:49.6097572+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 282,
-      "NumberOfAwardsMax": 56
-    },
-    {
-      "Time": "2023-05-04T01:56:56.1130007+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 290,
-      "NumberOfAwardsMax": 59
-    },
-    {
-      "Time": "2023-05-04T08:00:51.2217781+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 298,
-      "NumberOfAwardsMax": 59
-    },
-    {
-      "Time": "2023-05-04T17:59:45.011612+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 304,
-      "NumberOfAwardsMax": 59
-    },
-    {
-      "Time": "2023-05-04T23:59:32.3617101+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 309,
-      "NumberOfAwardsMax": 59
-    },
-    {
-      "Time": "2023-05-05T09:59:28.9807137+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 314,
-      "NumberOfAwardsMax": 59
-    },
-    {
-      "Time": "2023-05-05T12:00:28.6170329+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 321,
-      "NumberOfAwardsMax": 66
-    },
-    {
-      "Time": "2023-05-05T14:59:37.7428239+00:00",
-      "Rating": 4.41,
-      "NumberOfAwards": 326,
-      "NumberOfAwardsMax": 66
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-05T16:08:14.9544747+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 60256,
-  "EOS_Completed": 6,
-  "EOS_Progressed": 1299209,
-  "LastUpdate_Achievements": "2023-05-05T16:08:14.9545152+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:34.5194225+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:19.8351557+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Boxer",
+      "SetID": "anh8moj",
+      "Name": "Boxer",
+      "Percentage": 0.4,
+      "XP": 30,
+      "UsersEstimate": 5198
+    },
+    {
+      "ID": "BurningMan",
+      "SetID": "anh8moj",
+      "Name": "Burning Man",
+      "Percentage": 16,
+      "XP": 20,
+      "UsersEstimate": 207925
+    },
+    {
+      "ID": "Chambermaid",
+      "SetID": "anh8moj",
+      "Name": "Chambermaid",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 6498
+    },
+    {
+      "ID": "Clobbered",
+      "SetID": "anh8moj",
+      "Name": "Clobbered",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "ComingThrough",
+      "SetID": "anh8moj",
+      "Name": "Coming Through",
+      "Percentage": 0.7,
+      "XP": 15,
+      "UsersEstimate": 9097
+    },
+    {
+      "ID": "Crybaby",
+      "SetID": "anh8moj",
+      "Name": "Crybaby",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 12995
+    },
+    {
+      "ID": "EagleEye",
+      "SetID": "anh8moj",
+      "Name": "Eagle Eye",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 12995
+    },
+    {
+      "ID": "EndedRightly",
+      "SetID": "anh8moj",
+      "Name": "Ended Rightly",
+      "Percentage": 0.1,
+      "XP": 60,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "Flyswatter",
+      "SetID": "anh8moj",
+      "Name": "Flyswatter",
+      "Percentage": 0.2,
+      "XP": 35,
+      "UsersEstimate": 2599
+    },
+    {
+      "ID": "FriendIndeed",
+      "SetID": "anh8moj",
+      "Name": "Friend Indeed",
+      "Percentage": 0.1,
+      "XP": 35,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "Guts",
+      "SetID": "anh8moj",
+      "Name": "Guts",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 259906
+    },
+    {
+      "ID": "Highlander",
+      "SetID": "anh8moj",
+      "Name": "Highlander",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 129953
+    },
+    {
+      "ID": "HomeRun",
+      "SetID": "anh8moj",
+      "Name": "Home Run",
+      "Percentage": 42,
+      "XP": 15,
+      "UsersEstimate": 545802
+    },
+    {
+      "ID": "JustScratch",
+      "SetID": "anh8moj",
+      "Name": "Just a Scratch",
+      "Percentage": 9,
+      "XP": 20,
+      "UsersEstimate": 116958
+    },
+    {
+      "ID": "JusticeFromGrave",
+      "SetID": "anh8moj",
+      "Name": "Justice from the Grave",
+      "Percentage": 49,
+      "XP": 15,
+      "UsersEstimate": 636769
+    },
+    {
+      "ID": "KeepsComingOff",
+      "SetID": "anh8moj",
+      "Name": "Keeps Coming Off",
+      "Percentage": 40,
+      "XP": 15,
+      "UsersEstimate": 519812
+    },
+    {
+      "ID": "KungFu",
+      "SetID": "anh8moj",
+      "Name": "I Know Kung Fu",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 12995
+    },
+    {
+      "ID": "LivedToTell",
+      "SetID": "anh8moj",
+      "Name": "Lived to Tell the Tale",
+      "Percentage": 12,
+      "XP": 20,
+      "UsersEstimate": 155943
+    },
+    {
+      "ID": "LivingSculpture",
+      "SetID": "anh8moj",
+      "Name": "Living Sculpture",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "LongListNames",
+      "SetID": "anh8moj",
+      "Name": "Long List of Names",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 38986
+    },
+    {
+      "ID": "MeatGrinder",
+      "SetID": "anh8moj",
+      "Name": "Meat Grinder",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 259906
+    },
+    {
+      "ID": "NoOrdinaryCold",
+      "SetID": "anh8moj",
+      "Name": "That\u2019s No Ordinary Cold",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "NotSparta",
+      "SetID": "anh8moj",
+      "Name": "This isn\u2019t Sparta",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 25991
+    },
+    {
+      "ID": "Poacher",
+      "SetID": "anh8moj",
+      "Name": "Poacher",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 25991
+    },
+    {
+      "ID": "PutThatAway",
+      "SetID": "anh8moj",
+      "Name": "Put That Away",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 12995
+    },
+    {
+      "ID": "Pyromaniac",
+      "SetID": "anh8moj",
+      "Name": "Pyromaniac",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 38986
+    },
+    {
+      "ID": "QueenOfWeapons",
+      "SetID": "anh8moj",
+      "Name": "The Queen of Weapons",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 38986
+    },
+    {
+      "ID": "Rocknroll",
+      "SetID": "anh8moj",
+      "Name": "Rock\u2019n\u2019Roll",
+      "Percentage": 0.4,
+      "XP": 30,
+      "UsersEstimate": 5198
+    },
+    {
+      "ID": "StairwayHell",
+      "SetID": "anh8moj",
+      "Name": "Stairway to Hell",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "TheABCs",
+      "SetID": "anh8moj",
+      "Name": "The ABCs",
+      "Percentage": 43,
+      "XP": 15,
+      "UsersEstimate": 558797
+    },
+    {
+      "ID": "ToughNut",
+      "SetID": "anh8moj",
+      "Name": "Tough Nut to Crack",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 64976
+    },
+    {
+      "ID": "TrainingAccident",
+      "SetID": "anh8moj",
+      "Name": "Training Accident",
+      "Percentage": 0.6,
+      "XP": 30,
+      "UsersEstimate": 7797
+    },
+    {
+      "ID": "Unstoppable",
+      "SetID": "anh8moj",
+      "Name": "Unstoppable",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 129953
+    },
+    {
+      "ID": "Virtuoso",
+      "SetID": "anh8moj",
+      "Name": "Virtuoso",
+      "Percentage": 0.5,
+      "XP": 40,
+      "UsersEstimate": 6498
+    },
+    {
+      "ID": "Vlad",
+      "SetID": "anh8moj",
+      "Name": "Vlad the Impaler",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 2599
+    },
+    {
+      "ID": "Whackamole",
+      "SetID": "anh8moj",
+      "Name": "Whack-A-Mole",
+      "Percentage": 0.3,
+      "XP": 30,
+      "UsersEstimate": 3899
+    },
+    {
+      "ID": "Yoink",
+      "SetID": "anh8moj",
+      "Name": "Yoink",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 64976
+    },
+    {
+      "ID": "YoureWelcome",
+      "SetID": "anh8moj",
+      "Name": "You\u2019re Welcome",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 25991
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1299209,
+      "Progressed": 1299529,
       "Completed": 6
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-05T14:59:37.7428236+00:00",
-  "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
-  "ProductSlug": "mordhau",
-  "Rating": 4.41,
-  "Ranking_Rating": 651,
-  "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 318,
-  "Ranking_EOS_Progress": 7,
-  "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 326,
-  "NumberOfAwardsMax": 66,
-  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
-  "Ranking_EOS_NewPlayers": 6
+  "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
+  "LastChanged": "2023-05-05T14:59:37.7428236+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:51.4765923+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:18.6434987+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:12.6905129+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:51.4766451+00:00"
 }

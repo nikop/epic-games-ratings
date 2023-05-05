@@ -1,1514 +1,16 @@
 {
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
-  "Achievements": [
-    {
-      "ID": "ACH_100_DOUBLE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "And Your Little Dog, Too!",
-      "Percentage": 33,
-      "XP": 90,
-      "UsersEstimate": 352470
-    },
-    {
-      "ID": "ACH_100_RINGOUTS_DOWNSPIKE",
-      "SetID": "dc21kim",
-      "Name": "Ground Floor: Ringouts",
-      "Percentage": 29,
-      "XP": 90,
-      "UsersEstimate": 309747
-    },
-    {
-      "ID": "ACH_100_TOASTS",
-      "SetID": "dc21kim",
-      "Name": "Toast Master",
-      "Percentage": 41,
-      "XP": 90,
-      "UsersEstimate": 437918
-    },
-    {
-      "ID": "ACH_10_DOUBLE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Bring A Friend",
-      "Percentage": 33,
-      "XP": 15,
-      "UsersEstimate": 352470
-    },
-    {
-      "ID": "ACH_10_LOW_DAMAGE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Signature Slammer",
-      "Percentage": 43,
-      "XP": 30,
-      "UsersEstimate": 459280
-    },
-    {
-      "ID": "ACH_10_RINGOUTS_BOTTOM",
-      "SetID": "dc21kim",
-      "Name": "Spike Specialist",
-      "Percentage": 54,
-      "XP": 15,
-      "UsersEstimate": 576770
-    },
-    {
-      "ID": "ACH_10_RINGOUTS_DOWNSPIKE",
-      "SetID": "dc21kim",
-      "Name": "Watch Your Step",
-      "Percentage": 29,
-      "XP": 15,
-      "UsersEstimate": 309747
-    },
-    {
-      "ID": "ACH_10_RINGOUTS_LEFT",
-      "SetID": "dc21kim",
-      "Name": "Southpaw Specialist",
-      "Percentage": 54,
-      "XP": 15,
-      "UsersEstimate": 576770
-    },
-    {
-      "ID": "ACH_10_RINGOUTS_RIGHT",
-      "SetID": "dc21kim",
-      "Name": "Rightie Specialist",
-      "Percentage": 54,
-      "XP": 15,
-      "UsersEstimate": 576770
-    },
-    {
-      "ID": "ACH_10_RINGOUTS_TOP",
-      "SetID": "dc21kim",
-      "Name": "Aerial Specialist",
-      "Percentage": 63,
-      "XP": 15,
-      "UsersEstimate": 672898
-    },
-    {
-      "ID": "ACH_10_TOASTS",
-      "SetID": "dc21kim",
-      "Name": "Nice Speech",
-      "Percentage": 41,
-      "XP": 30,
-      "UsersEstimate": 437918
-    },
-    {
-      "ID": "ACH_25_DOUBLE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Ringouts Are Better In Pairs",
-      "Percentage": 33,
-      "XP": 30,
-      "UsersEstimate": 352470
-    },
-    {
-      "ID": "ACH_50_RINGOUTS_DOWNSPIKE",
-      "SetID": "dc21kim",
-      "Name": "Going Down?",
-      "Percentage": 29,
-      "XP": 30,
-      "UsersEstimate": 309747
-    },
-    {
-      "ID": "ACH_5_TOASTS",
-      "SetID": "dc21kim",
-      "Name": "Credit Where It\u0027s Due",
-      "Percentage": 41,
-      "XP": 15,
-      "UsersEstimate": 437918
-    },
-    {
-      "ID": "ACH_ACCEPT_100_REMATCHES",
-      "SetID": "dc21kim",
-      "Name": "Run It Back",
-      "Percentage": 6,
-      "XP": 30,
-      "UsersEstimate": 64086
-    },
-    {
-      "ID": "ACH_GET_100_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Bun-Puncher Supreme",
-      "Percentage": 68,
-      "XP": 30,
-      "UsersEstimate": 726303
-    },
-    {
-      "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Distanced Damage Dealer",
-      "Percentage": 42,
-      "XP": 90,
-      "UsersEstimate": 448599
-    },
-    {
-      "ID": "ACH_GET_20_PROJECTILE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Watch Your Head",
-      "Percentage": 42,
-      "XP": 15,
-      "UsersEstimate": 448599
-    },
-    {
-      "ID": "ACH_GET_30_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "You Mean Business",
-      "Percentage": 68,
-      "XP": 10,
-      "UsersEstimate": 726303
-    },
-    {
-      "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "Catch This",
-      "Percentage": 42,
-      "XP": 30,
-      "UsersEstimate": 448599
-    },
-    {
-      "ID": "ACH_GET_50_RINGOUTS",
-      "SetID": "dc21kim",
-      "Name": "You\u0027re Getting Pretty Good At This!",
-      "Percentage": 68,
-      "XP": 15,
-      "UsersEstimate": 726303
-    },
-    {
-      "ID": "ACH_PLAY_100_PARTY_MATCHES",
-      "SetID": "dc21kim",
-      "Name": "Life of the Party",
-      "Percentage": 36,
-      "XP": 30,
-      "UsersEstimate": 384513
-    },
-    {
-      "ID": "ACH_PLAY_1_MACHMADE",
-      "SetID": "dc21kim",
-      "Name": "Matchmaker",
-      "Percentage": 74,
-      "XP": 15,
-      "UsersEstimate": 790388
-    },
-    {
-      "ID": "ACH_PLAY_25_PARTY_MATCHES",
-      "SetID": "dc21kim",
-      "Name": "Social Butterfly",
-      "Percentage": 36,
-      "XP": 15,
-      "UsersEstimate": 384513
-    },
-    {
-      "ID": "ACH_PLAY_500_PARTY_MATCHES",
-      "SetID": "dc21kim",
-      "Name": "Party Animal",
-      "Percentage": 36,
-      "XP": 90,
-      "UsersEstimate": 384513
-    },
-    {
-      "ID": "ACH_WIN_100_MATCHMADE_GAMES",
-      "SetID": "dc21kim",
-      "Name": "Proving Yourself",
-      "Percentage": 63,
-      "XP": 30,
-      "UsersEstimate": 672898
-    },
-    {
-      "ID": "ACH_WIN_10_MATCHMADE_GAMES",
-      "SetID": "dc21kim",
-      "Name": "Stepping Out",
-      "Percentage": 63,
-      "XP": 15,
-      "UsersEstimate": 672898
-    },
-    {
-      "ID": "ACH_WIN_300_MATCHMADE_GAMES",
-      "SetID": "dc21kim",
-      "Name": "The Throne Is Yours",
-      "Percentage": 63,
-      "XP": 90,
-      "UsersEstimate": 672898
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 4417
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 4506
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 4736
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 4224
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 4522
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 3938
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 3602
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 4144
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 3605
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 3030
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "",
-      "Type": "",
-      "Count": 86
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 4554
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 3402
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:41.2265466+00:00",
-      "NumProgressed": 1065630,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T16:37:30.0995875+00:00",
-      "NumProgressed": 1065634,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T16:58:20.2003677+00:00",
-      "NumProgressed": 1065636,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T17:57:34.6908965+00:00",
-      "NumProgressed": 1065647,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T18:57:31.9822044+00:00",
-      "NumProgressed": 1065652,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T19:14:01.5392797+00:00",
-      "NumProgressed": 1065654,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T19:58:30.6402119+00:00",
-      "NumProgressed": 1065660,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T20:53:52.2611362+00:00",
-      "NumProgressed": 1065675,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T21:11:32.3775092+00:00",
-      "NumProgressed": 1065678,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T22:12:46.7281973+00:00",
-      "NumProgressed": 1065685,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-25T23:09:15.0420395+00:00",
-      "NumProgressed": 1065696,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T00:08:45.9596301+00:00",
-      "NumProgressed": 1065709,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T02:11:39.9347913+00:00",
-      "NumProgressed": 1065725,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T03:12:00.8323536+00:00",
-      "NumProgressed": 1065736,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T04:08:51.5563251+00:00",
-      "NumProgressed": 1065742,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T05:12:58.8511729+00:00",
-      "NumProgressed": 1065745,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T06:14:18.9790519+00:00",
-      "NumProgressed": 1065748,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T07:11:32.734775+00:00",
-      "NumProgressed": 1065752,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T08:11:32.8498117+00:00",
-      "NumProgressed": 1065754,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T09:09:18.725298+00:00",
-      "NumProgressed": 1065757,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T10:09:27.0112572+00:00",
-      "NumProgressed": 1065760,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T11:11:32.1282658+00:00",
-      "NumProgressed": 1065762,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T12:13:05.6045801+00:00",
-      "NumProgressed": 1065766,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T13:20:17.0912244+00:00",
-      "NumProgressed": 1065772,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T14:09:19.4455578+00:00",
-      "NumProgressed": 1065786,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T15:05:39.8670885+00:00",
-      "NumProgressed": 1065793,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T16:05:14.3270275+00:00",
-      "NumProgressed": 1065806,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T17:05:32.4536366+00:00",
-      "NumProgressed": 1065823,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T18:06:26.0932297+00:00",
-      "NumProgressed": 1065839,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T19:06:26.5347336+00:00",
-      "NumProgressed": 1065861,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T20:05:08.6187861+00:00",
-      "NumProgressed": 1065875,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T21:06:00.9300186+00:00",
-      "NumProgressed": 1065887,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T22:05:16.767673+00:00",
-      "NumProgressed": 1065894,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-26T23:05:51.6067432+00:00",
-      "NumProgressed": 1065905,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T00:05:08.618275+00:00",
-      "NumProgressed": 1065915,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T02:05:35.3599654+00:00",
-      "NumProgressed": 1065937,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T03:06:24.6956081+00:00",
-      "NumProgressed": 1065943,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T04:05:23.38924+00:00",
-      "NumProgressed": 1065948,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T05:05:04.6135533+00:00",
-      "NumProgressed": 1065954,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T06:05:12.8078236+00:00",
-      "NumProgressed": 1065956,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T07:05:25.7649012+00:00",
-      "NumProgressed": 1065961,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T08:05:16.5984384+00:00",
-      "NumProgressed": 1065965,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T09:06:55.855003+00:00",
-      "NumProgressed": 1065969,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T10:05:07.8516107+00:00",
-      "NumProgressed": 1065976,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T11:04:56.5609619+00:00",
-      "NumProgressed": 1065982,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T12:04:51.5337916+00:00",
-      "NumProgressed": 1065989,
-      "NumCompleted": 31609
-    },
-    {
-      "Time": "2023-04-27T13:11:22.2735992+00:00",
-      "NumProgressed": 1065991,
-      "NumCompleted": 31610
-    },
-    {
-      "Time": "2023-04-27T14:05:39.077727+00:00",
-      "NumProgressed": 1065997,
-      "NumCompleted": 31610
-    },
-    {
-      "Time": "2023-04-27T15:07:35.3684272+00:00",
-      "NumProgressed": 1066005,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T16:06:31.0659255+00:00",
-      "NumProgressed": 1066017,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T17:06:38.5868469+00:00",
-      "NumProgressed": 1066029,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T18:06:04.3507196+00:00",
-      "NumProgressed": 1066042,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T19:05:57.9452502+00:00",
-      "NumProgressed": 1066054,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T20:06:06.9127101+00:00",
-      "NumProgressed": 1066061,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T21:05:02.8505428+00:00",
-      "NumProgressed": 1066071,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T22:05:17.9045431+00:00",
-      "NumProgressed": 1066082,
-      "NumCompleted": 31611
-    },
-    {
-      "Time": "2023-04-27T23:05:41.7939724+00:00",
-      "NumProgressed": 1066092,
-      "NumCompleted": 31612
-    },
-    {
-      "Time": "2023-04-28T00:05:13.0835667+00:00",
-      "NumProgressed": 1066105,
-      "NumCompleted": 31612
-    },
-    {
-      "Time": "2023-04-28T02:07:09.978244+00:00",
-      "NumProgressed": 1066126,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T03:05:49.1081529+00:00",
-      "NumProgressed": 1066137,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T04:06:04.2512786+00:00",
-      "NumProgressed": 1066141,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T05:05:01.8707606+00:00",
-      "NumProgressed": 1066146,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T06:06:00.8221968+00:00",
-      "NumProgressed": 1066153,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T07:06:10.5921362+00:00",
-      "NumProgressed": 1066157,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T08:05:43.6664617+00:00",
-      "NumProgressed": 1066161,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T09:05:50.9876207+00:00",
-      "NumProgressed": 1066162,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T10:06:26.9956895+00:00",
-      "NumProgressed": 1066164,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T11:06:15.8722597+00:00",
-      "NumProgressed": 1066172,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T12:06:25.6762905+00:00",
-      "NumProgressed": 1066179,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T13:10:15.9963613+00:00",
-      "NumProgressed": 1066187,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T14:05:32.4764175+00:00",
-      "NumProgressed": 1066197,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T15:05:35.4652216+00:00",
-      "NumProgressed": 1066202,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T16:05:15.3524656+00:00",
-      "NumProgressed": 1066214,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T17:06:52.0110447+00:00",
-      "NumProgressed": 1066230,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T17:21:53.3193027+00:00",
-      "NumProgressed": 1066234,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T18:06:00.2909781+00:00",
-      "NumProgressed": 1066243,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T19:05:45.1668397+00:00",
-      "NumProgressed": 1066259,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T20:06:19.9091722+00:00",
-      "NumProgressed": 1066273,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T21:07:10.125781+00:00",
-      "NumProgressed": 1066286,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T22:05:49.1721757+00:00",
-      "NumProgressed": 1066302,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-28T23:07:28.2889136+00:00",
-      "NumProgressed": 1066311,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T00:06:11.0122991+00:00",
-      "NumProgressed": 1066325,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T02:06:47.4353627+00:00",
-      "NumProgressed": 1066357,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T03:06:31.6103417+00:00",
-      "NumProgressed": 1066369,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T04:06:37.6415251+00:00",
-      "NumProgressed": 1066375,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T05:06:32.9741538+00:00",
-      "NumProgressed": 1066387,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T06:05:13.9495547+00:00",
-      "NumProgressed": 1066393,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T07:05:50.2833827+00:00",
-      "NumProgressed": 1066402,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T08:04:54.8105143+00:00",
-      "NumProgressed": 1066408,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T09:05:16.8061778+00:00",
-      "NumProgressed": 1066412,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T10:04:55.3319617+00:00",
-      "NumProgressed": 1066419,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T11:05:39.8254293+00:00",
-      "NumProgressed": 1066429,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T12:05:39.1467473+00:00",
-      "NumProgressed": 1066434,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T13:07:55.7192469+00:00",
-      "NumProgressed": 1066448,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T14:06:34.2242569+00:00",
-      "NumProgressed": 1066463,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T15:05:38.9775118+00:00",
-      "NumProgressed": 1066485,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T16:06:57.5768044+00:00",
-      "NumProgressed": 1066506,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T17:05:10.5963679+00:00",
-      "NumProgressed": 1066526,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T18:05:17.9002397+00:00",
-      "NumProgressed": 1066557,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T19:05:17.9207886+00:00",
-      "NumProgressed": 1066589,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T20:04:50.012814+00:00",
-      "NumProgressed": 1066621,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T21:05:24.4473233+00:00",
-      "NumProgressed": 1066641,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T22:05:25.9132824+00:00",
-      "NumProgressed": 1066664,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-29T23:05:21.6414684+00:00",
-      "NumProgressed": 1066688,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-30T00:05:04.4074944+00:00",
-      "NumProgressed": 1066709,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-30T02:06:55.5487457+00:00",
-      "NumProgressed": 1066742,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-30T03:05:09.7339518+00:00",
-      "NumProgressed": 1066756,
-      "NumCompleted": 31613
-    },
-    {
-      "Time": "2023-04-30T04:05:01.9854651+00:00",
-      "NumProgressed": 1066768,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T05:05:34.4842062+00:00",
-      "NumProgressed": 1066778,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T06:05:08.1945875+00:00",
-      "NumProgressed": 1066788,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T07:04:54.1593788+00:00",
-      "NumProgressed": 1066796,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T08:06:34.2844805+00:00",
-      "NumProgressed": 1066801,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T09:05:15.4284627+00:00",
-      "NumProgressed": 1066812,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T10:04:54.2392558+00:00",
-      "NumProgressed": 1066819,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T11:05:09.8441837+00:00",
-      "NumProgressed": 1066834,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T12:05:51.8499488+00:00",
-      "NumProgressed": 1066845,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T13:08:49.1364478+00:00",
-      "NumProgressed": 1066856,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T14:05:12.2129075+00:00",
-      "NumProgressed": 1066866,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T15:05:57.7837355+00:00",
-      "NumProgressed": 1066884,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T16:05:48.2769326+00:00",
-      "NumProgressed": 1066903,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T17:05:26.4965015+00:00",
-      "NumProgressed": 1066917,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T18:06:06.1876106+00:00",
-      "NumProgressed": 1066942,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T19:06:33.9687707+00:00",
-      "NumProgressed": 1066967,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T20:05:38.3721043+00:00",
-      "NumProgressed": 1066997,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T21:05:47.3172304+00:00",
-      "NumProgressed": 1067025,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T22:05:51.0974094+00:00",
-      "NumProgressed": 1067038,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-04-30T23:05:21.4663099+00:00",
-      "NumProgressed": 1067058,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T00:06:14.5915812+00:00",
-      "NumProgressed": 1067079,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T02:06:54.0063199+00:00",
-      "NumProgressed": 1067103,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T03:06:23.349621+00:00",
-      "NumProgressed": 1067115,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T04:06:07.3612153+00:00",
-      "NumProgressed": 1067130,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T05:06:08.0167089+00:00",
-      "NumProgressed": 1067139,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T06:05:10.6766525+00:00",
-      "NumProgressed": 1067145,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T07:05:53.1381439+00:00",
-      "NumProgressed": 1067151,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T08:06:14.1058808+00:00",
-      "NumProgressed": 1067154,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T09:05:07.1957503+00:00",
-      "NumProgressed": 1067158,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T10:05:41.5125408+00:00",
-      "NumProgressed": 1067167,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T11:06:03.2271854+00:00",
-      "NumProgressed": 1067180,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T12:05:15.2741852+00:00",
-      "NumProgressed": 1067191,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T13:10:59.3668545+00:00",
-      "NumProgressed": 1067206,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T14:05:36.8417229+00:00",
-      "NumProgressed": 1067214,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T15:05:48.9124051+00:00",
-      "NumProgressed": 1067227,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T16:05:59.1404235+00:00",
-      "NumProgressed": 1067244,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T17:07:07.1852389+00:00",
-      "NumProgressed": 1067258,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T18:06:26.2347349+00:00",
-      "NumProgressed": 1067275,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T19:06:49.9727544+00:00",
-      "NumProgressed": 1067291,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T20:05:16.4641065+00:00",
-      "NumProgressed": 1067314,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T21:06:06.3794839+00:00",
-      "NumProgressed": 1067324,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T22:05:16.5697336+00:00",
-      "NumProgressed": 1067349,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-01T23:05:09.4500868+00:00",
-      "NumProgressed": 1067360,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T00:05:04.7086405+00:00",
-      "NumProgressed": 1067370,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T02:04:01.8600407+00:00",
-      "NumProgressed": 1067391,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T03:06:18.7304251+00:00",
-      "NumProgressed": 1067399,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T04:05:05.8992297+00:00",
-      "NumProgressed": 1067404,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T05:04:53.1267461+00:00",
-      "NumProgressed": 1067408,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T06:05:28.3459291+00:00",
-      "NumProgressed": 1067413,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T07:04:58.6529836+00:00",
-      "NumProgressed": 1067414,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T08:05:06.2307741+00:00",
-      "NumProgressed": 1067421,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T09:06:05.3633615+00:00",
-      "NumProgressed": 1067429,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T10:04:57.6886944+00:00",
-      "NumProgressed": 1067438,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T11:06:32.8564623+00:00",
-      "NumProgressed": 1067440,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T12:05:50.2406336+00:00",
-      "NumProgressed": 1067445,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T13:12:10.8957055+00:00",
-      "NumProgressed": 1067452,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T14:06:19.4476398+00:00",
-      "NumProgressed": 1067466,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T15:05:09.9675108+00:00",
-      "NumProgressed": 1067479,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T16:05:17.4859737+00:00",
-      "NumProgressed": 1067492,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T17:06:09.6662087+00:00",
-      "NumProgressed": 1067511,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T18:06:26.6179623+00:00",
-      "NumProgressed": 1067523,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T19:06:10.3089244+00:00",
-      "NumProgressed": 1067541,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T20:05:11.1707706+00:00",
-      "NumProgressed": 1067555,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T21:05:42.7361585+00:00",
-      "NumProgressed": 1067566,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T22:05:12.8051632+00:00",
-      "NumProgressed": 1067585,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-02T23:05:11.0823694+00:00",
-      "NumProgressed": 1067597,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T00:05:42.6621678+00:00",
-      "NumProgressed": 1067610,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T02:03:23.8678817+00:00",
-      "NumProgressed": 1067621,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T03:06:57.2334766+00:00",
-      "NumProgressed": 1067630,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T04:06:03.7628166+00:00",
-      "NumProgressed": 1067637,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T05:06:20.5324627+00:00",
-      "NumProgressed": 1067641,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T06:05:56.7357749+00:00",
-      "NumProgressed": 1067646,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T07:05:29.5782347+00:00",
-      "NumProgressed": 1067649,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T08:05:02.2364278+00:00",
-      "NumProgressed": 1067652,
-      "NumCompleted": 31615
-    },
-    {
-      "Time": "2023-05-03T09:06:21.2601278+00:00",
-      "NumProgressed": 1067656,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T10:05:15.3794192+00:00",
-      "NumProgressed": 1067661,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T11:05:49.2378931+00:00",
-      "NumProgressed": 1067666,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T12:05:40.8080241+00:00",
-      "NumProgressed": 1067671,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T13:12:08.7412785+00:00",
-      "NumProgressed": 1067683,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T14:06:17.8753343+00:00",
-      "NumProgressed": 1067689,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T15:06:35.4584129+00:00",
-      "NumProgressed": 1067695,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T16:06:21.1988281+00:00",
-      "NumProgressed": 1067702,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T17:06:41.3220626+00:00",
-      "NumProgressed": 1067711,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T18:05:41.4407753+00:00",
-      "NumProgressed": 1067724,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T19:05:06.2078533+00:00",
-      "NumProgressed": 1067736,
-      "NumCompleted": 31616
-    },
-    {
-      "Time": "2023-05-03T20:05:57.2585814+00:00",
-      "NumProgressed": 1067742,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-03T21:05:08.6412612+00:00",
-      "NumProgressed": 1067747,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-03T22:05:10.2946358+00:00",
-      "NumProgressed": 1067759,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-03T23:06:35.310165+00:00",
-      "NumProgressed": 1067773,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T01:57:16.1680337+00:00",
-      "NumProgressed": 1067800,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T02:59:47.4079173+00:00",
-      "NumProgressed": 1067811,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T04:00:35.3627873+00:00",
-      "NumProgressed": 1067819,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T05:00:34.6939698+00:00",
-      "NumProgressed": 1067829,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T06:01:03.9130171+00:00",
-      "NumProgressed": 1067831,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T07:00:12.2683078+00:00",
-      "NumProgressed": 1067832,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T08:01:35.6566442+00:00",
-      "NumProgressed": 1067837,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T09:00:03.0344228+00:00",
-      "NumProgressed": 1067840,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T10:01:02.2713302+00:00",
-      "NumProgressed": 1067841,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T11:00:23.5210317+00:00",
-      "NumProgressed": 1067843,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T12:01:06.3132833+00:00",
-      "NumProgressed": 1067846,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T13:06:34.9371705+00:00",
-      "NumProgressed": 1067851,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T14:00:57.3072926+00:00",
-      "NumProgressed": 1067864,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T15:01:37.9367047+00:00",
-      "NumProgressed": 1067876,
-      "NumCompleted": 31617
-    },
-    {
-      "Time": "2023-05-04T17:01:15.1176412+00:00",
-      "NumProgressed": 1067897,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T18:00:29.7286546+00:00",
-      "NumProgressed": 1067907,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T19:00:21.4800045+00:00",
-      "NumProgressed": 1067920,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T19:15:19.7762508+00:00",
-      "NumProgressed": 1067925,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T19:39:32.2954082+00:00",
-      "NumProgressed": 1067927,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T20:05:20.3331477+00:00",
-      "NumProgressed": 1067930,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T21:05:22.2786174+00:00",
-      "NumProgressed": 1067941,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T22:06:04.2574551+00:00",
-      "NumProgressed": 1067954,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T22:24:17.0608087+00:00",
-      "NumProgressed": 1067957,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T22:39:06.8982085+00:00",
-      "NumProgressed": 1067960,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-04T23:04:25.0638245+00:00",
-      "NumProgressed": 1067966,
-      "NumCompleted": 31618
-    },
-    {
-      "Time": "2023-05-05T00:04:48.527632+00:00",
-      "NumProgressed": 1067978,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T01:58:14.8640957+00:00",
-      "NumProgressed": 1067991,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T02:31:34.4561265+00:00",
-      "NumProgressed": 1067995,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T03:04:58.7369915+00:00",
-      "NumProgressed": 1068001,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T04:05:47.5205379+00:00",
-      "NumProgressed": 1068008,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T05:04:39.8533919+00:00",
-      "NumProgressed": 1068015,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T06:05:04.6958221+00:00",
-      "NumProgressed": 1068020,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T07:05:08.1187238+00:00",
-      "NumProgressed": 1068022,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T08:05:20.0706608+00:00",
-      "NumProgressed": 1068029,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T09:05:27.823918+00:00",
-      "NumProgressed": 1068032,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T10:04:31.6589885+00:00",
-      "NumProgressed": 1068035,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T11:05:09.0160343+00:00",
-      "NumProgressed": 1068042,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T12:05:19.0821678+00:00",
-      "NumProgressed": 1068046,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T13:10:15.3591817+00:00",
-      "NumProgressed": 1068061,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T13:41:19.3642394+00:00",
-      "NumProgressed": 1068062,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T14:04:31.8737799+00:00",
-      "NumProgressed": 1068065,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T15:04:41.0154788+00:00",
-      "NumProgressed": 1068075,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T15:42:09.62214+00:00",
-      "NumProgressed": 1068083,
-      "NumCompleted": 31619
-    },
-    {
-      "Time": "2023-05-05T16:07:19.7790391+00:00",
-      "NumProgressed": 1068092,
-      "NumCompleted": 31619
-    }
-  ],
+  "ProductSlug": "multiversus",
+  "Ranking_Rating": 447,
+  "Ranking_Popularity": 64,
+  "Ranking_PopularitySum": 25,
+  "Ranking_EOS_Progress": 9,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewCompleters": 28,
+  "Rating": 4.56,
+  "NumberOfRatings": 55748,
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -4881,39 +3383,1543 @@
       "NumberOfAwardsMax": 4736
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-05T16:07:19.7790385+00:00",
-  "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 1878,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 45650,
+  "NumberOfAwardsMax": 4736,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 4417
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 4506
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 4736
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 4224
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 4522
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 3938
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 3602
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 4144
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 3605
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 3030
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "",
+      "Type": "",
+      "Count": 86
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 4554
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 3402
+    }
+  ],
+  "EOS_Progressed": 1068105,
   "EOS_Completed": 31619,
-  "EOS_Progressed": 1068092,
-  "LastUpdate_Achievements": "2023-05-05T16:07:19.7790827+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:57.0972729+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:34.7471991+00:00",
+  "EOS_NewPlayers": 1875,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 2.96,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:41.2265466+00:00",
+      "NumProgressed": 1065630,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T16:37:30.0995875+00:00",
+      "NumProgressed": 1065634,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T16:58:20.2003677+00:00",
+      "NumProgressed": 1065636,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T17:57:34.6908965+00:00",
+      "NumProgressed": 1065647,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T18:57:31.9822044+00:00",
+      "NumProgressed": 1065652,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T19:14:01.5392797+00:00",
+      "NumProgressed": 1065654,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T19:58:30.6402119+00:00",
+      "NumProgressed": 1065660,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T20:53:52.2611362+00:00",
+      "NumProgressed": 1065675,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T21:11:32.3775092+00:00",
+      "NumProgressed": 1065678,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T22:12:46.7281973+00:00",
+      "NumProgressed": 1065685,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-25T23:09:15.0420395+00:00",
+      "NumProgressed": 1065696,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T00:08:45.9596301+00:00",
+      "NumProgressed": 1065709,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T02:11:39.9347913+00:00",
+      "NumProgressed": 1065725,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T03:12:00.8323536+00:00",
+      "NumProgressed": 1065736,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T04:08:51.5563251+00:00",
+      "NumProgressed": 1065742,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T05:12:58.8511729+00:00",
+      "NumProgressed": 1065745,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T06:14:18.9790519+00:00",
+      "NumProgressed": 1065748,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T07:11:32.734775+00:00",
+      "NumProgressed": 1065752,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T08:11:32.8498117+00:00",
+      "NumProgressed": 1065754,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T09:09:18.725298+00:00",
+      "NumProgressed": 1065757,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T10:09:27.0112572+00:00",
+      "NumProgressed": 1065760,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T11:11:32.1282658+00:00",
+      "NumProgressed": 1065762,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T12:13:05.6045801+00:00",
+      "NumProgressed": 1065766,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T13:20:17.0912244+00:00",
+      "NumProgressed": 1065772,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T14:09:19.4455578+00:00",
+      "NumProgressed": 1065786,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T15:05:39.8670885+00:00",
+      "NumProgressed": 1065793,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T16:05:14.3270275+00:00",
+      "NumProgressed": 1065806,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T17:05:32.4536366+00:00",
+      "NumProgressed": 1065823,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T18:06:26.0932297+00:00",
+      "NumProgressed": 1065839,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T19:06:26.5347336+00:00",
+      "NumProgressed": 1065861,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T20:05:08.6187861+00:00",
+      "NumProgressed": 1065875,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T21:06:00.9300186+00:00",
+      "NumProgressed": 1065887,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T22:05:16.767673+00:00",
+      "NumProgressed": 1065894,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-26T23:05:51.6067432+00:00",
+      "NumProgressed": 1065905,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T00:05:08.618275+00:00",
+      "NumProgressed": 1065915,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T02:05:35.3599654+00:00",
+      "NumProgressed": 1065937,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T03:06:24.6956081+00:00",
+      "NumProgressed": 1065943,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T04:05:23.38924+00:00",
+      "NumProgressed": 1065948,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T05:05:04.6135533+00:00",
+      "NumProgressed": 1065954,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T06:05:12.8078236+00:00",
+      "NumProgressed": 1065956,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T07:05:25.7649012+00:00",
+      "NumProgressed": 1065961,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T08:05:16.5984384+00:00",
+      "NumProgressed": 1065965,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T09:06:55.855003+00:00",
+      "NumProgressed": 1065969,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T10:05:07.8516107+00:00",
+      "NumProgressed": 1065976,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T11:04:56.5609619+00:00",
+      "NumProgressed": 1065982,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T12:04:51.5337916+00:00",
+      "NumProgressed": 1065989,
+      "NumCompleted": 31609
+    },
+    {
+      "Time": "2023-04-27T13:11:22.2735992+00:00",
+      "NumProgressed": 1065991,
+      "NumCompleted": 31610
+    },
+    {
+      "Time": "2023-04-27T14:05:39.077727+00:00",
+      "NumProgressed": 1065997,
+      "NumCompleted": 31610
+    },
+    {
+      "Time": "2023-04-27T15:07:35.3684272+00:00",
+      "NumProgressed": 1066005,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T16:06:31.0659255+00:00",
+      "NumProgressed": 1066017,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T17:06:38.5868469+00:00",
+      "NumProgressed": 1066029,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T18:06:04.3507196+00:00",
+      "NumProgressed": 1066042,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T19:05:57.9452502+00:00",
+      "NumProgressed": 1066054,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T20:06:06.9127101+00:00",
+      "NumProgressed": 1066061,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T21:05:02.8505428+00:00",
+      "NumProgressed": 1066071,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T22:05:17.9045431+00:00",
+      "NumProgressed": 1066082,
+      "NumCompleted": 31611
+    },
+    {
+      "Time": "2023-04-27T23:05:41.7939724+00:00",
+      "NumProgressed": 1066092,
+      "NumCompleted": 31612
+    },
+    {
+      "Time": "2023-04-28T00:05:13.0835667+00:00",
+      "NumProgressed": 1066105,
+      "NumCompleted": 31612
+    },
+    {
+      "Time": "2023-04-28T02:07:09.978244+00:00",
+      "NumProgressed": 1066126,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T03:05:49.1081529+00:00",
+      "NumProgressed": 1066137,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T04:06:04.2512786+00:00",
+      "NumProgressed": 1066141,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T05:05:01.8707606+00:00",
+      "NumProgressed": 1066146,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T06:06:00.8221968+00:00",
+      "NumProgressed": 1066153,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T07:06:10.5921362+00:00",
+      "NumProgressed": 1066157,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T08:05:43.6664617+00:00",
+      "NumProgressed": 1066161,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T09:05:50.9876207+00:00",
+      "NumProgressed": 1066162,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T10:06:26.9956895+00:00",
+      "NumProgressed": 1066164,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T11:06:15.8722597+00:00",
+      "NumProgressed": 1066172,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T12:06:25.6762905+00:00",
+      "NumProgressed": 1066179,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T13:10:15.9963613+00:00",
+      "NumProgressed": 1066187,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T14:05:32.4764175+00:00",
+      "NumProgressed": 1066197,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T15:05:35.4652216+00:00",
+      "NumProgressed": 1066202,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T16:05:15.3524656+00:00",
+      "NumProgressed": 1066214,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T17:06:52.0110447+00:00",
+      "NumProgressed": 1066230,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T17:21:53.3193027+00:00",
+      "NumProgressed": 1066234,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T18:06:00.2909781+00:00",
+      "NumProgressed": 1066243,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T19:05:45.1668397+00:00",
+      "NumProgressed": 1066259,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T20:06:19.9091722+00:00",
+      "NumProgressed": 1066273,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T21:07:10.125781+00:00",
+      "NumProgressed": 1066286,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T22:05:49.1721757+00:00",
+      "NumProgressed": 1066302,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-28T23:07:28.2889136+00:00",
+      "NumProgressed": 1066311,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T00:06:11.0122991+00:00",
+      "NumProgressed": 1066325,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T02:06:47.4353627+00:00",
+      "NumProgressed": 1066357,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T03:06:31.6103417+00:00",
+      "NumProgressed": 1066369,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T04:06:37.6415251+00:00",
+      "NumProgressed": 1066375,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T05:06:32.9741538+00:00",
+      "NumProgressed": 1066387,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T06:05:13.9495547+00:00",
+      "NumProgressed": 1066393,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T07:05:50.2833827+00:00",
+      "NumProgressed": 1066402,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T08:04:54.8105143+00:00",
+      "NumProgressed": 1066408,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T09:05:16.8061778+00:00",
+      "NumProgressed": 1066412,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T10:04:55.3319617+00:00",
+      "NumProgressed": 1066419,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T11:05:39.8254293+00:00",
+      "NumProgressed": 1066429,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T12:05:39.1467473+00:00",
+      "NumProgressed": 1066434,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T13:07:55.7192469+00:00",
+      "NumProgressed": 1066448,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T14:06:34.2242569+00:00",
+      "NumProgressed": 1066463,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T15:05:38.9775118+00:00",
+      "NumProgressed": 1066485,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T16:06:57.5768044+00:00",
+      "NumProgressed": 1066506,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T17:05:10.5963679+00:00",
+      "NumProgressed": 1066526,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T18:05:17.9002397+00:00",
+      "NumProgressed": 1066557,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T19:05:17.9207886+00:00",
+      "NumProgressed": 1066589,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T20:04:50.012814+00:00",
+      "NumProgressed": 1066621,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T21:05:24.4473233+00:00",
+      "NumProgressed": 1066641,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T22:05:25.9132824+00:00",
+      "NumProgressed": 1066664,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-29T23:05:21.6414684+00:00",
+      "NumProgressed": 1066688,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-30T00:05:04.4074944+00:00",
+      "NumProgressed": 1066709,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-30T02:06:55.5487457+00:00",
+      "NumProgressed": 1066742,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-30T03:05:09.7339518+00:00",
+      "NumProgressed": 1066756,
+      "NumCompleted": 31613
+    },
+    {
+      "Time": "2023-04-30T04:05:01.9854651+00:00",
+      "NumProgressed": 1066768,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T05:05:34.4842062+00:00",
+      "NumProgressed": 1066778,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T06:05:08.1945875+00:00",
+      "NumProgressed": 1066788,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T07:04:54.1593788+00:00",
+      "NumProgressed": 1066796,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T08:06:34.2844805+00:00",
+      "NumProgressed": 1066801,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T09:05:15.4284627+00:00",
+      "NumProgressed": 1066812,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T10:04:54.2392558+00:00",
+      "NumProgressed": 1066819,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T11:05:09.8441837+00:00",
+      "NumProgressed": 1066834,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T12:05:51.8499488+00:00",
+      "NumProgressed": 1066845,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T13:08:49.1364478+00:00",
+      "NumProgressed": 1066856,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T14:05:12.2129075+00:00",
+      "NumProgressed": 1066866,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T15:05:57.7837355+00:00",
+      "NumProgressed": 1066884,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T16:05:48.2769326+00:00",
+      "NumProgressed": 1066903,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T17:05:26.4965015+00:00",
+      "NumProgressed": 1066917,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T18:06:06.1876106+00:00",
+      "NumProgressed": 1066942,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T19:06:33.9687707+00:00",
+      "NumProgressed": 1066967,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T20:05:38.3721043+00:00",
+      "NumProgressed": 1066997,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T21:05:47.3172304+00:00",
+      "NumProgressed": 1067025,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T22:05:51.0974094+00:00",
+      "NumProgressed": 1067038,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T23:05:21.4663099+00:00",
+      "NumProgressed": 1067058,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T00:06:14.5915812+00:00",
+      "NumProgressed": 1067079,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T02:06:54.0063199+00:00",
+      "NumProgressed": 1067103,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T03:06:23.349621+00:00",
+      "NumProgressed": 1067115,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T04:06:07.3612153+00:00",
+      "NumProgressed": 1067130,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T05:06:08.0167089+00:00",
+      "NumProgressed": 1067139,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T06:05:10.6766525+00:00",
+      "NumProgressed": 1067145,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T07:05:53.1381439+00:00",
+      "NumProgressed": 1067151,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T08:06:14.1058808+00:00",
+      "NumProgressed": 1067154,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T09:05:07.1957503+00:00",
+      "NumProgressed": 1067158,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T10:05:41.5125408+00:00",
+      "NumProgressed": 1067167,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T11:06:03.2271854+00:00",
+      "NumProgressed": 1067180,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T12:05:15.2741852+00:00",
+      "NumProgressed": 1067191,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T13:10:59.3668545+00:00",
+      "NumProgressed": 1067206,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T14:05:36.8417229+00:00",
+      "NumProgressed": 1067214,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T15:05:48.9124051+00:00",
+      "NumProgressed": 1067227,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T16:05:59.1404235+00:00",
+      "NumProgressed": 1067244,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T17:07:07.1852389+00:00",
+      "NumProgressed": 1067258,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T18:06:26.2347349+00:00",
+      "NumProgressed": 1067275,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T19:06:49.9727544+00:00",
+      "NumProgressed": 1067291,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T20:05:16.4641065+00:00",
+      "NumProgressed": 1067314,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T21:06:06.3794839+00:00",
+      "NumProgressed": 1067324,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T22:05:16.5697336+00:00",
+      "NumProgressed": 1067349,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-01T23:05:09.4500868+00:00",
+      "NumProgressed": 1067360,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T00:05:04.7086405+00:00",
+      "NumProgressed": 1067370,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T02:04:01.8600407+00:00",
+      "NumProgressed": 1067391,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T03:06:18.7304251+00:00",
+      "NumProgressed": 1067399,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T04:05:05.8992297+00:00",
+      "NumProgressed": 1067404,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T05:04:53.1267461+00:00",
+      "NumProgressed": 1067408,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T06:05:28.3459291+00:00",
+      "NumProgressed": 1067413,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T07:04:58.6529836+00:00",
+      "NumProgressed": 1067414,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T08:05:06.2307741+00:00",
+      "NumProgressed": 1067421,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T09:06:05.3633615+00:00",
+      "NumProgressed": 1067429,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T10:04:57.6886944+00:00",
+      "NumProgressed": 1067438,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T11:06:32.8564623+00:00",
+      "NumProgressed": 1067440,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T12:05:50.2406336+00:00",
+      "NumProgressed": 1067445,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T13:12:10.8957055+00:00",
+      "NumProgressed": 1067452,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T14:06:19.4476398+00:00",
+      "NumProgressed": 1067466,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T15:05:09.9675108+00:00",
+      "NumProgressed": 1067479,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T16:05:17.4859737+00:00",
+      "NumProgressed": 1067492,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T17:06:09.6662087+00:00",
+      "NumProgressed": 1067511,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T18:06:26.6179623+00:00",
+      "NumProgressed": 1067523,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T19:06:10.3089244+00:00",
+      "NumProgressed": 1067541,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T20:05:11.1707706+00:00",
+      "NumProgressed": 1067555,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T21:05:42.7361585+00:00",
+      "NumProgressed": 1067566,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T22:05:12.8051632+00:00",
+      "NumProgressed": 1067585,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-02T23:05:11.0823694+00:00",
+      "NumProgressed": 1067597,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T00:05:42.6621678+00:00",
+      "NumProgressed": 1067610,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T02:03:23.8678817+00:00",
+      "NumProgressed": 1067621,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T03:06:57.2334766+00:00",
+      "NumProgressed": 1067630,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T04:06:03.7628166+00:00",
+      "NumProgressed": 1067637,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T05:06:20.5324627+00:00",
+      "NumProgressed": 1067641,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T06:05:56.7357749+00:00",
+      "NumProgressed": 1067646,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T07:05:29.5782347+00:00",
+      "NumProgressed": 1067649,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T08:05:02.2364278+00:00",
+      "NumProgressed": 1067652,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-05-03T09:06:21.2601278+00:00",
+      "NumProgressed": 1067656,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T10:05:15.3794192+00:00",
+      "NumProgressed": 1067661,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T11:05:49.2378931+00:00",
+      "NumProgressed": 1067666,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T12:05:40.8080241+00:00",
+      "NumProgressed": 1067671,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T13:12:08.7412785+00:00",
+      "NumProgressed": 1067683,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T14:06:17.8753343+00:00",
+      "NumProgressed": 1067689,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T15:06:35.4584129+00:00",
+      "NumProgressed": 1067695,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T16:06:21.1988281+00:00",
+      "NumProgressed": 1067702,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T17:06:41.3220626+00:00",
+      "NumProgressed": 1067711,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T18:05:41.4407753+00:00",
+      "NumProgressed": 1067724,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T19:05:06.2078533+00:00",
+      "NumProgressed": 1067736,
+      "NumCompleted": 31616
+    },
+    {
+      "Time": "2023-05-03T20:05:57.2585814+00:00",
+      "NumProgressed": 1067742,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-03T21:05:08.6412612+00:00",
+      "NumProgressed": 1067747,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-03T22:05:10.2946358+00:00",
+      "NumProgressed": 1067759,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-03T23:06:35.310165+00:00",
+      "NumProgressed": 1067773,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T01:57:16.1680337+00:00",
+      "NumProgressed": 1067800,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T02:59:47.4079173+00:00",
+      "NumProgressed": 1067811,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T04:00:35.3627873+00:00",
+      "NumProgressed": 1067819,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T05:00:34.6939698+00:00",
+      "NumProgressed": 1067829,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T06:01:03.9130171+00:00",
+      "NumProgressed": 1067831,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T07:00:12.2683078+00:00",
+      "NumProgressed": 1067832,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T08:01:35.6566442+00:00",
+      "NumProgressed": 1067837,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T09:00:03.0344228+00:00",
+      "NumProgressed": 1067840,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T10:01:02.2713302+00:00",
+      "NumProgressed": 1067841,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T11:00:23.5210317+00:00",
+      "NumProgressed": 1067843,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T12:01:06.3132833+00:00",
+      "NumProgressed": 1067846,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T13:06:34.9371705+00:00",
+      "NumProgressed": 1067851,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T14:00:57.3072926+00:00",
+      "NumProgressed": 1067864,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T15:01:37.9367047+00:00",
+      "NumProgressed": 1067876,
+      "NumCompleted": 31617
+    },
+    {
+      "Time": "2023-05-04T17:01:15.1176412+00:00",
+      "NumProgressed": 1067897,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T18:00:29.7286546+00:00",
+      "NumProgressed": 1067907,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T19:00:21.4800045+00:00",
+      "NumProgressed": 1067920,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T19:15:19.7762508+00:00",
+      "NumProgressed": 1067925,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T19:39:32.2954082+00:00",
+      "NumProgressed": 1067927,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T20:05:20.3331477+00:00",
+      "NumProgressed": 1067930,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T21:05:22.2786174+00:00",
+      "NumProgressed": 1067941,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T22:06:04.2574551+00:00",
+      "NumProgressed": 1067954,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T22:24:17.0608087+00:00",
+      "NumProgressed": 1067957,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T22:39:06.8982085+00:00",
+      "NumProgressed": 1067960,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-04T23:04:25.0638245+00:00",
+      "NumProgressed": 1067966,
+      "NumCompleted": 31618
+    },
+    {
+      "Time": "2023-05-05T00:04:48.527632+00:00",
+      "NumProgressed": 1067978,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T01:58:14.8640957+00:00",
+      "NumProgressed": 1067991,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T02:31:34.4561265+00:00",
+      "NumProgressed": 1067995,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T03:04:58.7369915+00:00",
+      "NumProgressed": 1068001,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T04:05:47.5205379+00:00",
+      "NumProgressed": 1068008,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T05:04:39.8533919+00:00",
+      "NumProgressed": 1068015,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T06:05:04.6958221+00:00",
+      "NumProgressed": 1068020,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T07:05:08.1187238+00:00",
+      "NumProgressed": 1068022,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T08:05:20.0706608+00:00",
+      "NumProgressed": 1068029,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T09:05:27.823918+00:00",
+      "NumProgressed": 1068032,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T10:04:31.6589885+00:00",
+      "NumProgressed": 1068035,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T11:05:09.0160343+00:00",
+      "NumProgressed": 1068042,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T12:05:19.0821678+00:00",
+      "NumProgressed": 1068046,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T13:10:15.3591817+00:00",
+      "NumProgressed": 1068061,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T13:41:19.3642394+00:00",
+      "NumProgressed": 1068062,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T14:04:31.8737799+00:00",
+      "NumProgressed": 1068065,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T15:04:41.0154788+00:00",
+      "NumProgressed": 1068075,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T15:42:09.62214+00:00",
+      "NumProgressed": 1068083,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T16:07:19.7790391+00:00",
+      "NumProgressed": 1068092,
+      "NumCompleted": 31619
+    },
+    {
+      "Time": "2023-05-05T17:09:10.7760108+00:00",
+      "NumProgressed": 1068105,
+      "NumCompleted": 31619
+    }
+  ],
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_100_DOUBLE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "And Your Little Dog, Too!",
+      "Percentage": 33,
+      "XP": 90,
+      "UsersEstimate": 352475
+    },
+    {
+      "ID": "ACH_100_RINGOUTS_DOWNSPIKE",
+      "SetID": "dc21kim",
+      "Name": "Ground Floor: Ringouts",
+      "Percentage": 29,
+      "XP": 90,
+      "UsersEstimate": 309750
+    },
+    {
+      "ID": "ACH_100_TOASTS",
+      "SetID": "dc21kim",
+      "Name": "Toast Master",
+      "Percentage": 41,
+      "XP": 90,
+      "UsersEstimate": 437923
+    },
+    {
+      "ID": "ACH_10_DOUBLE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Bring A Friend",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 352475
+    },
+    {
+      "ID": "ACH_10_LOW_DAMAGE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Signature Slammer",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 459285
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_BOTTOM",
+      "SetID": "dc21kim",
+      "Name": "Spike Specialist",
+      "Percentage": 54,
+      "XP": 15,
+      "UsersEstimate": 576777
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_DOWNSPIKE",
+      "SetID": "dc21kim",
+      "Name": "Watch Your Step",
+      "Percentage": 29,
+      "XP": 15,
+      "UsersEstimate": 309750
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_LEFT",
+      "SetID": "dc21kim",
+      "Name": "Southpaw Specialist",
+      "Percentage": 54,
+      "XP": 15,
+      "UsersEstimate": 576777
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_RIGHT",
+      "SetID": "dc21kim",
+      "Name": "Rightie Specialist",
+      "Percentage": 54,
+      "XP": 15,
+      "UsersEstimate": 576777
+    },
+    {
+      "ID": "ACH_10_RINGOUTS_TOP",
+      "SetID": "dc21kim",
+      "Name": "Aerial Specialist",
+      "Percentage": 63,
+      "XP": 15,
+      "UsersEstimate": 672906
+    },
+    {
+      "ID": "ACH_10_TOASTS",
+      "SetID": "dc21kim",
+      "Name": "Nice Speech",
+      "Percentage": 41,
+      "XP": 30,
+      "UsersEstimate": 437923
+    },
+    {
+      "ID": "ACH_25_DOUBLE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Ringouts Are Better In Pairs",
+      "Percentage": 33,
+      "XP": 30,
+      "UsersEstimate": 352475
+    },
+    {
+      "ID": "ACH_50_RINGOUTS_DOWNSPIKE",
+      "SetID": "dc21kim",
+      "Name": "Going Down?",
+      "Percentage": 29,
+      "XP": 30,
+      "UsersEstimate": 309750
+    },
+    {
+      "ID": "ACH_5_TOASTS",
+      "SetID": "dc21kim",
+      "Name": "Credit Where It\u0027s Due",
+      "Percentage": 41,
+      "XP": 15,
+      "UsersEstimate": 437923
+    },
+    {
+      "ID": "ACH_ACCEPT_100_REMATCHES",
+      "SetID": "dc21kim",
+      "Name": "Run It Back",
+      "Percentage": 6,
+      "XP": 30,
+      "UsersEstimate": 64086
+    },
+    {
+      "ID": "ACH_GET_100_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Bun-Puncher Supreme",
+      "Percentage": 68,
+      "XP": 30,
+      "UsersEstimate": 726311
+    },
+    {
+      "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Distanced Damage Dealer",
+      "Percentage": 42,
+      "XP": 90,
+      "UsersEstimate": 448604
+    },
+    {
+      "ID": "ACH_GET_20_PROJECTILE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Watch Your Head",
+      "Percentage": 42,
+      "XP": 15,
+      "UsersEstimate": 448604
+    },
+    {
+      "ID": "ACH_GET_30_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "You Mean Business",
+      "Percentage": 68,
+      "XP": 10,
+      "UsersEstimate": 726311
+    },
+    {
+      "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "Catch This",
+      "Percentage": 42,
+      "XP": 30,
+      "UsersEstimate": 448604
+    },
+    {
+      "ID": "ACH_GET_50_RINGOUTS",
+      "SetID": "dc21kim",
+      "Name": "You\u0027re Getting Pretty Good At This!",
+      "Percentage": 68,
+      "XP": 15,
+      "UsersEstimate": 726311
+    },
+    {
+      "ID": "ACH_PLAY_100_PARTY_MATCHES",
+      "SetID": "dc21kim",
+      "Name": "Life of the Party",
+      "Percentage": 36,
+      "XP": 30,
+      "UsersEstimate": 384518
+    },
+    {
+      "ID": "ACH_PLAY_1_MACHMADE",
+      "SetID": "dc21kim",
+      "Name": "Matchmaker",
+      "Percentage": 74,
+      "XP": 15,
+      "UsersEstimate": 790398
+    },
+    {
+      "ID": "ACH_PLAY_25_PARTY_MATCHES",
+      "SetID": "dc21kim",
+      "Name": "Social Butterfly",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 384518
+    },
+    {
+      "ID": "ACH_PLAY_500_PARTY_MATCHES",
+      "SetID": "dc21kim",
+      "Name": "Party Animal",
+      "Percentage": 36,
+      "XP": 90,
+      "UsersEstimate": 384518
+    },
+    {
+      "ID": "ACH_WIN_100_MATCHMADE_GAMES",
+      "SetID": "dc21kim",
+      "Name": "Proving Yourself",
+      "Percentage": 63,
+      "XP": 30,
+      "UsersEstimate": 672906
+    },
+    {
+      "ID": "ACH_WIN_10_MATCHMADE_GAMES",
+      "SetID": "dc21kim",
+      "Name": "Stepping Out",
+      "Percentage": 63,
+      "XP": 15,
+      "UsersEstimate": 672906
+    },
+    {
+      "ID": "ACH_WIN_300_MATCHMADE_GAMES",
+      "SetID": "dc21kim",
+      "Name": "The Throne Is Yours",
+      "Percentage": 63,
+      "XP": 90,
+      "UsersEstimate": 672906
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1068092,
+      "Progressed": 1068105,
       "Completed": 31619
     }
   ],
-  "EOS_Completed_Percentage": 2.96,
-  "LastChanged": "2023-05-02T22:59:53.3774042+00:00",
-  "ProductSlug": "multiversus",
-  "Rating": 4.56,
-  "Ranking_Rating": 447,
-  "Ranking_Popularity": 64,
-  "Ranking_PopularitySum": 25,
-  "Ranking_EOS_Progress": 9,
-  "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewCompleters": 28,
-  "NumberOfRatings": 55748,
-  "NumberOfAwards": 45650,
-  "NumberOfAwardsMax": 4736,
-  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "Ranking_EOS_NewPlayers": 34
+  "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
+  "LastChanged": "2023-05-02T22:59:53.3774042+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:10.7760103+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:34.9053618+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:26.9685438+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:10.7760383+00:00"
 }

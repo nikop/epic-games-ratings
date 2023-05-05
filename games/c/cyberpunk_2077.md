@@ -5,39 +5,39 @@ Rating: 4.62 (Ranked 338)
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 63,632  (Ranked 9)  
-Sum: 166,347 (Ranked 13)  
+Sum: 166,362 (Ranked 13)  
 Diff (max vs sum): -4  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~534,676 |
-| Right Back At Ya | 37.00% | ~295,269 |
-| The Lovers | 32.00% | ~255,368 |
-| Stanislavski's Method | 27.00% | ~215,466 |
-| The Wheel of Fortune | 25.00% | ~199,506 |
-| The Hermit | 22.00% | ~175,565 |
-| True Soldier | 22.00% | ~175,565 |
-| Christmas Tree Attack | 21.00% | ~167,585 |
-| The High Priestess | 20.00% | ~159,605 |
-| Legend of The Afterlife | 20.00% | ~159,605 |
-| Life of the Road | 19.00% | ~151,625 |
-| Full Body Conversion | 17.00% | ~135,664 |
-| The World | 16.00% | ~127,684 |
-| Bushido and Chill | 15.00% | ~119,704 |
-| True Warrior | 14.00% | ~111,723 |
-| To Protect and Serve | 13.00% | ~103,743 |
-| Gun Fu | 13.00% | ~103,743 |
-| Master Crafter | 13.00% | ~103,743 |
-| I Am The Law | 13.00% | ~103,743 |
-| Judy vs Night City | 13.00% | ~103,743 |
-| Two Heads, One Bullet | 11.00% | ~87,783 |
-| The Wandering Fool | 9.00% | ~71,822 |
-| The Quick and the Dead | 9.00% | ~71,822 |
-| Ten out of Ten | 8.00% | ~63,842 |
+| The Fool | 67.00% | ~534,683 |
+| Right Back At Ya | 37.00% | ~295,273 |
+| The Lovers | 32.00% | ~255,371 |
+| Stanislavski's Method | 27.00% | ~215,469 |
+| The Wheel of Fortune | 25.00% | ~199,508 |
+| The Hermit | 22.00% | ~175,567 |
+| True Soldier | 22.00% | ~175,567 |
+| Christmas Tree Attack | 21.00% | ~167,587 |
+| The High Priestess | 20.00% | ~159,607 |
+| Legend of The Afterlife | 20.00% | ~159,607 |
+| Life of the Road | 19.00% | ~151,626 |
+| Full Body Conversion | 17.00% | ~135,666 |
+| The World | 16.00% | ~127,685 |
+| Bushido and Chill | 15.00% | ~119,705 |
+| True Warrior | 14.00% | ~111,725 |
+| To Protect and Serve | 13.00% | ~103,744 |
+| Gun Fu | 13.00% | ~103,744 |
+| Master Crafter | 13.00% | ~103,744 |
+| I Am The Law | 13.00% | ~103,744 |
+| Judy vs Night City | 13.00% | ~103,744 |
+| Two Heads, One Bullet | 11.00% | ~87,784 |
+| The Wandering Fool | 9.00% | ~71,823 |
+| The Quick and the Dead | 9.00% | ~71,823 |
+| Ten out of Ten | 8.00% | ~63,843 |
 | Breathtaking | 7.00% | ~55,862 |
-| To Bad Decisions! | 6.00% | ~47,881 |
-| The Star | 6.00% | ~47,881 |
-| The Sun | 6.00% | ~47,881 |
+| To Bad Decisions! | 6.00% | ~47,882 |
+| The Star | 6.00% | ~47,882 |
+| The Sun | 6.00% | ~47,882 |
 | Must Be Rats | 4.00% | ~31,921 |
 | Temperance | 4.00% | ~31,921 |
 | City Lights | 3.00% | ~23,941 |
@@ -48,15 +48,15 @@ Diff (max vs sum): -4
 | The Jungle | 3.00% | ~23,941 |
 | V for Vendetta | 3.00% | ~23,941 |
 | It's Elementary | 3.00% | ~23,941 |
-| Autojock | 2.00% | ~15,960 |
-| The Wasteland | 2.00% | ~15,960 |
-| Daemon In The Shell | 2.00% | ~15,960 |
-| The Devil | 2.00% | ~15,960 |
+| Autojock | 2.00% | ~15,961 |
+| The Wasteland | 2.00% | ~15,961 |
+| Daemon In The Shell | 2.00% | ~15,961 |
+| The Devil | 2.00% | ~15,961 |
 | Gunslinger | 1.00% | ~7,980 |
 | Rough Landing | 0.40% | ~3,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,024 (Ranked 10)  
-Completed: 1,568 (0.20%) (Ranked 131)  
+Progressed: 798,034 (Ranked 10)  
+Completed: 1,569 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 1,568 (0.20%) (Ranked 131)
 | 2023-05-02 | 797,505 | 1,559 |
 | 2023-05-03 | 797,701 | 1,562 |
 | 2023-05-04 | 797,891 | 1,567 |
-| 2023-05-05 | 798,024 | 1,568 |
+| 2023-05-05 | 798,034 | 1,569 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -81,7 +81,7 @@ Completed: 1,568 (0.20%) (Ranked 131)
 | This game has Diverse Characters | 7,230 |
 | This game is Extremely Fun | 7,194 |
 | This game is Relaxing | 7,144 |
-| This game is Highly Recommended | 7,120 |
+| This game is Highly Recommended | 7,135 |
 | This game has Quickly Understood Controls | 7,019 |
 | This game has Amazing Characters | 6,955 |
 | This game has a Creative Community | 4,645 |
@@ -194,4 +194,4 @@ Completed: 1,568 (0.20%) (Ranked 131)
 | 2023-05-02 | 4.62 | - | 63,418 | 165,714 |
 | 2023-05-03 | 4.62 | - | 63,500 | 165,972 |
 | 2023-05-04 | 4.62 | - | 63,570 | 166,185 |
-| 2023-05-05 | 4.62 | - | 63,632 | 166,347 |
+| 2023-05-05 | 4.62 | - | 63,632 | 166,362 |

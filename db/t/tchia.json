@@ -1,177 +1,132 @@
 {
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
-  "Achievements": [
+  "ProductSlug": "tchia",
+  "Ranking_Rating": 103,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 117,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 38,
+  "Rating": 4.77,
+  "RatingHistory": [
     {
-      "ID": "AHEM_AHEM",
-      "SetID": "3cck1g6",
-      "Name": "Ahem Ahem",
-      "Percentage": 9,
-      "XP": 40,
-      "UsersEstimate": 494
+      "Time": "2023-03-27T01:58:07.9260384+00:00",
+      "Rating": 4.82
     },
     {
-      "ID": "ARRR",
-      "SetID": "3cck1g6",
-      "Name": "Arrr!",
-      "Percentage": 2,
-      "XP": 40,
-      "UsersEstimate": 110
+      "Time": "2023-03-28T02:01:46.1068098+00:00",
+      "Rating": 4.83
     },
     {
-      "ID": "AUDIOPHILE",
-      "SetID": "3cck1g6",
-      "Name": "Audiophile",
-      "Percentage": 7,
-      "XP": 40,
-      "UsersEstimate": 384
+      "Time": "2023-03-29T13:13:01.7528023+00:00",
+      "Rating": 4.81
     },
     {
-      "ID": "BODY_AND_SOUL",
-      "SetID": "3cck1g6",
-      "Name": "Body and Soul",
-      "Percentage": 10,
-      "XP": 80,
-      "UsersEstimate": 549
+      "Time": "2023-03-30T13:11:09.4083211+00:00",
+      "Rating": 4.82
     },
     {
-      "ID": "CA_DE_WIZZ",
-      "SetID": "3cck1g6",
-      "Name": "\u00C7a de Wizz!",
-      "Percentage": 1,
-      "XP": 80,
-      "UsersEstimate": 55
+      "Time": "2023-03-31T05:57:34.8318241+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "CLAY_PIGEON",
-      "SetID": "3cck1g6",
-      "Name": "Clay Pigeon",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 329
+      "Time": "2023-03-31T13:09:27.917408+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ENERGY_SAVER",
-      "SetID": "3cck1g6",
-      "Name": "Energy Saver",
-      "Percentage": 16,
-      "XP": 40,
-      "UsersEstimate": 878
+      "Time": "2023-03-31T16:57:46.9952866+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "FASHION_FAUX_PAS",
-      "SetID": "3cck1g6",
-      "Name": "Fashion Faux-Pas",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 165
+      "Time": "2023-04-01T16:57:50.5250674+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "FASHION_VICTIM",
-      "SetID": "3cck1g6",
-      "Name": "Fashion Victim",
-      "Percentage": 2,
-      "XP": 80,
-      "UsersEstimate": 110
+      "Time": "2023-04-02T16:57:29.1615139+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "GLOBE_TROTTER",
-      "SetID": "3cck1g6",
-      "Name": "Globe Trotter",
-      "Percentage": 11,
-      "XP": 40,
-      "UsersEstimate": 604
+      "Time": "2023-04-04T16:57:45.1580531+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "HAPPY_CAMPER",
-      "SetID": "3cck1g6",
-      "Name": "Happy Camper",
-      "Percentage": 4,
-      "XP": 40,
-      "UsersEstimate": 220
+      "Time": "2023-04-05T16:57:32.0734161+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "HISTORIAN",
-      "SetID": "3cck1g6",
-      "Name": "Historian",
-      "Percentage": 5,
-      "XP": 80,
-      "UsersEstimate": 274
+      "Time": "2023-04-06T16:57:26.2439963+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ICONOCLAST",
-      "SetID": "3cck1g6",
-      "Name": "Iconoclast",
-      "Percentage": 5,
-      "XP": 40,
-      "UsersEstimate": 274
+      "Time": "2023-04-08T13:00:33.4226249+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "IN_A_PINCH",
-      "SetID": "3cck1g6",
-      "Name": "In a Pinch",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 1043
+      "Time": "2023-04-10T04:57:34.2025458+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "LIBERATOR",
-      "SetID": "3cck1g6",
-      "Name": "Liberator",
-      "Percentage": 4,
-      "XP": 80,
-      "UsersEstimate": 220
+      "Time": "2023-04-14T22:57:44.0491356+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "LIVE_WIRE",
-      "SetID": "3cck1g6",
-      "Name": "Live Wire",
-      "Percentage": 3,
-      "XP": 80,
-      "UsersEstimate": 165
+      "Time": "2023-04-17T22:57:22.5710363+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "SHREDDER",
-      "SetID": "3cck1g6",
-      "Name": "Shredder",
-      "Percentage": 5,
-      "XP": 40,
-      "UsersEstimate": 274
+      "Time": "2023-04-20T20:57:38.7804286+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "SNIP_SNIP",
-      "SetID": "3cck1g6",
-      "Name": "Snip Snip",
-      "Percentage": 2,
-      "XP": 40,
-      "UsersEstimate": 110
+      "Time": "2023-04-29T04:58:04.4571999+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "SOUL_CANON",
-      "SetID": "3cck1g6",
-      "Name": "Soul-Canon",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 329
-    },
-    {
-      "ID": "THE_JOURNEY_ONWARDS",
-      "SetID": "3cck1g6",
-      "Name": "The Journey Onwards",
-      "Percentage": 12,
-      "XP": 40,
-      "UsersEstimate": 659
-    },
-    {
-      "ID": "THING",
-      "SetID": "3cck1g6",
-      "Name": "Thing",
-      "Percentage": 1,
-      "XP": 80,
-      "UsersEstimate": 55
+      "Time": "2023-05-05T08:57:51.5234337+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 5491,
+  "EOS_Completed": 19,
+  "EOS_NewPlayers": 130,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -832,148 +787,199 @@
       "Time": "2023-05-05T15:42:16.6279181+00:00",
       "NumProgressed": 5490,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T17:09:16.621676+00:00",
+      "NumProgressed": 5491,
+      "NumCompleted": 19
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-27T01:58:07.9260384+00:00",
-      "Rating": 4.82
-    },
-    {
-      "Time": "2023-03-28T02:01:46.1068098+00:00",
-      "Rating": 4.83
-    },
-    {
-      "Time": "2023-03-29T13:13:01.7528023+00:00",
-      "Rating": 4.81
-    },
-    {
-      "Time": "2023-03-30T13:11:09.4083211+00:00",
-      "Rating": 4.82
-    },
-    {
-      "Time": "2023-03-31T05:57:34.8318241+00:00",
-      "Rating": 4.82,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-03-31T13:09:27.917408+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-03-31T16:57:46.9952866+00:00",
-      "Rating": 4.79,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-01T16:57:50.5250674+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-02T16:57:29.1615139+00:00",
-      "Rating": 4.79,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-04T16:57:45.1580531+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-05T16:57:32.0734161+00:00",
-      "Rating": 4.79,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-06T16:57:26.2439963+00:00",
-      "Rating": 4.78,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-08T13:00:33.4226249+00:00",
-      "Rating": 4.75,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-10T04:57:34.2025458+00:00",
-      "Rating": 4.74,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T22:57:44.0491356+00:00",
-      "Rating": 4.75,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T22:57:22.5710363+00:00",
-      "Rating": 4.76,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-20T20:57:38.7804286+00:00",
-      "Rating": 4.77,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-29T04:58:04.4571999+00:00",
-      "Rating": 4.76,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-05T08:57:51.5234337+00:00",
-      "Rating": 4.77,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 21,
-  "LastChanged_Achievements": "2023-05-05T16:07:27.7871331+00:00",
-  "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 129,
-  "EOS_Completed": 19,
-  "EOS_Progressed": 5490,
-  "LastUpdate_Achievements": "2023-05-05T16:07:27.7871527+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:45.0405179+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:24.5586141+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AHEM_AHEM",
+      "SetID": "3cck1g6",
+      "Name": "Ahem Ahem",
+      "Percentage": 9,
+      "XP": 40,
+      "UsersEstimate": 494
+    },
+    {
+      "ID": "ARRR",
+      "SetID": "3cck1g6",
+      "Name": "Arrr!",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "AUDIOPHILE",
+      "SetID": "3cck1g6",
+      "Name": "Audiophile",
+      "Percentage": 7,
+      "XP": 40,
+      "UsersEstimate": 384
+    },
+    {
+      "ID": "BODY_AND_SOUL",
+      "SetID": "3cck1g6",
+      "Name": "Body and Soul",
+      "Percentage": 10,
+      "XP": 80,
+      "UsersEstimate": 549
+    },
+    {
+      "ID": "CA_DE_WIZZ",
+      "SetID": "3cck1g6",
+      "Name": "\u00C7a de Wizz!",
+      "Percentage": 1,
+      "XP": 80,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "CLAY_PIGEON",
+      "SetID": "3cck1g6",
+      "Name": "Clay Pigeon",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 329
+    },
+    {
+      "ID": "ENERGY_SAVER",
+      "SetID": "3cck1g6",
+      "Name": "Energy Saver",
+      "Percentage": 16,
+      "XP": 40,
+      "UsersEstimate": 879
+    },
+    {
+      "ID": "FASHION_FAUX_PAS",
+      "SetID": "3cck1g6",
+      "Name": "Fashion Faux-Pas",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "FASHION_VICTIM",
+      "SetID": "3cck1g6",
+      "Name": "Fashion Victim",
+      "Percentage": 2,
+      "XP": 80,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "GLOBE_TROTTER",
+      "SetID": "3cck1g6",
+      "Name": "Globe Trotter",
+      "Percentage": 11,
+      "XP": 40,
+      "UsersEstimate": 604
+    },
+    {
+      "ID": "HAPPY_CAMPER",
+      "SetID": "3cck1g6",
+      "Name": "Happy Camper",
+      "Percentage": 4,
+      "XP": 40,
+      "UsersEstimate": 220
+    },
+    {
+      "ID": "HISTORIAN",
+      "SetID": "3cck1g6",
+      "Name": "Historian",
+      "Percentage": 5,
+      "XP": 80,
+      "UsersEstimate": 275
+    },
+    {
+      "ID": "ICONOCLAST",
+      "SetID": "3cck1g6",
+      "Name": "Iconoclast",
+      "Percentage": 5,
+      "XP": 40,
+      "UsersEstimate": 275
+    },
+    {
+      "ID": "IN_A_PINCH",
+      "SetID": "3cck1g6",
+      "Name": "In a Pinch",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 1043
+    },
+    {
+      "ID": "LIBERATOR",
+      "SetID": "3cck1g6",
+      "Name": "Liberator",
+      "Percentage": 4,
+      "XP": 80,
+      "UsersEstimate": 220
+    },
+    {
+      "ID": "LIVE_WIRE",
+      "SetID": "3cck1g6",
+      "Name": "Live Wire",
+      "Percentage": 3,
+      "XP": 80,
+      "UsersEstimate": 165
+    },
+    {
+      "ID": "SHREDDER",
+      "SetID": "3cck1g6",
+      "Name": "Shredder",
+      "Percentage": 5,
+      "XP": 40,
+      "UsersEstimate": 275
+    },
+    {
+      "ID": "SNIP_SNIP",
+      "SetID": "3cck1g6",
+      "Name": "Snip Snip",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "SOUL_CANON",
+      "SetID": "3cck1g6",
+      "Name": "Soul-Canon",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 329
+    },
+    {
+      "ID": "THE_JOURNEY_ONWARDS",
+      "SetID": "3cck1g6",
+      "Name": "The Journey Onwards",
+      "Percentage": 12,
+      "XP": 40,
+      "UsersEstimate": 659
+    },
+    {
+      "ID": "THING",
+      "SetID": "3cck1g6",
+      "Name": "Thing",
+      "Percentage": 1,
+      "XP": 80,
+      "UsersEstimate": 55
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5490,
+      "Progressed": 5491,
       "Completed": 19
     }
   ],
-  "EOS_Completed_Percentage": 0.35,
-  "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
-  "ProductSlug": "tchia",
-  "Rating": 4.77,
-  "Ranking_Rating": 103,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 117,
-  "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewCompleters": 39,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
-  "Ranking_EOS_NewPlayers": 111
+  "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
+  "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:16.6216755+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:19.0626167+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:16.6217035+00:00"
 }

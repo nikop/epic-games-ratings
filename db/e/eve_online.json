@@ -1,76 +1,16 @@
 {
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 1017
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 168
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 178
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 181
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "",
-      "Type": "",
-      "Count": 122
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 168
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 160
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "",
-      "Type": "",
-      "Count": 53
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 178
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "",
-      "Type": "",
-      "Count": 29
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 138
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "eve-online",
+  "Ranking_Rating": 772,
+  "Ranking_Popularity": 134,
+  "Ranking_PopularitySum": 185,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.26,
+  "NumberOfRatings": 1408,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -1789,30 +1729,91 @@
       "NumberOfAwardsMax": 1017
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:04:21.7858744+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:13.4405687+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:04.9345662+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T16:57:27.2502641+00:00",
-  "ProductSlug": "eve-online",
-  "Rating": 4.26,
-  "Ranking_Rating": 772,
-  "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 185,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 1408,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 2010,
   "NumberOfAwardsMax": 1017,
   "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 1017
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 168
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 178
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 181
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "",
+      "Type": "",
+      "Count": 122
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 168
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 160
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "",
+      "Type": "",
+      "Count": 53
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 178
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "",
+      "Type": "",
+      "Count": 29
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 138
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-04T16:57:27.2502641+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:54.2416571+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:58.568857+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:12.6860226+00:00"
 }

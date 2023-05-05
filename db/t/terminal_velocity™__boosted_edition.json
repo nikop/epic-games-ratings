@@ -1,6 +1,37 @@
 {
   "ID": "b1a0fc6a469347c8834c90f39c1f071c",
   "Name": "Terminal Velocity\u2122: Boosted Edition",
+  "ProductSlug": "terminal-velocity-boosted-edition-1f204f",
+  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-24T13:57:47.549938+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 1,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:22.0883368+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ALL_IN_A_DAYS_JOB_AIR",
@@ -259,32 +290,6 @@
       "UsersEstimate": 1
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:22.0883368+00:00",
-      "NumProgressed": 1,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-24T13:57:47.549938+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 32,
-  "LastChanged_Achievements": "2023-05-05T16:07:12.7835963+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 1,
-  "LastUpdate_Achievements": "2023-05-05T16:07:12.7836438+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:35.3968419+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:19.2071381+00:00",
   "AchievementSets": [
     {
       "ID": "2pijnb7",
@@ -293,16 +298,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-24T13:57:47.5499377+00:00",
-  "FirstSeenRating": "2023-04-24T13:57:47.5499376+00:00",
-  "ProductSlug": "terminal-velocity-boosted-edition-1f204f",
-  "Ranking_EOS_Progress": 356,
-  "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-24T13:57:47.5499338+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-24T13:57:47.5499376+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00",
+  "LastChanged": "2023-04-24T13:57:47.5499377+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:05.6834383+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:09.6279693+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:13.2054755+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:05.683464+00:00"
 }

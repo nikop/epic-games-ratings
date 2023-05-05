@@ -1,6 +1,57 @@
 {
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
+  "ProductSlug": "zombie-rollerz-7aa027",
+  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:56:59.5373101+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 53,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:48.5975235+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T00:03:08.2565713+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T06:03:15.3229216+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T04:03:43.431215+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T07:03:42.3256393+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 73,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "CLG_CHAPTER_NODAMAGE",
@@ -587,52 +638,6 @@
       "UsersEstimate": 42
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:08:48.5975235+00:00",
-      "NumProgressed": 49,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T00:03:08.2565713+00:00",
-      "NumProgressed": 50,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T06:03:15.3229216+00:00",
-      "NumProgressed": 51,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T04:03:43.431215+00:00",
-      "NumProgressed": 52,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T07:03:42.3256393+00:00",
-      "NumProgressed": 53,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:56:59.5373101+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 73,
-  "LastChanged_Achievements": "2023-05-05T16:07:43.3735414+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 53,
-  "LastUpdate_Achievements": "2023-05-05T16:07:43.373635+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:10.9269678+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:03.1728578+00:00",
   "AchievementSets": [
     {
       "ID": "89cjc9l",
@@ -641,16 +646,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
-  "ProductSlug": "zombie-rollerz-7aa027",
-  "Ranking_EOS_Progress": 269,
-  "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:18.8444158+00:00",
-  "Ranking_EOS_NewPlayers": 202
+  "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
+  "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:28.1300377+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:52.4511908+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:56.6982525+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:28.1301278+00:00"
 }

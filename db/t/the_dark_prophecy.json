@@ -1,9 +1,11 @@
 {
   "ID": "2295ea8bd4db49aba47d2414fce88392",
   "Name": "The Dark Prophecy",
-  "Achievements": [],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "the-dark-prophecy-2193c4",
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:33.7276733+00:00",
@@ -12,16 +14,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:08:18.3791956+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:08:18.3791992+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:50.7653015+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:30.4991068+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "bc0c614",
@@ -30,16 +35,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:58:33.7276731+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:33.727673+00:00",
-  "ProductSlug": "the-dark-prophecy-2193c4",
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:15:22.5854367+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:07.043251+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:33.727673+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:22.5854367+00:00",
+  "LastChanged": "2023-03-31T05:58:33.7276731+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:54.0414702+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:30.5726112+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:23.0149189+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:54.0414736+00:00"
 }

@@ -1,6 +1,47 @@
 {
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
+  "ProductSlug": "night-book-77f2c7",
+  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:35.8315643+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 179,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.68,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:54.2644177+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-27T03:01:59.731472+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-30T17:00:22.0904349+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 3
+    }
+  ],
+  "TotalAchievements": 17,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "a_little_extra",
@@ -139,42 +180,6 @@
       "UsersEstimate": 129
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:54.2644177+00:00",
-      "NumProgressed": 177,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-27T03:01:59.731472+00:00",
-      "NumProgressed": 178,
-      "NumCompleted": 3
-    },
-    {
-      "Time": "2023-04-30T17:00:22.0904349+00:00",
-      "NumProgressed": 179,
-      "NumCompleted": 3
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:35.8315643+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 17,
-  "LastChanged_Achievements": "2023-05-05T16:07:28.0436424+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 3,
-  "EOS_Progressed": 179,
-  "LastUpdate_Achievements": "2023-05-05T16:07:28.0436718+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:56.8809754+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:54.6567884+00:00",
   "AchievementSets": [
     {
       "ID": "a3kkelb",
@@ -183,16 +188,12 @@
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 1.68,
-  "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
-  "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 225,
-  "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-19T20:57:23.939293+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
+  "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:16.7457267+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:42.6293729+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:47.2042767+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:16.7457394+00:00"
 }

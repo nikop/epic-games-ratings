@@ -1,917 +1,16 @@
 {
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
-  "Achievements": [
-    {
-      "ID": "000_TROPHY_PLATINUM",
-      "SetID": "4ajkb4b",
-      "Name": "A Tale of Origins and Endings",
-      "Percentage": 2,
-      "XP": 120,
-      "UsersEstimate": 1557
-    },
-    {
-      "ID": "001_TROPHY_MISSION_ILLUSION",
-      "SetID": "4ajkb4b",
-      "Name": "Hopes and Dreams",
-      "Percentage": 82,
-      "XP": 5,
-      "UsersEstimate": 63841
-    },
-    {
-      "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
-      "SetID": "4ajkb4b",
-      "Name": "The Pirate\u0027s Way",
-      "Percentage": 73,
-      "XP": 5,
-      "UsersEstimate": 56834
-    },
-    {
-      "ID": "003_TROPHY_MISSION_DARK_ELF",
-      "SetID": "4ajkb4b",
-      "Name": "The King of the Dark Elves",
-      "Percentage": 68,
-      "XP": 5,
-      "UsersEstimate": 52941
-    },
-    {
-      "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
-      "SetID": "4ajkb4b",
-      "Name": "Distortion\u0027s Progeny",
-      "Percentage": 62,
-      "XP": 5,
-      "UsersEstimate": 48270
-    },
-    {
-      "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
-      "SetID": "4ajkb4b",
-      "Name": "A Landscape of Memory",
-      "Percentage": 58,
-      "XP": 5,
-      "UsersEstimate": 45156
-    },
-    {
-      "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
-      "SetID": "4ajkb4b",
-      "Name": "The Wind\u0027s Light",
-      "Percentage": 54,
-      "XP": 5,
-      "UsersEstimate": 42042
-    },
-    {
-      "ID": "007_TROPHY_MISSION_POISON_MEMORIES",
-      "SetID": "4ajkb4b",
-      "Name": "Vague Remembrances",
-      "Percentage": 49,
-      "XP": 5,
-      "UsersEstimate": 38149
-    },
-    {
-      "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
-      "SetID": "4ajkb4b",
-      "Name": "The Fire\u0027s Light",
-      "Percentage": 47,
-      "XP": 5,
-      "UsersEstimate": 36592
-    },
-    {
-      "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
-      "SetID": "4ajkb4b",
-      "Name": "Phantom Memories",
-      "Percentage": 46,
-      "XP": 5,
-      "UsersEstimate": 35813
-    },
-    {
-      "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
-      "SetID": "4ajkb4b",
-      "Name": "The Earth\u0027s Light",
-      "Percentage": 45,
-      "XP": 5,
-      "UsersEstimate": 35035
-    },
-    {
-      "ID": "011_TROPHY_MISSION_REMEMBER",
-      "SetID": "4ajkb4b",
-      "Name": "Shared Recollections",
-      "Percentage": 41,
-      "XP": 5,
-      "UsersEstimate": 31921
-    },
-    {
-      "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
-      "SetID": "4ajkb4b",
-      "Name": "The Water\u0027s Light",
-      "Percentage": 39,
-      "XP": 5,
-      "UsersEstimate": 30363
-    },
-    {
-      "ID": "013_TROPHY_MISSION_PAST_SCHEME",
-      "SetID": "4ajkb4b",
-      "Name": "Malice Takes Root",
-      "Percentage": 37,
-      "XP": 5,
-      "UsersEstimate": 28806
-    },
-    {
-      "ID": "014_TROPHY_MISSION_REMEMBERING_HOME",
-      "SetID": "4ajkb4b",
-      "Name": "Duty\u0027s Course",
-      "Percentage": 35,
-      "XP": 5,
-      "UsersEstimate": 27249
-    },
-    {
-      "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
-      "SetID": "4ajkb4b",
-      "Name": "Led by the Nose",
-      "Percentage": 34,
-      "XP": 5,
-      "UsersEstimate": 26471
-    },
-    {
-      "ID": "016_TROPHY_MISSION_FRAUGHT_JOURNEY",
-      "SetID": "4ajkb4b",
-      "Name": "Terminus of Fate",
-      "Percentage": 32,
-      "XP": 60,
-      "UsersEstimate": 24914
-    },
-    {
-      "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
-      "SetID": "4ajkb4b",
-      "Name": "Origin of True Chaos",
-      "Percentage": 20,
-      "XP": 60,
-      "UsersEstimate": 15571
-    },
-    {
-      "ID": "018_TROPHY_CLEAR_LEVEL200_ON_CHAOS",
-      "SetID": "4ajkb4b",
-      "Name": "Cycle of Darkness",
-      "Percentage": 16,
-      "XP": 95,
-      "UsersEstimate": 12457
-    },
-    {
-      "ID": "019_TROPHY_CLEAR_SUB_MISSION",
-      "SetID": "4ajkb4b",
-      "Name": "Memories of the Distant Past",
-      "Percentage": 66,
-      "XP": 5,
-      "UsersEstimate": 51384
-    },
-    {
-      "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
-      "SetID": "4ajkb4b",
-      "Name": "Strangers\u0027 Memories",
-      "Percentage": 3,
-      "XP": 95,
-      "UsersEstimate": 2336
-    },
-    {
-      "ID": "021_TROPHY_FIRST_SOUL_BURST",
-      "SetID": "4ajkb4b",
-      "Name": "Manifestation of the Soul",
-      "Percentage": 98,
-      "XP": 5,
-      "UsersEstimate": 76298
-    },
-    {
-      "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
-      "SetID": "4ajkb4b",
-      "Name": "Imbued Memories",
-      "Percentage": 46,
-      "XP": 5,
-      "UsersEstimate": 35813
-    },
-    {
-      "ID": "023_TROPHY_DEFEAT_USAB",
-      "SetID": "4ajkb4b",
-      "Name": "No Escape",
-      "Percentage": 86,
-      "XP": 5,
-      "UsersEstimate": 66955
-    },
-    {
-      "ID": "024_TROPHY_DEFEAT_UTON",
-      "SetID": "4ajkb4b",
-      "Name": "Lantern Smasher",
-      "Percentage": 78,
-      "XP": 5,
-      "UsersEstimate": 60727
-    },
-    {
-      "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
-      "SetID": "4ajkb4b",
-      "Name": "Seeker of Power",
-      "Percentage": 85,
-      "XP": 5,
-      "UsersEstimate": 66177
-    },
-    {
-      "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
-      "SetID": "4ajkb4b",
-      "Name": "Seeker of Ultimate Power",
-      "Percentage": 23,
-      "XP": 5,
-      "UsersEstimate": 17907
-    },
-    {
-      "ID": "027_TROPHY_FIRST_ARTIFACT",
-      "SetID": "4ajkb4b",
-      "Name": "Artifact Collector",
-      "Percentage": 21,
-      "XP": 5,
-      "UsersEstimate": 16350
-    },
-    {
-      "ID": "028_TROPHY_USE_JOB_CREST",
-      "SetID": "4ajkb4b",
-      "Name": "Crest Bearer",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 4671
-    },
-    {
-      "ID": "029_TROPHY_FULL_UPGRADE_SPECIAL_EFFECT",
-      "SetID": "4ajkb4b",
-      "Name": "True Potential",
-      "Percentage": 21,
-      "XP": 60,
-      "UsersEstimate": 16350
-    },
-    {
-      "ID": "030_TROPHY_UNLOCK_ALL_JOB_BONUS",
-      "SetID": "4ajkb4b",
-      "Name": "Polymath",
-      "Percentage": 21,
-      "XP": 60,
-      "UsersEstimate": 16350
-    },
-    {
-      "ID": "031_TROPHY_COMPLETE_JOB_TREE",
-      "SetID": "4ajkb4b",
-      "Name": "Savant",
-      "Percentage": 62,
-      "XP": 60,
-      "UsersEstimate": 48270
-    },
-    {
-      "ID": "032_TROPHY_USED_MASTER_POINT",
-      "SetID": "4ajkb4b",
-      "Name": "Master\u0027s Awakening",
-      "Percentage": 18,
-      "XP": 5,
-      "UsersEstimate": 14014
-    },
-    {
-      "ID": "033_TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB",
-      "SetID": "4ajkb4b",
-      "Name": "Job Master",
-      "Percentage": 8,
-      "XP": 95,
-      "UsersEstimate": 6228
-    },
-    {
-      "ID": "034_TROPHY_UNLOCKED_ADVANCED_JOB",
-      "SetID": "4ajkb4b",
-      "Name": "Dark Crystal, Warrior\u0027s Heart",
-      "Percentage": 71,
-      "XP": 5,
-      "UsersEstimate": 55277
-    },
-    {
-      "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
-      "SetID": "4ajkb4b",
-      "Name": "Jack-of-All-Trades",
-      "Percentage": 19,
-      "XP": 60,
-      "UsersEstimate": 14792
-    },
-    {
-      "ID": "036_TROPHY_UNLOCKED_DARK_KNIGHT",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Dark Knight",
-      "Percentage": 37,
-      "XP": 5,
-      "UsersEstimate": 28806
-    },
-    {
-      "ID": "037_TROPHY_UNLOCKED_PALADIN",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Paladin",
-      "Percentage": 36,
-      "XP": 5,
-      "UsersEstimate": 28028
-    },
-    {
-      "ID": "038_TROPHY_UNLOCKED_NINJA",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Ninja",
-      "Percentage": 33,
-      "XP": 5,
-      "UsersEstimate": 25692
-    },
-    {
-      "ID": "039_TROPHY_UNLOCKED_ASSASSIN",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Assassin",
-      "Percentage": 31,
-      "XP": 5,
-      "UsersEstimate": 24135
-    },
-    {
-      "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Liberator",
-      "Percentage": 35,
-      "XP": 5,
-      "UsersEstimate": 27249
-    },
-    {
-      "ID": "041_TROPHY_UNLOCKED_BREAKER",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Breaker",
-      "Percentage": 36,
-      "XP": 5,
-      "UsersEstimate": 28028
-    },
-    {
-      "ID": "042_TROPHY_UNLOCKED_VOID_KNIGHT",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Void Knight",
-      "Percentage": 34,
-      "XP": 5,
-      "UsersEstimate": 26471
-    },
-    {
-      "ID": "043_TROPHY_UNLOCKED_TYRANT",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Tyrant",
-      "Percentage": 34,
-      "XP": 5,
-      "UsersEstimate": 26471
-    },
-    {
-      "ID": "044_TROPHY_UNLOCKED_SAGE",
-      "SetID": "4ajkb4b",
-      "Name": "Path of the Sage",
-      "Percentage": 40,
-      "XP": 5,
-      "UsersEstimate": 31142
-    },
-    {
-      "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
-      "SetID": "4ajkb4b",
-      "Name": "His Name Is Garland",
-      "Percentage": 32,
-      "XP": 60,
-      "UsersEstimate": 24914
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 752
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 92
-    },
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 452
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 53
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 112
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 102
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 103
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 112
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 88
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 105
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 83
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 58
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:19.9238715+00:00",
-      "NumProgressed": 77712,
-      "NumCompleted": 2110
-    },
-    {
-      "Time": "2023-04-25T17:57:19.076273+00:00",
-      "NumProgressed": 77713,
-      "NumCompleted": 2110
-    },
-    {
-      "Time": "2023-04-25T19:58:01.4973278+00:00",
-      "NumProgressed": 77714,
-      "NumCompleted": 2110
-    },
-    {
-      "Time": "2023-04-25T22:11:00.2611002+00:00",
-      "NumProgressed": 77715,
-      "NumCompleted": 2111
-    },
-    {
-      "Time": "2023-04-26T02:10:00.3828239+00:00",
-      "NumProgressed": 77718,
-      "NumCompleted": 2111
-    },
-    {
-      "Time": "2023-04-26T03:10:22.5898074+00:00",
-      "NumProgressed": 77720,
-      "NumCompleted": 2111
-    },
-    {
-      "Time": "2023-04-26T04:07:30.4854271+00:00",
-      "NumProgressed": 77721,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-26T10:08:04.8419159+00:00",
-      "NumProgressed": 77722,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-26T17:04:50.631189+00:00",
-      "NumProgressed": 77723,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-26T20:04:27.4921863+00:00",
-      "NumProgressed": 77725,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-26T22:04:35.6192675+00:00",
-      "NumProgressed": 77726,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T00:04:27.1103139+00:00",
-      "NumProgressed": 77727,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T02:04:45.9673637+00:00",
-      "NumProgressed": 77728,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T03:05:27.1929939+00:00",
-      "NumProgressed": 77729,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T06:04:31.4825914+00:00",
-      "NumProgressed": 77730,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T07:04:43.9217278+00:00",
-      "NumProgressed": 77731,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T09:05:54.6083056+00:00",
-      "NumProgressed": 77732,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T18:05:09.9905343+00:00",
-      "NumProgressed": 77733,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T19:05:08.41011+00:00",
-      "NumProgressed": 77736,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T21:04:22.6992633+00:00",
-      "NumProgressed": 77737,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T22:04:37.8208819+00:00",
-      "NumProgressed": 77738,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-27T23:04:51.8126737+00:00",
-      "NumProgressed": 77740,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-28T02:06:13.5409777+00:00",
-      "NumProgressed": 77741,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-28T04:05:06.7361445+00:00",
-      "NumProgressed": 77742,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-28T08:04:55.4370114+00:00",
-      "NumProgressed": 77743,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-28T13:09:27.5933443+00:00",
-      "NumProgressed": 77746,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-28T17:05:54.2956839+00:00",
-      "NumProgressed": 77747,
-      "NumCompleted": 2112
-    },
-    {
-      "Time": "2023-04-28T19:05:04.2539162+00:00",
-      "NumProgressed": 77747,
-      "NumCompleted": 2113
-    },
-    {
-      "Time": "2023-04-28T20:05:29.9057548+00:00",
-      "NumProgressed": 77748,
-      "NumCompleted": 2113
-    },
-    {
-      "Time": "2023-04-28T22:04:43.88705+00:00",
-      "NumProgressed": 77750,
-      "NumCompleted": 2113
-    },
-    {
-      "Time": "2023-04-28T23:06:32.9344583+00:00",
-      "NumProgressed": 77752,
-      "NumCompleted": 2113
-    },
-    {
-      "Time": "2023-04-29T02:05:43.2372868+00:00",
-      "NumProgressed": 77755,
-      "NumCompleted": 2113
-    },
-    {
-      "Time": "2023-04-29T07:05:05.4976321+00:00",
-      "NumProgressed": 77755,
-      "NumCompleted": 2114
-    },
-    {
-      "Time": "2023-04-29T09:04:40.1577199+00:00",
-      "NumProgressed": 77758,
-      "NumCompleted": 2114
-    },
-    {
-      "Time": "2023-04-29T13:07:17.6006969+00:00",
-      "NumProgressed": 77759,
-      "NumCompleted": 2114
-    },
-    {
-      "Time": "2023-04-29T16:06:04.6240884+00:00",
-      "NumProgressed": 77759,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-29T19:04:40.8776954+00:00",
-      "NumProgressed": 77763,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-29T20:04:13.8079805+00:00",
-      "NumProgressed": 77765,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-29T21:04:40.2014733+00:00",
-      "NumProgressed": 77767,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-29T22:04:40.6513464+00:00",
-      "NumProgressed": 77769,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-29T23:04:43.3267865+00:00",
-      "NumProgressed": 77770,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T05:04:49.2717+00:00",
-      "NumProgressed": 77771,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T08:05:42.5710171+00:00",
-      "NumProgressed": 77772,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T10:04:18.1066921+00:00",
-      "NumProgressed": 77773,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T13:08:01.2367121+00:00",
-      "NumProgressed": 77775,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T15:05:09.7942151+00:00",
-      "NumProgressed": 77776,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T16:05:04.6620811+00:00",
-      "NumProgressed": 77780,
-      "NumCompleted": 2115
-    },
-    {
-      "Time": "2023-04-30T19:05:42.5942413+00:00",
-      "NumProgressed": 77780,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-04-30T20:04:53.9379108+00:00",
-      "NumProgressed": 77782,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-04-30T21:05:04.643905+00:00",
-      "NumProgressed": 77787,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-04-30T22:05:07.8737469+00:00",
-      "NumProgressed": 77788,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-04-30T23:04:45.1095386+00:00",
-      "NumProgressed": 77790,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-05-01T02:06:10.3058562+00:00",
-      "NumProgressed": 77791,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-05-01T03:05:31.9806114+00:00",
-      "NumProgressed": 77793,
-      "NumCompleted": 2116
-    },
-    {
-      "Time": "2023-05-01T04:05:19.1548269+00:00",
-      "NumProgressed": 77793,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-01T10:04:58.4310531+00:00",
-      "NumProgressed": 77794,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-01T13:10:08.3559191+00:00",
-      "NumProgressed": 77795,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-01T15:05:06.0418873+00:00",
-      "NumProgressed": 77796,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-01T16:05:14.9999393+00:00",
-      "NumProgressed": 77798,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-01T18:05:35.8867422+00:00",
-      "NumProgressed": 77801,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-01T21:05:15.5665227+00:00",
-      "NumProgressed": 77802,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T02:03:25.235132+00:00",
-      "NumProgressed": 77803,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T04:04:29.3588523+00:00",
-      "NumProgressed": 77804,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T05:04:17.8492396+00:00",
-      "NumProgressed": 77805,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T06:04:53.8148123+00:00",
-      "NumProgressed": 77807,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T12:05:07.554051+00:00",
-      "NumProgressed": 77809,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T19:05:28.8520228+00:00",
-      "NumProgressed": 77811,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T20:04:35.6592497+00:00",
-      "NumProgressed": 77812,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-02T22:04:36.9585218+00:00",
-      "NumProgressed": 77813,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-03T02:02:50.1889946+00:00",
-      "NumProgressed": 77815,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-03T04:05:18.1918852+00:00",
-      "NumProgressed": 77817,
-      "NumCompleted": 2117
-    },
-    {
-      "Time": "2023-05-03T08:04:28.1937756+00:00",
-      "NumProgressed": 77817,
-      "NumCompleted": 2118
-    },
-    {
-      "Time": "2023-05-03T11:05:07.7552078+00:00",
-      "NumProgressed": 77818,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-03T19:04:32.2533892+00:00",
-      "NumProgressed": 77819,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-03T20:05:15.7093255+00:00",
-      "NumProgressed": 77820,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T00:05:18.2153373+00:00",
-      "NumProgressed": 77821,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T02:01:43.0746541+00:00",
-      "NumProgressed": 77828,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T04:04:59.9998833+00:00",
-      "NumProgressed": 77829,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T05:05:21.7244886+00:00",
-      "NumProgressed": 77830,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T06:05:46.2155776+00:00",
-      "NumProgressed": 77833,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T08:05:47.0992024+00:00",
-      "NumProgressed": 77835,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T11:05:20.4960855+00:00",
-      "NumProgressed": 77836,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T12:05:13.9388277+00:00",
-      "NumProgressed": 77837,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T15:05:43.8275803+00:00",
-      "NumProgressed": 77838,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T19:40:09.1840406+00:00",
-      "NumProgressed": 77839,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-04T21:06:04.3036863+00:00",
-      "NumProgressed": 77841,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T00:05:24.5677339+00:00",
-      "NumProgressed": 77842,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T05:05:16.6072014+00:00",
-      "NumProgressed": 77844,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T06:05:46.7992574+00:00",
-      "NumProgressed": 77847,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T08:06:02.9307617+00:00",
-      "NumProgressed": 77849,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T11:05:52.5379929+00:00",
-      "NumProgressed": 77853,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T13:11:04.5013329+00:00",
-      "NumProgressed": 77854,
-      "NumCompleted": 2119
-    },
-    {
-      "Time": "2023-05-05T15:42:52.0666668+00:00",
-      "NumProgressed": 77855,
-      "NumCompleted": 2119
-    }
-  ],
+  "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
+  "Ranking_Rating": 531,
+  "Ranking_Popularity": 148,
+  "Ranking_PopularitySum": 204,
+  "Ranking_EOS_Progress": 60,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 23,
+  "Rating": 4.5,
+  "NumberOfRatings": 1919,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:02.4554092+00:00",
@@ -2321,39 +1420,946 @@
       "NumberOfAwardsMax": 752
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 46,
-  "LastChanged_Achievements": "2023-05-05T16:08:07.9087108+00:00",
-  "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 108,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 1549,
+  "NumberOfAwardsMax": 752,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 752
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 92
+    },
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 452
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 112
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 102
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 103
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 112
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 88
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 105
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 83
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 58
+    }
+  ],
+  "EOS_Progressed": 77856,
   "EOS_Completed": 2119,
-  "EOS_Progressed": 77855,
-  "LastUpdate_Achievements": "2023-05-05T16:08:07.9087687+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:01.5812167+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:57.4595769+00:00",
+  "EOS_NewPlayers": 109,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 2.72,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:19.9238715+00:00",
+      "NumProgressed": 77712,
+      "NumCompleted": 2110
+    },
+    {
+      "Time": "2023-04-25T17:57:19.076273+00:00",
+      "NumProgressed": 77713,
+      "NumCompleted": 2110
+    },
+    {
+      "Time": "2023-04-25T19:58:01.4973278+00:00",
+      "NumProgressed": 77714,
+      "NumCompleted": 2110
+    },
+    {
+      "Time": "2023-04-25T22:11:00.2611002+00:00",
+      "NumProgressed": 77715,
+      "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-04-26T02:10:00.3828239+00:00",
+      "NumProgressed": 77718,
+      "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-04-26T03:10:22.5898074+00:00",
+      "NumProgressed": 77720,
+      "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-04-26T04:07:30.4854271+00:00",
+      "NumProgressed": 77721,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-26T10:08:04.8419159+00:00",
+      "NumProgressed": 77722,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-26T17:04:50.631189+00:00",
+      "NumProgressed": 77723,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-26T20:04:27.4921863+00:00",
+      "NumProgressed": 77725,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-26T22:04:35.6192675+00:00",
+      "NumProgressed": 77726,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T00:04:27.1103139+00:00",
+      "NumProgressed": 77727,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T02:04:45.9673637+00:00",
+      "NumProgressed": 77728,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T03:05:27.1929939+00:00",
+      "NumProgressed": 77729,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T06:04:31.4825914+00:00",
+      "NumProgressed": 77730,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T07:04:43.9217278+00:00",
+      "NumProgressed": 77731,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T09:05:54.6083056+00:00",
+      "NumProgressed": 77732,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T18:05:09.9905343+00:00",
+      "NumProgressed": 77733,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T19:05:08.41011+00:00",
+      "NumProgressed": 77736,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T21:04:22.6992633+00:00",
+      "NumProgressed": 77737,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T22:04:37.8208819+00:00",
+      "NumProgressed": 77738,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-27T23:04:51.8126737+00:00",
+      "NumProgressed": 77740,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-28T02:06:13.5409777+00:00",
+      "NumProgressed": 77741,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-28T04:05:06.7361445+00:00",
+      "NumProgressed": 77742,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-28T08:04:55.4370114+00:00",
+      "NumProgressed": 77743,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-28T13:09:27.5933443+00:00",
+      "NumProgressed": 77746,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-28T17:05:54.2956839+00:00",
+      "NumProgressed": 77747,
+      "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-04-28T19:05:04.2539162+00:00",
+      "NumProgressed": 77747,
+      "NumCompleted": 2113
+    },
+    {
+      "Time": "2023-04-28T20:05:29.9057548+00:00",
+      "NumProgressed": 77748,
+      "NumCompleted": 2113
+    },
+    {
+      "Time": "2023-04-28T22:04:43.88705+00:00",
+      "NumProgressed": 77750,
+      "NumCompleted": 2113
+    },
+    {
+      "Time": "2023-04-28T23:06:32.9344583+00:00",
+      "NumProgressed": 77752,
+      "NumCompleted": 2113
+    },
+    {
+      "Time": "2023-04-29T02:05:43.2372868+00:00",
+      "NumProgressed": 77755,
+      "NumCompleted": 2113
+    },
+    {
+      "Time": "2023-04-29T07:05:05.4976321+00:00",
+      "NumProgressed": 77755,
+      "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-04-29T09:04:40.1577199+00:00",
+      "NumProgressed": 77758,
+      "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-04-29T13:07:17.6006969+00:00",
+      "NumProgressed": 77759,
+      "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-04-29T16:06:04.6240884+00:00",
+      "NumProgressed": 77759,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-29T19:04:40.8776954+00:00",
+      "NumProgressed": 77763,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-29T20:04:13.8079805+00:00",
+      "NumProgressed": 77765,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-29T21:04:40.2014733+00:00",
+      "NumProgressed": 77767,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-29T22:04:40.6513464+00:00",
+      "NumProgressed": 77769,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-29T23:04:43.3267865+00:00",
+      "NumProgressed": 77770,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T05:04:49.2717+00:00",
+      "NumProgressed": 77771,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T08:05:42.5710171+00:00",
+      "NumProgressed": 77772,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T10:04:18.1066921+00:00",
+      "NumProgressed": 77773,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T13:08:01.2367121+00:00",
+      "NumProgressed": 77775,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T15:05:09.7942151+00:00",
+      "NumProgressed": 77776,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T16:05:04.6620811+00:00",
+      "NumProgressed": 77780,
+      "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-04-30T19:05:42.5942413+00:00",
+      "NumProgressed": 77780,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-04-30T20:04:53.9379108+00:00",
+      "NumProgressed": 77782,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-04-30T21:05:04.643905+00:00",
+      "NumProgressed": 77787,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-04-30T22:05:07.8737469+00:00",
+      "NumProgressed": 77788,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-04-30T23:04:45.1095386+00:00",
+      "NumProgressed": 77790,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-05-01T02:06:10.3058562+00:00",
+      "NumProgressed": 77791,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-05-01T03:05:31.9806114+00:00",
+      "NumProgressed": 77793,
+      "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-05-01T04:05:19.1548269+00:00",
+      "NumProgressed": 77793,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-01T10:04:58.4310531+00:00",
+      "NumProgressed": 77794,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-01T13:10:08.3559191+00:00",
+      "NumProgressed": 77795,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-01T15:05:06.0418873+00:00",
+      "NumProgressed": 77796,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-01T16:05:14.9999393+00:00",
+      "NumProgressed": 77798,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-01T18:05:35.8867422+00:00",
+      "NumProgressed": 77801,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-01T21:05:15.5665227+00:00",
+      "NumProgressed": 77802,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T02:03:25.235132+00:00",
+      "NumProgressed": 77803,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T04:04:29.3588523+00:00",
+      "NumProgressed": 77804,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T05:04:17.8492396+00:00",
+      "NumProgressed": 77805,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T06:04:53.8148123+00:00",
+      "NumProgressed": 77807,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T12:05:07.554051+00:00",
+      "NumProgressed": 77809,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T19:05:28.8520228+00:00",
+      "NumProgressed": 77811,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T20:04:35.6592497+00:00",
+      "NumProgressed": 77812,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-02T22:04:36.9585218+00:00",
+      "NumProgressed": 77813,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-03T02:02:50.1889946+00:00",
+      "NumProgressed": 77815,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-03T04:05:18.1918852+00:00",
+      "NumProgressed": 77817,
+      "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-05-03T08:04:28.1937756+00:00",
+      "NumProgressed": 77817,
+      "NumCompleted": 2118
+    },
+    {
+      "Time": "2023-05-03T11:05:07.7552078+00:00",
+      "NumProgressed": 77818,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-03T19:04:32.2533892+00:00",
+      "NumProgressed": 77819,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-03T20:05:15.7093255+00:00",
+      "NumProgressed": 77820,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T00:05:18.2153373+00:00",
+      "NumProgressed": 77821,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T02:01:43.0746541+00:00",
+      "NumProgressed": 77828,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T04:04:59.9998833+00:00",
+      "NumProgressed": 77829,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T05:05:21.7244886+00:00",
+      "NumProgressed": 77830,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T06:05:46.2155776+00:00",
+      "NumProgressed": 77833,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T08:05:47.0992024+00:00",
+      "NumProgressed": 77835,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T11:05:20.4960855+00:00",
+      "NumProgressed": 77836,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T12:05:13.9388277+00:00",
+      "NumProgressed": 77837,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T15:05:43.8275803+00:00",
+      "NumProgressed": 77838,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T19:40:09.1840406+00:00",
+      "NumProgressed": 77839,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-04T21:06:04.3036863+00:00",
+      "NumProgressed": 77841,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T00:05:24.5677339+00:00",
+      "NumProgressed": 77842,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T05:05:16.6072014+00:00",
+      "NumProgressed": 77844,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T06:05:46.7992574+00:00",
+      "NumProgressed": 77847,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T08:06:02.9307617+00:00",
+      "NumProgressed": 77849,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T11:05:52.5379929+00:00",
+      "NumProgressed": 77853,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T13:11:04.5013329+00:00",
+      "NumProgressed": 77854,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T15:42:52.0666668+00:00",
+      "NumProgressed": 77855,
+      "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-05-05T17:09:46.2435246+00:00",
+      "NumProgressed": 77856,
+      "NumCompleted": 2119
+    }
+  ],
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "000_TROPHY_PLATINUM",
+      "SetID": "4ajkb4b",
+      "Name": "A Tale of Origins and Endings",
+      "Percentage": 2,
+      "XP": 120,
+      "UsersEstimate": 1557
+    },
+    {
+      "ID": "001_TROPHY_MISSION_ILLUSION",
+      "SetID": "4ajkb4b",
+      "Name": "Hopes and Dreams",
+      "Percentage": 82,
+      "XP": 5,
+      "UsersEstimate": 63842
+    },
+    {
+      "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
+      "SetID": "4ajkb4b",
+      "Name": "The Pirate\u0027s Way",
+      "Percentage": 73,
+      "XP": 5,
+      "UsersEstimate": 56835
+    },
+    {
+      "ID": "003_TROPHY_MISSION_DARK_ELF",
+      "SetID": "4ajkb4b",
+      "Name": "The King of the Dark Elves",
+      "Percentage": 68,
+      "XP": 5,
+      "UsersEstimate": 52942
+    },
+    {
+      "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
+      "SetID": "4ajkb4b",
+      "Name": "Distortion\u0027s Progeny",
+      "Percentage": 62,
+      "XP": 5,
+      "UsersEstimate": 48271
+    },
+    {
+      "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
+      "SetID": "4ajkb4b",
+      "Name": "A Landscape of Memory",
+      "Percentage": 58,
+      "XP": 5,
+      "UsersEstimate": 45156
+    },
+    {
+      "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
+      "SetID": "4ajkb4b",
+      "Name": "The Wind\u0027s Light",
+      "Percentage": 54,
+      "XP": 5,
+      "UsersEstimate": 42042
+    },
+    {
+      "ID": "007_TROPHY_MISSION_POISON_MEMORIES",
+      "SetID": "4ajkb4b",
+      "Name": "Vague Remembrances",
+      "Percentage": 49,
+      "XP": 5,
+      "UsersEstimate": 38149
+    },
+    {
+      "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
+      "SetID": "4ajkb4b",
+      "Name": "The Fire\u0027s Light",
+      "Percentage": 47,
+      "XP": 5,
+      "UsersEstimate": 36592
+    },
+    {
+      "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
+      "SetID": "4ajkb4b",
+      "Name": "Phantom Memories",
+      "Percentage": 46,
+      "XP": 5,
+      "UsersEstimate": 35814
+    },
+    {
+      "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
+      "SetID": "4ajkb4b",
+      "Name": "The Earth\u0027s Light",
+      "Percentage": 45,
+      "XP": 5,
+      "UsersEstimate": 35035
+    },
+    {
+      "ID": "011_TROPHY_MISSION_REMEMBER",
+      "SetID": "4ajkb4b",
+      "Name": "Shared Recollections",
+      "Percentage": 41,
+      "XP": 5,
+      "UsersEstimate": 31921
+    },
+    {
+      "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
+      "SetID": "4ajkb4b",
+      "Name": "The Water\u0027s Light",
+      "Percentage": 39,
+      "XP": 5,
+      "UsersEstimate": 30364
+    },
+    {
+      "ID": "013_TROPHY_MISSION_PAST_SCHEME",
+      "SetID": "4ajkb4b",
+      "Name": "Malice Takes Root",
+      "Percentage": 37,
+      "XP": 5,
+      "UsersEstimate": 28807
+    },
+    {
+      "ID": "014_TROPHY_MISSION_REMEMBERING_HOME",
+      "SetID": "4ajkb4b",
+      "Name": "Duty\u0027s Course",
+      "Percentage": 35,
+      "XP": 5,
+      "UsersEstimate": 27250
+    },
+    {
+      "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
+      "SetID": "4ajkb4b",
+      "Name": "Led by the Nose",
+      "Percentage": 34,
+      "XP": 5,
+      "UsersEstimate": 26471
+    },
+    {
+      "ID": "016_TROPHY_MISSION_FRAUGHT_JOURNEY",
+      "SetID": "4ajkb4b",
+      "Name": "Terminus of Fate",
+      "Percentage": 32,
+      "XP": 60,
+      "UsersEstimate": 24914
+    },
+    {
+      "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
+      "SetID": "4ajkb4b",
+      "Name": "Origin of True Chaos",
+      "Percentage": 20,
+      "XP": 60,
+      "UsersEstimate": 15571
+    },
+    {
+      "ID": "018_TROPHY_CLEAR_LEVEL200_ON_CHAOS",
+      "SetID": "4ajkb4b",
+      "Name": "Cycle of Darkness",
+      "Percentage": 16,
+      "XP": 95,
+      "UsersEstimate": 12457
+    },
+    {
+      "ID": "019_TROPHY_CLEAR_SUB_MISSION",
+      "SetID": "4ajkb4b",
+      "Name": "Memories of the Distant Past",
+      "Percentage": 66,
+      "XP": 5,
+      "UsersEstimate": 51385
+    },
+    {
+      "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
+      "SetID": "4ajkb4b",
+      "Name": "Strangers\u0027 Memories",
+      "Percentage": 3,
+      "XP": 95,
+      "UsersEstimate": 2336
+    },
+    {
+      "ID": "021_TROPHY_FIRST_SOUL_BURST",
+      "SetID": "4ajkb4b",
+      "Name": "Manifestation of the Soul",
+      "Percentage": 98,
+      "XP": 5,
+      "UsersEstimate": 76299
+    },
+    {
+      "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
+      "SetID": "4ajkb4b",
+      "Name": "Imbued Memories",
+      "Percentage": 46,
+      "XP": 5,
+      "UsersEstimate": 35814
+    },
+    {
+      "ID": "023_TROPHY_DEFEAT_USAB",
+      "SetID": "4ajkb4b",
+      "Name": "No Escape",
+      "Percentage": 86,
+      "XP": 5,
+      "UsersEstimate": 66956
+    },
+    {
+      "ID": "024_TROPHY_DEFEAT_UTON",
+      "SetID": "4ajkb4b",
+      "Name": "Lantern Smasher",
+      "Percentage": 78,
+      "XP": 5,
+      "UsersEstimate": 60728
+    },
+    {
+      "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
+      "SetID": "4ajkb4b",
+      "Name": "Seeker of Power",
+      "Percentage": 85,
+      "XP": 5,
+      "UsersEstimate": 66178
+    },
+    {
+      "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
+      "SetID": "4ajkb4b",
+      "Name": "Seeker of Ultimate Power",
+      "Percentage": 23,
+      "XP": 5,
+      "UsersEstimate": 17907
+    },
+    {
+      "ID": "027_TROPHY_FIRST_ARTIFACT",
+      "SetID": "4ajkb4b",
+      "Name": "Artifact Collector",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 16350
+    },
+    {
+      "ID": "028_TROPHY_USE_JOB_CREST",
+      "SetID": "4ajkb4b",
+      "Name": "Crest Bearer",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 4671
+    },
+    {
+      "ID": "029_TROPHY_FULL_UPGRADE_SPECIAL_EFFECT",
+      "SetID": "4ajkb4b",
+      "Name": "True Potential",
+      "Percentage": 21,
+      "XP": 60,
+      "UsersEstimate": 16350
+    },
+    {
+      "ID": "030_TROPHY_UNLOCK_ALL_JOB_BONUS",
+      "SetID": "4ajkb4b",
+      "Name": "Polymath",
+      "Percentage": 21,
+      "XP": 60,
+      "UsersEstimate": 16350
+    },
+    {
+      "ID": "031_TROPHY_COMPLETE_JOB_TREE",
+      "SetID": "4ajkb4b",
+      "Name": "Savant",
+      "Percentage": 62,
+      "XP": 60,
+      "UsersEstimate": 48271
+    },
+    {
+      "ID": "032_TROPHY_USED_MASTER_POINT",
+      "SetID": "4ajkb4b",
+      "Name": "Master\u0027s Awakening",
+      "Percentage": 18,
+      "XP": 5,
+      "UsersEstimate": 14014
+    },
+    {
+      "ID": "033_TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB",
+      "SetID": "4ajkb4b",
+      "Name": "Job Master",
+      "Percentage": 8,
+      "XP": 95,
+      "UsersEstimate": 6228
+    },
+    {
+      "ID": "034_TROPHY_UNLOCKED_ADVANCED_JOB",
+      "SetID": "4ajkb4b",
+      "Name": "Dark Crystal, Warrior\u0027s Heart",
+      "Percentage": 71,
+      "XP": 5,
+      "UsersEstimate": 55278
+    },
+    {
+      "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
+      "SetID": "4ajkb4b",
+      "Name": "Jack-of-All-Trades",
+      "Percentage": 19,
+      "XP": 60,
+      "UsersEstimate": 14793
+    },
+    {
+      "ID": "036_TROPHY_UNLOCKED_DARK_KNIGHT",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Dark Knight",
+      "Percentage": 37,
+      "XP": 5,
+      "UsersEstimate": 28807
+    },
+    {
+      "ID": "037_TROPHY_UNLOCKED_PALADIN",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Paladin",
+      "Percentage": 36,
+      "XP": 5,
+      "UsersEstimate": 28028
+    },
+    {
+      "ID": "038_TROPHY_UNLOCKED_NINJA",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Ninja",
+      "Percentage": 33,
+      "XP": 5,
+      "UsersEstimate": 25692
+    },
+    {
+      "ID": "039_TROPHY_UNLOCKED_ASSASSIN",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Assassin",
+      "Percentage": 31,
+      "XP": 5,
+      "UsersEstimate": 24135
+    },
+    {
+      "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Liberator",
+      "Percentage": 35,
+      "XP": 5,
+      "UsersEstimate": 27250
+    },
+    {
+      "ID": "041_TROPHY_UNLOCKED_BREAKER",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Breaker",
+      "Percentage": 36,
+      "XP": 5,
+      "UsersEstimate": 28028
+    },
+    {
+      "ID": "042_TROPHY_UNLOCKED_VOID_KNIGHT",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Void Knight",
+      "Percentage": 34,
+      "XP": 5,
+      "UsersEstimate": 26471
+    },
+    {
+      "ID": "043_TROPHY_UNLOCKED_TYRANT",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Tyrant",
+      "Percentage": 34,
+      "XP": 5,
+      "UsersEstimate": 26471
+    },
+    {
+      "ID": "044_TROPHY_UNLOCKED_SAGE",
+      "SetID": "4ajkb4b",
+      "Name": "Path of the Sage",
+      "Percentage": 40,
+      "XP": 5,
+      "UsersEstimate": 31142
+    },
+    {
+      "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
+      "SetID": "4ajkb4b",
+      "Name": "His Name Is Garland",
+      "Percentage": 32,
+      "XP": 60,
+      "UsersEstimate": 24914
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 77855,
+      "Progressed": 77856,
       "Completed": 2119
     }
   ],
-  "EOS_Completed_Percentage": 2.72,
-  "LastChanged": "2023-05-01T04:59:46.5540221+00:00",
-  "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
-  "Rating": 4.5,
-  "Ranking_Rating": 531,
-  "Ranking_Popularity": 148,
-  "Ranking_PopularitySum": 204,
-  "Ranking_EOS_Progress": 60,
-  "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewCompleters": 24,
-  "NumberOfRatings": 1919,
-  "NumberOfAwards": 1549,
-  "NumberOfAwardsMax": 752,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
-  "Ranking_EOS_NewPlayers": 116
+  "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
+  "LastChanged": "2023-05-01T04:59:46.5540221+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:46.2435241+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:54.5812695+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:50.3180932+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:46.2435638+00:00"
 }

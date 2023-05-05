@@ -1,6 +1,172 @@
 {
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
+  "ProductSlug": "prehistoric-kingdom",
+  "Ranking_Rating": 549,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.49,
+  "NumberOfRatings": 40,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:30:08.8557627+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": 21
+    },
+    {
+      "Time": "2022-07-24T18:01:56.6428199+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": 22
+    },
+    {
+      "Time": "2022-07-27T22:02:12.0646681+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": 23
+    },
+    {
+      "Time": "2022-07-28T20:31:58.8693385+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": 24
+    },
+    {
+      "Time": "2022-08-05T20:33:48.7420783+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": 25
+    },
+    {
+      "Time": "2022-08-06T21:01:56.5111826+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": 27
+    },
+    {
+      "Time": "2022-08-08T15:02:25.9748207+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 28
+    },
+    {
+      "Time": "2022-08-13T20:02:20.750226+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-08-18T11:31:58.9124786+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-08-20T16:31:56.0523858+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": 31
+    },
+    {
+      "Time": "2022-08-24T11:02:25.0379505+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-08-26T11:02:07.6952352+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-08-28T19:01:58.322934+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": 35
+    },
+    {
+      "Time": "2022-08-31T22:01:56.5737402+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-09-04T06:32:13.0289288+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-09-12T01:02:36.1624196+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 38
+    },
+    {
+      "Time": "2022-09-15T02:31:49.540941+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-09-20T21:02:41.9226354+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 40
+    },
+    {
+      "Time": "2022-10-09T00:02:11.3409162+00:00",
+      "Rating": 4.39
+    },
+    {
+      "Time": "2022-10-10T00:02:04.5698476+00:00",
+      "Rating": 4.4
+    },
+    {
+      "Time": "2022-10-11T00:03:08.7004339+00:00",
+      "Rating": 4.42
+    },
+    {
+      "Time": "2022-10-15T16:04:10.1874434+00:00",
+      "Rating": 4.43
+    },
+    {
+      "Time": "2022-10-22T17:02:45.3340292+00:00",
+      "Rating": 4.44
+    },
+    {
+      "Time": "2022-11-06T10:58:22.9082772+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2022-11-07T11:57:53.5339019+00:00",
+      "Rating": 4.45
+    },
+    {
+      "Time": "2022-12-23T17:58:22.4444342+00:00",
+      "Rating": 4.46
+    },
+    {
+      "Time": "2023-03-18T02:04:37.4270813+00:00",
+      "Rating": 4.47
+    },
+    {
+      "Time": "2023-03-20T02:08:29.9412458+00:00",
+      "Rating": 4.48
+    },
+    {
+      "Time": "2023-03-31T05:58:26.5959663+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T03:58:45.1457605+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "BINGO",
@@ -179,162 +345,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:30:08.8557627+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": 21
-    },
-    {
-      "Time": "2022-07-24T18:01:56.6428199+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": 22
-    },
-    {
-      "Time": "2022-07-27T22:02:12.0646681+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": 23
-    },
-    {
-      "Time": "2022-07-28T20:31:58.8693385+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": 24
-    },
-    {
-      "Time": "2022-08-05T20:33:48.7420783+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": 25
-    },
-    {
-      "Time": "2022-08-06T21:01:56.5111826+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": 27
-    },
-    {
-      "Time": "2022-08-08T15:02:25.9748207+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": 28
-    },
-    {
-      "Time": "2022-08-13T20:02:20.750226+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": 29
-    },
-    {
-      "Time": "2022-08-18T11:31:58.9124786+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": 30
-    },
-    {
-      "Time": "2022-08-20T16:31:56.0523858+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": 31
-    },
-    {
-      "Time": "2022-08-24T11:02:25.0379505+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": 32
-    },
-    {
-      "Time": "2022-08-26T11:02:07.6952352+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": 34
-    },
-    {
-      "Time": "2022-08-28T19:01:58.322934+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": 35
-    },
-    {
-      "Time": "2022-08-31T22:01:56.5737402+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": 36
-    },
-    {
-      "Time": "2022-09-04T06:32:13.0289288+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": 37
-    },
-    {
-      "Time": "2022-09-12T01:02:36.1624196+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": 38
-    },
-    {
-      "Time": "2022-09-15T02:31:49.540941+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 39
-    },
-    {
-      "Time": "2022-09-20T21:02:41.9226354+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 40
-    },
-    {
-      "Time": "2022-10-09T00:02:11.3409162+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2022-10-10T00:02:04.5698476+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2022-10-11T00:03:08.7004339+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2022-10-15T16:04:10.1874434+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-10-22T17:02:45.3340292+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-11-06T10:58:22.9082772+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-11-07T11:57:53.5339019+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-12-23T17:58:22.4444342+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-03-18T02:04:37.4270813+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2023-03-20T02:08:29.9412458+00:00",
-      "Rating": 4.48
-    },
-    {
-      "Time": "2023-03-31T05:58:26.5959663+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T03:58:45.1457605+00:00",
-      "Rating": 4.49,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T16:07:16.9398544+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:07:16.9398687+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:16.1446233+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:45.2390963+00:00",
   "AchievementSets": [
     {
       "ID": "djnne36",
@@ -343,20 +353,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-14T03:58:45.1457604+00:00",
-  "ProductSlug": "prehistoric-kingdom",
-  "Rating": 4.49,
-  "Ranking_Rating": 549,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 40,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00",
+  "LastChanged": "2023-04-14T03:58:45.1457604+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:08.816305+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:38.2265231+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:40.2624978+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:08.8163188+00:00"
 }

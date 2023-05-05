@@ -1,200 +1,270 @@
 {
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
-  "Achievements": [
+  "ProductSlug": "spirit-of-the-north-f58a66",
+  "Ranking_Rating": 702,
+  "Ranking_Popularity": 464,
+  "Ranking_PopularitySum": 411,
+  "Ranking_EOS_Progress": 72,
+  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 21,
+  "Rating": 4.36,
+  "NumberOfRatings": 1175,
+  "RatingHistory": [
     {
-      "ID": "ANCIENT_HISTORY",
-      "SetID": "30359jm",
-      "Name": "ANCIENT HISTORY",
-      "Percentage": 2,
-      "XP": 80,
-      "UsersEstimate": 1053
+      "Time": "2022-09-16T15:31:24.9636046+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 55
     },
     {
-      "ID": "AWAKEN",
-      "SetID": "30359jm",
-      "Name": "AWAKEN",
-      "Percentage": 21,
-      "XP": 15,
-      "UsersEstimate": 11052
+      "Time": "2022-09-17T12:01:14.4878646+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 179
     },
     {
-      "ID": "A_GUARDIAN_FORGOTTEN",
-      "SetID": "30359jm",
-      "Name": "A GUARDIAN FORGOTTEN",
-      "Percentage": 67,
-      "XP": 15,
-      "UsersEstimate": 35261
+      "Time": "2022-09-18T12:31:14.1495113+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": 391
     },
     {
-      "ID": "BEST_FRIENDS",
-      "SetID": "30359jm",
-      "Name": "BEST FRIENDS",
-      "Percentage": 22,
-      "XP": 15,
-      "UsersEstimate": 11578
+      "Time": "2022-09-18T19:01:22.6096991+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": 485
     },
     {
-      "ID": "BLOOMS_OF_LIGHT",
-      "SetID": "30359jm",
-      "Name": "BLOOMS OF LIGHT",
-      "Percentage": 26,
-      "XP": 30,
-      "UsersEstimate": 13684
+      "Time": "2022-09-18T20:01:17.1985893+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 492
     },
     {
-      "ID": "ERADICATE",
-      "SetID": "30359jm",
-      "Name": "ERADICATE",
-      "Percentage": 20,
-      "XP": 15,
-      "UsersEstimate": 10526
+      "Time": "2022-09-18T23:01:16.5745718+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 504
     },
     {
-      "ID": "FETCH",
-      "SetID": "30359jm",
-      "Name": "FETCH",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 14210
+      "Time": "2022-09-19T02:02:19.4761859+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 519
     },
     {
-      "ID": "FOXIN_AROUND",
-      "SetID": "30359jm",
-      "Name": "FOXIN\u0027 AROUND",
-      "Percentage": 28,
-      "XP": 15,
-      "UsersEstimate": 14736
+      "Time": "2022-09-19T15:31:50.8238734+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": 572
     },
     {
-      "ID": "FOX_OR_FLYING_SQUIRREL",
-      "SetID": "30359jm",
-      "Name": "FOX? OR FLYING SQUIRREL?",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 1579
+      "Time": "2022-09-19T19:01:41.9440791+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 607
     },
     {
-      "ID": "GARDEN_OF_LIGHT",
-      "SetID": "30359jm",
-      "Name": "GARDEN OF LIGHT",
-      "Percentage": 18,
-      "XP": 90,
-      "UsersEstimate": 9473
+      "Time": "2022-09-20T07:32:04.4669259+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 687
     },
     {
-      "ID": "INFUSED_WITH_LIGHT",
-      "SetID": "30359jm",
-      "Name": "INFUSED WITH LIGHT",
-      "Percentage": 53,
-      "XP": 15,
-      "UsersEstimate": 27893
+      "Time": "2022-09-20T11:02:04.5910335+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": 704
     },
     {
-      "ID": "KINDRED_SPIRITS",
-      "SetID": "30359jm",
-      "Name": "KINDRED SPIRITS",
-      "Percentage": 0.5,
-      "XP": 90,
-      "UsersEstimate": 263
+      "Time": "2022-09-20T14:31:16.0462744+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 726
     },
     {
-      "ID": "MATCH_MAKER",
-      "SetID": "30359jm",
-      "Name": "MATCH MAKER",
-      "Percentage": 7,
-      "XP": 30,
-      "UsersEstimate": 3684
+      "Time": "2022-09-20T20:32:22.9037576+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 768
     },
     {
-      "ID": "NONE_FORGOTTEN",
-      "SetID": "30359jm",
-      "Name": "NONE FORGOTTEN",
-      "Percentage": 2,
-      "XP": 90,
-      "UsersEstimate": 1053
+      "Time": "2022-09-21T05:31:20.8061607+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 804
     },
     {
-      "ID": "NORTHERN_LIGHTS",
-      "SetID": "30359jm",
-      "Name": "NORTHERN LIGHTS",
-      "Percentage": 7,
-      "XP": 90,
-      "UsersEstimate": 3684
+      "Time": "2022-09-21T07:31:23.7399914+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 810
     },
     {
-      "ID": "OLD_COMPANION",
-      "SetID": "30359jm",
-      "Name": "OLD COMPANION",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 4210
+      "Time": "2022-09-21T12:31:17.0076815+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": 834
     },
     {
-      "ID": "PLAGUE_DOCTOR",
-      "SetID": "30359jm",
-      "Name": "PLAGUE DOCTOR",
-      "Percentage": 8,
-      "XP": 90,
-      "UsersEstimate": 4210
+      "Time": "2022-09-22T08:31:54.1897563+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 964
     },
     {
-      "ID": "SPIRITED_AWAY",
-      "SetID": "30359jm",
-      "Name": "SPIRITED AWAY",
-      "Percentage": 7,
-      "XP": 30,
-      "UsersEstimate": 3684
+      "Time": "2022-09-22T13:01:59.8980384+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 987
     },
     {
-      "ID": "SPIRIT_BARK",
-      "SetID": "30359jm",
-      "Name": "SPIRIT BARK",
-      "Percentage": 20,
-      "XP": 30,
-      "UsersEstimate": 10526
+      "Time": "2022-09-22T17:01:57.0904396+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1016
     },
     {
-      "ID": "SPIRIT_DASH",
-      "SetID": "30359jm",
-      "Name": "SPIRIT DASH",
-      "Percentage": 10,
-      "XP": 30,
-      "UsersEstimate": 5263
+      "Time": "2022-09-22T17:33:48.1530109+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1031
     },
     {
-      "ID": "SPIRIT_FORM",
-      "SetID": "30359jm",
-      "Name": "SPIRIT FORM",
-      "Percentage": 15,
-      "XP": 30,
-      "UsersEstimate": 7894
+      "Time": "2022-09-22T18:31:22.7004021+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1048
     },
     {
-      "ID": "UPROOTING_DARKNESS",
-      "SetID": "30359jm",
-      "Name": "UPROOTING DARKNESS",
-      "Percentage": 14,
-      "XP": 30,
-      "UsersEstimate": 7368
+      "Time": "2022-09-22T19:32:01.024406+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1065
     },
     {
-      "ID": "WEIGHTLESS",
-      "SetID": "30359jm",
-      "Name": "WEIGHTLESS",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 5789
+      "Time": "2022-09-23T02:01:21.4788656+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1109
     },
     {
-      "ID": "WRITTEN_IN_STONE",
-      "SetID": "30359jm",
-      "Name": "WRITTEN IN STONE",
-      "Percentage": 15,
-      "XP": 90,
-      "UsersEstimate": 7894
+      "Time": "2022-09-23T02:31:17.0214065+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1065
+    },
+    {
+      "Time": "2022-09-23T08:31:25.2864443+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": 1142
+    },
+    {
+      "Time": "2022-09-23T13:32:19.182011+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": 1175
+    },
+    {
+      "Time": "2022-09-24T13:06:49.1929464+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-09-24T16:01:21.5739446+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-09-28T07:31:36.040417+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-09-28T15:01:56.4109271+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-09-28T18:31:17.8389644+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-09-29T01:01:39.6712062+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-09-30T19:31:50.5911056+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-09-30T21:01:59.9887633+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-02T03:01:29.0862543+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-10-02T22:01:23.920354+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-04T14:01:23.1703036+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-10-04T16:02:18.8597618+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-04T21:01:55.7948637+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-10-05T21:01:32.47224+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-06T04:02:12.3977513+00:00",
+      "Rating": 4.37
+    },
+    {
+      "Time": "2022-10-06T12:02:01.9567042+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-24T03:01:24.0882752+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-10-24T19:31:55.7498652+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-26T19:32:13.149355+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-10-28T01:31:48.2874258+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-10-28T12:32:13.5886006+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-10-31T18:32:04.5680946+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-11-01T18:32:26.3576178+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-11-03T12:02:35.3591261+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-11-11T13:32:26.5325109+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-11-13T02:48:28.5236262+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2022-11-17T15:57:47.2377997+00:00",
+      "Rating": 4.35
+    },
+    {
+      "Time": "2022-11-17T19:57:58.1206469+00:00",
+      "Rating": 4.36
+    },
+    {
+      "Time": "2023-04-18T13:57:49.0674819+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 25
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 73,
+  "NumberOfAwardsMax": 25,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -215,6 +285,11 @@
       "Count": 24
     }
   ],
+  "EOS_Progressed": 52640,
+  "EOS_Completed": 240,
+  "EOS_NewPlayers": 1067,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:11.74292+00:00",
@@ -1410,292 +1485,223 @@
       "Time": "2023-05-05T16:07:57.9787046+00:00",
       "NumProgressed": 52629,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2023-05-05T17:09:39.187923+00:00",
+      "NumProgressed": 52640,
+      "NumCompleted": 240
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-09-16T15:31:24.9636046+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 55
-    },
-    {
-      "Time": "2022-09-17T12:01:14.4878646+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 179
-    },
-    {
-      "Time": "2022-09-18T12:31:14.1495113+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": 391
-    },
-    {
-      "Time": "2022-09-18T19:01:22.6096991+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": 485
-    },
-    {
-      "Time": "2022-09-18T20:01:17.1985893+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 492
-    },
-    {
-      "Time": "2022-09-18T23:01:16.5745718+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 504
-    },
-    {
-      "Time": "2022-09-19T02:02:19.4761859+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 519
-    },
-    {
-      "Time": "2022-09-19T15:31:50.8238734+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": 572
-    },
-    {
-      "Time": "2022-09-19T19:01:41.9440791+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 607
-    },
-    {
-      "Time": "2022-09-20T07:32:04.4669259+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": 687
-    },
-    {
-      "Time": "2022-09-20T11:02:04.5910335+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": 704
-    },
-    {
-      "Time": "2022-09-20T14:31:16.0462744+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": 726
-    },
-    {
-      "Time": "2022-09-20T20:32:22.9037576+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 768
-    },
-    {
-      "Time": "2022-09-21T05:31:20.8061607+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 804
-    },
-    {
-      "Time": "2022-09-21T07:31:23.7399914+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": 810
-    },
-    {
-      "Time": "2022-09-21T12:31:17.0076815+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": 834
-    },
-    {
-      "Time": "2022-09-22T08:31:54.1897563+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 964
-    },
-    {
-      "Time": "2022-09-22T13:01:59.8980384+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 987
-    },
-    {
-      "Time": "2022-09-22T17:01:57.0904396+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1016
-    },
-    {
-      "Time": "2022-09-22T17:33:48.1530109+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1031
-    },
-    {
-      "Time": "2022-09-22T18:31:22.7004021+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1048
-    },
-    {
-      "Time": "2022-09-22T19:32:01.024406+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1065
-    },
-    {
-      "Time": "2022-09-23T02:01:21.4788656+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1109
-    },
-    {
-      "Time": "2022-09-23T02:31:17.0214065+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1065
-    },
-    {
-      "Time": "2022-09-23T08:31:25.2864443+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": 1142
-    },
-    {
-      "Time": "2022-09-23T13:32:19.182011+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": 1175
-    },
-    {
-      "Time": "2022-09-24T13:06:49.1929464+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-09-24T16:01:21.5739446+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-09-28T07:31:36.040417+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-09-28T15:01:56.4109271+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-09-28T18:31:17.8389644+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-09-29T01:01:39.6712062+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-09-30T19:31:50.5911056+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-09-30T21:01:59.9887633+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-02T03:01:29.0862543+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-10-02T22:01:23.920354+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-04T14:01:23.1703036+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-10-04T16:02:18.8597618+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-04T21:01:55.7948637+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-10-05T21:01:32.47224+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-06T04:02:12.3977513+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2022-10-06T12:02:01.9567042+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-24T03:01:24.0882752+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-10-24T19:31:55.7498652+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-26T19:32:13.149355+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-10-28T01:31:48.2874258+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-10-28T12:32:13.5886006+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-10-31T18:32:04.5680946+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-11-01T18:32:26.3576178+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-11-03T12:02:35.3591261+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-11-11T13:32:26.5325109+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-11-13T02:48:28.5236262+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2022-11-17T15:57:47.2377997+00:00",
-      "Rating": 4.35
-    },
-    {
-      "Time": "2022-11-17T19:57:58.1206469+00:00",
-      "Rating": 4.36
-    },
-    {
-      "Time": "2023-04-18T13:57:49.0674819+00:00",
-      "Rating": 4.36,
-      "NumberOfAwards": 73,
-      "NumberOfAwardsMax": 25
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T16:07:57.9787039+00:00",
-  "EOS_NewCompleters": 8,
-  "EOS_NewPlayers": 1067,
-  "EOS_Completed": 239,
-  "EOS_Progressed": 52629,
-  "LastUpdate_Achievements": "2023-05-05T16:07:57.9787315+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:36.6207868+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:40.6303574+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ANCIENT_HISTORY",
+      "SetID": "30359jm",
+      "Name": "ANCIENT HISTORY",
+      "Percentage": 2,
+      "XP": 80,
+      "UsersEstimate": 1053
+    },
+    {
+      "ID": "AWAKEN",
+      "SetID": "30359jm",
+      "Name": "AWAKEN",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 11054
+    },
+    {
+      "ID": "A_GUARDIAN_FORGOTTEN",
+      "SetID": "30359jm",
+      "Name": "A GUARDIAN FORGOTTEN",
+      "Percentage": 67,
+      "XP": 15,
+      "UsersEstimate": 35269
+    },
+    {
+      "ID": "BEST_FRIENDS",
+      "SetID": "30359jm",
+      "Name": "BEST FRIENDS",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 11581
+    },
+    {
+      "ID": "BLOOMS_OF_LIGHT",
+      "SetID": "30359jm",
+      "Name": "BLOOMS OF LIGHT",
+      "Percentage": 26,
+      "XP": 30,
+      "UsersEstimate": 13686
+    },
+    {
+      "ID": "ERADICATE",
+      "SetID": "30359jm",
+      "Name": "ERADICATE",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 10528
+    },
+    {
+      "ID": "FETCH",
+      "SetID": "30359jm",
+      "Name": "FETCH",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 14213
+    },
+    {
+      "ID": "FOXIN_AROUND",
+      "SetID": "30359jm",
+      "Name": "FOXIN\u0027 AROUND",
+      "Percentage": 28,
+      "XP": 15,
+      "UsersEstimate": 14739
+    },
+    {
+      "ID": "FOX_OR_FLYING_SQUIRREL",
+      "SetID": "30359jm",
+      "Name": "FOX? OR FLYING SQUIRREL?",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 1579
+    },
+    {
+      "ID": "GARDEN_OF_LIGHT",
+      "SetID": "30359jm",
+      "Name": "GARDEN OF LIGHT",
+      "Percentage": 18,
+      "XP": 90,
+      "UsersEstimate": 9475
+    },
+    {
+      "ID": "INFUSED_WITH_LIGHT",
+      "SetID": "30359jm",
+      "Name": "INFUSED WITH LIGHT",
+      "Percentage": 53,
+      "XP": 15,
+      "UsersEstimate": 27899
+    },
+    {
+      "ID": "KINDRED_SPIRITS",
+      "SetID": "30359jm",
+      "Name": "KINDRED SPIRITS",
+      "Percentage": 0.5,
+      "XP": 90,
+      "UsersEstimate": 263
+    },
+    {
+      "ID": "MATCH_MAKER",
+      "SetID": "30359jm",
+      "Name": "MATCH MAKER",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 3685
+    },
+    {
+      "ID": "NONE_FORGOTTEN",
+      "SetID": "30359jm",
+      "Name": "NONE FORGOTTEN",
+      "Percentage": 2,
+      "XP": 90,
+      "UsersEstimate": 1053
+    },
+    {
+      "ID": "NORTHERN_LIGHTS",
+      "SetID": "30359jm",
+      "Name": "NORTHERN LIGHTS",
+      "Percentage": 7,
+      "XP": 90,
+      "UsersEstimate": 3685
+    },
+    {
+      "ID": "OLD_COMPANION",
+      "SetID": "30359jm",
+      "Name": "OLD COMPANION",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 4211
+    },
+    {
+      "ID": "PLAGUE_DOCTOR",
+      "SetID": "30359jm",
+      "Name": "PLAGUE DOCTOR",
+      "Percentage": 8,
+      "XP": 90,
+      "UsersEstimate": 4211
+    },
+    {
+      "ID": "SPIRITED_AWAY",
+      "SetID": "30359jm",
+      "Name": "SPIRITED AWAY",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 3685
+    },
+    {
+      "ID": "SPIRIT_BARK",
+      "SetID": "30359jm",
+      "Name": "SPIRIT BARK",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 10528
+    },
+    {
+      "ID": "SPIRIT_DASH",
+      "SetID": "30359jm",
+      "Name": "SPIRIT DASH",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 5264
+    },
+    {
+      "ID": "SPIRIT_FORM",
+      "SetID": "30359jm",
+      "Name": "SPIRIT FORM",
+      "Percentage": 15,
+      "XP": 30,
+      "UsersEstimate": 7896
+    },
+    {
+      "ID": "UPROOTING_DARKNESS",
+      "SetID": "30359jm",
+      "Name": "UPROOTING DARKNESS",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 7370
+    },
+    {
+      "ID": "WEIGHTLESS",
+      "SetID": "30359jm",
+      "Name": "WEIGHTLESS",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 5790
+    },
+    {
+      "ID": "WRITTEN_IN_STONE",
+      "SetID": "30359jm",
+      "Name": "WRITTEN IN STONE",
+      "Percentage": 15,
+      "XP": 90,
+      "UsersEstimate": 7896
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 52629,
-      "Completed": 239
+      "Progressed": 52640,
+      "Completed": 240
     }
   ],
-  "EOS_Completed_Percentage": 0.45,
-  "LastChanged": "2023-04-18T13:57:49.0674817+00:00",
-  "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
-  "ProductSlug": "spirit-of-the-north-f58a66",
-  "Rating": 4.36,
-  "Ranking_Rating": 702,
-  "Ranking_Popularity": 464,
-  "Ranking_PopularitySum": 411,
-  "Ranking_EOS_Progress": 72,
-  "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
-  "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewCompleters": 21,
-  "NumberOfRatings": 1175,
-  "NumberOfAwards": 73,
-  "NumberOfAwardsMax": 25,
-  "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
-  "Ranking_EOS_NewPlayers": 48
+  "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
+  "LastChanged": "2023-04-18T13:57:49.0674817+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:39.1879225+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:35.6917673+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:33.3556028+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:39.18795+00:00"
 }

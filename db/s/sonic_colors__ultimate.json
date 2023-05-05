@@ -1,16 +1,16 @@
 {
   "ID": "d118f9a27e514d98aa25534afd2f35c7",
   "Name": "Sonic Colors: Ultimate",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 72
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "sonic-colors-ultimate",
+  "Ranking_Rating": 651,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 413,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.41,
+  "NumberOfRatings": 179,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:26.6733332+00:00",
@@ -316,30 +316,31 @@
       "Rating": 4.41
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:05:07.5201292+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:27.7055535+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:13.94306+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-02-16T05:57:24.9355249+00:00",
-  "ProductSlug": "sonic-colors-ultimate",
-  "Rating": 4.41,
-  "Ranking_Rating": 651,
-  "Ranking_Popularity": 355,
-  "Ranking_PopularitySum": 413,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 179,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 72,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 72
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-02-16T05:57:24.9355249+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:03.7408156+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:07.803621+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:23.0457173+00:00"
 }

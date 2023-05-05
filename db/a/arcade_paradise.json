@@ -1,6 +1,90 @@
 {
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
+  "ProductSlug": "arcade-paradise",
+  "Ranking_Rating": 428,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.57,
+  "RatingHistory": [
+    {
+      "Time": "2022-10-03T03:02:52.8117429+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-10-12T23:32:31.8482616+00:00",
+      "Rating": 4.67
+    },
+    {
+      "Time": "2022-10-24T03:02:40.825711+00:00",
+      "Rating": 4.68
+    },
+    {
+      "Time": "2022-11-01T04:02:39.8784455+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-07T02:49:38.660214+00:00",
+      "Rating": 4.63
+    },
+    {
+      "Time": "2022-11-12T02:45:17.1687201+00:00",
+      "Rating": 4.64
+    },
+    {
+      "Time": "2022-11-24T05:58:02.5451656+00:00",
+      "Rating": 4.65
+    },
+    {
+      "Time": "2022-11-28T06:57:32.1546416+00:00",
+      "Rating": 4.67
+    },
+    {
+      "Time": "2022-12-04T02:10:31.511117+00:00",
+      "Rating": 4.64
+    },
+    {
+      "Time": "2022-12-22T02:58:06.4268477+00:00",
+      "Rating": 4.59
+    },
+    {
+      "Time": "2023-01-02T02:04:19.0952954+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-03-31T05:57:16.2436093+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 575,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:17.5720233+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T02:01:27.4833741+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 54,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "1337Trophy",
@@ -435,81 +519,6 @@
       "UsersEstimate": 4
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:17.5720233+00:00",
-      "NumProgressed": 574,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T02:01:27.4833741+00:00",
-      "NumProgressed": 575,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-10-03T03:02:52.8117429+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-10-12T23:32:31.8482616+00:00",
-      "Rating": 4.67
-    },
-    {
-      "Time": "2022-10-24T03:02:40.825711+00:00",
-      "Rating": 4.68
-    },
-    {
-      "Time": "2022-11-01T04:02:39.8784455+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-07T02:49:38.660214+00:00",
-      "Rating": 4.63
-    },
-    {
-      "Time": "2022-11-12T02:45:17.1687201+00:00",
-      "Rating": 4.64
-    },
-    {
-      "Time": "2022-11-24T05:58:02.5451656+00:00",
-      "Rating": 4.65
-    },
-    {
-      "Time": "2022-11-28T06:57:32.1546416+00:00",
-      "Rating": 4.67
-    },
-    {
-      "Time": "2022-12-04T02:10:31.511117+00:00",
-      "Rating": 4.64
-    },
-    {
-      "Time": "2022-12-22T02:58:06.4268477+00:00",
-      "Rating": 4.59
-    },
-    {
-      "Time": "2023-01-02T02:04:19.0952954+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-31T05:57:16.2436093+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 54,
-  "LastChanged_Achievements": "2023-05-05T16:07:38.1976616+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 575,
-  "LastUpdate_Achievements": "2023-05-05T16:07:38.1977067+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:08.7334374+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:40.4409577+00:00",
   "AchievementSets": [
     {
       "ID": "32aeje8",
@@ -518,20 +527,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
-  "ProductSlug": "arcade-paradise",
-  "Rating": 4.57,
-  "Ranking_Rating": 428,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 182,
-  "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
-  "Ranking_EOS_NewPlayers": 230
+  "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
+  "LastChanged": "2023-03-31T05:57:16.243609+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:24.3788946+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:33.0510642+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:35.9068952+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:24.3789508+00:00"
 }

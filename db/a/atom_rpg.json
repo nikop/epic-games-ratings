@@ -1,431 +1,16 @@
 {
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
-  "Achievements": [
-    {
-      "ID": "BUSTIN_NUTS_1",
-      "SetID": "bf13m8j",
-      "Name": "Bustin\u0027 nuts",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 53
-    },
-    {
-      "ID": "CAREER_CRIMINAL",
-      "SetID": "bf13m8j",
-      "Name": "Career criminal",
-      "Percentage": 2,
-      "XP": 40,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "CHEEKI_BREEKI_1",
-      "SetID": "bf13m8j",
-      "Name": "Cheeki Breeki",
-      "Percentage": 0.5,
-      "XP": 30,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CLASSIC",
-      "SetID": "bf13m8j",
-      "Name": "It\u0027s a classic!",
-      "Percentage": 0.5,
-      "XP": 35,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CLUB_27_1",
-      "SetID": "bf13m8j",
-      "Name": "27 Club",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "COMRADE_YOGI",
-      "SetID": "bf13m8j",
-      "Name": "Comrade Yogi",
-      "Percentage": 0.4,
-      "XP": 35,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "DOUBLE_AGENT",
-      "SetID": "bf13m8j",
-      "Name": "Double agent",
-      "Percentage": 14,
-      "XP": 20,
-      "UsersEstimate": 106
-    },
-    {
-      "ID": "EARLY_ACCESS_1",
-      "SetID": "bf13m8j",
-      "Name": "Atom Agent",
-      "Percentage": 99,
-      "XP": 5,
-      "UsersEstimate": 752
-    },
-    {
-      "ID": "EXPERT_1",
-      "SetID": "bf13m8j",
-      "Name": "Expert",
-      "Percentage": 0.5,
-      "XP": 50,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "EXPLORER_1",
-      "SetID": "bf13m8j",
-      "Name": "Explorer",
-      "Percentage": 19,
-      "XP": 15,
-      "UsersEstimate": 144
-    },
-    {
-      "ID": "GHOSTBUSTER",
-      "SetID": "bf13m8j",
-      "Name": "Ghostbuster",
-      "Percentage": 0.9,
-      "XP": 30,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "GRAVE_DIGGER_1",
-      "SetID": "bf13m8j",
-      "Name": "Grave Robber",
-      "Percentage": 18,
-      "XP": 5,
-      "UsersEstimate": 137
-    },
-    {
-      "ID": "HEAD_BURST_1",
-      "SetID": "bf13m8j",
-      "Name": "Head Burst",
-      "Percentage": 20,
-      "XP": 20,
-      "UsersEstimate": 152
-    },
-    {
-      "ID": "INDY_1",
-      "SetID": "bf13m8j",
-      "Name": "Indy",
-      "Percentage": 4,
-      "XP": 25,
-      "UsersEstimate": 30
-    },
-    {
-      "ID": "KORALOV",
-      "SetID": "bf13m8j",
-      "Name": "Tourist Korallov",
-      "Percentage": 0.7,
-      "XP": 35,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "KRAINA_GRZYBOW_1",
-      "SetID": "bf13m8j",
-      "Name": "Kraina Grzybow",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 68
-    },
-    {
-      "ID": "LOVE_GURU_1",
-      "SetID": "bf13m8j",
-      "Name": "Love Guru",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 68
-    },
-    {
-      "ID": "NEANDERTHAL_1",
-      "SetID": "bf13m8j",
-      "Name": "Neanderthal",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "NO_NAME",
-      "SetID": "bf13m8j",
-      "Name": "No Name, No Slogan",
-      "Percentage": 0,
-      "XP": 100,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ONE_HIT_WONDER_1",
-      "SetID": "bf13m8j",
-      "Name": "One HIT wonder",
-      "Percentage": 34,
-      "XP": 5,
-      "UsersEstimate": 258
-    },
-    {
-      "ID": "ONE_SHOT_ONE_KILL_1",
-      "SetID": "bf13m8j",
-      "Name": "One shot, one kill",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 228
-    },
-    {
-      "ID": "PACIFIST",
-      "SetID": "bf13m8j",
-      "Name": "Pacifist",
-      "Percentage": 0,
-      "XP": 100,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "PARANOIA",
-      "SetID": "bf13m8j",
-      "Name": "Paranoia",
-      "Percentage": 14,
-      "XP": 20,
-      "UsersEstimate": 106
-    },
-    {
-      "ID": "PRIVATE_EYE",
-      "SetID": "bf13m8j",
-      "Name": "Not-so-private Eye",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 61
-    },
-    {
-      "ID": "PROTECTION_RACKET",
-      "SetID": "bf13m8j",
-      "Name": "Protection racket",
-      "Percentage": 5,
-      "XP": 20,
-      "UsersEstimate": 38
-    },
-    {
-      "ID": "RELICTS",
-      "SetID": "bf13m8j",
-      "Name": "Mystical relics",
-      "Percentage": 0.3,
-      "XP": 50,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "ROBOT_DEAD",
-      "SetID": "bf13m8j",
-      "Name": "It was worth a shot",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "SACRIFICE_1",
-      "SetID": "bf13m8j",
-      "Name": "Sacrifice",
-      "Percentage": 4,
-      "XP": 25,
-      "UsersEstimate": 30
-    },
-    {
-      "ID": "SAVANT_1",
-      "SetID": "bf13m8j",
-      "Name": "Savant",
-      "Percentage": 9,
-      "XP": 20,
-      "UsersEstimate": 68
-    },
-    {
-      "ID": "SECRET_ROOM",
-      "SetID": "bf13m8j",
-      "Name": "Secret room",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 38
-    },
-    {
-      "ID": "SHOG",
-      "SetID": "bf13m8j",
-      "Name": "Cosmic Horror",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "SUPERHUMAN_1",
-      "SetID": "bf13m8j",
-      "Name": "Superhuman",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 61
-    },
-    {
-      "ID": "TRAVELER_1",
-      "SetID": "bf13m8j",
-      "Name": "Traveler",
-      "Percentage": 26,
-      "XP": 10,
-      "UsersEstimate": 198
-    },
-    {
-      "ID": "VVE",
-      "SetID": "bf13m8j",
-      "Name": "The Vitinsky Rifle",
-      "Percentage": 7,
-      "XP": 20,
-      "UsersEstimate": 53
-    },
-    {
-      "ID": "WANDERER_1",
-      "SetID": "bf13m8j",
-      "Name": "Wanderer",
-      "Percentage": 36,
-      "XP": 5,
-      "UsersEstimate": 274
-    },
-    {
-      "ID": "WISHMASTER_1",
-      "SetID": "bf13m8j",
-      "Name": "Wishmaster",
-      "Percentage": 2,
-      "XP": 30,
-      "UsersEstimate": 15
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 46
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:26.9288979+00:00",
-      "NumProgressed": 736,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T20:53:00.9782501+00:00",
-      "NumProgressed": 737,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T08:10:49.4264413+00:00",
-      "NumProgressed": 738,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T13:19:28.9049992+00:00",
-      "NumProgressed": 739,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T13:10:56.2386495+00:00",
-      "NumProgressed": 740,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T17:06:13.2600382+00:00",
-      "NumProgressed": 741,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T19:05:35.9043403+00:00",
-      "NumProgressed": 742,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T07:05:47.7010406+00:00",
-      "NumProgressed": 743,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T09:05:29.9029911+00:00",
-      "NumProgressed": 744,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T12:06:00.6839885+00:00",
-      "NumProgressed": 745,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T21:06:45.0366015+00:00",
-      "NumProgressed": 746,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T10:04:38.6982434+00:00",
-      "NumProgressed": 747,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T12:05:19.4672899+00:00",
-      "NumProgressed": 748,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T16:06:34.4232876+00:00",
-      "NumProgressed": 749,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T21:05:04.9460172+00:00",
-      "NumProgressed": 750,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T20:05:18.8608679+00:00",
-      "NumProgressed": 751,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T21:05:28.6655114+00:00",
-      "NumProgressed": 752,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T22:05:32.2948866+00:00",
-      "NumProgressed": 753,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T23:05:05.4745968+00:00",
-      "NumProgressed": 754,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T03:06:00.6338186+00:00",
-      "NumProgressed": 755,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T11:05:42.2459728+00:00",
-      "NumProgressed": 756,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T13:10:36.8555589+00:00",
-      "NumProgressed": 757,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T07:04:43.0038493+00:00",
-      "NumProgressed": 758,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T16:05:01.5646074+00:00",
-      "NumProgressed": 759,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T01:59:03.9450768+00:00",
-      "NumProgressed": 760,
-      "NumCompleted": 0
-    }
-  ],
+  "ProductSlug": "atom-rpg-3adb54",
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 396,
+  "Ranking_PopularitySum": 435,
+  "Ranking_EOS_Progress": 168,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.45,
+  "NumberOfRatings": 54,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:27.3928407+00:00",
@@ -729,16 +314,442 @@
       "NumberOfAwardsMax": 46
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 36,
-  "LastChanged_Achievements": "2023-05-05T16:08:15.0340913+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 15,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 46,
+  "NumberOfAwardsMax": 46,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 46
+    }
+  ],
   "EOS_Progressed": 760,
-  "LastUpdate_Achievements": "2023-05-05T16:08:15.0341183+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:30.2327202+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:17.1417867+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 14,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:26.9288979+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T20:53:00.9782501+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T08:10:49.4264413+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T13:19:28.9049992+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T13:10:56.2386495+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T17:06:13.2600382+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T19:05:35.9043403+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T07:05:47.7010406+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T09:05:29.9029911+00:00",
+      "NumProgressed": 744,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T12:06:00.6839885+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T21:06:45.0366015+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T10:04:38.6982434+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T12:05:19.4672899+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T16:06:34.4232876+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T21:05:04.9460172+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T20:05:18.8608679+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T21:05:28.6655114+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T22:05:32.2948866+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T23:05:05.4745968+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T03:06:00.6338186+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T11:05:42.2459728+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T13:10:36.8555589+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T07:04:43.0038493+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T16:05:01.5646074+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T01:59:03.9450768+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BUSTIN_NUTS_1",
+      "SetID": "bf13m8j",
+      "Name": "Bustin\u0027 nuts",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 53
+    },
+    {
+      "ID": "CAREER_CRIMINAL",
+      "SetID": "bf13m8j",
+      "Name": "Career criminal",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "CHEEKI_BREEKI_1",
+      "SetID": "bf13m8j",
+      "Name": "Cheeki Breeki",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CLASSIC",
+      "SetID": "bf13m8j",
+      "Name": "It\u0027s a classic!",
+      "Percentage": 0.5,
+      "XP": 35,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CLUB_27_1",
+      "SetID": "bf13m8j",
+      "Name": "27 Club",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMRADE_YOGI",
+      "SetID": "bf13m8j",
+      "Name": "Comrade Yogi",
+      "Percentage": 0.4,
+      "XP": 35,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "DOUBLE_AGENT",
+      "SetID": "bf13m8j",
+      "Name": "Double agent",
+      "Percentage": 14,
+      "XP": 20,
+      "UsersEstimate": 106
+    },
+    {
+      "ID": "EARLY_ACCESS_1",
+      "SetID": "bf13m8j",
+      "Name": "Atom Agent",
+      "Percentage": 99,
+      "XP": 5,
+      "UsersEstimate": 752
+    },
+    {
+      "ID": "EXPERT_1",
+      "SetID": "bf13m8j",
+      "Name": "Expert",
+      "Percentage": 0.7,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "EXPLORER_1",
+      "SetID": "bf13m8j",
+      "Name": "Explorer",
+      "Percentage": 19,
+      "XP": 15,
+      "UsersEstimate": 144
+    },
+    {
+      "ID": "GHOSTBUSTER",
+      "SetID": "bf13m8j",
+      "Name": "Ghostbuster",
+      "Percentage": 0.9,
+      "XP": 30,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "GRAVE_DIGGER_1",
+      "SetID": "bf13m8j",
+      "Name": "Grave Robber",
+      "Percentage": 18,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "HEAD_BURST_1",
+      "SetID": "bf13m8j",
+      "Name": "Head Burst",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 152
+    },
+    {
+      "ID": "INDY_1",
+      "SetID": "bf13m8j",
+      "Name": "Indy",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "KORALOV",
+      "SetID": "bf13m8j",
+      "Name": "Tourist Korallov",
+      "Percentage": 0.7,
+      "XP": 35,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "KRAINA_GRZYBOW_1",
+      "SetID": "bf13m8j",
+      "Name": "Kraina Grzybow",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "LOVE_GURU_1",
+      "SetID": "bf13m8j",
+      "Name": "Love Guru",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "NEANDERTHAL_1",
+      "SetID": "bf13m8j",
+      "Name": "Neanderthal",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "NO_NAME",
+      "SetID": "bf13m8j",
+      "Name": "No Name, No Slogan",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ONE_HIT_WONDER_1",
+      "SetID": "bf13m8j",
+      "Name": "One HIT wonder",
+      "Percentage": 34,
+      "XP": 5,
+      "UsersEstimate": 258
+    },
+    {
+      "ID": "ONE_SHOT_ONE_KILL_1",
+      "SetID": "bf13m8j",
+      "Name": "One shot, one kill",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 228
+    },
+    {
+      "ID": "PACIFIST",
+      "SetID": "bf13m8j",
+      "Name": "Pacifist",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PARANOIA",
+      "SetID": "bf13m8j",
+      "Name": "Paranoia",
+      "Percentage": 14,
+      "XP": 20,
+      "UsersEstimate": 106
+    },
+    {
+      "ID": "PRIVATE_EYE",
+      "SetID": "bf13m8j",
+      "Name": "Not-so-private Eye",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 61
+    },
+    {
+      "ID": "PROTECTION_RACKET",
+      "SetID": "bf13m8j",
+      "Name": "Protection racket",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "RELICTS",
+      "SetID": "bf13m8j",
+      "Name": "Mystical relics",
+      "Percentage": 0.3,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ROBOT_DEAD",
+      "SetID": "bf13m8j",
+      "Name": "It was worth a shot",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "SACRIFICE_1",
+      "SetID": "bf13m8j",
+      "Name": "Sacrifice",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "SAVANT_1",
+      "SetID": "bf13m8j",
+      "Name": "Savant",
+      "Percentage": 9,
+      "XP": 20,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "SECRET_ROOM",
+      "SetID": "bf13m8j",
+      "Name": "Secret room",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "SHOG",
+      "SetID": "bf13m8j",
+      "Name": "Cosmic Horror",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "SUPERHUMAN_1",
+      "SetID": "bf13m8j",
+      "Name": "Superhuman",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 61
+    },
+    {
+      "ID": "TRAVELER_1",
+      "SetID": "bf13m8j",
+      "Name": "Traveler",
+      "Percentage": 26,
+      "XP": 10,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "VVE",
+      "SetID": "bf13m8j",
+      "Name": "The Vitinsky Rifle",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 53
+    },
+    {
+      "ID": "WANDERER_1",
+      "SetID": "bf13m8j",
+      "Name": "Wanderer",
+      "Percentage": 36,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "WISHMASTER_1",
+      "SetID": "bf13m8j",
+      "Name": "Wishmaster",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 15
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
@@ -747,21 +758,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-22T20:58:02.069628+00:00",
-  "ProductSlug": "atom-rpg-3adb54",
-  "Rating": 4.45,
-  "Ranking_Rating": 599,
-  "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 435,
-  "Ranking_EOS_Progress": 168,
-  "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 54,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 46,
-  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
-  "Ranking_EOS_NewPlayers": 161
+  "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
+  "LastChanged": "2023-04-22T20:58:02.069628+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:51.7085613+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:15.2550678+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:09.0535464+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:51.7085883+00:00"
 }

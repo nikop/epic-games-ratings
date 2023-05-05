@@ -1,304 +1,333 @@
 {
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
-  "Achievements": [
+  "ProductSlug": "railgrade",
+  "Ranking_Rating": 476,
+  "Ranking_Popularity": 338,
+  "Ranking_PopularitySum": 269,
+  "Ranking_EOS_Progress": 93,
+  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.54,
+  "RatingHistory": [
     {
-      "ID": "ach.010.highflier",
-      "SetID": "384aaja",
-      "Name": "High Flier",
-      "Percentage": 3,
-      "XP": 200,
-      "UsersEstimate": 547
+      "Time": "2022-09-30T20:32:34.1590884+00:00",
+      "Rating": 4.6
     },
     {
-      "ID": "ach.020.helper",
-      "SetID": "384aaja",
-      "Name": "Helper of the People",
-      "Percentage": 39,
-      "XP": 100,
-      "UsersEstimate": 7117
+      "Time": "2022-10-01T00:01:10.782404+00:00",
+      "Rating": 4.63
     },
     {
-      "ID": "ach.030.deertastic",
-      "SetID": "384aaja",
-      "Name": "Deertastic",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 164
+      "Time": "2022-10-01T11:31:21.0541781+00:00",
+      "Rating": 4.44
     },
     {
-      "ID": "ach.040.overdeer",
-      "SetID": "384aaja",
-      "Name": "Overdeer",
-      "Percentage": 0.4,
-      "XP": 60,
-      "UsersEstimate": 73
+      "Time": "2022-10-01T15:31:23.5906742+00:00",
+      "Rating": 4.46
     },
     {
-      "ID": "ach.050.builder",
-      "SetID": "384aaja",
-      "Name": "Builder",
-      "Percentage": 83,
-      "XP": 10,
-      "UsersEstimate": 15146
+      "Time": "2022-10-01T19:01:21.7597095+00:00",
+      "Rating": 4.43
     },
     {
-      "ID": "ach.060.goingdistance",
-      "SetID": "384aaja",
-      "Name": "Going the Distance",
-      "Percentage": 54,
-      "XP": 10,
-      "UsersEstimate": 9854
+      "Time": "2022-10-01T20:01:19.3083338+00:00",
+      "Rating": 4.44
     },
     {
-      "ID": "ach.070.8kenough",
-      "SetID": "384aaja",
-      "Name": "8K is Enough for Everyone",
-      "Percentage": 22,
-      "XP": 10,
-      "UsersEstimate": 4015
+      "Time": "2022-10-02T13:31:10.6492665+00:00",
+      "Rating": 4.47
     },
     {
-      "ID": "ach.080.eraser",
-      "SetID": "384aaja",
-      "Name": "Eraser",
-      "Percentage": 70,
-      "XP": 10,
-      "UsersEstimate": 12774
+      "Time": "2022-10-02T18:01:12.7331645+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ach.090.perfectionist",
-      "SetID": "384aaja",
-      "Name": "Perfectionist",
-      "Percentage": 23,
-      "XP": 10,
-      "UsersEstimate": 4197
+      "Time": "2022-10-02T19:31:15.8446966+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.100.indecisive",
-      "SetID": "384aaja",
-      "Name": "Indecisive",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 5292
+      "Time": "2022-10-02T20:01:17.9954494+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ach.110.multiverse",
-      "SetID": "384aaja",
-      "Name": "Multiverse",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1277
+      "Time": "2022-10-03T00:32:30.6046006+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.120.simplification",
-      "SetID": "384aaja",
-      "Name": "Simplification",
-      "Percentage": 33,
-      "XP": 10,
-      "UsersEstimate": 6022
+      "Time": "2022-10-03T08:31:12.0317689+00:00",
+      "Rating": 4.48
     },
     {
-      "ID": "ach.130.minimalist",
-      "SetID": "384aaja",
-      "Name": "Minimalist",
-      "Percentage": 90,
-      "XP": 10,
-      "UsersEstimate": 16423
+      "Time": "2022-10-03T10:31:10.0575129+00:00",
+      "Rating": 4.47
     },
     {
-      "ID": "ach.140.legacy",
-      "SetID": "384aaja",
-      "Name": "Trevithick\u0027s Legacy",
-      "Percentage": 98,
-      "XP": 60,
-      "UsersEstimate": 17883
+      "Time": "2022-10-03T16:01:57.7744178+00:00",
+      "Rating": 4.45
     },
     {
-      "ID": "ach.150.pocket",
-      "SetID": "384aaja",
-      "Name": "Pocket of Trains",
-      "Percentage": 65,
-      "XP": 10,
-      "UsersEstimate": 11861
+      "Time": "2022-10-03T19:02:07.9582882+00:00",
+      "Rating": 4.46
     },
     {
-      "ID": "ach.160.box",
-      "SetID": "384aaja",
-      "Name": "Box of Trains",
-      "Percentage": 33,
-      "XP": 10,
-      "UsersEstimate": 6022
+      "Time": "2022-10-03T21:31:45.4286094+00:00",
+      "Rating": 4.47
     },
     {
-      "ID": "ach.170.room",
-      "SetID": "384aaja",
-      "Name": "Room Full of Trains",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 2190
+      "Time": "2022-10-04T05:01:07.825145+00:00",
+      "Rating": 4.48
     },
     {
-      "ID": "ach.180.inspector",
-      "SetID": "384aaja",
-      "Name": "Inspector",
-      "Percentage": 58,
-      "XP": 10,
-      "UsersEstimate": 10584
+      "Time": "2022-10-04T12:31:07.9684502+00:00",
+      "Rating": 4.49
     },
     {
-      "ID": "ach.190.scenic",
-      "SetID": "384aaja",
-      "Name": "The scenic route",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 4927
+      "Time": "2022-10-04T15:31:13.5046304+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ach.200.light",
-      "SetID": "384aaja",
-      "Name": "Let There be Light",
-      "Percentage": 32,
-      "XP": 10,
-      "UsersEstimate": 5839
+      "Time": "2022-10-04T18:31:11.1035273+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.210.baron",
-      "SetID": "384aaja",
-      "Name": "Oil Baron",
-      "Percentage": 42,
-      "XP": 10,
-      "UsersEstimate": 7664
+      "Time": "2022-10-04T20:31:10.0234699+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ach.220.hot",
-      "SetID": "384aaja",
-      "Name": "Hot Water",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 5474
+      "Time": "2022-10-05T13:31:46.0133367+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.230.infinity",
-      "SetID": "384aaja",
-      "Name": "To infinity, and beyond!",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 547
+      "Time": "2022-10-05T16:02:33.2011779+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ach.240.loads",
-      "SetID": "384aaja",
-      "Name": "Loads-a-Money",
-      "Percentage": 42,
-      "XP": 10,
-      "UsersEstimate": 7664
+      "Time": "2022-10-05T22:01:08.9239281+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ach.250.downfall",
-      "SetID": "384aaja",
-      "Name": "Before the Downfall",
-      "Percentage": 93,
-      "XP": 60,
-      "UsersEstimate": 16971
+      "Time": "2022-10-06T16:01:26.1037307+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.260.investor",
-      "SetID": "384aaja",
-      "Name": "Investor",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 1642
+      "Time": "2022-10-06T18:02:16.375157+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ach.270.groundwater",
-      "SetID": "384aaja",
-      "Name": "The poor groundwater levels",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1277
+      "Time": "2022-10-07T09:01:10.0932412+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ach.280.metropolis",
-      "SetID": "384aaja",
-      "Name": "Metropolis",
-      "Percentage": 7,
-      "XP": 110,
-      "UsersEstimate": 1277
+      "Time": "2022-10-07T18:31:06.958342+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ach.290.hightech",
-      "SetID": "384aaja",
-      "Name": "High tech",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 182
+      "Time": "2022-10-07T21:01:10.3968406+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ach.300.space",
-      "SetID": "384aaja",
-      "Name": "Space industrialization",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 365
+      "Time": "2022-10-08T12:31:06.6948431+00:00",
+      "Rating": 4.54
     },
     {
-      "ID": "ach.310.cleanup",
-      "SetID": "384aaja",
-      "Name": "Cleanup crew",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 182
+      "Time": "2022-10-09T12:32:08.8944895+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ach.320.industrialist",
-      "SetID": "384aaja",
-      "Name": "Industrialist",
-      "Percentage": 25,
-      "XP": 10,
-      "UsersEstimate": 4562
+      "Time": "2022-10-09T21:01:13.0578623+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ach.330.water",
-      "SetID": "384aaja",
-      "Name": "Money like Water",
-      "Percentage": 91,
-      "XP": 10,
-      "UsersEstimate": 16606
+      "Time": "2022-10-09T23:01:06.3169206+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.340.steel",
-      "SetID": "384aaja",
-      "Name": "Man of Steel",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 2920
+      "Time": "2022-10-10T19:01:15.6727453+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ach.350.pipes",
-      "SetID": "384aaja",
-      "Name": "Trains over Pipes",
-      "Percentage": 22,
-      "XP": 10,
-      "UsersEstimate": 4015
+      "Time": "2022-10-10T21:31:12.2319846+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ach.360.lightning",
-      "SetID": "384aaja",
-      "Name": "Flying Lightning",
-      "Percentage": 1,
-      "XP": 60,
-      "UsersEstimate": 182
+      "Time": "2022-10-11T00:31:49.6744815+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ach.370.cloudservices",
-      "SetID": "384aaja",
-      "Name": "Cloud Services",
-      "Percentage": 0.2,
-      "XP": 60,
-      "UsersEstimate": 36
+      "Time": "2022-10-11T13:31:06.4977423+00:00",
+      "Rating": 4.51
+    },
+    {
+      "Time": "2022-10-11T18:31:09.1747917+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-14T00:31:55.1720845+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-14T03:01:12.1834972+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-14T20:31:17.8703052+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-14T22:31:13.3501986+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-15T13:01:29.6472871+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-15T17:01:36.6054659+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-16T20:01:10.9651918+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-17T01:31:05.893782+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-17T15:31:12.5169682+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-17T20:02:20.2367361+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-18T11:31:54.1537121+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-18T19:31:11.2031888+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-21T11:31:49.7568682+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-21T15:31:14.9863656+00:00",
+      "Rating": 4.52
+    },
+    {
+      "Time": "2022-10-22T14:01:13.0709399+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-29T17:01:21.5033164+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2022-10-30T04:31:11.5217737+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-30T19:01:12.5494067+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2022-10-31T05:31:21.1250794+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-10-31T15:31:54.2066601+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2022-11-10T02:54:11.6802597+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-11-12T23:57:17.163267+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2022-11-13T23:58:58.5032127+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-11-14T14:57:20.4227516+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2022-11-17T10:57:28.1996177+00:00",
+      "Rating": 4.53
+    },
+    {
+      "Time": "2022-11-18T17:57:57.6892185+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2023-02-20T17:57:49.1920158+00:00",
+      "Rating": 4.55
+    },
+    {
+      "Time": "2023-03-03T19:57:30.8094482+00:00",
+      "Rating": 4.54
+    },
+    {
+      "Time": "2023-04-01T01:57:25.9014062+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-03T19:57:42.1330611+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-05T13:57:43.2738727+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 638,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-08T07:57:56.2193767+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 639,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-12T21:57:56.0002987+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-24T15:57:54.0536132+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 641,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-28T03:59:38.4516606+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-05-03T13:59:45.450545+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 643,
+      "NumberOfAwardsMax": 87
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 643,
+  "NumberOfAwardsMax": 87,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -361,6 +390,11 @@
       "Count": 44
     }
   ],
+  "EOS_Progressed": 18249,
+  "EOS_Completed": 28,
+  "EOS_NewPlayers": 113,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.0720857+00:00",
@@ -726,355 +760,327 @@
       "Time": "2023-05-05T16:07:56.2618589+00:00",
       "NumProgressed": 18248,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-05T17:09:37.9105151+00:00",
+      "NumProgressed": 18249,
+      "NumCompleted": 28
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-09-30T20:32:34.1590884+00:00",
-      "Rating": 4.6
-    },
-    {
-      "Time": "2022-10-01T00:01:10.782404+00:00",
-      "Rating": 4.63
-    },
-    {
-      "Time": "2022-10-01T11:31:21.0541781+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-10-01T15:31:23.5906742+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-10-01T19:01:21.7597095+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2022-10-01T20:01:19.3083338+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2022-10-02T13:31:10.6492665+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2022-10-02T18:01:12.7331645+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-02T19:31:15.8446966+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-02T20:01:17.9954494+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-03T00:32:30.6046006+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-03T08:31:12.0317689+00:00",
-      "Rating": 4.48
-    },
-    {
-      "Time": "2022-10-03T10:31:10.0575129+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2022-10-03T16:01:57.7744178+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2022-10-03T19:02:07.9582882+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2022-10-03T21:31:45.4286094+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2022-10-04T05:01:07.825145+00:00",
-      "Rating": 4.48
-    },
-    {
-      "Time": "2022-10-04T12:31:07.9684502+00:00",
-      "Rating": 4.49
-    },
-    {
-      "Time": "2022-10-04T15:31:13.5046304+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-04T18:31:11.1035273+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-04T20:31:10.0234699+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2022-10-05T13:31:46.0133367+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-05T16:02:33.2011779+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-05T22:01:08.9239281+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-06T16:01:26.1037307+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-06T18:02:16.375157+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-07T09:01:10.0932412+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-07T18:31:06.958342+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-07T21:01:10.3968406+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-08T12:31:06.6948431+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-10-09T12:32:08.8944895+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-09T21:01:13.0578623+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-09T23:01:06.3169206+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-10T19:01:15.6727453+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-10T21:31:12.2319846+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-11T00:31:49.6744815+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-11T13:31:06.4977423+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2022-10-11T18:31:09.1747917+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-14T00:31:55.1720845+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-14T03:01:12.1834972+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-14T20:31:17.8703052+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-14T22:31:13.3501986+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-15T13:01:29.6472871+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-15T17:01:36.6054659+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-16T20:01:10.9651918+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-17T01:31:05.893782+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-17T15:31:12.5169682+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-17T20:02:20.2367361+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-18T11:31:54.1537121+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-18T19:31:11.2031888+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-21T11:31:49.7568682+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-21T15:31:14.9863656+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2022-10-22T14:01:13.0709399+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-29T17:01:21.5033164+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-10-30T04:31:11.5217737+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-30T19:01:12.5494067+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-10-31T05:31:21.1250794+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-10-31T15:31:54.2066601+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-11-10T02:54:11.6802597+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-11-12T23:57:17.163267+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-11-13T23:58:58.5032127+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-11-14T14:57:20.4227516+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2022-11-17T10:57:28.1996177+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2022-11-18T17:57:57.6892185+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2023-02-20T17:57:49.1920158+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2023-03-03T19:57:30.8094482+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2023-04-01T01:57:25.9014062+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 636,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-03T19:57:42.1330611+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 637,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-05T13:57:43.2738727+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 638,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-08T07:57:56.2193767+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 639,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-12T21:57:56.0002987+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 640,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-24T15:57:54.0536132+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 641,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-04-28T03:59:38.4516606+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 642,
-      "NumberOfAwardsMax": 86
-    },
-    {
-      "Time": "2023-05-03T13:59:45.450545+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 643,
-      "NumberOfAwardsMax": 87
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 37,
-  "LastChanged_Achievements": "2023-05-05T16:07:56.2618584+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 112,
-  "EOS_Completed": 28,
-  "EOS_Progressed": 18248,
-  "LastUpdate_Achievements": "2023-05-05T16:07:56.2619489+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:26.8264828+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:33.4745421+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach.010.highflier",
+      "SetID": "384aaja",
+      "Name": "High Flier",
+      "Percentage": 3,
+      "XP": 200,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "ach.020.helper",
+      "SetID": "384aaja",
+      "Name": "Helper of the People",
+      "Percentage": 39,
+      "XP": 100,
+      "UsersEstimate": 7117
+    },
+    {
+      "ID": "ach.030.deertastic",
+      "SetID": "384aaja",
+      "Name": "Deertastic",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 164
+    },
+    {
+      "ID": "ach.040.overdeer",
+      "SetID": "384aaja",
+      "Name": "Overdeer",
+      "Percentage": 0.4,
+      "XP": 60,
+      "UsersEstimate": 73
+    },
+    {
+      "ID": "ach.050.builder",
+      "SetID": "384aaja",
+      "Name": "Builder",
+      "Percentage": 83,
+      "XP": 10,
+      "UsersEstimate": 15147
+    },
+    {
+      "ID": "ach.060.goingdistance",
+      "SetID": "384aaja",
+      "Name": "Going the Distance",
+      "Percentage": 54,
+      "XP": 10,
+      "UsersEstimate": 9854
+    },
+    {
+      "ID": "ach.070.8kenough",
+      "SetID": "384aaja",
+      "Name": "8K is Enough for Everyone",
+      "Percentage": 22,
+      "XP": 10,
+      "UsersEstimate": 4015
+    },
+    {
+      "ID": "ach.080.eraser",
+      "SetID": "384aaja",
+      "Name": "Eraser",
+      "Percentage": 70,
+      "XP": 10,
+      "UsersEstimate": 12774
+    },
+    {
+      "ID": "ach.090.perfectionist",
+      "SetID": "384aaja",
+      "Name": "Perfectionist",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 4197
+    },
+    {
+      "ID": "ach.100.indecisive",
+      "SetID": "384aaja",
+      "Name": "Indecisive",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 5292
+    },
+    {
+      "ID": "ach.110.multiverse",
+      "SetID": "384aaja",
+      "Name": "Multiverse",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1277
+    },
+    {
+      "ID": "ach.120.simplification",
+      "SetID": "384aaja",
+      "Name": "Simplification",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 6022
+    },
+    {
+      "ID": "ach.130.minimalist",
+      "SetID": "384aaja",
+      "Name": "Minimalist",
+      "Percentage": 90,
+      "XP": 10,
+      "UsersEstimate": 16424
+    },
+    {
+      "ID": "ach.140.legacy",
+      "SetID": "384aaja",
+      "Name": "Trevithick\u0027s Legacy",
+      "Percentage": 98,
+      "XP": 60,
+      "UsersEstimate": 17884
+    },
+    {
+      "ID": "ach.150.pocket",
+      "SetID": "384aaja",
+      "Name": "Pocket of Trains",
+      "Percentage": 65,
+      "XP": 10,
+      "UsersEstimate": 11862
+    },
+    {
+      "ID": "ach.160.box",
+      "SetID": "384aaja",
+      "Name": "Box of Trains",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 6022
+    },
+    {
+      "ID": "ach.170.room",
+      "SetID": "384aaja",
+      "Name": "Room Full of Trains",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 2190
+    },
+    {
+      "ID": "ach.180.inspector",
+      "SetID": "384aaja",
+      "Name": "Inspector",
+      "Percentage": 58,
+      "XP": 10,
+      "UsersEstimate": 10584
+    },
+    {
+      "ID": "ach.190.scenic",
+      "SetID": "384aaja",
+      "Name": "The scenic route",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 4927
+    },
+    {
+      "ID": "ach.200.light",
+      "SetID": "384aaja",
+      "Name": "Let There be Light",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 5840
+    },
+    {
+      "ID": "ach.210.baron",
+      "SetID": "384aaja",
+      "Name": "Oil Baron",
+      "Percentage": 42,
+      "XP": 10,
+      "UsersEstimate": 7665
+    },
+    {
+      "ID": "ach.220.hot",
+      "SetID": "384aaja",
+      "Name": "Hot Water",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 5475
+    },
+    {
+      "ID": "ach.230.infinity",
+      "SetID": "384aaja",
+      "Name": "To infinity, and beyond!",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "ach.240.loads",
+      "SetID": "384aaja",
+      "Name": "Loads-a-Money",
+      "Percentage": 42,
+      "XP": 10,
+      "UsersEstimate": 7665
+    },
+    {
+      "ID": "ach.250.downfall",
+      "SetID": "384aaja",
+      "Name": "Before the Downfall",
+      "Percentage": 93,
+      "XP": 60,
+      "UsersEstimate": 16972
+    },
+    {
+      "ID": "ach.260.investor",
+      "SetID": "384aaja",
+      "Name": "Investor",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 1642
+    },
+    {
+      "ID": "ach.270.groundwater",
+      "SetID": "384aaja",
+      "Name": "The poor groundwater levels",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1277
+    },
+    {
+      "ID": "ach.280.metropolis",
+      "SetID": "384aaja",
+      "Name": "Metropolis",
+      "Percentage": 7,
+      "XP": 110,
+      "UsersEstimate": 1277
+    },
+    {
+      "ID": "ach.290.hightech",
+      "SetID": "384aaja",
+      "Name": "High tech",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 182
+    },
+    {
+      "ID": "ach.300.space",
+      "SetID": "384aaja",
+      "Name": "Space industrialization",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 365
+    },
+    {
+      "ID": "ach.310.cleanup",
+      "SetID": "384aaja",
+      "Name": "Cleanup crew",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 182
+    },
+    {
+      "ID": "ach.320.industrialist",
+      "SetID": "384aaja",
+      "Name": "Industrialist",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 4562
+    },
+    {
+      "ID": "ach.330.water",
+      "SetID": "384aaja",
+      "Name": "Money like Water",
+      "Percentage": 91,
+      "XP": 10,
+      "UsersEstimate": 16607
+    },
+    {
+      "ID": "ach.340.steel",
+      "SetID": "384aaja",
+      "Name": "Man of Steel",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 2920
+    },
+    {
+      "ID": "ach.350.pipes",
+      "SetID": "384aaja",
+      "Name": "Trains over Pipes",
+      "Percentage": 22,
+      "XP": 10,
+      "UsersEstimate": 4015
+    },
+    {
+      "ID": "ach.360.lightning",
+      "SetID": "384aaja",
+      "Name": "Flying Lightning",
+      "Percentage": 1,
+      "XP": 60,
+      "UsersEstimate": 182
+    },
+    {
+      "ID": "ach.370.cloudservices",
+      "SetID": "384aaja",
+      "Name": "Cloud Services",
+      "Percentage": 0.2,
+      "XP": 60,
+      "UsersEstimate": 36
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18248,
+      "Progressed": 18249,
       "Completed": 28
     }
   ],
-  "EOS_Completed_Percentage": 0.15,
-  "LastChanged": "2023-05-03T13:59:45.4505447+00:00",
-  "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
-  "ProductSlug": "railgrade",
-  "Rating": 4.54,
-  "Ranking_Rating": 476,
-  "Ranking_Popularity": 338,
-  "Ranking_PopularitySum": 269,
-  "Ranking_EOS_Progress": 93,
-  "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 643,
-  "NumberOfAwardsMax": 87,
-  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
-  "Ranking_EOS_NewPlayers": 115
+  "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
+  "LastChanged": "2023-05-03T13:59:45.4505447+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:37.9105146+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:29.1139997+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:27.2230797+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:37.9105489+00:00"
 }

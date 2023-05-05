@@ -1,368 +1,787 @@
 {
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
-  "Achievements": [
+  "ProductSlug": "ghostrunner",
+  "Ranking_Rating": 166,
+  "Ranking_Popularity": 188,
+  "Ranking_PopularitySum": 280,
+  "Ranking_EOS_Progress": 126,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.72,
+  "NumberOfRatings": 1047,
+  "RatingHistory": [
     {
-      "ID": "AGrade",
-      "SetID": "2aljc8i",
-      "Name": "A Grade",
-      "Percentage": 0.5,
-      "XP": 15,
-      "UsersEstimate": 20
+      "Time": "2022-07-22T20:20:51.2324113+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 390
     },
     {
-      "ID": "AboutAdam",
-      "SetID": "6ce5bmd",
-      "Name": "About Adam",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 158
+      "Time": "2022-07-23T05:01:43.9691946+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 396
     },
     {
-      "ID": "ArtificialSelection",
-      "SetID": "6ce5bmd",
-      "Name": "Artificial selection",
-      "Percentage": 29,
-      "XP": 30,
-      "UsersEstimate": 1148
+      "Time": "2022-07-23T14:01:16.5363752+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 404
     },
     {
-      "ID": "BackToHell",
-      "SetID": "6ce5bmd",
-      "Name": "Back to hell",
-      "Percentage": 39,
-      "XP": 30,
-      "UsersEstimate": 1543
+      "Time": "2022-07-24T10:00:52.788905+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 413
     },
     {
-      "ID": "CantRunCantHide",
-      "SetID": "6ce5bmd",
-      "Name": "Can\u0027t Run Can\u0027t Hide",
-      "Percentage": 20,
-      "XP": 30,
-      "UsersEstimate": 791
+      "Time": "2022-07-24T14:01:16.5915297+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 416
     },
     {
-      "ID": "DeadInTheAir",
-      "SetID": "6ce5bmd",
-      "Name": "Dead in the air",
-      "Percentage": 17,
-      "XP": 15,
-      "UsersEstimate": 673
+      "Time": "2022-07-25T02:00:42.1141286+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 420
     },
     {
-      "ID": "EveryoneNeedsAHobby",
-      "SetID": "2aljc8i",
-      "Name": "Everyone Needs A Hobby",
-      "Percentage": 0.7,
-      "XP": 30,
-      "UsersEstimate": 28
+      "Time": "2022-07-25T06:01:17.094631+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 422
     },
     {
-      "ID": "FineAddition",
-      "SetID": "6ce5bmd",
-      "Name": "Fine addition",
-      "Percentage": 8,
-      "XP": 20,
-      "UsersEstimate": 317
+      "Time": "2022-07-25T18:01:07.422905+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 426
     },
     {
-      "ID": "FinishLine",
-      "SetID": "6ce5bmd",
-      "Name": "Finish line",
-      "Percentage": 27,
-      "XP": 60,
-      "UsersEstimate": 1068
+      "Time": "2022-07-26T18:01:20.4800722+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 439
     },
     {
-      "ID": "GRProjectComplete",
-      "SetID": "6ce5bmd",
-      "Name": "GR Project Complete",
-      "Percentage": 0.5,
-      "XP": 50,
-      "UsersEstimate": 20
+      "Time": "2022-07-27T00:00:46.9045768+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 442
     },
     {
-      "ID": "HitMeIfYouCan",
-      "SetID": "6ce5bmd",
-      "Name": "Hit me if you can",
-      "Percentage": 2,
-      "XP": 60,
-      "UsersEstimate": 79
+      "Time": "2022-07-27T12:01:08.9651548+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 446
     },
     {
-      "ID": "Homerunner",
-      "SetID": "6ce5bmd",
-      "Name": "Homerunner",
-      "Percentage": 47,
-      "XP": 15,
-      "UsersEstimate": 1860
+      "Time": "2022-07-27T14:01:17.0360239+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 450
     },
     {
-      "ID": "ICallItLuck",
-      "SetID": "6ce5bmd",
-      "Name": "I call it luck",
-      "Percentage": 46,
-      "XP": 30,
-      "UsersEstimate": 1820
+      "Time": "2022-07-28T06:00:45.1596453+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 452
     },
     {
-      "ID": "ImproviseAdaptOverrun",
-      "SetID": "6ce5bmd",
-      "Name": "Improvise, adapt, overrun",
-      "Percentage": 15,
-      "XP": 30,
-      "UsersEstimate": 594
+      "Time": "2022-07-28T08:01:01.5716179+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 453
     },
     {
-      "ID": "Junkrunner",
-      "SetID": "6ce5bmd",
-      "Name": "Junkrunner",
-      "Percentage": 3,
-      "XP": 60,
-      "UsersEstimate": 119
+      "Time": "2022-07-28T10:00:50.0372806+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": 454
     },
     {
-      "ID": "JustAMan",
-      "SetID": "2aljc8i",
-      "Name": "Just A Man",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 158
+      "Time": "2022-07-29T07:30:39.2632061+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 466
     },
     {
-      "ID": "LegacyDrivers",
-      "SetID": "2aljc8i",
-      "Name": "Legacy Drivers",
-      "Percentage": 0.5,
-      "XP": 15,
-      "UsersEstimate": 20
+      "Time": "2022-07-29T11:30:45.5765356+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 468
     },
     {
-      "ID": "Longrunner",
-      "SetID": "6ce5bmd",
-      "Name": "Longrunner",
-      "Percentage": 79,
-      "XP": 15,
-      "UsersEstimate": 3126
+      "Time": "2022-07-30T09:00:45.1027351+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 478
     },
     {
-      "ID": "MoreThanHuman",
-      "SetID": "6ce5bmd",
-      "Name": "More than human",
-      "Percentage": 14,
-      "XP": 30,
-      "UsersEstimate": 554
+      "Time": "2022-07-31T09:00:43.9931771+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 489
     },
     {
-      "ID": "Neuromancer",
-      "SetID": "6ce5bmd",
-      "Name": "Control freak",
-      "Percentage": 29,
-      "XP": 30,
-      "UsersEstimate": 1148
+      "Time": "2022-07-31T15:00:48.2064908+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 492
     },
     {
-      "ID": "ObedientMachine",
-      "SetID": "2aljc8i",
-      "Name": "Obedient Machine",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 40
+      "Time": "2022-08-01T12:00:53.2405283+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 504
     },
     {
-      "ID": "OneMansTrash",
-      "SetID": "6ce5bmd",
-      "Name": "One man\u0027s trash",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 119
+      "Time": "2022-08-01T15:30:49.2631605+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 507
     },
     {
-      "ID": "OneOfThoseDays",
-      "SetID": "2aljc8i",
-      "Name": "One Of Those Days",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 277
+      "Time": "2022-08-01T22:01:23.8933419+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 509
     },
     {
-      "ID": "OutOfOrder",
-      "SetID": "6ce5bmd",
-      "Name": "Out of order",
-      "Percentage": 47,
-      "XP": 30,
-      "UsersEstimate": 1860
+      "Time": "2022-08-02T05:00:45.1490296+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 510
     },
     {
-      "ID": "Perfection",
-      "SetID": "6ce5bmd",
-      "Name": "Perfection",
-      "Percentage": 34,
-      "XP": 30,
-      "UsersEstimate": 1345
+      "Time": "2022-08-03T05:01:44.4932076+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 519
     },
     {
-      "ID": "PreempativeStrike",
-      "SetID": "6ce5bmd",
-      "Name": "Pre-empative strike",
-      "Percentage": 15,
-      "XP": 15,
-      "UsersEstimate": 594
+      "Time": "2022-08-03T18:01:29.5760998+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 522
     },
     {
-      "ID": "PushItToTheLimit",
-      "SetID": "6ce5bmd",
-      "Name": "Push it to the limit",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 198
+      "Time": "2022-08-04T03:30:42.9824819+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 527
     },
     {
-      "ID": "RIsForRunning",
-      "SetID": "6ce5bmd",
-      "Name": "R is for Running",
-      "Percentage": 19,
-      "XP": 60,
-      "UsersEstimate": 752
+      "Time": "2022-08-05T00:30:45.197343+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 535
     },
     {
-      "ID": "RunningOutOfBreath",
-      "SetID": "6ce5bmd",
-      "Name": "Running out of breath",
-      "Percentage": 56,
-      "XP": 30,
-      "UsersEstimate": 2216
+      "Time": "2022-08-05T09:00:47.7979888+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 537
     },
     {
-      "ID": "RunningWild",
-      "SetID": "6ce5bmd",
-      "Name": "Running Wild",
-      "Percentage": 30,
-      "XP": 30,
-      "UsersEstimate": 1187
+      "Time": "2022-08-05T11:00:47.8328079+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 538
     },
     {
-      "ID": "Scrapped",
-      "SetID": "2aljc8i",
-      "Name": "Scrapped",
-      "Percentage": 4,
-      "XP": 30,
-      "UsersEstimate": 158
+      "Time": "2022-08-05T13:30:48.3816504+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 539
     },
     {
-      "ID": "SticksAndStones",
-      "SetID": "2aljc8i",
-      "Name": "Sticks And Stones",
-      "Percentage": 0.6,
-      "XP": 15,
-      "UsersEstimate": 24
+      "Time": "2022-08-06T02:31:00.2273082+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 544
     },
     {
-      "ID": "StrafingRun",
-      "SetID": "2aljc8i",
-      "Name": "Strafing Run",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 158
+      "Time": "2022-08-07T02:30:46.6271694+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 551
     },
     {
-      "ID": "Strike",
-      "SetID": "6ce5bmd",
-      "Name": "Strike",
-      "Percentage": 13,
-      "XP": 15,
-      "UsersEstimate": 514
+      "Time": "2022-08-07T07:00:48.8539463+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 555
     },
     {
-      "ID": "SwordRunner",
-      "SetID": "6ce5bmd",
-      "Name": "Sword Runner",
-      "Percentage": 62,
-      "XP": 30,
-      "UsersEstimate": 2453
+      "Time": "2022-08-08T07:00:54.5761425+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 558
     },
     {
-      "ID": "SwordToAGunfight",
-      "SetID": "6ce5bmd",
-      "Name": "Sword to a gunfight",
-      "Percentage": 32,
-      "XP": 30,
-      "UsersEstimate": 1266
+      "Time": "2022-08-09T07:00:49.9739823+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 566
     },
     {
-      "ID": "TripleA",
-      "SetID": "6ce5bmd",
-      "Name": "Triple A",
-      "Percentage": 10,
-      "XP": 30,
-      "UsersEstimate": 396
+      "Time": "2022-08-09T16:30:45.2852545+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 573
     },
     {
-      "ID": "UnstoppableForce",
-      "SetID": "6ce5bmd",
-      "Name": "Unstoppable force",
-      "Percentage": 24,
-      "XP": 30,
-      "UsersEstimate": 950
+      "Time": "2022-08-10T06:00:51.690517+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 578
     },
     {
-      "ID": "UpCloseAndPersonal",
-      "SetID": "2aljc8i",
-      "Name": "Up Close And Personal",
-      "Percentage": 0.5,
-      "XP": 15,
-      "UsersEstimate": 20
+      "Time": "2022-08-11T06:00:53.3303337+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 587
     },
     {
-      "ID": "UpgradesNotMandatory",
-      "SetID": "6ce5bmd",
-      "Name": "Upgrades not mandatory",
-      "Percentage": 30,
-      "XP": 20,
-      "UsersEstimate": 1187
+      "Time": "2022-08-11T09:00:58.9608179+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 588
     },
     {
-      "ID": "Wallrunner",
-      "SetID": "6ce5bmd",
-      "Name": "Wallrunner",
-      "Percentage": 58,
-      "XP": 15,
-      "UsersEstimate": 2295
+      "Time": "2022-08-11T19:01:19.9285098+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 594
     },
     {
-      "ID": "WaveOfMutilation",
-      "SetID": "6ce5bmd",
-      "Name": "Wave of mutilation",
-      "Percentage": 23,
-      "XP": 30,
-      "UsersEstimate": 910
+      "Time": "2022-08-12T07:01:19.5837083+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 596
     },
     {
-      "ID": "WhereAreMyKeys",
-      "SetID": "6ce5bmd",
-      "Name": "Where are my Keys?",
-      "Percentage": 44,
-      "XP": 15,
-      "UsersEstimate": 1741
+      "Time": "2022-08-13T00:01:48.604073+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 602
     },
     {
-      "ID": "WhereHeStood",
-      "SetID": "2aljc8i",
-      "Name": "Where He Stood",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 198
+      "Time": "2022-08-13T11:30:48.2051125+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 604
     },
     {
-      "ID": "WhyNotBoth",
-      "SetID": "6ce5bmd",
-      "Name": "Why not both",
-      "Percentage": 32,
-      "XP": 30,
-      "UsersEstimate": 1266
+      "Time": "2022-08-14T08:32:21.3965668+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 608
+    },
+    {
+      "Time": "2022-08-15T10:30:51.9392489+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 617
+    },
+    {
+      "Time": "2022-08-16T01:31:36.2494667+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 621
+    },
+    {
+      "Time": "2022-08-17T01:31:41.3440185+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 629
+    },
+    {
+      "Time": "2022-08-17T04:30:48.5556249+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 632
+    },
+    {
+      "Time": "2022-08-18T04:30:50.6388338+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 641
+    },
+    {
+      "Time": "2022-08-19T04:31:27.253384+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 646
+    },
+    {
+      "Time": "2022-08-20T07:30:52.3994888+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 652
+    },
+    {
+      "Time": "2022-08-20T08:30:44.5190727+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 653
+    },
+    {
+      "Time": "2022-08-21T06:00:51.6657797+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 657
+    },
+    {
+      "Time": "2022-08-21T10:00:51.3996713+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 659
+    },
+    {
+      "Time": "2022-08-22T10:00:52.022003+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 669
+    },
+    {
+      "Time": "2022-08-23T13:30:47.1196954+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 675
+    },
+    {
+      "Time": "2022-08-24T02:30:46.9671499+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 677
+    },
+    {
+      "Time": "2022-08-24T13:01:34.0176044+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 679
+    },
+    {
+      "Time": "2022-08-25T11:01:20.5624073+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 688
+    },
+    {
+      "Time": "2022-08-25T13:01:20.8745301+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 689
+    },
+    {
+      "Time": "2022-08-26T13:01:04.2234496+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 697
+    },
+    {
+      "Time": "2022-08-27T03:30:54.9104082+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 702
+    },
+    {
+      "Time": "2022-08-27T06:30:58.6521419+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 704
+    },
+    {
+      "Time": "2022-08-28T06:30:49.420096+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 715
+    },
+    {
+      "Time": "2022-08-28T13:01:01.1080632+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 718
+    },
+    {
+      "Time": "2022-08-29T03:00:52.7580865+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 724
+    },
+    {
+      "Time": "2022-08-29T15:31:29.6489936+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 734
+    },
+    {
+      "Time": "2022-08-30T11:01:13.0202799+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": 738
+    },
+    {
+      "Time": "2022-08-31T00:01:00.3192881+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 744
+    },
+    {
+      "Time": "2022-09-01T00:01:33.4818191+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 755
+    },
+    {
+      "Time": "2022-09-01T02:30:46.1240532+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 756
+    },
+    {
+      "Time": "2022-09-01T03:30:45.2624202+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 758
+    },
+    {
+      "Time": "2022-09-01T07:30:54.7778709+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 761
+    },
+    {
+      "Time": "2022-09-01T10:31:08.403479+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 763
+    },
+    {
+      "Time": "2022-09-01T13:01:23.1445298+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 764
+    },
+    {
+      "Time": "2022-09-02T08:00:52.5525127+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 769
+    },
+    {
+      "Time": "2022-09-02T11:30:56.3610272+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 772
+    },
+    {
+      "Time": "2022-09-02T15:31:56.5860813+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 774
+    },
+    {
+      "Time": "2022-09-03T15:30:58.58834+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 780
+    },
+    {
+      "Time": "2022-09-04T03:30:56.6043924+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 785
+    },
+    {
+      "Time": "2022-09-04T09:00:52.7884374+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 786
+    },
+    {
+      "Time": "2022-09-05T13:30:45.3251672+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 791
+    },
+    {
+      "Time": "2022-09-05T17:01:12.6748388+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 792
+    },
+    {
+      "Time": "2022-09-06T17:00:56.1305565+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 802
+    },
+    {
+      "Time": "2022-09-06T17:30:54.8931447+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 803
+    },
+    {
+      "Time": "2022-09-07T17:31:01.6827747+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 813
+    },
+    {
+      "Time": "2022-09-08T10:01:04.1997957+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 818
+    },
+    {
+      "Time": "2022-09-09T01:00:53.383978+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 824
+    },
+    {
+      "Time": "2022-09-09T14:01:21.3483724+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 830
+    },
+    {
+      "Time": "2022-09-10T01:30:55.4266989+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 832
+    },
+    {
+      "Time": "2022-09-10T12:30:46.7789207+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 838
+    },
+    {
+      "Time": "2022-09-10T13:30:53.262732+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 839
+    },
+    {
+      "Time": "2022-09-11T09:01:00.5716425+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 844
+    },
+    {
+      "Time": "2022-09-12T09:00:52.0492399+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 849
+    },
+    {
+      "Time": "2022-09-12T17:00:59.1415808+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 851
+    },
+    {
+      "Time": "2022-09-13T07:30:54.2059137+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 855
+    },
+    {
+      "Time": "2022-09-14T02:30:45.5020215+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 860
+    },
+    {
+      "Time": "2022-09-15T03:30:58.5233864+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 863
+    },
+    {
+      "Time": "2022-09-15T14:01:26.4371638+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 865
+    },
+    {
+      "Time": "2022-09-16T08:01:37.6365517+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 870
+    },
+    {
+      "Time": "2022-09-16T08:30:52.7614407+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 865
+    },
+    {
+      "Time": "2022-09-16T14:01:31.4534988+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 872
+    },
+    {
+      "Time": "2022-09-16T14:30:47.9240846+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 876
+    },
+    {
+      "Time": "2022-09-16T23:00:47.7691983+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 882
+    },
+    {
+      "Time": "2022-09-17T08:03:29.5019742+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": 889
+    },
+    {
+      "Time": "2022-09-17T14:31:19.7835442+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 896
+    },
+    {
+      "Time": "2022-09-18T10:00:50.8792568+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 914
+    },
+    {
+      "Time": "2022-09-18T18:00:55.1602396+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 928
+    },
+    {
+      "Time": "2022-09-19T06:00:49.6271772+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 934
+    },
+    {
+      "Time": "2022-09-19T08:30:53.4047879+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 937
+    },
+    {
+      "Time": "2022-09-19T19:31:07.1737345+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 960
+    },
+    {
+      "Time": "2022-09-19T22:00:59.3903821+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 962
+    },
+    {
+      "Time": "2022-09-20T10:01:19.5473428+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 971
+    },
+    {
+      "Time": "2022-09-21T01:00:53.3421666+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 990
+    },
+    {
+      "Time": "2022-09-21T05:30:53.2493224+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 993
+    },
+    {
+      "Time": "2022-09-21T10:01:01.4148599+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 997
+    },
+    {
+      "Time": "2022-09-22T02:30:47.4990408+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 1018
+    },
+    {
+      "Time": "2022-09-22T06:00:55.316224+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 1023
+    },
+    {
+      "Time": "2022-09-22T07:30:48.9927241+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 1025
+    },
+    {
+      "Time": "2022-09-22T17:01:28.2263139+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 1035
+    },
+    {
+      "Time": "2022-09-23T04:00:50.2376142+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": 1040
+    },
+    {
+      "Time": "2022-09-23T09:31:00.80345+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": 1047
+    },
+    {
+      "Time": "2022-09-24T13:06:20.9973747+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-09-29T07:00:53.9196235+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-09-30T07:01:24.7214879+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-10-01T12:30:55.4192489+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-10-02T04:01:06.1110518+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-10-04T06:00:49.4349996+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-10-05T13:00:56.2838467+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-10-09T23:31:46.3978775+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-10-13T14:02:00.2996372+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-10-14T14:01:53.8666297+00:00",
+      "Rating": 4.74
+    },
+    {
+      "Time": "2022-10-15T06:31:05.8329748+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-10-22T15:30:55.5455257+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-10-25T14:31:42.0944426+00:00",
+      "Rating": 4.73
+    },
+    {
+      "Time": "2022-10-26T16:31:59.692522+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-10-27T17:31:55.1800192+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-10-28T07:30:55.9223148+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-11-07T13:33:49.5093948+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-11-09T15:57:25.2027502+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-11-10T17:09:38.2480029+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-11-12T02:44:59.0696961+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-11-13T17:03:27.2059322+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-11-24T02:20:08.054452+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2022-11-24T06:57:31.9184069+00:00",
+      "Rating": 4.71
+    },
+    {
+      "Time": "2022-11-28T05:57:13.6454513+00:00",
+      "Rating": 4.72
+    },
+    {
+      "Time": "2023-04-01T09:57:27.1486266+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-04-07T09:57:30.9105974+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-04-07T10:57:07.4614383+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2023-04-09T13:00:36.8313861+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2023-04-09T13:57:47.6942842+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2023-04-12T15:57:21.3746391+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 449
+    },
+    {
+      "Time": "2023-04-15T04:57:20.263322+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 450
+    },
+    {
+      "Time": "2023-04-21T11:57:06.3676992+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 451
+    },
+    {
+      "Time": "2023-04-30T18:58:07.4287448+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 586,
+      "NumberOfAwardsMax": 454
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 586,
+  "NumberOfAwardsMax": 454,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -407,6 +826,11 @@
       "Count": 21
     }
   ],
+  "EOS_Progressed": 3962,
+  "EOS_Completed": 20,
+  "EOS_NewPlayers": 745,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:29.1266167+00:00",
@@ -1542,814 +1966,396 @@
       "Time": "2023-05-05T16:07:36.5311136+00:00",
       "NumProgressed": 3957,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-05T17:09:22.8857865+00:00",
+      "NumProgressed": 3962,
+      "NumCompleted": 20
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:20:51.2324113+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 390
-    },
-    {
-      "Time": "2022-07-23T05:01:43.9691946+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 396
-    },
-    {
-      "Time": "2022-07-23T14:01:16.5363752+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 404
-    },
-    {
-      "Time": "2022-07-24T10:00:52.788905+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 413
-    },
-    {
-      "Time": "2022-07-24T14:01:16.5915297+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 416
-    },
-    {
-      "Time": "2022-07-25T02:00:42.1141286+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 420
-    },
-    {
-      "Time": "2022-07-25T06:01:17.094631+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 422
-    },
-    {
-      "Time": "2022-07-25T18:01:07.422905+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 426
-    },
-    {
-      "Time": "2022-07-26T18:01:20.4800722+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 439
-    },
-    {
-      "Time": "2022-07-27T00:00:46.9045768+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 442
-    },
-    {
-      "Time": "2022-07-27T12:01:08.9651548+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 446
-    },
-    {
-      "Time": "2022-07-27T14:01:17.0360239+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 450
-    },
-    {
-      "Time": "2022-07-28T06:00:45.1596453+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": 452
-    },
-    {
-      "Time": "2022-07-28T08:01:01.5716179+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": 453
-    },
-    {
-      "Time": "2022-07-28T10:00:50.0372806+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": 454
-    },
-    {
-      "Time": "2022-07-29T07:30:39.2632061+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 466
-    },
-    {
-      "Time": "2022-07-29T11:30:45.5765356+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 468
-    },
-    {
-      "Time": "2022-07-30T09:00:45.1027351+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 478
-    },
-    {
-      "Time": "2022-07-31T09:00:43.9931771+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 489
-    },
-    {
-      "Time": "2022-07-31T15:00:48.2064908+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 492
-    },
-    {
-      "Time": "2022-08-01T12:00:53.2405283+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 504
-    },
-    {
-      "Time": "2022-08-01T15:30:49.2631605+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 507
-    },
-    {
-      "Time": "2022-08-01T22:01:23.8933419+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 509
-    },
-    {
-      "Time": "2022-08-02T05:00:45.1490296+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 510
-    },
-    {
-      "Time": "2022-08-03T05:01:44.4932076+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 519
-    },
-    {
-      "Time": "2022-08-03T18:01:29.5760998+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 522
-    },
-    {
-      "Time": "2022-08-04T03:30:42.9824819+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 527
-    },
-    {
-      "Time": "2022-08-05T00:30:45.197343+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 535
-    },
-    {
-      "Time": "2022-08-05T09:00:47.7979888+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 537
-    },
-    {
-      "Time": "2022-08-05T11:00:47.8328079+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 538
-    },
-    {
-      "Time": "2022-08-05T13:30:48.3816504+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 539
-    },
-    {
-      "Time": "2022-08-06T02:31:00.2273082+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 544
-    },
-    {
-      "Time": "2022-08-07T02:30:46.6271694+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 551
-    },
-    {
-      "Time": "2022-08-07T07:00:48.8539463+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 555
-    },
-    {
-      "Time": "2022-08-08T07:00:54.5761425+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 558
-    },
-    {
-      "Time": "2022-08-09T07:00:49.9739823+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 566
-    },
-    {
-      "Time": "2022-08-09T16:30:45.2852545+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 573
-    },
-    {
-      "Time": "2022-08-10T06:00:51.690517+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 578
-    },
-    {
-      "Time": "2022-08-11T06:00:53.3303337+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 587
-    },
-    {
-      "Time": "2022-08-11T09:00:58.9608179+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 588
-    },
-    {
-      "Time": "2022-08-11T19:01:19.9285098+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 594
-    },
-    {
-      "Time": "2022-08-12T07:01:19.5837083+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 596
-    },
-    {
-      "Time": "2022-08-13T00:01:48.604073+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 602
-    },
-    {
-      "Time": "2022-08-13T11:30:48.2051125+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 604
-    },
-    {
-      "Time": "2022-08-14T08:32:21.3965668+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 608
-    },
-    {
-      "Time": "2022-08-15T10:30:51.9392489+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 617
-    },
-    {
-      "Time": "2022-08-16T01:31:36.2494667+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 621
-    },
-    {
-      "Time": "2022-08-17T01:31:41.3440185+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 629
-    },
-    {
-      "Time": "2022-08-17T04:30:48.5556249+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 632
-    },
-    {
-      "Time": "2022-08-18T04:30:50.6388338+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 641
-    },
-    {
-      "Time": "2022-08-19T04:31:27.253384+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 646
-    },
-    {
-      "Time": "2022-08-20T07:30:52.3994888+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 652
-    },
-    {
-      "Time": "2022-08-20T08:30:44.5190727+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 653
-    },
-    {
-      "Time": "2022-08-21T06:00:51.6657797+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 657
-    },
-    {
-      "Time": "2022-08-21T10:00:51.3996713+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 659
-    },
-    {
-      "Time": "2022-08-22T10:00:52.022003+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 669
-    },
-    {
-      "Time": "2022-08-23T13:30:47.1196954+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 675
-    },
-    {
-      "Time": "2022-08-24T02:30:46.9671499+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 677
-    },
-    {
-      "Time": "2022-08-24T13:01:34.0176044+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 679
-    },
-    {
-      "Time": "2022-08-25T11:01:20.5624073+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 688
-    },
-    {
-      "Time": "2022-08-25T13:01:20.8745301+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 689
-    },
-    {
-      "Time": "2022-08-26T13:01:04.2234496+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 697
-    },
-    {
-      "Time": "2022-08-27T03:30:54.9104082+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 702
-    },
-    {
-      "Time": "2022-08-27T06:30:58.6521419+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 704
-    },
-    {
-      "Time": "2022-08-28T06:30:49.420096+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 715
-    },
-    {
-      "Time": "2022-08-28T13:01:01.1080632+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 718
-    },
-    {
-      "Time": "2022-08-29T03:00:52.7580865+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 724
-    },
-    {
-      "Time": "2022-08-29T15:31:29.6489936+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 734
-    },
-    {
-      "Time": "2022-08-30T11:01:13.0202799+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": 738
-    },
-    {
-      "Time": "2022-08-31T00:01:00.3192881+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 744
-    },
-    {
-      "Time": "2022-09-01T00:01:33.4818191+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 755
-    },
-    {
-      "Time": "2022-09-01T02:30:46.1240532+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 756
-    },
-    {
-      "Time": "2022-09-01T03:30:45.2624202+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 758
-    },
-    {
-      "Time": "2022-09-01T07:30:54.7778709+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 761
-    },
-    {
-      "Time": "2022-09-01T10:31:08.403479+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 763
-    },
-    {
-      "Time": "2022-09-01T13:01:23.1445298+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 764
-    },
-    {
-      "Time": "2022-09-02T08:00:52.5525127+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 769
-    },
-    {
-      "Time": "2022-09-02T11:30:56.3610272+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 772
-    },
-    {
-      "Time": "2022-09-02T15:31:56.5860813+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 774
-    },
-    {
-      "Time": "2022-09-03T15:30:58.58834+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 780
-    },
-    {
-      "Time": "2022-09-04T03:30:56.6043924+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 785
-    },
-    {
-      "Time": "2022-09-04T09:00:52.7884374+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 786
-    },
-    {
-      "Time": "2022-09-05T13:30:45.3251672+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 791
-    },
-    {
-      "Time": "2022-09-05T17:01:12.6748388+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 792
-    },
-    {
-      "Time": "2022-09-06T17:00:56.1305565+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 802
-    },
-    {
-      "Time": "2022-09-06T17:30:54.8931447+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 803
-    },
-    {
-      "Time": "2022-09-07T17:31:01.6827747+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 813
-    },
-    {
-      "Time": "2022-09-08T10:01:04.1997957+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 818
-    },
-    {
-      "Time": "2022-09-09T01:00:53.383978+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 824
-    },
-    {
-      "Time": "2022-09-09T14:01:21.3483724+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 830
-    },
-    {
-      "Time": "2022-09-10T01:30:55.4266989+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 832
-    },
-    {
-      "Time": "2022-09-10T12:30:46.7789207+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 838
-    },
-    {
-      "Time": "2022-09-10T13:30:53.262732+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 839
-    },
-    {
-      "Time": "2022-09-11T09:01:00.5716425+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 844
-    },
-    {
-      "Time": "2022-09-12T09:00:52.0492399+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 849
-    },
-    {
-      "Time": "2022-09-12T17:00:59.1415808+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 851
-    },
-    {
-      "Time": "2022-09-13T07:30:54.2059137+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 855
-    },
-    {
-      "Time": "2022-09-14T02:30:45.5020215+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 860
-    },
-    {
-      "Time": "2022-09-15T03:30:58.5233864+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 863
-    },
-    {
-      "Time": "2022-09-15T14:01:26.4371638+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 865
-    },
-    {
-      "Time": "2022-09-16T08:01:37.6365517+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 870
-    },
-    {
-      "Time": "2022-09-16T08:30:52.7614407+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 865
-    },
-    {
-      "Time": "2022-09-16T14:01:31.4534988+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 872
-    },
-    {
-      "Time": "2022-09-16T14:30:47.9240846+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 876
-    },
-    {
-      "Time": "2022-09-16T23:00:47.7691983+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 882
-    },
-    {
-      "Time": "2022-09-17T08:03:29.5019742+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": 889
-    },
-    {
-      "Time": "2022-09-17T14:31:19.7835442+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 896
-    },
-    {
-      "Time": "2022-09-18T10:00:50.8792568+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 914
-    },
-    {
-      "Time": "2022-09-18T18:00:55.1602396+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 928
-    },
-    {
-      "Time": "2022-09-19T06:00:49.6271772+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 934
-    },
-    {
-      "Time": "2022-09-19T08:30:53.4047879+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 937
-    },
-    {
-      "Time": "2022-09-19T19:31:07.1737345+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 960
-    },
-    {
-      "Time": "2022-09-19T22:00:59.3903821+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 962
-    },
-    {
-      "Time": "2022-09-20T10:01:19.5473428+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 971
-    },
-    {
-      "Time": "2022-09-21T01:00:53.3421666+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 990
-    },
-    {
-      "Time": "2022-09-21T05:30:53.2493224+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 993
-    },
-    {
-      "Time": "2022-09-21T10:01:01.4148599+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 997
-    },
-    {
-      "Time": "2022-09-22T02:30:47.4990408+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 1018
-    },
-    {
-      "Time": "2022-09-22T06:00:55.316224+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 1023
-    },
-    {
-      "Time": "2022-09-22T07:30:48.9927241+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 1025
-    },
-    {
-      "Time": "2022-09-22T17:01:28.2263139+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 1035
-    },
-    {
-      "Time": "2022-09-23T04:00:50.2376142+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": 1040
-    },
-    {
-      "Time": "2022-09-23T09:31:00.80345+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": 1047
-    },
-    {
-      "Time": "2022-09-24T13:06:20.9973747+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-09-29T07:00:53.9196235+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-09-30T07:01:24.7214879+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-10-01T12:30:55.4192489+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-10-02T04:01:06.1110518+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-10-04T06:00:49.4349996+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-10-05T13:00:56.2838467+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-10-09T23:31:46.3978775+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-10-13T14:02:00.2996372+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-10-14T14:01:53.8666297+00:00",
-      "Rating": 4.74
-    },
-    {
-      "Time": "2022-10-15T06:31:05.8329748+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-10-22T15:30:55.5455257+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-10-25T14:31:42.0944426+00:00",
-      "Rating": 4.73
-    },
-    {
-      "Time": "2022-10-26T16:31:59.692522+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-10-27T17:31:55.1800192+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-10-28T07:30:55.9223148+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-11-07T13:33:49.5093948+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-11-09T15:57:25.2027502+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-11-10T17:09:38.2480029+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-11-12T02:44:59.0696961+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-11-13T17:03:27.2059322+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-11-24T02:20:08.054452+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2022-11-24T06:57:31.9184069+00:00",
-      "Rating": 4.71
-    },
-    {
-      "Time": "2022-11-28T05:57:13.6454513+00:00",
-      "Rating": 4.72
-    },
-    {
-      "Time": "2023-04-01T09:57:27.1486266+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 576,
-      "NumberOfAwardsMax": 446
-    },
-    {
-      "Time": "2023-04-07T09:57:30.9105974+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 577,
-      "NumberOfAwardsMax": 446
-    },
-    {
-      "Time": "2023-04-07T10:57:07.4614383+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 578,
-      "NumberOfAwardsMax": 447
-    },
-    {
-      "Time": "2023-04-09T13:00:36.8313861+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 579,
-      "NumberOfAwardsMax": 447
-    },
-    {
-      "Time": "2023-04-09T13:57:47.6942842+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 580,
-      "NumberOfAwardsMax": 448
-    },
-    {
-      "Time": "2023-04-12T15:57:21.3746391+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 581,
-      "NumberOfAwardsMax": 449
-    },
-    {
-      "Time": "2023-04-15T04:57:20.263322+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 582,
-      "NumberOfAwardsMax": 450
-    },
-    {
-      "Time": "2023-04-21T11:57:06.3676992+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 583,
-      "NumberOfAwardsMax": 451
-    },
-    {
-      "Time": "2023-04-30T18:58:07.4287448+00:00",
-      "Rating": 4.72,
-      "NumberOfAwards": 586,
-      "NumberOfAwardsMax": 454
-    }
-  ],
-  "TotalAchievementsXP": 1195,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T16:07:36.5311128+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 743,
-  "EOS_Completed": 20,
-  "EOS_Progressed": 3957,
-  "LastUpdate_Achievements": "2023-05-05T16:07:36.5311581+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:44.2700425+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:24.234733+00:00",
+  "TotalAchievementsXP": 1195,
+  "Achievements": [
+    {
+      "ID": "AGrade",
+      "SetID": "2aljc8i",
+      "Name": "A Grade",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "AboutAdam",
+      "SetID": "6ce5bmd",
+      "Name": "About Adam",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 158
+    },
+    {
+      "ID": "ArtificialSelection",
+      "SetID": "6ce5bmd",
+      "Name": "Artificial selection",
+      "Percentage": 29,
+      "XP": 30,
+      "UsersEstimate": 1149
+    },
+    {
+      "ID": "BackToHell",
+      "SetID": "6ce5bmd",
+      "Name": "Back to hell",
+      "Percentage": 39,
+      "XP": 30,
+      "UsersEstimate": 1545
+    },
+    {
+      "ID": "CantRunCantHide",
+      "SetID": "6ce5bmd",
+      "Name": "Can\u0027t Run Can\u0027t Hide",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 792
+    },
+    {
+      "ID": "DeadInTheAir",
+      "SetID": "6ce5bmd",
+      "Name": "Dead in the air",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 674
+    },
+    {
+      "ID": "EveryoneNeedsAHobby",
+      "SetID": "2aljc8i",
+      "Name": "Everyone Needs A Hobby",
+      "Percentage": 0.7,
+      "XP": 30,
+      "UsersEstimate": 28
+    },
+    {
+      "ID": "FineAddition",
+      "SetID": "6ce5bmd",
+      "Name": "Fine addition",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 317
+    },
+    {
+      "ID": "FinishLine",
+      "SetID": "6ce5bmd",
+      "Name": "Finish line",
+      "Percentage": 27,
+      "XP": 60,
+      "UsersEstimate": 1070
+    },
+    {
+      "ID": "GRProjectComplete",
+      "SetID": "6ce5bmd",
+      "Name": "GR Project Complete",
+      "Percentage": 0.5,
+      "XP": 50,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "HitMeIfYouCan",
+      "SetID": "6ce5bmd",
+      "Name": "Hit me if you can",
+      "Percentage": 2,
+      "XP": 60,
+      "UsersEstimate": 79
+    },
+    {
+      "ID": "Homerunner",
+      "SetID": "6ce5bmd",
+      "Name": "Homerunner",
+      "Percentage": 47,
+      "XP": 15,
+      "UsersEstimate": 1862
+    },
+    {
+      "ID": "ICallItLuck",
+      "SetID": "6ce5bmd",
+      "Name": "I call it luck",
+      "Percentage": 46,
+      "XP": 30,
+      "UsersEstimate": 1823
+    },
+    {
+      "ID": "ImproviseAdaptOverrun",
+      "SetID": "6ce5bmd",
+      "Name": "Improvise, adapt, overrun",
+      "Percentage": 15,
+      "XP": 30,
+      "UsersEstimate": 594
+    },
+    {
+      "ID": "Junkrunner",
+      "SetID": "6ce5bmd",
+      "Name": "Junkrunner",
+      "Percentage": 3,
+      "XP": 60,
+      "UsersEstimate": 119
+    },
+    {
+      "ID": "JustAMan",
+      "SetID": "2aljc8i",
+      "Name": "Just A Man",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 158
+    },
+    {
+      "ID": "LegacyDrivers",
+      "SetID": "2aljc8i",
+      "Name": "Legacy Drivers",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "Longrunner",
+      "SetID": "6ce5bmd",
+      "Name": "Longrunner",
+      "Percentage": 79,
+      "XP": 15,
+      "UsersEstimate": 3130
+    },
+    {
+      "ID": "MoreThanHuman",
+      "SetID": "6ce5bmd",
+      "Name": "More than human",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 555
+    },
+    {
+      "ID": "Neuromancer",
+      "SetID": "6ce5bmd",
+      "Name": "Control freak",
+      "Percentage": 29,
+      "XP": 30,
+      "UsersEstimate": 1149
+    },
+    {
+      "ID": "ObedientMachine",
+      "SetID": "2aljc8i",
+      "Name": "Obedient Machine",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 40
+    },
+    {
+      "ID": "OneMansTrash",
+      "SetID": "6ce5bmd",
+      "Name": "One man\u0027s trash",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 119
+    },
+    {
+      "ID": "OneOfThoseDays",
+      "SetID": "2aljc8i",
+      "Name": "One Of Those Days",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 277
+    },
+    {
+      "ID": "OutOfOrder",
+      "SetID": "6ce5bmd",
+      "Name": "Out of order",
+      "Percentage": 47,
+      "XP": 30,
+      "UsersEstimate": 1862
+    },
+    {
+      "ID": "Perfection",
+      "SetID": "6ce5bmd",
+      "Name": "Perfection",
+      "Percentage": 34,
+      "XP": 30,
+      "UsersEstimate": 1347
+    },
+    {
+      "ID": "PreempativeStrike",
+      "SetID": "6ce5bmd",
+      "Name": "Pre-empative strike",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 594
+    },
+    {
+      "ID": "PushItToTheLimit",
+      "SetID": "6ce5bmd",
+      "Name": "Push it to the limit",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "RIsForRunning",
+      "SetID": "6ce5bmd",
+      "Name": "R is for Running",
+      "Percentage": 19,
+      "XP": 60,
+      "UsersEstimate": 753
+    },
+    {
+      "ID": "RunningOutOfBreath",
+      "SetID": "6ce5bmd",
+      "Name": "Running out of breath",
+      "Percentage": 56,
+      "XP": 30,
+      "UsersEstimate": 2219
+    },
+    {
+      "ID": "RunningWild",
+      "SetID": "6ce5bmd",
+      "Name": "Running Wild",
+      "Percentage": 30,
+      "XP": 30,
+      "UsersEstimate": 1189
+    },
+    {
+      "ID": "Scrapped",
+      "SetID": "2aljc8i",
+      "Name": "Scrapped",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 158
+    },
+    {
+      "ID": "SticksAndStones",
+      "SetID": "2aljc8i",
+      "Name": "Sticks And Stones",
+      "Percentage": 0.6,
+      "XP": 15,
+      "UsersEstimate": 24
+    },
+    {
+      "ID": "StrafingRun",
+      "SetID": "2aljc8i",
+      "Name": "Strafing Run",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 158
+    },
+    {
+      "ID": "Strike",
+      "SetID": "6ce5bmd",
+      "Name": "Strike",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 515
+    },
+    {
+      "ID": "SwordRunner",
+      "SetID": "6ce5bmd",
+      "Name": "Sword Runner",
+      "Percentage": 62,
+      "XP": 30,
+      "UsersEstimate": 2456
+    },
+    {
+      "ID": "SwordToAGunfight",
+      "SetID": "6ce5bmd",
+      "Name": "Sword to a gunfight",
+      "Percentage": 32,
+      "XP": 30,
+      "UsersEstimate": 1268
+    },
+    {
+      "ID": "TripleA",
+      "SetID": "6ce5bmd",
+      "Name": "Triple A",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 396
+    },
+    {
+      "ID": "UnstoppableForce",
+      "SetID": "6ce5bmd",
+      "Name": "Unstoppable force",
+      "Percentage": 24,
+      "XP": 30,
+      "UsersEstimate": 951
+    },
+    {
+      "ID": "UpCloseAndPersonal",
+      "SetID": "2aljc8i",
+      "Name": "Up Close And Personal",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "UpgradesNotMandatory",
+      "SetID": "6ce5bmd",
+      "Name": "Upgrades not mandatory",
+      "Percentage": 30,
+      "XP": 20,
+      "UsersEstimate": 1189
+    },
+    {
+      "ID": "Wallrunner",
+      "SetID": "6ce5bmd",
+      "Name": "Wallrunner",
+      "Percentage": 58,
+      "XP": 15,
+      "UsersEstimate": 2298
+    },
+    {
+      "ID": "WaveOfMutilation",
+      "SetID": "6ce5bmd",
+      "Name": "Wave of mutilation",
+      "Percentage": 23,
+      "XP": 30,
+      "UsersEstimate": 911
+    },
+    {
+      "ID": "WhereAreMyKeys",
+      "SetID": "6ce5bmd",
+      "Name": "Where are my Keys?",
+      "Percentage": 44,
+      "XP": 15,
+      "UsersEstimate": 1743
+    },
+    {
+      "ID": "WhereHeStood",
+      "SetID": "2aljc8i",
+      "Name": "Where He Stood",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "WhyNotBoth",
+      "SetID": "6ce5bmd",
+      "Name": "Why not both",
+      "Percentage": 32,
+      "XP": 30,
+      "UsersEstimate": 1268
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 3957,
+      "Progressed": 3962,
       "Completed": 12
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 3957,
+      "Progressed": 3962,
       "Completed": 20
     }
   ],
-  "EOS_Completed_Percentage": 0.51,
-  "LastChanged": "2023-04-30T18:58:07.4287445+00:00",
-  "ProductSlug": "ghostrunner",
-  "Rating": 4.72,
-  "Ranking_Rating": 166,
-  "Ranking_Popularity": 188,
-  "Ranking_PopularitySum": 280,
-  "Ranking_EOS_Progress": 126,
-  "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfRatings": 1047,
-  "NumberOfAwards": 586,
-  "NumberOfAwardsMax": 454,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
-  "Ranking_EOS_NewPlayers": 64
+  "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
+  "LastChanged": "2023-04-30T18:58:07.4287445+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:22.885786+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:15.2596411+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:18.6956128+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:22.8858339+00:00"
 }

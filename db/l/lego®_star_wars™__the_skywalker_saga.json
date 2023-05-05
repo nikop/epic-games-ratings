@@ -1,849 +1,16 @@
 {
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
-  "Achievements": [
-    {
-      "ID": "COLLECT_ALL_CHARACTERS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Hello there!\u0027\u0027",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COLLECT_ALL_KYBERBRICKS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
-      "Percentage": 3,
-      "XP": 75,
-      "UsersEstimate": 1194
-    },
-    {
-      "ID": "COLLECT_EVERY_DATACARD",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 1194
-    },
-    {
-      "ID": "COMBAT_MULTIPLIER_OF_30",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
-      "Percentage": 81,
-      "XP": 15,
-      "UsersEstimate": 32249
-    },
-    {
-      "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
-      "SetID": "3fcpmbm",
-      "Name": "Unknown Regions",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_ALL_GALAXY_CHALLENGES",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Do or do not. There is no try\u0027\u0027",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_ALL_GALAXY_EVENTS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027See you around, kid\u0027\u0027",
-      "Percentage": 2,
-      "XP": 100,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_ALL_GNK",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027GONK!\u0027\u0027",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 1194
-    },
-    {
-      "ID": "COMPLETE_ALL_HUB_RACES",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027The fastest hunk of junk in the galaxy\u0027\u0027",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_BESPIN_CRAIT_HOTH",
-      "SetID": "3fcpmbm",
-      "Name": "Greater Javin",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_CANTONICA_YAVIN_AJAN",
-      "SetID": "3fcpmbm",
-      "Name": "New Territories",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_CORUSCANT_JAKKU_TAKODANA",
-      "SetID": "3fcpmbm",
-      "Name": "The Interior",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_DAGOBAH_MUSTAFAR_UTAPAU",
-      "SetID": "3fcpmbm",
-      "Name": "Western Reaches",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_DQAR_NABOO_PASAANA",
-      "SetID": "3fcpmbm",
-      "Name": "Trailing Sectors",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_EPISODE_1",
-      "SetID": "3fcpmbm",
-      "Name": "The Phantom Menace",
-      "Percentage": 60,
-      "XP": 20,
-      "UsersEstimate": 23888
-    },
-    {
-      "ID": "COMPLETE_EPISODE_2",
-      "SetID": "3fcpmbm",
-      "Name": "Attack of the Clones",
-      "Percentage": 48,
-      "XP": 20,
-      "UsersEstimate": 19110
-    },
-    {
-      "ID": "COMPLETE_EPISODE_3",
-      "SetID": "3fcpmbm",
-      "Name": "Revenge of the Sith",
-      "Percentage": 42,
-      "XP": 20,
-      "UsersEstimate": 16721
-    },
-    {
-      "ID": "COMPLETE_EPISODE_4",
-      "SetID": "3fcpmbm",
-      "Name": "A New Hope",
-      "Percentage": 49,
-      "XP": 20,
-      "UsersEstimate": 19508
-    },
-    {
-      "ID": "COMPLETE_EPISODE_5",
-      "SetID": "3fcpmbm",
-      "Name": "The Empire Strikes Back",
-      "Percentage": 39,
-      "XP": 20,
-      "UsersEstimate": 15527
-    },
-    {
-      "ID": "COMPLETE_EPISODE_6",
-      "SetID": "3fcpmbm",
-      "Name": "Return of the Jedi",
-      "Percentage": 33,
-      "XP": 20,
-      "UsersEstimate": 13138
-    },
-    {
-      "ID": "COMPLETE_EPISODE_7",
-      "SetID": "3fcpmbm",
-      "Name": "The Force Awakens",
-      "Percentage": 28,
-      "XP": 20,
-      "UsersEstimate": 11148
-    },
-    {
-      "ID": "COMPLETE_EPISODE_8",
-      "SetID": "3fcpmbm",
-      "Name": "The Last Jedi",
-      "Percentage": 24,
-      "XP": 20,
-      "UsersEstimate": 9555
-    },
-    {
-      "ID": "COMPLETE_EPISODE_9",
-      "SetID": "3fcpmbm",
-      "Name": "The Rise of Skywalker",
-      "Percentage": 21,
-      "XP": 20,
-      "UsersEstimate": 8361
-    },
-    {
-      "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 1194
-    },
-    {
-      "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027I can fly anything\u0027\u0027",
-      "Percentage": 60,
-      "XP": 20,
-      "UsersEstimate": 23888
-    },
-    {
-      "ID": "COMPLETE_GEONOSIS_TATOOINE",
-      "SetID": "3fcpmbm",
-      "Name": "The Arkanis Sector",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "COMPLETE_KAMINO",
-      "SetID": "3fcpmbm",
-      "Name": "Rishi Maze",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 1991
-    },
-    {
-      "ID": "COMPLETE_KASHYYYK_KIJIMI",
-      "SetID": "3fcpmbm",
-      "Name": "The Slice",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 1194
-    },
-    {
-      "ID": "COMPLETE_SKYWALKER_SAGA",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
-      "Percentage": 20,
-      "XP": 100,
-      "UsersEstimate": 7963
-    },
-    {
-      "ID": "CREATE_25_REBEL_DISGUISES",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027A little short for a Stormtrooper...\u0027\u0027",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "DEFEAT_3_ENEMIES_WITH_ONE_FORCE",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
-      "Percentage": 60,
-      "XP": 15,
-      "UsersEstimate": 23888
-    },
-    {
-      "ID": "DESTROY_100_TIE_FIGHTERS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
-      "Percentage": 19,
-      "XP": 20,
-      "UsersEstimate": 7564
-    },
-    {
-      "ID": "EARN_10B_STUDS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
-      "Percentage": 5,
-      "XP": 40,
-      "UsersEstimate": 1991
-    },
-    {
-      "ID": "EARN_17K_STUDS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
-      "Percentage": 97,
-      "XP": 10,
-      "UsersEstimate": 38619
-    },
-    {
-      "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Power! Unlimited power!\u0027\u0027",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "FULLY_UPGRADE_ONE_CHAR_CLASS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 3185
-    },
-    {
-      "ID": "JEDI_MIND_TRICKS_CANTINA",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Jedi Business\u0027\u0027",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 398
-    },
-    {
-      "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 398
-    },
-    {
-      "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
-      "Percentage": 73,
-      "XP": 10,
-      "UsersEstimate": 29063
-    },
-    {
-      "ID": "MINIKITS_ALL_LEVELS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027You needn\u0027t worry about your reward\u0027\u0027",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 398
-    },
-    {
-      "ID": "MINIKITS_ONE_LEVEL",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
-      "Percentage": 38,
-      "XP": 10,
-      "UsersEstimate": 15129
-    },
-    {
-      "ID": "RIDE_ALL_CREATURES",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027I\u0027ve never seen a real one!\u0027\u0027",
-      "Percentage": 0.9,
-      "XP": 15,
-      "UsersEstimate": 358
-    },
-    {
-      "ID": "SHOOT_50_ENEMIES_HATS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
-      "Percentage": 55,
-      "XP": 10,
-      "UsersEstimate": 21897
-    },
-    {
-      "ID": "TRUE_JEDI_ALL_LEVELS",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027Now I am the Master\u0027\u0027",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 796
-    },
-    {
-      "ID": "TRUE_JEDI_ONE_LEVEL",
-      "SetID": "3fcpmbm",
-      "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
-      "Percentage": 73,
-      "XP": 10,
-      "UsersEstimate": 29063
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 2235
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 451
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 462
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 465
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 450
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 473
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 341
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 430
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 440
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 434
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 426
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 307
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:08:43.3939238+00:00",
-      "NumProgressed": 39116,
-      "NumCompleted": 159
-    },
-    {
-      "Time": "2023-04-25T17:56:52.9582412+00:00",
-      "NumProgressed": 39117,
-      "NumCompleted": 159
-    },
-    {
-      "Time": "2023-04-25T18:56:50.2084063+00:00",
-      "NumProgressed": 39118,
-      "NumCompleted": 159
-    },
-    {
-      "Time": "2023-04-26T07:11:36.1603288+00:00",
-      "NumProgressed": 39119,
-      "NumCompleted": 159
-    },
-    {
-      "Time": "2023-04-26T15:05:41.319081+00:00",
-      "NumProgressed": 39120,
-      "NumCompleted": 159
-    },
-    {
-      "Time": "2023-04-26T18:06:27.8070006+00:00",
-      "NumProgressed": 39121,
-      "NumCompleted": 159
-    },
-    {
-      "Time": "2023-04-26T20:05:09.9026505+00:00",
-      "NumProgressed": 39121,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-26T22:05:17.9265917+00:00",
-      "NumProgressed": 39122,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-26T23:05:53.0090612+00:00",
-      "NumProgressed": 39123,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-27T05:05:05.4748307+00:00",
-      "NumProgressed": 39124,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-27T08:05:17.309426+00:00",
-      "NumProgressed": 39125,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-27T13:11:23.2211374+00:00",
-      "NumProgressed": 39126,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-27T18:06:04.9756432+00:00",
-      "NumProgressed": 39128,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-27T19:05:58.5932297+00:00",
-      "NumProgressed": 39129,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-28T00:05:13.5703961+00:00",
-      "NumProgressed": 39131,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-28T02:07:10.8038919+00:00",
-      "NumProgressed": 39132,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-28T16:05:16.6238263+00:00",
-      "NumProgressed": 39133,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-28T18:06:01.9992269+00:00",
-      "NumProgressed": 39134,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T06:05:15.6011334+00:00",
-      "NumProgressed": 39135,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T08:04:56.5634379+00:00",
-      "NumProgressed": 39136,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T09:05:18.522551+00:00",
-      "NumProgressed": 39138,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T13:07:58.3604129+00:00",
-      "NumProgressed": 39140,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T14:06:37.5880977+00:00",
-      "NumProgressed": 39141,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T15:05:42.3370648+00:00",
-      "NumProgressed": 39142,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T17:05:13.4318065+00:00",
-      "NumProgressed": 39143,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T20:04:52.9678016+00:00",
-      "NumProgressed": 39145,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-29T23:05:24.8180232+00:00",
-      "NumProgressed": 39146,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-30T03:05:12.4404803+00:00",
-      "NumProgressed": 39147,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-30T15:06:01.7850534+00:00",
-      "NumProgressed": 39148,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-30T16:05:51.8566363+00:00",
-      "NumProgressed": 39149,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-30T21:05:50.8148952+00:00",
-      "NumProgressed": 39151,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-04-30T23:05:24.4742078+00:00",
-      "NumProgressed": 39152,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-01T00:06:18.3030941+00:00",
-      "NumProgressed": 39153,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-01T10:05:45.6090369+00:00",
-      "NumProgressed": 39154,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-01T13:11:04.2218422+00:00",
-      "NumProgressed": 39155,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-01T16:06:03.3908871+00:00",
-      "NumProgressed": 39156,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-01T21:06:11.9149179+00:00",
-      "NumProgressed": 39157,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-02T06:05:32.0374154+00:00",
-      "NumProgressed": 39158,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-02T11:06:38.4063553+00:00",
-      "NumProgressed": 39159,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-02T13:12:15.0602815+00:00",
-      "NumProgressed": 39160,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-02T15:05:14.3601653+00:00",
-      "NumProgressed": 39161,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-02T18:06:32.7085544+00:00",
-      "NumProgressed": 39162,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-02T20:05:15.6505972+00:00",
-      "NumProgressed": 39164,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-03T00:05:47.6206782+00:00",
-      "NumProgressed": 39165,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-03T06:06:02.1954434+00:00",
-      "NumProgressed": 39167,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-03T09:06:26.3382875+00:00",
-      "NumProgressed": 39168,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-03T18:05:46.6931401+00:00",
-      "NumProgressed": 39169,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-03T19:05:10.2665041+00:00",
-      "NumProgressed": 39170,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-03T21:05:12.6195115+00:00",
-      "NumProgressed": 39171,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T05:06:07.1071977+00:00",
-      "NumProgressed": 39172,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T08:06:40.431485+00:00",
-      "NumProgressed": 39173,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T17:06:08.0907274+00:00",
-      "NumProgressed": 39188,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T18:05:52.557614+00:00",
-      "NumProgressed": 39211,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T19:05:30.4376497+00:00",
-      "NumProgressed": 39232,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T19:20:21.4138614+00:00",
-      "NumProgressed": 39242,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T19:40:19.6968198+00:00",
-      "NumProgressed": 39256,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T20:06:15.0959992+00:00",
-      "NumProgressed": 39274,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T21:06:15.7758947+00:00",
-      "NumProgressed": 39311,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T22:07:05.8092962+00:00",
-      "NumProgressed": 39351,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T22:25:02.5072918+00:00",
-      "NumProgressed": 39362,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T22:39:52.1983209+00:00",
-      "NumProgressed": 39369,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-04T23:05:10.9097551+00:00",
-      "NumProgressed": 39377,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T00:05:34.626093+00:00",
-      "NumProgressed": 39410,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T01:59:09.3516905+00:00",
-      "NumProgressed": 39473,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T02:32:34.7237826+00:00",
-      "NumProgressed": 39485,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T03:05:52.8130156+00:00",
-      "NumProgressed": 39498,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T04:06:48.3226986+00:00",
-      "NumProgressed": 39523,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T05:05:26.280354+00:00",
-      "NumProgressed": 39543,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T06:05:58.4640781+00:00",
-      "NumProgressed": 39558,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T07:05:56.7298373+00:00",
-      "NumProgressed": 39573,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T08:06:14.58575+00:00",
-      "NumProgressed": 39589,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T09:06:21.3325634+00:00",
-      "NumProgressed": 39606,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T10:05:18.1902601+00:00",
-      "NumProgressed": 39621,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T11:06:04.291069+00:00",
-      "NumProgressed": 39640,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T12:06:13.8024746+00:00",
-      "NumProgressed": 39669,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T13:11:17.8845544+00:00",
-      "NumProgressed": 39699,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T13:42:25.0971575+00:00",
-      "NumProgressed": 39721,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T14:05:20.6065758+00:00",
-      "NumProgressed": 39730,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T15:05:29.0689315+00:00",
-      "NumProgressed": 39764,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T15:43:04.3594159+00:00",
-      "NumProgressed": 39790,
-      "NumCompleted": 160
-    },
-    {
-      "Time": "2023-05-05T16:08:21.4887537+00:00",
-      "NumProgressed": 39813,
-      "NumCompleted": 160
-    }
-  ],
+  "ProductSlug": "lego-star-wars-the-skywalker-saga",
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 97,
+  "Ranking_PopularitySum": 111,
+  "Ranking_EOS_Progress": 78,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.79,
+  "NumberOfRatings": 2536,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:57.6637815+00:00",
@@ -2699,41 +1866,886 @@
       "Rating": 4.79,
       "NumberOfAwards": 6266,
       "NumberOfAwardsMax": 2235
+    },
+    {
+      "Time": "2023-05-05T17:04:27.7022259+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6267,
+      "NumberOfAwardsMax": 2235
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T16:08:21.4887532+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 680,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 6267,
+  "NumberOfAwardsMax": 2235,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 2235
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 451
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 463
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 465
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 450
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 473
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 341
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 430
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 440
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 434
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 426
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "",
+      "Type": "",
+      "Count": 307
+    }
+  ],
+  "EOS_Progressed": 39864,
   "EOS_Completed": 160,
-  "EOS_Progressed": 39813,
-  "LastUpdate_Achievements": "2023-05-05T16:08:21.4887976+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:58.0241041+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:35.3299184+00:00",
+  "EOS_NewPlayers": 731,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.4,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:43.3939238+00:00",
+      "NumProgressed": 39116,
+      "NumCompleted": 159
+    },
+    {
+      "Time": "2023-04-25T17:56:52.9582412+00:00",
+      "NumProgressed": 39117,
+      "NumCompleted": 159
+    },
+    {
+      "Time": "2023-04-25T18:56:50.2084063+00:00",
+      "NumProgressed": 39118,
+      "NumCompleted": 159
+    },
+    {
+      "Time": "2023-04-26T07:11:36.1603288+00:00",
+      "NumProgressed": 39119,
+      "NumCompleted": 159
+    },
+    {
+      "Time": "2023-04-26T15:05:41.319081+00:00",
+      "NumProgressed": 39120,
+      "NumCompleted": 159
+    },
+    {
+      "Time": "2023-04-26T18:06:27.8070006+00:00",
+      "NumProgressed": 39121,
+      "NumCompleted": 159
+    },
+    {
+      "Time": "2023-04-26T20:05:09.9026505+00:00",
+      "NumProgressed": 39121,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-26T22:05:17.9265917+00:00",
+      "NumProgressed": 39122,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-26T23:05:53.0090612+00:00",
+      "NumProgressed": 39123,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-27T05:05:05.4748307+00:00",
+      "NumProgressed": 39124,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-27T08:05:17.309426+00:00",
+      "NumProgressed": 39125,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-27T13:11:23.2211374+00:00",
+      "NumProgressed": 39126,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-27T18:06:04.9756432+00:00",
+      "NumProgressed": 39128,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-27T19:05:58.5932297+00:00",
+      "NumProgressed": 39129,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-28T00:05:13.5703961+00:00",
+      "NumProgressed": 39131,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-28T02:07:10.8038919+00:00",
+      "NumProgressed": 39132,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-28T16:05:16.6238263+00:00",
+      "NumProgressed": 39133,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-28T18:06:01.9992269+00:00",
+      "NumProgressed": 39134,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T06:05:15.6011334+00:00",
+      "NumProgressed": 39135,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T08:04:56.5634379+00:00",
+      "NumProgressed": 39136,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T09:05:18.522551+00:00",
+      "NumProgressed": 39138,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T13:07:58.3604129+00:00",
+      "NumProgressed": 39140,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T14:06:37.5880977+00:00",
+      "NumProgressed": 39141,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T15:05:42.3370648+00:00",
+      "NumProgressed": 39142,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T17:05:13.4318065+00:00",
+      "NumProgressed": 39143,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T20:04:52.9678016+00:00",
+      "NumProgressed": 39145,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-29T23:05:24.8180232+00:00",
+      "NumProgressed": 39146,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-30T03:05:12.4404803+00:00",
+      "NumProgressed": 39147,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-30T15:06:01.7850534+00:00",
+      "NumProgressed": 39148,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-30T16:05:51.8566363+00:00",
+      "NumProgressed": 39149,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-30T21:05:50.8148952+00:00",
+      "NumProgressed": 39151,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-04-30T23:05:24.4742078+00:00",
+      "NumProgressed": 39152,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-01T00:06:18.3030941+00:00",
+      "NumProgressed": 39153,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-01T10:05:45.6090369+00:00",
+      "NumProgressed": 39154,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-01T13:11:04.2218422+00:00",
+      "NumProgressed": 39155,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-01T16:06:03.3908871+00:00",
+      "NumProgressed": 39156,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-01T21:06:11.9149179+00:00",
+      "NumProgressed": 39157,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-02T06:05:32.0374154+00:00",
+      "NumProgressed": 39158,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-02T11:06:38.4063553+00:00",
+      "NumProgressed": 39159,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-02T13:12:15.0602815+00:00",
+      "NumProgressed": 39160,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-02T15:05:14.3601653+00:00",
+      "NumProgressed": 39161,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-02T18:06:32.7085544+00:00",
+      "NumProgressed": 39162,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-02T20:05:15.6505972+00:00",
+      "NumProgressed": 39164,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-03T00:05:47.6206782+00:00",
+      "NumProgressed": 39165,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-03T06:06:02.1954434+00:00",
+      "NumProgressed": 39167,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-03T09:06:26.3382875+00:00",
+      "NumProgressed": 39168,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-03T18:05:46.6931401+00:00",
+      "NumProgressed": 39169,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-03T19:05:10.2665041+00:00",
+      "NumProgressed": 39170,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-03T21:05:12.6195115+00:00",
+      "NumProgressed": 39171,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T05:06:07.1071977+00:00",
+      "NumProgressed": 39172,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T08:06:40.431485+00:00",
+      "NumProgressed": 39173,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T17:06:08.0907274+00:00",
+      "NumProgressed": 39188,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T18:05:52.557614+00:00",
+      "NumProgressed": 39211,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T19:05:30.4376497+00:00",
+      "NumProgressed": 39232,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T19:20:21.4138614+00:00",
+      "NumProgressed": 39242,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T19:40:19.6968198+00:00",
+      "NumProgressed": 39256,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T20:06:15.0959992+00:00",
+      "NumProgressed": 39274,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T21:06:15.7758947+00:00",
+      "NumProgressed": 39311,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T22:07:05.8092962+00:00",
+      "NumProgressed": 39351,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T22:25:02.5072918+00:00",
+      "NumProgressed": 39362,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T22:39:52.1983209+00:00",
+      "NumProgressed": 39369,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-04T23:05:10.9097551+00:00",
+      "NumProgressed": 39377,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T00:05:34.626093+00:00",
+      "NumProgressed": 39410,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T01:59:09.3516905+00:00",
+      "NumProgressed": 39473,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T02:32:34.7237826+00:00",
+      "NumProgressed": 39485,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T03:05:52.8130156+00:00",
+      "NumProgressed": 39498,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T04:06:48.3226986+00:00",
+      "NumProgressed": 39523,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T05:05:26.280354+00:00",
+      "NumProgressed": 39543,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T06:05:58.4640781+00:00",
+      "NumProgressed": 39558,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T07:05:56.7298373+00:00",
+      "NumProgressed": 39573,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T08:06:14.58575+00:00",
+      "NumProgressed": 39589,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T09:06:21.3325634+00:00",
+      "NumProgressed": 39606,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T10:05:18.1902601+00:00",
+      "NumProgressed": 39621,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T11:06:04.291069+00:00",
+      "NumProgressed": 39640,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T12:06:13.8024746+00:00",
+      "NumProgressed": 39669,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T13:11:17.8845544+00:00",
+      "NumProgressed": 39699,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T13:42:25.0971575+00:00",
+      "NumProgressed": 39721,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T14:05:20.6065758+00:00",
+      "NumProgressed": 39730,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T15:05:29.0689315+00:00",
+      "NumProgressed": 39764,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T15:43:04.3594159+00:00",
+      "NumProgressed": 39790,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T16:08:21.4887537+00:00",
+      "NumProgressed": 39813,
+      "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-05T17:09:56.3331059+00:00",
+      "NumProgressed": 39864,
+      "NumCompleted": 160
+    }
+  ],
+  "TotalAchievements": 45,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "COLLECT_ALL_CHARACTERS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Hello there!\u0027\u0027",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COLLECT_ALL_KYBERBRICKS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
+      "Percentage": 3,
+      "XP": 75,
+      "UsersEstimate": 1196
+    },
+    {
+      "ID": "COLLECT_EVERY_DATACARD",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 1196
+    },
+    {
+      "ID": "COMBAT_MULTIPLIER_OF_30",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
+      "Percentage": 81,
+      "XP": 15,
+      "UsersEstimate": 32290
+    },
+    {
+      "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
+      "SetID": "3fcpmbm",
+      "Name": "Unknown Regions",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_ALL_GALAXY_CHALLENGES",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Do or do not. There is no try\u0027\u0027",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_ALL_GALAXY_EVENTS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027See you around, kid\u0027\u0027",
+      "Percentage": 2,
+      "XP": 100,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_ALL_GNK",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027GONK!\u0027\u0027",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 1196
+    },
+    {
+      "ID": "COMPLETE_ALL_HUB_RACES",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027The fastest hunk of junk in the galaxy\u0027\u0027",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_BESPIN_CRAIT_HOTH",
+      "SetID": "3fcpmbm",
+      "Name": "Greater Javin",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_CANTONICA_YAVIN_AJAN",
+      "SetID": "3fcpmbm",
+      "Name": "New Territories",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_CORUSCANT_JAKKU_TAKODANA",
+      "SetID": "3fcpmbm",
+      "Name": "The Interior",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_DAGOBAH_MUSTAFAR_UTAPAU",
+      "SetID": "3fcpmbm",
+      "Name": "Western Reaches",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_DQAR_NABOO_PASAANA",
+      "SetID": "3fcpmbm",
+      "Name": "Trailing Sectors",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_EPISODE_1",
+      "SetID": "3fcpmbm",
+      "Name": "The Phantom Menace",
+      "Percentage": 60,
+      "XP": 20,
+      "UsersEstimate": 23918
+    },
+    {
+      "ID": "COMPLETE_EPISODE_2",
+      "SetID": "3fcpmbm",
+      "Name": "Attack of the Clones",
+      "Percentage": 48,
+      "XP": 20,
+      "UsersEstimate": 19135
+    },
+    {
+      "ID": "COMPLETE_EPISODE_3",
+      "SetID": "3fcpmbm",
+      "Name": "Revenge of the Sith",
+      "Percentage": 42,
+      "XP": 20,
+      "UsersEstimate": 16743
+    },
+    {
+      "ID": "COMPLETE_EPISODE_4",
+      "SetID": "3fcpmbm",
+      "Name": "A New Hope",
+      "Percentage": 49,
+      "XP": 20,
+      "UsersEstimate": 19533
+    },
+    {
+      "ID": "COMPLETE_EPISODE_5",
+      "SetID": "3fcpmbm",
+      "Name": "The Empire Strikes Back",
+      "Percentage": 39,
+      "XP": 20,
+      "UsersEstimate": 15547
+    },
+    {
+      "ID": "COMPLETE_EPISODE_6",
+      "SetID": "3fcpmbm",
+      "Name": "Return of the Jedi",
+      "Percentage": 33,
+      "XP": 20,
+      "UsersEstimate": 13155
+    },
+    {
+      "ID": "COMPLETE_EPISODE_7",
+      "SetID": "3fcpmbm",
+      "Name": "The Force Awakens",
+      "Percentage": 28,
+      "XP": 20,
+      "UsersEstimate": 11162
+    },
+    {
+      "ID": "COMPLETE_EPISODE_8",
+      "SetID": "3fcpmbm",
+      "Name": "The Last Jedi",
+      "Percentage": 24,
+      "XP": 20,
+      "UsersEstimate": 9567
+    },
+    {
+      "ID": "COMPLETE_EPISODE_9",
+      "SetID": "3fcpmbm",
+      "Name": "The Rise of Skywalker",
+      "Percentage": 21,
+      "XP": 20,
+      "UsersEstimate": 8371
+    },
+    {
+      "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 1196
+    },
+    {
+      "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027I can fly anything\u0027\u0027",
+      "Percentage": 60,
+      "XP": 20,
+      "UsersEstimate": 23918
+    },
+    {
+      "ID": "COMPLETE_GEONOSIS_TATOOINE",
+      "SetID": "3fcpmbm",
+      "Name": "The Arkanis Sector",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "COMPLETE_KAMINO",
+      "SetID": "3fcpmbm",
+      "Name": "Rishi Maze",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 1993
+    },
+    {
+      "ID": "COMPLETE_KASHYYYK_KIJIMI",
+      "SetID": "3fcpmbm",
+      "Name": "The Slice",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 1196
+    },
+    {
+      "ID": "COMPLETE_SKYWALKER_SAGA",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
+      "Percentage": 20,
+      "XP": 100,
+      "UsersEstimate": 7973
+    },
+    {
+      "ID": "CREATE_25_REBEL_DISGUISES",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027A little short for a Stormtrooper...\u0027\u0027",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "DEFEAT_3_ENEMIES_WITH_ONE_FORCE",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
+      "Percentage": 60,
+      "XP": 15,
+      "UsersEstimate": 23918
+    },
+    {
+      "ID": "DESTROY_100_TIE_FIGHTERS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
+      "Percentage": 19,
+      "XP": 20,
+      "UsersEstimate": 7574
+    },
+    {
+      "ID": "EARN_10B_STUDS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
+      "Percentage": 5,
+      "XP": 40,
+      "UsersEstimate": 1993
+    },
+    {
+      "ID": "EARN_17K_STUDS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
+      "Percentage": 97,
+      "XP": 10,
+      "UsersEstimate": 38668
+    },
+    {
+      "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Power! Unlimited power!\u0027\u0027",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "FULLY_UPGRADE_ONE_CHAR_CLASS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 3189
+    },
+    {
+      "ID": "JEDI_MIND_TRICKS_CANTINA",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Jedi Business\u0027\u0027",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 399
+    },
+    {
+      "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 399
+    },
+    {
+      "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
+      "Percentage": 73,
+      "XP": 10,
+      "UsersEstimate": 29101
+    },
+    {
+      "ID": "MINIKITS_ALL_LEVELS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027You needn\u0027t worry about your reward\u0027\u0027",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 399
+    },
+    {
+      "ID": "MINIKITS_ONE_LEVEL",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
+      "Percentage": 38,
+      "XP": 10,
+      "UsersEstimate": 15148
+    },
+    {
+      "ID": "RIDE_ALL_CREATURES",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027I\u0027ve never seen a real one!\u0027\u0027",
+      "Percentage": 0.9,
+      "XP": 15,
+      "UsersEstimate": 359
+    },
+    {
+      "ID": "SHOOT_50_ENEMIES_HATS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
+      "Percentage": 55,
+      "XP": 10,
+      "UsersEstimate": 21925
+    },
+    {
+      "ID": "TRUE_JEDI_ALL_LEVELS",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027Now I am the Master\u0027\u0027",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 797
+    },
+    {
+      "ID": "TRUE_JEDI_ONE_LEVEL",
+      "SetID": "3fcpmbm",
+      "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
+      "Percentage": 73,
+      "XP": 10,
+      "UsersEstimate": 29101
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 39813,
+      "Progressed": 39864,
       "Completed": 160
     }
   ],
-  "EOS_Completed_Percentage": 0.4,
-  "LastChanged": "2023-05-04T21:00:33.0303746+00:00",
-  "ProductSlug": "lego-star-wars-the-skywalker-saga",
-  "Rating": 4.79,
-  "Ranking_Rating": 91,
-  "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 111,
-  "Ranking_EOS_Progress": 78,
-  "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 2536,
-  "NumberOfAwards": 6266,
-  "NumberOfAwardsMax": 2235,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
-  "Ranking_EOS_NewPlayers": 66
+  "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
+  "LastChanged": "2023-05-05T17:04:27.7022257+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:56.3331056+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:35.5239386+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:27.7022262+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:56.3331458+00:00"
 }

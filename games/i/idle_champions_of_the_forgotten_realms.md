@@ -24,6 +24,7 @@ Diff (max vs sum): 25
 | Get Back In The Castle | 0.30% | ~158 |
 | A Persistent Buzzing | 0.30% | ~260 |
 | Terror in the Dark | 0.30% | ~260 |
+| The Crumbling Temple | 0.30% | ~260 |
 | Seeking Allies | 0.30% | ~260 |
 | Are Ya Chicken? | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
@@ -52,7 +53,6 @@ Diff (max vs sum): 25
 | The Botched Kidnapping | 0.20% | ~173 |
 | Trollskull Manor | 0.20% | ~173 |
 | Attack on the Manor | 0.20% | ~173 |
-| The Crumbling Temple | 0.20% | ~173 |
 | The Death Curse | 0.20% | ~173 |
 | Useless Allies | 0.20% | ~173 |
 | Premature Betrayal | 0.20% | ~173 |
@@ -500,7 +500,7 @@ Diff (max vs sum): 25
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,541 (Ranked 59)  
+Progressed: 86,546 (Ranked 59)  
 Completed: 1,806 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,806 (2.09%) (Ranked 55)
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
-| 2023-05-05 | 86,541 | 1,806 |
+| 2023-05-05 | 86,546 | 1,806 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

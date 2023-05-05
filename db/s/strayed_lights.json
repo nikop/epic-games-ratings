@@ -1,9 +1,11 @@
 {
   "ID": "f830aef7a6b64e5db95147859536d0b4",
   "Name": "Strayed Lights",
-  "Achievements": [],
-  "Tags": [],
-  "EosHistory": [],
+  "ProductSlug": "strayed-lights-351d29",
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
   "RatingHistory": [
     {
       "Time": "2023-04-28T02:01:57.5680416+00:00",
@@ -12,16 +14,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:08:19.4855002+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:08:19.4855022+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:59.7432861+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:36.7849266+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "7d42fd",
@@ -30,16 +35,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-28T02:01:57.5680413+00:00",
-  "FirstSeenRating": "2023-04-28T02:01:57.5680412+00:00",
-  "ProductSlug": "strayed-lights-351d29",
-  "Ranking_EOS_Progress": 379,
-  "FirstSeenAchievements": "2023-04-25T20:54:04.1867001+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-28T02:01:57.5680367+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-28T02:01:57.5680412+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:54:04.1867001+00:00",
+  "LastChanged": "2023-04-28T02:01:57.5680413+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:54.8386493+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:36.8652734+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:28.7875728+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:54.8386533+00:00"
 }

@@ -1,22 +1,16 @@
 {
   "ID": "91b9a3ac7cda40718addd961fddfadca",
   "Name": "Vampire: The Masquerade \u2013 Swansong",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "In this game, your choices Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Impact the Story",
-      "Count": 77
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:14.6927197+00:00",
-      "NumProgressed": 12,
-      "NumCompleted": 0
-    }
-  ],
+  "ProductSlug": "vampire-the-masquerade-swansong",
+  "Ranking_Rating": 802,
+  "Ranking_Popularity": 347,
+  "Ranking_PopularitySum": 406,
+  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.2,
+  "NumberOfRatings": 736,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.8410906+00:00",
@@ -439,16 +433,33 @@
       "NumberOfAwardsMax": 77
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "LastChanged_Achievements": "2023-05-05T16:07:54.1068937+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 77,
+  "NumberOfAwardsMax": 77,
+  "MaxAwardTitle": "Impact the Story",
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 77
+    }
+  ],
   "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T16:07:54.1068983+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:28.1941488+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:34.4654025+00:00",
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:14.6927197+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
   "AchievementSets": [
     {
       "ID": "78hffc5",
@@ -457,21 +468,11 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-05T16:57:16.3742728+00:00",
-  "ProductSlug": "vampire-the-masquerade-swansong",
-  "Rating": 4.2,
-  "Ranking_Rating": 802,
-  "Ranking_Popularity": 347,
-  "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 301,
-  "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 736,
-  "NumberOfAwards": 77,
-  "NumberOfAwardsMax": 77,
-  "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00",
+  "LastChanged": "2023-04-05T16:57:16.3742728+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:36.2084024+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:29.9434623+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:28.08334+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:36.2084071+00:00"
 }

@@ -1,289 +1,276 @@
 {
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
-  "Achievements": [
+  "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
+  "Ranking_Rating": 395,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 109,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 42,
+  "Rating": 4.59,
+  "RatingHistory": [
     {
-      "ID": "ACH01",
-      "SetID": "4ck5mbe",
-      "Name": "Getting Started",
-      "Percentage": 80,
-      "XP": 10,
-      "UsersEstimate": 5990
+      "Time": "2023-02-21T07:58:25.3551608+00:00",
+      "Rating": 4.45
     },
     {
-      "ID": "ACH02",
-      "SetID": "4ck5mbe",
-      "Name": "With Extra Dip",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 449
+      "Time": "2023-02-21T13:14:34.6363422+00:00",
+      "Rating": 4.48
     },
     {
-      "ID": "ACH03",
-      "SetID": "4ck5mbe",
-      "Name": "The End of the Line",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 374
+      "Time": "2023-02-21T16:57:52.4261208+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ACH04",
-      "SetID": "4ck5mbe",
-      "Name": "Hoopin\u0027 it Up",
-      "Percentage": 0.6,
-      "XP": 15,
-      "UsersEstimate": 45
+      "Time": "2023-02-22T16:58:16.5898359+00:00",
+      "Rating": 4.54
     },
     {
-      "ID": "ACH05",
-      "SetID": "4ck5mbe",
-      "Name": "A Legitimate Business",
-      "Percentage": 1,
-      "XP": 40,
-      "UsersEstimate": 75
+      "Time": "2023-02-22T23:58:06.3711347+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ACH06",
-      "SetID": "4ck5mbe",
-      "Name": "I\u2019ll Have Two Number 9s",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 150
+      "Time": "2023-02-23T23:58:17.8900535+00:00",
+      "Rating": 4.56
     },
     {
-      "ID": "ACH07",
-      "SetID": "4ck5mbe",
-      "Name": "The American Dream",
-      "Percentage": 16,
-      "XP": 15,
-      "UsersEstimate": 1198
+      "Time": "2023-02-24T23:58:13.5591591+00:00",
+      "Rating": 4.54
     },
     {
-      "ID": "ACH08",
-      "SetID": "4ck5mbe",
-      "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 47,
-      "XP": 15,
-      "UsersEstimate": 3519
+      "Time": "2023-02-26T04:58:03.6536445+00:00",
+      "Rating": 4.46
     },
     {
-      "ID": "ACH09",
-      "SetID": "4ck5mbe",
-      "Name": "Bike or Biker",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 150
+      "Time": "2023-02-26T13:11:32.9542334+00:00",
+      "Rating": 4.47
     },
     {
-      "ID": "ACH10",
-      "SetID": "4ck5mbe",
-      "Name": "Who Needs Directions?",
-      "Percentage": 1,
-      "XP": 40,
-      "UsersEstimate": 75
+      "Time": "2023-02-27T13:16:31.624537+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ACH11",
-      "SetID": "4ck5mbe",
-      "Name": "Liberty City State of Mind",
-      "Percentage": 7,
-      "XP": 25,
-      "UsersEstimate": 524
+      "Time": "2023-02-28T15:58:25.0272087+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ACH12",
-      "SetID": "4ck5mbe",
-      "Name": "Swiss Army Strife",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 75
+      "Time": "2023-02-28T20:58:05.4208195+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ACH13",
-      "SetID": "4ck5mbe",
-      "Name": "School\u0027s Out",
-      "Percentage": 15,
-      "XP": 40,
-      "UsersEstimate": 1123
+      "Time": "2023-03-01T15:58:02.4775268+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ACH14",
-      "SetID": "4ck5mbe",
-      "Name": "Horror of the Santa Maria",
-      "Percentage": 9,
-      "XP": 5,
-      "UsersEstimate": 674
+      "Time": "2023-03-03T02:22:03.9404814+00:00",
+      "Rating": 4.55
     },
     {
-      "ID": "ACH15",
-      "SetID": "4ck5mbe",
-      "Name": "They Can\u2019t Stop All of Us",
-      "Percentage": 3,
-      "XP": 40,
-      "UsersEstimate": 225
+      "Time": "2023-03-03T14:58:22.0840595+00:00",
+      "Rating": 4.56
     },
     {
-      "ID": "ACH16",
-      "SetID": "4ck5mbe",
-      "Name": "Smooth Moves",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 1123
+      "Time": "2023-03-03T16:58:04.0683999+00:00",
+      "Rating": 4.55
     },
     {
-      "ID": "ACH17",
-      "SetID": "4ck5mbe",
-      "Name": "What the City Needs",
-      "Percentage": 2,
-      "XP": 40,
-      "UsersEstimate": 150
+      "Time": "2023-03-04T07:58:12.5775622+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ACH18",
-      "SetID": "4ck5mbe",
-      "Name": "Saviour",
-      "Percentage": 4,
-      "XP": 45,
-      "UsersEstimate": 299
+      "Time": "2023-03-05T02:27:26.3070335+00:00",
+      "Rating": 4.55
     },
     {
-      "ID": "ACH19",
-      "SetID": "4ck5mbe",
-      "Name": "Rescue a Kitten Too?",
-      "Percentage": 4,
-      "XP": 40,
-      "UsersEstimate": 299
+      "Time": "2023-03-06T05:57:57.3625535+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ACH20",
-      "SetID": "4ck5mbe",
-      "Name": "Yes I Speak English",
-      "Percentage": 2,
-      "XP": 45,
-      "UsersEstimate": 150
+      "Time": "2023-03-07T13:58:58.7507938+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ACH21",
-      "SetID": "4ck5mbe",
-      "Name": "Lucky Spinner",
-      "Percentage": 0.8,
-      "XP": 10,
-      "UsersEstimate": 60
+      "Time": "2023-03-08T13:58:08.5453388+00:00",
+      "Rating": 4.5
     },
     {
-      "ID": "ACH22",
-      "SetID": "4ck5mbe",
-      "Name": "What happens in Las Venturas...",
-      "Percentage": 12,
-      "XP": 25,
-      "UsersEstimate": 898
+      "Time": "2023-03-08T18:58:43.5983287+00:00",
+      "Rating": 4.51
     },
     {
-      "ID": "ACH23",
-      "SetID": "4ck5mbe",
-      "Name": "All Dressed Up for San Fierro",
-      "Percentage": 22,
-      "XP": 25,
-      "UsersEstimate": 1647
+      "Time": "2023-03-12T09:58:38.1529825+00:00",
+      "Rating": 4.52
     },
     {
-      "ID": "ACH24",
-      "SetID": "4ck5mbe",
-      "Name": "Not a Player",
-      "Percentage": 0.5,
-      "XP": 25,
-      "UsersEstimate": 37
+      "Time": "2023-03-15T14:58:24.1304642+00:00",
+      "Rating": 4.53
     },
     {
-      "ID": "ACH25",
-      "SetID": "4ck5mbe",
-      "Name": "What are the Odds",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 225
+      "Time": "2023-03-18T09:58:42.4341885+00:00",
+      "Rating": 4.54
     },
     {
-      "ID": "ACH26",
-      "SetID": "4ck5mbe",
-      "Name": "Double or Nothin\u0027",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 150
+      "Time": "2023-03-19T08:58:06.5765357+00:00",
+      "Rating": 4.55
     },
     {
-      "ID": "ACH27",
-      "SetID": "4ck5mbe",
-      "Name": "Assassin",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 75
+      "Time": "2023-03-21T09:58:11.5553304+00:00",
+      "Rating": 4.56
     },
     {
-      "ID": "ACH28",
-      "SetID": "4ck5mbe",
-      "Name": "Original Gangster",
-      "Percentage": 6,
-      "XP": 35,
-      "UsersEstimate": 449
+      "Time": "2023-03-22T11:58:30.107393+00:00",
+      "Rating": 4.57
     },
     {
-      "ID": "ACH29",
-      "SetID": "4ck5mbe",
-      "Name": "Today Was a Good Day",
-      "Percentage": 13,
-      "XP": 45,
-      "UsersEstimate": 973
+      "Time": "2023-03-23T11:59:03.2619947+00:00",
+      "Rating": 4.58
     },
     {
-      "ID": "ACH30",
-      "SetID": "4ck5mbe",
-      "Name": "Public Enemy No. 1",
-      "Percentage": 1,
-      "XP": 25,
-      "UsersEstimate": 75
+      "Time": "2023-03-26T02:06:19.795003+00:00",
+      "Rating": 4.57
     },
     {
-      "ID": "ACH31",
-      "SetID": "4ck5mbe",
-      "Name": "Chick Magnet",
-      "Percentage": 0.9,
-      "XP": 25,
-      "UsersEstimate": 67
+      "Time": "2023-03-27T14:58:43.3368988+00:00",
+      "Rating": 4.58
     },
     {
-      "ID": "ACH32",
-      "SetID": "4ck5mbe",
-      "Name": "Ain\u2019t Nothing But a G Thing",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 75
+      "Time": "2023-03-31T05:58:19.796254+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH33",
-      "SetID": "4ck5mbe",
-      "Name": "Remastered",
-      "Percentage": 0.4,
-      "XP": 50,
-      "UsersEstimate": 30
+      "Time": "2023-04-03T22:57:58.3845814+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH34",
-      "SetID": "4ck5mbe",
-      "Name": "...Here we go again",
-      "Percentage": 0.2,
-      "XP": 25,
-      "UsersEstimate": 15
+      "Time": "2023-04-04T06:57:57.2114536+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ACH35",
-      "SetID": "4ck5mbe",
-      "Name": "I Ain\u0027t No Buster",
-      "Percentage": 0.2,
-      "XP": 50,
-      "UsersEstimate": 15
+      "Time": "2023-04-05T06:58:24.6512852+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T18:58:13.7194607+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T23:57:53.8550167+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T14:58:21.2036127+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T14:58:21.2269317+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T15:58:20.8280675+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T02:57:54.5437719+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T22:58:39.8904722+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T11:58:29.3183235+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T15:58:29.9992613+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T13:02:29.5979129+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T13:07:32.8810595+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-19T17:58:13.1003828+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T06:58:36.9508257+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T10:58:37.3474602+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T10:57:56.9300783+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T15:58:49.5660101+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-28T17:01:34.9203239+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 7488,
+  "EOS_Completed": 15,
+  "EOS_NewPlayers": 122,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -929,292 +916,311 @@
       "Time": "2023-05-05T15:42:59.434705+00:00",
       "NumProgressed": 7487,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-05T17:09:52.5597935+00:00",
+      "NumProgressed": 7488,
+      "NumCompleted": 15
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-02-21T07:58:25.3551608+00:00",
-      "Rating": 4.45
-    },
-    {
-      "Time": "2023-02-21T13:14:34.6363422+00:00",
-      "Rating": 4.48
-    },
-    {
-      "Time": "2023-02-21T16:57:52.4261208+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2023-02-22T16:58:16.5898359+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2023-02-22T23:58:06.3711347+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2023-02-23T23:58:17.8900535+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-02-24T23:58:13.5591591+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2023-02-26T04:58:03.6536445+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-02-26T13:11:32.9542334+00:00",
-      "Rating": 4.47
-    },
-    {
-      "Time": "2023-02-27T13:16:31.624537+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2023-02-28T15:58:25.0272087+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2023-02-28T20:58:05.4208195+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2023-03-01T15:58:02.4775268+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2023-03-03T02:22:03.9404814+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2023-03-03T14:58:22.0840595+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-03-03T16:58:04.0683999+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2023-03-04T07:58:12.5775622+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2023-03-05T02:27:26.3070335+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2023-03-06T05:57:57.3625535+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2023-03-07T13:58:58.7507938+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2023-03-08T13:58:08.5453388+00:00",
-      "Rating": 4.5
-    },
-    {
-      "Time": "2023-03-08T18:58:43.5983287+00:00",
-      "Rating": 4.51
-    },
-    {
-      "Time": "2023-03-12T09:58:38.1529825+00:00",
-      "Rating": 4.52
-    },
-    {
-      "Time": "2023-03-15T14:58:24.1304642+00:00",
-      "Rating": 4.53
-    },
-    {
-      "Time": "2023-03-18T09:58:42.4341885+00:00",
-      "Rating": 4.54
-    },
-    {
-      "Time": "2023-03-19T08:58:06.5765357+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2023-03-21T09:58:11.5553304+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-03-22T11:58:30.107393+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-23T11:59:03.2619947+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2023-03-26T02:06:19.795003+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-27T14:58:43.3368988+00:00",
-      "Rating": 4.58
-    },
-    {
-      "Time": "2023-03-31T05:58:19.796254+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-03T22:57:58.3845814+00:00",
-      "Rating": 4.59,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-04T06:57:57.2114536+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-05T06:58:24.6512852+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-07T18:58:13.7194607+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-07T23:57:53.8550167+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-10T14:58:21.2036127+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-11T14:58:21.2269317+00:00",
-      "Rating": 4.59,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-11T15:58:20.8280675+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T02:57:54.5437719+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T22:58:39.8904722+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T11:58:29.3183235+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T15:58:29.9992613+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-16T13:02:29.5979129+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T13:07:32.8810595+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-19T17:58:13.1003828+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-22T06:58:36.9508257+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-22T10:58:37.3474602+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-23T10:57:56.9300783+00:00",
-      "Rating": 4.59,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-23T15:58:49.5660101+00:00",
-      "Rating": 4.58,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-28T17:01:34.9203239+00:00",
-      "Rating": 4.59,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-05T16:08:16.1745275+00:00",
-  "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 122,
-  "EOS_Completed": 15,
-  "EOS_Progressed": 7487,
-  "LastUpdate_Achievements": "2023-05-05T16:08:16.1745862+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:34.3088719+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:19.7344691+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH01",
+      "SetID": "4ck5mbe",
+      "Name": "Getting Started",
+      "Percentage": 80,
+      "XP": 10,
+      "UsersEstimate": 5990
+    },
+    {
+      "ID": "ACH02",
+      "SetID": "4ck5mbe",
+      "Name": "With Extra Dip",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 449
+    },
+    {
+      "ID": "ACH03",
+      "SetID": "4ck5mbe",
+      "Name": "The End of the Line",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 374
+    },
+    {
+      "ID": "ACH04",
+      "SetID": "4ck5mbe",
+      "Name": "Hoopin\u0027 it Up",
+      "Percentage": 0.6,
+      "XP": 15,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "ACH05",
+      "SetID": "4ck5mbe",
+      "Name": "A Legitimate Business",
+      "Percentage": 1,
+      "XP": 40,
+      "UsersEstimate": 75
+    },
+    {
+      "ID": "ACH06",
+      "SetID": "4ck5mbe",
+      "Name": "I\u2019ll Have Two Number 9s",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "ACH07",
+      "SetID": "4ck5mbe",
+      "Name": "The American Dream",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 1198
+    },
+    {
+      "ID": "ACH08",
+      "SetID": "4ck5mbe",
+      "Name": "Pay \u0027n\u0027 Spray",
+      "Percentage": 47,
+      "XP": 15,
+      "UsersEstimate": 3519
+    },
+    {
+      "ID": "ACH09",
+      "SetID": "4ck5mbe",
+      "Name": "Bike or Biker",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "ACH10",
+      "SetID": "4ck5mbe",
+      "Name": "Who Needs Directions?",
+      "Percentage": 1,
+      "XP": 40,
+      "UsersEstimate": 75
+    },
+    {
+      "ID": "ACH11",
+      "SetID": "4ck5mbe",
+      "Name": "Liberty City State of Mind",
+      "Percentage": 7,
+      "XP": 25,
+      "UsersEstimate": 524
+    },
+    {
+      "ID": "ACH12",
+      "SetID": "4ck5mbe",
+      "Name": "Swiss Army Strife",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 75
+    },
+    {
+      "ID": "ACH13",
+      "SetID": "4ck5mbe",
+      "Name": "School\u0027s Out",
+      "Percentage": 15,
+      "XP": 40,
+      "UsersEstimate": 1123
+    },
+    {
+      "ID": "ACH14",
+      "SetID": "4ck5mbe",
+      "Name": "Horror of the Santa Maria",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 674
+    },
+    {
+      "ID": "ACH15",
+      "SetID": "4ck5mbe",
+      "Name": "They Can\u2019t Stop All of Us",
+      "Percentage": 3,
+      "XP": 40,
+      "UsersEstimate": 225
+    },
+    {
+      "ID": "ACH16",
+      "SetID": "4ck5mbe",
+      "Name": "Smooth Moves",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 1123
+    },
+    {
+      "ID": "ACH17",
+      "SetID": "4ck5mbe",
+      "Name": "What the City Needs",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "ACH18",
+      "SetID": "4ck5mbe",
+      "Name": "Saviour",
+      "Percentage": 4,
+      "XP": 45,
+      "UsersEstimate": 300
+    },
+    {
+      "ID": "ACH19",
+      "SetID": "4ck5mbe",
+      "Name": "Rescue a Kitten Too?",
+      "Percentage": 4,
+      "XP": 40,
+      "UsersEstimate": 300
+    },
+    {
+      "ID": "ACH20",
+      "SetID": "4ck5mbe",
+      "Name": "Yes I Speak English",
+      "Percentage": 2,
+      "XP": 45,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "ACH21",
+      "SetID": "4ck5mbe",
+      "Name": "Lucky Spinner",
+      "Percentage": 0.8,
+      "XP": 10,
+      "UsersEstimate": 60
+    },
+    {
+      "ID": "ACH22",
+      "SetID": "4ck5mbe",
+      "Name": "What happens in Las Venturas...",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 899
+    },
+    {
+      "ID": "ACH23",
+      "SetID": "4ck5mbe",
+      "Name": "All Dressed Up for San Fierro",
+      "Percentage": 22,
+      "XP": 25,
+      "UsersEstimate": 1647
+    },
+    {
+      "ID": "ACH24",
+      "SetID": "4ck5mbe",
+      "Name": "Not a Player",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "ACH25",
+      "SetID": "4ck5mbe",
+      "Name": "What are the Odds",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 225
+    },
+    {
+      "ID": "ACH26",
+      "SetID": "4ck5mbe",
+      "Name": "Double or Nothin\u0027",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "ACH27",
+      "SetID": "4ck5mbe",
+      "Name": "Assassin",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 75
+    },
+    {
+      "ID": "ACH28",
+      "SetID": "4ck5mbe",
+      "Name": "Original Gangster",
+      "Percentage": 6,
+      "XP": 35,
+      "UsersEstimate": 449
+    },
+    {
+      "ID": "ACH29",
+      "SetID": "4ck5mbe",
+      "Name": "Today Was a Good Day",
+      "Percentage": 13,
+      "XP": 45,
+      "UsersEstimate": 973
+    },
+    {
+      "ID": "ACH30",
+      "SetID": "4ck5mbe",
+      "Name": "Public Enemy No. 1",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 75
+    },
+    {
+      "ID": "ACH31",
+      "SetID": "4ck5mbe",
+      "Name": "Chick Magnet",
+      "Percentage": 0.9,
+      "XP": 25,
+      "UsersEstimate": 67
+    },
+    {
+      "ID": "ACH32",
+      "SetID": "4ck5mbe",
+      "Name": "Ain\u2019t Nothing But a G Thing",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 75
+    },
+    {
+      "ID": "ACH33",
+      "SetID": "4ck5mbe",
+      "Name": "Remastered",
+      "Percentage": 0.4,
+      "XP": 50,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "ACH34",
+      "SetID": "4ck5mbe",
+      "Name": "...Here we go again",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACH35",
+      "SetID": "4ck5mbe",
+      "Name": "I Ain\u0027t No Buster",
+      "Percentage": 0.2,
+      "XP": 50,
+      "UsersEstimate": 15
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7487,
+      "Progressed": 7488,
       "Completed": 15
     }
   ],
-  "EOS_Completed_Percentage": 0.2,
-  "LastChanged": "2023-04-28T17:01:34.9203237+00:00",
-  "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
-  "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Rating": 4.59,
-  "Ranking_Rating": 395,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 109,
-  "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewCompleters": 42,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
-  "Ranking_EOS_NewPlayers": 113
+  "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
+  "LastChanged": "2023-04-28T17:01:34.9203237+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:52.559793+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:12.5712188+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:52.5598217+00:00"
 }

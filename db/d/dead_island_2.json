@@ -1,374 +1,507 @@
 {
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
-  "Achievements": [
+  "ProductSlug": "dead-island-2",
+  "Ranking_Rating": 476,
+  "Ranking_Popularity": 93,
+  "Ranking_PopularitySum": 145,
+  "Ranking_EOS_Progress": 26,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 5,
+  "Ranking_EOS_NewCompleters": 1,
+  "Rating": 4.54,
+  "RatingHistory": [
     {
-      "ID": "ach_a_day_in_the_beach",
-      "SetID": "7km39fm",
-      "Name": "Dr. Reed, I Presume?",
-      "Percentage": 49,
-      "XP": 10,
-      "UsersEstimate": 224972
+      "Time": "2023-04-21T14:57:30.4641621+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ach_a_taste_of_stardom",
-      "SetID": "7km39fm",
-      "Name": "Making Your Mark",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 160694
+      "Time": "2023-04-21T15:58:03.5021361+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ach_ammo_ran",
-      "SetID": "7km39fm",
-      "Name": "Git Gutte!",
-      "Percentage": 67,
-      "XP": 10,
-      "UsersEstimate": 307615
+      "Time": "2023-04-21T18:57:40.8142715+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ach_anger_management",
-      "SetID": "7km39fm",
-      "Name": "Anger Management",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 160694
+      "Time": "2023-04-22T04:57:19.6936435+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ach_ayeaye_captain_vixen",
-      "SetID": "7km39fm",
-      "Name": "Make it So",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 41321
+      "Time": "2023-04-22T13:01:24.7456335+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ach_big_name_in_town",
-      "SetID": "7km39fm",
-      "Name": "LA Influential",
-      "Percentage": 7,
-      "XP": 100,
-      "UsersEstimate": 32139
+      "Time": "2023-04-22T15:57:18.2916274+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     },
     {
-      "ID": "ach_blueprinted",
-      "SetID": "7km39fm",
-      "Name": "Perks of the Job",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 160694
+      "Time": "2023-04-22T21:57:37.549525+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     },
     {
-      "ID": "ach_bookworm",
-      "SetID": "7km39fm",
-      "Name": "Bookworm",
-      "Percentage": 54,
-      "XP": 20,
-      "UsersEstimate": 247929
+      "Time": "2023-04-23T02:57:25.9673179+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     },
     {
-      "ID": "ach_break_a_leg",
-      "SetID": "7km39fm",
-      "Name": "Break A Leg",
-      "Percentage": 84,
-      "XP": 10,
-      "UsersEstimate": 385667
+      "Time": "2023-04-23T04:57:32.1497722+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     },
     {
-      "ID": "ach_contender",
-      "SetID": "7km39fm",
-      "Name": "On Safari",
-      "Percentage": 8,
-      "XP": 50,
-      "UsersEstimate": 36730
+      "Time": "2023-04-23T08:57:23.6529926+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     },
     {
-      "ID": "ach_defensive",
-      "SetID": "7km39fm",
-      "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 52,
-      "XP": 10,
-      "UsersEstimate": 238746
+      "Time": "2023-04-23T15:57:47.0901895+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 160
     },
     {
-      "ID": "ach_doctor_i_am_butcho",
-      "SetID": "7km39fm",
-      "Name": "But Doctor, I am Butcho",
-      "Percentage": 36,
-      "XP": 10,
-      "UsersEstimate": 165286
+      "Time": "2023-04-24T15:57:46.9798846+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
     },
     {
-      "ID": "ach_doom_buddies",
-      "SetID": "7km39fm",
-      "Name": "Slayer Squad",
-      "Percentage": 37,
-      "XP": 10,
-      "UsersEstimate": 169877
+      "Time": "2023-04-25T03:57:43.4979189+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
     },
     {
-      "ID": "ach_explorer",
-      "SetID": "7km39fm",
-      "Name": "Smorgasbord",
-      "Percentage": 12,
-      "XP": 50,
-      "UsersEstimate": 55095
+      "Time": "2023-04-25T14:58:02.6684287+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
     },
     {
-      "ID": "ach_fetch_me_a_tisha",
-      "SetID": "7km39fm",
-      "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 32,
-      "XP": 10,
-      "UsersEstimate": 146921
+      "Time": "2023-04-25T15:57:25.2745698+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 610
     },
     {
-      "ID": "ach_finisher",
-      "SetID": "7km39fm",
-      "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 71,
-      "XP": 10,
-      "UsersEstimate": 325980
+      "Time": "2023-04-25T23:58:43.583873+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 610
     },
     {
-      "ID": "ach_get_to_the_chopper",
-      "SetID": "7km39fm",
-      "Name": "Like Riding a Bike",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 137738
+      "Time": "2023-04-26T02:59:21.642802+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 610
     },
     {
-      "ID": "ach_good_eyesight",
-      "SetID": "7km39fm",
-      "Name": "Not Even My Final Form",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 41321
+      "Time": "2023-04-26T03:58:39.0644501+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 633,
+      "NumberOfAwardsMax": 610
     },
     {
-      "ID": "ach_hazardous_materials",
-      "SetID": "7km39fm",
-      "Name": "Hazardous Materials",
-      "Percentage": 76,
-      "XP": 10,
-      "UsersEstimate": 348937
+      "Time": "2023-04-26T10:59:10.6532218+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 655,
+      "NumberOfAwardsMax": 610
     },
     {
-      "ID": "ach_her_name_was_lola",
-      "SetID": "7km39fm",
-      "Name": "Friends Like These",
-      "Percentage": 59,
-      "XP": 10,
-      "UsersEstimate": 270885
+      "Time": "2023-04-26T14:58:27.9529387+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 678,
+      "NumberOfAwardsMax": 610
     },
     {
-      "ID": "ach_hotel_california",
-      "SetID": "7km39fm",
-      "Name": "Hotel California",
-      "Percentage": 88,
-      "XP": 10,
-      "UsersEstimate": 404032
+      "Time": "2023-04-26T15:57:57.5030437+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 868,
+      "NumberOfAwardsMax": 800
     },
     {
-      "ID": "ach_impressive_aim",
-      "SetID": "7km39fm",
-      "Name": "Donk!",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 13774
+      "Time": "2023-04-26T19:57:54.1815833+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 868,
+      "NumberOfAwardsMax": 800
     },
     {
-      "ID": "ach_internet_famous",
-      "SetID": "7km39fm",
-      "Name": "Internet Famous",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 55095
+      "Time": "2023-04-27T04:57:48.8174305+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 888,
+      "NumberOfAwardsMax": 800
     },
     {
-      "ID": "ach_investigator",
-      "SetID": "7km39fm",
-      "Name": "Sole Survivor",
-      "Percentage": 5,
-      "XP": 50,
-      "UsersEstimate": 22956
+      "Time": "2023-04-27T10:57:52.0357474+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 900,
+      "NumberOfAwardsMax": 800
     },
     {
-      "ID": "ach_jumbo_keyring",
-      "SetID": "7km39fm",
-      "Name": "Jumbo Keyring",
-      "Percentage": 21,
-      "XP": 20,
-      "UsersEstimate": 96417
+      "Time": "2023-04-27T13:03:36.8549188+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 909,
+      "NumberOfAwardsMax": 800
     },
     {
-      "ID": "ach_knock_down",
-      "SetID": "7km39fm",
-      "Name": "Apex Predator",
-      "Percentage": 63,
-      "XP": 10,
-      "UsersEstimate": 289250
+      "Time": "2023-04-27T15:58:32.8289189+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1105,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_knowledgeable",
-      "SetID": "7km39fm",
-      "Name": "Zombologist",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 133147
+      "Time": "2023-04-27T20:57:54.7850244+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1136,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_legendary",
-      "SetID": "7km39fm",
-      "Name": "Ooh, Shiny!",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 133147
+      "Time": "2023-04-27T22:58:07.6993497+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1158,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_magnum_opus",
-      "SetID": "7km39fm",
-      "Name": "Gore Horse",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 32139
+      "Time": "2023-04-28T09:58:24.9399737+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1170,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_metropolitan",
-      "SetID": "7km39fm",
-      "Name": "A Patton Emerges",
-      "Percentage": 29,
-      "XP": 10,
-      "UsersEstimate": 133147
+      "Time": "2023-04-28T10:58:29.2534996+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1195,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_mind_over_monster",
-      "SetID": "7km39fm",
-      "Name": "Humanity Distilled",
-      "Percentage": 27,
-      "XP": 10,
-      "UsersEstimate": 123964
+      "Time": "2023-04-28T11:58:30.0344878+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1209,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_revival_tour",
-      "SetID": "7km39fm",
-      "Name": "I Am the Resurrection",
-      "Percentage": 30,
-      "XP": 10,
-      "UsersEstimate": 137738
+      "Time": "2023-04-28T13:02:40.7254862+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1216,
+      "NumberOfAwardsMax": 992
     },
     {
-      "ID": "ach_salvation",
-      "SetID": "7km39fm",
-      "Name": "Down with the Sickness",
-      "Percentage": 20,
-      "XP": 10,
-      "UsersEstimate": 91825
+      "Time": "2023-04-28T15:58:02.7379136+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1430,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_secrets_of_la",
-      "SetID": "7km39fm",
-      "Name": "Sharpest Tool in the Box",
-      "Percentage": 6,
-      "XP": 50,
-      "UsersEstimate": 27548
+      "Time": "2023-04-28T16:58:42.6935613+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1454,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_skilled_up",
-      "SetID": "7km39fm",
-      "Name": "Stacking the Deck",
-      "Percentage": 49,
-      "XP": 10,
-      "UsersEstimate": 224972
+      "Time": "2023-04-28T18:58:23.646156+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1454,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_star_performance",
-      "SetID": "7km39fm",
-      "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 70,
-      "XP": 10,
-      "UsersEstimate": 321389
+      "Time": "2023-04-29T01:58:10.5128567+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1466,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_survival_expert",
-      "SetID": "7km39fm",
-      "Name": "Survival Skills",
-      "Percentage": 3,
-      "XP": 50,
-      "UsersEstimate": 13774
+      "Time": "2023-04-29T08:57:59.5842447+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1473,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_survival_of_the_fittest",
-      "SetID": "7km39fm",
-      "Name": "Max Headroom",
-      "Percentage": 8,
-      "XP": 50,
-      "UsersEstimate": 36730
+      "Time": "2023-04-29T11:58:02.2165008+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1500,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_the_vcla",
-      "SetID": "7km39fm",
-      "Name": "Go, Bobcats!",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 87234
+      "Time": "2023-04-29T13:00:35.0517255+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1510,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_thesacrifice",
-      "SetID": "7km39fm",
-      "Name": "Our True Nature",
-      "Percentage": 27,
-      "XP": 100,
-      "UsersEstimate": 123964
+      "Time": "2023-04-29T13:58:30.696933+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1519,
+      "NumberOfAwardsMax": 1200
     },
     {
-      "ID": "ach_this_is_my_weapon",
-      "SetID": "7km39fm",
-      "Name": "This is My Weapon",
-      "Percentage": 48,
-      "XP": 10,
-      "UsersEstimate": 220381
+      "Time": "2023-04-29T15:58:44.1113422+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1728,
+      "NumberOfAwardsMax": 1397
     },
     {
-      "ID": "ach_weapon_wrangler",
-      "SetID": "7km39fm",
-      "Name": "Variety is the Spice of Death",
-      "Percentage": 5,
-      "XP": 50,
-      "UsersEstimate": 22956
+      "Time": "2023-04-29T19:57:42.9120715+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1739,
+      "NumberOfAwardsMax": 1397
     },
     {
-      "ID": "ach_welcome_to_hell_a",
-      "SetID": "7km39fm",
-      "Name": "Welcome To Hell-A",
-      "Percentage": 49,
-      "XP": 10,
-      "UsersEstimate": 224972
+      "Time": "2023-04-30T01:59:21.2791753+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1745,
+      "NumberOfAwardsMax": 1397
     },
     {
-      "ID": "ach_well_known_survivor",
-      "SetID": "7km39fm",
-      "Name": "Rising Star",
-      "Percentage": 20,
-      "XP": 40,
-      "UsersEstimate": 91825
+      "Time": "2023-04-30T09:57:42.1616574+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1756,
+      "NumberOfAwardsMax": 1397
     },
     {
-      "ID": "ach_well_trained",
-      "SetID": "7km39fm",
-      "Name": "Zombicidal Maniac",
-      "Percentage": 0.7,
-      "XP": 50,
-      "UsersEstimate": 3214
+      "Time": "2023-04-30T13:00:45.2081161+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1768,
+      "NumberOfAwardsMax": 1397
+    },
+    {
+      "Time": "2023-04-30T13:57:43.4331419+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1780,
+      "NumberOfAwardsMax": 1397
+    },
+    {
+      "Time": "2023-04-30T15:58:01.779729+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1998,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-04-30T16:58:02.2457401+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2016,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-04-30T17:58:12.7119252+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2028,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-04-30T20:58:13.808632+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1993,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-05-01T02:58:21.0261103+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2002,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-05-01T10:58:06.1231023+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2018,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-05-01T13:03:08.3356551+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2033,
+      "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-05-01T15:58:08.5925279+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2245,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-01T16:59:06.3875203+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2264,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-01T17:58:30.6745+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2281,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-01T19:58:03.7450203+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2293,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-01T21:57:59.8097997+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2349,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-02T06:57:42.9525426+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2360,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-02T11:58:04.6992035+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2372,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-02T13:04:47.0427849+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2382,
+      "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-02T16:58:21.3765168+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2553,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-02T18:58:23.9016575+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2560,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-02T21:58:00.7464734+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2519,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-02T22:57:59.0343651+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2530,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-03T07:57:46.3614383+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2537,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-03T14:58:35.1821447+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2544,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-03T15:58:22.0097712+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2557,
+      "NumberOfAwardsMax": 1989
+    },
+    {
+      "Time": "2023-05-03T16:58:43.9367775+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2683,
+      "NumberOfAwardsMax": 2115
+    },
+    {
+      "Time": "2023-05-03T18:57:52.5836815+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2698,
+      "NumberOfAwardsMax": 2115
+    },
+    {
+      "Time": "2023-05-03T22:58:37.1484869+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2712,
+      "NumberOfAwardsMax": 2115
+    },
+    {
+      "Time": "2023-05-04T01:55:03.35228+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2791,
+      "NumberOfAwardsMax": 2115
+    },
+    {
+      "Time": "2023-05-04T02:57:47.5650255+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2801,
+      "NumberOfAwardsMax": 2115
+    },
+    {
+      "Time": "2023-05-04T13:03:53.1778403+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2811,
+      "NumberOfAwardsMax": 2115
+    },
+    {
+      "Time": "2023-05-04T16:58:18.2883917+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2972,
+      "NumberOfAwardsMax": 2260
+    },
+    {
+      "Time": "2023-05-05T01:51:08.1334244+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3004,
+      "NumberOfAwardsMax": 2260
+    },
+    {
+      "Time": "2023-05-05T05:58:15.3381962+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3008,
+      "NumberOfAwardsMax": 2260
+    },
+    {
+      "Time": "2023-05-05T07:58:17.3184894+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3020,
+      "NumberOfAwardsMax": 2260
+    },
+    {
+      "Time": "2023-05-05T13:03:00.3253751+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3031,
+      "NumberOfAwardsMax": 2260
+    },
+    {
+      "Time": "2023-05-05T17:02:38.8717532+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3151,
+      "NumberOfAwardsMax": 2369
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 3151,
+  "NumberOfAwardsMax": 2369,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2260
+      "Count": 2369
     },
     {
       "Text": "This game has Diverse Characters",
@@ -398,7 +531,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 90
+      "Count": 101
     },
     {
       "Text": "This game is Extremely Fun",
@@ -419,6 +552,11 @@
       "Count": 75
     }
   ],
+  "EOS_Progressed": 459453,
+  "EOS_Completed": 728,
+  "EOS_NewPlayers": 85115,
+  "EOS_NewCompleters": 468,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.991885+00:00",
@@ -1624,517 +1762,391 @@
       "Time": "2023-05-05T16:07:34.1841144+00:00",
       "NumProgressed": 459127,
       "NumCompleted": 724
+    },
+    {
+      "Time": "2023-05-05T17:09:21.3243645+00:00",
+      "NumProgressed": 459453,
+      "NumCompleted": 728
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-21T14:57:30.4641621+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-21T15:58:03.5021361+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-21T18:57:40.8142715+00:00",
-      "Rating": 4.63,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-22T04:57:19.6936435+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-22T13:01:24.7456335+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-22T15:57:18.2916274+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 35,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-22T21:57:37.549525+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 35,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-23T02:57:25.9673179+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 35,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-23T04:57:32.1497722+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 35,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-23T08:57:23.6529926+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 35,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-23T15:57:47.0901895+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 160,
-      "NumberOfAwardsMax": 160
-    },
-    {
-      "Time": "2023-04-24T15:57:46.9798846+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 382,
-      "NumberOfAwardsMax": 382
-    },
-    {
-      "Time": "2023-04-25T03:57:43.4979189+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 382,
-      "NumberOfAwardsMax": 382
-    },
-    {
-      "Time": "2023-04-25T14:58:02.6684287+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 382,
-      "NumberOfAwardsMax": 382
-    },
-    {
-      "Time": "2023-04-25T15:57:25.2745698+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 610,
-      "NumberOfAwardsMax": 610
-    },
-    {
-      "Time": "2023-04-25T23:58:43.583873+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 610,
-      "NumberOfAwardsMax": 610
-    },
-    {
-      "Time": "2023-04-26T02:59:21.642802+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 610,
-      "NumberOfAwardsMax": 610
-    },
-    {
-      "Time": "2023-04-26T03:58:39.0644501+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 633,
-      "NumberOfAwardsMax": 610
-    },
-    {
-      "Time": "2023-04-26T10:59:10.6532218+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 655,
-      "NumberOfAwardsMax": 610
-    },
-    {
-      "Time": "2023-04-26T14:58:27.9529387+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 678,
-      "NumberOfAwardsMax": 610
-    },
-    {
-      "Time": "2023-04-26T15:57:57.5030437+00:00",
-      "Rating": 4.52,
-      "NumberOfAwards": 868,
-      "NumberOfAwardsMax": 800
-    },
-    {
-      "Time": "2023-04-26T19:57:54.1815833+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 868,
-      "NumberOfAwardsMax": 800
-    },
-    {
-      "Time": "2023-04-27T04:57:48.8174305+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 888,
-      "NumberOfAwardsMax": 800
-    },
-    {
-      "Time": "2023-04-27T10:57:52.0357474+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 900,
-      "NumberOfAwardsMax": 800
-    },
-    {
-      "Time": "2023-04-27T13:03:36.8549188+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 909,
-      "NumberOfAwardsMax": 800
-    },
-    {
-      "Time": "2023-04-27T15:58:32.8289189+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1105,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-27T20:57:54.7850244+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1136,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-27T22:58:07.6993497+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1158,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-28T09:58:24.9399737+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1170,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-28T10:58:29.2534996+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1195,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-28T11:58:30.0344878+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1209,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-28T13:02:40.7254862+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1216,
-      "NumberOfAwardsMax": 992
-    },
-    {
-      "Time": "2023-04-28T15:58:02.7379136+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1430,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-28T16:58:42.6935613+00:00",
-      "Rating": 4.53,
-      "NumberOfAwards": 1454,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-28T18:58:23.646156+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1454,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-29T01:58:10.5128567+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1466,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-29T08:57:59.5842447+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1473,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-29T11:58:02.2165008+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1500,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-29T13:00:35.0517255+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1510,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-29T13:58:30.696933+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1519,
-      "NumberOfAwardsMax": 1200
-    },
-    {
-      "Time": "2023-04-29T15:58:44.1113422+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1728,
-      "NumberOfAwardsMax": 1397
-    },
-    {
-      "Time": "2023-04-29T19:57:42.9120715+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1739,
-      "NumberOfAwardsMax": 1397
-    },
-    {
-      "Time": "2023-04-30T01:59:21.2791753+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1745,
-      "NumberOfAwardsMax": 1397
-    },
-    {
-      "Time": "2023-04-30T09:57:42.1616574+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1756,
-      "NumberOfAwardsMax": 1397
-    },
-    {
-      "Time": "2023-04-30T13:00:45.2081161+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1768,
-      "NumberOfAwardsMax": 1397
-    },
-    {
-      "Time": "2023-04-30T13:57:43.4331419+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1780,
-      "NumberOfAwardsMax": 1397
-    },
-    {
-      "Time": "2023-04-30T15:58:01.779729+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1998,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-04-30T16:58:02.2457401+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2016,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-04-30T17:58:12.7119252+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2028,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-04-30T20:58:13.808632+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 1993,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-05-01T02:58:21.0261103+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2002,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-05-01T10:58:06.1231023+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2018,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-05-01T13:03:08.3356551+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2033,
-      "NumberOfAwardsMax": 1615
-    },
-    {
-      "Time": "2023-05-01T15:58:08.5925279+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2245,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-01T16:59:06.3875203+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2264,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-01T17:58:30.6745+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2281,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-01T19:58:03.7450203+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2293,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-01T21:57:59.8097997+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2349,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-02T06:57:42.9525426+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2360,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-02T11:58:04.6992035+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2372,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-02T13:04:47.0427849+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2382,
-      "NumberOfAwardsMax": 1827
-    },
-    {
-      "Time": "2023-05-02T16:58:21.3765168+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2553,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-02T18:58:23.9016575+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2560,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-02T21:58:00.7464734+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2519,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-02T22:57:59.0343651+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2530,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-03T07:57:46.3614383+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2537,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-03T14:58:35.1821447+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2544,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-03T15:58:22.0097712+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2557,
-      "NumberOfAwardsMax": 1989
-    },
-    {
-      "Time": "2023-05-03T16:58:43.9367775+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2683,
-      "NumberOfAwardsMax": 2115
-    },
-    {
-      "Time": "2023-05-03T18:57:52.5836815+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2698,
-      "NumberOfAwardsMax": 2115
-    },
-    {
-      "Time": "2023-05-03T22:58:37.1484869+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2712,
-      "NumberOfAwardsMax": 2115
-    },
-    {
-      "Time": "2023-05-04T01:55:03.35228+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2791,
-      "NumberOfAwardsMax": 2115
-    },
-    {
-      "Time": "2023-05-04T02:57:47.5650255+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2801,
-      "NumberOfAwardsMax": 2115
-    },
-    {
-      "Time": "2023-05-04T13:03:53.1778403+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2811,
-      "NumberOfAwardsMax": 2115
-    },
-    {
-      "Time": "2023-05-04T16:58:18.2883917+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 2972,
-      "NumberOfAwardsMax": 2260
-    },
-    {
-      "Time": "2023-05-05T01:51:08.1334244+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 3004,
-      "NumberOfAwardsMax": 2260
-    },
-    {
-      "Time": "2023-05-05T05:58:15.3381962+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 3008,
-      "NumberOfAwardsMax": 2260
-    },
-    {
-      "Time": "2023-05-05T07:58:17.3184894+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 3020,
-      "NumberOfAwardsMax": 2260
-    },
-    {
-      "Time": "2023-05-05T13:03:00.3253751+00:00",
-      "Rating": 4.54,
-      "NumberOfAwards": 3031,
-      "NumberOfAwardsMax": 2260
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T16:07:34.1841136+00:00",
-  "EOS_NewCompleters": 465,
-  "EOS_NewPlayers": 85810,
-  "EOS_Completed": 724,
-  "EOS_Progressed": 459127,
-  "LastUpdate_Achievements": "2023-05-05T16:07:34.1841596+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:13.9038017+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:43.5761116+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_a_day_in_the_beach",
+      "SetID": "7km39fm",
+      "Name": "Dr. Reed, I Presume?",
+      "Percentage": 49,
+      "XP": 10,
+      "UsersEstimate": 225132
+    },
+    {
+      "ID": "ach_a_taste_of_stardom",
+      "SetID": "7km39fm",
+      "Name": "Making Your Mark",
+      "Percentage": 35,
+      "XP": 10,
+      "UsersEstimate": 160809
+    },
+    {
+      "ID": "ach_ammo_ran",
+      "SetID": "7km39fm",
+      "Name": "Git Gutte!",
+      "Percentage": 67,
+      "XP": 10,
+      "UsersEstimate": 307834
+    },
+    {
+      "ID": "ach_anger_management",
+      "SetID": "7km39fm",
+      "Name": "Anger Management",
+      "Percentage": 35,
+      "XP": 10,
+      "UsersEstimate": 160809
+    },
+    {
+      "ID": "ach_ayeaye_captain_vixen",
+      "SetID": "7km39fm",
+      "Name": "Make it So",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 41351
+    },
+    {
+      "ID": "ach_big_name_in_town",
+      "SetID": "7km39fm",
+      "Name": "LA Influential",
+      "Percentage": 7,
+      "XP": 100,
+      "UsersEstimate": 32162
+    },
+    {
+      "ID": "ach_blueprinted",
+      "SetID": "7km39fm",
+      "Name": "Perks of the Job",
+      "Percentage": 35,
+      "XP": 10,
+      "UsersEstimate": 160809
+    },
+    {
+      "ID": "ach_bookworm",
+      "SetID": "7km39fm",
+      "Name": "Bookworm",
+      "Percentage": 54,
+      "XP": 20,
+      "UsersEstimate": 248105
+    },
+    {
+      "ID": "ach_break_a_leg",
+      "SetID": "7km39fm",
+      "Name": "Break A Leg",
+      "Percentage": 84,
+      "XP": 10,
+      "UsersEstimate": 385941
+    },
+    {
+      "ID": "ach_contender",
+      "SetID": "7km39fm",
+      "Name": "On Safari",
+      "Percentage": 8,
+      "XP": 50,
+      "UsersEstimate": 36756
+    },
+    {
+      "ID": "ach_defensive",
+      "SetID": "7km39fm",
+      "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 238916
+    },
+    {
+      "ID": "ach_doctor_i_am_butcho",
+      "SetID": "7km39fm",
+      "Name": "But Doctor, I am Butcho",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 165403
+    },
+    {
+      "ID": "ach_doom_buddies",
+      "SetID": "7km39fm",
+      "Name": "Slayer Squad",
+      "Percentage": 37,
+      "XP": 10,
+      "UsersEstimate": 169998
+    },
+    {
+      "ID": "ach_explorer",
+      "SetID": "7km39fm",
+      "Name": "Smorgasbord",
+      "Percentage": 12,
+      "XP": 50,
+      "UsersEstimate": 55134
+    },
+    {
+      "ID": "ach_fetch_me_a_tisha",
+      "SetID": "7km39fm",
+      "Name": "Can\u0027t Handle the Truth",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 147025
+    },
+    {
+      "ID": "ach_finisher",
+      "SetID": "7km39fm",
+      "Name": "Coup de Gr\u00E2ce",
+      "Percentage": 71,
+      "XP": 10,
+      "UsersEstimate": 326212
+    },
+    {
+      "ID": "ach_get_to_the_chopper",
+      "SetID": "7km39fm",
+      "Name": "Like Riding a Bike",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 137836
+    },
+    {
+      "ID": "ach_good_eyesight",
+      "SetID": "7km39fm",
+      "Name": "Not Even My Final Form",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 41351
+    },
+    {
+      "ID": "ach_hazardous_materials",
+      "SetID": "7km39fm",
+      "Name": "Hazardous Materials",
+      "Percentage": 76,
+      "XP": 10,
+      "UsersEstimate": 349184
+    },
+    {
+      "ID": "ach_her_name_was_lola",
+      "SetID": "7km39fm",
+      "Name": "Friends Like These",
+      "Percentage": 59,
+      "XP": 10,
+      "UsersEstimate": 271077
+    },
+    {
+      "ID": "ach_hotel_california",
+      "SetID": "7km39fm",
+      "Name": "Hotel California",
+      "Percentage": 88,
+      "XP": 10,
+      "UsersEstimate": 404319
+    },
+    {
+      "ID": "ach_impressive_aim",
+      "SetID": "7km39fm",
+      "Name": "Donk!",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 13784
+    },
+    {
+      "ID": "ach_internet_famous",
+      "SetID": "7km39fm",
+      "Name": "Internet Famous",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 55134
+    },
+    {
+      "ID": "ach_investigator",
+      "SetID": "7km39fm",
+      "Name": "Sole Survivor",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 22973
+    },
+    {
+      "ID": "ach_jumbo_keyring",
+      "SetID": "7km39fm",
+      "Name": "Jumbo Keyring",
+      "Percentage": 21,
+      "XP": 20,
+      "UsersEstimate": 96485
+    },
+    {
+      "ID": "ach_knock_down",
+      "SetID": "7km39fm",
+      "Name": "Apex Predator",
+      "Percentage": 63,
+      "XP": 10,
+      "UsersEstimate": 289455
+    },
+    {
+      "ID": "ach_knowledgeable",
+      "SetID": "7km39fm",
+      "Name": "Zombologist",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 133241
+    },
+    {
+      "ID": "ach_legendary",
+      "SetID": "7km39fm",
+      "Name": "Ooh, Shiny!",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 133241
+    },
+    {
+      "ID": "ach_magnum_opus",
+      "SetID": "7km39fm",
+      "Name": "Gore Horse",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 32162
+    },
+    {
+      "ID": "ach_metropolitan",
+      "SetID": "7km39fm",
+      "Name": "A Patton Emerges",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 133241
+    },
+    {
+      "ID": "ach_mind_over_monster",
+      "SetID": "7km39fm",
+      "Name": "Humanity Distilled",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 124052
+    },
+    {
+      "ID": "ach_revival_tour",
+      "SetID": "7km39fm",
+      "Name": "I Am the Resurrection",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 137836
+    },
+    {
+      "ID": "ach_salvation",
+      "SetID": "7km39fm",
+      "Name": "Down with the Sickness",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 91891
+    },
+    {
+      "ID": "ach_secrets_of_la",
+      "SetID": "7km39fm",
+      "Name": "Sharpest Tool in the Box",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 27567
+    },
+    {
+      "ID": "ach_skilled_up",
+      "SetID": "7km39fm",
+      "Name": "Stacking the Deck",
+      "Percentage": 49,
+      "XP": 10,
+      "UsersEstimate": 225132
+    },
+    {
+      "ID": "ach_star_performance",
+      "SetID": "7km39fm",
+      "Name": "Personal Assistant Personally Assisted",
+      "Percentage": 70,
+      "XP": 10,
+      "UsersEstimate": 321617
+    },
+    {
+      "ID": "ach_survival_expert",
+      "SetID": "7km39fm",
+      "Name": "Survival Skills",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 13784
+    },
+    {
+      "ID": "ach_survival_of_the_fittest",
+      "SetID": "7km39fm",
+      "Name": "Max Headroom",
+      "Percentage": 8,
+      "XP": 50,
+      "UsersEstimate": 36756
+    },
+    {
+      "ID": "ach_the_vcla",
+      "SetID": "7km39fm",
+      "Name": "Go, Bobcats!",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 87296
+    },
+    {
+      "ID": "ach_thesacrifice",
+      "SetID": "7km39fm",
+      "Name": "Our True Nature",
+      "Percentage": 27,
+      "XP": 100,
+      "UsersEstimate": 124052
+    },
+    {
+      "ID": "ach_this_is_my_weapon",
+      "SetID": "7km39fm",
+      "Name": "This is My Weapon",
+      "Percentage": 48,
+      "XP": 10,
+      "UsersEstimate": 220537
+    },
+    {
+      "ID": "ach_weapon_wrangler",
+      "SetID": "7km39fm",
+      "Name": "Variety is the Spice of Death",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 22973
+    },
+    {
+      "ID": "ach_welcome_to_hell_a",
+      "SetID": "7km39fm",
+      "Name": "Welcome To Hell-A",
+      "Percentage": 49,
+      "XP": 10,
+      "UsersEstimate": 225132
+    },
+    {
+      "ID": "ach_well_known_survivor",
+      "SetID": "7km39fm",
+      "Name": "Rising Star",
+      "Percentage": 20,
+      "XP": 40,
+      "UsersEstimate": 91891
+    },
+    {
+      "ID": "ach_well_trained",
+      "SetID": "7km39fm",
+      "Name": "Zombicidal Maniac",
+      "Percentage": 0.7,
+      "XP": 50,
+      "UsersEstimate": 3216
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 459127,
-      "Completed": 724
+      "Progressed": 459453,
+      "Completed": 728
     }
   ],
-  "EOS_Completed_Percentage": 0.16,
-  "LastChanged": "2023-05-05T13:03:00.3253748+00:00",
-  "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
-  "ProductSlug": "dead-island-2",
-  "Rating": 4.54,
-  "Ranking_Rating": 476,
-  "Ranking_Popularity": 95,
-  "Ranking_PopularitySum": 146,
-  "Ranking_EOS_Progress": 27,
-  "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewCompleters": 1,
-  "NumberOfAwards": 3031,
-  "NumberOfAwardsMax": 2260,
-  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
-  "Ranking_EOS_NewPlayers": 5
+  "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
+  "LastChanged": "2023-05-05T17:02:38.871753+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:21.324364+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:36.6416316+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:38.8717536+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:21.3244195+00:00"
 }

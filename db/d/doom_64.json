@@ -1,82 +1,16 @@
 {
   "ID": "0ea70edafcc54b3191e262bbb6971981",
   "Name": "DOOM 64",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 1286
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 44
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 41
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 37
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 40
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "",
-      "Type": "",
-      "Count": 26
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 44
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 32
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 45
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 26
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 30
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "doom-64",
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 119,
+  "Ranking_PopularitySum": 199,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.66,
+  "NumberOfRatings": 5134,
   "RatingHistory": [
     {
       "Time": "2022-08-19T16:01:55.9057826+00:00",
@@ -1084,31 +1018,98 @@
       "NumberOfAwardsMax": 1286
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:03:36.9371164+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:53.0854474+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:51.9024356+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-30T20:57:11.284428+00:00",
-  "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "ProductSlug": "doom-64",
-  "Rating": 4.66,
-  "Ranking_Rating": 272,
-  "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 199,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 5134,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 1641,
   "NumberOfAwardsMax": 1286,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 1286
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 44
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 41
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 37
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 40
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "",
+      "Type": "",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 44
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 30
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
+  "LastChanged": "2023-04-30T20:57:11.284428+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:39.8783556+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:44.8525698+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:04:53.8285546+00:00"
 }

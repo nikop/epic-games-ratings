@@ -1,6 +1,37 @@
 {
   "ID": "edecc2d8282c4dc39823e3319d1b8bc1",
   "Name": "Hunt the Night",
+  "ProductSlug": "hunt-the-night-3f1eb5",
+  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-04-14T09:57:55.2658893+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 17,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:14.1963215+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "Achievement_00",
@@ -179,32 +210,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:14.1963215+00:00",
-      "NumProgressed": 17,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-04-14T09:57:55.2658893+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T16:07:49.0612495+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 17,
-  "LastUpdate_Achievements": "2023-05-05T16:07:49.0612665+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:55.7139194+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:13.2197163+00:00",
   "AchievementSets": [
     {
       "ID": "2eim4o3",
@@ -213,16 +218,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
-  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
-  "ProductSlug": "hunt-the-night-3f1eb5",
-  "Ranking_EOS_Progress": 297,
-  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
+  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:32.4003955+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:06.9801186+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:06.1431429+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:32.4004118+00:00"
 }

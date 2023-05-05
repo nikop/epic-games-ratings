@@ -1,22 +1,16 @@
 {
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 83
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "elex-ii",
+  "Ranking_Rating": 765,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.28,
+  "NumberOfRatings": 124,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
@@ -447,29 +441,36 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:04:28.310213+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:00:15.4377654+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:44.6873387+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T19:58:15.532902+00:00",
-  "ProductSlug": "elex-ii",
-  "Rating": 4.28,
-  "Ranking_Rating": 765,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 124,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 83
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-03T19:58:15.532902+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:37.7781906+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:39.8004516+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:07:17.0775642+00:00"
 }

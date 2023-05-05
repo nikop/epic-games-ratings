@@ -1,6 +1,47 @@
 {
   "ID": "0baeb519c8894d96bf89324a121e2437",
   "Name": "The Tale of Bistun",
+  "ProductSlug": "the-tale-of-bistun-9d6c5f",
+  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:10.7723224+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 12,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 8.33,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:55.121207+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T10:08:13.6652627+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T20:05:20.6513629+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 1
+    }
+  ],
+  "TotalAchievements": 38,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "BISTUN_ACHIEVEMENT_0",
@@ -166,9 +207,9 @@
       "ID": "BISTUN_ACHIEVEMENT_27",
       "SetID": "1kdk24p",
       "Name": "Break The Cycle",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_28",
@@ -307,42 +348,6 @@
       "UsersEstimate": 4
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:55.121207+00:00",
-      "NumProgressed": 10,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-26T10:08:13.6652627+00:00",
-      "NumProgressed": 11,
-      "NumCompleted": 1
-    },
-    {
-      "Time": "2023-04-27T20:05:20.6513629+00:00",
-      "NumProgressed": 12,
-      "NumCompleted": 1
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:10.7723224+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 38,
-  "LastChanged_Achievements": "2023-05-05T16:08:06.9349351+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 1,
-  "EOS_Progressed": 12,
-  "LastUpdate_Achievements": "2023-05-05T16:08:06.9349662+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:07.2274719+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:01.391507+00:00",
   "AchievementSets": [
     {
       "ID": "1kdk24p",
@@ -351,16 +356,12 @@
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 8.33,
-  "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
-  "ProductSlug": "the-tale-of-bistun-9d6c5f",
-  "Ranking_EOS_Progress": 301,
-  "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
-  "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
+  "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:45.4797652+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:58.9266832+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:54.2634047+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:45.4797882+00:00"
 }

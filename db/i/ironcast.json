@@ -1,16 +1,16 @@
 {
   "ID": "8e56fc9fc0fb4f18af0592c74ad896ba",
   "Name": "Ironcast",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 36
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "ironcast",
+  "Ranking_Rating": 893,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 3.92,
+  "NumberOfRatings": 238,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.8161904+00:00",
@@ -420,29 +420,30 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:07.3402845+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:46.6506245+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:47.7490121+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-29T20:59:21.9791063+00:00",
-  "ProductSlug": "ironcast",
-  "Rating": 3.92,
-  "Ranking_Rating": 893,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 238,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 36
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:19.8161901+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-29T20:59:21.9791063+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:43.4662734+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:40.118303+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:22.3883975+00:00"
 }

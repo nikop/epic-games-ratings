@@ -1,6 +1,82 @@
 {
   "ID": "18567c7914ad48f594fd4b6e4c710b9f",
   "Name": "JYDGE",
+  "ProductSlug": "jydge-14242d",
+  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-05-03T05:56:54.7929537+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 10,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 7,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-27T23:02:09.1861917+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T00:02:14.4833192+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T02:03:12.2249419+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T00:02:29.0948679+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T18:03:18.3826571+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T22:03:28.0941163+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T15:03:25.1299654+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T21:03:46.6682703+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-02T22:03:16.1719717+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T00:03:24.1192883+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACT_1",
@@ -123,77 +199,6 @@
       "UsersEstimate": 1
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-27T23:02:09.1861917+00:00",
-      "NumProgressed": 1,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T00:02:14.4833192+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T02:03:12.2249419+00:00",
-      "NumProgressed": 3,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T00:02:29.0948679+00:00",
-      "NumProgressed": 4,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T18:03:18.3826571+00:00",
-      "NumProgressed": 5,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T22:03:28.0941163+00:00",
-      "NumProgressed": 6,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T15:03:25.1299654+00:00",
-      "NumProgressed": 7,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T21:03:46.6682703+00:00",
-      "NumProgressed": 8,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-02T22:03:16.1719717+00:00",
-      "NumProgressed": 9,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T00:03:24.1192883+00:00",
-      "NumProgressed": 10,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-05-03T05:56:54.7929537+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T16:07:37.8800987+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 10,
-  "LastUpdate_Achievements": "2023-05-05T16:07:37.8801068+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:58:50.5160535+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:30:50.1202116+00:00",
   "AchievementSets": [
     {
       "ID": "7e5mm2p",
@@ -202,16 +207,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
-  "ProductSlug": "jydge-14242d",
-  "Ranking_EOS_Progress": 305,
-  "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-05-03T05:56:54.792947+00:00",
-  "Ranking_EOS_NewPlayers": 185
+  "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
+  "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
+  "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:24.1319582+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:37.9390167+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:43.1609641+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:24.13197+00:00"
 }

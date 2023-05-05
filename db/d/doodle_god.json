@@ -1,6 +1,57 @@
 {
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
+  "ProductSlug": "doodle-god-f6a7b6",
+  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:36.1213417+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 197,
+  "EOS_Completed": 8,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 4.06,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:26.6583072+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-26T16:04:13.0669206+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T02:04:21.8808459+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-30T06:04:13.7203691+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-01T17:05:49.7391629+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 8
+    }
+  ],
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "605732",
@@ -179,52 +230,6 @@
       "UsersEstimate": 20
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:15:26.6583072+00:00",
-      "NumProgressed": 193,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-26T16:04:13.0669206+00:00",
-      "NumProgressed": 194,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-27T02:04:21.8808459+00:00",
-      "NumProgressed": 195,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-04-30T06:04:13.7203691+00:00",
-      "NumProgressed": 196,
-      "NumCompleted": 8
-    },
-    {
-      "Time": "2023-05-01T17:05:49.7391629+00:00",
-      "NumProgressed": 197,
-      "NumCompleted": 8
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:58:36.1213417+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 22,
-  "LastChanged_Achievements": "2023-05-05T16:07:59.4799935+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2,
-  "EOS_Completed": 8,
-  "EOS_Progressed": 197,
-  "LastUpdate_Achievements": "2023-05-05T16:07:59.4800064+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:36.8907235+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:40.9136101+00:00",
   "AchievementSets": [
     {
       "ID": "4lpaifm",
@@ -233,16 +238,12 @@
       "Completed": 8
     }
   ],
-  "EOS_Completed_Percentage": 4.06,
-  "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
-  "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 222,
-  "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
-  "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
-  "Ranking_EOS_NewPlayers": 212
+  "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
+  "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:40.2487474+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:35.8285201+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:33.4725367+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:40.2487633+00:00"
 }

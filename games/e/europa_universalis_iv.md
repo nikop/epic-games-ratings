@@ -5,40 +5,40 @@ Rating: 4.68 (Ranked 234)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,170  (Ranked 60)  
-Sum: 42,771 (Ranked 26)  
+Sum: 42,780 (Ranked 26)  
 Diff (max vs sum): 34  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,686 |
-| That's a Grand Army | 8.00% | ~2,387 |
-| That is mine! | 8.00% | ~2,387 |
-| Victorious! | 8.00% | ~2,387 |
-| Brothers in Arms | 6.00% | ~1,790 |
-| That's a Grand Navy | 6.00% | ~1,790 |
-| Seriously?! | 6.00% | ~1,790 |
-| For the Glory | 5.00% | ~1,492 |
-| Cold War | 4.00% | ~1,194 |
-| Defender of the Faith | 3.00% | ~895 |
-| It's all about the money | 3.00% | ~895 |
-| Respected | 3.00% | ~895 |
-| True Catholic | 3.00% | ~895 |
-| Blockader | 2.00% | ~597 |
-| Combined Arms | 2.00% | ~597 |
-| Double the Love | 2.00% | ~597 |
-| Gentle Persuasion | 2.00% | ~597 |
-| It's all about luck | 2.00% | ~597 |
-| Queen of Conquest | 2.00% | ~597 |
-| Royal Authority | 2.00% | ~597 |
-| The Princess is in this Castle | 2.00% | ~597 |
-| Total Control | 2.00% | ~597 |
-| Truly Divine Ruler | 2.00% | ~597 |
-| Agressive Expander | 1.00% | ~298 |
-| Azur semé de lis or | 1.00% | ~298 |
-| Bright Spark | 1.00% | ~298 |
-| Factionalism | 1.00% | ~298 |
-| A Golden Empire | 1.00% | ~298 |
-| My armies are invincible! | 1.00% | ~298 |
+| Until death do us apart | 9.00% | ~2,689 |
+| That's a Grand Army | 8.00% | ~2,390 |
+| That is mine! | 8.00% | ~2,390 |
+| Victorious! | 8.00% | ~2,390 |
+| Brothers in Arms | 6.00% | ~1,793 |
+| That's a Grand Navy | 6.00% | ~1,793 |
+| Seriously?! | 6.00% | ~1,793 |
+| For the Glory | 5.00% | ~1,494 |
+| Cold War | 4.00% | ~1,195 |
+| Defender of the Faith | 3.00% | ~896 |
+| It's all about the money | 3.00% | ~896 |
+| Respected | 3.00% | ~896 |
+| True Catholic | 3.00% | ~896 |
+| Blockader | 2.00% | ~598 |
+| Combined Arms | 2.00% | ~598 |
+| Double the Love | 2.00% | ~598 |
+| Gentle Persuasion | 2.00% | ~598 |
+| It's all about luck | 2.00% | ~598 |
+| Queen of Conquest | 2.00% | ~598 |
+| Royal Authority | 2.00% | ~598 |
+| The Princess is in this Castle | 2.00% | ~598 |
+| Total Control | 2.00% | ~598 |
+| Truly Divine Ruler | 2.00% | ~598 |
+| Agressive Expander | 1.00% | ~299 |
+| Azur semé de lis or | 1.00% | ~299 |
+| Bright Spark | 1.00% | ~299 |
+| Factionalism | 1.00% | ~299 |
+| A Golden Empire | 1.00% | ~299 |
+| My armies are invincible! | 1.00% | ~299 |
 | All That's Thine Shall Be Mine | 0.90% | ~269 |
 | City of Cities | 0.90% | ~269 |
 | Isn't this the way to India? | 0.70% | ~209 |
@@ -50,11 +50,11 @@ Diff (max vs sum): 34
 | Electable! | 0.50% | ~149 |
 | Time Bandit | 0.50% | ~149 |
 | Trustworthy | 0.50% | ~149 |
-| All belongs to Mother Russia | 0.40% | ~119 |
-| At every continent | 0.40% | ~119 |
-| Early-Modern Warfare | 0.40% | ~119 |
-| The pen is mightier than the sword | 0.40% | ~119 |
-| Trophy Hunter | 0.40% | ~119 |
+| All belongs to Mother Russia | 0.40% | ~120 |
+| At every continent | 0.40% | ~120 |
+| Early-Modern Warfare | 0.40% | ~120 |
+| The pen is mightier than the sword | 0.40% | ~120 |
+| Trophy Hunter | 0.40% | ~120 |
 | Absolutely | 0.30% | ~90 |
 | Dude, Where's my Boat? | 0.30% | ~90 |
 | In the Name of the Father | 0.30% | ~90 |
@@ -365,7 +365,7 @@ Diff (max vs sum): 34
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,840 (Ranked 82)  
+Progressed: 29,880 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 28,152 | 0 |
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
-| 2023-05-05 | 29,840 | 0 |
+| 2023-05-05 | 29,880 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -390,7 +390,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | This game is Extremely Fun | 4,910 |
 | This game has Diverse Characters | 4,859 |
 | This game is Relaxing | 4,816 |
-| This game has Competitive Players | 4,636 |
+| This game has Competitive Players | 4,645 |
 | This game has Amazing Storytelling | 4,404 |
 | This game has Amazing Characters | 4,084 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -505,4 +505,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
-| 2023-05-05 | 4.68 | - | 5,170 | 42,771 |
+| 2023-05-05 | 4.68 | - | 5,170 | 42,780 |

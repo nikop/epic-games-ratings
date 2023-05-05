@@ -1,6 +1,144 @@
 {
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
+  "ProductSlug": "dice-legacy",
+  "Ranking_Rating": 758,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.29,
+  "RatingHistory": [
+    {
+      "Time": "2023-01-10T11:57:19.8134476+00:00",
+      "Rating": 4.3
+    },
+    {
+      "Time": "2023-01-29T15:57:21.4703796+00:00",
+      "Rating": 4.29
+    },
+    {
+      "Time": "2023-03-31T05:57:30.8917246+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 734,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:44.711754+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T17:57:37.3225449+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T00:03:28.2370573+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T04:03:28.2322961+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T10:03:58.2679009+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T18:02:16.505665+00:00",
+      "NumProgressed": 720,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T05:00:04.0138815+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T12:02:19.2205925+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T22:01:45.7697405+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T10:02:13.019585+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T13:02:39.3580519+00:00",
+      "NumProgressed": 725,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T16:01:53.1219319+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T23:00:13.0912295+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T03:00:01.1645248+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T18:01:58.0866487+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T12:01:36.5622036+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-01T22:02:30.1105513+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T20:02:28.0459656+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T05:02:38.2186119+00:00",
+      "NumProgressed": 733,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T19:39:25.9563318+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 45,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACTIVATE_ALL_TYPEGROUPS",
@@ -363,135 +501,6 @@
       "UsersEstimate": 15
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:44.711754+00:00",
-      "NumProgressed": 715,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-25T17:57:37.3225449+00:00",
-      "NumProgressed": 716,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T00:03:28.2370573+00:00",
-      "NumProgressed": 717,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T04:03:28.2322961+00:00",
-      "NumProgressed": 718,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T10:03:58.2679009+00:00",
-      "NumProgressed": 719,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-26T18:02:16.505665+00:00",
-      "NumProgressed": 720,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T05:00:04.0138815+00:00",
-      "NumProgressed": 721,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T12:02:19.2205925+00:00",
-      "NumProgressed": 722,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T22:01:45.7697405+00:00",
-      "NumProgressed": 723,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T10:02:13.019585+00:00",
-      "NumProgressed": 724,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T13:02:39.3580519+00:00",
-      "NumProgressed": 725,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T16:01:53.1219319+00:00",
-      "NumProgressed": 726,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T23:00:13.0912295+00:00",
-      "NumProgressed": 727,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T03:00:01.1645248+00:00",
-      "NumProgressed": 728,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T18:01:58.0866487+00:00",
-      "NumProgressed": 729,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T12:01:36.5622036+00:00",
-      "NumProgressed": 730,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-01T22:02:30.1105513+00:00",
-      "NumProgressed": 731,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-03T20:02:28.0459656+00:00",
-      "NumProgressed": 732,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T05:02:38.2186119+00:00",
-      "NumProgressed": 733,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-04T19:39:25.9563318+00:00",
-      "NumProgressed": 734,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-01-10T11:57:19.8134476+00:00",
-      "Rating": 4.3
-    },
-    {
-      "Time": "2023-01-29T15:57:21.4703796+00:00",
-      "Rating": 4.29
-    },
-    {
-      "Time": "2023-03-31T05:57:30.8917246+00:00",
-      "Rating": 4.29,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-05T16:07:12.0962756+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 12,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 734,
-  "LastUpdate_Achievements": "2023-05-05T16:07:12.0963276+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:24.9106782+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:12.1793736+00:00",
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
@@ -500,20 +509,12 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
-  "ProductSlug": "dice-legacy",
-  "Rating": 4.29,
-  "Ranking_Rating": 758,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 170,
-  "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
-  "Ranking_EOS_NewPlayers": 167
+  "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
+  "LastChanged": "2023-03-31T05:57:30.891724+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:05.2598117+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:05.915848+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:05.2598533+00:00"
 }

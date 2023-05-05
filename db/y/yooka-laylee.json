@@ -1,16 +1,16 @@
 {
   "ID": "131e306949034972959ca401ca27837e",
   "Name": "Yooka-Laylee",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 22
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "yooka-laylee",
+  "Ranking_Rating": 791,
+  "Ranking_Popularity": 473,
+  "Ranking_PopularitySum": 474,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.23,
+  "NumberOfRatings": 366,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.930045+00:00",
@@ -509,30 +509,31 @@
       "NumberOfAwardsMax": 22
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:40.7786952+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:26.7739685+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:15.0835675+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-01T21:00:49.1478893+00:00",
-  "ProductSlug": "yooka-laylee",
-  "Rating": 4.23,
-  "Ranking_Rating": 791,
-  "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 474,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 366,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 22,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Extremely Fun",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 22
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-05-01T21:00:49.1478893+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:13.0475814+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:07.0383698+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:43.6921699+00:00"
 }

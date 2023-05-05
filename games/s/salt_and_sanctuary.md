@@ -10,19 +10,19 @@ Diff (max vs sum): 42
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,503 |
-| The Three | 64.00% | ~332,725 |
-| The Banquet | 40.00% | ~207,953 |
-| Devara's Light | 30.00% | ~155,965 |
-| The Iron Ones | 18.00% | ~93,579 |
-| The Village | 16.00% | ~83,181 |
+| Find Sanctuary | 83.00% | ~431,507 |
+| The Three | 64.00% | ~332,728 |
+| The Banquet | 40.00% | ~207,955 |
+| Devara's Light | 30.00% | ~155,966 |
+| The Iron Ones | 18.00% | ~93,580 |
+| The Village | 16.00% | ~83,182 |
 | The Forest | 14.00% | ~72,784 |
 | Branded | 13.00% | ~67,585 |
 | The Imposter | 13.00% | ~67,585 |
 | The Keep | 13.00% | ~67,585 |
-| The Castle | 11.00% | ~57,187 |
-| The Dome | 9.00% | ~46,789 |
-| The Red Hall | 9.00% | ~46,789 |
+| The Castle | 11.00% | ~57,188 |
+| The Dome | 9.00% | ~46,790 |
+| The Red Hall | 9.00% | ~46,790 |
 | The Sacrifice | 8.00% | ~41,591 |
 | The Cave | 7.00% | ~36,392 |
 | The Stone Roots | 7.00% | ~36,392 |
@@ -34,12 +34,12 @@ Diff (max vs sum): 42
 | The Alkymancery | 5.00% | ~25,994 |
 | The Lake | 5.00% | ~25,994 |
 | The Pitchwoods | 5.00% | ~25,994 |
-| Honed | 4.00% | ~20,795 |
-| The House of Splendor | 4.00% | ~20,795 |
-| The Crypt | 4.00% | ~20,795 |
-| The Palace | 4.00% | ~20,795 |
-| Find Salvation | 3.00% | ~15,596 |
-| The Unspeakable Deep | 3.00% | ~15,596 |
+| Honed | 4.00% | ~20,796 |
+| The House of Splendor | 4.00% | ~20,796 |
+| The Crypt | 4.00% | ~20,796 |
+| The Palace | 4.00% | ~20,796 |
+| Find Salvation | 3.00% | ~15,597 |
+| The Unspeakable Deep | 3.00% | ~15,597 |
 | Coastrock | 2.00% | ~10,398 |
 | Devoted | 2.00% | ~10,398 |
 | Dominion | 2.00% | ~10,398 |
@@ -48,7 +48,7 @@ Diff (max vs sum): 42
 | Wise Words | 2.00% | ~10,398 |
 | Fading Fast | 1.00% | ~5,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,883 (Ranked 23)  
+Progressed: 519,888 (Ranked 23)  
 Completed: 1,397 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1,397 (0.27%) (Ranked 123)
 | 2023-05-02 | 519,575 | 1,392 |
 | 2023-05-03 | 519,689 | 1,394 |
 | 2023-05-04 | 519,799 | 1,396 |
-| 2023-05-05 | 519,883 | 1,397 |
+| 2023-05-05 | 519,888 | 1,397 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

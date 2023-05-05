@@ -1,113 +1,28 @@
 {
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
-  "Achievements": [
+  "ProductSlug": "blanc-703b40",
+  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
     {
-      "ID": "ANOTHER_RIDE",
-      "SetID": "1a29mp6",
-      "Name": "Another ride!",
-      "Percentage": 0.3,
-      "XP": 200,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "BIG_LEAP",
-      "SetID": "1a29mp6",
-      "Name": "A big leap for wolfkind",
-      "Percentage": 8,
-      "XP": 40,
-      "UsersEstimate": 144
-    },
-    {
-      "ID": "FALLEN_TREE",
-      "SetID": "1a29mp6",
-      "Name": "Sheltered by the fallen tree",
-      "Percentage": 2,
-      "XP": 90,
-      "UsersEstimate": 36
-    },
-    {
-      "ID": "HELPING_LITTLE_ONES",
-      "SetID": "1a29mp6",
-      "Name": "Helping the little ones",
-      "Percentage": 9,
-      "XP": 40,
-      "UsersEstimate": 162
-    },
-    {
-      "ID": "MOVE_ON",
-      "SetID": "1a29mp6",
-      "Name": "The will to move on",
-      "Percentage": 6,
-      "XP": 40,
-      "UsersEstimate": 108
-    },
-    {
-      "ID": "REUNION",
-      "SetID": "1a29mp6",
-      "Name": "Reunion",
-      "Percentage": 6,
-      "XP": 40,
-      "UsersEstimate": 108
-    },
-    {
-      "ID": "SLIDERS",
-      "SetID": "1a29mp6",
-      "Name": "Sliders",
-      "Percentage": 3,
-      "XP": 200,
-      "UsersEstimate": 54
-    },
-    {
-      "ID": "SNOW_RUINS",
-      "SetID": "1a29mp6",
-      "Name": "Snow-covered ruins",
-      "Percentage": 0.4,
-      "XP": 90,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "STARTING_DUO",
-      "SetID": "1a29mp6",
-      "Name": "Starting as a duo",
-      "Percentage": 13,
-      "XP": 40,
-      "UsersEstimate": 234
-    },
-    {
-      "ID": "STRONGER_TOGETHER",
-      "SetID": "1a29mp6",
-      "Name": "Stronger together",
-      "Percentage": 11,
-      "XP": 40,
-      "UsersEstimate": 198
-    },
-    {
-      "ID": "THE_END",
-      "SetID": "1a29mp6",
-      "Name": "The end",
-      "Percentage": 5,
-      "XP": 100,
-      "UsersEstimate": 90
-    },
-    {
-      "ID": "TRANSMISSION",
-      "SetID": "1a29mp6",
-      "Name": "Transmission",
-      "Percentage": 7,
-      "XP": 40,
-      "UsersEstimate": 126
-    },
-    {
-      "ID": "UNEXPECTED_ENCOUNTER",
-      "SetID": "1a29mp6",
-      "Name": "Unexpected encounter",
-      "Percentage": 15,
-      "XP": 40,
-      "UsersEstimate": 270
+      "Time": "2023-03-31T05:58:12.5808395+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 1799,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 20,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.2487989+00:00",
@@ -250,24 +165,114 @@
       "NumCompleted": 4
     }
   ],
-  "RatingHistory": [
+  "TotalAchievements": 13,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
     {
-      "Time": "2023-03-31T05:58:12.5808395+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
+      "ID": "ANOTHER_RIDE",
+      "SetID": "1a29mp6",
+      "Name": "Another ride!",
+      "Percentage": 0.3,
+      "XP": 200,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "BIG_LEAP",
+      "SetID": "1a29mp6",
+      "Name": "A big leap for wolfkind",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 144
+    },
+    {
+      "ID": "FALLEN_TREE",
+      "SetID": "1a29mp6",
+      "Name": "Sheltered by the fallen tree",
+      "Percentage": 2,
+      "XP": 90,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "HELPING_LITTLE_ONES",
+      "SetID": "1a29mp6",
+      "Name": "Helping the little ones",
+      "Percentage": 9,
+      "XP": 40,
+      "UsersEstimate": 162
+    },
+    {
+      "ID": "MOVE_ON",
+      "SetID": "1a29mp6",
+      "Name": "The will to move on",
+      "Percentage": 6,
+      "XP": 40,
+      "UsersEstimate": 108
+    },
+    {
+      "ID": "REUNION",
+      "SetID": "1a29mp6",
+      "Name": "Reunion",
+      "Percentage": 6,
+      "XP": 40,
+      "UsersEstimate": 108
+    },
+    {
+      "ID": "SLIDERS",
+      "SetID": "1a29mp6",
+      "Name": "Sliders",
+      "Percentage": 3,
+      "XP": 200,
+      "UsersEstimate": 54
+    },
+    {
+      "ID": "SNOW_RUINS",
+      "SetID": "1a29mp6",
+      "Name": "Snow-covered ruins",
+      "Percentage": 0.4,
+      "XP": 90,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "STARTING_DUO",
+      "SetID": "1a29mp6",
+      "Name": "Starting as a duo",
+      "Percentage": 13,
+      "XP": 40,
+      "UsersEstimate": 234
+    },
+    {
+      "ID": "STRONGER_TOGETHER",
+      "SetID": "1a29mp6",
+      "Name": "Stronger together",
+      "Percentage": 11,
+      "XP": 40,
+      "UsersEstimate": 198
+    },
+    {
+      "ID": "THE_END",
+      "SetID": "1a29mp6",
+      "Name": "The end",
+      "Percentage": 5,
+      "XP": 100,
+      "UsersEstimate": 90
+    },
+    {
+      "ID": "TRANSMISSION",
+      "SetID": "1a29mp6",
+      "Name": "Transmission",
+      "Percentage": 7,
+      "XP": 40,
+      "UsersEstimate": 126
+    },
+    {
+      "ID": "UNEXPECTED_ENCOUNTER",
+      "SetID": "1a29mp6",
+      "Name": "Unexpected encounter",
+      "Percentage": 15,
+      "XP": 40,
+      "UsersEstimate": 270
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 13,
-  "LastChanged_Achievements": "2023-05-05T16:07:54.8961692+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 21,
-  "EOS_Completed": 4,
-  "EOS_Progressed": 1799,
-  "LastUpdate_Achievements": "2023-05-05T16:07:54.8961817+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:22.5453908+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:30.1659796+00:00",
   "AchievementSets": [
     {
       "ID": "1a29mp6",
@@ -276,16 +281,12 @@
       "Completed": 4
     }
   ],
-  "EOS_Completed_Percentage": 0.22,
-  "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
-  "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 146,
-  "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T02:13:50.7298186+00:00",
-  "Ranking_EOS_NewPlayers": 153
+  "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
+  "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:36.9277912+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:25.9125028+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:24.4933543+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:36.9278023+00:00"
 }

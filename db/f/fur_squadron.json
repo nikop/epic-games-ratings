@@ -1,6 +1,53 @@
 {
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
+  "ProductSlug": "fur-squadron-0042b8",
+  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 6,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:50:54.8735099+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T22:04:15.026923+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T09:39:48.8141914+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-29T14:05:08.3328298+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T13:07:31.4290076+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-05T05:05:09.0760281+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 24,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "COMPLETED_AXEL_1",
@@ -195,50 +242,6 @@
       "UsersEstimate": 0
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T20:50:54.8735099+00:00",
-      "NumProgressed": 1,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-27T22:04:15.026923+00:00",
-      "NumProgressed": 2,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-28T09:39:48.8141914+00:00",
-      "NumProgressed": 3,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-29T14:05:08.3328298+00:00",
-      "NumProgressed": 4,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-04-30T13:07:31.4290076+00:00",
-      "NumProgressed": 5,
-      "NumCompleted": 0
-    },
-    {
-      "Time": "2023-05-05T05:05:09.0760281+00:00",
-      "NumProgressed": 6,
-      "NumCompleted": 0
-    }
-  ],
-  "RatingHistory": [],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-05T16:07:57.6163817+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 6,
-  "LastUpdate_Achievements": "2023-05-05T16:07:57.6163985+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:35.915928+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:40.3569696+00:00",
   "AchievementSets": [
     {
       "ID": "d91enl3",
@@ -247,11 +250,9 @@
       "Completed": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 317,
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "Ranking_EOS_NewPlayers": 202
+  "LastChanged_Achievements": "2023-05-05T17:09:38.844449+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:35.2653701+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:32.9029622+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:38.8444661+00:00"
 }

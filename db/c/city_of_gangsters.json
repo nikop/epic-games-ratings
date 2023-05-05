@@ -1,648 +1,283 @@
 {
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
-  "Achievements": [
-    {
-      "ID": "ach001",
-      "SetID": "1d2iaed",
-      "Name": "Corner Opportunities",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 9274
-    },
-    {
-      "ID": "ach002",
-      "SetID": "1d2iaed",
-      "Name": "Boxing Them In",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 3091
-    },
-    {
-      "ID": "ach003",
-      "SetID": "1d2iaed",
-      "Name": "Cleaning House",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 37097
-    },
-    {
-      "ID": "ach004",
-      "SetID": "1d2iaed",
-      "Name": "One of Us",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 6183
-    },
-    {
-      "ID": "ach005",
-      "SetID": "1d2iaed",
-      "Name": "2122 North Clark Street",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 9274
-    },
-    {
-      "ID": "ach006",
-      "SetID": "1d2iaed",
-      "Name": "Street Knowledge",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
-    },
-    {
-      "ID": "ach007",
-      "SetID": "1d2iaed",
-      "Name": "Boots in the Ground",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 2164
-    },
-    {
-      "ID": "ach008",
-      "SetID": "1d2iaed",
-      "Name": "Room in the Back",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 37097
-    },
-    {
-      "ID": "ach009",
-      "SetID": "1d2iaed",
-      "Name": "Backroom Empire",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 3091
+  "ProductSlug": "city-of-gangsters-6c2974",
+  "Ranking_Rating": 772,
+  "Ranking_Popularity": 469,
+  "Ranking_PopularitySum": 435,
+  "Ranking_EOS_Progress": 37,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.26,
+  "RatingHistory": [
+    {
+      "Time": "2023-02-04T02:04:08.6033841+00:00",
+      "Rating": 3.88
     },
-    {
-      "ID": "ach010",
-      "SetID": "1d2iaed",
-      "Name": "Homemade Hooch",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 1237
+    {
+      "Time": "2023-02-04T10:57:00.1872284+00:00",
+      "Rating": 3.98
     },
-    {
-      "ID": "ach011",
-      "SetID": "1d2iaed",
-      "Name": "Oh Captain",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-02-04T19:57:09.5035774+00:00",
+      "Rating": 3.97
     },
-    {
-      "ID": "ach012",
-      "SetID": "1d2iaed",
-      "Name": "Core Corps",
-      "Percentage": 8,
-      "XP": 10,
-      "UsersEstimate": 24731
+    {
+      "Time": "2023-02-04T23:57:02.239946+00:00",
+      "Rating": 3.98
     },
-    {
-      "ID": "ach013",
-      "SetID": "1d2iaed",
-      "Name": "Baker\u2019s Dozen",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 6183
+    {
+      "Time": "2023-02-05T10:57:09.2746178+00:00",
+      "Rating": 3.91
     },
-    {
-      "ID": "ach014",
-      "SetID": "1d2iaed",
-      "Name": "Fronting the Money",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 43280
+    {
+      "Time": "2023-02-06T10:57:02.2825876+00:00",
+      "Rating": 3.95
     },
-    {
-      "ID": "ach015",
-      "SetID": "1d2iaed",
-      "Name": "Branching Out",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-02-06T17:57:00.3147438+00:00",
+      "Rating": 3.98
     },
-    {
-      "ID": "ach016",
-      "SetID": "1d2iaed",
-      "Name": "Corner Control",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 3091
+    {
+      "Time": "2023-02-06T18:57:11.9873621+00:00",
+      "Rating": 4
     },
-    {
-      "ID": "ach017",
-      "SetID": "1d2iaed",
-      "Name": "Dirty Money",
-      "Percentage": 12,
-      "XP": 5,
-      "UsersEstimate": 37097
+    {
+      "Time": "2023-02-06T20:57:16.136825+00:00",
+      "Rating": 4.01
     },
-    {
-      "ID": "ach018",
-      "SetID": "1d2iaed",
-      "Name": "Sizeable Stash",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 21640
+    {
+      "Time": "2023-02-07T17:57:06.1027149+00:00",
+      "Rating": 4.09
     },
-    {
-      "ID": "ach019",
-      "SetID": "1d2iaed",
-      "Name": "Considerable Clams",
-      "Percentage": 4,
-      "XP": 15,
-      "UsersEstimate": 12366
+    {
+      "Time": "2023-02-07T20:56:57.3480632+00:00",
+      "Rating": 4.08
     },
-    {
-      "ID": "ach020",
-      "SetID": "1d2iaed",
-      "Name": "Copious Cabbage",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 9274
+    {
+      "Time": "2023-02-08T04:57:22.2493411+00:00",
+      "Rating": 4.09
     },
-    {
-      "ID": "ach021",
-      "SetID": "1d2iaed",
-      "Name": "Sockdolager",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 9274
+    {
+      "Time": "2023-02-08T14:57:01.2399469+00:00",
+      "Rating": 4.08
     },
-    {
-      "ID": "ach022",
-      "SetID": "1d2iaed",
-      "Name": "Full House",
-      "Percentage": 1,
-      "XP": 40,
-      "UsersEstimate": 3091
+    {
+      "Time": "2023-02-08T21:57:05.2299774+00:00",
+      "Rating": 4.09
     },
-    {
-      "ID": "ach023",
-      "SetID": "1d2iaed",
-      "Name": "Windy City Win",
-      "Percentage": 0.1,
-      "XP": 40,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-02-09T03:09:28.4343071+00:00",
+      "Rating": 4.1
     },
-    {
-      "ID": "ach024",
-      "SetID": "1d2iaed",
-      "Name": "Steeling Victory",
-      "Percentage": 0.1,
-      "XP": 40,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-02-09T04:57:15.8941495+00:00",
+      "Rating": 4.09
     },
-    {
-      "ID": "ach025",
-      "SetID": "1d2iaed",
-      "Name": "Queen of the City",
-      "Percentage": 0.1,
-      "XP": 40,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-02-09T15:56:54.8481976+00:00",
+      "Rating": 4.14
     },
-    {
-      "ID": "ach026",
-      "SetID": "1d2iaed",
-      "Name": "Vehicles to Victory",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-02-10T03:57:02.0353048+00:00",
+      "Rating": 4.15
     },
-    {
-      "ID": "ach027",
-      "SetID": "1d2iaed",
-      "Name": "Corner Clout",
-      "Percentage": 46,
-      "XP": 10,
-      "UsersEstimate": 142204
+    {
+      "Time": "2023-02-10T13:12:15.469496+00:00",
+      "Rating": 4.17
     },
-    {
-      "ID": "ach028",
-      "SetID": "1d2iaed",
-      "Name": "Gin Joint",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 12366
+    {
+      "Time": "2023-02-10T14:56:55.3898671+00:00",
+      "Rating": 4.16
     },
-    {
-      "ID": "ach029",
-      "SetID": "1d2iaed",
-      "Name": "Beating the Heat",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 30914
+    {
+      "Time": "2023-02-10T16:56:56.0599679+00:00",
+      "Rating": 4.17
     },
-    {
-      "ID": "ach030",
-      "SetID": "1d2iaed",
-      "Name": "Dropping the Dime",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 6183
+    {
+      "Time": "2023-02-10T21:56:52.0392146+00:00",
+      "Rating": 4.18
     },
-    {
-      "ID": "ach031",
-      "SetID": "1d2iaed",
-      "Name": "Dirty Work",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 618
+    {
+      "Time": "2023-02-11T13:56:58.6087879+00:00",
+      "Rating": 4.16
     },
-    {
-      "ID": "ach032",
-      "SetID": "1d2iaed",
-      "Name": "An Affront to the Enemy",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 12366
+    {
+      "Time": "2023-02-11T23:56:55.8557552+00:00",
+      "Rating": 4.17
     },
-    {
-      "ID": "ach033",
-      "SetID": "1d2iaed",
-      "Name": "Getting Fancy",
-      "Percentage": 0.7,
-      "XP": 15,
-      "UsersEstimate": 2164
+    {
+      "Time": "2023-02-12T06:57:04.1269743+00:00",
+      "Rating": 4.18
     },
-    {
-      "ID": "ach034",
-      "SetID": "1d2iaed",
-      "Name": "Putting on the Ritz",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-02-12T11:57:01.3481161+00:00",
+      "Rating": 4.17
     },
-    {
-      "ID": "ach035",
-      "SetID": "1d2iaed",
-      "Name": "Bottled Up",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 927
+    {
+      "Time": "2023-02-13T13:13:36.7280735+00:00",
+      "Rating": 4.16
     },
-    {
-      "ID": "ach036",
-      "SetID": "1d2iaed",
-      "Name": "Still Dreaming",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 1237
+    {
+      "Time": "2023-02-13T17:57:08.0561182+00:00",
+      "Rating": 4.17
     },
-    {
-      "ID": "ach037",
-      "SetID": "1d2iaed",
-      "Name": "High End Booze",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 1237
+    {
+      "Time": "2023-02-14T14:56:57.5583086+00:00",
+      "Rating": 4.18
     },
-    {
-      "ID": "ach038",
-      "SetID": "1d2iaed",
-      "Name": "The Rubber Meets the Road",
-      "Percentage": 0.9,
-      "XP": 20,
-      "UsersEstimate": 2782
+    {
+      "Time": "2023-02-15T11:57:09.8198132+00:00",
+      "Rating": 4.19
     },
-    {
-      "ID": "ach039",
-      "SetID": "1d2iaed",
-      "Name": "Friends on the Force",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 30914
+    {
+      "Time": "2023-02-16T13:13:12.5574773+00:00",
+      "Rating": 4.18
     },
-    {
-      "ID": "ach040",
-      "SetID": "1d2iaed",
-      "Name": "Improvement Missions",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-02-16T14:57:17.4377445+00:00",
+      "Rating": 4.19
     },
-    {
-      "ID": "ach041",
-      "SetID": "1d2iaed",
-      "Name": "Streetwise",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 927
+    {
+      "Time": "2023-02-17T17:57:06.0141746+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "ach042",
-      "SetID": "1d2iaed",
-      "Name": "Opportunity Knocked",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-02-18T10:57:18.0581845+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "ach043",
-      "SetID": "1d2iaed",
-      "Name": "Street Fighter",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 21640
+    {
+      "Time": "2023-02-18T11:57:04.2593904+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "ach044",
-      "SetID": "1d2iaed",
-      "Name": "Friends from Back Home",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 12366
+    {
+      "Time": "2023-02-19T14:56:54.4172086+00:00",
+      "Rating": 4.19
     },
-    {
-      "ID": "ach045",
-      "SetID": "1d2iaed",
-      "Name": "Family First",
-      "Percentage": 13,
-      "XP": 10,
-      "UsersEstimate": 40188
+    {
+      "Time": "2023-02-20T03:12:16.8383141+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "ach046",
-      "SetID": "1d2iaed",
-      "Name": "Friendly Gestures",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 21640
+    {
+      "Time": "2023-02-23T17:57:00.5099421+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "ach047",
-      "SetID": "1d2iaed",
-      "Name": "Crossing Over",
-      "Percentage": 0.8,
-      "XP": 20,
-      "UsersEstimate": 2473
+    {
+      "Time": "2023-02-24T04:57:07.5673521+00:00",
+      "Rating": 4.2
     },
-    {
-      "ID": "ach048",
-      "SetID": "1d2iaed",
-      "Name": "Balkan Firewater",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 618
+    {
+      "Time": "2023-02-24T15:57:13.0227937+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "ach049",
-      "SetID": "1d2iaed",
-      "Name": "Bourbon Barrels",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-02-26T13:56:52.1839045+00:00",
+      "Rating": 4.22
     },
-    {
-      "ID": "ach050",
-      "SetID": "1d2iaed",
-      "Name": "City of Big Shoulders",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-02-27T19:57:09.256086+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "ach051",
-      "SetID": "1d2iaed",
-      "Name": "Booze Baron",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 34005
+    {
+      "Time": "2023-02-28T13:14:26.4885999+00:00",
+      "Rating": 4.22
     },
-    {
-      "ID": "ach052",
-      "SetID": "1d2iaed",
-      "Name": "Liquor Lord",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 18548
+    {
+      "Time": "2023-02-28T20:56:55.8280954+00:00",
+      "Rating": 4.21
     },
-    {
-      "ID": "ach053",
-      "SetID": "1d2iaed",
-      "Name": "Still Stalwart",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 9274
+    {
+      "Time": "2023-03-04T02:10:13.2689952+00:00",
+      "Rating": 4.22
     },
-    {
-      "ID": "ach054",
-      "SetID": "1d2iaed",
-      "Name": "Bees Knees Bootlegger",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 9274
+    {
+      "Time": "2023-03-05T15:57:11.7323549+00:00",
+      "Rating": 4.23
     },
-    {
-      "ID": "ach055",
-      "SetID": "1d2iaed",
-      "Name": "Spiffy Speakeasies",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 6183
+    {
+      "Time": "2023-03-08T02:18:10.8903361+00:00",
+      "Rating": 4.24
     },
-    {
-      "ID": "ach056",
-      "SetID": "1d2iaed",
-      "Name": "Cat\u2019s Meow Clubs",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 3091
+    {
+      "Time": "2023-03-08T15:57:04.3337595+00:00",
+      "Rating": 4.23
     },
-    {
-      "ID": "ach057",
-      "SetID": "1d2iaed",
-      "Name": "Working on the Railroad",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 1237
+    {
+      "Time": "2023-03-12T03:57:20.125191+00:00",
+      "Rating": 4.24
     },
-    {
-      "ID": "ach058",
-      "SetID": "1d2iaed",
-      "Name": "Tighten the Screws",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 9274
+    {
+      "Time": "2023-03-31T05:57:03.098879+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
-    {
-      "ID": "ach059",
-      "SetID": "1d2iaed",
-      "Name": "Neighborhood Watch",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 30914
+    {
+      "Time": "2023-03-31T15:56:50.3888293+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
-    {
-      "ID": "ach060",
-      "SetID": "1d2iaed",
-      "Name": "Safety in Numbers",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-04-08T21:57:21.1207506+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     },
-    {
-      "ID": "ach061",
-      "SetID": "1d2iaed",
-      "Name": "Keeping Your Word",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 6183
+    {
+      "Time": "2023-04-12T05:57:01.8592705+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 20
     },
-    {
-      "ID": "ach062",
-      "SetID": "1d2iaed",
-      "Name": "Tied Houses",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-04-13T17:57:12.05138+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     },
-    {
-      "ID": "ach064",
-      "SetID": "1d2iaed",
-      "Name": "Moving Experiences",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
+    {
+      "Time": "2023-04-24T16:57:07.076155+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
     },
-    {
-      "ID": "ach065",
-      "SetID": "1d2iaed",
-      "Name": "Determined Deliveries",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 2782
+    {
+      "Time": "2023-04-30T15:57:24.9421715+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 22
     },
-    {
-      "ID": "ach066",
-      "SetID": "1d2iaed",
-      "Name": "The Dawn of Automation",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 43280
+    {
+      "Time": "2023-05-01T11:57:31.6010625+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 23
     },
-    {
-      "ID": "ach067",
-      "SetID": "1d2iaed",
-      "Name": "Stepping It Up",
-      "Percentage": 0.9,
-      "XP": 10,
-      "UsersEstimate": 2782
+    {
+      "Time": "2023-05-01T15:57:31.1984173+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 23
     },
-    {
-      "ID": "ach068",
-      "SetID": "1d2iaed",
-      "Name": "Copacetic Coordination",
-      "Percentage": 16,
-      "XP": 10,
-      "UsersEstimate": 49462
+    {
+      "Time": "2023-05-03T05:57:27.5277805+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 23
     },
-    {
-      "ID": "ach069",
-      "SetID": "1d2iaed",
-      "Name": "Extraordinary Logistics",
-      "Percentage": 14,
-      "XP": 10,
-      "UsersEstimate": 43280
-    },
-    {
-      "ID": "ach070",
-      "SetID": "1d2iaed",
-      "Name": "Laying Low",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
-    },
-    {
-      "ID": "ach071",
-      "SetID": "1d2iaed",
-      "Name": "Mission Mastery",
-      "Percentage": 5,
-      "XP": 20,
-      "UsersEstimate": 15457
-    },
-    {
-      "ID": "ach072",
-      "SetID": "1d2iaed",
-      "Name": "Wise Head",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
-    },
-    {
-      "ID": "ach073",
-      "SetID": "1d2iaed",
-      "Name": "Show \u2018em the Sugar",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 18548
-    },
-    {
-      "ID": "ach074",
-      "SetID": "1d2iaed",
-      "Name": "Half Century Mark",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 12366
-    },
-    {
-      "ID": "ach075",
-      "SetID": "1d2iaed",
-      "Name": "Killing Them Softly",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 15457
-    },
-    {
-      "ID": "ach076",
-      "SetID": "1d2iaed",
-      "Name": "No Applesauce",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
-    },
-    {
-      "ID": "ach077",
-      "SetID": "1d2iaed",
-      "Name": "In-House Maintenance",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 927
-    },
-    {
-      "ID": "ach078",
-      "SetID": "1d2iaed",
-      "Name": "People Person",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 18548
-    },
-    {
-      "ID": "ach079",
-      "SetID": "1d2iaed",
-      "Name": "Social Butterfly",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 1237
-    },
-    {
-      "ID": "ach080",
-      "SetID": "1d2iaed",
-      "Name": "High Pillow",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
-    },
-    {
-      "ID": "ach081",
-      "SetID": "1d2iaed",
-      "Name": "Station Master",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 309
+    {
+      "Time": "2023-05-04T18:57:26.0331373+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 23
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 46,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -657,6 +292,11 @@
       "Count": 23
     }
   ],
+  "EOS_Progressed": 309157,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 2848,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:55.8180368+00:00",
@@ -1842,305 +1482,671 @@
       "Time": "2023-05-05T16:07:28.3917373+00:00",
       "NumProgressed": 309140,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-05T17:09:17.0601163+00:00",
+      "NumProgressed": 309157,
+      "NumCompleted": 3
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-02-04T02:04:08.6033841+00:00",
-      "Rating": 3.88
-    },
-    {
-      "Time": "2023-02-04T10:57:00.1872284+00:00",
-      "Rating": 3.98
-    },
-    {
-      "Time": "2023-02-04T19:57:09.5035774+00:00",
-      "Rating": 3.97
-    },
-    {
-      "Time": "2023-02-04T23:57:02.239946+00:00",
-      "Rating": 3.98
-    },
-    {
-      "Time": "2023-02-05T10:57:09.2746178+00:00",
-      "Rating": 3.91
-    },
-    {
-      "Time": "2023-02-06T10:57:02.2825876+00:00",
-      "Rating": 3.95
-    },
-    {
-      "Time": "2023-02-06T17:57:00.3147438+00:00",
-      "Rating": 3.98
-    },
-    {
-      "Time": "2023-02-06T18:57:11.9873621+00:00",
-      "Rating": 4
-    },
-    {
-      "Time": "2023-02-06T20:57:16.136825+00:00",
-      "Rating": 4.01
-    },
-    {
-      "Time": "2023-02-07T17:57:06.1027149+00:00",
-      "Rating": 4.09
-    },
-    {
-      "Time": "2023-02-07T20:56:57.3480632+00:00",
-      "Rating": 4.08
-    },
-    {
-      "Time": "2023-02-08T04:57:22.2493411+00:00",
-      "Rating": 4.09
-    },
-    {
-      "Time": "2023-02-08T14:57:01.2399469+00:00",
-      "Rating": 4.08
-    },
-    {
-      "Time": "2023-02-08T21:57:05.2299774+00:00",
-      "Rating": 4.09
-    },
-    {
-      "Time": "2023-02-09T03:09:28.4343071+00:00",
-      "Rating": 4.1
-    },
-    {
-      "Time": "2023-02-09T04:57:15.8941495+00:00",
-      "Rating": 4.09
-    },
-    {
-      "Time": "2023-02-09T15:56:54.8481976+00:00",
-      "Rating": 4.14
-    },
-    {
-      "Time": "2023-02-10T03:57:02.0353048+00:00",
-      "Rating": 4.15
-    },
-    {
-      "Time": "2023-02-10T13:12:15.469496+00:00",
-      "Rating": 4.17
-    },
-    {
-      "Time": "2023-02-10T14:56:55.3898671+00:00",
-      "Rating": 4.16
-    },
-    {
-      "Time": "2023-02-10T16:56:56.0599679+00:00",
-      "Rating": 4.17
-    },
-    {
-      "Time": "2023-02-10T21:56:52.0392146+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2023-02-11T13:56:58.6087879+00:00",
-      "Rating": 4.16
-    },
-    {
-      "Time": "2023-02-11T23:56:55.8557552+00:00",
-      "Rating": 4.17
-    },
-    {
-      "Time": "2023-02-12T06:57:04.1269743+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2023-02-12T11:57:01.3481161+00:00",
-      "Rating": 4.17
-    },
-    {
-      "Time": "2023-02-13T13:13:36.7280735+00:00",
-      "Rating": 4.16
-    },
-    {
-      "Time": "2023-02-13T17:57:08.0561182+00:00",
-      "Rating": 4.17
-    },
-    {
-      "Time": "2023-02-14T14:56:57.5583086+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2023-02-15T11:57:09.8198132+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-02-16T13:13:12.5574773+00:00",
-      "Rating": 4.18
-    },
-    {
-      "Time": "2023-02-16T14:57:17.4377445+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-02-17T17:57:06.0141746+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-02-18T10:57:18.0581845+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-02-18T11:57:04.2593904+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-02-19T14:56:54.4172086+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-02-20T03:12:16.8383141+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-02-23T17:57:00.5099421+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-02-24T04:57:07.5673521+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-02-24T15:57:13.0227937+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-02-26T13:56:52.1839045+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2023-02-27T19:57:09.256086+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-02-28T13:14:26.4885999+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2023-02-28T20:56:55.8280954+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-03-04T02:10:13.2689952+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2023-03-05T15:57:11.7323549+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2023-03-08T02:18:10.8903361+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2023-03-08T15:57:04.3337595+00:00",
-      "Rating": 4.23
-    },
-    {
-      "Time": "2023-03-12T03:57:20.125191+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2023-03-31T05:57:03.098879+00:00",
-      "Rating": 4.24,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-03-31T15:56:50.3888293+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-08T21:57:21.1207506+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 20,
-      "NumberOfAwardsMax": 20
-    },
-    {
-      "Time": "2023-04-12T05:57:01.8592705+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 40,
-      "NumberOfAwardsMax": 20
-    },
-    {
-      "Time": "2023-04-13T17:57:12.05138+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 41,
-      "NumberOfAwardsMax": 21
-    },
-    {
-      "Time": "2023-04-24T16:57:07.076155+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 42,
-      "NumberOfAwardsMax": 22
-    },
-    {
-      "Time": "2023-04-30T15:57:24.9421715+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 43,
-      "NumberOfAwardsMax": 22
-    },
-    {
-      "Time": "2023-05-01T11:57:31.6010625+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 44,
-      "NumberOfAwardsMax": 23
-    },
-    {
-      "Time": "2023-05-01T15:57:31.1984173+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 45,
-      "NumberOfAwardsMax": 23
-    },
-    {
-      "Time": "2023-05-03T05:57:27.5277805+00:00",
-      "Rating": 4.25,
-      "NumberOfAwards": 46,
-      "NumberOfAwardsMax": 23
-    },
-    {
-      "Time": "2023-05-04T18:57:26.0331373+00:00",
-      "Rating": 4.26,
-      "NumberOfAwards": 46,
-      "NumberOfAwardsMax": 23
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 80,
-  "LastChanged_Achievements": "2023-05-05T16:07:28.391737+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2851,
-  "EOS_Completed": 3,
-  "EOS_Progressed": 309140,
-  "LastUpdate_Achievements": "2023-05-05T16:07:28.3918302+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:28.2272901+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:14.1341414+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach001",
+      "SetID": "1d2iaed",
+      "Name": "Corner Opportunities",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach002",
+      "SetID": "1d2iaed",
+      "Name": "Boxing Them In",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 3092
+    },
+    {
+      "ID": "ach003",
+      "SetID": "1d2iaed",
+      "Name": "Cleaning House",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 37099
+    },
+    {
+      "ID": "ach004",
+      "SetID": "1d2iaed",
+      "Name": "One of Us",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 6183
+    },
+    {
+      "ID": "ach005",
+      "SetID": "1d2iaed",
+      "Name": "2122 North Clark Street",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach006",
+      "SetID": "1d2iaed",
+      "Name": "Street Knowledge",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach007",
+      "SetID": "1d2iaed",
+      "Name": "Boots in the Ground",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 2164
+    },
+    {
+      "ID": "ach008",
+      "SetID": "1d2iaed",
+      "Name": "Room in the Back",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 37099
+    },
+    {
+      "ID": "ach009",
+      "SetID": "1d2iaed",
+      "Name": "Backroom Empire",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 3092
+    },
+    {
+      "ID": "ach010",
+      "SetID": "1d2iaed",
+      "Name": "Homemade Hooch",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 1237
+    },
+    {
+      "ID": "ach011",
+      "SetID": "1d2iaed",
+      "Name": "Oh Captain",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach012",
+      "SetID": "1d2iaed",
+      "Name": "Core Corps",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 24733
+    },
+    {
+      "ID": "ach013",
+      "SetID": "1d2iaed",
+      "Name": "Baker\u2019s Dozen",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 6183
+    },
+    {
+      "ID": "ach014",
+      "SetID": "1d2iaed",
+      "Name": "Fronting the Money",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 43282
+    },
+    {
+      "ID": "ach015",
+      "SetID": "1d2iaed",
+      "Name": "Branching Out",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach016",
+      "SetID": "1d2iaed",
+      "Name": "Corner Control",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 3092
+    },
+    {
+      "ID": "ach017",
+      "SetID": "1d2iaed",
+      "Name": "Dirty Money",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 37099
+    },
+    {
+      "ID": "ach018",
+      "SetID": "1d2iaed",
+      "Name": "Sizeable Stash",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 21641
+    },
+    {
+      "ID": "ach019",
+      "SetID": "1d2iaed",
+      "Name": "Considerable Clams",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 12366
+    },
+    {
+      "ID": "ach020",
+      "SetID": "1d2iaed",
+      "Name": "Copious Cabbage",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach021",
+      "SetID": "1d2iaed",
+      "Name": "Sockdolager",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach022",
+      "SetID": "1d2iaed",
+      "Name": "Full House",
+      "Percentage": 1,
+      "XP": 40,
+      "UsersEstimate": 3092
+    },
+    {
+      "ID": "ach023",
+      "SetID": "1d2iaed",
+      "Name": "Windy City Win",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach024",
+      "SetID": "1d2iaed",
+      "Name": "Steeling Victory",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach025",
+      "SetID": "1d2iaed",
+      "Name": "Queen of the City",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach026",
+      "SetID": "1d2iaed",
+      "Name": "Vehicles to Victory",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach027",
+      "SetID": "1d2iaed",
+      "Name": "Corner Clout",
+      "Percentage": 46,
+      "XP": 10,
+      "UsersEstimate": 142212
+    },
+    {
+      "ID": "ach028",
+      "SetID": "1d2iaed",
+      "Name": "Gin Joint",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 12366
+    },
+    {
+      "ID": "ach029",
+      "SetID": "1d2iaed",
+      "Name": "Beating the Heat",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 30916
+    },
+    {
+      "ID": "ach030",
+      "SetID": "1d2iaed",
+      "Name": "Dropping the Dime",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 6183
+    },
+    {
+      "ID": "ach031",
+      "SetID": "1d2iaed",
+      "Name": "Dirty Work",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 618
+    },
+    {
+      "ID": "ach032",
+      "SetID": "1d2iaed",
+      "Name": "An Affront to the Enemy",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 12366
+    },
+    {
+      "ID": "ach033",
+      "SetID": "1d2iaed",
+      "Name": "Getting Fancy",
+      "Percentage": 0.7,
+      "XP": 15,
+      "UsersEstimate": 2164
+    },
+    {
+      "ID": "ach034",
+      "SetID": "1d2iaed",
+      "Name": "Putting on the Ritz",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach035",
+      "SetID": "1d2iaed",
+      "Name": "Bottled Up",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 927
+    },
+    {
+      "ID": "ach036",
+      "SetID": "1d2iaed",
+      "Name": "Still Dreaming",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 1237
+    },
+    {
+      "ID": "ach037",
+      "SetID": "1d2iaed",
+      "Name": "High End Booze",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 1237
+    },
+    {
+      "ID": "ach038",
+      "SetID": "1d2iaed",
+      "Name": "The Rubber Meets the Road",
+      "Percentage": 0.9,
+      "XP": 20,
+      "UsersEstimate": 2782
+    },
+    {
+      "ID": "ach039",
+      "SetID": "1d2iaed",
+      "Name": "Friends on the Force",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 30916
+    },
+    {
+      "ID": "ach040",
+      "SetID": "1d2iaed",
+      "Name": "Improvement Missions",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach041",
+      "SetID": "1d2iaed",
+      "Name": "Streetwise",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 927
+    },
+    {
+      "ID": "ach042",
+      "SetID": "1d2iaed",
+      "Name": "Opportunity Knocked",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach043",
+      "SetID": "1d2iaed",
+      "Name": "Street Fighter",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 21641
+    },
+    {
+      "ID": "ach044",
+      "SetID": "1d2iaed",
+      "Name": "Friends from Back Home",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 12366
+    },
+    {
+      "ID": "ach045",
+      "SetID": "1d2iaed",
+      "Name": "Family First",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 40190
+    },
+    {
+      "ID": "ach046",
+      "SetID": "1d2iaed",
+      "Name": "Friendly Gestures",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 21641
+    },
+    {
+      "ID": "ach047",
+      "SetID": "1d2iaed",
+      "Name": "Crossing Over",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 2473
+    },
+    {
+      "ID": "ach048",
+      "SetID": "1d2iaed",
+      "Name": "Balkan Firewater",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 618
+    },
+    {
+      "ID": "ach049",
+      "SetID": "1d2iaed",
+      "Name": "Bourbon Barrels",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach050",
+      "SetID": "1d2iaed",
+      "Name": "City of Big Shoulders",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach051",
+      "SetID": "1d2iaed",
+      "Name": "Booze Baron",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 34007
+    },
+    {
+      "ID": "ach052",
+      "SetID": "1d2iaed",
+      "Name": "Liquor Lord",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 18549
+    },
+    {
+      "ID": "ach053",
+      "SetID": "1d2iaed",
+      "Name": "Still Stalwart",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach054",
+      "SetID": "1d2iaed",
+      "Name": "Bees Knees Bootlegger",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach055",
+      "SetID": "1d2iaed",
+      "Name": "Spiffy Speakeasies",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 6183
+    },
+    {
+      "ID": "ach056",
+      "SetID": "1d2iaed",
+      "Name": "Cat\u2019s Meow Clubs",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 3092
+    },
+    {
+      "ID": "ach057",
+      "SetID": "1d2iaed",
+      "Name": "Working on the Railroad",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 1237
+    },
+    {
+      "ID": "ach058",
+      "SetID": "1d2iaed",
+      "Name": "Tighten the Screws",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 9275
+    },
+    {
+      "ID": "ach059",
+      "SetID": "1d2iaed",
+      "Name": "Neighborhood Watch",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 30916
+    },
+    {
+      "ID": "ach060",
+      "SetID": "1d2iaed",
+      "Name": "Safety in Numbers",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach061",
+      "SetID": "1d2iaed",
+      "Name": "Keeping Your Word",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 6183
+    },
+    {
+      "ID": "ach062",
+      "SetID": "1d2iaed",
+      "Name": "Tied Houses",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach064",
+      "SetID": "1d2iaed",
+      "Name": "Moving Experiences",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach065",
+      "SetID": "1d2iaed",
+      "Name": "Determined Deliveries",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 2782
+    },
+    {
+      "ID": "ach066",
+      "SetID": "1d2iaed",
+      "Name": "The Dawn of Automation",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 43282
+    },
+    {
+      "ID": "ach067",
+      "SetID": "1d2iaed",
+      "Name": "Stepping It Up",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 2782
+    },
+    {
+      "ID": "ach068",
+      "SetID": "1d2iaed",
+      "Name": "Copacetic Coordination",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 49465
+    },
+    {
+      "ID": "ach069",
+      "SetID": "1d2iaed",
+      "Name": "Extraordinary Logistics",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 43282
+    },
+    {
+      "ID": "ach070",
+      "SetID": "1d2iaed",
+      "Name": "Laying Low",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach071",
+      "SetID": "1d2iaed",
+      "Name": "Mission Mastery",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach072",
+      "SetID": "1d2iaed",
+      "Name": "Wise Head",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach073",
+      "SetID": "1d2iaed",
+      "Name": "Show \u2018em the Sugar",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 18549
+    },
+    {
+      "ID": "ach074",
+      "SetID": "1d2iaed",
+      "Name": "Half Century Mark",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 12366
+    },
+    {
+      "ID": "ach075",
+      "SetID": "1d2iaed",
+      "Name": "Killing Them Softly",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 15458
+    },
+    {
+      "ID": "ach076",
+      "SetID": "1d2iaed",
+      "Name": "No Applesauce",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach077",
+      "SetID": "1d2iaed",
+      "Name": "In-House Maintenance",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 927
+    },
+    {
+      "ID": "ach078",
+      "SetID": "1d2iaed",
+      "Name": "People Person",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 18549
+    },
+    {
+      "ID": "ach079",
+      "SetID": "1d2iaed",
+      "Name": "Social Butterfly",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 1237
+    },
+    {
+      "ID": "ach080",
+      "SetID": "1d2iaed",
+      "Name": "High Pillow",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    },
+    {
+      "ID": "ach081",
+      "SetID": "1d2iaed",
+      "Name": "Station Master",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 309
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 309140,
+      "Progressed": 309157,
       "Completed": 3
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T18:57:26.033137+00:00",
-  "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "ProductSlug": "city-of-gangsters-6c2974",
-  "Rating": 4.26,
-  "Ranking_Rating": 772,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 435,
-  "Ranking_EOS_Progress": 37,
-  "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
-  "Ranking_EOS_NewPlayers": 27
+  "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
+  "LastChanged": "2023-05-04T18:57:26.033137+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:17.0601158+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:59:04.018931+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:02:08.0577832+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:17.0602895+00:00"
 }

@@ -1,313 +1,15 @@
 {
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
-  "Achievements": [
-    {
-      "ID": "ACH_ANCIENT_CURSE",
-      "SetID": "4kfb9pd",
-      "Name": "Ancient Curse",
-      "Percentage": 27,
-      "XP": 80,
-      "UsersEstimate": 619
-    },
-    {
-      "ID": "ACH_CASE_CLOSED",
-      "SetID": "4kfb9pd",
-      "Name": "Case Closed",
-      "Percentage": 35,
-      "XP": 55,
-      "UsersEstimate": 803
-    },
-    {
-      "ID": "ACH_CAT_LOVER",
-      "SetID": "4kfb9pd",
-      "Name": "Cat Person",
-      "Percentage": 25,
-      "XP": 80,
-      "UsersEstimate": 573
-    },
-    {
-      "ID": "ACH_CLIMBER",
-      "SetID": "4kfb9pd",
-      "Name": "Climber",
-      "Percentage": 23,
-      "XP": 80,
-      "UsersEstimate": 527
-    },
-    {
-      "ID": "ACH_DOG_LOVER",
-      "SetID": "4kfb9pd",
-      "Name": "Dog Person",
-      "Percentage": 19,
-      "XP": 80,
-      "UsersEstimate": 436
-    },
-    {
-      "ID": "ACH_EASY_AS_PIE",
-      "SetID": "4kfb9pd",
-      "Name": "Easy As Pie",
-      "Percentage": 32,
-      "XP": 55,
-      "UsersEstimate": 734
-    },
-    {
-      "ID": "ACH_FAMILY_LOST",
-      "SetID": "4kfb9pd",
-      "Name": "Family Lost",
-      "Percentage": 31,
-      "XP": 80,
-      "UsersEstimate": 711
-    },
-    {
-      "ID": "ACH_HIDDEN_SECRETS",
-      "SetID": "4kfb9pd",
-      "Name": "Hidden Secrets",
-      "Percentage": 23,
-      "XP": 80,
-      "UsersEstimate": 527
-    },
-    {
-      "ID": "ACH_IMPRISONMENT",
-      "SetID": "4kfb9pd",
-      "Name": "Imprisonment",
-      "Percentage": 22,
-      "XP": 80,
-      "UsersEstimate": 504
-    },
-    {
-      "ID": "ACH_MAD_SCIENTIST",
-      "SetID": "4kfb9pd",
-      "Name": "Mad Scientist",
-      "Percentage": 23,
-      "XP": 80,
-      "UsersEstimate": 527
-    },
-    {
-      "ID": "ACH_REUNION",
-      "SetID": "4kfb9pd",
-      "Name": "Reunion",
-      "Percentage": 24,
-      "XP": 80,
-      "UsersEstimate": 550
-    },
-    {
-      "ID": "ACH_SHOVEL_NIGHT",
-      "SetID": "4kfb9pd",
-      "Name": "Shovel Night",
-      "Percentage": 36,
-      "XP": 55,
-      "UsersEstimate": 825
-    },
-    {
-      "ID": "ACH_TREASURE_HUNT",
-      "SetID": "4kfb9pd",
-      "Name": "Treasure Hunt",
-      "Percentage": 30,
-      "XP": 80,
-      "UsersEstimate": 688
-    },
-    {
-      "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
-      "SetID": "4kfb9pd",
-      "Name": "Welcome to Raven Brooks",
-      "Percentage": 74,
-      "XP": 35,
-      "UsersEstimate": 1697
-    }
-  ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:02.7979813+00:00",
-      "NumProgressed": 2251,
-      "NumCompleted": 88
-    },
-    {
-      "Time": "2023-04-25T19:57:37.8155426+00:00",
-      "NumProgressed": 2252,
-      "NumCompleted": 88
-    },
-    {
-      "Time": "2023-04-26T02:11:12.9391664+00:00",
-      "NumProgressed": 2253,
-      "NumCompleted": 88
-    },
-    {
-      "Time": "2023-04-26T04:08:29.4330748+00:00",
-      "NumProgressed": 2254,
-      "NumCompleted": 88
-    },
-    {
-      "Time": "2023-04-26T12:12:36.1532504+00:00",
-      "NumProgressed": 2254,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-26T13:19:47.4942577+00:00",
-      "NumProgressed": 2255,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-26T14:08:56.5731508+00:00",
-      "NumProgressed": 2256,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-27T05:04:52.4935651+00:00",
-      "NumProgressed": 2257,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-27T15:07:18.6701553+00:00",
-      "NumProgressed": 2259,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-27T17:06:21.6936689+00:00",
-      "NumProgressed": 2260,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-27T18:05:48.3188021+00:00",
-      "NumProgressed": 2261,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-28T02:06:53.4254315+00:00",
-      "NumProgressed": 2262,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-28T07:05:55.601051+00:00",
-      "NumProgressed": 2263,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-28T09:05:37.2346963+00:00",
-      "NumProgressed": 2264,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-28T18:05:47.0135741+00:00",
-      "NumProgressed": 2265,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-28T19:05:33.6029563+00:00",
-      "NumProgressed": 2267,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-28T22:05:37.9411065+00:00",
-      "NumProgressed": 2269,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T08:04:44.4390321+00:00",
-      "NumProgressed": 2270,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T10:04:44.5594714+00:00",
-      "NumProgressed": 2271,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T13:07:45.0597375+00:00",
-      "NumProgressed": 2272,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T16:06:42.6998999+00:00",
-      "NumProgressed": 2274,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T17:04:59.4846547+00:00",
-      "NumProgressed": 2275,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T18:05:06.6094429+00:00",
-      "NumProgressed": 2276,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-29T19:05:07.5347549+00:00",
-      "NumProgressed": 2278,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-30T10:04:43.911183+00:00",
-      "NumProgressed": 2279,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-30T12:05:36.4606512+00:00",
-      "NumProgressed": 2280,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-30T14:05:01.9541755+00:00",
-      "NumProgressed": 2281,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-04-30T19:06:19.5148583+00:00",
-      "NumProgressed": 2282,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-01T14:05:24.4998471+00:00",
-      "NumProgressed": 2283,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-01T16:05:46.8260855+00:00",
-      "NumProgressed": 2284,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-01T18:06:11.7750868+00:00",
-      "NumProgressed": 2286,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-01T22:05:06.0526351+00:00",
-      "NumProgressed": 2287,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-02T14:06:04.9677253+00:00",
-      "NumProgressed": 2288,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-03T19:04:55.8660023+00:00",
-      "NumProgressed": 2289,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-04T02:02:06.5968256+00:00",
-      "NumProgressed": 2290,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-04T14:05:55.2893453+00:00",
-      "NumProgressed": 2291,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-04T17:05:50.3991917+00:00",
-      "NumProgressed": 2292,
-      "NumCompleted": 89
-    },
-    {
-      "Time": "2023-05-04T19:05:16.7292343+00:00",
-      "NumProgressed": 2293,
-      "NumCompleted": 89
-    }
-  ],
+  "ProductSlug": "hello-neighbor-2",
+  "Ranking_Rating": 664,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 138,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -568,38 +270,342 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 14,
-  "LastChanged_Achievements": "2023-05-05T16:08:16.4043256+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 28,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 2294,
   "EOS_Completed": 89,
-  "EOS_Progressed": 2293,
-  "LastUpdate_Achievements": "2023-05-05T16:08:16.4043406+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:38.9078134+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:22.7970826+00:00",
+  "EOS_NewPlayers": 29,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 3.88,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:02.7979813+00:00",
+      "NumProgressed": 2251,
+      "NumCompleted": 88
+    },
+    {
+      "Time": "2023-04-25T19:57:37.8155426+00:00",
+      "NumProgressed": 2252,
+      "NumCompleted": 88
+    },
+    {
+      "Time": "2023-04-26T02:11:12.9391664+00:00",
+      "NumProgressed": 2253,
+      "NumCompleted": 88
+    },
+    {
+      "Time": "2023-04-26T04:08:29.4330748+00:00",
+      "NumProgressed": 2254,
+      "NumCompleted": 88
+    },
+    {
+      "Time": "2023-04-26T12:12:36.1532504+00:00",
+      "NumProgressed": 2254,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-26T13:19:47.4942577+00:00",
+      "NumProgressed": 2255,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-26T14:08:56.5731508+00:00",
+      "NumProgressed": 2256,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-27T05:04:52.4935651+00:00",
+      "NumProgressed": 2257,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-27T15:07:18.6701553+00:00",
+      "NumProgressed": 2259,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-27T17:06:21.6936689+00:00",
+      "NumProgressed": 2260,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-27T18:05:48.3188021+00:00",
+      "NumProgressed": 2261,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-28T02:06:53.4254315+00:00",
+      "NumProgressed": 2262,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-28T07:05:55.601051+00:00",
+      "NumProgressed": 2263,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-28T09:05:37.2346963+00:00",
+      "NumProgressed": 2264,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-28T18:05:47.0135741+00:00",
+      "NumProgressed": 2265,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-28T19:05:33.6029563+00:00",
+      "NumProgressed": 2267,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-28T22:05:37.9411065+00:00",
+      "NumProgressed": 2269,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T08:04:44.4390321+00:00",
+      "NumProgressed": 2270,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T10:04:44.5594714+00:00",
+      "NumProgressed": 2271,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T13:07:45.0597375+00:00",
+      "NumProgressed": 2272,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T16:06:42.6998999+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T17:04:59.4846547+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T18:05:06.6094429+00:00",
+      "NumProgressed": 2276,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-29T19:05:07.5347549+00:00",
+      "NumProgressed": 2278,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-30T10:04:43.911183+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-30T12:05:36.4606512+00:00",
+      "NumProgressed": 2280,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-30T14:05:01.9541755+00:00",
+      "NumProgressed": 2281,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-04-30T19:06:19.5148583+00:00",
+      "NumProgressed": 2282,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-01T14:05:24.4998471+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-01T16:05:46.8260855+00:00",
+      "NumProgressed": 2284,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-01T18:06:11.7750868+00:00",
+      "NumProgressed": 2286,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-01T22:05:06.0526351+00:00",
+      "NumProgressed": 2287,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-02T14:06:04.9677253+00:00",
+      "NumProgressed": 2288,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-03T19:04:55.8660023+00:00",
+      "NumProgressed": 2289,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-04T02:02:06.5968256+00:00",
+      "NumProgressed": 2290,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-04T14:05:55.2893453+00:00",
+      "NumProgressed": 2291,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-04T17:05:50.3991917+00:00",
+      "NumProgressed": 2292,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-04T19:05:16.7292343+00:00",
+      "NumProgressed": 2293,
+      "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-05T17:09:52.5703766+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 89
+    }
+  ],
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ANCIENT_CURSE",
+      "SetID": "4kfb9pd",
+      "Name": "Ancient Curse",
+      "Percentage": 27,
+      "XP": 80,
+      "UsersEstimate": 619
+    },
+    {
+      "ID": "ACH_CASE_CLOSED",
+      "SetID": "4kfb9pd",
+      "Name": "Case Closed",
+      "Percentage": 35,
+      "XP": 55,
+      "UsersEstimate": 803
+    },
+    {
+      "ID": "ACH_CAT_LOVER",
+      "SetID": "4kfb9pd",
+      "Name": "Cat Person",
+      "Percentage": 25,
+      "XP": 80,
+      "UsersEstimate": 574
+    },
+    {
+      "ID": "ACH_CLIMBER",
+      "SetID": "4kfb9pd",
+      "Name": "Climber",
+      "Percentage": 23,
+      "XP": 80,
+      "UsersEstimate": 528
+    },
+    {
+      "ID": "ACH_DOG_LOVER",
+      "SetID": "4kfb9pd",
+      "Name": "Dog Person",
+      "Percentage": 19,
+      "XP": 80,
+      "UsersEstimate": 436
+    },
+    {
+      "ID": "ACH_EASY_AS_PIE",
+      "SetID": "4kfb9pd",
+      "Name": "Easy As Pie",
+      "Percentage": 32,
+      "XP": 55,
+      "UsersEstimate": 734
+    },
+    {
+      "ID": "ACH_FAMILY_LOST",
+      "SetID": "4kfb9pd",
+      "Name": "Family Lost",
+      "Percentage": 31,
+      "XP": 80,
+      "UsersEstimate": 711
+    },
+    {
+      "ID": "ACH_HIDDEN_SECRETS",
+      "SetID": "4kfb9pd",
+      "Name": "Hidden Secrets",
+      "Percentage": 23,
+      "XP": 80,
+      "UsersEstimate": 528
+    },
+    {
+      "ID": "ACH_IMPRISONMENT",
+      "SetID": "4kfb9pd",
+      "Name": "Imprisonment",
+      "Percentage": 22,
+      "XP": 80,
+      "UsersEstimate": 505
+    },
+    {
+      "ID": "ACH_MAD_SCIENTIST",
+      "SetID": "4kfb9pd",
+      "Name": "Mad Scientist",
+      "Percentage": 23,
+      "XP": 80,
+      "UsersEstimate": 528
+    },
+    {
+      "ID": "ACH_REUNION",
+      "SetID": "4kfb9pd",
+      "Name": "Reunion",
+      "Percentage": 24,
+      "XP": 80,
+      "UsersEstimate": 551
+    },
+    {
+      "ID": "ACH_SHOVEL_NIGHT",
+      "SetID": "4kfb9pd",
+      "Name": "Shovel Night",
+      "Percentage": 36,
+      "XP": 55,
+      "UsersEstimate": 826
+    },
+    {
+      "ID": "ACH_TREASURE_HUNT",
+      "SetID": "4kfb9pd",
+      "Name": "Treasure Hunt",
+      "Percentage": 30,
+      "XP": 80,
+      "UsersEstimate": 688
+    },
+    {
+      "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
+      "SetID": "4kfb9pd",
+      "Name": "Welcome to Raven Brooks",
+      "Percentage": 74,
+      "XP": 35,
+      "UsersEstimate": 1698
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2293,
+      "Progressed": 2294,
       "Completed": 89
     }
   ],
-  "EOS_Completed_Percentage": 3.88,
-  "LastChanged": "2023-05-03T20:59:35.8574213+00:00",
-  "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
-  "ProductSlug": "hello-neighbor-2",
-  "Rating": 4.4,
-  "Ranking_Rating": 664,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 138,
-  "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
-  "Ranking_EOS_NewPlayers": 143
+  "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
+  "LastChanged": "2023-05-03T20:59:35.8574213+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:52.5703765+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:22.2631073+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:15.4522172+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:52.5703857+00:00"
 }

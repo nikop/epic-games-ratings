@@ -1,28 +1,16 @@
 {
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 312
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 20
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "the-messenger",
+  "Ranking_Rating": 78,
+  "Ranking_Popularity": 218,
+  "Ranking_PopularitySum": 309,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.8,
+  "NumberOfRatings": 561,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -574,30 +562,43 @@
       "NumberOfAwardsMax": 312
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:44.1057673+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:31.8337095+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:18.1575485+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-22T07:57:09.2013079+00:00",
-  "ProductSlug": "the-messenger",
-  "Rating": 4.8,
-  "Ranking_Rating": 78,
-  "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 309,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 561,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 354,
   "NumberOfAwardsMax": 312,
   "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 312
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-22T07:57:09.2013079+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:16.3714212+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:10.4629416+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:45.892121+00:00"
 }

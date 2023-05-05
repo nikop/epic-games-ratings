@@ -1,6 +1,240 @@
 {
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
+  "ProductSlug": "grindstone",
+  "Ranking_Rating": 37,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 119,
+  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.85,
+  "NumberOfRatings": 63,
+  "RatingHistory": [
+    {
+      "Time": "2022-07-22T20:29:27.1113518+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 29
+    },
+    {
+      "Time": "2022-07-26T06:02:27.7659704+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 30
+    },
+    {
+      "Time": "2022-07-28T14:02:24.9569583+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": 32
+    },
+    {
+      "Time": "2022-07-29T13:01:47.5435042+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 33
+    },
+    {
+      "Time": "2022-07-30T23:31:51.6253424+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": 34
+    },
+    {
+      "Time": "2022-07-31T13:02:02.7426772+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": 36
+    },
+    {
+      "Time": "2022-08-01T13:31:47.760589+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 37
+    },
+    {
+      "Time": "2022-08-02T13:31:49.5776758+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 39
+    },
+    {
+      "Time": "2022-08-04T14:02:03.1582551+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 40
+    },
+    {
+      "Time": "2022-08-05T16:02:41.0974343+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 41
+    },
+    {
+      "Time": "2022-08-06T16:31:50.8768348+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 42
+    },
+    {
+      "Time": "2022-08-08T10:33:03.4353724+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 43
+    },
+    {
+      "Time": "2022-08-10T10:33:15.2520794+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 44
+    },
+    {
+      "Time": "2022-08-11T10:33:18.005753+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": 45
+    },
+    {
+      "Time": "2022-08-12T11:02:36.4557421+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 47
+    },
+    {
+      "Time": "2022-08-14T13:02:09.2731851+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 49
+    },
+    {
+      "Time": "2022-08-17T17:32:26.8226094+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 50
+    },
+    {
+      "Time": "2022-08-18T17:32:30.6123619+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 51
+    },
+    {
+      "Time": "2022-08-23T08:02:31.6576684+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 52
+    },
+    {
+      "Time": "2022-08-29T09:32:24.60942+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 53
+    },
+    {
+      "Time": "2022-08-31T09:32:32.9365106+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": 54
+    },
+    {
+      "Time": "2022-09-02T21:31:58.1983608+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 56
+    },
+    {
+      "Time": "2022-09-04T22:01:52.5391278+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 57
+    },
+    {
+      "Time": "2022-09-08T16:31:52.8669613+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 58
+    },
+    {
+      "Time": "2022-09-11T13:03:25.5665909+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 60
+    },
+    {
+      "Time": "2022-09-16T20:31:56.2405279+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": 62
+    },
+    {
+      "Time": "2022-09-17T20:32:03.3525492+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": 63
+    },
+    {
+      "Time": "2022-09-24T22:02:09.2533029+00:00",
+      "Rating": 4.84
+    },
+    {
+      "Time": "2022-09-25T22:32:08.3535091+00:00",
+      "Rating": 4.85
+    },
+    {
+      "Time": "2022-10-14T02:32:07.4621676+00:00",
+      "Rating": 4.83
+    },
+    {
+      "Time": "2022-10-22T00:02:53.6593101+00:00",
+      "Rating": 4.82
+    },
+    {
+      "Time": "2022-11-09T18:58:45.2305267+00:00",
+      "Rating": 4.83
+    },
+    {
+      "Time": "2022-12-04T18:58:12.0261817+00:00",
+      "Rating": 4.82
+    },
+    {
+      "Time": "2022-12-06T07:57:50.5807181+00:00",
+      "Rating": 4.83
+    },
+    {
+      "Time": "2023-01-13T21:58:11.3249757+00:00",
+      "Rating": 4.84
+    },
+    {
+      "Time": "2023-03-31T05:58:21.1806087+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T23:58:07.4922284+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 5048,
+  "EOS_Completed": 26,
+  "EOS_NewPlayers": 4,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.52,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:21.0391131+00:00",
+      "NumProgressed": 5042,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-04-30T14:04:47.6193914+00:00",
+      "NumProgressed": 5044,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-02T22:04:48.48747+00:00",
+      "NumProgressed": 5045,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-04T02:01:54.4546186+00:00",
+      "NumProgressed": 5046,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-04T17:05:35.0944394+00:00",
+      "NumProgressed": 5047,
+      "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-05T06:05:51.6905687+00:00",
+      "NumProgressed": 5048,
+      "NumCompleted": 26
+    }
+  ],
+  "TotalAchievements": 49,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ACHIEVE_1000_GRINDSTONES",
@@ -395,230 +629,6 @@
       "UsersEstimate": 3584
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:14:21.0391131+00:00",
-      "NumProgressed": 5042,
-      "NumCompleted": 26
-    },
-    {
-      "Time": "2023-04-30T14:04:47.6193914+00:00",
-      "NumProgressed": 5044,
-      "NumCompleted": 26
-    },
-    {
-      "Time": "2023-05-02T22:04:48.48747+00:00",
-      "NumProgressed": 5045,
-      "NumCompleted": 26
-    },
-    {
-      "Time": "2023-05-04T02:01:54.4546186+00:00",
-      "NumProgressed": 5046,
-      "NumCompleted": 26
-    },
-    {
-      "Time": "2023-05-04T17:05:35.0944394+00:00",
-      "NumProgressed": 5047,
-      "NumCompleted": 26
-    },
-    {
-      "Time": "2023-05-05T06:05:51.6905687+00:00",
-      "NumProgressed": 5048,
-      "NumCompleted": 26
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:29:27.1113518+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 29
-    },
-    {
-      "Time": "2022-07-26T06:02:27.7659704+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 30
-    },
-    {
-      "Time": "2022-07-28T14:02:24.9569583+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": 32
-    },
-    {
-      "Time": "2022-07-29T13:01:47.5435042+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": 33
-    },
-    {
-      "Time": "2022-07-30T23:31:51.6253424+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": 34
-    },
-    {
-      "Time": "2022-07-31T13:02:02.7426772+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": 36
-    },
-    {
-      "Time": "2022-08-01T13:31:47.760589+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": 37
-    },
-    {
-      "Time": "2022-08-02T13:31:49.5776758+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 39
-    },
-    {
-      "Time": "2022-08-04T14:02:03.1582551+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 40
-    },
-    {
-      "Time": "2022-08-05T16:02:41.0974343+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 41
-    },
-    {
-      "Time": "2022-08-06T16:31:50.8768348+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 42
-    },
-    {
-      "Time": "2022-08-08T10:33:03.4353724+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": 43
-    },
-    {
-      "Time": "2022-08-10T10:33:15.2520794+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": 44
-    },
-    {
-      "Time": "2022-08-11T10:33:18.005753+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": 45
-    },
-    {
-      "Time": "2022-08-12T11:02:36.4557421+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 47
-    },
-    {
-      "Time": "2022-08-14T13:02:09.2731851+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 49
-    },
-    {
-      "Time": "2022-08-17T17:32:26.8226094+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 50
-    },
-    {
-      "Time": "2022-08-18T17:32:30.6123619+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 51
-    },
-    {
-      "Time": "2022-08-23T08:02:31.6576684+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 52
-    },
-    {
-      "Time": "2022-08-29T09:32:24.60942+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 53
-    },
-    {
-      "Time": "2022-08-31T09:32:32.9365106+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": 54
-    },
-    {
-      "Time": "2022-09-02T21:31:58.1983608+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 56
-    },
-    {
-      "Time": "2022-09-04T22:01:52.5391278+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 57
-    },
-    {
-      "Time": "2022-09-08T16:31:52.8669613+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 58
-    },
-    {
-      "Time": "2022-09-11T13:03:25.5665909+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": 60
-    },
-    {
-      "Time": "2022-09-16T20:31:56.2405279+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": 62
-    },
-    {
-      "Time": "2022-09-17T20:32:03.3525492+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": 63
-    },
-    {
-      "Time": "2022-09-24T22:02:09.2533029+00:00",
-      "Rating": 4.84
-    },
-    {
-      "Time": "2022-09-25T22:32:08.3535091+00:00",
-      "Rating": 4.85
-    },
-    {
-      "Time": "2022-10-14T02:32:07.4621676+00:00",
-      "Rating": 4.83
-    },
-    {
-      "Time": "2022-10-22T00:02:53.6593101+00:00",
-      "Rating": 4.82
-    },
-    {
-      "Time": "2022-11-09T18:58:45.2305267+00:00",
-      "Rating": 4.83
-    },
-    {
-      "Time": "2022-12-04T18:58:12.0261817+00:00",
-      "Rating": 4.82
-    },
-    {
-      "Time": "2022-12-06T07:57:50.5807181+00:00",
-      "Rating": 4.83
-    },
-    {
-      "Time": "2023-01-13T21:58:11.3249757+00:00",
-      "Rating": 4.84
-    },
-    {
-      "Time": "2023-03-31T05:58:21.1806087+00:00",
-      "Rating": 4.84,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T23:58:07.4922284+00:00",
-      "Rating": 4.85,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 49,
-  "LastChanged_Achievements": "2023-05-05T16:08:13.7597589+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4,
-  "EOS_Completed": 26,
-  "EOS_Progressed": 5048,
-  "LastUpdate_Achievements": "2023-05-05T16:08:13.7598237+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:16.1856109+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:08.2766709+00:00",
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
@@ -627,20 +637,11 @@
       "Completed": 26
     }
   ],
-  "EOS_Completed_Percentage": 0.52,
-  "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "ProductSlug": "grindstone",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 119,
-  "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
-  "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 63,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
-  "Ranking_EOS_NewPlayers": 198
+  "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
+  "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:50.7333564+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:05.7197071+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:00.2149167+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:50.7333945+00:00"
 }

@@ -1,6 +1,37 @@
 {
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
+  "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
+  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:50.474152+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "Tags": [],
+  "EOS_Progressed": 155,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.29,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:18.1728843+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 2
+    }
+  ],
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "01",
@@ -123,32 +154,6 @@
       "UsersEstimate": 9
     }
   ],
-  "Tags": [],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:10:18.1728843+00:00",
-      "NumProgressed": 155,
-      "NumCompleted": 2
-    }
-  ],
-  "RatingHistory": [
-    {
-      "Time": "2023-03-31T05:57:50.474152+00:00",
-      "Rating": null,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-05T16:07:40.2868904+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 2,
-  "EOS_Progressed": 155,
-  "LastUpdate_Achievements": "2023-05-05T16:07:40.2869023+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:14.021508+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:05.406691+00:00",
   "AchievementSets": [
     {
       "ID": "6glb5g1",
@@ -157,16 +162,12 @@
       "Completed": 2
     }
   ],
-  "EOS_Completed_Percentage": 1.29,
-  "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
-  "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 230,
-  "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-04T10:57:37.9087586+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
+  "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:25.7254625+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:54.8129485+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:59.0391024+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:25.7254736+00:00"
 }

@@ -1,392 +1,779 @@
 {
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
-  "Achievements": [
+  "ProductSlug": "hand-of-fate-2",
+  "Ranking_Rating": 428,
+  "Ranking_Popularity": 427,
+  "Ranking_PopularitySum": 358,
+  "Ranking_EOS_Progress": 18,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.57,
+  "NumberOfRatings": 780,
+  "RatingHistory": [
     {
-      "ID": "Achievement_01_The_Fool",
-      "SetID": "27hb4pl",
-      "Name": "The Fool",
-      "Percentage": 72,
-      "XP": 10,
-      "UsersEstimate": 472059
+      "Time": "2022-07-22T20:22:25.6908042+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 377
     },
     {
-      "ID": "Achievement_02_Apprentice",
-      "SetID": "27hb4pl",
-      "Name": "Apprentice",
-      "Percentage": 58,
-      "XP": 10,
-      "UsersEstimate": 380269
+      "Time": "2022-07-22T22:28:06.9112608+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 378
     },
     {
-      "ID": "Achievement_03_Mercenary",
-      "SetID": "27hb4pl",
-      "Name": "Mercenary",
-      "Percentage": 23,
-      "XP": 10,
-      "UsersEstimate": 150797
+      "Time": "2022-07-23T07:25:38.9233888+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 379
     },
     {
-      "ID": "Achievement_04_Adventurer",
-      "SetID": "27hb4pl",
-      "Name": "Adventurer",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 39338
+      "Time": "2022-07-24T08:00:57.4738598+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 387
     },
     {
-      "ID": "Achievement_05_Protector_of_the_Realm",
-      "SetID": "27hb4pl",
-      "Name": "Protector of the Realm",
-      "Percentage": 1,
-      "XP": 100,
-      "UsersEstimate": 6556
+      "Time": "2022-07-24T12:00:59.5642117+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 388
     },
     {
-      "ID": "Achievement_06_Knight",
-      "SetID": "27hb4pl",
-      "Name": "Knight",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 52451
+      "Time": "2022-07-25T12:01:50.5953836+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 394
     },
     {
-      "ID": "Achievement_07_Dungeon_Master",
-      "SetID": "27hb4pl",
-      "Name": "Dungeon Master",
-      "Percentage": 0.5,
-      "XP": 100,
-      "UsersEstimate": 3278
+      "Time": "2022-07-25T20:01:24.5961041+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 397
     },
     {
-      "ID": "Achievement_08_Card_Sharp",
-      "SetID": "27hb4pl",
-      "Name": "Card Sharp",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 13113
+      "Time": "2022-07-26T12:01:23.9751126+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 401
     },
     {
-      "ID": "Achievement_09_Gambler",
-      "SetID": "27hb4pl",
-      "Name": "Gambler",
-      "Percentage": 10,
-      "XP": 15,
-      "UsersEstimate": 65564
+      "Time": "2022-07-27T00:00:59.9461407+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 402
     },
     {
-      "ID": "Achievement_10_Long_Shot",
-      "SetID": "27hb4pl",
-      "Name": "Long Shot",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 45895
+      "Time": "2022-07-27T20:00:57.3446064+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 411
     },
     {
-      "ID": "Achievement_11_Grifter",
-      "SetID": "27hb4pl",
-      "Name": "Grifter",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 656
+      "Time": "2022-07-28T21:01:29.4258111+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 412
     },
     {
-      "ID": "Achievement_12_Jack_of_all_Trades",
-      "SetID": "27hb4pl",
-      "Name": "Jack of all Trades",
-      "Percentage": 5,
-      "XP": 30,
-      "UsersEstimate": 32782
+      "Time": "2022-07-28T23:31:20.9515592+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 413
     },
     {
-      "ID": "Achievement_13_Dice_Master",
-      "SetID": "27hb4pl",
-      "Name": "Dice Master",
-      "Percentage": 10,
-      "XP": 15,
-      "UsersEstimate": 65564
+      "Time": "2022-07-29T06:30:53.7497559+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 414
     },
     {
-      "ID": "Achievement_14_Magician",
-      "SetID": "27hb4pl",
-      "Name": "Magician",
-      "Percentage": 2,
-      "XP": 25,
-      "UsersEstimate": 13113
+      "Time": "2022-07-29T15:31:15.971021+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 418
     },
     {
-      "ID": "Achievement_15_Hero",
-      "SetID": "27hb4pl",
-      "Name": "Hero",
-      "Percentage": 0.6,
-      "XP": 25,
-      "UsersEstimate": 3934
+      "Time": "2022-07-29T19:02:59.7226056+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 419
     },
     {
-      "ID": "Achievement_16_Ally",
-      "SetID": "27hb4pl",
-      "Name": "Ally",
-      "Percentage": 0.8,
-      "XP": 25,
-      "UsersEstimate": 5245
+      "Time": "2022-07-30T11:01:02.8684654+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 424
     },
     {
-      "ID": "Achievement_17_Rebel",
-      "SetID": "27hb4pl",
-      "Name": "Rebel",
-      "Percentage": 0.6,
-      "XP": 25,
-      "UsersEstimate": 3934
+      "Time": "2022-07-31T06:30:54.5322991+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 433
     },
     {
-      "ID": "Achievement_18_Ninja",
-      "SetID": "27hb4pl",
-      "Name": "Ninja",
-      "Percentage": 23,
-      "XP": 25,
-      "UsersEstimate": 150797
+      "Time": "2022-07-31T09:00:55.6698268+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 434
     },
     {
-      "ID": "Achievement_19_Thief_Bane",
-      "SetID": "27hb4pl",
-      "Name": "Thief Bane",
-      "Percentage": 14,
-      "XP": 15,
-      "UsersEstimate": 91789
+      "Time": "2022-07-31T12:31:11.2815291+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 435
     },
     {
-      "ID": "Achievement_20_Northern_Scourge",
-      "SetID": "27hb4pl",
-      "Name": "Northern Scourge",
-      "Percentage": 17,
-      "XP": 15,
-      "UsersEstimate": 111458
+      "Time": "2022-07-31T23:31:01.2513134+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 436
     },
     {
-      "ID": "Achievement_21_Empires_Bane",
-      "SetID": "27hb4pl",
-      "Name": "Empire\u0027s Bane",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 39338
+      "Time": "2022-08-01T12:01:04.661718+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 437
     },
     {
-      "ID": "Achievement_22_Cure_for_Corruption",
-      "SetID": "27hb4pl",
-      "Name": "Cure for Corruption",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 52451
+      "Time": "2022-08-01T15:00:58.9675152+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 438
     },
     {
-      "ID": "Achievement_23_Smithy",
-      "SetID": "27hb4pl",
-      "Name": "Smithy",
-      "Percentage": 5,
-      "XP": 15,
-      "UsersEstimate": 32782
+      "Time": "2022-08-02T15:01:02.0460501+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 442
     },
     {
-      "ID": "Achievement_24_Leap_of_Faith",
-      "SetID": "27hb4pl",
-      "Name": "Leap of Faith",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 19669
+      "Time": "2022-08-02T18:01:30.3439994+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 444
     },
     {
-      "ID": "Achievement_25_Purgatorium",
-      "SetID": "27hb4pl",
-      "Name": "Purgatorium",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 6556
+      "Time": "2022-08-03T18:01:43.453976+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 448
     },
     {
-      "ID": "Achievement_26_Gamester",
-      "SetID": "27hb4pl",
-      "Name": "Gamester",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 4589
+      "Time": "2022-08-04T12:01:12.0699528+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 451
     },
     {
-      "ID": "Achievement_27_Money_Bags",
-      "SetID": "27hb4pl",
-      "Name": "Money Bags",
-      "Percentage": 0.2,
-      "XP": 25,
-      "UsersEstimate": 1311
+      "Time": "2022-08-04T13:30:56.0930193+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 452
     },
     {
-      "ID": "Achievement_28_Unburdened",
-      "SetID": "27hb4pl",
-      "Name": "Unburdened",
-      "Percentage": 0.1,
-      "XP": 25,
-      "UsersEstimate": 656
+      "Time": "2022-08-04T22:30:58.4087693+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 455
     },
     {
-      "ID": "Achievement_29_Focused",
-      "SetID": "27hb4pl",
-      "Name": "Focused",
-      "Percentage": 8,
-      "XP": 25,
-      "UsersEstimate": 52451
+      "Time": "2022-08-05T22:31:30.9119803+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 464
     },
     {
-      "ID": "Achievement_30_Devil_Dice",
-      "SetID": "27hb4pl",
-      "Name": "Devil Dice",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 45895
+      "Time": "2022-08-06T04:00:58.6142164+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 465
     },
     {
-      "ID": "Achievement_31_Master_of_Arms",
-      "SetID": "27hb4pl",
-      "Name": "Master of Arms",
-      "Percentage": 12,
-      "XP": 15,
-      "UsersEstimate": 78676
+      "Time": "2022-08-07T00:00:59.5174344+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 473
     },
     {
-      "ID": "Achievement_32_Karma",
-      "SetID": "27hb4pl",
-      "Name": "Karma",
-      "Percentage": 0.1,
-      "XP": 25,
-      "UsersEstimate": 656
+      "Time": "2022-08-07T12:31:09.8697633+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 477
     },
     {
-      "ID": "Achievement_33_Combat_Ready",
-      "SetID": "27hb4pl",
-      "Name": "Combat Ready",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 19669
+      "Time": "2022-08-07T16:31:06.3877988+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 479
     },
     {
-      "ID": "Achievement_34_Close_Shave",
-      "SetID": "27hb4pl",
-      "Name": "Close Shave",
-      "Percentage": 25,
-      "XP": 15,
-      "UsersEstimate": 163909
+      "Time": "2022-08-08T13:01:02.461163+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 487
     },
     {
-      "ID": "Achievement_35_Cursed_Soul",
-      "SetID": "27hb4pl",
-      "Name": "Cursed Soul",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 6556
+      "Time": "2022-08-08T23:31:01.9645994+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 492
     },
     {
-      "ID": "Achievement_36_Swordsman",
-      "SetID": "27hb4pl",
-      "Name": "Swordsman",
-      "Percentage": 9,
-      "XP": 15,
-      "UsersEstimate": 59007
+      "Time": "2022-08-09T20:31:37.5781947+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 497
     },
     {
-      "ID": "Achievement_37_Champion",
-      "SetID": "27hb4pl",
-      "Name": "Champion",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 6556
+      "Time": "2022-08-10T20:31:41.6517862+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 509
     },
     {
-      "ID": "Achievement_38_Flurry_of_Fury",
-      "SetID": "27hb4pl",
-      "Name": "Flurry of Fury",
-      "Percentage": 8,
-      "XP": 15,
-      "UsersEstimate": 52451
+      "Time": "2022-08-11T07:01:29.9881884+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 510
     },
     {
-      "ID": "Achievement_39_Stuffed_Potato",
-      "SetID": "27hb4pl",
-      "Name": "Stuffed Potato",
-      "Percentage": 3,
-      "XP": 15,
-      "UsersEstimate": 19669
+      "Time": "2022-08-11T14:31:17.0672723+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 512
     },
     {
-      "ID": "Achievement_40_Broken_Heart",
-      "SetID": "27hb4pl",
-      "Name": "Broken Heart",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 39338
+      "Time": "2022-08-11T20:01:24.490762+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 513
     },
     {
-      "ID": "Achievement_41_Draknars_Bane",
-      "SetID": "27hb4pl",
-      "Name": "Draknar\u0027s Bane",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 13113
+      "Time": "2022-08-12T03:31:03.588401+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 515
     },
     {
-      "ID": "Achievement_42_Thomas_Bane",
-      "SetID": "27hb4pl",
-      "Name": "Thomas\u0027 Bane",
-      "Percentage": 0.8,
-      "XP": 20,
-      "UsersEstimate": 5245
+      "Time": "2022-08-12T14:01:03.3598928+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 516
     },
     {
-      "ID": "Achievement_43_Final_Death",
-      "SetID": "27hb4pl",
-      "Name": "Final Death",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 6556
+      "Time": "2022-08-13T12:30:57.1819592+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 519
     },
     {
-      "ID": "Achievement_44_Miracle",
-      "SetID": "27hb4pl",
-      "Name": "Miracle",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 656
+      "Time": "2022-08-13T19:30:58.5750506+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 521
     },
     {
-      "ID": "Achievement_45_Peaceful_Coast",
-      "SetID": "27hb4pl",
-      "Name": "Peaceful Coast",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 1967
+      "Time": "2022-08-14T00:31:00.0488706+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 522
     },
     {
-      "ID": "Achievement_46_Pilgrim",
-      "SetID": "27hb4pl",
-      "Name": "Pilgrim",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 2623
+      "Time": "2022-08-14T17:01:01.1098419+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 525
     },
     {
-      "ID": "Achievement_47_Smiths_Honour",
-      "SetID": "27hb4pl",
-      "Name": "Smiths Honour",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 2623
+      "Time": "2022-08-15T05:31:05.2476421+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 528
     },
     {
-      "ID": "Achievement_48_Blood_Pact",
-      "SetID": "27hb4pl",
-      "Name": "Blood Pact",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 656
+      "Time": "2022-08-16T05:30:56.6144258+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 535
+    },
+    {
+      "Time": "2022-08-16T07:31:35.0445233+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 536
+    },
+    {
+      "Time": "2022-08-16T14:33:09.2662568+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 537
+    },
+    {
+      "Time": "2022-08-16T20:01:02.0521648+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 541
+    },
+    {
+      "Time": "2022-08-17T05:31:51.620206+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 544
+    },
+    {
+      "Time": "2022-08-17T18:02:05.1834246+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 547
+    },
+    {
+      "Time": "2022-08-18T06:30:58.4180622+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 549
+    },
+    {
+      "Time": "2022-08-18T14:31:44.6265039+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 557
+    },
+    {
+      "Time": "2022-08-19T09:01:56.4617198+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 558
+    },
+    {
+      "Time": "2022-08-19T12:02:04.0209798+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 560
+    },
+    {
+      "Time": "2022-08-19T13:31:01.7955415+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 562
+    },
+    {
+      "Time": "2022-08-20T04:01:00.719431+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 564
+    },
+    {
+      "Time": "2022-08-20T14:02:04.6124837+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 569
+    },
+    {
+      "Time": "2022-08-20T15:01:00.3070655+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 571
+    },
+    {
+      "Time": "2022-08-21T13:01:00.9529109+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 574
+    },
+    {
+      "Time": "2022-08-21T23:01:00.4480872+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 578
+    },
+    {
+      "Time": "2022-08-22T15:31:31.5137355+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 579
+    },
+    {
+      "Time": "2022-08-22T17:32:19.5592031+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 580
+    },
+    {
+      "Time": "2022-08-22T22:31:31.8385811+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": 584
+    },
+    {
+      "Time": "2022-08-23T22:31:00.5237216+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": 595
+    },
+    {
+      "Time": "2022-08-24T11:01:27.2368364+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 596
+    },
+    {
+      "Time": "2022-08-25T06:31:02.7622133+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 601
+    },
+    {
+      "Time": "2022-08-25T13:01:33.0773697+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 604
+    },
+    {
+      "Time": "2022-08-25T19:31:01.6852801+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 608
+    },
+    {
+      "Time": "2022-08-26T07:02:08.334861+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 610
+    },
+    {
+      "Time": "2022-08-26T10:31:05.1868586+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 613
+    },
+    {
+      "Time": "2022-08-27T07:01:05.8670984+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 617
+    },
+    {
+      "Time": "2022-08-27T10:31:05.0269174+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 618
+    },
+    {
+      "Time": "2022-08-27T12:01:04.3545079+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 620
+    },
+    {
+      "Time": "2022-08-27T17:31:06.4521417+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 622
+    },
+    {
+      "Time": "2022-08-28T10:31:01.9403772+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 626
+    },
+    {
+      "Time": "2022-08-29T12:31:02.0221077+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 633
+    },
+    {
+      "Time": "2022-08-29T17:31:02.1680878+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 634
+    },
+    {
+      "Time": "2022-08-29T19:31:04.2704818+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 635
+    },
+    {
+      "Time": "2022-08-30T07:01:00.1202048+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 638
+    },
+    {
+      "Time": "2022-08-31T07:01:58.5566779+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 645
+    },
+    {
+      "Time": "2022-08-31T19:02:12.7190454+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 648
+    },
+    {
+      "Time": "2022-08-31T19:31:04.8457614+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 649
+    },
+    {
+      "Time": "2022-09-01T19:31:53.4446354+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 661
+    },
+    {
+      "Time": "2022-09-01T21:01:45.3331344+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 662
+    },
+    {
+      "Time": "2022-09-02T20:31:06.0506557+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 665
+    },
+    {
+      "Time": "2022-09-02T22:31:03.380196+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 666
+    },
+    {
+      "Time": "2022-09-03T14:31:12.1698486+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 667
+    },
+    {
+      "Time": "2022-09-04T05:31:12.1344485+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 669
+    },
+    {
+      "Time": "2022-09-04T12:01:09.1948939+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 672
+    },
+    {
+      "Time": "2022-09-04T13:01:08.0812208+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 674
+    },
+    {
+      "Time": "2022-09-04T21:01:06.0853626+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 678
+    },
+    {
+      "Time": "2022-09-05T21:30:58.1797233+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 685
+    },
+    {
+      "Time": "2022-09-06T08:30:59.4739086+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 688
+    },
+    {
+      "Time": "2022-09-06T20:31:33.1429599+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 694
+    },
+    {
+      "Time": "2022-09-07T01:31:14.095497+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 695
+    },
+    {
+      "Time": "2022-09-08T02:01:20.5152015+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 697
+    },
+    {
+      "Time": "2022-09-09T00:01:08.042084+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 702
+    },
+    {
+      "Time": "2022-09-09T12:01:40.7968635+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 705
+    },
+    {
+      "Time": "2022-09-09T16:01:15.9805324+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": 709
+    },
+    {
+      "Time": "2022-09-10T12:01:01.2878165+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 713
+    },
+    {
+      "Time": "2022-09-10T19:01:07.1926224+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 715
+    },
+    {
+      "Time": "2022-09-11T02:31:23.8799364+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 717
+    },
+    {
+      "Time": "2022-09-11T14:31:12.4133382+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 719
+    },
+    {
+      "Time": "2022-09-12T03:01:07.349129+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 721
+    },
+    {
+      "Time": "2022-09-13T01:31:13.5759109+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 729
+    },
+    {
+      "Time": "2022-09-13T17:31:47.7585065+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 734
+    },
+    {
+      "Time": "2022-09-14T04:31:18.2067319+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 736
+    },
+    {
+      "Time": "2022-09-14T15:01:40.6071107+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": 737
+    },
+    {
+      "Time": "2022-09-15T15:01:34.7547592+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 738
+    },
+    {
+      "Time": "2022-09-15T20:01:47.5505881+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 744
+    },
+    {
+      "Time": "2022-09-16T01:01:12.5579502+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 747
+    },
+    {
+      "Time": "2022-09-16T18:02:10.1239422+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 750
+    },
+    {
+      "Time": "2022-09-17T02:01:19.7489878+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 751
+    },
+    {
+      "Time": "2022-09-17T10:30:59.8455008+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 754
+    },
+    {
+      "Time": "2022-09-17T13:30:58.4371997+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 755
+    },
+    {
+      "Time": "2022-09-17T15:01:01.0943671+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 757
+    },
+    {
+      "Time": "2022-09-18T04:30:58.6748824+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 763
+    },
+    {
+      "Time": "2022-09-18T13:31:02.2636384+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 764
+    },
+    {
+      "Time": "2022-09-18T19:31:01.1088268+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 765
+    },
+    {
+      "Time": "2022-09-20T15:01:39.6028476+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 772
+    },
+    {
+      "Time": "2022-09-20T17:01:41.0515706+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 773
+    },
+    {
+      "Time": "2022-09-21T16:31:03.1786537+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 775
+    },
+    {
+      "Time": "2022-09-21T21:01:54.7117532+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 776
+    },
+    {
+      "Time": "2022-09-22T19:31:44.9449397+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": 780
+    },
+    {
+      "Time": "2022-10-01T16:31:12.9861728+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2022-10-05T06:01:07.6583023+00:00",
+      "Rating": 4.55
+    },
+    {
+      "Time": "2022-10-10T15:31:04.2190941+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2022-11-03T00:32:11.3574464+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2022-11-03T19:03:03.5299975+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2022-11-08T06:59:35.6525036+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2022-11-09T04:32:11.415697+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2022-12-04T14:57:29.1829382+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2022-12-07T09:57:24.3248908+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2022-12-09T10:57:16.2715402+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-01-07T20:57:32.0536808+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2023-01-07T23:57:30.3669767+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-01-14T06:57:36.6491455+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2023-01-14T17:57:15.4063234+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-02-15T10:57:23.8700688+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2023-02-16T04:57:53.0211062+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-03-09T03:15:15.555856+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2023-03-12T23:57:25.9934101+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-03-17T22:57:48.2860289+00:00",
+      "Rating": 4.56
+    },
+    {
+      "Time": "2023-03-30T22:57:34.2403841+00:00",
+      "Rating": 4.57
+    },
+    {
+      "Time": "2023-04-08T22:57:52.8626421+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-11T23:57:23.6638201+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-13T23:57:20.0441187+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-15T14:57:53.1965753+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-20T18:57:40.473907+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-05-01T19:57:22.094047+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-05-02T19:57:19.4593668+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 35
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 180,
+  "NumberOfAwardsMax": 35,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -437,6 +824,11 @@
       "Count": 22
     }
   ],
+  "EOS_Progressed": 655642,
+  "EOS_Completed": 164,
+  "EOS_NewPlayers": 394,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:49.6405347+00:00",
@@ -1452,800 +1844,414 @@
       "Time": "2023-05-05T15:42:14.2546933+00:00",
       "NumProgressed": 655637,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-05T17:09:14.6968607+00:00",
+      "NumProgressed": 655642,
+      "NumCompleted": 164
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2022-07-22T20:22:25.6908042+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 377
-    },
-    {
-      "Time": "2022-07-22T22:28:06.9112608+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 378
-    },
-    {
-      "Time": "2022-07-23T07:25:38.9233888+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 379
-    },
-    {
-      "Time": "2022-07-24T08:00:57.4738598+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 387
-    },
-    {
-      "Time": "2022-07-24T12:00:59.5642117+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 388
-    },
-    {
-      "Time": "2022-07-25T12:01:50.5953836+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 394
-    },
-    {
-      "Time": "2022-07-25T20:01:24.5961041+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 397
-    },
-    {
-      "Time": "2022-07-26T12:01:23.9751126+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 401
-    },
-    {
-      "Time": "2022-07-27T00:00:59.9461407+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 402
-    },
-    {
-      "Time": "2022-07-27T20:00:57.3446064+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 411
-    },
-    {
-      "Time": "2022-07-28T21:01:29.4258111+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 412
-    },
-    {
-      "Time": "2022-07-28T23:31:20.9515592+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 413
-    },
-    {
-      "Time": "2022-07-29T06:30:53.7497559+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 414
-    },
-    {
-      "Time": "2022-07-29T15:31:15.971021+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 418
-    },
-    {
-      "Time": "2022-07-29T19:02:59.7226056+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 419
-    },
-    {
-      "Time": "2022-07-30T11:01:02.8684654+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 424
-    },
-    {
-      "Time": "2022-07-31T06:30:54.5322991+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 433
-    },
-    {
-      "Time": "2022-07-31T09:00:55.6698268+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 434
-    },
-    {
-      "Time": "2022-07-31T12:31:11.2815291+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 435
-    },
-    {
-      "Time": "2022-07-31T23:31:01.2513134+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 436
-    },
-    {
-      "Time": "2022-08-01T12:01:04.661718+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 437
-    },
-    {
-      "Time": "2022-08-01T15:00:58.9675152+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 438
-    },
-    {
-      "Time": "2022-08-02T15:01:02.0460501+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 442
-    },
-    {
-      "Time": "2022-08-02T18:01:30.3439994+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 444
-    },
-    {
-      "Time": "2022-08-03T18:01:43.453976+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 448
-    },
-    {
-      "Time": "2022-08-04T12:01:12.0699528+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 451
-    },
-    {
-      "Time": "2022-08-04T13:30:56.0930193+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 452
-    },
-    {
-      "Time": "2022-08-04T22:30:58.4087693+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 455
-    },
-    {
-      "Time": "2022-08-05T22:31:30.9119803+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 464
-    },
-    {
-      "Time": "2022-08-06T04:00:58.6142164+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 465
-    },
-    {
-      "Time": "2022-08-07T00:00:59.5174344+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 473
-    },
-    {
-      "Time": "2022-08-07T12:31:09.8697633+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 477
-    },
-    {
-      "Time": "2022-08-07T16:31:06.3877988+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 479
-    },
-    {
-      "Time": "2022-08-08T13:01:02.461163+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 487
-    },
-    {
-      "Time": "2022-08-08T23:31:01.9645994+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 492
-    },
-    {
-      "Time": "2022-08-09T20:31:37.5781947+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 497
-    },
-    {
-      "Time": "2022-08-10T20:31:41.6517862+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 509
-    },
-    {
-      "Time": "2022-08-11T07:01:29.9881884+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 510
-    },
-    {
-      "Time": "2022-08-11T14:31:17.0672723+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 512
-    },
-    {
-      "Time": "2022-08-11T20:01:24.490762+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 513
-    },
-    {
-      "Time": "2022-08-12T03:31:03.588401+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 515
-    },
-    {
-      "Time": "2022-08-12T14:01:03.3598928+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 516
-    },
-    {
-      "Time": "2022-08-13T12:30:57.1819592+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 519
-    },
-    {
-      "Time": "2022-08-13T19:30:58.5750506+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 521
-    },
-    {
-      "Time": "2022-08-14T00:31:00.0488706+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 522
-    },
-    {
-      "Time": "2022-08-14T17:01:01.1098419+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 525
-    },
-    {
-      "Time": "2022-08-15T05:31:05.2476421+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 528
-    },
-    {
-      "Time": "2022-08-16T05:30:56.6144258+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 535
-    },
-    {
-      "Time": "2022-08-16T07:31:35.0445233+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 536
-    },
-    {
-      "Time": "2022-08-16T14:33:09.2662568+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 537
-    },
-    {
-      "Time": "2022-08-16T20:01:02.0521648+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 541
-    },
-    {
-      "Time": "2022-08-17T05:31:51.620206+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 544
-    },
-    {
-      "Time": "2022-08-17T18:02:05.1834246+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 547
-    },
-    {
-      "Time": "2022-08-18T06:30:58.4180622+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 549
-    },
-    {
-      "Time": "2022-08-18T14:31:44.6265039+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 557
-    },
-    {
-      "Time": "2022-08-19T09:01:56.4617198+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 558
-    },
-    {
-      "Time": "2022-08-19T12:02:04.0209798+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 560
-    },
-    {
-      "Time": "2022-08-19T13:31:01.7955415+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 562
-    },
-    {
-      "Time": "2022-08-20T04:01:00.719431+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 564
-    },
-    {
-      "Time": "2022-08-20T14:02:04.6124837+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 569
-    },
-    {
-      "Time": "2022-08-20T15:01:00.3070655+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 571
-    },
-    {
-      "Time": "2022-08-21T13:01:00.9529109+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 574
-    },
-    {
-      "Time": "2022-08-21T23:01:00.4480872+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 578
-    },
-    {
-      "Time": "2022-08-22T15:31:31.5137355+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 579
-    },
-    {
-      "Time": "2022-08-22T17:32:19.5592031+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 580
-    },
-    {
-      "Time": "2022-08-22T22:31:31.8385811+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": 584
-    },
-    {
-      "Time": "2022-08-23T22:31:00.5237216+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": 595
-    },
-    {
-      "Time": "2022-08-24T11:01:27.2368364+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 596
-    },
-    {
-      "Time": "2022-08-25T06:31:02.7622133+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 601
-    },
-    {
-      "Time": "2022-08-25T13:01:33.0773697+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 604
-    },
-    {
-      "Time": "2022-08-25T19:31:01.6852801+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 608
-    },
-    {
-      "Time": "2022-08-26T07:02:08.334861+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 610
-    },
-    {
-      "Time": "2022-08-26T10:31:05.1868586+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 613
-    },
-    {
-      "Time": "2022-08-27T07:01:05.8670984+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 617
-    },
-    {
-      "Time": "2022-08-27T10:31:05.0269174+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 618
-    },
-    {
-      "Time": "2022-08-27T12:01:04.3545079+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 620
-    },
-    {
-      "Time": "2022-08-27T17:31:06.4521417+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 622
-    },
-    {
-      "Time": "2022-08-28T10:31:01.9403772+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 626
-    },
-    {
-      "Time": "2022-08-29T12:31:02.0221077+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 633
-    },
-    {
-      "Time": "2022-08-29T17:31:02.1680878+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 634
-    },
-    {
-      "Time": "2022-08-29T19:31:04.2704818+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 635
-    },
-    {
-      "Time": "2022-08-30T07:01:00.1202048+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 638
-    },
-    {
-      "Time": "2022-08-31T07:01:58.5566779+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 645
-    },
-    {
-      "Time": "2022-08-31T19:02:12.7190454+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 648
-    },
-    {
-      "Time": "2022-08-31T19:31:04.8457614+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 649
-    },
-    {
-      "Time": "2022-09-01T19:31:53.4446354+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 661
-    },
-    {
-      "Time": "2022-09-01T21:01:45.3331344+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 662
-    },
-    {
-      "Time": "2022-09-02T20:31:06.0506557+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 665
-    },
-    {
-      "Time": "2022-09-02T22:31:03.380196+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 666
-    },
-    {
-      "Time": "2022-09-03T14:31:12.1698486+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 667
-    },
-    {
-      "Time": "2022-09-04T05:31:12.1344485+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 669
-    },
-    {
-      "Time": "2022-09-04T12:01:09.1948939+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 672
-    },
-    {
-      "Time": "2022-09-04T13:01:08.0812208+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 674
-    },
-    {
-      "Time": "2022-09-04T21:01:06.0853626+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 678
-    },
-    {
-      "Time": "2022-09-05T21:30:58.1797233+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 685
-    },
-    {
-      "Time": "2022-09-06T08:30:59.4739086+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 688
-    },
-    {
-      "Time": "2022-09-06T20:31:33.1429599+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 694
-    },
-    {
-      "Time": "2022-09-07T01:31:14.095497+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 695
-    },
-    {
-      "Time": "2022-09-08T02:01:20.5152015+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 697
-    },
-    {
-      "Time": "2022-09-09T00:01:08.042084+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 702
-    },
-    {
-      "Time": "2022-09-09T12:01:40.7968635+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 705
-    },
-    {
-      "Time": "2022-09-09T16:01:15.9805324+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": 709
-    },
-    {
-      "Time": "2022-09-10T12:01:01.2878165+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 713
-    },
-    {
-      "Time": "2022-09-10T19:01:07.1926224+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 715
-    },
-    {
-      "Time": "2022-09-11T02:31:23.8799364+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 717
-    },
-    {
-      "Time": "2022-09-11T14:31:12.4133382+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 719
-    },
-    {
-      "Time": "2022-09-12T03:01:07.349129+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 721
-    },
-    {
-      "Time": "2022-09-13T01:31:13.5759109+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 729
-    },
-    {
-      "Time": "2022-09-13T17:31:47.7585065+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 734
-    },
-    {
-      "Time": "2022-09-14T04:31:18.2067319+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 736
-    },
-    {
-      "Time": "2022-09-14T15:01:40.6071107+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": 737
-    },
-    {
-      "Time": "2022-09-15T15:01:34.7547592+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 738
-    },
-    {
-      "Time": "2022-09-15T20:01:47.5505881+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 744
-    },
-    {
-      "Time": "2022-09-16T01:01:12.5579502+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 747
-    },
-    {
-      "Time": "2022-09-16T18:02:10.1239422+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 750
-    },
-    {
-      "Time": "2022-09-17T02:01:19.7489878+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 751
-    },
-    {
-      "Time": "2022-09-17T10:30:59.8455008+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 754
-    },
-    {
-      "Time": "2022-09-17T13:30:58.4371997+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 755
-    },
-    {
-      "Time": "2022-09-17T15:01:01.0943671+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 757
-    },
-    {
-      "Time": "2022-09-18T04:30:58.6748824+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 763
-    },
-    {
-      "Time": "2022-09-18T13:31:02.2636384+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 764
-    },
-    {
-      "Time": "2022-09-18T19:31:01.1088268+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 765
-    },
-    {
-      "Time": "2022-09-20T15:01:39.6028476+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 772
-    },
-    {
-      "Time": "2022-09-20T17:01:41.0515706+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 773
-    },
-    {
-      "Time": "2022-09-21T16:31:03.1786537+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 775
-    },
-    {
-      "Time": "2022-09-21T21:01:54.7117532+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 776
-    },
-    {
-      "Time": "2022-09-22T19:31:44.9449397+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": 780
-    },
-    {
-      "Time": "2022-10-01T16:31:12.9861728+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-10-05T06:01:07.6583023+00:00",
-      "Rating": 4.55
-    },
-    {
-      "Time": "2022-10-10T15:31:04.2190941+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-03T00:32:11.3574464+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-03T19:03:03.5299975+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-11-08T06:59:35.6525036+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-11-09T04:32:11.415697+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-12-04T14:57:29.1829382+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2022-12-07T09:57:24.3248908+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2022-12-09T10:57:16.2715402+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-01-07T20:57:32.0536808+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-01-07T23:57:30.3669767+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-01-14T06:57:36.6491455+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-01-14T17:57:15.4063234+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-02-15T10:57:23.8700688+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-02-16T04:57:53.0211062+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-09T03:15:15.555856+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-03-12T23:57:25.9934101+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-03-17T22:57:48.2860289+00:00",
-      "Rating": 4.56
-    },
-    {
-      "Time": "2023-03-30T22:57:34.2403841+00:00",
-      "Rating": 4.57
-    },
-    {
-      "Time": "2023-04-08T22:57:52.8626421+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 179,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-11T23:57:23.6638201+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 179,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-13T23:57:20.0441187+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 179,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-15T14:57:53.1965753+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 179,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-04-20T18:57:40.473907+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 180,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-05-01T19:57:22.094047+00:00",
-      "Rating": 4.56,
-      "NumberOfAwards": 180,
-      "NumberOfAwardsMax": 35
-    },
-    {
-      "Time": "2023-05-02T19:57:19.4593668+00:00",
-      "Rating": 4.57,
-      "NumberOfAwards": 180,
-      "NumberOfAwardsMax": 35
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-05T16:07:25.0869425+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 391,
-  "EOS_Completed": 164,
-  "EOS_Progressed": 655637,
-  "LastUpdate_Achievements": "2023-05-05T16:07:25.0869856+00:00",
-  "LastUpdate_Ratings": "2023-05-05T15:59:14.2063876+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:31:05.5075646+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Achievement_01_The_Fool",
+      "SetID": "27hb4pl",
+      "Name": "The Fool",
+      "Percentage": 72,
+      "XP": 10,
+      "UsersEstimate": 472062
+    },
+    {
+      "ID": "Achievement_02_Apprentice",
+      "SetID": "27hb4pl",
+      "Name": "Apprentice",
+      "Percentage": 58,
+      "XP": 10,
+      "UsersEstimate": 380272
+    },
+    {
+      "ID": "Achievement_03_Mercenary",
+      "SetID": "27hb4pl",
+      "Name": "Mercenary",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 150798
+    },
+    {
+      "ID": "Achievement_04_Adventurer",
+      "SetID": "27hb4pl",
+      "Name": "Adventurer",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 39339
+    },
+    {
+      "ID": "Achievement_05_Protector_of_the_Realm",
+      "SetID": "27hb4pl",
+      "Name": "Protector of the Realm",
+      "Percentage": 1,
+      "XP": 100,
+      "UsersEstimate": 6556
+    },
+    {
+      "ID": "Achievement_06_Knight",
+      "SetID": "27hb4pl",
+      "Name": "Knight",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 52451
+    },
+    {
+      "ID": "Achievement_07_Dungeon_Master",
+      "SetID": "27hb4pl",
+      "Name": "Dungeon Master",
+      "Percentage": 0.5,
+      "XP": 100,
+      "UsersEstimate": 3278
+    },
+    {
+      "ID": "Achievement_08_Card_Sharp",
+      "SetID": "27hb4pl",
+      "Name": "Card Sharp",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 13113
+    },
+    {
+      "ID": "Achievement_09_Gambler",
+      "SetID": "27hb4pl",
+      "Name": "Gambler",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 65564
+    },
+    {
+      "ID": "Achievement_10_Long_Shot",
+      "SetID": "27hb4pl",
+      "Name": "Long Shot",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 45895
+    },
+    {
+      "ID": "Achievement_11_Grifter",
+      "SetID": "27hb4pl",
+      "Name": "Grifter",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 656
+    },
+    {
+      "ID": "Achievement_12_Jack_of_all_Trades",
+      "SetID": "27hb4pl",
+      "Name": "Jack of all Trades",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 32782
+    },
+    {
+      "ID": "Achievement_13_Dice_Master",
+      "SetID": "27hb4pl",
+      "Name": "Dice Master",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 65564
+    },
+    {
+      "ID": "Achievement_14_Magician",
+      "SetID": "27hb4pl",
+      "Name": "Magician",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 13113
+    },
+    {
+      "ID": "Achievement_15_Hero",
+      "SetID": "27hb4pl",
+      "Name": "Hero",
+      "Percentage": 0.6,
+      "XP": 25,
+      "UsersEstimate": 3934
+    },
+    {
+      "ID": "Achievement_16_Ally",
+      "SetID": "27hb4pl",
+      "Name": "Ally",
+      "Percentage": 0.8,
+      "XP": 25,
+      "UsersEstimate": 5245
+    },
+    {
+      "ID": "Achievement_17_Rebel",
+      "SetID": "27hb4pl",
+      "Name": "Rebel",
+      "Percentage": 0.6,
+      "XP": 25,
+      "UsersEstimate": 3934
+    },
+    {
+      "ID": "Achievement_18_Ninja",
+      "SetID": "27hb4pl",
+      "Name": "Ninja",
+      "Percentage": 23,
+      "XP": 25,
+      "UsersEstimate": 150798
+    },
+    {
+      "ID": "Achievement_19_Thief_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Thief Bane",
+      "Percentage": 14,
+      "XP": 15,
+      "UsersEstimate": 91790
+    },
+    {
+      "ID": "Achievement_20_Northern_Scourge",
+      "SetID": "27hb4pl",
+      "Name": "Northern Scourge",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 111459
+    },
+    {
+      "ID": "Achievement_21_Empires_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Empire\u0027s Bane",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 39339
+    },
+    {
+      "ID": "Achievement_22_Cure_for_Corruption",
+      "SetID": "27hb4pl",
+      "Name": "Cure for Corruption",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 52451
+    },
+    {
+      "ID": "Achievement_23_Smithy",
+      "SetID": "27hb4pl",
+      "Name": "Smithy",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 32782
+    },
+    {
+      "ID": "Achievement_24_Leap_of_Faith",
+      "SetID": "27hb4pl",
+      "Name": "Leap of Faith",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 19669
+    },
+    {
+      "ID": "Achievement_25_Purgatorium",
+      "SetID": "27hb4pl",
+      "Name": "Purgatorium",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 6556
+    },
+    {
+      "ID": "Achievement_26_Gamester",
+      "SetID": "27hb4pl",
+      "Name": "Gamester",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 4589
+    },
+    {
+      "ID": "Achievement_27_Money_Bags",
+      "SetID": "27hb4pl",
+      "Name": "Money Bags",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 1311
+    },
+    {
+      "ID": "Achievement_28_Unburdened",
+      "SetID": "27hb4pl",
+      "Name": "Unburdened",
+      "Percentage": 0.1,
+      "XP": 25,
+      "UsersEstimate": 656
+    },
+    {
+      "ID": "Achievement_29_Focused",
+      "SetID": "27hb4pl",
+      "Name": "Focused",
+      "Percentage": 8,
+      "XP": 25,
+      "UsersEstimate": 52451
+    },
+    {
+      "ID": "Achievement_30_Devil_Dice",
+      "SetID": "27hb4pl",
+      "Name": "Devil Dice",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 45895
+    },
+    {
+      "ID": "Achievement_31_Master_of_Arms",
+      "SetID": "27hb4pl",
+      "Name": "Master of Arms",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 78677
+    },
+    {
+      "ID": "Achievement_32_Karma",
+      "SetID": "27hb4pl",
+      "Name": "Karma",
+      "Percentage": 0.1,
+      "XP": 25,
+      "UsersEstimate": 656
+    },
+    {
+      "ID": "Achievement_33_Combat_Ready",
+      "SetID": "27hb4pl",
+      "Name": "Combat Ready",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 19669
+    },
+    {
+      "ID": "Achievement_34_Close_Shave",
+      "SetID": "27hb4pl",
+      "Name": "Close Shave",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 163910
+    },
+    {
+      "ID": "Achievement_35_Cursed_Soul",
+      "SetID": "27hb4pl",
+      "Name": "Cursed Soul",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 6556
+    },
+    {
+      "ID": "Achievement_36_Swordsman",
+      "SetID": "27hb4pl",
+      "Name": "Swordsman",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 59008
+    },
+    {
+      "ID": "Achievement_37_Champion",
+      "SetID": "27hb4pl",
+      "Name": "Champion",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 6556
+    },
+    {
+      "ID": "Achievement_38_Flurry_of_Fury",
+      "SetID": "27hb4pl",
+      "Name": "Flurry of Fury",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 52451
+    },
+    {
+      "ID": "Achievement_39_Stuffed_Potato",
+      "SetID": "27hb4pl",
+      "Name": "Stuffed Potato",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 19669
+    },
+    {
+      "ID": "Achievement_40_Broken_Heart",
+      "SetID": "27hb4pl",
+      "Name": "Broken Heart",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 39339
+    },
+    {
+      "ID": "Achievement_41_Draknars_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Draknar\u0027s Bane",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 13113
+    },
+    {
+      "ID": "Achievement_42_Thomas_Bane",
+      "SetID": "27hb4pl",
+      "Name": "Thomas\u0027 Bane",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 5245
+    },
+    {
+      "ID": "Achievement_43_Final_Death",
+      "SetID": "27hb4pl",
+      "Name": "Final Death",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 6556
+    },
+    {
+      "ID": "Achievement_44_Miracle",
+      "SetID": "27hb4pl",
+      "Name": "Miracle",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 656
+    },
+    {
+      "ID": "Achievement_45_Peaceful_Coast",
+      "SetID": "27hb4pl",
+      "Name": "Peaceful Coast",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 1967
+    },
+    {
+      "ID": "Achievement_46_Pilgrim",
+      "SetID": "27hb4pl",
+      "Name": "Pilgrim",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 2623
+    },
+    {
+      "ID": "Achievement_47_Smiths_Honour",
+      "SetID": "27hb4pl",
+      "Name": "Smiths Honour",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 2623
+    },
+    {
+      "ID": "Achievement_48_Blood_Pact",
+      "SetID": "27hb4pl",
+      "Name": "Blood Pact",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 656
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655637,
+      "Progressed": 655642,
       "Completed": 164
     }
   ],
-  "EOS_Completed_Percentage": 0.03,
-  "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "ProductSlug": "hand-of-fate-2",
-  "Rating": 4.57,
-  "Ranking_Rating": 428,
-  "Ranking_Popularity": 427,
-  "Ranking_PopularitySum": 358,
-  "Ranking_EOS_Progress": 18,
-  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 780,
-  "NumberOfAwards": 180,
-  "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "Ranking_EOS_NewPlayers": 83
+  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
+  "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:14.6968598+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:01:59.1625511+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:14.6969063+00:00"
 }

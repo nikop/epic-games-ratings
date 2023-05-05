@@ -1,572 +1,16 @@
 {
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
-  "Achievements": [
-    {
-      "ID": "BigFamily",
-      "SetID": "d0jo315",
-      "Name": "Family man",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 2239
-    },
-    {
-      "ID": "CarMechanic",
-      "SetID": "d0jo315",
-      "Name": "Car Mechanic",
-      "Percentage": 0.7,
-      "XP": 50,
-      "UsersEstimate": 131
-    },
-    {
-      "ID": "ChangChoi",
-      "SetID": "d0jo315",
-      "Name": "Nerd",
-      "Percentage": 0.5,
-      "XP": 100,
-      "UsersEstimate": 93
-    },
-    {
-      "ID": "DoItASAP",
-      "SetID": "d0jo315",
-      "Name": "Do it ASAP",
-      "Percentage": 0.6,
-      "XP": 100,
-      "UsersEstimate": 112
-    },
-    {
-      "ID": "DolanTrusk",
-      "SetID": "d0jo315",
-      "Name": "Worth Every Penny",
-      "Percentage": 15,
-      "XP": 10,
-      "UsersEstimate": 2799
-    },
-    {
-      "ID": "EstateAgent",
-      "SetID": "d0jo315",
-      "Name": "Estate Agent",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 933
-    },
-    {
-      "ID": "FirstMoney",
-      "SetID": "d0jo315",
-      "Name": "First money",
-      "Percentage": 94,
-      "XP": 5,
-      "UsersEstimate": 17538
-    },
-    {
-      "ID": "GameOver",
-      "SetID": "d0jo315",
-      "Name": "Game Over",
-      "Percentage": 0.8,
-      "XP": 50,
-      "UsersEstimate": 149
-    },
-    {
-      "ID": "GorgioShanua",
-      "SetID": "d0jo315",
-      "Name": "I\u0027m Belieber",
-      "Percentage": 2,
-      "XP": 50,
-      "UsersEstimate": 373
-    },
-    {
-      "ID": "JackTarinton",
-      "SetID": "d0jo315",
-      "Name": "Wall Street Shark",
-      "Percentage": 0.8,
-      "XP": 100,
-      "UsersEstimate": 149
-    },
-    {
-      "ID": "JimmyTraitor",
-      "SetID": "d0jo315",
-      "Name": "Mystery",
-      "Percentage": 10,
-      "XP": 25,
-      "UsersEstimate": 1866
-    },
-    {
-      "ID": "JuniorEstateAgent",
-      "SetID": "d0jo315",
-      "Name": "Junior Estate Agent",
-      "Percentage": 12,
-      "XP": 10,
-      "UsersEstimate": 2239
-    },
-    {
-      "ID": "KnockKnock",
-      "SetID": "d0jo315",
-      "Name": "Knock, knock",
-      "Percentage": 0.8,
-      "XP": 50,
-      "UsersEstimate": 149
-    },
-    {
-      "ID": "Millionaire",
-      "SetID": "d0jo315",
-      "Name": "Millionaire",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 933
-    },
-    {
-      "ID": "MrAndMrsJantart",
-      "SetID": "d0jo315",
-      "Name": "Just Enough",
-      "Percentage": 18,
-      "XP": 10,
-      "UsersEstimate": 3358
-    },
-    {
-      "ID": "Negotiator",
-      "SetID": "d0jo315",
-      "Name": "Negotiator",
-      "Percentage": 0.8,
-      "XP": 100,
-      "UsersEstimate": 149
-    },
-    {
-      "ID": "Perfectionist",
-      "SetID": "d0jo315",
-      "Name": "Perfectionist",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 933
-    },
-    {
-      "ID": "RafaelErko",
-      "SetID": "d0jo315",
-      "Name": "Alpha Male",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 3545
-    },
-    {
-      "ID": "SeniorEstateAgent",
-      "SetID": "d0jo315",
-      "Name": "Senior Estate Agent",
-      "Percentage": 0.5,
-      "XP": 150,
-      "UsersEstimate": 93
-    },
-    {
-      "ID": "SmothFamily",
-      "SetID": "d0jo315",
-      "Name": "Pro-creative",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 3172
-    },
-    {
-      "ID": "Strongman",
-      "SetID": "d0jo315",
-      "Name": "Strongman",
-      "Percentage": 31,
-      "XP": 10,
-      "UsersEstimate": 5784
-    },
-    {
-      "ID": "VeronicaLiptson",
-      "SetID": "d0jo315",
-      "Name": "Artistic soul",
-      "Percentage": 9,
-      "XP": 25,
-      "UsersEstimate": 1679
-    },
-    {
-      "ID": "YouDoItWrong",
-      "SetID": "d0jo315",
-      "Name": "You do it wrong",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 187
-    }
-  ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 282
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 218
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 207
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 211
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 216
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 173
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 203
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 232
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 182
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 154
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 202
-    }
-  ],
-  "EosHistory": [
-    {
-      "Time": "2023-04-25T16:09:55.5141961+00:00",
-      "NumProgressed": 18584,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-25T16:58:37.3757565+00:00",
-      "NumProgressed": 18585,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-25T20:50:54.6386765+00:00",
-      "NumProgressed": 18586,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T02:09:06.888724+00:00",
-      "NumProgressed": 18587,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T03:09:29.423499+00:00",
-      "NumProgressed": 18588,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T14:07:11.7320808+00:00",
-      "NumProgressed": 18589,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T16:04:10.7109078+00:00",
-      "NumProgressed": 18590,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T17:04:28.0283968+00:00",
-      "NumProgressed": 18591,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T18:04:57.0928665+00:00",
-      "NumProgressed": 18593,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-26T22:04:13.1965273+00:00",
-      "NumProgressed": 18594,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-27T14:04:20.3147267+00:00",
-      "NumProgressed": 18595,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-27T16:05:02.0665894+00:00",
-      "NumProgressed": 18596,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-27T22:04:15.471197+00:00",
-      "NumProgressed": 18598,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T08:04:27.9007828+00:00",
-      "NumProgressed": 18599,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T13:08:59.9368617+00:00",
-      "NumProgressed": 18602,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T16:04:12.6579543+00:00",
-      "NumProgressed": 18603,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T17:05:21.6749526+00:00",
-      "NumProgressed": 18605,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T18:04:29.1825313+00:00",
-      "NumProgressed": 18606,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T19:04:41.0973165+00:00",
-      "NumProgressed": 18607,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-28T20:04:45.9524853+00:00",
-      "NumProgressed": 18608,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T00:04:28.1435656+00:00",
-      "NumProgressed": 18609,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T05:05:33.2954654+00:00",
-      "NumProgressed": 18610,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T08:03:55.7402198+00:00",
-      "NumProgressed": 18612,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T12:04:27.2697192+00:00",
-      "NumProgressed": 18613,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T15:04:25.9249443+00:00",
-      "NumProgressed": 18615,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T16:05:33.1214312+00:00",
-      "NumProgressed": 18616,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T18:04:17.63384+00:00",
-      "NumProgressed": 18617,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T19:04:18.2976453+00:00",
-      "NumProgressed": 18618,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-29T21:04:13.38854+00:00",
-      "NumProgressed": 18619,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-30T03:04:11.1678588+00:00",
-      "NumProgressed": 18620,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-30T07:03:55.5836847+00:00",
-      "NumProgressed": 18621,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-30T15:04:40.1040657+00:00",
-      "NumProgressed": 18624,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-30T18:04:43.5713354+00:00",
-      "NumProgressed": 18625,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-04-30T21:04:38.1095946+00:00",
-      "NumProgressed": 18626,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-01T02:05:43.0176311+00:00",
-      "NumProgressed": 18627,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-01T10:04:30.5788063+00:00",
-      "NumProgressed": 18628,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-01T11:04:45.487517+00:00",
-      "NumProgressed": 18629,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-01T12:04:03.2266419+00:00",
-      "NumProgressed": 18630,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-01T19:05:25.2980627+00:00",
-      "NumProgressed": 18631,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-02T02:03:01.7173917+00:00",
-      "NumProgressed": 18632,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-02T11:05:09.5550527+00:00",
-      "NumProgressed": 18634,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-02T17:04:58.8002873+00:00",
-      "NumProgressed": 18635,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-02T18:05:03.9142761+00:00",
-      "NumProgressed": 18636,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-02T20:04:11.8427252+00:00",
-      "NumProgressed": 18637,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-02T23:04:12.2208765+00:00",
-      "NumProgressed": 18638,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-03T04:04:46.6474984+00:00",
-      "NumProgressed": 18639,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-03T08:04:04.2271289+00:00",
-      "NumProgressed": 18640,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-03T10:04:18.0354684+00:00",
-      "NumProgressed": 18641,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-03T13:10:45.0929877+00:00",
-      "NumProgressed": 18642,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-03T14:05:08.1051273+00:00",
-      "NumProgressed": 18643,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-04T08:05:12.8142386+00:00",
-      "NumProgressed": 18644,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-04T13:10:25.4053028+00:00",
-      "NumProgressed": 18645,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-04T14:04:57.1125197+00:00",
-      "NumProgressed": 18646,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-04T15:05:11.7983578+00:00",
-      "NumProgressed": 18647,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-04T20:05:55.3298881+00:00",
-      "NumProgressed": 18648,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-04T21:05:56.5962885+00:00",
-      "NumProgressed": 18649,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-05T00:05:17.3949378+00:00",
-      "NumProgressed": 18650,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-05T04:06:25.8354075+00:00",
-      "NumProgressed": 18651,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-05T07:05:38.3548304+00:00",
-      "NumProgressed": 18652,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-05T12:05:53.3057894+00:00",
-      "NumProgressed": 18655,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-05T13:42:07.6515042+00:00",
-      "NumProgressed": 18656,
-      "NumCompleted": 19
-    },
-    {
-      "Time": "2023-05-05T15:05:11.2520631+00:00",
-      "NumProgressed": 18657,
-      "NumCompleted": 19
-    }
-  ],
+  "ProductSlug": "house-flipper",
+  "Ranking_Rating": 192,
+  "Ranking_Popularity": 225,
+  "Ranking_PopularitySum": 179,
+  "Ranking_EOS_Progress": 92,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 4.7,
+  "NumberOfRatings": 1023,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -1820,39 +1264,601 @@
       "NumberOfAwardsMax": 282
     }
   ],
-  "TotalAchievementsXP": 1000,
-  "TotalAchievements": 23,
-  "LastChanged_Achievements": "2023-05-05T16:07:58.2469179+00:00",
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 54,
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 2107,
+  "NumberOfAwardsMax": 282,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 282
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 218
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 207
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 211
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 216
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 173
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 203
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 232
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 182
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 154
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 202
+    }
+  ],
+  "EOS_Progressed": 18658,
   "EOS_Completed": 19,
-  "EOS_Progressed": 18657,
-  "LastUpdate_Achievements": "2023-05-05T16:07:58.2469525+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:36.300705+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:40.4575904+00:00",
+  "EOS_NewPlayers": 53,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.1,
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:55.5141961+00:00",
+      "NumProgressed": 18584,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-25T16:58:37.3757565+00:00",
+      "NumProgressed": 18585,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-25T20:50:54.6386765+00:00",
+      "NumProgressed": 18586,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T02:09:06.888724+00:00",
+      "NumProgressed": 18587,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T03:09:29.423499+00:00",
+      "NumProgressed": 18588,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T14:07:11.7320808+00:00",
+      "NumProgressed": 18589,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T16:04:10.7109078+00:00",
+      "NumProgressed": 18590,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T17:04:28.0283968+00:00",
+      "NumProgressed": 18591,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T18:04:57.0928665+00:00",
+      "NumProgressed": 18593,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-26T22:04:13.1965273+00:00",
+      "NumProgressed": 18594,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-27T14:04:20.3147267+00:00",
+      "NumProgressed": 18595,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-27T16:05:02.0665894+00:00",
+      "NumProgressed": 18596,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-27T22:04:15.471197+00:00",
+      "NumProgressed": 18598,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T08:04:27.9007828+00:00",
+      "NumProgressed": 18599,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T13:08:59.9368617+00:00",
+      "NumProgressed": 18602,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T16:04:12.6579543+00:00",
+      "NumProgressed": 18603,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T17:05:21.6749526+00:00",
+      "NumProgressed": 18605,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T18:04:29.1825313+00:00",
+      "NumProgressed": 18606,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T19:04:41.0973165+00:00",
+      "NumProgressed": 18607,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-28T20:04:45.9524853+00:00",
+      "NumProgressed": 18608,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T00:04:28.1435656+00:00",
+      "NumProgressed": 18609,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T05:05:33.2954654+00:00",
+      "NumProgressed": 18610,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T08:03:55.7402198+00:00",
+      "NumProgressed": 18612,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T12:04:27.2697192+00:00",
+      "NumProgressed": 18613,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T15:04:25.9249443+00:00",
+      "NumProgressed": 18615,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T16:05:33.1214312+00:00",
+      "NumProgressed": 18616,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T18:04:17.63384+00:00",
+      "NumProgressed": 18617,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T19:04:18.2976453+00:00",
+      "NumProgressed": 18618,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T21:04:13.38854+00:00",
+      "NumProgressed": 18619,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-30T03:04:11.1678588+00:00",
+      "NumProgressed": 18620,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-30T07:03:55.5836847+00:00",
+      "NumProgressed": 18621,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-30T15:04:40.1040657+00:00",
+      "NumProgressed": 18624,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-30T18:04:43.5713354+00:00",
+      "NumProgressed": 18625,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-30T21:04:38.1095946+00:00",
+      "NumProgressed": 18626,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-01T02:05:43.0176311+00:00",
+      "NumProgressed": 18627,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-01T10:04:30.5788063+00:00",
+      "NumProgressed": 18628,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-01T11:04:45.487517+00:00",
+      "NumProgressed": 18629,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-01T12:04:03.2266419+00:00",
+      "NumProgressed": 18630,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-01T19:05:25.2980627+00:00",
+      "NumProgressed": 18631,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-02T02:03:01.7173917+00:00",
+      "NumProgressed": 18632,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-02T11:05:09.5550527+00:00",
+      "NumProgressed": 18634,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-02T17:04:58.8002873+00:00",
+      "NumProgressed": 18635,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-02T18:05:03.9142761+00:00",
+      "NumProgressed": 18636,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-02T20:04:11.8427252+00:00",
+      "NumProgressed": 18637,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-02T23:04:12.2208765+00:00",
+      "NumProgressed": 18638,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-03T04:04:46.6474984+00:00",
+      "NumProgressed": 18639,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-03T08:04:04.2271289+00:00",
+      "NumProgressed": 18640,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-03T10:04:18.0354684+00:00",
+      "NumProgressed": 18641,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-03T13:10:45.0929877+00:00",
+      "NumProgressed": 18642,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-03T14:05:08.1051273+00:00",
+      "NumProgressed": 18643,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-04T08:05:12.8142386+00:00",
+      "NumProgressed": 18644,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-04T13:10:25.4053028+00:00",
+      "NumProgressed": 18645,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-04T14:04:57.1125197+00:00",
+      "NumProgressed": 18646,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-04T15:05:11.7983578+00:00",
+      "NumProgressed": 18647,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-04T20:05:55.3298881+00:00",
+      "NumProgressed": 18648,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-04T21:05:56.5962885+00:00",
+      "NumProgressed": 18649,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T00:05:17.3949378+00:00",
+      "NumProgressed": 18650,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T04:06:25.8354075+00:00",
+      "NumProgressed": 18651,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T07:05:38.3548304+00:00",
+      "NumProgressed": 18652,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T12:05:53.3057894+00:00",
+      "NumProgressed": 18655,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T13:42:07.6515042+00:00",
+      "NumProgressed": 18656,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T15:05:11.2520631+00:00",
+      "NumProgressed": 18657,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-05T17:09:39.3526842+00:00",
+      "NumProgressed": 18658,
+      "NumCompleted": 19
+    }
+  ],
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BigFamily",
+      "SetID": "d0jo315",
+      "Name": "Family man",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 2239
+    },
+    {
+      "ID": "CarMechanic",
+      "SetID": "d0jo315",
+      "Name": "Car Mechanic",
+      "Percentage": 0.7,
+      "XP": 50,
+      "UsersEstimate": 131
+    },
+    {
+      "ID": "ChangChoi",
+      "SetID": "d0jo315",
+      "Name": "Nerd",
+      "Percentage": 0.5,
+      "XP": 100,
+      "UsersEstimate": 93
+    },
+    {
+      "ID": "DoItASAP",
+      "SetID": "d0jo315",
+      "Name": "Do it ASAP",
+      "Percentage": 0.6,
+      "XP": 100,
+      "UsersEstimate": 112
+    },
+    {
+      "ID": "DolanTrusk",
+      "SetID": "d0jo315",
+      "Name": "Worth Every Penny",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 2799
+    },
+    {
+      "ID": "EstateAgent",
+      "SetID": "d0jo315",
+      "Name": "Estate Agent",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 933
+    },
+    {
+      "ID": "FirstMoney",
+      "SetID": "d0jo315",
+      "Name": "First money",
+      "Percentage": 94,
+      "XP": 5,
+      "UsersEstimate": 17539
+    },
+    {
+      "ID": "GameOver",
+      "SetID": "d0jo315",
+      "Name": "Game Over",
+      "Percentage": 0.8,
+      "XP": 50,
+      "UsersEstimate": 149
+    },
+    {
+      "ID": "GorgioShanua",
+      "SetID": "d0jo315",
+      "Name": "I\u0027m Belieber",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 373
+    },
+    {
+      "ID": "JackTarinton",
+      "SetID": "d0jo315",
+      "Name": "Wall Street Shark",
+      "Percentage": 0.8,
+      "XP": 100,
+      "UsersEstimate": 149
+    },
+    {
+      "ID": "JimmyTraitor",
+      "SetID": "d0jo315",
+      "Name": "Mystery",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 1866
+    },
+    {
+      "ID": "JuniorEstateAgent",
+      "SetID": "d0jo315",
+      "Name": "Junior Estate Agent",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 2239
+    },
+    {
+      "ID": "KnockKnock",
+      "SetID": "d0jo315",
+      "Name": "Knock, knock",
+      "Percentage": 0.8,
+      "XP": 50,
+      "UsersEstimate": 149
+    },
+    {
+      "ID": "Millionaire",
+      "SetID": "d0jo315",
+      "Name": "Millionaire",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 933
+    },
+    {
+      "ID": "MrAndMrsJantart",
+      "SetID": "d0jo315",
+      "Name": "Just Enough",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 3358
+    },
+    {
+      "ID": "Negotiator",
+      "SetID": "d0jo315",
+      "Name": "Negotiator",
+      "Percentage": 0.8,
+      "XP": 100,
+      "UsersEstimate": 149
+    },
+    {
+      "ID": "Perfectionist",
+      "SetID": "d0jo315",
+      "Name": "Perfectionist",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 933
+    },
+    {
+      "ID": "RafaelErko",
+      "SetID": "d0jo315",
+      "Name": "Alpha Male",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 3545
+    },
+    {
+      "ID": "SeniorEstateAgent",
+      "SetID": "d0jo315",
+      "Name": "Senior Estate Agent",
+      "Percentage": 0.5,
+      "XP": 150,
+      "UsersEstimate": 93
+    },
+    {
+      "ID": "SmothFamily",
+      "SetID": "d0jo315",
+      "Name": "Pro-creative",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 3172
+    },
+    {
+      "ID": "Strongman",
+      "SetID": "d0jo315",
+      "Name": "Strongman",
+      "Percentage": 31,
+      "XP": 10,
+      "UsersEstimate": 5784
+    },
+    {
+      "ID": "VeronicaLiptson",
+      "SetID": "d0jo315",
+      "Name": "Artistic soul",
+      "Percentage": 9,
+      "XP": 25,
+      "UsersEstimate": 1679
+    },
+    {
+      "ID": "YouDoItWrong",
+      "SetID": "d0jo315",
+      "Name": "You do it wrong",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 187
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18657,
+      "Progressed": 18658,
       "Completed": 19
     }
   ],
-  "EOS_Completed_Percentage": 0.1,
-  "LastChanged": "2023-05-04T19:59:32.4424823+00:00",
-  "ProductSlug": "house-flipper",
-  "Rating": 4.7,
-  "Ranking_Rating": 192,
-  "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 179,
-  "Ranking_EOS_Progress": 92,
-  "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 1023,
-  "NumberOfAwards": 2107,
-  "NumberOfAwardsMax": 282,
-  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "Ranking_EOS_NewPlayers": 126
+  "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
+  "LastChanged": "2023-05-04T19:59:32.4424823+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:39.3526837+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:35.5211178+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:33.1543695+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:39.3527048+00:00"
 }

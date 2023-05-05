@@ -1,457 +1,326 @@
 {
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
-  "Achievements": [
+  "ProductSlug": "hell-is-others-789262",
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 39,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 49,
+  "Rating": 4.47,
+  "RatingHistory": [
     {
-      "ID": "Act1",
-      "SetID": "3l9dm1h",
-      "Name": "The Wait",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 17346
+      "Time": "2023-02-05T15:57:56.0114161+00:00",
+      "Rating": 4.1
     },
     {
-      "ID": "Act2",
-      "SetID": "3l9dm1h",
-      "Name": "The Ascent",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 9912
+      "Time": "2023-02-06T15:58:41.279098+00:00",
+      "Rating": 4.22
     },
     {
-      "ID": "Act3",
-      "SetID": "3l9dm1h",
-      "Name": "The Strengthening",
-      "Percentage": 1,
-      "XP": 20,
-      "UsersEstimate": 2478
+      "Time": "2023-02-07T15:58:01.9618109+00:00",
+      "Rating": 4.2
     },
     {
-      "ID": "Act4",
-      "SetID": "3l9dm1h",
-      "Name": "The Gamble",
-      "Percentage": 0.5,
-      "XP": 30,
-      "UsersEstimate": 1239
+      "Time": "2023-02-13T21:57:59.794444+00:00",
+      "Rating": 4.19
     },
     {
-      "ID": "Act5",
-      "SetID": "3l9dm1h",
-      "Name": "The Descent",
-      "Percentage": 0.5,
-      "XP": 50,
-      "UsersEstimate": 1239
+      "Time": "2023-02-14T21:58:14.702838+00:00",
+      "Rating": 4.21
     },
     {
-      "ID": "BackHomeAfterTimesUp",
-      "SetID": "3l9dm1h",
-      "Name": "By a hair",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-02-17T21:57:54.2943754+00:00",
+      "Rating": 4.24
     },
     {
-      "ID": "BackHomeFirstTime",
-      "SetID": "3l9dm1h",
-      "Name": "Survivor",
-      "Percentage": 31,
-      "XP": 10,
-      "UsersEstimate": 76820
+      "Time": "2023-02-18T21:58:13.6506637+00:00",
+      "Rating": 4.29
     },
     {
-      "ID": "BackHomeNTimes",
-      "SetID": "3l9dm1h",
-      "Name": "Well-oiled machine",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 12390
+      "Time": "2023-02-20T15:58:17.1769717+00:00",
+      "Rating": 4.37
     },
     {
-      "ID": "BackHomeWithNoDamageCaused",
-      "SetID": "3l9dm1h",
-      "Name": "Pacifist",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 9912
+      "Time": "2023-02-21T15:57:29.9847437+00:00",
+      "Rating": 4.42
     },
     {
-      "ID": "BreakNWindows",
-      "SetID": "3l9dm1h",
-      "Name": "Vandalism",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 9912
+      "Time": "2023-02-22T15:57:52.3933605+00:00",
+      "Rating": 4.41
     },
     {
-      "ID": "BuyHighValueFurniture",
-      "SetID": "3l9dm1h",
-      "Name": "A major purchase",
-      "Percentage": 0.5,
-      "XP": 20,
-      "UsersEstimate": 1239
+      "Time": "2023-02-23T09:58:41.7525737+00:00",
+      "Rating": 4.4
     },
     {
-      "ID": "BuyNWeapons",
-      "SetID": "3l9dm1h",
-      "Name": "Arms dealer",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 743
+      "Time": "2023-02-24T02:11:55.7049888+00:00",
+      "Rating": 4.42
     },
     {
-      "ID": "CompleteBestiary",
-      "SetID": "3l9dm1h",
-      "Name": "Expert Hunter",
-      "Percentage": 0.4,
-      "XP": 20,
-      "UsersEstimate": 991
+      "Time": "2023-02-24T14:58:30.7409752+00:00",
+      "Rating": 4.44
     },
     {
-      "ID": "CreditLevel1",
-      "SetID": "3l9dm1h",
-      "Name": "Fixer I",
-      "Percentage": 9,
-      "XP": 10,
-      "UsersEstimate": 22302
+      "Time": "2023-02-24T21:57:50.5087233+00:00",
+      "Rating": 4.43
     },
     {
-      "ID": "CreditLevel2",
-      "SetID": "3l9dm1h",
-      "Name": "Fixer II",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-02-25T07:57:37.6756373+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "CreditLevel3",
-      "SetID": "3l9dm1h",
-      "Name": "Fixer III",
-      "Percentage": 0.2,
-      "XP": 20,
-      "UsersEstimate": 496
+      "Time": "2023-02-26T03:57:57.397649+00:00",
+      "Rating": 4.43
     },
     {
-      "ID": "CreedsInBank1",
-      "SetID": "3l9dm1h",
-      "Name": "Saver I",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 12390
+      "Time": "2023-02-27T03:13:05.4626231+00:00",
+      "Rating": 4.46
     },
     {
-      "ID": "CreedsInBank2",
-      "SetID": "3l9dm1h",
-      "Name": "Saver II",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2478
+      "Time": "2023-02-27T11:58:18.769443+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "CreedsInBank3",
-      "SetID": "3l9dm1h",
-      "Name": "Saver III",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 248
+      "Time": "2023-02-28T02:14:00.6726426+00:00",
+      "Rating": 4.41
     },
     {
-      "ID": "DiscoverAllObjects",
-      "SetID": "3l9dm1h",
-      "Name": "Collector",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 248
+      "Time": "2023-02-28T13:15:36.2550348+00:00",
+      "Rating": 4.42
     },
     {
-      "ID": "EatNFungus",
-      "SetID": "3l9dm1h",
-      "Name": "Fungi hunter",
-      "Percentage": 0.4,
-      "XP": 10,
-      "UsersEstimate": 991
+      "Time": "2023-02-28T17:57:50.725732+00:00",
+      "Rating": 4.44
     },
     {
-      "ID": "EatNPills",
-      "SetID": "3l9dm1h",
-      "Name": "It\u0027s the last one, I swear",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2478
+      "Time": "2023-03-01T23:58:27.5464636+00:00",
+      "Rating": 4.42
     },
     {
-      "ID": "FullHomeExpansion",
-      "SetID": "3l9dm1h",
-      "Name": "Mansion",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 248
+      "Time": "2023-03-02T13:14:46.6838472+00:00",
+      "Rating": 4.43
     },
     {
-      "ID": "FullInventoryExpansion",
-      "SetID": "3l9dm1h",
-      "Name": "Workhorse",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 248
+      "Time": "2023-03-03T06:58:09.2636856+00:00",
+      "Rating": 4.42
     },
     {
-      "ID": "GrowPlantWithFertilisers",
-      "SetID": "3l9dm1h",
-      "Name": "Botanist",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2478
+      "Time": "2023-03-04T08:57:44.4389511+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "GrowPlants1",
-      "SetID": "3l9dm1h",
-      "Name": "Green thumb I",
-      "Percentage": 6,
-      "XP": 10,
-      "UsersEstimate": 14868
+      "Time": "2023-03-04T22:58:18.954235+00:00",
+      "Rating": 4.4
     },
     {
-      "ID": "GrowPlants2",
-      "SetID": "3l9dm1h",
-      "Name": "Green thumb II",
-      "Percentage": 1,
-      "XP": 30,
-      "UsersEstimate": 2478
+      "Time": "2023-03-08T11:57:51.5436473+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "GrowPlants3",
-      "SetID": "3l9dm1h",
-      "Name": "Green thumb III",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 248
+      "Time": "2023-03-09T11:58:27.4466518+00:00",
+      "Rating": 4.4
     },
     {
-      "ID": "GrowPlantsSameTime",
-      "SetID": "3l9dm1h",
-      "Name": "Plantation",
-      "Percentage": 0.1,
-      "XP": 10,
-      "UsersEstimate": 248
+      "Time": "2023-03-09T19:58:08.0962566+00:00",
+      "Rating": 4.38
     },
     {
-      "ID": "HomeWithNFurniture",
-      "SetID": "3l9dm1h",
-      "Name": "Interior designer",
-      "Percentage": 0.6,
-      "XP": 10,
-      "UsersEstimate": 1487
+      "Time": "2023-03-10T13:57:46.645359+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "KillCrawlingThing",
-      "SetID": "3l9dm1h",
-      "Name": "It took a while",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-03-11T04:57:41.542931+00:00",
+      "Rating": 4.38
     },
     {
-      "ID": "KillHauntingThingsWithBaseballBat",
-      "SetID": "3l9dm1h",
-      "Name": "Homerun",
-      "Percentage": 0.2,
-      "XP": 10,
-      "UsersEstimate": 496
+      "Time": "2023-03-11T13:58:13.3213904+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "KillOtherInFirstMinute",
-      "SetID": "3l9dm1h",
-      "Name": "Cleaning Company",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 12390
+      "Time": "2023-03-12T03:58:29.9050623+00:00",
+      "Rating": 4.38
     },
     {
-      "ID": "KillOtherWithKatana",
-      "SetID": "3l9dm1h",
-      "Name": "Samurai",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-03-13T02:06:10.6959482+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "KillOtherWithLowHealth",
-      "SetID": "3l9dm1h",
-      "Name": "Adrenaline",
-      "Percentage": 3,
-      "XP": 10,
-      "UsersEstimate": 7434
+      "Time": "2023-03-14T14:58:40.7968345+00:00",
+      "Rating": 4.38
     },
     {
-      "ID": "KillOtherWithMine",
-      "SetID": "3l9dm1h",
-      "Name": "I Left You a Present",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 4956
+      "Time": "2023-03-15T15:57:59.1035837+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "KillOthers1",
-      "SetID": "3l9dm1h",
-      "Name": "Predator I",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 52039
+      "Time": "2023-03-17T23:57:52.7457359+00:00",
+      "Rating": 4.37
     },
     {
-      "ID": "KillOthers2",
-      "SetID": "3l9dm1h",
-      "Name": "Predator II",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-03-18T23:57:51.4547627+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "KillOthers3",
-      "SetID": "3l9dm1h",
-      "Name": "Predator III",
-      "Percentage": 0.3,
-      "XP": 10,
-      "UsersEstimate": 743
+      "Time": "2023-03-21T13:00:39.5592021+00:00",
+      "Rating": 4.38
     },
     {
-      "ID": "KillUnstableThing",
-      "SetID": "3l9dm1h",
-      "Name": "Truffle Dog",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-03-22T13:10:06.1389362+00:00",
+      "Rating": 4.39
     },
     {
-      "ID": "KillVengefulThingWithMeleeAndSurvive",
-      "SetID": "3l9dm1h",
-      "Name": "Don\u0027t try this at home",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2478
+      "Time": "2023-03-23T19:58:12.2013207+00:00",
+      "Rating": 4.4
     },
     {
-      "ID": "MaxImagoLevel",
-      "SetID": "3l9dm1h",
-      "Name": "Reminescence",
-      "Percentage": 0.1,
-      "XP": 30,
-      "UsersEstimate": 248
+      "Time": "2023-03-24T05:57:58.1164367+00:00",
+      "Rating": 4.41
     },
     {
-      "ID": "MaxRepOfAllNpcs",
-      "SetID": "3l9dm1h",
-      "Name": "Beloved",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 248
+      "Time": "2023-03-24T11:57:48.3467951+00:00",
+      "Rating": 4.42
     },
     {
-      "ID": "MaxRepOfOneNpc",
-      "SetID": "3l9dm1h",
-      "Name": "Committed Relationship",
-      "Percentage": 0.8,
-      "XP": 10,
-      "UsersEstimate": 1982
+      "Time": "2023-03-26T21:57:36.6580956+00:00",
+      "Rating": 4.43
     },
     {
-      "ID": "NewFloor",
-      "SetID": "3l9dm1h",
-      "Name": "Bricklayer",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2478
+      "Time": "2023-03-29T07:58:23.3717375+00:00",
+      "Rating": 4.44
     },
     {
-      "ID": "OldCoinCollected",
-      "SetID": "3l9dm1h",
-      "Name": "Number 1",
-      "Percentage": 0.7,
-      "XP": 10,
-      "UsersEstimate": 1735
+      "Time": "2023-03-31T05:58:04.2463458+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Patrimony1",
-      "SetID": "3l9dm1h",
-      "Name": "Capitalist I",
-      "Percentage": 4,
-      "XP": 10,
-      "UsersEstimate": 9912
+      "Time": "2023-04-02T13:58:30.198265+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Patrimony2",
-      "SetID": "3l9dm1h",
-      "Name": "Capitalist II",
-      "Percentage": 0.1,
-      "XP": 20,
-      "UsersEstimate": 248
+      "Time": "2023-04-04T13:58:13.8820968+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "Patrimony3",
-      "SetID": "3l9dm1h",
-      "Name": "Capitalist III",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 248
+      "Time": "2023-04-04T18:58:07.796773+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ReachNDays1",
-      "SetID": "3l9dm1h",
-      "Name": "A week in Century City",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 24780
+      "Time": "2023-04-05T15:58:13.2916098+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ReachNDays2",
-      "SetID": "3l9dm1h",
-      "Name": "A month in Century City",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 4956
+      "Time": "2023-04-07T01:51:25.4386807+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "ReachNDays3",
-      "SetID": "3l9dm1h",
-      "Name": "A season in Century City",
-      "Percentage": 0.2,
-      "XP": 20,
-      "UsersEstimate": 496
+      "Time": "2023-04-08T20:58:04.0837607+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "TakeFromBankNCreedsOneTime",
-      "SetID": "3l9dm1h",
-      "Name": "AML questionnaire",
-      "Percentage": 0.3,
-      "XP": 20,
-      "UsersEstimate": 743
+      "Time": "2023-04-09T02:58:14.6101435+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "TakeHomeNHearts",
-      "SetID": "3l9dm1h",
-      "Name": "Heartbreaker",
-      "Percentage": 0.2,
-      "XP": 20,
-      "UsersEstimate": 496
+      "Time": "2023-04-12T13:57:44.2904796+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "UnlockAllAchievements",
-      "SetID": "3l9dm1h",
-      "Name": "Hell Is You",
-      "Percentage": 0.1,
-      "XP": 50,
-      "UsersEstimate": 248
+      "Time": "2023-04-13T13:58:10.0426932+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     },
     {
-      "ID": "UnlockedAllShops",
-      "SetID": "3l9dm1h",
-      "Name": "Run the Economy",
-      "Percentage": 1,
-      "XP": 10,
-      "UsersEstimate": 2478
+      "Time": "2023-04-14T05:58:23.3796255+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T23:58:35.9206473+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T14:57:56.3308091+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-21T14:57:55.3380863+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-24T07:57:40.3307142+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-24T15:58:28.547827+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-27T18:00:40.7520587+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-01T02:01:09.2962601+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-03T06:59:46.5616674+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-04T14:00:09.0661891+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
+  "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
+  "EOS_Progressed": 247812,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 780,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:43.4709573+00:00",
@@ -1642,342 +1511,479 @@
       "Time": "2023-05-05T16:08:17.6136014+00:00",
       "NumProgressed": 247805,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-05T17:09:53.5327142+00:00",
+      "NumProgressed": 247812,
+      "NumCompleted": 1
     }
   ],
-  "RatingHistory": [
-    {
-      "Time": "2023-02-05T15:57:56.0114161+00:00",
-      "Rating": 4.1
-    },
-    {
-      "Time": "2023-02-06T15:58:41.279098+00:00",
-      "Rating": 4.22
-    },
-    {
-      "Time": "2023-02-07T15:58:01.9618109+00:00",
-      "Rating": 4.2
-    },
-    {
-      "Time": "2023-02-13T21:57:59.794444+00:00",
-      "Rating": 4.19
-    },
-    {
-      "Time": "2023-02-14T21:58:14.702838+00:00",
-      "Rating": 4.21
-    },
-    {
-      "Time": "2023-02-17T21:57:54.2943754+00:00",
-      "Rating": 4.24
-    },
-    {
-      "Time": "2023-02-18T21:58:13.6506637+00:00",
-      "Rating": 4.29
-    },
-    {
-      "Time": "2023-02-20T15:58:17.1769717+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2023-02-21T15:57:29.9847437+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-02-22T15:57:52.3933605+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2023-02-23T09:58:41.7525737+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2023-02-24T02:11:55.7049888+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-02-24T14:58:30.7409752+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-02-24T21:57:50.5087233+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-02-25T07:57:37.6756373+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-02-26T03:57:57.397649+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-02-27T03:13:05.4626231+00:00",
-      "Rating": 4.46
-    },
-    {
-      "Time": "2023-02-27T11:58:18.769443+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-02-28T02:14:00.6726426+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2023-02-28T13:15:36.2550348+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-02-28T17:57:50.725732+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-03-01T23:58:27.5464636+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-03-02T13:14:46.6838472+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-03-03T06:58:09.2636856+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-03-04T08:57:44.4389511+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-04T22:58:18.954235+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2023-03-08T11:57:51.5436473+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-09T11:58:27.4466518+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2023-03-09T19:58:08.0962566+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2023-03-10T13:57:46.645359+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-11T04:57:41.542931+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2023-03-11T13:58:13.3213904+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-12T03:58:29.9050623+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2023-03-13T02:06:10.6959482+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-14T14:58:40.7968345+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2023-03-15T15:57:59.1035837+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-17T23:57:52.7457359+00:00",
-      "Rating": 4.37
-    },
-    {
-      "Time": "2023-03-18T23:57:51.4547627+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-21T13:00:39.5592021+00:00",
-      "Rating": 4.38
-    },
-    {
-      "Time": "2023-03-22T13:10:06.1389362+00:00",
-      "Rating": 4.39
-    },
-    {
-      "Time": "2023-03-23T19:58:12.2013207+00:00",
-      "Rating": 4.4
-    },
-    {
-      "Time": "2023-03-24T05:57:58.1164367+00:00",
-      "Rating": 4.41
-    },
-    {
-      "Time": "2023-03-24T11:57:48.3467951+00:00",
-      "Rating": 4.42
-    },
-    {
-      "Time": "2023-03-26T21:57:36.6580956+00:00",
-      "Rating": 4.43
-    },
-    {
-      "Time": "2023-03-29T07:58:23.3717375+00:00",
-      "Rating": 4.44
-    },
-    {
-      "Time": "2023-03-31T05:58:04.2463458+00:00",
-      "Rating": 4.44,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-02T13:58:30.198265+00:00",
-      "Rating": 4.43,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-04T13:58:13.8820968+00:00",
-      "Rating": 4.44,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-04T18:58:07.796773+00:00",
-      "Rating": 4.45,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-05T15:58:13.2916098+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-07T01:51:25.4386807+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-08T20:58:04.0837607+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-09T02:58:14.6101435+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-12T13:57:44.2904796+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-13T13:58:10.0426932+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-14T05:58:23.3796255+00:00",
-      "Rating": 4.46,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-15T23:58:35.9206473+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-17T14:57:56.3308091+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-21T14:57:55.3380863+00:00",
-      "Rating": 4.49,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-24T07:57:40.3307142+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-24T15:58:28.547827+00:00",
-      "Rating": 4.49,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-04-27T18:00:40.7520587+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-01T02:01:09.2962601+00:00",
-      "Rating": 4.49,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-03T06:59:46.5616674+00:00",
-      "Rating": 4.48,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    },
-    {
-      "Time": "2023-05-04T14:00:09.0661891+00:00",
-      "Rating": 4.47,
-      "NumberOfAwards": 0,
-      "NumberOfAwardsMax": 0
-    }
-  ],
-  "TotalAchievementsXP": 1000,
   "TotalAchievements": 56,
-  "LastChanged_Achievements": "2023-05-05T16:08:17.6136009+00:00",
-  "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 777,
-  "EOS_Completed": 1,
-  "EOS_Progressed": 247805,
-  "LastUpdate_Achievements": "2023-05-05T16:08:17.6136547+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:02:33.356448+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:33:19.258759+00:00",
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Act1",
+      "SetID": "3l9dm1h",
+      "Name": "The Wait",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 17347
+    },
+    {
+      "ID": "Act2",
+      "SetID": "3l9dm1h",
+      "Name": "The Ascent",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 9912
+    },
+    {
+      "ID": "Act3",
+      "SetID": "3l9dm1h",
+      "Name": "The Strengthening",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "Act4",
+      "SetID": "3l9dm1h",
+      "Name": "The Gamble",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 1239
+    },
+    {
+      "ID": "Act5",
+      "SetID": "3l9dm1h",
+      "Name": "The Descent",
+      "Percentage": 0.5,
+      "XP": 50,
+      "UsersEstimate": 1239
+    },
+    {
+      "ID": "BackHomeAfterTimesUp",
+      "SetID": "3l9dm1h",
+      "Name": "By a hair",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "BackHomeFirstTime",
+      "SetID": "3l9dm1h",
+      "Name": "Survivor",
+      "Percentage": 31,
+      "XP": 10,
+      "UsersEstimate": 76822
+    },
+    {
+      "ID": "BackHomeNTimes",
+      "SetID": "3l9dm1h",
+      "Name": "Well-oiled machine",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 12391
+    },
+    {
+      "ID": "BackHomeWithNoDamageCaused",
+      "SetID": "3l9dm1h",
+      "Name": "Pacifist",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 9912
+    },
+    {
+      "ID": "BreakNWindows",
+      "SetID": "3l9dm1h",
+      "Name": "Vandalism",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 9912
+    },
+    {
+      "ID": "BuyHighValueFurniture",
+      "SetID": "3l9dm1h",
+      "Name": "A major purchase",
+      "Percentage": 0.5,
+      "XP": 20,
+      "UsersEstimate": 1239
+    },
+    {
+      "ID": "BuyNWeapons",
+      "SetID": "3l9dm1h",
+      "Name": "Arms dealer",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 743
+    },
+    {
+      "ID": "CompleteBestiary",
+      "SetID": "3l9dm1h",
+      "Name": "Expert Hunter",
+      "Percentage": 0.4,
+      "XP": 20,
+      "UsersEstimate": 991
+    },
+    {
+      "ID": "CreditLevel1",
+      "SetID": "3l9dm1h",
+      "Name": "Fixer I",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 22303
+    },
+    {
+      "ID": "CreditLevel2",
+      "SetID": "3l9dm1h",
+      "Name": "Fixer II",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "CreditLevel3",
+      "SetID": "3l9dm1h",
+      "Name": "Fixer III",
+      "Percentage": 0.2,
+      "XP": 20,
+      "UsersEstimate": 496
+    },
+    {
+      "ID": "CreedsInBank1",
+      "SetID": "3l9dm1h",
+      "Name": "Saver I",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 12391
+    },
+    {
+      "ID": "CreedsInBank2",
+      "SetID": "3l9dm1h",
+      "Name": "Saver II",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "CreedsInBank3",
+      "SetID": "3l9dm1h",
+      "Name": "Saver III",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "DiscoverAllObjects",
+      "SetID": "3l9dm1h",
+      "Name": "Collector",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "EatNFungus",
+      "SetID": "3l9dm1h",
+      "Name": "Fungi hunter",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 991
+    },
+    {
+      "ID": "EatNPills",
+      "SetID": "3l9dm1h",
+      "Name": "It\u0027s the last one, I swear",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "FullHomeExpansion",
+      "SetID": "3l9dm1h",
+      "Name": "Mansion",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "FullInventoryExpansion",
+      "SetID": "3l9dm1h",
+      "Name": "Workhorse",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "GrowPlantWithFertilisers",
+      "SetID": "3l9dm1h",
+      "Name": "Botanist",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "GrowPlants1",
+      "SetID": "3l9dm1h",
+      "Name": "Green thumb I",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 14869
+    },
+    {
+      "ID": "GrowPlants2",
+      "SetID": "3l9dm1h",
+      "Name": "Green thumb II",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "GrowPlants3",
+      "SetID": "3l9dm1h",
+      "Name": "Green thumb III",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "GrowPlantsSameTime",
+      "SetID": "3l9dm1h",
+      "Name": "Plantation",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "HomeWithNFurniture",
+      "SetID": "3l9dm1h",
+      "Name": "Interior designer",
+      "Percentage": 0.6,
+      "XP": 10,
+      "UsersEstimate": 1487
+    },
+    {
+      "ID": "KillCrawlingThing",
+      "SetID": "3l9dm1h",
+      "Name": "It took a while",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "KillHauntingThingsWithBaseballBat",
+      "SetID": "3l9dm1h",
+      "Name": "Homerun",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 496
+    },
+    {
+      "ID": "KillOtherInFirstMinute",
+      "SetID": "3l9dm1h",
+      "Name": "Cleaning Company",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 12391
+    },
+    {
+      "ID": "KillOtherWithKatana",
+      "SetID": "3l9dm1h",
+      "Name": "Samurai",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "KillOtherWithLowHealth",
+      "SetID": "3l9dm1h",
+      "Name": "Adrenaline",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 7434
+    },
+    {
+      "ID": "KillOtherWithMine",
+      "SetID": "3l9dm1h",
+      "Name": "I Left You a Present",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "KillOthers1",
+      "SetID": "3l9dm1h",
+      "Name": "Predator I",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 52041
+    },
+    {
+      "ID": "KillOthers2",
+      "SetID": "3l9dm1h",
+      "Name": "Predator II",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "KillOthers3",
+      "SetID": "3l9dm1h",
+      "Name": "Predator III",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 743
+    },
+    {
+      "ID": "KillUnstableThing",
+      "SetID": "3l9dm1h",
+      "Name": "Truffle Dog",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "KillVengefulThingWithMeleeAndSurvive",
+      "SetID": "3l9dm1h",
+      "Name": "Don\u0027t try this at home",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "MaxImagoLevel",
+      "SetID": "3l9dm1h",
+      "Name": "Reminescence",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "MaxRepOfAllNpcs",
+      "SetID": "3l9dm1h",
+      "Name": "Beloved",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "MaxRepOfOneNpc",
+      "SetID": "3l9dm1h",
+      "Name": "Committed Relationship",
+      "Percentage": 0.8,
+      "XP": 10,
+      "UsersEstimate": 1982
+    },
+    {
+      "ID": "NewFloor",
+      "SetID": "3l9dm1h",
+      "Name": "Bricklayer",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2478
+    },
+    {
+      "ID": "OldCoinCollected",
+      "SetID": "3l9dm1h",
+      "Name": "Number 1",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 1735
+    },
+    {
+      "ID": "Patrimony1",
+      "SetID": "3l9dm1h",
+      "Name": "Capitalist I",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 9912
+    },
+    {
+      "ID": "Patrimony2",
+      "SetID": "3l9dm1h",
+      "Name": "Capitalist II",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "Patrimony3",
+      "SetID": "3l9dm1h",
+      "Name": "Capitalist III",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "ReachNDays1",
+      "SetID": "3l9dm1h",
+      "Name": "A week in Century City",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 24781
+    },
+    {
+      "ID": "ReachNDays2",
+      "SetID": "3l9dm1h",
+      "Name": "A month in Century City",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 4956
+    },
+    {
+      "ID": "ReachNDays3",
+      "SetID": "3l9dm1h",
+      "Name": "A season in Century City",
+      "Percentage": 0.2,
+      "XP": 20,
+      "UsersEstimate": 496
+    },
+    {
+      "ID": "TakeFromBankNCreedsOneTime",
+      "SetID": "3l9dm1h",
+      "Name": "AML questionnaire",
+      "Percentage": 0.3,
+      "XP": 20,
+      "UsersEstimate": 743
+    },
+    {
+      "ID": "TakeHomeNHearts",
+      "SetID": "3l9dm1h",
+      "Name": "Heartbreaker",
+      "Percentage": 0.2,
+      "XP": 20,
+      "UsersEstimate": 496
+    },
+    {
+      "ID": "UnlockAllAchievements",
+      "SetID": "3l9dm1h",
+      "Name": "Hell Is You",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 248
+    },
+    {
+      "ID": "UnlockedAllShops",
+      "SetID": "3l9dm1h",
+      "Name": "Run the Economy",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 2478
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247805,
+      "Progressed": 247812,
       "Completed": 1
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
-  "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
-  "ProductSlug": "hell-is-others-789262",
-  "Rating": 4.47,
-  "Ranking_Rating": 574,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 39,
-  "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 49,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
-  "Ranking_EOS_NewPlayers": 61
+  "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
+  "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
+  "LastChanged_Achievements": "2023-05-05T17:09:53.5327137+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:04:11.9637576+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:09:53.5327707+00:00"
 }

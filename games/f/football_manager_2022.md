@@ -10,56 +10,56 @@ Diff (max vs sum): 28
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~229,576 |
-| First Victory | 50.00% | ~229,576 |
-| Clean Sheet | 49.00% | ~224,984 |
-| He's Sold! | 47.00% | ~215,801 |
-| I'm The Boss! | 41.00% | ~188,252 |
-| Hat-trick | 41.00% | ~188,252 |
-| Scoring Streak | 37.00% | ~169,886 |
-| Unbeatable! | 36.00% | ~165,295 |
-| Thumping | 36.00% | ~165,295 |
-| Superb Dressing Room Atmosphere | 34.00% | ~156,112 |
-| Total Support | 32.00% | ~146,929 |
-| Record Signing | 31.00% | ~142,337 |
+| He's Signed! | 50.00% | ~229,578 |
+| First Victory | 50.00% | ~229,578 |
+| Clean Sheet | 49.00% | ~224,986 |
+| He's Sold! | 47.00% | ~215,803 |
+| I'm The Boss! | 41.00% | ~188,254 |
+| Hat-trick | 41.00% | ~188,254 |
+| Scoring Streak | 37.00% | ~169,887 |
+| Unbeatable! | 36.00% | ~165,296 |
+| Thumping | 36.00% | ~165,296 |
+| Superb Dressing Room Atmosphere | 34.00% | ~156,113 |
+| Total Support | 32.00% | ~146,930 |
+| Record Signing | 31.00% | ~142,338 |
 | He's a Natural | 30.00% | ~137,746 |
 | Millionaire's Club | 30.00% | ~137,746 |
-| Team Performance | 29.00% | ~133,154 |
+| Team Performance | 29.00% | ~133,155 |
 | Parked The Bus | 28.00% | ~128,563 |
 | Shrewd Spender | 28.00% | ~128,563 |
 | Star Man | 28.00% | ~128,563 |
-| Attack! | 27.00% | ~123,971 |
+| Attack! | 27.00% | ~123,972 |
 | You're On Fire | 26.00% | ~119,380 |
 | Tremendous Trio | 26.00% | ~119,380 |
-| On A Roll | 25.00% | ~114,788 |
-| Unstoppable Force | 25.00% | ~114,788 |
-| Record Sale | 25.00% | ~114,788 |
-| Fantastic Five | 23.00% | ~105,605 |
-| Full Faith | 23.00% | ~105,605 |
-| The Boss | 23.00% | ~105,605 |
-| Armchair Expert | 23.00% | ~105,605 |
-| Iron Curtain | 22.00% | ~101,013 |
-| Top Of The Class | 22.00% | ~101,013 |
-| Goal Machine | 22.00% | ~101,013 |
-| Splashing The Cash | 21.00% | ~96,422 |
-| What A Goal! | 21.00% | ~96,422 |
-| Cup Glory! | 21.00% | ~96,422 |
-| Clean Bill of Health | 20.00% | ~91,830 |
+| On A Roll | 25.00% | ~114,789 |
+| Unstoppable Force | 25.00% | ~114,789 |
+| Record Sale | 25.00% | ~114,789 |
+| Fantastic Five | 23.00% | ~105,606 |
+| Full Faith | 23.00% | ~105,606 |
+| The Boss | 23.00% | ~105,606 |
+| Armchair Expert | 23.00% | ~105,606 |
+| Iron Curtain | 22.00% | ~101,014 |
+| Top Of The Class | 22.00% | ~101,014 |
+| Goal Machine | 22.00% | ~101,014 |
+| Splashing The Cash | 21.00% | ~96,423 |
+| What A Goal! | 21.00% | ~96,423 |
+| Cup Glory! | 21.00% | ~96,423 |
+| Clean Bill of Health | 20.00% | ~91,831 |
 | Irresistible Force | 19.00% | ~87,239 |
 | Excellent Match Cohesion | 19.00% | ~87,239 |
-| Do The Double | 18.00% | ~82,647 |
-| Top Form | 16.00% | ~73,464 |
-| Cash To Burn | 16.00% | ~73,464 |
+| Do The Double | 18.00% | ~82,648 |
+| Top Form | 16.00% | ~73,465 |
+| Cash To Burn | 16.00% | ~73,465 |
 | Overachiever! | 15.00% | ~68,873 |
 | Rushed signing | 15.00% | ~68,873 |
-| Beating Expectations | 14.00% | ~64,281 |
-| Eyes and Ears | 14.00% | ~64,281 |
-| Window Shopping | 14.00% | ~64,281 |
+| Beating Expectations | 14.00% | ~64,282 |
+| Eyes and Ears | 14.00% | ~64,282 |
+| Window Shopping | 14.00% | ~64,282 |
 | Comeback King! | 13.00% | ~59,690 |
-| You're Up! | 12.00% | ~55,098 |
+| You're Up! | 12.00% | ~55,099 |
 | Money, Money, Money | 11.00% | ~50,507 |
-| Invincible! | 10.00% | ~45,915 |
-| Best In The World | 10.00% | ~45,915 |
+| Invincible! | 10.00% | ~45,916 |
+| Best In The World | 10.00% | ~45,916 |
 | Best In Europe | 9.00% | ~41,324 |
 | Superb Strike | 9.00% | ~41,324 |
 | International Superstar | 9.00% | ~41,324 |
@@ -109,7 +109,7 @@ Diff (max vs sum): 28
 | Draft Value | 0.10% | ~459 |
 | Shoestring Budget | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,152 (Ranked 26)  
+Progressed: 459,155 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 18 (0.00%) (Ranked 191)
 | 2023-05-02 | 458,951 | 18 |
 | 2023-05-03 | 459,028 | 18 |
 | 2023-05-04 | 459,113 | 18 |
-| 2023-05-05 | 459,152 | 18 |
+| 2023-05-05 | 459,155 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

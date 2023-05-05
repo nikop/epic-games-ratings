@@ -1,16 +1,16 @@
 {
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor: The Walking Dead",
-  "Achievements": [],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 29
-    }
-  ],
-  "EosHistory": [],
+  "ProductSlug": "bridge-constructor-the-walking-dead",
+  "Ranking_Rating": 893,
+  "Ranking_Popularity": 447,
+  "Ranking_PopularitySum": 459,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 77,
+  "Rating": 3.92,
+  "NumberOfRatings": 104,
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:51.0308351+00:00",
@@ -296,30 +296,31 @@
       "NumberOfAwardsMax": 29
     }
   ],
-  "TotalAchievementsXP": 0,
-  "TotalAchievements": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-05T16:06:15.6364039+00:00",
-  "LastUpdate_Ratings": "2023-05-05T16:01:55.9917705+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T13:32:53.8375125+00:00",
-  "AchievementSets": [],
-  "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-04-05T06:58:20.468964+00:00",
-  "ProductSlug": "bridge-constructor-the-walking-dead",
-  "Rating": 3.92,
-  "Ranking_Rating": 893,
-  "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 459,
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewCompleters": 77,
-  "NumberOfRatings": 104,
+  "ReviewsDisabled": false,
   "NumberOfAwards": 29,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Challenging Puzzles",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 29
+    }
+  ],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "Ranking_EOS_NewPlayers": 270
+  "LastChanged": "2023-04-05T06:58:20.468964+00:00",
+  "LastUpdate_AppInfo": "2023-05-05T17:00:50.3347024+00:00",
+  "LastUpdate_Ratings": "2023-05-05T17:03:46.4103277+00:00",
+  "LastUpdate_Achievements": "2023-05-05T17:08:27.9213488+00:00"
 }
