@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183320,
+  "EOS_Progressed": 183330,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1232,
+  "EOS_NewPlayers": 1233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1445,6 +1445,11 @@
       "Time": "2023-05-06T04:06:51.2519149+00:00",
       "NumProgressed": 183320,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-06T05:06:48.2569043+00:00",
+      "NumProgressed": 183330,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1464,7 +1469,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130157
+      "UsersEstimate": 130164
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -1488,7 +1493,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 32998
+      "UsersEstimate": 32999
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -1560,7 +1565,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -1583,7 +1588,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183320,
+      "Progressed": 183330,
       "Completed": 4
     }
   ],
@@ -1591,8 +1596,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-01T19:59:20.8642488+00:00",
-  "LastChanged_Achievements": "2023-05-06T04:06:51.2519142+00:00",
+  "LastChanged_Achievements": "2023-05-06T05:06:48.2569037+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.0826299+00:00",
-  "LastUpdate_Ratings": "2023-05-06T04:00:39.1585214+00:00",
-  "LastUpdate_Achievements": "2023-05-06T04:06:51.2519455+00:00"
+  "LastUpdate_Ratings": "2023-05-06T05:00:52.9308628+00:00",
+  "LastUpdate_Achievements": "2023-05-06T05:06:48.2569278+00:00"
 }

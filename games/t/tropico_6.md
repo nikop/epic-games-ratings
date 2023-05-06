@@ -6,18 +6,18 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,063 |
+| Just One...More...Term... | 77.00% | ~2,064 |
 | Un-Lonely Island | 50.00% | ~1,340 |
-| The Beginning of a Servantship | 47.00% | ~1,259 |
+| The Beginning of a Servantship | 47.00% | ~1,260 |
 | Trade Is My Trait | 38.00% | ~1,018 |
 | Number 18 | 26.00% | ~697 |
 | We Don't Have Time For That | 20.00% | ~536 |
 | Caribbean Comrade | 18.00% | ~482 |
 | The Legend of Langostino | 18.00% | ~482 |
 | The Governator | 18.00% | ~482 |
-| The Dreamer of Dreams | 17.00% | ~455 |
-| Go Sovereigns! | 12.00% | ~321 |
-| For Science! | 12.00% | ~321 |
+| The Dreamer of Dreams | 17.00% | ~456 |
+| Go Sovereigns! | 12.00% | ~322 |
+| For Science! | 12.00% | ~322 |
 | Happy Ending? | 11.00% | ~295 |
 | Of Seals And Men | 11.00% | ~295 |
 | Shackadelic | 10.00% | ~268 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~27 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,679 (Ranked 132)  
+Progressed: 2,680 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-03 | 2,641 | 1 |
 | 2023-05-04 | 2,654 | 1 |
 | 2023-05-05 | 2,670 | 1 |
-| 2023-05-06 | 2,679 | 1 |
+| 2023-05-06 | 2,680 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 314)  
 Sum: 748 (Ranked 253)  

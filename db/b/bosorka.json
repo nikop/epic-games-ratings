@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -103,6 +103,11 @@
       "Time": "2023-05-05T19:06:34.6530983+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T05:06:30.0162272+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -112,7 +117,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 55,
       "UsersEstimate": 36
     },
@@ -144,7 +149,7 @@
       "ID": "RUNE_BROOMDASHDAMAGE",
       "SetID": "9433p49",
       "Name": "Time is on my side",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -176,7 +181,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 55,
       "UsersEstimate": 32
     },
@@ -192,7 +197,7 @@
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 55,
       "UsersEstimate": 18
     },
@@ -200,7 +205,7 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 75,
       "UsersEstimate": 27
     },
@@ -216,7 +221,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 55,
       "UsersEstimate": 50
     },
@@ -224,7 +229,7 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 40,
       "UsersEstimate": 30
     }
@@ -233,7 +238,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
@@ -241,8 +246,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-06T04:06:32.632062+00:00",
+  "LastChanged_Achievements": "2023-05-06T05:06:30.0162264+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.4925322+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:58:44.9444412+00:00",
-  "LastUpdate_Achievements": "2023-05-06T04:06:32.6320812+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:59:01.3631498+00:00",
+  "LastUpdate_Achievements": "2023-05-06T05:06:30.016239+00:00"
 }

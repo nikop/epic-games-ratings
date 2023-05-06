@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 19.00% | ~8,743 |
+| Follow the Light | 19.00% | ~8,744 |
 | Let There Be Light | 16.00% | ~7,363 |
 | Float Like a Butterfly | 15.00% | ~6,903 |
 | Nordic Walking | 12.00% | ~5,522 |
@@ -16,10 +16,10 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 9.00% | ~4,142 |
 | Finders Keepers | 9.00% | ~4,142 |
 | Paging Mr. Wake | 9.00% | ~4,142 |
-| Wheels Within Wheels | 8.00% | ~3,681 |
-| They're Heeeeeere! | 8.00% | ~3,681 |
-| Sound and Fury | 8.00% | ~3,681 |
-| Damn Good Cup of Coffee | 8.00% | ~3,681 |
+| Wheels Within Wheels | 8.00% | ~3,682 |
+| They're Heeeeeere! | 8.00% | ~3,682 |
+| Sound and Fury | 8.00% | ~3,682 |
+| Damn Good Cup of Coffee | 8.00% | ~3,682 |
 | A Friend in Need | 8.00% | ~759 |
 | Heavy Metal | 7.00% | ~3,221 |
 | Iron Horse | 7.00% | ~3,221 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,017 (Ranked 74)  
+Progressed: 46,019 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 44 (0.10%) (Ranked 150)
 | 2023-05-03 | 45,986 | 44 |
 | 2023-05-04 | 45,993 | 44 |
 | 2023-05-05 | 46,013 | 44 |
-| 2023-05-06 | 46,017 | 44 |
+| 2023-05-06 | 46,019 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

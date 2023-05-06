@@ -5,6 +5,7 @@ Rating: 4.17 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
 | End of an Era | 0.20% | ~121 |
 | In Your Element | 0.20% | ~121 |
@@ -34,7 +35,6 @@ Rating: 4.17 (Ranked 828)
 | From Inside Gotham's Walls | 0.20% | ~121 |
 | Voiceless | 0.20% | ~121 |
 | Seeking Asylum | 0.20% | ~121 |
-| Gotham Knight | 0.20% | ~121 |
 | Hammer and Icicle | 0.10% | ~31 |
 | Element of Surprise | 0.10% | ~31 |
 | It's Nice to Be Wanted | 0.10% | ~31 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 828)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,654 (Ranked 66)  
+Progressed: 60,655 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 89 (0.15%) (Ranked 139)
 | 2023-05-03 | 60,606 | 89 |
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,646 | 89 |
-| 2023-05-06 | 60,654 | 89 |
+| 2023-05-06 | 60,655 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,193  (Ranked 99)  
 Sum: 3,626 (Ranked 138)  

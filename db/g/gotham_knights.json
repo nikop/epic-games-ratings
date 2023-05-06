@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 35,
   "Rating": 4.17,
   "RatingHistory": [
@@ -974,9 +974,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60654,
+  "EOS_Progressed": 60655,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2023-05-06T04:06:55.1950826+00:00",
       "NumProgressed": 60654,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-06T05:06:52.134752+00:00",
+      "NumProgressed": 60655,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2256,9 +2261,9 @@
       "ID": "MYSTERY_08",
       "SetID": "4eo5ebm",
       "Name": "Gotham Knight",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "SECRET_CACHE",
@@ -2297,13 +2302,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60654,
+      "Progressed": 60655,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30934,
+      "Progressed": 30935,
       "Completed": 2628
     }
   ],
@@ -2311,8 +2316,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-06T04:00:39.4763059+00:00",
-  "LastChanged_Achievements": "2023-05-06T04:06:55.1950821+00:00",
+  "LastChanged_Achievements": "2023-05-06T05:06:52.1347514+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-06T04:00:39.476307+00:00",
-  "LastUpdate_Achievements": "2023-05-06T04:06:55.1951475+00:00"
+  "LastUpdate_Ratings": "2023-05-06T05:00:53.1958428+00:00",
+  "LastUpdate_Achievements": "2023-05-06T05:06:52.1348167+00:00"
 }

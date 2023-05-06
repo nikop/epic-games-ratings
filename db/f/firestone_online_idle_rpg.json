@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1013,6 +1013,11 @@
       "Time": "2023-05-06T04:06:33.352122+00:00",
       "NumProgressed": 860,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T05:06:30.6046758+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1208,7 +1213,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "fourleafclover",
@@ -1366,9 +1371,9 @@
       "ID": "missionsdedication",
       "SetID": "3nl4bcg",
       "Name": "Missions Dedication",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "movinguptheladder",
@@ -1478,9 +1483,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 465
     },
     {
       "ID": "thealchemist",
@@ -1512,7 +1517,7 @@
       "Name": "The game is on",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "thepowerofawakening",
@@ -1584,7 +1589,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "warmachinesarmy",
@@ -1616,14 +1621,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 1
     }
   ],
@@ -1631,8 +1636,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T04:06:33.3521214+00:00",
+  "LastChanged_Achievements": "2023-05-06T05:06:30.604675+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:59:10.5039854+00:00",
-  "LastUpdate_Achievements": "2023-05-06T04:06:33.352269+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:59:24.1532699+00:00",
+  "LastUpdate_Achievements": "2023-05-06T05:06:30.6047656+00:00"
 }

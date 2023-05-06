@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.65,
   "NumberOfRatings": 74,
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6285,
+  "EOS_Progressed": 6286,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-05-06T02:30:56.0077918+00:00",
       "NumProgressed": 6285,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-06T05:06:30.3733238+00:00",
+      "NumProgressed": 6286,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 27,
@@ -602,7 +607,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -626,7 +631,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -634,7 +639,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -785,15 +790,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6285,
+      "Progressed": 6286,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-06T04:06:33.0880504+00:00",
+  "LastChanged_Achievements": "2023-05-06T05:06:30.3733231+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:49.2176295+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:58:41.3198797+00:00",
-  "LastUpdate_Achievements": "2023-05-06T04:06:33.0880798+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:58:57.9012188+00:00",
+  "LastUpdate_Achievements": "2023-05-06T05:06:30.3733603+00:00"
 }

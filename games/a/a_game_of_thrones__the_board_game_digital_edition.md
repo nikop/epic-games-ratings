@@ -6,20 +6,20 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~4,458 |
-| Battering Crew | 21.00% | ~2,340 |
+| Conqueror | 40.00% | ~4,460 |
+| Battering Crew | 21.00% | ~2,342 |
 | The Kingsroad | 19.00% | ~2,118 |
 | Well Stocked | 15.00% | ~1,672 |
-| Royal Fleet | 14.00% | ~1,560 |
-| The Kraken’s Grasp | 10.00% | ~1,114 |
-| Daggers in the Dark | 9.00% | ~1,003 |
-| Alliance | 9.00% | ~1,003 |
-| A Long Journey | 9.00% | ~1,003 |
+| Royal Fleet | 14.00% | ~1,561 |
+| The Kraken’s Grasp | 10.00% | ~1,115 |
+| Daggers in the Dark | 9.00% | ~1,004 |
+| Alliance | 9.00% | ~1,004 |
+| A Long Journey | 9.00% | ~1,004 |
 | Winter is Coming | 8.00% | ~892 |
 | Oathkeeper | 8.00% | ~892 |
 | Influential | 8.00% | ~892 |
-| Ours is the Fury | 7.00% | ~780 |
-| We Do Not Sow | 7.00% | ~780 |
+| Ours is the Fury | 7.00% | ~781 |
+| We Do Not Sow | 7.00% | ~781 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~669 |
 | Growing Strong | 6.00% | ~669 |
 | Hear me Roar! | 6.00% | ~669 |
@@ -27,9 +27,9 @@ Number of Ratings: 2,500  (23.09.2022)
 | What is Dead may Never Die | 4.00% | ~446 |
 | The Swift | 3.00% | ~334 |
 | King in the North | 2.00% | ~223 |
-| War of the Five Kings | 1.00% | ~111 |
+| War of the Five Kings | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,145 (Ranked 102)  
+Progressed: 11,150 (Ranked 102)  
 Completed: 23 (0.21%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 23 (0.21%) (Ranked 130)
 | 2023-05-03 | 10,920 | 23 |
 | 2023-05-04 | 11,017 | 23 |
 | 2023-05-05 | 11,123 | 23 |
-| 2023-05-06 | 11,145 | 23 |
+| 2023-05-06 | 11,150 | 23 |
 ## Awards
 Max (Quickly Understood Controls): 122  (Ranked 299)  
 Sum: 778 (Ranked 248)  

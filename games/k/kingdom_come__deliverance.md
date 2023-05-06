@@ -6,16 +6,16 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,710 |
+| Blacksmith's Son | 31.00% | ~241,711 |
 | Cavalier | 25.00% | ~194,928 |
 | Fatso | 23.00% | ~179,334 |
-| Awakening | 20.00% | ~155,942 |
-| Ranger | 20.00% | ~155,942 |
-| Scrooge | 20.00% | ~155,942 |
+| Awakening | 20.00% | ~155,943 |
+| Ranger | 20.00% | ~155,943 |
+| Scrooge | 20.00% | ~155,943 |
 | Anorectic | 16.00% | ~124,754 |
 | Firestarter | 15.00% | ~116,957 |
 | Bookworm | 14.00% | ~109,160 |
-| Insomniac | 13.00% | ~101,362 |
+| Insomniac | 13.00% | ~101,363 |
 | Buddy | 11.00% | ~85,768 |
 | Sinner | 11.00% | ~85,768 |
 | Thief | 11.00% | ~85,768 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~38,986 |
 | Monk | 5.00% | ~38,986 |
 | Serial Killer | 5.00% | ~38,986 |
-| Bastard | 4.00% | ~31,188 |
-| Hunter | 4.00% | ~31,188 |
-| Plague Doctor | 4.00% | ~31,188 |
+| Bastard | 4.00% | ~31,189 |
+| Hunter | 4.00% | ~31,189 |
+| Plague Doctor | 4.00% | ~31,189 |
 | Bard | 3.00% | ~23,391 |
 | Conqueror | 3.00% | ~23,391 |
 | Ginger in a Pickle | 3.00% | ~23,391 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779,711 (Ranked 12)  
+Progressed: 779,713 (Ranked 12)  
 Completed: 38 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 38 (0.00%) (Ranked 191)
 | 2023-05-03 | 779,399 | 38 |
 | 2023-05-04 | 779,549 | 38 |
 | 2023-05-05 | 779,689 | 38 |
-| 2023-05-06 | 779,711 | 38 |
+| 2023-05-06 | 779,713 | 38 |
 ## Awards
 Max (Character Customization): 7,137  (Ranked 43)  
 Sum: 26,708 (Ranked 41)  

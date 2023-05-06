@@ -28,13 +28,13 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 5.00% | ~57 |
 | Let Me Get My Chisel | 4.00% | ~45 |
 | Plague Doctor | 4.00% | ~45 |
+| Wingknight's Prowess | 4.00% | ~45 |
 | All My Birds, Safely Home | 4.00% | ~45 |
 | Turncoat | 4.00% | ~45 |
 | Worldwalker | 3.00% | ~34 |
 | Legends Never Die | 3.00% | ~34 |
 | In Soil, In Smoke | 3.00% | ~34 |
 | A Hunger, Sated | 3.00% | ~34 |
-| Wingknight's Prowess | 3.00% | ~34 |
 | Grillmaster | 3.00% | ~34 |
 | No Time for Clawmonsters | 3.00% | ~34 |
 | We Emerge Changed | 2.00% | ~23 |

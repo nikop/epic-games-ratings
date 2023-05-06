@@ -12,7 +12,7 @@ Number of Ratings: 88  (23.09.2022)
 | Tools of the Trade | 63.00% | ~20,029 |
 | Apprentice | 60.00% | ~19,075 |
 | Secret Seeker | 57.00% | ~18,121 |
-| Forge of Assassins | 55.00% | ~17,486 |
+| Forge of Assassins | 56.00% | ~17,804 |
 | Revenant | 51.00% | ~16,214 |
 | I don’t Care! | 45.00% | ~14,306 |
 | Bird of Prey | 37.00% | ~11,763 |

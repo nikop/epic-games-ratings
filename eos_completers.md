@@ -27,8 +27,8 @@
 | 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 4.38% |
-| 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
+| 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -67,7 +67,7 @@
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 1.43% |
-| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.37% |
+| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.36% |
 | 69 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 70 | [Chorus](games/c/chorus.md) | 1.30% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -108,7 +108,7 @@
 | 106 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 106 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 108 | [Tchia](games/t/tchia.md) | 0.35% |
+| 109 | [Tchia](games/t/tchia.md) | 0.34% |
 | 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 112 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
