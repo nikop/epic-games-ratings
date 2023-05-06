@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.44,
   "RatingHistory": [
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -316,6 +316,11 @@
       "Time": "2023-05-05T11:05:09.1895127+00:00",
       "NumProgressed": 681,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-06T00:06:25.1600193+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -407,7 +412,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -487,7 +492,7 @@
       "Name": "Precision Is Key",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -511,7 +516,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -535,7 +540,7 @@
       "Name": "Lord of War",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -567,7 +572,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -575,7 +580,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -735,7 +740,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -870,13 +875,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 2
     }
   ],
@@ -884,8 +889,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-05T14:59:50.8848377+00:00",
-  "LastChanged_Achievements": "2023-05-05T23:07:03.868435+00:00",
+  "LastChanged_Achievements": "2023-05-06T00:06:25.160019+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:02:37.6032484+00:00",
-  "LastUpdate_Achievements": "2023-05-05T23:07:03.8685056+00:00"
+  "LastUpdate_Ratings": "2023-05-06T00:01:52.2088799+00:00",
+  "LastUpdate_Achievements": "2023-05-06T00:06:25.1600872+00:00"
 }

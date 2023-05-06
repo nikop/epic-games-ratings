@@ -5,7 +5,7 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 42.00% | ~2,539 |
+| Legal Counsel | 43.00% | ~2,599 |
 | Greasy Palms | 39.00% | ~2,358 |
 | South American Connection | 23.00% | ~1,390 |
 | Life of the Party | 17.00% | ~1,028 |
@@ -36,8 +36,8 @@ Rating: 4.66 (Ranked 272)
 | Daredevil | 0.90% | ~54 |
 | Born in the 80’s | 0.70% | ~42 |
 | I'm Famous! | 0.70% | ~42 |
+| Done it All | 0.70% | ~42 |
 | Keepie-Uppy Okie Dokie | 0.60% | ~36 |
-| Done it All | 0.60% | ~36 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,045 (Ranked 114)  

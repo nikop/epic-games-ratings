@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,715 |
-| That's a Grand Army | 8.00% | ~2,413 |
-| That is mine! | 8.00% | ~2,413 |
-| Victorious! | 8.00% | ~2,413 |
-| Brothers in Arms | 6.00% | ~1,810 |
-| That's a Grand Navy | 6.00% | ~1,810 |
-| Seriously?! | 6.00% | ~1,810 |
-| For the Glory | 5.00% | ~1,508 |
-| Cold War | 4.00% | ~1,207 |
-| Defender of the Faith | 3.00% | ~905 |
-| It's all about the money | 3.00% | ~905 |
-| Respected | 3.00% | ~905 |
-| True Catholic | 3.00% | ~905 |
-| Blockader | 2.00% | ~603 |
-| Combined Arms | 2.00% | ~603 |
-| Double the Love | 2.00% | ~603 |
-| Gentle Persuasion | 2.00% | ~603 |
-| It's all about luck | 2.00% | ~603 |
-| Queen of Conquest | 2.00% | ~603 |
-| Royal Authority | 2.00% | ~603 |
-| The Princess is in this Castle | 2.00% | ~603 |
-| Total Control | 2.00% | ~603 |
-| Truly Divine Ruler | 2.00% | ~603 |
+| Until death do us apart | 9.00% | ~2,717 |
+| That's a Grand Army | 8.00% | ~2,415 |
+| That is mine! | 8.00% | ~2,415 |
+| Victorious! | 8.00% | ~2,415 |
+| Brothers in Arms | 6.00% | ~1,812 |
+| That's a Grand Navy | 6.00% | ~1,812 |
+| Seriously?! | 6.00% | ~1,812 |
+| For the Glory | 5.00% | ~1,510 |
+| Cold War | 4.00% | ~1,208 |
+| Defender of the Faith | 3.00% | ~906 |
+| It's all about the money | 3.00% | ~906 |
+| Respected | 3.00% | ~906 |
+| True Catholic | 3.00% | ~906 |
+| Blockader | 2.00% | ~604 |
+| Combined Arms | 2.00% | ~604 |
+| Double the Love | 2.00% | ~604 |
+| Gentle Persuasion | 2.00% | ~604 |
+| It's all about luck | 2.00% | ~604 |
+| Queen of Conquest | 2.00% | ~604 |
+| Royal Authority | 2.00% | ~604 |
+| The Princess is in this Castle | 2.00% | ~604 |
+| Total Control | 2.00% | ~604 |
+| Truly Divine Ruler | 2.00% | ~604 |
 | Agressive Expander | 1.00% | ~302 |
 | Azur semé de lis or | 1.00% | ~302 |
 | Bright Spark | 1.00% | ~302 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,168 (Ranked 82)  
+Progressed: 30,192 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,6 +377,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
+| 2023-05-06 | 30,192 | 0 |
 ## Awards
 Max (Educational): 5,170  (Ranked 60)  
 Sum: 42,780 (Ranked 26)  

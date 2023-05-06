@@ -16,6 +16,7 @@ Rating: 4.54 (Ranked 477)
 | Power Outage | 0.20% | ~4 |
 | Fully Recycled | 0.20% | ~4 |
 | Permanent Redesigns | 0.20% | ~4 |
+| Ain't Nobody Got Time for That | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
@@ -35,8 +36,8 @@ Rating: 4.54 (Ranked 477)
 | Access Granted | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
+| Space Greenhouse | 0.10% | ~2 |
 | Delivery! | 0.10% | ~2 |
-| Ain't Nobody Got Time for That | 0.10% | ~2 |
 | Tiqqun Unchained | 0.10% | ~2 |
 | BRAWL! | 0.10% | ~2 |
 | Pedal to the Metal | 0.10% | ~2 |
@@ -52,7 +53,6 @@ Rating: 4.54 (Ranked 477)
 | You Had One Job... | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Work Harder | 0.00% | ~0 |
-| Space Greenhouse | 0.00% | ~0 |
 | Suburban Perfection | 0.00% | ~0 |
 | A Junker's Dream | 0.00% | ~0 |
 | Scenic View | 0.00% | ~0 |

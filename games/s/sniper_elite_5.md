@@ -5,19 +5,19 @@ Rating: 4.44 (Ranked 621)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 35.00% | ~238 |
+| Meeting Resistance | 35.00% | ~239 |
 | Confirming Suspicions | 31.00% | ~211 |
-| The Kraken Wakes | 29.00% | ~197 |
+| The Kraken Wakes | 29.00% | ~198 |
 | It's Starting to Crack | 28.00% | ~191 |
 | Change the Channel | 25.00% | ~170 |
-| Lord of War | 24.00% | ~163 |
+| Lord of War | 24.00% | ~164 |
 | Resourceful | 23.00% | ~157 |
 | Taking it back | 23.00% | ~157 |
 | Organ Grinder | 21.00% | ~143 |
 | Target America | 21.00% | ~143 |
 | Sharpshooter | 20.00% | ~136 |
-| As Quiet as a Mouse | 19.00% | ~129 |
-| The Kraken Sleeps | 19.00% | ~129 |
+| As Quiet as a Mouse | 19.00% | ~130 |
+| The Kraken Sleeps | 19.00% | ~130 |
 | Liberté | 17.00% | ~116 |
 | Explosive Efficiency | 16.00% | ~109 |
 | Climbing the Ladder | 14.00% | ~95 |
@@ -35,8 +35,8 @@ Rating: 4.44 (Ranked 621)
 | Opposing Force | 11.00% | ~75 |
 | Enemy at the Gates | 11.00% | ~75 |
 | My Little Friend | 9.00% | ~61 |
-| Precision Is Key | 8.00% | ~54 |
-| Rigged to Blow | 8.00% | ~54 |
+| Precision Is Key | 8.00% | ~55 |
+| Rigged to Blow | 8.00% | ~55 |
 | Herr Today, Gone Tomorrow | 8.00% | ~51 |
 | Operation Foxley | 8.00% | ~51 |
 | Last Resort | 7.00% | ~44 |
@@ -74,7 +74,7 @@ Rating: 4.44 (Ranked 621)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681 (Ranked 175)  
+Progressed: 682 (Ranked 175)  
 Completed: 2 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 2 (0.29%) (Ranked 119)
 | 2023-05-02 | 675 | 2 |
 | 2023-05-03 | 680 | 2 |
 | 2023-05-05 | 681 | 2 |
+| 2023-05-06 | 682 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

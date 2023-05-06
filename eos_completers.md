@@ -2,12 +2,12 @@
 | - | ---- | --------- |
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.00% |
+| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 23.08% |
 | 4 | [Island Cities](games/i/island_cities.md) | 20.00% |
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.84% |
+| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.71% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.70% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
@@ -33,9 +33,9 @@
 | 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
-| 34 | [The Complex](games/t/the_complex.md) | 3.56% |
-| 35 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 3.48% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 3.74% |
+| 35 | [The Complex](games/t/the_complex.md) | 3.56% |
+| 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -78,7 +78,7 @@
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
-| 79 | [Sable](games/s/sable.md) | 0.91% |
+| 79 | [Sable](games/s/sable.md) | 0.92% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |

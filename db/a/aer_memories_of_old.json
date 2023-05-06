@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Rating": 4.45,
   "NumberOfRatings": 170,
   "RatingHistory": [
@@ -360,7 +360,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8584,
+  "EOS_Progressed": 8587,
   "EOS_Completed": 196,
   "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 15,
@@ -1540,6 +1540,11 @@
       "Time": "2023-05-05T23:07:53.9720648+00:00",
       "NumProgressed": 8584,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-05-06T00:07:09.2727748+00:00",
+      "NumProgressed": 8587,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 20,
@@ -1551,7 +1556,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -1591,7 +1596,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -1615,7 +1620,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "FOUND_ERIN",
@@ -1671,7 +1676,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6526
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -1703,22 +1708,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8584,
+      "Progressed": 8587,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-05T23:07:53.9720642+00:00",
+  "LastChanged_Achievements": "2023-05-06T00:07:09.2727745+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:02:12.3743535+00:00",
-  "LastUpdate_Achievements": "2023-05-05T23:07:53.9720955+00:00"
+  "LastUpdate_Ratings": "2023-05-06T00:01:31.4997051+00:00",
+  "LastUpdate_Achievements": "2023-05-06T00:07:09.2727964+00:00"
 }

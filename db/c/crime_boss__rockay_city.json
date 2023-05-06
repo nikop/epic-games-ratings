@@ -1162,10 +1162,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1093,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-05-06T00:01:18.7806591+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1098,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1093,
+  "NumberOfAwards": 1098,
   "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1191,7 +1197,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 212
+      "Count": 217
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1218,9 +1224,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 58843,
+  "EOS_Progressed": 58844,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 2228,
+  "EOS_NewPlayers": 2219,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2458,6 +2464,11 @@
       "Time": "2023-05-05T23:07:53.301268+00:00",
       "NumProgressed": 58843,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-06T00:07:08.6818371+00:00",
+      "NumProgressed": 58844,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 37,
@@ -2477,7 +2488,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17064
+      "UsersEstimate": 17065
     },
     {
       "ID": "ACH_0012",
@@ -2581,7 +2592,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ACH_0101",
@@ -2621,7 +2632,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 42955
+      "UsersEstimate": 42956
     },
     {
       "ID": "ACH_0211",
@@ -2637,7 +2648,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 27656
+      "UsersEstimate": 27657
     },
     {
       "ID": "ACH_0300",
@@ -2661,7 +2672,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ACH_0340",
@@ -2693,7 +2704,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19418
+      "UsersEstimate": 19419
     },
     {
       "ID": "ACH_0430",
@@ -2733,7 +2744,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "ACH_0452",
@@ -2741,7 +2752,7 @@
       "Name": "Dragonslayer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "ACH_0460",
@@ -2764,16 +2775,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 58843,
+      "Progressed": 58844,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-05T22:00:59.1000317+00:00",
-  "LastChanged_Achievements": "2023-05-05T23:07:53.3012667+00:00",
+  "LastChanged": "2023-05-06T00:01:18.7806588+00:00",
+  "LastChanged_Achievements": "2023-05-06T00:07:08.6818363+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:01:58.0296247+00:00",
-  "LastUpdate_Achievements": "2023-05-05T23:07:53.3013279+00:00"
+  "LastUpdate_Ratings": "2023-05-06T00:01:18.7806595+00:00",
+  "LastUpdate_Achievements": "2023-05-06T00:07:08.681873+00:00"
 }

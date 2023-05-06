@@ -11,8 +11,8 @@
 | Fellowship Power | 39.00% | ~334 |
 | Guild Power | 22.00% | ~189 |
 | Prestigious x10 | 18.00% | ~154 |
+| Exotic Merchant | 14.00% | ~120 |
 | The game is on | 14.00% | ~120 |
-| Exotic Merchant | 13.00% | ~111 |
 | Inspection | 13.00% | ~111 |
 | Dragon Clicker | 12.00% | ~103 |
 | Miner Clicker | 12.00% | ~103 |

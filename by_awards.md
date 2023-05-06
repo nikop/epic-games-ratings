@@ -77,7 +77,7 @@
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,822 | 4.56 | 447 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,741 | 4.69 | 213 |
 | 77 | [SMITE](games/s/smite.md) | 3,718 | 4.45 | 600 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,589 | 4.30 | 752 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,590 | 4.30 | 752 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,437 | 4.47 | 575 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 235 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,256 | 4.46 | 591 |
@@ -97,7 +97,7 @@
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,291 | 4.50 | 531 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,259 | 4.10 | 853 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,235 | 4.79 | 91 |
-| 98 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,212 | 4.67 | 255 |
+| 98 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,213 | 4.67 | 255 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,187 | 4.17 | 827 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,161 | 4.41 | 651 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,131 | 4.37 | 696 |
@@ -394,7 +394,7 @@
 | 391 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 290 |
 | 391 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.66 | 272 |
 | 394 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 696 |
-| 394 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 47 | 3.75 | 910 |
+| 394 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 47 | 3.75 | 909 |
 | 396 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 600 |
 | 396 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 428 |
 | 396 | [Desperados III](games/d/desperados_iii.md) | 46 | 4.84 | 49 |

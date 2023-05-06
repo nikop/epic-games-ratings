@@ -262,7 +262,7 @@
 | 255 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 490 |
 | 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 490 |
 | 255 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 490 |
-| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,212 | 98 |
+| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,213 | 98 |
 | 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 311 |
 | 255 | [Returnal™](games/r/returnal™.md) | 4.67 | 20 | 482 |
 | 255 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 490 |
@@ -754,7 +754,7 @@
 | 752 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 490 |
 | 752 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 490 |
 | 752 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 490 |
-| 752 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,589 | 78 |
+| 752 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,590 | 78 |
 | 752 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 169 | 274 |
 | 752 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 490 |
 | 758 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 490 |
@@ -907,11 +907,11 @@
 | 905 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 490 |
 | 905 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 367 |
 | 907 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,022 | 133 |
-| 908 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 490 |
 | 908 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 490 |
-| 910 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
-| 910 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
-| 910 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 47 | 394 |
+| 909 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
+| 909 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
+| 909 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 47 | 394 |
+| 912 | [Poker Club](games/p/poker_club.md) | 3.73 | 0 | 490 |
 | 913 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
 | 914 | [Adios](games/a/adios.md) | 3.50 | 0 | 490 |
 | 915 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |

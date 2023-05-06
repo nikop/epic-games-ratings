@@ -5,26 +5,26 @@ Rating: 3.93 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~42,955 |
+| Downed but Not Outed | 73.00% | ~42,956 |
 | First One’s Free | 64.00% | ~37,660 |
 | Neophyte Ninja | 50.00% | ~29,422 |
-| Too Old for This | 47.00% | ~27,656 |
+| Too Old for This | 47.00% | ~27,657 |
 | Fancy Pants | 35.00% | ~20,595 |
 | Case Closed | 34.00% | ~20,007 |
-| King of the Hill | 33.00% | ~19,418 |
-| Underworld Initiate | 29.00% | ~17,064 |
+| King of the Hill | 33.00% | ~19,419 |
+| Underworld Initiate | 29.00% | ~17,065 |
 | Roid Ranger | 21.00% | ~12,357 |
 | True Player | 18.00% | ~10,592 |
 | Off the Rocks | 18.00% | ~10,592 |
-| Raider’s Ruin | 15.00% | ~8,826 |
-| Dragonslayer | 15.00% | ~8,826 |
+| Raider’s Ruin | 15.00% | ~8,827 |
+| Dragonslayer | 15.00% | ~8,827 |
 | Hidden Sonata | 13.00% | ~7,650 |
 | Classy Joint | 10.00% | ~5,884 |
 | Rockay Rex | 10.00% | ~5,884 |
 | Track Star | 9.00% | ~5,296 |
 | Freebooter | 9.00% | ~5,296 |
-| Headhunter | 8.00% | ~4,707 |
-| Ding Dong | 8.00% | ~4,707 |
+| Headhunter | 8.00% | ~4,708 |
+| Ding Dong | 8.00% | ~4,708 |
 | I Like Trains | 7.00% | ~4,119 |
 | Foo Finder | 6.00% | ~3,531 |
 | Savvy Seeker | 5.00% | ~2,942 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 892)
 | Geek Out | 0.50% | ~294 |
 | Full House | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,843 (Ranked 67)  
+Progressed: 58,844 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,16 +59,17 @@ Completed: 26 (0.04%) (Ranked 167)
 | 2023-05-03 | 58,428 | 25 |
 | 2023-05-04 | 58,631 | 26 |
 | 2023-05-05 | 58,843 | 26 |
+| 2023-05-06 | 58,844 | 26 |
 ## Awards
 Max (Highly Recommended): 235  (Ranked 241)  
-Sum: 1,093 (Ranked 223)  
+Sum: 1,098 (Ranked 223)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 235 |
 | This game has Diverse Characters | 222 |
+| This game has Quickly Understood Controls | 217 |
 | This game has Amazing Characters | 215 |
-| This game has Quickly Understood Controls | 212 |
 | This game has Challenging Combat | 209 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -114,3 +115,4 @@ Diff (max vs sum): 18
 | 2023-05-03 | 3.93 | 227 | 1,064 |
 | 2023-05-04 | 3.93 | 231 | 1,079 |
 | 2023-05-05 | 3.93 | 235 | 1,093 |
+| 2023-05-06 | 3.93 | 235 | 1,098 |
