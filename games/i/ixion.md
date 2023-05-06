@@ -1,13 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.54 (Ranked 477)  
+Rating: 4.54 (Ranked 476)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 0.30% | ~6 |
 | Wakey Wakey | 0.30% | ~6 |
 | Exceeding Capacity | 0.30% | ~6 |
+| Ain't Nobody Got Time for That | 0.30% | ~6 |
 | Convenient Transport | 0.30% | ~6 |
 | The Ship of Theseus | 0.30% | ~6 |
 | Sputnik 2049 | 0.20% | ~4 |
@@ -17,7 +18,6 @@ Rating: 4.54 (Ranked 477)
 | Fully Recycled | 0.20% | ~4 |
 | Ready for a New World | 0.20% | ~4 |
 | Permanent Redesigns | 0.20% | ~4 |
-| Ain't Nobody Got Time for That | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | I Give You the Stars | 0.00% | ~0 |
 | What the Ruins Teach Us | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,834 (Ranked 145)  
+Progressed: 1,835 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 1,825 | 0 |
 | 2023-05-04 | 1,827 | 0 |
 | 2023-05-05 | 1,830 | 0 |
-| 2023-05-06 | 1,834 | 0 |
+| 2023-05-06 | 1,835 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

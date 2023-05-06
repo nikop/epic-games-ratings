@@ -1,18 +1,18 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 413)  
+Rating: 4.58 (Ranked 412)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 30.00% | ~773 |
+| Executioner | 30.00% | ~774 |
 | Look Over There! | 27.00% | ~696 |
 | Watch Where You Step... | 27.00% | ~696 |
-| Not So Fast... | 26.00% | ~670 |
+| Not So Fast... | 26.00% | ~671 |
 | An Ill Omen | 24.00% | ~619 |
 | Purging Spree | 20.00% | ~516 |
-| Blood for the Blood God! | 16.00% | ~412 |
+| Blood for the Blood God! | 16.00% | ~413 |
 | Friendly Fire | 15.00% | ~387 |
 | Surgical Excision | 14.00% | ~361 |
 | Bloodless | 14.00% | ~361 |
@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 10.00% | ~258 |
 | Gunmaster | 10.00% | ~258 |
 | A Foul Creche | 10.00% | ~258 |
-| Opportunist | 7.00% | ~180 |
-| Efficient Killer | 7.00% | ~180 |
-| Just a Scratch | 7.00% | ~180 |
+| Opportunist | 7.00% | ~181 |
+| Efficient Killer | 7.00% | ~181 |
+| Just a Scratch | 7.00% | ~181 |
 | Hold Your Ground | 6.00% | ~155 |
 | Daemonkeeper | 4.00% | ~103 |
 | A Gift Spurned | 4.00% | ~103 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,578 (Ranked 134)  
+Progressed: 2,579 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 2,571 | 0 |
 | 2023-05-04 | 2,574 | 0 |
 | 2023-05-05 | 2,576 | 0 |
-| 2023-05-06 | 2,578 | 0 |
+| 2023-05-06 | 2,579 | 0 |
 ## Awards
 Max (Character Customization): 207  (Ranked 253)  
 Sum: 415 (Ranked 296)  

@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 271)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,7 +40,7 @@ Rating: 4.66 (Ranked 272)
 | Keepie-Uppy Okie Dokie | 0.60% | ~36 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,053 (Ranked 114)  
+Progressed: 6,054 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 20 (0.33%) (Ranked 110)
 | 2023-05-03 | 6,011 | 20 |
 | 2023-05-04 | 6,028 | 20 |
 | 2023-05-05 | 6,045 | 20 |
-| 2023-05-06 | 6,053 | 20 |
+| 2023-05-06 | 6,054 | 20 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 450)  
 Sum: 28 (Ranked 461)  

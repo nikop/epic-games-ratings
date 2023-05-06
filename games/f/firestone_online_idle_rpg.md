@@ -8,7 +8,7 @@
 | World Map | 79.00% | ~687 |
 | Temple of Eternals | 54.00% | ~470 |
 | Prestigious | 51.00% | ~444 |
-| Fellowship Power | 38.00% | ~331 |
+| Fellowship Power | 39.00% | ~339 |
 | Guild Power | 23.00% | ~200 |
 | Prestigious x10 | 18.00% | ~157 |
 | The game is on | 14.00% | ~122 |
@@ -31,6 +31,7 @@
 | Frostfire Liberator | 2.00% | ~17 |
 | Hunter | 2.00% | ~17 |
 | Mastery | 2.00% | ~17 |
+| Moving Up The Ladder | 2.00% | ~17 |
 | Scroll Master | 2.00% | ~17 |
 | The Expeditioner | 2.00% | ~17 |
 | Active Member | 1.00% | ~9 |
@@ -39,7 +40,6 @@
 | Here We Go Again | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
 | Missions Dedication | 1.00% | ~9 |
-| Moving Up The Ladder | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
 | The power of Awakening | 1.00% | ~9 |

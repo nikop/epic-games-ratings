@@ -63,9 +63,9 @@
       "ID": "Achievement_GarbageCollector",
       "SetID": "436h0ek",
       "Name": "Garbage collector",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_IAmSpeed",
@@ -95,17 +95,17 @@
       "ID": "Achievement_OmNomNom",
       "SetID": "436h0ek",
       "Name": "Om nom nom",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_Welcome",
@@ -125,8 +125,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:18.9259904+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:25.244349+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.1999703+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:59:37.7283626+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:18.9259986+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:25.5000888+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:25.2443575+00:00"
 }

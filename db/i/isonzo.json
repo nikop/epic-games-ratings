@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.56,
   "NumberOfRatings": 98,
   "RatingHistory": [
@@ -496,9 +496,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5591,
+  "EOS_Progressed": 5592,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -711,6 +711,11 @@
       "Time": "2023-05-06T12:06:28.9959414+00:00",
       "NumProgressed": 5591,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-06T13:09:37.2624546+00:00",
+      "NumProgressed": 5592,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -842,7 +847,7 @@
       "Name": "Generalissimo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -914,7 +919,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -930,7 +935,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -970,7 +975,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1002,7 +1007,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -1018,7 +1023,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1050,7 +1055,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1074,14 +1079,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5591,
+      "Progressed": 5592,
       "Completed": 8
     }
   ],
@@ -1089,8 +1094,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-04-25T13:04:35.1476764+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:28.9959406+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:37.2624538+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.1647024+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:58:54.5800163+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:28.9960238+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:01:31.1488481+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:37.2624891+00:00"
 }

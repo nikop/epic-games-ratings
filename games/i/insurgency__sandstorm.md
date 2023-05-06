@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 352)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,128 |
-| Wallbanger | 5.00% | ~18,128 |
-| Exploitative | 4.00% | ~14,502 |
-| High Speed Low Drag | 4.00% | ~14,502 |
-| Wet Feet | 4.00% | ~14,502 |
+| Point Shooting | 5.00% | ~18,129 |
+| Wallbanger | 5.00% | ~18,129 |
+| Exploitative | 4.00% | ~14,503 |
+| High Speed Low Drag | 4.00% | ~14,503 |
+| Wet Feet | 4.00% | ~14,503 |
 | Checkpoint Victory | 3.00% | ~10,877 |
 | Lucky | 3.00% | ~10,877 |
 | Stylin' | 3.00% | ~10,877 |
 | Turf War | 3.00% | ~10,877 |
-| Banged | 2.00% | ~7,251 |
-| First Blood | 2.00% | ~7,251 |
-| Flaccid Paralysis | 2.00% | ~7,251 |
-| Push Victory | 2.00% | ~7,251 |
-| Self-destructive | 2.00% | ~7,251 |
+| Banged | 2.00% | ~7,252 |
+| First Blood | 2.00% | ~7,252 |
+| Flaccid Paralysis | 2.00% | ~7,252 |
+| Push Victory | 2.00% | ~7,252 |
+| Self-destructive | 2.00% | ~7,252 |
 | Blindfire | 1.00% | ~3,626 |
 | Efficient | 1.00% | ~3,626 |
 | Ruthless | 1.00% | ~3,626 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,263 |
 | Mount & Gun | 0.90% | ~3,263 |
 | Personal | 0.90% | ~3,263 |
-| Grounded | 0.80% | ~2,900 |
-| Play to Win | 0.80% | ~2,900 |
+| Grounded | 0.80% | ~2,901 |
+| Play to Win | 0.80% | ~2,901 |
 | #1 | 0.70% | ~2,538 |
 | Special Delivery | 0.70% | ~2,538 |
 | Firefight Victory | 0.60% | ~2,175 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~363 |
 | Road Hazard | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,556 (Ranked 35)  
+Progressed: 362,577 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-03 | 361,342 | 2 |
 | 2023-05-04 | 361,792 | 2 |
 | 2023-05-05 | 362,237 | 2 |
-| 2023-05-06 | 362,556 | 2 |
+| 2023-05-06 | 362,577 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 349  (Ranked 209)  
 Sum: 2,616 (Ranked 163)  

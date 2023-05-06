@@ -2,7 +2,7 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 112,
@@ -306,7 +306,7 @@
   "Tags": [],
   "EOS_Progressed": 6288,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -807,8 +807,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:31.8923374+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:40.7151239+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:49.2176295+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:58:59.1842291+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:31.8923565+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:01:36.8408644+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:40.715146+00:00"
 }

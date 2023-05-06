@@ -3816,9 +3816,9 @@
       "Count": 340
     }
   ],
-  "EOS_Progressed": 702635,
+  "EOS_Progressed": 702638,
   "EOS_Completed": 12709,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -4886,6 +4886,11 @@
       "Time": "2023-05-06T12:06:42.8079397+00:00",
       "NumProgressed": 702635,
       "NumCompleted": 12709
+    },
+    {
+      "Time": "2023-05-06T13:09:53.4586684+00:00",
+      "NumProgressed": 702638,
+      "NumCompleted": 12709
     }
   ],
   "TotalAchievements": 50,
@@ -5183,9 +5188,9 @@
       "ID": "37_CustomTrophy_H1",
       "SetID": "adcm20g",
       "Name": "Rumble in the Hangar",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4918
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -5241,7 +5246,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -5296,21 +5301,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11936,
+      "Progressed": 11939,
       "Completed": 10036
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702635,
+      "Progressed": 702638,
       "Completed": 12709
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-06T10:00:47.3369298+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:42.8079391+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:53.4586678+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:00:18.4113097+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:42.8079861+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:03:12.1732255+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:53.4587107+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 42,
   "Rating": 4.16,
   "RatingHistory": [
     {
@@ -215,10 +215,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 4826,
-  "EOS_Completed": 25,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 72,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -724,6 +724,11 @@
       "Time": "2023-05-06T12:06:22.7659726+00:00",
       "NumProgressed": 4826,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-06T13:09:29.7423918+00:00",
+      "NumProgressed": 4826,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -781,9 +786,9 @@
       "ID": "ACH07",
       "SetID": "552d41m",
       "Name": "Planned Ahead",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH08",
@@ -967,15 +972,15 @@
       "ID": "552d41m",
       "IsBase": true,
       "Progressed": 4826,
-      "Completed": 25
+      "Completed": 26
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:22.7659722+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:29.7423915+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:59:22.6941634+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:22.7659959+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:06.7488651+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:29.7424146+00:00"
 }

@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1514608,
+  "EOS_Progressed": 1514622,
   "EOS_Completed": 597,
-  "EOS_NewPlayers": 1489,
+  "EOS_NewPlayers": 1491,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-05-06T12:06:55.2640215+00:00",
       "NumProgressed": 1514608,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-06T13:10:08.0965469+00:00",
+      "NumProgressed": 1514622,
+      "NumCompleted": 597
     }
   ],
   "TotalAchievements": 20,
@@ -1744,7 +1749,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106023
+      "UsersEstimate": 106024
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -1768,7 +1773,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45438
+      "UsersEstimate": 45439
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -1784,7 +1789,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136315
+      "UsersEstimate": 136316
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -1816,7 +1821,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45438
+      "UsersEstimate": 45439
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -1832,7 +1837,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151461
+      "UsersEstimate": 151462
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -1848,7 +1853,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121169
+      "UsersEstimate": 121170
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -1880,7 +1885,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75730
+      "UsersEstimate": 75731
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -1895,15 +1900,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514608,
+      "Progressed": 1514622,
       "Completed": 597
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-01T21:59:29.8330275+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:55.2640207+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:10:08.0965463+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:01:12.6891279+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:55.2640432+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:04:23.1091107+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:10:08.0966042+00:00"
 }

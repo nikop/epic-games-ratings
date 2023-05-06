@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 870,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1236,9 +1236,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 339
     },
     {
       "ID": "fourleafclover",
@@ -1404,9 +1404,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "mysteriousrock",
@@ -1661,8 +1661,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:32.5871722+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:41.4712033+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:59:25.3152703+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:32.587255+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:10.095457+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:41.4713059+00:00"
 }

@@ -1,30 +1,30 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 549)  
+Rating: 4.49 (Ranked 548)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 87.00% | ~18,749 |
+| Stylish | 87.00% | ~18,750 |
 | Advancement | 74.00% | ~15,948 |
-| Meticulously Efficient | 65.00% | ~14,008 |
-| Discovery | 63.00% | ~13,577 |
+| Meticulously Efficient | 65.00% | ~14,009 |
+| Discovery | 63.00% | ~13,578 |
 | Swift Rift Removers | 56.00% | ~12,069 |
-| Fully Upgraded | 55.00% | ~11,853 |
-| Cultured | 53.00% | ~11,422 |
+| Fully Upgraded | 55.00% | ~11,854 |
+| Cultured | 53.00% | ~11,423 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,207 |
 | Vaporous Expansion | 49.00% | ~10,560 |
 | Teamwork | 45.00% | ~9,698 |
-| There you are! | 44.00% | ~9,482 |
-| Clutch Capture | 42.00% | ~9,051 |
-| Back Off | 36.00% | ~7,758 |
-| Daily Dose | 36.00% | ~7,758 |
+| There you are! | 44.00% | ~9,483 |
+| Clutch Capture | 42.00% | ~9,052 |
+| Back Off | 36.00% | ~7,759 |
+| Daily Dose | 36.00% | ~7,759 |
 | Welcome to the Crew | 33.00% | ~7,112 |
 | Ghostbuster In Training | 31.00% | ~6,681 |
 | Solo Capture | 31.00% | ~6,681 |
-| Icing on the Cake | 30.00% | ~6,465 |
-| Legions | 28.00% | ~6,034 |
-| Side Hustle | 28.00% | ~6,034 |
+| Icing on the Cake | 30.00% | ~6,466 |
+| Legions | 28.00% | ~6,035 |
+| Side Hustle | 28.00% | ~6,035 |
 | We have the best insurance | 27.00% | ~5,819 |
 | Pesky Jerks | 27.00% | ~5,819 |
 | Right back at ya | 27.00% | ~5,819 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 549)
 | I don't need these | 1.00% | ~216 |
 | Mycophile | 1.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,551 (Ranked 88)  
+Progressed: 21,552 (Ranked 88)  
 Completed: 40 (0.19%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 40 (0.19%) (Ranked 134)
 | 2023-05-03 | 21,454 | 40 |
 | 2023-05-04 | 21,484 | 40 |
 | 2023-05-05 | 21,529 | 40 |
-| 2023-05-06 | 21,551 | 40 |
+| 2023-05-06 | 21,552 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 226  (Ranked 244)  
 Sum: 2,038 (Ranked 184)  

@@ -2,7 +2,7 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 94,
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18221,
+  "EOS_Progressed": 18227,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-05-06T12:06:12.3338367+00:00",
       "NumProgressed": 18221,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-06T13:09:17.4138616+00:00",
+      "NumProgressed": 18227,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -1227,7 +1232,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "FirstGlide",
@@ -1283,7 +1288,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "PickupChitin",
@@ -1330,7 +1335,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18221,
+      "Progressed": 18227,
       "Completed": 18
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-05T21:58:46.9443502+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:12.3338362+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:17.413861+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:49.5742227+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:58:59.5507731+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:12.3338551+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:01:37.3260956+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:17.4138831+00:00"
 }

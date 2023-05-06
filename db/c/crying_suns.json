@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 28,
@@ -530,7 +530,7 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457337,
+  "EOS_Progressed": 457343,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
@@ -1695,6 +1695,11 @@
       "Time": "2023-05-06T12:06:46.0820413+00:00",
       "NumProgressed": 457337,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-06T13:09:57.3292189+00:00",
+      "NumProgressed": 457343,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -1722,7 +1727,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105188
+      "UsersEstimate": 105189
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -1730,7 +1735,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100614
+      "UsersEstimate": 100615
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -1762,7 +1767,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -1794,7 +1799,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301842
+      "UsersEstimate": 301846
     },
     {
       "ID": "achievement_story_landa",
@@ -1826,7 +1831,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114334
+      "UsersEstimate": 114336
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -1834,7 +1839,7 @@
       "Name": "Meet your maker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -1858,7 +1863,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50307
+      "UsersEstimate": 50308
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -1882,7 +1887,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91467
+      "UsersEstimate": 91469
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -1890,7 +1895,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 150921
+      "UsersEstimate": 150923
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -1914,7 +1919,7 @@
       "Name": "The Impersonator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -1922,7 +1927,7 @@
       "Name": "The Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_church_1",
@@ -1930,7 +1935,7 @@
       "Name": "The Evangelist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -1938,7 +1943,7 @@
       "Name": "The Inquisitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -1954,7 +1959,7 @@
       "Name": "The Ace Pilot",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -1962,7 +1967,7 @@
       "Name": "The Tech Med",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -1970,7 +1975,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -1978,7 +1983,7 @@
       "Name": "The lucky charm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -1986,7 +1991,7 @@
       "Name": "The Anonymous",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -1994,7 +1999,7 @@
       "Name": "The Smuggler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -2002,7 +2007,7 @@
       "Name": "The Crazy Repairman",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -2010,7 +2015,7 @@
       "Name": "The Weasel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
@@ -2130,7 +2135,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201228
+      "UsersEstimate": 201231
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2138,7 +2143,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137201
+      "UsersEstimate": 137203
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -2154,7 +2159,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50307
+      "UsersEstimate": 50308
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -2162,7 +2167,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178361
+      "UsersEstimate": 178364
     },
     {
       "ID": "achievement_win_run_hard",
@@ -2218,28 +2223,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100614
+      "UsersEstimate": 100615
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1271,
-      "Completed": 1271
+      "Progressed": 1277,
+      "Completed": 1277
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457337,
+      "Progressed": 457343,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:46.0820405+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:57.3292183+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:00:32.9149647+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:46.0821113+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:03:28.6104657+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:57.3292883+00:00"
 }

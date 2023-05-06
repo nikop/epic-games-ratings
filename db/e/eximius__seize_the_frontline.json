@@ -210,7 +210,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183383,
+  "EOS_Progressed": 183397,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1217,
   "EOS_NewCompleters": 0,
@@ -1485,6 +1485,11 @@
       "Time": "2023-05-06T12:06:49.757545+00:00",
       "NumProgressed": 183383,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-06T13:10:01.5237891+00:00",
+      "NumProgressed": 183397,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1496,7 +1501,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14671
+      "UsersEstimate": 14672
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -1504,7 +1509,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130202
+      "UsersEstimate": 130212
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -1512,7 +1517,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9169
+      "UsersEstimate": 9170
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -1520,7 +1525,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5501
+      "UsersEstimate": 5502
     },
     {
       "ID": "ACH_INITIATION",
@@ -1528,7 +1533,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33009
+      "UsersEstimate": 33011
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -1576,7 +1581,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9169
+      "UsersEstimate": 9170
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -1616,14 +1621,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9169
+      "UsersEstimate": 9170
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183383,
+      "Progressed": 183397,
       "Completed": 4
     }
   ],
@@ -1631,8 +1636,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-01T19:59:20.8642488+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:49.7575443+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:10:01.5237883+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.0826299+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:00:55.7471685+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:49.7575854+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:03:59.4191884+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:10:01.5238131+00:00"
 }

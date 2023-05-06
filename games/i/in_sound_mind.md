@@ -1,12 +1,12 @@
 # In Sound Mind
 [Store](https://store.epicgames.com/en-US/p/in-sound-mind)  
 [View Rawdata](../../db/i/in_sound_mind.json)  
-Rating: 4.60 (Ranked 378)  
+Rating: 4.60 (Ranked 377)  
 Number of Ratings: 1,937  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 62  (Ranked 374)  
-Sum: 337 (Ranked 315)  
-Diff (max vs sum): 59  
+Sum: 337 (Ranked 316)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 62 |

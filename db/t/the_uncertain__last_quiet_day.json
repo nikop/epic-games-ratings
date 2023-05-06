@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.5,
+  "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -52,6 +52,11 @@
     {
       "Time": "2023-05-06T01:58:06.236865+00:00",
       "NumProgressed": 429,
+      "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-06T13:09:48.0431089+00:00",
+      "NumProgressed": 430,
       "NumCompleted": 15
     }
   ],
@@ -88,7 +93,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -112,7 +117,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -152,7 +157,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -192,7 +197,7 @@
       "Name": "Lucky dog",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "METICULOUS",
@@ -206,9 +211,9 @@
       "ID": "NOT_CLUMSY",
       "SetID": "2iigf77",
       "Name": "Not as clumsy or random",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -224,7 +229,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "PERFECT_HEARING",
@@ -248,7 +253,7 @@
       "Name": "Accurate",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "QUICK_CHARGE",
@@ -256,7 +261,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -264,7 +269,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "SILENT",
@@ -280,7 +285,7 @@
       "Name": "Sysadmin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -319,7 +324,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 15
     }
   ],
@@ -327,8 +332,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:38.2604521+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:48.0431084+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:58.4087907+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:00:06.6145151+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:38.2604753+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:57.8592986+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:48.0431281+00:00"
 }

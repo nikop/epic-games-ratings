@@ -28,15 +28,15 @@ Rating: 4.16 (Ranked 833)
 | Man Toyz | 1.00% | ~48 |
 | Playing Doctor | 1.00% | ~48 |
 | Liberty City Secrets | 1.00% | ~48 |
+| Planned Ahead | 0.90% | ~43 |
 | Wheels Up | 0.90% | ~43 |
-| Planned Ahead | 0.80% | ~39 |
 | Going Rogue | 0.80% | ~39 |
 | Furious First Responder | 0.80% | ~39 |
 | Is That All You've Got? | 0.80% | ~39 |
 | King of Liberty City | 0.50% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,826 (Ranked 122)  
-Completed: 25 (0.52%) (Ranked 95)  
+Completed: 26 (0.54%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,7 +51,7 @@ Completed: 25 (0.52%) (Ranked 95)
 | 2023-05-03 | 4,802 | 25 |
 | 2023-05-04 | 4,806 | 25 |
 | 2023-05-05 | 4,819 | 25 |
-| 2023-05-06 | 4,826 | 25 |
+| 2023-05-06 | 4,826 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

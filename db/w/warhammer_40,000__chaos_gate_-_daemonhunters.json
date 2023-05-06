@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 413,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.58,
   "NumberOfRatings": 371,
@@ -490,9 +490,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2578,
+  "EOS_Progressed": 2579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,6 +669,11 @@
     {
       "Time": "2023-05-06T12:06:39.1826605+00:00",
       "NumProgressed": 2578,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T13:09:49.0707105+00:00",
+      "NumProgressed": 2579,
       "NumCompleted": 0
     }
   ],
@@ -849,7 +854,7 @@
       "Name": "Not So Fast...",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "Kills_Bleed",
@@ -857,7 +862,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -873,7 +878,7 @@
       "Name": "Executioner",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Kills_Exterminator",
@@ -897,7 +902,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Kills_Knockback",
@@ -1009,7 +1014,7 @@
       "Name": "Efficient Killer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1041,7 +1046,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "NexusCompleted",
@@ -1152,21 +1157,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2578,
+      "Progressed": 2579,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2578,
+      "Progressed": 2579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:39.1826598+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:49.0707099+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:00:01.2565915+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:39.1827159+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:52.1428454+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:49.0707633+00:00"
 }

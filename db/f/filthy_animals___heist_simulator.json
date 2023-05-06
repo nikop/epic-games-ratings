@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6525,
+  "EOS_Progressed": 6526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -413,6 +413,11 @@
       "Time": "2023-05-06T06:07:06.5157073+00:00",
       "NumProgressed": 6525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T13:09:38.2563824+00:00",
+      "NumProgressed": 6526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -600,7 +605,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "superMartSuccess",
@@ -608,7 +613,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "templeAllObjectives",
@@ -647,7 +652,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 6525,
+      "Progressed": 6526,
       "Completed": 0
     }
   ],
@@ -655,8 +660,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:29.8645673+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:38.256382+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.1519868+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:59:29.9491893+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:29.8645868+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:15.4383169+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:38.2564361+00:00"
 }

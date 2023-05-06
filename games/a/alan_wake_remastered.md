@@ -19,6 +19,7 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 8.00% | ~3,682 |
 | They're Heeeeeere! | 8.00% | ~3,682 |
 | Sound and Fury | 8.00% | ~3,682 |
+| Missed by a Mile | 8.00% | ~3,682 |
 | Damn Good Cup of Coffee | 8.00% | ~3,682 |
 | A Friend in Need | 8.00% | ~759 |
 | Heavy Metal | 7.00% | ~3,222 |
@@ -27,7 +28,6 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 7.00% | ~3,222 |
 | Collateral Carnage | 7.00% | ~3,222 |
 | Come One, Come All | 7.00% | ~3,222 |
-| Missed by a Mile | 7.00% | ~3,222 |
 | Gatekeeper | 6.00% | ~2,761 |
 | The Lady of the Light | 6.00% | ~2,761 |
 | It's Not Just a Typewriter Brand | 6.00% | ~2,761 |

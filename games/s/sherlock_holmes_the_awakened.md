@@ -16,9 +16,9 @@
 | Sticky Fingers | 53.00% | ~72 |
 | Knives Out | 53.00% | ~72 |
 | Gaze Into The Abyss | 52.00% | ~70 |
+| Back In The Saddle | 52.00% | ~70 |
 | Land, Ho! | 52.00% | ~70 |
 | Lock, Stock, And Barrel | 51.00% | ~69 |
-| Back In The Saddle | 51.00% | ~69 |
 | No Man Is An Island | 50.00% | ~68 |
 | Bookworm | 45.00% | ~61 |
 | At Wits' End | 44.00% | ~59 |
@@ -26,7 +26,7 @@
 | Brain Food | 40.00% | ~54 |
 | Up In Flames | 39.00% | ~53 |
 | Fhtagn! | 39.00% | ~53 |
-| Let Me Be Frank | 37.00% | ~50 |
+| Let Me Be Frank | 38.00% | ~51 |
 | No Stone Unturned | 36.00% | ~49 |
 | Curiosity Killed The Cat | 26.00% | ~35 |
 | Read It And Weep | 24.00% | ~32 |

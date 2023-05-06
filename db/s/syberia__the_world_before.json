@@ -2,7 +2,7 @@
   "ID": "ad59318740674cb3adad80949d0bcc88",
   "Name": "Syberia: The World Before",
   "ProductSlug": "syberia-the-world-before",
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 255,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 382,
@@ -293,6 +293,6 @@
   "FirstSeen": "2022-07-22T20:23:03.7209999+00:00",
   "LastChanged": "2023-03-31T05:57:38.0587763+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:40.9440482+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:59:48.3998228+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:02:20.1817105+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:02:36.2303454+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:07:08.9652818+00:00"
 }

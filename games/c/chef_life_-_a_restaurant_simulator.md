@@ -4,22 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 87.00% | ~39 |
-| Home Cook | 60.00% | ~27 |
-| So Clean You Can Eat Off the Floor | 51.00% | ~23 |
-| You're the Expert! | 49.00% | ~22 |
-| French Flair | 42.00% | ~19 |
-| S is for Scrumptious | 29.00% | ~13 |
-| Next Level Cuisine | 27.00% | ~12 |
+| The Big Day | 87.00% | ~40 |
+| Home Cook | 59.00% | ~27 |
+| So Clean You Can Eat Off the Floor | 50.00% | ~23 |
+| You're the Expert! | 50.00% | ~23 |
+| French Flair | 41.00% | ~19 |
+| S is for Scrumptious | 28.00% | ~13 |
+| Next Level Cuisine | 26.00% | ~12 |
 | Haute Cuisine | 22.00% | ~10 |
-| Italian Style | 18.00% | ~8 |
-| Well-Stocked Kitchen | 18.00% | ~8 |
+| Italian Style | 17.00% | ~8 |
+| Well-Stocked Kitchen | 17.00% | ~8 |
 | Rolling in Dough | 9.00% | ~4 |
 | Culinary Arts | 7.00% | ~3 |
 | Perfectionist | 7.00% | ~3 |
 | Sous-Chef | 7.00% | ~3 |
 | Chef, Yes Chef! | 4.00% | ~2 |
 | Eco Warrior | 2.00% | ~1 |
+| Leaning Tower of Pizza | 2.00% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
@@ -42,10 +43,9 @@
 | Rising Star | 0.00% | ~0 |
 | Foodie Favorite | 0.00% | ~0 |
 | A Star is Born | 0.00% | ~0 |
-| Leaning Tower of Pizza | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 275)  
+Progressed: 46 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 18 | 0 |
 | 2023-05-04 | 34 | 0 |
 | 2023-05-05 | 41 | 0 |
-| 2023-05-06 | 45 | 0 |
+| 2023-05-06 | 46 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

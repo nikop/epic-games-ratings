@@ -23,6 +23,7 @@
 | Legendary Destructor | 2.00% | ~1 |
 | Machine Man | 2.00% | ~1 |
 | Medium Rare | 2.00% | ~1 |
+| Monster of Fashion | 2.00% | ~1 |
 | Mushroom Man | 2.00% | ~1 |
 | Nomad | 2.00% | ~1 |
 | Scrap Collector | 2.00% | ~1 |
@@ -31,7 +32,6 @@
 | True Victory | 2.00% | ~1 |
 | Untouchable | 2.00% | ~1 |
 | Ice Breaker | 0.00% | ~0 |
-| Monster of Fashion | 0.00% | ~0 |
 | Single Person On Earth | 0.00% | ~0 |
 | Victory That Is Even More True | 0.00% | ~0 |
 | What Even Are You? | 0.00% | ~0 |

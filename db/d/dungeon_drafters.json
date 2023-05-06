@@ -162,9 +162,9 @@
       "ID": "LW_complete",
       "SetID": "3b8n56h",
       "Name": "The Familiar",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MC_complete",
@@ -346,9 +346,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "demiurge_defeated",
@@ -362,9 +362,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "git_gud?",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:25.5889872+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:33.1789057+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:38.9411894+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:58:49.6666873+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:25.5890177+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:01:25.1433546+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:33.1789516+00:00"
 }

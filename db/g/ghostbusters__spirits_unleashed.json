@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 88,
@@ -876,9 +876,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21551,
+  "EOS_Progressed": 21552,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1926,6 +1926,11 @@
       "Time": "2023-05-06T12:06:40.7318583+00:00",
       "NumProgressed": 21551,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-06T13:09:51.005611+00:00",
+      "NumProgressed": 21552,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -1953,7 +1958,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "Best_Insurance",
@@ -1977,7 +1982,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "Collect_Spores",
@@ -2001,7 +2006,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11422
+      "UsersEstimate": 11423
     },
     {
       "ID": "Daily_Dose",
@@ -2009,7 +2014,7 @@
       "Name": "Daily Dose",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "Diabolical",
@@ -2025,7 +2030,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13577
+      "UsersEstimate": 13578
     },
     {
       "ID": "Dont_Need_These",
@@ -2049,7 +2054,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "Escape_Artist",
@@ -2073,7 +2078,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 11853
+      "UsersEstimate": 11854
     },
     {
       "ID": "GB_In_Training",
@@ -2097,7 +2102,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6465
+      "UsersEstimate": 6466
     },
     {
       "ID": "Legions",
@@ -2105,7 +2110,7 @@
       "Name": "Legions",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "Liability",
@@ -2209,7 +2214,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "Skilled",
@@ -2241,7 +2246,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18749
+      "UsersEstimate": 18750
     },
     {
       "ID": "Summoner",
@@ -2297,7 +2302,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "Tobins_Prodigy",
@@ -2344,7 +2349,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21551,
+      "Progressed": 21552,
       "Completed": 40
     }
   ],
@@ -2352,8 +2357,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-05T18:00:44.1786598+00:00",
-  "LastChanged_Achievements": "2023-05-06T12:06:40.7318577+00:00",
+  "LastChanged_Achievements": "2023-05-06T13:09:51.0056104+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-06T12:00:13.7278918+00:00",
-  "LastUpdate_Achievements": "2023-05-06T12:06:40.7319075+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:03:06.5927224+00:00",
+  "LastUpdate_Achievements": "2023-05-06T13:09:51.0056579+00:00"
 }
