@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~39,312 |
-| ''I don't like you either!'' | 80.00% | ~32,422 |
-| ''You think you're some kind of Jedi?'' | 73.00% | ~29,585 |
-| ''Impressive, most impressive'' | 72.00% | ~29,180 |
-| The Phantom Menace | 60.00% | ~24,317 |
-| ''I can fly anything'' | 59.00% | ~23,912 |
-| ''Aggressive Negotiations'' | 59.00% | ~23,912 |
-| ''And who gave you permission...?'' | 54.00% | ~21,885 |
-| A New Hope | 48.00% | ~19,453 |
-| Attack of the Clones | 47.00% | ~19,048 |
-| Revenge of the Sith | 41.00% | ~16,616 |
-| The Empire Strikes Back | 38.00% | ~15,401 |
-| ''A fine addition to my collection'' | 38.00% | ~15,401 |
-| Return of the Jedi | 33.00% | ~13,374 |
-| The Force Awakens | 27.00% | ~10,943 |
-| The Last Jedi | 23.00% | ~9,321 |
-| The Rise of Skywalker | 20.00% | ~8,106 |
-| ''It's true... all of it'' | 19.00% | ~7,700 |
-| ''Get the crews to their fighters'' | 19.00% | ~7,700 |
-| ''Raw, untamed power'' | 8.00% | ~3,242 |
-| Rishi Maze | 5.00% | ~2,026 |
-| ''Only one business in the Galaxy...'' | 5.00% | ~2,026 |
-| ''You may fire when ready'' | 3.00% | ~1,216 |
-| ''What have you done with those plans?'' | 3.00% | ~1,216 |
-| ''GONK!'' | 3.00% | ~1,216 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,216 |
-| The Slice | 3.00% | ~1,216 |
+| ''You guys got yourself a ship!'' | 97.00% | ~39,357 |
+| ''I don't like you either!'' | 80.00% | ~32,459 |
+| ''You think you're some kind of Jedi?'' | 73.00% | ~29,619 |
+| ''Impressive, most impressive'' | 72.00% | ~29,213 |
+| The Phantom Menace | 60.00% | ~24,344 |
+| ''I can fly anything'' | 59.00% | ~23,939 |
+| ''Aggressive Negotiations'' | 59.00% | ~23,939 |
+| ''And who gave you permission...?'' | 54.00% | ~21,910 |
+| A New Hope | 48.00% | ~19,476 |
+| Attack of the Clones | 47.00% | ~19,070 |
+| Revenge of the Sith | 41.00% | ~16,635 |
+| The Empire Strikes Back | 38.00% | ~15,418 |
+| ''A fine addition to my collection'' | 38.00% | ~15,418 |
+| Return of the Jedi | 33.00% | ~13,389 |
+| The Force Awakens | 27.00% | ~10,955 |
+| The Last Jedi | 23.00% | ~9,332 |
+| The Rise of Skywalker | 20.00% | ~8,115 |
+| ''It's true... all of it'' | 19.00% | ~7,709 |
+| ''Get the crews to their fighters'' | 19.00% | ~7,709 |
+| ''Raw, untamed power'' | 8.00% | ~3,246 |
+| Rishi Maze | 5.00% | ~2,029 |
+| ''Only one business in the Galaxy...'' | 5.00% | ~2,029 |
+| ''You may fire when ready'' | 3.00% | ~1,217 |
+| ''What have you done with those plans?'' | 3.00% | ~1,217 |
+| ''GONK!'' | 3.00% | ~1,217 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,217 |
+| The Slice | 3.00% | ~1,217 |
 | ''Hello there!'' | 2.00% | ~811 |
 | Unknown Regions | 2.00% | ~811 |
 | ''Do or do not. There is no try'' | 2.00% | ~811 |
@@ -47,12 +47,12 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''A little short for a Stormtrooper...'' | 2.00% | ~811 |
 | ''Power! Unlimited power!'' | 2.00% | ~811 |
 | ''Now I am the Master'' | 2.00% | ~811 |
-| ''Jedi Business'' | 1.00% | ~405 |
-| ''No more training, do you require'' | 1.00% | ~405 |
-| ''You needn't worry about your reward'' | 1.00% | ~405 |
+| ''Jedi Business'' | 1.00% | ~406 |
+| ''No more training, do you require'' | 1.00% | ~406 |
+| ''You needn't worry about your reward'' | 1.00% | ~406 |
 | ''I've never seen a real one!'' | 0.90% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,528 (Ranked 78)  
+Progressed: 40,574 (Ranked 78)  
 Completed: 161 (0.40%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,14 +68,14 @@ Completed: 161 (0.40%) (Ranked 104)
 | 2023-05-03 | 39,171 | 160 |
 | 2023-05-04 | 39,377 | 160 |
 | 2023-05-05 | 40,204 | 160 |
-| 2023-05-06 | 40,528 | 161 |
+| 2023-05-06 | 40,574 | 161 |
 ## Awards
-Max (Great Boss Battles): 2,235  (Ranked 97)  
-Sum: 6,267 (Ranked 111)  
+Max (Great Boss Battles): 2,236  (Ranked 97)  
+Sum: 6,268 (Ranked 111)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,235 |
+| This game has Great Boss Battles | 2,236 |
 | This game has Diverse Characters | 473 |
 | This game has Amazing Characters | 465 |
 | This game is Great for Beginners | 463 |
@@ -183,3 +183,4 @@ Diff (max vs sum): -14
 | 2023-05-02 | 4.79 | - | 2,234 | 6,263 |
 | 2023-05-04 | 4.79 | - | 2,235 | 6,266 |
 | 2023-05-05 | 4.79 | - | 2,235 | 6,267 |
+| 2023-05-06 | 4.79 | - | 2,236 | 6,268 |

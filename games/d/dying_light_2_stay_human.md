@@ -6,34 +6,34 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,697 |
-| Into the Unknown | 8.00% | ~43,287 |
-| First Shot | 8.00% | ~43,287 |
-| Herzlich Wilkommen! | 7.00% | ~37,876 |
-| Sancho Panza | 7.00% | ~37,876 |
-| Good Night & Good Luck | 7.00% | ~37,876 |
-| Under Pressure | 6.00% | ~32,465 |
-| Flag Burning | 6.00% | ~32,465 |
-| Oh, So This Is How It Works! | 6.00% | ~32,465 |
-| On the Trail of the Enemy | 5.00% | ~27,054 |
-| Light in the Darkness | 5.00% | ~27,054 |
-| Get Outta My House! | 5.00% | ~27,054 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,054 |
-| Night Hunter | 5.00% | ~27,054 |
-| Being All Social | 5.00% | ~27,054 |
-| Debris and Ashes | 4.00% | ~21,643 |
-| We Will Be Heard! | 4.00% | ~21,643 |
-| Known Associate | 4.00% | ~21,643 |
-| Brush with Death | 4.00% | ~21,643 |
-| Going Down | 4.00% | ~21,643 |
-| Tunnel Entrance | 4.00% | ~21,643 |
-| After the Fall | 4.00% | ~21,643 |
-| Can't Touch This! | 4.00% | ~21,643 |
-| Family First | 3.00% | ~16,232 |
-| Your World, Your Rules | 3.00% | ~16,232 |
-| Death From Afar | 3.00% | ~16,232 |
-| Terminal Headache | 3.00% | ~16,232 |
-| Slowpoke! | 3.00% | ~16,232 |
+| You Never Forget Your First... | 9.00% | ~48,700 |
+| Into the Unknown | 8.00% | ~43,289 |
+| First Shot | 8.00% | ~43,289 |
+| Herzlich Wilkommen! | 7.00% | ~37,878 |
+| Sancho Panza | 7.00% | ~37,878 |
+| Good Night & Good Luck | 7.00% | ~37,878 |
+| Under Pressure | 6.00% | ~32,467 |
+| Flag Burning | 6.00% | ~32,467 |
+| Oh, So This Is How It Works! | 6.00% | ~32,467 |
+| On the Trail of the Enemy | 5.00% | ~27,055 |
+| Light in the Darkness | 5.00% | ~27,055 |
+| Get Outta My House! | 5.00% | ~27,055 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,055 |
+| Night Hunter | 5.00% | ~27,055 |
+| Being All Social | 5.00% | ~27,055 |
+| Debris and Ashes | 4.00% | ~21,644 |
+| We Will Be Heard! | 4.00% | ~21,644 |
+| Known Associate | 4.00% | ~21,644 |
+| Brush with Death | 4.00% | ~21,644 |
+| Going Down | 4.00% | ~21,644 |
+| Tunnel Entrance | 4.00% | ~21,644 |
+| After the Fall | 4.00% | ~21,644 |
+| Can't Touch This! | 4.00% | ~21,644 |
+| Family First | 3.00% | ~16,233 |
+| Your World, Your Rules | 3.00% | ~16,233 |
+| Death From Afar | 3.00% | ~16,233 |
+| Terminal Headache | 3.00% | ~16,233 |
+| Slowpoke! | 3.00% | ~16,233 |
 | Tickets, Please! | 2.00% | ~10,822 |
 | Parkour Master | 2.00% | ~10,822 |
 | Combat Master | 2.00% | ~10,822 |
@@ -45,19 +45,19 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,411 |
 | Modder | 1.00% | ~5,411 |
 | Ironheart | 1.00% | ~5,411 |
-| Nemesis | 1.00% | ~1,865 |
+| Nemesis | 1.00% | ~1,866 |
 | Enter the Hall | 0.90% | ~1,679 |
 | That's Teamwork! | 0.80% | ~4,329 |
 | Fit as a Fiddle | 0.80% | ~4,329 |
 | Boot Licker | 0.70% | ~3,788 |
 | Night of Terrors | 0.70% | ~1,306 |
-| Find Anything Interesting? | 0.60% | ~3,246 |
+| Find Anything Interesting? | 0.60% | ~3,247 |
 | My Friend, Ciro | 0.60% | ~1,119 |
 | Skullcrusher | 0.60% | ~1,119 |
-| Revenants | 0.50% | ~2,705 |
-| Who Wants To Be a... | 0.50% | ~2,705 |
-| Tanning Salon | 0.50% | ~2,705 |
-| Get the Point? | 0.50% | ~2,705 |
+| Revenants | 0.50% | ~2,706 |
+| Who Wants To Be a... | 0.50% | ~2,706 |
+| Tanning Salon | 0.50% | ~2,706 |
+| Get the Point? | 0.50% | ~2,706 |
 | Lightning Reflexes | 0.40% | ~2,164 |
 | A Friend in Need... | 0.20% | ~1,082 |
 | Man On a Mission | 0.20% | ~1,082 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~187 |
 | Connoisseur | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,083 (Ranked 22)  
+Progressed: 541,109 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 46 (0.01%) (Ranked 184)
 | 2023-05-03 | 539,308 | 46 |
 | 2023-05-04 | 540,116 | 46 |
 | 2023-05-05 | 540,874 | 46 |
-| 2023-05-06 | 541,083 | 46 |
+| 2023-05-06 | 541,109 | 46 |
 ## Awards
 Max (Character Customization): 6,885  (Ranked 45)  
 Sum: 15,945 (Ranked 58)  

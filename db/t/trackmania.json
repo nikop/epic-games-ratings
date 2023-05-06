@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 380,
@@ -4579,10 +4579,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 21827,
       "NumberOfAwardsMax": 2542
+    },
+    {
+      "Time": "2023-05-06T07:59:52.9643582+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21834,
+      "NumberOfAwardsMax": 2542
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21827,
+  "NumberOfAwards": 21834,
   "NumberOfAwardsMax": 2542,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4644,7 +4650,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1368
+      "Count": 1375
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4670,8 +4676,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-05-06T06:59:44.3424864+00:00",
+  "LastChanged": "2023-05-06T07:59:52.964358+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:32.3072585+00:00",
-  "LastUpdate_Ratings": "2023-05-06T06:59:44.342488+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:02:13.5478177+00:00"
+  "LastUpdate_Ratings": "2023-05-06T07:59:52.9643587+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:03:33.9302421+00:00"
 }

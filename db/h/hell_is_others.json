@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.47,
   "RatingHistory": [
     {
@@ -316,9 +316,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247875,
+  "EOS_Progressed": 247877,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1586,6 +1586,11 @@
       "Time": "2023-05-06T07:07:04.6788242+00:00",
       "NumProgressed": 247875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T08:08:02.4272056+00:00",
+      "NumProgressed": 247877,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -1645,7 +1650,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76841
+      "UsersEstimate": 76842
     },
     {
       "ID": "BackHomeNTimes",
@@ -1797,7 +1802,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14872
+      "UsersEstimate": 14873
     },
     {
       "ID": "GrowPlants2",
@@ -2044,7 +2049,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247875,
+      "Progressed": 247877,
       "Completed": 1
     }
   ],
@@ -2052,8 +2057,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:07:04.6788237+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:08:02.427205+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:01:28.1502231+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:07:04.6788828+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:02:24.1033926+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:08:02.4272654+00:00"
 }

@@ -92,8 +92,8 @@
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 490 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,439 | 115 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 493 | 184 |
-| 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 717 | 153 |
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,235 | 97 |
+| 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 718 | 153 |
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,236 | 97 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 998 | 136 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,824 | 55 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 205 |
@@ -237,6 +237,7 @@
 | 235 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,320 | 80 |
 | 235 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 490 |
 | 235 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,003 | 87 |
+| 235 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 643 | 161 |
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 362 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 490 |
 | 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,181 | 60 |
@@ -254,23 +255,22 @@
 | 235 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 490 |
 | 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 339 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 490 |
-| 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 643 | 161 |
-| 255 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 490 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,514 | 48 |
-| 255 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 490 |
-| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 490 |
-| 255 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 490 |
-| 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 490 |
-| 255 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 490 |
-| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,213 | 98 |
-| 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 311 |
-| 255 | [Returnal™](games/r/returnal™.md) | 4.67 | 20 | 482 |
-| 255 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 490 |
-| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 490 |
-| 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 490 |
-| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,542 | 89 |
-| 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 314 |
-| 255 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 478 |
+| 256 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 490 |
+| 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,514 | 48 |
+| 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 490 |
+| 256 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 490 |
+| 256 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 490 |
+| 256 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 490 |
+| 256 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 490 |
+| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,213 | 98 |
+| 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 311 |
+| 256 | [Returnal™](games/r/returnal™.md) | 4.67 | 20 | 482 |
+| 256 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 490 |
+| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 490 |
+| 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 490 |
+| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,542 | 89 |
+| 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 314 |
+| 256 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 478 |
 | 272 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 490 |
 | 272 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 355 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 261 |
@@ -281,7 +281,7 @@
 | 272 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 0 | 490 |
 | 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 490 |
 | 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 490 |
-| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,033 | 131 |
+| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,035 | 131 |
 | 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.66 | 48 | 391 |
 | 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 547 | 173 |
 | 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 466 |
@@ -644,7 +644,7 @@
 | 642 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 377 |
 | 642 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 642 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 490 |
-| 642 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,105 | 127 |
+| 642 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,106 | 127 |
 | 642 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 444 |
 | 642 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 47 |
 | 642 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |

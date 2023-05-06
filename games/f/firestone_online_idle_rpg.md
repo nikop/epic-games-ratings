@@ -9,7 +9,7 @@
 | Temple of Eternals | 55.00% | ~475 |
 | Prestigious | 51.00% | ~441 |
 | Fellowship Power | 39.00% | ~337 |
-| Guild Power | 22.00% | ~190 |
+| Guild Power | 23.00% | ~199 |
 | Prestigious x10 | 18.00% | ~156 |
 | Exotic Merchant | 14.00% | ~121 |
 | The game is on | 14.00% | ~121 |

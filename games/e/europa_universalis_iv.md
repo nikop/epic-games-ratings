@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,726 |
-| That's a Grand Army | 8.00% | ~2,423 |
-| That is mine! | 8.00% | ~2,423 |
-| Victorious! | 8.00% | ~2,423 |
-| Brothers in Arms | 6.00% | ~1,817 |
-| That's a Grand Navy | 6.00% | ~1,817 |
-| Seriously?! | 6.00% | ~1,817 |
-| For the Glory | 5.00% | ~1,514 |
+| Until death do us apart | 9.00% | ~2,728 |
+| That's a Grand Army | 8.00% | ~2,425 |
+| That is mine! | 8.00% | ~2,425 |
+| Victorious! | 8.00% | ~2,425 |
+| Brothers in Arms | 6.00% | ~1,819 |
+| That's a Grand Navy | 6.00% | ~1,819 |
+| Seriously?! | 6.00% | ~1,819 |
+| For the Glory | 5.00% | ~1,516 |
 | Cold War | 4.00% | ~1,212 |
 | Defender of the Faith | 3.00% | ~909 |
 | It's all about the money | 3.00% | ~909 |
@@ -42,10 +42,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Five Colonies | 0.70% | ~212 |
 | The Emperors new clothes | 0.60% | ~182 |
 | This navy can take it all | 0.60% | ~182 |
-| Down Under | 0.50% | ~151 |
-| Electable! | 0.50% | ~151 |
-| Time Bandit | 0.50% | ~151 |
-| Trustworthy | 0.50% | ~151 |
+| Down Under | 0.50% | ~152 |
+| Electable! | 0.50% | ~152 |
+| Time Bandit | 0.50% | ~152 |
+| Trustworthy | 0.50% | ~152 |
 | All belongs to Mother Russia | 0.40% | ~121 |
 | At every continent | 0.40% | ~121 |
 | Early-Modern Warfare | 0.40% | ~121 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,290 (Ranked 82)  
+Progressed: 30,311 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,290 | 0 |
+| 2023-05-06 | 30,311 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,799 (Ranked 26)  

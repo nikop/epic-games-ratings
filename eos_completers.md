@@ -3,7 +3,7 @@
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 23.08% |
-| 4 | [Island Cities](games/i/island_cities.md) | 20.00% |
+| 4 | [Island Cities](games/i/island_cities.md) | 19.64% |
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 4.35% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.29% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -78,7 +78,7 @@
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
-| 79 | [Sable](games/s/sable.md) | 0.92% |
+| 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |

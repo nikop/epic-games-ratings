@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.7,
   "NumberOfRatings": 1023,
@@ -1262,10 +1262,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2107,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-05-06T08:01:26.1788149+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2108,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2107,
+  "NumberOfAwards": 2108,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1333,12 +1339,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 202
+      "Count": 203
     }
   ],
-  "EOS_Progressed": 18668,
+  "EOS_Progressed": 18669,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1691,6 +1697,11 @@
       "Time": "2023-05-06T04:06:48.1080603+00:00",
       "NumProgressed": 18668,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-06T08:07:42.8645351+00:00",
+      "NumProgressed": 18669,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -1750,7 +1761,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17548
+      "UsersEstimate": 17549
     },
     {
       "ID": "GameOver",
@@ -1885,15 +1896,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18668,
+      "Progressed": 18669,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-04T19:59:32.4424823+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:06:50.0247055+00:00",
+  "LastChanged": "2023-05-06T08:01:26.1788147+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:07:42.8645342+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.5211178+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:00:45.3346121+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:06:50.0247316+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:01:26.1788154+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:07:42.8645529+00:00"
 }

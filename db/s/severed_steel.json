@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.68,
   "RatingHistory": [
     {
@@ -182,9 +182,9 @@
       "Count": 167
     }
   ],
-  "EOS_Progressed": 400753,
+  "EOS_Progressed": 400761,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 2839,
+  "EOS_NewPlayers": 2829,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1472,6 +1472,11 @@
       "Time": "2023-05-06T07:06:51.7470863+00:00",
       "NumProgressed": 400753,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-06T08:07:45.1202593+00:00",
+      "NumProgressed": 400761,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 52,
@@ -1491,7 +1496,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40075
+      "UsersEstimate": 40076
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -1499,7 +1504,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24045
+      "UsersEstimate": 24046
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -1898,7 +1903,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400753,
+      "Progressed": 400761,
       "Completed": 29
     }
   ],
@@ -1906,8 +1911,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-03T01:57:02.3850436+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:06:51.7470855+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:07:45.1202587+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:00:48.0723514+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:06:51.7471405+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:01:29.5895017+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:07:45.1203158+00:00"
 }

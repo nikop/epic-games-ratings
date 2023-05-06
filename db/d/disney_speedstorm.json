@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2336,
+  "EOS_Progressed": 2337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-05-06T06:07:17.2153787+00:00",
       "NumProgressed": 2336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T08:07:31.51235+00:00",
+      "NumProgressed": 2337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -953,7 +958,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "11",
@@ -1073,7 +1078,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "3",
@@ -1089,7 +1094,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "5",
@@ -1097,7 +1102,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "6",
@@ -1105,7 +1110,7 @@
       "Name": "PRO",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "7",
@@ -1136,13 +1141,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2336,
+      "Progressed": 2337,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:06:41.575009+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:07:31.5123494+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:00:16.2811265+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:06:41.5750311+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:00:42.5542824+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:07:31.5123761+00:00"
 }

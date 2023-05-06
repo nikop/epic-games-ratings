@@ -5,7 +5,7 @@
   "Ranking_Rating": 884,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 81,
+  "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 74,
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30298,
+  "EOS_Progressed": 30302,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1293,6 +1293,11 @@
       "Time": "2023-05-06T07:07:01.2448274+00:00",
       "NumProgressed": 30298,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-06T08:07:57.3727941+00:00",
+      "NumProgressed": 30302,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 14,
@@ -1320,7 +1325,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7879
     },
     {
       "ID": "allItems",
@@ -1344,7 +1349,7 @@
       "Name": "Easter Bunny",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "carving",
@@ -1384,7 +1389,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7576
     },
     {
       "ID": "firstItem",
@@ -1392,7 +1397,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23632
+      "UsersEstimate": 23636
     },
     {
       "ID": "roots",
@@ -1415,15 +1420,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30298,
+      "Progressed": 30302,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:07:01.2448265+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:07:57.3727933+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.1528242+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:01:27.8964618+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:07:01.2448463+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:02:23.9101689+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:07:57.3728092+00:00"
 }

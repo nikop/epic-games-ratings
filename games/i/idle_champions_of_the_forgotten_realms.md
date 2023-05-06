@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.20% | ~173 |
 | Tall Tales | 0.20% | ~106 |
 | The Silken Swamp | 0.20% | ~173 |
+| Supply Run | 0.20% | ~173 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
@@ -133,7 +134,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.10% | ~53 |
 | The Loots of Loomlurch | 0.10% | ~53 |
 | The Lutes of Loomlurch | 0.10% | ~53 |
-| Supply Run | 0.10% | ~87 |
 | Best Laid Plans | 0.10% | ~53 |
 | Pincushion Party | 0.10% | ~53 |
 | G. O. A. T. | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,594 (Ranked 59)  
-Completed: 1,806 (2.09%) (Ranked 55)  
+Progressed: 86,600 (Ranked 59)  
+Completed: 1,807 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -512,10 +512,10 @@ Completed: 1,806 (2.09%) (Ranked 55)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,594 | 1,806 |
+| 2023-05-06 | 86,600 | 1,807 |
 ## Awards
 Max (Diverse Characters): 4,865  (Ranked 62)  
-Sum: 29,812 (Ranked 37)  
+Sum: 29,814 (Ranked 37)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -524,7 +524,7 @@ Diff (max vs sum): 25
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,478 |
 | This game is Highly Recommended | 3,930 |
-| This game has Amazing Characters | 3,927 |
+| This game has Amazing Characters | 3,929 |
 | This game has Playful Visuals | 3,225 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -629,4 +629,4 @@ Diff (max vs sum): 25
 | 2023-05-03 | 4.06 | - | 4,863 | 29,789 |
 | 2023-05-04 | 4.06 | - | 4,863 | 29,800 |
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
-| 2023-05-06 | 4.06 | - | 4,865 | 29,812 |
+| 2023-05-06 | 4.06 | - | 4,865 | 29,814 |

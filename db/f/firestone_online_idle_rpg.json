@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 864,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1269,9 +1269,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 199
     },
     {
       "ID": "herewegoagain",
@@ -1646,8 +1646,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:06:35.4854431+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:07:23.170639+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T06:59:31.017469+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:06:35.4855276+00:00"
+  "LastUpdate_Ratings": "2023-05-06T07:59:32.01068+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:07:23.1707498+00:00"
 }

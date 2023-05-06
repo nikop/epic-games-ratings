@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11156,
+  "EOS_Progressed": 11159,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2459,6 +2459,11 @@
       "Time": "2023-05-06T07:07:00.0279809+00:00",
       "NumProgressed": 11156,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-06T08:07:55.8506967+00:00",
+      "NumProgressed": 11159,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2494,7 +2499,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "1019",
@@ -2502,7 +2507,7 @@
       "Name": "Winter is Coming",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "1020",
@@ -2510,7 +2515,7 @@
       "Name": "Growing Strong",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "1021",
@@ -2518,7 +2523,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "1022",
@@ -2526,7 +2531,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "1023",
@@ -2558,7 +2563,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "1027",
@@ -2598,7 +2603,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "1032",
@@ -2606,7 +2611,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4464
     },
     {
       "ID": "1033",
@@ -2622,7 +2627,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "1035",
@@ -2645,15 +2650,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11156,
+      "Progressed": 11159,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "LastChanged_Achievements": "2023-05-06T07:07:00.0279804+00:00",
+  "LastChanged_Achievements": "2023-05-06T08:07:55.8506868+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:01:26.3577861+00:00",
-  "LastUpdate_Achievements": "2023-05-06T07:07:00.0280056+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:02:22.4512331+00:00",
+  "LastUpdate_Achievements": "2023-05-06T08:07:55.8507577+00:00"
 }
