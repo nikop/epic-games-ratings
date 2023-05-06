@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,694 | 4.62 | 338 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,459 | 4.59 | 394 |
 | 11 | [VALORANT](games/v/valorant.md) | 51,297 | 4.54 | 477 |
-| 12 | [Destiny 2](games/d/destiny_2.md) | 33,534 | 4.50 | 531 |
+| 12 | [Destiny 2](games/d/destiny_2.md) | 33,560 | 4.50 | 531 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,696 | 4.74 | 142 |
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 29,398 | 4.59 | 394 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,428 | 4.65 | 290 |
@@ -141,7 +141,7 @@
 | 139 | [Torchlight II](games/t/torchlight_ii.md) | 969 | 4.58 | 413 |
 | 140 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 929 | 4.31 | 748 |
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 907 | 4.79 | 91 |
-| 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 858 | 4.69 | 213 |
+| 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 860 | 4.69 | 213 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 847 | 4.45 | 600 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 837 | 4.76 | 114 |
 | 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 837 | 4.55 | 466 |

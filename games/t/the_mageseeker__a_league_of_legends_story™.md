@@ -32,7 +32,7 @@ Rating: 4.76 (Ranked 114)
 | Glyndemere | 17.00% | ~321 |
 | Iffighain Headquarters | 17.00% | ~321 |
 | Full equipped | 16.00% | ~302 |
-| Whispers in the Woods II | 14.00% | ~265 |
+| Whispers in the Woods II | 15.00% | ~284 |
 | No more holding back | 13.00% | ~246 |
 | Terbisia | 13.00% | ~246 |
 | Quickmoore Headquarters | 13.00% | ~246 |

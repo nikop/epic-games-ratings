@@ -9,10 +9,10 @@
 | Into the Barn | 86.00% | ~316 |
 | A Prophecy | 84.00% | ~309 |
 | Sword, Shield, Fight! | 71.00% | ~261 |
-| A Grand Visit | 66.00% | ~243 |
+| A Grand Visit | 67.00% | ~247 |
 | Vibing | 60.00% | ~221 |
-| Fun Guy | 57.00% | ~210 |
-| Tragic Brave | 49.00% | ~180 |
+| Fun Guy | 58.00% | ~213 |
+| Tragic Brave | 50.00% | ~184 |
 | Awakened Spirits | 46.00% | ~169 |
 | Little Shop | 44.00% | ~162 |
 | Surprise! | 38.00% | ~140 |
@@ -23,11 +23,11 @@
 | Piece of Cake | 32.00% | ~118 |
 | Gooey Delight! | 32.00% | ~118 |
 | Teacups for Toppy | 32.00% | ~118 |
+| Nightmare Fuel | 30.00% | ~110 |
+| Take Heart | 30.00% | ~110 |
 | The Guardian | 30.00% | ~110 |
-| Nightmare Fuel | 29.00% | ~107 |
-| Take Heart | 29.00% | ~107 |
+| It's Pointy! | 29.00% | ~107 |
 | Frog Facts! | 28.00% | ~103 |
-| It's Pointy! | 28.00% | ~103 |
 | All That Glistens | 27.00% | ~99 |
 | Stronger! | 27.00% | ~99 |
 | Ancient Wisdom | 26.00% | ~96 |

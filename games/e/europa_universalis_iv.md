@@ -6,41 +6,41 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,724 |
-| That's a Grand Army | 8.00% | ~2,422 |
-| That is mine! | 8.00% | ~2,422 |
-| Victorious! | 8.00% | ~2,422 |
-| Brothers in Arms | 6.00% | ~1,816 |
-| That's a Grand Navy | 6.00% | ~1,816 |
-| Seriously?! | 6.00% | ~1,816 |
+| Until death do us apart | 9.00% | ~2,726 |
+| That's a Grand Army | 8.00% | ~2,423 |
+| That is mine! | 8.00% | ~2,423 |
+| Victorious! | 8.00% | ~2,423 |
+| Brothers in Arms | 6.00% | ~1,817 |
+| That's a Grand Navy | 6.00% | ~1,817 |
+| Seriously?! | 6.00% | ~1,817 |
 | For the Glory | 5.00% | ~1,514 |
-| Cold War | 4.00% | ~1,211 |
-| Defender of the Faith | 3.00% | ~908 |
-| It's all about the money | 3.00% | ~908 |
-| Respected | 3.00% | ~908 |
-| True Catholic | 3.00% | ~908 |
-| Blockader | 2.00% | ~605 |
-| Combined Arms | 2.00% | ~605 |
-| Double the Love | 2.00% | ~605 |
-| Gentle Persuasion | 2.00% | ~605 |
-| It's all about luck | 2.00% | ~605 |
-| Queen of Conquest | 2.00% | ~605 |
-| Royal Authority | 2.00% | ~605 |
-| The Princess is in this Castle | 2.00% | ~605 |
-| Total Control | 2.00% | ~605 |
-| Truly Divine Ruler | 2.00% | ~605 |
+| Cold War | 4.00% | ~1,212 |
+| Defender of the Faith | 3.00% | ~909 |
+| It's all about the money | 3.00% | ~909 |
+| Respected | 3.00% | ~909 |
+| True Catholic | 3.00% | ~909 |
+| Blockader | 2.00% | ~606 |
+| Combined Arms | 2.00% | ~606 |
+| Double the Love | 2.00% | ~606 |
+| Gentle Persuasion | 2.00% | ~606 |
+| It's all about luck | 2.00% | ~606 |
+| Queen of Conquest | 2.00% | ~606 |
+| Royal Authority | 2.00% | ~606 |
+| The Princess is in this Castle | 2.00% | ~606 |
+| Total Control | 2.00% | ~606 |
+| Truly Divine Ruler | 2.00% | ~606 |
 | Agressive Expander | 1.00% | ~303 |
 | Azur semé de lis or | 1.00% | ~303 |
 | Bright Spark | 1.00% | ~303 |
 | Factionalism | 1.00% | ~303 |
 | A Golden Empire | 1.00% | ~303 |
 | My armies are invincible! | 1.00% | ~303 |
-| All That's Thine Shall Be Mine | 0.90% | ~272 |
-| City of Cities | 0.90% | ~272 |
+| All That's Thine Shall Be Mine | 0.90% | ~273 |
+| City of Cities | 0.90% | ~273 |
 | Isn't this the way to India? | 0.70% | ~212 |
+| Market Control | 0.70% | ~212 |
 | The Five Colonies | 0.70% | ~212 |
 | The Emperors new clothes | 0.60% | ~182 |
-| Market Control | 0.60% | ~182 |
 | This navy can take it all | 0.60% | ~182 |
 | Down Under | 0.50% | ~151 |
 | Electable! | 0.50% | ~151 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,272 (Ranked 82)  
+Progressed: 30,290 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,10 +377,10 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,272 | 0 |
+| 2023-05-06 | 30,290 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
-Sum: 42,791 (Ranked 26)  
+Sum: 42,799 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -391,7 +391,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 4,859 |
 | This game is Relaxing | 4,816 |
 | This game has Competitive Players | 4,645 |
-| This game has Amazing Storytelling | 4,404 |
+| This game has Amazing Storytelling | 4,412 |
 | This game has Amazing Characters | 4,084 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -506,4 +506,4 @@ Diff (max vs sum): 34
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
-| 2023-05-06 | 4.68 | - | 5,181 | 42,791 |
+| 2023-05-06 | 4.68 | - | 5,181 | 42,799 |

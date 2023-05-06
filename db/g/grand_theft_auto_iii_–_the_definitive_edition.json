@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.16,
   "RatingHistory": [
     {
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4822,
+  "EOS_Progressed": 4824,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-05-06T05:06:20.4655455+00:00",
       "NumProgressed": 4822,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-06T07:06:25.8825464+00:00",
+      "NumProgressed": 4824,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -720,7 +725,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4004
     },
     {
       "ID": "ACH02",
@@ -728,7 +733,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH03",
@@ -744,7 +749,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH05",
@@ -766,9 +771,9 @@
       "ID": "ACH07",
       "SetID": "552d41m",
       "Name": "Planned Ahead",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH08",
@@ -840,7 +845,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACH17",
@@ -894,9 +899,9 @@
       "ID": "ACH23",
       "SetID": "552d41m",
       "Name": "Going Rogue",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH24",
@@ -904,7 +909,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH25",
@@ -951,7 +956,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4822,
+      "Progressed": 4824,
       "Completed": 25
     }
   ],
@@ -959,8 +964,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-06T06:06:57.3088934+00:00",
+  "LastChanged_Achievements": "2023-05-06T07:06:25.8825457+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:59:11.651266+00:00",
-  "LastUpdate_Achievements": "2023-05-06T06:06:57.3089118+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:59:27.5327477+00:00",
+  "LastUpdate_Achievements": "2023-05-06T07:06:25.8825715+00:00"
 }

@@ -542,9 +542,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3412,
+  "EOS_Progressed": 3413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -847,6 +847,11 @@
       "Time": "2023-05-06T01:58:20.167933+00:00",
       "NumProgressed": 3412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T07:06:55.8786348+00:00",
+      "NumProgressed": 3413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -866,7 +871,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -874,7 +879,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -882,7 +887,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -890,7 +895,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -898,7 +903,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -906,7 +911,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -914,7 +919,7 @@
       "Name": "Scaling up",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -978,7 +983,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -1026,7 +1031,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -1137,13 +1142,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3412,
+      "Progressed": 3413,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2784,
+      "Progressed": 2785,
       "Completed": 112
     }
   ],
@@ -1151,8 +1156,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
-  "LastChanged_Achievements": "2023-05-06T06:07:35.0957271+00:00",
+  "LastChanged_Achievements": "2023-05-06T07:06:55.8786343+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.1004222+00:00",
-  "LastUpdate_Ratings": "2023-05-06T06:01:29.955279+00:00",
-  "LastUpdate_Achievements": "2023-05-06T06:07:35.0957498+00:00"
+  "LastUpdate_Ratings": "2023-05-06T07:01:05.5659282+00:00",
+  "LastUpdate_Achievements": "2023-05-06T07:06:55.8786645+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 500)
 Number of Ratings: 635  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 148  (Ranked 284)  
-Sum: 891 (Ranked 235)  
+Sum: 892 (Ranked 235)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 128 |
 | This game has Challenging Combat | 116 |
 | This game is Extremely Fun | 116 |
-| This game has Amazing Storytelling | 110 |
+| This game has Amazing Storytelling | 111 |
 | This game has a Competitive Community | 28 |
 | This game has Realistic Visuals | 20 |
 ## Ratings History
@@ -135,4 +135,4 @@ Diff (max vs sum): 49
 | 2023-04-29 | 4.52 | - | 145 | 882 |
 | 2023-04-30 | 4.52 | - | 146 | 888 |
 | 2023-05-03 | 4.52 | - | 148 | 890 |
-| 2023-05-06 | 4.52 | - | 148 | 891 |
+| 2023-05-06 | 4.52 | - | 148 | 892 |

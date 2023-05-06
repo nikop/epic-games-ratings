@@ -229,7 +229,7 @@
 | 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 59 | 378 |
 | 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,481 | 113 |
 | 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 490 |
-| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 858 | 142 |
+| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 860 | 142 |
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 490 |
 | 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 490 |
 | 213 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 490 |
@@ -534,7 +534,7 @@
 | 531 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 252 |
 | 531 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
 | 531 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
-| 531 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,534 | 12 |
+| 531 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,560 | 12 |
 | 531 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
 | 531 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,291 | 95 |
 | 531 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |

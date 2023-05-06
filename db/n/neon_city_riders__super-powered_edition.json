@@ -4,7 +4,7 @@
   "ProductSlug": "neon-city-riders",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.4419417+00:00",
   "LastChanged": "2023-03-31T05:58:31.4419418+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:38.49737+00:00",
-  "LastUpdate_Ratings": "2023-05-06T06:01:07.148994+00:00",
-  "LastUpdate_Achievements": "2023-05-06T06:05:42.270883+00:00"
+  "LastUpdate_Ratings": "2023-05-06T07:00:48.6028772+00:00",
+  "LastUpdate_Achievements": "2023-05-06T07:05:29.3658459+00:00"
 }

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 368,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
@@ -418,9 +418,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "12",
@@ -482,9 +482,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 247
     },
     {
       "ID": "2",
@@ -506,9 +506,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "22",
@@ -706,9 +706,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "45",
@@ -778,17 +778,17 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "9",
@@ -811,8 +811,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-06T06:06:51.5855563+00:00",
+  "LastChanged_Achievements": "2023-05-06T07:06:21.355629+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:58:41.2303645+00:00",
-  "LastUpdate_Achievements": "2023-05-06T06:06:51.5855947+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:59:02.2431574+00:00",
+  "LastUpdate_Achievements": "2023-05-06T07:06:21.3556775+00:00"
 }

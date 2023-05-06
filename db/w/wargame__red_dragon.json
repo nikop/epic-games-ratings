@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.69,
   "NumberOfRatings": 2918,
@@ -2860,18 +2860,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 7898,
       "NumberOfAwardsMax": 858
+    },
+    {
+      "Time": "2023-05-06T06:59:13.6553662+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7903,
+      "NumberOfAwardsMax": 860
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7898,
-  "NumberOfAwardsMax": 858,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 7903,
+  "NumberOfAwardsMax": 860,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 822
+      "Count": 824
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2889,7 +2895,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 857
+      "Count": 860
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2951,8 +2957,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-05-06T03:58:54.5378331+00:00",
+  "LastChanged": "2023-05-06T06:59:13.655366+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.6264864+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:58:55.2974379+00:00",
-  "LastUpdate_Achievements": "2023-05-06T06:02:27.5813199+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:59:13.6553666+00:00",
+  "LastUpdate_Achievements": "2023-05-06T07:01:50.9698767+00:00"
 }

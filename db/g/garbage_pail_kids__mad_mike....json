@@ -4,7 +4,7 @@
   "ProductSlug": "garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum-1ba051",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.4240857+00:00",
   "LastChanged": "2023-03-31T05:57:46.4240858+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:10.8693248+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:59:06.77454+00:00",
-  "LastUpdate_Achievements": "2023-05-06T06:04:23.2826275+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:59:22.7970291+00:00",
+  "LastUpdate_Achievements": "2023-05-06T07:04:16.1706426+00:00"
 }
