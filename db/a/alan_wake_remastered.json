@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46028,
+  "EOS_Progressed": 46030,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1133,6 +1133,11 @@
       "Time": "2023-05-06T14:06:56.0994549+00:00",
       "NumProgressed": 46028,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-06T15:07:06.9255701+00:00",
+      "NumProgressed": 46030,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1144,7 +1149,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8745
+      "UsersEstimate": 8746
     },
     {
       "ID": "02",
@@ -1152,7 +1157,7 @@
       "Name": "Nordic Walking",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "03",
@@ -1160,7 +1165,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "04",
@@ -1264,7 +1269,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "17",
@@ -1326,9 +1331,9 @@
       "ID": "24",
       "SetID": "212770e",
       "Name": "It\u0027s Not Just a Typewriter Brand",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2762
+      "UsersEstimate": 3222
     },
     {
       "ID": "25",
@@ -1336,7 +1341,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "26",
@@ -1398,9 +1403,9 @@
       "ID": "33",
       "SetID": "212770e",
       "Name": "Missed by a Mile",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3682
     },
     {
       "ID": "34",
@@ -1416,7 +1421,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "36",
@@ -1456,7 +1461,7 @@
       "Name": "Right of Way",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "41",
@@ -1679,21 +1684,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46028,
+      "Progressed": 46030,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9496,
+      "Progressed": 9498,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:06:56.0994544+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:06.9255694+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:59:03.6463683+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:06:56.09954+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:59:25.4783484+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:06.9256501+00:00"
 }

@@ -29,17 +29,18 @@
 | Kokakoka | 31.00% | ~48 |
 | AKRE! | 31.00% | ~48 |
 | Blunga 20 | 11.00% | ~17 |
-| Blunga 25 | 5.00% | ~8 |
+| Blunga 25 | 6.00% | ~9 |
 | Blunga 30 | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 154 (Ranked 231)  
-Completed: 7 (4.55%) (Ranked 27)  
+Completed: 8 (5.19%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 152 | 7 |
 | 2023-04-29 | 153 | 7 |
 | 2023-04-30 | 154 | 7 |
+| 2023-05-06 | 154 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

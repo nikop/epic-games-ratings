@@ -7,13 +7,13 @@ Rating: 4.54 (Ranked 476)
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 0.30% | ~6 |
 | Wakey Wakey | 0.30% | ~6 |
+| A Thousand Strong | 0.30% | ~6 |
 | Exceeding Capacity | 0.30% | ~6 |
 | Ain't Nobody Got Time for That | 0.30% | ~6 |
 | Convenient Transport | 0.30% | ~6 |
 | The Ship of Theseus | 0.30% | ~6 |
 | Sputnik 2049 | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
-| A Thousand Strong | 0.20% | ~4 |
 | Power Outage | 0.20% | ~4 |
 | Fully Recycled | 0.20% | ~4 |
 | Ready for a New World | 0.20% | ~4 |
@@ -47,6 +47,7 @@ Rating: 4.54 (Ranked 476)
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | From the Past | 0.10% | ~2 |
+| What the Ruins Teach Us | 0.10% | ~2 |
 | Pulsar Disciple | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Tiqqun Contender | 0.00% | ~0 |
@@ -61,7 +62,6 @@ Rating: 4.54 (Ranked 476)
 | Crunch Culture | 0.00% | ~0 |
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
-| What the Ruins Teach Us | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,835 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 191)  

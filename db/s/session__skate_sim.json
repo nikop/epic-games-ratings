@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.66,
   "NumberOfRatings": 111,
   "RatingHistory": [
@@ -586,9 +586,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1935,
+  "EOS_Progressed": 1936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,6 +776,11 @@
       "Time": "2023-05-06T09:07:07.3633783+00:00",
       "NumProgressed": 1935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T15:06:57.8677506+00:00",
+      "NumProgressed": 1936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -915,7 +920,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_HOARDER",
@@ -1139,7 +1144,7 @@
       "Name": "Upfront shredder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -1163,22 +1168,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1935,
+      "Progressed": 1936,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-04T16:59:05.2986234+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:06:47.1392145+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:06:57.86775+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
-  "LastUpdate_Ratings": "2023-05-06T14:00:36.7695108+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:06:47.1392851+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:01:00.0875177+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:06:57.8677919+00:00"
 }

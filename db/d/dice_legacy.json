@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.29,
   "RatingHistory": [
     {
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -145,6 +145,11 @@
       "Time": "2023-05-06T12:06:13.9632198+00:00",
       "NumProgressed": 736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T15:06:52.1307019+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -226,7 +231,7 @@
       "ID": "CONTAINERS_FIVE_ONFIRE",
       "SetID": "6ohhfoc",
       "Name": "The great fire",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -515,7 +520,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 0
     }
   ],
@@ -523,8 +528,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:06:41.3818842+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:06:52.1307014+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:59:06.8093149+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:06:41.3819248+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:59:29.6089976+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:06:52.1307431+00:00"
 }

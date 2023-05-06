@@ -3,7 +3,7 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 867,
-  "Ranking_Popularity": 62,
+  "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 55,
@@ -3548,7 +3548,7 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86628,
+  "EOS_Progressed": 86635,
   "EOS_Completed": 1807,
   "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 22,
@@ -4827,6 +4827,11 @@
     {
       "Time": "2023-05-06T14:07:39.9246082+00:00",
       "NumProgressed": 86628,
+      "NumCompleted": 1807
+    },
+    {
+      "Time": "2023-05-06T15:07:50.5973411+00:00",
+      "NumProgressed": 86635,
       "NumCompleted": 1807
     }
   ],
@@ -6685,9 +6690,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_399",
@@ -8750,21 +8755,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52902,
+      "Progressed": 52909,
       "Completed": 2469
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86628,
+      "Progressed": 86635,
       "Completed": 1807
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-06T10:59:41.0625987+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:07:39.9246075+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:50.5973404+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:59:30.1141347+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:07:39.9273884+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:59:52.0632103+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:50.6005742+00:00"
 }

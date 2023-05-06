@@ -15,21 +15,21 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.61% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.60% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.56% |
-| 24 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
-| 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
-| 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
-| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
+| 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
+| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.19% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
+| 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
+| 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
-| 30 | [Ravenlok](games/r/ravenlok.md) | 4.07% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.27% |
+| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -97,7 +97,7 @@
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
 | 96 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
-| 97 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 98 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |

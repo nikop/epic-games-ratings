@@ -28,12 +28,12 @@
 | Mushroom Man | 2.00% | ~1 |
 | Nomad | 2.00% | ~1 |
 | Scrap Collector | 2.00% | ~1 |
+| Single Person On Earth | 2.00% | ~1 |
 | Ticking Clock | 2.00% | ~1 |
 | Total Walrus | 2.00% | ~1 |
 | True Victory | 2.00% | ~1 |
+| Victory That Is Even More True | 2.00% | ~1 |
 | Untouchable | 2.00% | ~1 |
-| Single Person On Earth | 0.00% | ~0 |
-| Victory That Is Even More True | 0.00% | ~0 |
 | What Even Are You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 277)  

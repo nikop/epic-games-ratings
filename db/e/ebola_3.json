@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:00:42.6973794+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -533,6 +533,11 @@
       "Time": "2023-05-06T12:07:02.2297667+00:00",
       "NumProgressed": 135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T15:07:49.0052738+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -568,7 +573,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achBett",
@@ -606,9 +611,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achCity",
@@ -744,7 +749,7 @@
       "Name": "Fright \u2714",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "achLizun",
@@ -896,7 +901,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achVip",
@@ -943,7 +948,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 0
     }
   ],
@@ -951,8 +956,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:07:39.047474+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:49.0052733+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-06T14:01:49.4095413+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:07:39.0475569+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:02:16.3052949+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:49.0053329+00:00"
 }

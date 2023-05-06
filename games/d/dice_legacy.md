@@ -21,8 +21,8 @@ Rating: 4.29 (Ranked 759)
 | The Penitent Ones | 2.00% | ~15 |
 | The Stranded King | 2.00% | ~15 |
 | Prophecy Fulfilled | 2.00% | ~15 |
-| The great fire | 1.00% | ~7 |
 | The Greedy Ones | 1.00% | ~7 |
+| The great fire | 0.90% | ~7 |
 | The First King | 0.80% | ~6 |
 | The Unruly Ones | 0.80% | ~6 |
 | The Council | 0.70% | ~5 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 759)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 170)  
+Progressed: 737 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 732 | 0 |
 | 2023-05-04 | 734 | 0 |
 | 2023-05-05 | 735 | 0 |
-| 2023-05-06 | 736 | 0 |
+| 2023-05-06 | 737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

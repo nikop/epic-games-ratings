@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Rating": 4.77,
   "NumberOfRatings": 209,
   "RatingHistory": [
@@ -521,9 +521,9 @@
       "ID": "BoomerAxe",
       "SetID": "5lok9mm",
       "Name": "Boomeraxe",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1733
     },
     {
       "ID": "BossBeaten",
@@ -889,8 +889,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:07:35.628981+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:45.9634243+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.8237999+00:00",
-  "LastUpdate_Ratings": "2023-05-06T14:01:38.8329464+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:07:35.6290228+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:02:03.9997438+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:45.9634737+00:00"
 }

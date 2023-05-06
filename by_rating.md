@@ -79,7 +79,7 @@
 | 72 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 490 |
 | 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 336 | 211 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,253 | 50 |
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 280 |
+| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 281 |
 | 78 | [Journey](games/j/journey.md) | 4.80 | 0 | 490 |
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,347 | 94 |
 | 78 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 490 |
@@ -102,7 +102,7 @@
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 490 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,714 | 65 |
 | 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,855 | 37 |
-| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,620 | 88 |
+| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,645 | 88 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,430 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,953 | 74 |
 | 103 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 490 |
@@ -114,7 +114,7 @@
 | 103 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 490 |
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 454 |
 | 114 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 490 |
-| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,098 | 23 |
+| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,107 | 23 |
 | 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 339 |
 | 114 | [Dead Space](games/d/dead_space.md) | 4.76 | 40 | 409 |
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 837 | 144 |
@@ -128,7 +128,7 @@
 | 114 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.76 | 0 | 490 |
 | 114 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 324 | 214 |
 | 128 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 466 |
-| 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,859 | 63 |
+| 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,866 | 62 |
 | 128 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,171 | 83 |
 | 128 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 233 |
 | 128 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 40 | 409 |
@@ -226,7 +226,7 @@
 | 212 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 490 |
 | 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 490 |
 | 212 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 59 | 378 |
-| 212 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,481 | 113 |
+| 212 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,485 | 113 |
 | 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 490 |
 | 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 860 | 142 |
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 490 |
@@ -388,7 +388,7 @@
 | 377 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
 | 377 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 490 |
 | 377 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 440 | 189 |
-| 377 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 156 | 281 |
+| 377 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 159 | 280 |
 | 377 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 482 |
 | 377 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 490 |
 | 377 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 341 |
@@ -419,7 +419,7 @@
 | 412 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 22 | 473 |
 | 412 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 0 | 490 |
 | 412 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,470 | 114 |
-| 412 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 203 | 255 |
+| 412 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 204 | 254 |
 | 412 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 385 |
 | 412 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 179 | 266 |
 | 412 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 1,732 | 109 |
@@ -590,7 +590,7 @@
 | 575 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 490 |
 | 575 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 0 | 490 |
 | 575 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 490 |
-| 591 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,256 | 81 |
+| 591 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,260 | 81 |
 | 591 | [Duskers](games/d/duskers.md) | 4.46 | 0 | 490 |
 | 591 | [Figment](games/f/figment.md) | 4.46 | 20 | 482 |
 | 591 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 313 |
@@ -866,7 +866,7 @@
 | 863 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 266 |
 | 863 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 490 |
 | 863 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 490 |
-| 867 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,865 | 62 |
+| 867 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,865 | 63 |
 | 867 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 393 | 201 |
 | 869 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 490 |
 | 869 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 490 |

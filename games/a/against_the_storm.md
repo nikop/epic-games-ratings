@@ -39,6 +39,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
 | Into the Forest | 0.30% | ~44 |
+| Efficient Explorer | 0.20% | ~29 |
 | Ruined Armory | 0.20% | ~29 |
 | Fishmen Ritual Site | 0.20% | ~29 |
 | Forbidden Lands | 0.20% | ~29 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Harpy Utopia | 0.10% | ~15 |
 | Human Utopia | 0.10% | ~15 |
 | Lizard Utopia | 0.10% | ~15 |
-| Efficient Explorer | 0.10% | ~15 |
 | Prestigious Expedition | 0.10% | ~15 |
 | The Queen's Chosen | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |

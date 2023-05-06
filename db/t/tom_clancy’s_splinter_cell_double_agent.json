@@ -4,8 +4,8 @@
   "ProductSlug": "splinter-cell-double-agent",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:32.5518343+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.5518339+00:00",
   "LastChanged": "2023-03-31T05:57:32.5518341+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:58.6875782+00:00",
-  "LastUpdate_Ratings": "2023-05-06T14:00:17.2877546+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:05:15.9483838+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:00:38.6061012+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:05:26.1047879+00:00"
 }

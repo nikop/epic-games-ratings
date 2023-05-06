@@ -13,9 +13,9 @@ Number of Ratings: 25  (23.09.2022)
 | Devout | 89.00% | ~488 |
 | The Love Martyr | 87.00% | ~477 |
 | Frugal | 85.00% | ~466 |
-| Dilligent | 82.00% | ~449 |
+| Dilligent | 83.00% | ~455 |
 | I... I did it? | 80.00% | ~438 |
-| Adored | 75.00% | ~411 |
+| Adored | 76.00% | ~416 |
 | The Hobbyist | 64.00% | ~351 |
 | A Forked Tongue | 54.00% | ~296 |
 | Between Two Fires | 51.00% | ~279 |

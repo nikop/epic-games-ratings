@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:59.5373101+00:00",
@@ -102,9 +102,9 @@
       "ID": "CLG_LEVEL_KILLSTREAK",
       "SetID": "89cjc9l",
       "Name": "Kill-streak",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -142,9 +142,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -246,9 +246,9 @@
       "ID": "PRG_BOSS_BIRD",
       "SetID": "89cjc9l",
       "Name": "The Bird",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -318,9 +318,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -342,9 +342,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -655,8 +655,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:07:08.9643605+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:19.2409525+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.4511908+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:58:56.0068682+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:07:08.9644582+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:59:18.1853237+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:19.241043+00:00"
 }

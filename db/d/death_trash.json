@@ -4,8 +4,8 @@
   "ProductSlug": "death-trash",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:35.7401241+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.7401238+00:00",
   "LastChanged": "2023-03-31T05:58:35.7401239+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:23.5192533+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:59:33.9333922+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:04:16.7394623+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:59:55.8790152+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:04:16.6905517+00:00"
 }

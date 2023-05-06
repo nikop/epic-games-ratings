@@ -4,8 +4,8 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:37.2122871+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -43,6 +43,11 @@
       "Time": "2023-05-05T04:05:57.5026901+00:00",
       "NumProgressed": 36,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-06T15:07:05.2229082+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -52,9 +57,9 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
@@ -76,7 +81,7 @@
       "ID": "ACH_100_STAGES_ENDLESS",
       "SetID": "aio76gp",
       "Name": "Demolition Exhibition",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -84,7 +89,7 @@
       "ID": "ACH_10_ROCKETS_KICKED",
       "SetID": "aio76gp",
       "Name": "Rocket Science",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -92,7 +97,7 @@
       "ID": "ACH_10_SHEPHERDS_KILLED",
       "SetID": "aio76gp",
       "Name": "Test of Faith",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -108,7 +113,7 @@
       "ID": "ACH_20000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Holy Terror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -116,15 +121,15 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
       "SetID": "aio76gp",
       "Name": "Midair Affair",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -132,7 +137,7 @@
       "ID": "ACH_25_BLIMPS",
       "SetID": "aio76gp",
       "Name": "Hindenburgerer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -140,7 +145,7 @@
       "ID": "ACH_25_EATEN_AIRBORNE",
       "SetID": "aio76gp",
       "Name": "Meat Catcher",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -156,7 +161,7 @@
       "ID": "ACH_40_STAGES_ENDLESS",
       "SetID": "aio76gp",
       "Name": "Demolition Tactician",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -164,7 +169,7 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -172,7 +177,7 @@
       "ID": "ACH_50_CATCHES",
       "SetID": "aio76gp",
       "Name": "Hot Potato",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -180,7 +185,7 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -188,7 +193,7 @@
       "ID": "ACH_50_MILITARY_CARS",
       "SetID": "aio76gp",
       "Name": "Oblideration Nation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -196,7 +201,7 @@
       "ID": "ACH_50_MILITARY_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Plight of the Valkyrie",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -220,7 +225,7 @@
       "ID": "ACH_50_SWAT_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "SWATing Flies",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -228,7 +233,7 @@
       "ID": "ACH_50_SWAT_VANS",
       "SetID": "aio76gp",
       "Name": "Shakedown Breakdown",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -236,7 +241,7 @@
       "ID": "ACH_JUGGLE_10",
       "SetID": "aio76gp",
       "Name": "Juggle the People",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -260,7 +265,7 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -268,7 +273,7 @@
       "ID": "ACH_STORY_MODE",
       "SetID": "aio76gp",
       "Name": "Trash the Planet.",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_TANK_STAGE",
       "SetID": "aio76gp",
       "Name": "Simulation 8e7d28c1",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -284,7 +289,7 @@
       "ID": "ACH_UFO_STAGE",
       "SetID": "aio76gp",
       "Name": "Kill All Humans!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     }
@@ -293,7 +298,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 2
     }
   ],
@@ -301,8 +306,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:06:54.3288829+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:05.2229072+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:39.3649193+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:59:53.3170248+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:06:54.3289056+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:00:14.3439375+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:05.2229337+00:00"
 }

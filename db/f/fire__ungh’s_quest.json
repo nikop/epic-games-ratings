@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 50,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:24.8540331+00:00",
@@ -19,10 +19,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 154,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -38,6 +38,11 @@
       "Time": "2023-04-30T08:05:44.358238+00:00",
       "NumProgressed": 154,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-06T15:07:38.525989+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 27,
@@ -87,9 +92,9 @@
       "ID": "25_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 25",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "30_Coins",
@@ -265,15 +270,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 154,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-06T14:07:28.7008151+00:00",
+  "LastChanged_Achievements": "2023-05-06T15:07:38.525988+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.7186203+00:00",
-  "LastUpdate_Ratings": "2023-05-06T14:01:23.6568547+00:00",
-  "LastUpdate_Achievements": "2023-05-06T14:07:28.7008335+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:01:48.5323314+00:00",
+  "LastUpdate_Achievements": "2023-05-06T15:07:38.5260099+00:00"
 }

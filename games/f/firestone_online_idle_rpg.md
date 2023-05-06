@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~810 |
 | World Map | 79.00% | ~688 |
-| Temple of Eternals | 54.00% | ~470 |
+| Temple of Eternals | 55.00% | ~479 |
 | Prestigious | 51.00% | ~444 |
-| Fellowship Power | 38.00% | ~331 |
+| Fellowship Power | 39.00% | ~340 |
 | Guild Power | 23.00% | ~200 |
 | Prestigious x10 | 18.00% | ~157 |
 | The game is on | 14.00% | ~122 |
