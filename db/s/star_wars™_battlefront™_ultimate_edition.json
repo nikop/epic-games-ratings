@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:18.6314737+00:00",
-  "LastUpdate_Ratings": "2023-05-06T04:59:26.0137869+00:00",
-  "LastUpdate_Achievements": "2023-05-06T05:02:19.0076576+00:00"
+  "LastUpdate_Ratings": "2023-05-06T05:59:16.7936651+00:00",
+  "LastUpdate_Achievements": "2023-05-06T06:04:05.9284338+00:00"
 }

@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1514561,
+  "EOS_Progressed": 1514564,
   "EOS_Completed": 597,
-  "EOS_NewPlayers": 1509,
+  "EOS_NewPlayers": 1506,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1690,6 +1690,11 @@
       "Time": "2023-05-06T05:06:53.4845662+00:00",
       "NumProgressed": 1514561,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-06T06:07:38.6139086+00:00",
+      "NumProgressed": 1514564,
+      "NumCompleted": 597
     }
   ],
   "TotalAchievements": 20,
@@ -1749,7 +1754,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136310
+      "UsersEstimate": 136311
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -1821,7 +1826,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12116
+      "UsersEstimate": 12117
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -1860,15 +1865,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1514561,
+      "Progressed": 1514564,
       "Completed": 597
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-01T21:59:29.8330275+00:00",
-  "LastChanged_Achievements": "2023-05-06T05:06:53.4845657+00:00",
+  "LastChanged_Achievements": "2023-05-06T06:07:38.6139081+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:01:10.2763003+00:00",
-  "LastUpdate_Achievements": "2023-05-06T05:06:53.4846023+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:01:46.7512064+00:00",
+  "LastUpdate_Achievements": "2023-05-06T06:07:38.6139264+00:00"
 }

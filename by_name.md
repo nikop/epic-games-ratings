@@ -211,7 +211,7 @@
 | [Basingstoke](games/b/basingstoke.md) | - | - | 0 | - |
 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 721 | 0 | 490 |
 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 255 | 643 | 161 |
-| [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 91 | 1,437 | 115 |
+| [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 91 | 1,439 | 115 |
 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 60 | 5,470 | 58 |
 | [Batman: Arkham Collection](games/b/batman__arkham_collection.md) | - | - | - | - |
 | [Battalion](games/b/battalion.md) | - | - | - | - |
@@ -670,7 +670,7 @@
 | [Encased](games/e/encased.md) | 4.35 | 713 | 125 | 297 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | - | - | - | - |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | - | - | 0 | - |
-| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 37 | 7,516 | 41 |
+| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 37 | 7,519 | 41 |
 | [Epic Games store](games/e/epic_games_store.md) | - | - | - | - |
 | [Epic Wallet](games/e/epic_wallet.md) | - | - | - | - |
 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 564 | 0 | 490 |
@@ -692,7 +692,7 @@
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | - | - | - | - |
 | [Everything](games/e/everything.md) | 4.58 | 413 | 0 | 490 |
 | [Everything is going to be OK](games/e/everything_is_going_to_be_ok.md) | - | - | 0 | - |
-| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 696 | 12,330 | 27 |
+| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 696 | 12,335 | 27 |
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 7 | 0 | 490 |
 | [Eville](games/e/eville.md) | - | - | - | - |
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 549 | 271 | 231 |
@@ -756,7 +756,7 @@
 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | - | - | 0 | - |
 | [Filament](games/f/filament.md) | 4.32 | 738 | 551 | 171 |
 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | - | - | 0 | - |
-| [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,455 | 59 |
+| [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,456 | 59 |
 | [Fire Commander](games/f/fire_commander.md) | - | - | 0 | - |
 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | - | - | 0 | - |
 | [Fireburst](games/f/fireburst.md) | - | - | 0 | - |
@@ -1068,8 +1068,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 429 | 36 | 421 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 338 | 531 | 177 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 142 | 584 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 753 | 3,590 | 78 |
@@ -1189,8 +1189,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 721 | 0 | 490 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 352 | 0 | 490 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1819,7 +1819,7 @@
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.48 | 564 | 0 | 490 |
 | [Smart Thief](games/s/smart_thief.md) | - | - | - | - |
 | [Smelter](games/s/smelter.md) | - | - | 0 | - |
-| [SMITE](games/s/smite.md) | 4.45 | 600 | 3,718 | 77 |
+| [SMITE](games/s/smite.md) | 4.45 | 600 | 3,723 | 77 |
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.44 | 621 | 0 | 490 |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 114 | 7,880 | 39 |
@@ -2279,8 +2279,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 621 | 0 | 490 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 255 | 0 | 490 |

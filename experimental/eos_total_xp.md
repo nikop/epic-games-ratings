@@ -310,6 +310,7 @@
 | [Showgunners](../games/s/showgunners.md) | 46 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |
+| [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |
 | [Skul: The Hero Slayer](../games/s/skul__the_hero_slayer.md) | 24 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |

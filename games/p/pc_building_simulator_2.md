@@ -6,16 +6,16 @@ Rating: 4.61 (Ranked 352)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,648 |
-| Shine On | 70.00% | ~110,738 |
-| On the Job | 69.00% | ~109,156 |
-| Get Stuck In | 68.00% | ~107,574 |
-| Room for Expansion | 68.00% | ~107,574 |
-| Sales Pitch | 65.00% | ~102,828 |
-| Chill Out | 65.00% | ~102,828 |
-| Tinker | 61.00% | ~96,500 |
-| Grand Designs | 60.00% | ~94,918 |
-| Hot Stuff | 59.00% | ~93,336 |
-| MOAR RGB | 54.00% | ~85,426 |
+| Shine On | 70.00% | ~110,739 |
+| On the Job | 69.00% | ~109,157 |
+| Get Stuck In | 68.00% | ~107,575 |
+| Room for Expansion | 68.00% | ~107,575 |
+| Sales Pitch | 65.00% | ~102,829 |
+| Chill Out | 65.00% | ~102,829 |
+| Tinker | 61.00% | ~96,501 |
+| Grand Designs | 60.00% | ~94,919 |
+| Hot Stuff | 59.00% | ~93,337 |
+| MOAR RGB | 54.00% | ~85,427 |
 | Dream Theme | 46.00% | ~72,771 |
 | The Customer is King | 45.00% | ~71,189 |
 | Working Hard | 44.00% | ~69,607 |
@@ -31,19 +31,19 @@ Rating: 4.61 (Ranked 352)
 | Local Hero | 28.00% | ~44,295 |
 | Broken to Smokin' | 26.00% | ~41,131 |
 | Workaholic | 26.00% | ~41,131 |
-| Thanks Jeff | 25.00% | ~39,549 |
-| Cinematic | 24.00% | ~37,967 |
-| Bench Warmer | 24.00% | ~37,967 |
-| Gift of the Gab | 24.00% | ~37,967 |
-| Salvage Squad | 24.00% | ~37,967 |
-| On the Ladder | 23.00% | ~36,385 |
-| Stick With It | 23.00% | ~36,385 |
-| Variations on a Theme | 22.00% | ~34,803 |
-| Cowboy | 22.00% | ~34,803 |
-| Slap Happy | 21.00% | ~33,221 |
-| Supercool | 19.00% | ~30,057 |
-| Stabiliser | 18.00% | ~28,475 |
-| This One Goes to 11 | 18.00% | ~28,475 |
+| Thanks Jeff | 25.00% | ~39,550 |
+| Cinematic | 24.00% | ~37,968 |
+| Bench Warmer | 24.00% | ~37,968 |
+| Gift of the Gab | 24.00% | ~37,968 |
+| Salvage Squad | 24.00% | ~37,968 |
+| On the Ladder | 23.00% | ~36,386 |
+| Stick With It | 23.00% | ~36,386 |
+| Variations on a Theme | 22.00% | ~34,804 |
+| Cowboy | 22.00% | ~34,804 |
+| Slap Happy | 21.00% | ~33,222 |
+| Supercool | 19.00% | ~30,058 |
+| Stabiliser | 18.00% | ~28,476 |
+| This One Goes to 11 | 18.00% | ~28,476 |
 | Going Places | 15.00% | ~23,730 |
 | Forgetful Shopper | 14.00% | ~22,148 |
 | Showpiece | 13.00% | ~20,566 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,197 (Ranked 51)  
+Progressed: 158,198 (Ranked 51)  
 Completed: 102 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 102 (0.06%) (Ranked 161)
 | 2023-05-03 | 158,160 | 102 |
 | 2023-05-04 | 158,178 | 102 |
 | 2023-05-05 | 158,194 | 102 |
-| 2023-05-06 | 158,197 | 102 |
+| 2023-05-06 | 158,198 | 102 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 164)  
 Sum: 4,517 (Ranked 127)  

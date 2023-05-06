@@ -26,7 +26,7 @@
 | 24 | [Maneater](games/m/maneater.md) | 13,430 | 4.49 | 549 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,233 | 4.60 | 378 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,929 | 4.21 | 799 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,330 | 4.37 | 696 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,335 | 4.37 | 696 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,878 | 4.41 | 651 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,694 | 4.60 | 378 |
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,648 | 4.39 | 680 |
@@ -40,7 +40,7 @@
 | 38 | [Control](games/c/control.md) | 8,259 | 4.60 | 378 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,880 | 4.76 | 114 |
 | 40 | [Supraland](games/s/supraland.md) | 7,604 | 4.61 | 352 |
-| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,516 | 4.85 | 37 |
+| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,519 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,240 | 4.57 | 429 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,137 | 4.71 | 178 |
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,898 | 4.89 | 12 |
@@ -58,7 +58,7 @@
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,761 | 4.66 | 272 |
 | 57 | [Prey](games/p/prey.md) | 5,530 | 4.62 | 338 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,470 | 4.82 | 60 |
-| 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,455 | 4.85 | 37 |
+| 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,456 | 4.85 | 37 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,181 | 4.68 | 235 |
 | 61 | [Rogue Company](games/r/rogue_company.md) | 4,874 | 4.34 | 721 |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,865 | 4.06 | 867 |
@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,948 | 4.77 | 103 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,822 | 4.56 | 447 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,741 | 4.69 | 213 |
-| 77 | [SMITE](games/s/smite.md) | 3,718 | 4.45 | 600 |
+| 77 | [SMITE](games/s/smite.md) | 3,723 | 4.45 | 600 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,590 | 4.30 | 753 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,437 | 4.47 | 575 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 235 |
@@ -114,7 +114,7 @@
 | 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,564 | 4.51 | 514 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,481 | 4.69 | 213 |
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,470 | 4.58 | 413 |
-| 115 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,437 | 4.79 | 91 |
+| 115 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,439 | 4.79 | 91 |
 | 116 | [Celeste](games/c/celeste.md) | 1,435 | 4.92 | 3 |
 | 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,372 | 4.87 | 24 |
 | 118 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,295 | 4.70 | 192 |

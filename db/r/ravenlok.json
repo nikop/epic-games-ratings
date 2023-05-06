@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 17,
   "RatingHistory": [
     {
@@ -482,9 +482,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 243
     },
     {
       "ID": "2",
@@ -578,9 +578,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 221
     },
     {
       "ID": "30",
@@ -594,9 +594,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "32",
@@ -610,9 +610,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "34",
@@ -811,8 +811,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-06T05:06:15.8670098+00:00",
+  "LastChanged_Achievements": "2023-05-06T06:06:51.5855563+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-06T04:58:59.6107441+00:00",
-  "LastUpdate_Achievements": "2023-05-06T05:06:15.8670885+00:00"
+  "LastUpdate_Ratings": "2023-05-06T05:58:41.2303645+00:00",
+  "LastUpdate_Achievements": "2023-05-06T06:06:51.5855947+00:00"
 }

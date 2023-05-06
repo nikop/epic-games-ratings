@@ -22,6 +22,7 @@
 | [Defense Grid: The Awakening](../games/d/defense_grid__the_awakening.md) | 87 | 1,000 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
+| [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |
 | [City of Gangsters](../games/c/city_of_gangsters.md) | 80 | 1,000 |
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
 | [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |

@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11150,
+  "EOS_Progressed": 11152,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2449,6 +2449,11 @@
       "Time": "2023-05-06T05:06:54.6496521+00:00",
       "NumProgressed": 11150,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-06T06:07:40.1317751+00:00",
+      "NumProgressed": 11152,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2564,7 +2569,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "1029",
@@ -2588,7 +2593,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "1032",
@@ -2596,7 +2601,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "1033",
@@ -2604,7 +2609,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "1034",
@@ -2635,15 +2640,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11150,
+      "Progressed": 11152,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "LastChanged_Achievements": "2023-05-06T05:06:54.6496514+00:00",
+  "LastChanged_Achievements": "2023-05-06T06:07:40.1317745+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:01:16.0336505+00:00",
-  "LastUpdate_Achievements": "2023-05-06T05:06:54.649692+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:01:54.9523414+00:00",
+  "LastUpdate_Achievements": "2023-05-06T06:07:40.1317913+00:00"
 }

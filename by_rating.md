@@ -37,8 +37,8 @@
 | 27 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,210 | 122 |
 | 27 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 458 | 186 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 414 |
-| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,516 | 41 |
-| 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,455 | 59 |
+| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,519 | 41 |
+| 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,456 | 59 |
 | 37 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 307 | 222 |
 | 37 | [Grindstone](games/g/grindstone.md) | 4.85 | 0 | 490 |
 | 37 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 490 |
@@ -90,7 +90,7 @@
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 490 |
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 460 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 490 |
-| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,437 | 115 |
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,439 | 115 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 493 | 184 |
 | 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 717 | 153 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,235 | 97 |
@@ -614,7 +614,7 @@
 | 600 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 490 |
 | 600 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 847 | 143 |
 | 600 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 490 |
-| 600 | [SMITE](games/s/smite.md) | 4.45 | 3,718 | 77 |
+| 600 | [SMITE](games/s/smite.md) | 4.45 | 3,723 | 77 |
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 523 | 178 |
 | 600 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 418 |
 | 600 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 310 |
@@ -697,7 +697,7 @@
 | 687 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
 | 696 | [Core](games/c/core.md) | 4.37 | 727 | 152 |
 | 696 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
-| 696 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,330 | 27 |
+| 696 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,335 | 27 |
 | 696 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
 | 696 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 490 |
 | 696 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 394 |

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~801 |
-| World Map | 80.00% | ~689 |
-| Temple of Eternals | 54.00% | ~465 |
-| Prestigious | 51.00% | ~439 |
-| Fellowship Power | 39.00% | ~336 |
-| Guild Power | 22.00% | ~189 |
+| Victor | 93.00% | ~803 |
+| World Map | 80.00% | ~690 |
+| Temple of Eternals | 55.00% | ~475 |
+| Prestigious | 51.00% | ~440 |
+| Fellowship Power | 38.00% | ~328 |
+| Guild Power | 22.00% | ~190 |
 | Prestigious x10 | 18.00% | ~155 |
+| Exotic Merchant | 14.00% | ~121 |
 | The game is on | 14.00% | ~121 |
-| Exotic Merchant | 13.00% | ~112 |
 | Inspection | 13.00% | ~112 |
-| Dragon Clicker | 12.00% | ~103 |
-| Miner Clicker | 12.00% | ~103 |
+| Dragon Clicker | 12.00% | ~104 |
+| Miner Clicker | 12.00% | ~104 |
 | Hero inspection | 11.00% | ~95 |
-| Full Party | 9.00% | ~77 |
+| Full Party | 9.00% | ~78 |
 | Enlightenment | 7.00% | ~60 |
 | Dragon Master | 6.00% | ~52 |
 | Lieutenant | 6.00% | ~52 |
 | Natural Talent | 5.00% | ~43 |
 | The Unstoppable | 5.00% | ~43 |
-| Milestone collector | 4.00% | ~34 |
-| Superior | 4.00% | ~34 |
+| Milestone collector | 4.00% | ~35 |
+| Superior | 4.00% | ~35 |
 | Daily Quest Completionist | 3.00% | ~26 |
 | Scientist | 3.00% | ~26 |
 | Background Story | 2.00% | ~17 |
@@ -32,6 +32,7 @@
 | Hunter | 2.00% | ~17 |
 | Mastery | 2.00% | ~17 |
 | Moving Up The Ladder | 2.00% | ~17 |
+| Scroll Master | 2.00% | ~17 |
 | Active Member | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
@@ -40,7 +41,6 @@
 | Missions Dedication | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
-| Scroll Master | 1.00% | ~9 |
 | The Expeditioner | 1.00% | ~9 |
 | The power of Awakening | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 861 (Ranked 165)  
+Progressed: 863 (Ranked 165)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
-| 2023-05-06 | 861 | 1 |
+| 2023-05-06 | 863 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

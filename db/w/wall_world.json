@@ -4,7 +4,7 @@
   "ProductSlug": "wall-world-02e132",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-04-06T01:56:16.0671254+00:00",
   "LastChanged": "2023-04-06T01:56:16.0671254+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:40.3347803+00:00",
-  "LastUpdate_Ratings": "2023-05-06T05:00:43.3247355+00:00",
-  "LastUpdate_Achievements": "2023-05-06T05:05:27.1662026+00:00"
+  "LastUpdate_Ratings": "2023-05-06T06:01:09.3195342+00:00",
+  "LastUpdate_Achievements": "2023-05-06T06:05:45.0758679+00:00"
 }
