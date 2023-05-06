@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 351)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,208 (Ranked 51)  
+Progressed: 158,208 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 102 (0.06%) (Ranked 162)
 | 2023-05-06 | 158,208 | 102 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 164)  
-Sum: 4,518 (Ranked 127)  
+Sum: 4,519 (Ranked 127)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): 37
 | This game is Educational | 574 |
 | This game is Relaxing | 573 |
 | This game is Extremely Fun | 543 |
-| This game has Quickly Understood Controls | 534 |
+| This game has Quickly Understood Controls | 535 |
 | This game is Highly Recommended | 509 |
 | This game has Amazing Storytelling | 470 |
 | This game has a Creative Community | 382 |
@@ -149,4 +149,4 @@ Diff (max vs sum): 37
 | 2023-05-02 | 4.61 | 592 | 4,506 |
 | 2023-05-03 | 4.61 | 592 | 4,513 |
 | 2023-05-05 | 4.61 | 595 | 4,517 |
-| 2023-05-06 | 4.61 | 595 | 4,518 |
+| 2023-05-06 | 4.61 | 595 | 4,519 |

@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~260 |
 | Terror in the Dark | 0.30% | ~260 |
+| Unearthed Evil | 0.30% | ~260 |
 | The Crumbling Temple | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
@@ -47,7 +48,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.20% | ~173 |
 | March of the Undead | 0.20% | ~173 |
 | Wisdom Check | 0.20% | ~173 |
-| Unearthed Evil | 0.20% | ~173 |
 | No Time To Rest | 0.20% | ~173 |
 | Invisible Shadows | 0.20% | ~173 |
 | The Dinner Party | 0.20% | ~173 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,660 (Ranked 59)  
+Progressed: 86,670 (Ranked 59)  
 Completed: 1,808 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,808 (2.09%) (Ranked 56)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,660 | 1,808 |
+| 2023-05-06 | 86,670 | 1,808 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

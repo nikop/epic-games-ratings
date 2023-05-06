@@ -4,7 +4,7 @@
   "ProductSlug": "jydge-14242d",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -130,9 +130,9 @@
       "ID": "DIFFICULTY_HARDCORE",
       "SetID": "7e5mm2p",
       "Name": "Hardcore Law",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DIFFICULTY_NIGHTMARE",
@@ -211,8 +211,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:22.9613438+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:24.1038653+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:37.9390167+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:58:40.9180642+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:22.9613551+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:58:39.3360127+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:24.1038757+00:00"
 }

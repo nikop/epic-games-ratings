@@ -1,50 +1,50 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.57 (Ranked 428)  
+Rating: 4.56 (Ranked 446)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~716,814 |
-| I Need a Bigger Garage | 61.00% | ~491,299 |
-| Pump my Ride | 45.00% | ~362,434 |
-| Ghostbuster | 29.00% | ~233,569 |
-| Call Roadside Assistance | 17.00% | ~136,920 |
-| That Was Close | 17.00% | ~136,920 |
-| Quickie | 10.00% | ~80,541 |
-| California Dreamer | 7.00% | ~56,379 |
-| Can't Touch This | 4.00% | ~32,216 |
-| Carménère Taster | 3.00% | ~24,162 |
-| Comeback | 3.00% | ~24,162 |
-| Marathonist | 3.00% | ~24,162 |
-| Living Legend | 3.00% | ~24,162 |
-| Driver from Ipanema | 2.00% | ~16,108 |
-| Pathfinder | 2.00% | ~16,108 |
-| Go-Kart Champion | 2.00% | ~16,108 |
-| Completionist | 2.00% | ~16,108 |
-| Supersonic | 2.00% | ~16,108 |
-| Harder, Better, Faster, Stronger | 2.00% | ~16,108 |
-| God of Roads | 1.00% | ~8,054 |
-| The Iceman | 1.00% | ~8,054 |
-| Oil Tycoon | 1.00% | ~8,054 |
-| Round the Globe | 1.00% | ~8,054 |
-| Golden Passport | 1.00% | ~8,054 |
-| Brave and Bold | 1.00% | ~8,054 |
-| Crocodile Hunter | 0.80% | ~6,443 |
-| Old Master | 0.80% | ~6,443 |
-| Bollywood Star | 0.80% | ~6,443 |
-| Volcano Surfer | 0.70% | ~5,638 |
-| Otaku | 0.70% | ~5,638 |
-| Survivor | 0.50% | ~4,027 |
-| King of the World | 0.50% | ~4,027 |
-| Getting Famous | 0.40% | ~3,222 |
-| Master of the Racetrack | 0.20% | ~1,611 |
-| Now Go Play Outside | 0.20% | ~1,611 |
-| Transporter | 0.10% | ~805 |
-| Look Mom, No Hands! | 0.10% | ~805 |
+| The First of Many | 89.00% | ~718,208 |
+| I Need a Bigger Garage | 61.00% | ~492,255 |
+| Pump my Ride | 45.00% | ~363,139 |
+| Ghostbuster | 29.00% | ~234,023 |
+| Call Roadside Assistance | 17.00% | ~137,186 |
+| That Was Close | 17.00% | ~137,186 |
+| Quickie | 10.00% | ~80,698 |
+| California Dreamer | 7.00% | ~56,488 |
+| Can't Touch This | 4.00% | ~32,279 |
+| Carménère Taster | 3.00% | ~24,209 |
+| Comeback | 3.00% | ~24,209 |
+| Marathonist | 3.00% | ~24,209 |
+| Living Legend | 3.00% | ~24,209 |
+| Driver from Ipanema | 2.00% | ~16,140 |
+| Pathfinder | 2.00% | ~16,140 |
+| Go-Kart Champion | 2.00% | ~16,140 |
+| Completionist | 2.00% | ~16,140 |
+| Supersonic | 2.00% | ~16,140 |
+| Harder, Better, Faster, Stronger | 2.00% | ~16,140 |
+| God of Roads | 1.00% | ~8,070 |
+| The Iceman | 1.00% | ~8,070 |
+| Oil Tycoon | 1.00% | ~8,070 |
+| Round the Globe | 1.00% | ~8,070 |
+| Golden Passport | 1.00% | ~8,070 |
+| Brave and Bold | 1.00% | ~8,070 |
+| Crocodile Hunter | 0.80% | ~6,456 |
+| Old Master | 0.80% | ~6,456 |
+| Bollywood Star | 0.80% | ~6,456 |
+| Volcano Surfer | 0.70% | ~5,649 |
+| Otaku | 0.70% | ~5,649 |
+| Survivor | 0.50% | ~4,035 |
+| King of the World | 0.50% | ~4,035 |
+| Getting Famous | 0.40% | ~3,228 |
+| Master of the Racetrack | 0.20% | ~1,614 |
+| Now Go Play Outside | 0.20% | ~1,614 |
+| Transporter | 0.10% | ~807 |
+| Look Mom, No Hands! | 0.10% | ~807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,409 (Ranked 10)  
+Progressed: 806,975 (Ranked 10)  
 Completed: 234 (0.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,10 +60,10 @@ Completed: 234 (0.03%) (Ranked 174)
 | 2023-05-03 | 724,172 | 231 |
 | 2023-05-04 | 739,062 | 232 |
 | 2023-05-05 | 776,483 | 233 |
-| 2023-05-06 | 805,409 | 234 |
+| 2023-05-06 | 806,975 | 234 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 290)  
-Sum: 1,072 (Ranked 225)  
+Sum: 1,073 (Ranked 225)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -71,7 +71,7 @@ Diff (max vs sum): 65
 | This game has Quickly Understood Controls | 114 |
 | This game is Relaxing | 111 |
 | This game is Highly Recommended | 103 |
-| This game is Great for Quick Sessions | 99 |
+| This game is Great for Quick Sessions | 100 |
 | This game has Competitive Players | 98 |
 | This game has Playful Visuals | 95 |
 | This game is Extremely Fun | 91 |
@@ -186,3 +186,4 @@ Diff (max vs sum): 65
 | 2023-05-02 | 4.56 | - | 133 | 1,070 |
 | 2023-05-03 | 4.57 | - | 133 | 1,070 |
 | 2023-05-05 | 4.57 | - | 134 | 1,072 |
+| 2023-05-06 | 4.56 | - | 134 | 1,073 |

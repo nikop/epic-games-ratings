@@ -14,6 +14,7 @@ Rating: 4.54 (Ranked 476)
 | Ain't Nobody Got Time for That | 0.30% | ~6 |
 | Convenient Transport | 0.30% | ~6 |
 | Infinite Growth... | 0.20% | ~4 |
+| Guy de Borderlands | 0.20% | ~4 |
 | Space Society | 0.20% | ~4 |
 | Sputnik 2049 | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 476)
 | Oats | 0.10% | ~2 |
 | What They Hide From Us | 0.10% | ~2 |
 | ...  in a finite world | 0.10% | ~2 |
-| Guy de Borderlands | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
 | In Dolos We Trust | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 476)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,836 (Ranked 145)  
+Progressed: 1,837 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-03 | 1,825 | 0 |
 | 2023-05-04 | 1,827 | 0 |
 | 2023-05-05 | 1,830 | 0 |
-| 2023-05-06 | 1,836 | 0 |
+| 2023-05-06 | 1,837 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.37,
   "RatingHistory": [
@@ -54,15 +54,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.02,
+  "EOS_Completed_Percentage": 3.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
       "NumProgressed": 265,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-06T20:06:06.9934276+00:00",
+      "NumProgressed": 266,
       "NumCompleted": 8
     }
   ],
@@ -147,7 +152,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_10",
@@ -155,7 +160,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_11",
@@ -163,7 +168,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_12",
@@ -171,7 +176,7 @@
       "Name": "Lord Wesley",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_13",
@@ -193,9 +198,9 @@
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_16",
@@ -203,7 +208,7 @@
       "Name": "The other side of the mirror",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_17",
@@ -226,7 +231,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 8
     }
   ],
@@ -234,8 +239,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:05.2498966+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:06.9934272+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:04.8701446+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:59:06.4221494+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:05.2499118+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:59:05.2744855+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:06.99344+00:00"
 }

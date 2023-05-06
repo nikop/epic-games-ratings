@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.73,
   "NumberOfRatings": 38,
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1106,
+  "EOS_Progressed": 1107,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -230,6 +230,11 @@
       "Time": "2023-05-06T17:06:28.6350131+00:00",
       "NumProgressed": 1106,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-06T20:06:42.9229095+00:00",
+      "NumProgressed": 1107,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -241,7 +246,7 @@
       "Name": "Lovebirds",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "10",
@@ -265,7 +270,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "13",
@@ -305,7 +310,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "18",
@@ -409,7 +414,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "31",
@@ -480,15 +485,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1106,
+      "Progressed": 1107,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:42.491153+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:42.9229089+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.3936713+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:00:39.8991036+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:42.4911747+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:00:39.8011464+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:42.9229321+00:00"
 }

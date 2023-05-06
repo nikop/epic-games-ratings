@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1836,
+  "EOS_Progressed": 1837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-05-06T19:06:14.1295462+00:00",
       "NumProgressed": 1836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T20:06:15.4508061+00:00",
+      "NumProgressed": 1837,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -485,9 +490,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_21",
@@ -862,13 +867,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 3
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1836,
+      "Progressed": 1837,
       "Completed": 0
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:14.129546+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:15.4508057+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:59:42.7734745+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:14.1296045+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:59:41.3972664+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:15.4508634+00:00"
 }

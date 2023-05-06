@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~377 |
-| A Friend in Need | 59.00% | ~234 |
+| Home Sweet Home | 95.00% | ~378 |
+| A Friend in Need | 59.00% | ~235 |
 | Surviving | 42.00% | ~167 |
 | Never Give Up | 38.00% | ~151 |
 | Detox diet | 38.00% | ~151 |
 | Tasty | 36.00% | ~143 |
 | Lullaby | 32.00% | ~127 |
 | You Can Pet The Fox | 29.00% | ~115 |
-| Hard Fox Life | 23.00% | ~91 |
-| Never Let Down | 23.00% | ~91 |
-| Chicken Dinner | 21.00% | ~83 |
-| A Barking Fox Doesn't Bite | 20.00% | ~79 |
-| Peaceful Instinct | 18.00% | ~71 |
+| Hard Fox Life | 23.00% | ~92 |
+| Never Let Down | 23.00% | ~92 |
+| Chicken Dinner | 21.00% | ~84 |
+| A Barking Fox Doesn't Bite | 20.00% | ~80 |
+| Peaceful Instinct | 18.00% | ~72 |
 | Maternity | 15.00% | ~60 |
 | Family Reunion | 15.00% | ~60 |
 | Beyond Words | 15.00% | ~60 |
@@ -33,7 +33,7 @@
 | Omnivore | 2.00% | ~8 |
 | Endling | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 192)  
+Progressed: 398 (Ranked 192)  
 Completed: 2 (0.50%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 2 (0.50%) (Ranked 98)
 | 2023-05-01 | 392 | 2 |
 | 2023-05-03 | 394 | 2 |
 | 2023-05-04 | 396 | 2 |
-| 2023-05-06 | 397 | 2 |
+| 2023-05-06 | 398 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

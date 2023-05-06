@@ -15,11 +15,11 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
-| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
@@ -28,8 +28,8 @@
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.09% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
+| 30 | [Ravenlok](games/r/ravenlok.md) | 4.07% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -40,7 +40,7 @@
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
-| 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
+| 41 | [Lamentum](games/l/lamentum.md) | 3.01% |
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 43 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.94% |
 | 43 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
@@ -183,14 +183,14 @@
 | 176 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 176 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
 | 176 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
-| 185 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 185 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 185 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 185 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 185 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 185 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 185 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 184 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 184 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 184 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 184 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 184 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 184 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 184 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
 | 192 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 192 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 192 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |

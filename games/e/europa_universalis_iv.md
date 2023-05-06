@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,782 |
-| That's a Grand Army | 8.00% | ~2,473 |
-| That is mine! | 8.00% | ~2,473 |
-| Victorious! | 8.00% | ~2,473 |
-| Brothers in Arms | 6.00% | ~1,855 |
-| That's a Grand Navy | 6.00% | ~1,855 |
-| Seriously?! | 6.00% | ~1,855 |
-| For the Glory | 5.00% | ~1,546 |
-| Cold War | 4.00% | ~1,236 |
-| True Catholic | 4.00% | ~1,236 |
-| Defender of the Faith | 3.00% | ~927 |
-| It's all about the money | 3.00% | ~927 |
-| Respected | 3.00% | ~927 |
-| Blockader | 2.00% | ~618 |
-| Combined Arms | 2.00% | ~618 |
-| Double the Love | 2.00% | ~618 |
-| Gentle Persuasion | 2.00% | ~618 |
-| It's all about luck | 2.00% | ~618 |
-| Queen of Conquest | 2.00% | ~618 |
-| Royal Authority | 2.00% | ~618 |
-| The Princess is in this Castle | 2.00% | ~618 |
-| Total Control | 2.00% | ~618 |
-| Truly Divine Ruler | 2.00% | ~618 |
-| Agressive Expander | 1.00% | ~309 |
-| Azur semé de lis or | 1.00% | ~309 |
-| Bright Spark | 1.00% | ~309 |
-| Factionalism | 1.00% | ~309 |
-| A Golden Empire | 1.00% | ~309 |
-| My armies are invincible! | 1.00% | ~309 |
-| All That's Thine Shall Be Mine | 0.90% | ~278 |
-| City of Cities | 0.90% | ~278 |
-| Isn't this the way to India? | 0.70% | ~216 |
-| Market Control | 0.70% | ~216 |
-| The Five Colonies | 0.70% | ~216 |
-| The Emperors new clothes | 0.60% | ~185 |
-| This navy can take it all | 0.60% | ~185 |
+| Until death do us apart | 9.00% | ~2,788 |
+| That's a Grand Army | 8.00% | ~2,478 |
+| That is mine! | 8.00% | ~2,478 |
+| Victorious! | 8.00% | ~2,478 |
+| Brothers in Arms | 6.00% | ~1,859 |
+| That's a Grand Navy | 6.00% | ~1,859 |
+| Seriously?! | 6.00% | ~1,859 |
+| For the Glory | 5.00% | ~1,549 |
+| Cold War | 4.00% | ~1,239 |
+| True Catholic | 4.00% | ~1,239 |
+| Defender of the Faith | 3.00% | ~929 |
+| It's all about the money | 3.00% | ~929 |
+| Respected | 3.00% | ~929 |
+| Blockader | 2.00% | ~620 |
+| Combined Arms | 2.00% | ~620 |
+| Double the Love | 2.00% | ~620 |
+| Gentle Persuasion | 2.00% | ~620 |
+| It's all about luck | 2.00% | ~620 |
+| Queen of Conquest | 2.00% | ~620 |
+| Royal Authority | 2.00% | ~620 |
+| The Princess is in this Castle | 2.00% | ~620 |
+| Total Control | 2.00% | ~620 |
+| Truly Divine Ruler | 2.00% | ~620 |
+| Agressive Expander | 1.00% | ~310 |
+| Azur semé de lis or | 1.00% | ~310 |
+| Bright Spark | 1.00% | ~310 |
+| Factionalism | 1.00% | ~310 |
+| A Golden Empire | 1.00% | ~310 |
+| My armies are invincible! | 1.00% | ~310 |
+| All That's Thine Shall Be Mine | 0.90% | ~279 |
+| City of Cities | 0.90% | ~279 |
+| Isn't this the way to India? | 0.70% | ~217 |
+| Market Control | 0.70% | ~217 |
+| The Five Colonies | 0.70% | ~217 |
+| The Emperors new clothes | 0.60% | ~186 |
+| This navy can take it all | 0.60% | ~186 |
 | Down Under | 0.50% | ~155 |
 | Electable! | 0.50% | ~155 |
 | Time Bandit | 0.50% | ~155 |
@@ -176,6 +176,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~31 |
 | Lion of the North | 0.10% | ~31 |
 | Luck of the Irish | 0.10% | ~31 |
+| Lucky Lucca | 0.10% | ~31 |
 | Made in Japan | 0.10% | ~31 |
 | Maharana Pratap | 0.10% | ~31 |
 | Mansa Musa | 0.10% | ~31 |
@@ -184,6 +185,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mary of Lotharingia | 0.10% | ~31 |
 | Master of India | 0.10% | ~31 |
 | Mehmet's Ambition | 0.10% | ~31 |
+| Mewar Never Changes | 0.10% | ~31 |
 | My True Friend | 0.10% | ~31 |
 | Napoleon’s Ambition | 0.10% | ~31 |
 | Narcissism | 0.10% | ~31 |
@@ -223,6 +225,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Spice Must Flow | 0.10% | ~31 |
 | Strait Talk | 0.10% | ~31 |
 | Subsidize my Love | 0.10% | ~31 |
+| The Sudanese Expedition | 0.10% | ~31 |
 | The Sun Never Sets on the Indian Empire | 0.10% | ~31 |
 | Sunset Invasion | 0.10% | ~31 |
 | Super Trooper | 0.10% | ~31 |
@@ -308,10 +311,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kushite Restoration | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | The Levant Turnabout | 0.00% | ~0 |
-| Lucky Lucca | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Mewar Never Changes | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
@@ -335,7 +336,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
-| The Sudanese Expedition | 0.00% | ~0 |
 | Sun Invasion | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,910 (Ranked 81)  
+Progressed: 30,981 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,10 +377,10 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,910 | 0 |
+| 2023-05-06 | 30,981 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
-Sum: 42,849 (Ranked 26)  
+Sum: 42,857 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -390,7 +390,7 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 4,915 |
 | This game has Diverse Characters | 4,867 |
 | This game is Relaxing | 4,826 |
-| This game has Competitive Players | 4,645 |
+| This game has Competitive Players | 4,653 |
 | This game has Amazing Storytelling | 4,412 |
 | This game has Amazing Characters | 4,090 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -506,4 +506,4 @@ Diff (max vs sum): 34
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
-| 2023-05-06 | 4.68 | - | 5,181 | 42,849 |
+| 2023-05-06 | 4.68 | - | 5,181 | 42,857 |

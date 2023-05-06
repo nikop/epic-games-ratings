@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.57,
   "RatingHistory": [
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -80,6 +80,11 @@
     {
       "Time": "2023-05-02T02:01:27.4833741+00:00",
       "NumProgressed": 575,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T20:06:26.1188654+00:00",
+      "NumProgressed": 576,
       "NumCompleted": 0
     }
   ],
@@ -140,7 +145,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "AhoyTrophy",
@@ -148,7 +153,7 @@
       "Name": "Ahoy Hoy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AlienTrophy",
@@ -164,7 +169,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -236,7 +241,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "Ext4Trophy",
@@ -268,7 +273,7 @@
       "Name": "Machine Maxed",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "GoldGuyTrophy",
@@ -372,7 +377,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "MaxPriceTrophy",
@@ -380,7 +385,7 @@
       "Name": "Jimmy Goldman Would be Proud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MergeBallsTrophy",
@@ -452,7 +457,7 @@
       "Name": "You Spin Me Round",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SwishTrophy",
@@ -460,7 +465,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "TerrorTrophy",
@@ -523,7 +528,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 0
     }
   ],
@@ -531,8 +536,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:24.9212884+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:26.1188647+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.0510642+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:59:33.6266722+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:24.9213357+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:59:32.7576564+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:26.1189063+00:00"
 }

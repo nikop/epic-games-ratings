@@ -4,14 +4,14 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2347,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2023-05-06T17:06:17.7438139+00:00",
       "NumProgressed": 2347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T20:06:31.6176566+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -993,7 +998,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "11",
@@ -1025,7 +1030,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "15",
@@ -1113,7 +1118,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "3",
@@ -1137,7 +1142,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "6",
@@ -1176,13 +1181,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2347,
+      "Progressed": 2349,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:30.7800641+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:31.6176557+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:00:05.0878907+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:30.780086+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:00:03.4695077+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:31.6176805+00:00"
 }

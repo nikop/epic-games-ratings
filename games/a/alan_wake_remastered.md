@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 446)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,8 +61,8 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~38 |
 | Whirlwind | 0.40% | ~38 |
 | Creative Space | 0.40% | ~38 |
-| Run-On Sentence | 0.30% | ~28 |
-| Tick Tock | 0.30% | ~28 |
+| Run-On Sentence | 0.30% | ~29 |
+| Tick Tock | 0.30% | ~29 |
 | Alan, Wake Up | 0.20% | ~92 |
 | Meet the Deadline | 0.20% | ~92 |
 | Picking Up After Yourself | 0.20% | ~92 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,032 (Ranked 74)  
+Progressed: 46,033 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 44 (0.10%) (Ranked 151)
 | 2023-05-03 | 45,986 | 44 |
 | 2023-05-04 | 45,993 | 44 |
 | 2023-05-05 | 46,013 | 44 |
-| 2023-05-06 | 46,032 | 44 |
+| 2023-05-06 | 46,033 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -285,9 +285,9 @@
       "ID": "AchievementAchiever",
       "SetID": "76o014g",
       "Name": "Achiever",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AchievementAlchemist",
@@ -493,9 +493,9 @@
       "ID": "AchievementGlobalisationAge",
       "SetID": "76o014g",
       "Name": "Globalisation Age",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AchievementHighlander",
@@ -899,8 +899,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:21.1070824+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:22.4570513+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:48.9399661+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:58:51.2245103+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:21.1071605+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:58:49.8127789+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:22.4571315+00:00"
 }

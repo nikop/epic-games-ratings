@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1329,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -578,6 +578,11 @@
       "Time": "2023-05-06T19:06:13.1210184+00:00",
       "NumProgressed": 1329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T20:06:14.5963115+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -589,7 +594,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Achievement_002",
@@ -605,7 +610,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_004",
@@ -613,7 +618,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 414
     },
     {
       "ID": "Achievement_006",
@@ -635,9 +640,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 694
     },
     {
       "ID": "Achievement_009",
@@ -645,7 +650,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 877
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_010",
@@ -653,7 +658,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 521
     },
     {
       "ID": "Achievement_011",
@@ -709,7 +714,7 @@
       "Name": "Bad Wiring",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Achievement_018",
@@ -725,7 +730,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1148
     },
     {
       "ID": "Achievement_020",
@@ -739,9 +744,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 187
     },
     {
       "ID": "Achievement_022",
@@ -773,7 +778,7 @@
       "Name": "Grounded",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 294
     },
     {
       "ID": "Achievement_026",
@@ -781,7 +786,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 467
     },
     {
       "ID": "Achievement_027",
@@ -789,15 +794,15 @@
       "Name": "Peek-a-boo",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 614
     },
     {
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_029",
@@ -805,15 +810,15 @@
       "Name": "Throw The First Stone",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 467
     },
     {
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 654
     },
     {
       "ID": "Achievement_031",
@@ -821,7 +826,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 614
     },
     {
       "ID": "Achievement_032",
@@ -837,7 +842,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 868
     },
     {
       "ID": "Achievement_034",
@@ -845,7 +850,7 @@
       "Name": "Catch and Release",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 614
     },
     {
       "ID": "Achievement_035",
@@ -893,7 +898,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 414
     },
     {
       "ID": "Achievement_041",
@@ -925,7 +930,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 427
     },
     {
       "ID": "Achievement_046",
@@ -995,9 +1000,9 @@
       "ID": "Achievement_056",
       "SetID": "6b34g18",
       "Name": "Rum Runner",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_057",
@@ -1035,9 +1040,9 @@
       "ID": "Achievement_061",
       "SetID": "6b34g18",
       "Name": "Bob\u2019s Final Hour",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_062",
@@ -1053,7 +1058,7 @@
       "Name": "Helping Hand",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_064",
@@ -1109,14 +1114,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1329,
+      "Progressed": 1335,
       "Completed": 0
     }
   ],
@@ -1124,8 +1129,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-02T02:57:49.0820144+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:13.1210175+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:14.5963108+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:59:09.6050823+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:13.1210875+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:59:08.0432214+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:14.5963867+00:00"
 }

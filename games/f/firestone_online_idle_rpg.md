@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~816 |
-| World Map | 79.00% | ~693 |
-| Temple of Eternals | 55.00% | ~482 |
-| Prestigious | 51.00% | ~447 |
-| Fellowship Power | 39.00% | ~342 |
+| Victor | 93.00% | ~817 |
+| World Map | 79.00% | ~694 |
+| Temple of Eternals | 54.00% | ~475 |
+| Prestigious | 51.00% | ~448 |
+| Fellowship Power | 38.00% | ~334 |
 | Guild Power | 23.00% | ~202 |
 | Prestigious x10 | 18.00% | ~158 |
 | The game is on | 14.00% | ~123 |
@@ -16,9 +16,9 @@
 | Inspection | 13.00% | ~114 |
 | Dragon Clicker | 12.00% | ~105 |
 | Miner Clicker | 12.00% | ~105 |
-| Hero inspection | 11.00% | ~96 |
+| Hero inspection | 11.00% | ~97 |
 | Full Party | 9.00% | ~79 |
-| Enlightenment | 7.00% | ~61 |
+| Enlightenment | 7.00% | ~62 |
 | Dragon Master | 6.00% | ~53 |
 | Lieutenant | 6.00% | ~53 |
 | Natural Talent | 5.00% | ~44 |
@@ -35,6 +35,7 @@
 | Scroll Master | 2.00% | ~18 |
 | The Expeditioner | 2.00% | ~18 |
 | Active Member | 1.00% | ~9 |
+| Ancient Knowledge | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | Here We Go Again | 1.00% | ~9 |
@@ -44,7 +45,6 @@
 | Relic Of The Past | 1.00% | ~9 |
 | The power of Awakening | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
-| Ancient Knowledge | 0.90% | ~8 |
 | The father of Dragons | 0.90% | ~8 |
 | Trader | 0.90% | ~8 |
 | Master Enchanter | 0.80% | ~7 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 877 (Ranked 164)  
+Progressed: 879 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.11%) (Ranked 148)
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
-| 2023-05-06 | 877 | 1 |
+| 2023-05-06 | 879 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

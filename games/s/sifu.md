@@ -20,12 +20,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lady Wing Chun | 0.60% | ~4,216 |
 | Furious Fists | 0.60% | ~4,216 |
 | Kill Nil | 0.60% | ~4,216 |
+| Street Fighting | 0.60% | ~4,216 |
 | Qi Gong: Essence | 0.60% | ~4,216 |
 | Take damage to save time | 0.60% | ~4,216 |
 | The Old Grandmaster | 0.50% | ~3,513 |
 | Scareless | 0.50% | ~3,513 |
 | Stuntmaster | 0.50% | ~3,513 |
-| Street Fighting | 0.50% | ~3,513 |
 | Life is your teacher | 0.50% | ~3,513 |
 | Old Child | 0.50% | ~3,513 |
 | Lightning Hands | 0.50% | ~3,513 |

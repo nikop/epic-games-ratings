@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.66,
+  "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -643,6 +643,11 @@
       "Time": "2023-05-06T19:06:40.5293778+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-05-06T20:06:41.410438+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 12,
@@ -654,7 +659,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Bernard",
@@ -686,7 +691,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "Jakob",
@@ -694,7 +699,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Jude",
@@ -732,9 +737,9 @@
       "ID": "Nazis in Paris",
       "SetID": "b40dflc",
       "Name": "Nazis in Paris",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 288
     },
     {
       "ID": "Nuremberg Laws",
@@ -749,7 +754,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 88
     }
   ],
@@ -757,8 +762,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-06T19:06:40.5293776+00:00",
+  "LastChanged_Achievements": "2023-05-06T20:06:41.4104376+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:00:41.4810946+00:00",
-  "LastUpdate_Achievements": "2023-05-06T19:06:40.5293925+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:00:41.3809235+00:00",
+  "LastUpdate_Achievements": "2023-05-06T20:06:41.4104491+00:00"
 }
