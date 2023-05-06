@@ -6,6 +6,7 @@ Rating: 4.17 (Ranked 828)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Protector of Gotham | 0.30% | ~182 |
+| Unstoppable Force | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
 | End of an Era | 0.20% | ~121 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 828)
 | Working Hard or Harley Working? | 0.20% | ~121 |
 | Universal Health Scare | 0.20% | ~121 |
 | First Step Into the Knight | 0.20% | ~121 |
-| Unstoppable Force | 0.20% | ~121 |
 | Knighthood | 0.20% | ~121 |
 | Loose Ends | 0.20% | ~121 |
 | Whispered Words | 0.20% | ~121 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 828)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,673 (Ranked 66)  
+Progressed: 60,674 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,10 +83,10 @@ Completed: 89 (0.15%) (Ranked 140)
 | 2023-05-03 | 60,606 | 89 |
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,646 | 89 |
-| 2023-05-06 | 60,673 | 89 |
+| 2023-05-06 | 60,674 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,193  (Ranked 99)  
-Sum: 3,626 (Ranked 138)  
+Sum: 3,627 (Ranked 138)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -95,7 +95,7 @@ Diff (max vs sum): -39
 | This game has Quickly Understood Controls | 185 |
 | This game is Relaxing | 185 |
 | This game has Diverse Characters | 181 |
-| This game has Amazing Characters | 177 |
+| This game has Amazing Characters | 178 |
 | This game is Highly Recommended | 176 |
 | This game is Great for Beginners | 172 |
 | This game has Amazing Storytelling | 170 |
@@ -178,4 +178,4 @@ Diff (max vs sum): -39
 | 2023-05-03 | 4.17 | 2,182 | 3,611 |
 | 2023-05-04 | 4.17 | 2,187 | 3,618 |
 | 2023-05-05 | 4.17 | 2,187 | 3,619 |
-| 2023-05-06 | 4.17 | 2,193 | 3,626 |
+| 2023-05-06 | 4.17 | 2,193 | 3,627 |

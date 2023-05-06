@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 17,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.5601593+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1153,
-  "EOS_Completed": 88,
-  "EOS_NewPlayers": 110,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.63,
+  "EOS_Progressed": 1154,
+  "EOS_Completed": 89,
+  "EOS_NewPlayers": 108,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 7.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -653,6 +653,11 @@
       "Time": "2023-05-06T21:07:19.9685639+00:00",
       "NumProgressed": 1153,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-05-06T23:06:46.418135+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 12,
@@ -664,7 +669,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Bernard",
@@ -759,16 +764,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1153,
-      "Completed": 88
+      "Progressed": 1154,
+      "Completed": 89
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:27.9999627+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:46.4181347+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:01:22.5686793+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:27.9999776+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:01:01.4288407+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:46.4181492+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1136,
+  "EOS_Progressed": 1138,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -241,6 +241,11 @@
       "Time": "2023-05-06T20:06:22.5789703+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-06T23:06:27.1891921+00:00",
+      "NumProgressed": 1138,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -268,7 +273,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -300,7 +305,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -316,7 +321,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -404,7 +409,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_loseBattle",
@@ -412,7 +417,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -420,7 +425,7 @@
       "Name": "How Romantic!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_maimedHero",
@@ -428,7 +433,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_mythwalker",
@@ -524,7 +529,7 @@
       "Name": "Daybreak",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "completedStory_vultureLord",
@@ -540,7 +545,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -548,7 +553,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -572,7 +577,7 @@
       "Name": "Turncoat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -699,15 +704,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1136,
+      "Progressed": 1138,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:05.7901509+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:27.1891918+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:02:25.0997932+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:05.7902102+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:01:51.8606063+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:27.1892456+00:00"
 }

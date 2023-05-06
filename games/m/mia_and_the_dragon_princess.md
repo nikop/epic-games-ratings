@@ -7,8 +7,10 @@
 | Glass Act | 20.00% | ~3 |
 | Relight my Cannon | 20.00% | ~3 |
 | Backstory Buff | 13.00% | ~2 |
+| Flying High | 13.00% | ~2 |
 | Codebreaker | 7.00% | ~1 |
-| Flying High | 7.00% | ~1 |
+| Finger-Lickin' Bad | 7.00% | ~1 |
+| Puzzle Prodigy | 7.00% | ~1 |
 | Set Sail | 7.00% | ~1 |
 | Snitch | 7.00% | ~1 |
 | Tour Guide Extraordinaire | 7.00% | ~1 |
@@ -17,11 +19,9 @@
 | Breathless End | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Explosive End | 0.00% | ~0 |
-| Finger-Lickin' Bad | 0.00% | ~0 |
 | Fool's Gold | 0.00% | ~0 |
 | Freedum Fighter | 0.00% | ~0 |
 | Key Keeper's Curse | 0.00% | ~0 |
-| Puzzle Prodigy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 192)  

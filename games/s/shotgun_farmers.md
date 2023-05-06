@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 100.00% | ~15 |
-| First Blood | 60.00% | ~9 |
+| Seeds of War | 107.00% | ~16 |
+| First Blood | 67.00% | ~10 |
 | No Asperascope | 47.00% | ~7 |
+| Cornivore | 47.00% | ~7 |
 | Triple Kill | 40.00% | ~6 |
-| Cornivore | 40.00% | ~6 |
 | 15K | 20.00% | ~3 |
 | Drinking Problem | 20.00% | ~3 |
 | Graveside Survivor | 20.00% | ~3 |

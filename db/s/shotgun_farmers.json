@@ -150,17 +150,17 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 100,
+      "Percentage": 107,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -446,9 +446,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -463,8 +463,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:06:47.6524527+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:11.3202441+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:59:59.0782869+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:06:47.6524887+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:59:50.3375509+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:11.3202729+00:00"
 }

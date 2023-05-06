@@ -11,7 +11,7 @@
   "Tags": [],
   "EOS_Progressed": 2350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1113,9 +1113,9 @@
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 658
     },
     {
       "ID": "24",
@@ -1191,8 +1191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:16.3956998+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:36.5367808+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:00:37.4297153+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:16.395728+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:00:21.5035877+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:36.5368027+00:00"
 }

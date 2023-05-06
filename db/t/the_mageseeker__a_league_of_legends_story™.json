@@ -58,7 +58,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1898,
+  "EOS_Progressed": 1899,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -868,6 +868,11 @@
       "Time": "2023-05-06T21:06:55.0709417+00:00",
       "NumProgressed": 1898,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T23:06:24.4451669+00:00",
+      "NumProgressed": 1899,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -927,7 +932,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -943,7 +948,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -959,7 +964,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -983,7 +988,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -999,7 +1004,7 @@
       "Name": "Past trauma",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1015,7 +1020,7 @@
       "Name": "Old friend",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1053,9 +1058,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1424
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1063,7 +1068,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1095,7 +1100,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1103,7 +1108,7 @@
       "Name": "Thornbarrow",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1111,7 +1116,7 @@
       "Name": "Clarion Cove",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1119,7 +1124,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1213,9 +1218,9 @@
       "ID": "STB_SECONDARY_ASSAULT_I",
       "SetID": "3pe2bac",
       "Name": "Ternmoat Headquarters",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 589
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1223,7 +1228,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1295,14 +1300,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1898,
+      "Progressed": 1899,
       "Completed": 1
     }
   ],
@@ -1310,8 +1315,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:02.6919881+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:24.4451666+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:59:17.1791911+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:02.6920419+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:59:15.0141047+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:24.4452166+00:00"
 }

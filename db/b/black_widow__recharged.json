@@ -126,7 +126,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13824,
+  "EOS_Progressed": 13826,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
@@ -1166,6 +1166,11 @@
       "Time": "2023-05-06T22:07:42.0848214+00:00",
       "NumProgressed": 13824,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-06T23:06:58.7127693+00:00",
+      "NumProgressed": 13826,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 14,
@@ -1177,7 +1182,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10921
+      "UsersEstimate": 10923
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -1225,7 +1230,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -1233,7 +1238,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7327
+      "UsersEstimate": 7328
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -1281,22 +1286,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13824,
+      "Progressed": 13826,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:42.084821+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:58.7127689+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:02:15.1896324+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:42.0848413+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:01:43.7281681+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:58.7127836+00:00"
 }

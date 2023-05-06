@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 549)  
+Rating: 4.49 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.49 (Ranked 549)
 | Back Off | 36.00% | ~7,766 |
 | Daily Dose | 36.00% | ~7,766 |
 | Welcome to the Crew | 33.00% | ~7,119 |
+| Solo Capture | 32.00% | ~6,903 |
 | Ghostbuster In Training | 31.00% | ~6,688 |
-| Solo Capture | 31.00% | ~6,688 |
 | Icing on the Cake | 30.00% | ~6,472 |
 | Legions | 28.00% | ~6,040 |
 | Side Hustle | 28.00% | ~6,040 |

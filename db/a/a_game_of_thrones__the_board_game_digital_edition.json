@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 38,
   "Rating": 4.2,
   "NumberOfRatings": 2500,
@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11256,
+  "EOS_Progressed": 11261,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2534,6 +2534,11 @@
       "Time": "2023-05-06T22:07:37.6329634+00:00",
       "NumProgressed": 11256,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-06T23:06:54.8203843+00:00",
+      "NumProgressed": 11261,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2569,7 +2574,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "1019",
@@ -2577,7 +2582,7 @@
       "Name": "Winter is Coming",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "1020",
@@ -2585,7 +2590,7 @@
       "Name": "Growing Strong",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "1021",
@@ -2593,7 +2598,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "1022",
@@ -2601,15 +2606,15 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "1023",
       "SetID": "9l3d3cl",
       "Name": "What is Dead may Never Die",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 450
+      "UsersEstimate": 338
     },
     {
       "ID": "1024",
@@ -2633,7 +2638,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "1027",
@@ -2649,7 +2654,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "1029",
@@ -2665,7 +2670,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "1031",
@@ -2673,7 +2678,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "1032",
@@ -2681,7 +2686,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4504
     },
     {
       "ID": "1033",
@@ -2697,7 +2702,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "1035",
@@ -2705,7 +2710,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "1036",
@@ -2720,15 +2725,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11256,
+      "Progressed": 11261,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:37.6329628+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:54.820384+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:02:01.9552769+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:37.6329891+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:01:33.9076504+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:54.8204073+00:00"
 }

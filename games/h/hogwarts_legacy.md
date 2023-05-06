@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 103)
 | Savvy Spender | 0.70% | ~1,861 |
 | Demiguise Dread | 0.70% | ~1,861 |
 | A Forte for Achievement | 0.70% | ~1,861 |
-| Merlin's Beard! | 0.50% | ~1,329 |
+| Merlin's Beard! | 0.50% | ~1,330 |
 | The Nature of the Beast | 0.40% | ~1,064 |
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,891 (Ranked 38)  
+Progressed: 265,901 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
-| 2023-05-06 | 265,891 | 351 |
+| 2023-05-06 | 265,901 | 351 |
 ## Awards
 Max (Character Customization): 18,430  (Ranked 18)  
 Sum: 33,633 (Ranked 34)  

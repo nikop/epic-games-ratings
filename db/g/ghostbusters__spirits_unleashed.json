@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 88,
@@ -896,7 +896,7 @@
   ],
   "EOS_Progressed": 21573,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2291,9 +2291,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6903
     },
     {
       "ID": "Stunner",
@@ -2420,8 +2420,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-06T21:00:33.287829+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:19.2509234+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:38.8443509+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:00:38.3015766+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:19.2509836+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:00:22.3155683+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:38.8444011+00:00"
 }

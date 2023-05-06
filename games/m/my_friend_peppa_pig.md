@@ -13,7 +13,7 @@
 | Rounding Up the Chickens. | 42.00% | ~28 |
 | What’s in These Rockpools? | 35.00% | ~23 |
 | Where’s Mr. Dinosaur? | 24.00% | ~16 |
-| Helping Tiddles the Tortoise. | 23.00% | ~15 |
+| Helping Tiddles the Tortoise. | 24.00% | ~16 |
 | Always Remember To Eat Your Five! | 12.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 262)  

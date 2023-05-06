@@ -6,14 +6,14 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 29.00% | ~329 |
-| Me and My Familiar | 26.00% | ~295 |
-| This Too Shall Pass | 23.00% | ~261 |
+| The Cost of Heroism | 29.00% | ~330 |
+| Me and My Familiar | 26.00% | ~296 |
+| This Too Shall Pass | 23.00% | ~262 |
 | Passing Shadow | 22.00% | ~250 |
 | Cutthroat Competitors | 22.00% | ~250 |
-| How Romantic! | 20.00% | ~227 |
-| Daybreak | 20.00% | ~227 |
-| Gotta Ca... Must Collect All of Them | 18.00% | ~204 |
+| How Romantic! | 20.00% | ~228 |
+| Daybreak | 20.00% | ~228 |
+| Gotta Ca... Must Collect All of Them | 18.00% | ~205 |
 | Completing the Look | 10.00% | ~114 |
 | Who's Counting? | 10.00% | ~114 |
 | War Endured | 10.00% | ~114 |
@@ -26,11 +26,11 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 5.00% | ~57 |
 | Another Tale to Tell | 5.00% | ~57 |
 | A Story of Heroes | 5.00% | ~57 |
-| Let Me Get My Chisel | 4.00% | ~45 |
-| Plague Doctor | 4.00% | ~45 |
-| Wingknight's Prowess | 4.00% | ~45 |
-| All My Birds, Safely Home | 4.00% | ~45 |
-| Turncoat | 4.00% | ~45 |
+| Let Me Get My Chisel | 4.00% | ~46 |
+| Plague Doctor | 4.00% | ~46 |
+| Wingknight's Prowess | 4.00% | ~46 |
+| All My Birds, Safely Home | 4.00% | ~46 |
+| Turncoat | 4.00% | ~46 |
 | Worldwalker | 3.00% | ~34 |
 | Legends Never Die | 3.00% | ~34 |
 | In Soil, In Smoke | 3.00% | ~34 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,136 (Ranked 155)  
+Progressed: 1,138 (Ranked 155)  
 Completed: 3 (0.26%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 3 (0.26%) (Ranked 126)
 | 2023-05-02 | 1,120 | 3 |
 | 2023-05-04 | 1,121 | 3 |
 | 2023-05-05 | 1,130 | 3 |
-| 2023-05-06 | 1,136 | 3 |
+| 2023-05-06 | 1,138 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 462)  

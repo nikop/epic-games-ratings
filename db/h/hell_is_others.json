@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.46,
   "RatingHistory": [
@@ -322,7 +322,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247958,
+  "EOS_Progressed": 247962,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 1,
@@ -1667,6 +1667,11 @@
       "Time": "2023-05-06T22:07:43.1684834+00:00",
       "NumProgressed": 247958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T23:06:59.5839258+00:00",
+      "NumProgressed": 247962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -1726,7 +1731,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76867
+      "UsersEstimate": 76868
     },
     {
       "ID": "BackHomeNTimes",
@@ -1782,7 +1787,7 @@
       "Name": "Fixer I",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22316
+      "UsersEstimate": 22317
     },
     {
       "ID": "CreditLevel2",
@@ -1878,7 +1883,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14877
+      "UsersEstimate": 14878
     },
     {
       "ID": "GrowPlants2",
@@ -1966,7 +1971,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52071
+      "UsersEstimate": 52072
     },
     {
       "ID": "KillOthers2",
@@ -2125,7 +2130,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247958,
+      "Progressed": 247962,
       "Completed": 1
     }
   ],
@@ -2133,8 +2138,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-06T21:01:56.1860988+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:43.1684829+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:59.5839256+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:02:03.2487085+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:43.1685527+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:01:34.9100691+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:59.5839803+00:00"
 }

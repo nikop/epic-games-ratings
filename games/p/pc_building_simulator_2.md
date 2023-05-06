@@ -5,22 +5,22 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,656 |
+| Bootstrapping | 75.00% | ~118,657 |
 | Shine On | 70.00% | ~110,746 |
 | On the Job | 69.00% | ~109,164 |
-| Get Stuck In | 68.00% | ~107,581 |
-| Room for Expansion | 68.00% | ~107,581 |
-| Sales Pitch | 65.00% | ~102,835 |
-| Chill Out | 65.00% | ~102,835 |
+| Get Stuck In | 68.00% | ~107,582 |
+| Room for Expansion | 68.00% | ~107,582 |
+| Sales Pitch | 65.00% | ~102,836 |
+| Chill Out | 65.00% | ~102,836 |
 | Tinker | 61.00% | ~96,507 |
 | Grand Designs | 60.00% | ~94,925 |
 | Hot Stuff | 59.00% | ~93,343 |
-| MOAR RGB | 54.00% | ~85,432 |
+| MOAR RGB | 54.00% | ~85,433 |
 | Dream Theme | 46.00% | ~72,776 |
 | The Customer is King | 45.00% | ~71,194 |
 | Working Hard | 44.00% | ~69,612 |
-| On the Bench | 42.00% | ~66,447 |
-| The More the Merrier | 42.00% | ~66,447 |
+| On the Bench | 42.00% | ~66,448 |
+| The More the Merrier | 42.00% | ~66,448 |
 | Mix and Match | 38.00% | ~60,119 |
 | Recycler | 38.00% | ~60,119 |
 | Foot in the Door | 37.00% | ~58,537 |
@@ -28,7 +28,7 @@ Rating: 4.61 (Ranked 352)
 | Full Throttle | 34.00% | ~53,791 |
 | Pimp My Rig | 32.00% | ~50,627 |
 | Repair Master | 32.00% | ~50,627 |
-| Local Hero | 28.00% | ~44,298 |
+| Local Hero | 28.00% | ~44,299 |
 | Broken to Smokin' | 26.00% | ~41,134 |
 | Workaholic | 26.00% | ~41,134 |
 | Thanks Jeff | 25.00% | ~39,552 |
@@ -42,8 +42,8 @@ Rating: 4.61 (Ranked 352)
 | Cowboy | 22.00% | ~34,806 |
 | Slap Happy | 21.00% | ~33,224 |
 | Supercool | 19.00% | ~30,060 |
-| Stabiliser | 18.00% | ~28,477 |
-| This One Goes to 11 | 18.00% | ~28,477 |
+| Stabiliser | 18.00% | ~28,478 |
+| This One Goes to 11 | 18.00% | ~28,478 |
 | Going Places | 15.00% | ~23,731 |
 | Forgetful Shopper | 14.00% | ~22,149 |
 | Showpiece | 13.00% | ~20,567 |
@@ -54,7 +54,7 @@ Rating: 4.61 (Ranked 352)
 | Salesperson of the Month | 8.00% | ~12,657 |
 | Making It Mine | 7.00% | ~11,075 |
 | Ship It | 7.00% | ~11,075 |
-| Elite Technician | 6.00% | ~9,492 |
+| Elite Technician | 6.00% | ~9,493 |
 | Unlimited Power | 5.00% | ~7,910 |
 | Big Shot | 3.00% | ~4,746 |
 | Just Like Old Times | 3.00% | ~4,746 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,208 (Ranked 52)  
+Progressed: 158,209 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,11 +81,11 @@ Completed: 102 (0.06%) (Ranked 162)
 | 2023-05-03 | 158,160 | 102 |
 | 2023-05-04 | 158,178 | 102 |
 | 2023-05-05 | 158,194 | 102 |
-| 2023-05-06 | 158,208 | 102 |
+| 2023-05-06 | 158,209 | 102 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 164)  
-Sum: 4,519 (Ranked 127)  
-Diff (max vs sum): 37  
+Sum: 4,519 (Ranked 128)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 595 |

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 86.00% | ~1,154 |
-| Home Is Where the Heart Is | 66.00% | ~886 |
-| Ne Plus Ultra | 66.00% | ~886 |
-| Wounded Whispers | 66.00% | ~886 |
-| Blood Will Have Blood | 52.00% | ~698 |
-| ICU | 49.00% | ~658 |
-| Catch and Release | 47.00% | ~631 |
-| Peek-a-boo | 46.00% | ~617 |
-| Sucks To Be You | 46.00% | ~617 |
-| Welcome to the Neighborhood | 39.00% | ~523 |
+| I Like My Stakes Rare! | 86.00% | ~1,156 |
+| Home Is Where the Heart Is | 66.00% | ~887 |
+| Ne Plus Ultra | 66.00% | ~887 |
+| Wounded Whispers | 65.00% | ~874 |
+| Blood Will Have Blood | 52.00% | ~699 |
+| ICU | 49.00% | ~659 |
+| Catch and Release | 47.00% | ~632 |
+| Peek-a-boo | 46.00% | ~618 |
+| Sucks To Be You | 46.00% | ~618 |
+| Welcome to the Neighborhood | 39.00% | ~524 |
 | Fly Fisher | 35.00% | ~470 |
 | Throw The First Stone | 35.00% | ~470 |
-| Enter of Your Own Free Will | 32.00% | ~429 |
-| Skin of Their Teeth | 32.00% | ~429 |
-| Heart Attack | 31.00% | ~416 |
+| Skin of Their Teeth | 33.00% | ~444 |
+| Enter of Your Own Free Will | 32.00% | ~430 |
+| Heart Attack | 32.00% | ~430 |
 | Grounded | 23.00% | ~309 |
-| Bad Wiring | 22.00% | ~295 |
-| I Spit On Your Grave | 20.00% | ~268 |
+| Bad Wiring | 22.00% | ~296 |
+| I Spit On Your Grave | 20.00% | ~269 |
 | Neighborhood Revitalization | 14.00% | ~188 |
 | Radio Silence | 14.00% | ~188 |
 | You Clean It Up | 11.00% | ~148 |
@@ -46,11 +46,11 @@
 | Enemy of My Enemy | 2.00% | ~27 |
 | Dexterity Save | 2.00% | ~27 |
 | Friends 'Til The End | 2.00% | ~27 |
+| Monster Hunters Club | 1.00% | ~13 |
 | Friendgineering | 1.00% | ~13 |
 | Ask Not For Whom The Horns Blow | 1.00% | ~13 |
 | Bloody Initiate | 1.00% | ~13 |
 | Curious Finch | 1.00% | ~13 |
-| Monster Hunters Club | 0.90% | ~12 |
 | Neighborhood Watch | 0.80% | ~11 |
 | Under a Bushel | 0.80% | ~11 |
 | What Lies Below | 0.60% | ~8 |
@@ -71,7 +71,7 @@
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,342 (Ranked 152)  
+Progressed: 1,344 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-03 | 1,021 | 0 |
 | 2023-05-04 | 1,164 | 0 |
 | 2023-05-05 | 1,266 | 0 |
-| 2023-05-06 | 1,342 | 0 |
+| 2023-05-06 | 1,344 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

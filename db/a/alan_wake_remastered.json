@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46033,
+  "EOS_Progressed": 46035,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1148,6 +1148,11 @@
       "Time": "2023-05-06T20:06:20.1702259+00:00",
       "NumProgressed": 46033,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-06T23:06:24.9556649+00:00",
+      "NumProgressed": 46035,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1159,7 +1164,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "02",
@@ -1431,7 +1436,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "36",
@@ -1694,21 +1699,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46033,
+      "Progressed": 46035,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9501,
+      "Progressed": 9503,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:03.2377833+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:24.9556646+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:59:18.4724187+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:03.2378684+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:59:16.4494162+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:24.955735+00:00"
 }

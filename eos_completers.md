@@ -15,20 +15,20 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.71% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.16% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.24% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.23% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -100,8 +100,8 @@
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 99 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 100 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 101 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
-| 101 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
+| 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 102 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 104 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |

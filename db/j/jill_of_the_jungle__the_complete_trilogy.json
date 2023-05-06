@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 17,
   "RatingHistory": [
     {
       "Time": "2023-04-27T14:58:11.428016+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 6.88,
+  "EOS_Completed_Percentage": 6.86,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -948,6 +948,11 @@
       "Time": "2023-05-06T22:07:01.6171179+00:00",
       "NumProgressed": 509,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-06T23:06:23.5578102+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 5,
@@ -959,7 +964,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "2",
@@ -998,7 +1003,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 35
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:01.6171174+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:23.5578099+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:38.6386532+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:58:53.6343299+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:01.6171327+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:58:56.9277677+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:23.5578216+00:00"
 }

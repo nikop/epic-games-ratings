@@ -8,11 +8,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 0.80% | ~117 |
 | Coral Forest | 0.70% | ~103 |
+| The Scarlet Orchard | 0.70% | ~103 |
 | No Deaths | 0.70% | ~103 |
 | First Real Expedition | 0.60% | ~88 |
 | Overcoming Difficulty | 0.60% | ~88 |
 | Fertile Meadows | 0.60% | ~88 |
-| The Scarlet Orchard | 0.60% | ~88 |
 | Taking Action | 0.60% | ~88 |
 | Bandit Camp | 0.50% | ~73 |
 | Barren Lands | 0.50% | ~73 |
@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.40% | ~59 |
 | Sparkdew Crystals | 0.40% | ~59 |
 | Dangerous Lands | 0.40% | ~59 |
+| Flooded Mines | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
 | Royal Outpost | 0.40% | ~59 |
 | Corrosive Torrent | 0.40% | ~59 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
 | Levitating Monument | 0.30% | ~44 |
-| Flooded Mines | 0.30% | ~44 |
 | Statue of the Forefathers | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
 | Watchtower | 0.30% | ~44 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,677 (Ranked 97)  
+Progressed: 14,678 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
 | 2023-05-05 | 14,657 | 30 |
-| 2023-05-06 | 14,677 | 30 |
+| 2023-05-06 | 14,678 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,015 (Ranked 149)  

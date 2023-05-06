@@ -906,10 +906,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3626,
       "NumberOfAwardsMax": 2193
+    },
+    {
+      "Time": "2023-05-06T23:01:10.3009551+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3627,
+      "NumberOfAwardsMax": 2193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3626,
+  "NumberOfAwards": 3627,
   "NumberOfAwardsMax": 2193,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -929,7 +935,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game is Great for Beginners",
@@ -974,9 +980,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60673,
+  "EOS_Progressed": 60674,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1859,6 +1865,11 @@
       "Time": "2023-05-06T22:07:35.0265613+00:00",
       "NumProgressed": 60673,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-06T23:06:52.5266706+00:00",
+      "NumProgressed": 60674,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2236,9 +2247,9 @@
       "ID": "HERO_PROGRESSION_4",
       "SetID": "4eo5ebm",
       "Name": "Unstoppable Force",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -2357,22 +2368,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60673,
+      "Progressed": 60674,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30953,
+      "Progressed": 30954,
       "Completed": 2628
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-06T04:00:39.4763059+00:00",
-  "LastChanged_Achievements": "2023-05-06T22:07:35.0265608+00:00",
+  "LastChanged": "2023-05-06T23:01:10.300955+00:00",
+  "LastChanged_Achievements": "2023-05-06T23:06:52.5266703+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:01:32.6130797+00:00",
-  "LastUpdate_Achievements": "2023-05-06T22:07:35.0266284+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:01:10.3009557+00:00",
+  "LastUpdate_Achievements": "2023-05-06T23:06:52.5267263+00:00"
 }

@@ -13,10 +13,10 @@
 | Riddlesolver | 30.00% | ~7 |
 | Shine! | 30.00% | ~7 |
 | Dungeon Mastery | 26.00% | ~6 |
+| The Apprentice | 17.00% | ~4 |
 | The Steed | 17.00% | ~4 |
 | Card Collector | 17.00% | ~4 |
 | The Bodyguard | 13.00% | ~3 |
-| The Apprentice | 13.00% | ~3 |
 | The Familiar | 13.00% | ~3 |
 | A Strange Proposition | 13.00% | ~3 |
 | Braving Miasma | 9.00% | ~2 |
