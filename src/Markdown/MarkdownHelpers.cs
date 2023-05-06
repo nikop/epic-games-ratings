@@ -86,6 +86,7 @@ namespace EpicRatingsUpdater.Markdown
 
         static public string BuildMarkdownStats(List<GameDbItem> filteredList, List<GameDbItem> allList)
         {
+            var games = allList.Where(x => x.ProductSlug != null).ToList();
             var average = filteredList.Sum(x => x.Rating ?? 0) / filteredList.Count;
 
             var decRatings = new Dictionary<decimal, int>();
@@ -106,8 +107,9 @@ namespace EpicRatingsUpdater.Markdown
 
             sb.AppendLine($"# Stats");
 
+            sb.AppendLine($"Games: {FormatVotes(games.Count)}  ");
             sb.AppendLine($"Games with rating: {FormatVotes(filteredList.Count)}  ");
-            sb.AppendLine($"Games without rating: {FormatVotes(allList.Count - filteredList.Count)}  ");
+            sb.AppendLine($"Games without rating: {FormatVotes(games.Count - filteredList.Count)}  ");
             sb.AppendLine($"Average rating: {FormatRating(average)}  ");
 
             var minRating = decRatings.Keys.Min();
