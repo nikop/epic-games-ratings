@@ -6,29 +6,29 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,686 |
+| You Never Forget Your First... | 9.00% | ~48,687 |
 | Into the Unknown | 8.00% | ~43,277 |
 | First Shot | 8.00% | ~43,277 |
-| Herzlich Wilkommen! | 7.00% | ~37,867 |
-| Sancho Panza | 7.00% | ~37,867 |
-| Good Night & Good Luck | 7.00% | ~37,867 |
-| Under Pressure | 6.00% | ~32,457 |
-| Flag Burning | 6.00% | ~32,457 |
-| Oh, So This Is How It Works! | 6.00% | ~32,457 |
+| Herzlich Wilkommen! | 7.00% | ~37,868 |
+| Sancho Panza | 7.00% | ~37,868 |
+| Good Night & Good Luck | 7.00% | ~37,868 |
+| Under Pressure | 6.00% | ~32,458 |
+| Flag Burning | 6.00% | ~32,458 |
+| Oh, So This Is How It Works! | 6.00% | ~32,458 |
 | On the Trail of the Enemy | 5.00% | ~27,048 |
 | Light in the Darkness | 5.00% | ~27,048 |
 | Get Outta My House! | 5.00% | ~27,048 |
 | It Wasn't That Hard, Was It? | 5.00% | ~27,048 |
 | Night Hunter | 5.00% | ~27,048 |
 | Being All Social | 5.00% | ~27,048 |
-| Debris and Ashes | 4.00% | ~21,638 |
-| We Will Be Heard! | 4.00% | ~21,638 |
-| Known Associate | 4.00% | ~21,638 |
-| Brush with Death | 4.00% | ~21,638 |
-| Tunnel Entrance | 4.00% | ~21,638 |
-| After the Fall | 4.00% | ~21,638 |
-| Can't Touch This! | 4.00% | ~21,638 |
-| Going Down | 3.00% | ~16,229 |
+| Debris and Ashes | 4.00% | ~21,639 |
+| We Will Be Heard! | 4.00% | ~21,639 |
+| Known Associate | 4.00% | ~21,639 |
+| Brush with Death | 4.00% | ~21,639 |
+| Going Down | 4.00% | ~21,639 |
+| Tunnel Entrance | 4.00% | ~21,639 |
+| After the Fall | 4.00% | ~21,639 |
+| Can't Touch This! | 4.00% | ~21,639 |
 | Family First | 3.00% | ~16,229 |
 | Your World, Your Rules | 3.00% | ~16,229 |
 | Death From Afar | 3.00% | ~16,229 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~186 |
 | Connoisseur | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,957 (Ranked 22)  
+Progressed: 540,967 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 46 (0.01%) (Ranked 184)
 | 2023-05-03 | 539,308 | 46 |
 | 2023-05-04 | 540,116 | 46 |
 | 2023-05-05 | 540,874 | 46 |
-| 2023-05-06 | 540,957 | 46 |
+| 2023-05-06 | 540,967 | 46 |
 ## Awards
 Max (Character Customization): 6,885  (Ranked 45)  
 Sum: 15,940 (Ranked 58)  

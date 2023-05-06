@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -216,6 +216,11 @@
       "Time": "2023-05-05T23:07:16.7445253+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-06T02:30:51.2566717+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -233,9 +238,9 @@
       "ID": "achievement_150Calamities",
       "SetID": "95dc8p",
       "Name": "Overwhelming Monstrosity",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_1petReceived",
@@ -281,9 +286,9 @@
       "ID": "achievement_beatGameOnWalkingLunch",
       "SetID": "95dc8p",
       "Name": "A Lowly Crust of Beef",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_catchAllElementalSpiritTypes",
@@ -291,7 +296,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -299,7 +304,7 @@
       "Name": "Passing Shadow",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -329,9 +334,9 @@
       "ID": "achievement_kill1000Drauven",
       "SetID": "95dc8p",
       "Name": "Drauvenslayers",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_kill1000Gorgons",
@@ -345,9 +350,9 @@
       "ID": "achievement_kill1000Monsters",
       "SetID": "95dc8p",
       "Name": "Peacemaker",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_kill1000Morthagi",
@@ -393,9 +398,9 @@
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_maimedHero",
@@ -403,7 +408,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_mythwalker",
@@ -417,9 +422,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -459,7 +464,7 @@
       "Name": "Everfading",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "completedStory_enduringWar",
@@ -475,7 +480,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "completedStory_monarchs",
@@ -491,15 +496,15 @@
       "Name": "A Story of Heroes",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 226
     },
     {
       "ID": "completedStory_vultureLord",
@@ -537,9 +542,9 @@
       "ID": "enduringWar_destroyEnduring",
       "SetID": "95dc8p",
       "Name": "War-Ender",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 23
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -617,9 +622,9 @@
       "ID": "theme_skeleton_terrify10Enemies",
       "SetID": "95dc8p",
       "Name": "I\u0027m Not Smiling",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -649,9 +654,9 @@
       "ID": "theme_vine_poison50Enemies",
       "SetID": "95dc8p",
       "Name": "A Temperamental Shrub",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theme_wolf_killEveryEnemyType",
@@ -674,15 +679,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-06T01:57:56.0523447+00:00",
+  "LastChanged_Achievements": "2023-05-06T02:30:51.2566709+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-06T01:52:59.4877175+00:00",
-  "LastUpdate_Achievements": "2023-05-06T01:57:56.0523938+00:00"
+  "LastUpdate_Ratings": "2023-05-06T02:26:05.4434176+00:00",
+  "LastUpdate_Achievements": "2023-05-06T02:30:51.2567543+00:00"
 }

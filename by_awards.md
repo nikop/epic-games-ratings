@@ -8,7 +8,7 @@
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 138,638 | 4.89 | 12 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,018 | 4.53 | 489 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 108,663 | 4.69 | 213 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,632 | 4.62 | 338 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,694 | 4.62 | 338 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,459 | 4.59 | 394 |
 | 11 | [VALORANT](games/v/valorant.md) | 51,297 | 4.54 | 477 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,534 | 4.50 | 531 |
@@ -35,7 +35,7 @@
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,103 | 4.45 | 600 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,261 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,039 | 4.60 | 378 |
-| 36 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 8,877 | 4.24 | 782 |
+| 36 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 8,946 | 4.24 | 782 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,841 | 4.78 | 101 |
 | 38 | [Control](games/c/control.md) | 8,259 | 4.60 | 378 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,880 | 4.76 | 114 |
@@ -98,7 +98,7 @@
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,259 | 4.10 | 853 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,235 | 4.79 | 91 |
 | 98 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,213 | 4.67 | 255 |
-| 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,187 | 4.17 | 828 |
+| 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,193 | 4.17 | 828 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,161 | 4.41 | 651 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,131 | 4.37 | 696 |
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,085 | 4.64 | 312 |

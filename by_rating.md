@@ -337,7 +337,7 @@
 | 328 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.63 | 0 | 490 |
 | 328 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,730 | 110 |
 | 328 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 490 |
-| 338 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,632 | 9 |
+| 338 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,694 | 9 |
 | 338 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 430 |
 | 338 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,214 | 121 |
 | 338 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 531 | 177 |
@@ -783,7 +783,7 @@
 | 777 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 490 |
 | 782 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 490 |
 | 782 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 440 |
-| 782 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 8,877 | 36 |
+| 782 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 8,946 | 36 |
 | 782 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 355 | 208 |
 | 782 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 490 |
 | 782 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 490 |
@@ -829,7 +829,7 @@
 | 822 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 490 |
 | 828 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 460 |
 | 828 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 490 |
-| 828 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,187 | 99 |
+| 828 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,193 | 99 |
 | 828 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 490 |
 | 828 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 490 |
 | 833 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 490 |

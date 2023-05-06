@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1799,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -163,6 +163,11 @@
       "Time": "2023-05-04T02:01:11.4094909+00:00",
       "NumProgressed": 1799,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-06T02:31:11.1185924+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -212,9 +217,9 @@
       "ID": "REUNION",
       "SetID": "1a29mp6",
       "Name": "Reunion",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 90
     },
     {
       "ID": "SLIDERS",
@@ -277,7 +282,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1799,
+      "Progressed": 1801,
       "Completed": 4
     }
   ],
@@ -285,8 +290,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-06T01:58:11.2526207+00:00",
+  "LastChanged_Achievements": "2023-05-06T02:31:11.1185916+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:25.9125028+00:00",
-  "LastUpdate_Ratings": "2023-05-06T01:51:51.0903561+00:00",
-  "LastUpdate_Achievements": "2023-05-06T01:58:11.2526416+00:00"
+  "LastUpdate_Ratings": "2023-05-06T02:24:29.8782025+00:00",
+  "LastUpdate_Achievements": "2023-05-06T02:31:11.1186031+00:00"
 }

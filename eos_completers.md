@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.68% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
@@ -27,7 +27,7 @@
 | 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 4.47% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 4.46% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |

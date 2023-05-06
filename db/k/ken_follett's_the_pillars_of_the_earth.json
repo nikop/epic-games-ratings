@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12192,
+  "EOS_Progressed": 12193,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1172,6 +1172,11 @@
       "Time": "2023-05-06T01:57:44.3146114+00:00",
       "NumProgressed": 12192,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-06T02:30:35.9339177+00:00",
+      "NumProgressed": 12193,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 41,
@@ -1223,7 +1228,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "tpote_achievement_15",
@@ -1263,7 +1268,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "tpote_achievement_2",
@@ -1271,7 +1276,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "tpote_achievement_20",
@@ -1295,7 +1300,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "tpote_achievement_23",
@@ -1335,7 +1340,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "tpote_achievement_28",
@@ -1359,7 +1364,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "tpote_achievement_30",
@@ -1487,7 +1492,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "tpote_achievement_8",
@@ -1510,15 +1515,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12192,
+      "Progressed": 12193,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-06T01:57:44.3146108+00:00",
+  "LastChanged_Achievements": "2023-05-06T02:30:35.933917+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-06T01:52:26.9448854+00:00",
-  "LastUpdate_Achievements": "2023-05-06T01:57:44.3146455+00:00"
+  "LastUpdate_Ratings": "2023-05-06T02:25:20.6650323+00:00",
+  "LastUpdate_Achievements": "2023-05-06T02:30:35.9339613+00:00"
 }

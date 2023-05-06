@@ -5287,18 +5287,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 166407,
       "NumberOfAwardsMax": 63632
+    },
+    {
+      "Time": "2023-05-06T02:22:37.4934781+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 166490,
+      "NumberOfAwardsMax": 63694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166407,
-  "NumberOfAwardsMax": 63632,
+  "NumberOfAwards": 166490,
+  "NumberOfAwardsMax": 63694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 63632
+      "Count": 63694
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5310,7 +5316,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7230
+      "Count": 7251
     },
     {
       "Text": "This game is Relaxing",
@@ -5367,9 +5373,9 @@
       "Count": 4645
     }
   ],
-  "EOS_Progressed": 798103,
+  "EOS_Progressed": 798104,
   "EOS_Completed": 1570,
-  "EOS_NewPlayers": 1660,
+  "EOS_NewPlayers": 1661,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6602,6 +6608,11 @@
       "Time": "2023-05-06T01:57:42.7085038+00:00",
       "NumProgressed": 798103,
       "NumCompleted": 1570
+    },
+    {
+      "Time": "2023-05-06T02:30:33.7971983+00:00",
+      "NumProgressed": 798104,
+      "NumCompleted": 1570
     }
   ],
   "TotalAchievements": 44,
@@ -6629,7 +6640,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119715
+      "UsersEstimate": 119716
     },
     {
       "ID": "Cyberjunkie",
@@ -6653,7 +6664,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103753
+      "UsersEstimate": 103754
     },
     {
       "ID": "Fortuneteller",
@@ -6685,7 +6696,7 @@
       "Name": "Gun Fu",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103753
+      "UsersEstimate": 103754
     },
     {
       "ID": "Gunslinger",
@@ -6701,7 +6712,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103753
+      "UsersEstimate": 103754
     },
     {
       "ID": "IAmMaxTac",
@@ -6709,7 +6720,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 103753
+      "UsersEstimate": 103754
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -6829,7 +6840,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 534729
+      "UsersEstimate": 534730
     },
     {
       "ID": "TheHermit",
@@ -6885,7 +6896,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127696
+      "UsersEstimate": 127697
     },
     {
       "ID": "ThisIsPacifica",
@@ -6917,7 +6928,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111734
+      "UsersEstimate": 111735
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -6933,7 +6944,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103753
+      "UsersEstimate": 103754
     },
     {
       "ID": "VForVendetta",
@@ -6964,15 +6975,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 798103,
+      "Progressed": 798104,
       "Completed": 1570
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-05T21:59:01.8807077+00:00",
-  "LastChanged_Achievements": "2023-05-06T01:57:42.7084991+00:00",
+  "LastChanged": "2023-05-06T02:22:37.4934778+00:00",
+  "LastChanged_Achievements": "2023-05-06T02:30:33.7971976+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-06T01:50:31.1870971+00:00",
-  "LastUpdate_Achievements": "2023-05-06T01:57:42.7085457+00:00"
+  "LastUpdate_Ratings": "2023-05-06T02:22:37.4934788+00:00",
+  "LastUpdate_Achievements": "2023-05-06T02:30:33.7972584+00:00"
 }

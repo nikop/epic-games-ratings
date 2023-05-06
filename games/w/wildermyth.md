@@ -6,14 +6,14 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 28.00% | ~316 |
+| The Cost of Heroism | 28.00% | ~317 |
 | Me and My Familiar | 26.00% | ~294 |
 | This Too Shall Pass | 22.00% | ~249 |
-| Passing Shadow | 21.00% | ~237 |
-| Cutthroat Competitors | 21.00% | ~237 |
-| How Romantic! | 19.00% | ~215 |
-| Daybreak | 19.00% | ~215 |
-| Gotta Ca... Must Collect All of Them | 18.00% | ~203 |
+| Cutthroat Competitors | 22.00% | ~249 |
+| Passing Shadow | 21.00% | ~238 |
+| How Romantic! | 20.00% | ~226 |
+| Daybreak | 20.00% | ~226 |
+| Gotta Ca... Must Collect All of Them | 18.00% | ~204 |
 | Completing the Look | 10.00% | ~113 |
 | War Endured | 10.00% | ~113 |
 | A Mythic Menagerie | 9.00% | ~102 |
@@ -23,9 +23,9 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 6.00% | ~68 |
 | Chain Reaction | 6.00% | ~68 |
 | Echoes Die | 6.00% | ~68 |
-| Everfading | 5.00% | ~56 |
-| Another Tale to Tell | 5.00% | ~56 |
-| A Story of Heroes | 5.00% | ~56 |
+| Everfading | 5.00% | ~57 |
+| Another Tale to Tell | 5.00% | ~57 |
+| A Story of Heroes | 5.00% | ~57 |
 | Let Me Get My Chisel | 4.00% | ~45 |
 | Plague Doctor | 4.00% | ~45 |
 | All My Birds, Safely Home | 4.00% | ~45 |
@@ -40,8 +40,10 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 2.00% | ~23 |
 | The Power of Friendship | 2.00% | ~23 |
 | Empty the Caves | 2.00% | ~23 |
+| Drauvenslayers | 2.00% | ~23 |
 | Bonebreakers | 2.00% | ~23 |
 | No More Nightmares | 2.00% | ~23 |
+| War-Ender | 2.00% | ~23 |
 | Bears are Scary | 2.00% | ~23 |
 | Fight Like a Bird | 2.00% | ~23 |
 | Grillmaster | 2.00% | ~23 |
@@ -50,20 +52,18 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 2.00% | ~23 |
 | Tempest | 2.00% | ~23 |
 | Lochias's Hunger | 2.00% | ~23 |
-| Drauvenslayers | 1.00% | ~11 |
 | Back into the Sea | 1.00% | ~11 |
-| War-Ender | 1.00% | ~11 |
 | Solid as the Hills | 1.00% | ~11 |
 | Symbiosis | 1.00% | ~11 |
 | Thwack! | 1.00% | ~11 |
-| I'm Not Smiling | 0.70% | ~8 |
-| A Temperamental Shrub | 0.70% | ~8 |
-| A Lowly Crust of Beef | 0.60% | ~7 |
+| I'm Not Smiling | 0.80% | ~9 |
+| A Temperamental Shrub | 0.80% | ~9 |
+| A Lowly Crust of Beef | 0.70% | ~8 |
 | We Call That Mortificient! | 0.50% | ~6 |
-| Overwhelming Monstrosity | 0.30% | ~3 |
-| Peacemaker | 0.30% | ~3 |
+| Overwhelming Monstrosity | 0.40% | ~5 |
+| Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,130 (Ranked 155)  
+Progressed: 1,131 (Ranked 155)  
 Completed: 3 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 3 (0.27%) (Ranked 123)
 | 2023-05-02 | 1,120 | 3 |
 | 2023-05-04 | 1,121 | 3 |
 | 2023-05-05 | 1,130 | 3 |
+| 2023-05-06 | 1,131 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 462)  

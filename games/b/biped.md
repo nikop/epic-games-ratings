@@ -7,7 +7,7 @@
 | First Step | 47.00% | ~480 |
 | Dense Forest | 38.00% | ~388 |
 | Cactus Vally | 29.00% | ~296 |
-| Rainy Ruins | 17.00% | ~174 |
+| Rainy Ruins | 18.00% | ~184 |
 | Telepathic | 12.00% | ~123 |
 | Snowy Peak | 11.00% | ~112 |
 | Speed walkers | 10.00% | ~102 |

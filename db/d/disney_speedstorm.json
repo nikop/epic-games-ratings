@@ -1002,9 +1002,9 @@
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "18",
@@ -1136,8 +1136,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T01:58:06.1342659+00:00",
+  "LastChanged_Achievements": "2023-05-06T02:31:04.3004399+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T01:51:30.4115215+00:00",
-  "LastUpdate_Achievements": "2023-05-06T01:58:06.1342886+00:00"
+  "LastUpdate_Ratings": "2023-05-06T02:24:00.9590613+00:00",
+  "LastUpdate_Achievements": "2023-05-06T02:31:04.300478+00:00"
 }

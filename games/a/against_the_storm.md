@@ -7,14 +7,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Marshlands | 0.70% | ~103 |
+| No Deaths | 0.70% | ~103 |
 | First Real Expedition | 0.60% | ~88 |
 | Overcoming Difficulty | 0.60% | ~88 |
+| Fertile Meadows | 0.60% | ~88 |
 | Coral Forest | 0.60% | ~88 |
 | The Scarlet Orchard | 0.60% | ~88 |
-| No Deaths | 0.60% | ~88 |
 | Bandit Camp | 0.50% | ~73 |
 | Barren Lands | 0.50% | ~73 |
-| Fertile Meadows | 0.50% | ~73 |
 | Taking Action | 0.50% | ~73 |
 | Like a Machine | 0.50% | ~73 |
 | Homesick | 0.40% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,658 (Ranked 97)  
+Progressed: 14,659 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
 | 2023-05-05 | 14,657 | 30 |
-| 2023-05-06 | 14,658 | 30 |
+| 2023-05-06 | 14,659 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 191)  
 Sum: 3,015 (Ranked 149)  
