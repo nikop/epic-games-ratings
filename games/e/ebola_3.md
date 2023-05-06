@@ -7,7 +7,7 @@
 | Fright ✔ | 53.00% | ~68 |
 | Chest ✔ | 51.00% | ~66 |
 | Inventory ✔ | 50.00% | ~64 |
-| Police officers ✔ | 23.00% | ~30 |
+| Police officers ✔ | 24.00% | ~31 |
 | Mutation ✔ | 22.00% | ~28 |
 | Doberman ✔ | 9.00% | ~12 |
 | Weapon ✔ | 6.00% | ~8 |

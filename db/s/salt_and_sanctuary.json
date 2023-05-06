@@ -2145,9 +2145,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 519937,
+  "EOS_Progressed": 519938,
   "EOS_Completed": 1397,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -3385,6 +3385,11 @@
       "Time": "2023-05-06T03:06:54.5966754+00:00",
       "NumProgressed": 519937,
       "NumCompleted": 1397
+    },
+    {
+      "Time": "2023-05-06T04:06:46.7191568+00:00",
+      "NumProgressed": 519938,
+      "NumCompleted": 1397
     }
   ],
   "TotalAchievements": 37,
@@ -3452,7 +3457,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 431548
+      "UsersEstimate": 431549
     },
     {
       "ID": "HONED",
@@ -3460,7 +3465,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -3468,7 +3473,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -3540,7 +3545,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "THE_DOME",
@@ -3604,7 +3609,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -3691,15 +3696,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 519937,
+      "Progressed": 519938,
       "Completed": 1397
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-04T09:59:20.3288117+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:06:54.5966752+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:46.7191562+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:29.1697974+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:00:37.3697517+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:06:54.5967024+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:00:18.2373844+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:46.7192182+00:00"
 }

@@ -7,11 +7,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 12.00% | ~1,038 |
-| A Spark | 9.00% | ~778 |
+| A Spark | 9.00% | ~779 |
 | Burning City | 8.00% | ~692 |
+| Banner over the Citadel | 7.00% | ~606 |
 | Mythic Choices | 7.00% | ~606 |
 | Defender's Heart | 7.00% | ~606 |
-| Banner over the Citadel | 6.00% | ~519 |
 | Queen's Gratitude | 6.00% | ~519 |
 | Fifth Crusade | 4.00% | ~346 |
 | Embrace of the Abyss | 3.00% | ~260 |
@@ -31,13 +31,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Get the Toad | 2.00% | ~173 |
 | The Lady of the Forest | 2.00% | ~149 |
 | Beware Still Water | 2.00% | ~149 |
-| Heart of the Fallen Land | 1.00% | ~86 |
-| Path of the Trickster | 1.00% | ~86 |
-| Path of the Lich | 1.00% | ~86 |
-| Heroic Victory | 1.00% | ~86 |
-| Capitulation Is Now Moot | 1.00% | ~86 |
-| Core of the Riddle | 1.00% | ~86 |
-| Your First Big Enemy | 1.00% | ~86 |
+| Heart of the Fallen Land | 1.00% | ~87 |
+| Path of the Trickster | 1.00% | ~87 |
+| Path of the Lich | 1.00% | ~87 |
+| Heroic Victory | 1.00% | ~87 |
+| Capitulation Is Now Moot | 1.00% | ~87 |
+| Core of the Riddle | 1.00% | ~87 |
+| Your First Big Enemy | 1.00% | ~87 |
 | Stay Underground | 1.00% | ~74 |
 | Hanged Man's Notes | 1.00% | ~74 |
 | Sarkoris Will Be Green | 1.00% | ~74 |
@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 0.50% | ~43 |
 | Path of the Dragon | 0.50% | ~43 |
 | Path of the Legend | 0.50% | ~43 |
+| Strategic Victory | 0.50% | ~43 |
 | Playful Mood | 0.50% | ~43 |
 | Not the Last Sarkorian | 0.50% | ~37 |
-| Strategic Victory | 0.40% | ~35 |
 | Dreadful Dragon | 0.40% | ~35 |
 | Truly Profane Gift | 0.40% | ~35 |
 | Masterful Charge | 0.30% | ~26 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,650 (Ranked 107)  
+Progressed: 8,651 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 8,607 | 0 |
 | 2023-05-04 | 8,627 | 0 |
 | 2023-05-05 | 8,646 | 0 |
-| 2023-05-06 | 8,650 | 0 |
+| 2023-05-06 | 8,651 | 0 |
 ## Awards
 Max (Character Customization): 1,625  (Ranked 111)  
 Sum: 6,585 (Ranked 108)  

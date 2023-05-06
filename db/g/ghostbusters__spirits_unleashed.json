@@ -876,9 +876,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21544,
+  "EOS_Progressed": 21545,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1896,6 +1896,11 @@
       "Time": "2023-05-06T03:06:49.2640687+00:00",
       "NumProgressed": 21544,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-06T04:06:42.0653638+00:00",
+      "NumProgressed": 21545,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -1947,7 +1952,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9048
+      "UsersEstimate": 9049
     },
     {
       "ID": "Collect_Spores",
@@ -1971,7 +1976,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11418
+      "UsersEstimate": 11419
     },
     {
       "ID": "Daily_Dose",
@@ -2043,7 +2048,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 11849
+      "UsersEstimate": 11850
     },
     {
       "ID": "GB_In_Training",
@@ -2067,7 +2072,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6463
+      "UsersEstimate": 6464
     },
     {
       "ID": "Legions",
@@ -2075,7 +2080,7 @@
       "Name": "Legions",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "Liability",
@@ -2137,9 +2142,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4524
     },
     {
       "ID": "Rift_Seeker",
@@ -2155,7 +2160,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5601
+      "UsersEstimate": 5602
     },
     {
       "ID": "Rivalry",
@@ -2179,7 +2184,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "Skilled",
@@ -2211,7 +2216,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18743
+      "UsersEstimate": 18744
     },
     {
       "ID": "Summoner",
@@ -2251,7 +2256,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "Therapeutic",
@@ -2267,7 +2272,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9479
+      "UsersEstimate": 9480
     },
     {
       "ID": "Tobins_Prodigy",
@@ -2275,7 +2280,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "Ultimate_Defense",
@@ -2314,7 +2319,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21544,
+      "Progressed": 21545,
       "Completed": 40
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-05T18:00:44.1786598+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:06:49.2640684+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:42.0653635+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:00:11.3998237+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:06:49.2641092+00:00"
+  "LastUpdate_Ratings": "2023-05-06T03:59:55.798124+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:42.0654122+00:00"
 }

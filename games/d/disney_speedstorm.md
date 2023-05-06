@@ -24,7 +24,7 @@
 | ACE TRICKSTER | 3.00% | ~70 |
 | EXPERIENCED CREW | 1.00% | ~23 |
 | FRIENDLY | 1.00% | ~23 |
-| MASTER | 0.90% | ~21 |
+| MASTER | 1.00% | ~23 |
 | BE OUR GUEST | 0.80% | ~19 |
 | FRAMED! | 0.50% | ~12 |
 | PERFECTLY POISED | 0.10% | ~2 |

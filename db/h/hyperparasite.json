@@ -4,7 +4,7 @@
   "ProductSlug": "hyperparasite",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.1058969+00:00",
   "LastChanged": "2023-03-31T05:57:13.105897+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:29.5234939+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:01:49.6849477+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:06:06.1222181+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:01:18.3615434+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:04.5898256+00:00"
 }

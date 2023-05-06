@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -224,17 +224,17 @@
       "ID": "ball_galore",
       "SetID": "jig50d",
       "Name": "Ball Galore",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ball_protector",
       "SetID": "jig50d",
       "Name": "Ball Protector",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "bullet_hell",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:07:04.5226108+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:55.2521723+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:01:19.6636106+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:07:04.5226284+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:00:53.2536839+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:55.2521976+00:00"
 }

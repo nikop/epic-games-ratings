@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118006,
+  "EOS_Progressed": 118010,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2159,6 +2159,11 @@
       "Time": "2023-05-06T03:06:50.7935639+00:00",
       "NumProgressed": 118006,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-06T04:06:43.5008661+00:00",
+      "NumProgressed": 118010,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 40,
@@ -2202,7 +2207,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21241
+      "UsersEstimate": 21242
     },
     {
       "ID": "ACH_COP_BAD",
@@ -2218,7 +2223,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9440
+      "UsersEstimate": 9441
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -2226,7 +2231,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28321
+      "UsersEstimate": 28322
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2234,7 +2239,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9440
+      "UsersEstimate": 9441
     },
     {
       "ID": "ACH_COP_DORK",
@@ -2250,7 +2255,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33042
+      "UsersEstimate": 33043
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2274,7 +2279,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18881
+      "UsersEstimate": 18882
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -2282,7 +2287,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23601
+      "UsersEstimate": 23602
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2306,7 +2311,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17701
+      "UsersEstimate": 17702
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -2489,15 +2494,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118006,
+      "Progressed": 118010,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:06:50.7935636+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:43.5008655+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:00:20.2463147+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:06:50.7935934+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:00:03.2768674+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:43.5009292+00:00"
 }

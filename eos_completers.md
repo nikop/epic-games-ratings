@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -27,7 +27,7 @@
 | 25 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 4.43% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 4.38% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
@@ -135,9 +135,9 @@
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
 | 134 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
-| 136 | [Dead Island 2](games/d/dead_island_2.md) | 0.16% |
-| 136 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 135 | [Dead Island 2](games/d/dead_island_2.md) | 0.17% |
+| 137 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 137 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 139 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 139 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 139 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |

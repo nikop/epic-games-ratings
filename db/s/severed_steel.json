@@ -182,7 +182,7 @@
       "Count": 167
     }
   ],
-  "EOS_Progressed": 400692,
+  "EOS_Progressed": 400707,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 2857,
   "EOS_NewCompleters": 1,
@@ -1452,6 +1452,11 @@
       "Time": "2023-05-06T03:06:57.7762661+00:00",
       "NumProgressed": 400692,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-06T04:06:49.5403911+00:00",
+      "NumProgressed": 400707,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 52,
@@ -1471,7 +1476,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40069
+      "UsersEstimate": 40071
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -1487,7 +1492,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36062
+      "UsersEstimate": 36064
     },
     {
       "ID": "BIGUPS",
@@ -1527,7 +1532,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28048
+      "UsersEstimate": 28049
     },
     {
       "ID": "CHAPTER2",
@@ -1671,7 +1676,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "FRESH",
@@ -1839,7 +1844,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28048
+      "UsersEstimate": 28049
     },
     {
       "ID": "SOUL",
@@ -1878,7 +1883,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 400692,
+      "Progressed": 400707,
       "Completed": 29
     }
   ],
@@ -1886,8 +1891,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-03T01:57:02.3850436+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:06:57.7762659+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:49.5403904+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:00:47.9008237+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:06:57.7763043+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:00:26.9402112+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:49.5404766+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.76,
   "NumberOfRatings": 1354,
@@ -2244,9 +2244,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8650,
+  "EOS_Progressed": 8651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2869,6 +2869,11 @@
       "Time": "2023-05-06T01:58:06.4546757+00:00",
       "NumProgressed": 8650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T04:06:40.6458377+00:00",
+      "NumProgressed": 8651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -2894,9 +2899,9 @@
       "ID": "03_BannerOverCitadel",
       "SetID": "989of5o",
       "Name": "Banner over the Citadel",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 606
     },
     {
       "ID": "04_FithCrusade",
@@ -2920,7 +2925,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "07_FinalThreshold",
@@ -2968,7 +2973,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "13_PathOfLich",
@@ -2976,7 +2981,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "14_PathOfSwarm",
@@ -3094,9 +3099,9 @@
       "ID": "29_StrategicVictory",
       "SetID": "989of5o",
       "Name": "Strategic Victory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 43
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -3104,7 +3109,7 @@
       "Name": "Heroic Victory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "31_DivideAndRule",
@@ -3136,7 +3141,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -3152,7 +3157,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -3160,7 +3165,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -3248,7 +3253,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "49_Flame",
@@ -3807,21 +3812,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7432,
+      "Progressed": 7433,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8650,
+      "Progressed": 8651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-06T01:51:01.4157435+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:06:47.4439311+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:40.6458372+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-06T02:59:34.7221909+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:06:47.4440645+00:00"
+  "LastUpdate_Ratings": "2023-05-06T03:59:26.0980357+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:40.6460042+00:00"
 }

@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220349,
+  "EOS_Progressed": 220352,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1395,6 +1395,11 @@
       "Time": "2023-05-06T03:07:02.0888055+00:00",
       "NumProgressed": 220349,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-06T04:06:53.0332059+00:00",
+      "NumProgressed": 220352,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1470,7 +1475,7 @@
       "Name": "Once upon a time...",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 77122
+      "UsersEstimate": 77123
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -1542,7 +1547,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -1550,7 +1555,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 74919
+      "UsersEstimate": 74920
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -1574,7 +1579,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6610
+      "UsersEstimate": 6611
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -1614,7 +1619,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37459
+      "UsersEstimate": 37460
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -1622,14 +1627,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 220349,
+      "Progressed": 220352,
       "Completed": 2
     }
   ],
@@ -1637,8 +1642,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-05-01T03:59:55.6951635+00:00",
-  "LastChanged_Achievements": "2023-05-06T03:07:02.0888053+00:00",
+  "LastChanged_Achievements": "2023-05-06T04:06:53.0332052+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:55.457049+00:00",
-  "LastUpdate_Ratings": "2023-05-06T03:01:09.1521111+00:00",
-  "LastUpdate_Achievements": "2023-05-06T03:07:02.0888273+00:00"
+  "LastUpdate_Ratings": "2023-05-06T04:00:42.8896683+00:00",
+  "LastUpdate_Achievements": "2023-05-06T04:06:53.0332345+00:00"
 }

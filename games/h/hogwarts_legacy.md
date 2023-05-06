@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 103)
 | Demiguise Dread | 0.70% | ~1,860 |
 | A Forte for Achievement | 0.70% | ~1,860 |
 | Savvy Spender | 0.60% | ~1,594 |
-| Merlin's Beard! | 0.50% | ~1,328 |
+| Merlin's Beard! | 0.50% | ~1,329 |
 | The Nature of the Beast | 0.40% | ~1,063 |
 | Spilled Milk | 0.40% | ~1,063 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,696 (Ranked 38)  
+Progressed: 265,703 (Ranked 38)  
 Completed: 348 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,14 +67,14 @@ Completed: 348 (0.13%) (Ranked 144)
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
-| 2023-05-06 | 265,696 | 348 |
+| 2023-05-06 | 265,703 | 348 |
 ## Awards
-Max (Character Customization): 18,393  (Ranked 18)  
-Sum: 33,532 (Ranked 34)  
+Max (Character Customization): 18,430  (Ranked 18)  
+Sum: 33,569 (Ranked 34)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,393 |
+| This game has Inclusive Character Customization | 18,430 |
 | This game has Great Boss Battles | 8,586 |
 | This game is Extremely Fun | 742 |
 | This game is Great for Beginners | 720 |
@@ -132,4 +132,4 @@ Diff (max vs sum): -16
 | 2023-05-03 | 4.77 | 18,328 | 33,362 |
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
-| 2023-05-06 | 4.77 | 18,393 | 33,532 |
+| 2023-05-06 | 4.77 | 18,430 | 33,569 |

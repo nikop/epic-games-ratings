@@ -16,9 +16,12 @@
 | Task Master | 20.00% | ~2 |
 | A Little Eccentric | 10.00% | ~1 |
 | An Acquired Taste | 10.00% | ~1 |
+| A Real Headache | 10.00% | ~1 |
+| A Total Riot | 10.00% | ~1 |
 | A Light in the Dark | 10.00% | ~1 |
 | The Guardian | 10.00% | ~1 |
 | Blood Begets Blood | 10.00% | ~1 |
+| Busybody | 10.00% | ~1 |
 | Endgame | 10.00% | ~1 |
 | Everyone Needs a Break | 10.00% | ~1 |
 | The Philosopher | 10.00% | ~1 |
@@ -29,9 +32,6 @@
 | They Flock to Him | 10.00% | ~1 |
 | The Counsellor | 10.00% | ~1 |
 | Zonk! | 10.00% | ~1 |
-| A Real Headache | 0.00% | ~0 |
-| A Total Riot | 0.00% | ~0 |
-| Busybody | 0.00% | ~0 |
 | Couldn't Have Planned It Better Myself | 0.00% | ~0 |
 | Double Agent | 0.00% | ~0 |
 | Full Coverage | 0.00% | ~0 |

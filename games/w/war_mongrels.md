@@ -7,20 +7,20 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 60.00% | ~145 |
-| Cowardice | 54.00% | ~130 |
+| Cowardice | 54.00% | ~131 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~123 |
-| Eat Lead! | 49.00% | ~118 |
-| Prospector | 45.00% | ~108 |
-| Here Comes the Boom | 45.00% | ~108 |
-| Treasure Hunter | 44.00% | ~106 |
-| The Breaking Point | 39.00% | ~94 |
+| Eat Lead! | 49.00% | ~119 |
+| Prospector | 45.00% | ~109 |
+| Here Comes the Boom | 45.00% | ~109 |
+| Treasure Hunter | 43.00% | ~104 |
+| The Breaking Point | 38.00% | ~92 |
 | Missing in Action | 38.00% | ~92 |
 | Sniper Wolf | 38.00% | ~92 |
 | The Motivation | 36.00% | ~87 |
 | Heroism | 33.00% | ~80 |
 | King of Knives | 33.00% | ~80 |
 | Collectibles of Chapter I | 31.00% | ~75 |
-| Consequences | 30.00% | ~72 |
+| Consequences | 30.00% | ~73 |
 | Opportunities | 29.00% | ~70 |
 | The Horror | 27.00% | ~65 |
 | Collectibles of Chapter II | 24.00% | ~58 |
@@ -40,8 +40,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VII | 8.00% | ~19 |
 | Collectibles of Chapter XII | 7.00% | ~17 |
 | Such is War! | 7.00% | ~17 |
-| Piece of Cake | 6.00% | ~14 |
-| Tiptoe Around | 6.00% | ~14 |
+| Piece of Cake | 6.00% | ~15 |
+| Tiptoe Around | 6.00% | ~15 |
 | Collectibles of Chapter VIII | 5.00% | ~12 |
 | Collectibles of Chapter X | 5.00% | ~12 |
 | Collectibles of Chapter XI | 5.00% | ~12 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 216)  
+Progressed: 242 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 237 | 0 |
 | 2023-05-04 | 239 | 0 |
 | 2023-05-05 | 241 | 0 |
+| 2023-05-06 | 242 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

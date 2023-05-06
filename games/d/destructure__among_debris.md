@@ -11,11 +11,11 @@
 | You Are Actually Supposed To Use Those | 13.00% | ~5 |
 | I Prefer Jazz Fusion | 10.00% | ~4 |
 | Avaricerite | 8.00% | ~3 |
+| Ball Galore | 5.00% | ~2 |
+| Ball Protector | 5.00% | ~2 |
 | Easy Victory | 5.00% | ~2 |
 | Master Destructor | 5.00% | ~2 |
 | Back From The Dead | 3.00% | ~1 |
-| Ball Galore | 3.00% | ~1 |
-| Ball Protector | 3.00% | ~1 |
 | Bullet Hell | 3.00% | ~1 |
 | Collector | 3.00% | ~1 |
 | Detoxed | 3.00% | ~1 |
