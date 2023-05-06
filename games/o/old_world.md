@@ -79,9 +79,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 23.00% | ~2,488 |
 | Legalism | 23.00% | ~2,488 |
 | Hittite Iron | 22.00% | ~2,380 |
+| Via Recta Souk | 22.00% | ~2,380 |
 | Mighty | 21.00% | ~2,272 |
 | Hagia Sophia | 21.00% | ~2,272 |
-| Via Recta Souk | 21.00% | ~2,272 |
 | Dualism | 21.00% | ~2,272 |
 | Legionary | 21.00% | ~2,272 |
 | Statesmen | 20.00% | ~2,163 |
@@ -293,7 +293,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,817 (Ranked 103)  
-Completed: 2 (0.02%) (Ranked 175)  
+Completed: 2 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

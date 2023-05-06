@@ -3,8 +3,8 @@
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -50,9 +50,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "11",
@@ -203,8 +203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:22.2714675+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:30.302005+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.1914898+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:00:00.6426503+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:22.2714929+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:00:50.3094812+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:30.3020253+00:00"
 }

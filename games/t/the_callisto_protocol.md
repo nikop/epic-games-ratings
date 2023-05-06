@@ -40,7 +40,7 @@ Rating: 4.18 (Ranked 822)
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,539 (Ranked 100)  
-Completed: 47 (0.37%) (Ranked 106)  
+Completed: 47 (0.37%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

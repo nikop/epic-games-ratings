@@ -14,8 +14,8 @@ Rating: 4.44 (Ranked 621)
 | Resourceful | 23.00% | ~158 |
 | Taking it back | 23.00% | ~158 |
 | Organ Grinder | 21.00% | ~144 |
+| Sharpshooter | 21.00% | ~144 |
 | Target America | 21.00% | ~144 |
-| Sharpshooter | 20.00% | ~137 |
 | As Quiet as a Mouse | 19.00% | ~130 |
 | The Kraken Sleeps | 19.00% | ~130 |
 | Liberté | 17.00% | ~116 |
@@ -75,7 +75,7 @@ Rating: 4.44 (Ranked 621)
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 685 (Ranked 175)  
-Completed: 2 (0.29%) (Ranked 119)  
+Completed: 2 (0.29%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

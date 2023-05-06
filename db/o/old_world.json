@@ -6,9 +6,9 @@
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.65,
   "NumberOfRatings": 1307,
   "RatingHistory": [
@@ -1397,7 +1397,7 @@
   ],
   "EOS_Progressed": 10817,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3791,9 +3791,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2380
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -4613,8 +4613,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-05-06T11:59:22.9271225+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:14.1298806+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:19.0259377+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.7726608+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:59:03.9666924+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:14.1306178+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:59:23.3928717+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:19.0268204+00:00"
 }

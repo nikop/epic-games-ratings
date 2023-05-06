@@ -13,9 +13,9 @@ Number of Ratings: 266  (23.09.2022)
 | Tapped! | 36.00% | ~834 |
 | Eureka | 32.00% | ~741 |
 | Scourge Slayer | 25.00% | ~579 |
+| Home Sweet Home | 23.00% | ~533 |
 | Science, Troglodyte! | 23.00% | ~533 |
 | Exceptional Skill | 22.00% | ~510 |
-| Home Sweet Home | 22.00% | ~510 |
 | Encyclopedic! | 20.00% | ~463 |
 | A Fortress Toppled! | 16.00% | ~371 |
 | Apex Predator | 16.00% | ~371 |
@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,316 (Ranked 137)  
-Completed: 1 (0.04%) (Ranked 167)  
+Completed: 1 (0.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

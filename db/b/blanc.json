@@ -3,8 +3,8 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1804,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -173,6 +173,11 @@
       "Time": "2023-05-06T16:07:38.8307776+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-06T18:07:31.5820374+00:00",
+      "NumProgressed": 1804,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -248,7 +253,7 @@
       "Name": "Starting as a duo",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -280,14 +285,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1804,
       "Completed": 4
     }
   ],
@@ -295,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:23.3159501+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:31.5820367+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:25.9125028+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:00:09.7401294+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:23.3159609+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:01:03.5193101+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:31.5820529+00:00"
 }

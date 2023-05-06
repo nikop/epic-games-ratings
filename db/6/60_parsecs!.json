@@ -3,8 +3,8 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 584,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -126,9 +126,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_DontPanic",
@@ -423,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:05:55.8206657+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:06:55.1769217+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:08.8405232+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:59:53.1528137+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:05:55.8206975+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:00:39.6594961+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:06:55.176959+00:00"
 }

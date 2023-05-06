@@ -3,8 +3,8 @@
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -170,9 +170,9 @@
       "ID": "MC_complete",
       "SetID": "3b8n56h",
       "Name": "The Steed",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MGR_complete",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:05.3792704+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:07.5642048+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:38.9411894+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:58:28.875948+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:05.3793017+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:58:30.981961+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:07.5642385+00:00"
 }

@@ -20,7 +20,7 @@ Rating: 4.50 (Ranked 530)
 | Human Antidote | 2.00% | ~20 |
 | Albino Bloodsucker | 1.00% | ~10 |
 | Death of the Author | 1.00% | ~10 |
-| Memoirs of a Nibbler | 0.70% | ~7 |
+| Memoirs of a Nibbler | 0.80% | ~8 |
 | Sixth Sense | 0.70% | ~7 |
 | KGB Bunker | 0.60% | ~6 |
 | Rising Star | 0.60% | ~6 |
@@ -39,7 +39,7 @@ Rating: 4.50 (Ranked 530)
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,007 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 191)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

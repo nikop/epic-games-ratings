@@ -16,6 +16,7 @@
 | Ball Protector | 5.00% | ~2 |
 | Easy Victory | 5.00% | ~2 |
 | Master Destructor | 5.00% | ~2 |
+| Untouchable | 5.00% | ~2 |
 | Ball Collector | 2.00% | ~1 |
 | Bullet Hell | 2.00% | ~1 |
 | Collector | 2.00% | ~1 |
@@ -33,11 +34,10 @@
 | Total Walrus | 2.00% | ~1 |
 | True Victory | 2.00% | ~1 |
 | Victory That Is Even More True | 2.00% | ~1 |
-| Untouchable | 2.00% | ~1 |
-| What Even Are You? | 0.00% | ~0 |
+| What Even Are You? | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 277)  
-Completed: 0 (0.00%) (Ranked 191)  
+Completed: 1 (2.44%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28 | 0 |
 | 2023-05-04 | 36 | 0 |
 | 2023-05-05 | 39 | 0 |
-| 2023-05-06 | 41 | 0 |
+| 2023-05-06 | 41 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 782)
 | Three Birds With One Stone | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,540 (Ranked 148)  
-Completed: 10 (0.65%) (Ranked 93)  
+Completed: 10 (0.65%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

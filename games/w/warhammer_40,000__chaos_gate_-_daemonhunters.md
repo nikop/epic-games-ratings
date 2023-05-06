@@ -44,8 +44,8 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 1.00% | ~26 |
 | Hands-On Research | 1.00% | ~26 |
 | Only in Death | 1.00% | ~26 |
+| Clean Slate | 0.90% | ~23 |
 | Exercise in Restraint | 0.90% | ~23 |
-| Clean Slate | 0.80% | ~21 |
 | The Flesh is Weak | 0.50% | ~13 |
 | Warp Flickers | 0.50% | ~13 |
 | True Mastery | 0.50% | ~13 |
@@ -67,7 +67,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,580 (Ranked 134)  
-Completed: 0 (0.00%) (Ranked 191)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

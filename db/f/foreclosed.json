@@ -3,8 +3,8 @@
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.74,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -37,6 +37,11 @@
     {
       "Time": "2023-05-02T17:04:35.2362968+00:00",
       "NumProgressed": 73,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-06T18:07:28.7436239+00:00",
+      "NumProgressed": 74,
       "NumCompleted": 2
     }
   ],
@@ -103,15 +108,15 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -119,7 +124,7 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -127,7 +132,7 @@
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -167,7 +172,7 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -175,7 +180,7 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -215,7 +220,7 @@
       "ID": "TelekinesisThrow_0",
       "SetID": "9e3d06k",
       "Name": "Mind Over Matter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -231,7 +236,7 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 21
     }
@@ -240,7 +245,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 2
     }
   ],
@@ -248,8 +253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:21.3364752+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:28.7436235+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.4238034+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:59:55.3227909+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:21.3364922+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:00:43.1299889+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:28.7436473+00:00"
 }

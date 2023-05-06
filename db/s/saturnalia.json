@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.24,
@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63183,
+  "EOS_Progressed": 63184,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1208,6 +1208,11 @@
       "Time": "2023-05-06T17:05:57.7652656+00:00",
       "NumProgressed": 63183,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-06T18:06:57.313075+00:00",
+      "NumProgressed": 63184,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -1227,7 +1232,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -1371,14 +1376,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63183,
+      "Progressed": 63184,
       "Completed": 10
     }
   ],
@@ -1386,8 +1391,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:05:57.7652651+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:06:57.3130744+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.5865909+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:58:41.2253422+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:05:57.7652871+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:58:50.91717+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:06:57.3131075+00:00"
 }

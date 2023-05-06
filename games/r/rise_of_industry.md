@@ -5,23 +5,23 @@ Rating: 4.23 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~310,619 |
-| Well educated | 37.00% | ~244,530 |
-| City Planner | 19.00% | ~125,569 |
-| Deforester | 16.00% | ~105,743 |
-| Big Hauling | 15.00% | ~99,134 |
-| Exporter | 13.00% | ~85,916 |
-| Apprentice Manufacturer | 12.00% | ~79,307 |
-| I would drive 500 tiles... | 11.00% | ~72,698 |
-| Landscaper | 11.00% | ~72,698 |
-| Railwayman | 7.00% | ~46,262 |
-| Penniless | 6.00% | ~39,654 |
-| Massive Gains | 6.00% | ~39,654 |
-| Engineer | 2.00% | ~13,218 |
-| Salesman | 2.00% | ~13,218 |
-| High Flyer | 2.00% | ~13,218 |
-| Captain | 0.70% | ~4,626 |
-| Billionaire | 0.60% | ~3,965 |
+| Entrepreneur | 47.00% | ~310,651 |
+| Well educated | 37.00% | ~244,555 |
+| City Planner | 19.00% | ~125,582 |
+| Deforester | 16.00% | ~105,754 |
+| Big Hauling | 15.00% | ~99,144 |
+| Exporter | 13.00% | ~85,925 |
+| Apprentice Manufacturer | 12.00% | ~79,315 |
+| I would drive 500 tiles... | 11.00% | ~72,706 |
+| Landscaper | 11.00% | ~72,706 |
+| Railwayman | 7.00% | ~46,267 |
+| Penniless | 6.00% | ~39,658 |
+| Massive Gains | 6.00% | ~39,658 |
+| Engineer | 2.00% | ~13,219 |
+| Salesman | 2.00% | ~13,219 |
+| High Flyer | 2.00% | ~13,219 |
+| Captain | 0.70% | ~4,627 |
+| Billionaire | 0.60% | ~3,966 |
 | Vroom Vroom | 0.40% | ~2,644 |
 | Excavator | 0.30% | ~1,983 |
 | Loan Ranger | 0.30% | ~1,983 |
@@ -33,8 +33,8 @@ Rating: 4.23 (Ranked 792)
 | Master Builder | 0.10% | ~661 |
 | Hard working | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,892 (Ranked 17)  
-Completed: 1 (0.00%) (Ranked 191)  
+Progressed: 660,960 (Ranked 17)  
+Completed: 1 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-03 | 658,621 | 1 |
 | 2023-05-04 | 659,355 | 1 |
 | 2023-05-05 | 660,180 | 1 |
-| 2023-05-06 | 660,892 | 1 |
+| 2023-05-06 | 660,960 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

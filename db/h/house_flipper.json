@@ -6,7 +6,7 @@
   "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.7,
@@ -1268,18 +1268,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 2108,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-05-06T18:01:17.970816+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2109,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2108,
-  "NumberOfAwardsMax": 282,
+  "NumberOfAwards": 2109,
+  "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1342,9 +1348,9 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 18676,
+  "EOS_Progressed": 18678,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1727,6 +1733,11 @@
       "Time": "2023-05-06T16:07:42.5713849+00:00",
       "NumProgressed": 18676,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-06T18:07:35.4430974+00:00",
+      "NumProgressed": 18678,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -1770,7 +1781,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "EstateAgent",
@@ -1786,7 +1797,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17555
+      "UsersEstimate": 17557
     },
     {
       "ID": "GameOver",
@@ -1874,7 +1885,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "SeniorEstateAgent",
@@ -1921,15 +1932,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18676,
+      "Progressed": 18678,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-06T08:01:26.1788147+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:26.1867096+00:00",
+  "LastChanged": "2023-05-06T18:01:17.9708158+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:35.4430967+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.5211178+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:00:18.6364735+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:26.1867293+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:01:17.9708166+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:35.4431288+00:00"
 }

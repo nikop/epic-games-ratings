@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 49,
   "Rating": 4.56,
   "NumberOfRatings": 524,
   "RatingHistory": [
@@ -500,7 +500,7 @@
   ],
   "EOS_Progressed": 46032,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1336,9 +1336,9 @@
       "ID": "24",
       "SetID": "212770e",
       "Name": "It\u0027s Not Just a Typewriter Brand",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2762
+      "UsersEstimate": 3222
     },
     {
       "ID": "25",
@@ -1702,8 +1702,8 @@
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:06.2129465+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:08.6597979+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:58:47.9475001+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:06.2130147+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:59:00.4298969+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:08.6599236+00:00"
 }

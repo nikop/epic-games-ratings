@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,388 |
-| Rookie | 24.00% | ~4,789 |
-| Nomad | 19.00% | ~3,791 |
-| Picking Up Speed | 18.00% | ~3,592 |
-| Welcome Maya | 17.00% | ~3,392 |
-| Sightseer | 12.00% | ~2,395 |
-| Scout | 10.00% | ~1,996 |
-| Amateur | 9.00% | ~1,796 |
-| Enter Paz | 9.00% | ~1,796 |
-| Wanderer | 9.00% | ~1,796 |
-| Unlock Maya | 7.00% | ~1,397 |
-| Aviator | 6.00% | ~1,197 |
-| One With The Board | 6.00% | ~1,197 |
-| Voyager | 6.00% | ~1,197 |
-| My Little Friend | 5.00% | ~998 |
-| Sandboarder | 4.00% | ~798 |
-| Izel Has Arrived | 4.00% | ~798 |
+| Finding Your Footing | 27.00% | ~5,392 |
+| Rookie | 24.00% | ~4,793 |
+| Nomad | 19.00% | ~3,795 |
+| Picking Up Speed | 18.00% | ~3,595 |
+| Welcome Maya | 17.00% | ~3,395 |
+| Sightseer | 12.00% | ~2,397 |
+| Scout | 10.00% | ~1,997 |
+| Amateur | 9.00% | ~1,797 |
+| Enter Paz | 9.00% | ~1,797 |
+| Wanderer | 9.00% | ~1,797 |
+| Unlock Maya | 7.00% | ~1,398 |
+| Aviator | 6.00% | ~1,198 |
+| One With The Board | 6.00% | ~1,198 |
+| Voyager | 6.00% | ~1,198 |
+| My Little Friend | 5.00% | ~999 |
+| Sandboarder | 4.00% | ~799 |
+| Izel Has Arrived | 4.00% | ~799 |
 | Junkie | 3.00% | ~599 |
 | Traveler | 3.00% | ~599 |
 | Journeyer | 3.00% | ~599 |
@@ -46,8 +46,8 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~20 |
 | Windswept | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,955 (Ranked 90)  
-Completed: 3 (0.02%) (Ranked 175)  
+Progressed: 19,972 (Ranked 90)  
+Completed: 3 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 3 (0.02%) (Ranked 175)
 | 2023-05-03 | 19,544 | 3 |
 | 2023-05-04 | 19,662 | 3 |
 | 2023-05-05 | 19,841 | 3 |
-| 2023-05-06 | 19,955 | 3 |
+| 2023-05-06 | 19,972 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 313)  

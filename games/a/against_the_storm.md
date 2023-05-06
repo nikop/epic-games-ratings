@@ -16,6 +16,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 0.60% | ~88 |
 | Bandit Camp | 0.50% | ~73 |
 | Barren Lands | 0.50% | ~73 |
+| Lost Colonies | 0.50% | ~73 |
 | Like a Machine | 0.50% | ~73 |
 | Trade Baron | 0.50% | ~73 |
 | Homesick | 0.40% | ~59 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
 | Royal Outpost | 0.40% | ~59 |
-| Lost Colonies | 0.40% | ~59 |
 | Cursed Lands | 0.40% | ~59 |
 | A Real Challenge | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |

@@ -2,16 +2,16 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
       "Time": "2023-05-06T10:07:14.9040982+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T18:07:13.0527582+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -86,7 +91,7 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -166,7 +171,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -190,7 +195,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -223,13 +228,13 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:09.7661567+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:13.0527576+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.6722538+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:59:11.627375+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:09.7661704+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:59:34.1773713+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:13.052848+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.67,
   "NumberOfRatings": 398,
@@ -832,9 +832,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2694,
+  "EOS_Progressed": 2696,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1552,6 +1552,11 @@
       "Time": "2023-05-06T17:06:39.0807871+00:00",
       "NumProgressed": 2694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T18:07:52.3965154+00:00",
+      "NumProgressed": 2696,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1579,7 +1584,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -1587,7 +1592,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -1603,7 +1608,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -1643,7 +1648,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -1659,7 +1664,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -1675,7 +1680,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -1683,7 +1688,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -1691,7 +1696,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -1707,7 +1712,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -1723,7 +1728,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2076
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -1819,7 +1824,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -1843,7 +1848,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -1882,15 +1887,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2694,
+      "Progressed": 2696,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:39.0807867+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:52.396515+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:00:55.8004978+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:39.0808234+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:02:14.2554704+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:52.396558+00:00"
 }

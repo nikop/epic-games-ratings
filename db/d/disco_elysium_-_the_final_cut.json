@@ -6,7 +6,7 @@
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 55,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.86,
@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118050,
+  "EOS_Progressed": 118051,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2224,6 +2224,11 @@
       "Time": "2023-05-06T17:06:21.9168551+00:00",
       "NumProgressed": 118050,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-06T18:07:29.7570589+00:00",
+      "NumProgressed": 118051,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 40,
@@ -2307,7 +2312,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -2363,7 +2368,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     },
     {
       "ID": "ACH_COP_STAR",
@@ -2395,7 +2400,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10624
+      "UsersEstimate": 10625
     },
     {
       "ID": "ACH_GLUTEN",
@@ -2427,7 +2432,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5902
+      "UsersEstimate": 5903
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -2515,7 +2520,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -2554,15 +2559,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118050,
+      "Progressed": 118051,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:21.9168548+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:29.7570582+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:59:58.4796465+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:21.9168934+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:00:47.0372267+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:29.7571222+00:00"
 }

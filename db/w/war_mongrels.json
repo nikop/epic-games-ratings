@@ -6,8 +6,8 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.3,
   "NumberOfRatings": 34,
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -277,6 +277,11 @@
     {
       "Time": "2023-05-06T04:06:27.5404235+00:00",
       "NumProgressed": 242,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T18:07:09.0027141+00:00",
+      "NumProgressed": 243,
       "NumCompleted": 0
     }
   ],
@@ -393,7 +398,7 @@
       "Name": "Explorer",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_COLL_20",
@@ -561,15 +566,15 @@
       "Name": "The Horror",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -585,15 +590,15 @@
       "Name": "Broken Hopes",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -673,15 +678,15 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_KILL_ENV",
       "SetID": "1j25agn",
       "Name": "It\u0027s Just an Accident",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -729,7 +734,7 @@
       "Name": "Bullseye!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_NEST2",
@@ -760,15 +765,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-03-31T05:57:33.4298842+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:06.4528986+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:09.0027133+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:58:39.6807628+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:06.4529531+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:58:48.0766625+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:09.0028064+00:00"
 }

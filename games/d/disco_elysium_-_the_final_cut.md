@@ -13,13 +13,13 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,888 |
 | Hyperstellar Law Official | 15.00% | ~17,708 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,527 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,346 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,346 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,347 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,347 |
 | Truly Rabid *Traditionalist* | 11.00% | ~12,986 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,624 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,625 |
 | Unbelievably Boring **** | 8.00% | ~9,444 |
 | Enemy Of The Physical Realm | 8.00% | ~9,444 |
-| Hardie's Heroes | 5.00% | ~5,902 |
+| Hardie's Heroes | 5.00% | ~5,903 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,722 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,542 |
 | The Lawbringer | 3.00% | ~3,542 |
@@ -28,7 +28,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,361 |
 | Bother Kim After Hours | 2.00% | ~2,361 |
 | Wheel of Pleasure and Light | 2.00% | ~2,361 |
-| Massive Torque Dork | 1.00% | ~1,180 |
+| Massive Torque Dork | 1.00% | ~1,181 |
 | Avowed Inframaterialist | 0.90% | ~1,062 |
 | Real Musor | 0.90% | ~1,062 |
 | Committee of la Responsabilité | 0.80% | ~944 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,050 (Ranked 55)  
-Completed: 24 (0.02%) (Ranked 175)  
+Progressed: 118,051 (Ranked 55)  
+Completed: 24 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-03 | 117,917 | 24 |
 | 2023-05-04 | 117,947 | 24 |
 | 2023-05-05 | 117,999 | 24 |
-| 2023-05-06 | 118,050 | 24 |
+| 2023-05-06 | 118,051 | 24 |
 ## Awards
 Max (Character Customization): 687  (Ranked 156)  
 Sum: 1,043 (Ranked 226)  

@@ -33,7 +33,7 @@ Number of Ratings: 209  (23.09.2022)
 | Don't draw dicks pls | 84.00% | ~1,673 |
 | Ripped | 84.00% | ~1,673 |
 | Beat the big arena | 82.00% | ~1,633 |
-| Force Cube | 81.00% | ~1,614 |
+| Force Cube | 82.00% | ~1,633 |
 | Got Battery | 80.00% | ~1,594 |
 | Guard Distracted | 80.00% | ~1,594 |
 | Translocator | 79.00% | ~1,574 |
@@ -53,7 +53,7 @@ Number of Ratings: 209  (23.09.2022)
 | Chest Detector | 54.00% | ~1,076 |
 | Flames | 52.00% | ~1,036 |
 | Momentum | 45.00% | ~896 |
-| You're unsure if you broke the game or not | 41.00% | ~817 |
+| You're unsure if you broke the game or not | 42.00% | ~837 |
 | But wait... ...There's more... | 39.00% | ~777 |
 | So much force | 34.00% | ~677 |
 | You feel fully engaged | 23.00% | ~458 |

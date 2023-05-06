@@ -8,10 +8,10 @@ Rating: 4.11 (Ranked 852)
 | Attachments | 9.00% | ~3,386 |
 | Unlocked Potential | 8.00% | ~3,010 |
 | Tinkerer | 7.00% | ~2,634 |
-| Leapfrogger | 6.00% | ~2,257 |
-| Knock 'Em Dead | 6.00% | ~2,257 |
-| Pilgrimage: Initiate | 6.00% | ~2,257 |
-| Hell of a Run | 6.00% | ~2,257 |
+| Leapfrogger | 6.00% | ~2,258 |
+| Knock 'Em Dead | 6.00% | ~2,258 |
+| Pilgrimage: Initiate | 6.00% | ~2,258 |
+| Hell of a Run | 6.00% | ~2,258 |
 | No Mercy | 5.00% | ~1,881 |
 | Explorer: Seeker | 5.00% | ~1,881 |
 | Call of the Fount: Baptized | 5.00% | ~1,881 |
@@ -20,12 +20,12 @@ Rating: 4.11 (Ranked 852)
 | Help Me Out Here | 4.00% | ~1,505 |
 | The Interloper | 3.00% | ~1,129 |
 | Hop, Step, Jump | 3.00% | ~1,129 |
-| Outdoorsperson | 2.00% | ~752 |
-| What Must Be Done | 2.00% | ~752 |
-| Might and Main | 2.00% | ~752 |
-| Damned If You Do... | 2.00% | ~752 |
-| From Every Angle | 2.00% | ~752 |
-| Endless Runner | 2.00% | ~752 |
+| Outdoorsperson | 2.00% | ~753 |
+| What Must Be Done | 2.00% | ~753 |
+| Might and Main | 2.00% | ~753 |
+| Damned If You Do... | 2.00% | ~753 |
+| From Every Angle | 2.00% | ~753 |
+| Endless Runner | 2.00% | ~753 |
 | The Hue of Blue | 1.00% | ~376 |
 | Breaking Point | 1.00% | ~376 |
 | None the Wiser | 1.00% | ~376 |
@@ -38,7 +38,7 @@ Rating: 4.11 (Ranked 852)
 | Realized Potential | 0.60% | ~226 |
 | Awakening | 0.50% | ~188 |
 | Explorer: Trailblazer | 0.50% | ~188 |
-| Through the Eyes of Another: Seer | 0.40% | ~150 |
+| Through the Eyes of Another: Seer | 0.40% | ~151 |
 | Archivist | 0.30% | ~113 |
 | Craftsperson | 0.30% | ~113 |
 | Tit for Tat | 0.30% | ~113 |
@@ -59,8 +59,8 @@ Rating: 4.11 (Ranked 852)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,624 (Ranked 79)  
-Completed: 1 (0.00%) (Ranked 191)  
+Progressed: 37,626 (Ranked 79)  
+Completed: 1 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-03 | 37,500 | 1 |
 | 2023-05-04 | 37,537 | 1 |
 | 2023-05-05 | 37,585 | 1 |
-| 2023-05-06 | 37,624 | 1 |
+| 2023-05-06 | 37,626 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

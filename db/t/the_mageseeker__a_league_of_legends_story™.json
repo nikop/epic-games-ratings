@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.76,
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1893,
+  "EOS_Progressed": 1894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -842,6 +842,11 @@
       "Time": "2023-05-06T11:06:57.947069+00:00",
       "NumProgressed": 1893,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T18:07:07.8833778+00:00",
+      "NumProgressed": 1894,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -861,7 +866,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -893,7 +898,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -917,7 +922,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1021,7 +1026,7 @@
       "Name": "Chains master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -1053,7 +1058,7 @@
       "Name": "The end of the experiments",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -1093,7 +1098,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1141,7 +1146,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -1163,9 +1168,9 @@
       "ID": "STB_PET_HORSE",
       "SetID": "3pe2bac",
       "Name": "You can pet the... horse",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 133
     },
     {
       "ID": "STB_PLATINUM",
@@ -1181,7 +1186,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -1229,7 +1234,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1253,7 +1258,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -1261,7 +1266,7 @@
       "Name": "Ancient power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1276,7 +1281,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1893,
+      "Progressed": 1894,
       "Completed": 1
     }
   ],
@@ -1284,8 +1289,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-05T18:58:53.1227442+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:05.6916474+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:07.8833772+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:58:47.0896674+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:05.6916993+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:58:58.9104052+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:07.8834323+00:00"
 }

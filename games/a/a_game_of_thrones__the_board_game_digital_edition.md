@@ -6,18 +6,18 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~4,486 |
-| Battering Crew | 21.00% | ~2,355 |
-| The Kingsroad | 19.00% | ~2,131 |
-| Well Stocked | 15.00% | ~1,682 |
-| Royal Fleet | 14.00% | ~1,570 |
+| Conqueror | 40.00% | ~4,488 |
+| Battering Crew | 21.00% | ~2,356 |
+| The Kingsroad | 19.00% | ~2,132 |
+| Well Stocked | 15.00% | ~1,683 |
+| Royal Fleet | 14.00% | ~1,571 |
 | The Kraken’s Grasp | 10.00% | ~1,122 |
-| Daggers in the Dark | 9.00% | ~1,009 |
-| Alliance | 9.00% | ~1,009 |
-| A Long Journey | 9.00% | ~1,009 |
-| Winter is Coming | 8.00% | ~897 |
-| Oathkeeper | 8.00% | ~897 |
-| Influential | 8.00% | ~897 |
+| Daggers in the Dark | 9.00% | ~1,010 |
+| Alliance | 9.00% | ~1,010 |
+| A Long Journey | 9.00% | ~1,010 |
+| Winter is Coming | 8.00% | ~898 |
+| Oathkeeper | 8.00% | ~898 |
+| Influential | 8.00% | ~898 |
 | Ours is the Fury | 7.00% | ~785 |
 | We Do Not Sow | 7.00% | ~785 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~673 |
@@ -25,12 +25,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Hear me Roar! | 6.00% | ~673 |
 | Defender of the Wall | 6.00% | ~673 |
 | What is Dead may Never Die | 4.00% | ~449 |
-| The Swift | 3.00% | ~336 |
+| The Swift | 3.00% | ~337 |
 | King in the North | 2.00% | ~224 |
 | War of the Five Kings | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,215 (Ranked 102)  
-Completed: 23 (0.21%) (Ranked 130)  
+Progressed: 11,221 (Ranked 102)  
+Completed: 23 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,11 +45,11 @@ Completed: 23 (0.21%) (Ranked 130)
 | 2023-05-03 | 10,920 | 23 |
 | 2023-05-04 | 11,017 | 23 |
 | 2023-05-05 | 11,123 | 23 |
-| 2023-05-06 | 11,215 | 23 |
+| 2023-05-06 | 11,221 | 23 |
 ## Awards
 Max (Quickly Understood Controls): 122  (Ranked 299)  
-Sum: 778 (Ranked 248)  
-Diff (max vs sum): 51  
+Sum: 778 (Ranked 249)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 122 |

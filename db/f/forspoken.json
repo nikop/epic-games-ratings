@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.11,
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37624,
+  "EOS_Progressed": 37626,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -995,6 +995,11 @@
       "Time": "2023-05-06T16:07:29.9146772+00:00",
       "NumProgressed": 37624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T18:07:22.7838104+00:00",
+      "NumProgressed": 37626,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1022,7 +1027,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -1046,7 +1051,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -1078,7 +1083,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -1086,7 +1091,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -1094,7 +1099,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -1198,7 +1203,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -1246,7 +1251,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -1278,7 +1283,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "MONUMENT_ALL",
@@ -1294,7 +1299,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -1310,7 +1315,7 @@
       "Name": "Endless Runner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "PARKOUR_TIME",
@@ -1318,7 +1323,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -1429,22 +1434,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37624,
+      "Progressed": 37626,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2461,
-      "Completed": 2461
+      "Progressed": 2463,
+      "Completed": 2463
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-05T08:58:30.6786847+00:00",
-  "LastChanged_Achievements": "2023-05-06T17:06:16.8409647+00:00",
+  "LastChanged_Achievements": "2023-05-06T18:07:22.7838096+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:59:35.2377146+00:00",
-  "LastUpdate_Achievements": "2023-05-06T17:06:16.8410149+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:00:11.560685+00:00",
+  "LastUpdate_Achievements": "2023-05-06T18:07:22.7838627+00:00"
 }

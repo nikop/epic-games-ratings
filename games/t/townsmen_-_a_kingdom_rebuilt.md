@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tired by festival | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,141 (Ranked 125)  
-Completed: 3 (0.07%) (Ranked 159)  
+Completed: 3 (0.07%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
