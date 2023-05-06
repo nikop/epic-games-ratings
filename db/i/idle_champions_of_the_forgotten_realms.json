@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3548,9 +3548,9 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86613,
+  "EOS_Progressed": 86621,
   "EOS_Completed": 1807,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4812,6 +4812,11 @@
     {
       "Time": "2023-05-06T11:07:38.9270373+00:00",
       "NumProgressed": 86613,
+      "NumCompleted": 1807
+    },
+    {
+      "Time": "2023-05-06T12:07:01.7606074+00:00",
+      "NumProgressed": 86621,
       "NumCompleted": 1807
     }
   ],
@@ -7678,9 +7683,9 @@
       "ID": "objective_completed_643",
       "SetID": "415jc5c",
       "Name": "Bad Odds in Avernus",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_645",
@@ -8735,21 +8740,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52887,
+      "Progressed": 52895,
       "Completed": 2468
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86613,
+      "Progressed": 86621,
       "Completed": 1807
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-06T10:59:41.0625987+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:38.9270366+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:07:01.7606069+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:59:41.0625994+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:38.9297579+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:59:28.7636249+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:07:01.7629197+00:00"
 }

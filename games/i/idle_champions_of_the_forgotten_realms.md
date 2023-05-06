@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~173 |
 | Running of the Saurs | 0.20% | ~173 |
 | The Contagious Curse | 0.20% | ~173 |
+| Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
 | Escort to Waterdeep | 0.20% | ~173 |
 | Close Escort | 0.20% | ~173 |
@@ -375,7 +376,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.10% | ~53 |
 | The Path of Redcaps | 0.10% | ~53 |
 | The Path of Trials | 0.10% | ~53 |
-| Bad Odds in Avernus | 0.10% | ~53 |
 | The Lost Hollyphant | 0.10% | ~53 |
 | Zapper Overload | 0.10% | ~53 |
 | Best Friend Search Squad! | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,613 (Ranked 59)  
+Progressed: 86,621 (Ranked 59)  
 Completed: 1,807 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,807 (2.09%) (Ranked 55)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,613 | 1,807 |
+| 2023-05-06 | 86,621 | 1,807 |
 ## Awards
 Max (Diverse Characters): 4,865  (Ranked 62)  
 Sum: 29,819 (Ranked 37)  

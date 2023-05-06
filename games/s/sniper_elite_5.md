@@ -5,14 +5,14 @@ Rating: 4.44 (Ranked 621)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 35.00% | ~239 |
+| Meeting Resistance | 35.00% | ~240 |
 | Confirming Suspicions | 31.00% | ~212 |
-| The Kraken Wakes | 29.00% | ~198 |
+| The Kraken Wakes | 29.00% | ~199 |
 | It's Starting to Crack | 28.00% | ~192 |
 | Change the Channel | 25.00% | ~171 |
 | Lord of War | 24.00% | ~164 |
-| Resourceful | 23.00% | ~157 |
-| Taking it back | 23.00% | ~157 |
+| Resourceful | 23.00% | ~158 |
+| Taking it back | 23.00% | ~158 |
 | Organ Grinder | 21.00% | ~144 |
 | Target America | 21.00% | ~144 |
 | Sharpshooter | 20.00% | ~137 |
@@ -39,7 +39,7 @@ Rating: 4.44 (Ranked 621)
 | Rigged to Blow | 8.00% | ~55 |
 | Herr Today, Gone Tomorrow | 8.00% | ~51 |
 | Operation Foxley | 8.00% | ~51 |
-| Last Resort | 7.00% | ~44 |
+| Last Resort | 7.00% | ~45 |
 | Ghost of Falaise | 6.00% | ~38 |
 | The Long Game | 5.00% | ~34 |
 | Tinkerer | 5.00% | ~34 |
@@ -74,7 +74,7 @@ Rating: 4.44 (Ranked 621)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684 (Ranked 175)  
+Progressed: 685 (Ranked 175)  
 Completed: 2 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 2 (0.29%) (Ranked 119)
 | 2023-05-02 | 675 | 2 |
 | 2023-05-03 | 680 | 2 |
 | 2023-05-05 | 681 | 2 |
-| 2023-05-06 | 684 | 2 |
+| 2023-05-06 | 685 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

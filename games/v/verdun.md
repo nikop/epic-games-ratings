@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~32,904 |
-| Worth it | 63.00% | ~26,922 |
-| Eagle Eye | 55.00% | ~23,503 |
-| Corpseman I | 40.00% | ~17,093 |
-| Blast fishing | 38.00% | ~16,239 |
-| Not alone | 32.00% | ~13,675 |
-| Headhunter I | 27.00% | ~11,538 |
-| Manual Labour I | 26.00% | ~11,111 |
-| Developers, Developers, Developers | 24.00% | ~10,256 |
-| Basic Training | 24.00% | ~10,256 |
-| Furchtlos und Treu | 13.00% | ~5,555 |
+| Setting an example | 77.00% | ~32,907 |
+| Worth it | 63.00% | ~26,924 |
+| Eagle Eye | 55.00% | ~23,505 |
+| Corpseman I | 40.00% | ~17,095 |
+| Blast fishing | 38.00% | ~16,240 |
+| Not alone | 32.00% | ~13,676 |
+| Headhunter I | 27.00% | ~11,539 |
+| Manual Labour I | 26.00% | ~11,112 |
+| Developers, Developers, Developers | 24.00% | ~10,257 |
+| Basic Training | 24.00% | ~10,257 |
+| Furchtlos und Treu | 13.00% | ~5,556 |
 | Gott Mit Uns | 12.00% | ~5,128 |
 | This We'll Defend! | 9.00% | ~3,846 |
 | Anker wirf! | 9.00% | ~3,846 |
 | Providentiea Memor | 9.00% | ~3,846 |
 | For King and Country | 9.00% | ~3,846 |
 | Battle hardened | 8.00% | ~3,419 |
-| Semper Fidelis! | 7.00% | ~2,991 |
-| Honneur et Patrie | 7.00% | ~2,991 |
+| Semper Fidelis! | 7.00% | ~2,992 |
+| Honneur et Patrie | 7.00% | ~2,992 |
 | In Treue Fest | 5.00% | ~2,137 |
 | Voor De Koning | 5.00% | ~2,137 |
 | Extreme Headhunter | 5.00% | ~2,137 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,733 (Ranked 75)  
+Progressed: 42,737 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-03 | 42,492 | 2 |
 | 2023-05-04 | 42,583 | 2 |
 | 2023-05-05 | 42,686 | 2 |
-| 2023-05-06 | 42,733 | 2 |
+| 2023-05-06 | 42,737 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 331)  
 Sum: 729 (Ranked 255)  

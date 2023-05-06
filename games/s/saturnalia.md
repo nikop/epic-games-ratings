@@ -21,12 +21,12 @@ Rating: 4.24 (Ranked 782)
 | Chain Breaker | 0.60% | ~379 |
 | Silent Advisor | 0.50% | ~316 |
 | Let there be light | 0.40% | ~253 |
-| Soda addiction | 0.30% | ~189 |
-| Paparazzi | 0.30% | ~189 |
-| Are you still there? | 0.30% | ~189 |
+| Soda addiction | 0.30% | ~190 |
+| Paparazzi | 0.30% | ~190 |
+| Are you still there? | 0.30% | ~190 |
 | Ear Ringing | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,165 (Ranked 64)  
+Progressed: 63,168 (Ranked 64)  
 Completed: 10 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,7 +42,7 @@ Completed: 10 (0.02%) (Ranked 175)
 | 2023-05-03 | 63,059 | 10 |
 | 2023-05-04 | 63,101 | 10 |
 | 2023-05-05 | 63,142 | 10 |
-| 2023-05-06 | 63,165 | 10 |
+| 2023-05-06 | 63,168 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

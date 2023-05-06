@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4825,
+  "EOS_Progressed": 4826,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
@@ -719,6 +719,11 @@
       "Time": "2023-05-06T09:07:12.2203456+00:00",
       "NumProgressed": 4825,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-06T12:06:22.7659726+00:00",
+      "NumProgressed": 4826,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -730,7 +735,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "ACH02",
@@ -762,7 +767,7 @@
       "Name": "Mob Boss",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH06",
@@ -890,7 +895,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH22",
@@ -944,9 +949,9 @@
       "ID": "ACH28",
       "SetID": "552d41m",
       "Name": "Is That All You\u0027ve Got?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH29",
@@ -961,7 +966,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4825,
+      "Progressed": 4826,
       "Completed": 25
     }
   ],
@@ -969,8 +974,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:06:54.2116091+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:22.7659722+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:59:34.134517+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:06:54.2116338+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:59:22.6941634+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:22.7659959+00:00"
 }

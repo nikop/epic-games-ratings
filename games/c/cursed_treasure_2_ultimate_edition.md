@@ -16,15 +16,15 @@
 | Go Home! | 74.00% | ~110 |
 | Look After the Pence... | 72.00% | ~107 |
 | Sergeant of the Evil | 72.00% | ~107 |
+| Brilliant: Meadowshire | 71.00% | ~106 |
 | Drunken Master | 71.00% | ~106 |
-| Brilliant: Meadowshire | 70.00% | ~104 |
-| V.I.P. Cemetery | 68.00% | ~101 |
+| V.I.P. Cemetery | 69.00% | ~103 |
+| Takeover | 68.00% | ~101 |
 | Woodcutter | 68.00% | ~101 |
-| Takeover | 67.00% | ~100 |
+| Sharpshooter | 67.00% | ~100 |
 | Architect of Darkness | 67.00% | ~100 |
 | Top of the World | 66.00% | ~98 |
-| Sharpshooter | 66.00% | ~98 |
-| The Apotheosis of War | 64.00% | ~95 |
+| The Apotheosis of War | 65.00% | ~97 |
 | Stasis Alcatraz | 64.00% | ~95 |
 | Tastes Like Chicken | 61.00% | ~91 |
 | Combo Breaker | 60.00% | ~89 |

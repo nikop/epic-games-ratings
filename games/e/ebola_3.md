@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 52.00% | ~69 |
-| Inventory ✔ | 50.00% | ~66 |
-| Chest ✔ | 50.00% | ~66 |
+| Fright ✔ | 52.00% | ~70 |
+| Chest ✔ | 50.00% | ~68 |
+| Inventory ✔ | 49.00% | ~66 |
 | Police officers ✔ | 23.00% | ~31 |
-| Mutation ✔ | 22.00% | ~29 |
+| Mutation ✔ | 21.00% | ~28 |
 | Doberman ✔ | 9.00% | ~12 |
 | Weapon ✔ | 6.00% | ~8 |
-| City ✔ | 5.00% | ~7 |
-| Survival ✔ | 5.00% | ~7 |
 | Hospital ✔ | 5.00% | ~7 |
-| Fraternal help ✔ | 5.00% | ~7 |
 | Master of Unlocking ✔ | 5.00% | ~7 |
-| Chess ✔ | 5.00% | ~7 |
 | Thirst ✔ | 5.00% | ~7 |
 | Antivirus ✔ | 4.00% | ~5 |
 | Betty ✔ | 4.00% | ~5 |
 | Cheats ✔ | 4.00% | ~5 |
+| City ✔ | 4.00% | ~5 |
+| Survival ✔ | 4.00% | ~5 |
 | Mutant run ✔ | 4.00% | ~5 |
+| Fraternal help ✔ | 4.00% | ~5 |
 | City on fire ✔ | 4.00% | ~5 |
 | King of survival ✔ | 4.00% | ~5 |
+| Chess ✔ | 4.00% | ~5 |
 | Alice ✔ | 3.00% | ~4 |
 | Brain ✔ | 3.00% | ~4 |
 | Crocodile Attack ✔ | 3.00% | ~4 |
@@ -34,28 +34,28 @@
 | Rank A ✔ | 3.00% | ~4 |
 | All secrets revealed ✔ | 3.00% | ~4 |
 | Boss 1 ✔ | 2.00% | ~3 |
-| Car ✔ | 2.00% | ~3 |
-| Seeker One ✔ | 2.00% | ~3 |
 | Secret ✔ | 2.00% | ~3 |
-| Boss 2 ✔ | 2.00% | ~3 |
 | Group Alpha ✔ | 2.00% | ~3 |
 | Mutant fight ✔ | 2.00% | ~3 |
-| Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
 | Priest ✔ | 2.00% | ~3 |
-| Rank B+ ✔ | 2.00% | ~3 |
-| Speedrun ✔ | 2.00% | ~3 |
-| VIP ✔ | 2.00% | ~3 |
 | Broadcasting ✔ | 2.00% | ~3 |
 | Boss 3 ✔ | 2.00% | ~3 |
-| Seeker Three ✔ | 0.80% | ~1 |
-| Seeker Two ✔ | 0.80% | ~1 |
-| Crocodile Escape ✔ | 0.80% | ~1 |
-| Hardcore ✔ | 0.80% | ~1 |
-| Rank A+ ✔ | 0.80% | ~1 |
+| Car ✔ | 1.00% | ~1 |
+| Seeker One ✔ | 1.00% | ~1 |
+| Boss 2 ✔ | 1.00% | ~1 |
+| Osipov's video message ✔ | 1.00% | ~1 |
+| Rank B+ ✔ | 1.00% | ~1 |
+| Speedrun ✔ | 1.00% | ~1 |
+| VIP ✔ | 1.00% | ~1 |
+| Seeker Three ✔ | 0.70% | ~1 |
+| Seeker Two ✔ | 0.70% | ~1 |
+| Crocodile Escape ✔ | 0.70% | ~1 |
+| Hardcore ✔ | 0.70% | ~1 |
+| Rank A+ ✔ | 0.70% | ~1 |
 | Exterminate pests ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 241)  
+Progressed: 135 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 98 | 0 |
 | 2023-05-04 | 121 | 0 |
 | 2023-05-05 | 129 | 0 |
-| 2023-05-06 | 133 | 0 |
+| 2023-05-06 | 135 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,13 +12,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 0.90% | ~107 |
 | The Hateful Pole Fighter | 0.70% | ~4,918 |
 | A Lady's Blood in the Snow | 0.70% | ~4,918 |
+| State of constant learning | 0.70% | ~4,918 |
 | Qi Gong: Breath | 0.70% | ~4,918 |
 | Path of the Prospect | 0.70% | ~4,918 |
 | The Assault | 0.60% | ~4,216 |
 | Lady Wing Chun | 0.60% | ~4,216 |
 | Furious Fists | 0.60% | ~4,216 |
 | Kill Nil | 0.60% | ~4,216 |
-| State of constant learning | 0.60% | ~4,216 |
 | Qi Gong: Essence | 0.60% | ~4,216 |
 | Rumble in the Hangar | 0.60% | ~4,216 |
 | Take damage to save time | 0.60% | ~4,216 |
@@ -32,9 +32,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.50% | ~3,513 |
 | Deadly Venom | 0.50% | ~60 |
 | A Touch of Acumen | 0.50% | ~60 |
+| Muk Yan Master | 0.40% | ~2,811 |
 | Dance of the Praying Mantis | 0.40% | ~2,811 |
 | Qi Gong: Mind | 0.40% | ~2,811 |
-| Muk Yan Master | 0.30% | ~2,108 |
 | Tiger on Fire | 0.30% | ~2,108 |
 | Source of Flying Daggers | 0.30% | ~2,108 |
 | Iron Money | 0.30% | ~2,108 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,632 (Ranked 15)  
+Progressed: 702,635 (Ranked 15)  
 Completed: 12,709 (1.81%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 12,709 (1.81%) (Ranked 57)
 | 2023-05-03 | 702,552 | 12,707 |
 | 2023-05-04 | 702,592 | 12,707 |
 | 2023-05-05 | 702,619 | 12,709 |
-| 2023-05-06 | 702,632 | 12,709 |
+| 2023-05-06 | 702,635 | 12,709 |
 ## Awards
 Max (Great Boss Battles): 6,029  (Ranked 53)  
 Sum: 10,218 (Ranked 77)  

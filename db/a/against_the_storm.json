@@ -2214,7 +2214,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14665,
+  "EOS_Progressed": 14667,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -2929,6 +2929,11 @@
       "Time": "2023-05-06T11:07:34.0447981+00:00",
       "NumProgressed": 14665,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-06T12:06:57.2329445+00:00",
+      "NumProgressed": 14667,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3002,9 +3007,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 15
     },
     {
       "ID": "MetalChain",
@@ -3250,9 +3255,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "WinWIthCaches",
@@ -3339,15 +3344,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14665,
+      "Progressed": 14667,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-06T01:52:28.1299102+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:34.0447974+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:57.2329439+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:01:43.2079097+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:34.0448466+00:00"
+  "LastUpdate_Ratings": "2023-05-06T12:01:07.1526569+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:57.2329929+00:00"
 }

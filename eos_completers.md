@@ -2,10 +2,10 @@
 | - | ---- | --------- |
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 23.08% |
+| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 22.22% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
-| 5 | [Island Cities](games/i/island_cities.md) | 19.30% |
-| 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
+| 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
+| 6 | [Island Cities](games/i/island_cities.md) | 18.97% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.19% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.13% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -88,7 +88,7 @@
 | 86 | [Adios](games/a/adios.md) | 0.80% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
+| 89 | [Train Valley](games/t/train_valley.md) | 0.73% |
 | 90 | [Haven](games/h/haven.md) | 0.72% |
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.68% |
 | 92 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
@@ -124,8 +124,8 @@
 | 122 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 123 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
 | 123 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 123 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
-| 126 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
+| 125 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
+| 125 | [Wildermyth](games/w/wildermyth.md) | 0.26% |
 | 127 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 128 | [Blanc](games/b/blanc.md) | 0.22% |
 | 128 | [Filament](games/f/filament.md) | 0.22% |
@@ -145,10 +145,10 @@
 | 142 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 144 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 144 | [Weird West](games/w/weird_west.md) | 0.13% |
-| 146 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.12% |
 | 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 148 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
-| 148 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 147 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
+| 147 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 147 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 150 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
@@ -194,6 +194,7 @@
 | 191 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 191 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 191 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
+| 191 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 0.00% |
 | 191 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 191 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
 | 191 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
@@ -340,6 +341,7 @@
 | 191 | [Showgunners](games/s/showgunners.md) | 0.00% |
 | 191 | [Silence](games/s/silence.md) | 0.00% |
 | 191 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
+| 191 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 191 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 191 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
 | 191 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
@@ -378,4 +380,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,562 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,563 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

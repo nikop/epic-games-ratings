@@ -12,29 +12,29 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 80.00% | ~4 |
 | Hope Rekindled | 80.00% | ~4 |
 | To Grandmother's House | 60.00% | ~3 |
+| Body of Work | 60.00% | ~3 |
 | Don't Make Me Turn This Coach Around | 40.00% | ~2 |
 | Serenity Now! | 40.00% | ~2 |
+| Resurrection | 40.00% | ~2 |
+| Unleash Hell | 40.00% | ~2 |
+| Funny Guy | 40.00% | ~2 |
+| Long Live the King | 40.00% | ~2 |
+| Wyrdly Reconstructed | 40.00% | ~2 |
+| Boxcar Kid | 40.00% | ~2 |
+| Unfulfilled Desires | 40.00% | ~2 |
+| Shrine of Reflection | 40.00% | ~2 |
+| A Clear Conscience | 40.00% | ~2 |
 | Eidetic | 40.00% | ~2 |
-| Body of Work | 40.00% | ~2 |
-| Resurrection | 20.00% | ~1 |
-| Unleash Hell | 20.00% | ~1 |
-| Funny Guy | 20.00% | ~1 |
-| Long Live the King | 20.00% | ~1 |
-| Wyrdly Reconstructed | 20.00% | ~1 |
-| Boxcar Kid | 20.00% | ~1 |
-| Unfulfilled Desires | 20.00% | ~1 |
+| Unshackled | 40.00% | ~2 |
+| Hot Air | 40.00% | ~2 |
+| Eyes Up | 40.00% | ~2 |
+| Handled | 40.00% | ~2 |
 | Loop Year | 20.00% | ~1 |
 | Predator | 20.00% | ~1 |
 | Deprogramming | 20.00% | ~1 |
 | Hat Trick | 20.00% | ~1 |
 | Rush Hour | 20.00% | ~1 |
 | Autodidact | 20.00% | ~1 |
-| Shrine of Reflection | 20.00% | ~1 |
-| A Clear Conscience | 20.00% | ~1 |
-| Unshackled | 20.00% | ~1 |
-| Hot Air | 20.00% | ~1 |
-| Eyes Up | 20.00% | ~1 |
-| Handled | 20.00% | ~1 |
 | It Rings a Bell | 0.00% | ~0 |
 | A Life Well Lived | 0.00% | ~0 |
 | This Belongs in a Museum | 0.00% | ~0 |

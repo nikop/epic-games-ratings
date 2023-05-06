@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 41.00% | ~9 |
-| Uncut Gem | 41.00% | ~9 |
-| Might be useful… | 41.00% | ~9 |
-| Friend! | 36.00% | ~8 |
-| Setting Off | 36.00% | ~8 |
-| Clear as Water | 32.00% | ~7 |
-| Riddlesolver | 27.00% | ~6 |
-| Shine! | 27.00% | ~6 |
-| Dungeon Mastery | 23.00% | ~5 |
-| The Steed | 14.00% | ~3 |
-| A Strange Proposition | 14.00% | ~3 |
-| Card Collector | 14.00% | ~3 |
+| Treasure Hunting | 43.00% | ~10 |
+| Uncut Gem | 43.00% | ~10 |
+| Might be useful… | 43.00% | ~10 |
+| Friend! | 39.00% | ~9 |
+| Setting Off | 35.00% | ~8 |
+| Clear as Water | 35.00% | ~8 |
+| Riddlesolver | 30.00% | ~7 |
+| Dungeon Mastery | 26.00% | ~6 |
+| Shine! | 26.00% | ~6 |
+| The Steed | 13.00% | ~3 |
+| A Strange Proposition | 13.00% | ~3 |
+| Card Collector | 13.00% | ~3 |
 | The Bodyguard | 9.00% | ~2 |
 | The Apprentice | 9.00% | ~2 |
 | Braving Miasma | 9.00% | ~2 |
@@ -38,14 +38,14 @@
 | A New Tomorrow | 9.00% | ~2 |
 | ACHOO! | 9.00% | ~2 |
 | No Stone Unturned | 9.00% | ~2 |
-| The New Demon Lord | 5.00% | ~1 |
-| Card Completionist | 5.00% | ~1 |
-| The False Prophet | 5.00% | ~1 |
-| Sealed Once Again | 5.00% | ~1 |
-| Gladiator | 5.00% | ~1 |
+| The New Demon Lord | 4.00% | ~1 |
+| Card Completionist | 4.00% | ~1 |
+| The False Prophet | 4.00% | ~1 |
+| Sealed Once Again | 4.00% | ~1 |
+| Gladiator | 4.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 290)  
+Progressed: 23 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-02 | 17 | 0 |
 | 2023-05-03 | 20 | 0 |
 | 2023-05-05 | 22 | 0 |
+| 2023-05-06 | 23 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

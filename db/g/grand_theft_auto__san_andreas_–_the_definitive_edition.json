@@ -2,14 +2,14 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 42,
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -260,15 +260,21 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-06T12:01:20.0756688+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7499,
+  "EOS_Progressed": 7500,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -961,6 +967,11 @@
       "Time": "2023-05-06T11:07:36.7575344+00:00",
       "NumProgressed": 7499,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-06T12:06:59.5593713+00:00",
+      "NumProgressed": 7500,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -972,7 +983,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5999
+      "UsersEstimate": 6000
     },
     {
       "ID": "ACH02",
@@ -1018,9 +1029,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH08",
@@ -1156,7 +1167,7 @@
       "Name": "Not a Player",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH25",
@@ -1212,7 +1223,7 @@
       "Name": "Chick Magnet",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH32",
@@ -1251,16 +1262,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7499,
+      "Progressed": 7500,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-04-28T17:01:34.9203237+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:36.7575342+00:00",
+  "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:59.5593706+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:01:59.1786479+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:36.7575653+00:00"
+  "LastUpdate_Ratings": "2023-05-06T12:01:20.0756692+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:59.5594006+00:00"
 }

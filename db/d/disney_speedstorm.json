@@ -4,14 +4,14 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 2339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1102,9 +1102,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 608
+      "UsersEstimate": 632
     },
     {
       "ID": "5",
@@ -1156,8 +1156,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:12.1677794+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:38.0980445+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:00:34.7324691+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:12.1678029+00:00"
+  "LastUpdate_Ratings": "2023-05-06T12:00:12.9850949+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:38.0980671+00:00"
 }

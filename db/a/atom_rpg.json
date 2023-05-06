@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.45,
   "NumberOfRatings": 54,
@@ -326,7 +326,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -471,6 +471,11 @@
       "Time": "2023-05-06T04:06:59.6436102+00:00",
       "NumProgressed": 763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T12:06:58.2354093+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -538,7 +543,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "EXPERT_1",
@@ -570,7 +575,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "HEAD_BURST_1",
@@ -634,7 +639,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -738,7 +743,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "VVE",
@@ -769,15 +774,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-04-22T20:58:02.069628+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:35.2856279+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:58.2354084+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.2550678+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:01:56.1282832+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:35.2856587+00:00"
+  "LastUpdate_Ratings": "2023-05-06T12:01:17.3852159+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:58.2354363+00:00"
 }

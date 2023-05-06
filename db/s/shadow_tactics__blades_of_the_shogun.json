@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.66,
   "NumberOfRatings": 495,
@@ -1019,9 +1019,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 164888,
+  "EOS_Progressed": 164912,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2023-05-06T11:07:16.1782908+00:00",
       "NumProgressed": 164888,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-06T12:06:41.799845+00:00",
+      "NumProgressed": 164912,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 44,
@@ -2340,7 +2345,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11542
+      "UsersEstimate": 11544
     },
     {
       "ID": "AtheistOx",
@@ -2364,7 +2369,7 @@
       "Name": "Chunin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8244
+      "UsersEstimate": 8246
     },
     {
       "ID": "CompleteMastery",
@@ -2380,7 +2385,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9895
     },
     {
       "ID": "FiveShadows",
@@ -2412,7 +2417,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16489
+      "UsersEstimate": 16491
     },
     {
       "ID": "HappyLittleAccidents",
@@ -2444,7 +2449,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8244
+      "UsersEstimate": 8246
     },
     {
       "ID": "ItsRainingMen",
@@ -2460,7 +2465,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9895
     },
     {
       "ID": "Mercyful",
@@ -2556,7 +2561,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9895
     },
     {
       "ID": "Rollin",
@@ -2564,7 +2569,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9895
     },
     {
       "ID": "StillRollin",
@@ -2588,7 +2593,7 @@
       "Name": "Stoned Ox",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8244
+      "UsersEstimate": 8246
     },
     {
       "ID": "TanukiTime",
@@ -2596,7 +2601,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11542
+      "UsersEstimate": 11544
     },
     {
       "ID": "TheCave",
@@ -2604,7 +2609,7 @@
       "Name": "The Cave",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "TheEnd",
@@ -2628,7 +2633,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13191
+      "UsersEstimate": 13193
     },
     {
       "ID": "TimeParadox",
@@ -2684,22 +2689,22 @@
       "Name": "Yabu",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8244
+      "UsersEstimate": 8246
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 164888,
+      "Progressed": 164912,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-05T13:03:47.1518487+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:16.1782904+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:41.7998444+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:09.8632245+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:00:39.8311249+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:16.1783377+00:00"
+  "LastUpdate_Ratings": "2023-05-06T12:00:16.8913442+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:41.7998886+00:00"
 }

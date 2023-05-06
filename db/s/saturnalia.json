@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63165,
+  "EOS_Progressed": 63168,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1183,6 +1183,11 @@
       "Time": "2023-05-06T11:06:49.1700995+00:00",
       "NumProgressed": 63165,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-06T12:06:18.4598758+00:00",
+      "NumProgressed": 63168,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -1226,7 +1231,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -1242,7 +1247,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -1290,7 +1295,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -1353,7 +1358,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63165,
+      "Progressed": 63168,
       "Completed": 10
     }
   ],
@@ -1361,8 +1366,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:06:49.1700988+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:18.4598751+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.5865909+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:59:07.1401982+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:06:49.1701206+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:59:02.2410404+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:18.4598936+00:00"
 }

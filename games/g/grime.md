@@ -11,7 +11,7 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 18.00% | ~97 |
 | The Hunt | 17.00% | ~91 |
 | Weeper | 15.00% | ~81 |
-| Devourer | 12.00% | ~64 |
+| Devourer | 12.00% | ~65 |
 | Scion | 10.00% | ~12 |
 | Glare | 10.00% | ~12 |
 | Harmless | 10.00% | ~54 |
@@ -35,8 +35,8 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 5.00% | ~27 |
 | Passage | 5.00% | ~27 |
 | Kin | 5.00% | ~6 |
-| Kinship | 4.00% | ~21 |
-| Unwrap the Gift | 4.00% | ~21 |
+| Kinship | 4.00% | ~22 |
+| Unwrap the Gift | 4.00% | ~22 |
 | Weakness | 3.00% | ~16 |
 | Breathsmith | 3.00% | ~16 |
 | Proportions | 3.00% | ~16 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~4 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 185)  
+Progressed: 538 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 535 | 0 |
 | 2023-05-04 | 536 | 0 |
 | 2023-05-05 | 537 | 0 |
+| 2023-05-06 | 538 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

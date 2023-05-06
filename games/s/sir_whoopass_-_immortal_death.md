@@ -4,7 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spoiler alert! | 0.00% | ~0 |
+| Spoiler alert! | 100.00% | ~1 |
+| Tastes just like chicken! | 100.00% | ~1 |
+| MLG 360 no scope kill! | 100.00% | ~1 |
+| I like you...but I have to kill you... | 100.00% | ~1 |
+| Blurry depth perception | 100.00% | ~1 |
+| Are you ready to rumble? | 100.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You are no match for me, Billy! | 0.00% | ~0 |
 | Meatballs, coming up! | 0.00% | ~0 |
@@ -46,7 +51,6 @@
 | Mushroom soup of the day | 0.00% | ~0 |
 | Deal with it | 0.00% | ~0 |
 | Consider it dealt with | 0.00% | ~0 |
-| Tastes just like chicken! | 0.00% | ~0 |
 | Your daily dose of Vitamin C. | 0.00% | ~0 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
@@ -72,8 +76,6 @@
 | Hovering around | 0.00% | ~0 |
 | Not so hip anymore! | 0.00% | ~0 |
 | Kleptomaniac | 0.00% | ~0 |
-| MLG 360 no scope kill! | 0.00% | ~0 |
-| I like you...but I have to kill you... | 0.00% | ~0 |
 | Nerd | 0.00% | ~0 |
 | Free Of Chains | 0.00% | ~0 |
 | Make Love not War-Craft a Mistlefoe | 0.00% | ~0 |
@@ -81,8 +83,13 @@
 | Out of bounds | 0.00% | ~0 |
 | Meat grinder | 0.00% | ~0 |
 | Spare Ribs | 0.00% | ~0 |
-| Blurry depth perception | 0.00% | ~0 |
 | Cockadoodledoo! | 0.00% | ~0 |
-| Are you ready to rumble? | 0.00% | ~0 |
 | Pasta Bolognese | 0.00% | ~0 |
 | Slimy... yet satisfying | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 191)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-05-06 | 1 | 0 |

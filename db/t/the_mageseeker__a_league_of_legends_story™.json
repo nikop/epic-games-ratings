@@ -987,9 +987,9 @@
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 492
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1284,8 +1284,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-05T18:58:53.1227442+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:06:57.9470687+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:06:25.9284916+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:59:14.3140868+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:06:57.9471181+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:59:07.5027732+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:06:25.9285443+00:00"
 }

@@ -39,8 +39,8 @@
 | Talent And Dedication | 25.00% | ~3 |
 | Read, Read, Read | 17.00% | ~2 |
 | Ledge-walker | 17.00% | ~2 |
+| Slip and Slide | 17.00% | ~2 |
 | Prolific Artist | 8.00% | ~1 |
-| Slip and Slide | 8.00% | ~1 |
 | Merely Inquisitive | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 301)  

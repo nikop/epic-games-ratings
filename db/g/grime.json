@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.61,
   "NumberOfRatings": 46,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -243,6 +243,11 @@
     {
       "Time": "2023-05-05T20:07:06.5043698+00:00",
       "NumProgressed": 537,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T12:07:01.4543703+00:00",
+      "NumProgressed": 538,
       "NumCompleted": 0
     }
   ],
@@ -455,7 +460,7 @@
       "Name": "Devourer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -487,7 +492,7 @@
       "Name": "Kinship",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -535,7 +540,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -590,21 +595,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 16
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-06T11:07:39.2713838+00:00",
+  "LastChanged_Achievements": "2023-05-06T12:07:01.4543697+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:29.1938688+00:00",
-  "LastUpdate_Ratings": "2023-05-06T11:02:11.9853425+00:00",
-  "LastUpdate_Achievements": "2023-05-06T11:07:39.271416+00:00"
+  "LastUpdate_Ratings": "2023-05-06T12:01:31.127566+00:00",
+  "LastUpdate_Achievements": "2023-05-06T12:07:01.454403+00:00"
 }
