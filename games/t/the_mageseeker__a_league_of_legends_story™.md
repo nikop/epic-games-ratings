@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 114)
 | Truth is a dark mirror | 7.00% | ~133 |
 | The great mage rebellion starts now | 6.00% | ~114 |
 | Spellcrafting | 6.00% | ~114 |
-| Silverwing nest | 1.00% | ~19 |
+| Silverwing nest | 2.00% | ~38 |
 | The Unshackled | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,893 (Ranked 142)  

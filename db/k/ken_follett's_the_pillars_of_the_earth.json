@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 42,
   "Rating": 4.52,
   "NumberOfRatings": 368,
@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12214,
+  "EOS_Progressed": 12215,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-05-06T16:07:02.4177495+00:00",
       "NumProgressed": 12214,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-06T17:05:56.752431+00:00",
+      "NumProgressed": 12215,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 41,
@@ -1297,7 +1302,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "tpote_achievement_18",
@@ -1337,7 +1342,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "tpote_achievement_22",
@@ -1401,7 +1406,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "tpote_achievement_3",
@@ -1417,7 +1422,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "tpote_achievement_31",
@@ -1560,15 +1565,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12214,
+      "Progressed": 12215,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-06T16:07:02.417749+00:00",
+  "LastChanged_Achievements": "2023-05-06T17:05:56.7524305+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:01:57.1644929+00:00",
-  "LastUpdate_Achievements": "2023-05-06T16:07:02.4178105+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:00:44.5788538+00:00",
+  "LastUpdate_Achievements": "2023-05-06T17:05:56.7524681+00:00"
 }

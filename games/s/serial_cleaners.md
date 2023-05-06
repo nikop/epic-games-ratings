@@ -29,7 +29,7 @@
 | The Wing and the Thigh | 0.00% | ~0 |
 | Hackathon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 227)  
+Progressed: 158 (Ranked 228)  
 Completed: 5 (3.16%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

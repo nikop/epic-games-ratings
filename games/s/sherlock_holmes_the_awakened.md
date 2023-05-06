@@ -19,13 +19,13 @@
 | Gaze Into The Abyss | 52.00% | ~70 |
 | Back In The Saddle | 52.00% | ~70 |
 | Lock, Stock, And Barrel | 51.00% | ~69 |
-| No Man Is An Island | 50.00% | ~68 |
-| Bookworm | 46.00% | ~62 |
+| No Man Is An Island | 51.00% | ~69 |
+| Bookworm | 47.00% | ~63 |
 | At Wits' End | 44.00% | ~59 |
 | Going Once... | 41.00% | ~55 |
 | Brain Food | 41.00% | ~55 |
 | Up In Flames | 40.00% | ~54 |
-| Fhtagn! | 39.00% | ~53 |
+| Fhtagn! | 40.00% | ~54 |
 | Let Me Be Frank | 38.00% | ~51 |
 | No Stone Unturned | 36.00% | ~49 |
 | Curiosity Killed The Cat | 26.00% | ~35 |

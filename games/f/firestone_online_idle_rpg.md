@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~812 |
-| World Map | 79.00% | ~690 |
-| Temple of Eternals | 55.00% | ~480 |
-| Prestigious | 51.00% | ~445 |
-| Fellowship Power | 39.00% | ~340 |
+| Victor | 93.00% | ~814 |
+| World Map | 79.00% | ~691 |
+| Temple of Eternals | 54.00% | ~473 |
+| Prestigious | 51.00% | ~446 |
+| Fellowship Power | 39.00% | ~341 |
 | Guild Power | 23.00% | ~201 |
-| Prestigious x10 | 18.00% | ~157 |
-| The game is on | 14.00% | ~122 |
-| Exotic Merchant | 13.00% | ~113 |
-| Inspection | 13.00% | ~113 |
+| Prestigious x10 | 18.00% | ~158 |
+| The game is on | 14.00% | ~123 |
+| Exotic Merchant | 13.00% | ~114 |
+| Inspection | 13.00% | ~114 |
 | Dragon Clicker | 12.00% | ~105 |
 | Miner Clicker | 12.00% | ~105 |
 | Hero inspection | 11.00% | ~96 |
@@ -27,13 +27,13 @@
 | Superior | 4.00% | ~35 |
 | Daily Quest Completionist | 3.00% | ~26 |
 | Scientist | 3.00% | ~26 |
-| Background Story | 2.00% | ~17 |
-| Frostfire Liberator | 2.00% | ~17 |
-| Hunter | 2.00% | ~17 |
-| Mastery | 2.00% | ~17 |
-| Moving Up The Ladder | 2.00% | ~17 |
-| Scroll Master | 2.00% | ~17 |
-| The Expeditioner | 2.00% | ~17 |
+| Background Story | 2.00% | ~18 |
+| Frostfire Liberator | 2.00% | ~18 |
+| Hunter | 2.00% | ~18 |
+| Mastery | 2.00% | ~18 |
+| Moving Up The Ladder | 2.00% | ~18 |
+| Scroll Master | 2.00% | ~18 |
+| The Expeditioner | 2.00% | ~18 |
 | Active Member | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873 (Ranked 164)  
+Progressed: 875 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.11%) (Ranked 147)
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
-| 2023-05-06 | 873 | 1 |
+| 2023-05-06 | 875 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

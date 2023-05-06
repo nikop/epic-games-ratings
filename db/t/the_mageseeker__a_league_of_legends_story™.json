@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.76,
   "RatingHistory": [
     {
@@ -1011,9 +1011,9 @@
       "ID": "STB_FIND_ALL_SILVERWINGS",
       "SetID": "3pe2bac",
       "Name": "Silverwing nest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 38
     },
     {
       "ID": "STB_HOOK_CHALLENGE",
@@ -1284,8 +1284,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-05T18:58:53.1227442+00:00",
-  "LastChanged_Achievements": "2023-05-06T16:07:14.6022852+00:00",
+  "LastChanged_Achievements": "2023-05-06T17:06:05.6916474+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:59:00.4958785+00:00",
-  "LastUpdate_Achievements": "2023-05-06T16:07:14.6023333+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:58:47.0896674+00:00",
+  "LastUpdate_Achievements": "2023-05-06T17:06:05.6916993+00:00"
 }

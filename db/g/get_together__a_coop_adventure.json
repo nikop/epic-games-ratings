@@ -4,8 +4,8 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
       "Time": "2023-04-16T21:58:05.2747206+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
       "Time": "2023-05-06T10:07:36.6205908+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T17:06:25.7496962+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -57,7 +62,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -65,7 +70,7 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 72,
+      "Percentage": 69,
       "XP": 100,
       "UsersEstimate": 18
     },
@@ -105,7 +110,7 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -113,7 +118,7 @@
       "ID": "GT_ACH_RITUALEND",
       "SetID": "883j7b4",
       "Name": "The end is nigh!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -121,7 +126,7 @@
       "ID": "GT_ACH_RITUALSYNC",
       "SetID": "883j7b4",
       "Name": "Get Together",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -129,7 +134,7 @@
       "ID": "GT_ACH_START",
       "SetID": "883j7b4",
       "Name": "Get lost!",
-      "Percentage": 84,
+      "Percentage": 81,
       "XP": 100,
       "UsersEstimate": 21
     }
@@ -138,7 +143,7 @@
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
@@ -146,8 +151,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-05-06T16:07:41.918301+00:00",
+  "LastChanged_Achievements": "2023-05-06T17:06:25.7496958+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:38.3279954+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:01:23.9397066+00:00",
-  "LastUpdate_Achievements": "2023-05-06T16:07:41.918316+00:00"
+  "LastUpdate_Ratings": "2023-05-06T17:00:21.0986163+00:00",
+  "LastUpdate_Achievements": "2023-05-06T17:06:25.7497056+00:00"
 }

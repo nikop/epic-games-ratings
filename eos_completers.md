@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -28,10 +28,10 @@
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.22% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.19% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
-| 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
+| 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |

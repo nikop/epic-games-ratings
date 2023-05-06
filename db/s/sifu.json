@@ -3822,9 +3822,9 @@
       "Count": 340
     }
   ],
-  "EOS_Progressed": 702640,
+  "EOS_Progressed": 702644,
   "EOS_Completed": 12709,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -4902,6 +4902,11 @@
       "Time": "2023-05-06T16:07:37.5857852+00:00",
       "NumProgressed": 702640,
       "NumCompleted": 12709
+    },
+    {
+      "Time": "2023-05-06T17:06:22.5251752+00:00",
+      "NumProgressed": 702644,
+      "NumCompleted": 12709
     }
   ],
   "TotalAchievements": 50,
@@ -4929,7 +4934,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "04_Vengeance_H3",
@@ -4937,7 +4942,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "05_Vengeance_H4",
@@ -5097,7 +5102,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "25_ShrineMind",
@@ -5113,7 +5118,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "27_ShrineBody",
@@ -5193,7 +5198,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -5201,7 +5206,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -5297,7 +5302,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -5312,21 +5317,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11941,
+      "Progressed": 11945,
       "Completed": 10036
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702640,
+      "Progressed": 702644,
       "Completed": 12709
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-06T16:00:45.3727532+00:00",
-  "LastChanged_Achievements": "2023-05-06T16:07:37.5857845+00:00",
+  "LastChanged_Achievements": "2023-05-06T17:06:22.5251748+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:00:45.3727542+00:00",
-  "LastUpdate_Achievements": "2023-05-06T16:07:37.5858691+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:59:55.2713889+00:00",
+  "LastUpdate_Achievements": "2023-05-06T17:06:22.525224+00:00"
 }

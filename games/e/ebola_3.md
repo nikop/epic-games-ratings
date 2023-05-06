@@ -18,22 +18,22 @@
 | Betty ✔ | 4.00% | ~5 |
 | Cheats ✔ | 4.00% | ~5 |
 | City ✔ | 4.00% | ~5 |
+| Eva ✔ | 4.00% | ~5 |
 | Survival ✔ | 4.00% | ~5 |
 | Mutant run ✔ | 4.00% | ~5 |
 | Fraternal help ✔ | 4.00% | ~5 |
 | City on fire ✔ | 4.00% | ~5 |
 | King of survival ✔ | 4.00% | ~5 |
+| All secrets revealed ✔ | 4.00% | ~5 |
 | Chess ✔ | 4.00% | ~5 |
+| Boss 1 ✔ | 3.00% | ~4 |
 | Alice ✔ | 3.00% | ~4 |
 | Brain ✔ | 3.00% | ~4 |
 | Crocodile Attack ✔ | 3.00% | ~4 |
-| Eva ✔ | 3.00% | ~4 |
 | Food ✔ | 3.00% | ~4 |
 | Sheriff ✔ | 3.00% | ~4 |
 | Infected ✔ | 3.00% | ~4 |
 | Rank A ✔ | 3.00% | ~4 |
-| All secrets revealed ✔ | 3.00% | ~4 |
-| Boss 1 ✔ | 2.00% | ~3 |
 | Secret ✔ | 2.00% | ~3 |
 | Group Alpha ✔ | 2.00% | ~3 |
 | Mutant fight ✔ | 2.00% | ~3 |

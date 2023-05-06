@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.6968938+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -173,6 +173,11 @@
       "Time": "2023-05-06T16:07:26.4738444+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T17:06:14.4952386+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -230,15 +235,15 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -254,9 +259,9 @@
       "ID": "CustomDressing20",
       "SetID": "d1bm05f",
       "Name": "Perfectionist",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DilemasResponsibility10",
@@ -342,7 +347,7 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -358,17 +363,17 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PerfectGrade25",
@@ -382,9 +387,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RecipeDifferent30",
@@ -438,7 +443,7 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -446,7 +451,7 @@
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -494,7 +499,7 @@
       "ID": "WorkStation10",
       "SetID": "d1bm05f",
       "Name": "Well-Stocked Kitchen",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 8
     }
@@ -503,7 +508,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
@@ -511,8 +516,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-06T16:07:26.4738437+00:00",
+  "LastChanged_Achievements": "2023-05-06T17:06:14.4952382+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:42.4678268+00:00",
-  "LastUpdate_Ratings": "2023-05-06T16:00:03.6467004+00:00",
-  "LastUpdate_Achievements": "2023-05-06T16:07:26.4738962+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:59:29.5473445+00:00",
+  "LastUpdate_Achievements": "2023-05-06T17:06:14.4952687+00:00"
 }
