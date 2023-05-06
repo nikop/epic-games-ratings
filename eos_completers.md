@@ -3,13 +3,13 @@
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 23.08% |
-| 4 | [Island Cities](games/i/island_cities.md) | 19.64% |
-| 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
+| 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
+| 5 | [Island Cities](games/i/island_cities.md) | 19.30% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.26% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.24% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -378,4 +378,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,560 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,562 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

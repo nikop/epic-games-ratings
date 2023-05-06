@@ -4,52 +4,52 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 62.00% | ~82 |
-| I like parks | 47.00% | ~63 |
+| Small town | 62.00% | ~83 |
+| I like parks | 48.00% | ~64 |
 | The spiritual world... | 27.00% | ~36 |
 | Sport is good for you | 26.00% | ~35 |
-| It is nice to share with friends in the city | 25.00% | ~33 |
+| It is nice to share with friends in the city | 25.00% | ~34 |
 | The woodcutter | 24.00% | ~32 |
 | I like books | 20.00% | ~27 |
 | I like my life | 20.00% | ~27 |
-| Clean energy | 20.00% | ~27 |
+| Clean energy | 19.00% | ~25 |
 | Soviet town | 15.00% | ~20 |
 | Bucolic city | 14.00% | ~19 |
 | King of fish | 13.00% | ~17 |
 | I love books! | 11.00% | ~15 |
 | I love parks | 11.00% | ~15 |
 | What would we do if we can't go out with friends? | 10.00% | ~13 |
-| Food producer | 8.00% | ~11 |
-| Metropolurbek | 8.00% | ~11 |
+| Food producer | 7.00% | ~9 |
+| Metropolurbek | 7.00% | ~9 |
 | I am very happy! | 6.00% | ~8 |
-| Sport is the best thing | 5.00% | ~7 |
 | Read! Everyone should read! | 4.00% | ~5 |
 | Little Mayor | 4.00% | ~5 |
+| Sport is the best thing | 4.00% | ~5 |
 | Banking city | 3.00% | ~4 |
 | Rebel city | 3.00% | ~4 |
 | Temperate builder | 3.00% | ~4 |
-| Anarchist Utopia | 2.00% | ~3 |
 | Archipelago builder | 2.00% | ~3 |
-| Archipelago urban planner | 2.00% | ~3 |
 | Food provider master | 2.00% | ~3 |
 | What is there after death? | 2.00% | ~3 |
-| Perfect city | 2.00% | ~3 |
-| Oh, I love parks, listening to birds! | 2.00% | ~3 |
 | Freedom to go to the mall! | 2.00% | ~3 |
-| Town planner | 2.00% | ~3 |
-| Temperate urban planner | 2.00% | ~3 |
-| Anarchist paradise | 0.80% | ~1 |
-| I can't see the sky | 0.80% | ~1 |
-| Urban style | 0.80% | ~1 |
-| City crisis | 0.80% | ~1 |
-| Desert builder | 0.80% | ~1 |
-| Desert urban planner | 0.80% | ~1 |
-| Farming Frenzy | 0.80% | ~1 |
-| I don't feel well, I have to drink a coffe | 0.80% | ~1 |
-| Metropolurbek Plus | 0.80% | ~1 |
-| City in flames | 0.80% | ~1 |
-| Restorer | 0.80% | ~1 |
-| Full temperate | 0.80% | ~1 |
+| Anarchist Utopia | 1.00% | ~1 |
+| Archipelago urban planner | 1.00% | ~1 |
+| Perfect city | 1.00% | ~1 |
+| Oh, I love parks, listening to birds! | 1.00% | ~1 |
+| Town planner | 1.00% | ~1 |
+| Temperate urban planner | 1.00% | ~1 |
+| Anarchist paradise | 0.70% | ~1 |
+| I can't see the sky | 0.70% | ~1 |
+| Urban style | 0.70% | ~1 |
+| City crisis | 0.70% | ~1 |
+| Desert builder | 0.70% | ~1 |
+| Desert urban planner | 0.70% | ~1 |
+| Farming Frenzy | 0.70% | ~1 |
+| I don't feel well, I have to drink a coffe | 0.70% | ~1 |
+| Metropolurbek Plus | 0.70% | ~1 |
+| City in flames | 0.70% | ~1 |
+| Restorer | 0.70% | ~1 |
+| Full temperate | 0.70% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 240)  
+Progressed: 134 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 131 | 0 |
 | 2023-05-02 | 132 | 0 |
 | 2023-05-05 | 133 | 0 |
+| 2023-05-06 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -29,7 +29,7 @@
 | [Gold Rush! Classic](games/g/gold_rush!_classic.md) | - | - | 0 | - |
 | [Cats Yakuza - Online card game](games/c/cats_yakuza_-_online_card_game.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.38 | 688 | 157 | 280 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.38 | 687 | 157 | 280 |
 | [Grim Nights](games/g/grim_nights.md) | - | - | 0 | - |
 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | - | - | 0 | - |
 | [Island Cities](games/i/island_cities.md) | - | - | 0 | - |
@@ -38,7 +38,7 @@
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | - | - | 0 | - |
 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | - | - | 0 | - |
 | [EBOLA 3](games/e/ebola_3.md) | - | - | 0 | - |
-| [Poker Club](games/p/poker_club.md) | 3.73 | 912 | 0 | 490 |
+| [Poker Club](games/p/poker_club.md) | 3.72 | 912 | 0 | 490 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | - | - | 0 | - |
 | [Aftertime](games/a/aftertime.md) | - | - | 0 | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |

@@ -2805,10 +2805,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 7397,
       "NumberOfAwardsMax": 3031
+    },
+    {
+      "Time": "2023-05-06T09:59:03.9044692+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7398,
+      "NumberOfAwardsMax": 3031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7397,
+  "NumberOfAwards": 7398,
   "NumberOfAwardsMax": 3031,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2864,7 +2870,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 231
+      "Count": 232
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2903,9 +2909,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 679868,
+  "EOS_Progressed": 679869,
   "EOS_Completed": 6077,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -4128,6 +4134,11 @@
       "Time": "2023-05-06T09:07:15.2750045+00:00",
       "NumProgressed": 679868,
       "NumCompleted": 6077
+    },
+    {
+      "Time": "2023-05-06T10:07:08.5950794+00:00",
+      "NumProgressed": 679869,
+      "NumCompleted": 6077
     }
   ],
   "TotalAchievements": 49,
@@ -4179,7 +4190,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 74785
+      "UsersEstimate": 74786
     },
     {
       "ID": "AchCerberusPets",
@@ -4195,7 +4206,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 353531
+      "UsersEstimate": 353532
     },
     {
       "ID": "AchClearAsphodel",
@@ -4203,7 +4214,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 543894
+      "UsersEstimate": 543895
     },
     {
       "ID": "AchClearElysium",
@@ -4211,7 +4222,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 448713
+      "UsersEstimate": 448714
     },
     {
       "ID": "AchClearElysiumEM",
@@ -4307,7 +4318,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462310
+      "UsersEstimate": 462311
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -4331,7 +4342,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 251551
+      "UsersEstimate": 251552
     },
     {
       "ID": "AchManyCosmetics",
@@ -4339,7 +4350,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 183564
+      "UsersEstimate": 183565
     },
     {
       "ID": "AchManyQuests",
@@ -4387,7 +4398,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54389
+      "UsersEstimate": 54390
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -4411,7 +4422,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 244752
+      "UsersEstimate": 244753
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -4427,7 +4438,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 251551
+      "UsersEstimate": 251552
     },
     {
       "ID": "AchPickedManyHammers",
@@ -4499,7 +4510,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 482706
+      "UsersEstimate": 482707
     },
     {
       "ID": "AchWeaponClears",
@@ -4515,7 +4526,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 271947
+      "UsersEstimate": 271948
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -4530,15 +4541,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 679868,
+      "Progressed": 679869,
       "Completed": 6077
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-05-06T04:59:04.9841213+00:00",
-  "LastChanged_Achievements": "2023-05-06T09:07:15.2750028+00:00",
+  "LastChanged": "2023-05-06T09:59:03.9044688+00:00",
+  "LastChanged_Achievements": "2023-05-06T10:07:08.5950785+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:56.9682541+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:59:25.3375856+00:00",
-  "LastUpdate_Achievements": "2023-05-06T09:07:15.2750528+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:59:03.9044696+00:00",
+  "LastUpdate_Achievements": "2023-05-06T10:07:08.5951318+00:00"
 }

@@ -7,24 +7,24 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 89.00% | ~605,083 |
-| Escaped Asphodel | 80.00% | ~543,894 |
-| Arms Collector | 71.00% | ~482,706 |
-| Friends in High Places | 68.00% | ~462,310 |
-| Escaped Elysium | 66.00% | ~448,713 |
+| Escaped Asphodel | 80.00% | ~543,895 |
+| Arms Collector | 71.00% | ~482,707 |
+| Friends in High Places | 68.00% | ~462,311 |
+| Escaped Elysium | 66.00% | ~448,714 |
 | Chthonic Colleagues | 63.00% | ~428,317 |
-| Is There No Escape? | 52.00% | ~353,531 |
+| Is There No Escape? | 52.00% | ~353,532 |
 | Death Dealer | 45.00% | ~305,941 |
 | Skelly Slayer | 42.00% | ~285,545 |
-| Well Stocked | 40.00% | ~271,947 |
+| Well Stocked | 40.00% | ~271,948 |
 | Back to Work | 39.00% | ~265,149 |
-| Day-or-Night Trader | 37.00% | ~251,551 |
-| Blessed by the Gods | 37.00% | ~251,551 |
-| Urge to Sing | 36.00% | ~244,752 |
+| Day-or-Night Trader | 37.00% | ~251,552 |
+| Blessed by the Gods | 37.00% | ~251,552 |
+| Urge to Sing | 36.00% | ~244,753 |
 | Blood Bound | 35.00% | ~237,954 |
 | Three-Headed Boy | 32.00% | ~217,558 |
 | River Denizens | 28.00% | ~190,363 |
 | Grown Close | 28.00% | ~190,363 |
-| Home Makeover | 27.00% | ~183,564 |
+| Home Makeover | 27.00% | ~183,565 |
 | The Family Secret | 26.00% | ~176,766 |
 | Had to Happen | 25.00% | ~169,967 |
 | To Charon's Credit | 23.00% | ~156,370 |
@@ -40,7 +40,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | The Useless Trinket | 13.00% | ~88,383 |
 | Champion of Elysium | 13.00% | ~88,383 |
 | Slashed Benefits | 12.00% | ~81,584 |
-| Haste of Hermes | 11.00% | ~74,785 |
+| Haste of Hermes | 11.00% | ~74,786 |
 | Bad Call | 10.00% | ~67,987 |
 | Nyx's Mirror | 10.00% | ~67,987 |
 | Night and Darkness | 10.00% | ~67,987 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~61,188 |
 | Thanks, But No Thanks | 9.00% | ~61,188 |
 | Infernal Arms | 9.00% | ~61,188 |
-| Divided by Death | 8.00% | ~54,389 |
+| Divided by Death | 8.00% | ~54,390 |
 | Harsh Conditions | 7.00% | ~47,591 |
 | One for the Ages | 7.00% | ~47,591 |
 | Complete Set | 6.00% | ~40,792 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,195 |
 | Friends Forever | 4.00% | ~27,195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,868 (Ranked 16)  
+Progressed: 679,869 (Ranked 16)  
 Completed: 6,077 (0.89%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,10 +72,10 @@ Completed: 6,077 (0.89%) (Ranked 80)
 | 2023-05-03 | 679,707 | 6,070 |
 | 2023-05-04 | 679,770 | 6,073 |
 | 2023-05-05 | 679,844 | 6,076 |
-| 2023-05-06 | 679,868 | 6,077 |
+| 2023-05-06 | 679,869 | 6,077 |
 ## Awards
 Max (Character Customization): 3,031  (Ranked 86)  
-Sum: 7,397 (Ranked 97)  
+Sum: 7,398 (Ranked 97)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -84,7 +84,7 @@ Diff (max vs sum): -11
 | This game is Highly Recommended | 251 |
 | This game is Great for Beginners | 235 |
 | This game is Extremely Fun | 233 |
-| This game has Amazing Storytelling | 231 |
+| This game has Amazing Storytelling | 232 |
 | This game has Amazing Characters | 228 |
 | This game has Diverse Characters | 225 |
 | This game has Quickly Understood Controls | 225 |
@@ -196,4 +196,4 @@ Diff (max vs sum): -11
 | 2023-05-03 | 4.92 | - | 3,025 | 7,388 |
 | 2023-05-04 | 4.92 | - | 3,029 | 7,393 |
 | 2023-05-05 | 4.92 | - | 3,029 | 7,395 |
-| 2023-05-06 | 4.92 | - | 3,031 | 7,397 |
+| 2023-05-06 | 4.92 | - | 3,031 | 7,398 |

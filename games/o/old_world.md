@@ -6,70 +6,70 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~8,959 |
-| Settler | 82.00% | ~8,851 |
-| Explorer | 80.00% | ~8,635 |
-| Friendly Family | 77.00% | ~8,311 |
-| Intrepid | 71.00% | ~7,664 |
-| Able | 62.00% | ~6,692 |
-| Architect | 62.00% | ~6,692 |
-| Mason | 62.00% | ~6,692 |
-| Strong | 61.00% | ~6,584 |
-| Hanging Gardens | 60.00% | ~6,476 |
-| Noble | 59.00% | ~6,368 |
-| Oracle | 59.00% | ~6,368 |
-| Good | 57.00% | ~6,153 |
-| Just | 56.00% | ~6,045 |
-| Judaism | 56.00% | ~6,045 |
-| Keystone | 55.00% | ~5,937 |
-| Glorious | 54.00% | ~5,829 |
-| Trade Caravan | 53.00% | ~5,721 |
-| Naming Landmarks | 51.00% | ~5,505 |
-| Learned | 50.00% | ~5,397 |
-| Zoroastrianism | 50.00% | ~5,397 |
-| Fountainhead | 49.00% | ~5,289 |
-| Pioneer | 49.00% | ~5,289 |
-| Developing Cities | 49.00% | ~5,289 |
-| Magnificent | 47.00% | ~5,073 |
-| Pyramids | 47.00% | ~5,073 |
-| Warrior | 46.00% | ~4,965 |
-| Strong Cities | 46.00% | ~4,965 |
-| Greek Paganism | 46.00% | ~4,965 |
-| Ishtar Gate | 45.00% | ~4,857 |
-| Babylonian Paganism | 44.00% | ~4,749 |
-| Enlightened | 43.00% | ~4,641 |
-| Great Ziggurat | 42.00% | ~4,533 |
-| Christianity | 42.00% | ~4,533 |
-| Roman Paganism | 42.00% | ~4,533 |
+| Play a Single Player Game | 83.00% | ~8,961 |
+| Settler | 82.00% | ~8,853 |
+| Explorer | 80.00% | ~8,637 |
+| Friendly Family | 77.00% | ~8,313 |
+| Intrepid | 71.00% | ~7,665 |
+| Able | 62.00% | ~6,694 |
+| Architect | 62.00% | ~6,694 |
+| Mason | 62.00% | ~6,694 |
+| Strong | 61.00% | ~6,586 |
+| Hanging Gardens | 60.00% | ~6,478 |
+| Noble | 59.00% | ~6,370 |
+| Oracle | 59.00% | ~6,370 |
+| Good | 57.00% | ~6,154 |
+| Just | 56.00% | ~6,046 |
+| Judaism | 56.00% | ~6,046 |
+| Keystone | 55.00% | ~5,938 |
+| Glorious | 54.00% | ~5,830 |
+| Trade Caravan | 53.00% | ~5,722 |
+| Naming Landmarks | 51.00% | ~5,506 |
+| Learned | 50.00% | ~5,398 |
+| Zoroastrianism | 50.00% | ~5,398 |
+| Fountainhead | 49.00% | ~5,290 |
+| Pioneer | 49.00% | ~5,290 |
+| Developing Cities | 49.00% | ~5,290 |
+| Magnificent | 47.00% | ~5,074 |
+| Pyramids | 47.00% | ~5,074 |
+| Warrior | 46.00% | ~4,966 |
+| Strong Cities | 46.00% | ~4,966 |
+| Greek Paganism | 46.00% | ~4,966 |
+| Ishtar Gate | 45.00% | ~4,858 |
+| Babylonian Paganism | 44.00% | ~4,750 |
+| Enlightened | 43.00% | ~4,642 |
+| Great Ziggurat | 42.00% | ~4,534 |
+| Christianity | 42.00% | ~4,534 |
+| Roman Paganism | 42.00% | ~4,534 |
 | Great | 41.00% | ~4,426 |
 | Lighthouse | 41.00% | ~4,426 |
 | Able Difficulty | 40.00% | ~4,318 |
 | Ambitious | 39.00% | ~4,210 |
 | Carthaginian Paganism | 39.00% | ~4,210 |
 | Necropolis | 38.00% | ~4,102 |
-| Apadana | 37.00% | ~3,994 |
-| Egyptian Paganism | 37.00% | ~3,994 |
-| Musaeum | 36.00% | ~3,886 |
-| Manichaeism | 36.00% | ~3,886 |
-| Brilliant | 35.00% | ~3,778 |
-| Drillmaster | 33.00% | ~3,562 |
-| Colossus | 33.00% | ~3,562 |
-| Legendary Cities | 32.00% | ~3,454 |
-| Just Difficulty | 31.00% | ~3,346 |
-| Artisans | 31.00% | ~3,346 |
-| Furious Family | 31.00% | ~3,346 |
-| Acropolis | 31.00% | ~3,346 |
-| Mythology | 31.00% | ~3,346 |
-| Wise | 30.00% | ~3,238 |
-| Mausoleum | 30.00% | ~3,238 |
-| Learn to Play 1 | 30.00% | ~3,238 |
-| Intercessor | 27.00% | ~2,914 |
-| Valiant | 26.00% | ~2,806 |
-| Sages | 26.00% | ~2,806 |
-| Hanging Gardens in Babylon | 25.00% | ~2,698 |
-| Temple of Solomon | 25.00% | ~2,698 |
-| Persian Paganism | 25.00% | ~2,698 |
-| Points Victory | 25.00% | ~2,698 |
+| Apadana | 37.00% | ~3,995 |
+| Egyptian Paganism | 37.00% | ~3,995 |
+| Musaeum | 36.00% | ~3,887 |
+| Manichaeism | 36.00% | ~3,887 |
+| Brilliant | 35.00% | ~3,779 |
+| Drillmaster | 33.00% | ~3,563 |
+| Colossus | 33.00% | ~3,563 |
+| Legendary Cities | 32.00% | ~3,455 |
+| Just Difficulty | 31.00% | ~3,347 |
+| Artisans | 31.00% | ~3,347 |
+| Furious Family | 31.00% | ~3,347 |
+| Acropolis | 31.00% | ~3,347 |
+| Mythology | 31.00% | ~3,347 |
+| Wise | 30.00% | ~3,239 |
+| Mausoleum | 30.00% | ~3,239 |
+| Learn to Play 1 | 30.00% | ~3,239 |
+| Intercessor | 27.00% | ~2,915 |
+| Valiant | 26.00% | ~2,807 |
+| Sages | 26.00% | ~2,807 |
+| Hanging Gardens in Babylon | 25.00% | ~2,699 |
+| Temple of Solomon | 25.00% | ~2,699 |
+| Persian Paganism | 25.00% | ~2,699 |
+| Points Victory | 25.00% | ~2,699 |
 | Good Difficulty | 24.00% | ~2,591 |
 | Champions | 24.00% | ~2,591 |
 | Greece | 24.00% | ~2,591 |
@@ -129,19 +129,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 13.00% | ~1,403 |
 | One True Faith | 13.00% | ~1,403 |
 | Cataphract Archer | 13.00% | ~1,403 |
-| Regicide | 12.00% | ~1,295 |
-| Ishtar Gate in Babylon | 12.00% | ~1,295 |
-| Noble Difficulty | 12.00% | ~1,295 |
-| Ten Crowns | 12.00% | ~1,295 |
-| All Nations | 12.00% | ~1,295 |
-| Ready | 11.00% | ~1,187 |
-| Learn to Play 4 | 11.00% | ~1,187 |
-| Cao'an | 10.00% | ~1,079 |
-| Siege Tower | 10.00% | ~1,079 |
-| Carthage - Ox Hide | 9.00% | ~971 |
-| Persia | 9.00% | ~971 |
-| Old World Order | 9.00% | ~971 |
-| No Undo | 9.00% | ~971 |
+| Regicide | 12.00% | ~1,296 |
+| Ishtar Gate in Babylon | 12.00% | ~1,296 |
+| Noble Difficulty | 12.00% | ~1,296 |
+| Ten Crowns | 12.00% | ~1,296 |
+| All Nations | 12.00% | ~1,296 |
+| Ready | 11.00% | ~1,188 |
+| Learn to Play 4 | 11.00% | ~1,188 |
+| Cao'an | 10.00% | ~1,080 |
+| Siege Tower | 10.00% | ~1,080 |
+| Carthage - Ox Hide | 9.00% | ~972 |
+| Persia | 9.00% | ~972 |
+| Old World Order | 9.00% | ~972 |
+| No Undo | 9.00% | ~972 |
 | Glorious Difficulty | 8.00% | ~864 |
 | Capturing Cities | 8.00% | ~864 |
 | Three Man Chariot | 8.00% | ~864 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,794 (Ranked 103)  
+Progressed: 10,796 (Ranked 103)  
 Completed: 2 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2 (0.02%) (Ranked 175)
 | 2023-05-03 | 10,738 | 2 |
 | 2023-05-04 | 10,754 | 2 |
 | 2023-05-05 | 10,783 | 2 |
-| 2023-05-06 | 10,794 | 2 |
+| 2023-05-06 | 10,796 | 2 |
 ## Awards
 Max (Relaxing): 215  (Ranked 248)  
 Sum: 1,754 (Ranked 197)  

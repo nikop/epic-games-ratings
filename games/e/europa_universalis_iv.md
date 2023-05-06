@@ -6,52 +6,52 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,731 |
-| That's a Grand Army | 8.00% | ~2,428 |
-| That is mine! | 8.00% | ~2,428 |
-| Victorious! | 8.00% | ~2,428 |
-| Brothers in Arms | 6.00% | ~1,821 |
-| That's a Grand Navy | 6.00% | ~1,821 |
-| Seriously?! | 6.00% | ~1,821 |
-| For the Glory | 5.00% | ~1,517 |
-| Cold War | 4.00% | ~1,214 |
-| Defender of the Faith | 3.00% | ~910 |
-| It's all about the money | 3.00% | ~910 |
-| Respected | 3.00% | ~910 |
-| True Catholic | 3.00% | ~910 |
-| Blockader | 2.00% | ~607 |
-| Combined Arms | 2.00% | ~607 |
-| Double the Love | 2.00% | ~607 |
-| Gentle Persuasion | 2.00% | ~607 |
-| It's all about luck | 2.00% | ~607 |
-| Queen of Conquest | 2.00% | ~607 |
-| Royal Authority | 2.00% | ~607 |
-| The Princess is in this Castle | 2.00% | ~607 |
-| Total Control | 2.00% | ~607 |
-| Truly Divine Ruler | 2.00% | ~607 |
-| Agressive Expander | 1.00% | ~303 |
-| Azur semé de lis or | 1.00% | ~303 |
-| Bright Spark | 1.00% | ~303 |
-| Factionalism | 1.00% | ~303 |
-| A Golden Empire | 1.00% | ~303 |
-| My armies are invincible! | 1.00% | ~303 |
+| Until death do us apart | 9.00% | ~2,734 |
+| That's a Grand Army | 8.00% | ~2,430 |
+| That is mine! | 8.00% | ~2,430 |
+| Victorious! | 8.00% | ~2,430 |
+| Brothers in Arms | 6.00% | ~1,823 |
+| That's a Grand Navy | 6.00% | ~1,823 |
+| Seriously?! | 6.00% | ~1,823 |
+| For the Glory | 5.00% | ~1,519 |
+| Cold War | 4.00% | ~1,215 |
+| Defender of the Faith | 3.00% | ~911 |
+| It's all about the money | 3.00% | ~911 |
+| Respected | 3.00% | ~911 |
+| True Catholic | 3.00% | ~911 |
+| Blockader | 2.00% | ~608 |
+| Combined Arms | 2.00% | ~608 |
+| Double the Love | 2.00% | ~608 |
+| Gentle Persuasion | 2.00% | ~608 |
+| It's all about luck | 2.00% | ~608 |
+| Queen of Conquest | 2.00% | ~608 |
+| Royal Authority | 2.00% | ~608 |
+| The Princess is in this Castle | 2.00% | ~608 |
+| Total Control | 2.00% | ~608 |
+| Truly Divine Ruler | 2.00% | ~608 |
+| Agressive Expander | 1.00% | ~304 |
+| Azur semé de lis or | 1.00% | ~304 |
+| Bright Spark | 1.00% | ~304 |
+| Factionalism | 1.00% | ~304 |
+| A Golden Empire | 1.00% | ~304 |
+| My armies are invincible! | 1.00% | ~304 |
 | All That's Thine Shall Be Mine | 0.90% | ~273 |
 | City of Cities | 0.90% | ~273 |
-| Isn't this the way to India? | 0.70% | ~212 |
-| Market Control | 0.70% | ~212 |
-| The Five Colonies | 0.70% | ~212 |
+| Isn't this the way to India? | 0.70% | ~213 |
+| Market Control | 0.70% | ~213 |
+| The Five Colonies | 0.70% | ~213 |
 | The Emperors new clothes | 0.60% | ~182 |
 | This navy can take it all | 0.60% | ~182 |
 | Down Under | 0.50% | ~152 |
 | Electable! | 0.50% | ~152 |
 | Time Bandit | 0.50% | ~152 |
 | Trustworthy | 0.50% | ~152 |
-| All belongs to Mother Russia | 0.40% | ~121 |
-| At every continent | 0.40% | ~121 |
-| Early-Modern Warfare | 0.40% | ~121 |
-| The pen is mightier than the sword | 0.40% | ~121 |
-| Trophy Hunter | 0.40% | ~121 |
-| Voting Streak | 0.40% | ~121 |
+| All belongs to Mother Russia | 0.40% | ~122 |
+| At every continent | 0.40% | ~122 |
+| Early-Modern Warfare | 0.40% | ~122 |
+| The pen is mightier than the sword | 0.40% | ~122 |
+| Trophy Hunter | 0.40% | ~122 |
+| Voting Streak | 0.40% | ~122 |
 | Absolutely | 0.30% | ~91 |
 | All Your Trade Are Belong to Us | 0.30% | ~91 |
 | Dude, Where's my Boat? | 0.30% | ~91 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,345 (Ranked 81)  
+Progressed: 30,381 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,15 +377,15 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,345 | 0 |
+| 2023-05-06 | 30,381 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
-Sum: 42,799 (Ranked 26)  
+Sum: 42,807 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,181 |
-| This game is Highly Recommended | 4,953 |
+| This game is Highly Recommended | 4,961 |
 | This game has Challenging Combat | 4,939 |
 | This game is Extremely Fun | 4,910 |
 | This game has Diverse Characters | 4,859 |
@@ -506,4 +506,4 @@ Diff (max vs sum): 34
 | 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
-| 2023-05-06 | 4.68 | - | 5,181 | 42,799 |
+| 2023-05-06 | 4.68 | - | 5,181 | 42,807 |

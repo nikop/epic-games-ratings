@@ -3542,9 +3542,9 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86606,
+  "EOS_Progressed": 86609,
   "EOS_Completed": 1807,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4796,6 +4796,11 @@
     {
       "Time": "2023-05-06T09:07:56.9770056+00:00",
       "NumProgressed": 86606,
+      "NumCompleted": 1807
+    },
+    {
+      "Time": "2023-05-06T10:07:55.8886177+00:00",
+      "NumProgressed": 86609,
       "NumCompleted": 1807
     }
   ],
@@ -6166,9 +6171,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_210",
@@ -6478,9 +6483,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 606
     },
     {
       "ID": "objective_completed_34",
@@ -8719,21 +8724,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52880,
-      "Completed": 2467
+      "Progressed": 52883,
+      "Completed": 2468
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86606,
+      "Progressed": 86609,
       "Completed": 1807
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-06T07:59:36.5335987+00:00",
-  "LastChanged_Achievements": "2023-05-06T09:07:56.9770044+00:00",
+  "LastChanged_Achievements": "2023-05-06T10:07:55.8886168+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:59:52.5845931+00:00",
-  "LastUpdate_Achievements": "2023-05-06T09:07:56.9796033+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:59:37.1134129+00:00",
+  "LastUpdate_Achievements": "2023-05-06T10:07:55.8917985+00:00"
 }

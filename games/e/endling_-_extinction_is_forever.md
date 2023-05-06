@@ -14,8 +14,8 @@
 | You Can Pet The Fox | 29.00% | ~115 |
 | Hard Fox Life | 23.00% | ~91 |
 | Never Let Down | 23.00% | ~91 |
+| Chicken Dinner | 21.00% | ~83 |
 | A Barking Fox Doesn't Bite | 20.00% | ~79 |
-| Chicken Dinner | 20.00% | ~79 |
 | Peaceful Instinct | 17.00% | ~67 |
 | Maternity | 15.00% | ~60 |
 | Family Reunion | 15.00% | ~60 |

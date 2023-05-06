@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 1.00% | ~529 |
 | Pin and Skewer | 0.80% | ~423 |
 | Bully for Vecna | 0.70% | ~370 |
-| The Cursed Farmer | 0.60% | ~520 |
+| The Cursed Farmer | 0.70% | ~606 |
 | Beast Intentions | 0.50% | ~433 |
 | The Mad Wizard | 0.50% | ~433 |
 | Were-verpowered | 0.40% | ~346 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.20% | ~173 |
 | Unearthed Evil | 0.20% | ~173 |
 | No Time To Rest | 0.20% | ~173 |
+| Invisible Shadows | 0.20% | ~173 |
 | The Dinner Party | 0.20% | ~173 |
 | The Botched Kidnapping | 0.20% | ~173 |
 | Trollskull Manor | 0.20% | ~173 |
@@ -207,7 +208,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~53 |
 | The Mists of Ravenloft | 0.10% | ~87 |
 | The Hunt for Owl-y | 0.10% | ~87 |
-| Invisible Shadows | 0.10% | ~87 |
 | Werewolves in the Mist | 0.10% | ~87 |
 | We're not in Faerûn Anymore | 0.10% | ~87 |
 | Family Entanglements | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,606 (Ranked 59)  
+Progressed: 86,609 (Ranked 59)  
 Completed: 1,807 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,807 (2.09%) (Ranked 55)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,606 | 1,807 |
+| 2023-05-06 | 86,609 | 1,807 |
 ## Awards
 Max (Diverse Characters): 4,865  (Ranked 62)  
 Sum: 29,814 (Ranked 37)  

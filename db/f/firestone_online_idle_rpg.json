@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 864,
+  "EOS_Progressed": 865,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -1028,6 +1028,11 @@
       "Time": "2023-05-06T07:06:35.4854435+00:00",
       "NumProgressed": 864,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T10:07:18.0381206+00:00",
+      "NumProgressed": 865,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1207,7 +1212,7 @@
       "Name": "Enlightenment",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "exoticmerchant",
@@ -1493,25 +1498,25 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 467
     },
     {
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "thefatherofdragons",
@@ -1629,16 +1634,16 @@
       "ID": "worldmap",
       "SetID": "3nl4bcg",
       "Name": "World Map",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 683
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 864,
+      "Progressed": 865,
       "Completed": 1
     }
   ],
@@ -1646,8 +1651,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T09:07:23.6245908+00:00",
+  "LastChanged_Achievements": "2023-05-06T10:07:18.0381201+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:59:48.6950371+00:00",
-  "LastUpdate_Achievements": "2023-05-06T09:07:23.6246748+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:59:32.8157597+00:00",
+  "LastUpdate_Achievements": "2023-05-06T10:07:18.0382556+00:00"
 }

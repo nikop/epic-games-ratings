@@ -4,7 +4,7 @@
   "ProductSlug": "redfall",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -598,9 +598,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 840
+      "UsersEstimate": 853
     },
     {
       "ID": "Achievement_010",
@@ -686,9 +686,9 @@
       "ID": "Achievement_020",
       "SetID": "6b34g18",
       "Name": "Sic Transit Umbra",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement_021",
@@ -742,9 +742,9 @@
       "ID": "Achievement_027",
       "SetID": "6b34g18",
       "Name": "Peek-a-boo",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 582
     },
     {
       "ID": "Achievement_028",
@@ -758,9 +758,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 440
     },
     {
       "ID": "Achievement_030",
@@ -878,9 +878,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 401
     },
     {
       "ID": "Achievement_046",
@@ -1079,8 +1079,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-02T02:57:49.0820144+00:00",
-  "LastChanged_Achievements": "2023-05-06T09:07:09.6366844+00:00",
+  "LastChanged_Achievements": "2023-05-06T10:07:02.4361141+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:59:37.9611702+00:00",
-  "LastUpdate_Achievements": "2023-05-06T09:07:09.6367508+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:59:20.0669243+00:00",
+  "LastUpdate_Achievements": "2023-05-06T10:07:02.4361924+00:00"
 }

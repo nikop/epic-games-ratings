@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~804 |
-| World Map | 80.00% | ~691 |
-| Temple of Eternals | 55.00% | ~475 |
+| World Map | 79.00% | ~683 |
+| Temple of Eternals | 54.00% | ~467 |
 | Prestigious | 51.00% | ~441 |
 | Fellowship Power | 39.00% | ~337 |
 | Guild Power | 23.00% | ~199 |
@@ -18,7 +18,7 @@
 | Miner Clicker | 12.00% | ~104 |
 | Hero inspection | 11.00% | ~95 |
 | Full Party | 9.00% | ~78 |
-| Enlightenment | 7.00% | ~60 |
+| Enlightenment | 7.00% | ~61 |
 | Dragon Master | 6.00% | ~52 |
 | Lieutenant | 6.00% | ~52 |
 | Natural Talent | 5.00% | ~43 |
@@ -33,6 +33,7 @@
 | Mastery | 2.00% | ~17 |
 | Moving Up The Ladder | 2.00% | ~17 |
 | Scroll Master | 2.00% | ~17 |
+| The Expeditioner | 2.00% | ~17 |
 | Active Member | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
@@ -41,7 +42,6 @@
 | Missions Dedication | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
-| The Expeditioner | 1.00% | ~9 |
 | The power of Awakening | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Ancient Knowledge | 0.90% | ~8 |
@@ -56,9 +56,9 @@
 | Engineer Mastery | 0.50% | ~4 |
 | Legendary | 0.50% | ~4 |
 | Pokerface | 0.50% | ~4 |
+| The Alchemist | 0.50% | ~4 |
 | Tree of Life | 0.50% | ~4 |
 | Ebony Jungle Liberator | 0.30% | ~3 |
-| The Alchemist | 0.30% | ~3 |
 | Transmute | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864 (Ranked 165)  
+Progressed: 865 (Ranked 165)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
-| 2023-05-06 | 864 | 1 |
+| 2023-05-06 | 865 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

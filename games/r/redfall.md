@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 85.00% | ~1,099 |
+| Ne Plus Ultra | 66.00% | ~853 |
 | Home Is Where the Heart Is | 65.00% | ~840 |
-| Ne Plus Ultra | 65.00% | ~840 |
 | Wounded Whispers | 64.00% | ~828 |
 | Blood Will Have Blood | 51.00% | ~659 |
 | ICU | 47.00% | ~608 |
+| Peek-a-boo | 45.00% | ~582 |
 | Catch and Release | 45.00% | ~582 |
-| Peek-a-boo | 44.00% | ~569 |
 | Sucks To Be You | 44.00% | ~569 |
 | Welcome to the Neighborhood | 37.00% | ~478 |
 | Fly Fisher | 34.00% | ~440 |
-| Throw The First Stone | 33.00% | ~427 |
+| Throw The First Stone | 34.00% | ~440 |
+| Skin of Their Teeth | 31.00% | ~401 |
 | Enter of Your Own Free Will | 30.00% | ~388 |
 | Heart Attack | 30.00% | ~388 |
-| Skin of Their Teeth | 30.00% | ~388 |
 | Bad Wiring | 21.00% | ~272 |
 | Grounded | 21.00% | ~272 |
 | I Spit On Your Grave | 19.00% | ~246 |
@@ -34,6 +34,7 @@
 | Revelations | 2.00% | ~26 |
 | Scream Team | 2.00% | ~26 |
 | Blood Brother | 2.00% | ~26 |
+| Sic Transit Umbra | 2.00% | ~26 |
 | Bell-ringer | 2.00% | ~26 |
 | Silence Is Golden | 2.00% | ~26 |
 | Check, Please! | 2.00% | ~26 |
@@ -44,7 +45,6 @@
 | Friends 'Til The End | 2.00% | ~26 |
 | Contingency Plans | 1.00% | ~13 |
 | Friendgineering | 1.00% | ~13 |
-| Sic Transit Umbra | 1.00% | ~13 |
 | Good Morning | 1.00% | ~13 |
 | Ask Not For Whom The Horns Blow | 1.00% | ~13 |
 | Bloody Initiate | 1.00% | ~13 |

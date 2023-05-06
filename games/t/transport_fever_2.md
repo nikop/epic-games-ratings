@@ -6,42 +6,42 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 76.00% | ~784 |
+| First line | 77.00% | ~795 |
 | First cargo item waiting | 71.00% | ~733 |
-| First cargo item on board | 70.00% | ~722 |
-| First bus stop | 69.00% | ~712 |
-| First passenger on board | 66.00% | ~681 |
-| First passenger waiting | 66.00% | ~681 |
+| First cargo item on board | 70.00% | ~723 |
+| First bus stop | 69.00% | ~713 |
+| First passenger on board | 66.00% | ~682 |
+| First passenger waiting | 66.00% | ~682 |
 | First bus arrived | 65.00% | ~671 |
-| First train station | 63.00% | ~650 |
+| First train station | 63.00% | ~651 |
 | First steam train arrived | 59.00% | ~609 |
 | First industry upgraded | 56.00% | ~578 |
-| Transport millionaire | 54.00% | ~557 |
+| Transport millionaire | 54.00% | ~558 |
 | Cargo hub | 53.00% | ~547 |
 | Cadet | 52.00% | ~537 |
-| Transport master | 51.00% | ~526 |
+| Transport master | 51.00% | ~527 |
 | Sculpturer | 50.00% | ~516 |
-| Settled down | 48.00% | ~495 |
-| First electric train arrived | 47.00% | ~485 |
+| Settled down | 48.00% | ~496 |
+| First electric train arrived | 47.00% | ~486 |
 | First ship arrived | 46.00% | ~475 |
-| Now what? | 45.00% | ~464 |
+| Now what? | 45.00% | ~465 |
 | High speed | 43.00% | ~444 |
 | Transport shark | 40.00% | ~413 |
 | First aircraft arrived | 40.00% | ~413 |
 | Exemplary student | 40.00% | ~413 |
-| Mass production | 35.00% | ~361 |
+| Mass production | 35.00% | ~362 |
 | Aircraft entrepreneur | 33.00% | ~341 |
 | Crowd in a train | 31.00% | ~320 |
-| Not in my backyard | 31.00% | ~320 |
 | The future is now, old man | 31.00% | ~320 |
-| City | 29.00% | ~299 |
+| Not in my backyard | 30.00% | ~310 |
+| City | 29.00% | ~300 |
 | The king of the sea | 28.00% | ~289 |
 | Transport tycoon | 25.00% | ~258 |
 | Climate change | 22.00% | ~227 |
 | Old timer | 22.00% | ~227 |
 | The ugly smell of success | 22.00% | ~227 |
-| Heavily loaded | 20.00% | ~206 |
-| Bob Ross | 17.00% | ~175 |
+| Heavily loaded | 20.00% | ~207 |
+| Bob Ross | 17.00% | ~176 |
 | No free seats | 11.00% | ~114 |
 | Campaign expert | 10.00% | ~103 |
 | Penny pincher | 10.00% | ~103 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,032 (Ranked 158)  
+Progressed: 1,033 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 1,022 | 0 |
 | 2023-05-04 | 1,028 | 0 |
 | 2023-05-05 | 1,032 | 0 |
+| 2023-05-06 | 1,033 | 0 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 414)  
 Sum: 260 (Ranked 338)  

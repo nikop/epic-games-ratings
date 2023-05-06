@@ -122,9 +122,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "2",
@@ -203,8 +203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-05-06T09:07:35.7773488+00:00",
+  "LastChanged_Achievements": "2023-05-06T10:07:31.8605234+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.1914898+00:00",
-  "LastUpdate_Ratings": "2023-05-06T09:00:57.5078693+00:00",
-  "LastUpdate_Achievements": "2023-05-06T09:07:35.77736+00:00"
+  "LastUpdate_Ratings": "2023-05-06T10:00:54.1666416+00:00",
+  "LastUpdate_Achievements": "2023-05-06T10:07:31.8605406+00:00"
 }
