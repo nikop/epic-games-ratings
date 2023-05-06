@@ -32,11 +32,11 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 3.00% | ~77 |
 | Junk Banishment | 3.00% | ~77 |
 | Long Distance Call | 3.00% | ~77 |
+| Tactical Flexibility | 3.00% | ~77 |
 | Patron of Deimos | 2.00% | ~52 |
 | Preservationist | 2.00% | ~52 |
 | Engine Kill | 2.00% | ~52 |
 | Death Comes For All | 2.00% | ~52 |
-| Tactical Flexibility | 2.00% | ~52 |
 | Fleetmaster | 1.00% | ~26 |
 | For the Machine God | 1.00% | ~26 |
 | Unstable Immaterium | 1.00% | ~26 |

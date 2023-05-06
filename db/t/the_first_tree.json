@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 49,
   "Rating": 3.98,
   "NumberOfRatings": 56,
@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30326,
+  "EOS_Progressed": 30331,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 1,
@@ -1338,6 +1338,11 @@
       "Time": "2023-05-06T18:07:50.0454531+00:00",
       "NumProgressed": 30326,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-06T19:06:50.736708+00:00",
+      "NumProgressed": 30331,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 14,
@@ -1349,7 +1354,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "150stars",
@@ -1365,7 +1370,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7885
+      "UsersEstimate": 7886
     },
     {
       "ID": "allItems",
@@ -1397,7 +1402,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "completionist",
@@ -1429,7 +1434,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7582
+      "UsersEstimate": 7583
     },
     {
       "ID": "firstItem",
@@ -1437,7 +1442,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23654
+      "UsersEstimate": 23658
     },
     {
       "ID": "roots",
@@ -1445,7 +1450,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "secretItem",
@@ -1460,15 +1465,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30326,
+      "Progressed": 30331,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:50.0454526+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:50.7367079+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.1528242+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:02:18.2216592+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:50.045474+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:01:13.5936306+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:50.7367211+00:00"
 }

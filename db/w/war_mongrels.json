@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.3,
   "NumberOfRatings": 34,
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -282,6 +282,11 @@
     {
       "Time": "2023-05-06T18:07:09.0027141+00:00",
       "NumProgressed": 243,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T19:06:19.2842144+00:00",
+      "NumProgressed": 244,
       "NumCompleted": 0
     }
   ],
@@ -406,7 +411,7 @@
       "Name": "Prospector",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -414,7 +419,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -422,15 +427,15 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -470,7 +475,7 @@
       "Name": "Collectibles of Chapter VII",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -518,15 +523,15 @@
       "Name": "Cowardice",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -534,15 +539,15 @@
       "Name": "The Motivation",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -558,7 +563,7 @@
       "Name": "Opportunities",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -606,7 +611,7 @@
       "Name": "Atonement",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_HARD_1",
@@ -638,7 +643,7 @@
       "Name": "Missing in Action",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -662,7 +667,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -702,15 +707,15 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
       "SetID": "1j25agn",
       "Name": "Food Massacre",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -718,7 +723,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -726,7 +731,7 @@
       "Name": "King of Knives",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_NEST1",
@@ -765,15 +770,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-03-31T05:57:33.4298842+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:09.0027133+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:19.2842141+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:58:48.0766625+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:09.0028064+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:58:52.2699135+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:19.2842671+00:00"
 }

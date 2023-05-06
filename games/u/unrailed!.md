@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,206 |
-| Incurious | 13.00% | ~76,206 |
-| Stroller | 12.00% | ~70,344 |
-| Climate Change | 12.00% | ~70,344 |
-| Toy Train | 10.00% | ~58,620 |
-| Hiker | 9.00% | ~52,758 |
-| Advanced Hiker | 9.00% | ~52,758 |
-| Mojave Courier | 4.00% | ~23,448 |
-| Voyager | 2.00% | ~11,724 |
-| Advanced Voyager | 2.00% | ~11,724 |
-| Expert Stroller | 2.00% | ~11,724 |
-| Expert Hiker | 2.00% | ~11,724 |
-| Orient Express | 2.00% | ~11,724 |
-| Marathon | 2.00% | ~11,724 |
-| Destructionist | 2.00% | ~11,724 |
-| Saved by Nausicaä | 2.00% | ~11,724 |
+| Advanced Stroller | 13.00% | ~76,211 |
+| Incurious | 13.00% | ~76,211 |
+| Stroller | 12.00% | ~70,349 |
+| Climate Change | 12.00% | ~70,349 |
+| Toy Train | 10.00% | ~58,624 |
+| Hiker | 9.00% | ~52,761 |
+| Advanced Hiker | 9.00% | ~52,761 |
+| Mojave Courier | 4.00% | ~23,450 |
+| Voyager | 2.00% | ~11,725 |
+| Advanced Voyager | 2.00% | ~11,725 |
+| Expert Stroller | 2.00% | ~11,725 |
+| Expert Hiker | 2.00% | ~11,725 |
+| Orient Express | 2.00% | ~11,725 |
+| Marathon | 2.00% | ~11,725 |
+| Destructionist | 2.00% | ~11,725 |
+| Saved by Nausicaä | 2.00% | ~11,725 |
 | Lost | 1.00% | ~5,862 |
 | Rocketman | 0.50% | ~2,931 |
 | Shopaholic | 0.50% | ~2,931 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~586 |
 | 20 Miles under the Sea | 0.10% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586,198 (Ranked 21)  
+Progressed: 586,238 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,10 +75,10 @@ Completed: 6 (0.00%) (Ranked 192)
 | 2023-05-03 | 585,010 | 6 |
 | 2023-05-04 | 585,354 | 6 |
 | 2023-05-05 | 585,767 | 6 |
-| 2023-05-06 | 586,198 | 6 |
+| 2023-05-06 | 586,238 | 6 |
 ## Awards
 Max (Diverse Characters): 183  (Ranked 263)  
-Sum: 1,497 (Ranked 207)  
+Sum: 1,498 (Ranked 207)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -89,7 +89,7 @@ Diff (max vs sum): 56
 | This game is Relaxing | 177 |
 | This game has Amazing Characters | 156 |
 | This game is Highly Recommended | 151 |
-| This game has Playful Visuals | 146 |
+| This game has Playful Visuals | 147 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -165,3 +165,4 @@ Diff (max vs sum): 56
 | 2023-04-25 | 4.64 | - | 183 | 1,495 |
 | 2023-04-28 | 4.64 | - | 183 | 1,496 |
 | 2023-05-03 | 4.64 | - | 183 | 1,497 |
+| 2023-05-06 | 4.64 | - | 183 | 1,498 |

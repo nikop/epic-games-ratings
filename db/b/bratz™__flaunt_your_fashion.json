@@ -82,9 +82,9 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "15",
@@ -138,9 +138,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "4",
@@ -154,9 +154,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "6",
@@ -203,8 +203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:30.302005+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:35.7571627+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.1914898+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:00:50.3094812+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:30.3020253+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:00:16.4742915+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:35.7571777+00:00"
 }

@@ -5317,10 +5317,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 166602,
       "NumberOfAwardsMax": 63694
+    },
+    {
+      "Time": "2023-05-06T18:59:05.5190805+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 166611,
+      "NumberOfAwardsMax": 63694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166602,
+  "NumberOfAwards": 166611,
   "NumberOfAwardsMax": 63694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5364,7 +5370,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7135
+      "Count": 7144
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5397,9 +5403,9 @@
       "Count": 4654
     }
   ],
-  "EOS_Progressed": 798287,
+  "EOS_Progressed": 798301,
   "EOS_Completed": 1573,
-  "EOS_NewPlayers": 1614,
+  "EOS_NewPlayers": 1610,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6717,6 +6723,11 @@
       "Time": "2023-05-06T18:06:54.1248902+00:00",
       "NumProgressed": 798287,
       "NumCompleted": 1573
+    },
+    {
+      "Time": "2023-05-06T19:06:07.8799003+00:00",
+      "NumProgressed": 798301,
+      "NumCompleted": 1573
     }
   ],
   "TotalAchievements": 44,
@@ -6736,7 +6747,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47897
+      "UsersEstimate": 47898
     },
     {
       "ID": "BushidoAndChill",
@@ -6744,7 +6755,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119743
+      "UsersEstimate": 119745
     },
     {
       "ID": "Cyberjunkie",
@@ -6752,7 +6763,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135709
+      "UsersEstimate": 135711
     },
     {
       "ID": "Denied",
@@ -6760,7 +6771,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295366
+      "UsersEstimate": 295371
     },
     {
       "ID": "FollowingTheRiver",
@@ -6768,7 +6779,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103777
+      "UsersEstimate": 103779
     },
     {
       "ID": "Fortuneteller",
@@ -6776,7 +6787,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 71846
+      "UsersEstimate": 71847
     },
     {
       "ID": "Gearhead",
@@ -6800,7 +6811,7 @@
       "Name": "Gun Fu",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103777
+      "UsersEstimate": 103779
     },
     {
       "ID": "Gunslinger",
@@ -6816,7 +6827,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103777
+      "UsersEstimate": 103779
     },
     {
       "ID": "IAmMaxTac",
@@ -6824,7 +6835,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 103777
+      "UsersEstimate": 103779
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -6848,7 +6859,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167640
+      "UsersEstimate": 167643
     },
     {
       "ID": "MaxPain",
@@ -6856,7 +6867,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 71846
+      "UsersEstimate": 71847
     },
     {
       "ID": "MustBeTheRats",
@@ -6864,7 +6875,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31931
+      "UsersEstimate": 31932
     },
     {
       "ID": "NeverFadeAway",
@@ -6872,7 +6883,7 @@
       "Name": "Breathtaking",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55880
+      "UsersEstimate": 55881
     },
     {
       "ID": "NoMansLand",
@@ -6896,7 +6907,7 @@
       "Name": "Life of the Road",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 151675
+      "UsersEstimate": 151677
     },
     {
       "ID": "Roleplayer",
@@ -6904,7 +6915,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215537
+      "UsersEstimate": 215541
     },
     {
       "ID": "Specialist",
@@ -6912,7 +6923,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63863
+      "UsersEstimate": 63864
     },
     {
       "ID": "Temperance",
@@ -6920,7 +6931,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31931
+      "UsersEstimate": 31932
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -6944,7 +6955,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 534852
+      "UsersEstimate": 534862
     },
     {
       "ID": "TheHermit",
@@ -6952,7 +6963,7 @@
       "Name": "The Hermit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175623
+      "UsersEstimate": 175626
     },
     {
       "ID": "TheHightPriestess",
@@ -6960,7 +6971,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159657
+      "UsersEstimate": 159660
     },
     {
       "ID": "TheLovers",
@@ -6968,7 +6979,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255452
+      "UsersEstimate": 255456
     },
     {
       "ID": "TheStar",
@@ -6976,7 +6987,7 @@
       "Name": "The Star",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47897
+      "UsersEstimate": 47898
     },
     {
       "ID": "TheSun",
@@ -6984,7 +6995,7 @@
       "Name": "The Sun",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47897
+      "UsersEstimate": 47898
     },
     {
       "ID": "TheWheelOfFortune",
@@ -6992,7 +7003,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199572
+      "UsersEstimate": 199575
     },
     {
       "ID": "TheWorld",
@@ -7000,7 +7011,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127726
+      "UsersEstimate": 127728
     },
     {
       "ID": "ThisIsPacifica",
@@ -7024,7 +7035,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175623
+      "UsersEstimate": 175626
     },
     {
       "ID": "TrueWarrior",
@@ -7032,7 +7043,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111760
+      "UsersEstimate": 111762
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -7040,7 +7051,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 87812
+      "UsersEstimate": 87813
     },
     {
       "ID": "UnderPressure",
@@ -7048,7 +7059,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103777
+      "UsersEstimate": 103779
     },
     {
       "ID": "VForVendetta",
@@ -7072,22 +7083,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 159657
+      "UsersEstimate": 159660
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 798287,
+      "Progressed": 798301,
       "Completed": 1573
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-06T17:59:07.562634+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:06:54.1248896+00:00",
+  "LastChanged": "2023-05-06T18:59:05.5190803+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:07.8799+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:59:07.5626349+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:06:54.1251783+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:59:05.5190811+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:07.8799561+00:00"
 }

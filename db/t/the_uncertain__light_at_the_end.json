@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 3.88,
   "RatingHistory": [
@@ -60,11 +60,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -105,6 +105,11 @@
       "Time": "2023-05-06T16:08:04.800443+00:00",
       "NumProgressed": 408,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-06T19:06:56.0984213+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -140,7 +145,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Doors_Closing",
@@ -194,9 +199,9 @@
       "ID": "Headshot",
       "SetID": "ek310c",
       "Name": "U Mad Bro?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "Healthy_Child",
@@ -292,7 +297,7 @@
       "Name": "A Familiar Face",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Paparazzi",
@@ -308,7 +313,7 @@
       "Name": "Catch You Later",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Party",
@@ -330,9 +335,9 @@
       "ID": "Strike",
       "SetID": "ek310c",
       "Name": "Beat the Heat",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -347,7 +352,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 5
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:56.7752504+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:56.098421+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:35.0221591+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:02:41.6233179+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:56.7752863+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:01:29.876112+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:56.0984447+00:00"
 }

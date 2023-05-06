@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 46.00% | ~480 |
+| First Step | 47.00% | ~490 |
 | Dense Forest | 38.00% | ~396 |
 | Cactus Vally | 29.00% | ~302 |
 | Rainy Ruins | 18.00% | ~188 |

@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -38,6 +38,11 @@
       "Time": "2023-05-06T07:07:00.3546437+00:00",
       "NumProgressed": 117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T19:06:49.9205542+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -47,15 +52,15 @@
       "ID": "LC-01",
       "SetID": "ap2ljl4",
       "Name": "Proving Your Skills",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 50
     },
@@ -184,7 +189,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 1
     }
   ],
@@ -192,8 +197,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:49.1409258+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:49.9205533+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.5835257+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:02:09.4880248+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:49.1409459+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:01:07.7199196+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:49.9205665+00:00"
 }

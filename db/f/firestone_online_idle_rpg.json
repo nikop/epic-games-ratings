@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 875,
+  "EOS_Progressed": 877,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1058,6 +1058,11 @@
       "Time": "2023-05-06T17:06:12.5882748+00:00",
       "NumProgressed": 875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T19:06:25.4987698+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1181,7 +1186,7 @@
       "Name": "Dragon Master",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "dragonslayer",
@@ -1253,7 +1258,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "fourleafclover",
@@ -1301,7 +1306,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "herewegoagain",
@@ -1365,7 +1370,7 @@
       "Name": "Lieutenant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "lockandload",
@@ -1461,7 +1466,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "prestigiousx10",
@@ -1525,7 +1530,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "thealchemist",
@@ -1629,7 +1634,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 816
     },
     {
       "ID": "warmachinesarmy",
@@ -1661,14 +1666,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 693
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 875,
+      "Progressed": 877,
       "Completed": 1
     }
   ],
@@ -1676,8 +1681,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:16.9767088+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:25.4987695+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:59:27.2263424+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:16.9768532+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:59:19.5163377+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:25.4988507+00:00"
 }

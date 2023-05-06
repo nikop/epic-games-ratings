@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -543,6 +543,11 @@
       "Time": "2023-05-06T18:07:55.9576148+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T19:06:55.4451568+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -570,7 +575,7 @@
       "Name": "Antivirus \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achBag",
@@ -578,7 +583,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achBett",
@@ -586,7 +591,7 @@
       "Name": "Betty \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achBrain",
@@ -594,7 +599,7 @@
       "Name": "Brain \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achCar",
@@ -610,13 +615,13 @@
       "Name": "Cheats \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 70
     },
@@ -626,7 +631,7 @@
       "Name": "City \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achCoinOne",
@@ -698,7 +703,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achEva",
@@ -706,7 +711,7 @@
       "Name": "Eva \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achExplosion",
@@ -736,9 +741,9 @@
       "ID": "achHospital",
       "SetID": "72gjli4",
       "Name": "Hospital \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achIvan",
@@ -752,17 +757,17 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "achLizun",
       "SetID": "72gjli4",
       "Name": "Mutant fight \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achLizunTwo",
@@ -770,7 +775,7 @@
       "Name": "Mutant run \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achMaikl",
@@ -778,7 +783,7 @@
       "Name": "Fraternal help \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achOsipovOne",
@@ -802,7 +807,7 @@
       "Name": "City on fire \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achPlotThree",
@@ -810,7 +815,7 @@
       "Name": "Infected \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achPlotTwo",
@@ -866,7 +871,7 @@
       "Name": "King of survival \u2714",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achSecretos",
@@ -874,7 +879,7 @@
       "Name": "All secrets revealed \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achSeif",
@@ -890,7 +895,7 @@
       "Name": "Chess \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achSpped",
@@ -906,7 +911,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achVip",
@@ -928,9 +933,9 @@
       "ID": "achWater",
       "SetID": "72gjli4",
       "Name": "Thirst \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achWeapon",
@@ -953,7 +958,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
@@ -961,8 +966,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:55.9576144+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:55.4451565+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:02:21.4837827+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:55.9576653+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:01:15.9271874+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:55.4452033+00:00"
 }

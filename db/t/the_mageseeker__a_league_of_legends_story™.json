@@ -2,14 +2,14 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 114,
+  "Ranking_Rating": 156,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 75,
-  "Rating": 4.76,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-04-18T18:57:53.9681459+00:00",
@@ -46,15 +46,21 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-06T18:58:59.4969361+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1895,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -847,6 +853,11 @@
       "Time": "2023-05-06T18:07:07.8833778+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T19:06:18.4444461+00:00",
+      "NumProgressed": 1895,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -858,7 +869,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -874,7 +885,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -922,7 +933,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -938,7 +949,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -946,7 +957,7 @@
       "Name": "I smell fear",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -992,9 +1003,9 @@
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 474
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1032,9 +1043,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1440
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1042,7 +1053,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1074,7 +1085,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1162,7 +1173,7 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1274,23 +1285,23 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
-  "LastChanged": "2023-05-05T18:58:53.1227442+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:07.8833772+00:00",
+  "LastChanged": "2023-05-06T18:58:59.496936+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:18.4444458+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:58:58.9104052+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:07.8834323+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:58:59.4969365+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:18.4444972+00:00"
 }

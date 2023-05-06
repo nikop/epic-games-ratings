@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1160,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-05-06T18:07:01.054663+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T19:06:13.1210184+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -584,7 +589,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Achievement_002",
@@ -592,7 +597,7 @@
       "Name": "Revelations",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_003",
@@ -600,7 +605,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 877
     },
     {
       "ID": "Achievement_004",
@@ -608,7 +613,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "Achievement_006",
@@ -616,7 +621,7 @@
       "Name": "Contingency Plans",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_007",
@@ -632,23 +637,23 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 678
     },
     {
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 877
     },
     {
       "ID": "Achievement_010",
       "SetID": "6b34g18",
       "Name": "Welcome to the Neighborhood",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 518
     },
     {
       "ID": "Achievement_011",
@@ -672,7 +677,7 @@
       "Name": "Scream Team",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_014",
@@ -688,7 +693,7 @@
       "Name": "Blood Brother",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_016",
@@ -702,9 +707,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 279
     },
     {
       "ID": "Achievement_018",
@@ -720,7 +725,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1143
     },
     {
       "ID": "Achievement_020",
@@ -728,7 +733,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_021",
@@ -736,7 +741,7 @@
       "Name": "Radio Silence",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Achievement_022",
@@ -752,7 +757,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_024",
@@ -760,7 +765,7 @@
       "Name": "Good Morning",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_025",
@@ -776,15 +781,15 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "Achievement_027",
       "SetID": "6b34g18",
       "Name": "Peek-a-boo",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 611
     },
     {
       "ID": "Achievement_028",
@@ -792,15 +797,15 @@
       "Name": "You Clean It Up",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 465
     },
     {
       "ID": "Achievement_030",
@@ -808,15 +813,15 @@
       "Name": "ICU",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 638
     },
     {
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 611
     },
     {
       "ID": "Achievement_032",
@@ -832,7 +837,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 864
     },
     {
       "ID": "Achievement_034",
@@ -840,7 +845,7 @@
       "Name": "Catch and Release",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Achievement_035",
@@ -880,7 +885,7 @@
       "Name": "Check, Please!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_040",
@@ -888,7 +893,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "Achievement_041",
@@ -896,7 +901,7 @@
       "Name": "Empty Nest Syndrome",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_043",
@@ -904,7 +909,7 @@
       "Name": "Starve the Beast",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Achievement_044",
@@ -920,7 +925,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Achievement_046",
@@ -974,9 +979,9 @@
       "ID": "Achievement_053",
       "SetID": "6b34g18",
       "Name": "Harvest\u2019s End",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_055",
@@ -984,7 +989,7 @@
       "Name": "Blacklight Down",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_056",
@@ -998,9 +1003,9 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_058",
@@ -1008,7 +1013,7 @@
       "Name": "Enemy of My Enemy",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_059",
@@ -1016,7 +1021,7 @@
       "Name": "Dexterity Save",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_060",
@@ -1088,7 +1093,7 @@
       "Name": "Friends \u0027Til The End",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_070",
@@ -1102,16 +1107,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 266
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1329,
       "Completed": 0
     }
   ],
@@ -1119,8 +1124,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-02T02:57:49.0820144+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:01.0546623+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:13.1210175+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-06T17:59:13.3809394+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:01.054737+00:00"
+  "LastUpdate_Ratings": "2023-05-06T18:59:09.6050823+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:13.1210875+00:00"
 }

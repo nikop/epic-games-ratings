@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 38,
   "Rating": 4.2,
   "NumberOfRatings": 2500,
@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11221,
+  "EOS_Progressed": 11226,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-05-06T18:07:48.6529909+00:00",
       "NumProgressed": 11221,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-06T19:06:49.5889615+00:00",
+      "NumProgressed": 11226,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2533,7 +2538,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "1017",
@@ -2541,7 +2546,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "1018",
@@ -2549,7 +2554,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "1019",
@@ -2565,7 +2570,7 @@
       "Name": "Growing Strong",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "1021",
@@ -2573,7 +2578,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "1022",
@@ -2581,7 +2586,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "1023",
@@ -2605,7 +2610,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "1026",
@@ -2621,7 +2626,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "1028",
@@ -2629,7 +2634,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "1029",
@@ -2645,7 +2650,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "1031",
@@ -2653,7 +2658,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "1032",
@@ -2661,7 +2666,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4490
     },
     {
       "ID": "1033",
@@ -2685,7 +2690,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "1036",
@@ -2700,15 +2705,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11221,
+      "Progressed": 11226,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "LastChanged_Achievements": "2023-05-06T18:07:48.6529905+00:00",
+  "LastChanged_Achievements": "2023-05-06T19:06:49.5889612+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-06T18:02:16.4901956+00:00",
-  "LastUpdate_Achievements": "2023-05-06T18:07:48.6530177+00:00"
+  "LastUpdate_Ratings": "2023-05-06T19:01:12.418533+00:00",
+  "LastUpdate_Achievements": "2023-05-06T19:06:49.588984+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~867 |
 | Vecna Out! | 1.00% | ~529 |
 | Pin and Skewer | 0.90% | ~476 |
-| Bully for Vecna | 0.70% | ~370 |
+| Bully for Vecna | 0.70% | ~371 |
 | The Cursed Farmer | 0.70% | ~607 |
 | The Mad Wizard | 0.60% | ~520 |
 | Beast Intentions | 0.50% | ~433 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,654 (Ranked 59)  
+Progressed: 86,660 (Ranked 59)  
 Completed: 1,808 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,808 (2.09%) (Ranked 56)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,654 | 1,808 |
+| 2023-05-06 | 86,660 | 1,808 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

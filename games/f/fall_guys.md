@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 6.00% | ~1,944,615 |
-| Snowflake | 6.00% | ~1,944,615 |
-| Fall Throttle | 5.00% | ~1,620,512 |
-| Bargain Bucket | 4.00% | ~1,296,410 |
-| Big Bully | 4.00% | ~1,296,410 |
-| Face First | 4.00% | ~1,296,410 |
-| One to Watch | 4.00% | ~1,296,410 |
-| Style Points | 4.00% | ~1,296,410 |
-| Troublemaker | 4.00% | ~1,296,410 |
-| Flawless Victory | 3.00% | ~972,308 |
-| Fall Bae | 3.00% | ~972,308 |
-| Ahead of the Pack | 3.00% | ~972,308 |
-| Stumble Chums | 3.00% | ~972,308 |
-| Victory! | 3.00% | ~972,308 |
-| Household Name | 2.00% | ~648,205 |
-| Catwalk Model | 1.00% | ~324,102 |
-| Down to the Wire | 1.00% | ~324,102 |
-| Star of the Show | 1.00% | ~324,102 |
-| Head Turner | 1.00% | ~324,102 |
-| One giant leap | 1.00% | ~324,102 |
-| Quite Dashing | 1.00% | ~324,102 |
-| Squad Goals | 1.00% | ~324,102 |
-| Big Air | 0.90% | ~291,692 |
-| Low Baller | 0.60% | ~194,462 |
-| Mad Trendy | 0.60% | ~194,462 |
-| Shopping Spree | 0.60% | ~194,462 |
-| Top Tier | 0.50% | ~162,051 |
-| Veteran Status | 0.30% | ~97,231 |
-| Show Off | 0.30% | ~97,231 |
-| Track Star | 0.20% | ~64,820 |
-| Golden Guy | 0.20% | ~64,820 |
-| Big Tease | 0.10% | ~32,410 |
-| Fall Guy Fashionista | 0.10% | ~32,410 |
-| Infallible | 0.10% | ~32,410 |
+| One small trip | 6.00% | ~1,944,693 |
+| Snowflake | 6.00% | ~1,944,693 |
+| Fall Throttle | 5.00% | ~1,620,577 |
+| Bargain Bucket | 4.00% | ~1,296,462 |
+| Big Bully | 4.00% | ~1,296,462 |
+| Face First | 4.00% | ~1,296,462 |
+| One to Watch | 4.00% | ~1,296,462 |
+| Style Points | 4.00% | ~1,296,462 |
+| Troublemaker | 4.00% | ~1,296,462 |
+| Flawless Victory | 3.00% | ~972,346 |
+| Fall Bae | 3.00% | ~972,346 |
+| Ahead of the Pack | 3.00% | ~972,346 |
+| Stumble Chums | 3.00% | ~972,346 |
+| Victory! | 3.00% | ~972,346 |
+| Household Name | 2.00% | ~648,231 |
+| Catwalk Model | 1.00% | ~324,115 |
+| Down to the Wire | 1.00% | ~324,115 |
+| Star of the Show | 1.00% | ~324,115 |
+| Head Turner | 1.00% | ~324,115 |
+| One giant leap | 1.00% | ~324,115 |
+| Quite Dashing | 1.00% | ~324,115 |
+| Squad Goals | 1.00% | ~324,115 |
+| Big Air | 0.90% | ~291,704 |
+| Low Baller | 0.60% | ~194,469 |
+| Mad Trendy | 0.60% | ~194,469 |
+| Shopping Spree | 0.60% | ~194,469 |
+| Top Tier | 0.50% | ~162,058 |
+| Veteran Status | 0.30% | ~97,235 |
+| Show Off | 0.30% | ~97,235 |
+| Track Star | 0.20% | ~64,823 |
+| Golden Guy | 0.20% | ~64,823 |
+| Big Tease | 0.10% | ~32,412 |
+| Fall Guy Fashionista | 0.10% | ~32,412 |
+| Infallible | 0.10% | ~32,412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,410,250 (Ranked 1)  
-Completed: 28,951 (0.09%) (Ranked 156)  
+Progressed: 32,411,547 (Ranked 1)  
+Completed: 28,954 (0.09%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,10 +57,10 @@ Completed: 28,951 (0.09%) (Ranked 156)
 | 2023-05-03 | 32,358,290 | 28,864 |
 | 2023-05-04 | 32,373,751 | 28,890 |
 | 2023-05-05 | 32,392,280 | 28,916 |
-| 2023-05-06 | 32,410,250 | 28,951 |
+| 2023-05-06 | 32,411,547 | 28,954 |
 ## Awards
 Max (Great for Beginners): 138,061  (Ranked 7)  
-Sum: 1,293,669 (Ranked 5)  
+Sum: 1,293,711 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -69,7 +69,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 126,840 |
 | This game has Quickly Understood Controls | 126,820 |
 | This game is Great for Quick Sessions | 121,830 |
-| This game has Diverse Characters | 119,330 |
+| This game has Diverse Characters | 119,372 |
 | This game is Extremely Fun | 116,112 |
 | This game is Highly Recommended | 109,291 |
 | This game has Amazing Characters | 106,610 |
@@ -179,4 +179,4 @@ Diff (max vs sum): 2
 | 2023-05-03 | 4.53 | - | 137,970 | 1,293,149 |
 | 2023-05-04 | 4.53 | - | 137,999 | 1,293,304 |
 | 2023-05-05 | 4.53 | - | 138,018 | 1,293,460 |
-| 2023-05-06 | 4.53 | - | 138,061 | 1,293,669 |
+| 2023-05-06 | 4.53 | - | 138,061 | 1,293,711 |

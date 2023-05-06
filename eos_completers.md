@@ -15,21 +15,21 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
-| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.19% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
+| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.16% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.13% |
-| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.09% |
+| 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -74,7 +74,7 @@
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 73 | [Trifox](games/t/trifox.md) | 1.28% |
 | 74 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
-| 75 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.23% |
+| 75 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
 | 76 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 77 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
