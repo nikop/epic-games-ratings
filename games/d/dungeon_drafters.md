@@ -14,11 +14,11 @@
 | Shine! | 30.00% | ~7 |
 | Dungeon Mastery | 26.00% | ~6 |
 | Card Collector | 17.00% | ~4 |
+| The Apprentice | 13.00% | ~3 |
 | The Familiar | 13.00% | ~3 |
 | The Steed | 13.00% | ~3 |
 | A Strange Proposition | 13.00% | ~3 |
 | The Bodyguard | 9.00% | ~2 |
-| The Apprentice | 9.00% | ~2 |
 | Braving Miasma | 9.00% | ~2 |
 | Ancient Nemesis | 9.00% | ~2 |
 | Best Pupil | 9.00% | ~2 |

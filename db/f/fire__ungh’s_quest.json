@@ -79,9 +79,9 @@
       "ID": "20_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 20",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "25_Coins",
@@ -119,9 +119,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -135,9 +135,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -215,17 +215,17 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -272,8 +272,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:10:05.2713205+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:28.7008151+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.7186203+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:06.6818414+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:10:05.2713404+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:01:23.6568547+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:28.7008335+00:00"
 }

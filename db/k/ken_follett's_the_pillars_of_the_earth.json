@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12206,
+  "EOS_Progressed": 12207,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1207,6 +1207,11 @@
       "Time": "2023-05-06T13:09:23.3917489+00:00",
       "NumProgressed": 12206,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-06T14:06:45.5714618+00:00",
+      "NumProgressed": 12207,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 41,
@@ -1434,7 +1439,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "tpote_achievement_35",
@@ -1530,7 +1535,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "tpote_achievement_9",
@@ -1538,22 +1543,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12206,
+      "Progressed": 12207,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:09:23.3917484+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:06:45.5714612+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:14.1695642+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:09:23.3917838+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:01:30.797507+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:06:45.5714988+00:00"
 }

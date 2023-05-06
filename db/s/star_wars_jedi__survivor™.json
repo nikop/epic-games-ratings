@@ -2,14 +2,14 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 680,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 73,
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-04-28T17:02:09.2169577+00:00",
@@ -142,6 +142,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 204,
       "NumberOfAwardsMax": 204
+    },
+    {
+      "Time": "2023-05-06T14:02:05.4961167+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 204
     }
   ],
   "ReviewsDisabled": false,
@@ -168,8 +174,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "LastChanged": "2023-05-06T11:02:18.4630688+00:00",
+  "LastChanged": "2023-05-06T14:02:05.4961164+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.3115122+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:50.7638326+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:09:11.5088323+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:02:05.4961171+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:06:33.5059204+00:00"
 }

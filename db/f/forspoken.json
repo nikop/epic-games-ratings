@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.11,
   "RatingHistory": [
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37610,
+  "EOS_Progressed": 37616,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -980,6 +980,11 @@
       "Time": "2023-05-06T13:09:46.5593135+00:00",
       "NumProgressed": 37610,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T14:07:09.2523744+00:00",
+      "NumProgressed": 37616,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1023,7 +1028,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -1047,7 +1052,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -1095,7 +1100,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -1119,7 +1124,7 @@
       "Name": "Forspoken",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -1151,7 +1156,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -1207,7 +1212,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -1247,7 +1252,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "MAGIC_IVY",
@@ -1343,7 +1348,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "STAYING_AIR",
@@ -1414,22 +1419,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37610,
+      "Progressed": 37616,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2447,
-      "Completed": 2447
+      "Progressed": 2453,
+      "Completed": 2453
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-05T08:58:30.6786847+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:09:46.5593132+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:09.2523735+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:02:46.5578502+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:09:46.5593874+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:00:05.981636+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:09.2524291+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 25,
   "Rating": 4.85,
   "NumberOfRatings": 425,
@@ -603,9 +603,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 27354,
+  "EOS_Progressed": 27355,
   "EOS_Completed": 1261,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 4.61,
   "EosHistory": [
@@ -918,6 +918,11 @@
       "Time": "2023-05-05T19:06:56.7439879+00:00",
       "NumProgressed": 27354,
       "NumCompleted": 1261
+    },
+    {
+      "Time": "2023-05-06T14:07:26.7840627+00:00",
+      "NumProgressed": 27355,
+      "NumCompleted": 1261
     }
   ],
   "TotalAchievements": 30,
@@ -929,7 +934,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12309
+      "UsersEstimate": 12310
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -977,7 +982,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 8753
+      "UsersEstimate": 8754
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -1017,7 +1022,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 15865
+      "UsersEstimate": 15866
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -1025,15 +1030,15 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 26533
+      "UsersEstimate": 26534
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
       "SetID": "2m0copd",
       "Name": "I\u0027m Stuffed",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 18874
+      "UsersEstimate": 18601
     },
     {
       "ID": "ACH_GOLEM",
@@ -1065,7 +1070,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16686
+      "UsersEstimate": 16687
     },
     {
       "ID": "ACH_LAUNCH",
@@ -1073,7 +1078,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15318
+      "UsersEstimate": 15319
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -1081,7 +1086,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14224
+      "UsersEstimate": 14225
     },
     {
       "ID": "ACH_PUZZLE",
@@ -1089,7 +1094,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 11762
+      "UsersEstimate": 11763
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -1121,7 +1126,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25439
+      "UsersEstimate": 25440
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -1129,7 +1134,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15318
+      "UsersEstimate": 15319
     },
     {
       "ID": "ACH_SUNDAE",
@@ -1145,7 +1150,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 9847
+      "UsersEstimate": 9848
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -1161,22 +1166,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 23798
+      "UsersEstimate": 23799
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27354,
+      "Progressed": 27355,
       "Completed": 1261
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-05-04T03:59:32.3679163+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:10:03.4016722+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:26.7840619+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.7065737+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:00.1800044+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:10:03.4017113+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:01:17.813192+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:26.7840875+00:00"
 }

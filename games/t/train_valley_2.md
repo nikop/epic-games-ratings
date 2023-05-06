@@ -30,6 +30,7 @@ Number of Ratings: 87  (23.09.2022)
 | Non-Stop | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Steam Age | 2.00% | ~14 |
+| Without a lunch break | 2.00% | ~14 |
 | Beginner | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
@@ -45,7 +46,6 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 1.00% | ~7 |
 | The Tortoise | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
-| Without a lunch break | 1.00% | ~7 |
 | Bridge builder | 0.90% | ~6 |
 | Engineer | 0.90% | ~6 |
 | Missed it! | 0.90% | ~6 |

@@ -12,12 +12,12 @@ Rating: 4.11 (Ranked 852)
 | Knock 'Em Dead | 6.00% | ~2,257 |
 | Pilgrimage: Initiate | 6.00% | ~2,257 |
 | Hell of a Run | 6.00% | ~2,257 |
-| No Mercy | 5.00% | ~1,880 |
-| Explorer: Seeker | 5.00% | ~1,880 |
-| Call of the Fount: Baptized | 5.00% | ~1,880 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,504 |
-| Stuck | 4.00% | ~1,504 |
-| Help Me Out Here | 4.00% | ~1,504 |
+| No Mercy | 5.00% | ~1,881 |
+| Explorer: Seeker | 5.00% | ~1,881 |
+| Call of the Fount: Baptized | 5.00% | ~1,881 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,505 |
+| Stuck | 4.00% | ~1,505 |
+| Help Me Out Here | 4.00% | ~1,505 |
 | The Interloper | 3.00% | ~1,128 |
 | Hop, Step, Jump | 3.00% | ~1,128 |
 | Outdoorsperson | 2.00% | ~752 |
@@ -32,8 +32,8 @@ Rating: 4.11 (Ranked 852)
 | Explorer: Pathfinder | 1.00% | ~376 |
 | Shocker | 1.00% | ~376 |
 | Pilgrimage: Novice | 1.00% | ~376 |
-| The Truth Will Out | 0.90% | ~338 |
-| Forspoken | 0.90% | ~338 |
+| The Truth Will Out | 0.90% | ~339 |
+| Forspoken | 0.90% | ~339 |
 | Wildfire | 0.60% | ~226 |
 | Realized Potential | 0.60% | ~226 |
 | Awakening | 0.50% | ~188 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 852)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,610 (Ranked 79)  
+Progressed: 37,616 (Ranked 79)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-03 | 37,500 | 1 |
 | 2023-05-04 | 37,537 | 1 |
 | 2023-05-05 | 37,585 | 1 |
-| 2023-05-06 | 37,610 | 1 |
+| 2023-05-06 | 37,616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

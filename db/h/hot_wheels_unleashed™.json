@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed",
   "Ranking_Rating": 351,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 266,
@@ -529,6 +529,6 @@
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "LastChanged": "2023-05-03T04:57:23.3118343+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.46717+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:01:31.5680756+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:04:57.3490125+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:58:47.2585101+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:02:13.113163+00:00"
 }

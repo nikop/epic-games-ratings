@@ -8,6 +8,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | ---- | ---------- | ----- |
 | Captain and Crew | 0.30% | ~64 |
 | Spells and Swords | 0.30% | ~64 |
+| Harvest and Home | 0.20% | ~43 |
 | Poise and Poisons | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |
 | Full House | 0.10% | ~21 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Greed | 0.10% | ~21 |
 | King and Kin | 0.10% | ~21 |
 | For Survival | 0.10% | ~21 |
-| Harvest and Home | 0.10% | ~21 |
 | For Penance | 0.10% | ~21 |
 | Progenitor and Protégé | 0.10% | ~21 |
 | For Love | 0.10% | ~21 |

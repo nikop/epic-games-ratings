@@ -14,6 +14,7 @@
 | Get to the Point | 21.00% | ~4 |
 | The Hidden Secret | 11.00% | ~2 |
 | Ka-Ching! | 11.00% | ~2 |
+| Toe to Toe | 11.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~1 |
 | Grand Escape | 5.00% | ~1 |
 | Space Warrior: Prologue | 5.00% | ~1 |
@@ -21,7 +22,6 @@
 | Antaeus | 5.00% | ~1 |
 | Air Interception | 5.00% | ~1 |
 | Proliferation | 5.00% | ~1 |
-| Toe to Toe | 5.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Deep Frozen Conqueror | 0.00% | ~0 |
 | The Abyss Conqueror | 0.00% | ~0 |

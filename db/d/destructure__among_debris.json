@@ -301,9 +301,9 @@
       "ID": "ice_breaker",
       "SetID": "jig50d",
       "Name": "Ice Breaker",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "legendary_destructor",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:10:05.9037792+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:29.2134684+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:15.7787369+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:10:05.903803+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:01:32.0199588+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:29.2134937+00:00"
 }

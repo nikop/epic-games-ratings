@@ -5,26 +5,26 @@ Rating: 4.54 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,902 |
-| Before the Downfall | 93.00% | ~16,988 |
-| Money like Water | 91.00% | ~16,623 |
-| Minimalist | 90.00% | ~16,440 |
+| Trevithick's Legacy | 98.00% | ~17,903 |
+| Before the Downfall | 93.00% | ~16,989 |
+| Money like Water | 91.00% | ~16,624 |
+| Minimalist | 90.00% | ~16,441 |
 | Builder | 83.00% | ~15,162 |
-| Eraser | 70.00% | ~12,787 |
+| Eraser | 70.00% | ~12,788 |
 | Pocket of Trains | 65.00% | ~11,874 |
 | Inspector | 58.00% | ~10,595 |
-| Going the Distance | 54.00% | ~9,864 |
-| Oil Baron | 42.00% | ~7,672 |
-| Loads-a-Money | 42.00% | ~7,672 |
-| Helper of the People | 39.00% | ~7,124 |
+| Going the Distance | 54.00% | ~9,865 |
+| Oil Baron | 42.00% | ~7,673 |
+| Loads-a-Money | 42.00% | ~7,673 |
+| Helper of the People | 39.00% | ~7,125 |
 | Simplification | 33.00% | ~6,028 |
 | Box of Trains | 33.00% | ~6,028 |
-| Let There be Light | 32.00% | ~5,845 |
+| Let There be Light | 32.00% | ~5,846 |
 | Hot Water | 30.00% | ~5,480 |
-| Indecisive | 29.00% | ~5,297 |
+| Indecisive | 29.00% | ~5,298 |
 | The scenic route | 27.00% | ~4,932 |
 | Industrialist | 25.00% | ~4,567 |
-| Perfectionist | 23.00% | ~4,201 |
+| Perfectionist | 23.00% | ~4,202 |
 | 8K is Enough for Everyone | 22.00% | ~4,019 |
 | Trains over Pipes | 22.00% | ~4,019 |
 | Man of Steel | 16.00% | ~2,923 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 476)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,267 (Ranked 93)  
+Progressed: 18,268 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 28 (0.15%) (Ranked 139)
 | 2023-05-03 | 18,182 | 28 |
 | 2023-05-04 | 18,228 | 28 |
 | 2023-05-05 | 18,253 | 28 |
-| 2023-05-06 | 18,267 | 28 |
+| 2023-05-06 | 18,268 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 338)  
 Sum: 643 (Ranked 269)  

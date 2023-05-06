@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 61.00% | ~262 |
+| Buckle up | 60.00% | ~258 |
 | Quick charge | 60.00% | ~258 |
-| Buckle up | 59.00% | ~254 |
 | Hands up! | 53.00% | ~228 |
 | Now you know | 53.00% | ~228 |
 | Short circuit | 53.00% | ~228 |

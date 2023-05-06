@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2340,
+  "EOS_Progressed": 2342,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-05-06T13:09:48.0012849+00:00",
       "NumProgressed": 2340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T14:07:10.5709549+00:00",
+      "NumProgressed": 2342,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -971,9 +976,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 913
+      "UsersEstimate": 937
     },
     {
       "ID": "11",
@@ -1021,15 +1026,15 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "18",
@@ -1069,7 +1074,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "22",
@@ -1077,7 +1082,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "23",
@@ -1093,7 +1098,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "3",
@@ -1117,7 +1122,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "6",
@@ -1156,13 +1161,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2340,
+      "Progressed": 2342,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:09:48.0012825+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:10.5709542+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:03:05.6556156+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:09:48.0013385+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:00:24.6276088+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:10.570981+00:00"
 }

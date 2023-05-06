@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11184,
+  "EOS_Progressed": 11188,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2489,6 +2489,11 @@
       "Time": "2023-05-06T13:10:09.2904639+00:00",
       "NumProgressed": 11184,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-06T14:07:32.3560266+00:00",
+      "NumProgressed": 11188,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2554,9 +2559,9 @@
       "ID": "1022",
       "SetID": "9l3d3cl",
       "Name": "Defender of the Wall",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 783
+      "UsersEstimate": 671
     },
     {
       "ID": "1023",
@@ -2564,7 +2569,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 4,
       "XP": 65,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "1024",
@@ -2596,7 +2601,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "1028",
@@ -2604,7 +2609,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "1029",
@@ -2636,7 +2641,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4474
+      "UsersEstimate": 4475
     },
     {
       "ID": "1033",
@@ -2675,15 +2680,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11184,
+      "Progressed": 11188,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:10:09.2904634+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:32.3560264+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:30.55603+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:10:09.290488+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:01:45.532317+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:32.3560481+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.18,
   "NumberOfRatings": 429,
@@ -734,7 +734,7 @@
   ],
   "EOS_Progressed": 5526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2171,9 +2171,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 276
     },
     {
       "ID": "Win_Research",
@@ -2195,8 +2195,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:09:22.0847261+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:06:44.2255743+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:01:29.0498035+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:09:22.0847899+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:58:44.6884315+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:06:44.2257869+00:00"
 }

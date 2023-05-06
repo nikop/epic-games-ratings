@@ -28,10 +28,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54245,
+  "EOS_Progressed": 54259,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 1559,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 1556,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
@@ -1343,6 +1343,11 @@
       "Time": "2023-05-06T13:10:14.4866683+00:00",
       "NumProgressed": 54245,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-05-06T14:07:37.2864747+00:00",
+      "NumProgressed": 54259,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 25,
@@ -1354,7 +1359,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -1370,7 +1375,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9222
+      "UsersEstimate": 9224
     },
     {
       "ID": "Audiophile",
@@ -1386,7 +1391,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11391
+      "UsersEstimate": 11394
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -1394,7 +1399,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9222
+      "UsersEstimate": 9224
     },
     {
       "ID": "Butcher",
@@ -1410,7 +1415,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "Fair\u0027sFair",
@@ -1418,7 +1423,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "HardWorker",
@@ -1426,7 +1431,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10309
     },
     {
       "ID": "Hearty",
@@ -1434,7 +1439,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "LazyBones",
@@ -1442,7 +1447,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4882
+      "UsersEstimate": 4883
     },
     {
       "ID": "Magnetic Miracles",
@@ -1458,7 +1463,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10309
     },
     {
       "ID": "Meaty",
@@ -1466,7 +1471,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Mechanic",
@@ -1474,7 +1479,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9764
+      "UsersEstimate": 9767
     },
     {
       "ID": "Nice Try",
@@ -1482,7 +1487,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8681
     },
     {
       "ID": "Nothing Left to Say",
@@ -1490,7 +1495,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "Piano Man",
@@ -1498,7 +1503,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5426
     },
     {
       "ID": "Right On Target",
@@ -1506,7 +1511,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7052
+      "UsersEstimate": 7054
     },
     {
       "ID": "Sniper",
@@ -1514,7 +1519,7 @@
       "Name": "Sniper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "Spicy",
@@ -1530,7 +1535,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Tape Head",
@@ -1538,7 +1543,7 @@
       "Name": "Tape Head",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Vinyl Vibes",
@@ -1546,14 +1551,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 54245,
+      "Progressed": 54259,
       "Completed": 436
     }
   ],
@@ -1561,8 +1566,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-04-30T21:00:24.3922365+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:10:14.4866677+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:07:37.286474+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.9453874+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:04:48.1407293+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:10:14.4866975+00:00"
+  "LastUpdate_Ratings": "2023-05-06T14:02:03.1862083+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:07:37.2865046+00:00"
 }

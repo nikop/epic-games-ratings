@@ -186,7 +186,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22617,
+  "EOS_Progressed": 22618,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -451,6 +451,11 @@
       "Time": "2023-05-05T22:06:17.8744664+00:00",
       "NumProgressed": 22617,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-06T14:06:48.9196174+00:00",
+      "NumProgressed": 22618,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -478,7 +483,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17415
+      "UsersEstimate": 17416
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -486,7 +491,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9725
+      "UsersEstimate": 9726
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -526,7 +531,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17189
+      "UsersEstimate": 17190
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -534,7 +539,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -566,7 +571,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18772
+      "UsersEstimate": 18773
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -590,7 +595,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13344
+      "UsersEstimate": 13345
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -638,7 +643,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -646,7 +651,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16510
+      "UsersEstimate": 16511
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -717,7 +722,7 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22617,
+      "Progressed": 22618,
       "Completed": 8
     }
   ],
@@ -725,8 +730,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-04-28T05:57:41.6897144+00:00",
-  "LastChanged_Achievements": "2023-05-06T13:09:26.9273078+00:00",
+  "LastChanged_Achievements": "2023-05-06T14:06:48.9196169+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-06T13:02:08.3588408+00:00",
-  "LastUpdate_Achievements": "2023-05-06T13:09:26.9273367+00:00"
+  "LastUpdate_Ratings": "2023-05-06T13:59:24.5412163+00:00",
+  "LastUpdate_Achievements": "2023-05-06T14:06:48.919662+00:00"
 }
