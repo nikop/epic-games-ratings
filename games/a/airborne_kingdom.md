@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,521 |
-| A Grove Replanted | 53.00% | ~3,333 |
-| Fields Watered | 41.00% | ~2,578 |
-| Seekers Found | 41.00% | ~2,578 |
-| Settling the Skies | 41.00% | ~2,578 |
-| Wind Powered | 40.00% | ~2,515 |
-| It Takes a Village | 34.00% | ~2,138 |
+| A Small Community | 56.00% | ~3,522 |
+| A Grove Replanted | 53.00% | ~3,334 |
+| Fields Watered | 41.00% | ~2,579 |
+| Seekers Found | 41.00% | ~2,579 |
+| Settling the Skies | 41.00% | ~2,579 |
+| Wind Powered | 40.00% | ~2,516 |
+| It Takes a Village | 34.00% | ~2,139 |
 | On the Town | 28.00% | ~1,761 |
 | Daylight Found | 26.00% | ~1,635 |
 | Irons Scorched | 25.00% | ~1,572 |
 | Islands Connected | 25.00% | ~1,572 |
-| Harp Tuned | 23.00% | ~1,446 |
-| Pyre Ignited | 23.00% | ~1,446 |
-| Travelers Returned | 23.00% | ~1,446 |
-| Hopes Hoisted | 22.00% | ~1,383 |
+| Harp Tuned | 23.00% | ~1,447 |
+| Pyre Ignited | 23.00% | ~1,447 |
+| Travelers Returned | 23.00% | ~1,447 |
+| Hopes Hoisted | 22.00% | ~1,384 |
 | Knowledge Shared | 20.00% | ~1,258 |
 | Relic Finder | 20.00% | ~1,258 |
 | Worthy of the Title | 19.00% | ~1,195 |
-| A Peaceful Respite | 14.00% | ~880 |
-| A Learned Scholar | 13.00% | ~817 |
-| Prophecy Fulfilled | 13.00% | ~817 |
+| A Peaceful Respite | 14.00% | ~881 |
+| A Learned Scholar | 13.00% | ~818 |
+| Prophecy Fulfilled | 13.00% | ~818 |
 | A Wanderer’s Guide | 11.00% | ~692 |
 | Knowledge Seeker | 7.00% | ~440 |
 | The Cycle Continues | 3.00% | ~189 |
@@ -34,8 +34,8 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~126 |
 | A True Challenge | 2.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,288 (Ranked 112)  
-Completed: 50 (0.80%) (Ranked 87)  
+Progressed: 6,290 (Ranked 112)  
+Completed: 50 (0.79%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,7 +50,7 @@ Completed: 50 (0.80%) (Ranked 87)
 | 2023-05-03 | 6,272 | 50 |
 | 2023-05-04 | 6,278 | 50 |
 | 2023-05-05 | 6,283 | 50 |
-| 2023-05-06 | 6,288 | 50 |
+| 2023-05-06 | 6,290 | 50 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

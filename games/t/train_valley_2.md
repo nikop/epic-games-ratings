@@ -50,12 +50,12 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 0.90% | ~6 |
 | Globalisation Age | 0.90% | ~6 |
 | Missed it! | 0.90% | ~6 |
+| Prick of conscience | 0.90% | ~6 |
 | Sabotage | 0.90% | ~6 |
 | Astronomer | 0.70% | ~5 |
 | Atomic Age | 0.70% | ~0 |
 | Digital Age | 0.70% | ~0 |
 | Information Age | 0.70% | ~0 |
-| Prick of conscience | 0.70% | ~5 |
 | Achiever | 0.60% | ~4 |
 | At the last moment! | 0.60% | ~4 |
 | Innovator | 0.60% | ~4 |

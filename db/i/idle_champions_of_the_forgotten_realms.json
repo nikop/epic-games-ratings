@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3554,10 +3554,10 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86670,
-  "EOS_Completed": 1808,
-  "EOS_NewPlayers": 750,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 86674,
+  "EOS_Completed": 1809,
+  "EOS_NewPlayers": 744,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -4864,6 +4864,11 @@
       "Time": "2023-05-06T20:06:58.3159395+00:00",
       "NumProgressed": 86670,
       "NumCompleted": 1808
+    },
+    {
+      "Time": "2023-05-06T21:07:40.3364196+00:00",
+      "NumProgressed": 86674,
+      "NumCompleted": 1809
     }
   ],
   "TotalAchievements": 489,
@@ -5633,9 +5638,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_1179",
@@ -5755,7 +5760,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "objective_completed_1208",
@@ -8786,21 +8791,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52944,
-      "Completed": 2469
+      "Progressed": 52948,
+      "Completed": 2470
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86670,
-      "Completed": 1808
+      "Progressed": 86674,
+      "Completed": 1809
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-06T15:59:32.6872105+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:58.3159346+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:40.3364189+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:59:21.0938698+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:58.3182875+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:59:36.176358+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:40.3415866+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-from-the-ashes",
   "Ranking_Rating": 377,
   "Ranking_Popularity": 35,
-  "Ranking_PopularitySum": 64,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 268,
@@ -3644,10 +3644,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 14150,
       "NumberOfAwardsMax": 9046
+    },
+    {
+      "Time": "2023-05-06T20:59:57.706493+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 14152,
+      "NumberOfAwardsMax": 9046
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14150,
+  "NumberOfAwards": 14152,
   "NumberOfAwardsMax": 9046,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3673,7 +3679,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 660
+      "Count": 662
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3735,8 +3741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-05-06T13:59:51.0378693+00:00",
+  "LastChanged": "2023-05-06T20:59:57.7064927+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.7906489+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:59:36.5891988+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:01:34.4627846+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:59:57.7064936+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:02:25.9930272+00:00"
 }

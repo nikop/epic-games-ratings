@@ -522,9 +522,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_25",
@@ -610,9 +610,9 @@
       "ID": "ACH_BASE_34",
       "SetID": "92iocjf",
       "Name": "Ready for a New World",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_35",
@@ -881,8 +881,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:15.4508057+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:06:49.9826741+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:59:41.3972664+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:15.4508634+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:00:04.5218577+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:06:49.9827369+00:00"
 }

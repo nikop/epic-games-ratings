@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1153,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.65,
+  "EOS_Completed_Percentage": 7.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -648,6 +648,11 @@
       "Time": "2023-05-06T20:06:41.410438+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-05-06T21:07:19.9685639+00:00",
+      "NumProgressed": 1153,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 12,
@@ -657,9 +662,9 @@
       "ID": "Arranging Boxes",
       "SetID": "b40dflc",
       "Name": "Arranging Boxes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 150
+      "UsersEstimate": 161
     },
     {
       "ID": "Bernard",
@@ -667,7 +672,7 @@
       "Name": "Bernard",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Building the Fox",
@@ -675,7 +680,7 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Green Ticket Roundup",
@@ -683,7 +688,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Jacques a Dit",
@@ -691,7 +696,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "Jakob",
@@ -723,7 +728,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -747,14 +752,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1153,
       "Completed": 88
     }
   ],
@@ -762,8 +767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:41.4104376+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:19.9685633+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:00:41.3809235+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:41.4104491+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:01:17.9869841+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:19.9685863+00:00"
 }

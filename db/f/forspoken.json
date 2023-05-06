@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37632,
+  "EOS_Progressed": 37638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1010,6 +1010,11 @@
       "Time": "2023-05-06T20:06:30.9049995+00:00",
       "NumProgressed": 37632,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T21:07:07.8120608+00:00",
+      "NumProgressed": 37638,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1053,7 +1058,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -1077,7 +1082,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -1173,7 +1178,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "CUFF_ATTACK",
@@ -1277,7 +1282,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "MAGIC_IVY",
@@ -1444,22 +1449,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37632,
+      "Progressed": 37638,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2469,
-      "Completed": 2469
+      "Progressed": 2475,
+      "Completed": 2475
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-05T08:58:30.6786847+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:30.904999+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:07.8120602+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:59:46.8207027+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:30.9050485+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:00:12.1037852+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:07.8121176+00:00"
 }

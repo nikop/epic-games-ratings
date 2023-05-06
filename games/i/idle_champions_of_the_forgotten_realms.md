@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 2.00% | ~1,059 |
 | A Brief Tour of the Realms | 1.00% | ~867 |
 | Vecna Out! | 1.00% | ~529 |
-| Pin and Skewer | 0.90% | ~476 |
+| Pin and Skewer | 0.90% | ~477 |
 | Bully for Vecna | 0.70% | ~371 |
 | The Cursed Farmer | 0.70% | ~607 |
 | The Mad Wizard | 0.60% | ~520 |
@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
 | Keep Your Distance | 0.20% | ~106 |
+| Heatwave | 0.20% | ~106 |
 | Hands Off! | 0.20% | ~106 |
 | The Dread Domain of Tovag | 0.20% | ~106 |
 | Frail Doesn't Mean Broken | 0.20% | ~106 |
@@ -159,7 +160,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~53 |
 | Arcane Efforts | 0.10% | ~53 |
-| Heatwave | 0.10% | ~53 |
 | To Avernus in a Handbasket | 0.10% | ~53 |
 | Weak Doesn't Mean Feeble | 0.10% | ~53 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,670 (Ranked 59)  
-Completed: 1,808 (2.09%) (Ranked 56)  
+Progressed: 86,674 (Ranked 59)  
+Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -512,7 +512,7 @@ Completed: 1,808 (2.09%) (Ranked 56)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,670 | 1,808 |
+| 2023-05-06 | 86,674 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

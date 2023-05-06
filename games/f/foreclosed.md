@@ -9,10 +9,10 @@
 | Symbiotic Weapon | 58.00% | ~43 |
 | A.I. Training | 53.00% | ~39 |
 | Sniper | 39.00% | ~29 |
-| The Red Herring | 34.00% | ~25 |
-| Telekinesis | 28.00% | ~21 |
+| The Red Herring | 35.00% | ~26 |
+| Telekinesis | 30.00% | ~22 |
+| Sapper | 23.00% | ~17 |
 | Tough Decision | 23.00% | ~17 |
-| Sapper | 22.00% | ~16 |
 | The Neuro-connector | 20.00% | ~15 |
 | Mind Over Matter | 20.00% | ~15 |
 | Veteran Sniper | 19.00% | ~14 |

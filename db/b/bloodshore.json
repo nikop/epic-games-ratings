@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 75,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -37,6 +37,11 @@
     {
       "Time": "2023-05-05T17:09:47.1939203+00:00",
       "NumProgressed": 140,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-06T21:07:28.4185438+00:00",
+      "NumProgressed": 141,
       "NumCompleted": 2
     }
   ],
@@ -55,9 +60,9 @@
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -79,9 +84,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "leader_you_are_not",
@@ -89,7 +94,7 @@
       "Name": "A leader, you are not",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "lootaphilia",
@@ -97,7 +102,7 @@
       "Name": "Lootaphilia",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -151,9 +156,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "tried_to_warn_you",
@@ -167,9 +172,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -184,7 +189,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 2
     }
   ],
@@ -192,8 +197,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:48.2039604+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:28.4185432+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.2558016+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:00:58.8373083+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:48.2039718+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:01:40.600521+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:28.4185587+00:00"
 }

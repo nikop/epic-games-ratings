@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 35.00% | ~104 |
-| Baby's First Car | 33.00% | ~98 |
-| Amateur Mechanic | 33.00% | ~98 |
-| Pushover | 33.00% | ~98 |
-| A Forest Walk | 32.00% | ~95 |
-| C-C-C-Combo! | 31.00% | ~92 |
-| Multiply that! | 31.00% | ~92 |
-| Insurance fraud | 28.00% | ~83 |
-| Snow Fun! | 28.00% | ~83 |
-| Fore! | 27.00% | ~80 |
-| The Collector | 27.00% | ~80 |
-| To and Fro | 26.00% | ~77 |
-| The Wild West | 26.00% | ~77 |
-| Bag of Tricks | 26.00% | ~77 |
-| I see the light! | 26.00% | ~77 |
-| You're it | 26.00% | ~77 |
-| First Come, First Serve | 25.00% | ~74 |
-| Disoriented | 25.00% | ~74 |
-| Take that Frosty! | 25.00% | ~74 |
-| Beach Party! | 25.00% | ~74 |
-| In the Bag! | 25.00% | ~74 |
+| Brace for impact! | 35.00% | ~105 |
+| Baby's First Car | 33.00% | ~99 |
+| Amateur Mechanic | 32.00% | ~96 |
+| Pushover | 32.00% | ~96 |
+| A Forest Walk | 32.00% | ~96 |
+| Multiply that! | 31.00% | ~93 |
+| C-C-C-Combo! | 30.00% | ~90 |
+| Snow Fun! | 28.00% | ~84 |
+| Fore! | 27.00% | ~81 |
+| Insurance fraud | 27.00% | ~81 |
+| The Collector | 26.00% | ~78 |
+| To and Fro | 26.00% | ~78 |
+| The Wild West | 26.00% | ~78 |
+| Bag of Tricks | 26.00% | ~78 |
+| I see the light! | 26.00% | ~78 |
+| You're it | 26.00% | ~78 |
+| First Come, First Serve | 25.00% | ~75 |
+| Disoriented | 25.00% | ~75 |
+| Take that Frosty! | 25.00% | ~75 |
+| Beach Party! | 25.00% | ~75 |
+| In the Bag! | 25.00% | ~75 |
 | Anger Issues | 24.00% | ~72 |
 | Goodbye cruel world | 24.00% | ~72 |
 | Car-Tapult | 23.00% | ~69 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 206)  
+Progressed: 300 (Ranked 206)  
 Completed: 2 (0.67%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 2 (0.67%) (Ranked 93)
 | 2023-04-27 | 294 | 2 |
 | 2023-04-28 | 295 | 2 |
 | 2023-04-29 | 298 | 2 |
+| 2023-05-06 | 300 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

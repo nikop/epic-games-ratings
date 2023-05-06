@@ -17,10 +17,10 @@ Rating: 4.67 (Ranked 255)
 | Creature Feature | 29.00% | ~6,559 |
 | Satisfied Gus-tomer | 28.00% | ~6,333 |
 | Cold-Blooded Driller | 28.00% | ~6,333 |
+| G3 Graduation | 25.00% | ~5,654 |
 | Are You Packin'? | 24.00% | ~5,428 |
 | RIP Davey Glutes | 24.00% | ~5,428 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,428 |
-| G3 Graduation | 24.00% | ~5,428 |
 | Hardest Battle In The Game | 22.00% | ~4,976 |
 | Series Wrap on Suit-O | 22.00% | ~4,976 |
 | Lezduit! | 20.00% | ~4,524 |

@@ -1,24 +1,24 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.47 (Ranked 575)  
+Rating: 4.46 (Ranked 590)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~76,864 |
-| Predator I | 21.00% | ~52,069 |
-| A week in Century City | 10.00% | ~24,795 |
-| Fixer I | 9.00% | ~22,315 |
-| The Wait | 7.00% | ~17,356 |
+| Survivor | 31.00% | ~76,866 |
+| Predator I | 21.00% | ~52,071 |
+| A week in Century City | 10.00% | ~24,796 |
+| Fixer I | 9.00% | ~22,316 |
+| The Wait | 7.00% | ~17,357 |
 | Green thumb I | 6.00% | ~14,877 |
-| Well-oiled machine | 5.00% | ~12,397 |
-| Saver I | 5.00% | ~12,397 |
-| Cleaning Company | 5.00% | ~12,397 |
+| Well-oiled machine | 5.00% | ~12,398 |
+| Saver I | 5.00% | ~12,398 |
+| Cleaning Company | 5.00% | ~12,398 |
 | The Ascent | 4.00% | ~9,918 |
 | Pacifist | 4.00% | ~9,918 |
 | Vandalism | 4.00% | ~9,918 |
 | Capitalist I | 4.00% | ~9,918 |
-| Adrenaline | 3.00% | ~7,438 |
+| Adrenaline | 3.00% | ~7,439 |
 | By a hair | 2.00% | ~4,959 |
 | Fixer II | 2.00% | ~4,959 |
 | It took a while | 2.00% | ~4,959 |
@@ -27,14 +27,14 @@ Rating: 4.47 (Ranked 575)
 | Predator II | 2.00% | ~4,959 |
 | Truffle Dog | 2.00% | ~4,959 |
 | A month in Century City | 2.00% | ~4,959 |
-| The Strengthening | 1.00% | ~2,479 |
-| Saver II | 1.00% | ~2,479 |
-| It's the last one, I swear | 1.00% | ~2,479 |
-| Botanist | 1.00% | ~2,479 |
-| Green thumb II | 1.00% | ~2,479 |
-| Don't try this at home | 1.00% | ~2,479 |
-| Bricklayer | 1.00% | ~2,479 |
-| Run the Economy | 1.00% | ~2,479 |
+| The Strengthening | 1.00% | ~2,480 |
+| Saver II | 1.00% | ~2,480 |
+| It's the last one, I swear | 1.00% | ~2,480 |
+| Botanist | 1.00% | ~2,480 |
+| Green thumb II | 1.00% | ~2,480 |
+| Don't try this at home | 1.00% | ~2,480 |
+| Bricklayer | 1.00% | ~2,480 |
+| Run the Economy | 1.00% | ~2,480 |
 | Committed Relationship | 0.80% | ~1,984 |
 | Number 1 | 0.70% | ~1,736 |
 | Interior designer | 0.60% | ~1,488 |
@@ -62,7 +62,7 @@ Rating: 4.47 (Ranked 575)
 | Capitalist III | 0.10% | ~248 |
 | Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,949 (Ranked 39)  
+Progressed: 247,956 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.00%) (Ranked 192)
 | 2023-05-03 | 247,672 | 1 |
 | 2023-05-04 | 247,753 | 1 |
 | 2023-05-05 | 247,847 | 1 |
-| 2023-05-06 | 247,949 | 1 |
+| 2023-05-06 | 247,956 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -136,3 +136,4 @@ Completed: 1 (0.00%) (Ranked 192)
 | 2023-05-01 | 4.49 | 0 | 0 |
 | 2023-05-03 | 4.48 | 0 | 0 |
 | 2023-05-04 | 4.47 | 0 | 0 |
+| 2023-05-06 | 4.46 | 0 | 0 |

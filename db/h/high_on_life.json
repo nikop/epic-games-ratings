@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 75,
   "Rating": 4.67,
   "RatingHistory": [
@@ -601,9 +601,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5428
+      "UsersEstimate": 5654
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -730,8 +730,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-04-28T05:57:41.6897144+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:13.9465368+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:06:48.2669707+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:59:15.5267818+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:13.9465614+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:59:30.2232487+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:06:48.2670158+00:00"
 }

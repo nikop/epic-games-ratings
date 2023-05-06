@@ -2,14 +2,24 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
+  "Ranking_Rating": 916,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 75,
+  "Rating": 3.4,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-06T20:59:32.1998609+00:00",
+      "Rating": 3.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -20,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 879,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1533,9 +1543,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 483
     },
     {
       "ID": "thealchemist",
@@ -1685,9 +1695,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:26.738959+00:00",
+  "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:03.0071417+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T19:59:16.9032405+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:26.7390479+00:00"
+  "LastUpdate_Ratings": "2023-05-06T20:59:32.1998613+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:03.0072442+00:00"
 }

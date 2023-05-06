@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Against All Odds | 0.30% | ~44 |
+| Forbidden Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
 | Levitating Monument | 0.30% | ~44 |
 | Flooded Mines | 0.30% | ~44 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 0.20% | ~29 |
 | Ruined Armory | 0.20% | ~29 |
 | Fishmen Ritual Site | 0.20% | ~29 |
-| Forbidden Lands | 0.20% | ~29 |
 | Blood Flower Farmer | 0.20% | ~29 |
 | Feeding The People | 0.10% | ~15 |
 | Paradise | 0.10% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,672 (Ranked 97)  
+Progressed: 14,675 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-03 | 14,625 | 30 |
 | 2023-05-04 | 14,637 | 30 |
 | 2023-05-05 | 14,657 | 30 |
-| 2023-05-06 | 14,672 | 30 |
+| 2023-05-06 | 14,675 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,015 (Ranked 149)  

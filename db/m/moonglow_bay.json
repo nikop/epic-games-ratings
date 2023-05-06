@@ -157,9 +157,9 @@
       "ID": "ACH_16_EXPANSION",
       "SetID": "cieb1c3",
       "Name": "Aquatic Expansion",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_17_CULINARY",
@@ -213,9 +213,9 @@
       "ID": "ACH_23_CRIME",
       "SetID": "cieb1c3",
       "Name": "Crimebusters of the Sea",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_24_FLOOFY",
@@ -229,9 +229,9 @@
       "ID": "ACH_25_FOURLEGS",
       "SetID": "cieb1c3",
       "Name": "Four-Legged Friends",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_26_CONFECTION",
@@ -342,8 +342,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:43.2811553+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:22.0662524+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:40.616049+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:00:38.3841143+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:43.2811842+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:01:13.7883501+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:22.0662829+00:00"
 }

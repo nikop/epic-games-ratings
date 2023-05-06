@@ -2,14 +2,14 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 50,
-  "Rating": 4.47,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -310,15 +310,21 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-06T21:01:56.186099+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247949,
+  "EOS_Progressed": 247956,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1651,6 +1657,11 @@
       "Time": "2023-05-06T20:06:54.3868048+00:00",
       "NumProgressed": 247949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T21:07:35.5772834+00:00",
+      "NumProgressed": 247956,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -1662,7 +1673,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "Act2",
@@ -1678,7 +1689,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "Act4",
@@ -1710,7 +1721,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76864
+      "UsersEstimate": 76866
     },
     {
       "ID": "BackHomeNTimes",
@@ -1718,7 +1729,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -1766,7 +1777,7 @@
       "Name": "Fixer I",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22315
+      "UsersEstimate": 22316
     },
     {
       "ID": "CreditLevel2",
@@ -1790,7 +1801,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "CreedsInBank2",
@@ -1798,7 +1809,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "CreedsInBank3",
@@ -1830,7 +1841,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "FullHomeExpansion",
@@ -1854,7 +1865,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "GrowPlants1",
@@ -1870,7 +1881,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "GrowPlants3",
@@ -1918,7 +1929,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "KillOtherWithKatana",
@@ -1934,7 +1945,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "KillOtherWithMine",
@@ -1950,7 +1961,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52069
+      "UsersEstimate": 52071
     },
     {
       "ID": "KillOthers2",
@@ -1982,7 +1993,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "MaxImagoLevel",
@@ -2014,7 +2025,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "OldCoinCollected",
@@ -2054,7 +2065,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24795
+      "UsersEstimate": 24796
     },
     {
       "ID": "ReachNDays2",
@@ -2102,23 +2113,23 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247949,
+      "Progressed": 247956,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-05-04T14:00:09.0661887+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:54.386804+00:00",
+  "LastChanged": "2023-05-06T21:01:56.1860988+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:35.5772828+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:01:12.1747994+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:54.3868624+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:01:56.1860996+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:35.5773694+00:00"
 }

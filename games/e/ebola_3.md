@@ -20,6 +20,7 @@
 | Brain ✔ | 4.00% | ~6 |
 | Cheats ✔ | 4.00% | ~6 |
 | City ✔ | 4.00% | ~6 |
+| Crocodile Attack ✔ | 4.00% | ~6 |
 | Eva ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | Fraternal help ✔ | 4.00% | ~6 |
@@ -30,7 +31,6 @@
 | Chess ✔ | 4.00% | ~6 |
 | Boss 1 ✔ | 3.00% | ~4 |
 | Alice ✔ | 3.00% | ~4 |
-| Crocodile Attack ✔ | 3.00% | ~4 |
 | Food ✔ | 3.00% | ~4 |
 | Mutant fight ✔ | 3.00% | ~4 |
 | Sheriff ✔ | 3.00% | ~4 |
@@ -43,6 +43,7 @@
 | Boss 3 ✔ | 2.00% | ~3 |
 | Car ✔ | 1.00% | ~1 |
 | Seeker One ✔ | 1.00% | ~1 |
+| Crocodile Escape ✔ | 1.00% | ~1 |
 | Boss 2 ✔ | 1.00% | ~1 |
 | Hardcore ✔ | 1.00% | ~1 |
 | Osipov's video message ✔ | 1.00% | ~1 |
@@ -51,7 +52,6 @@
 | VIP ✔ | 1.00% | ~1 |
 | Seeker Three ✔ | 0.70% | ~1 |
 | Seeker Two ✔ | 0.70% | ~1 |
-| Crocodile Escape ✔ | 0.70% | ~1 |
 | Exterminate pests ✔ | 0.70% | ~1 |
 | Rank A+ ✔ | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)

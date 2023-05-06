@@ -8,18 +8,18 @@ Rating: 4.54 (Ranked 476)
 | Without Breaking Some Eggs... | 0.40% | ~7 |
 | Wakey Wakey | 0.40% | ~7 |
 | The Ship of Theseus | 0.40% | ~7 |
+| Sputnik 2049 | 0.30% | ~6 |
 | A Thousand Strong | 0.30% | ~6 |
 | Exceeding Capacity | 0.30% | ~6 |
 | Fully Recycled | 0.30% | ~6 |
+| Ready for a New World | 0.30% | ~6 |
 | Ain't Nobody Got Time for That | 0.30% | ~6 |
 | Convenient Transport | 0.30% | ~6 |
 | Infinite Growth... | 0.20% | ~4 |
 | Guy de Borderlands | 0.20% | ~4 |
 | Space Society | 0.20% | ~4 |
-| Sputnik 2049 | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
 | Power Outage | 0.20% | ~4 |
-| Ready for a New World | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | Permanent Redesigns | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |

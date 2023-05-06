@@ -661,7 +661,7 @@
       "ID": "achCrokoOne",
       "SetID": "72gjli4",
       "Name": "Crocodile Escape \u2714",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -669,9 +669,9 @@
       "ID": "achCrokoTwo",
       "SetID": "72gjli4",
       "Name": "Crocodile Attack \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achCrow",
@@ -966,8 +966,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-06T20:06:55.4059046+00:00",
+  "LastChanged_Achievements": "2023-05-06T21:07:36.7937977+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:01:15.7077475+00:00",
-  "LastUpdate_Achievements": "2023-05-06T20:06:55.4059544+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:01:59.1683915+00:00",
+  "LastUpdate_Achievements": "2023-05-06T21:07:36.7938747+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,788 |
-| That's a Grand Army | 8.00% | ~2,478 |
-| That is mine! | 8.00% | ~2,478 |
-| Victorious! | 8.00% | ~2,478 |
-| Brothers in Arms | 6.00% | ~1,859 |
-| That's a Grand Navy | 6.00% | ~1,859 |
-| Seriously?! | 6.00% | ~1,859 |
-| For the Glory | 5.00% | ~1,549 |
-| Cold War | 4.00% | ~1,239 |
-| True Catholic | 4.00% | ~1,239 |
-| Defender of the Faith | 3.00% | ~929 |
-| It's all about the money | 3.00% | ~929 |
-| Respected | 3.00% | ~929 |
+| Until death do us apart | 9.00% | ~2,792 |
+| That's a Grand Army | 8.00% | ~2,482 |
+| That is mine! | 8.00% | ~2,482 |
+| Victorious! | 8.00% | ~2,482 |
+| Brothers in Arms | 6.00% | ~1,862 |
+| That's a Grand Navy | 6.00% | ~1,862 |
+| Seriously?! | 6.00% | ~1,862 |
+| For the Glory | 5.00% | ~1,551 |
+| Cold War | 4.00% | ~1,241 |
+| True Catholic | 4.00% | ~1,241 |
+| Defender of the Faith | 3.00% | ~931 |
+| It's all about the money | 3.00% | ~931 |
+| Respected | 3.00% | ~931 |
 | Blockader | 2.00% | ~620 |
 | Combined Arms | 2.00% | ~620 |
 | Double the Love | 2.00% | ~620 |
@@ -55,6 +55,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Absolutely | 0.30% | ~93 |
 | All Your Trade Are Belong to Us | 0.30% | ~93 |
 | Dude, Where's my Boat? | 0.30% | ~93 |
+| Grand Coalition | 0.30% | ~93 |
 | In the Name of the Father | 0.30% | ~93 |
 | Live Long and Prosper | 0.30% | ~93 |
 | One Family to Rule them All | 0.30% | ~93 |
@@ -70,7 +71,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bleed Them Dry | 0.20% | ~62 |
 | Four For Trade | 0.20% | ~62 |
 | Global Hegemony | 0.20% | ~62 |
-| Grand Coalition | 0.20% | ~62 |
 | Grand Duchy | 0.20% | ~62 |
 | Imperio español | 0.20% | ~62 |
 | Italian Ambition | 0.20% | ~62 |
@@ -194,6 +194,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | No Country for Old Tercios | 0.10% | ~31 |
 | Nobody wants to die | 0.10% | ~31 |
 | Not just Pizza | 0.10% | ~31 |
+| On the Edge of Madness | 0.10% | ~31 |
 | On the Rhodes Again | 0.10% | ~31 |
 | One Faith | 0.10% | ~31 |
 | One King to Rule! | 0.10% | ~31 |
@@ -317,7 +318,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Never say Nevers | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
-| On the Edge of Madness | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,981 (Ranked 81)  
+Progressed: 31,025 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,981 | 0 |
+| 2023-05-06 | 31,025 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,857 (Ranked 26)  
