@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.76,
   "RatingHistory": [
@@ -52,7 +52,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1886,
+  "EOS_Progressed": 1888,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -817,6 +817,11 @@
       "Time": "2023-05-06T00:06:32.7580352+00:00",
       "NumProgressed": 1886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T01:57:52.7518031+00:00",
+      "NumProgressed": 1888,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -860,7 +865,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -892,7 +897,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1794
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -900,7 +905,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -908,7 +913,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1454
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -924,7 +929,7 @@
       "Name": "Friendly fire",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -932,7 +937,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -956,7 +961,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -964,7 +969,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -972,7 +977,7 @@
       "Name": "True power",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -1004,7 +1009,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1416
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1012,7 +1017,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1737
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1020,7 +1025,7 @@
       "Name": "Meltridge",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -1044,7 +1049,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1435
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1060,7 +1065,7 @@
       "Name": "Clarion Cove",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1076,7 +1081,7 @@
       "Name": "Sacred Woods",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1092,7 +1097,7 @@
       "Name": "Capelworth",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1108,7 +1113,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -1132,7 +1137,7 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1196,7 +1201,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1204,7 +1209,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1218,9 +1223,9 @@
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
       "SetID": "3pe2bac",
       "Name": "Full equipped",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 302
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1244,14 +1249,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1886,
+      "Progressed": 1888,
       "Completed": 1
     }
   ],
@@ -1259,8 +1264,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-05T18:58:53.1227442+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:32.7580334+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:52.7518028+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:58:49.7417495+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:32.7580854+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:25.7702939+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:52.7518542+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "RatingHistory": [
     {
       "Time": "2023-04-30T05:57:09.5836649+00:00",
@@ -265,9 +265,9 @@
       "ID": "level_2",
       "SetID": "dlpjnee",
       "Name": "Island 2",
-      "Percentage": 88,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "level_20",
@@ -353,9 +353,9 @@
       "ID": "level_3",
       "SetID": "dlpjnee",
       "Name": "Island 3",
-      "Percentage": 85,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "level_30",
@@ -409,25 +409,25 @@
       "ID": "level_4",
       "SetID": "dlpjnee",
       "Name": "Island 4",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "level_5",
       "SetID": "dlpjnee",
       "Name": "Island 5",
-      "Percentage": 65,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "level_6",
       "SetID": "dlpjnee",
       "Name": "Island 6",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "level_7",
@@ -466,8 +466,8 @@
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:37.7481226+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:56.8211815+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.4485897+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:58:51.0312808+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:37.7481502+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:26.973881+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:56.8212103+00:00"
 }

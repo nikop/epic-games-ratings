@@ -9,16 +9,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 12.00% | ~1,038 |
 | A Spark | 9.00% | ~778 |
 | Burning City | 8.00% | ~692 |
-| Mythic Choices | 7.00% | ~605 |
-| Defender's Heart | 7.00% | ~605 |
+| Mythic Choices | 7.00% | ~606 |
+| Defender's Heart | 7.00% | ~606 |
 | Banner over the Citadel | 6.00% | ~519 |
 | Queen's Gratitude | 6.00% | ~519 |
 | Fifth Crusade | 4.00% | ~346 |
-| Embrace of the Abyss | 3.00% | ~259 |
-| Path of the Angel | 3.00% | ~259 |
-| Great Upstart | 3.00% | ~259 |
-| All Paths Open | 3.00% | ~259 |
-| Demonic and Divine | 3.00% | ~259 |
+| Embrace of the Abyss | 3.00% | ~260 |
+| Path of the Angel | 3.00% | ~260 |
+| Great Upstart | 3.00% | ~260 |
+| All Paths Open | 3.00% | ~260 |
+| Demonic and Divine | 3.00% | ~260 |
 | Path of the Azata | 2.00% | ~173 |
 | Transformation | 2.00% | ~173 |
 | The Legacy | 2.00% | ~173 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,648 (Ranked 107)  
+Progressed: 8,650 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,23 +139,23 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 8,607 | 0 |
 | 2023-05-04 | 8,627 | 0 |
 | 2023-05-05 | 8,646 | 0 |
-| 2023-05-06 | 8,648 | 0 |
+| 2023-05-06 | 8,650 | 0 |
 ## Awards
-Max (Character Customization): 1,624  (Ranked 111)  
-Sum: 6,580 (Ranked 108)  
+Max (Character Customization): 1,625  (Ranked 111)  
+Sum: 6,585 (Ranked 108)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,624 |
+| This game has Inclusive Character Customization | 1,625 |
 | This game is Extremely Fun | 614 |
+| This game is Highly Recommended | 602 |
 | This game has Amazing Characters | 600 |
-| This game is Highly Recommended | 600 |
 | This game has Diverse Characters | 585 |
 | This game has Amazing Storytelling | 584 |
 | This game has Quickly Understood Controls | 545 |
 | This game has Challenging Combat | 541 |
 | This game is Relaxing | 522 |
-| This game has a Creative Community | 365 |
+| This game has a Creative Community | 367 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -261,3 +261,4 @@ Diff (max vs sum): 3
 | 2023-05-03 | 4.76 | - | 1,623 | 6,568 |
 | 2023-05-04 | 4.76 | - | 1,624 | 6,574 |
 | 2023-05-05 | 4.76 | - | 1,624 | 6,580 |
+| 2023-05-06 | 4.76 | - | 1,625 | 6,585 |

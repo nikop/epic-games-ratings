@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46013,
+  "EOS_Progressed": 46016,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1098,6 +1098,11 @@
       "Time": "2023-05-05T23:07:12.9996231+00:00",
       "NumProgressed": 46013,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-06T01:57:53.3897859+00:00",
+      "NumProgressed": 46016,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1109,7 +1114,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8742
+      "UsersEstimate": 8743
     },
     {
       "ID": "02",
@@ -1141,7 +1146,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "06",
@@ -1381,7 +1386,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7362
+      "UsersEstimate": 7363
     },
     {
       "ID": "36",
@@ -1509,7 +1514,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "52",
@@ -1581,7 +1586,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "61",
@@ -1637,28 +1642,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46013,
+      "Progressed": 46016,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9481,
+      "Progressed": 9484,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:33.2936253+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:53.3897856+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:58:50.5869375+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:33.2936935+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:26.7950759+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:53.3898588+00:00"
 }

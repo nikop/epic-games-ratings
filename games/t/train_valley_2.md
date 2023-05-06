@@ -1,17 +1,18 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.15 (Ranked 838)  
+Rating: 4.15 (Ranked 839)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 4.00% | ~28 |
+| Dealmaker | 5.00% | ~35 |
 | Full garage | 4.00% | ~28 |
 | Juggler | 4.00% | ~28 |
 | To the eyeballs! | 4.00% | ~28 |
 | Common cause | 3.00% | ~21 |
 | Individual delivery | 3.00% | ~21 |
+| Just in time! | 3.00% | ~21 |
 | Mega-railroad | 3.00% | ~21 |
 | Miner | 3.00% | ~1 |
 | Pink Ruby | 3.00% | ~1 |
@@ -24,7 +25,6 @@ Number of Ratings: 87  (23.09.2022)
 | Critical care | 2.00% | ~14 |
 | Forgot something | 2.00% | ~14 |
 | Get out my way | 2.00% | ~14 |
-| Just in time! | 2.00% | ~14 |
 | Multilevel road | 2.00% | ~14 |
 | Need to think | 2.00% | ~14 |
 | Non-Stop | 2.00% | ~14 |
@@ -82,13 +82,14 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 | The Hare with an espresso | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697 (Ranked 174)  
+Progressed: 698 (Ranked 174)  
 Completed: 1 (0.14%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 696 | 1 |
 | 2023-05-01 | 697 | 1 |
+| 2023-05-06 | 698 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 359)  
 Sum: 71 (Ranked 415)  

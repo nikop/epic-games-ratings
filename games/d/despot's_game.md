@@ -22,8 +22,8 @@ Rating: 4.50 (Ranked 531)
 | Campaigning | 23.00% | ~81 |
 | Rookie | 23.00% | ~81 |
 | Frugal | 20.00% | ~71 |
+| Feed a God | 19.00% | ~67 |
 | To the Moon and Back | 19.00% | ~67 |
-| Feed a God | 18.00% | ~64 |
 | Great Flight | 16.00% | ~56 |
 | Holy Vengeance | 13.00% | ~46 |
 | Strength and Sorcery | 10.00% | ~35 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 531)
 | Vet | 0.60% | ~2 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353 (Ranked 196)  
+Progressed: 353 (Ranked 197)  
 Completed: 1 (0.28%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1990,9 +1990,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 609752,
+  "EOS_Progressed": 609777,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3144,
+  "EOS_NewPlayers": 3138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3225,6 +3225,11 @@
       "Time": "2023-05-06T00:06:37.8333875+00:00",
       "NumProgressed": 609752,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-06T01:57:57.0378125+00:00",
+      "NumProgressed": 609777,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 54,
@@ -3236,7 +3241,7 @@
       "Name": "The dream begins",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 499997
+      "UsersEstimate": 500017
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -3324,7 +3329,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 225608
+      "UsersEstimate": 225617
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -3332,7 +3337,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -3356,7 +3361,7 @@
       "Name": "Close shave",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -3476,7 +3481,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 195121
+      "UsersEstimate": 195129
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -3500,7 +3505,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -3508,7 +3513,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30488
+      "UsersEstimate": 30489
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -3540,7 +3545,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 91463
+      "UsersEstimate": 91467
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -3548,7 +3553,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -3556,7 +3561,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24390
+      "UsersEstimate": 24391
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -3580,7 +3585,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -3596,7 +3601,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42683
+      "UsersEstimate": 42684
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -3636,7 +3641,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109755
+      "UsersEstimate": 109760
     },
     {
       "ID": "RP_TRUSTED",
@@ -3644,7 +3649,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -3652,7 +3657,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 54878
+      "UsersEstimate": 54880
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -3660,22 +3665,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24390
+      "UsersEstimate": 24391
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 609752,
+      "Progressed": 609777,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-04-28T03:57:59.3326638+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:37.8333871+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:57.0378112+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:18.3527627+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:59:12.8683727+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:37.8334426+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:46.4079191+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:57.0378639+00:00"
 }

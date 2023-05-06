@@ -2,16 +2,16 @@
   "ID": "bc79c881398d46359a98d989ee7abb2e",
   "Name": "WTC - Relentless Protagonist",
   "ProductSlug": "wtc-relentless-protagonist-06c355",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
     {
       "Time": "2023-05-03T21:03:41.8641917+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T01:58:07.80063+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -267,7 +272,7 @@
       "ID": "WTCRP_GODIRECT",
       "SetID": "94elm8b",
       "Name": "Go Direct",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -395,7 +400,7 @@
       "ID": "WTCRP_NEWGAME",
       "SetID": "94elm8b",
       "Name": "Start a new game",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -403,7 +408,7 @@
       "ID": "WTCRP_NEWNAME",
       "SetID": "94elm8b",
       "Name": "Enter a new name",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -524,13 +529,13 @@
     {
       "ID": "94elm8b",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:49.9908695+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:58:07.8006291+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:57.0664494+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:59:58.664736+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:49.9909244+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:51:23.0998393+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:58:07.8006848+00:00"
 }

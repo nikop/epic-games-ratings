@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.56,
   "NumberOfRatings": 98,
@@ -496,9 +496,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5588,
+  "EOS_Progressed": 5590,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -701,6 +701,11 @@
       "Time": "2023-05-06T00:06:36.6910263+00:00",
       "NumProgressed": 5588,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-06T01:57:56.1153196+00:00",
+      "NumProgressed": 5590,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -712,7 +717,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -720,7 +725,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -728,7 +733,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -744,7 +749,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -792,7 +797,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -824,7 +829,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -856,7 +861,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -904,7 +909,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1040,7 +1045,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1048,7 +1053,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -1056,7 +1061,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -1064,14 +1069,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5588,
+      "Progressed": 5590,
       "Completed": 8
     }
   ],
@@ -1079,8 +1084,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-04-25T13:04:35.1476764+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:36.6910202+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:56.1153192+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.1647024+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:58:32.9279675+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:36.6910635+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:12.5496237+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:56.1153742+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 781,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.24,
   "RatingHistory": [
@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63145,
+  "EOS_Progressed": 63151,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1143,6 +1143,11 @@
       "Time": "2023-05-06T00:06:24.4724241+00:00",
       "NumProgressed": 63145,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-06T01:57:45.684025+00:00",
+      "NumProgressed": 63151,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -1162,7 +1167,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -1178,7 +1183,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -1226,7 +1231,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -1266,7 +1271,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -1282,7 +1287,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_STAMINA",
@@ -1306,14 +1311,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63145,
+      "Progressed": 63151,
       "Completed": 10
     }
   ],
@@ -1321,8 +1326,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:24.4724237+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:45.6840246+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.5865909+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:58:43.0111724+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:24.472444+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:20.40645+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:45.6840451+00:00"
 }

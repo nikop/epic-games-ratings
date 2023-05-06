@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12191,
+  "EOS_Progressed": 12192,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-05-06T00:06:22.8540067+00:00",
       "NumProgressed": 12191,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-06T01:57:44.3146114+00:00",
+      "NumProgressed": 12192,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 41,
@@ -1186,7 +1191,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "tpote_achievement_11",
@@ -1242,7 +1247,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "tpote_achievement_18",
@@ -1282,7 +1287,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "tpote_achievement_22",
@@ -1370,7 +1375,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "tpote_achievement_32",
@@ -1442,7 +1447,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5121
     },
     {
       "ID": "tpote_achievement_40",
@@ -1505,15 +1510,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12191,
+      "Progressed": 12192,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:22.8540063+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:44.3146108+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-06T00:01:17.0337506+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:22.854041+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:52:26.9448854+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:44.3146455+00:00"
 }

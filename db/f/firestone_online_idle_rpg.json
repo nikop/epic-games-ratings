@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 857,
+  "EOS_Progressed": 858,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -998,6 +998,11 @@
       "Time": "2023-05-05T21:07:09.2600836+00:00",
       "NumProgressed": 857,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T01:57:59.8524671+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1135,7 +1140,7 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1193,7 +1198,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "fourleafclover",
@@ -1281,7 +1286,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "jewelenchanting",
@@ -1401,7 +1406,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "prestigiousx10",
@@ -1465,13 +1470,13 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1543,7 +1548,7 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1569,7 +1574,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "warmachinesarmy",
@@ -1608,7 +1613,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 857,
+      "Progressed": 858,
       "Completed": 1
     }
   ],
@@ -1616,8 +1621,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-04-03T11:57:10.587111+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:41.172851+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:59.8524663+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:59:11.889393+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:41.1729349+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:45.7105828+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:59.8525475+00:00"
 }

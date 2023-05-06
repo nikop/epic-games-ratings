@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.18 (Ranked 821)  
+Rating: 4.18 (Ranked 822)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,6 +29,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man III | 4.00% | ~166 |
 | A time consuming game II | 4.00% | ~166 |
 | Tools of the trade I | 4.00% | ~166 |
+| Conflicting parties | 4.00% | ~166 |
 | Bread for the people II | 3.00% | ~124 |
 | I like to build stuff... III | 3.00% | ~124 |
 | Experienced decorator | 3.00% | ~124 |
@@ -36,7 +37,6 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job III | 3.00% | ~124 |
 | Tax-man IV | 3.00% | ~124 |
 | A time consuming game III | 3.00% | ~124 |
-| Conflicting parties | 3.00% | ~124 |
 | Another one bites the dust | 2.00% | ~83 |
 | Bread for the people III | 2.00% | ~83 |
 | Five brews are a schnitzel | 2.00% | ~83 |

@@ -27,6 +27,7 @@ Rating: 4.54 (Ranked 477)
 | Infinite Growth... | 0.10% | ~2 |
 | ...  in a finite world | 0.10% | ~2 |
 | Guy de Borderlands | 0.10% | ~2 |
+| Sustainable Energy | 0.10% | ~2 |
 | Space Society | 0.10% | ~2 |
 | Sightseeing | 0.10% | ~2 |
 | In Dolos We Trust | 0.10% | ~2 |
@@ -47,7 +48,6 @@ Rating: 4.54 (Ranked 477)
 | Pulsar Disciple | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Tiqqun Contender | 0.00% | ~0 |
-| Sustainable Energy | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |
 | Breaking Protocol | 0.00% | ~0 |
 | You Had One Job... | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.76,
   "NumberOfRatings": 1354,
@@ -2164,18 +2164,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6580,
       "NumberOfAwardsMax": 1624
+    },
+    {
+      "Time": "2023-05-06T01:51:01.4157437+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6585,
+      "NumberOfAwardsMax": 1625
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6580,
-  "NumberOfAwardsMax": 1624,
+  "NumberOfAwards": 6585,
+  "NumberOfAwardsMax": 1625,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1624
+      "Count": 1625
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2205,7 +2211,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 600
+      "Count": 602
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2235,12 +2241,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 365
+      "Count": 367
     }
   ],
-  "EOS_Progressed": 8648,
+  "EOS_Progressed": 8650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2858,6 +2864,11 @@
       "Time": "2023-05-06T00:06:48.5351643+00:00",
       "NumProgressed": 8648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T01:58:06.4546757+00:00",
+      "NumProgressed": 8650,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -2901,7 +2912,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -2925,7 +2936,7 @@
       "Name": "Path of the Angel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "09_PathOfDemon",
@@ -3005,7 +3016,7 @@
       "Name": "Mythic Choices",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "19_EqualToAroden",
@@ -3077,7 +3088,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "29_StrategicVictory",
@@ -3117,7 +3128,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -3221,7 +3232,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -3261,7 +3272,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -3796,21 +3807,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7430,
+      "Progressed": 7432,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8648,
+      "Progressed": 8650,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-05T23:59:32.0387957+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:48.5351638+00:00",
+  "LastChanged": "2023-05-06T01:51:01.4157435+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:58:06.4546755+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:59:32.0387967+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:48.5353277+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:51:01.4157443+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:58:06.4548279+00:00"
 }

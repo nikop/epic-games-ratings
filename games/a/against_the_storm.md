@@ -7,11 +7,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Marshlands | 0.70% | ~103 |
+| First Real Expedition | 0.60% | ~88 |
 | Overcoming Difficulty | 0.60% | ~88 |
 | Coral Forest | 0.60% | ~88 |
 | The Scarlet Orchard | 0.60% | ~88 |
 | No Deaths | 0.60% | ~88 |
-| First Real Expedition | 0.50% | ~73 |
 | Bandit Camp | 0.50% | ~73 |
 | Barren Lands | 0.50% | ~73 |
 | Fertile Meadows | 0.50% | ~73 |
@@ -76,7 +76,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-06 | 14,658 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 191)  
-Sum: 3,014 (Ranked 149)  
+Sum: 3,015 (Ranked 149)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -89,7 +89,7 @@ Diff (max vs sum): 42
 | This game has Amazing Storytelling | 297 |
 | This game has Amazing Characters | 268 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 193 |
+| This game has a Creative Community | 194 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -203,3 +203,4 @@ Diff (max vs sum): 42
 | 2023-05-02 | 4.81 | - | 417 | 3,011 |
 | 2023-05-04 | 4.81 | - | 417 | 3,012 |
 | 2023-05-05 | 4.81 | - | 417 | 3,014 |
+| 2023-05-06 | 4.81 | - | 417 | 3,015 |

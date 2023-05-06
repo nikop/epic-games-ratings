@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 80.00% | ~48 |
-| Augmented | 77.00% | ~46 |
-| Challenge Accepted | 60.00% | ~36 |
-| Terminated I | 60.00% | ~36 |
-| Nanonic I | 58.00% | ~35 |
-| Unlocked and Loaded | 52.00% | ~31 |
-| Terminated II | 47.00% | ~28 |
-| Terminated III | 32.00% | ~19 |
+| Rookie | 79.00% | ~48 |
+| Augmented | 75.00% | ~46 |
+| Challenge Accepted | 59.00% | ~36 |
+| Terminated I | 59.00% | ~36 |
+| Nanonic I | 57.00% | ~35 |
+| Unlocked and Loaded | 51.00% | ~31 |
+| Terminated II | 46.00% | ~28 |
+| Terminated III | 31.00% | ~19 |
 | Nanonic II | 30.00% | ~18 |
 | Challenge Mastered | 23.00% | ~14 |
 | The City | 20.00% | ~12 |
 | Up Close And Personal | 20.00% | ~12 |
 | Supply Run | 18.00% | ~11 |
 | Nanonic III | 13.00% | ~8 |
-| The Bigger They Are | 12.00% | ~7 |
-| Starship Docks | 12.00% | ~7 |
+| The Bigger They Are | 11.00% | ~7 |
+| Starship Docks | 11.00% | ~7 |
 | Fully Modded | 8.00% | ~5 |
 | Eden Heights | 7.00% | ~4 |
 | Cybernetic | 3.00% | ~2 |
@@ -33,7 +33,7 @@
 | Trickshot | 2.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 266)  
+Progressed: 61 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 54 | 0 |
 | 2023-05-04 | 59 | 0 |
 | 2023-05-05 | 60 | 0 |
+| 2023-05-06 | 61 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

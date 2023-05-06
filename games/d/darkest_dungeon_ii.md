@@ -14,24 +14,29 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 60.00% | ~3 |
 | Don't Make Me Turn This Coach Around | 40.00% | ~2 |
 | Serenity Now! | 40.00% | ~2 |
+| Eidetic | 40.00% | ~2 |
+| Body of Work | 40.00% | ~2 |
+| Resurrection | 20.00% | ~1 |
+| Unleash Hell | 20.00% | ~1 |
+| Funny Guy | 20.00% | ~1 |
+| Long Live the King | 20.00% | ~1 |
+| Wyrdly Reconstructed | 20.00% | ~1 |
+| Boxcar Kid | 20.00% | ~1 |
+| Unfulfilled Desires | 20.00% | ~1 |
 | Loop Year | 20.00% | ~1 |
 | Predator | 20.00% | ~1 |
 | Deprogramming | 20.00% | ~1 |
 | Hat Trick | 20.00% | ~1 |
 | Rush Hour | 20.00% | ~1 |
 | Autodidact | 20.00% | ~1 |
-| Eidetic | 20.00% | ~1 |
+| Shrine of Reflection | 20.00% | ~1 |
+| A Clear Conscience | 20.00% | ~1 |
 | Unshackled | 20.00% | ~1 |
-| Body of Work | 20.00% | ~1 |
+| Hot Air | 20.00% | ~1 |
+| Eyes Up | 20.00% | ~1 |
+| Handled | 20.00% | ~1 |
 | It Rings a Bell | 0.00% | ~0 |
 | A Life Well Lived | 0.00% | ~0 |
-| Resurrection | 0.00% | ~0 |
-| Unleash Hell | 0.00% | ~0 |
-| Funny Guy | 0.00% | ~0 |
-| Long Live the King | 0.00% | ~0 |
-| Wyrdly Reconstructed | 0.00% | ~0 |
-| Boxcar Kid | 0.00% | ~0 |
-| Unfulfilled Desires | 0.00% | ~0 |
 | This Belongs in a Museum | 0.00% | ~0 |
 | Dissector | 0.00% | ~0 |
 | Banishment | 0.00% | ~0 |
@@ -56,8 +61,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 0.00% | ~0 |
 | 20,000 Leagues Above the Sea | 0.00% | ~0 |
 | Tears in the Rain | 0.00% | ~0 |
-| Shrine of Reflection | 0.00% | ~0 |
-| A Clear Conscience | 0.00% | ~0 |
 | Whale | 0.00% | ~0 |
 | Triage | 0.00% | ~0 |
 | When You Want Something Done Right | 0.00% | ~0 |
@@ -65,9 +68,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Pub Crawl | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Utopia | 0.00% | ~0 |
-| Hot Air | 0.00% | ~0 |
-| Eyes Up | 0.00% | ~0 |
-| Handled | 0.00% | ~0 |
 | Grand Slam | 0.00% | ~0 |
 | Hard Mode | 0.00% | ~0 |
 | Road Trip | 0.00% | ~0 |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-05 | 5 | 0 |
 ## Awards
 Max (Character Customization): 6,514  (Ranked 48)  
-Sum: 16,608 (Ranked 57)  
+Sum: 16,610 (Ranked 57)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -95,7 +95,7 @@ Diff (max vs sum): -9
 | This game has Amazing Storytelling | 1,127 |
 | This game has Quickly Understood Controls | 1,121 |
 | This game has Unique Visuals | 1,041 |
-| This game has a Creative Community | 776 |
+| This game has a Creative Community | 778 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -201,4 +201,4 @@ Diff (max vs sum): -9
 | 2023-05-03 | 4.67 | - | 6,504 | 16,584 |
 | 2023-05-04 | 4.67 | - | 6,507 | 16,598 |
 | 2023-05-05 | 4.67 | - | 6,514 | 16,606 |
-| 2023-05-06 | 4.67 | - | 6,514 | 16,608 |
+| 2023-05-06 | 4.67 | - | 6,514 | 16,610 |

@@ -53,7 +53,7 @@
 | What They Don't Know Can't Hurt Them | 0.00% | ~0 |
 | Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 305)  
+Progressed: 10 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

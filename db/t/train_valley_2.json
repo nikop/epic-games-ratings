@@ -2,12 +2,12 @@
   "ID": "5c59642227a2412fb38f324d1772914e",
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.15,
   "NumberOfRatings": 87,
@@ -256,9 +256,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -270,6 +270,11 @@
     {
       "Time": "2023-05-01T04:01:16.9872085+00:00",
       "NumProgressed": 697,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T01:57:55.7246044+00:00",
+      "NumProgressed": 698,
       "NumCompleted": 1
     }
   ],
@@ -408,9 +413,9 @@
       "ID": "AchievementDealmaker",
       "SetID": "76o014g",
       "Name": "Dealmaker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -568,9 +573,9 @@
       "ID": "AchievementJustInTime",
       "SetID": "76o014g",
       "Name": "Just in time!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -881,21 +886,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:06:36.0965833+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:57:55.724604+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:48.9399661+00:00",
-  "LastUpdate_Ratings": "2023-05-05T23:58:38.7195709+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:06:36.0966645+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:50:17.1338811+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:57:55.724683+00:00"
 }

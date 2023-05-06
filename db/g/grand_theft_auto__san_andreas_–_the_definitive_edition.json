@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 394,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 109,
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7494,
+  "EOS_Progressed": 7496,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -946,6 +946,11 @@
       "Time": "2023-05-06T00:07:13.0755516+00:00",
       "NumProgressed": 7494,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-06T01:58:27.8503086+00:00",
+      "NumProgressed": 7496,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -957,7 +962,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5997
     },
     {
       "ID": "ACH02",
@@ -1013,7 +1018,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "ACH09",
@@ -1061,7 +1066,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH15",
@@ -1125,7 +1130,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ACH23",
@@ -1236,7 +1241,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7494,
+      "Progressed": 7496,
       "Completed": 15
     }
   ],
@@ -1244,8 +1249,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-04-28T17:01:34.9203237+00:00",
-  "LastChanged_Achievements": "2023-05-06T00:07:13.0755508+00:00",
+  "LastChanged_Achievements": "2023-05-06T01:58:27.8503083+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-06T00:01:35.4090858+00:00",
-  "LastUpdate_Achievements": "2023-05-06T00:07:13.0755807+00:00"
+  "LastUpdate_Ratings": "2023-05-06T01:52:41.881986+00:00",
+  "LastUpdate_Achievements": "2023-05-06T01:58:27.8503351+00:00"
 }
