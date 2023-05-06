@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,071 |
-| Un-Lonely Island | 50.00% | ~1,345 |
-| The Beginning of a Servantship | 46.00% | ~1,237 |
-| Trade Is My Trait | 38.00% | ~1,022 |
-| Number 18 | 26.00% | ~699 |
+| Just One...More...Term... | 77.00% | ~2,073 |
+| Un-Lonely Island | 50.00% | ~1,346 |
+| The Beginning of a Servantship | 46.00% | ~1,238 |
+| Trade Is My Trait | 38.00% | ~1,023 |
+| Number 18 | 26.00% | ~700 |
 | We Don't Have Time For That | 20.00% | ~538 |
-| Caribbean Comrade | 18.00% | ~484 |
-| The Legend of Langostino | 18.00% | ~484 |
-| The Governator | 18.00% | ~484 |
-| The Dreamer of Dreams | 17.00% | ~457 |
+| Caribbean Comrade | 18.00% | ~485 |
+| The Legend of Langostino | 18.00% | ~485 |
+| The Governator | 18.00% | ~485 |
+| The Dreamer of Dreams | 17.00% | ~458 |
 | Go Sovereigns! | 12.00% | ~323 |
 | For Science! | 12.00% | ~323 |
 | Happy Ending? | 11.00% | ~296 |
@@ -27,11 +27,11 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 8.00% | ~215 |
 | Don't Panic! | 7.00% | ~188 |
 | I Owe You Nothing | 7.00% | ~188 |
-| Computer Says "No" | 6.00% | ~161 |
-| Beware The Betman | 6.00% | ~161 |
-| Watch The World Burn | 6.00% | ~161 |
-| Fairy Tale Come True | 6.00% | ~161 |
-| Viva Tropico! | 5.00% | ~134 |
+| Computer Says "No" | 6.00% | ~162 |
+| Beware The Betman | 6.00% | ~162 |
+| Watch The World Burn | 6.00% | ~162 |
+| Fairy Tale Come True | 6.00% | ~162 |
+| Viva Tropico! | 5.00% | ~135 |
 | Apocalypso | 4.00% | ~108 |
 | The Time For Wonders | 4.00% | ~108 |
 | Been there, Done That | 3.00% | ~81 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~27 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,690 (Ranked 132)  
+Progressed: 2,692 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-03 | 2,641 | 1 |
 | 2023-05-04 | 2,654 | 1 |
 | 2023-05-05 | 2,670 | 1 |
-| 2023-05-06 | 2,690 | 1 |
+| 2023-05-06 | 2,692 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 314)  
 Sum: 748 (Ranked 253)  

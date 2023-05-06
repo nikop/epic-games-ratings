@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.24,
   "RatingHistory": [
@@ -216,9 +216,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -265,6 +265,11 @@
     {
       "Time": "2023-05-05T17:09:56.8244037+00:00",
       "NumProgressed": 1539,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-06T16:08:06.5842836+00:00",
+      "NumProgressed": 1540,
       "NumCompleted": 10
     }
   ],
@@ -325,7 +330,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_08",
@@ -333,7 +338,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHV_09",
@@ -445,7 +450,7 @@
       "Name": "Offensive Defense",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_23",
@@ -453,7 +458,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHV_24",
@@ -581,7 +586,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACHV_40",
@@ -732,7 +737,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1540,
       "Completed": 10
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:51.4392621+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:08:06.5842825+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:33.3150703+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:02:32.4803717+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:51.4393189+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:02:38.9611388+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:08:06.5843763+00:00"
 }

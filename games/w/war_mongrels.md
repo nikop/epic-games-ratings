@@ -40,8 +40,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VII | 8.00% | ~19 |
 | Collectibles of Chapter XII | 7.00% | ~17 |
 | Such is War! | 7.00% | ~17 |
+| Tiptoe Around | 7.00% | ~17 |
 | Piece of Cake | 6.00% | ~15 |
-| Tiptoe Around | 6.00% | ~15 |
 | Collectibles of Chapter VIII | 5.00% | ~12 |
 | Collectibles of Chapter X | 5.00% | ~12 |
 | Collectibles of Chapter XI | 5.00% | ~12 |

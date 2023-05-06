@@ -9,7 +9,7 @@
 | Challenge Accepted | 59.00% | ~36 |
 | Nanonic I | 59.00% | ~36 |
 | Terminated I | 59.00% | ~36 |
-| Unlocked and Loaded | 52.00% | ~32 |
+| Unlocked and Loaded | 54.00% | ~33 |
 | Terminated II | 48.00% | ~29 |
 | Terminated III | 34.00% | ~21 |
 | Nanonic II | 31.00% | ~19 |

@@ -1956,10 +1956,10 @@
       "Count": 452
     }
   ],
-  "EOS_Progressed": 265799,
+  "EOS_Progressed": 265811,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 1241,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 1238,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -3236,6 +3236,11 @@
       "Time": "2023-05-06T15:06:55.3545703+00:00",
       "NumProgressed": 265799,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2023-05-06T16:07:01.3107134+00:00",
+      "NumProgressed": 265811,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 45,
@@ -3247,7 +3252,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_10",
@@ -3255,7 +3260,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_11",
@@ -3263,7 +3268,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_12",
@@ -3271,7 +3276,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_13",
@@ -3279,7 +3284,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_14",
@@ -3303,7 +3308,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_17",
@@ -3503,7 +3508,7 @@
       "Name": "Coasting Along",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "PFA_4",
@@ -3599,14 +3604,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265799,
+      "Progressed": 265811,
       "Completed": 349
     }
   ],
@@ -3614,8 +3619,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-06T14:59:02.7680259+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:06:55.3545697+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:01.3107126+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-06T14:59:02.7680264+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:06:55.3546422+00:00"
+  "LastUpdate_Ratings": "2023-05-06T15:58:33.8401047+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:01.310818+00:00"
 }

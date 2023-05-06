@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -747,9 +747,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "achLizun",
@@ -819,9 +819,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "achPriest",
@@ -899,9 +899,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achVip",
@@ -956,8 +956,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:49.0052733+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:08:03.9307916+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:02:16.3052949+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:49.0053329+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:02:21.2782705+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:08:03.9308762+00:00"
 }

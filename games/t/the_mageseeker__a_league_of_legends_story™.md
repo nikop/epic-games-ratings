@@ -33,9 +33,9 @@ Rating: 4.76 (Ranked 114)
 | Iffighain Headquarters | 17.00% | ~322 |
 | Full equipped | 16.00% | ~303 |
 | Whispers in the Woods II | 15.00% | ~284 |
+| Quickmoore Headquarters | 14.00% | ~265 |
 | No more holding back | 13.00% | ~246 |
 | Terbisia | 13.00% | ~246 |
-| Quickmoore Headquarters | 13.00% | ~246 |
 | Whispers in the Woods III | 12.00% | ~227 |
 | Friendly fire | 12.00% | ~227 |
 | The Central Headquarters | 12.00% | ~227 |
@@ -49,11 +49,11 @@ Rating: 4.76 (Ranked 114)
 | Chains master | 8.00% | ~151 |
 | The end of the experiments | 8.00% | ~151 |
 | The Great City of Demacia | 8.00% | ~151 |
+| You can pet the... horse | 8.00% | ~151 |
 | Back to sleep, then... | 8.00% | ~151 |
 | Call it 'redistribution of magic | 8.00% | ~151 |
 | Do you trust me? | 7.00% | ~133 |
 | Truth is a dark mirror | 7.00% | ~133 |
-| You can pet the... horse | 7.00% | ~133 |
 | The great mage rebellion starts now | 6.00% | ~114 |
 | Spellcrafting | 6.00% | ~114 |
 | Silverwing nest | 1.00% | ~19 |

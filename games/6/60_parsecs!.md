@@ -7,16 +7,16 @@
 | Don't Panic! | 97.00% | ~566 |
 | Friendzone | 79.00% | ~461 |
 | Space Colonization | 79.00% | ~461 |
-| Hello World | 74.00% | ~431 |
-| Space Engineer | 62.00% | ~361 |
-| Tinkerer | 62.00% | ~361 |
-| Dust to Dust | 57.00% | ~332 |
-| Across The Stars | 46.00% | ~268 |
+| Hello World | 74.00% | ~432 |
+| Tinkerer | 63.00% | ~368 |
+| Space Engineer | 62.00% | ~362 |
+| Dust to Dust | 57.00% | ~333 |
+| Across The Stars | 46.00% | ~269 |
 | Crafty | 44.00% | ~257 |
-| All Seats Taken | 34.00% | ~198 |
+| All Seats Taken | 34.00% | ~199 |
 | For Science! | 32.00% | ~187 |
 | Meet the Petersons | 31.00% | ~181 |
-| Stay Cool | 28.00% | ~163 |
+| Stay Cool | 28.00% | ~164 |
 | KIA | 25.00% | ~146 |
 | Mutiny in making | 22.00% | ~128 |
 | Et tu, Astrocitizen? | 19.00% | ~111 |
@@ -25,7 +25,7 @@
 | Hands Full | 12.00% | ~70 |
 | Gold Medalist | 11.00% | ~64 |
 | Non-Fiction | 11.00% | ~64 |
-| No Man Left Behind | 9.00% | ~52 |
+| No Man Left Behind | 9.00% | ~53 |
 | Fix-It Felix | 7.00% | ~41 |
 | Intergalactic Breakup | 7.00% | ~41 |
 | Flawless Maegangement | 7.00% | ~41 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 181)  
+Progressed: 584 (Ranked 181)  
 Completed: 1 (0.17%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 1 (0.17%) (Ranked 135)
 | 2023-05-03 | 581 | 1 |
 | 2023-05-04 | 582 | 1 |
 | 2023-05-05 | 583 | 1 |
+| 2023-05-06 | 584 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

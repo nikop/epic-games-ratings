@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 82.00% | ~8,868 |
 | Explorer | 80.00% | ~8,652 |
 | Friendly Family | 77.00% | ~8,328 |
-| Intrepid | 70.00% | ~7,570 |
+| Intrepid | 71.00% | ~7,679 |
 | Able | 62.00% | ~6,705 |
 | Architect | 62.00% | ~6,705 |
 | Mason | 62.00% | ~6,705 |

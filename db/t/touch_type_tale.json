@@ -605,9 +605,9 @@
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 429
+      "UsersEstimate": 454
     },
     {
       "ID": "campaign6",
@@ -710,8 +710,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:45.077941+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:59.4712004+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:02:12.872233+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:45.0779716+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:02:17.8083416+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:59.4712468+00:00"
 }

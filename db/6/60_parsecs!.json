@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -48,6 +48,11 @@
       "Time": "2023-05-05T22:06:14.2475018+00:00",
       "NumProgressed": 583,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T16:07:01.508872+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -67,7 +72,7 @@
       "Name": "Across The Stars",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -83,7 +88,7 @@
       "Name": "All Seats Taken",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -139,7 +144,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -235,7 +240,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Achievement_Improvinator",
@@ -307,7 +312,7 @@
       "Name": "No Man Left Behind",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement_NonFiction",
@@ -355,7 +360,7 @@
       "Name": "Space Engineer",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -379,7 +384,7 @@
       "Name": "Stay Cool",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -393,9 +398,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 368
     },
     {
       "ID": "Achievement_Traitor",
@@ -410,7 +415,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 1
     }
   ],
@@ -418,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:06:55.4684697+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:01.5088714+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:08.8405232+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:00:51.1405677+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:06:55.4685067+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:00:41.6982781+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:01.5089294+00:00"
 }

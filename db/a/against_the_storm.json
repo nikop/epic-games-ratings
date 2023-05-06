@@ -2214,9 +2214,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14669,
+  "EOS_Progressed": 14671,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2944,6 +2944,11 @@
       "Time": "2023-05-06T14:07:33.3255423+00:00",
       "NumProgressed": 14669,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-06T16:07:57.6325569+00:00",
+      "NumProgressed": 14671,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3169,9 +3174,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearRuins",
@@ -3217,9 +3222,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "WinOnCursed",
@@ -3354,15 +3359,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14669,
+      "Progressed": 14671,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-06T01:52:28.1299102+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:43.5142515+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:57.6325564+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:01:57.0811961+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:43.5143016+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:01:58.9074639+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:57.6326364+00:00"
 }

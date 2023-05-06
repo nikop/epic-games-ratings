@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 108,
@@ -360,10 +360,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8641,
+  "EOS_Progressed": 8644,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 620,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 617,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
@@ -1620,6 +1620,11 @@
       "Time": "2023-05-06T15:07:43.1974607+00:00",
       "NumProgressed": 8641,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-05-06T16:07:57.2510547+00:00",
+      "NumProgressed": 8644,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 20,
@@ -1631,7 +1636,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -1639,7 +1644,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "EAST_FINISHED",
@@ -1647,7 +1652,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -1679,7 +1684,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -1743,7 +1748,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "INTRO_FINISHED",
@@ -1751,7 +1756,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6569
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -1759,7 +1764,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1790,15 +1795,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8641,
+      "Progressed": 8644,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:43.1974601+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:57.2510539+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:02:09.3030747+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:43.1974941+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:02:13.1818294+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:57.2510918+00:00"
 }

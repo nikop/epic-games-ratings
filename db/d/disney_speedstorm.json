@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2343,
+  "EOS_Progressed": 2345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -964,6 +964,11 @@
       "Time": "2023-05-06T15:07:20.7747275+00:00",
       "NumProgressed": 2343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T16:07:30.9451798+00:00",
+      "NumProgressed": 2345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -983,7 +988,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "11",
@@ -1015,7 +1020,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "15",
@@ -1055,7 +1060,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "2",
@@ -1063,7 +1068,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "20",
@@ -1103,7 +1108,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "3",
@@ -1127,7 +1132,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "6",
@@ -1135,7 +1140,7 @@
       "Name": "PRO",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "7",
@@ -1166,13 +1171,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2343,
+      "Progressed": 2345,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:20.774727+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:30.9451792+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:00:46.8680402+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:20.7747502+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:00:37.0803606+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:30.9452163+00:00"
 }

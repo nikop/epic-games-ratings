@@ -5,14 +5,14 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,290 |
-| Grappling with a Graphorn | 5.00% | ~13,290 |
-| The One Who Mastered Memories | 5.00% | ~13,290 |
-| The Hallowed Hero | 5.00% | ~13,290 |
-| The Hero of Hogwarts | 5.00% | ~13,290 |
-| The Defender of Dragons | 5.00% | ~13,290 |
-| Coasting Along | 5.00% | ~13,290 |
-| Rising From the Ashes | 5.00% | ~13,290 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,291 |
+| Grappling with a Graphorn | 5.00% | ~13,291 |
+| The One Who Mastered Memories | 5.00% | ~13,291 |
+| The Hallowed Hero | 5.00% | ~13,291 |
+| The Hero of Hogwarts | 5.00% | ~13,291 |
+| The Defender of Dragons | 5.00% | ~13,291 |
+| Coasting Along | 5.00% | ~13,291 |
+| Rising From the Ashes | 5.00% | ~13,291 |
 | The Avenging Gazelle | 4.00% | ~10,632 |
 | Beast Friends | 4.00% | ~10,632 |
 | A Sallow Grave | 4.00% | ~10,632 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,063 |
 | Collector's Edition | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,799 (Ranked 38)  
+Progressed: 265,811 (Ranked 38)  
 Completed: 349 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 349 (0.13%) (Ranked 144)
 | 2023-05-03 | 265,373 | 343 |
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
-| 2023-05-06 | 265,799 | 349 |
+| 2023-05-06 | 265,811 | 349 |
 ## Awards
 Max (Character Customization): 18,430  (Ranked 18)  
 Sum: 33,616 (Ranked 34)  

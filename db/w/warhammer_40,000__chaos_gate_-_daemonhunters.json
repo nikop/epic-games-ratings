@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.58,
   "NumberOfRatings": 371,
@@ -490,9 +490,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2579,
+  "EOS_Progressed": 2580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-05-06T13:09:49.0707105+00:00",
       "NumProgressed": 2579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T16:07:32.7172259+00:00",
+      "NumProgressed": 2580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -702,7 +707,7 @@
       "Name": "Look Over There!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "BloodAndIron",
@@ -910,7 +915,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "Kills_Streak",
@@ -1157,21 +1162,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2579,
+      "Progressed": 2580,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2579,
+      "Progressed": 2580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:22.2319752+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:32.7172253+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:00:32.8342018+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:22.2320505+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:00:20.7184261+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:32.7173203+00:00"
 }

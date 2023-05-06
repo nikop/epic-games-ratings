@@ -25,7 +25,7 @@ Number of Ratings: 546  (23.09.2022)
 | Castle Restoration Plans | 14.00% | ~1,004 |
 | The Dwarven Chandelier | 12.00% | ~861 |
 | Master of Speed | 9.00% | ~645 |
-| The Levitator | 5.00% | ~359 |
+| The Levitator | 6.00% | ~430 |
 | The God of Battle | 3.00% | ~215 |
 | Too Much of a Talker | 2.00% | ~143 |
 | The Skeleton King | 2.00% | ~143 |

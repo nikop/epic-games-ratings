@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 738)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~177,612 |
-| Snooper. | 10.00% | ~18,895 |
-| You have to start somewhere, right? | 7.00% | ~13,226 |
+| Boarded! | 94.00% | ~177,618 |
+| Snooper. | 10.00% | ~18,896 |
+| You have to start somewhere, right? | 7.00% | ~13,227 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,337 |
-| Corrupted. | 5.00% | ~9,447 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,447 |
-| Answers can be found amongst the stars | 3.00% | ~5,668 |
-| Bend to the will of the arrows. | 3.00% | ~5,668 |
+| Corrupted. | 5.00% | ~9,448 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,448 |
+| Answers can be found amongst the stars | 3.00% | ~5,669 |
+| Bend to the will of the arrows. | 3.00% | ~5,669 |
 | You've been through a lot. | 2.00% | ~3,779 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,779 |
 | I hope your remember your colour theory. | 2.00% | ~3,779 |
@@ -24,7 +24,7 @@ Rating: 4.32 (Ranked 738)
 | They're like really flat pillars. | 2.00% | ~3,779 |
 | That's a wrap. | 2.00% | ~3,779 |
 | In balance. | 2.00% | ~3,779 |
-| I hope you're ready. | 1.00% | ~1,889 |
+| I hope you're ready. | 1.00% | ~1,890 |
 | Cockpit | 0.70% | ~1,323 |
 | Witness it. | 0.70% | ~1,323 |
 | Bridge crossed. | 0.60% | ~1,134 |
@@ -35,8 +35,8 @@ Rating: 4.32 (Ranked 738)
 | Snooper + | 0.40% | ~756 |
 | Corrupted + | 0.30% | ~567 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,949 (Ranked 48)  
-Completed: 408 (0.22%) (Ranked 128)  
+Progressed: 188,955 (Ranked 48)  
+Completed: 409 (0.22%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,7 +51,7 @@ Completed: 408 (0.22%) (Ranked 128)
 | 2023-05-03 | 188,702 | 404 |
 | 2023-05-04 | 188,783 | 406 |
 | 2023-05-05 | 188,887 | 407 |
-| 2023-05-06 | 188,949 | 408 |
+| 2023-05-06 | 188,955 | 409 |
 ## Awards
 Max (Challenging Puzzles): 551  (Ranked 171)  
 Sum: 665 (Ranked 263)  

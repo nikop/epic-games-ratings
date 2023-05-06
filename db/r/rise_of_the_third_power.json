@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -141,9 +141,9 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Overpowered",
@@ -214,8 +214,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-05-06T15:07:24.6682578+00:00",
+  "LastChanged_Achievements": "2023-05-06T16:07:35.2070481+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.4323401+00:00",
-  "LastUpdate_Ratings": "2023-05-06T15:00:55.4711751+00:00",
-  "LastUpdate_Achievements": "2023-05-06T15:07:24.6682737+00:00"
+  "LastUpdate_Ratings": "2023-05-06T16:00:46.5979337+00:00",
+  "LastUpdate_Achievements": "2023-05-06T16:07:35.2070709+00:00"
 }
