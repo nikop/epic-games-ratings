@@ -180,9 +180,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 188898,
+  "EOS_Progressed": 188901,
   "EOS_Completed": 407,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1415,6 +1415,11 @@
       "Time": "2023-05-06T02:31:03.0001515+00:00",
       "NumProgressed": 188898,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-05-06T03:06:45.4767998+00:00",
+      "NumProgressed": 188901,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 29,
@@ -1426,7 +1431,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -1450,7 +1455,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177564
+      "UsersEstimate": 177567
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -1474,7 +1479,7 @@
       "Name": "A full deck.",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -1602,7 +1607,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -1657,7 +1662,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 188898,
+      "Progressed": 188901,
       "Completed": 407
     }
   ],
@@ -1665,8 +1670,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
-  "LastChanged_Achievements": "2023-05-06T02:31:03.0001508+00:00",
+  "LastChanged_Achievements": "2023-05-06T03:06:45.4767995+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:02.1474684+00:00",
-  "LastUpdate_Ratings": "2023-05-06T02:23:56.7131308+00:00",
-  "LastUpdate_Achievements": "2023-05-06T02:31:03.0001998+00:00"
+  "LastUpdate_Ratings": "2023-05-06T03:00:06.4104575+00:00",
+  "LastUpdate_Achievements": "2023-05-06T03:06:45.4768242+00:00"
 }

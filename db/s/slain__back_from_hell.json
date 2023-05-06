@@ -166,9 +166,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 19172,
+  "EOS_Progressed": 19176,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1311,
+  "EOS_NewPlayers": 1306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1421,6 +1421,11 @@
       "Time": "2023-05-06T02:31:24.5209256+00:00",
       "NumProgressed": 19172,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-06T03:07:04.6882892+00:00",
+      "NumProgressed": 19176,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 29,
@@ -1544,7 +1549,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -1584,7 +1589,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -1592,7 +1597,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -1663,7 +1668,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19172,
+      "Progressed": 19176,
       "Completed": 14
     }
   ],
@@ -1671,8 +1676,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
-  "LastChanged_Achievements": "2023-05-06T02:31:24.5209246+00:00",
+  "LastChanged_Achievements": "2023-05-06T03:07:04.6882889+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2822478+00:00",
-  "LastUpdate_Ratings": "2023-05-06T02:25:23.2557176+00:00",
-  "LastUpdate_Achievements": "2023-05-06T02:31:24.52097+00:00"
+  "LastUpdate_Ratings": "2023-05-06T03:01:20.6390951+00:00",
+  "LastUpdate_Achievements": "2023-05-06T03:07:04.6883104+00:00"
 }

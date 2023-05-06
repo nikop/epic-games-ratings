@@ -1846,10 +1846,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 33528,
       "NumberOfAwardsMax": 18393
+    },
+    {
+      "Time": "2023-05-06T02:58:29.3133232+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33532,
+      "NumberOfAwardsMax": 18393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33528,
+  "NumberOfAwards": 33532,
   "NumberOfAwardsMax": 18393,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1881,7 +1887,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 716
+      "Count": 720
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1926,9 +1932,9 @@
       "Count": 452
     }
   ],
-  "EOS_Progressed": 265688,
+  "EOS_Progressed": 265696,
   "EOS_Completed": 348,
-  "EOS_NewPlayers": 1232,
+  "EOS_NewPlayers": 1233,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3141,6 +3147,11 @@
       "Time": "2023-05-06T02:30:35.5398208+00:00",
       "NumProgressed": 265688,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2023-05-06T03:06:21.0014896+00:00",
+      "NumProgressed": 265696,
+      "NumCompleted": 348
     }
   ],
   "TotalAchievements": 45,
@@ -3160,7 +3171,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     },
     {
       "ID": "PFA_11",
@@ -3168,7 +3179,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     },
     {
       "ID": "PFA_12",
@@ -3176,7 +3187,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     },
     {
       "ID": "PFA_13",
@@ -3184,7 +3195,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     },
     {
       "ID": "PFA_14",
@@ -3208,7 +3219,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     },
     {
       "ID": "PFA_17",
@@ -3408,7 +3419,7 @@
       "Name": "Coasting Along",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     },
     {
       "ID": "PFA_4",
@@ -3504,23 +3515,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13284
+      "UsersEstimate": 13285
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265688,
+      "Progressed": 265696,
       "Completed": 348
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-06T01:50:08.482359+00:00",
-  "LastChanged_Achievements": "2023-05-06T02:30:35.5398201+00:00",
+  "LastChanged": "2023-05-06T02:58:29.3133231+00:00",
+  "LastChanged_Achievements": "2023-05-06T03:06:21.0014892+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-06T02:22:03.0818163+00:00",
-  "LastUpdate_Achievements": "2023-05-06T02:30:35.539879+00:00"
+  "LastUpdate_Ratings": "2023-05-06T02:58:29.3133235+00:00",
+  "LastUpdate_Achievements": "2023-05-06T03:06:21.0015264+00:00"
 }

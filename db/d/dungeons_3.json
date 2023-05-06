@@ -1952,9 +1952,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 14794,
+  "EOS_Progressed": 14795,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 943,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -3172,6 +3172,11 @@
       "Time": "2023-05-06T02:30:39.2349935+00:00",
       "NumProgressed": 14794,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-05-06T03:06:24.3001831+00:00",
+      "NumProgressed": 14795,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 60,
@@ -3183,7 +3188,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 8876
+      "UsersEstimate": 8877
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -3191,7 +3196,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -3199,7 +3204,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 8728
+      "UsersEstimate": 8729
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -3207,7 +3212,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -3247,7 +3252,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -3255,7 +3260,7 @@
       "Name": "Master of Traps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_2",
@@ -3263,7 +3268,7 @@
       "Name": "Ignore The Level Designer\u2019s Plan",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_Completed",
@@ -3287,7 +3292,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -3327,7 +3332,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -3351,7 +3356,7 @@
       "Name": "Prepare the grave",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -3367,7 +3372,7 @@
       "Name": "Angel of Fire",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -3391,7 +3396,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 6805
+      "UsersEstimate": 6806
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -3399,7 +3404,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -3415,15 +3420,15 @@
       "Name": "Rusty Steel",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
       "SetID": "cda475f",
       "Name": "Thirst quencher",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4438
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -3431,7 +3436,7 @@
       "Name": "Can\u2019t stand to see an Ogre bleed",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_Completed",
@@ -3447,7 +3452,7 @@
       "Name": "Lifesaver",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_D3_Campaign_Infested_2",
@@ -3463,7 +3468,7 @@
       "Name": "Destroy the thing",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -3479,7 +3484,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -3487,7 +3492,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -3567,7 +3572,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 6805
+      "UsersEstimate": 6806
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -3655,22 +3660,22 @@
       "Name": "Tide Master",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 14794,
+      "Progressed": 14795,
       "Completed": 141
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-06T01:51:44.8811734+00:00",
-  "LastChanged_Achievements": "2023-05-06T02:30:39.2349927+00:00",
+  "LastChanged_Achievements": "2023-05-06T03:06:24.3001828+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.7377244+00:00",
-  "LastUpdate_Ratings": "2023-05-06T02:24:21.2999803+00:00",
-  "LastUpdate_Achievements": "2023-05-06T02:30:39.235058+00:00"
+  "LastUpdate_Ratings": "2023-05-06T03:00:26.8354577+00:00",
+  "LastUpdate_Achievements": "2023-05-06T03:06:24.3002355+00:00"
 }

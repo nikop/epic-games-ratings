@@ -314,9 +314,9 @@
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOCIAL_BUTTERFLY",
@@ -426,17 +426,17 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WARNING_FRAGILE",
       "SetID": "2d85n75",
       "Name": "Warning: Fragile",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WHAT_THEY_DONT_KNOW_CANT_HURT_THEM",
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-06T02:31:19.6789322+00:00",
+  "LastChanged_Achievements": "2023-05-06T03:07:00.287942+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-06T02:25:01.5083265+00:00",
-  "LastUpdate_Achievements": "2023-05-06T02:31:19.6789742+00:00"
+  "LastUpdate_Ratings": "2023-05-06T03:01:01.6528723+00:00",
+  "LastUpdate_Achievements": "2023-05-06T03:07:00.2879736+00:00"
 }

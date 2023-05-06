@@ -6,14 +6,14 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~95,629 |
-| Comeback | 81.00% | ~87,033 |
-| Information is Key | 80.00% | ~85,958 |
-| Unlucky | 71.00% | ~76,288 |
+| Immovable Object | 89.00% | ~95,630 |
+| Comeback | 81.00% | ~87,034 |
+| Information is Key | 80.00% | ~85,959 |
+| Unlucky | 71.00% | ~76,289 |
 | Anarchist | 68.00% | ~73,065 |
-| Wallhack | 65.00% | ~69,841 |
+| Wallhack | 65.00% | ~69,842 |
 | Steady Supply | 60.00% | ~64,469 |
-| Lucky Shot | 53.00% | ~56,947 |
+| Lucky Shot | 53.00% | ~56,948 |
 | Forward Observer | 52.00% | ~55,873 |
 | Ring Ring! | 52.00% | ~55,873 |
 | Bossing Around | 45.00% | ~48,352 |
@@ -22,11 +22,11 @@ Number of Ratings: 13,393  (23.09.2022)
 | Strength in Numbers | 45.00% | ~48,352 |
 | Fog of War | 41.00% | ~44,054 |
 | Stronghold Denied | 39.00% | ~41,905 |
-| Anyone Else? | 38.00% | ~40,830 |
-| Rasputin | 38.00% | ~40,830 |
-| This Belongs to Us Now | 36.00% | ~38,681 |
+| Anyone Else? | 38.00% | ~40,831 |
+| Rasputin | 38.00% | ~40,831 |
+| This Belongs to Us Now | 36.00% | ~38,682 |
 | Hydra | 35.00% | ~37,607 |
-| Stronghold | 34.00% | ~36,532 |
+| Stronghold | 34.00% | ~36,533 |
 | Leeroy | 33.00% | ~35,458 |
 | Lost Batallion | 33.00% | ~35,458 |
 | This is MY Machine Gun! | 31.00% | ~33,309 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~967 |
 | Road to Berlin | 0.60% | ~645 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,448 (Ranked 58)  
+Progressed: 107,449 (Ranked 58)  
 Completed: 21 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 21 (0.02%) (Ranked 175)
 | 2023-05-03 | 107,108 | 20 |
 | 2023-05-04 | 107,246 | 21 |
 | 2023-05-05 | 107,422 | 21 |
-| 2023-05-06 | 107,448 | 21 |
+| 2023-05-06 | 107,449 | 21 |
 ## Awards
 Max (Competitive Players): 321  (Ranked 215)  
 Sum: 2,821 (Ranked 155)  

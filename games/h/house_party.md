@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Derezzed | 0.00% | ~0 |
 | Simple Geometry | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,940 (Ranked 120)  
+Progressed: 4,941 (Ranked 120)  
 Completed: 2 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 2 (0.04%) (Ranked 167)
 | 2023-05-03 | 4,934 | 2 |
 | 2023-05-04 | 4,939 | 2 |
 | 2023-05-05 | 4,940 | 2 |
+| 2023-05-06 | 4,941 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
