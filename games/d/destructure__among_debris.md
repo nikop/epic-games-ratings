@@ -4,18 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Rookie | 73.00% | ~30 |
 | Graduation | 71.00% | ~29 |
-| Rookie | 71.00% | ~29 |
-| You Have Been Deaded | 56.00% | ~23 |
+| You Have Been Deaded | 59.00% | ~24 |
 | Apprentice Destructor | 22.00% | ~9 |
 | You Are Actually Supposed To Use Those | 15.00% | ~6 |
 | I Prefer Jazz Fusion | 10.00% | ~4 |
 | Avaricerite | 7.00% | ~3 |
+| Back From The Dead | 5.00% | ~2 |
 | Ball Galore | 5.00% | ~2 |
 | Ball Protector | 5.00% | ~2 |
 | Easy Victory | 5.00% | ~2 |
 | Master Destructor | 5.00% | ~2 |
-| Back From The Dead | 2.00% | ~1 |
+| Ball Collector | 2.00% | ~1 |
 | Bullet Hell | 2.00% | ~1 |
 | Collector | 2.00% | ~1 |
 | Detoxed | 2.00% | ~1 |
@@ -29,7 +30,6 @@
 | Total Walrus | 2.00% | ~1 |
 | True Victory | 2.00% | ~1 |
 | Untouchable | 2.00% | ~1 |
-| Ball Collector | 0.00% | ~0 |
 | Ice Breaker | 0.00% | ~0 |
 | Monster of Fashion | 0.00% | ~0 |
 | Single Person On Earth | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.35,
   "NumberOfRatings": 101,
@@ -272,7 +272,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -432,6 +432,11 @@
       "Time": "2023-05-05T22:06:56.3607409+00:00",
       "NumProgressed": 308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-06T11:07:35.0575106+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -491,7 +496,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "kill-lieutenants",
@@ -515,7 +520,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "product-profit",
@@ -555,7 +560,7 @@
       "Name": "Spread",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "send-smuggling",
@@ -577,9 +582,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 238
     },
     {
       "ID": "use-submarine",
@@ -594,15 +599,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:51.9635364+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:35.0575101+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:02:11.6530964+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:51.9635525+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:01:52.0277449+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:35.0575278+00:00"
 }

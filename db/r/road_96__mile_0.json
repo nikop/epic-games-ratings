@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.36,
+  "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -108,6 +108,11 @@
       "Time": "2023-05-06T05:06:36.3383238+00:00",
       "NumProgressed": 147,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-06T11:07:12.0213833+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -117,9 +122,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 60,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "completeact2",
@@ -127,7 +132,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 52,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "completeact3",
@@ -135,7 +140,7 @@
       "Name": "On the Road",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "findalltapes",
@@ -159,15 +164,15 @@
       "Name": "Truthseeker",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "scoreminrankrf1",
@@ -199,7 +204,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "scoreminrankrp2",
@@ -223,7 +228,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "scoreminrankrv2",
@@ -238,7 +243,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 2
     }
   ],
@@ -246,8 +251,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:25.7029301+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:12.0213826+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:01.8672992+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:00:34.6325781+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:25.7029424+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:00:30.7261177+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:12.0213953+00:00"
 }

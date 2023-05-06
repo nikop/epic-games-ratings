@@ -213,17 +213,17 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ball_collector",
       "SetID": "jig50d",
       "Name": "Ball Collector",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ball_galore",
@@ -269,9 +269,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "easy_victory",
@@ -365,9 +365,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "scrap_collector",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:46.3435464+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:29.9817665+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:02:01.7399897+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:46.3435701+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:01:42.8900219+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:29.9817903+00:00"
 }

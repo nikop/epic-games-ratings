@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,734 |
-| That's a Grand Army | 8.00% | ~2,430 |
-| That is mine! | 8.00% | ~2,430 |
-| Victorious! | 8.00% | ~2,430 |
-| Brothers in Arms | 6.00% | ~1,823 |
-| That's a Grand Navy | 6.00% | ~1,823 |
-| Seriously?! | 6.00% | ~1,823 |
-| For the Glory | 5.00% | ~1,519 |
-| Cold War | 4.00% | ~1,215 |
-| Defender of the Faith | 3.00% | ~911 |
-| It's all about the money | 3.00% | ~911 |
-| Respected | 3.00% | ~911 |
-| True Catholic | 3.00% | ~911 |
+| Until death do us apart | 9.00% | ~2,738 |
+| That's a Grand Army | 8.00% | ~2,434 |
+| That is mine! | 8.00% | ~2,434 |
+| Victorious! | 8.00% | ~2,434 |
+| Brothers in Arms | 6.00% | ~1,825 |
+| That's a Grand Navy | 6.00% | ~1,825 |
+| Seriously?! | 6.00% | ~1,825 |
+| For the Glory | 5.00% | ~1,521 |
+| Cold War | 4.00% | ~1,217 |
+| Defender of the Faith | 3.00% | ~913 |
+| It's all about the money | 3.00% | ~913 |
+| Respected | 3.00% | ~913 |
+| True Catholic | 3.00% | ~913 |
 | Blockader | 2.00% | ~608 |
 | Combined Arms | 2.00% | ~608 |
 | Double the Love | 2.00% | ~608 |
@@ -35,13 +35,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~304 |
 | A Golden Empire | 1.00% | ~304 |
 | My armies are invincible! | 1.00% | ~304 |
-| All That's Thine Shall Be Mine | 0.90% | ~273 |
-| City of Cities | 0.90% | ~273 |
+| All That's Thine Shall Be Mine | 0.90% | ~274 |
+| City of Cities | 0.90% | ~274 |
 | Isn't this the way to India? | 0.70% | ~213 |
 | Market Control | 0.70% | ~213 |
 | The Five Colonies | 0.70% | ~213 |
-| The Emperors new clothes | 0.60% | ~182 |
-| This navy can take it all | 0.60% | ~182 |
+| The Emperors new clothes | 0.60% | ~183 |
+| This navy can take it all | 0.60% | ~183 |
 | Down Under | 0.50% | ~152 |
 | Electable! | 0.50% | ~152 |
 | Time Bandit | 0.50% | ~152 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,381 (Ranked 81)  
+Progressed: 30,422 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,381 | 0 |
+| 2023-05-06 | 30,422 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,807 (Ranked 26)  

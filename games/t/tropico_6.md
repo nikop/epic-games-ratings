@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,065 |
-| Un-Lonely Island | 50.00% | ~1,341 |
-| The Beginning of a Servantship | 46.00% | ~1,234 |
-| Trade Is My Trait | 38.00% | ~1,019 |
-| Number 18 | 26.00% | ~697 |
-| We Don't Have Time For That | 20.00% | ~536 |
+| Just One...More...Term... | 77.00% | ~2,067 |
+| Un-Lonely Island | 50.00% | ~1,342 |
+| The Beginning of a Servantship | 46.00% | ~1,235 |
+| Trade Is My Trait | 38.00% | ~1,020 |
+| Number 18 | 26.00% | ~698 |
+| We Don't Have Time For That | 20.00% | ~537 |
 | Caribbean Comrade | 18.00% | ~483 |
 | The Legend of Langostino | 18.00% | ~483 |
 | The Governator | 18.00% | ~483 |
@@ -21,9 +21,9 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 11.00% | ~295 |
 | Of Seals And Men | 11.00% | ~295 |
 | Shackadelic | 10.00% | ~268 |
-| Double Trouble | 9.00% | ~241 |
-| Firestarter | 9.00% | ~241 |
-| Make Tropico Great Again! | 9.00% | ~241 |
+| Double Trouble | 9.00% | ~242 |
+| Firestarter | 9.00% | ~242 |
+| Make Tropico Great Again! | 9.00% | ~242 |
 | French Connection | 8.00% | ~215 |
 | Don't Panic! | 7.00% | ~188 |
 | I Owe You Nothing | 7.00% | ~188 |
@@ -34,10 +34,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~134 |
 | Apocalypso | 4.00% | ~107 |
 | The Time For Wonders | 4.00% | ~107 |
-| Been there, Done That | 3.00% | ~80 |
-| Narcissist | 3.00% | ~80 |
-| Promising Endeavors | 3.00% | ~80 |
-| Terraformer | 3.00% | ~80 |
+| Been there, Done That | 3.00% | ~81 |
+| Narcissist | 3.00% | ~81 |
+| Promising Endeavors | 3.00% | ~81 |
+| Terraformer | 3.00% | ~81 |
 | Chain Gang | 2.00% | ~54 |
 | From Knight to Little Duck | 2.00% | ~54 |
 | One Does Not Simply Stage A Coup | 2.00% | ~54 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~27 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,682 (Ranked 132)  
+Progressed: 2,684 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-03 | 2,641 | 1 |
 | 2023-05-04 | 2,654 | 1 |
 | 2023-05-05 | 2,670 | 1 |
-| 2023-05-06 | 2,682 | 1 |
+| 2023-05-06 | 2,684 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 314)  
 Sum: 748 (Ranked 253)  

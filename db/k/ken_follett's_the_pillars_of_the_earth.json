@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 103,
@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12199,
+  "EOS_Progressed": 12200,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1192,6 +1192,11 @@
       "Time": "2023-05-06T10:06:58.0526203+00:00",
       "NumProgressed": 12199,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-06T11:06:47.8949086+00:00",
+      "NumProgressed": 12200,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 41,
@@ -1530,15 +1535,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12199,
+      "Progressed": 12200,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:06:58.0526194+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:06:47.8949078+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:02:00.4183134+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:06:58.0526728+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:01:41.803916+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:06:47.8949507+00:00"
 }

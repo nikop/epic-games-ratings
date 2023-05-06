@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~804 |
-| World Map | 79.00% | ~683 |
-| Temple of Eternals | 54.00% | ~467 |
-| Prestigious | 51.00% | ~441 |
-| Fellowship Power | 39.00% | ~337 |
-| Guild Power | 23.00% | ~199 |
+| Victor | 93.00% | ~807 |
+| World Map | 79.00% | ~686 |
+| Temple of Eternals | 54.00% | ~469 |
+| Prestigious | 51.00% | ~443 |
+| Fellowship Power | 38.00% | ~330 |
+| Guild Power | 23.00% | ~200 |
 | Prestigious x10 | 18.00% | ~156 |
-| Exotic Merchant | 14.00% | ~121 |
-| The game is on | 14.00% | ~121 |
-| Inspection | 13.00% | ~112 |
+| The game is on | 14.00% | ~122 |
+| Exotic Merchant | 13.00% | ~113 |
+| Inspection | 13.00% | ~113 |
 | Dragon Clicker | 12.00% | ~104 |
 | Miner Clicker | 12.00% | ~104 |
 | Hero inspection | 11.00% | ~95 |
@@ -31,17 +31,17 @@
 | Frostfire Liberator | 2.00% | ~17 |
 | Hunter | 2.00% | ~17 |
 | Mastery | 2.00% | ~17 |
-| Moving Up The Ladder | 2.00% | ~17 |
-| Scroll Master | 2.00% | ~17 |
-| The Expeditioner | 2.00% | ~17 |
 | Active Member | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | Here We Go Again | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
 | Missions Dedication | 1.00% | ~9 |
+| Moving Up The Ladder | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
+| Scroll Master | 1.00% | ~9 |
+| The Expeditioner | 1.00% | ~9 |
 | The power of Awakening | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Ancient Knowledge | 0.90% | ~8 |
@@ -80,7 +80,7 @@
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865 (Ranked 165)  
+Progressed: 868 (Ranked 165)  
 Completed: 1 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.12%) (Ranked 146)
 | 2023-05-03 | 816 | 1 |
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
-| 2023-05-06 | 865 | 1 |
+| 2023-05-06 | 868 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

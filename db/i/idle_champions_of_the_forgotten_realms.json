@@ -3492,10 +3492,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29814,
       "NumberOfAwardsMax": 4865
+    },
+    {
+      "Time": "2023-05-06T10:59:41.0625989+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29819,
+      "NumberOfAwardsMax": 4865
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29814,
+  "NumberOfAwards": 29819,
   "NumberOfAwardsMax": 4865,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3503,7 +3509,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4802
+      "Count": 4807
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3542,7 +3548,7 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86609,
+  "EOS_Progressed": 86613,
   "EOS_Completed": 1807,
   "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 22,
@@ -4801,6 +4807,11 @@
     {
       "Time": "2023-05-06T10:07:55.8886177+00:00",
       "NumProgressed": 86609,
+      "NumCompleted": 1807
+    },
+    {
+      "Time": "2023-05-06T11:07:38.9270373+00:00",
+      "NumProgressed": 86613,
       "NumCompleted": 1807
     }
   ],
@@ -6603,9 +6614,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 346
     },
     {
       "ID": "objective_completed_390",
@@ -6963,9 +6974,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_541",
@@ -8724,21 +8735,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52883,
+      "Progressed": 52887,
       "Completed": 2468
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86609,
+      "Progressed": 86613,
       "Completed": 1807
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-06T07:59:36.5335987+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:55.8886168+00:00",
+  "LastChanged": "2023-05-06T10:59:41.0625987+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:38.9270366+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T09:59:37.1134129+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:55.8917985+00:00"
+  "LastUpdate_Ratings": "2023-05-06T10:59:41.0625994+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:38.9297579+00:00"
 }

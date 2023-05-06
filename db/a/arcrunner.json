@@ -431,9 +431,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -480,8 +480,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:40.5994353+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:25.0386798+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:01:38.6212788+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:40.5994592+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:01:24.4827759+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:25.0387042+00:00"
 }

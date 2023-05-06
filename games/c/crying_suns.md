@@ -11,7 +11,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Careful planning | 39.00% | ~178,360 |
 | Second Coming | 33.00% | ~150,920 |
 | Jeef Skagg | 30.00% | ~137,200 |
-| Mother | 25.00% | ~114,333 |
+| Mother | 25.00% | ~114,334 |
 | In space, no one can hear you scream | 23.00% | ~105,187 |
 | Chapter I: Echoes | 22.00% | ~100,613 |
 | Excelsior Rule | 22.00% | ~100,613 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,333 (Ranked 28)  
+Progressed: 457,334 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
 | 2023-05-05 | 457,303 | 14 |
-| 2023-05-06 | 457,333 | 14 |
+| 2023-05-06 | 457,334 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 252)  
 Sum: 209 (Ranked 347)  

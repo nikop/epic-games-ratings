@@ -11,7 +11,7 @@ Number of Ratings: 425  (23.09.2022)
 | Wonderfalls | 87.00% | ~23,798 |
 | Got to Catch a Few | 77.00% | ~21,063 |
 | Double Trapper | 75.00% | ~20,516 |
-| I'm Stuffed | 68.00% | ~18,601 |
+| I'm Stuffed | 69.00% | ~18,874 |
 | Got to Catch a Lot | 66.00% | ~18,054 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~16,686 |
 | Know Thy Neighbor | 59.00% | ~16,139 |

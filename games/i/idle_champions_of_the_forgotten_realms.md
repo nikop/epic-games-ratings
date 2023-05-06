@@ -16,13 +16,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.50% | ~433 |
 | Were-verpowered | 0.40% | ~346 |
 | The Ring of Regeneration | 0.40% | ~346 |
+| Seeking Allies | 0.40% | ~346 |
 | Are Ya Chicken? | 0.40% | ~346 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~260 |
 | Terror in the Dark | 0.30% | ~260 |
 | The Crumbling Temple | 0.30% | ~260 |
-| Seeking Allies | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
 | Friendly Imps | 0.30% | ~260 |
@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~173 |
 | Useless Allies | 0.20% | ~173 |
 | Premature Betrayal | 0.20% | ~173 |
+| A Tale of Two Cities | 0.20% | ~173 |
 | The Dead Three | 0.20% | ~173 |
 | Flying Monkey Skulls of Doom | 0.20% | ~173 |
 | The Darkness Runs Deeper | 0.20% | ~173 |
@@ -292,7 +293,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~87 |
 | Dino Nightmare | 0.10% | ~87 |
 | A Familiar Friend | 0.10% | ~53 |
-| A Tale of Two Cities | 0.10% | ~87 |
 | A Tale of Two Fiends | 0.10% | ~87 |
 | A Tale of Two Champions | 0.10% | ~87 |
 | A Tale of Two Years | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,609 (Ranked 59)  
+Progressed: 86,613 (Ranked 59)  
 Completed: 1,807 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,15 +512,15 @@ Completed: 1,807 (2.09%) (Ranked 55)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,609 | 1,807 |
+| 2023-05-06 | 86,613 | 1,807 |
 ## Awards
 Max (Diverse Characters): 4,865  (Ranked 62)  
-Sum: 29,814 (Ranked 37)  
+Sum: 29,819 (Ranked 37)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,865 |
-| This game is Great for Beginners | 4,802 |
+| This game is Great for Beginners | 4,807 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,478 |
 | This game is Highly Recommended | 3,930 |
@@ -629,4 +629,4 @@ Diff (max vs sum): 25
 | 2023-05-03 | 4.06 | - | 4,863 | 29,789 |
 | 2023-05-04 | 4.06 | - | 4,863 | 29,800 |
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
-| 2023-05-06 | 4.06 | - | 4,865 | 29,814 |
+| 2023-05-06 | 4.06 | - | 4,865 | 29,819 |

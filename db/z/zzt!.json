@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 25,
   "RatingHistory": [
     {
       "Time": "2023-03-31T21:57:04.3858766+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2302,
-  "EOS_Completed": 61,
-  "EOS_NewPlayers": 120,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.65,
+  "EOS_Progressed": 2303,
+  "EOS_Completed": 62,
+  "EOS_NewPlayers": 119,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 2.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -728,6 +728,11 @@
       "Time": "2023-05-06T07:06:36.5094733+00:00",
       "NumProgressed": 2302,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-05-06T11:07:05.922517+00:00",
+      "NumProgressed": 2303,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 5,
@@ -739,7 +744,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "2",
@@ -778,16 +783,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2302,
-      "Completed": 61
+      "Progressed": 2303,
+      "Completed": 62
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:18.6923132+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:05.922516+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.4953287+00:00",
-  "LastUpdate_Ratings": "2023-05-06T09:59:58.5000859+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:18.6923449+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:00:00.2991825+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:05.9225304+00:00"
 }

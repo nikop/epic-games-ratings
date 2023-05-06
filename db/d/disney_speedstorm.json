@@ -9,7 +9,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2338,
+  "EOS_Progressed": 2339,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
@@ -944,6 +944,11 @@
       "Time": "2023-05-06T09:07:30.5893064+00:00",
       "NumProgressed": 2338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T11:07:12.1677799+00:00",
+      "NumProgressed": 2339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -963,7 +968,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "11",
@@ -1043,7 +1048,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "20",
@@ -1051,7 +1056,7 @@
       "Name": "PROTECTED",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "21",
@@ -1075,7 +1080,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "24",
@@ -1107,7 +1112,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "6",
@@ -1146,13 +1151,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2338,
+      "Progressed": 2339,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:25.954622+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:12.1677794+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:00:39.4493627+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:25.9546656+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:00:34.7324691+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:12.1678029+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.76 (Ranked 114)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,797 |
-| No more cages! | 91.00% | ~1,722 |
-| Everfrost | 77.00% | ~1,457 |
-| Dark Forest | 76.00% | ~1,438 |
-| Pentakill | 75.00% | ~1,419 |
-| The use of petricite | 72.00% | ~1,362 |
-| You can pet the dog | 59.00% | ~1,116 |
-| Big Helmet Bro | 33.00% | ~624 |
-| Clarion Cove | 33.00% | ~624 |
+| For Demacia | 95.00% | ~1,798 |
+| No more cages! | 91.00% | ~1,723 |
+| Everfrost | 77.00% | ~1,458 |
+| Dark Forest | 76.00% | ~1,439 |
+| Pentakill | 75.00% | ~1,420 |
+| The use of petricite | 72.00% | ~1,363 |
+| You can pet the dog | 59.00% | ~1,117 |
+| Big Helmet Bro | 33.00% | ~625 |
+| Clarion Cove | 33.00% | ~625 |
 | Past trauma | 31.00% | ~587 |
 | Thornbarrow | 31.00% | ~587 |
 | Ternmoat Headquarters | 31.00% | ~587 |
@@ -25,8 +25,8 @@ Rating: 4.76 (Ranked 114)
 | Whispers in the Woods I | 24.00% | ~454 |
 | Hijack | 24.00% | ~454 |
 | Ancient power | 22.00% | ~416 |
-| I chose my shackles | 21.00% | ~397 |
-| Sacred Woods | 20.00% | ~378 |
+| I chose my shackles | 21.00% | ~398 |
+| Sacred Woods | 20.00% | ~379 |
 | Little light | 18.00% | ~341 |
 | Capelworth | 18.00% | ~341 |
 | Glyndemere | 17.00% | ~322 |
@@ -51,15 +51,15 @@ Rating: 4.76 (Ranked 114)
 | The Great City of Demacia | 8.00% | ~151 |
 | Back to sleep, then... | 8.00% | ~151 |
 | Call it 'redistribution of magic | 8.00% | ~151 |
-| Do you trust me? | 7.00% | ~132 |
-| Truth is a dark mirror | 7.00% | ~132 |
-| You can pet the... horse | 7.00% | ~132 |
+| Do you trust me? | 7.00% | ~133 |
+| Truth is a dark mirror | 7.00% | ~133 |
+| You can pet the... horse | 7.00% | ~133 |
 | The great mage rebellion starts now | 6.00% | ~114 |
 | Spellcrafting | 6.00% | ~114 |
 | Silverwing nest | 1.00% | ~19 |
 | The Unshackled | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,892 (Ranked 142)  
+Progressed: 1,893 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 1 (0.05%) (Ranked 164)
 | 2023-05-03 | 1,856 | 1 |
 | 2023-05-04 | 1,873 | 1 |
 | 2023-05-05 | 1,884 | 1 |
-| 2023-05-06 | 1,892 | 1 |
+| 2023-05-06 | 1,893 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

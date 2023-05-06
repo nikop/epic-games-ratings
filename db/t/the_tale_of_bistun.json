@@ -239,17 +239,17 @@
       "ID": "BISTUN_ACHIEVEMENT_30",
       "SetID": "1kdk24p",
       "Name": "Read, Read, Read",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_31",
       "SetID": "1kdk24p",
       "Name": "Ledge-walker",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_32",
@@ -263,9 +263,9 @@
       "ID": "BISTUN_ACHIEVEMENT_33",
       "SetID": "1kdk24p",
       "Name": "Talent And Dedication",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_34",
@@ -360,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-06T10:07:44.4339358+00:00",
+  "LastChanged_Achievements": "2023-05-06T11:07:28.3262806+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:58.9266832+00:00",
-  "LastUpdate_Ratings": "2023-05-06T10:01:54.4192605+00:00",
-  "LastUpdate_Achievements": "2023-05-06T10:07:44.4339678+00:00"
+  "LastUpdate_Ratings": "2023-05-06T11:01:37.0099963+00:00",
+  "LastUpdate_Achievements": "2023-05-06T11:07:28.3263116+00:00"
 }
