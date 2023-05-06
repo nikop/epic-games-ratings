@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.58,
   "NumberOfRatings": 371,
   "RatingHistory": [
@@ -490,7 +490,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2576,
+  "EOS_Progressed": 2577,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -660,6 +660,11 @@
       "Time": "2023-05-05T16:07:48.8012711+00:00",
       "NumProgressed": 2576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T09:07:31.891685+00:00",
+      "NumProgressed": 2577,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -821,9 +826,9 @@
       "ID": "KadexCaptured",
       "SetID": "3jha1np",
       "Name": "Daemonkeeper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 103
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -879,7 +884,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Kills_Interactable",
@@ -1142,21 +1147,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2576,
+      "Progressed": 2577,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2576,
+      "Progressed": 2577,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:07:33.1517795+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:31.8916842+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:00:27.0458441+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:07:33.1518355+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:00:30.6491798+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:31.8917417+00:00"
 }

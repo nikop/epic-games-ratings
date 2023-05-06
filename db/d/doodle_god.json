@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:36.1213417+00:00",
@@ -113,17 +113,17 @@
       "ID": "605802",
       "SetID": "4lpaifm",
       "Name": "Creator of Magic",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "605812",
       "SetID": "4lpaifm",
       "Name": "God of Fun",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "605822",
@@ -153,9 +153,9 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "605862",
@@ -242,8 +242,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:07:44.0970498+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:41.3939704+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.8285201+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:01:26.7555474+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:07:44.0970647+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:01:20.327+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:41.3939858+00:00"
 }

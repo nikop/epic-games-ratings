@@ -3542,9 +3542,9 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86600,
+  "EOS_Progressed": 86606,
   "EOS_Completed": 1807,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4792,6 +4792,11 @@
       "Time": "2023-05-06T08:08:01.3342096+00:00",
       "NumProgressed": 86600,
       "NumCompleted": 1807
+    },
+    {
+      "Time": "2023-05-06T09:07:56.9770056+00:00",
+      "NumProgressed": 86606,
+      "NumCompleted": 1807
     }
   ],
   "TotalAchievements": 489,
@@ -5675,7 +5680,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "objective_completed_1204",
@@ -6665,9 +6670,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 346
     },
     {
       "ID": "objective_completed_40",
@@ -6945,9 +6950,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_completed_540",
@@ -7953,9 +7958,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_71",
@@ -8714,21 +8719,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52874,
+      "Progressed": 52880,
       "Completed": 2467
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86600,
+      "Progressed": 86606,
       "Completed": 1807
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-06T07:59:36.5335987+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:08:01.334209+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:56.9770044+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:59:36.5335997+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:08:01.3370263+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:59:52.5845931+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:56.9796033+00:00"
 }

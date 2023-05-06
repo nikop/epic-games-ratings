@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-04-22T05:57:51.3460148+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -808,6 +808,11 @@
       "Time": "2023-05-06T07:06:23.0468258+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T09:07:08.8807105+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -817,9 +822,9 @@
       "ID": "1",
       "SetID": "1dkhij4",
       "Name": "First Step",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 481
+      "UsersEstimate": 472
     },
     {
       "ID": "10",
@@ -875,7 +880,7 @@
       "Name": "Dense Forest",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "3",
@@ -938,7 +943,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1025,
       "Completed": 0
     }
   ],
@@ -946,8 +951,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:07:06.8454161+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:08.8807098+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:21.092462+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:59:37.3272874+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:07:06.8454455+00:00"
+  "LastUpdate_Ratings": "2023-05-06T08:59:53.3864084+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:08.8807277+00:00"
 }

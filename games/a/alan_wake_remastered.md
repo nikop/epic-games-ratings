@@ -7,10 +7,10 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,744 |
-| Let There Be Light | 16.00% | ~7,363 |
+| Let There Be Light | 16.00% | ~7,364 |
 | Float Like a Butterfly | 15.00% | ~6,903 |
-| Nordic Walking | 12.00% | ~5,522 |
-| Bright Falls' Finest | 12.00% | ~5,522 |
+| Nordic Walking | 12.00% | ~5,523 |
+| Bright Falls' Finest | 12.00% | ~5,523 |
 | Under a Thin Layer of Skin | 11.00% | ~5,062 |
 | Park Ranger | 9.00% | ~4,142 |
 | Back! Back, I Say! | 9.00% | ~4,142 |
@@ -21,13 +21,13 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,682 |
 | Damn Good Cup of Coffee | 8.00% | ~3,682 |
 | A Friend in Need | 8.00% | ~759 |
-| Heavy Metal | 7.00% | ~3,221 |
-| Iron Horse | 7.00% | ~3,221 |
-| Perchance to Dream | 7.00% | ~3,221 |
-| The Six-Gun Scribe | 7.00% | ~3,221 |
-| Collateral Carnage | 7.00% | ~3,221 |
-| Come One, Come All | 7.00% | ~3,221 |
-| Missed by a Mile | 7.00% | ~3,221 |
+| Heavy Metal | 7.00% | ~3,222 |
+| Iron Horse | 7.00% | ~3,222 |
+| Perchance to Dream | 7.00% | ~3,222 |
+| The Six-Gun Scribe | 7.00% | ~3,222 |
+| Collateral Carnage | 7.00% | ~3,222 |
+| Come One, Come All | 7.00% | ~3,222 |
+| Missed by a Mile | 7.00% | ~3,222 |
 | Gatekeeper | 6.00% | ~2,761 |
 | The Lady of the Light | 6.00% | ~2,761 |
 | It's Not Just a Typewriter Brand | 6.00% | ~2,761 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,020 (Ranked 74)  
+Progressed: 46,022 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 44 (0.10%) (Ranked 150)
 | 2023-05-03 | 45,986 | 44 |
 | 2023-05-04 | 45,993 | 44 |
 | 2023-05-05 | 46,013 | 44 |
-| 2023-05-06 | 46,020 | 44 |
+| 2023-05-06 | 46,022 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

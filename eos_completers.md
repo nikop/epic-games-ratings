@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.29% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.26% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -53,7 +53,7 @@
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -96,8 +96,8 @@
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
-| 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
-| 98 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
+| 97 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
@@ -378,4 +378,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,559 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,560 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

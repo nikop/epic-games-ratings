@@ -435,7 +435,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69782,
+  "EOS_Progressed": 69787,
   "EOS_Completed": 325,
   "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 1,
@@ -1665,6 +1665,11 @@
       "Time": "2023-05-06T08:08:00.4068+00:00",
       "NumProgressed": 69782,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-05-06T09:07:55.5404505+00:00",
+      "NumProgressed": 69787,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 10,
@@ -1708,7 +1713,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "DrawingsAll",
@@ -1732,7 +1737,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6978
+      "UsersEstimate": 6979
     },
     {
       "ID": "Level00BowlingStrike",
@@ -1740,7 +1745,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25122
+      "UsersEstimate": 25123
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -1748,22 +1753,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7676
+      "UsersEstimate": 7677
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 69782,
+      "Progressed": 69787,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:08:00.4067994+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:55.5404497+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:29.242445+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:02:40.2046138+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:08:00.4068208+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:02:20.9576615+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:55.5404674+00:00"
 }

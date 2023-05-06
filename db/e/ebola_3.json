@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:00:42.6973794+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -523,6 +523,11 @@
       "Time": "2023-05-06T08:08:03.9914023+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T09:07:58.7337718+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -596,9 +601,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 66
     },
     {
       "ID": "achCity",
@@ -732,7 +737,7 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 69
     },
@@ -804,7 +809,7 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -933,7 +938,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
@@ -941,8 +946,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:08:03.9914015+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:58.7337711+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:02:26.7746719+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:08:03.9914512+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:02:09.777912+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:58.733834+00:00"
 }

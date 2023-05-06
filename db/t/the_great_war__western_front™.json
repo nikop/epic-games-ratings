@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:31.1456661+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -303,6 +303,11 @@
       "Time": "2023-05-05T21:07:11.9890654+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T09:07:25.8394918+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -376,7 +381,7 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 90,
       "UsersEstimate": 47
     },
@@ -409,7 +414,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
@@ -417,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:07:26.2008017+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:25.8394905+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.2155635+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:00:10.8771649+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:07:26.2008137+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:00:18.8737706+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:25.8395033+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,728 |
-| That's a Grand Army | 8.00% | ~2,425 |
-| That is mine! | 8.00% | ~2,425 |
-| Victorious! | 8.00% | ~2,425 |
-| Brothers in Arms | 6.00% | ~1,819 |
-| That's a Grand Navy | 6.00% | ~1,819 |
-| Seriously?! | 6.00% | ~1,819 |
-| For the Glory | 5.00% | ~1,516 |
-| Cold War | 4.00% | ~1,212 |
-| Defender of the Faith | 3.00% | ~909 |
-| It's all about the money | 3.00% | ~909 |
-| Respected | 3.00% | ~909 |
-| True Catholic | 3.00% | ~909 |
-| Blockader | 2.00% | ~606 |
-| Combined Arms | 2.00% | ~606 |
-| Double the Love | 2.00% | ~606 |
-| Gentle Persuasion | 2.00% | ~606 |
-| It's all about luck | 2.00% | ~606 |
-| Queen of Conquest | 2.00% | ~606 |
-| Royal Authority | 2.00% | ~606 |
-| The Princess is in this Castle | 2.00% | ~606 |
-| Total Control | 2.00% | ~606 |
-| Truly Divine Ruler | 2.00% | ~606 |
+| Until death do us apart | 9.00% | ~2,731 |
+| That's a Grand Army | 8.00% | ~2,428 |
+| That is mine! | 8.00% | ~2,428 |
+| Victorious! | 8.00% | ~2,428 |
+| Brothers in Arms | 6.00% | ~1,821 |
+| That's a Grand Navy | 6.00% | ~1,821 |
+| Seriously?! | 6.00% | ~1,821 |
+| For the Glory | 5.00% | ~1,517 |
+| Cold War | 4.00% | ~1,214 |
+| Defender of the Faith | 3.00% | ~910 |
+| It's all about the money | 3.00% | ~910 |
+| Respected | 3.00% | ~910 |
+| True Catholic | 3.00% | ~910 |
+| Blockader | 2.00% | ~607 |
+| Combined Arms | 2.00% | ~607 |
+| Double the Love | 2.00% | ~607 |
+| Gentle Persuasion | 2.00% | ~607 |
+| It's all about luck | 2.00% | ~607 |
+| Queen of Conquest | 2.00% | ~607 |
+| Royal Authority | 2.00% | ~607 |
+| The Princess is in this Castle | 2.00% | ~607 |
+| Total Control | 2.00% | ~607 |
+| Truly Divine Ruler | 2.00% | ~607 |
 | Agressive Expander | 1.00% | ~303 |
 | Azur semé de lis or | 1.00% | ~303 |
 | Bright Spark | 1.00% | ~303 |
@@ -51,7 +51,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.40% | ~121 |
 | The pen is mightier than the sword | 0.40% | ~121 |
 | Trophy Hunter | 0.40% | ~121 |
+| Voting Streak | 0.40% | ~121 |
 | Absolutely | 0.30% | ~91 |
+| All Your Trade Are Belong to Us | 0.30% | ~91 |
 | Dude, Where's my Boat? | 0.30% | ~91 |
 | In the Name of the Father | 0.30% | ~91 |
 | Live Long and Prosper | 0.30% | ~91 |
@@ -62,10 +64,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.30% | ~91 |
 | The Continuation of Diplomacy | 0.30% | ~91 |
 | This is My Faith | 0.30% | ~91 |
-| Voting Streak | 0.30% | ~91 |
 | A Decent Reserve | 0.20% | ~61 |
 | A Pile of Gold | 0.20% | ~61 |
-| All Your Trade Are Belong to Us | 0.20% | ~61 |
 | Bleed Them Dry | 0.20% | ~61 |
 | Four For Trade | 0.20% | ~61 |
 | Global Hegemony | 0.20% | ~61 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,311 (Ranked 81)  
+Progressed: 30,345 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 30,311 | 0 |
+| 2023-05-06 | 30,345 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,799 (Ranked 26)  

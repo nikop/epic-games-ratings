@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-05-02T17:00:06.0264313+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -183,6 +183,11 @@
       "Time": "2023-05-06T02:31:24.4369319+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T09:07:48.7718707+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -192,7 +197,7 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -200,7 +205,7 @@
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -208,7 +213,7 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -240,7 +245,7 @@
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -248,7 +253,7 @@
       "ID": "collector",
       "SetID": "jig50d",
       "Name": "Collector",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -256,7 +261,7 @@
       "ID": "detoxed",
       "SetID": "jig50d",
       "Name": "Detoxed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -264,7 +269,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -280,9 +285,9 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -304,7 +309,7 @@
       "ID": "legendary_destructor",
       "SetID": "jig50d",
       "Name": "Legendary Destructor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -312,7 +317,7 @@
       "ID": "machine_man",
       "SetID": "jig50d",
       "Name": "Machine Man",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -328,7 +333,7 @@
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -344,7 +349,7 @@
       "ID": "mushroom_man",
       "SetID": "jig50d",
       "Name": "Mushroom Man",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -352,7 +357,7 @@
       "ID": "nomad",
       "SetID": "jig50d",
       "Name": "Nomad",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -360,7 +365,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -368,7 +373,7 @@
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -384,7 +389,7 @@
       "ID": "ticking_clock",
       "SetID": "jig50d",
       "Name": "Ticking Clock",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -392,7 +397,7 @@
       "ID": "total_walrus",
       "SetID": "jig50d",
       "Name": "Total Walrus",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -400,7 +405,7 @@
       "ID": "true_victory",
       "SetID": "jig50d",
       "Name": "True Victory",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -416,7 +421,7 @@
       "ID": "untouchable",
       "SetID": "jig50d",
       "Name": "Untouchable",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -424,9 +429,9 @@
       "ID": "weapons",
       "SetID": "jig50d",
       "Name": "You Are Actually Supposed To Use Those",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "what_are_you",
@@ -441,7 +446,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
@@ -449,8 +454,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:07:52.4873336+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:48.7718695+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-06T08:02:05.7095372+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:07:52.4873607+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:01:51.5691658+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:48.7718927+00:00"
 }

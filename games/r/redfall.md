@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 85.00% | ~1,098 |
+| I Like My Stakes Rare! | 85.00% | ~1,099 |
 | Home Is Where the Heart Is | 65.00% | ~840 |
 | Ne Plus Ultra | 65.00% | ~840 |
-| Wounded Whispers | 64.00% | ~827 |
+| Wounded Whispers | 64.00% | ~828 |
 | Blood Will Have Blood | 51.00% | ~659 |
-| ICU | 47.00% | ~607 |
-| Catch and Release | 45.00% | ~581 |
-| Peek-a-boo | 44.00% | ~568 |
-| Sucks To Be You | 44.00% | ~568 |
+| ICU | 47.00% | ~608 |
+| Catch and Release | 45.00% | ~582 |
+| Peek-a-boo | 44.00% | ~569 |
+| Sucks To Be You | 44.00% | ~569 |
 | Welcome to the Neighborhood | 37.00% | ~478 |
-| Fly Fisher | 34.00% | ~439 |
-| Throw The First Stone | 33.00% | ~426 |
+| Fly Fisher | 34.00% | ~440 |
+| Throw The First Stone | 33.00% | ~427 |
 | Enter of Your Own Free Will | 30.00% | ~388 |
 | Heart Attack | 30.00% | ~388 |
 | Skin of Their Teeth | 30.00% | ~388 |
-| Bad Wiring | 21.00% | ~271 |
-| Grounded | 21.00% | ~271 |
-| I Spit On Your Grave | 19.00% | ~245 |
+| Bad Wiring | 21.00% | ~272 |
+| Grounded | 21.00% | ~272 |
+| I Spit On Your Grave | 19.00% | ~246 |
 | Neighborhood Revitalization | 13.00% | ~168 |
 | Radio Silence | 13.00% | ~168 |
 | You Clean It Up | 10.00% | ~129 |
 | Helping Hand | 10.00% | ~129 |
 | Starve the Beast | 8.00% | ~103 |
-| Block Party | 7.00% | ~90 |
+| Block Party | 7.00% | ~91 |
 | From the Shadows | 3.00% | ~39 |
 | Right This Way | 3.00% | ~39 |
 | Nice Try | 3.00% | ~39 |
@@ -71,7 +71,7 @@
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,292 (Ranked 152)  
+Progressed: 1,293 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 1,021 | 0 |
 | 2023-05-04 | 1,164 | 0 |
 | 2023-05-05 | 1,266 | 0 |
-| 2023-05-06 | 1,292 | 0 |
+| 2023-05-06 | 1,293 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

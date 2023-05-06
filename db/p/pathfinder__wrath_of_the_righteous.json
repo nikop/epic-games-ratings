@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.76,
   "NumberOfRatings": 1354,
   "RatingHistory": [
@@ -2246,7 +2246,7 @@
   ],
   "EOS_Progressed": 8654,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3157,9 +3157,9 @@
       "ID": "35_AbyssalConspiracy",
       "SetID": "989of5o",
       "Name": "Abyssal Conspiracy",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -3835,8 +3835,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-06T01:51:01.4157435+00:00",
-  "LastChanged_Achievements": "2023-05-06T08:07:32.6194532+00:00",
+  "LastChanged_Achievements": "2023-05-06T09:07:31.6567403+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-06T07:59:57.2738645+00:00",
-  "LastUpdate_Achievements": "2023-05-06T08:07:32.6196575+00:00"
+  "LastUpdate_Ratings": "2023-05-06T09:00:08.5440216+00:00",
+  "LastUpdate_Achievements": "2023-05-06T09:07:31.6569148+00:00"
 }

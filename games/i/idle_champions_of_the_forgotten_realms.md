@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,057 |
+| Checkmate | 2.00% | ~1,058 |
 | A Brief Tour of the Realms | 1.00% | ~866 |
 | Vecna Out! | 1.00% | ~529 |
 | Pin and Skewer | 0.80% | ~423 |
@@ -16,14 +16,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.50% | ~433 |
 | Were-verpowered | 0.40% | ~346 |
 | The Ring of Regeneration | 0.40% | ~346 |
+| Are Ya Chicken? | 0.40% | ~346 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~260 |
 | Terror in the Dark | 0.30% | ~260 |
 | The Crumbling Temple | 0.30% | ~260 |
 | Seeking Allies | 0.30% | ~260 |
-| Are Ya Chicken? | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
+| Exploring Port Nyanzaru | 0.30% | ~260 |
 | Friendly Imps | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~173 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~173 |
 | Useless Allies | 0.20% | ~173 |
 | Premature Betrayal | 0.20% | ~173 |
-| Exploring Port Nyanzaru | 0.20% | ~173 |
 | The Dead Three | 0.20% | ~173 |
 | Flying Monkey Skulls of Doom | 0.20% | ~173 |
 | The Darkness Runs Deeper | 0.20% | ~173 |
@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~173 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
 | Escort to Waterdeep | 0.20% | ~173 |
+| Close Escort | 0.20% | ~173 |
 | Constant Banditry | 0.20% | ~173 |
 | Waterdeep Detours | 0.20% | ~173 |
 | Underdeep Cartography | 0.20% | ~173 |
@@ -408,7 +409,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
-| Close Escort | 0.10% | ~87 |
 | The Long Haul | 0.10% | ~87 |
 | Lost in the Deep | 0.10% | ~87 |
 | Easily Distracted | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,600 (Ranked 59)  
+Progressed: 86,606 (Ranked 59)  
 Completed: 1,807 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,807 (2.09%) (Ranked 55)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,600 | 1,807 |
+| 2023-05-06 | 86,606 | 1,807 |
 ## Awards
 Max (Diverse Characters): 4,865  (Ranked 62)  
 Sum: 29,814 (Ranked 37)  

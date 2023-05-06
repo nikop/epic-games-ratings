@@ -6,9 +6,9 @@ Rating: 4.48 (Ranked 564)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | One VERY small step | 4.00% | ~729 |
-| Getting some shuteye | 3.00% | ~546 |
-| Insect hunter | 3.00% | ~546 |
-| Stone Age | 3.00% | ~546 |
+| Getting some shuteye | 3.00% | ~547 |
+| Insect hunter | 3.00% | ~547 |
+| Stone Age | 3.00% | ~547 |
 | Safe! | 2.00% | ~364 |
 | Vertebrate hunter | 2.00% | ~364 |
 | Forming bonds | 1.00% | ~182 |
@@ -19,7 +19,7 @@ Rating: 4.48 (Ranked 564)
 | Something Wicked | 0.30% | ~55 |
 | The Key | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,214 (Ranked 94)  
+Progressed: 18,218 (Ranked 94)  
 Completed: 18 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,7 +35,7 @@ Completed: 18 (0.10%) (Ranked 150)
 | 2023-05-03 | 18,085 | 18 |
 | 2023-05-04 | 18,144 | 18 |
 | 2023-05-05 | 18,199 | 18 |
-| 2023-05-06 | 18,214 | 18 |
+| 2023-05-06 | 18,218 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

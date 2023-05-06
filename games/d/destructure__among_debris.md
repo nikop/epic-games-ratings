@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 73.00% | ~29 |
-| Graduation | 70.00% | ~28 |
-| You Have Been Deaded | 57.00% | ~23 |
-| Apprentice Destructor | 23.00% | ~9 |
-| You Are Actually Supposed To Use Those | 13.00% | ~5 |
+| Graduation | 71.00% | ~29 |
+| Rookie | 71.00% | ~29 |
+| You Have Been Deaded | 56.00% | ~23 |
+| Apprentice Destructor | 22.00% | ~9 |
+| You Are Actually Supposed To Use Those | 15.00% | ~6 |
 | I Prefer Jazz Fusion | 10.00% | ~4 |
-| Avaricerite | 8.00% | ~3 |
+| Avaricerite | 7.00% | ~3 |
 | Ball Galore | 5.00% | ~2 |
 | Ball Protector | 5.00% | ~2 |
 | Easy Victory | 5.00% | ~2 |
 | Master Destructor | 5.00% | ~2 |
-| Back From The Dead | 3.00% | ~1 |
-| Bullet Hell | 3.00% | ~1 |
-| Collector | 3.00% | ~1 |
-| Detoxed | 3.00% | ~1 |
-| Legendary Destructor | 3.00% | ~1 |
-| Machine Man | 3.00% | ~1 |
-| Medium Rare | 3.00% | ~1 |
-| Mushroom Man | 3.00% | ~1 |
-| Nomad | 3.00% | ~1 |
-| Scrap Collector | 3.00% | ~1 |
-| Ticking Clock | 3.00% | ~1 |
-| Total Walrus | 3.00% | ~1 |
-| True Victory | 3.00% | ~1 |
-| Untouchable | 3.00% | ~1 |
+| Back From The Dead | 2.00% | ~1 |
+| Bullet Hell | 2.00% | ~1 |
+| Collector | 2.00% | ~1 |
+| Detoxed | 2.00% | ~1 |
+| Legendary Destructor | 2.00% | ~1 |
+| Machine Man | 2.00% | ~1 |
+| Medium Rare | 2.00% | ~1 |
+| Mushroom Man | 2.00% | ~1 |
+| Nomad | 2.00% | ~1 |
+| Scrap Collector | 2.00% | ~1 |
+| Ticking Clock | 2.00% | ~1 |
+| Total Walrus | 2.00% | ~1 |
+| True Victory | 2.00% | ~1 |
+| Untouchable | 2.00% | ~1 |
 | Ball Collector | 0.00% | ~0 |
 | Ice Breaker | 0.00% | ~0 |
 | Monster of Fashion | 0.00% | ~0 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 0.00% | ~0 |
 | What Even Are You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 277)  
+Progressed: 41 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-03 | 28 | 0 |
 | 2023-05-04 | 36 | 0 |
 | 2023-05-05 | 39 | 0 |
-| 2023-05-06 | 40 | 0 |
+| 2023-05-06 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
