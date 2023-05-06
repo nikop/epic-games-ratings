@@ -36,6 +36,7 @@
 | Sheriff ✔ | 3.00% | ~4 |
 | Rank A ✔ | 3.00% | ~4 |
 | Secret ✔ | 2.00% | ~3 |
+| Boss 2 ✔ | 2.00% | ~3 |
 | Group Alpha ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
 | Priest ✔ | 2.00% | ~3 |
@@ -44,7 +45,6 @@
 | Car ✔ | 1.00% | ~1 |
 | Seeker One ✔ | 1.00% | ~1 |
 | Crocodile Escape ✔ | 1.00% | ~1 |
-| Boss 2 ✔ | 1.00% | ~1 |
 | Hardcore ✔ | 1.00% | ~1 |
 | Osipov's video message ✔ | 1.00% | ~1 |
 | Rank B+ ✔ | 1.00% | ~1 |

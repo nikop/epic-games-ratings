@@ -4,8 +4,8 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-04-28T10:59:29.2849973+00:00",
@@ -136,17 +136,17 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_level3",
@@ -201,8 +201,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-06T21:06:55.745667+00:00",
+  "LastChanged_Achievements": "2023-05-06T22:07:03.2752041+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:00:46.9214132+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:06:55.7456844+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:00:52.1247999+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:07:03.2752193+00:00"
 }

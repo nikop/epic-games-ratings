@@ -8,12 +8,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,059 |
 | A Brief Tour of the Realms | 1.00% | ~867 |
-| Vecna Out! | 1.00% | ~529 |
+| Vecna Out! | 1.00% | ~530 |
 | Pin and Skewer | 0.90% | ~477 |
 | Bully for Vecna | 0.70% | ~371 |
 | The Cursed Farmer | 0.70% | ~607 |
+| Beast Intentions | 0.60% | ~520 |
 | The Mad Wizard | 0.60% | ~520 |
-| Beast Intentions | 0.50% | ~433 |
 | The Ring of Regeneration | 0.50% | ~433 |
 | Were-verpowered | 0.40% | ~347 |
 | Seeking Allies | 0.40% | ~347 |
@@ -71,6 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~173 |
 | Constant Banditry | 0.20% | ~173 |
 | Waterdeep Detours | 0.20% | ~173 |
+| Rude Welcome | 0.20% | ~173 |
 | Underdeep Cartography | 0.20% | ~173 |
 | Overdue Rendezvous | 0.20% | ~173 |
 | The Templar's Camp | 0.20% | ~173 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.10% | ~87 |
 | Lost in the Deep | 0.10% | ~87 |
 | Easily Distracted | 0.10% | ~87 |
-| Rude Welcome | 0.10% | ~87 |
 | Moose Tracks | 0.10% | ~53 |
 | An Awakened Axe | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,674 (Ranked 59)  
+Progressed: 86,677 (Ranked 59)  
 Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,809 (2.09%) (Ranked 56)
 | 2023-05-03 | 86,391 | 1,800 |
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
-| 2023-05-06 | 86,674 | 1,809 |
+| 2023-05-06 | 86,677 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

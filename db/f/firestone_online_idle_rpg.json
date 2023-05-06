@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 3.4,
   "RatingHistory": [
     {
@@ -1335,9 +1335,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 105
     },
     {
       "ID": "howdoyouturnthison",
@@ -1615,9 +1615,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "transmute",
@@ -1679,9 +1679,9 @@
       "ID": "worldmap",
       "SetID": "3nl4bcg",
       "Name": "World Map",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 703
     }
   ],
   "AchievementSets": [
@@ -1696,8 +1696,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-06T21:07:03.0071417+00:00",
+  "LastChanged_Achievements": "2023-05-06T22:07:10.7380498+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:59:32.1998613+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:07:03.0072442+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:59:40.7282635+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:07:10.7381426+00:00"
 }

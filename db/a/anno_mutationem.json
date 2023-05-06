@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.55,
   "RatingHistory": [
     {
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -114,6 +114,11 @@
     {
       "Time": "2023-05-02T01:58:47.013163+00:00",
       "NumProgressed": 597,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T22:06:57.9665541+00:00",
+      "NumProgressed": 598,
       "NumCompleted": 0
     }
   ],
@@ -166,7 +171,7 @@
       "Name": "Club Star",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Combine",
@@ -182,7 +187,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Fire in the hole!",
@@ -190,7 +195,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -222,7 +227,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "In the smacker...I think",
@@ -254,7 +259,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SERENITY_NOW",
@@ -326,7 +331,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "The_Warlord",
@@ -334,7 +339,7 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -382,7 +387,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "manhole",
@@ -390,7 +395,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "posters",
@@ -413,7 +418,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 0
     }
   ],
@@ -421,8 +426,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-06T21:06:50.4504685+00:00",
+  "LastChanged_Achievements": "2023-05-06T22:06:57.9665535+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.2173842+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:59:09.9903721+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:06:50.4505154+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:59:18.6951219+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:06:57.9686975+00:00"
 }

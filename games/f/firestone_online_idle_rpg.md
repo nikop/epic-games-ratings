@@ -6,7 +6,7 @@ Rating: 3.40 (Ranked 916)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~817 |
-| World Map | 79.00% | ~694 |
+| World Map | 80.00% | ~703 |
 | Temple of Eternals | 55.00% | ~483 |
 | Prestigious | 51.00% | ~448 |
 | Fellowship Power | 38.00% | ~334 |
@@ -16,8 +16,8 @@ Rating: 3.40 (Ranked 916)
 | Exotic Merchant | 13.00% | ~114 |
 | Inspection | 13.00% | ~114 |
 | Dragon Clicker | 12.00% | ~105 |
+| Hero inspection | 12.00% | ~105 |
 | Miner Clicker | 12.00% | ~105 |
-| Hero inspection | 11.00% | ~97 |
 | Full Party | 9.00% | ~79 |
 | Enlightenment | 7.00% | ~62 |
 | Dragon Master | 6.00% | ~53 |
@@ -60,6 +60,7 @@ Rating: 3.40 (Ranked 916)
 | The Alchemist | 0.50% | ~4 |
 | Tree of Life | 0.50% | ~4 |
 | Ebony Jungle Liberator | 0.30% | ~3 |
+| Training makes a Pro player | 0.30% | ~3 |
 | Transmute | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
@@ -68,7 +69,6 @@ Rating: 3.40 (Ranked 916)
 | Guardian Master | 0.20% | ~2 |
 | Lock And Load | 0.20% | ~2 |
 | Mythic Power | 0.20% | ~2 |
-| Training makes a Pro player | 0.20% | ~2 |
 | Ultimate War Machines | 0.20% | ~2 |
 | Weekly Quest Completionist | 0.20% | ~2 |
 | Angel Power | 0.10% | ~1 |

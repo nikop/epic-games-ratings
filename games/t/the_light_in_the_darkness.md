@@ -7,7 +7,7 @@
 | Jacques a Dit | 37.00% | ~427 |
 | Little Helper | 32.00% | ~369 |
 | Nazis in Paris | 25.00% | ~288 |
-| Building the Fox | 20.00% | ~231 |
+| Building the Fox | 21.00% | ~242 |
 | Green Ticket Roundup | 18.00% | ~208 |
 | Arranging Boxes | 14.00% | ~161 |
 | Jakob | 13.00% | ~150 |

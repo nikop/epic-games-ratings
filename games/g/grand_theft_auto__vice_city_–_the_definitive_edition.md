@@ -9,8 +9,8 @@ Rating: 4.66 (Ranked 271)
 | Greasy Palms | 39.00% | ~2,365 |
 | South American Connection | 23.00% | ~1,394 |
 | Life of the Party | 17.00% | ~1,031 |
+| Big Heat from Little Havana | 13.00% | ~788 |
 | Tommy Two-Wheels | 13.00% | ~788 |
-| Big Heat from Little Havana | 12.00% | ~728 |
 | Chauffeur | 12.00% | ~728 |
 | Iron-y | 9.00% | ~546 |
 | Salutations My Little Friend | 9.00% | ~546 |

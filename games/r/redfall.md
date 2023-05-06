@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 86.00% | ~1,152 |
-| Home Is Where the Heart Is | 66.00% | ~884 |
-| Ne Plus Ultra | 66.00% | ~884 |
-| Wounded Whispers | 65.00% | ~870 |
-| Blood Will Have Blood | 52.00% | ~696 |
-| ICU | 49.00% | ~656 |
-| Catch and Release | 47.00% | ~629 |
-| Peek-a-boo | 46.00% | ~616 |
-| Sucks To Be You | 46.00% | ~616 |
-| Welcome to the Neighborhood | 39.00% | ~522 |
-| Fly Fisher | 35.00% | ~469 |
-| Throw The First Stone | 35.00% | ~469 |
-| Enter of Your Own Free Will | 32.00% | ~428 |
-| Skin of Their Teeth | 32.00% | ~428 |
-| Heart Attack | 31.00% | ~415 |
-| Grounded | 22.00% | ~295 |
-| Bad Wiring | 21.00% | ~281 |
+| I Like My Stakes Rare! | 86.00% | ~1,154 |
+| Home Is Where the Heart Is | 66.00% | ~886 |
+| Ne Plus Ultra | 66.00% | ~886 |
+| Wounded Whispers | 66.00% | ~886 |
+| Blood Will Have Blood | 52.00% | ~698 |
+| ICU | 49.00% | ~658 |
+| Catch and Release | 47.00% | ~631 |
+| Peek-a-boo | 46.00% | ~617 |
+| Sucks To Be You | 46.00% | ~617 |
+| Welcome to the Neighborhood | 39.00% | ~523 |
+| Fly Fisher | 35.00% | ~470 |
+| Throw The First Stone | 35.00% | ~470 |
+| Enter of Your Own Free Will | 32.00% | ~429 |
+| Skin of Their Teeth | 32.00% | ~429 |
+| Heart Attack | 31.00% | ~416 |
+| Grounded | 23.00% | ~309 |
+| Bad Wiring | 22.00% | ~295 |
 | I Spit On Your Grave | 20.00% | ~268 |
-| Neighborhood Revitalization | 14.00% | ~187 |
-| Radio Silence | 14.00% | ~187 |
-| You Clean It Up | 11.00% | ~147 |
-| Helping Hand | 11.00% | ~147 |
+| Neighborhood Revitalization | 14.00% | ~188 |
+| Radio Silence | 14.00% | ~188 |
+| You Clean It Up | 11.00% | ~148 |
+| Helping Hand | 11.00% | ~148 |
 | Starve the Beast | 9.00% | ~121 |
 | Block Party | 7.00% | ~94 |
 | From the Shadows | 4.00% | ~54 |
+| Revelations | 3.00% | ~40 |
 | Bell-ringer | 3.00% | ~40 |
 | Right This Way | 3.00% | ~40 |
 | Nice Try | 3.00% | ~40 |
-| Revelations | 2.00% | ~27 |
 | Contingency Plans | 2.00% | ~27 |
 | Scream Team | 2.00% | ~27 |
 | Blood Brother | 2.00% | ~27 |
@@ -71,7 +71,7 @@
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,339 (Ranked 152)  
+Progressed: 1,342 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-03 | 1,021 | 0 |
 | 2023-05-04 | 1,164 | 0 |
 | 2023-05-05 | 1,266 | 0 |
-| 2023-05-06 | 1,339 | 0 |
+| 2023-05-06 | 1,342 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

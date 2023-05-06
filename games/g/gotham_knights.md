@@ -5,11 +5,11 @@ Rating: 4.17 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Protector of Gotham | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
 | End of an Era | 0.20% | ~121 |
 | In Your Element | 0.20% | ~121 |
-| Protector of Gotham | 0.20% | ~121 |
 | Something in the Clay | 0.20% | ~121 |
 | The Show Mud Go On | 0.20% | ~121 |
 | Rock and a Hard Place | 0.20% | ~121 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 828)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,672 (Ranked 66)  
+Progressed: 60,673 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 89 (0.15%) (Ranked 140)
 | 2023-05-03 | 60,606 | 89 |
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,646 | 89 |
-| 2023-05-06 | 60,672 | 89 |
+| 2023-05-06 | 60,673 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,193  (Ranked 99)  
 Sum: 3,626 (Ranked 138)  

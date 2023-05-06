@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,875 |
-| Jeef Skeejj | 44.00% | ~201,250 |
-| Careful planning | 39.00% | ~178,381 |
-| Second Coming | 33.00% | ~150,938 |
-| Jeef Skagg | 30.00% | ~137,216 |
-| Mother | 25.00% | ~114,347 |
-| In space, no one can hear you scream | 23.00% | ~105,199 |
-| Chapter I: Echoes | 22.00% | ~100,625 |
-| Excelsior Rule | 22.00% | ~100,625 |
-| Things persisted in not being what they seemed | 20.00% | ~91,477 |
+| The Shutdown | 66.00% | ~301,877 |
+| Jeef Skeejj | 44.00% | ~201,252 |
+| Careful planning | 39.00% | ~178,382 |
+| Second Coming | 33.00% | ~150,939 |
+| Jeef Skagg | 30.00% | ~137,217 |
+| Mother | 25.00% | ~114,348 |
+| In space, no one can hear you scream | 23.00% | ~105,200 |
+| Chapter I: Echoes | 22.00% | ~100,626 |
+| Excelsior Rule | 22.00% | ~100,626 |
+| Things persisted in not being what they seemed | 20.00% | ~91,478 |
 | Knightmare Frames | 15.00% | ~68,608 |
 | May His passing cleanse the world | 15.00% | ~68,608 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,608 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,443 |
 | The Crazy Repairman | 6.00% | ~27,443 |
 | The Weasel | 6.00% | ~27,443 |
-| Kill the Doctor | 5.00% | ~22,869 |
-| Forsaken | 5.00% | ~22,869 |
-| Mercy | 5.00% | ~22,869 |
-| Jericho Rule | 5.00% | ~22,869 |
+| Kill the Doctor | 5.00% | ~22,870 |
+| Forsaken | 5.00% | ~22,870 |
+| Mercy | 5.00% | ~22,870 |
+| Jericho Rule | 5.00% | ~22,870 |
 | Geno Rule | 3.00% | ~13,722 |
 | Hammer Rule | 3.00% | ~13,722 |
 | Survivor | 2.00% | ~9,148 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,387 (Ranked 28)  
+Progressed: 457,390 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 14 (0.00%) (Ranked 192)
 | 2023-05-03 | 457,187 | 14 |
 | 2023-05-04 | 457,255 | 14 |
 | 2023-05-05 | 457,303 | 14 |
-| 2023-05-06 | 457,387 | 14 |
+| 2023-05-06 | 457,390 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 252)  
 Sum: 209 (Ranked 347)  

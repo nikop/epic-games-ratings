@@ -4,8 +4,8 @@
   "ProductSlug": "rice-d1b792",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-05-04T06:00:36.8272406+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-05-04T06:00:36.8272403+00:00",
   "LastChanged": "2023-05-04T06:00:36.8272403+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:25.5419358+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:02:04.8328182+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:06:23.2709519+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:02:11.7616887+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:06:31.1284658+00:00"
 }

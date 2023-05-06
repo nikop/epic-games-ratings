@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.29,
   "RatingHistory": [
     {
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,6 +154,11 @@
     {
       "Time": "2023-05-06T18:06:51.5646781+00:00",
       "NumProgressed": 738,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T22:06:48.8672971+00:00",
+      "NumProgressed": 739,
       "NumCompleted": 0
     }
   ],
@@ -348,9 +353,9 @@
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "GOLDMASTER",
@@ -364,9 +369,9 @@
       "ID": "PREVENTRIOT",
       "SetID": "6ohhfoc",
       "Name": "Hear me out",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 30
     },
     {
       "ID": "RUIN_CLEAR",
@@ -390,7 +395,7 @@
       "Name": "We made it",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -525,7 +530,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 0
     }
   ],
@@ -533,8 +538,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-06T21:06:41.1052608+00:00",
+  "LastChanged_Achievements": "2023-05-06T22:06:48.8672963+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:59:13.055641+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:06:41.1053238+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:59:22.0950165+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:06:48.8673374+00:00"
 }

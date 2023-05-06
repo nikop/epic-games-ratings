@@ -4,11 +4,11 @@
   "ProductSlug": "armored-warfare",
   "Ranking_Rating": 849,
   "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.12,
   "NumberOfRatings": 458,
   "RatingHistory": [
@@ -964,10 +964,16 @@
       "Rating": 4.12,
       "NumberOfAwards": 574,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-05-06T22:01:45.4583687+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 575,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 574,
+  "NumberOfAwards": 575,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -981,7 +987,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1043,8 +1049,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-05-06T18:01:56.1234092+00:00",
+  "LastChanged": "2023-05-06T22:01:45.4583682+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.4584348+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:01:38.8733827+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:06:04.0547188+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:01:45.4583692+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:06:12.2268304+00:00"
 }

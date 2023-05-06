@@ -1,7 +1,7 @@
 # Conarium
 [Store](https://store.epicgames.com/en-US/p/conarium)  
 [View Rawdata](../../db/c/conarium.json)  
-Rating: 3.91 (Ranked 897)  
+Rating: 3.92 (Ranked 893)  
 Number of Ratings: 53  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -48,3 +48,4 @@ Number of Ratings: 53  (23.09.2022)
 | 2023-03-01 | 3.93 | - | - | - |
 | 2023-03-14 | 3.91 | - | - | - |
 | 2023-03-31 | 3.91 | - | 0 | 0 |
+| 2023-05-06 | 3.92 | - | 0 | 0 |

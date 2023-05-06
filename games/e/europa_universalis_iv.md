@@ -6,40 +6,40 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,792 |
-| That's a Grand Army | 8.00% | ~2,482 |
-| That is mine! | 8.00% | ~2,482 |
-| Victorious! | 8.00% | ~2,482 |
-| Brothers in Arms | 6.00% | ~1,862 |
-| That's a Grand Navy | 6.00% | ~1,862 |
-| Seriously?! | 6.00% | ~1,862 |
-| For the Glory | 5.00% | ~1,551 |
-| Cold War | 4.00% | ~1,241 |
-| True Catholic | 4.00% | ~1,241 |
-| Defender of the Faith | 3.00% | ~931 |
-| It's all about the money | 3.00% | ~931 |
-| Respected | 3.00% | ~931 |
-| Blockader | 2.00% | ~620 |
-| Combined Arms | 2.00% | ~620 |
-| Double the Love | 2.00% | ~620 |
-| Gentle Persuasion | 2.00% | ~620 |
-| It's all about luck | 2.00% | ~620 |
-| Queen of Conquest | 2.00% | ~620 |
-| Royal Authority | 2.00% | ~620 |
-| The Princess is in this Castle | 2.00% | ~620 |
-| Total Control | 2.00% | ~620 |
-| Truly Divine Ruler | 2.00% | ~620 |
-| Agressive Expander | 1.00% | ~310 |
-| Azur semé de lis or | 1.00% | ~310 |
-| Bright Spark | 1.00% | ~310 |
-| Factionalism | 1.00% | ~310 |
-| A Golden Empire | 1.00% | ~310 |
-| My armies are invincible! | 1.00% | ~310 |
-| All That's Thine Shall Be Mine | 0.90% | ~279 |
-| City of Cities | 0.90% | ~279 |
-| Isn't this the way to India? | 0.70% | ~217 |
-| Market Control | 0.70% | ~217 |
-| The Five Colonies | 0.70% | ~217 |
+| Until death do us apart | 9.00% | ~2,797 |
+| That's a Grand Army | 8.00% | ~2,486 |
+| That is mine! | 8.00% | ~2,486 |
+| Victorious! | 8.00% | ~2,486 |
+| Brothers in Arms | 6.00% | ~1,865 |
+| That's a Grand Navy | 6.00% | ~1,865 |
+| Seriously?! | 6.00% | ~1,865 |
+| For the Glory | 5.00% | ~1,554 |
+| Cold War | 4.00% | ~1,243 |
+| True Catholic | 4.00% | ~1,243 |
+| Defender of the Faith | 3.00% | ~932 |
+| It's all about the money | 3.00% | ~932 |
+| Respected | 3.00% | ~932 |
+| Blockader | 2.00% | ~622 |
+| Combined Arms | 2.00% | ~622 |
+| Double the Love | 2.00% | ~622 |
+| Gentle Persuasion | 2.00% | ~622 |
+| It's all about luck | 2.00% | ~622 |
+| Queen of Conquest | 2.00% | ~622 |
+| Royal Authority | 2.00% | ~622 |
+| The Princess is in this Castle | 2.00% | ~622 |
+| Total Control | 2.00% | ~622 |
+| Truly Divine Ruler | 2.00% | ~622 |
+| Agressive Expander | 1.00% | ~311 |
+| Azur semé de lis or | 1.00% | ~311 |
+| Bright Spark | 1.00% | ~311 |
+| Factionalism | 1.00% | ~311 |
+| A Golden Empire | 1.00% | ~311 |
+| My armies are invincible! | 1.00% | ~311 |
+| All That's Thine Shall Be Mine | 0.90% | ~280 |
+| City of Cities | 0.90% | ~280 |
+| Isn't this the way to India? | 0.70% | ~218 |
+| Market Control | 0.70% | ~218 |
+| The Five Colonies | 0.70% | ~218 |
 | The Emperors new clothes | 0.60% | ~186 |
 | This navy can take it all | 0.60% | ~186 |
 | Down Under | 0.50% | ~155 |
@@ -55,6 +55,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Absolutely | 0.30% | ~93 |
 | All Your Trade Are Belong to Us | 0.30% | ~93 |
 | Dude, Where's my Boat? | 0.30% | ~93 |
+| Four For Trade | 0.30% | ~93 |
 | Grand Coalition | 0.30% | ~93 |
 | In the Name of the Father | 0.30% | ~93 |
 | Live Long and Prosper | 0.30% | ~93 |
@@ -69,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Pile of Gold | 0.20% | ~62 |
 | AAA Credit | 0.20% | ~62 |
 | Bleed Them Dry | 0.20% | ~62 |
-| Four For Trade | 0.20% | ~62 |
 | Global Hegemony | 0.20% | ~62 |
 | Grand Duchy | 0.20% | ~62 |
 | Imperio español | 0.20% | ~62 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,025 (Ranked 81)  
+Progressed: 31,081 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-03 | 28,808 | 0 |
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
-| 2023-05-06 | 31,025 | 0 |
+| 2023-05-06 | 31,081 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,857 (Ranked 26)  

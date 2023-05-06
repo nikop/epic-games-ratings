@@ -15,6 +15,7 @@ Rating: 4.54 (Ranked 476)
 | Ready for a New World | 0.30% | ~6 |
 | Ain't Nobody Got Time for That | 0.30% | ~6 |
 | Convenient Transport | 0.30% | ~6 |
+| Mutual Loyalty | 0.20% | ~4 |
 | Infinite Growth... | 0.20% | ~4 |
 | Guy de Borderlands | 0.20% | ~4 |
 | Space Society | 0.20% | ~4 |
@@ -25,7 +26,6 @@ Rating: 4.54 (Ranked 476)
 | Please Make it Stop! | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
-| Mutual Loyalty | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
 | What They Hide From Us | 0.10% | ~2 |

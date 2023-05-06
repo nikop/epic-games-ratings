@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.18,
   "NumberOfRatings": 429,
   "RatingHistory": [
@@ -732,9 +732,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5531,
+  "EOS_Progressed": 5532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1617,6 +1617,11 @@
       "Time": "2023-05-06T21:06:43.9070214+00:00",
       "NumProgressed": 5531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-06T22:06:51.550495+00:00",
+      "NumProgressed": 5532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -1692,7 +1697,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -1732,7 +1737,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4369
+      "UsersEstimate": 4370
     },
     {
       "ID": "First_Race_Met",
@@ -1740,7 +1745,7 @@
       "Name": "First Contact",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "First_Ship_Designed",
@@ -1764,7 +1769,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -1948,7 +1953,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -1964,7 +1969,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "War_Without_Translator",
@@ -2124,7 +2129,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Win_Conquest",
@@ -2203,15 +2208,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5531,
+      "Progressed": 5532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-06T21:06:43.9070209+00:00",
+  "LastChanged_Achievements": "2023-05-06T22:06:51.5504946+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:58:48.6120203+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:06:43.9071074+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:58:57.4083675+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:06:51.5505713+00:00"
 }

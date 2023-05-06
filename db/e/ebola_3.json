@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:00:42.6973794+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -693,9 +693,9 @@
       "ID": "achDictator",
       "SetID": "72gjli4",
       "Name": "Boss 2 \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achDog",
@@ -966,8 +966,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-06T21:07:36.7937977+00:00",
+  "LastChanged_Achievements": "2023-05-06T22:07:44.3550994+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-06T21:01:59.1683915+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:07:36.7938747+00:00"
+  "LastUpdate_Ratings": "2023-05-06T22:02:06.1177191+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:07:44.3551551+00:00"
 }

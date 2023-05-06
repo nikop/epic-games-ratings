@@ -2,14 +2,14 @@
   "ID": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
   "Name": "Conarium",
   "ProductSlug": "conarium",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 893,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 75,
-  "Rating": 3.91,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 74,
+  "Rating": 3.92,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -204,6 +204,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-06T21:59:38.338713+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -221,8 +227,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.4733415+00:00",
-  "LastChanged": "2023-03-31T05:58:02.4623465+00:00",
+  "LastChanged": "2023-05-06T21:59:38.3387126+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.1047045+00:00",
-  "LastUpdate_Ratings": "2023-05-06T20:59:29.0802386+00:00",
-  "LastUpdate_Achievements": "2023-05-06T21:02:55.1781273+00:00"
+  "LastUpdate_Ratings": "2023-05-06T21:59:38.3387135+00:00",
+  "LastUpdate_Achievements": "2023-05-06T22:03:03.4108581+00:00"
 }
